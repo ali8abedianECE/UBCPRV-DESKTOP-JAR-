@@ -80,6 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - UBC CPEN 221 course for providing the foundational Java knowledge
 - UBCGrades for providing historical grade data
 - RateMyProfessors for professor rating information
+- Some Usage of AI. 
 
 ## 📞 Support
 
