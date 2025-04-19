@@ -81,7 +81,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - UBCGrades for providing historical grade data
 - RateMyProfessors for professor rating information
 - Some Usage of AI. 
-
-## 📞 Support
-
-If you encounter any issues or have questions, please [open an issue](https://github.com/mohammadaliabedian/UBCPRV/issues) on the GitHub repository.
