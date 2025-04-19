@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,ECON,527,,001,ECONOMETRIC METH,"Green, David",63,75.68,12.13,98,44,60,2,1,0,0,0,0,0,0,2,2,0,0,9,1,8,15,4,5,7,11,,,
+UBC,2002,W,ECON,628,C,003,TPCS APP ECON I,"Green, David",12,89,7.6,97,75,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,7,,,
+UBC,2003,W,ECON,226,,001,ECON DATA,"Green, David",47,68.8,12.21,96,45,44,1,1,0,1,0,0,0,0,1,1,4,3,11,5,4,4,1,7,2,3,,,
+UBC,2003,W,ECON,628,C,003,TPCS APP ECON I,"Green, David",9,88.11,6.94,94,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,,,
+UBC,2005,W,ECON,490,,003,APPLIED ECON,"Green, David",21,81.95,8.83,96,65,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,1,5,4,5,,,
+UBC,2006,W,ECON,560,,001,LABOUR ECONOMICS,"Green, David",6,92,0,92,92,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+UBC,2009,W,ECON,226,,001,ECON DATA,"Green, David",61,70.19,13.4,97,38,55,4,2,0,0,0,0,0,1,3,4,4,4,3,6,8,8,5,9,5,3,,,
+UBC,2009,W,ECON,628,,001,TPCS APP ECON I,"Green, David",13,85.38,7.27,98,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,4,,,
+UBC,2011,W,ECON,226,,001,ECON DATA,"Green, David",45,72.39,12.43,94,50,44,0,1,0,0,0,0,0,0,0,0,6,2,3,3,6,8,1,5,6,4,,,
+UBC,2012,W,ECON,561,,001,INDUSTRIAL RELAT,"Green, David",20,84.37,11.22,95,47,18,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,4,3,9,,,
+UBC,2013,W,ECON,490,,013,APPLIED ECON,"Green, David",19,81.63,8.41,93,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,5,3,5,,,
+UBC,2013,W,ECON,561,,001,INDUSTRIAL RELAT,"Green, David",12,84.75,4.97,90,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,1,,,
+UBC,2014,W,ECON,328,,001,MTHDS EMPIR RSRC,"Green, David",86,73.84,11.86,96,35,85,1,0,0,0,0,0,0,1,0,1,4,1,11,11,9,9,7,16,8,9,,,
+UBC,2014,W,ECON,490,,013,APPLIED ECON,"Green, David",20,81,9.94,95,57,20,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,1,3,5,5,,,
+UBC,2014,W,ECON,560,,001,LABOUR ECONOMICS,"Green, David",9,93.33,1.15,94,92,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,,,
+UBC,2015,W,ECON,328,,001,MTHDS EMPIR RSRC,"Green, David",77,73.04,12.05,96,39,74,3,0,0,0,0,0,0,1,2,3,2,3,6,9,10,7,13,11,6,7,,,
+UBC,2015,W,ECON,490,,013,APPLIED ECON,"Green, David",18,80.44,11.31,95,41,17,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,2,8,4,2,,,
+UBC,2015,W,ECON,560,,001,LABOUR ECONOMICS,"Green, David",11,86.86,5.81,94,77,7,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,,,
+UBC,2016,W,ECON,317,,002,POVERTY&INEQALTY,"Green, David",94,75.87,10.01,96,53,93,0,1,0,0,0,0,0,0,0,0,1,1,12,7,10,17,5,21,10,9,,,
+UBC,2016,W,ECON,328,,001,MTHDS EMPIR RSRC,"Green, David",87,76.26,10.24,96,34,86,1,0,0,0,0,0,0,1,0,1,1,3,2,7,9,15,12,22,7,8,,,
+UBC,2017,W,ECON,317,,002,POVERTY&INEQALTY,"Green, David",81,78.09,10.99,96,50,79,0,2,0,0,0,0,0,0,0,0,2,2,7,2,6,11,6,18,13,12,,,
+UBCV,2014,W,ECON,328,,001,Methods of Empirical Research,David Green,86,73.8372093,11.8637961,96.0,35.0,,,,,,,,,,,,,,11,11,9,9,7,16,8,9,,,
+UBCV,2014,W,ECON,490,,013,Seminar in Applied Economics,David Green,20,81.0,9.93664139,95.0,57.0,,,,,,,,,,,0,0,,,,,,,,5,5,,,
+UBCV,2015,W,ECON,328,,001,Methods of Empirical Research,David Green,77,73.038961039,12.050815171,96.0,39.0,,,,,,,,,,,,,,6,9,10,7,13,11,6,7,,,
+UBCV,2015,W,ECON,490,,013,Seminar in Applied Economics,David Green,18,80.444444444,11.314863843,95.0,41.0,,,,,,,,,,,,,,,,,,,8,,,,,
+UBCV,2015,W,ECON,560,,001,Economics of Labour,David Green,7,86.857142857,5.814595756,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2016,W,ECON,317,,002,Poverty and Inequality,David Green;Rongxian Lin,93,75.87096774,10.00785106,96.0,53.0,,,,,,,,,,,0,1,1,12,7,10,17,5,21,10,9,,,
+UBCV,2016,W,ECON,328,,001,Methods of Empirical Research,David Green;Matthew Courchene,87,76.26436782,10.24406779,96.0,34.0,,,,,,,,,,,1,1,3,2,7,9,15,12,22,7,8,,,
+UBCV,2017,W,ECON,317,,002,Poverty and Inequality,David Green;Yingyi Liang,79,78.088607595,10.988560338,96.0,50.0,,,,,,,,,,,0,2,2,7,2,6,11,6,18,13,12,,,
+UBCV,2017,W,ECON,334,,002,Economic History of Modern Europe,Catherine Douglas;David Gonzalez Agudo;David Green;Marcelo Sacchi De Carvalho;Vadim Marmer,85,79.976470588,16.51476718,99.0,0.0,,,,,,,,,,,2,3,0,3,1,7,7,8,13,16,25,,,
+UBCV,2017,W,ECON,560,,001,Economics of Labour,David Green;Florian Hoffmann,9,85.777777778,23.279700265,97.0,24.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,1,7,,,
+UBCV,2018,W,ECON,101,,VM1,Principles of Microeconomics,David Green;Emrul Hasan;Yu Hung Yaow,24,68.875,19.348772571,95.0,0.0,,,,,,,,,,,2,1,1,2,3,3,1,6,1,3,1,,,
+UBCV,2018,W,ECON,317,,002,Poverty and Inequality,David Green;Jackie Lam;Nicole Fortin;Pablo Antonio Gutierrez Cubillos;Pablo Gutierrez Cubillos,88,80.056818182,5.193625524,91.0,66.0,,,,,,,,,,,0,0,0,0,1,4,11,21,36,11,4,,,
+UBCV,2018,W,ECON,364,A,001,"The Economics of Sustainable Development: Communities, Markets and Technology",Ahmad Abu Omar;Catherine Douglas;David Green;Vinicius Rodrigues Pecanha,29,82.275862069,6.896668718,93.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,2,11,5,6,,,
+UBCV,2020,W,ECON,317,,002,Poverty and Inequality,David Green;Ellen Munroe;Nicole Fortin,89,75.685393258,9.71479133,91.0,24.0,,,,,,,,,,,1,1,2,2,5,11,17,14,22,11,3,,,
+UBCV,2020,W,ECON,326,,005,Methods of Empirical Research in Economics,David Green;Ellen Munroe;Yoram Halevy,74,73.675675676,12.07182626,95.0,27.0,,,,,,,,,,,2,2,4,3,11,6,15,5,11,10,5,,,
+UBCV,2020,W,ECON,490,,010,Seminar in Applied Economics,David Green;Jamie Emery;Marina Adshade;Yige Duan,44,81.363636364,14.378748707,95.0,0.0,,,,,,,,,,,1,0,0,0,1,2,3,3,18,6,10,,,
+UBCV,2021,W,ECON,317,,002,Poverty and Inequality,David Green;Gabriela Diniz,98,77.87755102,12.079005648,97.0,32.0,,,,,,,,,,,1,3,3,4,5,14,9,8,23,6,22,,,
+UBCV,2021,W,ECON,326,,005,Methods of Empirical Research in Economics,David Green;Thorsten Rogall;Yige Duan,81,67.481481481,18.324240169,96.0,0.0,,,,,,,,,,,6,6,5,9,5,11,15,8,5,4,7,,,
+UBCV,2021,W,ECON,561,,001,Topics in Industrial Relations,David Green;Nicole Fortin,14,81.5,12.062338082,98.0,55.0,,,,,,,,,,,0,0,,,,1,3,2,,2,5,,,
+UBCV,2021,W,ECON,317,,002,Poverty and Inequality,David Green,98,77.9,,97.0,32.0,,,,,,,,,,,,,,,,14,9,8,23,6,22,80.0,86.0,71.0
+UBCV,2021,W,ECON,326,,005,Methods of Empirical Research in Economics,David Green,80,68.5,,96.0,0.0,,,,,,,,,,,,6,,9,,11,15,8,,,7,71.0,77.0,61.0
+UBCV,2021,W,ECON,561,,001,Topics in Industrial Relations,David Green,14,83.9,,98.0,70.0,,,,,,,,,,,,,,,,,,,,,,86.5,90.8,74.8
+UBCV,2022,W,ECON,317,,002,Poverty and Inequality,David Green,92,77.8,,95.0,25.0,,,,,,,,,,,2,1,2,2,7,7,8,15,22,16,10,80.0,85.0,73.8
+UBCV,2022,W,ECON,562,,001,Research Design and Policy Evaluation in Economics,David Green,17,85.2,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,0,4,5,5,85.0,91.0,81.0
+UBCV,2023,W,ECON,317,,002,Poverty and Inequality,David Green,89,81.7,,98.0,39.0,,,,,,,,,,,1,0,0,3,2,5,8,16,15,20,19,83.0,88.0,77.0
+UBCV,2023,W,ECON,560,,001,Economics of Labour I,David Green,12,89.7,,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,6,91.0,91.0,88.0

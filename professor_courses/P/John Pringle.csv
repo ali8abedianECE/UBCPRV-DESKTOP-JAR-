@@ -1,0 +1,78 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,LLED,200,,008,INTRO ACAD WRIT,"Pringle, John",5,64.2,27.25,85,25,3,2,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,2,1,0,,,
+UBC,2016,W,LLED,200,,V10,INTRO ACAD WRIT,"Pringle, John",14,58.93,19.12,80,0,12,2,0,0,0,1,0,0,0,1,2,1,2,3,1,2,2,0,1,0,0,,,
+UBC,2016,W,LLED,201,,V91,CRIT READ&WRIT,"Pringle, John",15,64.13,7.74,77,52,15,0,0,0,0,0,0,0,0,0,0,2,3,1,4,2,2,1,0,0,0,,,
+UBC,2016,W,LLED,201,,V92,CRIT READ&WRIT,"Pringle, John",14,64.31,6.77,75,53,13,0,1,0,0,0,0,0,0,0,0,1,3,1,3,3,2,0,0,0,0,,,
+UBC,2017,W,LLED,200,,VE1,INTRO ACAD WRIT,"Pringle, John",14,63.57,12.2,84,42,12,2,0,0,0,0,0,0,0,2,2,2,1,1,1,2,4,0,1,0,0,,,
+UBC,2017,W,LLED,200,,VE7,INTRO ACAD WRIT,"Pringle, John",15,62.4,9.46,76,41,14,1,0,0,0,0,0,0,0,1,1,1,4,3,2,1,0,3,0,0,0,,,
+UBC,2017,W,LLED,201,,VE1,CRIT READ&WRIT,"Pringle, John",13,68.38,11.89,90,40,12,1,0,0,0,0,0,0,0,1,1,1,0,1,0,5,3,1,0,0,1,,,
+UBC,2017,W,LLED,201,,VE6,CRIT READ&WRIT,"Pringle, John",15,66.73,13.32,85,34,14,1,0,0,0,0,0,0,1,0,1,2,0,1,4,1,2,2,1,1,0,,,
+UBC,2017,W,VANT,140,D,VE4,CONTENT LANG TUT,"Pringle, John",24,75.46,7.38,84,54,24,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,3,9,7,0,0,,,
+UBC,2018,W,LLED,200,,VE6,INTRO ACAD WRIT,"Pringle, John",11,65.64,9.03,76,45,10,1,0,0,0,0,0,0,0,1,1,0,1,1,2,4,1,1,0,0,0,,,
+UBC,2018,W,LLED,200,,VE7,INTRO ACAD WRIT,"Pringle, John",14,69.31,4.53,77,63,13,0,1,0,0,0,0,0,0,0,0,0,0,3,1,5,3,1,0,0,0,,,
+UBC,2018,W,LLED,201,,VE6,CRIT READ&WRIT,"Pringle, John",11,74.45,9.29,86,52,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,1,3,1,0,,,
+UBC,2018,W,LLED,201,,VE7,CRIT READ&WRIT,"Pringle, John",13,73.92,7.11,86,64,13,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,1,1,2,0,,,
+UBC,2018,W,VANT,140,D,VE3,CONTENT LANG TUT,"Pringle, John",18,73.56,5.88,83,54,18,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,11,1,2,0,0,,,
+UBCV,2016,W,LLED,200,,V10,Introduction to Writing in Academic and Professional Registers,Brett Todd;John Pringle;Sandra Zappa,14,58.92857143,19.12495062,80.0,0.0,,,,,,,,,,,2,1,2,3,1,2,2,0,1,0,0,,,
+UBCV,2016,W,LLED,201,,V91,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,15,64.13333333,7.744737076,77.0,52.0,,,,,,,,,,,0,2,3,1,4,2,2,1,0,0,0,,,
+UBCV,2016,W,LLED,201,,V92,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,64.30769231,6.774764638,75.0,53.0,,,,,,,,,,,0,1,3,1,3,3,2,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,14,63.571428571,12.201603209,84.0,42.0,,,,,,,,,,,2,2,1,1,1,2,4,0,1,0,0,,,
+UBCV,2017,W,LLED,200,,VE7,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,15,62.4,9.462708764,76.0,41.0,,,,,,,,,,,1,1,4,3,2,1,0,3,0,0,0,,,
+UBCV,2017,W,LLED,201,,VE1,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,68.384615385,11.892143496,90.0,40.0,,,,,,,,,,,1,1,0,1,0,5,3,1,0,0,1,,,
+UBCV,2017,W,LLED,201,,VE6,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,15,66.733333333,13.317371398,85.0,34.0,,,,,,,,,,,1,2,0,1,4,1,2,2,1,1,0,,,
+UBCV,2017,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa,24,72.375,5.182013206,82.0,60.0,,,,,,,,,,,0,0,0,1,3,6,8,4,2,0,0,,,
+UBCV,2017,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa,22,72.818181818,9.429620826,85.0,35.0,,,,,,,,,,,1,0,0,0,1,3,8,8,0,1,0,,,
+UBCV,2017,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa,18,71.277777778,6.488048338,80.0,56.0,,,,,,,,,,,0,0,2,0,0,6,5,4,1,0,0,,,
+UBCV,2017,W,VANT,140,D,VE4,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa,24,75.458333333,7.38376107,84.0,54.0,,,,,,,,,,,0,1,0,1,2,1,3,9,7,0,0,,,
+UBCV,2018,W,LLED,200,,VE6,Introduction to Writing in Academic and Professional Registers,John Pringle;Natalia Balyasnikova;Sandra Zappa,11,65.636363636,9.025217197,76.0,45.0,,,,,,,,,,,1,0,1,1,2,4,1,1,0,0,0,,,
+UBCV,2018,W,LLED,200,,VE7,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,69.307692308,4.534765988,77.0,63.0,,,,,,,,,,,0,0,0,3,1,5,3,1,0,0,0,,,
+UBCV,2018,W,LLED,201,,VE6,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,74.454545455,9.288311325,86.0,52.0,,,,,,,,,,,0,1,0,0,0,2,3,1,3,1,0,,,
+UBCV,2018,W,LLED,201,,VE7,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,73.923076923,7.111745431,86.0,64.0,,,,,,,,,,,0,0,0,0,3,3,3,1,1,2,0,,,
+UBCV,2018,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alfredo Ferreira;Alys Avalos Rivera;Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Aubrey Leveridge;Celina Berg;Celina Gay Berg;Fatimah Mahmood;Fok-Shuen Leung;John Pringle;Sandra Zappa,18,71.944444444,4.42549063,80.0,65.0,,,,,,,,,,,0,0,0,0,4,5,5,3,1,0,0,,,
+UBCV,2018,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Brett Todd;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa;Vladan Zoran Prodanovic,17,73.352941176,3.888141852,79.0,63.0,,,,,,,,,,,0,0,0,1,0,4,7,5,0,0,0,,,
+UBCV,2018,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Aubrey Leveridge;Brett Todd;Celina Berg;Celina Gay Berg;Fatimah Mahmood;John Pringle;Sandra Zappa,18,73.555555556,5.8833986,83.0,54.0,,,,,,,,,,,0,1,0,0,0,3,11,1,2,0,0,,,
+UBCV,2018,W,VANT,140,D,VE4,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Aubrey Leveridge;Brett Todd;Celina Berg;Celina Gay Berg;Fatimah Mahmood;Jennifer Lightfoot;John Pringle;Sandra Zappa,16,74.5625,4.178815622,80.0,67.0,,,,,,,,,,,0,0,0,0,1,3,5,5,2,0,0,,,
+UBCV,2019,W,LLED,200,,VE3,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,18,75.777777778,5.185449729,87.0,64.0,,,,,,,,,,,0,0,0,0,1,1,7,4,4,1,0,,,
+UBCV,2019,W,LLED,200,,VE4,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,18,75.0,6.352396491,86.0,65.0,,,,,,,,,,,0,0,0,0,2,4,4,3,3,2,0,,,
+UBCV,2019,W,LLED,201,,V94,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,15,76.533333333,8.601218075,91.0,63.0,,,,,,,,,,,0,0,0,1,2,1,3,2,3,2,1,,,
+UBCV,2019,W,LLED,201,,VE3,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,14,75.785714286,6.919076989,87.0,61.0,,,,,,,,,,,0,0,0,1,1,1,3,3,4,1,0,,,
+UBCV,2019,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Farhad Jafari;Fatimah Mahmood;John Pringle;Naga Raghavendra Koppisetti;Sandra Zappa,23,77.260869565,3.633398,83.0,68.0,,,,,,,,,,,0,0,0,0,0,2,5,9,7,0,0,,,
+UBCV,2019,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Farhad Jafari;Fatimah Mahmood;John Pringle;Naga Raghavendra Koppisetti;Sandra Zappa,23,79.304347826,5.147239177,86.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,5,13,1,0,,,
+UBCV,2019,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Farhad Jafari;Fatimah Mahmood;John Pringle;Naga Raghavendra Koppisetti;Sandra Zappa,18,78.166666667,4.355523876,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,7,3,7,1,0,,,
+UBCV,2020,W,LLED,200,,V91,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa;Won Kim,17,65.823529412,18.635434306,82.0,0.0,,,,,,,,,,,1,1,1,1,2,4,4,2,1,0,0,,,
+UBCV,2020,W,LLED,200,,V93,Introduction to Writing in Academic and Professional Registers,Amber Shaw;John Pringle;Sandra Zappa,15,60.866666667,22.617523758,94.0,3.0,,,,,,,,,,,3,0,2,2,2,2,0,2,0,1,1,,,
+UBCV,2020,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,15,68.2,25.462016529,86.0,0.0,,,,,,,,,,,2,0,0,0,1,0,4,2,4,2,0,,,
+UBCV,2020,W,LLED,201,,V93,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Nasrin Kowkabi;Sandra Zappa,16,80.125,7.135591543,91.0,67.0,,,,,,,,,,,0,0,0,0,1,0,4,2,4,4,1,,,
+UBCV,2020,W,LLED,201,,VE1,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,14,75.857142857,22.076291295,89.0,2.0,,,,,,,,,,,1,0,0,0,0,1,2,2,2,6,0,,,
+UBCV,2020,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Daniel Riccardi;John Pringle;Juan Abello Rubio;Katherine Lyon;Sandra Zappa;Siobhan Mcphee,21,72.0,9.396807969,84.0,45.0,,,,,,,,,,,1,0,1,2,0,2,7,5,3,0,0,,,
+UBCV,2020,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Jennifer Lightfoot;John Pringle;Juan Abello Rubio;Sandra Zappa;Siobhan Mcphee,29,69.724137931,9.149147313,79.0,43.0,,,,,,,,,,,2,1,0,1,5,3,9,8,0,0,0,,,
+UBCV,2020,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Fatimah Mahmood;John Pringle;Katherine Lyon;Mike Murphy;Sandra Zappa,29,80.0,4.720774755,87.0,66.0,,,,,,,,,,,0,0,0,0,1,0,4,7,11,6,0,,,
+UBCV,2020,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Fatimah Mahmood;Georg Rieger;John Pringle;Katherine Lyon;Mike Murphy;Priya Lekhi;Sandra Zappa,17,74.764705882,7.352970588,86.0,57.0,,,,,,,,,,,0,0,1,1,0,1,7,2,4,1,0,,,
+UBCV,2021,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,Genna Cohen;John Pringle;Sandra Zappa,11,78.545454545,9.993634338,90.0,53.0,,,,,,,,,,,0,1,0,0,0,0,2,2,3,2,1,,,
+UBCV,2021,W,LLED,200,,VE2,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,78.846153846,6.780439438,86.0,67.0,,,,,,,,,,,0,0,0,0,2,0,1,4,2,4,0,,,
+UBCV,2021,W,LLED,201,,VE3,Critical Reading and Writing in Academic and Professional Registers,Genna Cohen;John Pringle;Sandra Zappa,12,64.583333333,25.503861858,87.0,3.0,,,,,,,,,,,2,0,0,0,0,5,1,1,1,2,0,,,
+UBCV,2021,W,LLED,201,,VE5,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,77.090909091,10.367782265,91.0,58.0,,,,,,,,,,,0,0,1,1,0,1,1,3,0,3,1,,,
+UBCV,2021,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Walsh Marr;John Pringle;Sandra Zappa,19,72.105263158,12.943873441,91.0,33.0,,,,,,,,,,,1,1,0,1,2,2,4,3,3,1,1,,,
+UBCV,2021,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Daniel Riccardi;Jennifer Walsh Marr;Jodie Martin;John Pringle;Sandra Zappa,17,78.529411765,4.784318748,83.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,5,9,0,0,,,
+UBCV,2021,W,VANT,140,D,V01,Content and Language Enrichment Tutorials,Gabriel Potvin;Jodie Martin;John Pringle;Sandra Zappa,9,84.222222222,7.710022337,91.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,3,3,,,
+UBCV,2021,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Daniel Riccardi;Fatimah Mahmood;Gabriel Potvin;Jodie Martin;John Pringle;Mingjun Wang;Naga Raghavendra Koppisetti;Pedro Dos Santos;Sandra Zappa,21,77.428571429,7.201190378,83.0,59.0,,,,,,,,,,,0,0,1,1,1,0,4,0,14,0,0,,,
+UBCV,2021,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Christopher Gradin;Emrul Hasan;Fatimah Mahmood;Jodie Martin;John Pringle;Mingjun Wang;Naga Raghavendra Koppisetti;Pedro Dos Santos;Sandra Zappa,16,77.5,7.949842766,86.0,58.0,,,,,,,,,,,0,0,1,0,1,1,1,5,4,3,0,,,
+UBCV,2021,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Fatimah Mahmood;John Pringle;Mingjun Wang;Naga Raghavendra Koppisetti;Pedro Dos Santos;Sandra Zappa,18,78.833333333,8.089572082,88.0,51.0,,,,,,,,,,,0,1,0,0,0,1,2,2,10,2,0,,,
+UBCV,2021,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,78.5,,90.0,53.0,,,,,,,,,,,,,,,,,,,,,,81.0,84.5,75.5
+UBCV,2021,W,LLED,200,,VE2,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,13,78.8,,86.0,67.0,,,,,,,,,,,,,,,,,,,,,,78.0,85.0,77.0
+UBCV,2021,W,LLED,201,,VE3,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,12,64.6,,87.0,3.0,,,,,,,,,,,,,,,,,,,,,,70.5,79.3,68.0
+UBCV,2021,W,LLED,201,,VE5,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,77.1,,91.0,58.0,,,,,,,,,,,,,,,,,,,,,,79.0,85.0,71.5
+UBCV,2021,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Pedro Dos Santos;Fatimah Mahmood;John Pringle;Sandra Zappa,21,77.4,,83.0,59.0,,,,,,,,,,,,,,,,,,,14,,,81.0,82.0,75.0
+UBCV,2021,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Pedro Dos Santos;Fatimah Mahmood;John Pringle;Sandra Zappa,16,77.5,,86.0,58.0,,,,,,,,,,,,,,,,,,,,,,79.0,83.3,75.8
+UBCV,2021,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Pedro Dos Santos;Fatimah Mahmood;John Pringle;Sandra Zappa,18,78.8,,88.0,51.0,,,,,,,,,,,,,,,,,,,10,,,82.0,82.8,76.8
+UBCV,2022,W,LLED,200,,V94,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,77.5,,85.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,2,5,1,0,80.0,82.0,74.5
+UBCV,2022,W,LLED,200,,VE5,Introduction to Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,14,82.1,,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,5,6,0,83.5,86.0,80.3
+UBCV,2022,W,LLED,201,,V89,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,11,77.8,,85.0,64.0,,,,,,,,,,,0,0,0,0,2,1,0,2,2,4,0,80.0,85.0,73.0
+UBCV,2022,W,LLED,201,,VE4,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,8,77.6,,85.0,69.0,,,,,,,,,,,0,0,0,0,0,2,2,0,1,3,0,76.5,85.0,72.5
+UBCV,2022,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,20,80.3,,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,7,9,2,0,80.0,83.0,78.0
+UBCV,2022,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,18,76.9,,86.0,65.0,,,,,,,,,,,0,0,0,0,2,1,4,4,5,2,0,77.5,81.0,73.3
+UBCV,2022,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,15,69.8,,84.0,59.0,,,,,,,,,,,0,0,1,3,2,3,2,2,2,0,0,69.0,75.5,63.5
+UBCV,2023,W,LLED,201,,VE2,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Sandra Zappa,8,71.0,,85.0,22.0,,,,,,,,,,,1,0,0,0,1,0,1,2,2,1,0,78.0,84.0,70.3
+UBCV,2023,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,10,67.1,,82.0,51.0,,,,,,,,,,,0,1,1,1,3,0,0,3,1,0,0,65.0,76.0,61.75
+UBCV,2023,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,14,64.82,,81.0,52.0,,,,,,,,,,,0,1,3,0,4,1,1,0,1,0,0,65.0,68.5,58.5
+UBCV,2023,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,18,75.63,,91.0,61.0,,,,,,,,,,,0,0,0,1,1,3,2,3,4,1,1,76.5,81.25,69.5

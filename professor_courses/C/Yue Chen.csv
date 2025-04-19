@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,EPSE,481,,074,INTRO RSRCH EDUC,"Chen, Yue",14,91.43,3.59,98,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,,,
+UBC,2018,W,EPSE,481,,074,INTRO RSRCH EDUC,"Chen, Yue",14,92.64,2.95,97,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,,,
+UBCV,2017,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,14,91.428571429,3.588749208,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,8,,,
+UBCV,2018,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,14,92.642857143,2.951066114,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10,,,
+UBCV,2019,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,15,92.333333333,3.885259077,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,11,,,
+UBCV,2020,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,16,94.25,4.553387018,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,14,,,
+UBCV,2021,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,15,94.2,4.443293502,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,13,,,
+UBCV,2021,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,15,94.2,,100.0,84.0,,,,,,,,,,,,,,,,,,,,,13,95.0,97.0,92.5
+UBCV,2023,W,EPSE,481,,074,Introduction to Research in Education,Yue Chen,13,91.2,,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,1,10,95.0,97.0,91.0

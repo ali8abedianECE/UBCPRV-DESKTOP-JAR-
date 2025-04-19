@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,ETEC,533,,66A,TECH MATH SCI,"Rozitis, Christopher",22,91.16,5.15,96,78,19,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,15,,,
+UBC,2017,W,ETEC,533,,65A,TECH MATH SCI,"Rozitis, Christopher",25,89.96,3.47,96,82,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,13,,,
+UBC,2018,W,ETEC,533,,65A,TECH MATH SCI,"Rozitis, Christopher",16,90.06,5.53,98,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,11,,,
+UBCV,2017,S,ETEC,533,,66A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,19,91.157894737,5.14525842,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,2,15,,,
+UBCV,2017,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,25,89.96,3.469870315,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,13,,,
+UBCV,2018,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,16,90.0625,5.531350046,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,11,,,
+UBCV,2019,S,ETEC,533,,66A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,23,87.956521739,15.337056316,97.0,20.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,3,17,,,
+UBCV,2019,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,15,81.533333333,24.029347137,98.0,0.0,,,,,,,,,,,1,0,0,0,0,1,2,0,1,3,7,,,
+UBCV,2021,S,ETEC,510,,66C,Design of Technology- Supported Learning Environments,Christopher Rozitis,16,95.1875,2.286737122,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2021,W,ETEC,512,,64B,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis;Halimat Ireti Alabi,20,90.0,5.311358236,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,4,14,,,
+UBCV,2021,W,ETEC,512,,64C,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis;Sunah Cho,22,81.045454545,26.438567198,97.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,0,2,8,10,,,
+UBCV,2021,W,ETEC,512,,65A,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis;Halimat Ireti Alabi,22,89.590909091,4.717334709,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,8,11,,,
+UBCV,2021,W,ETEC,512,,65B,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis;Halimat Ireti Alabi,22,87.5,4.339738855,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,9,8,,,
+UBCV,2021,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis;Halimat Ireti Alabi,20,91.15,5.392733903,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,5,14,,,
+UBCV,2021,S,ETEC,510,,66C,Design of Technology- Supported Learning Environments,Christopher Rozitis,16,95.2,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,95.0,96.3,93.8
+UBCV,2021,W,ETEC,512,,64B,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis,20,90.0,,95.0,73.0,,,,,,,,,,,,,,,,,,,,,14,92.0,93.0,89.0
+UBCV,2021,W,ETEC,512,,64C,Applications of Learning Theories to the Analysis of Instructional Settings,Christopher Rozitis,22,81.0,,97.0,0.0,,,,,,,,,,,,,,,,,,,,8,10,89.0,90.0,88.0
+UBCV,2021,W,ETEC,512,,65A,Applications of Learning Theories to the Analysis of Instructional Settings,Halimat Alabi;Christopher Rozitis,22,89.6,,97.0,79.0,,,,,,,,,,,,,,,,,,,,8,11,89.5,92.8,86.3
+UBCV,2021,W,ETEC,512,,65B,Applications of Learning Theories to the Analysis of Instructional Settings,Halimat Alabi;Christopher Rozitis,22,87.5,,94.0,77.0,,,,,,,,,,,,,,,,,,,,9,8,87.5,91.0,85.3
+UBCV,2021,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,20,91.2,,96.0,72.0,,,,,,,,,,,,,,,,,,,,,14,93.0,94.3,89.0
+UBCV,2022,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,13,91.4,,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,10,92.0,95.0,91.0
+UBCV,2023,W,ETEC,533,,64A,Technology in the Mathematics and Science Classroom,Christopher Rozitis,9,90.33,,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5,91.0,93.0,88.0

@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,EESC,325,,001,Structure and Tectonics,Kyle Larson,39,71.92307692,11.46478502,90.0,36.0,,,,,,8,,7,5,,,,,
+UBCO,2014,W,EESC,425,,001,Tectonics and Orogenesis,Kyle Larson,11,73.18181818,13.83342461,87.0,40.0,,,,,,,,,,,0,,,
+UBCO,2015,W,EESC,325,,001,Structure and Tectonics,Kumar K C;Kyle Larson;Sudip Shrestha,40,68.9,13.82639616,92.0,38.0,5,,,,5,,7,6,,,,,,
+UBCO,2015,W,EESC,425,,001,Tectonics and Orogenesis,Kyle Larson;Sudip Shrestha,9,78.888888889,5.06074215,90.0,72.0,0,0,0,0,0,0,,,,,,,,
+UBCO,2016,W,EESC,325,,001,Structure and Tectonics,Alex Brubacher;Kyle Larson,32,66.65625,13.9644927,88.0,28.0,2,2,6,1,5,4,3,3,3,3,0,,,
+UBCO,2016,W,EESC,425,,001,Tectonics and Orogenesis,Kyle Larson,7,81.71428571,6.701101544,91.0,75.0,0,0,0,0,0,0,1,3,1,0,2,,,
+UBCO,2017,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson,23,64.739130435,10.380126954,84.0,44.0,1,3,1,5,6,2,0,2,3,0,0,,,
+UBCO,2017,W,EESC,425,,001,Tectonics and Orogenesis,Kyle Larson,12,76.333333333,9.028574168,93.0,61.0,0,0,0,1,0,3,3,0,3,1,1,,,
+UBCO,2018,S,EESC,390,,101,Geological Field Mapping,Kyle Larson;Sudip Shrestha,6,80.333333333,3.076794869,85.0,77.0,0,0,0,0,0,0,0,3,2,1,0,,,
+UBCO,2018,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson,31,70.35483871,14.70271718,96.0,17.0,2,2,0,2,3,7,3,4,5,2,1,,,
+UBCO,2019,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson,20,68.45,12.500421046,90.0,45.0,2,1,2,1,3,1,5,0,3,1,1,,,
+UBCO,2019,W,EESC,425,,101,Tectonics and Orogenesis,Isabelle Therriault;Kyle Larson,8,84.125,4.673252156,94.0,79.0,0,0,0,0,0,0,0,1,5,1,1,,,
+UBCO,2020,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson;Riccardo Graziani,26,75.0,10.449880382,92.0,47.0,1,1,0,0,3,2,9,1,4,4,1,,,
+UBCO,2020,W,EESC,425,,101,Tectonics and Orogenesis,Isabelle Therriault;Kyle Larson,7,74.571428571,5.652643714,81.0,66.0,0,0,0,0,1,1,2,1,2,0,0,,,
+UBCO,2021,W,EESC,325,,001,Structural Geology,Katharina Holt;Kyle Larson,24,69.416666667,13.84986789,88.0,24.0,1,2,1,2,3,3,4,2,3,3,0,,,
+UBCO,2021,W,EESC,425,,101,Tectonics and Orogenesis,Kyle Larson,10,73.3,15.42760873,90.0,38.0,1,0,0,1,1,1,1,0,3,1,1,,,
+UBCO,2021,W,EESC,512,,002,Applied Data Analysis in Geosciences,Karla Panchuk;Kyle Larson,9,88.222222222,5.09356893,96.0,81.0,0,0,0,0,0,0,0,0,3,0,6,,,
+UBCO,2021,W,EESC,325,,001,Structural Geology,Kyle Larson,24,69.4,,88.0,24.0,,,,,,,,,,,,71.0,78.5,63.8
+UBCO,2021,W,EESC,425,,101,Tectonics and Orogenesis,Kyle Larson,10,76.5,,90.0,62.0,,,,,,,,,,,,77.0,84.0,70.0
+UBCO,2022,S,EESC,335,,001,Field Techniques,Brendan Dyck;John Greenough;Edward Hornibrook;Kyle Larson;Sheena Spencer;Isabelle Therriault;Jerry Vandenberg,36,88.3,,97.0,70.0,0,0,0,0,0,1,2,1,3,11,18,89.5,93.3,85.8
+UBCO,2022,W,EESC,201,,001,Optical Mineralogy and Petrology,Brendan Dyck;Riccardo Graziani;Kyle Larson,27,66.3,,88.0,32.0,3,2,2,3,3,3,3,3,3,2,0,68.0,76.0,59.5
+UBCO,2022,W,EESC,325,,001,Structural Geology,Kyle Larson,17,69.9,,91.0,50.0,0,2,1,2,3,2,1,1,3,1,1,69.0,80.0,60.0
+UBCO,2022,W,EESC,425,,101,Tectonics and Orogenesis,Kyle Larson,7,75.9,,82.0,68.0,0,0,0,0,0,1,2,3,1,0,0,76.0,79.0,73.5
+UBCO,2023,S,EESC,335,,001,Field Techniques,Éowyn Campbell;Edward Hornibrook;Kyle Larson;Saoirse MacKinnon;Jesse Manna;Craig Nichol,30,89.23,,95.0,83.0,0,0,0,0,0,0,0,0,2,15,13,89.0,91.75,87.0
+UBCO,2023,W,EESC,560,,001,Graduate Seminar,Kyle Larson,14,95.0,,95.0,95.0,0,0,0,0,0,0,0,0,0,0,13,95.0,95.0,95.0

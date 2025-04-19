@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,EPSE,551,A,074,SCH-BASED CONSLT,"Cloth, Allison",6,91.83,2.64,95,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2013,W,EPSE,561,F,074,LAB PRACTICUM,"Cloth, Allison;Lacroix, Serge",6,89.33,4.72,96,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,,,
+UBC,2014,W,EPSE,551,A,074,SCH-BASED CONSLT,"Cloth, Allison",7,93.29,2.5,95,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,,,
+UBC,2014,W,EPSE,632,,075,SYSTEMS CHANGE,"Cloth, Allison",7,93.86,2.04,96,91,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2015,W,EPSE,551,A,074,SCH-BASED CONSLT,"Cloth, Allison;Gunderson, Lee Paul",11,88.82,5.91,97,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,6,,,
+UBC,2015,W,EPSE,552,A,074,SCH INTRVENTIONS,"Cloth, Allison;Gunderson, Lee Paul",8,91,3.55,97,87,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCV,2014,W,EPSE,551,A,074,School-based Consultation,Allison Cloth,7,93.28571429,2.497617913,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2014,W,EPSE,632,,075,Systems Change in Schools,Allison Cloth,7,93.85714286,2.035400978,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2015,W,EPSE,551,A,074,School-based Consultation,Allison Cloth;Lee Paul Gunderson,11,88.818181818,5.913005696,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,6,,,
+UBCV,2015,W,EPSE,552,A,074,School-Based Interventions,Allison Cloth;Lee Paul Gunderson,8,91.0,3.545621042,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCV,2019,W,EPSE,550,,074,"Professional, Ethical and Legal Issues in School Psychology",Allison Cloth,6,94.5,2.588435821,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2020,S,EPSE,552,A,941,Intervention and Mental Health Promotion in Schools,Allison Cloth,7,90.142857143,2.340126167,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,S,EPSE,552,A,941,Intervention and Mental Health Promotion in Schools,Allison Cloth,10,92.4,2.503331114,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2021,W,EPSE,550,,074,"Professional, Ethical and Legal Issues in School and Applied Child Psychology",Allison Cloth;Rachel King,12,92.833333333,2.329000306,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2021,S,EPSE,552,A,941,Intervention and Mental Health Promotion in Schools,Allison Cloth,10,92.4,,96.0,87.0,,,,,,,,,,,,,,,,,,,,,9,92.5,93.8,91.3
+UBCV,2021,W,EPSE,550,,074,"Professional, Ethical and Legal Issues in School and Applied Child Psychology",Allison Cloth,12,92.8,,96.0,89.0,,,,,,,,,,,,,,,,,,,,,11,93.0,95.0,91.5
+UBCV,2022,S,EPSE,552,A,941,Intervention and Mental Health Promotion in Schools,Allison Cloth,8,92.8,,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,93.0,95.0,92.0
+UBCV,2023,S,EPSE,552,A,941,Intervention and Mental Health Promotion in Schools,Allison Cloth,7,93.5,,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,94.0,95.5,93.25

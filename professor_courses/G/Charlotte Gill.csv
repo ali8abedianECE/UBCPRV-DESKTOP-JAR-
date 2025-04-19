@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,CRWR,509,,D02,ADV SHORT FICTN,"Gill, Charlotte",10,89.33,5.17,94,80,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6
+UBC,2011,W,CRWR,509,,D02,ADV SHORT FICTN,"Gill, Charlotte",13,90.77,3.44,95,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11
+UBC,2014,W,CRWR,505,A,D01,ADV CRTV N-FIC I,"Gill, Charlotte",9,81.33,23.17,93,20,8,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,5,3
+UBC,2015,W,CRWR,509,B,D03,ADV WRT FICTN I,"Galloway, Steve;Gill, Charlotte",9,89.13,2.75,93,85,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2015,W,CRWR,555,B,D01,ADV WR N-FIC II,"Gill, Charlotte",7,89.86,2.41,92,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2016,W,CRWR,509,Z,D02,ADV WRT FICTN I,"Gill, Charlotte",12,88,3.07,91,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4
+UBC,2017,W,CRWR,505,J,D04,ADV CRTV N-FIC I,"Gill, Charlotte",11,89,1.1,90,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2017,W,CRWR,509,I,D02,ADV WRT FICTN I,"Gill, Charlotte",11,88.82,3.82,92,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7
+UBC,2018,W,CRWR,505,Q,D02,ADV CRTV N-FIC I,"Gill, Charlotte",12,89.58,2.27,92,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6
+UBC,2018,W,CRWR,509,Q,D04,ADV WRT FICTN I,"Gill, Charlotte",12,89.58,1.31,92,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2014,W,CRWR,505,A,D01,Advanced Writing of Creative Non-Fiction I,Charlotte Gill,9,81.33333333,23.17326045,93.0,20.0,,,,,,,,,,,,,,,,,,,,5,-15
+UBCV,2015,W,CRWR,509,B,D03,Advanced Writing of Fiction I,Charlotte Gill;Steve Galloway,8,89.125,2.748376144,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,CRWR,555,B,D01,Advanced Writing of Non-Fiction II,Charlotte Gill,7,89.857142857,2.410295378,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5
+UBCV,2016,W,CRWR,509,Z,D02,Advanced Writing of Fiction I,Charlotte Gill,12,88.0,3.074824459,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,4
+UBCV,2017,W,CRWR,505,J,D04,Advanced Writing of Creative Non-Fiction I,Charlotte Gill,11,89.0,1.095445115,90.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4
+UBCV,2017,W,CRWR,509,I,D02,Advanced Writing of Fiction I,Charlotte Gill,11,88.818181818,3.816233269,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,7
+UBCV,2018,W,CRWR,505,P,D03,Advanced Writing of Creative Non-Fiction I,Charlotte Gill,12,89.5,2.645751311,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2018,W,CRWR,505,Q,D02,Advanced Writing of Creative Non-Fiction I,Charlotte Gill,12,89.583333333,2.274696117,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,6
+UBCV,2018,W,CRWR,509,Q,D04,Advanced Writing of Fiction I,Charlotte Gill,12,89.583333333,1.311372171,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2019,W,CRWR,505,V,D03,Advanced Writing of Creative Non-Fiction I,Charlotte Gill,11,90.181818182,1.328019715,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9
+UBCV,2019,W,CRWR,509,W,D04,Advanced Writing of Fiction I,Charlotte Gill,10,88.7,4.877385456,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,8

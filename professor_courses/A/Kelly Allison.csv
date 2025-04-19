@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,SOWK,310,,002,INTERVIEWING SKL,"Allison, Kelly",17,78.94,2.49,82,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,7,0,0,,,
+UBC,2012,W,SOWK,310,,002,INTERVIEWING SKL,"Allison, Kelly",13,83.62,2.47,87,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,,,
+UBC,2012,W,SOWK,440,P,002,INTGRTV SEM SOWK,"Allison, Kelly",13,81.69,2.06,86,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,0,,,
+UBC,2013,W,SOWK,310,,002,INTERVIEWING SKL,"Allison, Kelly",20,84.15,2.25,88,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,,,
+UBC,2013,W,SOWK,440,P,002,INTGRTV SEM SOWK,"Allison, Kelly",20,82.9,3.54,90,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,5,1,,,
+UBC,2014,W,SOWK,310,,001,INTERVIEWING SKL,"Allison, Kelly",21,85.86,2.83,92,81,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,3,,,
+UBC,2014,W,SOWK,440,P,001,INTGRTV SEM SOWK,"Allison, Kelly",21,81.62,2.94,85,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,14,4,0,,,
+UBC,2014,W,SOWK,502,,001,SOWK PRACTICE,"Allison, Kelly;Charles, Grant;Clark, Natalie",13,84.31,4.82,91,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,2,,,
+UBC,2015,W,SOWK,310,,001,INTERVIEWING SKL,"Allison, Kelly",24,83.88,4.63,90,68,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,10,11,1,,,
+UBC,2015,W,SOWK,440,P,001,INTGRTV SEM SOWK,"Allison, Kelly",23,80.96,7.36,92,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,1,6,8,1,,,
+UBC,2015,W,SOWK,502,,001,SOWK PRACTICE,"Allison, Kelly;Chaparro-Pacheco, Ricardo;Clark, Natalie",18,86.5,5.65,96,73,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,9,5,,,
+UBC,2016,W,SOWK,305,,001,SOWK PRACTICE I,"Allison, Kelly;Charles, Grant;Jamieson, Ally;Jones, Elizabeth",44,84.5,4.72,92,70,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,15,18,6,,,
+UBC,2016,W,SOWK,310,,001,INTERVIEWING SKL,"Allison, Kelly",22,84.59,4.28,92,78,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,6,4,,,
+UBC,2016,W,SOWK,440,P,001,INTGRTV SEM SOWK,"Allison, Kelly",21,84.19,4.5,91,76,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,4,5,,,
+UBC,2016,W,SOWK,502,,001,SOWK PRACTICE,"Allison, Kelly;Chaparro-Pacheco, Ricardo;Charles, Grant",18,89.78,1.77,93,86,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11,,,
+UBC,2017,W,SOWK,305,,001,SOWK PRACTICE I,"Allison, Kelly;Charles, Grant;Quinn, Alyson",55,87.53,4.53,95,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,29,16,,,
+UBC,2017,W,SOWK,310,A,001,INTERVIEWING SKL,"Allison, Kelly",28,84.68,3.74,92,77,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,16,2,,,
+UBC,2018,W,SOWK,305,,001,SOWK PRACTICE I,"Allison, Kelly;Bratiotis, Christiana",51,89.2,4.11,96,76,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,18,26,,,
+UBC,2018,W,SOWK,310,A,003,INTERVIEWING SKL,"Allison, Kelly",16,84.88,3.4,92,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,2,,,
+UBC,2018,W,SOWK,551,,002,HLTH & SOC CARE,"Allison, Kelly",11,88.91,3.73,95,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4,,,
+UBCV,2014,W,SOWK,310,,001,Interviewing Skills,Kelly Allison,21,85.85714286,2.833473386,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,12,3,,,
+UBCV,2014,W,SOWK,440,P,001,Integrative Seminars in Social Work,Kelly Allison,21,81.61904762,2.940683432,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,14,,0,,,
+UBCV,2014,W,SOWK,502,,001,Social Work Practice,Grant Charles;Kelly Allison;Natalie Clark,13,84.30769231,4.81983083,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,,,,
+UBCV,2015,W,SOWK,310,,001,Interviewing Skills,Kelly Allison,24,83.875,4.628010184,90.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,10,11,,,,
+UBCV,2015,W,SOWK,440,P,001,Integrative Seminars in Social Work,Kelly Allison,23,80.956521739,7.363782754,92.0,65.0,,,,,,,,,,,0,0,0,0,,,5,,6,8,,,,
+UBCV,2015,W,SOWK,502,,001,Social Work Practice,Kelly Allison;Natalie Clark;Ricardo Chaparro-Pacheco,18,86.5,5.649049894,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,5,,,
+UBCV,2016,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Grant Charles;Kelly Allison,44,84.5,4.722533809,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,15,18,6,,,
+UBCV,2016,W,SOWK,310,,001,Interviewing Skills,Kelly Allison,22,84.59090909,4.283513143,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,6,4,,,
+UBCV,2016,W,SOWK,440,P,001,Integrative Seminars in Social Work,Kelly Allison,21,84.19047619,4.501322557,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,4,5,,,
+UBCV,2016,W,SOWK,502,,001,Social Work Practice,Grant Charles;Kelly Allison;Ricardo Chaparro-Pacheco,18,89.77777778,1.767535857,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,11,,,
+UBCV,2017,W,SOWK,305,,001,Social Work Practice I,Alyson Quinn;Grant Charles;Kelly Allison;Neringa Kubiliene,55,87.527272727,4.529142448,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,29,16,,,
+UBCV,2017,W,SOWK,310,A,001,Interviewing Skills,Kelly Allison,28,84.678571429,3.742187629,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,16,2,,,
+UBCV,2018,W,SOWK,305,,001,Social Work Practice I,Christiana Bratiotis;Kelly Allison;Rae Morris;Sara Fudjack,51,89.196078431,4.108623165,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,18,26,,,
+UBCV,2018,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,84.875,3.403429643,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,6,2,,,
+UBCV,2018,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,11,88.909090909,3.727050991,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,4,,,
+UBCV,2019,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison;Rae Morris,51,86.37254902,5.709503601,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,1,12,14,20,,,
+UBCV,2019,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,83.5625,3.77657252,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,6,0,,,
+UBCV,2019,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Kelly Allison,17,84.411764706,5.160654313,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,6,3,,,
+UBCV,2019,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,12,86.0,3.931226966,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,2,,,
+UBCV,2020,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison;Rae Morris,55,85.490909091,4.973532641,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,6,16,21,11,,,
+UBCV,2020,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,20,85.45,3.3478194,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,14,1,,,
+UBCV,2020,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe;Katrina Niebuhr;Kelly Allison,20,85.95,4.582288557,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,14,3,,,
+UBCV,2020,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Erin Henthorne;Kelly Allison,29,86.034482759,3.995379104,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,8,8,,,
+UBCV,2020,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,8,85.375,5.208166664,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,4,1,,,
+UBCV,2021,W,SOWK,305,I,001,Topics in Social Work Practice I,Kayla Kenney;Kelly Allison,55,83.963636364,4.578385759,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,8,18,20,7,,,
+UBCV,2021,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,20,85.55,3.605186323,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,15,1,,,
+UBCV,2021,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,30,83.6,7.141911267,92.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,4,7,15,3,,,
+UBCV,2021,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison,55,84.0,,91.0,73.0,,,,,,,,,,,,,,,,,,8,18,20,7,84.0,87.0,81.5
+UBCV,2021,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,20,85.6,,91.0,75.0,,,,,,,,,,,,,,,,,,,,15,,86.0,87.3,85.0
+UBCV,2021,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,30,83.6,,92.0,54.0,,,,,,,,,,,,,,,,,,,7,15,,85.5,88.0,80.0
+UBCV,2022,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison,47,85.6,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,4,7,20,13,86.0,90.0,83.5
+UBCV,2022,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,85.5,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,4,85.0,87.8,82.8
+UBCV,2022,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,39,84.6,,94.0,63.0,,,,,,,,,,,0,0,0,1,2,0,1,3,3,21,8,87.0,89.0,83.5
+UBCV,2023,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison,49,85.2,,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,13,22,7,86.0,88.0,82.0
+UBCV,2023,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,85.4,,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,8,1,86.5,88.0,83.0
+UBCV,2023,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,30,84.8,,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,13,8,6,84.0,87.8,81.0

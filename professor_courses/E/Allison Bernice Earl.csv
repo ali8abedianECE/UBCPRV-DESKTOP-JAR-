@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,ARCH,404,,001,Architectural History I,Allison Bernice Earl;Allison Earl;Sara Stevens,10,80.2,9.49619807,88.0,55.0,0,0,1,0,0,0,0,2,4,3,0,,,
+UBCV,2016,W,ARCH,504,,001,Architectural History I,Allison Bernice Earl;Allison Earl;Sara Stevens,44,79.22727273,9.96473698,92.0,33.0,1,0,0,1,1,5,1,8,12,14,1,,,
+UBCV,2016,W,ENDS,420,,001,Technology and Technique,Allison Bernice Earl;Allison Earl;Colette Parras,31,81.35483871,4.520681269,89.0,72.0,0,0,0,0,0,0,4,9,8,10,0,,,
+UBCV,2018,S,EDST,528,,93A,"Social Movements, Political Learning and Popular Education",Allison Bernice Earl;Allison Earl;Robert Vanwynsberghe,15,91.666666667,3.177300441,96.0,87.0,0,0,0,0,0,0,0,0,0,4,11,,,
+UBCV,2019,S,EDUC,500,,96B,Research Methodology in Education,Allison Bernice Earl;Allison Earl,20,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,20,,,
+UBCV,2019,W,ARCH,404,E,001,Topics in Architectural History I (Pre-1900),Allison Bernice Earl;Angus Derocher;Angus Edward Steven Derocher;Jill Bambury,14,83.0,7.605665904,94.0,70.0,0,0,0,0,0,2,1,0,3,6,2,,,
+UBCV,2019,W,ARCH,405,F,001,Topics in Architectural History II (1900-Present),Allison Bernice Earl;Jill Bambury;Laurence Crouzet,8,85.25,4.464142855,90.0,78.0,0,0,0,0,0,0,0,1,3,2,2,,,
+UBCV,2019,W,ARCH,504,E,001,Topics in Architectural History I (Pre-1900),Allison Bernice Earl;Angus Derocher;Angus Edward Steven Derocher;Jill Bambury,30,85.533333333,2.515240899,90.0,80.0,0,0,0,0,0,0,0,0,11,17,2,,,
+UBCV,2019,W,ARCH,505,F,001,Topics in Architectural History II (1900-Present),Allison Bernice Earl;Jill Bambury;Laurence Crouzet,19,86.263157895,5.247667262,91.0,71.0,0,0,0,0,0,1,0,1,3,8,6,,,
+UBCV,2019,W,ARCH,568,,001,Research Methods,Allison Bernice Earl;Allison Earl;Thena Tak;Umbreen Ashraf,43,83.186046512,3.685594957,90.0,65.0,0,0,0,0,1,0,0,2,27,12,1,,,
+UBCV,2019,W,LARC,525,,001,Research Methods,Allison Bernice Earl;Thena Tak;Umbreen Ashraf,14,82.714285714,2.584824691,87.0,77.0,0,0,0,0,0,0,0,2,10,2,0,,,
+UBCV,2020,S,ARCH,568,,001,Research Methods,Allison Bernice Earl;Julia Higson,36,88.138888889,1.853996113,91.0,82.0,0,0,0,0,0,0,0,0,1,29,6,,,
+UBCV,2020,S,EDST,561,A,93A,Practicum,Allison Bernice Earl,20,88.7,4.053588404,92.0,75.0,0,0,0,0,0,0,1,0,1,5,13,,,
+UBCV,2020,W,ARCH,568,,001,Research Methods,Allison Bernice Earl;Leslie Van Duzer;Thena Tak;Zahra Asghari,28,86.821428571,2.261654121,90.0,82.0,0,0,0,0,0,0,0,0,3,22,3,,,
+UBCV,2020,W,DES,130,,001,Design Culture and Ecology,Allison Bernice Earl;Brendan Buchanan Dee;Chloe Moss;Nicholas Fernando;Robyn Thomson;Zahra Asghari,101,83.069306931,8.560674536,95.0,55.0,0,0,3,2,2,4,7,8,16,38,21,,,
+UBCV,2021,W,DES,130,,001,"Design, Culture and Ecology",Allison Bernice Earl;Ellen Harper;Ida Nilsen;Renata Kisin;Robyn Thomson,104,80.192307692,9.097185015,95.0,33.0,1,1,1,1,4,7,10,17,25,27,10,,,
+UBCV,2021,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl;Anjani Batra;Sara Jacobs,38,86.026315789,3.928322949,92.0,76.0,0,0,0,0,0,0,0,2,10,18,8,,,
+UBCV,2021,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl,38,86.0,,92.0,76.0,,,,,,,,,10,18,8,86.5,88.8,84.0
+UBCV,2022,W,DES,130,,002,"Design, Culture and Ecology",Allison Bernice Earl,130,79.2,,94.0,0.0,6,4,0,1,3,5,12,12,27,37,23,84.0,88.0,77.0
+UBCV,2022,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl,28,88.2,,91.0,80.0,0,0,0,0,0,0,0,0,1,18,9,88.5,90.0,87.0
+UBCV,2023,W,DES,130,,002,"Design, Culture and Ecology",Allison Bernice Earl,110,82.93,,95.0,0.0,4,0,0,1,2,2,0,7,31,39,23,85.0,88.0,82.0
+UBCV,2023,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl,28,87.75,,92.0,83.0,0,0,0,0,0,0,0,0,4,17,7,88.0,89.25,86.0

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ENGL,309,,001,SCI/MED RHETORIC,"Gaudet, Loren;Segal, Judy",28,82.67,5.69,92,70,27,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,5,7,9,3
+UBC,2015,W,ENGL,491,C,003,SR HONORS SEMNR1,"Gaudet, Loren;Segal, Judy",15,86.53,3.74,93,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,5
+UBC,2018,S,WRDS,150,,J03,RSRCH&WRIT HUMAN,"Gaudet, Loren",30,71.23,6.07,82,53,30,0,0,0,0,0,0,0,0,0,0,1,0,1,5,6,8,6,3,0,0
+UBC,2018,W,ENGL,112,,04A,UNIVRSTY WRITING,"Gaudet, Loren",29,71.43,8.2,88,50,28,0,1,0,0,0,0,0,0,0,0,1,1,2,2,6,8,3,3,2,0
+UBC,2018,W,ENGL,112,,11N,UNIVRSTY WRITING,"Gaudet, Loren",33,71.65,5.83,86,60,31,0,1,0,1,0,0,0,0,0,0,0,0,3,3,5,11,7,1,1,0
+UBC,2018,W,WRDS,150,,03E,RSRCH&WRIT HUMAN,"Gaudet, Loren",30,70.21,9.93,88,46,28,1,1,0,0,0,0,0,0,1,1,1,1,4,4,3,4,5,4,2,0
+UBC,2018,W,WRDS,150,,12N,RSRCH&WRIT HUMAN,"Gaudet, Loren",30,69,13.72,86,10,29,1,0,0,0,0,1,0,0,0,1,0,1,5,3,6,4,4,4,2,0
+UBCV,2014,W,ENGL,110,,017,Approaches to Literature,Christopher Gaudet;Jasmine Johnston;Loren Gaudet;Mary-Anne Shonoda;Pavlina Cerna;Suzy Anger,128,73.921875,10.65316439,90.0,6.0,,,,,,,,,,,,,,,14,21,27,20,29,9,
+UBCV,2015,W,ENGL,110,,012,Approaches to Literature,Adam Zarour;Dallas Hunt;Jonathan Newell;Loren Gaudet;Sarah Crover;Tiffany Potter,133,72.07518797,8.943106419,87.0,30.0,,,,,,,,,,,,,5,8,16,18,34,23,18,8,0
+UBCV,2015,W,ENGL,110,,021,Approaches to Literature,Cynthia Minh;Gisele Marie Baxter;Jonathan Newell;Katherine Davison;Loren Gaudet;Matthew Warner;Michael Paul Taylor,132,72.356060606,9.031017438,86.0,0.0,,,,,,,,,,,,,,5,19,19,39,23,19,,0
+UBCV,2015,W,ENGL,309,,001,"Rhetoric of Science, Technology, and Medicine",Judy Segal;Loren Gaudet,28,79.714285714,16.590620159,92.0,0.0,,,,,,,,,,,,,,,,,,5,7,9,
+UBCV,2015,W,ENGL,491,C,003,Senior Honours Seminar,Judy Segal;Loren Gaudet,15,86.533333333,3.739111175,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,6,5
+UBCV,2016,W,ENGL,110,,008,Approaches to Literature,Bronwyn Elizabeth Bate Malloy;Bronwyn Malloy;Loren Gaudet;Richard Bergen;Stephanie Lu;Tiffany Potter;Yi Fan Xiang,142,73.02112676,7.421903858,88.0,52.0,,,,,,,,,,,0,1,5,7,13,30,39,13,23,11,0
+UBCV,2016,W,ENGL,111,,005,Approaches to Non-fictional Prose,Dallas Hunt;Dorothy Lockyer;Laurie Mcneill;Loren Gaudet;Michael De Santis,87,72.28735632,14.95956414,94.0,0.0,,,,,,,,,,,3,2,3,6,9,9,13,10,17,13,2
+UBCV,2018,S,WRDS,150,,J03,Research and Writing in the Humanities and Social Sciences,Loren Gaudet,30,71.233333333,6.06677403,82.0,53.0,,,,,,,,,,,0,1,0,1,5,6,8,6,3,0,0
+UBCV,2018,W,ENGL,112,,04A,Strategies for University Writing,Loren Gaudet,28,71.428571429,8.203109489,88.0,50.0,,,,,,,,,,,0,1,1,2,2,6,8,3,3,2,0
+UBCV,2018,W,ENGL,112,,11N,Strategies for University Writing,Loren Gaudet,32,70.625,8.134950483,86.0,39.0,,,,,,,,,,,1,0,0,3,3,5,11,7,1,1,0
+UBCV,2018,W,WRDS,150,,03E,Research and Writing in the Humanities and Social Sciences,Loren Gaudet,29,70.206896552,9.933274925,88.0,46.0,,,,,,,,,,,1,1,1,4,4,3,4,5,4,2,0
+UBCV,2018,W,WRDS,150,,12N,Research and Writing in the Humanities and Social Sciences,Loren Gaudet,30,69.0,13.721365168,86.0,10.0,,,,,,,,,,,1,0,1,5,3,6,4,4,4,2,0
+UBCV,2019,S,WRDS,150,,514,Writing and Research in the Disciplines,Loren Gaudet,30,71.633333333,8.092070761,87.0,50.0,,,,,,,,,,,0,1,1,0,6,6,5,5,4,2,0
+UBCV,2019,S,WRDS,150,,553,Writing and Research in the Disciplines,Loren Gaudet,30,72.2,9.367589025,88.0,52.0,,,,,,,,,,,0,2,0,1,6,5,3,5,4,4,0
+UBCV,2019,W,ENGL,307,,001,Studies in Rhetoric,Loren Gaudet,43,73.511627907,14.815326834,91.0,0.0,,,,,,,,,,,1,1,2,1,4,2,10,5,12,1,4
+UBCV,2019,W,ENGL,309,,001,"Rhetoric of Science, Technology, and Medicine",Loren Gaudet,43,77.11627907,11.439716327,93.0,31.0,,,,,,,,,,,1,1,0,2,1,2,9,9,7,5,6
+UBCV,2019,W,WRDS,150,,711,Writing and Research in the Disciplines,Loren Gaudet,28,73.392857143,5.820393812,87.0,61.0,,,,,,,,,,,0,0,0,1,0,10,7,7,0,3,0
+UBCV,2019,W,WRDS,150,,731,Writing and Research in the Disciplines,Loren Gaudet,30,72.4,5.85220265,83.0,58.0,,,,,,,,,,,0,0,1,0,6,4,8,7,4,0,0
+UBCV,2019,W,WRDS,150,,862,Writing and Research in the Disciplines,Loren Gaudet,30,73.433333333,7.290444068,87.0,53.0,,,,,,,,,,,0,1,0,2,2,4,7,9,3,2,0
+UBCV,2019,W,WRDS,150,,872,Writing and Research in the Disciplines,Loren Gaudet,28,72.25,8.535872018,88.0,58.0,,,,,,,,,,,0,0,1,4,3,5,5,3,5,2,0
+UBCV,2020,S,WRDS,150,B,551,Writing and Research in the Disciplines,Loren Gaudet,30,73.466666667,7.885968916,86.0,42.0,,,,,,,,,,,1,0,0,0,1,9,5,7,6,1,0
+UBCV,2020,W,ENGL,229,,001,Topics in the Study of Language and/or Rhetoric,Loren Gaudet,46,75.347826087,8.491086546,88.0,45.0,,,,,,,,,,,1,1,0,1,3,7,2,14,12,5,0
+UBCV,2020,W,ENGL,309,,001,"Rhetoric of Science, Technology, and Medicine",Jane Pavelich;Loren Gaudet;Sara Press,28,81.107142857,5.59324517,88.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,6,10,8,0
+UBCV,2020,W,WRDS,150,B,652,Writing and Research in the Disciplines,Katherine Forgacs;Loren Gaudet,30,74.233333333,7.70885444,86.0,53.0,,,,,,,,,,,0,1,1,0,2,4,7,6,6,3,0

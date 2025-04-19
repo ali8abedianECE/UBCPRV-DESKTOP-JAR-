@@ -1,0 +1,97 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,NURS,450,,99C,CRTL ENQ&EVDB PR,"Balneaves, Lynda",26,69.63,16.49,85,0,23,1,1,0,1,1,0,0,0,0,1,0,1,2,2,5,4,4,4,1,0
+UBC,2002,W,PHAR,311,,001,DRUG DELV SYS II,"Burt, Helen Mary;Eccott, Lynda;Wasan, Kishor",139,78.91,6.93,94,60,139,0,0,0,0,0,0,0,0,0,0,0,0,2,10,12,13,29,42,27,4
+UBC,2002,W,PHAR,450,B,201,SELECTED TOPICS,"Eccott, Lynda",15,83.64,5.87,88,72,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,2,9,0
+UBC,2002,W,PHAR,490,,001,ALT MED PHRMCY P,"Eccott, Lynda;MacLeod, Kathleen",15,82.93,4.32,90,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,3,2
+UBC,2003,W,EPSE,313,,107,EDUC APPL DEV TH,"PHILLIPS, LYNDA",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EPSE,317,,203,DEV&EX REG CLASS,"PHILLIPS, LYNDA",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EPSE,406,,63A,TYP ATYP INF/CH,"PHILLIPS, LYNDA",17,92.67,7.01,100,78,15,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10
+UBC,2003,W,EPSE,406,,63C,TYP ATYP INF/CH,"PHILLIPS, LYNDA",20,92.85,8.34,100,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,16
+UBC,2003,W,NURS,450,,99C,CRTL ENQ&EVDB PR,"Balneaves, Lynda",23,77.95,13,91,37,21,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1,3,10,3,2
+UBC,2003,W,PHAR,299,,001,CASES PHARM I,"Eccott, Lynda;Price, Ingrid",140,83.07,4.71,92,70,139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,7,26,50,46,9
+UBC,2003,W,PHAR,311,,001,DRUG DELV SYS II,"Burt, Helen Mary;Eccott, Lynda;Price, Ingrid;Shabbits, Jennifer Anne;Wasan, Kishor",145,79.59,7.29,96,57,145,0,0,0,0,0,0,0,0,0,0,0,2,4,4,7,19,29,48,21,11
+UBC,2003,W,PHAR,490,,001,ALT MED PHRMCY P,"Eccott, Lynda;MacLeod, Kathleen",11,84.7,5.4,92,77,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3
+UBC,2005,W,NURS,450,,002,INTRO RSRCH UTIL,"Balneaves, Lynda",57,84.47,3.73,92,76,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,31,3
+UBC,2005,W,PHAR,362,,001,NON-PRES DRUG II,"Eccott, Lynda",143,80.18,6.5,94,62,142,0,1,0,0,0,0,0,0,0,0,0,0,1,5,7,24,15,50,34,6
+UBC,2005,W,PHAR,399,,001,CASES PHARM II,"Eccott, Lynda;McCormack, James",142,85.25,4.79,94,62,142,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,8,36,72,21
+UBC,2005,W,PHAR,461,,001,DRUGS HLTH III,"Eccott, Lynda",131,77.76,7.8,91,51,131,0,0,0,0,0,0,0,0,0,0,1,4,5,2,12,19,20,44,21,3
+UBC,2006,W,NURS,450,,002,INTRO RSRCH UTIL,"Balneaves, Lynda",59,83.35,4.95,92,74,57,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,17,17,8
+UBC,2006,W,NURS,504,,002,RSRCH EVIDENCE,"Balneaves, Lynda;Lynam, Mary Judith",17,79.47,7.87,93,65,15,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,5,3,2,2
+UBC,2006,W,PHAR,302,,001,PHARM CARE,"Eccott, Lynda;Kassam, Rosemin",151,75.13,5.96,90,59,151,0,0,0,0,0,0,0,0,0,0,0,1,2,11,23,45,25,35,8,1
+UBC,2006,W,PHAR,362,,001,NON-PRES DRUG II,"Eccott, Lynda;Watson, Hilary",151,77.72,8.45,97,53,150,0,0,0,1,0,0,0,0,0,0,1,2,10,5,10,29,21,40,22,10
+UBC,2006,W,PHAR,399,,001,CASES PHARM II,"Eccott, Lynda",151,82.87,4.26,92,68,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,12,76,46,7
+UBC,2007,W,EPSE,406,,63A,TYP ATYP INF/CH,"PHILLIPS, LYNDA",23,81.86,17.8,98,13,20,1,2,0,0,0,1,0,0,0,1,0,0,0,1,0,2,2,3,6,6
+UBC,2007,W,EPSE,406,,63C,TYP ATYP INF/CH,"PHILLIPS, LYNDA",21,84.9,21.13,100,0,19,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,5,2,11
+UBC,2007,W,EPSE,420,,63C,Assmt Spec Needs,"PHILLIPS, LYNDA",19,94.74,6.31,99,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,17
+UBC,2007,W,NURS,450,,002,INTRO RSRCH UTIL,"Balneaves, Lynda;Warnock, Fay",55,87.24,5.34,96,64,55,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,12,20,20
+UBC,2007,W,NURS,504,,002,RSRCH EVIDENCE,"Balneaves, Lynda",16,79,11.72,92,45,14,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,3,1,3,4,2
+UBC,2007,W,PHAR,362,,001,NON-PRES DRUG II,"Eccott, Lynda;Watson, Hilary",156,75.9,7.38,91,52,156,0,0,0,0,0,0,0,0,0,0,1,2,5,12,26,21,31,41,14,3
+UBC,2007,W,PHAR,399,,001,CASES PHARM II,"Eccott, Lynda",157,85.64,4.56,95,69,156,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9,47,63,32
+UBC,2009,S,EPSE,423,,974,ASSESS CLS LEARN,"Hutchinson, Lynda;Jordan, Elizabeth",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,NURS,504,,941,RSRCH EVIDENCE,"Balneaves, Lynda;Lynam, Mary Judith",23,81.64,4.88,91,72,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,9,6,1
+UBC,2009,W,EPSE,306,,302,EDUC ADOLESC YRS,"Faber, Shawna;Hutchinson, Lynda",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EPSE,306,,307,EDUC ADOLESC YRS,"Faber, Shawna;Hutchinson, Lynda",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EPSE,313,,110,EDUC APPL DEV TH,"Faber, Shawna;Hutchinson, Lynda",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,NURS,305,,001,CRIT INQ &RESRCH,"Balneaves, Lynda;McPherson, Gladys",89,81.13,7.09,97,65,89,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,12,18,21,20,11
+UBC,2009,W,NURS,504,,002,RSRCH EVIDENCE,"Balneaves, Lynda;Currie, Leanne",14,82.23,6.81,91,70,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,2,3
+UBC,2009,W,PHAR,362,,001,NON-PRES DRUG 2,"Eccott, Lynda;Watson, Hilary",151,79.58,7.42,95,55,151,0,0,0,0,0,0,0,0,0,0,0,2,2,3,12,20,29,43,30,10
+UBC,2009,W,PHAR,399,,001,CASES PHARM II,"Chai, Sally;Eccott, Lynda",151,80.49,7.02,94,57,151,0,0,0,0,0,0,0,0,0,0,0,2,0,4,14,15,23,35,52,6
+UBC,2009,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",149,84.41,5.96,97,52,149,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,4,19,35,61,26
+UBC,2010,S,EPSE,423,,973,ASSESS CLS LEARN,"Hutchinson, Lynda;Jordan, Elizabeth",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EPSE,423,,975,ASSESS CLS LEARN,"Hutchinson, Lynda;Jordan, Elizabeth",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EPSE,423,,976,ASSESS CLS LEARN,"Hutchinson, Lynda;Jordan, Elizabeth",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EPSE,306,,302,EDUC ADOLESC YRS,"Faber, Shawna;Hutchinson, Lynda",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EPSE,306,,307,EDUC ADOLESC YRS,"Faber, Shawna;Hutchinson, Lynda",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EPSE,313,,202,EDUC APPL DEV TH,"Faber, Shawna;Hutchinson, Lynda",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,NURS,305,,001,CRIT INQ &RESRCH,"Balneaves, Lynda",119,82.18,6.43,94,61,119,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,11,25,30,29,18
+UBC,2010,W,NURS,504,,002,RSRCH EVIDENCE,"Balneaves, Lynda",17,81.82,6.62,93,72,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,5,2
+UBC,2010,W,PHAR,362,,001,NON-PRES DRUG 2,"Eccott, Lynda;Watson, Hilary",147,84.27,6.48,96,62,147,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,5,15,38,53,28
+UBC,2010,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",145,84.43,5.4,95,66,145,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,12,43,57,21
+UBC,2011,S,LIBR,533,,942,LEGAL INF SERV,"Roberts, Lynda",25,78.08,5.99,90,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,7,8,1,1
+UBC,2011,W,EPSE,306,,401,EDUC ADOLESC YRS,"Faber, Shawna;Hutchinson, Lynda",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EPSE,313,,108,EDUC APPL DEV TH,"Faber, Shawna;Hutchinson, Lynda",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,362,,001,NON-PRES DRUG 2,"Eccott, Lynda;Watson, Hilary",155,79.99,6.84,94,57,155,0,0,0,0,0,0,0,0,0,0,0,1,1,4,12,23,31,38,31,14
+UBC,2011,W,PHAR,453,B,004,Dir Stu Phar Pra,"Eccott, Lynda",14,93.57,4.67,98,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11
+UBC,2011,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",144,82.74,5.6,96,63,143,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3,12,15,55,41,16
+UBC,2012,W,NURS,305,,001,CRIT INQ &RESRCH,"Balneaves, Lynda",120,80.97,6.22,92,58,120,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,20,16,42,28,7
+UBC,2012,W,NURS,552,,99C,METHS NURS SCI,"Balneaves, Lynda",19,84.16,3.53,89,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,10,0
+UBC,2013,S,PHAR,369,,001,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",127,,,,,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,369,,002,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",57,,,,,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,369,,003,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,NURS,305,,001,CRIT INQ &RESRCH,"Balneaves, Lynda",117,81.95,6.1,95,60,117,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8,23,37,31,12
+UBC,2013,W,NURS,552,,99C,METHS NURS SCI,"Balneaves, Lynda",17,82.94,2.46,87,78,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,4,0
+UBC,2013,W,PHAR,453,B,101,DIR STDY PHAR PR,"Eccott, Lynda",10,91.5,5.84,98,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9
+UBC,2013,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",208,83.32,6.6,95,64,208,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,23,18,43,81,31
+UBC,2014,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",128,,,,,0,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",52,,,,,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,453,B,102,DIR STDY PHAR PR,"Eccott, Lynda",14,94.31,3.57,98,86,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11
+UBC,2014,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",221,82.05,7.07,97,57,221,0,0,0,0,0,0,0,0,0,0,0,1,1,2,13,22,30,70,42,40
+UBC,2015,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",66,,,,,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",61,,,,,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,453,B,102,DIR STDY PHAR PR,"Eccott, Lynda",12,92.17,6.51,97,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,10
+UBC,2015,W,PHAR,460,,001,NAT HLTH PRODCTS,"Eccott, Lynda",214,84.89,7.15,99,63,213,0,1,0,0,0,0,0,0,0,0,0,0,1,5,3,12,25,49,59,59
+UBC,2015,W,PHRM,170,,001,COMM SERV LRNG I,"Eccott, Lynda",220,,,,,0,0,1,0,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",84,,,,,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",74,,,,,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",54,,,,,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,001,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",84,,,,,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,002,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",68,,,,,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,003,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,PHAR,453,B,103,DIR STDY PHAR PR,"Eccott, Lynda",12,98.67,0.49,99,98,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2016,W,PHAR,460,,001,NAT HLTH PRODCTS,"Cadario, Barbara;Eccott, Lynda",218,84.66,6.22,97,68,218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,15,18,63,68,48
+UBC,2016,W,PHRM,170,,001,COMM SERV LRNG I,"Eccott, Lynda",223,,,,,0,0,1,0,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2017,S,PHAR,405,B,943,DIR CLINCL PHAR,"Eccott, Lynda",26,87.23,10.97,98,41,25,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,3,8,13
+UBC,2017,W,PHAR,405,B,001,DIR CLINCL PHAR,"Eccott, Lynda",20,85.4,10.97,96,52,20,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,8,7
+UBC,2017,W,PHAR,405,B,002,DIR CLINCL PHAR,"Eccott, Lynda",8,91.88,2.1,95,90,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2017,W,PHAR,405,D,006,DIR CLINCL PHAR,"Eccott, Lynda",4,91.25,7.89,98,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2017,W,PHAR,453,B,102,DIR STDY PHAR PR,"Eccott, Lynda",15,98,0,98,98,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+UBC,2018,S,PHAR,405,B,943,DIR CLINCL PHAR,"Eccott, Lynda",19,89.84,6.66,99,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,12
+UBC,2018,S,PHAR,405,D,941,DIR CLINCL PHAR,"Eccott, Lynda",4,94.75,1.89,96,92,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2018,W,PHAR,405,B,001,DIR CLINCL PHAR,"Eccott, Lynda",16,87.88,23.65,98,0,15,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,13
+UBC,2018,W,PHAR,405,B,002,DIR CLINCL PHAR,"Eccott, Lynda",11,88.64,9.51,98,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,7
+UBC,2018,W,PHAR,405,B,003,DIR CLINCL PHAR,"Eccott, Lynda",4,92.25,4.03,98,89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2018,W,PHAR,453,B,102,DIR STDY PHAR PR,"Eccott, Lynda",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11

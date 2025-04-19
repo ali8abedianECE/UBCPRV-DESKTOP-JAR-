@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,WRDS,150,B,613,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,26,75.115384615,10.096838805,88.0,47.0,1,0,2,0,2,3,2,5,6,5,0,,,
+UBCV,2020,W,WRDS,150,B,635,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,26,73.846153846,15.449769727,87.0,14.0,2,0,0,0,2,2,4,3,9,4,0,,,
+UBCV,2020,W,WRDS,150,B,646,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,29,71.275862069,15.845000455,87.0,7.0,2,1,2,0,1,3,4,10,5,1,0,,,
+UBCV,2020,W,WRDS,150,B,856,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,26,69.423076923,14.732747407,86.0,13.0,1,2,1,2,3,1,7,5,2,2,0,,,
+UBCV,2020,W,WRDS,150,B,873,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,30,73.266666667,10.712330418,88.0,32.0,1,1,0,1,2,3,7,8,6,1,0,,,
+UBCV,2020,W,WRDS,150,B,952,Writing and Research in the Disciplines,Deogratias Nizonkiza;Meghan French-Smith,30,71.3,10.557396492,86.0,36.0,2,0,1,1,4,3,7,6,5,1,0,,,
+UBCV,2021,S,WRDS,150,B,524,Writing and Research in the Disciplines,Deogratias Nizonkiza;Sullivan Larson,31,75.096774194,6.384120084,90.0,62.0,0,0,0,2,1,5,9,6,7,0,1,,,
+UBCV,2021,S,WRDS,150,B,561,Writing and Research in the Disciplines,Deogratias Nizonkiza;Sullivan Larson,26,75.615384615,7.678942235,85.0,50.0,0,1,0,0,2,4,3,5,8,3,0,,,
+UBCV,2021,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Deogratias Nizonkiza;Lorna Ramsay;Sandra Zappa,11,68.090909091,7.816067367,80.0,52.0,0,1,0,2,2,3,1,1,1,0,0,,,
+UBCV,2021,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Alfredo Ferreira;Deogratias Nizonkiza;Katherine Lyon;Sandra Zappa,11,70.454545455,8.687504088,78.0,47.0,1,0,0,0,1,2,4,3,0,0,0,,,
+UBCV,2021,W,WRDS,150,B,711,Writing and Research in the Disciplines,Deogratias Nizonkiza,26,73.461538462,7.162294433,83.0,53.0,0,1,1,1,0,4,8,5,6,0,0,,,
+UBCV,2021,W,WRDS,150,B,722,Writing and Research in the Disciplines,Deogratias Nizonkiza,30,70.666666667,13.694532847,89.0,23.0,2,0,1,1,3,6,6,4,6,1,0,,,
+UBCV,2021,W,WRDS,150,B,731,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,65.892857143,20.902488396,86.0,12.0,5,0,1,2,2,2,3,3,9,1,0,,,
+UBCV,2021,W,WRDS,150,B,841,Writing and Research in the Disciplines,Deogratias Nizonkiza,29,71.827586207,14.449589627,82.0,17.0,2,0,0,1,1,4,4,13,4,0,0,,,
+UBCV,2021,W,WRDS,150,B,864,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,74.607142857,6.02672619,85.0,59.0,0,0,1,0,2,6,6,5,7,1,0,,,
+UBCV,2021,W,WRDS,150,B,872,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,73.428571429,10.692429206,83.0,36.0,2,0,0,0,1,2,9,7,7,0,0,,,
+UBCV,2021,S,WRDS,150,B,524,Writing and Research in the Disciplines,Deogratias Nizonkiza,31,75.1,,90.0,62.0,,,,,,,9,6,7,,,75.0,79.5,71.5
+UBCV,2021,S,WRDS,150,B,561,Writing and Research in the Disciplines,Deogratias Nizonkiza,26,75.6,,85.0,50.0,,,,,,,,,8,,,77.0,80.0,71.8
+UBCV,2021,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Deogratias Nizonkiza;Sandra Zappa,11,68.1,,80.0,52.0,,,,,,,,,,,,69.0,72.5,63.5
+UBCV,2021,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Deogratias Nizonkiza;Sandra Zappa,11,70.5,,78.0,47.0,,,,,,,,,,,,72.0,75.5,70.5
+UBCV,2021,W,WRDS,150,B,711,Writing and Research in the Disciplines,Deogratias Nizonkiza,26,73.5,,83.0,53.0,,,,,,,8,,6,,,74.0,78.0,71.3
+UBCV,2021,W,WRDS,150,B,841,Writing and Research in the Disciplines,Deogratias Nizonkiza,29,71.8,,82.0,17.0,,,,,,,,13,,,,77.0,78.0,71.0
+UBCV,2021,W,WRDS,150,B,864,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,74.6,,85.0,59.0,,,,,,6,6,,7,,,75.0,80.0,70.8
+UBCV,2021,W,WRDS,150,B,872,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,73.4,,83.0,36.0,,,,,,,9,7,7,,,75.5,78.5,73.0
+UBCV,2022,S,WRDS,150,B,521,Writing and Research in the Disciplines,Deogratias Nizonkiza,27,71.7,,85.0,9.0,2,1,0,1,2,3,2,8,7,1,0,77.0,80.0,70.5
+UBCV,2022,S,WRDS,150,B,525,Writing and Research in the Disciplines,Deogratias Nizonkiza,31,74.9,,87.0,44.0,1,0,1,0,1,6,6,5,8,3,0,78.0,81.0,70.0
+UBCV,2022,W,COMM,196,,101,Business Communications I,Deogratias Nizonkiza,20,74.5,,82.0,60.0,0,0,0,3,0,0,5,9,3,0,0,76.0,77.3,73.8
+UBCV,2022,W,COMM,196,,102,Business Communications I,Deogratias Nizonkiza,28,76.4,,83.0,67.0,0,0,0,0,1,2,6,15,4,0,0,77.0,79.0,75.0
+UBCV,2022,W,COMM,196,,204,Business Communications I,Deogratias Nizonkiza,29,78.2,,85.0,68.0,0,0,0,0,0,3,3,11,11,1,0,78.0,80.0,77.0
+UBCV,2022,W,COMM,196,,214,Business Communications I,Deogratias Nizonkiza,30,74.1,,84.0,41.0,2,0,1,0,2,1,6,6,12,0,0,77.0,81.0,72.5
+UBCV,2022,W,WRDS,150,A,201,Writing and Research in the Disciplines,Deogratias Nizonkiza,27,73.7,,86.0,14.0,1,0,0,0,0,2,10,9,4,1,0,76.0,77.5,73.0
+UBCV,2022,W,WRDS,150,A,221,Writing and Research in the Disciplines,Deogratias Nizonkiza,25,69.3,,86.0,0.0,2,0,0,0,1,7,5,3,6,1,0,74.0,80.0,69.0
+UBCV,2022,W,WRDS,150,B,854,Writing and Research in the Disciplines,Deogratias Nizonkiza,28,73.3,,85.0,36.0,1,0,0,1,3,3,8,6,5,1,0,75.0,78.0,71.0
+UBCV,2022,W,WRDS,150,B,942,Writing and Research in the Disciplines,Deogratias Nizonkiza,24,76.8,,83.0,71.0,0,0,0,0,0,1,5,15,3,0,0,78.0,78.0,75.8
+UBCV,2023,W,COMM,196,,105,Business Communications I,Deogratias Nizonkiza,25,74.2,,82.0,63.0,0,0,0,1,1,4,9,5,5,0,0,74.0,77.0,72.0
+UBCV,2023,W,COMM,196,,106,Business Communications I,Deogratias Nizonkiza,29,75.0,,81.0,69.0,0,0,0,0,0,4,15,8,2,0,0,75.0,77.0,74.0
+UBCV,2023,W,COMM,196,,213,Business Communications I,Deogratias Nizonkiza,25,74.0,,81.0,66.0,0,0,0,0,3,3,9,7,3,0,0,74.0,76.0,72.0
+UBCV,2023,W,COMM,196,,214,Business Communications I,Deogratias Nizonkiza,28,78.6,,83.0,74.0,0,0,0,0,0,0,3,12,12,0,0,78.0,81.0,77.0
+UBCV,2023,W,COMM,196,,217,Business Communications I,Deogratias Nizonkiza,30,77.5,,83.0,70.0,0,0,0,0,0,2,1,20,6,0,0,77.0,78.0,76.0
+UBCV,2023,W,COMM,396,,114,Business Communications II,Deogratias Nizonkiza,20,78.5,,85.0,70.0,0,0,0,0,0,1,4,6,8,1,0,78.0,81.0,75.8
+UBCV,2023,W,COMM,396,,115,Business Communications II,Deogratias Nizonkiza,20,79.5,,83.0,74.0,0,0,0,0,0,0,3,4,12,0,0,81.0,81.0,78.0
+UBCV,2023,W,COMM,396,,214,Business Communications II,Deogratias Nizonkiza,20,78.5,,85.0,62.0,0,0,0,1,0,0,2,7,9,1,0,79.0,81.3,77.8
+UBCV,2023,W,COMM,396,,215,Business Communications II,Deogratias Nizonkiza,20,78.9,,85.0,60.0,0,0,0,1,0,0,1,8,8,2,0,79.0,83.0,77.0

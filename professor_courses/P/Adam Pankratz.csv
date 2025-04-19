@@ -1,0 +1,138 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,COMM,491,,101,STRATEGIC MANGMT,"Pankratz, Adam",42,78.21,3.43,86,72,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,20,10,2,0,,,
+UBC,2016,W,COMM,491,,102,STRATEGIC MANGMT,"Pankratz, Adam",42,78.67,5.63,88,65,42,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,13,12,7,0,,,
+UBC,2016,W,COMM,491,,201,STRATEGIC MANGMT,"Pankratz, Adam",42,77.45,4.25,86,69,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,14,11,3,0,,,
+UBC,2016,W,COMM,491,,202,STRATEGIC MANGMT,"Pankratz, Adam",42,77.05,4.7,89,68,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,11,11,3,0,,,
+UBC,2016,W,COMM,493,,201,STRG MNGMNT BUS,"Pankratz, Adam",40,76.49,4.64,85,59,39,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,7,19,9,1,0,,,
+UBC,2017,S,BASM,550,,DD1,STRAT MGMT,"Pankratz, Adam",52,79.17,2.66,86,74,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,28,19,3,0,,,
+UBC,2017,S,COMM,493,,971,STRG MNGMNT BUS,"Pankratz, Adam",44,75.5,4.28,87,67,44,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,16,14,6,2,0,,,
+UBC,2017,W,BASM,550,,MM1,STRAT MGMT,"Pankratz, Adam",39,77.87,2.32,83,73,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,22,13,0,0,,,
+UBC,2017,W,COMM,491,,101,STRATEGIC MANGMT,"Pankratz, Adam",40,77.8,3.51,86,70,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,19,7,4,0,,,
+UBC,2017,W,COMM,491,,102,STRATEGIC MANGMT,"Pankratz, Adam",42,76.79,3.6,83,65,42,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,24,9,0,0,,,
+UBC,2017,W,COMM,491,,201,STRATEGIC MANGMT,"Pankratz, Adam",39,77.77,2.62,83,73,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,17,13,0,0,,,
+UBC,2017,W,COMM,491,,202,STRATEGIC MANGMT,"Pankratz, Adam",43,78.23,3.32,87,73,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,20,11,3,0,,,
+UBC,2017,W,COMM,493,,102,STRG MNGMNT BUS,"Pankratz, Adam",47,75.02,6.43,83,36,46,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,22,15,8,0,0,,,
+UBC,2017,W,COMM,493,,201,STRG MNGMNT BUS,"Pankratz, Adam",37,76.65,4.14,85,67,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,16,7,3,0,,,
+UBC,2017,W,COMM,493,,202,STRG MNGMNT BUS,"Pankratz, Adam",40,76,5.01,88,59,39,0,0,0,1,0,0,0,0,0,0,0,1,0,0,4,11,13,8,2,0,,,
+UBC,2018,S,BASM,550,,DD1,STRAT MGMT,"Pankratz, Adam",48,80.69,1.98,85,77,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,32,3,0,,,
+UBC,2018,S,COMM,491,,971,STRATEGIC MANGMT,"Pankratz, Adam",40,77.45,2.69,83,72,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,21,11,0,0,,,
+UBC,2018,S,COMM,493,,971,STRG MNGMNT BUS,"Pankratz, Adam",33,76.94,3.98,85,64,32,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,6,17,5,2,0,,,
+UBC,2018,W,BASM,550,,BA1,STRAT MGMT,"Pankratz, Adam",50,79.34,2.6,85,74,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,18,25,2,0,,,
+UBC,2018,W,BASM,550,,MM1,STRAT MGMT,"Pankratz, Adam",49,77.69,2.41,83,74,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,26,14,0,0,,,
+UBC,2018,W,COMM,486,M,205,SPECIAL TPC BUSI,"Pankratz, Adam",20,79.25,5.56,94,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,6,2,1,,,
+UBC,2018,W,COMM,491,,101,STRATEGIC MANGMT,"Pankratz, Adam",39,78.21,2.86,86,74,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,21,11,2,0,,,
+UBC,2018,W,COMM,491,,102,STRATEGIC MANGMT,"Pankratz, Adam",39,78.79,3.42,86,72,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,17,13,4,0,,,
+UBC,2018,W,COMM,491,,104,STRATEGIC MANGMT,"Pankratz, Adam",38,77.68,3.64,86,72,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,12,10,3,0,,,
+UBC,2018,W,COMM,493,,101,STRG MNGMNT BUS,"Pankratz, Adam",34,76.76,3.16,85,72,33,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,15,6,1,0,,,
+UBC,2018,W,COMM,493,,102,STRG MNGMNT BUS,"Pankratz, Adam",39,76.82,4.6,85,60,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,15,12,1,0,,,
+UBCV,2016,W,COMM,491,,101,Strategic Management,Adam Pankratz,42,78.21428571,3.432525304,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,10,20,10,2,0,,,
+UBCV,2016,W,COMM,491,,102,Strategic Management,Adam Pankratz,42,78.66666667,5.629481052,88.0,65.0,,,,,,,,,,,0,0,0,0,2,3,5,13,12,7,0,,,
+UBCV,2016,W,COMM,491,,201,Strategic Management,Adam Pankratz,42,77.45238095,4.249547356,86.0,69.0,,,,,,,,,,,0,0,0,0,0,2,12,14,11,3,0,,,
+UBCV,2016,W,COMM,491,,202,Strategic Management,Adam Pankratz,42,77.04761905,4.695365546,89.0,68.0,,,,,,,,,,,0,0,0,0,0,4,13,11,11,3,0,,,
+UBCV,2016,W,COMM,493,,201,Strategic Management in Business,Adam Pankratz,39,76.48717949,4.64458822,85.0,59.0,,,,,,,,,,,0,0,1,0,0,2,7,19,9,1,0,,,
+UBCV,2017,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,52,79.173076923,2.662161541,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,28,19,3,0,,,
+UBCV,2017,S,COMM,493,,971,Strategic Management in Business,Adam Pankratz,44,75.5,4.278121735,87.0,67.0,,,,,,,,,,,0,0,0,0,1,5,16,14,6,2,0,,,
+UBCV,2017,W,BASM,550,,MM1,Strategic Management,Adam Pankratz,39,77.871794872,2.319023015,83.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,22,13,0,0,,,
+UBCV,2017,W,COMM,491,,101,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,40,77.8,3.509693536,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,9,19,7,4,0,,,
+UBCV,2017,W,COMM,491,,102,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,42,76.785714286,3.599022322,83.0,65.0,,,,,,,,,,,0,0,0,0,1,4,4,24,9,0,0,,,
+UBCV,2017,W,COMM,491,,201,Strategic Management,Adam Pankratz,39,77.769230769,2.620381034,83.0,73.0,,,,,,,,,,,0,0,0,0,0,0,9,17,13,0,0,,,
+UBCV,2017,W,COMM,491,,202,Strategic Management,Adam Pankratz,43,78.23255814,3.322629547,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,9,20,11,3,0,,,
+UBCV,2017,W,COMM,493,,102,Strategic Management in Business,Adam Pankratz,47,75.021276596,6.428500947,83.0,36.0,,,,,,,,,,,1,0,0,0,0,1,22,15,8,0,0,,,
+UBCV,2017,W,COMM,493,,201,Strategic Management in Business,Adam Pankratz,37,76.648648649,4.14471696,85.0,67.0,,,,,,,,,,,0,0,0,0,1,4,6,16,7,3,0,,,
+UBCV,2017,W,COMM,493,,202,Strategic Management in Business,Adam Pankratz,40,75.925,4.968554967,88.0,59.0,,,,,,,,,,,0,0,1,0,0,4,12,13,8,2,0,,,
+UBCV,2018,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,48,80.6875,1.980288503,85.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,13,32,3,0,,,
+UBCV,2018,S,COMM,491,,971,Strategic Management,Adam Pankratz,40,77.45,2.688532151,83.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,21,11,0,0,,,
+UBCV,2018,S,COMM,493,,971,Strategic Management in Business,Adam Pankratz,32,76.9375,3.975225699,85.0,64.0,,,,,,,,,,,0,0,0,0,1,1,6,17,5,2,0,,,
+UBCV,2018,W,BA,511,,MM1,Community Business Project,Adam Pankratz;Elaine Williamson,48,84.0,3.195741848,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,20,24,0,,,
+UBCV,2018,W,BASM,550,,BA1,Strategic Management,Adam Pankratz,50,79.34,2.599921506,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,5,18,25,2,0,,,
+UBCV,2018,W,BASM,550,,MM1,Strategic Management,Adam Pankratz,49,77.693877551,2.408354224,83.0,74.0,,,,,,,,,,,0,0,0,0,0,0,9,26,14,0,0,,,
+UBCV,2018,W,COMM,486,M,205,Special Topics in Business,Adam Pankratz,20,79.35,5.612720515,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,6,6,2,1,,,
+UBCV,2018,W,COMM,491,,101,Strategic Management,Adam Pankratz,39,78.205128205,2.85785609,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,5,21,11,2,0,,,
+UBCV,2018,W,COMM,491,,102,Strategic Management,Adam Pankratz,39,78.794871795,3.419598985,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,17,13,4,0,,,
+UBCV,2018,W,COMM,491,,104,Strategic Management,Adam Pankratz,37,77.675675676,3.644280557,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,12,12,10,3,0,,,
+UBCV,2018,W,COMM,493,,101,Strategic Management in Business,Adam Pankratz;Alvaro Parra Perez,34,76.735294118,3.116999563,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,11,16,6,1,0,,,
+UBCV,2018,W,COMM,493,,102,Strategic Management in Business,Adam Pankratz,39,76.820512821,4.599037627,85.0,60.0,,,,,,,,,,,0,0,0,1,0,3,7,15,12,1,0,,,
+UBCV,2018,W,COMM,493,,201,Strategic Management in Business,Adam Pankratz;Patrick Scott Edmunds Orr;Patrick Scott Orr;Simran Alibhai,40,74.4,8.094949359,89.0,54.0,,,,,,,,,,,0,1,1,1,3,10,6,3,12,3,0,,,
+UBCV,2018,W,COMM,493,,202,Strategic Management in Business,Adam Pankratz;David Weiss;Laura Chen;Patrick Scott Edmunds Orr;Patrick Scott Orr,41,75.170731707,6.862588575,88.0,61.0,,,,,,,,,,,0,0,0,1,5,7,10,5,10,3,0,,,
+UBCV,2019,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,37,79.432432432,2.76426141,85.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,11,19,3,0,,,
+UBCV,2019,S,BASM,550,,DD2,Strategic Management,Adam Pankratz,37,79.297297297,2.757463255,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,17,15,2,0,,,
+UBCV,2019,S,COMM,491,,971,Strategic Management,Adam Pankratz,43,77.534883721,3.737511505,85.0,70.0,,,,,,,,,,,0,0,0,0,0,2,11,14,14,2,0,,,
+UBCV,2019,S,COMM,493,,971,Strategic Management in Business,Adam Pankratz,38,74.315789474,4.067705796,85.0,63.0,,,,,,,,,,,0,0,0,1,1,6,18,6,5,1,0,,,
+UBCV,2019,W,BA,511,,MM1,Community Business Project,Adam Pankratz;Elaine Williamson,47,79.276595745,3.44965107,85.0,71.0,,,,,,,,,,,0,0,0,0,0,2,3,15,24,3,0,,,
+UBCV,2019,W,BASM,502,,001,Corporate Strategy,Adam Pankratz;Perdip Atwal,43,80.930232558,4.049664,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,11,24,7,0,,,
+UBCV,2019,W,BASM,502,,818,Corporate Strategy,Adam Pankratz,31,77.0,4.531372125,87.0,71.0,,,,,,,,,,,0,0,0,0,0,2,15,6,4,4,0,,,
+UBCV,2019,W,BASM,550,,BA1,Strategic Management,Adam Pankratz,47,75.659574468,3.164178551,82.0,69.0,,,,,,,,,,,0,0,0,0,0,4,18,18,7,0,0,,,
+UBCV,2019,W,BASM,550,,MM1,Strategic Management,Adam Pankratz,47,76.212765957,3.444820751,82.0,69.0,,,,,,,,,,,0,0,0,0,0,5,14,16,12,0,0,,,
+UBCV,2019,W,COMM,394,,103,Government and Business,Adam Pankratz;Kevin Ang,45,74.577777778,4.075920916,87.0,69.0,,,,,,,,,,,0,0,0,0,0,8,22,6,8,1,0,,,
+UBCV,2019,W,COMM,486,M,203,Special Topics in Business,Adam Pankratz;S Thomas Mccormick,43,77.23255814,4.368922769,85.0,66.0,,,,,,,,,,,0,0,0,0,1,4,11,8,17,2,0,,,
+UBCV,2019,W,COMM,486,M,204,Special Topics in Business,Adam Pankratz;Lorenzo Garlappi;Trevor Hargreaves,37,76.675675676,6.641845686,90.0,63.0,,,,,,,,,,,0,0,0,1,2,4,11,6,8,4,1,,,
+UBCV,2019,W,COMM,491,,101,Strategic Management,Adam Pankratz;Heidi Holland;Yingying Zhao,41,76.804878049,2.502194159,82.0,72.0,,,,,,,,,,,0,0,0,0,0,0,11,20,10,0,0,,,
+UBCV,2019,W,COMM,491,,102,Strategic Management,Adam Pankratz;Heidi Holland;Patrisse Chan;Yingying Zhao,45,77.711111111,4.202933079,92.0,71.0,,,,,,,,,,,0,0,0,0,0,3,10,15,15,0,2,,,
+UBCV,2019,W,COMM,491,,104,Strategic Management,Adam Pankratz;Heidi Holland;Yingying Zhao,39,75.923076923,5.387043987,85.0,64.0,,,,,,,,,,,0,0,0,0,5,3,8,8,14,1,0,,,
+UBCV,2019,W,COMM,493,,101,Strategic Management in Business,Adam Pankratz;Guillermo Marshall Manriquez;Laura Chen;Patrisse Chan;Sabrina Dhalla;Simran Alibhai,42,81.404761905,8.118210556,95.0,61.0,,,,,,,,,,,0,0,0,3,0,1,3,7,12,9,7,,,
+UBCV,2019,W,COMM,493,,102,Strategic Management in Business,Adam Pankratz;Guillermo Marshall Manriquez;Laura Chen;Simran Alibhai,41,83.682926829,5.632224358,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,14,10,7,,,
+UBCV,2020,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,59,78.576271186,2.901862599,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,8,23,26,2,0,,,
+UBCV,2020,S,BASM,550,,DD2,Strategic Management,Adam Pankratz,12,78.916666667,2.678477632,83.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,4,6,0,0,,,
+UBCV,2020,S,COMR,493,,971,Strategic Management in Business,Adam Pankratz;Navid Siami,30,76.4,4.359689961,87.0,69.0,,,,,,,,,,,0,0,0,0,0,3,12,7,6,2,0,,,
+UBCV,2020,W,BA,511,,MM1,Community Business Project,Adam Pankratz;Elaine Williamson,55,84.381818182,3.251728367,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,27,23,4,,,
+UBCV,2020,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Alice Hui Li;Alice Li,55,85.054545455,8.334262574,99.0,60.0,,,,,,,,,,,0,0,0,1,0,3,4,3,13,14,17,,,
+UBCV,2020,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Jung Huang,18,84.222222222,8.164165283,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,2,2,6,5,,,
+UBCV,2020,W,BASM,502,,819,Corporate Strategy,Adam Pankratz;Benedict Tan,31,80.0,1.843908891,83.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,10,21,0,0,,,
+UBCV,2020,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz;David Weiss;Parmjot Gill,52,81.019230769,2.623352029,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,34,9,0,,,
+UBCV,2020,W,BASM,550,,MM1,Strategic Management,Adam Pankratz;Parmjot Gill,56,79.982142857,2.203229625,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,16,38,1,0,,,
+UBCV,2020,W,COMM,486,M,202,Special Topics in Business,Adam Pankratz;Mary Connolly;Oliver Mueller;Yi Qian,45,79.288888889,4.419081673,89.0,66.0,,,,,,,,,,,0,0,0,0,2,0,4,13,20,6,0,,,
+UBCV,2020,W,COMM,486,M,203,Special Topics in Business,Adam Pankratz;Joanne Turner;Oliver Mueller,39,79.435897436,4.435472275,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,6,15,12,5,1,,,
+UBCV,2020,W,COMM,486,M,204,Special Topics in Business,Adam Pankratz;Oliver Mueller;Sima Sajjadiani,38,77.736842105,4.253356134,88.0,70.0,,,,,,,,,,,0,0,0,0,0,3,9,14,9,3,0,,,
+UBCV,2020,W,COMM,491,,103,Strategic Management,Adam Pankratz;Parmjot Gill,41,76.682926829,2.678049891,81.0,72.0,,,,,,,,,,,0,0,0,0,0,0,12,19,10,0,0,,,
+UBCV,2020,W,COMM,491,,104,Strategic Management,Adam Pankratz;Parmjot Gill,41,74.463414634,3.163048853,80.0,66.0,,,,,,,,,,,0,0,0,0,1,5,19,11,5,0,0,,,
+UBCV,2020,W,COMM,491,,201,Strategic Management,Adam Pankratz;Benedict Tan,35,76.771428571,3.172359618,85.0,66.0,,,,,,,,,,,0,0,0,0,1,0,9,17,7,1,0,,,
+UBCV,2020,W,COMM,491,,202,Strategic Management,Adam Pankratz;Benedict Tan,33,76.96969697,2.567645425,83.0,74.0,,,,,,,,,,,0,0,0,0,0,0,11,13,9,0,0,,,
+UBCV,2021,S,BASM,550,,DD1,Strategic Management,Adam Pankratz;Eliza Fedechko,32,78.5,3.058568082,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,14,11,1,0,,,
+UBCV,2021,S,BASM,550,,DD2,Strategic Management,Adam Pankratz;Eliza Fedechko,32,78.875,3.279948859,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,5,13,13,1,0,,,
+UBCV,2021,S,BUSI,493,,971,Strategic Management in Business,Adam Pankratz;Kevin James,24,73.583333333,7.300486384,81.0,53.0,,,,,,,,,,,0,2,0,0,1,1,8,8,4,0,0,,,
+UBCV,2021,S,COMR,493,,971,Strategic Management in Business,Adam Pankratz;Eliza Fedechko,36,71.722222222,7.557819455,83.0,53.0,,,,,,,,,,,0,1,2,2,2,8,8,6,7,0,0,,,
+UBCV,2021,W,BA,511,,MM1,Community Business Project,Adam Pankratz;Wayne Rawcliffe,45,84.088888889,2.530021759,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,30,15,0,,,
+UBCV,2021,W,BASM,502,,001,Corporate Strategy,Adam Pankratz,54,82.222222222,2.988447358,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,8,34,12,0,,,
+UBCV,2021,W,BASM,502,,002,Corporate Strategy,Adam Pankratz,44,81.863636364,2.141406939,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,39,4,0,,,
+UBCV,2021,W,BASM,550,,MM1,Strategic Management,Adam Pankratz,46,80.891304348,2.272817741,86.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,10,31,5,0,,,
+UBCV,2021,W,COMM,491,,103,Strategic Management,Adam Pankratz;Oliver Mueller,43,75.813953488,6.547467027,85.0,38.0,,,,,,,,,,,1,0,0,0,0,3,8,26,4,1,0,,,
+UBCV,2021,W,COMM,491,,104,Strategic Management,Adam Pankratz;Oliver Mueller,39,75.205128205,3.318048627,81.0,67.0,,,,,,,,,,,0,0,0,0,1,4,15,14,5,0,0,,,
+UBCV,2021,W,COMM,491,,105,Strategic Management,Adam Pankratz,44,78.772727273,3.456464361,85.0,62.0,,,,,,,,,,,0,0,0,1,0,0,2,16,23,2,0,,,
+UBCV,2021,W,COMR,493,,101,Strategic Management in Business,Adam Pankratz;Guillermo Marshall Manriquez;Lan Qing Wang,36,75.472222222,3.130368405,81.0,69.0,,,,,,,,,,,0,0,0,0,0,5,11,14,6,0,0,,,
+UBCV,2021,W,COMR,493,,102,Strategic Management in Business,Adam Pankratz;Guillermo Marshall Manriquez;Lan Qing Wang,30,75.5,6.050078369,90.0,53.0,,,,,,,,,,,0,1,0,0,0,4,9,9,6,0,1,,,
+UBCV,2021,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,32,78.5,,86.0,72.0,,,,,,,,,,,,,,,,,6,14,11,,,78.0,81.0,77.0
+UBCV,2021,S,BASM,550,,DD2,Strategic Management,Adam Pankratz,32,78.9,,85.0,74.0,,,,,,,,,,,,,,,,,,13,13,,,78.0,81.3,76.0
+UBCV,2021,S,BUSI,493,,971,Strategic Management in Business,Adam Pankratz,24,73.6,,81.0,53.0,,,,,,,,,,,,,,,,,8,8,,,,75.5,77.3,72.8
+UBCV,2021,S,COMR,493,,971,Strategic Management in Business,Adam Pankratz,36,71.7,,83.0,53.0,,,,,,,,,,,,,,,,8,8,6,7,,,72.5,77.0,68.0
+UBCV,2021,W,BASM,502,,001,Corporate Strategy,Adam Pankratz,54,82.2,,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,8,34,12,0,82.0,84.0,80.0
+UBCV,2021,W,BASM,502,,002,Corporate Strategy,Adam Pankratz,44,81.9,,89.0,78.0,,,,,,,,,,,,,,,,,,,39,,,81.0,83.0,80.0
+UBCV,2021,W,BASM,550,,MM1,Strategic Management,Adam Pankratz,46,80.9,,86.0,77.0,,,,,,,,,,,,,,,,,,10,31,,,81.0,82.0,80.0
+UBCV,2021,W,COMM,491,,104,Strategic Management,Adam Pankratz,39,75.2,,81.0,67.0,,,,,,,,,,,,,,,,,15,14,,,,75.0,78.0,73.0
+UBCV,2021,W,COMM,491,,105,Strategic Management,Adam Pankratz,44,78.8,,85.0,62.0,,,,,,,,,,,,,,,,,,16,23,,,80.0,80.0,78.0
+UBCV,2021,W,COMR,493,,101,Strategic Management in Business,Adam Pankratz,36,75.5,,81.0,69.0,,,,,,,,,,,,,,,,,11,14,6,,,76.0,77.0,73.8
+UBCV,2021,W,COMR,493,,102,Strategic Management in Business,Adam Pankratz,30,75.5,,90.0,53.0,,,,,,,,,,,,,,,,,9,9,6,,,76.0,77.8,74.0
+UBCV,2022,S,BASM,502,,820,Corporate Strategy,Adam Pankratz,39,81.5,,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,29,5,0,81.0,83.0,80.0
+UBCV,2022,S,BASM,514,,301,Strategy in Organizations,Adam Pankratz,36,83.8,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,22,13,1,84.0,86.0,82.0
+UBCV,2022,S,BASM,550,,DD1,Strategic Management,Adam Pankratz,45,81.2,,85.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,39,3,0,81.0,82.0,80.0
+UBCV,2022,S,BASM,550,,DD2,Strategic Management,Adam Pankratz,45,81.9,,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,38,7,0,81.0,83.0,80.0
+UBCV,2022,S,COMM,491,,971,Strategic Management,Adam Pankratz,39,75.2,,85.0,0.0,,,,,,,,,,,1,0,0,0,2,2,6,14,13,1,0,78.0,80.0,75.0
+UBCV,2022,S,COMR,493,,971,Strategic Management in Business,Adam Pankratz,22,74.9,,85.0,61.0,,,,,,,,,,,0,0,0,1,0,1,8,10,1,1,0,76.0,77.0,73.3
+UBCV,2022,W,BASM,502,,001,Corporate Strategy,Adam Pankratz,15,85.2,,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,11,0,86.0,86.5,84.5
+UBCV,2022,W,BASM,502,,821,Corporate Strategy,Adam Pankratz,17,80.2,,82.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,15,0,0,80.0,81.0,80.0
+UBCV,2022,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz,50,83.0,,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,36,14,0,84.0,85.0,81.0
+UBCV,2022,W,COMM,394,,107,"Environment, Society, and Government",Adam Pankratz,42,78.5,,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,5,18,15,3,0,78.0,80.8,76.0
+UBCV,2022,W,COMM,394,,108,"Environment, Society, and Government",Adam Pankratz,46,77.1,,85.0,65.0,,,,,,,,,,,0,0,0,0,1,0,16,14,13,2,0,77.0,80.0,75.0
+UBCV,2022,W,COMM,394,,201,"Environment, Society, and Government",Adam Pankratz,48,78.9,,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,19,16,5,0,78.0,81.3,76.0
+UBCV,2022,W,COMM,394,,203,"Environment, Society, and Government",Adam Pankratz,36,74.7,,80.0,68.0,,,,,,,,,,,0,0,0,0,0,7,13,11,5,0,0,75.0,78.0,72.8
+UBCV,2022,W,COMM,491,,104,Strategic Management,Adam Pankratz,37,75.5,,80.0,69.0,,,,,,,,,,,0,0,0,0,0,4,15,13,5,0,0,75.0,77.0,74.0
+UBCV,2022,W,COMM,491,,105,Strategic Management,Adam Pankratz,37,76.3,,85.0,65.0,,,,,,,,,,,0,0,0,0,1,2,12,13,8,1,0,77.0,78.0,75.0
+UBCV,2022,W,COMM,491,,203,Strategic Management,Adam Pankratz,44,78.8,,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,5,19,16,4,0,78.0,80.3,76.0
+UBCV,2022,W,COMM,491,,204,Strategic Management,Adam Pankratz,42,76.7,,83.0,73.0,,,,,,,,,,,0,0,0,0,0,0,16,17,9,0,0,76.0,78.0,75.0
+UBCV,2023,S,COMM,491,,971,Strategic Management,Adam Pankratz,35,77.82,,85.0,71.0,,,,,,,,,,,0,0,0,0,0,1,7,12,13,1,0,77.5,80.0,76.0
+UBCV,2023,S,COMR,493,,971,Strategic Management in Business,Adam Pankratz,16,75.13,,82.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,9,2,0,0,76.0,77.0,74.0
+UBCV,2023,W,BASM,502,,822,Corporate Strategy,Adam Pankratz,8,79.0,,82.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,0,0,80.0,80.0,77.0
+UBCV,2023,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz,47,81.6,,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,31,9,0,82.0,83.0,80.0
+UBCV,2023,W,COMM,394,,205,"Environment, Society, and Government",Adam Pankratz,47,76.0,,82.0,52.0,,,,,,,,,,,0,1,0,0,0,2,17,13,14,0,0,76.0,80.0,74.0
+UBCV,2023,W,COMM,394,,206,"Environment, Society, and Government",Adam Pankratz,47,76.2,,87.0,49.0,,,,,,,,,,,1,0,0,0,0,3,14,16,9,4,0,76.0,80.0,74.0
+UBCV,2023,W,COMM,491,,204,Strategic Management,Adam Pankratz,44,75.52,,89.0,67.0,,,,,,,,,,,0,0,0,0,1,6,18,9,8,2,0,75.0,77.0,73.0
+UBCV,2023,W,COMM,491,,205,Strategic Management,Adam Pankratz,41,77.46,,82.0,70.0,,,,,,,,,,,0,0,0,0,0,1,7,18,15,0,0,78.0,80.0,76.0

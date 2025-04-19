@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPEN,312,,201,Digital Systems and Microcomputers,Ahmed Mustafa;Ayub Gubran;Harshdeep Brar;Jesus Calvino-Fraga;Mohammad Arafat Hussain;Seyed Mehran Pesteie;Tanuj Aasawat;Tanuj Kr Aasawat;Yinjia Huo,129,80.255813953,16.416587967,100.0,0.0,10,,,,3,6,8,14,27,15,42
+UBCV,2017,W,ELEC,201,,102,Circuit Analysis I,Barbara Ramos Macias;Jesus Calvino-Fraga;Luis Linares;Yinjia Huo;Ziyu Wang,99,74.676767677,24.760002424,99.0,0.0,19,0,0,1,3,5,6,7,12,10,36
+UBCV,2018,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Janani Murthy;Lianghui Zhang;Yinjia Huo,56,74.678571429,12.201500866,92.0,40.0,2,1,5,1,4,6,9,5,8,9,6
+UBCV,2018,W,ELEC,331,,201,Computer Communications,Farhad Dashti Ardakani;Manyou Ma;Wai-Shuen Vincent Wong;Yinjia Huo,75,68.893333333,17.958340179,97.0,7.0,9,3,5,5,6,10,6,9,5,10,7
+UBCV,2019,W,DSCI,553,,001,Statistical Inference and Computation II,Aarti Kashyap;Alireza Naderi;Elijah Willie;Giuseppe Carenini;Michael Gelbart;Trevor Campbell;Yinjia Huo,94,87.042553191,6.924966354,98.0,56.0,0,0,,,,2,3,5,15,26,42
+UBCV,2019,W,DSCI,572,,001,Supervised Learning II,Aaron Berk;Daniele Reda;Michael Gelbart;Tiffany Timbers;Vaden Masrani;Yinjia Huo,94,87.031914894,6.243193503,99.0,65.0,0,0,0,0,2,0,1,8,21,24,38
+UBCV,2019,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,12,87.666666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
+UBCV,2019,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,46,81.760869565,11.493350314,98.0,51.0,0,1,1,3,2,1,5,3,6,10,14
+UBCV,2020,W,DSCI,512,,001,Algorithms and Data Structures,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Yinjia Huo,96,92.458333333,5.513460403,100.0,74.0,0,0,0,0,0,0,1,2,7,14,72
+UBCV,2020,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Aaron Berk;Eric Lee;Hossameldin Ibrahim Said Mohammed;Man Yeung Tai;Safa Sadat Ahmadian Hosseini;Stephen Kasica;Vincenzo Coia;Yinjia Huo,128,88.625,7.849971162,100.0,47.0,1,0,0,0,2,3,4,6,8,34,70
+UBCV,2020,W,DSCI,553,,001,Statistical Inference and Computation II,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Trevor Campbell;Vaden Masrani;Yinjia Huo,95,87.610526316,7.009559941,97.0,60.0,0,0,0,1,3,0,2,4,8,35,42
+UBCV,2020,W,DSCI,563,,001,Unsupervised Learning,Aaron Berk;Ali Seyfi;Alireza Iranpour;Rodolfo Lourenzutti;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,95,93.978947368,3.392667147,99.0,83.0,0,0,0,0,0,0,0,0,2,8,85
+UBCV,2020,W,DSCI,573,,001,Feature and Model Selection,Man Yeung Tai;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,126,91.746031746,5.247378786,99.0,70.0,0,0,0,0,0,2,1,2,4,23,94
+UBCV,2020,W,DSCI,574,,001,Spatial and Temporal Models,Afshin Amini;Alireza Iranpour;Natalia Nolde;Siddhesh Khandelwal;Tomas Beuzen;Yinjia Huo,95,94.757894737,3.628245545,100.0,77.0,0,0,0,0,0,0,0,1,1,6,87
+UBCV,2020,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,17,80.117647059,12.9753726,97.0,49.0,2,0,0,0,0,0,2,2,4,2,5
+UBCV,2020,W,ELEC,221,,101,Signals and Systems,Andrew Ehebald;Chun Yi Lin;Dominic Shillingford;Joel Hernandez-Balades;Lutz Lampe;Selvakumar Tharranetharan;Yinjia Huo,198,73.808080808,13.85103985,97.0,0.0,11,12,7,10,9,22,22,33,21,34,17
+UBCV,2020,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,55,74.672727273,10.804756404,92.0,43.0,1,0,4,4,6,5,4,10,11,7,3
+UBCV,2021,S,APSC,160,,921,Introduction to Computation in Engineering Design,Amirhossein Omidvarpashesar;Anindya Roy;Daniel Holanda Noronha;Farshid Agharebparast;Joel Hernandez-Balades;Jose Pinilla Gomez;Yinjia Huo,108,81.731481481,13.485614684,100.0,25.0,6,0,0,4,2,7,5,13,14,21,36
+UBCV,2021,W,ELEC,400,M,201,Topics in Electrical Engineering,Caroline White;Chun-Yin Huang;Khaled Ahmed;Lutz Lampe;Mohammadhossein Olyaiy;Muchen He;Seyed Mohammad Sadegh Mahdavi;Wenyi Gong;Xiaoxiao Li;Yinjia Huo,57,90.526315789,9.04770149,100.0,53.0,0,1,0,0,0,2,1,3,4,8,38

@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,422,,101,Intelligent Systems,Giuseppe Carenini;Jordon Johnson;Linzi Xing;Shane Sims;Shunsuke Ishige;Zicong Fan,105,78.419047619,11.445339119,98.0,40.0,2,2,2,5,4,10,14,16,18,10,22
+UBCV,2018,W,CPSC,425,,201,Computer Vision,Bicheng Xu;Borna Ghotbi;Leonid Sigal;Tzu-Yun Shann;Zicong Fan,146,77.02739726,11.174444493,97.0,12.0,2,2,3,5,12,19,19,15,33,20,16
+UBCV,2019,W,CPSC,425,,101,Computer Vision,Farnoosh Javadifishani;Ivan Beschastnikh;James Joseph Little;James Little;Mir Rayat Imtiaz Hossain;Zicong Fan,69,76.869565217,11.102348776,94.0,41.0,1,2,3,3,5,6,6,8,15,14,6

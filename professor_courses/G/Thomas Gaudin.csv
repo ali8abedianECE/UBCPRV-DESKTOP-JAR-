@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Kara Verbeek;Michael Barton;Robert Gaudin;Robert Thomas Andrew Gaudin;Thomas Gaudin;Yajiao Fan,32,80.25,4.676640647,87.0,66.0,0,0,0,0,,,,8,15,5,0,,,
+UBCV,2015,W,ARCH,517,,001,Design Media II,Blair Satterfield;David Flanders;Kara Verbeek;Michael Barton;Robert Gaudin;Robert Thomas Andrew Gaudin;Thomas Gaudin;Yajiao Fan,59,80.186440678,4.376562091,87.0,68.0,0,0,0,0,0,2,8,9,31,9,0,,,
+UBCV,2019,S,ARCH,577,C,001,Seminar: Design Media,Derek Mavis;Robert Gaudin;Sarah Klym;Thomas Gaudin,36,84.416666667,7.144928271,96.0,68.0,0,0,0,0,0,3,1,2,9,12,9,,,
+UBCV,2019,W,ARCH,437,,001,Geometric Modelling,Derek Mavis;Guy Mclintock;Jason Heinrich;Lisa Kusaka;Lisa Noe Kusaka;Robert Gaudin;Thena Tak;Thomas Gaudin;Vincent Perron;Zahra Asghari,30,83.366666667,1.496739752,87.0,81.0,0,0,0,0,0,0,0,0,26,4,0,,,
+UBCV,2019,W,ARCH,517,,001,Design Media II,Blair Satterfield;Derek Mavis;Guy Mclintock;Jason Heinrich;Lisa Kusaka;Lisa Noe Kusaka;Robert Gaudin;Thena Tak;Thomas Gaudin;Vincent Perron;Zahra Asghari,72,81.361111111,4.548039527,87.0,57.0,0,0,,1,,,2,7,51,10,0,,,
+UBCV,2020,S,ARCH,577,C,001,Seminar: Design Media,Nicholas Saraiva Martino;Robert Gaudin;Thomas Gaudin,37,82.459459459,1.591550512,84.0,76.0,0,0,0,0,0,0,0,2,35,0,0,,,
+UBCV,2020,S,ENDS,482,F,001,Special Topics,Nicholas Saraiva Martino;Robert Gaudin;Robert Thomas Andrew Gaudin;Thomas Gaudin,6,82.0,1.549193338,84.0,80.0,0,0,0,0,0,0,0,0,6,0,0,,,
+UBCV,2021,S,ARCH,577,C,001,Seminar: Design Media,Nicholas Saraiva Martino;Thomas Gaudin,22,79.863636364,17.990196946,90.0,0.0,1,0,0,0,0,0,0,0,15,5,1,,,
+UBCV,2021,W,ARCH,517,,001,Design Media II,Cindy Sze Nga Lee;Guy Mclintock;Nicholas Paczkowski;Parker Albanese;Ranveer Sandhu;Sarah Klym;Sze Nga Lee;Thena Tak;Thomas Gaudin,38,83.184210526,2.392050609,89.0,77.0,0,0,0,0,0,0,0,2,26,10,0,,,
+UBCV,2021,S,ARCH,577,C,001,Seminar: Design Media,Thomas Gaudin,22,79.9,,90.0,0.0,,,,,,,,,15,,,83.0,84.8,82.0
+UBCV,2021,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy Mclintock;Thena Tak,38,83.2,,89.0,77.0,,,,,,,,,26,10,,83.0,84.8,82.0
+UBCV,2022,S,ARCH,577,C,001,Seminar: Design Media,Thomas Gaudin,29,82.6,,89.0,60.0,0,0,0,1,0,0,0,2,17,9,0,83.0,85.0,81.0
+UBCV,2022,W,ARCH,515,,001,Design Media I,Thomas Gaudin;Sarah Klym,38,83.1,,88.0,63.0,0,0,0,1,0,0,1,2,17,17,0,84.0,86.0,81.3
+UBCV,2022,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy McLintock,39,83.7,,92.0,74.0,0,0,0,0,0,0,1,5,19,11,3,84.0,86.5,80.5
+UBCV,2023,S,ARCH,577,C,001,Seminar: Design Media,Thomas Gaudin,24,85.32,,90.0,69.0,0,0,0,0,0,1,0,2,5,5,9,87.5,90.0,80.5
+UBCV,2023,S,DES,450,I,001,Special Topics,Thomas Gaudin,6,86.67,,90.0,85.0,0,0,0,0,0,0,0,0,0,4,2,85.0,88.75,85.0
+UBCV,2023,W,ARCH,515,,001,Design Media I,Thomas Gaudin;Sarah Klym,44,85.33,,91.0,78.0,0,0,0,0,0,0,0,3,12,23,5,85.0,87.0,83.5
+UBCV,2023,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy McLintock,42,85.14,,90.0,79.0,0,0,0,0,0,0,0,1,16,24,1,85.0,87.0,84.0

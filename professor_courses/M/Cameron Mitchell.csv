@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,KIN,275,,L1A,Exercise Physiology I,Cameron Mitchell;Gevorg Eginyan;Hannah Goodings,24,72.166666667,10.251899789,88.0,47.0,1,1,1,0,4,2,7,1,5,2,0,,,
+UBCV,2019,W,KIN,275,,L1B,Exercise Physiology I,Cameron Mitchell,24,76.375,10.700721227,96.0,53.0,0,1,1,1,2,2,3,5,4,2,3,,,
+UBCV,2019,W,KIN,275,,L1C,Exercise Physiology I,Cameron Mitchell,27,70.703703704,12.931222843,92.0,48.0,1,2,3,4,0,5,2,3,1,5,1,,,
+UBCV,2019,W,KIN,275,,L1D,Exercise Physiology I,Cameron Mitchell,27,68.666666667,9.738899006,93.0,50.0,0,1,3,5,5,5,1,3,2,1,1,,,
+UBCV,2019,W,KIN,275,,L1E,Exercise Physiology I,Cameron Mitchell,26,73.192307692,7.66821612,89.0,56.0,0,0,1,2,3,4,7,3,4,2,0,,,
+UBCV,2019,W,KIN,275,,L2A,Exercise Physiology I,Cameron Mitchell;Joshua Bovard;Joshua Landan Taylor;Joshua Maschio Bovard;Joshua Taylor,30,78.933333333,11.491926201,96.0,55.0,0,0,2,2,1,3,1,6,3,6,6,,,
+UBCV,2019,W,KIN,275,,L2B,Exercise Physiology I,Cameron Mitchell,31,79.258064516,10.560832486,94.0,52.0,0,1,0,1,4,1,3,5,4,6,6,,,
+UBCV,2019,W,KIN,275,,L2C,Exercise Physiology I,Cameron Mitchell,27,76.666666667,12.212855774,98.0,57.0,0,0,4,1,1,4,4,0,5,2,6,,,
+UBCV,2020,W,KIN,235,,L1A,Exercise Physiology I,Cameron Mitchell;Joshua Taylor;Matthew Fliss;Paige Reinhard,17,73.882352941,13.536443186,93.0,46.0,1,1,1,1,1,1,3,2,2,2,2,,,
+UBCV,2020,W,KIN,235,,L1B,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Paige Reinhard,20,76.8,10.610818709,95.0,51.0,0,1,1,0,2,2,1,4,4,4,1,,,
+UBCV,2020,W,KIN,235,,L1C,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Paige Reinhard,42,78.880952381,10.136152108,96.0,55.0,0,0,2,2,3,4,2,4,12,7,6,,,
+UBCV,2020,W,KIN,235,,L1D,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Paige Reinhard,37,75.189189189,8.987144639,92.0,51.0,0,1,1,1,4,4,8,7,4,5,2,,,
+UBCV,2020,W,KIN,235,,L1E,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Paige Reinhard,14,79.642857143,8.705499083,87.0,53.0,0,1,0,0,0,1,0,2,7,3,0,,,
+UBCV,2020,W,KIN,235,,L2A,Exercise Physiology I,Cameron Mitchell;Michael Leahy;Shalaya Kipp,43,83.953488372,9.678039669,96.0,51.0,0,1,0,2,0,0,3,5,5,13,14,,,
+UBCV,2020,W,KIN,235,,L2B,Exercise Physiology I,Cameron Mitchell;Michael Leahy;Shalaya Kipp,40,77.25,11.056382308,98.0,53.0,0,2,0,3,3,4,5,7,6,5,5,,,
+UBCV,2020,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell;Michael Leahy;Shalaya Kipp,39,84.871794872,9.668667483,100.0,55.0,0,0,1,0,0,2,2,6,5,7,16,,,
+UBCV,2020,W,KIN,438,,001,Skeletal Muscle Physiology: From Generation to Regeneration,Cameron Mitchell;Matthew Fliss,61,80.114754098,7.958430249,93.0,61.0,0,0,0,3,3,5,3,11,16,15,5,,,
+UBCV,2021,W,KIN,235,,L1A,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Owen Harris,25,67.88,15.248825091,95.0,41.0,2,4,3,2,0,4,2,2,2,2,2,,,
+UBCV,2021,W,KIN,235,,L1B,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Owen Harris,24,80.166666667,11.350796435,94.0,50.0,0,1,0,2,0,3,2,0,6,4,6,,,
+UBCV,2021,W,KIN,235,,L1C,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Owen Harris,27,80.592592593,11.813484014,97.0,57.0,0,0,1,3,1,1,1,3,4,7,6,,,
+UBCV,2021,W,KIN,235,,L1D,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Owen Harris,26,72.730769231,13.686658299,96.0,39.0,2,1,2,1,2,2,3,6,2,4,1,,,
+UBCV,2021,W,KIN,235,,L1E,Exercise Physiology I,Cameron Mitchell;Matthew Fliss;Owen Harris,26,71.423076923,15.83205123,96.0,31.0,3,0,2,1,1,6,1,3,4,3,2,,,
+UBCV,2021,W,KIN,235,,L2A,Exercise Physiology I,Cameron Mitchell;Shalaya Kipp;Stephen Busch,41,77.195121951,11.85373256,94.0,45.0,1,2,1,1,2,2,8,4,9,6,5,,,
+UBCV,2021,W,KIN,235,,L2B,Exercise Physiology I,Cameron Mitchell;Shalaya Kipp;Stephen Busch,42,74.976190476,11.777382407,95.0,46.0,1,2,1,2,3,5,6,4,10,4,4,,,
+UBCV,2021,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell;Shalaya Kipp;Stephen Busch,38,69.657894737,11.449716899,92.0,50.0,0,4,4,5,5,4,2,6,2,5,1,,,
+UBCV,2021,W,KIN,438,,001,Skeletal Muscle Physiology: From Generation to Regeneration,Allyson Schweitzer;Cameron Mitchell,56,77.625,12.28681851,96.0,48.0,1,2,2,2,6,5,6,5,9,8,10,,,
+UBCV,2022,W,KIN,235,,L1A,Exercise Physiology I,Cameron Mitchell,30,76.1,,95.0,44.0,1,1,0,0,3,6,1,6,4,6,2,76.0,84.8,70.0
+UBCV,2022,W,KIN,235,,L1B,Exercise Physiology I,Cameron Mitchell,29,76.5,,91.0,55.0,0,0,3,3,1,2,3,2,7,3,5,80.0,85.0,69.0
+UBCV,2022,W,KIN,235,,L1C,Exercise Physiology I,Cameron Mitchell,29,79.0,,91.0,59.0,0,0,1,1,3,3,1,5,6,6,3,81.0,87.0,71.0
+UBCV,2022,W,KIN,235,,L1D,Exercise Physiology I,Cameron Mitchell,28,77.0,,97.0,46.0,1,0,0,2,2,2,4,4,7,3,3,78.5,83.3,71.5
+UBCV,2022,W,KIN,235,,L1E,Exercise Physiology I,Cameron Mitchell,27,72.0,,91.0,44.0,2,0,2,5,1,3,3,2,2,4,3,74.0,84.0,62.5
+UBCV,2022,W,KIN,235,,L2B,Exercise Physiology I,Cameron Mitchell,59,77.6,,97.0,51.0,0,1,1,2,8,6,8,6,7,10,10,77.0,86.0,69.0
+UBCV,2022,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell,59,77.8,,96.0,55.0,0,0,3,3,3,5,8,9,10,13,5,78.0,85.0,72.0
+UBCV,2022,W,KIN,438,,001,"Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging",Cameron Mitchell,62,81.3,,93.0,55.0,0,0,1,1,0,5,9,6,15,15,10,82.0,87.0,75.5
+UBCV,2023,W,KIN,235,,L1A,Exercise Physiology I,Cameron Mitchell,25,72.0,,96.0,42.0,2,1,2,0,3,3,3,4,2,3,2,73.0,81.0,65.0
+UBCV,2023,W,KIN,235,,L1B,Exercise Physiology I,Cameron Mitchell,30,75.7,,92.0,54.0,0,1,1,0,3,3,7,3,9,2,1,75.5,81.8,71.3
+UBCV,2023,W,KIN,235,,L1C,Exercise Physiology I,Cameron Mitchell,30,76.4,,92.0,42.0,1,1,1,1,2,2,2,3,9,5,2,81.0,84.0,71.0
+UBCV,2023,W,KIN,235,,L1D,Exercise Physiology I,Cameron Mitchell,30,73.1,,95.0,37.0,2,0,1,2,4,1,5,5,4,3,1,75.0,81.3,66.8
+UBCV,2023,W,KIN,235,,L1E,Exercise Physiology I,Cameron Mitchell,22,74.7,,95.0,58.0,0,0,2,2,3,3,1,1,3,4,2,72.0,85.0,65.0
+UBCV,2023,W,KIN,235,,L2A,Exercise Physiology I,Cameron Mitchell,30,76.0,,98.0,58.0,0,0,2,3,1,3,6,4,4,3,3,75.0,83.0,68.0
+UBCV,2023,W,KIN,235,,L2B,Exercise Physiology I,Cameron Mitchell,30,75.1,,96.0,53.0,0,2,1,1,2,5,5,2,5,5,2,73.0,83.8,68.0
+UBCV,2023,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell,24,76.4,,91.0,52.0,0,1,1,1,3,1,4,4,1,5,3,77.0,85.3,70.0
+UBCV,2023,W,KIN,235,,L2D,Exercise Physiology I,Cameron Mitchell,26,67.9,,90.0,45.0,2,4,1,4,1,2,4,1,2,3,1,68.0,79.0,59.0
+UBCV,2023,W,KIN,438,,001,"Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging",Cameron Mitchell,82,77.4,,95.0,0.0,2,2,0,2,5,10,9,5,16,16,10,80.0,87.0,70.0

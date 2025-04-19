@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,RMES,500,T,201,RESRCE&ENV WKSHP,"Ramankutty, Navin",11,85.73,3.29,91,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,2
+UBC,2015,W,ENVR,448,A,201,DIR STD ENVR SCI,"Ramankutty, Navin",10,84.5,4.81,91,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,1
+UBC,2015,W,RMES,500,T,201,RESRCE&ENV WKSHP,"Ramankutty, Navin",5,82.6,5.94,91,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2016,W,ENVR,440,,101,ANLYTC MTHD SUST,"Ramankutty, Navin",35,82.91,5.05,92,71,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,14,12,2
+UBC,2017,W,ENVR,440,,101,ANLYTC MTHD SUST,"Ramankutty, Navin",39,87.05,6.51,98,72,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,4,12,17
+UBCV,2014,W,RMES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty,11,85.72727273,3.289100457,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,
+UBCV,2015,W,ENVR,448,A,201,Directed Studies in Environmental Science,Navin Ramankutty,10,84.5,4.813176359,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,6,
+UBCV,2015,W,RMES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty,5,82.6,5.941380311,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2016,W,ENVR,440,,101,Analytical Methods in Sustainability Science,Navin Ramankutty;Vincent Ricciardi,35,82.91428571,5.054825467,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,2,14,12,2
+UBCV,2017,W,ENVR,440,,101,Analytical Methods in Sustainability Science,Balsher Singh Sidhu;Navin Ramankutty,39,87.051282051,6.5129374,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,4,12,17
+UBCV,2017,W,GPP,583,,001,Food Security,Navin Ramankutty,10,84.6,5.680375574,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,4,2
+UBCV,2017,W,RES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty;Philippe Le Billon,7,82.142857143,8.914941978,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,3,0,2
+UBCV,2018,W,RES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty;Theresa Satterfield,10,83.7,10.252912865,97.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,0,1,4,2
+UBCV,2019,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Juan Diego Martinez Quijano;Navin Ramankutty,25,84.48,9.34576553,97.0,62.0,,,,,,,,,,,0,0,0,2,1,0,0,0,8,6,8
+UBCV,2019,W,GPP,584,,001,Policy Responses to Global Climate Change,Navin Ramankutty,10,90.8,3.425395354,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7
+UBCV,2019,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Navin Ramankutty;Yves Tiberghien,10,88.2,5.266244709,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,5
+UBCV,2020,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Gurneet Braich;Kushank Bajaj;Navin Ramankutty,37,85.783783784,5.831595623,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,4,5,10,15
+UBCV,2020,W,PPGA,584,,001,Policy Responses to Global Climate Change,Navin Ramankutty,10,89.4,5.501514943,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,1,7
+UBCV,2020,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Navin Ramankutty,9,94.333333333,2.645751311,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2021,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Balsher Singh Sidhu;Jumi Gogoi;Navin Ramankutty,34,90.764705882,4.625743665,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,23
+UBCV,2021,W,PPGA,584,,001,Policy Responses to Global Climate Change,Amanda Giang;Milind Kandlikar;Navin Ramankutty,12,87.916666667,2.274696117,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,3
+UBCV,2021,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Amanda Giang;Milind Kandlikar;Navin Ramankutty,12,88.083333333,1.676486224,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,3

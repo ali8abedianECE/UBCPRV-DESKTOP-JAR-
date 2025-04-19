@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,W,APSC,176,,109,Engineering Communication,Catherine Shaw,28,75.39285714,11.04985097,88.0,42.0,1,1,1,0,2,1,5,6,6,5,0,,,
+UBCO,2016,W,APSC,176,,110,Engineering Communication,Catherine Shaw,18,74.16666667,18.92788171,89.0,4.0,1,0,0,0,2,1,3,3,3,5,0,,,
+UBCO,2016,W,ENGL,112,,101,Studies in Composition,Catherine Shaw,33,70.33333333,15.71557084,96.0,31.0,3,1,4,2,1,6,3,2,7,0,4,,,
+UBCO,2016,W,ENGL,112,,109,Studies in Composition,Catherine Shaw,35,68.68571429,25.56625928,95.0,1.0,5,3,1,2,3,1,2,3,2,5,8,,,
+UBCO,2016,W,ENGL,112,,110,Studies in Composition,Catherine Shaw,33,72.18181818,19.34142986,92.0,1.0,3,0,1,2,0,2,4,10,4,5,2,,,
+UBCO,2017,S,ENGL,112,,101,Studies in Composition,Catherine Shaw;Shona Harrison,31,70.258064516,11.075401398,92.0,46.0,1,0,3,7,3,3,3,5,1,4,1,,,
+UBCO,2017,W,APSC,176,,103,Engineering Communication,Catherine Shaw;Jannik Eikenaar;Laura Patterson,32,70.28125,9.652792927,90.0,47.0,1,0,2,4,5,7,6,3,0,2,2,,,
+UBCO,2017,W,APSC,176,,105,Engineering Communication,Catherine Shaw;Jannik Eikenaar,31,69.935483871,13.236151213,90.0,37.0,3,0,1,3,4,6,4,3,3,2,2,,,
+UBCO,2017,W,APSC,176,,106,Engineering Communication,Catherine Shaw;Jannik Eikenaar,34,74.941176471,12.225014535,94.0,43.0,1,2,2,1,2,1,4,7,8,3,3,,,
+UBCO,2017,W,APSC,176,,109,Engineering Communication,Catherine Shaw,32,70.15625,13.673872838,94.0,45.0,1,4,5,2,0,2,3,7,2,5,1,,,
+UBCO,2017,W,APSC,201,,203,Technical Communication,Catherine Shaw,35,72.628571429,10.117212224,88.0,47.0,2,0,1,3,3,4,6,7,7,2,0,,,
+UBCO,2017,W,APSC,201,,208,Technical Communication,Catherine Shaw,36,71.555555556,12.632032852,89.0,14.0,2,0,0,2,3,9,6,8,3,3,0,,,
+UBCO,2018,S,ENGL,112,,003,Studies in Composition,Catherine Shaw,28,75.464285714,13.090800114,95.0,44.0,1,0,2,2,4,3,2,2,4,2,6,,,
+UBCO,2018,W,APSC,176,,107,Engineering Communication,Catherine Shaw;Laura Patterson;Spela Grasic,32,67.0625,14.56894067,92.0,10.0,1,2,6,4,2,3,5,5,3,0,1,,,
+UBCO,2018,W,ENGL,112,,005,Studies in Composition,Catherine Shaw,35,78.314285714,12.280475725,94.0,51.0,0,2,4,0,1,0,3,4,10,5,6,,,
+UBCO,2018,W,ENGL,112,,010,Studies in Composition,Catherine Shaw,36,78.972222222,12.40388444,93.0,40.0,1,0,2,1,3,2,1,6,5,7,8,,,
+UBCO,2018,W,ENGL,112,,012,Studies in Composition,Catherine Shaw,35,72.685714286,11.060718593,92.0,45.0,1,1,1,4,5,3,4,7,4,2,3,,,
+UBCO,2018,W,ENGL,112,,105,Studies in Composition,Catherine Shaw,31,72.677419355,20.868456414,92.0,0.0,4,0,0,3,1,1,3,5,3,8,3,,,
+UBCO,2018,W,ENGL,112,,108,Studies in Composition,Catherine Shaw,32,71.96875,14.915859442,95.0,46.0,3,3,1,2,2,2,5,3,4,3,4,,,
+UBCO,2018,W,ENGL,112,,113,Studies in Composition,Catherine Shaw,33,67.606060606,21.764276053,93.0,0.0,3,4,1,2,3,3,4,1,7,1,4,,,
+UBCO,2018,W,ENGL,112,,114,Studies in Composition,Catherine Shaw,25,77.56,14.860686391,96.0,40.0,2,1,0,0,3,2,0,2,3,9,3,,,
+UBCO,2019,W,ENGL,112,,015,Studies in Composition,Catherine Shaw,28,79.357142857,10.187916902,93.0,56.0,0,0,1,1,3,2,3,3,1,12,2,,,
+UBCO,2019,W,ENGL,112,,016,Studies in Composition,Catherine Shaw,30,80.233333333,13.753202344,94.0,22.0,1,0,0,0,1,2,6,3,4,4,9,,,
+UBCO,2019,W,ENGL,112,,018,Studies in Composition,Catherine Shaw,30,79.733333333,10.830777771,96.0,51.0,0,1,0,0,4,2,4,3,5,5,6,,,
+UBCO,2020,S,ENGL,112,,003,Studies in Composition,Catherine Shaw,26,70.461538462,21.448040972,95.0,2.0,2,2,2,1,1,1,1,5,6,2,3,,,
+UBCO,2020,W,ENGL,112,,008,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,26,74.307692308,18.553208306,92.0,0.0,2,0,0,1,2,4,2,2,6,5,2,,,
+UBCO,2020,W,ENGL,112,,009,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,28,74.214285714,10.706028564,95.0,54.0,0,1,2,0,5,4,5,3,2,3,3,,,
+UBCO,2020,W,ENGL,112,,010,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,25,75.48,12.679116688,92.0,43.0,1,1,1,1,2,1,2,5,3,6,2,,,
+UBCO,2020,W,ENGL,112,,105,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,27,72.37037037,15.709252903,90.0,5.0,1,1,0,0,2,6,6,3,4,3,1,,,
+UBCO,2020,W,ENGL,112,,106,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,27,72.037037037,20.616426389,96.0,4.0,2,1,0,2,1,4,4,4,2,3,4,,,
+UBCO,2020,W,ENGL,112,,107,Studies in Composition,Catherine Shaw;Kohlbey Ozipko,26,76.076923077,9.752632781,94.0,58.0,0,0,1,2,4,0,6,3,4,4,2,,,
+UBCO,2020,W,ENGR,476,,201,Mechanics of Materials II,Catherine Shaw;Dikshita Nath;Kamran Alasvand Zarasvand;Kevin Golovin;Mohammad Tiznobaik;Xueyang Song,158,85.462025316,10.138930506,99.0,43.0,1,2,1,3,4,2,4,13,31,33,64,,,
+UBCO,2021,S,ENGL,150,,002,Introduction to Literary Genre,Catherine Shaw,25,81.44,10.095708659,95.0,54.0,0,1,0,0,2,1,2,2,6,6,5,,,
+UBCO,2021,W,ENGL,112,,008,Studies in Composition,Catherine Shaw;Joanna Cockerline,22,74.045454545,18.901945661,93.0,0.0,1,0,0,1,2,6,1,0,5,2,4,,,
+UBCO,2021,W,ENGL,112,,009,Studies in Composition,Alison Kloosterman;Catherine Shaw,23,72.47826087,16.78438009,94.0,22.0,2,0,2,2,2,0,3,4,1,5,2,,,
+UBCO,2021,W,ENGL,112,,109,Studies in Composition,Catherine Shaw;Joanna Cockerline,25,75.96,16.432893841,91.0,11.0,1,1,1,0,0,3,1,3,8,6,1,,,
+UBCO,2021,W,ENGL,112,,110,Studies in Composition,Catherine Shaw;Claire Halston,25,78.16,8.039900497,88.0,56.0,0,0,2,0,1,0,3,3,15,1,0,,,
+UBCO,2021,W,ENGL,150,,020,Introduction to Literary Genre,Alison Kloosterman;Catherine Shaw,29,76.034482759,17.91544178,95.0,0.0,1,1,1,1,2,2,1,3,8,6,3,,,
+UBCO,2021,W,ENGL,203,,001,Topics in Composition,Catherine Shaw;Melissa Jacques,20,68.85,23.510971683,99.0,2.0,3,3,0,0,1,1,3,2,1,4,2,,,
+UBCO,2021,W,ENGL,203,,101,Topics in Composition,Alison Kloosterman;Catherine Shaw,20,85.2,7.445238676,95.0,68.0,0,0,0,0,0,2,0,2,5,3,8,,,
+UBCO,2021,W,ENGL,203,,102,Topics in Composition,Alison Kloosterman;Catherine Shaw,19,79.578947368,11.744103908,96.0,60.0,0,0,0,3,1,2,1,1,2,3,6,,,
+UBCO,2021,S,ENGL,150,,002,Introduction to Literary Genre,Catherine Shaw,25,81.4,,95.0,54.0,,,,,,,,,6,6,,83.0,89.0,78.0
+UBCO,2021,W,ENGL,112,,009,Studies in Composition,Catherine Shaw,23,72.5,,94.0,22.0,,,,,,,,,,,,76.0,86.0,62.5
+UBCO,2021,W,ENGL,150,,020,Introduction to Literary Genre,Catherine Shaw,29,76.0,,95.0,0.0,,,,,,,,,8,6,,81.0,85.0,70.0
+UBCO,2021,W,ENGL,203,,001,Topics in Composition,Catherine Shaw,20,68.9,,99.0,2.0,,,,,,,,,,,,74.5,85.5,51.8
+UBCO,2021,W,ENGL,203,,101,Topics in Composition,Catherine Shaw,20,85.2,,95.0,68.0,,,,,,,,,,,8,86.0,91.0,81.0
+UBCO,2021,W,ENGL,203,,102,Topics in Composition,Catherine Shaw,19,79.6,,96.0,60.0,,,,,,,,,,,6,84.0,90.0,69.0
+UBCO,2022,W,ENGL,203,,001,Topics in Composition,Catherine Shaw,26,79.5,,95.0,62.0,0,0,0,1,1,3,1,8,5,5,2,78.5,85.5,76.0
+UBCO,2022,W,ENGL,203,,002,Topics in Composition,Catherine Shaw,27,76.1,,94.0,12.0,3,0,0,1,1,1,2,1,8,5,5,83.0,86.0,74.0
+UBCO,2022,W,ENGL,203,,003,Topics in Composition,Catherine Shaw,26,74.6,,94.0,35.0,2,1,1,1,2,1,3,4,5,3,3,78.5,83.8,66.5
+UBCO,2022,W,ENGL,203,,101,Topics in Composition,Jennifer Payson;Catherine Shaw,23,69.0,,92.0,43.0,3,0,1,5,1,4,2,1,2,3,1,69.0,79.5,62.5
+UBCO,2022,W,ENGL,203,,102,Topics in Composition,Catherine Shaw;Bridget Trainor,26,72.7,,91.0,30.0,2,1,0,0,1,5,5,5,4,2,1,75.0,80.5,71.0
+UBCO,2022,W,ENGL,203,,103,Topics in Composition,Shirley McDonald;Catherine Shaw,24,75.8,,89.0,12.0,1,0,0,0,2,1,3,5,8,4,0,79.5,82.0,74.0

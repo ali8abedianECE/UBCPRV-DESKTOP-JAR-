@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,CPSC,314,,201,Computer Graphics,Dinesh Pai;Izabelle Foster Janzen;Izabelle Janzen;Joao Afonso Liborio Cardoso;Shailen Agrawal,63,76.17460318,16.58559391,97.0,16.0,,,,1,,2,4,11,8,17,8,,,
+UBCV,2015,W,CPSC,314,,101,Computer Graphics,Izabelle Foster Janzen;Izabelle Janzen;Li Minchen;Mikhail Bessmeltsev,67,78.701492537,12.784952004,100.0,36.0,2,,,,3,6,6,10,11,13,11,,,
+UBCV,2016,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Arvind Vasudevan;Izabelle Foster Janzen;Izabelle Janzen;Jung Ho Chun;Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,102,79.04901961,5.22252822,92.0,63.0,0,0,0,1,2,4,15,32,34,11,3,,,
+UBCV,2018,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Hanieh Shakeri;Izabelle Janzen;Joanna Mcgrenere,33,78.090909091,5.99668469,86.0,66.0,0,0,0,0,3,3,2,10,10,5,0,,,
+UBCV,2020,W,CPSC,554,K,201,Topics in Human-Computer Interaction,Izabelle Janzen;Laura Ballay,20,91.0,1.91942974,94.0,89.0,0,0,0,0,0,0,0,0,0,5,15,,,
+UBCV,2021,W,CPSC,344,,201,Introduction to Human Computer Interaction Methods,Anika Sayara;Izabelle Janzen;Jessica Huang;Joice Tang;Mclaren Devyani,75,82.44,4.824599129,92.0,70.0,0,0,0,0,0,1,6,13,29,20,6,,,
+UBCV,2021,W,CPSC,344,,201,Introduction to Human Computer Interaction Methods,Izabelle Janzen,75,82.4,,92.0,70.0,,,,,,,6,13,29,20,6,82.0,86.0,79.0
+UBCV,2022,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Izabelle Janzen,119,84.6,,98.0,56.0,0,0,1,0,0,3,4,15,26,46,24,86.0,89.0,81.5
+UBCV,2022,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Izabelle Janzen,48,86.2,,95.0,74.0,0,0,0,0,0,0,1,4,10,17,16,86.0,90.0,82.0
+UBCV,2023,S,CPSC,121,,V01,Models of Computation,Izabelle Janzen,26,83.5,,97.0,70.0,0,0,0,0,0,2,2,5,5,5,7,82.5,90.5,77.0

@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,BIOL,456,,201,COMPAR ENDOCRIN,"Rodela, Tamara",53,78.87,10.85,92,22,52,1,0,0,0,0,0,1,0,0,1,0,0,2,1,5,5,8,17,9,5
+UBC,2015,W,BIOL,456,,201,COMPAR ENDOCRIN,"Rodela, Tamara",35,76.6,9.1,92,56,35,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4,1,7,12,3,2
+UBC,2016,S,BIOL,361,,921,PHYS SNS NRV MSC,"Rodela, Tamara",47,75.35,9.45,96,52,46,0,1,0,0,0,0,0,0,0,0,1,2,1,4,5,8,9,11,2,3
+UBC,2016,W,BIOL,361,,101,PHYS SNS NRV MSC,"Lacombe, Agnes;Rodela, Tamara",248,76.87,11.27,99,50,247,0,1,0,0,0,0,0,0,0,0,5,7,19,28,22,32,21,42,34,37
+UBC,2016,W,BIOL,456,,201,COMPAR ENDOCRIN,"Rodela, Tamara",28,81.08,6.7,95,68,26,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,7,7,3
+UBCV,2014,W,BIOL,456,,201,Comparative and Molecular Endocrinology,Tamara Rodela,53,78.86792453,10.84690267,92.0,22.0,,,,,,,,,,,,,,,,5,5,8,17,9,5
+UBCV,2015,W,BIOL,456,,201,Comparative and Molecular Endocrinology,Tamara Rodela,35,76.6,9.104620676,92.0,56.0,,,,,,,,,,,0,0,,,,,,7,12,,
+UBCV,2016,S,BIOL,361,,921,"Physiology of Sensory, Nervous and Muscular Systems",Tamara Rodela,46,75.34782609,9.454493091,96.0,52.0,,,,,,,,,,,0,1,2,1,4,5,8,9,11,2,3
+UBCV,2016,W,BIOL,361,,101,"Physiology of Sensory, Nervous and Muscular Systems",Agnes Lacombe;Tamara Rodela,247,76.87044534,11.26543282,99.0,50.0,,,,,,,,,,,0,5,7,19,28,22,32,21,42,34,37
+UBCV,2016,W,BIOL,456,,201,Comparative and Molecular Endocrinology,Tamara Rodela,26,81.07692308,6.704762945,95.0,68.0,,,,,,,,,,,0,0,0,0,0,2,5,2,7,7,3

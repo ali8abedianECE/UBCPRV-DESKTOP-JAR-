@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,HKIN,500,,004,GRADUATE SEMINAR,"Crocker, Peter",4,85.75,7.59,92,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2
+UBC,2002,W,HKIN,570,,001,RES MTHDS HKIN,"Crocker, Peter;Franks, Ian",6,88.33,1.75,90,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2005,W,HKIN,231,,001,SPORT&EXER PSYC,"Crocker, Peter",124,76.09,11.81,96,0,123,1,0,0,0,1,0,0,0,0,1,2,3,7,8,19,14,16,30,10,14
+UBC,2005,W,HKIN,371,,001,INTR STATS & RES,"Crocker, Peter",136,73.74,14.6,96,0,131,4,1,0,0,1,0,2,0,1,4,4,12,8,12,8,17,15,23,15,17
+UBC,2005,W,HKIN,564,,001,PY-SC ASP PH ACT,"Crocker, Peter",6,84.83,3.49,90,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2006,W,HKIN,231,,001,SPORT&EXER PSYC,"Crocker, Peter",146,77.14,7.68,94,53,146,0,0,0,0,0,0,0,0,0,0,1,0,8,10,9,30,28,29,27,4
+UBC,2006,W,HKIN,231,,901,SPORT&EXER PSYC,"Crocker, Peter",41,77.56,9.36,95,46,40,1,0,0,0,0,0,0,0,1,1,0,0,1,2,4,10,6,6,8,3
+UBC,2006,W,HKIN,371,,001,INTR STATS  HKIN,"Crocker, Peter",139,72.08,15.5,100,9,132,7,0,0,0,1,1,3,0,2,7,4,11,9,13,14,15,22,21,10,13
+UBC,2006,W,HKIN,371,,002,INTR STATS  HKIN,"Crocker, Peter",61,78.51,15.6,100,0,59,2,0,0,0,1,0,0,0,1,2,1,1,2,4,6,7,4,9,13,12
+UBC,2007,W,HKIN,231,,901,SPORT&EXER PSYC,"Crocker, Peter",58,76.95,8.84,91,54,58,0,0,0,0,0,0,0,0,0,0,1,1,4,4,6,8,8,13,10,3
+UBC,2007,W,HKIN,371,,001,INTR STATS  HKIN,"Crocker, Peter",143,72.87,15.49,98,18,133,8,1,1,0,0,1,0,3,4,8,13,9,3,9,15,12,12,23,19,18
+UBC,2009,W,HKIN,231,,001,SPORT&EXER PSYC,"Crocker, Peter",127,72.75,8.85,91,48,126,1,0,0,0,0,0,0,0,1,1,4,3,10,18,15,23,24,18,10,1
+UBC,2009,W,HKIN,371,,001,INTR STATS  HKIN,"Crocker, Peter",133,76.23,13.66,96,12,129,3,1,0,0,0,1,1,1,0,3,4,6,4,10,13,13,14,22,25,18
+UBC,2009,W,HKIN,564,,001,PY-SC ASP PH ACT,"Crocker, Peter",11,87.55,4.16,95,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4
+UBC,2010,W,HKIN,231,,001,SPORT&EXER PSYC,"Crocker, Peter",128,77.15,8.89,92,17,127,1,0,0,0,0,1,0,0,0,1,0,1,2,11,11,21,23,35,20,3
+UBC,2010,W,HKIN,564,,001,PY-SC ASP PH ACT,"Crocker, Peter",7,84,5.6,92,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1
+UBCV,2014,W,KIN,231,,001,Sport and Exercise Psychology,Peter Crocker,150,76.24666667,10.82622758,94.0,50.0,,,,,,,,,,,0,5,7,7,8,18,27,16,25,17,20
+UBCV,2014,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Peter Crocker,8,84.0,6.803360514,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2015,W,KIN,231,,001,Sport and Exercise Psychology,Peter Crocker,160,77.6875,11.429954852,96.0,34.0,,,,,,,,,,,2,2,7,10,11,8,11,29,24,39,17
+UBCV,2015,W,KIN,371,,002,Introduction to Statistics in Kinesiology,Peter Crocker,109,77.944954128,10.294582234,95.0,38.0,,,,,,,,,,,,,,8,6,14,9,11,21,28,9
+UBCV,2015,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Peter Crocker,6,92.0,2.75680975,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2016,W,KIN,231,,001,Sport and Exercise Psychology,Peter Crocker,141,79.39716312,8.434520422,95.0,58.0,,,,,,,,,,,0,0,1,5,5,15,17,23,33,22,20
+UBCV,2016,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Peter Crocker,8,88.375,3.29230705,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,3
+UBCV,2017,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Peter Crocker,9,87.666666667,4.795831523,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,4
+UBCV,2018,W,KIN,231,,001,Sport and Exercise Psychology,Elizabeth Mary Pritchard;Elizabeth Pritchard;Lisa Trainor;Manjoth Mahabhir Kandola;Manjoth Mahabhir Singh Kandola;Peter Crocker,141,76.822695035,8.917305557,96.0,52.0,,,,,,,,,,,0,1,4,5,14,11,29,12,32,25,8
+UBCV,2019,W,KIN,150,,001,Sport and Exercise Psychology,Elizabeth Pritchard;Erica Bennett;Jacqueline Lee;Katrina Jean Waldhauser;Katrina Waldhauser;Lisa Trainor;Miriam Tremblay;Myriam Tremblay;Peter Crocker,142,72.788732394,9.83828892,91.0,28.0,,,,,,,,,,,2,3,5,11,19,17,21,25,28,9,2
+UBCV,2019,W,KIN,231,,001,Sport and Exercise Psychology,Elizabeth Pritchard;Erica Bennett;Jacqueline Lee;Katrina Jean Waldhauser;Katrina Waldhauser;Lisa Trainor;Miriam Tremblay;Myriam Tremblay;Peter Crocker,120,79.0,8.30004556,95.0,52.0,,,,,,,,,,,0,1,1,3,6,13,11,22,32,19,12
+UBCV,2019,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Erica Bennett;Peter Crocker,14,88.357142857,2.9770182,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,6
+UBCV,2020,W,KIN,570,,001,Research Methods in Kinesiology,Carolyn Mcewen;Peter Crocker,20,91.05,2.855742138,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,13
+UBCV,2021,W,KIN,132,,L1C,Systems Physiology II,Joshua Taylor;Owen Payne;Peter Crocker;Robert Langill,36,70.611111111,13.743107941,90.0,40.0,,,,,,,,,,,1,7,2,3,1,2,3,3,8,3,3

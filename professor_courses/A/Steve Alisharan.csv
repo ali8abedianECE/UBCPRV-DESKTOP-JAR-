@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BAAC,500,,610,FINANCIAL REPT'G,"Alisharan, Steve",7,75.86,5.05,82,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,3,0,0
+UBC,2002,W,BAAC,500,,801,FINANCIAL REPT'G,"Alisharan, Steve",4,67,6.08,71,60,3,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+UBC,2003,W,BAAC,500,,610,FINANCIAL REPT'G,"Alisharan, Steve",7,80.43,7.09,89,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0
+UBC,2009,S,BAAC,500,,809,FINANCIAL REPT'G,"Alisharan, Steve",26,79,14.07,97,45,24,2,0,0,0,0,0,0,0,2,2,0,0,1,2,3,0,4,4,2,8
+UBC,2009,W,SPHA,503,,201,FIN REPORTING,"Alisharan, Steve",27,77.36,7.2,91,62,25,0,2,0,0,0,0,0,0,0,0,0,0,2,1,2,2,7,8,2,1
+UBC,2010,W,BAAC,500,,810,FINANCIAL REPT'G,"Alisharan, Steve",18,76.76,9.09,93,64,17,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,5,2,1,1,3
+UBC,2011,S,BAAC,500,,811,FINANCIAL REPT'G,"Alisharan, Steve",31,78.58,9.05,95,63,31,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,4,5,4,7,3
+UBC,2012,S,BAAC,500,,812,FINANCIAL REPT'G,"Alisharan, Steve",45,78.7,9.86,95,48,43,1,1,0,0,0,0,0,0,1,1,0,1,1,1,5,6,4,13,7,5
+UBC,2012,W,BAAC,540,,001,ACCOUNTING,"Alisharan, Steve",45,83,6.43,94,63,45,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,3,16,13,7
+UBC,2012,W,BAAC,540,,002,ACCOUNTING,"Alisharan, Steve",47,81.64,6.9,92,63,47,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,8,14,12,5
+UBC,2013,S,BAAC,500,,813,FINANCIAL REPT'G,"Alisharan, Steve",38,78.47,8.63,95,60,38,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,7,12,3,4
+UBC,2013,S,BAAC,540,,301,ACCOUNTING,"Alisharan, Steve",49,81,4.47,91,72,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,16,18,7,3
+UBC,2013,W,BAAC,550,,001,FNDTNS  ACCNTING,"Alisharan, Steve",55,81.75,6.4,93,53,55,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,11,21,12,5
+UBC,2013,W,BAAC,550,,002,FNDTNS  ACCNTING,"Alisharan, Steve",55,80.8,4.69,89,66,55,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,11,24,12,0
+UBC,2013,W,BAAC,550,,300,FNDTNS  ACCNTING,"Alisharan, Steve",42,79.88,8.26,93,60,42,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,5,10,8,11,3
+UBC,2013,W,EMBA,598,B,001,TPCS STRAT&ECON,"Alisharan, Steve;Atkins, Derek;Boardman, Anthony;Skarlicki, Dan",14,80.57,3.94,85,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,7,3,0
+UBC,2014,S,BAAC,550,,814,FNDTNS  ACCNTING,"Alisharan, Steve",41,77.78,6.84,93,60,41,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,8,9,12,3,2
+UBC,2014,W,BAAC,500,,814,FINANCIAL REPT'G,"Alisharan, Steve",40,75.3,11.13,95,50,40,0,0,0,0,0,0,0,0,0,0,3,0,5,0,5,4,2,13,5,3
+UBC,2014,W,BAAC,550,,001,FNDTNS  ACCNTING,"Alisharan, Steve",41,79.12,7.1,93,57,41,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,4,10,13,7,2
+UBC,2014,W,BAAC,550,,002,FNDTNS  ACCNTING,"Alisharan, Steve",43,77.81,7.35,93,53,43,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,7,13,10,5,2
+UBC,2014,W,BAAC,550,,300,FNDTNS  ACCNTING,"Alisharan, Steve",41,80.93,6.87,93,61,41,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,11,6,15,2
+UBC,2014,W,BAAC,550,,MM1,FNDTNS  ACCNTING,"Alisharan, Steve",49,80.14,5.76,91,68,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,11,18,10,1
+UBC,2015,S,BAAC,550,,815,FNDTNS  ACCNTING,"Alisharan, Steve",29,78.93,5.73,86,64,29,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,4,15,3,0
+UBC,2015,W,BAAC,500,,301,FINANCIAL REPT'G,"Alisharan, Steve",31,75.32,13.12,96,44,30,1,0,0,0,0,0,0,0,1,1,1,0,5,0,5,4,4,2,5,4
+UBC,2015,W,BAAC,500,,815,FINANCIAL REPT'G,"Alisharan, Steve",29,75.48,11.83,91,49,28,1,0,0,0,0,0,0,0,1,1,1,1,2,3,1,4,0,9,6,1
+UBC,2015,W,BAAC,505,,001,FNDMNTL ACCNTING,"Alisharan, Steve",50,78.66,5.09,92,68,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,14,20,2,2
+UBC,2015,W,BAAC,505,,002,FNDMNTL ACCNTING,"Alisharan, Steve",49,80.63,5.74,94,66,49,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,14,13,12,2
+UBC,2015,W,BAAC,505,,300,FNDMNTL ACCNTING,"Alisharan, Steve",48,78.52,9.42,96,60,48,0,0,0,0,0,0,0,0,0,0,0,0,5,2,5,3,10,9,9,5
+UBC,2015,W,BAAC,550,,MM1,FNDTNS  ACCNTING,"Alisharan, Steve",46,79.46,6.32,92,68,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12,8,11,8,3
+UBC,2015,W,BUSI,420,A,003,INTEG BUS LDRSHP,"Alisharan, Steve",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,S,BA,504,,814,Integration and Professional Development: Foundation,Mahesh Nagarajan;Murali Chandrashekaran;Steve Alisharan,40,76.7,3.509693536,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,15,17,8,0,0
+UBCV,2014,S,BAAC,550,,814,Foundations in  Accounting,Steve Alisharan,41,77.78048781,6.842924065,93.0,60.0,,,,,,,,,,,0,0,0,,,5,8,9,12,,
+UBCV,2014,W,BA,507,,001,Integration and Professional Development: Global,Blake Hanna;Murali Chandrashekaran;Steve Alisharan,105,83.31428571,3.092529105,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,14,49,42,0
+UBCV,2014,W,BAAC,500,,814,Financial Reporting,Steve Alisharan,40,75.3,11.13368647,95.0,50.0,,,,,,,,,,,0,,,5,,5,,,13,5,
+UBCV,2014,W,BAAC,550,,001,Foundations in  Accounting,Steve Alisharan,41,79.12195122,7.099982824,93.0,57.0,,,,,,,,,,,0,0,,,,,,10,13,7,
+UBCV,2014,W,BAAC,550,,002,Foundations in  Accounting,Steve Alisharan,43,77.81395349,7.346057621,93.0,53.0,,,,,,,,,,,0,,,,,,7,13,10,5,
+UBCV,2014,W,BAAC,550,,300,Foundations in  Accounting,Steve Alisharan,41,80.92682927,6.871645523,93.0,61.0,,,,,,,,,,,0,0,0,,,,,11,6,15,
+UBCV,2014,W,BAAC,550,,MM1,Foundations in  Accounting,Steve Alisharan,49,80.14285714,5.755432217,91.0,68.0,,,,,,,,,,,0,0,0,0,0,,5,11,18,10,
+UBCV,2015,S,BAAC,550,,815,Foundations in  Accounting,Steve Alisharan,29,78.93103448,5.731685332,86.0,64.0,,,,,,,,,,,0,0,0,0,,,,,15,,0
+UBCV,2015,W,BA,507,,001,Integration and Professional Development: Global,Danielle Van Jaarsveld;Darren Dahl;Murali Chandrashekaran;Steve Alisharan,116,84.853448276,4.241112057,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,54,36,20
+UBCV,2015,W,BAAC,500,,301,Financial Reporting,Steve Alisharan,31,75.322580645,13.123483015,96.0,44.0,,,,,,,,,,,,,,5,,5,,,,5,
+UBCV,2015,W,BAAC,500,,815,Financial Reporting,Steve Alisharan;Tasneem Mantri,29,75.482758621,11.827995512,91.0,49.0,,,,,,,,,,,,,,,,,,,9,6,
+UBCV,2015,W,BAAC,505,,001,Fundamentals of Accounting,Steve Alisharan;Tasneem Mantri,50,78.66,5.08944486,92.0,68.0,,,,,,,,,,,0,0,0,0,0,,8,14,20,2,
+UBCV,2015,W,BAAC,505,,002,Fundamentals of Accounting,Steve Alisharan;Tasneem Mantri,49,80.632653061,5.739823885,94.0,66.0,,,,,,,,,,,0,0,0,0,1,,6,14,13,12,
+UBCV,2015,W,BAAC,505,,300,Fundamentals of Accounting,Jingyi Zhao;Steve Alisharan,48,78.520833333,9.41928665,96.0,60.0,,,,,,,,,,,0,0,0,5,2,5,3,10,9,9,5
+UBCV,2015,W,BAAC,550,,MM1,Foundations in  Accounting,Jingyi Zhao;Steve Alisharan,46,79.456521739,6.323524059,92.0,68.0,,,,,,,,,,,0,0,0,0,0,,12,8,11,8,
+UBCV,2016,W,BA,504,,001,Business Strategy Integration: Foundation,Angele Beausoleil;Danielle Van Jaarsveld;Julia Gartley;Kathryn Lipinski;Murali Chandrashekaran;Paul Cubbon;Steve Alisharan;Tamar Milne,49,79.20408163,3.220892681,85.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,25,14,5,0
+UBCV,2016,W,BAAC,500,,MM1,Financial Reporting,Robert Jackes;Steve Alisharan,55,77.67272727,7.554872221,94.0,60.0,,,,,,,,,,,0,0,0,3,2,6,6,9,21,7,1
+UBCV,2016,W,BAAC,505,,001,Fundamentals of Accounting,Jeff Kroeker;Steve Alisharan;Tiffane Mak,49,79.18367347,14.8389598,98.0,32.0,,,,,,,,,,,3,0,0,2,1,3,3,7,14,3,13
+UBCV,2016,W,BAAC,505,,002,Fundamentals of Accounting,Jeff Kroeker;Steve Alisharan;Tiffane Mak,50,79.62,8.980454968,96.0,65.0,,,,,,,,,,,0,0,0,0,2,9,11,3,9,6,10
+UBCV,2016,W,BAAC,505,,300,Fundamentals of Accounting,Mary Chong;Steve Alisharan,39,82.28205128,10.35920318,96.0,50.0,,,,,,,,,,,0,0,0,1,1,2,3,5,5,7,14
+UBCV,2016,W,BAAC,550,,MM1,Foundations in  Accounting,Robert Jackes;Steve Alisharan,55,81.50909091,6.91180613,97.0,60.0,,,,,,,,,,,0,0,0,2,1,2,3,3,26,14,4

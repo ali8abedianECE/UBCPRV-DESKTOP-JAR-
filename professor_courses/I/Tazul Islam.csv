@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,ECON,102,,001,Principles of Macroeconomics,Tazul Islam,25,69.2,14.49425173,90.0,36.0,,5,,,,,,,,,,,,
+UBCO,2014,S,ECON,295,,001,Managerial Economics,Tazul Islam,16,63.9375,23.28796184,96.0,4.0,,,,,,,,,,,,,,
+UBCO,2015,S,ECON,102,,001,Principles of Macroeconomics,Tazul Islam,24,64.875,19.312785808,91.0,17.0,,,,,,,,,5,,,,,
+UBCO,2015,S,ECON,295,,001,Managerial Economics,Tazul Islam,5,67.8,14.771594362,80.0,44.0,,,,,,,,,,0,0,,,
+UBCO,2016,S,ECON,101,,001,Principles of Microeconomics,Tazul Islam,34,68.64705882,16.09984444,93.0,34.0,3,6,1,1,4,3,2,4,5,0,5,,,
+UBCO,2016,S,ECON,102,,001,Principles of Macroeconomics,Tazul Islam,29,64.68965517,16.66926909,92.0,11.0,4,2,3,1,6,3,4,0,5,0,1,,,
+UBCO,2016,S,ECON,355,,001,International Trade,Tazul Islam,20,62.35,18.27645883,81.0,10.0,3,3,1,1,0,4,4,1,3,0,0,,,
+UBCO,2017,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,27,65.185185185,15.830926493,90.0,33.0,5,3,1,1,1,4,6,0,3,2,1,,,
+UBCO,2017,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno;Tazul Islam,33,71.181818182,18.045869585,95.0,0.0,1,2,3,6,0,2,5,2,3,5,4,,,
+UBCO,2017,S,ECON,355,,001,International Trade,Karl Pinno;Tazul Islam,28,79.928571429,10.732189627,100.0,56.0,0,0,1,0,2,3,3,7,2,5,5,,,
+UBCO,2018,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,30,66.7,17.043858232,96.0,24.0,5,2,2,1,2,5,4,2,4,0,3,,,
+UBCO,2018,S,ECON,102,,101,Principles of Macroeconomics,Tazul Islam,31,65.258064516,14.904065982,94.0,34.0,4,2,3,5,1,6,2,2,4,1,1,,,
+UBCO,2019,S,ECON,101,,001,Principles of Microeconomics,Tazul Islam,39,69.076923077,14.064484228,96.0,31.0,3,2,2,3,6,5,8,1,4,2,3,,,
+UBCO,2019,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,35,66.828571429,14.81550403,91.0,35.0,5,1,2,6,4,2,4,4,0,6,1,,,
+UBCO,2019,S,ECON,102,,101,Principles of Macroeconomics,Tazul Islam,25,63.52,19.322094434,96.0,18.0,3,5,3,2,0,4,1,0,3,2,2,,,
+UBCO,2019,W,ECON,102,,001,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Braydon Neiszner;Chidera Kingsley-Emu;Colton Horne;Devon Rudd;Hoang Bui;Jessica Grant;Juwilliart Cox;Kebbie Brown;Nicholas Ogawa;Peter Wylie;Tazul Islam;Voole Cox,164,66.341463415,16.018562478,97.0,0.0,14,14,14,23,19,20,14,12,14,11,9,,,
+UBCO,2020,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,37,71.432432432,13.018236227,91.0,36.0,2,2,3,2,5,1,5,6,7,2,2,,,
+UBCO,2020,S,ECON,102,,101,Principles of Macroeconomics,Tazul Islam,36,74.055555556,12.054505843,95.0,45.0,1,1,1,3,6,4,6,2,6,1,5,,,
+UBCO,2020,W,ECON,102,,001,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Felipe Morelli Guazzelli;Jakob Graves;Jessica Grant;Julien Picault;Maria Paz Marengo Di Bez;Ruben Thiemann;Sarah El Kaissi;Tazul Islam;Voole Cox;Yuanzhe Chen,354,70.850282486,17.339720483,99.0,0.0,24,18,25,24,32,30,34,38,53,44,32,,,
+UBCO,2021,S,ECON,101,,101,Principles of Microeconomics,Mehdi Mohamadian;Tazul Islam,46,62.47826087,19.344524497,93.0,0.0,6,3,2,6,10,4,6,3,4,1,1,,,
+UBCO,2021,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno;Mehdi Mohamadian;Noriko Ozawa;Tazul Islam,33,64.363636364,22.214604123,99.0,12.0,8,2,3,4,1,0,4,2,4,1,4,,,
+UBCO,2021,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,46,62.5,,93.0,0.0,6,,,6,10,,6,,,,,65.5,74.5,60.0
+UBCO,2021,S,ECON,102,,001,Principles of Macroeconomics,Tazul Islam;Noriko Ozawa,33,64.4,,99.0,12.0,8,,,,,,,,,,,61.0,82.0,52.0
+UBCO,2022,S,ECON,102,,001,Principles of Macroeconomics,Tazul Islam,40,64.1,,95.0,0.0,5,2,5,3,6,1,7,7,2,1,1,67.0,76.0,57.0
+UBCO,2022,S,ECON,102,,101,Principles of Macroeconomics,Tazul Islam;Noriko Ozawa,59,68.9,,92.0,21.0,5,5,1,5,9,5,7,8,7,6,1,70.0,78.5,63.0
+UBCO,2023,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam;Noriko Ozawa,17,66.36,,88.0,10.0,1,2,0,0,2,3,3,0,1,2,0,70.0,74.25,65.0
+UBCO,2023,S,ECON,102,,101,Principles of Macroeconomics,Tazul Islam,26,70.5,,92.0,0.0,2,1,1,1,1,4,5,1,2,2,4,75.0,82.75,67.75
+UBCO,2023,W,ECON,102,,001,Principles of Macroeconomics,Tazul Islam;Noriko Ozawa,115,64.0,,99.0,0.0,12,6,16,20,10,12,7,0,7,8,8,63.0,73.8,58.0

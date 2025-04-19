@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,PHYS,119,,L2G,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran;Natasha Moysiuk,18,86.944444444,8.439906762,99.0,68.0,0,0,0,0,0,2,0,1,2,4,9,,,
+UBCV,2019,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Evan Naugler;Graham Johnstone,20,75.65,16.825028349,90.0,10.0,1,0,0,1,0,1,3,4,5,4,1,,,
+UBCV,2019,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Graham Alexander Lynn;Sarah Burke;Tessa Zolezzi,52,83.596153846,5.974651078,91.0,62.0,0,0,0,1,0,1,3,6,15,19,7,,,
+UBCV,2019,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Andrew Loeppky;Erfan Rezaie;Ray Zhang;Sarah Burke,29,82.034482759,6.625075518,92.0,68.0,0,0,0,0,0,3,3,3,5,12,3,,,
+UBCV,2019,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Jiabin Yu;Sarah Burke;Sydney Dufresne;William H. Mccutcheon,51,85.784313725,7.777695611,94.0,59.0,0,0,1,1,0,2,2,0,7,19,19,,,
+UBCV,2020,W,PHYS,100,,103,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya;Pedram Amani,510,81.425490196,13.234819575,100.0,0.0,23,3,3,3,4,20,50,41,120,123,120,,,
+UBCV,2020,W,PHYS,100,,M01,Introductory Physics,Erfan Rezaie;Jaiten Saini;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya,232,76.487068966,19.002387775,95.0,0.0,25,2,0,1,5,7,34,20,44,48,46,,,
+UBCV,2020,W,PHYS,131,,201,Energy and Waves (Lecture),Christopher Waddell;Erfan Rezaie;Jaiten Saini;Lorna Tu,167,83.922155689,15.670936191,100.0,0.0,8,0,1,1,2,2,8,11,23,33,78,,,
+UBCV,2020,W,PHYS,131,,202,Energy and Waves (Lecture),Christopher Waddell;Erfan Rezaie;Lorna Tu;Samikshya Sahu,315,85.561904762,14.421271318,100.0,9.0,14,1,0,3,3,3,13,15,47,61,155,,,
+UBCV,2020,W,PHYS,131,,M02,Energy and Waves (Lecture),Brianne Boufford;Christopher Waddell;Erfan Rezaie;Lorna Tu,55,86.036363636,13.812184149,100.0,28.0,2,1,0,0,0,0,4,2,7,11,28,,,
+UBCV,2021,S,PHYS,100,,981,Introductory Physics,Aria Malhotra;Colby Delisle;Erfan Rezaie;Kayode Adekunle Aina;Maryam Rostamzadeh;Maryam Shirmohammad;Rashmi Umashankar;Shadab Ahamed Shadab Ahamed,149,75.140939597,16.974551753,97.0,0.0,10,5,3,4,5,15,20,8,29,29,21,,,
+UBCV,2021,W,PHYS,100,,101,Introductory Physics,Erfan Rezaie;Lucas Valenca Soares Bezerra;Marcello Pavan;Marina Litinskaya,136,71.044117647,18.33388591,99.0,20.0,18,8,1,6,4,11,18,13,25,21,11,,,
+UBCV,2021,W,PHYS,100,,102,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Lucas Valenca Soares Bezerra;Marcello Pavan;Maria Novoselova;Marina Litinskaya;Peilin Wu,255,73.68627451,17.951257491,97.0,3.0,27,10,3,5,17,15,27,24,55,33,39,,,
+UBCV,2021,W,PHYS,100,,103,Introductory Physics,Erfan Rezaie;Lucas Valenca Soares Bezerra;Marcello Pavan;Marina Litinskaya;Samantha Connolly,247,78.004048583,14.16898536,99.0,25.0,14,6,2,6,6,17,25,26,45,59,41,,,
+UBCV,2021,W,PHYS,119,,L1B,Experimental Physics Lab I,Erfan Rezaie;Jenna Chisholm;Jonah Berean-Dutcher;Joss Ives,39,86.205128205,7.807484557,96.0,65.0,0,0,0,0,2,0,1,3,10,3,20,,,
+UBCV,2021,W,PHYS,119,,L1E,Experimental Physics Lab I,Alexander James Tofini;Connor Bevington;Erfan Rezaie;Joss Ives,13,79.307692308,21.611665891,94.0,22.0,2,0,0,0,0,0,0,0,2,4,5,,,
+UBCV,2021,W,PHYS,131,,201,Energy and Waves (Lecture),Alejandro Mercado Tejerina;Callum Christopher Mccracken;Erfan Rezaie;Silvan Kuttimalai,183,70.382513661,20.323918681,97.0,0.0,33,0,6,3,9,18,20,17,26,27,24,,,
+UBCV,2021,W,PHYS,131,,202,Energy and Waves (Lecture),Alejandro Mercado Tejerina;Erfan Rezaie;Mobin Shakeri;Silvan Kuttimalai,281,76.793594306,15.825841037,100.0,0.0,22,2,2,7,18,15,28,35,55,44,53,,,
+UBCV,2021,W,PHYS,131,,203,Energy and Waves (Lecture),Alejandro Mercado Tejerina;Erfan Rezaie;Satyam Priyadarshi;Silvan Kuttimalai,247,77.275303644,16.370616071,98.0,17.0,23,3,2,6,8,16,10,31,46,48,54,,,
+UBCV,2021,S,PHYS,100,,981,Introductory Physics,Erfan Rezaie,149,75.1,,97.0,0.0,10,,,,,15,20,8,29,29,21,80.0,86.0,70.0
+UBCV,2021,W,PHYS,100,,101,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,136,71.3,,99.0,20.0,17,8,,6,,11,18,13,26,21,11,76.0,84.0,65.5
+UBCV,2021,W,PHYS,100,,102,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,254,74.0,,97.0,3.0,25,10,,,17,15,27,25,55,33,39,79.0,85.0,68.0
+UBCV,2021,W,PHYS,100,,103,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,247,78.0,,99.0,25.0,14,6,2,6,6,17,25,26,45,59,41,80.0,87.0,73.0
+UBCV,2021,W,PHYS,119,,L1B,Experimental Physics Lab I,Joss Ives;Erfan Rezaie,39,86.2,,96.0,65.0,,,,,,,,,10,,20,90.0,93.0,81.5
+UBCV,2021,W,PHYS,119,,L1E,Experimental Physics Lab I,Joss Ives;Erfan Rezaie,13,79.3,,94.0,22.0,,,,,,,,,,,,87.0,91.0,82.0
+UBCV,2021,W,PHYS,131,,201,Energy and Waves (Lecture),Silvan Kuttimalai;Erfan Rezaie,183,70.5,,97.0,0.0,32,,6,,9,18,20,18,26,27,24,76.0,85.0,65.0
+UBCV,2021,W,PHYS,131,,202,Energy and Waves (Lecture),Silvan Kuttimalai;Erfan Rezaie,279,77.5,,100.0,5.0,16,,,8,18,16,28,36,55,44,53,80.0,88.0,72.0
+UBCV,2021,W,PHYS,131,,203,Energy and Waves (Lecture),Silvan Kuttimalai;Erfan Rezaie,246,78.2,,98.0,17.0,16,,,7,8,16,11,32,46,48,56,81.0,88.8,74.0
+UBCV,2022,S,PHYS,100,,981,Introductory Physics,Erfan Rezaie,173,72.7,,100.0,0.0,19,4,4,11,8,12,25,12,23,26,29,76.0,87.0,66.0
+UBCV,2022,W,PHYS,100,,102,Introductory Physics,Marina Litinskaya;Erfan Rezaie,230,79.5,,98.0,26.0,10,6,2,3,4,8,34,19,46,44,54,82.0,88.0,74.0
+UBCV,2022,W,PHYS,131,,101,Energy and Waves (Lecture),Mohammed Iqbal;Erfan Rezaie,269,84.0,,100.0,0.0,14,1,1,0,8,12,18,13,48,34,120,87.0,95.0,80.0
+UBCV,2022,W,PHYS,131,,103,Energy and Waves (Lecture),Erfan Rezaie,254,83.1,,100.0,23.0,15,6,1,1,3,10,15,15,38,44,106,86.5,94.0,78.0
+UBCV,2022,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Sarah Burke;Erfan Rezaie,49,79.2,,95.0,61.0,0,0,0,1,1,4,6,14,13,6,4,79.0,83.0,76.0
+UBCV,2022,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Sarah Burke;Erfan Rezaie,46,76.7,,96.0,58.0,0,0,2,1,3,7,6,10,5,9,3,76.5,84.8,69.3
+UBCV,2022,W,PHYS,159,,LJ2,Introductory Physics Laboratory for Engineers,Sarah Burke;Erfan Rezaie,39,78.9,,95.0,52.0,0,1,1,0,0,3,6,6,12,8,2,80.0,84.5,75.0
+UBCV,2023,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Jonathan Massey Allard;Erfan Rezaie,35,88.1,,97.0,79.0,0,0,0,0,0,0,0,2,7,12,14,87.0,92.0,84.5
+UBCV,2023,W,PHYS,159,,L2J,Introductory Physics Laboratory for Engineers,Jonathan Massey Allard;Erfan Rezaie,42,75.2,,92.0,12.0,1,0,1,0,3,7,8,5,11,3,2,76.0,82.0,71.0
+UBCV,2023,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Jonathan Massey Allard;Erfan Rezaie,48,77.4,,90.0,53.0,0,1,0,2,5,3,10,3,15,4,5,79.0,84.0,72.0
+UBCV,2023,W,PHYS,333,,100,Energy and Climate,Erfan Rezaie,45,76.1,,92.0,9.0,1,0,1,0,3,7,4,7,8,7,3,77.0,84.0,70.0

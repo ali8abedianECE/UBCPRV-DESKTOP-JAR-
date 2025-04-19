@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EOSC,112,,201,Fluid Earth,"Hsieh, William;Pandolfo, Lionel;Pawlowicz, Richard",134,70.3,13.54,96,0,125,7,2,0,0,1,0,1,3,2,7,3,10,13,15,16,17,18,19,11,3
+UBC,2002,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",7,85.83,4.75,93,80,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2002,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",6,70.67,4.37,76,64,6,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0
+UBC,2002,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Dower, John;Pawlowicz, Richard;Pedersen, Thomas F",4,86.25,3.5,90,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2002,W,EOSC,579,,201,DYNAMIC OCGY,"Allen, Susan Elizabeth;Pawlowicz, Richard",5,77.5,3.87,83,74,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+UBC,2003,W,EOSC,473,,201,METHODS IN OCGY,"Orians, Kristin;Pawlowicz, Richard",4,83.5,9.85,92,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+UBC,2003,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Orians, Kristin;Pawlowicz, Richard",4,89,5.72,95,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2005,W,EOSC,211,,101,COMPUTER EARTH,"Pawlowicz, Richard;Ridgwell, Andrew",30,72.9,16.07,94,33,27,3,0,0,0,0,0,0,2,1,3,1,2,1,4,1,3,2,3,7,3
+UBC,2005,W,EOSC,473,,201,METHODS IN OCGY,"DiBacco, Claudio;Pawlowicz, Richard",10,76.5,5.93,85,67,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,3,1,0
+UBC,2006,W,EOSC,211,,101,COMPUTER EARTH,"Austin, Philip;Pawlowicz, Richard",41,76.22,8.61,89,58,36,0,4,0,1,0,0,0,0,0,0,0,1,3,3,5,2,6,9,7,0
+UBC,2006,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,77.89,6.07,87,67,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1,2,0
+UBC,2006,W,EOSC,476,,101,ESTUARIES,"DiBacco, Claudio;Pawlowicz, Richard",33,75.61,11.99,91,37,31,2,0,0,0,0,0,0,1,1,2,0,1,0,1,3,8,7,2,7,2
+UBC,2009,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",59,76.03,14.56,90,0,55,3,1,0,0,1,0,0,0,2,3,0,1,3,2,4,8,6,14,15,2
+UBC,2010,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",63,75.82,9.62,96,51,62,0,1,0,0,0,0,0,0,0,0,1,3,0,10,5,8,10,14,8,3
+UBC,2010,W,EOSC,473,,201,METHODS IN OCGY,"Pawlowicz, Richard;TBA",8,82.63,3.11,87,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0
+UBC,2010,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Pawlowicz, Richard;TBA",8,82.63,3.58,87,76,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0
+UBC,2011,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",60,70.14,20.86,91,0,50,8,2,0,0,3,0,0,1,4,8,1,0,1,3,5,5,15,10,8,2
+UBC,2011,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,77.11,9.55,87,63,9,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,4,2,0
+UBC,2011,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",9,71.13,9.45,84,58,8,0,1,0,0,0,0,0,0,0,0,0,1,1,1,2,0,1,2,0,0
+UBC,2011,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",4,80.75,13.72,91,61,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+UBC,2012,W,EOSC,211,,101,COMPUTER EARTH,"FERGUSON, JAMES;Pawlowicz, Richard",81,77.55,11.24,98,28,73,3,5,0,0,0,0,1,0,2,3,1,0,0,5,5,8,14,23,13,4
+UBC,2012,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",7,78.14,11.2,86,55,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4,1,0
+UBC,2012,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",6,77.2,3.96,81,71,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0
+UBC,2013,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",95,74.03,17.4,98,0,81,11,3,0,0,1,0,2,2,6,11,0,2,1,2,8,13,13,19,12,11
+UBC,2013,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",204,73.88,12.82,99,38,193,5,1,0,4,0,0,0,1,4,5,9,12,19,15,19,25,19,31,22,22
+UBC,2013,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",83,71.92,14.95,97,39,71,8,2,1,0,0,0,0,1,7,8,5,6,3,3,10,4,10,11,9,10
+UBC,2013,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",4,79.5,7.23,86,71,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0
+UBC,2015,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",79,77.5,11.39,90,21,75,3,1,0,0,0,0,1,0,2,3,1,1,1,0,6,11,10,27,15,3
+UBC,2015,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",183,73.72,12.24,96,13,176,4,2,0,0,0,1,0,0,3,4,6,9,16,19,18,21,16,37,19,15
+UBC,2015,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",75,71.96,10.91,96,47,73,1,1,0,0,0,0,0,0,1,1,5,6,4,9,4,15,12,11,2,5
+UBC,2015,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",12,83,9.85,100,68,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,0,3
+UBC,2016,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",78,75.93,11.93,96,31,72,4,2,0,0,0,0,0,3,1,4,0,0,2,4,6,14,20,13,6,7
+UBC,2016,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",167,74.28,13.12,99,12,162,4,1,0,0,0,1,0,0,3,4,10,13,7,12,13,13,16,48,14,16
+UBC,2016,W,EOSC,471,,101,WVS CRNT OCN MIX,"Allen, Susan Elizabeth;Pawlowicz, Richard",8,79.63,10.41,93,66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,1,2
+UBC,2016,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,79.89,4.86,87,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,2,0
+UBC,2016,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",6,85.67,3.88,91,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+UBC,2017,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",86,75.98,14.54,98,31,73,10,2,0,1,0,0,0,2,8,10,0,1,2,2,7,7,9,23,10,12
+UBC,2017,W,EOSC,471,,101,WVS CRNT OCN MIX,"Allen, Susan Elizabeth;Pawlowicz, Richard",14,79,3.44,84,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,8,0,0
+UBC,2017,W,EOSC,473,,201,METHODS IN OCGY,"Hunt, Brian;Pawlowicz, Richard",15,80.67,3.99,87,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,2,0
+UBC,2017,W,EOSC,512,,101,ADV GEO FLD DYN,"Pawlowicz, Richard",5,85.2,8.53,92,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3
+UBC,2018,W,EOSC,211,,101,COMPUTER EARTH,"Johnson, Catherine;Pawlowicz, Richard",110,80.4,14.02,98,0,101,5,0,2,2,1,0,0,2,2,5,2,0,0,2,8,5,12,26,23,23
+UBC,2018,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",165,74.65,10.67,93,40,160,2,1,0,2,0,0,0,0,2,2,6,9,9,10,21,25,15,32,21,12
+UBC,2018,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",53,77.6,10.19,94,55,50,0,1,0,2,0,0,0,0,0,0,0,2,1,8,6,4,6,8,8,7
+UBC,2018,W,EOSC,471,,101,WVS CRNT OCN MIX,"Allen, Susan Elizabeth;Pawlowicz, Richard",10,84.67,5.22,90,74,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,2

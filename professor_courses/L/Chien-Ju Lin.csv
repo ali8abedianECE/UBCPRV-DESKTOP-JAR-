@@ -1,0 +1,87 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,CHIN,101,,002,BASIC CHIN I 1,"Lin, Chien-Ju",24,72,10.46,89,53,23,0,1,0,0,0,0,0,0,0,0,2,1,2,4,1,1,6,4,2,0,,,
+UBC,2012,W,CHIN,101,,006,BASIC CHIN I 1,"Lin, Chien-Ju",20,77.05,11.63,89,37,18,1,1,0,0,0,0,0,1,0,1,0,0,0,0,3,1,7,2,5,0,,,
+UBC,2012,W,CHIN,103,,002,BASIC CHIN I 2,"Lin, Chien-Ju",15,72.47,8.69,85,56,15,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,2,3,2,1,0,,,
+UBC,2012,W,CHIN,103,,006,BASIC CHIN I 2,"Lin, Chien-Ju",12,75.42,10.65,90,55,12,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,4,2,1,1,,,
+UBC,2012,W,CHIN,111,,002,BASIC CHIN I 1,"Lin, Chien-Ju",18,72.44,14.49,87,21,17,1,0,0,0,0,0,1,0,0,1,0,0,1,2,3,1,5,4,1,0,,,
+UBC,2012,W,CHIN,111,,003,BASIC CHIN I 1,"Lin, Chien-Ju",23,70.96,16.37,86,21,21,2,0,0,0,0,0,2,0,0,2,0,0,2,0,4,3,7,4,1,0,,,
+UBC,2012,W,CHIN,113,,002,BASIC CHIN I 2,"Lin, Chien-Ju",19,74.58,9.11,84,50,19,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,1,5,8,0,0,,,
+UBC,2013,W,CHIN,101,,004,BASIC CHIN I 1,"Lin, Chien-Ju",16,76.81,6,86,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3,4,2,0,,,
+UBC,2013,W,CHIN,101,,006,BASIC CHIN I 1,"Lin, Chien-Ju",15,77.15,5.16,84,68,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,0,0,,,
+UBC,2013,W,CHIN,101,,009,BASIC CHIN I 1,"Lin, Chien-Ju",23,66.55,23.44,91,0,20,2,0,1,0,2,0,0,0,0,2,0,0,4,2,3,3,3,1,3,1,,,
+UBC,2013,W,CHIN,111,,003,BASIC CHIN I 1,"Lin, Chien-Ju",22,73.55,12.82,85,22,21,1,0,0,0,0,0,1,0,0,1,0,0,1,0,3,5,6,5,1,0,,,
+UBC,2013,W,CHIN,111,,004,BASIC CHIN I 1,"Lin, Chien-Ju",12,74.25,6.7,84,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,2,3,0,0,,,
+UBC,2013,W,CHIN,113,,003,BASIC CHIN I 2,"Lin, Chien-Ju",21,74.62,7.78,85,60,21,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,5,2,5,2,0,,,
+UBC,2015,W,CHIN,101,,011,BASIC CHIN I 1,"Lin, Chien-Ju",10,65,26.41,88,0,9,1,0,0,0,1,0,0,0,0,1,2,0,0,1,1,0,1,2,2,0,,,
+UBC,2015,W,CHIN,103,,004,BASIC CHIN I 2,"Lin, Chien-Ju",16,73.25,9.94,88,50,16,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,5,4,1,2,0,,,
+UBC,2016,W,CHIN,131,,006,BASIC CHIN I 1,"Lin, Chien-Ju",16,78.07,9.37,90,60,15,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,2,1,2,5,1,,,
+UBC,2016,W,CHIN,133,,006,BASIC CHIN I 2,"Lin, Chien-Ju",17,77.18,5.66,86,64,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,7,1,0,,,
+UBC,2016,W,CHIN,141,,001,BASIC CHIN I 1,"Lin, Chien-Ju",29,73.62,13.91,92,39,27,2,0,0,0,0,0,0,1,1,2,1,0,4,2,0,3,4,5,7,1,,,
+UBC,2016,W,CHIN,143,,001,BASIC CHIN I 2,"Lin, Chien-Ju",11,78.1,8.05,90,68,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,1,1,,,
+UBC,2018,W,CHIN,141,,003,BASIC CHIN I 1,"Lin, Chien-Ju",24,79.08,9.72,93,50,24,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,0,3,8,5,2,,,
+UBC,2018,W,CHIN,143,,002,BASIC CHIN I 2,"Lin, Chien-Ju",19,75.42,14.12,95,28,18,1,0,0,0,0,0,1,0,0,1,0,0,0,2,2,2,4,4,2,2,,,
+UBC,2018,W,CHIN,143,,003,BASIC CHIN I 2,"Lin, Chien-Ju",15,79.53,9.62,92,60,15,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,3,4,3,2,,,
+UBC,2018,W,CHIN,241,,002,BASIC CHIN II 1,"Lin, Chien-Ju",15,77,9.17,90,60,14,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,3,2,3,2,1,,,
+UBCV,2015,W,CHIN,101,,011,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin,10,65.0,26.40706976,88.0,0.0,,,,,,,,,,,,,,,,,,,,,0,,,
+UBCV,2015,W,CHIN,103,,004,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin,16,73.25,9.943171861,88.0,50.0,,,,,,,,,,,0,,,,,,5,,,,0,,,
+UBCV,2016,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin,15,78.06666667,9.369148968,90.0,60.0,,,,,,,,,,,0,0,0,1,1,2,2,1,2,5,1,,,
+UBCV,2016,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin;Yilin Xie,17,77.17647059,5.65945331,86.0,64.0,,,,,,,,,,,0,0,0,0,1,1,3,4,7,1,0,,,
+UBCV,2016,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Ya Wen,29,73.62068966,13.90635465,92.0,39.0,,,,,,,,,,,2,1,0,4,2,0,3,4,5,7,1,,,
+UBCV,2016,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin,10,78.1,8.047774019,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,1,3,1,1,,,
+UBCV,2017,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,18,78.111111111,6.434181596,89.0,64.0,,,,,,,,,,,0,0,0,0,1,2,1,9,1,4,0,,,
+UBCV,2017,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,9,79.888888889,11.095544651,92.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,3,1,,,
+UBCV,2017,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Chieh-Yang Chang;Chien-Ju Lin;Pi-Hua Lin,7,79.428571429,6.078847008,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,1,0,,,
+UBCV,2018,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Jiao Jiao Han;Qian Wang;Xinxin Wu;Yiwen Zheng,16,85.3125,7.88854655,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,4,1,5,5,,,
+UBCV,2018,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Deyu Liu;Hsueh-Ni Chen;Jiao Jiao Han;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xinxin Wu,28,80.928571429,8.008923595,91.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,5,7,9,2,,,
+UBCV,2018,W,CHIN,131,,011,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Chien-Ju Lin;Jiao Jiao Han;Ming Zhu Lu;Qian Wang;Shehao Huang,26,75.884615385,19.537301601,95.0,4.0,,,,,,,,,,,1,1,1,4,0,0,1,2,7,3,6,,,
+UBCV,2018,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Chien-Ju Lin;Hsueh-Ni Chen;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,23,83.0,8.893306983,94.0,61.0,,,,,,,,,,,0,0,0,1,0,1,4,1,3,7,6,,,
+UBCV,2018,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow;Xinxin Wu,17,82.588235294,9.46743645,94.0,62.0,,,,,,,,,,,0,0,0,1,1,0,3,1,1,6,4,,,
+UBCV,2018,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Changhao Yao;Chien-Ju Lin;Jiao Jiao Han;Li-Jung Lee;Ming Zhu Lu;Qian Wang;Xinxin Wu,23,87.47826087,7.536997022,96.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,2,5,4,11,,,
+UBCV,2018,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Changhao Yao;Chien-Ju Lin;Jiao Jiao Han;Li-Jung Lee;Ming Zhu Lu;Qian Wang,16,85.3125,5.952240475,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,2,5,,,
+UBCV,2018,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin;Jiao Jiao Han;Ming Zhu Lu;Miru Wang;Qian Wang;Siang Hu;Ying-Hua Tsai,19,83.368421053,10.095161252,94.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,2,2,7,5,,,
+UBCV,2018,W,CHIN,133,,008,Basic Chinese I: Part 2 (Non-Heritage),An-Yi Lee;Chien-Ju Lin;Jiao Jiao Han;Miru Wang;Pi-Hua Lin;Qian Wang;Siang Hu;Wayne Fan,25,73.28,12.762314315,88.0,28.0,,,,,,,,,,,1,0,0,1,6,2,2,4,4,5,0,,,
+UBCV,2018,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Qijiang Zhao;Shuyan Lei,24,84.291666667,10.002083116,93.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,0,1,9,9,,,
+UBCV,2018,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Bin Zheng;Chien-Ju Lin;Qian Wang;Shuyan Lei,24,79.083333333,9.717383199,93.0,50.0,,,,,,,,,,,0,1,0,0,1,4,0,3,8,5,2,,,
+UBCV,2018,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Shuyan Lei;Siang Hu;Wayne Fan,19,75.421052632,14.12372232,95.0,28.0,,,,,,,,,,,1,0,0,0,2,2,2,4,4,2,2,,,
+UBCV,2018,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Bin Zheng;Chien-Ju Lin;Qian Wang;Shuyan Lei;Siang Hu;Wayne Fan,15,79.533333333,9.620414801,92.0,60.0,,,,,,,,,,,0,0,0,2,0,0,1,3,4,3,2,,,
+UBCV,2018,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Chien-Ju Lin;Chuhan Zeng;Jiao Jiao Han;Ming Zhu Lu;Qian Wang,11,80.0,7.874007874,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,5,2,1,,,
+UBCV,2018,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Chengmin Su;Chien-Ju Lin;Jiao Jiao Han;Qian Wang;Yu-Chi Kuo,21,72.80952381,12.536423125,92.0,40.0,,,,,,,,,,,1,1,0,1,3,2,3,2,5,2,1,,,
+UBCV,2018,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Chengmin Su;Chien-Ju Lin;Jiao Jiao Han;Pi-Hua Lin;Qian Wang,25,78.24,11.751879282,95.0,53.0,,,,,,,,,,,0,2,0,0,2,4,3,2,1,5,6,,,
+UBCV,2018,W,CHIN,241,,001,Basic Chinese II: Part 1 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Qian Wang;Tianming Li;Zhenyi Zhou,31,77.967741935,9.016591636,92.0,55.0,,,,,,,,,,,0,0,1,2,2,1,3,9,6,5,2,,,
+UBCV,2018,W,CHIN,241,,002,Basic Chinese II: Part 1 (Heritage),Chien-Ju Lin;Qian Wang;Qijiang Zhao;Shuyan Lei;Tianming Li,14,77.0,9.173540546,90.0,60.0,,,,,,,,,,,0,0,0,2,0,1,3,2,3,2,1,,,
+UBCV,2018,W,CHIN,243,,001,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Junjie Lin;Qian Wang;Qijiang Zhao;Tianming Li,28,70.964285714,12.001488003,90.0,36.0,,,,,,,,,,,1,1,2,3,2,4,3,4,5,2,1,,,
+UBCV,2018,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Junjie Lin;Qian Wang;Tianming Li;Yudan Wang,12,78.916666667,8.284249385,86.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,3,3,4,0,,,
+UBCV,2018,W,CHIN,484,,001,Intensive Modern Chinese Literature (Heritage),Chien-Ju Lin;Jiaqi Yao;Qian Liu;Qian Wang,53,76.075471698,6.562858947,86.0,60.0,,,,,,,,,,,0,0,0,2,5,7,8,11,18,2,0,,,
+UBCV,2019,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Ming Zhu Lu;Qian Wang;Shiyang Zhang;Xinxin Wu,12,81.0,10.135446351,94.0,62.0,,,,,,,,,,,0,0,0,1,0,2,0,3,0,3,3,,,
+UBCV,2019,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Jiaxin Wang;Li-Jung Lee;Qian Wang;Tianqi Zhao,22,79.636363636,3.761274538,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,9,9,2,0,,,
+UBCV,2019,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Menghan Gao;Qian Wang;Shuilin Wang;Tianqi Zhao;Yijun Yue,16,77.0625,12.481820113,92.0,40.0,,,,,,,,,,,1,0,1,0,0,0,1,1,11,0,1,,,
+UBCV,2019,W,CHIN,241,,002,Basic Chinese II: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Yiheng Luo;Zhang Yinglan,27,77.888888889,5.176376319,85.0,55.0,,,,,,,,,,,0,0,1,0,0,0,1,14,10,1,0,,,
+UBCV,2019,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Zhang Yinglan,18,79.277777778,4.737901689,89.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,6,8,1,0,,,
+UBCV,2019,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Qianyu Li,23,79.0,7.495453167,95.0,66.0,,,,,,,,,,,0,0,0,0,2,2,4,4,4,6,1,,,
+UBCV,2019,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Shaoyu Xiong,18,77.333333333,8.152949665,92.0,66.0,,,,,,,,,,,0,0,0,0,3,1,4,2,4,2,2,,,
+UBCV,2019,W,CHIN,345,,001,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin;Ming Zhu Lu;Qian Wang;Qianyu Li,17,76.647058824,8.781665392,88.0,60.0,,,,,,,,,,,0,0,0,1,2,3,1,3,3,4,0,,,
+UBCV,2019,W,CHIN,347,,001,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin;Ming Zhu Lu;Qian Wang;Shaoyu Xiong,13,77.076923077,11.521440437,92.0,60.0,,,,,,,,,,,0,0,0,2,2,1,1,0,3,2,2,,,
+UBCV,2020,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin;Qian Wang;Zitian Zhen,37,81.027027027,6.517014,96.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,7,14,6,4,,,
+UBCV,2020,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin;Qian Wang;Tianyi Tang;Zitian Zhen,38,79.394736842,8.069091759,90.0,55.0,,,,,,,,,,,0,0,1,2,0,1,5,8,10,7,4,,,
+UBCV,2020,W,CHIN,345,,001,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin;Qian Wang;Zitian Zhen,24,83.333333333,6.1124724,94.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,3,7,9,3,,,
+UBCV,2020,W,CHIN,347,,001,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin;Qian Wang;Tianyi Tang;Zitian Zhen,22,80.863636364,5.54887766,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,3,9,4,2,,,
+UBCV,2021,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin;Wenqi Chu,34,74.882352941,14.733521264,91.0,29.0,,,,,,,,,,,3,1,0,1,2,1,6,3,8,6,3,,,
+UBCV,2021,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin;Songyan Ni,23,76.565217391,14.383785337,88.0,25.0,,,,,,,,,,,1,0,1,1,1,1,3,1,7,7,0,,,
+UBCV,2021,W,CHIN,345,,001,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin;Wenqi Chu,30,77.6,7.659116722,89.0,63.0,,,,,,,,,,,0,0,0,2,3,1,4,5,9,6,0,,,
+UBCV,2021,W,CHIN,347,,001,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin;Songyan Ni,29,78.310344828,10.44066038,89.0,50.0,,,,,,,,,,,0,2,1,0,0,2,3,2,10,9,0,,,
+UBCV,2021,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin,34,74.9,,91.0,29.0,,,,,,,,,,,,,,,,,6,,8,6,,79.5,84.8,72.0
+UBCV,2021,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin,23,76.6,,88.0,25.0,,,,,,,,,,,,,,,,,,,7,7,,82.0,86.0,73.0
+UBCV,2021,W,CHIN,345,,001,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin,30,77.6,,89.0,63.0,,,,,,,,,,,,,,,,,,,9,6,,78.5,83.8,74.0
+UBCV,2021,W,CHIN,347,,001,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin,29,78.3,,89.0,50.0,,,,,,,,,,,,,,,,,,,10,9,,82.0,85.0,74.0
+UBCV,2022,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin,24,77.4,,87.0,60.0,,,,,,,,,,,0,0,0,4,1,1,0,3,11,4,0,80.5,83.0,75.3
+UBCV,2022,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin,19,77.7,,90.0,55.0,,,,,,,,,,,0,0,2,0,1,0,2,3,8,2,1,82.0,83.5,75.0
+UBCV,2022,W,CHIN,345,,001,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin,26,77.3,,88.0,33.0,,,,,,,,,,,1,0,1,1,0,1,0,7,11,4,0,80.0,82.8,78.0
+UBCV,2022,W,CHIN,347,,001,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin,18,76.9,,90.0,39.0,,,,,,,,,,,1,0,0,0,0,3,0,5,7,1,1,79.5,82.8,76.0
+UBCV,2023,S,CHIN,415,,921,Media Chinese I (Heritage),Chien-Ju Lin,12,71.36,,86.0,3.0,,,,,,,,,,,1,0,0,1,0,0,1,3,3,2,0,79.0,81.5,74.5
+UBCV,2023,W,CHIN,341,,011,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin,27,75.52,,91.0,50.0,,,,,,,,,,,0,2,2,2,0,2,0,4,10,4,1,80.0,83.0,70.5
+UBCV,2023,W,CHIN,343,,021,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin,20,79.2,,93.0,61.0,,,,,,,,,,,0,0,0,1,0,1,5,2,4,6,1,82.0,85.0,73.75
+UBCV,2023,W,CHIN,345,,011,Intermediate Chinese II: Part I (Heritage),Chien-Ju Lin,24,74.0,,90.0,17.0,,,,,,,,,,,1,0,1,1,3,2,0,6,5,4,1,78.0,83.25,69.0
+UBCV,2023,W,CHIN,347,,021,Intermediate Chinese II: Part 2 (Heritage),Chien-Ju Lin,19,76.89,,87.0,58.0,,,,,,,,,,,0,0,3,1,0,1,1,3,3,7,0,81.0,86.0,73.0
+UBCV,2023,W,CHIN,405,,011,Advanced Chinese Speaking and Writing I (Non-Heritage),Chien-Ju Lin,10,71.5,,86.0,29.0,,,,,,,,,,,1,1,0,0,0,1,1,0,5,1,0,80.0,81.5,71.0
+UBCV,2023,W,CHIN,407,,021,Advanced Chinese Speaking and Writing II (Non-Heritage),Chien-Ju Lin,8,73.75,,85.0,16.0,,,,,,,,,,,1,0,0,0,0,0,0,1,5,1,0,83.0,83.25,79.0
+UBCV,2023,W,CHIN,415,,011,Media Chinese I (Heritage),Chien-Ju Lin,21,73.7,,88.0,6.0,,,,,,,,,,,1,1,1,1,1,0,1,2,6,6,0,80.5,85.0,71.75

@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,CPSC,535,Z,201,TOPICS SIMULATN,"Aruliah, Dhavide;Mitchell, Ian",4,77.25,8.46,86,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0
+UBC,2018,W,CPSC,302,,101,NUM COMP ALG PRB,"Aruliah, Dhavide",108,72.12,14.38,97,22,96,10,1,0,1,0,0,1,2,7,10,2,3,6,7,15,21,9,14,9,10
+UBC,2018,W,CPSC,303,,201,NUM APPROX/DISCR,"Aruliah, Dhavide",95,74.75,11.82,96,39,90,1,1,0,2,0,0,0,1,0,1,1,8,8,10,10,10,8,8,19,8
+UBCV,2018,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Dhavide Aruliah;Michael Wathen;Yuxi Feng;Zhenan Fan,107,72.121495327,14.312357954,97.0,22.0,,,,,,,,,,,10,2,3,6,7,15,22,9,14,9,10
+UBCV,2018,W,CPSC,303,,201,Numerical Approximation and Discretization,Dhavide Aruliah;Justin Reiher;Michael Gelbart;Nicholas Hu;Yuxi Feng,93,74.365591398,12.87125627,96.0,24.0,,,,,,,,,,,2,1,7,9,10,10,10,8,8,20,8
+UBCV,2019,W,CPSC,503,,201,Computational Linguistics I,Dhavide Aruliah;Giuseppe Carenini;Linzi Xing,14,89.785714286,2.636389472,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,6

@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,THTR,308,,001,SOUND DESIGN,"Dodge, Carey",22,75.91,24.68,97,0,20,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,3,5,2,5,5
+UBC,2017,W,THTR,299,B,001,PRODUCTION I,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",6,89.6,3.85,93,83,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+UBC,2017,W,THTR,308,,001,SOUND DESIGN,"Dodge, Carey",23,86.86,19.05,98,5,21,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,7,11
+UBC,2017,W,THTR,399,B,001,PRODUCTION II,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",8,86.25,3.99,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2
+UBC,2017,W,THTR,499,B,001,PRODUCTION III,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",8,89.75,3.54,94,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBCV,2016,W,THTR,308,,001,Sound Design,Carey Dodge,22,75.90909091,24.68257355,97.0,0.0,,,,,,,,,,,2,0,0,0,0,0,3,5,2,5,5
+UBCV,2017,W,THTR,299,B,001,Production I,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,6,88.0,5.215361924,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,4
+UBCV,2017,W,THTR,308,,001,Sound Design,Carey Dodge,23,87.086956522,18.639920609,98.0,5.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,7,12
+UBCV,2017,W,THTR,399,B,001,Production II,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,8,86.25,3.991061441,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,2
+UBCV,2017,W,THTR,499,B,001,Production III,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,8,89.75,3.535533906,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,4
+UBCV,2019,W,THTR,299,C,001,Production I,Bradley Powers;Carey Dodge;Christine Reimer;Jacqueline Firkins;Jerry Wasserman;Jillian Wyness;Kathleen Duborg;Lorraine West;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Stephen Drover;Susan Bertoia,14,84.714285714,5.703286117,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,5,4
+UBCV,2020,W,THTR,391,A,001,Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,12,85.583333333,2.810963385,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,0
+UBCV,2020,W,THTR,491,A,001,Advanced Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,13,84.615384615,5.560852176,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,6,2

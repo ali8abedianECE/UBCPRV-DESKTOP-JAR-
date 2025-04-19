@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Amin Imani;Berend Wassink;Golam Ismot Ara Taposhe;Hossein Zargarnezhad;Mohammadyousef Azimi,16,80.0625,8.266145817,95.0,63.0,0,0,0,1,0,1,3,3,2,4,2,,,
+UBCV,2020,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Amin Imani;Berend Wassink;Golam Ismot Ara Taposhe;Hossein Zargarnezhad;Mohammadyousef Azimi,14,69.928571429,21.769648192,88.0,0.0,1,0,0,1,1,4,0,3,2,2,0,,,
+UBCV,2020,W,MTRL,381,,201,Structure and Properties Laboratory,Amin Imani;Jonathan Nakane,15,87.933333333,3.936399128,95.0,80.0,0,0,0,0,0,0,0,0,4,4,7,,,
+UBCV,2020,W,MTRL,381,,202,Structure and Properties Laboratory,Amin Imani;Jonathan Nakane,10,85.2,4.467164151,92.0,80.0,0,0,0,0,0,0,0,0,4,4,2,,,
+UBCV,2021,W,APSC,279,,101,Engineering Materials Laboratory,Amin Imani;Berend Wassink;Farhad Rahimi;Hossein Zargarnezhad;Mohammadyousef Azimi;Sheida Nikkhah Fini,19,80.052631579,9.507153355,92.0,52.0,0,1,0,0,0,1,2,4,5,2,4,,,
+UBCV,2021,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Amin Imani;Chun Wu;Damien Huet;David Luke;Eric Bokenfohr;Graham Hendra;Hamed Helisaz;Hanie Asgari;Iman Rahgozar Abadi;Isaac Becker;Ivonne Medina Lino;Jonathan Nakane;Mewael Isiet;Min Jun Jo;Mohamed Hendy;Mohammad Amin Roohi;Mohammad Reza Karimi;Mohammadyousef Azimi;Nasser Arbabi;Patrick Walls;Robin Turner;Sakshi Jain;Shangxuan Yu;Sheldon Green;Tarannum Nisha;Taryn Loutit;Xiaohe Liu,122,74.762295082,11.847553207,98.0,22.0,6,1,0,7,6,12,21,29,26,9,5,,,
+UBCV,2021,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Amin Imani;Berend Wassink;Golam Ismot Ara Taposhe;Mohammad Amin Razmjoo Khollari;Mohammadyousef Azimi,18,82.166666667,7.594502656,91.0,67.0,0,0,0,0,1,2,1,1,4,6,3,,,
+UBCV,2021,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Amin Imani;Berend Wassink;Golam Ismot Ara Taposhe;Mohammad Amin Razmjoo Khollari;Mohammadyousef Azimi,21,69.857142857,16.291978745,91.0,19.0,1,1,2,2,3,1,4,1,2,2,2,,,
+UBCV,2021,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Amin Imani;Berend Wassink;Golam Ismot Ara Taposhe;Mohammad Amin Razmjoo Khollari;Mohammadyousef Azimi,10,70.0,19.686430747,98.0,30.0,1,1,1,0,1,1,0,1,2,1,1,,,
+UBCV,2021,W,MTRL,381,,201,Structure and Properties Laboratory,Amin Imani;Jonathan Nakane;Mohammadali Shahsavari,16,85.0,4.885352256,91.0,76.0,0,0,0,0,0,0,0,4,0,8,4,,,
+UBCV,2021,W,MTRL,381,,202,Structure and Properties Laboratory,Amin Imani;Jonathan Nakane;Mohammadali Shahsavari,13,86.538461538,2.696151103,90.0,83.0,0,0,0,0,0,0,0,0,3,7,3,,,
+UBCV,2021,W,MTRL,381,,204,Structure and Properties Laboratory,Amin Imani;Jonathan Nakane;Mohammadali Shahsavari,10,82.9,14.715449176,93.0,42.0,1,0,0,0,0,0,0,0,1,6,2,,,
+UBCV,2022,W,APSC,279,,105,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,13,85.0,,97.0,63.0,0,0,0,1,0,0,0,2,2,5,3,85.0,88.0,83.0
+UBCV,2022,W,APSC,279,,112,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,11,81.6,,93.0,65.0,0,0,0,0,1,0,2,1,3,2,2,81.0,87.0,76.5
+UBCV,2022,W,APSC,279,,114,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,20,84.2,,97.0,69.0,0,0,0,0,0,1,2,2,3,7,5,85.0,89.3,80.5
+UBCV,2022,W,APSC,279,,207,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,15,80.8,,94.0,54.0,0,1,0,0,0,1,3,1,3,2,4,82.0,89.0,74.5
+UBCV,2022,W,APSC,279,,211,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,20,90.7,,99.0,58.0,0,0,1,0,0,1,0,1,0,1,16,94.0,97.3,91.0
+UBCV,2022,W,APSC,279,,213,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,19,90.6,,100.0,71.0,0,0,0,0,0,1,0,1,2,2,13,94.0,95.0,86.0
+UBCV,2023,W,APSC,279,,204,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,17,88.5,,99.0,10.0,1,0,0,0,0,0,0,1,0,2,13,95.0,97.0,93.0
+UBCV,2023,W,APSC,279,,206,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,20,90.6,,100.0,56.0,0,0,1,1,0,1,1,0,1,0,15,97.5,98.3,92.3
+UBCV,2023,W,APSC,279,,212,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,15,85.3,,99.0,73.0,0,0,0,0,0,0,2,0,5,3,5,85.0,91.5,82.0
+UBCV,2023,W,APSC,279,,216,Engineering Materials Laboratory,Amin Imani;Gabrielle Lam,18,83.1,,99.0,41.0,1,0,1,0,2,1,0,0,1,3,9,88.5,96.0,74.0

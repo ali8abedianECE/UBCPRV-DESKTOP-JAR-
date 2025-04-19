@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,COSC,247,,101,Networks and Social Media,Fatemeh Hendijani Fard;Shima Amirsadri,10,82.7,6.236986452,94.0,70.0,0,0,0,0,0,1,0,1,4,3,1,,,
+UBCO,2018,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard;Matthew Fritter;Matthew S Fritter,28,89.357142857,6.476248833,100.0,79.0,0,0,0,0,0,0,0,3,6,2,17,,,
+UBCO,2018,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Matthew Fritter;Matthew S Fritter,28,94.285714286,4.302085135,100.0,85.0,0,0,0,0,0,0,0,0,0,5,23,,,
+UBCO,2018,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;Joyce Epp,28,86.107142857,5.632835519,94.0,73.0,0,0,0,0,0,0,2,2,7,6,11,,,
+UBCO,2019,W,COSC,320,,001,Analysis of Algorithms,Araz Sholehkerdar;Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Roozbeh Eslami;Sherif Elbishlawi;Zil Huma,106,87.481132075,11.894161138,100.0,0.0,2,0,0,0,1,2,2,3,20,29,47,,,
+UBCO,2019,W,COSC,328,,001,Introduction to Networks,Billy Spelchan;Fatemeh Hendijani Fard;Mohammad Hadi,59,75.525423729,11.115934403,93.0,47.0,1,1,4,3,6,3,10,5,11,9,6,,,
+UBCO,2019,W,COSC,520,,001,Advanced Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Roozbeh Eslami;Yong Gao,11,98.909090909,2.30019762,100.0,93.0,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCO,2019,W,DATA,542,,101,Data Wrangling,Debangsha Sarkar;Fatemeh Hendijani Fard,35,93.857142857,5.683530682,99.0,72.0,0,0,0,0,0,0,1,0,2,2,30,,,
+UBCO,2019,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Jeff Bulmer,35,90.742857143,6.279485072,99.0,69.0,0,0,0,0,0,1,0,1,1,7,25,,,
+UBCO,2019,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;Jeff Bulmer,35,92.657142857,4.26988674,98.0,82.0,0,0,0,0,0,0,0,0,2,4,29,,,
+UBCO,2020,W,COSC,320,,001,Analysis of Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Ladan Tazik;Ramin Shahbazi;Rishab Sharma;Roozbeh Eslami,147,83.680272109,10.357967216,99.0,44.0,1,2,1,3,7,3,11,13,20,39,47,,,
+UBCO,2020,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard;Ramin Shahbazi;Rishab Sharma,100,82.5,11.789826123,100.0,39.0,1,2,1,1,3,8,8,14,14,14,34,,,
+UBCO,2020,W,DATA,542,,101,Data Wrangling,Debangsha Sarkar;Fatemeh Hendijani Fard;John Graham-Knight,31,91.741935484,6.049615646,100.0,75.0,0,0,0,0,0,0,1,0,2,7,21,,,
+UBCO,2020,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Firas Moosvi;Yiming Ding,31,98.516129032,3.064538766,100.0,88.0,0,0,0,0,0,0,0,0,0,2,29,,,
+UBCO,2020,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;John Graham-Knight;Patricia Lasserre,31,92.096774194,4.085379123,98.0,82.0,0,0,0,0,0,0,0,0,1,6,24,,,
+UBCO,2021,W,COSC,328,,001,Introduction to Networks,Erfan Raoofian;Fatemeh Hendijani Fard;Mohamed Abdelpakey;Pinku Nath;Roozbeh Eslami;Zenab Kutubuddin Kagdiwala,92,80.75,9.093682144,94.0,47.0,1,1,3,1,3,3,8,9,29,24,10,,,
+UBCO,2021,W,DATA,542,,101,Data Wrangling,A.K.M Amanat Ullah;Fatemeh Hendijani Fard;Firas Moosvi;Shabnam Fani;Yiming Ding,30,98.733333333,1.680175141,100.0,94.0,0,0,0,0,0,0,0,0,0,0,30,,,
+UBCO,2022,W,COSC,320,,001,Analysis of Algorithms,Fatemeh Hendijani Fard,145,79.8,,98.0,45.0,3,1,4,6,6,11,12,20,23,29,30,82.0,89.0,74.0
+UBCO,2022,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard,79,75.2,,99.0,43.0,1,4,6,4,8,10,6,7,13,8,12,76.0,84.5,66.0
+UBCO,2022,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard,30,95.0,,99.0,87.0,0,0,0,0,0,0,0,0,0,2,28,95.0,97.0,93.3
+UBCO,2023,W,COSC,320,,001,Analysis of Algorithms,Fatemeh Hendijani Fard,187,80.3,,100.0,17.0,11,0,2,3,4,12,11,24,37,41,41,83.0,89.0,76.0
+UBCO,2023,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard,103,76.2,,100.0,19.0,4,2,7,11,3,6,7,13,15,8,23,79.0,88.0,65.0
+UBCO,2023,W,COSC,548,,002,Directed Studies,Fatemeh Hendijani Fard,6,100.0,,100.0,100.0,0,0,0,0,0,0,0,0,0,0,6,100.0,100.0,100.0
+UBCO,2023,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard,40,97.5,,100.0,91.0,0,0,0,0,0,0,0,0,0,0,40,98.5,100.0,95.8
+UBCO,2023,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard,40,98.4,,100.0,88.0,0,0,0,0,0,0,0,0,0,2,38,99.0,100.0,98.0

@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,PHYS,101,,103,Energy and Waves,Alannah Hallas;Alison Lister;William Porter,241,75.825726141,14.946945131,98.0,0.0,24,0,3,7,12,24,33,22,39,38,39,,,
+UBCV,2020,W,PHYS,131,,104,Energy and Waves (Lecture),Alannah Hallas;Mohammed Iqbal;Steven Plotkin,380,80.128947368,12.939343124,99.0,38.0,22,0,2,4,27,24,43,40,57,56,105,,,
+UBCV,2020,W,PHYS,131,,M01,Energy and Waves (Lecture),Alannah Hallas;Mohammed Iqbal;Steven Plotkin,170,79.129411765,13.808742823,100.0,16.0,13,0,1,2,6,19,10,17,26,40,36,,,
+UBCV,2020,W,PHYS,474,,201,Applied Solid State Physics,Alannah Hallas;Ian Keith Affleck;Kyle Wamer,12,79.75,26.710995353,100.0,0.0,1,0,0,0,0,0,1,3,2,0,5,,,
+UBCV,2020,W,SCIE,113,,V04,First-Year Seminar in Science,Alannah Hallas;Caitlin Donnelly;Rocio Lopez De La Lama,19,66.578947368,23.17641471,91.0,0.0,2,2,1,1,0,2,2,4,3,1,1,,,
+UBCV,2021,W,PHYS,131,,104,Energy and Waves (Lecture),Alannah Hallas;Lorna Tu;Steven Plotkin;Wyatt Reeves,146,78.787671233,16.375848029,100.0,24.0,17,1,2,2,6,8,6,10,26,30,38,,,
+UBCV,2021,W,PHYS,474,,201,Applied Solid State Physics,Alannah Hallas;Ian Keith Affleck;Oguzhan Can,17,80.235294118,6.959969574,93.0,65.0,0,0,0,0,1,1,3,1,5,5,1,,,
+UBCV,2021,W,PHYS,131,,104,Energy and Waves (Lecture),Alannah Hallas;Steven Plotkin,146,78.9,,100.0,24.0,,,,,,,,,26,30,,83.0,90.0,72.5
+UBCV,2021,W,PHYS,474,,201,Applied Solid State Physics,Alannah Hallas,17,80.2,,93.0,65.0,,,,,,,,,,,,82.0,85.0,75.0
+UBCV,2022,W,PHYS,474,,201,Applied Solid State Physics,Alannah Hallas,27,80.5,,94.0,51.0,0,1,0,0,1,0,4,3,10,5,3,83.0,85.0,76.5
+UBCV,2023,W,PHYS,474,,201,Applied Solid State Physics,Alannah Hallas,31,80.9,,94.0,58.0,0,0,1,0,2,2,1,1,16,5,3,82.0,84.5,80.0

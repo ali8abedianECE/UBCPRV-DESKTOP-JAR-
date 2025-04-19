@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,410,,101,Advanced Software Engineering,Ben Zhu;Casey Albert Thompson;Elisa Baniassad;James Teng Kin Lo;Neil Traft;Reza Babanezhad Harikande;Sohrab Salehi,135,79.38518519,8.973414453,98.0,57.0,0,0,5,1,7,7,15,26,29,26,19
+UBCV,2015,S,CPSC,304,,911,Introduction to Relational Databases,Hassan Khosravi;Lauren Fung;Minwoo Kim;Nam Giang;Reza Babanezhad Harikande;Sampoorna Biswas;Shuoshi Sun,103,76.67961165,11.84061935,97.0,45.0,,,6,,6,6,11,13,21,22,9
+UBCV,2015,W,CPSC,221,,101,Basic Algorithms and Data Structures,Alan Hu;Andrew Karpierz;Reza Babanezhad Harikande;Zeinab Zolaktaf Zadeh;Zheng Dong,148,73.912162162,14.371612729,98.0,0.0,12,5,4,5,8,17,23,21,20,15,18
+UBCV,2015,W,CPSC,221,,102,Basic Algorithms and Data Structures,Andrew Karpierz;Reza Babanezhad Harikande;William Evans;Zeinab Zolaktaf Zadeh;Zheng Dong,136,74.044117647,13.829044929,96.0,4.0,8,1,6,12,6,13,18,23,20,18,11
+UBCV,2015,W,CPSC,540,,201,Machine Learning,Alireza Shafaei;Mark Schmidt;Reza Babanezhad Harikande;Sharan Rajesh Vaswani;Sharan Vaswani,59,90.525423729,5.74563082,100.0,73.0,0,0,0,0,0,0,,,5,19,33
+UBCV,2016,W,CPSC,340,,101,Machine Learning and Data Mining,Alireza Shafaei;Issam Hadj Laradji;Jianhui Chen;Mark Schmidt;Moumita Roy Tora;Reza Babanezhad Harikande;Robert Adam Rolin;Sedigheh Zolaktaf;Zeinab Zolaktaf Zadeh,175,82.81142857,11.06687538,100.0,46.0,2,2,5,5,5,4,13,18,31,31,59
+UBCV,2017,W,CPSC,540,,201,Machine Learning,Alireza Shafaei;Mark Schmidt;Raunak Kumar;Reza Babanezhad Harikande,61,92.426229508,5.064448033,99.0,73.0,0,0,0,0,0,0,1,1,1,13,45
+UBCV,2018,W,CPSC,540,,201,Machine Learning,Ainaz Hajimoradlou;Alireza Shafaei;Mark Schmidt;Reza Babanezhad Harikande;Si Yi Meng;Xiaomeng Ju,51,90.529411765,4.985390421,99.0,77.0,0,0,0,0,0,0,0,2,5,8,36

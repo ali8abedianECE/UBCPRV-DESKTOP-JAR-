@@ -1,0 +1,119 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EPSE,482,,076,INTR STAT RS EDU,"Rupp, Andre",17,86.86,8.83,100,68,14,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,1,0,2,6,4
+UBC,2002,W,EPSE,482,,077,INTR STAT RS EDU,"Rupp, Andre",23,88.96,6.72,99,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,5,13
+UBC,2002,W,STAT,203,,101,STATISTICAL MTHD,"Rupp, Andre",68,73.45,17.96,99,0,61,5,2,0,0,1,2,0,1,1,5,1,1,4,4,7,8,10,12,5,9
+UBC,2003,W,EADM,532,,022,LDRSHP ED ORG,"Mazawi, Andre",14,91.08,2.47,95,87,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10
+UBC,2003,W,EDST,508,A,081,REV RES ED MTHDS,"Fisher, Donald;Mazawi, Andre",11,84.64,3.98,93,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,1
+UBC,2003,W,EECE,201,,1P1,Proj Int Prog I,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Madden, John",72,71.58,6.57,84,50,72,0,0,0,0,0,0,0,0,0,0,1,2,4,8,22,15,10,10,0,0
+UBC,2003,W,EECE,202,,2P1,Proj Int Prog II,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Salcudean, Septimiu;Yedlin, Matthew",68,69.37,9.42,90,45,66,2,0,0,0,0,0,0,0,2,2,1,4,12,10,10,11,5,10,2,1
+UBC,2003,W,EECE,571,C,203,ELEC SEM&SP PROB,"Ivanov, Andre",5,90,0,90,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2003,W,EECE,578,,201,INTGR CIRCT DESG,"Ivanov, Andre",7,89,5.39,93,80,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+UBC,2003,W,FREN,220,,001,LIT IN FR&TXT AN,"Lamontagne, Andre",34,74.71,14.87,91,0,33,1,0,0,0,1,0,0,0,0,1,0,1,0,3,1,9,7,6,5,1
+UBC,2003,W,FREN,220,,003,LIT IN FR&TXT AN,"Lamontagne, Andre;Rocheleau, Alain-Michel",31,72.5,11.91,83,36,28,2,1,0,0,0,0,0,2,0,2,1,0,0,2,5,4,4,12,0,0
+UBC,2003,W,FREN,330,,001,FRENCH-CAN LIT,"Beaudoin, Rejean;Lamontagne, Andre",24,79.14,5.88,87,68,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,5,7,5,0
+UBC,2003,W,FREN,455,,201,FREN COMP II,"Lamontagne, Andre",35,78.77,6.91,97,66,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,5,10,3,3
+UBC,2003,W,FREN,513,A,101,FR CANADIAN LIT,"Lamontagne, Andre",8,73.8,26.87,89,26,4,1,0,1,2,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2,0
+UBC,2003,W,SOCI,240,A,001,SOCL INTERACTION,"Smith, Andre",96,68.35,11.35,87,38,91,4,1,0,0,0,0,0,2,2,4,6,9,13,10,15,8,8,18,4,0
+UBC,2003,W,SOCI,382,,001,SOCI METH ETHNO,"Smith, Andre",79,72.32,9.59,90,50,74,0,2,0,3,0,0,0,0,0,0,3,2,9,12,9,10,6,16,6,1
+UBC,2003,W,SOCI,484,A,001,HEALTH & ILLNESS,"Smith, Andre",30,74.77,7.12,90,62,30,0,0,0,0,0,0,0,0,0,0,0,0,2,0,9,8,3,3,4,1
+UBC,2005,W,EADM,501,,61B,RSRCH&RSRCH TRAD,"Mazawi, Andre",22,87.77,4.67,92,77,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,10,9
+UBC,2005,W,EECE,201,,1P1,Proj Int Prog I,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Mirabbasi, Shahriar",80,69.35,10.08,96,45,79,1,0,0,0,0,0,0,0,1,1,6,7,8,11,12,16,10,2,4,3
+UBC,2005,W,EECE,202,,2P1,Proj Int Prog II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",73,66.23,11.06,95,43,71,2,0,0,0,0,0,0,0,2,2,7,14,9,9,11,6,6,3,4,2
+UBC,2005,W,EECE,254,,203,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",54,64.27,12.22,90,41,46,6,0,0,2,0,0,0,0,6,6,6,9,3,6,6,6,4,4,1,1
+UBC,2005,W,FREN,430,,201,QUEBECOIS LIT,"Lamontagne, Andre",33,78.79,7.09,91,60,33,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,9,8,6,2
+UBC,2005,W,FREN,513,A,101,FR CANADIAN LIT,"Lamontagne, Andre",7,87.14,3.58,94,84,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1
+UBC,2006,W,EADM,582,,021,ORGZTN EDUC CONT,"Mazawi, Andre",22,86.82,4.97,94,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,9,8
+UBC,2006,W,EADM,582,,61A,ORGZTN EDUC CONT,"Mazawi, Andre",15,87.13,2.95,91,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,4
+UBC,2006,W,EDST,508,A,083,REV RES ED MTHDS,"Fisher, Donald;Mazawi, Andre",12,84,4.9,90,80,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,4
+UBC,2006,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Ivanov, Andre;Lawrence, Peter;Mirabbasi, Shahriar",83,67.67,14.22,93,2,75,7,1,0,0,1,0,0,1,5,7,5,7,9,9,10,10,7,11,4,3
+UBC,2006,W,EECE,202,,2P1,INT PROG PROJ II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",63,68.49,12.03,92,39,61,2,0,0,0,0,0,0,1,1,2,5,9,7,8,8,4,8,4,4,4
+UBC,2006,W,EECE,203,,2P1,BIOMED ENG PIP,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",13,73,8.57,85,59,13,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,1,3,1,0
+UBC,2006,W,EECE,254,,201,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",104,63.99,15.61,98,39,81,21,0,0,2,0,0,0,3,18,21,8,11,10,11,9,8,6,6,6,6
+UBC,2006,W,EECE,254,,T2A,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,FREN,224,,101,INTRD APP FREN I,"Lamontagne, Andre",17,78.59,5.65,90,68,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,3,2,1
+UBC,2006,W,FREN,430,B,201,QUEBECOIS LIT,"Lamontagne, Andre",18,79.72,6.22,88,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,6,0
+UBC,2006,W,PHYS,352,,L1A,LAB TECH IN PHYS,"BEAUDOIN, MARIO;Marziali, Andre;Tiedje, Thomas",15,77.47,10.71,97,62,15,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,1,2,3,2
+UBC,2006,W,PHYS,352,,L1B,LAB TECH IN PHYS,"Marziali, Andre;Tiedje, Thomas",15,76.71,8.51,91,62,14,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4,1,2,3,2,1
+UBC,2006,W,PHYS,352,,L1C,LAB TECH IN PHYS,"BEAUDOIN, MARIO;Marziali, Andre;Tiedje, Thomas",13,73.92,6.52,84,59,12,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,5,1,3,0,0
+UBC,2006,W,PHYS,352,,L2A,LAB TECH IN PHYS,"Marziali, Andre;Tiedje, Thomas",14,74.29,20.11,100,31,12,2,0,0,0,0,0,0,1,1,2,1,0,1,0,0,2,0,3,2,3
+UBC,2007,W,EADM,501,,021,RSRCH&RSRCH TRAD,"Mazawi, Andre",16,89.36,1.55,91,86,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+UBC,2007,W,EADM,553,A,023,SEM-GRP INQ EADM,"Mazawi, Andre",12,91.17,1.75,94,90,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2007,W,EDST,508,A,022,REV RES ED MTHDS,"Mazawi, Andre",12,87.83,3.1,92,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3
+UBC,2007,W,EDST,601,B,081,DOCTORAL SEM,"Mazawi, Andre",13,,,,,0,0,0,1,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,EECE,202,,2P1,INT PROG PROJ II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",46,66.72,10.5,87,50,46,0,0,0,0,0,0,0,0,0,0,8,2,9,5,6,7,3,3,3,0
+UBC,2007,W,EECE,203,,2P1,BIOMED ENG PIP,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",9,71.44,7.47,82,62,9,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,2,2,0,0
+UBC,2007,W,EECE,578,,201,INTGR CIRCT DESG,"Ivanov, Andre",6,91.17,3.37,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2007,W,FREN,330,,101,QUEBECOIS  LIT,"Lamontagne, Andre",34,77.79,6.54,94,63,33,0,0,0,1,0,0,0,0,0,0,0,0,1,2,1,9,5,11,3,1
+UBC,2007,W,PHYS,352,,L1A,LAB TECH IN PHYS,"BEAUDOIN, MARIO;Marziali, Andre",11,72.89,13.62,87,55,9,0,2,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,2,3,0
+UBC,2007,W,PHYS,352,,L1B,LAB TECH IN PHYS,"Marziali, Andre",16,75.63,10.3,92,50,16,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,3,0,4,1
+UBC,2007,W,PHYS,352,,L1C,LAB TECH IN PHYS,"BEAUDOIN, MARIO;Marziali, Andre",16,78.27,9.9,90,58,15,0,0,0,1,0,0,0,0,0,0,0,1,1,0,2,1,1,4,4,1
+UBC,2007,W,PHYS,352,,L2A,LAB TECH IN PHYS,"BEAUDOIN, MARIO;Marziali, Andre",19,75.89,8.62,90,56,18,0,0,0,1,0,0,0,0,0,0,0,1,0,0,4,4,4,1,2,2
+UBC,2009,S,EADM,582,,93A,ORGZTN EDUC CONT,"Mazawi, Andre",19,89.84,2.57,92,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,12
+UBC,2009,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",62,86.82,9.26,100,68,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,15,5,30
+UBC,2010,S,EDST,508,B,971,REV RES ED STUDS,"Mazawi, Andre;Ungerleider, Charles",9,81.22,4.32,88,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,1,0
+UBC,2010,S,EDST,582,,921,STDY EDUC ORGAN,"Mazawi, Andre",9,89.38,5.04,95,78,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6
+UBC,2010,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",55,86.49,7,99,75,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,25,6,17
+UBC,2010,W,FREN,513,A,101,FR CANADIAN LIT,"Lamontagne, Andre",7,84.43,3.51,88,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0
+UBC,2010,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",18,81,7.26,94,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,6,2,3
+UBC,2010,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",18,84.5,6.32,97,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,7,3
+UBC,2011,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",53,84.68,7.87,97,70,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,7,10,7,19
+UBC,2011,W,EDST,508,D,083,REV RES ED STUDS,"Butterwick, Shauna;Mazawi, Andre",13,89.33,1.5,91,87,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2011,W,EDST,521,,022,FDNS HIGHR EDUC,"Mazawi, Andre",12,92.73,4.17,96,85,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+UBC,2011,W,EDST,582,,61A,STDY EDUC ORGAN,"Mazawi, Andre",22,91.45,2.46,95,85,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,18
+UBC,2011,W,EDST,601,B,081,DOCTORAL SEM,"Mazawi, Andre",10,,,,,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,FREN,330,,201,QUEBECOIS  LIT,"Lamontagne, Andre",33,76.39,10.56,91,36,32,1,0,0,0,0,0,0,1,0,1,0,1,0,1,4,7,7,6,3,3
+UBC,2011,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",20,77.3,7.49,91,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,4,4,3,1
+UBC,2011,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",20,79.7,5.02,88,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,4,0
+UBC,2011,W,SPAN,490,E,201,SP-AM LIT 20C,"Lamontagne, Andre;TBA",11,79.27,7.94,89,64,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,4,0
+UBC,2012,S,EDST,508,B,971,REV RES ED STUDS,"Butterwick, Shauna;Mazawi, Andre",12,91.25,2.6,92,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+UBC,2012,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",59,86.66,6.92,100,76,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,22,12,19
+UBC,2012,W,EDST,601,B,081,DOCTORAL SEM,"Mazawi, Andre",10,,,,,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,FREN,513,B,101,FR CANADIAN LIT,"Lamontagne, Andre",7,85.29,4.39,90,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1
+UBC,2012,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",15,85.87,5.82,94,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,5
+UBC,2012,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",15,89.07,6.23,96,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8
+UBC,2013,S,EECE,496,,941,ENGINEERING PROJ,"Ivanov, Andre",24,81.83,8.93,92,60,24,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1,6,9,3
+UBC,2013,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",60,87.4,8.82,100,65,60,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,2,12,15,23
+UBC,2013,W,EDST,501,,61A,RSC TRD EDU ADMN,"Mazawi, Andre;Waithman, Marilynne",19,89.26,1.63,90,85,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15
+UBC,2013,W,EDST,553,A,62A,GRP INQ ED PRAC,"Mazawi, Andre;Waithman, Marilynne",19,94,0,94,94,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+UBC,2013,W,EDST,582,,021,STDY EDUC ORGAN,"Mazawi, Andre",18,89.71,2.52,94,84,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11
+UBC,2013,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",22,83.91,5.41,93,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,8,3
+UBC,2013,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Mattman, Andre;Pudek, Morris;Purssell, Roy",22,88.27,3.21,94,83,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,7
+UBC,2014,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",56,89.04,5.09,99,79,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,17,27
+UBC,2014,W,EDST,501,,61B,RSC TRD EDU ADMN,"Mazawi, Andre",21,94,0,94,94,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+UBC,2014,W,EDST,508,A,082,REV RES ED STUDS,"Mazawi, Andre",12,93.17,2.17,95,88,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+UBC,2014,W,EDST,553,A,62A,GRP INQ ED PRAC,"Mazawi, Andre",21,94,0,94,94,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+UBC,2014,W,EDST,602,A,083,DOCTORAL SEMINAR,"Mazawi, Andre",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,FREN,220,,102,FR  LIT &TXT ANL,"Lamontagne, Andre",34,77.65,6.48,91,66,34,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,9,5,3,3
+UBC,2014,W,FREN,221,,203,MOD LIT & TXT AN,"Lamontagne, Andre",16,79.79,7.41,87,58,14,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,6,3,0
+UBC,2014,W,FREN,430,B,201,QUEBECOIS LIT,"Lamontagne, Andre",7,74.57,10.71,88,53,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,1,1,0
+UBC,2014,W,FREN,495,R,201,RESEARCH SEMINAR,"Lamontagne, Andre",8,80.13,3.04,84,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0,0
+UBC,2014,W,MINE,404,,201,MINE MGMT,"Moura Xavier, Andre;Van Zyl, Dirk",69,85.87,6.89,97,69,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,10,24,22
+UBC,2014,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",23,80.78,8.96,93,63,23,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,5,9,2
+UBC,2014,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",23,84.91,6.61,92,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,8,7
+UBC,2015,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",65,86.74,7.58,98,71,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,12,4,33
+UBC,2015,W,EDST,501,,61B,RSC TRD EDU ADMN,"Mazawi, Andre;Waithman, Marilynne",16,92.19,1.17,93,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2015,W,EDST,518,,022,THY REA ADU LEA,"Mazawi, Andre",13,91,2.26,94,87,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+UBC,2015,W,EDST,553,A,62A,GRP INQ ED PRAC,"Mazawi, Andre;Waithman, Marilynne",16,92.19,1.17,93,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2015,W,EDST,602,A,083,DOCTORAL SEMINAR,"Mazawi, Andre",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,FREN,330,,101,QUEBECOIS  LIT,"Lamontagne, Andre",37,77.95,9.34,93,37,36,1,0,0,0,0,0,0,1,0,1,0,0,1,0,4,4,9,11,6,1
+UBC,2015,W,FREN,513,B,201,FR CANADIAN LIT,"Lamontagne, Andre",8,82.5,6.91,91,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,1
+UBC,2015,W,MINE,404,,201,MINE MGMT,"Moura Xavier, Andre;Van Zyl, Dirk",60,80.7,9.84,93,39,58,2,0,0,0,0,0,0,1,1,2,0,0,0,0,5,5,7,21,11,9
+UBC,2015,W,MINE,590,E,201,SPEC ADV TOP,"Moura Xavier, Andre",6,91,0,91,91,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2015,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Monsalve, Maria Victoria;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary",20,77.85,8.54,88,57,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,6,5,0
+UBC,2016,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",60,85.73,6.17,98,69,59,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,23,20,12
+UBC,2016,W,CDST,350,B,201,CDN STUDIES,"Dechaine, Rose-Marie;Lamontagne, Andre",39,76.65,9.71,91,52,37,0,0,0,1,0,0,0,0,0,0,3,2,0,0,1,5,11,8,6,1
+UBC,2016,W,FREN,330,,101,QUEBECOIS  LIT,"Lamontagne, Andre",29,74.79,10.14,90,39,27,1,0,0,1,0,0,0,1,0,1,1,0,0,0,3,8,7,5,2,1
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2016,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Nimmo, Michael;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",21,77.38,6.29,86,66,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,6,3,0
+UBC,2017,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",62,86.03,5.53,99,76,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,22,18,16
+UBC,2017,W,EDST,535,,022,COMP&INTL AD ED,"Mazawi, Andre",15,90,1.91,92,85,13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10
+UBC,2017,W,EDST,565,D,081,SP CRS SBJCT FLD,"Mazawi, Andre",19,91.22,1.59,95,88,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16
+UBC,2017,W,EDST,601,B,081,DOCTORAL SEM,"Mazawi, Andre",10,,,,,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,FREN,513,A,101,FR CANADIAN LIT,"Lamontagne, Andre",8,85.33,2.25,88,83,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+UBC,2017,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Fung, Angela;Hauff, Kristin;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Pudek, Morris;Schreiber, William;Simons, Janet;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",13,75.08,16.91,87,31,12,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,3,5,0
+UBC,2018,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre",64,88.67,5.38,98,75,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,16,17,30
+UBC,2018,W,EDST,521,,021,FDNS HIGHR EDUC,"Mazawi, Andre",8,90.14,1.07,92,89,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2018,W,EDST,565,A,081,SP CRS SBJCT FLD,"Mazawi, Andre",12,90.44,3.91,94,84,9,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2018,W,EDST,601,B,081,DOCTORAL SEM,"Mazawi, Andre",8,,,,,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,ENPH,259,,101,EXPER TECHNIQUES,"Jones, David;Marziali, Andre",64,87.41,6.39,97,56,64,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,9,19,30
+UBC,2018,W,ENPH,481,,201,ENTREPRN PROJ  I,"Isbasescu, Ioan;Marziali, Andre",4,86.75,2.63,89,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0

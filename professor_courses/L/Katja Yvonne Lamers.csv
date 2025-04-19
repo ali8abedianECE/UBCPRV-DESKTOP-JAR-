@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,HUNU,531,,003,M.SC. SEMINAR,"Black, Jennifer;Lamers, Katja Yvonne;Li-Chan, Eunice",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,HUNU,631,,001,PH.D SEMINAR,"Black, Jennifer;Lamers, Katja Yvonne;Li-Chan, Eunice",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,HUNU,531,,003,M.SC. SEMINAR,"Lamers, Katja Yvonne;Xu, Zhaoming",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,HUNU,631,,001,PH.D SEMINAR,"Lamers, Katja Yvonne;Xu, Zhaoming",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,FNH,350,,002,Fundamentals of Nutrition,Chia-Ling Ho;Katja Yvonne Lamers;Theresa Schroder,76,75.10526316,10.22621331,93.0,53.0,,,,,,,,,,,0,,,,10,12,11,4,12,13,5,,,
+UBCV,2015,W,FNH,350,,001,Fundamentals of Nutrition,Chia-Ling Ho;Katja Yvonne Lamers;Maria Fernanda Mujica Coopman;Maria Mujica Coopman;Theresa Schroder,129,76.728682171,10.923563934,94.0,15.0,,,,,,,,,,,,,5,5,11,13,9,20,36,16,11,,,
+UBCV,2016,W,FNH,350,,001,Fundamentals of Nutrition,Aaron Sihoe;Abeer Aljaadi;Abeer Mohammed Aljaadi;Katja Yvonne Lamers;Maria Fernanda Mujica Coopman;Maria Mujica Coopman,164,77.30487805,8.720878304,93.0,50.0,,,,,,,,,,,0,2,6,5,11,12,21,34,41,23,9,,,
+UBCV,2017,W,FNH,350,,001,Fundamentals of Nutrition,Aaron Sihoe;Alejandra Wiedeman Manriquez;Beth Nanson;Elham Zeininezhad Movassagh;Emma Clark;Emma Hermiene Clark;Katja Yvonne Lamers,148,82.797297297,10.239950746,100.0,55.0,,,,,,,,,,,0,0,2,5,5,8,18,16,22,29,43,,,
+UBCV,2017,W,FNH,351,,001,"Vitamins, Minerals, and Health",Amy Tan;Beth Nanson;Elizabeth Marie Novak;Elizabeth Novak;Katja Yvonne Lamers;Larisse De Melo;Larisse Miranda De Melo;Larisse Rayanne Miranda De Melo,161,78.397515528,9.824891541,94.0,20.0,,,,,,,,,,,3,0,4,4,5,13,19,31,39,33,10,,,
+UBCV,2018,W,FNH,351,,001,"Vitamins, Minerals, and Health",Katja Yvonne Lamers;Kelsey Cochrane;Larisse De Melo;Larisse Miranda De Melo;Larisse Rayanne Miranda De Melo;Rachelyn Ritchie,142,79.042253521,11.018278327,94.0,0.0,,,,,,,,,,,2,0,2,3,9,7,17,17,38,37,10,,,
+UBCV,2019,W,FNH,351,,001,"Vitamins, Minerals, and Health",Amy Tan;Katja Yvonne Lamers;Rachelyn Ritchie;Yihang Chen,178,84.224719101,7.877957246,96.0,43.0,,,,,,,,,,,1,1,1,0,1,8,12,14,32,65,43,,,
+UBCV,2020,W,FNH,351,,001,"Vitamins, Minerals, and Health",Jordie Fischer;Katja Yvonne Lamers;Kerri Scherbinsky;Larisse De Melo;Larisse Miranda De Melo;Larisse Rayanne Miranda De Melo;Mikaela Stewart;Queena Chung;Tamara Cohen,181,83.73480663,6.800028888,95.0,33.0,,,,,,,,,,,1,0,0,0,3,2,6,23,49,73,24,,,
+UBCV,2021,W,FNH,351,,001,"Vitamins, Minerals, and Health",Aidan Loong;Elizabeth Novak;Jun Yi Tang;Katja Yvonne Lamers;Kerri Scherbinsky,121,77.479338843,10.585445333,96.0,41.0,,,,,,,,,,,1,2,1,8,10,13,13,19,15,23,16,,,
+UBCV,2021,W,FNH,351,,002,"Vitamins, Minerals, and Health",Aidan Loong;Aiman Atif;Elizabeth Novak;Kamila Gabitova;Katja Yvonne Lamers,131,77.557251908,13.440558771,98.0,28.0,,,,,,,,,,,5,2,4,5,8,16,12,12,20,20,27,,,
+UBCV,2022,W,FNH,351,,002,"Vitamins, Minerals, and Health",Katja Yvonne Lamers,91,72.7,,94.0,24.0,,,,,,,,,,,2,4,5,7,12,11,12,8,15,9,6,72.0,81.5,65.0
+UBCV,2022,W,FNH,451,,001,Nutrient Metabolism and Implications for Health,Katja Yvonne Lamers,63,90.9,,98.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,2,2,8,50,94.0,95.0,90.0
+UBCV,2022,W,HUNU,510,,001,Nutrition Assessment Across the Lifespan,Katja Yvonne Lamers,11,89.5,,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,7,90.0,92.5,86.0
+UBCV,2023,W,FNH,351,,002,"Vitamins, Minerals, and Health",Katja Yvonne Lamers,72,80.7,,95.0,51.0,,,,,,,,,,,0,2,3,0,2,4,6,7,14,19,14,82.0,87.0,76.0
+UBCV,2023,W,HUNU,510,,001,Nutrition Assessment Across the Lifespan,Katja Yvonne Lamers,12,89.17,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,3,8,90.5,92.25,86.5

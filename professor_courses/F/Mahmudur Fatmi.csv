@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,ENGR,332,,201,Surveying and GIS Analysis,Charles Rockson;John Alan Brereton;Mahmudur Fatmi;Muntahith Orvin;Saif Maad Al Dabagh,77,74.922077922,9.861896681,97.0,51.0,0,1,3,4,10,11,9,11,16,6,6,,,
+UBCO,2018,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove;Mahmudur Fatmi,15,79.8,13.299838882,91.0,37.0,1,0,0,0,0,1,1,2,5,3,2,,,
+UBCO,2019,W,ENGR,332,,201,Surveying and GIS Analysis,Bijoy Saha;Mahmudur Fatmi;Muntahith Orvin;Sadia Munia,73,83.630136986,7.871373679,98.0,60.0,0,0,0,1,2,1,6,15,9,19,20,,,
+UBCO,2019,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove;Mahmudur Fatmi,14,86.071428571,3.099982276,90.0,80.0,0,0,0,0,0,0,0,0,6,5,3,,,
+UBCO,2019,W,ENGR,436,,201,Transportation Planning,Abdul Masoud;Abdul Rahman Masoud;Bijoy Saha;Mahmudur Fatmi,13,73.384615385,7.399757446,91.0,60.0,0,0,0,1,1,2,3,5,0,0,1,,,
+UBCO,2020,W,ENGR,332,,201,Surveying and GIS Analysis,Bijoy Saha;Mahmudur Fatmi;Muntahith Orvin;Sadia Munia,80,80.2125,9.380418265,97.0,42.0,1,0,1,2,3,3,10,12,24,12,12,,,
+UBCO,2020,W,ENGR,435,,001,Transportation Systems Engineering,Gordon Lovegrove;Mahmudur Fatmi;Muntahith Orvin,10,82.7,7.33409087,91.0,66.0,0,0,0,0,1,0,0,1,2,5,1,,,
+UBCO,2020,W,ENGR,436,,001,Transportation Planning,Bijoy Saha;Mahmudur Fatmi,15,80.266666667,8.379112352,92.0,58.0,0,0,1,0,0,1,1,2,4,5,1,,,
+UBCO,2020,W,ENGR,536,,201,Sustainable Land Use and Transportation,Abdul Masoud;Mahmudur Fatmi,6,85.0,5.93295879,91.0,75.0,0,0,0,0,0,0,1,0,1,2,2,,,
+UBCO,2021,W,ENGR,332,,201,Surveying and GIS Analysis,Bijoy Saha;Mahmudur Fatmi;Muntahith Orvin,77,74.623376623,12.714516115,98.0,46.0,2,2,7,7,7,6,6,9,11,11,9,,,
+UBCO,2021,W,ENGR,436,,001,Transportation Planning,Bijoy Saha;Mahmudur Fatmi,31,85.774193548,5.499755615,96.0,68.0,0,0,0,0,0,1,1,0,9,13,7,,,
+UBCO,2021,W,ENGR,536,,001,Sustainable Land Use and Transportation,Mahmudur Fatmi,6,90.333333333,2.658320272,92.0,85.0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCO,2021,W,ENGR,598,G,001,Topics in Engineering,Mahmudur Fatmi,20,91.45,3.170173497,97.0,84.0,0,0,0,0,0,0,0,0,1,4,15,,,
+UBCO,2021,W,ENGR,332,,201,Surveying and GIS Analysis,Mahmudur Fatmi,77,74.6,,98.0,46.0,,,7,7,7,6,6,9,11,11,9,76.0,85.0,65.0
+UBCO,2021,W,ENGR,436,,001,Transportation Planning,Mahmudur Fatmi,31,85.8,,96.0,68.0,,,,,,,,,9,13,7,85.0,89.0,83.0
+UBCO,2021,W,ENGR,536,,001,Sustainable Land Use and Transportation,Mahmudur Fatmi,6,90.3,,92.0,85.0,,,,,,,,,,,,91.0,91.8,91.0
+UBCO,2021,W,ENGR,598,G,001,Topics in Engineering,Mahmudur Fatmi,20,91.5,,97.0,84.0,,,,,,,,,,,15,91.5,94.0,89.8
+UBCO,2022,W,ENGR,332,,201,Surveying and GIS Analysis,Mahmudur Fatmi,84,71.8,,95.0,0.0,6,5,4,7,10,6,7,6,12,10,11,74.0,84.3,63.0
+UBCO,2022,W,ENGR,436,,001,Transportation Planning,Mahmudur Fatmi,12,87.1,,92.0,77.0,0,0,0,0,0,0,0,1,2,5,4,89.0,90.0,85.3
+UBCO,2022,W,ENGR,536,,001,Sustainable Land Use and Transportation,Mahmudur Fatmi,14,90.0,,94.0,86.0,0,0,0,0,0,0,0,0,0,6,8,90.0,91.0,89.0
+UBCO,2023,W,ENGR,332,,201,Surveying and GIS Analysis,Mahmudur Fatmi,74,74.2,,98.0,42.0,6,1,2,5,8,10,6,9,9,9,9,75.0,84.0,67.0
+UBCO,2023,W,ENGR,436,,001,Transportation Planning,Mahmudur Fatmi,15,80.2,,96.0,47.0,2,0,0,0,0,0,0,2,5,4,2,83.0,88.5,79.5
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,ENGR,536,,001,Sustainable Land Use and Transportation,Mahmudur Fatmi,22,88.7,,97.0,83.0,0,0,0,0,0,0,0,0,4,9,8,88.0,92.0,85.0

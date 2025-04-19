@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,JAPN,100,,003,BEGIN JAPN IA,"Kawada, Noriyuki",27,81.22,11.09,95,56,27,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3,0,5,8,6,,,
+UBC,2018,W,JAPN,100,,006,BEGIN JAPN IA,"Kawada, Noriyuki",28,82.62,13.36,94,42,25,1,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,3,9,9,,,
+UBC,2018,W,JAPN,101,,005,BEGIN JAPN IB,"Kawada, Noriyuki",23,77.36,8.17,89,59,22,0,0,1,0,0,0,0,0,0,0,0,1,0,3,0,6,2,4,6,0,,,
+UBC,2018,W,JAPN,101,,006,BEGIN JAPN IB,"Kawada, Noriyuki",24,82,9.35,93,62,22,0,0,2,0,0,0,0,0,0,0,0,0,1,1,2,2,1,5,4,6,,,
+UBC,2018,W,JAPN,200,,003,BEGIN JAPN II,"Kawada, Noriyuki",14,81.15,7.65,92,70,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,2,2,3,,,
+UBC,2018,W,JAPN,201,,002,BEGIN JAPN II,"Kawada, Noriyuki",28,76.54,9.33,94,58,28,0,0,0,0,0,0,0,0,0,0,0,2,1,3,1,6,3,5,6,1,,,
+UBCV,2018,W,JAPN,100,,003,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,27,81.222222222,11.088224292,95.0,56.0,,,,,,,,,,,0,0,2,0,2,1,3,0,5,8,6,,,
+UBCV,2018,W,JAPN,100,,006,Beginning Japanese IA,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,26,82.615384615,13.359871027,94.0,42.0,,,,,,,,,,,1,1,1,1,0,0,0,1,3,9,9,,,
+UBCV,2018,W,JAPN,101,,005,Beginning Japanese IB,Michiko Suzuki;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,77.363636364,8.173974114,89.0,59.0,,,,,,,,,,,0,0,1,0,3,0,6,2,4,6,0,,,
+UBCV,2018,W,JAPN,101,,006,Beginning Japanese IB,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,82.0,9.35032467,93.0,62.0,,,,,,,,,,,0,0,0,1,1,2,2,1,5,4,6,,,
+UBCV,2018,W,JAPN,200,,003,Beginning Japanese II A,Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,13,81.153846154,7.64685288,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,2,2,3,,,
+UBCV,2018,W,JAPN,201,,002,Beginning Japanese II B,Masahiko Nakata;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,28,76.535714286,9.331278118,94.0,58.0,,,,,,,,,,,0,0,2,1,3,1,6,3,5,6,1,,,
+UBCV,2019,S,JAPN,200,,921,Beginning Japanese II A,Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,20,78.25,10.876701319,93.0,57.0,,,,,,,,,,,0,0,1,3,1,0,0,3,5,4,3,,,
+UBCV,2019,W,JAPN,100,,003,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,76.181818182,12.179750422,91.0,50.0,,,,,,,,,,,0,1,2,1,1,1,2,3,4,5,2,,,
+UBCV,2019,W,JAPN,100,,006,Beginning Japanese IA,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,23,82.260869565,8.640377682,93.0,63.0,,,,,,,,,,,0,0,0,1,1,2,2,0,2,11,4,,,
+UBCV,2019,W,JAPN,101,,005,Beginning Japanese IB,Haruyo Takahashi-Taucar;Ihhwa Kim;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,25,78.32,9.145672929,93.0,56.0,,,,,,,,,,,0,0,1,1,1,1,4,6,5,2,4,,,
+UBCV,2019,W,JAPN,101,,006,Beginning Japanese IB,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,27,79.555555556,14.959775125,91.0,13.0,,,,,,,,,,,1,0,0,1,0,1,2,4,8,7,3,,,
+UBCV,2019,W,JAPN,160,,002,Intensive Beginning Japanese I,Masahiko Nakata;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,11,79.0,10.039920318,92.0,60.0,,,,,,,,,,,0,0,0,1,1,0,2,1,2,3,1,,,
+UBCV,2019,W,JAPN,201,,002,Beginning Japanese II B,Ihhwa Kim;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,24,72.416666667,10.709267286,87.0,50.0,,,,,,,,,,,0,2,0,2,4,3,4,2,2,5,0,,,
+UBCV,2019,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,15,79.4,7.028513356,92.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,2,8,1,1,,,
+UBCV,2020,S,JAPN,100,,922,Beginning Japanese IA,Miaoling Xue;Michiko Suzuki;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,15,79.933333333,12.296728175,97.0,60.0,,,,,,,,,,,0,0,0,2,0,3,1,0,3,1,5,,,
+UBCV,2020,S,JAPN,200,,921,Beginning Japanese II A,Hiromi Uchida;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Saeko Suzuki,24,79.875,12.266293512,93.0,50.0,,,,,,,,,,,0,1,1,1,2,1,1,1,3,8,5,,,
+UBCV,2020,S,JAPN,201,,951,Beginning Japanese II B,Ai Yamamoto;Michiko Suzuki;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,19,81.789473684,11.697953037,94.0,51.0,,,,,,,,,,,0,1,0,0,0,4,0,2,3,1,8,,,
+UBCV,2020,W,JAPN,100,,002,Beginning Japanese IA,Kaori Tanaka;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,74.068965517,19.797061532,95.0,0.0,,,,,,,,,,,2,1,2,0,2,5,3,1,2,2,9,,,
+UBCV,2020,W,JAPN,100,,006,Beginning Japanese IA,Ai Yamamoto;Chaeyeong Yoo;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,36,74.194444444,15.747688165,95.0,13.0,,,,,,,,,,,2,0,0,2,3,6,4,3,8,5,3,,,
+UBCV,2020,W,JAPN,101,,006,Beginning Japanese IB,Chaeyeong Yoo;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Soyeon Lee,25,80.28,10.039588305,94.0,50.0,,,,,,,,,,,0,1,0,1,0,1,3,4,7,4,4,,,
+UBCV,2020,W,JAPN,101,,008,Beginning Japanese IB,Nicholas Hall;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,78.6875,8.837184695,90.0,60.0,,,,,,,,,,,0,0,0,1,2,1,0,1,7,3,1,,,
+UBCV,2020,W,JAPN,160,,002,Intensive Beginning Japanese I,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,25,78.48,10.384764481,93.0,50.0,,,,,,,,,,,0,1,1,0,1,2,3,1,8,6,2,,,
+UBCV,2020,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,75.517241379,8.757122365,90.0,60.0,,,,,,,,,,,0,0,0,4,1,5,5,5,3,4,2,,,
+UBCV,2021,S,JAPN,100,,922,Beginning Japanese IA,Nicholas Hall;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Rei Sakuma,27,76.740740741,10.267920891,92.0,51.0,,,,,,,,,,,0,1,1,1,2,1,3,5,9,2,2,,,
+UBCV,2021,S,JAPN,100,,952,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,74.5,22.354716132,93.0,0.0,,,,,,,,,,,1,0,0,2,1,1,1,0,3,5,2,,,
+UBCV,2021,S,JAPN,101,,951,Beginning Japanese IB,Jacob Teichrib;Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,17,75.176470588,21.148981341,92.0,0.0,,,,,,,,,,,1,0,0,1,0,2,1,4,3,2,3,,,
+UBCV,2021,W,JAPN,100,,002,Beginning Japanese IA,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,79.034482759,7.452146185,94.0,67.0,,,,,,,,,,,0,0,0,0,1,4,6,3,8,4,3,,,
+UBCV,2021,W,JAPN,101,,008,Beginning Japanese IB,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,18,77.833333333,11.413356469,94.0,57.0,,,,,,,,,,,0,0,2,0,1,2,3,0,6,0,4,,,
+UBCV,2021,W,JAPN,160,,002,Intensive Beginning Japanese I,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,78.1875,9.860485113,94.0,60.0,,,,,,,,,,,0,0,0,2,1,1,1,2,4,4,1,,,
+UBCV,2021,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,21,75.285714286,7.817562645,93.0,63.0,,,,,,,,,,,0,0,0,1,3,3,3,4,5,1,1,,,
+UBCV,2021,S,JAPN,100,,952,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,16,74.5,,93.0,0.0,,,,,,,,,,,,,,,,,,,,,,83.0,86.3,68.3
+UBCV,2021,S,JAPN,101,,951,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,17,75.2,,92.0,0.0,,,,,,,,,,,,,,,,,,,,,,79.0,86.0,75.0
+UBCV,2021,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,29,79.0,,94.0,67.0,,,,,,,,,,,,,,,,,6,,8,,,80.0,84.0,72.0
+UBCV,2021,W,JAPN,101,,008,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,18,77.8,,94.0,57.0,,,,,,,,,,,,,,,,,,,6,,,80.5,84.0,69.0
+UBCV,2021,W,JAPN,160,,002,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,16,78.2,,94.0,60.0,,,,,,,,,,,,,,,,,,,,,,80.0,85.3,73.8
+UBCV,2021,W,JAPN,260,,002,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,22,74.6,,93.0,61.0,,,,,,,,,,,,,,,,,,,,,,75.5,80.0,68.0
+UBCV,2022,S,JAPN,100,,921,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,20,80.8,,91.0,63.0,,,,,,,,,,,0,0,0,1,0,3,1,3,3,7,2,83.0,87.3,75.8
+UBCV,2022,S,JAPN,101,,922,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,25,74.2,,90.0,21.0,,,,,,,,,,,1,0,3,1,3,1,1,4,4,5,2,79.0,85.0,66.0
+UBCV,2022,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,27,72.0,,89.0,39.0,,,,,,,,,,,1,0,3,2,4,1,4,3,8,1,0,75.0,80.0,65.5
+UBCV,2022,W,JAPN,101,,008,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,24,77.0,,90.0,58.0,,,,,,,,,,,0,0,1,1,2,2,6,0,7,4,1,77.5,84.0,71.8
+UBCV,2022,W,JAPN,160,,002,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,17,77.8,,89.0,67.0,,,,,,,,,,,0,0,0,0,1,3,3,2,5,3,0,77.0,83.0,72.0
+UBCV,2022,W,JAPN,260,,002,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,25,73.7,,91.0,45.0,,,,,,,,,,,1,1,1,2,1,2,4,5,3,4,1,77.0,81.0,68.0
+UBCV,2023,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,21,76.2,,93.0,50.0,,,,,,,,,,,0,1,2,0,2,2,2,4,1,3,4,76.0,87.0,69.0
+UBCV,2023,W,JAPN,101,,027,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,28,74.3,,91.0,57.0,,,,,,,,,,,0,0,1,4,2,3,2,5,4,2,2,76.0,80.0,65.0
+UBCV,2023,W,JAPN,160,,011,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,12,76.7,,88.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,2,0,78.0,84.0,73.5
+UBCV,2023,W,JAPN,260,,021,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,15,74.4,,90.0,50.0,,,,,,,,,,,0,1,0,0,3,0,3,3,1,2,1,75.5,79.3,67.5

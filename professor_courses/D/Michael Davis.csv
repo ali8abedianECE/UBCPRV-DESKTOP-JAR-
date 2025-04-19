@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,DSCI,100,,007,Introduction to Data Science,Fares Burwag;Jingxin Lei;Michael Davis;Nour (Noureldein Ahmed Sa Hanafi;Ruixin Yang;Simon (Yongyuan) Liang,163,81.251533742,11.25372013,99.0,17.0,4,1,0,3,4,7,17,26,26,39,36,,,
+UBCV,2021,W,STAT,302,,202,Introduction to Probability,Daniel Hadley;Haodi Liang;Indu Kant Deo;Jana Osea;Jiaping Liu;Jiayang Yin;Jonathan Agyeman;Matias Salibian-Barrera;Michael Davis;Weijia Yin;Xiaomeng Ju,132,74.75,17.609147085,100.0,12.0,16,2,1,8,13,7,7,12,27,15,24,,,
+UBCV,2021,W,DSCI,100,,007,Introduction to Data Science,Michael Davis;Rodolfo Lourenzutti,163,81.6,,99.0,17.0,,,,,,7,16,27,27,39,37,84.0,89.0,77.0
+UBCV,2021,W,STAT,302,,202,Introduction to Probability,Jiahua Chen;Michael Davis,130,76.1,,100.0,12.0,10,,,8,14,8,7,12,28,15,24,80.0,86.0,67.0

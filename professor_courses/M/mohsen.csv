@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,EECE,481,,201,Dig Int Circ Des,"NAHVI, MOHSEN",22,71.85,16.96,95,34,18,2,2,0,0,0,0,0,1,1,2,3,0,0,1,2,2,3,1,2,4
+UBC,2013,W,SPPH,581,Q,002,SELECTED TOPICS,"Bryan, Stirling;Sadatsafavi, Mohsen",6,91.83,2.86,95,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2014,W,SPPH,581,Q,002,SELECTED TOPICS,"Bryan, Stirling;Sadatsafavi, Mohsen",9,88.57,6.21,98,80,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4
+UBC,2015,W,SPPH,581,Q,002,SELECTED TOPICS,"Bryan, Stirling;Sadatsafavi, Mohsen",5,83.75,4.27,90,81,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1
+UBC,2016,W,PHAR,506,,001,CRIT APPRAIS LIT,"De Vera, Mary;Harrison, Mark;Lynd, Larry;Sadatsafavi, Mohsen",6,84.17,5.91,93,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1
+UBC,2016,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",204,77.69,4.38,88,65,203,0,0,0,1,0,0,0,0,0,0,0,0,0,4,18,37,72,63,9,0
+UBC,2017,W,CPSC,532,R,201,TOPIC ARTF INTEL,"Ravanbakhsh, Mohsen",18,90.33,4.67,96,81,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,13
+UBC,2017,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",220,79.96,4.14,89,66,220,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,18,67,104,22,0
+UBC,2018,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",207,82.97,3.79,91,69,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,26,105,62,8

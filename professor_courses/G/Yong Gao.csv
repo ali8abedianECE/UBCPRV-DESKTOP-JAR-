@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,COSC,221,,001,Introduction to Discrete Structures,Matthew Bojey;Yong Gao,71,69.71830986,14.77950618,96.0,12.0,6,,7,6,8,8,7,6,10,7,,,,
+UBCO,2014,W,COSC,320,,001,Analysis of Algorithms,Yong Gao,28,71.85714286,16.88899332,97.0,43.0,5,,,,,,,,5,5,,,,
+UBCO,2014,W,COSC,322,,001,Introduction to Artificial Intelligence,Yong Gao,39,73.74358974,14.06136541,96.0,36.0,,,,,,,5,5,,6,5,,,
+UBCO,2015,W,COSC,221,,001,Introduction to Discrete Structures,Dewan Wahid;Yong Gao,76,70.907894737,15.149193714,95.0,28.0,7,5,,,6,10,7,12,11,5,7,,,
+UBCO,2015,W,COSC,320,,001,Analysis of Algorithms,Yong Gao,43,69.906976744,12.182762908,99.0,45.0,,,6,6,5,6,5,,,5,,,,
+UBCO,2015,W,COSC,419,A,001,Topics in Computer Science,Yong Gao,20,82.55,8.982292522,97.0,64.0,0,0,0,0,,,,,,,,,,
+UBCO,2016,W,COSC,221,,001,Introduction to Discrete Structures,Levi Miller;Norbert Eke;Yong Gao,86,72.46511628,15.85648702,99.0,0.0,2,2,9,9,9,14,7,4,9,7,14,,,
+UBCO,2016,W,COSC,320,,001,Analysis of Algorithms,Dewan Wahid;Yong Gao,50,65.76,16.28892199,92.0,0.0,5,5,7,5,4,5,6,2,6,2,3,,,
+UBCO,2016,W,COSC,322,,001,Introduction to Artificial Intelligence,Congsong Zhang;Yong Gao,41,76.17073171,9.002506426,97.0,58.0,0,0,1,1,4,11,5,2,9,5,3,,,
+UBCO,2017,W,COSC,221,,001,Introduction to Discrete Structures,Kyla Reid;Norbert Eke;Yong Gao,106,71.198113208,17.679915865,96.0,0.0,9,7,3,8,10,13,9,9,7,18,13,,,
+UBCO,2017,W,COSC,320,,001,Analysis of Algorithms,Congsong Zhang;Yong Gao,53,73.150943396,11.41422228,97.0,51.0,0,2,5,5,5,7,9,5,3,6,6,,,
+UBCO,2017,W,COSC,421,,101,Network Science,Gunjan Soni;Yong Gao,15,76.066666667,18.824249811,98.0,34.0,2,1,0,1,0,0,1,0,4,3,3,,,
+UBCO,2017,W,DATA,421,,101,Network Science,Gunjan Soni;Yong Gao,9,87.0,2.872281323,92.0,83.0,0,0,0,0,0,0,0,0,1,6,2,,,
+UBCO,2017,W,DATA,521,,001,Network Science,Gunjan Soni;Yong Gao,6,89.166666667,2.639444386,93.0,85.0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCO,2018,W,COSC,221,,101,Introduction to Discrete Structures,Chaoping Guo;Karla Lugo Baez;Yong Gao,119,74.369747899,11.710393432,98.0,31.0,2,3,3,17,5,18,10,18,23,9,11,,,
+UBCO,2018,W,COSC,320,,001,Analysis of Algorithms,Deepak Kumar;Jeff Bulmer;Shima Amirsadri;Yong Gao,66,68.409090909,13.094893042,94.0,36.0,3,7,5,10,10,6,8,3,4,4,6,,,
+UBCO,2018,W,COSC,322,,101,Introduction to Artificial Intelligence,Gunjan Soni;Jeff Bulmer;Yong Gao,56,72.232142857,19.110198202,94.0,0.0,3,2,5,4,5,4,3,4,9,11,6,,,
+UBCO,2018,W,COSC,520,,001,Advanced Algorithms,Yong Gao,7,89.0,5.0,94.0,81.0,0,0,0,0,0,0,0,0,2,0,5,,,
+UBCO,2018,W,COSC,522,,101,Advanced Topics in Artificial Intelligence,Yong Gao,8,77.625,31.753233806,94.0,0.0,1,0,0,0,0,0,0,0,2,1,4,,,
+UBCO,2019,W,COSC,520,,001,Advanced Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Roozbeh Eslami;Yong Gao,11,98.909090909,2.30019762,100.0,93.0,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCO,2020,W,COSC,221,,001,Introduction to Discrete Structures,Congsong Zhang;Islam Osman;Roozbeh Eslami;Tenzin Jinpa;Yong Gao,101,77.356435644,11.100075818,98.0,38.0,1,2,3,3,8,13,7,18,19,13,14,,,
+UBCO,2020,W,COSC,322,,101,Introduction to Artificial Intelligence,Billy Spelchan;Congsong Zhang;Karanmeet Khatra;Roozbeh Eslami;Yong Gao,84,77.630952381,9.911390261,93.0,52.0,0,2,3,4,6,7,9,11,18,17,7,,,
+UBCO,2021,W,COSC,221,,001,Introduction to Discrete Structures,Jinghong Chen;Tenzin Jinpa;Xinjie Qian;Yong Gao,100,72.89,14.718843142,96.0,0.0,7,3,3,6,11,6,11,16,17,14,6,,,
+UBCO,2021,W,COSC,221,,101,Introduction to Discrete Structures,Congsong Zhang;Jinghong Chen;Xinjie Qian;Yiming Ding;Yong Gao,102,72.81372549,15.166227719,97.0,23.0,8,4,3,5,8,12,15,8,16,13,10,,,
+UBCO,2021,W,COSC,322,,101,Introduction to Artificial Intelligence,Congsong Zhang;Jinghong Chen;Xiaoou Liu;Yiming Ding;Yong Gao,53,73.79245283,10.523523998,92.0,46.0,1,1,3,5,4,5,10,6,11,3,4,,,
+UBCO,2021,W,COSC,221,,001,Introduction to Discrete Structures,Yong Gao,100,72.9,,96.0,0.0,7,,,6,11,6,11,16,17,14,6,76.5,83.0,65.8
+UBCO,2021,W,COSC,221,,101,Introduction to Discrete Structures,Yong Gao,102,72.8,,97.0,23.0,8,,,,8,12,15,8,16,13,10,75.0,83.8,67.0
+UBCO,2021,W,COSC,322,,101,Introduction to Artificial Intelligence,Yong Gao,53,73.8,,92.0,46.0,,,,,,,10,6,11,,,75.0,80.0,66.0
+UBCO,2022,W,COSC,221,,001,Introduction to Discrete Structures,Yong Gao,131,76.1,,96.0,20.0,8,4,1,8,4,11,15,16,19,27,18,79.0,86.0,71.0
+UBCO,2022,W,COSC,221,,101,Introduction to Discrete Structures,Yong Gao,111,70.1,,96.0,0.0,8,4,15,7,9,10,11,7,18,12,10,73.0,82.5,60.0
+UBCO,2022,W,COSC,322,,101,Introduction to Artificial Intelligence,Yong Gao,80,74.8,,95.0,37.0,2,0,5,6,8,10,9,9,15,5,11,75.5,83.3,67.0
+UBCO,2023,W,COSC,221,,001,Introduction to Discrete Structures,Yong Gao,67,77.2,,95.0,32.0,3,1,1,2,5,3,10,12,8,8,12,78.0,87.0,72.0
+UBCO,2023,W,COSC,221,,101,Introduction to Discrete Structures,Yong Gao,121,75.6,,97.0,26.0,7,6,5,2,4,9,9,19,21,19,15,79.0,86.0,70.0
+UBCO,2023,W,COSC,322,,101,Introduction to Artificial Intelligence,Yong Gao,99,76.9,,93.0,45.0,1,0,4,3,11,11,7,13,22,19,6,79.0,85.0,69.0

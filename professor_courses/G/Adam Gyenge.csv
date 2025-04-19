@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,102,,107,DF CALC APP LF S,"Gyenge, Adam",78,65.16,13.33,97,33,66,8,3,0,1,0,0,0,2,6,8,10,9,6,5,7,12,6,7,3,1
+UBC,2016,W,MATH,105,,202,INT CALC AP C&SS,"Gyenge, Adam",75,66.81,18.6,91,0,65,10,0,0,0,2,0,2,2,4,10,7,4,5,6,10,6,6,11,3,7
+UBC,2017,W,MATH,104,,107,DFF CALC AP C&SS,"Gyenge, Adam",66,64.34,20.58,97,16,48,13,2,0,3,0,1,4,3,5,13,5,4,0,5,8,8,1,8,3,6
+UBC,2017,W,MATH,105,,209,INT CALC AP C&SS,"Gyenge, Adam",74,69.33,13.23,92,39,69,3,1,0,1,0,0,0,1,2,3,6,8,7,9,7,6,5,12,5,4
+UBCV,2016,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Adam Gyenge;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,75,64.76,13.69043857,97.0,33.0,,,,,,,,,,,9,10,9,6,5,7,12,6,7,3,1
+UBCV,2016,W,MATH,105,,202,Integral Calculus with Applications to Commerce and Social Sciences,Adam Gyenge;Keqin Liu,75,66.81333333,18.59721959,91.0,0.0,,,,,,,,,,,10,7,4,5,6,10,6,6,11,3,7
+UBCV,2017,W,MATH,104,,107,Differential Calculus with Applications to Commerce and Social Sciences,Adam Gyenge;Mark Thomson Maclean;You Hung Hsu,64,62.109375,22.504403229,97.0,16.0,,,,,,,,,,,16,5,4,0,5,8,8,1,8,3,6
+UBCV,2017,W,MATH,105,,209,Integral Calculus with Applications to Commerce and Social Sciences,Adam Gyenge;Keqin Liu,73,68.643835616,14.393642369,92.0,19.0,,,,,,,,,,,4,6,8,7,9,7,6,5,12,5,4
+UBCV,2018,W,MATH,253,,103,Multivariable Calculus,Adam Gyenge;Betty Cai;Federico Scavia;Timothy Hillmer;Yitong Sun,133,76.887218045,11.152968171,99.0,35.0,,,,,,,,,,,3,0,5,5,14,12,17,16,28,18,15

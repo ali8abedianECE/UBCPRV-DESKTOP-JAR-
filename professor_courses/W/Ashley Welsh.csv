@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,SCIE,113,,V03,SCIE SEMINAR,"Welsh, Ashley",26,69.35,13.37,84,15,25,1,0,0,0,0,1,0,0,0,1,0,1,4,4,1,7,3,5,0,0
+UBC,2015,W,SCIE,113,,V07,SCIE SEMINAR,"Fox, Joanne Alison;Welsh, Ashley",16,71.63,9.49,86,59,16,0,0,0,0,0,0,0,0,0,0,0,1,3,4,0,1,2,4,1,0
+UBC,2016,W,SCIE,113,,114,SCIE SEMINAR,"Welsh, Ashley",27,77.85,11.17,94,37,26,1,0,0,0,0,0,0,1,0,1,0,1,0,2,0,5,4,8,4,2
+UBC,2016,W,SCIE,113,,V04,SCIE SEMINAR,"Welsh, Ashley",23,70.22,16.59,84,0,22,1,0,0,0,1,0,0,0,0,1,0,0,1,4,2,6,3,6,0,0
+UBCV,2015,W,SCIE,113,,V01,First-Year Seminar in Science,Ashley Welsh;Kayli Johnson,15,74.733333333,7.950441737,86.0,57.0,,,,,,,,,,,0,0,,,,,,,,,0
+UBCV,2015,W,SCIE,113,,V03,First-Year Seminar in Science,Ashley Welsh,26,69.346153846,13.368447352,84.0,15.0,,,,,,,,,,,,,,,,,7,,5,0,0
+UBCV,2015,W,SCIE,113,,V04,First-Year Seminar in Science,Ashley Welsh;Meghan Allen,25,71.76,14.538110836,91.0,17.0,,,,,,,,,,,,,,,,,6,,7,,
+UBCV,2015,W,SCIE,113,,V07,First-Year Seminar in Science,Ashley Welsh;Joanne Alison Fox,16,71.625,9.492979862,86.0,59.0,,,,,,,,,,,0,0,,,,,,,,,0
+UBCV,2016,W,SCIE,113,,114,First-Year Seminar in Science,Ashley Welsh,27,77.85185185,11.16899453,94.0,37.0,,,,,,,,,,,1,0,1,0,2,0,5,4,8,4,2
+UBCV,2016,W,SCIE,113,,V04,First-Year Seminar in Science,Ashley Welsh,23,70.2173913,16.58574558,84.0,0.0,,,,,,,,,,,1,0,0,1,4,2,6,3,6,0,0

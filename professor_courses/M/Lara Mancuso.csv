@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ARST,560,,002,RCRDS&INFO GOVRN,"Mancuso, Lara",4,83.75,6.24,90,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+UBC,2015,W,ARST,575,J,002,TPCS MGMT RECRDS,"Mancuso, Lara",11,82,6.6,93,74,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,1,2
+UBC,2015,W,LIBR,514,K,002,TPCS BBL CTL INF,"Mancuso, Lara",4,88.75,0.96,90,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2017,W,ARST,540,,002,ARCH PUBLIC SERV,"Mancuso, Lara",20,81.68,6.46,92,71,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,2,6,3
+UBCV,2015,W,ARST,575,J,002,Topics in the Management of Records,Lara Mancuso,10,82.0,6.599663291,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2017,W,ARST,540,,002,Archival Public Services,Lara Mancuso,19,81.684210526,6.464025505,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,3,2,6,3

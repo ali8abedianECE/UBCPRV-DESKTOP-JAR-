@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,LIBR,579,G,001,MGMT LIB & ARCHV,"Clupp, Erin",19,90.42,2.65,94,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,11
+UBC,2018,W,LIBR,516,,001,INFO ASSET MGMT,"Clupp, Erin",20,83.53,3.6,89,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,8,0
+UBCV,2017,W,LIBR,579,G,001,Topics in the Management of Libraries and Archives,Erin Clupp,19,90.421052632,2.652373978,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,11
+UBCV,2018,W,LIBR,516,,001,Information Asset Management,Erin Clupp,19,83.526315789,3.595806524,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,8,0
+UBCV,2020,W,LIBR,526,,002,Literature and Other Materials for Young Adults,Eric Meyers;Erin Clupp,23,86.347826087,7.480937567,94.0,56.0,,,,,,,,,,,0,0,,,,,,,4,11,7

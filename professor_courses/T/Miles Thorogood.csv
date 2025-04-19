@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Miles Thorogood,99,73.303030303,16.897321697,100.0,28.0,10,,,11,11,9,7,3,9,7,26,,,
+UBCO,2015,W,COSC,122,,101,Computer Fluency,Levi Miller;Miles Thorogood,44,73.386363636,17.261620163,100.0,32.0,4,,,2,1,6,1,7,5,4,9,,,
+UBCO,2015,W,COSC,150,,001,Digital Logic and Microcomputer Hardware,Miles Thorogood,12,71.5,11.866683691,96.0,52.0,0,,,,,,,,,,,,,
+UBCO,2015,W,VISA,264,,001,Computer and Imaging Development I,Miles Thorogood,15,81.733333333,10.878988048,98.0,54.0,0,,,,,,,,,,5,,,
+UBCO,2015,W,VISA,265,,001,Computer and Image Development II,Miles Thorogood,12,79.666666667,7.6673254,91.0,67.0,0,0,0,0,,,,5,,,,,,
+UBCO,2016,S,COSC,122,,001,Computer Fluency,Miles Thorogood;Tasnuva Haque,15,80.8,14.79478673,99.0,57.0,0,0,1,2,0,1,3,0,1,1,6,,,
+UBCO,2016,W,COSC,114,,001,Vector Graphics and Animations,David Rowswell;Jeff Bulmer;Miles Thorogood,48,65.375,24.70388461,98.0,0.0,10,2,2,5,0,5,2,4,11,3,4,,,
+UBCO,2016,W,COSC,150,,001,Physical Computing,Levi Miller;Miles Thorogood;Norbert Eke,26,74.92307692,15.7173104,93.0,33.0,2,1,1,1,1,4,1,3,3,4,5,,,
+UBCO,2016,W,MDST,101,,001,Digital Media Theory,Miles Thorogood,18,74.83333333,13.6651123,94.0,52.0,0,1,2,1,2,2,1,1,2,3,3,,,
+UBCO,2016,W,VISA,106,,002,Introduction to Digital Media I,Miles Thorogood,29,70.62068966,20.85393727,93.0,0.0,4,1,1,0,3,1,3,5,4,4,3,,,
+UBCO,2016,W,VISA,108,,001,Introduction to Digital Media II,Miles Thorogood,30,69.63333333,24.2636145,94.0,0.0,3,1,2,1,3,3,2,3,4,0,8,,,
+UBCO,2016,W,VISA,382,G,001,Advanced Practice in Media Arts,Miles Thorogood,10,84.8,8.310635756,96.0,71.0,0,0,0,0,0,1,1,0,2,4,2,,,
+UBCO,2017,W,COSC,114,,001,Vector Graphics and Animations,Cameron Chong;Dustin Bramhill;Miles Thorogood,59,71.084745763,22.123702483,100.0,4.0,8,2,3,3,7,3,2,4,6,9,12,,,
+UBCO,2017,W,COSC,150,,001,Physical Computing,Miles Thorogood;Shambhavi Singh,37,74.27027027,18.645298258,94.0,16.0,4,0,2,0,1,3,1,4,11,8,3,,,
+UBCO,2017,W,MDST,101,,001,Digital Media Theory,Marina Nichols;Miles Thorogood,26,73.423076923,20.609071938,98.0,22.0,4,2,1,1,0,0,1,1,7,3,6,,,
+UBCO,2017,W,VISA,106,,002,Introduction to Digital Media I,Joanne Gervais;Joanne Nicole Gervais;Miles Thorogood,26,78.653846154,14.01696774,95.0,37.0,2,0,1,0,1,1,1,3,3,12,2,,,
+UBCO,2017,W,VISA,108,,001,Introduction to Digital Media II,Miles Thorogood;Myron Campbell;Steven Davies,42,80.047619048,11.067315935,95.0,50.0,0,3,0,1,0,5,3,3,10,10,7,,,
+UBCO,2017,W,VISA,108,,002,Introduction to Digital Media II,Jacen Dennis;Jessica Ann Dennis;Jessica Dennis;Miles Thorogood,21,71.857142857,21.064865806,97.0,27.0,4,0,0,1,1,1,3,2,2,3,4,,,
+UBCO,2017,W,VISA,206,,001,Sound Art,Miles Thorogood,7,74.142857143,22.05620526,95.0,40.0,1,1,0,0,0,1,0,0,1,0,3,,,
+UBCO,2018,W,COSC,150,,001,Physical Computing,Jeff Bulmer;Miles Thorogood,42,82.523809524,11.538351946,97.0,46.0,1,2,0,0,2,0,0,4,10,14,9,,,
+UBCO,2018,W,MDST,101,,001,Digital Media Theory,James Koss;Miles Thorogood,23,82.0,10.427237061,96.0,66.0,0,0,0,0,3,2,2,4,1,3,8,,,
+UBCO,2018,W,VISA,206,,001,Sound Art,Miles Thorogood,17,87.294117647,9.47209524,99.0,65.0,0,0,0,0,2,0,0,0,2,6,7,,,
+UBCO,2019,W,COSC,114,,101,Vector Graphics and Animations,Amir Hossein Zeinali Kalkhoran;Biswapriyo Chakrabarty;Miles Thorogood;Tatiana Urazova;Thomas Van De Crommenacker;Vladimir Grebenyuk,35,75.6,14.542432841,93.0,45.0,4,0,0,4,0,2,4,4,4,9,4,,,
+UBCO,2019,W,COSC,150,,001,Physical Computing,Mahshid Alinoori;Miles Thorogood;Morgan Rauscher,47,88.680851064,8.503468303,97.0,58.0,0,0,1,2,0,0,1,0,4,10,29,,,
+UBCO,2019,W,IGS,501,C,101,Interdisciplinary Topics in Research Methods and Analysis,Miles Thorogood,6,90.833333333,2.857738033,95.0,87.0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCO,2019,W,MDST,320,,001,Creative Coding,Miles Thorogood,12,79.75,2.701009912,84.0,74.0,0,0,0,0,0,0,1,3,8,0,0,,,
+UBCO,2019,W,MDST,330,,101,Immersive Installation,Aleksandra Dulic;Miles Thorogood,13,84.076923077,5.453768398,90.0,76.0,0,0,0,0,0,0,0,3,1,5,4,,,
+UBCO,2019,W,VISA,206,,001,Sound Art,Miles Thorogood,17,82.411764706,10.440658645,92.0,45.0,1,0,0,0,0,0,1,1,5,8,1,,,
+UBCO,2019,W,VISA,269,,001,Strategies in Digital Art: Virtual Worlds,Miles Thorogood;Morgan Rauscher,15,89.0,8.493695141,98.0,71.0,0,0,0,0,0,1,0,1,3,1,9,,,
+UBCO,2020,W,MDST,120,,001,Introduction to Computational Art and Design II,Miles Thorogood;Yujie Gao,25,89.4,13.447428503,98.0,29.0,1,0,0,0,0,0,0,1,0,6,17,,,
+UBCO,2020,W,MDST,499,,001,Capstone Media Project,Megan Smith;Miles Thorogood;Yujie Gao,8,93.0,2.138089935,95.0,91.0,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCO,2020,W,VISA,206,,001,Sound Art,Miles Thorogood,9,86.0,6.204836823,95.0,78.0,0,0,0,0,0,0,0,2,3,1,3,,,
+UBCO,2021,W,MDST,120,,001,Introduction to Computational Art and Design II,Miles Thorogood;Yujie Gao,28,81.428571429,21.243610929,96.0,0.0,2,0,0,0,0,1,2,1,2,9,11,,,
+UBCO,2021,W,MDST,210,,001,Creative Coding,Miles Thorogood;Yujie Gao,24,84.791666667,6.303754345,95.0,69.0,0,0,0,0,0,2,0,1,8,7,6,,,
+UBCO,2021,W,MDST,220,,001,Computational Creativity,Miles Thorogood;Yujie Gao,19,82.894736842,8.887536447,92.0,60.0,0,0,0,1,0,1,1,4,1,7,4,,,
+UBCO,2021,W,MDST,499,,001,Capstone Media Project,Aleksandra Dulic;Megan Smith;Miles Thorogood;Yujie Gao,9,81.555555556,13.436062585,96.0,58.0,0,0,1,0,0,1,2,0,0,0,5,,,
+UBCO,2021,W,MDST,120,,001,Introduction to Computational Art and Design II,Miles Thorogood,27,84.4,,96.0,20.0,,,,,,,,,,9,11,89.0,91.0,84.5
+UBCO,2021,W,MDST,210,,001,Creative Coding,Miles Thorogood,24,84.8,,95.0,69.0,,,,,,,,,8,7,6,85.0,89.3,82.0
+UBCO,2021,W,MDST,220,,001,Computational Creativity,Miles Thorogood,19,84.2,,92.0,60.0,,,,,,,,,,7,,88.0,90.0,80.5
+UBCO,2022,W,MDST,120,,001,Introduction to Computational Art and Design II,Miles Thorogood,22,88.0,,98.0,34.0,1,0,0,0,1,1,0,1,0,2,16,92.5,96.0,89.5
+UBCO,2022,W,MDST,220,,001,Computational Creativity,Miles Thorogood,25,89.3,,98.0,79.0,0,0,0,0,0,0,0,1,2,10,12,89.0,91.0,88.0
+UBCO,2023,W,MDST,120,,001,Introduction to Computational Art and Design II,Miles Thorogood,28,86.38,,98.0,68.0,0,0,0,0,0,2,1,3,5,1,14,90.5,92.75,81.25
+UBCO,2023,W,MDST,220,,001,Computational Creativity,Miles Thorogood,15,76.13,,97.0,0.0,1,0,2,0,0,1,1,2,1,1,6,84.0,91.0,71.5

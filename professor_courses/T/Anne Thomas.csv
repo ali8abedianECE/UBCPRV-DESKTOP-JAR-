@@ -1,0 +1,90 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CHEM,121,,L07,STRCTR BOND CHEM,"Thomas, Anne",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,CHEM,121,,L09,STRCTR BOND CHEM,"Thomas, Anne",8,,,,,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2020,W,CHEM,115,,Y02,Introductory Chemical Laboratory I,Anne Thomas;Desiree Fiaccabrino;Elesha Hoffarth;Geyang Zhou;Giuseppe Crescenzo;Jerome Lozada;Jianxiong Yang;Ruijie Yang;Sophia Nussbaum;Tristan Maschmeyer,229,81.410480349,7.906641348,95.0,45.0,,,,,,,,,,,2,0,1,1,6,16,16,36,62,56,33,,,
+UBCV,2020,W,CHEM,115,,Y03,Introductory Chemical Laboratory I,Anne Thomas;Elesha Hoffarth;Giuseppe Crescenzo;Jerome Lozada;Madushika Jayakody;Sophia Nussbaum;Tobias Overney-Ragan;Yiran Wei,235,83.25106383,7.40875759,98.0,56.0,,,,,,,,,,,0,0,2,4,3,7,19,28,60,64,48,,,
+UBCV,2020,W,CHEM,115,,Y05,Introductory Chemical Laboratory I,Anne Thomas;Christopher Walters;Giuseppe Crescenzo;Jessica Fong;Lian Pharoah;Ryoga Hojo;Sophia Nussbaum;Yiran Wei,266,85.203007519,7.187787755,98.0,57.0,,,,,,,,,,,0,0,2,0,1,10,16,22,54,75,86,,,
+UBCV,2020,W,CHEM,115,,Y06,Introductory Chemical Laboratory I,Anne Thomas;Aoxue Huang;Christopher Walters;Desiree Fiaccabrino;Geyang Zhou;Jianxiong Yang;Keng-Shuo Pi;Sophia Nussbaum,222,80.675675676,8.794961703,95.0,45.0,,,,,,,,,,,3,0,3,2,8,15,21,32,58,49,31,,,
+UBCV,2020,W,CHEM,115,,Y07,Introductory Chemical Laboratory I,Anne Thomas;Aoxue Huang;Christopher Walters;Desiree Fiaccabrino;Keng-Shuo Pi;Madushika Jayakody;Sophia Nussbaum;Zhujun Xiao,218,83.417431193,7.746863127,97.0,45.0,,,,,,,,,,,1,0,1,0,5,10,11,31,50,59,50,,,
+UBCV,2020,W,CHEM,115,,Y1E,Introductory Chemical Laboratory I,Anne Thomas;Desiree Fiaccabrino;Elesha Hoffarth;Haoquan Lin;Keng-Shuo Pi;Lian Pharoah;Rupsa Gupta;Sophia Nussbaum;Zhujun Xiao,303,80.402640264,9.027712648,95.0,45.0,,,,,,,,,,,1,3,6,2,16,16,39,45,56,72,47,,,
+UBCV,2020,W,CHEM,115,,Y5E,Introductory Chemical Laboratory I,Anne Thomas;Haoquan Lin;Jerome Lozada;Jessica Fong;Lian Pharoah;Sophia Nussbaum,178,81.741573034,9.069135701,96.0,45.0,,,,,,,,,,,1,2,3,1,5,9,20,18,43,35,41,,,
+UBCV,2020,W,CHEM,135,,L02,Introductory Chemical Laboratory II,Anne Thomas;Elesha Hoffarth;Giuseppe Crescenzo;Jade Poisson;Jan Gustowski;Natalie Lesage;Shipei Xing;Sophia Nussbaum;Tristan Maschmeyer,9,80.0,11.640446727,93.0,59.0,,,,,,,,,,,0,0,1,0,0,1,1,1,1,1,3,,,
+UBCV,2020,W,CHEM,135,,L03,Introductory Chemical Laboratory II,Anne Thomas;Sophia Nussbaum,17,82.352941176,8.138958598,91.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,0,5,5,3,,,
+UBCV,2020,W,CHEM,135,,L06,Introductory Chemical Laboratory II,Anne Thomas;Sophia Nussbaum,11,83.181818182,6.954396909,92.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,1,3,5,1,,,
+UBCV,2020,W,CHEM,135,,L07,Introductory Chemical Laboratory II,Anne Thomas;Sophia Nussbaum,18,76.222222222,7.604608166,95.0,63.0,,,,,,,,,,,0,0,0,1,0,4,4,3,5,0,1,,,
+UBCV,2021,S,CHEM,115,,L07,Introductory Chemical Laboratory I,Anne Thomas;Aria Sadeghian;Athena Wang;Desiree Fiaccabrino;Elesha Hoffarth;Keng-Shuo Pi;Kenny Lin;Lian Pharoah;Linshan Zeng;Ruijie Yang;Rupsa Gupta;Sebastian Gutierrez De Velasco;Sophia Nussbaum;Valerie Pringle;Xin Yi Yu,72,87.930555556,7.784647927,98.0,60.0,,,,,,,,,,,0,0,0,1,1,1,3,1,12,14,39,,,
+UBCV,2021,S,CHEM,115,,L3E,Introductory Chemical Laboratory I,Anne Thomas;Desiree Fiaccabrino;Elesha Hoffarth;Keng-Shuo Pi;Lian Pharoah;Ruijie Yang;Rupsa Gupta;Sebastian Gutierrez De Velasco;Sophia Nussbaum;Valerie Pringle,61,84.327868852,8.665489622,98.0,57.0,,,,,,,,,,,0,0,1,0,2,3,3,6,12,13,21,,,
+UBCV,2021,S,CHEM,135,,L1A,Introductory Chemical Laboratory II,Abigail Anada;Adrian Grzedowski;Alexandra Barber-Cross;Anne Thomas;Carissa Wang;Chenjingyi Wang;David Sag;Daywell Qiu;Devin Klapatiuk;Elesha Hoffarth;Elham Torabian;Geyang Zhou;Grace Thiele;Gregory Dake;Haoquan Lin;Hatsuki Otani;Huaxu Yu;Jacqueline Bischoff;Jan Gustowski;Janell Ko;Jared Litman;Jessica Fong;Jianxiong Yang;Jun Dai;Lyden Irani;Mariane Leia Laderas;Natalie Lesage;Priya Saini;Raymond Tang;Robert Thomson;Ryoga Hojo;Sana Ahmed;Siwei Luo;Tobias Overney-Ragan;Victoria Karner;Yulin Xi;Zhenhuan Lei,49,84.12244898,6.356206459,97.0,65.0,,,,,,,,,,,0,0,0,0,2,0,2,2,18,13,12,,,
+UBCV,2021,S,CHEM,135,,L1B,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Robert Thomson;Tobias Overney-Ragan,52,84.057692308,7.269095101,98.0,62.0,,,,,,,,,,,0,0,0,1,0,1,6,1,15,16,12,,,
+UBCV,2021,S,CHEM,135,,L2A,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Robert Thomson;Tobias Overney-Ragan,52,86.788461538,7.824888744,98.0,70.0,,,,,,,,,,,0,0,0,0,0,2,5,1,10,11,23,,,
+UBCV,2021,S,CHEM,135,,L2B,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Robert Thomson;Tobias Overney-Ragan,58,87.551724138,8.100622488,97.0,53.0,,,,,,,,,,,0,1,0,0,0,0,4,3,7,12,31,,,
+UBCV,2021,S,CHEM,135,,L4A,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Tobias Overney-Ragan,58,88.344827586,7.052563859,98.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,2,8,17,29,,,
+UBCV,2021,S,CHEM,135,,L4B,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Tobias Overney-Ragan,57,88.631578947,6.707223129,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,3,6,12,33,,,
+UBCV,2021,S,CHEM,135,,L5A,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Tobias Overney-Ragan,55,88.4,6.40196729,97.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,2,6,14,31,,,
+UBCV,2021,S,CHEM,135,,L5B,Introductory Chemical Laboratory II,Anne Thomas;Chenjingyi Wang;Elesha Hoffarth;Gregory Dake;Natalie Lesage;Tobias Overney-Ragan,57,86.298245614,5.631432551,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,4,12,21,18,,,
+UBCV,2021,S,CHEM,135,,Y1A,Introductory Chemical Laboratory II,Anne Thomas;Christine Traaseth;Gregory Dake;Guojun Chen;Priya Saini;Shuyang Ye;Victoria Karner;Xuyang Guo,51,77.823529412,10.878797511,93.0,50.0,,,,,,,,,,,0,1,1,4,6,1,8,4,10,8,8,,,
+UBCV,2021,S,CHEM,135,,Y1B,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,49,84.755102041,5.444915871,95.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,2,18,17,9,,,
+UBCV,2021,S,CHEM,135,,Y2A,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,47,86.553191489,9.188387072,97.0,61.0,,,,,,,,,,,0,0,0,1,2,1,2,2,7,9,23,,,
+UBCV,2021,S,CHEM,135,,Y2B,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,50,90.08,5.287026864,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,9,32,,,
+UBCV,2021,S,CHEM,135,,Y3A,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,94,83.521276596,9.313799132,99.0,56.0,,,,,,,,,,,0,0,2,2,2,2,7,11,19,25,24,,,
+UBCV,2021,S,CHEM,135,,Y3B,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,98,83.836734694,9.110652966,97.0,50.0,,,,,,,,,,,0,1,1,1,0,6,6,12,19,21,31,,,
+UBCV,2021,S,CHEM,135,,Y4A,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,63,86.26984127,6.982019186,97.0,56.0,,,,,,,,,,,0,0,1,0,0,1,1,3,19,20,18,,,
+UBCV,2021,S,CHEM,135,,Y4B,Introductory Chemical Laboratory II,Anne Thomas;Gregory Dake,49,85.306122449,7.684410847,96.0,52.0,,,,,,,,,,,0,1,0,0,0,1,2,2,15,13,15,,,
+UBCV,2021,W,CHEM,115,,L02,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jiacheng Zuo;Jianxiong Yang;Mariane Leia Laderas;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,13,81.0,7.799572638,92.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,1,4,3,2,,,
+UBCV,2021,W,CHEM,115,,L03,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Desiree Fiaccabrino;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jianxiong Yang;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,22,78.5,16.34377703,95.0,10.0,,,,,,,,,,,1,0,0,0,0,1,3,2,9,3,3,,,
+UBCV,2021,W,CHEM,115,,L05,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jianxiong Yang;Kayla Newell;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,9,78.888888889,10.74062899,90.0,58.0,,,,,,,,,,,0,0,1,0,0,1,1,1,2,2,1,,,
+UBCV,2021,W,CHEM,115,,L06,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jeffrey Suen;Jianxiong Yang;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,10,73.6,8.44853702,81.0,55.0,,,,,,,,,,,0,0,1,0,1,2,0,3,3,0,0,,,
+UBCV,2021,W,CHEM,115,,L07,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Ginger Brown;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jianxiong Yang;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan;Zixuan Zhang,12,82.083333333,7.089792064,90.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,0,5,4,1,,,
+UBCV,2021,W,CHEM,115,,L08,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jianxiong Yang;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,7,83.0,8.041558721,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,3,1,,,
+UBCV,2021,W,CHEM,115,,L09,Introductory Chemical Laboratory I,Amy Xu;Anne Thomas;Dagny Lin;Doria Unrau;Emily Ye;Hsin-Yun Tsai;Huan Ly;Jan Gustowski;Jianxiong Yang;Jiayu Zhang;Ruijie Yang;Shipei Xing;Tobias Overney-Ragan,8,86.125,8.492643876,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,1,4,,,
+UBCV,2021,W,CHEM,115,,X8A,Introductory Chemical Laboratory I,Anne Thomas,38,77.315789474,18.097491633,97.0,0.0,,,,,,,,,,,2,1,2,0,2,2,1,3,13,4,8,,,
+UBCV,2021,W,CHEM,135,,A08,Introductory Chemical Laboratory II,Anne Thomas;Jeffrey Suen;Tian-Yao Xiao;Tristan Maschmeyer,176,82.801136364,7.787917298,96.0,57.0,,,,,,,,,,,0,0,2,1,3,9,19,14,43,47,38,,,
+UBCV,2021,W,CHEM,135,,B08,Introductory Chemical Laboratory II,Anne Thomas;Jeffrey Suen;Tian-Yao Xiao;Tristan Maschmeyer,182,84.093406593,7.646691441,97.0,63.0,,,,,,,,,,,0,0,0,1,3,10,10,19,44,40,55,,,
+UBCV,2021,W,CHEM,135,,L02,Introductory Chemical Laboratory II,Anne Thomas,37,80.189189189,8.831250817,95.0,53.0,,,,,,,,,,,0,1,0,1,0,3,3,5,13,6,5,,,
+UBCV,2021,W,CHEM,135,,L03,Introductory Chemical Laboratory II,Anne Thomas,33,80.636363636,16.197642926,97.0,3.0,,,,,,,,,,,1,0,0,1,0,1,6,3,5,8,8,,,
+UBCV,2021,W,CHEM,135,,L05,Introductory Chemical Laboratory II,Anne Thomas,37,80.513513514,9.700004644,94.0,59.0,,,,,,,,,,,0,0,1,2,1,3,4,2,10,8,6,,,
+UBCV,2021,W,CHEM,135,,L06,Introductory Chemical Laboratory II,Anne Thomas,35,80.428571429,11.471924076,96.0,35.0,,,,,,,,,,,1,0,1,0,0,2,7,2,9,6,7,,,
+UBCV,2021,W,CHEM,135,,L07,Introductory Chemical Laboratory II,Anne Thomas,36,84.666666667,8.404080641,97.0,63.0,,,,,,,,,,,0,0,0,1,1,2,1,3,7,8,13,,,
+UBCV,2021,W,CHEM,135,,L08,Introductory Chemical Laboratory II,Anne Thomas,31,80.64516129,8.471711307,94.0,64.0,,,,,,,,,,,0,0,0,0,1,6,2,2,9,5,6,,,
+UBCV,2021,W,CHEM,135,,L09,Introductory Chemical Laboratory II,Anne Thomas,33,78.393939394,8.641973856,94.0,57.0,,,,,,,,,,,0,0,1,0,3,3,4,4,10,5,3,,,
+UBCV,2021,S,CHEM,115,,L3E,Introductory Chemical Laboratory I,Sophia Nussbaum;Anne Thomas,61,84.3,,98.0,57.0,,,,,,,,,,,,,,,,,,6,12,13,21,85.0,90.0,80.0
+UBCV,2021,S,CHEM,115,,L07,Introductory Chemical Laboratory I,Sophia Nussbaum;Anne Thomas,72,87.9,,98.0,60.0,,,,,,,,,,,,,,,,,,,12,14,39,90.0,93.0,83.8
+UBCV,2021,S,CHEM,135,,L1A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas;Robert Thomson,49,84.1,,97.0,65.0,,,,,,,,,,,,,,,,,,,18,13,12,85.0,89.0,80.0
+UBCV,2021,S,CHEM,135,,L1B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas;Robert Thomson,52,84.1,,98.0,62.0,,,,,,,,,,,,,,,,,6,,15,16,12,85.0,89.0,80.0
+UBCV,2021,S,CHEM,135,,L2A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas;Robert Thomson,52,86.8,,98.0,70.0,,,,,,,,,,,,,,,,,,,10,11,23,89.0,92.3,81.8
+UBCV,2021,S,CHEM,135,,L2B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas;Robert Thomson,58,87.6,,97.0,53.0,,,,,,,,,,,,,,,,,,,7,12,31,90.5,93.0,84.3
+UBCV,2021,S,CHEM,135,,L4A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,58,88.3,,98.0,56.0,,,,,,,,,,,,,,,,,,,8,17,29,89.5,93.0,85.0
+UBCV,2021,S,CHEM,135,,L4B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,57,88.6,,97.0,68.0,,,,,,,,,,,,,,,,,,,6,12,33,90.0,93.0,85.0
+UBCV,2021,S,CHEM,135,,L5A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,55,88.4,,97.0,61.0,,,,,,,,,,,,,,,,,,,6,14,31,90.0,92.0,86.5
+UBCV,2021,S,CHEM,135,,L5B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,57,86.3,,97.0,68.0,,,,,,,,,,,,,,,,,,,12,21,18,86.0,90.0,84.0
+UBCV,2021,S,CHEM,135,,Y1A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,51,77.8,,93.0,50.0,,,,,,,,,,,,,,,6,,8,,10,8,8,80.0,87.0,70.5
+UBCV,2021,S,CHEM,135,,Y1B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,49,84.8,,95.0,68.0,,,,,,,,,,,,,,,,,,,18,17,9,85.0,89.0,82.0
+UBCV,2021,S,CHEM,135,,Y2A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,47,86.6,,97.0,61.0,,,,,,,,,,,,,,,,,,,7,9,23,89.0,93.0,82.0
+UBCV,2021,S,CHEM,135,,Y2B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,50,90.1,,99.0,76.0,,,,,,,,,,,,,,,,,,,7,9,32,91.0,94.0,87.3
+UBCV,2021,S,CHEM,135,,Y3A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,94,83.5,,99.0,56.0,,,,,,,,,,,,,,,,,7,11,19,25,24,85.0,89.8,78.0
+UBCV,2021,S,CHEM,135,,Y3B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,98,83.8,,97.0,50.0,,,,,,,,,,,,,,,,6,6,12,19,21,31,85.0,91.0,78.0
+UBCV,2021,S,CHEM,135,,Y4A,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,63,86.3,,97.0,56.0,,,,,,,,,,,,,,,,,,,19,20,18,87.0,91.0,83.0
+UBCV,2021,S,CHEM,135,,Y4B,Introductory Chemical Laboratory II,Gregory Dake;Anne Thomas,49,85.3,,96.0,52.0,,,,,,,,,,,,,,,,,,,15,13,15,87.0,91.0,82.0
+UBCV,2021,W,CHEM,115,,L02,Introductory Chemical Laboratory I,Anne Thomas,13,81.0,,92.0,66.0,,,,,,,,,,,,,,,,,,,,,,82.0,86.0,77.0
+UBCV,2021,W,CHEM,115,,X8A,Introductory Chemical Laboratory I,Anne Thomas,38,77.3,,97.0,0.0,,,,,,,,,,,,,,,,,,,13,,8,82.5,88.5,75.5
+UBCV,2021,W,CHEM,135,,A08,Introductory Chemical Laboratory II,Anne Thomas,176,82.8,,96.0,57.0,,,,,,,,,,,,,,,,9,19,14,43,47,38,84.0,89.0,78.0
+UBCV,2021,W,CHEM,135,,B08,Introductory Chemical Laboratory II,Anne Thomas,182,84.1,,97.0,63.0,,,,,,,,,,,,,,,,10,10,19,44,40,55,85.0,90.0,80.0
+UBCV,2021,W,CHEM,135,,L02,Introductory Chemical Laboratory II,Anne Thomas,37,80.2,,95.0,53.0,,,,,,,,,,,,,,,,,,,13,6,,80.0,86.0,77.0
+UBCV,2021,W,CHEM,135,,L03,Introductory Chemical Laboratory II,Anne Thomas,33,80.6,,97.0,3.0,,,,,,,,,,,,,,,,,6,,,8,8,83.0,89.0,75.0
+UBCV,2021,W,CHEM,135,,L05,Introductory Chemical Laboratory II,Anne Thomas,37,80.5,,94.0,59.0,,,,,,,,,,,,,,,,,,,10,8,6,82.0,88.0,75.0
+UBCV,2021,W,CHEM,135,,L06,Introductory Chemical Laboratory II,Anne Thomas,35,80.4,,96.0,35.0,,,,,,,,,,,,,,,,,7,,9,6,7,81.0,88.0,75.0
+UBCV,2021,W,CHEM,135,,L07,Introductory Chemical Laboratory II,Anne Thomas,36,84.7,,97.0,63.0,,,,,,,,,,,,,,,,,,,7,8,13,86.0,91.0,80.8
+UBCV,2021,W,CHEM,135,,L08,Introductory Chemical Laboratory II,Anne Thomas,31,80.6,,94.0,64.0,,,,,,,,,,,,,,,,6,,,9,,6,80.0,86.0,73.5
+UBCV,2021,W,CHEM,135,,L09,Introductory Chemical Laboratory II,Anne Thomas,33,78.4,,94.0,57.0,,,,,,,,,,,,,,,,,,,10,,,80.0,83.0,73.0
+UBCV,2022,S,CHEM,115,,L02,Introductory Chemical Laboratory I,Anne Thomas,22,85.9,,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,1,4,5,9,86.5,90.0,82.3
+UBCV,2022,W,CHEM,115,,L05,Introductory Chemical Laboratory I,Anne Thomas,7,85.1,,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,1,3,85.0,91.5,82.0
+UBCV,2022,W,CHEM,115,,L09,Introductory Chemical Laboratory I,Anne Thomas,6,90.3,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,3,90.0,93.8,86.3
+UBCV,2022,W,CHEM,135,,L02,Introductory Chemical Laboratory II,Anne Thomas,8,75.1,,94.0,50.0,,,,,,,,,,,0,1,0,0,1,1,1,0,2,1,1,76.0,85.0,67.3
+UBCV,2022,W,CHEM,135,,L03,Introductory Chemical Laboratory II,Anne Thomas,8,71.9,,91.0,50.0,,,,,,,,,,,0,1,0,1,0,2,0,2,1,0,1,73.5,77.8,67.0
+UBCV,2022,W,CHEM,135,,L05,Introductory Chemical Laboratory II,Anne Thomas,15,64.9,,89.0,0.0,,,,,,,,,,,3,0,1,1,0,2,0,0,6,2,0,80.0,83.0,59.5
+UBCV,2022,W,CHEM,135,,L06,Introductory Chemical Laboratory II,Anne Thomas,11,73.2,,89.0,50.0,,,,,,,,,,,0,1,0,1,0,4,0,1,2,2,0,70.0,81.5,69.0
+UBCV,2022,W,CHEM,135,,L07,Introductory Chemical Laboratory II,Anne Thomas,11,78.1,,84.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,1,7,0,0,80.0,82.0,74.0
+UBCV,2022,W,CHEM,135,,L08,Introductory Chemical Laboratory II,Anne Thomas,15,82.0,,93.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,1,6,4,2,82.0,86.5,80.0
+UBCV,2022,W,CHEM,135,,L09,Introductory Chemical Laboratory II,Anne Thomas,15,80.2,,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,4,7,1,1,80.0,83.0,77.5
+UBCV,2023,S,CHEM,135,,L05,Introductory Chemical Laboratory II,Nigare Raheem;Anne Thomas,7,72.4,,90.0,52.0,,,,,,,,,,,0,1,0,0,0,2,2,0,1,0,1,72.0,77.5,69.0
+UBCV,2023,W,CHEM,115,,L05,Introductory Chemical Laboratory I,Anne Thomas,6,74.8,,90.0,65.0,,,,,,,,,,,0,0,0,0,1,2,1,1,0,0,1,73.0,77.3,70.3

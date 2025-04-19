@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,S,EPSE,483,,953,READ&INTERPT RES,"Stone, Jacob",22,89.52,13.89,98,31,20,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5,15
+UBC,2018,W,EPSE,483,,074,READ&INTERPT RES,"Stone, Jacob",22,93.48,3.5,97,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,20
+UBCV,2018,S,EPSE,483,,953,Reading and Interpreting Research in Education,Jacob Stone,21,89.523809524,13.891072844,98.0,31.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,5,15
+UBCV,2018,W,EPSE,483,,074,Reading and Interpreting Research in Education,Jacob Stone,22,93.545454545,3.432717551,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,21
+UBCV,2019,S,EPSE,483,,951,Reading and Interpreting Research in Education,Jacob Stone,17,91.235294118,5.379700407,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,15
+UBCV,2019,W,EPSE,483,,074,Reading and Interpreting Research in Education,Jacob Stone,24,92.083333333,5.323587109,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,3,20
+UBCV,2020,S,EPSE,483,,951,Reading and Interpreting Research in Education,Jacob Stone;Shawna Faber,20,88.75,3.985169877,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,9
+UBCV,2020,W,EPSE,483,,074,Reading and Interpreting Research in Education,Jacob Stone;Shawna Faber,24,88.75,5.32630878,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,7,12

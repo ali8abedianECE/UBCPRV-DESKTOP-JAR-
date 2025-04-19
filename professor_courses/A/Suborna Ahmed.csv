@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,S,FRST,231,,98A,INTR BIOMETRICS,"Ahmed, Suborna",19,82.38,10.36,98,62,13,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,1,4,,,
+UBC,2015,S,FRST,231,,98A,INTR BIOMETRICS,"Ahmed, Suborna",16,78.53,9.54,94,67,15,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,2,2,1,2,3,,,
+UBC,2016,S,FRST,231,,98A,INTR BIOMETRICS,"Ahmed, Suborna",31,83.31,8.78,96,62,29,0,1,0,1,0,0,0,0,0,0,0,0,1,0,2,4,2,7,5,8,,,
+UBC,2016,W,FRST,231,,99A,INTR BIOMETRICS,"Ahmed, Suborna",16,75.56,15.24,94,42,15,1,0,0,0,0,0,0,0,1,1,1,0,1,1,3,0,2,1,3,3,,,
+UBC,2017,S,FRST,231,,98A,INTR BIOMETRICS,"Ahmed, Suborna",30,80.27,14.73,96,38,24,2,0,0,4,0,0,0,1,1,2,0,0,0,1,4,0,2,5,6,6,,,
+UBC,2017,W,FRST,231,,99A,INTR BIOMETRICS,"Ahmed, Suborna",16,83.4,9.86,95,57,15,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,2,1,5,5,,,
+UBC,2017,W,FRST,231,,99C,INTR BIOMETRICS,"Ahmed, Suborna",41,84.18,11.24,99,52,39,0,2,0,0,0,0,0,0,0,0,1,0,0,1,4,4,3,4,8,14,,,
+UBC,2017,W,FRST,232,,101,COMPUTER AP FRST,"Ahmed, Suborna",23,89.59,10.5,100,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,2,12,,,
+UBC,2017,W,FRST,232,,201,COMPUTER AP FRST,"Ahmed, Suborna",117,87.78,14.36,100,15,112,4,1,0,0,0,1,1,1,1,4,0,1,2,1,4,2,2,10,15,75,,,
+UBC,2018,S,FRST,231,,98A,INTR BIOMETRICS,"Ahmed, Suborna",33,79.73,11.16,96,61,30,0,3,0,0,0,0,0,0,0,0,0,0,1,4,4,3,4,2,3,9,,,
+UBC,2018,W,FRST,231,,99A,INTR BIOMETRICS,"Ahmed, Suborna",19,71.24,12.95,89,40,16,1,1,0,1,0,0,0,0,1,1,0,3,0,0,5,1,2,2,3,0,,,
+UBC,2018,W,FRST,231,,99C,INTR BIOMETRICS,"Ahmed, Suborna",38,71.26,14.78,95,9,33,1,2,0,2,1,0,0,0,0,1,0,2,5,3,6,4,6,3,1,3,,,
+UBC,2018,W,FRST,232,,101,COMPUTER AP FRST,"Ahmed, Suborna",40,79.46,10.41,96,53,39,0,1,0,0,0,0,0,0,0,0,1,1,1,3,2,2,8,10,5,6,,,
+UBC,2018,W,FRST,232,,201,COMPUTER AP FRST,"Ahmed, Suborna",111,72.66,15.96,96,4,104,5,2,0,0,1,1,0,2,1,5,7,8,6,5,9,15,18,11,13,12,,,
+UBC,2018,W,STAT,200,,103,ELEM STAT APPLIC,"Ahmed, Suborna",315,72.34,11.58,94,36,301,9,0,0,5,0,0,0,5,4,9,15,20,20,31,40,37,54,37,30,17,,,
+UBCV,2014,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,13,82.38461539,10.35646707,98.0,62.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2015,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,15,78.53333333,9.538393595,94.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2016,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,29,83.31034483,8.775385414,96.0,62.0,,,,,,,,,,,0,0,0,1,0,2,4,2,7,5,8,,,
+UBCV,2016,W,FRST,231,,99A,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,16,75.5625,15.24453454,94.0,42.0,,,,,,,,,,,1,1,0,1,1,3,0,2,1,3,3,,,
+UBCV,2017,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,28,79.75,14.513403766,96.0,38.0,,,,,,,,,,,2,0,0,0,2,4,0,2,6,6,6,,,
+UBCV,2017,W,FRST,231,,99A,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,16,79.0625,19.793833215,95.0,14.0,,,,,,,,,,,1,0,1,0,0,1,0,2,1,5,5,,,
+UBCV,2017,W,FRST,231,,99C,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,39,84.179487179,11.238729547,99.0,52.0,,,,,,,,,,,0,1,0,0,1,4,4,3,4,8,14,,,
+UBCV,2017,W,FRST,232,,101,Computer Applications in Forestry,Grace Anne Carsky;Grace Carsky;Suborna Ahmed;Suborna Shekhor Ahmed;Vivek Srivastava,22,89.590909091,10.500154606,100.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,5,2,2,12,,,
+UBCV,2017,W,FRST,232,,201,Computer Applications in Forestry,Suborna Ahmed;Suborna Shekhor Ahmed,116,87.775862069,14.363048124,100.0,15.0,,,,,,,,,,,4,0,1,2,1,4,2,2,10,15,75,,,
+UBCV,2018,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,30,79.733333333,11.163157795,96.0,61.0,,,,,,,,,,,0,0,0,1,4,4,3,4,2,3,9,,,
+UBCV,2018,W,FRST,231,,99A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,17,71.235294118,12.949562791,89.0,40.0,,,,,,,,,,,1,0,3,0,0,5,1,2,2,3,0,,,
+UBCV,2018,W,FRST,231,,99C,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,36,70.361111111,14.886528479,95.0,9.0,,,,,,,,,,,1,1,2,6,3,6,4,6,3,1,3,,,
+UBCV,2018,W,FRST,232,,101,Computer Applications in Forestry,Danlin Jiang;Grace Carsky;Heonsoo Kil;Hye Young Woo;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava;Zoe Davis;Zoe Elizabeth Davis,39,79.461538462,10.407098169,96.0,53.0,,,,,,,,,,,0,1,1,1,3,2,2,8,10,5,6,,,
+UBCV,2018,W,FRST,232,,201,Computer Applications in Forestry,Danlin Jiang;Heonsoo Kil;Hye Young Woo;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,109,72.660550459,15.960147233,96.0,4.0,,,,,,,,,,,5,7,8,6,5,9,15,18,11,13,12,,,
+UBCV,2018,W,STAT,200,,103,Elementary Statistics for Applications,Carlene Ho;Hayden Mctavish;Hoi Yin Eugenia Yu;Jhohura Fatema Tuz;Jiayi Li;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Naitong Chen;Nikolas Krstic;Peiyuan Gary Zhu;Peiyuan Zhu;Suborna Ahmed;Suborna Shekhor Ahmed;Xinyuan Chloe You;Xinyue Zheng;Yiming Pan;Yisheng Zhu,314,71.796178344,12.671186329,94.0,6.0,,,,,,,,,,,12,15,21,20,31,40,37,54,37,30,17,,,
+UBCV,2019,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,17,71.352941176,10.833634988,88.0,50.0,,,,,,,,,,,0,2,0,2,2,3,1,4,1,2,0,,,
+UBCV,2019,S,FRST,232,,921,Computer Applications in Forestry,Juliana Galvao De Sousa Magalhaes;Pramila Khatri Chhetri;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,18,75.388888889,14.828981516,93.0,31.0,,,,,,,,,,,1,1,0,0,1,1,2,2,6,3,1,,,
+UBCV,2019,W,FRST,231,,99A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,14,72.142857143,13.242455866,90.0,38.0,,,,,,,,,,,1,0,0,1,2,2,2,0,5,0,1,,,
+UBCV,2019,W,FRST,231,,99C,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,18,79.777777778,10.212769144,97.0,64.0,,,,,,,,,,,0,0,0,0,1,4,2,2,1,3,5,,,
+UBCV,2019,W,FRST,232,,101,Computer Applications in Forestry,Christina Howard;Pramila Khatri Chhetri;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,36,76.083333333,18.008529725,95.0,0.0,,,,,,,,,,,2,1,2,1,1,2,3,5,4,7,8,,,
+UBCV,2019,W,FRST,232,,201,Computer Applications in Forestry,An Hoang;Flavie Pelletier;Mattesen Nicholas Aldon Moore;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava;Zuofang Zhang,87,76.494252874,11.561638215,99.0,55.0,,,,,,,,,,,0,0,4,10,7,7,11,13,8,10,17,,,
+UBCV,2019,W,GEM,530,,101,Geospatial Data Analysis,Nicholas Ryan Leach;Ryan James Frazier;Suborna Ahmed,32,92.4375,5.248271605,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,6,25,,,
+UBCV,2020,S,FRST,231,,98A,Introduction to Biometrics,Dayana Barragan Altamirano;Stella Acquah;Suborna Ahmed,32,76.25,18.84743501,97.0,5.0,,,,,,,,,,,2,1,1,0,2,3,4,5,1,3,10,,,
+UBCV,2020,S,FRST,232,,921,Computer Applications in Forestry,. Vaniartha;An Hoang;Dayana Barragan Altamirano;Dayana Gabriela Barragan Altamirano;Flavie Pelletier;Mx Vaniartha;Suborna Ahmed;Vaniartha Vaniartha,36,80.75,12.352848139,95.0,21.0,,,,,,,,,,,1,0,0,1,0,1,2,5,8,12,6,,,
+UBCV,2020,W,FRST,231,,99C,Introduction to Biometrics,Stella Acquah;Suborna Ahmed;Vaniartha Vaniartha,16,77.25,10.003332778,94.0,57.0,,,,,,,,,,,0,0,1,1,1,2,0,2,6,1,2,,,
+UBCV,2020,W,FRST,232,,101,Computer Applications in Forestry,. Vaniartha;An Hoang;Dayana Barragan Altamirano;Mx Vaniartha;Suborna Ahmed;Vaniartha Vaniartha,54,81.111111111,11.25127526,97.0,43.0,,,,,,,,,,,1,1,0,2,0,5,4,5,11,12,13,,,
+UBCV,2020,W,FRST,232,,201,Computer Applications in Forestry,An Hoang;Chrestecia Djap;Dayana Barragan Altamirano;Djap Chrestecia;Hannah Sachs;Hye Young Woo;Jojo Chen;Serena Sturton;Suborna Ahmed;Vaniartha Vaniartha;Ziyi Chen,53,85.0,9.464508602,98.0,62.0,,,,,,,,,,,0,0,0,1,2,5,1,1,11,5,27,,,
+UBCV,2020,W,FRST,232,,202,Computer Applications in Forestry,Dayana Barragan Altamirano;Suborna Ahmed,30,85.133333333,10.464169846,99.0,53.0,,,,,,,,,,,0,1,0,0,0,1,2,3,7,3,13,,,
+UBCV,2020,W,GEM,530,,101,Geospatial Data Analysis,Evan Muise;Rik Johannes Gerardus Nuijten;Suborna Ahmed,30,95.433333333,2.860953944,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,29,,,
+UBCV,2021,S,FRST,231,,98A,Introduction to Biometrics,Stella Acquah;Suborna Ahmed;Vaniartha Vaniartha,20,74.05,15.425457427,99.0,44.0,,,,,,,,,,,1,1,2,3,0,1,0,1,5,2,4,,,
+UBCV,2021,S,FRST,232,,921,Computer Applications in Forestry,An Hoang;Chenying Li;Chrestecia Djap;Suborna Ahmed;Sydne Guevara Rozo;Tabitha Maria Vinu;Vaniartha Vaniartha;Ziyi Chen,16,88.3125,14.763553095,99.0,37.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,4,10,,,
+UBCV,2021,W,FRST,232,,101,Computer Applications in Forestry,Chenying Li;Chrestecia Djap;Haoyuan Chen;Suborna Ahmed;Vaniartha Vaniartha,57,82.561403509,10.376858773,99.0,50.0,,,,,,,,,,,0,1,1,2,1,0,4,6,17,7,18,,,
+UBCV,2021,W,FRST,232,,201,Computer Applications in Forestry,Abigayle Wright;An Hoang;Chenying Li;Haoyuan Chen;Suborna Ahmed,69,83.971014493,16.349105943,100.0,5.0,,,,,,,,,,,2,1,1,1,0,1,3,4,15,11,30,,,
+UBCV,2021,W,GEM,530,,101,Geospatial Data Analysis,Andrew Chadwick;Rik Johannes Gerardus Nuijten;Suborna Ahmed,28,93.392857143,3.189558029,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,24,,,
+UBCV,2021,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed,20,74.1,,99.0,44.0,,,,,,,,,,,,,,,,,,,,,,80.0,85.5,60.8
+UBCV,2021,S,FRST,232,,921,Computer Applications in Forestry,Suborna Ahmed,16,88.3,,99.0,37.0,,,,,,,,,,,,,,,,,,,,,10,91.0,97.0,87.5
+UBCV,2021,W,FRST,232,,101,Computer Applications in Forestry,Suborna Ahmed,57,82.6,,99.0,50.0,,,,,,,,,,,,,,,,,,6,17,7,18,82.0,90.0,78.0
+UBCV,2021,W,FRST,232,,201,Computer Applications in Forestry,Suborna Ahmed,69,84.0,,100.0,5.0,,,,,,,,,,,,,,,,,,,15,11,30,85.0,95.0,80.0
+UBCV,2022,W,FRST,232,,101,Computer Applications in Forestry,Suborna Ahmed;Christopher Colton,75,85.9,,99.0,50.0,,,,,,,,,,,0,1,0,0,0,2,3,7,10,22,30,86.0,91.5,82.0
+UBCV,2022,W,FRST,232,,201,Computer Applications in Forestry,Suborna Ahmed,70,87.9,,99.0,27.0,,,,,,,,,,,2,1,0,0,0,2,1,1,9,13,41,91.0,94.0,86.0
+UBCV,2022,W,FRST,531,,201,Multivariate Statistical Methods,Suborna Ahmed,27,90.6,,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,17,92.0,94.0,88.0
+UBCV,2022,W,GEM,530,,101,Geospatial Data Analysis,Suborna Ahmed,29,88.3,,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,12,13,89.0,92.0,85.0
+UBCV,2023,W,FRST,232,,101,Computer Applications in Forestry,Suborna Ahmed;Christopher Colton,76,86.1,,98.0,63.0,,,,,,,,,,,0,0,0,1,0,2,1,7,19,16,29,87.0,91.0,81.0
+UBCV,2023,W,GEM,530,,101,Geospatial Data Analysis,Suborna Ahmed,29,92.66,,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,26,93.0,94.0,91.0

@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,ARCH,501,,013,ARCH DESIGN II,"Huemoeller, James",6,80.67,1.51,83,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,,,
+UBC,2016,W,ARCH,520,,007,ARCH DESIGN III,"Huemoeller, James",7,80,5.13,90,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,,,
+UBC,2016,W,ARCH,540,,007,ARCH DESIGN V,"Huemoeller, James",4,89.25,3.77,93,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2018,W,ARCH,500,,001,ARCH DESIGN,"Huemoeller, James;Roecker, Inge;Tak, Thena",31,82.43,5.3,88,60,30,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,15,10,0,,,
+UBCV,2016,W,ARCH,501,,013,Architectural Design Studio II,James Huemoeller;Katharine Huemoeller,6,80.66666667,1.505545305,83.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,0,0,,,
+UBCV,2016,W,ARCH,520,,007,Architectural Design Studio III,James Huemoeller;Katharine Huemoeller,7,80.0,5.131601439,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,0,1,,,
+UBCV,2017,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;James Huemoeller;Joanne Gates,47,83.127659574,3.836988296,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,0,28,13,2,,,
+UBCV,2017,W,ARCH,540,,007,Architectural Design Studio V,James Huemoeller;Thena Tak,6,83.0,4.0,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,1,0,,,
+UBCV,2018,W,ARCH,500,,001,Architectural Design Studio I,George Stuart Wagner;Inge Roecker;James Huemoeller;Joanne Gates;Matthew Soules;Thena Tak,31,82.032258065,5.665591296,88.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,4,15,10,0,,,
+UBCV,2019,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Inge Roecker;James Huemoeller;Joanne Gates;Laura Killam;Matthew Soules;Thena Tak,30,85.133333333,3.812260921,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,13,5,,,
+UBCV,2019,W,ARCH,520,,008,Architectural Design Studio III,Beryl Allen Dick;James Huemoeller,11,85.090909091,3.986340313,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,5,1,,,
+UBCV,2019,W,ARCH,540,,008,Architectural Design Studio V,Beryl Allen Dick;James Huemoeller,9,84.555555556,1.589898669,86.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,0,,,
+UBCV,2020,W,ARCH,520,,008,Architectural Design Studio III,Beryl Allen Dick;James Huemoeller,8,88.5,3.251373336,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,4,,,
+UBCV,2020,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Laura Killam;Matthew Soules;Peeroj Thakre,70,81.542857143,5.465798042,90.0,69.0,,,,,,,,,,,0,0,0,0,0,6,1,16,23,20,4,,,
+UBCV,2020,W,ARCH,540,,008,Architectural Design Studio V,Beryl Allen Dick;James Huemoeller,8,88.125,2.90012315,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,2,,,
+UBCV,2021,W,ARCH,520,,006,Architectural Design Studio III,James Huemoeller,8,82.5,4.105745104,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,3,0,,,
+UBCV,2021,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Joanne Gates;John Bass;Laura Killam,47,85.382978723,2.754862827,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,18,27,0,,,
+UBCV,2021,W,ARCH,520,,006,Architectural Design Studio III,James Huemoeller,8,82.5,,88.0,77.0,,,,,,,,,,,,,,,,,,,,,,82.5,85.5,79.5
+UBCV,2021,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Inge Roecker,47,85.4,,88.0,78.0,,,,,,,,,,,,,,,,,,,18,27,,86.0,88.0,84.0
+UBCV,2022,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Inge Roecker,50,84.5,,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,4,14,24,6,85.0,87.0,83.0
+UBCV,2023,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Amanda Reed,61,85.07,,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,20,39,0,86.0,88.0,83.0

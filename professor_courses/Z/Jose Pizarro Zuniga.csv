@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,COMM,377,,102,INT FIN MAR/INST,"Pizarro Zuniga, Jose",41,80.05,6.33,93,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,9,12,5,4,,,
+UBC,2018,W,COMM,374,,201,APPL FIN MRKT,"Favilukis, Jack;Pizarro Zuniga, Jose",41,75.93,6.15,87,58,40,0,1,0,0,0,0,0,0,0,0,0,1,1,2,4,7,11,13,1,0,,,
+UBC,2018,W,COMM,374,,202,APPL FIN MRKT,"Favilukis, Jack;Pizarro Zuniga, Jose",43,75.79,5.15,84,62,43,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,9,15,11,0,0,,,
+UBC,2018,W,COMM,374,,203,APPL FIN MRKT,"Favilukis, Jack;Pizarro Zuniga, Jose",44,75.61,5.99,88,62,44,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,9,13,8,3,0,,,
+UBCV,2015,W,BABS,502,,OR1,Forecasting for Management,Antoine Michele Saure Valenzuela;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,13,83.461538462,5.059897638,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,6,,,,,
+UBCV,2015,W,COMM,298,,101,Introduction to Finance,Ercos Emanuel Eduardo Valdivieso Contreras;Ercos Valdivieso Contreras;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,65,74.061538462,15.748885797,100.0,29.0,,,,,,,,,,,,5,,5,6,5,9,5,8,5,12,,,
+UBCV,2016,W,COMM,377,,102,International Financial Markets and Institutions,Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,41,80.04878049,6.328314229,93.0,70.0,,,,,,,,,,,0,0,0,0,0,3,8,9,12,5,4,,,
+UBCV,2018,W,COMM,374,,201,Applied Financial Markets,Carolin Pflueger;Jack Favilukis;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,40,75.925,6.153537653,87.0,58.0,,,,,,,,,,,0,0,1,1,2,4,7,11,13,1,0,,,
+UBCV,2018,W,COMM,374,,202,Applied Financial Markets,Carolin Pflueger;Jack Favilukis;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,43,75.790697674,5.148083969,84.0,62.0,,,,,,,,,,,0,0,0,1,2,5,9,15,11,0,0,,,
+UBCV,2018,W,COMM,374,,203,Applied Financial Markets,Carolin Pflueger;Jack Favilukis;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,44,75.613636364,5.98531501,88.0,62.0,,,,,,,,,,,0,0,0,1,3,7,9,13,8,3,0,,,
+UBCV,2019,W,COEC,377,,001,International Financial Markets and Institutions,Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,15,79.8,7.173363427,91.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,1,8,1,2,,,
+UBCV,2019,W,COMM,370,,202,Corporate Finance,Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga;Xuejing Guan,34,74.970588235,11.421630978,95.0,39.0,,,,,,,,,,,1,0,1,1,4,4,3,12,1,2,5,,,
+UBCV,2020,W,COMM,370,,105,Corporate Finance,Anming Zhang;Isha Agarwal;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga;Silvia Zhang,39,72.58974359,10.710835509,93.0,41.0,,,,,,,,,,,1,1,3,2,6,2,10,1,11,0,2,,,
+UBCV,2020,W,COMM,370,,106,Corporate Finance,Darren Degraaf;Efe Izgialp;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga,41,75.707317073,9.77303408,96.0,53.0,,,,,,,,,,,0,1,1,2,5,5,5,6,9,4,3,,,
+UBCV,2020,W,COMM,370,,201,Corporate Finance,Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga;Omar Kabbani;Sima Sajjadiani;Xing Liu;Zechariah Johnson,36,74.194444444,12.983108684,95.0,44.0,,,,,,,,,,,1,0,1,6,5,2,4,3,4,3,7,,,
+UBCV,2020,W,COMM,370,,202,Corporate Finance,Jason Van;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga;Xing Liu;Zechariah Johnson,36,75.694444444,14.614707747,98.0,37.0,,,,,,,,,,,2,0,1,3,3,3,3,4,3,8,6,,,
+UBCV,2020,W,COMR,473,,201,Business Finance,Chunxue Yang;Esperanza Clarissa;Jose Esteban Pizarro Zuniga;Jose Pizarro Zuniga;Natalie Youssef;Xiyue Li;Zechariah Johnson,78,71.576923077,14.737988048,97.0,30.0,,,,,,,,,,,5,3,5,7,11,9,2,6,13,7,10,,,
+UBCV,2021,W,COMM,298,,101,Introduction to Finance,Alexia Belen Wong Lu;Ashley Kask;Jose Pizarro Zuniga;Noah Sayani;Xiyue Li,57,79.01754386,14.064254625,100.0,36.0,,,,,,,,,,,4,0,0,0,4,1,5,7,12,14,10,,,
+UBCV,2021,W,COMM,298,,202,Introduction to Finance,Ashley Kask;Chunxue Yang;Jin Wang;Jose Pizarro Zuniga;Shiqi Zhang;Sophie Yang;Vivian Mak,125,71.208,15.532637854,95.0,22.0,,,,,,,,,,,8,7,2,13,13,10,15,15,15,13,14,,,
+UBCV,2021,W,COMM,370,,103,Corporate Finance,Caren Lombard;Chunxue Yang;Derek Moo;Jose Pizarro Zuniga;Shiqi Zhang,40,75.425,13.55120867,94.0,35.0,,,,,,,,,,,2,2,0,1,1,5,6,4,6,9,4,,,
+UBCV,2021,W,COMM,370,,104,Corporate Finance,Alexia Belen Wong Lu;Chunxue Yang;Jose Pizarro Zuniga;Sakshi Chandak;Shiqi Zhang;Xiyue Li,28,67.892857143,13.281396863,92.0,32.0,,,,,,,,,,,1,3,2,5,1,4,3,4,2,1,2,,,
+UBCV,2021,W,COMM,370,,105,Corporate Finance,Ansar Zhassuzak;Chunxue Yang;Isha Agarwal;Jose Pizarro Zuniga;Shiqi Zhang,40,63.625,14.293063586,90.0,26.0,,,,,,,,,,,5,2,2,7,4,13,2,1,3,0,1,,,
+UBCV,2021,W,COMM,370,,106,Corporate Finance,Chunxue Yang;Isha Agarwal;Jose Pizarro Zuniga;Shiqi Zhang;Woan Shiuan Ang,42,72.238095238,10.513196176,91.0,36.0,,,,,,,,,,,1,1,1,4,4,10,6,2,9,2,2,,,
+UBCV,2021,W,COMM,370,,201,Corporate Finance,Derek Moo;Jose Pizarro Zuniga;Vivian Mak;Xing Liu,35,74.914285714,12.875812775,96.0,40.0,,,,,,,,,,,2,1,0,3,0,4,4,5,8,4,4,,,
+UBCV,2021,W,COMM,370,,202,Corporate Finance,Iman Elmarashly;Jose Pizarro Zuniga;Noah Sayani;Vivian Mak;Xing Liu,39,75.051282051,12.305216519,91.0,37.0,,,,,,,,,,,2,0,1,2,4,1,6,5,8,6,4,,,
+UBCV,2021,W,COMM,374,,206,Applied Financial Markets,Bo Bian;Jack Favilukis;Jose Pizarro Zuniga;Murray Carlson,41,75.951219512,6.953241041,87.0,59.0,,,,,,,,,,,0,0,1,2,2,5,4,14,11,2,0,,,
+UBCV,2021,W,COMM,377,,201,International Financial Markets and Institutions,Ali Lazrak;Jose Pizarro Zuniga;R Glen Donaldson,31,78.161290323,10.580159968,98.0,47.0,,,,,,,,,,,1,0,0,0,5,2,1,5,6,8,3,,,
+UBCV,2021,W,COMR,473,,201,Business Finance,Brandon Jao;Darren Degraaf;Jose Pizarro Zuniga;Woan Shiuan Ang,94,71.819148936,15.570141515,98.0,27.0,,,,,,,,,,,5,8,8,11,7,7,4,6,13,15,10,,,
+UBCV,2021,W,BAFI,500,,300,Introductory Finance,Jose Pizarro Zuniga,58,85.4,,100.0,66.0,,,,,,,,,,,,,,,,,,8,9,10,22,87.0,92.8,78.3
+UBCV,2021,W,COMM,298,,101,Introduction to Finance,Jose Pizarro Zuniga,57,79.0,,100.0,36.0,,,,,,,,,,,,,,,,,,7,12,14,10,82.0,86.0,76.0
+UBCV,2021,W,COMM,370,,103,Corporate Finance,Jose Pizarro Zuniga,40,75.4,,94.0,35.0,,,,,,,,,,,,,,,,,6,,6,9,,78.0,85.0,70.0
+UBCV,2021,W,COMM,370,,104,Corporate Finance,Jose Pizarro Zuniga,28,67.9,,92.0,32.0,,,,,,,,,,,,,,,,,,,,,,68.0,77.0,60.0
+UBCV,2021,W,COMM,370,,201,Corporate Finance,Jose Pizarro Zuniga,35,74.9,,96.0,40.0,,,,,,,,,,,,,,,,,,,8,,,77.0,83.0,68.5
+UBCV,2021,W,COMM,374,,206,Applied Financial Markets,Jose Pizarro Zuniga,41,76.0,,87.0,59.0,,,,,,,,,,,,,,,,,,14,11,,,77.0,81.0,73.0
+UBCV,2021,W,COMM,377,,201,International Financial Markets and Institutions,Jose Pizarro Zuniga,31,78.2,,98.0,47.0,,,,,,,,,,,,,,,,,,,6,8,,81.0,85.0,71.5
+UBCV,2022,W,COEC,370,,001,Corporate Finance,Jose Pizarro Zuniga,35,76.4,,93.0,52.0,,,,,,,,,,,0,1,3,1,2,4,3,2,10,4,5,80.0,84.5,69.5
+UBCV,2022,W,COMM,298,,103,Introduction to Finance,Jose Pizarro Zuniga,59,74.7,,97.0,45.0,,,,,,,,,,,2,3,5,4,5,6,3,5,3,11,12,76.0,86.5,64.0
+UBCV,2022,W,COMM,298,,205,Introduction to Finance,Jose Pizarro Zuniga,96,66.9,,97.0,12.0,,,,,,,,,,,5,12,7,16,10,8,11,3,16,0,8,65.0,77.0,59.5
+UBCV,2022,W,COMM,370,,203,Corporate Finance,Jose Pizarro Zuniga,37,73.3,,91.0,50.0,,,,,,,,,,,0,1,0,4,5,4,8,1,9,2,3,72.0,80.0,65.0
+UBCV,2022,W,COMM,371,,103,Investment Theory,Jose Pizarro Zuniga,43,70.6,,88.0,43.0,,,,,,,,,,,2,0,5,2,3,11,5,5,4,6,0,70.0,78.0,65.0
+UBCV,2022,W,COMM,371,,104,Investment Theory,Jose Pizarro Zuniga,42,75.9,,90.0,55.0,,,,,,,,,,,0,0,3,3,1,4,6,8,9,3,5,77.5,81.5,70.5
+UBCV,2022,W,COMM,371,,106,Investment Theory,Jose Pizarro Zuniga,41,83.2,,99.0,53.0,,,,,,,,,,,0,1,1,1,0,0,4,4,7,10,13,85.0,91.0,76.0
+UBCV,2022,W,COMM,371,,107,Investment Theory,Jose Pizarro Zuniga,42,82.1,,97.0,50.0,,,,,,,,,,,0,1,0,0,2,0,3,6,11,8,11,82.0,89.5,77.0
+UBCV,2023,W,COEC,370,,001,Corporate Finance,Jose Pizarro Zuniga,47,76.9,,98.0,41.0,,,,,,,,,,,1,2,3,2,4,4,1,5,7,8,10,80.0,87.0,67.0
+UBCV,2023,W,COEC,371,,001,Investment Theory,Jose Pizarro Zuniga,40,75.9,,94.0,39.0,,,,,,,,,,,1,0,1,3,3,2,7,6,7,7,2,76.0,84.0,70.5
+UBCV,2023,W,COEC,371,,002,Investment Theory,Jose Pizarro Zuniga,48,81.4,,100.0,59.0,,,,,,,,,,,0,0,1,1,4,4,4,4,8,10,12,83.5,88.5,74.8
+UBCV,2023,W,COMM,298,,103,Introduction to Finance,Jose Pizarro Zuniga,62,78.8,,99.0,53.0,,,,,,,,,,,0,1,5,2,1,4,5,4,22,9,8,82.0,85.0,74.0
+UBCV,2023,W,COMM,370,,104,Corporate Finance,Jose Pizarro Zuniga,42,74.6,,95.0,55.0,,,,,,,,,,,0,0,5,1,6,2,9,2,6,5,4,74.0,81.0,67.0
+UBCV,2023,W,COMM,370,,108,Corporate Finance,Jose Pizarro Zuniga,42,70.7,,98.0,40.0,,,,,,,,,,,3,2,4,2,5,3,7,8,1,4,3,72.0,77.0,63.0
+UBCV,2023,W,COMM,370,,203,Corporate Finance,Jose Pizarro Zuniga,38,75.3,,94.0,41.0,,,,,,,,,,,1,0,0,1,3,6,4,8,10,2,2,77.0,81.0,69.0
+UBCV,2023,W,COMM,371,,103,Investment Theory,Jose Pizarro Zuniga,42,79.8,,99.0,47.0,,,,,,,,,,,1,1,2,1,0,3,5,4,8,6,11,81.0,89.5,73.3
+UBCV,2023,W,COMM,371,,105,Investment Theory,Jose Pizarro Zuniga,40,72.0,,93.0,46.0,,,,,,,,,,,1,1,5,3,4,4,6,4,7,1,4,72.5,81.3,64.3

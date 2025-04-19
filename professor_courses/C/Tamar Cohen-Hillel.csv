@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,COMM,204,,201,Logistics and Operations Management,Joseph Paat;Naya Sedivy;Tamar Cohen-Hillel,59,73.983050847,10.609838514,90.0,51.0,0,3,3,4,10,4,6,5,10,13,1,,,
+UBCV,2021,W,COMM,204,,202,Logistics and Operations Management,Jeffrey Ma;Joseph Paat;Tamar Cohen-Hillel,59,76.372881356,10.612124337,98.0,52.0,0,2,2,3,8,4,5,11,7,11,6,,,
+UBCV,2021,W,COMM,204,,203,Logistics and Operations Management,Anton Bondarev;Joseph Paat;Tamar Cohen-Hillel,60,76.65,10.320006898,96.0,52.0,0,2,1,4,8,1,9,8,14,8,5,,,
+UBCV,2021,W,COMM,204,,205,Logistics and Operations Management,Aayush Jaitly;Joseph Paat;Tamar Cohen-Hillel,57,69.912280702,11.72951208,92.0,50.0,0,6,5,5,14,3,3,7,4,6,4,,,
+UBCV,2021,W,COMM,204,,201,Logistics and Operations Management,Tamar Cohen-Hillel;Joseph Paat,59,74.0,,90.0,51.0,,,,,10,,6,,10,13,,75.0,82.0,66.0
+UBCV,2021,W,COMM,204,,203,Logistics and Operations Management,Tamar Cohen-Hillel;Joseph Paat,60,76.7,,96.0,52.0,,,,,8,,9,8,14,8,,78.0,83.0,68.5
+UBCV,2023,W,COMM,191,,203,Application of Statistics in Business,Tamar Cohen-Hillel,201,71.8,,99.0,1.0,9,12,13,19,21,24,20,21,15,27,19,72.0,82.0,63.0
+UBCV,2023,W,COMM,191,,204,Application of Statistics in Business,Tamar Cohen-Hillel,194,72.9,,98.0,1.0,10,4,17,14,17,14,23,18,31,25,17,75.0,83.0,64.0

@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,ENGR,464,,101,Distributed Ledger Technologies with Engineering Applications,Chen Feng;Fangyu Gai;Mohammad Jalalzai,27,87.037037037,7.250896398,99.0,73.0,0,0,0,0,0,0,2,1,9,4,11,,,
+UBCO,2021,W,ENGR,453,,101,Internet of Things,Chen Feng;Mohammad Jalalzai;Niusha Moshrefi,16,86.3125,9.385938064,100.0,67.0,0,0,0,0,1,0,1,1,5,2,6,,,
+UBCV,2020,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai;Victoria Lemieux,20,93.6,6.467733679,100.0,74.0,0,0,0,0,0,0,1,0,1,1,17,,,
+UBCV,2021,S,ARST,575,N,941,Topics in the Management of Records,Artemij Voskobojnikov;Mohammad Jalalzai;Victoria Lemieux,10,82.5,3.100179206,89.0,78.0,0,0,0,0,0,0,0,2,6,2,0,,,
+UBCV,2021,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai,13,95.153846154,3.484397457,100.0,90.0,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCO,2021,W,ENGR,453,,101,Internet of Things,Chen Feng;Mohammad Jalalzai,16,86.3,,100.0,67.0,,,,,,,,,,,6,84.5,93.5,82.0
+UBCV,2021,S,ARST,575,N,941,Topics in the Management of Records,Mohammad Jalalzai;Victoria Lemieux;Artemij Voskobojnikov,10,82.5,,89.0,78.0,,,,,,,,,6,,,82.0,83.8,81.3
+UBCV,2021,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai,13,95.2,,100.0,90.0,0,0,0,0,0,0,0,0,0,0,13,96.0,97.0,91.0
+UBCV,2022,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai,33,94.0,,100.0,76.0,0,0,0,0,0,0,0,1,0,1,31,95.0,96.0,93.0
+UBCV,2023,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai,30,90.34,,96.0,70.0,0,0,0,0,0,1,0,0,2,6,20,91.0,94.0,89.0

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,ENGR,444,,201,Solid Waste Engineering,Chinchu Cherian;John Alan Brereton;Sumi Siddiqua;Vikas Kumar,41,85.780487805,4.927028492,94.0,69.0,0,0,0,0,0,2,0,0,9,25,5,,,
+UBCO,2021,W,APSC,253,,202,Fluid Mechanics I,Ali Rostami;Ally Fraser;Chinchu Cherian;Maryam Firouzi;Mojtaba Zabihi;Reza Zarghanishiraz;Sajjad Mohammadnejad Daryani;Stephen Kimanzi;Vikas Kumar;Yu Yan,107,76.785046729,13.032635405,95.0,44.0,11,0,1,2,5,6,15,14,21,17,15,,,
+UBCO,2021,W,ENGR,340,,201,Soil Mechanics,Chinchu Cherian;Sabrina Islam;Shayan Sheikhi Narani;Sumi Siddiqua,18,72.777777778,11.005643235,89.0,45.0,1,1,0,1,2,1,4,4,2,2,0,,,
+UBCO,2021,W,APSC,253,,202,Fluid Mechanics I,Chinchu Cherian,107,76.8,,95.0,44.0,11,,,,,6,15,14,21,17,15,79.0,86.0,72.0
+UBCO,2021,W,ENGR,340,,201,Soil Mechanics,Chinchu Cherian,18,72.8,,89.0,45.0,,,,,,,,,,,,74.5,78.8,67.5
+UBCO,2022,S,ENGR,598,P,001,Topics in Engineering,Chinchu Cherian;Sumi Siddiqua,11,91.0,,96.0,86.0,0,0,0,0,0,0,0,0,0,2,9,91.0,92.5,90.0
+UBCO,2022,W,APSC,180,,001,Statics,Chinchu Cherian,50,51.0,,87.0,0.0,20,5,6,5,2,4,2,5,0,1,0,54.5,67.0,44.0
+UBCO,2022,W,ENGR,444,,201,Solid Waste Engineering,Chinchu Cherian,34,83.1,,97.0,58.0,0,0,1,0,0,1,2,6,12,3,9,82.0,90.0,79.0
+UBCO,2023,S,APSC,181,,001,Dynamics,Chinchu Cherian,27,65.1,,94.0,38.0,4,5,3,1,1,2,1,4,3,2,1,65.0,77.5,52.5

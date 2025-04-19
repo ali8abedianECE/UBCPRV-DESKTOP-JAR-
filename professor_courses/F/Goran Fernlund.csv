@@ -1,0 +1,96 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MMAT,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",31,62.58,12.02,94,46,29,2,0,0,0,0,0,0,0,2,2,8,5,3,4,5,0,1,0,1,2
+UBC,2002,W,MMAT,495,,101,Biomaterials,"Fernlund, Goran",37,72.54,7.64,91,58,37,0,0,0,0,0,0,0,0,0,0,0,2,2,5,8,9,6,1,2,2
+UBC,2002,W,MMAT,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",11,83.55,5.57,90,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,1
+UBC,2003,W,MMAT,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",39,71.18,13.11,91,18,38,1,0,0,0,0,1,0,0,0,1,3,2,1,4,7,6,5,4,5,1
+UBC,2003,W,MMAT,495,,101,Biomaterials,"Fernlund, Goran",29,75.66,10.81,91,44,28,1,0,0,0,0,0,0,0,1,1,0,0,3,2,5,1,6,4,5,2
+UBC,2003,W,MMAT,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",8,79.67,9.56,92,68,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,1
+UBC,2005,W,MTRL,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",52,62.69,11.17,98,38,47,5,0,0,0,0,0,0,1,4,5,4,11,9,10,6,3,1,0,1,2
+UBC,2006,W,MTRL,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",35,70.88,7.31,88,59,32,0,0,3,0,0,0,0,0,0,0,0,1,5,6,6,5,4,4,1,0
+UBC,2007,W,MTRL,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",54,68.6,11.76,93,23,50,3,1,0,0,0,0,1,2,0,3,0,4,4,8,12,9,10,1,1,1
+UBC,2007,W,MTRL,495,,101,BIOMATERIALS,"Fernlund, Goran",26,75.38,10.05,89,40,25,1,0,0,0,0,0,0,0,1,1,0,0,0,3,4,3,5,7,3,0
+UBC,2007,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",9,80.44,8.49,93,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,1
+UBC,2009,W,MTRL,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",43,65.77,17.95,94,27,34,9,0,0,0,0,0,2,5,2,9,0,0,4,8,3,2,9,5,1,2
+UBC,2009,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",22,71.62,11.23,86,45,19,2,0,0,1,0,0,0,0,2,2,1,0,0,1,2,8,2,4,1,0
+UBC,2009,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",7,84.17,3.54,89,80,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+UBC,2010,W,MTRL,394,,201,PLYMR&P MATRX CP,"Fernlund, Goran",47,70.46,11.67,91,26,44,2,0,0,1,0,0,1,0,1,2,1,2,4,5,8,7,10,3,3,1
+UBC,2010,W,MTRL,464,,101,ENG DESIGN I,"Asselin, Edouard;Barr, Peter;Fernlund, Goran;Troczynski, Tom",39,76.62,6.24,88,61,39,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,7,11,10,3,0
+UBC,2010,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",10,71.3,5.48,82,66,10,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,1,0,0
+UBC,2010,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",11,75.09,25.61,95,0,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,4,2,3,1
+UBC,2011,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran",191,68.6,13.72,98,5,176,14,1,0,0,1,0,2,3,8,14,9,15,20,24,31,23,16,16,12,10
+UBC,2011,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",15,69.67,9.79,83,57,15,0,0,0,0,0,0,0,0,0,0,0,2,5,1,0,1,3,3,0,0
+UBC,2011,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",7,79.57,6.9,88,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,0
+UBC,2012,W,MTRL,466,,101,ENG PROJECT I,"Alfantazi, Akram;Asselin, Edouard;Dreisinger, David;Fernlund, Goran;Ko, Frank",38,77.55,5.1,85,63,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8,9,14,3,0
+UBC,2012,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",18,73.11,10.42,90,54,18,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,2,3,2,2,1
+UBC,2012,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",8,82.43,6.29,91,72,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,1
+UBC,2013,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran",197,63.82,13.44,91,9,175,20,0,2,0,1,2,3,2,12,20,17,22,22,22,43,22,13,7,6,1
+UBC,2013,W,MTRL,467,,201,ENG PROJECT II,"Cockcroft, Steven;Fernlund, Goran;Maijer, Daan;Wang, Rizhi;Wassink, Berend",30,80.87,5.32,89,66,30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,15,5,0
+UBC,2014,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran",198,71.62,11.91,95,23,190,6,2,0,0,0,0,2,1,3,6,7,17,12,18,25,27,39,22,14,9
+UBC,2014,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Cockcroft, Steven;Fernlund, Goran;Poursartip, Anoshiravan",48,76.06,9.9,90,50,48,0,0,0,0,0,0,0,0,0,0,3,1,0,4,6,7,8,7,11,1
+UBC,2014,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",33,75.36,8.25,90,58,33,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,6,6,4,1,4
+UBC,2015,W,APSC,100,,101,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",192,82.08,5.41,93,45,190,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,11,28,78,60,10
+UBC,2015,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",193,80.28,7.53,92,41,188,4,1,0,0,0,0,0,0,4,4,1,0,0,1,7,13,30,82,52,2
+UBC,2015,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",242,80.49,5.89,90,48,237,1,3,0,1,0,0,0,0,1,1,1,0,1,3,9,23,47,79,67,7
+UBC,2015,W,APSC,100,,104,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",198,80.37,6.91,90,32,195,2,0,0,1,0,0,0,1,1,2,1,0,1,1,7,16,35,78,49,7
+UBC,2015,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yan, Joseph;Yonemitsu, Noboru",144,78.83,9.06,94,32,141,3,0,0,0,0,0,0,2,1,3,2,0,1,3,8,14,32,43,32,6
+UBC,2015,W,APSC,101,,202,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nazhat, Yahya;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",177,78.5,8.93,94,34,171,5,1,0,0,0,0,0,2,3,5,0,0,2,4,15,24,28,52,36,10
+UBC,2015,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya",273,79.4,9.04,94,29,260,9,2,0,2,0,0,1,1,7,9,0,2,1,3,15,23,53,82,65,16
+UBC,2015,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",153,77.36,9.46,93,25,147,4,1,0,1,0,0,1,0,3,4,2,0,4,6,9,17,39,39,26,5
+UBC,2015,W,MTRL,467,,201,ENG PROJECT II,"Fernlund, Goran;Ko, Frank;Militzer, Matthias;Xia, Guangrui",28,80.46,7.47,90,67,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,3,7,8,2
+UBC,2015,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",22,72.82,7.63,86,52,22,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,7,4,2,1,0
+UBC,2015,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",5,83.2,8.7,95,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2
+UBC,2016,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter",201,80.2,9.29,96,21,196,3,1,0,1,0,0,2,0,1,3,2,0,4,5,7,17,25,63,59,14
+UBC,2016,W,APSC,101,,202,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",200,75.16,10.21,91,16,191,8,1,0,0,0,1,0,1,6,8,1,3,5,12,21,32,37,53,23,4
+UBC,2016,W,APSC,101,,203,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter;Yadav, Vikramaditya",188,74.43,9.66,92,39,182,5,1,0,0,0,0,0,1,4,5,3,6,5,15,18,33,41,36,18,7
+UBC,2016,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran",252,73.44,11.96,98,19,240,10,0,0,2,0,1,0,1,8,10,7,11,18,22,32,32,35,36,33,14
+UBC,2016,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",39,71.95,13.61,94,25,36,1,0,0,2,0,0,1,0,0,1,1,6,1,4,4,4,5,4,5,2
+UBC,2016,W,MTRL,517,,101,STDIES MTRL MANU,"Fernlund, Goran;Maijer, Daan;Poole, Warren;Poursartip, Anoshiravan",5,90,0,90,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2016,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",12,86,5.81,95,76,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,6,2
+UBC,2017,W,APSC,100,,104,INTRO TO ENG I,"Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter",208,77.97,9.45,96,37,201,4,2,0,1,0,0,0,1,3,4,1,1,8,7,18,25,40,47,31,23
+UBC,2017,W,APSC,101,,202,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter",203,73.89,11.03,95,40,189,9,2,0,3,0,0,0,0,9,9,5,5,10,14,25,28,32,39,22,9
+UBC,2017,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Ostafichuk, Peter;Yonemitsu, Noboru",198,74.24,9.47,91,33,190,7,0,0,1,0,0,0,2,5,7,1,4,7,17,23,35,38,44,18,3
+UBC,2017,W,APSC,101,,204,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter",185,72.17,11.25,95,28,176,7,1,0,1,0,0,1,3,3,7,8,7,13,15,18,29,32,39,11,4
+UBC,2017,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran;Nakane, Jonathan",242,70.24,11.91,98,40,232,8,2,0,0,0,0,0,0,8,8,15,17,30,31,35,23,31,19,19,12
+UBC,2017,W,MTRL,467,,201,ENG PROJECT II,"Cockcroft, Steven;Fernlund, Goran;Troczynski, Tom;Wassink, Berend",39,76.79,5.77,88,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,6,10,10,3,0
+UBC,2017,W,MTRL,485,,101,FAILURE OF MTRLS,"Fernlund, Goran",28,72.04,5.79,88,65,28,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,5,6,1,1,0
+UBC,2017,W,MTRL,517,,101,STDIES MTRL MANU,"Fernlund, Goran",7,82,0,82,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+UBC,2017,W,MTRL,585,,101,TOPICS FRAC MECH,"Fernlund, Goran",12,79.67,9.22,94,68,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,0,3,2
+UBCV,2014,W,APSC,278,,201,Engineering Materials,Goran Fernlund;Jianbin Zhao;Kush Shah;Shiwei Ji,196,71.62244898,11.91294517,95.0,23.0,,,,,,,,,,,7,7,17,12,17,25,27,39,22,14,9
+UBCV,2014,W,MTRL,467,,201,Engineering Project II,Anoshiravan Poursartip;Edouard Asselin;Goran Fernlund;Steven Cockcroft,48,76.0625,9.902516873,90.0,50.0,,,,,,,,,,,0,,,,,6,7,8,7,11,
+UBCV,2014,W,MTRL,485,,101,Failure of Materials,Goran Fernlund,33,75.36363636,8.253098592,90.0,58.0,,,,,,,,,,,0,0,,,,7,6,6,,,
+UBCV,2015,W,APSC,100,,101,Introduction to Engineering I,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Joseph Yan;Naoko Ellis;Peter Ostafichuk;Susan Nesbit;Vikramaditya Yadav;Yahya Nazhat,191,82.078534031,5.406536974,93.0,45.0,,,,,,,,,,,,,,,,1,11,28,78,60,10
+UBCV,2015,W,APSC,100,,102,Introduction to Engineering I,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Joseph Yan;Naoko Ellis;Peter Ostafichuk;Susan Nesbit;Vikramaditya Yadav;Yahya Nazhat,192,80.28125,7.528240896,92.0,41.0,,,,,,,,,,,,,,,,7,13,30,82,52,2
+UBCV,2015,W,APSC,100,,103,Introduction to Engineering I,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Naoko Ellis;Peter Ostafichuk;Vikramaditya Yadav,239,80.234309623,7.097424868,90.0,19.0,,,,,,,,,,,,,,,,9,23,47,79,67,7
+UBCV,2015,W,APSC,100,,104,Introduction to Engineering I,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Joseph Yan;Naoko Ellis;Peter Ostafichuk;Susan Nesbit;Vikramaditya Yadav;Yahya Nazhat,199,79.557788945,10.576103574,90.0,0.0,,,,,,,,,,,,,,,,7,16,35,78,49,7
+UBCV,2015,W,APSC,101,,201,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Joseph Yan;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk;Sheryl Staub-French;Susan Nesbit,144,78.826388889,9.063358847,94.0,32.0,,,,,,,,,,,3,,,,,8,14,32,43,32,6
+UBCV,2015,W,APSC,101,,202,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Joseph Yan;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk;Sheryl Staub-French;Vikramaditya Yadav;Yahya Nazhat,177,78.056497175,10.683843747,94.0,0.0,,,,,,,,,,,6,,,,,15,24,28,52,36,10
+UBCV,2015,W,APSC,101,,203,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk;Sheryl Staub-French;Susan Nesbit;Vikramaditya Yadav,271,78.881918819,10.849854309,94.0,0.0,,,,,,,,,,,11,,,,,15,23,53,82,65,16
+UBCV,2015,W,APSC,101,,204,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Joseph Yan;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk;Sheryl Staub-French;Susan Nesbit;Vikramaditya Yadav;Yahya Nazhat,152,76.848684211,11.326438548,93.0,0.0,,,,,,,,,,,5,,,,6,9,17,39,39,26,5
+UBCV,2015,W,MTRL,467,,201,Engineering Project II,Edouard Asselin;Frank Ko;Goran Fernlund;Guangrui Xia;Matthias Militzer,28,80.464285714,7.470842795,90.0,67.0,,,,,,,,,,,0,0,0,0,,5,,,7,8,
+UBCV,2015,W,MTRL,485,,101,Failure of Materials,Goran Fernlund;Ibrahim Gadala;Ibrahim Mohamed Gadala,22,72.818181818,7.632239662,86.0,52.0,,,,,,,,,,,0,,,,,6,7,,,,0
+UBCV,2015,W,MTRL,585,,101,Topics in Fracture Mechanics,Goran Fernlund,5,83.2,8.700574694,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2016,W,APSC,100,,102,Introduction to Engineering I,Alice Lam;Arian Amirkeyvan;Carol Patricia Jaeger;Goran Fernlund;Hoda Ahmadi;Naoko Ellis;Peter Ostafichuk,200,79.925,10.02857099,96.0,21.0,,,,,,,,,,,4,2,0,4,5,7,17,25,63,59,14
+UBCV,2016,W,APSC,101,,202,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Peter Ostafichuk;Vikramaditya Yadav,199,75.15577889,10.20748657,91.0,16.0,,,,,,,,,,,8,1,3,5,12,21,32,37,53,23,4
+UBCV,2016,W,APSC,101,,203,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Peter Ostafichuk;Vikramaditya Yadav,187,74.43315508,9.664232481,92.0,39.0,,,,,,,,,,,5,3,6,5,15,18,33,41,36,18,7
+UBCV,2016,W,APSC,278,,201,Engineering Materials,Goran Fernlund,252,72.98015873,12.96100508,98.0,15.0,,,,,,,,,,,12,7,11,18,22,32,32,35,36,33,14
+UBCV,2016,W,MTRL,485,,101,Failure of Materials,Goran Fernlund;Seyyed Mohammad Mohseni,39,70.56410256,14.55623374,94.0,25.0,,,,,,,,,,,3,1,6,1,4,4,4,5,4,5,2
+UBCV,2016,W,MTRL,585,,101,Topics in Fracture Mechanics,Goran Fernlund;Seyyed Mohammad Mohseni,11,86.0,5.813776741,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,6,2
+UBCV,2017,W,APSC,100,,101,Introduction to Engineering I,Carol Patricia Jaeger;Goran Fernlund;Michael Friedlander;Peter Ostafichuk;Susan Nesbit,258,77.259689922,11.877716896,97.0,0.0,,,,,,,,,,,8,2,2,3,10,13,36,54,70,45,15
+UBCV,2017,W,APSC,100,,102,Introduction to Engineering I,Carol Patricia Jaeger;Gabriel Potvin;Goran Fernlund;Peter Ostafichuk;Sheryl Staub-French,196,79.397959184,10.178146318,94.0,0.0,,,,,,,,,,,3,0,1,4,6,9,19,25,70,45,14
+UBCV,2017,W,APSC,100,,103,Introduction to Engineering I,Carl Ollivier-Gooch;Carol Patricia Jaeger;Goran Fernlund;Naoko Ellis;Peter Ostafichuk,178,76.696629213,9.663145076,93.0,27.0,,,,,,,,,,,4,2,2,4,12,15,24,29,49,28,9
+UBCV,2017,W,APSC,100,,104,Introduction to Engineering I,Carol Patricia Jaeger;Erin Robb;Goran Fernlund;Michael Friedlander;Peter Ostafichuk,206,77.733009709,10.024437344,96.0,29.0,,,,,,,,,,,5,1,1,8,7,18,25,40,47,31,23
+UBCV,2017,W,APSC,101,,201,Introduction to Engineering II,Carol Patricia Jaeger;Gabriel Potvin;Goran Fernlund;Noboru Yonemitsu;Peter Ostafichuk,219,71.9543379,9.893827048,94.0,18.0,,,,,,,,,,,6,7,5,12,19,31,56,39,33,9,2
+UBCV,2017,W,APSC,101,,202,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Peter Ostafichuk,201,72.875621891,13.767332811,95.0,0.0,,,,,,,,,,,12,5,5,10,14,25,28,32,39,22,9
+UBCV,2017,W,APSC,101,,203,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk,198,74.207070707,9.458031825,91.0,33.0,,,,,,,,,,,7,1,4,7,17,24,35,38,44,18,3
+UBCV,2017,W,APSC,101,,204,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Naoko Ellis;Peter Ostafichuk,184,71.782608696,12.414363343,95.0,0.0,,,,,,,,,,,8,8,7,13,15,18,29,32,39,11,4
+UBCV,2017,W,APSC,278,,201,Engineering Materials,Anoshiravan Poursartip;Goran Fernlund;Jonathan Nakane;K Ezra Kwok,240,70.241666667,11.914265444,98.0,40.0,,,,,,,,,,,8,15,17,30,31,35,23,31,19,19,12
+UBCV,2017,W,MTRL,252,,201,Thermodynamics of Materials I,Ali Hosseinpour;Goran Fernlund;Leili Tafaghodikhajavi,62,63.5,14.208921234,100.0,17.0,,,,,,,,,,,6,11,6,5,9,7,7,4,5,1,1
+UBCV,2017,W,MTRL,264,,201,Transport Phenomena II - Heat Transport,Goran Fernlund;Seyed Mohamadjavad Mirazimi;Wenying Liu,60,64.666666667,13.663841516,86.0,12.0,,,,,,,,,,,5,6,4,9,9,7,11,2,5,2,0
+UBCV,2017,W,MTRL,467,,201,Engineering Project II,Berend Wassink;Daan Maijer;Goran Fernlund;Hamed Karimi Sharif;Matthias Militzer;Steven Cockcroft;Tom Troczynski,39,76.794871795,5.772801414,88.0,67.0,,,,,,,,,,,0,0,0,0,2,8,6,10,10,3,0
+UBCV,2017,W,MTRL,485,,101,Failure of Materials,Duncan Pawson;Goran Fernlund,28,72.035714286,5.789403749,88.0,65.0,,,,,,,,,,,0,0,0,0,7,8,5,6,1,1,0
+UBCV,2017,W,MTRL,517,,101,Case Studies in Advanced Materials Manufacturing,Anoshiravan Poursartip;Daan Maijer;Goran Fernlund;Warren Poole,7,82.0,0.0,82.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,0,0
+UBCV,2017,W,MTRL,585,,101,Topics in Fracture Mechanics,Goran Fernlund,12,79.666666667,9.217900898,94.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,2,0,3,2
+UBCV,2018,W,MTRL,467,,201,Engineering Project II,Berend Wassink;Goran Fernlund;Jonathan Nakane;Matthias Militzer;Rebecca Schaller;Steven Cockcroft;Tom Troczynski;Wenying Liu,68,82.897058824,6.828692115,94.0,55.0,,,,,,,,,,,0,0,1,0,0,2,5,8,27,9,16
+UBCV,2018,W,MTRL,485,,101,Failure of Materials,Duncan Pawson;Goran Fernlund;Navid Zobeiry,47,78.85106383,7.342487209,92.0,65.0,,,,,,,,,,,0,0,0,0,3,6,5,10,9,8,6
+UBCV,2019,W,MTRL,485,,101,Failure of Materials,Goran Fernlund;Naveen Sundaresan  Ramesh;Navid Zobeiry,51,71.392156863,11.079852763,95.0,51.0,,,,,,,,,,,0,1,6,6,8,5,3,8,7,2,4
+UBCV,2020,W,MTRL,485,,101,Failure of Materials,Farhad Rahimi;Farzaneh Farhang Mehr;Goran Fernlund,19,71.789473684,7.878091614,87.0,58.0,,,,,,,,,,,0,0,2,0,4,5,2,2,3,1,0

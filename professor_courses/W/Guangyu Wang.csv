@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CONS,503,C,101,TPS CONSERVATION,"Wang, Guangyu",7,88,4.8,95,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,,,
+UBCV,2018,W,CONS,503,C,101,Topics in Conservation,Guangyu Wang,7,88.0,4.795831523,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,2,,,
+UBCV,2020,S,FRST,449,C,923,Directed Studies in Forestry,Guangyu Wang,15,88.866666667,5.604420024,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,9,,,
+UBCV,2020,W,CONS,506,,201,Forest Conservation in Asia: Challenges and Opportunities,Guangyu Wang,6,92.166666667,2.228601953,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2022,S,CONS,449,C,921,Directed Studies in Natural Resources Conservation,Guangyu Wang,12,87.6,,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,1,0,4,6,90.5,92.0,87.5
+UBCV,2022,W,FRST,439,,201,International Forestry,Guangyu Wang,52,86.3,,94.0,57.0,,,,,,,,,,,0,0,1,1,0,0,0,0,10,28,12,87.5,89.0,85.8
+UBCV,2023,W,FRST,439,,101,International Forestry,Guangyu Wang,49,85.7,,95.0,48.0,,,,,,,,,,,1,0,0,0,0,1,1,4,10,17,15,87.0,91.0,84.0

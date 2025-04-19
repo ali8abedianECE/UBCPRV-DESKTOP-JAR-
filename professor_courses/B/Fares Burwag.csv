@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,BIOL,121,,223,"Genetics, Evolution and Ecology",Dirk Vande Pol;Fares Burwag;Leisl Brewster;Lynn Norman,210,82.238095238,12.131278572,98.0,0.0,4,1,0,2,7,9,18,20,44,56,49
+UBCV,2021,W,DSCI,100,,006,Introduction to Data Science,Ding Ma;Fares Burwag;Le Quan Nguyen;Prayus Shrestha;Ruixin Yang,171,84.391812865,10.318671979,97.0,25.0,4,0,0,0,0,4,9,20,32,45,57
+UBCV,2021,W,DSCI,100,,007,Introduction to Data Science,Fares Burwag;Jingxin Lei;Michael Davis;Nour (Noureldein Ahmed Sa Hanafi;Ruixin Yang;Simon (Yongyuan) Liang,163,81.251533742,11.25372013,99.0,17.0,4,1,0,3,4,7,17,26,26,39,36

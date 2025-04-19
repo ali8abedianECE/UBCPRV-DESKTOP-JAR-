@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,STAT,305,,101,INT STAT INFERNC,"Krupskiy, Pavel",130,80.5,14.43,100,38,125,4,0,0,1,0,0,0,2,2,4,4,3,5,8,9,10,7,18,19,42
+UBC,2017,W,STAT,305,,202,INT STAT INFERNC,"Krupskiy, Pavel",142,80.73,13.94,100,22,136,3,3,0,0,0,0,2,0,1,3,1,7,4,6,12,8,18,13,23,44
+UBCV,2017,W,STAT,305,,101,Introduction to Statistical Inference,Pavel Krupskiy,130,79.907692308,15.898635383,100.0,3.0,,,,,,,,,,,5,4,3,5,8,9,10,7,18,19,42
+UBCV,2017,W,STAT,305,,202,Introduction to Statistical Inference,Gilberto Alexi Rodriguez-Arelis;Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Gilberto Rodriguez-Arelis;Jonathan Steif;Pavel Krupskiy;Sonja Surjanovic;Xin Ding,139,80.726618705,13.944406055,100.0,22.0,,,,,,,,,,,3,1,7,4,6,12,8,18,13,23,44
+UBCV,2018,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Paul Pavlidis;Pavel Krupskiy;Sara Mostafavi,18,90.055555556,9.232119266,100.0,56.0,,,,,,,,,,,0,0,,,,,,,,4,13
+UBCV,2018,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Paul Pavlidis;Pavel Krupskiy;Sara Mostafavi,9,86.666666667,9.539392014,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,2,5
+UBCV,2018,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Paul Pavlidis;Pavel Krupskiy;Sara Mostafavi,31,93.64516129,3.332150328,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,29
+UBCV,2020,W,STAT,200,,101,Elementary Statistics for Applications,Dexter Kim;Dexter Ronald Kim;Jacob Chen;Jonathan Agyeman;Li Zha;Linkun Chen;Meiying Ding;Melissa Lee;Pavel Krupskiy;Rodolfo Lourenzutti;Samuel Ip;Sarah Li;Xiaohua Gao;Yang Qu;Zining Wang,368,79.861413043,11.894854069,99.0,0.0,,,,,,,,,,,4,4,10,8,14,26,39,47,74,73,69

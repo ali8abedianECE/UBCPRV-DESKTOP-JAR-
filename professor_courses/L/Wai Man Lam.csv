@@ -1,0 +1,64 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CNTO,311,,005,BSC CNTO MDRN SP,"Lam, Wai Man",29,77.83,8.67,88,51,29,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,3,2,10,7,0,,,
+UBC,2018,W,CNTO,311,,006,BSC CNTO MDRN SP,"Lam, Wai Man",30,79.43,8.14,93,54,30,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,6,2,12,4,3,,,
+UBC,2018,W,CNTO,311,,007,BSC CNTO MDRN SP,"Lam, Wai Man",29,77.32,7.91,92,55,28,0,1,0,0,0,0,0,0,0,0,0,1,0,1,4,6,5,5,5,1,,,
+UBC,2018,W,CNTO,311,,008,BSC CNTO MDRN SP,"Lam, Wai Man",29,80.9,7.93,97,66,29,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,6,5,6,5,,,
+UBCV,2015,W,LING,100,,001,Introduction to Language and Linguistics,Hotze Rullmann;Samuel Akinbo;Samuel K Akinbo;Thomas Heins;Wai Man Lam,271,77.118081181,11.572672377,93.0,0.0,,,,,,,,,,,7,2,4,10,10,19,39,41,80,45,14,,,
+UBCV,2016,W,LING,100,,001,Introduction to Language and Linguistics,Alexandra Bosurgi;Hotze Rullmann;Samuel Akinbo;Samuel K Akinbo;Wai Man Lam,171,76.50292398,7.965642597,94.0,48.0,,,,,,,,,,,1,1,1,7,14,19,26,38,36,25,3,,,
+UBCV,2017,W,LING,100,,001,Introduction to Language and Linguistics,Hotze Rullmann;Joash Gambarage;Joash Gambarage Johannes;Joash Johannes;Oksana Tkachman;Wai Man Lam,171,75.052631579,9.67608523,92.0,24.0,,,,,,,,,,,3,1,4,9,15,24,27,29,31,23,5,,,
+UBCV,2017,W,LING,100,,003,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Geoff Fullerton;James Mackie;James Scott Mackie;Samuel Akinbo;Samuel K Akinbo;Wai Man Lam,162,77.62345679,11.871996087,96.0,0.0,,,,,,,,,,,2,0,4,7,7,12,20,29,42,26,13,,,
+UBCV,2018,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,29,77.827586207,8.668782109,88.0,51.0,,,,,,,,,,,0,1,0,1,1,4,3,2,10,7,0,,,
+UBCV,2018,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,30,79.433333333,8.139657425,93.0,54.0,,,,,,,,,,,0,1,0,1,0,1,6,2,12,4,3,,,
+UBCV,2018,W,CNTO,311,,007,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,28,77.321428571,7.911798838,92.0,55.0,,,,,,,,,,,0,0,1,0,1,4,6,5,5,5,1,,,
+UBCV,2018,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,29,80.896551724,7.925297775,97.0,66.0,,,,,,,,,,,0,0,0,0,2,2,3,6,5,6,5,,,
+UBCV,2018,W,LING,100,,003,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Alexandra Bosurgi;Emanuela Mileva;Hotze Rullmann;Neda Todorovic;Oksana Tkachman;Stephanie Chung;Wai Man Lam,178,78.415730337,10.619041621,93.0,3.0,,,,,,,,,,,2,1,3,5,9,13,21,33,35,42,14,,,
+UBCV,2019,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Kit Pai;Kwan Yi Cheung;Kwan Yi Queenie Cheung;Qian Wang;Wai Man Lam,29,76.655172414,10.251396637,93.0,60.0,,,,,,,,,,,0,0,0,6,1,3,2,3,7,4,3,,,
+UBCV,2019,S,CNTO,311,,952,Basic Cantonese for Mandarin Speakers,Kristy Chan;Kwan Yi Cheung;Qian Wang;Wai Man Lam,29,78.413793103,8.978216659,92.0,57.0,,,,,,,,,,,0,0,1,1,1,3,3,7,5,5,3,,,
+UBCV,2019,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Kristy Chan;Qian Wang;Ruo Xi Yin;Wai Man Lam,14,82.5,8.942121586,93.0,65.0,,,,,,,,,,,0,0,0,0,2,0,0,3,2,4,3,,,
+UBCV,2019,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Qian Wang;Stephanie Wong;Wai Man Lam;Yik Nam Yuen,7,84.428571429,8.017837257,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,2,2,,,
+UBCV,2019,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Kristy Chan;Qian Wang;Ruo Xi Yin;Wai Man Lam,30,76.6,16.348784622,91.0,0.0,,,,,,,,,,,1,0,1,1,0,1,4,8,8,2,4,,,
+UBCV,2019,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Kristy Chan;Qian Wang;Ruo Xi Yin;Wai Man Lam,27,77.814814815,10.788302201,95.0,47.0,,,,,,,,,,,1,0,0,2,1,3,3,3,6,6,2,,,
+UBCV,2019,W,CNTO,311,,007,Basic Cantonese for Mandarin Speakers,Qian Wang;Wai Man Lam;Yik Nam Yuen,25,76.48,9.152048951,90.0,56.0,,,,,,,,,,,0,0,2,1,0,3,5,6,3,3,2,,,
+UBCV,2019,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Qian Wang;Stephanie Wong;Wai Man Lam,28,81.357142857,7.607083861,92.0,59.0,,,,,,,,,,,0,0,1,0,0,2,3,2,8,10,2,,,
+UBCV,2020,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Bianca Chui;Wai Man Lam,29,83.379310345,17.111845924,94.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,1,7,8,10,,,
+UBCV,2020,S,CNTO,311,,952,Basic Cantonese for Mandarin Speakers,Wai Man Lam;Yik Nam Yuen,29,81.862068966,7.150045644,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,3,11,4,5,,,
+UBCV,2020,S,LING,100,,001,Introduction to Language and Linguistics,Amanda Cardoso;Samuel Akinbo;Wai Man Lam;Yurika Aonuki,75,79.426666667,10.089027132,97.0,57.0,,,,,,,,,,,0,0,4,2,4,4,11,11,10,13,16,,,
+UBCV,2020,W,CNTO,301,,001,Basic Cantonese I,Keer Tang;Wai Man Lam,22,86.090909091,5.681290019,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,7,4,8,,,
+UBCV,2020,W,CNTO,303,,001,Basic Cantonese II,Wai Man Lam;Yik Nam Yuen,12,84.25,4.371914496,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,4,2,,,
+UBCV,2020,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Bianca Chui;Wai Man Lam,25,77.52,12.220611005,95.0,34.0,,,,,,,,,,,1,0,1,0,0,1,6,6,4,2,4,,,
+UBCV,2020,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Wai Man Lam;Yi Lin,27,79.259259259,8.122109392,95.0,58.0,,,,,,,,,,,0,0,1,1,0,2,3,4,9,6,1,,,
+UBCV,2020,W,CNTO,311,,007,Basic Cantonese for Mandarin Speakers,Liam Doherty;Sonija Leung;Wai Man Lam,30,78.833333333,8.489682717,91.0,60.0,,,,,,,,,,,0,0,0,3,1,2,2,3,12,5,2,,,
+UBCV,2020,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Liam Doherty;Sonija Leung;Wai Man Lam,27,77.444444444,17.574748785,93.0,0.0,,,,,,,,,,,1,0,0,0,2,4,2,4,5,4,5,,,
+UBCV,2021,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Tsz Yan Kung;Wai Man Lam;Yi Lin,23,80.173913043,8.194522416,93.0,62.0,,,,,,,,,,,0,0,0,1,1,2,1,4,7,3,4,,,
+UBCV,2021,S,CNTO,311,,952,Basic Cantonese for Mandarin Speakers,Tsz Yan Kung;Wai Man Lam;Yi Lin,30,81.366666667,7.558887591,94.0,64.0,,,,,,,,,,,0,0,0,0,2,1,3,4,11,4,5,,,
+UBCV,2021,W,CNTO,301,,001,Basic Cantonese I,Rachel Wong;Wai Man Lam,15,83.4,6.884765791,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,3,4,3,,,
+UBCV,2021,W,CNTO,303,,001,Basic Cantonese II,Wai Man Lam,8,82.25,11.348379368,94.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,1,1,3,,,
+UBCV,2021,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Wai Man Lam;Yik Nam Yuen,27,81.888888889,5.93771086,92.0,66.0,,,,,,,,,,,0,0,0,0,2,0,0,5,10,9,1,,,
+UBCV,2021,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Katherine Lee;Kit Pai;Wai Man Lam;Yi Lin,29,80.275862069,7.864461437,96.0,56.0,,,,,,,,,,,0,0,1,0,1,1,3,3,13,5,2,,,
+UBCV,2021,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Liam Doherty;Sonija Leung;Wai Man Lam,28,76.571428571,16.980225038,91.0,0.0,,,,,,,,,,,1,0,1,0,2,2,1,3,10,7,1,,,
+UBCV,2021,W,CNTO,311,,010,Basic Cantonese for Mandarin Speakers,Katherine Lee;Wai Man Lam;Yi Lin,30,82.533333333,8.398412548,93.0,54.0,,,,,,,,,,,0,1,0,0,1,1,1,4,10,6,6,,,
+UBCV,2021,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Rachel Wong;Wai Man Lam,22,83.545454545,6.284730344,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,4,7,5,5,,,
+UBCV,2021,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Wai Man Lam,23,80.2,,93.0,62.0,,,,,,,,,,,,,,,,,,,7,,,81.0,85.5,78.5
+UBCV,2021,S,CNTO,311,,952,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,81.4,,94.0,64.0,,,,,,,,,,,,,,,,,,,11,,,82.5,86.8,77.0
+UBCV,2021,W,CNTO,301,,001,Basic Cantonese I,Wai Man Lam,15,83.4,,93.0,70.0,,,,,,,,,,,,,,,,,,,,,,84.0,88.0,77.5
+UBCV,2021,W,CNTO,303,,001,Basic Cantonese II,Wai Man Lam,8,82.3,,94.0,60.0,,,,,,,,,,,,,,,,,,,,,,85.0,90.5,76.5
+UBCV,2021,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Wai Man Lam,27,81.9,,92.0,66.0,,,,,,,,,,,,,,,,,,,10,9,,83.0,86.0,79.5
+UBCV,2021,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Wai Man Lam,29,80.3,,96.0,56.0,,,,,,,,,,,,,,,,,,,13,,,81.0,84.0,77.0
+UBCV,2021,W,CNTO,311,,010,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,82.5,,93.0,54.0,,,,,,,,,,,,,,,,,,,10,6,6,84.0,87.8,79.3
+UBCV,2021,W,CNTO,401,,001,Intermediate Cantonese I,Wai Man Lam,22,83.5,,94.0,69.0,,,,,,,,,,,,,,,,,,,7,,,83.5,86.8,80.0
+UBCV,2022,S,CNTO,311,,921,Basic Cantonese for Mandarin Speakers,Wai Man Lam,22,83.3,,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,5,4,5,5,83.0,89.0,78.0
+UBCV,2022,S,CNTO,311,,922,Basic Cantonese for Mandarin Speakers,Wai Man Lam,25,80.4,,94.0,68.0,,,,,,,,,,,0,0,0,0,0,3,4,2,10,4,2,82.0,84.0,74.0
+UBCV,2022,W,CNTO,301,,001,Basic Cantonese I,Wai Man Lam,13,82.7,,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,3,5,1,83.0,87.0,79.0
+UBCV,2022,W,CNTO,303,,001,Basic Cantonese II,Wai Man Lam,8,80.1,,95.0,64.0,,,,,,,,,,,0,0,0,0,3,0,0,0,1,2,2,84.5,89.5,66.3
+UBCV,2022,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Wai Man Lam,29,82.9,,93.0,67.0,,,,,,,,,,,0,0,0,0,1,3,1,3,5,11,5,85.0,89.0,78.0
+UBCV,2022,W,CNTO,311,,009,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,81.6,,95.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,5,8,10,2,82.5,85.0,79.0
+UBCV,2022,W,CNTO,311,,010,Basic Cantonese for Mandarin Speakers,Wai Man Lam,28,83.0,,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,5,2,9,6,5,84.0,87.3,77.8
+UBCV,2022,W,CNTO,311,,011,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,82.2,,92.0,64.0,,,,,,,,,,,0,0,0,0,1,2,2,4,8,8,5,83.0,88.8,77.0
+UBCV,2023,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Wai Man Lam,24,81.63,,92.0,66.0,,,,,,,,,,,0,0,0,0,1,3,0,4,6,6,4,83.0,87.0,76.75
+UBCV,2023,S,CNTO,311,,952,Basic Cantonese for Mandarin Speakers,Wai Man Lam,18,85.67,,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,6,7,86.5,90.0,83.5
+UBCV,2023,W,CNTO,301,,011,Basic Cantonese I,Wai Man Lam,19,84.59,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,3,5,5,86.0,91.0,80.0
+UBCV,2023,W,CNTO,303,,021,Basic Cantonese II,Wai Man Lam,11,83.64,,92.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,0,3,4,2,86.0,89.0,81.5
+UBCV,2023,W,CNTO,311,,011,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,84.7,,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,9,9,6,85.0,89.0,80.25
+UBCV,2023,W,CNTO,311,,012,Basic Cantonese for Mandarin Speakers,Wai Man Lam,29,79.39,,91.0,63.0,,,,,,,,,,,0,0,0,1,0,4,2,6,7,7,1,80.5,86.0,76.5
+UBCV,2023,W,CNTO,311,,021,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,83.3,,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,4,10,11,3,83.0,87.0,80.25
+UBCV,2023,W,CNTO,311,,022,Basic Cantonese for Mandarin Speakers,Wai Man Lam,30,79.76,,92.0,0.0,,,,,,,,,,,1,0,0,0,3,0,1,2,9,11,2,84.0,86.0,82.0

@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,BIOL,260,,201,FUND PHYSIOLOGY,"Lee, Jae-Hyeok;Schulte, Patricia",249,73.82,9.43,94,44,246,1,2,0,0,0,0,0,0,1,1,9,13,10,26,33,37,34,56,22,6
+UBC,2011,W,BIOL,260,,202,FUND PHYSIOLOGY,"Lee, Jae-Hyeok;Schulte, Patricia",183,74.87,9.95,95,41,177,1,4,0,1,0,0,0,0,1,1,4,7,13,19,19,21,19,49,16,10
+UBC,2012,W,BIOL,260,,201,FUND PHYSIOLOGY,"Lee, Jae-Hyeok;Schulte, Patricia",272,73.65,12.55,95,34,262,9,1,0,0,0,0,0,5,4,9,14,16,20,17,31,17,38,56,39,14
+UBC,2012,W,BIOL,260,,202,FUND PHYSIOLOGY,"Lee, Jae-Hyeok;Schulte, Patricia",238,72.01,11.36,99,29,226,7,1,0,4,0,0,1,2,4,7,10,12,17,23,33,40,26,38,21,6
+UBC,2013,W,BIOL,436,,101,INTEG FUNC GENOM,"Lee, Jae-Hyeok",21,80.65,9.95,93,51,20,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,9,4,3
+UBC,2014,W,BIOL,436,,201,INTEG FUNC GENOM,"Adams, Keith;Lee, Jae-Hyeok",24,75.75,12.41,97,53,24,0,0,0,0,0,0,0,0,0,0,1,1,4,2,0,1,4,6,2,3
+UBC,2015,W,BIOL,436,,101,INTEG FUNC GENOM,"Lee, Jae-Hyeok",15,83.43,7.96,96,68,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,2,4
+UBC,2015,W,BIOL,448,J,201,DIRECTED STUDIES,"Adams, Keith;Lee, Jae-Hyeok",17,75.47,9.96,92,60,17,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,2,4,3,2,1
+UBC,2016,W,BIOL,338,,201,INTRO GENOMICS,"Adams, Keith;Lee, Jae-Hyeok",59,73.73,12.33,96,41,57,2,0,0,0,0,0,0,0,2,2,1,4,7,4,6,9,5,6,9,6
+UBC,2016,W,BIOL,436,,101,INTEG FUNC GENOM,"Lee, Jae-Hyeok",10,81.6,10.54,89,53,10,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,3,0
+UBC,2017,W,BIOL,338,,201,INTRO GENOMICS,"Adams, Keith;Lee, Jae-Hyeok",63,74.23,13.06,94,37,59,3,0,1,0,0,0,0,1,2,3,4,3,2,4,1,11,6,15,9,4
+UBC,2017,W,BIOL,436,,101,INTEG FUNC GENOM,"Lee, Jae-Hyeok",23,84.05,9.27,98,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,2,7,6
+UBC,2018,W,BIOL,338,,201,INTRO GENOMICS,"Adams, Keith;Lee, Jae-Hyeok",71,77.84,12.49,95,47,69,1,1,0,0,0,0,0,0,1,1,4,3,4,1,3,10,10,7,12,15
+UBC,2018,W,BIOL,436,,101,INTEG FUNC GENOM,"Lee, Jae-Hyeok",8,89.25,3.06,93,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBCV,2014,W,BIOL,436,,201,Integrated Functional Genomics,Jae-Hyeok Lee;Keith Adams,24,75.75,12.40704568,97.0,53.0,,,,,,,,,,,0,,,,,,,,6,,
+UBCV,2015,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee,14,83.428571429,7.958684523,96.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,
+UBCV,2015,W,BIOL,448,J,201,Directed Studies in Biology,Jae-Hyeok Lee;Keith Adams,17,75.470588235,9.956892381,92.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,
+UBCV,2016,W,BIOL,338,,201,Introduction to Genomics,Jacob Alexander Munz;Jacob Munz;Jae-Hyeok Lee;Keith Adams,59,73.72881356,12.33138763,96.0,41.0,,,,,,,,,,,2,1,4,7,4,6,9,5,6,9,6
+UBCV,2016,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee,10,81.6,10.54303351,89.0,53.0,,,,,,,,,,,0,1,0,0,0,0,0,0,6,3,0
+UBCV,2017,W,BIOL,338,,201,Introduction to Genomics,Jacob Alexander Munz;Jacob Munz;Jae-Hyeok Lee;Keith Adams,62,74.225806452,13.056521962,94.0,37.0,,,,,,,,,,,3,4,3,2,4,1,11,6,15,9,4
+UBCV,2017,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee,22,84.045454545,9.265796153,98.0,66.0,,,,,,,,,,,0,0,0,0,2,0,2,3,2,7,6
+UBCV,2018,W,BIOL,338,,201,Introduction to Genomics,Jacob Alexander Munz;Jacob Munz;Jae-Hyeok Lee;Keith Adams,71,77.070422535,14.719592331,95.0,8.0,,,,,,,,,,,2,4,2,4,1,4,10,10,7,12,15
+UBCV,2018,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee;Nolan Jack Shelley;Nolan Shelley,8,89.25,3.058944729,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,3
+UBCV,2019,W,BIOL,338,,201,Introduction to Genomics,Jae-Hyeok Lee;Keith Adams;Tonya Severson,69,78.927536232,13.000360674,97.0,40.0,,,,,,,,,,,1,2,4,2,3,4,10,7,10,8,18
+UBCV,2019,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee;Nolan Jack Shelley;Nolan Shelley,22,81.818181818,11.142524138,95.0,55.0,,,,,,,,,,,0,0,1,1,1,1,2,2,2,6,6
+UBCV,2020,W,APBI,327,,001,Introduction to Entomology,Jae-Hyeok Lee;Matthew Tsuruda;Michelle Lim;Yasmin Akhtar;Zachary Melo,50,85.52,8.574380444,98.0,61.0,,,,,,,,,,,0,0,0,1,2,0,3,3,9,12,20
+UBCV,2020,W,BIOL,327,,101,Introduction to Entomology,Jae-Hyeok Lee;Shaheer Muhammad;Yasmin Akhtar,71,89.985915493,6.722017039,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,1,11,15,41
+UBCV,2020,W,BIOL,338,,201,Introduction to Genomics,Jae-Hyeok Lee;Keith Adams;Mariia Radaeva;Tonya Severson,65,72.815384615,11.727228343,95.0,35.0,,,,,,,,,,,2,1,6,2,11,5,9,6,12,9,2
+UBCV,2020,W,BIOL,436,,101,Integrated Functional Genomics,Jae-Hyeok Lee;Nolan Jack Shelley;Nolan Shelley,20,79.8,13.446189051,97.0,51.0,,,,,,,,,,,0,1,1,2,1,0,1,2,4,2,6
+UBCV,2021,W,BIOL,260,,201,Fundamentals of Physiology,Abel Rosado Rey;Anne Kim;Chelsey Gough;George Haughn;Jae-Hyeok Lee;Jasmin Wong;Miriam Fenniri;Patricia Schulte;Rachael Penman;Tessa Macaulay,292,78.328767123,14.539014742,97.0,18.0,,,,,,,,,,,14,3,8,7,12,21,15,39,42,70,61

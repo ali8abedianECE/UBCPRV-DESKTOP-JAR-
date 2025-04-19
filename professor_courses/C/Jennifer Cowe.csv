@@ -1,0 +1,73 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,WOOD,225,,203,COMMUNICTN STRAT,"Cowe, Jennifer",30,72.03,5.83,85,55,30,0,0,0,0,0,0,0,0,0,0,0,1,0,2,14,5,5,2,1,0,,,
+UBC,2017,W,WOOD,225,,204,COMMUNICTN STRAT,"Cowe, Jennifer",29,73.52,6.28,87,62,29,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,11,6,0,3,0,,,
+UBC,2017,W,WRDS,150,,03B,RSRCH&WRIT HUMAN,"Cowe, Jennifer",30,72.76,13.52,98,37,28,1,1,0,0,0,0,0,1,0,1,2,2,0,3,4,2,6,5,2,2,,,
+UBC,2017,W,WRDS,150,,06A,RSRCH&WRIT HUMAN,"Cowe, Jennifer",31,72.63,20.23,95,9,28,2,1,0,0,1,0,0,0,1,2,5,0,2,1,1,2,3,3,4,7,,,
+UBC,2017,W,WRDS,150,,11M,RSRCH&WRIT HUMAN,"Cowe, Jennifer",29,75.21,13.82,94,34,27,1,1,0,0,0,0,0,1,0,1,0,2,3,2,4,2,0,4,5,5,,,
+UBC,2017,W,WRDS,150,,12N,RSRCH&WRIT HUMAN,"Cowe, Jennifer",30,67.03,23.81,94,0,26,4,0,0,0,2,0,1,1,0,4,1,4,1,1,3,1,3,6,4,2,,,
+UBC,2018,S,WRDS,150,,J05,RSRCH&WRIT HUMAN,"Cowe, Jennifer",31,68.19,7.56,85,55,31,0,0,0,0,0,0,0,0,0,0,0,4,6,3,6,8,2,1,1,0,,,
+UBC,2018,W,GRSJ,224,B,101,GRSJ IN LIT,"Cowe, Jennifer",44,72.98,14.29,100,32,42,1,1,0,0,0,0,0,1,0,1,4,1,6,2,3,7,4,7,2,6,,,
+UBC,2018,W,WRDS,150,,04B,RSRCH&WRIT HUMAN,"Cowe, Jennifer",32,76.47,10.6,93,50,32,0,0,0,0,0,0,0,0,0,0,2,0,2,0,5,6,4,6,3,4,,,
+UBC,2018,W,WRDS,150,,06B,RSRCH&WRIT HUMAN,"Cowe, Jennifer",31,68,17.99,93,2,29,2,0,0,0,1,0,1,0,0,2,1,4,1,4,4,3,2,8,1,1,,,
+UBC,2018,W,WRDS,150,,06Q,RSRCH&WRIT HUMAN,"Cowe, Jennifer",30,69.79,13.18,97,38,27,2,1,0,0,0,0,0,1,1,2,2,2,1,2,7,3,5,2,1,2,,,
+UBC,2018,W,WRDS,150,,07A,RSRCH&WRIT HUMAN,"Cowe, Jennifer",32,72.5,15.68,93,28,28,2,1,0,1,0,0,1,1,0,2,1,3,2,1,4,0,3,8,4,2,,,
+UBC,2018,W,WRDS,150,,12P,RSRCH&WRIT HUMAN,"Cowe, Jennifer",31,72.5,23.13,98,0,28,2,1,0,0,2,0,0,0,0,2,2,0,3,0,4,3,5,1,5,5,,,
+UBCV,2017,W,WOOD,225,,203,Communications Strategies,Jennifer Cowe,30,72.033333333,5.833809504,85.0,55.0,,,,,,,,,,,0,0,1,0,2,14,5,5,2,1,0,,,
+UBCV,2017,W,WOOD,225,,204,Communications Strategies,Jennifer Cowe,29,73.517241379,6.277059649,87.0,62.0,,,,,,,,,,,0,0,0,3,2,4,11,6,0,3,0,,,
+UBCV,2017,W,WRDS,150,,03B,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,29,72.75862069,13.516273716,98.0,37.0,,,,,,,,,,,1,2,2,0,3,4,2,6,5,2,2,,,
+UBCV,2017,W,WRDS,150,,04B,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe;Thomas Jacob Bittner,31,65.225806452,26.387761908,98.0,0.0,,,,,,,,,,,5,0,1,5,1,6,1,0,5,4,3,,,
+UBCV,2017,W,WRDS,150,,06A,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,30,72.633333333,20.230539109,95.0,9.0,,,,,,,,,,,2,5,0,2,1,1,2,3,3,4,7,,,
+UBCV,2017,W,WRDS,150,,11M,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,28,75.214285714,13.817211872,94.0,34.0,,,,,,,,,,,1,0,2,3,2,4,2,0,4,5,5,,,
+UBCV,2017,W,WRDS,150,,12N,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,30,67.033333333,23.81463377,94.0,0.0,,,,,,,,,,,4,1,4,1,1,3,1,3,6,4,2,,,
+UBCV,2018,S,WRDS,150,,J05,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,31,68.193548387,7.560508602,85.0,55.0,,,,,,,,,,,0,0,4,6,3,6,8,2,1,1,0,,,
+UBCV,2018,W,GRSJ,224,B,101,"Gender, Race, Sexuality, and Social Justice in Literature",Jennifer Cowe,43,72.976744186,14.292003045,100.0,32.0,,,,,,,,,,,1,4,1,6,2,3,7,4,7,2,6,,,
+UBCV,2018,W,WRDS,150,,04B,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,32,76.46875,10.598187231,93.0,50.0,,,,,,,,,,,0,2,0,2,0,5,6,4,6,3,4,,,
+UBCV,2018,W,WRDS,150,,06B,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,31,68.0,17.985179084,93.0,2.0,,,,,,,,,,,2,1,4,1,4,4,3,2,8,1,1,,,
+UBCV,2018,W,WRDS,150,,06Q,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,29,69.793103448,13.181099321,97.0,38.0,,,,,,,,,,,2,2,2,1,2,7,3,5,2,1,2,,,
+UBCV,2018,W,WRDS,150,,07A,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,31,71.967741935,15.696037443,93.0,28.0,,,,,,,,,,,2,1,4,2,1,4,0,3,8,4,2,,,
+UBCV,2018,W,WRDS,150,,12P,Research and Writing in the Humanities and Social Sciences,Jennifer Cowe,30,72.5,23.133421113,98.0,0.0,,,,,,,,,,,2,2,0,3,0,4,3,5,1,5,5,,,
+UBCV,2019,S,WRDS,150,,554,Writing and Research in the Disciplines,Jennifer Cowe,30,71.966666667,9.908141318,96.0,53.0,,,,,,,,,,,0,1,2,4,5,5,0,6,4,2,1,,,
+UBCV,2019,W,WRDS,150,,05C,Writing and Research in the Disciplines,Jennifer Cowe,29,75.413793103,6.003078028,86.0,66.0,,,,,,,,,,,0,0,0,0,4,5,6,4,8,2,0,,,
+UBCV,2019,W,WRDS,150,,07A,Writing and Research in the Disciplines,Jennifer Cowe,30,72.266666667,11.999808428,89.0,36.0,,,,,,,,,,,2,0,1,0,3,6,6,4,6,2,0,,,
+UBCV,2019,W,WRDS,150,,08A,Writing and Research in the Disciplines,Jennifer Cowe,29,71.655172414,13.623183659,90.0,34.0,,,,,,,,,,,2,1,0,3,3,3,3,6,3,4,1,,,
+UBCV,2019,W,WRDS,150,,12M,Writing and Research in the Disciplines,Jennifer Cowe,27,71.62962963,6.69757791,84.0,56.0,,,,,,,,,,,0,0,1,2,5,6,6,3,4,0,0,,,
+UBCV,2019,W,WRDS,150,,14N,Writing and Research in the Disciplines,Jennifer Cowe,30,72.366666667,18.128817474,98.0,0.0,,,,,,,,,,,1,2,1,1,6,0,6,4,2,3,4,,,
+UBCV,2019,W,WRDS,150,,15M,Writing and Research in the Disciplines,Jennifer Cowe,27,72.851851852,15.366556352,100.0,46.0,,,,,,,,,,,3,1,1,3,0,4,4,4,2,1,4,,,
+UBCV,2019,W,WRDS,150,,632,Writing and Research in the Disciplines,Jennifer Cowe,30,70.4,15.559895399,94.0,0.0,,,,,,,,,,,1,0,2,1,7,2,3,8,5,0,1,,,
+UBCV,2020,S,WRDS,150,A,004,Writing and Research in the Disciplines,Jennifer Cowe,27,66.259259259,21.890624253,96.0,0.0,,,,,,,,,,,5,2,1,1,2,4,2,1,2,6,1,,,
+UBCV,2020,W,WRDS,150,A,143,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,27,75.333333333,13.433597376,98.0,40.0,,,,,,,,,,,1,1,1,1,2,2,4,6,3,2,4,,,
+UBCV,2020,W,WRDS,150,A,151,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,29,71.896551724,14.195937114,96.0,35.0,,,,,,,,,,,1,2,1,4,3,4,2,6,0,1,5,,,
+UBCV,2020,W,WRDS,150,A,332,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,25,68.12,19.90669904,92.0,0.0,,,,,,,,,,,2,0,4,1,4,3,1,3,4,0,3,,,
+UBCV,2020,W,WRDS,150,A,352,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,24,65.958333333,21.028922457,96.0,0.0,,,,,,,,,,,2,5,2,2,2,1,1,2,1,4,2,,,
+UBCV,2020,W,WRDS,150,A,361,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,21,69.238095238,17.69718837,92.0,37.0,,,,,,,,,,,4,1,2,1,0,2,3,0,2,5,1,,,
+UBCV,2020,W,WRDS,150,B,671,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,26,72.192307692,17.492899658,99.0,35.0,,,,,,,,,,,3,0,2,1,3,2,3,2,4,2,4,,,
+UBCV,2020,W,WRDS,150,B,682,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,27,78.555555556,9.771754166,100.0,55.0,,,,,,,,,,,0,0,2,0,0,2,7,2,8,3,3,,,
+UBCV,2021,S,WRDS,150,A,003,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,27,67.555555556,15.945419727,90.0,7.0,,,,,,,,,,,1,3,1,2,4,4,3,5,3,0,1,,,
+UBCV,2021,W,WRDS,150,A,133,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,30,70.9,18.749436773,98.0,17.0,,,,,,,,,,,3,1,2,4,2,2,1,6,2,1,6,,,
+UBCV,2021,W,WRDS,150,A,143,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,30,72.833333333,13.516486315,94.0,37.0,,,,,,,,,,,2,1,2,1,1,3,5,4,7,2,2,,,
+UBCV,2021,W,WRDS,150,A,161,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,28,70.0,15.606266548,98.0,26.0,,,,,,,,,,,2,2,1,1,1,7,5,3,4,0,2,,,
+UBCV,2021,W,WRDS,150,A,171,Writing and Research in the Disciplines,Jennifer Cowe;Kevin Wong,29,69.965517241,20.270461899,100.0,19.0,,,,,,,,,,,3,0,3,1,2,3,3,6,3,3,2,,,
+UBCV,2021,W,WRDS,150,A,422,Writing and Research in the Disciplines,Jennifer Cowe,27,61.814814815,26.336632921,90.0,0.0,,,,,,,,,,,6,1,0,2,4,3,1,2,3,3,2,,,
+UBCV,2021,W,WRDS,150,A,433,Writing and Research in the Disciplines,Jennifer Cowe,30,67.933333333,23.739873824,96.0,11.0,,,,,,,,,,,5,0,1,3,3,2,1,4,3,5,3,,,
+UBCV,2021,W,WRDS,150,A,441,Writing and Research in the Disciplines,Jennifer Cowe,25,64.0,24.162643343,99.0,0.0,,,,,,,,,,,6,2,0,1,0,5,5,0,2,0,4,,,
+UBCV,2021,S,WRDS,150,A,003,Writing and Research in the Disciplines,Jennifer Cowe,27,67.6,,90.0,7.0,,,,,,,,,,,,,,,,,,,,,,71.0,77.0,63.5
+UBCV,2021,W,WRDS,150,A,161,Writing and Research in the Disciplines,Jennifer Cowe,28,70.0,,98.0,26.0,,,,,,,,,,,,,,,,7,,,,,,71.5,79.0,67.8
+UBCV,2021,W,WRDS,150,A,422,Writing and Research in the Disciplines,Jennifer Cowe,27,61.8,,90.0,0.0,,,,,,,,,,,6,,,,,,,,,,,68.0,80.5,56.0
+UBCV,2021,W,WRDS,150,A,433,Writing and Research in the Disciplines,Jennifer Cowe,30,67.9,,96.0,11.0,,,,,,,,,,,,,,,,,,,,,,74.0,84.8,61.3
+UBCV,2021,W,WRDS,150,A,441,Writing and Research in the Disciplines,Jennifer Cowe,25,64.0,,99.0,0.0,,,,,,,,,,,6,,,,,,,,,,,69.0,75.0,50.0
+UBCV,2022,S,WRDS,150,A,004,Writing and Research in the Disciplines,Jennifer Cowe,28,69.1,,100.0,0.0,,,,,,,,,,,3,3,0,0,3,3,3,2,5,4,2,74.0,83.3,65.5
+UBCV,2022,W,WRDS,150,A,121,Writing and Research in the Disciplines,Jennifer Cowe,26,82.5,,100.0,50.0,,,,,,,,,,,0,2,0,0,1,2,4,2,1,4,10,85.5,95.8,72.5
+UBCV,2022,W,WRDS,150,A,133,Writing and Research in the Disciplines,Jennifer Cowe,29,79.5,,100.0,56.0,,,,,,,,,,,0,0,2,1,0,4,3,5,6,3,5,79.0,85.0,73.0
+UBCV,2022,W,WRDS,150,A,152,Writing and Research in the Disciplines,Jennifer Cowe,27,79.3,,100.0,50.0,,,,,,,,,,,0,1,1,0,2,3,2,4,7,1,6,80.0,85.0,71.0
+UBCV,2022,W,WRDS,150,A,162,Writing and Research in the Disciplines,Jennifer Cowe,29,72.2,,98.0,0.0,,,,,,,,,,,2,1,0,3,1,3,3,8,1,2,5,76.0,80.0,68.0
+UBCV,2022,W,WRDS,150,A,332,Writing and Research in the Disciplines,Jennifer Cowe,32,69.7,,100.0,0.0,,,,,,,,,,,5,0,5,2,2,0,3,4,1,1,9,74.0,91.8,57.8
+UBCV,2022,W,WRDS,150,A,353,Writing and Research in the Disciplines,Jennifer Cowe,29,76.1,,100.0,50.0,,,,,,,,,,,0,3,2,2,1,2,2,2,4,7,4,80.0,88.0,65.0
+UBCV,2022,W,WRDS,150,A,362,Writing and Research in the Disciplines,Jennifer Cowe,29,77.8,,99.0,52.0,,,,,,,,,,,0,1,2,5,3,1,1,1,1,4,10,83.0,93.0,63.0
+UBCV,2023,S,WRDS,150,A,005,Writing and Research in the Disciplines,Jennifer Cowe,30,69.1,,100.0,0.0,,,,,,,,,,,4,1,2,0,2,5,1,0,5,4,4,72.5,85.3,64.8
+UBCV,2023,W,WRDS,150,A,121,Writing and Research in the Disciplines,Jennifer Cowe,33,78.0,,93.0,47.0,,,,,,,,,,,1,0,0,1,3,3,6,1,5,8,4,81.0,85.3,72.3
+UBCV,2023,W,WRDS,150,A,132,Writing and Research in the Disciplines,Jennifer Cowe,32,80.2,,100.0,50.0,,,,,,,,,,,0,2,0,0,3,2,4,5,4,2,10,79.0,91.8,72.0
+UBCV,2023,W,WRDS,150,A,151,Writing and Research in the Disciplines,Jennifer Cowe,31,82.8,,100.0,55.0,,,,,,,,,,,0,0,1,0,2,3,2,3,5,3,11,82.0,92.0,75.3
+UBCV,2023,W,WRDS,150,A,162,Writing and Research in the Disciplines,Jennifer Cowe,32,77.8,,96.0,61.0,,,,,,,,,,,0,0,0,1,3,4,7,4,4,2,6,76.0,84.0,71.5
+UBCV,2023,W,WRDS,150,A,331,Writing and Research in the Disciplines,Jennifer Cowe,32,77.4,,100.0,29.0,,,,,,,,,,,1,2,2,0,0,3,4,5,2,6,7,78.0,87.3,72.5
+UBCV,2023,W,WRDS,150,A,353,Writing and Research in the Disciplines,Jennifer Cowe,30,74.7,,96.0,0.0,,,,,,,,,,,1,0,2,2,1,6,1,4,4,1,7,77.0,87.0,70.0
+UBCV,2023,W,WRDS,150,A,361,Writing and Research in the Disciplines,Jennifer Cowe,30,77.1,,100.0,44.0,,,,,,,,,,,1,1,1,2,3,3,5,2,2,0,10,73.5,91.5,67.3

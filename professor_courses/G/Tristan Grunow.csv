@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,HIST,271,,101,JPN/GL 1550-1900,"Grunow, Tristan",35,76.6,8.6,85,44,34,1,0,0,0,0,0,0,0,1,1,2,0,0,0,0,1,18,11,2,0
+UBC,2016,W,HIST,321,D,201,HONOURS TUTORIAL,"Grunow, Tristan",4,80.5,7.51,87,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0
+UBC,2016,W,HIST,376,,001,JAPAN SINCE 1800,"Grunow, Tristan",44,71.93,19.72,90,0,40,3,1,0,0,2,1,0,0,0,3,0,0,0,3,8,4,8,11,5,1
+UBC,2016,W,HIST,421,D,201,HONOURS TUTORIAL,"Grunow, Tristan",6,84.17,6.27,90,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2
+UBC,2017,W,HIST,105,,101,CONT GLBL ISSUES,"Grunow, Tristan",57,79.38,15.6,92,10,52,3,2,0,0,0,1,0,1,1,3,1,1,2,1,1,3,4,12,14,13
+UBC,2017,W,HIST,271,,201,JPN/GL 1550-1900,"Grunow, Tristan",39,83.38,5.66,95,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,11,14,5
+UBC,2017,W,HIST,376,,001,JAPAN SINCE 1800,"Grunow, Tristan",49,75.43,20.74,100,6,41,3,3,1,0,2,1,0,0,0,3,1,1,1,3,2,3,4,13,4,9
+UBC,2018,W,HIST,105,B,101,CONT GLBL ISSUES,"Grunow, Tristan",18,78.44,11.55,90,46,15,1,0,2,0,0,0,0,0,1,1,0,1,0,0,1,0,2,7,3,1
+UBC,2018,W,HIST,271,,201,JPN/GL 1550-1900,"Grunow, Tristan",28,83.46,8.65,91,46,25,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,6,13,3
+UBC,2018,W,HIST,376,,001,JAPAN SINCE 1800,"Grunow, Tristan",47,76.02,18.09,99,15,39,3,1,1,3,0,1,0,1,1,3,2,4,1,1,1,4,1,6,10,9
+UBCV,2016,W,HIST,271,,101,"Japan and Global History, 1550 - 1900",Tristan Grunow,35,76.6,8.596168777,85.0,44.0,,,,,,,,,,,1,2,0,0,0,0,1,18,11,2,0
+UBCV,2016,W,HIST,376,,001,Modern Japanese History Since 1800,Tristan Grunow,43,71.93023256,19.71873094,90.0,0.0,,,,,,,,,,,3,0,0,0,3,8,4,8,11,5,1
+UBCV,2016,W,HIST,421,D,201,Honours Tutorial,Tristan Grunow,6,84.16666667,6.274286148,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,1,2
+UBCV,2017,W,HIST,105,,101,Contemporary Global Issues in Historical Perspective,Kathryn Powell;Tristan Grunow,55,79.381818182,15.597353656,92.0,10.0,,,,,,,,,,,3,1,1,2,1,1,3,4,12,14,13
+UBCV,2017,W,HIST,271,,201,"Japan and Global History, 1550 - 1900",Tristan Grunow,39,83.384615385,5.664364063,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,2,5,11,14,5
+UBCV,2017,W,HIST,376,,001,Modern Japanese History Since 1800,Tristan Grunow,45,75.488888889,20.507894513,100.0,6.0,,,,,,,,,,,3,1,1,1,3,2,3,5,13,4,9
+UBCV,2018,W,HIST,105,B,101,Contemporary Global Issues in Historical Perspective,Tristan Grunow,16,78.4375,11.552597111,90.0,46.0,,,,,,,,,,,1,0,1,0,0,1,0,2,7,3,1
+UBCV,2018,W,HIST,271,,201,"Japan and Global History, 1550 - 1900",Tristan Grunow,26,84.846153846,4.105530978,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,7,13,3
+UBCV,2018,W,HIST,376,,001,Modern Japanese History Since 1800,Tristan Grunow,45,74.066666667,20.236555582,99.0,9.0,,,,,,,,,,,4,2,4,2,1,2,4,1,6,10,9
+UBCV,2019,W,HIST,271,,201,"Japan and Global History, 1550 - 1900",Kelly Mccormick;Kelly Midori Mccormick;Nicole Yakashiro;Tristan Grunow,25,73.84,9.312536353,87.0,42.0,,,,,,,,,,,1,0,1,0,1,3,11,2,2,4,0

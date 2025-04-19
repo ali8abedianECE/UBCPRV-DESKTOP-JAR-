@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Shawn Wang,175,68.63428571,22.1941012,100.0,0.0,23,13,13,10,7,19,11,17,16,24,22,,,
+UBCO,2014,W,MATH,327,,001,Analysis I,Shawn Wang,47,82.9787234,10.1284991,100.0,43.0,,,,,,,,,13,13,10,,,
+UBCO,2014,W,MATH,328,,001,Analysis II,Shawn Wang;Walaa Mohamed Moursi;Walaa Moursi,18,80.72222222,14.421412,100.0,50.0,0,,,,,,,,,,6,,,
+UBCO,2015,W,COSC,303,,001,Numerical Analysis,Shawn Wang,24,79.541666667,8.500532805,97.0,65.0,0,0,0,0,,,6,,5,5,,,,
+UBCO,2015,W,MATH,303,,001,Numerical Analysis,Shawn Wang,13,82.538461538,16.746220393,100.0,46.0,,,,,,,,,,,6,,,
+UBCO,2015,W,MATH,327,,001,Analysis I,Jia Xu;Shawn Wang,40,79.475,14.785626249,100.0,20.0,,,,,,,,,10,,11,,,
+UBCO,2015,W,MATH,328,,001,Analysis II,Shawn Wang;Walaa Mohamed Moursi;Walaa Moursi,12,83.833333333,12.216481664,99.0,50.0,0,,,,,,,,,6,,,,
+UBCO,2016,W,COSC,303,,001,Numerical Analysis,Hui Ma;Shawn Wang,15,83.4,6.641858604,95.0,68.0,0,0,0,0,0,1,0,1,7,3,3,,,
+UBCO,2016,W,MATH,303,,001,Numerical Analysis,Hui Ma;Shawn Wang,20,75.5,27.84638312,100.0,10.0,3,1,0,0,0,0,1,0,4,3,8,,,
+UBCO,2016,W,MATH,327,,001,Analysis I,Hui Ouyang;Hui Oyuang;Shawn Wang,41,84.04878049,12.9555996,100.0,28.0,1,1,0,0,0,1,3,4,7,8,16,,,
+UBCO,2016,W,MATH,328,,001,Analysis II,Nhut Bui;Nhut Minh Bui;Shawn Wang,12,87.16666667,6.833518105,99.0,76.0,0,0,0,0,0,0,0,1,4,2,5,,,
+UBCO,2017,W,MATH,327,,001,Analysis I,Hui Ouyang;Shawn Wang,34,85.411764706,14.804007744,99.0,22.0,1,0,0,2,1,0,0,2,5,6,17,,,
+UBCO,2017,W,MATH,328,,001,Analysis II,Shawn Wang,12,87.416666667,5.615859577,97.0,80.0,0,0,0,0,0,0,0,0,4,4,4,,,
+UBCO,2018,W,MATH,327,,001,Analysis I,Shawn Wang;Ziyuan Wang,45,82.288888889,10.206108292,100.0,55.0,0,0,1,0,1,5,4,4,11,6,13,,,
+UBCO,2018,W,MATH,328,,001,Analysis II,Shawn Wang,20,88.4,8.671793355,100.0,56.0,0,0,1,0,0,0,0,0,1,7,11,,,
+UBCO,2019,W,MATH,327,,001,Analysis I,Shawn Wang;Ziyuan Wang,48,84.5,8.624556726,100.0,46.0,1,0,0,0,0,0,3,7,13,11,13,,,
+UBCO,2019,W,MATH,328,,001,Analysis II,Shawn Wang,20,86.3,7.498069927,100.0,65.0,0,0,0,0,1,0,0,1,6,6,6,,,
+UBCO,2020,W,MATH,327,,001,Analysis I,Shawn Wang;Ziyuan Wang,52,86.480769231,7.696422354,100.0,69.0,0,0,0,0,0,3,4,3,7,12,23,,,
+UBCO,2020,W,MATH,328,,001,Analysis II,Shawn Wang,15,87.6,8.007139671,100.0,68.0,0,0,0,0,0,1,0,1,1,6,6,,,
+UBCO,2021,W,MATH,327,,001,Analysis I,Manish Krishan Lal;Shawn Wang;Ziyuan Wang,47,81.531914894,10.429579724,100.0,63.0,0,0,0,2,3,7,4,1,10,8,12,,,
+UBCO,2021,W,MATH,328,,001,Analysis II,Shawn Wang;Ziyuan Wang,13,86.0,12.36257794,100.0,68.0,0,0,0,0,0,2,2,1,0,1,7,,,
+UBCV,2020,W,MATH,420,,101,Real Analysis I,Joel Feldman;Ozgur Yilmaz;Shawn Wang;Spencer Dean;Xiaowei Li,19,73.052631579,15.027654819,100.0,45.0,2,1,0,2,0,3,2,1,5,1,2,,,
+UBCO,2021,W,MATH,327,,001,Analysis I,Shawn Wang,47,81.5,,100.0,63.0,,,,,,7,,,10,8,12,83.0,89.0,71.5
+UBCO,2021,W,MATH,328,,001,Analysis II,Shawn Wang,13,86.0,,100.0,68.0,,,,,,,,,,,7,91.0,97.0,75.0
+UBCO,2022,W,COSC,303,,101,Numerical Analysis,Shawn Wang,33,80.9,,100.0,55.0,0,0,3,0,1,2,2,4,7,6,8,82.0,89.0,76.0
+UBCO,2022,W,MATH,303,,101,Numerical Analysis,Shawn Wang,32,82.0,,100.0,27.0,1,1,1,0,0,0,4,3,4,8,10,85.5,92.0,78.0
+UBCO,2022,W,MATH,327,,001,Analysis I,Shawn Wang,31,82.8,,99.0,63.0,0,0,0,2,1,1,3,3,7,6,8,84.0,90.0,77.0
+UBCO,2023,W,MATH,327,,001,Analysis I,Shawn Wang,32,85.5,,99.0,69.0,0,0,0,0,0,1,3,4,5,4,12,88.0,91.0,79.0
+UBCO,2023,W,MATH,328,,101,Analysis II,Shawn Wang,17,87.2,,98.0,50.0,0,1,0,0,0,0,0,0,1,4,8,90.0,93.5,86.0

@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,MANF,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani;Babak Tosarkani,9,81.888888889,10.433652817,95.0,62.0,0,0,0,1,0,0,1,1,2,2,2,,,
+UBCO,2021,W,MANF,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani;Babak Tosarkani;Samuel Yousefi,12,75.666666667,8.445906306,83.0,54.0,0,1,0,0,1,0,2,3,5,0,0,,,
+UBCO,2021,W,MANF,450,,001,Life Cycle Analysis and Sustainability,Aida Esmaeilidouki;Babak Mohamadpour Tosarkani;Babak Tosarkani,27,79.518518519,10.225798334,98.0,64.0,0,0,0,0,3,6,2,2,5,3,6,,,
+UBCO,2021,W,MANF,460,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani;Pooya Pourrezaiekhaligh;Samuel Yousefi,32,75.9375,12.740429678,99.0,27.0,1,0,0,3,1,1,11,4,5,2,4,,,
+UBCV,2021,W,MANU,370,,201,Production Systems Management II,Babak Mohamadpour Tosarkani;Halil Sesen,9,81.0,11.079259903,95.0,55.0,0,0,1,0,0,0,0,1,4,2,1,,,
+UBCO,2021,W,MANF,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,12,75.7,,83.0,54.0,,,,,,,,,,,,78.0,81.3,74.5
+UBCO,2021,W,MANF,450,,001,Life Cycle Analysis and Sustainability,Babak Mohamadpour Tosarkani,27,79.5,,98.0,64.0,,,,,,6,,,,,6,81.0,86.5,70.0
+UBCO,2021,W,MANF,460,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani,32,75.9,,99.0,27.0,,,,,,,11,,,,,75.0,80.8,73.0
+UBCO,2022,W,MANF,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,10,78.0,,92.0,56.0,0,0,1,0,0,1,1,3,1,1,2,76.5,84.8,75.3
+UBCO,2022,W,MANF,460,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani,25,79.9,,97.0,66.0,0,0,0,0,2,2,2,6,6,3,4,80.0,86.0,76.0
+UBCO,2022,W,MANF,560,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani,19,84.1,,94.0,75.0,0,0,0,0,0,0,1,3,6,6,3,83.0,87.5,81.0
+UBCO,2023,W,ENGR,305,,201,Engineering Economic Analysis,Babak Mohamadpour Tosarkani,305,81.4,,100.0,52.0,0,4,3,5,15,20,28,46,57,61,64,82.0,88.0,76.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,MANF,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,10,79.0,,94.0,60.0,0,0,0,1,1,1,2,0,1,1,3,78.0,89.75,70.25
+UBCO,2023,W,MANF,460,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani,26,76.96,,94.0,61.0,0,0,0,1,6,3,3,3,2,3,5,76.5,85.75,67.25
+UBCO,2023,W,MANF,560,,001,Supply Chain Tactics and Strategies,Babak Mohamadpour Tosarkani,33,85.03,,95.0,70.0,0,0,0,0,0,1,0,6,8,12,6,86.0,89.0,82.0
+UBCV,2021,W,MANU,370,,201,Production Systems Management II,Babak Mohamadpour Tosarkani,9,83.9,,95.0,76.0,,,,,,,,,,,,83.0,87.0,81.0
+UBCV,2022,W,MANU,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,26,83.2,,95.0,72.0,0,0,0,0,0,0,3,4,6,9,4,84.5,87.0,78.5
+UBCV,2023,W,MANU,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,27,79.9,,91.0,63.0,0,0,0,1,0,1,7,5,4,7,2,78.0,86.5,75.0

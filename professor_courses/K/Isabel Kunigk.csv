@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,LARC,504,,003,DSN STD IV: U&R,"Kunigk, Isabel",11,80.27,3,85,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,1,0
+UBC,2015,W,LARC,504,,003,LA DSN STD IV,"Kunigk, Isabel",11,84.27,4.45,90,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,2
+UBC,2015,W,LARC,505,,003,LA DSN STD V,"Kunigk, Isabel",4,85.5,3.32,90,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2016,W,LARC,503,,001,LA DSN STD III,"Kunigk, Isabel;Roehr, Daniel",24,86.46,1.74,89,84,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,18,0
+UBC,2016,W,LARC,504,,002,LA DSN STD IV,"Kunigk, Isabel",11,83.45,1.97,87,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,2,0
+UBC,2017,W,ENDS,301,,001,ENVR DES STDIO I,"Kunigk, Isabel",29,80.97,3.75,90,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,13,5,1
+UBC,2017,W,LARC,503,,001,LA DSN STD III,"Kunigk, Isabel;Roehr, Daniel",20,84.1,4.04,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,11,0
+UBCV,2014,W,LARC,504,,003,Design Studio IV: Urban and Regional Public Realms,Isabel Kunigk,11,80.27272727,3.003028774,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,6,,0
+UBCV,2015,W,LARC,504,,003,Landscape Architecture Design Studio IV,Isabel Kunigk,11,84.272727273,4.451761653,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2016,W,LARC,503,,001,Landscape Architecture Design Studio III,Daniel Roehr;Isabel Kunigk,24,86.45833333,1.744037461,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,18,0
+UBCV,2016,W,LARC,504,,002,Landscape Architecture Design Studio IV,Isabel Kunigk,11,83.45454546,1.967924611,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,2,0
+UBCV,2017,W,ENDS,301,,001,Environmental Design Studio I,Cynthia Girling;Isabel Kunigk;Julia Casol;Shaheed Hassan Karim;Shaheed Karim,29,80.965517241,3.746262505,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,9,13,5,1
+UBCV,2017,W,LARC,503,,001,Landscape Architecture Design Studio III,Daniel Roehr;Isabel Kunigk,20,84.1,4.037977607,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,11,0
+UBCV,2018,W,LARC,595,,001,Graduate Project Part I,Daniel Roehr;Isabel Kunigk,14,86.357142857,3.521519402,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,2

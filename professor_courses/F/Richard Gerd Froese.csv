@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,MATH,152,,204,LINEAR SYSTEMS,"Froese, Richard Gerd",71,70.51,16.55,98,23,64,3,3,0,1,0,0,1,1,1,3,8,8,8,1,6,9,2,5,6,11
+UBC,2003,W,MATH,253,,104,MULTIVRBL CALC,"Froese, Richard Gerd",77,66.32,12.5,96,37,71,5,1,0,0,0,0,0,1,4,5,8,8,11,9,8,12,4,6,0,5
+UBC,2003,W,MATH,512,,101,QUANTUM THEORY,"Froese, Richard Gerd",5,91,2.24,95,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2005,W,MATH,152,,204,LINEAR SYSTEMS,"Froese, Richard Gerd",69,68.96,17.2,97,23,59,9,1,0,0,0,0,2,3,4,9,5,5,2,4,5,11,6,8,7,6
+UBC,2005,W,MATH,267,,203,MATH ELEC ENG,"Froese, Richard Gerd",52,57.41,21.02,100,0,37,14,0,0,1,1,2,2,6,3,14,6,6,4,4,6,1,3,3,1,3
+UBC,2005,W,MATH,307,,101,APPL LINEAR ALGB,"Froese, Richard Gerd",56,72.15,11.59,95,50,54,0,1,0,1,0,0,0,0,0,0,3,3,10,5,6,5,4,8,6,4
+UBC,2006,W,MATH,263,,101,MULTIVR CALCULUS,"Froese, Richard Gerd",68,60.35,21.43,98,0,49,19,0,0,0,1,1,1,13,3,19,4,9,6,5,3,3,3,8,2,6
+UBC,2006,W,MATH,307,,202,APPL LINEAR ALGB,"Froese, Richard Gerd",60,60.49,16.23,100,0,50,7,1,1,1,1,0,0,1,5,7,17,7,3,5,3,6,1,3,4,1
+UBC,2007,W,MATH,253,,103,MULTIVRBL CALC,"Froese, Richard Gerd",117,64.37,15.56,95,0,103,14,0,0,0,1,0,0,3,10,14,15,18,12,5,16,9,4,12,5,7
+UBC,2007,W,MATH,307,,201,APPL LINEAR ALGB,"Froese, Richard Gerd",51,65.52,14.32,97,25,45,5,1,0,0,0,0,1,1,3,5,7,4,4,4,12,3,3,2,5,1
+UBC,2007,W,MATH,609,E,201,TOPICS MATH PHYS,"Froese, Richard Gerd",6,92.33,1.97,95,90,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+UBC,2009,W,MATH,307,,101,APPL LINEAR ALGB,"Froese, Richard Gerd",72,69.49,14.88,97,22,66,5,1,0,0,0,0,1,2,2,5,5,6,5,5,16,6,2,12,2,7
+UBC,2009,W,MATH,512,,201,QUANTUM THEORY,"Froese, Richard Gerd",7,91.17,7.03,98,80,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+UBC,2010,W,MATH,305,,102,APLD COMPLX ANLY,"Froese, Richard Gerd",16,63.2,10.6,80,40,13,2,1,0,0,0,0,0,0,2,2,0,2,4,1,2,3,0,1,0,0
+UBC,2010,W,MATH,307,,101,APPL LINEAR ALGB,"Froese, Richard Gerd",75,68.14,16.48,94,27,59,7,9,0,0,0,0,2,0,5,7,7,5,6,11,2,5,2,6,9,6
+UBC,2010,W,MATH,307,,201,APPL LINEAR ALGB,"Froese, Richard Gerd",60,69.77,13.95,100,41,51,2,5,0,2,0,0,0,0,2,2,8,6,2,4,4,7,5,5,8,2
+UBC,2011,W,MATH,301,,201,APPLIED ANALYSIS,"Froese, Richard Gerd",28,66.82,23.03,99,0,25,3,0,0,0,1,0,1,1,0,3,3,5,1,2,1,0,1,5,2,5
+UBC,2011,W,MATH,307,,201,APPL LINEAR ALGB,"Froese, Richard Gerd",53,66.6,20.81,95,0,43,7,1,0,2,1,0,1,2,3,7,8,5,3,1,4,2,1,4,10,5
+UBC,2012,S,MATH,307,,921,APPL LINEAR ALGB,"Froese, Richard Gerd",93,70.97,15.64,100,26,76,10,3,0,3,0,0,1,1,8,10,3,4,7,9,11,6,11,6,7,12
+UBC,2012,W,MATH,301,,201,APPLIED ANALYSIS,"Froese, Richard Gerd",44,70.86,19.75,100,27,38,5,0,0,1,0,0,1,3,1,5,4,6,3,0,3,1,2,6,4,9
+UBC,2012,W,MATH,307,,101,APPL LINEAR ALGB,"Froese, Richard Gerd",75,67.26,16.68,100,32,58,11,3,0,3,0,0,0,4,7,11,9,4,2,2,9,6,9,7,3,7
+UBC,2012,W,MATH,307,,201,APPL LINEAR ALGB,"Froese, Richard Gerd",60,68.3,17.91,97,33,46,7,5,0,1,0,0,0,4,3,7,6,4,6,0,5,1,6,7,5,6
+UBC,2013,S,MATH,307,,921,APPL LINEAR ALGB,"Froese, Richard Gerd",96,68.89,16.34,100,31,83,7,4,0,2,0,0,0,7,0,7,12,6,7,7,6,8,11,11,10,5
+UBC,2013,W,MATH,307,,201,APPL LINEAR ALGB,"Froese, Richard Gerd",62,65.44,20.9,99,0,49,10,1,0,2,1,0,4,1,4,10,6,3,5,7,3,4,3,7,6,5
+UBC,2013,W,MATH,511,,101,OPERAT'R THY&APP,"Froese, Richard Gerd",11,91.64,8.33,100,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,9
+UBC,2014,W,MATH,215,,201,ELEM DIFF EQ I,"Froese, Richard Gerd",92,67.04,20.63,100,9,74,15,2,0,1,1,1,3,4,6,15,11,4,5,8,3,7,9,8,6,13
+UBC,2014,W,MATH,305,,101,APLD COMPLX ANLY,"Froese, Richard Gerd",81,68.48,18.5,97,17,69,10,2,0,0,0,1,2,5,2,10,5,4,6,8,8,10,5,7,6,10
+UBC,2015,W,MATH,305,,201,APLD COMPLX ANLY,"Froese, Richard Gerd",84,69.62,17.06,97,25,73,8,2,0,1,0,0,2,2,4,8,8,6,8,4,6,6,11,7,8,9
+UBC,2015,W,MATH,307,,101,APPL LINEAR ALGB,"Froese, Richard Gerd",80,67.31,16.14,97,32,67,10,3,0,0,0,0,0,4,6,10,8,6,7,5,8,7,3,12,2,9
+UBC,2016,W,MATH,215,,102,ELEM DIFF EQ I,"Froese, Richard Gerd",50,68.1,19.03,99,0,44,6,0,0,0,1,0,0,5,0,6,1,5,6,4,6,6,2,4,5,5
+UBC,2016,W,MATH,255,,102,ORD DIFF EQUTNS,"Froese, Richard Gerd",68,64.05,18.08,96,4,56,9,2,0,1,1,2,0,2,4,9,5,9,8,1,8,11,4,2,4,4
+UBC,2016,W,MATH,301,,201,APPLIED ANALYSIS,"Froese, Richard Gerd",46,65.56,23.84,100,0,34,9,2,0,1,1,0,2,4,2,9,5,2,1,3,3,3,2,4,3,8
+UBC,2017,W,MATH,300,,101,INTR COMPLEX VAR,"Froese, Richard Gerd",122,64.97,17.73,100,28,98,21,1,0,2,0,0,1,5,15,21,18,14,7,5,10,5,8,11,7,13
+UBC,2017,W,MATH,301,,201,APPLIED ANALYSIS,"Froese, Richard Gerd",28,71.37,21.19,100,22,23,4,1,0,0,0,0,1,1,2,4,3,1,2,1,1,0,3,3,2,7
+UBC,2018,W,MATH,300,,101,INTR COMPLEX VAR,"Froese, Richard Gerd",120,63.23,18.48,97,7,94,22,1,0,3,1,1,2,10,8,22,14,8,8,15,9,4,12,9,9,6
+UBC,2018,W,MATH,301,,201,APPLIED ANALYSIS,"Froese, Richard Gerd",39,67.29,21.92,95,6,28,7,3,0,1,1,0,1,0,5,7,4,0,3,1,3,2,0,3,9,3
+UBCV,2014,W,MATH,215,,201,Elementary Differential Equations I,Michael Jeffrey Ward;Richard Gerd Froese,90,66.47777778,21.20855656,100.0,9.0,,,,,,,,,,,16,11,,5,8,,7,9,8,6,13
+UBCV,2014,W,MATH,305,,101,Applied Complex Analysis,Richard Gerd Froese,79,68.48101266,18.50354142,97.0,17.0,,,,,,,,,,,10,5,4,6,8,8,10,5,7,6,10
+UBCV,2015,W,MATH,305,,201,Applied Complex Analysis,Richard Gerd Froese,82,68.792682927,18.525749717,97.0,2.0,,,,,,,,,,,9,8,6,8,4,6,6,11,7,8,9
+UBCV,2015,W,MATH,307,,101,Applied Linear Algebra,Richard Gerd Froese,77,67.311688312,16.136962915,97.0,32.0,,,,,,,,,,,10,8,6,7,5,8,7,,12,,9
+UBCV,2016,W,MATH,215,,101,Elementary Differential Equations I,Mona Rahmani;Richard Gerd Froese,28,65.42857143,19.04269778,90.0,29.0,,,,,,,,,,,6,5,0,1,1,2,2,1,4,4,2
+UBCV,2016,W,MATH,215,,102,Elementary Differential Equations I,Richard Gerd Froese,50,68.1,19.03300034,99.0,0.0,,,,,,,,,,,6,1,5,6,4,6,6,2,4,5,5
+UBCV,2016,W,MATH,215,,103,Elementary Differential Equations I,Jun Yang;Richard Gerd Froese,25,68.68,22.40297599,100.0,21.0,,,,,,,,,,,2,8,1,1,2,0,2,0,1,1,7
+UBCV,2016,W,MATH,215,,104,Elementary Differential Equations I,Emmanouil Daskalakis;Richard Gerd Froese,61,68.13114754,19.53840271,100.0,2.0,,,,,,,,,,,7,6,4,4,3,9,4,7,7,3,7
+UBCV,2016,W,MATH,255,,101,Ordinary Differential Equations,Mona Rahmani;Richard Gerd Froese,63,65.38095238,19.90900961,99.0,8.0,,,,,,,,,,,9,9,9,5,4,3,3,0,3,11,7
+UBCV,2016,W,MATH,255,,102,Ordinary Differential Equations,Richard Gerd Froese,66,63.39393939,18.70325253,96.0,4.0,,,,,,,,,,,10,5,9,8,1,8,11,4,2,4,4
+UBCV,2016,W,MATH,255,,103,Ordinary Differential Equations,Jun Yang;Richard Gerd Froese,58,69.34482759,22.3548352,100.0,19.0,,,,,,,,,,,12,2,2,1,5,4,7,3,6,5,11
+UBCV,2016,W,MATH,255,,104,Ordinary Differential Equations,Emmanouil Daskalakis;Richard Gerd Froese,42,83.0,13.62565729,100.0,20.0,,,,,,,,,,,1,0,1,0,1,1,4,3,10,8,13
+UBCV,2016,W,MATH,301,,201,Applied Analysis,Richard Gerd Froese,44,64.31818182,24.95183521,100.0,0.0,,,,,,,,,,,10,5,2,1,3,3,3,2,4,3,8
+UBCV,2017,W,MATH,300,,101,Introduction to Complex Variables,Richard Gerd Froese,121,64.181818182,18.621671962,100.0,16.0,,,,,,,,,,,23,18,14,7,5,10,5,8,11,7,13
+UBCV,2017,W,MATH,301,,201,Applied Analysis,Richard Gerd Froese,27,71.37037037,21.188073837,100.0,22.0,,,,,,,,,,,4,3,1,2,1,1,0,3,3,2,7
+UBCV,2018,W,MATH,300,,101,Introduction to Complex Variables,Li Wang;Richard Gerd Froese,119,62.176470588,19.426369925,97.0,7.0,,,,,,,,,,,25,14,8,8,15,9,4,12,9,9,6
+UBCV,2018,W,MATH,301,,201,Applied Analysis,Chen-Chih Lai;Richard Gerd Froese,36,65.861111111,23.229479765,95.0,6.0,,,,,,,,,,,8,4,0,3,1,3,2,0,3,9,3
+UBCV,2019,W,MATH,300,,101,Introduction to Complex Variables,Li Wang;Matthew Brassil;Richard Gerd Froese,101,68.910891089,17.062883115,100.0,30.0,,,,,,,,,,,9,12,11,8,6,9,12,4,10,4,16
+UBCV,2019,W,MATH,301,,201,Applied Analysis,Mihai Marian;Richard Gerd Froese,32,77.5625,15.402005525,99.0,40.0,,,,,,,,,,,1,1,3,2,0,3,5,2,2,3,10
+UBCV,2019,W,MATH,603,D,101,Topics in Topology,Dale Preston Rolfsen;Dale Rolfsen;Richard Gerd Froese,6,96.0,0.0,96.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2020,W,MATH,223,,101,Linear Algebra,Elliot Cheung;Le Tam Nhan Nguyen;Patrick Walls;Richard Gerd Froese;Yaniv Plan,54,90.37037037,8.122403902,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,5,7,6,34
+UBCV,2020,W,MATH,300,,101,Introduction to Complex Variables,Gordon Slade;Li Wang;Richard Gerd Froese,111,68.063063063,18.355221838,99.0,16.0,,,,,,,,,,,14,10,9,7,9,11,5,9,13,12,12
+UBCV,2020,W,MATH,301,,201,Applied Analysis,Brian Wetton;Mihai Marian;Richard Gerd Froese;Samer Dweik,35,64.342857143,18.705052569,99.0,33.0,,,,,,,,,,,4,8,6,2,0,1,1,5,2,2,4
+UBCV,2020,W,MATH,302,,101,Introduction to Probability,Julien Gagnon;Omer Angel;Patrick Walls;Rebecca Bonham-Carter;Rebecca Cherry Bonham-Carter;Richard Gerd Froese;Yaniv Plan,129,81.480620155,13.74437429,100.0,20.0,,,,,,,,,,,3,2,1,2,3,9,15,13,19,16,46
+UBCV,2020,W,MATH,307,,101,Applied Linear Algebra,Emma Hansen;Justin Furlotte;Ozgur Yilmaz;Patrick Walls;Qidi Zhang;Richard Gerd Froese;Yiyang Tian,113,72.238938053,12.66341351,97.0,8.0,,,,,,,,,,,4,5,5,8,11,13,21,20,10,7,9
+UBCV,2020,W,MATH,307,,102,Applied Linear Algebra,Emma Hansen;Justin Furlotte;Markus Lange;Ozgur Yilmaz;Patrick Walls;Qidi Zhang;Richard Gerd Froese;Yiyang Tian,84,71.154761905,9.269062478,90.0,46.0,,,,,,,,,,,1,2,8,6,11,15,15,10,9,5,2
+UBCV,2020,W,MATH,307,,103,Applied Linear Algebra,Elina Robeva;Emma Hansen;Justin Furlotte;Markus Lange;Ozgur Yilmaz;Patrick Walls;Qidi Zhang;Richard Gerd Froese;Yiyang Tian,100,74.99,11.536061159,95.0,43.0,,,,,,,,,,,4,4,3,2,8,8,15,14,22,14,6
+UBCV,2021,W,MATH,301,,201,Applied Analysis,Fanze Kong;Gordon Slade;Richard Gerd Froese,39,67.769230769,23.772453694,97.0,16.0,,,,,,,,,,,7,2,2,0,3,2,3,5,6,3,6
+UBCV,2021,W,MATH,307,,101,Applied Linear Algebra,Benjamin Friedman;Chunyi Gai;Max Gheorghiu;Patrick Walls;Qidi Zhang;Richard Gerd Froese,115,76.52173913,14.152272043,100.0,18.0,,,,,,,,,,,3,6,6,8,5,9,7,15,20,17,19

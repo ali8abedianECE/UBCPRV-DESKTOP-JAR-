@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,MICB,405,,101,BIOINFORMATICS,"Gardy, Jennifer;Hallam, Steven;Hirst, Martin",47,76.98,9.86,93,44,45,1,0,1,0,0,0,0,0,1,1,0,1,1,3,6,9,3,11,7,4
+UBC,2013,W,MICB,405,,101,BIOINFORMATICS,"Hirst, Martin",62,80.36,8.03,95,58,61,0,0,1,0,0,0,0,0,0,0,0,2,1,1,3,6,14,17,10,7
+UBC,2014,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Cullis, Pieter;Eltis, Lindsay;Hieter, Philip;Hirst, Martin;Marra, Marco;Rieseberg, Loren;Ryan, Katherine",11,89.36,2.69,93,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5
+UBC,2014,W,MICB,405,,101,BIOINFORMATICS,"Hirst, Martin",71,74.43,9.57,91,48,69,1,1,0,0,0,0,0,0,1,1,1,5,5,3,6,12,13,16,4,4
+UBC,2015,W,MICB,405,,101,BIOINFORMATICS,"Gardy, Jennifer;Hallam, Steven;Hirst, Martin",60,75.34,12.62,94,23,56,2,0,2,0,0,0,1,1,0,2,1,1,3,3,5,6,15,13,6,3
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2016,W,MICB,405,,101,BIOINFORMATICS,"Gardy, Jennifer;Hallam, Steven;Hirst, Martin",68,77.38,10.97,95,52,68,0,0,0,0,0,0,0,0,0,0,2,3,7,3,2,7,10,13,13,8
+UBC,2017,W,MEDG,421,,001,GN&CL BIOL CANCR,"Campbell, Kristin;Cox, Michael;Hirst, Martin;Lim, Chinten James;Maxwell, Christopher;McNagny, Kelly Marshall;Morin, Gregg;Portigal, Cheryl;Reid, Gregor;Roskelley, Calvin;Ross, Colin;Stirling, Peter;Wasserman, Wyeth;Zandstra, Peter",25,86.17,5.17,94,73,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,8,8
+UBC,2017,W,MEDG,505,,001,GENOME ANALYSIS,"Birol, Inanc;Farrer, Matthew;Friedman, Jan Marshall;Hieter, Philip;Hirst, Martin;Jones, Steven J;Marra, Marco;Morin, Gregg;Ross, Colin",12,91.17,4.59,98,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8
+UBC,2017,W,MICB,405,,101,BIOINFORMATICS,"Gardy, Jennifer;Hallam, Steven;Hirst, Martin",82,84.74,5.9,96,60,81,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,4,8,17,36,14
+UBC,2018,W,GSAT,502,,001,ADV GSAT CONCEPT,"Birol, Inanc;Bohlmann, Jorg;Hansen, Carl;Hieter, Philip;Hirst, Martin;Marra, Marco;Mayor, Thibault;Rieseberg, Loren;Zandstra, Peter",7,100,0,100,100,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2018,W,MICB,405,,101,BIOINFORMATICS,"Dill-Mcfarland, Kimberly Anne;Gardy, Jennifer;Hallam, Steven;Hirst, Martin",79,82.33,6.32,93,54,79,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,6,13,27,21,9

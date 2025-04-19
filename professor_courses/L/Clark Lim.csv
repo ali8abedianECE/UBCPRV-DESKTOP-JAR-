@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",18,90.33,3.9,99,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,7,,,
+UBC,2012,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",35,88.69,3.64,94,79,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,18,,,
+UBC,2013,W,CIVL,441,,201,TRNS SYS PL&ANLY,"Lim, Clark",17,88.06,6.04,95,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,9,,,
+UBC,2013,W,CIVL,583,,201,URBN ENGR M&M,"Lim, Clark",13,89.75,5.69,97,81,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,,,
+UBC,2013,W,PLAN,548,Q,001,CURRENT ISSUES,"Lim, Clark",4,93.75,2.22,96,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2014,W,CIVL,441,,201,TRNS SYS PL&ANLY,"Lim, Clark",23,88.95,4.37,96,80,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,11,,,
+UBC,2014,W,CIVL,583,,201,URBN ENGR M&M,"Lim, Clark",6,88.5,5.43,95,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,,,
+UBC,2014,W,PLAN,548,V,001,CURRENT ISSUES,"Lim, Clark",5,92.6,2.3,95,89,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2015,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",31,90.26,3.59,97,81,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,18,,,
+UBC,2016,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",39,88.89,3.58,97,80,38,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,18,,,
+UBC,2017,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",40,89.44,3.69,96,79,39,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,13,22,,,
+UBC,2018,W,CIVL,440,,101,TRANSPRT'N ENG 2,"Lim, Clark",50,91.52,6.53,98,55,50,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,6,40,,,
+UBCV,2014,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,22,88.95454546,4.369562174,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,11,,,
+UBCV,2014,W,CIVL,583,,201,Urban Engineering Methods and Models,Clark Lim,6,88.5,5.431390246,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2014,W,PLAN,548,V,001,Current Issues in Planning,Clark Lim,5,92.6,2.302172887,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Mohamed Azab Hussein Hussein,31,90.258064516,3.586713834,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,12,18,,,
+UBCV,2016,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Mohamed Azab Hussein Hussein,38,88.89473684,3.577629244,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,15,18,,,
+UBCV,2017,W,CIVL,440,,101,Transportation Engineering II,Ahmed Amer;Clark Lim;Tarek Sayed,39,89.435897436,3.690634461,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,13,22,,,
+UBCV,2018,W,CIVL,437,,101,Introduction to Ship Structures,Clark Lim;Jasmin Jelovica;Jongho Lee;Mohammad Mohammadzadeh Keleshteri,23,88.304347826,6.226298934,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,6,10,,,
+UBCV,2018,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Hossameldin Ibrahim Said Mohammed;Pierre Berube,50,91.52,6.534804777,98.0,55.0,,,,,,,,,,,0,0,1,0,0,0,0,1,2,6,40,,,
+UBCV,2018,W,CIVL,538,,201,Computational Mechanics II,Clark Lim;Reza Vaziri,6,84.5,9.81325634,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,0,2,,,
+UBCV,2019,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Dana Vanier;Hossameldin Ibrahim Said Mohammed;Tarek Sayed,42,91.833333333,4.149150173,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,33,,,
+UBCV,2019,W,CIVL,598,E,101,Topics in Civil Engineering,Clark Lim;Omar Swei,18,83.833333333,6.223768482,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,4,7,3,,,
+UBCV,2019,W,CIVL,598,J,002,Topics in Civil Engineering,Abdolreza Joghataie;Clark Lim;Negar Roghanian,30,84.233333333,7.564359869,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,4,8,5,10,,,
+UBCV,2020,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Hossameldin Ibrahim Said Mohammed;Sean Irvine,41,94.487804878,3.493722594,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,37,,,
+UBCV,2021,W,CIVL,441,,201,Transportation Planning and Analysis,Alexander York Bigazzi;Clark Lim,44,88.045454545,5.157764729,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,8,11,22,,,
+UBCV,2021,W,CIVL,446,,201,Civil Engineering Design Project II.,Alireza Habibzadeh Gharehbaba;Carlos Estuardo Ventura;Clark Lim;Fraser Peterson;John Pao;Krista Falkner;Loretta Li;Noboru Yonemitsu;Yahya Nazhat,132,88.984848485,2.926543042,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,58,62,,,
+UBCV,2021,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,44,88.0,,97.0,76.0,,,,,,,,,,,,,,,,,,,8,11,22,89.5,92.0,84.8
+UBCV,2021,W,CIVL,446,,201,Civil Engineering Design Project II.,Krista Falkner;Alireza Habibzadeh Gharehbaba;Clark Lim;Yahya Nazhat;John Pao;Fraser Peterson;Carlos Estuardo Ventura;Noboru Yonemitsu,132,89.0,,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,58,62,89.0,91.0,87.0
+UBCV,2022,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,32,90.8,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,21,91.0,94.3,87.8
+UBCV,2022,W,CIVL,583,,201,Urban Engineering Methods and Models,Clark Lim,12,91.9,,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,10,92.0,96.0,90.0
+UBCV,2023,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,39,87.9,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,4,5,9,20,90.0,93.0,84.5
+UBCV,2023,W,CIVL,583,,201,Urban Engineering Methods and Models,Clark Lim,12,93.4,,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,94.0,97.0,90.8

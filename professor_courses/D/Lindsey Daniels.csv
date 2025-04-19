@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2022,W,MATH,254,,201,Multivariable and Vector Calculus for Mechanical Engineering,Lindsey Daniels;Patrick Walls,133,72.0,100.0,38.0,15,2,6,8,12,10,21,17,20,10,12,75.0,81.0,65.0
+UBCV,2022,W,MATH,258,,101,Differential Equations for Mechanical Engineering,Lindsey Daniels;Patrick Walls,125,76.1,100.0,42.0,6,0,3,5,7,13,18,23,27,11,12,77.0,83.0,71.0
+UBCV,2022,W,MECH,221,,101,Engineering Science I,Jesus Calvino-Fraga;Agnes D'Entremont;Lindsey Daniels;Graham Hendra;Jonathan Nakane;Patrick Walls;Chun Wu,127,76.1,100.0,42.0,6,0,3,5,7,13,19,24,27,11,12,77.0,83.0,71.0
+UBCV,2022,W,MECH,222,,201,Engineering Science II,Juan Abello Rubio;Lindsey Daniels;Sheldon Green;Graham Hendra;Patrick Walls,135,72.1,100.0,38.0,15,2,6,8,12,10,22,17,20,11,12,75.0,81.0,65.0
+UBCV,2022,W,SCIE,1,,001,Science One,James Berger;Guillaume Bussiere;Lindsey Daniels;Pamela Kalas;Brian Harry Marcus;Jonathan Massey Allard;Costanza Piccolo;John Sherman;Karen Smith;Christopher Waltham,68,79.9,94.0,40.0,1,0,0,3,2,2,8,12,17,12,11,80.5,85.3,76.0
+UBCV,2023,W,MATH,254,,201,Multivariable and Vector Calculus for Mechanical Engineering,Lindsey Daniels;Patrick Walls,139,71.3,97.0,30.0,9,3,4,10,22,17,22,19,20,4,8,72.0,79.0,65.0
+UBCV,2023,W,MATH,258,,101,Differential Equations for Mechanical Engineering,Lindsey Daniels,131,75.6,96.0,16.0,4,0,4,5,13,12,16,23,29,18,7,78.0,83.0,70.0
+UBCV,2023,W,MATH,360,,101,Introduction to Mathematical Modelling,Lindsey Daniels;Patrick Walls,79,73.7,93.0,42.0,1,2,3,4,4,14,16,9,11,7,3,73.0,80.8,69.0
+UBCV,2023,W,MECH,221,,101,Engineering Science I,Jesus Calvino-Fraga;Agnes D'Entremont;Lindsey Daniels;Graham Hendra;Jonathan Nakane;Chun Wu,131,75.62,96.0,16.0,4,0,4,5,13,12,16,23,29,18,7,78.0,83.0,70.0
+UBCV,2023,W,MECH,222,,201,Engineering Science II,Juan Abello Rubio;Lindsey Daniels;Sheldon Green;Graham Hendra,139,71.28,97.0,30.0,9,3,4,10,22,17,22,19,20,4,8,72.0,79.0,65.0
+UBCV,2023,W,SCIE,1,,001,Science One,Guillaume Bussiere;Lindsey Daniels;George Haughn;Pamela Kalas;Brian Harry Marcus;Jonathan Massey Allard;Costanza Piccolo;John Sherman;Karen Smith;Christopher Waltham,74,76.86,92.0,61.0,0,0,0,4,5,9,10,14,12,11,4,78.0,82.0,70.0

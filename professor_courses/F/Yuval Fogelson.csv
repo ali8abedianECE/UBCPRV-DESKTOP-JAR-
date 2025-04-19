@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,PLAN,221,,001,City Visuals,Erick Villagomez;Maren Mcbride;Meryem Belkadi;Mikaila Johnson;Yuval Fogelson,74,77.918918919,7.4810386,89.0,45.0,1,1,0,2,1,4,10,20,25,10,0,,,
+UBCV,2020,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez;Yuval Fogelson,29,87.379310345,1.656454758,92.0,84.0,0,0,0,0,0,0,0,0,2,26,1,,,
+UBCV,2021,W,UDES,509,A,001,Topics in Urban Design,Ranveer Sandhu;Yuval Fogelson,27,83.962962963,5.480605536,90.0,60.0,0,0,0,1,0,0,0,1,10,13,2,,,
+UBCV,2021,W,UDES,509,A,001,Topics in Urban Design,Yuval Fogelson,27,84.0,,90.0,60.0,,,,,,,,,10,13,,85.0,86.0,82.5
+UBCV,2022,S,UDES,509,A,001,Topics in Urban Design,Yuval Fogelson,20,85.1,,91.0,80.0,0,0,0,0,0,0,0,0,8,10,2,86.0,87.0,82.0
+UBCV,2023,S,UDES,509,A,001,Topics in Urban Design,Yuval Fogelson,27,85.48,,90.0,78.0,0,0,0,0,0,0,0,1,7,16,3,85.0,87.0,84.0

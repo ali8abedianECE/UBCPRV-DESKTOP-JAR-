@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,152,,209,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Benjamin Bruce;Caleb Suan;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang,94,65.744680851,18.620682321,95.0,0.0,10,7,14,4,13,9,6,10,7,5,9,,,
+UBCV,2021,W,MATH,200,,105,Calculus III,Albert Chau;Benjamin Bruce;Brian Freidin;Dac-Nhan-Tam Nguyen,115,68.982608696,19.592776421,100.0,5.0,16,10,7,14,8,4,6,4,17,10,19,,,
+UBCV,2021,W,MATH,152,,209,Linear Systems,Benjamin Bruce;Kalle Karu,94,66.2,,95.0,0.0,9,7,14,,13,9,6,10,8,,9,67.5,78.0,58.0
+UBCV,2021,W,MATH,200,,105,Calculus III,Benjamin Bruce;Albert Chau,115,69.2,,100.0,5.0,16,10,7,14,8,,6,,17,10,19,70.0,84.5,57.0
+UBCV,2022,W,MATH,200,,20R,Calculus III,Benjamin Bruce;Zinovy Reichstein,103,67.8,,100.0,1.0,16,5,8,8,5,10,10,2,14,8,17,71.0,84.0,57.5
+UBCV,2022,W,MATH,200,,107,Calculus III,Benjamin Bruce;Albert Chau,127,72.7,,99.0,18.0,14,7,8,4,9,11,9,14,12,18,21,76.0,87.0,61.0
+UBCV,2023,W,MATH,120,,102,Honours Differential Calculus,Benjamin Bruce,61,72.4,,99.0,0.0,7,3,0,3,2,2,5,10,10,11,5,78.5,85.0,66.5
+UBCV,2023,W,MATH,152,,203,Linear Systems,Benjamin Bruce;Kalle Karu,205,69.6,,98.0,10.0,11,19,18,12,25,27,22,10,22,17,22,69.0,82.0,60.0

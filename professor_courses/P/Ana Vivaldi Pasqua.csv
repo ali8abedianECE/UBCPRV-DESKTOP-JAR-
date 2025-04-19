@@ -1,0 +1,84 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,S,ANTH,409,A,001,TPS APPLIED ANTH,"Kemple, Thomas;Vivaldi Pasqua, Ana",28,81.86,3.67,86,72,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,12,0,,,
+UBC,2014,S,SOCI,495,A,001,ADV STUDIES SOCI,"HOLROYD, HEATHER;Kemple, Thomas;Vivaldi Pasqua, Ana",28,81.86,3.67,86,72,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,12,0,,,
+UBC,2014,W,SOCI,302,A,001,ETHNIC & RACIAL,"Vivaldi Pasqua, Ana",67,75.06,6.71,89,60,66,0,1,0,0,0,0,0,0,0,0,0,0,5,5,6,16,14,17,3,0,,,
+UBC,2015,W,SOCI,350,A,002,SOCI THEORIES,"Vivaldi Pasqua, Ana",77,75.07,10.48,91,40,74,2,1,0,0,0,0,0,0,2,2,1,4,2,4,8,13,15,15,8,4,,,
+UBC,2016,S,ANTH,480,A,003,URBN ETHNO FDSCH,"Kemple, Thomas;Vivaldi Pasqua, Ana",6,79.67,3.93,84,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,0,,,
+UBC,2016,S,ANTH,480,B,001,URBN ETHNO FDSCH,"Kemple, Thomas;Vivaldi Pasqua, Ana",5,80.2,1.48,82,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,,,
+UBC,2016,S,SOCI,480,A,003,URB ETHN FLD SCH,"Kemple, Thomas;Vivaldi Pasqua, Ana",6,79.67,3.93,84,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,0,,,
+UBC,2016,S,SOCI,480,B,001,URB ETHN FLD SCH,"Kemple, Thomas;Vivaldi Pasqua, Ana",17,79.88,4.12,87,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,3,0,,,
+UBC,2016,W,ANTH,316,A,002,POLITICAL ANTH,"Vivaldi Pasqua, Ana",28,73.58,16.43,85,0,25,1,0,0,0,1,0,0,0,0,1,0,1,0,2,1,4,8,7,2,0,,,
+UBC,2016,W,ANTH,378,,002,ANTH OF MEDIA,"Vivaldi Pasqua, Ana",58,76.12,8.4,87,45,56,1,0,0,0,0,0,0,0,1,1,3,0,0,1,3,7,23,16,3,0,,,
+UBC,2016,W,SOCI,220,,201,INDIG PEOPLES,"Vivaldi Pasqua, Ana",29,75.61,8.15,88,51,28,0,1,0,0,0,0,0,0,0,0,1,0,1,3,2,2,7,10,2,0,,,
+UBC,2016,W,SOCI,371,,001,CLSCL TRAD THEOR,"Vivaldi Pasqua, Ana",76,74.01,6.44,90,56,74,0,2,0,0,0,0,0,0,0,0,0,2,5,4,10,20,19,10,3,1,,,
+UBC,2016,W,SOCI,372,,002,CONT DIR THEORY,"DILLEY, SHERRIE;Vivaldi Pasqua, Ana",78,72.76,8.62,90,43,77,1,0,0,0,0,0,0,0,1,1,0,2,8,11,10,17,9,13,5,2,,,
+UBC,2017,S,ANTH,378,,002,ANTH OF MEDIA,"Vivaldi Pasqua, Ana",71,75.27,13.5,88,0,61,2,4,0,0,1,1,0,0,0,2,0,0,0,3,2,9,27,16,4,0,,,
+UBC,2017,S,SOCI,371,,921,CLSCL TRAD THEOR,"Vivaldi Pasqua, Ana",61,69.64,18.66,93,0,56,3,2,0,0,3,0,0,0,0,3,1,2,6,8,5,8,14,3,6,3,,,
+UBC,2017,W,SOCI,371,,202,CLSCL TRAD THEOR,"Vivaldi Pasqua, Ana",76,75.23,8.27,90,50,75,0,1,0,0,0,0,0,0,0,0,2,2,2,3,16,11,17,11,9,2,,,
+UBC,2017,W,SOCI,372,,002,CONT DIR THEORY,"Vivaldi Pasqua, Ana",76,74.32,10.18,91,41,75,1,0,0,0,0,0,0,0,1,1,1,5,3,8,11,7,14,11,11,4,,,
+UBC,2018,S,SOCI,201,,801,ETHNIC RELATIONS,"Adkins, Jennifer;Vivaldi Pasqua, Ana",89,71.26,9.49,95,55,85,0,2,0,0,0,0,0,0,0,0,0,5,15,14,11,11,10,10,6,3,,,
+UBC,2018,S,SOCI,371,,921,CLSCL TRAD THEOR,"Vivaldi Pasqua, Ana",73,74.41,9.08,91,23,70,1,2,0,0,0,0,1,0,0,1,0,0,3,4,10,21,10,18,2,2,,,
+UBC,2018,W,ANTH,100,A,002,INTRO CULT ANTH,"Vivaldi Pasqua, Ana",85,75.9,6.51,90,53,84,0,0,0,1,0,0,0,0,0,0,1,1,2,2,12,20,24,16,4,2,,,
+UBC,2018,W,ANTH,300,A,001,CONTMP ANTH THRY,"Vivaldi Pasqua, Ana",48,74.85,12.25,91,44,42,4,0,0,1,0,0,0,0,4,4,1,1,1,2,3,4,13,7,7,3,,,
+UBC,2018,W,SOCI,371,,201,CLSCL TRAD THEOR,"Vivaldi Pasqua, Ana",58,75.85,9.07,93,42,53,2,2,0,1,0,0,0,0,2,2,0,0,1,4,5,11,14,10,6,2,,,
+UBC,2018,W,SOCI,372,,201,CONT DIR THEORY,"Vivaldi Pasqua, Ana",73,75.41,9.79,90,17,70,1,2,0,0,0,1,0,0,0,1,0,1,1,4,13,8,22,15,3,3,,,
+UBCO,2021,W,SOCI,212,,001,Sociology of Race and Ethnicity,Ana Vivaldi Pasqua;Emy Komori,67,76.611940299,10.136874218,91.0,40.0,,,,,,,,,,,3,0,1,1,2,7,9,15,14,11,4,,,
+UBCO,2021,W,SOCI,467,A,101,Social Movements,Ana Vivaldi Pasqua,31,83.935483871,5.507180064,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,4,12,9,4,,,
+UBCV,2014,S,ANTH,409,A,001,Topics in Applied Anthropology,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Thomas Kemple,28,81.85714286,3.66883053,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,6,9,12,0,,,
+UBCV,2014,S,SOCI,495,A,001,Advanced Studies in Sociology,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Heather Holroyd;Thomas Kemple,28,81.85714286,3.66883053,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,6,9,12,0,,,
+UBCV,2014,W,SOCI,302,A,001,Ethnic and Racial Inequality,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Seonok Lee,66,75.06060606,6.711365304,89.0,60.0,,,,,,,,,,,0,0,0,5,5,6,16,14,17,3,0,,,
+UBCV,2015,S,ANTH,480,B,001,Urban Ethnographic Field School (UEFS),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Kerry Greer;Oralia Gomez-Ramirez,12,82.25,4.653932843,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,6,,0,,,
+UBCV,2015,S,SOCI,480,B,001,Urban Ethnographic Field School (UEFS),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Kerry Greer;Oralia Gomez-Ramirez,13,82.0,2.273030283,85.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,9,,0,,,
+UBCV,2015,W,ANTH,312,,001,Introduction to the Anthropology of Gender,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Sitara Thobani,80,74.375,7.99584544,90.0,50.0,,,,,,,,,,,0,,,,,9,20,17,16,5,,,,
+UBCV,2015,W,SOCI,350,A,002,Sociological Theories: Classical and Contemporary Approaches,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Leanne Huang,76,75.065789474,10.482156936,91.0,40.0,,,,,,,,,,,,,,,,8,13,15,15,8,,,,
+UBCV,2016,S,ANTH,480,A,003,Urban Ethnographic Field School (UEFS),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Mascha Gugganig;Thomas Kemple,6,79.66666667,3.932768321,84.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,0,0,,,
+UBCV,2016,S,SOCI,480,A,003,Urban Ethnographic Field School (UEFS),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Thomas Kemple,6,79.66666667,3.932768321,84.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,0,0,,,
+UBCV,2016,S,SOCI,480,B,001,Urban Ethnographic Field School (UEFS),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Thomas Kemple,17,79.88235294,4.12132189,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,5,7,3,0,,,
+UBCV,2016,W,ANTH,316,A,002,Political Anthropology,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua,28,73.67857143,15.82088065,85.0,0.0,,,,,,,,,,,1,0,1,0,2,1,5,9,7,2,0,,,
+UBCV,2016,W,ANTH,378,,002,Anthropology of Media,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Ewen Albert Macarthur;Ewen Macarthur,58,76.15517241,8.330459275,87.0,45.0,,,,,,,,,,,1,3,0,0,1,3,7,24,16,3,0,,,
+UBCV,2016,W,SOCI,220,,201,Sociology of Indigenous Peoples,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua,28,75.60714286,8.152887631,88.0,51.0,,,,,,,,,,,0,1,0,1,3,2,2,7,10,2,0,,,
+UBCV,2016,W,SOCI,371,,001,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Nicole Luongo,74,74.01351351,6.443629632,90.0,56.0,,,,,,,,,,,0,0,2,5,4,10,20,19,10,3,1,,,
+UBCV,2016,W,SOCI,372,,002,Contemporary Directions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Erica Mccollum;Sam Carleton Stiegler;Sam Stiegler;Sherrie Dilley,78,72.75641026,8.622209163,90.0,43.0,,,,,,,,,,,1,0,2,8,11,10,17,9,13,5,2,,,
+UBCV,2017,S,ANTH,378,,002,Anthropology of Media,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;David Ryniker;Ewen Albert Macarthur;Ewen Macarthur,67,75.268656716,13.085478986,88.0,0.0,,,,,,,,,,,2,0,0,0,3,2,11,29,16,4,0,,,
+UBCV,2017,S,SOCI,371,,921,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Sherrie Dilley,59,69.644067797,18.662855153,93.0,0.0,,,,,,,,,,,3,1,2,6,8,5,8,14,3,6,3,,,
+UBCV,2017,W,SOCI,371,,202,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Zachary Hyde,75,75.226666667,8.26515534,90.0,50.0,,,,,,,,,,,0,2,2,2,3,16,11,17,11,9,2,,,
+UBCV,2017,W,SOCI,372,,002,Contemporary Directions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Zachary Hyde,76,74.315789474,10.176064107,91.0,41.0,,,,,,,,,,,1,1,5,3,8,11,7,14,11,11,4,,,
+UBCV,2018,S,ANTH,378,,002,Anthropology of Media,Amirpouyan Shiva;Ana Vivaldi Pasqua;Basant Ahmed Sayed,68,76.102941176,11.870117637,92.0,17.0,,,,,,,,,,,2,0,0,2,6,5,7,18,19,7,2,,,
+UBCV,2018,S,SOCI,201,,801,Ethnic Relations,Adriana Brodyn;Ana Vivaldi Pasqua;Jennifer Adkins,87,71.425287356,9.448307568,95.0,55.0,,,,,,,,,,,0,0,5,15,14,11,11,11,11,6,3,,,
+UBCV,2018,S,SOCI,371,,921,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;D Kyle Sutherland;Kyle Gordon Kyle Gordon R Sutherland;Kyle Gordon Sutherland,71,74.408450704,9.084645547,91.0,23.0,,,,,,,,,,,1,0,0,3,4,10,21,10,18,2,2,,,
+UBCV,2018,W,ANTH,100,A,002,Introduction to Cultural Anthropology,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Emma Feltes;Emma Rose Feltes;Steffan Gordon;Steffan Taylor Gordon,85,75.517647059,7.386622021,90.0,43.0,,,,,,,,,,,1,1,1,2,2,12,20,24,16,4,2,,,
+UBCV,2018,W,ANTH,300,A,001,Contemporary Anthropological Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Daniel Manson;David Ryniker,48,73.979166667,13.125401041,91.0,38.0,,,,,,,,,,,5,1,1,1,2,4,4,13,7,7,3,,,
+UBCV,2018,W,SOCI,371,,201,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;James M White;Lily Ivanova;Seth Abrutyn,56,76.285714286,7.847904841,93.0,46.0,,,,,,,,,,,1,0,0,1,5,5,11,15,10,6,2,,,
+UBCV,2018,W,SOCI,372,,201,Contemporary Directions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Jastej Luddu,71,75.408450704,9.792967542,90.0,17.0,,,,,,,,,,,1,0,1,1,4,13,8,22,15,3,3,,,
+UBCV,2019,S,ANTH,378,,002,Anthropology of Media,Amirpouyan Shiva;Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Basant Ahmed Sayed,90,77.166666667,10.125338113,93.0,0.0,,,,,,,,,,,1,0,0,1,1,9,19,24,23,9,3,,,
+UBCV,2019,S,SOCI,201,,801,Ethnic Relations,Ana Vivaldi Pasqua,40,78.15,5.572597792,91.0,66.0,,,,,,,,,,,0,0,0,0,2,2,6,16,9,4,1,,,
+UBCV,2019,S,SOCI,371,,921,Classical Traditions in Theory,Adam Colin Howe;Adam Howe;Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua,65,78.046153846,7.467493658,90.0,51.0,,,,,,,,,,,0,1,1,2,0,5,9,21,13,12,1,,,
+UBCV,2019,W,ANTH,100,A,002,Introduction to Cultural Anthropology,Ana Vivaldi Pasqua;Christopher Smith;Emily Leischner;Jennifer Kramer,76,72.592105263,11.313917838,88.0,23.0,,,,,,,,,,,2,2,1,4,8,13,13,14,9,10,0,,,
+UBCV,2019,W,ANTH,300,A,001,Contemporary Anthropological Theory,Ana Vivaldi Pasqua;Brenda Fitzpatrick;Sarah Raven;Shaylih Muehlmann,17,74.764705882,21.194130708,91.0,0.0,,,,,,,,,,,1,0,0,1,2,1,0,3,2,6,1,,,
+UBCV,2019,W,ANTH,312,,001,Anthropology of Gender,Ana Vivaldi Pasqua,40,77.2,12.300093808,92.0,16.0,,,,,,,,,,,1,1,0,1,1,1,2,18,6,8,1,,,
+UBCV,2019,W,SOCI,217,,102,Research Methods,Ana Vivaldi Pasqua;Francois Lachapelle;Oral Robinson,86,71.720930233,11.845725129,92.0,38.0,,,,,,,,,,,2,5,7,6,10,8,9,8,20,9,2,,,
+UBCV,2019,W,SOCI,361,,101,Social Inequality,Adam Colin Howe;Adam Howe;Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Donna Lester-Smith,76,77.513157895,7.842607425,93.0,32.0,,,,,,,,,,,1,0,0,0,2,8,11,26,16,10,2,,,
+UBCV,2019,W,SOCI,371,,204,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Craig Meadows;Jing Zhao,77,77.116883117,7.93886845,90.0,50.0,,,,,,,,,,,0,1,0,2,7,6,11,14,23,8,5,,,
+UBCV,2019,W,SOCI,372,,201,Contemporary Directions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Dawn Heather Currie;Qiang Fu;Sanjeev Kumar Routray;Sanjeev Routray;Wei Jie Chow,79,75.139240506,6.494048907,88.0,58.0,,,,,,,,,,,0,0,2,0,9,13,18,10,22,5,0,,,
+UBCV,2020,S,ANTH,378,,002,Anthropology of Media,Amirpouyan Shiva;Ana Vivaldi Pasqua;Byron Clark;Hilary Agro;Rosaleen Mcafee,199,75.180904523,8.149948081,92.0,24.0,,,,,,,,,,,1,1,3,9,13,31,32,53,35,19,2,,,
+UBCV,2020,S,SOCI,371,,921,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Craig Meadows;Gal Nurick;Merve Umay Kader,40,68.05,20.597423289,90.0,0.0,,,,,,,,,,,3,2,2,2,3,3,9,4,6,5,1,,,
+UBCV,2020,W,ANTH,312,,200,Anthropology of Gender,Ana Vivaldi Pasqua;Nancy Phillips,37,77.945945946,11.927899009,90.0,14.0,,,,,,,,,,,1,0,0,0,0,1,7,10,10,6,2,,,
+UBCV,2020,W,SOCI,502,,101,Research Design and Techniques (Quantitative),Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Gerry Veenstra,10,87.5,3.100179206,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,2,,,
+UBCV,2021,S,SOCI,372,,901,Contemporary Directions in Theory,Ana Vivaldi Pasqua;Mark Shakespear,55,76.836363636,8.045619089,91.0,47.0,,,,,,,,,,,1,1,0,0,2,8,6,18,12,4,3,,,
+UBCV,2021,W,SOCI,372,,203,Contemporary Directions in Theory,Ana Vivaldi Pasqua;Jada Charles,82,73.512195122,16.4611356,95.0,0.0,,,,,,,,,,,7,1,1,4,2,6,9,21,17,7,7,,,
+UBCO,2021,W,SOCI,212,,001,Sociology of Race and Ethnicity,Ana Vivaldi Pasqua,67,76.6,,91.0,40.0,,,,,,,,,,,,,,,,7,9,15,14,11,,77.0,82.5,72.5
+UBCO,2021,W,SOCI,467,A,101,Social Movements,Ana Vivaldi Pasqua,31,83.9,,94.0,69.0,,,,,,,,,,,,,,,,,,,12,9,,84.0,86.5,81.0
+UBCV,2021,S,SOCI,372,,901,Contemporary Directions in Theory,Ana Vivaldi Pasqua,55,76.8,,91.0,47.0,,,,,,,,,,,,,,,,8,6,18,12,,,78.0,81.0,73.0
+UBCV,2021,W,SOCI,372,,203,Contemporary Directions in Theory,Ana Vivaldi Pasqua,82,75.3,,95.0,0.0,,,,,,,,,,,,,,,,6,11,21,17,8,7,78.0,82.0,72.3
+UBCV,2022,S,SOCI,372,,901,Contemporary Directions in Theory,Ana Vivaldi Pasqua,35,73.5,,94.0,40.0,,,,,,,,,,,3,1,0,1,3,3,5,7,5,5,2,76.0,82.0,68.5
+UBCV,2022,W,SOCI,301,,203,Sociology of Development and Underdevelopment,Ana Vivaldi Pasqua,68,76.4,,93.0,50.0,,,,,,,,,,,0,3,0,2,5,9,10,8,19,8,4,77.0,83.3,71.0
+UBCV,2022,W,SOCI,361,,204,Social Inequality,Ana Vivaldi Pasqua,36,77.9,,93.0,19.0,,,,,,,,,,,1,1,0,0,1,1,7,6,10,6,3,80.0,84.5,73.0
+UBCV,2022,W,SOCI,371,,101,Classical Traditions in Theory,Ana Vivaldi Pasqua,73,77.7,,92.0,42.0,,,,,,,,,,,1,1,0,1,2,5,7,25,24,6,1,78.0,82.0,76.0
+UBCV,2022,W,SOCI,414,,101,Feminist Theory,Ana Vivaldi Pasqua,21,82.8,,92.0,69.0,,,,,,,,,,,0,0,0,0,0,2,2,3,1,9,4,85.0,87.0,77.0
+UBCV,2023,S,SOCI,372,,901,Contemporary Directions in Theory,Ana Vivaldi Pasqua,10,80.5,,94.0,62.0,,,,,,,,,,,0,0,0,1,0,2,0,0,2,3,2,84.0,86.0,72.5
+UBCV,2023,W,GRSJ,303,,201,"Gender, Race, Social Justice and the Law",Ana Vivaldi Pasqua,44,81.7,,90.0,65.0,,,,,,,,,,,0,0,0,0,1,0,6,7,13,15,1,82.0,85.0,78.0
+UBCV,2023,W,LAST,205,,101,Issues of Development in Modern Latin America,Ana Vivaldi Pasqua,29,76.07,,86.0,43.0,,,,,,,,,,,2,0,0,0,0,1,3,8,13,1,0,79.0,80.0,76.0
+UBCV,2023,W,SOCI,371,,202,Classical Traditions in Theory,Ana Vivaldi Pasqua,90,77.4,,94.0,48.0,,,,,,,,,,,2,0,0,3,9,6,16,11,24,14,5,78.0,84.0,73.0
+UBCV,2023,W,SOCI,372,,201,Contemporary Directions in Theory,Ana Vivaldi Pasqua,76,75.1,,92.0,0.0,,,,,,,,,,,2,4,1,2,3,5,14,12,18,12,3,77.5,82.0,73.0
+UBCV,2023,W,SOCI,382,,103,Sociological Methods: Qualitative Research,Ana Vivaldi Pasqua,77,76.1,,90.0,5.0,,,,,,,,,,,4,0,0,1,3,7,6,17,21,16,1,79.0,84.0,74.0
+UBCV,2023,W,SOCI,414,,101,Feminist Theory,Ana Vivaldi Pasqua,29,80.0,,89.0,22.0,,,,,,,,,,,1,0,0,1,0,0,3,3,8,12,0,83.5,87.0,76.0

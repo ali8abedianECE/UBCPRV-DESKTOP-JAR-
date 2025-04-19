@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MATH,302,,101,INTR PROBABILITY,"Balka, Richard",126,77.28,11.1,98,40,122,1,1,0,2,0,0,0,0,1,1,3,2,6,11,10,22,13,23,15,17
+UBC,2015,W,MATH,303,,201,INTR STOCH PROC,"Balka, Richard",98,74.01,14.36,99,37,89,6,3,0,0,0,0,0,3,3,6,6,3,5,7,7,14,10,15,9,13
+UBC,2016,W,MATH,253,,105,MULTIVRBL CALC,"Balka, Richard",155,73.42,11.54,99,33,147,6,1,0,1,0,0,0,1,5,6,2,8,8,15,23,27,19,22,10,13
+UBC,2016,W,MATH,302,,201,INTR PROBABILITY,"Balka, Richard",104,77.8,11.46,98,43,101,1,2,0,0,0,0,0,0,1,1,0,8,5,6,10,8,14,18,15,17
+UBC,2017,W,MATH,302,,102,INTR PROBABILITY,"Balka, Richard",104,65.66,13.33,92,33,90,11,1,0,2,0,0,0,3,8,11,10,11,12,5,19,9,8,9,4,3
+UBC,2017,W,MATH,303,,202,INTR STOCH PROC,"Balka, Richard",94,72.76,18.44,100,12,83,7,4,0,0,0,1,0,4,2,7,6,9,4,7,6,7,13,6,8,17
+UBCV,2015,W,MATH,302,,101,Introduction to Probability,Omer Angel;Richard Balka,125,76.464,12.733967782,98.0,25.0,,,,,,,,,,,3,3,2,6,11,10,22,13,23,15,17
+UBCV,2015,W,MATH,303,,201,Introduction to Stochastic Processes,Gordon Slade;Richard Balka,95,74.010526316,14.358995058,99.0,37.0,,,,,,,,,,,6,6,3,5,7,7,14,10,15,9,13
+UBCV,2016,W,MATH,253,,105,Multivariable Calculus,Colin Macdonald;Richard Balka,154,72.94805195,12.93310704,99.0,0.0,,,,,,,,,,,7,2,8,8,15,23,27,19,22,10,13
+UBCV,2016,W,MATH,302,,201,Introduction to Probability,Omer Angel;Richard Balka,102,77.80392157,11.45895751,98.0,43.0,,,,,,,,,,,1,0,8,5,6,10,8,14,18,15,17
+UBCV,2017,W,MATH,302,,102,Introduction to Probability,Gordon Slade;Richard Balka,103,64.805825243,14.620062936,92.0,11.0,,,,,,,,,,,13,10,11,12,5,19,9,8,9,4,3
+UBCV,2017,W,MATH,303,,202,Introduction to Stochastic Processes,Richard Balka,90,72.755555556,18.435622035,100.0,12.0,,,,,,,,,,,7,6,9,4,7,6,7,13,6,8,17

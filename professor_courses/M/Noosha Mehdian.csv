@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,LLED,200,,V95,INTRO ACAD WRIT,"Mehdian, Noosha",15,60.8,10.83,80,35,13,2,0,0,0,0,0,0,1,1,2,0,2,6,2,1,1,0,1,0,0,,,
+UBC,2017,W,LLED,200,,V96,INTRO ACAD WRIT,"Mehdian, Noosha",13,64.92,10.14,79,46,12,1,0,0,0,0,0,0,0,1,1,2,1,1,3,1,2,2,0,0,0,,,
+UBC,2017,W,LLED,201,,V94,CRIT READ&WRIT,"Mehdian, Noosha",13,74.85,9.14,94,57,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,3,2,0,1,,,
+UBC,2017,W,LLED,201,,V98,CRIT READ&WRIT,"Mehdian, Noosha",14,65.93,6.07,81,59,14,0,0,0,0,0,0,0,0,0,0,0,1,4,7,0,0,1,1,0,0,,,
+UBC,2017,W,VANT,140,D,V03,CONTENT LANG TUT,"Mehdian, Noosha",15,73.07,8.47,88,54,15,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,5,4,0,2,0,,,
+UBC,2017,W,VANT,140,D,V21,CONTENT LANG TUT,"Mehdian, Noosha",12,72.5,6.59,82,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,4,1,0,0,,,
+UBCV,2017,W,LLED,200,,V95,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,15,60.8,10.831171946,80.0,35.0,,,,,,,,,,,2,0,2,6,2,1,1,0,1,0,0,,,
+UBCV,2017,W,LLED,200,,V96,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,13,64.923076923,10.144469252,79.0,46.0,,,,,,,,,,,1,2,1,1,3,1,2,2,0,0,0,,,
+UBCV,2017,W,LLED,201,,V94,Critical Reading and Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,13,74.846153846,9.136430319,94.0,57.0,,,,,,,,,,,0,0,1,0,0,5,1,3,2,0,1,,,
+UBCV,2017,W,LLED,201,,V98,Critical Reading and Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,14,65.928571429,6.069650677,81.0,59.0,,,,,,,,,,,0,0,1,4,7,0,0,1,1,0,0,,,
+UBCV,2017,W,VANT,140,D,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,15,73.066666667,8.472364037,88.0,54.0,,,,,,,,,,,0,1,0,1,2,0,5,4,0,2,0,,,
+UBCV,2017,W,VANT,140,D,V05,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,11,70.0,5.779273311,77.0,61.0,,,,,,,,,,,0,0,0,2,2,2,2,3,0,0,0,,,
+UBCV,2017,W,VANT,140,D,V21,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,12,72.5,6.585107164,82.0,60.0,,,,,,,,,,,0,0,0,1,2,3,1,4,1,0,0,,,
+UBCV,2017,W,VANT,140,D,V22,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,10,68.7,11.005554153,81.0,43.0,,,,,,,,,,,1,0,0,1,2,1,3,0,2,0,0,,,
+UBCV,2019,W,LLED,200,,V17,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,14,61.642857143,14.436104007,90.0,25.0,,,,,,,,,,,1,2,2,4,0,4,0,0,0,0,1,,,
+UBCV,2019,W,LLED,201,,V97,Critical Reading and Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,17,76.235294118,9.549407127,95.0,59.0,,,,,,,,,,,0,0,1,0,3,0,3,3,4,2,1,,,
+UBCV,2020,W,LLED,200,,V08,Introduction to Writing in Academic and Professional Registers,Brett Todd;Noosha Mehdian;Sandra Zappa,14,60.285714286,17.521101877,76.0,5.0,,,,,,,,,,,1,1,3,2,3,0,3,1,0,0,0,,,
+UBCV,2020,W,LLED,200,,V09,Introduction to Writing in Academic and Professional Registers,Brett Todd;Noosha Mehdian;Patricia Margaret Weaver;Sandra Zappa,14,66.428571429,9.549178666,81.0,51.0,,,,,,,,,,,0,3,1,0,3,2,3,1,1,0,0,,,
+UBCV,2020,W,LLED,200,,V11,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,9,67.666666667,24.36185543,85.0,5.0,,,,,,,,,,,1,0,0,0,2,0,0,4,1,1,0,,,
+UBCV,2020,W,LLED,200,,V12,Introduction to Writing in Academic and Professional Registers,Cynthia Lewis;Noosha Mehdian;Sandra Zappa,9,72.444444444,6.166666667,82.0,65.0,,,,,,,,,,,0,0,0,0,3,1,3,0,2,0,0,,,
+UBCV,2021,W,LLED,200,,V05,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Romina Simian;Sandra Zappa,14,76.357142857,5.2419483,85.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,1,4,1,0,,,
+UBCV,2021,W,LLED,200,,V06,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa;Won Kim,7,55.857142857,24.909359496,80.0,15.0,,,,,,,,,,,2,0,1,0,1,1,0,1,1,0,0,,,
+UBCV,2021,W,LLED,200,,V05,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,14,76.4,,85.0,68.0,,,,,,,,,,,,,,,,,6,,,,,75.0,81.0,72.3
+UBCV,2021,W,LLED,200,,V06,Introduction to Writing in Academic and Professional Registers,Noosha Mehdian;Sandra Zappa,7,55.9,,80.0,15.0,,,,,,,,,,,,,,,,,,,,,,64.0,73.5,42.5
+UBCV,2022,W,VANT,140,D,V04,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Noosha Mehdian;Sandra Zappa,11,73.9,,83.0,47.0,,,,,,,,,,,1,0,0,0,1,2,0,3,4,0,0,78.0,80.5,69.5
+UBCV,2022,W,VANT,140,D,V14,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Noosha Mehdian,11,66.7,,84.0,20.0,,,,,,,,,,,2,0,0,0,2,0,2,3,2,0,0,75.0,77.5,66.0

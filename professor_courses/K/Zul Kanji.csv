@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,DHYG,462,,002,LIT REVIEW II,"Kanji, Zul",25,85.2,2.27,90,81,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,17,1,,,
+UBC,2015,W,DHYG,462,,99C,LIT REVIEW II,"Kanji, Zul",16,85.19,3.51,92,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,2,,,
+UBC,2016,W,DHYG,110,,001,DNT HYG TRY & PR,"Kanji, Zul",24,82.5,4.28,90,74,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,10,6,2,,,
+UBC,2016,W,DHYG,462,,002,LIT REVIEW II,"Kanji, Zul",22,84.36,2.66,88,79,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,11,0,,,
+UBC,2017,W,DHYG,110,,001,DNT HYG TRY & PR,"Kanji, Zul",25,84.36,4.32,91,76,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,9,5,,,
+UBC,2017,W,DHYG,462,,002,LIT REVIEW II,"Kanji, Zul",22,84.95,3.26,92,80,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,3,,,
+UBC,2018,W,DHYG,110,,001,DNT HYG TRY & PR,"Kanji, Zul",26,84.85,4.25,93,78,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,8,6,,,
+UBC,2018,W,DHYG,208,,001,ORAL HLTH SCI II,"Hatzimanolakis, Penny;Kanji, Zul;Karan, Jelena",24,79.38,4.96,88,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,12,3,0,,,
+UBC,2018,W,DHYG,462,,002,LIT REVIEW II,"Kanji, Zul",26,86.19,3.75,92,77,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,12,6,,,
+UBCV,2015,W,DHYG,462,,002,Literature Review II,Zul Kanji,25,85.2,2.273030283,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,17,1,,,
+UBCV,2015,W,DHYG,462,,99C,Literature Review II,Zul Kanji,16,85.1875,3.506541506,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,8,2,,,
+UBCV,2016,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,24,82.5,4.283436248,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,4,10,6,2,,,
+UBCV,2016,W,DHYG,462,,002,Literature Review II,Zul Kanji,22,84.36363636,2.664501285,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,11,0,,,
+UBCV,2017,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,25,84.36,4.319336369,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,8,9,5,,,
+UBCV,2017,W,DHYG,208,,001,Oral Health Sciences II,Jelena Karan;Jelena Prelec;Ravindra Shah;Zul Kanji,23,78.695652174,6.018417057,90.0,66.0,,,,,,,,,,,0,0,0,0,1,3,3,4,8,3,1,,,
+UBCV,2017,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Diana Lin;Jelena Karan;Jelena Prelec;Zul Kanji,23,81.0,4.66125227,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,13,4,0,,,
+UBCV,2017,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji,22,84.090909091,4.06973839,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,11,1,,,
+UBCV,2017,W,DHYG,462,,002,Literature Review II,Zul Kanji,22,84.954545455,3.258355892,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,10,3,,,
+UBCV,2018,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa;Zul Kanji,26,84.846153846,4.249162813,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,8,6,,,
+UBCV,2018,W,DHYG,208,,001,Oral Health Sciences II,Denise Laronde;Hin Chung Pau;Jelena Karan;Jelena Prelec;Penny Hatzimanolakis;Zul Kanji,24,79.375,4.959071617,88.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,4,12,3,0,,,
+UBCV,2018,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Batoul Shariati;Carrie Krekoski;Denise Laronde;Diana Lin;Hin Chung Pau;Jelena Karan;Jelena Prelec;Lari Hakkinen;Penny Hatzimanolakis;Ravindra Shah;Zul Kanji,24,78.791666667,3.476369504,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,8,9,1,0,,,
+UBCV,2018,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji,26,84.769230769,3.191334421,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,13,1,,,
+UBCV,2018,W,DHYG,462,,002,Literature Review II,Zul Kanji,26,86.192307692,3.752537603,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,12,6,,,
+UBCV,2019,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,25,83.68,4.441471228,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,8,4,,,
+UBCV,2019,W,DHYG,208,,001,Oral Health Sciences II,Carrie Krekoski;Eli Whitney;Jelena Karan;Lari Hakkinen;Penny Hatzimanolakis;Rae Mcfarlane;Ricardo Marins De Carvalho;Susan Schmitz;Zul Kanji,23,81.913043478,4.813929065,89.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,2,14,6,0,,,
+UBCV,2019,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Diana Lin;Hin Chung Pau;Jelena Karan;Lari Hakkinen;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,23,82.130434783,3.152262504,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,13,5,0,,,
+UBCV,2019,W,DHYG,310,,001,Dental Hygiene Theory & Practice III,Batoul Shariati;Denise Laronde;Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Sepehr Zahedi;Susan Schmitz;Zul Kanji,23,80.565217391,3.382119924,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,6,12,3,0,,,
+UBCV,2019,W,DHYG,406,,001,Guided Study in Dental Hygiene,Batoul Shariati;Carrie Krekoski;Denise Laronde;Hossain Najar;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji,8,90.625,1.597989809,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2019,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Batoul Shariati;Diana Lin;Jelena Karan;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,22,83.409090909,3.685997841,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,14,7,0,,,
+UBCV,2019,W,DHYG,462,,002,Literature Review II,Zul Kanji,22,85.409090909,3.018342196,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,12,3,,,
+UBCV,2019,W,DHYG,462,,99C,Literature Review II,Zul Kanji,10,84.0,5.077182071,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,5,3,1,,,
+UBCV,2020,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,23,85.826086957,3.311854382,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,11,5,,,
+UBCV,2020,W,DHYG,208,,001,Oral Health Sciences II,Charanpreet Dhami;Charanpreett Dhami;Eli Whitney;Gayathri Murthy;Jelena Karan;Penny Hatzimanolakis;Ricardo Marins De Carvalho;Susan Schmitz;Zul Kanji,25,82.08,4.182503238,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,15,4,1,,,
+UBCV,2020,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Charanpreet Dhami;Charanpreett Dhami;Diana Lin;Jelena Karan;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,24,84.208333333,3.270143816,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,13,7,2,,,
+UBCV,2020,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,23,88.130434783,3.671813372,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,9,,,
+UBCV,2020,W,DHYG,462,,002,Literature Review II,Zul Kanji,23,85.913043478,3.527979637,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,12,5,,,
+UBCV,2020,W,DHYG,462,,99C,Literature Review II,Zul Kanji,19,84.368421053,3.269565488,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,9,1,,,
+UBCV,2021,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,22,81.954545455,5.349475032,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,7,7,1,,,
+UBCV,2021,W,DHYG,462,,002,Literature Review II,Zul Kanji,22,85.454545455,3.217915219,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,11,3,,,
+UBCV,2021,W,DHYG,462,,99C,Literature Review II,Zul Kanji,9,86.888888889,3.218867986,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,3,,,
+UBCV,2021,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,25,80.0,,90.0,61.0,,,,,,,,,,,,,,,,,,,13,,,81.0,83.0,78.0
+UBCV,2021,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Charanpreet Dhami;Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,23,82.8,,89.0,74.0,,,,,,,,,,,,,,,,,,,13,6,,84.0,84.5,81.0
+UBCV,2021,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji;Diana Lin;Susan Schmitz,22,82.0,,92.0,71.0,,,,,,,,,,,,,,,,,,,6,8,,82.5,85.8,77.5
+UBCV,2021,W,DHYG,462,,99C,Literature Review II,Zul Kanji,19,86.7,,93.0,81.0,,,,,,,,,,,,,,,,,,,,9,,87.0,89.0,84.5
+UBCV,2021,W,DHYG,462,,002,Literature Review II,Zul Kanji,22,85.5,,91.0,78.0,,,,,,,,,,,,,,,,,,,7,11,,85.5,87.8,83.3
+UBCV,2022,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,23,82.0,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,3,7,8,2,82.0,86.0,79.0
+UBCV,2022,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,21,80.2,,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,7,8,4,0,80.0,84.0,78.0
+UBCV,2022,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji;Diana Lin;Rae McFarlane;Susan Schmitz,25,84.6,,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,5,4,10,5,85.0,89.0,81.0
+UBCV,2022,W,DHYG,462,,99C,Literature Review II,Charanpreet Dhami;Zul Kanji,26,83.8,,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,14,9,2,84.0,85.0,82.0
+UBCV,2022,W,DHYG,462,,002,Literature Review II,Charanpreet Dhami;Zul Kanji,25,85.2,,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,8,7,85.0,90.0,81.0
+UBCV,2023,W,DHYG,110,,001,Dental Hygiene Theory and Practice I,Leeann Donnelly;Zul Kanji,26,83.38,,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,11,9,2,84.0,85.0,81.0
+UBCV,2023,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,21,77.65,,87.0,0.0,,,,,,,,,,,1,0,0,0,0,0,2,3,7,7,0,81.0,85.25,78.75
+UBCV,2023,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Charanpreet Dhami;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji;Jelena Karan;Diana Lin;Susan Schmitz,23,85.0,,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,6,4,83.0,88.5,82.0

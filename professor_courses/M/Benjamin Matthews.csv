@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Douglas Altshuler;Katie Marshall;Philip Matthews;Robert Edward Shadwick,7,87.0,3.0,90.0,84.0,0,0,0,0,0,0,0,0,3,1,3,,,
+UBCV,2020,W,APBI,427,,201,Insect Ecology,Benjamin Matthews;George Haughn;Michelle Tseng;Natasha Klasios,6,69.333333333,29.682767167,92.0,11.0,1,0,0,0,0,1,1,0,1,1,1,,,
+UBCV,2020,W,BIOL,372,,201,Principles of Neurobiology II,Benjamin Matthews;Duo Cheng;Michael Gordon;Natalie Casson;Setareh Shariati,165,86.915151515,8.21094307,97.0,51.0,0,2,1,1,0,2,6,16,23,36,78,,,
+UBCV,2020,W,BIOL,411,,201,Insect Ecology,Benjamin Matthews;Erin Gaynor;George Haughn;Michelle Tseng;Natasha Klasios,18,90.333333333,5.087470191,96.0,79.0,0,0,0,0,0,0,0,1,2,4,11,,,
+UBCV,2020,W,BIOL,463,,101,Gene Regulation in Development,Benjamin Matthews;Evan Warner;Pamela Kalas,55,86.090909091,5.132585542,95.0,70.0,0,0,0,0,0,1,1,1,17,19,16,,,
+UBCV,2020,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Douglas Altshuler;Katie Marshall;Robert Edward Shadwick,9,91.222222222,2.223610677,95.0,89.0,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,W,APBI,311,,001,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Benjamin Matthews;Colin Brauner;Derek Somo;Gauthier Monnet,17,77.176470588,9.050105622,87.0,58.0,0,0,1,1,1,1,1,3,5,4,0,,,
+UBCV,2021,W,BIOL,364,,201,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Benjamin Matthews;Colin Brauner;Derek Somo;Gauthier Monnet,169,78.461538462,10.985379895,95.0,38.0,5,3,0,4,8,14,17,20,40,35,23,,,
+UBCV,2021,W,BIOL,372,,101,Principles of Neurobiology II,Benjamin Matthews;Elsa Cyr;Michael Gordon,57,79.245614035,10.690918546,98.0,46.0,1,1,1,3,1,2,12,5,8,16,7,,,
+UBCV,2021,W,BIOL,372,,201,Principles of Neurobiology II,Benjamin Matthews;Elsa Cyr;Jinfang Li;Minseon Jung,140,76.485714286,15.775623539,100.0,0.0,7,4,5,6,7,12,14,14,25,21,25,,,
+UBCV,2021,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Katie Marshall,7,90.571428571,2.572750983,95.0,88.0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,W,BIOL,372,,101,Principles of Neurobiology II,Michael Gordon;Benjamin Matthews,57,79.2,,98.0,46.0,,,,,,,12,,8,16,7,82.0,88.0,74.0
+UBCV,2021,W,BIOL,372,,201,Principles of Neurobiology II,Benjamin Matthews,139,77.8,,100.0,0.0,,,,,7,13,14,15,25,21,27,81.0,87.0,70.5
+UBCV,2021,W,NRSC,501,,001,Neuroscience II,Doris Doudet;Anthony Herdman;Veronica Hirsch-Reinshagen La;Shannon Kolind;Benjamin Matthews;Orson Moritz;Timothy Murphy;Miriam Pai-Spering;Matthew Ramer;Julie Robillard;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,35,85.5,,98.0,80.0,,,,,,,,,15,16,,85.0,88.0,82.5
+UBCV,2021,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Katie Marshall;Benjamin Matthews,7,90.6,,95.0,88.0,,,,,,,,,,,,90.0,91.5,89.0
+UBCV,2022,W,BIOL,372,,201,Principles of Neurobiology II,Benjamin Matthews,128,77.0,,95.0,0.0,3,6,6,3,6,9,13,15,26,24,17,81.0,86.3,70.0
+UBCV,2022,W,NRSC,501,,001,Neuroscience II,Silke Cresswell;Anthony Herdman;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Miriam Pai-Spering;Matthew Ramer;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,23,85.8,,94.0,75.0,0,0,0,0,0,0,1,0,8,9,5,86.0,89.0,81.5
+UBCV,2022,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Katie Marshall;Benjamin Matthews,6,93.2,,98.0,91.0,0,0,0,0,0,0,0,0,0,0,6,92.0,93.5,92.0
+UBCV,2023,W,BIOL,372,,101,Principles of Neurobiology II,Benjamin Matthews,57,82.4,,96.0,46.0,1,2,0,2,0,3,6,1,9,17,16,86.0,90.0,76.0
+UBCV,2023,W,NRSC,501,,001,Neuroscience II,Steven Barnes;Clare Louise Beasley;Luke Clark;Silke Cresswell;Lauren Emberson;Stanley Bogdan Floresco;Anthony Herdman;Veronica Hirsch-Reinshagen la;William Honer;Hyosub Kim;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Orson Moritz;Haakon Nygaard;Miriam Pai-Spering;Matthew Ramer;Catharine Rankin;Julie Robillard;Jeremy Seamans;Jason Snyder;Nicholas Vaughan Swindale;Anthony Traboulsee;Victor Viau,22,85.68,,95.0,63.0,1,0,0,0,0,0,0,1,4,12,4,87.0,89.0,84.25

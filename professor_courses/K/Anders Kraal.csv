@@ -1,0 +1,133 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,PHIL,100,,001,INTRO TO PHIL,"Kraal, Anders;Russell, Joseph Paul",121,68.56,16.2,93,0,103,10,8,0,0,1,1,2,1,5,10,12,6,7,4,12,20,11,17,12,2,,,
+UBC,2015,W,PHIL,220,A,004,SYMBOLIC LOGIC I,"Kraal, Anders",98,75.94,13.76,100,30,93,3,2,0,0,0,0,0,2,1,3,4,2,7,6,10,14,9,15,8,18,,,
+UBC,2015,W,PHIL,314,A,001,PHIL 17TH CENT,"Kraal, Anders",46,71.87,11.26,94,50,45,0,1,0,0,0,0,0,0,0,0,5,2,2,4,8,8,4,5,6,1,,,
+UBC,2015,W,PHIL,315,A,002,PHIL 18TH CENT,"Kraal, Anders",39,70.11,17.85,94,24,33,4,2,0,0,0,0,1,2,1,4,3,2,3,2,1,7,4,3,1,7,,,
+UBC,2016,W,PHIL,101,,001,INTRO PHILOSOPHY,"Kraal, Anders",110,76.01,7.9,91,43,105,1,2,0,0,0,0,0,0,1,1,1,0,5,7,10,18,26,27,9,2,,,
+UBC,2016,W,PHIL,314,A,001,PHIL 17TH CENT,"Kraal, Anders",78,77.39,13.78,97,0,75,2,0,0,0,1,0,0,0,1,2,1,3,2,4,5,9,10,18,12,11,,,
+UBC,2016,W,PHIL,316,,001,Phil After 1800,"Kraal, Anders",72,77.37,8.55,93,53,71,0,1,0,0,0,0,0,0,0,0,1,0,1,10,3,16,13,9,13,5,,,
+UBC,2016,W,PHIL,349,A,001,PHIL OF RELIGION,"Kraal, Anders",80,78.65,8.19,93,54,77,0,3,0,0,0,0,0,0,0,0,1,1,1,2,9,11,16,16,12,8,,,
+UBC,2016,W,PHIL,349,A,002,PHIL OF RELIGION,"Kraal, Anders",69,76.61,9.75,93,54,66,0,2,0,0,0,0,0,0,0,0,1,1,5,5,9,10,9,8,11,7,,,
+UBC,2017,W,PHIL,101,,002,INTRO PHILOSOPHY,"Kraal, Anders",109,61.96,14.42,88,22,96,7,5,1,0,0,0,1,6,0,7,30,12,6,6,11,10,7,9,5,0,,,
+UBC,2017,W,PHIL,314,,001,PHIL 17TH CENT,"Kraal, Anders",79,71.43,13.97,95,16,77,2,0,0,0,0,1,0,1,0,2,8,5,4,6,12,9,8,14,7,4,,,
+UBC,2017,W,PHIL,316,,001,Phil After 1800,"Kraal, Anders",76,70.84,15.94,94,3,71,2,0,0,0,1,0,0,1,0,2,12,5,3,5,3,11,6,12,10,4,,,
+UBC,2017,W,PHIL,347,,001,PHIL OF RELIGION,"Kraal, Anders",71,71.89,12.71,89,32,63,1,2,1,0,0,0,0,1,0,1,7,3,6,3,8,6,8,13,9,0,,,
+UBC,2017,W,PHIL,385,,002,EXISTENTIALISM,"Kraal, Anders",119,77.48,8.27,92,16,111,1,0,1,0,0,1,0,0,0,1,0,1,1,4,9,16,35,29,15,1,,,
+UBC,2017,W,PHIL,385,,003,EXISTENTIALISM,"Kraal, Anders",103,70.5,14.41,94,11,94,2,2,0,0,0,2,0,0,0,2,11,4,10,8,8,12,14,13,10,4,,,
+UBC,2017,W,PHIL,415,,001,PHLSPHY I. KANT,"Kraal, Anders",26,78.52,10.74,92,50,23,0,3,0,0,0,0,0,0,0,0,2,0,1,0,0,2,4,7,6,1,,,
+UBC,2018,S,PHIL,240,,001,INTRO TO EPISTOM,"Kraal, Anders",63,69.19,19.55,98,8,54,5,3,0,0,1,1,2,1,0,5,7,2,2,7,4,5,7,8,6,6,,,
+UBC,2018,S,PHIL,347,,001,PHIL OF RELIGION,"Kraal, Anders",78,74.77,13.26,99,33,68,1,3,1,0,0,0,0,1,0,1,7,1,4,4,7,7,9,13,9,7,,,
+UBC,2018,W,PHIL,101,,002,INTRO PHILOSOPHY,"Kraal, Anders",111,71.73,15.13,96,2,99,7,2,0,1,1,0,1,2,3,7,4,6,5,10,10,16,12,16,14,6,,,
+UBC,2018,W,PHIL,230,,001,INTRO TO ETHICS,"Kraal, Anders",105,76.06,14.07,96,0,98,3,2,0,2,1,0,2,0,0,3,2,4,3,3,10,10,20,22,17,7,,,
+UBC,2018,W,PHIL,314,,001,PHIL 17TH CENT,"Kraal, Anders",79,70.93,16.63,90,0,72,3,1,0,3,2,0,1,0,0,3,6,5,1,3,8,13,13,13,9,1,,,
+UBC,2018,W,PHIL,315,,001,PHIL 18TH CENT,"Kraal, Anders",68,75.41,13.77,89,0,61,2,2,0,3,1,0,1,0,0,2,0,0,2,5,6,4,15,21,8,0,,,
+UBC,2018,W,PHIL,316,,001,Phil After 1800,"Kraal, Anders",38,70.39,18.19,87,0,33,3,1,0,0,1,1,0,0,1,3,0,2,2,1,5,7,4,7,5,0,,,
+UBC,2018,W,PHIL,347,,001,PHIL OF RELIGION,"Kraal, Anders",83,72.9,14.21,91,0,75,2,2,0,2,1,0,0,1,0,2,3,4,6,9,8,10,3,16,13,3,,,
+UBC,2018,W,PHIL,347,,002,PHIL OF RELIGION,"Kraal, Anders",63,75.57,10.97,92,23,60,1,0,0,0,0,0,1,0,0,1,2,1,1,4,6,8,14,15,6,3,,,
+UBC,2018,W,PHIL,415,,001,PHLSPHY I. KANT,"Kraal, Anders",19,79.16,11.46,93,50,19,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,3,3,5,3,,,
+UBCV,2015,W,PHIL,100,,001,Introduction to Philosophy,Anders Kraal;Chien Wong;Jasper Heaton;Jonathan Lopez;Joseph Paul Russell;Matthew Cleveland Smithdeal;Matthew Smithdeal;Warren Bowen,113,68.557522124,16.20016427,93.0,0.0,,,,,,,,,,,10,12,6,7,,12,20,11,17,12,,,,
+UBCV,2015,W,PHIL,220,A,004,Symbolic Logic I,Anders Kraal;Jiwon Byun,96,75.9375,13.763271108,100.0,30.0,,,,,,,,,,,,,,7,6,10,14,9,15,8,18,,,
+UBCV,2015,W,PHIL,314,A,001,Philosophy in the 17th Century,Anders Kraal;Julia Janczur,45,71.866666667,11.264586503,94.0,50.0,,,,,,,,,,,0,5,,,,8,8,,5,6,,,,
+UBCV,2015,W,PHIL,315,A,002,Philosophy in the 18th Century,Anders Kraal,37,70.108108108,17.8524567,94.0,24.0,,,,,,,,,,,,,,,,,7,,,,7,,,
+UBCV,2016,W,PHIL,101,,001,Introduction to Philosophy,Anders Kraal;Matthew Cleveland Smithdeal;Matthew Smithdeal;Serban Dragulin,108,75.98148148,7.838297404,91.0,43.0,,,,,,,,,,,1,1,0,5,7,10,19,27,27,9,2,,,
+UBCV,2016,W,PHIL,314,A,001,Philosophy in the 17th Century,Anders Kraal,78,77.41025641,13.6870741,97.0,0.0,,,,,,,,,,,2,1,3,2,4,5,9,11,18,12,11,,,
+UBCV,2016,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Nathan Cockram,71,77.36619718,8.551089215,93.0,53.0,,,,,,,,,,,0,1,0,1,10,3,16,13,9,13,5,,,
+UBCV,2016,W,PHIL,349,A,001,Philosophy of Religion,Anders Kraal;Jakub Stach,77,78.64935065,8.188191487,93.0,54.0,,,,,,,,,,,0,1,1,1,2,9,11,16,16,12,8,,,
+UBCV,2016,W,PHIL,349,A,002,Philosophy of Religion,Anders Kraal;Graham Moore;Graham Seth Moore;Nathan Cockram,67,76.50746269,9.711556899,93.0,54.0,,,,,,,,,,,0,1,1,5,5,10,10,9,8,11,7,,,
+UBCV,2017,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Matthew Kinakin,103,61.961165049,14.418073034,88.0,22.0,,,,,,,,,,,7,30,12,6,6,11,10,7,9,5,0,,,
+UBCV,2017,W,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal;Jiwon Byun,79,71.430379747,13.971292494,95.0,16.0,,,,,,,,,,,2,8,5,4,6,12,9,8,14,7,4,,,
+UBCV,2017,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Jordan Wadden,76,70.684210526,15.693064733,94.0,3.0,,,,,,,,,,,2,12,6,3,5,4,12,6,12,10,4,,,
+UBCV,2017,W,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Jakub Stach,68,71.882352941,12.436740721,89.0,32.0,,,,,,,,,,,1,7,3,7,3,9,7,8,14,9,0,,,
+UBCV,2017,W,PHIL,385,,002,Existentialism,Anders Kraal;Shang Chun Tsui;Steven Taubeneck,118,77.389830508,8.114600009,92.0,16.0,,,,,,,,,,,1,0,1,1,4,11,16,38,30,15,1,,,
+UBCV,2017,W,PHIL,385,,003,Existentialism,Anders Kraal;Jose Rodrigo Valencia Pacheco,101,70.564356436,14.063723434,94.0,11.0,,,,,,,,,,,2,11,4,10,8,10,14,15,13,10,4,,,
+UBCV,2017,W,PHIL,415,,001,The Philosophy of Immanuel Kant,Anders Kraal,23,78.52173913,10.735961511,92.0,50.0,,,,,,,,,,,0,2,0,1,0,0,2,4,7,6,1,,,
+UBCV,2018,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Matthew Kinakin;Richard Andrew Sandlin;Richard Sandlin,60,69.216666667,19.382931218,98.0,8.0,,,,,,,,,,,5,7,2,2,7,5,5,7,8,6,6,,,
+UBCV,2018,S,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Matthew Kinakin,74,74.918918919,13.261084024,99.0,33.0,,,,,,,,,,,1,8,1,4,4,7,7,10,15,9,8,,,
+UBCV,2018,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Cristian Trout;Eric Anderson,109,71.422018349,15.085738653,96.0,2.0,,,,,,,,,,,7,5,7,5,10,11,16,12,16,14,6,,,
+UBCV,2018,W,PHIL,230,,001,Introduction to Ethics,Anders Kraal;Matthew Bedke;Reece Carvin,103,75.776699029,14.17325017,96.0,0.0,,,,,,,,,,,3,3,4,3,3,10,11,20,22,17,7,,,
+UBCV,2018,W,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal;Ian Heckman;Ian Tomas Heckman,78,70.692307692,16.472966987,90.0,0.0,,,,,,,,,,,3,7,5,1,3,9,14,13,13,9,1,,,
+UBCV,2018,W,PHIL,315,,001,Philosophy in the 18th Century,Anders Kraal;Ian Heckman;Ian Tomas Heckman;Margaret Schabas,65,74.846153846,13.985741365,89.0,0.0,,,,,,,,,,,2,1,0,2,6,6,4,15,21,8,0,,,
+UBCV,2018,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Jasper Heaton,37,70.189189189,17.971950117,87.0,0.0,,,,,,,,,,,3,0,2,3,1,5,7,4,7,5,0,,,
+UBCV,2018,W,PHIL,347,,001,Philosophy of Religion,Albert Cotugno Iii;Anders Kraal,81,71.654320988,15.438717963,91.0,0.0,,,,,,,,,,,4,3,5,6,9,9,10,3,16,13,3,,,
+UBCV,2018,W,PHIL,347,,002,Philosophy of Religion,Albert Cotugno Iii;Anders Kraal;Jonathan Ichikawa,63,75.174603175,11.260177737,92.0,23.0,,,,,,,,,,,1,3,1,1,4,6,8,15,15,6,3,,,
+UBCV,2018,W,PHIL,385,,002,Existentialism,Anders Kraal;Bianca Crewe;Steven Taubeneck,81,78.456790123,12.090336413,96.0,0.0,,,,,,,,,,,2,0,0,0,1,4,5,20,36,10,3,,,
+UBCV,2018,W,PHIL,415,,001,The Philosophy of Immanuel Kant,Anders Kraal,19,79.157894737,11.461351277,93.0,50.0,,,,,,,,,,,0,1,1,0,0,2,1,3,3,5,3,,,
+UBCV,2019,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Jade Hadley,36,71.305555556,17.893046446,99.0,0.0,,,,,,,,,,,2,4,2,1,1,4,4,6,6,3,3,,,
+UBCV,2019,S,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Richard Andrew Sandlin;Richard Sandlin,81,74.654320988,13.576782106,90.0,0.0,,,,,,,,,,,2,0,1,2,6,7,9,31,15,7,1,,,
+UBCV,2019,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Cameron Gilbert,116,75.267241379,13.224718462,99.0,35.0,,,,,,,,,,,5,2,6,9,7,15,9,9,23,18,13,,,
+UBCV,2019,W,PHIL,230,,001,Introduction to Ethics,Anders Kraal;Matthew Smithdeal;Scott Allen Anderson,84,69.892857143,11.365788718,87.0,20.0,,,,,,,,,,,3,5,4,4,11,17,14,8,15,3,0,,,
+UBCV,2019,W,PHIL,240,,003,Introduction to Epistemology,Alexandra Duree Jewell;Alexandra Jewell;Anders Kraal;Christopher Stephens;Kelsey Lauren Vicars;Kelsey Vicars,92,78.282608696,15.838696588,94.0,0.0,,,,,,,,,,,3,0,1,3,1,10,3,13,25,25,8,,,
+UBCV,2019,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal;Richard Andrew Sandlin,72,76.652777778,11.63428605,93.0,47.0,,,,,,,,,,,1,2,6,3,4,7,4,6,19,16,4,,,
+UBCV,2019,W,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal;Chieh-Ling Cheng,72,76.805555556,11.308278021,98.0,52.0,,,,,,,,,,,0,3,7,1,2,7,9,9,15,11,8,,,
+UBCV,2019,W,PHIL,315,,001,Philosophy in the 18th Century,Anders Kraal;Charlotte Sabourin;Junyi Chen;Margaret Schabas,33,75.727272727,15.712798779,90.0,0.0,,,,,,,,,,,1,0,0,2,2,3,3,6,9,5,2,,,
+UBCV,2019,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Richard Andrew Sandlin;Richard Sandlin,37,78.513513514,7.847935403,91.0,41.0,,,,,,,,,,,1,0,0,0,1,1,3,11,18,1,1,,,
+UBCV,2019,W,PHIL,347,,001,Philosophy of Religion,Albert Cotugno Iii;Anders Kraal;Evan Thompson,61,76.049180328,13.363415518,94.0,10.0,,,,,,,,,,,2,1,0,2,2,5,2,21,19,4,3,,,
+UBCV,2019,W,PHIL,347,,002,Philosophy of Religion,Anders Kraal;Evan Thompson;Zhiyu Luo,81,77.395061728,8.600405532,94.0,43.0,,,,,,,,,,,1,1,1,3,1,10,12,19,18,13,2,,,
+UBCV,2019,W,PHIL,385,,002,Existentialism,Anders Kraal;Isha Mathur;Steven Taubeneck,77,77.402597403,12.609791246,96.0,0.0,,,,,,,,,,,1,0,0,4,7,9,7,9,17,15,8,,,
+UBCV,2019,W,PHIL,415,,001,The Philosophy of Immanuel Kant,Anders Kraal,20,76.4,10.028380779,94.0,57.0,,,,,,,,,,,0,0,3,0,0,3,1,2,8,2,1,,,
+UBCV,2020,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Chase Dority;Livia Graf,89,77.483146067,14.802573762,95.0,2.0,,,,,,,,,,,3,2,2,3,6,3,9,14,15,18,14,,,
+UBCV,2020,S,PHIL,347,A,001,Philosophy of Religion,Anders Kraal;Nathan Cockram;Spencer Knafelc,132,75.78030303,7.417036706,100.0,58.0,,,,,,,,,,,0,0,1,5,8,17,35,31,22,7,6,,,
+UBCV,2020,W,PHIL,100,,001,Introduction to Philosophy,Anders Kraal;Dominic Lopes;Jade Hadley;Ori Simchen;Phyllis Pearson,105,72.352380952,11.875136398,91.0,20.0,,,,,,,,,,,4,1,3,9,10,13,21,18,13,10,3,,,
+UBCV,2020,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Ian Heckman;Ian Tomas Heckman,120,76.441666667,7.769576342,87.0,45.0,,,,,,,,,,,1,2,2,3,8,5,19,28,43,9,0,,,
+UBCV,2020,W,PHIL,240,,003,Introduction to Epistemology,Anders Kraal;Christopher Stephens;Daniel Saunders,22,80.5,11.550097918,94.0,41.0,,,,,,,,,,,1,0,0,1,0,2,1,1,7,7,2,,,
+UBCV,2020,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal;Nathan Cockram,78,77.384615385,5.28715859,91.0,59.0,,,,,,,,,,,0,0,1,1,2,3,14,30,23,3,1,,,
+UBCV,2020,W,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal;Fatema Amijee;Kristin Lee Conrad,64,69.59375,18.608513796,88.0,0.0,,,,,,,,,,,5,1,2,3,7,8,8,9,17,4,0,,,
+UBCV,2020,W,PHIL,315,,001,Philosophy in the 18th Century,Anders Kraal;Fatema Amijee;Ian Heckman;Margaret Schabas,26,73.346153846,16.399859286,89.0,0.0,,,,,,,,,,,1,0,0,0,3,3,4,6,6,3,0,,,
+UBCV,2020,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Nathan Cockram,108,77.055555556,6.769686879,93.0,50.0,,,,,,,,,,,0,1,1,2,4,11,18,34,25,9,3,,,
+UBCV,2020,W,PHIL,340,,001,Introduction to Metaphysics,Anders Kraal;Graham Moore;Graham Seth Moore;Roberta Ballarin;To Dang Nguyen,122,77.475409836,10.483527508,96.0,50.0,,,,,,,,,,,0,3,4,5,8,15,13,18,18,26,12,,,
+UBCV,2020,W,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Evan Thompson;Zorn Rose,79,76.835443038,11.226605738,94.0,28.0,,,,,,,,,,,2,1,0,1,6,7,15,13,14,14,6,,,
+UBCV,2020,W,PHIL,347,,002,Philosophy of Religion,Anders Kraal;Ceren Yildiz,108,80.268518519,10.248871815,95.0,50.0,,,,,,,,,,,0,2,2,6,2,6,13,16,18,21,22,,,
+UBCV,2020,W,PHIL,385,,001,Existentialism,Alexandra Jewell;Anders Kraal;Willow Verkerk,74,73.527027027,13.875397536,88.0,3.0,,,,,,,,,,,2,0,2,5,7,8,11,11,20,8,0,,,
+UBCV,2020,W,PHIL,385,,003,Existentialism,Anders Kraal;Bianca Crewe;Tyeson Daviesbarton;Willow Verkerk,112,79.053571429,10.805270057,98.0,51.0,,,,,,,,,,,0,3,5,4,6,8,8,18,20,18,22,,,
+UBCV,2020,W,PHIL,414,,001,Topics in the History of Modern Philosophy,Anders Kraal;Livia Graf,22,78.136363636,14.999350635,97.0,18.0,,,,,,,,,,,1,0,0,0,0,0,4,8,4,2,3,,,
+UBCV,2020,W,PHIL,415,,001,The Philosophy of Immanuel Kant,Anders Kraal;Fatema Amijee,15,82.6,8.32208765,91.0,58.0,,,,,,,,,,,0,0,1,0,0,0,1,1,4,7,1,,,
+UBCV,2021,S,PHIL,240,A,001,Introduction to Epistemology,Alexandra Jewell;Anders Kraal;Han Wei Luo,64,75.078125,16.722102746,96.0,12.0,,,,,,,,,,,4,2,0,3,4,3,11,8,11,7,11,,,
+UBCV,2021,S,PHIL,347,A,001,Philosophy of Religion,Anders Kraal;Jasper Heaton;Jordan Wadden;Nathan Cockram;To Dang Nguyen;Ying Yao,134,77.835820896,12.377638113,98.0,10.0,,,,,,,,,,,1,5,2,5,9,11,23,19,18,12,29,,,
+UBCV,2021,W,PHIL,100,,001,Introduction to Philosophy,Anders Kraal;Dominic Lopes;Jasper Heaton;Ori Simchen;Xinyi Zhao,101,73.782178218,15.603591869,99.0,0.0,,,,,,,,,,,8,3,2,3,7,10,13,14,21,13,7,,,
+UBCV,2021,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Jack Wands;Jade Hadley,132,69.757575758,16.054354817,92.0,0.0,,,,,,,,,,,8,10,7,11,10,15,18,14,19,14,6,,,
+UBCV,2021,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal;Eric Anderson;To Dang Nguyen,89,78.426966292,9.279605743,93.0,34.0,,,,,,,,,,,1,1,3,1,1,7,10,17,24,21,3,,,
+UBCV,2021,W,PHIL,316,A,001,Philosophy After 1800,Anders Kraal;Eric Anderson,71,77.788732394,13.470513293,95.0,9.0,,,,,,,,,,,1,3,2,1,5,3,10,6,14,17,9,,,
+UBCV,2021,W,PHIL,340,A,001,Introduction to Metaphysics,Anders Kraal;Davide Zappulli;To Dang Nguyen,98,70.132653061,20.207499759,100.0,0.0,,,,,,,,,,,8,3,7,12,7,6,9,12,14,8,12,,,
+UBCV,2021,W,PHIL,347,A,001,Philosophy of Religion,Anders Kraal;Jasper Heaton;Ying Yao,80,75.9,11.00126575,94.0,32.0,,,,,,,,,,,2,2,1,3,4,9,15,12,16,12,4,,,
+UBCV,2021,W,PHIL,347,A,002,Philosophy of Religion,Anders Kraal;Ceren Yildiz,104,75.5,16.135951538,95.0,0.0,,,,,,,,,,,4,1,0,8,7,6,15,14,22,19,8,,,
+UBCV,2021,W,PHIL,385,A,002,Existentialism,Anders Kraal;Laura Bickel;Ying Yao,86,78.941860465,4.315102483,86.0,61.0,,,,,,,,,,,0,0,0,2,1,1,9,26,43,4,0,,,
+UBCV,2021,W,PHIL,415,A,001,The Philosophy of Immanuel Kant,Anders Kraal,24,80.916666667,9.509339421,97.0,58.0,,,,,,,,,,,0,0,2,0,0,1,1,5,6,6,3,,,
+UBCV,2021,W,RGST,300,,001,Theory and Method in the Study of Religion,Anders Kraal;George Anthony Keddie,17,83.882352941,6.323392611,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,4,3,,,
+UBCV,2021,S,PHIL,240,A,001,Introduction to Epistemology,Anders Kraal,64,75.1,,96.0,12.0,,,,,,,,,,,,,,,,,11,8,11,7,11,77.5,86.0,71.5
+UBCV,2021,S,PHIL,347,A,001,Philosophy of Religion,Anders Kraal,134,77.8,,98.0,10.0,,,,,,,,,,,,,,,9,11,23,19,18,12,29,78.0,87.0,72.0
+UBCV,2021,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal,132,70.4,,92.0,0.0,,,,,,,,,,,5,10,8,11,10,16,19,14,19,14,6,73.0,80.0,63.0
+UBCV,2021,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal,89,78.8,,93.0,50.0,,,,,,,,,,,,,,,,8,10,17,24,21,,80.0,85.0,75.0
+UBCV,2021,W,PHIL,316,A,001,Philosophy After 1800,Anders Kraal,71,77.8,,95.0,9.0,,,,,,,,,,,,,,,,,10,6,14,17,9,80.0,87.0,74.0
+UBCV,2021,W,PHIL,340,A,001,Introduction to Metaphysics,Anders Kraal,98,70.8,,100.0,0.0,,,,,,,,,,,7,3,6,12,7,6,10,12,14,9,12,74.5,83.0,63.0
+UBCV,2021,W,PHIL,347,A,001,Philosophy of Religion,Anders Kraal,79,76.8,,94.0,50.0,,,,,,,,,,,,,,,,9,15,12,16,12,,77.0,84.0,71.5
+UBCV,2021,W,PHIL,347,A,002,Philosophy of Religion,Anders Kraal,103,76.8,,95.0,9.0,,,,,,,,,,,,,,8,7,6,16,14,22,19,8,79.0,85.0,73.0
+UBCV,2021,W,PHIL,385,A,002,Existentialism,Anders Kraal,86,78.9,,86.0,61.0,,,,,,,,,,,,,,,,,9,26,43,,,80.0,81.8,77.0
+UBCV,2021,W,PHIL,415,A,001,The Philosophy of Immanuel Kant,Anders Kraal,24,80.9,,97.0,58.0,,,,,,,,,,,,,,,,,,,6,6,,82.5,87.0,77.0
+UBCV,2021,W,RGST,300,,001,Theory and Method in the Study of Religion,Anders Kraal,17,83.9,,97.0,71.0,,,,,,,,,,,,,,,,,,,7,,,83.0,88.0,81.0
+UBCV,2022,S,PHIL,101,,001,Introduction to Philosophy,Anders Kraal,59,77.9,,91.0,50.0,,,,,,,,,,,0,1,1,4,4,4,4,10,15,14,2,81.0,85.5,72.5
+UBCV,2022,S,PHIL,347,A,001,Philosophy of Religion,Anders Kraal,73,78.9,,99.0,24.0,,,,,,,,,,,1,2,0,7,2,9,5,7,14,7,19,80.0,90.0,70.0
+UBCV,2022,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal,117,75.0,,93.0,0.0,,,,,,,,,,,5,2,1,3,15,5,13,28,19,18,8,77.0,84.0,70.0
+UBCV,2022,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal,72,75.5,,94.0,33.0,,,,,,,,,,,1,0,6,3,7,6,10,11,11,10,7,76.0,84.0,68.8
+UBCV,2022,W,PHIL,314,A,001,Philosophy in the 17th Century,Anders Kraal,69,79.9,,96.0,21.0,,,,,,,,,,,1,0,1,3,2,4,12,6,14,8,18,81.0,90.0,74.0
+UBCV,2022,W,PHIL,315,A,001,Philosophy in the 18th Century,Anders Kraal,60,79.0,,94.0,45.0,,,,,,,,,,,1,0,2,5,3,3,3,5,15,14,9,82.0,87.0,74.8
+UBCV,2022,W,PHIL,316,A,001,Philosophy After 1800,Anders Kraal,68,76.5,,94.0,0.0,,,,,,,,,,,2,1,1,1,4,4,6,21,13,9,6,78.0,83.3,73.8
+UBCV,2022,W,PHIL,340,A,001,Introduction to Metaphysics,Anders Kraal,85,75.8,,90.0,0.0,,,,,,,,,,,1,1,0,1,5,7,19,19,28,3,1,77.0,81.0,73.0
+UBCV,2022,W,PHIL,347,A,002,Philosophy of Religion,Anders Kraal,107,76.2,,91.0,34.0,,,,,,,,,,,1,2,2,6,2,13,18,18,28,16,1,78.0,82.0,72.0
+UBCV,2022,W,PHIL,385,A,001,Existentialism,Anders Kraal,87,76.1,,93.0,0.0,,,,,,,,,,,1,1,1,1,6,10,10,21,28,7,1,78.0,81.0,72.0
+UBCV,2022,W,PHIL,415,A,001,The Philosophy of Immanuel Kant,Anders Kraal,22,82.5,,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,8,6,2,82.0,86.0,79.3
+UBCV,2022,W,PHIL,487,,004,Directed Reading,Anders Kraal,10,91.8,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,92.5,95.3,89.3
+UBCV,2022,W,RGST,300,,001,Theory and Method in the Study of Religion,Anders Kraal,19,83.4,,92.0,65.0,,,,,,,,,,,0,0,0,0,2,0,0,2,6,6,3,84.0,87.5,82.0
+UBCV,2023,S,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal,60,77.3,,94.0,50.0,,,,,,,,,,,0,2,2,2,5,4,8,5,7,9,9,79.0,86.0,70.0
+UBCV,2023,S,PHIL,347,,001,Philosophy of Religion,Anders Kraal,81,74.0,,98.0,0.0,,,,,,,,,,,3,3,4,1,6,10,12,9,10,12,8,76.0,84.8,69.3
+UBCV,2023,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal,117,74.0,,100.0,0.0,,,,,,,,,,,10,2,3,3,9,11,13,13,14,17,18,77.0,86.0,69.0
+UBCV,2023,W,PHIL,101,,003,Introduction to Philosophy,Anders Kraal,103,72.3,,98.0,0.0,,,,,,,,,,,3,5,6,7,14,6,13,6,20,10,9,73.0,83.0,64.0
+UBCV,2023,W,PHIL,102,,002,Introduction to Philosophy II,Anders Kraal,114,75.0,,94.0,0.0,,,,,,,,,,,2,5,3,3,7,11,17,18,22,17,5,77.0,83.0,70.0
+UBCV,2023,W,PHIL,102,,004,Introduction to Philosophy II,Anders Kraal,108,73.1,,100.0,0.0,,,,,,,,,,,4,5,6,7,9,12,5,12,13,11,16,77.0,85.0,65.0
+UBCV,2023,W,PHIL,313,,001,Medieval Philosophy,Anders Kraal,76,75.9,,96.0,9.0,,,,,,,,,,,1,3,1,2,5,5,8,17,18,12,2,78.5,82.0,72.3
+UBCV,2023,W,PHIL,313,,002,Medieval Philosophy,Anders Kraal,79,76.6,,93.0,0.0,,,,,,,,,,,2,3,1,0,3,5,8,14,25,14,2,80.0,84.0,75.0
+UBCV,2023,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal,77,79.0,,95.0,54.0,,,,,,,,,,,0,1,1,4,4,7,8,12,18,8,14,80.0,87.0,73.0
+UBCV,2023,W,PHIL,347,,002,Philosophy of Religion,Anders Kraal,125,75.8,,97.0,13.0,,,,,,,,,,,1,4,8,7,9,9,9,24,25,16,12,78.0,84.0,68.8
+UBCV,2023,W,PHIL,385,,001,Existentialism,Anders Kraal,117,78.0,,97.0,51.0,,,,,,,,,,,0,1,3,6,6,10,15,19,22,19,14,79.0,85.0,73.0
+UBCV,2023,W,PHIL,414,,001,Topics in the History of Modern Philosophy,Anders Kraal,30,87.4,,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,17,6,87.0,89.0,85.0
+UBCV,2023,W,PHIL,489,,001,Directed Reading,Anders Kraal,9,92.2,,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,91.0,93.0,90.0
+UBCV,2023,W,RGST,300,,201,Theory and Method in the Study of Religion,Anders Kraal,40,81.63,,97.0,17.0,,,,,,,,,,,2,0,0,0,2,0,0,1,10,18,7,85.0,87.0,82.0

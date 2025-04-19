@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,APSC,459,,101,ENG PHYS PRJ I,"Young, Jeff",42,83.18,7.09,93,71,40,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,5,7,7,9,10
+UBC,2002,W,APSC,479,,101,ENG PHYS PRJ II,"Young, Jeff",32,80.66,16.54,94,0,31,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,5,12,2,9
+UBC,2007,W,APSC,459,,101,ENG PHYS PRJ I,"Nakane, Jonathan;Young, Jeff",54,79.06,10.51,94,54,54,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,6,4,18,3,14
+UBC,2007,W,APSC,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Young, Jeff",54,80.17,13.47,93,8,53,1,0,0,0,1,0,0,0,0,1,0,0,2,5,4,0,6,8,16,12
+UBC,2009,W,PHYS,216,,201,MECHANICS,"Young, Jeff",40,66.45,18.27,98,30,30,8,1,0,1,0,0,0,4,4,8,1,3,3,6,3,2,1,5,2,4
+UBC,2011,W,PHYS,523,B,201,QNTM ELEC&NLNR,"Young, Jeff",16,86.93,7.06,94,70,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,8
+UBC,2012,W,ENPH,459,,001,ENG PHYS PRJ1,"Nakane, Jonathan;Young, Jeff",52,79.33,8.38,93,65,52,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,13,7,4,14,6
+UBC,2013,W,ENPH,459,,001,ENG PHYS PRJ1,"Nakane, Jonathan;Young, Jeff",57,80.93,8.91,95,61,57,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,4,8,14,11,12
+UBC,2013,W,PHYS,153,,L2X,ELEMENTS OF PHYS,"Young, Jeff",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHYS,159,,L2T,INTRO PHYS LAB,"Young, Jeff",53,78.53,11.9,98,45,52,1,0,0,0,0,0,0,0,1,1,0,3,1,4,7,5,5,9,8,10
+UBC,2014,W,PHYS,523,B,201,QNTM ELEC&NLNR,"Young, Jeff",10,85.8,4.16,96,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,1
+UBC,2014,W,PHYS,572,,101,EXP MTH QUAN MTR,"Bonn, Douglas Andrew;Burke, Sarah;Damascelli, Andrea;Young, Jeff",6,87.5,2.35,91,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2015,W,PHYS,408,,201,OPTICS,"Young, Jeff",66,67.83,10.16,92,51,63,0,2,0,1,0,0,0,0,0,0,6,10,7,9,11,4,5,4,6,1
+UBC,2016,W,PHYS,408,,201,OPTICS,"Young, Jeff",78,75.01,11.57,97,49,74,3,0,0,1,0,0,0,0,3,3,3,1,6,6,6,11,12,14,5,10
+UBC,2017,S,PHYS,572,,942,EXP MTH QUAN MTR,"Bonn, Douglas Andrew;Burke, Sarah;Damascelli, Andrea;Folk, Joshua;Young, Jeff",5,88.2,4.87,95,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2
+UBC,2018,W,PHYS,159,,L2A,INTRO PHYS LAB,"Young, Jeff",54,85.44,8.74,97,63,54,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,6,10,10,22
+UBC,2018,W,PHYS,159,,L2C,INTRO PHYS LAB,"Young, Jeff",55,85.96,8.91,97,50,55,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,6,5,12,26
+UBC,2018,W,PHYS,159,,L2H,INTRO PHYS LAB,"Young, Jeff",51,79.49,7.25,87,47,48,1,1,0,0,0,0,0,0,1,1,0,0,1,0,3,3,8,25,8,0
+UBC,2018,W,PHYS,304,,101,INTRO QUANT MECH,"Young, Jeff",126,73.4,13.22,95,15,117,4,2,0,3,0,1,0,0,3,4,7,5,8,8,17,12,18,18,16,8
+UBCV,2014,W,ENPH,459,,001,Engineering Physics Project I,Carl Hansen;Jeff Young;Jonathan Nakane,57,84.63157895,5.829823505,91.0,61.0,,,,,,,,,,,0,0,0,,,,,,25,18,11
+UBCV,2014,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Jeff Young;Joanna Karczmarek,52,78.90384615,9.092680994,96.0,60.0,,,,,,,,,,,0,0,0,,,6,6,7,9,13,5
+UBCV,2014,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Jeff Young;William Mccutcheon,54,82.01851852,8.203751422,95.0,63.0,,,,,,,,,,,0,0,0,,,,5,9,11,12,11
+UBCV,2014,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Jeff Young;Michael Hasinoff,54,78.85185185,8.242566479,91.0,52.0,,,,,,,,,,,0,,,,,,6,10,12,16,
+UBCV,2014,W,PHYS,159,,L2D,Introductory Physics Laboratory for Engineers,Jeff Young;William Mccutcheon,51,75.43137255,14.61540954,96.0,14.0,,,,,,,,,,,,,,,,5,7,7,7,10,5
+UBCV,2014,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,50,81.26,9.979182413,96.0,55.0,,,,,,,,,,,0,0,,,,,5,,11,13,11
+UBCV,2014,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Jeff Young;Michael Hasinoff,51,83.8627451,7.249881676,96.0,67.0,,,,,,,,,,,0,0,0,0,,,6,7,11,11,14
+UBCV,2014,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Jeff Young;Joanna Karczmarek,55,86.09090909,8.224337702,98.0,61.0,,,,,,,,,,,0,0,0,,,,,5,8,14,22
+UBCV,2014,W,PHYS,159,,L2H,Introductory Physics Laboratory for Engineers,Jeff Young;Joanna Karczmarek,51,86.56862745,8.637719379,98.0,54.0,,,,,,,,,,,0,,,,,,,,8,14,23
+UBCV,2014,W,PHYS,159,,L2J,Introductory Physics Laboratory for Engineers,Douglas Andrew Bonn;Jeff Young,53,80.50943396,10.14248991,100.0,59.0,,,,,,,,,,,0,0,,,,10,8,7,7,5,13
+UBCV,2014,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,53,79.98113208,8.813212472,97.0,60.0,,,,,,,,,,,0,0,0,,,7,10,8,7,9,9
+UBCV,2014,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Jeff Young,53,78.52830189,11.89958592,98.0,45.0,,,,,,,,,,,,,,,,7,5,5,9,8,10
+UBCV,2014,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Jeff Young;William Mccutcheon,45,81.44444444,7.782718488,92.0,59.0,,,,,,,,,,,0,0,,,,,,,14,13,6
+UBCV,2014,W,PHYS,159,,L2V,Introductory Physics Laboratory for Engineers,Jeff Young;Sean Stotyn,51,79.39215686,8.791082826,93.0,60.0,,,,,,,,,,,0,0,0,,,,8,6,11,9,7
+UBCV,2014,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,52,78.5,12.07249345,95.0,19.0,,,,,,,,,,,,,,,,5,8,8,4,14,7
+UBCV,2014,W,PHYS,523,B,201,Quantum Electronics and Nonlinear Optics,Jeff Young,10,85.8,4.157990968,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,
+UBCV,2014,W,PHYS,572,,101,Experimental Methods in Quantum Materials,Andrea Damascelli;Douglas Andrew Bonn;Jeff Young;Sarah Burke,6,87.5,2.34520788,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2015,W,PHYS,408,,201,Optics,Jeff Young;Kahan Dare;Xiruo Yan,64,67.125,11.533938878,92.0,23.0,,,,,,,,,,,,6,10,7,9,11,,5,,6,
+UBCV,2016,W,PHYS,408,,201,Optics,Jeff Young;Xiruo Yan,78,74.46153846,12.48551608,97.0,32.0,,,,,,,,,,,4,3,1,6,6,6,11,12,14,5,10
+UBCV,2017,W,PHYS,408,,201,Optics,Christopher Waltham;Jeff Young;Joschua Hellemeier;Mark Halpern,91,74.626373626,11.816794406,98.0,40.0,,,,,,,,,,,4,3,5,0,8,11,10,15,16,12,7
+UBCV,2018,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Aaron Kraft;Jeff Young;Maxwell Werner;Thomas Mattison,54,85.444444444,8.740853261,97.0,63.0,,,,,,,,,,,0,0,0,2,1,1,2,6,10,10,22
+UBCV,2018,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Jeff Young;Katherine Rink;Sydney Dufresne;Thomas Mattison,55,85.963636364,8.911007833,97.0,50.0,,,,,,,,,,,0,1,0,0,0,3,2,6,5,12,26
+UBCV,2018,W,PHYS,159,,L2H,Introductory Physics Laboratory for Engineers,Egor Peshkov;Haris Amiri;Jeff Young;Thomas Mattison,50,79.12,7.638890827,87.0,47.0,,,,,,,,,,,1,0,0,2,0,3,3,8,25,8,0
+UBCV,2018,W,PHYS,304,,101,Introduction to Quantum Mechanics,Jeff Young;Marcel Franz;Martin Cross;Pascal Nigge;Saul Cuen Rochin,122,72.893442623,14.322615404,95.0,11.0,,,,,,,,,,,5,7,5,8,8,17,12,18,18,16,8
+UBCV,2019,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Chengshu Li;Jeff Young;Jordan Hanania;Sarah Burke;Steven Dierker,52,84.807692308,5.099167412,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,3,2,14,24,8
+UBCV,2019,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Aaron Kraft;Jeff Young;Sarah Burke;Sydney Dufresne,47,84.340425532,5.657917099,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,4,11,19,9
+UBCV,2019,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Hassan Mallahzadeh;Jeff Young;Ryan Harvey;Sarah Burke;Steven Dierker,48,76.729166667,8.110249841,90.0,59.0,,,,,,,,,,,0,0,1,2,4,7,6,9,9,8,2
+UBCV,2019,W,PHYS,159,,LT2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chong Heeon Park;Jeff Young;Sarah Burke,44,76.181818182,8.986482684,88.0,52.0,,,,,,,,,,,0,2,2,2,0,3,12,2,16,5,0
+UBCV,2019,W,PHYS,304,,101,Introduction to Quantum Mechanics,Christopher Waddell;Jeff Young;Seyyed Ebrahim Sajadi Hezave;Wyatt Reeves,64,74.703125,18.640014721,100.0,6.0,,,,,,,,,,,4,4,5,1,5,5,8,5,4,7,16
+UBCV,2020,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Adair Connor;Ashley Warner;Brandon Stuart;David Roberts;Jeff Young;Sarah Burke;Shadab Ahamed Shadab Ahamed,61,90.852459016,8.613624993,100.0,62.0,,,,,,,,,,,0,0,0,1,1,1,4,1,1,6,46
+UBCV,2020,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Ashley Warner;Daniel Ka Sing Wong;Jeff Young;Lucas Valenca Soares Bezerra;Riley Stewart;Sarah Burke;Shadab Ahamed Shadab Ahamed,58,79.655172414,16.858078103,95.0,3.0,,,,,,,,,,,2,2,1,1,1,2,6,7,8,12,16
+UBCV,2020,W,PHYS,159,,LC2,Introductory Physics Laboratory for Engineers,Ashley Warner;Davis Johnson;Jeff Young;Lesley Hill;Sarah Burke;Shadab Ahamed Shadab Ahamed;Zhuang Qi Qi Li,57,90.087719298,10.632296993,100.0,48.0,,,,,,,,,,,1,0,1,0,2,0,1,0,3,13,36
+UBCV,2020,W,PHYS,304,,101,Introduction to Quantum Mechanics,Arnab Adhikary;Caleb Sample;David Roberts;Jack James Pitcher;Jeff Young;Yau Chuen Yam,68,78.588235294,13.63406105,98.0,35.0,,,,,,,,,,,1,2,4,4,3,5,5,9,9,10,16
+UBCV,2020,W,PHYS,523,B,201,Quantum Electronics and Nonlinear Optics,Jeff Young;Robert Raussendorf;Xiruo Yan,6,86.0,9.939818912,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,2
+UBCV,2021,W,PHYS,304,,101,Introduction to Quantum Mechanics,Arnab Adhikary;David Roberts;Jeff Young;Riley Stewart,76,72.039473684,15.145904432,96.0,15.0,,,,,,,,,,,4,6,1,9,4,7,10,6,16,6,7

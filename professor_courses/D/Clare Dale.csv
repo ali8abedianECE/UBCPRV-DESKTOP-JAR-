@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,HIST,314,,001,EARLY MODRN BRIT,"Dale, Clare",12,78.3,3.06,85,75,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5,2,1,0
+UBC,2014,W,HIST,490,B,201,SEM FOR HIST MAJ,"Dale, Clare",12,79.5,3.94,86,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,2,0
+UBC,2015,W,HIST,315,,101,BRIT 1750 - 1850,"Dale, Clare",50,72.13,14.97,90,0,44,2,3,0,0,1,0,1,0,0,2,1,0,1,4,6,12,7,10,2,1
+UBCV,2014,W,HIST,314,,001,Early Modern Britain,Clare Dale,11,75.0,11.32254388,85.0,42.0,,,,,,,,,,,,,,,,,,5,,,0
+UBCV,2014,W,HIST,490,B,201,Seminar for Majors in History,Clare Dale,12,79.5,3.942772444,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,0
+UBCV,2015,W,HIST,315,,101,Britain 1750-1850,Clare Dale,47,71.914893617,14.876052812,90.0,0.0,,,,,,,,,,,,,,,,6,12,7,10,,

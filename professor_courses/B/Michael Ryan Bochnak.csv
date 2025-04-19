@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,LING,447,F,001,Topics in Linguistics,Michael Ryan Bochnak,18,83.5,11.163227448,98.0,51.0,0,1,0,0,0,0,2,3,3,2,7,,,
+UBCV,2021,W,LING,531,,001,Field Methods in Linguistics I,Henry Thomas Davis;Michael Ryan Bochnak,9,89.111111111,4.166666667,94.0,82.0,0,0,0,0,0,0,0,0,2,2,5,,,
+UBCV,2021,W,LING,532,,002,Field Methods in Linguistics II,Michael Ryan Bochnak,7,90.714285714,5.023753103,96.0,82.0,0,0,0,0,0,0,0,0,1,1,5,,,
+UBCV,2021,W,LING,531,,001,Field Methods in Linguistics I,Michael Ryan Bochnak,9,89.1,,94.0,82.0,,,,,,,,,,,,90.0,92.0,87.0
+UBCV,2021,W,LING,532,,002,Field Methods in Linguistics II,Michael Ryan Bochnak,7,90.7,,96.0,82.0,,,,,,,,,,,,91.0,94.5,88.5
+UBCV,2022,W,LING,201,,002,Linguistic Theory and Analysis II,Michael Ryan Bochnak,147,78.7,,99.0,24.0,3,5,3,8,7,20,11,5,25,25,35,81.0,89.0,70.0
+UBCV,2022,W,LING,447,B,002,Topics in Linguistics,Molly Babel;Michael Ryan Bochnak,40,83.8,,97.0,66.0,0,0,0,0,1,2,0,9,11,6,11,82.0,90.3,79.0
+UBCV,2023,S,LING,201,,921,Linguistic Theory and Analysis II,Michael Ryan Bochnak,41,77.62,,96.0,50.0,0,4,1,2,3,4,1,3,5,5,11,80.0,90.0,68.5
+UBCV,2023,W,LING,431,,001,Field Methods I,Michael Ryan Bochnak,10,89.0,,95.0,82.0,0,0,0,0,0,0,0,0,1,5,4,88.5,91.0,87.3
+UBCV,2023,W,LING,531,,001,Field Methods in Linguistics I,Michael Ryan Bochnak,9,90.2,,94.0,88.0,0,0,0,0,0,0,0,0,0,4,2,88.5,92.8,88.0
+UBCV,2023,W,LING,532,,002,Field Methods in Linguistics II,Michael Ryan Bochnak,8,84.2,,97.0,41.0,,,,,,,,,,,,95.0,95.0,93.0

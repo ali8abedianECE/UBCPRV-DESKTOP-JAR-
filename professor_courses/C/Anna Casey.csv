@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,WRDS,150,,08M,RSRCH&WRIT HUMAN,"Casey, Anna",28,72.26,7.99,87,52,27,0,0,0,1,0,0,0,0,0,0,1,1,3,0,3,9,6,3,1,0
+UBC,2015,W,WRDS,150,,03E,RSRCH&WRIT HUMAN,"Casey, Anna",29,75.9,5.27,85,63,29,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,7,10,1,0
+UBC,2015,W,WRDS,150,,03N,RSRCH&WRIT HUMAN,"Casey, Anna",29,76.11,7.35,90,64,28,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3,6,6,4,2,2
+UBC,2015,W,WRDS,150,,04C,RSRCH&WRIT HUMAN,"Casey, Anna",30,72.7,6.11,86,61,30,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,8,8,2,1,0
+UBC,2015,W,WRDS,150,,05N,RSRCH&WRIT HUMAN,"Casey, Anna",30,75.23,5.76,87,62,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,8,5,5,3,0
+UBC,2015,W,WRDS,150,,06A,RSRCH&WRIT HUMAN,"Casey, Anna",29,75.86,8.12,88,51,28,0,1,0,0,0,0,0,0,0,0,1,0,1,1,4,5,6,6,4,0
+UBC,2015,W,WRDS,150,,07P,RSRCH&WRIT HUMAN,"Casey, Anna",29,73.96,11.9,90,39,26,2,1,0,0,0,0,0,1,1,2,0,0,0,4,3,4,6,4,4,1
+UBCV,2014,W,WRDS,150,,08M,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,71.0,10.28843292,87.0,37.0,,,,,,,,,,,,,,,,,9,6,,,0
+UBCV,2015,W,WRDS,150,,03E,Research and Writing in the Humanities and Social Sciences,Anna Casey,29,75.896551724,5.273551444,85.0,63.0,,,,,,,,,,,0,0,0,,,,,7,10,,0
+UBCV,2015,W,WRDS,150,,03N,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,76.107142857,7.350179064,90.0,64.0,,,,,,,,,,,0,0,0,0,5,,6,6,,,
+UBCV,2015,W,WRDS,150,,04C,Research and Writing in the Humanities and Social Sciences,Anna Casey,30,72.7,6.114708102,86.0,61.0,,,,,,,,,,,0,0,0,,6,,8,8,,,0
+UBCV,2015,W,WRDS,150,,05N,Research and Writing in the Humanities and Social Sciences,Anna Casey,30,75.233333333,5.757653577,87.0,62.0,,,,,,,,,,,0,0,0,,,8,8,5,5,,0
+UBCV,2015,W,WRDS,150,,06A,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,75.857142857,8.118174789,88.0,51.0,,,,,,,,,,,0,,,,,,5,6,6,,0
+UBCV,2015,W,WRDS,150,,07P,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,73.964285714,11.899212993,90.0,39.0,,,,,,,,,,,,,,,,,,6,,,

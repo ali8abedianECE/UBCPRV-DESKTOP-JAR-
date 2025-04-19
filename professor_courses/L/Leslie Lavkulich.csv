@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,AGRO,460,,001,Adv Agroeco,"Lavkulich, Leslie",40,71.67,8.86,85,50,39,0,1,0,0,0,0,0,0,0,0,2,1,2,6,6,8,4,7,3,0,,,
+UBC,2002,W,RMES,500,A,001,RESRCE&ENV WKSHP,"Lavkulich, Leslie",10,81.11,5.21,89,71,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,0,,,
+UBC,2002,W,RMES,500,C,300,RESRCE&ENV WKSHP,"Lavkulich, Leslie",7,87.33,2.8,92,84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2002,W,RMES,502,,001,SEM RESRCE & ENV,"Lavkulich, Leslie",62,86.18,2.81,90,80,17,0,2,2,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,5,,,
+UBC,2003,W,RMES,501,,101,PERSPEC RES&ENV,"Lavkulich, Leslie",17,86.76,4.66,95,80,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,9,,,
+UBC,2013,W,CONS,503,C,001,TPS CONSERVATION,"Lavkulich, Leslie",7,87.5,2.89,90,85,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2014,W,SOIL,510,,003,LAND WATER SEMNR,"Lavkulich, Leslie;Wilson, Julie",7,90.71,1.89,95,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2014,W,SOIL,548,,001,MAJOR PROJECT,"Lavkulich, Leslie;Wilson, Julie",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,CONS,503,C,001,TPS CONSERVATION,"Lavkulich, Leslie",4,90,0,90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2015,W,SOIL,510,,003,LAND WATER SEMNR,"Lavkulich, Leslie;Wilson, Julie",11,81.64,6.82,90,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,4,2,,,
+UBC,2015,W,SOIL,530,B,001,DIRECTED STUDIES,"Lavkulich, Leslie",4,83.75,4.79,90,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2015,W,SOIL,548,,001,MAJOR PROJECT,"Lavkulich, Leslie;Wilson, Julie",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,SOIL,510,,003,LAND WATER SEMNR,"Lavkulich, Leslie;Wilson, Julie",8,88,5.7,95,80,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBC,2016,W,SOIL,548,,001,MAJOR PROJECT,"Lavkulich, Leslie;Wilson, Julie",7,,,,,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,SOIL,517,,001,LAND & WATR EVAL,"Lavkulich, Leslie",4,85,0,85,85,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,
+UBCV,2014,W,SOIL,510,,003,Land and Water Seminar,Julie Wilson;Leslie Lavkulich,7,90.71428571,1.889822365,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2015,W,LFS,150,,001,Scholarly Writing and Argumentation in Land and Food Systems,Kiran Padda;Kiran Preet Padda;Leslie Lavkulich,20,78.25,6.544382887,90.0,65.0,,,,,,,,,,,0,0,0,0,,,4,,8,,,,,
+UBCV,2015,W,SOIL,510,,003,Land and Water Seminar,Julie Wilson;Leslie Lavkulich,11,81.636363636,6.815757145,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2017,W,LWS,510,,003,Land and Water Seminar,Leslie Lavkulich,13,88.538461538,3.596650864,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,6,,,
+UBCV,2017,W,LWS,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,11,82.818181818,5.437245292,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,2,3,,,
+UBCV,2017,W,LWS,550,,001,Professional Communications Strategies,Leslie Lavkulich,15,82.333333333,7.527726527,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,0,5,2,4,,,
+UBCV,2018,S,LWS,548,,943,Major Project,Leslie Lavkulich,13,82.923076923,7.81517262,95.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,0,4,3,4,,,
+UBCV,2018,W,GRS,300,,001,Global Water and Energy Nexus,Leslie Lavkulich,9,83.333333333,5.0,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,3,2,,,
+UBCV,2018,W,LWS,510,,003,Land and Water Seminar,Leslie Lavkulich,17,82.176470588,5.747122042,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,1,7,1,5,,,
+UBCV,2018,W,LWS,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,14,87.214285714,5.0562767,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,7,,,
+UBCV,2019,S,LWS,548,,943,Major Project,Leslie Lavkulich,16,82.125,5.806605434,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,5,4,3,,,
+UBCV,2019,W,LWS,517,,001,Land and Water Resource Evaluation,Julie Wilson;Leslie Lavkulich,14,88.285714286,4.008233285,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,8,,,
+UBCV,2019,W,LWS,550,,001,Professional Communications Strategies,Julie Wilson;Leslie Lavkulich,20,85.1,4.153628724,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,6,4,,,
+UBCV,2020,S,GRS,397,B,921,Regional Directed Field Studies,Leslie Lavkulich,6,86.666666667,4.082482905,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1,,,
+UBCV,2020,S,LWS,548,,943,Major Project,Leslie Lavkulich,18,85.555555556,6.617465502,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,0,1,7,8,,,
+UBCV,2020,W,GRS,497,B,001,Regional Directed Field Studies,Brenton Skura;Leslie Lavkulich,6,89.166666667,3.430257522,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2020,W,LWS,510,,003,Land and Water Seminar,Autumn Watkinson;Leslie Lavkulich,19,86.315789474,4.955946278,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,8,,,
+UBCV,2020,W,LWS,517,,001,Land and Water Resource Evaluation,Julie Wilson;Leslie Lavkulich,15,84.733333333,4.772939595,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,4,4,,,
+UBCV,2020,W,LWS,550,,001,Professional Communications Strategies,Julie Wilson;Leslie Lavkulich,19,88.947368421,4.881640027,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,12,,,
+UBCV,2021,S,LWS,548,,943,Major Project,Leslie Lavkulich,20,83.25,6.129093691,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,4,0,6,4,6,,,
+UBCV,2021,W,GRS,300,,001,Global Water and Energy Nexus,Katrina Nolan;Leslie Lavkulich,8,85.625,7.288689869,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,3,,,
+UBCV,2021,W,LWS,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,18,86.944444444,5.630507471,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,3,8,,,
+UBCV,2021,W,LWS,550,,001,Professional Communications Strategies,Julie Wilson;Leslie Lavkulich,24,86.541666667,4.558595957,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,10,5,,,
+UBCV,2022,S,LWS,548,,943,Major Project,Leslie Lavkulich,24,84.6,,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,8,7,85.0,90.0,80.0
+UBCV,2022,W,LWS,510,,003,Land and Water Seminar,Leslie Lavkulich,19,86.6,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,12,6,85.0,90.0,85.0
+UBCV,2022,W,LWS,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,17,86.5,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,9,90.0,90.0,85.0
+UBCV,2022,W,LWS,525,,001,Global Issues in Land and Water Systems,Leslie Lavkulich,15,85.7,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,4,85.0,87.5,85.0
+UBCV,2022,W,LWS,550,,001,Professional Communications Strategies,Leslie Lavkulich,21,84.5,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,8,3,85.0,85.0,82.0
+UBCV,2022,W,SOIL,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,6,85.0,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,2,85.0,88.8,81.3
+UBCV,2023,S,LWS,548,,943,Major Project,Leslie Lavkulich,16,87.56,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,8,89.0,90.0,85.0
+UBCV,2023,W,LWS,510,,003,Land and Water Seminar,Leslie Lavkulich,17,85.88,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,8,85.0,90.0,80.0
+UBCV,2023,W,LWS,517,,001,Land and Water Resource Evaluation,Leslie Lavkulich,17,80.0,,90.0,30.0,,,,,,,,,,,1,0,0,0,0,0,0,0,9,4,3,80.0,85.0,80.0
+UBCV,2023,W,LWS,525,,002,Global Issues in Land and Water Systems,Leslie Lavkulich,16,87.5,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,9,90.0,90.0,85.0

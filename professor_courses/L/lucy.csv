@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDUC,310,,202,TEACh PRINC,"Scott, Lucy",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,EDUC,316,,202,COMM SKILLS,"Scott, Lucy",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHAR,371,,001,PATHOPHYS I,"Marzban, Lucy;McCormack, James",151,81.99,6.96,99,59,151,0,0,0,0,0,0,0,0,0,0,0,2,1,4,3,10,25,46,42,18
+UBC,2006,W,PHAR,471,,001,PATHOPYSIO II,"Marzban, Lucy;Soja, Peter",140,77.24,7.56,93,50,140,0,0,0,0,0,0,0,0,0,0,2,0,7,3,15,23,36,32,16,6
+UBC,2006,W,PHAR,472,,001,PATHOPHYSIO III,"Marzban, Lucy",140,79.17,7.31,92,53,140,0,0,0,0,0,0,0,0,0,0,1,3,2,2,9,16,18,47,37,5
+UBC,2007,W,PHAR,371,,001,PATHOPHYS I,"Marzban, Lucy;McCormack, James",157,84.62,5.92,95,66,156,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,7,20,35,46,45
+UBC,2007,W,PHAR,471,,001,PATHOPYSIO II,"Marzban, Lucy;Soja, Peter",150,83.06,7.21,96,56,150,0,0,0,0,0,0,0,0,0,0,0,1,0,2,8,9,18,40,36,36
+UBC,2007,W,PHAR,472,,001,PATHOPHYSIO III,"Marzban, Lucy",150,79.45,7.35,97,58,150,0,0,0,0,0,0,0,0,0,0,0,1,1,6,9,25,26,38,29,15
+UBC,2009,W,PHAR,371,,001,PATHOPHYS I,"Marzban, Lucy",151,89.25,5.6,99,68,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,22,37,87
+UBC,2009,W,PHAR,471,,001,PATHOPYSIO II,"Marzban, Lucy",149,87.17,6.68,100,70,149,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,12,17,45,67
+UBC,2010,W,CNPS,362,,001,BASIC INTVW SKLS,"McCullough, Lucy",14,85.57,3.61,90,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,1
+UBC,2011,S,CNPS,362,,951,BASIC INTVW SKLS,"Gofton, Lucy",14,85.93,3.41,92,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,2
+UBC,2011,W,CNPS,363,,002,CAREER COUNSELNG,"Gofton, Lucy",34,84.7,7.44,94,54,33,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,7,16,5
+UBC,2011,W,CNPS,363,,63C,CAREER COUNSELNG,"Gofton, Lucy",23,88.83,7.15,96,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3,16
+UBC,2012,S,CNPS,362,,922,BASIC INTVW SKLS,"Daniluk, Judith;Gofton, Lucy",12,85.25,2.45,89,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0
+UBC,2013,S,CNPS,362,,922,BASIC INTVW SKLS,"McCullough, Lucy;Westwood, Marvin",15,87.73,2.43,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3
+UBC,2013,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Hammer, Philip;Porritt, Lucy;Stull, Roland;Ver, Leah May;Woodell, Daniel",292,71.53,12.65,95,0,279,10,3,0,0,1,0,1,1,7,10,11,24,28,34,28,35,40,32,31,16
+UBC,2013,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Hammer, Philip;Porritt, Lucy;Stull, Roland;Ver, Leah May;Woodell, Daniel",314,73.23,12.03,97,0,300,6,6,0,0,1,1,1,0,3,6,10,18,20,29,37,46,46,35,47,12
+UBC,2013,W,EOSC,114,,201,CATASTROPH EARTH,"Gilley, Brett;Mindell, Randal;Porritt, Lucy;Stull, Roland;Sutherland, Stuart;Ver, Leah May;Woodell, Daniel",300,69.85,12.48,94,9,286,10,4,0,0,1,2,0,1,6,10,19,29,28,36,38,32,35,33,28,8
+UBC,2013,W,EOSC,114,,202,CATASTROPH EARTH,"Gilley, Brett;Mindell, Randal;Porritt, Lucy;Stull, Roland;Sutherland, Stuart;Ver, Leah May;Woodell, Daniel",296,70.01,12.01,97,21,286,7,2,0,0,0,0,2,0,5,7,24,31,21,36,37,37,29,39,19,13
+UBC,2013,W,EOSC,221,,201,INTRO PETROLOGY,"Porritt, Lucy;Sutherland, Stuart",89,73.26,8.41,93,49,87,1,1,0,0,0,0,0,0,1,1,2,2,6,6,17,20,15,11,5,3
+UBC,2013,W,EOSC,328,,201,FIELD GEOLOGY,"Hickey, Kenneth;Hollingshead, Susan;Kennedy, Lori;Porritt, Lucy;Scoates, James Stewart",37,81.19,4.01,91,75,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,20,5,2
+UBC,2013,W,EOSC,420,,101,VOLCANOLOGY,"Porritt, Lucy",14,82.21,3.85,90,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,3,1
+UBC,2013,W,EOSC,542,,101,ADV VOLCANOLOGY,"Porritt, Lucy",7,81.71,7.8,88,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,4,0
+UBC,2014,S,CNPS,363,,93A,CAREER COUNSELNG,"Gofton, Lucy",18,86.39,7.15,93,61,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,10,6
+UBC,2014,W,EOSC,110,,101,THE SOLID EARTH,"Porritt, Lucy",268,72.76,10.13,95,38,253,3,6,0,4,0,0,0,1,2,3,7,16,18,32,35,43,34,41,15,12
+UBC,2014,W,EOSC,110,,201,THE SOLID EARTH,"Porritt, Lucy",240,68.59,12.47,97,0,226,7,3,1,0,1,0,1,1,4,7,18,22,30,24,30,30,24,25,16,7
+UBC,2014,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Porritt, Lucy;Stull, Roland;Ver, Leah May;Woodell, Daniel",313,73.56,11.11,99,44,307,1,4,1,0,0,0,0,0,1,1,16,22,30,22,33,39,41,50,36,18
+UBC,2014,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Porritt, Lucy;Stull, Roland;Ver, Leah May;Woodell, Daniel",233,71.1,12.69,97,1,226,3,2,0,0,2,0,0,1,0,3,12,16,29,22,34,28,28,27,17,13
+UBC,2014,W,EOSC,114,,201,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Woodell, Daniel",319,73.73,12.14,97,13,305,12,2,0,0,0,1,0,0,11,12,8,19,22,35,32,24,55,50,30,30
+UBC,2014,W,EOSC,114,,202,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Woodell, Daniel",338,73.84,10.73,97,23,329,7,2,0,0,0,0,1,0,6,7,4,21,31,26,30,59,54,45,39,20
+UBC,2014,W,EOSC,321,,101,IGNEOUS PETROLGY,"Porritt, Lucy",40,72.9,8.55,90,50,39,0,0,0,1,0,0,0,0,0,0,1,2,1,3,7,9,7,6,2,1
+UBC,2015,W,EOSC,110,,101,THE SOLID EARTH,"Porritt, Lucy",188,73.15,12.53,97,2,181,3,4,0,0,1,1,0,0,1,3,3,12,15,18,22,18,26,30,25,12
+UBC,2015,W,EOSC,110,,201,THE SOLID EARTH,"Porritt, Lucy;Sutherland, Stuart",214,74.75,12.35,95,5,207,5,2,0,0,1,0,0,1,3,5,3,9,19,22,26,22,21,34,27,24
+UBC,2015,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Lipsen, Michael;Porritt, Lucy;Stull, Roland;Ver, Leah May",341,74.33,11.05,97,39,329,8,2,0,0,0,0,0,1,7,8,5,15,25,30,33,38,49,63,48,23
+UBC,2015,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Lipsen, Michael;Porritt, Lucy;Stull, Roland;Ver, Leah May",314,73.12,11.61,97,0,305,4,3,0,0,1,1,0,1,1,4,7,17,24,33,29,42,50,49,42,12
+UBC,2015,W,EOSC,114,,201,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Russell, James Kelly;Stull, Roland;Sutherland, Stuart",342,71.15,13.22,99,0,320,16,5,0,0,2,0,0,1,13,16,11,26,26,47,36,42,31,48,35,18
+UBC,2015,W,EOSC,114,,202,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Russell, James Kelly;Stull, Roland;Sutherland, Stuart",336,71.48,13.42,95,0,317,14,3,1,0,2,2,0,4,6,14,9,23,27,34,41,41,40,52,33,17
+UBC,2015,W,EOSC,326,,101,ERTH&LIFE TH TME,"Porritt, Lucy",99,72.57,11.02,95,31,93,4,1,0,0,0,0,0,2,2,4,2,3,8,2,16,19,11,22,7,3
+UBC,2015,W,EOSC,328,,201,FIELD GEOLOGY,"Gilley, Brett;Kennedy, Lori;Porritt, Lucy;Russell, James Kelly;Sherman, Sarah;Smit, Matthijs",35,76.66,7.99,93,50,35,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,11,12,3,2,3
+UBC,2015,W,EOSC,424,,201,ADV MNRL DEPOSTS,"Porritt, Lucy",24,80.38,7.63,90,61,21,0,2,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,6,6,2
+UBC,2016,W,EOSC,110,,201,THE SOLID EARTH,"Porritt, Lucy;Sutherland, Stuart",179,72.28,15.27,96,13,159,11,4,1,0,0,2,3,1,5,11,6,12,4,14,22,15,23,25,22,16
+UBC,2016,W,EOSC,111,,L1A,LAB EXPL EARTH,"Porritt, Lucy",24,86.88,5.87,96,68,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,10,10
+UBC,2016,W,EOSC,111,,L2B,LAB EXPL EARTH,"Porritt, Lucy",25,88,13.19,100,45,23,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,3,0,18
+UBC,2016,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",332,73.77,10.58,97,45,323,3,2,0,0,0,0,0,0,3,3,11,15,17,38,37,44,51,50,37,23
+UBC,2016,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",289,72.92,11.11,96,20,281,3,3,1,0,0,0,1,0,2,3,10,16,26,27,35,30,41,47,31,18
+UBC,2016,W,EOSC,114,,201,CATASTROPH EARTH,"Bostock, Michael;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May",303,70.43,11.38,98,21,283,14,4,0,0,0,0,1,0,13,14,11,25,20,31,35,47,39,44,24,7
+UBC,2016,W,EOSC,114,,202,CATASTROPH EARTH,"Bostock, Michael;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May",261,68.46,11.77,95,35,243,12,3,0,0,0,0,0,5,7,12,14,27,24,34,34,35,27,20,18,10
+UBC,2016,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Mortensen, James;Porritt, Lucy;Simpson, Kirsten Anne",68,73.85,7.59,88,43,67,1,0,0,0,0,0,0,0,1,1,1,0,4,3,12,15,16,12,4,0
+UBC,2016,W,EOSC,328,,201,FIELD GEOLOGY,"Gilley, Brett;Hickey, Kenneth;Porritt, Lucy;Scoates, James Stewart;Sherman, Sarah;Smit, Matthijs",37,74.95,7.53,92,56,37,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3,10,8,9,1,1
+UBC,2017,W,EOSC,110,,101,THE SOLID EARTH,"Gilley, Brett;Porritt, Lucy",194,73.01,11.35,96,29,182,4,4,0,0,0,0,1,0,3,4,4,11,15,17,20,34,21,24,22,14
+UBC,2017,W,EOSC,110,,201,THE SOLID EARTH,"Porritt, Lucy",154,69.48,14.93,95,15,140,10,1,1,0,0,3,0,1,6,10,9,14,10,13,21,10,18,21,13,11
+UBC,2017,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",322,74.13,10.86,95,41,313,2,6,0,0,0,0,0,0,2,2,9,21,22,23,31,47,51,45,36,28
+UBC,2017,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",156,72.07,11.46,93,41,147,4,1,1,0,0,0,0,0,4,4,5,13,7,12,28,17,21,20,14,10
+UBC,2017,W,EOSC,114,,201,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",283,72.39,12.95,99,0,262,9,4,1,0,2,0,0,2,5,9,3,18,18,31,36,38,36,35,21,26
+UBC,2017,W,EOSC,114,,202,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",235,73.38,11,96,28,227,4,3,0,0,0,0,1,1,2,4,8,7,17,24,27,34,28,40,28,14
+UBC,2017,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Hodge, Kirsten;Porritt, Lucy;Simpson, Kirsten Anne",79,75.19,6.1,88,62,78,0,1,0,0,0,0,0,0,0,0,0,0,1,7,11,18,16,19,6,0
+UBC,2017,W,EOSC,321,,101,IGNEOUS PETROLGY,"Kopylova, Maya;Porritt, Lucy",40,69.03,10.05,91,44,36,2,1,1,0,0,0,0,0,2,2,2,1,4,6,9,2,8,3,0,1
+UBC,2017,W,ISCI,361,,201,FIELD REGIN SUST,"Groat, Lee;Porritt, Lucy",10,87.7,3.97,92,81,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+UBC,2018,W,EOSC,110,,201,THE SOLID EARTH,"Porritt, Lucy",113,73.65,14.92,98,0,105,5,2,0,0,1,1,1,1,1,5,2,4,5,8,15,15,12,20,10,14
+UBC,2018,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",226,73.11,11.54,94,18,217,7,1,0,1,0,1,1,1,4,7,6,10,10,19,26,33,42,34,26,11
+UBC,2018,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",273,74.8,10.67,94,26,268,2,2,0,0,0,0,1,0,1,2,9,12,15,17,27,43,31,62,33,19
+UBC,2018,W,EOSC,114,,201,CATASTROPH EARTH,"Lipsen, Michael;Longridge, Louise;Porritt, Lucy;Sammis, Charles;Stull, Roland;Ver, Leah May",188,69.91,14.55,93,0,179,7,1,0,0,2,0,2,1,2,7,9,13,21,20,23,15,22,29,17,10
+UBC,2018,W,EOSC,114,,202,CATASTROPH EARTH,"Lipsen, Michael;Longridge, Louise;Porritt, Lucy;Sammis, Charles;Stull, Roland;Ver, Leah May",235,72.24,11.64,94,0,228,4,1,0,1,1,0,0,0,3,4,8,13,13,35,27,31,28,34,29,10
+UBC,2018,W,EOSC,323,,101,STRUC GEOLOGY I,"Porritt, Lucy",74,77.57,9.59,95,55,74,0,0,0,0,0,0,0,0,0,0,0,3,4,3,4,16,8,11,16,9

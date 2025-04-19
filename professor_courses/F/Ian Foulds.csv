@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,179,,101,Linear Algebra for Engineers,Ian Foulds,96,72.54166667,18.04317434,100.0,0.0,11,3,6,2,7,4,7,16,12,18,10,,,
+UBCO,2014,W,APSC,179,,102,Linear Algebra for Engineers,Ian Foulds,95,72.4631579,16.73117267,100.0,9.0,6,2,6,9,6,12,13,8,14,4,15,,,
+UBCO,2014,W,ENGR,353,,101,Semiconductor Devices,Ian Foulds,32,75.6875,14.69789869,99.0,42.0,,,,,,,7,,,,6,,,
+UBCO,2015,W,APSC,179,,101,Linear Algebra for Engineers,Ian Foulds;Md Rashedul Kabir;Md Rezwan Parvez;Trevor Billows;Trevor N Billows;Ying Yi,104,67.663461538,18.196665958,100.0,2.0,11,5,7,9,6,22,10,9,13,6,6,,,
+UBCO,2015,W,APSC,179,,102,Linear Algebra for Engineers,Ian Foulds;Md Rashedul Kabir;Md Rezwan Parvez;Trevor Billows;Trevor N Billows;Ying Yi,136,68.963235294,13.605232157,100.0,20.0,12,4,9,11,17,21,20,18,11,6,7,,,
+UBCO,2015,W,ENGR,353,,101,Semiconductor Devices,Ian Foulds;Ying Yi,48,80.125,9.506157019,100.0,61.0,0,0,0,,,8,8,,10,9,7,,,
+UBCO,2015,W,ENGR,416,,001,Advanced Manufacturing CAD/CAM/CAE,Amir Zaher;Ian Foulds;Lukas Bichler;Mathew Smith;Vladimir Neykov,80,80.7125,7.188587562,95.0,55.0,0,0,,,,,6,16,25,18,7,,,
+UBCO,2016,W,APSC,179,,101,Linear Algebra for Engineers,Ian Foulds;Md Rashedul Kabir;Todd Williams,288,75.11458333,19.89179954,100.0,0.0,30,6,8,10,16,16,24,25,48,44,61,,,
+UBCO,2016,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds,33,82.21212121,10.93662875,100.0,55.0,0,0,2,1,0,2,1,5,8,5,9,,,
+UBCO,2016,W,ENGR,504,,001,Microfabrication Technology,Ian Foulds,6,89.83333333,3.868677638,94.0,83.0,0,0,0,0,0,0,0,0,1,2,3,,,
+UBCO,2016,W,ENGR,506,,001,Microelectromechanical Systems,Ian Foulds,17,86.88235294,5.313689313,96.0,79.0,0,0,0,0,0,0,0,1,5,5,6,,,
+UBCO,2017,W,APSC,179,,101,Linear Algebra for Engineers,Ian Foulds;Md Rashedul Kabir,119,67.588235294,17.803261825,98.0,0.0,26,1,7,7,6,18,9,11,12,11,11,,,
+UBCO,2017,W,APSC,179,,102,Linear Algebra for Engineers,Ian Foulds;Md Rashedul Kabir,158,76.727848101,14.249214409,100.0,35.0,17,0,1,4,13,12,11,22,29,19,30,,,
+UBCO,2017,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds;Salman Alfihed,61,81.590163934,6.04532064,93.0,66.0,0,0,0,0,1,2,7,13,15,18,5,,,
+UBCO,2017,W,ENGR,506,,001,Microelectromechanical Systems,Ian Foulds,11,83.0,4.049691346,91.0,78.0,0,0,0,0,0,0,0,3,4,3,1,,,
+UBCO,2018,W,APSC,179,,101,Linear Algebra for Engineers,Ian Foulds;Khairul Anam,173,66.421965318,16.653827783,98.0,18.0,30,7,18,15,13,17,20,12,18,12,11,,,
+UBCO,2018,W,APSC,179,,102,Linear Algebra for Engineers,Ian Foulds;Khairul Anam;Morad Abdelaziz,164,67.225609756,18.802925702,100.0,12.0,28,9,13,8,11,16,20,13,17,13,16,,,
+UBCO,2018,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds;Keekyoung Kim;Mahmoud Ahmed Abdelaim Sakr;Mahmoud Sakr,93,79.172043011,7.666448154,94.0,61.0,0,0,0,3,5,9,11,15,26,18,6,,,
+UBCO,2018,W,ENGR,504,,102,Microfabrication Technology,Ian Foulds,6,93.333333333,2.875181154,96.0,88.0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCO,2019,W,APSC,179,,101,Linear Algebra for Engineers,Abdul Basit Zia;Ian Foulds;Kamran Alasvand Zarasvand;Morad Abdelaziz;Shiva Khoei,176,70.693181818,21.430209894,100.0,7.0,32,9,7,13,7,19,10,12,12,15,40,,,
+UBCO,2019,W,APSC,179,,102,Linear Algebra for Engineers,Abdul Basit Zia;Ian Foulds;Kamran Alasvand Zarasvand;Morad Abdelaziz;Shiva Khoei,171,63.953216374,19.158107749,100.0,7.0,39,6,21,15,16,15,17,7,11,6,18,,,
+UBCO,2019,W,APSC,255,,102,Electric Circuits and Power,Adel Tabkhpour Langeroudi;Ayman Elnaggar;Ian Foulds;Katherine Luckasavitch;Kathrin Schmidt;Mandeep Chhajer Jain;Mehran Shirazi;Rafaeal Hossain Rakin;Yuri Reis Rodrigues;Yuri Rodrigues,125,77.392,10.829243562,100.0,50.0,0,1,5,7,14,12,14,17,18,19,18,,,
+UBCO,2019,W,APSC,260,,202,Mechanics of Materials I,Ian Foulds;Malcolm Clough;Mohamed Aly;Sahar Alousi;Sepehr Mosadegh;Zahra Mollahoseini,184,79.141304348,8.887987253,95.0,52.0,0,2,2,7,11,14,19,35,37,38,19,,,
+UBCO,2019,W,ENGR,406,,001,Microelectromechanical Systems,Abdul Basit Zia;Ian Foulds;Mahmoud Ahmed Abdelaim Sakr;Mahmoud Sakr,50,88.68,5.563877667,97.0,65.0,0,0,0,0,1,0,0,0,9,13,27,,,
+UBCO,2020,W,APSC,179,,102,Linear Algebra for Engineers,Abdul Basit Zia;Evan Hansen;Hoda Dadashzadeh;Ian Foulds;Kamran Alasvand Zarasvand;Maryam Golestani Najafabadi;Mehran Shirazi;Sarin Raj Pokhrel;Shiva Khoei;Zhila Bahrami,220,73.018181818,16.171445503,100.0,0.0,13,8,9,13,14,29,23,22,34,31,24,,,
+UBCO,2020,W,APSC,255,,101,Electric Circuits and Power,Alireza Eyvazizadeh Khosroshahi;Hoda Dadashzadeh;Ian Foulds;Liwei Wang;Yuri Rodrigues;Ziad Abdelsamad,144,66.354166667,17.365051612,100.0,8.0,38,3,4,11,16,11,15,8,15,11,12,,,
+UBCO,2021,W,APSC,255,,101,Electric Circuits and Power,Bayan Al Nahhas;Ian Foulds;Isaac Spotts;Mohammad Kharouf;Ziad Abdelsamad,122,64.295081967,18.147097997,100.0,20.0,49,1,4,4,7,5,11,11,9,11,10,,,
+UBCO,2021,W,ENGR,353,,001,Semiconductor Devices,Amir Hosein Ahmadian Hoseini;Ian Foulds;Jonathan Holzman;Noah Mcintosh;Saeed Moghaddam;Stephen O'Leary,87,62.827586207,19.246387095,100.0,8.0,23,7,6,7,10,3,10,4,3,5,9,,,
+UBCO,2021,W,ENGR,406,,001,Microelectromechanical Systems,Abdul Basit Zia;Ian Foulds,56,80.785714286,9.545516388,97.0,47.0,1,0,1,1,2,1,7,4,20,11,8,,,
+UBCO,2021,W,APSC,255,,101,Electric Circuits and Power,Ian Foulds,122,64.3,,100.0,20.0,49,,,,7,,11,11,9,11,10,65.5,79.0,47.0
+UBCO,2021,W,ENGR,353,,001,Semiconductor Devices,Ian Foulds,87,62.8,,100.0,8.0,23,7,6,7,10,,10,,,,9,64.0,74.5,48.0
+UBCO,2021,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds,56,80.8,,97.0,47.0,,,,,,,7,,20,11,8,82.0,87.0,76.8
+UBCO,2022,W,APSC,255,,101,Electric Circuits and Power,Ian Foulds,158,72.3,,100.0,15.0,27,0,5,10,12,12,14,11,22,12,33,75.0,87.0,63.0
+UBCO,2022,W,APSC,255,,102,Electric Circuits and Power,Ian Foulds;Ali Maleki Gargari,152,75.2,,99.0,7.0,16,3,4,4,6,16,16,19,21,18,29,79.0,87.0,69.0
+UBCO,2022,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds,48,81.7,,95.0,47.0,1,0,0,0,0,3,6,8,8,15,7,83.5,88.0,76.0
+UBCO,2023,W,APSC,255,,101,Electric Circuits and Power,Justin Farrell;Ian Foulds,116,70.6,,98.0,8.0,18,1,7,6,10,7,14,18,10,10,14,74.0,83.0,62.5
+UBCO,2023,W,APSC,255,,102,Electric Circuits and Power,Justin Farrell;Ian Foulds,175,78.2,,99.0,27.0,12,0,4,5,13,7,10,22,38,27,36,81.0,88.0,72.0
+UBCO,2023,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds,53,81.9,,94.0,64.0,0,0,0,0,3,2,5,10,14,7,12,83.0,89.0,77.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

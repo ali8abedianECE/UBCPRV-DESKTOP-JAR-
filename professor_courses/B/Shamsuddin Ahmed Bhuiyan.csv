@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,DSCI,511,,001,Programming for Data Science,Elijah Willie;Kayode Adekunle Aina;Michael Gelbart;Patrick Walls;Shamsuddin Ahmed Bhuiyan;Stefanie Lumnitz;Tiffany Timbers;Vaden Masrani;Vincenzo Coia,122,89.655737705,6.333396321,98.0,61.0,0,0,0,1,2,1,1,1,11,26,79
+UBCV,2019,W,DSCI,512,,001,Algorithms and Data Structures,Giuseppe Carenini;Jie Xiang;Michael Gelbart;Prateek Yadav;Shamsuddin Ahmed Bhuiyan;Xiaomeng Ju,95,88.663157895,7.176513891,98.0,56.0,0,0,,,1,3,,2,9,28,51
+UBCV,2019,W,DSCI,561,,001,Regression I,Arjun Baghela;Arjun Singh Baghela;Freddy Abelanjo Francis;Freddy Francis;Gabriela Cohen Freue;Giuseppe Carenini;Shamsuddin Ahmed Bhuiyan;Timothy Cashion;Yi-Chin Tseng,122,89.139344262,5.55262662,98.0,63.0,0,0,0,1,0,0,3,3,9,40,66

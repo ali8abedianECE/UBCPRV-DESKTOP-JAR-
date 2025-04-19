@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,VISA,241,,001,DIGITAL PHOTOG,"Thauberger, Althea",19,79,3.99,85,70,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,8,2,0,,,
+UBC,2018,W,VISA,280,,001,CONTEMPORARY ART,"Thauberger, Althea",55,75.06,11.65,90,0,52,1,1,1,0,1,0,0,0,0,1,0,0,0,2,8,9,17,14,1,1,,,
+UBC,2018,W,VISA,401,E,001,ADV OPEN STUDIO,"Thauberger, Althea",23,81.65,5.36,91,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,9,7,1,,,
+UBCV,2018,W,VISA,241,,001,Digital Photography,Althea Thauberger,18,79.0,3.985266985,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,5,8,2,0,,,
+UBCV,2018,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger;Nicholas Loewen,52,76.5,5.077825689,90.0,65.0,,,,,,,,,,,0,0,0,0,2,8,9,17,14,1,1,,,
+UBCV,2018,W,VISA,401,E,001,Advanced Open Studio,Althea Thauberger,23,81.652173913,5.356463349,91.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,4,9,7,1,,,
+UBCV,2018,W,VISA,581,,001,MFA Studio V,Althea Thauberger;Gareth James,6,85.666666667,0.816496581,87.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,0,,,
+UBCV,2019,W,VISA,241,,001,Digital Photography,Althea Thauberger,17,75.764705882,10.034499313,87.0,41.0,,,,,,,,,,,1,0,0,0,0,0,5,6,3,2,0,,,
+UBCV,2019,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger,33,74.121212121,7.394075229,86.0,52.0,,,,,,,,,,,0,1,0,1,3,4,10,6,7,1,0,,,
+UBCV,2019,W,VISA,340,,002,Intermediate Photography I,Althea Thauberger,19,80.842105263,3.131615804,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,12,1,0,,,
+UBCV,2019,W,VISA,481,,001,Advanced Seminar II,Althea Thauberger,36,77.972222222,14.100630404,87.0,0.0,,,,,,,,,,,1,0,0,0,1,1,1,11,14,7,0,,,
+UBCV,2020,W,VISA,110,,002,Foundation Studio: Digital Media,Althea Thauberger;Artem Struyanskiy;Christine D'Onofrio;Natalie Purschwitz;Saromi Kim,152,78.578947368,7.512044471,88.0,10.0,,,,,,,,,,,1,2,1,0,0,1,12,62,60,13,0,,,
+UBCV,2020,W,VISA,220,,001,Drawing,Althea Thauberger;Marina Roy,13,82.230769231,5.847418891,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,6,1,2,,,
+UBCV,2020,W,VISA,230,,003,Painting,Althea Thauberger;Phillip Mccrum,10,84.1,5.606543796,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,4,2,,,
+UBCV,2020,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger;Cathy Busby,20,78.9,4.529435889,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,6,6,3,0,,,
+UBCV,2020,W,VISA,401,H,001,Advanced Open Studio,Althea Thauberger;Barrie Jones;Manuel Pina,21,84.761904762,3.713553041,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,12,2,,,
+UBCV,2020,W,VISA,480,,001,Advanced Seminar I,Althea Thauberger;Antonio Fernandez Rodriguez,32,80.46875,3.741522676,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,6,4,17,5,0,,,
+UBCV,2021,W,ARTH,345,,001,"History of Photography: Archive, Spectacle, Reality",Althea Thauberger;Connor Crable;Kyoung Yong Lee,66,75.196969697,14.23670197,98.0,27.0,,,,,,,,,,,5,2,0,0,3,7,10,13,12,8,6,,,
+UBCV,2021,W,VISA,110,,002,Foundation Studio: Digital Media,Althea Thauberger;Artem Struyanskiy;Reggie-Anne Harrold;Sarvenaz Iraji;Xiong Gu;Yingqiu Zhao,156,77.865384615,11.243398946,87.0,0.0,,,,,,,,,,,3,0,0,0,0,6,18,51,65,13,0,,,
+UBCV,2021,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger;Xiong Gu,27,77.185185185,8.927214386,87.0,42.0,,,,,,,,,,,1,0,0,1,1,2,1,8,10,3,0,,,
+UBCV,2021,W,VISA,401,G,001,Advanced Open Studio,Althea Thauberger;Scott Billings,19,80.421052632,9.93487566,87.0,40.0,,,,,,,,,,,1,0,0,0,0,0,0,0,15,3,0,,,
+UBCV,2021,W,VISA,475,,001,Exhibition Theory and Practice,Althea Thauberger;Matilda Aslizadeh;Phillip Mccrum,10,85.1,11.219526629,96.0,56.0,,,,,,,,,,,0,0,1,0,0,0,0,0,3,2,4,,,
+UBCV,2021,W,VISA,480,,001,Advanced Seminar I,Althea Thauberger;Dana Claxton,31,81.258064516,6.329653713,88.0,52.0,,,,,,,,,,,0,1,0,0,0,0,2,6,15,7,0,,,
+UBCV,2021,W,VISA,110,,002,Foundation Studio: Digital Media,Althea Thauberger,156,77.8,,87.0,0.0,,,,,,,,,,,,,,,,6,18,51,66,12,,79.5,82.0,77.0
+UBCV,2021,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger,27,77.2,,87.0,42.0,,,,,,,,,,,,,,,,,,8,10,,,79.0,81.0,77.5
+UBCV,2021,W,VISA,401,G,001,Advanced Open Studio,Althea Thauberger,19,80.4,,87.0,40.0,,,,,,,,,,,,,,,,,,,15,,,82.0,84.0,81.0
+UBCV,2021,W,VISA,475,,001,Exhibition Theory and Practice,Althea Thauberger,10,85.1,,96.0,56.0,,,,,,,,,,,,,,,,,,,,,,87.0,92.0,83.3
+UBCV,2021,W,VISA,480,,001,Advanced Seminar I,Althea Thauberger,31,81.3,,88.0,52.0,,,,,,,,,,,,,,,,,,6,15,7,,82.0,84.0,79.0
+UBCV,2022,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger,28,79.6,,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,5,5,10,5,1,80.0,83.3,76.5
+UBCV,2022,W,VISA,341,,001,Intermediate Photography II,Althea Thauberger,18,82.0,,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,4,4,8,0,82.0,86.0,78.3
+UBCV,2022,W,VISA,401,G,001,Advanced Open Studio,Althea Thauberger,19,82.5,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,6,0,83.0,85.0,80.0
+UBCV,2022,W,VISA,475,,001,Exhibition Theory and Practice,Althea Thauberger,15,89.9,,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,9,90.0,91.5,89.0
+UBCV,2022,W,VISA,480,,001,Advanced Seminar I,Althea Thauberger,17,79.7,,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,9,2,0,80.0,82.0,79.0
+UBCV,2023,W,VISA,280,,001,Contemporary Art: Ideas as Practice II,Althea Thauberger,35,77.51,,89.0,17.0,,,,,,,,,,,1,0,1,1,0,2,3,7,11,9,0,80.0,84.5,76.0
+UBCV,2023,W,VISA,340,,001,Intermediate Photography I,Althea Thauberger,21,81.52,,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,13,3,0,82.0,84.0,80.0
+UBCV,2023,W,VISA,340,,002,Intermediate Photography I,Althea Thauberger,20,82.6,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,12,4,1,82.0,84.25,80.75
+UBCV,2023,W,VISA,440,,001,Advanced Photography I,Althea Thauberger,20,82.55,,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,7,5,6,2,83.5,85.0,78.0

@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,PSYC,205,,006,CONT ISS PSYCH,"Diamond, Adele",11,77.18,7.57,89,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,1,3,0
+UBC,2011,W,EPSE,604,A,074,ADV TPCS HMN DEV,"Diamond, Adele",12,82.2,6.34,93,72,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,3,1
+UBC,2015,W,PSYT,550,A,002,DIRECTED STUDIES,"Diamond, Adele",6,89.2,4.97,94,81,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+UBCV,2015,W,PSYT,550,A,002,Directed Studies,Adele Diamond,5,89.2,4.969909456,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2019,W,PSYT,550,A,002,Directed Studies,Adele Diamond,8,91.5,3.070597894,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7

@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,GEOG,403,,201,CATCH HYDRO,"Johnson, Mark;Jost, Georg",7,85.4,2.61,88,82,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,,,
+UBC,2009,W,ENVR,200,,201,ENVRMNT STDY I,"Harris, Sara;Johnson, Mark",37,79.89,11.02,97,42,35,1,0,0,1,0,0,0,0,1,1,0,0,1,3,2,3,2,11,7,6,,,
+UBC,2009,W,RMES,500,W,201,RESRCE&ENV WKSHP,"Johnson, Mark",5,86.5,1,87,85,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,
+UBC,2010,W,ENVR,200,,201,INTR ENVRMNT SCI,"Ivanochko, Tara;Johnson, Mark",41,76.32,9.39,88,44,40,1,0,0,0,0,0,0,0,1,1,0,2,2,3,0,5,6,15,7,0,,,
+UBC,2010,W,RMES,500,L,201,RESRCE&ENV WKSHP,"Harris, Leila;Johnson, Mark",8,86.75,2.05,90,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,,,
+UBC,2011,W,ENVR,200,,101,INTR ENVRMNT SCI,"Johnson, Mark;Lane, Erin",54,79.06,7.4,87,46,53,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,6,7,27,10,0,,,
+UBC,2011,W,RMES,500,W,201,RESRCE&ENV WKSHP,"Johnson, Mark",7,85.83,3.13,89,80,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,,,
+UBC,2011,W,RMES,510,,201,SOCIAL ECO SYST,"Harris, Leila;Johnson, Mark",9,86,3.43,90,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,1,,,
+UBC,2012,W,ENVR,200,,101,INTR ENVRMNT SCI,"Ivanochko, Tara;Johnson, Mark",48,83.88,6.07,93,69,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5,9,22,6,,,
+UBC,2012,W,RMES,510,,101,SOCIAL ECO SYST,"Harris, Leila;Johnson, Mark",9,86.75,1.67,88,83,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,,,
+UBC,2013,W,ENVR,420,,101,ECOHYDROL WATER,"Johnson, Mark",33,79.12,7.72,90,52,33,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,5,6,12,6,2,,,
+UBC,2013,W,EOSC,448,C,001,DIRECTED STUDIES,"Johnson, Mark;TBA",5,83.6,16.01,92,55,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,,,
+UBC,2014,W,ENVR,420,,101,ECOHYDROL WATER,"Johnson, Mark",20,79.42,11.08,95,55,19,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,1,2,6,4,3,,,
+UBC,2014,W,EOSC,448,C,001,DIRECTED STUDIES,"Johnson, Mark",5,88.8,4.97,93,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBC,2014,W,RMES,500,A,101,RESRCE&ENV WKSHP,"Johnson, Mark",9,85,1.73,87,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,,,
+UBC,2015,W,ENVR,420,,101,ECOHYDROL WATER,"Johnson, Mark",17,85.81,6.93,91,63,16,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,6,6,,,
+UBC,2015,W,SCIE,113,,112,SCIE SEMINAR,"Johnson, Mark;Oberg, Gunilla",24,75.83,11.87,85,26,23,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,4,4,12,2,0,,,
+UBC,2016,W,ENVR,200,,101,INTR ENVRMNT SCI,"Johnson, Mark;Lipsen, Michael",35,80.74,6.89,90,50,35,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,3,17,10,1,,,
+UBC,2017,W,ENVR,420,,101,ECOHYDROL WATER,"Johnson, Mark",26,80.12,4.79,90,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,8,6,1,,,
+UBC,2018,W,ENVR,420,,101,ECOHYDROL WATER,"Johnson, Mark",25,86.42,7.55,97,70,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,5,4,11,,,
+UBCV,2014,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Mark Johnson,19,79.42105263,11.08209662,95.0,55.0,,,,,,,,,,,0,0,,,,,,,6,,,,,
+UBCV,2014,W,EOSC,448,C,001,Directed Studies,Mark Johnson,5,88.8,4.969909456,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2014,W,RMES,500,A,101,Resource and Environmental Workshop,Mark Johnson,9,85.0,1.732050808,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,0,,,
+UBCV,2015,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Brenda D'Acunha;Mark Johnson,16,85.8125,6.930307833,91.0,63.0,,,,,,,,,,,0,0,0,,,,,,,6,6,,,
+UBCV,2015,W,SCIE,113,,112,First-Year Seminar in Science,Gunilla Oberg;Mark Johnson,24,75.833333333,11.874952326,85.0,26.0,,,,,,,,,,,,,,,,,,,12,,0,,,
+UBCV,2016,W,ENVR,200,,101,Introduction to Environmental Science,Harold Eyster;Harold Nelson Eyster;Mark Johnson;Michael Lipsen,35,80.74285714,6.891353735,90.0,50.0,,,,,,,,,,,0,1,0,0,0,1,2,3,17,10,1,,,
+UBCV,2016,W,RES,500,A,101,Resource and Environmental Workshop,Mark Johnson,8,86.875,2.799872446,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,2,,,
+UBCV,2017,W,ENVR,200,,101,Introduction to Environmental Science,Alida O'Connor;Krista Cawley;Mark Johnson;Michael Lipsen;Sara Harris;Tara Ivanochko,45,79.888888889,5.68179798,87.0,61.0,,,,,,,,,,,0,0,0,1,1,2,3,5,22,11,0,,,
+UBCV,2017,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Brenda D'Acunha;Mark Johnson,26,80.115384615,4.794387745,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,8,8,6,1,,,
+UBCV,2018,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Mark Johnson;Yeonuk Kim,24,86.416666667,7.546474366,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,5,4,11,,,
+UBCV,2018,W,RES,500,E,101,Resource and Environmental Workshop,Mark Johnson,12,83.5,7.633657529,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,1,9,1,,,
+UBCV,2019,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Hannah Mcsorley;Mark Johnson,28,84.25,5.96672874,91.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,2,5,13,6,,,
+UBCV,2019,W,RES,500,E,101,Resource and Environmental Workshop,Mark Johnson,11,84.0,2.28035085,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,0,,,
+UBCV,2021,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Mark Johnson;Rudri Bhatt;Yukino Nitta,24,78.833333333,15.273354652,89.0,25.0,,,,,,,,,,,2,0,0,0,0,2,0,2,4,14,0,,,
+UBCV,2021,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Mark Johnson,24,78.8,,89.0,25.0,,,,,,,,,,,,,,,,,,,,14,,85.0,86.3,80.0
+UBCV,2022,S,ENVR,420,,971,Ecohydrology of Watersheds and Water Systems,Mark Johnson,11,84.0,,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,0,3,4,2,86.0,88.5,81.5
+UBCV,2022,W,ENVR,420,,201,Ecohydrology of Watersheds and Water Systems,Mark Johnson,23,83.4,,94.0,52.0,,,,,,,,,,,0,1,0,0,0,0,0,4,6,7,5,85.0,88.0,81.0
+UBCV,2022,W,RES,500,E,201,Resource and Environmental Workshop,Mark Johnson,10,87.8,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,3,88.0,89.5,86.3
+UBCV,2022,W,RES,502,,202,Master's Seminar on Resources and Environment,Mark Johnson,8,87.4,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,2,87.0,88.5,86.0
+UBCV,2023,W,ENVR,420,,201,Ecohydrology of Watersheds and Water Systems,Mark Johnson,37,84.11,,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,0,11,18,4,85.0,86.0,82.0
+UBCV,2023,W,RES,502,,101,Master's Seminar on Resources and Environment,Mark Johnson,14,86.64,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,2,87.0,88.0,85.25

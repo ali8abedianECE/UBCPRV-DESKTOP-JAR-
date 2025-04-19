@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",21,87,5.9,95,69,19,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,8,7,,,
+UBC,2005,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",17,88.88,9.7,97,59,16,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,4,9,,,
+UBC,2006,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",24,93,2.63,99,88,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,21,,,
+UBC,2007,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",24,91.2,7.01,99,67,20,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,14,,,
+UBC,2009,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",35,89.63,16.05,98,0,34,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,6,26,,,
+UBC,2010,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",24,89.65,8.16,99,60,23,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,5,14,,,
+UBC,2011,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",26,89.16,15.73,100,22,24,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,3,20,,,
+UBC,2012,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",41,89.97,6.63,98,74,36,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,4,2,26,,,
+UBC,2013,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",29,80.66,18.65,100,11,27,2,0,0,0,0,1,0,1,0,2,0,0,0,0,2,2,0,8,7,8,,,
+UBC,2014,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",39,78.84,16.65,99,27,35,3,1,0,0,0,0,2,0,1,3,0,1,0,1,1,5,4,5,9,9,,,
+UBC,2015,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",30,85.07,12.72,100,58,29,0,0,0,1,0,0,0,0,0,0,0,1,1,2,2,0,3,2,4,14,,,
+UBC,2016,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",40,82.29,16.91,100,16,36,2,1,0,0,0,1,0,0,1,2,0,0,1,4,1,1,1,7,5,16,,,
+UBC,2017,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",45,82.53,12.86,98,54,40,0,3,0,2,0,0,0,0,0,0,1,2,1,1,4,2,4,6,3,16,,,
+UBC,2018,W,CNPS,426,,63A,ROLE TCHER GUID,"Thomson, Vicky",43,83.51,14.68,100,19,37,2,2,0,0,0,1,0,0,1,2,0,0,0,0,0,3,2,9,9,14,,,
+UBCV,2014,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,38,78.84210526,16.65472308,99.0,27.0,,,,,,,,,,,,,,,,,5,,5,9,9,,,
+UBCV,2015,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,31,79.580645161,24.543531658,100.0,0.0,,,,,,,,,,,,,,,,,,,,,14,,,
+UBCV,2016,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,39,82.02564103,16.77166655,100.0,16.0,,,,,,,,,,,2,0,0,1,4,1,2,1,7,5,16,,,
+UBCV,2017,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,42,81.142857143,15.75044936,98.0,21.0,,,,,,,,,,,1,1,2,1,1,4,2,4,6,4,16,,,
+UBCV,2018,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,41,83.365853659,14.36098203,100.0,19.0,,,,,,,,,,,2,0,0,0,0,0,3,3,9,10,14,,,
+UBCV,2019,W,CNPS,365,,63C,Introduction to Theories of Counselling,Mircea Munteanu;Vicky Thomson,34,76.117647059,9.5814363,95.0,60.0,,,,,,,,,,,0,0,0,5,1,4,6,5,5,6,2,,,
+UBCV,2019,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,34,82.764705882,9.351904112,100.0,55.0,,,,,,,,,,,0,0,1,0,0,2,2,8,7,4,10,,,
+UBCV,2020,W,CNPS,365,,63C,Introduction to Theories of Counselling,Vicky Thomson,30,79.533333333,7.435855971,90.0,60.0,,,,,,,,,,,0,0,0,1,0,3,3,5,8,6,4,,,
+UBCV,2020,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,30,81.266666667,19.892700677,100.0,0.0,,,,,,,,,,,1,0,1,2,2,1,1,3,2,3,14,,,
+UBCV,2021,W,CNPS,365,,63C,Introduction to Theories of Counselling,Alistair Gordon;Vicky Thomson,34,78.794117647,7.983996917,94.0,56.0,,,,,,,,,,,0,0,1,0,0,4,7,3,8,9,2,,,
+UBCV,2021,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,18,90.055555556,8.242445541,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,1,12,,,
+UBCV,2021,W,CNPS,365,,63C,Introduction to Theories of Counselling,Vicky Thomson,34,78.8,,94.0,56.0,,,,,,,,,,,,,,,,,7,,8,9,,80.5,85.0,72.3
+UBCV,2021,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,19,89.0,,100.0,70.0,,,,,,,,,,,,,,,,,,,,,12,91.0,96.0,83.0
+UBCV,2022,W,CNPS,365,,63C,Introduction to Theories of Counselling,Vicky Thomson,33,81.3,,90.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,12,6,9,3,81.0,86.0,77.0
+UBCV,2022,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,26,84.2,,100.0,53.0,,,,,,,,,,,0,1,0,0,2,0,2,1,6,5,9,86.0,93.8,80.0
+UBCV,2023,W,CNPS,365,,63C,Introduction to Theories of Counselling,Vicky Thomson,36,75.9,,94.0,0.0,,,,,,,,,,,1,0,0,1,3,4,3,6,8,9,1,79.0,85.0,72.5
+UBCV,2023,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,34,85.3,,100.0,55.0,,,,,,,,,,,0,0,1,0,3,0,0,4,2,7,13,88.0,93.3,79.3

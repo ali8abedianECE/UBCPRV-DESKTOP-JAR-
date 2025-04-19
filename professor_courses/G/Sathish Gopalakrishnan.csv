@@ -1,0 +1,76 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,EECE,494,,201,REAL-TIME DIG SY,"Gopalakrishnan, Sathish",59,74.88,13.09,97,40,56,1,0,1,1,0,0,0,0,1,1,5,1,4,6,5,5,3,11,9,7,,,
+UBC,2007,W,EECE,320,,101,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",91,74.22,16.4,100,34,86,4,1,0,0,0,0,0,4,0,4,8,5,8,6,7,9,6,10,10,17,,,
+UBC,2007,W,EECE,494,,201,REAL-TIME DIG SY,"Gopalakrishnan, Sathish",82,76.07,7.81,96,52,82,0,0,0,0,0,0,0,0,0,0,1,2,3,3,11,16,19,15,9,3,,,
+UBC,2007,W,EECE,571,G,105,ELEC SEM&SP PROB,"Gopalakrishnan, Sathish",10,90,6.82,97,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,6,,,
+UBC,2009,S,EECE,400,,941,NANTEC & MICRSYS,"Gopalakrishnan, Sathish",15,84.6,7.91,97,71,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,0,4,,,
+UBC,2009,S,EECE,496,,941,ENGINEERING PROJ,"Gopalakrishnan, Sathish",49,84.72,8.14,97,55,47,0,0,0,2,0,0,0,0,0,0,0,1,0,0,2,3,4,10,13,14,,,
+UBC,2009,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Gopalakrishnan, Sathish;Lawrence, Peter;Nojeh, Alireza",84,67.39,11.27,88,39,79,4,0,0,1,0,0,0,1,3,4,8,6,10,11,9,13,12,6,4,0,,,
+UBC,2009,W,EECE,320,,101,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",109,70.47,11.31,98,42,102,2,3,0,2,0,0,0,0,2,2,5,10,12,12,16,15,9,9,10,4,,,
+UBC,2009,W,EECE,494,,201,RL-TIME SYS DES,"Gopalakrishnan, Sathish",60,75.45,9.63,91,54,60,0,0,0,0,0,0,0,0,0,0,1,1,6,8,4,11,5,10,11,3,,,
+UBC,2009,W,EECE,571,G,105,ELEC SEM&SP PROB,"Gopalakrishnan, Sathish",6,87.67,2.07,90,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2010,S,CICS,525,,921,R-TIME&DISTR SYS,"Gopalakrishnan, Sathish",28,80.04,8.55,97,65,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,9,3,4,,,
+UBC,2010,W,EECE,320,,201,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",53,74.1,9.72,92,47,50,1,2,0,0,0,0,0,0,1,1,0,3,2,6,6,13,7,3,8,2,,,
+UBC,2010,W,EECE,494,,201,RL-TIME SYS DES,"Gopalakrishnan, Sathish",53,76.54,11.3,96,54,52,0,1,0,0,0,0,0,0,0,0,1,4,6,1,3,6,9,9,6,7,,,
+UBC,2011,S,CICS,525,,921,R-TIME&DISTR SYS,"Gopalakrishnan, Sathish",32,84.34,7.16,97,61,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,11,7,8,,,
+UBC,2011,W,EECE,320,,101,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",100,68.22,12.41,98,35,91,3,5,0,1,0,0,0,1,2,3,9,14,10,11,9,9,10,8,7,4,,,
+UBC,2011,W,EECE,320,,201,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",47,69.71,11.67,93,50,45,0,1,0,1,0,0,0,0,0,0,4,8,2,7,5,6,2,5,3,3,,,
+UBC,2011,W,EECE,494,,201,RL-TIME SYS DES,"Gopalakrishnan, Sathish",51,77.75,11.84,96,45,50,1,0,0,0,0,0,0,0,1,1,2,2,1,3,2,6,8,9,11,6,,,
+UBC,2012,S,CICS,525,,921,R-TIME&DISTR SYS,"Gopalakrishnan, Sathish",23,82.48,8.1,93,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,7,5,5,,,
+UBC,2012,W,EECE,320,,101,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",108,68.57,12.61,98,30,99,4,3,0,2,0,0,0,3,1,4,7,10,11,14,15,11,11,14,2,4,,,
+UBC,2012,W,EECE,494,,101,RL-TIME SYS DES,"Gopalakrishnan, Sathish",75,77.34,7.77,91,40,73,1,0,0,1,0,0,0,0,1,1,0,0,0,5,8,13,15,21,7,4,,,
+UBC,2012,W,EECE,571,K,205,ELEC SEM&SP PROB,"Gopalakrishnan, Sathish",8,88.38,3.5,92,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,,,
+UBC,2013,S,CICS,525,,921,R-TIME&DISTR SYS,"Gopalakrishnan, Sathish",30,86.13,4.06,92,75,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,14,7,,,
+UBC,2013,W,EECE,210,,102,PRN SOFTWR DSGN,"Gopalakrishnan, Sathish",191,72.04,11.98,93,30,178,7,5,0,1,0,0,0,5,2,7,9,9,16,14,36,21,22,24,23,4,,,
+UBC,2013,W,EECE,309,,101,PRN SOFTWR DSGN,"Gopalakrishnan, Sathish;Pattabiraman, Karthik",143,80.58,9.57,100,51,143,0,0,0,0,0,0,0,0,0,0,1,2,3,9,8,19,19,26,32,24,,,
+UBC,2013,W,EECE,320,,101,DISCT STRU&ALGTH,"Gopalakrishnan, Sathish",149,72.54,7.56,97,54,147,0,2,0,0,0,0,0,0,0,0,2,4,10,17,29,38,21,16,8,2,,,
+UBC,2014,W,EECE,210,,101,PRN SOFTWR DSGN,"Gopalakrishnan, Sathish",217,76.12,12.61,96,20,207,7,2,0,1,0,0,2,2,3,7,7,6,11,12,14,29,32,48,29,19,,,
+UBC,2014,W,EECE,496,A,101,UNDERGRAD THESIS,"Gopalakrishnan, Sathish",4,83.75,2.63,86,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,
+UBC,2014,W,EECE,496,A,201,UNDERGRAD THESIS,"Gopalakrishnan, Sathish",4,83.25,6.9,92,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,,
+UBC,2015,W,CPEN,221,,101,PRIN SFTWR CONST,"Gopalakrishnan, Sathish",198,76.56,9.32,98,45,190,1,6,0,1,0,0,0,0,1,1,2,8,7,12,25,38,34,28,24,12,,,
+UBC,2015,W,CPEN,221,,T1A,PRIN SFTWR CONST,"Gopalakrishnan, Sathish",6,,,,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,CPEN,221,,101,PRIN SFTWR CONST,"Gopalakrishnan, Sathish;Ripeanu, Radu",191,73.97,10.05,98,40,183,2,5,1,0,0,0,0,0,2,2,5,11,9,22,36,24,22,36,12,6,,,
+UBC,2016,W,CPEN,221,,T1A,PRIN SFTWR CONST,"Gopalakrishnan, Sathish;Ripeanu, Radu",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,CPEN,321,,101,SOFTWARE ENGINRN,"Agharebparast, Farshid;Gopalakrishnan, Sathish",106,82.93,5.85,93,60,104,0,1,0,1,0,0,0,0,0,0,0,0,2,0,3,3,10,51,22,13,,,
+UBC,2017,W,CPEN,221,,101,PRIN SFTWR CONST,"Gopalakrishnan, Sathish",195,76.45,11.43,96,17,186,6,1,0,2,0,1,1,0,4,6,3,1,7,12,17,46,24,31,27,18,,,
+UBC,2017,W,EECE,513,,201,ERROR RESIL SYST,"Gopalakrishnan, Sathish",15,88.36,6.72,94,76,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,8,,,
+UBC,2017,W,EECE,571,I,107,ELEC SEM&SP PROB,"Gopalakrishnan, Sathish",14,91.23,2.74,95,84,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12,,,
+UBC,2018,S,EECE,514,,941,SOFTW VERIF&TEST,"Gopalakrishnan, Sathish",11,83.73,9.06,95,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,1,4,,,
+UBC,2018,W,CPEN,221,,101,PRIN SFTWR CONST,"Gopalakrishnan, Sathish",228,74.18,9.06,98,25,220,4,2,0,2,0,0,1,1,2,4,1,0,27,21,21,56,41,37,9,7,,,
+UBC,2018,W,EECE,500,,201,INTR ACA ENTR,"Gopalakrishnan, Sathish",8,88.43,4.16,90,79,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,,,
+UBCV,2014,W,EECE,210,,101,Principles of Software Construction,Sathish Gopalakrishnan,215,75.87906977,13.0754203,96.0,20.0,,,,,,,,,,,8,7,6,11,12,14,29,32,48,29,19,,,
+UBCV,2015,W,CPEN,221,,101,Principles of Software Construction,Arabelle Hou;Bader Alahmad;Bader Naim Alahmad;Carlos Antonio Sanchez;Hootan Rashtian;Jay Dahiya;Jordan Schalm;Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Nam Giang;Nam Ky Giang;Rudolf Plesch;Sathish Gopalakrishnan,192,76.291666667,10.009855527,98.0,25.0,,,,,,,,,,,,,8,7,12,25,38,34,28,24,12,,,
+UBCV,2016,W,CPEN,221,,101,Principles of Software Construction,Bader Alahmad;Bader Naim Alahmad;Bo Fang;Cinnie Hsiung;Hootan Rashtian;Jennifer Ashley Lam;Jennifer Lam;Junwei Clarence Su;Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Radu Ripeanu;Sathish Gopalakrishnan;Scott Sallinen;Si Yan Zhu;Siyuan He;Tal Schwartz;Yuqing Du,185,73.97297297,10.04740526,98.0,40.0,,,,,,,,,,,2,5,11,9,22,36,24,22,36,12,6,,,
+UBCV,2016,W,CPEN,321,,101,Software Engineering,Bader Alahmad;Bader Naim Alahmad;Farshid Agharebparast;John Deppe;John Henry Deppe;Nicholas Mulvenna;Sathish Gopalakrishnan;Theresa Louise Mammarella;Theresa Mammarella,105,82.62857143,6.606024556,93.0,51.0,,,,,,,,,,,0,1,0,2,0,3,3,10,51,22,13,,,
+UBCV,2017,W,CPEN,221,,101,Principles of Software Construction,Amar Shah;Bader Alahmad;Erick Velasquez Freire;Herman Dhak;Ingyu Shin;James Asefa;Joey Li;Nishchay Khanna;Sathish Gopalakrishnan;Scott Sallinen;Tanuj Aasawat;Theophilus Ko;Yung-Huei Lin,194,75.68556701,13.621420876,96.0,0.0,,,,,,,,,,,8,3,1,7,12,17,46,24,31,27,18,,,
+UBCV,2017,W,EECE,513,,201,Error Resilient Computing Systems,Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Sathish Gopalakrishnan,14,88.357142857,6.720887566,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,3,8,,,
+UBCV,2017,W,EECE,571,I,107,Electrical Engineering Seminar and Special Problems,Karen Cheung;Sathish Gopalakrishnan,13,91.230769231,2.743290183,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,12,,,
+UBCV,2018,S,EECE,514,,941,Software Verification and Testing,Sathish Gopalakrishnan,11,83.727272727,9.056389005,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,1,3,1,4,,,
+UBCV,2018,W,CPEN,221,,101,Principles of Software Construction,Aditya Barimar;Aidan Rosswood;Alberto Misail Guber;Amirhossein Tootooni Mofrad;David Berard;Erick Velasquez Freire;Ian Mccall;Ingyu Shin;Jun Yong Park;Maria Sottile;Nan Jiang;Ro-Ee Tal;Sathish Gopalakrishnan;Sina Saleh;Tom Ginsberg;Tyler Lum,227,73.9030837,10.099475988,98.0,18.0,,,,,,,,,,,6,1,0,27,19,21,55,41,41,9,7,,,
+UBCV,2018,W,EECE,500,,201,Introduction to the Academic Enterprise,Sathish Gopalakrishnan,7,88.428571429,4.157609203,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,6,,,
+UBCV,2019,S,CPEN,533,,941,Error Resilient Computing Systems,Sathish Gopalakrishnan,15,84.533333333,6.057659457,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,4,6,3,,,
+UBCV,2019,W,CPEN,221,,101,Principles of Software Construction,Carol Patricia Jaeger;Gabrielle Lam;Harteij Sidhu;James Wu;John Ramsden;Jonathan Nakane;Jonathan Verrett;Julie Belleville;Naoko Ellis;Peter Ostafichuk;Sathish Gopalakrishnan;Satish Sarraf;Shaylin Cattell;Victoria Schuster,213,71.539906103,9.905427995,99.0,25.0,,,,,,,,,,,4,2,4,49,4,47,51,3,24,21,4,,,
+UBCV,2019,W,CPEN,400,S,204,Topics in Computer Engineering,Sathish Gopalakrishnan;Shahriar Mirabbasi,14,90.428571429,5.639343739,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,8,,,
+UBCV,2019,W,CPEN,400,X,002,Topics in Computer Engineering,Sathish Gopalakrishnan,7,94.0,0.0,94.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2020,S,CPEN,533,,941,Error Resilient Computing Systems,Bader Alahmad;Kumseok Jung;Sathish Gopalakrishnan,13,86.846153846,9.668213846,97.0,63.0,,,,,,,,,,,0,0,0,1,0,0,0,2,2,2,6,,,
+UBCV,2020,W,APPP,506,C,101,Capstone Project,Philippe Kruchten;Sathish Gopalakrishnan,10,86.0,6.377042157,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,5,3,,,
+UBCV,2020,W,CPEN,221,,101,Principles of Software Construction,Alberto Misail Guber;Emily Love;Emma Gray;Grady Thompson;Harteij Sidhu;Madeline Ferguson;Melvin Mathews;Paul Juralowicz;Quinn Ferbers;Rafiuzzaman Mohammad;Sathish Gopalakrishnan;Shaylin Cattell;Sylvia Zhang;Victoria Schuster;Yuntao Wu;Zi Yu Xue,260,70.719230769,12.50243279,95.0,27.0,,,,,,,,,,,17,10,10,22,16,38,52,30,38,19,8,,,
+UBCV,2020,W,CPEN,431,,201,Design of Distributed Software Applications,Kumseok Jung;Marjane Namavar;Sathish Gopalakrishnan,55,83.545454545,5.255748817,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,6,16,26,3,,,
+UBCV,2021,S,CPEN,533,,941,Error Resilient Computing Systems,Sathish Gopalakrishnan,23,84.086956522,4.27373632,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,6,11,2,,,
+UBCV,2021,S,ELEC,391,,941,Electrical Engineering Design Studio II,Cristian Sorin Grecu;Fredy Augusto Maciel Alves;Hamed Noori;Ignacio Galiano Zurbriggen;Paul Lusina;Sathish Gopalakrishnan,37,71.621621622,13.193751365,96.0,45.0,,,,,,,,,,,3,3,1,0,2,3,6,13,2,1,3,,,
+UBCV,2021,W,APPP,506,C,101,Capstone Project,Sathish Gopalakrishnan,9,84.333333333,5.196152423,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,3,2,,,
+UBCV,2021,W,CPEN,221,,101,Software Construction I,Adrienne Chu;Aileen Zhang;Grady Thompson;Harteij Sidhu;Jared Paul;Kenneth Xing;Matthew Memme;Mohammad Abdolkhani;Mohammad Shahrad;Nima Nasiri;Paul Juralowicz;Renugambikai Rajamagesh;Rudransh Kumar;Sarah Buddhason;Sathish Gopalakrishnan;Tiffany Matthe;Zi Yu Xue,238,72.390756303,10.823606733,99.0,20.0,,,,,,,,,,,6,9,7,27,18,34,61,19,29,24,4,,,
+UBCV,2021,S,CPEN,533,,941,Error Resilient Computing Systems,Sathish Gopalakrishnan,23,84.1,,91.0,73.0,,,,,,,,,,,,,,,,,,,6,11,,85.0,86.5,82.5
+UBCV,2021,S,ELEC,391,,941,Electrical Engineering Design Studio II,Ignacio Galiano Zurbriggen;Sathish Gopalakrishnan;Cristian Sorin Grecu;Paul Lusina,37,71.6,,96.0,45.0,,,,,,,,,,,,,,,,,6,13,,,,76.0,77.0,69.0
+UBCV,2021,W,APPP,506,C,101,Capstone Project,Sathish Gopalakrishnan,9,84.3,,90.0,73.0,,,,,,,,,,,,,,,,,,,,,,85.0,88.0,83.0
+UBCV,2021,W,CPEN,221,,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,238,72.4,,99.0,20.0,,,,,,,,,,,,10,7,27,18,34,61,19,29,24,,75.0,79.0,67.0
+UBCV,2022,S,CPEN,522,,943,Software Verification and Testing,Sathish Gopalakrishnan,13,81.7,,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,1,3,2,3,83.0,87.0,75.0
+UBCV,2022,S,EECE,571,Y,SEM,Electrical Engineering Seminar and Special Problems,Sathish Gopalakrishnan,8,87.6,,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,2,88.0,88.5,88.0
+UBCV,2022,W,APPP,506,C,101,Capstone Project,Sathish Gopalakrishnan,8,90.5,,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,3,89.0,93.0,89.0
+UBCV,2022,W,CPEN,221,,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,243,76.3,,93.0,19.0,,,,,,,,,,,5,0,0,15,10,25,31,65,57,31,4,78.0,82.0,73.0
+UBCV,2022,W,CPEN,523,,101,Software Project Management,Sathish Gopalakrishnan,15,91.1,,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,10,91.0,93.5,89.0
+UBCV,2023,S,CPEN,522,,943,Software Verification and Testing,Sathish Gopalakrishnan,11,80.88,,84.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,0,0,80.5,81.5,79.75
+UBCV,2023,W,CPEN,221,A,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,133,76.02,,93.0,60.0,,,,,,,,,,,0,0,0,2,12,17,23,46,21,7,3,77.0,79.0,72.0
+UBCV,2023,W,CPEN,221,B,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,128,73.22,,91.0,45.0,,,,,,,,,,,1,1,0,5,18,26,24,30,13,5,2,74.0,78.0,68.0
+UBCV,2023,W,ELEC,300,R,001,Special Topics in Electrical Engineering,Sathish Gopalakrishnan,7,85.7,,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,2,89.0,90.0,80.0
+UBCV,2023,W,ELEC,331,,201,Computer Communications,Farshid Agharebparast;Sathish Gopalakrishnan,124,74.3,,90.0,0.0,,,,,,,,,,,3,1,1,2,1,15,47,22,15,12,1,74.0,79.0,72.0

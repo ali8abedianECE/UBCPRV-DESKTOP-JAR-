@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2023,W,DSCI,100,,005,Introduction to Data Science,Katie Burak,146,71.4,94.0,10.0,12,4,9,7,15,13,16,15,25,21,5,73.5,82.8,64.3
+UBCV,2023,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Katie Burak;Gilberto Alexi Rodríguez Arelis,125,90.6,100.0,66.0,0,0,0,0,2,1,1,6,8,27,79,92.0,95.0,87.0
+UBCV,2023,W,DSCI,552,,001,Statistical Inference and Computation I,Katie Burak;Tiffany Timbers,126,86.4,97.0,69.0,0,0,0,0,0,2,3,8,25,49,38,87.0,90.0,84.0
+UBCV,2023,W,DSCI,561,,001,Regression I,Katie Burak,126,89.1,98.0,72.0,0,0,0,0,0,0,7,2,15,30,71,90.0,93.0,86.0
+UBCV,2023,W,DSCI,574,,001,Spatial and Temporal Models,Katie Burak,88,88.7,98.0,78.0,0,0,0,0,0,0,0,2,18,29,39,89.0,92.0,85.8
+UBCV,2023,W,DSCI,591,,001,Capstone Project,Katie Burak;Giuseppe Carenini;Daniel Chen;Gittu George;Simon Goring;Varada Kolhatkar;Vincent Liu;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Tiffany Timbers,89,89.3,93.0,82.0,0,0,0,0,0,0,0,0,11,31,47,90.0,92.0,87.0

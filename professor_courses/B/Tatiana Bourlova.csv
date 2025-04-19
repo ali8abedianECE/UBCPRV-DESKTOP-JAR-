@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",9,83.11,8.88,94,69,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,3,,,
+UBC,2009,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",5,85.4,1.95,88,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,,,
+UBC,2010,S,ETEC,520,,66B,PLAN MAN LEARN,"Bourlova, Tatiana",25,89.79,3.97,97,83,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,11,,,
+UBC,2011,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",15,85.67,9.08,97,63,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,4,6,,,
+UBC,2012,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",14,88,5.91,97,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,6,,,
+UBC,2013,S,ETEC,520,,66B,PLAN MAN LEARN,"Bourlova, Tatiana",19,87.78,6.84,98,68,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,6,8,,,
+UBC,2014,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",15,89.93,4.74,98,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,6,,,
+UBC,2014,W,ETEC,565,A,64B,SC SUB MAT FIELD,"Bourlova, Tatiana",19,89.39,5.66,98,78,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,9,,,
+UBC,2015,S,ETEC,565,A,66B,SC SUB MAT FIELD,"Bourlova, Tatiana",21,90.9,5.75,99,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,13,,,
+UBC,2015,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",11,87.36,4.97,96,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,3,,,
+UBC,2015,W,ETEC,565,A,65B,SC SUB MAT FIELD,"Bourlova, Tatiana",20,89.95,7.51,99,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,13,,,
+UBC,2016,W,ETEC,520,,65B,PLAN MAN LEARN,"Bourlova, Tatiana",11,89.67,5.17,98,80,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,,,
+UBC,2016,W,ETEC,565,A,64B,SC SUB MAT FIELD,"Bourlova, Tatiana",21,90.24,16.51,100,20,20,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,18,,,
+UBC,2017,S,ETEC,565,A,66B,SC SUB MAT FIELD,"Bourlova, Tatiana",19,88.28,7.28,98,71,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,6,9,,,
+UBC,2018,W,ETEC,510,,65D,DES TECH,"Bourlova, Tatiana",18,92.06,2.84,97,89,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,,,
+UBC,2018,W,ETEC,524,,64B,LEARNING TCHNLGY,"Bourlova, Tatiana",21,91.4,5.22,99,84,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,12,,,
+UBCV,2014,W,ETEC,520,,65B,Planning and Managing Learning Technologies in Higher Education,Tatiana Bourlova,15,89.93333333,4.742914515,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,6,,,
+UBCV,2014,W,ETEC,565,A,64B,Special Course in Subject Matter Field,Tatiana Bourlova,19,84.68421053,21.23166564,98.0,0.0,,,,,,,,,,,,,,,,,,,,5,9,,,
+UBCV,2015,S,ETEC,565,A,66B,Special Course in Subject Matter Field,Tatiana Bourlova,21,90.90476191,5.752432198,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,13,,,
+UBCV,2015,W,ETEC,520,,65B,Planning and Managing Learning Technologies in Higher Education,Tatiana Bourlova,11,87.363636364,4.965334375,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,4,,,,
+UBCV,2015,W,ETEC,565,A,65B,Special Course in Subject Matter Field,Tatiana Bourlova,20,89.95,7.514722392,99.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,-30,13,,,
+UBCV,2016,W,ETEC,520,,65B,Planning and Managing Learning Technologies in Higher Education,Tatiana Bourlova,9,89.66666667,5.172040216,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,4,,,
+UBCV,2016,W,ETEC,565,A,64B,Special Course in Subject Matter Field,Tatiana Bourlova,21,90.23809524,16.51334237,100.0,20.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,1,18,,,
+UBCV,2017,S,ETEC,565,A,66B,Special Course in Subject Matter Field,Tatiana Bourlova,18,88.277777778,7.28257837,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,1,6,9,,,
+UBCV,2018,W,ETEC,510,,65D,Design of Technology- Supported Learning Environments,Tatiana Bourlova,18,92.055555556,2.838231061,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,14,,,
+UBCV,2018,W,ETEC,524,,64B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,20,91.4,5.215361924,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,12,,,
+UBCV,2019,S,ETEC,524,,66B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,22,88.545454545,5.654557982,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,7,10,,,
+UBCV,2019,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Tatiana Bourlova,19,96.473684211,4.538335733,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,17,,,
+UBCV,2019,W,ETEC,524,,65B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,17,83.411764706,22.164326133,98.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,0,1,7,7,,,
+UBCV,2021,S,ETEC,524,,66B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,17,96.882352941,3.038962671,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17,,,
+UBCV,2021,W,ETEC,510,,64C,Design of Technology- Supported Learning Environments,Tatiana Bourlova,23,96.173913043,2.208499571,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23,,,
+UBCV,2021,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Halimat Ireti Alabi;Tatiana Bourlova,16,90.5625,19.996562205,99.0,24.0,,,,,,,,,,,1,0,0,1,0,0,0,0,0,0,14,,,
+UBCV,2021,S,ETEC,524,,66B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,17,96.9,,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17,97.0,100.0,95.0
+UBCV,2021,W,ETEC,510,,64C,Design of Technology- Supported Learning Environments,Tatiana Bourlova,23,96.2,,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23,96.0,98.0,95.5
+UBCV,2021,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Tatiana Bourlova,16,90.6,,99.0,24.0,,,,,,,,,,,,,,,,,,,,,14,97.0,99.0,95.0
+UBCV,2022,S,ETEC,510,,66B,Design of Technology- Supported Learning Environments,Tatiana Bourlova,18,96.4,,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,97.5,99.0,94.5
+UBCV,2022,W,ETEC,524,,64C,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,20,95.9,,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,1,17,98.5,100.0,95.0
+UBCV,2023,S,ETEC,524,,66A,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,23,95.59,,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,18,98.0,100.0,92.25
+UBCV,2023,S,ETEC,524,,66B,"Learning Technologies: Selection, Design, and Application",Tatiana Bourlova,19,94.84,,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,16,95.0,98.0,91.5

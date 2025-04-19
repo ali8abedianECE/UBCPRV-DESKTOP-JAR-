@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,LLED,565,H,952,SP CRS SBJCT FLD,"Tierney, Robert",11,89.36,3.23,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2018,S,LLED,565,H,921,SP CRS SBJCT FLD,"Tierney, Robert",4,95,3,98,92,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBCV,2016,S,LLED,565,H,952,Special Course in Subject Matter Field,Robert Tierney,11,89.36363636,3.233348953,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,6
+UBCV,2019,S,LLED,565,H,921,Special Course in Subject Matter Field,Robert Tierney,11,93.636363636,2.693426341,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11

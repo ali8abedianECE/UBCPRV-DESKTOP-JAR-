@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,MIDW,205,,002,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;McRae, Lorna",19,87.47,5.53,95,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,9,,,
+UBC,2015,W,MIDW,220,,001,CLIN CARE INTRO,"Campbell, Allison;McRae, Lorna",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,MIDW,221,,001,CLINICAL SKILLS,"Campbell, Allison",19,88.58,5.67,98,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,7,7,,,
+UBC,2015,W,MIDW,240,,002,CORE CLIN CARE,"Campbell, Allison",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,MIDW,405,,001,ADV TOPICS,"Campbell, Allison;Simmons, Valerie",13,84.92,4.17,89,74,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,9,0,,,
+UBC,2015,W,MIDW,420,,001,ADV CLINICL CARE,"Campbell, Allison;Simmons, Valerie",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,MIDW,205,,002,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;McRae, Lorna",17,89.53,4.27,97,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,8,,,
+UBC,2016,W,MIDW,220,,001,CLIN CARE INTRO,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,MIDW,240,,002,CORE CLIN CARE,"Campbell, Allison;Simmons, Valerie",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,MIDW,305,,001,THRY VAR PRIM CR,"Broten, Courtney;Campbell, Allison;Momtazian, Tanya",18,81.17,22.21,94,0,17,1,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,1,1,5,8,,,
+UBC,2016,W,MIDW,320,,001,VARNS CLIN CARE,"Campbell, Allison",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,MIDW,102,,001,BIRTH MEANING,"Campbell, Allison",21,91.71,4.15,98,83,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,15,,,
+UBC,2017,W,MIDW,205,,002,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,88.52,5.09,95,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,12,,,
+UBC,2017,W,MIDW,221,,001,CLINICAL SKILLS,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",22,88.05,4.76,94,80,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,10,,,
+UBC,2018,W,MIDW,102,,001,BIRTH MEANING,"Campbell, Allison",20,92.7,5.69,99,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,16,,,
+UBC,2018,W,MIDW,200,,001,CLIN CARE INTRO,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,MIDW,201,,001,CLNCL SKLLS MIDW,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,92.21,5.05,98,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,15,,,
+UBC,2018,W,MIDW,230,,001,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,91.76,4.89,98,82,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,14,,,
+UBC,2018,W,MIDW,240,,002,CORE CLIN CARE,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MIDW,205,,002,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Lorna J. Mcrae;Lorna Mcrae,19,87.473684211,5.531409515,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,9,,,
+UBCV,2015,W,MIDW,221,,001,Clinical Skills,Allison Campbell;Courtney Broten;Lorna J. Mcrae;Lorna Mcrae,19,88.578947368,5.669761797,98.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,7,7,,,
+UBCV,2015,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Allison Campbell;Valerie Simmons,13,84.923076923,4.172559935,89.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,0,,,
+UBCV,2016,W,MIDW,205,,002,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Lorna J. Mcrae;Lorna Mcrae,17,89.52941177,4.273722719,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,8,,,
+UBCV,2016,W,MIDW,221,,001,Clinical Skills,Allison Campbell;Courtney Broten;Valerie Simmons,19,91.78947368,4.928138564,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,13,,,
+UBCV,2016,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Allison Campbell;Courtney Broten;Tanya Momtazian,18,81.16666667,22.20823907,94.0,0.0,,,,,,,,,,,3,0,0,0,0,0,0,1,1,5,8,,,
+UBCV,2017,W,MIDW,102,,001,Birth and its Meaning,Allison Campbell,21,91.714285714,4.149010209,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,15,,,
+UBCV,2017,W,MIDW,205,,002,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Valerie Simmons,21,88.523809524,5.085460133,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,12,,,
+UBCV,2017,W,MIDW,221,,001,Clinical Skills,Allison Campbell;Courtney Broten;Valerie Simmons,21,88.047619048,4.758951465,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,10,,,
+UBCV,2018,W,MIDW,102,,001,Birth and its Meaning,Allison Campbell,20,92.7,5.685623606,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,3,16,,,
+UBCV,2018,W,MIDW,201,,001,Clinical Skills for Midwifery Practice,Allison Campbell;Courtney Broten;Valerie Simmons,19,92.210526316,5.050620945,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,15,,,
+UBCV,2018,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Valerie Simmons,22,92.0,4.898979486,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,15,,,
+UBCV,2019,W,MIDW,102,,001,Birth and its Meaning,Allison Campbell,20,93.25,2.788604631,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,17,,,
+UBCV,2019,W,MIDW,201,,001,Clinical Skills for Midwifery Practice,Allison Campbell;Courtney Broten;Valerie Simmons,20,91.05,3.363503812,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,17,,,
+UBCV,2019,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Andrea Mattenley;Courtney Broten;Heidi Mok;Lehe Spiegelman;Marianne Brophy;Valerie Simmons,19,90.0,2.581988897,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,13,,,
+UBCV,2020,W,MIDW,102,,001,Birth and its Meaning,Allison Campbell,20,90.95,5.134762845,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,11,,,
+UBCV,2020,W,MIDW,120,,001,Midwifery and Social Justice,Allison Campbell,19,96.052631579,2.222953096,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,,,
+UBCV,2020,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Jane Wines;Michelle Turner;Valerie Simmons,18,88.666666667,4.0,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,9,8,,,
+UBCV,2020,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Allison Campbell;Cecilia Jevitt;Lorna Mcrae,16,90.4375,5.291108894,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,0,13,,,
+UBCV,2021,W,MIDW,120,,001,Midwifery and Social Justice,Allison Campbell;Jennifer Nguyen,20,90.15,9.560197091,99.0,54.0,,,,,,,,,,,0,,,,,,,1,,2,16,,,
+UBCV,2021,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Luba Butska;Michelle Turner;Valerie Simmons,18,86.611111111,5.007510699,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,4,8,,,
+UBCV,2022,W,MIDW,102,,001,Birth and its Meanings,Allison Campbell;Rebecca Geddes,24,95.1,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,22,96.5,97.3,93.8
+UBCV,2022,W,MIDW,120,,001,Midwifery and Social Justice,Allison Campbell;Evelyn Harney (GEORGE);Jennifer Nguyen,21,89.0,,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,5,12,90.0,93.0,88.0
+UBCV,2023,W,MIDW,102,,001,Birth and its Meanings,Luba Butska;Allison Campbell;Cecilia Duran;Rebecca Geddes;Cecilia Jevitt;Kaveri Mayra;Kellie Thiessen;Michelle Turner,32,96.84,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,31,97.5,99.0,95.0
+UBCV,2023,W,MIDW,103,,001,Applied Health Services for Maternity Providers,Lindsay Brimblecombe;Allison Campbell;Cecilia Duran;Zoe Hodgson;Cecilia Jevitt;Kellie Thiessen;Michelle Turner,28,86.54,,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,17,5,87.0,89.0,85.0
+UBCV,2023,W,MIDW,104,,001,Lactation and Infant Feeding for Maternity Care Providers,Marianne Brophy;Allison Campbell;Cecilia Duran;Hannah Goto;Cecilia Jevitt;Kellie Thiessen,25,92.92,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,21,93.5,95.0,91.75
+UBCV,2023,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Lindsay Brimblecombe;Allison Campbell;Cecilia Duran;Cecilia Jevitt;Claudia Krebs;Kellie Thiessen,28,94.75,,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,27,95.0,96.0,93.0
+UBCV,2023,W,MIDW,107,,001,Physical Assessment,Natalie Amram;Allison Campbell;Cecilia Duran;Cecilia Jevitt;Ann Lovold;Kellie Thiessen;Michelle Turner,28,87.82,,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,11,12,89.0,91.0,86.0
+UBCV,2023,W,MIDW,120,,001,Midwifery and Social Justice,Allison Campbell;Cecilia Duran;Jennifer Nguyen;Kellie Thiessen,28,87.5,,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,5,13,87.5,91.25,83.0
+UBCV,2023,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Alixandra Bacon;Allison Campbell;Kim Campbell;Cecilia Jevitt;Jennifer Nguyen;Valerie Simmons;Kellie Thiessen,17,81.35,,89.0,62.0,,,,,,,,,,,1,0,0,0,1,1,0,2,3,9,0,85.0,88.0,79.0
+UBCV,2023,W,MIDW,405,,001,Theory for Advanced Midwifery Care,Natalie Amram;Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,18,92.61,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,15,93.5,94.75,91.5
+UBCV,2023,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,19,90.11,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,9,89.5,91.75,88.25

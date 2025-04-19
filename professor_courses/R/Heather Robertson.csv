@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,LLED,352,,640,INTR TCH FRN ELE,"Robertson, Heather",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2013,W,LLED,352,,640,INTR TCH FRN ELE,"Robertson, Heather",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,LLED,352,,640,INTR TCH FRN ELE,"Robertson, Heather",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,LLED,352,,640,INTR TCH FRN ELE,"Robertson, Heather",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,S,LLED,352,,964,INTR TCH FRN ELE,"Robertson, Heather",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,ARCL,140,,001,ORGN HUMANITY,"Robertson, Heather",151,65.81,13.16,94,26,136,11,4,0,0,0,0,3,4,4,11,8,25,22,9,24,13,11,17,3,4,,,
+UBC,2016,W,ARCL,228,,001,FORENSIC ANTHRO,"Robertson, Heather",149,66.46,11.08,90,34,135,9,2,0,0,0,0,0,3,6,9,9,23,16,9,26,19,14,15,3,1,,,
+UBC,2017,S,ARCL,140,,921,ORGN HUMANITY,"Robertson, Heather",88,69.72,10.21,88,35,85,1,2,0,0,0,0,0,1,0,1,6,8,8,8,14,16,10,8,7,0,,,
+UBC,2017,S,LLED,352,,964,INTR TCH FRN ELE,"Robertson, Heather",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,LLED,352,,640,INTR TCH FRN ELE,"Robertson, Heather",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,LLED,371,,640,FDN TCH FRCH SEC,"Robertson, Heather",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,S,ARCL,140,,921,ORGN HUMANITY,"Robertson, Heather",71,74.06,11.13,92,35,62,3,5,0,0,0,0,0,1,2,3,2,0,3,5,10,5,11,18,6,2,,,
+UBC,2018,W,ARCL,326,,001,PRIMATOLOGY,"Robertson, Heather",16,79.38,7.95,91,61,16,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,8,2,3,1,,,
+UBCV,2016,W,ARCL,140,,001,Bones: The Origins of Humanity,Heather Robertson,147,65.80952381,13.15624407,94.0,26.0,,,,,,,,,,,11,8,25,22,9,24,13,11,17,3,4,,,
+UBCV,2016,W,ARCL,228,,001,Forensic Anthropology,Catherine Cooper;Heather Robertson;Thomas Brown,147,66.13605442,11.57325652,90.0,22.0,,,,,,,,,,,10,9,23,17,9,27,19,14,15,3,1,,,
+UBCV,2017,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson;Natasha Kristine Osing;Natasha Osing,86,69.720930233,10.210319074,88.0,35.0,,,,,,,,,,,1,6,8,8,8,14,16,10,8,7,0,,,
+UBCV,2017,W,ARCL,228,,001,Forensic Anthropology,Darlene Weston;Heather Robertson;Raini Abigale Bevilacqua;Raini Bevilacqua,141,72.631205674,13.727663076,95.0,20.0,,,,,,,,,,,8,3,7,8,11,26,18,14,18,16,12,,,
+UBCV,2018,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson;Raini Abigale Bevilacqua;Raini Bevilacqua,66,74.181818182,11.089716776,92.0,35.0,,,,,,,,,,,3,2,0,3,5,10,5,11,19,6,2,,,
+UBCV,2018,W,ARCL,326,,001,Primatology,Darlene Weston;Heather Robertson,16,79.375,7.948794458,91.0,61.0,,,,,,,,,,,0,0,0,1,1,0,0,8,2,3,1,,,
+UBCV,2019,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson;Steffan Gordon;Steffan Taylor Gordon,66,72.106060606,14.211727322,94.0,15.0,,,,,,,,,,,3,3,2,6,3,11,7,6,13,7,5,,,
+UBCV,2019,W,ANTH,213,,001,"Sex, Gender, and Culture",Heather Robertson,26,76.153846154,17.82737739,94.0,0.0,,,,,,,,,,,1,0,0,2,0,3,5,1,4,8,2,,,
+UBCV,2019,W,ARCL,419,,001,The Archaeology of Death,Darlene Weston;Heather Robertson,12,71.916666667,20.668193981,92.0,14.0,,,,,,,,,,,1,0,0,0,3,1,1,1,2,1,2,,,
+UBCV,2020,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson;Leigh Elizabeth Doyle;Malika Hays;Stephen Daniel,104,76.269230769,10.232473312,94.0,9.0,,,,,,,,,,,1,0,3,2,5,12,20,22,23,10,6,,,
+UBCV,2020,S,ARCL,228,,922,Forensic Anthropology,Heather Robertson;Sarah Raven;Stephen Daniel,125,78.608,10.896060253,94.0,31.0,,,,,,,,,,,2,3,4,2,8,5,12,13,34,34,8,,,
+UBCV,2020,W,ARCL,140,,001,Bones: The Origins of Humanity,Darlene Weston;Heather Robertson;Magdalene Wright;Malika Hays;Natasha Kristine Osing;Natasha Osing,172,75.587209302,12.160643032,94.0,22.0,,,,,,,,,,,5,5,3,7,13,14,16,28,43,33,5,,,
+UBCV,2020,W,ARCL,325,,002,Paleoanthropology,Darlene Weston;Heather Robertson;Natasha Osing,33,79.606060606,9.044816865,91.0,55.0,,,,,,,,,,,0,0,1,2,2,0,3,2,12,8,3,,,
+UBCV,2021,S,ARCL,140,,921,Bones: The Origins of Humanity,Anthony Shelton;Heather Robertson;Leigh Elizabeth Doyle;Malika Hays;Natasha Osing,132,79.916666667,11.210710301,96.0,31.0,,,,,,,,,,,3,0,3,4,5,12,9,8,36,32,20,,,
+UBCV,2021,S,ARCL,228,,922,Forensic Anthropology,Heather Robertson;Kaela Parker;Natasha Osing;Patrick Ritchie;Sarah Raven;Stephen Daniel,132,85.765151515,11.417048888,99.0,29.0,,,,,,,,,,,2,1,2,2,4,3,4,7,15,30,62,,,
+UBCV,2021,W,LLED,200,,V01,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Heather Robertson;Jennifer Walsh Marr;Sandra Zappa,8,68.75,9.587938852,80.0,50.0,,,,,,,,,,,0,1,0,1,1,2,1,1,1,0,0,,,
+UBCV,2021,W,LLED,201,,V90,Critical Reading and Writing in Academic and Professional Registers,Amber Shaw;Heather Robertson;Maya Gal;Sandra Zappa,15,71.133333333,11.550304057,86.0,53.0,,,,,,,,,,,0,1,3,0,2,1,2,1,3,2,0,,,
+UBCV,2021,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson,132,79.9,,96.0,31.0,,,,,,,,,,,,,,,,12,9,8,36,32,20,82.0,88.0,74.8
+UBCV,2022,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson,101,73.4,,92.0,33.0,,,,,,,,,,,3,3,5,8,10,12,10,14,21,11,4,75.0,81.0,66.0
+UBCV,2022,W,ANTH,202,E,001,Contemporary Social Problems,Heather Robertson,94,66.2,,90.0,0.0,,,,,,,,,,,9,4,7,9,15,9,11,11,14,4,1,69.5,78.0,61.0
+UBCV,2022,W,ANTH,418,,002,Anthropological Statistics,Heather Robertson,25,66.7,,85.0,24.0,,,,,,,,,,,1,3,2,2,0,9,1,2,4,1,0,69.0,76.0,60.0
+UBCV,2022,W,ARCL,140,,001,Bones: The Origins of Humanity,Heather Robertson,181,77.3,,94.0,0.0,,,,,,,,,,,6,4,5,5,14,6,17,21,42,36,25,81.0,87.0,73.0
+UBCV,2022,W,ARCL,228,,001,Forensic Anthropology,Heather Robertson,187,74.2,,90.0,29.0,,,,,,,,,,,9,4,9,10,6,17,25,31,60,14,2,77.0,82.0,70.0
+UBCV,2022,W,ARCL,228,,002,Forensic Anthropology,Heather Robertson,190,71.4,,93.0,22.0,,,,,,,,,,,8,10,5,17,11,28,34,32,26,16,3,73.0,78.0,67.0
+UBCV,2022,W,ARCL,326,,200,Primatology,Heather Robertson,39,75.7,,89.0,21.0,,,,,,,,,,,2,1,0,1,0,5,8,5,8,9,0,79.0,84.0,72.5
+UBCV,2023,S,ARCL,140,,921,Bones: The Origins of Humanity,Heather Robertson,74,70.8,,94.0,37.0,,,,,,,,,,,3,5,3,8,7,4,15,9,9,6,2,72.0,78.5,62.5
+UBCV,2023,S,ARCL,228,,922,Forensic Anthropology,Heather Robertson,65,74.16,,95.0,13.0,,,,,,,,,,,3,0,1,7,5,5,8,7,7,12,6,76.0,85.0,67.0
+UBCV,2023,W,ARCL,103,,002,Introduction to Archaeology:  Past perspectives and Future Promise,Heather Robertson,112,77.24,,95.0,1.0,,,,,,,,,,,2,0,2,5,8,9,10,23,26,18,8,79.0,84.0,73.0
+UBCV,2023,W,ARCL,140,,001,Bones: The Origins of Humanity,Heather Robertson,197,75.54,,93.0,28.0,,,,,,,,,,,5,10,1,6,23,18,20,21,41,39,10,78.0,84.75,68.0
+UBCV,2023,W,ARCL,228,,002,Forensic Anthropology,Heather Robertson,171,71.45,,90.0,10.0,,,,,,,,,,,7,3,10,15,10,18,28,36,28,10,1,75.0,79.0,66.0

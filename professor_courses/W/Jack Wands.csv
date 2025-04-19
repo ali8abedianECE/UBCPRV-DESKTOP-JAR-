@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Jack Wands;Jade Hadley,132,69.757575758,16.054354817,92.0,0.0,8,10,7,11,10,15,18,14,19,14,6
+UBCV,2021,W,PHIL,125,,003,Introduction to Scientific Reasoning,Eric Anderson;Jack Wands;Leslie Burkholder,131,79.954198473,9.162517789,86.0,3.0,2,0,2,2,1,4,8,13,72,27,0
+UBCV,2021,W,PHIL,220,A,004,Symbolic Logic,Aleksandra Vujicic;Alexandre Korolev;Jack Wands,66,75.742424242,20.784839598,99.0,0.0,3,7,3,3,5,2,2,2,9,12,18

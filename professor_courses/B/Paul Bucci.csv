@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,COGS,401,,002,Seminar in Cognitive Systems,Eric Vatikiotis-Bateson;Paul Alexander Hendrik Bucci;Paul Bucci,22,76.95454546,12.19475794,90.0,40.0,,,,,,,,,8,,,,,
+UBCV,2014,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Derek Cormier;Francisco Javier Escalona Gonzalez;Irene Fung;Ivo Marjanovic;Jeffrey Allen;Jessica Dawson;Paul Alexander Hendrik Bucci;Paul Bucci;Thea Simpson,74,81.17567568,6.546688189,92.0,63.0,0,0,0,,,,6,10,30,14,8,,,
+UBCV,2015,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Arvind Vasudevan;Kamyar Ardekani;Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,95,78.284210526,7.444351218,89.0,46.0,,,,,,9,12,21,31,17,0,,,
+UBCV,2015,W,CPSC,544,,101,Human Computer Interaction,Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,22,81.636363636,5.464565112,89.0,72.0,0,0,0,0,0,0,5,1,7,9,0,,,
+UBCV,2016,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Arvind Vasudevan;Izabelle Foster Janzen;Izabelle Janzen;Jung Ho Chun;Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,102,79.04901961,5.22252822,92.0,63.0,0,0,0,1,2,4,15,32,34,11,3,,,
+UBCV,2017,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Juliette Varhola;Paul Bucci,126,82.658730159,5.510953019,95.0,68.0,0,0,0,0,0,6,7,20,48,32,13,,,
+UBCV,2018,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Ashish Chopra;Asia Schmok;Dongwook Yoon;Hailey Mah;Hanieh Shakeri;Paul Bucci;Taslim Arefin Khan,118,82.847457627,5.972339545,95.0,68.0,0,0,0,0,0,9,8,12,38,40,11,,,
+UBCV,2019,W,CPSC,554,K,201,Topics in Human-Computer Interaction,Dongwook Yoon;Leanne Currie;Paul Bucci,16,90.75,4.683303677,96.0,84.0,0,0,0,0,0,0,0,0,2,6,8,,,
+UBCV,2020,W,CPSC,103,,202,Introduction to Systematic Program Design,Alvin Lok;Chantelle Twynstra;Chris-Andra Akelia Mcintosh;Derek Ha;Donggyu Kim;Jessica Prinz;Jessica Wong;Kevin An;Kevin Chen;Kristine Gonzales;Maiya Rasheed;Mariana Paspuel Paredes;Paul Bucci;Sol Lee;Trevor Chan,219,78.890410959,17.783531432,97.0,0.0,28,0,1,0,4,12,11,14,40,42,67,,,
+UBCV,2020,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Charmaine Kaming Lee;Courtney Young;Dongwook Yoon;Hannah Elbaggari;Ivan Song;Joseph Merced;Paul Bucci;Preeti Vyas;Zi Yue Wang,119,86.394957983,6.918678339,97.0,55.0,0,0,1,0,0,1,6,13,18,35,45,,,
+UBCV,2021,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Ahmed Shaaban;Edris Wu;Gale Chen;Martin Felipe Pastor;Marton Soskuthy;Paul Bucci;Tzu-Jo Lin,67,81.805970149,16.039004358,98.0,4.0,3,1,1,2,3,3,3,5,9,12,25,,,
+UBCV,2021,W,CPSC,100,,201,Computational Thinking,Olamide Olabiyi;Parsa Seyfourian;Paul Bucci;Peyman Gholami;Rishika Selvakumar,121,81.991735537,11.469885111,100.0,30.0,4,0,3,2,2,5,8,9,28,31,29,,,
+UBCV,2021,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Paul Bucci,66,83.0,,98.0,45.0,,,,,,,,,9,12,25,87.0,92.0,77.0
+UBCV,2021,W,CPSC,100,,201,Computational Thinking,Paul Bucci,121,82.2,,100.0,30.0,,,,,,,8,10,28,31,29,84.0,89.0,79.0
+UBCV,2023,W,COGS,200,,004,Introduction to Cognitive Systems,Thomas Jacob Bittner;Paul Bucci;Oksana Tkachman,156,73.33,,91.0,0.0,2,2,2,4,24,19,29,32,25,8,2,75.0,79.0,69.0
+UBCV,2023,W,COGS,401,,003,Seminar in Cognitive Systems,Paul Bucci,29,81.25,,96.0,14.0,1,0,1,0,0,0,2,1,10,8,5,83.5,88.25,80.75

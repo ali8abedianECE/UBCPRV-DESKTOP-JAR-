@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,CPSC,532,A,201,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",9,85.22,4.97,91,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,,,
+UBC,2005,W,CPSC,322,,201,ARTIFICIAL INTEL,"Leyton-Brown, Kevin",67,71.42,15.56,96,29,58,6,3,0,0,0,0,1,1,4,6,5,4,2,5,5,5,7,10,8,7,,,
+UBC,2005,W,CPSC,532,A,101,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",21,82.9,8.66,97,65,20,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,6,3,3,6,,,
+UBC,2006,W,CPSC,322,,201,ARTIFICIAL INTEL,"Leyton-Brown, Kevin",45,73.8,12.29,100,50,45,0,0,0,0,0,0,0,0,0,0,2,3,5,5,7,4,3,5,6,5,,,
+UBC,2006,W,CPSC,532,A,101,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",14,84.55,7.1,93,71,11,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,3,,,
+UBC,2006,W,ISCI,330,,201,TPCS INTEG SCIE,"Fletcher, Jeffrey;Leyton-Brown, Kevin",14,76.67,10.72,95,59,12,0,2,0,0,0,0,0,0,0,0,0,1,1,0,2,0,4,1,2,1,,,
+UBC,2007,W,CPSC,322,,101,ARTIFICIAL INTEL,"Leyton-Brown, Kevin",47,74.86,11.28,99,50,44,0,3,0,0,0,0,0,0,0,0,4,0,1,4,6,7,8,4,5,5,,,
+UBC,2007,W,CPSC,532,L,201,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",17,88.55,6.2,99,75,11,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,4,,,
+UBC,2009,W,CPSC,322,,101,ARTIFICIAL INTEL,"Leyton-Brown, Kevin",59,78.34,12.45,100,47,58,1,0,0,0,0,0,0,0,1,1,0,6,0,3,9,4,6,11,6,13,,,
+UBC,2011,W,CPSC,430,,202,COMPTR & SOCIETY,"Leyton-Brown, Kevin",54,73.25,10.32,92,51,53,0,1,0,0,0,0,0,0,0,0,3,4,2,6,8,6,6,11,3,4,,,
+UBC,2011,W,CPSC,532,L,101,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",17,77.07,22.85,94,0,13,1,0,3,0,1,0,0,0,0,1,0,0,0,0,0,2,2,3,5,1,,,
+UBC,2012,W,CPSC,430,,101,COMPTR & SOCIETY,"Leyton-Brown, Kevin",69,76.26,9.79,92,51,68,0,1,0,0,0,0,0,0,0,0,1,4,5,4,5,7,11,18,10,3,,,
+UBC,2012,W,CPSC,532,L,201,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",10,80.44,18.76,92,33,8,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,1,1,4,,,
+UBC,2013,W,CPSC,430,,101,COMPTR & SOCIETY,"Leyton-Brown, Kevin",72,79.69,8.08,97,58,70,0,2,0,0,0,0,0,0,0,0,0,2,1,0,8,9,10,19,15,6,,,
+UBC,2013,W,CPSC,532,L,201,TOPIC ARTF INTEL,"Leyton-Brown, Kevin",13,81.69,16.82,95,33,12,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,0,0,3,6,,,
+UBC,2014,W,CPSC,430,,101,COMPTR & SOCIETY,"Leyton-Brown, Kevin",93,79.19,9.72,92,37,87,1,1,0,3,0,0,0,1,0,1,1,2,3,2,8,4,13,27,19,8,,,
+UBC,2018,W,CPSC,430,,101,COMPTR & SOCIETY,"Leyton-Brown, Kevin",117,79.53,8.04,95,58,116,0,1,0,0,0,0,0,0,0,0,0,2,5,7,6,9,18,37,25,7,,,
+UBCV,2014,W,CPSC,430,,101,Computers and Society,Felipe Andres Banados Schwerter;Kevin Leyton-Brown;Nayantara Dutta Choudhury;Robert Sumi;Sampoorna Biswas,92,77.5326087,13.40202633,92.0,14.0,,,,,,,,,,,,,,,,8,,14,27,19,8,,,
+UBCV,2018,W,CPSC,430,,101,Computers and Society,Anna Offenwanger;David Johnson;Kevin Leyton-Brown;Luciano Burla;Luciano Silver Burla,116,79.525862069,8.038452379,95.0,58.0,,,,,,,,,,,0,0,2,5,7,6,9,18,37,25,7,,,
+UBCV,2019,W,CPSC,430,,101,Computers and Society,Baraa Orabi;David Johnson;Jerry Jim;Kevin Leyton-Brown;Sang-Wha Sien,117,83.290598291,6.859501124,94.0,42.0,,,,,,,,,,,1,0,0,1,2,0,8,8,50,30,17,,,
+UBCV,2020,W,COGS,200,,004,Introduction to Cognitive Systems,Gregory Lawrence D'Eon;James Kryklywy;Kevin Leyton-Brown;Laura Cang;Lochlan Walsh;Maria Alaia;Patrick Yung Kang Lee;Ryan Taylor;Thomas Jacob Bittner;Tzu-Jo Lin,139,75.597122302,8.741637349,93.0,50.0,,,,,,,,,,,0,2,4,9,10,17,18,31,27,16,5,,,
+UBCV,2020,W,CPSC,430,,201,Computers and Society,Hannah Elbaggari;Harshinee Sriram;Joseph Eremondi;Kevin Huang;Kevin Leyton-Brown;Unma Desai,120,84.458333333,6.051454209,93.0,61.0,,,,,,,,,,,0,0,0,1,1,2,6,13,27,47,23,,,
+UBCV,2021,W,COGS,200,,004,Introduction to Cognitive Systems,Gale Chen;Garrett Nicolai;Hala Chacker Murad;James Kryklywy;Jin Lee;Kevin Leyton-Brown;Maria Alaia;Ryan Chen;Ryan Taylor;Thomas Jacob Bittner,165,71.606060606,10.060607174,89.0,20.0,,,,,,,,,,,6,2,9,8,20,27,26,33,26,8,0,,,
+UBCV,2021,W,CPSC,430,,101,Computers and Society,Edward Le;Eric Tsai;Hannah Elbaggari;Katayoun Sepehri;Kevin Leyton-Brown;Unma Desai,112,80.044642857,9.256493599,92.0,29.0,,,,,,,,,,,2,0,1,0,3,10,10,13,34,34,5,,,
+UBCV,2021,W,CPSC,430,,101,Computers and Society,Kevin Leyton-Brown,112,79.4,,92.0,0.0,,,,,,,,,,,,,,,,9,10,13,34,34,,83.0,86.0,76.0
+UBCV,2021,W,CPSC,530,L,201,Topics in Information Processing,Kevin Leyton-Brown,9,87.6,,92.0,84.0,,,,,,,,,,,,,,,,,,,,,,87.0,90.0,84.0
+UBCV,2022,W,CPSC,430,,101,Computers and Society,Kevin Leyton-Brown,119,81.4,,91.0,54.0,,,,,,,,,,,1,0,1,1,1,3,9,19,38,41,5,82.0,86.0,78.0
+UBCV,2022,W,CPSC,532,L,201,Topics in Artificial Intelligence,Kevin Leyton-Brown,11,88.5,,98.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,3,5,88.0,94.0,84.5

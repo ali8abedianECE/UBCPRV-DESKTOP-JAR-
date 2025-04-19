@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ISCI,320,,201,INTRDSC SC FLD,"Doebeli, Michael Walter",25,85,2.75,90,80,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,13,2
+UBC,2002,W,ISCI,448,D,001,DIR STUDIES,"Doebeli, Michael Walter;Gerhard, Gillian",4,90,3.16,93,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2003,W,ISCI,320,,201,INTRDSC SC FLD,"Doebeli, Michael Walter;Gerhard, Gillian",28,79.57,3.62,88,73,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,13,2,0
+UBC,2005,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",13,82.85,3.56,90,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,1
+UBC,2005,W,ISCI,448,D,001,DIR STUDIES,"Doebeli, Michael Walter",6,86.67,3.93,93,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2009,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",32,79.97,3.33,86,71,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,19,1,0
+UBC,2010,W,BIOL,525,D,101,TPC SYST & EVLTN,"Doebeli, Michael Walter",5,95,0,95,95,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2011,W,BIOL,525,D,101,TPC SYST & EVLTN,"Doebeli, Michael Walter",9,90.44,4.1,94,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8
+UBC,2011,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter;Evans, Robert James",29,81.66,2.45,90,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,2,1
+UBC,2011,W,MATH,360,,101,MATH MODL IN SCI,"Doebeli, Michael Walter",27,81.67,11.13,95,57,24,0,3,0,0,0,0,0,0,0,0,0,1,0,0,6,0,2,4,3,8
+UBC,2012,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",32,82.38,4.61,90,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,15,6,4
+UBC,2012,W,MATH,360,,101,MATH MODL IN SCI,"Doebeli, Michael Walter",39,80.73,12.35,95,55,37,0,2,0,0,0,0,0,0,0,0,0,2,4,0,4,2,2,5,5,13
+UBC,2013,W,BIOL,401,,101,EVOL DYNAMICS,"Doebeli, Michael Walter",7,86.14,6.04,93,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3
+UBC,2013,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",23,81.96,5.48,94,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,6,3,3
+UBC,2013,W,MATH,360,,101,MATH MODL IN SCI,"Doebeli, Michael Walter",43,77.23,11.34,100,52,43,0,0,0,0,0,0,0,0,0,0,1,2,3,3,3,6,9,5,3,8
+UBC,2014,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",28,81,4.85,91,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,12,1,4
+UBC,2014,W,MATH,103,,201,INT CALC AP LF S,"Doebeli, Michael Walter",177,69.82,13.8,100,27,169,7,0,0,1,0,0,1,2,4,7,15,20,16,21,22,12,15,18,16,14
+UBC,2015,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.67,3.97,90,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,13,3,2
+UBC,2016,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.21,4.3,91,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,4,2
+UBC,2017,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",16,86.31,3,91,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3
+UBC,2017,W,MATH,103,,207,INT CALC AP LF S,"Doebeli, Michael Walter",87,60.78,14.82,93,18,63,18,5,0,1,0,1,1,3,13,18,13,7,9,6,6,7,5,6,1,3
+UBC,2018,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",15,86.71,2.89,92,82,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,4
+UBC,2018,W,MATH,103,,207,INT CALC AP LF S,"Doebeli, Michael Walter",126,62.41,12.17,90,26,107,17,1,0,1,0,0,1,3,13,17,13,19,11,21,16,8,9,6,3,1

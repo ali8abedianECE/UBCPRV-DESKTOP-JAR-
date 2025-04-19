@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,MATH,321,,201,REAL VARIABLS II,"Kim, Young-Heon",34,69.69,22.64,100,0,30,2,2,0,0,1,0,1,0,0,2,5,2,4,2,1,2,3,2,1,8,,,
+UBC,2009,W,MATH,606,D,102,TPCS DIFRNTL EQU,"Kim, Young-Heon",5,89.2,5.17,98,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,,,
+UBC,2010,W,MATH,217,,101,MLTVAR&VCTR CALC,"Kim, Young-Heon",71,72.39,16.89,100,24,62,5,3,0,1,0,0,2,2,1,5,1,3,7,5,11,8,4,6,5,12,,,
+UBC,2010,W,MATH,257,,201,PARTL DIFF EQUAT,"Kim, Young-Heon",61,74.38,15.97,100,29,56,4,1,0,0,0,0,1,1,2,4,3,4,2,3,3,8,5,10,7,11,,,
+UBC,2010,W,MATH,516,,101,PRT DIFF EQUA I,"Kim, Young-Heon",5,93.8,3.35,99,91,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2011,W,MATH,102,,101,DF CALC APP LF S,"Kim, Young-Heon",100,69.77,15.8,99,42,89,11,0,0,0,0,0,0,0,11,11,13,8,6,7,5,12,2,13,11,12,,,
+UBC,2011,W,MATH,267,,201,MATH ELEC ENG,"Kim, Young-Heon",145,64.58,15.99,100,17,120,22,3,0,0,0,1,2,3,16,22,16,20,9,11,15,13,6,16,4,10,,,
+UBC,2011,W,MATH,566,,101,OPTIML TRANSPORT,"Kim, Young-Heon",6,92,7.18,100,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,,,
+UBC,2012,W,MATH,102,,106,DF CALC APP LF S,"Kim, Young-Heon",130,70.63,11.98,99,28,121,5,2,0,2,0,0,1,0,4,5,6,11,7,22,19,13,11,16,10,6,,,
+UBC,2012,W,MATH,267,,202,MATH ELEC ENG,"Kim, Young-Heon",141,63.46,15.92,99,21,115,22,2,0,2,0,0,2,7,13,22,23,10,12,16,12,10,8,9,8,7,,,
+UBC,2012,W,MATH,516,,101,PRT DIFF EQUA I,"Kim, Young-Heon",5,91.25,5.06,97,85,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2013,W,MATH,103,,203,INT CALC AP LF S,"Hauert, Christoph;Kim, Young-Heon",144,69.62,16.95,98,19,122,18,2,0,2,0,1,1,5,11,18,12,7,12,6,14,14,9,18,12,18,,,
+UBC,2013,W,MATH,566,,201,OPTIML TRANSPORT,"Kim, Young-Heon",5,93.2,4.09,99,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2014,W,MATH,103,,202,INT CALC AP LF S,"Kim, Young-Heon",80,67.37,15.76,98,28,69,9,2,0,0,0,0,1,4,4,9,6,7,7,9,7,9,6,7,4,7,,,
+UBC,2014,W,MATH,121,,201,INTEGRAL CALCULU,"Kim, Young-Heon",29,76.93,16.51,99,35,26,1,2,0,0,0,0,0,1,0,1,3,1,1,1,1,2,1,6,4,6,,,
+UBC,2016,W,MATH,100,,103,DF CALC AP PH SC,"Kim, Young-Heon",196,71.06,12.32,95,29,184,9,2,0,1,0,0,1,2,6,9,10,14,13,14,29,26,23,36,10,9,,,
+UBC,2016,W,MATH,121,,201,INTEGRAL CALCULU,"Kim, Young-Heon",26,80.92,19.28,98,0,25,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,2,2,7,5,7,,,
+UBC,2016,W,MATH,566,,201,OPTIML TRANSPORT,"Kim, Young-Heon",10,93.78,4.12,99,88,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,,,
+UBC,2017,W,MATH,100,,107,DF CALC AP PH SC,"Kim, Young-Heon",128,71.3,14.08,97,30,120,7,1,0,0,0,0,0,3,4,7,10,7,6,12,18,19,7,15,16,10,,,
+UBC,2017,W,MATH,121,,201,INTEGRAL CALCULU,"Kim, Young-Heon",34,79.23,15.58,100,22,30,1,3,0,0,0,0,1,0,0,1,0,2,1,0,5,1,1,9,3,8,,,
+UBC,2017,W,MATH,606,D,201,TPCS DIFRNTL EQU,"Kim, Young-Heon",6,92.67,1.21,95,92,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBC,2018,W,MATH,102,,110,DF CALC APP LF S,"Kim, Young-Heon",139,69.71,13.37,95,0,129,7,2,0,1,1,1,0,1,4,7,5,11,12,20,18,20,6,19,13,5,,,
+UBC,2018,W,MATH,340,,101,INTRO LIN PROG,"Kim, Young-Heon",135,68.63,13.66,98,37,117,6,4,0,7,0,0,0,2,4,6,11,12,17,18,15,8,3,15,9,9,,,
+UBCV,2014,W,MATH,103,,202,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Young-Heon Kim,78,67.37179487,15.75799857,98.0,28.0,,,,,,,,,,,9,6,7,7,9,7,9,6,7,4,7,,,
+UBCV,2014,W,MATH,121,,201,Honours Integral Calculus,Tongseok Lim;Young-Heon Kim,27,76.92592593,16.510896,99.0,35.0,,,,,,,,,,,,,,,,,,,6,,6,,,
+UBCV,2016,W,MATH,100,,103,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Young-Heon Kim,194,70.72164949,13.17340882,95.0,5.0,,,,,,,,,,,10,10,14,13,14,29,26,23,36,10,9,,,
+UBCV,2016,W,MATH,121,,201,Honours Integral Calculus,Young-Heon Kim,26,80.92307692,19.2829937,98.0,0.0,,,,,,,,,,,1,1,0,0,0,1,2,2,7,5,7,,,
+UBCV,2016,W,MATH,566,,201,Theory of Optimal Transportation,Young-Heon Kim,9,93.77777778,4.116363012,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,,,
+UBCV,2017,W,MATH,100,,102,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Tai-Peng Tsai;Young-Heon Kim,141,62.822695035,20.000815586,99.0,0.0,,,,,,,,,,,24,15,6,12,3,25,27,10,4,8,7,,,
+UBCV,2017,W,MATH,100,,103,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Patrick Walls;Young-Heon Kim,197,67.609137056,16.747357933,98.0,1.0,,,,,,,,,,,19,14,18,15,17,22,19,17,38,8,10,,,
+UBCV,2017,W,MATH,100,,104,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Patrick Walls;Young-Heon Kim,100,63.64,17.204955828,97.0,9.0,,,,,,,,,,,16,7,12,7,12,12,12,4,11,5,2,,,
+UBCV,2017,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Foster Tom;Young-Heon Kim,356,69.632022472,16.625518731,96.0,0.0,,,,,,,,,,,38,15,25,21,25,40,36,36,65,41,14,,,
+UBCV,2017,W,MATH,100,,106,Differential Calculus with Applications to Physical Sciences and Engineering,Alma Sarai Hernandez Torres;Foster Tom;Young-Heon Kim,39,64.307692308,20.849275951,94.0,3.0,,,,,,,,,,,5,3,3,3,4,4,4,8,1,2,2,,,
+UBCV,2017,W,MATH,100,,107,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Young-Heon Kim,127,71.299212598,14.084954801,97.0,30.0,,,,,,,,,,,7,10,7,6,12,18,19,7,15,16,10,,,
+UBCV,2017,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Nguyen Hoang Lam;Young-Heon Kim,125,74.856,14.692385564,99.0,5.0,,,,,,,,,,,7,2,5,5,5,11,25,10,25,16,14,,,
+UBCV,2017,W,MATH,121,,201,Honours Integral Calculus,Young-Heon Kim,31,79.225806452,15.577140682,100.0,22.0,,,,,,,,,,,1,0,2,1,0,5,1,1,9,3,8,,,
+UBCV,2017,W,MATH,606,D,201,Topics in Differential Equations,Young-Heon Kim,6,92.666666667,1.211060142,95.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2018,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Daniel Mcclement;Elyse Yeager;Eric Wen;Madeline Doering;Young-Heon Kim;Ziyao Zhou,137,69.525547445,13.488601011,95.0,0.0,,,,,,,,,,,8,5,11,12,20,18,20,6,19,13,5,,,
+UBCV,2018,W,MATH,340,,101,Introduction to Linear Programming,Siva Sankar Nair;Young-Heon Kim,131,66.427480916,16.595657696,98.0,0.0,,,,,,,,,,,12,11,13,17,19,15,8,3,15,9,9,,,
+UBCV,2019,W,MATH,340,,101,Introduction to Linear Programming,Young-Heon Kim;Zachariah Goldthorpe,125,67.12,13.107865159,99.0,21.0,,,,,,,,,,,6,17,9,16,10,19,16,14,5,9,4,,,
+UBCV,2019,W,MATH,566,,201,Theory of Optimal Transportation,Young-Heon Kim,7,83.428571429,8.223080178,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,0,4,1,,,
+UBCV,2020,W,MATH,221,,103,Matrix Algebra,Adam Martens;Ahmet Alperen Bulut;Amin Soofiani;Chi Hoi Yip;Elliot Cheung;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Halyun Jeong;Igor Pereira Pinheiro;Ka Wah Wong;Layal Jbara;Mihai Marian;Mukul Rai Choudhuri;Parham Hamidi;Patrick Walls;Thomas Williams;Xiaowei Li;Yiyang Tian;Young-Heon Kim;Zachariah Goldthorpe,147,75.047619048,13.220124413,98.0,1.0,,,,,,,,,,,4,5,2,7,7,16,26,24,27,19,10,,,
+UBCV,2020,W,MATH,340,,101,Introduction to Linear Programming,Forest Kobayashi;Patrick Walls;Young-Heon Kim,77,65.298701299,15.914297556,98.0,11.0,,,,,,,,,,,10,8,8,7,6,6,11,9,4,6,2,,,
+UBCV,2020,W,MATH,340,,201,Introduction to Linear Programming,Antonio Alfieri;Forest Kobayashi;Richard Anstee;Young-Heon Kim;Zachariah Goldthorpe,52,71.75,15.305868412,100.0,25.0,,,,,,,,,,,5,3,1,5,6,3,4,6,11,1,7,,,
+UBCV,2020,W,MATH,340,,202,Introduction to Linear Programming,Aaron Palmer;Forest Kobayashi;Young-Heon Kim;Zachariah Goldthorpe,119,68.394957983,12.263504136,95.0,33.0,,,,,,,,,,,6,13,8,9,13,22,15,10,14,6,3,,,
+UBCV,2020,W,MATH,516,,101,Partial Differential Equations I,Juncheng Wei;Young-Heon Kim,7,91.571428571,5.503245796,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2021,W,MATH,340,,101,Introduction to Linear Programming,Jack Hughes;Matthieu Heitz;Young-Heon Kim,100,66.35,16.560495162,100.0,6.0,,,,,,,,,,,13,3,11,16,11,10,9,10,4,5,8,,,
+UBCV,2021,W,MATH,340,,201,Introduction to Linear Programming,Antonio Alfieri;Nitya Gadhiwala;Ritesh Goenka;Young-Heon Kim,82,62.390243902,15.707791648,91.0,10.0,,,,,,,,,,,8,12,16,5,7,13,5,4,9,0,3,,,
+UBCV,2021,W,MATH,340,,202,Introduction to Linear Programming,Aaron Palmer;Nitya Gadhiwala;Ritesh Goenka;Young-Heon Kim,92,59.836956522,15.494257833,93.0,22.0,,,,,,,,,,,15,18,10,10,8,8,9,4,8,0,2,,,
+UBCV,2021,W,MATH,420,,101,Real Analysis I,Jialing Zhang;Ozgur Yilmaz;Young-Heon Kim,11,86.454545455,11.254897924,100.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,0,2,2,5,,,
+UBCV,2021,W,MATH,507,,101,Measure Theory and Integration,Ozgur Yilmaz;Young-Heon Kim,13,78.461538462,11.680577787,88.0,52.0,,,,,,,,,,,0,,,1,,1,,2,2,6,0,,,
+UBCV,2021,W,MATH,516,,101,Partial Differential Equations I,Juncheng Wei;Young-Heon Kim,8,92.875,3.907410542,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,,,
+UBCV,2021,W,MATH,566,,101,Theory of Optimal Transportation,Young-Heon Kim,16,90.0,0.0,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2021,W,MATH,340,,101,Introduction to Linear Programming,Matthieu Heitz;Young-Heon Kim,100,66.4,,100.0,6.0,,,,,,,,,,,13,,11,16,11,10,9,10,,,8,65.5,77.0,58.0
+UBCV,2021,W,MATH,340,,201,Introduction to Linear Programming,Young-Heon Kim,83,62.7,,91.0,10.0,,,,,,,,,,,7,14,16,,7,13,,,9,,,62.0,71.5,54.5
+UBCV,2021,W,MATH,340,,202,Introduction to Linear Programming,Young-Heon Kim,92,62.1,,93.0,26.0,,,,,,,,,,,8,19,12,11,10,9,9,,8,,,63.0,71.3,53.0
+UBCV,2021,W,MATH,420,,101,Real Analysis I,Young-Heon Kim,11,86.5,,100.0,63.0,,,,,,,,,,,,,,,,,,,,,,86.0,94.5,81.5
+UBCV,2021,W,MATH,507,,101,Measure Theory and Integration,Young-Heon Kim,13,78.5,,88.0,52.0,,,,,,,,,,,,,,,,,,,,6,,83.0,87.0,77.0
+UBCV,2021,W,MATH,566,,101,Theory of Optimal Transportation,Young-Heon Kim,16,90.0,,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,90.0,90.0,90.0
+UBCV,2022,W,MATH,200,,101,Calculus III,Albert Chau;Young-Heon Kim,224,66.5,,97.0,26.0,,,,,,,,,,,30,27,21,17,12,22,20,18,25,20,12,68.0,80.0,54.0
+UBCV,2022,W,MATH,340,,101,Introduction to Linear Programming,Matthieu Heitz;Young-Heon Kim,102,65.7,,100.0,19.0,,,,,,,,,,,23,4,8,7,11,8,11,6,7,9,8,66.0,78.0,52.5
+UBCV,2022,W,MATH,340,,201,Introduction to Linear Programming,Young-Heon Kim,51,67.0,,100.0,0.0,,,,,,,,,,,4,3,5,6,7,3,7,3,5,6,2,68.0,79.5,62.0
+UBCV,2022,W,MATH,340,,202,Introduction to Linear Programming,Young-Heon Kim;Evan Miller,104,67.2,,98.0,20.0,,,,,,,,,,,8,12,7,13,14,8,14,7,9,7,5,66.0,76.3,58.0
+UBCV,2022,W,MATH,420,,101,Real Analysis I,Young-Heon Kim,15,81.1,,100.0,64.0,,,,,,,,,,,0,0,0,0,1,2,2,1,4,2,3,81.0,85.5,73.0
+UBCV,2023,W,MATH,606,D,101,Topics in Differential Equations,Young-Heon Kim,11,90.0,,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4,89.0,90.5,89.0

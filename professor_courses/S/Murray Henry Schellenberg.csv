@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,LING,314,,001,INSTR PHONETICS,"Schellenberg, Murray Henry",56,74.79,11.1,97,52,56,0,0,0,0,0,0,0,0,0,0,3,2,1,12,6,3,8,8,8,5
+UBC,2015,W,LING,313,,001,INTR SPEECH SCIE,"Schellenberg, Murray Henry",90,74.72,13.46,95,21,86,2,2,0,0,0,0,1,0,1,2,4,7,5,6,9,8,8,14,15,10
+UBC,2015,W,LING,314,,001,INSTR PHONETICS,"Schellenberg, Murray Henry",71,79.71,11.7,96,50,69,0,1,1,0,0,0,0,0,0,0,2,3,2,6,2,6,5,17,6,20
+UBC,2016,W,LING,314,,001,INSTR PHONETICS,"Schellenberg, Murray Henry",79,80.28,11.63,96,46,78,1,0,0,0,0,0,0,0,1,1,1,4,5,1,3,7,6,17,16,18
+UBC,2018,W,LING,209,,002,"TPC SP,LANG,HRNG","Schellenberg, Murray Henry",183,76.36,11.28,95,10,173,5,4,0,0,0,1,3,0,1,5,0,2,5,9,12,32,32,55,17,9
+UBC,2018,W,LING,314,,001,INSTR PHONETICS,"Schellenberg, Murray Henry",59,79.79,11.28,97,34,56,1,1,0,1,0,0,0,1,0,1,1,0,2,3,4,5,8,9,12,12
+UBCV,2014,W,LING,314,,001,Instrumental Phonetics,Katie Bicevskis;Murray Henry Schellenberg;Murray Schellenberg,56,74.78571429,11.09580475,97.0,52.0,,,,,,,,,,,0,,,,12,6,,8,8,8,5
+UBCV,2015,W,LING,313,,001,Introduction to Linguistic Phonetics and Speech Science,Brianne Senior;Elise Mcclay;Murray Henry Schellenberg;Murray Schellenberg,88,74.715909091,13.459132578,95.0,21.0,,,,,,,,,,,,,7,5,6,9,8,8,14,15,10
+UBCV,2015,W,LING,314,,001,Instrumental Phonetics,Megan Keough;Murray Henry Schellenberg;Murray Schellenberg,69,79.710144928,11.699800714,96.0,50.0,,,,,,,,,,,0,,,,6,,6,5,17,6,20
+UBCV,2016,W,LING,314,,001,Instrumental Phonetics,Megan Keough;Murray Henry Schellenberg;Murray Schellenberg,79,80.27848101,11.62990917,96.0,46.0,,,,,,,,,,,1,1,4,5,1,3,7,6,17,16,18
+UBCV,2018,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Anne-Michelle Tessier;Joseph Stemberger;Murray Henry Schellenberg;Murray Schellenberg;Wendy Amoako,179,75.988826816,12.290029222,95.0,10.0,,,,,,,,,,,6,0,2,5,9,12,32,32,55,17,9

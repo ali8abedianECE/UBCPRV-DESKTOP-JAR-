@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,STAT,251,,101,Elementary Statistics,Andy Kuan Nam Liang;Gahyung Lee;Jiachen Dong;Jintong Yan;Lasantha Premarathna Wijendra Acharige;Md Sabbir Hossain;Ning Shen;Sabbir Hossain;Xinyao Fan;Yifan Yin;Yitong Liu;Yuwei Yang,372,75.115591398,14.644947021,99.0,24.0,18,17,17,12,17,49,30,49,56,55,52,,,
+UBCV,2021,W,STAT,251,,201,Elementary Statistics,Jintong Yan;Lasantha Premarathna Wijendra Acharige;Menglin Zhou;Ming Yuan;Ning Shen;Parsa Delavari;Qian Ye;Tigana Runte;Xinmiao Wang;Yitong Liu;Yuwei Yang,354,71.731638418,17.893254909,99.0,0.0,27,19,28,19,24,36,31,37,45,38,50,,,
+UBCV,2023,S,DSCI,100,,003,Introduction to Data Science,Yitong Liu,143,85.18,,99.0,46.0,1,0,2,3,1,6,7,14,21,34,53,87.0,92.0,80.0
+UBCV,2023,W,DSCI,100,,003,Introduction to Data Science,Yitong Liu,176,81.6,,97.0,0.0,4,1,2,6,5,5,12,20,31,40,45,84.0,90.0,77.5
+UBCV,2023,W,DSCI,100,,007,Introduction to Data Science,Eldad Haber;Lindsey Heagy;Yitong Liu,163,76.1,,98.0,0.0,5,3,3,6,11,19,15,25,25,26,18,78.0,85.0,69.0

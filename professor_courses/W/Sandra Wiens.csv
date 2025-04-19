@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,CNPS,362,,007,BASIC INTVW SKLS,"Wiens, Sandra",13,87.46,2.73,92,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,3
+UBC,2010,W,CNPS,362,,61A,BASIC INTVW SKLS,"Wiens, Sandra",12,85.42,5.11,93,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,3
+UBC,2011,W,CNPS,362,,002,BASIC INTVW SKLS,"Wiens, Sandra",15,88.8,3.32,93,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,9
+UBC,2012,S,CNPS,362,,924,BASIC INTVW SKLS,"Wiens, Sandra",13,87.77,3.17,92,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6
+UBC,2012,S,CNPS,362,,951,BASIC INTVW SKLS,"Daniluk, Judith;Wiens, Sandra",13,88.31,2.43,91,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5
+UBC,2012,W,CNPS,362,,001,BASIC INTVW SKLS,"Westwood, Marvin;Wiens, Sandra",15,88.4,3.64,93,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8
+UBC,2013,S,CNPS,362,,96A,BASIC INTVW SKLS,"Wiens, Sandra",16,88.56,2.83,93,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,6
+UBC,2013,W,CNPS,363,,003,CAREER COUNSELNG,"Wiens, Sandra",33,86.63,6.13,95,67,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,3,13,11
+UBC,2013,W,CNPS,588,C,009,SUPRVSD TRAINING,"Wiens, Sandra",4,89,1.15,90,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2014,W,CNPS,362,,004,BASIC INTVW SKLS,"Wiens, Sandra",13,86.77,3.79,92,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,4
+UBC,2014,W,CNPS,578,C,002,IND&FAM CNSL T&I,"Wiens, Sandra",15,88.47,1.41,90,86,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6
+UBC,2014,W,CNPS,588,C,007,SUPRVSD TRAINING,"Wiens, Sandra",5,88.2,2.86,92,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2015,S,CNPS,362,,951,BASIC INTVW SKLS,"Wiens, Sandra",14,88.36,3.46,94,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6
+UBC,2015,S,CNPS,362,,952,BASIC INTVW SKLS,"Wiens, Sandra",12,88.67,2.96,93,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6
+UBC,2015,W,CNPS,362,,007,BASIC INTVW SKLS,"Wiens, Sandra",15,88.87,2.64,93,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7
+UBC,2015,W,CNPS,362,,61A,BASIC INTVW SKLS,"Wiens, Sandra",11,88.64,4.13,93,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7
+UBC,2015,W,CNPS,578,C,002,IND&FAM CNSL T&I,"Wiens, Sandra",13,88.69,2.06,92,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5
+UBC,2015,W,CNPS,588,C,009,SUPRVSD TRAINING,"Wiens, Sandra",6,87.67,4.27,93,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2016,S,CNPS,362,,924,BASIC INTVW SKLS,"Wiens, Sandra",14,86.93,4.32,95,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,4
+UBC,2016,S,CNPS,362,,952,BASIC INTVW SKLS,"Wiens, Sandra",14,88.64,2.98,92,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,6
+UBC,2016,W,CNPS,362,,004,BASIC INTVW SKLS,"Wiens, Sandra",15,88.57,3.72,93,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7
+UBC,2016,W,CNPS,362,,009,BASIC INTVW SKLS,"Wiens, Sandra",15,86.29,3.58,90,78,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,3
+UBC,2016,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Wiens, Sandra",12,89.92,2.02,93,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8
+UBC,2016,W,CNPS,588,C,003,SUPRVSD TRAINING,"Majcher, Jo-Ann;Wiens, Sandra",5,86,2.45,88,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2017,S,CNPS,362,,924,BASIC INTVW SKLS,"Wiens, Sandra",15,89.33,2.72,93,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10
+UBC,2017,W,CNPS,578,C,003,IND&FAM CNSL T&I,"Wiens, Sandra",12,89.25,2.73,94,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2017,W,CNPS,588,C,003,SUPRVSD TRAINING,"Wiens, Sandra",4,87.5,4.2,92,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2017,W,CNPS,588,C,005,SUPRVSD TRAINING,"Wiens, Sandra",5,90.6,3.29,95,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2018,S,CNPS,362,,951,BASIC INTVW SKLS,"Wiens, Sandra",17,86.24,7.1,93,65,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,9,5
+UBC,2018,W,CNPS,362,,005,BASIC INTVW SKLS,"Wiens, Sandra",14,86.5,4.77,95,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,5
+UBC,2018,W,CNPS,578,C,003,IND&FAM CNSL T&I,"Wiens, Sandra",11,89.73,2.2,94,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5
+UBC,2018,W,CNPS,588,C,005,SUPRVSD TRAINING,"Wiens, Sandra",4,88,5.1,93,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBCV,2014,W,CNPS,362,,004,Basic Interviewing Skills,Sandra Wiens,13,86.76923077,3.789323734,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,
+UBCV,2014,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Sandra Wiens,15,88.46666667,1.407463101,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,6
+UBCV,2014,W,CNPS,588,C,007,Supervised Training in Counselling,Sandra Wiens,5,88.2,2.863564213,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,S,CNPS,362,,951,Basic Interviewing Skills,Sandra Wiens,14,88.35714286,3.455366904,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,6
+UBCV,2015,S,CNPS,362,,952,Basic Interviewing Skills,Sandra Wiens,12,88.66666667,2.964435661,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,6
+UBCV,2015,W,CNPS,362,,007,Basic Interviewing Skills,Sandra Wiens,15,88.866666667,2.642149197,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,7
+UBCV,2015,W,CNPS,362,,61A,Basic Interviewing Skills,Sandra Wiens,11,88.636363636,4.129714936,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Sandra Wiens,13,88.692307692,2.056883378,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,5
+UBCV,2015,W,CNPS,588,C,009,Supervised Training in Counselling,Sandra Wiens,6,87.666666667,4.273952113,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2016,S,CNPS,362,,924,Basic Interviewing Skills,Sandra Wiens,14,86.92857143,4.322824677,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,4
+UBCV,2016,S,CNPS,362,,952,Basic Interviewing Skills,Sandra Wiens,14,88.64285714,2.9770182,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,6
+UBCV,2016,W,CNPS,362,,004,Basic Interviewing Skills,Sandra Wiens,15,88.66666667,3.598941643,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,8
+UBCV,2016,W,CNPS,362,,009,Basic Interviewing Skills,Sandra Wiens,14,86.28571429,3.582619828,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,7,3
+UBCV,2016,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Sandra Wiens,12,89.91666667,2.020725942,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,8
+UBCV,2017,S,CNPS,362,,924,Basic Interviewing Skills,Sandra Wiens,15,89.333333333,2.716790824,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,10
+UBCV,2017,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Sandra Wiens;Thomas Motl,12,89.25,2.734460226,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2018,S,CNPS,362,,924,Basic Interviewing Skills,Karolina Anna Rozworska;Karolina Rozworska;Sandra Wiens,17,85.882352941,3.515720995,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,9,2
+UBCV,2018,S,CNPS,362,,951,Basic Interviewing Skills,Gillian Smith;Sandra Wiens,17,86.235294118,7.102195187,93.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,0,1,9,5
+UBCV,2018,W,CNPS,362,,005,Basic Interviewing Skills,Gillian Smith;Sandra Wiens,14,86.5,4.767679649,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,5
+UBCV,2018,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Sandra Wiens,11,89.727272727,2.195035721,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5
+UBCV,2019,S,CNPS,362,,922,Basic Interviewing Skills,Rosalynn Lemon;Sandra Wiens,15,87.0,4.174754056,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,7,5
+UBCV,2019,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Brenda Dyer;Sandra Wiens,13,88.230769231,2.278663576,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,4

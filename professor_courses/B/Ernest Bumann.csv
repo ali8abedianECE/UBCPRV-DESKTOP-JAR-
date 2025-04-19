@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,ARTH,325,,001,ART/ARC ANC EGY,"Bumann, Ernest",25,88.29,9.12,98,63,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,4,3,14
+UBC,2012,W,NEST,101,,001,NEAST&EGYPT ARCH,"Bumann, Ernest",40,79.16,19.63,98,0,34,3,3,0,0,1,0,0,0,2,3,1,2,0,1,1,2,1,6,8,12
+UBC,2012,W,NEST,303,,001,HIST ANC EGYPT,"Bumann, Ernest",41,76.66,12.29,94,26,40,1,0,0,0,0,0,1,0,0,1,0,2,0,4,4,6,7,7,4,6
+UBC,2012,W,NEST,304,,001,ART&ARCHAE EYGPT,"Bumann, Ernest",23,86.05,17.95,98,22,20,1,2,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,3,13
+UBC,2013,W,HEBR,405,,001,INTER HEBR (BIB),"Bumann, Ernest",7,82.14,7.1,93,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1
+UBC,2013,W,RELG,305,,001,PROPHECY&KINGSHP,"Bumann, Ernest",19,78.33,10.58,93,63,18,0,0,0,1,0,0,0,0,0,0,0,0,2,3,1,0,1,4,5,2
+UBC,2013,W,RELG,306,,99A,ARCH AND BIBLE,"Bumann, Ernest",29,72.77,12.7,91,44,20,2,2,0,5,0,0,0,0,2,2,0,0,2,3,2,3,4,1,4,1
+UBC,2014,W,HEBR,101,,001,ELEM BIB HEBR I,"Bumann, Ernest",26,82.58,14.68,100,40,23,1,1,0,0,0,0,0,0,1,1,0,1,0,2,1,1,2,2,5,9
+UBC,2014,W,HEBR,102,,001,ELEM BIB HEBR II,"Bumann, Ernest",14,71.5,16.36,93,38,13,1,0,0,0,0,0,0,1,0,1,2,0,1,1,1,1,1,3,1,2
+UBC,2016,W,ARCL,319,,002,EMR CMPLX SOC,"Bumann, Ernest",27,75.64,11.05,90,40,24,1,1,0,0,0,0,0,0,1,1,0,1,0,2,3,5,4,3,4,2
+UBCV,2014,W,HEBR,101,,001,Elementary Biblical Hebrew Part I,Ernest Bumann,25,82.44,14.39062195,100.0,40.0,,,,,,,,,,,,,,,,,,,,5,9
+UBCV,2014,W,HEBR,102,,001,Elementary Biblical Hebrew Part II,Ernest Bumann,14,71.5,16.35542723,93.0,38.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,ARCL,319,,002,The Emergence of Complex Societies in Eurasia and Africa,Ernest Bumann,26,75.19230769,11.06352288,90.0,40.0,,,,,,,,,,,1,0,1,0,3,3,5,4,3,4,2

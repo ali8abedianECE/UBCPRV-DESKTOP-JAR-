@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,S,SPAN,201,,921,INTERMED SPAN I,"Kolokatsis, Kosta",38,69.89,13.04,92,22,34,2,0,0,0,0,0,1,0,1,2,1,2,3,4,8,2,7,5,0,2
+UBC,2015,W,SPAN,201,,105,INTERMED SPAN I,"Kolokatsis, Kosta",34,74.6,9.56,93,55,30,0,4,0,0,0,0,0,0,0,0,0,2,2,2,5,4,4,7,3,1
+UBC,2015,W,SPAN,201,,106,INTERMED SPAN I,"Kolokatsis, Kosta",35,79.29,7.93,97,61,34,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4,2,15,3,4
+UBC,2016,W,SPAN,201,,901,INTERMED SPAN I,"Kolokatsis, Kosta",28,74.21,13.65,93,45,22,2,3,0,0,0,0,0,0,2,2,0,2,0,2,3,2,2,4,4,3
+UBCV,2015,S,SPAN,201,,921,Intermediate Spanish I,Kosta Kolokatsis,38,69.92105263,12.83866958,92.0,22.0,,,,,,,,,,,,,,,,8,,8,5,,
+UBCV,2015,W,SPAN,201,,105,Intermediate Spanish I,Kosta Kolokatsis,30,74.6,9.561416718,93.0,55.0,,,,,,,,,,,0,0,,,,5,,,7,,
+UBCV,2015,W,SPAN,201,,106,Intermediate Spanish I,Kosta Kolokatsis,35,78.8,8.344776457,97.0,61.0,,,,,,,,,,,0,0,0,,,,,,15,,
+UBCV,2016,W,SPAN,201,,901,Intermediate Spanish I,Kosta Kolokatsis,25,74.2,13.36038922,93.0,45.0,,,,,,,,,,,2,0,2,0,2,3,3,2,4,4,3

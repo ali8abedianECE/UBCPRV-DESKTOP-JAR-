@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,CHBE,230,,201,Computational Methods,Anthony Wachs;Arman Seyed-Ahmadi;Masoud Daneshi,124,66.991935484,15.595755086,100.0,18.0,10,19,13,12,14,8,12,9,10,6,11,,,
+UBCV,2017,W,CHBE,351,,101,Transport Phenomena II,Arman Seyed-Ahmadi;Robertus Dhimas Putra;Ryan Melnick;Seyyed Alireza Bagherzadeh Hosseini,146,81.308219178,14.373618107,100.0,33.0,5,2,0,12,8,8,9,10,16,26,50,,,
+UBCV,2018,W,CHBE,230,,201,Computational Methods,Anthony Wachs;Arman Seyed-Ahmadi;Masoud Daneshi,126,63.5,17.495942387,100.0,2.0,19,18,20,15,8,10,9,4,3,7,13,,,
+UBCV,2018,W,CHBE,351,,101,Transport Phenomena II,Arman Seyed-Ahmadi;Heather Trajano;Lei Li,171,79.333333333,11.381615723,100.0,22.0,2,1,5,8,7,14,19,23,37,25,30,,,
+UBCV,2019,W,CHBE,230,,201,Computational Methods,Anthony Wachs;Arman Seyed-Ahmadi;James Jingtao Feng;John Ross Grace;Seyed Mohammad Hosseini,100,74.6,12.268873319,98.0,37.0,1,4,7,8,9,7,15,14,12,9,14,,,
+UBCV,2020,W,APSC,182,,VE1,Matter and Energy I,Arman Seyed-Ahmadi;Erik Joy;Sheryl Staub-French;Vladan Prodanovic,47,79.063829787,13.541248185,100.0,20.0,1,0,1,3,2,3,4,10,4,11,8,,,
+UBCV,2021,W,DSCI,511,,001,Programming for Data Science,Alireza Iranpour;Arman Seyed-Ahmadi;Fatemeh Taheri Dezaki;Justin Chiasson;Melika Farahani;Mobina Mahdavi;Peter Henry Gysbers;Qiuhan He;Tomas Beuzen,149,91.939597315,6.617164605,100.0,65.0,0,0,0,0,2,3,0,1,14,13,116,,,
+UBCV,2021,W,DSCI,513,,001,Databases and Data Retrieval,Alireza Iranpour;Arman Seyed-Ahmadi;Hsin-Jou Yang;Melika Farahani;Pouya Ahmadvand;Shan Lu;Shiming Gu;Simon Goring;Tiffany Leung;Tomas Beuzen,151,89.609271523,7.086111778,99.0,67.0,0,0,0,0,7,0,2,4,11,32,95,,,
+UBCV,2021,W,DSCI,572,,001,Supervised Learning II,Abdul Muntakim Rafi;Alireza Iranpour;Arman Seyed-Ahmadi;Dollina Dodani;Matthew Hoang Tu Nguyen;Mobina Mahdavi;Mohit Pandey;Tomas Beuzen,114,89.947368421,5.339520553,99.0,68.0,0,0,0,0,0,1,2,2,9,29,71,,,
+UBCV,2021,W,DSCI,511,,001,Programming for Data Science,Arman Seyed-Ahmadi,149,91.9,,100.0,65.0,,,,,,,,,14,13,116,94.0,96.0,90.0
+UBCV,2021,W,DSCI,513,,001,Databases and Data Retrieval,Arman Seyed-Ahmadi,151,89.6,,99.0,67.0,,,,,7,,,,11,32,95,92.0,94.0,87.0
+UBCV,2021,W,DSCI,572,,001,Supervised Learning II,Arman Seyed-Ahmadi,114,89.9,,99.0,68.0,,,,,,,,,9,29,71,91.0,93.0,87.3
+UBCV,2021,W,DSCI,591,,001,Capstone Project,Giuseppe Carenini;Daniel Chen;Maria Florencia D' Andrea;Gittu George;Simon Goring;Varada Kolhatkar;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Arman Seyed-Ahmadi;Tiffany Timbers,114,89.3,,93.0,69.0,,,,,,,,,,39,68,90.0,91.0,88.0
+UBCV,2022,W,DSCI,511,,001,Programming for Data Science,Arman Seyed-Ahmadi,115,92.4,,99.0,73.0,0,0,0,0,0,0,1,4,5,16,89,94.0,96.0,90.0
+UBCV,2022,W,DSCI,512,,001,Algorithms and Data Structures,Arman Seyed-Ahmadi,79,85.9,,99.0,60.0,0,0,0,6,3,0,2,7,7,18,36,89.0,93.5,81.0
+UBCV,2022,W,DSCI,513,,001,Databases and Data Retrieval,Arman Seyed-Ahmadi,111,88.7,,97.0,64.0,0,0,0,0,1,0,2,3,21,26,58,90.0,93.0,85.0
+UBCV,2022,W,DSCI,572,,001,Supervised Learning II,Arman Seyed-Ahmadi,78,85.4,,97.0,71.0,0,0,0,0,0,1,6,12,18,12,29,85.5,91.0,80.0

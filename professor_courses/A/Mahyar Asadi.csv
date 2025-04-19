@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,MTRL,472,,101,WELD & JOIN MTRL,"Asadi, Mahyar",30,86.93,8.95,99,64,29,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,3,8,13,,,
+UBC,2018,W,MTRL,472,,101,WELD & JOIN MTRL,"Asadi, Mahyar",37,87.76,9.51,100,66,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,7,3,19,,,
+UBCV,2017,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi;Seyyed Mohammad Mohseni,29,86.931034483,8.951979169,99.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,2,3,8,13,,,
+UBCV,2018,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi;Seyyed Mohammad Mohseni,37,87.756756757,9.514332479,100.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,5,7,3,19,,,
+UBCV,2019,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi;Seyyed Mohammad Mohseni,34,85.176470588,10.55855416,98.0,60.0,,,,,,,,,,,0,0,0,2,0,2,1,5,4,6,14,,,
+UBCV,2020,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi,33,84.878787879,10.132736476,99.0,57.0,,,,,,,,,,,0,0,1,0,0,4,0,5,3,6,14,,,
+UBCV,2021,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi;Meet Upadhyay,27,81.814814815,9.290346673,96.0,66.0,,,,,,,,,,,0,0,0,0,1,4,4,3,4,3,8,,,
+UBCV,2021,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi,27,81.8,,96.0,66.0,,,,,,,,,,,,,,,,,,,,,8,81.0,90.5,74.0
+UBCV,2022,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi,22,77.4,,97.0,53.0,,,,,,,,,,,0,1,2,0,2,0,3,3,4,4,3,79.5,85.0,73.0
+UBCV,2023,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi,16,80.9,,99.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,2,4,2,3,82.0,85.0,74.8

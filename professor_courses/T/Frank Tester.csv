@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,SOWK,416,,001,ADV INT SEM IN SW TH,"Tester, Frank",11,80.91,2.81,85,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,1,0
+UBC,2002,W,SOWK,440,J,002,INTGRTV SEM SOWK,"Tester, Frank",9,80.44,4.25,87,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,1,0
+UBC,2002,W,SOWK,502,A,001,SOC WELFARE DEV,"Tester, Frank",7,78.29,4.15,83,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,0
+UBC,2003,W,SOWK,335,,001,SOC ANL SOWK,"Cadell, Susan;Seebaran, Roopchand;Stainton, Timothy;Tester, Frank;Wright, Margaret",44,77.55,6.95,90,57,44,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,10,8,12,7,1
+UBC,2003,W,SOWK,416,,001,ADV INT SEM IN SW TH,"Tester, Frank",13,78.23,6.19,88,65,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,4,2,0
+UBC,2003,W,SOWK,440,J,002,INTGRTV SEM SOWK,"Tester, Frank",10,82.5,5.64,90,73,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,1
+UBC,2003,W,SOWK,502,A,001,SOC WELFARE DEV,"Tester, Frank",11,82.82,2.99,87,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4,0
+UBC,2005,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Orr, Alison;Stainton, Timothy;Tester, Frank;Wright, Margaret",44,77.89,6.75,89,55,44,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,3,14,13,7,0
+UBC,2005,W,SOWK,416,,001,ADV INT SEM IN SW TH,"Tester, Frank",9,84.22,4.32,90,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,1
+UBC,2005,W,SOWK,440,J,002,INTGRTV SEM SOWK,"Tester, Frank",16,81.31,7.45,91,67,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,3,7,1
+UBC,2005,W,SOWK,502,A,001,SOC WELFARE DEV,"Tester, Frank",13,81.38,3.28,88,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,3,0
+UBC,2005,W,SOWK,571,,002,INTL SOCIAL DEV,"Tester, Frank",5,85,3.32,88,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2006,W,SOWK,335,,001,SOC ANL SOWK,"Freeman, Amy;LEBLANC, SHARON;O'Neill, Brian;Stainton, Timothy;Tester, Frank",29,86.75,6.11,95,70,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,15,7
+UBC,2006,W,SOWK,416,,002,ADV INT SEM IN SW TH,"Tester, Frank",11,83.45,5.56,92,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,1
+UBC,2006,W,SOWK,440,J,002,INTGRTV SEM SOWK,"Tester, Frank",12,86.5,1.68,91,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1
+UBC,2006,W,SOWK,512,A,001,SOC DEV THEO,"Tester, Frank",15,82.87,6.31,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,6,1
+UBC,2007,W,SOWK,335,,001,SOC ANL SOWK,"O'Connor, Deborah;O'Neill, Brian;Stainton, Timothy;Tester, Frank;Wright, Margaret",29,80.62,5.75,93,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,12,4,2
+UBC,2007,W,SOWK,512,A,001,SOC DEV THEO,"Tester, Frank",17,83.71,6.92,92,62,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,5,6,3
+UBC,2009,W,SOWK,335,,001,SOC ANL SOWK,"O'Connor, Deborah;O'Neill, Brian;Stainton, Timothy;Tester, Frank;Wright, Margaret",29,83.45,3.76,91,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,10,3
+UBC,2009,W,SOWK,440,J,002,INTGRTV SEM SOWK,"Tester, Frank",7,82.71,4.46,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1
+UBC,2009,W,SOWK,512,A,001,SOC DEV THEO,"Tester, Frank",10,83.3,5.74,90,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3,2
+UBC,2009,W,SOWK,571,,002,INTL SOCIAL DEV,"Tester, Frank",4,82.25,3.2,87,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+UBC,2010,W,HIST,490,Z,201,SEM FOR HIST MAJ,"Tester, Frank",8,72.86,25.75,88,18,6,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,4,0
+UBC,2010,W,HIST,490,Z,202,SEM FOR HIST MAJ,"Tester, Frank",11,75.63,13.55,90,46,7,1,3,0,0,0,0,0,0,1,1,0,0,0,0,1,1,2,1,1,1
+UBC,2010,W,SOWK,335,,001,SOC ANL SOWK,"MEADOWS, KAREN;O'Connor, Deborah;Sullivan, T Richard;Tester, Frank;Wright, Margaret",34,88.94,4.36,96,77,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,21
+UBC,2010,W,SOWK,571,,001,INTL SOCIAL DEV,"Tester, Frank",5,87.2,1.48,89,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2011,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Stainton, Timothy;Stern, Louise;Tester, Frank;Wright, Margaret",33,79.82,4.28,90,68,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,10,15,2,1
+UBC,2011,W,SOWK,440,J,001,INTGRTV SEM SOWK,"Tester, Frank",6,81.83,2.14,84,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0
+UBC,2011,W,SOWK,505,,001,SOCIAL ANALYSIS,"O'Connor, Deborah;Stainton, Timothy;Sullivan, T Richard;Tester, Frank;Wright, Margaret",7,83,5.48,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1
+UBC,2011,W,SOWK,571,,001,INTL SOCIAL DEV,"Tester, Frank",5,85.8,3.83,91,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2012,W,SOWK,335,,001,SOC ANL SOWK,"Allen, Helen;O'Neill, Brian;Stainton, Timothy;Stern, Louise;Tester, Frank",43,83.3,4.71,92,74,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,14,15,4
+UBC,2012,W,SOWK,501,,001,ADV CAN SOC PLCY,"Tester, Frank",29,84.69,2.69,89,79,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,16,0
+UBC,2012,W,SOWK,505,,001,SOCIAL ANALYSIS,"Bryson, Stephanie;O'Connor, Deborah;Stainton, Timothy;Sullivan, T Richard;Tester, Frank",27,96.15,3.63,100,85,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,25
+UBC,2012,W,SOWK,550,,004,SOC WRK & JUSTCE,"Tester, Frank",10,83.67,5.85,90,73,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,2
+UBC,2012,W,SOWK,559,,001,ADV INT SEMINAR,"Advisor, -;Bryson, Stephanie;Charles, Grant;Tester, Frank",35,87.85,5.34,96,72,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,14,13
+UBC,2012,W,SOWK,571,,001,INTL SOCIAL DEV,"Tester, Frank",4,85.5,3.42,89,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2013,W,SOWK,335,,001,SOC ANL SOWK,"Clark, Natalie;O'Connor, Deborah;O'Neill, Brian;Stainton, Timothy;Tester, Frank",54,84.87,4.23,94,76,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,19,21,8
+UBC,2013,W,SOWK,400,,001,CAN SOCI PLCY,"Tester, Frank",45,86.16,4.35,91,68,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,7,26,10
+UBC,2013,W,SOWK,440,J,001,INTGRTV SEM SOWK,"Tester, Frank",6,86.83,3.76,92,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1
+UBC,2013,W,SOWK,501,,001,ADV CAN SOC PLCY,"Tester, Frank",17,87.29,3.65,93,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,6
+UBC,2014,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Rockwell, Jasmyne;Stainton, Timothy;Tester, Frank;Wright, Margaret",63,86.14,4.53,94,73,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,30,15
+UBC,2014,W,SOWK,440,J,001,INTGRTV SEM SOWK,"Tester, Frank",6,88.17,3.31,91,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2014,W,SOWK,501,,001,ADV CAN SOC PLCY,"Tester, Frank",13,86.85,7.41,95,71,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,3,6
+UBC,2015,W,SOWK,501,,001,ADV CAN SOC PLCY,"Tester, Frank",18,85.06,5.99,94,73,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,9,3
+UBCV,2014,W,SOWK,335,,001,Social Analysis for Social Work Practice,Brian O'Neill;Frank Tester;Jasmyne Rockwell;Margaret Wright;Tamara Miskovic;Timothy Stainton,63,86.14285714,4.528964643,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,13,30,15
+UBCV,2014,W,SOWK,440,J,001,Integrative Seminars in Social Work,Frank Tester,6,88.16666667,3.311595789,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,SOWK,501,,001,Advanced Canadian Social Policy,Frank Tester,13,86.84615385,7.414469568,95.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,6
+UBCV,2015,W,SOWK,501,,001,Advanced Canadian Social Policy,Frank Tester,17,85.058823529,5.994482757,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,
+UBCV,2016,W,SOWK,501,,001,Advanced Canadian Social Policy,Deborah O'Connor;Frank Tester;Patricia Johnston,19,89.57894737,5.580877962,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,7,8

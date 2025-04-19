@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MECH,392,,201,MANU PRO PROCESS,"Yellowley, Ian",92,72.38,11.52,93,39,88,1,1,1,1,0,0,0,1,0,1,6,8,7,7,10,9,13,14,11,3
+UBC,2002,W,MECH,463,,202,CMPTR CNTRL MACH,"Yellowley, Ian",25,72.44,7.47,86,55,25,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,3,7,4,1,0
+UBC,2002,W,MECH,591,,101,PRODUCTION ENGR,"Yellowley, Ian",4,85.67,0.58,86,85,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+UBC,2003,W,MECH,392,,201,MANU PRO PROCESS,"Yellowley, Ian",90,73.7,14.89,100,4,86,2,0,0,2,1,0,0,1,0,2,7,6,2,10,7,6,10,17,11,10
+UBC,2003,W,MECH,463,,202,CMPTR CNTRL MACH,"Yellowley, Ian",11,68.45,6.39,76,60,11,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,2,2,0,0,0
+UBC,2005,W,MECH,455,,201,DESIGN PROJECT I,"Cramond, Pat;Hodgson, Antony;Mikkelsen, Jon;Romilly, Douglas;Yellowley, Ian",40,82.97,8.77,95,67,38,0,1,0,1,0,0,0,0,0,0,0,0,0,1,4,4,6,2,8,13
+UBC,2005,W,MECH,456,,201,DESIGN PROJ II,"Cramond, Pat;Hodgson, Antony;Mikkelsen, Jon;Romilly, Douglas;Yellowley, Ian",49,76.51,9.46,90,35,48,1,0,0,0,0,0,0,1,0,1,0,0,1,5,8,3,8,13,8,2
+UBC,2005,W,MECH,457,,001,DESIGN PROJECT,"Cramond, Pat;Hodgson, Antony;Mikkelsen, Jon;Romilly, Douglas;Yellowley, Ian",35,80.2,7.5,95,66,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,9,4,8,5
+UBC,2005,W,MECH,490,,101,PRODUCTION ENG,"Yellowley, Ian",17,69.41,10.58,82,50,17,0,0,0,0,0,0,0,0,0,0,2,1,3,1,1,4,1,4,0,0
+UBC,2005,W,MECH,591,,101,PRODUCTION ENGR,"Yellowley, Ian",8,86.71,6.34,91,74,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4
+UBC,2006,W,MECH,490,,201,PRODUCTION ENG,"Yellowley, Ian",28,72.19,9.46,90,51,27,0,1,0,0,0,0,0,0,0,0,1,0,4,3,5,5,1,5,2,1
+UBC,2006,W,MECH,591,,201,PRODUCTION ENGR,"Yellowley, Ian",6,78.5,6.41,88,73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0

@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,COMM,374,,202,Applied Financial Markets,Bo Bian;Carolin Pflueger;Ching-Chuan Wang;Jack Favilukis;Keling Zheng;Yingxiang Li,39,75.333333333,5.313009521,83.0,63.0,0,0,0,1,2,4,12,9,11,0,0,,,
+UBCV,2019,W,COMM,374,,203,Applied Financial Markets,Bo Bian;Carolin Pflueger;Ching-Chuan Wang;Jack Favilukis;Keling Zheng;Semen Malamud;Yingxiang Li,41,79.024390244,5.387428908,90.0,66.0,0,0,0,0,1,4,3,10,18,4,1,,,
+UBCV,2019,W,COMM,695,,001,Advanced Topics in Empirical Corporate Finance,Bo Bian,18,80.111111111,21.27381403,97.0,0.0,1,0,0,0,0,0,3,0,5,3,6,,,
+UBCV,2020,W,COMM,374,,201,Applied Financial Markets,Bo Bian;Chunxue Yang;Keling Zheng;Khalil Esmkhani;Yingxiang Li,29,75.965517241,5.192596093,86.0,60.0,0,0,0,1,1,1,10,8,7,1,0,,,
+UBCV,2020,W,COMM,374,,202,Applied Financial Markets,Bo Bian;Chunxue Yang;Jack Favilukis;Yingxiang Li,41,75.317073171,6.497842043,86.0,61.0,0,0,0,2,3,6,9,7,11,3,0,,,
+UBCV,2020,W,COMM,374,,203,Applied Financial Markets,Bo Bian;Chunxue Yang;David Chan;Jack Favilukis;Joanne Turner;Rebecca Mee Kyung Paluch;Semen Malamud;Yingxiang Li,42,77.880952381,6.181018864,92.0,61.0,0,0,0,2,0,4,5,9,19,2,1,,,
+UBCV,2020,W,COMM,374,,204,Applied Financial Markets,Azizjon Alimov;Bo Bian;Chunxue Yang;Khalil Esmkhani;Larry Wosk;Semen Malamud;Yingxiang Li,38,74.473684211,6.193880337,86.0,54.0,0,1,0,2,0,7,10,9,8,1,0,,,
+UBCV,2020,W,COMM,374,,205,Applied Financial Markets,Bo Bian;Chunxue Yang;Jack Favilukis;Yingxiang Li,43,75.162790698,6.907312318,87.0,58.0,0,0,1,1,4,8,8,7,10,4,0,,,
+UBCV,2020,W,COMM,374,,206,Applied Financial Markets,Bo Bian;Chunxue Yang;Jack Favilukis;Yingxiang Li,40,78.05,5.583629919,87.0,65.0,0,0,0,0,2,3,7,12,9,7,0,,,
+UBCV,2021,W,COMM,374,,202,Applied Financial Markets,Bo Bian;Jack Favilukis,27,76.888888889,5.563157193,87.0,65.0,0,0,0,0,1,3,7,9,4,3,0,,,
+UBCV,2021,W,COMM,374,,203,Applied Financial Markets,Bo Bian;Jack Favilukis,40,75.15,7.297874647,87.0,58.0,0,0,2,2,1,3,9,13,6,4,0,,,
+UBCV,2021,W,COMM,374,,204,Applied Financial Markets,Bo Bian;Jack Favilukis,24,69.75,14.888717643,82.0,10.0,1,1,0,1,4,4,3,6,4,0,0,,,
+UBCV,2021,W,COMM,374,,205,Applied Financial Markets,Bo Bian;Jack Favilukis;Murray Carlson,39,75.230769231,7.009247795,88.0,58.0,0,0,1,0,4,8,8,4,12,2,0,,,
+UBCV,2021,W,COMM,374,,206,Applied Financial Markets,Bo Bian;Jack Favilukis;Jose Pizarro Zuniga;Murray Carlson,41,75.951219512,6.953241041,87.0,59.0,0,0,1,2,2,5,4,14,11,2,0,,,
+UBCV,2021,W,COMM,695,,001,Advanced Topics in Empirical Corporate Finance,Bo Bian,12,83.0,4.306443375,92.0,76.0,0,0,0,0,0,0,0,2,6,3,1,,,
+UBCV,2021,W,COMM,695,,001,Advanced Topics in Empirical Corporate Finance,Bo Bian,12,83.0,,92.0,76.0,,,,,,,,,6,,,82.0,85.3,81.0
+UBCV,2022,W,COMM,374,,202,Applied Financial Markets,Bo Bian;Jack Favilukis,41,78.8,,88.0,64.0,0,0,0,0,4,2,2,9,16,8,0,80.0,83.0,76.0
+UBCV,2022,W,COMM,374,,203,Applied Financial Markets,Bo Bian;Jack Favilukis,42,78.4,,87.0,61.0,0,0,0,1,1,1,5,15,14,5,0,78.5,81.0,76.0
+UBCV,2022,W,COMM,374,,204,Applied Financial Markets,Bo Bian;Jack Favilukis,39,73.1,,87.0,63.0,0,0,0,1,6,8,11,9,3,1,0,74.0,76.5,69.5
+UBCV,2022,W,COMM,374,,205,Applied Financial Markets,Bo Bian;Jack Favilukis,41,75.0,,88.0,51.0,0,1,0,1,3,10,2,10,13,1,0,77.0,80.0,70.0
+UBCV,2022,W,COMM,374,,206,Applied Financial Markets,Bo Bian;Jack Favilukis,41,75.1,,85.0,61.0,0,0,0,3,1,6,6,17,7,1,0,77.0,78.0,72.0
+UBCV,2022,W,COMM,374,,207,Applied Financial Markets,Bo Bian;Jack Favilukis,38,73.4,,87.0,63.0,0,0,0,1,5,12,6,9,4,1,0,73.0,78.0,69.0
+UBCV,2023,W,COMM,374,,203,Applied Financial Markets,Bo Bian;Jack Favilukis,40,77.4,,89.0,66.0,0,0,0,0,1,3,9,15,10,2,0,77.0,81.0,74.8
+UBCV,2023,W,COMM,374,,205,Applied Financial Markets,Bo Bian;Jack Favilukis,39,73.7,,89.0,58.0,0,0,2,0,5,9,7,8,4,3,0,73.0,78.0,69.3
+UBCV,2023,W,COMM,374,,206,Applied Financial Markets,Bo Bian;Jack Favilukis,40,73.4,,87.0,43.0,1,0,0,2,3,8,9,10,4,2,0,74.0,78.0,70.0
+UBCV,2023,W,COMM,374,,207,Applied Financial Markets,Bo Bian;Jack Favilukis,40,73.1,,86.0,39.0,1,0,1,1,4,7,10,7,6,3,0,73.5,78.0,68.0
+UBCV,2023,W,COMM,676,,001,Advanced Topics in Empirical Corporate Finance,Bo Bian,14,83.79,,93.0,72.0,0,0,0,0,0,0,1,1,5,5,2,84.0,87.0,82.0

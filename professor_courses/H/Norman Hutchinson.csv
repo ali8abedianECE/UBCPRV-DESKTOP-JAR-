@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",49,74.37,17.67,98,26,41,5,0,0,3,0,0,1,2,2,5,1,2,1,5,4,2,1,7,9,9,,,
+UBC,2002,W,CPSC,508,,101,OPERATING SYSTEM,"Hutchinson, Norman",24,88.96,3.18,97,83,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,8,,,
+UBC,2003,W,CPSC,219,,202,Soft Dev Lab,"Hutchinson, Norman",86,70.92,13.31,94,40,70,6,7,0,3,0,0,0,0,6,6,4,5,8,3,7,14,4,13,9,3,,,
+UBC,2003,W,CPSC,508,,101,OPERATING SYSTEM,"Hutchinson, Norman",27,86.19,2.9,93,82,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,17,3,,,
+UBC,2005,W,CPSC,538,A,201,COMPUTER SYSTEMS,"Hutchinson, Norman",20,88.63,3.71,94,82,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,7,,,
+UBC,2006,W,CPSC,313,,101,COMP HARD&OS,"Hutchinson, Norman",83,70.38,12.38,98,43,77,2,3,0,1,0,0,0,0,2,2,4,11,9,7,9,9,8,9,6,5,,,
+UBC,2006,W,CPSC,313,,201,COMP HARD&OS,"Hutchinson, Norman",104,70.18,14.41,94,35,91,11,1,0,1,0,0,0,2,9,11,5,4,9,14,12,9,7,7,17,7,,,
+UBC,2007,W,CPSC,311,,101,PROGRAMMNG LANGS,"Hutchinson, Norman",36,75,13.89,100,47,32,1,3,0,0,0,0,0,0,1,1,3,2,1,3,3,1,6,3,6,4,,,
+UBC,2007,W,CPSC,508,,101,OPERATING SYSTEM,"Hutchinson, Norman",14,86.43,3.46,93,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,1,,,
+UBC,2009,W,CPSC,211,,BCS,INTRO SOFT DEV,"Hutchinson, Norman",10,77.7,14.65,97,45,9,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,2,3,1,,,
+UBC,2009,W,CPSC,508,,101,OPERATING SYSTEM,"Hutchinson, Norman",14,88.43,4.09,96,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,,,
+UBC,2010,W,CPSC,317,,201,INTERNET COMP,"Hutchinson, Norman",72,74.14,12.38,95,37,68,2,2,0,0,0,0,0,1,1,2,3,2,5,5,13,7,11,6,6,10,,,
+UBC,2010,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",17,85,13.43,98,50,17,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,2,9,,,
+UBC,2011,W,CPSC,210,,102,SFTWR CONSTRUCTN,"Hutchinson, Norman",77,71.05,12.65,94,35,71,4,1,0,1,0,0,0,2,2,4,2,3,11,10,10,6,9,8,9,3,,,
+UBC,2011,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",16,83.94,7.57,99,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,3,4,,,
+UBC,2012,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Hutchinson, Norman",117,71.3,19.02,97,19,93,18,5,0,1,0,1,2,5,10,18,4,9,4,4,6,10,8,15,13,20,,,
+UBC,2012,W,CPSC,261,,201,BASICS COMP SYST,"Hutchinson, Norman",126,67.91,18.71,100,20,105,17,3,0,1,0,0,2,6,9,17,15,10,7,7,12,9,10,5,13,17,,,
+UBC,2012,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",31,77,9.05,91,60,31,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,9,3,3,7,3,,,
+UBC,2013,W,CPSC,261,,201,BASICS COMP SYST,"Hutchinson, Norman",116,69.1,15.07,94,6,104,9,3,0,0,1,0,0,2,6,9,8,11,11,10,8,10,16,13,11,6,,,
+UBC,2013,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",29,72.24,15.71,87,14,28,1,0,0,0,0,1,0,0,0,1,3,1,0,2,3,3,5,6,5,0,,,
+UBC,2014,W,CPSC,317,,201,INTERNET COMP,"Hutchinson, Norman",99,72.95,10.78,93,45,91,2,3,0,3,0,0,0,0,2,2,2,9,5,11,8,14,14,14,11,3,,,
+UBC,2014,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",25,79.54,13.02,98,39,23,1,1,0,0,0,0,0,1,0,1,0,0,1,1,2,3,2,3,7,4,,,
+UBC,2015,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Hutchinson, Norman",181,70.7,14.11,98,32,156,15,6,0,4,0,0,0,1,14,15,6,11,11,24,20,14,17,21,12,20,,,
+UBC,2016,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Hutchinson, Norman",159,78.04,14.75,100,19,145,10,3,0,1,0,1,1,1,7,10,1,0,4,15,13,16,12,28,23,33,,,
+UBC,2016,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Hutchinson, Norman",152,75.29,14.65,100,35,132,10,5,0,4,0,0,0,1,9,10,3,8,8,14,11,12,14,20,17,25,,,
+UBC,2017,W,CPSC,411,,201,COMPILER CONSTRC,"Hutchinson, Norman",55,82.24,8.88,96,44,54,1,0,0,0,0,0,0,0,1,1,0,0,0,2,3,4,5,15,15,10,,,
+UBCV,2014,W,CPSC,317,,201,Internet Computing,Feifan Chen;Giorgio Gori;Mira Leung;Norman Hutchinson,96,70.8125,15.98770087,93.0,0.0,,,,,,,,,,,5,2,9,5,11,8,14,14,14,11,3,,,
+UBCV,2014,W,CPSC,411,,201,Introduction to Compiler Construction,Felipe Andres Banados Schwerter;Norman Hutchinson,24,79.54166667,13.02165142,98.0,39.0,,,,,,,,,,,,,,,,,,,,7,,,,
+UBCV,2015,W,CPSC,210,,101,Software Construction,Norman Hutchinson,175,69.491428571,16.089858508,98.0,9.0,,,,,,,,,,,19,6,11,11,24,20,14,17,21,12,20,,,
+UBCV,2016,W,CPSC,210,,101,Software Construction,Clement Fung;Norman Hutchinson,156,77.65384615,15.46803315,100.0,18.0,,,,,,,,,,,11,1,0,4,15,13,16,12,28,23,33,,,
+UBCV,2016,W,CPSC,210,,201,Software Construction,Clement Fung;Norman Hutchinson,147,73.65306122,17.5189342,100.0,4.0,,,,,,,,,,,14,3,8,8,14,11,13,14,20,17,25,,,
+UBCV,2017,W,CPSC,411,,201,Introduction to Compiler Construction,Norman Hutchinson,55,82.236363636,8.875608767,96.0,44.0,,,,,,,,,,,1,0,0,0,2,3,4,5,15,15,10,,,
+UBCV,2019,W,CPSC,110,,201,"Computation, Programs, and Programming",Abid Salahi Esfahani;Alexander Steele;Allison Earle;Amanda Tupper;Anna Wu;Anton Grier;Ceylin Ozdemir;Chia Sheng Pan;Collin Lucas Eng;Duy Nguyen;Emily Fuchs;Eric Kuo;Evangeline Tay;Flora Chen;Frances Sin;Hyesun An;Ian Del Rio-Wheatley;Jack James Pitcher;Jeffrey Chew;Jenny Shinhui Tammy Gechen;Jessica I-Wen Liang;Jiayi Fan;Jiayu Zhang;Jingze Dong;Jude Shamsi;Julie Bernelot Moens;Kee Ryun Park;Laura Schmid;Mara Solen;Matthew Yep;Maya Vasdani;Mea Srisan;Mengxin Zhao;Miles Williams;Millenia Kitikul;Mingxin Gong;Norman Hutchinson;Patrick Yung Kang Lee;Piye Liu;Rodrigue De Schaetzen;Ryan Nicolas Lam;Sassan Shokoohi;Shannon Lawrence;Spencer Yao;Tashi Jain;Will Alvarez;Xinpei Li;Yang Qin;Yannan Zhu;Yexiu Zhou,188,74.436170213,16.675293781,99.0,0.0,,,,,,,,,,,7,7,14,11,9,17,18,22,26,31,26,,,
+UBCV,2019,W,CPSC,210,,102,Software Construction,Norman Hutchinson,163,70.570552147,17.450801858,97.0,18.0,,,,,,,,,,,22,4,9,12,9,11,21,12,21,16,26,,,
+UBCV,2020,W,CPSC,110,,104,"Computation, Programs, and Programming",Alexander Steele;Amanda Tupper;Bronwyn Damm;Chia Sheng Pan;Daniel Ryu;Dao Minh Phuong Nguyen;Jack James Pitcher;James Riddell;Jiayi Fan;Laura Schmid;Mara Solen;Norman Hutchinson;Ryan Mehri;Yang Qin;Yiyi Liu,244,77.971311475,17.448666531,100.0,15.0,,,,,,,,,,,33,1,1,4,11,6,21,17,41,39,70,,,
+UBCV,2020,W,CPSC,210,,101,Software Construction,Adrian Lee;Alexander Caceres-Wright;Andrew Han;Benny Wong;Bhavesh Singhal;Chris Liu;Emilia Hidalgo;Eric Newton;Hyunuk Lim;Jessica Wong;Jiayi Ni;John Francisco;John Turkson;Kadir Barutcuoglu;Man Nok Ho;Mazen Kotb;Norman Hutchinson;Parker Ram;Phillbert Tan;Rodrigue De Schaetzen;Ruixin Yang;Shiyu Chen;Shizuko Akamoto;Taek Hee Kwun;Weihan Chen;Xinyi Ye;Yi Dian Liu;Yiyuan Sun,191,76.214659686,17.018596478,99.0,10.0,,,,,,,,,,,24,0,1,4,5,21,23,20,28,21,44,,,
+UBCV,2020,W,CPSC,210,,201,Software Construction,Benny Wong;Bhavesh Singhal;Daniel Ryu;Denis Kovalenko;Emilia Hidalgo;Felix Grund;Han Sen Gao;Hosung Hwang;Jack James Pitcher;Jiayi Ni;John Francisco;Kadir Barutcuoglu;Kenny Cheng;Lucy Hao;Man Nok Ho;Mazen Kotb;Meiqi Yu;Min Jung Kim;Norman Hutchinson;Parker Ram;Rachit Kumar Malik;Rachit Malik;Rodrigue De Schaetzen;Samuel Riddle;Shiyu Chen;Taek Hee Kwun;Yantong Liu;Yiyuan Sun;Yuxiang Fu,159,81.893081761,12.38189327,97.0,29.0,,,,,,,,,,,7,1,3,3,4,6,6,17,35,26,51,,,
+UBCV,2020,W,CPSC,210,,203,Software Construction,Elisa Baniassad;Han Sen Gao;Mehrdad Oveisi-Fordoei;Norman Hutchinson,155,79.619354839,15.312023528,98.0,0.0,,,,,,,,,,,10,0,2,3,8,10,17,10,26,22,47,,,
+UBCV,2020,W,CPSC,213,,203,Introduction to Computer Systems,Alan Milligan;Alexander Maximovitch;Alireza Iranpour;Aymen Dirar;Barry Sin;Bo Robert Xiao;Brooke Dai;Burcu Gorgulicten;Chuntong Gao;David Bromley;Edward Le;Gorisha Agarwal;Harshit Chhajed;James Yu;Kaiyuan Yang;Kamalpreet Singh Deowra;Katherine Liang;Mukund Sundararajan;Norman Hutchinson;Peyton Seigo;Ratthamnoon Prakitpong;Tarik Eshaq;Ting Jia Wu;William Chen;Wonhu Choi;Xiao Dong Su;Xiao Han Dang;Yining Wang;Yue Liu;Yuxin Wang;Zhiyuan Lu,167,78.443113772,12.53506157,99.0,35.0,,,,,,,,,,,8,2,2,5,7,16,17,23,26,32,29,,,
+UBCV,2021,W,CPSC,313,,101,Computer Hardware and Operating Systems,Chi Tsun Cheng;Hadi Sinaee;Jingyu Liu;Kaiyuan Yang;Margo Seltzer;Ningfeng Yang;Norman Hutchinson;Runhe Guo;Runze Wang;Ryan Gang Liu;Sepehr Noorafshan;Shukan Yang;Yuxin Tian,157,81.515923567,11.593325387,96.0,20.0,,,,,,,,,,,5,0,4,1,5,6,8,18,36,42,32,,,
+UBCV,2021,W,CPSC,313,,102,Computer Hardware and Operating Systems,Hadi Sinaee;Jingyu Liu;Kaiyuan Yang;Margo Seltzer;Norman Hutchinson;Runhe Guo;Runze Wang;Ryan Gang Liu;Sepehr Noorafshan;Shukan Yang;Yuxin Tian,144,80.576388889,10.83866419,95.0,25.0,,,,,,,,,,,1,3,4,3,5,6,12,18,31,33,28,,,
+UBCV,2021,W,CPSC,313,,203,Computer Hardware and Operating Systems,Amee Trivedi;Crystal Lee;Hadi Sinaee;Kaiyuan Yang;Margo Seltzer;Michael Feeley;Ningfeng Yang;Norman Hutchinson;Runhe Guo;Runze Wang;Sepehr Noorafshan;Shukan Yang;Xutong Jiang;Yang Mo;Yi Xuan Qi;Yuxin Tian,144,78.527777778,13.619168127,98.0,4.0,,,,,,,,,,,6,2,3,6,6,10,9,17,27,34,24,,,
+UBCV,2021,W,CPSC,313,,204,Computer Hardware and Operating Systems,Amee Trivedi;Crystal Lee;Kaiyuan Yang;Margo Seltzer;Michael Feeley;Norman Hutchinson;Runhe Guo;Runze Wang;Sepehr Noorafshan;Xutong Jiang;Yang Mo;Yi Xuan Qi;Yuxin Tian,162,75.969135802,12.614899423,96.0,9.0,,,,,,,,,,,6,1,5,12,11,8,23,20,34,31,11,,,
+UBCV,2021,W,CPSC,317,,201,Internet Computing,Ali Mehrabian;Daniel Lee;Emma Nakamoto;Eric Conlon;Eric Kim;Jonatan Schroeder;Kailun Jin;Norman Hutchinson;Shupeng Chen;Ting Jia Wu;Yaman Sanobar;Yanyu Zhang,147,77.523809524,15.19883437,94.0,7.0,,,,,,,,,,,11,1,3,4,4,9,11,19,25,44,16,,,
+UBCV,2021,W,CPSC,317,,202,Internet Computing,Daniel Lee;Emma Nakamoto;Jonatan Schroeder;Kailun Jin;Norman Hutchinson,137,77.532846715,14.401312795,96.0,6.0,,,,,,,,,,,8,1,3,7,6,4,10,18,33,32,15,,,
+UBCV,2021,W,CPSC,313,,101,Computer Hardware and Operating Systems,Norman Hutchinson;Margo Seltzer,157,81.6,,96.0,20.0,,,,,,,,,,,,,,,,,8,19,36,42,32,84.0,89.0,78.0
+UBCV,2021,W,CPSC,313,,102,Computer Hardware and Operating Systems,Norman Hutchinson;Margo Seltzer,144,80.8,,95.0,25.0,,,,,,,,,,,,,,,,7,12,18,31,33,28,83.0,88.0,76.0
+UBCV,2021,W,CPSC,317,,201,Internet Computing,Norman Hutchinson,145,78.5,,94.0,23.0,,,,,,,,,,,8,,,,,9,11,19,25,44,16,83.0,87.0,74.0
+UBCV,2021,W,CPSC,317,,202,Internet Computing,Norman Hutchinson,137,78.0,,96.0,6.0,,,,,,,,,,,6,,,7,6,,10,20,33,32,15,82.0,86.0,74.0
+UBCV,2022,W,CPSC,313,,101,Computer Hardware and Operating Systems,Patrice Belleville;Norman Hutchinson,147,74.9,,97.0,24.0,,,,,,,,,,,9,2,3,11,8,12,23,15,33,17,14,76.0,84.0,68.0
+UBCV,2022,W,CPSC,313,,102,Computer Hardware and Operating Systems,Patrice Belleville;Norman Hutchinson,156,79.3,,97.0,39.0,,,,,,,,,,,7,2,2,3,6,8,13,23,34,35,23,82.0,88.0,74.0
+UBCV,2022,W,CPSC,317,,201,Internet Computing,Norman Hutchinson;Aastha Mehta,134,75.3,,93.0,34.0,,,,,,,,,,,5,2,2,8,11,14,9,29,29,20,5,78.0,83.0,70.0
+UBCV,2022,W,CPSC,317,,202,Internet Computing,Norman Hutchinson,161,76.3,,93.0,37.0,,,,,,,,,,,7,1,5,7,10,14,15,22,43,30,7,79.0,84.0,70.0
+UBCV,2023,W,CPSC,110,,201,"Computation, Programs, and Programming",Norman Hutchinson;Gregor Kiczales,190,69.1,,99.0,0.0,,,,,,,,,,,34,5,9,5,10,10,9,16,20,14,36,76.0,86.3,56.8
+UBCV,2023,W,CPSC,110,,203,"Computation, Programs, and Programming",Norman Hutchinson;Gregor Kiczales,209,67.9,,100.0,0.0,,,,,,,,,,,47,3,4,8,12,13,15,14,12,18,39,73.0,88.0,47.0
+UBCV,2023,W,CPSC,313,,101,Computer Hardware and Operating Systems,Norman Hutchinson;Steven Wolfman,161,78.0,,95.0,30.0,,,,,,,,,,,7,3,1,4,3,15,16,26,31,32,20,81.0,86.0,73.0
+UBCV,2023,W,CPSC,313,,102,Computer Hardware and Operating Systems,Norman Hutchinson;Steven Wolfman,187,75.7,,98.0,0.0,,,,,,,,,,,13,1,4,9,13,13,24,22,34,32,19,78.5,85.0,69.8
+UBCV,2023,W,CPSC,317,,101,Introduction to Computer Networking,Norman Hutchinson,182,76.6,,98.0,45.0,,,,,,,,,,,3,3,5,9,18,21,12,25,31,33,17,78.0,86.0,69.0
+UBCV,2023,W,CPSC,317,,201,Introduction to Computer Networking,Norman Hutchinson;Aastha Mehta,138,80.7,,98.0,41.0,,,,,,,,,,,5,0,1,1,6,8,14,12,32,28,27,82.0,89.0,75.0

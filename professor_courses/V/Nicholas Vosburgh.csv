@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2016,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Aurey Harris;Cameron Chong;David Rowswell;Herraj Luhano;Nicholas Vosburgh;Sharon Hanna;Thomas Reid;Zackery Dupont,191,68.16230367,21.7787884,100.0,1.0,52,3,5,8,9,13,19,12,15,18,37
+UBCO,2018,W,COSC,114,,101,Vector Graphics and Animations,Ali-Meysam Mohebbi;Anupreet Januhen;Jagdeep Brar;Nicholas Vosburgh,76,71.657894737,17.068140013,100.0,0.0,6,5,4,5,4,9,6,7,16,7,7
+UBCO,2018,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Karla Lugo Baez;Nicholas Vosburgh,101,73.405940594,15.307630919,100.0,27.0,7,3,6,11,6,9,10,9,15,10,15

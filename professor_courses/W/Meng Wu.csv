@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,ASIA,355,,003,History of Chinese Cinema,Meng Wu;Natasha Rivera;Rui Wang;Tae Yeon Eom,146,77.64383562,6.16747836,98.0,62.0,0,0,0,,,17,32,31,42,14,4,,,
+UBCV,2015,W,ASIA,351,,001,Modern Chinese Fiction in Translation,Christopher Rea;Meng Wu,72,69.541666667,10.674357189,90.0,45.0,,,10,5,11,9,12,6,7,6,,,,
+UBCV,2015,W,ASIA,355,,003,History of Chinese Cinema,Meng Wu;Rui Wang,144,74.826388889,9.357940319,90.0,0.0,,,0,3,7,21,41,29,26,14,1,,,
+UBCV,2019,W,ASIA,351,,001,Modern Chinese Fiction in Translation,Christopher Rea;Meng Wu,52,72.961538462,13.272353011,88.0,0.0,2,0,0,4,3,7,10,10,12,4,0,,,
+UBCV,2019,W,ASIA,451,,001,Modern Chinese Authors in Translation,Christopher Rea;Meng Wu,29,75.413793103,7.725270413,88.0,61.0,0,0,0,1,6,4,2,8,4,4,0,,,
+UBCV,2020,S,ASIA,355,,921,History of Chinese Cinema,Christopher Rea;Dongchen Hou;Meng Wu,56,72.678571429,10.663629167,93.0,48.0,1,3,1,8,5,9,4,8,9,6,2,,,
+UBCV,2020,W,ASIA,355,,003,History of Chinese Cinema,Dongchen Hou;Meng Wu,49,77.93877551,10.530527375,96.0,55.0,0,0,1,6,1,8,1,4,11,12,5,,,
+UBCV,2021,S,ASIA,351,,921,Modern Chinese Fiction in Translation,Meng Wu;Xi Chen,33,75.0,8.212033853,90.0,55.0,0,0,2,1,1,6,7,5,7,3,1,,,
+UBCV,2021,S,ASIA,355,,951,History of Chinese Cinema,Atsumi Nakao;Meng Wu,45,75.933333333,6.084256883,85.0,50.0,0,1,0,0,3,3,11,11,15,1,0,,,
+UBCV,2021,W,ASIA,341,,001,Classical Chinese Literature in Translation,Meng Wu,23,76.217391304,10.175534481,92.0,55.0,0,0,2,1,1,2,3,5,4,3,2,,,
+UBCV,2021,W,ASIA,351,,003,Modern Chinese Fiction in Translation,Meng Wu,24,77.166666667,5.692608989,88.0,60.0,0,0,0,1,0,1,7,7,5,3,0,,,
+UBCV,2021,W,ASIA,355,,003,History of Chinese Cinema,Jeffrey Yang;Meng Wu;Renren Yang,62,74.403225806,6.312775694,91.0,55.0,0,0,1,2,4,8,19,18,6,2,2,,,
+UBCV,2021,W,ASIA,361,,001,Modern Chinese Fiction in Translation II,Meng Wu;Renren Yang,41,74.87804878,10.979970678,90.0,28.0,1,1,0,1,4,3,9,9,7,5,1,,,
+UBCV,2021,S,ASIA,351,,921,Modern Chinese Fiction in Translation,Meng Wu,33,75.0,,90.0,55.0,,,,,,6,7,,7,,,75.0,81.0,70.0
+UBCV,2021,S,ASIA,355,,951,History of Chinese Cinema,Meng Wu,45,75.9,,85.0,50.0,,,,,,,11,11,15,,,77.0,80.0,74.0
+UBCV,2021,W,ASIA,341,,001,Classical Chinese Literature in Translation,Meng Wu,23,76.2,,92.0,55.0,,,,,,,,,,,,78.0,84.0,71.0
+UBCV,2021,W,ASIA,351,,003,Modern Chinese Fiction in Translation,Meng Wu,24,77.2,,88.0,60.0,,,,,,,7,7,,,,78.0,80.0,75.0
+UBCV,2021,W,ASIA,355,,003,History of Chinese Cinema,Meng Wu,62,74.4,,91.0,55.0,,,,,,8,19,18,6,,,74.5,78.0,72.0
+UBCV,2021,W,ASIA,361,,001,Modern Chinese Fiction in Translation II,Meng Wu,41,75.8,,90.0,51.0,,,,,,,9,9,7,,,77.0,82.0,72.0
+UBCV,2022,S,ASIA,355,,951,History of Chinese Cinema,Meng Wu,52,77.4,,90.0,70.0,0,0,0,0,0,5,12,20,12,0,3,78.0,80.0,74.5
+UBCV,2022,W,ASIA,341,,001,Classical Chinese Literature in Translation,Meng Wu,44,76.3,,91.0,50.0,0,1,0,1,2,4,13,9,7,4,3,76.0,83.0,72.0
+UBCV,2022,W,ASIA,351,,001,Modern Chinese Fiction in Translation,Meng Wu,51,76.1,,92.0,0.0,2,0,0,2,1,4,9,5,19,8,1,80.0,83.0,73.5
+UBCV,2022,W,ASIA,355,,002,History of Chinese Cinema,Meng Wu,61,73.2,,95.0,23.0,1,1,2,2,6,8,13,14,8,4,2,75.0,78.0,68.0
+UBCV,2022,W,ASIA,355,,003,History of Chinese Cinema,Meng Wu,49,77.0,,91.0,29.0,1,0,1,2,0,3,11,8,15,5,3,78.0,83.0,74.0
+UBCV,2022,W,ASIA,361,,001,Modern Chinese Fiction in Translation II,Meng Wu,28,78.3,,95.0,60.0,0,0,0,1,1,5,6,1,6,6,2,79.0,86.0,71.5
+UBCV,2023,S,ASIA,341,,921,Classical Chinese Literature in Translation,Meng Wu,49,77.89,,91.0,55.0,0,0,1,0,1,1,9,15,13,4,1,78.0,80.0,75.0
+UBCV,2023,S,ASIA,375,,921,Global Chinese Cinemas,Meng Wu,42,76.13,,90.0,50.0,0,1,0,1,2,8,4,4,13,3,2,78.0,81.75,70.0
+UBCV,2023,W,ASIA,341,,011,Classical Chinese Literature in Translation,Meng Wu,41,74.8,,95.0,12.0,2,0,0,1,2,3,2,11,16,3,1,78.0,81.0,76.0
+UBCV,2023,W,ASIA,355,,021,History of Chinese Cinema,Meng Wu,60,76.6,,95.0,62.0,0,0,0,1,6,7,13,12,11,7,3,76.0,82.0,72.0

@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,APSC,278,,201,ENG MATERIALS,"Poursartip, Anoshiravan",127,66.3,18.46,98,0,114,13,0,0,0,4,0,0,2,7,13,15,9,13,11,14,19,11,4,4,14
+UBC,2003,W,APSC,278,,201,ENG MATERIALS,"Poursartip, Anoshiravan",133,69.22,12.77,94,28,122,9,2,0,0,0,0,1,0,8,9,9,12,14,16,12,11,16,16,13,3
+UBC,2006,W,APSC,278,,201,ENG MATERIALS,"Poursartip, Anoshiravan",147,69.07,12.21,95,29,138,8,0,0,1,0,0,1,5,2,8,7,14,12,16,20,20,17,23,8,1
+UBC,2009,W,APSC,278,,101,ENG MATERIALS,"Poursartip, Anoshiravan",205,67.92,13.62,92,0,187,17,1,0,0,1,1,2,4,9,17,10,10,22,24,29,30,29,19,11,3
+UBC,2009,W,MTRL,464,,101,ENG DESIGN I,"Alfantazi, Akram;Asselin, Edouard;Militzer, Matthias;Poursartip, Anoshiravan",36,75.08,13.87,86,2,35,1,0,0,0,1,0,0,0,0,1,0,1,0,1,2,7,9,14,1,0
+UBC,2009,W,MTRL,494,,201,COMP MATERIALS,"Poursartip, Anoshiravan",34,75.12,11.29,91,47,30,3,0,0,1,0,0,0,0,3,3,0,0,1,0,5,6,4,10,1,3
+UBC,2010,W,APSC,150,,101,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",200,80.06,8.25,97,46,199,1,0,0,0,0,0,0,0,1,1,0,4,5,4,13,21,40,47,44,21
+UBC,2010,W,APSC,150,,102,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",185,77.48,9.96,97,23,182,2,0,0,1,0,0,2,0,0,2,2,4,5,6,18,27,34,47,26,13
+UBC,2010,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",191,72.94,13.35,92,2,182,9,0,0,0,1,3,0,2,3,9,2,8,8,6,24,35,33,46,19,1
+UBC,2010,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",206,76.89,12.04,93,3,198,6,1,0,1,1,2,0,2,1,6,1,7,6,2,8,36,21,78,35,4
+UBC,2010,W,APSC,278,,201,ENG MATERIALS,"Poole, Warren;Poursartip, Anoshiravan",192,66.96,12.52,92,3,177,12,2,1,0,1,1,0,3,7,12,9,26,17,31,29,16,19,21,7,2
+UBC,2010,W,MTRL,465,,201,ENG DESIGN II,"Asselin, Edouard;Poursartip, Anoshiravan;Wassink, Berend;Xia, Guangrui",39,71.82,7.45,86,50,39,0,0,0,0,0,0,0,0,0,0,1,0,4,7,4,9,9,4,1,0
+UBC,2010,W,MTRL,494,,101,COMP MATERIALS,"Poursartip, Anoshiravan",36,57.4,20.66,83,0,27,8,1,0,0,1,3,0,0,4,8,5,1,4,2,6,7,0,2,0,0
+UBC,2011,W,APSC,150,,101,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",198,78.26,7.45,94,42,196,1,1,0,0,0,0,0,0,1,1,1,4,3,4,16,24,32,82,24,6
+UBC,2011,W,APSC,150,,102,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",175,76.49,7.81,93,48,174,1,0,0,0,0,0,0,0,1,1,2,3,5,7,21,28,35,51,19,3
+UBC,2011,W,APSC,150,,201,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",159,72.1,10.27,91,0,154,4,1,0,0,1,0,0,2,1,4,1,4,7,14,32,35,34,21,4,2
+UBC,2011,W,APSC,150,,202,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",178,72.58,13.83,91,0,170,8,0,0,0,3,0,0,2,3,8,4,9,7,12,17,25,39,43,13,1
+UBC,2011,W,APSC,278,,101,ENG MATERIALS,"Poole, Warren;Poursartip, Anoshiravan",174,68.49,13.07,93,0,160,12,1,0,1,1,0,1,2,8,12,9,13,14,26,25,23,18,15,13,4
+UBC,2012,W,APSC,150,,101,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",195,77.09,8.95,92,26,191,4,0,0,0,0,0,1,0,3,4,3,2,2,9,17,25,41,63,24,5
+UBC,2012,W,APSC,150,,102,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",168,75.3,11.08,91,3,161,6,1,0,0,1,0,1,1,3,6,0,1,5,14,17,28,33,39,22,2
+UBC,2012,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",167,76.13,14.09,95,2,160,7,0,0,0,2,0,2,2,1,7,4,1,2,11,12,21,27,45,23,14
+UBC,2012,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",182,81.38,14.51,97,2,176,5,1,0,0,2,2,0,0,1,5,2,4,2,3,10,13,14,29,51,48
+UBC,2012,W,APSC,278,,201,ENG MATERIALS,"Poole, Warren;Poursartip, Anoshiravan",187,68.41,13.18,97,0,174,12,1,0,0,1,0,0,3,8,12,11,18,20,23,25,22,14,21,14,6
+UBC,2013,W,APSC,150,,101,ENG CASE STUDIES,"Kwok, K Ezra;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",173,78.03,7.71,90,37,171,1,1,0,0,0,0,0,1,0,1,2,1,3,7,13,22,36,59,26,2
+UBC,2013,W,APSC,150,,102,ENG CASE STUDIES,"Kwok, K Ezra;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",191,77.32,10.46,93,19,187,4,0,0,0,0,1,2,0,1,4,1,6,5,4,11,29,40,55,28,8
+UBC,2013,W,APSC,150,,201,ENG CASE STUDIES,"Mohseni, Madjid;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",150,73.93,14.08,93,20,138,11,1,0,0,0,0,5,2,4,11,2,1,2,13,16,20,21,39,19,5
+UBC,2013,W,APSC,150,,202,ENG CASE STUDIES,"Mohseni, Madjid;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",162,78.16,10.33,93,35,158,4,0,0,0,0,0,0,1,3,4,2,5,5,3,15,9,27,45,41,6
+UBC,2013,W,APSC,278,,101,ENG MATERIALS,"Poursartip, Anoshiravan",226,68.62,14.81,100,0,200,21,2,0,3,1,0,1,3,16,21,15,22,17,26,18,29,17,28,15,13
+UBC,2014,W,APSC,150,,101,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Poursartip, Anoshiravan;Van Zyl, Dirk;Yonemitsu, Noboru",170,81.11,9.43,95,21,168,2,0,0,0,0,0,1,1,0,2,0,2,5,2,7,17,21,39,56,19
+UBC,2014,W,APSC,150,,102,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Poursartip, Anoshiravan;Van Zyl, Dirk;Yonemitsu, Noboru",196,80.44,10.13,93,7,191,4,1,0,0,1,0,0,0,3,4,1,3,5,3,8,7,31,60,57,16
+UBC,2014,W,APSC,150,,201,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Patsa, Eleni;Poursartip, Anoshiravan;Yonemitsu, Noboru",203,78.83,11.53,96,0,199,3,1,0,0,1,0,2,0,0,3,2,3,8,6,16,17,28,57,44,18
+UBC,2014,W,APSC,150,,202,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Patsa, Eleni;Poursartip, Anoshiravan;Yonemitsu, Noboru",181,82.55,9.33,96,30,175,4,2,0,0,0,0,0,2,2,4,0,0,2,3,4,10,21,46,60,29
+UBC,2014,W,APSC,278,,101,ENG MATERIALS,"Poursartip, Anoshiravan",223,70.01,14.7,100,31,200,22,0,1,0,0,0,0,2,20,22,17,22,16,14,25,22,19,21,24,20
+UBC,2014,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Cockcroft, Steven;Fernlund, Goran;Poursartip, Anoshiravan",48,76.06,9.9,90,50,48,0,0,0,0,0,0,0,0,0,0,3,1,0,4,6,7,8,7,11,1
+UBC,2015,W,APSC,278,,201,ENG MATERIALS,"Poursartip, Anoshiravan",265,69.35,10.5,92,35,249,14,2,0,0,0,0,0,1,13,14,13,14,31,35,30,40,46,28,10,2
+UBC,2015,W,MTRL,394,,201,PLYMR&P MATRX CP,"Mobuchon, Christophe;Poursartip, Anoshiravan",58,75.34,12.46,99,41,57,1,0,0,0,0,0,0,0,1,1,3,0,6,5,6,6,8,10,4,9
+UBC,2016,W,APSC,278,,101,ENG MATERIALS,"Poursartip, Anoshiravan",202,69.87,13.65,100,0,190,8,3,1,0,1,0,0,1,6,8,20,18,16,20,17,25,27,27,10,10
+UBC,2016,W,MTRL,517,,101,STDIES MTRL MANU,"Fernlund, Goran;Maijer, Daan;Poole, Warren;Poursartip, Anoshiravan",5,90,0,90,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2016,W,MTRL,594,,101,ADV COMPSIT MTRL,"Poursartip, Anoshiravan",13,83.54,2.37,87,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0
+UBC,2017,W,MTRL,466,,101,ENG PROJECT I,"Asselin, Edouard;Poursartip, Anoshiravan;Sinclair, Chadwick;Wang, Rizhi",34,80.82,10.83,96,50,34,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,2,3,6,9,7
+UBC,2017,W,MTRL,594,,101,ADV COMPSIT MTRL,"Poursartip, Anoshiravan",10,86.3,3.83,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2
+UBC,2018,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Poursartip, Anoshiravan;Zobeiry, Navid",63,78.55,14.29,100,0,61,1,0,0,1,1,0,0,0,0,1,2,0,1,2,3,11,8,10,14,10
+UBC,2018,W,MTRL,517,,101,STDIES MTRL MANU,"Maijer, Daan;Poole, Warren;Poursartip, Anoshiravan",4,88,0,88,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2018,W,MTRL,594,,101,ADV COMPSIT MTRL,"Poursartip, Anoshiravan",10,84,3.16,87,78,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,0

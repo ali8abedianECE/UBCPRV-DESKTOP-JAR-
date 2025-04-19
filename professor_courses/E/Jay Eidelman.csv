@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",41,76.17,5.06,88,55,41,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,7,19,10,1,0,,,
+UBC,2010,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",39,76.62,4.17,88,68,37,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,11,15,7,1,0,,,
+UBC,2011,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",33,74.34,3.89,83,68,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11,10,4,0,0,,,
+UBC,2012,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",43,74.49,4.67,85,64,39,0,2,0,0,0,0,0,0,0,0,0,0,0,2,9,11,12,4,1,0,,,
+UBC,2012,W,HIST,441,,99A,HIST HOLOCAUST,"Eidelman, Jay",31,74.68,6.02,83,53,28,0,1,0,0,0,0,0,0,0,0,1,0,1,0,3,8,11,4,0,0,,,
+UBC,2013,S,HIST,441,,98A,HIST HOLOCAUST,"Eidelman, Jay",50,72.07,11.73,81,0,45,1,3,0,0,1,0,0,0,0,1,0,0,2,1,6,16,15,5,0,0,,,
+UBC,2013,W,HIST,441,,99C,HIST HOLOCAUST,"Eidelman, Jay",49,73.68,5.51,81,51,44,0,3,0,2,0,0,0,0,0,0,1,0,1,2,5,14,17,4,0,0,,,
+UBC,2014,S,HIST,441,,98A,HIST HOLOCAUST,"Eidelman, Jay",51,74.14,4.57,85,64,44,0,4,0,3,0,0,0,0,0,0,0,0,0,5,4,14,16,4,1,0,,,
+UBC,2015,S,HIST,441,,921,HIST HOLOCAUST,"Eidelman, Jay",50,76.43,3.41,86,72,47,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,19,18,9,1,0,,,
+UBC,2016,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",47,76.15,4.3,88,68,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,16,8,2,0,,,
+UBC,2017,S,HIST,441,,951,HIST HOLOCAUST,"Eidelman, Jay",40,76.54,3.64,86,70,35,0,3,1,0,0,0,0,0,0,0,0,0,0,0,3,11,14,6,1,0,,,
+UBC,2018,S,HIST,441,,921,HIST HOLOCAUST,"Eidelman, Jay",43,77,4.9,84,66,40,0,2,0,1,0,0,0,0,0,0,0,0,0,1,4,10,8,17,0,0,,,
+UBCV,2014,S,HIST,441,,98A,History of the Holocaust,Jay Eidelman,44,74.13636364,4.572877111,85.0,64.0,,,,,,,,,,,0,0,0,0,5,,14,16,,,0,,,
+UBCV,2015,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,48,76.375,3.393516973,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,20,18,9,1,0,,,
+UBCV,2016,S,HIST,441,,951,History of the Holocaust,Jay Eidelman,47,76.10638298,4.264280573,88.0,68.0,,,,,,,,,,,0,0,0,0,0,4,17,16,8,2,0,,,
+UBCV,2017,S,HIST,441,,951,History of the Holocaust,Jay Eidelman,37,76.567567568,3.547616888,86.0,70.0,,,,,,,,,,,0,0,0,0,0,3,11,16,6,1,0,,,
+UBCV,2018,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,42,76.071428571,6.387460494,84.0,55.0,,,,,,,,,,,0,0,1,1,1,4,10,8,17,0,0,,,
+UBCV,2019,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,34,79.588235294,3.742610068,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,12,15,4,0,,,
+UBCV,2020,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,47,76.808510638,11.859023895,86.0,0.0,,,,,,,,,,,1,0,0,0,0,1,4,23,17,1,0,,,
+UBCV,2021,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,40,77.275,7.565059696,85.0,36.0,,,,,,,,,,,1,0,0,0,1,1,2,18,16,1,0,,,
+UBCV,2021,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,40,77.3,,85.0,36.0,,,,,,,,,,,,,,,,,,18,16,,,78.0,80.0,78.0
+UBCV,2022,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,35,76.6,,85.0,51.0,,,,,,,,,,,0,1,0,0,0,0,5,19,9,1,0,76.0,80.0,76.0
+UBCV,2023,S,HIST,441,,921,History of the Holocaust,Jay Eidelman,38,73.7,,85.0,0.0,,,,,,,,,,,2,0,0,0,0,2,4,17,9,1,0,77.0,80.0,76.0

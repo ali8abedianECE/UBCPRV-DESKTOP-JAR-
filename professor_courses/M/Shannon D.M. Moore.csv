@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,CUST,424,,951,CURRIC GLOBAL ED,"Moore, Shannon D.M.",36,89.78,1.61,93,89,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,7
+UBC,2009,S,SSED,324,,951,C&I IN CDN STUDI,"Moore, Shannon D.M.",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,334,,951,C&P IN CDN STUDI,"Clark, Penney;Moore, Shannon D.M.",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDCP,331,,105,C&P SOC STD ELEM,"Moore, Shannon D.M.",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDCP,331,,107,SOC STD ELEM C&P,"Moore, Shannon D.M.",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDCP,334,,951,CANADIAN STD C&P,"Moore, Shannon D.M.",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDCP,481,,951,MEDIA STUDIES,"Moore, Shannon D.M.",32,87.71,4.55,96,76,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,12,12
+UBC,2012,S,EDCP,481,,952,MEDIA STUDIES,"Moore, Shannon D.M.",34,90.35,2.94,95,83,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,23
+UBC,2014,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Moore, Shannon D.M.",27,91.81,4.29,99,83,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,20
+UBC,2015,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Moore, Shannon D.M.",31,91.13,4.34,98,82,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,21
+UBCV,2014,S,EDCP,496,,951,Global Education and Curriculum,Shannon D.M. Moore,27,91.81481482,4.288060679,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,20
+UBCV,2015,S,EDCP,496,,951,Global Education and Curriculum,Shannon D.M. Moore,31,91.12903226,4.341596753,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,21

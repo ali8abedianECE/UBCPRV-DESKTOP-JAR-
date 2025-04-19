@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,PHIL,125,,002,SCIENTIFC REASON,"Fazelpour, Sina",27,77.09,8.1,92,60,23,0,3,0,1,0,0,0,0,0,0,0,0,1,2,3,2,6,6,1,2
+UBC,2017,W,COGS,300,,002,DSGN COG SYSTEMS,"Fazelpour, Sina",72,81.15,8.8,96,48,71,1,0,0,0,0,0,0,0,1,1,0,1,0,2,6,7,8,16,22,9
+UBC,2018,W,COGS,300,,001,DSGN COG SYSTEMS,"Fazelpour, Sina",60,75.64,8.84,91,50,58,0,2,0,0,0,0,0,0,0,0,2,1,1,5,7,6,14,14,6,2
+UBCV,2014,W,PHIL,338,A,002,Philosophy of Law,John Woods;Sina Fazelpour,67,75.97014925,10.38788652,87.0,15.0,,,,,,,,,,,,,,,,,15,11,19,11,0
+UBCV,2014,W,PHIL,451,A,002,Philosophy of Mind,Evan Thompson;Sina Fazelpour,62,76.16129032,15.33365905,93.0,7.0,,,,,,,,,,,,,,,,,7,14,21,7,
+UBCV,2015,W,PHIL,101,,002,Introduction to Philosophy,Eric Margolis;Jasper Heaton;Madeleine Ransom;Sina Fazelpour,99,69.292929293,8.856281669,85.0,16.0,,,,,,,,,,,,,,6,18,28,23,8,8,,0
+UBCV,2015,W,PHIL,220,A,001,Symbolic Logic I,Alexandre Korolev;Sina Fazelpour,125,75.872,13.609161999,98.0,32.0,,,,,,,,,,,6,,,9,,16,12,16,17,18,21
+UBCV,2015,W,PHIL,338,A,001,Philosophy of Law,John Woods;Sina Fazelpour,86,75.61627907,10.127619318,92.0,34.0,,,,,,,,,,,,,1,,7,10,9,21,18,12,
+UBCV,2015,W,PHIL,491,A,002,Seminar for Majors in Philosophy,Eric Margolis;Jasper Heaton;Madeleine Ransom;Sina Fazelpour,22,72.045454545,11.954187442,86.0,31.0,,,,,,,,,,,,,,,,,,6,,,0
+UBCV,2016,S,PHIL,230,A,921,Introduction to Moral Theory,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,42,72.07142857,12.05150098,90.0,23.0,,,,,,,,,,,3,0,2,1,3,5,8,9,9,1,1
+UBCV,2016,S,PHIL,433,A,921,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,72,72.93055556,5.146655933,85.0,59.0,,,,,,,,,,,0,0,1,0,9,20,18,17,5,2,0
+UBCV,2016,S,PHIL,433,A,98A,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,41,65.82926829,20.38369746,85.0,0.0,,,,,,,,,,,4,0,1,5,3,10,5,6,4,3,0
+UBCV,2016,W,PHIL,101,,002,Introduction to Philosophy,Eric Margolis;Sina Fazelpour,107,72.00934579,11.66715704,89.0,0.0,,,,,,,,,,,2,1,3,2,8,22,29,23,13,4,0
+UBCV,2016,W,PHIL,125,,002,Introduction to Scientific Reasoning,Sina Fazelpour,24,74.54166667,14.77065,92.0,16.0,,,,,,,,,,,1,0,0,1,2,3,2,6,6,1,2
+UBCV,2017,S,PHIL,220,,98A,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,136,76.286764706,20.78885317,97.0,0.0,,,,,,,,,,,11,7,3,9,3,9,4,13,12,21,44
+UBCV,2017,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Colleen Kennedy;Kim De Rosa;Matthew Siu;Pamela Choi;Sina Fazelpour,72,81.152777778,8.796061414,96.0,48.0,,,,,,,,,,,1,0,1,0,2,6,7,8,16,22,9
+UBCV,2017,W,PHIL,220,,002,Symbolic Logic,Jonathan Ichikawa;Sina Fazelpour,107,79.401869159,16.661932555,100.0,13.0,,,,,,,,,,,7,2,3,4,3,4,10,6,20,15,33
+UBCV,2017,W,PHIL,220,,99A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Sina Fazelpour,295,86.437288136,14.122711702,99.0,0.0,,,,,,,,,,,9,1,3,4,2,9,3,10,29,55,170
+UBCV,2017,W,PHIL,220,,99C,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,273,90.340659341,10.16505669,100.0,9.0,,,,,,,,,,,3,0,0,0,3,1,6,11,18,39,192
+UBCV,2018,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Eric Patterson;Ignacio Iturralde;Sina Fazelpour;Theresa Kikuchi;Theresa Marie Catan Kikuchi,58,75.637931034,8.839104257,91.0,50.0,,,,,,,,,,,0,2,1,1,5,7,6,14,14,6,2
+UBCV,2018,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Sina Fazelpour,99,75.212121212,14.764320428,97.0,0.0,,,,,,,,,,,3,3,2,7,4,9,9,21,16,17,8
+UBCV,2019,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Cailean Brian Willian Harris;Cailean Harris;Eric Patterson;Marton Soskuthy;Sarp Saysel;Sina Fazelpour,60,73.8,10.57948126,92.0,24.0,,,,,,,,,,,1,1,1,2,9,9,10,10,9,7,1
+UBCV,2019,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Cailean Harris;Eric Patterson;Hannah Elbaggari;Hannah Rachel Elbaggari;Marton Soskuthy;Sina Fazelpour;Theresa Kikuchi,60,79.9,6.17457883,93.0,60.0,,,,,,,,,,,0,0,0,1,2,2,7,7,30,10,1

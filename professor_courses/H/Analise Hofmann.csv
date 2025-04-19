@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,DSCI,521,,001,Computing Platforms for Data Science,Analise Hofmann;Arjun Baghela;Jie Xiang;Joel Ostblom;Rodolfo Lourenzutti;Sean La;Tiffany Timbers;Yulia Egorova,129,92.069767442,5.705241623,100.0,53.0,0,,,,,,1,,5,22,100,,,
+UBCV,2020,W,DSCI,522,,001,Data Science Workflows,Analise Hofmann;Arjun Baghela;Eric Lee;Hossameldin Ibrahim Said Mohammed;Jordan Bourak;Stephen Kasica;Tiffany Timbers,95,94.242105263,3.120678423,99.0,86.0,0,0,0,0,0,0,0,0,0,7,88,,,
+UBCV,2020,W,DSCI,532,,001,Data Visualization II,Afshin Amini;Analise Hofmann;Christopher Nicholas Gubbels;Joel Ostblom;Man Yeung Tai;Varada Kolhatkar,95,95.8,2.076207672,98.0,91.0,0,0,0,0,0,0,0,0,0,0,95,,,
+UBCV,2020,W,DSCI,541,,001,"Privacy, Ethics, and Security",Analise Hofmann;Daisy Zhang;Edwin Max Knorr;Joel Ostblom;Mariana Cabani;Matthew Rabitsky;Tristan Pinsonneault-Marotte,95,91.578947368,5.904522153,100.0,68.0,0,0,0,0,0,2,1,0,7,18,67,,,
+UBCV,2020,W,DSCI,542,,001,Communication and Argumentation,Afshin Amini;Analise Hofmann;David Laing;Ishika Luthra;Michael Gelbart;Paul Ripoche,95,91.957894737,6.207263743,98.0,62.0,0,0,0,2,0,0,1,1,6,8,77,,,
+UBCV,2020,W,DSCI,552,,001,Statistical Inference and Computation I,Analise Hofmann;Jordan Bourak;Jordan Sicherman;Kyle Macdonald;Sophie Macdonald;Tiffany Timbers;Yulia Egorova,127,91.818897638,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95,,,
+UBCV,2021,W,SCIE,113,,V06,First-Year Seminar in Science,Analise Hofmann;Caitlin Donnelly;Lian Pharoah,25,81.2,17.802153428,95.0,0.0,1,0,0,0,0,0,3,1,6,10,4,,,
+UBCV,2021,W,SCIE,113,,V06,First-Year Seminar in Science,Caitlin Donnelly;Analise Hofmann,25,81.2,,95.0,0.0,,,,,,,,,6,10,,85.0,88.0,80.0

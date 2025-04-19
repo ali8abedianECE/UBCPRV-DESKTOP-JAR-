@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BIOL,415,,201,Evolutionary Processes in Plants,Amy Kim;Loren Rieseberg,24,86.416666667,6.652339678,95.0,69.0,0,0,0,0,0,1,1,2,4,6,10,,,
+UBCV,2021,W,CIVL,340,,201,Transportation Engineering I,Amy Kim,160,76.425,11.720299007,97.0,17.0,6,2,3,10,9,11,21,25,35,26,12,,,
+UBCV,2021,W,CIVL,440,,101,Transportation Engineering II,Amy Kim;Moein Sadeghi;Vivienne Li,38,79.894736842,7.75917756,94.0,60.0,0,0,0,1,1,3,5,8,9,7,4,,,
+UBCV,2021,W,CIVL,340,,201,Transportation Engineering I,Amy Kim,159,77.1,,97.0,42.0,,,,10,9,11,21,25,35,27,12,79.0,84.0,72.0
+UBCV,2021,W,CIVL,440,,101,Transportation Engineering II,Amy Kim,38,79.9,,94.0,60.0,,,,,,,,8,9,7,,80.5,85.0,75.3
+UBCV,2022,W,CIVL,440,,101,Transportation Engineering II,Amy Kim,42,81.1,,100.0,66.0,0,0,0,0,2,1,8,6,12,5,8,81.0,86.0,75.3
+UBCV,2023,W,CIVL,340,,201,Transportation Engineering I,Amy Kim,145,71.7,,94.0,21.0,4,4,9,7,16,29,22,16,21,11,5,72.0,80.0,67.0
+UBCV,2023,W,CIVL,586,,101,Urban Transportation System Analysis,Amy Kim,12,85.8,,95.0,75.0,0,0,0,0,0,0,1,1,2,4,4,85.5,90.8,81.5

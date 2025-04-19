@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,COSC,341,,001,Human Computer Interaction,Billy Spelchan;Mohammad Khalad Hasan;Shima Amirsadri,100,85.97,8.849419316,99.0,63.0,0,0,0,1,3,8,2,9,12,16,49,,,
+UBCO,2018,W,DATA,533,,101,Collaborative Software Development,Matthew Fritter;Mohammad Khalad Hasan,28,93.321428571,4.06478619,100.0,86.0,0,0,0,0,0,0,0,0,0,8,20,,,
+UBCO,2018,W,DATA,541,,001,Scripting and Reporting,Matthew Fritter;Matthew S Fritter;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan,28,90.321428571,5.597972989,98.0,74.0,0,0,0,0,0,0,1,0,3,7,17,,,
+UBCO,2018,W,DATA,589,,101,Special Topic,Jason Loeppky;Matthew Fritter;Matthew S Fritter;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan,28,88.571428571,6.268253767,98.0,76.0,0,0,0,0,0,0,0,2,7,5,14,,,
+UBCO,2019,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Mohammad Khalad Hasan;Pinku Nath;Zil Huma,142,76.211267606,13.496955783,98.0,1.0,4,3,2,10,14,18,13,11,24,20,23,,,
+UBCO,2019,W,COSC,341,,001,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Mohammad Khalad Hasan;Rishab Sharma;Trevor Richard;Zil Huma,101,85.217821782,9.188693009,96.0,56.0,0,0,4,0,2,3,5,7,14,26,40,,,
+UBCO,2019,W,COSC,541,,001,Advanced Human Computer Interaction,Mohammad Khalad Hasan,6,87.333333333,5.163977795,93.0,82.0,0,0,0,0,0,0,0,0,3,0,3,,,
+UBCO,2019,W,DATA,533,,101,Collaborative Software Development,Jeff Bulmer;Mohammad Khalad Hasan,35,89.685714286,6.206123298,99.0,71.0,0,0,0,0,0,1,0,1,4,10,19,,,
+UBCO,2019,W,DATA,541,,001,Scripting and Reporting,Jeff Bulmer;Mohammad Khalad Hasan,35,90.2,5.587801841,98.0,72.0,0,0,0,0,0,0,1,0,4,6,24,,,
+UBCO,2019,W,DATA,589,,101,Special Topic,Jeff Bulmer;Mohammad Khalad Hasan,35,86.4,8.451244252,98.0,68.0,0,0,0,0,0,3,3,1,5,7,16,,,
+UBCO,2020,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Karanmeet Khatra;Mohammad Khalad Hasan;Pinku Nath;Zhilin Feng;Zil Huma,177,78.480225989,11.240192895,98.0,42.0,1,3,2,14,17,12,16,13,29,40,30,,,
+UBCO,2020,W,DATA,533,,101,Collaborative Software Development,Debangsha Sarkar;Mohammad Khalad Hasan,31,90.064516129,5.131182345,98.0,77.0,0,0,0,0,0,0,0,2,2,8,19,,,
+UBCO,2020,W,DATA,541,,001,Scripting and Reporting,Debangsha Sarkar;Mohammad Khalad Hasan,32,92.125,3.949275148,97.0,79.0,0,0,0,0,0,0,0,1,0,6,25,,,
+UBCO,2020,W,DATA,589,,101,Special Topic,Mohammad Khalad Hasan;Yiming Ding,31,92.290322581,6.583785883,100.0,75.0,0,0,0,0,0,0,1,0,5,3,22,,,
+UBCO,2021,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Marium-E- Jannat;Mohamad Khajezade;Mohammad Khalad Hasan;Ramin Shahbazi;Reece Walsh;Sohan Chowdhury,194,77.840206186,13.946241418,99.0,20.0,7,5,5,8,10,17,24,22,25,34,37,,,
+UBCO,2021,W,DATA,533,,101,Collaborative Software Development,A.K.M Amanat Ullah;Corey Bond;Mohammad Khalad Hasan,31,92.451612903,5.012243075,99.0,75.0,0,0,0,0,0,0,1,0,1,4,25,,,
+UBCO,2021,W,DATA,541,,001,Scripting and Reporting,A.K.M Amanat Ullah;Mohammad Khalad Hasan,31,93.709677419,4.927430354,100.0,78.0,0,0,0,0,0,0,0,1,1,1,28,,,
+UBCO,2021,W,DATA,589,,101,Special Topic,Corey Bond;Mohammad Khalad Hasan,30,90.7,6.550335606,97.0,71.0,0,0,0,0,0,1,1,2,0,3,23,,,
+UBCO,2021,W,IGS,520,B,001,Special Topics in Interdisciplinary Studies,Ahmed Shariff Mohommed Faleel;Mohammad Khalad Hasan;Pourang Irani,11,88.181818182,6.400284085,97.0,72.0,0,0,0,0,0,0,1,0,0,5,5,,,
+UBCO,2021,W,COSC,222,,001,Data Structures,Mohammad Khalad Hasan,194,77.8,,99.0,20.0,7,,,8,10,17,24,22,25,34,37,79.0,88.0,71.0
+UBCO,2021,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,31,92.5,,99.0,75.0,,,,,,,,,,,25,94.0,95.5,91.0
+UBCO,2021,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,31,93.7,,100.0,78.0,,,,,,,,,,,28,95.0,97.0,92.0
+UBCO,2021,W,DATA,589,,101,Special Topic,Mohammad Khalad Hasan,30,90.7,,97.0,71.0,,,,,,,,,,,23,93.0,95.0,90.0
+UBCO,2022,W,COSC,341,,101,Human Computer Interaction,Mohammad Khalad Hasan,187,84.3,,100.0,27.0,3,1,0,1,5,7,12,18,32,46,62,87.0,91.5,79.5
+UBCO,2022,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,30,92.6,,96.0,83.0,0,0,0,0,0,0,0,0,1,4,25,94.0,94.0,92.0
+UBCO,2022,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,30,93.0,,98.0,81.0,0,0,0,0,0,0,0,0,1,3,26,93.0,95.0,91.3
+UBCO,2023,W,COSC,341,,101,Human Computer Interaction,Mohammad Khalad Hasan,145,82.8,,99.0,13.0,2,0,1,1,4,9,14,13,25,34,41,85.0,90.0,78.0
+UBCO,2023,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,40,94.9,,99.0,85.0,0,0,0,0,0,0,0,0,0,4,36,96.0,98.0,93.0
+UBCO,2023,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,40,93.1,,100.0,83.0,0,0,0,0,0,0,0,0,2,8,30,94.0,97.0,89.8

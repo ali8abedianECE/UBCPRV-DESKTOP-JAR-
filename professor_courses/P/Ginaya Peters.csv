@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,EPSE,303,,63A,Teaching Highly Able Learners,David Nicks;Ginaya Peters,28,88.357142857,5.215463374,98.0,76.0,0,0,0,0,0,0,0,2,4,8,14,,,
+UBCV,2020,W,EPSE,390,A,63C,Special Topics,David Nicks;Ginaya Peters,11,85.727272727,9.45611875,97.0,65.0,0,0,0,0,1,0,0,0,4,2,4,,,
+UBCV,2021,S,EPSE,408,,951,Educational Programming for Highly Able Learners,David Nicks;Ginaya Peters,29,90.793103448,8.195727591,99.0,69.0,0,0,0,0,0,1,2,2,1,1,22,,,
+UBCV,2021,W,EPSE,303,,63A,Teaching Highly Able Learners,Chih Shen Lo;Ginaya Peters,34,91.5,5.695559142,100.0,70.0,0,0,0,0,0,1,0,0,3,4,26,,,
+UBCV,2021,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Ginaya Peters,30,91.933333333,4.806126359,98.0,74.0,0,0,0,0,0,0,1,0,1,3,25,,,
+UBCV,2021,S,EPSE,408,,951,Educational Programming for Highly Able Learners,Ginaya Peters,29,90.8,,99.0,69.0,,,,,,,,,,,22,94.0,96.0,90.0
+UBCV,2021,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Ginaya Peters,30,92.0,,99.0,74.0,,,,,,,,,,,25,92.0,94.0,91.0
+UBCV,2022,W,EPSE,303,,63A,Teaching Highly Able Learners,Ginaya Peters,35,90.1,,98.0,47.0,1,0,0,0,0,0,0,1,2,6,25,92.0,94.0,89.0
+UBCV,2022,W,EPSE,390,A,63C,Special Topics,Ginaya Peters,18,90.6,,99.0,71.0,0,0,0,0,0,1,0,0,2,3,12,93.0,96.0,86.3
+UBCV,2023,W,EPSE,303,,63A,Teaching Highly Able Learners,Ginaya Peters,36,91.2,,98.0,77.0,0,0,0,0,0,0,0,2,1,7,26,92.0,94.0,89.0
+UBCV,2023,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Ginaya Peters,33,91.2,,100.0,76.0,0,0,0,0,0,0,0,1,4,4,24,92.0,95.0,89.0

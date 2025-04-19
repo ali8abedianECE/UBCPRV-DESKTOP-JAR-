@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,ASTU,150,,03C,ARTS STUDIES WRT,"Tastekin, Emel",27,68.37,20.33,86,0,25,2,0,0,0,2,0,0,0,0,2,0,1,2,3,6,1,3,7,2,0
+UBC,2010,W,ASTU,150,,04Q,ARTS STUDIES WRT,"Tastekin, Emel",19,75.32,8.01,88,51,19,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,4,6,3,2,0
+UBC,2010,W,ASTU,150,,06D,ARTS STUDIES WRT,"Tastekin, Emel",25,73.04,9.58,91,51,24,0,1,0,0,0,0,0,0,0,0,2,0,0,3,5,6,1,4,2,1
+UBC,2010,W,ASTU,150,,06P,ARTS STUDIES WRT,"Tastekin, Emel",19,74.67,12.68,92,32,17,1,1,0,0,0,0,0,1,0,1,0,0,0,0,4,4,3,3,2,1
+UBC,2011,S,ASTU,150,,921,ARTS STUDIES WRT,"Tastekin, Emel",14,73.08,11.79,87,50,13,0,1,0,0,0,0,0,0,0,0,2,0,0,0,5,0,1,2,3,0
+UBC,2011,W,ASTU,150,,03B,ARTS STUDIES WRT,"Tastekin, Emel",30,75.43,10.9,88,42,28,2,0,0,0,0,0,0,0,2,2,0,0,0,3,3,3,5,7,7,0
+UBC,2011,W,ASTU,150,,05B,ARTS STUDIES WRT,"Tastekin, Emel",29,74.66,7.53,86,57,29,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,7,4,8,2,0
+UBC,2011,W,ASTU,150,,08A,ARTS STUDIES WRT,"Tastekin, Emel",28,74.89,17.58,88,0,26,2,0,0,0,1,0,0,0,1,2,0,1,0,1,1,2,7,9,5,0
+UBC,2012,W,ASTU,150,,04N,ARTS STUDIES WRT,"Tastekin, Emel",31,69.35,16.03,85,0,29,2,0,0,0,1,0,0,0,1,2,1,0,1,4,7,3,4,8,1,0
+UBC,2012,W,ASTU,150,,07M,ARTS STUDIES WRT,"Tastekin, Emel",28,68.42,10.25,83,46,25,1,2,0,0,0,0,0,0,1,1,2,2,2,3,6,3,2,5,0,0
+UBC,2013,S,ASTU,150,,921,ARTS STUDIES WRT,"Tastekin, Emel",25,66.63,21.42,88,0,22,2,1,0,0,2,0,0,0,0,2,0,2,2,3,4,3,1,4,3,0
+UBC,2016,W,WRDS,150,,07P,RSRCH&WRIT HUMAN,"Tastekin, Emel",28,77.57,9.81,93,53,28,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,3,4,9,4,2
+UBC,2016,W,WRDS,150,,08M,RSRCH&WRIT HUMAN,"Tastekin, Emel",28,77.77,13.55,93,26,25,1,2,0,0,0,0,1,0,0,1,0,0,1,1,2,4,2,5,7,3
+UBC,2017,S,WRDS,150,,M01,RSRCH&WRIT HUMAN,"Tastekin, Emel",32,79.36,16,99,13,27,1,4,0,0,0,1,0,0,0,1,0,1,0,0,3,2,2,7,5,7
+UBC,2017,W,ASTU,100,,I04,CAP SEMINAR,"Tastekin, Emel",26,74.42,17.97,93,8,25,1,0,0,0,1,0,0,0,0,1,2,0,2,2,1,2,4,4,3,5
+UBC,2017,W,ASTU,100,,I05,CAP SEMINAR,"Tastekin, Emel",21,78.74,9.81,93,62,19,0,2,0,0,0,0,0,0,0,0,0,0,1,0,5,3,3,1,0,6
+UBC,2017,W,WRDS,150,,11A,RSRCH&WRIT HUMAN,"Tastekin, Emel",30,78.13,13.27,96,28,29,1,0,0,0,0,0,1,0,0,1,0,0,1,3,1,4,6,2,7,5
+UBC,2018,W,ASTU,100,,I04,CAP SEMINAR,"Tastekin, Emel",25,81.72,11.3,97,51,25,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,5,6,2,8
+UBC,2018,W,ASTU,100,,I05,CAP SEMINAR,"Tastekin, Emel",24,78.9,9.78,93,51,21,0,2,0,1,0,0,0,0,0,0,1,1,0,0,1,2,1,9,5,1
+UBCV,2016,W,WRDS,150,,07P,Research and Writing in the Humanities and Social Sciences,Emel Tastekin,28,77.57142857,9.807134861,93.0,53.0,,,,,,,,,,,0,1,0,3,1,1,3,4,9,4,2
+UBCV,2016,W,WRDS,150,,08M,Research and Writing in the Humanities and Social Sciences,Emel Tastekin,26,77.76923077,13.54786387,93.0,26.0,,,,,,,,,,,1,0,0,1,1,2,4,2,5,7,3
+UBCV,2017,S,WRDS,150,,M01,Research and Writing in the Humanities and Social Sciences,Emel Tastekin,28,79.357142857,16.000496024,99.0,13.0,,,,,,,,,,,1,0,1,0,0,3,2,2,7,5,7
+UBCV,2017,W,ASTU,100,,I04,1st Year CAP Seminar,Emel Tastekin,26,74.423076923,17.973698733,93.0,8.0,,,,,,,,,,,1,2,0,2,2,1,2,4,4,3,5
+UBCV,2017,W,ASTU,100,,I05,1st Year CAP Seminar,Emel Tastekin,19,78.736842105,9.814060804,93.0,62.0,,,,,,,,,,,0,0,0,1,0,5,3,3,1,0,6
+UBCV,2017,W,WRDS,150,,11A,Research and Writing in the Humanities and Social Sciences,Emel Tastekin,30,78.133333333,13.268405131,96.0,28.0,,,,,,,,,,,1,0,0,1,3,1,4,6,2,7,5
+UBCV,2018,W,ASTU,100,,I04,1st Year CAP Seminar,Emel Tastekin,25,81.72,11.304571347,97.0,51.0,,,,,,,,,,,0,1,0,1,1,1,0,5,6,2,8
+UBCV,2018,W,ASTU,100,,I05,1st Year CAP Seminar,Emel Tastekin,22,77.636363636,11.24847272,93.0,51.0,,,,,,,,,,,0,2,1,0,0,1,2,1,9,5,1
+UBCV,2019,W,ASTU,100,,G01,1st Year CAP Seminar,Emel Tastekin;Kirby Mania;Laurie Mcneill;Stephen Ney;Tamara Gene Myers;Tamara Myers,16,74.5,12.649110641,86.0,34.0,,,,,,,,,,,1,0,0,0,2,1,2,4,4,2,0
+UBCV,2019,W,ASTU,100,,I04,1st Year CAP Seminar,Emel Tastekin;Meredith Beales,21,75.428571429,13.39989339,85.0,24.0,,,,,,,,,,,1,0,0,1,1,1,1,5,10,1,0
+UBCV,2019,W,ASTU,100,,I05,1st Year CAP Seminar,Emel Tastekin;Fenn Stewart;Meredith Beales;Sean Mcalister,19,69.947368421,19.460711658,85.0,22.0,,,,,,,,,,,3,0,0,0,1,0,4,4,4,3,0

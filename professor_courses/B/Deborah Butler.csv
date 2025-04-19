@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,EDCI,572,A,053,AD SEM C-F INQRY,"Butler, Deborah;Vellani, Al-Munir",14,88.38,1.71,92,86,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,,,
+UBC,2013,W,EDUC,451,A,110,INQUIRY SEMNR 2,"Butler, Deborah",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2013,W,EPSE,501,,62A,"HN DEV, LRN, CUL","Butler, Deborah",20,89.55,2.52,94,85,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,,,
+UBC,2013,W,EPSE,565,H,075,SP CRSE: SUBJ FL,"Butler, Deborah",18,90.4,4.07,95,82,15,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,10,,,
+UBC,2014,W,EDUC,451,A,110,INQUIRY SEMNR 2,"Butler, Deborah",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,EDUC,490,R,67A,SPEC STUDIES ED,"Butler, Deborah",5,88.2,3.56,91,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,,,
+UBC,2014,W,EPSE,565,R,62R,SP CRSE: SUBJ FL,"Butler, Deborah",20,90.68,2.19,95,87,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,13,,,
+UBC,2015,S,EPSE,565,I,951,SP CRSE: SUBJ FL,"Butler, Deborah",16,88,2,90,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,,,
+UBC,2015,S,EPSE,598,B,67A,FIELD EXPERIENCE,"Butler, Deborah;Perry, Nancy",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,EDUC,451,A,110,INQUIRY SEMNR 2,"Butler, Deborah",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,EPSE,565,R,075,SP CRSE: SUBJ FL,"Butler, Deborah",14,91.43,2.59,96,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,,,
+UBC,2015,W,EPSE,598,B,67A,FIELD EXPERIENCE,"Butler, Deborah",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,EPSE,501,,62A,"HN DEV, LRN, CUL","Butler, Deborah",22,91.14,3.69,94,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21,,,
+UBC,2016,W,EPSE,565,R,075,SP CRSE: SUBJ FL,"Butler, Deborah",20,93.75,1.45,96,90,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,,,
+UBC,2018,W,EPSE,565,I,62A,SP CRSE: SUBJ FL,"Butler, Deborah;MacNeil, Kimberley",21,95.86,0.91,98,94,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,,,
+UBC,2018,W,EPSE,565,R,074,SP CRSE: SUBJ FL,"Butler, Deborah",19,94.72,2.47,99,89,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,,,
+UBC,2018,W,EPSE,565,R,61A,SP CRSE: SUBJ FL,"Butler, Deborah",21,95.48,1.03,98,93,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,,,
+UBC,2018,W,EPSE,598,B,67C,FIELD EXPERIENCE,"Butler, Deborah",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EDUC,490,R,67A,Special Studies in Education,Deborah Butler,5,88.2,3.563705936,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2014,W,EPSE,565,R,62R,Special Course in Subject Matter Field,Deborah Butler,19,90.68421053,2.187150139,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,13,,,
+UBCV,2015,W,EPSE,565,R,075,Special Course in Subject Matter Field,Deborah Butler,14,91.428571429,2.593313465,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10,,,
+UBCV,2016,W,EPSE,501,,62A,"Seminar in Human Development, Learning and Culture",Deborah Butler,22,91.13636364,3.694209814,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,21,,,
+UBCV,2016,W,EPSE,565,R,075,Special Course in Subject Matter Field,Deborah Butler,20,93.75,1.446411167,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,,,
+UBCV,2018,W,EPSE,565,I,62A,Special Course in Subject Matter Field,Deborah Butler;Kimberley Macneil,21,95.857142857,0.91025899,98.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,21,,,
+UBCV,2018,W,EPSE,565,R,074,Special Course in Subject Matter Field,Deborah Butler,18,94.722222222,2.468759049,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,17,,,
+UBCV,2018,W,EPSE,565,R,61A,Special Course in Subject Matter Field,Deborah Butler,21,95.476190476,1.030487633,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,21,,,
+UBCV,2019,S,EPSE,565,R,951,Special Course in Subject Matter Field,Deborah Butler,11,95.181818182,0.873862898,96.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2020,S,EPSE,583,,951,Fostering Self-Regulated Learning,Deborah Butler;Silvia Mazabel Ortega,25,94.6,1.802775638,98.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,25,,,
+UBCV,2020,W,EPSE,604,A,074,"Advanced Topics in Human Development, Learning, and Culture",Deborah Butler,10,96.7,1.059349905,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2021,S,EPSE,583,,951,Fostering Self-Regulated Learning,Deborah Butler,20,95.5,1.192079121,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,,,
+UBCV,2021,S,EPSE,583,,951,Fostering Self-Regulated Learning,Deborah Butler,20,95.5,,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,95.0,96.0,95.0
+UBCV,2022,S,EPSE,583,,951,Fostering Self-Regulated Learning,Deborah Butler,20,94.7,,96.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,95.0,95.0,94.0
+UBCV,2022,W,EPSE,583,,074,Fostering Self-Regulated Learning,Deborah Butler;Silvia Mazabel Ortega;Kimberley Sinclair,18,94.6,,97.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,95.0,96.0,93.3
+UBCV,2023,S,EPSE,583,,951,Fostering Self-Regulated Learning,Deborah Butler;Simon Lisaingo,18,95.06,,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,95.5,96.0,94.0
+UBCV,2023,W,EPSE,583,,074,Fostering Self-Regulated Learning,Deborah Butler;Silvia Mazabel Ortega;Kimberley Sinclair,13,93.7,,95.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,94.0,95.0,93.0

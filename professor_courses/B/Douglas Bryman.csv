@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,PHYS,301,,101,ELEC & MAGNETISM,"Bryman, Douglas",51,70.39,16.53,96,16,48,1,2,0,0,0,1,0,0,0,1,5,6,8,6,0,1,4,5,6,7,,,
+UBC,2003,W,PHYS,301,,101,ELEC & MAGNETISM,"Bryman, Douglas",75,66.81,14.99,96,33,64,8,2,1,0,0,0,0,2,6,8,8,6,10,4,5,11,4,7,2,7,,,
+UBC,2003,W,PHYS,531,,101,Part Det Tech,"Bryman, Douglas",7,81.71,5.12,87,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,0,,,
+UBC,2005,W,PHYS,454,,201,ELECMAGNET THEOR,"Bryman, Douglas",54,70.51,16.09,99,27,47,6,1,0,0,0,0,1,1,4,6,2,4,4,5,4,4,9,7,3,5,,,
+UBC,2006,W,PHYS,454,,201,ELECMAGNET THEOR,"Bryman, Douglas",55,72.34,12.51,95,44,51,2,1,0,1,0,0,0,0,2,2,1,5,7,4,5,7,6,6,5,5,,,
+UBC,2007,W,PHYS,531,,101,Part Det Tech,"Bryman, Douglas",8,79.86,2.27,83,77,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,,,
+UBC,2009,W,PHYS,531,,101,Part Det Tech,"Bryman, Douglas",12,76.83,5.8,81,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,6,0,0,,,
+UBC,2010,W,PHYS,401,,201,ELECTROMAG THEOR,"Bryman, Douglas",83,68.63,16.37,97,31,70,12,0,0,0,0,0,0,6,6,12,3,7,6,6,8,7,9,9,8,7,,,
+UBC,2011,W,PHYS,401,,201,ELECTROMAG THEOR,"Bryman, Douglas",71,69.63,14.38,95,28,66,5,0,0,0,0,0,2,0,3,5,3,6,12,5,7,4,10,7,8,4,,,
+UBC,2012,W,PHYS,401,,201,ELECTROMAG THEOR,"Bryman, Douglas",86,68.3,14.15,97,25,79,5,1,0,0,0,0,3,2,0,5,6,8,5,7,13,17,8,6,6,3,,,
+UBC,2013,W,PHYS,531,,101,Part Det Tech,"Bryman, Douglas",12,80.25,7.02,91,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,2,1,,,
+UBC,2014,W,PHYS,301,,101,ELEC & MAGNETISM,"Bryman, Douglas",153,65.26,14.8,98,23,128,20,5,0,0,0,0,3,5,12,20,10,21,13,9,17,18,14,14,8,4,,,
+UBC,2015,W,PHYS,301,,101,ELEC & MAGNETISM,"Bryman, Douglas",160,71.67,12.62,98,32,146,6,7,0,1,0,0,0,2,4,6,9,8,14,15,15,26,15,21,17,6,,,
+UBC,2015,W,PHYS,301,,T1A,ELEC & MAGNETISM,"Bryman, Douglas",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,PHYS,301,,101,ELEC & MAGNETISM,"Bryman, Douglas",163,70.66,15.28,98,14,145,10,7,0,1,0,1,0,5,4,10,14,14,11,13,9,10,24,22,16,12,,,
+UBC,2017,W,PHYS,531,,101,Part Det Tech,"Bryman, Douglas",14,85.7,5.4,94,80,10,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,4,,,
+UBC,2018,W,PHYS,109,,L0A,ENRCH EXPER PHYS,"Bryman, Douglas",21,85.86,4.5,93,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,7,,,
+UBC,2018,W,PHYS,109,,L0B,ENRCH EXPER PHYS,"Bryman, Douglas",11,81.1,13.61,91,46,9,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,5,2,,,
+UBC,2018,W,PHYS,109,,L0D,ENRCH EXPER PHYS,"Bryman, Douglas",9,83,5.5,92,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,2,,,
+UBCV,2014,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman,148,65.26351351,14.80134278,98.0,23.0,,,,,,,,,,,20,10,21,13,9,17,18,14,14,8,4,,,
+UBCV,2015,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Emmanuel Fonseca;Huai Che Yeh;Qingdi Wang;Steffen Cruz;Xunyu Liang,153,71.352941176,13.183657441,98.0,23.0,,,,,,,,,,,7,9,8,14,15,15,26,15,21,17,6,,,
+UBCV,2016,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Joerg Rottler,156,70.33974359,15.7453513,98.0,14.0,,,,,,,,,,,11,14,14,11,13,9,10,24,22,16,12,,,
+UBCV,2017,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Graham Reid;James Gordon;Joerg Rottler;Leo Sporn;Xunyu Liang,180,70.661111111,18.06789303,100.0,0.0,,,,,,,,,,,13,14,19,11,8,18,13,14,28,17,25,,,
+UBCV,2017,W,PHYS,531,,101,Particle Detection Techniques,Douglas Bryman,11,79.363636364,21.629945572,94.0,16.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,1,4,,,
+UBCV,2018,W,PHYS,109,,L0A,Enriched Experimental Physics,Douglas Bryman;Jacobus Philip Haupt;Joss Ives;Zoe Gidden;Zoe Louise Gidden,22,85.090909091,5.672902095,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,10,4,7,,,
+UBCV,2018,W,PHYS,109,,L0B,Enriched Experimental Physics,Austin De St Croix;Douglas Bryman;Grace Ng;Joss Ives,10,81.1,13.609228895,91.0,46.0,,,,,,,,,,,1,0,0,0,0,0,1,1,0,5,2,,,
+UBCV,2018,W,PHYS,109,,L0C,Enriched Experimental Physics,Derek Fujimoto;Douglas Bryman;Joss Ives;Samantha Cibere,13,88.846153846,2.609155478,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2018,W,PHYS,109,,L0D,Enriched Experimental Physics,Austin De St Croix;Douglas Bryman;Helena Kanya Winata;Helena Winata;Joss Ives,9,83.0,5.5,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,1,2,,,
+UBCV,2019,W,PHYS,109,,L0A,Enriched Experimental Physics,Caleb Sample;Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Joss Ives;Riley Zurrin;Valery Milner,22,90.454545455,3.097268731,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,15,,,
+UBCV,2019,W,PHYS,109,,L0B,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Gareth William Maddock Smith;Joss Ives;Valery Milner,21,88.571428571,6.144684114,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,1,14,,,
+UBCV,2019,W,PHYS,109,,L0C,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Hannah Xiao;Joss Ives;Valery Milner,7,85.142857143,5.4902511,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,2,,,
+UBCV,2020,W,PHYS,531,,201,Particle Detection Techniques,Douglas Bryman,14,82.428571429,7.334998146,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,0,3,6,2,,,
+UBCV,2021,W,PHYS,129,,L0A,Experimental Physics Lab II,Connor Bevington;Conor Waterfield;Douglas Bryman;Gareth William Maddock Smith;Helena Marie Koniar;Lucas Polson;Mariposa Casida;Ryohei Kang Weil;Yunting Wang,9,82.222222222,11.691639938,90.0,52.0,,,,,,,,,,,0,1,0,0,0,0,0,0,2,5,1,,,
+UBCV,2021,W,PHYS,129,,L0A,Experimental Physics Lab II,Douglas Bryman,14,78.8,,90.0,52.0,,,,,,,,,,,,,,,,,,,,6,,84.5,86.8,78.5
+UBCV,2022,W,PHYS,129,,L0A,Experimental Physics Lab II,Douglas Bryman;Carl Michal,20,79.0,,92.0,51.0,,,,,,,,,,,0,1,0,1,0,3,0,3,4,5,3,82.0,86.3,74.8
+UBCV,2022,W,PHYS,129,,L0C,Experimental Physics Lab II,Douglas Bryman;Carl Michal,9,83.4,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,0,3,82.0,90.0,80.0
+UBCV,2022,W,PHYS,129,,L0D,Experimental Physics Lab II,Douglas Bryman;Carl Michal,11,79.3,,91.0,61.0,,,,,,,,,,,0,0,0,1,1,0,1,1,3,2,2,82.0,86.0,75.0
+UBCV,2023,W,PHYS,129,,L0A,Experimental Physics Lab II,Douglas Bryman,16,90.1,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,11,91.0,93.0,87.8
+UBCV,2023,W,PHYS,129,,L0C,Experimental Physics Lab II,Douglas Bryman,11,89.6,,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,9,91.0,92.0,90.0
+UBCV,2023,W,PHYS,129,,L0D,Experimental Physics Lab II,Douglas Bryman,13,83.7,,98.0,58.0,,,,,,,,,,,0,0,1,1,0,0,0,1,3,2,5,85.0,93.0,80.0

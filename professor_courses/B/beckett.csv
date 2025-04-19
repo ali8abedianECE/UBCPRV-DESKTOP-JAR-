@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,OCCH,508,B,001,SAFETY,"Beckett, John",12,82.17,7.6,92,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,6,0,3
+UBC,2010,W,MUSC,417,A,001,FILM MUS SCORING,"Beckett, Hal",13,85.67,11.3,93,53,12,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,2,7
+UBC,2012,W,MUSC,417,A,001,FILM MUS SCORING,"Beckett, Hal",12,88.33,6.14,97,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,6

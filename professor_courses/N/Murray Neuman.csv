@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,PHYS,216,,001,Mechanics I,Dylan Sharhon;Murray Neuman,78,69.76923077,14.41042469,100.0,0.0,5,,,10,7,12,15,,11,,6
+UBCO,2014,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman,30,74.03333333,14.07243168,97.0,50.0,0,,,7,,,,,,,7
+UBCO,2014,W,PHYS,308,,001,Optics,Murray Neuman,15,73.73333333,9.938860718,91.0,60.0,0,0,0,,,,,,,,
+UBCO,2014,W,PHYS,314,,001,Fluids,Murray Neuman,17,72.94117647,22.10902132,99.0,0.0,,,,,,,,,,,
+UBCO,2014,W,PHYS,328,,001,Advanced Mechanics,Murray Neuman;Xing Ai,21,72.76190476,19.14916385,93.0,0.0,,,,,,5,,,,,
+UBCO,2015,W,PHYS,216,,001,Mechanics I,Eric Nadeau;Murray Neuman,72,68.125,14.815235306,97.0,0.0,,,,12,11,14,10,7,6,,
+UBCO,2015,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman;Xing Ai,33,70.03030303,13.687322712,98.0,35.0,,,,,,8,10,,,,
+UBCO,2015,W,PHYS,320,,001,Environmental Physics,Murray Neuman,29,71.0,20.285462775,100.0,0.0,,,,,,,,,,,6
+UBCO,2015,W,PHYS,328,,001,Advanced Mechanics,Murray Neuman;Nolan Hunka,20,73.3,12.187569163,95.0,45.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman,19,72.42105263,12.69871293,95.0,50.0,0,1,2,2,3,0,3,1,3,2,2
+UBCO,2016,W,PHYS,308,,001,Optics,Murray Neuman,20,71.95,12.53825725,95.0,50.0,0,2,2,2,0,1,4,2,5,0,2
+UBCO,2016,W,PHYS,314,,001,Fluids,Murray Neuman,24,72.0,11.4701882,95.0,50.0,0,1,0,5,4,4,2,2,1,3,2
+UBCO,2016,W,PHYS,328,,001,Advanced Mechanics,Murray Neuman,29,70.86206897,11.63346201,95.0,50.0,0,1,4,4,2,4,3,4,4,1,2
+UBCO,2017,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman,19,68.105263158,14.8320027,88.0,35.0,3,0,1,2,3,2,0,4,1,3,0
+UBCO,2017,W,PHYS,320,,001,Environmental Physics,Murray Neuman,32,69.40625,21.483466073,98.0,0.0,2,1,1,4,3,3,6,2,3,4,3
+UBCO,2017,W,PHYS,328,,101,Advanced Mechanics,Murray Neuman,18,69.833333333,24.408894232,98.0,0.0,2,0,2,3,0,1,1,1,3,1,4
+UBCO,2017,W,PHYS,402,,101,Advanced Quantum Mechanics,Murray Neuman,21,72.666666667,9.504384953,92.0,58.0,0,0,1,2,5,3,2,1,5,1,1
+UBCO,2018,W,PHYS,408,,001,Optics,Murray Neuman,22,73.454545455,9.011776807,99.0,50.0,0,1,0,0,2,5,8,3,1,1,1

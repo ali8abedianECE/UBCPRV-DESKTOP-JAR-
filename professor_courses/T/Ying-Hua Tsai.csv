@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,CHIN,131,,002,BASIC CHIN I 1,"Tsai, Ying-Hua",30,82.6,8.62,96,68,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,4,4,6,9
+UBC,2018,W,CHIN,133,,007,BASIC CHIN I 2,"Tsai, Ying-Hua",20,83.37,10.1,94,50,19,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,2,7,5
+UBC,2018,W,CHIN,331,,001,INT CHINESE I: 1,"Tsai, Ying-Hua",21,80.05,9.67,94,54,21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,3,2,6,3
+UBC,2018,W,CHIN,331,,002,INT CHINESE I: 1,"Tsai, Ying-Hua",16,79.06,4.55,85,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,6,2,0
+UBC,2018,W,CHIN,333,,001,INT CHINESE I: 2,"Tsai, Ying-Hua",22,81.57,6.14,93,64,21,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,4,8,6,1
+UBC,2018,W,CHIN,405,,001,CHIN SPK&WRT I,"Tsai, Ying-Hua",12,80.82,5.21,90,73,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,2,1
+UBC,2018,W,CHIN,407,,001,AD CHIN SP&WR II,"Tsai, Ying-Hua",9,80.88,4.39,87,74,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,1,0
+UBCV,2018,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Jiao Jiao Han;Ming Zhu Lu;Qian Wang;Ying-Hua Tsai,30,82.6,8.624743874,96.0,68.0,,,,,,,,,,,0,0,0,0,0,6,1,4,4,6,9
+UBCV,2018,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin;Jiao Jiao Han;Ming Zhu Lu;Miru Wang;Qian Wang;Siang Hu;Ying-Hua Tsai,19,83.368421053,10.095161252,94.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,2,2,7,5
+UBCV,2018,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Qian Wang;Ying-Hua Tsai;Yu-Chi Kuo;Ziwei Yin,21,80.047619048,9.666830869,94.0,54.0,,,,,,,,,,,0,1,0,0,0,2,4,3,2,6,3
+UBCV,2018,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Qian Wang;Ying-Hua Tsai;Ziwei Yin,16,79.0625,4.55292946,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,5,6,2,0
+UBCV,2018,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Qian Wang;Ying-Hua Tsai;Yu-Chi Kuo;Ziyu Wang,21,81.571428571,6.136541604,93.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,4,8,6,1
+UBCV,2018,W,CHIN,405,,001,Advanced Chinese Speaking and Writing I (Non-Heritage),Duanduan Li;Qian Wang;Xinxin Wu;Ying-Hua Tsai;Yongli Shi,11,80.818181818,5.211874554,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,3,2,1
+UBCV,2018,W,CHIN,407,,001,Advanced Chinese Speaking and Writing II (Non-Heritage),Duanduan Li;Qian Wang;Ying-Hua Tsai,8,80.875,4.389516732,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,1,0
+UBCV,2019,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Li-Jung Lee;Qian Wang;Ying-Hua Tsai,29,80.896551724,7.598612785,90.0,60.0,,,,,,,,,,,0,0,0,1,1,2,1,5,6,11,2
+UBCV,2019,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Pi-Hua Lin;Qian Wang;Ying-Hua Tsai,17,79.411764706,15.656703131,93.0,46.0,,,,,,,,,,,1,0,2,1,0,0,2,1,0,3,7
+UBCV,2019,W,CHIN,131,,005,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Qian Wang;Xinxin Wu;Ying-Hua Tsai,24,81.291666667,8.426042274,92.0,60.0,,,,,,,,,,,0,0,0,1,0,3,2,2,5,5,6
+UBCV,2019,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Jun Wu;Li-Jung Lee;Qian Wang;Shiyang Zhang;Xinxin Wu;Ying-Hua Tsai,26,83.038461538,10.413378968,94.0,56.0,,,,,,,,,,,0,0,2,1,0,0,0,3,4,9,7
+UBCV,2019,W,CHIN,131,,011,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Hsueh-Ni Chen;Jun Wu;Qian Wang;Shiyang Zhang;Ying-Hua Tsai,26,87.615384615,3.250562082,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,16,7
+UBCV,2019,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Jingjing Yi;Jun Wu;Menghan Gao;Pi-Hua Lin;Qian Wang;Tianmu Ji;Xinxin Wu;Ying-Hua Tsai,14,76.142857143,16.180981918,93.0,36.0,,,,,,,,,,,1,0,1,1,0,0,2,1,3,2,3
+UBCV,2019,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Jingjing Yi;Jun Wu;Menghan Gao;Qian Wang;Tianmu Ji;Xinxin Wu;Ying-Hua Tsai;Yushu Deng,13,88.384615385,5.346937777,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,4,7
+UBCV,2019,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Jingjing Yi;Jun Wu;Li-Jung Lee;Menghan Gao;Qian Wang;Tianmu Ji;Ying-Hua Tsai,25,81.48,9.425674158,90.0,55.0,,,,,,,,,,,0,0,1,1,1,0,2,2,6,9,3
+UBCV,2019,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Jun Wu;Qian Wang;Ying-Hua Tsai,19,76.526315789,6.818018782,88.0,61.0,,,,,,,,,,,0,0,0,1,0,4,3,4,5,2,0
+UBCV,2019,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Jun Wu;Qian Wang;Ying-Hua Tsai,20,79.85,5.294237185,85.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,5,9,4,0
+UBCV,2019,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Jun Wu;Qian Wang;Ying-Hua Tsai,31,79.290322581,7.815341956,92.0,61.0,,,,,,,,,,,0,0,0,2,1,3,2,5,11,5,2
+UBCV,2019,W,CHIN,405,,001,Advanced Chinese Speaking and Writing I (Non-Heritage),Ming Zhu Lu;Qian Wang;Ying-Hua Tsai,14,79.0,6.539818864,85.0,67.0,,,,,,,,,,,0,0,0,0,2,1,1,1,6,3,0
+UBCV,2019,W,CHIN,407,,001,Advanced Chinese Speaking and Writing II (Non-Heritage),Duanduan Li;Ying-Hua Tsai,11,84.363636364,3.956582547,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,1
+UBCV,2020,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Ying-Hua Tsai;Yudan Wang,18,86.722222222,6.35059567,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,5,9
+UBCV,2020,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Ying-Hua Tsai;Yudan Wang,26,81.730769231,12.919930936,97.0,45.0,,,,,,,,,,,1,1,0,0,0,2,3,3,2,4,10
+UBCV,2020,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Ming Zhu Lu;Qian Wang;Shiyang Zhang;Viktoriia Tian;Yijun Yue;Ying-Hua Tsai,23,86.608695652,7.826174791,94.0,67.0,,,,,,,,,,,0,0,0,0,1,0,3,0,4,2,13
+UBCV,2020,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin;Qian Wang;Shiyang Zhang;Viktoriia Tian;Xinxin Wu;Yijun Yue;Ying-Hua Tsai,18,84.111111111,9.857149623,94.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,1,2,3,7
+UBCV,2020,W,CHIN,131,,011,Basic Chinese I: Part 1 (Non-Heritage),Qian Wang;Shiyang Zhang;Viktoriia Tian;Yijun Yue;Ying-Hua Tsai,29,85.068965517,6.989436082,94.0,61.0,,,,,,,,,,,0,0,0,1,0,1,1,1,3,15,7
+UBCV,2020,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Hsueh-Ni Chen;Jiaqi Shi;Ni An;Qian Wang;Shiyang Zhang;Yijun Yue;Ying-Hua Tsai;Yu Jia Sun;Yudan Wang,19,86.473684211,8.720145393,94.0,70.0,,,,,,,,,,,0,0,0,0,0,3,0,1,1,3,11
+UBCV,2020,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Connie Huang;Hsiang-Ning Wang;Jiaqi Shi;Li-Jung Lee;Qian Wang;Qianyi Chen;Qing Yuan Ma;Weijing Li;Ying-Hua Tsai,18,81.277777778,11.017662587,93.0,50.0,,,,,,,,,,,0,1,0,1,0,1,0,2,4,6,3
+UBCV,2020,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Qian Wang;Siyuan Li;Xintian Tang;Ying-Hua Tsai,23,79.47826087,6.192881289,90.0,61.0,,,,,,,,,,,0,0,0,1,0,0,4,4,11,2,1
+UBCV,2020,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Qian Wang;Siyuan Li;Xintian Tang;Ying-Hua Tsai,26,77.846153846,11.841257729,89.0,44.0,,,,,,,,,,,2,1,0,0,0,1,0,4,11,7,0
+UBCV,2020,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Qian Wang;Siyuan Li;Xintian Tang;Ying-Hua Tsai,30,85.133333333,5.475546475,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,3,4,14,7
+UBCV,2021,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Qing Yuan Ma;Rui Xu;Shiang-Han Lin;Ying-Hua Tsai,21,77.571428571,10.979851677,90.0,49.0,,,,,,,,,,,1,0,1,0,1,2,5,0,3,6,2
+UBCV,2021,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jennifer You;Pi-Hua Lin;Qing Yuan Ma;Ying-Hua Tsai;Yu Chun Peng,20,76.9,10.23358763,90.0,53.0,,,,,,,,,,,0,1,1,0,1,1,4,2,6,2,2
+UBCV,2021,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Junru Chen;Pi-Hua Lin;Xintian Tang;Ying-Hua Tsai;Yu Chun Peng,32,76.0,10.401612778,88.0,41.0,,,,,,,,,,,2,0,0,1,0,3,6,6,11,3,0
+UBCV,2021,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Junru Chen;Li-Jung Lee;Xintian Tang;Ying-Hua Tsai,16,81.25,7.585073061,90.0,62.0,,,,,,,,,,,0,0,0,1,0,1,1,0,9,2,2
+UBCV,2021,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Junru Chen;Li-Jung Lee;Xintian Tang;Ying-Hua Tsai,23,74.739130435,18.158938173,88.0,11.0,,,,,,,,,,,2,0,0,1,1,0,1,8,4,6,0

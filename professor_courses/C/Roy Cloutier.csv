@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,ARCH,577,B,001,SMNR DESGN MEDIA,"Cloutier, Roy",46,77.73,6.73,90,60,45,0,1,0,0,0,0,0,0,0,0,0,0,2,2,4,4,10,14,8,1,,,
+UBC,2017,S,ENDS,482,H,001,SPECIAL TOPICS,"Cloutier, Roy",8,79.25,5.2,86,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,0,,,
+UBC,2017,W,ARCH,538,A,001,ARCH ABROAD,"Cloutier, Roy;Sylvia, Nicole",10,84.6,5.44,92,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3,,,
+UBC,2017,W,ARCH,538,B,001,ARCH ABROAD,"Cloutier, Roy;Sylvia, Nicole",11,84.09,4.95,92,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,2,,,
+UBC,2017,W,ARCH,539,,001,ARCH DSGN ABROAD,"Cloutier, Roy;Sylvia, Nicole",10,84.5,6.02,94,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,2,,,
+UBC,2018,S,ARCH,577,B,001,SMNR DESGN MEDIA,"Cloutier, Roy",38,81.82,7.27,96,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,3,13,11,5,,,
+UBC,2018,S,ENDS,482,H,001,SPECIAL TOPICS,"Cloutier, Roy",10,82.33,8.49,91,65,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,3,2,,,
+UBCV,2015,S,ARCH,577,,001,Research Seminar: Design Media,Alexander Ring;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Sally Miller,36,83.69444444,6.615218145,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,6,5,11,9,,,
+UBCV,2015,S,ENDS,482,H,001,Special Topics,Alexander Ring;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Sally Miller,12,75.75,5.577959875,88.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,,0,,,
+UBCV,2015,W,ENDS,302,,001,Environmental Design Studio II,Mari Fujita;Nicole Sylvia;Roy Cloutier,29,80.931034483,2.926858805,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,7,18,,0,,,
+UBCV,2016,S,ARCH,577,,001,Seminar: Design Media,Amy Stapleton;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Ryder Thalheimer;Yajiao Fan,57,78.96491228,5.970058962,90.0,60.0,,,,,,,,,,,0,0,0,1,1,4,9,10,20,11,1,,,
+UBCV,2016,S,ENDS,482,H,001,Special Topics,Amy Stapleton;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Ryder Joseph Thalheimer;Ryder Thalheimer;Yajiao Fan,13,80.23076923,6.942067969,88.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,0,6,4,0,,,
+UBCV,2017,S,ARCH,577,B,001,Seminar: Design Media,Roy Cloutier,45,77.733333333,6.729852085,90.0,60.0,,,,,,,,,,,0,0,0,2,2,4,4,10,14,8,1,,,
+UBCV,2017,S,ENDS,482,H,001,Special Topics,Blair Satterfield;Roy Cloutier,8,79.25,5.2030211,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,2,0,,,
+UBCV,2017,W,ARCH,538,A,001,Study of Architecture Abroad,Hannah Meredith Teicher;John Bass;Nicole Sylvia;Roy Cloutier,10,84.6,5.440588203,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,2,3,,,
+UBCV,2017,W,ARCH,538,B,001,Study of Architecture Abroad,George Stuart Wagner;John Bass;Nicole Sylvia;Roy Cloutier,11,84.090909091,4.948829063,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,2,,,
+UBCV,2017,W,ARCH,539,,001,Architectural Design Abroad,Annalisa Meyboom;John Bass;Nicole Sylvia;Roy Cloutier,10,84.5,6.023103667,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,4,2,,,
+UBCV,2018,S,ARCH,577,B,001,Seminar: Design Media,Adrienne Young;Blaire Schille;Joo Yeoun Jenna Joung;Roy Cloutier,38,81.815789474,7.270284812,96.0,65.0,,,,,,,,,,,0,0,0,0,2,3,1,3,13,11,5,,,
+UBCV,2018,S,ENDS,482,H,001,Special Topics,Roy Cloutier,9,82.333333333,8.485281374,91.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,1,1,3,2,,,
+UBCV,2019,S,ARCH,577,B,001,Seminar: Design Media,Ada Sakowicz;Adrienne Young;Mika Ishizaki;Nicole Sylvia;Roy Cloutier,46,86.02173913,6.209273103,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,5,7,14,18,,,
+UBCV,2019,S,ENDS,482,H,001,Special Topics,Ada Sakowicz;Adrienne Young;Mika Ishizaki;Nicole Sylvia;Roy Cloutier,15,83.0,7.540367555,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,4,7,2,,,
+UBCV,2019,W,ENDS,220,,001,Architecture in Context: Vancouver,Aya Abdelfatah;Patrick Birch;Patrick William Leslie Birch;Rashmin Sorathiya;Roy Cloutier,92,82.793478261,9.65963397,98.0,44.0,,,,,,,,,,,1,0,1,2,4,6,3,7,15,33,20,,,
+UBCV,2020,S,ARCH,577,B,001,Seminar: Design Media,Angus Derocher;Angus Edward Steven Derocher;Bodeuk Jung;Jesse Martyn;Luis Yanez Hernandez;Roy Cloutier;Valia Puente Flores,57,89.438596491,7.336351623,100.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,3,9,8,36,,,
+UBCV,2020,S,ENDS,482,H,001,Special Topics,Angus Derocher;Angus Edward Steven Derocher;Bodeuk Jung;Jesse Martyn;Luis Yanez Hernandez;Nicole Sylvia;Robert Gaudin;Robert Thomas Andrew Gaudin;Roy Cloutier;Valia Puente Flores,20,90.2,8.0105194,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,5,11,,,
+UBCV,2020,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,Alexander Turton;Katrina Ross-Ghali;Patrick Birch;Roy Cloutier;Shasha Wang;Victoria Ng,94,83.893617021,8.319517259,94.0,50.0,,,,,,,,,,,0,2,1,1,0,1,7,4,15,34,29,,,
+UBCV,2021,S,ARCH,577,B,001,Seminar: Design Media,Jinki Hong;Lanna Fitzgerald;Maria Emilia Brasdefer;Nicole Sylvia;Roy Cloutier;Victoria Ng,27,86.259259259,5.834859385,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,4,10,10,,,
+UBCV,2021,S,DES,450,H,001,Special Topics,Jinki Hong;Lanna Fitzgerald;Maria Emilia Brasdefer;Roy Cloutier;Victoria Ng,10,87.7,3.973523485,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,5,,,
+UBCV,2021,W,ARCH,515,,002,Design Media I,Nicole Dulong;Roy Cloutier;Samantha Miller;Stephanie Braconnier,25,84.36,1.912241268,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,15,0,,,
+UBCV,2021,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,John Fache;Roy Cloutier;Shasha Wang,45,84.288888889,3.934822522,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,12,25,3,,,
+UBCV,2021,S,ARCH,577,B,001,Seminar: Design Media,Roy Cloutier,27,86.3,,96.0,70.0,,,,,,,,,,,,,,,,,,,,10,10,86.0,90.0,84.5
+UBCV,2022,S,ARCH,577,B,001,Seminar: Design Media,Roy Cloutier,44,86.2,,95.0,68.0,,,,,,,,,,,0,0,0,0,0,4,0,0,6,18,16,87.0,90.0,85.0
+UBCV,2022,S,DES,450,H,001,Special Topics,Roy Cloutier,23,86.7,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,4,12,90.0,91.0,82.5
+UBCV,2022,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,Roy Cloutier,65,82.6,,99.0,22.0,,,,,,,,,,,2,1,2,3,1,1,2,0,11,19,23,86.0,91.0,82.0
+UBCV,2023,S,ARCH,577,B,001,Seminar: Design Media,Parker Albanese;Roy Cloutier;Nicole Sylvia;Adrienne Young;Yang Yu,56,84.11,,96.0,62.0,,,,,,,,,,,0,0,0,1,0,2,1,6,17,15,12,84.0,89.0,81.0
+UBCV,2023,S,DES,450,H,001,Special Topics,Parker Albanese;Roy Cloutier;Nicole Sylvia;Adrienne Young;Yang Yu,36,85.21,,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,6,16,7,85.5,88.0,83.0
+UBCV,2023,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,Roy Cloutier,59,83.79,,93.0,9.0,,,,,,,,,,,1,1,0,0,0,0,1,1,13,27,12,86.0,89.0,82.75

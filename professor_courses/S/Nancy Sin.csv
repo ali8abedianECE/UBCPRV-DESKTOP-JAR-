@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,PSYC,314,,006,HEALTH PSYCHOLGY,"Sin, Nancy",116,71.89,11.83,97,42,111,3,0,0,0,0,0,0,0,3,3,8,10,7,7,15,17,14,17,9,7,,,
+UBC,2018,W,PSYC,314,,006,HEALTH PSYCHOLGY,"Sin, Nancy",176,71.81,12.03,96,42,166,5,3,0,1,0,0,0,0,5,5,9,14,16,14,12,22,23,29,13,14,,,
+UBC,2018,W,PSYC,502,,001,R METH HLTH PSYC,"Sin, Nancy",8,90,5.42,98,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,,,
+UBCV,2017,W,PSYC,314,,006,Health Psychology,Alexandra Adalbert;Alyssa Mercedes Ash;Nancy Sin,116,71.767241379,11.774222218,97.0,42.0,,,,,,,,,,,3,8,10,8,8,15,17,14,17,9,7,,,
+UBCV,2018,W,PSYC,314,,006,Health Psychology,Holy Ghaly;Jin-Hui Wen;Nancy Sin,173,71.647398844,12.059323164,96.0,42.0,,,,,,,,,,,5,10,14,17,14,12,22,23,29,13,14,,,
+UBCV,2018,W,PSYC,502,,001,Research Methods in Health Psychology,Nancy Sin,8,90.0,5.424810727,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,3,,,
+UBCV,2019,W,PSYC,314,,001,Health Psychology,Nancy Sin;Patrick Klaiber,144,72.9375,12.007700763,98.0,43.0,,,,,,,,,,,2,7,13,13,14,10,18,22,23,9,13,,,
+UBCV,2019,W,PSYC,314,,002,Health Psychology,Jin-Hui Wen;Nancy Sin,141,71.631205674,11.358704244,100.0,39.0,,,,,,,,,,,2,4,12,14,23,17,20,13,15,13,8,,,
+UBCV,2019,W,PSYC,504,C,001,Special Topics in Health Psychology,Nancy Sin,9,92.888888889,4.428443419,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2020,W,PSYC,314,,001,Health Psychology,Jin-Hui Wen;Nancy Sin,155,79.129032258,10.531776085,96.0,23.0,,,,,,,,,,,3,0,3,3,9,11,15,20,35,36,20,,,
+UBCV,2021,W,PSYC,314,,001,Health Psychology,Nancy Sin;Qiao Hui Lydia Ong,148,78.439189189,12.089364726,96.0,20.0,,,,,,,,,,,4,2,1,7,7,8,16,16,37,26,24,,,
+UBCV,2021,W,PSYC,314,,001,Health Psychology,Nancy Sin,148,79.1,,96.0,21.0,,,,,,,,,,,,,,6,7,8,16,16,38,26,25,81.0,86.0,74.0
+UBCV,2022,W,PSYC,314,,003,Health Psychology,Nancy Sin,170,77.4,,93.0,45.0,,,,,,,,,,,1,2,4,5,16,19,19,25,28,35,16,78.0,85.0,70.0

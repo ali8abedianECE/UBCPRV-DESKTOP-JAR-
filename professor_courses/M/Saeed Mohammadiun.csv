@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,ENGR,303,,101,Engineering Project Management,John Alan Brereton;Saeed Mohammadiun;Sandun Tharaka Wanniarachchi,180,77.455555556,8.935099467,94.0,45.0,3,1,1,2,16,18,28,35,33,32,11,,,
+UBCO,2019,W,ENGR,303,,102,Engineering Project Management,John Alan Brereton;Saeed Mohammadiun;Sandun Tharaka Wanniarachchi,131,78.030534351,10.062068094,96.0,35.0,3,0,1,0,12,17,14,24,24,20,16,,,
+UBCO,2019,W,ENGR,342,,201,Open Channel Flow,Gholamreza Naser;Gregory Courtice;Huan Liu;Saeed Mohammadiun;Sarin Raj Pokhrel,96,82.8125,7.113090231,95.0,61.0,0,0,0,1,0,8,7,10,25,29,16,,,
+UBCO,2020,W,ENGR,303,,101,Engineering Project Management,Kasun Hewage;Ravihari Kotagoda Hetti;Saeed Mohammadiun;Sandun Tharaka Wanniarachchi,203,81.088669951,8.958762495,96.0,47.0,3,0,0,4,11,13,14,27,49,51,31,,,
+UBCO,2020,W,ENGR,341,,101,Engineering Hydrology,Gyan Kumar Chhipi Shrestha;Ibrahim Alper Basar;Ibrahim Basar;John Alan Brereton;Saeed Mohammadiun,114,83.447368421,8.873837558,98.0,59.0,0,0,1,3,4,5,8,16,8,40,29,,,
+UBCO,2020,W,ENGR,342,,201,Open Channel Flow,Faezeh Ketabchi;John Alan Brereton;Peyman Yousefi;Saeed Mohammadiun;Shahab Zeraati Dizjeh,106,76.188679245,9.91498453,91.0,38.0,3,2,2,2,6,14,13,18,24,17,5,,,
+UBCO,2021,W,ENGR,303,,101,Engineering Project Management,Kasun Hewage;Ravihari Kotagoda Hetti;Saeed Mohammadiun;Sandun Tharaka Wanniarachchi,248,78.362903226,12.339223315,98.0,43.0,14,0,5,9,16,20,26,24,41,44,49,,,
+UBCO,2021,W,ENGR,342,,201,Open Channel Flow,Faezeh Ketabchi;Mohd Akif Razi;Peyman Yousefi;Saeed Mohammadiun,68,81.073529412,10.97257936,98.0,22.0,1,0,0,0,2,8,6,7,16,13,15,,,
+UBCO,2022,W,ENGR,303,,101,Engineering Project Management,Saeed Mohammadiun,260,73.9,,100.0,28.0,18,3,10,12,32,39,26,28,31,28,33,74.0,83.0,66.0

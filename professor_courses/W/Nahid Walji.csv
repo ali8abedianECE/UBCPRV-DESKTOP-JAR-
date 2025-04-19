@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,MATH,220,,202,Mathematical Proof,Ahmet Alperen Bulut;Devang Agarwal;Ethan Armitage;Hannah Kohut;Julia Yulia Gordon;Julien Gagnon;Nahid Walji;Noe Ducharme;Thomas Williams,44,67.272727273,15.788373167,100.0,32.0,6,6,0,5,6,3,4,2,6,3,3,,,
+UBCV,2020,W,MATH,220,,204,Mathematical Proof,Ahmet Alperen Bulut;Devang Agarwal;Ethan Armitage;Hannah Kohut;Julien Gagnon;Nahid Walji;Noe Ducharme;Thomas Williams,70,63.585714286,14.615351129,94.0,25.0,11,7,3,10,12,4,6,9,5,2,1,,,
+UBCV,2021,W,MATH,100,,102,Differential Calculus with Applications to Physical Sciences and Engineering,Bakytzhan Kurmanbek;Elizabeth Xiao;Nahid Walji;Roomina Zendehboodi;Sven Bachmann,221,64.389140271,14.620740862,92.0,19.0,22,37,23,18,19,25,23,19,17,12,6,,,
+UBCV,2021,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Elizabeth Xiao;Fatemeh Saghafifar;Nahid Walji;Noe Ducharme;Philip Loewen;Simone Maletto,129,70.666666667,21.016486584,100.0,10.0,22,5,12,6,8,7,9,11,6,10,33,,,
+UBCV,2021,W,MATH,220,,107,Mathematical Proof,Hannah Kohut;Jun Jie Zhu;Nahid Walji;Seckin Demirbas,71,60.85915493,12.694538505,95.0,21.0,9,5,16,12,10,7,7,0,3,1,1,,,
+UBCV,2021,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen;Nahid Walji,128,71.4,,100.0,10.0,20,5,12,6,8,7,10,11,6,10,33,74.0,90.0,57.8
+UBCV,2021,W,MATH,220,,107,Mathematical Proof,Seckin Demirbas;Nahid Walji,73,60.6,,95.0,21.0,10,,16,13,10,7,7,,,,,61.0,68.0,57.0
+UBCV,2022,W,MATH,101,,2A2,Integral Calculus with Applications,Philip Loewen;Nahid Walji,398,73.8,,99.0,6.0,24,36,11,18,29,39,36,40,57,44,64,76.0,85.8,65.0
+UBCV,2022,W,MATH,101,,2A4,Integral Calculus with Applications,Philip Loewen;Nahid Walji,304,73.1,,100.0,0.0,34,24,14,9,17,19,22,22,40,38,65,77.0,87.0,61.8
+UBCV,2022,W,MATH,220,,108,Mathematical Proof,Andrew Rechnitzer;Nahid Walji,63,64.9,,98.0,27.0,9,6,6,4,7,6,7,8,4,4,2,67.0,76.0,56.5
+UBCV,2022,W,MATH,444,,201,Mathematical Research and Writing,Farid Aliniaeifard;Nahid Walji,11,88.6,,93.0,85.0,0,0,0,0,0,0,0,0,0,7,4,88.0,90.0,87.0
+UBCV,2022,W,MATH,444,,202,Mathematical Research and Writing,Nahid Walji,10,83.5,,88.0,76.0,0,0,0,0,0,0,0,2,3,5,0,84.0,86.8,82.3
+UBCV,2023,W,MATH,101,,2A2,Integral Calculus with Applications,Emanuele Bodon;Wenzhao Chen;Hossein Rahmani;Nahid Walji;Chengyu Wu,415,68.2,,100.0,11.0,35,31,27,46,39,51,37,38,49,32,23,69.0,80.0,60.0
+UBCV,2023,W,MATH,101,,2A4,Integral Calculus with Applications,Keegan Boyle;Matthieu Heitz;Hossein Rahmani;Nahid Walji,302,63.8,,100.0,7.0,51,32,28,28,22,22,25,18,31,21,17,65.0,78.0,51.5
+UBCV,2023,W,MATH,220,,10M,Mathematical Proof,Seckin Demirbas;Nahid Walji,39,59.6,,94.0,27.0,9,7,3,2,3,3,3,1,3,2,1,57.0,72.0,50.0
+UBCV,2023,W,MATH,220,,101,Mathematical Proof,Keegan Boyle;Nahid Walji,76,66.6,,97.0,9.0,11,7,7,7,8,6,4,4,8,4,9,65.0,80.0,56.0
+UBCV,2023,W,MATH,220,,103,Mathematical Proof,Pablo Shmerkin;Nahid Walji,68,65.5,,96.0,27.0,10,8,1,5,10,5,9,2,4,5,4,67.0,75.0,52.0
+UBCV,2023,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer;Nahid Walji,80,65.3,,99.0,29.0,10,11,6,5,11,6,3,9,3,4,7,66.0,76.5,53.5
+UBCV,2023,W,MATH,220,,107,Mathematical Proof,Keegan Boyle;Nahid Walji,79,60.9,,97.0,23.0,16,10,11,10,6,3,7,4,5,1,4,61.0,72.0,51.0
+UBCV,2023,W,MATH,220,,108,Mathematical Proof,Nahid Walji,79,64.3,,98.0,24.0,8,16,9,6,4,4,7,8,5,3,6,62.0,76.0,52.0
+UBCV,2023,W,MATH,230,,201,Marvels of Mathematics,Fok-Shuen Leung;Nahid Walji;Elyse Yeager,19,82.4,,100.0,51.0,0,2,1,2,0,0,0,1,2,1,9,90.0,97.8,66.3
+UBCV,2023,W,MATH,444,,202,Mathematical Research and Writing,Nahid Walji,20,81.85,,89.0,70.0,0,0,0,0,0,1,2,1,11,5,0,83.0,84.5,80.75

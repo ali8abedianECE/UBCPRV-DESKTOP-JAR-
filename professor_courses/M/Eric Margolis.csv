@@ -1,0 +1,74 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,PHIL,100,,002,INTRO TO PHIL,"Margolis, Eric",143,70.06,8.66,86,28,133,3,6,0,1,0,0,1,0,2,3,5,7,12,13,27,32,24,10,3,0,,,
+UBC,2009,W,PHIL,491,A,001,SEM PHIL MAJORS,"Margolis, Eric",8,72.38,17.42,85,30,7,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,4,1,1,0,,,
+UBC,2010,W,PHIL,101,,001,INTRO PHILOSOPHY,"Clarke, Roger;Margolis, Eric;VIERA, GERARDO ALBERTO",115,62.66,13.12,87,0,101,10,2,1,0,2,1,0,2,5,10,13,3,7,31,34,11,1,0,1,0,,,
+UBC,2010,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",93,62.98,15.8,88,0,77,8,5,0,0,2,2,0,2,2,8,6,3,14,16,17,12,6,2,1,0,,,
+UBC,2010,W,PHIL,390,A,001,HONOURS 3RD YEAR,"Margolis, Eric",6,82.5,2.51,87,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,,,
+UBC,2010,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Margolis, Eric",8,83.5,4.38,89,76,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,0,,,
+UBC,2010,W,PHIL,551,A,001,PHIL OF MIND,"Margolis, Eric",12,85.3,2.91,88,78,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,0,,,
+UBC,2011,W,PHIL,101,,001,INTRO PHILOSOPHY,"Margolis, Eric",94,70.56,11.99,87,0,89,4,1,0,0,1,0,0,1,2,4,2,4,2,12,18,21,16,9,5,0,,,
+UBC,2011,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",131,68.68,13.74,84,0,119,6,5,0,0,3,1,0,1,1,6,0,4,7,14,32,39,14,9,0,0,,,
+UBC,2011,W,PHIL,491,A,001,SEM PHIL MAJORS,"Margolis, Eric",11,79.73,4.38,88,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,1,0,,,
+UBC,2011,W,PHIL,551,A,001,PHIL OF MIND,"Margolis, Eric",10,75.43,33.29,89,0,6,1,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,,,
+UBC,2012,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",66,64.51,17.96,86,0,57,6,3,0,0,3,1,0,0,2,6,3,1,9,12,11,10,5,2,4,0,,,
+UBC,2012,W,PHIL,491,A,006,SEM PHIL MAJORS,"Margolis, Eric",6,78.33,7.17,87,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,,,
+UBC,2013,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",107,66.01,16.15,86,0,90,7,9,1,0,4,0,1,1,1,7,2,7,10,12,19,17,17,5,1,0,,,
+UBC,2013,W,PHIL,101,,003,INTRO PHILOSOPHY,"Margolis, Eric",84,65.03,14.07,84,0,72,6,4,2,0,2,0,0,0,4,6,6,4,9,12,14,17,5,5,0,0,,,
+UBC,2013,W,PHIL,491,A,002,SEM PHIL MAJORS,"Margolis, Eric",16,75.25,6.61,85,65,16,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,3,3,2,0,,,
+UBC,2013,W,PHIL,551,A,002,PHIL OF MIND,"Margolis, Eric",10,85,4.8,89,75,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,,,
+UBC,2015,W,PHIL,101,,001,INTRO PHILOSOPHY,"Margolis, Eric",113,73.14,6.55,85,30,109,1,1,0,0,0,0,0,1,0,1,0,1,2,11,22,33,27,11,2,0,,,
+UBC,2015,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",101,69.31,8.9,85,16,95,3,1,1,0,0,1,0,0,2,3,0,3,6,18,27,23,8,8,2,0,,,
+UBC,2015,W,PHIL,491,A,002,SEM PHIL MAJORS,"Margolis, Eric",24,72.05,11.95,86,31,21,1,2,0,0,0,0,0,1,0,1,1,0,0,3,2,4,6,3,2,0,,,
+UBC,2015,W,PHIL,551,A,001,PHIL OF MIND,"Margolis, Eric",8,85.57,3.15,88,79,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,,,
+UBC,2016,W,PHIL,101,,002,INTRO PHILOSOPHY,"Margolis, Eric",108,72.03,11.81,89,0,102,2,1,0,0,2,0,0,0,0,2,1,3,2,7,21,29,22,13,4,0,,,
+UBC,2016,W,PHIL,101,,003,INTRO PHILOSOPHY,"Margolis, Eric",87,70.9,14.93,89,0,78,5,2,0,0,2,0,2,0,1,5,1,1,4,9,11,19,15,12,6,0,,,
+UBC,2016,W,PHIL,455,A,001,TPC COGNITIV SCI,"Margolis, Eric",16,79.13,6.65,88,67,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,4,5,0,,,
+UBC,2016,W,PHIL,491,A,002,SEM PHIL MAJORS,"Margolis, Eric",8,80.25,6.41,88,71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,0,,,
+UBC,2017,W,PHIL,101,,001,INTRO PHILOSOPHY,"Margolis, Eric",111,71.95,12.14,89,0,104,4,2,0,0,1,1,0,1,1,4,1,1,2,12,28,19,16,20,5,0,,,
+UBC,2017,W,PHIL,101,,003,INTRO PHILOSOPHY,"Margolis, Eric",108,67.81,17.08,89,0,92,9,5,0,0,3,2,2,0,2,9,0,0,2,14,28,16,22,7,3,0,,,
+UBC,2017,W,PHIL,491,,003,SEM PHIL MAJORS,"Margolis, Eric",18,70.89,14.7,87,19,17,1,0,0,0,0,1,0,0,0,1,0,0,3,0,2,5,4,1,2,0,,,
+UBC,2017,W,PHIL,551,A,001,PHIL OF MIND,"Margolis, Eric",6,86.8,1.92,89,84,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,,,
+UBC,2018,W,PHIL,101,,001,INTRO PHILOSOPHY,"Margolis, Eric",120,71.55,12.86,89,0,113,5,2,0,0,2,0,0,1,2,5,2,4,1,13,18,26,27,19,3,0,,,
+UBC,2018,W,PHIL,101,,003,INTRO PHILOSOPHY,"Margolis, Eric",85,68.24,15.01,85,0,69,6,5,1,2,2,1,0,0,3,6,1,0,2,7,19,28,8,2,2,0,,,
+UBC,2018,W,PHIL,390,,001,HONOURS 3RD YEAR,"Margolis, Eric",9,87.56,3.91,92,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,2,,,
+UBC,2018,W,PHIL,455,,001,TPC COGNITIV SCI,"Margolis, Eric",17,72.35,20.45,90,0,16,1,0,0,0,1,0,0,0,0,1,0,0,1,1,3,4,1,1,4,1,,,
+UBCV,2015,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis,112,73.080357143,6.501750828,85.0,30.0,,,,,,,,,,,,,,2,11,24,33,27,11,,0,,,
+UBCV,2015,W,PHIL,101,,002,Introduction to Philosophy,Eric Margolis;Jasper Heaton;Madeleine Ransom;Sina Fazelpour,99,69.292929293,8.856281669,85.0,16.0,,,,,,,,,,,,,,6,18,28,23,8,8,,0,,,
+UBCV,2015,W,PHIL,491,A,002,Seminar for Majors in Philosophy,Eric Margolis;Jasper Heaton;Madeleine Ransom;Sina Fazelpour,22,72.045454545,11.954187442,86.0,31.0,,,,,,,,,,,,,,,,,,6,,,0,,,
+UBCV,2015,W,PHIL,551,A,001,Philosophy of Mind,Eric Margolis,7,85.571428571,3.154739443,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,0,,,
+UBCV,2016,W,PHIL,101,,002,Introduction to Philosophy,Eric Margolis;Sina Fazelpour,107,72.00934579,11.66715704,89.0,0.0,,,,,,,,,,,2,1,3,2,8,22,29,23,13,4,0,,,
+UBCV,2016,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Richard Andrew Sandlin;Richard Sandlin,85,70.85882353,14.75526778,89.0,0.0,,,,,,,,,,,5,1,1,4,9,13,19,15,12,6,0,,,
+UBCV,2016,W,PHIL,455,A,001,Topics in the Philosophy of Cognitive Science,Eric Margolis;Richard Andrew Sandlin,16,79.125,6.652067348,88.0,67.0,,,,,,,,,,,0,0,0,0,1,1,4,1,4,5,0,,,
+UBCV,2016,W,PHIL,491,A,002,Seminar for Majors in Philosophy,Eric Margolis,8,80.25,6.408699445,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,2,3,0,,,
+UBCV,2017,W,PHIL,101,,001,Introduction to Philosophy,Andrew Jones;Eric Margolis;Matthew Cleveland Smithdeal;Matthew Smithdeal,109,71.825688073,12.160077391,89.0,0.0,,,,,,,,,,,4,1,2,2,12,28,19,16,20,5,0,,,
+UBCV,2017,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Garson Leder;Kousaku Yui,103,67.941747573,16.936921754,89.0,0.0,,,,,,,,,,,9,0,0,2,14,28,17,23,7,3,0,,,
+UBCV,2017,W,PHIL,491,,003,Seminar for Majors in Philosophy,Eric Margolis;Sylvia Berryman,18,70.888888889,14.700495745,87.0,19.0,,,,,,,,,,,1,0,0,3,0,2,5,4,1,2,0,,,
+UBCV,2017,W,PHIL,491,,004,Seminar for Majors in Philosophy,Eric Margolis;Sylvia Berryman,9,77.333333333,11.779218989,88.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,2,1,3,0,,,
+UBCV,2018,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis;Kousaku Yui;Richard Andrew Sandlin;Richard Sandlin,118,71.550847458,12.857933437,89.0,0.0,,,,,,,,,,,5,2,4,1,13,18,26,27,19,3,0,,,
+UBCV,2018,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Jasper Heaton,79,67.518987342,15.884891031,85.0,0.0,,,,,,,,,,,7,1,0,3,8,19,29,8,2,2,0,,,
+UBCV,2018,W,PHIL,390,,001,Honours Tutorial,Eric Margolis;Scott Allen Anderson,9,87.555555556,3.9086798,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,6,2,,,
+UBCV,2018,W,PHIL,455,,001,Topics in the Philosophy of Cognitive Science,Eric Margolis,17,72.352941176,20.447925251,90.0,0.0,,,,,,,,,,,1,0,0,1,1,3,4,1,1,4,1,,,
+UBCV,2019,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis;Ewan Townshend;Jade Hadley;Ori Simchen,89,71.820224719,12.022291604,88.0,12.0,,,,,,,,,,,3,3,4,5,9,15,9,14,17,10,0,,,
+UBCV,2019,W,PHIL,101,,003,Introduction to Philosophy,Bruno Guindon;David Friedell;David J Friedell;Eric Margolis;Jasper Heaton,77,80.142857143,8.13814004,91.0,39.0,,,,,,,,,,,2,0,0,1,1,0,1,21,35,14,2,,,
+UBCV,2019,W,PHIL,390,,001,Honours Tutorial,Eric Margolis;Scott Allen Anderson,13,83.846153846,3.804518232,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,6,1,,,
+UBCV,2020,W,PHIL,101,,001,Introduction to Philosophy,Albert Cotugno Iii;Chase Dority;Eric Margolis;Ori Simchen,115,70.991304348,12.52120703,88.0,0.0,,,,,,,,,,,3,1,5,4,11,25,27,17,18,4,0,,,
+UBCV,2020,W,PHIL,101,,003,Introduction to Philosophy,Chase Dority;David Friedell;Eric Margolis;Jasper Heaton;Serban Dragulin,100,70.01,8.698653094,87.0,20.0,,,,,,,,,,,3,0,3,6,17,27,26,9,6,3,0,,,
+UBCV,2020,W,PHIL,455,,001,Topics in the Philosophy of Cognitive Science,Eric Margolis,17,78.117647059,7.321905088,90.0,65.0,,,,,,,,,,,0,0,0,0,1,2,5,2,2,4,1,,,
+UBCV,2020,W,PHIL,551,A,002,Philosophy of Mind,Christopher Mole;Eric Margolis,8,86.75,1.752549164,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,0,,,
+UBCV,2021,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis;Spencer Knafelc;Tyeson Daviesbarton,121,74.809917355,7.544660418,88.0,45.0,,,,,,,,,,,1,3,1,2,11,14,28,29,23,9,0,,,
+UBCV,2021,W,PHIL,101,,003,Introduction to Philosophy,Chase Dority;Eric Margolis;Spencer Knafelc,103,73.087378641,14.760245226,90.0,0.0,,,,,,,,,,,6,0,1,2,2,11,25,29,20,6,1,,,
+UBCV,2021,W,PHIL,455,A,001,Topics in the Philosophy of Cognitive Science,Eric Margolis,18,75.388888889,13.128948208,88.0,28.0,,,,,,,,,,,1,0,0,0,0,3,2,5,4,3,0,,,
+UBCV,2021,W,PHIL,491,A,003,Seminar for Majors in Philosophy,Eric Margolis,9,71.555555556,24.865192092,87.0,7.0,,,,,,,,,,,1,0,0,0,0,1,1,2,2,2,0,,,
+UBCV,2021,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis,121,74.8,,88.0,45.0,,,,,,,,,,,,,,,11,14,28,29,23,9,,76.0,80.0,71.0
+UBCV,2021,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis,103,73.1,,90.0,0.0,,,,,,,,,,,6,,,,,11,25,29,20,6,,76.0,80.0,72.0
+UBCV,2021,W,PHIL,455,A,001,Topics in the Philosophy of Cognitive Science,Eric Margolis,18,75.4,,88.0,28.0,,,,,,,,,,,,,,,,,,,,,,76.5,81.0,75.0
+UBCV,2021,W,PHIL,491,A,003,Seminar for Majors in Philosophy,Eric Margolis,9,78.4,,87.0,69.0,,,,,,,,,,,,,,,,,,,,,,78.0,83.0,74.0
+UBCV,2022,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis,116,73.2,,87.0,0.0,,,,,,,,,,,4,1,1,3,9,19,21,28,23,7,0,75.5,80.0,70.0
+UBCV,2022,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis,116,71.8,,88.0,0.0,,,,,,,,,,,7,1,0,3,5,19,30,26,17,8,0,75.0,79.0,71.0
+UBCV,2022,W,PHIL,390,A,001,Honours Tutorial,Eric Margolis,12,87.3,,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,2,87.0,88.3,86.8
+UBCV,2022,W,PHIL,551,A,001,Philosophy of Mind,Eric Margolis,13,88.0,,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,3,88.0,89.0,86.0
+UBCV,2023,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis,123,75.9,,92.0,0.0,,,,,,,,,,,3,1,0,2,2,8,34,34,21,10,3,77.0,80.0,73.0
+UBCV,2023,W,PHIL,101,,004,Introduction to Philosophy,Eric Margolis,124,73.2,,93.0,0.0,,,,,,,,,,,3,3,1,4,9,22,25,26,23,3,2,74.0,79.0,70.0
+UBCV,2023,W,PHIL,455,,001,Topics in the Philosophy of Cognitive Science,Eric Margolis,19,79.1,,90.0,33.0,,,,,,,,,,,1,0,0,0,0,1,2,5,4,4,2,82.0,87.0,77.0
+UBCV,2023,W,PHIL,455,,002,Topics in the Philosophy of Cognitive Science,Eric Margolis,17,81.2,,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,3,6,4,0,81.0,84.5,78.5
+UBCV,2023,W,PHIL,486,,001,Directed Reading,Veta Chitnev;Eric Margolis,9,87.4,,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,2,88.0,90.0,84.0

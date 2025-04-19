@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,SOWK,400,,001,CAN SOCI PLCY,"Johnston, Patricia",53,90.66,3.79,98,83,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,21,29
+UBC,2015,W,SOWK,400,,001,CAN SOCI PLCY,"Johnston, Patricia",65,90.4,5.38,100,74,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,15,41
+UBC,2016,W,SOWK,400,,001,CAN SOCI PLCY,"Johnston, Patricia",53,87.51,7.36,100,71,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,8,11,24
+UBC,2016,W,SOWK,501,,001,ADV CAN SOC PLCY,"Johnston, Patricia",19,89.58,5.58,100,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,8
+UBC,2017,W,SOWK,200,,001,INTR SOC WELFARE,"Johnston, Patricia",79,83.41,14.2,100,0,78,1,0,0,0,1,0,0,0,0,1,0,4,1,1,4,4,7,10,21,26
+UBCV,2014,W,SOWK,400,,001,Canadian Social Policy,Patricia Johnston,53,90.66037736,3.792418531,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,21,29
+UBCV,2015,W,SOWK,400,,001,Canadian Social Policy,Patricia Johnston,65,90.4,5.378777742,100.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,7,15,41
+UBCV,2016,W,SOWK,400,,001,Canadian Social Policy,Patricia Johnston,53,87.50943396,7.355329417,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,6,8,11,24
+UBCV,2016,W,SOWK,501,,001,Advanced Canadian Social Policy,Deborah O'Connor;Frank Tester;Patricia Johnston,19,89.57894737,5.580877962,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,7,8
+UBCV,2017,W,SOWK,200,,001,Introduction to Social Welfare,Artemis Fire;Daniel Ji;Patricia Johnston,79,83.405063291,14.200504674,100.0,0.0,,,,,,,,,,,1,0,4,1,1,4,4,7,10,21,26

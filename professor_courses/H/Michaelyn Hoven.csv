@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,ECED,421,,63C,HOME/SCHL/CMNTY,"Hoven, Michaelyn",20,88.37,4.8,95,80,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,8,,,
+UBCV,2021,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Madelaine Hittos;Michaelyn Hoven,31,83.612903226,13.320854375,99.0,43.0,,,,,,,,,,,1,0,0,0,2,4,2,3,2,2,15,,,
+UBCV,2021,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,31,83.6,,99.0,43.0,,,,,,,,,,,,,,,,,,,,,15,88.0,93.5,72.5
+UBCV,2022,W,ECED,401,,63A,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,33,85.1,,97.0,64.0,,,,,,,,,,,0,0,0,0,1,3,3,3,1,9,13,88.0,92.0,77.0
+UBCV,2022,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,32,78.9,,96.0,3.0,,,,,,,,,,,3,0,0,0,0,1,1,5,2,7,13,87.0,90.3,77.0
+UBCV,2022,W,ECED,401,,63D,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,35,84.2,,97.0,35.0,,,,,,,,,,,1,0,0,0,1,2,1,3,4,12,11,86.0,93.0,80.0
+UBCV,2023,S,ECED,401,,93Q,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,36,88.5,,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,10,15,89.0,93.0,84.3
+UBCV,2023,S,ECED,401,,93S,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,34,84.5,,97.0,64.0,,,,,,,,,,,0,0,0,0,2,0,4,4,6,4,13,87.0,92.0,79.0
+UBCV,2023,W,ECED,401,,63A,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,35,82.8,,97.0,35.0,,,,,,,,,,,1,0,0,2,1,0,2,4,6,9,10,86.0,90.5,78.5
+UBCV,2023,W,ECED,401,,63B,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,33,83.36,,96.0,36.0,,,,,,,,,,,1,0,0,0,3,1,3,0,5,7,13,88.0,91.0,80.0
+UBCV,2023,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,35,85.26,,98.0,65.0,,,,,,,,,,,0,0,0,0,1,1,2,3,7,9,11,87.5,91.0,80.0
+UBCV,2023,W,ECED,401,,63D,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Michaelyn Hoven,36,86.29,,96.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,4,6,6,16,87.0,93.5,81.0

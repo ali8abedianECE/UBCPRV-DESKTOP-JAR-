@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,ARST,575,J,002,TPCS MGMT RECRDS,"Evans, Lois",17,77.65,4.15,86,72,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,4,1,0
+UBC,2014,W,ARST,516,,001,MGMT CURR RECRDS,"Evans, Lois",29,79.18,5.34,91,70,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,6,7,10,2,1
+UBCV,2014,W,ARST,516,,001,Management of Current Records,Lois Evans,28,79.17857143,5.34064479,91.0,70.0,,,,,,,,,,,0,0,0,0,0,,6,7,10,,
+UBCV,2014,W,ARST,575,J,002,Topics in the Management of Records,Lois Evans,5,82.8,2.949576241,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0
+UBCV,2019,S,LIBR,579,G,942,Topics in the Management of Libraries and Archives,Lois Evans,18,84.333333333,4.05839725,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,8,2
+UBCV,2019,W,ARST,510,,001,Archival Diplomatics,Lois Evans;Luciana Duranti,38,79.973684211,5.38509877,90.0,70.0,,,,,,,,,,,0,0,0,0,0,5,1,7,17,6,2
+UBCV,2020,S,LIBR,579,G,941,Topics in the Management of Libraries and Archives,Lois Evans,23,84.652173913,2.994065276,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,10,2
+UBCV,2020,W,ARST,510,,001,Archival Diplomatics,Lois Evans,33,84.606060606,3.408989897,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,10,19,1
+UBCV,2021,S,LIBR,579,G,942,Topics in the Management of Libraries and Archives,Lois Evans;Rebecka Sheffield,17,89.058823529,6.299509785,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,6,8
+UBCV,2021,W,ARST,510,,001,Archival Diplomatics,Corinne Rogers;Lois Evans,31,82.419354839,4.71716153,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,14,9,2

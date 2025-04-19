@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,APSC,173,,201,Engineering Analysis II,Dean Richert;Jonathan Holzman;Kevin Golovin;Manjot Kaur;Maryam Sadeghi;Vahid Asgharian;Xian Jin,127,70.535433071,20.296530032,100.0,6.0,12,8,14,12,1,10,15,11,9,12,23
+UBCO,2018,W,APSC,173,,202,Engineering Analysis II,Anas Chaaban;Dean Richert;Jonathan Holzman;Kevin Golovin;Manjot Kaur;Maryam Sadeghi;Vahid Asgharian,129,70.589147287,20.455596882,100.0,5.0,18,3,8,6,5,14,13,17,13,12,20
+UBCO,2018,W,ENGR,402,,101,Biotechnology: Fundamentals and Applications,Manjot Kaur;Sepideh Pakpour,27,79.814814815,9.735095263,95.0,50.0,0,1,0,0,1,3,1,4,8,4,5
+UBCO,2019,W,APSC,173,,201,Engineering Analysis II,Alok Chandra;Amirhossein Zaji;Dean Richert;Manjot Kaur;Mehran Shirazi;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,147,81.115646259,14.049090551,100.0,38.0,3,3,3,11,9,9,12,8,22,23,44
+UBCO,2019,W,APSC,173,,202,Engineering Analysis II,Alok Chandra;Amirhossein Zaji;Dean Richert;Kevin Golovin;Manjot Kaur;Mehran Shirazi;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,135,73.903703704,13.316398864,100.0,38.0,2,11,3,14,12,21,12,17,12,9,22
+UBCO,2019,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Nicolas Peleato,28,82.535714286,8.543926337,93.0,58.0,0,0,1,0,1,0,2,6,6,3,9
+UBCO,2020,W,APSC,173,,201,Engineering Analysis II,Alok Chandra;Manjot Kaur;Mohammad Tiznobaik;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,171,79.087719298,15.921070798,100.0,14.0,9,7,5,7,10,8,9,16,24,27,49
+UBCO,2020,W,APSC,173,,202,Engineering Analysis II,Alok Chandra;Manjot Kaur;Mohammad Tiznobaik;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,172,76.680232558,18.434872369,100.0,6.0,15,4,10,12,9,8,8,15,17,25,49
+UBCO,2020,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Nicolas Peleato,22,82.818181818,8.516853676,96.0,67.0,0,0,0,0,1,3,1,1,6,5,5
+UBCO,2021,W,APSC,173,,201,Engineering Analysis II,Alok Chandra;Bhuwan Paudel;Isaac Spotts;Manjot Kaur;Mohammad Tiznobaik;Sandun Tharaka Wanniarachchi;Sin Hang Cheung,164,67.841463415,19.713885681,100.0,10.0,25,15,10,10,15,11,15,12,16,12,23
+UBCO,2021,W,APSC,173,,202,Engineering Analysis II,Alok Chandra;Bhuwan Paudel;Isaac Spotts;Manjot Kaur;Mohammad Tiznobaik;Sandun Tharaka Wanniarachchi;Sin Hang Cheung,164,71.573170732,17.304583235,100.0,6.0,17,10,12,9,15,9,20,16,17,11,28
+UBCO,2021,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Mike Mckie;Nicolas Peleato,41,77.073170732,8.678681478,94.0,61.0,0,0,0,3,5,3,6,3,13,6,2

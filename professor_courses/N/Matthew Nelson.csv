@@ -1,0 +1,75 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,BIOL,200,,001,Cell Biology,Matthew Nelson,50,68.78,13.1526206,100.0,46.0,,5,5,7,6,,,5,8,,,,,
+UBCO,2014,W,BIOL,117,,001,Evolution and Ecology,Matthew Nelson,82,65.7195122,17.32497975,95.0,0.0,10,,5,9,15,12,9,8,5,,,,,
+UBCO,2014,W,BIOL,200,,001,Cell Biology,Matthew Nelson,266,74.18796993,11.78912219,99.0,34.0,7,7,15,22,24,22,38,30,45,38,18,,,
+UBCO,2014,W,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson,108,79.26851852,11.57471179,97.0,45.0,,,,3,9,8,10,9,15,23,24,,,
+UBCO,2014,W,SUST,100,,002,"Sustainability: People, Place, and Process",Matthew Nelson,93,75.76344086,14.59630526,98.0,0.0,,,,5,6,7,15,12,13,12,14,,,
+UBCO,2015,S,BIOL,200,,001,Cell Biology,Matthew Nelson,39,65.897435897,17.308037184,97.0,30.0,6,6,6,5,,,,,,,,,,
+UBCO,2015,W,BIOL,117,,001,Evolution and Ecology,Matthew Nelson,88,68.659090909,13.320873227,92.0,28.0,9,,7,8,10,13,,12,13,6,,,,
+UBCO,2015,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,213,68.65258216,12.435549142,95.0,27.0,28,0,12,29,28,18,33,24,26,10,5,,,
+UBCO,2015,W,BIOL,125,,002,Biology for Science Majors II,Matthew Nelson,172,66.23255814,16.158697199,99.0,0.0,36,1,14,19,16,20,16,16,9,16,9,,,
+UBCO,2015,W,BIOL,200,,001,Cell Biology,Matthew Nelson,234,67.256410256,14.222724877,99.0,28.0,20,23,36,28,19,19,14,18,28,15,14,,,
+UBCO,2015,W,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson;Pavandeep Kooner,91,69.197802198,18.472333535,99.0,0.0,8,4,8,9,4,11,13,7,11,10,6,,,
+UBCO,2015,W,SUST,100,,002,"Sustainability: People, Place, and Process",Matthew Nelson,109,72.825688073,16.456926965,95.0,0.0,9,4,3,7,8,11,9,17,15,13,13,,,
+UBCO,2016,S,BIOL,200,,001,Cell Biology,Matthew Nelson,36,65.22222222,14.94965095,98.0,39.0,2,9,7,1,4,2,0,2,4,3,2,,,
+UBCO,2016,S,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson,20,75.6,12.824319,97.0,52.0,0,2,1,1,2,0,2,3,5,1,3,,,
+UBCO,2016,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,214,69.81308411,12.54111049,99.0,20.0,12,5,23,25,26,27,25,22,24,17,8,,,
+UBCO,2016,W,BIOL,125,,002,Biology for Science Majors II,Matthew Nelson,249,67.55823293,13.13874559,95.0,1.0,25,10,25,21,30,44,27,26,21,12,8,,,
+UBCO,2016,W,BIOL,200,,001,Cell Biology,Courtenay Chung;Lakesha Helen Natsuki Smith;Lakesha Smith;Matthew Nelson,213,64.98591549,14.59144195,96.0,0.0,27,24,28,20,20,21,15,20,17,14,7,,,
+UBCO,2016,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,59,69.13559322,12.29726298,89.0,9.0,6,0,1,6,11,3,15,8,7,2,0,,,
+UBCO,2016,W,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson;Subgina Sangha,123,73.67479675,13.81404366,98.0,0.0,7,1,8,5,12,12,19,10,23,16,10,,,
+UBCO,2016,W,SUST,100,,002,"Sustainability: People, Place, and Process",Matthew Nelson,111,69.31531532,15.93679675,98.0,0.0,9,2,6,9,14,16,15,11,18,7,4,,,
+UBCO,2017,S,BIOL,200,,001,Cell Biology,Matthew Nelson;Richard Plunkett,51,68.137254902,13.142327964,95.0,41.0,4,3,9,3,3,9,5,4,5,3,3,,,
+UBCO,2017,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,218,69.743119266,12.189293232,100.0,4.0,14,6,14,30,31,29,28,22,21,12,11,,,
+UBCO,2017,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,220,68.840909091,11.873656005,99.0,34.0,18,5,24,25,32,26,28,18,18,19,7,,,
+UBCO,2017,W,BIOL,200,,001,Cell Biology,Matthew Nelson;Muhammad Khalid,150,68.093333333,15.038361089,96.0,20.0,16,17,15,15,7,12,11,16,17,14,10,,,
+UBCO,2017,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,89,72.95505618,9.952055649,94.0,45.0,3,1,3,6,11,15,12,13,17,4,4,,,
+UBCO,2017,W,SUST,100,,001,"Sustainability: People, Place, and Process",Jasika Khosla;Matthew Nelson;Victoria Goyer,128,73.390625,14.14115253,93.0,0.0,3,2,7,5,12,14,20,18,29,12,6,,,
+UBCO,2017,W,SUST,100,,101,"Sustainability: People, Place, and Process",Jasika Khosla;Matthew Nelson;Victoria Goyer,111,75.738738739,14.943963033,99.0,21.0,5,3,7,5,10,7,11,8,19,19,17,,,
+UBCO,2018,S,BIOL,200,,001,Cell Biology,Matthew Nelson,39,67.512820513,13.732159325,95.0,39.0,2,6,4,4,5,1,6,3,3,2,3,,,
+UBCO,2018,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,230,66.752173913,13.336569207,94.0,9.0,31,6,22,32,30,24,25,17,22,16,5,,,
+UBCO,2018,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,208,69.375,12.477370821,98.0,23.0,18,3,22,19,26,24,30,24,21,13,8,,,
+UBCO,2018,W,BIOL,200,,001,Cell Biology,Alexandra Laberge;Alexandra M Laberge;Matthew Nelson,118,67.279661017,14.931688092,99.0,15.0,12,13,13,10,12,13,10,4,14,10,7,,,
+UBCO,2018,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,106,73.509433962,10.939004293,92.0,41.0,7,0,2,7,15,13,10,18,14,16,4,,,
+UBCO,2018,W,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson;Preetinder Kaler,51,80.784313725,16.849111223,100.0,15.0,2,1,1,0,1,3,5,5,6,12,15,,,
+UBCO,2018,W,SUST,100,,101,"Sustainability: People, Place, and Process",Matthew Nelson;Tia Patychuk,96,68.75,19.0705063,94.0,0.0,13,4,6,4,8,6,12,15,15,7,6,,,
+UBCO,2019,S,BIOL,200,,001,Cell Biology,Matthew Nelson,17,66.529411765,13.725512955,89.0,43.0,1,3,4,0,2,0,2,1,2,2,0,,,
+UBCO,2019,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,193,72.663212435,10.437589523,93.0,32.0,6,2,9,18,16,38,25,26,33,11,9,,,
+UBCO,2019,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,246,74.512195122,11.242315001,96.0,0.0,11,0,6,10,24,40,38,31,47,23,16,,,
+UBCO,2019,W,BIOL,200,,001,Cell Biology,Matthew Nelson;Robin Young,35,70.942857143,10.946239905,91.0,46.0,1,2,3,2,2,6,8,3,3,4,1,,,
+UBCO,2019,W,BIOL,200,,002,Cell Biology,Candice Quin;Matthew Nelson;Paige Barbara Dafoe;Paige Dafoe,132,69.545454545,14.184371378,95.0,22.0,9,14,17,7,6,13,16,11,19,11,9,,,
+UBCO,2019,W,BIOL,200,,101,Cell Biology,Alyssa Dasilva Curiel;Matthew Nelson;Richard Plunkett,116,72.706896552,12.725884093,95.0,45.0,5,7,4,8,19,17,9,6,14,15,12,,,
+UBCO,2019,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,117,74.512820513,11.255355342,95.0,36.0,6,0,5,6,15,8,16,18,20,16,7,,,
+UBCO,2019,W,SUST,100,,001,"Sustainability: People, Place, and Process",Matthew Nelson,107,73.429906542,20.838603577,98.0,0.0,8,2,3,7,11,6,10,16,9,12,23,,,
+UBCO,2020,S,BIOL,200,,001,Cell Biology,Matthew Nelson,90,66.144444444,14.95503456,97.0,27.0,10,9,11,11,8,7,7,8,9,7,3,,,
+UBCO,2020,W,BIOL,125,,001,Biology for Science Majors II,Lana Puddu;Matthew Nelson,197,70.629441624,14.042201198,95.0,6.0,20,2,10,19,24,19,27,29,17,16,14,,,
+UBCO,2020,W,BIOL,125,,102,Biology for Science Majors II,Lana Puddu;Matthew Nelson,221,71.859728507,12.503208967,96.0,20.0,23,0,1,22,24,33,30,24,32,18,14,,,
+UBCO,2020,W,BIOL,200,,101,Cell Biology,Alyssa Wiebe;Matthew Nelson;Robin Young;Seamus Mcrae,59,71.627118644,13.669621876,96.0,48.0,7,4,0,5,4,6,6,5,12,4,6,,,
+UBCO,2020,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,68,72.147058824,14.681966506,93.0,0.0,7,0,3,2,5,14,7,9,9,6,6,,,
+UBCO,2020,W,BIOL,301,,001,Evolutionary Principles and Methods,Matthew Nelson;Michael Russello;Sara Ann Ficaccio;Sara Ficaccio,72,77.902777778,8.395437598,94.0,56.0,0,0,1,1,10,5,6,20,12,11,6,,,
+UBCO,2020,W,SUST,100,,001,"Sustainability: People, Place, and Process",Gurjot Sidhu;Matthew Nelson,134,77.320895522,14.325223953,95.0,13.0,6,1,5,8,4,7,15,15,26,26,21,,,
+UBCO,2021,S,BIOL,200,,001,Cell Biology,Matthew Nelson,59,65.881355932,14.405560164,96.0,38.0,10,3,8,2,9,4,7,4,7,2,3,,,
+UBCO,2021,W,BIOL,117,,101,Evolution and Ecology,Matthew Nelson;Ryleigh L'Italien,83,66.469879518,15.233417493,94.0,28.0,13,8,6,9,9,5,6,9,9,2,7,,,
+UBCO,2021,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,280,71.396428571,11.363810449,96.0,45.0,25,3,12,22,38,35,41,36,32,25,11,,,
+UBCO,2021,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,207,67.111111111,14.413189154,95.0,0.0,37,3,9,25,33,18,18,20,21,21,2,,,
+UBCO,2021,W,BIOL,205,,001,Comparative Invertebrate Zoology,Joel Moller;Matthew Nelson;Megan Buers;Olivia Rianhard,110,70.181818182,14.383465162,95.0,15.0,17,1,3,7,12,16,8,12,20,8,6,,,
+UBCO,2021,W,BIOL,301,,001,Evolutionary Principles and Methods,Danielle Schmidt;Matthew Nelson;Michael Russello,57,71.035087719,13.322865565,96.0,40.0,4,1,5,3,11,2,8,7,7,3,6,,,
+UBCO,2021,W,BIOL,459,,001,Behavioural Ecology,Madison Pankratz;Matthew Nelson,67,77.014925373,9.840381456,92.0,36.0,1,0,3,3,3,6,8,13,17,10,3,,,
+UBCO,2021,S,BIOL,200,,001,Cell Biology,Matthew Nelson,59,65.9,,96.0,38.0,10,,8,,9,,7,,7,,,67.0,77.0,56.5
+UBCO,2021,W,BIOL,117,,101,Evolution and Ecology,Matthew Nelson,83,66.5,,94.0,28.0,13,8,6,9,9,,6,9,9,,7,67.0,78.5,54.0
+UBCO,2021,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,280,71.5,,96.0,45.0,25,3,12,21,38,35,41,36,33,25,11,72.0,79.0,65.0
+UBCO,2021,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,207,67.1,,95.0,0.0,37,,9,25,33,18,18,20,21,21,,67.0,78.0,61.0
+UBCO,2021,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,110,70.5,,95.0,15.0,17,,,7,12,17,8,12,20,8,6,71.0,81.0,64.0
+UBCO,2021,W,BIOL,459,,001,Behavioural Ecology,Matthew Nelson,67,77.0,,92.0,36.0,,,,,,6,8,13,17,10,,79.0,83.0,72.5
+UBCO,2022,S,BIOL,200,,001,Cell Biology,Matthew Nelson,40,66.7,,95.0,42.0,4,1,7,6,3,7,2,2,5,0,3,65.0,75.3,58.0
+UBCO,2022,W,BIOL,122,,101,Physiology of Multicellular Organisms,Matthew Nelson,29,64.1,,93.0,0.0,7,2,2,1,4,1,1,1,9,0,1,67.0,81.0,54.0
+UBCO,2022,W,BIOL,125,,101,Biology for Science Majors II,Matthew Nelson,239,68.1,,98.0,0.0,35,7,18,26,18,23,26,24,34,16,12,70.0,80.0,59.5
+UBCO,2022,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,160,68.9,,93.0,26.0,14,1,15,23,20,21,18,18,13,10,7,69.0,78.0,61.0
+UBCO,2022,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,122,72.7,,97.0,44.0,6,1,11,10,13,15,14,11,21,11,9,73.0,82.0,65.0
+UBCO,2022,W,BIOL,459,,001,Behavioural Ecology,Matthew Nelson,82,80.5,,98.0,25.0,1,1,1,2,3,7,3,11,20,17,16,82.0,87.8,76.3
+UBCO,2023,W,BIOL,117,,101,Evolution and Ecology,Matthew Nelson,67,66.7,,95.0,0.0,9,5,2,5,7,2,10,4,7,7,2,71.0,80.3,58.5
+UBCO,2023,W,BIOL,125,,101,Biology for Science Majors II,Matthew Nelson,165,71.8,,93.0,46.0,11,0,10,15,21,21,19,24,18,18,6,73.0,80.0,64.5
+UBCO,2023,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,212,70.9,,95.0,9.0,13,2,20,11,32,16,39,31,26,13,7,73.0,79.0,65.0
+UBCO,2023,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,78,71.9,,95.0,38.0,2,1,7,15,5,5,11,11,7,9,5,73.0,80.8,62.0
+UBCO,2023,W,BIOL,301,,101,Evolutionary Principles and Methods,Matthew Nelson,90,75.9,,97.0,0.0,2,0,2,7,4,8,15,16,19,10,7,77.0,84.0,71.3
+UBCO,2023,W,BIOL,459,,001,Behavioural Ecology,Matthew Nelson,89,82.2,,98.0,43.0,2,1,3,1,2,4,4,3,20,26,22,85.0,89.3,80.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,S,BIOL,300,,921,Fundamentals of Biostatistics,Benjamin Freeman;Gabriel Greenberg-Pines;Laura Guzman Uribe;Sydne Guevara Rozo,107,88.953271028,11.33984724,100.0,0.0,1,0,0,0,1,1,5,6,8,19,66,,,
+UBCV,2020,W,BIOL,418,,101,Evolutionary Ecology,Benjamin Freeman;Haley Branch;Stephanie Blain,33,85.575757576,4.841424784,94.0,77.0,0,0,0,0,0,0,0,5,8,13,7,,,
+UBCV,2022,S,BIOL,300,,921,Fundamentals of Biostatistics,Benjamin Freeman,100,87.0,,97.0,31.0,2,1,0,0,0,1,2,6,12,25,51,90.0,93.0,85.0
+UBCV,2022,W,BIOL,418,,101,Evolutionary Ecology,Haley Branch;Benjamin Freeman,29,78.3,,94.0,62.0,0,0,0,1,1,2,6,4,9,4,2,80.0,81.0,74.0

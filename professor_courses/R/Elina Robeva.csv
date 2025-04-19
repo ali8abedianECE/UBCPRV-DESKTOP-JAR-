@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,MATH,303,,201,Introduction to Stochastic Processes,Elina Robeva;Gordon Slade;Jens Malmquist;Jieliang Hong;Khanh Dao Duc;Kyle Macdonald;Sophie Macdonald;Thomas Budzinski,102,78.598039216,13.644176797,100.0,50.0,0,5,3,8,4,12,13,11,6,15,25,,,
+UBCV,2019,W,MATH,303,,202,Introduction to Stochastic Processes,Elina Robeva;Gordon Slade;Jieliang Hong;Khanh Dao Duc;Serdar Turkmenafsar;Thomas Budzinski,74,75.608108108,17.186979436,100.0,0.0,3,3,5,6,6,4,2,8,15,8,14,,,
+UBCV,2019,W,MATH,303,,203,Introduction to Stochastic Processes,Elina Robeva;Gordon Slade;Guillermo Elias Martinez Dibene;Guillermo Martinez Dibene;Jieliang Hong;Khanh Dao Duc;Thomas Budzinski,73,74.698630137,13.895127975,100.0,32.0,2,1,9,2,5,8,12,9,8,8,9,,,
+UBCV,2019,W,MATH,307,,103,Applied Linear Algebra,Elina Robeva;Liangchen Liu;Ozgur Yilmaz,81,64.604938272,14.157753187,90.0,29.0,10,12,5,6,7,14,7,8,8,3,1,,,
+UBCV,2020,W,MATH,303,,201,Introduction to Stochastic Processes,Elina Robeva;Emmanuel Michta;Jacob Richey;Khanh Dao Duc;Merlin Pelz;Patrick Walls;Rebecca Bonham-Carter,121,72.214876033,17.207172251,100.0,23.0,9,9,9,10,12,8,11,9,10,7,27,,,
+UBCV,2020,W,MATH,307,,103,Applied Linear Algebra,Elina Robeva;Emma Hansen;Justin Furlotte;Markus Lange;Ozgur Yilmaz;Patrick Walls;Qidi Zhang;Richard Gerd Froese;Yiyang Tian,100,74.99,11.536061159,95.0,43.0,4,4,3,2,8,8,15,14,22,14,6,,,
+UBCV,2020,W,MATH,307,,201,Applied Linear Algebra,Alireza Naderi;Elina Robeva;Ethan White;Halyun Jeong;Ming Zhang;Ozgur Yilmaz;Patrick Walls;Prajeet Bajpai,121,71.743801653,14.019943489,98.0,13.0,1,14,15,7,9,10,16,9,17,12,11,,,
+UBCV,2020,W,MATH,307,,202,Applied Linear Algebra,Alireza Naderi;Elina Robeva;Ethan White;Markus Lange;Ming Zhang;Ozgur Yilmaz;Patrick Walls;Prajeet Bajpai,94,70.308510638,14.726193908,95.0,0.0,2,9,11,8,6,5,12,16,10,7,8,,,
+UBCV,2020,W,MATH,605,D,101,Topics in Applied Mathematics,Elina Robeva,7,92.0,4.0,96.0,86.0,0,0,0,0,0,0,0,0,0,3,4,,,
+UBCV,2021,W,MATH,307,,201,Applied Linear Algebra,Bakytzhan Kurmanbek;Chunyi Gai;Danny Ofek;Elina Robeva;Patrick Walls;Sharvaj Kubal,85,72.352941176,13.196956614,99.0,22.0,3,4,3,5,12,6,16,13,9,4,10,,,
+UBCV,2021,W,MATH,307,,202,Applied Linear Algebra,Bakytzhan Kurmanbek;Danny Ofek;Elina Robeva;Ozgur Yilmaz;Patrick Walls;Sharvaj Kubal,104,67.490384615,17.16453512,99.0,12.0,13,4,4,9,15,18,6,4,19,4,8,,,
+UBCV,2021,W,MATH,605,D,201,Topics in Applied Mathematics,Elina Robeva,17,96.176470588,5.736236725,100.0,80.0,0,0,0,0,0,0,0,0,1,1,15,,,
+UBCV,2021,W,MATH,307,,201,Applied Linear Algebra,Chunyi Gai;Elina Robeva;Patrick Walls,87,72.7,,99.0,43.0,,,,,13,6,16,13,10,,10,73.0,80.5,65.0
+UBCV,2021,W,MATH,307,,202,Applied Linear Algebra,Elina Robeva;Patrick Walls,108,67.9,,99.0,12.0,12,,,10,17,18,6,6,19,,8,68.0,80.3,61.8
+UBCV,2021,W,MATH,605,D,201,Topics in Applied Mathematics,Elina Robeva,17,96.2,,100.0,80.0,,,,,,,,,,,15,98.0,100.0,96.0
+UBCV,2022,W,MATH,223,,101,Linear Algebra,Elina Robeva,59,83.9,,100.0,36.0,2,0,1,3,1,3,2,4,7,9,27,86.0,93.5,78.0
+UBCV,2022,W,MATH,302,,201,Introduction to Probability,Elina Robeva,148,78.4,,100.0,8.0,7,4,3,6,7,9,11,17,26,19,39,80.0,90.0,72.0
+UBCV,2022,W,MATH,605,D,101,Topics in Applied Mathematics,Elina Robeva,6,97.2,,99.0,95.0,0,0,0,0,0,0,0,0,0,0,6,97.5,99.0,95.3

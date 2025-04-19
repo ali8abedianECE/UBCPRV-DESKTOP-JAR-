@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,BIOC,509,,101,MEMBRANE STR&FNC,"Molday, Robert",20,82.68,20.55,94,0,18,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2,2,7,7,,,
+UBC,2005,W,BIOC,509,,101,MEMBRANE STR&FNC,"Molday, Robert",14,88.15,3.11,93,84,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5,,,
+UBC,2007,W,BIOC,509,,101,MEMBRANE STR&FNC,"Molday, Robert",17,86.65,3.39,93,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,3,,,
+UBC,2009,W,BIOC,303,,001,MOLECULAR BIOC,"Brownsey, Roger;Mayor, Thibault;Molday, Robert;Numata, Masayuki",162,72.93,13.15,100,36,153,5,4,0,0,0,0,0,1,4,5,12,12,6,12,19,21,18,16,24,13,,,
+UBC,2009,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",13,88.17,2.82,93,85,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,,,
+UBC,2010,W,BIOC,303,,001,MOLECULAR BIOC,"Brownsey, Roger;Mayor, Thibault;Molday, Robert;Numata, Masayuki",147,72.91,13.86,99,17,140,4,3,0,0,0,1,1,0,2,4,10,12,5,15,8,17,23,22,16,12,,,
+UBC,2011,W,BIOC,303,,001,MOLECULAR BIOC,"Brownsey, Roger;Mayor, Thibault;Molday, Robert;Numata, Masayuki",153,71.96,12.15,96,38,145,5,2,0,0,0,0,0,1,4,5,10,9,9,14,17,24,21,20,13,8,,,
+UBC,2011,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",13,90.25,2.77,94,85,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,,,
+UBC,2013,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",17,89.31,2.73,94,86,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,,,
+UBC,2013,W,BIOC,530,,001,SEMINAR,"Molday, Robert",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,BIOC,530,,001,SEMINAR,"Molday, Robert",12,72,0,72,72,1,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+UBC,2015,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Duong Van Hoa, Franck;Molday, Robert",9,90.33,2.5,94,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,,,
+UBC,2015,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",11,87.91,4.44,95,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,5,,,
+UBC,2016,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",12,89,2,91,87,3,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,,,
+UBC,2016,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",10,87.4,6.65,95,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,5,,,
+UBC,2017,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Duong Van Hoa, Franck;Molday, Robert",9,88.89,1.83,91,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,,,
+UBC,2017,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",14,85.5,3.54,88,83,2,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,,,
+UBC,2017,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",8,89.13,2.47,92,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,,,
+UBC,2018,W,BIOC,450,,001,MEMBRANE BIOC,"Duong Van Hoa, Franck;Molday, Robert;Nislow, Corey;Strynadka, Natalie;Van Petegem, Filip",40,80.88,8.31,94,57,40,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,3,7,13,9,4,,,
+UBC,2018,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",4,90.5,2.12,92,89,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,
+UBC,2018,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",12,86.83,4.3,94,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,,,
+UBCV,2015,W,BIOC,509,,101,Membrane Structure and Function,Franck Duong Van Hoa;Pieter Cullis;Robert Molday,9,90.333333333,2.5,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,6,,,
+UBCV,2015,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,11,87.909090909,4.437443982,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,5,,,
+UBCV,2016,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,10,87.4,6.653319973,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,3,5,,,
+UBCV,2017,W,BIOC,509,,101,Membrane Structure and Function,Franck Duong Van Hoa;Pieter Cullis;Robert Molday,9,88.888888889,1.833333333,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,3,,,
+UBCV,2017,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,8,89.125,2.474873734,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,2,,,
+UBCV,2018,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Elizabeth Conibear;Filip Van Petegem;Franck Duong Van Hoa;Masayuki Numata;Natalie Strynadka;Robert Molday,40,80.875,8.305659177,94.0,57.0,,,,,,,,,,,0,0,2,0,1,1,3,7,13,9,4,,,
+UBCV,2018,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,12,86.833333333,4.302923601,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,4,,,
+UBCV,2019,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Elizabeth Conibear;Filip Van Petegem;Masayuki Numata;Natalie Strynadka;Pieter Cullis;Robert Molday,40,83.55,5.759941239,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,7,14,9,7,,,
+UBCV,2019,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,14,90.142857143,3.084879822,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,9,,,
+UBCV,2020,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Filip Van Petegem;Natalie Strynadka;Pieter Cullis;Robert Molday,59,78.508474576,8.807075685,93.0,51.0,,,,,,,,,,,0,1,0,2,4,7,6,4,20,12,3,,,
+UBCV,2020,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,10,88.6,4.575295983,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,5,,,
+UBCV,2021,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Filip Van Petegem;Harry Brumer;Natalie Strynadka;Pieter Cullis;Robert Molday,37,80.351351351,6.571048522,95.0,65.0,,,,,,,,,,,0,0,0,0,2,1,5,8,12,6,3,,,
+UBCV,2021,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,18,89.888888889,2.587046667,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,11,,,
+UBCV,2021,W,BIOC,552,,001,Membrane Proteins,Franck Duong Van Hoa;Robert Molday,12,89.166666667,3.950450684,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,6,,,
+UBCV,2021,W,BIOC,450,,001,Membrane Biochemistry,Harry Brumer;Robert Molday;Corey Nislow;Natalie Strynadka;Filip Van Petegem,38,80.1,,95.0,65.0,,,,,,,,,,,,,,,,,,8,12,6,,81.0,84.0,76.3
+UBCV,2021,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,18,89.9,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,11,90.0,90.8,89.0
+UBCV,2021,W,BIOC,552,,001,Membrane Proteins,Franck Duong Van Hoa;Robert Molday,12,89.2,,94.0,83.0,,,,,,,,,,,,,,,,,,,,,6,89.5,92.3,86.0
+UBCV,2022,W,BIOC,450,,001,Membrane Biochemistry,Harry Brumer;Robert Molday;Corey Nislow;Natalie Strynadka;Filip van Petegem,35,72.9,,89.0,46.0,,,,,,,,,,,2,1,2,2,2,4,6,5,6,5,0,74.0,81.5,67.5
+UBCV,2022,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,15,88.9,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,7,89.0,90.5,87.5
+UBCV,2023,W,BIOC,552,,001,Membrane Proteins,Franck Duong van Hoa;Robert Molday,10,90.9,,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,91.0,92.0,90.0

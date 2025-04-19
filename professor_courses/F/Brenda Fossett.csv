@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,EPSE,317,,301,DEV&EX REG CLASS,"Fossett, Brenda;Holbrook, Cay",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EPSE,317,,308,DEV&EX REG CLASS,"Fossett, Brenda;Mirenda, Pat",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EPSE,411,,074,AUGMT&ALT COMM,"Fossett, Brenda;Mirenda, Pat",24,80.83,8.5,97,58,23,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,6,4,7,2
+UBC,2007,W,EPSE,317,,301,DEV&EX REG CLASS,"Fossett, Brenda;Lucyshyn, Joseph",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EPSE,403,,93S,ED ST DVL DS INC,"Fossett, Brenda",24,85.63,7.96,96,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,4,8,8
+UBC,2009,S,EPSE,449,,951,EDUC STDS AUTISM,"Fossett, Brenda",18,88.78,4.91,97,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,9
+UBC,2009,W,EPSE,317,,306,DEV&EX REG CLASS,"Fossett, Brenda;Jordan, Elizabeth",40,,,,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EPSE,411,,074,AUGMT&ALT COMM,"Fossett, Brenda",27,76.93,6.99,86,58,27,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,8,7,4,0
+UBC,2009,W,EPSE,449,,074,EDUC STDS AUTISM,"Fossett, Brenda",34,84.29,16.39,98,0,33,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,3,3,5,10,12
+UBC,2010,S,EPSE,403,,93S,ED ST DVL DS INC,"Fossett, Brenda",21,83.71,10.32,97,62,21,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,2,3,6,6
+UBC,2010,S,EPSE,449,,951,EDUC STDS AUTISM,"Fossett, Brenda",22,90.57,5.1,98,76,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,14
+UBC,2010,W,EPSE,411,,074,AUGMT&ALT COMM,"Fossett, Brenda",11,80.55,5.28,88,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,3,0
+UBC,2010,W,EPSE,449,,61A,EDUC STDS AUTISM,"Fossett, Brenda",18,84.28,7.28,93,66,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,8,3
+UBC,2011,S,EPSE,513,,96A,ED CHILD DEV DIS,"Fossett, Brenda",15,87.07,7.15,95,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,7
+UBC,2011,W,EPSE,514,,62A,SEM BEH ASSMNT,"Fossett, Brenda",14,85.36,6.5,96,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,4
+UBC,2011,W,EPSE,532,,61A,SUPPORT SCH&COMM,"Fossett, Brenda",15,84.4,9.4,97,61,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,4,5
+UBC,2012,W,EPSE,411,,61A,AUGMT&ALT COMM,"Fossett, Brenda",12,83.92,3.34,88,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0
+UBC,2013,S,EPSE,590,,96A,GRADUATING PAPER,"Fossett, Brenda",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,449,,63C,EDUC STDS AUTISM,"Fossett, Brenda",24,81.88,16.28,95,23,23,1,0,0,0,0,0,1,0,0,1,1,0,0,0,2,1,2,3,5,9
+UBC,2013,W,EPSE,512,,074,CRIT SPEC ED,"Fossett, Brenda",15,92.13,7.34,99,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,12
+UBC,2015,S,EPSE,512,,951,CRIT SPEC ED,"Fossett, Brenda",16,79.94,5.67,89,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,5,3,0
+UBC,2015,W,EPSE,576,,074,ASMT&BEH SUPPORT,"Fossett, Brenda",25,83.68,7.44,92,61,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,6,12,3
+UBC,2016,S,EPSE,449,,951,EDUC STDS AUTISM,"Fossett, Brenda",22,83.86,9.85,94,49,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,4,4,8
+UBC,2016,W,EPSE,576,,074,ASMT&BEH SUPPORT,"Fossett, Brenda",20,87,5.32,94,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,10,6
+UBC,2017,S,EPSE,449,,951,EDUC STDS AUTISM,"Fossett, Brenda",15,88.2,4.6,96,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,6
+UBC,2017,W,EPSE,576,,074,ASMT&BEH SUPPORT,"Fossett, Brenda",17,85.59,7.77,95,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,4,6
+UBC,2018,S,EPSE,512,,941,CRIT SPEC ED,"Fossett, Brenda",21,78.62,6.55,88,66,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,1,6,5,0
+UBC,2018,W,EPSE,449,,074,EDUC STDS AUTISM,"Fossett, Brenda",28,85.25,6.86,98,69,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,7,9
+UBC,2018,W,EPSE,512,,63C,CRIT SPEC ED,"Fossett, Brenda",11,78.18,4.45,84,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,0,0
+UBCV,2015,S,EPSE,512,,951,Critical Issues in Special Education,Brenda Fossett;Brenda L Fossett,16,79.9375,5.674137233,89.0,68.0,,,,,,,,,,,0,0,0,0,0,,,5,5,,0
+UBCV,2015,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Brenda L Fossett,25,83.68,7.442669772,92.0,61.0,,,,,,,,,,,0,0,0,,,,,,6,12,
+UBCV,2016,S,EPSE,449,,951,Education of Students with Autism,Brenda Fossett;Brenda L Fossett,22,83.86363636,9.847868779,94.0,49.0,,,,,,,,,,,1,0,0,0,0,0,0,5,4,4,8
+UBCV,2016,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Brenda L Fossett,20,87.0,5.32125826,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,10,6
+UBCV,2017,S,EPSE,449,,951,Education of Students with Autism,Brenda Fossett;Brenda L Fossett,15,88.2,4.601242068,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,6
+UBCV,2017,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Brenda L Fossett,17,85.588235294,7.770608274,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,4,6
+UBCV,2018,S,EPSE,449,,951,Education of Students with Autism,Alexia Stack;Brenda Fossett,20,80.4,9.483503683,91.0,52.0,,,,,,,,,,,0,1,0,1,0,0,2,4,3,7,2
+UBCV,2018,S,EPSE,512,,941,Critical Issues in Special Education,Brenda Fossett,21,78.619047619,6.545809274,88.0,66.0,,,,,,,,,,,0,0,0,0,1,2,6,1,6,5,0
+UBCV,2018,W,EPSE,449,,074,Education of Students with Autism,Alexia Stack;Brenda Fossett,28,85.25,6.861729617,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,5,6,7,9
+UBCV,2018,W,EPSE,512,,63C,Critical Issues in Special Education,Brenda Fossett,11,78.181818182,4.445631155,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,3,5,0,0
+UBCV,2019,S,EPSE,512,,941,Critical Issues in Special Education,Brenda Fossett;Mary Heikkila,12,96.916666667,1.083624669,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2019,W,EPSE,512,,63C,Critical Issues in Special Education,Brenda Fossett,14,82.285714286,5.195094897,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,4,6,0
+UBCV,2019,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Joseph Lucyshyn,17,82.941176471,4.602588786,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,8,5,1
+UBCV,2020,W,EPSE,512,,075,Critical Issues in Special Education,Brenda Fossett,9,84.111111111,4.342938074,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,1
+UBCV,2020,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Joseph Lucyshyn;Karen Kester,24,91.333333333,4.931413649,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,7,16
+UBCV,2021,W,EPSE,512,,075,Critical Issues in Special Education,Brenda Fossett;Carly Christensen,8,95.375,1.685018016,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8

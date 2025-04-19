@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,32,68.03125,20.428450078,97.0,0.0,,,,,,6,7,,,,,,,
+UBCO,2015,W,JPST,200,,001,Continuing Japanese Language I,Mayu Takasaki;Nina Langton,22,63.363636364,16.626271393,92.0,27.0,,5,,,6,,,,,,,,,
+UBCO,2015,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,16,64.4375,6.120661729,71.0,54.0,0,,,,,8,0,0,0,0,0,,,
+UBCO,2016,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,34,70.70588235,23.62270276,98.0,4.0,5,2,2,0,1,0,5,5,5,2,7,,,
+UBCO,2016,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,32,65.125,21.38849555,98.0,12.0,6,0,5,2,1,2,4,4,4,1,3,,,
+UBCO,2016,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,24,70.91666667,16.15661573,96.0,42.0,2,3,2,1,1,2,4,1,2,3,3,,,
+UBCO,2016,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,23,68.65217391,19.3593029,98.0,24.0,4,1,0,2,2,3,2,2,2,2,3,,,
+UBCO,2016,W,JPST,200,,001,Continuing Japanese Language I,Mayu Takasaki,17,75.11764706,14.30857415,90.0,40.0,2,0,0,0,2,0,2,1,5,4,1,,,
+UBCO,2016,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,18,74.22222222,10.84411229,88.0,52.0,0,1,0,2,2,3,2,0,3,5,0,,,
+UBCO,2017,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,21,70.714285714,23.569350558,99.0,20.0,4,0,2,2,0,0,2,2,2,1,6,,,
+UBCO,2017,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,33,72.151515152,22.401340937,96.0,4.0,3,0,1,4,2,3,3,2,5,4,6,,,
+UBCO,2017,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,34,67.323529412,22.220275464,94.0,20.0,8,1,1,1,2,0,6,2,6,1,6,,,
+UBCO,2017,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,6,64.833333333,20.585593668,92.0,33.0,1,1,0,0,1,0,1,1,0,0,1,,,
+UBCO,2017,W,JPST,215,,101,Introduction to Contemporary Japan Through Pop Culture,Mayu Takasaki;Nina Langton,17,71.058823529,16.768536714,92.0,20.0,1,1,1,1,0,2,3,3,3,1,1,,,
+UBCO,2017,W,JPST,300,,001,Japanese Through Manga: Business Culture,Mayu Takasaki,13,75.0,24.805913274,92.0,0.0,1,0,0,2,0,1,0,0,3,3,3,,,
+UBCO,2018,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki;Nina Langton,27,72.0,21.07313273,97.0,17.0,4,2,1,0,1,3,3,1,3,1,8,,,
+UBCO,2018,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,13,66.538461538,15.020072041,88.0,44.0,2,0,3,2,0,0,1,0,4,1,0,,,
+UBCO,2018,W,JPST,395,A,001,Topics in Modern Japanese Literature and Culture,Mayu Takasaki,59,74.915254237,15.437625482,96.0,1.0,1,4,3,1,4,8,5,7,10,8,8,,,
+UBCO,2019,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,31,75.322580645,16.162481445,94.0,25.0,2,2,0,1,2,4,3,4,3,2,8,,,
+UBCO,2019,S,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,8,83.25,10.166471505,95.0,70.0,0,0,0,0,0,1,1,2,0,0,4,,,
+UBCO,2019,W,JPST,101,,001,Beginning Japanese Language II,Alwyn Spies;Mayu Takasaki,21,73.904761905,18.683963075,96.0,13.0,1,1,1,2,1,1,2,5,1,1,5,,,
+UBCO,2019,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki;Nina Langton,15,80.4,13.715476139,94.0,50.0,0,2,0,0,1,0,0,1,4,3,4,,,
+UBCO,2019,W,JPST,395,A,001,Topics in Modern Japanese Literature and Culture,Mayu Takasaki,35,83.2,10.961966333,98.0,57.0,0,0,1,1,2,1,5,1,5,7,12,,,
+UBCO,2020,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,32,72.9375,17.415116719,97.0,29.0,4,0,1,0,6,4,1,3,3,6,4,,,
+UBCO,2020,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki;Nina Langton,29,79.482758621,18.766651063,97.0,11.0,2,1,0,1,1,1,1,3,3,8,8,,,
+UBCO,2020,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki;Nina Langton,23,75.304347826,21.598473815,97.0,16.0,4,0,1,0,0,0,0,3,6,5,4,,,
+UBCO,2020,W,JPST,100,,003,Beginning Japanese Language I,Mayu Takasaki;Nina Langton,24,73.958333333,23.52145952,99.0,0.0,2,1,3,0,0,2,1,2,3,3,7,,,
+UBCO,2020,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,15,82.4,8.773336228,93.0,66.0,0,0,0,0,2,0,1,2,4,2,4,,,
+UBCO,2020,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,13,82.923076923,13.168532812,98.0,56.0,0,0,1,1,0,0,2,0,2,1,6,,,
+UBCO,2020,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki;Nina Langton,24,77.041666667,13.731839127,97.0,50.0,0,3,1,0,1,1,3,4,3,4,4,,,
+UBCO,2020,W,JPST,370,,001,Japanese Food Culture,Mayu Takasaki,33,78.787878788,10.120392704,92.0,58.0,0,0,2,1,1,5,4,3,4,8,5,,,
+UBCO,2021,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,23,76.304347826,13.81841585,97.0,37.0,1,0,1,1,2,4,1,3,3,4,3,,,
+UBCO,2021,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,28,72.357142857,18.85463748,98.0,20.0,2,6,1,0,0,2,2,5,0,4,6,,,
+UBCO,2021,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,30,73.366666667,21.251342081,97.0,15.0,4,1,1,1,2,1,2,2,5,3,8,,,
+UBCO,2021,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,19,77.210526316,12.890905267,99.0,55.0,0,0,2,3,0,0,4,1,4,1,4,,,
+UBCO,2021,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,23,71.782608696,15.634915826,100.0,28.0,1,2,1,2,2,3,1,4,3,1,3,,,
+UBCO,2021,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,10,84.7,9.416887903,97.0,71.0,0,0,0,0,0,1,2,1,0,1,5,,,
+UBCO,2021,W,JPST,370,,001,Japanese Food Culture,Mayu Takasaki,33,85.393939394,11.634913499,97.0,38.0,1,0,0,0,1,0,4,1,4,9,13,,,
+UBCO,2021,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,23,76.3,,97.0,37.0,,,,,,,,,,,,77.0,87.0,68.5
+UBCO,2021,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,28,72.4,,98.0,20.0,,6,,,,,,,,,6,76.5,88.0,54.0
+UBCO,2021,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,30,73.4,,97.0,15.0,,,,,,,,,,,8,80.0,89.5,66.3
+UBCO,2021,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,19,77.2,,99.0,55.0,,,,,,,,,,,,79.0,84.0,68.0
+UBCO,2021,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,23,71.8,,100.0,28.0,,,,,,,,,,,,74.0,81.5,64.5
+UBCO,2021,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,10,84.7,,97.0,71.0,,,,,,,,,,,,89.5,90.8,75.8
+UBCO,2021,W,JPST,370,,001,Japanese Food Culture,Mayu Takasaki,33,85.4,,97.0,38.0,,,,,,,,,,9,13,88.0,92.0,84.0
+UBCO,2022,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,26,77.1,,98.0,0.0,1,1,0,2,3,0,0,3,7,3,6,82.0,88.5,69.3
+UBCO,2022,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,29,78.6,,98.0,22.0,2,0,0,2,2,2,1,4,3,1,12,82.0,93.0,69.0
+UBCO,2022,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,29,66.7,,98.0,13.0,6,2,1,4,1,1,2,0,4,2,6,68.0,85.0,54.0
+UBCO,2022,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,21,74.2,,98.0,0.0,3,1,1,0,1,0,1,0,5,3,6,82.0,90.0,64.0
+UBCO,2022,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,28,78.1,,99.0,54.0,0,1,0,2,5,0,4,2,3,5,6,78.5,87.5,66.5
+UBCO,2022,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,15,81.8,,96.0,54.0,0,1,0,2,0,0,1,1,2,3,5,85.0,92.5,76.5
+UBCO,2022,W,JPST,370,,001,Japanese Food Culture,Mayu Takasaki,34,84.4,,99.0,61.0,0,0,0,1,1,2,2,6,5,2,15,84.0,93.0,77.5
+UBCO,2023,S,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,27,76.57,,98.0,0.0,2,2,0,0,1,2,0,3,0,4,9,86.0,92.5,69.0
+UBCO,2023,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,32,75.52,,97.0,6.0,2,0,1,2,1,2,4,1,3,8,5,80.0,88.0,70.0
+UBCO,2023,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,33,73.07,,98.0,2.0,1,0,6,2,0,2,2,2,7,4,3,78.0,84.0,60.0
+UBCO,2023,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,13,81.08,,94.0,61.0,0,0,0,1,0,2,1,0,2,3,3,85.0,88.5,73.0
+UBCO,2023,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,25,79.13,,96.0,56.0,0,0,3,1,0,1,2,6,3,2,6,79.0,88.5,74.25
+UBCO,2023,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,8,66.63,,84.0,28.0,1,0,0,2,1,0,0,3,1,0,0,71.0,78.25,61.5
+UBCO,2023,W,JPST,370,,001,Japanese Food Culture,Mayu Takasaki,36,86.67,,96.0,72.0,0,0,0,0,0,0,3,3,8,9,13,85.5,93.5,83.75

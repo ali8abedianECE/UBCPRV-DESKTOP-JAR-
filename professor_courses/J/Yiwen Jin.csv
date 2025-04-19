@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,BABS,506,,BA1,Analyzing and Modelling Uncertainty,Hao Zhang;Xinyuan Zhang;Yiwen Jin,47,83.191489362,5.678480729,92.0,68.0,0,0,0,0,0,1,2,9,13,14,8,,,
+UBCV,2019,W,BASC,550,,MM1,Operations,Sha Liao;Xinyuan Zhang;Yiwen Jin,47,84.404255319,8.50488242,95.0,60.0,0,0,0,2,1,2,0,5,13,6,18,,,
+UBCV,2020,W,BABS,506,,BA1,Analyzing and Modelling Uncertainty,Hao Zhang;Xinyuan Zhang;Yiwen Jin,77,86.025974026,7.121084383,97.0,61.0,0,0,0,1,1,0,4,6,17,20,28,,,
+UBCV,2020,W,BABS,550,,820,Application of Statistics in Management,Sha Liao;Talissa Eng;Yiwen Jin,33,80.212121212,7.967737978,95.0,60.0,0,0,0,1,1,1,5,7,10,3,5,,,
+UBCV,2020,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Hao Zhang;Xinyuan Zhang;Yiwen Jin,75,85.12,6.03135949,97.0,69.0,0,0,0,0,0,3,3,5,18,27,19,,,
+UBCV,2020,W,BASC,550,,MM1,Operations,Sha Liao;Yiwen Jin,56,83.339285714,7.807401583,96.0,62.0,0,0,0,1,0,4,5,6,11,15,14,,,
+UBCV,2021,S,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Yiwen Jin,56,77.053571429,4.776532188,87.0,55.0,0,0,,,,3,14,20,17,1,0,,,
+UBCV,2021,S,BASC,550,,820,Operations,Mahesh Nagarajan;Yiwen Jin,31,79.612903226,3.870206018,90.0,72.0,0,0,0,0,0,0,2,13,13,2,1,,,
+UBCV,2022,S,COMM,204,,921,Logistics and Operations Management,Yiwen Jin,33,82.0,,95.0,68.0,0,0,0,0,0,1,4,4,9,11,4,82.0,85.0,78.0

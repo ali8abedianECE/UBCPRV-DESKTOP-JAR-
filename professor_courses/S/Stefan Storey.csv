@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ENVR,410,,201,"ENRG, ENVR & SOC","Storey, Stefan",43,79.12,8.93,96,59,43,0,0,0,0,0,0,0,0,0,0,0,1,2,3,2,3,6,15,7,4
+UBC,2016,W,CEEN,525,,025,ENERGY POLICY,"Storey, Stefan",26,80.24,16.84,92,3,24,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,2,9,9,2
+UBC,2018,W,CEEN,525,,101,ENERGY POLICY,"Storey, Stefan",27,82.77,6.98,94,68,26,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,4,5,9,4
+UBCV,2015,W,ENVR,410,,201,"Energy, Environment, and Society",Maryam Rezaei;Stefan Storey,43,79.11627907,8.92884385,96.0,59.0,,,,,,,,,,,0,0,,,,,,6,15,7,
+UBCV,2016,W,CEEN,525,,025,Energy Policy,Stefan Storey,25,80.24,16.83567641,92.0,3.0,,,,,,,,,,,1,0,0,0,0,1,1,2,9,9,2
+UBCV,2018,W,CEEN,525,,101,Energy Policy,Poushali Maji;Stefan Storey,26,82.769230769,6.981734411,94.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,4,5,9,4
+UBCV,2018,W,GPP,541,,001,Policy Dimensions of Energy Systems,Stefan Storey,13,85.0,5.887840578,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,4,3

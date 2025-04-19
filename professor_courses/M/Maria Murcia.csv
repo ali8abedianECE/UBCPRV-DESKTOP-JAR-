@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,S,WOOD,465,,921,WOOD IND MANAG,"Gaston, Christopher;Murcia, Maria",7,83.43,8.68,93,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,2,,,
+UBC,2018,W,FOPR,459,,201,"ECON, CONT, FINA","Murcia, Maria;Nelson, Harry William",17,89.47,5.06,97,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,9,,,
+UBCV,2018,S,WOOD,465,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia,7,83.428571429,8.676734079,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,0,2,2,,,
+UBCV,2018,W,FOPR,459,,201,"Economics, Contracts, and Finances in Forest Operations",Harry William Nelson;Maria Murcia,17,89.470588235,5.063566518,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,9,,,
+UBCV,2019,S,WOOD,465,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia;Yadira Corbet;Yadira Rosa Corbet,17,87.705882353,6.242642728,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,6,7,,,
+UBCV,2021,S,WOOD,365,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia,55,84.727272727,9.358012106,99.0,60.0,,,,,,,,,,,0,0,0,2,1,1,6,6,6,13,20,,,
+UBCV,2021,S,WOOD,365,,921,Wood Industry Business Management,Maria Murcia,55,84.7,,99.0,60.0,,,,,,,,,,,,,,,,,6,6,6,13,20,87.0,91.0,77.5

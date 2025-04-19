@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,GEOG,446,B,201,Topics in Geography,Avram Lewis;Denver Nixon;Isabella Pojuner;Priti Narayan,17,85.705882353,6.172162363,94.0,74.0,0,0,0,0,0,0,1,4,1,4,7,,,
+UBCV,2021,W,GEOG,446,B,201,Topics in Geography,Avram Lewis,17,85.7,,94.0,74.0,,,,,,,,,,,7,88.0,90.0,79.0
+UBCV,2022,W,GEOG,302,,201,Climate Justice,Avram Lewis,62,80.9,,95.0,0.0,1,0,0,0,1,5,2,8,18,20,7,83.0,86.0,78.0
+UBCV,2023,W,GEOG,302,,201,Climate Justice,Avram Lewis,93,80.0,,92.0,0.0,1,0,0,0,1,6,8,13,42,15,7,82.0,84.0,77.0

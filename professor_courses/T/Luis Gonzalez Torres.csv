@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,BIOL,416,,201,PR CONSERVT BIOL,"Gonzalez Torres, Luis",48,79.13,13.19,94,21,45,1,2,0,0,0,0,1,0,0,1,2,1,1,1,1,2,10,10,10,7
+UBC,2016,W,BIOL,416,,201,PR CONSERVT BIOL,"Gonzalez Torres, Luis",45,85.95,11.73,99,42,43,1,1,0,0,0,0,0,0,1,1,0,0,3,0,0,1,3,5,12,19
+UBC,2017,W,BIOL,416,,201,PR CONSERVT BIOL,"Gonzalez Torres, Luis;Jankowski, Jill",53,85.5,5.16,94,66,52,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,12,26,10
+UBC,2017,W,ENVR,200,,201,INTR ENVRMNT SCI,"Gonzalez Torres, Luis;Lipsen, Michael",47,83.89,6.43,95,65,47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,10,16,9
+UBC,2018,W,ENVR,200,,201,INTR ENVRMNT SCI,"Gonzalez Torres, Luis;Lipsen, Michael",49,77.46,11.4,90,29,47,1,1,0,0,0,0,1,0,0,1,0,3,2,0,4,2,6,16,12,2
+UBCV,2015,W,BIOL,416,,201,Principles of Conservation Biology,Alys Granados;Ludovic Le Renard;Luis Gonzalez Torres,46,79.130434783,13.193615789,94.0,21.0,,,,,,,,,,,,,,,,,,10,10,10,7
+UBCV,2016,W,BIOL,416,,201,Principles of Conservation Biology,Kyle Gillespie;Luis Gonzalez Torres,44,85.95454546,11.72545342,99.0,42.0,,,,,,,,,,,1,0,0,3,0,0,1,3,5,12,19
+UBCV,2017,W,BIOL,416,,201,Principles of Conservation Biology,Jill Jankowski;Ludovic Le Renard;Luis Gonzalez Torres,52,85.5,5.158279087,94.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,1,12,26,10
+UBCV,2017,W,ENVR,200,,201,Introduction to Environmental Science,Krista Cawley;Luis Gonzalez Torres;Michael Lipsen;Sara Harris;Tara Ivanochko,47,83.893617021,6.434398193,95.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,7,10,16,9
+UBCV,2018,W,ENVR,200,,201,Introduction to Environmental Science,Connor Robinson;Luis Gonzalez Torres;Michael Lipsen,48,77.458333333,11.403542438,90.0,29.0,,,,,,,,,,,1,0,3,2,0,4,2,6,16,12,2
+UBCV,2019,W,ENVR,200,,201,Introduction to Environmental Science,Gunilla Oberg;Hannah Barnard-Chumik;Luis Gonzalez Torres;Michael Lipsen,43,81.976744186,5.889815148,91.0,58.0,,,,,,,,,,,0,0,1,0,0,0,1,9,13,15,4

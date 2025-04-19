@@ -1,0 +1,137 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,BIOL,234,,921,FUND GENETICS,"Donnelly, Caitlin",78,70.78,12.15,93,22,74,3,0,0,1,0,0,1,0,2,3,3,5,6,10,9,15,7,8,10,1,,,
+UBC,2017,W,BIOL,121,,123,GENTCS ECOL&EVOL,"Donnelly, Caitlin",184,74.95,12.08,95,29,172,8,3,0,1,0,0,1,0,7,8,1,12,8,9,25,19,19,39,22,18,,,
+UBC,2017,W,BIOL,233,,101,GENETICS LIFE,"Donnelly, Caitlin",83,71.87,11.05,94,43,76,3,2,0,2,0,0,0,0,3,3,1,6,7,6,15,12,5,14,6,4,,,
+UBC,2018,W,SCIE,113,,V02,SCIE SEMINAR,"Donnelly, Caitlin",19,70.26,11.13,86,53,19,0,0,0,0,0,0,0,0,0,0,1,4,2,1,0,3,3,4,1,0,,,
+UBC,2018,W,SCIE,113,,V03,SCIE SEMINAR,"Donnelly, Caitlin",22,74.95,10.13,93,53,20,0,0,0,2,0,0,0,0,0,0,1,0,1,3,4,0,2,6,1,2,,,
+UBCV,2015,W,BIOL,234,,101,Fundamentals of Genetics,Caitlin Donnelly;Christine Chiu;Craig M S Berezowsky;George Haughn;Jennifer Klenz;Nathalie Sandell;Rachel Sutcliffe;Taylor Gibbons;Zohreh Sharif Khodaei,209,66.057416268,15.235855831,100.0,18.0,,,,,,,,,,,30,20,12,22,15,35,17,12,24,11,11,,,
+UBCV,2015,W,BIOL,234,,102,Fundamentals of Genetics,Caitlin Donnelly;Christine Chiu;Craig M S Berezowsky;George Haughn;Jennifer Klenz;Nathalie Sandell;Rachel Sutcliffe;Taylor Gibbons;Zohreh Sharif Khodaei,168,69.577380952,14.278872221,97.0,0.0,,,,,,,,,,,10,9,12,18,18,17,23,14,28,11,8,,,
+UBCV,2016,W,BIOL,351,,101,Plant Physiology I,Caitlin Donnelly;Emily Murphy;Qianshi Lin;Santokh Singh;Shawn Mansfield,57,69.57894737,12.43116385,89.0,43.0,,,,,,,,,,,5,3,6,4,4,4,8,9,9,5,0,,,
+UBCV,2017,S,BIOL,234,,921,Fundamentals of Genetics,Ali Farrokhi;Caitlin Donnelly;Kenneth Askelson;Mackenzie Kinney;Meng Li,78,70.064102564,13.623260993,93.0,15.0,,,,,,,,,,,4,3,5,6,10,9,15,7,8,10,1,,,
+UBCV,2017,W,BIOL,121,,123,"Genetics, Evolution and Ecology",Caitlin Donnelly;Lewis Kurschner,181,74.546961326,13.214228617,95.0,2.0,,,,,,,,,,,9,1,12,8,9,25,19,19,39,22,18,,,
+UBCV,2017,W,BIOL,233,,101,Genetics for Life,Ardalan Hendi;Caitlin Donnelly;Jacob Munz,81,70.345679012,14.645955494,94.0,1.0,,,,,,,,,,,5,1,6,7,6,15,12,5,14,6,4,,,
+UBCV,2018,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly;Mathieu Aubin,19,70.263157895,11.129750448,86.0,53.0,,,,,,,,,,,0,1,4,2,1,0,3,3,4,1,0,,,
+UBCV,2018,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Rudri Bhatt,22,69.045454545,21.51295794,93.0,3.0,,,,,,,,,,,2,1,0,1,3,4,0,2,6,1,2,,,
+UBCV,2019,S,BIOL,111,,921,Introduction to Modern Biology,Caitlin Donnelly;Poorya Kooche Baghy,65,76.584615385,9.929269088,97.0,51.0,,,,,,,,,,,0,1,1,4,7,8,8,11,12,6,7,,,
+UBCV,2019,S,BIOL,260,,921,Fundamentals of Physiology,Beth Lyn Volpov;Beth Volpov;Caitlin Donnelly;Rachel Chudnow;Santokh Singh,60,74.6,11.953582542,88.0,10.0,,,,,,,,,,,1,1,2,2,6,3,13,8,17,7,0,,,
+UBCV,2019,W,BIOL,121,,122,"Genetics, Evolution and Ecology",Caitlin Donnelly;Fanny Couture,167,78.089820359,11.611080264,100.0,42.0,,,,,,,,,,,3,6,5,6,11,10,11,23,39,31,22,,,
+UBCV,2019,W,BIOL,121,,124,"Genetics, Evolution and Ecology",Caitlin Donnelly;Marjolein Toorians,178,77.713483146,13.519265943,99.0,8.0,,,,,,,,,,,4,3,2,9,16,15,17,19,24,38,31,,,
+UBCV,2019,W,SCIE,113,,108,First-Year Seminar in Science,Caitlin Donnelly;Evelyn Sun;Rudri Bhatt,24,78.833333333,8.333623183,89.0,60.0,,,,,,,,,,,0,0,0,2,2,0,3,1,10,6,0,,,
+UBCV,2019,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Isobel Comstock Mouat;Isobel Mouat;Linda Matsuuchi;Tal Shalev,25,76.88,4.484417465,86.0,66.0,,,,,,,,,,,0,0,0,0,2,1,4,11,6,1,0,,,
+UBCV,2019,W,SCIE,113,,110,First-Year Seminar in Science,Caitlin Donnelly;Philip C Stamp;Tal Shalev;Tara Ivanochko,23,74.739130435,3.670736752,82.0,67.0,,,,,,,,,,,0,0,0,0,1,3,9,8,2,0,0,,,
+UBCV,2019,W,SCIE,113,,111,First-Year Seminar in Science,Caitlin Donnelly;Montserrat Rueda Becerril;Paula Littlejohn,24,75.833333333,8.276034897,88.0,50.0,,,,,,,,,,,0,1,0,1,2,0,4,9,5,2,0,,,
+UBCV,2019,W,SCIE,113,,112,First-Year Seminar in Science,Caitlin Donnelly;Joanna Wong;Marcia Graves;Tara Ivanochko,25,79.32,4.964205207,89.0,70.0,,,,,,,,,,,0,0,0,0,0,2,4,8,7,4,0,,,
+UBCV,2019,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly;James Berger;Quentin Charles Cronk;Rocio Lopez De La Lama,25,74.76,6.332982446,84.0,56.0,,,,,,,,,,,0,0,1,1,0,5,5,7,6,0,0,,,
+UBCV,2019,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves;Rocio Lopez De La Lama;Sara Cannon,24,77.541666667,5.021511696,87.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,6,8,2,0,,,
+UBCV,2019,W,SCIE,113,,208,First-Year Seminar in Science,Caitlin Donnelly;Natalie Westwood;Yukino Nitta,20,76.95,6.992288986,87.0,61.0,,,,,,,,,,,0,0,0,1,1,3,2,6,4,3,0,,,
+UBCV,2019,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Isaac Jonas;Martin Adamson;Martin L. Adamson,16,75.6875,11.085839316,92.0,51.0,,,,,,,,,,,0,1,1,0,1,3,0,1,8,0,1,,,
+UBCV,2019,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Isaac Jonas;Sara Cannon,25,78.68,5.28929737,88.0,65.0,,,,,,,,,,,0,0,0,0,1,1,4,9,6,4,0,,,
+UBCV,2019,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Paula Littlejohn,20,77.3,5.100051599,85.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,8,3,3,0,,,
+UBCV,2019,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Xinru Li,25,77.6,5.131601439,88.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,7,6,4,0,,,
+UBCV,2019,W,SCIE,113,,213,First-Year Seminar in Science,Caitlin Donnelly;Philip C Stamp;Xinru Li,21,74.19047619,5.715059471,86.0,61.0,,,,,,,,,,,0,0,0,1,0,6,5,6,2,1,0,,,
+UBCV,2019,W,SCIE,113,,214,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Michael Turley,21,81.285714286,4.991421212,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,9,4,4,2,,,
+UBCV,2019,W,SCIE,113,,215,First-Year Seminar in Science,Caitlin Donnelly;Erin Lane;Michael Turley;Tony Pitcher,21,80.619047619,7.200529081,91.0,58.0,,,,,,,,,,,0,0,1,0,0,1,2,2,9,5,1,,,
+UBCV,2019,W,SCIE,113,,V01,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Priya Lekhi;Stepan Fomichev,17,74.529411765,5.124910329,85.0,68.0,,,,,,,,,,,0,0,0,0,0,7,3,3,3,1,0,,,
+UBCV,2019,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly;Erin Lane;Michael Feeley;Tal Shalev,18,68.666666667,18.246675765,83.0,0.0,,,,,,,,,,,1,0,0,3,2,0,6,5,1,0,0,,,
+UBCV,2019,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Megan Russell;Michael Feeley;Yukino Nitta,28,72.428571429,13.926868706,88.0,10.0,,,,,,,,,,,1,0,1,1,2,4,5,6,7,1,0,,,
+UBCV,2019,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly;Helina Jolly;Michael Feeley,28,73.285714286,6.5538066,87.0,62.0,,,,,,,,,,,0,0,0,2,3,7,8,4,1,3,0,,,
+UBCV,2019,W,SCIE,113,,V05,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Rudri Bhatt,23,70.260869565,7.735498993,87.0,54.0,,,,,,,,,,,0,1,1,2,4,6,4,3,1,1,0,,,
+UBCV,2019,W,SCIE,113,,V06,First-Year Seminar in Science,Caitlin Donnelly;Johanand Gilchrist;Michael Feeley;Yuliya Kuzmenko,23,79.52173913,7.668528158,92.0,63.0,,,,,,,,,,,0,0,0,1,1,1,3,5,6,3,3,,,
+UBCV,2020,W,SCIE,113,,108,First-Year Seminar in Science,Ana Lucia Pozas Franco;Caitlin Donnelly;Evelyn Sun,24,80.0,6.467309097,90.0,58.0,,,,,,,,,,,0,0,1,0,0,1,1,3,14,3,1,,,
+UBCV,2020,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Isobel Mouat;Rudri Bhatt;Yukino Nitta,25,73.56,15.814234095,86.0,0.0,,,,,,,,,,,1,0,0,0,0,2,6,10,5,1,0,,,
+UBCV,2020,W,SCIE,113,,110,First-Year Seminar in Science,Brian Hunt;Caitlin Donnelly;Santiago De La Puente Jeri;Tara Ivanochko,24,77.583333333,14.316049573,93.0,20.0,,,,,,,,,,,1,0,0,1,1,0,6,3,4,5,3,,,
+UBCV,2020,W,SCIE,113,,111,First-Year Seminar in Science,Caitlin Donnelly;Isaac Jonas;Montserrat Rueda Becerril,25,75.28,16.609535414,91.0,0.0,,,,,,,,,,,1,0,0,0,0,2,4,9,6,1,2,,,
+UBCV,2020,W,SCIE,113,,112,First-Year Seminar in Science,Angela Jane Roskams;Caitlin Donnelly;Isaac Jonas;Marcia Graves,27,81.111111111,9.621023987,95.0,54.0,,,,,,,,,,,0,1,0,0,1,3,2,3,3,9,5,,,
+UBCV,2020,W,SCIE,113,,113,First-Year Seminar in Science,Caitlin Donnelly;Helina Jolly;James Berger;Montserrat Rueda Becerril;Quentin Charles Cronk,23,78.565217391,4.143188133,85.0,70.0,,,,,,,,,,,0,0,0,0,0,2,2,7,11,1,0,,,
+UBCV,2020,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly;James Berger;Michael Turley;William Welch,23,72.391304348,20.927882946,87.0,0.0,,,,,,,,,,,2,0,1,0,1,0,2,6,8,3,0,,,
+UBCV,2020,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves;Michael Turley;Sara Cannon,23,81.0,8.795660087,91.0,45.0,,,,,,,,,,,1,0,0,0,0,1,0,1,14,5,1,,,
+UBCV,2020,W,SCIE,113,,208,First-Year Seminar in Science,Caitlin Donnelly;Isobel Mouat;Xinru Li,24,78.791666667,4.043020467,85.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,7,11,2,0,,,
+UBCV,2020,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Martin Adamson;Michael Feeley;Stepan Fomichev,25,84.36,7.941872155,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,1,6,2,11,,,
+UBCV,2020,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Linda Matsuuchi;Sara Cannon;Xinru Li,25,84.92,9.132907533,92.0,50.0,,,,,,,,,,,0,1,0,0,1,0,0,1,3,13,6,,,
+UBCV,2020,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;Isaac Jonas;John Macdonald,23,80.043478261,3.03731731,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,7,12,3,0,,,
+UBCV,2020,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Michael Turley,23,80.695652174,3.443502216,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,7,11,4,0,,,
+UBCV,2020,W,SCIE,113,,213,First-Year Seminar in Science,Caitlin Donnelly;Jaclyn Stewart;Michael Turley;Philip C Stamp,25,83.28,5.086911309,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,10,6,4,,,
+UBCV,2020,W,SCIE,113,,214,First-Year Seminar in Science,Caitlin Donnelly;Fanny Couture;Michael Feeley;Philip C Stamp,25,82.28,5.594044452,90.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,2,11,9,1,,,
+UBCV,2020,W,SCIE,113,,215,First-Year Seminar in Science,Caitlin Donnelly;Fanny Couture;Tara Ivanochko;Tony Pitcher;Yukino Nitta,23,76.347826087,4.006911026,83.0,69.0,,,,,,,,,,,0,0,0,0,0,4,6,8,5,0,0,,,
+UBCV,2020,W,SCIE,113,,219,First-Year Seminar in Science,Ana Lucia Pozas Franco;Caitlin Donnelly;Yukino Nitta,25,75.56,4.882622246,84.0,69.0,,,,,,,,,,,0,0,0,0,0,4,12,2,7,0,0,,,
+UBCV,2020,W,SCIE,113,,V01,First-Year Seminar in Science,Caitlin Donnelly;Rocio Lopez De La Lama,22,75.227272727,19.794015012,94.0,9.0,,,,,,,,,,,2,0,0,0,0,2,1,8,3,4,2,,,
+UBCV,2020,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly;Joanne Alison Fox;Johanand Gilchrist,22,64.0,26.126067989,88.0,4.0,,,,,,,,,,,5,0,0,1,0,2,5,2,4,3,0,,,
+UBCV,2020,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Helina Jolly,19,80.631578947,7.410282093,91.0,67.0,,,,,,,,,,,0,0,0,0,1,2,2,1,7,3,3,,,
+UBCV,2020,W,SCIE,113,,V04,First-Year Seminar in Science,Alannah Hallas;Caitlin Donnelly;Rocio Lopez De La Lama,19,66.578947368,23.17641471,91.0,0.0,,,,,,,,,,,2,2,1,1,0,2,2,4,3,1,1,,,
+UBCV,2020,W,SCIE,113,,V05,First-Year Seminar in Science,Brett Gilley;Caitlin Donnelly;Melvin Chan,20,74.7,25.831641144,93.0,16.0,,,,,,,,,,,3,0,0,1,0,0,1,0,3,6,6,,,
+UBCV,2021,S,BIOL,260,,951,Fundamentals of Physiology,Aayush Malhotra;Caitlin Donnelly;Fanny Couture;Katie Marshall;Solveig Van Wersch,63,77.619047619,11.880355935,99.0,44.0,,,,,,,,,,,1,4,1,2,4,3,7,5,16,15,5,,,
+UBCV,2021,W,SCIE,113,,108,First-Year Seminar in Science,Caitlin Donnelly;Evelyn Sun;Fanny Couture;Linda Matsuuchi,25,84.8,8.650626182,92.0,46.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,15,4,,,
+UBCV,2021,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Mark Johnson;Rudri Bhatt;Yukino Nitta,24,78.833333333,15.273354652,89.0,25.0,,,,,,,,,,,2,0,0,0,0,2,0,2,4,14,0,,,
+UBCV,2021,W,SCIE,113,,110,First-Year Seminar in Science,Brian Hunt;Caitlin Donnelly;Fanny Couture,25,80.84,6.675078027,90.0,64.0,,,,,,,,,,,0,0,0,0,2,1,0,4,9,8,1,,,
+UBCV,2021,W,SCIE,113,,111,First-Year Seminar in Science,Caitlin Donnelly;Montserrat Rueda Becerril;Roza Vaez Ghaemi,24,80.0,11.100332937,91.0,35.0,,,,,,,,,,,1,0,0,0,0,0,4,1,10,5,3,,,
+UBCV,2021,W,SCIE,113,,112,First-Year Seminar in Science,Angela Jane Roskams;Caitlin Donnelly;Roza Vaez Ghaemi;Taylor Wright,23,83.086956522,7.018890378,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,3,9,6,3,,,
+UBCV,2021,W,SCIE,113,,113,First-Year Seminar in Science,Annie Prud'Homme-Genereux;Caitlin Donnelly;Freya Lambrecht;James Berger,25,82.0,7.910962858,92.0,64.0,,,,,,,,,,,0,0,0,0,3,0,1,4,6,8,3,,,
+UBCV,2021,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly;Freya Lambrecht;William Welch,24,84.791666667,4.201233428,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,12,7,4,,,
+UBCV,2021,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Madeline Lauener;Marcia Graves,26,84.461538462,9.192304474,93.0,43.0,,,,,,,,,,,1,0,0,0,0,0,0,1,8,10,6,,,
+UBCV,2021,W,SCIE,113,,208,First-Year Seminar in Science,Caitlin Donnelly;John Ticknor;Simon Bates,24,81.208333333,6.788604049,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,4,3,8,4,4,,,
+UBCV,2021,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Stepan Fomichev,24,84.291666667,5.774600808,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,10,5,5,,,
+UBCV,2021,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Dwiti Mistry;Roza Vaez Ghaemi;Taylor Wright,25,81.64,6.244197306,92.0,66.0,,,,,,,,,,,0,0,0,0,1,0,3,6,5,8,2,,,
+UBCV,2021,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;Elina Eronen;John Macdonald,23,79.130434783,2.735363493,82.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,7,13,0,0,,,
+UBCV,2021,W,SCIE,113,,212,First-Year Seminar in Science,Amirhossein Rashidi;Caitlin Donnelly;John Macdonald,25,78.48,14.382048996,85.0,11.0,,,,,,,,,,,1,0,0,0,0,0,1,4,17,2,0,,,
+UBCV,2021,W,SCIE,113,,213,First-Year Seminar in Science,Caitlin Donnelly;Fanny Couture;Philip C Stamp,24,79.583333333,7.807001688,91.0,61.0,,,,,,,,,,,0,0,0,2,1,0,1,5,8,6,1,,,
+UBCV,2021,W,SCIE,113,,214,First-Year Seminar in Science,Caitlin Donnelly;Fanny Couture;Roza Vaez Ghaemi,25,82.84,18.258970398,96.0,16.0,,,,,,,,,,,2,0,0,0,0,0,0,0,5,11,7,,,
+UBCV,2021,W,SCIE,113,,215,First-Year Seminar in Science,Caitlin Donnelly;Cara James;Roza Vaez Ghaemi,24,84.416666667,9.545846657,99.0,56.0,,,,,,,,,,,0,0,1,0,0,0,3,2,5,3,10,,,
+UBCV,2021,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly;Jessica Baldwin;Priya Lekhi,26,76.423076923,10.048574334,88.0,47.0,,,,,,,,,,,1,0,0,0,4,4,1,2,9,5,0,,,
+UBCV,2021,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Rudri Bhatt,23,80.52173913,6.458747171,92.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,2,10,4,2,,,
+UBCV,2021,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly;Morgan Griffith;Yuliya Kuzmenko,21,75.333333333,16.62026875,92.0,6.0,,,,,,,,,,,1,0,0,0,0,1,4,7,6,1,1,,,
+UBCV,2021,W,SCIE,113,,V05,First-Year Seminar in Science,Caitlin Donnelly;Verena Birgit Rossa-Roccor,15,77.466666667,19.686350118,94.0,11.0,,,,,,,,,,,1,0,0,0,0,1,1,4,4,1,3,,,
+UBCV,2021,W,SCIE,113,,V06,First-Year Seminar in Science,Analise Hofmann;Caitlin Donnelly;Lian Pharoah,25,81.2,17.802153428,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,3,1,6,10,4,,,
+UBCV,2021,S,BIOL,260,,951,Fundamentals of Physiology,Caitlin Donnelly;Katie Marshall,63,77.6,,99.0,44.0,,,,,,,,,,,,,,,,,7,,16,15,,81.0,87.0,72.0
+UBCV,2021,W,SCIE,113,,108,First-Year Seminar in Science,Caitlin Donnelly;Linda Matsuuchi,25,84.8,,92.0,46.0,,,,,,,,,,,,,,,,,,,,15,,87.0,88.0,85.0
+UBCV,2021,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly;Mark Johnson,24,78.8,,89.0,25.0,,,,,,,,,,,,,,,,,,,,14,,85.0,86.3,80.0
+UBCV,2021,W,SCIE,113,,110,First-Year Seminar in Science,Caitlin Donnelly;Brian Hunt,25,80.8,,90.0,64.0,,,,,,,,,,,,,,,,,,,9,8,,82.0,86.0,78.0
+UBCV,2021,W,SCIE,113,,111,First-Year Seminar in Science,Caitlin Donnelly;Montserrat Rueda Becerril,24,80.0,,91.0,35.0,,,,,,,,,,,,,,,,,,,10,,,81.5,86.0,79.5
+UBCV,2021,W,SCIE,113,,112,First-Year Seminar in Science,Caitlin Donnelly;Taylor Wright,23,83.1,,94.0,64.0,,,,,,,,,,,,,,,,,,,9,6,,84.0,87.0,80.0
+UBCV,2021,W,SCIE,113,,113,First-Year Seminar in Science,Caitlin Donnelly;Annie Prud'Homme-Genereux,25,82.0,,92.0,64.0,,,,,,,,,,,,,,,,,,,6,8,,83.0,88.0,79.0
+UBCV,2021,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly,24,84.8,,91.0,72.0,,,,,,,,,,,,,,,,,,,12,7,,84.0,87.0,83.0
+UBCV,2021,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,26,84.5,,93.0,43.0,,,,,,,,,,,,,,,,,,,8,10,6,86.0,88.0,84.0
+UBCV,2021,W,SCIE,113,,208,First-Year Seminar in Science,Simon Bates;Caitlin Donnelly,24,81.2,,93.0,68.0,,,,,,,,,,,,,,,,,,,8,,,80.0,86.3,76.0
+UBCV,2021,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley,24,84.3,,95.0,73.0,,,,,,,,,,,,,,,,,,,10,,,83.0,87.3,82.0
+UBCV,2021,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Roza Vaez Ghaemi;Taylor Wright,25,81.6,,92.0,66.0,,,,,,,,,,,,,,,,,,6,,8,,83.0,87.0,77.0
+UBCV,2021,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald,23,79.1,,82.0,73.0,,,,,,,,,,,,,,,,,,7,13,,,80.0,82.0,77.5
+UBCV,2021,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald,25,78.5,,85.0,11.0,,,,,,,,,,,,,,,,,,,17,,,82.0,83.0,80.0
+UBCV,2021,W,SCIE,113,,213,First-Year Seminar in Science,Caitlin Donnelly;Philip C Stamp,24,79.6,,91.0,61.0,,,,,,,,,,,,,,,,,,,8,6,,81.0,85.0,77.0
+UBCV,2021,W,SCIE,113,,214,First-Year Seminar in Science,Caitlin Donnelly;Roza Vaez Ghaemi,25,82.8,,96.0,16.0,,,,,,,,,,,,,,,,,,,,11,7,88.0,90.0,84.0
+UBCV,2021,W,SCIE,113,,215,First-Year Seminar in Science,Caitlin Donnelly;Roza Vaez Ghaemi,24,84.4,,99.0,56.0,,,,,,,,,,,,,,,,,,,,,10,85.5,91.0,79.8
+UBCV,2021,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly;Priya Lekhi,26,76.4,,88.0,47.0,,,,,,,,,,,,,,,,,,,9,,,80.0,84.0,68.3
+UBCV,2021,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly,23,80.5,,92.0,68.0,,,,,,,,,,,,,,,,,,,10,,,80.0,85.0,77.0
+UBCV,2021,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly;Yuliya Kuzmenko,21,75.3,,92.0,6.0,,,,,,,,,,,,,,,,,,7,6,,,77.0,81.0,75.0
+UBCV,2021,W,SCIE,113,,V05,First-Year Seminar in Science,Caitlin Donnelly,15,77.5,,94.0,11.0,,,,,,,,,,,,,,,,,,,,,,80.0,85.5,76.5
+UBCV,2021,W,SCIE,113,,V06,First-Year Seminar in Science,Caitlin Donnelly;Analise Hofmann,25,81.2,,95.0,0.0,,,,,,,,,,,,,,,,,,,6,10,,85.0,88.0,80.0
+UBCV,2022,S,BIOL,260,,951,Fundamentals of Physiology,Caitlin Donnelly;Chin Sun,67,82.0,,96.0,58.0,,,,,,,,,,,0,0,3,1,1,8,3,8,8,19,16,85.0,89.0,76.0
+UBCV,2022,W,SCIE,113,,108,First-Year Seminar in Science,Caitlin Donnelly;Linda Matsuuchi,25,81.8,,97.0,0.0,,,,,,,,,,,3,0,0,0,0,0,1,0,3,7,11,89.0,93.0,84.0
+UBCV,2022,W,SCIE,113,,109,First-Year Seminar in Science,Caitlin Donnelly,24,84.5,,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,9,10,3,85.0,88.0,82.0
+UBCV,2022,W,SCIE,113,,110,First-Year Seminar in Science,Benjamin Burr;Caitlin Donnelly,24,79.7,,90.0,60.0,,,,,,,,,,,0,0,0,2,0,0,1,4,12,4,1,80.0,83.0,78.0
+UBCV,2022,W,SCIE,113,,111,First-Year Seminar in Science,Caitlin Donnelly;Montserrat Rueda Becerril,24,81.7,,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,9,7,1,81.5,85.3,77.0
+UBCV,2022,W,SCIE,113,,112,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley,24,82.8,,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,10,6,5,3,82.5,86.3,78.8
+UBCV,2022,W,SCIE,113,,113,First-Year Seminar in Science,Caitlin Donnelly;Annie Prud'Homme-Genereux,25,81.5,,91.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,4,10,6,2,83.0,85.0,79.0
+UBCV,2022,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,25,82.2,,92.0,45.0,,,,,,,,,,,1,0,0,0,0,0,0,1,15,7,1,84.0,86.0,81.0
+UBCV,2022,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Annie Prud'Homme-Genereux,23,83.9,,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,7,7,4,84.0,88.0,80.5
+UBCV,2022,W,SCIE,113,,116,First-Year Seminar in Science,Caitlin Donnelly;Yuliya Kuzmenko,21,76.5,,91.0,17.0,,,,,,,,,,,2,0,0,0,0,2,3,1,5,4,4,81.0,86.0,73.0
+UBCV,2022,W,SCIE,113,,117,First-Year Seminar in Science,Caitlin Donnelly;Yuliya Kuzmenko,23,83.5,,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,3,7,7,4,84.0,87.5,81.5
+UBCV,2022,W,SCIE,113,,208,First-Year Seminar in Science,Caitlin Donnelly;Yuliya Kuzmenko,25,83.3,,92.0,51.0,,,,,,,,,,,0,1,0,1,0,0,0,2,4,12,5,86.0,88.0,81.0
+UBCV,2022,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Brian Hunt,25,79.7,,90.0,70.0,,,,,,,,,,,0,0,0,0,0,3,2,3,13,3,1,80.0,83.0,78.0
+UBCV,2022,W,SCIE,113,,210,First-Year Seminar in Science,Simon Bates;Caitlin Donnelly,25,83.1,,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,5,6,10,2,83.0,87.0,79.0
+UBCV,2022,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;John MacDonald,23,79.3,,90.0,28.0,,,,,,,,,,,1,0,0,0,0,0,1,1,16,3,1,82.0,82.0,80.0
+UBCV,2022,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John MacDonald,26,82.1,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,19,5,0,82.0,83.8,80.3
+UBCV,2022,W,SCIE,113,,213,First-Year Seminar in Science,Caitlin Donnelly;Annie Prud'Homme-Genereux,26,83.8,,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,8,9,4,84.5,88.0,81.0
+UBCV,2022,W,SCIE,113,,214,First-Year Seminar in Science,Caitlin Donnelly;Philip C Stamp,23,78.0,,92.0,0.0,,,,,,,,,,,1,0,0,0,1,2,1,3,7,5,3,84.0,85.5,77.5
+UBCV,2022,W,SCIE,113,,215,First-Year Seminar in Science,Caitlin Donnelly;Annie Prud'Homme-Genereux,24,83.5,,93.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,6,2,10,4,86.0,88.3,78.0
+UBCV,2022,W,SCIE,113,,V01,First-Year Seminar in Science,Caitlin Donnelly,21,80.5,,92.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,5,8,2,3,80.0,83.0,77.0
+UBCV,2022,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Edward Grant,24,82.6,,95.0,0.0,,,,,,,,,,,1,0,1,0,1,0,1,1,1,9,9,89.0,91.0,85.3
+UBCV,2022,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly,23,80.0,,92.0,64.0,,,,,,,,,,,0,0,0,0,3,0,1,3,11,1,4,80.0,83.5,77.5
+UBCV,2022,W,SCIE,113,,V05,First-Year Seminar in Science,Caitlin Donnelly;Shandin Pete,24,86.1,,96.0,32.0,,,,,,,,,,,1,0,1,0,0,1,0,1,0,5,15,91.0,93.3,87.5
+UBCV,2022,W,SCIE,113,,V06,First-Year Seminar in Science,Caitlin Donnelly;Yuliya Kuzmenko,23,73.8,,85.0,50.0,,,,,,,,,,,0,3,0,1,0,2,2,8,6,1,0,77.0,80.0,71.0
+UBCV,2023,S,BIOL,260,,921,Fundamentals of Physiology,Caitlin Donnelly;Chin Sun,70,81.7,,96.0,17.0,,,,,,,,,,,3,0,1,0,1,4,3,4,17,13,20,84.5,90.0,80.0
+UBCV,2023,W,BIOL,121,,122,"Genetics, Evolution and Ecology",Caitlin Donnelly;Lynn Norman,186,80.7,,98.0,1.0,,,,,,,,,,,2,3,3,10,7,11,10,21,31,40,45,84.0,89.0,75.5
+UBCV,2023,W,SCIE,113,,101,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,524,81.74,,98.0,0.0,,,,,,,,,,,8,1,3,5,14,10,28,67,159,148,73,84.0,87.0,79.0
+UBCV,2023,W,SCIE,113,,201,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,420,82.06,,97.0,0.0,,,,,,,,,,,7,0,2,1,4,14,23,42,147,107,68,83.0,87.0,80.0
+UBCV,2023,W,SCIE,113,,V02,First-Year Seminar in Science,Caitlin Donnelly,21,76.43,,92.0,58.0,,,,,,,,,,,0,0,1,0,1,5,5,0,3,5,1,74.0,85.0,71.0
+UBCV,2023,W,SCIE,113,,V03,First-Year Seminar in Science,Caitlin Donnelly;Georg Rieger,23,83.48,,95.0,56.0,,,,,,,,,,,0,0,1,0,0,0,0,4,6,8,4,85.0,88.5,80.5
+UBCV,2023,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly;Beth Volpov,23,74.0,,90.0,15.0,,,,,,,,,,,2,0,0,1,0,1,4,5,4,4,2,77.0,84.5,72.0
+UBCV,2023,W,SCIE,113,,V06,First-Year Seminar in Science,Caitlin Donnelly;Shandin Pete,25,81.8,,97.0,1.0,,,,,,,,,,,1,0,0,0,0,1,1,1,9,5,7,84.0,91.0,80.0

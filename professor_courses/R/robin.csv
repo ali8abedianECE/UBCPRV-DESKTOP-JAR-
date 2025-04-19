@@ -1,0 +1,353 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHEM,533,,110,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",6,86.83,4.54,94,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2002,W,EECE,254,,201,ELEC CIRCUITS I,"Tiedje, Thomas;Turner, Robin",129,71.94,13.05,98,31,121,6,2,0,0,0,0,0,1,5,6,8,9,8,15,10,17,20,13,11,10
+UBC,2002,W,EECE,254,,202,ELEC CIRCUITS I,"Tiedje, Thomas;Turner, Robin",49,54.76,13.92,88,36,25,21,2,0,1,0,0,0,4,17,21,4,8,4,1,2,2,0,0,4,0
+UBC,2002,W,HKIN,110,,001,ANL IND SPT&DANC,"*Carr, Robin",31,71.77,11.72,92,51,30,0,1,0,0,0,0,0,0,0,0,4,0,5,2,0,6,4,5,2,2
+UBC,2002,W,HKIN,353,,001,HUMAN BODY COMP,"*Carr, Robin",105,76.06,10.25,95,50,104,0,1,0,0,0,0,0,0,0,0,3,3,6,8,14,16,14,17,10,13
+UBC,2002,W,HKIN,370,,001,INTR MEASUREMENT,"*Carr, Robin",110,78.96,8.43,97,55,110,0,0,0,0,0,0,0,0,0,0,0,3,2,2,13,16,19,23,19,13
+UBC,2003,W,CHEM,533,,110,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",11,82.82,10.24,94,61,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,3,3
+UBC,2003,W,EECE,254,,201,ELEC CIRCUITS I,"Calvino-Fraga, Jesus;Turner, Robin",69,72.3,15.54,99,46,60,7,1,0,1,0,0,0,0,7,7,2,9,3,6,8,7,1,5,5,14
+UBC,2003,W,EECE,254,,202,ELEC CIRCUITS I,"Turner, Robin",56,61.13,18.14,98,27,43,11,1,0,1,0,0,3,5,3,11,7,5,7,6,4,4,1,1,5,3
+UBC,2003,W,EECE,254,,203,ELEC CIRCUITS I,"Jaeger, Carol Patricia;Turner, Robin",71,63.38,12.2,87,35,61,10,0,0,0,0,0,0,2,8,10,5,12,5,11,10,5,6,4,3,0
+UBC,2003,W,HKIN,110,,001,ANL IND SPT&DANC,"*Carr, Robin",31,76.9,9.68,91,56,31,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,6,3,10,3,3
+UBC,2003,W,HKIN,353,,001,HUMAN BODY COMP,"*Carr, Robin",109,78.8,8.8,99,55,109,0,0,0,0,0,0,0,0,0,0,0,2,4,7,7,19,14,29,13,14
+UBC,2003,W,HKIN,370,,001,INTR MEASUREMENT,"*Carr, Robin",117,76.46,12.93,98,0,112,2,3,0,0,1,0,0,1,0,2,1,3,6,10,12,14,17,21,12,16
+UBC,2003,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",73,73.34,11.52,92,0,69,1,3,0,0,1,0,0,0,0,1,0,2,4,9,7,16,15,10,5,1
+UBC,2005,W,CHEM,533,,110,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",7,90.29,7.65,99,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4
+UBC,2005,W,CNPS,362,,2W2,BASIC INTVW SKLS,"Borgen, William;Cox, Robin",15,88.13,3.31,93,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,5
+UBC,2005,W,EECE,254,,201,ELEC CIRCUITS I,"Tiedje, Thomas;Turner, Robin",66,67.53,16.72,95,28,54,10,0,0,2,0,0,1,5,4,10,6,4,2,7,6,7,4,6,8,4
+UBC,2005,W,EECE,254,,202,ELEC CIRCUITS I,"Turner, Robin",56,63.26,13,92,29,47,7,0,0,2,0,0,1,0,6,7,6,10,4,6,8,5,1,4,1,2
+UBC,2005,W,EECE,254,,203,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",54,64.27,12.22,90,41,46,6,0,0,2,0,0,0,0,6,6,6,9,3,6,6,6,4,4,1,1
+UBC,2005,W,SOCI,420,A,001,SOCI OF ENVIRON,"SYDNEYSMITH, ROBIN",12,77.18,6.1,85,68,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,3,1,0
+UBC,2006,W,CHEM,533,,110,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",7,88.43,5.13,95,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5
+UBC,2006,W,EECE,254,,201,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",104,63.99,15.61,98,39,81,21,0,0,2,0,0,0,3,18,21,8,11,10,11,9,8,6,6,6,6
+UBC,2006,W,EECE,254,,202,ELEC CIRCUITS I,"Turner, Robin",111,62.24,13.26,94,35,92,15,4,0,0,0,0,0,4,11,15,19,14,10,9,20,4,5,4,3,4
+UBC,2006,W,EECE,254,,T2A,ELEC CIRCUITS I,"Ivanov, Andre;Turner, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",71,71.91,13.64,91,21,64,2,4,0,1,0,0,1,1,0,2,5,5,3,7,6,6,10,11,9,2
+UBC,2007,W,CHEM,533,,110,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",6,86.6,4.56,91,80,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2
+UBC,2007,W,EECE,254,,101,ELEC CIRCUITS I,"Pulfrey, David L.;Turner, Robin",81,65.59,11.64,95,34,73,6,1,0,1,0,0,0,2,4,6,7,7,16,11,5,9,8,7,2,1
+UBC,2007,W,EECE,254,,102,ELEC CIRCUITS I,"Pulfrey, David L.;Turner, Robin",76,60.7,14.34,95,32,56,17,2,0,1,0,0,0,4,13,17,4,14,7,12,2,7,3,3,1,3
+UBC,2007,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",49,67.96,14.1,83,0,44,2,2,1,0,1,0,1,0,0,2,2,0,4,10,8,7,8,5,0,0
+UBC,2007,W,SOCI,360,B,002,RESOURCES,"SYDNEYSMITH, ROBIN",57,75.4,8.49,93,53,57,0,0,0,0,0,0,0,0,0,0,1,2,2,5,4,14,13,8,4,4
+UBC,2007,W,SOCI,420,A,001,SOCI OF ENVIRON,"SYDNEYSMITH, ROBIN",24,72.71,6.49,83,62,24,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2,4,6,4,0,0
+UBC,2009,W,CHEM,211,,288,ANALYTICAL CHEM,"Stoodley, Robin",154,71.12,13.75,96,30,135,11,7,0,1,0,0,0,2,9,11,7,8,16,16,12,15,11,25,12,13
+UBC,2009,W,CHEM,415,,005,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Iyer, Subramanian;Stoodley, Robin",4,83.75,2.22,86,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2009,W,CHEM,425,,001,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Iyer, Subramanian;Stoodley, Robin",17,75.29,15.49,89,20,16,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,3,3,5,3,0
+UBC,2009,W,CHEM,425,,003,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Iyer, Subramanian;Stoodley, Robin",23,78.61,7.04,92,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,8,2,2
+UBC,2009,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",9,80.5,6.46,94,72,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,1
+UBC,2009,W,EECE,254,,101,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",78,65.56,15.36,98,25,64,14,0,0,0,0,0,1,2,11,14,6,7,8,7,6,10,6,6,3,5
+UBC,2009,W,EECE,254,,102,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",85,63.56,14.79,94,22,68,17,0,0,0,0,0,1,2,14,17,5,14,3,15,6,7,4,5,6,3
+UBC,2009,W,MUSC,200,,001,CHRMTC HRMNY&VCE,"Attas, Robin",73,74.1,12.93,97,39,66,3,1,0,3,0,0,0,1,2,3,1,4,7,5,6,9,9,8,8,9
+UBC,2009,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",60,71.81,7.18,87,45,57,2,1,0,0,0,0,0,0,2,2,0,0,0,10,13,20,10,1,3,0
+UBC,2009,W,SOCI,360,B,002,RESOURCES,"SYDNEYSMITH, ROBIN",56,72.24,14.77,91,0,52,2,2,0,0,1,1,0,0,0,2,0,0,1,7,8,13,12,5,4,2
+UBC,2009,W,SOCI,420,A,001,SOCI OF ENVIRON,"SYDNEYSMITH, ROBIN",10,75.4,6.02,84,62,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,3,2,0,0
+UBC,2010,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",64,73.39,9.24,96,55,62,0,2,0,0,0,0,0,0,0,0,0,5,4,9,9,11,8,9,3,4
+UBC,2010,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",66,73.6,7.33,90,52,65,0,1,0,0,0,0,0,0,0,0,1,1,5,3,12,18,13,7,3,2
+UBC,2010,W,CHEM,211,,288,ANALYTICAL CHEM,"Stoodley, Robin",161,72.39,14.44,97,34,140,18,2,0,1,0,0,0,6,12,18,4,2,11,17,12,11,25,25,20,13
+UBC,2010,W,CHEM,415,,005,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Monga, Vishakha;Stoodley, Robin",4,76.75,10.63,84,61,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0
+UBC,2010,W,CHEM,425,,001,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Monga, Vishakha;Stoodley, Robin",20,75.95,9.76,87,53,20,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,2,1,6,4,0
+UBC,2010,W,CHEM,425,,003,CHEMISTRY LAB,"Bussiere, Guillaume;Cliff, Brian;Monga, Vishakha;Stoodley, Robin",21,75.24,15.03,96,26,19,2,0,0,0,0,0,1,0,1,2,0,0,0,0,2,5,5,3,3,1
+UBC,2010,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",14,87.08,8.32,99,68,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,1,6
+UBC,2010,W,EECE,254,,101,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",89,61.47,14.16,97,28,70,16,1,0,2,0,0,2,3,11,16,11,12,8,7,10,9,7,2,2,2
+UBC,2010,W,EECE,254,,102,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",113,63.17,16.32,100,27,91,20,1,0,1,0,0,2,9,9,20,8,18,11,9,12,10,5,5,7,6
+UBC,2010,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",59,73.75,5.96,87,62,57,0,2,0,0,0,0,0,0,0,0,0,0,4,4,13,18,7,8,3,0
+UBC,2010,W,SOCI,360,B,002,RESOURCES,"SYDNEYSMITH, ROBIN",48,70.93,17.2,86,0,42,2,4,0,0,2,0,0,0,0,2,0,1,1,6,9,4,9,10,2,0
+UBC,2010,W,SOCI,420,A,001,SOCI OF ENVIRON,"SYDNEYSMITH, ROBIN",16,75.88,5.74,84,60,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,5,4,0,0
+UBC,2011,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",91,70.6,13.46,95,28,82,5,2,1,1,0,0,1,0,4,5,7,9,6,5,8,11,9,14,10,3
+UBC,2011,W,BIOL,200,,102,FUND CELL BIO,"Young, Robin",5,,,,,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",116,77.58,6.29,89,48,112,1,3,0,0,0,0,0,0,1,1,0,1,0,4,11,15,28,43,10,0
+UBC,2011,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",45,70.96,6.81,83,47,44,1,0,0,0,0,0,0,0,1,1,0,1,3,3,13,11,10,3,0,0
+UBC,2011,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",54,78.02,7.73,92,53,51,0,3,0,0,0,0,0,0,0,0,1,0,3,0,4,8,12,13,8,2
+UBC,2011,W,CHEM,211,,288,ANALYTICAL CHEM,"Stoodley, Robin",128,71.41,13.32,96,41,111,12,3,0,2,0,0,0,0,12,12,1,8,11,9,23,12,10,10,17,10
+UBC,2011,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",17,76.94,9.22,93,51,17,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,7,4,0,2
+UBC,2011,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",11,79.18,9.53,91,58,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,2,4,1
+UBC,2011,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",19,73.26,10,93,50,19,0,0,0,0,0,0,0,0,0,0,2,0,0,2,3,3,5,3,0,1
+UBC,2011,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",6,78,4.29,83,73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0
+UBC,2011,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,62.8,18.83,80,40,3,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,1,1,0,0
+UBC,2011,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",8,73.5,4.44,82,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,1,0,0
+UBC,2011,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",5,82,3.67,85,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0
+UBC,2011,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",11,73.09,24.93,90,0,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,2,3,2,1
+UBC,2011,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",28,75.68,8.94,94,53,25,0,2,0,1,0,0,0,0,0,0,1,0,0,3,4,4,3,8,1,1
+UBC,2011,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",29,78.9,7.66,91,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,6,8,7,1
+UBC,2011,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",27,75.85,8.35,89,48,26,1,0,0,0,0,0,0,0,1,1,0,0,0,2,5,3,6,7,3,0
+UBC,2011,W,CHEM,325,,215,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,68.25,5.5,73,63,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0
+UBC,2011,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",21,77.38,5.3,85,67,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,5,9,1,0
+UBC,2011,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",23,73.74,13.95,90,35,20,3,0,0,0,0,0,0,1,2,3,0,0,0,1,2,3,3,8,2,1
+UBC,2011,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",16,75.06,7.76,87,61,16,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5,2,3,2,0
+UBC,2011,W,CHEM,415,,201,CHEMISTRY LAB,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,80,7.38,91,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1
+UBC,2011,W,CHEM,425,,001,CHEMISTRY LAB,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",44,76.84,8.99,92,54,43,0,1,0,0,0,0,0,0,0,0,1,2,1,1,5,6,11,7,7,2
+UBC,2011,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",9,91.33,5.85,98,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2011,W,SOCI,360,B,001,RESOURCES,"SYDNEYSMITH, ROBIN",53,74.12,7.72,88,44,48,1,3,0,1,0,0,0,0,1,1,0,0,3,4,6,13,10,8,4,0
+UBC,2011,W,SOCI,360,B,002,RESOURCES,"SYDNEYSMITH, ROBIN",57,76.39,6.56,88,59,57,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,12,16,10,8,0
+UBC,2011,W,SOCI,420,A,001,SOCI OF ENVIRON,"SYDNEYSMITH, ROBIN",16,82,5.07,90,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,5,1
+UBC,2012,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",105,71.59,12.22,96,33,90,8,6,1,0,0,0,0,1,7,8,1,6,4,13,10,13,12,19,11,1
+UBC,2012,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",78,74.77,8.41,92,52,78,0,0,0,0,0,0,0,0,0,0,1,1,4,11,12,12,9,19,8,1
+UBC,2012,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",57,72.09,7.48,87,53,55,0,2,0,0,0,0,0,0,0,0,2,2,1,7,12,15,7,6,3,0
+UBC,2012,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",53,74.71,7.88,89,46,51,1,1,0,0,0,0,0,0,1,1,0,1,2,2,8,12,11,11,4,0
+UBC,2012,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",14,68.14,12.19,84,45,12,2,0,0,0,0,0,0,0,2,2,0,2,0,0,3,4,0,3,0,0
+UBC,2012,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",11,59.36,12.8,80,33,9,2,0,0,0,0,0,0,1,1,2,1,1,3,1,2,0,0,1,0,0
+UBC,2012,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",11,59.8,14.57,78,33,8,2,1,0,0,0,0,0,2,0,2,1,0,3,2,0,0,2,0,0,0
+UBC,2012,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",9,72.78,9.76,84,58,9,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,2,3,0,0
+UBC,2012,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",10,73.44,13.84,92,45,8,1,1,0,0,0,0,0,0,1,1,0,0,1,0,2,0,0,4,0,1
+UBC,2012,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",10,59,17.61,73,16,8,1,1,0,0,0,1,0,0,0,1,1,2,1,0,2,2,0,0,0,0
+UBC,2012,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",12,79.67,9.03,91,61,12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,2,4,1
+UBC,2012,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",12,80.75,3.93,86,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,2,0
+UBC,2012,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",25,74.04,7.81,84,57,25,0,0,0,0,0,0,0,0,0,0,0,1,2,4,1,3,5,9,0,0
+UBC,2012,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",26,74.15,8.01,85,45,25,1,0,0,0,0,0,0,0,1,1,0,0,1,1,4,3,13,0,3,0
+UBC,2012,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",25,75.8,5.72,87,65,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,9,4,2,0
+UBC,2012,W,CHEM,325,,213,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,77.25,5.8,85,71,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0
+UBC,2012,W,CHEM,325,,215,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,68.2,8.9,79,58,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0,0
+UBC,2012,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,77.6,2.88,81,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,0
+UBC,2012,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",6,73.5,6.66,81,64,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,1,0,0
+UBC,2012,W,CHEM,345,,135,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,68,2.92,71,64,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0
+UBC,2012,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",18,73.12,12.87,86,32,16,1,1,0,0,0,0,0,1,0,1,0,1,0,2,1,3,4,4,1,0
+UBC,2012,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",24,81.83,6.98,90,61,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,8,7,3
+UBC,2012,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",24,77.5,10,92,42,23,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,2,10,6,0,3
+UBC,2012,W,CHEM,445,,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",17,67.82,10.34,81,45,16,1,0,0,0,0,0,0,0,1,1,1,2,2,1,2,4,1,3,0,0
+UBC,2012,W,CHEM,445,,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",18,67.28,10.12,83,46,17,1,0,0,0,0,0,0,0,1,1,1,2,2,2,5,1,2,2,0,0
+UBC,2012,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",15,89.43,6.28,100,80,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7
+UBC,2012,W,MUSC,300,,001,CMP&ANL AP P TON,"Attas, Robin",79,76.78,12,97,42,73,1,1,2,2,0,0,0,0,1,1,2,4,4,7,6,7,9,13,7,14
+UBC,2012,W,SCIE,300,,109,COMMUNICATE SCIE,"Jandciu, Eric;Stewart, Jaclyn;Stoodley, Robin",16,76.44,6.73,90,61,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,3,5,0,1
+UBC,2013,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",111,71.05,13.29,94,35,103,7,0,1,0,0,0,0,1,6,7,7,8,9,7,8,18,11,17,14,4
+UBC,2013,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1218,69.34,11.6,92,29,1126,74,10,0,8,0,0,1,7,66,74,46,119,121,93,172,176,129,181,70,19
+UBC,2013,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",111,72.83,6.57,85,50,109,0,0,0,2,0,0,0,0,0,0,2,2,4,10,26,25,17,22,1,0
+UBC,2013,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",64,72.73,8.53,90,34,62,1,1,0,0,0,0,0,1,0,1,0,1,3,6,15,17,9,6,3,2
+UBC,2013,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",34,78.32,6.16,92,67,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,6,11,5,1
+UBC,2013,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",13,67.46,15.41,84,36,12,1,0,0,0,0,0,0,1,0,1,1,2,2,1,0,0,2,4,0,0
+UBC,2013,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",7,68.86,21.67,83,21,6,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,2,2,0,0
+UBC,2013,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",11,67.36,13.84,88,40,9,2,0,0,0,0,0,0,0,2,2,0,0,1,0,2,4,1,0,1,0
+UBC,2013,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",9,68.78,12.67,82,43,8,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,3,1,0,0
+UBC,2013,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",11,63.36,19.83,77,10,10,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,4,0,0,0
+UBC,2013,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",9,68.67,10.68,81,45,8,1,0,0,0,0,0,0,0,1,1,0,1,0,0,2,3,1,1,0,0
+UBC,2013,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",12,82.33,6.47,91,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,4,1
+UBC,2013,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",12,84,6.31,94,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,2
+UBC,2013,W,CHEM,325,,113,INTEG CHEM LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",20,74.8,8.12,82,45,19,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,6,5,6,0,0
+UBC,2013,W,CHEM,325,,115,INTEG CHEM LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",23,75.23,10.9,93,43,21,1,1,0,0,0,0,0,0,1,1,0,1,1,2,1,3,3,7,2,1
+UBC,2013,W,CHEM,325,,135,INTEG CHEM LAB I,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",15,69.2,14.16,88,28,14,1,0,0,0,0,0,1,0,0,1,1,0,0,1,5,3,1,2,1,0
+UBC,2013,W,CHEM,325,,215,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,60.5,18.06,79,45,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,1,0,0,0
+UBC,2013,W,CHEM,345,,113,INTG CHEM LAB 2,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",7,74.29,6.52,80,63,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,0,0
+UBC,2013,W,CHEM,345,,115,INTG CHEM LAB 2,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",7,73.14,14.25,88,45,6,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,1,0,2,0
+UBC,2013,W,CHEM,345,,135,INTG CHEM LAB 2,"Bates, Josh;Bussiere, Guillaume;Rogers, Christine;Stoodley, Robin",6,74,14.68,85,45,5,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,2,1,0
+UBC,2013,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",8,78.5,8.09,86,62,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,4,1,0
+UBC,2013,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",22,80.64,3.93,88,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,10,3,0
+UBC,2013,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",18,72.53,11.45,84,36,16,1,1,0,0,0,0,0,1,0,1,0,0,1,2,2,2,4,5,0,0
+UBC,2013,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bates, Josh;Bussiere, Guillaume;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",18,71.89,13.22,83,35,16,2,0,0,0,0,0,0,1,1,2,0,0,1,1,0,4,5,5,0,0
+UBC,2013,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",19,64.32,16.89,78,18,17,2,0,0,0,0,1,1,0,0,2,0,1,3,1,5,2,5,0,0,0
+UBC,2013,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",5,91.6,2.07,95,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2013,W,EPSE,310,A,101,ASMNT&LRN IN CLS,"Tierney, Robin",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,102,ASMNT&LRN IN CLS,"Tierney, Robin",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,104,ASMNT&LRN IN CLS,"Heikkila, Mary;Tierney, Robin",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,105,ASMNT&LRN IN CLS,"Tierney, Robin",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,107,ASMNT&LRN IN CLS,"Tierney, Robin",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,108,ASMNT&LRN IN CLS,"Tierney, Robin",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,A,110,ASMNT&LRN IN CLS,"Tierney, Robin",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,301,ASMNT&LRN IN CLS,"Tierney, Robin",39,,,,,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,302,ASMNT&LRN IN CLS,"Tierney, Robin",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,303,ASMNT&LRN IN CLS,"Tierney, Robin",39,,,,,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,304,ASMNT&LRN IN CLS,"Heikkila, Mary;Tierney, Robin",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,306,ASMNT&LRN IN CLS,"Heikkila, Mary;Tierney, Robin",39,,,,,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,307,ASMNT&LRN IN CLS,"Tierney, Robin",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,308,ASMNT&LRN IN CLS,"Tierney, Robin",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,310,B,309,ASMNT&LRN IN CLS,"Tierney, Robin",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EPSE,481,,074,INTRO RSRCH EDUC,"Tierney, Robin",10,87.4,4.9,99,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2
+UBC,2013,W,EPSE,581,B,074,SPCL TPCS MERM,"Tierney, Robin",5,90.2,4.6,95,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2013,W,SCIE,300,,110,COMMUNICATE SCIE,"Jandciu, Eric;Stewart, Jaclyn;Stoodley, Robin",22,76.27,9.29,92,51,22,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,4,5,7,1,1
+UBC,2013,W,SCIE,300,,111,COMMUNICATE SCIE,"Grant, Edward;Jandciu, Eric;Stewart, Jaclyn;Stoodley, Robin",14,71.69,19.17,92,17,12,1,1,0,0,0,1,0,0,0,1,1,0,0,0,2,2,3,2,1,1
+UBC,2013,W,SCIE,300,,112,COMMUNICATE SCIE,"Jandciu, Eric;Stewart, Jaclyn;Stoodley, Robin;Veen, Thor",18,75.61,10.61,93,43,17,1,0,0,0,0,0,0,0,1,1,0,0,1,0,2,3,4,5,1,1
+UBC,2014,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",119,67.47,11.35,88,41,108,9,1,0,1,0,0,0,0,9,9,7,9,12,15,25,17,2,13,8,0
+UBC,2014,S,EPSE,483,,93A,READ&INTERPT RES,"Tierney, Robin",20,88.25,3.99,94,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,8
+UBC,2014,S,EPSE,483,,951,READ&INTERPT RES,"Tierney, Robin",27,87.85,4.95,95,77,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,12
+UBC,2014,S,EPSE,483,,952,READ&INTERPT RES,"Tierney, Robin",23,85.87,6.86,95,68,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,10,7
+UBC,2014,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1215,71.76,11.75,95,25,1126,73,10,2,4,0,0,1,6,66,73,30,67,92,91,140,189,152,220,111,34
+UBC,2014,W,BIOL,201,,201,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",303,72.46,12.23,94,37,277,20,6,0,0,0,0,0,3,17,20,5,13,24,21,40,35,42,55,28,14
+UBC,2014,W,BIOL,201,,204,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",257,73.56,11.91,94,22,242,9,6,0,0,0,0,1,1,7,9,2,16,25,21,26,40,17,45,31,19
+UBC,2014,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",73,73.32,8.43,90,45,70,1,1,0,0,0,0,0,0,1,1,0,4,2,3,17,18,9,11,5,1
+UBC,2014,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",45,70.91,7.01,87,53,44,0,1,0,0,0,0,0,0,0,0,1,1,0,14,8,11,4,2,3,0
+UBC,2014,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",66,79.03,7.69,97,65,62,0,4,0,0,0,0,0,0,0,0,0,0,0,6,6,8,12,11,17,2
+UBC,2014,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,67.25,19.86,81,38,3,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0
+UBC,2014,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",8,64.25,17.37,80,31,7,1,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,2,0,0
+UBC,2014,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",8,69.5,18.35,85,26,7,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,3,1,1,1,0
+UBC,2014,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",6,73.33,7.97,84,62,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,0
+UBC,2014,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",14,72.36,10.85,87,45,13,1,0,0,0,0,0,0,0,1,1,0,1,0,2,0,3,5,1,1,0
+UBC,2014,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",8,68.29,18.4,86,30,6,1,1,0,0,0,0,0,1,0,1,0,0,0,2,0,2,0,1,1,0
+UBC,2014,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",11,78.27,7.21,88,63,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,2,3,0
+UBC,2014,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",10,73.1,9.64,87,56,10,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,2,2,1,0
+UBC,2014,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",20,72.1,15.61,86,30,18,2,0,0,0,0,0,0,2,0,2,1,1,0,0,0,2,8,4,2,0
+UBC,2014,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",22,78.05,9.36,92,45,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,4,8,3,4,1
+UBC,2014,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",23,76.26,10.65,87,31,22,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,4,9,6,2,0
+UBC,2014,W,CHEM,325,,215,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",4,78,5.35,83,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+UBC,2014,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,68.25,25.54,83,30,3,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,0,0
+UBC,2014,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,79.4,7.09,88,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,0
+UBC,2014,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",13,75.38,10.63,90,45,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,5,3,0,1
+UBC,2014,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",20,78.11,5.99,86,59,19,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,6,8,1,0
+UBC,2014,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",15,77.33,9.63,86,45,14,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,4,7,1,0
+UBC,2014,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",11,66.82,11.48,80,50,11,0,0,0,0,0,0,0,0,0,0,3,0,1,0,3,1,2,1,0,0
+UBC,2014,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",11,70.82,5.72,83,64,11,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,1,1,0,0
+UBC,2014,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",10,89.3,6.91,98,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+UBC,2014,W,SCIE,300,,110,COMMUNICATE SCIE,"Graham, Sean;Stoodley, Robin",24,80.13,4.4,86,70,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,14,3,0
+UBC,2014,W,SCIE,300,,111,COMMUNICATE SCIE,"Grant, Edward;Stoodley, Robin",22,78.91,8.35,92,59,22,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,5,6,5,1
+UBC,2014,W,SCIE,300,,112,COMMUNICATE SCIE,"Dunham, Bruce;Stoodley, Robin",22,69.1,18.4,85,0,20,1,1,0,0,1,0,0,0,0,1,2,0,1,1,0,8,5,1,2,0
+UBC,2014,W,SCIE,300,,210,COMMUNICATE SCIE,"Dunham, Bruce;Stoodley, Robin",16,79.63,4.22,86,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,3,0
+UBC,2014,W,SCIE,300,,212,COMMUNICATE SCIE,"Jetter, Reinhard;Stoodley, Robin;Trites, Andrew",24,82.5,4.25,90,75,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,13,6,1
+UBC,2014,W,SCIE,300,,213,COMMUNICATE SCIE,"Jetter, Reinhard;Stoodley, Robin;Trites, Andrew",23,79.87,4.63,89,71,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,8,4,0
+UBC,2015,S,BUSI,470,,971,FIN MANAGEMENT,"Diehl, Robin",17,82.18,7.42,94,65,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,6,4,3
+UBC,2015,S,EPSE,483,,951,READ&INTERPT RES,"Tierney, Robin",22,88,8.02,99,66,21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,5,11
+UBC,2015,S,EPSE,483,,952,READ&INTERPT RES,"Tierney, Robin",21,86.9,9.01,97,62,20,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,7,9
+UBC,2015,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1276,73.7,11.57,96,35,1174,95,5,1,1,0,0,0,2,93,95,7,17,76,88,173,154,153,306,150,50
+UBC,2015,W,BIOL,341,,201,INT MOLE BIO LAB,"Chen, Liane;Young, Robin",66,82.26,4.45,92,70,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,27,18,3
+UBC,2015,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",51,77.73,7.63,92,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,10,6,11,11,2
+UBC,2015,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",60,73.83,16.04,93,7,55,3,2,0,0,1,1,0,0,1,3,3,1,4,1,5,6,10,13,10,2
+UBC,2015,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,69.5,2.65,73,67,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0
+UBC,2015,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,65.4,12.74,83,56,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0
+UBC,2015,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",32,73.41,8.52,84,45,31,1,0,0,0,0,0,0,0,1,1,1,0,2,0,5,8,10,5,0,0
+UBC,2015,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,63.75,11.41,75,50,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+UBC,2015,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",9,60.5,19.93,79,19,6,2,1,0,0,0,1,0,0,1,2,0,0,0,2,2,1,1,0,0,0
+UBC,2015,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,42.5,6.24,50,35,1,3,0,0,0,0,0,0,1,2,3,1,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",28,77.67,3.99,86,69,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10,9,1,0
+UBC,2015,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",25,74.88,6.88,87,62,25,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,4,7,5,1,0
+UBC,2015,W,CHEM,315,,LB1,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,73.25,5.19,81,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+UBC,2015,W,CHEM,315,,LB3,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",4,65.75,30.72,91,21,3,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1
+UBC,2015,W,CHEM,315,,LB5,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,79.4,4.1,86,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0
+UBC,2015,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",12,67.75,6.98,77,52,12,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,2,1,0,0,0
+UBC,2015,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",9,66.56,9.74,79,51,9,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,2,1,0,0,0
+UBC,2015,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",12,68.27,9.67,79,45,10,1,1,0,0,0,0,0,0,1,1,0,1,0,3,1,2,3,0,0,0
+UBC,2015,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",22,67.91,12.7,80,23,20,2,0,0,0,0,0,1,0,1,2,0,0,1,3,5,6,4,1,0,0
+UBC,2015,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",6,73.67,5.99,83,66,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,0,0
+UBC,2015,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",8,78.13,4.61,83,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,0,0
+UBC,2015,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",7,77.43,5.16,82,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,4,0,0
+UBC,2015,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",6,76.17,5.31,81,67,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0
+UBC,2015,W,CHEM,335,,LB1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",25,78.04,5.93,87,66,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,7,10,2,0
+UBC,2015,W,CHEM,335,,LB3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",26,75.81,6.43,85,59,26,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,7,7,7,1,0
+UBC,2015,W,CHEM,335,,LB5,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",22,77.09,4.26,83,66,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,6,8,0,0
+UBC,2015,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",7,74,12.11,92,53,7,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,1,0,1
+UBC,2015,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",5,77.4,3.51,81,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0
+UBC,2015,W,CHEM,345,,135,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",9,73.22,4.32,81,66,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,1,0,0
+UBC,2015,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",11,73.82,8.47,91,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,2,2,0,1
+UBC,2015,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",23,73.35,8.49,91,57,23,0,0,0,0,0,0,0,0,0,0,0,2,2,1,3,7,2,4,1,1
+UBC,2015,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rogers, Christine;Stoodley, Robin",7,74.86,12.27,94,59,7,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,2,0,1
+UBC,2015,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",14,71.29,7.29,81,55,14,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,3,2,0,0
+UBC,2015,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rodriguez Nunez, Jose;Rogers, Christine;Stoodley, Robin",13,68.42,9.49,80,44,11,1,1,0,0,0,0,0,0,1,1,0,1,1,0,3,5,0,1,0,0
+UBC,2015,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",11,88,7.32,100,80,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+UBC,2015,W,EDCP,308,,102,MUS ELEM CRC&PED,"Anderson, Robin",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,308,,104,MUS ELEM CRC&PED,"Anderson, Robin",40,,,,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,308,,107,MUS ELEM CRC&PED,"Anderson, Robin",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,308,,109,MUS ELEM CRC&PED,"Anderson, Robin",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDUC,450,A,117,INQUIRY SEMNR 1,"Anderson, Robin",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDUC,451,A,117,INQUIRY SEMNR 2,"Anderson, Robin",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,SCIE,300,,211,COMMUNICATE SCIE,"Stoodley, Robin",19,70.33,15.04,88,20,17,1,1,0,0,0,0,1,0,0,1,1,0,0,1,6,4,1,1,3,0
+UBC,2016,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",122,74.48,9.97,91,45,116,4,2,0,0,0,0,0,0,4,4,3,1,6,4,21,20,18,25,13,5
+UBC,2016,S,BUSI,470,,971,FIN MANAGEMENT,"Diehl, Robin",32,80.94,9.71,95,53,32,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,3,2,9,10,4
+UBC,2016,S,EPSE,483,,951,READ&INTERPT RES,"Tierney, Robin",21,85.76,5.67,94,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8,6
+UBC,2016,S,EPSE,483,,952,READ&INTERPT RES,"Tierney, Robin",17,86.18,6.17,96,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,4,7
+UBC,2016,S,PHTH,538,,001,CASE INTEG II,"Grant, Natalie;Rankin, Anne;Roots, Robin",78,87.17,3.84,95,77,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,42,20
+UBC,2016,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",82,86.4,7.81,94,68,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,13,23,36
+UBC,2016,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,BIOL,201,,201,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",289,73.62,12.46,93,31,263,19,5,0,2,0,0,0,4,15,19,5,9,11,24,39,42,27,50,39,17
+UBC,2016,W,BIOL,201,,204,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",229,75.38,10.79,97,35,215,5,6,0,3,0,0,0,1,4,5,5,9,9,17,22,30,23,59,27,14
+UBC,2016,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",64,77.56,7.24,90,55,64,0,0,0,0,0,0,0,0,0,0,0,2,0,3,9,8,12,21,8,1
+UBC,2016,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",50,75.46,9.26,95,49,48,2,0,0,0,0,0,0,0,2,2,0,0,3,2,7,6,14,10,4,2
+UBC,2016,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",66,74.33,9.11,90,41,63,3,0,0,0,0,0,0,0,3,3,0,0,0,5,9,17,16,10,5,1
+UBC,2016,W,CHEM,300,,110,COMMUNCTING CHEM,"Stoodley, Robin",23,77.74,7.45,86,55,23,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5,1,9,4,0
+UBC,2016,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,61.33,14.15,70,45,2,1,2,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0
+UBC,2016,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",4,65.75,17.46,79,41,3,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,2,0,0,0
+UBC,2016,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,75.2,6.42,85,69,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0
+UBC,2016,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",28,75.37,4.99,85,66,27,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5,5,10,4,1,0
+UBC,2016,W,CHEM,315,,L1C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",14,75.14,3.84,81,71,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,2,0,0
+UBC,2016,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",26,73.23,11.72,82,23,25,1,0,0,0,0,0,1,0,0,1,0,0,1,2,3,6,5,8,0,0
+UBC,2016,W,CHEM,315,,L3C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,76.4,6.69,82,66,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0
+UBC,2016,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",23,73.3,9.31,84,40,22,1,0,0,0,0,0,0,0,1,1,0,1,0,1,4,6,5,5,0,0
+UBC,2016,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",19,68.37,8.23,79,50,19,0,0,0,0,0,0,0,0,0,0,2,1,0,2,6,5,3,0,0,0
+UBC,2016,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",24,75.79,11.68,90,44,22,2,0,0,0,0,0,0,0,2,2,0,0,1,0,3,4,1,11,0,2
+UBC,2016,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",18,70.06,8.79,85,45,17,1,0,0,0,0,0,0,0,1,1,0,0,1,4,5,2,4,0,1,0
+UBC,2016,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,77,2.97,80,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0
+UBC,2016,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,72.4,7.92,80,62,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0
+UBC,2016,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,75.4,7.2,84,64,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0
+UBC,2016,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,77.33,6.71,90,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,1
+UBC,2016,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Rodriguez Nunez, Jose;Stoodley, Robin",10,73,5.96,84,66,10,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,0,2,0,0
+UBC,2016,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",11,88.09,5.97,98,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4
+UBC,2016,W,MECH,221,,101,ENGIN SCIENCE I,"Cripton, Peter;Poole, Warren;Schajer, Gary;Turner, Robin;Walls, Patrick;d'Entremont, Agnes",124,74.39,10.03,98,45,119,4,1,0,0,0,0,0,0,4,4,0,3,5,11,19,25,22,22,2,10
+UBC,2016,W,PHTH,516,,001,CLINICAL DEC I,"Goyert, Peter;Murphy, Susan;Roots, Robin",80,88.86,4.18,96,73,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,24,45
+UBC,2016,W,PHTH,528,,001,CASE INTEGR I,"Grant, Natalie;Liu, Teresa Yeong Lih;Roots, Robin;Sauve, Karen",80,86.44,5.91,94,60,80,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,26,22,30
+UBC,2017,S,BUSI,470,,971,FIN MANAGEMENT,"Diehl, Robin",29,78.25,17.78,94,0,27,1,1,0,0,1,0,0,0,0,1,0,0,2,1,1,2,5,5,5,6
+UBC,2017,S,EPSE,483,,93A,READ&INTERPT RES,"Tierney, Robin",19,87.16,5.97,98,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,9
+UBC,2017,S,EPSE,483,,951,READ&INTERPT RES,"Tierney, Robin",22,83.19,9.06,93,59,21,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,4,6,3,6
+UBC,2017,S,EPSE,483,,952,READ&INTERPT RES,"Tierney, Robin",17,82.53,6.83,94,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,7,2,3
+UBC,2017,S,PHTH,538,,001,CASE INTEG II,"Grant, Natalie;Rankin, Anne;Roots, Robin",80,84.69,4.85,94,72,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,26,29,13
+UBC,2017,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,91.28,4.15,97,78,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,17,58
+UBC,2017,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,BIOL,201,,201,INTRO BIOCHEM,"Young, Robin",262,74.8,11.78,93,41,237,16,5,0,1,0,0,0,0,16,16,5,1,12,17,23,37,27,71,29,15
+UBC,2017,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",68,76.15,8.92,92,43,67,1,0,0,0,0,0,0,0,1,1,1,1,1,6,6,15,9,16,10,2
+UBC,2017,W,BUSI,470,,201,FIN MANAGEMENT,"Diehl, Robin",58,72.07,9.46,88,46,56,2,0,0,0,0,0,0,0,2,2,0,2,9,4,7,13,8,9,4,0
+UBC,2017,W,CHEM,300,,209,COMMUNCTING CHEM,"Stoodley, Robin",16,76,21.02,95,2,15,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,4,8,0,2
+UBC,2017,W,CHEM,300,,211,COMMUNCTING CHEM,"Ryan, Katherine;Stoodley, Robin",20,81.16,10.89,93,57,19,0,1,0,0,0,0,0,0,0,0,0,2,0,0,1,2,1,5,1,7
+UBC,2017,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",5,53,18.71,72,35,2,2,1,0,0,0,0,0,2,0,2,0,0,0,1,0,1,0,0,0,0
+UBC,2017,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,71.29,9.96,86,54,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,1,0,1,0
+UBC,2017,W,CHEM,315,,LB1,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",4,74.75,8.62,84,66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
+UBC,2017,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",11,76,9.8,91,56,10,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,3,1,1,1
+UBC,2017,W,CHEM,319,,001,PRACT SKILL CHEM,"Stoodley, Robin",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CHEM,335,,LB1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",25,81.33,8.22,92,50,24,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,11,6,2
+UBC,2017,W,CHEM,335,,LB3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",20,83.11,4.82,94,73,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,10,6,1
+UBC,2017,W,CHEM,335,,LB5,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",22,79.32,9.56,89,45,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,3,0,3,6,9,0
+UBC,2017,W,CHEM,335,,LC1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,80,6.71,89,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,2,0
+UBC,2017,W,CHEM,335,,LC3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,85,6.35,90,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1
+UBC,2017,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",13,69.17,11.83,90,45,11,1,0,0,1,0,0,0,0,1,1,0,0,2,2,3,1,0,2,0,1
+UBC,2017,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",20,78.37,11.75,92,45,18,1,1,0,0,0,0,0,0,1,1,0,0,0,1,2,4,0,3,6,2
+UBC,2017,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",12,74.83,7.95,85,62,12,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,4,3,1,0
+UBC,2017,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin;Wickenden, Jason",17,73.76,7.01,84,57,17,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,6,4,3,0,0
+UBC,2017,W,CHEM,448,B,200,DST CHEMISTRY,"Stoodley, Robin",5,90.2,3.9,96,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2017,W,CHEM,533,,109,BIOANALYT CHEM,"Blades, Michael;Turner, Robin",11,90.36,3.14,96,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+UBC,2017,W,MECH,221,,101,ENGIN SCIENCE I,"Poole, Warren;Schajer, Gary;Turner, Robin;Walls, Patrick;d'Entremont, Agnes",133,73.72,10.12,98,41,128,5,0,0,0,0,0,0,0,5,5,0,2,8,10,22,33,19,20,0,14
+UBC,2017,W,PHTH,528,,001,CASE INTEGR I,"Anthony, Joseph;Jacobs, Michelle;Rankin, Anne;Roots, Robin",78,82.79,4.48,93,70,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,18,32,18,8
+UBC,2018,S,BUSI,470,,971,FIN MANAGEMENT,"Diehl, Robin",58,74.55,7.84,91,55,58,0,0,0,0,0,0,0,0,0,0,0,2,2,6,8,16,7,11,5,1
+UBC,2018,S,CHEM,448,A,921,DST CHEMISTRY,"Stoodley, Robin",4,85,0,85,85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UBC,2018,S,PHTH,546,,921,CLIN MAKE III,"Murphy, Susan;Rankin, Anne;Roots, Robin;Sauve, Karen",78,91.28,3.67,97,82,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,57
+UBC,2018,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",79,91.78,3.66,98,85,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,54
+UBC,2018,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,BIOL,200,,201,FUND CELL BIO,"Roskams, Angela Jane;Young, Robin",250,71.21,11.9,93,29,223,15,3,0,9,0,0,1,3,11,15,10,5,19,24,28,39,28,46,17,7
+UBC,2018,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",31,73.37,10.94,89,46,28,2,1,0,0,0,0,0,0,2,2,0,2,1,2,2,5,4,10,2,0
+UBC,2018,W,BUSI,470,,101,FIN MANAGEMENT,"Diehl, Robin",68,73.02,10.11,90,35,64,1,3,0,0,0,0,0,1,0,1,0,3,7,7,6,12,10,11,7,1
+UBC,2018,W,CHEM,300,,211,COMMUNCTING CHEM,"Stoodley, Robin",19,81.05,8.04,95,57,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,8,5,1
+UBC,2018,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,68.13,7.43,80,58,8,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,1,0,0
+UBC,2018,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",4,70.67,10.12,77,59,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0
+UBC,2018,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,69.63,7.44,80,58,8,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,1,1,1,0,0
+UBC,2018,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",25,79.2,5.22,92,70,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,6,3,1
+UBC,2018,W,CHEM,315,,L1C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",15,77.07,9.22,90,54,15,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,3,4,2,1
+UBC,2018,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,65.92,11.6,77,33,12,1,0,0,0,0,0,0,1,0,1,0,1,2,3,0,5,1,0,0,0
+UBC,2018,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",11,77.27,6.71,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,0,1
+UBC,2018,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,61.62,21.73,80,4,10,3,0,0,0,1,0,0,1,1,3,0,0,1,2,0,4,2,1,0,0
+UBC,2018,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",24,80.75,5.53,91,71,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,3,6,2
+UBC,2018,W,CHEM,315,,L3C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,77.58,7.1,90,68,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4,1,1
+UBC,2018,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",25,76.32,6.19,87,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,6,6,2,0
+UBC,2018,W,CHEM,315,,LB1,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,73.6,2.07,77,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+UBC,2018,W,CHEM,315,,LM5,CHEM INTEG LAB I,"Stoodley, Robin",12,83.5,5.5,89,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,8,0
+UBC,2018,W,CHEM,315,,LM7,CHEM INTEG LAB I,"Stoodley, Robin",12,80.75,3.17,84,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,0,0
+UBC,2018,W,CHEM,319,,162,PRACT SKILL CHEM,"Stoodley, Robin",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",14,76.36,8.15,86,60,14,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3,4,2,0
+UBC,2018,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",21,74.57,9.71,91,45,20,1,0,0,0,0,0,0,0,1,1,0,1,0,0,3,8,3,2,2,1
+UBC,2018,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",20,70.11,9.44,83,45,18,1,1,0,0,0,0,0,0,1,1,1,0,0,2,6,4,3,2,0,0
+UBC,2018,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,78.86,2.41,83,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0
+UBC,2018,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",6,83.33,4.32,86,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0
+UBC,2018,W,CHEM,335,,L3C,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",4,77,4.16,82,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+UBC,2018,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",6,81.5,5.96,87,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+UBC,2018,W,CHEM,335,,LB1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",23,74.52,10.32,90,45,22,1,0,0,0,0,0,0,0,1,1,1,0,0,1,5,3,6,3,1,2
+UBC,2018,W,CHEM,335,,LB3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",24,81.88,5.91,90,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,4,6,4
+UBC,2018,W,CHEM,335,,LB5,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",21,76.43,10.01,90,45,20,1,0,0,0,0,0,0,0,1,1,0,0,1,2,1,1,5,8,1,1
+UBC,2018,W,CHEM,335,,LC1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",10,79.1,2.69,83,73,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,0,0
+UBC,2018,W,CHEM,335,,LC3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,82.71,4.31,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1
+UBC,2018,W,CHEM,341,,111,GLOBAL CHALLENGE,"Stoodley, Robin",103,71.22,12.83,95,31,94,6,0,0,0,0,0,0,2,4,6,4,7,7,11,12,11,11,17,9,5
+UBC,2018,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,74,9.9,83,59,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0
+UBC,2018,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,74.43,11.31,90,63,7,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,1,1
+UBC,2018,W,CHEM,345,,135,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,83,6.08,90,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2018,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",14,76.86,5.59,86,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,3,1,0
+UBC,2018,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",20,78.05,8.67,91,50,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,6,5,3,1
+UBC,2018,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,75.5,5.32,82,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,0,0
+UBC,2018,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",11,74.09,9.25,88,56,11,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,2,0,2,0
+UBC,2018,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",15,71.6,7.42,83,59,15,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,2,3,2,0,0
+UBC,2018,W,EDCP,308,,101,MUS ELEM CRC&PED,"Anderson, Robin",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDUC,451,A,109,INQUIRY SEMNR 2,"Anderson, Robin;Filipenko, Margot",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,MECH,221,,101,ENGIN SCIENCE I,"Nakane, Jonathan;Turner, Robin;Walls, Patrick;Wu, Chun;d'Entremont, Agnes",124,76.17,10.95,100,28,121,3,0,0,0,0,0,1,0,2,3,0,2,7,2,27,16,17,31,2,17
+UBC,2018,W,PHTH,516,,001,CLINICAL DEC I,"Hewson, Daniel;Murphy, Susan;Paul, Susan;Roots, Robin",78,86.51,2.77,95,80,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,51,9

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,PHYS,306,,201,Advanced Mechanics,Pascal Nigge;Stepan Fomichev;Steven Plotkin,41,65.097560976,23.247370688,99.0,17.0,10,2,1,2,1,4,3,4,7,3,4
+UBCV,2018,S,ENPH,270,,941,Mechanics II,Michael Hasinoff;Oguzhan Can;Stepan Fomichev,64,80.453125,8.744939013,98.0,56.0,0,0,1,0,4,5,6,11,14,14,9
+UBCV,2018,W,PHYS,306,,201,Advanced Mechanics,Michael Kinach;Michael Peter Kinach;Stepan Fomichev;Steven Plotkin,45,66.355555556,20.759615029,99.0,1.0,10,2,2,3,4,3,4,4,4,3,6
+UBCV,2019,S,ENPH,270,,941,Mechanics II,Alexander Sheyerman;Michael Hasinoff;Stepan Fomichev,59,77.966101695,12.048703038,100.0,50.0,0,4,0,2,5,6,6,4,17,3,12
+UBCV,2019,W,PHYS,158,,201,Introductory Physics for Engineers II,Ashley Warner;Austin De St Croix;Caleb Sample;Chengshu Li;Fatemeh Aghaee Rad;Hao Jia;Ian Macphail-Bartley;Jiabin Yu;Jordan Fordyce;Jordan Hanania;Jordan Wilson-Gerow;Lara Maria Bartels;Lars Gitt;Maryam Rostamzadeh;Mia Au;Michael Hasinoff;Michelle Lam;Puranjay Gulati;Ryan Harvey;Stepan Fomichev;Sydney Dufresne;Tarun Tummuru;Vincent Wong;Yukiya Saito,331,69.018126888,12.506469991,99.0,0.0,9,19,43,36,46,37,36,40,40,12,13
+UBCV,2019,W,PHYS,315,,101,Quantum Physics of Materials,Eran Sela;Joshua Folk;Stepan Fomichev,14,70.857142857,22.256743638,87.0,1.0,1,0,1,1,1,1,1,1,5,2,0
+UBCV,2019,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Mohammed Iqbal;Reiner Kruecken;Stepan Fomichev,12,86.75,6.468454923,95.0,75.0,0,0,0,0,0,0,1,0,4,1,6
+UBCV,2019,W,SCIE,113,,V01,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Priya Lekhi;Stepan Fomichev,17,74.529411765,5.124910329,85.0,68.0,0,0,0,0,0,7,3,3,3,1,0
+UBCV,2020,S,ENPH,257,,941,Heat and Thermodynamics,Chen Ge Qu;Christopher Waltham;Stepan Fomichev,66,82.03030303,6.64245019,99.0,63.0,0,0,0,1,1,2,9,6,19,22,6
+UBCV,2020,W,PHYS,170,,203,Mechanics I,Adair Connor;Ardavan Pourkeramati;Avinash Deshmukh;Ben Osborne;Daniel Ka Sing Wong;Edward Thoeng;Eloise Faehndrich;Lina Nguyen;Maryam Rostamzadeh;Matthew Choptuik;Michael Kinach;Miles Justice;Nawid Tanin;Russell Bate;Sharada Balaji;Stepan Fomichev;Stephen Courtney;Tarun Tummuru,322,82.062111801,16.119757982,100.0,3.0,13,5,9,6,14,12,27,25,35,44,132
+UBCV,2020,W,PHYS,312,,101,Introduction to Mathematical Physics,Jiabin Yu;Joanna Karczmarek;Oguzhan Can;Stepan Fomichev,39,70.58974359,11.315378331,87.0,45.0,2,2,2,5,2,5,5,6,6,4,0
+UBCV,2020,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Martin Adamson;Michael Feeley;Stepan Fomichev,25,84.36,7.941872155,96.0,68.0,0,0,0,0,0,2,3,1,6,2,11
+UBCV,2021,S,PHYS,203,,941,Thermal Physics I,Joshua Folk;Stepan Fomichev;Tomasz Andrzejewski,62,77.693548387,15.028485204,97.0,18.0,4,1,0,2,0,3,7,7,19,12,7
+UBCV,2021,W,SCIE,113,,209,First-Year Seminar in Science,Caitlin Donnelly;Michael Feeley;Stepan Fomichev,24,84.291666667,5.774600808,95.0,73.0,0,0,0,0,0,0,2,2,10,5,5

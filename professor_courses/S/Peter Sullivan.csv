@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,COLX,531,,001,Machine Translation,Chiyu Zhang;Julian Brooke;Laura Patterson;Muhammad Abdul-Mageed;Peter Sullivan,25,94.24,2.742869544,98.0,85.0,0,0,0,0,0,0,0,0,0,2,23
+UBCV,2019,W,COLX,585,,001,Trends in Computational Linguistics,Chiyu Zhang;Muhammad Abdul-Mageed;Peter Sullivan;Sonia Norris,25,95.68,1.144552314,97.0,93.0,0,0,0,0,0,0,0,0,0,0,25
+UBCV,2019,W,DSCI,572,,002,Supervised Learning II,Muhammad Abdul-Mageed;Peter Sullivan,26,91.692307692,3.717732973,96.0,85.0,0,0,0,0,0,0,0,0,0,9,17
+UBCV,2020,W,COLX,531,,001,Machine Translation,Ganesh Jawahar;Julian Brooke;Muhammad Abdul-Mageed;Peter Sullivan,32,93.0625,3.817933067,96.0,82.0,0,0,0,0,0,0,0,0,1,4,27
+UBCV,2020,W,COLX,585,,001,Trends in Computational Linguistics,Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan,31,96.225806452,1.175008579,97.0,93.0,0,0,0,0,0,0,0,0,0,0,31
+UBCV,2020,W,DSCI,512,,002,Algorithms and Data Structures,Julian Brooke;Peter Sullivan,31,86.967741935,5.618326388,99.0,73.0,0,0,0,0,0,0,1,1,9,10,10
+UBCV,2020,W,DSCI,572,,002,Supervised Learning II,Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan,31,91.419354839,4.129359866,97.0,80.0,0,0,0,0,0,0,0,0,3,3,25
+UBCV,2021,W,COLX,531,,001,Machine Translation,Chiyu Zhang;Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan;Siliang Liu,34,92.764705882,4.632289986,97.0,77.0,0,0,0,0,0,0,0,2,0,2,30
+UBCV,2021,W,COLX,585,,001,Trends in Computational Linguistics,Chiyu Zhang;Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan;Shi Qiu;Yundong Yao,34,93.735294118,3.20330155,98.0,87.0,0,0,0,0,0,0,0,0,0,4,30
+UBCV,2021,W,DSCI,572,,002,Supervised Learning II,Chiyu Zhang;Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan;Siliang Liu,34,92.882352941,3.819921512,98.0,79.0,0,0,0,0,0,0,0,1,0,4,29

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MATH,200,,107,CALCULUS 3,"Krause, Benjamin",130,67.11,19.19,97,0,107,16,3,0,3,2,2,2,4,6,16,4,17,6,12,14,8,8,15,13,10
+UBC,2015,W,MATH,253,,103,MULTIVRBL CALC,"Krause, Benjamin",120,75.13,14.24,99,27,112,4,2,0,2,0,0,1,2,1,4,7,6,5,8,13,12,10,17,16,18
+UBCV,2015,W,MATH,200,,107,Calculus III,Benjamin Krause,127,65.960629921,20.149599852,97.0,0.0,,,,,,,,,,,19,5,17,6,12,14,8,8,15,13,10
+UBCV,2015,W,MATH,253,,103,Multivariable Calculus,Benjamin Krause;Gordon Slade,118,74.050847458,16.354432974,99.0,9.0,,,,,,,,,,,6,7,6,5,8,13,12,10,17,16,18

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,83,71.98795181,9.424273247,91.0,47.0,,,5,5,12,13,10,14,15,,,,,
+UBCV,2014,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Leann Howe,23,75.86956522,10.30138714,98.0,60.0,0,0,0,,,,,,5,,,,,
+UBCV,2015,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,104,71.471153846,10.484344992,94.0,43.0,,,12,9,10,15,14,11,18,8,,,,
+UBCV,2015,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,34,81.147058824,12.799461051,96.0,44.0,,,,,5,,,,,7,11,,,
+UBCV,2016,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,109,71.09174312,9.739706137,90.0,43.0,1,4,8,10,20,12,14,13,20,5,2,,,
+UBCV,2016,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,34,80.97058824,9.163449444,92.0,52.0,0,1,1,1,0,0,3,5,8,11,4,,,
+UBCV,2017,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,88,72.454545455,13.052422236,93.0,42.0,6,4,3,8,8,9,5,11,15,14,5,,,
+UBCV,2017,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,17,78.823529412,9.435539824,91.0,50.0,0,1,0,0,1,0,1,3,7,3,1,,,
+UBCV,2017,W,BIOC,440,,002,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,88.944444444,7.447638569,97.0,77.0,0,0,0,0,0,0,0,2,5,0,11,,,
+UBCV,2018,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,103,72.281553398,12.468326519,95.0,44.0,3,8,10,7,8,10,12,13,12,12,8,,,
+UBCV,2018,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,79.111111111,7.745122859,93.0,65.0,0,0,0,0,2,1,4,1,3,6,1,,,
+UBCV,2018,W,BIOC,440,,002,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,17,82.058823529,7.092871318,92.0,67.0,0,0,0,0,2,0,1,0,6,6,2,,,
+UBCV,2018,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,B Brett Finlay;Calvin Yip;Christian Kastrup;Dieter Bromme;Jason Read;Lawrence Mcintosh;Leann Howe;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Scott Covey;Sheila Teves;Thibault Mayor;Vivien Measday,17,85.235294118,3.961208966,90.0,75.0,0,0,0,0,0,0,1,1,5,9,1,,,
+UBCV,2019,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Cindy Hei Yiu Hei Yiu Lam;Cindy Hei Yiu Lam;Eric Jan;Ivan Sadowski;Leann Howe;Reid Warsaba,98,71.765306122,12.074341049,93.0,39.0,4,6,4,9,12,6,14,11,17,11,4,,,
+UBCV,2019,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,82.222222222,9.340333509,95.0,57.0,0,0,1,0,0,1,1,2,4,6,3,,,
+UBCV,2019,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,B Brett Finlay;Calvin Yip;Christian Kastrup;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Scott Covey;Sheila Teves;Thibault Mayor;Vivien Measday,14,87.357142857,6.464187055,94.0,66.0,0,0,0,0,1,0,0,0,0,8,5,,,
+UBCV,2020,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Irvinder Wason;Laura Meleady;Leann Howe;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,118,76.423728814,9.381202135,96.0,52.0,0,4,4,4,9,11,13,25,27,13,8,,,
+UBCV,2020,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Cindy Hei Yiu Lam;Eric Jan;Ivan Sadowski;James Kwan;Leann Howe;Reid Warsaba,130,77.807692308,10.037214594,96.0,52.0,0,2,4,7,8,14,14,20,18,29,14,,,
+UBCV,2020,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,20,83.15,8.511756575,98.0,67.0,0,0,0,0,1,0,2,5,2,5,5,,,
+UBCV,2020,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;B Brett Finlay;Calvin Yip;Christian Kastrup;Corey Nislow;Dieter Bromme;Jason Read;Lawrence Mcintosh;Leann Howe;Michael Kobor;Michel Roberge;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Pieter Cullis;Scott Covey;Sheila Teves;Sriram Subramaniam;Thibault Mayor;Vivien Measday;Warren Williams,21,89.80952381,2.993644061,94.0,84.0,0,0,0,0,0,0,0,0,1,7,13,,,
+UBCV,2021,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Leann Howe;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor;Yilun Chen,114,73.51754386,10.06196066,93.0,42.0,1,3,6,11,13,9,19,13,23,12,4,,,
+UBCV,2021,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Eric Jan;Ivan Sadowski;Leann Howe,99,71.505050505,12.647798661,97.0,23.0,5,7,1,9,13,8,9,15,22,5,5,,,
+UBCV,2021,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,12,84.416666667,5.853644294,91.0,71.0,0,0,0,0,0,1,0,0,4,4,3,,,
+UBCV,2021,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;B Brett Finlay;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Lindsay Brown;Michael Kobor;Nobuhiko Tokuriki;Philip Hieter;Pieter Cullis;Scott Covey;Sheila Teves;Shoukat Dedhar;Sriram Subramaniam;Thibault Mayor;Vivien Measday;Warren Williams,19,94.684210526,2.427907915,98.0,89.0,0,0,0,0,0,0,0,0,0,1,18,,,
+UBCV,2021,W,BIOC,555,,001,Epigenetics,Leann Howe;Michael Kobor,10,93.1,2.558211181,96.0,87.0,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2021,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Leann Howe;Michael Krisinger;Thibault Mayor;Nobuhiko Tokuriki,115,73.6,,93.0,50.0,,,6,11,13,10,19,13,23,12,,74.0,81.0,67.0
+UBCV,2021,W,BIOC,440,,001,Concepts in Molecular Biology,Leann Howe;Eric Jan;Ivan Sadowski,12,84.4,,91.0,71.0,,,,,,,,,,,,86.0,88.5,80.0
+UBCV,2021,W,BIOC,555,,001,Epigenetics,Leann Howe;Michael Kobor,10,93.1,,96.0,87.0,,,,,,,,,,,9,93.0,94.5,93.0
+UBCV,2022,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong van Hoa;Leann Howe;Michael Krisinger;Thibault Mayor;Nobuhiko Tokuriki,120,74.5,,94.0,54.0,0,2,7,8,14,16,16,13,23,16,5,75.0,82.0,67.0
+UBCV,2022,W,BIOC,440,,001,Concepts in Molecular Biology,Leann Howe;Eric Jan;Ivan Sadowski,11,85.2,,95.0,77.0,0,0,0,0,0,0,0,1,3,5,2,85.0,87.5,82.5
+UBCV,2023,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong van Hoa;Eden Fussner-Dupas;Leann Howe;Michael Krisinger;Thibault Mayor;Nobuhiko Tokuriki,116,71.7,,94.0,41.0,1,7,8,10,11,12,18,23,18,5,3,73.0,79.0,65.0
+UBCV,2023,W,BIOC,440,,001,Concepts in Molecular Biology,Leann Howe;Eric Jan;Ivan Sadowski,18,85.9,,92.0,66.0,0,0,0,0,1,0,0,0,4,8,5,87.0,89.8,83.5
+UBCV,2023,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;Pieter Cullis;Shoukat Dedhar;Franck Duong van Hoa;B Brett Finlay;Philip Hieter;Leann Howe;Thibault Mayor;Seth Parker;Jason Read;Sriram Subramaniam;Sheila Teves;Filip van Petegem,23,94.2,,99.0,56.0,1,0,0,0,0,0,0,0,0,1,19,98.0,98.0,94.0
+UBCV,2023,W,BIOC,555,,001,Epigenetics,Leann Howe;Michael Kobor,8,92.4,,99.0,85.0,0,0,0,0,0,0,0,0,0,1,7,92.0,94.5,90.8

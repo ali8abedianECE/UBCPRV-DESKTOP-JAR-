@@ -1,0 +1,86 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,NURS,570,,002,PRIMARY CARE I,"Burrows, Marlene;Harding, Jillian",16,81.31,3.09,88,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,2,0,,,
+UBC,2013,W,NURS,570,,002,PRIMARY CARE I,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",14,86.57,5.49,94,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,4,,,
+UBC,2013,W,NURS,571,,001,PRIMARY CARE II,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",16,90.81,2.83,96,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,,,
+UBC,2013,W,NURS,572,,002,PRIMARY CARE III,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",16,93.5,2.19,96,88,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,,,
+UBC,2013,W,NURS,578,,002,FAM NRS PRACT,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",16,98.5,1.9,100,92,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,,,
+UBC,2013,W,NURS,591,,001,ETH&PROFL ISSUES,"Burrows, Marlene",16,94.19,4.23,99,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,,,
+UBC,2013,W,NURS,596,,001,PRIMRY CARE PROJ,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",29,85.63,6.23,94,72,16,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,7,,,
+UBC,2015,W,NURS,510,,001,ADV HLTH ASSESS,"Burrows, Marlene;Harding, Jillian;McCuaig, Fairleth",15,94,2,97,91,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2015,W,NURS,570,,002,PRIMARY CARE I,"Burrows, Marlene;Harding, Jillian",14,86.5,2.59,91,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,3,,,
+UBC,2015,W,NURS,572,,002,PRIMARY CARE III,"Burrows, Marlene;Harding, Jillian",17,89.29,3.08,95,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,,,
+UBC,2015,W,NURS,578,,002,FAM NRS PRACT,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",17,97.53,3.48,100,87,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,,,
+UBC,2015,W,NURS,591,,001,ETH&PROFL ISSUES,"Burrows, Marlene",17,94.29,4.4,100,84,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14,,,
+UBC,2015,W,NURS,596,,001,PRIMRY CARE PROJ,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",28,86.88,5.41,94,75,17,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,8,,,
+UBC,2016,W,NURS,510,,001,ADV HLTH ASSESS,"Burrows, Marlene;McCuaig, Fairleth",15,93.4,1.96,97,91,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2016,W,NURS,570,,002,PRIMARY CARE I,"Burrows, Marlene",16,88.06,3.04,92,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,5,,,
+UBC,2016,W,NURS,578,,002,FAM NRS PRACT,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",14,98.64,2.71,100,90,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,,,
+UBC,2016,W,NURS,591,,001,ETH&PROFL ISSUES,"Burrows, Marlene",15,96.93,1.62,99,94,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2016,W,NURS,596,,001,CULMINATING PROJ,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",30,87.5,3.32,92,82,14,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,7,,,
+UBC,2017,W,NURS,310,,001,PHARM FOR NURSNG,"Burrows, Marlene",120,81.42,5.75,96,66,120,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,22,40,28,9,,,
+UBC,2017,W,NURS,570,,002,PRIMARY CARE I,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer",15,88.5,2.59,93,85,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,,,
+UBC,2017,W,NURS,571,,001,PRIMARY CARE II,"Burrows, Marlene;Krist, Jennifer",16,93,2.45,97,89,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,,,
+UBC,2017,W,NURS,591,,001,ETH&PROFL ISSUES,"Burrows, Marlene",15,92.93,5.57,99,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,12,,,
+UBC,2017,W,NURS,596,,001,CULMINATING PROJ,"Burrows, Marlene;Harding, Jillian;Krist, Jennifer;McCuaig, Fairleth",31,89.25,3.42,95,82,16,0,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,8,,,
+UBC,2018,W,NURS,591,,001,ETH&PROFL ISSUES,"Burrows, Marlene",14,94.57,4.03,99,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,,,
+UBCV,2014,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Cheryl Beatty;Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,15,86.46666667,7.199867724,96.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,7,,,
+UBCV,2015,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Cheryl Beatty;Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,16,88.8125,5.946637705,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,9,,,
+UBCV,2015,W,NURS,510,,001,Advanced Health Assessment Across the Life Span,Fairleth Mccuaig;Fairleth P Mccuaig;Jillian Harding;Marlene Burrows,15,94.0,2.0,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2015,W,NURS,570,,002,Primary Care I,Jillian Harding;Marlene Burrows,14,86.5,2.594372608,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,,,,
+UBCV,2015,W,NURS,572,,002,PRIMARY CARE III,Jillian Harding;Marlene Burrows,17,89.294117647,3.077432085,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,8,,,
+UBCV,2015,W,NURS,578,,002,Family Nurse Practitioner Consolidated Practicum,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,17,97.529411765,3.484208071,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2015,W,NURS,591,,001,Ethical and Professional Issues in NP Practice,Marlene Burrows,17,94.294117647,4.398361995,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,14,,,
+UBCV,2015,W,NURS,596,,001,Primary Care Project,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,17,86.882352941,5.406967183,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,8,,,
+UBCV,2016,W,NURS,510,,001,Advanced Health Assessment Across the Life Span,Fairleth Mccuaig;Fairleth P Mccuaig;Marlene Burrows,15,93.4,1.956673562,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2016,W,NURS,570,,002,Primary Care I,Jennifer Krist;Jillian Harding;Marlene Burrows,16,88.0625,3.043435559,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,5,,,
+UBCV,2016,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Fairleth P Mccuaig;Marlene Burrows,14,91.85714286,2.656114654,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,11,,,
+UBCV,2016,W,NURS,578,,002,Family Nurse Practitioner Consolidated Practicum,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,14,98.64285714,2.706321456,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,,,
+UBCV,2016,W,NURS,591,,001,Ethical and Professional Issues in NP Practice,Marlene Burrows,15,96.93333333,1.624221425,99.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2016,W,NURS,596,,001,Culminating Project,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,14,87.5,3.322418026,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,7,,,
+UBCV,2017,W,NURS,310,,001,Basic Principles of Pharmacology for Nursing Practice,Elsie Tan;Manpreet Kaur Gill Thandi;Manpreet Thandi;Marlene Burrows,120,81.416666667,5.750532797,96.0,66.0,,,,,,,,,,,0,0,0,0,1,3,17,22,40,28,9,,,
+UBCV,2017,W,NURS,510,,001,Advanced Health Assessment Across the Life Span,Fairleth Mccuaig;Fairleth P Mccuaig;Jillian Harding;Marlene Burrows,15,91.866666667,3.461351236,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,13,,,
+UBCV,2017,W,NURS,570,,002,Primary Care I,Jennifer Krist;Jillian Harding;Marlene Burrows,14,88.5,2.594372608,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,5,,,
+UBCV,2017,W,NURS,571,,001,Primary Care II,Jennifer Krist;Marlene Burrows,16,93.0,2.449489743,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,13,,,
+UBCV,2017,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Jillian Harding;Marlene Burrows,16,92.125,2.918332857,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,13,,,
+UBCV,2017,W,NURS,578,,002,Family Nurse Practitioner Consolidated Practicum,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,16,98.625,1.360147051,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2017,W,NURS,591,,001,Ethical and Professional Issues in NP Practice,Marlene Burrows,15,92.933333333,5.573747991,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,12,,,
+UBCV,2017,W,NURS,596,,001,Culminating Project,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,16,89.25,3.415650255,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,8,,,
+UBCV,2018,W,NURS,548,,001,Qualitative Methods and Analysis,Jillian Harding;John Oliffe;Marlene Burrows,23,88.695652174,4.976625204,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,5,13,,,
+UBCV,2018,W,NURS,591,,001,Ethical and Professional Issues in NP Practice,Marlene Burrows,14,94.571428571,4.032832288,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,11,,,
+UBCV,2019,S,NURS,570,,941,Primary Care I,Marlene Burrows,30,85.766666667,3.169720246,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,13,5,,,
+UBCV,2019,W,NURS,508,,99A,Pathophysiological Processes for Nurse Practitioners,Elisabeth Bailey;Ismalia Erica Pires De Sousa;Marlene Burrows,30,87.1,3.613671359,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,17,7,,,
+UBCV,2019,W,NURS,571,,001,Primary Care II,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,30,93.1,1.936046451,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,29,,,
+UBCV,2019,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,30,93.8,2.155986053,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,28,,,
+UBCV,2019,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,30,90.366666667,3.605391875,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,19,,,
+UBCV,2019,W,NURS,596,,001,Culminating Project,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,30,90.533333333,3.170264139,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,19,,,
+UBCV,2020,S,NURS,570,,941,Primary Care I,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,30,87.933333333,2.993479504,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,18,10,,,
+UBCV,2020,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Brett Collinge;Marlene Burrows,33,86.696969697,5.132524041,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,6,13,11,,,
+UBCV,2020,W,NURS,571,,001,Primary Care II,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,30,92.766666667,2.528231402,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,26,,,
+UBCV,2020,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,30,91.3,2.36570322,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,24,,,
+UBCV,2020,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,29,95.724137931,3.702282614,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,27,,,
+UBCV,2020,W,NURS,596,,001,Culminating Project,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,10,89.9,4.175324339,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2021,S,NURS,570,,941,Primary Care I,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,30,86.666666667,5.579107167,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,8,10,10,,,
+UBCV,2021,S,NURS,578,,941,Family Nurse Practitioner Consolidated Practicum,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,12,97.75,3.3337121,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2021,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Marlene Burrows,27,86.148148148,6.648907971,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,6,9,8,,,
+UBCV,2021,W,NURS,509,,002,Clinical Procedures in Primary Care Settings,Fairleth Mccuaig;Jennifer Krist;Marlene Burrows;Shannon Rooney,30,95.066666667,2.09980842,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,29,,,
+UBCV,2021,W,NURS,571,,001,Primary Care II,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,29,92.482758621,3.169279883,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,24,,,
+UBCV,2021,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows;Shannon Rooney,29,92.344827586,3.637855158,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,26,,,
+UBCV,2021,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,29,98.344827586,2.318802987,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,29,,,
+UBCV,2021,S,NURS,570,,941,Primary Care I,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth Mccuaig;Shannon Rooney,30,86.7,,96.0,73.0,,,,,,,,,,,,,,,,,,,8,10,10,87.0,90.8,83.3
+UBCV,2021,S,NURS,578,,941,Family Nurse Practitioner Consolidated Practicum,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth Mccuaig,12,97.8,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,99.5,100.0,96.8
+UBCV,2021,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Marlene Burrows,27,86.1,,96.0,71.0,,,,,,,,,,,,,,,,,,,6,9,8,87.0,91.5,83.0
+UBCV,2021,W,NURS,509,,002,Clinical Procedures in Primary Care Settings,Marlene Burrows;Jennifer Krist;Fairleth Mccuaig;Shannon Rooney,30,95.1,,98.0,88.0,,,,,,,,,,,,,,,,,,,,,29,95.0,96.0,94.0
+UBCV,2021,W,NURS,571,,001,Primary Care II,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth Mccuaig;Shannon Rooney,29,92.5,,97.0,82.0,,,,,,,,,,,,,,,,,,,,,24,93.0,95.0,91.0
+UBCV,2021,W,NURS,572,,002,PRIMARY CARE III,Marlene Burrows;Jennifer Krist;Fairleth Mccuaig;Shannon Rooney,29,92.3,,97.0,81.0,,,,,,,,,,,,,,,,,,,,,26,93.0,95.0,91.0
+UBCV,2021,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,29,98.3,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,29,99.0,100.0,98.0
+UBCV,2022,S,NURS,570,,941,Primary Care I,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth McCuaig;Shannon Rooney,30,85.0,,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,1,9,13,5,85.5,88.0,83.3
+UBCV,2022,S,NURS,578,,921,Family Nurse Practitioner Consolidated Practicum,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth McCuaig;Shannon Rooney,18,99.6,,100.0,98.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,100.0,100.0,99.0
+UBCV,2022,S,NURS,578,,941,Family Nurse Practitioner Consolidated Practicum,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth McCuaig;Shannon Rooney,11,98.5,,100.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,99.0,99.5,98.0
+UBCV,2022,W,NURS,506,,001,Health Promotion in Practice,Marlene Burrows,29,96.4,,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,27,97.0,99.0,95.0
+UBCV,2022,W,NURS,571,,001,Primary Care II,Marlene Burrows;Jillian Harding;Jennifer Krist;Shannon Rooney,30,93.0,,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,27,93.0,95.0,93.0
+UBCV,2022,W,NURS,572,,002,PRIMARY CARE III,Marlene Burrows;Jillian Harding;Jennifer Krist,30,89.6,,98.0,22.0,,,,,,,,,,,1,0,0,0,0,1,0,0,0,3,25,93.0,94.0,91.0
+UBCV,2022,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,31,97.7,,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,29,99.0,99.5,99.0
+UBCV,2023,S,NURS,570,,941,Primary Care I,Marlene Burrows,29,87.5,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,10,11,88.0,90.0,84.0
+UBCV,2023,S,NURS,578,,941,Family Nurse Practitioner Consolidated Practicum,Marlene Burrows;Jillian Harding;Jennifer Krist;Fairleth McCuaig;Shannon Rooney,14,98.3,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,13,100.0,100.0,99.3
+UBCV,2023,W,NURS,508,,001,Pathophysiological Processes for Nurse Practitioners,Marlene Burrows,30,94.3,,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,27,95.0,96.75,93.0
+UBCV,2023,W,NURS,591,,002,Ethical and Professional Issues in NP Practice,Marlene Burrows,29,99.76,,100.0,98.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,29,100.0,100.0,100.0

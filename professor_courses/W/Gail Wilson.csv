@@ -1,0 +1,76 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,HKIN,120,,001,ANLY TEAM PERF,"Wilson, Gail",36,69.74,10.27,92,46,34,1,1,0,0,0,0,0,0,1,1,2,2,4,5,4,8,3,4,1,1
+UBC,2002,W,HKIN,210,C,0C1,PERF ANLY SL IND,"Wilson, Gail;Wright, Thelma",30,82.8,6.35,91,58,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,11,11,3
+UBC,2002,W,HKIN,210,C,0C2,PERF ANLY SL IND,"Wilson, Gail;Wright, Thelma",30,80.55,5.1,91,71,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,9,6,1
+UBC,2002,W,HKIN,220,B,0B1,PERF ANLY SL TM,"Mosher, Michael;Wilson, Gail",21,76.29,5.13,87,69,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,8,2,2,0
+UBC,2002,W,HKIN,355,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",33,76,8.61,90,56,33,0,0,0,0,0,0,0,0,0,0,0,3,0,1,4,6,8,6,3,2
+UBC,2003,W,HKIN,120,,001,ANLY TEAM PERF,"Wilson, Gail",39,66.26,16.85,88,0,35,3,1,0,0,1,0,0,0,2,3,4,4,4,3,3,5,4,4,4,0
+UBC,2003,W,HKIN,210,C,0C1,PERF ANLY SL IND,"Wilson, Gail;Wilson, Margaret",31,84.81,4.42,92,71,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,10,16,3
+UBC,2003,W,HKIN,210,C,0C2,PERF ANLY SL IND,"Wilson, Gail;Wilson, Margaret",11,83.91,5.52,92,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4,1
+UBC,2003,W,HKIN,220,B,0B1,PERF ANLY SL TM,"Mosher, Michael;Wilson, Gail",14,77.86,4.17,85,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,4,1,0
+UBC,2003,W,HKIN,355,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",24,79.79,5.72,90,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,4,6,1
+UBC,2003,W,HKIN,355,C,0C4,FIELD EXPERIENCE,"Wilson, Gail",18,75.5,8.57,86,47,17,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,2,10,2,2,0
+UBC,2005,W,HKIN,115,A,0A1,PERF ANYL SPORTS,"WATSON, LYDIA;Wilson, Gail",18,72.94,13.38,91,28,16,1,0,0,1,0,0,1,0,0,1,0,0,0,2,1,5,5,0,2,1
+UBC,2005,W,HKIN,115,A,0A2,PERF ANYL SPORTS,"WATSON, LYDIA;Wilson, Gail",24,80.63,6.42,93,70,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,9,4,2
+UBC,2005,W,HKIN,215,,0B1,PERF ANYL STS&A,"Mosher, Michael;Wilson, Gail",6,72.33,8.14,82,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,2,0,0
+UBC,2005,W,HKIN,355,C,0C1,FIELD EXPERIENCE,"Wilson, Gail",27,80.15,9.95,96,56,27,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,6,2,8,3,5
+UBC,2005,W,HKIN,355,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",12,76.08,9.45,91,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2,2,2,1
+UBC,2005,W,HKIN,369,,001,INST ANLY&DESIGN,"Wilson, Gail",69,73.69,8.77,92,47,67,1,1,0,0,0,0,0,0,1,1,1,1,6,7,8,12,10,16,5,1
+UBC,2006,W,HKIN,115,A,0A1,PERF ANYL SPORTS,"WATSON, LYDIA;Wilson, Gail",24,79.75,5.86,90,67,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,3,9,4,1
+UBC,2006,W,HKIN,115,A,0A2,PERF ANYL SPORTS,"WATSON, LYDIA;Wilson, Gail",21,77.62,6.19,90,66,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,5,6,2,1
+UBC,2006,W,HKIN,215,B,0B1,PERF ANYL STS&A,"Mosher, Michael;Wilson, Gail",18,77.44,7.19,88,65,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,4,5,3,0
+UBC,2006,W,HKIN,369,,001,INST ANLY&DESIGN,"Wilson, Gail",43,72.19,10.06,93,45,41,1,1,0,0,0,0,0,0,1,1,2,2,2,3,6,9,7,7,2,1
+UBC,2006,W,HKIN,454,C,0C1,FIELD EXPERIENCE,"Wilson, Gail",13,79.69,6.18,87,69,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,4,4,0
+UBC,2006,W,HKIN,454,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",12,84.67,6.47,94,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,2,4
+UBC,2007,W,HKIN,215,B,0B1,PERF ANYL STS&A,"Mosher, Michael;Wilson, Gail",26,73.5,6.26,83,62,26,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,4,4,6,0,0
+UBC,2007,W,HKIN,369,,001,INST ANLY&DESIGN,"Wilson, Gail",50,78.26,6.72,90,60,50,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,6,16,9,10,1
+UBC,2007,W,HKIN,415,,001,CNCPTL GAME EDUC,"Wilson, Gail",42,81.9,6.45,94,62,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,5,14,12,4
+UBC,2007,W,HKIN,454,C,0C1,FIELD EXPERIENCE,"Wilson, Gail",11,83.27,5.8,94,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,1
+UBC,2007,W,HKIN,454,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",11,83.91,7.22,94,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,2
+UBC,2009,W,HKIN,215,B,0B1,PERF ANYL STS&A,"BROWN, DAVID;Wilson, Gail",28,74.54,6.89,85,57,28,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,5,5,8,1,0
+UBC,2009,W,HKIN,369,,001,INST ANLY&DESIGN,"Wilson, Gail",56,73.3,10.01,90,38,55,1,0,0,0,0,0,0,1,0,1,1,4,3,4,9,6,8,15,4,1
+UBC,2009,W,HKIN,415,,001,CNCPTL GAME EDUC,"Wilson, Gail",52,72.37,10.39,91,51,52,0,0,0,0,0,0,0,0,0,0,5,1,5,6,4,8,6,13,3,1
+UBC,2009,W,HKIN,454,C,0C1,FIELD EXPERIENCE,"Wilson, Gail",7,74.14,27.1,92,14,6,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,0,2
+UBC,2009,W,HKIN,454,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",18,83.44,8.35,96,66,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,4,3,5
+UBC,2010,W,HKIN,215,B,0B1,PERF ANYL STS&A,"Gombar, Jeff;Wilson, Gail",26,84.16,5.94,95,74,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5,8,6,5
+UBC,2010,W,HKIN,369,,L1A,INST ANLY&DESIGN,"Wilson, Gail",28,72.5,10.42,91,50,28,0,0,0,0,0,0,0,0,0,0,2,1,2,3,6,2,2,8,1,1
+UBC,2010,W,HKIN,369,,L1B,INST ANLY&DESIGN,"Wilson, Gail",23,74,7.78,87,54,23,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,4,5,5,1,0
+UBC,2010,W,HKIN,415,,L1A,CNCPTL GAME EDUC,"Wilson, Gail",19,77.78,11.1,91,54,18,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3,2,1,5,2,3
+UBC,2010,W,HKIN,415,,L1B,CNCPTL GAME EDUC,"Wilson, Gail",14,74.77,9.38,86,60,13,0,1,0,0,0,0,0,0,0,0,0,0,2,2,1,2,1,3,2,0
+UBC,2010,W,HKIN,454,C,0C1,FIELD EXPERIENCE,"Wilson, Gail",5,75.4,28.54,95,26,4,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2
+UBC,2010,W,HKIN,454,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",16,84,8.43,96,69,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,3,5
+UBC,2011,W,HKIN,215,B,0B1,PERF ANYL STS&A,"Gombar, Jeff;Wilson, Gail",23,79.22,8.23,89,53,23,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,3,6,8,0
+UBC,2011,W,HKIN,369,,L1A,INST ANLY&DESIGN,"Wilson, Gail",22,80.18,9.44,92,58,22,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3,3,5,4,4
+UBC,2011,W,HKIN,369,,L1B,INST ANLY&DESIGN,"Wilson, Gail",27,74.78,7.14,88,61,27,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,5,5,6,2,0
+UBC,2011,W,HKIN,415,,L1A,CNCPTL GAME EDUC,"Wilson, Gail",23,74.43,9.01,90,58,23,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,0,2,5,3,1
+UBC,2011,W,HKIN,415,,L1B,CNCPTL GAME EDUC,"Wilson, Gail",13,71.77,22.33,87,0,12,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,4,0,6,1,0
+UBC,2011,W,HKIN,454,C,0C3,FIELD EXPERIENCE,"Wilson, Gail",15,82,6.78,91,71,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,3,3
+UBCV,2014,W,KIN,215,B,0B1,Performance Analysis of Selected Team Sports and Activities,Gail Wilson;Jeff Gombar,23,79.30434783,5.286645118,90.0,71.0,,,,,,,,,,,0,0,0,0,0,,6,,8,,
+UBCV,2014,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail Wilson,31,79.48387097,8.880206333,94.0,60.0,,,,,,,,,,,0,0,0,,,,,,9,,6
+UBCV,2014,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,27,77.88888889,10.69627302,91.0,55.0,,,,,,,,,,,0,0,,2,,,,,,5,5
+UBCV,2014,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,29,74.37931035,10.04423713,90.0,60.0,,,,,,,,,,,0,0,0,7,,,,,,6,1
+UBCV,2014,W,KIN,415,,L1A,Conceptual Approaches to Games Education,Gail Wilson,19,68.73684211,14.7152306,86.0,29.0,,,,,,,,,,,,,,,,,,,,,0
+UBCV,2014,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail Wilson,14,74.14285714,12.29669839,94.0,45.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2014,W,KIN,454,C,0C2,Field Experience,Gail Wilson,7,79.85714286,11.05182596,90.0,62.0,,,,,,,,,,,0,0,0,,,,,,,,
+UBCV,2015,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail Wilson,29,78.793103448,9.693073043,98.0,58.0,,,,,,,,,,,0,0,,,,,7,,,,5
+UBCV,2015,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,19,71.947368421,11.266832761,94.0,54.0,,,,,,,,,,,0,,,2,,,,,,,
+UBCV,2015,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,22,68.363636364,11.17627357,86.0,45.0,,,,,,,,,,,,,,7,,,,,,,0
+UBCV,2015,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail Wilson,29,71.068965517,12.870040056,92.0,50.0,,,,,,,,,,,0,,,,,,,,5,,
+UBCV,2015,W,KIN,454,C,0C2,Field Experience,Gail Wilson,14,80.785714286,7.536358756,94.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,,
+UBCV,2016,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail Wilson,35,70.02857143,11.95207517,93.0,50.0,,,,,,,,,,,0,1,6,5,4,6,1,1,5,4,2
+UBCV,2016,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,24,70.41666667,9.422067837,91.0,52.0,,,,,,,,,,,0,1,2,3,3,4,5,1,4,0,1
+UBCV,2016,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,20,70.9,10.38673243,87.0,39.0,,,,,,,,,,,1,0,0,3,2,3,5,1,4,1,0
+UBCV,2016,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail Wilson,26,68.84615385,11.60928011,90.0,33.0,,,,,,,,,,,1,0,2,5,3,4,5,1,3,1,1
+UBCV,2016,W,KIN,456,,001,Field Experiences in Physical Education Settings,Gail Wilson,17,76.41176471,10.82854344,96.0,53.0,,,,,,,,,,,0,1,0,1,0,4,1,1,6,1,2
+UBCV,2017,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail E. Wilson;Gail Wilson,28,71.928571429,9.854228539,88.0,50.0,,,,,,,,,,,0,1,2,2,2,9,3,2,2,5,0
+UBCV,2017,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail E. Wilson;Gail Wilson,25,74.04,11.081064931,94.0,52.0,,,,,,,,,,,0,1,1,4,1,4,3,3,3,2,3
+UBCV,2017,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail E. Wilson;Gail Wilson,22,74.272727273,8.827348295,94.0,60.0,,,,,,,,,,,0,0,0,2,4,4,4,0,6,1,1
+UBCV,2017,W,KIN,456,,001,Field Experiences in Physical Education Settings,Gail E. Wilson;Gail Wilson,8,80.25,5.2030211,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,3,2,0
+UBCV,2018,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail E. Wilson;Gail Wilson,32,73.875,11.488423346,91.0,48.0,,,,,,,,,,,1,2,1,2,3,2,4,5,8,2,2
+UBCV,2018,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail E. Wilson;Gail Wilson,23,77.0,12.468141219,96.0,50.0,,,,,,,,,,,0,1,2,1,0,2,3,3,5,2,4
+UBCV,2018,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail E. Wilson;Gail Wilson,19,69.894736842,20.088401122,91.0,0.0,,,,,,,,,,,1,1,1,0,3,2,5,0,2,2,2
+UBCV,2018,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail E. Wilson;Gail Wilson,20,72.6,16.9996904,92.0,21.0,,,,,,,,,,,1,0,1,4,1,3,0,2,1,3,4
+UBCV,2018,W,KIN,456,,001,Field Experiences in Physical Education Settings,Gail E. Wilson;Gail Wilson,16,79.125,10.404326023,95.0,60.0,,,,,,,,,,,0,0,0,2,1,1,2,0,6,1,3
+UBCV,2019,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Andrew Hammond;Gail Wilson;Jasmin Ma;Sierra Moores,40,84.4,6.428302803,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,10,11,9
+UBCV,2019,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson;Joshua Alexander Webster;Joshua Webster;Stephen Mcginley,36,89.305555556,5.181392226,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,12,16
+UBCV,2019,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail Wilson;Janka Samuhel-Corewyn,16,92.25,4.32820209,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,12

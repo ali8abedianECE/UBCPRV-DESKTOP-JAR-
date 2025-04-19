@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,EECE,481,,201,Dig Int Circ Des,"Molavi, Reza",23,84.4,8.61,95,64,20,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,2,5,4,6,,,
+UBC,2014,W,EECE,263,,101,BASIC CIRC ANLYS,"Molavi, Reza",108,74.29,12.68,99,40,104,3,1,0,0,0,0,0,0,3,3,7,0,9,8,15,18,9,13,14,11,,,
+UBC,2014,W,EECE,363,,201,CIRCTS ELECMECH,"Molavi, Reza",32,77.48,8.46,92,56,31,0,0,1,0,0,0,0,0,0,0,0,1,1,2,4,3,4,8,7,1,,,
+UBC,2015,W,ELEC,344,,101,APPL EL & ELMECH,"Molavi, Reza",76,77.43,12.18,100,41,74,2,0,0,0,0,0,0,0,2,2,3,2,3,4,7,5,7,18,16,9,,,
+UBC,2015,W,ELEC,403,,201,ADV DIG VLSI SYS,"Molavi, Reza",12,75.82,9.36,98,65,11,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,0,1,1,,,
+UBC,2016,W,ELEC,403,,201,ADV DIG VLSI SYS,"Molavi, Reza",12,77.45,12.96,95,56,11,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,3,0,1,1,3,,,
+UBC,2017,W,ELEC,205,,L1C,ELECTRONICS LAB,"Molavi, Reza",18,79.56,5.68,88,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,5,0,,,
+UBC,2017,W,ELEC,205,,L1D,ELECTRONICS LAB,"Molavi, Reza",20,82.1,6.69,93,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,7,5,3,,,
+UBC,2017,W,ELEC,205,,L1E,ELECTRONICS LAB,"Molavi, Reza",19,81.42,4.48,90,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,9,4,1,,,
+UBC,2017,W,ELEC,403,,201,ADV DIG VLSI SYS,"Molavi, Reza",12,77.83,6.89,90,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,5,2,1,1,,,
+UBC,2018,W,ELEC,402,,101,INTR VLSI SYS,"Molavi, Reza",44,75.19,12.44,94,51,42,0,0,0,2,0,0,0,0,0,0,3,4,2,2,4,3,4,9,7,4,,,
+UBCV,2014,W,EECE,263,,101,Basic Circuit Analysis,Reza Molavi,107,74.28971963,12.67519442,99.0,40.0,,,,,,,,,,,,7,,9,8,15,18,9,13,14,11,,,
+UBCV,2014,W,EECE,363,,201,Electronic Circuits for Electromechanical Design,Reza Molavi,31,77.48387097,8.461170005,92.0,56.0,,,,,,,,,,,0,0,,,,,,,8,7,,,,
+UBCV,2015,W,ELEC,344,,101,Applied Electronics and Electromechanics,Anindya Lal Roy;Anindya Roy;Ilya Ganelin;Nilgoon Zarei;Reza Molavi;Sayed Mohammad Hashem Jayhooni,76,77.434210526,12.17903721,100.0,41.0,,,,,,,,,,,,,2,3,4,7,5,7,18,16,9,,,
+UBCV,2015,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Reza Molavi,31,76.483870968,11.456791196,93.0,42.0,,,,,,,,,,,,,,,,,6,5,5,5,,,,
+UBCV,2015,W,ELEC,403,,201,Advanced Digital VLSI Systems,Reza Molavi;Soroush Dehghani,11,75.818181818,9.357544355,98.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2016,W,ELEC,403,,201,Advanced Digital VLSI Systems,Reza Molavi;Yi Luo,11,77.45454546,12.95657082,95.0,56.0,,,,,,,,,,,0,0,1,1,0,1,3,0,1,1,3,,,
+UBCV,2017,W,ELEC,205,,L1C,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,18,79.555555556,5.679915308,88.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,3,5,5,0,,,
+UBCV,2017,W,ELEC,205,,L1D,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,20,82.1,6.687773605,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,2,7,5,3,,,
+UBCV,2017,W,ELEC,205,,L1E,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,19,81.421052632,4.476057162,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,9,4,1,,,
+UBCV,2017,W,ELEC,403,,201,Advanced Digital VLSI Systems,Reza Molavi,12,77.833333333,6.886526151,90.0,63.0,,,,,,,,,,,0,0,0,1,0,1,1,5,2,1,1,,,
+UBCV,2018,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi;Ziyu Wang,44,73.477272727,14.602466559,94.0,30.0,,,,,,,,,,,2,3,4,2,2,4,3,4,9,7,4,,,
+UBCV,2019,W,ELEC,402,,101,Introduction to VLSI Systems,Chen Yuan;Reza Molavi,42,71.071428571,13.809492771,97.0,43.0,,,,,,,,,,,2,3,5,5,3,2,2,6,7,3,4,,,
+UBCV,2019,W,ELEC,403,,201,Advanced Digital VLSI Systems,Omid Esmaeeli;Reza Molavi,10,77.7,12.525973016,99.0,62.0,,,,,,,,,,,0,0,0,2,0,1,2,1,1,1,2,,,
+UBCV,2020,W,ELEC,402,,101,Introduction to VLSI Systems,Muchen He;Omid Esmaeeli;Reza Molavi,41,76.414634146,10.770273,99.0,55.0,,,,,,,,,,,0,0,2,1,8,6,1,5,7,6,5,,,
+UBCV,2020,W,ELEC,403,,201,Advanced Digital VLSI Systems,Alireza Asoodeh;Reza Molavi,14,76.714285714,10.780527827,93.0,58.0,,,,,,,,,,,0,0,1,2,0,1,1,2,3,3,1,,,
+UBCV,2021,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi;Si Hoang Lam;Ziyu Wang,41,75.487804878,10.970692666,97.0,52.0,,,,,,,,,,,0,2,1,4,1,5,8,5,4,6,5,,,
+UBCV,2021,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,12,89.416666667,6.734690832,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,7,,,
+UBCV,2021,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi,41,75.5,,97.0,52.0,,,,,,,,,,,,,,,,,8,,,6,,75.0,85.0,70.0
+UBCV,2021,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,12,89.4,,97.0,78.0,,,,,,,,,,,,,,,,,,,,,7,90.5,95.0,85.5
+UBCV,2022,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi,36,77.4,,94.0,50.0,,,,,,,,,,,1,2,0,4,1,2,4,3,6,5,8,80.0,87.3,68.0
+UBCV,2022,W,ELEC,404,,201,RF Integrated Circuits,Reza Molavi,22,74.0,,90.0,53.0,,,,,,,,,,,0,1,1,1,4,1,3,5,2,3,1,75.5,79.5,66.3
+UBCV,2022,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,10,80.5,,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,0,7,90.5,91.8,84.0
+UBCV,2023,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi,51,74.9,,98.0,51.0,,,,,,,,,,,0,2,1,3,8,6,6,5,4,7,6,75.0,85.0,67.0
+UBCV,2023,W,ELEC,404,,201,RF Integrated Circuits,Reza Molavi,10,74.1,,95.0,52.0,,,,,,,,,,,0,1,0,1,1,1,0,1,1,0,2,74.5,82.5,65.3
+UBCV,2023,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,7,86.3,,96.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,2,3,89.0,90.0,85.8

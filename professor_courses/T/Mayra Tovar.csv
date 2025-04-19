@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,PHYS,403,,201,STATISTICAL MECH,"Tovar, Mayra",65,72.51,16.99,98,15,59,6,0,0,0,0,2,0,0,4,6,2,4,2,2,10,11,3,9,5,11
+UBC,2014,W,PHYS,100,,101,INTRO PHYSICS,"Tovar, Mayra",245,67.76,16.72,100,20,207,27,8,0,3,0,0,9,18,0,27,4,16,27,15,32,34,22,30,16,11
+UBC,2014,W,PHYS,159,,L2E,INTRO PHYS LAB,"Tovar, Mayra",52,81.26,9.98,96,55,50,0,2,0,0,0,0,0,0,0,0,0,2,1,2,4,5,1,11,13,11
+UBC,2014,W,PHYS,159,,L2K,INTRO PHYS LAB,"Tovar, Mayra",53,79.98,8.81,97,60,53,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,10,8,7,9,9
+UBC,2014,W,PHYS,159,,L2X,INTRO PHYS LAB,"Tovar, Mayra",52,79.67,8.74,95,62,51,0,0,0,1,0,0,0,0,0,0,0,0,2,3,5,8,8,4,14,7
+UBC,2014,W,PHYS,403,,201,STATISTICAL MECH,"Tovar, Mayra",64,76.72,13.94,98,44,57,4,2,0,1,0,0,0,0,4,4,3,1,2,3,7,3,5,12,11,10
+UBC,2015,W,PHYS,100,,101,INTRO PHYSICS,"Tovar, Mayra",248,69.76,14.5,98,29,211,24,12,0,1,0,0,2,9,13,24,8,12,17,20,32,27,23,41,23,8
+UBC,2015,W,PHYS,159,,L2E,INTRO PHYS LAB,"Tovar, Mayra",53,73.37,7.43,87,54,52,0,0,0,1,0,0,0,0,0,0,1,2,1,7,10,9,12,7,3,0
+UBC,2015,W,PHYS,159,,L2K,INTRO PHYS LAB,"Tovar, Mayra",53,74.21,8.19,91,53,53,0,0,0,0,0,0,0,0,0,0,1,2,4,4,3,14,14,6,3,2
+UBC,2015,W,PHYS,159,,L2X,INTRO PHYS LAB,"Tovar, Mayra",52,80.98,6.61,93,58,49,0,0,0,3,0,0,0,0,0,0,0,1,0,0,2,6,12,15,9,4
+UBC,2015,W,PHYS,403,,201,STATISTICAL MECH,"Tovar, Mayra",97,72.63,14.27,97,26,90,4,1,1,1,0,0,1,1,2,4,7,4,7,8,12,8,7,15,11,11
+UBC,2016,S,PHYS,118,,952,ELEC LIGHT & RAD,"Tovar, Mayra",135,69.89,13.43,99,28,123,9,2,0,1,0,0,1,0,8,9,7,8,17,11,18,19,13,6,15,9
+UBC,2016,W,PHYS,100,,101,INTRO PHYSICS,"Tovar, Mayra",232,68.3,15.29,98,19,198,25,8,0,1,0,1,2,18,4,25,4,19,27,13,17,50,12,24,19,13
+UBCV,2014,W,PHYS,100,,101,Introductory Physics,Mayra Tovar;Stefan Reinsberg,237,66.99578059,17.94589276,100.0,3.0,,,,,,,,,,,30,4,16,27,15,32,34,22,30,16,11
+UBCV,2014,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,50,81.26,9.979182413,96.0,55.0,,,,,,,,,,,0,0,,,,,5,,11,13,11
+UBCV,2014,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,53,79.98113208,8.813212472,97.0,60.0,,,,,,,,,,,0,0,0,,,7,10,8,7,9,9
+UBCV,2014,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Jeff Young;Mayra Tovar,52,78.5,12.07249345,95.0,19.0,,,,,,,,,,,,,,,,5,8,8,4,14,7
+UBCV,2014,W,PHYS,403,,201,Statistical Mechanics,Mayra Tovar,62,75.85483871,15.41751907,98.0,23.0,,,,,,,,,,,5,,,,,7,,5,12,11,10
+UBCV,2015,S,PHYS,102,,952,"Electricity, Light and Radiation",Douglas Andrew Bonn;Edward Thoeng;Evert Koster;Hideki Tanimura;Joss Ives;Leonard Paul Ruocco;Mayra Tovar;Shiqin Su;Timothy Cox;Victor Bednar;Wei Zhao,129,72.97674419,14.94022732,97.0,0.0,,,,,,,,,,,10,,,11,13,13,16,13,11,19,15
+UBCV,2015,W,PHYS,100,,101,Introductory Physics,Alexander Sheyerman;Alyson Spitzig;Andrew Robertson;Charlie Payne;Chen Ge Qu;Chengshu Li;Colby Delisle;Colby Lee Delisle;Damien Quentin;Deborah C Good;Deborah Good;Elizabeth Loggia;Evan Chen;Felix Cormier;Hyungki Shin;Mayra Tovar;Meng Li;Mirko Miorelli;Nikolay Shenkov;Pascal Nigge;Pedro Luis Esquinas Fernandez;Peter Gustainis;Roja Zakariaee Kouchaksaraee;Ryan Day;Stefan Reinsberg;Wesley Cheek;Yi Liu;Ziang Yan,236,69.508474576,14.985522524,98.0,10.0,,,,,,,,,,,25,8,12,17,20,32,27,23,41,23,8
+UBCV,2015,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Bin Guo;Dominik Neuenfeld;Mayra Tovar;Roja Zakariaee Kouchaksaraee;Sarah Burke,53,72.528301887,9.554708412,87.0,29.0,,,,,,,,,,,,,,,7,10,9,12,7,,0
+UBCV,2015,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Ali Izadi Rad;Andrew Robertson;Mayra Tovar;Roja Zakariaee Kouchaksaraee;Sarah Burke,53,74.20754717,8.193239452,91.0,53.0,,,,,,,,,,,0,,,,,,14,14,6,,
+UBCV,2015,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Mayra Tovar;Meiling Deng;Meng Li;Oleksandr Litvinov;Roja Zakariaee Kouchaksaraee;Sarah Burke,52,78.596153846,11.665702395,93.0,38.0,,,,,,,,,,,,,,,,,6,12,15,9,
+UBCV,2015,W,PHYS,403,,201,Statistical Mechanics,Anffany Chen;James Kevin Pierce;James Pierce;Jonathon Schulz-Beach;Mayra Tovar;Robert Kiefl,95,71.957894737,15.621123035,97.0,9.0,,,,,,,,,,,5,7,4,7,8,12,8,7,15,11,11
+UBCV,2016,S,PHYS,118,,952,"Electricity, Light and Radiation",Chengshu Li;Fumika Suzuki;Hyungki Shin;Mayra Tovar;Ziang Yan,133,69.43609023,14.3491914,99.0,10.0,,,,,,,,,,,10,7,8,17,11,18,19,13,6,15,9
+UBCV,2016,W,PHYS,100,,101,Introductory Physics,Mayra Tovar;Stefan Reinsberg,224,68.01785714,15.84905375,98.0,4.0,,,,,,,,,,,26,4,19,27,13,17,50,12,24,19,13

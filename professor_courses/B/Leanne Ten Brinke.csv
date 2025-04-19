@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,PSYO,219,,001,Introduction to Cognition,Casandra Wood;Chloe Kam;Leanne Ten Brinke;Teanna Henke,288,84.357638889,11.715287251,100.0,3.0,3,3,5,5,11,5,12,27,52,50,115,,,
+UBCO,2020,W,PSYO,372,,001,Research Methods and Statistics,Jan Cioe;Kimberley Kaseweter;Leanne Ten Brinke;Nina Gregoire;Rebecca Godard;Zakary Draper,33,86.181818182,7.946911922,95.0,49.0,1,0,0,0,0,0,0,2,4,15,11,,,
+UBCO,2021,W,PSYO,219,,001,Introduction to Cognition,Anne Tseu;Casandra Wood;Chloe Kam;Leanne Ten Brinke;Rebecca Anderson,346,82.132947977,10.831500544,100.0,24.0,4,4,5,12,7,18,23,39,56,93,85,,,
+UBCO,2021,W,PSYO,372,,001,Research Methods and Statistics,Alyssa Truong;Jan Cioe;Jason Scott;Jayme Stewart;Leanne Ten Brinke;Rebecca Godard;Zakary Draper,34,85.823529412,4.482089531,96.0,77.0,0,0,0,0,0,0,0,4,8,15,7,,,
+UBCO,2021,W,PSYO,521,,001,Social Bases of Behaviour,Leanne Ten Brinke,8,91.875,2.799872446,96.0,87.0,0,0,0,0,0,0,0,0,0,1,7,,,
+UBCO,2021,W,PSYO,219,,001,Introduction to Cognition,Leanne Ten Brinke,346,82.1,,100.0,24.0,,,,12,7,18,23,39,56,93,85,85.0,89.0,78.0
+UBCO,2021,W,PSYO,372,,001,Research Methods and Statistics,Leanne Ten Brinke,34,85.8,,96.0,77.0,,,,,,,,,8,15,7,85.5,88.0,83.0
+UBCO,2021,W,PSYO,521,,001,Social Bases of Behaviour,Leanne Ten Brinke,8,91.9,,96.0,87.0,,,,,,,,,,,7,92.5,93.3,90.0
+UBCO,2022,W,PSYO,219,,001,Introduction to Cognition,Leanne Ten Brinke,345,79.2,,100.0,12.0,5,7,8,5,18,30,35,39,72,79,47,82.0,87.0,73.0
+UBCO,2022,W,PSYO,372,,001,Research Methods and Statistics,William Murch;Leanne Ten Brinke,39,87.8,,96.0,78.0,0,0,0,0,0,0,0,1,7,19,12,88.0,90.0,86.0
+UBCO,2023,W,PSYO,219,,001,Introduction to Cognition,Leanne Ten Brinke,348,76.7,,98.0,21.0,5,4,15,11,19,38,51,52,70,47,32,78.0,84.0,71.0
+UBCO,2023,W,PSYO,372,,001,Research Methods and Statistics,Leanne Ten Brinke,40,88.8,,94.0,82.0,0,0,0,0,0,0,0,0,5,13,20,90.0,91.0,87.0

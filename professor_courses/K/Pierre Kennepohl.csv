@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,CHEM,529,,201,STR MTHD IORG CH,"Kennepohl, Pierre",14,86.33,1.15,88,84,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0
+UBC,2005,W,CHEM,435,,111,BIO-INORGANIC,"Kennepohl, Pierre",12,76.27,6.93,83,62,11,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,5,0,0
+UBC,2005,W,CHEM,526,,111,BIOINORGANC CHEM,"Kennepohl, Pierre",4,85,2.65,88,83,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+UBC,2005,W,CHEM,529,,108,STR MTHD IORG CH,"Kennepohl, Pierre",12,85.75,3.39,92,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,2
+UBC,2006,W,CHEM,121,,188,STRUCTURAL CHEM,"Kennepohl, Pierre",141,58.75,14.36,91,19,86,44,7,0,4,0,1,1,6,36,44,3,17,15,10,20,7,2,8,1,3
+UBC,2006,W,CHEM,529,,108,STR MTHD IORG CH,"Kennepohl, Pierre",14,84.07,3.29,89,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0
+UBC,2007,W,CHEM,121,,188,STRUCTURAL CHEM,"Kennepohl, Pierre",197,62.47,13.86,92,28,142,50,4,0,1,0,0,1,4,45,50,3,18,22,24,25,18,5,16,9,2
+UBC,2007,W,CHEM,529,,288,STR MTHD IORG CH,"Kennepohl, Pierre",14,85.18,2.48,90,81,11,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1
+UBC,2009,W,CHEM,529,,266,STR MTHD IORG CH,"Kennepohl, Pierre",13,83.58,3.37,90,78,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,1
+UBC,2010,W,CHEM,529,,208,STR MTHD IORG CH,"Kennepohl, Pierre",11,84.91,3.62,90,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,2
+UBC,2011,W,CHEM,529,,199,STR MTHD IORG CH,"Kennepohl, Pierre",9,86.22,3.23,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,1
+UBC,2012,W,CHEM,529,,299,STR MTHD IORG CH,"Kennepohl, Pierre",8,85.5,3.93,92,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2
+UBC,2015,W,CHEM,208,,112,COORD CHEM,"Kennepohl, Pierre",119,68.36,12.83,96,23,103,5,7,2,2,0,0,1,0,4,5,9,11,12,9,19,8,7,16,7,5
+UBC,2015,W,CHEM,208,,T01,COORD CHEM,"Kennepohl, Pierre",9,,,,,0,0,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CHEM,435,,111,BIO-INORGANIC,"Kennepohl, Pierre",19,79.32,5.56,90,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,4,4,1
+UBC,2015,W,CHEM,526,,111,BIOINORGANC CHEM,"Kennepohl, Pierre",9,83,4.38,87,77,6,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0
+UBC,2016,W,CHEM,208,,112,COORD CHEM,"Kennepohl, Pierre",139,70.27,12.37,98,31,129,5,5,0,0,0,0,0,1,4,5,9,10,13,17,11,16,22,15,8,8
+UBC,2016,W,CHEM,208,,T01,COORD CHEM,"Kennepohl, Pierre",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,435,,111,BIO-INORGANIC,"Kennepohl, Pierre",14,84.29,6.67,94,68,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,7,3
+UBC,2016,W,CHEM,526,,111,BIOINORGANC CHEM,"Kennepohl, Pierre",6,80.17,10.76,91,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,1
+UBC,2017,W,CHEM,208,,112,COORD CHEM,"Kennepohl, Pierre",146,72.01,11.37,97,35,142,2,1,0,1,0,0,0,2,0,2,5,9,14,20,20,17,20,16,9,12
+UBC,2017,W,CHEM,529,,199,STR MTHD IORG CH,"Kennepohl, Pierre",19,85,4.63,92,78,11,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,2
+UBC,2017,W,CHEM,540,C,036,SEMINAR IN CHEM,"Kennepohl, Pierre",17,,,,,0,0,3,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CHEM,208,,112,COORD CHEM,"Kennepohl, Pierre",127,70.27,12.19,96,38,120,3,4,0,0,0,0,0,2,1,3,8,9,15,17,11,13,17,13,8,9
+UBC,2018,W,CHEM,208,,T01,COORD CHEM,"Kennepohl, Pierre",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CHEM,435,,111,BIO-INORGANIC,"Kennepohl, Pierre",5,71.8,32.28,90,15,4,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,2
+UBC,2018,W,CHEM,526,,111,BIOINORGANC CHEM,"Kennepohl, Pierre",4,87,6.56,93,80,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+UBC,2018,W,CHEM,529,,199,STR MTHD IORG CH,"Kennepohl, Pierre",13,86.91,4.18,93,80,11,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5
+UBC,2018,W,CHEM,540,C,036,SEMINAR IN CHEM,"Kennepohl, Pierre",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,W,SCIE,1,,001,Science One,Arthur Charbonneau;Celeste Leander;Christopher Addison;Costanza Piccolo;James Berger;Kalle Karu;Kurt Eiselt;Mark Van Raamsdonk;Pamela Kalas;Pierre Kennepohl,66,75.60606061,8.091550746,92.0,58.0,,,,,,,,,,,0,0,,,5,13,14,9,9,8,5
+UBCV,2015,W,CHEM,208,,112,Coordination Chemistry,Chantal Mustoe;Elizabeth Gillis;Jaclyn Stewart;Jane Maxwell;Pierre Kennepohl,110,67.672727273,13.690624322,96.0,23.0,,,,,,,,,,,7,9,11,12,9,19,8,7,16,7,5
+UBCV,2015,W,CHEM,218,,212,Fundamentals of Reactivity in Inorganic Chemistry,Elizabeth Gillis;Jaclyn Stewart;Jane Maxwell;Jennifer Ann Love;Marcus Drover;Parisa Mehrkhodavandi;Pierre Kennepohl,89,70.696629213,12.722925348,92.0,36.0,,,,,,,,,,,6,,7,8,7,8,12,9,15,10,
+UBCV,2015,W,CHEM,435,,111,Bio-Inorganic Chemistry,Pierre Kennepohl,19,79.315789474,5.558303414,90.0,69.0,,,,,,,,,,,0,0,0,0,0,,,6,,,
+UBCV,2015,W,CHEM,526,,111,Bioinorganic Chemistry,Pierre Kennepohl,6,83.0,4.38178046,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0
+UBCV,2016,W,CHEM,208,,112,Coordination Chemistry,Chantal Mustoe;Douglas Beattie;Elizabeth Gillis;Jennifer Ann Love;Parisa Mehrkhodavandi;Pierre Kennepohl;Weiying He,134,70.26865672,12.37093622,98.0,31.0,,,,,,,,,,,5,9,10,13,17,11,16,22,15,8,8
+UBCV,2016,W,CHEM,435,,111,Bio-Inorganic Chemistry,Pierre Kennepohl,14,84.28571429,6.672890867,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,1,7,3
+UBCV,2016,W,CHEM,526,,111,Bioinorganic Chemistry,Pierre Kennepohl,6,80.16666667,10.75949193,91.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,1,2,1
+UBCV,2017,W,CHEM,208,,112,Coordination Chemistry,Chantal Mustoe;Pierre Kennepohl,145,71.779310345,11.661587564,97.0,35.0,,,,,,,,,,,3,5,9,14,20,20,17,20,16,9,12
+UBCV,2017,W,CHEM,529,,199,Structural Methods in Inorganic Chemistry,Chantal Mustoe;Pierre Kennepohl,11,85.0,4.626013402,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,4,2
+UBCV,2018,W,CHEM,208,,112,Coordination Chemistry,Pierre Kennepohl;Weiying He,123,70.268292683,12.191822824,96.0,38.0,,,,,,,,,,,3,8,9,15,17,11,13,17,13,8,9
+UBCV,2018,W,CHEM,529,,199,Structural Methods in Inorganic Chemistry,Pierre Kennepohl,11,86.909090909,4.18221342,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,5
+UBCV,2019,W,CHEM,208,,112,Coordination Chemistry,Hao Zhou;Pierre Kennepohl,109,72.614678899,14.020427067,95.0,0.0,,,,,,,,,,,5,4,4,9,13,7,10,24,12,11,10
+UBCV,2019,W,CHEM,529,,199,Structural Methods in Inorganic Chemistry,Pierre Kennepohl,12,87.5,4.056420276,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,5
+UBCV,2020,W,CHEM,208,,112,Coordination Chemistry,Ben Nadeau;Carlos Diaz Lopez;Eva Nichols;Kudzanai Nyamayaro;Paul Heine;Pierre Kennepohl;Sabrina Scott,150,69.94,13.779778005,98.0,8.0,,,,,,,,,,,7,11,10,15,22,14,19,15,15,14,8

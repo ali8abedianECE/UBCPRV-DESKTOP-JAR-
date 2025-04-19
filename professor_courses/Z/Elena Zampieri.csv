@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,ITAL,102,,204,1ST YR ITAL II,"Zampieri, Elena",24,78,21.65,97,0,17,1,3,0,0,1,0,0,0,0,1,0,0,2,0,0,2,0,4,5,4,,,
+UBC,2017,W,ITAL,102,,206,1ST YR ITAL II,"Zampieri, Elena",16,75.33,14.6,95,50,15,0,1,0,0,0,0,0,0,0,0,1,0,2,3,2,0,0,2,1,4,,,
+UBC,2018,S,ITAL,101,,921,1ST YR ITALIAN I,"Zampieri, Elena",29,81.43,12.47,98,52,28,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,3,2,5,6,8,,,
+UBC,2018,S,ITAL,102,,922,1ST YR ITAL II,"Zampieri, Elena",14,77.45,12.16,100,60,11,0,3,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,4,0,2,,,
+UBC,2018,W,ITAL,101,,103,1ST YR ITALIAN I,"Zampieri, Elena",23,78.68,15.61,100,33,21,1,1,0,0,0,0,0,1,0,1,0,1,1,1,2,2,1,4,5,4,,,
+UBC,2018,W,ITAL,102,,204,1ST YR ITAL II,"Zampieri, Elena",25,80.04,9.81,96,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,2,6,1,6,,,
+UBC,2018,W,ITAL,206,,201,INTMD CONVR ITAL,"Zampieri, Elena",10,86.5,7.89,97,75,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,,,
+UBC,2018,W,ITAL,302,,201,TY ITALIAN II,"Zampieri, Elena",13,73.33,8.33,89,65,12,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4,3,0,1,2,0,,,
+UBCV,2017,W,ITAL,102,,204,First-Year Italian II,Elena Zampieri,21,77.0,20.206434619,97.0,0.0,,,,,,,,,,,1,0,0,2,1,1,2,1,4,5,4,,,
+UBCV,2017,W,ITAL,102,,206,First-Year Italian II,Elena Zampieri,15,75.333333333,14.597781958,95.0,50.0,,,,,,,,,,,0,1,0,2,3,2,0,0,2,1,4,,,
+UBCV,2018,S,ITAL,101,,921,First-Year Italian I,Elena Zampieri,28,81.428571429,12.473463897,98.0,52.0,,,,,,,,,,,0,1,3,0,0,0,3,2,5,6,8,,,
+UBCV,2018,S,ITAL,102,,922,First-Year Italian II,Elena Zampieri,11,77.454545455,12.160293059,100.0,60.0,,,,,,,,,,,0,0,0,1,2,1,1,0,4,0,2,,,
+UBCV,2018,W,ITAL,101,,103,First-Year Italian I,Elena Zampieri,22,78.681818182,15.609479304,100.0,33.0,,,,,,,,,,,1,0,1,1,1,2,2,1,4,5,4,,,
+UBCV,2018,W,ITAL,102,,204,First-Year Italian II,Elena Zampieri,25,79.48,9.665747083,96.0,64.0,,,,,,,,,,,0,0,0,0,3,3,3,3,6,1,6,,,
+UBCV,2018,W,ITAL,206,,201,Conversational Italian for Intermediate Learners,Elena Zampieri,10,86.2,8.430104784,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,2,4,,,
+UBCV,2018,W,ITAL,302,,201,Third-Year Italian II,Elena Zampieri,12,73.333333333,8.326663998,89.0,65.0,,,,,,,,,,,0,0,0,0,2,4,3,0,1,2,0,,,
+UBCV,2019,S,ITAL,101,,921,First-Year Italian I,Elena Zampieri,21,78.476190476,19.020039557,98.0,14.0,,,,,,,,,,,1,0,0,2,2,0,3,1,2,4,6,,,
+UBCV,2019,W,ITAL,101,,108,First-Year Italian I,Elena Zampieri,22,72.909090909,14.940864675,89.0,18.0,,,,,,,,,,,1,0,2,0,1,3,2,6,3,4,0,,,
+UBCV,2019,W,ITAL,102,,203,First-Year Italian II,Elena Zampieri,7,80.571428571,15.44729904,95.0,54.0,,,,,,,,,,,0,1,0,0,0,1,1,0,0,1,3,,,
+UBCV,2019,W,ITAL,102,,206,First-Year Italian II,Elena Zampieri,14,81.5,8.942121586,90.0,62.0,,,,,,,,,,,0,0,0,1,0,2,0,2,1,5,3,,,
+UBCV,2019,W,ITAL,201,,101,Second-Year Italian I,Elena Zampieri,13,76.076923077,12.182374826,94.0,60.0,,,,,,,,,,,0,0,0,2,1,4,0,1,0,3,2,,,
+UBCV,2019,W,ITAL,302,,201,Third-Year Italian II,Elena Zampieri,18,86.555555556,8.190541333,100.0,63.0,,,,,,,,,,,0,0,0,1,0,0,0,0,4,7,6,,,
+UBCV,2020,S,ITAL,101,,921,Beginners' Italian I,Elena Zampieri;Mirta Roncagalli,41,79.682926829,21.611847474,100.0,4.0,,,,,,,,,,,3,0,0,3,1,0,3,3,4,6,18,,,
+UBCV,2020,W,ITAL,101,,108,Beginners' Italian I,Elena Zampieri;Giorgio Jacova,16,78.9375,9.629598469,90.0,60.0,,,,,,,,,,,0,0,0,2,1,0,0,4,3,4,2,,,
+UBCV,2020,W,ITAL,201,,101,Elementary Italian I,Elena Zampieri,26,83.0,11.637869221,98.0,51.0,,,,,,,,,,,0,1,0,1,0,2,1,4,2,5,10,,,
+UBCV,2020,W,ITAL,201,,102,Elementary Italian I,Elena Zampieri;Luisa Canuto,11,75.909090909,8.677033427,88.0,62.0,,,,,,,,,,,0,0,0,2,0,1,2,1,2,3,0,,,
+UBCV,2020,W,ITAL,202,,201,Elementary Italian II,Elena Zampieri;Giorgio Jacova;Mirta Roncagalli,24,81.541666667,12.318170272,100.0,51.0,,,,,,,,,,,0,1,0,1,1,2,2,2,0,7,8,,,
+UBCV,2020,W,ITAL,202,,202,Elementary Italian II,Elena Zampieri;Mirta Roncagalli;Monica Liscio Gordon,20,79.35,12.317189529,95.0,60.0,,,,,,,,,,,0,0,0,3,1,1,3,1,3,1,7,,,
+UBCV,2020,W,ITAL,302,,201,Intermediate Italian II,Elena Zampieri;Mirta Roncagalli,12,87.0,8.43154251,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,1,2,7,,,
+UBCV,2021,S,ITAL,101,,921,Beginners' Italian I,Elena Zampieri,25,79.96,13.875878351,98.0,43.0,,,,,,,,,,,1,0,0,1,3,2,3,1,3,1,10,,,
+UBCV,2021,W,ITAL,101,,101,Beginners' Italian I,Elena Zampieri;Gaoheng Zhang,22,78.863636364,16.870079048,97.0,37.0,,,,,,,,,,,2,1,0,0,1,2,2,0,1,6,7,,,
+UBCV,2021,W,ITAL,201,,102,Elementary Italian I,Daniela Boccassini;Elena Zampieri,20,78.5,12.508944168,100.0,58.0,,,,,,,,,,,0,0,1,3,1,0,2,3,5,1,4,,,
+UBCV,2021,W,ITAL,202,,201,Elementary Italian II,Elena Zampieri;Gaoheng Zhang,21,76.047619048,14.263506548,100.0,50.0,,,,,,,,,,,0,1,0,4,2,3,1,2,1,2,5,,,
+UBCV,2021,W,ITAL,202,,202,Elementary Italian II,Carlo Testa;Elena Zampieri,15,79.666666667,20.906822764,100.0,19.0,,,,,,,,,,,1,0,0,1,1,1,2,0,2,2,5,,,
+UBCV,2021,W,ITAL,302,,201,Intermediate Italian II,Daniela Boccassini;Elena Zampieri,16,89.4375,14.555497243,100.0,41.0,,,,,,,,,,,1,0,0,0,0,0,0,1,2,1,11,,,
+UBCV,2021,S,ITAL,101,,921,Beginners' Italian I,Elena Zampieri,25,80.0,,98.0,43.0,,,,,,,,,,,,,,,,,,,,,10,81.0,92.0,70.0
+UBCV,2021,W,ITAL,101,,101,Beginners' Italian I,Elena Zampieri,22,78.9,,97.0,37.0,,,,,,,,,,,,,,,,,,,,6,7,85.5,91.5,70.0
+UBCV,2021,W,ITAL,201,,102,Elementary Italian I,Elena Zampieri,20,78.5,,100.0,58.0,,,,,,,,,,,,,,,,,,,,,,79.5,84.3,70.3
+UBCV,2021,W,ITAL,202,,201,Elementary Italian II,Elena Zampieri,21,76.0,,100.0,50.0,,,,,,,,,,,,,,,,,,,,,,74.0,88.0,64.0
+UBCV,2021,W,ITAL,202,,202,Elementary Italian II,Elena Zampieri,14,84.0,,100.0,61.0,,,,,,,,,,,,,,,,,,,,,,85.5,95.0,74.3
+UBCV,2021,W,ITAL,302,,201,Intermediate Italian II,Elena Zampieri,16,90.1,,100.0,51.0,,,,,,,,,,,,,,,,,,,,,11,96.0,97.0,86.8
+UBCV,2022,S,ITAL,101,,921,Beginners' Italian I,Elena Zampieri,19,81.6,,92.0,50.0,,,,,,,,,,,0,1,0,0,1,1,1,3,2,4,6,87.0,90.0,77.0
+UBCV,2022,W,ITAL,101,,103,Beginners' Italian I,Elena Zampieri,29,82.6,,98.0,53.0,,,,,,,,,,,0,1,2,1,0,0,2,2,6,5,10,85.0,92.0,78.0
+UBCV,2022,W,ITAL,201,,101,Elementary Italian I,Elena Zampieri,21,72.7,,96.0,0.0,,,,,,,,,,,1,1,0,2,1,4,2,1,3,3,3,74.0,86.0,69.0
+UBCV,2022,W,ITAL,202,,202,Elementary Italian II,Elena Zampieri,17,82.1,,100.0,64.0,,,,,,,,,,,0,0,0,0,3,3,1,0,2,1,7,84.0,93.0,71.0
+UBCV,2022,W,ITAL,302,,201,Intermediate Italian II,Elena Zampieri,12,81.1,,100.0,60.0,,,,,,,,,,,0,0,0,3,0,2,0,1,1,0,5,78.5,97.3,68.0
+UBCV,2023,S,ITAL,322,,921,Italian for Reading Knowledge,Elena Zampieri,6,85.83,,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,2,85.0,91.0,80.5

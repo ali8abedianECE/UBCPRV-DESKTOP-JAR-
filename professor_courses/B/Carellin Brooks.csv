@@ -1,0 +1,88 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",16,68.23,19.58,85,26,11,2,3,0,0,0,0,1,1,0,2,0,1,0,1,1,1,3,3,1,0,,,
+UBC,2003,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2003,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",13,66.33,13.98,82,33,11,1,1,0,0,0,0,0,1,0,1,1,1,0,2,2,3,0,2,0,0,,,
+UBC,2005,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",17,66.87,9.99,84,50,15,0,1,0,1,0,0,0,0,0,0,3,0,1,3,4,1,2,1,0,0,,,
+UBC,2005,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2006,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",19,61.36,22.05,85,0,12,2,4,0,1,1,0,0,1,0,2,2,2,1,0,1,2,3,0,1,0,,,
+UBC,2006,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",13,66.42,13.21,88,44,11,1,0,0,1,0,0,0,0,1,1,2,1,1,1,0,3,1,1,1,0,,,
+UBC,2007,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",7,71.29,8.12,82,57,7,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,1,0,0,,,
+UBC,2007,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",12,70.58,7.03,80,58,12,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,3,2,1,0,0,,,
+UBC,2009,S,WMST,224,C,98A,WOMEN IN LITRTRE,"Brooks, Carellin",20,,,,,0,0,1,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,S,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",12,54.6,14.73,69,25,6,4,1,0,1,0,0,1,0,3,4,0,1,1,1,3,0,0,0,0,0,,,
+UBC,2009,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",24,59.86,25.38,91,0,18,4,2,0,0,2,1,0,1,0,4,0,3,4,0,2,2,3,2,1,1,,,
+UBC,2009,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",20,54.83,26.36,83,0,14,4,2,0,0,3,0,0,0,1,4,2,3,1,1,0,4,1,2,0,0,,,
+UBC,2010,S,WMST,224,C,98A,WOMEN IN LITRTRE,"Brooks, Carellin",27,,,,,0,0,3,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,S,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",9,54.29,27.16,79,0,5,2,1,0,1,1,0,0,1,0,2,0,1,0,2,0,1,1,0,0,0,,,
+UBC,2010,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",16,61.67,19.01,81,4,13,2,0,0,1,1,0,0,0,1,2,2,1,1,3,2,0,2,2,0,0,,,
+UBC,2010,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",13,71,0,71,71,1,0,1,0,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,
+UBC,2010,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",25,61.5,21.51,85,0,19,5,1,0,0,1,0,2,1,1,5,0,3,0,5,3,1,3,3,1,0,,,
+UBC,2011,S,WMST,224,C,98A,WOMEN IN LITRTRE,"Brooks, Carellin",19,,,,,0,0,2,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,S,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",12,60.11,25.68,91,0,8,1,2,0,1,1,0,0,0,0,1,0,2,3,1,0,0,0,0,1,1,,,
+UBC,2011,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",22,60.43,20.48,89,0,18,3,1,0,0,1,0,1,1,0,3,1,2,5,4,1,1,1,2,1,0,,,
+UBC,2011,W,WMST,224,C,99C,WOMEN IN LITRTRE,"Brooks, Carellin",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",18,61.17,24.09,88,2,15,3,0,0,0,1,1,0,0,1,3,3,0,3,1,1,1,1,4,1,0,,,
+UBC,2012,S,WMST,224,C,98A,WOMEN IN LITRTRE,"Brooks, Carellin",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,S,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",11,56.67,20.21,71,6,8,1,2,0,0,1,0,0,0,0,1,2,0,1,2,3,0,0,0,0,0,,,
+UBC,2012,W,WMST,224,C,99A,WOMEN IN LITRTRE,"Brooks, Carellin",31,63.5,17.09,87,0,25,3,2,0,0,1,0,0,1,1,3,4,2,2,1,7,5,1,1,2,0,,,
+UBC,2012,W,WMST,224,C,GIS,WOMEN IN LITRTRE,"Brooks, Carellin",16,57.07,31.25,87,0,12,3,1,0,0,3,0,0,0,0,3,1,2,0,1,1,2,2,1,2,0,,,
+UBC,2013,W,ASTU,150,,04D,ARTS STUDIES WRT,"Brooks, Carellin",28,62.88,22.31,87,0,20,4,4,0,0,2,0,0,0,2,4,1,2,1,3,3,4,2,3,1,0,,,
+UBC,2013,W,ASTU,150,,05Q,ARTS STUDIES WRT,"Brooks, Carellin",26,63.24,17.84,85,3,22,3,1,0,0,1,0,1,0,1,3,1,3,4,2,4,4,0,3,1,0,,,
+UBC,2013,W,ASTU,150,,07C,ARTS STUDIES WRT,"Brooks, Carellin",30,67.38,10.7,87,46,28,1,1,0,0,0,0,0,0,1,1,3,3,3,0,7,5,3,3,1,0,,,
+UBC,2013,W,ASTU,150,,07P,ARTS STUDIES WRT,"Brooks, Carellin",22,74.24,11.31,92,56,21,0,1,0,0,0,0,0,0,0,0,0,4,1,1,1,4,2,3,4,1,,,
+UBC,2014,S,ASTU,150,,925,ARTS STUDIES WRT,"Brooks, Carellin",10,78.3,6.68,87,69,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,3,0,,,
+UBC,2014,W,WRDS,150,,04Q,RSRCH&WRIT HUMAN,"Brooks, Carellin",23,71.64,12.08,91,50,22,0,1,0,0,0,0,0,0,0,0,2,3,0,3,2,3,4,1,2,2,,,
+UBC,2014,W,WRDS,150,,05Q,RSRCH&WRIT HUMAN,"Brooks, Carellin",27,64.72,15.93,93,28,23,2,2,0,0,0,0,1,0,1,2,5,3,4,0,2,2,1,3,2,1,,,
+UBC,2014,W,WRDS,150,,06Q,RSRCH&WRIT HUMAN,"Brooks, Carellin",20,64.75,17.78,85,0,19,1,0,0,0,1,0,0,0,0,1,2,0,5,2,2,5,0,2,1,0,,,
+UBC,2014,W,WRDS,150,,11B,RSRCH&WRIT HUMAN,"Brooks, Carellin",27,71.69,13.31,87,22,25,1,1,0,0,0,0,1,0,0,1,1,0,2,5,2,2,5,6,2,0,,,
+UBC,2014,W,WRDS,150,,12B,RSRCH&WRIT HUMAN,"Brooks, Carellin",25,72.5,10.79,87,42,23,1,1,0,0,0,0,0,0,1,1,1,2,0,1,5,4,4,4,2,0,,,
+UBC,2015,W,WRDS,150,,03P,RSRCH&WRIT HUMAN,"Brooks, Carellin",25,71.4,9.98,90,51,25,0,0,0,0,0,0,0,0,0,0,2,2,1,1,6,3,5,4,0,1,,,
+UBC,2015,W,WRDS,150,,05B,RSRCH&WRIT HUMAN,"Brooks, Carellin",30,69.28,14.03,88,50,29,0,1,0,0,0,0,0,0,0,0,8,1,1,2,2,1,4,7,3,0,,,
+UBC,2016,W,WRDS,150,,03B,RSRCH&WRIT HUMAN,"Brooks, Carellin",29,69.17,11.41,92,50,29,0,0,0,0,0,0,0,0,0,0,1,4,9,0,3,2,2,5,2,1,,,
+UBC,2016,W,WRDS,150,,04A,RSRCH&WRIT HUMAN,"Brooks, Carellin",28,74.46,12.27,91,48,25,1,2,0,0,0,0,0,0,1,1,0,3,2,2,3,0,2,6,6,1,,,
+UBC,2016,W,WRDS,150,,11N,RSRCH&WRIT HUMAN,"Brooks, Carellin",29,71,10.26,85,44,28,1,0,0,0,0,0,0,0,1,1,2,1,1,5,5,3,5,5,1,0,,,
+UBCV,2014,S,ASTU,150,,925,Arts Studies in Writing,Carellin Brooks,10,78.3,6.684143758,87.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,,0,,,
+UBCV,2014,W,WRDS,150,,04Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,22,71.63636364,12.07731228,91.0,50.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2014,W,WRDS,150,,05Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,25,64.72,15.93089242,93.0,28.0,,,,,,,,,,,,5,,,,,,,,,,,,
+UBCV,2014,W,WRDS,150,,06Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,20,64.75,17.78489898,85.0,0.0,,,,,,,,,,,,,,5,,,5,,,,0,,,
+UBCV,2014,W,WRDS,150,,11B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,26,71.69230769,13.31095558,87.0,22.0,,,,,,,,,,,,,,,5,,,5,6,,0,,,
+UBCV,2014,W,WRDS,150,,12B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,24,72.5,10.79049501,87.0,42.0,,,,,,,,,,,,,,,,5,,,,,0,,,
+UBCV,2015,W,WRDS,150,,03P,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,25,71.4,9.983319421,90.0,51.0,,,,,,,,,,,0,,,,,6,,5,,,,,,
+UBCV,2015,W,WRDS,150,,05B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,29,69.275862069,14.032860801,88.0,50.0,,,,,,,,,,,0,8,,,,,,,7,,0,,,
+UBCV,2016,W,WRDS,150,,03B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,29,69.17241379,11.41449256,92.0,50.0,,,,,,,,,,,0,1,4,9,0,3,2,2,5,2,1,,,
+UBCV,2016,W,WRDS,150,,04A,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,26,74.46153846,12.27430086,91.0,48.0,,,,,,,,,,,1,0,3,2,2,3,0,2,6,6,1,,,
+UBCV,2016,W,WRDS,150,,11N,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,29,71.0,10.25740151,85.0,44.0,,,,,,,,,,,1,2,1,1,5,5,3,5,5,1,0,,,
+UBCV,2019,W,ENGL,110,,035,Approaches to Literature,Carellin Brooks,25,70.8,18.287062822,90.0,13.0,,,,,,,,,,,2,1,0,0,3,1,4,8,4,1,1,,,
+UBCV,2019,W,ENGL,112,,02M,Strategies for University Writing,Carellin Brooks,23,73.0,10.246950766,92.0,53.0,,,,,,,,,,,0,2,0,1,5,3,3,2,4,1,2,,,
+UBCV,2019,W,ENGL,112,,07N,Strategies for University Writing,Carellin Brooks,24,75.5,5.860701843,86.0,64.0,,,,,,,,,,,0,0,0,0,2,4,8,4,4,2,0,,,
+UBCV,2020,W,FRST,150,,104,Scholarly Writing and Argumentation in Forestry,Carellin Brooks;John Clegg;Lindsay Cuff,13,70.153846154,11.466226885,85.0,55.0,,,,,,,,,,,0,0,4,0,1,3,1,0,3,1,0,,,
+UBCV,2020,W,FRST,150,,204,Scholarly Writing and Argumentation in Forestry,Carellin Brooks;Joyce Oh;Joyce Young-Joo Oh;Lindsay Cuff,22,72.318181818,17.318820931,89.0,1.0,,,,,,,,,,,1,0,0,1,1,4,5,5,2,3,0,,,
+UBCV,2020,W,LFS,150,,007,Scholarly Writing and Argumentation in Land and Food Systems,Carellin Brooks;Duff Roberts;Valerie Leung,25,74.48,8.84175699,83.0,44.0,,,,,,,,,,,1,0,1,1,0,1,6,8,7,0,0,,,
+UBCV,2021,W,FRST,150,,103,Scholarly Writing and Argumentation in Forestry,Amelia Macrae;Carellin Brooks;Lindsay Cuff;Mari Choi,27,72.703703704,11.802264499,83.0,28.0,,,,,,,,,,,2,0,0,0,2,3,6,5,9,0,0,,,
+UBCV,2021,W,FRST,150,,104,Scholarly Writing and Argumentation in Forestry,Carellin Brooks;Joyce Oh;Joyce Young-Joo Oh;Lindsay Cuff,27,76.333333333,6.468860321,88.0,68.0,,,,,,,,,,,0,0,0,0,0,10,4,3,6,4,0,,,
+UBCV,2021,W,FRST,150,,204,Scholarly Writing and Argumentation in Forestry,Carellin Brooks;Duff Roberts;Jane Willsie;Lindsay Cuff,27,69.851851852,21.890819473,87.0,0.0,,,,,,,,,,,3,0,3,0,0,1,3,5,8,4,0,,,
+UBCV,2021,W,FRST,544,,101,Technical Communication Skills I,Amir Kari;Aubrey Leveridge;Carellin Brooks,15,87.533333333,2.065591118,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,4,,,
+UBCV,2021,W,FRST,544,,103,Technical Communication Skills I,Amir Kari;Aubrey Leveridge;Carellin Brooks,11,91.545454545,2.69679945,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,10,,,
+UBCV,2021,W,WOOD,225,,201,Communications Strategies,Aubrey Leveridge;Carellin Brooks;Ritapa Neogi,29,75.068965517,3.26158413,82.0,69.0,,,,,,,,,,,0,0,0,0,0,5,13,9,2,0,0,,,
+UBCV,2021,W,WOOD,225,,202,Communications Strategies,Aubrey Leveridge;Carellin Brooks;Ritapa Neogi,26,76.153846154,4.763967319,83.0,64.0,,,,,,,,,,,0,0,0,0,2,1,7,6,10,0,0,,,
+UBCV,2021,W,FRST,150,,103,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,27,72.7,,83.0,28.0,,,,,,,,,,,,,,,,,6,,9,,,76.0,80.0,71.5
+UBCV,2021,W,FRST,150,,104,Scholarly Writing and Argumentation in Forestry,Carellin Brooks;Lindsay Cuff,27,76.3,,88.0,68.0,,,,,,,,,,,,,,,,10,,,6,,,75.0,82.0,70.5
+UBCV,2021,W,FRST,544,,101,Technical Communication Skills I,Carellin Brooks,15,87.5,,91.0,83.0,,,,,,,,,,,,,,,,,,,,10,,87.0,89.0,86.5
+UBCV,2021,W,FRST,544,,103,Technical Communication Skills I,Carellin Brooks,11,91.5,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,10,92.0,93.0,91.0
+UBCV,2021,W,WOOD,225,,201,Communications Strategies,Carellin Brooks,29,75.1,,82.0,69.0,,,,,,,,,,,,,,,,,13,9,,,,75.0,77.0,74.0
+UBCV,2021,W,WOOD,225,,202,Communications Strategies,Carellin Brooks,26,76.2,,83.0,64.0,,,,,,,,,,,,,,,,,7,6,10,,,76.0,80.0,73.3
+UBCV,2022,S,WOOD,225,,921,Communications Strategies,Carellin Brooks,18,75.6,,85.0,68.0,,,,,,,,,,,0,0,0,0,0,6,3,4,3,2,0,75.5,79.5,71.0
+UBCV,2022,W,FRST,150,,103,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,28,80.6,,92.0,56.0,,,,,,,,,,,0,0,1,1,1,1,2,5,5,4,8,81.0,90.0,76.8
+UBCV,2022,W,FRST,150,,104,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,25,73.9,,87.0,0.0,,,,,,,,,,,1,0,0,0,1,6,2,3,7,5,0,76.0,82.0,69.0
+UBCV,2022,W,FRST,150,,204,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,30,77.2,,92.0,58.0,,,,,,,,,,,0,0,1,1,2,5,5,3,3,7,3,78.0,86.0,70.3
+UBCV,2022,W,WOOD,225,,102,Communications Strategies,Carellin Brooks,27,72.1,,81.0,45.0,,,,,,,,,,,1,0,0,0,0,9,11,3,3,0,0,73.0,75.0,70.0
+UBCV,2022,W,WOOD,225,,202,Communications Strategies,Carellin Brooks,29,72.7,,95.0,61.0,,,,,,,,,,,0,0,0,2,5,12,3,1,2,1,3,70.0,73.0,68.0
+UBCV,2022,W,WOOD,225,,203,Communications Strategies,Carellin Brooks,30,79.7,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,6,6,11,4,2,80.0,82.8,76.3
+UBCV,2023,W,FRST,150,,103,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,27,71.9,,91.0,0.0,,,,,,,,,,,2,1,1,1,1,2,4,1,6,6,2,80.0,85.0,69.0
+UBCV,2023,W,FRST,150,,104,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,26,74.1,,90.0,50.0,,,,,,,,,,,0,4,0,0,1,5,1,5,6,3,1,78.0,81.8,70.3
+UBCV,2023,W,FRST,150,,202,Scholarly Writing and Argumentation in Forestry,Carellin Brooks,20,73.5,,94.0,0.0,,,,,,,,,,,2,1,0,0,0,2,1,2,3,3,3,80.0,88.0,70.0
+UBCV,2023,W,WOOD,225,,102,Communications Strategies,Carellin Brooks,20,76.37,,87.0,40.0,,,,,,,,,,,1,0,0,0,0,0,5,8,4,1,0,78.0,79.5,74.5
+UBCV,2023,W,WOOD,225,,202,Communications Strategies,Carellin Brooks,30,77.67,,88.0,0.0,,,,,,,,,,,1,0,0,0,0,1,2,7,14,5,0,80.0,83.75,78.0
+UBCV,2023,W,WOOD,225,,203,Communications Strategies,Carellin Brooks,26,82.08,,91.0,51.0,,,,,,,,,,,0,1,0,0,0,0,0,2,12,9,1,83.0,85.0,80.0

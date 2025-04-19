@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,CPSC,416,,201,Distributed Systems,Alistair Finn Hackett;Ivan Beschastnikh;Mayank Tiwary;Seyed Shayan Hosseini;Shiqi He,132,82.71969697,11.892209519,100.0,29.0,2,2,3,0,5,6,8,15,23,26,42
+UBCV,2021,W,CPSC,416,,201,Distributed Systems,Ivan Beschastnikh;Mayank Tiwary;Mishaal Kazmi;Yanze Li,111,90.0,6.307282948,100.0,68.0,0,0,0,0,0,3,2,1,15,22,68
+UBCV,2021,W,CPSC,417,,101,Computer Networking,Jonatan Schroeder;Mayank Tiwary;Nicholas De Godoy Xavier,43,84.046511628,11.203642028,98.0,45.0,1,1,0,0,0,1,5,4,7,9,15

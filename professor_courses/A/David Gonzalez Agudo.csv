@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,ECON,334,,001,EC HIST MOD EUR,"Gonzalez Agudo, David",108,76.32,16.81,100,0,102,3,2,0,0,2,0,0,0,1,3,7,1,8,6,9,7,9,17,17,21
+UBC,2016,W,ECON,334,,002,EC HIST MOD EUR,"Gonzalez Agudo, David",105,75.97,15.27,99,0,101,2,2,0,0,1,0,0,1,0,2,7,4,7,5,8,11,13,14,12,20
+UBC,2016,W,ECON,335,,003,FER/FAM/HUM MIG,"Gonzalez Agudo, David",97,79.82,8.39,97,58,97,0,0,0,0,0,0,0,0,0,0,0,1,3,4,9,8,27,15,14,16
+UBC,2017,W,ECON,334,,002,EC HIST MOD EUR,"Gonzalez Agudo, David",86,79.98,16.51,99,0,83,2,1,0,0,2,0,0,0,0,2,3,0,3,1,7,7,8,13,16,25
+UBC,2017,W,ECON,335,,003,FER/FAM/HUM MIG,"Gonzalez Agudo, David",81,77.2,11.62,93,14,77,2,2,0,0,0,1,0,0,1,2,1,1,3,2,8,6,17,19,16,4
+UBC,2018,W,ECON,334,,003,EC HIST MOD EUR,"Gonzalez Agudo, David",110,80.16,9.12,98,55,105,0,2,0,1,0,0,0,0,0,0,0,3,3,3,8,12,19,19,24,14
+UBC,2018,W,ECON,335,,003,FER/FAM/HUM MIG,"Gonzalez Agudo, David",87,80.29,7.92,95,55,86,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,11,18,18,15,13
+UBC,2018,W,ECON,337,,001,ECON HIST US,"Gonzalez Agudo, David",95,81.84,7.24,97,58,93,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,12,20,16,26,14
+UBC,2018,W,ECON,337,,003,ECON HIST US,"Gonzalez Agudo, David",90,71.88,13.73,100,40,85,1,0,0,1,0,0,0,0,1,1,9,7,6,10,13,5,8,9,6,12
+UBCV,2016,W,ECON,334,,001,Economic History of Modern Europe,David Gonzalez Agudo;Marcelo Sacchi De Carvalho,106,76.50943396,16.838304,100.0,0.0,,,,,,,,,,,3,7,1,8,6,9,7,9,17,17,22
+UBCV,2016,W,ECON,334,,002,Economic History of Modern Europe,David Gonzalez Agudo;Marcelo Sacchi De Carvalho,103,75.97087379,15.26848369,99.0,0.0,,,,,,,,,,,2,7,4,7,5,8,11,13,14,12,20
+UBCV,2016,W,ECON,335,,003,"Fertility, Families and Human Migration",Arkadev Ghosh;David Gonzalez Agudo,97,79.82474227,8.393959025,97.0,58.0,,,,,,,,,,,0,0,1,3,4,9,8,27,15,14,16
+UBCV,2017,W,ECON,334,,002,Economic History of Modern Europe,Catherine Douglas;David Gonzalez Agudo;David Green;Marcelo Sacchi De Carvalho;Vadim Marmer,85,79.976470588,16.51476718,99.0,0.0,,,,,,,,,,,2,3,0,3,1,7,7,8,13,16,25
+UBCV,2017,W,ECON,335,,003,"Fertility, Families and Human Migration",Arkadev Ghosh;Catherine Douglas;David Gonzalez Agudo,79,77.202531646,11.622678701,93.0,14.0,,,,,,,,,,,2,1,1,3,2,8,6,17,19,16,4
+UBCV,2018,W,ECON,334,,003,Economic History of Modern Europe,Benjamin Milner;David Gonzalez Agudo,107,80.271028037,9.081985168,98.0,55.0,,,,,,,,,,,0,0,3,3,3,8,12,19,20,25,14
+UBCV,2018,W,ECON,335,,003,"Fertility, Families and Human Migration",Arkadev Ghosh;David Gonzalez Agudo,87,80.287356322,7.87387208,95.0,55.0,,,,,,,,,,,0,0,1,1,3,6,11,18,19,15,13
+UBCV,2018,W,ECON,337,,001,Economic History of the United States,David Gonzalez Agudo;Shoumen Siddique,95,81.778947368,7.203986703,97.0,58.0,,,,,,,,,,,0,0,1,0,2,2,12,21,17,26,14
+UBCV,2018,W,ECON,337,,003,Economic History of the United States,David Gonzalez Agudo;Doga Bilgin,90,71.233333333,15.198351478,100.0,5.0,,,,,,,,,,,2,9,7,6,10,14,6,8,10,6,12

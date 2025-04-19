@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,CHBE,453,,001,BIO PRC PRD DSGN,"Baldwin, Susan;Posarac, Dusko;Pourrahmat, Mina;Smith, Kevin",29,82.1,3.57,90,76,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,17,5,1
+UBC,2016,W,CHBE,454,,001,CHM PRC PRD DSGN,"Baldwin, Susan;Posarac, Dusko;Pourrahmat, Mina;Smith, Kevin",69,82,3.08,88,71,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,46,13,0
+UBCV,2016,W,CHBE,453,,001,Biological Process and Product Design,Dusko Posarac;Kevin Smith;Lee Rippon;Mina Pourrahmat;Susan Baldwin,29,82.10344828,3.569161842,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,17,5,1
+UBCV,2016,W,CHBE,454,,001,Chemical Process and Product Design,Dusko Posarac;Kevin Smith;Lee Rippon;Mina Pourrahmat;Susan Baldwin,69,82.0,3.082207001,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,8,46,13,0

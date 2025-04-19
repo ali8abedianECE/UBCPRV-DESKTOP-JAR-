@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Ayazhan Akhmet;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Ivan De Avila Ribeiro Carvalho;Kanishka Verma;Kathryn Ng;Larry Gu;Maria Guenter;Mohamed Shehata;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Owen Murovec;Patrick Nadeau;Pinku Nath;Pradeep Mahato;Rishab Sharma;Roozbeh Eslami;Swakhar Poddar;Tenzin Jinpa;Thomas Van De Crommenacker;Tianhao Wang;Zil Huma,274,75.135036496,13.743863586,98.0,22.0,12,3,18,18,24,25,26,25,43,37,43,,,
+UBCO,2019,W,COSC,210,,101,Software Construction,Biswapriyo Chakrabarty;Kathryn Lecha;Mohamed Shehata;Sherif Elbishlawi,24,78.541666667,16.581758355,99.0,40.0,1,1,1,1,2,3,2,1,2,2,8,,,
+UBCO,2019,W,COSC,360,,101,Web Programming,Ayazhan Akhmet;Benjamin Tisserand;Billy Spelchan;Islam Osman;Mohamed Shehata;Rishab Sharma;Sherif Elbishlawi,104,84.615384615,8.524445365,98.0,55.0,0,0,2,1,2,3,6,12,12,35,31,,,
+UBCO,2020,S,COSC,445,,001,Computer Vision,Islam Osman;Mohamed Shehata,27,78.148148148,9.781079474,97.0,55.0,0,0,1,0,2,4,3,3,6,4,4,,,
+UBCO,2020,W,COSC,210,,101,Software Construction,Islam Osman;Mohamed Shehata;Sherif Elbishlawi,23,78.826086957,11.531191588,97.0,50.0,0,1,1,1,0,3,1,1,5,7,3,,,
+UBCO,2020,W,COSC,445,,101,Computer Vision,Islam Osman;Mohamed Shehata,56,76.607142857,15.478640499,100.0,16.0,1,4,1,3,4,3,7,5,7,6,15,,,
+UBCO,2020,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Debangsha Sarkar;John Graham-Knight;Mohamed Shehata,32,91.46875,4.406625327,98.0,79.0,0,0,0,0,0,0,0,1,3,4,24,,,
+UBCO,2021,S,COSC,445,,001,Computer Vision,Islam Osman;Mohamed Shehata,13,77.538461538,10.516775366,93.0,60.0,0,0,0,2,0,1,2,2,2,2,2,,,
+UBCO,2021,W,COSC,210,,101,Software Construction,Karanmeet Khatra;Mohamed Shehata;Reece Walsh,28,76.357142857,16.393798027,97.0,40.0,2,1,1,2,2,2,3,1,2,3,9,,,
+UBCO,2021,W,COSC,445,,101,Computer Vision,Islam Osman;Mohamed Shehata,43,70.372093023,16.470786918,91.0,21.0,3,3,1,3,3,5,6,3,9,5,2,,,
+UBCO,2021,W,COSC,545,,101,Computer Vision,Mohamed Shehata,14,80.428571429,5.487247954,91.0,71.0,0,0,0,0,0,1,2,2,6,2,1,,,
+UBCO,2021,W,DATA,532,,001,Algorithms and Data Structure,A.K.M Amanat Ullah;Mohamed Abdelpakey;Mohamed Shehata;Yiming Ding,31,95.580645161,4.372445491,100.0,83.0,0,0,0,0,0,0,0,0,2,1,28,,,
+UBCO,2021,S,COSC,445,,001,Computer Vision,Mohamed Shehata,13,77.5,,93.0,60.0,,,,,,,,,,,,77.0,85.0,72.0
+UBCO,2021,W,COSC,210,,101,Software Construction,Mohamed Shehata,28,76.4,,97.0,40.0,,,,,,,,,,,9,79.0,90.0,64.0
+UBCO,2021,W,COSC,445,,101,Computer Vision,Mohamed Shehata,43,70.4,,91.0,21.0,,,,,,,6,,9,,,74.0,82.0,64.0
+UBCO,2021,W,COSC,545,,101,Computer Vision,Mohamed Shehata,14,80.4,,91.0,71.0,,,,,,,,,6,,,80.0,83.5,77.0
+UBCO,2022,W,COSC,210,,101,Software Construction,Mohamed Shehata,23,67.5,,90.0,24.0,2,2,1,4,2,2,2,0,3,2,3,68.0,81.0,60.0
+UBCO,2022,W,COSC,444,,101,Computer Vision,Mohamed Shehata,12,78.1,,94.0,58.0,0,0,2,0,0,0,0,4,2,2,2,78.5,85.0,76.8
+UBCO,2022,W,COSC,544,,101,Computer Vision,Mohamed Shehata,9,83.3,,94.0,60.0,0,0,0,1,0,0,0,1,3,1,3,83.0,92.0,80.0
+UBCO,2023,S,COSC,222,,001,Data Structures,Mohamed Shehata,53,74.68,,97.0,22.0,1,0,3,4,2,8,9,5,12,6,3,75.0,82.0,70.0
+UBCO,2023,W,COSC,444,,101,Computer Vision,Mohamed Shehata,18,77.8,,94.0,65.0,0,0,0,0,3,1,2,6,2,2,2,76.0,83.0,72.8
+UBCO,2023,W,COSC,544,,101,Computer Vision,Mohamed Shehata,13,80.5,,90.0,70.0,0,0,0,0,0,1,2,2,3,4,1,80.0,86.0,77.0

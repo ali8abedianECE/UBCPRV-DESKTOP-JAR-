@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,PHTH,566,,921,CLIN MAKE IV,"George, Timberly;Lowcock, Janet;Lundie, Janet;Paul, Susan",78,91.81,2.26,96,86,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,68,,,
+UBC,2018,S,PHTH,566,,921,CLIN MAKE IV,"George, Timberly;Lowcock, Janet;Lundie, Janet;Paul, Susan",79,92.71,2.5,97,88,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,69,,,
+UBC,2018,W,PHTH,516,,001,CLINICAL DEC I,"Hewson, Daniel;Murphy, Susan;Paul, Susan;Roots, Robin",78,86.51,2.77,95,80,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,51,9,,,
+UBCV,2015,W,PHTH,516,,001,Clinical Decision-Making I,Anne Rankin;Peter Goyert;Robin Roots;Susan Paul,78,90.025641026,4.609347811,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,20,48,,,
+UBCV,2017,S,PHTH,566,,921,Clinical Decision-Making IV,Bethan Everett;Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,78,91.807692308,2.256636345,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,68,,,
+UBCV,2017,W,PHTH,516,,001,Clinical Decision-Making I,Anne Rankin;Robin Roots;Susan Murphy;Susan Paul,78,87.820512821,5.295780211,96.0,63.0,,,,,,,,,,,0,0,0,1,0,0,0,4,11,31,31,,,
+UBCV,2018,S,PHTH,566,,921,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,92.708860759,2.50206017,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,69,,,
+UBCV,2018,W,PHTH,516,,001,Clinical Decision-Making I,Daniel Hewson;Robin Roots;Susan Murphy;Susan Paul,78,86.512820513,2.766889527,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,18,51,9,,,
+UBCV,2019,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,93.164556962,1.80760771,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,,,
+UBCV,2019,W,PHTH,516,,001,Clinical Decision-Making I,Daniel Hewson;Janet Lundie;Robin Roots;Susan Murphy;Susan Paul,80,93.5125,3.093454707,98.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,7,72,,,
+UBCV,2020,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,78,93.41025641,2.200566028,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,73,,,
+UBCV,2020,W,PHTH,516,,001,Clinical Decision-Making I,Angela Rocca;Janet Lundie;Robin Roots;Susan Paul,101,92.504950495,2.777134359,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,17,84,,,
+UBCV,2021,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,95.784810127,2.560403044,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,,,
+UBCV,2021,S,PHTH,566,,922,Clinical Decision-Making IV,Timberly George;Janet Lowcock;Janet Lundie;Susan Paul,79,95.8,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,95.0,98.0,93.5
+UBCV,2022,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Murphy;Susan Paul,100,93.6,,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,90,93.0,97.0,91.0
+UBCV,2022,W,PHTH,528,,001,Case-based Integration,David Anekwe;Andrea Chan;Martina Feldmann;Roland Fletcher;Alison Greig;Brooke Hannela;Michelle Jacobs;Maria Juricic;Michelle Labandelo;Teresa Yeong Lih Liu;Malgonata Mikszan;Angela Pace;Susan Paul;Robin Roots,117,90.1,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,45,71,91.0,92.0,88.0
+UBCV,2023,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lundie;Susan Murphy;Susan Paul,98,93.81,,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,93,94.5,95.0,92.0

@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,DSCI,523,,001,Programming for Data Manipulation,Chao-Chun Liu;Jordan Sicherman;Kateryna Tyshchenko;Kyle Macdonald;Mai Uyen Thieu;Sophie Macdonald;Tiffany Timbers;Tomas Beuzen,129,90.891472868,7.259950402,99.0,38.0,1,0,0,0,0,2,1,4,5,21,95
+UBCV,2020,W,DSCI,552,,001,Statistical Inference and Computation I,Analise Hofmann;Jordan Bourak;Jordan Sicherman;Kyle Macdonald;Sophie Macdonald;Tiffany Timbers;Yulia Egorova,127,91.818897638,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95
+UBCV,2020,W,DSCI,561,,001,Regression I,Chao-Chun Liu;Gabriela Cohen Freue;Jie Xiang;Jordan Sicherman;Kyle Macdonald;Sophie Macdonald;Tomas Beuzen;Yulia Egorova,126,93.119047619,5.623674447,100.0,68.0,0,0,0,0,0,2,0,3,6,8,107

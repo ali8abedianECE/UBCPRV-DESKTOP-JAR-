@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LLED,310,,401,INTR EL RD & LA,"Pirbhai-Illich, Fatima",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,LLED,320,,202,C & I LNG ED EL,"Pirbhai-Illich, Fatima",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,LLED,310,,401,INTR EL RD & LA,"Pirbhai-Illich, Fatima",25,,,,,0,0,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHAR,220,,001,PHYSICOCHEM,"Marankan, Fatima;Reid, Ronald;Riggs, Kenneth Wayne",156,81.56,5.95,93,53,156,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,11,27,61,43,5
+UBC,2005,W,PHAR,321,,001,BIOPHYS PHARM I,"Marankan, Fatima;Wasan, Kishor",139,86.61,6.2,98,63,139,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,8,27,47,48
+UBC,2005,W,PHAR,322,,L01,BIOPHYS LAB I,"Marankan, Fatima",23,94.22,2.39,98,90,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+UBC,2005,W,PHAR,322,,L02,BIOPHYS LAB I,"Marankan, Fatima",23,91.13,1.01,92,88,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22
+UBC,2005,W,PHAR,322,,L03,BIOPHYS LAB I,"Marankan, Fatima",22,91.41,3.38,98,88,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,12
+UBC,2005,W,PHAR,322,,L04,BIOPHYS LAB I,"Marankan, Fatima",24,93,2.34,97,89,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,23
+UBC,2005,W,PHAR,322,,L05,BIOPHYS LAB I,"Marankan, Fatima",24,94.58,1.47,97,92,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+UBC,2005,W,PHAR,322,,L06,BIOPHYS LAB I,"Marankan, Fatima",24,92.46,3.49,96,88,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16
+UBC,2006,W,PHAR,321,,001,BIOPHYS PHARM I,"Marankan, Fatima;Wasan, Kishor",151,81.3,7.28,95,56,151,0,0,0,0,0,0,0,0,0,0,0,3,1,4,8,12,20,51,40,12

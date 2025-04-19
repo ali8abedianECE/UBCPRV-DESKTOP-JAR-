@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,ARCH,544,X,001,Seminar in Architecture,Gregory Johnson;Lys Hermanski;Lys Marianna Claire Hermanski,13,85.0,0.0,85.0,85.0,0,0,0,0,0,0,0,0,0,13,0,,,
+UBCV,2016,W,ARCH,544,X,001,Seminar in Architecture,Gregory Johnson;Lys Hermanski;Ryder Joseph Thalheimer;Ryder Thalheimer,18,83.0,0.0,83.0,83.0,0,0,0,0,0,0,0,0,18,0,0,,,
+UBCV,2021,S,ARCH,544,X,001,Seminar in Architecture,Annalisa Meyboom;Gregory Johnson;Lys Hermanski;Parker Albanese,16,82.0,0.0,82.0,82.0,0,0,0,0,0,0,0,0,16,0,0,,,
+UBCV,2021,S,ARCH,544,Y,001,Seminar in Architecture,Annalisa Meyboom;Gregory Johnson;Lys Hermanski,16,87.0,0.0,87.0,87.0,0,0,0,0,0,0,0,0,0,16,0,,,
+UBCV,2021,S,ARCH,544,X,001,Seminar in Architecture,Lys Hermanski;Gregory Johnson;Annalisa Meyboom,16,82.0,,82.0,82.0,0,0,0,0,0,0,0,0,16,0,0,82.0,82.0,82.0
+UBCV,2021,S,ARCH,544,Y,001,Seminar in Architecture,Lys Hermanski;Gregory Johnson;Annalisa Meyboom,16,87.0,,87.0,87.0,0,0,0,0,0,0,0,0,0,16,0,87.0,87.0,87.0

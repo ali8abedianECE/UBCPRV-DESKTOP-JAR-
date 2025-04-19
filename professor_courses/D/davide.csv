@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",42,72.17,9.17,85,50,42,0,0,0,0,0,0,0,0,0,0,3,1,3,6,6,4,8,8,3,0
+UBC,2012,W,MINE,305,,201,GEOMECH FUN,"Elmo, Davide",47,68.22,7.3,80,50,46,0,1,0,0,0,0,0,0,0,0,4,1,3,10,13,8,5,2,0,0
+UBC,2012,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",62,73.84,9,89,50,61,0,1,0,0,0,0,0,0,0,0,4,0,4,8,3,13,14,9,6,0
+UBC,2012,W,MINE,550,,101,MIN METHOD,"Elmo, Davide",4,74,6.48,82,67,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0
+UBC,2012,W,MINE,551,,201,UNDG ROCK MEC,"Elmo, Davide",5,82.4,7.37,90,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2
+UBC,2012,W,MINE,556,,101,ROCK SLOPE,"Elmo, Davide",5,83,9.87,94,70,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1
+UBC,2013,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",38,70.61,9.57,86,35,37,1,0,0,0,0,0,0,1,0,1,0,2,4,6,4,8,7,4,2,0
+UBC,2013,W,MINE,305,,201,GEOMECH FUN,"Elmo, Davide",42,73,8.11,88,52,42,0,0,0,0,0,0,0,0,0,0,2,1,1,4,8,9,8,6,3,0
+UBC,2013,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",80,74.71,8.93,94,57,79,0,1,0,0,0,0,0,0,0,0,0,3,4,10,13,16,10,11,7,5
+UBC,2013,W,MINE,485,,201,CAVE MN SYS: D&P,"Elmo, Davide;Scoble, Malcolm",33,83.85,3.2,88,77,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20,11,0
+UBC,2013,W,MINE,551,,201,UNDG ROCK MEC,"Elmo, Davide",7,85,4.24,90,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2
+UBC,2013,W,MINE,556,,101,ROCK SLOPE,"Elmo, Davide",11,85.09,7.06,92,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,5
+UBC,2013,W,MINE,590,K,201,SPEC ADV TOP,"Elmo, Davide;Scoble, Malcolm",9,83.78,6.26,90,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,6,1
+UBC,2014,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",105,75.1,9.06,94,48,102,1,0,2,0,0,0,0,0,1,1,2,3,5,8,14,17,19,18,11,5
+UBC,2014,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",74,73.62,14.35,97,13,71,2,0,1,0,0,2,0,0,0,2,1,2,7,9,8,9,12,7,7,9
+UBC,2014,W,MINE,485,,201,CAVE MN SYS: D&P,"Elmo, Davide",26,77.85,11.28,92,57,26,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,3,2,8,1,6
+UBC,2014,W,MINE,556,,101,ROCK SLOPE,"Elmo, Davide",12,84.08,5.07,95,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2,2
+UBC,2014,W,MINE,590,K,201,SPEC ADV TOP,"Elmo, Davide",10,86,3.65,92,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,2
+UBC,2015,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",65,74.23,8.31,94,59,65,0,0,0,0,0,0,0,0,0,0,0,1,7,10,11,8,9,9,9,1
+UBC,2015,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",61,73.26,10.29,93,50,61,0,0,0,0,0,0,0,0,0,0,2,4,6,4,12,6,9,10,3,5
+UBC,2015,W,MINE,485,,201,CAVE MN SYS: D&P,"Elmo, Davide",9,91.56,1.01,93,90,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+UBC,2015,W,MINE,556,,101,ROCK SLOPE,"Elmo, Davide",5,80.6,6.91,90,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1
+UBC,2015,W,MINE,590,D,101,SPEC ADV TOP,"Elmo, Davide",13,83.38,4.07,90,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,2
+UBC,2015,W,MINE,590,K,201,SPEC ADV TOP,"Elmo, Davide",11,84.36,4.72,93,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,2
+UBC,2015,W,MINE,590,M,201,SPEC ADV TOP,"Elmo, Davide",5,76.2,11.5,92,60,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,0,1
+UBC,2015,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",37,72.84,5.6,83,61,37,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,7,8,6,0,0
+UBC,2015,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",37,72.34,6.07,85,60,35,0,0,0,2,0,0,0,0,0,0,0,0,2,3,11,9,3,6,1,0
+UBC,2015,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",38,76.51,4.96,84,63,37,0,0,0,1,0,0,0,0,0,0,0,0,1,1,3,5,17,10,0,0
+UBC,2015,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",38,77.79,5.61,91,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,12,10,2,2
+UBC,2015,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",35,64.8,14.54,80,0,28,2,2,0,3,1,0,0,0,1,2,2,0,5,7,7,2,3,2,0,0
+UBC,2015,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",36,77.66,6.49,90,62,35,0,0,0,1,0,0,0,0,0,0,0,0,1,1,4,6,7,9,6,1
+UBC,2015,W,PHAR,403,,002,ADMN OF INJECTNS,"Massaro, Davide;Seto, Katherine",94,91.95,2.63,96,78,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12,81
+UBC,2015,W,PHRM,111,,001,MED MANAGEMENT 1,"Chan, Fong;Frankel, Adam;Lalji, Fawziah;Massaro, Davide;Miller, Penelope;Moshenko, Janice Lynn;Park, Charles;Seet, Tony;Watson, Hilary;Zed, Peter",212,75.97,5.35,90,51,212,0,0,0,0,0,0,0,0,0,0,1,0,1,7,35,55,57,48,7,1
+UBC,2016,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",83,63.07,10.87,91,38,77,6,0,0,0,0,0,0,2,4,6,10,18,11,11,9,5,4,6,2,1
+UBC,2016,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",61,75.46,8.85,90,51,61,0,0,0,0,0,0,0,0,0,0,2,2,1,5,6,8,16,11,7,3
+UBC,2016,W,MINE,485,,201,CAVE MN SYS: D&P,"Elmo, Davide;Nadolski, Stefan",18,87,5.67,92,76,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,8
+UBC,2016,W,MINE,505,,101,ADV TPC ROCK ENG,"Elmo, Davide",9,84.56,6.64,95,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,2
+UBC,2016,W,MINE,507,,201,BLOCK CAVE SYSTM,"Elmo, Davide;Nadolski, Stefan",6,90.33,1.37,92,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2016,W,PHAR,403,,001,ADMN OF INJECTNS,"Massaro, Davide",121,92.66,2.34,96,84,120,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,109
+UBC,2016,W,PHAR,403,,002,ADMN OF INJECTNS,"Massaro, Davide",88,91.59,3.49,96,76,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,12,73
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2017,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",83,64.18,12.66,87,21,76,7,0,0,0,0,0,2,1,4,7,11,10,5,13,14,7,4,10,2,0
+UBC,2017,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",39,71.18,13.21,95,50,38,0,1,0,0,0,0,0,0,0,0,7,2,4,2,3,4,4,5,3,4
+UBC,2017,W,MINE,485,,201,CAVE MN SYS: D&P,"Elmo, Davide",5,86.6,0.55,87,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2017,W,MINE,505,,101,ADV TPC ROCK ENG,"Elmo, Davide",7,83.14,6.72,90,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1
+UBC,2017,W,MINE,507,,201,BLOCK CAVE SYSTM,"Elmo, Davide",8,86.88,0.83,88,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+UBC,2018,W,MINE,303,,201,ROCK MECH FUN,"Elmo, Davide",89,71.94,14.46,96,4,87,1,0,0,1,1,0,0,0,0,1,10,5,5,10,7,11,14,7,12,6
+UBC,2018,W,MINE,403,,101,ROCK MECH,"Elmo, Davide",48,75.9,7.36,88,55,48,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,8,10,11,7,0
+UBC,2018,W,MINE,497,S,101,DIR STUD,"Elmo, Davide",5,88.4,0.89,90,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1

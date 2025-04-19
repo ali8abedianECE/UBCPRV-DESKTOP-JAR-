@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ECON,326,,001,MTDS EMPIRC RESR,"Kim, Chang Sik",96,72.63,9.24,93,51,94,0,2,0,0,0,0,0,0,0,0,1,8,7,10,20,16,8,15,6,3
+UBC,2002,W,ECON,326,,002,MTDS EMPIRC RESR,"Kim, Chang Sik",71,71.51,12.34,92,0,67,1,3,0,0,1,0,0,0,0,1,1,4,5,5,17,12,10,5,6,2
+UBC,2002,W,ECON,626,,001,ECON THRY I,"Kim, Chang Sik",20,80.22,11.47,98,50,18,0,1,0,1,0,0,0,0,0,0,1,0,0,0,3,1,3,2,5,3
+UBC,2002,W,ECON,627,,001,ECON THRY II,"Kim, Chang Sik",17,78.14,11.78,96,57,14,0,1,1,1,0,0,0,0,0,0,0,1,1,0,2,2,1,2,2,3

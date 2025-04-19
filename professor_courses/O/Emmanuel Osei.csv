@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,BIOL,363,,001,Developmental Biology,Emmanuel Osei;Robin Young,57,71.428571429,12.090352492,96.0,31.0,4,0,4,5,4,8,7,12,6,3,3,,,
+UBCO,2021,W,BIOL,363,,001,Developmental Biology,Emmanuel Osei,57,71.6,,96.0,31.0,,,,,,8,7,12,7,,,72.0,79.0,65.0
+UBCO,2023,W,BIOL,300,,001,Advanced Cell Biology,Emmanuel Osei,76,87.2,,99.0,71.0,0,0,0,0,0,1,4,5,12,26,28,88.0,91.3,83.0
+UBCO,2023,W,BIOL,363,,101,Developmental Biology,Emmanuel Osei,50,83.5,,97.0,13.0,1,0,0,0,0,1,1,4,18,15,10,84.5,88.0,81.0

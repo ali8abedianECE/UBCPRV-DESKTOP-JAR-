@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,404,,101,PHYS MEDICAL IMG,"Aldrich, John;Celler, Anna;MacAulay, Calum E.;MacKay, Alexander;Sossi, Vesna",30,79.45,11.07,94,56,29,0,1,0,0,0,0,0,0,0,0,0,3,1,0,2,3,3,6,5,6
+UBC,2003,W,PSYC,309,,901,COGNTV PROCESSES,"MACAULAY, DAWN",57,68.61,10.01,90,50,54,0,2,0,1,0,0,0,0,0,0,7,1,8,9,7,5,8,6,2,1
+UBC,2005,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",30,73.83,12.17,95,50,29,0,1,0,0,0,0,0,0,0,0,2,3,1,1,5,3,2,7,2,3
+UBC,2005,W,PSYC,218,,901,ANALYS BEH DATA,"MACAULAY, DAWN",53,70.16,14.94,95,22,48,2,3,0,0,0,0,2,0,0,2,5,2,5,4,6,6,5,7,4,4
+UBC,2005,W,PSYC,309,B,901,COGNTV PROCESSES,"MACAULAY, DAWN",93,69.39,12.55,91,16,86,2,5,0,0,0,1,1,0,0,2,5,6,15,9,8,15,8,13,5,2
+UBC,2006,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",39,76.54,9.01,92,47,38,1,0,0,0,0,0,0,0,1,1,0,0,2,2,5,6,4,14,4,1

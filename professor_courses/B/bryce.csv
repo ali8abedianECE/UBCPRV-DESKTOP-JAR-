@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,PATH,467,,99C,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PATH,467,,99C,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth",35,76,0,76,76,1,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+UBC,2006,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth",31,74,0,74,74,1,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+UBC,2007,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",36,,,,,0,0,7,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PATH,451,,001,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",6,82.5,7.23,91,74,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+UBC,2009,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth",32,75.94,10.25,94,55,32,0,0,0,0,0,0,0,0,0,0,0,2,2,4,3,2,7,5,4,3
+UBC,2009,S,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",4,88.33,7.23,93,80,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+UBC,2009,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",17,87.06,5.95,96,75,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,5
+UBC,2009,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth",25,77.5,11.18,91,40,23,1,1,0,0,0,0,0,0,1,1,0,0,1,0,3,4,2,6,6,1
+UBC,2010,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",19,87.35,7.91,96,65,17,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,7
+UBC,2010,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",19,74.37,10.25,92,54,19,0,0,0,0,0,0,0,0,0,0,1,1,0,4,1,2,5,1,3,1
+UBC,2010,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",24,,,,,0,0,3,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth",21,81.05,10.77,96,60,20,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2,2,4,1,4,5
+UBC,2011,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",23,87.86,4.48,95,78,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,11
+UBC,2011,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",17,80.76,7.98,89,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,6,6,0
+UBC,2011,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",39,,,,,0,0,1,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PATH,451,,001,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",4,90,5.48,96,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2011,W,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",7,89,4.43,96,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2012,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth",38,81.26,9.73,96,47,37,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,3,8,7,13,4
+UBC,2012,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",17,87,6.06,95,72,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,6
+UBC,2012,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",24,85.54,4.03,92,78,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,8,5
+UBC,2012,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",32,,,,,0,0,3,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",29,82.28,6.8,99,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,11,3,5
+UBC,2013,S,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",7,86.57,3.26,90,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1
+UBC,2013,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",24,78.13,10.06,94,62,24,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,2,3,5,3
+UBC,2013,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",19,,,,,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PATH,451,,002,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",6,87.83,5.19,95,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2013,W,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",6,87.33,4.76,93,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2014,S,PATH,427,,GIS,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",18,82.56,9.72,97,64,16,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,2,2,4,1,5
+UBC,2014,S,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",5,84.8,3.11,88,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0
+UBC,2014,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Morshed, Muhammad;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",22,80.33,9.17,93,51,21,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,3,2,7,4,3
+UBC,2014,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",21,83,9.89,96,61,19,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,3,4,6
+UBC,2014,W,PATH,451,,002,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",4,82.25,5.56,90,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1
+UBC,2015,S,PATH,451,,003,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",5,86,7.11,94,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1
+UBC,2015,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Jassem, Agata;Krajden, Mel;Morshed, Muhammad;Petric, Martin;Prystajecky, Natalie;Roscoe, Diane;Scott, Mark",23,78.36,6.89,91,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5,5,4,1
+UBC,2015,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",14,79.75,12.05,92,47,11,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,3,2,3,2
+UBC,2016,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Jassem, Agata;Krajden, Mel;Morshed, Muhammad;Petric, Martin;Prystajecky, Natalie;Roscoe, Diane;Scott, Mark",15,78.21,9.28,91,57,14,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,4,3,1
+UBC,2016,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",11,83.9,4.91,89,74,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,0
+UBC,2016,W,PATH,451,,002,CLK IN LAB MEDIC,"Bryce, Elizabeth;Roscoe, Diane",4,88,5.03,93,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2017,W,PATH,427,,99C,INFECTION CONTRO,"Bryce, Elizabeth;Roscoe, Diane",10,81.7,7.09,92,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,4,1

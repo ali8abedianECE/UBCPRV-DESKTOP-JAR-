@@ -1,0 +1,81 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,THTR,299,B,001,PRODUCTION I,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",6,89.6,3.85,93,83,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,,,
+UBC,2017,W,THTR,305,,001,SCENERY DSGN I,"Rizzotti, Patrick",10,77.7,18.95,91,33,9,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,2,0,0,2,4,,,
+UBC,2017,W,THTR,399,B,001,PRODUCTION II,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",8,86.25,3.99,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,,,
+UBC,2017,W,THTR,405,,001,SCENERY DSGN II,"Rizzotti, Patrick",12,74.92,16.8,89,27,11,1,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,2,4,3,0,,,
+UBC,2017,W,THTR,408,A,001,ADV STDY DSGN,"Rizzotti, Patrick",19,79.11,8.26,88,56,18,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,4,6,5,0,,,
+UBC,2017,W,THTR,448,A,001,DIR ST THTR THRY,"Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",4,85.5,9.61,97,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,,,
+UBC,2017,W,THTR,448,B,002,DIR ST THTR THRY,"Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",7,88.86,4.85,92,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,,,
+UBC,2017,W,THTR,499,B,001,PRODUCTION III,"Dodge, Carey;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",8,89.75,3.54,94,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,,,
+UBC,2017,W,THTR,507,,001,SC DSGN STD II,"Rizzotti, Patrick",6,78.83,8.01,93,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,1,,,
+UBC,2017,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom;Segal, Judy",7,90,4.43,95,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,,,
+UBC,2017,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,THTR,299,C,001,PRODUCTION I,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",16,84.13,4.7,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,8,2,,,
+UBC,2018,W,THTR,305,,001,SCENERY DSGN I,"Rizzotti, Patrick",16,73.69,8.82,87,57,16,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,3,2,4,1,0,,,
+UBC,2018,W,THTR,399,A,001,PRODUCTION II,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",4,95.75,1.26,97,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2018,W,THTR,399,B,001,PRODUCTION II,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",19,87.53,5.57,96,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,10,6,,,
+UBC,2018,W,THTR,399,C,001,PRODUCTION II,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",11,87.36,4.54,95,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,,,
+UBC,2018,W,THTR,448,B,002,DIR ST THTR THRY,"Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Rizzotti, Patrick",5,90.8,3.7,95,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2018,W,THTR,499,B,001,PRODUCTION III,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",6,88,4.29,95,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2018,W,THTR,499,C,001,PRODUCTION III,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",9,88.22,5.31,95,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,,,
+UBC,2018,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,90,5.35,97,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBC,2018,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,87.5,3.54,90,85,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,
+UBC,2018,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",8,81.33,6.35,85,74,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,,,
+UBCV,2017,W,THTR,299,B,001,Production I,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,6,88.0,5.215361924,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,4,,,
+UBCV,2017,W,THTR,299,C,001,Production I,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,17,83.0,7.770135134,89.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,0,3,11,0,,,
+UBCV,2017,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti;Robert Gardiner,10,77.7,18.950520368,91.0,33.0,,,,,,,,,,,1,0,1,0,0,0,2,0,0,2,4,,,
+UBCV,2017,W,THTR,399,B,001,Production II,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,8,86.25,3.991061441,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,2,,,
+UBCV,2017,W,THTR,399,C,001,Production II,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,13,85.307692308,6.408127852,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,6,3,,,
+UBCV,2017,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti;Robert Gardiner,12,74.916666667,16.795336654,89.0,27.0,,,,,,,,,,,1,0,0,0,2,0,0,2,4,3,0,,,
+UBCV,2017,W,THTR,408,A,001,Advanced Study in Design and Scenography,Patrick Rizzotti,18,79.111111111,8.259674462,88.0,56.0,,,,,,,,,,,0,0,1,1,0,0,1,4,6,5,0,,,
+UBCV,2017,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,7,88.857142857,4.84522347,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,6,,,
+UBCV,2017,W,THTR,499,B,001,Production III,Bradley Powers;Carey Dodge;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,8,89.75,3.535533906,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,4,,,
+UBCV,2017,W,THTR,499,C,001,Production III,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,10,89.4,5.501514943,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,6,,,
+UBCV,2017,W,THTR,507,,001,Scenery Design Studio II,Patrick Rizzotti;Robert Gardiner,6,78.833333333,8.010409894,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,1,1,0,1,,,
+UBCV,2017,W,THTR,547,B,002,Directed Studies in Theatre and Drama and Film/Television,Bradley Powers;Gayle Murphy;Jacqueline Firkins;Jerry Wasserman;Judith Segal;Judy Segal;Kirsty Johnston;Patrick Rizzotti;Robert Gardiner;Siyuan Liu;Stephen Heatley;Stephen Malloy;Tom Scholte,7,90.0,4.434711565,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,3,,,
+UBCV,2018,W,THTR,299,C,001,Production I,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,16,84.125,4.702836024,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,2,8,2,,,
+UBCV,2018,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,16,73.6875,8.822084032,87.0,57.0,,,,,,,,,,,0,0,2,0,2,2,3,2,4,1,0,,,
+UBCV,2018,W,THTR,399,B,001,Production II,Bradley Powers;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,19,87.526315789,5.571439282,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,10,6,,,
+UBCV,2018,W,THTR,399,C,001,Production II,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,11,87.363636364,4.544727215,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,4,,,
+UBCV,2018,W,THTR,405,,001,Scenery Design II,Amir Ofek;Patrick Rizzotti,7,72.285714286,11.470458952,85.0,56.0,,,,,,,,,,,0,0,1,1,1,0,0,2,1,1,0,,,
+UBCV,2018,W,THTR,499,B,001,Production III,Bradley Powers;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,6,88.0,4.289522118,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2,,,
+UBCV,2018,W,THTR,499,C,001,Production III,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,9,88.222222222,5.309844107,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,4,,,
+UBCV,2019,S,THTR,399,A,921,Production II,Bradley Powers;Jacqueline Firkins;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,5,89.8,3.898717738,92.0,83.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2019,W,THTR,205,C,001,Graphics for Theatre and Film Design,Patrick Rizzotti,10,92.4,2.221110833,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2019,W,THTR,299,C,001,Production I,Bradley Powers;Carey Dodge;Christine Reimer;Jacqueline Firkins;Jerry Wasserman;Jillian Wyness;Kathleen Duborg;Lorraine West;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Stephen Drover;Susan Bertoia,14,84.714285714,5.703286117,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,5,4,,,
+UBCV,2019,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,13,78.846153846,7.57018443,87.0,59.0,,,,,,,,,,,0,0,1,0,0,1,0,3,5,3,0,,,
+UBCV,2019,W,THTR,354,,001,Stage Management,Collette Berg;Lorraine West;Patrick Rizzotti,28,75.464285714,14.811112302,98.0,33.0,,,,,,,,,,,2,0,2,1,0,4,3,5,3,4,4,,,
+UBCV,2019,W,THTR,399,B,001,Production II,Bradley Powers;Jacqueline Firkins;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,13,87.230769231,4.693148306,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,5,,,
+UBCV,2019,W,THTR,399,C,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Lorraine West;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,11,82.909090909,9.049359596,94.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,3,4,2,,,
+UBCV,2019,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,11,84.545454545,9.993634338,98.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,1,4,2,3,,,
+UBCV,2019,W,THTR,408,A,001,Advanced Study in Design and Scenography,Patrick Rizzotti,12,86.25,5.011350752,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,8,1,,,
+UBCV,2019,W,THTR,499,B,001,Production III,Bradley Powers;Jacqueline Firkins;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,6,86.666666667,4.633213428,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,2,,,
+UBCV,2020,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,16,83.875,6.24899992,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,0,6,4,3,,,
+UBCV,2020,W,THTR,399,Z,001,Production II,Patrick Rizzotti,7,90.0,1.527525232,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2020,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,9,83.777777778,5.238744549,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,6,0,,,
+UBCV,2020,W,THTR,408,A,001,Advanced Study in Design and Scenography,Patrick Rizzotti,26,89.269230769,16.713007371,98.0,11.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,3,19,,,
+UBCV,2021,S,THTR,399,A,921,Production II,Bradley Powers;Jacqueline Firkins;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,7,89.428571429,3.10145895,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,W,THTR,205,C,001,Graphics for Theatre and Film Design,Patrick Rizzotti,19,86.0,15.577761927,98.0,43.0,,,,,,,,,,,1,0,1,0,1,0,0,1,2,0,13,,,
+UBCV,2021,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,24,84.291666667,5.153969906,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,4,11,4,,,
+UBCV,2021,W,THTR,399,B,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,8,88.625,4.955156045,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2021,W,THTR,399,P,001,Production II,Bradley Powers;Lorraine West;Patrick Rizzotti;Robert Gardiner;Ruth Skai Fowler,7,82.857142857,7.946247992,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,0,2,,,
+UBCV,2021,W,THTR,399,Z,001,Production II,Patrick Rizzotti,8,92.875,2.474873734,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2021,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers;Jacqueline Firkins;Leora Morris;Olivia Michiko Gagnon;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,11,92.727272727,2.611164839,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,THTR,499,Z,001,Production III,Patrick Rizzotti,7,94.0,1.914854216,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,S,THTR,399,A,921,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,7,89.4,,92.0,85.0,,,,,,,,,,,,,,,,,,,,,,91.0,91.5,87.5
+UBCV,2021,W,THTR,205,C,001,Graphics for Theatre and Film Design,Patrick Rizzotti,19,86.0,,98.0,43.0,,,,,,,,,,,,,,,,,,,,,13,93.0,95.5,83.0
+UBCV,2021,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,24,84.3,,92.0,73.0,,,,,,,,,,,,,,,,,,,,11,,85.0,87.5,81.0
+UBCV,2021,W,THTR,399,B,001,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti;Jillian Wyness,9,88.2,,95.0,81.0,,,,,,,,,,,,,,,,,,,,,,90.0,92.0,85.0
+UBCV,2021,W,THTR,399,Z,001,Production II,Patrick Rizzotti,8,92.9,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,94.0,95.0,90.0
+UBCV,2021,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Robert Gardiner;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,11,92.8,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,93.0,94.5,90.0
+UBCV,2021,W,THTR,499,Z,001,Production III,Patrick Rizzotti,7,94.0,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,95.0,95.0,94.0
+UBCV,2022,S,THTR,399,B,921,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,12,92.4,,94.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,92.0,93.0,92.0
+UBCV,2022,W,THFL,402,,001,Professional Portfolio Preparation for Live and Digital Performance,Patrick Rizzotti,8,96.3,,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,96.5,98.0,94.5
+UBCV,2022,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,20,83.8,,100.0,46.0,,,,,,,,,,,1,1,0,0,0,1,0,1,4,3,9,87.0,91.8,81.5
+UBCV,2022,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,7,90.0,,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,5,92.0,94.5,88.0
+UBCV,2022,W,THTR,448,A,001,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Robert Gardiner;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,6,92.7,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,94.0,95.0,92.3
+UBCV,2022,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,9,91.6,,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,90.0,95.0,90.0
+UBCV,2023,W,THTR,205,A,001,Graphics for Theatre and Film Design,Patrick Rizzotti,38,92.4,,100.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,0,0,7,28,94.0,97.0,90.0
+UBCV,2023,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,13,78.1,,89.0,13.0,,,,,,,,,,,1,0,0,0,0,1,0,1,3,7,0,85.0,88.0,81.0
+UBCV,2023,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,12,72.3,,95.0,50.0,,,,,,,,,,,0,3,0,1,0,1,1,1,2,1,2,75.5,82.3,58.8

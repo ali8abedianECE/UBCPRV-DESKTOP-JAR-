@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MUSC,150,C,001,LRGE INST ENSEMB,"Reardon Maclellan, Christin;Taylor, Robert",36,92.31,3.14,100,83,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,29
+UBC,2017,W,MUSC,150,C,001,LRGE INST ENSEMB,"Reardon Maclellan, Christin;Taylor, Robert",20,93.5,2.48,100,90,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+UBC,2018,W,MUSC,150,C,001,LRGE INST ENSEMB,"Reardon Maclellan, Christin;Taylor, Robert",24,94.65,1.77,98,93,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2015,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Robert Taylor,36,92.305555556,3.142514411,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,29
+UBCV,2016,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Nancy Mathis Dinovo;Robert Taylor,36,90.63888889,5.276106669,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,5,28
+UBCV,2017,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Lauren Visel;Robert Taylor,20,93.5,2.481510576,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20
+UBCV,2018,W,MUSC,150,A,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Jaelem Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,113,92.848214286,5.27480809,100.0,53.0,,,,,,,,,,,0,1,,,,,,,3,10,98
+UBCV,2018,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Lauren Visel;Robert Taylor,23,94.652173913,1.773765785,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2019,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Lauren Visel;Minna Stelzner;Robert Taylor,19,91.105263158,3.478421367,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,14
+UBCV,2020,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Marie Park,23,83.52173913,15.456300761,98.0,29.0,,,,,,,,,,,1,0,0,1,1,1,0,1,3,5,10
+UBCV,2020,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Robert Taylor,11,97.272727273,9.045340337,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,10
+UBCV,2021,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Julia Nolan;Wei Wang,9,83.555555556,17.55784092,94.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,3,4
+UBCV,2021,W,MUSC,150,C,001,Large Instrumental Ensemble,Benjamin Vanderkruk;Christin Reardon Maclellan;Imran Amarshi;Josh Rauw;Robert Taylor,39,85.743589744,7.789054225,100.0,50.0,,,,,,,,,,,0,1,0,0,0,0,0,1,8,18,11

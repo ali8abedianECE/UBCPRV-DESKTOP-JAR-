@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,MATH,101,,211,INT CALC AP PH S,"Bruni, Carmen",80,65.23,14.92,98,23,69,9,0,0,2,0,0,2,1,6,9,10,6,8,8,7,9,7,9,1,4
+UBC,2012,W,MATH,103,,206,INT CALC AP LF S,"Bruni, Carmen",80,64.97,13.09,93,26,67,9,2,0,2,0,0,1,2,6,9,6,5,10,10,12,8,8,5,2,1
+UBC,2013,W,MATH,103,,206,INT CALC AP LF S,"Bruni, Carmen;Hauert, Christoph",85,67.9,12.25,100,36,80,4,0,0,1,0,0,0,2,2,4,6,8,14,9,13,6,9,7,5,3
+UBCV,2014,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum,123,72.20325203,14.82795286,98.0,36.0,,,,,,,,,,,8,5,13,8,14,11,6,15,14,14,15
+UBCV,2014,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Niki Mavraki,68,68.23529412,18.76493845,99.0,13.0,,,,,,,,,,,9,4,3,5,8,10,4,6,4,8,7
+UBCV,2014,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum,112,69.19642857,17.05731688,99.0,5.0,,,,,,,,,,,14,5,5,4,12,18,9,17,12,6,10
+UBCV,2014,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Wesley Maciejewski,94,72.62765957,15.80525572,100.0,13.0,,,,,,,,,,,9,2,8,7,8,6,7,10,14,11,12
+UBCV,2014,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Hexi Ye,66,68.48484849,18.68709339,100.0,11.0,,,,,,,,,,,7,5,3,6,6,10,5,4,7,5,8
+UBCV,2014,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Leah Edelstein-Keshet;Leah Keshet,116,73.96551724,13.38261756,98.0,45.0,,,,,,,,,,,6,5,7,7,8,15,13,9,15,17,14
+UBCV,2014,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Alastair Jamieson-Lane;Carmen Bruni;Eric Cytrynbaum,107,62.13084112,20.92172479,98.0,16.0,,,,,,,,,,,28,5,8,10,8,7,8,9,11,5,8
+UBCV,2014,W,MATH,210,,201,Introduction to Mathematical Computing,Brian Thomas Wetton;Brian Wetton;Carmen Bruni;Hyunju Kwon,52,64.48076923,21.30036397,100.0,4.0,,,,,,,,,,,9,5,6,,5,,,6,5,,8

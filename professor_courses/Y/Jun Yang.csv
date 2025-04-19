@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,215,,103,ELEM DIFF EQ I,"Yang, Jun",25,68.68,22.4,100,21,23,2,0,0,0,0,0,1,1,0,2,8,1,1,2,0,2,0,1,1,7
+UBC,2016,W,MATH,255,,103,ORD DIFF EQUTNS,"Yang, Jun",60,71.09,20.69,100,22,46,10,2,0,2,0,0,2,4,4,10,2,2,1,5,4,7,3,6,5,11
+UBCV,2016,W,MATH,215,,103,Elementary Differential Equations I,Jun Yang;Richard Gerd Froese,25,68.68,22.40297599,100.0,21.0,,,,,,,,,,,2,8,1,1,2,0,2,0,1,1,7
+UBCV,2016,W,MATH,255,,103,Ordinary Differential Equations,Jun Yang;Richard Gerd Froese,58,69.34482759,22.3548352,100.0,19.0,,,,,,,,,,,12,2,2,1,5,4,7,3,6,5,11

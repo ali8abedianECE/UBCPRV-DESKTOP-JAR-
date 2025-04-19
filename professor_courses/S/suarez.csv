@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,SPAN,101,,106,BEGINNER SPAN I,"Suarez, Camilo",30,79.87,11.85,98,50,30,0,0,0,0,0,0,0,0,0,0,2,0,0,3,2,3,3,6,3,8
+UBC,2005,W,SPAN,102,,206,BEGINNER SPAN II,"Suarez, Camilo",23,72.23,14.95,98,32,20,2,1,0,0,0,0,0,1,1,2,0,0,2,3,4,2,4,2,0,3
+UBC,2017,W,BIOL,548,S,101,ADV TOPICS BIOL,"Suarez, Raul",5,90,0,90,90,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2018,W,BIOL,548,S,101,ADV TOPICS BIOL,"Suarez, Raul",4,89,0,89,89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0

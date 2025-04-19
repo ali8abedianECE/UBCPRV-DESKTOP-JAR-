@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,APSC,173,,201,Engineering Analysis II,Ali Ahmadi;Mark Bergen;Md. Mosharef Hossain;Mohammad Paknahad;Tayef Asif;Wilhelm Wenngren,118,68.271186441,18.253046118,100.0,17.0,13,12,11,10,7,11,7,8,15,8,16
+UBCO,2015,W,APSC,173,,202,Engineering Analysis II,Mark Bergen;Md. Mosharef Hossain;Mohammad Paknahad;Nicholas Swart;Tayef Asif;Wilhelm Wenngren,97,67.237113402,15.895343393,100.0,16.0,10,4,11,14,9,9,5,9,13,6,7
+UBCO,2015,W,APSC,256,,101,Numerical Methods for Analysis,Fang Fang;Liwei Wang;Mahdieh Aliaslkhiabani;Mark Bergen;Peyman Amiri;Severin Nowak;Wenbo Zheng,249,75.128514056,13.441013239,97.0,23.0,14,3,11,12,22,17,19,38,41,37,35
+UBCO,2015,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Mark Bergen;Timothy Mitchell Westgate;Timothy Westgate,53,77.622641509,17.305208659,100.0,4.0,,,,,,,,6,,13,11
+UBCO,2015,W,ENGR,355,,101,Digital Systems Design,Jonathan Holzman;Mark Bergen;Timothy Mitchell Westgate,46,80.282608696,9.792657212,100.0,62.0,0,0,0,,5,,5,,11,10,8
+UBCO,2015,W,ENGR,472,,001,Fibre Optics and Photonics,Jonathan Holzman;Mark Bergen;Timothy Mitchell Westgate;Timothy Westgate,8,78.25,11.622023428,90.0,52.0,0,,,,,,,,,,
+UBCO,2016,W,APSC,262,,001,Digital Logic Design,Adrian Boivin;Ayman Elnaggar;Mark Bergen,74,77.12162162,12.56975355,100.0,43.0,2,1,4,5,6,6,6,6,13,12,13
+UBCO,2016,W,ENGR,355,,101,Digital Systems Design,Jonathan Holzman;Mark Bergen,15,81.33333333,13.5786948,100.0,55.0,0,0,1,0,2,0,3,0,1,3,5
+UBCO,2017,W,APSC,246,,101,System Dynamics,Brittney Kerns;Mark Bergen;Shahin Zareie;Timothy Mitchell Westgate;Weicheng Yan;Xian Jin,142,65.626760563,17.070404548,93.0,2.0,22,9,17,10,13,13,15,11,15,7,10
+UBCO,2017,W,APSC,246,,102,System Dynamics,Brittney Kerns;Mark Bergen;Shahin Zareie;Timothy Mitchell Westgate;Weicheng Yan;Xian Jin,152,68.203947368,14.901592793,96.0,31.0,13,18,17,13,15,7,12,12,18,16,11
+UBCO,2017,W,APSC,262,,001,Digital Logic Design,Adrian Boivin;Ayman Elnaggar;Kevin Dueck;Mark Bergen,77,76.727272727,16.783165409,100.0,26.0,6,2,4,4,3,6,5,6,13,6,22
+UBCO,2018,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Iman Aghanejad;Loic Markley;Marek Splawinski;Mark Bergen;Wei Sen Loi,136,63.558823529,16.340707952,96.0,12.0,21,14,17,14,12,13,9,14,8,4,10
+UBCO,2018,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Iman Aghanejad;Jonathan Holzman;Marek Splawinski;Mark Bergen;Wei Sen Loi,158,63.17721519,16.669327638,97.0,0.0,30,10,14,18,13,22,13,14,7,8,9
+UBCO,2018,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Kevin Dueck;Mandeep Chhajer Jain;Mark Bergen,84,79.55952381,13.327524911,100.0,41.0,3,4,1,3,3,3,9,4,14,21,19
+UBCO,2018,W,ENGR,472,,001,Fibre Optics and Photonics,Jonathan Holzman;Mark Bergen,31,75.709677419,9.026603453,96.0,56.0,0,0,1,2,1,4,7,5,6,3,2
+UBCO,2019,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Cael Warner;Ilija Hristovski;Majid Moradzadeh;Marek Splawinski;Mark Bergen;Mohammed Al-Shakhs;Wei Sen Loi,147,68.768707483,11.975470378,100.0,17.0,5,11,13,15,25,21,16,18,10,7,6
+UBCO,2019,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Cael Warner;Ilija Hristovski;Loic Markley;Majid Moradzadeh;Marek Splawinski;Mark Bergen;Wei Sen Loi,155,66.909677419,11.48141793,97.0,33.0,9,7,24,22,27,16,17,9,11,7,6
+UBCO,2019,W,ENGR,472,,001,Fibre Optics and Photonics,Jonathan Holzman;Mark Bergen,16,85.375,10.0920761,100.0,68.0,0,0,0,0,0,1,3,1,2,1,8
+UBCO,2020,W,APSC,246,,101,System Dynamics,Ali Maleki Gargari;John Alan Brereton;Mark Bergen;Michael Mitchell;Mohammad Hossein Zarifi;Saeed Moghaddam;Sevda Mohammadi Gharalar,160,74.2,17.859972462,100.0,18.0,18,3,10,6,9,12,14,18,19,14,37

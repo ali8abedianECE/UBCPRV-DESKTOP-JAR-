@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHYS,100,,L1F,INTRO PHYSICS,"Bates, Frances;Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,PHYS,100,,L1M,INTRO PHYSICS,"Bates, Frances;Koster, Evert",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,WOOD,430,,201,PLNT LAYOUT&DSGN,"Koster, Heinz",11,70.36,25.98,94,0,10,1,0,0,0,1,0,0,0,0,1,0,0,1,0,4,1,0,0,0,4
+UBC,2003,W,PHYS,100,,L1H,INTRO PHYSICS,"Bates, Frances;Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHYS,100,,L1D,INTRO PHYSICS,"Bates, Frances;Koster, Evert",7,,,,,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHYS,101,,L1M,ENERGY & WAVES,"Bates, Frances;Klappauf, Bruce;Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHYS,101,,L2D,ENERGY & WAVES,"Bates, Frances;Koster, Evert",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHYS,100,,L1E,INTRO PHYSICS,"Bates, Frances;Koster, Evert",6,,,,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHYS,100,,L1F,INTRO PHYSICS,"Bates, Frances;Koster, Evert",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHYS,100,,L1G,INTRO PHYSICS,"Bates, Frances;Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHYS,100,,L1M,INTRO PHYSICS,"Bates, Frances;Koster, Evert",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHYS,101,,L1A,ENERGY & WAVES,"Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHYS,101,,921,ENERGY & WAVES,"Koster, Evert;Rieger, Georg",186,80.04,8.52,95,50,185,0,1,0,0,0,0,0,0,0,0,2,3,3,5,16,17,31,45,41,22
+UBC,2013,S,PHYS,102,,952,ELEC LIGHT & RAD,"Charbonneau, Arthur;Koster, Evert",135,74.15,11.94,95,31,127,7,1,0,0,0,0,0,1,6,7,3,8,6,10,17,10,19,27,20,7
+UBC,2013,W,PHYS,100,,101,INTRO PHYSICS,"Koster, Evert;Rieger, Georg",255,72.39,14.21,99,30,220,25,5,0,4,0,0,0,13,12,25,2,3,8,13,55,24,27,42,26,20
+UBC,2013,W,PHYS,100,,102,INTRO PHYSICS,"Koster, Evert;Pavan, Marcello;Rieger, Georg",241,74.94,11.44,94,23,231,8,2,0,0,0,0,2,3,3,8,5,2,6,14,45,38,34,45,20,22
+UBC,2013,W,PHYS,100,,103,INTRO PHYSICS,"Koster, Evert;Reinsberg, Stefan;Rieger, Georg",265,71.58,13.98,97,27,236,22,4,0,1,0,0,1,11,10,22,6,7,12,16,50,39,21,44,22,19
+UBC,2013,W,PHYS,101,,201,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",250,75.17,13.74,97,15,232,14,4,0,0,0,1,2,0,11,14,8,9,11,12,27,24,39,34,38,30
+UBC,2013,W,PHYS,101,,202,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",286,79.42,13.97,99,24,259,16,8,1,2,0,0,2,0,14,16,6,3,8,10,15,24,30,43,54,66
+UBC,2013,W,PHYS,101,,203,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",226,75.98,12.97,99,29,212,10,4,0,0,0,0,1,1,8,10,3,9,11,25,10,29,29,33,32,31
+UBC,2015,W,PHYS,101,,LM1,ENERGY & WAVES,"Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,PHYS,100,,L1H,INTRO PHYSICS,"Koster, Evert",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

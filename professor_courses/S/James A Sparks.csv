@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,MUSC,153,A,001,University Singers,Andrew Bortz;Eshantha Peiris;Frances Roberts;Graeme Langager;James A Sparks;James Sparks;Nathan Cook,26,96.115384615,2.06546698,99.0,88.0,0,0,0,0,0,0,0,0,0,1,25
+UBCV,2015,W,MUSC,154,A,001,University Choral Union,Andrew Bortz;Frances Roberts;Graeme Langager;Irene Setiawan;James A Sparks;James Sparks;Nathan Cook,115,90.504347826,7.340555351,99.0,45.0,,,,,,,,,7,23,81
+UBCV,2015,W,MUSC,156,A,001,Vocal Chamber Ensembles,Graeme Langager;James A Sparks;James Sparks;Nathan Cook;Winnie Ho;Winnie Yi Wei Ho,104,93.144230769,3.773742366,99.0,80.0,0,0,0,0,0,0,0,0,3,7,94
+UBCV,2015,W,MUSC,156,B,001,Vocal Chamber Ensembles,Andrew Bortz;Frances Roberts;Graeme Langager;James A Sparks;James Sparks;Winnie Ho;Winnie Yi Wei Ho,40,91.175,5.546481906,98.0,80.0,0,0,0,0,0,0,0,0,6,3,31
+UBCV,2015,W,MUSC,156,C,001,Vocal Chamber Ensembles,Andrew Bortz;Graeme Langager;James A Sparks;James Sparks;Nathan Cook;Winnie Ho;Winnie Yi Wei Ho,10,94.2,3.583914682,98.0,85.0,0,0,0,0,0,0,0,0,0,1,9
+UBCV,2015,W,MUSC,156,E,001,Vocal Chamber Ensembles,Andrew Bortz;Graeme Langager;James A Sparks;James Sparks;Nathan Cook,6,95.666666667,1.032795559,97.0,95.0,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2016,W,MUSC,313,,001,Choral Conducting,Demi Chao;Demi Tzu Ting Chao;Graeme Langager;James A Sparks;James Sparks,18,84.77777778,8.828800169,95.0,60.0,0,0,0,1,0,0,2,1,2,7,5
+UBCV,2017,W,MUSC,313,,001,Choral Conducting,Demi Chao;Demi Tzu Ting Chao;Graeme Langager;James A Sparks;James Sparks,10,88.7,6.650814486,96.0,75.0,0,0,0,0,0,0,1,0,2,1,6
+UBCV,2019,W,MUSC,313,,002,Choral Conducting,James A Sparks;James Sparks;Yun Hsien Chen,7,77.857142857,14.960264831,88.0,45.0,1,0,0,0,0,0,0,1,3,2,0
+UBCV,2019,W,MUSC,313,,003,Choral Conducting,James A Sparks;James Sparks;Yun Hsien Chen,11,85.636363636,7.99090392,99.0,73.0,0,0,0,0,0,0,1,1,4,2,3
+UBCV,2020,W,MUSC,311,,001,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Minna Stelzner;Robert Taylor,17,85.235294118,8.656857194,97.0,66.0,0,0,0,0,1,1,1,0,4,5,5
+UBCV,2020,W,MUSC,311,,002,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Jonathan Girard;Monica Chen,19,87.684210526,5.110475424,97.0,81.0,0,0,0,0,0,0,0,0,7,5,7
+UBCV,2020,W,MUSC,313,,001,Choral Conducting,Elvin Do;Graeme Langager;Han-Ah Park;James A Sparks;James Sparks,26,83.615384615,13.341894687,98.0,36.0,1,0,0,2,0,0,1,2,3,6,11

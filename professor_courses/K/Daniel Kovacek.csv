@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,S,CIVL,598,G,941,Topics in Civil Engineering,Daniel Kovacek;Steven Weijs,7,86.142857143,3.436498772,90.0,82.0,0,0,0,0,0,0,0,0,3,2,2,,,
+UBCV,2020,S,IWME,502,,941,Engineering Hydrology,Daniel Kovacek;Steven Weijs,9,82.111111111,5.988414741,91.0,72.0,0,0,0,0,0,0,1,2,2,3,1,,,
+UBCV,2020,W,CIVL,418,,101,Engineering Hydrology,Daniel Kovacek;Hossein Foroozand;Steven Weijs,76,81.697368421,10.385913199,94.0,32.0,1,1,1,1,1,5,5,9,14,26,12,,,
+UBCV,2021,W,CIVL,418,,101,Engineering Hydrology,Alexander Werenka;Daniel Kovacek;Steven Weijs,69,80.449275362,10.960539156,95.0,50.0,0,2,3,2,1,5,3,14,8,14,17,,,
+UBCV,2022,W,CIVL,418,,101,Engineering Hydrology,Daniel Kovacek,50,80.0,,95.0,45.0,1,0,0,1,2,5,5,3,16,7,10,80.0,86.0,74.3

@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,S,EPSE,408,,951,ED PRG HGHLY ABL,"Chartres, Lynn",17,91.06,7.41,100,76,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,11,,,
+UBC,2011,S,EPSE,408,,951,ED PRG HGHLY ABL,"Chartres, Lynn",11,91.45,6.7,99,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,,,
+UBC,2011,W,EPSE,303,,63A,TCH'G HGHLY ABLE,"Chartres, Lynn",13,91.77,3.83,98,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10,,,
+UBC,2011,W,EPSE,408,,63C,ED PRG HGHLY ABL,"Chartres, Lynn",18,87.94,19.4,100,17,17,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,0,0,14,,,
+UBC,2012,S,EPSE,408,,951,ED PRG HGHLY ABL,"Chartres, Lynn",19,93.78,5.4,100,83,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,14,,,
+UBC,2012,W,EPSE,303,,63A,TCH'G HGHLY ABLE,"Chartres, Lynn",20,89.15,6.23,98,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,10,,,
+UBC,2012,W,EPSE,408,,63C,ED PRG HGHLY ABL,"Chartres, Lynn",17,88,11.26,98,65,17,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,2,11,,,
+UBC,2013,S,EPSE,408,,951,ED PRG HGHLY ABL,"Chartres, Lynn",19,92.11,11.01,98,50,19,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,16,,,
+UBC,2013,W,EPSE,303,,63A,TCH'G HGHLY ABLE,"Chartres, Lynn",32,89.28,7.76,99,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,0,21,,,
+UBC,2013,W,EPSE,390,A,63C,SELECTED TOPICS,"Chartres, Lynn",13,90.08,11.02,99,58,12,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,9,,,
+UBC,2013,W,EPSE,408,,63C,ED PRG HGHLY ABL,"Chartres, Lynn",22,88.43,9.22,100,72,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,2,12,,,
+UBC,2014,S,EPSE,390,A,921,SELECTED TOPICS,"Chartres, Lynn",9,93.13,6.66,99,78,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,,,
+UBC,2014,S,EPSE,408,,951,ED PRG HGHLY ABL,"Chartres, Lynn",21,92.63,7.5,100,79,19,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,13,,,
+UBCV,2014,S,EPSE,390,A,921,Special Topics,Lynn Chartres,8,93.125,6.664136425,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,7,,,
+UBCV,2014,S,EPSE,408,,951,Educational Programming for Highly Able Learners,Lynn Chartres,19,92.63157895,7.499707597,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,13,,,
+UBCV,2022,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Lynn Chartres,36,92.8,,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,27,92.0,97.0,89.8

@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CHIN,461,,002,CLAS POET HAN,"Xu, Xiaowen",58,73.47,11.15,94,25,54,1,3,0,0,0,0,1,0,0,1,1,1,5,1,11,13,6,8,5,3,,,
+UBC,2017,W,CHIN,471,,002,CLAS POET TANG,"Xu, Xiaowen",60,75.8,7.19,90,57,59,0,1,0,0,0,0,0,0,0,0,0,1,1,6,9,11,12,10,8,1,,,
+UBC,2017,W,CHIN,481,,001,MOD CHIN LIT 1,"Xu, Xiaowen",60,77.11,6.01,90,64,55,0,4,0,1,0,0,0,0,0,0,0,0,0,2,6,10,18,13,5,1,,,
+UBC,2017,W,CHIN,491,,002,CLASS CHIN 1,"Xu, Xiaowen",47,76.64,5.84,88,66,47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,14,12,7,7,0,,,
+UBC,2017,W,CHIN,493,,002,CLASS CHIN 2,"Xu, Xiaowen",59,79.27,10.6,98,27,58,1,0,0,0,0,0,1,0,0,1,0,1,1,4,2,6,11,15,14,4,,,
+UBC,2018,S,CHIN,482,A,921,SUP STUDY CHIN,"Xu, Xiaowen",20,74.8,8.55,88,51,20,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,5,4,2,3,0,,,
+UBC,2018,W,CHIN,461,,001,CLAS POET HAN,"Xu, Xiaowen",60,75.47,8.49,93,59,60,0,0,0,0,0,0,0,0,0,0,0,1,4,6,9,10,11,10,6,3,,,
+UBC,2018,W,CHIN,463,,001,CLAS POET TANG,"Xu, Xiaowen",56,76.18,9.45,94,50,55,0,1,0,0,0,0,0,0,0,0,2,1,3,2,8,5,6,22,4,2,,,
+UBC,2018,W,CHIN,481,,007,MOD CHIN LIT 1,"Xu, Xiaowen",56,74.51,13.2,91,0,54,1,1,0,0,1,0,0,0,0,1,2,1,3,2,3,12,12,12,6,1,,,
+UBC,2018,W,CHIN,483,,007,MOD CHIN LIT 2,"Xu, Xiaowen",34,76.38,9.77,90,44,33,1,0,0,0,0,0,0,0,1,1,1,0,0,2,2,11,2,9,4,2,,,
+UBCV,2017,W,CHIN,461,,002,Early Classical Chinese Poetry (to Han),Xiaowen Xu,55,73.472727273,11.151904912,94.0,25.0,,,,,,,,,,,1,1,1,5,1,11,13,6,8,5,3,,,
+UBCV,2017,W,CHIN,471,,002,Later Classical Chinese Poetry (Tang),Jerry Dean Schmidt;Xiaowen Xu;Yinzong Wei,59,75.796610169,7.189023388,90.0,57.0,,,,,,,,,,,0,0,1,1,6,9,11,12,10,8,1,,,
+UBCV,2017,W,CHIN,481,,001,Modern Chinese Literature I (Heritage),Leo Shin;Xiaowen Xu,56,75.732142857,11.898802188,90.0,0.0,,,,,,,,,,,1,0,0,0,2,6,10,18,13,5,1,,,
+UBCV,2017,W,CHIN,491,,002,Classical Chinese I (Heritage),Xiaowen Xu,47,76.638297872,5.836264186,88.0,66.0,,,,,,,,,,,0,0,0,0,1,6,14,12,7,7,0,,,
+UBCV,2017,W,CHIN,493,,002,Classical Chinese II (Heritage),Xiaowen Xu,59,79.271186441,10.599008588,98.0,27.0,,,,,,,,,,,1,0,1,1,4,2,6,11,15,14,4,,,
+UBCV,2018,S,CHIN,482,A,921,Supervised Study in the Chinese Language,Qian Wang;Xiaowen Xu,20,74.8,8.550777127,88.0,51.0,,,,,,,,,,,0,1,0,0,2,3,5,4,2,3,0,,,
+UBCV,2018,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Huai-Chuan Mou;Qian Wang;Xiaowen Xu;Zoudan Ma,60,75.466666667,8.492203137,93.0,59.0,,,,,,,,,,,0,0,1,4,6,9,10,11,10,6,3,,,
+UBCV,2018,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Huai-Chuan Mou;Qian Wang;Xiaowen Xu;Zoudan Ma,55,76.181818182,9.449849909,94.0,50.0,,,,,,,,,,,0,2,1,3,2,8,5,6,22,4,2,,,
+UBCV,2018,W,CHIN,471,,002,Later Classical Chinese Poetry (Tang),Jerry Dean Schmidt;Qian Wang;Xiaowen Xu;Yinzong Wei,59,76.033898305,5.632314713,88.0,59.0,,,,,,,,,,,0,0,1,1,2,5,17,17,13,3,0,,,
+UBCV,2018,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Jerry Dean Schmidt;Qian Wang;Xiaowen Xu,60,76.4,6.955548937,91.0,63.0,,,,,,,,,,,0,0,0,1,6,6,15,13,10,6,3,,,
+UBCV,2018,W,CHIN,481,,001,Modern Chinese Literature I (Heritage),Qian Wang;Xiaowen Xu;Zhining Zheng,77,77.74025974,4.168814666,88.0,66.0,,,,,,,,,,,0,0,0,0,1,2,18,31,19,6,0,,,
+UBCV,2018,W,CHIN,481,,007,Modern Chinese Literature I (Heritage),Jiaqi Yao;Qian Wang;Xiaowen Xu,55,74.509090909,13.204758861,91.0,0.0,,,,,,,,,,,1,2,1,3,2,3,12,12,12,6,1,,,
+UBCV,2018,W,CHIN,481,,903,Modern Chinese Literature I (Heritage),Jiaqi Yao;Maorong Cheng;Qian Wang;Tianming Li;Xiaowen Xu,34,72.941176471,13.867208271,85.0,0.0,,,,,,,,,,,1,0,0,1,2,2,11,12,3,2,0,,,
+UBCV,2018,W,CHIN,481,,904,Modern Chinese Literature I (Heritage),Jiaqi Yao;Maorong Cheng;Qian Wang;Xiaowen Xu,46,76.673913043,4.184916555,86.0,66.0,,,,,,,,,,,0,0,0,0,1,2,13,20,7,3,0,,,
+UBCV,2018,W,CHIN,483,,007,Modern Chinese Literature II (Heritage),Jiaqi Yao;Qian Wang;Xiaowen Xu,34,76.382352941,9.770129821,90.0,44.0,,,,,,,,,,,1,1,0,0,2,2,11,2,9,4,2,,,
+UBCV,2018,W,CHIN,491,,002,Classical Chinese I (Heritage),Bin Zheng;Qian Wang;Xiaowen Xu,60,76.583333333,9.285110491,89.0,30.0,,,,,,,,,,,1,1,0,2,4,0,8,24,14,6,0,,,
+UBCV,2018,W,CHIN,493,,002,Classical Chinese II (Heritage),Bin Zheng;Qian Wang;Xiaowen Xu,59,76.033898305,10.883340799,91.0,21.0,,,,,,,,,,,1,0,1,3,3,7,10,14,9,7,4,,,
+UBCV,2019,S,CHIN,465,,921,Fantasy in Chinese Literature,Qian Wang;Xiaowen Xu,57,77.403508772,8.955962996,96.0,60.0,,,,,,,,,,,0,0,0,3,4,7,9,14,7,6,7,,,
+UBCV,2019,S,CHIN,482,A,921,Supervised Study in the Chinese Language,Qian Liu;Qian Wang;Xiaowen Xu,40,73.925,9.0593131,89.0,45.0,,,,,,,,,,,1,0,0,4,3,6,5,12,5,4,0,,,
+UBCV,2019,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Qian Wang;Tianran Han;Xiaowen Xu,59,79.711864407,5.28840908,89.0,63.0,,,,,,,,,,,0,0,0,1,0,2,5,19,22,10,0,,,
+UBCV,2019,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Qian Wang;Xiaowen Kong;Xiaowen Xu,58,76.931034483,6.558407137,89.0,63.0,,,,,,,,,,,0,0,0,2,6,5,8,11,20,6,0,,,
+UBCV,2019,W,CHIN,471,,002,Later Classical Chinese Poetry (Tang),Qian Wang;Xiaowen Xu;Xue Shun Liu;Yinzong Wei,59,76.949152542,5.260207577,91.0,64.0,,,,,,,,,,,0,0,0,0,2,5,12,22,14,3,1,,,
+UBCV,2019,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Qian Wang;Xiaowen Xu;Xue Shun Liu,60,75.916666667,7.026081355,88.0,56.0,,,,,,,,,,,0,0,1,0,5,13,8,11,17,5,0,,,
+UBCV,2019,W,CHIN,481,,001,Modern Chinese Literature I (Heritage),Qian Liu;Qian Wang;Tianran Han;Xiaowen Xu;Zhining Zheng,60,75.433333333,5.817468337,89.0,61.0,,,,,,,,,,,0,0,0,1,2,13,15,14,10,5,0,,,
+UBCV,2019,W,CHIN,481,,007,Modern Chinese Literature I (Heritage),Maorong Cheng;Qian Liu;Qian Wang;Tianran Han;Xiaowen Xu,59,78.661016949,2.758123859,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,34,18,4,0,,,
+UBCV,2019,W,CHIN,483,,005,Modern Chinese Literature II (Heritage),Maorong Cheng;Qian Liu;Qian Wang;Xiaowen Xu;Zheng Cai,60,77.45,6.15732993,86.0,50.0,,,,,,,,,,,0,1,1,1,0,0,6,27,21,3,0,,,
+UBCV,2020,S,CHIN,465,,921,Fantasy in Chinese Literature,Qian Wang;Xiaowen Xu,57,76.175438596,6.622803698,88.0,61.0,,,,,,,,,,,0,0,0,3,5,4,10,12,18,5,0,,,
+UBCV,2020,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Xiaowen Xu,58,75.448275862,11.990013994,94.0,5.0,,,,,,,,,,,1,1,0,2,1,7,10,13,16,6,1,,,
+UBCV,2020,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Calvin Lin;Lin Calvin;Xiaowen Xu,53,78.490566038,12.772600846,94.0,0.0,,,,,,,,,,,1,0,0,0,1,5,4,17,12,7,6,,,
+UBCV,2020,W,CHIN,465,,001,Fantasy in Chinese Literature,Calvin Lin;Xiaowen Xu;Zhaokun Xin,54,74.333333333,12.437011107,96.0,23.0,,,,,,,,,,,1,3,2,1,6,3,7,17,5,5,4,,,
+UBCV,2020,W,CHIN,481,,001,Modern Chinese Literature I (Heritage),Miru Wang;Xiaowen Xu,59,77.830508475,7.93758528,94.0,60.0,,,,,,,,,,,0,0,0,4,2,3,9,19,11,6,5,,,
+UBCV,2020,W,CHIN,483,,002,Modern Chinese Literature II (Heritage),Calvin Lin;Lin Calvin;Xiaowen Xu;Zhaokun Xin;Zhining Zheng;Zoudan Ma,56,74.732142857,16.634565406,98.0,0.0,,,,,,,,,,,3,1,3,2,0,5,7,16,6,7,6,,,
+UBCV,2020,W,CHIN,483,,005,Modern Chinese Literature II (Heritage),Calvin Lin;Lin Calvin;Xiaowen Xu;Zhaokun Xin;Zoudan Ma,52,72.192307692,20.742150381,97.0,0.0,,,,,,,,,,,5,0,2,2,5,4,1,13,10,7,3,,,
+UBCV,2021,S,CHIN,465,,921,Fantasy in Chinese Literature,Xiaowen Xu;Zheng Cai,59,80.474576271,10.346340236,97.0,51.0,,,,,,,,,,,0,2,1,1,5,1,1,15,12,13,8,,,
+UBCV,2021,S,CHIN,466,,951,Chinese Martial Arts Fiction,Xiaowen Xu,57,79.052631579,7.776845331,95.0,56.0,,,,,,,,,,,0,0,1,1,2,5,8,12,14,10,4,,,
+UBCV,2021,W,CHIN,388,,001,Introduction to Classical Chinese I (Non-Heritage),Hsueh-Ni Chen;Kay Jane Duffy;Xiaowen Xu,7,79.714285714,20.467163016,94.0,37.0,,,,,,,,,,,1,0,0,0,0,0,1,0,1,1,3,,,
+UBCV,2021,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Chenxi Ouyang;Xiaowen Xu,57,79.631578947,6.960684436,92.0,63.0,,,,,,,,,,,0,0,0,1,4,4,7,8,20,11,2,,,
+UBCV,2021,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Jingyi Wu;Xiaowen Xu,46,77.673913043,9.28332878,90.0,40.0,,,,,,,,,,,1,1,0,0,3,5,3,10,14,6,3,,,
+UBCV,2021,W,CHIN,466,,002,Chinese Martial Arts Fiction,Xiaowen Xu,46,79.086956522,8.371449063,90.0,50.0,,,,,,,,,,,0,2,0,0,2,0,8,8,13,12,1,,,
+UBCV,2021,W,CHIN,481,,001,Modern Chinese Literature I (Heritage),Jingyi Wu;Xiaowen Xu;Zhaokun Xin,59,77.491525424,13.523125635,96.0,0.0,,,,,,,,,,,2,0,0,1,2,5,8,22,1,11,7,,,
+UBCV,2021,W,CHIN,483,,011,Modern Chinese Literature II (Heritage),Jingyi Wu;Jinting Lin;Xiaowen Xu,42,78.69047619,12.027383584,95.0,20.0,,,,,,,,,,,1,0,0,2,2,1,3,10,11,8,4,,,
+UBCV,2021,W,PERS,200,,002,Intermediate-Low Persian I,Hessam Dehghani;Xiaowen Xu,14,88.857142857,6.94879229,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,4,7,,,
+UBCV,2021,S,CHIN,466,,951,Chinese Martial Arts Fiction,Xiaowen Xu,57,79.1,,95.0,56.0,,,,,,,,,,,,,,,,,8,12,14,10,,78.0,84.0,75.0
+UBCV,2021,W,CHIN,388,,001,Introduction to Classical Chinese I (Non-Heritage),Xiaowen Xu,7,87.7,,94.0,72.0,,,,,,,,,,,,,,,,,,,,,,93.0,93.5,84.0
+UBCV,2021,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Xiaowen Xu,57,79.6,,92.0,63.0,,,,,,,,,,,,,,,,,7,8,20,11,,81.0,84.0,75.0
+UBCV,2021,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Xiaowen Xu,46,77.7,,90.0,40.0,,,,,,,,,,,,,,,,,,10,14,6,,79.5,84.0,74.3
+UBCV,2021,W,CHIN,466,,002,Chinese Martial Arts Fiction,Xiaowen Xu,46,79.1,,90.0,50.0,,,,,,,,,,,,,,,,,8,8,13,12,,80.5,85.0,75.5
+UBCV,2021,W,CHIN,483,,011,Modern Chinese Literature II (Heritage),Xiaowen Xu,42,79.0,,95.0,20.0,,,,,,,,,,,,,,,,,,11,11,8,,82.0,85.0,77.0
+UBCV,2022,S,CHIN,465,,951,Fantasy in Chinese Literature,Zhaokun Xin;Xiaowen Xu,60,76.7,,94.0,59.0,,,,,,,,,,,0,0,2,5,4,5,10,14,8,5,7,77.0,83.0,71.0
+UBCV,2022,S,CHIN,482,A,951,Supervised Study in the Chinese Language,Zhaokun Xin;Xiaowen Xu,22,76.7,,87.0,63.0,,,,,,,,,,,0,0,0,1,0,3,7,3,5,3,0,76.0,82.0,72.3
+UBCV,2022,W,CHIN,463,,001,Early Classical Chinese Poetry (Han to Tang),Xiaowen Xu,54,78.5,,92.0,57.0,,,,,,,,,,,0,0,1,3,2,5,6,10,12,11,4,79.5,85.0,73.3
+UBCV,2022,W,CHIN,465,,001,Fantasy in Chinese Literature,Xiaowen Xu,50,76.5,,92.0,20.0,,,,,,,,,,,1,1,1,1,2,1,9,11,17,4,2,78.0,82.0,74.0
+UBCV,2022,W,CHIN,481,,004,Modern Chinese Literature I (Heritage),Xiaowen Xu,60,77.0,,90.0,50.0,,,,,,,,,,,0,2,0,1,1,9,12,14,8,9,4,78.0,83.3,72.8
+UBCV,2022,W,CHIN,483,,002,Modern Chinese Literature II (Heritage),Xiaowen Xu,49,78.2,,95.0,15.0,,,,,,,,,,,1,2,0,2,2,1,7,7,10,11,6,82.0,87.0,73.0
+UBCV,2023,S,CHIN,489,,921,Reading Modern Sinophone Literature,Xiaowen Xu,52,79.08,,91.0,61.0,,,,,,,,,,,0,0,0,2,2,2,6,9,17,9,1,80.0,84.0,75.75
+UBCV,2023,W,CHIN,471,,013,Later Classical Chinese Poetry (Tang),Yuqing Liu;Xiaowen Xu,38,74.78,,95.0,53.0,,,,,,,,,,,0,1,4,0,2,8,4,5,7,3,3,75.0,83.0,69.0
+UBCV,2023,W,CHIN,481,,013,Modern Chinese Literature I (Heritage),Xiaowen Xu,50,77.68,,91.0,14.0,,,,,,,,,,,2,1,0,1,1,3,3,6,20,12,1,82.0,84.75,77.0
+UBCV,2023,W,CHIN,489,,021,Reading Modern Sinophone Literature,Xiaowen Xu,33,81.16,,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,5,15,4,3,82.0,84.0,78.0

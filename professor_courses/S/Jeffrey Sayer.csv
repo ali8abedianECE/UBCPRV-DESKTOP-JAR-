@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FRST,553,,101,INT FRST GOV POL,"Riggs, Rebecca;Sayer, Jeffrey",16,83.56,4.59,91,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,2,3,,,
+UBC,2018,W,FRST,562,,001,DS INTL FORSTRY,"Sayer, Jeffrey",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2018,W,FRST,553,,101,International Forest Governance and Policy,Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,16,83.5625,4.589389938,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,2,3,,,
+UBCV,2019,W,FRST,553,,101,International Forest Governance and Policy,Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,20,86.05,4.751454071,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,6,6,,,
+UBCV,2020,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,13,82.692307692,4.150996173,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,6,0,,,
+UBCV,2020,W,FRST,553,,101,International Forest Governance and Policy,Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,11,88.0,5.531726674,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,4,4,,,
+UBCV,2021,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,21,84.904761905,3.433726284,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,11,2,,,
+UBCV,2021,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",Agni Boedhihartono;James Langston;Janette Bulkan;Jeffrey Sayer;Rebecca Riggs,19,85.789473684,6.868437857,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,5,7,,,
+UBCV,2021,W,FRST,553,,101,International Forest Governance and Policy,Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,18,86.666666667,3.497898529,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,8,4,,,
+UBCV,2021,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,21,84.9,,91.0,79.0,,,,,,,,,,,,,,,,,,,6,11,,85.0,87.0,83.0
+UBCV,2021,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,19,85.8,,97.0,71.0,,,,,,,,,,,,,,,,,,,,,7,86.0,91.0,82.0
+UBCV,2021,W,FRST,553,,101,International Forest Governance and Policy,Rebecca Riggs;Jeffrey Sayer,18,86.7,,93.0,81.0,,,,,,,,,,,,,,,,,,,6,8,,86.5,88.0,84.0
+UBCV,2022,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,18,79.2,,92.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,2,8,3,4,82.5,86.8,81.0
+UBCV,2022,W,FRST,543,,201,"International Forestry Institutions, Diplomacy and Negotiation",Jeffrey Sayer,13,89.0,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,3,89.0,89.0,87.0
+UBCV,2022,W,FRST,553,,101,International Forest Governance and Policy,Rebecca Riggs;Jeffrey Sayer,14,87.3,,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,6,4,86.5,89.8,84.5

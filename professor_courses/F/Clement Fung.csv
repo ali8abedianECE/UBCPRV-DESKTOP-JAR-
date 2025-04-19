@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2016,W,CPSC,210,,101,Software Construction,Clement Fung;Norman Hutchinson,156,77.65384615,15.46803315,100.0,18.0,11,1,0,4,15,13,16,12,28,23,33
+UBCV,2016,W,CPSC,210,,103,Software Construction,Clement Fung;Ryan Vogt,134,69.11940299,17.2565972,98.0,5.0,15,2,9,17,12,12,13,20,13,11,10
+UBCV,2016,W,CPSC,210,,201,Software Construction,Clement Fung;Norman Hutchinson,147,73.65306122,17.5189342,100.0,4.0,14,3,8,8,14,11,13,14,20,17,25
+UBCV,2018,W,DSCI,571,,001,Supervised Learning I,Clement Fung;Giuseppe Carenini;Joseph Khoury;Michael Gelbart;Patrice Belleville;Xiaomeng Ju,69,91.826086957,5.271891394,100.0,78.0,0,0,0,0,0,0,0,3,4,10,52

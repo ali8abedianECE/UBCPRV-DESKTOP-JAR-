@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ENGR,455,,201,Power System Analysis and Design,Malcolm Metcalfe,17,78.94117647,12.5621982,97.0,59.0,0,0,,,,,,,,,6,,,
+UBCO,2015,W,ENGR,305,,201,Engineering Economic Analysis,Malcolm Metcalfe;Ngandu Balekelayi;William Threlfall,197,76.558375635,10.165612974,100.0,52.0,0,3,9,13,15,24,21,23,41,28,20,,,
+UBCO,2015,W,ENGR,455,,201,Power System Analysis and Design,Bradley A Reinholz;Bradley Reinholz;Malcolm Metcalfe,19,83.105263158,8.856226541,96.0,61.0,0,0,0,,,,,,,,6,,,
+UBCO,2016,W,ENGR,455,,201,Power System Analysis and Design,Bradley A Reinholz;Bradley Reinholz;Malcolm Metcalfe,37,77.48648649,9.685675625,96.0,57.0,0,0,2,2,2,2,7,6,6,6,4,,,
+UBCO,2017,W,ENGR,455,,101,Power System Analysis and Design,Bradley A Reinholz;Bradley Reinholz;Malcolm Metcalfe;Naomi Fredeen;Naomi Victoria Fredeen,36,72.861111111,9.983279672,91.0,44.0,1,0,1,4,6,3,4,9,4,3,1,,,
+UBCO,2018,W,ENGR,455,,101,Power System Analysis and Design,Alireza Eyvazizadeh Khosroshahi;Malcolm Metcalfe,29,76.655172414,11.120366971,100.0,53.0,0,1,1,3,0,3,5,4,5,3,4,,,
+UBCO,2019,W,ENGR,455,,101,Power System Analysis and Design,Alireza Eyvazizadeh Khosroshahi;Malcolm Metcalfe;Morad Abdelaziz,17,83.117647059,7.647567856,97.0,68.0,0,0,0,0,0,1,2,3,3,5,3,,,
+UBCO,2020,W,ENGR,305,,201,Engineering Economic Analysis,John Alan Brereton;Maher Al-Hawarneh;Malcolm Metcalfe;Zahra Azimi Dijvejin,189,81.248677249,13.017441689,100.0,45.0,3,5,10,3,8,12,15,15,26,36,56,,,
+UBCO,2021,W,ENGR,498,M,001,Special Topics in Engineering,Malcolm Metcalfe,22,83.772727273,5.723234335,92.0,71.0,0,0,0,0,0,1,1,4,3,9,4,,,
+UBCO,2021,W,ENGR,498,M,001,Special Topics in Engineering,Malcolm Metcalfe,22,83.8,,92.0,71.0,,,,,,,,,,9,,85.5,87.0,79.5
+UBCO,2022,W,ENGR,408,,001,Energy System Transition,Paul Chernikhowsky;Malcolm Metcalfe,38,87.0,,100.0,73.0,0,0,0,0,0,0,1,1,11,11,14,87.0,91.8,81.5
+UBCO,2023,W,ENGR,408,,001,Energy System Transition,Paul Chernikhowsky;Malcolm Metcalfe,45,82.8,,95.0,64.0,0,0,0,0,1,1,2,5,16,15,5,84.0,86.0,80.0

@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,HCEP,505,,001,SC EPIDMLGY THNK,"Buxton, Jane",11,85.91,4.37,92,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,2
+UBC,2009,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",26,84.35,2.54,89,80,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,14,0
+UBC,2010,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",29,83.48,4.52,90,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,9,13,2
+UBC,2011,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",29,86.34,2.84,93,82,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,17,4
+UBC,2012,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",22,85.73,3.48,92,80,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,5
+UBC,2013,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",22,86.43,2.29,91,83,21,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,3
+UBC,2014,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",15,87.6,2.69,91,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3
+UBC,2015,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",27,84.88,4.79,93,73,25,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,10,8,5
+UBC,2016,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",20,87.3,4.08,92,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,9
+UBC,2017,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",19,88.16,2.99,92,83,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,8
+UBC,2018,W,SPPH,505,,001,SCI EPIDMGL THNK,"Buxton, Jane",11,87.91,4.5,93,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4
+UBCV,2014,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Jane Buxton,15,87.6,2.693908472,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,10,
+UBCV,2015,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,25,84.88,4.789919971,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,10,8,5
+UBCV,2016,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,20,87.3,4.07947365,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,9
+UBCV,2017,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,19,88.157894737,2.986323602,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,8
+UBCV,2018,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,11,87.909090909,4.504543161,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,4

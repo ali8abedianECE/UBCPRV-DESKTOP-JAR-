@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,MATH,307,,202,APPL LINEAR ALGB,"Donaldson, Roger",49,64.55,19.25,100,0,40,7,0,0,2,1,0,0,3,3,7,5,8,5,0,5,3,4,2,3,5
+UBC,2014,W,MATH,521,,201,NUM ANLY PRTL DF,"Donaldson, Roger",8,94.17,3.82,100,88,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2015,W,MATH,307,,202,APPL LINEAR ALGB,"Donaldson, Roger",53,66.9,19.54,97,0,44,5,2,0,1,1,1,0,3,0,5,6,3,5,3,7,3,3,4,5,5
+UBC,2017,S,MATH,307,,921,APPL LINEAR ALGB,"Donaldson, Roger",113,66.36,14.1,95,34,98,9,1,0,3,0,0,0,3,6,9,12,17,9,5,12,11,11,7,7,7
+UBCV,2014,W,MATH,521,,201,Numerical Analysis of Partial Differential Equations,Roger Donaldson,8,71.5,42.13583477,100.0,0.0,,,,,,,,,,,,,,,,,,,,,5
+UBCV,2015,W,MATH,307,,202,Applied Linear Algebra,Roger Donaldson,51,65.62745098,20.957061611,97.0,0.0,,,,,,,,,,,6,6,3,6,3,7,,,4,5,5
+UBCV,2017,S,MATH,307,,921,Applied Linear Algebra,Ozgur Yilmaz;Roger Donaldson,112,65.1875,16.655779101,95.0,3.0,,,,,,,,,,,12,12,17,9,5,12,11,11,8,8,7

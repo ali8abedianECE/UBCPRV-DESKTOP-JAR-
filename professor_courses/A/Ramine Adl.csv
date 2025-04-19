@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,FREN,103,,001,Beginner's French II,Ramine Adl,53,74.86792453,18.42347764,96.0,0.0,,,,,,6,,,9,10,9,,,
+UBCO,2014,W,FREN,103,,101,Beginner's French II,Ramine Adl,78,79.53846154,15.54690624,100.0,0.0,,,,,6,,7,,20,10,20,,,
+UBCO,2014,W,FREN,220,,001,French Literature and Textual Analysis I,Ramine Adl,6,77.16666667,8.931218655,90.0,65.0,0,0,0,0,,,,,,,,,,
+UBCO,2015,W,FREN,221,,001,French Literature and Textual Analysis II,Ramine Adl,16,73.8125,8.930985388,97.0,60.0,0,0,0,,,,6,,,,,,,
+UBCO,2015,W,FREN,355,,001,Advanced Composition,Ramine Adl,8,83.5,7.050835817,92.0,72.0,0,0,0,0,0,0,,,,,,,,
+UBCO,2016,W,FREN,355,,001,Advanced Composition,Ramine Adl,15,77.53333333,12.08816816,98.0,56.0,0,0,1,0,2,1,3,2,1,2,3,,,
+UBCO,2017,W,FREN,353,,001,French Grammar,Ramine Adl,17,82.352941176,7.936790728,93.0,63.0,0,0,0,1,0,0,2,1,5,4,4,,,
+UBCO,2017,W,FREN,355,,001,Advanced Composition,Ramine Adl,18,83.055555556,7.974018267,94.0,65.0,0,0,0,0,1,0,3,1,4,4,5,,,
+UBCO,2018,W,FREN,102,,002,Beginner's French I,Ramine Adl,35,81.085714286,13.162717913,97.0,39.0,1,1,1,0,2,1,4,2,5,9,9,,,
+UBCO,2018,W,FREN,103,,101,Beginner's French II,Ramine Adl,38,75.0,19.774403329,98.0,23.0,4,1,1,2,2,3,4,1,4,3,13,,,
+UBCO,2018,W,FREN,353,,001,French Grammar,Ramine Adl,15,83.866666667,11.843422929,95.0,54.0,0,1,0,0,1,0,0,3,0,3,7,,,
+UBCO,2018,W,FREN,355,,001,Advanced Composition,Ramine Adl,9,81.111111111,16.85559584,95.0,40.0,1,0,0,0,0,0,1,0,1,2,4,,,
+UBCO,2018,W,FREN,453,,001,Advanced Grammar,Ramine Adl,12,89.75,4.30908132,97.0,83.0,0,0,0,0,0,0,0,0,1,5,6,,,
+UBCO,2019,W,FREN,353,,001,French Grammar,Ramine Adl,16,82.4375,9.208465308,98.0,64.0,0,0,0,0,2,0,0,4,2,3,5,,,
+UBCO,2020,W,FREN,101,,003,Elementary French I,Alexandra Tonnel;Ramine Adl,27,85.259259259,12.726690888,99.0,51.0,0,2,0,1,0,0,0,2,5,4,13,,,
+UBCO,2020,W,FREN,102,,004,Elementary French II,Alexandra Tonnel;Ramine Adl,26,86.269230769,9.357596667,98.0,62.0,0,0,0,1,0,0,4,0,4,4,13,,,
+UBCO,2020,W,FREN,103,,002,Upper Elementary French I,Alexandra Tonnel;Charlotte Favareille;Ramine Adl,18,79.833333333,9.966119075,95.0,57.0,0,0,1,0,0,3,3,1,3,5,2,,,
+UBCO,2020,W,FREN,104,,002,Upper Elementary French II,Alexandra Tonnel;Jelena Jovicic;Ramine Adl,23,75.47826087,10.210821199,92.0,48.0,1,0,0,0,2,7,2,2,4,4,1,,,
+UBCO,2020,W,FREN,353,,001,French Grammar,Ramine Adl,28,80.464285714,9.331278118,93.0,55.0,0,0,1,0,0,4,3,3,8,2,7,,,
+UBCO,2020,W,FREN,355,,001,Advanced Composition,Ramine Adl,25,88.52,8.14002457,98.0,60.0,0,0,0,1,0,0,1,0,3,6,14,,,
+UBCO,2021,W,FREN,101,,003,Elementary French I,Alexandra Tonnel;Ramine Adl,31,82.548387097,12.682898485,98.0,54.0,0,1,2,1,0,1,3,2,5,3,13,,,
+UBCO,2021,W,FREN,102,,004,Elementary French II,Ramine Adl;Stephanie Tolman,37,83.783783784,11.448277733,98.0,56.0,0,0,1,0,3,4,3,2,2,6,16,,,
+UBCO,2021,W,FREN,123,,002,Intermediate French II,Ramine Adl,9,73.111111111,29.930939028,95.0,0.0,1,0,0,1,1,0,0,0,2,1,3,,,
+UBCO,2021,W,FREN,353,,001,French Grammar,Ramine Adl,27,81.407407407,9.009649781,99.0,55.0,0,0,1,0,0,2,1,4,12,3,4,,,
+UBCO,2021,W,FREN,355,,001,Advanced Composition,Charlotte Favareille;Ramine Adl,21,87.142857143,5.87610172,96.0,68.0,0,0,0,0,0,1,0,0,3,10,7,,,
+UBCO,2021,W,FREN,123,,002,Intermediate French II,Ramine Adl,8,82.3,,95.0,60.0,,,,,,,,,,,,85.5,91.0,78.0
+UBCO,2021,W,FREN,353,,001,French Grammar,Ramine Adl,27,81.4,,99.0,55.0,,,,,,,,,12,,,82.0,85.0,78.0
+UBCO,2021,W,FREN,355,,001,Advanced Composition,Ramine Adl;Charlotte Favareille,21,87.1,,96.0,68.0,,,,,,,,,,10,7,88.0,90.0,86.0
+UBCO,2022,W,FREN,353,,001,French Grammar,Ramine Adl,25,81.2,,99.0,37.0,1,1,0,1,1,2,1,0,2,8,8,86.0,90.0,73.0
+UBCO,2022,W,FREN,355,,001,Advanced Composition,Ramine Adl,21,85.3,,97.0,55.0,0,0,1,0,0,0,1,1,3,7,8,86.0,90.0,83.0
+UBCO,2023,W,FREN,101,,005,Elementary French I,Ramine Adl,31,88.38,,98.0,51.0,0,2,0,0,0,0,2,1,2,2,20,93.0,96.0,85.0
+UBCO,2023,W,FREN,353,,001,French Grammar,Ramine Adl,22,84.45,,99.0,66.0,0,0,0,0,1,1,4,1,4,3,8,85.0,93.75,75.25
+UBCO,2023,W,FREN,355,,001,Advanced Composition,Ramine Adl,20,85.05,,98.0,50.0,0,1,1,0,1,1,0,0,1,1,13,91.0,93.0,85.0

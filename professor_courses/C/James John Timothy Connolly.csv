@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,S,PLAN,548,G,001,Current Issues in Planning,James John Timothy Connolly;Pulkit Kathuria,10,88.6,8.181279444,98.0,72.0,0,0,0,0,0,0,1,0,1,2,6,,,
+UBCV,2021,W,PLAN,351,,001,Green Cities,James John Timothy Connolly;Keisha Maloney,27,80.074074074,10.395731098,87.0,43.0,2,0,0,0,0,0,1,3,14,7,0,,,
+UBCV,2021,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Erick Villagomez;James John Timothy Connolly;Maged Senbel;Penelope Gurstein,28,86.392857143,13.124303962,91.0,20.0,1,0,0,0,0,0,0,0,1,14,12,,,
+UBCV,2021,W,PLAN,548,G,001,Current Issues in Planning,James John Timothy Connolly,18,85.333333333,7.491171274,91.0,57.0,0,0,,,,,,,2,12,3,,,
+UBCV,2021,S,PLAN,548,G,001,Current Issues in Planning,James John Timothy Connolly,10,88.6,,98.0,72.0,,,,,,,,,,,6,90.5,94.5,85.0
+UBCV,2021,W,PLAN,351,,001,Green Cities,James John Timothy Connolly,27,81.4,,87.0,48.0,,,,,,,,,14,7,,83.0,84.5,81.0
+UBCV,2021,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,James John Timothy Connolly;Clare Mochrie;Maged Senbel;Erick Villagomez,28,86.4,,91.0,20.0,,,,,,,,,,14,12,89.0,90.0,88.0
+UBCV,2021,W,PLAN,548,G,001,Current Issues in Planning,James John Timothy Connolly,18,85.3,,91.0,57.0,,,,,,,,,,12,,87.0,89.0,85.0
+UBCV,2022,W,PLAN,351,,001,Green Cities,James John Timothy Connolly,30,81.7,,93.0,60.0,0,0,0,2,1,0,3,2,10,10,2,84.0,87.0,78.5
+UBCV,2022,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,James John Timothy Connolly;Clare Mochrie;Erick Villagomez,33,89.2,,92.0,84.0,0,0,0,0,0,0,0,0,1,16,16,89.0,91.0,88.0
+UBCV,2023,W,PLAN,351,,001,Green Cities,James John Timothy Connolly,54,82.9,,93.0,15.0,1,0,0,0,0,4,5,3,6,26,9,86.0,89.0,82.3
+UBCV,2023,W,PLAN,541,,001,Planning Studio,James John Timothy Connolly;Clare Mochrie;Maged Senbel;Erick Villagomez,30,88.4,,91.0,83.0,0,0,0,0,0,0,0,0,3,17,10,89.0,90.0,87.0

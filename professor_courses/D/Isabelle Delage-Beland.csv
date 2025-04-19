@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,FREN,101,,113,Beginners' French I,Isabelle Delage-Beland;Livia Poljak,27,85.740740741,7.362026229,96.0,64.0,0,0,0,0,1,0,2,1,7,6,10,,,
+UBCV,2020,W,FREN,111,,109,Elementary French I,Isabelle Delage-Beland,26,87.961538462,5.567626203,96.0,75.0,0,0,0,0,0,0,1,1,3,8,13,,,
+UBCV,2020,W,FREN,111,,111,Elementary French I,Isabelle Delage-Beland,29,84.862068966,6.583117683,96.0,67.0,0,0,0,0,1,0,2,2,7,11,6,,,
+UBCV,2020,W,FREN,123,,901,Intermediate French II,Isabelle Delage-Beland,7,88.142857143,5.4902511,93.0,78.0,0,0,0,0,0,0,0,1,0,2,4,,,
+UBCV,2021,S,FREN,101,,924,Beginners' French I,Isabelle Delage-Beland;Joel Akinwumi;Joyce Lubert,41,86.073170732,8.784617931,98.0,56.0,0,0,1,1,0,0,4,0,6,9,20,,,
+UBCV,2021,S,FREN,302,,921,Intermediate French II,Isabelle Delage-Beland,17,83.764705882,5.368070088,92.0,76.0,0,0,0,0,0,0,0,5,4,5,3,,,
+UBCV,2021,S,FREN,402,,921,Upper-Intermediate French II,Isabelle Delage-Beland,23,83.652173913,6.540841589,95.0,68.0,0,0,0,0,0,1,1,4,9,2,6,,,
+UBCV,2021,W,FREN,101,,101,Beginners' French I,Girish Ramgulam;Isabelle Delage-Beland;Soline Milet,52,84.788461538,9.299665898,95.0,55.0,0,0,2,0,3,1,1,1,8,18,18,,,
+UBCV,2021,W,FREN,101,,107,Beginners' French I,Isabelle Delage-Beland,27,84.296296296,7.321279916,94.0,61.0,0,0,0,1,0,1,0,3,8,6,8,,,
+UBCV,2021,W,FREN,102,,201,Beginners' French II,Isabelle Delage-Beland;Soline Milet,30,80.833333333,9.059509515,98.0,62.0,0,0,0,1,2,2,4,3,6,4,8,,,
+UBCV,2021,W,FREN,102,,203,Beginners' French II,Caitlin Midgley;Isabelle Delage-Beland;Liza Bolen;Soline Milet,49,79.489795918,9.394418664,96.0,54.0,0,1,1,1,3,2,6,8,9,9,9,,,
+UBCV,2021,W,FREN,301,,103,Intermediate French I,Isabelle Delage-Beland;Stephanie Palisse,27,77.925925926,8.434936167,92.0,60.0,0,0,0,1,4,2,1,4,12,1,2,,,
+UBCV,2021,W,FREN,301,,104,Intermediate French I,Anne Simpson;Isabelle Delage-Beland,32,76.78125,9.279649517,93.0,53.0,0,1,1,0,3,1,8,6,6,4,2,,,
+UBCV,2021,W,FREN,402,,203,Upper-Intermediate French II,Isabelle Delage-Beland,29,79.413793103,10.414677971,93.0,40.0,1,0,0,0,1,2,4,2,9,5,5,,,
+UBCV,2021,S,FREN,101,,924,Beginners' French I,Isabelle Delage-Beland,41,86.1,,98.0,56.0,,,,,,,,,6,9,20,89.0,92.0,83.0
+UBCV,2021,S,FREN,302,,921,Intermediate French II,Isabelle Delage-Beland,17,83.8,,92.0,76.0,,,,,,,,,,,,83.0,88.0,79.0
+UBCV,2021,S,FREN,402,,921,Upper-Intermediate French II,Isabelle Delage-Beland,23,83.7,,95.0,68.0,,,,,,,,,9,,6,83.0,89.5,80.0
+UBCV,2021,W,FREN,101,,101,Beginners' French I,Isabelle Delage-Beland,52,84.8,,95.0,55.0,,,,,,,,,8,18,18,87.5,90.0,83.0
+UBCV,2021,W,FREN,101,,107,Beginners' French I,Isabelle Delage-Beland,27,84.3,,94.0,61.0,,,,,,,,,8,6,8,85.0,90.0,80.5
+UBCV,2021,W,FREN,102,,201,Beginners' French II,Isabelle Delage-Beland,30,80.8,,98.0,62.0,,,,,,,,,6,,8,81.0,89.3,75.0
+UBCV,2021,W,FREN,102,,203,Beginners' French II,Isabelle Delage-Beland,49,79.5,,96.0,54.0,,,,,,,6,8,9,9,9,80.0,86.0,75.0
+UBCV,2021,W,FREN,301,,103,Intermediate French I,Isabelle Delage-Beland,27,77.9,,92.0,60.0,,,,,,,,,12,,,80.0,83.5,71.0
+UBCV,2021,W,FREN,301,,104,Intermediate French I,Isabelle Delage-Beland,32,76.8,,93.0,53.0,,,,,,,8,6,6,,,77.0,83.3,72.8
+UBCV,2021,W,FREN,402,,203,Upper-Intermediate French II,Isabelle Delage-Beland,29,80.1,,93.0,60.0,,,,,,,,,9,,,81.0,85.0,74.0
+UBCV,2022,S,FREN,101,,924,Beginners' French I,Isabelle Delage-Beland,31,81.5,,95.0,21.0,2,0,0,0,1,0,0,3,9,8,8,85.0,89.0,80.5
+UBCV,2022,S,FREN,302,,921,Intermediate French II,Isabelle Delage-Beland,21,77.9,,93.0,12.0,1,0,0,0,1,2,1,2,7,4,3,82.0,86.0,77.0
+UBCV,2022,S,FREN,401,,921,Upper-Intermediate French I,Isabelle Delage-Beland,27,80.4,,94.0,60.0,0,0,0,1,1,2,2,4,6,6,5,81.0,86.0,76.0
+UBCV,2022,S,FREN,402,,921,Upper-Intermediate French II,Isabelle Delage-Beland,24,82.2,,96.0,58.0,0,0,1,0,1,2,2,0,4,8,6,85.5,88.5,78.8
+UBCV,2022,W,FREN,201,,107,Elementary French I,Isabelle Delage-Beland,48,82.0,,95.0,65.0,0,0,0,0,2,1,10,4,11,4,16,81.0,90.3,74.0
+UBCV,2022,W,FREN,202,,208,Elementary French II,Isabelle Delage-Beland,49,80.9,,98.0,0.0,1,0,1,2,1,3,3,2,11,10,15,85.0,91.0,77.0
+UBCV,2022,W,FREN,401,,101,Upper-Intermediate French I,Isabelle Delage-Beland,34,80.6,,94.0,61.0,0,0,0,1,1,3,3,6,8,5,7,80.5,88.0,76.0
+UBCV,2022,W,FREN,401,,105,Upper-Intermediate French I,Isabelle Delage-Beland,29,80.8,,95.0,40.0,1,0,0,1,1,2,1,3,6,6,8,82.0,90.0,76.0
+UBCV,2022,W,FREN,402,,201,Upper-Intermediate French II,Isabelle Delage-Beland,33,87.2,,99.0,69.0,0,0,0,0,0,1,1,3,6,7,15,88.0,92.0,82.0
+UBCV,2022,W,FREN,402,,202,Upper-Intermediate French II,Isabelle Delage-Beland,26,84.0,,97.0,0.0,1,0,0,0,0,0,0,3,3,7,12,87.5,91.0,84.3
+UBCV,2023,W,FREN,353,,201,Advanced French Grammar,Isabelle Delage-Beland,37,83.9,,99.0,0.0,1,0,1,0,0,2,2,0,6,9,15,88.0,93.0,81.0
+UBCV,2023,W,FREN,401,,102,Upper-Intermediate French I,Isabelle Delage-Beland,40,86.4,,95.0,71.0,0,0,0,0,0,1,1,3,6,14,15,87.0,91.0,82.8
+UBCV,2023,W,FREN,401,,103,Upper-Intermediate French I,Isabelle Delage-Beland,41,85.5,,96.0,56.0,0,0,1,0,1,2,0,1,5,18,13,88.0,90.0,85.0
+UBCV,2023,W,FREN,402,,201,Upper-Intermediate French II,Isabelle Delage-Beland,35,86.3,,96.0,63.0,0,0,0,1,0,1,1,2,4,15,11,87.0,91.0,84.5
+UBCV,2023,W,FREN,402,,202,Upper-Intermediate French II,Isabelle Delage-Beland,33,84.2,,95.0,25.0,1,0,0,0,1,0,0,2,8,10,10,87.0,90.0,82.8

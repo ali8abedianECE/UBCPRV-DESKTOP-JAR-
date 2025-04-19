@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,EOSC,329,,101,GRDWATER HYDRLGY,"Zawadzki, Wojciech",114,70.92,13.81,98,18,105,5,4,0,0,0,1,0,2,2,5,10,7,2,14,15,12,16,12,11,6,,,
+UBC,2014,W,EOSC,533,,101,ADV GRDWTR HYDGY,"Zawadzki, Wojciech",21,78.52,10.84,94,48,20,1,0,0,0,0,0,0,0,1,1,0,0,1,0,4,0,3,5,5,2,,,
+UBC,2015,W,EOSC,533,,101,ADV GRDWTR HYDGY,"Zawadzki, Wojciech",11,80.55,7.43,92,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,4,2,1,,,
+UBC,2016,W,EOSC,533,,101,ADV GRDWTR HYDGY,"Zawadzki, Wojciech",23,80.77,7.69,92,60,22,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,6,4,6,2,,,
+UBC,2017,W,EOSC,533,,101,ADV GRDWTR HYDGY,"Zawadzki, Wojciech",27,85.13,5.34,93,72,24,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,7,8,6,,,
+UBCV,2014,W,EOSC,533,,101,Advanced Groundwater Hydrology,Wojciech Zawadzki,21,78.52380952,10.83798435,94.0,48.0,,,,,,,,,,,,,,,,,,,5,5,,,,
+UBCV,2015,W,EOSC,533,,101,Advanced Groundwater Hydrology,Wojciech Zawadzki,11,80.545454545,7.434563018,92.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2016,W,EOSC,533,,101,Advanced Groundwater Hydrology,Shane O'Neill;Wojciech Zawadzki,22,80.77272727,7.690017141,92.0,60.0,,,,,,,,,,,0,0,0,1,0,2,1,6,4,6,2,,,
+UBCV,2017,W,EOSC,533,,101,Advanced Groundwater Hydrology,Duncan Wyllie;Shane O'Neill;Wojciech Zawadzki,25,82.32,14.968633872,93.0,15.0,,,,,,,,,,,1,0,0,0,0,0,1,2,7,8,6,,,
+UBCV,2018,W,EOSC,533,,101,Advanced Groundwater Hydrology,Paulo Herrera;Shane O'Neill;Wojciech Zawadzki,20,83.95,9.116064479,98.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,7,1,2,8,,,
+UBCV,2020,W,EOSC,533,,101,Advanced Groundwater Hydrology,Jennifer Levenick;Shane O'Neill;Wojciech Zawadzki,18,75.5,20.252087765,91.0,0.0,,,,,,,,,,,1,0,0,1,0,1,3,4,3,3,2,,,
+UBCV,2021,W,EOSC,533,,101,Advanced Groundwater Hydrology,Jennifer Levenick;Joseph Janssen;Wojciech Zawadzki,20,83.05,6.270020566,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,7,2,7,3,,,
+UBCV,2021,W,EOSC,533,,101,Advanced Groundwater Hydrology,Jennifer Levenick;Wojciech Zawadzki,20,83.1,,93.0,68.0,,,,,,,,,,,,,,,,,,7,,7,,84.5,87.0,78.0
+UBCV,2022,W,EOSC,533,,101,Advanced Groundwater Hydrology,Roger Beckie;Jennifer Levenick;Wojciech Zawadzki,20,85.3,,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,1,4,7,6,87.0,90.0,82.5
+UBCV,2023,W,EOSC,533,,101,Groundwater Modelling in Practice,Roger Beckie;Jennifer Levenick;Wojciech Zawadzki,26,85.6,,97.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,5,4,2,11,87.0,95.0,80.0

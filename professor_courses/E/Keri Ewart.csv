@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,ETEC,500,,64C,Research Methodology in Education,Keri Ewart;Oksana Bartosh,14,87.785714286,3.512145332,93.0,82.0,0,0,0,0,0,0,0,0,3,5,6,,,
+UBCV,2021,W,ETEC,524,,65B,"Learning Technologies: Selection, Design, and Application",Keri Ewart,20,91.2,4.237675629,97.0,84.0,0,0,0,0,0,0,0,0,2,5,13,,,
+UBCV,2021,W,ETEC,531,,64A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,21,90.380952381,4.018410015,97.0,84.0,0,0,0,0,0,0,0,0,1,10,10,,,
+UBCV,2021,W,ETEC,531,,65A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart;Kisha Mcpherson;Lori Macintosh,22,93.0,2.449489743,96.0,87.0,0,0,0,0,0,0,0,0,0,1,21,,,
+UBCV,2021,W,ETEC,540,,64C,Text Technologies: The Changing Spaces of Reading and Writing,Ernesto Pena Alonso;Keri Ewart,22,90.727272727,3.180024231,97.0,85.0,0,0,0,0,0,0,0,0,0,9,13,,,
+UBCV,2021,W,ETEC,544,,65B,Digital Games & Learning,Keri Ewart,22,90.545454545,2.971728257,95.0,83.0,0,0,0,0,0,0,0,0,1,6,15,,,
+UBCV,2021,W,ETEC,500,,64C,Research Methodology in Education,Keri Ewart,14,87.8,,93.0,82.0,,,,,,,,,,,6,88.0,90.0,86.0
+UBCV,2021,W,ETEC,524,,65B,"Learning Technologies: Selection, Design, and Application",Keri Ewart,20,91.2,,97.0,84.0,,,,,,,,,,,13,91.0,94.5,88.8
+UBCV,2021,W,ETEC,531,,64A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,21,90.4,,97.0,84.0,,,,,,,,,,10,10,89.0,94.0,87.0
+UBCV,2021,W,ETEC,531,,65A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,22,93.0,,96.0,87.0,,,,,,,,,,,21,93.0,95.0,92.0
+UBCV,2021,W,ETEC,540,,64C,Text Technologies: The Changing Spaces of Reading and Writing,Keri Ewart,22,90.7,,97.0,85.0,0,0,0,0,0,0,0,0,0,9,13,91.0,93.0,88.0
+UBCV,2021,W,ETEC,544,,65B,Digital Games & Learning,Keri Ewart,22,90.5,,95.0,83.0,,,,,,,,,,6,15,90.5,92.8,88.3
+UBCV,2022,S,ETEC,511,,66A,Foundations of Educational Technology,Keri Ewart,21,92.0,,95.0,89.0,0,0,0,0,0,0,0,0,0,1,20,92.0,93.0,91.0
+UBCV,2022,S,ETEC,565,S,66A,Special Course in Subject Matter Field,Keri Ewart,22,93.7,,97.0,90.0,0,0,0,0,0,0,0,0,0,0,22,93.0,95.0,93.0
+UBCV,2022,S,ETEC,590,,66A,Graduating Project,Keri Ewart,16,92.2,,97.0,88.0,0,0,0,0,0,0,0,0,0,3,13,92.0,94.0,90.0
+UBCV,2022,W,ETEC,531,,64A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,18,92.4,,96.0,83.0,0,0,0,0,0,0,0,0,1,1,16,93.0,94.8,91.3
+UBCV,2022,W,ETEC,531,,65A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,15,90.2,,95.0,84.0,0,0,0,0,0,0,0,0,1,6,8,90.0,93.0,89.0
+UBCV,2022,W,ETEC,544,,65A,Digital Games & Learning,Keri Ewart,17,93.2,,98.0,89.0,0,0,0,0,0,0,0,0,0,1,16,94.0,95.0,91.0
+UBCV,2022,W,ETEC,590,,65A,Graduating Project,Keri Ewart,17,97.2,,100.0,94.0,0,0,0,0,0,0,0,0,0,0,17,97.0,99.0,96.0
+UBCV,2023,S,ETEC,565,S,66B,Special Course in Subject Matter Field,Keri Ewart,31,92.48,,97.0,84.0,0,0,0,0,0,0,0,0,1,4,26,93.0,95.0,91.0
+UBCV,2023,W,ETEC,511,,64A,Foundations of Educational Technology,Keri Ewart,18,94.33,,97.0,89.0,0,0,0,0,0,0,0,0,0,1,17,95.0,95.0,94.0
+UBCV,2023,W,ETEC,511,,65A,Foundations of Educational Technology,Keri Ewart,19,90.89,,98.0,77.0,0,0,0,0,0,0,0,1,0,3,15,92.0,93.0,90.0
+UBCV,2023,W,ETEC,531,,64A,Curriculum Issues in Cultural and New Media Studies,Keri Ewart,19,92.89,,97.0,79.0,0,0,0,0,0,0,0,1,1,1,16,95.0,96.0,91.5
+UBCV,2023,W,ETEC,544,,61A,Digital Games & Learning,Keri Ewart,12,95.08,,98.0,91.0,0,0,0,0,0,0,0,0,0,0,12,95.0,96.25,94.0
+UBCV,2023,W,ETEC,565,M,65A,Special Course in Subject Matter Field,Keri Ewart,16,92.38,,97.0,86.0,0,0,0,0,0,0,0,0,0,2,14,92.0,94.25,90.75
+UBCV,2023,W,ETEC,590,,64A,Graduating Project,Keri Ewart,23,96.3,,99.0,92.0,0,0,0,0,0,0,0,0,0,0,23,97.0,97.0,95.5

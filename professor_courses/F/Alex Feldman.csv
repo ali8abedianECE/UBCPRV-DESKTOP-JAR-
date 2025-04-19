@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,APSC,541,,201,TECH ENT ENGIN,"Feldman, Alex;Miller, David",14,83.07,4.5,88,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,7,0,,,
+UBC,2017,W,BAEN,506,,001,TECH ENTRPRNRSHP,"Feldman, Alex;Miller, David",20,84,3.7,88,77,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,10,0,,,
+UBC,2018,W,APSC,541,,201,TECH ENT ENGIN,"Feldman, Alex;Miller, David",16,79.63,11.74,90,39,15,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2,7,2,2,,,
+UBC,2018,W,BAEN,506,,001,TECH ENTRPRNRSHP,"Feldman, Alex;Miller, David",20,83.4,3.55,91,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,15,1,2,,,
+UBC,2018,W,COMM,386,P,101,TPCS BUSINESS 3,"Feldman, Alex;Miller, David;Pogue, Fraser",23,80.65,5.83,89,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,11,5,0,,,
+UBCV,2017,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Gregory Fitzgerald;Paul Cubbon,14,83.071428571,4.497251908,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,7,0,,,
+UBCV,2017,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller;Gregory Fitzgerald;Paul Cubbon,20,84.0,3.699217556,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,10,0,,,
+UBCV,2018,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller,16,79.625,11.735274461,90.0,39.0,,,,,,,,,,,1,0,0,0,0,0,2,2,7,2,2,,,
+UBCV,2018,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller;Sayyedsoroush Nasseri,20,83.4,3.545196899,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,15,1,2,,,
+UBCV,2018,W,COMM,386,P,101,Topics in Business III,Alex Feldman;David Miller;Fraser Pogue,23,80.652173913,5.827900726,89.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,4,11,5,0,,,
+UBCV,2019,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller,9,82.555555556,2.068278941,85.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,2,0,,,
+UBCV,2019,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller;Tyler Garrison,21,82.476190476,2.31557871,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,12,6,0,,,
+UBCV,2019,W,COMM,386,P,101,Topics in Business III,Alex Feldman;Cat Han Nguyen;David Miller;Fraser Pogue;Ratthamnoon Prakitpong,21,78.0,8.0,89.0,60.0,,,,,,,,,,,0,0,0,2,1,1,1,5,7,4,0,,,
+UBCV,2021,W,APSC,541,,101,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller,15,81.866666667,2.799659843,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,3,0,,,
+UBCV,2021,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue;Paul Cubbon;Philippe Kruchten,8,81.75,1.832250763,84.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,0,0,,,
+UBCV,2021,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue;Justin Bull;Paul Cubbon;Philippe Kruchten,10,82.5,2.173067468,85.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,2,0,,,
+UBCV,2021,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller;Lorenzo Zarantonello;Lynn Kulli,17,81.882352941,1.996320144,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,2,0,,,
+UBCV,2021,W,BAEN,506,,003,Technology Entrepreneurship,Adam Dvorak;Alex Feldman;David Miller;Fraser Pogue;Mary Sullivan,25,81.76,1.588500341,84.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,4,21,0,0,,,
+UBCV,2021,W,BAEN,506,,004,Technology Entrepreneurship,Adam Dvorak;Alex Feldman;David Miller;Fraser Pogue;Justin Bull;Mary Sullivan,20,82.75,2.124419425,85.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,11,6,0,,,
+UBCV,2021,W,APSC,541,,101,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller,15,81.9,,85.0,76.0,,,,,,,,,,,,,,,,,,,9,,,83.0,83.0,80.0
+UBCV,2021,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue,8,81.8,,84.0,79.0,,,,,,,,,,,,,,,,,,,6,,,82.0,83.0,81.3
+UBCV,2021,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue,10,82.5,,85.0,79.0,,,,,,,,,,,,,,,,,,,6,,,82.5,84.0,82.0
+UBCV,2021,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller,17,81.9,,85.0,78.0,,,,,,,,,,,,,,,,,,,14,,,82.0,83.0,80.0
+UBCV,2021,W,BAEN,506,,003,Technology Entrepreneurship,Alex Feldman;David Miller;Fraser Pogue,25,81.8,,84.0,79.0,,,,,,,,,,,,,,,,,,,21,,,82.0,83.0,81.0
+UBCV,2021,W,BAEN,506,,004,Technology Entrepreneurship,Alex Feldman;David Miller;Fraser Pogue,20,82.8,,85.0,79.0,,,,,,,,,,,,,,,,,,,11,6,,83.0,85.0,82.0

@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,CRWR,403,E,002,CHILD & YOUNG I,"Nielsen, Susan",9,84.78,17.51,96,40,8,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,2,5
+UBC,2014,W,CRWR,403,A,001,CHILD & YOUNG I,"Nielsen, Susan",14,90.85,3.46,95,82,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10
+UBC,2014,W,CRWR,403,B,003,CHILD & YOUNG I,"Nielsen, Susan",14,91,2.77,95,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10
+UBC,2015,W,CRWR,403,V,001,CHILD & YOUNG I,"Nielsen, Susan",15,89.8,2.73,95,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+UBC,2015,W,CRWR,403,W,002,CHILD & YOUNG I,"Nielsen, Susan",15,90.67,3.72,95,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12
+UBC,2015,W,CRWR,416,A,001,WRT TELEVISION 1,"Nielsen, Susan",14,87.69,4.84,95,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5
+UBC,2016,W,CRWR,403,Y,001,CHILD & YOUNG I,"Nielsen, Susan",14,87.5,4.27,95,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,6
+UBC,2016,W,CRWR,403,Z,003,CHILD & YOUNG I,"Nielsen, Susan",14,87.21,5,95,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,6
+UBC,2017,W,CRWR,503,J,002,ADV WRIT CHILD I,"Nielsen, Susan",8,90,0,90,90,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2014,W,CRWR,403,A,001,Writing for Children and Young Adults I,Susan Nielsen,13,90.84615385,3.460398673,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,10
+UBCV,2014,W,CRWR,403,B,003,Writing for Children and Young Adults I,Susan Nielsen,14,91.0,2.773500981,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10
+UBCV,2015,W,CRWR,403,V,001,Writing for Children and Young Adults I,Susan Nielsen,15,89.8,2.730776969,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,12
+UBCV,2015,W,CRWR,403,W,002,Writing for Children and Young Adults I,Susan Nielsen,15,90.666666667,3.716116765,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,12
+UBCV,2015,W,CRWR,416,A,001,Writing for Television I,Susan Nielsen,14,87.5,4.702699716,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,5
+UBCV,2016,W,CRWR,403,Y,001,Writing for Children and Young Adults I,Susan Nielsen,14,87.5,4.274252071,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,6
+UBCV,2016,W,CRWR,403,Z,003,Writing for Children and Young Adults I,Susan Nielsen,14,87.21428571,4.995052497,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,6
+UBCV,2017,W,CRWR,503,J,002,Advanced Writing for Children I,Susan Nielsen,7,90.0,0.0,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7

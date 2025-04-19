@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,ECON,326,,004,MTDS EMPIRC RESR,"Kasahara, Hiroyuki",59,76.58,12.41,100,46,54,1,4,0,0,0,0,0,0,1,1,0,4,2,5,8,6,6,9,3,11,,,
+UBC,2009,W,ECON,555,,001,INTERNATL TRADE,"Kasahara, Hiroyuki",13,86.36,4.3,93,78,11,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,,,
+UBC,2010,W,ECON,326,,004,MTDS EMPIRC RESR,"Kasahara, Hiroyuki",55,76.42,13.27,97,37,50,2,3,0,0,0,0,0,1,1,2,0,1,6,1,7,6,9,4,7,9,,,
+UBC,2010,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",10,85.89,11.53,98,69,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,4,,,
+UBC,2011,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",60,74.37,17.97,100,11,56,4,0,0,0,0,2,0,1,1,4,1,7,3,2,3,5,7,8,8,12,,,
+UBC,2011,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",17,86.19,5.75,98,77,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,3,,,
+UBC,2012,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",54,71.89,15.32,96,24,49,5,0,0,0,0,0,2,1,2,5,1,1,3,5,8,4,9,7,10,1,,,
+UBC,2012,W,ECON,325,,004,EMPIRICAL ECON,"Kasahara, Hiroyuki",52,77.33,13.13,95,35,49,3,0,0,0,0,0,0,1,2,3,2,1,0,2,4,4,8,13,7,8,,,
+UBC,2012,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",16,88.31,5.34,98,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,8,,,
+UBC,2013,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",73,74,11.78,100,39,70,2,1,0,0,0,0,0,1,1,2,2,2,7,9,10,6,6,14,8,6,,,
+UBC,2013,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",7,91.86,5.7,97,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,,,
+UBC,2014,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",84,77.7,12.64,99,47,81,2,1,0,0,0,0,0,0,2,2,4,1,5,2,11,10,7,12,13,16,,,
+UBC,2014,W,ECON,326,,004,MTDS EMPIRC RESR,"Kasahara, Hiroyuki",58,76.34,12.9,100,29,56,2,0,0,0,0,0,1,0,1,2,1,0,5,4,4,7,9,11,10,5,,,
+UBC,2014,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",9,85.44,10.48,100,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,4,,,
+UBC,2015,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",87,73,16.46,99,21,79,7,1,0,0,0,0,2,2,3,7,3,4,9,6,7,11,3,15,7,14,,,
+UBC,2015,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",12,79.5,15.5,95,35,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,4,3,2,,,
+UBC,2016,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",55,74.31,21.01,100,17,48,6,1,0,0,0,1,2,2,1,6,2,4,3,0,5,2,2,3,15,12,,,
+UBC,2016,W,ECON,327,,001,INTR EMPIR MTHDS,"Kasahara, Hiroyuki",92,74.27,15.47,100,24,84,7,1,0,0,0,0,1,2,4,7,3,6,4,5,12,8,7,14,11,14,,,
+UBC,2016,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",14,90.64,5.33,96,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,,,
+UBC,2017,W,ECON,325,,003,EMPIRICAL ECON,"Kasahara, Hiroyuki",63,76.03,18.26,100,23,56,7,0,0,0,0,0,2,0,5,7,2,1,3,3,6,2,7,6,10,16,,,
+UBC,2017,W,ECON,628,,001,TPCS APP ECON I,"Kasahara, Hiroyuki",15,81.36,19.1,97,20,13,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,5,1,5,,,
+UBCV,2014,W,ECON,325,,003,Introduction to Empirical Economics,Hiroyuki Kasahara,83,77.69879518,12.64017496,99.0,47.0,,,,,,,,,,,,,,5,2,11,10,7,12,13,16,,,
+UBCV,2014,W,ECON,326,,004,Methods of Empirical Research in Economics,Hiroyuki Kasahara,58,76.34482759,12.89709844,100.0,29.0,,,,,,,,,,,,,,5,,,7,9,11,10,5,,,
+UBCV,2014,W,ECON,628,,001,Topics in Applied Econometrics I,Hiroyuki Kasahara,9,85.44444444,10.4774891,100.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2015,W,ECON,325,,003,Introduction to Empirical Economics,Hiroyuki Kasahara,86,73.0,16.459576151,99.0,21.0,,,,,,,,,,,7,,,9,6,7,11,,15,7,14,,,
+UBCV,2015,W,ECON,628,,001,Topics in Applied Econometrics I,Denis Kojevnikov;Hiroyuki Kasahara,12,79.5,15.50073312,95.0,35.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,ECON,325,,003,Introduction to Empirical Economics,Hiroyuki Kasahara;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,54,74.31481482,21.01376375,100.0,17.0,,,,,,,,,,,6,2,4,3,0,5,2,2,3,15,12,,,
+UBCV,2016,W,ECON,327,,001,Introduction to Empirical Methods,Hiroyuki Kasahara;Neil Douglas Lloyd;Neil Lloyd,91,74.27472528,15.4711674,100.0,24.0,,,,,,,,,,,7,3,6,4,5,12,8,7,14,11,14,,,
+UBCV,2016,W,ECON,628,,001,Topics in Applied Econometrics I,Denis Kojevnikov;Hiroyuki Kasahara,14,90.64285714,5.329268139,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,9,,,
+UBCV,2017,W,ECON,325,,003,Introduction to Empirical Economics,Hiroyuki Kasahara;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,63,76.031746032,18.258862854,100.0,23.0,,,,,,,,,,,7,2,1,3,3,6,2,7,6,10,16,,,
+UBCV,2017,W,ECON,350,,001,Public Finance Policy Topics,Hao Li;Hiroyuki Kasahara;Wai-Ching Alfred Kong,74,72.837837838,12.593787365,92.0,34.0,,,,,,,,,,,5,0,3,7,10,3,11,13,6,13,3,,,
+UBCV,2017,W,ECON,628,,001,Topics in Applied Econometrics I,Hiroyuki Kasahara;Yu Hao,14,81.357142857,19.097350371,97.0,20.0,,,,,,,,,,,1,0,0,0,0,1,0,1,5,1,5,,,
+UBCV,2019,W,ECON,325,,001,Introduction to Empirical Economics,Hiroyuki Kasahara;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,70,76.157142857,15.326055974,100.0,26.0,,,,,,,,,,,4,3,4,2,6,4,6,5,14,7,15,,,
+UBCV,2019,W,ECON,425,,002,Introduction to Econometrics,Hiroyuki Kasahara;Matilde Bombardini;Yu Hao,29,84.862068966,9.545844788,100.0,60.0,,,,,,,,,,,0,0,0,1,0,2,1,5,3,6,11,,,
+UBCV,2020,W,ECON,325,,001,Introduction to Empirical Economics,Hiroyuki Kasahara;Silas Xuereb,73,83.109589041,12.754695915,98.0,12.0,,,,,,,,,,,2,0,0,0,3,3,4,7,16,11,27,,,
+UBCV,2020,W,ECON,425,,002,Introduction to Econometrics,Hiroyuki Kasahara;Matilde Bombardini;Yu Hao,19,89.684210526,9.183636605,100.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,0,1,2,13,,,
+UBCV,2020,W,ECON,526,,001,Mathematics for Economics,Hao Li;Hiroyuki Kasahara;Paul Schrimpf;Sejin Ahn,50,90.84,8.416116706,100.0,65.0,,,,,,,,,,,0,0,0,0,2,1,0,2,4,7,34,,,
+UBCV,2021,W,ECON,326,,001,Methods of Empirical Research in Economics,Hiroyuki Kasahara;Zhaoxuan Wang,85,78.6,18.600563228,100.0,29.0,,,,,,,,,,,7,1,2,8,6,0,8,8,8,8,29,,,
+UBCV,2021,W,ECON,425,,002,Introduction to Econometrics,Hiroyuki Kasahara;Kisho Hoshi,34,77.911764706,15.094385163,100.0,32.0,,,,,,,,,,,1,2,0,2,1,5,1,5,4,4,9,,,
+UBCV,2021,W,ECON,526,,001,Mathematics for Economics,Hiroyuki Kasahara;Sejin Ahn;Yingyi Liang,40,83.075,10.158708529,98.0,48.0,,,,,,,,,,,1,0,0,0,0,3,6,3,6,8,13,,,
+UBCV,2021,W,ECON,326,,001,Methods of Empirical Research in Economics,Hiroyuki Kasahara,84,80.7,,100.0,35.0,,,,,,,,,,,,,,9,6,,7,8,8,8,31,82.5,95.3,67.0
+UBCV,2021,W,ECON,425,,002,Introduction to Econometrics,Hiroyuki Kasahara,34,77.9,,100.0,32.0,,,,,,,,,,,,,,,,,,,,,9,79.5,89.5,69.0
+UBCV,2021,W,ECON,526,,001,Mathematics for Economics,Hiroyuki Kasahara,40,83.1,,98.0,48.0,,,,,,,,,,,,,,,,,6,,6,8,13,85.5,90.5,75.5
+UBCV,2022,W,ECON,425,,001,Introduction to Econometrics,Hiroyuki Kasahara,67,87.7,,99.0,66.0,,,,,,,,,,,0,0,0,0,1,4,2,3,11,11,35,90.0,94.0,83.0
+UBCV,2022,W,ECON,526,,001,Mathematics for Economics,Hiroyuki Kasahara,35,84.4,,97.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,7,5,11,9,85.0,90.0,78.5
+UBCV,2023,W,ECON,325,,004,Introduction to Econometrics I,Hiroyuki Kasahara,88,78.8,,95.0,4.0,,,,,,,,,,,3,1,4,5,0,1,8,8,19,22,15,83.0,88.0,74.5
+UBCV,2023,W,ECON,425,,001,Advanced Econometrics,Hiroyuki Kasahara,38,79.6,,99.0,22.0,,,,,,,,,,,1,1,0,3,0,3,2,6,8,5,9,83.0,87.0,74.0

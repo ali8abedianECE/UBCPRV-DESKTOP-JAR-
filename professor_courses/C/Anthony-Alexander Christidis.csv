@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,STAT,406,,101,Methods for Statistical Learning,Anthony-Alexander Christidis;David Lee;Matias Salibian-Barrera,61,77.40983607,10.76781787,100.0,51.0,0,1,0,4,7,4,11,5,11,8,10,,,
+UBCV,2016,W,STAT,443,,202,Time Series and Forecasting,Anthony-Alexander Christidis;Natalia Nolde;Tae Yoon Harry Lee;Tae Yoon Lee,79,76.63291139,12.75627268,96.0,37.0,3,1,2,5,3,11,11,7,11,12,13,,,
+UBCV,2017,W,STAT,406,,101,Methods for Statistical Learning,Anthony-Alexander Christidis;Matias Salibian-Barrera;Xin Zhao;Yiping Dou,93,75.774193548,11.575019046,99.0,43.0,2,4,3,3,5,12,15,8,20,12,9,,,
+UBCV,2017,W,STAT,443,,202,Time Series and Forecasting,Anthony-Alexander Christidis;Daniel Hadley;Natalia Nolde,104,76.961538462,10.258714578,94.0,50.0,0,3,3,5,8,8,17,12,19,18,11,,,
+UBCV,2017,W,STAT,547,C,101,Topics in Statistics,Anthony-Alexander Christidis;Ezequiel Smucler,16,89.8125,9.332514845,97.0,68.0,0,0,0,0,0,2,0,0,1,3,10,,,
+UBCV,2018,W,STAT,302,,201,Introduction to Probability,Anthony-Alexander Christidis;Eric Sanders;Gong Zhang;Ho Yin Ho;Hoi Yin Eugenia Yu;Qiaoyue Tang;Xinyao Fan;Yuru Liu,128,74.203125,14.338626525,98.0,17.0,7,4,8,8,6,21,10,7,21,19,17,,,
+UBCV,2018,W,STAT,302,,202,Introduction to Probability,Anthony-Alexander Christidis;Eric Sanders;Ho Yin Ho;Hoi Yin Eugenia Yu;Ruben Zamar;Xinyao Fan;Yuru Liu,90,72.3,13.95131986,96.0,37.0,9,4,2,7,7,12,11,6,13,8,11,,,
+UBCV,2018,W,STAT,406,,101,Methods for Statistical Learning,Anthony-Alexander Christidis;Jiahua Chen;Lin Zhang;Matias Salibian-Barrera,103,80.805825243,12.08471588,100.0,50.0,0,3,2,3,9,5,13,10,11,20,27,,,
+UBCV,2019,S,STAT,302,,921,Introduction to Probability,Anthony-Alexander Christidis;Miguel Biron Lattes;Ruben Zamar;Yuru Liu;Yuzhe Peng,102,61.333333333,17.741450784,100.0,11.0,24,18,9,7,7,10,7,5,5,2,8,,,
+UBCV,2019,W,STAT,302,,201,Introduction to Probability,Anthony-Alexander Christidis;Gian Di Luvi Martinez;Giorgio Andr��� Viancha Sgarbi;Giorgio Viancha Sgarbi;Gong Zhang;Hoi Yin Eugenia Yu;Qiong Zhang;Yuru Liu,126,78.277777778,10.31010292,96.0,51.0,0,3,3,8,6,11,14,10,35,19,17,,,
+UBCV,2019,W,STAT,302,,202,Introduction to Probability,Anthony-Alexander Christidis;Gian Di Luvi Martinez;Giorgio Andr��� Viancha Sgarbi;Giorgio Viancha Sgarbi;Gong Zhang;Hoi Yin Eugenia Yu;Qiong Zhang;Yuru Liu,98,76.806122449,10.469059138,95.0,44.0,1,0,6,6,9,7,12,12,21,13,11,,,
+UBCV,2019,W,STAT,406,,101,Methods for Statistical Learning,Anthony-Alexander Christidis;Lin Zhang;Matias Salibian-Barrera,109,72.917431193,16.022627773,100.0,30.0,6,8,11,10,7,6,9,11,12,12,17,,,
+UBCV,2019,W,STAT,460,,101,Statistical Inference I,Anthony-Alexander Christidis;Ruben Zamar,9,87.888888889,8.08462189,99.0,80.0,0,0,0,0,0,0,0,0,4,1,4,,,
+UBCV,2020,S,STAT,302,,921,Introduction to Probability,Anthony-Alexander Christidis;Lulu Pei;Natalia Nolde;Yuan Xia,98,76.091836735,12.523863189,99.0,35.0,2,2,8,8,2,9,11,6,17,24,9,,,
+UBCV,2020,S,STAT,305,,001,Introduction to Statistical Inference,Anthony-Alexander Christidis;Benjamin Bloem-Reddy;Giorgio Andr��� Viancha Sgarbi;Giorgio Viancha Sgarbi;Jingyiran Li;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Pramoda Sachinthana Jayasinghe;Xiaolan Cheng,71,85.478873239,9.282639949,97.0,44.0,1,1,0,0,0,3,3,6,9,20,28,,,
+UBCV,2020,W,STAT,302,,101,Introduction to Probability,Alexandre Bouchard-Cote;Anthony-Alexander Christidis;Haodi Liang;Ian Murphy;Ruben Zamar;Sophia Gu,100,81.2,13.470506503,98.0,27.0,2,1,6,3,2,4,6,14,13,19,30,,,
+UBCV,2020,W,STAT,302,,201,Introduction to Probability,Anthony-Alexander Christidis;Aviral Saxena;Gong Zhang;Haodi Liang;Hoi Yin Eugenia Yu;Ian Murphy;Matias Salibian-Barrera;Shuk Wong Li;Xiaohua Gao;Xiaoxuan Liang;Zuheng Xu,153,77.588235294,14.440225893,100.0,15.0,4,7,7,8,7,18,6,15,24,27,30,,,
+UBCV,2020,W,STAT,302,,202,Introduction to Probability,Anthony-Alexander Christidis;Aviral Saxena;Haodi Liang;Ian Murphy;Matias Salibian-Barrera;Xiaohua Gao,162,75.87654321,14.400985746,98.0,20.0,10,2,4,8,8,18,15,18,37,23,19,,,
+UBCV,2020,W,STAT,460,,101,Statistical Inference I,Anthony-Alexander Christidis;Jenkin Tsui;Ruben Zamar,7,81.142857143,29.248524586,98.0,17.0,1,0,0,0,0,0,0,1,0,0,5,,,
+UBCV,2020,W,STAT,560,,101,Statistical Theory I,Anthony-Alexander Christidis;Jenkin Tsui;Paul Gustafson;Ruben Zamar,13,92.230769231,4.952336926,98.0,83.0,0,0,0,0,0,0,0,0,1,4,8,,,
+UBCV,2021,S,STAT,302,,921,Introduction to Probability,Anthony-Alexander Christidis;Gahyung Lee;Haodi Liang;Natalia Nolde;Ruben Zamar,116,76.965517241,15.34469518,100.0,5.0,6,4,4,2,9,12,9,8,22,19,21,,,
+UBCV,2021,W,ELEC,321,,101,Stochastic Signals and Systems,Animesh Sakorikar;Anthony-Alexander Christidis;Hoi Yin Eugenia Yu;Lele Wang;Ning Zhang;Ruben Zamar,76,68.131578947,18.001734809,97.0,0.0,8,4,8,8,8,8,5,5,7,8,7,,,
+UBCV,2021,W,STAT,321,,201,Stochastic Signals and Systems,Animesh Sakorikar;Anthony-Alexander Christidis;Lele Wang;Ning Zhang;Ruben Zamar;Ziao Wang,95,68.705263158,19.916246808,100.0,0.0,10,12,4,11,5,4,7,12,4,13,13,,,
+UBCV,2021,W,STAT,460,,101,Statistical Inference I,Anthony-Alexander Christidis;Ruben Zamar,6,84.666666667,10.481730137,97.0,71.0,0,0,0,0,0,1,1,0,1,0,3,,,
+UBCV,2021,W,STAT,560,,101,Statistical Theory I,Anthony-Alexander Christidis;Ruben Zamar,17,88.647058824,12.61418436,100.0,60.0,0,0,0,1,0,2,1,0,1,0,12,,,
+UBCV,2021,W,STAT,321,,201,Stochastic Signals and Systems,Anthony-Alexander Christidis;Lele Wang,95,69.7,,100.0,0.0,7,13,,13,,,7,12,,13,13,73.0,85.5,59.5
+UBCV,2022,S,STAT,305,,001,Introduction to Statistical Inference,Anthony-Alexander Christidis,75,79.2,,100.0,32.0,1,3,4,3,5,9,6,7,9,4,24,79.0,91.5,68.5
+UBCV,2022,W,DSCI,100,,007,Introduction to Data Science,Anthony-Alexander Christidis,176,82.9,,97.0,56.0,0,0,3,4,9,5,6,19,43,47,40,84.0,89.0,79.0
+UBCV,2022,W,STAT,460,,101,Statistical Inference I,Anthony-Alexander Christidis,7,83.7,,93.0,56.0,0,0,1,0,0,0,0,1,0,1,4,90.0,91.0,82.5
+UBCV,2022,W,STAT,560,,101,Statistical Theory I,Anthony-Alexander Christidis,12,89.9,,95.0,82.0,0,0,0,0,0,0,0,0,1,4,7,91.5,92.0,87.8
+UBCV,2023,W,DSCI,100,,004,Introduction to Data Science,Anthony-Alexander Christidis,180,79.2,,98.0,18.0,5,3,5,3,6,10,19,19,37,35,31,81.0,87.0,75.0

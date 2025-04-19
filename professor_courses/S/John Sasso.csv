@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,W,HEAL,200,,001,Determinants of Health,Caeli Barron;John Sasso;Kevin Wildfong;Sana Shahram,220,82.22727273,6.788600559,98.0,44.0,1,0,1,0,3,8,17,32,74,55,29,,,
+UBCO,2016,W,HMKN,312,,001,Laboratory Techniques in Exercise Science,Courtney Chang;Geoff Coombs;Glen Foster;John Sasso;Tanya Forneris;Troy Stuckless,62,82.58064516,8.217431267,100.0,62.0,0,0,0,1,2,3,5,10,12,19,10,,,
+UBCO,2016,W,HMKN,335,,001,Pathophysiology,John P. Sasso;John Sasso;Luca Ruggiero;Tanya Forneris;Zoe Soon,89,77.14606742,8.33877929,95.0,50.0,0,1,0,3,10,9,11,18,18,15,4,,,
+UBCO,2016,W,HMKN,335,,002,Pathophysiology,John P. Sasso;John Sasso;Zoe Soon,62,75.37096774,9.687297532,93.0,48.0,1,1,1,2,7,10,7,10,12,7,4,,,
+UBCO,2017,W,HMKN,200,,001,Exercise Physiology I,Alex Patrician;Gregory Dumanoir;Hannah Caldwell;Hannah G Caldwell;Jinelle Gelinas;John Sasso;Tanya Forneris;Tyler Vermeulen,171,77.730994152,11.689519119,95.0,39.0,9,1,5,5,9,9,22,24,32,34,21,,,
+UBCO,2017,W,HMKN,310,,001,Exercise Physiology II,Alex Patrician;Gregory Dumanoir;John Sasso;Mathew G Rieger;Mathew Rieger;Megan Harper;Tanya Forneris;Troy Stuckless,160,73.55,11.841617262,97.0,19.0,6,4,7,4,16,25,18,23,28,19,10,,,
+UBCO,2018,W,HMKN,200,,001,Exercise Physiology I,Gregory Dumanoir;Hannah Caldwell;Hannah G Caldwell;Jinelle Gelinas;John Sasso;Jordan Carr;Mathew G Rieger;Mathew Rieger;Tanya Forneris,171,74.631578947,11.332874998,98.0,41.0,6,2,8,10,19,17,26,26,22,17,18,,,
+UBCO,2018,W,HMKN,310,,001,Exercise Physiology II,Adam Watson;Garett Jackson;Garett S Jackson;Hannah Caldwell;Hannah G Caldwell;John Sasso;Jonathan Smirl;Kevin Wildfong;Lindsey Boulet;Tanya Forneris,163,75.398773006,10.628717143,95.0,33.0,4,1,10,6,13,18,22,29,24,25,11,,,
+UBCO,2019,W,HMKN,310,,001,Exercise Physiology II,Connor A Howe;Connor Howe;Gregory Dumanoir;John Sasso;Jordan Carr;Megan Trotman;Paul Cotton,173,69.820809249,15.562597732,98.0,14.0,19,8,15,16,18,9,16,22,17,18,15,,,
+UBCO,2019,W,HMKN,409,,001,Advanced Training Methods,John Sasso,24,80.083333333,9.681522817,95.0,61.0,0,0,0,1,1,3,4,1,7,1,6,,,
+UBCO,2020,W,HMKN,310,,001,Exercise Physiology II,Helena Neudorf;John Sasso;Jordan Carr;Justine Magnuson;Mathew Rieger;Megan Harper,231,82.095238095,10.860359663,98.0,26.0,5,0,3,2,10,14,17,32,33,55,60,,,
+UBCO,2020,W,HMKN,409,,001,Advanced Training Methods,Connor Howe;John Sasso,40,84.05,8.903902918,100.0,61.0,0,0,0,1,2,1,3,1,11,8,13,,,
+UBCO,2020,W,HMKN,495,Z,001,Special Topics in Health and Exercise Sciences,Brooke Shafer;John Sasso;Stephen Wright,20,86.9,10.646966457,96.0,55.0,0,0,1,0,1,0,0,1,3,2,12,,,
+UBCO,2021,W,HES,305,,001,Exercise Physiology II,Courtney Brown;Gregory Dumanoir;Gustavo Vizcardo Galindo;John Sasso;Justine Magnuson;Kara Crampton,176,74.920454545,13.924466928,100.0,40.0,5,7,12,14,21,20,17,13,18,18,31,,,
+UBCO,2021,W,HES,351,,001,Clinical Exercise Physiology,John Sasso;Jonathan Low,36,81.194444444,14.103331814,97.0,25.0,1,0,0,1,2,4,2,2,8,2,14,,,
+UBCO,2021,W,HES,482,,001,Advanced Training Methods,John Sasso,39,74.102564103,17.113852302,98.0,8.0,2,2,2,4,2,3,2,5,4,6,7,,,
+UBCO,2021,W,HES,495,A,001,Special Topics in Health and Exercise Sciences,Garett Jackson;Gregory Dumanoir;John Sasso,27,76.259259259,13.724185818,100.0,32.0,1,0,0,3,1,5,4,3,1,4,5,,,
+UBCO,2022,W,HES,305,,001,Exercise Physiology II,John Sasso,165,70.7,,99.0,32.0,16,10,12,16,10,16,18,18,16,12,21,72.0,82.0,60.0
+UBCO,2022,W,HES,351,,001,Clinical Exercise Physiology,John Sasso,25,74.9,,96.0,14.0,4,0,1,1,0,1,1,2,4,1,10,81.0,92.0,70.0
+UBCO,2022,W,HES,482,,001,Advanced Training Methods,John Sasso,33,75.6,,100.0,33.0,1,0,1,2,3,6,4,3,4,5,4,75.0,86.0,68.0
+UBCO,2022,W,HES,495,A,001,Special Topics in Health and Exercise Sciences,John Sasso,16,81.4,,97.0,49.0,1,0,0,0,0,3,0,1,3,4,4,85.0,89.3,76.3
+UBCO,2023,W,HES,212,,001,"Exercise Training, Conditioning and Rehabilitation for Health, Fitness and Performance",Shawna Cook;Gregory Dumanoir;John Sasso,161,84.2,,98.0,65.0,0,0,0,0,4,4,12,24,36,34,47,85.0,91.0,79.0
+UBCO,2023,W,HES,305,,001,Exercise Physiology II,Gregory Dumanoir;John Sasso,200,65.6,,97.0,0.0,31,16,14,14,21,27,15,16,26,15,3,68.0,78.8,55.5
+UBCO,2023,W,HES,351,,001,Clinical Exercise Physiology,Gregory Dumanoir;John Sasso,25,78.4,,99.0,54.0,0,1,1,2,1,3,2,0,6,2,7,82.0,90.0,69.0

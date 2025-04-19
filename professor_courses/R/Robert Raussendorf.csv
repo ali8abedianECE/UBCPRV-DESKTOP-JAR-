@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,S,PHYS,270,,941,MECHANICS II,"Raussendorf, Robert",59,70.12,15.14,100,33,51,7,1,0,0,0,0,0,3,4,7,1,3,4,5,5,9,10,7,1,6,,,
+UBC,2010,W,PHYS,500,,101,QUANTUUM MECH I,"Raussendorf, Robert",32,83.56,13.63,100,27,31,1,0,0,0,0,0,1,0,0,1,0,0,0,0,2,3,3,6,5,12,,,
+UBC,2011,S,PHYS,270,,941,MECHANICS II,"Raussendorf, Robert",63,75.66,11.04,95,43,61,1,1,0,0,0,0,0,0,1,1,0,6,2,2,6,12,9,12,4,8,,,
+UBC,2011,W,PHYS,500,,101,QUANTUM MECH I,"Raussendorf, Robert",35,86.21,8.73,99,70,34,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,4,3,6,15,,,
+UBC,2012,S,ENPH,270,,941,MECHANICS 2,"Raussendorf, Robert",68,80.79,11.98,100,43,67,1,0,0,0,0,0,0,0,1,1,1,2,2,4,3,5,7,15,9,19,,,
+UBC,2012,W,PHYS,500,,101,QUANTUM MECH I,"Raussendorf, Robert",34,82.68,9.51,100,68,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,5,5,5,11,,,
+UBC,2013,S,ENPH,270,,941,MECHANICS 2,"Raussendorf, Robert",62,76.64,9.67,96,50,61,0,1,0,0,0,0,0,0,0,0,2,2,2,2,5,16,5,14,8,5,,,
+UBC,2013,W,PHYS,500,,101,QUANTUM MECH I,"Raussendorf, Robert",38,79.46,9.05,98,57,37,0,0,0,1,0,0,0,0,0,0,0,1,1,0,4,9,3,8,6,5,,,
+UBC,2014,S,ENPH,270,,941,MECHANICS 2,"Raussendorf, Robert",56,79.18,13.31,100,43,55,1,0,0,0,0,0,0,0,1,1,1,1,3,6,4,3,6,12,7,12,,,
+UBC,2014,W,PHYS,500,,101,QUANTUM MECH I,"Raussendorf, Robert",41,85.51,9.59,100,57,41,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,2,10,9,15,,,
+UBC,2015,S,ENPH,270,,941,MECHANICS 2,"Raussendorf, Robert",74,82.03,10.52,100,55,74,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,10,12,11,12,19,,,
+UBCV,2014,S,ENPH,270,,941,Mechanics II,Robert Raussendorf,56,79.17857143,13.31316115,100.0,43.0,,,,,,,,,,,,,,,6,,,6,12,7,12,,,
+UBCV,2014,W,PHYS,500,,101,Quantum Mechanics I,Robert Raussendorf,41,85.51219512,9.586766794,100.0,57.0,,,,,,,,,,,0,0,,,,,,,10,9,15,,,
+UBCV,2015,S,ENPH,270,,941,Mechanics II,Namshik Kim;Robert Raussendorf;Shahzad Ghanbarian Alavijeh,74,82.02702703,10.51805099,100.0,55.0,,,,,,,,,,,0,0,,,,,10,12,11,12,19,,,
+UBCV,2016,W,SCIE,1,,001,Science One,Arthur Charbonneau;Bryan Wong;Celeste Leander;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Emily Tyhurst;James Berger;Jasmyne Kassam;Justin Jubinville-Mah;Kathryn Crowter;Kathryn Zeiler;Robert Raussendorf;Stephen James Gustafson,67,82.28358209,8.267874979,97.0,58.0,,,,,,,,,,,0,0,1,0,2,4,9,4,15,19,13,,,
+UBCV,2017,W,SCIE,1,,001,Science One,Andrea Terpstra;Arthur Charbonneau;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Fumika Suzuki;James Berger;Pamela Kalas;Robert Raussendorf;Stephen James Gustafson,66,78.939393939,8.55727992,96.0,62.0,,,,,,,,,,,0,0,0,1,5,6,12,10,14,10,8,,,
+UBCV,2018,W,SCIE,1,,001,Science One,Andrew Chih-An Wang;Arthur Charbonneau;Christopher Addison;Costanza Piccolo;Guillaume Bussiere;James Berger;John Sherman;Khadiza Chowdhury;Kira Nicole Tosefsky;Li Qing Wang;Nolan Bett;Pamela Kalas;Robert Raussendorf;Simon Feiler;Stephen James Gustafson;Taeuk Nam,65,79.538461538,8.381670707,98.0,62.0,,,,,,,,,,,0,0,0,2,5,5,7,9,19,11,7,,,
+UBCV,2019,W,PHYS,474,,201,Applied Solid State Physics,Ian Keith Affleck;Kyle Wamer;Robert Raussendorf,19,80.368421053,14.855640628,100.0,51.0,,,,,,,,,,,0,1,1,1,1,2,0,3,1,2,7,,,
+UBCV,2019,W,SCIE,1,,001,Science One,Arthur Charbonneau;Brianna Dungate;Christopher Addison;Costanza Piccolo;James Berger;Joern Bannies;John Sherman;Kira Nicole Tosefsky;Leyi Yin;Nicole Removski;Nolan Bett;Pamela Kalas;Robert Beda;Robert Raussendorf;Ryohei Kang Weil;Stephen James Gustafson,76,85.697368421,6.817662819,97.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,9,16,19,27,,,
+UBCV,2020,W,PHYS,402,,201,Applications of Quantum Mechanics,Arnab Adhikary;Mark Van Raamsdonk;Robert Raussendorf,39,80.538461538,10.664368005,100.0,59.0,,,,,,,,,,,0,0,1,1,3,4,6,3,6,6,9,,,
+UBCV,2020,W,PHYS,516,,201,Statistical Mechanics,Gordon Walter Semenoff;Kris Sigurdson;Oguzhan Can;Robert Raussendorf,18,92.833333333,4.50163369,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,13,,,
+UBCV,2020,W,PHYS,523,B,201,Quantum Electronics and Nonlinear Optics,Jeff Young;Robert Raussendorf;Xiruo Yan,6,86.0,9.939818912,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,2,,,
+UBCV,2021,W,PHYS,157,,101,Introductory Physics for Engineers I,Bradley Guislain;Carlos Doebeli;James Wu;Jing Wang;Lucas Polson;Maxwell Werner;Perrin Waldock;Robert Raussendorf;Samikshya Sahu;Saran Vijayan;Surya Sundar Raman;Yunting Wang,286,74.195804196,13.104041825,96.0,0.0,,,,,,,,,,,12,5,14,16,20,26,46,49,40,37,21,,,
+UBCV,2021,W,PHYS,402,,201,Applications of Quantum Mechanics,Arnab Adhikary;Robert Raussendorf;Ryohei Kang Weil,42,74.571428571,19.235565202,100.0,9.0,,,,,,,,,,,2,3,3,1,3,2,6,2,6,5,9,,,
+UBCV,2021,W,PHYS,157,,101,Introductory Physics for Engineers I,Robert Raussendorf,285,74.6,,96.0,4.0,,,,,,,,,,,10,,14,16,,,,,,,,76.0,82.0,69.0
+UBCV,2021,W,PHYS,402,,201,Applications of Quantum Mechanics,Robert Raussendorf,42,76.0,,100.0,9.0,,,,,,,,,,,,,,,,,6,,6,,10,78.5,87.5,67.3
+UBCV,2022,W,PHYS,157,,101,Introductory Physics for Engineers I,Steven Dierker;Robert Raussendorf,287,77.5,,99.0,5.0,,,,,,,,,,,15,5,7,10,17,16,14,46,55,59,43,81.0,87.0,72.0
+UBCV,2022,W,PHYS,402,,201,Applications of Quantum Mechanics,Robert Raussendorf,30,74.2,,100.0,52.0,,,,,,,,,,,0,5,2,1,2,1,3,4,3,5,4,76.5,86.0,62.5

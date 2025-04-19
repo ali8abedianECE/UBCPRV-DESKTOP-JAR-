@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,BIOL,306,,101,ADVANCED ECOLOGY,"Michaletz, Sean;O'Connor, Mary",94,73.45,9.7,90,38,89,2,3,0,0,0,0,0,1,1,2,3,2,5,9,12,15,17,17,8,1,,,
+UBCV,2018,W,BIOL,306,,101,Advanced Ecology,Kristina Kshatriya;Mary O'Connor;Mikko Paajanen;Mikko Pasi Tapani Paajanen;Sandra Emry;Sandra Michelle Emry;Sean Michaletz;Tanvi Vaidyanathan;Teresa Silverthorn;Wayne Goodey,91,73.450549451,9.695661958,90.0,38.0,,,,,,,,,,,2,3,2,5,9,12,15,17,17,8,1,,,
+UBCV,2019,S,BIOL,409,,951,Field Course in Ecology,Michelle Tseng;Sean Michaletz,10,91.4,4.325634186,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6,,,
+UBCV,2019,W,BIOL,306,,201,Advanced Ecology,Angelina Coulter;Elisabeth Anne Bergman;Elisabeth Bergman;Fanny Couture;Grant Dejong;Josef Garen;Mary O'Connor;Rachel Wilson;Sean Michaletz,90,78.311111111,10.670387928,97.0,35.0,,,,,,,,,,,2,1,2,2,4,6,9,14,24,14,12,,,
+UBCV,2020,W,BIOL,306,,101,Advanced Ecology,Emma Elizabeth George;Emma George;Nicole Bison;Rachel Wilson;Roshni Mangar;Sean Michaletz;Tanvi Vaidyanathan,97,78.835051546,6.185804334,94.0,62.0,,,,,,,,,,,0,0,0,1,4,5,15,17,35,17,3,,,
+UBCV,2021,W,BIOL,306,,101,Advanced Ecology,Jia-Ang Ou;Josef Garen;Milos Simovic;Nicole Bison;Rachel Wilson;Roshni Mangar;Sean Michaletz,97,74.762886598,9.929725151,97.0,32.0,,,,,,,,,,,1,4,1,2,6,9,22,24,15,9,4,,,
+UBCV,2021,W,BIOL,306,,101,Advanced Ecology,Sean Michaletz;Rachel Wilson,97,75.1,,97.0,50.0,,,,,,,,,,,,,,,6,10,22,24,15,9,,76.0,80.0,72.0
+UBCV,2022,W,BIOL,306,,101,Advanced Ecology,Sean Michaletz;Rachel Wilson,96,75.2,,90.0,50.0,,,,,,,,,,,0,1,2,5,5,15,16,13,24,14,1,77.0,81.0,70.0
+UBCV,2023,W,BIOL,306,,101,Advanced Ecology,Sean Michaletz;Rachel Wilson,99,74.6,,92.0,55.0,,,,,,,,,,,0,0,5,3,9,11,16,25,18,10,2,76.0,80.0,70.0
+UBCV,2023,W,BIOL,412,,201,Phytogeography,Sean Michaletz,34,73.8,,91.0,35.0,,,,,,,,,,,1,0,4,1,3,3,2,8,2,5,4,77.0,86.0,66.0

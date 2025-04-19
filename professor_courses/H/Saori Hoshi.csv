@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,JAPN,320,,002,INTM JAPN I A,"Hoshi, Saori",23,77.5,7.54,92,61,22,0,0,1,0,0,0,0,0,0,0,0,0,1,1,4,2,6,3,4,1,,,
+UBC,2018,W,JAPN,321,,002,INT JPN I B,"Hoshi, Saori",19,76.41,8.18,91,60,17,0,1,1,0,0,0,0,0,0,0,0,0,1,3,0,2,7,1,1,2,,,
+UBC,2018,W,JAPN,402,,001,ADV CONV&COMP I,"Hoshi, Saori",24,78.83,6.1,87,66,23,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,2,7,6,5,0,,,
+UBC,2018,W,JAPN,450,,001,ADV ORAL COMM I,"Hoshi, Saori",11,80.64,3.59,86,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,2,0,,,
+UBCV,2018,W,JAPN,320,,002,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,22,77.5,7.538788585,92.0,61.0,,,,,,,,,,,0,0,0,1,1,4,2,6,3,4,1,,,
+UBCV,2018,W,JAPN,321,,002,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,76.411764706,8.178163176,91.0,60.0,,,,,,,,,,,0,0,0,1,3,0,2,7,1,1,2,,,
+UBCV,2018,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Maki Ode;Rebecca Fuk Hing Chau Choi;Saori Hoshi,23,78.826086957,6.102549198,87.0,66.0,,,,,,,,,,,0,0,0,0,2,1,2,7,6,5,0,,,
+UBCV,2018,W,JAPN,450,,001,Advanced Oral Communication I,Maki Ode;Rebecca Fuk Hing Chau Choi;Saori Hoshi,11,80.636363636,3.585323619,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,6,2,0,,,
+UBCV,2019,W,JAPN,320,,002,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Saori Hoshi,25,77.76,10.308895835,93.0,54.0,,,,,,,,,,,0,1,1,0,3,0,5,4,4,4,3,,,
+UBCV,2019,W,JAPN,321,,002,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,76.666666667,10.716369708,90.0,51.0,,,,,,,,,,,0,1,1,2,1,2,0,4,7,4,2,,,
+UBCV,2019,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,77.058823529,4.478707797,86.0,67.0,,,,,,,,,,,0,0,0,0,1,1,4,6,4,1,0,,,
+UBCV,2019,W,JAPN,450,,001,Advanced Oral Communication I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,9,77.444444444,7.418071028,91.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,4,0,1,1,,,
+UBCV,2020,W,JAPN,320,,002,Intermediate Japanese I A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi;Saori Hoshi,18,77.666666667,7.436001456,90.0,66.0,,,,,,,,,,,0,0,0,0,2,1,6,1,4,3,1,,,
+UBCV,2020,W,JAPN,321,,002,Intermediate Japanese I B,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi;Saori Hoshi,19,75.052631579,11.635547469,90.0,41.0,,,,,,,,,,,1,0,0,2,1,1,1,5,6,1,1,,,
+UBCV,2020,W,JAPN,322,,001,Intermediate Japanese II A,Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,25,77.68,10.467091287,93.0,55.0,,,,,,,,,,,0,0,1,1,4,1,2,4,5,3,4,,,
+UBCV,2020,W,JAPN,323,,001,Intermediate Japanese II B,Ihhwa Kim;Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,24,77.458333333,8.382067643,92.0,62.0,,,,,,,,,,,0,0,0,1,2,3,4,3,6,3,2,,,
+UBCV,2020,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,24,73.458333333,11.736154346,89.0,33.0,,,,,,,,,,,1,0,0,2,3,2,6,2,4,4,0,,,
+UBCV,2020,W,JAPN,450,,001,Advanced Oral Communication I,Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,8,78.125,13.747077612,87.0,45.0,,,,,,,,,,,1,0,0,0,0,0,0,2,1,4,0,,,
+UBCV,2021,W,JAPN,320,,002,Intermediate Japanese I A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,75.458333333,7.401405076,89.0,60.0,,,,,,,,,,,0,0,0,2,1,3,6,5,4,3,0,,,
+UBCV,2021,W,JAPN,321,,002,Intermediate Japanese I B,Kyoko Hillman;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,18,72.277777778,8.80377964,85.0,51.0,,,,,,,,,,,0,1,0,1,2,3,4,3,3,1,0,,,
+UBCV,2021,W,JAPN,322,,001,Intermediate Japanese II A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,18,75.333333333,7.380419245,85.0,58.0,,,,,,,,,,,0,0,1,0,2,2,2,5,5,1,0,,,
+UBCV,2021,W,JAPN,323,,001,Intermediate Japanese II B,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,16,78.3125,8.316399461,89.0,57.0,,,,,,,,,,,0,0,1,0,1,1,1,3,8,1,0,,,
+UBCV,2021,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,27,76.481481481,7.397350723,88.0,62.0,,,,,,,,,,,0,0,0,2,3,1,3,9,4,5,0,,,
+UBCV,2021,W,JAPN,450,,001,Advanced Oral Communication I,Ihhwa Kim;Rebecca Fuk Hing Chau Choi;Saori Hoshi,6,78.333333333,3.386246693,81.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,0,0,,,
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Ayaka Yoshimizu;Rebecca Fuk Hing Chau Choi;Saori Hoshi,9,72.444444444,9.382311963,87.0,58.0,,,,,,,,,,,0,0,1,1,0,3,1,1,1,1,0,,,
+UBCV,2021,W,JAPN,320,,002,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,75.5,,89.0,60.0,,,,,,,,,,,,,,,,,6,,,,,76.0,80.3,71.5
+UBCV,2021,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,27,76.5,,88.0,62.0,,,,,,,,,,,,,,,,,,9,,,,78.0,80.0,72.0
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,9,72.4,,87.0,58.0,,,,,,,,,,,,,,,,,,,,,,71.0,77.0,70.0
+UBCV,2022,W,JAPN,321,,002,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,77.6,,88.0,63.0,,,,,,,,,,,0,0,0,1,1,2,1,3,6,3,0,80.0,81.0,74.0
+UBCV,2022,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,15,74.6,,82.0,57.0,,,,,,,,,,,0,0,2,0,1,0,3,3,6,0,0,78.0,80.0,72.5

@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,SPPH,481,B,002,SPCL TOPICS PPH,"Steel, Daniel",13,88,7.01,97,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,7,,,
+UBC,2016,S,SPPH,538,,DL3,ETHC PRC PB HLTH,"Steel, Daniel",5,84.8,4.97,92,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,,,
+UBC,2016,W,SPPH,481,B,002,SPCL TOPICS PPH,"Steel, Daniel",19,85.33,6.25,96,75,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,9,4,,,
+UBC,2017,W,SPPH,381,A,002,SELECTED TOPICS,"Steel, Daniel",28,80.39,7.12,89,59,28,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,12,8,0,,,
+UBC,2017,W,SPPH,581,T,001,SELECTED TOPICS,"Steel, Daniel",5,87.2,3.03,91,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,,,
+UBC,2018,W,SPPH,381,A,002,SELECTED TOPICS,"Steel, Daniel",26,81.23,12.25,95,51,26,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,3,7,6,6,,,
+UBC,2018,W,SPPH,581,T,001,SELECTED TOPICS,"Steel, Daniel",5,88.2,4.27,92,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBCV,2015,W,SPPH,481,B,002,Special Topics in Population and Public Health,Daniel Steel,13,88.0,7.011894656,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,7,,,
+UBCV,2016,W,SPPH,481,B,002,Special Topics in Population and Public Health,Daniel Steel,18,85.33333333,6.249705875,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,1,1,9,4,,,
+UBCV,2017,S,SPPH,538,,DL3,Application of Ethical Theories in the Practice of Public Health,Daniel Steel;Michael Burgess,10,79.7,7.008724722,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,5,0,2,1,,,
+UBCV,2017,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Kirsten Marchand;Sophie Ann Kitchen;Sophie Kitchen,28,80.392857143,7.119817339,89.0,59.0,,,,,,,,,,,0,0,1,0,0,3,2,2,12,8,0,,,
+UBCV,2018,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Emilia Clementi,26,81.230769231,12.248453592,95.0,51.0,,,,,,,,,,,0,2,1,0,0,0,1,3,7,6,6,,,
+UBCV,2019,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Naseeb Bolduc,40,81.1,6.823037898,95.0,65.0,,,,,,,,,,,0,0,0,0,1,2,6,8,9,9,5,,,
+UBCV,2019,W,SPPH,581,T,001,Selected Topics,Daniel Steel,6,86.666666667,4.926120854,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,0,2,,,
+UBCV,2020,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Kevin Bouliane,52,75.442307692,15.339828285,90.0,0.0,,,,,,,,,,,2,0,1,1,1,6,9,7,17,6,2,,,
+UBCV,2020,W,SPPH,581,T,001,Selected Topics,Daniel Steel,6,87.833333333,5.036533199,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,2,,,
+UBCV,2021,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Itai Bavli;Tribesty Nguyen,43,80.418604651,18.962660751,93.0,0.0,,,,,,,,,,,3,0,0,0,0,0,1,5,6,18,10,,,
+UBCV,2021,W,SPPH,538,,002,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,20,84.9,20.60122633,99.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,0,2,7,9,,,
+UBCV,2021,W,SPPH,538,,002,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,20,84.9,,99.0,0.0,,,,,,,,,,,,,,,,,,,,7,9,89.0,92.0,87.5
+UBCV,2022,S,SPPH,538,,921,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,19,87.5,,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,10,5,88.0,89.5,85.5
+UBCV,2022,W,SPPH,538,,002,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,26,90.5,,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,16,90.5,93.0,87.3
+UBCV,2023,S,SPPH,538,,921,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,19,85.68,,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,6,7,4,86.0,89.0,82.5
+UBCV,2023,W,SPPH,538,,002,Application of Ethical Theories in the Practice of Public Health,Daniel Steel,22,83.2,,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,3,9,6,2,84.0,85.8,80.0

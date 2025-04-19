@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,S,WOOD,353,,921,MILL SITE VISITS,"Cool, Julie;Jiang, Feng",54,87.3,6.7,97,66,54,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,8,17,24,,,
+UBC,2018,W,WOOD,373,,101,WOOD ADHSV&COATG,"Jiang, Feng",40,80.26,10.68,97,52,39,0,0,1,0,0,0,0,0,0,0,1,1,0,2,4,5,4,7,7,8,,,
+UBCV,2018,S,WOOD,353,,921,Mill Site Visits,Feng Jiang;Julie Cool;Simon Ellis,54,87.296296296,6.697309033,97.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,1,8,17,24,,,
+UBCV,2018,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Liyang Liu;Scott Renneckar,39,80.256410256,10.678847633,97.0,52.0,,,,,,,,,,,0,1,1,0,2,4,5,4,7,7,8,,,
+UBCV,2019,S,WOOD,353,,921,Mill Site Visits,Anna Helena Schild;Anna Schild;Feng Jiang;Julie Cool;Simon Ellis,42,79.785714286,5.497386138,90.0,63.0,,,,,,,,,,,0,0,0,1,0,2,5,8,19,6,1,,,
+UBCV,2019,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Harold Renneckar;Scott Renneckar;Yuhang Ye,21,77.047619048,7.787658123,90.0,60.0,,,,,,,,,,,0,0,0,1,2,2,2,4,8,1,1,,,
+UBCV,2020,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Renneckar;Yuhang Ye,18,82.666666667,7.332442014,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,3,1,3,6,4,,,
+UBCV,2021,S,WOOD,353,,921,Mill Site Visits,Feng Jiang;Scott Renneckar;Simon Ellis,38,73.552631579,9.786083247,94.0,57.0,,,,,,,,,,,0,0,3,4,2,10,3,6,4,3,3,,,
+UBCV,2021,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Zhengyang Yu,27,76.444444444,9.124495069,95.0,60.0,,,,,,,,,,,0,0,0,3,3,2,3,5,5,5,1,,,
+UBCV,2021,S,WOOD,353,,921,Mill Site Visits,Simon Ellis;Feng Jiang,38,73.6,,94.0,57.0,,,,,,,,,,,,,,,,10,,6,,,,72.0,79.3,68.0
+UBCV,2021,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang,27,76.4,,95.0,60.0,,,,,,,,,,,,,,,,,,,,,,77.0,82.5,69.0
+UBCV,2022,W,BEST,400,,101,Biomimicry and Biocomposites,Feng Jiang,16,80.5,,91.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,1,5,5,1,82.5,85.0,77.3
+UBCV,2022,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang,17,72.5,,84.0,50.0,,,,,,,,,,,0,1,0,1,2,2,3,5,3,0,0,73.0,78.0,68.0
+UBCV,2023,W,BEST,400,,101,Biomimicry and Biocomposites,Feng Jiang,20,83.95,,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,6,10,2,85.0,86.0,81.5
+UBCV,2023,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang,17,72.88,,90.0,29.0,,,,,,,,,,,1,0,0,0,4,1,4,1,3,2,1,74.0,82.0,67.0

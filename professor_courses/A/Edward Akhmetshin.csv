@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,SOCI,328,A,002,SOCIAL STATS I,"Akhmetshin, Edward",36,77.94,8.97,92,53,36,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,3,8,8,8,2
+UBC,2013,W,SOCI,380,,001,SOCI METH SURVEY,"Akhmetshin, Edward",13,75.5,7.1,86,60,12,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,1,2,0
+UBC,2014,S,SOCI,240,A,951,SOCL INTERACTION,"Akhmetshin, Edward",41,77.69,8.78,95,50,39,0,1,0,0,0,0,0,0,0,0,1,0,0,6,0,11,1,10,7,3
+UBC,2014,W,SOCI,380,,001,SOCI METH SURVEY,"Akhmetshin, Edward",35,78.06,7.97,96,56,35,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,2,7,14,3,2
+UBC,2015,S,SOCI,380,,001,SOCI METH SURVEY,"Akhmetshin, Edward",48,75.96,10.13,92,50,48,0,0,0,0,0,0,0,0,0,0,3,0,2,3,5,7,7,12,7,2
+UBC,2015,W,SOCI,328,A,001,SOCIAL STATS I,"Akhmetshin, Edward",33,69.58,20.22,93,10,30,3,0,0,0,0,2,0,1,0,3,2,2,3,3,1,4,2,5,5,3
+UBCV,2014,S,SOCI,240,A,951,Introduction to Social Interaction,Edward Akhmetshin,40,77.825,8.705693687,95.0,50.0,,,,,,,,,,,0,,,,6,,11,,11,7,
+UBCV,2014,W,SOCI,380,,001,Sociological Methods: Survey Research,Edward Akhmetshin,35,78.05714286,7.974012412,96.0,56.0,,,,,,,,,,,0,0,,0,,3,2,7,14,,
+UBCV,2015,S,SOCI,380,,001,Sociological Methods: Survey Research,Edward Akhmetshin;Edward David Haddon;Edward Haddon,48,75.95833333,10.12676742,92.0,50.0,,,,,,,,,,,0,,,,,5,7,7,12,7,
+UBCV,2015,W,SOCI,328,A,001,Social Statistics I,Edward Akhmetshin;Zhiming Wu,33,69.575757576,20.220704586,93.0,10.0,,,,,,,,,,,,,,,,-9,,-12,5,5,

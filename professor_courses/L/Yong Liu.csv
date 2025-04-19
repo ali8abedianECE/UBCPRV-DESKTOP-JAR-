@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MATH,221,,202,MATRIX ALGEBRA,"Liu, Yong",131,70.97,12.62,97,29,123,5,2,0,1,0,0,1,2,2,5,6,8,12,9,26,15,13,20,5,9
+UBC,2017,W,MATH,221,,105,MATRIX ALGEBRA,"Liu, Yong",45,66.23,14.66,88,27,38,6,1,0,0,0,0,1,1,4,6,2,3,6,4,4,5,7,4,3,0
+UBC,2018,W,MATH,305,,201,APLD COMPLX ANLY,"Liu, Yong",98,76.01,12.01,94,33,92,3,1,0,2,0,0,0,1,2,3,3,3,2,10,10,10,8,21,14,11
+UBCV,2015,W,MATH,221,,202,Matrix Algebra,Kalle Karu;Yong Liu,129,70.550387597,13.43907621,97.0,17.0,,,,,,,,,,,6,6,8,12,9,26,15,13,20,5,9
+UBCV,2017,W,MATH,221,,105,Matrix Algebra,Vinayak Vatsal;Yong Liu,44,66.227272727,14.658696342,88.0,27.0,,,,,,,,,,,6,2,3,6,4,4,5,7,4,3,0
+UBCV,2018,W,MATH,305,,201,Applied Complex Analysis,Elliot Cheung;Yong Liu,97,75.556701031,12.297500654,94.0,33.0,,,,,,,,,,,3,4,4,2,10,10,10,8,21,14,11

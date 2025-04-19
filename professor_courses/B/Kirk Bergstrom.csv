@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,BIOL,232,,001,Human Infectious Disease,Alex Halonen;Alex T. Halonen;Janet Kluftinger;Kirk Bergstrom;Laura Starck,112,76.589285714,8.61546229,95.0,60.0,0,0,0,9,8,18,19,13,21,17,7,,,
+UBCO,2019,W,BIOL,380,,001,Food and Industrial Microbiology,Ashley Stasuk;Kirk Bergstrom;Kirk Seth Benjamin Bergstrom;Louise Nelson,110,77.590909091,11.660562762,96.0,43.0,2,0,8,4,8,14,10,7,15,24,18,,,
+UBCO,2020,W,BIOC,420,Y,001,Special Topics in Biochemistry,Kirk Bergstrom;Simin Jafaripour;Wesley Zandberg,9,85.111111111,14.039626459,97.0,51.0,0,1,0,0,0,0,0,1,0,2,5,,,
+UBCO,2020,W,BIOL,380,,001,Food and Industrial Microbiology,Emily O'Brien;Kirk Bergstrom;Ryan Ard,102,78.578431373,12.209747992,95.0,14.0,2,1,2,2,5,8,9,14,23,30,6,,,
+UBCO,2020,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom;Simin Jafaripour;Wesley Zandberg,10,77.4,11.692352676,96.0,65.0,0,0,0,0,2,2,2,0,1,1,2,,,
+UBCO,2021,W,BIOL,314,,001,Medical Microbiology,Deanna Gibson;Kirk Bergstrom;Leah D'Aloisio,167,75.670658683,12.282048372,97.0,13.0,3,4,7,10,14,15,22,26,24,23,19,,,
+UBCO,2021,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom,7,80.285714286,21.669596871,98.0,35.0,1,0,0,0,0,0,1,0,1,1,3,,,
+UBCO,2021,W,BIOL,314,,001,Medical Microbiology,Kirk Bergstrom,167,75.8,,97.0,13.0,,,7,10,14,16,22,26,24,23,19,76.0,84.5,69.0
+UBCO,2021,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom,7,80.3,,98.0,35.0,,,,,,,,,,,,88.0,93.5,77.0
+UBCO,2022,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom,18,86.1,,97.0,75.0,0,0,0,0,0,0,2,2,3,5,6,87.0,90.0,82.5
+UBCO,2023,W,BIOL,314,,001,Medical Microbiology,Kirk Bergstrom,133,81.4,,96.0,42.0,3,0,0,5,2,5,15,15,32,26,29,83.0,89.0,76.0

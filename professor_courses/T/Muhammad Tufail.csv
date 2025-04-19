@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",25,75.82,11.47,92,55,22,0,3,0,0,0,0,0,0,0,0,0,2,2,2,2,2,1,4,5,2
+UBC,2015,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",24,70.96,13.15,93,37,22,2,0,0,0,0,0,0,1,1,2,0,2,0,1,6,2,6,2,1,2
+UBC,2015,W,MECH,563,,201,ROBOTICS: K DYN,"Tufail, Muhammad",5,77.8,10.33,87,61,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,0
+UBC,2016,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",20,75,17.12,98,23,19,1,0,0,0,0,0,1,0,0,1,1,1,1,0,2,1,4,4,2,3
+UBC,2016,W,MECH,563,,201,ROBOTICS: K DYN,"Tufail, Muhammad",10,82.3,7.96,96,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,2
+UBCV,2014,W,MECH,464,,201,Industrial Robotics,Muhammad Tufail,22,75.81818182,11.47102505,92.0,55.0,,,,,,,,,,,0,0,,,,,,,,5,
+UBCV,2015,W,MECH,328,,101,Mechanical Engineering Design Project,Cameron Andrew Andrew Stuart;Christopher Brian Mckesson;Christopher Mckesson;Jan Laesecke;Jeff Mun Chun Yeo;Jeremy Rochussen;Markus Fengler;Muhammad Tufail;Oguzhan Tuysuz;Steven Rogak;Voytek Klaptocz,127,81.787401575,6.189635373,96.0,48.0,,,,,,,,,,,,,,,,,8,27,44,31,12
+UBCV,2015,W,MECH,464,,201,Industrial Robotics,Farzad Hemmati;Muhammad Tufail,24,70.958333333,13.149571548,93.0,37.0,,,,,,,,,,,,,,,,6,,6,,,
+UBCV,2015,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Muhammad Tufail,5,77.8,10.329569207,87.0,61.0,,,,,,,,,,,0,0,0,,,,,,,,0
+UBCV,2016,W,MECH,464,,201,Industrial Robotics,Lili Meng;Muhammad Tufail,20,75.0,17.11878008,98.0,23.0,,,,,,,,,,,1,1,1,1,0,2,1,4,4,2,3
+UBCV,2016,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Muhammad Tufail,10,82.3,7.958922317,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,2,2

@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,BAMA,508,,816,MRKT RESEARCH,"Wang, Yanwen",30,85.3,3.59,92,73,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12,14,3,,,
+UBC,2017,W,BAMA,516,,BA1,CUSTMR RLTN MGMT,"Wang, Yanwen",35,79.69,6.97,93,64,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,9,10,3,4,,,
+UBC,2017,W,COEC,365,,001,MARKET RESEARCH,"Wang, Yanwen",50,81.82,6.39,93,65,50,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,10,15,15,3,,,
+UBC,2017,W,COMM,365,,101,MARKET RESEARCH,"Wang, Yanwen",43,77.28,9.62,97,45,42,1,0,0,0,0,0,0,0,1,1,0,0,2,2,2,11,9,7,5,4,,,
+UBC,2017,W,COMM,365,,102,MARKET RESEARCH,"Wang, Yanwen",42,78.31,7.07,90,50,42,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,6,10,12,7,1,,,
+UBC,2018,S,BAMA,508,,817,MRKT RESEARCH,"Wang, Yanwen",25,79.64,3.26,83,67,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,17,0,0,,,
+UBC,2018,W,BAMA,516,,BA1,CUSTMR RLTN MGMT,"Wang, Yanwen",50,82.86,3.78,91,74,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,24,15,2,,,
+UBC,2018,W,COEC,365,,001,MARKET RESEARCH,"Wang, Yanwen",50,77.48,5.75,86,61,50,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,10,12,14,6,0,,,
+UBCV,2017,S,BAMA,508,,816,Marketing Research,Yanwen Wang;Yi Qian,30,85.3,3.59261695,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,12,14,3,,,
+UBCV,2017,W,BAMA,516,,BA1,Customer Relationship Management,Yanwen Wang,35,79.685714286,6.969561673,93.0,64.0,,,,,,,,,,,0,0,0,0,2,1,6,9,10,3,4,,,
+UBCV,2017,W,COEC,365,,001,Market Research,Yanwen Wang,50,81.82,6.387775315,93.0,65.0,,,,,,,,,,,0,0,0,0,1,2,4,10,15,15,3,,,
+UBCV,2017,W,COMM,365,,101,Market Research,Fan Yang;Yanwen Wang,43,77.279069767,9.61973562,97.0,45.0,,,,,,,,,,,1,0,0,2,2,2,11,9,7,5,4,,,
+UBCV,2017,W,COMM,365,,102,Market Research,Fan Yang;Yanwen Wang,42,78.30952381,7.072751199,90.0,50.0,,,,,,,,,,,0,1,0,0,1,4,6,10,12,7,1,,,
+UBCV,2018,S,BAMA,508,,817,Marketing Research,Yanwen Wang;Yi Qian,25,79.64,3.264455034,83.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,6,17,0,0,,,
+UBCV,2018,W,BAMA,516,,BA1,Customer Relationship Management,Fan Yang;Yanwen Wang,50,82.86,3.779698725,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,7,24,15,2,,,
+UBCV,2018,W,COEC,365,,001,Market Research,Fan Yang;Yanwen Wang,50,77.48,5.754288552,86.0,61.0,,,,,,,,,,,0,0,0,1,3,4,10,12,14,6,0,,,
+UBCV,2019,W,BAMA,508,,818,Marketing Research,Yanwen Wang,45,85.2,2.650900362,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,14,29,0,,,
+UBCV,2019,W,BAMA,516,,BA1,Customer Relationship Management,Yanwen Wang,47,83.957446809,5.025835197,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,9,14,17,5,,,
+UBCV,2019,W,COEC,365,,001,Market Research,Fan Yang;Yanwen Wang,48,78.104166667,5.754700515,87.0,65.0,,,,,,,,,,,0,0,0,0,3,3,8,15,13,6,0,,,
+UBCV,2020,W,BAMA,508,,819,Marketing Research,Yanwen Wang;Zining Wang,30,84.966666667,5.115785802,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,8,12,6,,,
+UBCV,2020,W,BAMA,520,,BA1,Customer Analytics,Yanwen Wang;Zining Wang,75,80.32,5.011230631,92.0,69.0,,,,,,,,,,,0,0,0,0,0,3,8,21,30,10,3,,,
+UBCV,2020,W,COEC,365,,001,Market Research,Akshat Jain;Ali Lazrak;Bowen Zhang;Yanwen Wang;Yi Qian,46,82.0,4.885352256,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,7,16,15,4,,,
+UBCV,2020,W,COMM,365,,102,Market Research,Yanwen Wang;Zining Wang,44,76.022727273,5.445239595,86.0,62.0,,,,,,,,,,,0,0,0,1,0,6,13,12,7,5,0,,,
+UBCV,2020,W,COMM,365,,103,Market Research,Yanwen Wang;Zining Wang,42,74.952380952,6.662426061,90.0,53.0,,,,,,,,,,,0,1,0,1,2,6,9,16,5,1,1,,,
+UBCV,2021,W,BAMA,508,,820,Marketing Research,Yanwen Wang;Zining Wang,27,88.407407407,4.097459431,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,10,12,,,
+UBCV,2021,W,BAMA,520,,BA1,Customer Analytics,Yanwen Wang;Zining Wang,65,81.723076923,5.345873678,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,8,13,17,22,3,,,
+UBCV,2021,W,BAMA,508,,820,Marketing Research,Yanwen Wang,27,88.4,,95.0,78.0,,,,,,,,,,,,,,,,,,,,10,12,89.0,91.0,85.0
+UBCV,2021,W,BAMA,520,,BA1,Customer Analytics,Yanwen Wang,65,81.7,,91.0,69.0,,,,,,,,,,,,,,,,,8,13,17,22,,82.0,86.0,78.0
+UBCV,2022,W,BAMA,508,,821,Marketing Research,Yanwen Wang,18,82.6,,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,3,3,5,82.5,89.5,78.3
+UBCV,2022,W,BAMA,520,,BA1,Customer Analytics,Yanwen Wang,39,80.9,,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,10,9,4,10,4,79.0,87.0,74.5
+UBCV,2022,W,BAMA,520,,BA2,Customer Analytics,Yanwen Wang,39,82.7,,94.0,69.0,,,,,,,,,,,0,0,0,0,0,2,4,5,13,8,7,83.0,87.0,79.0
+UBCV,2023,W,BAMA,508,,822,Marketing Research,Yanwen Wang,11,89.45,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,5,89.0,91.5,87.5
+UBCV,2023,W,BAMA,520,,001,Customer Analytics,Yanwen Wang,25,80.32,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,11,6,3,2,79.0,84.0,77.0
+UBCV,2023,W,BAMA,520,,BA1,Customer Analytics,Yanwen Wang,43,83.07,,97.0,69.0,,,,,,,,,,,0,0,0,0,0,4,3,6,12,10,8,83.0,88.0,77.5
+UBCV,2023,W,BAMA,520,,BA2,Customer Analytics,Yanwen Wang,42,83.14,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,4,19,9,6,83.0,86.0,80.0

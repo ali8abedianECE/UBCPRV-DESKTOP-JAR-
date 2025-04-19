@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ENVR,200,,201,INTR ENVRMNT SCI,"Harris, Sara;Holland, Tara",49,77.98,11.15,90,20,46,1,2,0,0,0,0,1,0,0,1,0,2,0,1,2,5,9,17,9,1
+UBC,2015,W,EOSC,515,,201,GRAD SEMINAR,"Holland, Tara",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EOSC,516,,101,TEACH&LRN EOASC,"Holland, Tara",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,ENVR,200,,201,INTR ENVRMNT SCI,"Harris, Sara;Holland, Tara",43,79.62,8.26,89,48,41,1,1,0,0,0,0,0,0,1,1,0,1,1,0,2,2,5,21,9,0
+UBC,2016,W,EOSC,515,,201,GRAD SEMINAR,"Holland, Tara;Sherman, Sarah",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EOSC,516,,101,TEACH&LRN EOASC,"Holland, Tara;Sherman, Sarah",14,,,,,0,0,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2015,W,ENVR,200,,201,Introduction to Environmental Science,Sara Harris;Sarah Klain;Tara Holland,47,77.978723404,11.154038773,90.0,20.0,,,,,,,,,,,,,,,,,5,9,17,9,
+UBCV,2016,W,ENVR,200,,201,Introduction to Environmental Science,Harold Eyster;Harold Nelson Eyster;Sara Harris;Tara Holland,42,79.61904762,8.263798161,89.0,48.0,,,,,,,,,,,1,0,1,1,0,2,2,5,21,9,0

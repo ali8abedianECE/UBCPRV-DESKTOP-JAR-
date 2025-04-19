@@ -1,0 +1,108 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",8,93.5,3.63,99,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,,,
+UBC,2009,W,MUSC,428,E,001,AREA STDY-ETHNIC,"Gbolonyo, Justice",15,94,4.22,97,84,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,,,
+UBC,2009,W,MUSC,531,D,001,SEM ETHNMUSCOLGY,"Gbolonyo, Justice",5,94.6,2.19,97,93,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2009,W,MUSC,565,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",6,92.75,4.5,95,86,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2010,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",19,87.94,9.27,99,71,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,2,10,,,
+UBC,2010,W,MUSC,428,E,001,AREA STDY-ETHNIC,"Gbolonyo, Justice",11,89.4,4.6,95,78,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,,,
+UBC,2011,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",43,90.24,4.73,97,78,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,15,22,,,
+UBC,2011,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",19,79.68,13.28,99,50,19,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,2,4,6,3,,,
+UBC,2011,W,MUSC,428,E,001,AREA STDY-ETHNIC,"Gbolonyo, Justice",22,92.71,2.05,95,86,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,19,,,
+UBC,2011,W,MUSC,530,,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",10,86.44,4.28,92,80,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,,,
+UBC,2012,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",37,86.11,6.3,93,64,36,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,6,10,15,,,
+UBC,2012,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",8,73.57,32.96,95,0,6,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,3,0,2,,,
+UBC,2012,W,MUSC,428,E,001,AREA STDY-ETHNIC,"Gbolonyo, Justice",16,85.75,7.22,91,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,10,3,,,
+UBC,2012,W,MUSC,530,A,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",7,86.29,5.44,92,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,,,
+UBC,2012,W,MUSC,532,G,001,MUS HIST&MUSICOL,"Gbolonyo, Justice",6,89.6,3.13,93,85,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,,,
+UBC,2013,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",52,87.36,5.09,95,77,50,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,16,20,,,
+UBC,2013,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",17,87.41,8.6,98,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,3,8,,,
+UBC,2013,W,MUSC,428,E,001,AREA STDY-ETHNIC,"Gbolonyo, Justice",25,88.17,2.91,91,81,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,11,,,
+UBC,2013,W,MUSC,530,B,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",7,88,8.16,97,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,,,
+UBC,2013,W,MUSC,530,B,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",7,88,8.16,97,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,,,
+UBC,2013,W,MUSC,565,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",4,95.75,2.36,99,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2014,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",64,85.74,12.24,97,9,61,1,0,0,0,1,0,0,0,0,1,0,0,0,2,1,2,6,6,16,28,,,
+UBC,2014,W,AFST,250,A,002,INTRO AFRI STUDY,"Gbolonyo, Justice",61,82.76,16.68,95,0,57,2,2,0,0,2,0,0,0,0,2,0,0,0,0,0,4,6,7,26,14,,,
+UBC,2014,W,AFST,352,A,002,PRSPCTV: SOC SCI,"Gbolonyo, Justice",22,86.43,5.59,94,69,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,11,6,,,
+UBC,2014,W,MUSC,165,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",8,93.38,2.83,99,91,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,,,
+UBC,2014,W,MUSC,530,A,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",7,92.14,1.35,94,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2014,W,MUSC,565,D,001,ASIAN MUSIC ENS,"Gbolonyo, Justice",4,93.75,1.89,95,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2015,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",65,86.98,7.17,97,51,64,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,7,7,23,25,,,
+UBC,2015,W,AFST,250,A,002,INTRO AFRI STUDY,"Gbolonyo, Justice",59,82.59,10.18,93,28,57,1,0,1,0,0,0,1,0,0,1,0,0,0,3,1,6,3,12,20,12,,,
+UBC,2015,W,AFST,352,A,002,PRSPCTV: SOC SCI,"Gbolonyo, Justice",38,82.05,18.14,94,0,35,2,1,0,0,1,0,1,0,0,2,0,1,0,0,0,2,1,8,12,11,,,
+UBC,2015,W,MUSC,165,G,001,WORLD MUSIC ENS,"Gbolonyo, Justice",17,92.65,5.01,99,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,14,,,
+UBC,2016,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",73,84.33,12,98,25,70,2,1,0,0,0,0,1,1,0,2,0,1,0,1,2,1,9,9,20,27,,,
+UBC,2016,W,AFST,250,A,002,INTRO AFRI STUDY,"Gbolonyo, Justice",63,83.68,13.52,96,0,61,1,0,1,0,1,0,0,0,0,1,1,0,0,1,1,5,6,7,17,23,,,
+UBC,2016,W,AFST,352,A,002,PRSPCTV: SOC SCI,"Gbolonyo, Justice",37,82.06,7.53,95,63,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,6,8,8,6,,,
+UBC,2016,W,MUSC,165,G,001,WORLD MUSIC ENS,"Gbolonyo, Justice",15,91.4,5.6,98,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,10,,,
+UBC,2016,W,MUSC,530,A,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",7,89.43,3.31,94,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,,,
+UBC,2017,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",60,82.37,8.33,94,59,57,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,4,8,9,13,15,,,
+UBC,2017,W,AFST,250,A,002,INTRO AFRI STUDY,"Gbolonyo, Justice",71,84.12,9.02,97,55,67,0,1,1,0,0,0,0,0,0,0,0,3,0,0,2,4,6,15,16,21,,,
+UBC,2017,W,AFST,352,A,002,PRSPCTV: SOC SCI,"Gbolonyo, Justice",21,90.35,11.08,95,45,19,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,18,,,
+UBC,2017,W,MUSC,165,G,001,WORLD MUSIC ENS,"Gbolonyo, Justice",13,89.62,5.87,96,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,,,
+UBC,2018,W,AFST,250,A,001,INTRO AFRI STUDY,"Gbolonyo, Justice",66,81.94,13.18,97,22,64,2,0,0,0,0,0,2,0,0,2,1,0,0,1,6,2,7,13,17,17,,,
+UBC,2018,W,AFST,250,A,002,INTRO AFRI STUDY,"Gbolonyo, Justice",59,76.26,13.96,97,27,54,3,1,0,1,0,0,1,0,2,3,0,4,2,3,5,8,5,7,10,10,,,
+UBC,2018,W,AFST,352,A,002,PRSPCTV: SOC SCI,"Gbolonyo, Justice",12,89.17,3.33,93,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,,,
+UBC,2018,W,MUSC,165,D,001,WORLD MUSIC ENS,"Gbolonyo, Justice",5,87.4,2.41,90,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2018,W,MUSC,165,G,001,WORLD MUSIC ENS,"Gbolonyo, Justice",6,87.83,2.79,91,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2018,W,MUSC,403,V,001,SELECTED TOPICS,"Gbolonyo, Justice",6,84.2,1.64,86,82,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,,,
+UBC,2018,W,MUSC,530,D,001,ETHNOMUSICOLOGY,"Gbolonyo, Justice",10,87.5,4.58,97,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,2,,,
+UBCV,2014,W,AFST,250,A,001,Introduction to African Studies,Justice Gbolonyo;Justice Stephen Gbolonyo,64,85.640625,12.08352832,97.0,9.0,,,,,,,,,,,,,,,,,,7,6,17,28,,,
+UBCV,2014,W,AFST,250,A,002,Introduction to African Studies,Justice Gbolonyo;Justice Stephen Gbolonyo,59,82.76271186,16.68091929,95.0,0.0,,,,,,,,,,,,,,,,,,6,7,26,14,,,
+UBCV,2014,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo;Justice Stephen Gbolonyo,21,86.42857143,5.590808784,94.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,11,6,,,
+UBCV,2014,W,MUSC,165,D,001,Asian Music Ensemble,Justice Gbolonyo;Justice Stephen Gbolonyo,8,93.375,2.825268635,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2015,W,AFST,250,A,001,Introduction to African Studies,Joash Gambarage Johannes;Joash Johannes;Justice Gbolonyo;Justice Stephen Gbolonyo,64,86.984375,7.174673683,97.0,51.0,,,,,,,,,,,0,,,,,,1,7,7,23,25,,,
+UBCV,2015,W,AFST,250,A,002,Introduction to African Studies,Hiba Morcos;Justice Gbolonyo;Justice Stephen Gbolonyo,58,82.586206897,10.179157382,93.0,28.0,,,,,,,,,,,,,,,,,6,3,12,20,12,,,
+UBCV,2015,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Curtis Andrews;Justice Gbolonyo;Justice Stephen Gbolonyo,37,82.054054054,18.139805747,94.0,0.0,,,,,,,,,,,,,,,,,,,8,12,11,,,
+UBCV,2015,W,MUSC,165,G,001,World Music Ensembles,Justice Gbolonyo;Justice Stephen Gbolonyo,17,92.647058824,5.011750898,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,14,,,
+UBCV,2016,W,AFST,250,A,001,Introduction to African Studies,Curtis Andrews;Justice Gbolonyo;Justice Stephen Gbolonyo,72,84.33333333,12.00469392,98.0,25.0,,,,,,,,,,,2,0,1,0,1,2,1,9,9,20,27,,,
+UBCV,2016,W,AFST,250,A,002,Introduction to African Studies,Joash Gambarage;Joash Gambarage Johannes;Joash Johannes;Justice Gbolonyo;Justice Stephen Gbolonyo,62,83.67741936,13.51717086,96.0,0.0,,,,,,,,,,,1,1,0,0,1,1,5,6,7,17,23,,,
+UBCV,2016,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Juliane Okot Bitek;Justice Gbolonyo;Justice Stephen Gbolonyo,37,82.05405405,7.317960956,95.0,63.0,,,,,,,,,,,0,0,0,1,0,2,4,6,10,8,6,,,
+UBCV,2016,W,MUSC,165,G,001,World Music Ensembles,Justice Gbolonyo;Justice Stephen Gbolonyo,15,91.4,5.60357029,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,10,,,
+UBCV,2017,W,AFST,250,A,001,Introduction to African Studies,Emily Allan;Justice Gbolonyo;Justice Stephen Gbolonyo,60,82.383333333,8.184507205,94.0,59.0,,,,,,,,,,,0,0,1,0,1,6,4,9,9,15,15,,,
+UBCV,2017,W,AFST,250,A,002,Introduction to African Studies,Joash Gambarage;Joash Gambarage Johannes;Joash Johannes;Justice Gbolonyo;Justice Stephen Gbolonyo;Suzanne James,69,84.231884058,8.956011664,97.0,55.0,,,,,,,,,,,0,0,3,0,0,2,4,6,16,16,22,,,
+UBCV,2017,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo;Justice Stephen Gbolonyo,20,90.35,11.075221276,95.0,45.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,0,18,,,
+UBCV,2017,W,MUSC,165,G,001,World Music Ensembles,Justice Gbolonyo,13,89.615384615,5.867118281,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,5,,,
+UBCV,2018,W,AFST,250,A,001,Introduction to African Studies,Joash Gambarage;Joash Johannes;Justice Gbolonyo;Justice Stephen Gbolonyo,66,81.939393939,13.180263553,97.0,22.0,,,,,,,,,,,2,1,0,0,1,6,2,7,13,17,17,,,
+UBCV,2018,W,AFST,250,A,002,Introduction to African Studies,Joash Gambarage;Joash Johannes;Justice Gbolonyo;Justice Stephen Gbolonyo,57,76.263157895,13.961076396,97.0,27.0,,,,,,,,,,,3,0,4,2,3,5,8,5,7,10,10,,,
+UBCV,2018,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo;Justice Stephen Gbolonyo,12,89.166666667,3.325748947,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7,,,
+UBCV,2018,W,MUSC,165,G,001,World Music Ensembles,Justice Gbolonyo,6,87.833333333,2.786873995,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2018,W,MUSC,530,D,001,Topics in Ethnomusicology,Justice Gbolonyo;Justice Stephen Gbolonyo,10,87.5,4.576510073,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,7,2,,,
+UBCV,2019,W,AFST,250,A,001,Introduction to African Studies,Justice Gbolonyo;Justice Stephen Gbolonyo,42,73.214285714,12.268412174,93.0,50.0,,,,,,,,,,,0,2,7,3,2,4,5,4,7,3,5,,,
+UBCV,2019,W,AFST,250,A,002,Introduction to African Studies,Justice Gbolonyo;Justice Stephen Gbolonyo,41,77.170731707,10.411297803,93.0,50.0,,,,,,,,,,,0,2,0,3,2,2,6,6,8,7,5,,,
+UBCV,2019,W,AFST,250,A,003,Introduction to African Studies,Justice Gbolonyo;Justice Stephen Gbolonyo,43,78.209302326,8.757467941,91.0,51.0,,,,,,,,,,,0,1,1,0,1,4,10,6,6,11,3,,,
+UBCV,2019,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Deena Dinat;Justice Gbolonyo;Justice Stephen Gbolonyo,24,81.291666667,5.819600813,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,3,13,5,1,,,
+UBCV,2019,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,9,82.888888889,9.252627255,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,0,2,2,3,,,
+UBCV,2020,S,AFST,352,B,001,Perspectives in African Studies: A Social Science Approach,Deena Dinat;Justice Gbolonyo;Justice Stephen Gbolonyo,38,75.210526316,10.687598003,91.0,50.0,,,,,,,,,,,0,2,1,3,2,4,6,4,9,5,2,,,
+UBCV,2020,W,AFST,250,A,001,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo;Justice Stephen Gbolonyo,39,79.41025641,13.106282039,94.0,51.0,,,,,,,,,,,0,5,0,2,0,2,2,2,6,14,6,,,
+UBCV,2020,W,AFST,250,A,002,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo;Justice Stephen Gbolonyo,26,81.423076923,10.292416925,92.0,56.0,,,,,,,,,,,0,0,1,1,2,2,0,1,4,11,4,,,
+UBCV,2020,W,AFST,250,A,003,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo;Justice Stephen Gbolonyo,26,85.5,5.839520528,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,8,8,7,,,
+UBCV,2020,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Joann Anokwuru;Justice Gbolonyo;Justice Stephen Gbolonyo,12,84.666666667,5.482755335,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,7,1,,,
+UBCV,2020,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,7,85.142857143,1.67616342,87.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,0,,,
+UBCV,2021,S,AFST,352,B,001,Perspectives in African Studies: A Social Science Approach,Deena Dinat;Joann Anokwuru;Justice Gbolonyo,16,74.875,22.945950986,95.0,0.0,,,,,,,,,,,1,1,0,0,1,1,1,1,3,5,2,,,
+UBCV,2021,W,AFST,250,A,001,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,41,78.609756098,14.035451629,94.0,21.0,,,,,,,,,,,1,1,1,3,1,4,4,3,2,12,9,,,
+UBCV,2021,W,AFST,250,A,002,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,36,78.833333333,16.863316061,95.0,0.0,,,,,,,,,,,1,1,1,1,0,2,2,6,6,9,7,,,
+UBCV,2021,W,AFST,250,A,003,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,25,77.84,15.195064988,92.0,24.0,,,,,,,,,,,1,2,0,0,0,2,1,3,5,7,4,,,
+UBCV,2021,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Joann Anokwuru;Justice Gbolonyo,18,80.666666667,10.538445024,89.0,60.0,,,,,,,,,,,0,0,0,2,0,3,0,1,2,10,0,,,
+UBCV,2021,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,9,84.0,1.802775638,87.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,0,,,
+UBCV,2021,W,MUSC,428,E,001,Topics in World Music,Justice Gbolonyo,13,78.461538462,22.758205057,95.0,10.0,,,,,,,,,,,1,1,0,0,0,0,0,0,2,7,2,,,
+UBCV,2021,S,AFST,352,B,001,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo,16,74.9,,95.0,0.0,,,,,,,,,,,,,,,,,,,,,,81.5,87.0,73.3
+UBCV,2021,W,AFST,250,A,001,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,41,78.6,,94.0,21.0,,,,,,,,,,,,,,,,,,,,12,9,85.0,89.0,71.0
+UBCV,2021,W,AFST,250,A,002,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,36,78.8,,95.0,0.0,,,,,,,,,,,,,,,,,,6,6,9,7,83.0,88.3,76.0
+UBCV,2021,W,AFST,250,A,003,Introduction to African Studies,Joann Anokwuru;Justice Gbolonyo,25,77.8,,92.0,24.0,,,,,,,,,,,,,,,,,,,,7,,81.0,86.0,78.0
+UBCV,2021,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Joann Anokwuru;Justice Gbolonyo,18,80.7,,89.0,60.0,,,,,,,,,,,,,,,,,,,,10,,86.0,89.0,71.5
+UBCV,2021,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,9,84.0,,87.0,82.0,,,,,,,,,,,,,,,,,,,,,,85.0,85.0,82.0
+UBCV,2021,W,MUSC,428,E,001,Topics in World Music,Justice Gbolonyo,13,78.5,,95.0,10.0,,,,,,,,,,,,,,,,,,,,7,,86.0,88.0,82.0
+UBCV,2022,S,AFST,352,B,001,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo,14,81.3,,91.0,55.0,,,,,,,,,,,0,0,1,0,0,1,0,2,3,5,2,84.0,86.0,79.5
+UBCV,2022,W,AFST,250,A,001,Introduction to African Studies,Justice Gbolonyo,40,77.5,,92.0,51.0,,,,,,,,,,,0,5,3,0,0,1,1,5,12,7,6,81.5,86.3,76.3
+UBCV,2022,W,AFST,250,A,002,Introduction to African Studies,Justice Gbolonyo,34,78.5,,94.0,51.0,,,,,,,,,,,0,1,1,0,2,8,1,1,9,5,6,81.5,86.8,69.0
+UBCV,2022,W,AFST,250,A,003,Introduction to African Studies,Justice Gbolonyo,34,81.2,,92.0,65.0,,,,,,,,,,,0,0,0,0,2,3,2,6,7,12,2,82.5,87.0,78.0
+UBCV,2022,W,AFST,352,A,002,Perspectives in African Studies: A Social Science Approach,Justice Gbolonyo,12,85.2,,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,8,1,86.0,88.3,84.8
+UBCV,2022,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,12,85.4,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,3,84.5,86.3,81.5
+UBCV,2022,W,MUSC,328,E,001,World Music Cultures,Justice Gbolonyo,26,84.3,,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,3,1,7,8,6,86.0,89.0,82.3
+UBCV,2022,W,MUSC,428,E,001,Topics in World Music,Justice Gbolonyo,22,84.7,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,4,13,2,86.5,87.8,82.3
+UBCV,2023,W,AFST,250,A,101,Introduction to African Studies,Justice Gbolonyo,33,80.13,,95.0,51.0,,,,,,,,,,,0,1,0,0,3,1,3,4,10,5,5,82.0,85.25,76.5
+UBCV,2023,W,AFST,250,A,102,Introduction to African Studies,Justice Gbolonyo,22,80.94,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,3,2,5,3,80.0,86.75,74.5
+UBCV,2023,W,AFST,250,A,201,Introduction to African Studies,Justice Gbolonyo,30,82.3,,94.0,51.0,,,,,,,,,,,0,1,0,0,2,0,0,5,10,5,7,83.5,87.75,79.5
+UBCV,2023,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,9,84.3,,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,4,1,85.0,88.0,82.0
+UBCV,2023,W,MUSC,328,E,001,World Music Cultures,Justice Gbolonyo,24,84.6,,94.0,60.0,,,,,,,,,,,0,0,0,1,2,0,0,1,4,7,9,86.5,91.3,81.0
+UBCV,2023,W,MUSC,428,E,001,Topics in World Music,Justice Gbolonyo,15,84.5,,91.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,0,4,4,5,86.0,90.0,84.0

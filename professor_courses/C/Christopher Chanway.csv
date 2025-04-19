@@ -1,0 +1,73 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,AGRO,342,,001,SOIL BIOLOGY,"Chanway, Christopher",14,79.64,7.57,90,64,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3,4,1,,,
+UBC,2003,W,AGRO,342,,001,SOIL BIOLOGY,"Chanway, Christopher",6,84.5,11.59,99,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,2,,,
+UBC,2003,W,BIOL,111,,102,Cell & Orgsml Bio,"Chanway, Christopher",222,66.83,17.09,98,0,199,21,2,0,0,5,0,2,4,10,21,18,20,24,21,16,24,21,26,22,7,,,
+UBC,2003,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",4,83.25,14.24,95,64,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,,,
+UBC,2005,W,AGRO,342,,001,SOIL BIOLOGY,"Chanway, Christopher",5,87.2,3.7,92,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,,,
+UBC,2005,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",5,76,6.28,85,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,0,,,
+UBC,2006,W,AGRO,342,,001,SOIL BIOLOGY,"Chanway, Christopher",16,81.6,8.76,96,64,15,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,4,3,3,,,
+UBC,2006,W,FRST,201,,001,FOR ECOL SILV,"Chanway, Christopher;Simard, Suzanne",76,76.32,10.79,97,45,72,1,0,0,3,0,0,0,0,1,1,3,0,4,6,7,12,11,12,9,8,,,
+UBC,2007,W,AGRO,342,,001,SOIL BIOLOGY,"Chanway, Christopher",6,87.83,7.52,93,73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,,,
+UBC,2007,W,AGRO,403,,001,LAB SOIL SCI,"Chanway, Christopher;Krzic, Maja;Novak, Mike David",10,76,11.99,93,58,10,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,3,1,1,,,
+UBC,2007,W,FRST,201,,001,FOREST ECOLOGY,"Chanway, Christopher;Simard, Suzanne",83,74.34,13.27,97,0,82,1,0,0,0,1,0,0,0,0,1,2,6,5,4,11,9,15,14,9,7,,,
+UBC,2007,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",7,85.57,10.03,100,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,,,
+UBC,2009,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",10,74.9,20,95,23,9,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,3,0,1,3,1,,,
+UBC,2010,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",6,78.8,6.57,88,70,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,0,,,
+UBC,2011,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",16,73.31,13.5,89,36,15,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,4,4,3,2,0,,,
+UBC,2012,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",9,80.38,9.68,90,61,8,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2,2,1,,,
+UBC,2012,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",55,74.78,18.6,99,5,50,4,1,0,0,1,0,0,1,2,4,7,0,2,1,2,6,4,8,10,10,,,
+UBC,2013,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",16,80.13,11.54,94,55,15,0,1,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,3,2,4,,,
+UBC,2013,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",57,69.44,19.9,99,15,47,8,2,0,0,0,1,1,3,3,8,6,4,1,5,2,5,2,8,6,8,,,
+UBC,2013,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",4,76,16.83,86,51,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,,,
+UBC,2014,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",11,79.45,5.82,87,69,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,2,0,,,
+UBC,2014,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",61,72.25,18.87,99,7,53,4,1,0,0,1,0,1,2,0,4,4,4,4,3,6,5,5,7,3,12,,,
+UBC,2014,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",5,84.6,6.66,92,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,,,
+UBC,2015,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",9,79.67,9.33,94,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,3,0,2,,,
+UBC,2015,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",66,76.63,15.88,97,28,62,3,1,0,0,0,0,1,1,1,3,5,1,4,2,5,1,9,13,8,14,,,
+UBC,2015,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",6,77.5,11.34,91,61,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,1,1,,,
+UBC,2016,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",10,75.6,12.39,90,50,10,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,1,1,1,2,,,
+UBC,2016,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",60,65.37,17.55,96,10,54,5,1,0,0,0,2,1,2,0,5,7,6,7,5,5,5,5,8,2,4,,,
+UBC,2016,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",9,75.44,14.13,96,55,9,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,1,2,1,,,
+UBC,2017,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",13,89.69,6.85,98,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,9,,,
+UBC,2017,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",56,76.35,16.93,97,4,54,1,1,0,0,1,0,0,0,0,1,5,3,3,2,4,4,2,11,7,13,,,
+UBC,2017,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",4,86.5,6.35,96,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,,,
+UBC,2018,W,APBI,342,,001,SOIL BIOLOGY,"Chanway, Christopher",18,87.17,8.48,98,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,2,9,,,
+UBC,2018,W,FRST,303,,101,PRIN FRST SCI,"Chanway, Christopher",41,85,11.49,99,57,31,0,0,5,0,0,0,0,0,0,0,0,1,1,1,1,4,1,3,7,12,,,
+UBC,2018,W,FRST,310,,001,SOIL BIOLOGY,"Chanway, Christopher",9,86.78,7.56,100,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,4,,,
+UBCV,2014,W,APBI,342,,001,Soil Biology,Christopher Chanway,11,79.45454546,5.820028116,87.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,,0,,,
+UBCV,2014,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway,60,71.73333333,18.53065867,99.0,7.0,,,,,,,,,,,,,5,5,,6,5,5,7,,12,,,
+UBCV,2014,W,FRST,310,,001,Soil Biology,Christopher Chanway,5,84.6,6.655824517,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2015,W,APBI,342,,001,Soil Biology,Christopher Chanway,9,79.666666667,9.327379053,94.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2015,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway,65,76.630769231,15.877036514,97.0,28.0,,,,,,,,,,,,5,,,,5,,9,13,8,14,,,
+UBCV,2015,W,FRST,310,,001,Soil Biology,Christopher Chanway,6,77.5,11.344602241,91.0,61.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2016,W,APBI,342,,001,Soil Biology,Christopher Chanway,10,75.6,12.39354671,90.0,50.0,,,,,,,,,,,0,1,0,1,0,0,3,1,1,1,2,,,
+UBCV,2016,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway,59,65.37288136,17.55081126,96.0,10.0,,,,,,,,,,,5,7,6,7,5,5,5,5,8,2,4,,,
+UBCV,2016,W,FRST,310,,001,Soil Biology,Christopher Chanway,9,75.44444444,14.1342767,96.0,55.0,,,,,,,,,,,0,0,2,1,0,0,0,2,1,2,1,,,
+UBCV,2017,W,APBI,342,,001,Soil Biology,Christopher Chanway,13,89.692307692,6.848170259,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,1,9,,,
+UBCV,2017,W,FRST,303,,101,Principles of Forest Science,Akshit Puri;Christopher Chanway,55,76.345454545,16.930378331,97.0,4.0,,,,,,,,,,,1,5,3,3,2,4,4,2,11,7,13,,,
+UBCV,2018,W,APBI,342,,001,Soil Biology,Christopher Chanway,18,87.166666667,8.480080466,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,2,9,,,
+UBCV,2018,W,FRST,303,,101,Principles of Forest Science,Akshit Puri;Christopher Chanway,36,84.75,11.097940607,99.0,57.0,,,,,,,,,,,0,0,1,1,1,1,6,1,4,8,13,,,
+UBCV,2018,W,FRST,310,,001,Soil Biology,Christopher Chanway,9,86.777777778,7.56270087,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,1,4,,,
+UBCV,2019,W,APBI,342,,001,Soil Biology,Christopher Chanway,11,92.909090909,6.024193647,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,8,,,
+UBCV,2019,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway;Kiran Padda;Kiran Preet Padda,62,85.209677419,10.47266089,100.0,50.0,,,,,,,,,,,0,1,1,0,2,1,4,6,13,11,23,,,
+UBCV,2019,W,FRST,310,,001,Soil Biology,Christopher Chanway,10,88.0,5.416025603,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,4,,,
+UBCV,2020,W,APBI,342,,001,Soil Biology,Christopher Chanway,20,91.55,6.80150912,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,12,,,
+UBCV,2020,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway;Marcos Riquelme Rios;Yueru Zhao,170,94.341176471,6.843219667,100.0,50.0,,,,,,,,,,,0,1,0,0,1,0,3,1,6,15,143,,,
+UBCV,2020,W,FRST,310,,001,Soil Biology,Christopher Chanway,9,91.222222222,7.18988487,99.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,0,7,,,
+UBCV,2021,W,APBI,342,,001,Soil Biology,Christopher Chanway,12,93.416666667,5.664215156,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9,,,
+UBCV,2021,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway;Hui Yuan;Marcos Riquelme Rios;Yueru Zhao,322,96.900621118,4.393006292,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,2,1,13,303,,,
+UBCV,2021,W,FRST,310,,001,Soil Biology,Christopher Chanway,10,94.0,5.249338583,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2021,W,APBI,342,,001,Soil Biology,Christopher Chanway,12,93.4,,99.0,82.0,,,,,,,,,,,,,,,,,,,,,9,96.0,97.5,89.5
+UBCV,2021,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway,322,96.9,,100.0,71.0,,,,,,,,,,,,,,,,,,,,13,303,98.0,100.0,96.0
+UBCV,2021,W,FRST,310,,001,Soil Biology,Christopher Chanway,10,94.0,,100.0,84.0,,,,,,,,,,,,,,,,,,,,,7,95.0,98.0,90.0
+UBCV,2022,W,APBI,342,,001,Soil Biology,Christopher Chanway,23,94.6,,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,1,21,97.0,98.5,92.5
+UBCV,2022,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway,1643,93.1,,100.0,0.0,,,,,,,,,,,2,0,0,0,0,0,2,8,40,181,1410,94.0,96.0,92.0
+UBCV,2022,W,FRST,310,,001,Soil Biology,Christopher Chanway,10,95.4,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,95.5,97.0,94.3
+UBCV,2023,W,FRST,303,,101,Principles of Forest Science,Christopher Chanway;Akshit Puri,199,88.6,,99.0,57.0,,,,,,,,,,,0,0,2,0,0,0,4,9,25,47,111,90.0,93.0,85.0
+UBCV,2023,W,FRST,303,,102,Principles of Forest Science,Christopher Chanway;Akshit Puri,200,86.9,,99.0,64.0,,,,,,,,,,,0,0,0,0,1,4,7,8,31,69,79,87.0,91.0,83.0
+UBCV,2023,W,FRST,303,,103,Principles of Forest Science,Christopher Chanway;Akshit Puri,199,85.5,,100.0,61.0,,,,,,,,,,,0,0,0,1,0,3,6,16,47,61,64,86.0,90.0,81.3
+UBCV,2023,W,FRST,303,,104,Principles of Forest Science,Christopher Chanway;Akshit Puri,200,84.6,,96.0,0.0,,,,,,,,,,,1,0,0,0,1,5,6,22,43,56,65,86.0,90.0,81.0
+UBCV,2023,W,FRST,303,,105,Principles of Forest Science,Christopher Chanway;Akshit Puri,197,87.3,,100.0,64.0,,,,,,,,,,,0,0,0,0,2,3,8,20,27,37,100,90.0,93.0,82.0
+UBCV,2023,W,FRST,303,,106,Principles of Forest Science,Christopher Chanway;Akshit Puri,198,85.3,,99.0,14.0,,,,,,,,,,,1,0,1,0,3,2,2,20,43,57,68,85.0,91.0,81.0
+UBCV,2023,W,FRST,303,,107,Principles of Forest Science,Christopher Chanway;Akshit Puri,190,87.3,,98.0,66.0,,,,,,,,,,,0,0,0,0,2,2,4,9,24,63,86,88.0,92.0,85.0
+UBCV,2023,W,FRST,303,,108,Principles of Forest Science,Christopher Chanway;Akshit Puri,198,84.7,,97.0,51.0,,,,,,,,,,,0,1,0,0,1,0,12,16,45,68,53,85.5,90.0,81.0

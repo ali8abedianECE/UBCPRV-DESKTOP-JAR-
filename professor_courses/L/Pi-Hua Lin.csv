@@ -1,0 +1,107 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,CHIN,131,,008,BASIC CHIN I 1,"Lin, Pi-Hua",16,77.13,9.3,90,62,15,0,0,1,0,0,0,0,0,0,0,0,0,1,1,4,1,1,2,4,1,,,
+UBC,2016,W,CHIN,133,,008,BASIC CHIN I 2,"Lin, Pi-Hua",14,81.85,12.61,93,51,13,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,3,5,,,
+UBC,2016,W,CHIN,141,,002,BASIC CHIN I 1,"Lin, Pi-Hua",29,78.48,10.67,90,46,28,1,0,0,0,0,0,0,0,1,1,0,1,1,0,5,2,3,5,10,1,,,
+UBC,2016,W,CHIN,141,,003,BASIC CHIN I 1,"Lin, Pi-Hua",22,84.43,6.29,95,71,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,5,5,,,
+UBC,2016,W,CHIN,143,,002,BASIC CHIN I 2,"Lin, Pi-Hua",28,79.78,8.29,92,60,27,0,1,0,0,0,0,0,0,0,0,0,0,1,3,2,1,2,9,8,1,,,
+UBC,2016,W,CHIN,143,,003,BASIC CHIN I 2,"Lin, Pi-Hua",19,81.11,6.44,90,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,3,6,1,,,
+UBC,2017,W,CHIN,131,,003,BASIC CHIN I 1,"Lin, Pi-Hua;Wang, Hsiang-ning",27,78.85,9.55,92,56,26,0,1,0,0,0,0,0,0,0,0,0,1,1,2,1,5,0,6,8,2,,,
+UBC,2017,W,CHIN,131,,008,BASIC CHIN I 1,"Kuo, Yu-Chi;Lin, Pi-Hua",22,84.68,11.36,94,40,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,5,5,9,,,
+UBC,2017,W,CHIN,131,,010,BASIC CHIN I 1,"Lin, Pi-Hua",25,76.73,20.48,92,0,21,1,3,0,0,1,0,0,0,0,1,1,0,1,0,3,2,1,1,8,4,,,
+UBC,2017,W,CHIN,133,,001,BASIC CHIN I 2,"Lin, Pi-Hua;Zheng, Bin",14,70,12.84,89,50,13,0,1,0,0,0,0,0,0,0,0,1,2,2,0,2,1,0,3,2,0,,,
+UBC,2017,W,CHIN,133,,008,BASIC CHIN I 2,"Lin, Pi-Hua",28,78.96,11.55,91,42,27,1,0,0,0,0,0,0,0,1,1,1,0,0,1,2,1,7,5,5,5,,,
+UBC,2017,W,CHIN,141,,002,BASIC CHIN I 1,"Lin, Pi-Hua;Wang, Hsiang-ning",19,85.28,9.07,95,63,18,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,7,6,,,
+UBC,2017,W,CHIN,143,,002,BASIC CHIN I 2,"Lin, Pi-Hua",27,79.56,11.84,95,53,27,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,1,4,5,6,5,,,
+UBC,2018,W,CHIN,131,,001,BASIC CHIN I 1,"Lin, Pi-Hua",24,86.41,6.82,96,67,22,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,3,5,2,11,,,
+UBC,2018,W,CHIN,131,,004,BASIC CHIN I 1,"Lin, Pi-Hua",15,87.21,10.36,97,60,14,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,4,7,,,
+UBC,2018,W,CHIN,133,,001,BASIC CHIN I 2,"Lin, Pi-Hua",25,83,8.89,94,61,23,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,4,1,3,7,6,,,
+UBC,2018,W,CHIN,133,,004,BASIC CHIN I 2,"Lin, Pi-Hua",18,83.63,8.72,94,62,16,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,3,1,1,6,4,,,
+UBC,2018,W,CHIN,231,,003,BASIC CHIN II 1,"Lin, Pi-Hua",21,78.89,15.23,92,23,18,1,0,2,0,0,0,1,0,0,1,0,0,0,0,3,0,2,5,6,2,,,
+UBC,2018,W,CHIN,233,,003,BASIC CHIN II 2,"Lin, Pi-Hua",28,78.24,11.75,95,53,25,0,2,1,0,0,0,0,0,0,0,2,0,0,2,4,3,2,1,5,6,,,
+UBCV,2016,W,CHIN,131,,008,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin,15,77.13333333,9.295672316,90.0,62.0,,,,,,,,,,,0,0,0,1,1,4,1,1,2,4,1,,,
+UBCV,2016,W,CHIN,133,,008,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin,13,81.84615385,12.60850344,93.0,51.0,,,,,,,,,,,0,1,0,0,0,1,3,0,0,3,5,,,
+UBCV,2016,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Pi-Hua Lin;Ya Wen,29,78.48275862,10.66576864,90.0,46.0,,,,,,,,,,,1,0,1,1,0,5,2,3,5,10,1,,,
+UBCV,2016,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Pi-Hua Lin;Ya Wen,21,84.42857143,6.289446944,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,7,5,5,,,
+UBCV,2016,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Pi-Hua Lin,27,79.77777778,8.289628986,92.0,60.0,,,,,,,,,,,0,0,0,1,3,2,1,2,9,8,1,,,
+UBCV,2016,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Pi-Hua Lin,19,81.10526316,6.436827521,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,6,3,6,1,,,
+UBCV,2017,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Hsiang-Ning Wang;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,26,78.846153846,9.548580241,92.0,56.0,,,,,,,,,,,0,0,1,1,2,1,5,0,6,8,2,,,
+UBCV,2017,W,CHIN,131,,008,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,22,84.681818182,11.357340247,94.0,40.0,,,,,,,,,,,1,0,0,0,0,0,1,1,5,5,9,,,
+UBCV,2017,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ke Yuan;Pi-Hua Lin,22,76.727272727,20.475727368,92.0,0.0,,,,,,,,,,,1,1,0,1,0,3,2,1,1,8,4,,,
+UBCV,2017,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Bingling Hu;Pi-Hua Lin;Yilin Xie,13,70.0,12.838743448,89.0,50.0,,,,,,,,,,,0,1,2,2,0,2,1,0,3,2,0,,,
+UBCV,2017,W,CHIN,133,,008,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Jiao Jiao Han;Pi-Hua Lin;Qijiang Zhao,28,78.964285714,11.545344237,91.0,42.0,,,,,,,,,,,1,1,0,0,1,2,1,7,5,5,5,,,
+UBCV,2017,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Chieh-Yang Chang;Chien-Ju Lin;Pi-Hua Lin,7,79.428571429,6.078847008,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,1,0,,,
+UBCV,2017,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Bingling Hu;Hsiang-Ning Wang;Pi-Hua Lin,18,85.277777778,9.067106391,95.0,63.0,,,,,,,,,,,0,0,0,1,0,1,1,1,1,7,6,,,
+UBCV,2017,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Bin Zheng;Pi-Hua Lin;Ya Wen,15,79.533333333,7.443757372,88.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,6,0,6,0,,,
+UBCV,2017,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Bingling Hu;Pi-Hua Lin;Ya Wen,27,79.555555556,11.84298992,95.0,53.0,,,,,,,,,,,0,1,1,2,1,1,1,4,5,6,5,,,
+UBCV,2017,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Bin Zheng;Pi-Hua Lin;Ya Wen,17,77.882352941,9.239063487,90.0,60.0,,,,,,,,,,,0,0,0,2,1,0,1,7,1,4,1,,,
+UBCV,2018,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,22,86.409090909,6.821947012,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,3,5,2,11,,,
+UBCV,2018,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xiushu Li,24,89.958333333,8.301278931,100.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,3,2,17,,,
+UBCV,2018,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow;Xinxin Wu,14,87.214285714,10.356555497,97.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,0,4,7,,,
+UBCV,2018,W,CHIN,131,,008,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Chuhan Zeng;Pi-Hua Lin;Qian Wang,19,78.947368421,8.242664646,92.0,65.0,,,,,,,,,,,0,0,0,0,2,2,2,5,2,3,3,,,
+UBCV,2018,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Deyu Liu;Hsueh-Ni Chen;Jiao Jiao Han;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xinxin Wu,28,80.928571429,8.008923595,91.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,5,7,9,2,,,
+UBCV,2018,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Chien-Ju Lin;Hsueh-Ni Chen;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,23,83.0,8.893306983,94.0,61.0,,,,,,,,,,,0,0,0,1,0,1,4,1,3,7,6,,,
+UBCV,2018,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Chien-Ju Lin;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow;Xinxin Wu,17,82.588235294,9.46743645,94.0,62.0,,,,,,,,,,,0,0,0,1,1,0,3,1,1,6,4,,,
+UBCV,2018,W,CHIN,133,,008,Basic Chinese I: Part 2 (Non-Heritage),An-Yi Lee;Chien-Ju Lin;Jiao Jiao Han;Miru Wang;Pi-Hua Lin;Qian Wang;Siang Hu;Wayne Fan,25,73.28,12.762314315,88.0,28.0,,,,,,,,,,,1,0,0,1,6,2,2,4,4,5,0,,,
+UBCV,2018,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Qijiang Zhao;Shuyan Lei,24,84.291666667,10.002083116,93.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,0,1,9,9,,,
+UBCV,2018,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Shuyan Lei;Siang Hu;Wayne Fan,19,75.421052632,14.12372232,95.0,28.0,,,,,,,,,,,1,0,0,0,2,2,2,4,4,2,2,,,
+UBCV,2018,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),Chengmin Su;Pi-Hua Lin;Qian Wang;Xinxin Wu,19,78.894736842,15.22751434,92.0,23.0,,,,,,,,,,,1,0,0,0,0,3,0,2,5,6,2,,,
+UBCV,2018,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Chengmin Su;Chien-Ju Lin;Jiao Jiao Han;Pi-Hua Lin;Qian Wang,25,78.24,11.751879282,95.0,53.0,,,,,,,,,,,0,2,0,0,2,4,3,2,1,5,6,,,
+UBCV,2019,S,CHIN,133,,921,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin;Qian Wang,7,90.285714286,2.429971585,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,4,,,
+UBCV,2019,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Pi-Hua Lin;Qian Wang,15,87.8,7.203173904,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,2,8,,,
+UBCV,2019,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Jingjing Yi;Pi-Hua Lin;Qian Wang,23,85.695652174,6.145469748,92.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,1,3,11,6,,,
+UBCV,2019,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Pi-Hua Lin;Qian Wang;Ying-Hua Tsai,17,79.411764706,15.656703131,93.0,46.0,,,,,,,,,,,1,0,2,1,0,0,2,1,0,3,7,,,
+UBCV,2019,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),An-Yi Lee;Hsueh-Ni Chen;Jingjing Yi;Jun Wu;Menghan Gao;Pi-Hua Lin;Qian Wang;Tianmu Ji,20,79.1,12.247018971,92.0,50.0,,,,,,,,,,,0,2,0,1,1,0,1,1,4,9,1,,,
+UBCV,2019,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Jingjing Yi;Jun Wu;Menghan Gao;Pi-Hua Lin;Qian Wang;Tianmu Ji;Xinxin Wu;Ying-Hua Tsai,14,76.142857143,16.180981918,93.0,36.0,,,,,,,,,,,1,0,1,1,0,0,2,1,3,2,3,,,
+UBCV,2019,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Minjie Jin;Pi-Hua Lin;Qian Wang,25,76.64,6.726068688,88.0,64.0,,,,,,,,,,,0,0,0,0,1,4,6,6,4,4,0,,,
+UBCV,2019,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),Minjie Jin;Pi-Hua Lin;Qian Wang,31,83.193548387,6.539211751,91.0,65.0,,,,,,,,,,,0,0,0,0,1,0,4,3,7,12,4,,,
+UBCV,2019,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Junyi Zhang;Man Yin Zhu;Minjie Jin;Pi-Hua Lin;Qian Wang;Tianmu Ji,25,76.6,9.327379053,92.0,51.0,,,,,,,,,,,0,1,1,0,0,2,7,6,3,3,2,,,
+UBCV,2019,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Junyi Zhang;Man Yin Zhu;Ming Zhu Lu;Minjie Jin;Pi-Hua Lin;Qian Wang;Tianmu Ji,28,80.785714286,8.46061526,91.0,62.0,,,,,,,,,,,0,0,0,1,2,3,1,3,5,10,3,,,
+UBCV,2020,S,CHIN,133,,921,Basic Chinese I: Part 2 (Non-Heritage),Meng Zhang;Pi-Hua Lin;Qian Wang,8,84.75,4.464142855,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,2,2,,,
+UBCV,2020,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Meng Zhang;Pi-Hua Lin;Qian Wang,18,78.444444444,15.838234536,90.0,23.0,,,,,,,,,,,1,0,0,1,0,0,3,3,2,5,3,,,
+UBCV,2020,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Ying-Hua Tsai;Yudan Wang,18,86.722222222,6.35059567,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,5,9,,,
+UBCV,2020,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Li-Jung Lee;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Yudan Wang,29,86.689655172,7.955696289,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,3,2,7,14,,,
+UBCV,2020,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Ying-Hua Tsai;Yudan Wang,26,81.730769231,12.919930936,97.0,45.0,,,,,,,,,,,1,1,0,0,0,2,3,3,2,4,10,,,
+UBCV,2020,W,CHIN,131,,005,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Yudan Wang,26,82.961538462,10.097448269,95.0,50.0,,,,,,,,,,,0,1,0,0,1,1,1,2,6,6,8,,,
+UBCV,2020,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin;Qian Wang;Shiyang Zhang;Viktoriia Tian;Xinxin Wu;Yijun Yue;Ying-Hua Tsai,18,84.111111111,9.857149623,94.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,1,2,3,7,,,
+UBCV,2020,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Jiaqi Shi;Ni An;Pi-Hua Lin;Qian Wang;Shiyang Zhang;Yijun Yue;Yu Jia Sun;Yudan Wang,23,88.608695652,5.990440342,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,6,3,13,,,
+UBCV,2020,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Jiaqi Shi;Li-Jung Lee;Ni An;Pi-Hua Lin;Qian Wang;Shiyang Zhang;Xinxin Wu;Yijun Yue;Yu Jia Sun;Yudan Wang,23,85.043478261,10.877325293,96.0,50.0,,,,,,,,,,,0,1,0,1,0,0,1,1,2,7,10,,,
+UBCV,2020,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Man Yin Zhu;Pi-Hua Lin;Qian Wang;Siyu Liu,28,83.0,10.299226868,94.0,54.0,,,,,,,,,,,0,1,1,1,0,0,1,2,5,12,5,,,
+UBCV,2020,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),Man Yin Zhu;Ming Zhu Lu;Pi-Hua Lin;Qian Wang;Siyu Liu,21,83.428571429,6.037975063,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,2,5,8,3,,,
+UBCV,2020,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Bingzong Liu;Man Yin Zhu;Ming Zhu Lu;Pi-Hua Lin;Qian Wang;Siyu Liu,33,84.606060606,8.343932653,94.0,60.0,,,,,,,,,,,0,0,0,2,0,2,1,1,3,13,11,,,
+UBCV,2020,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Bingzong Liu;Man Yin Zhu;Ming Zhu Lu;Pi-Hua Lin;Qian Wang;Siyu Liu,23,83.043478261,9.221902096,96.0,61.0,,,,,,,,,,,0,0,0,1,1,0,2,4,4,4,7,,,
+UBCV,2021,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Leo Shin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Qianyi Chen,19,85.105263158,6.063504092,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,8,4,,,
+UBCV,2021,S,CHIN,133,,921,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin;Qian Wang;Qing Yuan Ma,19,86.0,4.333333333,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,10,3,,,
+UBCV,2021,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Pi-Hua Lin;Qian Wang;Qing Yuan Ma,15,87.266666667,4.399134114,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,5,,,
+UBCV,2021,S,CHIN,244,,951,Intensive Basic Chinese II (Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xintian Tang,9,85.777777778,3.270236145,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,1,,,
+UBCV,2021,S,CHIN,338,,951,Intensive Intermediate Chinese II (Non-Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xintian Tang,6,82.5,4.23083916,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,2,0,,,
+UBCV,2021,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Khushi Patil;Li-Jung Lee;Pi-Hua Lin;Qing Yuan Ma;Yi Chen,27,80.518518519,7.202405423,89.0,59.0,,,,,,,,,,,0,0,1,0,1,1,3,4,10,7,0,,,
+UBCV,2021,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Pi-Hua Lin;Qing Yuan Ma,23,82.391304348,10.00335912,92.0,50.0,,,,,,,,,,,0,1,0,0,1,1,1,1,5,10,3,,,
+UBCV,2021,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jennifer You;Pi-Hua Lin;Qing Yuan Ma;Ying-Hua Tsai;Yu Chun Peng,20,76.9,10.23358763,90.0,53.0,,,,,,,,,,,0,1,1,0,1,1,4,2,6,2,2,,,
+UBCV,2021,W,CHIN,131,,023,Basic Chinese I: Part 1 (Non-Heritage),Junyi Zhang;Pi-Hua Lin;Qing Yuan Ma;Rui Xu;Shiang-Han Lin;Yu An Tan,25,77.32,19.578304319,95.0,0.0,,,,,,,,,,,2,0,0,1,1,0,3,4,3,5,6,,,
+UBCV,2021,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Junyi Zhang;Pi-Hua Lin;Qing Yuan Ma;Rui Xu;Shiang-Han Lin,22,76.454545455,9.883739762,90.0,56.0,,,,,,,,,,,0,0,1,2,1,4,1,2,7,2,2,,,
+UBCV,2021,W,CHIN,133,,003,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin;Qing Yuan Ma,16,75.3125,9.271596411,89.0,57.0,,,,,,,,,,,0,0,1,1,1,1,4,2,3,3,0,,,
+UBCV,2021,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Pi-Hua Lin;Qing Yuan Ma,13,81.0,6.91616464,87.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,2,7,3,0,,,
+UBCV,2021,W,CHIN,231,,001,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Ming Zhu Lu;Pi-Hua Lin;Shiyang Zhang,28,75.571428571,17.714669735,91.0,0.0,,,,,,,,,,,1,2,0,0,1,1,5,2,11,4,1,,,
+UBCV,2021,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Ming Zhu Lu;Pi-Hua Lin;Rui Xu;Shiang-Han Lin;Shiyang Zhang,26,75.153846154,13.211184073,88.0,30.0,,,,,,,,,,,2,0,0,2,1,2,1,6,8,4,0,,,
+UBCV,2021,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Ming Zhu Lu;Pi-Hua Lin;Shiyang Zhang;Tianyi Tang,26,77.346153846,9.983756037,87.0,52.0,,,,,,,,,,,0,1,2,0,1,1,3,3,9,6,0,,,
+UBCV,2021,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin;Shiyang Zhang;Tianyi Tang,23,76.913043478,8.564796041,90.0,57.0,,,,,,,,,,,0,0,1,1,0,4,3,3,6,4,1,,,
+UBCV,2021,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Junru Chen;Pi-Hua Lin;Xintian Tang;Ying-Hua Tsai;Yu Chun Peng,32,76.0,10.401612778,88.0,41.0,,,,,,,,,,,2,0,0,1,0,3,6,6,11,3,0,,,
+UBCV,2021,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin;Qian Wang,19,85.1,,94.0,68.0,,,,,,,,,,,,,,,,,,,,8,,85.0,87.0,82.5
+UBCV,2021,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin,23,82.4,,92.0,50.0,,,,,,,,,,,,,,,,,,,,10,,85.0,88.0,80.0
+UBCV,2021,W,CHIN,133,,003,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin,16,75.3,,89.0,57.0,,,,,,,,,,,,,,,,,,,,,,75.5,82.3,71.5
+UBCV,2021,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin,13,81.0,,87.0,60.0,,,,,,,,,,,,,,,,,,,7,,,83.0,84.0,82.0
+UBCV,2021,W,CHIN,231,,001,Basic Chinese II: Part 1 (Non-Heritage),Pi-Hua Lin,28,75.6,,91.0,0.0,,,,,,,,,,,,,,,,,,,11,,,82.5,84.0,72.8
+UBCV,2021,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin,23,76.9,,90.0,57.0,,,,,,,,,,,,,,,,,,,6,,,78.0,82.5,71.5
+UBCV,2022,W,CHIN,131,,023,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin,17,77.6,,91.0,50.0,,,,,,,,,,,0,1,0,1,0,3,1,2,5,2,2,80.0,83.0,71.0
+UBCV,2022,W,CHIN,231,,001,Basic Chinese II: Part 1 (Non-Heritage),Pi-Hua Lin,22,73.4,,86.0,40.0,,,,,,,,,,,2,0,0,2,0,3,2,4,6,3,0,76.5,81.0,71.0
+UBCV,2022,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),Pi-Hua Lin,28,77.2,,86.0,53.0,,,,,,,,,,,0,1,0,1,2,2,2,6,12,2,0,79.5,83.0,73.8
+UBCV,2022,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),Pi-Hua Lin,20,76.4,,90.0,56.0,,,,,,,,,,,0,0,2,0,0,2,2,7,4,2,1,77.5,82.3,72.0
+UBCV,2022,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin,21,75.0,,89.0,51.0,,,,,,,,,,,0,1,1,1,0,4,3,2,5,4,0,76.0,82.0,70.0
+UBCV,2022,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin,29,76.9,,88.0,51.0,,,,,,,,,,,0,1,0,2,2,2,4,3,11,4,0,80.0,83.0,73.0
+UBCV,2022,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin,11,75.0,,89.0,62.0,,,,,,,,,,,0,0,0,1,1,3,0,3,2,1,0,76.0,79.5,70.5
+UBCV,2023,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin,11,83.3,,94.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,0,2,4,2,86.5,87.0,82.5
+UBCV,2023,W,CHIN,131,,013,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin;Qian Wang,19,80.68,,92.0,60.0,,,,,,,,,,,0,0,0,1,3,0,2,0,6,3,4,84.0,88.5,74.0
+UBCV,2023,W,CHIN,131,,023,Basic Chinese I: Part 1 (Non-Heritage),Pi-Hua Lin,26,79.08,,92.0,33.0,,,,,,,,,,,1,0,1,1,1,0,2,4,5,8,2,83.0,88.0,76.0
+UBCV,2023,W,CHIN,133,,023,Basic Chinese I: Part 2 (Non-Heritage),Pi-Hua Lin;Qian Wang,20,78.05,,90.0,54.0,,,,,,,,,,,0,1,0,1,1,1,3,2,3,6,1,80.0,88.0,73.0
+UBCV,2023,W,CHIN,231,,012,Basic Chinese II: Part 1 (Non-Heritage),Pi-Hua Lin,28,78.61,,91.0,61.0,,,,,,,,,,,0,0,0,1,2,3,2,5,8,6,1,80.5,84.25,72.0
+UBCV,2023,W,CHIN,233,,022,Basic Chinese II: Part 2 (Non-Heritage),Pi-Hua Lin,26,79.12,,88.0,61.0,,,,,,,,,,,0,0,0,1,0,3,1,7,9,5,0,80.5,84.0,76.0

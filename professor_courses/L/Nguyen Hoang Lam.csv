@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,180,,102,DIF CALC PHYS AP,"Lam, Nguyen Hoang",94,61.15,13.95,92,21,70,15,5,0,4,0,0,1,5,9,15,11,11,11,10,9,7,2,5,0,4
+UBC,2016,W,MATH,221,,201,MATRIX ALGEBRA,"Lam, Nguyen Hoang",134,78,15.95,100,35,130,3,0,0,1,0,0,0,2,1,3,9,12,5,3,8,19,6,17,15,36
+UBC,2017,W,MATH,100,,109,DF CALC AP PH SC,"Lam, Nguyen Hoang",126,75.87,12.4,99,32,118,5,1,0,2,0,0,0,3,2,5,2,5,5,5,11,25,10,25,16,14
+UBC,2017,W,MATH,340,,201,INTRO LIN PROG,"Lam, Nguyen Hoang",115,68.5,14.43,95,15,107,6,0,0,2,0,1,1,2,2,6,11,10,9,6,19,17,7,16,8,4
+UBC,2018,W,MATH,340,,201,INTRO LIN PROG,"Lam, Nguyen Hoang",126,71.99,13.24,97,0,121,1,2,0,1,1,0,0,0,0,1,7,9,14,10,17,14,10,19,10,11
+UBC,2018,W,MATH,340,,202,INTRO LIN PROG,"Lam, Nguyen Hoang",130,73.4,13,95,14,126,3,1,0,0,0,1,0,1,1,3,3,12,8,10,19,10,6,34,13,11
+UBCV,2016,W,MATH,180,,102,Differential Calculus with Physical Applications,Andrew Rechnitzer;Nguyen Hoang Lam,89,59.02247191,16.9497771,92.0,2.0,,,,,,,,,,,19,11,11,11,10,9,7,2,5,0,4
+UBCV,2016,W,MATH,221,,201,Matrix Algebra,Kai Behrend;Nguyen Hoang Lam,134,77.56716418,16.65909752,100.0,20.0,,,,,,,,,,,4,9,12,5,3,8,19,6,17,15,36
+UBCV,2017,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Foster Tom;Nguyen Hoang Lam;Young-Heon Kim,125,74.856,14.692385564,99.0,5.0,,,,,,,,,,,7,2,5,5,5,11,25,10,25,16,14
+UBCV,2017,W,MATH,340,,201,Introduction to Linear Programming,Nguyen Hoang Lam;Richard Anstee,115,67.539130435,16.0554341,95.0,12.0,,,,,,,,,,,8,11,10,9,6,19,17,7,16,8,4
+UBCV,2018,W,MATH,340,,201,Introduction to Linear Programming,Nguyen Hoang Lam;Siva Sankar Nair,124,71.451612903,14.091082828,97.0,0.0,,,,,,,,,,,2,7,9,15,10,17,14,10,19,10,11
+UBCV,2018,W,MATH,340,,202,Introduction to Linear Programming,Anyi Bao;Nguyen Hoang Lam;Patrick Walls,129,73.403100775,12.997307041,95.0,14.0,,,,,,,,,,,3,3,12,8,10,19,10,6,34,13,11

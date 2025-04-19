@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Congsong Zhang;Jeff Bulmer;Jessa Marley;Michael Nowicki,187,67.096256684,22.291599674,100.0,5.0,50,,,12,12,11,11,16,16,23,30,,,
+UBCO,2016,W,COSC,114,,001,Vector Graphics and Animations,David Rowswell;Jeff Bulmer;Miles Thorogood,48,65.375,24.70388461,98.0,0.0,10,2,2,5,0,5,2,4,11,3,4,,,
+UBCO,2016,W,COSC,121,,001,Computer Programming II,Abdallah Mohamed;Aurey Harris;Jeff Bulmer;Mahdi Aziz;Norbert Eke;Robert Hill;Thomas Reid,136,63.63235294,23.95916552,100.0,0.0,41,4,9,9,7,12,7,7,6,8,26,,,
+UBCO,2016,W,COSC,341,,001,Human Computer Interaction,Ashley Segert;Jeff Bulmer;Jocelyn Smith,71,79.92957747,7.876409522,95.0,58.0,0,0,1,0,4,4,14,10,14,16,8,,,
+UBCO,2017,W,COSC,111,,101,Computer Programming I,Angelina Pinchbeck;Bowen Hui;Jeff Bulmer;Levi Miller;Rachelle Gelden,113,66.061946903,23.462844177,100.0,9.0,38,1,4,4,4,8,6,7,8,12,21,,,
+UBCO,2017,W,COSC,341,,001,Human Computer Interaction,Bowen Hui;Jeff Bulmer;Levi Miller,76,78.697368421,16.17077177,100.0,39.0,10,0,0,0,2,5,10,4,11,11,23,,,
+UBCO,2018,S,COSC,111,,001,Computer Programming I,Jeff Bulmer;Ken Chidlow;Parsa Rajabi,38,73.552631579,15.382857023,99.0,38.0,2,1,4,6,2,2,2,2,4,8,5,,,
+UBCO,2018,W,COSC,150,,001,Physical Computing,Jeff Bulmer;Miles Thorogood,42,82.523809524,11.538351946,97.0,46.0,1,2,0,0,2,0,0,4,10,14,9,,,
+UBCO,2018,W,COSC,264,,101,Introduction to Web Development and Databases,Daniel Ling;Jeff Bulmer;Mayeesha Mariam,38,74.789473684,15.978292529,96.0,20.0,2,0,0,4,2,3,4,5,9,4,5,,,
+UBCO,2018,W,COSC,320,,001,Analysis of Algorithms,Deepak Kumar;Jeff Bulmer;Shima Amirsadri;Yong Gao,66,68.409090909,13.094893042,94.0,36.0,3,7,5,10,10,6,8,3,4,4,6,,,
+UBCO,2018,W,COSC,322,,101,Introduction to Artificial Intelligence,Gunjan Soni;Jeff Bulmer;Yong Gao,56,72.232142857,19.110198202,94.0,0.0,3,2,5,4,5,4,3,4,9,11,6,,,
+UBCO,2019,S,COSC,121,,101,Computer Programming II,Jeff Bulmer;Ken Chidlow;Mayeesha Mariam;Raghav Jhavar;Rickson Reichmann;Scott Fazackerley,70,70.157142857,18.140063527,100.0,13.0,8,3,3,5,10,8,5,5,5,9,9,,,
+UBCO,2019,S,COSC,222,,001,Data Structures,Jeff Bulmer;Jim Nastos;Rickson Reichmann,29,66.482758621,11.840067235,95.0,34.0,2,0,3,8,3,4,4,2,1,1,1,,,
+UBCO,2019,W,DATA,530,,001,Computing Platforms for Data Science,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,96.314285714,5.73314116,100.0,71.0,0,0,0,0,0,1,0,0,0,3,31,,,
+UBCO,2019,W,DATA,531,,001,Programming for Data Science,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,95.914285714,4.978609708,100.0,78.0,0,0,0,0,0,0,0,1,0,1,33,,,
+UBCO,2019,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Jeff Bulmer,35,95.371428571,5.688407791,99.0,67.0,0,0,0,0,1,0,0,0,0,1,33,,,
+UBCO,2019,W,DATA,533,,101,Collaborative Software Development,Jeff Bulmer;Mohammad Khalad Hasan,35,89.685714286,6.206123298,99.0,71.0,0,0,0,0,0,1,0,1,4,10,19,,,
+UBCO,2019,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Jeff Bulmer,35,95.714285714,3.730411021,100.0,80.0,0,0,0,0,0,0,0,0,1,1,33,,,
+UBCO,2019,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,91.142857143,7.042488101,99.0,68.0,0,0,0,0,0,1,0,2,4,2,26,,,
+UBCO,2019,W,DATA,541,,001,Scripting and Reporting,Jeff Bulmer;Mohammad Khalad Hasan,35,90.2,5.587801841,98.0,72.0,0,0,0,0,0,0,1,0,4,6,24,,,
+UBCO,2019,W,DATA,550,,001,Dataviz I,Dongying Wang;Jeff Bulmer;John Braun,35,93.2,3.206610818,98.0,86.0,0,0,0,0,0,0,0,0,0,5,30,,,
+UBCO,2019,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Jeff Bulmer,35,90.742857143,6.279485072,99.0,69.0,0,0,0,0,0,1,0,1,1,7,25,,,
+UBCO,2019,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;Jeff Bulmer,35,92.657142857,4.26988674,98.0,82.0,0,0,0,0,0,0,0,0,2,4,29,,,
+UBCO,2019,W,DATA,589,,101,Special Topic,Jeff Bulmer;Mohammad Khalad Hasan,35,86.4,8.451244252,98.0,68.0,0,0,0,0,0,3,3,1,5,7,16,,,
+UBCO,2019,W,DATA,599,,101,Capstone,Debangsha Sarkar;Jeff Bulmer;Scott Fazackerley,35,91.771428571,6.481129687,99.0,78.0,0,0,0,0,0,0,0,3,2,5,25,,,
+UBCO,2021,S,COSC,121,,101,Computer Programming II,Akshat Poddar;Billy Spelchan;Jeff Bulmer;Ken Chidlow;Oluwayemisi Ogungbemi;Pinku Nath;Sherif Elbishlawi,109,76.504587156,13.242484838,95.0,13.0,5,2,2,6,2,13,11,16,18,17,17,,,
+UBCO,2021,W,COSC,111,,002,Computer Programming I,Aashish Raizada;Anubhav Gupta;Haneen Abu-Hijleh;Ivan De Avila Ribeiro Carvalho;Jeff Bulmer;Justin Schoenit;Karanmeet Khatra;Kyle Ranslam;Luis Lucio;Matthew Dunn;Monica Rampaul;Oluwayemisi Ogungbemi;Pinku Nath;Quinn Marshall;Roozbeh Eslami;Samantha Hodge;Taif Anjum;Zenab Kutubuddin Kagdiwala,197,77.827411168,19.530736109,100.0,0.0,11,12,0,10,12,10,17,11,26,22,66,,,
+UBCO,2021,W,COSC,111,,101,Computer Programming I,Abhijith Sharma;Andrew Kiggins;Gabriel Jarry-Bolduc;Haneen Abu-Hijleh;Jeff Bulmer;Jinghong Chen;Karanmeet Khatra;Mavis (Zhenghua) Chen;Ngan Phan;Pinku Nath;Sayan Sadhukhan;Sohan Chowdhury;Wanye Gao;Xinjie Qian;Yiming Ding,113,74.876106195,19.578200679,100.0,0.0,10,4,3,10,7,5,7,13,12,16,26,,,
+UBCO,2021,S,COSC,121,,101,Computer Programming II,Jeff Bulmer,109,76.5,,95.0,13.0,,,,6,,13,11,16,18,17,17,78.0,86.0,71.0
+UBCO,2021,W,COSC,111,,002,Computer Programming I,Jeff Bulmer,197,77.8,,100.0,0.0,11,12,0,10,12,10,17,11,26,22,66,83.0,91.0,70.0
+UBCO,2021,W,COSC,111,,101,Computer Programming I,Jeff Bulmer,113,74.9,,100.0,0.0,10,,,10,7,,7,13,12,16,26,79.0,89.0,64.0
+UBCO,2022,S,COSC,111,,001,Computer Programming I,Jeff Bulmer,69,66.4,,97.0,0.0,6,3,7,14,5,7,9,4,6,3,5,67.0,76.0,60.0
+UBCO,2022,S,COSC,121,,101,Computer Programming II,Jeff Bulmer,93,70.7,,96.0,15.0,8,6,2,7,10,14,6,4,15,8,13,71.0,82.0,64.0

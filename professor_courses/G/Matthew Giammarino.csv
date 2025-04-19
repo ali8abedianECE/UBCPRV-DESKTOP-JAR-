@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,COMM,473,,101,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand;Giammarino, Matthew",107,75.2,11.42,95,46,101,4,2,0,0,0,0,0,0,4,4,2,5,6,9,9,12,14,23,14,7
+UBC,2017,W,COMM,473,,201,BUSINESS FINANCE,"Giammarino, Matthew",110,80.98,13.89,99,0,108,2,0,0,0,1,0,0,0,1,2,2,1,5,5,9,3,9,20,20,34
+UBCV,2017,W,COMM,473,,101,Business Finance,Matthew Giammarino;Sepand Boroumand-Jazzi,105,75.2,11.421471009,95.0,46.0,,,,,,,,,,,4,2,5,6,9,9,12,14,23,14,7
+UBCV,2017,W,COMM,473,,201,Business Finance,Matthew Giammarino,110,80.981818182,13.894743127,99.0,0.0,,,,,,,,,,,2,2,1,5,5,9,3,9,20,20,34

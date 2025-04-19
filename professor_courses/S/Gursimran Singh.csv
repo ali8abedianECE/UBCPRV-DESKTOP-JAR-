@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,DSCI,513,,001,Databases and Data Retrieval,Aaron Berk;Bhavjinder Dhillon;Bhavjinder Kaur Dhillon;Glenn Bevilacqua;Gursimran Singh;Laks Lakshmanan;Paul Gustafson;Pedro Odon;Rafiuzzaman Mohammad;Rodolfo Lourenzutti,69,92.333333333,4.121916554,99.0,79.0,0,0,0,0,0,0,0,1,2,10,56
+UBCV,2018,W,DSCI,573,,001,Feature and Model Selection,Gursimran Singh;Ho Yin Ho;Mark Schmidt;Minzhe Liao;Minzhi Liao;Yi-Chin Tseng,70,89.471428571,5.795354033,96.0,67.0,0,0,0,0,1,0,2,2,7,16,42
+UBCV,2018,W,DSCI,575,,001,Advanced Machine Learning,Gursimran Singh;Jie Xiang;Mark Schmidt;Michael Gelbart;Qiuyan Liu;Varada Kolhatkar,68,92.426470588,4.361692731,99.0,80.0,0,0,0,0,0,0,0,0,4,12,52

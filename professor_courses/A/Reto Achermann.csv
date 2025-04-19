@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,CPSC,508,,201,Operating Systems,Christopher Chen;Margo Seltzer;Reto Achermann,19,83.631578947,7.689896158,93.0,72.0,0,0,0,0,0,0,4,2,4,3,6,,,
+UBCV,2022,W,CPSC,436,A,101,Topics in Computer Science,Reto Achermann;Thomas Pasquier,37,82.7,,96.0,69.0,0,0,0,0,0,3,2,5,12,9,6,84.0,87.0,79.0
+UBCV,2023,W,CPSC,508,,101,Operating Systems,Reto Achermann,13,90.4,,96.0,84.0,0,0,0,0,0,0,0,0,1,2,9,90.5,93.0,89.3

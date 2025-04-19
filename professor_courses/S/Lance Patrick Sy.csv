@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,ARCH,511,,001,ARCH TECHNOL I,"Johnson, Gregory;Sy, Lance Patrick",39,81.05,3.86,91,74,37,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,19,6,1
+UBC,2018,W,ARCH,531,,001,ARCH TECHNOL II,"Johnson, Gregory;Sy, Lance Patrick",39,82.55,4.71,91,71,38,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,15,13,1
+UBCV,2016,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Lance Patrick Sy,28,81.82142857,4.243108325,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,8,12,5,2
+UBCV,2016,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson;Lance Patrick Sy,30,83.46666667,4.431340836,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,6,12,9,2
+UBCV,2017,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Lance Patrick Sy,42,86.571428571,5.236564025,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,7,19,11
+UBCV,2017,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson;Lance Patrick Sy,36,82.805555556,4.097521512,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,17,9,3
+UBCV,2018,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Lance Patrick Sy,38,81.078947368,3.808820339,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,10,20,6,1
+UBCV,2018,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson;Lance Patrick Sy,39,82.846153846,4.992301766,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,6,15,13,2
+UBCV,2019,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson;Julia Booth;Lance Patrick Sy;Trevor Vilac,43,87.604651163,4.670778129,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,8,19,14

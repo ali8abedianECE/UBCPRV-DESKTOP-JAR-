@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Jennifer You;Pi-Hua Lin;Qing Yuan Ma;Ying-Hua Tsai;Yu Chun Peng,20,76.9,10.23358763,90.0,53.0,0,1,1,0,1,1,4,2,6,2,2,,,
+UBCV,2021,W,CHIN,131,,022,Basic Chinese I: Part 1 (Non-Heritage),Junyi Zhang;Qing Yuan Ma;Yu An Tan;Yu Chun Peng,28,75.25,14.001653342,89.0,20.0,1,1,0,2,1,2,2,5,8,6,0,,,
+UBCV,2021,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Lichengkun Cai;Xiaotong Mo;Yu Chun Peng,9,80.222222222,6.398784607,90.0,70.0,0,0,0,0,0,1,1,3,1,2,1,,,
+UBCV,2021,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Hsiang-Ning Wang;Lichengkun Cai;Xiaotong Mo;Yu Chun Peng,23,78.434782609,9.884910847,91.0,42.0,1,0,0,1,0,0,3,5,10,2,1,,,
+UBCV,2021,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Junru Chen;Pi-Hua Lin;Xintian Tang;Ying-Hua Tsai;Yu Chun Peng,32,76.0,10.401612778,88.0,41.0,2,0,0,1,0,3,6,6,11,3,0,,,
+UBCV,2021,W,CHIN,333,,002,Intermediate Chinese I: Part 2 (Non-Heritage),Xintian Tang;Yu Chun Peng,23,75.52173913,12.146340883,91.0,51.0,0,1,2,1,0,4,3,3,2,4,3,,,
+UBCV,2021,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,20,76.9,,90.0,53.0,,,,,,,,,6,,,79.5,84.0,72.8
+UBCV,2021,W,CHIN,131,,022,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,28,75.3,,89.0,20.0,,,,,,,,,8,6,,79.5,83.0,72.3
+UBCV,2021,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Yu Chun Peng,9,80.2,,90.0,70.0,,,,,,,,,,,,79.0,86.0,76.0
+UBCV,2021,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Yu Chun Peng,22,80.1,,91.0,60.0,,,,,,,,,10,,,81.0,83.0,78.0
+UBCV,2021,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,32,76.0,,88.0,41.0,,,,,,,6,6,11,,,78.5,82.0,72.0
+UBCV,2021,W,CHIN,333,,002,Intermediate Chinese I: Part 2 (Non-Heritage),Yu Chun Peng,23,75.5,,91.0,51.0,,,,,,,,,,,,78.0,86.5,68.5
+UBCV,2022,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,15,75.9,,86.0,57.0,0,0,1,2,0,2,0,2,5,3,0,81.0,83.0,69.5
+UBCV,2022,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,21,76.0,,88.0,50.0,0,1,0,0,1,1,4,7,6,1,0,77.0,80.0,73.0
+UBCV,2022,W,CHIN,131,,005,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,28,77.6,,86.0,61.0,0,0,0,1,0,3,5,8,9,2,0,79.0,82.0,74.0
+UBCV,2022,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Yu Chun Peng,19,76.9,,85.0,61.0,0,0,0,1,0,4,1,4,8,1,0,79.0,81.5,72.5
+UBCV,2022,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Yu Chun Peng,10,79.2,,87.0,65.0,0,0,0,0,1,1,1,2,2,3,0,80.5,84.5,76.0
+UBCV,2022,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Yu Chun Peng,24,74.3,,90.0,50.0,0,1,0,1,3,4,3,5,4,2,1,75.5,80.5,68.8
+UBCV,2022,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Yu Chun Peng,21,76.8,,87.0,61.0,0,0,0,1,1,4,1,5,7,2,0,78.0,82.0,71.0
+UBCV,2022,W,CHIN,405,,001,Advanced Chinese Speaking and Writing I (Non-Heritage),Yu Chun Peng,10,74.9,,85.0,55.0,0,0,1,2,0,0,0,2,4,1,0,80.0,82.8,66.0
+UBCV,2022,W,CHIN,407,,001,Advanced Chinese Speaking and Writing II (Non-Heritage),Yu Chun Peng,7,79.4,,86.0,60.0,0,0,0,1,0,0,0,1,3,2,0,82.0,84.0,80.0
+UBCV,2023,S,CHIN,144,,921,Intensive Basic Chinese I (Heritage),Yu Chun Peng,6,79.5,,86.0,66.0,0,0,0,0,1,0,1,0,2,2,0,83.0,84.75,76.0
+UBCV,2023,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Yu Chun Peng,9,81.44,,86.0,77.0,0,0,0,0,0,0,0,2,6,1,0,81.0,83.0,81.0

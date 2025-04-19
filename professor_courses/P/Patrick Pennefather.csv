@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,THTR,308,,001,SOUND DESIGN,"Pennefather, Patrick",18,87.33,6.41,97,71,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,9,,,
+UBC,2009,W,THTR,308,,001,SOUND DESIGN,"Pennefather, Patrick",18,87.06,5.29,95,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,6,,,
+UBC,2009,W,THTR,499,A,001,PRODUCTION III,"Eberle, Robert Francis;Fedoruk, Ronald;McLean, Jayson;Pennefather, Patrick",6,90.5,4.14,95,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2009,W,THTR,499,B,001,PRODUCTION III,"Eberle, Robert Francis;Fedoruk, Ronald;McLean, Jayson;Pennefather, Patrick",6,87.5,2.66,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2009,W,THTR,499,C,001,PRODUCTION III,"Gardiner, Robert;Green, Alison;McLean, Jayson;Pennefather, Patrick",7,88.86,6.31,95,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,,,
+UBC,2014,W,COMM,388,,202,DSGN STAT PRCT,"Pennefather, Patrick;Quayle, Moura",29,86.1,3.7,92,81,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,12,6,,,
+UBC,2018,W,THTR,299,C,001,PRODUCTION I,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",16,84.13,4.7,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,8,2,,,
+UBC,2018,W,THTR,308,,001,SOUND DESIGN,"Pennefather, Patrick",18,86,3.46,92,81,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,4,,,
+UBC,2018,W,THTR,399,A,001,PRODUCTION II,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",4,95.75,1.26,97,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2018,W,THTR,399,B,001,PRODUCTION II,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",19,87.53,5.57,96,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,10,6,,,
+UBC,2018,W,THTR,399,C,001,PRODUCTION II,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",11,87.36,4.54,95,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,,,
+UBC,2018,W,THTR,499,B,001,PRODUCTION III,"Gardiner, Robert;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick",6,88,4.29,95,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2018,W,THTR,499,C,001,PRODUCTION III,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",9,88.22,5.31,95,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,,,
+UBCV,2014,W,COMM,388,,202,Design Strategies for Business Innovation: Studio Practice,Moura Quayle;Patrick Edgar Michael Pennefather;Patrick Pennefather,29,86.10344828,3.696956544,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,12,6,,,
+UBCV,2018,W,THTR,299,C,001,Production I,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,16,84.125,4.702836024,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,2,8,2,,,
+UBCV,2018,W,THTR,308,,001,Sound Design,Patrick Pennefather,17,86.0,3.464101615,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,7,4,,,
+UBCV,2018,W,THTR,399,B,001,Production II,Bradley Powers;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,19,87.526315789,5.571439282,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,10,6,,,
+UBCV,2018,W,THTR,399,C,001,Production II,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,11,87.363636364,4.544727215,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,4,,,
+UBCV,2018,W,THTR,499,B,001,Production III,Bradley Powers;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,6,88.0,4.289522118,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2,,,
+UBCV,2018,W,THTR,499,C,001,Production III,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,9,88.222222222,5.309844107,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,4,,,
+UBCV,2019,S,THTR,399,A,921,Production II,Bradley Powers;Jacqueline Firkins;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,5,89.8,3.898717738,92.0,83.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2019,W,THTR,130,,003,Introduction to Stage Acting,Lauren Taylor;Patrick Pennefather,42,81.357142857,7.990303357,93.0,55.0,,,,,,,,,,,0,0,1,0,1,3,3,6,11,13,4,,,
+UBCV,2019,W,THTR,299,C,001,Production I,Bradley Powers;Carey Dodge;Christine Reimer;Jacqueline Firkins;Jerry Wasserman;Jillian Wyness;Kathleen Duborg;Lorraine West;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Stephen Drover;Susan Bertoia,14,84.714285714,5.703286117,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,5,4,,,
+UBCV,2019,W,THTR,308,,001,Sound Design,Patrick Pennefather,27,83.259259259,6.260944833,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,3,11,5,4,,,
+UBCV,2019,W,THTR,310,,001,Theory of Drama Performance,Kirsty Johnston;Patrick Pennefather,29,82.034482759,7.844391803,93.0,58.0,,,,,,,,,,,0,0,1,0,0,0,5,5,5,7,6,,,
+UBCV,2019,W,THTR,399,B,001,Production II,Bradley Powers;Jacqueline Firkins;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,13,87.230769231,4.693148306,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,5,,,
+UBCV,2019,W,THTR,399,C,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Lorraine West;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,11,82.909090909,9.049359596,94.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,3,4,2,,,
+UBCV,2019,W,THTR,399,S,001,Production II,Madeleine Laurin;Patrick Pennefather,6,92.166666667,1.471960144,94.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2019,W,THTR,499,B,001,Production III,Bradley Powers;Jacqueline Firkins;Madeleine Laurin;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,6,86.666666667,4.633213428,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,2,,,
+UBCV,2020,W,THTR,308,,001,Sound Design,Patrick Pennefather,28,89.607142857,4.693094105,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,6,18,,,
+UBCV,2020,W,THTR,399,E,001,Production II,Patrick Pennefather,14,90.785714286,4.154304004,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,11,,,
+UBCV,2021,S,THTR,399,A,921,Production II,Bradley Powers;Jacqueline Firkins;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,7,89.428571429,3.10145895,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,W,THTR,308,,001,Sound Design,Patrick Pennefather,43,89.511627907,4.305987487,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,8,31,,,
+UBCV,2021,W,THTR,399,B,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,8,88.625,4.955156045,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2021,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers;Jacqueline Firkins;Leora Morris;Olivia Michiko Gagnon;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,11,92.727272727,2.611164839,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,S,THTR,399,A,921,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,7,89.4,,92.0,85.0,,,,,,,,,,,,,,,,,,,,,,91.0,91.5,87.5
+UBCV,2021,W,THTR,308,,001,Sound Design,Patrick Pennefather,43,89.5,,95.0,72.0,,,,,,,,,,,,,,,,,,,,8,31,90.0,92.0,89.0
+UBCV,2021,W,THTR,399,B,001,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti;Jillian Wyness,9,88.2,,95.0,81.0,,,,,,,,,,,,,,,,,,,,,,90.0,92.0,85.0
+UBCV,2021,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Robert Gardiner;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,11,92.8,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,93.0,94.5,90.0
+UBCV,2022,S,THTR,399,B,921,Production II,Jacqueline Firkins;Robert Gardiner;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,12,92.4,,94.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,92.0,93.0,92.0
+UBCV,2022,W,THFL,100,,001,The Art of Storytelling for Stage and Screen,Stephen Heatley;Patrick Pennefather;Tom Scholte,49,81.1,,92.0,0.0,,,,,,,,,,,1,0,0,1,0,1,4,7,11,20,4,84.0,87.0,78.0
+UBCV,2022,W,THTR,308,,001,Sound Design,Patrick Pennefather,27,88.2,,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,0,0,6,19,90.0,91.0,89.0
+UBCV,2022,W,THTR,399,E,001,Production II,Patrick Pennefather,16,90.7,,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,11,90.0,92.3,88.8
+UBCV,2022,W,THTR,399,E,002,Production II,Patrick Pennefather,15,89.1,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,6,88.0,90.0,88.0
+UBCV,2022,W,THTR,448,A,001,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Robert Gardiner;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,6,92.7,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,94.0,95.0,92.3
+UBCV,2022,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Jacqueline Firkins;Olivia Michiko Gagnon;Leora Morris;Patrick Pennefather;Bradley Powers;Patrick Rizzotti,9,91.6,,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,90.0,95.0,90.0
+UBCV,2023,W,MDIA,100,,001,Media Objects,Patrick Pennefather,88,74.02,,94.0,0.0,,,,,,,,,,,4,2,1,9,8,4,11,9,15,18,6,77.0,86.0,66.0
+UBCV,2023,W,MDIA,470,A,201,Special Topics,Patrick Pennefather,31,89.68,,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,7,20,91.0,93.0,85.0
+UBCV,2023,W,THFL,100,,001,The Art of Storytelling for Stage and Screen,Stephen Heatley;Jessica Johnson;Patrick Pennefather,51,86.45,,93.0,62.0,,,,,,,,,,,0,0,0,1,1,0,0,1,5,26,15,88.0,90.0,86.0
+UBCV,2023,W,THTR,308,,001,Sound Design,Patrick Pennefather,22,87.4,,96.0,70.0,,,,,,,,,,,0,0,0,0,0,3,0,1,0,4,14,90.0,92.0,88.0

@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,COMM,370,,103,CORP FINANCE,"Gilbert, Thomas",47,79.43,6.39,97,67,47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,15,11,7,3
+UBC,2014,W,COMM,370,,108,CORP FINANCE,"Gilbert, Thomas",46,79.11,6.92,90,63,46,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,5,7,16,9,1
+UBC,2014,W,COMM,370,,109,CORP FINANCE,"Gilbert, Thomas",45,78.4,6.38,92,55,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,6,13,14,4,2
+UBC,2014,W,COMM,370,,110,CORP FINANCE,"Gilbert, Thomas",42,77.85,7.77,90,62,40,0,0,2,0,0,0,0,0,0,0,0,0,1,5,4,3,6,14,5,2
+UBCV,2014,W,COMM,370,,103,Corporate Finance,Thomas Gilbert,47,79.42553192,6.388660746,97.0,67.0,,,,,,,,,,,0,0,0,0,,,8,15,11,7,
+UBCV,2014,W,COMM,370,,108,Corporate Finance,Thomas Gilbert,46,79.10869565,6.922518042,90.0,63.0,,,,,,,,,,,0,0,0,,,5,5,7,16,9,
+UBCV,2014,W,COMM,370,,109,Corporate Finance,Thomas Gilbert,45,78.4,6.379655163,92.0,55.0,,,,,,,,,,,0,0,,,,5,6,13,14,,
+UBCV,2014,W,COMM,370,,110,Corporate Finance,Thomas Gilbert,40,77.85,7.770918832,90.0,62.0,,,,,,,,,,,0,0,0,,5,,,6,14,5,

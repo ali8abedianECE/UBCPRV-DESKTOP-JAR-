@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MICB,300,,101,MICROBIAL ECOLOG,"Smit, John Kenneth",93,74.33,16.08,93,0,83,7,1,2,0,1,0,0,2,4,7,5,3,2,2,7,5,19,12,20,8
+UBC,2003,W,MICB,418,,201,PHYL & GEN MANIP,"Smit, John Kenneth",23,75.23,18.94,97,14,21,1,1,0,0,0,1,0,0,0,1,1,2,0,3,1,0,2,3,5,4
+UBC,2005,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",29,75.54,20.94,97,16,25,3,1,0,0,0,1,1,0,1,3,1,2,0,1,1,1,3,4,6,6
+UBC,2006,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",45,77.8,13.18,97,39,43,2,0,0,0,0,0,0,1,1,2,0,3,1,3,2,5,7,5,8,9
+UBC,2007,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",53,77.7,11.61,94,50,53,0,0,0,0,0,0,0,0,0,0,3,1,3,4,3,6,6,7,14,6
+UBC,2009,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",46,77.48,13.65,96,40,45,1,0,0,0,0,0,0,0,1,1,3,2,2,2,2,5,3,10,8,8
+UBC,2010,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",58,73.22,13.06,98,42,56,2,0,0,0,0,0,0,0,2,2,4,5,2,4,4,6,10,13,3,5
+UBC,2011,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",53,78.74,11.57,98,46,52,1,0,0,0,0,0,0,0,1,1,0,3,1,4,3,7,7,9,5,13
+UBC,2012,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",59,75.55,17.16,99,12,53,5,1,0,0,0,1,0,1,3,5,2,3,1,2,6,4,7,8,9,11
+UBC,2013,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",52,76.53,16.23,97,11,48,3,0,1,0,0,1,0,2,0,3,2,1,2,1,4,3,8,13,4,10
+UBC,2014,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",56,73.8,16.27,97,12,52,4,0,0,0,0,1,0,1,2,4,4,2,1,2,3,9,9,6,8,8
+UBC,2015,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",48,78.62,16.4,97,18,45,2,1,0,0,0,1,0,1,0,2,3,2,0,1,2,2,1,14,9,11
+UBC,2016,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",59,72.83,19.98,97,0,51,7,1,0,0,1,1,0,3,2,7,3,0,4,1,3,7,1,16,6,10
+UBC,2017,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",58,76.57,13.8,97,33,57,1,0,0,0,0,0,0,1,0,1,5,2,3,0,7,5,3,14,10,8
+UBC,2018,W,MICB,418,,201,MICROBIO&BIOTECH,"Smit, John Kenneth",48,79.98,10.08,94,58,48,0,0,0,0,0,0,0,0,0,0,0,1,5,2,2,3,6,7,15,7
+UBCV,2014,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Sally S M Lee,56,73.80357143,16.27314536,97.0,12.0,,,,,,,,,,,,,,,,,9,9,6,8,8
+UBCV,2015,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Sally S M Lee,47,78.617021277,16.401952683,97.0,18.0,,,,,,,,,,,,,,,,,,,14,9,11
+UBCV,2016,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Sally S M Lee,58,72.82758621,19.97817926,97.0,0.0,,,,,,,,,,,7,3,0,4,1,3,7,1,16,6,10
+UBCV,2017,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit,58,76.568965517,13.795641403,97.0,33.0,,,,,,,,,,,1,5,2,3,0,7,5,3,14,10,8
+UBCV,2018,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Maria Elizabeth Baeva,48,79.979166667,10.07733835,94.0,58.0,,,,,,,,,,,0,0,1,5,2,2,3,6,7,15,7
+UBCV,2019,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Maria Elizabeth Baeva;Nirpjit Dosanjh,37,91.864864865,3.110574814,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,32

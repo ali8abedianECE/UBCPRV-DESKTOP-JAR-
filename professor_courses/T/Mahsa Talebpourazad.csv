@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,CICS,530,,001,AD SOFTWARE PROJ,"Talebpourazad, Mahsa",30,82.63,3.45,89,77,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13,10,0,,,
+UBC,2017,W,EECE,541,,101,MULTIMEDIA SYS,"Talebpourazad, Mahsa",19,87.53,6.23,96,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8,7,,,
+UBC,2018,W,EECE,541,,101,MULTIMEDIA SYS,"Talebpourazad, Mahsa",21,83.86,8.86,100,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,4,3,6,,,
+UBC,2018,W,EECE,541,,201,MULTIMEDIA SYS,"Talebpourazad, Mahsa",19,83.58,4.39,92,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,8,2,,,
+UBCV,2017,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,19,87.526315789,6.230466552,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,8,7,,,
+UBCV,2018,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,21,83.857142857,8.861634806,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,5,4,3,6,,,
+UBCV,2018,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad,19,83.578947368,4.38831516,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,5,8,2,,,
+UBCV,2019,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,13,82.461538462,2.569545505,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,3,0,,,
+UBCV,2019,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,20,86.85,2.870448342,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,14,2,,,
+UBCV,2020,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,10,86.0,3.527668415,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,2,,,
+UBCV,2020,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,14,88.285714286,3.406522509,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,6,,,
+UBCV,2021,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,18,81.888888889,6.918762971,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,2,7,3,3,,,
+UBCV,2021,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad,9,84.0,2.692582404,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,0,,,
+UBCV,2021,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,18,81.9,,92.0,70.0,,,,,,,,,,,,,,,,,,,7,,,82.0,87.5,78.5
+UBCV,2021,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad,9,84.0,,87.0,80.0,,,,,,,,,,,,,,,,,,,,6,,85.0,85.0,82.0
+UBCV,2023,W,EECE,541,,101,Multimedia Systems,Panos Nasiopoulos;Mahsa Talebpourazad,10,90.11,,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,90.0,91.0,90.0
+UBCV,2023,W,EECE,541,,201,Multimedia Systems,Panos Nasiopoulos;Mahsa Talebpourazad,15,86.13,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,7,4,87.0,89.0,83.5

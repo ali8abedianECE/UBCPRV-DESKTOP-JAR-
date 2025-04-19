@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2020,W,CHEM,111,,001,Principles of Chemistry I,Emma Mitchell;Ozren Petkovic;Tamara Kunz,57,67.105263158,16.380175529,95.0,17.0,7,3,6,2,8,4,7,8,7,3,2
+UBCO,2020,W,CHEM,111,,002,Principles of Chemistry I,Emma Mitchell;Ozren Petkovic;Tamara Kunz,65,70.846153846,16.571088122,94.0,22.0,9,1,6,2,2,6,7,6,15,5,6
+UBCO,2020,W,CHEM,121,,001,Atomic and Molecular Chemistry,Emma Mitchell;Ozren Petkovic;Tamara Freeman;Tamara Kunz,346,75.910404624,13.252751702,100.0,17.0,19,7,16,19,19,33,35,39,57,55,47
+UBCO,2020,W,CHEM,121,,002,Atomic and Molecular Chemistry,Emma Mitchell;Ozren Petkovic;Tamara Freeman;Tamara Kunz,204,69.318627451,16.171538767,97.0,0.0,24,4,14,11,19,29,25,23,29,16,10
+UBCO,2020,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Arantxa Da Fonseca;Binh An;Brooke Kwan;Darina Vekhova;Elinor Binson;Kadie Wert;Kamal Narayana;Marisa Aviani;Melissa Barriault;Omkar Kulkarni;Ozren Petkovic;Paige Dafoe;Paul Shipley;Scott Stussi;Vanessa White;William Filipski,185,75.383783784,12.750906053,97.0,40.0,11,1,8,7,19,18,28,15,29,21,28
+UBCO,2021,S,CHEM,121,,001,Atomic and Molecular Chemistry,Alireza Sadeghifar;Amanda Darbyshire;Darina Vekhova;Kadie Wert;Ozren Petkovic;Tamara Freeman;Tamara Kunz,50,68.48,16.460515527,99.0,21.0,6,3,6,5,7,2,3,6,2,3,7
+UBCO,2021,S,CHEM,123,,101,Physical and Organic Chemistry,Alireza Sadeghifar;Amanda Darbyshire;Chang Liu;Darina Vekhova;Kadie Wert;Ozren Petkovic;Peter Ohemeng;Tamara Freeman;Tamara Kunz,53,70.622641509,14.626407118,100.0,47.0,5,2,6,6,7,2,5,5,5,3,7
+UBCO,2021,S,CHEM,203,,001,Introduction to Organic Chemistry,Darina Vekhova;Jeffrey Therrien;Kadie Wert;Ozren Petkovic,30,71.666666667,17.046252158,95.0,19.0,2,3,0,1,3,7,1,2,2,7,2
+UBCO,2021,S,CHEM,204,,101,Organic Chemistry,Darina Vekhova;Jeffrey Therrien;Kadie Wert;Ozren Petkovic,32,70.59375,9.462521573,91.0,53.0,0,1,3,4,5,6,3,2,5,2,1
+UBCO,2021,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Darina Vekhova;Kadie Wert;Leonard Lermer;Ozren Petkovic,32,62.4375,21.074273416,96.0,21.0,10,2,1,2,2,3,3,1,2,1,5
+UBCO,2021,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Darina Vekhova;Kadie Wert;Leonard Lermer;Ozren Petkovic,14,73.214285714,16.761579563,96.0,47.0,2,1,0,0,2,1,1,2,2,0,3
+UBCO,2021,W,BIOL,380,,001,Food and Industrial Microbiology,Mitrasadat Tabatabaee;Ozren Petkovic;Ryan Ard,107,83.271028037,8.48035476,98.0,63.0,0,0,0,1,6,4,8,13,23,24,28

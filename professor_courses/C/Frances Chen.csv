@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,PSYC,218,,002,ANALYS BEH DATA,"Chen, Frances",81,64.7,17.17,95,0,66,11,3,0,1,1,0,0,5,5,11,7,9,8,5,9,7,4,7,6,4,,,
+UBC,2014,W,PSYC,218,,001,ANALYS BEH DATA,"Chen, Frances",50,63.93,17.74,90,20,38,7,5,0,0,0,0,3,1,3,7,4,7,1,4,6,3,2,6,4,1,,,
+UBC,2014,W,PSYC,218,,002,ANALYS BEH DATA,"Chen, Frances",81,66.8,14.81,95,36,70,11,0,0,0,0,0,0,1,10,11,6,8,8,3,16,4,5,10,5,5,,,
+UBC,2014,W,PSYC,503,,001,BIOL HEALTH PSYC,"Chen, Frances",8,93.38,0.92,95,92,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,,,
+UBC,2015,W,PSYC,218,,001,ANALYS BEH DATA,"Chen, Frances",83,67.84,19.19,99,0,68,11,4,0,0,1,1,2,2,5,11,2,9,6,6,9,5,5,10,7,9,,,
+UBC,2015,W,PSYC,218,,002,ANALYS BEH DATA,"Chen, Frances",99,68.57,16.16,93,4,90,8,1,0,0,1,1,0,3,3,8,10,8,5,6,13,11,8,16,7,6,,,
+UBC,2016,W,PSYC,218,,002,ANALYS BEH DATA,"Chen, Frances",100,67.76,14.65,93,22,89,8,3,0,0,0,0,2,2,4,8,6,10,14,10,6,12,8,11,5,7,,,
+UBC,2016,W,PSYC,503,,001,BIOL HEALTH PSYC,"Chen, Frances",12,93.25,1.06,94,91,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,,,
+UBC,2017,W,PSYC,218,,006,ANALYS BEH DATA,"Chen, Frances",96,70.57,13.77,98,41,90,5,1,0,0,0,0,0,0,5,5,9,7,4,10,20,6,4,12,7,11,,,
+UBC,2018,W,PSYC,218,,006,ANALYS BEH DATA,"Chen, Frances",99,68.21,16.37,95,0,86,8,5,0,0,2,0,0,2,4,8,5,8,9,11,7,11,11,10,11,3,,,
+UBCV,2014,W,PSYC,218,,001,Analysis of Behavioural Data,Amir Ali Sepehry;Amir Sepehry;Ashley Whillans;Frances Chen,45,63.93333333,17.74106689,90.0,20.0,,,,,,,,,,,7,,7,,,6,,,6,,,,,
+UBCV,2014,W,PSYC,218,,002,Analysis of Behavioural Data,Elizabeth Blundon;Enda Tan;Frances Chen;Marlise Hofer;Marlise Kathleen Hofer,81,66.80246914,14.80997954,95.0,36.0,,,,,,,,,,,11,6,8,8,,16,,5,10,5,5,,,
+UBCV,2014,W,PSYC,503,,001,Biological Basis of Health Psychology,Frances Chen,8,93.375,0.916125381,95.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2015,W,PSYC,218,,001,Analysis of Behavioural Data,Frances Chen;Jordan Brace;Sophie Lanthier,79,67.835443038,19.190295611,99.0,0.0,,,,,,,,,,,11,2,9,6,6,9,5,5,10,7,9,,,
+UBCV,2015,W,PSYC,218,,002,Analysis of Behavioural Data,Enda Tan;Frances Chen;Lihan Bill Chen;Lihan Chen,98,68.571428571,16.157727716,93.0,4.0,,,,,,,,,,,8,10,8,5,6,13,11,8,16,7,6,,,
+UBCV,2016,W,PSYC,218,,002,Analysis of Behavioural Data,Chelsea Christie;Courtney Bryce;Frances Chen,97,67.7628866,14.64707963,93.0,22.0,,,,,,,,,,,8,6,10,14,10,6,12,8,11,5,7,,,
+UBCV,2016,W,PSYC,503,,001,Biological Basis of Health Psychology,Frances Chen,12,93.25,1.055289706,94.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2017,W,PSYC,218,,006,Analysis of Behavioural Data,Anita Schmalor;Charlotte Roddick;Frances Chen,95,70.568421053,13.76988128,98.0,41.0,,,,,,,,,,,5,9,7,4,10,20,6,4,12,7,11,,,
+UBCV,2018,W,PSYC,218,,006,Analysis of Behavioural Data,Anita Schmalor;Frances Chen;Yeeun Lee,94,68.212765957,16.36865109,95.0,0.0,,,,,,,,,,,8,5,8,9,11,7,11,11,10,11,3,,,
+UBCV,2020,W,PSYC,503,,001,Biological Basis of Health Psychology,Frances Chen,12,92.416666667,1.781640375,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2021,W,PSYC,218,,006,Analysis of Behavioural Data,Alison Tracy;Frances Chen;Grace Truong;Grayson Mullen;Holly Engstrom;Irein Thomas;Qinye Yu;Rachel Lai,97,69.773195876,17.306974241,100.0,13.0,,,,,,,,,,,10,7,6,7,8,11,7,7,16,9,9,,,
+UBCV,2021,W,PSYC,218,,006,Analysis of Behavioural Data,Frances Chen,97,70.7,,100.0,20.0,,,,,,,,,,,8,8,6,7,8,11,7,7,17,9,9,72.0,84.0,61.0
+UBCV,2022,W,PSYC,218,,006,Analysis of Behavioural Data,Frances Chen,95,70.8,,100.0,21.0,,,,,,,,,,,12,5,4,9,6,7,5,5,14,15,13,74.0,85.0,60.0
+UBCV,2023,W,PSYC,218,,006,Analysis of Behavioural Data,Frances Chen,100,71.0,,98.0,31.0,,,,,,,,,,,8,9,7,4,5,8,14,6,19,4,11,73.0,82.5,59.5

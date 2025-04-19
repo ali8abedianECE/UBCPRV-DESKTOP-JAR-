@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,ARTH,226,,001,ART 1600 TO NOW,"Monteyne, Joseph",59,79.46,13.25,97,37,51,1,6,1,0,0,0,0,1,0,1,1,2,3,3,4,5,3,5,13,12,,,
+UBC,2013,W,ARTH,337,,001,EUR ART CUL,"Monteyne, Joseph",49,77.62,8.88,90,56,45,0,1,1,2,0,0,0,0,0,0,0,3,1,2,5,3,7,12,11,1,,,
+UBC,2013,W,ARTH,535,A,001,RENAISSANCE ART,"Monteyne, Joseph",10,88.5,2.01,90,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,,,
+UBC,2014,W,ARTH,226,,001,ART 1600 TO NOW,"Monteyne, Joseph",61,75.57,19.53,94,0,54,4,0,2,0,2,0,0,1,1,4,1,1,2,4,3,8,4,9,10,12,,,
+UBC,2014,W,ARTH,328,,001,N RENS ART CULTR,"Monteyne, Joseph",76,76.67,13.06,95,14,66,3,2,3,0,0,1,0,0,2,3,1,1,1,5,5,8,13,13,13,6,,,
+UBC,2014,W,ARTH,436,,001,EARLY MODERN ART,"Monteyne, Joseph",17,84.88,6.29,95,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,2,4,,,
+UBC,2015,W,ARTH,226,,001,ART 1500 TO 1900,"Monteyne, Joseph",51,70.26,18.13,96,0,46,4,0,1,0,1,1,0,1,1,4,4,3,1,2,6,5,6,10,6,3,,,
+UBC,2015,W,ARTH,323,,001,ART&CULT 1400-,"Monteyne, Joseph",44,78.26,12.05,90,24,38,1,1,3,0,0,0,1,0,0,1,0,0,4,1,1,5,1,10,14,2,,,
+UBC,2015,W,ARTH,535,A,001,RENAISSANCE ART,"Monteyne, Joseph",11,88,4.83,90,75,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8,,,
+UBC,2016,W,ARTH,324,,001,N EURO ART&CULT2,"Monteyne, Joseph",69,74.6,11.28,92,22,61,1,3,1,0,0,0,1,0,0,1,1,1,4,4,10,9,10,11,5,6,,,
+UBC,2016,W,ARTH,436,,001,EARLY MODERN ART,"Monteyne, Joseph",18,81.82,8.62,90,55,17,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,3,7,2,,,
+UBC,2017,W,ARTH,321,,001,ART&CULT 1350-,"Monteyne, Joseph",72,76.3,15.04,95,0,65,2,2,1,0,1,0,0,1,0,2,2,3,1,2,10,5,7,15,14,6,,,
+UBC,2017,W,ARTH,535,A,001,RENAISSANCE ART,"Monteyne, Joseph",11,89.91,2.66,93,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,,,
+UBC,2018,W,ARTH,320,,001,SP& LTN AM 15-17,"Monteyne, Joseph",35,84.24,9.67,97,43,32,1,2,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,10,9,10,,,
+UBCV,2014,W,ARTH,226,,001,Art in Europe and North America from the Sixteenth Century to the Present,Joseph Monteyne,59,75.71186441,19.39343192,94.0,0.0,,,,,,,,,,,,,,,,,8,,10,10,12,,,
+UBCV,2014,W,ARTH,328,,001,Northern Renaissance Art and Culture (1400-1550),Joseph Monteyne,71,76.53521127,12.8983177,95.0,14.0,,,,,,,,,,,,,,,5,6,9,13,13,13,6,,,
+UBCV,2014,W,ARTH,436,,001,Seminar in Early Modern Art,Joseph Monteyne,17,84.88235294,6.293670957,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,9,,,,,
+UBCV,2015,W,ARTH,226,,001,Art in Europe and North America: 1500-1900,Joseph Monteyne,50,70.26,18.128577057,96.0,0.0,,,,,,,,,,,,,,,,6,5,6,10,6,,,,
+UBCV,2015,W,ARTH,323,,001,Northern European Art and Culture (1400-1600),Heather Muckart;Joseph Monteyne,40,78.175,11.903215467,90.0,24.0,,,,,,,,,,,,,,,,,6,,10,14,,,,
+UBCV,2015,W,ARTH,535,A,001,Early Modern: Renaissance,Joseph Monteyne,10,88.0,4.830458915,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,8,,,
+UBCV,2016,W,ARTH,324,,001,Northern European Art and Culture II (1600-1700),Jessica Law;Joseph Monteyne,65,74.13846154,11.2094783,92.0,22.0,,,,,,,,,,,1,1,1,4,7,10,9,10,11,5,6,,,
+UBCV,2016,W,ARTH,436,,001,Seminar in Early Modern Art,Joseph Monteyne,17,81.82352941,8.618550445,90.0,55.0,,,,,,,,,,,0,0,1,0,0,0,2,2,3,7,2,,,
+UBCV,2017,W,ARTH,321,,001,Early Modern Italian Art and Culture (ca. 1350-1550),Joseph Monteyne;Savannah Marlatt,69,76.246376812,14.815935178,95.0,0.0,,,,,,,,,,,2,2,3,1,2,10,7,7,15,14,6,,,
+UBCV,2017,W,ARTH,535,A,001,Early Modern: Renaissance,Joseph Monteyne,11,89.909090909,2.662876094,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,8,,,
+UBCV,2018,W,ARTH,320,,001,Entangled Worlds: Spain and Colonial Latin America (1500-1700),Joseph Monteyne,33,84.242424242,9.66640543,97.0,43.0,,,,,,,,,,,1,0,0,0,1,0,1,1,10,9,10,,,
+UBCV,2018,W,ARTH,571,,001,The Methodology of Art History,Ignacio Alberto Adriasola Munoz;Joseph Monteyne,13,89.384615385,3.500915631,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,8,,,
+UBCV,2020,W,ARTH,226,,001,"Art, Colonialism, and Indigeneity",Ivana Vranic;Joseph Monteyne;Monica Perez Montelongo,37,71.297297297,22.792377947,93.0,0.0,,,,,,,,,,,4,1,0,2,2,3,0,3,12,6,4,,,
+UBCV,2020,W,ARTH,227,,001,What is Modern Art?,Catherine Volmensky;Joseph Monteyne;Marisa Carolina Sanchez;Marisa Sanchez,45,81.911111111,7.713100491,96.0,62.0,,,,,,,,,,,0,0,0,1,1,3,4,7,10,11,8,,,
+UBCV,2020,W,ARTH,321,,001,Public and Private Bodies: Italian Renaissance Art and Culture,Joseph Monteyne;Laura Aguilera Cassis,75,85.28,8.220869948,100.0,60.0,,,,,,,,,,,0,0,0,2,2,2,3,6,13,17,30,,,
+UBCV,2020,W,ARTH,323,,001,Heaven and Earth: Renaissance Art and Culture in Northern Europe,Joseph Monteyne;Lucas Jordan Kling;Lucas Kling,75,80.0,11.244217733,95.0,40.0,,,,,,,,,,,1,1,1,4,3,9,2,8,13,18,15,,,
+UBCV,2020,W,ARTH,436,,001,Seminar in Early Modern Art,Ignacio Alberto Adriasola Munoz;Joseph Monteyne,16,87.8125,4.996248593,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,7,6,,,
+UBCV,2020,W,ARTH,537,,001,Early Modern: 17th Century,Joseph Monteyne,11,89.181818182,6.600275476,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,1,9,,,
+UBCV,2021,W,ARTH,320,,001,Entangled Worlds: Spain and Colonial Latin America (1500-1700),Joseph Monteyne;Monica Perez Montelongo,52,82.942307692,8.718727784,98.0,65.0,,,,,,,,,,,0,0,0,0,4,3,1,13,5,10,16,,,
+UBCV,2021,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Emily Cadger;Joseph Monteyne,76,82.25,11.039474625,95.0,34.0,,,,,,,,,,,3,0,0,0,2,6,1,8,15,26,15,,,
+UBCV,2021,W,ARTH,535,A,001,Early Modern: Renaissance,Joseph Monteyne,6,91.833333333,1.834847859,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2021,W,ARTH,320,,001,Entangled Worlds: Spain and Colonial Latin America (1500-1700),Joseph Monteyne,52,82.9,,98.0,65.0,,,,,,,,,,,,,,,,,,13,,10,16,83.0,90.0,77.8
+UBCV,2021,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Joseph Monteyne,75,83.7,,95.0,65.0,,,,,,,,,,,,,,,,7,,9,15,26,15,85.0,89.0,79.5
+UBCV,2021,W,ARTH,535,A,001,Early Modern: Renaissance,Joseph Monteyne,7,87.3,,95.0,60.0,,,,,,,,,,,,,,,,,,,,,6,92.0,92.0,90.0
+UBCV,2021,W,ARTH,571,,001,The Methodology of Art History,Joseph Monteyne;Saygin Salgirli,11,91.9,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,91.0,93.0,90.5
+UBCV,2022,W,ARTH,300,,001,Seminar on Methods and Approaches in Art History,Joseph Monteyne,18,87.4,,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,6,88.0,90.0,85.0
+UBCV,2022,W,ARTH,323,,001,Heaven and Earth: Renaissance Art and Culture in Northern Europe,Joseph Monteyne,77,78.9,,94.0,10.0,,,,,,,,,,,1,1,2,1,1,5,10,8,24,19,5,81.0,85.0,75.0
+UBCV,2022,W,ARTH,324,,001,Urban and Courtly Arts in Early Modern Northern Europe (1600-1700),Joseph Monteyne,77,80.9,,95.0,0.0,,,,,,,,,,,1,1,1,0,1,3,8,9,21,20,12,83.0,87.0,78.0
+UBCV,2022,W,ARTH,436,,001,Seminar in Early Modern Art,Joseph Monteyne,14,86.4,,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,2,7,88.5,90.0,80.5
+UBCV,2023,W,ARTH,320,,001,Entangled Worlds: Spain and Colonial Latin America (1500-1700),Joseph Monteyne,64,87.7,,100.0,30.0,,,,,,,,,,,1,1,1,0,3,1,0,1,8,12,36,91.0,95.3,84.8
+UBCV,2023,W,ARTH,321,,001,Public and Private Bodies: Italian Renaissance Art and Culture,Joseph Monteyne,80,81.1,,95.0,63.0,,,,,,,,,,,0,0,0,1,3,3,7,18,25,12,11,82.0,85.3,77.0
+UBCV,2023,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Joseph Monteyne,80,82.7,,96.0,50.0,,,,,,,,,,,0,2,0,1,4,2,7,8,14,23,19,85.0,89.0,79.0
+UBCV,2023,W,ARTH,537,,001,Early Modern: 17th Century,Joseph Monteyne,14,92.9,,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,12,93.0,95.0,92.0

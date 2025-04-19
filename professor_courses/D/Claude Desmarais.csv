@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,GERM,100,,001,Beginners' German I,Claude Desmarais,30,72.93333333,19.18140862,98.0,25.0,,,,,,,,,6,,5,,,
+UBCO,2014,W,GERM,303,B,001,Topics in German Studies (in English),Claude Desmarais,15,80.33333333,6.965903353,92.0,67.0,0,0,0,0,,,,,,,,,,
+UBCO,2015,W,GERM,100,,001,Beginners' German I,Claude Desmarais,32,71.78125,16.177910817,93.0,15.0,,,,,,,,9,,,,,,
+UBCO,2015,W,GERM,110,,001,Beginners' German II,Claude Desmarais,20,73.45,14.99991228,97.0,34.0,,,,,,5,,,6,,,,,
+UBCO,2016,W,GERM,100,,001,Beginners' German I,Claude Desmarais,30,74.96666667,14.07733158,97.0,39.0,1,2,0,3,3,2,4,2,2,7,4,,,
+UBCO,2016,W,GERM,110,,001,Beginners' German II,Claude Desmarais,15,76.26666667,23.31604802,98.0,9.0,1,1,0,2,1,0,0,0,2,3,5,,,
+UBCO,2017,W,GERM,100,,001,Beginners' German I,Claude Desmarais,30,69.433333333,23.004772119,92.0,0.0,4,1,0,1,1,5,3,4,2,8,1,,,
+UBCO,2017,W,GERM,110,,001,Beginners' German II,Claude Desmarais,18,76.0,8.690765891,91.0,58.0,0,0,1,1,0,3,3,3,4,2,1,,,
+UBCO,2017,W,GERM,200,,001,Intermediate German I,Claude Desmarais,22,73.954545455,20.207205864,94.0,0.0,1,0,2,0,3,3,1,1,5,2,4,,,
+UBCO,2017,W,GERM,210,,001,Intermediate German II,Claude Desmarais,14,73.142857143,24.101889945,96.0,0.0,1,0,1,0,2,1,1,1,0,5,2,,,
+UBCO,2018,W,GERM,100,,001,Beginners' German I,Claude Desmarais,32,77.21875,13.253689383,95.0,39.0,1,0,2,2,4,1,1,4,6,5,6,,,
+UBCO,2018,W,GERM,110,,001,Beginners' German II,Claude Desmarais,20,76.45,14.496732844,93.0,51.0,0,3,0,2,1,0,3,0,3,2,6,,,
+UBCO,2018,W,GERM,200,,001,Intermediate German I,Claude Desmarais,15,79.133333333,6.209056366,90.0,70.0,0,0,0,0,0,2,2,4,4,2,1,,,
+UBCO,2018,W,GERM,210,,001,Intermediate German II,Claude Desmarais,14,81.285714286,8.641835377,90.0,63.0,0,0,0,1,1,1,0,1,4,4,2,,,
+UBCO,2019,W,GERM,100,,001,Beginners' German I,Claude Desmarais;Tatjana Smith,36,77.416666667,16.460124978,99.0,36.0,2,1,3,1,2,3,1,4,4,6,9,,,
+UBCO,2019,W,GERM,110,,001,Beginners' German II,Claude Desmarais;Tatjana Smith,27,86.518518519,10.248340843,98.0,54.0,0,1,0,0,0,1,0,4,5,2,14,,,
+UBCO,2019,W,GERM,200,,001,Intermediate German I,Claude Desmarais;Tatjana Smith,16,77.0,13.376596478,93.0,52.0,0,1,1,2,0,1,0,4,1,3,3,,,
+UBCO,2019,W,GERM,210,,001,Intermediate German II,Claude Desmarais;Tatjana Smith,13,83.0,12.254250963,96.0,55.0,0,0,1,1,0,0,0,2,0,4,5,,,
+UBCO,2020,S,GERM,100,,001,Beginners' German I,Claude Desmarais,15,75.0,22.681017866,97.0,0.0,1,0,0,0,1,3,1,0,4,3,2,,,
+UBCO,2020,W,GERM,100,,002,Beginners' German I,Claude Desmarais,19,79.684210526,10.60425822,94.0,64.0,0,0,0,0,4,1,2,2,3,2,5,,,
+UBCO,2020,W,GERM,100,,101,Beginners' German I,Claude Desmarais,21,75.380952381,22.927006325,96.0,5.0,2,2,0,0,0,1,0,2,6,3,5,,,
+UBCO,2020,W,GERM,200,,001,Intermediate German I,Claude Desmarais;Tatjana Smith,13,80.769230769,9.627684441,94.0,65.0,0,0,0,0,3,0,0,2,1,6,1,,,
+UBCO,2020,W,GERM,210,,001,Intermediate German II,Claude Desmarais,11,80.636363636,11.056877744,94.0,58.0,0,0,1,0,0,2,0,0,2,4,2,,,
+UBCO,2020,W,WRLD,399,C,001,Special Topics in World Literatures,Claude Desmarais,7,83.714285714,6.047431568,92.0,75.0,0,0,0,0,0,0,1,1,1,3,1,,,
+UBCO,2021,S,GERM,100,,001,Beginners' German I,Claude Desmarais;Tatjana Smith,24,92.291666667,5.060324501,99.0,76.0,0,0,0,0,0,0,0,1,1,1,21,,,
+UBCO,2021,W,GERM,100,,002,Beginners' German I,Claude Desmarais,24,84.041666667,12.20291899,97.0,52.0,0,1,0,1,0,1,2,2,4,3,10,,,
+UBCO,2021,W,GERM,110,,002,Beginners' German II,Claude Desmarais,12,84.666666667,10.671400465,97.0,62.0,0,0,0,1,0,0,1,1,3,1,5,,,
+UBCO,2021,W,GERM,200,,001,Intermediate German I,Claude Desmarais,17,81.764705882,10.189022351,98.0,68.0,0,0,0,0,0,2,4,1,3,3,4,,,
+UBCO,2021,W,GERM,210,,001,Intermediate German II,Claude Desmarais,19,77.157894737,12.941162398,96.0,51.0,0,1,1,1,1,3,2,0,5,0,5,,,
+UBCO,2021,W,GERM,100,,002,Beginners' German I,Claude Desmarais,24,84.0,,97.0,52.0,,,,,,,,,,,10,85.0,94.3,76.8
+UBCO,2021,W,GERM,110,,002,Beginners' German II,Claude Desmarais,12,84.7,,97.0,62.0,,,,,,,,,,,,84.5,93.5,79.5
+UBCO,2021,W,GERM,200,,001,Intermediate German I,Claude Desmarais,17,81.8,,98.0,68.0,,,,,,,,,,,,82.0,87.0,72.0
+UBCO,2021,W,GERM,210,,001,Intermediate German II,Claude Desmarais,19,77.2,,96.0,51.0,,,,,,,,,,,,80.0,86.0,70.0
+UBCO,2022,W,GERM,100,,002,Beginners' German I,Claude Desmarais,25,82.5,,97.0,30.0,1,0,1,0,0,0,3,0,5,8,7,85.0,90.0,80.0
+UBCO,2022,W,GERM,110,,002,Beginners' German II,Claude Desmarais,7,94.1,,99.0,90.0,0,0,0,0,0,0,0,0,0,0,7,94.0,97.0,91.0
+UBCO,2022,W,GERM,200,,001,Intermediate German I,Claude Desmarais,11,86.4,,96.0,53.0,0,1,0,0,0,1,0,0,1,2,6,93.0,95.5,84.5
+UBCO,2022,W,GERM,210,,001,Intermediate German II,Claude Desmarais,7,80.1,,95.0,52.0,0,1,0,0,0,1,1,0,0,1,3,86.0,93.0,71.0
+UBCO,2023,W,GERM,100,,002,Beginners' German I,Claude Desmarais,35,84.37,,100.0,52.0,0,1,0,0,1,3,3,4,2,8,13,87.0,91.5,77.0
+UBCO,2023,W,GERM,110,,001,Beginners' German II,Claude Desmarais,26,85.77,,99.0,65.0,0,0,0,0,1,1,0,3,6,7,8,86.0,92.0,80.0
+UBCO,2023,W,GERM,200,,001,Intermediate German I,Claude Desmarais,13,88.08,,99.0,64.0,0,0,0,0,1,0,2,0,0,3,7,90.0,98.0,85.0
+UBCO,2023,W,GERM,210,,001,Intermediate German II,Claude Desmarais,8,84.5,,97.0,68.0,0,0,0,0,0,2,0,0,2,0,4,86.0,94.75,77.0

@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,ASIA,444,,001,TPCS MD JPN FC&C,"Yi, Christina",17,73.12,10.01,86,53,17,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,2,4,3,2,0,,,
+UBC,2014,W,ASIA,316,,001,R&E JPN LIT FILM,"Yi, Christina",52,71.88,15.73,86,0,50,2,0,0,0,2,0,0,0,0,2,0,1,1,7,5,11,13,9,3,0,,,
+UBC,2014,W,ASIA,364,B,001,MOD JAPN LIT TRN,"Yi, Christina",51,72.55,10.06,87,38,48,3,0,0,0,0,0,0,1,2,3,1,2,1,5,6,10,12,8,3,0,,,
+UBC,2014,W,ASIA,533,A,006,TOPICS JAPN LIT1,"Yi, Christina",4,86.67,1.15,88,86,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,,,
+UBC,2016,W,ASIA,444,,001,TPCS MD JPN FC&C,"Yi, Christina",46,70.52,18.04,93,0,41,3,2,0,0,1,1,0,1,0,3,1,3,1,4,3,7,9,6,6,1,,,
+UBC,2016,W,ASIA,533,B,006,TOPICS JAPN LIT1,"Yi, Christina",9,88.4,1.95,91,87,5,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2017,W,ASIA,316,,002,R&E JPN LIT FILM,"Yi, Christina",60,70.93,10.79,91,31,55,3,0,1,1,0,0,0,1,2,3,3,2,0,3,13,18,7,5,3,1,,,
+UBC,2017,W,ASIA,364,D,001,MOD JAPN LIT TRN,"Yi, Christina",54,72.77,10.91,88,28,51,2,0,0,0,0,0,1,1,0,2,0,3,3,2,6,12,14,7,4,0,,,
+UBC,2017,W,ASIA,444,,001,TPCS MD JPN FC&C,"Yi, Christina",63,70.08,13.77,86,10,59,3,1,0,0,0,2,0,1,0,3,1,4,5,2,10,15,9,9,4,0,,,
+UBC,2017,W,ASIA,533,A,006,TOPICS JAPN LIT1,"Yi, Christina",10,87.43,2.7,92,84,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,,,
+UBC,2018,W,ASIA,316,,001,R&E JPN LIT FILM,"Yi, Christina",42,75.13,6.35,86,55,40,0,2,0,0,0,0,0,0,0,0,0,2,1,0,5,10,14,6,2,0,,,
+UBC,2018,W,ASIA,364,D,001,MOD JAPN LIT TRN,"Yi, Christina",26,75.38,8.9,86,40,25,1,0,0,0,0,0,0,0,1,1,0,0,0,1,5,4,6,7,2,0,,,
+UBC,2018,W,ASIA,533,A,006,TOPICS JAPN LIT1,"Yi, Christina",7,88.67,3.27,93,83,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2018,W,ASIA,533,A,606,TOPICS JAPN LIT1,"Yi, Christina",5,87.33,2.08,89,85,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,,,
+UBC,2018,W,JAPN,453,,001,RDGS MOD JAPN LT,"Yi, Christina",18,75.75,8.12,86,55,16,0,0,1,1,0,0,0,0,0,0,0,1,0,1,2,2,5,3,2,0,,,
+UBCV,2014,W,ASIA,316,,001,Race and Ethnicity in Japanese Literature and Film,Christina Yi,52,71.88461539,15.73014322,86.0,0.0,,,,,,,,,,,,,,,7,5,11,13,9,,0,,,
+UBCV,2014,W,ASIA,364,B,001,Modern Japanese Literature in Translation,Christina Yi,51,72.54901961,10.05845659,87.0,38.0,,,,,,,,,,,,,,,5,6,10,12,8,,0,,,
+UBCV,2016,W,ASIA,444,,001,Topics in Modern Japanese Fiction and Cultural History,Christina Yi,44,70.52272727,18.04063712,93.0,0.0,,,,,,,,,,,3,1,3,1,4,3,7,9,6,6,1,,,
+UBCV,2017,W,ASIA,316,,002,Race and Ethnicity in Japanese Literature and Film,Christina Yi;Joshua Allan Linkous;Joshua Linkous,59,71.169491525,10.85190678,91.0,31.0,,,,,,,,,,,3,3,2,0,3,13,18,7,5,4,1,,,
+UBCV,2017,W,ASIA,364,D,001,Modern Japanese Literature in Translation,Christina Yi,54,72.722222222,10.811274106,88.0,28.0,,,,,,,,,,,2,0,3,3,2,7,12,14,7,4,0,,,
+UBCV,2017,W,ASIA,394,,001,Post-Revolutionary Iranian Cinema,Christina Yi;Jee-Yeon Song;Nasrin Askari,46,87.369565217,5.161217323,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,7,19,16,,,
+UBCV,2017,W,ASIA,444,,001,Topics in Modern Japanese Fiction and Cultural History,Christina Yi;Huiyong Cyrus Qiu,62,70.080645161,13.770124929,86.0,10.0,,,,,,,,,,,3,1,4,5,2,10,15,9,9,4,0,,,
+UBCV,2017,W,ASIA,533,A,006,Topics in Modern Japanese Literature,Christina Yi,7,87.428571429,2.699206233,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,2,,,
+UBCV,2018,W,ASIA,316,,001,Race and Ethnicity in Japanese Literature and Film,Christina Yi;Huiyong Cyrus Qiu,40,75.125,6.349591144,86.0,55.0,,,,,,,,,,,0,0,2,1,0,5,10,14,6,2,0,,,
+UBCV,2018,W,ASIA,364,D,001,Modern Japanese Literature in Translation,Christina Yi,26,75.384615385,8.904277278,86.0,40.0,,,,,,,,,,,1,0,0,0,1,5,4,6,7,2,0,,,
+UBCV,2018,W,ASIA,533,A,006,Topics in Modern Japanese Literature,Christina Yi,6,88.666666667,3.265986324,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2,,,
+UBCV,2018,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Masumi Abe El-Khoury,17,76.235294118,8.11271696,86.0,55.0,,,,,,,,,,,0,0,1,0,1,2,2,5,4,2,0,,,
+UBCV,2019,W,ASIA,445,,001,Japanese Crime Fiction,Christina Yi,23,74.043478261,7.997035024,85.0,58.0,,,,,,,,,,,0,0,1,2,3,3,2,4,6,2,0,,,
+UBCV,2019,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Nicholas Hall;Rebecca Fuk Hing Chau Choi,11,79.636363636,6.20117291,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,1,2,1,,,
+UBCV,2020,W,ASIA,364,A,001,Modern Japanese Literature in Translation,Christina Yi;Miki Tsujiyama;Shota Iwasaki,46,73.760869565,17.668785763,87.0,0.0,,,,,,,,,,,3,0,1,0,0,3,9,11,13,6,0,,,
+UBCV,2020,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Nicholas Hall,21,76.80952381,5.741245924,86.0,67.0,,,,,,,,,,,0,0,0,0,2,4,2,3,9,1,0,,,
+UBCV,2021,W,ASIA,364,A,001,Modern Japanese Literature in Translation,Ai Yamamoto;Christina Yi;Shota Iwasaki,48,74.625,14.072192286,92.0,16.0,,,,,,,,,,,2,0,4,4,3,1,5,6,12,7,4,,,
+UBCV,2021,W,ASIA,444,,001,Topics in Modern Japanese Fiction and Cultural History,Christina Yi;Shota Iwasaki,31,73.0,14.557930256,87.0,0.0,,,,,,,,,,,1,0,0,1,2,3,9,9,4,2,0,,,
+UBCV,2021,W,ASIA,445,,001,Japanese Crime Fiction,Christina Yi;Mengyuan Li,29,72.517241379,12.899669679,87.0,28.0,,,,,,,,,,,2,0,0,0,3,3,6,9,3,3,0,,,
+UBCV,2021,W,ASIA,592,,206,The Profession of Asian Studies,Christina Yi,6,88.333333333,2.160246899,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,2,,,
+UBCV,2021,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Rebecca Fuk Hing Chau Choi;Yuki Ohsawa,15,74.733333333,10.606377237,88.0,56.0,,,,,,,,,,,0,0,1,2,2,1,0,2,4,3,0,,,
+UBCV,2021,W,ASIA,444,,001,Topics in Modern Japanese Fiction and Cultural History,Christina Yi,31,73.0,,87.0,0.0,,,,,,,,,,,,,,,,,9,9,,,,75.0,78.0,73.0
+UBCV,2021,W,ASIA,445,,001,Japanese Crime Fiction,Christina Yi,28,74.1,,87.0,34.0,,,,,,,,,,,,,,,,,6,9,,,,76.0,78.0,71.5
+UBCV,2021,W,ASIA,592,,206,The Profession of Asian Studies,Christina Yi,6,88.3,,91.0,86.0,,,,,,,,,,,,,,,,,,,,,,87.5,90.3,87.0
+UBCV,2022,W,ASIA,445,,001,Japanese Crime Fiction,Christina Yi,22,65.6,,90.0,0.0,,,,,,,,,,,4,1,0,2,2,2,3,1,3,3,1,71.0,81.0,60.0
+UBCV,2022,W,ASIA,592,,206,The Profession of Asian Studies,Christina Yi,9,85.8,,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,2,86.0,88.0,85.0
+UBCV,2023,S,ASIA,580,A,006,Directed Readings,Christina Yi,8,91.25,,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,90.5,91.75,90.0
+UBCV,2023,W,ASIA,445,,021,Japanese Crime Fiction,Christina Yi,22,70.7,,88.0,27.0,,,,,,,,,,,1,0,3,1,3,1,3,3,5,2,0,72.0,81.8,66.0
+UBCV,2023,W,ASIA,533,A,006,Topics in Modern Japanese Literature,Christina Yi,7,87.3,,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2,86.5,89.3,86.0
+UBCV,2023,W,ASIA,592,,206,The Profession of Asian Studies,Christina Yi,8,86.4,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,2,87.0,88.5,84.3

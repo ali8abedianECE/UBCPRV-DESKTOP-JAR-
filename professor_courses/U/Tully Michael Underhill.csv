@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",10,87.2,3.08,92,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,2,,,
+UBC,2009,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",10,88.8,3.49,93,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,,,
+UBC,2010,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",11,88.27,2.28,92,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,,,
+UBC,2011,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",12,88.91,1.81,92,86,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,,,
+UBC,2012,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",10,89.5,2.72,94,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,,,
+UBC,2012,W,PHYL,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",7,86,7.23,93,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,,,
+UBC,2013,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",29,84.03,17.23,97,0,28,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,6,9,11,,,
+UBC,2013,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",11,89.36,2.29,93,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,,,
+UBC,2014,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",29,85.97,6.2,95,72,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,9,10,,,
+UBC,2014,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",13,90.58,2.84,95,86,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,,,
+UBC,2015,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",34,86.56,9.58,94,40,33,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,3,9,17,,,
+UBC,2015,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",11,91,2.68,94,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,,,
+UBC,2016,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",33,85.3,6.14,94,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,15,9,,,
+UBC,2016,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",12,91.67,4.1,96,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,,,
+UBC,2017,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",26,83.96,8.44,96,64,25,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,5,6,8,,,
+UBC,2017,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",9,89,2.69,92,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,,,
+UBC,2018,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",30,82.14,7.98,94,55,29,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,9,12,2,,,
+UBC,2018,W,CELL,507,,001,TECH CEL&DEV BIO,"Underhill, Tully Michael",12,90.58,2.97,94,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,,,
+UBCV,2014,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,29,85.96551724,6.196097612,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,6,9,10,,,
+UBCV,2014,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,12,90.58333333,2.843120352,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7,,,
+UBCV,2015,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,34,86.558823529,9.582784996,94.0,40.0,,,,,,,,,,,,,,,,,,,,9,17,,,
+UBCV,2015,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,11,91.0,2.683281573,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8,,,
+UBCV,2016,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,33,85.3030303,6.141482153,94.0,71.0,,,,,,,,,,,0,0,0,0,0,2,2,3,2,15,9,,,
+UBCV,2016,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,12,91.66666667,4.097301403,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,11,,,
+UBCV,2017,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,25,83.96,8.438404273,96.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,2,5,6,8,,,
+UBCV,2017,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,9,89.0,2.692582404,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,5,,,
+UBCV,2018,W,BMEG,591,A,101,Topics in Biomedical Engineering,Ali Bashashati Saghezchi;Cheryl Lea Wellington;James Piret;Matthias Goerges;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,38,85.473684211,4.925042692,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,10,12,10,,,
+UBCV,2018,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,29,82.137931034,7.980888502,94.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,1,9,12,2,,,
+UBCV,2018,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,12,90.583333333,2.968266508,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7,,,
+UBCV,2019,W,BMEG,591,A,101,Topics in Biomedical Engineering,Ali Bashashati Saghezchi;Cheryl Lea Wellington;James Piret;Matthias Goerges;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,46,81.326086957,19.421699603,92.0,0.0,,,,,,,,,,,3,0,0,0,0,0,0,3,12,17,11,,,
+UBCV,2019,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,37,84.675675676,6.733226295,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,1,8,18,6,,,
+UBCV,2019,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,15,90.6,3.089151525,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,10,,,
+UBCV,2020,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Cheryl Lea Wellington;James Piret;Matthias Goerges;Nozomu Yachie;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,55,83.472727273,12.333114931,94.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,5,17,20,10,,,
+UBCV,2020,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,27,88.407407407,3.99287114,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,11,12,,,
+UBCV,2020,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,16,90.4375,2.128183889,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,10,,,
+UBCV,2021,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Cheryl Lea Wellington;Chun Wu;James Piret;Matthias Goerges;Nozomu Yachie;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,70,86.1,4.036607846,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,16,32,16,,,
+UBCV,2021,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Hilla Weidberg;Ivan Robert Nabi;Tully Michael Underhill,32,87.875,4.513420847,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,15,12,,,
+UBCV,2021,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,22,91.727272727,2.004324329,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,18,,,
+UBCV,2021,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Matthias Goerges;Tim Kieffer;Srinivas Murthy;James Piret;Tully Michael Underhill;Cheryl Lea Wellington;Chun Wu;Nozomu Yachie,70,86.1,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,16,32,16,86.0,88.8,83.0
+UBCV,2021,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill;Hilla Weidberg,32,87.9,,94.0,70.0,,,,,,,,,,,,,,,,,,,,15,12,89.0,90.3,85.0
+UBCV,2021,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,22,91.7,,96.0,89.0,,,,,,,,,,,,,,,,,,,,,18,92.0,93.0,90.0
+UBCV,2022,W,BMEG,474,,201,Stem Cells and Regenerative Medicine,Robert Judson;Francis Lynn;Kelly Marshall McNagny;Fabio Rossi;Nika Shakiba;Glen Tibbits;Tully Michael Underhill;Nozomu Yachie,36,80.1,,96.0,52.0,,,,,,,,,,,0,2,1,1,2,0,5,3,6,10,6,83.0,88.0,74.0
+UBCV,2022,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Anna Blakney;Carl de Boer;Thalia Field;Matthias Goerges;Ilker Hacihaliloglu;David Liu;Kelly Marshall McNagny;Dena Shahriari;Nika Shakiba;Tully Michael Underhill;Cheryl Lea Wellington;Chun Wu;Nozomu Yachie,61,96.1,,100.0,20.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,4,55,100.0,100.0,96.0
+UBCV,2023,W,BMEG,474,,201,Stem Cells and Regenerative Medicine,Nasim Kajabadi;Fabio Rossi;Tully Michael Underhill,26,80.52,,90.0,64.0,,,,,,,,,,,0,0,0,0,3,1,0,5,7,8,1,83.0,85.0,77.0
+UBCV,2023,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Anna Blakney;Carl de Boer;Matthias Goerges;Govindkrishna Kaigala;Kelly Marshall McNagny;Nika Shakiba;Carolina Tropini;Tully Michael Underhill;Nozomu Yachie,56,95.59,,100.0,48.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,6,48,98.0,100.0,96.0
+UBCV,2023,W,CAPS,421,,001,Cell Biology and Human Disease,Janel Kopp;Christopher Loewen;Tully Michael Underhill;Hilla Weidberg,29,86.55,,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,1,4,5,15,90.0,93.0,82.0
+UBCV,2023,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,19,91.11,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,14,91.0,92.75,90.0

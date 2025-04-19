@@ -1,0 +1,85 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,FREN,102,,001,Beginner's French I,Stephanie Tolman,72,82.34722222,13.19854849,99.0,32.0,,,,,,,5,5,15,8,27,,,
+UBCO,2014,W,FREN,104,,102,Beginner's French III,Stephanie Tolman,38,69.89473684,14.57652588,94.0,35.0,,,,,,,,7,,5,,,,
+UBCO,2015,S,FREN,102,,001,Beginner's French I,Stephanie Tolman,18,75.444444444,20.875604175,96.0,11.0,,,,,,,,,,,6,,,
+UBCO,2015,S,FREN,104,,001,Beginner's French III,Stephanie Tolman,31,69.322580645,19.012955402,94.0,8.0,,,,,,,,,,,6,,,
+UBCO,2015,W,FREN,102,,001,Beginner's French I,Stephanie Tolman,71,77.943661972,13.558220831,99.0,42.0,,,,,,8,5,5,10,11,17,,,
+UBCO,2015,W,FREN,102,,003,Beginner's French I,Stephanie Tolman,29,68.931034483,21.900637686,96.0,0.0,,,,,,,0,1,6,3,5,,,
+UBCO,2015,W,FREN,103,,101,Beginner's French II,Stephanie Tolman,74,70.891891892,15.897417355,99.0,25.0,8,,5,,5,6,11,6,12,5,8,,,
+UBCO,2015,W,FREN,461,,001,17th- and 18th-Century French Comedy,Marianne Legault;Stephanie Tolman,9,76.111111111,9.701088141,90.0,63.0,0,0,0,,,,,,,,,,,
+UBCO,2016,S,FREN,102,,001,Beginner's French I,Stephanie Tolman,24,85.45833333,10.94245488,100.0,51.0,0,1,1,0,0,0,0,0,6,8,8,,,
+UBCO,2016,S,FREN,103,,001,Beginner's French II,Stephanie Tolman,14,70.64285714,11.04262471,87.0,50.0,0,1,2,0,2,1,4,0,3,1,0,,,
+UBCO,2016,W,FREN,102,,002,Beginner's French I,Stephanie Tolman,72,75.84722222,20.06304129,98.0,0.0,5,3,0,1,4,6,7,6,12,14,14,,,
+UBCO,2016,W,FREN,103,,102,Beginner's French II,Stephanie Tolman,64,72.40625,17.79220335,96.0,1.0,7,0,4,5,2,3,7,11,13,4,8,,,
+UBCO,2017,S,FREN,102,,001,Beginner's French I,Stephanie Tolman,32,84.78125,8.746370215,97.0,66.0,0,0,0,0,1,1,4,3,7,5,11,,,
+UBCO,2017,S,FREN,104,,001,Beginner's French III,Stephanie Tolman,21,73.380952381,20.879358684,100.0,0.0,1,1,0,0,4,2,4,0,3,2,4,,,
+UBCO,2017,W,FREN,102,,001,Beginner's French I,Stephanie Tolman,35,85.0,9.402753039,99.0,64.0,0,0,0,0,3,1,1,3,5,8,14,,,
+UBCO,2017,W,FREN,102,,002,Beginner's French I,Stephanie Tolman,34,78.441176471,16.098543462,99.0,30.0,1,4,0,1,1,1,3,4,5,4,10,,,
+UBCO,2017,W,FREN,102,,005,Beginner's French I,Stephanie Tolman,35,77.771428571,10.143342396,96.0,52.0,0,1,1,2,0,5,4,6,4,9,3,,,
+UBCO,2017,W,FREN,103,,101,Beginner's French II,Stephanie Tolman,35,79.771428571,11.264430521,99.0,54.0,0,1,0,2,2,4,4,3,6,6,7,,,
+UBCO,2017,W,FREN,104,,001,Beginner's French III,Stephanie Tolman,35,75.771428571,11.96584776,96.0,46.0,1,1,0,4,1,6,2,4,9,3,4,,,
+UBCO,2017,W,FREN,104,,102,Beginner's French III,Stephanie Tolman,35,75.571428571,13.835771443,96.0,33.0,1,1,2,1,6,1,2,5,6,3,7,,,
+UBCO,2017,W,FREN,104,,103,Beginner's French III,Stephanie Tolman,14,75.5,9.936335805,89.0,55.0,0,0,2,0,1,0,3,1,5,2,0,,,
+UBCO,2018,S,FREN,102,,001,Beginner's French I,Stephanie Tolman,32,81.34375,12.481235916,98.0,42.0,1,0,1,0,2,2,2,5,4,8,7,,,
+UBCO,2018,S,FREN,104,,001,Beginner's French III,Stephanie Tolman,31,77.580645161,12.51072658,95.0,53.0,0,1,2,1,4,3,2,4,1,7,6,,,
+UBCO,2018,W,FREN,102,,001,Beginner's French I,Stephanie Tolman,35,82.485714286,14.695680495,98.0,37.0,2,0,2,0,0,1,3,5,0,5,17,,,
+UBCO,2018,W,FREN,103,,002,Beginner's French II,Stephanie Tolman,31,76.967741935,12.565783888,98.0,52.0,0,2,1,1,2,3,6,3,4,2,7,,,
+UBCO,2018,W,FREN,104,,001,Beginner's French III,Stephanie Tolman,35,74.657142857,14.227030729,97.0,43.0,2,0,5,0,4,4,2,2,6,4,6,,,
+UBCO,2018,W,FREN,104,,101,Beginner's French III,Stephanie Tolman,34,72.411764706,16.274385241,91.0,17.0,2,0,1,3,3,5,2,5,5,7,1,,,
+UBCO,2018,W,FREN,104,,102,Beginner's French III,Stephanie Tolman,31,74.064516129,13.408791852,96.0,50.0,0,2,3,4,2,1,5,4,2,3,5,,,
+UBCO,2018,W,FREN,104,,103,Beginner's French III,Stephanie Tolman,26,75.846153846,16.05663055,99.0,34.0,1,1,1,3,2,2,2,2,4,0,8,,,
+UBCO,2019,S,FREN,104,,001,Beginner's French III,Stephanie Tolman,28,76.5,12.200485722,93.0,40.0,2,0,0,1,2,0,6,3,6,5,3,,,
+UBCO,2019,W,FREN,101,,001,Elementary French I,Stephanie Tolman,34,79.705882353,10.925448224,95.0,47.0,1,0,1,0,1,4,6,4,5,3,9,,,
+UBCO,2019,W,FREN,101,,004,Elementary French I,Alexandra Tonnel;Milka Beck;Stephanie Tolman,33,75.0,11.450982491,94.0,50.0,0,3,0,3,4,2,3,5,5,6,2,,,
+UBCO,2019,W,FREN,102,,001,Elementary French II,Stephanie Tolman,21,82.333333333,13.116147808,96.0,47.0,1,0,0,2,0,0,3,2,2,1,10,,,
+UBCO,2019,W,FREN,102,,003,Elementary French II,Stephanie Tolman,22,76.227272727,13.676297947,95.0,38.0,1,0,2,1,0,2,2,4,4,3,3,,,
+UBCO,2019,W,FREN,102,,005,Elementary French II,Stephanie Tolman,25,80.88,9.00148136,95.0,58.0,0,0,1,0,1,2,1,5,8,3,4,,,
+UBCO,2019,W,FREN,103,,001,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,31,77.935483871,14.435916976,97.0,44.0,2,1,1,1,2,1,2,2,8,5,6,,,
+UBCO,2019,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,27,78.962962963,12.620134954,93.0,51.0,0,2,2,0,2,0,2,3,6,4,6,,,
+UBCO,2019,W,FREN,103,,004,Upper Elementary French I,Stephanie Tolman,14,76.214285714,11.820312188,92.0,51.0,0,1,0,1,2,1,1,1,3,3,1,,,
+UBCO,2019,W,FREN,104,,001,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,33,80.787878788,11.160078337,96.0,53.0,0,1,0,0,4,3,5,0,6,5,9,,,
+UBCO,2019,W,FREN,104,,004,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,32,82.21875,13.037747616,99.0,46.0,2,0,0,2,0,0,3,3,5,5,12,,,
+UBCO,2019,W,FREN,104,,005,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,26,77.192307692,14.52176086,97.0,51.0,0,3,1,2,2,1,2,2,3,1,9,,,
+UBCO,2020,S,FREN,102,,001,Elementary French II,Stephanie Tolman,21,73.476190476,26.910256498,97.0,0.0,2,0,1,0,2,0,5,0,3,1,7,,,
+UBCO,2020,W,FREN,101,,001,Elementary French I,Stephanie Tolman,33,82.454545455,12.510223092,98.0,50.0,0,2,0,1,2,1,1,4,3,9,10,,,
+UBCO,2020,W,FREN,102,,001,Elementary French II,Charlotte Favareille;Stephanie Tolman,18,81.277777778,10.845468317,95.0,47.0,1,0,0,0,0,1,1,2,5,5,3,,,
+UBCO,2020,W,FREN,102,,002,Elementary French II,Jelena Jovicic;Stephanie Tolman,32,82.9375,12.833769717,98.0,41.0,1,1,0,1,0,1,3,2,5,7,11,,,
+UBCO,2020,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,26,74.076923077,15.011790238,94.0,20.0,1,0,2,0,4,3,1,5,5,3,2,,,
+UBCO,2020,W,FREN,103,,004,Upper Elementary French I,Stephanie Tolman,23,79.043478261,13.633108966,94.0,29.0,1,0,0,0,1,2,2,4,5,4,4,,,
+UBCO,2020,W,FREN,104,,004,Upper Elementary French II,Stephanie Tolman,32,80.15625,11.33680667,97.0,55.0,0,0,3,2,0,1,3,2,7,8,6,,,
+UBCO,2020,W,FREN,104,,005,Upper Elementary French II,Stephanie Tolman,22,79.863636364,10.593328784,97.0,56.0,0,0,2,0,0,2,3,2,6,3,4,,,
+UBCO,2021,S,FREN,102,,001,Elementary French II,Christopher Gordon;Stephanie Tolman,30,82.1,10.3034979,97.0,56.0,0,0,1,1,1,1,3,4,4,7,8,,,
+UBCO,2021,S,FREN,104,,001,Upper Elementary French II,Stephanie Tolman,32,79.5625,12.687147421,96.0,42.0,1,0,2,0,2,3,1,5,5,4,9,,,
+UBCO,2021,W,FREN,101,,001,Elementary French I,Stephanie Tolman,33,86.939393939,10.954278257,97.0,52.0,0,1,1,0,0,2,0,2,3,6,18,,,
+UBCO,2021,W,FREN,101,,005,Elementary French I,Christopher Gordon;Stephanie Tolman,32,88.59375,11.853567246,98.0,51.0,0,2,0,0,0,2,0,0,0,8,20,,,
+UBCO,2021,W,FREN,102,,001,Elementary French II,Stephanie Tolman,29,77.068965517,20.136908251,95.0,0.0,3,1,0,1,1,1,0,6,2,7,7,,,
+UBCO,2021,W,FREN,102,,002,Elementary French II,Jelena Jovicic;Stephanie Tolman,20,81.45,15.312447637,97.0,36.0,1,1,0,0,0,2,1,1,2,2,10,,,
+UBCO,2021,W,FREN,102,,003,Elementary French II,Jelena Jovicic;Stephanie Tolman,13,80.461538462,13.781723312,98.0,58.0,0,0,1,1,2,0,0,1,2,1,5,,,
+UBCO,2021,W,FREN,102,,004,Elementary French II,Ramine Adl;Stephanie Tolman,37,83.783783784,11.448277733,98.0,56.0,0,0,1,0,3,4,3,2,2,6,16,,,
+UBCO,2021,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,33,80.96969697,13.753374242,96.0,28.0,1,1,1,0,0,0,4,6,4,7,9,,,
+UBCO,2021,W,FREN,103,,004,Upper Elementary French I,Marianne Legault;Stephanie Tolman,20,81.95,9.046517213,92.0,64.0,0,0,0,0,2,1,2,1,4,6,4,,,
+UBCO,2021,W,FREN,104,,004,Upper Elementary French II,Stephanie Tolman,19,77.210526316,13.066407087,98.0,54.0,0,1,2,0,2,1,2,1,3,3,4,,,
+UBCO,2021,S,FREN,104,,001,Upper Elementary French II,Stephanie Tolman,32,79.6,,96.0,42.0,,,,,,,,,,,9,81.0,90.0,72.3
+UBCO,2021,W,FREN,101,,001,Elementary French I,Stephanie Tolman,33,86.9,,97.0,52.0,,,,,,,,,,6,18,90.0,93.0,84.0
+UBCO,2021,W,FREN,101,,005,Elementary French I,Stephanie Tolman,32,88.6,,98.0,51.0,,,,,,,,,,8,20,91.0,95.3,88.0
+UBCO,2021,W,FREN,102,,001,Elementary French II,Stephanie Tolman,29,77.1,,95.0,0.0,,,,,,,,6,,7,7,83.0,89.0,76.0
+UBCO,2021,W,FREN,102,,003,Elementary French II,Stephanie Tolman,13,80.5,,98.0,58.0,,,,,,,,,,,,84.0,90.0,67.0
+UBCO,2021,W,FREN,102,,004,Elementary French II,Stephanie Tolman,37,83.8,,98.0,56.0,,,,,,,,,,6,16,86.0,94.0,74.0
+UBCO,2021,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,33,81.0,,96.0,28.0,,,,,,,,6,,7,9,84.0,90.0,76.0
+UBCO,2021,W,FREN,104,,004,Upper Elementary French II,Stephanie Tolman,19,77.2,,98.0,54.0,,,,,,,,,,,,82.0,85.5,67.5
+UBCO,2022,W,FREN,101,,001,Elementary French I,Stephanie Tolman,32,78.2,,95.0,0.0,1,0,2,1,0,2,3,6,3,9,5,82.5,88.0,74.8
+UBCO,2022,W,FREN,101,,005,Elementary French I,Stephanie Tolman,24,81.6,,98.0,55.0,0,0,2,1,0,1,2,3,1,8,6,85.5,88.5,76.0
+UBCO,2022,W,FREN,102,,003,Elementary French II,Stephanie Tolman,22,85.0,,97.0,70.0,0,0,0,0,0,2,2,3,1,7,7,86.5,92.3,77.5
+UBCO,2022,W,FREN,102,,004,Elementary French II,Stephanie Tolman,14,79.4,,98.0,47.0,1,0,1,0,0,2,1,1,2,2,4,81.5,89.8,70.8
+UBCO,2022,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,18,79.8,,95.0,37.0,1,1,0,0,2,0,1,1,2,5,5,86.0,89.8,74.5
+UBCO,2022,W,FREN,104,,001,Upper Elementary French II,Stephanie Tolman,17,81.3,,97.0,62.0,0,0,0,2,1,1,2,0,2,4,5,86.0,90.0,75.0
+UBCO,2022,W,FREN,223,,001,French Language and Style II,Stephanie Tolman,19,86.3,,97.0,74.0,0,0,0,0,0,0,1,3,2,6,7,87.0,90.5,83.0
+UBCO,2023,W,FREN,101,,001,Elementary French I,Stephanie Tolman,29,85.24,,98.0,51.0,0,1,1,0,0,0,1,4,4,7,11,88.0,94.0,81.0
+UBCO,2023,W,FREN,102,,002,Elementary French II,Stephanie Tolman,27,83.04,,97.0,59.0,0,0,1,1,1,2,0,2,6,6,8,86.0,90.0,78.5
+UBCO,2023,W,FREN,102,,003,Elementary French II,Stephanie Tolman,16,83.94,,98.0,55.0,0,0,1,1,0,0,1,2,2,3,6,87.5,92.5,77.75
+UBCO,2023,W,FREN,103,,002,Upper Elementary French I,Stephanie Tolman,23,79.27,,95.0,18.0,1,0,0,0,1,3,3,1,1,8,4,85.5,89.0,72.25
+UBCO,2023,W,FREN,103,,003,Upper Elementary French I,Stephanie Tolman,28,79.36,,94.0,52.0,0,2,1,1,1,1,1,2,5,5,6,82.0,89.0,74.0
+UBCO,2023,W,FREN,122,,001,Intermediate French I,Stephanie Tolman,23,80.71,,96.0,58.0,0,0,3,2,0,0,0,2,4,3,7,84.0,90.0,78.0
+UBCO,2023,W,FREN,122,,002,Intermediate French I,Stephanie Tolman,23,75.14,,98.0,6.0,2,1,0,0,1,0,4,4,4,1,5,78.5,87.0,73.25
+UBCO,2023,W,FREN,123,,001,Intermediate French II,Stephanie Tolman,18,83.41,,96.0,60.0,0,0,0,2,1,0,1,1,2,3,7,87.0,93.0,78.0
+UBCO,2023,W,FREN,223,,001,French Language and Style II,Stephanie Tolman,11,85.91,,90.0,71.0,0,0,0,0,0,1,0,0,1,7,2,88.0,89.0,85.0

@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,49,82.244897959,6.303208879,98.0,68.0,0,0,0,0,0,1,7,6,16,14,5
+UBCV,2019,W,CPEN,431,,201,Design of Distributed Software Applications,Hassan Halawa;Kumseok Jung;Marjane Namavar,50,87.54,6.244050229,97.0,71.0,0,0,0,0,0,1,2,2,8,15,22
+UBCV,2020,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,44,82.431818182,7.586394576,97.0,63.0,0,0,0,1,1,2,3,5,15,9,8
+UBCV,2020,W,CPEN,431,,201,Design of Distributed Software Applications,Kumseok Jung;Marjane Namavar;Sathish Gopalakrishnan,55,83.545454545,5.255748817,93.0,68.0,0,0,0,0,0,2,2,6,16,26,3
+UBCV,2020,W,CPSC,317,,101,Internet Computing,Alan Wagner;Benjamin Walker;Donald Acton;George Chen;Jichun Wu;Ka Hay Bernard Chung;Ka Hay Chung;Marjane Namavar,189,75.613756614,9.903471408,96.0,16.0,1,3,3,8,20,15,34,23,44,27,11
+UBCV,2021,W,CPEN,502,,101,Architecture for Learning Systems,Marjane Namavar;Sarbjit Sarkaria;Yuan Gao,57,88.614035088,10.569082921,98.0,24.0,1,0,0,0,1,0,1,2,4,11,37

@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2019,W,ENGR,359,,101,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff,77,76.220779221,15.79358912,100.0,0.0,6,1,0,1,7,8,7,7,14,10,16
+UBCO,2019,W,ENGR,359,,201,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff,7,82.857142857,6.283008075,95.0,76.0,0,0,0,0,0,0,0,1,4,1,1
+UBCO,2019,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Logan Tarasoff,37,81.486486486,10.407320131,100.0,50.0,0,1,0,1,1,2,4,5,7,6,10
+UBCO,2020,W,ENGR,315,,201,Systems and Control,Aria Salari;Bara Emran;Kai Neubauer;Logan Tarasoff;Ram Dershan,119,77.033613445,12.351444555,100.0,38.0,2,3,4,7,14,5,10,11,28,19,16
+UBCO,2020,W,ENGR,315,,202,Systems and Control,Aria Salari;Dean Richert;Kai Neubauer;Logan Tarasoff;Ram Dershan,75,72.693333333,16.58799088,100.0,0.0,5,2,4,6,6,6,11,7,10,8,10
+UBCO,2020,W,ENGR,359,,101,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff;Richard Klukas;Ziad Abdelsamad,108,81.861111111,14.880494875,100.0,16.0,3,3,3,1,3,4,8,4,21,17,41
+UBCO,2020,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Logan Tarasoff;Ziad Abdelsamad,54,85.888888889,9.484180805,100.0,57.0,0,0,1,0,2,2,3,4,5,11,26
+UBCO,2020,W,ENGR,494,,201,Autonomous Vehicle Technology,Logan Tarasoff;Mehran Shirazi,47,91.234042553,5.824284864,98.0,71.0,0,0,0,0,0,1,1,1,2,6,36
+UBCO,2020,W,MANF,368,,001,Engineering Measurements and Instrumentation,Dean Richert;Logan Tarasoff,8,68.5,13.03840481,82.0,51.0,0,2,1,0,0,0,2,1,2,0,0
+UBCO,2021,W,ENGR,359,,101,Microcomputer Engineering,Logan Tarasoff;Richard Klukas,97,68.567010309,15.631770011,100.0,26.0,10,7,10,6,10,16,10,5,9,1,13
+UBCO,2021,W,MANF,368,,001,Engineering Measurements and Instrumentation,Dean Richert;Logan Tarasoff,8,79.0,8.734169353,88.0,65.0,0,0,0,0,1,1,0,1,2,3,0

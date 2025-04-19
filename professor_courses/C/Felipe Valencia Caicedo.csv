@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ECON,441,,002,PROCESS ECON DEV,"Valencia Caicedo, Felipe",45,73.6,19.89,98,0,41,2,1,0,1,2,0,0,0,0,2,0,3,3,2,6,4,6,6,4,7,,,
+UBC,2018,W,ECON,531,,001,HIST MOD EUROPE,"Valencia Caicedo, Felipe",9,92.75,6.14,100,85,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2018,W,ECON,441,,002,The Process of Economic Development,Felipe Valencia Caicedo;Gabriel Brown;Gabriel Moagi Brown,43,75.418604651,16.236690605,98.0,0.0,,,,,,,,,,,1,0,3,3,2,6,4,7,6,4,7,,,
+UBCV,2018,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo;Valencia Caicedo Felipe;Vitor Farinha Luz,8,92.75,6.135377506,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2019,W,ECON,350,,001,Public Finance Policy Topics,Felipe Valencia Caicedo;Wai-Ching Alfred Kong;Yingyi Liang,84,72.44047619,12.36040237,99.0,50.0,,,,,,,,,,,0,7,7,8,6,11,12,8,11,6,8,,,
+UBCV,2019,W,ECON,441,,002,The Process of Economic Development,Felipe Valencia Caicedo;German Antonio Vega Acuna;German Vega Acuna,36,79.972222222,10.140403235,94.0,59.0,,,,,,,,,,,0,0,1,3,3,1,1,6,8,7,6,,,
+UBCV,2019,W,ECON,490,,013,Seminar in Applied Economics,Austin Mcwhirter;Felipe Valencia Caicedo;Lanny Zrill,19,86.052631579,4.684177673,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,7,7,,,
+UBCV,2019,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo,13,92.538461538,2.5038432,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,11,,,
+UBCV,2020,W,ECON,441,,002,The Process of Economic Development,Felipe Valencia Caicedo;Vinicius Rodrigues Pecanha,31,84.0,22.045407685,100.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,2,6,5,16,,,
+UBCV,2020,W,ECON,490,,013,Seminar in Applied Economics,Felipe Valencia Caicedo;Pooya Rashidi Ravari,20,93.45,3.034451307,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,16,,,
+UBCV,2020,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo,13,94.384615385,7.686985338,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,12,,,
+UBCV,2021,W,ECON,441,,005,The Process of Economic Development,Felipe Valencia Caicedo;Yingyi Liang,54,75.648148148,12.539984965,94.0,35.0,,,,,,,,,,,1,1,2,5,5,7,6,5,6,9,7,,,
+UBCV,2021,W,ECON,490,,013,Seminar in Applied Economics,Federico Ricca;Felipe Valencia Caicedo,20,93.65,3.116593957,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,17,,,
+UBCV,2021,W,ECON,490,,016,Seminar in Applied Economics,Felipe Valencia Caicedo;Jamie Mccasland;Pierre-Loup Beauregard;Wai-Ching Alfred Kong,21,84.761904762,28.333557422,100.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,0,0,2,17,,,
+UBCV,2021,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo,14,95.357142857,4.271680319,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,13,,,
+UBCV,2021,W,ECON,441,,005,The Process of Economic Development,Felipe Valencia Caicedo,54,75.6,,94.0,35.0,,,,,,,,,,,,,,,,7,6,,6,9,7,76.5,86.0,67.3
+UBCV,2021,W,ECON,490,,013,Seminar in Applied Economics,Felipe Valencia Caicedo,20,93.7,,98.0,86.0,,,,,,,,,,,,,,,,,,,,,17,94.5,96.0,92.0
+UBCV,2021,W,ECON,490,,016,Seminar in Applied Economics,Felipe Valencia Caicedo,21,89.2,,100.0,0.0,,,,,,,,,,,,,,,,,,,,,18,93.0,95.0,92.0
+UBCV,2021,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo,14,95.4,,100.0,88.0,,,,,,,,,,,,,,,,,,,,,13,96.0,99.5,91.3
+UBCV,2023,W,ECON,392,A,001,Topics in Economics,Felipe Valencia Caicedo,22,91.3,,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,14,91.0,97.8,88.0
+UBCV,2023,W,ECON,490,,001,Seminar in Applied Economics,Felipe Valencia Caicedo,20,92.2,,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,15,93.0,94.0,90.5
+UBCV,2023,W,ECON,531,,001,Economic History I,Felipe Valencia Caicedo,6,94.0,,100.0,85.0,,,,,,,,,,,,,,,,,,,,,,95.0,100.0,90.0

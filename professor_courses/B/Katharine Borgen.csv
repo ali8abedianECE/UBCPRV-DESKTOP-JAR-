@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,MAED,314,A,301,C & I MATH SEC,"Borgen, Katharine",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,MAED,320,,401,C & I MATH ELEM,"Borgen, Katharine;Williams, Eric",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,MAED,373,,951,MATH GEOM & MSMT,"Borgen, Katharine",18,91.61,4.07,99,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13
+UBC,2009,S,MAED,440,,951,TPC T & L MATH,"Borgen, Katharine",36,92.31,2.49,97,87,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,31
+UBC,2010,S,EDCP,344,,951,MATH GEOM & MSMT,"Borgen, Katharine",20,92.05,2.89,97,85,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,19
+UBC,2010,S,EDCP,440,,951,TPC C & P MATH,"Borgen, Katharine",37,89.16,4.06,96,81,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,9,20
+UBC,2010,S,EPSE,423,,974,ASSESS CLS LEARN,"Borgen, Katharine;Gagne, Monique",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,480,A,221,E-PORTFOLIO,"Borgen, Katharine",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDCP,344,,951,MATH GEOM & MSMT,"Borgen, Katharine",21,93.7,2.52,97,89,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,17
+UBC,2011,S,EDCP,440,,951,TPC C & P MATH,"Borgen, Katharine",37,89.95,3.09,96,84,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,22
+UBC,2012,S,EDCP,344,,951,MATH GEOM & MSMT,"Borgen, Katharine",12,89.17,4.67,94,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,7

@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ECON,101,,VM1,PRNCPLS MICRECON,"Roberts, Cheryl",18,60.89,13.17,84,27,15,3,0,0,0,0,0,1,0,2,3,1,3,2,3,3,2,0,1,0,0
+UBC,2015,W,ECON,102,,008,PRINCPL MACRECON,"Roberts, Cheryl",90,79.72,11.49,99,46,87,1,1,0,0,0,0,0,0,1,1,3,3,2,5,5,8,6,22,18,15
+UBC,2015,W,ECON,102,,VM1,PRINCPL MACRECON,"Roberts, Cheryl",15,75.13,10.24,96,58,15,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,2,3,3,1,1
+UBC,2015,W,ECON,326,,004,MTDS EMPIRC RESR,"Roberts, Cheryl",52,69.12,14.64,94,27,47,4,1,0,0,0,0,1,1,2,4,1,6,4,8,7,3,5,5,4,4
+UBC,2015,W,VANT,148,,V93,VANT COL PROJECT,"Roberts, Cheryl",25,67.52,12.48,94,27,22,1,2,0,0,0,0,1,0,0,1,1,1,2,8,3,1,3,2,0,1
+UBC,2015,W,VANT,148,,V98,VANT COL PROJECT,"Roberts, Cheryl",23,71.23,9.63,87,50,22,0,1,0,0,0,0,0,0,0,0,1,2,2,2,3,6,1,4,1,0
+UBC,2016,S,ECON,101,,923,PRNCPLS MICRECON,"Roberts, Cheryl",92,74.22,15.2,97,36,84,7,0,0,0,0,0,0,3,4,7,4,7,1,3,12,10,10,10,15,12
+UBC,2016,S,ECON,102,,923,PRINCPL MACRECON,"Roberts, Cheryl",94,81.1,12.63,100,35,87,2,4,0,0,0,0,0,1,1,2,2,1,2,6,2,8,14,11,14,27
+UBC,2016,W,VANT,148,,V03,VANT COL PROJECT,"Roberts, Cheryl",22,63.3,15.29,83,31,18,2,2,0,0,0,0,0,2,0,2,3,3,1,1,2,2,4,2,0,0
+UBC,2016,W,VANT,148,,V05,VANT COL PROJECT,"Roberts, Cheryl",23,64.36,18.49,87,0,19,3,1,0,0,1,0,0,0,2,3,1,2,1,4,3,2,4,1,1,0
+UBC,2016,W,VANT,148,,VM1,VANT COL PROJECT,"Roberts, Cheryl",16,59.43,12.2,74,28,12,2,2,0,0,0,0,1,1,0,2,0,2,4,3,2,1,0,0,0,0
+UBC,2017,S,VANT,149,,V01,RESEARCH PROJECT,"Roberts, Cheryl",11,64.55,8.04,77,53,11,0,0,0,0,0,0,0,0,0,0,1,2,2,3,1,0,2,0,0,0
+UBC,2017,S,VANT,149,,V04,RESEARCH PROJECT,"Roberts, Cheryl",13,74.85,11,91,61,13,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,0,0,2,2
+UBC,2017,S,VANT,149,,V07,RESEARCH PROJECT,"Roberts, Cheryl",14,64.14,18.87,78,1,13,1,0,0,0,1,0,0,0,0,1,0,0,2,6,0,3,2,0,0,0
+UBC,2017,W,ECON,101,,VM1,PRNCPLS MICRECON,"Roberts, Cheryl",36,63.97,13.93,91,31,32,4,0,0,0,0,0,0,2,2,4,4,5,5,6,1,3,3,3,0,2
+UBC,2017,W,ECON,102,,008,PRINCPL MACRECON,"Roberts, Cheryl",95,72.46,14.09,97,30,89,4,2,0,0,0,0,0,1,3,4,5,7,10,11,9,6,9,11,7,14
+UBCV,2015,W,ECON,101,,VM1,Principles of Microeconomics,Cheryl Roberts,18,60.888888889,13.172560111,84.0,27.0,,,,,,,,,,,,,3,,,3,2,0,1,0,0
+UBCV,2015,W,ECON,102,,008,Principles of Macroeconomics,Cheryl Roberts,89,79.258426966,12.216352761,99.0,39.0,,,,,,,,,,,,,,,5,5,8,6,22,18,15
+UBCV,2015,W,ECON,102,,VM1,Principles of Macroeconomics,Cheryl Roberts,15,75.133333333,10.239047575,96.0,58.0,,,,,,,,,,,0,0,,,3,0,2,3,3,1,
+UBCV,2015,W,ECON,326,,004,Methods of Empirical Research in Economics,Cheryl Roberts,51,69.117647059,14.640556081,94.0,27.0,,,,,,,,,,,,,6,,8,7,,5,5,4,
+UBCV,2015,W,VANT,148,,V93,UBC Vantage College Projects,Cheryl Roberts,23,67.52173913,12.478598279,94.0,27.0,,,,,,,,,,,,,,,8,,,,,,
+UBCV,2015,W,VANT,148,,V98,UBC Vantage College Projects,Cheryl Roberts,22,71.227272727,9.630961076,87.0,50.0,,,,,,,,,,,0,,,,,,6,,,,0
+UBCV,2016,S,ECON,101,,923,Principles of Microeconomics,Cheryl Roberts;Zachary Glazier,92,74.08695652,15.17346743,97.0,36.0,,,,,,,,,,,7,4,7,2,3,12,10,10,10,15,12
+UBCV,2016,S,ECON,102,,923,Principles of Macroeconomics,Cheryl Roberts;Michal Staszewski,90,81.11111111,12.55678736,100.0,35.0,,,,,,,,,,,2,2,1,2,6,2,8,14,12,14,27
+UBCV,2016,W,ECON,101,,VM1,Principles of Microeconomics,Andrew Pratt;Cheryl Roberts;Wai-Ching Alfred Kong,29,63.96551724,13.49730862,86.0,39.0,,,,,,,,,,,3,4,5,4,2,2,2,1,4,2,0
+UBCV,2016,W,ECON,102,,008,Principles of Macroeconomics,Cheryl Roberts;Churn Ken Lee;Robert G Gateman;Robert Gateman,89,69.96629214,12.97414338,99.0,0.0,,,,,,,,,,,2,0,12,7,13,21,8,9,9,2,6
+UBCV,2016,W,ECON,102,,VM1,Principles of Macroeconomics,Andrew Pratt;Cheryl Roberts;Wai-Ching Alfred Kong,26,66.53846154,10.08853119,86.0,50.0,,,,,,,,,,,0,4,2,4,5,1,5,1,3,1,0
+UBCV,2016,W,VANT,148,,V03,UBC Vantage College Projects,Cheryl Roberts;Jaclyn Rea,20,63.3,15.29396166,83.0,31.0,,,,,,,,,,,2,3,3,1,1,2,2,4,2,0,0
+UBCV,2016,W,VANT,148,,V05,UBC Vantage College Projects,Cheryl Roberts;Mark Lam,22,64.36363636,18.48692061,87.0,0.0,,,,,,,,,,,3,1,2,1,4,3,2,4,1,1,0
+UBCV,2016,W,VANT,148,,VM1,UBC Vantage College Projects,Cheryl Roberts;Mark Lam,14,59.42857143,12.19529724,74.0,28.0,,,,,,,,,,,2,0,2,4,3,2,1,0,0,0,0
+UBCV,2017,S,ECON,101,,923,Principles of Microeconomics,Cheryl Roberts;Lanny Reuben Zrill;Lanny Zrill;Rui Jiang,96,70.15625,13.683126855,93.0,17.0,,,,,,,,,,,4,7,5,6,12,10,15,8,15,11,3
+UBCV,2017,S,VANT,149,,V01,Multi-disciplinary Research Project,Cheryl Roberts,11,64.545454545,8.041935543,77.0,53.0,,,,,,,,,,,0,1,2,2,3,1,0,2,0,0,0
+UBCV,2017,S,VANT,149,,V04,Multi-disciplinary Research Project,Cheryl Roberts,13,74.846153846,10.998834437,91.0,61.0,,,,,,,,,,,0,0,0,2,2,2,3,0,0,2,2
+UBCV,2017,S,VANT,149,,V07,Multi-disciplinary Research Project,Cheryl Roberts,14,64.142857143,18.867379839,78.0,1.0,,,,,,,,,,,1,0,0,2,6,0,3,2,0,0,0
+UBCV,2017,W,ECON,101,,VM1,Principles of Microeconomics,Cheryl Roberts;Jerald Chong;Jerald Kah Liang Chong,36,63.972222222,13.931436417,91.0,31.0,,,,,,,,,,,4,4,5,5,6,1,3,3,3,0,2
+UBCV,2017,W,ECON,102,,008,Principles of Macroeconomics,Cheryl Roberts;Siqi Yan,93,72.462365591,14.090205617,97.0,30.0,,,,,,,,,,,4,5,7,10,11,9,6,9,11,7,14
+UBCV,2017,W,ECON,102,,VM1,Principles of Macroeconomics,Cheryl Roberts;Jerald Chong;Robert G Gateman;Robert Gateman,35,60.428571429,12.257736367,96.0,35.0,,,,,,,,,,,6,5,6,7,2,3,4,0,0,1,1
+UBCV,2017,W,VANT,148,,V01,UBC Vantage College Projects,Cheryl Roberts;Hugh Knapp;Paulina Semenec,31,66.64516129,13.172062322,84.0,10.0,,,,,,,,,,,2,0,3,2,5,8,4,6,1,0,0
+UBCV,2017,W,VANT,148,,V02,UBC Vantage College Projects,Cheryl Roberts;Hugh Knapp;Paulina Semenec,28,68.392857143,10.166536559,81.0,28.0,,,,,,,,,,,1,0,0,6,5,3,8,3,2,0,0
+UBCV,2017,W,VANT,148,,V05,UBC Vantage College Projects,Cheryl Roberts;Hugh Knapp;Tomoyo Okuda;Tomoyo Otani,22,62.0,12.309500783,75.0,18.0,,,,,,,,,,,2,0,1,8,6,3,2,0,0,0,0
+UBCV,2017,W,VANT,148,,V06,UBC Vantage College Projects,Cheryl Roberts;Hugh Knapp;Tomoyo Okuda;Tomoyo Otani,23,62.434782609,11.073416517,73.0,31.0,,,,,,,,,,,2,2,2,3,4,7,3,0,0,0,0
+UBCV,2018,W,ECON,102,,005,Principles of Macroeconomics,Cheryl Roberts;Joon Ha Kim;Qiutong Huang;Wai-Ching Alfred Kong,240,68.158333333,15.222476134,95.0,0.0,,,,,,,,,,,17,19,21,22,26,31,26,24,22,20,12
+UBCV,2018,W,ECON,356,,005,Introduction to International Finance,Ali Adibnia;Cheryl Roberts;Geoffrey Newman,72,64.319444444,14.80752225,94.0,25.0,,,,,,,,,,,6,8,14,9,3,7,6,6,6,5,2

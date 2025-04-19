@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,LIBR,509,,001,RESDESC KNOWORG,"Bullard, Julia",43,87.05,6.89,100,62,43,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,4,18,15,,,
+UBC,2017,W,LIBR,509,,002,RESDESC KNOWORG,"Bullard, Julia",40,88.95,2.81,95,81,38,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,22,14,,,
+UBC,2017,W,LIBR,569,C,002,CUR ISS&TRND LIB,"Bullard, Julia",20,85.26,10.14,90,44,18,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,14,2,,,
+UBC,2018,W,LIBR,509,,001,RESDESC KNOWORG,"Bullard, Julia",44,81.81,4.46,92,71,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,23,8,2,,,
+UBC,2018,W,LIBR,509,,002,RESDESC KNOWORG,"Bullard, Julia",37,84.31,3.33,90,74,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,21,1,,,
+UBC,2018,W,LIBR,569,C,002,CUR ISS&TRND LIB,"Bullard, Julia",24,86.96,1.99,90,82,23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20,1,,,
+UBCV,2017,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Sarah Gilbert,43,87.046511628,6.886679649,100.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,4,4,18,15,,,
+UBCV,2017,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Sarah Gilbert,38,88.947368421,2.808744727,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,22,14,,,
+UBCV,2017,W,LIBR,569,C,002,Current Issues and Trends in Library Services and Information Science,Julia Bullard,19,85.263157895,10.142551209,90.0,44.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,14,2,,,
+UBCV,2018,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Nathaniel Joseph Payne;Nathaniel Payne,44,80.681818182,8.706513807,92.0,32.0,,,,,,,,,,,1,0,0,0,0,1,3,6,23,8,2,,,
+UBCV,2018,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Ted Lee;Ted Young Lee,36,84.305555556,3.327971879,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,12,21,1,,,
+UBCV,2018,W,LIBR,569,C,002,Current Issues and Trends in Library Services and Information Science,Julia Bullard,23,86.956521739,1.988106931,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,20,1,,,
+UBCV,2019,W,ARST,556,L,002,Topics in Archival Automation,Julia Bullard,7,86.285714286,2.563479778,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,1,,,
+UBCV,2019,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Rodrigo Dos Santos;Rodrigo Jose Dos Santos,42,83.928571429,12.66528356,93.0,8.0,,,,,,,,,,,1,0,0,0,0,1,0,1,11,22,6,,,
+UBCV,2019,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard;Rodrigo Dos Santos;Rodrigo Jose Dos Santos,41,82.926829268,4.74547281,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,5,19,14,1,,,
+UBCV,2019,W,LIBR,514,L,002,Topics in the Bibliographic Control of Information,Julia Bullard,20,86.75,3.209771266,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,12,4,,,
+UBCV,2019,W,LIBR,569,C,001,Current Issues and Trends in Library Services and Information Science,Julia Bullard,12,86.916666667,3.553700589,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,5,,,
+UBCV,2020,W,ARST,556,L,002,Topics in Archival Automation,Julia Bullard,6,84.333333333,6.250333324,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,2,1,,,
+UBCV,2020,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Brian Watson;Julia Bullard,48,81.666666667,12.490563814,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,4,26,16,1,,,
+UBCV,2020,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Brian Watson;Julia Bullard,40,82.525,4.019105016,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,10,12,16,0,,,
+UBCV,2020,W,LIBR,514,L,002,Topics in the Bibliographic Control of Information,Julia Bullard,21,85.476190476,4.895089862,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,13,2,,,
+UBCV,2020,W,LIBR,569,C,001,Current Issues and Trends in Library Services and Information Science,Julia Bullard,17,87.764705882,2.332632948,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,13,3,,,
+UBCV,2021,W,ARST,556,L,001,Topics in Archival Automation,Julia Bullard,12,83.416666667,3.146667309,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,4,0,,,
+UBCV,2021,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Brian Watson;Julia Bullard,44,81.136363636,10.560106829,90.0,20.0,,,,,,,,,,,1,0,0,1,0,0,0,7,25,9,1,,,
+UBCV,2021,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Brian Watson;Julia Bullard,50,82.92,4.548334524,90.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,7,18,21,1,,,
+UBCV,2021,W,LIBR,514,L,001,Topics in the Bibliographic Control of Information,Julia Bullard,15,84.533333333,3.700707783,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,6,0,,,
+UBCV,2021,W,LIBR,565,,002,Progressive and Radical Information Work,Julia Bullard,22,89.227272727,2.844071833,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,10,,,
+UBCV,2021,W,ARST,556,L,001,Topics in Archival Automation,Julia Bullard,12,83.4,,88.0,80.0,,,,,,,,,,,,,,,,,,,8,,,82.0,85.8,81.5
+UBCV,2021,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard,44,83.1,,90.0,79.0,,,,,,,,,,,,,,,,,,7,27,9,,83.0,84.0,81.0
+UBCV,2021,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard,50,82.9,,90.0,65.0,,,,,,,,,,,,,,,,,,7,18,21,,84.0,86.8,81.0
+UBCV,2021,W,LIBR,514,L,001,Topics in the Bibliographic Control of Information,Julia Bullard,15,84.5,,89.0,77.0,,,,,,,,,,,,,,,,,,,8,6,,84.0,88.0,82.0
+UBCV,2021,W,LIBR,565,,002,Progressive and Radical Information Work,Julia Bullard,23,89.1,,95.0,83.0,,,,,,,,,,,,,,,,,,,,12,10,89.0,90.5,88.0
+UBCV,2022,W,ARST,556,L,001,Topics in Archival Automation,Julia Bullard,18,78.1,,87.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,15,2,0,82.0,83.8,82.0
+UBCV,2022,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard,38,82.1,,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,12,16,10,0,81.5,85.3,79.0
+UBCV,2022,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard,42,83.7,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,5,17,17,1,83.0,87.0,81.3
+UBCV,2022,W,LIBR,514,L,001,Topics in the Bibliographic Control of Information,Julia Bullard,25,83.6,,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,9,9,2,84.0,87.0,81.0
+UBCV,2022,W,LIBR,565,,002,Progressive and Radical Information Work,Julia Bullard,17,87.6,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,6,88.0,90.0,87.0
+UBCV,2023,W,ARST,586,,002,Progressive and Radical Information Work,Julia Bullard,10,87.56,,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,1,87.0,89.0,86.0
+UBCV,2023,W,LIBR,509,,001,Foundations of Resource Description and Knowledge Organization,Julia Bullard,39,84.21,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,17,15,2,84.0,86.75,82.0
+UBCV,2023,W,LIBR,509,,002,Foundations of Resource Description and Knowledge Organization,Julia Bullard,34,84.18,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,14,14,2,84.0,87.0,82.0
+UBCV,2023,W,LIBR,565,,002,Progressive and Radical Information Work,Julia Bullard,12,88.33,,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,5,88.5,91.0,86.75

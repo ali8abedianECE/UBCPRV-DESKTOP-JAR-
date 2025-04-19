@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Hedieh Alipour;Manu Sasidharan Madhav;Peter Cripton;Roza Vaez Ghaemi;Septimiu Salcudean,112,83.071428571,5.304620263,96.0,67.0,0,0,0,0,1,1,6,18,32,45,9,,,
+UBCV,2021,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,Ali Bashashati Saghezchi;Arpan Grover;Dena Shahriari;Edwin D Moore;Jenna Usprech;John Elpis Lim;Manu Sasidharan Madhav;Mark Steven Cembrowski;Nico Werschler,105,74.314285714,6.513763956,90.0,57.0,0,0,2,2,8,22,33,18,13,5,2,,,
+UBCV,2021,W,BMEG,400,F,201,Topics in Biomedical Engineering,Hongyu Guo;Manu Sasidharan Madhav,36,84.111111111,11.476131199,98.0,55.0,0,0,1,2,2,1,2,4,2,5,17,,,
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Peter Cripton;Septimiu Salcudean;Manu Sasidharan Madhav;Roza Vaez Ghaemi,112,83.1,,96.0,67.0,,,,,,,6,18,32,45,9,84.0,86.0,80.0
+UBCV,2021,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,Ali Bashashati Saghezchi;Mark Steven Cembrowski;Edwin D Moore;Manu Sasidharan Madhav;Dena Shahriari;Jenna Usprech,105,74.3,,90.0,57.0,,,,,8,22,33,18,13,,,74.0,78.0,70.0
+UBCV,2021,W,BMEG,400,F,201,Topics in Biomedical Engineering,Manu Sasidharan Madhav,36,84.1,,98.0,55.0,,,,,,,,,,,17,88.0,92.0,77.8
+UBCV,2022,W,BMEG,101,,201,Introduction to Biomedical Engineering,Sharareh Bayat;Govindkrishna Kaigala;Zachary Laksman;Manu Sasidharan Madhav,93,81.1,,94.0,59.0,0,0,1,0,0,6,8,16,31,28,3,82.0,85.0,79.0
+UBCV,2022,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,Ali Bashashati Saghezchi;Mark Steven Cembrowski;Christina Hull;James Johnson;Janel Kopp;Edwin D Moore;Hakima Moukhles;Salma Osborne;Manu Sasidharan Madhav;Dena Shahriari;Jenna Usprech;A Wayne Vogl,113,73.3,,95.0,41.0,1,0,3,5,15,21,26,15,23,3,1,73.0,79.0,69.0
+UBCV,2022,W,BMEG,400,F,201,Topics in Biomedical Engineering,Manu Sasidharan Madhav,48,83.9,,99.0,53.0,0,1,1,0,2,2,2,5,9,10,16,85.0,92.3,78.0
+UBCV,2023,W,BMEG,101,,201,Introduction to Biomedical Engineering,Govindkrishna Kaigala;Zachary Laksman;Septimiu Salcudean;Manu Sasidharan Madhav,81,84.15,,93.0,67.0,0,0,0,0,1,1,5,6,24,31,13,86.0,88.0,81.0
+UBCV,2023,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,Ali Bashashati Saghezchi;Pawel Kudzia;Kenneth Liu;Edwin D Moore;Manu Sasidharan Madhav;Dena Shahriari,114,78.13,,95.0,52.0,0,1,3,2,6,10,13,25,30,16,7,79.0,83.0,74.0
+UBCV,2023,W,BMEG,425,,201,Biomedical Robotics,Manu Sasidharan Madhav,47,83.02,,95.0,66.0,0,0,0,0,1,1,6,7,6,12,10,85.0,88.5,77.0

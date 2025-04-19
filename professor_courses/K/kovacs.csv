@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,CLST,318,,001,CLASSICAL COMEDY,"Kovacs, George",57,68.04,12.02,84,16,53,2,2,0,0,0,1,0,1,0,2,3,3,5,6,15,8,5,8,0,0
+UBC,2011,W,GREK,301,,001,CLASSIC GK LIT,"Kovacs, George",5,82.8,6.69,90,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2011,W,GREK,502,D,001,GREEK VERSE,"Kovacs, George",5,82.25,3.3,86,78,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0

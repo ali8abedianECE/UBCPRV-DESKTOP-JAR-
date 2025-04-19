@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",55,68.92,8.37,92,53,53,0,0,0,2,0,0,0,0,0,0,1,2,13,8,7,9,6,5,1,1
+UBC,2002,W,GEOG,345,,101,GEOG THGT & PRAC,"Gregory, Derek John",39,71.18,8.96,87,51,38,0,1,0,0,0,0,0,0,0,0,1,3,2,6,7,5,5,7,2,0
+UBC,2003,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",49,68.98,8.77,85,50,46,0,1,0,2,0,0,0,0,0,0,2,6,5,3,9,7,8,5,1,0
+UBC,2003,W,GEOG,345,,101,GEOG THGT & PRAC,"Gregory, Derek John;Slaymaker, H Olav",35,72.73,8.13,94,61,33,0,1,0,1,0,0,0,0,0,0,0,0,3,6,8,6,3,4,1,2
+UBC,2003,W,GEOG,539,A,101,TOPS HUMAN GEOG,"Gregory, Derek John",4,89,1.41,90,88,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2005,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",50,69.19,8.57,87,50,48,0,2,0,0,0,0,0,0,0,0,2,5,5,6,13,4,6,5,2,0
+UBC,2005,W,GEOG,345,,101,GEOG THGT & PRAC,"Gregory, Derek John",39,71.62,8.8,95,55,37,0,2,0,0,0,0,0,0,0,0,0,2,3,8,7,6,2,6,2,1
+UBC,2006,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",70,68.71,8.13,90,48,65,1,0,0,4,0,0,0,0,1,1,0,7,12,6,18,10,4,4,3,1
+UBC,2006,W,GEOG,321,,201,HIST GEOG URBANZ,"Gregory, Derek John",70,67.82,10.15,93,39,62,5,0,0,3,0,0,0,1,4,5,1,3,11,8,10,12,9,7,0,1
+UBC,2006,W,GEOG,345,,201,GEOG THGT & PRAC,"Gregory, Derek John",73,72.33,9.45,95,50,70,0,2,0,1,0,0,0,0,0,0,2,6,3,8,14,5,11,15,4,2
+UBC,2006,W,GEOG,521,,101,"PHIL,SOCl TH&HUM","Gregory, Derek John",17,85.57,3.21,90,81,7,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1
+UBC,2007,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",70,69.11,10.19,90,39,58,3,5,0,4,0,0,0,1,2,3,1,3,6,11,11,7,5,12,1,1
+UBC,2007,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",73,72.11,10.25,93,38,68,2,1,0,2,0,0,0,1,1,2,1,2,6,5,12,16,7,13,2,4
+UBC,2009,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",69,71.79,9.08,90,45,67,1,1,0,0,0,0,0,0,1,1,1,3,4,9,17,8,7,11,5,2
+UBC,2009,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",72,69.98,12.52,90,0,63,2,4,0,3,1,0,0,0,1,2,1,1,6,15,11,8,7,9,3,2
+UBC,2009,W,GEOG,521,,201,"PHIL,SOCl TH&HUM","Gregory, Derek John",18,84.5,4.88,90,75,10,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,2
+UBC,2010,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",69,66.19,12.25,87,15,60,3,4,0,0,0,1,1,1,0,3,1,4,14,9,15,4,2,8,3,0
+UBC,2010,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",68,70.27,13.41,93,26,61,3,4,0,0,0,0,2,1,0,3,3,2,5,8,9,11,8,5,7,3
+UBC,2010,W,GEOG,440,,201,"PWR,KNW&HUM GEOG","Gregory, Derek John",17,79.56,7.56,92,66,16,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,3,5,1
+UBC,2011,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",69,69.4,12.87,88,30,59,6,2,0,2,0,0,0,2,4,6,3,2,5,5,10,10,7,13,4,0
+UBC,2011,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",67,72.53,12.24,94,31,61,3,2,0,1,0,0,0,3,0,3,2,0,4,8,9,7,6,19,5,1
+UBC,2011,W,GEOG,523,A,201,ADV SEM HUMN GEO,"Gregory, Derek John",13,87,4.44,94,81,8,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2
+UBC,2012,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",67,68.18,9.54,92,46,60,1,2,2,2,0,0,0,0,1,1,3,5,9,10,11,9,3,5,4,1
+UBC,2012,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",56,72.72,10.48,92,50,50,0,1,0,5,0,0,0,0,0,0,2,3,2,8,8,5,6,7,5,4
+UBC,2013,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",61,72.8,9.51,92,55,55,0,4,0,2,0,0,0,0,0,0,0,3,7,7,6,8,7,10,5,2
+UBC,2013,W,GEOG,521,,101,"PHIL,SOCl TH&HUM","Gregory, Derek John",10,84.5,2.68,88,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0
+UBC,2014,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",72,70.44,11.34,90,22,66,2,2,1,1,0,0,1,1,0,2,2,3,6,11,8,13,7,12,3,1
+UBC,2014,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",57,72.05,9.04,91,42,54,1,1,0,1,0,0,0,0,1,1,0,2,4,8,11,10,2,14,1,2
+UBC,2015,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",66,68.82,17.26,93,0,56,6,3,0,0,2,0,0,2,2,6,0,1,6,6,12,11,7,4,7,2
+UBC,2015,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",63,66.68,18.83,94,0,57,5,1,0,0,3,0,1,0,1,5,2,2,6,8,16,6,4,8,1,4
+UBC,2016,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",63,71.18,11.41,86,20,55,2,4,0,2,0,0,1,1,0,2,0,3,1,6,10,15,7,8,5,0
+UBC,2016,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",60,74.19,13.59,96,10,51,1,5,0,3,0,1,0,0,0,1,2,0,0,5,15,9,2,7,4,7
+UBC,2017,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",70,69.38,10.64,87,33,66,2,1,0,0,0,0,0,2,0,2,1,6,8,10,14,9,4,8,6,0
+UBC,2017,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",58,67.07,14.88,92,14,51,6,1,0,0,0,1,0,1,4,6,3,5,6,5,10,7,4,3,6,2
+UBC,2018,W,GEOG,321,,101,HIST GEOG URBANZ,"Gregory, Derek John",68,69.17,16.96,92,0,55,4,4,1,4,1,0,1,1,1,4,4,7,3,3,6,8,4,12,4,4
+UBC,2018,W,GEOG,345,,101,THRY&PRAC H GEOG,"Gregory, Derek John",59,69.62,17.44,96,0,49,4,4,0,2,1,0,0,2,1,4,3,4,4,6,9,4,4,2,6,7
+UBCV,2014,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory,69,69.42028986,14.08942636,90.0,0.0,,,,,,,,,,,,,,6,11,8,13,7,12,,
+UBCV,2014,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory,56,70.76785714,13.15086042,91.0,0.0,,,,,,,,,,,,,,,8,11,10,,14,,
+UBCV,2015,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Craig Andrew Jones;Craig Jones;Derek John Gregory,63,68.761904762,17.12827721,93.0,0.0,,,,,,,,,,,6,,,6,7,12,11,7,,7,
+UBCV,2015,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory;Elliott Callan Child;Elliott Child,62,66.677419355,18.826014608,94.0,0.0,,,,,,,,,,,5,,,6,8,16,6,,8,,
+UBCV,2016,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;Jeffrey O'Connor Whyte;Jeffrey Whyte,59,68.76271186,17.15782619,86.0,0.0,,,,,,,,,,,4,0,3,1,6,10,15,7,8,5,0
+UBCV,2016,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory;Elliott Callan Child;Elliott Child,55,71.43636364,18.00387164,96.0,0.0,,,,,,,,,,,4,2,0,0,5,15,9,2,7,4,7
+UBCV,2017,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory,69,69.376811594,10.559497327,87.0,33.0,,,,,,,,,,,2,1,6,8,10,15,9,4,8,6,0
+UBCV,2017,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory,57,67.824561404,14.780685765,92.0,14.0,,,,,,,,,,,5,3,5,6,5,10,7,4,3,7,2
+UBCV,2018,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;Elliott Callan Child;Elliott Child,62,68.274193548,18.246193724,92.0,0.0,,,,,,,,,,,5,4,7,4,3,6,8,4,13,4,4
+UBCV,2018,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory;Elliott Callan Child;Elliott Child,55,69.709090909,17.122297275,96.0,0.0,,,,,,,,,,,4,3,4,4,6,10,5,4,2,6,7
+UBCV,2019,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;Elliott Child,51,68.784313725,13.575439183,94.0,0.0,,,,,,,,,,,3,0,4,7,5,7,12,5,4,3,1
+UBCV,2019,W,GEOG,345,,101,Theory and Practice in Human Geography,Derek John Gregory;Elliott Child,55,71.418181818,9.304898967,90.0,52.0,,,,,,,,,,,0,2,3,6,5,12,14,2,4,6,1
+UBCV,2020,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;James Rhatigan;James Thomas Rhatigan,54,69.444444444,16.339172362,90.0,0.0,,,,,,,,,,,5,3,3,2,2,5,12,8,10,3,1
+UBCV,2020,W,GEOG,345,,101,Theory and Practice in Human Geography,Andrew Shmuely;Derek John Gregory,56,70.946428571,12.458541638,92.0,29.0,,,,,,,,,,,3,1,0,7,8,9,6,9,5,7,1
+UBCV,2021,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;Max Cohen;Wesley Attewell;Wesley Llewellyn Attewell,48,80.875,5.952381966,92.0,67.0,,,,,,,,,,,0,0,0,0,2,1,6,9,15,11,4

@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,EPSE,534,,075,ACAD ASSESS SCHL,"Weber, Rachel",8,87.25,3.62,93,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2
+UBC,2013,W,EPSE,568,,075,DEV NEUROPSYCH,"Weber, Rachel",6,95.17,4.07,99,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2014,W,EPSE,534,,075,ACAD ASSESS SCHL,"Weber, Rachel",11,93.64,2.01,96,90,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2014,W,EPSE,535,,074,SOCL&EMTL ASSESS,"Weber, Rachel",13,92.85,4.79,99,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11
+UBC,2014,W,EPSE,568,,075,DEV NEUROPSYCH,"Weber, Rachel",7,93.71,2.14,97,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2015,S,EPSE,535,,951,SOCL&EMTL ASSESS,"Weber, Rachel",9,96.25,2.12,99,93,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2015,W,EPSE,534,,075,ACAD ASSESS SCHL,"Weber, Rachel",13,91.31,4.55,95,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,10
+UBC,2015,W,EPSE,568,,075,DEV NEUROPSYCH,"Weber, Rachel",9,94.13,4.12,98,85,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2016,W,EPSE,534,,075,ACAD ASSESS SCHL,"Weber, Rachel",14,92,3.01,96,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10
+UBC,2016,W,EPSE,535,,075,SOCL&EMTL ASSESS,"Weber, Rachel",11,95.55,2.34,98,91,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2016,W,EPSE,568,,075,DEV NEUROPSYCH,"Weber, Rachel",7,96.14,0.9,97,95,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2017,W,EPSE,534,,075,ACAD ASSESS SCHL,"Weber, Rachel",7,91,2.31,94,87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2017,W,EPSE,535,,075,SOCL&EMTL ASSESS,"Weber, Rachel",5,95,1.87,97,92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2017,W,EPSE,568,,075,DEV NEUROPSYCH,"Weber, Rachel",10,94.5,2.84,98,88,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+UBC,2017,W,EPSE,687,A,075,SCH CNS PSY PRAC,"Weber, Rachel",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EPSE,421,,074,ASSESS LRN DIFFI,"Weber, Rachel",14,94.92,3.55,98,87,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11
+UBC,2018,W,EPSE,565,B,075,SP CRSE: SUBJ FL,"Weber, Rachel",8,95,0,95,95,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2014,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,11,93.63636364,2.01359019,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2014,W,EPSE,535,,074,Social and Emotional Assessment in Schools,Rachel Weber,13,92.84615385,4.793157516,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,11
+UBCV,2014,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,7,93.71428571,2.138089935,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2015,S,EPSE,535,,951,Social and Emotional Assessment in Schools,Rachel Weber,8,96.25,2.121320344,99.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,13,91.307692308,4.553105449,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,10
+UBCV,2015,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,8,94.125,4.12093956,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7
+UBCV,2016,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,14,92.0,3.012793235,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10
+UBCV,2016,W,EPSE,535,,075,Social and Emotional Assessment in Schools,Rachel Weber,11,95.54545455,2.339386089,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2016,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,7,96.14285714,0.899735411,97.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2017,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,7,91.0,2.309401077,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2017,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,10,94.5,2.838231061,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9
+UBCV,2018,W,EPSE,421,,074,Assessment of Learning Difficulties,Rachel Weber,13,94.923076923,3.546395787,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,11
+UBCV,2018,W,EPSE,565,B,075,Special Course in Subject Matter Field,Rachel Weber,8,95.0,0.0,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2019,W,EPSE,421,,074,Assessment of Learning Difficulties,Erika Thauberger;Rachel Weber,17,89.823529412,4.433329648,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,12
+UBCV,2019,W,EPSE,507,,074,Applied Child and Adolescent Psychopathology,Rachel Weber,9,94.0,3.240370349,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8
+UBCV,2019,W,EPSE,555,,074,Academic and Social-Emotional Assessment,Rachel Weber,7,88.857142857,5.429197959,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,5
+UBCV,2019,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,18,93.888888889,1.967048816,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2020,W,EPSE,535,,074,Social and Emotional Assessment,Rachel Weber;Serge Lacroix,8,89.125,0.991031209,90.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,4

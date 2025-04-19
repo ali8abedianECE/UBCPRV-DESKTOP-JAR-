@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,CLST,212,,002,GREEK PHIL II,"Brooks, Ian",22,66.95,12.4,81,22,18,1,3,0,0,0,0,1,0,0,1,0,1,4,1,5,4,2,1,0,0
+UBC,2010,W,PHIL,212,A,001,GREEK PHIL II,"Brooks, Ian",32,68.97,15.19,87,0,28,1,3,0,0,1,0,0,0,0,1,0,1,6,1,5,5,8,1,1,0
+UBC,2014,W,PHIL,433,A,001,BIOMEDICAL ETHIC,"Brooks, Ian",64,74.55,5.81,89,62,58,0,1,0,1,0,0,0,0,0,0,0,0,4,3,8,14,18,10,1,0
+UBC,2014,W,PHIL,433,A,003,BIOMEDICAL ETHIC,"Brooks, Ian",60,70.85,7.51,89,46,53,2,1,0,0,0,0,0,0,2,2,0,2,2,6,13,17,10,2,1,0
+UBCV,2014,W,PHIL,433,A,001,Bio-Medical Ethics,Abolfazl Nuri;Ian Brooks,63,73.03174603,10.97793719,89.0,0.0,,,,,,,,,,,,,,,5,9,15,18,10,,0
+UBCV,2014,W,PHIL,433,A,003,Bio-Medical Ethics,Ian Brooks,59,70.88135593,7.256589742,89.0,46.0,,,,,,,,,,,,,,,6,15,19,10,2,,0

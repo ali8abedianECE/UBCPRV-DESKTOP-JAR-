@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,COLX,521,,001,Corpus Linguistics,Julian Brooke;Yu-Hsiang Lo,27,87.37037037,6.391991071,98.0,72.0,0,0,0,0,0,0,2,0,5,10,10
+UBCV,2019,W,COLX,525,,001,Computational Morphology,Laura Patterson;Miikka Pietari Silfverberg;Miikka Silfverberg;Muhammad Abdul-Mageed;Yu-Hsiang Lo,26,89.807692308,8.569803875,96.0,50.0,0,,,,,,,,,6,19
+UBCV,2019,W,COLX,535,,001,Parsing for Computational Linguistics,Julian Brooke;Muhammad Abdul-Mageed;Yu-Hsiang Lo,26,86.192307692,8.148713915,96.0,56.0,0,0,,,,,1,1,4,10,9
+UBCV,2019,W,COLX,561,,001,Computational Semantics,Julian Brooke;Laura Patterson;Muhammad Abdul-Mageed;Yu-Hsiang Lo,25,84.88,6.267109913,94.0,66.0,0,0,0,0,1,0,0,3,6,9,6
+UBCV,2019,W,COLX,565,,001,Sentiment Analysis,Julian Brooke;Yadong Liu;Yu-Hsiang Lo,25,88.72,4.78295585,98.0,78.0,0,0,0,0,0,0,0,1,4,10,10
+UBCV,2019,W,DSCI,512,,002,Algorithms and Data Structures,Julian Brooke;Yu-Hsiang Lo,27,86.925925926,5.158457774,96.0,77.0,0,0,0,0,0,0,0,2,8,7,10
+UBCV,2021,W,COLX,535,,001,Parsing for Computational Linguistics,Garrett Nicolai;Jungyeul Park;Miikka Pietari Silfverberg;Yu-Hsiang Lo;Yundong Yao,34,92.323529412,3.417606714,98.0,82.0,0,0,0,0,0,0,0,0,1,5,28
+UBCV,2021,W,COLX,563,,001,Advanced Computational Semantics,Julian Brooke;Jungyeul Park;Miikka Pietari Silfverberg;Shi Qiu;Yu-Hsiang Lo,35,92.257142857,4.779508079,97.0,72.0,0,0,0,0,0,0,1,0,1,2,31
+UBCV,2021,W,DSCI,563,,002,Unsupervised Learning,Julian Brooke;Jungyeul Park;Miikka Pietari Silfverberg;Shi Qiu;Yu-Hsiang Lo,34,92.970588235,4.358796707,99.0,77.0,0,0,0,0,0,0,0,1,1,4,28

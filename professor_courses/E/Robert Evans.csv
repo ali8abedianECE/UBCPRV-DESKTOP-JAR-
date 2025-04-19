@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MECH,270,,102,THERMODYN - ENGY,"Evans, Robert",65,64.57,12.65,91,33,57,8,0,0,0,0,0,0,1,7,8,4,10,8,7,6,7,8,4,2,1
+UBC,2002,W,MECH,578,,201,INTRL CMBSTN ENG,"Evans, Robert",9,80.17,5.56,84,69,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0
+UBC,2003,W,MECH,375,,101,HEAT TRANSFER I,"Evans, Robert",128,72.85,10.64,95,23,125,1,2,0,0,0,0,1,0,0,1,4,8,7,18,16,19,14,21,16,2
+UBC,2003,W,MECH,473,,101,HEAT VENT AIR CO,"Evans, Robert",45,69.11,10.11,86,43,43,1,1,0,0,0,0,0,0,1,1,4,5,0,4,7,13,4,4,2,0
+UBC,2005,W,MECH,375,,201,HEAT TRANSFER I,"Evans, Robert",87,71.16,15.76,96,5,84,3,0,0,0,1,0,0,2,0,3,8,7,8,6,11,9,12,6,6,11
+UBC,2006,W,MECH,375,,201,HEAT TRANSFER I,"Evans, Robert",81,67.38,12.5,94,24,76,3,1,0,1,0,0,1,2,0,3,4,11,14,8,14,6,4,8,3,4
+UBC,2006,W,MECH,489,,201,EXP THERMOFLUIDS,"Evans, Robert",7,79.71,5.25,90,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,1
+UBC,2006,W,MECH,582,,201,EXP FLUID MECH,"Evans, Robert",9,77.67,9.06,89,64,9,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,1,3,0
+UBC,2007,W,MECH,375,,101,HEAT TRANSFER I,"Evans, Robert",85,73.23,16.26,99,6,83,1,0,0,1,1,0,0,0,0,1,8,7,10,9,7,2,7,7,9,17
+UBC,2007,W,MECH,489,,201,EXP THERMOFLUIDS,"Evans, Robert",20,78.75,5.26,85,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,6,3,0
+UBC,2010,W,MECH,410,N,201,SPECIAL TOPICS,"Evans, Robert",16,70.47,7.31,85,58,15,0,1,0,0,0,0,0,0,0,0,0,1,1,2,6,2,0,2,1,0
+UBC,2010,W,MECH,578,,201,INTRL CMBSTN ENG,"Evans, Robert",7,78.5,5.54,83,68,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,0
+UBC,2011,W,MECH,222,,201,ENGIN SCIENCE II,"Evans, Robert;Ollivier-Gooch, Carl;Ostafichuk, Peter",151,70.79,13.04,100,37,138,12,0,0,1,0,0,0,2,10,12,4,12,9,15,23,18,14,23,10,10
+UBC,2011,W,MECH,410,N,201,SPECIAL TOPICS,"Evans, Robert",22,69.27,17.19,90,0,21,1,0,0,0,1,0,0,0,0,1,0,1,1,5,2,6,2,3,0,1
+UBC,2012,W,MECH,222,,201,ENGIN SCIENCE II,"Bushe, William Kendal;Evans, Robert;Ollivier-Gooch, Carl",131,69.32,12.71,100,35,117,14,0,0,0,0,0,0,2,12,14,1,6,11,19,23,22,11,9,5,10
+UBCV,2015,W,CPEN,211,,101,Introduction to Microcomputers,Ahmed Eltantawy;Ahmed Mustafa;Amin Ghasemazar;Arun Kumar Marria;Ayman Mostafa;Ayub Gubran;Harshdeep Brar;Jeffrey Allen Robert Coukell;Kahlan Gibson;Robert David Evans;Robert Evans;Seyed Mehran Pesteie;Shadi Assadikhomami;Tayler Hetherington;Tor Aamodt;Xiaowei Ren,273,72.879120879,15.133597579,100.0,14.0,,,,,,,,,,,14,14,13,16,33,23,29,28,37,36,30
+UBCV,2015,W,ELEC,291,,20E,Electrical and Computer Engineering Design Studio,Francisco Paz;Jeanie Hakansson Malone;Jeanie Malone;Jesus Calvino-Fraga;Manyou Ma;Reuben Levi Paul;Reuben Paul;Robert David Evans;Robert Evans,110,85.345454545,6.586664821,97.0,63.0,,,,,,,,,,,0,0,0,,,,6,11,26,25,39
+UBCV,2017,W,CPEN,211,,101,Introduction to Microcomputers,Amruth Sandhupatla;Hooman Vaseli;Hossein Omidian Savarbaghi;James Asefa;Kahlan Gibson;Lazar Atanackovic;Lufei Liu;Md Aamir Raihan;Mehdi Karimibiuki;Min Gyo Kim;Mohab Hassan;Negar Goli;Ramy Hussein;Robert Evans;Scott Peverelle;Seyed Arash Sheikholeslam;Te Zhao;Tor Aamodt;Xiaotong Xi;Yunpeng Liu;Zachary Fu,290,67.348275862,15.705532507,100.0,5.0,,,,,,,,,,,30,19,31,21,34,33,37,27,21,17,20
+UBCV,2017,W,ELEC,291,,201,Electrical Engineering Design Studio I,Janelle Somerville;Jesus Calvino-Fraga;Matthew Winship;Min Ai;Mustafa Hammood;Robert Evans;Vani Sahni;Zhonghua Zhou;Ziyu Wang,125,86.384,5.737235481,100.0,67.0,,,,,,,,,,,0,0,0,0,1,0,2,5,39,43,35
+UBCV,2017,W,ELEC,292,,201,Biomedical Engineering Design Studio,Janelle Somerville;Jesus Calvino-Fraga;Matthew Winship;Min Ai;Robert Evans;Vani Sahni;Zhonghua Zhou;Ziyu Wang,22,87.181818182,4.403855061,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,4,10
+UBCV,2018,W,ELEC,291,,201,Electrical Engineering Design Studio I,Candice Loo;Jessica Hua;Jesus Calvino-Fraga;Mohammadhossein Olyaiy;Mustafa Hammood;Robert Evans;Vani Sahni;Ziyu Wang,126,84.73015873,7.111019841,100.0,56.0,,,,,,,,,,,0,0,2,0,2,2,5,10,25,52,28
+UBCV,2018,W,ELEC,292,,201,Biomedical Engineering Design Studio,Candice Loo;Jessica Hua;Jesus Calvino-Fraga;Mohammadhossein Olyaiy;Mustafa Hammood;Robert Evans;Vani Sahni;Ziyu Wang,12,91.5,2.153221688,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10

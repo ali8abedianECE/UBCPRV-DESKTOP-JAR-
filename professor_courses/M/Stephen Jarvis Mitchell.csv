@@ -1,0 +1,77 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,FRST,305,,101,SILVICULTURE 1,"Mitchell, Stephen Jarvis",33,77.06,6.29,88,62,33,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8,7,9,3,0
+UBC,2002,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",38,90.46,3.69,95,81,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,26
+UBC,2003,W,FRST,305,,101,SILVICULTURE 1,"Mitchell, Stephen Jarvis",37,71.18,14.26,85,0,32,1,0,1,3,1,0,0,0,0,1,1,0,1,2,8,9,5,5,1,0
+UBC,2003,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",36,86.67,4.32,94,75,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,15,11
+UBC,2003,W,FRST,352,,101,FIELD STUDIES,"Mitchell, Stephen Jarvis",20,79.3,6.97,89,59,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,7,6,0
+UBC,2005,W,FRST,305,,101,SILVICULTURE 1,"Mitchell, Stephen Jarvis",28,74.57,5.31,84,66,28,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,7,5,7,0,0
+UBC,2005,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",29,83.86,4.34,92,68,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,15,11,1
+UBC,2006,W,FRST,305,,101,SILVICULTURE 1,"Mitchell, Stephen Jarvis",27,73.93,14.02,90,16,26,1,0,0,0,0,1,0,0,0,1,0,1,0,1,5,6,4,5,3,1
+UBC,2006,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",44,85.98,7.08,97,52,44,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,13,11,16
+UBC,2007,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",32,75.47,6.25,87,63,32,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,8,7,3,4,0
+UBC,2007,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",31,83.32,5.54,94,74,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,15,2,6
+UBC,2007,W,FRST,449,F,201,DIRECTED STUDIES,"Mitchell, Stephen Jarvis",6,81.33,9.5,86,62,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,0
+UBC,2009,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",46,74.89,9.05,89,43,45,1,0,0,0,0,0,0,0,1,1,0,0,6,1,6,9,6,12,5,0
+UBC,2009,W,FRST,320,,101,ABIOTIC DISTURBN,"Blackwell, Bruce;Mitchell, Stephen Jarvis",33,75.3,11.44,89,40,31,2,0,0,0,0,0,0,0,2,2,0,0,1,4,3,3,5,10,5,0
+UBC,2009,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",55,81.67,4.1,90,65,54,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,8,32,10,1
+UBC,2010,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",41,78.79,6.67,91,65,39,0,1,0,1,0,0,0,0,0,0,0,0,0,3,2,7,9,10,6,2
+UBC,2010,W,FRST,320,,101,ABIOTIC DISTURBN,"Blackwell, Bruce;Mitchell, Stephen Jarvis",41,80.39,7.16,92,62,41,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3,7,10,11,3
+UBC,2010,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",43,81,4.25,94,71,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,17,14,9,1
+UBC,2011,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",34,78.82,6.03,89,65,33,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,4,9,10,6,0
+UBC,2011,W,FRST,320,,101,ABIOTIC DISTURBN,"Blackwell, Bruce;Mitchell, Stephen Jarvis",35,76.39,7.31,91,63,33,0,1,1,0,0,0,0,0,0,0,0,0,1,3,5,6,8,4,4,2
+UBC,2011,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",38,87.95,2.4,92,83,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,24,10
+UBC,2012,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",54,77.43,9.35,92,44,53,1,0,0,0,0,0,0,0,1,1,0,0,3,3,8,8,7,8,12,4
+UBC,2012,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",61,87.7,2.87,94,81,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,33,17
+UBC,2012,W,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",14,88.86,6.24,96,71,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,7
+UBC,2012,W,FRST,557,,101,STE-LVL LND MGMT,"Mitchell, Stephen Jarvis",14,87.5,3.59,92,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,4
+UBC,2013,S,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",14,91.5,5.49,96,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,11
+UBC,2013,W,FRST,305,,101,SILVICULTURE 1,"Larson, Bruce;Mitchell, Stephen Jarvis",47,76.43,6.61,87,63,46,0,1,0,0,0,0,0,0,0,0,0,0,1,5,7,4,12,12,5,0
+UBC,2013,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",66,87.74,2.91,95,82,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,38,19
+UBC,2013,W,FRST,557,,101,STE-LVL LND MGMT,"Bendickson, Dennis;Carroll, Allan;Mitchell, Stephen Jarvis",14,84.64,4.22,89,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,0
+UBC,2014,S,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",20,89.8,3.29,95,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,12
+UBC,2014,W,FRST,305,,101,SILVICULTURE,"Larson, Bruce;Mitchell, Stephen Jarvis",54,75.85,7.52,89,61,54,0,0,0,0,0,0,0,0,0,0,0,0,3,5,11,8,7,11,9,0
+UBC,2014,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",53,91.17,2.81,98,86,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,35
+UBC,2014,W,FRST,557,,101,STE-LVL LND MGMT,"Bendickson, Dennis;Carroll, Allan;Mitchell, Stephen Jarvis",20,86.8,3.22,92,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14,3
+UBC,2014,W,FRST,558,,201,LANDSCP LND MGMT,"De Long, Deborah;Griess, Verena;Marshall, Peter;Mitchell, Stephen Jarvis",20,83.25,5.15,91,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,7,3
+UBC,2015,S,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",16,91.69,1.54,94,89,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+UBC,2015,W,FRST,305,,101,SILVICULTURE,"Larson, Bruce;Mitchell, Stephen Jarvis",57,76.81,8.06,91,53,57,0,0,0,0,0,0,0,0,0,0,1,0,6,2,4,3,15,19,6,1
+UBC,2015,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",67,90.6,2.98,96,85,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,41
+UBC,2015,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;De Long, Deborah;Hamelin, Richard;Larson, Bruce;Lyons, Charles;Mitchell, Stephen Jarvis",16,84.53,3.7,89,75,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,8,0
+UBC,2015,W,FRST,558,,201,LANDSCP LND MGMT,"De Long, Deborah;Griess, Verena;Marshall, Peter;Mitchell, Stephen Jarvis",15,85.73,3.77,90,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,9,1
+UBC,2016,S,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",20,92.3,2.58,96,89,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,17
+UBC,2016,W,FRST,305,,101,SILVICULTURE,"Larson, Bruce;Mitchell, Stephen Jarvis",71,77.2,8.59,93,46,70,1,0,0,0,0,0,0,0,1,1,0,0,1,8,8,14,6,18,11,4
+UBC,2016,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",68,85.6,4.26,95,78,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,24,23,15
+UBC,2016,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;De Long, Deborah;Hamelin, Richard;Larson, Bruce;Lyons, Charles;Mitchell, Stephen Jarvis",20,83.8,2.73,89,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,7,0
+UBC,2016,W,FRST,558,,201,LANDSCP LND MGMT,"Bull, Gary;De Long, Deborah;Griess, Verena;Mitchell, Stephen Jarvis",20,85.25,1.48,88,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,0
+UBC,2017,S,FRST,555,,101,SUST LAND MGMT,"De Long, Deborah;Mitchell, Stephen Jarvis",25,90.36,3.4,94,81,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,18
+UBC,2017,W,FRST,305,,101,SILVICULTURE,"Mitchell, Stephen Jarvis;POLINKO, ADAM DAVID",94,79.04,8.1,93,62,94,0,0,0,0,0,0,0,0,0,0,0,0,1,9,13,7,14,22,21,7
+UBC,2017,W,FRST,351,,101,INT FIELD SCHOOL,"Mitchell, Stephen Jarvis",66,87.94,4.27,95,78,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,28,24
+UBC,2017,W,FRST,507,C,201,TPS FRST SCIENCE,"Mitchell, Stephen Jarvis",13,88,2.76,93,84,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4
+UBC,2017,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;Hamelin, Richard;Lyons, Charles;Mitchell, Stephen Jarvis;POLINKO, ADAM DAVID",25,84.12,3.7,89,73,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,11,0
+UBC,2017,W,FRST,558,,201,LANDSCP LND MGMT,"Griess, Verena;Mitchell, Stephen Jarvis",25,88.2,1.55,91,85,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,4
+UBCV,2014,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,20,89.8,3.286335345,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,12
+UBCV,2014,W,FRST,305,,101,Silviculture,Bruce Larson;Stephen Jarvis Mitchell,54,75.85185185,7.524569586,89.0,61.0,,,,,,,,,,,0,0,0,3,5,11,8,7,11,9,0
+UBCV,2014,W,FRST,351,,101,Interior Field School,Stephen Jarvis Mitchell,52,91.17307692,2.81258484,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,17,35
+UBCV,2014,W,FRST,557,,101,Site-Level Forest Land Management,Allan Carroll;Dennis Bendickson;Stephen Jarvis Mitchell,20,86.8,3.221637374,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,14,
+UBCV,2014,W,FRST,558,,201,Landscape-Level Forest Land Management,Deborah De Long;Peter Marshall;Stephen Jarvis Mitchell;Verena Griess,20,83.25,5.14909292,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,5,7,
+UBCV,2015,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,16,91.6875,1.537042615,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,15
+UBCV,2015,W,FRST,305,,101,Silviculture,Bruce Larson;Stephen Jarvis Mitchell,57,76.807017544,8.06322914,91.0,53.0,,,,,,,,,,,0,,,6,,,,15,19,6,
+UBCV,2015,W,FRST,351,,101,Interior Field School,Stephen Jarvis Mitchell,67,90.597014925,2.980033056,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,26,41
+UBCV,2015,W,FRST,424,,001,Sustainable Forest Management,Deborah De Long;Gary Bull;Peter Marshall;Stephen Jarvis Mitchell;Verena Griess,42,85.166666667,3.999491838,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,6,14,14,8
+UBCV,2015,W,FRST,557,,101,Site-Level Forest Land Management,Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Richard Hamelin;Stephen Jarvis Mitchell,15,84.533333333,3.700707783,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,6,8,0
+UBCV,2015,W,FRST,558,,201,Landscape-Level Forest Land Management,Deborah De Long;Peter Marshall;Stephen Jarvis Mitchell;Verena Griess,15,85.733333333,3.769552203,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,
+UBCV,2016,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,20,92.3,2.577228213,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,17
+UBCV,2016,W,FRST,305,,101,Silviculture,Bruce Larson;Stephen Jarvis Mitchell,71,77.1971831,8.585069628,93.0,46.0,,,,,,,,,,,1,0,0,1,8,8,14,6,18,11,4
+UBCV,2016,W,FRST,351,,101,Interior Field School,Stephen Jarvis Mitchell,68,85.60294118,4.257179032,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,6,24,23,15
+UBCV,2016,W,FRST,557,,101,Site-Level Forest Land Management,Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Richard Hamelin;Stephen Jarvis Mitchell,20,83.8,2.726092249,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,7,0
+UBCV,2016,W,FRST,558,,201,Landscape-Level Forest Land Management,Deborah De Long;Gary Bull;Stephen Jarvis Mitchell;Verena Griess,20,85.25,1.482352327,88.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,12,0
+UBCV,2017,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,25,90.36,3.401960219,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,18
+UBCV,2017,W,FRST,305,,101,Silviculture,Adam David Polinko;Adam Polinko;Amber Hansen;Amber Nicolette Hansen;Stephen Jarvis Mitchell,94,79.042553191,8.098738643,93.0,62.0,,,,,,,,,,,0,0,0,1,9,13,7,14,22,21,7
+UBCV,2017,W,FRST,351,,101,Interior Field School,Stephen Jarvis Mitchell,66,87.939393939,4.271115105,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,13,28,24
+UBCV,2017,W,FRST,507,C,201,Topics in Forest Science,Bruce Larson;Deborah De Long;Stephen Jarvis Mitchell,12,88.0,2.763397119,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,4
+UBCV,2017,W,FRST,557,,101,Site-Level Forest Land Management,Adam David Polinko;Adam Polinko;Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Kathleen Coupland;Kathleen Dawn Coupland;Richard Hamelin;Stephen Jarvis Mitchell,25,84.12,3.700450423,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,12,11,0
+UBCV,2017,W,FRST,558,,201,Landscape-Level Forest Land Management,Deborah De Long;Gary Bull;Stephen Jarvis Mitchell;Verena Griess,25,88.2,1.554563176,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,21,4
+UBCV,2018,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,22,91.5,3.1585108,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,18
+UBCV,2018,W,FRST,351,,101,Interior Field School,Amber Hansen;Amber Nicolette Hansen;Lori Daniels;Stephen Jarvis Mitchell,60,93.133333333,4.720911527,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,8,50
+UBCV,2018,W,FRST,507,C,201,Topics in Forest Science,Bruce Larson;Deborah De Long;Stephen Jarvis Mitchell,20,87.65,1.663066287,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,19,0
+UBCV,2018,W,FRST,558,,201,Landscape-Level Forest Land Management,Deborah De Long;Kathleen Coupland;Kathleen Dawn Coupland;Stephen Jarvis Mitchell;Verena Griess,22,86.272727273,4.568857502,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,7,7

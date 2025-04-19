@@ -1,0 +1,100 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,EECE,433,,101,MEDICAL IMAGING,"Najarian, Siamak",16,81.81,7.53,95,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,6,3,2,,,
+UBC,2014,W,EECE,544,,101,MED IMAGING,"Najarian, Siamak",8,87.38,5.88,97,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,,,
+UBC,2014,W,MECH,366,,101,MECHATRONIC SYST,"Najarian, Siamak",39,76.76,8.03,93,63,38,0,1,0,0,0,0,0,0,0,0,0,0,2,2,10,4,5,9,3,3,,,
+UBC,2015,W,APSC,172,,VE2,ENG ANALYSIS I,"Najarian, Siamak",37,75.49,16.11,100,31,36,1,0,0,0,0,0,0,1,0,1,5,2,0,1,4,2,5,5,3,9,,,
+UBC,2015,W,APSC,173,,VE2,ENG ANALYSIS II,"Najarian, Siamak",36,74.33,16.75,100,33,34,2,0,0,0,0,0,0,2,0,2,2,3,2,4,2,2,5,3,4,7,,,
+UBC,2015,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",41,86.32,5.34,96,69,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,14,12,,,
+UBC,2015,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",37,85.92,5.48,96,73,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,14,9,,,
+UBC,2015,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",89,86.31,5.32,96,63,88,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,30,33,21,,,
+UBC,2015,W,ELEC,492,,001,EL ENRG SYST DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",29,87.32,5.25,95,76,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,10,9,,,
+UBC,2015,W,ELEC,493,,001,NANTEC & MICRSYS,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",8,84.88,5.89,96,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,,,
+UBC,2015,W,ELEC,494,,001,BIOMED CPSTN DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",13,89.54,4.81,96,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9,,,
+UBC,2016,W,APSC,172,,VE2,ENG ANALYSIS I,"Najarian, Siamak",85,73.18,15.51,100,11,80,3,2,0,0,0,1,1,1,0,3,4,4,5,6,13,9,12,10,6,11,,,
+UBC,2016,W,ELEC,471,,101,MEDICAL IMAGING,"Najarian, Siamak",21,83.43,9.09,95,62,21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,7,5,,,
+UBC,2016,W,MECH,445,,201,FUEL CELL SYSTMS,"Najarian, Siamak",6,84.5,5.43,94,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,,,
+UBC,2016,W,MECH,545,,201,FUEL CELL SYSTEM,"Najarian, Siamak",4,92.67,7.51,100,85,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,,,
+UBC,2017,W,APSC,178,,VE1,ELEC MAGNET WAVE,"Motavas, Saloome;Najarian, Siamak",88,79.03,14.81,100,36,84,4,0,0,0,0,0,0,1,3,4,0,4,6,6,9,6,4,9,16,24,,,
+UBC,2017,W,BMEG,557,,101,STAT MED TECH,"Najarian, Siamak",21,91.76,4.95,100,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,13,,,
+UBC,2017,W,ELEC,471,,101,MEDICAL IMAGING,"Najarian, Siamak",24,86.33,7.09,100,74,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,7,8,,,
+UBC,2018,S,ELEC,341,,941,SYSTMS & CONTROL,"Najarian, Siamak",71,81.36,11.17,100,55,69,0,0,0,2,0,0,0,0,0,0,0,4,1,4,3,11,6,6,13,21,,,
+UBC,2018,W,BMEG,557,,101,STAT MED TECH,"Najarian, Siamak",7,92.14,3.8,97,86,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBC,2018,W,ELEC,341,,101,SYSTMS & CONTROL,"Najarian, Siamak",65,85,9.49,99,53,65,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,1,3,14,18,22,,,
+UBC,2018,W,ELEC,371,,201,BIOMED INSTRUMEN,"Najarian, Siamak",29,86.83,5.85,99,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,8,11,,,
+UBC,2018,W,ELEC,523,,101,MED IMG,"Najarian, Siamak",33,88.09,4.96,94,73,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,11,15,,,
+UBC,2018,W,MECH,470,,201,NRGY CONV SYSTMS,"Najarian, Siamak",35,82.94,7.02,96,65,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,2,11,11,5,,,
+UBCV,2014,W,EECE,433,,101,Medical Imaging,Siamak Najarian,16,81.8125,7.52966356,95.0,62.0,,,,,,,,,,,0,0,0,,,,,,6,,,,,
+UBCV,2014,W,EECE,544,,101,Medical Imaging,Siamak Najarian,8,87.375,5.878228596,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2014,W,MECH,366,,101,Modeling of Mechatronic Systems,Siamak Najarian,38,76.7631579,8.031809094,93.0,63.0,,,,,,,,,,,0,0,0,,,10,,5,9,,,,,
+UBCV,2015,W,APSC,172,,VE2,Engineering Analysis I,Siamak Najarian,37,75.486486486,16.113523688,100.0,31.0,,,,,,,,,,,,5,,,,,,5,5,,9,,,
+UBCV,2015,W,APSC,173,,VE2,Engineering Analysis II,Hoda Ahmadi;Siamak Najarian,36,74.333333333,16.751972165,100.0,33.0,,,,,,,,,,,,,,,,,,5,,,7,,,
+UBCV,2015,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,41,86.317073171,5.34059465,96.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,10,14,12,,,
+UBCV,2015,W,CPEN,492,,001,Software Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,37,85.918918919,5.479144187,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,9,14,9,,,
+UBCV,2015,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,88,86.306818182,5.322599733,96.0,63.0,,,,,,,,,,,0,0,0,,,,,,30,33,21,,,
+UBCV,2015,W,ELEC,492,,001,Electrical Energy Systems Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,28,87.321428571,5.249716546,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,10,9,,,
+UBCV,2015,W,ELEC,493,,001,Nanotechnology and Microsystems Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,8,84.875,5.890367439,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2015,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,13,89.538461538,4.806512676,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,9,,,
+UBCV,2016,W,APSC,172,,VE2,Engineering Analysis I,Parisa Sarmadi;Shayan Hoshyari;Siamak Najarian,83,73.18072289,15.50935562,100.0,11.0,,,,,,,,,,,3,4,4,5,6,13,9,12,10,6,11,,,
+UBCV,2016,W,APSC,173,,VE2,Engineering Analysis II,Juan Abello Rubio;Kai Kin Gary Yan;Kai Kin Yan;Siamak Najarian,78,66.37179487,24.38442604,100.0,4.0,,,,,,,,,,,14,7,6,3,3,5,6,6,5,7,16,,,
+UBCV,2016,W,ELEC,471,,101,Medical Imaging,Robert Rohling;Shekoofeh Azizi;Siamak Najarian,21,83.42857143,9.086096129,95.0,62.0,,,,,,,,,,,0,0,0,1,1,1,1,2,3,7,5,,,
+UBCV,2016,W,MECH,445,,201,Fuel Cell Systems,Siamak Najarian,6,84.5,5.431390246,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,1,1,,,
+UBCV,2017,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Claire Preston;Justin Kian Ming Wyss;Justin Wyss;Naga Raghavendra Koppisetti;Prateek Mathur;Saloome Motavas;Siamak Najarian,88,79.034090909,14.807150233,100.0,36.0,,,,,,,,,,,4,0,4,6,6,9,6,4,9,16,24,,,
+UBCV,2017,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Siamak Najarian,21,91.761904762,4.948785325,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,13,,,
+UBCV,2017,W,EECE,544,,101,Medical Imaging,Shekoofeh Azizi;Siamak Najarian,30,86.866666667,5.691695907,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,9,11,,,
+UBCV,2017,W,ELEC,471,,101,Medical Imaging,Shekoofeh Azizi;Siamak Najarian,24,86.333333333,7.087445524,100.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,3,7,8,,,
+UBCV,2018,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang;Zahra Shahriari,71,79.704225352,14.748747517,100.0,20.0,,,,,,,,,,,2,0,4,1,4,3,11,6,6,13,21,,,
+UBCV,2018,W,APSC,100,,101,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Behzad Zakani;Carlos Antonio Sanchez;Carol Patricia Jaeger;Gabriel Potvin;Gabrielle Lam;George Rawlings;Hamed Valipour;James Simonite;Jonathan Nakane;Jonathan Verrett;Kenneth Alton;Madeleine Brown;Madeleine Yeskoo;Masoud Haghi Kashani;Michael Miller;Mohammadamin Sadeghi;Naoko Ellis;Nil Ister;Paul Winkelman;Peter Ostafichuk;Pranav Menon;Siamak Najarian;Susan Nesbit;Tampriye Awoala Asawo,278,77.64028777,10.021642424,96.0,0.0,,,,,,,,,,,3,1,2,8,12,24,39,45,88,41,15,,,
+UBCV,2018,W,APSC,100,,102,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Behzad Zakani;Carl Hansen;Carol Patricia Jaeger;Gabriel Potvin;Hamed Valipour;Jason Smolensky;Jonathan Nakane;Jonathan Verrett;Madeleine Brown;Madeleine Yeskoo;Michael Miller;Mohammadamin Sadeghi;Nil Ister;Peter Ostafichuk;Pranav Menon;Sander Calisal;Septimiu Salcudean;Siamak Najarian,201,78.512437811,8.845399625,92.0,0.0,,,,,,,,,,,1,2,0,4,5,16,26,39,62,39,7,,,
+UBCV,2018,W,APSC,100,,103,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Anoshiravan Poursartip;Behzad Zakani;Carl Hansen;Carol Patricia Jaeger;Gabriel Potvin;Hamed Valipour;Jonathan Verrett;Kenneth Alton;Madeleine Brown;Madeleine Yeskoo;Michael Miller;Mohammadamin Sadeghi;Nil Ister;Peter Ostafichuk;Pranav Menon;Siamak Najarian,178,76.460674157,8.481360327,90.0,43.0,,,,,,,,,,,5,1,0,4,9,21,24,41,42,28,3,,,
+UBCV,2018,W,APSC,100,,104,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Behzad Zakani;Carol Patricia Jaeger;Elod Lajos Gyenge;Gabrielle Lam;Hamed Valipour;James Simonite;Jonas Altman;Jonathan Nakane;K Ezra Kwok;Kenneth Alton;Madeleine Brown;Madeleine Yeskoo;Michael Miller;Mohammadamin Sadeghi;Nil Ister;Paul Cubbon;Peter Ostafichuk;Pranav Menon;Siamak Najarian,229,78.144104803,10.148512237,92.0,0.0,,,,,,,,,,,6,1,1,2,7,15,26,45,72,47,7,,,
+UBCV,2018,W,APSC,101,,201,Introduction to Engineering II,Ali Pourzahedi;Behzad Zakani;Carl Ollivier-Gooch;Carlos Antonio Sanchez;Carol Patricia Jaeger;Connor Diego Mosquera;Connor Mosquera;Fraser Pogue;Gabriel Potvin;Gabrielle Lam;Hamed Valipour;Jonas Altman;Jonathan Nakane;Madeleine Brown;Madeleine Yeskoo;Mohammadamin Sadeghi;Nil Ister;Noboru Yonemitsu;Peter Ostafichuk;Siamak Najarian;Susan Nesbit;Tamara Etmannski;Vivienne Jaehn-Kreibaum,242,72.987603306,10.372114468,97.0,21.0,,,,,,,,,,,10,3,4,9,25,46,38,37,46,17,7,,,
+UBCV,2018,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Heather Borgard;Siamak Najarian,7,92.142857143,3.804758925,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2018,W,ELEC,341,,101,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,65,85.0,9.490126448,99.0,53.0,,,,,,,,,,,0,1,0,2,2,2,1,3,14,18,22,,,
+UBCV,2018,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Jeanie Hakansson Malone;Jeanie Malone;Pramit Saha;Siamak Najarian,29,86.827586207,5.849718952,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,8,8,11,,,
+UBCV,2018,W,ELEC,523,,101,Medical Imaging,Parisa Asgharzadeh;Siamak Najarian,33,88.090909091,4.964647749,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,11,15,,,
+UBCV,2018,W,MECH,470,,201,Energy Conversion Systems,Siamak Najarian;William Kendal Bushe,35,82.942857143,7.02073759,96.0,65.0,,,,,,,,,,,0,0,0,0,1,0,5,2,11,11,5,,,
+UBCV,2019,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,86,79.11627907,12.557087153,98.0,0.0,,,,,,,,,,,1,0,1,4,4,9,10,12,11,20,14,,,
+UBCV,2019,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Kieran Morton;Mohammad Mahdi Kazemi Esfeh;Mohammad Mahdi Kazimi Esfeh;Mohammad Najjarzadegan;Naga Raghavendra Koppisetti;Saloome Motavas;Siamak Najarian,64,85.328125,9.856195679,100.0,55.0,,,,,,,,,,,0,0,1,1,0,3,6,6,11,13,23,,,
+UBCV,2019,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Mohammad Reza Karimi;Siamak Najarian,20,93.35,3.513507769,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,18,,,
+UBCV,2019,W,ELEC,523,,101,Medical Imaging,Pramit Saha;Siamak Najarian,25,85.36,4.794788838,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,6,11,5,,,
+UBCV,2019,W,MECH,445,,201,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,22,84.363636364,8.220447529,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,3,6,4,6,,,
+UBCV,2019,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean;Siamak Najarian,24,85.25,7.99048347,96.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,1,1,9,8,,,
+UBCV,2019,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean;Siamak Najarian,20,92.05,6.916608539,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,3,15,,,
+UBCV,2020,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Omid Esmaeeli;Pramit Saha;Siamak Najarian,81,81.061728395,10.378277409,99.0,39.0,,,,,,,,,,,1,0,1,3,4,1,10,12,14,16,19,,,
+UBCV,2020,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Mohammad Mahdi Kazemi Esfeh;Mohammad Mahdi Kazimi Esfeh;Naga Raghavendra Koppisetti;Pavithran Palanichamy;Saloome Motavas;Siamak Najarian,46,78.5,14.260668521,100.0,39.0,,,,,,,,,,,3,0,1,2,2,4,5,3,11,5,10,,,
+UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.264957265,11.820783248,100.0,43.0,,,,,,,,,,,1,2,7,8,8,7,14,15,18,19,18,,,
+UBCV,2020,W,ELEC,523,,101,Medical Imaging,Pramit Saha;Siamak Najarian,25,85.16,7.776460206,95.0,58.0,,,,,,,,,,,0,0,,,,,1,2,3,10,8,,,
+UBCV,2020,W,MECH,445,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,15,82.533333333,9.687006516,96.0,63.0,,,,,,,,,,,0,0,0,1,1,0,2,2,1,4,4,,,
+UBCV,2020,W,MECH,464,,201,Industrial Robotics,Mohamed Gadala;Septimiu Salcudean;Siamak Najarian,15,84.8,6.909620622,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,0,4,3,5,,,
+UBCV,2020,W,MECH,470,,201,Energy Conversion Systems,Gwynn Elfring;Omid Hajieghrary;Siamak Najarian;William Kendal Bushe,29,79.517241379,7.419186948,92.0,63.0,,,,,,,,,,,0,0,0,1,0,3,6,4,6,5,4,,,
+UBCV,2020,W,MECH,577,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,7,87.857142857,3.760699023,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,3,,,
+UBCV,2021,S,ELEC,341,,941,Systems and Control,Amirali Darbandsari;Mohammad Najjarzadegan;Omid Esmaeeli;Siamak Najarian,107,78.514018692,12.651619693,100.0,42.0,,,,,,,,,,,1,3,5,5,7,9,8,15,19,12,23,,,
+UBCV,2021,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Amirali Darbandsari;Fraser Pogue;Hongrong Zhang;Hosna Kazerooni Haghighat;Mohammad Najjarzadegan;Siamak Najarian,58,74.379310345,19.188654896,98.0,0.0,,,,,,,,,,,5,3,0,2,4,6,6,3,13,3,13,,,
+UBCV,2021,W,ELEC,341,,201,Systems and Control,Guy A Dumont;Hosna Kazerooni Haghighat;Leo Stocco;Mohsen Gholami;Puria Azadi Moghadam;Siamak Najarian,44,74.272727273,16.447751859,96.0,2.0,,,,,,,,,,,1,1,5,2,3,3,2,6,9,5,7,,,
+UBCV,2021,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Abdelrahman Elhosary;Leo Stocco;Siamak Najarian,15,82.533333333,11.544118272,96.0,62.0,,,,,,,,,,,0,0,0,1,2,1,0,0,2,3,6,,,
+UBCV,2021,W,ELEC,523,,101,Medical Imaging,Amirali Darbandsari;Siamak Najarian,23,85.304347826,6.291659577,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,9,4,7,,,
+UBCV,2021,W,MECH,445,,201,Fuel Cell Systems,Pouria Khoshnevisrad;Pouria Kourehpaz;Siamak Najarian,18,81.111111111,6.415870844,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,3,2,8,0,,,
+UBCV,2021,W,MECH,577,,201,Fuel Cell Systems,Pouria Khoshnevisrad;Siamak Najarian,9,88.666666667,9.861541462,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,1,5,,,
+UBCV,2021,S,ELEC,341,,941,Systems and Control,Siamak Najarian,107,78.5,,100.0,42.0,,,,,,,,,,,,,,,7,9,8,15,19,12,23,80.0,88.0,70.0
+UBCV,2021,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Siamak Najarian,58,74.4,,98.0,0.0,,,,,,,,,,,,,,,,6,6,,13,,13,79.0,86.0,68.0
+UBCV,2021,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Siamak Najarian,15,82.5,,96.0,62.0,,,,,,,,,,,,,,,,,,,,,6,85.0,91.0,75.0
+UBCV,2021,W,ELEC,523,,101,Medical Imaging,Siamak Najarian,23,85.3,,95.0,71.0,,,,,,,,,,,,,,,,,,,9,,7,84.0,90.5,81.0
+UBCV,2021,W,MECH,445,,201,Fuel Cell Systems,Siamak Najarian,18,81.1,,89.0,72.0,,,,,,,,,,,,,,,,,,,,8,,82.0,87.0,75.3
+UBCV,2021,W,MECH,577,,201,Fuel Cell Systems,Siamak Najarian,9,88.7,,100.0,71.0,,,,,,,,,,,,,,,,,,,,,,93.0,95.0,80.0
+UBCV,2022,S,ELEC,341,,941,Systems and Control,Siamak Najarian,74,79.8,,97.0,54.0,,,,,,,,,,,0,1,3,1,2,9,9,4,17,15,13,81.5,87.0,73.0
+UBCV,2022,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Siamak Najarian,53,83.4,,99.0,54.0,,,,,,,,,,,0,1,0,3,2,3,5,3,10,4,22,84.0,93.0,75.0
+UBCV,2022,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Siamak Najarian,9,83.7,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,2,2,82.0,87.0,79.0
+UBCV,2022,W,ELEC,523,,101,Medical Imaging,Siamak Najarian,20,81.0,,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,3,6,5,1,81.0,85.3,76.3
+UBCV,2022,W,MECH,445,,201,Fuel Cell Systems,Siamak Najarian,23,79.4,,97.0,54.0,,,,,,,,,,,0,1,0,0,0,4,0,7,5,3,3,79.0,84.0,76.5
+UBCV,2022,W,MECH,470,,101,Energy Conversion Systems,Siamak Najarian,15,75.7,,94.0,60.0,,,,,,,,,,,0,0,0,2,1,3,2,1,4,1,1,74.0,82.5,69.5
+UBCV,2022,W,MECH,577,,201,Fuel Cell Systems,Siamak Najarian,7,91.9,,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,93.0,93.5,90.5
+UBCV,2023,S,ELEC,341,,941,Systems and Control,Siamak Najarian,74,75.71,,100.0,50.0,,,,,,,,,,,0,2,3,8,7,10,10,2,12,8,11,75.0,85.0,66.0
+UBCV,2023,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Siamak Najarian,37,77.0,,100.0,45.0,,,,,,,,,,,2,0,4,0,3,3,5,3,4,6,6,76.5,85.5,68.5
+UBCV,2023,W,BMEG,420,,101,Medical Imaging,Siamak Najarian,32,77.58,,95.0,51.0,,,,,,,,,,,0,1,1,2,2,2,3,3,8,4,5,80.0,85.0,71.5
+UBCV,2023,W,CHBE,483,,101,Energy Engineering for Climate Change and Sustainability,Siamak Najarian,107,79.9,,97.0,52.0,,,,,,,,,,,0,1,3,1,3,10,15,13,24,15,20,81.0,86.0,73.0
+UBCV,2023,W,CHBE,583,,101,Energy Engineering for Climate Change and Sustainability,Siamak Najarian,27,82.8,,95.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,1,6,6,8,85.0,90.0,78.5
+UBCV,2023,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Siamak Najarian,6,82.0,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,1,1,81.5,84.3,78.8
+UBCV,2023,W,ELEC,471,,102,Medical Imaging,Siamak Najarian,13,77.5,,98.0,54.0,,,,,,,,,,,0,2,0,0,1,0,1,3,3,0,3,78.0,83.0,74.0
+UBCV,2023,W,ELEC,523,,101,Medical Imaging,Siamak Najarian,7,88.3,,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,4,90.0,91.0,85.0
+UBCV,2023,W,MECH,445,,201,Fuel Cell Systems,Siamak Najarian,26,84.42,,100.0,69.0,,,,,,,,,,,0,0,0,0,0,1,4,3,3,9,6,86.0,89.0,77.5
+UBCV,2023,W,MECH,577,,201,Fuel Cell Systems,Siamak Najarian,17,85.56,,99.0,47.0,,,,,,,,,,,1,0,0,0,0,1,1,0,2,1,10,90.5,92.25,83.0

@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ADED,329,,089,DEV CRS WKSP SMS,"Butterwick, Shauna",26,83.17,18.18,94,0,23,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,1,3,12,7
+UBC,2002,W,EDST,565,F,084,SP CRS SBJCT FLD,"Butterwick, Shauna",16,90.19,1.56,93,87,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11
+UBC,2005,W,ADHE,501,,022,ADULT ED & COMM,"Butterwick, Shauna",19,90.94,3.53,95,81,17,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,13
+UBC,2006,W,ADHE,330,,63C,COM ADULT EDUC,"Butterwick, Shauna",17,90.25,6.8,96,67,16,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,12
+UBC,2007,W,ADHE,330,,63A,COM ADULT EDUC,"Butterwick, Shauna;Jubas, Kaela",9,77,7.86,90,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,1,1
+UBC,2007,W,ADHE,330,,63C,COM ADULT EDUC,"Butterwick, Shauna;Jubas, Kaela",15,77.07,5.43,90,71,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2,5,0,1
+UBC,2007,W,ADHE,501,,022,ADULT ED & COMM,"Butterwick, Shauna",14,87.23,2.86,91,82,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,4
+UBC,2007,W,EDST,602,A,082,DOCTORAL SEMINAR,"Butterwick, Shauna",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,ADHE,514,,021,ADU EDU PRO,"Butterwick, Shauna",15,87.86,2.21,92,84,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,2
+UBC,2009,W,EDST,428,,107,SOCL FNDTN OF ED,"Butterwick, Shauna",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDST,508,D,082,REV RES ED MTHDS,"Butterwick, Shauna",16,87.73,3.26,92,80,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3
+UBC,2010,W,EDST,503,,021,TRAD ADULT EDU,"Butterwick, Shauna",21,88.95,4.84,95,80,19,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,10
+UBC,2010,W,EDST,520,,022,ADLT EDU PRACT,"Butterwick, Shauna;Chan, Jennifer",14,91.36,4.62,98,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9
+UBC,2010,W,EDST,602,A,083,DOCTORAL SEMINAR,"Butterwick, Shauna",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDST,428,,920,SOCL FNDTN OF ED,"Butterwick, Shauna;Graham, Erin",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDST,503,,021,TRAD ADULT EDU,"Butterwick, Shauna",19,90.06,4.88,97,79,17,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11
+UBC,2011,W,EDST,508,D,083,REV RES ED STUDS,"Butterwick, Shauna;Mazawi, Andre",13,89.33,1.5,91,87,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2011,W,EDST,602,A,083,DOCTORAL SEMINAR,"Butterwick, Shauna",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDST,428,,978,SOCL FNDTN OF ED,"Butterwick, Shauna;Graham, Erin",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDST,508,B,971,REV RES ED STUDS,"Butterwick, Shauna;Mazawi, Andre",12,91.25,2.6,92,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+UBC,2012,S,EDST,516,,941,ADULT ED & COMM,"Butterwick, Shauna",13,88.23,3.94,93,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,6
+UBC,2012,W,EDST,401,,004,EDUC SCHOOL SOC,"Butterwick, Shauna;Graham, Erin",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,401,,006,EDUC SCHOOL SOC,"Butterwick, Shauna",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,401,,104,EDUC SCHOOL SOC,"Butterwick, Shauna",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,402,,004,EDUC & MEDIA,"Butterwick, Shauna;Graham, Erin",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,402,,006,EDUC & MEDIA,"Butterwick, Shauna",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,402,,104,EDUC & MEDIA,"Butterwick, Shauna",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDST,508,D,083,REV RES ED STUDS,"Butterwick, Shauna",9,93,0,93,93,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2012,W,EDST,518,,022,THY REA ADU LEA,"Butterwick, Shauna",16,89,4.36,95,77,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,8
+UBC,2014,W,EDST,503,,021,FNDS AD LRNG ED,"Butterwick, Shauna",15,87.67,3.09,93,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,4
+UBC,2014,W,EDST,520,,021,ADLT EDU PRACT,"Butterwick, Shauna",14,87.54,4.31,94,79,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,5
+UBC,2015,W,EDST,508,A,082,REV RES ED STUDS,"Butterwick, Shauna;Rocha Perkerwicz, Samuel",10,89.1,1.45,91,87,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4
+UBC,2015,W,EDST,561,B,082,PRACTICUM,"Butterwick, Shauna",15,89.8,2.76,94,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7
+UBC,2016,S,CCFI,508,D,952,REV RES ED MTHDS,"Butterwick, Shauna",4,88,0,88,88,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+UBC,2016,S,EDST,508,B,972,REV RES ED STUDS,"Butterwick, Shauna",6,88.6,2.19,92,86,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2016,W,EDST,401,,110,EDU SCH SOC INST,"Butterwick, Shauna;Graham, Erin",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDST,565,A,082,SP CRS SBJCT FLD,"Butterwick, Shauna",11,90,1.67,93,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7
+UBCV,2014,W,EDST,503,,021,Foundations of Adult Learning and Education,Shauna Butterwick,15,87.66666667,3.086066999,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,9,
+UBCV,2014,W,EDST,520,,021,Perspectives on Adult Education Practice,Shauna Butterwick,13,87.53846154,4.313068989,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,5
+UBCV,2015,W,EDST,508,A,082,Review of Research in Educational Studies,Samuel Rocha Perkerwicz;Shauna Butterwick,10,89.1,1.449137675,91.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,4
+UBCV,2015,W,EDST,561,B,082,Practicum,Shauna Butterwick,15,89.8,2.75680975,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,7
+UBCV,2016,W,EDST,565,A,082,Special Course in Subject Matter Field,Shauna Butterwick,11,90.0,1.673320053,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,7

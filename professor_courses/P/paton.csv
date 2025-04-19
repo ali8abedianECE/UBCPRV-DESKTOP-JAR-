@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,MATH,110,,W1I,DIFF CALCULUS,"Paton, Kelly",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,MATH,184,,922,CALC SOCSCI COMM,"Paton, Kelly",78,64.77,12.69,92,33,67,7,1,0,3,0,0,0,4,3,7,5,13,8,11,7,7,7,4,4,1
+UBC,2013,W,MATH,184,,102,CALC SOCSCI COMM,"MacLean, Mark Thomson;Paton, Kelly",79,67.95,14.82,96,14,69,7,2,0,1,0,1,0,3,3,7,6,4,9,9,7,9,7,9,7,2
+UBC,2013,W,MATH,257,,201,PARTL DIFF EQUAT,"Loewen, Philip;Paton, Kelly",78,60.62,20.33,91,13,53,20,2,0,3,0,3,4,5,8,20,6,6,2,9,5,1,11,5,5,3
+UBC,2013,W,MATH,316,,201,DIFF EQUATIONS 2,"Loewen, Philip;Paton, Kelly",48,67.2,18.78,98,16,41,4,3,0,0,0,2,0,2,0,4,5,4,5,4,5,4,1,4,4,5

@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,APSC,279,,201,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",12,85.92,5.98,96,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,3,3
+UBC,2002,W,APSC,279,,202,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",16,78.19,12.77,96,50,16,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,1,4,5,1
+UBC,2002,W,APSC,279,,203,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",10,91.4,5.74,99,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7
+UBC,2002,W,APSC,279,,204,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",11,82,28.87,98,0,10,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,7
+UBC,2002,W,APSC,279,,205,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",19,94.11,5.63,100,77,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,17
+UBC,2002,W,APSC,279,,206,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",18,96.44,3.24,100,88,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17
+UBC,2002,W,APSC,279,,207,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",15,75.8,23.75,97,0,14,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,2,1,6,2
+UBC,2002,W,APSC,279,,208,ENG MTLS LAB,"Barr, Peter;Tromans, Desmond",14,91.29,4.84,99,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,10
+UBC,2002,W,MMAT,389,,101,SEMINAR I,"Tromans, Desmond;Wang, Rizhi",27,80.48,5,91,72,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,5,7,1
+UBC,2002,W,MMAT,390,,201,SEMINAR II,"Tromans, Desmond;Wang, Rizhi",33,85.94,3.79,93,76,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,14,6
+UBC,2002,W,MMAT,398,,101,ENG REPORT,"Tromans, Desmond",26,82.85,6.67,96,69,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,10,5,4
+UBC,2002,W,MMAT,464,,101,ENG DESIGN I,"Barr, Peter;Tromans, Desmond",40,83.03,5.16,87,55,40,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,19,19,0
+UBC,2002,W,MMAT,489,,101,SEMINAR III,"Tromans, Desmond;Wang, Rizhi",27,84.07,4.29,92,73,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,13,1
+UBC,2002,W,MMAT,498,,101,ENG REPORT,"Tromans, Desmond",40,84.63,5.73,95,74,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,11,12,10
+UBC,2003,W,MMAT,464,,101,ENG DESIGN I,"Barr, Peter;Tromans, Desmond",23,79.78,5.7,89,70,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5,9,4,0

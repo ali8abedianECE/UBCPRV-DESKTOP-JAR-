@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",73,69.96,10.13,90,50,72,0,1,0,0,0,0,0,0,0,0,6,7,6,4,15,11,7,13,2,1
+UBC,2002,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",84,69.8,10.13,91,44,79,1,4,0,0,0,0,0,0,1,1,6,7,6,9,13,15,7,11,4,1
+UBC,2003,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",82,72.08,10.97,98,50,80,0,2,0,0,0,0,0,0,0,0,5,11,5,5,8,10,15,12,7,2
+UBC,2003,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",73,71.49,10.29,92,43,68,1,4,0,0,0,0,0,0,1,1,2,7,3,7,13,14,6,8,6,2
+UBC,2003,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",28,78.57,6.66,90,66,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,5,6,1
+UBC,2005,W,LING,451,A,001,ACQ PHONOLOGY,"Stemberger, Joseph",36,81.49,7.01,89,45,34,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,2,2,22,8,0
+UBC,2006,W,LING,451,A,001,ACQ PHONOLOGY,"Stemberger, Joseph",26,82.28,6.69,91,66,25,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,2,2,8,10,1
+UBC,2009,W,LING,518,,001,ADV RSCH SEMINAR,"Stemberger, Joseph",7,84.43,3.46,89,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0
+UBC,2010,W,LING,451,A,001,ACQ PHONOLOGY,"Stemberger, Joseph",23,76.87,10.86,91,38,22,1,0,0,0,0,0,0,1,0,1,0,0,0,1,3,5,2,5,5,1
+UBC,2010,W,LING,530,B,001,PROB IN SPC AREA,"Hudson Kam, Carla;Stemberger, Joseph",6,90,0,90,90,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2010,W,LING,530,B,002,PROB IN SPC AREA,"Hudson Kam, Carla;Stemberger, Joseph",5,92,6,95,83,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2011,W,LING,451,A,001,ACQ PHONOLOGY,"Stemberger, Joseph",25,79.83,7.74,93,55,24,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,6,8,5,1
+UBC,2012,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",45,80.95,7.79,96,56,44,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2,2,8,14,11,4
+UBC,2013,W,LING,209,,002,"TPC SP,LANG,HRNG","Stemberger, Joseph",132,74.54,8.17,95,56,130,0,2,0,0,0,0,0,0,0,0,0,6,5,16,17,29,22,21,10,4
+UBC,2013,W,LING,447,B,001,TOPICS IN LING,"Stemberger, Joseph",28,83.56,2.26,87,80,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,9,0
+UBC,2013,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",45,80.53,5.36,90,68,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,9,18,10,1
+UBC,2014,W,LING,209,,002,"TPC SP,LANG,HRNG","Stemberger, Joseph",204,71.84,9.91,91,35,191,5,3,0,5,0,0,0,1,4,5,5,10,15,22,28,37,25,35,12,2
+UBC,2014,W,LING,333,,001,RSRCH MTHDS LING,"Stemberger, Joseph",19,85.39,2.2,89,81,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11,0
+UBC,2014,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",49,79.15,7.61,97,63,48,0,1,0,0,0,0,0,0,0,0,0,0,1,3,4,5,11,12,9,3
+UBC,2015,W,LING,209,,002,"TPC SP,LANG,HRNG","Stemberger, Joseph",152,72.65,11.63,91,35,140,4,5,0,3,0,0,0,2,2,4,6,9,10,11,23,12,21,25,19,4
+UBC,2015,W,LING,333,,001,RSRCH MTHDS LING,"Stemberger, Joseph",42,81.2,5.46,88,63,41,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5,21,11,0
+UBC,2015,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",42,80.76,5.67,93,68,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5,14,12,1
+UBC,2016,W,LING,209,,002,"TPC SP,LANG,HRNG","Stemberger, Joseph",128,73.33,9.37,94,44,120,1,4,0,3,0,0,0,0,1,1,2,4,12,10,21,18,21,18,10,4
+UBC,2016,W,LING,333,,001,RSRCH MTHDS LING,"Stemberger, Joseph",70,80.43,4.44,90,65,70,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,14,36,11,1
+UBC,2016,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",23,77.26,8.48,89,60,23,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,3,3,8,0
+UBC,2017,W,LING,209,,002,"TPC SP,LANG,HRNG","Stemberger, Joseph",148,71.31,9.56,92,44,143,1,3,0,1,0,0,0,0,1,1,4,10,18,20,19,20,17,22,10,3
+UBC,2017,W,LING,333,,001,RSRCH MTHDS LING,"Stemberger, Joseph",82,80.12,3.82,87,68,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,25,39,10,0
+UBC,2017,W,LING,451,,001,ACQ PHONOLOGY,"Stemberger, Joseph",44,75.52,11.6,92,40,42,2,0,0,0,0,0,0,0,2,2,0,0,3,5,7,2,4,9,8,4
+UBCV,2014,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Joseph Stemberger;Masaki Noguchi,201,70.50746269,13.23069137,91.0,0.0,,,,,,,,,,,9,6,10,15,22,28,37,25,35,12,2
+UBCV,2014,W,LING,333,,001,Research Methods for Linguistics,Joseph Stemberger,18,85.38888889,2.199970291,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,11,0
+UBCV,2014,W,LING,451,,001,Acquisition of Phonology,Joseph Stemberger,48,79.14583333,7.610154424,97.0,63.0,,,,,,,,,,,0,0,0,,,,5,11,12,9,
+UBCV,2015,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Alexis Black;Joseph Stemberger,147,71.802721088,13.293133182,91.0,9.0,,,,,,,,,,,6,6,9,11,11,23,12,21,25,19,4
+UBCV,2015,W,LING,333,,001,Research Methods for Linguistics,Joseph Stemberger,41,81.195121951,5.459942821,88.0,63.0,,,,,,,,,,,0,0,0,,,,,5,21,11,0
+UBCV,2015,W,LING,451,,001,Acquisition of Phonology,Joseph Stemberger,42,80.761904762,5.668954925,93.0,68.0,,,,,,,,,,,0,0,0,0,0,,7,5,14,12,
+UBCV,2016,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Alexis Black;Joseph Stemberger,124,71.82258065,13.40067247,94.0,0.0,,,,,,,,,,,4,2,4,12,10,21,18,21,18,10,4
+UBCV,2016,W,LING,333,,001,Research Methods for Linguistics,Joseph Stemberger,70,80.42857143,4.438211641,90.0,65.0,,,,,,,,,,,0,0,0,0,1,2,5,14,36,11,1
+UBCV,2016,W,LING,451,,001,Acquisition of Phonology,Joseph Stemberger;Michael Fry,23,77.26086957,8.475726793,89.0,60.0,,,,,,,,,,,0,0,0,2,1,3,3,3,3,8,0
+UBCV,2017,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Alexis Black;Joseph Stemberger,145,70.84137931,11.047043258,92.0,4.0,,,,,,,,,,,2,4,10,18,20,19,20,17,22,10,3
+UBCV,2017,W,LING,333,,001,Research Methods for Linguistics,Giulia Cortiana;Joseph Stemberger;Sophie Bishop,82,80.12195122,3.824515604,87.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,25,39,10,0
+UBCV,2017,W,LING,451,,001,Acquisition of Phonology,Joseph Stemberger;Michael Fry,44,75.522727273,11.598894567,92.0,40.0,,,,,,,,,,,2,0,0,3,5,7,2,4,9,8,4
+UBCV,2018,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Anne-Michelle Tessier;Joseph Stemberger;Murray Henry Schellenberg;Murray Schellenberg;Wendy Amoako,179,75.988826816,12.290029222,95.0,10.0,,,,,,,,,,,6,0,2,5,9,12,32,32,55,17,9
+UBCV,2018,W,LING,333,,001,Research Methods for Linguistics,Alexandra Bosurgi;Gudrun Gylfadottir;Joseph Stemberger,88,89.795454545,9.212883397,99.0,32.0,,,,,,,,,,,2,0,0,0,0,0,0,0,7,22,57
+UBCV,2018,W,LING,451,,001,Acquisition of Phonology,Anne Michelle Tessier;Anne Tessier;Anne Tressier;Anne-Michelle Tessier;Gloria Mellesmoen;Joseph Stemberger,47,77.127659574,13.952741699,100.0,23.0,,,,,,,,,,,2,0,0,2,5,5,4,6,12,2,9

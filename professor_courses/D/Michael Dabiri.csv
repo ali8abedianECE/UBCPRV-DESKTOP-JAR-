@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MINE,486,,201,Mining and The Environment,Bruce Marshall;Durjoy Baidya;Michael Dabiri;Mohammad Amin Shadi Diznab,59,77.406779661,9.279414823,92.0,27.0,1,0,1,0,2,6,6,17,18,7,1,,,
+UBCV,2021,W,MINE,486,,201,Mining and The Environment,Michael Dabiri,59,77.4,,92.0,27.0,,,,,,6,6,17,18,7,,78.0,83.0,75.0
+UBCV,2022,W,MINE,486,,201,Mining and The Environment,Michael Dabiri,40,83.1,,93.0,69.0,0,0,0,0,0,2,2,3,16,12,5,83.0,86.0,80.0
+UBCV,2023,W,MINE,486,,201,Mining and The Environment,Michael Dabiri,41,77.41,,95.0,57.0,0,0,1,1,4,9,5,6,2,5,8,76.0,88.0,70.0

@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CONS,127,,201,Observing the Earth from Space,Agatha Czekajlo;Christopher Colton;Lukas Jarron;Nicholas Charles Coops;Rik Johannes Gerardus Nuijten;Yifei Shao;Yifeo Shao,333,82.384384384,9.803306364,97.0,48.0,1,4,7,7,11,19,16,23,82,75,88,,,
+UBCV,2019,W,CONS,451,,101,Integrated Field School,Adam Kanigan;Beth Ann Roskilly;Beth Roskilly;Christopher Colton;Cora Skaien;Iain Reid;Iain Robert Reid;Sabine Odile Irene Sherrin;Sabine Sherrin;Susanne Lavallee,34,83.176470588,3.279602602,91.0,74.0,0,0,0,0,0,0,1,1,19,12,1,,,
+UBCV,2020,W,CONS,127,,201,Observing the Earth from Space,Agatha Czekajlo;Andrew Chadwick;Christopher Colton;Evan Muise;Lukas Jarron;Nicholas Charles Coops;Rik Johannes Gerardus Nuijten;Yifei Shao;Yifeo Shao,395,85.043037975,11.149226414,98.0,0.0,5,0,3,3,3,15,21,26,62,97,160,,,
+UBCV,2020,W,FRST,395,,101,Forest Wildlife Ecology and Management,Christopher Colton;Cole Burton;Michael Procko;Mitchell Fennell;Tazarve Gharajehdaghipoor,145,81.296551724,8.650725835,98.0,42.0,1,0,3,4,2,4,9,32,34,34,22,,,
+UBCV,2021,W,CONS,127,,201,Observing the Earth from Space,Cameron Farquhar Cosgrove;Christopher Colton;Evan Muise;Julia Fast;Leanna Anastasia Stackhouse;Nicholas Charles Coops;Tristan Douglas,343,86.705539359,10.191623019,99.0,0.0,2,3,3,1,6,12,9,20,46,81,160,,,
+UBCV,2021,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton;Dominic Janus;Michael Meitner;Spencer Dakin Kuiper;Vaniartha Vaniartha,61,83.491803279,9.324918142,96.0,53.0,0,1,0,2,3,1,5,2,10,21,16,,,
+UBCV,2021,W,CONS,127,,201,Observing the Earth from Space,Christopher Colton,343,86.7,,99.0,0.0,,,,,6,12,9,20,46,81,160,89.0,94.0,83.0
+UBCV,2021,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton,61,83.5,,96.0,53.0,,,,,,,,,10,21,16,86.0,90.0,80.0
+UBCV,2022,S,CONS,340,,922,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton,85,84.2,,97.0,50.0,0,1,1,0,2,5,4,11,15,17,29,86.0,92.0,79.0
+UBCV,2022,W,CONS,127,,201,Observing the Earth from Space,Christopher Colton,406,88.5,,100.0,52.0,0,2,4,1,5,9,11,15,50,92,217,91.0,94.8,85.0
+UBCV,2022,W,CONS,127,,203,Observing the Earth from Space,Christopher Colton,449,89.6,,99.0,21.0,1,0,0,3,4,3,10,17,39,92,280,92.0,95.0,87.0
+UBCV,2022,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton,94,81.4,,94.0,18.0,1,1,0,2,2,2,6,14,25,32,9,84.0,87.0,79.0
+UBCV,2022,W,FRST,232,,101,Computer Applications in Forestry,Suborna Ahmed;Christopher Colton,75,85.9,,99.0,50.0,0,1,0,0,0,2,3,7,10,22,30,86.0,91.5,82.0
+UBCV,2022,W,FRST,443,,201,Remote Sensing for Ecosystem Management,Christopher Colton,150,84.5,,96.0,38.0,1,0,2,1,0,3,7,12,30,58,36,86.0,89.0,81.3
+UBCV,2023,S,CONS,127,,921,Observing the Earth from Space,Christopher Colton,476,86.57,,99.0,0.0,2,4,4,5,7,22,17,27,61,85,230,89.0,94.0,82.0
+UBCV,2023,S,CONS,340,,922,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton,79,80.48,,94.0,45.0,1,2,2,0,1,6,7,8,14,23,13,84.0,87.0,76.0
+UBCV,2023,W,CONS,127,,101,Observing the Earth from Space,Christopher Colton,501,90.4,,99.0,61.0,0,0,0,1,2,3,6,21,44,101,322,92.0,95.0,87.0
+UBCV,2023,W,CONS,127,,201,Observing the Earth from Space,Christopher Colton,500,92.6,,100.0,39.0,2,0,0,0,3,2,1,10,24,72,385,94.0,97.0,90.0
+UBCV,2023,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher Colton,105,88.7,,98.0,4.0,1,1,0,0,1,0,2,3,12,22,61,91.0,95.0,86.5
+UBCV,2023,W,FRST,232,,101,Computer Applications in Forestry,Suborna Ahmed;Christopher Colton,76,86.1,,98.0,63.0,0,0,0,1,0,2,1,7,19,16,29,87.0,91.0,81.0
+UBCV,2023,W,FRST,232,,201,Computer Applications in Forestry,Christopher Colton,80,88.8,,97.0,58.0,0,0,1,0,0,0,4,0,8,22,45,90.0,93.0,87.0

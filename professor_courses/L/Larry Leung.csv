@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,PHAR,450,B,030,SELECTED TOPICS,"Leung, Larry;Min, Jason",8,89.5,2.78,94,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,,,
+UBC,2012,W,PHAR,450,B,031,SELECTED TOPICS,"Leung, Larry;Min, Jason",6,90.83,2.71,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2013,W,PHAR,361,,001,NON-PRES DRUGS 1,"Leung, Larry;Min, Jason",222,83.93,7.35,100,62,222,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,20,26,47,61,55,,,
+UBC,2013,W,PHAR,362,,001,NON-PRES DRUG 2,"Leung, Larry;Min, Jason",220,83.61,6.85,98,57,220,0,0,0,0,0,0,0,0,0,0,0,2,0,0,9,16,34,50,60,49,,,
+UBC,2013,W,PHAR,450,B,030,SELECTED TOPICS,"Leung, Larry;Min, Jason",15,91.27,5.36,98,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,,,
+UBC,2013,W,PHAR,461,,001,NON-PRES DRUG 3,"Leung, Larry;Min, Jason",208,87.92,7.51,100,63,208,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,8,16,33,46,100,,,
+UBC,2013,W,PHAR,462,,001,NON-PRES DRUG 4,"Leung, Larry;Min, Jason",208,84.87,6.18,98,64,208,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10,15,58,70,48,,,
+UBC,2014,W,PHAR,457,,001,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",16,90.88,4.05,96,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,,,
+UBC,2014,W,PHAR,457,,002,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",19,91.26,3.68,97,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,13,,,
+UBC,2014,W,PHAR,499,,001,CS PHAR SCI IV,"Leung, Larry;Nicholl, Tessa",121,85.23,4.33,97,74,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,32,57,17,,,
+UBC,2014,W,PHAR,499,,002,CS PHAR SCI IV,"Leung, Larry;Nicholl, Tessa",79,86.3,3.9,93,76,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,23,35,18,,,
+UBC,2015,W,PHAR,457,,001,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",20,90.7,4.09,99,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,15,,,
+UBC,2015,W,PHRM,141,,001,PHRM IN PRACTC 1,"Leung, Larry",220,94.23,3.04,98,80,218,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,201,,,
+UBC,2016,W,PHAR,457,,001,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",16,91.63,3.3,97,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,14,,,
+UBC,2016,W,PHRM,141,,001,PHRM IN PRACTC 1,"Leung, Larry",223,95.62,3.24,99,78,221,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,209,,,
+UBC,2017,W,PHAR,457,,001,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",31,88.9,4.09,96,79,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,16,,,
+UBC,2017,W,PHRM,141,,001,PHRM IN PRACTC 1,"Leung, Larry",221,94.92,3.45,99,75,216,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,7,204,,,
+UBC,2018,W,PHAR,457,,001,PHAR CARE ABORIG,"Leung, Larry;Min, Jason",21,92.76,3.83,98,85,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,,,
+UBC,2018,W,PHRM,141,,001,PHRM IN PRACTC 1,"Leung, Larry",225,96.75,2.38,99,80,223,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,218,,,
+UBCV,2014,W,PHAR,399,,001,Cases in Pharmaceutical Sciences II,Cathay Cheng;Heather Price;Hilary Watson;Ingrid Price;Larry Leung;Nelson Gorrin Morales;Nelson Varhola;Ninadh Malrina D'Costa;Tessa Nicholl,219,79.01826484,5.447803589,92.0,60.0,,,,,,,,,,,0,0,0,,,17,24,62,79,26,5,,,
+UBCV,2014,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,16,90.875,4.047633053,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,10,,,
+UBCV,2014,W,PHAR,457,,002,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,19,91.2631579,3.679403715,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,13,,,
+UBCV,2014,W,PHAR,499,,001,Cases in Pharmaceutical Sciences IV,Catherine Hu;Larry Leung;Tessa Nicholl,121,85.23140496,4.331590029,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,12,32,57,17,,,
+UBCV,2014,W,PHAR,499,,002,Cases in Pharmaceutical Sciences IV,Catherine Hu;Larry Leung;Tessa Nicholl,79,86.30379747,3.900540496,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,23,35,18,,,
+UBCV,2015,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,20,90.7,4.092354875,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,15,,,
+UBCV,2015,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Yucheng Zhao,218,94.233944954,3.038211946,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,16,201,,,
+UBCV,2016,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,16,91.625,3.304037934,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,14,,,
+UBCV,2016,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Mohamed Wehbe,221,95.61538462,3.241988512,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,209,,,
+UBCV,2017,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,31,88.903225806,4.085379123,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,8,16,,,
+UBCV,2017,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Seungil Paik,216,94.921296296,3.447723912,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,7,204,,,
+UBCV,2018,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung;Sachiben Patel,21,92.761904762,3.8328157,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,17,,,
+UBCV,2018,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Anne Nguyen;Jason Min;Larry Leung,223,96.753363229,2.378048047,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,218,,,
+UBCV,2019,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Rui Shang,221,96.389140271,3.088493261,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,6,214,,,
+UBCV,2019,W,PHRM,212,,001,Medication Management III,Aileen Mira;Anar Dossa;Brian Rodrigues;Charles Au;Charles Yin Ming Au;Fong Chan;Griffin Pauli;Hilary Watson;James Mccormack;Jane Meng Xia;Jillian Reardon;Jonathan Grosshuesch;Katherine Seto;Kerry Wilbur;Larry Leung;Mary Elliot;Maryam Ranjbar Ekbatan;Michelle Fischer;Patricia Gerber;Peter Shane Loewen;Peter Soja;Sachiben Patel;Safa Sadat Ahmadian Hosseini;Tamiz Jamal Kanji;Tessa Nicholl;Truc Nguyen;Truc Thien Thanh Nguyen;Vaughn Chauvin,215,82.009302326,5.62952057,94.0,59.0,,,,,,,,,,,0,0,,,3,8,14,31,85,58,15,,,
+UBCV,2019,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Jason Min;Larry Leung;Shireen Anbardan,13,95.923076923,2.628736657,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCV,2020,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Louis Lin,220,97.090909091,2.475617923,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,214,,,
+UBCV,2020,W,PHRM,212,,001,Medication Management III,Adam Frankel;Aileen Mira;Anar Dossa;Ariana Saatchi;Asal Taheri;Brian Rodrigues;Chae Syng Lee;Charles Au;Charles Yin Ming Au;Colleen Inglis;Fong Chan;Hilary Watson;Jonathan Grosshuesch;Katherine Seto;Kerry Wilbur;Larry Leung;Mary Elliot;Michelle Fischer;Nirma Khatri Vadlamudi;Nirma Vadlamudi;Peter Shane Loewen;Peter Soja;Sepideh Soukhtehzari;Sumreen Javed;Tamiz Jamal Kanji;Tessa Nicholl;Yajie Zhai,220,81.945454545,6.841101094,96.0,59.0,,,,,,,,,,,0,0,,,3,11,24,35,59,58,28,,,
+UBCV,2020,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Jason Min;Larry Leung;Siyue Yu,6,97.666666667,1.211060142,99.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2021,W,PHRM,100,,001,Foundations of Pharmacy,Abby Collier;Adam Frankel;Alexandra Birkenshaw;Ali Reza Ladak;Anil Maharaj;Annalijn Conklin;Brent Page;Brian Rodrigues;Chadwick Hou;Charles Yin Ming Au;Fong Chan;Ingrid Price;Jagpaul Deol;Janice Lynn Moshenko;Jason Min;Jeffrey Proctor;Jennifer Bolt;Jiamin Wu;Judy Wong;Karla Williams;Katherine Seto;Larry Leung;Lynda Eccott;Mark Harrison;Mary De Vera;Ndeye Khady Thiombane;Patricia Gerber;Roxane Carr;Rui Shang;Safa Sadat Ahmadian Hosseini;Sarah Hedtrich;Shyh-Dar Li;Tarique Benbow;Tony Seet;Urs Hafeli,218,83.032110092,6.990044016,96.0,59.0,,,,,,,,,,,0,0,,,2,10,10,34,60,58,41,,,
+UBCV,2021,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Anne Nguyen;Larry Leung,220,98.672727273,2.162820292,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,217,,,
+UBCV,2021,W,PHRM,212,,001,Medication Management III,Adenike Adelakun;Aileen Mira;Alexandra Birkenshaw;Anar Dossa;Asal Taheri;Brian Rodrigues;Chadwick Hou;Colleen Inglis;Fong Chan;Hilary Watson;Jonathan Grosshuesch;Katherine Seto;Kerry Wilbur;Larry Leung;Lisa Cheng;Mary Elliot;Michelle Fischer;Ndeye Khady Thiombane;Peter Shane Loewen;Peter Soja;Rui Shang;Sneha Singh;Tamiz Jamal Kanji;Tarique Benbow;Tessa Nicholl,210,82.042857143,6.258626309,95.0,66.0,,,,,,,,,,,0,0,0,0,4,10,18,41,53,56,28,,,
+UBCV,2021,W,PHRM,261,,001,Indigenous Health and Cultural Safety,Anne Nguyen;Jason Min;Larry Leung,213,98.910798122,1.854755698,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,211,,,
+UBCV,2021,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Jason Min;Larry Leung;Sepideh Soukhtehzari,13,96.153846154,2.409915415,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCV,2021,W,PHRM,100,,001,Foundations of Pharmacy,Jennifer Bolt;Roxane Carr;Fong Chan;Mary De Vera;Lynda Eccott;Adam Frankel;Patricia Gerber;Urs Hafeli;Mark Harrison;Sarah Hedtrich;Ali Reza Ladak;Larry Leung;Shyh-Dar Li;Anil Maharaj;Jason Min;Janice Lynn Moshenko;Brent Page;Ingrid Price;Brian Rodrigues;Tony Seet;Katherine Seto;Karla Williams;Judy Wong,218,83.0,,96.0,59.0,,,,,,,,,,,,,,,,10,10,34,60,58,41,84.0,88.0,79.0
+UBCV,2021,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung,220,98.7,,100.0,86.0,,,,,,,,,,,,,,,,,,,,,217,99.0,100.0,98.0
+UBCV,2021,W,PHRM,212,,001,Medication Management III,Fong Chan;Anar Dossa;Mary Elliot;Michelle Fischer;Jonathan Grosshuesch;Colleen Inglis;Tamiz Jamal Kanji;Larry Leung;Peter Shane Loewen;Aileen Mira;Tessa Nicholl;Brian Rodrigues;Katherine Seto;Peter Soja;Asal Taheri;Hilary Watson;Kerry Wilbur,210,82.0,,95.0,66.0,,,,,,,,,,,,,,,,10,18,41,53,56,28,82.0,87.0,78.0
+UBCV,2021,W,PHRM,261,,001,Indigenous Health and Cultural Safety,Larry Leung;Jason Min,213,98.9,,100.0,88.0,,,,,,,,,,,,,,,,,,,,,211,100.0,100.0,98.0
+UBCV,2021,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Larry Leung;Jason Min,13,96.2,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,97.0,98.0,96.0
+UBCV,2022,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung,217,98.2,,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,209,100.0,100.0,98.0
+UBCV,2022,W,PHRM,212,,001,Medication Management III,Charles Au;Arden Barry;Colleen Brady;Fong Chan;Vaughn Chauvin;Doson Chua;Anar Dossa;Michelle Fischer;Adam Frankel;Jonathan Grosshuesch;Colleen Inglis;Ali Reza Ladak;Larry Leung;Shyh-Dar Li;Peter Shane Loewen;James McCormack;Brian Rodrigues;Tony Seet;Katherine Seto;Peter Soja;Kerry Wilbur;Karla Williams;Jane Meng Xia;Peter Zed,204,82.0,,94.0,67.0,,,,,,,,,,,0,0,0,0,1,5,17,45,68,46,22,82.0,86.0,78.0
+UBCV,2022,W,PHRM,261,,001,Indigenous Health and Cultural Safety,Larry Leung;Jason Min,206,97.5,,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,7,194,100.0,100.0,95.3
+UBCV,2022,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Larry Leung;Jason Min,12,98.0,,100.0,97.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,98.0,98.0,97.8
+UBCV,2023,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung,225,98.4,,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,1,220,99.0,100.0,98.0
+UBCV,2023,W,PHRM,212,,001,Medication Management III,Charles Au;Arden Barry;Colleen Brady;Fong Chan;Vaughn Chauvin;Solomon Chow;Anar Dossa;Michelle Fischer;Adam Frankel;Jonathan Grosshuesch;Ali Reza Ladak;Kathleen Lau;Larry Leung;Peter Shane Loewen;Brian Rodrigues;Tony Seet;Katherine Seto;Peter Soja;Adeline Tan;Kerry Wilbur;Jane Meng Xia,224,80.51,,95.0,59.0,,,,,,,,,,,2,0,0,0,0,16,32,46,59,49,17,81.0,85.0,76.0
+UBCV,2023,W,PHRM,261,,001,Indigenous Health and Cultural Safety,Larry Leung;Jason Min,221,97.46,,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,0,8,209,99.0,100.0,97.0
+UBCV,2023,W,PHRM,323,,001,Pharmaceutical Care in Indigenous Health,Larry Leung;Jason Min,12,94.0,,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,96.0,97.0,92.75

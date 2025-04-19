@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,PHTH,566,,921,CLIN MAKE IV,"George, Timberly;Lowcock, Janet;Lundie, Janet;Paul, Susan",78,91.81,2.26,96,86,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,68,,,
+UBC,2018,S,PHTH,566,,921,CLIN MAKE IV,"George, Timberly;Lowcock, Janet;Lundie, Janet;Paul, Susan",79,92.71,2.5,97,88,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,69,,,
+UBCV,2017,S,PHTH,566,,921,Clinical Decision-Making IV,Bethan Everett;Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,78,91.807692308,2.256636345,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,68,,,
+UBCV,2017,W,PHTH,514,,001,Clinical Practice I,Aart Van Gorkum;Anne Rankin;April Campbell;Eva Dicasmirro;Ian Denison;Jill Longhurst;Joanna Varley;Lesley Schwab;Leslie Schwab;Michelle Heneghan;Natalie Grant;Ramsey Ezzat;Sean Campbell;Simone Gruenig;Susan Kesteloot;Timberly George;Tracy Barber;Tyler Dumont,78,85.282051282,3.88101418,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,30,30,14,,,
+UBCV,2018,S,PHTH,566,,921,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,92.708860759,2.50206017,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,69,,,
+UBCV,2019,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,93.164556962,1.80760771,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,,,
+UBCV,2020,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,78,93.41025641,2.200566028,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,73,,,
+UBCV,2021,S,PHTH,566,,922,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,95.784810127,2.560403044,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,,,
+UBCV,2021,S,PHTH,566,,922,Clinical Decision-Making IV,Timberly George;Janet Lowcock;Janet Lundie;Susan Paul,79,95.8,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,79,95.0,98.0,93.5

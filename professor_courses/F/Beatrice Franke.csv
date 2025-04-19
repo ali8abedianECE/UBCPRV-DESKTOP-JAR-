@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,PHYS,409,A,101,EXPTL PHYSICS,"Franke, Beatrice;Madison, Kirk",22,80.14,9.88,98,60,21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,6,2,5,0,5,,,
+UBCV,2018,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Chen Ge Qu;Erik Frieling;Kirk Madison;Nikita Bernier;Wojciech Fedorko,21,80.142857143,9.880717152,98.0,60.0,,,,,,,,,,,0,0,0,1,0,2,6,2,5,0,5,,,
+UBCV,2019,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Chen Ge Qu;Daniel Aaron Yates;Daniel Yates;Jonah Berean-Dutcher;Jonah Michael Berean-Dutcher;Kirk Madison,20,79.35,21.171666767,98.0,0.0,,,,,,,,,,,1,0,1,1,0,0,0,2,4,6,5,,,
+UBCV,2020,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Chen Ge Qu;Daniel Yates;Jonah Berean-Dutcher;Jonah Michael Berean-Dutcher;Kirk Madison,15,81.666666667,12.871156384,99.0,59.0,,,,,,,,,,,0,0,1,2,0,0,1,0,5,1,5,,,
+UBCV,2021,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Daniel Yates;Erik Frieling;Francisco Levy De Castro;Jonah Berean-Dutcher;Kirk Madison;Sean Vanbergen,16,80.8125,11.548268268,96.0,52.0,,,,,,,,,,,0,1,0,1,0,0,2,2,4,3,3,,,
+UBCV,2021,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Francisco Levy De Castro,16,80.8,,96.0,52.0,,,,,,,,,,,,,,,,,,,,,,83.5,87.3,77.0
+UBCV,2022,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Francisco Levy de Castro;Kirk Madison,12,81.3,,93.0,34.0,,,,,,,,,,,1,0,0,0,0,0,1,2,1,4,3,86.5,89.8,78.8

@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,SPAN,358,,201,PEN LIT FRM 1700,"Ansa Goicoechea, Elixabete",28,74.25,8.47,90,59,28,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3,6,4,6,2,1
+UBC,2010,W,SPAN,430,A,101,PEN LIT 18C-PRES,"Ansa Goicoechea, Elixabete",13,80.31,8.29,90,58,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,2,2,2
+UBC,2011,S,RMST,222,,951,LIT&CULT RMNC II,"Ansa Goicoechea, Elixabete",22,75.41,6.4,87,57,17,0,3,0,0,0,0,0,0,0,0,0,1,0,0,2,5,4,4,1,0
+UBC,2011,W,SPAN,206,,103,CONVERS SPAN I,"Ansa Goicoechea, Elixabete",23,78.91,7.65,95,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,6,4,4,2
+UBC,2011,W,SPAN,405,C,201,TPCS PNS&LTN-A C,"Ansa Goicoechea, Elixabete",28,76.48,7.22,86,57,27,0,1,0,0,0,0,0,0,0,0,0,2,0,0,2,7,6,7,3,0
+UBC,2011,W,SPAN,500,,001,SEMR HISP STUDYS,"Ansa Goicoechea, Elixabete;Beasley-Murray, Jonathan",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,SPAN,504,,201,STD HISP CINEMA,"Ansa Goicoechea, Elixabete",6,81.67,0.82,83,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+UBC,2012,W,RMST,420,D,201,RMNCE LANG & LIT,"Ansa Goicoechea, Elixabete",20,77.2,7.79,90,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,1,4,3,1
+UBC,2012,W,SPAN,221,,102,INT LIT ANALYSIS,"Ansa Goicoechea, Elixabete",25,77.32,6.88,87,65,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5,4,5,5,0
+UBC,2012,W,SPAN,404,B,201,TPCS HISP CINEMA,"Ansa Goicoechea, Elixabete",26,77.88,8.61,92,65,24,0,2,0,0,0,0,0,0,0,0,0,0,0,4,4,2,4,4,2,4
+UBC,2014,W,SPAN,101,,102,BEGINNER SPAN I,"Ansa Goicoechea, Elixabete",34,73.06,11.99,98,48,32,2,0,0,0,0,0,0,0,2,2,1,1,1,5,3,9,4,3,2,3
+UBC,2014,W,SPAN,222,,101,ANALYS HISP TXT,"Ansa Goicoechea, Elixabete",8,82.88,3.09,87,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0
+UBC,2014,W,SPAN,301,,103,ADVANCED SPAN I,"Ansa Goicoechea, Elixabete",30,78.66,9.15,93,59,29,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,6,5,3,6,4
+UBCV,2014,W,SPAN,101,,102,Beginners' Spanish I,Elixabete Ansa Goicoechea,34,73.05882353,11.99227321,98.0,48.0,,,,,,,,,,,,,,,5,,9,,,,
+UBCV,2014,W,SPAN,222,,101,Introduction to the Analysis of Hispanic Cultural Texts,Elixabete Ansa Goicoechea,8,82.875,3.090885218,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,SPAN,301,,103,Advanced Spanish I,Elixabete Ansa Goicoechea,30,78.63333333,8.992269988,93.0,59.0,,,,,,,,,,,0,0,,,,,6,6,3,6,

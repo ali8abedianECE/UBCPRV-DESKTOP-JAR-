@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Gabriel Rebello Guerreiro;Joseph Salfi,21,75.428571429,9.952745493,86.0,52.0,0,1,0,2,2,2,2,2,5,5,0
+UBCV,2019,S,BMEG,591,M,942,Topics in Biomedical Engineering,Delaram Behnami;Gabriel Rebello Guerreiro;Mohammad Reza Yousefidarestani;Mohammadjavad Shariatzadeh;Ravneet Kaur;Sarah Romani;Sharareh Bayat,7,91.714285714,6.62606685,99.0,84.0,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2019,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh;Ehsanur Rahman;Gabriel Rebello Guerreiro;Kevin Voon;Mukhlasur Rahman Tanvir;Parisa Asgharzadeh,112,71.517857143,12.268748949,98.0,15.0,2,5,8,8,14,15,23,11,14,2,10
+UBCV,2019,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Rubinderjit Singh Nagi;Shahriar Mirabbasi,126,89.96031746,7.658094587,100.0,68.0,0,0,0,0,0,2,2,7,20,13,82
+UBCV,2020,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh;Ehsanur Rahman;Gabriel Rebello Guerreiro;Kevin Voon;Mukhlasur Rahman Tanvir,138,66.855072464,13.995594054,97.0,22.0,17,5,16,9,12,17,26,18,8,5,5
+UBCV,2020,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Parsa Riahi;Rubinderjit Singh Nagi;Shahriar Mirabbasi,125,95.568,5.49829299,100.0,70.0,0,0,0,0,0,1,1,1,1,7,114
+UBCV,2021,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh;Gabriel Rebello Guerreiro;Karim Elkholy;Mukhlasur Rahman Tanvir;Pegah Tekieh,138,59.463768116,13.274287433,95.0,17.0,27,16,19,15,26,11,11,9,2,1,1
+UBCV,2021,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Hedieh Alipour;Prasham Jain;Shahriar Mirabbasi,124,95.677419355,8.477179684,100.0,51.0,0,1,0,1,2,0,1,0,4,6,109
+UBCV,2021,W,ELEC,205,,L1A,Electronics Laboratory,Edmond Cretu;Gabriel Rebello Guerreiro;Jonas Welsch,21,83.714285714,10.237884826,98.0,64.0,0,0,0,0,1,4,0,1,0,7,8
+UBCV,2021,W,ELEC,205,,L1B,Electronics Laboratory,Edmond Cretu;Gabriel Rebello Guerreiro;Jonas Welsch,21,87.19047619,10.32288258,100.0,68.0,0,0,0,0,0,2,1,0,5,3,10
+UBCV,2021,W,ELEC,205,,L1C,Electronics Laboratory,Edmond Cretu;Gabriel Rebello Guerreiro;Jonas Welsch,18,90.0,11.061326375,100.0,55.0,0,0,1,0,0,0,0,0,2,3,12

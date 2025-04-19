@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,FNLG,200,B,02B,FIRST NATIONS LG,"*Marny Point;Campbell, Fiona;Point, Marny",7,65.14,30.98,97,0,6,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,0,1,,,
+UBC,2007,W,FNLG,100,B,01B,FIRST NATIONS LG,"Campbell, Fiona;Grant, Larry",21,73.2,11.14,90,60,10,0,2,9,0,0,0,0,0,0,0,0,0,2,2,1,2,0,0,2,1,,,
+UBC,2015,W,FNEL,101,,001,INTRO SALISH I,"Campbell, Fiona;Grant, Larry",40,76.21,13.31,99,50,38,0,2,0,0,0,0,0,0,0,0,3,2,2,2,5,3,3,8,3,7,,,
+UBC,2015,W,FNEL,102,,002,INTRO SALISH II,"Campbell, Fiona;Grant, Larry",24,78.55,11.97,93,56,22,0,2,0,0,0,0,0,0,0,0,0,2,2,2,0,1,3,1,7,4,,,
+UBC,2016,W,FNEL,101,,001,INTRO SALISH I,"Campbell, Fiona;Grant, Larry",38,81.32,12.39,98,26,36,1,1,0,0,0,0,1,0,0,1,0,0,0,2,1,4,6,4,12,7,,,
+UBC,2016,W,FNEL,102,,001,INTRO SALISH II,"Campbell, Fiona;Grant, Larry",26,81.88,8.11,96,62,25,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,9,5,4,,,
+UBC,2017,W,FNEL,101,,001,INTRO SALISH I,"Campbell, Fiona;Grant, Larry",24,84.45,7.31,95,69,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,2,6,4,7,,,
+UBC,2017,W,FNEL,102,,001,INTRO SALISH II,"Campbell, Fiona;Grant, Larry",13,81.25,12.7,93,64,12,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,1,6,,,
+UBC,2018,W,FNEL,101,,001,INTRO SALISH I,"Campbell, Fiona;Grant, Larry",29,83.68,10.04,96,61,25,0,2,2,0,0,0,0,0,0,0,0,0,1,1,1,1,3,5,3,10,,,
+UBC,2018,W,FNEL,102,,001,INTRO SALISH II,"Campbell, Fiona;Grant, Larry",19,87.67,7.32,98,74,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,10,,,
+UBCV,2015,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,38,76.210526316,13.311563546,99.0,50.0,,,,,,,,,,,0,,,,,5,,,8,,7,,,
+UBCV,2015,W,FNEL,102,,002,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,22,78.545454545,11.971105183,93.0,56.0,,,,,,,,,,,0,0,,,,,,,,7,,,,
+UBCV,2016,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,37,81.32432432,12.39411611,98.0,26.0,,,,,,,,,,,1,0,0,0,2,1,4,6,4,12,7,,,
+UBCV,2016,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,25,81.88,8.110281541,96.0,62.0,,,,,,,,,,,0,0,0,1,1,1,1,3,9,5,4,,,
+UBCV,2017,W,FNEL,101,,001,Introduction to a Salish Language I,Daisy Rosenblum;Fiona Campbell;Larry Grant,22,84.454545455,7.307708081,95.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,2,6,4,7,,,
+UBCV,2017,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant;Patrick Moore,12,81.25,12.700214744,93.0,64.0,,,,,,,,,,,0,0,0,0,4,0,0,1,0,1,6,,,
+UBCV,2018,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant;Patricia Shaw,25,83.68,10.036267567,96.0,61.0,,,,,,,,,,,0,0,0,1,1,1,1,3,5,3,10,,,
+UBCV,2018,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant;Patricia Shaw,20,81.65,21.689859382,98.0,0.0,,,,,,,,,,,1,0,1,0,0,0,1,3,1,3,10,,,
+UBCV,2019,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,32,85.46875,8.42417556,99.0,67.0,,,,,,,,,,,0,0,0,0,1,1,3,2,7,5,13,,,
+UBCV,2019,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,19,84.842105263,8.871071324,98.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,0,7,3,6,,,
+UBCV,2021,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,9,89.0,5.315072906,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,4,,,
+UBCV,2021,W,FNEL,102,,001,Introduction to a Salish Language II,Charla Grace Point Bassett;Fiona Campbell;Larry Grant,9,91.444444444,3.12694384,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,W,FNEL,201,,001,Intermediate Salish Language I,Charla Grace Point;Charla Grace Point Bassett;Fiona Campbell,12,78.0,23.112373703,100.0,20.0,,,,,,,,,,,1,0,1,0,1,0,2,0,1,1,5,,,
+UBCV,2021,W,FNEL,202,,001,Intermediate Salish Language II,Charla Grace Point Bassett;Fiona Campbell;Larry Grant,9,86.222222222,6.476453076,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,3,3,,,
+UBCV,2021,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,9,89.0,,96.0,79.0,,,,,,,,,,,,,,,,,,,,,,88.0,93.0,86.0
+UBCV,2021,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,9,91.4,,95.0,85.0,,,,,,,,,,,,,,,,,,,,,7,92.0,94.0,90.0
+UBCV,2022,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,24,84.2,,99.0,53.0,,,,,,,,,,,0,1,1,0,0,1,2,2,4,3,10,86.5,93.3,78.0
+UBCV,2022,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,21,84.1,,100.0,50.0,,,,,,,,,,,0,1,0,0,1,1,1,2,4,3,8,85.0,95.0,76.0
+UBCV,2023,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant,32,77.24,,100.0,10.0,,,,,,,,,,,1,3,1,2,1,2,0,2,2,5,10,85.0,91.0,65.0
+UBCV,2023,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant,19,81.06,,100.0,32.0,,,,,,,,,,,1,0,0,2,0,0,3,1,1,2,7,86.0,96.0,74.0

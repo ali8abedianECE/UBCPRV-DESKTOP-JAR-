@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,LIBR,580,,001,COLLECTION MGMT,"Broadley, Louise",14,88.14,3.59,93,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6
+UBC,2011,W,LIBR,580,,001,COLLECTION MGMT,"Broadley, Louise",21,87.5,2.31,92,83,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,4
+UBC,2011,W,LIBR,580,,002,COLLECTION MGMT,"Broadley, Louise",29,86.07,3.81,93,79,28,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,14,4
+UBC,2012,W,LIBR,580,,001,COLLECTION MGMT,"Broadley, Louise",29,87.36,3,93,80,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,18,7
+UBC,2013,S,ARST,570,,942,MANGMT INFO ORGS,"Broadley, Louise",4,87.75,1.71,90,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2013,S,LIBR,504,,942,INFO ORG MGMT,"Broadley, Louise",18,87.5,3.2,91,81,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,7
+UBC,2013,W,LIBR,574,,002,PROJ MANAGEMENT,"Broadley, Louise;Olsen, Anne",22,89.45,3.38,96,81,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,11
+UBC,2014,W,LIBR,504,,001,INFO ORG MGMT,"Broadley, Louise",22,86.67,6.09,97,71,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,5,9,5
+UBC,2014,W,LIBR,504,,002,INFO ORG MGMT,"Broadley, Louise",36,85.48,9.9,96,36,30,1,1,0,4,0,0,0,1,0,1,0,0,0,0,0,0,1,5,19,5
+UBC,2015,S,LIBR,580,,942,COLLECTION MGMT,"Broadley, Louise",34,89.13,2.57,95,82,30,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,12
+UBC,2015,W,ARST,570,,001,MANGMT INFO ORGS,"Broadley, Louise;Olsen, Anne",5,89.8,2.95,95,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2015,W,ARST,570,,002,MANGMT INFO ORGS,"Broadley, Louise;Olsen, Anne",6,90.67,2.25,93,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2015,W,LIBR,504,,001,INFO ORG MGMT,"Broadley, Louise;Olsen, Anne",34,88.03,5.24,96,67,33,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,20,10
+UBC,2015,W,LIBR,504,,002,INFO ORG MGMT,"Broadley, Louise;Olsen, Anne",30,87.97,3.73,97,83,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,9
+UBCV,2014,W,LIBR,504,,001,Management of Information Organizations,Louise Broadley,21,86.66666667,6.085501897,97.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,5,9,5
+UBCV,2014,W,LIBR,504,,002,Management of Information Organizations,Anne Olsen;Louise Broadley,31,85.48387097,9.902427203,96.0,36.0,,,,,,,,,,,,,,,,,,,5,19,5
+UBCV,2015,S,LIBR,580,,942,Collection Management,Louise Broadley,30,89.13333333,2.56949389,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,16,12
+UBCV,2015,W,ARST,570,,001,Management of Information Organizations,Anne Olsen;Louise Broadley,5,89.8,2.949576241,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,ARST,570,,002,Management of Information Organizations,Anne Olsen;Louise Broadley,6,90.666666667,2.250925735,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,LIBR,504,,001,Management of Information Organizations,Anne Olsen;Louise Broadley,33,88.03030303,5.240973481,96.0,67.0,,,,,,,,,,,0,0,0,0,,,,,1,20,10
+UBCV,2015,W,LIBR,504,,002,Management of Information Organizations,Anne Olsen;Louise Broadley,29,87.965517241,3.727147115,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,14,9

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ENGR,362,,101,Digital Signal Processing I,Julian Cheng,33,77.66666667,10.4063282,93.0,57.0,0,0,,,,,,,9,,5,,,
+UBCO,2014,W,ENGR,460,,101,Probability and Random Processes for Engineers,Julian Cheng,32,63.0,20.23251934,97.0,19.0,,11,,,,,,,,,5,,,
+UBCO,2014,W,ENGR,560,,001,Probability and Random Processes for Engineers,Julian Cheng,12,85.16666667,12.40845264,100.0,65.0,0,0,0,0,,,,,,,5,,,
+UBCO,2014,W,ENGR,564,,201,Fundamentals of Digital Communications,Julian Cheng,11,90.90909091,2.586679163,95.0,86.0,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCO,2015,W,ENGR,362,,101,Digital Signal Processing I,Fang Fang;Hao Liu;Julian Cheng,54,71.222222222,12.480424924,100.0,45.0,,,9,,5,6,8,6,,7,,,,
+UBCO,2015,W,ENGR,460,,101,Probability and Random Processes for Engineers,Chunpu Wang;Guanshan Ye;Julian Cheng,42,69.952380952,16.288485206,98.0,32.0,,,5,,,5,,,6,,5,,,
+UBCO,2015,W,ENGR,560,,001,Probability and Random Processes for Engineers,Julian Cheng,7,76.571428571,14.057704209,99.0,56.0,0,0,,,,,,,,,,,,
+UBCO,2016,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng,35,52.4,19.03587944,97.0,5.0,8,11,2,7,3,0,1,0,1,1,1,,,
+UBCO,2016,W,ENGR,362,,101,Digital Signal Processing I,Julian Cheng,57,73.68421053,11.97789317,97.0,25.0,1,1,2,3,8,11,5,4,12,6,4,,,
+UBCO,2016,W,ENGR,460,,101,Probability and Random Processes for Engineers,Julian Cheng,54,64.96296296,14.36447789,100.0,50.0,0,17,2,8,8,4,5,0,2,3,5,,,
+UBCO,2016,W,ENGR,550,,201,Random Processes for Engineers,Julian Cheng,7,81.14285714,5.899959645,88.0,72.0,0,0,0,0,0,0,1,1,2,3,0,,,
+UBCO,2016,W,ENGR,560,,101,Probability and Random Processes for Engineers,Julian Cheng,6,80.16666667,11.46152986,96.0,61.0,0,0,0,1,0,0,0,1,2,1,1,,,
+UBCO,2017,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng;Pengxia Wu,76,66.736842105,15.033623135,100.0,35.0,6,11,8,9,8,9,8,4,2,5,6,,,
+UBCO,2017,W,ENGR,362,,101,Digital Signal Processing I,Fang Fang;Julian Cheng,62,71.403225806,13.167844188,96.0,18.0,2,1,5,9,6,7,7,6,10,5,4,,,
+UBCO,2017,W,ENGR,460,,101,Probability and Random Processes for Engineers,Julian Cheng,12,80.083333333,15.894300484,100.0,55.0,0,0,1,2,0,1,0,2,0,1,5,,,
+UBCO,2017,W,ENGR,461,,101,Digital Communications,Julian Cheng;Saeed Moghaddam,8,65.25,28.125992046,91.0,20.0,2,0,0,1,0,0,0,2,0,2,1,,,
+UBCO,2018,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng,77,69.402597403,14.224015774,100.0,24.0,4,6,6,7,9,12,6,11,7,4,5,,,
+UBCO,2018,W,ENGR,362,,101,Digital Signal Processing I,Julian Cheng;Md Hossain,78,74.688311688,15.331649189,100.0,31.0,3,4,7,6,5,5,9,3,12,8,15,,,
+UBCO,2018,W,ENGR,461,,101,Digital Communications,Julian Cheng;Zhenyu Zhang,11,77.545454545,9.750524461,98.0,60.0,0,0,0,1,0,1,2,3,2,1,1,,,
+UBCO,2019,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng;Md Hassan;Md Zoheb Hassan;Pengxia Wu,107,71.710280374,16.957777392,100.0,0.0,6,7,11,8,5,9,12,9,15,14,11,,,
+UBCO,2019,W,ENGR,461,,101,Digital Communications,Hassan Mohammadnavazi;Julian Cheng;Saeed Moghaddam,9,85.111111111,12.025436005,100.0,63.0,0,0,0,1,0,0,1,0,3,0,4,,,
+UBCO,2019,W,ENGR,560,,101,Probability and Random Processes for Engineers,Julian Cheng;Md Hassan;Md Zoheb Hassan,6,88.333333333,6.623191577,96.0,80.0,0,0,0,0,0,0,0,0,2,1,3,,,
+UBCO,2020,S,ENGR,598,S,101,Topics in Engineering,Dimitry Sediako;Ekram Hossain;Hossain Ekram;Julian Cheng;Md Hossain,23,90.086956522,4.888883898,97.0,76.0,0,0,0,0,0,0,0,1,1,7,14,,,
+UBCO,2020,W,APSC,258,,202,Applications of Engineering Design,Ali Maleki Gargari;Bradley Reinholz;Hibatallah Alwazani;Julian Cheng;Pengxia Wu;Qiyang Tan;Sadia Ishaq;Sadia Munia;Sevda Mohammadi Gharalar,140,74.642857143,13.725506073,97.0,15.0,10,0,4,7,13,15,18,19,16,26,12,,,
+UBCO,2020,W,ENGR,360,,101,Engineering Probability and Statistics.,Adnan Sajid;Julian Cheng;Md Hassan;Qurrat Ul Ain Nadeem;Sarah Bahanshal,104,76.846153846,12.991983511,100.0,30.0,4,2,2,2,8,9,16,11,23,11,16,,,
+UBCO,2020,W,ENGR,509,,001,Intelligent Wireless Robotics,Chen Feng;Julian Cheng;Wei Li,11,84.363636364,6.607158652,95.0,76.0,0,0,0,0,0,0,0,3,2,3,3,,,
+UBCO,2021,W,ENGR,360,,101,Engineering Probability and Statistics.,Adnan Sajid;Julian Cheng;Qurrat Ul Ain Nadeem;Sarah Bahanshal,83,61.78313253,20.509395939,95.0,4.0,18,4,4,9,10,6,11,4,10,6,1,,,
+UBCO,2021,W,ENGR,509,,001,Intelligent Wireless Robotics,Julian Cheng;Pengxia Wu,30,82.9,10.5384354,98.0,60.0,0,0,0,1,3,1,2,4,3,7,9,,,
+UBCO,2021,W,ENGR,512,,001,"Signals, Systems, and Inference",Julian Cheng;Thomas Johnson,30,68.933333333,22.179414708,99.0,0.0,8,0,0,2,2,5,0,2,2,2,7,,,
+UBCO,2021,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng,82,62.3,,95.0,4.0,17,,,9,10,6,11,,10,6,,66.5,75.8,53.8
+UBCO,2021,W,ENGR,512,,001,"Signals, Systems, and Inference",Julian Cheng,30,68.9,,99.0,0.0,8,,,,,,,,,,7,70.0,86.5,57.3
+UBCO,2023,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng,85,65.9,,100.0,28.0,15,7,7,6,8,7,10,3,8,8,6,67.0,80.0,54.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,ENGR,501,,001,Deep and Reinforcement Learning for Engineers,Julian Cheng,15,91.2,,98.0,83.0,0,0,0,0,0,0,0,0,3,2,10,92.0,95.5,88.0

@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,CHEM,123,,L02,THM KIN ORG CHEM,"Racicot, Leanne",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,121,,L02,STRCTR BOND CHEM,"Racicot, Leanne",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,121,,L06,STRCTR BOND CHEM,"Racicot, Leanne",9,,,,,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,121,,L09,STRCTR BOND CHEM,"Racicot, Leanne",10,,,,,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,61.33,14.15,70,45,2,1,2,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,0,0
+UBC,2016,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",4,65.75,17.46,79,41,3,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,2,0,0,0
+UBC,2016,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,75.2,6.42,85,69,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,0
+UBC,2016,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",28,75.37,4.99,85,66,27,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5,5,10,4,1,0
+UBC,2016,W,CHEM,315,,L1C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",14,75.14,3.84,81,71,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,2,0,0
+UBC,2016,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",26,73.23,11.72,82,23,25,1,0,0,0,0,0,1,0,0,1,0,0,1,2,3,6,5,8,0,0
+UBC,2016,W,CHEM,315,,L3C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,76.4,6.69,82,66,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,0
+UBC,2016,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",23,73.3,9.31,84,40,22,1,0,0,0,0,0,0,0,1,1,0,1,0,1,4,6,5,5,0,0
+UBC,2016,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",19,68.37,8.23,79,50,19,0,0,0,0,0,0,0,0,0,0,2,1,0,2,6,5,3,0,0,0
+UBC,2016,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",24,75.79,11.68,90,44,22,2,0,0,0,0,0,0,0,2,2,0,0,1,0,3,4,1,11,0,2
+UBC,2016,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",18,70.06,8.79,85,45,17,1,0,0,0,0,0,0,0,1,1,0,0,1,4,5,2,4,0,1,0
+UBC,2016,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,77,2.97,80,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,0
+UBC,2016,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,72.4,7.92,80,62,5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,0,0
+UBC,2016,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",5,75.4,7.2,84,64,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,0,0
+UBC,2016,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Stoodley, Robin",6,77.33,6.71,90,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,1
+UBC,2016,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Racicot, Leanne;Rodriguez Nunez, Jose;Stoodley, Robin",10,73,5.96,84,66,10,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,0,2,0,0

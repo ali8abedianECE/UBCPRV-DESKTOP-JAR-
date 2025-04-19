@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MATH,103,,208,INT CALC AP LF S,"Hu, Fei",48,64.36,19.84,97,0,33,9,5,0,1,1,0,0,2,6,9,5,3,0,3,6,3,1,6,3,3
+UBC,2018,S,MATH,105,,951,INT CALC AP C&SS,"Hu, Fei",125,66.11,16.25,99,0,105,11,6,0,3,1,1,1,5,3,11,10,12,15,13,16,13,2,9,7,8
+UBC,2018,W,MATH,103,,202,INT CALC AP LF S,"Hu, Fei",80,70.85,12.05,95,34,75,5,0,0,0,0,0,0,1,4,5,3,3,9,13,8,7,12,12,3,5
+UBC,2018,W,MATH,103,,208,INT CALC AP LF S,"Hu, Fei",59,68.74,12.72,93,42,55,3,1,0,0,0,0,0,0,3,3,5,7,7,7,4,7,4,6,5,3
+UBCV,2017,W,MATH,103,,208,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Fei Hu,43,63.069767442,21.342329222,97.0,0.0,,,,,,,,,,,10,5,3,0,3,6,3,1,6,3,3
+UBCV,2018,W,MATH,103,,202,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Alastair Jamieson-Lane;Fei Hu;Michael Walter Doebeli;Rebeca Cardim Falcao,80,70.85,12.053782431,95.0,34.0,,,,,,,,,,,5,3,3,9,13,8,7,12,12,3,5
+UBCV,2018,W,MATH,103,,208,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Alastair Jamieson-Lane;Fei Hu;Michael Walter Doebeli;Rebeca Cardim Falcao,58,68.74137931,12.724558855,93.0,42.0,,,,,,,,,,,3,5,7,7,7,4,7,4,6,5,3

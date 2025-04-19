@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,AUDI,516,C,001,DISCOURSE ANYL,"Howe, Tami",23,84.43,1.73,88,81,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,9,0,,,
+UBC,2015,W,AUDI,586,,001,ACQ LANG DIS II,"Howe, Tami",23,85.35,3.23,90,78,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,14,1,,,
+UBC,2016,W,AUDI,516,C,001,DISCOURSE ANYL,"Howe, Tami;Sinden, Eavan",30,84.83,2.05,88,79,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,17,0,,,
+UBC,2016,W,AUDI,526,,001,ACQUIRED LNG DIS,"Howe, Tami",37,83.54,3.72,91,75,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,15,15,1,,,
+UBC,2016,W,AUDI,586,,001,ACQ LANG DIS II,"Howe, Tami;Sinden, Eavan",30,84.83,2.05,88,79,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,17,0,,,
+UBC,2017,W,AUDI,516,C,001,DISCOURSE ANYL,"Howe, Tami;Sinden, Eavan;Small, Jeff",36,85.19,1.43,89,82,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,25,0,,,
+UBC,2017,W,AUDI,526,,001,ACQUIRED LNG DIS,"Duke, Wendy;Howe, Tami",35,85.86,2.99,94,80,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,21,3,,,
+UBC,2017,W,AUDI,540,,002,FIRST NATIONS,"Howe, Tami;Shahnaz, Navid",49,91.43,1.95,94,84,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,43,,,
+UBC,2017,W,AUDI,572,,001,COG PROC & ALD,"Howe, Tami;Sinden, Eavan;Small, Jeff",36,85.19,1.43,89,82,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,25,0,,,
+UBC,2017,W,AUDI,586,,001,ACQ LANG DIS II,"Howe, Tami;Sinden, Eavan;Small, Jeff",36,85.19,1.43,89,82,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,25,0,,,
+UBC,2018,W,AUDI,516,C,001,DISCOURSE ANYL,"Howe, Tami;Sinden, Eavan;Small, Jeff",33,86.42,1.12,89,84,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,32,0,,,
+UBC,2018,W,AUDI,526,,001,ACQUIRED LNG DIS,"Howe, Tami",37,85.89,2.92,93,80,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,22,3,,,
+UBC,2018,W,AUDI,572,,001,COG PROC & ALD,"Howe, Tami;Sinden, Eavan;Small, Jeff",33,86.42,1.12,89,84,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,32,0,,,
+UBC,2018,W,AUDI,586,,001,ACQ LANG DIS II,"Howe, Tami;Sinden, Eavan;Small, Jeff",33,86.42,1.12,89,84,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,32,0,,,
+UBCV,2015,W,AUDI,516,C,001,Discourse Analysis,Tami Howe,23,84.434782609,1.727480745,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,14,9,0,,,
+UBCV,2015,W,AUDI,586,,001,Acquired Language Disorders II,Tami Howe,23,85.347826087,3.227843294,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,7,14,,,,
+UBCV,2016,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Tami Howe,30,84.83333333,2.052472577,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,17,0,,,
+UBCV,2016,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,37,83.54054054,3.716289926,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,15,15,1,,,
+UBCV,2016,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Tami Howe,30,84.83333333,2.052472577,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,17,0,,,
+UBCV,2017,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Jeff Small;Tami Howe,36,85.194444444,1.430673057,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,25,0,,,
+UBCV,2017,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,35,85.857142857,2.991584836,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,21,3,,,
+UBCV,2017,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M���tis or Inuit Heritage",Navid Shahnaz;Tami Howe,49,91.428571429,1.947220241,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,43,,,
+UBCV,2017,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Eavan Sinden;Jeff Alan Small;Jeff Small;Tami Howe,36,85.194444444,1.430673057,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,25,0,,,
+UBCV,2017,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Jeff Small;Tami Howe,36,85.194444444,1.430673057,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,25,0,,,
+UBCV,2018,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Jeff Small;Tami Howe,34,86.441176471,1.10621321,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,33,0,,,
+UBCV,2018,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,37,85.891891892,2.922934064,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,22,3,,,
+UBCV,2018,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Eavan Sinden;Jeff Small;Tami Howe,34,86.441176471,1.10621321,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,33,0,,,
+UBCV,2018,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Jeff Small;Tami Howe,34,86.441176471,1.10621321,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,33,0,,,
+UBCV,2019,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Jeff Small;Tami Howe,38,86.473684211,1.20217915,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,37,1,,,
+UBCV,2019,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,37,86.459459459,2.986958641,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,24,5,,,
+UBCV,2019,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Eavan Sinden;Jeff Small;Tami Howe,38,86.473684211,1.20217915,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,37,1,,,
+UBCV,2019,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Jeff Small;Tami Howe,38,86.473684211,1.20217915,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,37,1,,,
+UBCV,2020,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Jeff Small;Tami Howe,36,86.055555556,1.620307633,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,31,0,,,
+UBCV,2020,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,36,88.388888889,2.566573901,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,20,14,,,
+UBCV,2020,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Eavan Sinden;Jeff Small;Tami Howe,36,86.055555556,1.620307633,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,31,0,,,
+UBCV,2020,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Jeff Small;Tami Howe,36,86.055555556,1.620307633,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,31,0,,,
+UBCV,2021,W,AUDI,516,C,001,Discourse Analysis,Eavan Sinden;Jeff Small;Tami Howe,36,86.694444444,2.816476466,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,31,1,,,
+UBCV,2021,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe;Wendy Duke,36,87.277777778,2.185812841,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,29,4,,,
+UBCV,2021,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Eavan Sinden;Jeff Small;Tami Howe,36,86.694444444,2.816476466,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,31,1,,,
+UBCV,2021,W,AUDI,586,,001,Acquired Language Disorders II,Eavan Sinden;Jeff Small;Tami Howe,36,86.694444444,2.816476466,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,31,1,,,
+UBCV,2021,W,AUDI,516,C,001,Discourse Analysis,Tami Howe;Eavan Sinden;Jeff Small,36,86.7,,90.0,73.0,,,,,,,,,,,,,,,,,,,,31,,87.0,88.0,86.0
+UBCV,2021,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe,36,87.3,,91.0,80.0,,,,,,,,,,,,,,,,,,,,29,,87.0,89.0,86.0
+UBCV,2021,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Tami Howe;Eavan Sinden;Jeff Small,36,86.7,,90.0,73.0,,,,,,,,,,,,,,,,,,,,31,,87.0,88.0,86.0
+UBCV,2021,W,AUDI,586,,001,Acquired Language Disorders II,Tami Howe;Eavan Sinden;Jeff Small,36,86.7,,90.0,73.0,,,,,,,,,,,,,,,,,,,,31,,87.0,88.0,86.0
+UBCV,2022,W,AUDI,516,C,001,Discourse Analysis,Tami Howe;Eavan Sinden;Jeff Small,36,85.8,,88.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,34,0,86.0,86.0,85.0
+UBCV,2022,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe,36,86.3,,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,19,6,86.0,88.0,84.0
+UBCV,2022,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Tami Howe;Eavan Sinden;Jeff Small,36,85.8,,88.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,34,0,86.0,86.0,85.0
+UBCV,2022,W,AUDI,586,,001,Acquired Language Disorders II,Tami Howe;Eavan Sinden;Jeff Small,36,85.8,,88.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,34,0,86.0,86.0,85.0
+UBCV,2023,W,AUDI,516,C,001,Discourse Analysis,Katharine Davies;Tami Howe;Eavan Sinden;Jeff Small,36,88.53,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,26,10,88.0,90.0,87.0
+UBCV,2023,W,AUDI,526,,001,Acquired Language Disorders,Tami Howe,38,85.89,,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,22,5,86.5,88.75,84.0
+UBCV,2023,W,AUDI,572,,001,Cognitive Processing and Acquired Language Disorders,Katharine Davies;Tami Howe;Eavan Sinden;Jeff Small,36,88.53,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,26,10,88.0,90.0,87.0
+UBCV,2023,W,AUDI,586,,001,Acquired Language Disorders II,Katharine Davies;Tami Howe;Eavan Sinden;Jeff Small,36,88.53,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,26,10,88.0,90.0,87.0

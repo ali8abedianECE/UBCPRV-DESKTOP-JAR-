@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,FRST,430,,101,Advanced Biometrics,Bianca Eskelson;Hye Young Woo;Kate Peterson,46,75.97826087,12.634149719,94.0,44.0,3,1,2,3,4,3,2,2,11,12,3,,,
+UBCV,2017,W,FRST,530,,201,Multiple Regression Methods,Kate Peterson;Valerie Lemay,20,84.85,9.756374434,95.0,57.0,0,0,,,,,2,3,1,5,8,,,
+UBCV,2018,W,FRST,430,,101,Advanced Biometrics,Bianca Eskelson;Hye Young Woo;Kate Peterson;Stella Acquah;Stella Britwum Acquah;Yi-Chin Tseng,64,80.25,9.182453938,95.0,49.0,1,0,0,3,2,4,7,9,12,13,13,,,
+UBCV,2020,W,FRST,239,,201,Tree and Stand Level Measurements,Hannah Sachs;Kate Peterson;Valerie Lemay,57,85.01754386,10.0791355,97.0,62.0,0,0,0,2,3,4,4,2,6,11,25,,,
+UBCV,2020,W,FRST,430,,101,Advanced Biometrics,Adrian Dwiputra;Bianca Eskelson;Hye Young Woo;Kate Peterson;Melike Karaca Bulut,32,79.625,11.680560084,96.0,52.0,0,1,1,2,1,1,5,3,6,3,9,,,
+UBCV,2020,W,FRST,531,,101,Multivariate Statistical Methods,Kate Peterson;Valerie Lemay,21,84.952380952,8.952520262,100.0,68.0,0,0,0,0,0,2,1,2,6,3,7,,,
+UBCV,2020,W,GEM,540,,001,Linear Regression Models and Introduction to Spatial Statistics,Bianca Eskelson;Hye Young Woo;Kate Peterson;Liam Wesley Gilson;Stella Acquah,27,86.777777778,6.576960564,97.0,74.0,0,0,0,0,0,0,2,2,6,6,11,,,
+UBCV,2021,W,FRST,430,,101,Advanced Biometrics,Bianca Eskelson;Kate Peterson;Liam Wesley Gilson;Melike Karaca Bulut;Omnia Ibrahim;Sushil Nepal,31,90.129032258,8.54299688,98.0,60.0,0,0,0,1,0,1,0,1,2,3,23,,,
+UBCV,2021,W,GEM,540,,001,Linear Regression Models and Introduction to Spatial Statistics,Bianca Eskelson;Kate Peterson;Liam Wesley Gilson;Omnia Ibrahim;Sushil Nepal,28,90.785714286,4.349177384,97.0,77.0,0,0,0,0,0,0,0,1,1,5,21,,,
+UBCV,2023,W,FRST,339,,201,Forest Level Measurement and Productivity,Kate Peterson,38,84.8,,98.0,64.0,0,0,0,0,2,1,0,4,6,16,8,87.0,89.0,81.0

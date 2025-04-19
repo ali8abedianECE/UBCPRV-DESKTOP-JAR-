@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,MATH,318,,201,Probability with Physical Applications,Alma Hernandez Torres;Alma Sarai Hernandez Torres;Geoffrey Schiebinger,102,76.81372549,11.738681418,97.0,38.0,1,1,5,7,8,13,10,15,12,12,18,,,
+UBCV,2019,W,MATH,612,D,101,Topics in Mathematical Biology,Geoffrey Schiebinger,9,89.777777778,8.613619706,99.0,73.0,0,0,0,0,0,0,1,0,1,2,5,,,
+UBCV,2020,W,MATH,318,,201,Probability with Physical Applications,Geoffrey Schiebinger;Jens Malmquist;Omer Angel,97,81.597938144,11.839780926,100.0,50.0,0,2,2,1,2,11,14,10,17,10,28,,,
+UBCV,2020,W,MATH,612,D,101,Topics in Mathematical Biology,Geoffrey Schiebinger,14,91.357142857,5.745997173,97.0,76.0,0,0,0,0,0,0,0,1,1,1,11,,,
+UBCV,2021,W,MATH,318,,201,Probability with Physical Applications,Geoffrey Schiebinger;Jens Malmquist;Jun Jie Zhu,96,73.25,14.803982395,98.0,8.0,6,4,1,7,7,7,15,14,18,9,8,,,
+UBCV,2021,W,MATH,318,,201,Probability with Physical Applications,Geoffrey Schiebinger,96,73.8,,98.0,18.0,,,,7,7,8,14,13,20,9,8,76.0,82.0,67.5
+UBCV,2022,W,BMEG,371,,101,Transport Phenomena within Cells and Tissues,Geoffrey Schiebinger,115,76.1,,95.0,47.0,1,2,2,7,10,12,15,16,29,18,3,78.0,83.0,70.0
+UBCV,2022,W,MATH,612,D,101,Topics in Mathematical Biology,Geoffrey Schiebinger,12,92.9,,96.0,90.0,0,0,0,0,0,0,0,0,0,0,12,93.0,94.3,91.5
+UBCV,2023,W,MATH,318,,201,Probability with Physical Applications,Geoffrey Schiebinger,108,78.2,,96.0,38.0,3,3,2,8,6,8,8,8,22,15,23,81.5,88.0,70.0

@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,COMM,362,,101,CONSUMER BEHAVR,"Cavanaugh, Lisa",42,79.29,8.21,99,59,42,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,5,7,12,6,4,,,
+UBC,2017,W,COMM,362,,102,CONSUMER BEHAVR,"Cavanaugh, Lisa",42,76.22,6.74,93,62,41,0,1,0,0,0,0,0,0,0,0,0,0,1,4,6,4,13,10,2,1,,,
+UBC,2017,W,COMM,362,,103,CONSUMER BEHAVR,"Cavanaugh, Lisa",39,75.36,7.77,90,55,39,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,10,8,7,4,1,,,
+UBC,2018,W,COMM,362,,101,CONSUMER BEHAVR,"Cavanaugh, Lisa",42,77.33,8.13,91,57,42,0,0,0,0,0,0,0,0,0,0,0,2,0,3,4,7,6,9,10,1,,,
+UBCV,2017,W,BA,507,,003,Business Strategy Integration: Global,Darren Dahl;Lisa Cavanaugh,31,85.483870968,3.202821337,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,15,3,,,
+UBCV,2017,W,COMM,362,,101,Consumer Behaviour,Lisa Cavanaugh;Ray Chuck Howard,42,79.285714286,8.214459928,99.0,59.0,,,,,,,,,,,0,0,1,1,1,5,5,7,12,6,4,,,
+UBCV,2017,W,COMM,362,,102,Consumer Behaviour,Lisa Cavanaugh;Ray Chuck Howard,41,76.219512195,6.736142053,93.0,62.0,,,,,,,,,,,0,0,0,1,4,6,4,13,10,2,1,,,
+UBCV,2017,W,COMM,362,,103,Consumer Behaviour,Lisa Cavanaugh;Ray Chuck Howard,39,75.358974359,7.774747176,90.0,55.0,,,,,,,,,,,0,0,2,1,2,4,10,8,7,4,1,,,
+UBCV,2018,W,BA,507,,001,Business Strategy Integration: Global,Darren Dahl;Lisa Cavanaugh,24,82.666666667,2.389590954,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,16,7,0,,,
+UBCV,2018,W,BA,507,,003,Business Strategy Integration: Global,Darren Dahl;Lisa Cavanaugh,24,83.708333333,3.042870022,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,15,7,1,,,
+UBCV,2018,W,COMM,362,,101,Consumer Behaviour,Celia Xian-Ya Wong;Gabriela Pires Leandro;Lisa Cavanaugh,42,77.333333333,8.132040414,91.0,57.0,,,,,,,,,,,0,0,2,0,3,4,7,6,9,10,1,,,
+UBCV,2019,W,BA,507,,001,Business Strategy Integration: Global,Danielle Van Jaarsveld;Lisa Cavanaugh,32,85.15625,2.86366982,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,14,16,2,,,
+UBCV,2019,W,COMM,362,,203,Consumer Behaviour,Lisa Cavanaugh,41,78.146341463,8.229705267,95.0,61.0,,,,,,,,,,,0,0,0,2,4,2,5,9,9,7,3,,,
+UBCV,2021,W,BA,507,,003,Business Strategy Integration: Global,Lisa Cavanaugh,36,82.75,3.467193183,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,6,14,15,0,,,
+UBCV,2021,W,BAMA,506,,820,Consumer Behaviour,Lisa Cavanaugh;Nathanael Christopher Arney,35,81.742857143,5.21503966,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,4,10,15,0,,,
+UBCV,2021,W,BAMA,506,,820,Consumer Behaviour,Lisa Cavanaugh,35,81.7,,89.0,72.0,,,,,,,,,,,,,,,,,6,,10,15,,83.0,86.5,78.0
+UBCV,2022,W,BA,507,,004,Business Strategy Integration: Global,Lisa Cavanaugh,24,83.9,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,10,1,84.0,85.0,83.0
+UBCV,2022,W,BAMA,506,,821,Consumer Behaviour,Lisa Cavanaugh,18,81.5,,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,8,6,0,82.0,85.0,80.0
+UBCV,2023,W,BA,507,,001,Business Strategy Integration: Global,Lisa Cavanaugh,29,84.1,,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,14,0,84.0,85.0,83.0
+UBCV,2023,W,BAMA,506,,001,Consumer Behaviour,Lisa Cavanaugh,24,81.79,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,6,7,9,0,83.0,85.0,78.0
+UBCV,2023,W,BAMA,506,,822,Consumer Behaviour,Lisa Cavanaugh,12,83.25,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,6,0,84.0,85.25,80.0

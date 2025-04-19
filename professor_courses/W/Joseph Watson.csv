@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,ARCH,405,A,001,ARCH HIST II,"Watson, Joseph",11,85.36,4.84,90,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,1
+UBC,2017,W,ARCH,405,B,001,ARCH HIST II,"Watson, Joseph",9,81.89,5.82,92,74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,2,1
+UBC,2017,W,ARCH,505,A,001,ARCH HIST II,"Watson, Joseph",23,84.04,4.57,91,75,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,11,1
+UBC,2017,W,ARCH,505,B,002,ARCH HIST II,"Watson, Joseph",24,81.79,7.18,91,60,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2,8,8,2
+UBC,2017,W,ENDS,402,,001,ENDS DESIGN IV,"Watson, Joseph",27,82.78,5.49,91,72,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,7,10,2
+UBC,2018,W,ARCH,404,C,001,ARCH HIST I,"Watson, Joseph",8,84.75,5.95,90,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2
+UBC,2018,W,ARCH,405,D,001,ARCH HIST II,"Watson, Joseph",6,84,5.69,91,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1
+UBC,2018,W,ARCH,504,C,001,ARCH HIST I,"Watson, Joseph",29,81.79,5.45,92,70,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,9,9,1
+UBC,2018,W,ARCH,505,D,001,ARCH HIST II,"Watson, Joseph",20,83.42,5.14,90,68,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,6,3
+UBC,2018,W,ARCH,523,,001,CNTMPRY THEORIES,"Watson, Joseph",57,82.65,4.25,92,73,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,25,20,1
+UBCV,2017,W,ARCH,405,A,001,Topics in Architectural History II (1900-Present),Amanda Jehring;Joseph Watson;Kathy Oke,11,85.363636364,4.84298931,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,8,1
+UBCV,2017,W,ARCH,405,B,001,Topics in Architectural History II (1900-Present),Joseph Watson;Kathy Oke;Olivia Bull,9,81.888888889,5.819030083,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,2,1
+UBCV,2017,W,ARCH,505,A,001,Topics in Architectural History II (1900-Present),Amanda Jehring;Joseph Watson;Kathy Oke,23,84.043478261,4.567456631,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,5,11,1
+UBCV,2017,W,ARCH,505,B,002,Topics in Architectural History II (1900-Present),Joseph Watson;Kathy Oke;Olivia Bull,24,81.791666667,7.18076638,91.0,60.0,,,,,,,,,,,0,0,0,1,0,2,1,2,8,8,2
+UBCV,2017,W,ENDS,402,,001,Environmental Design Studio IV,Gabriel Lacombe;Joseph Watson;Olivia Daigneault,27,82.777777778,5.486580365,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,5,7,10,2
+UBCV,2018,W,ARCH,404,C,001,Topics in Architectural History I (Pre-1900),Joseph Watson;Olivia Bull,8,84.75,5.946187254,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,3,2
+UBCV,2018,W,ARCH,405,D,001,Topics in Architectural History II (1900-Present),Joseph Watson;Olivia Bull,6,84.0,5.692099788,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,1
+UBCV,2018,W,ARCH,504,C,001,Topics in Architectural History I (Pre-1900),Emily Scoular;Joseph Watson,28,81.785714286,5.452536908,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,6,9,9,1
+UBCV,2018,W,ARCH,505,D,001,Topics in Architectural History II (1900-Present),Emily Scoular;Joseph Watson,19,83.421052632,5.13501909,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,6,3
+UBCV,2018,W,ARCH,523,,001,Contemporary Theories in Architecture,Gentai Ishimura;Joseph Watson;Pera Hardy;Sherry Mckay,57,82.649122807,4.248912584,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,7,25,20,1
+UBCV,2019,W,ARCH,523,,001,Contemporary Theories in Architecture,Christina Gray;Jennifer Pace;Joseph Watson,57,86.649122807,3.425175846,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,14,20,21

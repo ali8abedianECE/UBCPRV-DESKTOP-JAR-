@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,PSYC,533,A,001,CUR ISS CLIN PSY,"Wagner, John",6,95.8,1.3,97,94,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2007,W,PSYC,537,,001,Eth & Prof Clin,"Wagner, John",4,94.75,0.96,96,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2007,W,PSYC,541,,001,INTRO PSYCHTHRPY,"Wagner, John",4,95.25,1.71,97,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2010,W,PSYC,533,A,001,CUR ISS CLIN PSY,"Wagner, John",4,95.5,4.12,99,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2012,W,PSYC,540,A,001,PSYCLCL INTERVEN,"Wagner, John",9,94.57,1.99,97,92,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2015,W,PSYC,533,A,001,CUR ISS CLIN PSY,"Wagner, John",10,94.9,1.52,97,93,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCO,2014,W,ANTH,245,,001,Culture and Environment,John Wagner,42,76.28571429,12.3056317,93.0,23.0,,,,,,,,,,,,,,,,,,11,10,7,,,,
+UBCO,2014,W,ANTH,455,,001,Political Ecology,John Wagner,26,71.73076923,24.72821497,93.0,1.0,,,,,,,,,,,,,,,,,,,7,,,,,
+UBCO,2015,W,ANTH,245,,001,Culture and Environment,John Wagner,33,72.242424242,13.516264053,90.0,29.0,,,,,,,,,,,,,,,,,8,5,5,,,,,
+UBCO,2015,W,ANTH,300,,001,Contemporary Theory in Anthropology,John Wagner,34,72.352941176,20.55573702,93.0,10.0,,,,,,,,,,,,,,,,,,5,11,,,,,
+UBCO,2015,W,IGS,515,A,001,Advanced Qualitative Methods,John Wagner,6,85.0,10.564090117,92.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCO,2017,W,ANTH,245,,001,Culture and Environment,John Wagner,32,72.875,18.942612825,93.0,13.0,,,,,,,,,,,2,1,1,4,0,4,4,2,5,4,5,,,
+UBCO,2017,W,ANTH,300,,001,Contemporary Theory in Anthropology,John Wagner,35,75.485714286,14.639534364,92.0,13.0,,,,,,,,,,,1,0,3,0,3,3,1,6,10,5,3,,,
+UBCO,2017,W,ANTH,445,,101,Political Ecology,John Wagner,15,84.533333333,7.472489226,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,2,4,1,6,,,
+UBCO,2017,W,IGS,515,A,001,Advanced Qualitative Methods,John Wagner,10,88.6,4.115013163,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,5,,,
+UBCO,2018,W,ANTH,245,,001,Culture and Environment,John Wagner,31,74.870967742,9.718511325,91.0,51.0,,,,,,,,,,,0,2,0,2,2,1,6,8,6,3,1,,,
+UBCO,2018,W,ANTH,300,,001,Contemporary Theory in Anthropology,John Wagner,36,70.666666667,19.636700334,90.0,11.0,,,,,,,,,,,4,0,0,1,2,6,3,8,7,3,2,,,
+UBCO,2018,W,ANTH,490,H,001,Topics in Anthropology,John Wagner,30,75.666666667,12.630923556,96.0,50.0,,,,,,,,,,,0,2,3,0,0,6,4,2,4,5,4,,,
+UBCO,2019,W,ANTH,295,Q,101,Current Topics in Anthropology,John Wagner,21,78.80952381,6.225905939,91.0,66.0,,,,,,,,,,,0,0,0,0,1,2,2,6,7,2,1,,,
+UBCO,2019,W,ANTH,300,,001,Contemporary Theory in Anthropology,John Wagner,38,75.763157895,9.468109234,91.0,50.0,,,,,,,,,,,0,1,2,1,3,4,5,5,12,4,1,,,
+UBCO,2019,W,ANTH,445,,001,Political Ecology,John Wagner,28,78.25,8.194962319,91.0,52.0,,,,,,,,,,,0,1,0,0,1,3,5,5,7,4,2,,,
+UBCO,2019,W,IGS,586,A,001,"Community Engagement, Social Change, and Equity Theme Seminar",John Wagner;Michael Burgess;Michael Evans,8,90.625,3.662064211,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCO,2020,W,ANTH,345,,001,Living in the Anthropocene,John Wagner;Travis Nagy,39,76.358974359,10.056386239,93.0,50.0,,,,,,,,,,,0,1,1,2,3,5,3,4,12,5,3,,,
+UBCO,2020,W,ANTH,401,,001,Contemporary Theory in Anthropology,Adriane Peak;John Wagner,44,78.477272727,13.422453656,93.0,29.0,,,,,,,,,,,2,0,2,1,1,2,3,6,11,12,4,,,
+UBCO,2020,W,IGS,586,A,001,"Community Engagement, Social Change, and Equity Theme Seminar",John Wagner,13,93.076923077,1.320450584,95.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCO,2021,W,ANTH,345,,001,Living in the Anthropocene,John Wagner;Ross Gordon,24,76.916666667,20.327571053,95.0,9.0,,,,,,,,,,,2,1,1,0,0,2,2,2,1,4,9,,,
+UBCO,2021,W,ANTH,401,,001,Contemporary Theory in Anthropology,David Geary;John Wagner,30,77.7,20.769921887,98.0,0.0,,,,,,,,,,,2,1,1,2,0,0,1,4,5,4,10,,,
+UBCO,2021,W,IGS,586,A,001,"Community Engagement, Social Change, and Equity Theme Seminar",Christine Schreyer;John Wagner,11,95.090909091,2.736952519,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2015,W,PSYC,533,A,001,Current Issues in Clinical Psychology,John Wagner,10,94.9,1.523883927,97.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCO,2022,W,ANTH,345,,001,Living in the Anthropocene,John Wagner,35,76.0,,93.0,9.0,,,,,,,,,,,3,1,0,0,3,2,2,3,7,7,7,82.0,88.0,71.0
+UBCO,2022,W,ANTH,355,,001,Development and the Politics of Aid,John Wagner,32,76.3,,94.0,31.0,,,,,,,,,,,2,0,0,1,2,2,4,6,7,4,4,78.5,84.5,72.8
+UBCO,2022,W,ANTH,445,,001,Political Ecology,Lawrence Berg;Onyx Sloan Morgan;John Wagner,19,73.9,,90.0,43.0,,,,,,,,,,,1,1,0,0,2,1,3,6,2,2,1,77.0,79.0,71.5
+UBCO,2022,W,GEOG,445,,001,Political Ecology,Lawrence Berg;Onyx Sloan Morgan;John Wagner,11,77.6,,93.0,67.0,,,,,,,,,,,0,0,0,0,1,1,3,1,4,0,1,78.0,81.0,73.5
+UBCO,2023,W,ANTH,245,,001,Culture and Environment,John Wagner,42,80.1,,93.0,55.0,,,,,,,,,,,0,0,1,1,1,3,5,4,8,12,4,82.0,87.0,74.0
+UBCO,2023,W,ANTH,445,,001,Political Ecology,John Wagner,14,76.3,,90.0,60.0,,,,,,,,,,,0,0,0,1,1,1,4,0,3,2,1,74.0,82.0,72.0
+UBCO,2023,W,GEOG,445,,001,Political Ecology,John Wagner,7,80.14,,90.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,0,2,2,1,82.0,86.0,76.5
+UBCV,2023,W,PSYC,533,A,001,Current Issues in Clinical Psychology,John Wagner,10,96.5,,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,97.0,97.0,95.3

@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,PHYS,404,,101,INTRO MED PHYS,"Bjarnason, Thor;Kozlowski, Piotr;Lee, Richard;MacKay, Alexander;Tchvialeva, Lioudmila;Thakur, Yogesh;Walker, Matthew",39,74.81,13.19,91,33,35,2,1,0,1,0,0,0,1,1,2,1,1,2,2,3,4,5,7,8,2,,,
+UBC,2013,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Walker, Matthew",11,83,8.97,96,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,2,3,,,
+UBC,2014,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Tanguay, Jesse",8,81.88,10.34,96,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,3,,,
+UBC,2015,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Tanguay, Jesse",11,87,6.26,94,76,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,,,
+UBC,2016,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Uribe Munoz, Carlos",4,87,12.36,96,69,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,,,
+UBC,2017,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Duzenli, Cheryl;Kozlowski, Piotr;Uribe Munoz, Carlos",10,84.7,12.39,99,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,4,,,
+UBCO,2016,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Shanika Rajapakshe;Thor Bjarnason,6,77.16666667,14.19037232,93.0,56.0,,,,,,,,,,,0,0,1,0,1,0,1,0,0,2,1,,,
+UBCO,2016,W,PHYS,336,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Thor Bjarnason,7,83.57142857,7.828519291,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,1,2,,,
+UBCO,2018,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Thor Bjarnason;Yuhao Huang,26,85.846153846,7.046657691,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,1,7,7,9,,,
+UBCO,2018,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,Rasika Rajapakshe;Thor Bjarnason,12,83.916666667,6.815201369,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,3,5,2,,,
+UBCO,2019,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,16,84.0,9.084785817,93.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,1,4,7,3,,,
+UBCO,2019,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,12,86.916666667,12.645217086,97.0,52.0,,,,,,,,,,,0,1,0,0,0,0,0,1,1,2,7,,,
+UBCO,2020,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Karanmeet Khatra;Michael Kudla-Hooper;Rasika Rajapakshe;Thor Bjarnason,18,81.222222222,12.923100864,95.0,52.0,,,,,,,,,,,0,1,1,0,2,0,0,1,3,5,5,,,
+UBCO,2020,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Karanmeet Khatra;Michael Kudla-Hooper;Rasika Rajapakshe;Thor Bjarnason,13,80.615384615,25.769938758,98.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,1,0,3,6,,,
+UBCO,2021,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Reece Walsh;Thor Bjarnason,15,72.8,12.491139717,88.0,43.0,,,,,,,,,,,1,0,2,0,1,1,3,1,4,2,0,,,
+UBCO,2021,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Rasika Rajapakshe;Stephen Collins;Thor Bjarnason,8,83.375,7.707834604,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,1,2,,,
+UBCV,2014,W,PHYS,540,,201,Radiological Imaging,Jesse Tanguay;Piotr Kozlowski;Thor Bjarnason,8,81.875,10.34321724,96.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2015,W,PHYS,540,,201,Radiological Imaging,Emil Ljungberg;Jesse Tanguay;Piotr Kozlowski;Thor Bjarnason,9,87.0,6.264982043,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2017,W,PHYS,540,,201,Radiological Imaging,Carlos Uribe Munoz;Cheryl Duzenli;Piotr Kozlowski;Thor Bjarnason;Wei Zhao,10,84.7,12.392201849,99.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,0,0,2,4,,,
+UBCV,2019,W,PHYS,540,,201,Radiological Imaging,Carlos Uribe Munoz;Connor Bevington;Nancy Ford;Piotr Kozlowski;Robert Rohling;Thor Bjarnason,12,86.5,5.282905537,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,3,,,
+UBCO,2021,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Thor Bjarnason;Rasika Rajapakshe,15,72.8,,88.0,43.0,,,,,,,,,,,,,,,,,,,,,,75.0,82.0,68.5
+UBCO,2021,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Thor Bjarnason;Rasika Rajapakshe,8,83.4,,94.0,70.0,,,,,,,,,,,,,,,,,,,,,,81.5,89.5,80.0
+UBCO,2022,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Thor Bjarnason;Rasika Rajapakshe,12,80.8,,97.0,57.0,,,,,,,,,,,0,0,1,0,0,0,2,1,4,2,2,81.0,86.3,75.8
+UBCO,2022,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Thor Bjarnason;Rasika Rajapakshe,9,86.7,,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,1,5,90.0,93.0,82.0

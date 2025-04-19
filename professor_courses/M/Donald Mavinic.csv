@@ -1,0 +1,76 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Hall, Kenneth J F;Mavinic, Donald",95,77.49,9.06,97,53,95,0,0,0,0,0,0,0,0,0,0,2,4,4,1,6,17,16,27,15,3
+UBC,2002,W,CIVL,406,,201,WTR TREAT&WST MG,"Mavinic, Donald",104,75.77,10.54,98,50,104,0,0,0,0,0,0,0,0,0,0,5,3,8,3,10,14,20,23,8,10
+UBC,2002,W,CIVL,563,,201,UNIT OPER & PROC,"Mavinic, Donald",9,83.56,3.64,88,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0
+UBC,2002,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",16,85.88,6.33,95,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,7,4
+UBC,2003,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Hall, Kenneth J F;Mavinic, Donald",132,80.41,7.18,95,64,130,0,0,2,0,0,0,0,0,0,0,0,0,0,7,10,16,18,42,25,12
+UBC,2003,W,CIVL,406,,201,WTR TREAT&WST MG,"Mavinic, Donald",107,78.56,9.68,94,50,107,0,0,0,0,0,0,0,0,0,0,4,2,0,6,5,20,17,24,17,12
+UBC,2003,W,CIVL,563,,201,UNIT OPER & PROC,"Mavinic, Donald",12,88.8,2.9,93,84,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4
+UBC,2003,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",13,85.15,5.32,92,70,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,6,1
+UBC,2005,W,CIVL,405,,101,ENV IMPACT STDS,"Chieng, Sie-Tan;Hall, Kenneth J F;Mavinic, Donald",147,76.45,6.92,92,50,146,0,0,1,0,0,0,0,0,0,0,2,0,4,8,16,31,22,50,11,2
+UBC,2005,W,CIVL,406,,201,WTR TREAT&WST MG,"Mavinic, Donald",103,80.5,11.14,98,46,100,1,0,0,2,0,0,0,0,1,1,4,2,3,4,3,7,13,21,23,20
+UBC,2005,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",7,81.43,5.88,94,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1
+UBC,2005,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Berube, Pierre;Chieng, Sie-Tan;Li, Loretta;Mavinic, Donald",163,83.1,7.79,95,41,161,1,0,0,1,0,0,0,0,1,1,0,0,3,3,4,10,18,42,50,31
+UBC,2006,W,CIVL,406,,201,WTR TREAT&WST MG,"Lo, Kwang Victor;Mavinic, Donald",124,74.15,10.1,92,34,120,2,0,0,2,0,0,0,1,1,2,1,7,7,12,16,16,25,19,12,5
+UBC,2006,W,CIVL,559,,201,ADV WTR&WSTE TRT,"Berube, Pierre;Lo, Kwang Victor;Mavinic, Donald",10,89.3,3.16,94,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6
+UBC,2006,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",11,80,10.47,90,51,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,2,1
+UBC,2006,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CIVL,406,,201,WTR TREAT&WST MG,"Lo, Kwang Victor;Mavinic, Donald",112,73.2,8.99,90,40,108,2,0,0,2,0,0,0,0,2,2,2,1,6,14,20,18,20,16,9,2
+UBC,2007,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",5,76.8,7.16,82,65,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,0,0
+UBC,2007,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Mavinic, Donald",202,76.35,8.04,95,47,200,1,0,0,1,0,0,0,0,1,1,0,5,6,11,32,34,43,38,26,5
+UBC,2009,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",9,80,5.96,87,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,0
+UBC,2009,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CIVL,405,,101,ENV IMPACT STDS,"Berube, Pierre;Li, Loretta;Mavinic, Donald",178,75.49,9.19,93,40,176,1,0,0,1,0,0,0,0,1,1,5,5,6,11,18,34,41,29,20,7
+UBC,2010,W,CIVL,406,,201,WTR TREAT&WST MG,"Lo, Kwang Victor;Mavinic, Donald",135,76.28,11.41,94,27,131,3,0,0,1,0,0,1,1,1,3,1,4,9,8,16,15,15,28,22,13
+UBC,2010,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",10,77.1,6.92,88,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,2,2,0
+UBC,2010,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CIVL,405,,101,ENV IMPACT STDS,"Berube, Pierre;Li, Loretta;Mavinic, Donald",172,71.36,9.79,94,27,170,1,0,0,1,0,0,1,0,0,1,10,5,18,18,26,32,27,23,8,3
+UBC,2011,W,CIVL,563,,201,UNIT OPER & PROC,"Lo, Kwang Victor;Mavinic, Donald",10,86.3,3.89,93,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2
+UBC,2011,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",11,81.56,6.39,89,71,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,3,0
+UBC,2011,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CIVL,405,,101,ENV IMPACT STDS,"Berube, Pierre;Li, Loretta;Mavinic, Donald",186,67.88,9.84,88,0,181,1,1,0,3,1,0,0,0,0,1,11,21,20,24,42,28,16,16,3,0
+UBC,2012,W,CIVL,559,,201,ADV WTR&WSTE TRT,"Lo, Kwang Victor;Mavinic, Donald",10,85.4,3.47,92,81,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1
+UBC,2012,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",13,81.77,8.97,93,61,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,5,2
+UBC,2012,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CIVL,405,,101,ENV IMPACT STDS,"Berube, Pierre;Li, Loretta;Mavinic, Donald",174,77.26,9.57,92,31,170,2,2,0,0,0,0,0,1,1,2,2,2,8,8,18,29,21,36,37,9
+UBC,2013,W,CIVL,405,,201,ENV IMPACT STDS,"Keen, Patricia;Lo, Kwang Victor;Mavinic, Donald",148,77.13,8.93,93,50,147,0,0,0,1,0,0,0,0,0,0,1,4,7,9,17,19,18,39,25,8
+UBC,2013,W,CIVL,446,,201,DESIG & ANALYS 2,"Howie, John;Mavinic, Donald;Stiemer, Siegfried",131,86.54,3.9,95,64,131,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,22,79,25
+UBC,2013,W,CIVL,562,,201,ENV CONTAMNT ANL,"Berube, Pierre;Lo, Kwang Victor;Mavinic, Donald",8,79.88,2.59,83,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0,0
+UBC,2013,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",9,80.78,5.09,87,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,0
+UBC,2013,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CIVL,305,,101,ENV IMPACT STUDY,"Keen, Patricia;Lo, Kwang Victor;Mavinic, Donald",143,76.73,8.21,93,50,142,0,0,1,0,0,0,0,0,0,0,3,2,4,12,14,16,31,40,15,5
+UBC,2014,W,CIVL,305,,201,ENV IMPACT STUDY,"Hall, Eric;Mavinic, Donald",146,70.89,10.47,97,44,143,3,0,0,0,0,0,0,0,3,3,10,6,12,17,26,19,23,17,9,4
+UBC,2014,W,CIVL,559,,201,ADV WTR&WSTE TRT,"Mavinic, Donald",5,84.2,3.9,89,79,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0
+UBC,2014,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",7,78.86,5.11,85,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,0
+UBC,2014,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CIVL,305,,201,ENV IMPACT STUDY,"Hall, Eric;Mavinic, Donald",197,73.76,12.27,98,28,185,8,0,0,4,0,0,1,0,7,8,5,9,13,18,22,23,33,21,26,15
+UBC,2015,W,CIVL,406,,201,WTR TREAT&WST MG,"Mavinic, Donald;ROBINSON, SHONA J;Winter, Joerg",134,69.63,10.38,94,43,130,1,0,0,3,0,0,0,0,1,1,11,10,13,19,23,17,6,22,5,4
+UBC,2015,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Bourne, Michael;Derksen, Ruth;Isaacson, Michael D;Li, Loretta;Mavinic, Donald;Nazhat, Yahya;Nesbit, Susan;Sanghara, Hartaj",124,85.6,6.43,95,70,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,11,27,32,43
+UBC,2015,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",7,83.14,7.76,93,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,2
+UBC,2016,W,CIVL,305,,201,INTRO ENVRN ENG,"Hall, Eric;Mavinic, Donald",200,73.4,9.89,91,36,192,6,0,0,2,0,0,0,1,5,6,2,8,12,18,29,34,36,28,21,4
+UBC,2016,W,CIVL,559,,201,ADV WTR&WSTE TRT,"Mavinic, Donald",9,87.56,1.51,90,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+UBC,2016,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",13,80.92,7.38,94,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,3,4,1
+UBC,2016,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CIVL,569,,101,BIOL WSTWTR TRT,"Mavinic, Donald",11,80,7.13,92,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,2,2
+UBC,2017,W,CIVL,597,,003,SEMINAR,"Mavinic, Donald",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,W,CIVL,305,,101,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Kwang Victor Lo;Patricia Keen,142,76.72535211,8.208406317,93.0,50.0,,,,,,,,,,,0,3,2,4,12,14,16,31,40,15,5
+UBCV,2014,W,CIVL,305,,201,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Eric Hall,146,70.89041096,10.4684243,97.0,44.0,,,,,,,,,,,3,10,6,12,17,26,19,23,17,9,4
+UBCV,2014,W,CIVL,559,,201,Advanced Water and Wastewater Treatment Technology,Donald Mavinic,5,84.2,3.898717738,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,7,78.85714286,5.113008619,85.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2015,W,CIVL,305,,201,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Eric Hall;Jessica Louise Lenoble;Michael Harvard;Shayok Ghosh,197,72.47715736,15.30258535,98.0,0.0,,,,,,,,,,,12,5,9,13,18,22,23,33,21,26,15
+UBCV,2015,W,CIVL,406,,201,Water Treatment and Waste Management,Donald Mavinic;Donald S Mavinic;Joerg Winter;Shona J Robinson;Shona Robinson,134,69.007462687,11.063382852,94.0,40.0,,,,,,,,,,,,11,10,13,19,23,17,6,22,5,
+UBCV,2015,W,CIVL,445,,101,Engineering Design and Analysis I,Donald Mavinic;Hartaj Sanghara;Jessica Louise Lenoble;Loretta Li;Michael Bourne;Michael D Isaacson;Raghav Grover;Ruth Derksen;Susan Nesbit;Yahya Nazhat,124,85.596774194,6.428998525,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,9,11,27,32,43
+UBCV,2015,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,7,83.142857143,7.755182599,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2016,W,CIVL,305,,201,Introduction to Environmental Engineering,Donald Mavinic;Emily Claire Mills;Emily Mills;Eric Hall;Marcus Yu;Moutoshi Saha;Rajat Jain,200,73.05,10.47838167,91.0,29.0,,,,,,,,,,,8,2,8,12,18,29,34,36,28,21,4
+UBCV,2016,W,CIVL,559,,201,Advanced Water and Wastewater Treatment Technology,Donald Mavinic,9,87.55555556,1.509230856,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,1
+UBCV,2016,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,13,80.92307692,7.376330823,94.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,3,3,4,1
+UBCV,2017,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,11,80.0,7.127411872,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,2,1,2,2
+UBCV,2019,W,CIVL,425,,201,Case Studies of Construction Methods,Alexander Lebaron Forrest;Dana Vanier;Donald Mavinic;Mohsen Azimi,40,83.4,5.295377762,90.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,4,9,23,1
+UBCV,2019,W,CIVL,521,,201,Construction Methods and Performance,Alan Russell;Dana Vanier;Donald Mavinic,12,85.666666667,4.438126823,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,3
+UBCV,2019,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic;Ryan Ziels,11,80.363636364,14.080289253,94.0,48.0,,,,,,,,,,,1,0,0,0,1,0,1,0,3,2,3
+UBCV,2020,W,CIVL,425,,201,Case Studies of Construction Methods,Behtash Javidsharifi;Dana Vanier;Donald Mavinic,43,85.418604651,14.776481568,95.0,0.0,,,,,,,,,,,1,0,0,0,0,3,0,1,5,15,18
+UBCV,2020,W,CIVL,437,,101,Introduction to Ship Structures,Donald Mavinic;Jasmin Jelovica;Mohammad Mohammadzadeh Keleshteri;Yashar Khalighi,26,87.923076923,7.440016543,99.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,4,8,12
+UBCV,2020,W,CIVL,521,,201,Construction Methods and Performance,Dana Vanier;Donald Mavinic;Yashar Khalighi,14,87.785714286,2.805998285,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,5
+UBCV,2021,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura;Donald Mavinic;Freddy Pina;Leila Katebi;Michael D Isaacson,42,94.0,6.339962299,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,3,35

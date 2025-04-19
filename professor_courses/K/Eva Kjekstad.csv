@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,COMM,390,,204,BUSINESS WRITING,"Kjekstad, Eva",19,79.05,8.36,91,60,19,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,1,5,5,1
+UBC,2016,W,COMM,390,,205,BUSINESS WRITING,"Kjekstad, Eva",18,76.83,8.89,87,60,18,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,3,6,4,0
+UBC,2016,W,COMM,390,,222,BUSINESS WRITING,"Kjekstad, Eva",20,72.45,9.41,86,60,20,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,2,1,5,2,0
+UBCV,2016,W,COMM,390,,204,Business Writing,Eva Kjekstad;Frederick Fajardo,19,79.05263158,8.35645914,91.0,60.0,,,,,,,,,,,0,0,0,1,1,1,4,1,5,5,1
+UBCV,2016,W,COMM,390,,205,Business Writing,Eva Kjekstad;Frederick Fajardo,18,76.83333333,8.886539722,87.0,60.0,,,,,,,,,,,0,0,0,3,1,1,0,3,6,4,0
+UBCV,2016,W,COMM,390,,222,Business Writing,Eva Kjekstad;Eva Leigh Kjekstad,20,72.45,9.411499126,86.0,60.0,,,,,,,,,,,0,0,0,4,4,2,2,1,5,2,0
+UBCV,2019,W,APSC,486,,001,New Venture Design,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,17,83.823529412,2.270332963,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,6,1
+UBCV,2019,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,10,76.0,26.828674544,88.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,6,3,0
+UBCV,2019,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,9,83.333333333,1.936491673,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,0
+UBCV,2019,W,COMM,466,,001,New Venture Design,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,15,83.933333333,2.576450123,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,0

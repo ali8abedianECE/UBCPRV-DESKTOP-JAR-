@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHEM,123,,201,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",244,71.49,11.81,99,45,229,14,1,0,0,0,0,0,0,14,14,5,14,20,27,38,40,21,27,17,20
+UBC,2002,W,CHEM,123,,202,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",197,68.23,12.11,90,41,170,20,5,0,2,0,0,0,0,20,20,3,17,24,17,35,21,7,30,11,5
+UBC,2002,W,CHEM,123,,209,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",257,71.71,11.17,95,39,238,15,1,0,3,0,0,0,1,14,15,1,17,23,12,45,45,25,41,16,13
+UBC,2002,W,CHEM,123,,210,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",233,66.95,13.65,92,27,190,39,2,0,2,0,0,1,2,36,39,2,18,23,27,28,24,15,31,15,7
+UBC,2002,W,CHEM,123,,211,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",244,67.02,13.75,93,24,200,37,2,0,5,0,0,2,1,34,37,3,18,29,25,39,20,15,26,13,12
+UBC,2002,W,CHEM,123,,222,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",145,76.59,9.47,95,36,142,2,0,0,1,0,0,0,1,1,2,0,5,4,10,17,20,19,38,19,10
+UBC,2002,W,CHEM,123,,299,Phys & Org Chem,"Comisarow, Melvin;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell;Tanner, Martin",209,68.39,13.55,97,7,185,22,0,0,2,1,0,0,3,18,22,3,22,24,17,29,20,20,30,11,9
+UBC,2003,W,CHEM,123,,202,Phys & Org Chem,"Comisarow, Melvin;Hepburn, John;Herring, F Geoffrey;McIntosh, Lawrence;Patey, Grenfell",191,67.83,11.33,92,43,164,20,6,0,1,0,0,0,0,20,20,1,14,22,20,33,28,16,20,7,3
+UBC,2003,W,CHEM,123,,299,Phys & Org Chem,"McIntosh, Lawrence",195,67.12,12.94,93,33,164,27,2,0,2,0,0,0,4,23,27,4,13,22,20,26,25,18,25,6,5
+UBC,2005,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",97,71.25,9.81,90,38,93,4,0,0,0,0,0,0,1,3,4,2,1,8,15,16,16,15,15,3,2
+UBC,2006,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",69,76.17,8.35,90,50,69,0,0,0,0,0,0,0,0,0,0,1,2,4,4,7,8,15,17,10,1
+UBC,2009,W,CHEM,121,,110,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;McIntosh, Lawrence",236,72.33,13.38,95,31,211,22,3,0,0,0,0,0,5,17,22,2,10,14,17,30,26,26,47,23,16
+UBC,2009,W,CHEM,518,A,101,TOP MAG RESONANC,"McIntosh, Lawrence;Straus, Suzana",13,88.67,6.12,97,81,6,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+UBC,2010,W,CHEM,121,,199,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya;McIntosh, Lawrence",203,69.26,14.17,97,22,171,24,7,0,1,0,0,2,3,19,24,0,20,15,10,34,23,18,25,11,15
+UBC,2011,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",97,75.48,10.27,91,32,94,2,0,0,1,0,0,0,1,1,2,2,2,7,3,10,12,21,20,14,3
+UBC,2011,W,CHEM,518,A,233,TOP MAG RESONANC,"McIntosh, Lawrence",10,87.33,9.29,96,70,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,6
+UBC,2012,W,BIOC,514,,201,ADV TPCS PROT CH,"McIntosh, Lawrence;Van Petegem, Filip",10,88.2,5.94,97,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4
+UBC,2012,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",111,76.25,11.24,98,36,106,2,3,0,0,0,0,0,1,1,2,7,2,2,4,2,19,25,20,22,3
+UBC,2013,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",106,76.56,9.9,95,12,105,1,0,0,0,0,1,0,0,0,1,1,0,2,11,7,24,20,23,11,6
+UBC,2014,W,BIOC,514,,201,ADV TPCS PROT CH,"McIntosh, Lawrence",21,81.18,19,93,12,16,1,0,4,0,0,1,0,0,0,1,0,0,0,1,0,1,0,2,8,4
+UBC,2014,W,CHEM,305,,211,BIOPHYSICAL CHEM,"McIntosh, Lawrence",93,74.7,12.31,93,0,89,3,1,0,0,1,0,0,0,2,3,0,1,8,6,13,14,10,23,11,3
+UBC,2015,W,BIOC,402,,101,PROTEINS,"McIntosh, Lawrence;Yip, Calvin",138,69.3,12.34,97,17,126,8,3,1,0,0,1,0,1,6,8,5,10,17,12,19,21,17,13,8,4
+UBC,2015,W,CHEM,121,,133,STRCTR BOND CHEM,"McIntosh, Lawrence",211,61.54,13.97,94,29,157,50,4,0,0,0,0,2,6,42,50,10,28,23,18,29,11,13,15,5,5
+UBC,2016,W,BIOC,514,,201,ADV TPCS PROT CH,"McIntosh, Lawrence",21,86.05,7.81,98,68,19,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,4,6,6
+UBC,2016,W,CHEM,121,,111,STRCTR BOND CHEM,"McIntosh, Lawrence",230,70.52,14.32,96,23,204,23,3,0,0,0,0,1,3,19,23,3,20,17,25,30,19,11,41,21,17
+UBC,2017,W,CHEM,121,,111,STRCTR BOND CHEM,"McIntosh, Lawrence",222,73.47,12.62,95,32,202,16,1,0,3,0,0,0,3,13,16,2,8,13,5,39,33,23,39,22,18
+UBC,2018,W,BIOC,558,,001,PROTEIN CHEM I,"McIntosh, Lawrence",14,88.5,6.94,98,73,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,7
+UBC,2018,W,CHEM,121,,111,STRCTR BOND CHEM,"McIntosh, Lawrence",215,73.48,12.2,96,32,198,12,3,0,2,0,0,0,2,10,12,4,4,15,17,33,24,24,35,25,17

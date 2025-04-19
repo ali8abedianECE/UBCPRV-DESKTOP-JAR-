@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,ZOOL,503,,001,COMP ANIMAL PHYL,"GARDNER, MANUELA",7,89.17,3.43,93,84,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2006,W,BIOL,364,,201,ANIMAL PHYSIOL,"Farrell, Anthony;GARDNER, MANUELA",215,74.09,10.27,94,40,210,3,1,0,1,0,0,0,0,3,3,9,7,14,14,33,28,24,54,18,9
+UBC,2006,W,ZOOL,503,,001,COMP ANIMAL PHYL,"GARDNER, MANUELA",6,87,8.1,98,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3
+UBC,2009,S,BIOL,361,,921,INTRO TO PHYSIO,"GARDNER, MANUELA",47,84.11,11.69,100,58,47,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,4,2,6,9,17
+UBC,2009,S,BIOL,364,,921,ANIMAL PHYSIOL,"GARDNER, MANUELA",56,72.11,12.31,96,50,55,0,1,0,0,0,0,0,0,0,0,6,2,5,5,10,9,4,5,2,7
+UBC,2011,W,RELG,407,,001,TOPS IN ERLY JUD,"Gardner, Gregg",14,76,14.49,86,30,12,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,1,3,6,1,0
+UBC,2011,W,RELG,502,A,001,TOPICS JUDAISM,"Gardner, Gregg",4,83,2.65,86,81,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+UBC,2012,W,RELG,313,,001,MOD JEW ETHICS,"Gardner, Gregg",15,82.67,4.72,92,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,4,1
+UBC,2012,W,RELG,335,,001,JEWISH LAW,"Gardner, Gregg",19,83.63,10.71,94,46,18,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,2,3,8,4
+UBC,2013,W,CNRS,500,,001,SEM MEDITER STDY,"Gardner, Gregg",8,83.63,4.27,89,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,0
+UBC,2013,W,RELG,306,,001,ARCH AND BIBLE,"Gardner, Gregg",45,70.63,15.84,89,0,40,3,2,0,0,1,0,0,1,1,3,0,3,4,2,6,5,8,8,4,0
+UBC,2013,W,RELG,308,,001,MIDRSH&RABB IMAG,"Gardner, Gregg",10,81.1,5.13,90,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,3,1
+UBC,2013,W,RELG,500,D,001,BIBLICAL STUDIES,"Gardner, Gregg",4,86.33,4.62,89,81,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+UBC,2014,W,RELG,203,,001,SCRIPTURES OF NE,"Gardner, Gregg",67,73.26,9.65,96,51,66,0,1,0,0,0,0,0,0,0,0,1,7,3,8,5,13,13,8,4,4
+UBC,2014,W,RELG,330,,001,ORGN JUDAISM,"Gardner, Gregg",23,78.95,8.34,91,61,22,0,0,1,0,0,0,0,0,0,0,0,0,1,3,0,2,3,7,5,1
+UBC,2014,W,RELG,335,,001,JEWISH LAW,"Gardner, Gregg",19,77.24,7,90,62,17,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,5,4,3,2,1
+UBC,2015,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",57,82.49,3.13,89,73,51,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,1,9,28,13,0
+UBC,2015,W,DENT,440,,001,DENTISTRY lV,"Aidelbaum, Martin;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Lowe, Alan Arthur;MacDonald, David;Mathu-Muju, Kavita;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",57,81.05,2.47,86,75,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,41,3,0
+UBC,2015,W,RELG,308,,001,MIDRSH&RABB IMAG,"Gardner, Gregg",14,80.23,6.66,90,69,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,2,5,2,1
+UBC,2016,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",54,82.5,2.88,89,77,52,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,30,13,0
+UBC,2016,W,DENT,440,,001,DENTISTRY lV,"Aidelbaum, Martin;Chen, Hui;Coil, Jeffrey Martin;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;MacDonald, David;Mathu-Muju, Kavita;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",56,80.76,2.46,87,75,55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,15,36,3,0
+UBC,2016,W,RELG,101,,001,INTRO ABRHMC REL,"Gardner, Gregg",93,72.12,8.7,92,37,91,1,1,0,0,0,0,0,1,0,1,0,5,5,14,19,15,13,13,6,1
+UBC,2016,W,RELG,306,,002,ARCH AND BIBLE,"Gardner, Gregg",39,75.4,18.35,97,0,33,2,1,2,0,1,0,0,1,0,2,0,1,3,0,3,5,5,6,5,5
+UBC,2016,W,RELG,502,B,001,TOPICS JUDAISM,"Gardner, Gregg",4,86.25,4.79,90,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2017,W,CNRS,503,B,001,STUD LIT ART,"Gardner, Gregg",4,89.5,3.87,93,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2017,W,RELG,101,,001,INTRO ABRHMC REL,"Gardner, Gregg",86,71.2,14.88,91,18,79,6,0,0,0,0,2,0,2,2,6,5,1,6,5,12,14,9,14,9,4
+UBC,2017,W,RELG,330,,001,ORGN JUDAISM,"Gardner, Gregg",32,79.67,10.35,96,58,30,0,1,0,0,0,0,0,0,0,0,0,1,0,3,5,3,1,5,7,5
+UBC,2018,S,CNRS,335,B,001,PRAC CLASSL ARCH,"Gardner, Gregg",13,91.33,3.14,96,87,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8
+UBC,2018,W,RELG,101,,001,INTRO ABRHMC REL,"Gardner, Gregg",73,73.51,15.89,96,8,65,4,2,1,0,1,0,1,2,0,4,4,2,1,5,6,11,9,11,9,7
+UBC,2018,W,RELG,308,,001,TLMMDRSH&RAB IMG,"Gardner, Gregg",13,85.54,9.49,94,65,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,2,7

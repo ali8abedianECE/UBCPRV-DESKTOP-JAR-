@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,404,,101,PHYS MEDICAL IMG,"Aldrich, John;Celler, Anna;MacAulay, Calum E.;MacKay, Alexander;Sossi, Vesna",30,79.45,11.07,94,56,29,0,1,0,0,0,0,0,0,0,0,0,3,1,0,2,3,3,6,5,6
+UBC,2005,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",30,73.83,12.17,95,50,29,0,1,0,0,0,0,0,0,0,0,2,3,1,1,5,3,2,7,2,3
+UBC,2006,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",39,76.54,9.01,92,47,38,1,0,0,0,0,0,0,0,1,1,0,0,2,2,5,6,4,14,4,1

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MATH,120,,101,DIFFER CALCULUS,"Zahl, Joshua",32,73.03,19.84,100,0,27,2,3,0,0,1,0,0,0,1,2,0,1,4,4,3,0,3,4,3,5,,,
+UBC,2017,W,MATH,120,,101,DIFFER CALCULUS,"Zahl, Joshua",43,72.15,15.21,98,40,40,1,2,0,0,0,0,0,0,1,1,4,6,2,4,3,2,1,6,6,6,,,
+UBC,2017,W,MATH,320,,102,REAL VARIABLS I,"Zahl, Joshua",45,67.78,19.76,95,22,35,6,4,0,0,0,0,2,4,0,6,3,1,3,4,4,5,2,3,4,6,,,
+UBC,2017,W,MATH,341,,201,INT DISCRT MATHS,"Zahl, Joshua",49,66.57,19.85,100,23,37,7,4,0,0,0,0,2,3,2,7,7,2,2,2,5,3,1,5,6,4,,,
+UBC,2018,W,MATH,120,,101,DIFFER CALCULUS,"Zahl, Joshua",59,72.13,13.48,97,38,52,2,3,0,2,0,0,0,2,0,2,2,4,5,3,10,5,7,6,5,5,,,
+UBC,2018,W,MATH,320,,101,REAL VARIABLS I,"Zahl, Joshua",50,75.29,15.23,96,26,45,3,2,0,0,0,0,1,0,2,3,1,4,2,1,7,4,7,3,6,10,,,
+UBC,2018,W,MATH,442,,201,OPT GRPHS&NETWKS,"Zahl, Joshua",41,71.33,13.8,96,41,39,1,1,0,0,0,0,0,0,1,1,5,4,2,3,5,2,3,8,5,2,,,
+UBC,2018,W,MATH,616,A,201,DISCRETE MATH,"Zahl, Joshua",10,85.4,5.7,90,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,1,,,
+UBCV,2016,W,MATH,120,,101,Honours Differential Calculus,Joshua Zahl,29,73.03448276,19.84130389,100.0,0.0,,,,,,,,,,,2,0,1,4,4,3,0,3,4,3,5,,,
+UBCV,2017,W,MATH,120,,101,Honours Differential Calculus,Joshua Zahl,41,72.146341463,15.211115961,98.0,40.0,,,,,,,,,,,1,4,6,2,4,3,2,1,6,6,6,,,
+UBCV,2017,W,MATH,320,,102,Real Variables I,Gordon Slade;Joshua Zahl,41,67.780487805,19.757925239,95.0,22.0,,,,,,,,,,,6,3,1,3,4,4,5,2,3,4,6,,,
+UBCV,2017,W,MATH,341,,201,Introduction to Discrete Mathematics,Joshua Zahl,45,66.755555556,19.659783079,100.0,23.0,,,,,,,,,,,7,7,2,2,2,5,4,1,5,6,4,,,
+UBCV,2018,W,MATH,120,,101,Honours Differential Calculus,Adam Martens;Joshua Zahl,56,70.25,16.505921802,97.0,17.0,,,,,,,,,,,4,2,4,5,3,10,5,7,6,5,5,,,
+UBCV,2018,W,MATH,320,,101,Real Variables I,Amir Hossein Parvardi;Joshua Zahl,48,75.291666667,15.231488008,96.0,26.0,,,,,,,,,,,3,1,4,2,1,7,4,7,3,6,10,,,
+UBCV,2018,W,MATH,442,,201,Optimization in Graphs and Networks,Joshua Zahl,40,71.325,13.80150029,96.0,41.0,,,,,,,,,,,1,5,4,2,3,5,2,3,8,5,2,,,
+UBCV,2018,W,MATH,616,A,201,Topics in Discrete Mathematics,Joshua Zahl,10,85.4,5.699902533,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,8,1,,,
+UBCV,2019,W,MATH,120,,101,Honours Differential Calculus,Joshua Zahl;Taeuk Nam,31,70.516129032,12.518974846,93.0,37.0,,,,,,,,,,,2,0,1,4,6,4,6,0,3,3,2,,,
+UBCV,2019,W,MATH,541,,101,Harmonic Analysis I,Izabella Laba;Joshua Zahl;Tongou Yang,14,88.785714286,4.901782587,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,7,,,
+UBCV,2020,W,MATH,120,,101,Honours Differential Calculus,Gregory Martin;Joshua Zahl;Ray Ng;Victor Wang;Zhengheng Bao,51,75.823529412,14.264229222,98.0,29.0,,,,,,,,,,,3,0,2,3,1,4,6,3,16,8,5,,,
+UBCV,2020,W,MATH,320,,101,Real Variables I,Adam Martens;Gordon Slade;Joshua Zahl;Jozsef Solymosi;Malabika Pramanik;Mukul Rai Choudhuri,38,68.394736842,16.55219341,95.0,18.0,,,,,,,,,,,7,1,3,3,1,4,5,4,4,3,3,,,
+UBCV,2020,W,MATH,320,,102,Real Variables I,Adam Martens;Ailana Fraser;Joshua Zahl;Mukul Rai Choudhuri;Sven Bachmann,22,69.545454545,15.774383311,100.0,23.0,,,,,,,,,,,2,0,1,1,3,5,2,4,2,1,1,,,
+UBCV,2020,W,MATH,541,,101,Harmonic Analysis I,Joshua Zahl,7,87.142857143,8.933617622,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,3,,,
+UBCV,2021,W,MATH,319,,101,Introduction to Real Analysis,Andrew Rechnitzer;Joshua Zahl;Mukul Rai Choudhuri,22,66.954545455,13.036495559,91.0,41.0,,,,,,,,,,,3,0,2,3,2,3,3,2,2,1,1,,,
+UBCV,2021,W,MATH,320,,101,Real Variables I,Joshua Zahl;Simone Coccia;Yiheng Liu,34,60.794117647,21.662395027,97.0,10.0,,,,,,,,,,,11,3,0,2,2,3,6,2,1,1,3,,,
+UBCV,2021,W,MATH,320,,102,Real Variables I,Joshua Zahl;Simone Coccia;Sven Bachmann;Yiheng Liu,23,61.043478261,22.469126821,96.0,7.0,,,,,,,,,,,6,0,3,1,3,5,1,0,1,1,2,,,
+UBCV,2021,W,MATH,541,,101,Harmonic Analysis I,Caleb Marshall;Izabella Laba;Joshua Zahl,10,94.9,6.402256547,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,8,,,
+UBCV,2021,W,MATH,319,,101,Introduction to Real Analysis,Andrew Rechnitzer;Joshua Zahl,22,67.0,,91.0,41.0,,,,,,,,,,,,,,,,,,,,,,69.0,75.3,60.0
+UBCV,2021,W,MATH,320,,101,Real Variables I,Joshua Zahl,38,59.6,,97.0,10.0,,,,,,,,,,,13,,,,,,6,,,,,64.0,74.8,46.0
+UBCV,2021,W,MATH,320,,102,Real Variables I,Sven Bachmann;Joshua Zahl,26,59.9,,96.0,7.0,,,,,,,,,,,7,,,,,,,,,,,62.5,71.0,49.5
+UBCV,2023,W,MATH,321,,201,Real Variables II,Joshua Zahl,42,66.1,,90.0,27.0,,,,,,,,,,,4,1,6,3,1,7,5,5,2,2,1,69.0,76.0,55.0
+UBCV,2023,W,MATH,610,D,201,Topics in Pure Mathematics,Joshua Zahl,6,91.5,,92.0,91.0,,,,,,,,,,,,,,,,,,,,,,91.5,91.75,91.25

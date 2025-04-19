@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,MATH,301,,201,Applied Analysis,John Macdonald,33,76.72727273,13.25300138,98.0,40.0,,,,,,6,5,,,,8,,,
+UBCV,2014,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,32,85.21875,10.58829047,98.0,50.0,0,,,,,,,,,8,14,,,
+UBCV,2014,W,MATH,414,,101,Mathematical Demonstrations,John Macdonald,26,86.73076923,6.069976556,97.0,77.0,0,0,0,0,0,0,0,5,3,8,10,,,
+UBCV,2015,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,40,80.775,7.852771844,95.0,62.0,0,0,0,,,,4,,12,9,6,,,
+UBCV,2015,W,MATH,414,,101,Mathematical Demonstrations,John Macdonald,26,80.653846154,7.838072762,98.0,68.0,0,0,0,0,0,,,5,7,,,,,
+UBCV,2015,W,SCIE,113,,21A,First-Year Seminar in Science,Gunilla Oberg;John Macdonald,25,74.2,12.376052144,95.0,50.0,0,,,,,,5,,,,,,,
+UBCV,2016,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,45,77.53333333,10.25936379,96.0,55.0,0,0,3,4,0,4,6,5,11,8,4,,,
+UBCV,2016,W,MATH,414,,101,Mathematical Demonstrations,John Macdonald,29,79.06896552,7.284675865,97.0,66.0,0,0,0,0,1,2,8,5,5,6,2,,,
+UBCV,2016,W,SCIE,113,,213,First-Year Seminar in Science,Gunilla Oberg;John Macdonald,25,76.24,5.117616633,85.0,65.0,0,0,0,0,1,2,7,5,8,2,0,,,
+UBCV,2017,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,48,76.604166667,14.457184893,100.0,8.0,2,0,0,2,1,3,8,5,14,10,3,,,
+UBCV,2017,W,MATH,414,,101,Mathematical Demonstrations,John Macdonald,30,78.4,6.85112626,92.0,62.0,0,0,0,1,0,4,3,8,7,6,1,,,
+UBCV,2017,W,SCIE,113,,212,First-Year Seminar in Science,John Macdonald,25,73.08,8.144118532,88.0,58.0,0,0,2,2,2,3,7,2,5,2,0,,,
+UBCV,2017,W,SCIE,113,,214,First-Year Seminar in Science,John Macdonald,25,72.28,8.101028741,84.0,58.0,0,0,2,2,4,3,4,2,8,0,0,,,
+UBCV,2018,W,MATH,312,,101,Introduction to Number Theory,Adela Gherga;John Macdonald,80,71.4625,14.142085276,95.0,33.0,4,4,3,13,8,3,13,6,12,5,9,,,
+UBCV,2018,W,MATH,414,,101,Mathematical Demonstrations,Bowen Tian;John Macdonald;Tobias Huxol,30,79.4,6.026378795,92.0,68.0,0,0,0,0,0,3,6,3,10,7,1,,,
+UBCV,2018,W,MATH,444,,201,Mathematical Research and Writing,John Macdonald;Richard Anstee,16,72.6875,10.110844014,87.0,55.0,0,0,1,4,0,0,4,1,4,2,0,,,
+UBCV,2018,W,SCIE,113,,212,First-Year Seminar in Science,Elise Gallois;John Macdonald,27,76.148148148,6.249330448,83.0,61.0,0,0,0,2,1,3,4,7,10,0,0,,,
+UBCV,2019,W,MATH,312,,101,Introduction to Number Theory,Daniel Di Benedetto;John Macdonald,74,78.391891892,14.893979263,99.0,44.0,2,3,1,10,5,8,2,2,6,9,26,,,
+UBCV,2019,W,MATH,414,,101,Mathematical Demonstrations,Alejandra Herrera Reyes;John Macdonald,30,77.933333333,6.917909458,91.0,64.0,0,0,0,0,2,3,6,5,9,4,1,,,
+UBCV,2019,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Paula Littlejohn,20,77.3,5.100051599,85.0,68.0,0,0,0,0,0,3,3,8,3,3,0,,,
+UBCV,2019,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Xinru Li,25,77.6,5.131601439,88.0,68.0,0,0,0,0,0,2,6,7,6,4,0,,,
+UBCV,2020,W,MATH,312,,101,Introduction to Number Theory,Federico Scavia;John Macdonald;Reza Sadoughianzadeh,91,81.153846154,14.064078022,99.0,25.0,3,2,1,4,2,4,6,11,15,11,32,,,
+UBCV,2020,W,MATH,414,,101,Mathematical Demonstrations,Caleb Marshall;Jiahao Gong;John Macdonald;Maria Luisa Melania Adem,35,86.2,7.435210349,96.0,72.0,0,0,0,0,0,0,3,5,7,4,16,,,
+UBCV,2020,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;Isaac Jonas;John Macdonald,23,80.043478261,3.03731731,86.0,74.0,0,0,0,0,0,0,1,7,12,3,0,,,
+UBCV,2020,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald;Michael Turley,23,80.695652174,3.443502216,88.0,74.0,0,0,0,0,0,0,1,7,11,4,0,,,
+UBCV,2021,W,MATH,312,,101,Introduction to Number Theory,Devang Agarwal;John Macdonald,63,73.349206349,21.68034544,100.0,8.0,9,1,2,2,4,6,5,5,4,7,18,,,
+UBCV,2021,W,MATH,312,,201,Introduction to Number Theory,Anwesh Ray;John Macdonald;Lior Silberman;Sina Saleh,75,87.64,10.400935509,100.0,47.0,1,0,0,0,1,4,6,2,9,10,42,,,
+UBCV,2021,W,MATH,414,,101,Mathematical Demonstrations,Jacob Stockton;John Macdonald;Maria Luisa Melania Adem,33,79.303030303,6.988762625,96.0,70.0,0,0,0,0,0,4,8,4,8,7,2,,,
+UBCV,2021,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;Elina Eronen;John Macdonald,23,79.130434783,2.735363493,82.0,73.0,0,0,0,0,0,0,3,7,13,0,0,,,
+UBCV,2021,W,SCIE,113,,212,First-Year Seminar in Science,Amirhossein Rashidi;Caitlin Donnelly;John Macdonald,25,78.48,14.382048996,85.0,11.0,1,0,0,0,0,0,1,4,17,2,0,,,
+UBCV,2021,W,MATH,312,,101,Introduction to Number Theory,John Macdonald,63,73.9,,100.0,8.0,8,,,,,6,,,,7,18,77.0,90.0,65.0
+UBCV,2021,W,MATH,312,,201,Introduction to Number Theory,John Macdonald;Anwesh Ray,75,87.6,,100.0,47.0,,,,,,,6,,9,10,42,91.0,96.0,81.5
+UBCV,2021,W,MATH,414,,101,Mathematical Demonstrations,Maria Luisa Melania Adem;John Macdonald,33,79.3,,96.0,70.0,,,,,,,8,,8,7,,80.0,85.0,73.0
+UBCV,2021,W,SCIE,113,,211,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald,23,79.1,,82.0,73.0,,,,,,,,7,13,,,80.0,82.0,77.5
+UBCV,2021,W,SCIE,113,,212,First-Year Seminar in Science,Caitlin Donnelly;John Macdonald,25,78.5,,85.0,11.0,,,,,,,,,17,,,82.0,83.0,80.0

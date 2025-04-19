@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,PHIL,461,,001,Philosophy of Social Science,Alison Wylie;Margaret Wylie,12,68.333333333,29.481375734,90.0,0.0,2,1,0,1,0,0,0,0,3,4,1,,,
+UBCV,2017,W,PHIL,560,A,001,Philosophy of Science,Alison Wylie;Christopher Stephens;Margaret Wylie,8,83.375,19.784102565,94.0,35.0,1,0,0,0,0,0,0,0,0,3,4,,,
+UBCV,2018,W,ANTH,495,B,001,Advanced Studies in Anthropology,Alison Wylie;Margaret Wylie,7,80.285714286,27.041414446,97.0,21.0,1,0,0,0,0,0,0,1,0,2,3,,,
+UBCV,2019,W,PHIL,561,A,001,Topics in Science and Technology Studies,Alison Wylie;Margaret Wylie,10,91.7,3.497618237,96.0,84.0,0,0,0,0,0,0,0,0,1,1,8,,,
+UBCV,2019,W,STS,502,,002,Core Seminar in Science and Technology Studies,Alison Wylie;Dawn Heather Currie;Margaret Wylie;Renisa Mawani,10,88.1,8.425490424,96.0,66.0,0,0,0,0,1,0,0,0,0,4,5,,,
+UBCV,2020,W,PHIL,337,,001,Ethics for the Sciences,Alison Wylie,8,86.375,9.085899594,94.0,65.0,0,0,0,0,1,0,0,0,0,4,3,,,
+UBCV,2020,W,PHIL,419,A,001,Philosophy of History,Alison Wylie,7,85.714285714,9.013217807,95.0,73.0,0,0,0,0,0,0,2,0,0,2,3,,,
+UBCV,2020,W,PHIL,540,A,001,Epistemology,Alison Wylie;Jonathan Ichikawa,10,89.8,4.341018826,97.0,82.0,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2020,W,STS,502,,002,Core Seminar in Science and Technology Studies,Alan Walter Richardson;Alison Wylie;Thomas Kemple,7,77.428571429,25.382783817,90.0,20.0,1,0,0,0,0,0,0,0,0,5,1,,,
+UBCV,2021,S,PHIL,101,,001,Introduction to Philosophy,Alison Wylie;Graham Moore;Nathan Cockram;Samuel Delorme;Serban Dragulin;Zhiyu Luo,56,78.071428571,16.113074469,95.0,3.0,2,1,2,1,0,3,8,7,10,14,8,,,
+UBCV,2021,W,ARCL,410,A,002,Archaeology of a Special Area,Alison Wylie,7,82.285714286,18.080507789,95.0,49.0,1,0,0,0,1,0,0,0,0,1,4,,,
+UBCV,2021,S,PHIL,101,,001,Introduction to Philosophy,Alison Wylie,56,78.1,,95.0,3.0,,,,,,,8,7,10,14,8,81.0,88.0,74.5
+UBCV,2021,W,ARCL,410,A,002,Archaeology of a Special Area,Alison Wylie,7,82.3,,95.0,49.0,,,,,,,,,,,,92.0,94.0,76.0
+UBCV,2022,W,PHIL,337,,001,Ethics for the Sciences,Alison Wylie,37,84.0,,96.0,20.0,1,0,0,0,0,0,1,2,10,16,7,86.0,89.0,82.0
+UBCV,2022,W,PHIL,461,,001,Philosophy of Social Science,Alison Wylie,12,82.9,,92.0,56.0,0,0,1,0,0,1,0,0,3,2,5,85.5,90.0,82.3

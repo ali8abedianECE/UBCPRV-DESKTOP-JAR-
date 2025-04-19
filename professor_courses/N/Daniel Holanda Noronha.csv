@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,CPEN,311,,201,Digital Systems Design,Al-Shahna Jamal;Amin Ghasemazar;Daniel Holanda Noronha;Jose Pinilla Gomez;Kahlan Gibson;Maximilian Golub;Mieszko Lis;Peter Deutsch,107,66.140186916,18.475607886,99.0,0.0,11,6,13,13,9,12,10,11,9,6,7,,,
+UBCV,2018,W,CPEN,311,,101,Digital Systems Design,Amin Ghasemazar;Daniel Holanda Noronha;Guanxiong Chen;Jose Pinilla Gomez;Kahlan Gibson;Mieszko Lis;Mohamed Omran Matar,118,68.610169492,17.356017651,99.0,21.0,14,10,6,8,13,17,6,9,11,12,12,,,
+UBCV,2018,W,CPEN,311,,201,Digital Systems Design,Daniel Holanda Noronha;Deval Shah;Jose Pinilla Gomez;Kahlan Gibson;Lakshmi Lavanya Bodepu;Yair Linn;Zhonghua Zhou,120,79.058333333,17.002370489,100.0,9.0,11,3,3,1,7,8,4,7,21,21,34,,,
+UBCV,2019,W,CPEN,400,D,202,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Scott Chin,35,85.228571429,8.530518618,97.0,67.0,0,0,0,0,1,2,3,2,7,6,14,,,
+UBCV,2020,W,CPEN,400,D,106,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Scott Chin,71,88.690140845,7.916694024,99.0,51.0,0,1,0,0,1,0,1,4,7,21,36,,,
+UBCV,2021,S,APSC,160,,921,Introduction to Computation in Engineering Design,Amirhossein Omidvarpashesar;Anindya Roy;Daniel Holanda Noronha;Farshid Agharebparast;Joel Hernandez-Balades;Jose Pinilla Gomez;Yinjia Huo,108,81.731481481,13.485614684,100.0,25.0,6,0,0,4,2,7,5,13,14,21,36,,,
+UBCV,2021,W,CPEN,400,D,106,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Jose Pinilla Gomez;Scott Chin,88,86.090909091,8.219176293,99.0,61.0,0,0,0,2,2,0,6,8,15,18,37,,,
+UBCV,2021,S,APSC,160,,921,Introduction to Computation in Engineering Design,Daniel Holanda Noronha,108,81.7,,100.0,25.0,6,,,,,7,,13,14,21,36,85.0,91.0,76.0

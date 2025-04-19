@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Alex Shiu Lun Chu;Elyse Yeager;Hrishikesh Patel;Laurent Mackay;Mingfei Shi;Nicholas Lai,108,74.703703704,16.237293672,99.0,4.0,4,6,7,6,9,4,8,16,17,14,17,,,
+UBCV,2021,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Alex Shiu Lun Chu;Elyse Yeager;Laurent Mackay;Mingfei Shi;Nicholas Lai,101,70.396039604,16.066785122,97.0,19.0,11,4,6,4,10,10,13,13,11,7,12,,,
+UBCV,2021,W,MATH,256,,201,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Laurent Mackay;Matthew Scott;Thomasina Ball;Tuoxin Li,102,67.303921569,17.142841485,99.0,15.0,12,12,7,9,5,11,13,5,11,10,7,,,
+UBCV,2021,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Laurent Mackay;Elyse Yeager,108,74.7,,99.0,4.0,,6,7,6,9,,8,16,17,14,17,78.0,86.0,66.0
+UBCV,2021,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Laurent Mackay;Elyse Yeager,101,70.8,,97.0,28.0,10,,6,,10,10,13,14,11,7,12,74.0,80.0,64.0
+UBCV,2021,W,MATH,256,,201,Differential Equations,Eric Cytrynbaum;Laurent Mackay,101,67.5,,99.0,15.0,11,12,7,9,,11,13,,11,10,7,69.0,81.0,57.0

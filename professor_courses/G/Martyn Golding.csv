@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,EOSC,116,,201,MESOZOIC EARTH,"Golding, Martyn;Mortensen, James;Sherman, Sarah",175,73.64,11.49,95,41,169,3,3,0,0,0,0,0,0,3,3,6,9,11,24,17,19,18,29,19,17
+UBC,2014,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Bustin, Robert Marc;Golding, Martyn;Mortensen, James;Smith, Paul Laurence",65,74.79,4.08,85,64,63,0,2,0,0,0,0,0,0,0,0,0,0,0,2,10,22,19,9,1,0
+UBC,2014,W,EOSC,421,,201,ADV SEDIMNTLGY,"Golding, Martyn",9,75,7.91,83,61,9,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,4,0,0
+UBC,2014,W,EOSC,425,,101,PALEONTOLOGY,"Golding, Martyn;Smith, Paul Laurence",23,81,4.89,90,72,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,11,4,2
+UBC,2015,W,EOSC,425,,101,PALEONTOLOGY,"Golding, Martyn;Smith, Paul Laurence",10,78.4,3.63,86,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,1,0
+UBC,2017,W,EOSC,320,,201,SEDIMENTOLOGY,"Golding, Martyn",38,78.61,7.55,91,52,38,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,2,12,11,5,3
+UBC,2018,W,EOSC,223,,201,FIELD TECHNIQUES,"Golding, Martyn;Mindell, Randal;Simpson, Kirsten Anne",66,75.36,11.52,91,9,63,1,2,0,0,1,0,0,0,0,1,1,0,1,8,6,9,12,17,6,3
+UBCV,2014,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Emily Don Scribner;Emily Scribner;James Mortensen;Martyn Golding;Pejman Rasouli;Sarah Sherman,172,73.63953488,11.49412542,95.0,41.0,,,,,,,,,,,3,6,9,11,24,17,19,18,29,19,17
+UBCV,2014,W,EOSC,223,,201,Field Techniques,Cody Steven;Dana Caudle;James Mortensen;Martyn Golding;Mary Lou Bevier;Nicholas Rush;Paul Laurence Smith;Rachel So Young Kim;Robert Marc Bustin,63,74.79365079,4.084426481,85.0,64.0,,,,,,,,,,,0,0,0,0,,10,22,19,9,,0
+UBCV,2014,W,EOSC,421,,201,Advanced Sedimentology,Marie Turnbull;Martyn Golding,9,75.0,7.90569415,83.0,61.0,,,,,,,,,,,0,0,0,,,,,,,0,0
+UBCV,2014,W,EOSC,425,,101,Paleontology,Martyn Golding;Paul Laurence Smith,23,81.0,4.889692312,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,11,,
+UBCV,2015,W,EOSC,425,,101,Paleontology,Martyn Golding;Paul Laurence Smith;Paul Smith;Rhylan Mcmillan,10,78.4,3.627058802,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,5,,,0
+UBCV,2017,W,EOSC,320,,201,Sedimentology,Afshin Amini;David Zeko;Martyn Golding;Robert Marc Bustin,38,78.605263158,7.549975743,91.0,52.0,,,,,,,,,,,0,1,0,1,0,3,2,12,11,5,3
+UBCV,2018,W,EOSC,223,,201,Field Techniques,Cara Manning;David Zeko;Emily Miller;James Nott;Kirsten Anne Simpson;Kirsten Simpson;Martyn Golding;Mu Li;Randal Alexander Mindell;Randal Mindell;Ryan Shaw;Shane O'Neill,64,75.359375,11.518607703,91.0,9.0,,,,,,,,,,,1,1,0,1,8,6,9,12,17,6,3

@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2022,W,STAT,302,,202,Introduction to Probability,Vivian Meng,123,69.3,100.0,0.0,18,5,6,8,7,13,10,11,18,13,14,74.0,83.5,61.5
+UBCV,2023,W,DSCI,100,,008,Introduction to Data Science,Vivian Meng,177,78.8,96.0,8.0,6,4,1,9,10,9,13,18,33,39,31,82.0,89.0,73.0
+UBCV,2023,W,STAT,302,,201,Introduction to Probability,Vivian Meng,162,70.9,98.0,0.0,8,9,15,12,18,19,17,15,13,12,19,71.0,81.0,62.0
+UBCV,2023,W,STAT,302,,202,Introduction to Probability,Vivian Meng,147,72.2,98.0,11.0,13,4,10,8,11,17,11,19,23,11,17,74.5,83.0,64.0
+UBCV,2023,W,STAT,305,,101,Introduction to Statistical Inference,Vivian Meng,133,73.4,100.0,11.0,6,3,10,10,14,13,15,13,15,13,20,74.0,84.3,65.8

@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MEDI,570,,001,CARDIOVAS PATH,"Seidman, Michael",12,93.58,4.25,99,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+UBC,2017,W,PATH,501,,001,FND HUMN HISTOPT,"Lee, Anna;Myles, Nickolas;Quandt, Jacqueline;Seidman, Michael;Walker, David;Yip, Stephen",16,87.29,7.15,98,70,14,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,5
+UBC,2018,W,MEDI,570,,001,CARDIOVAS PATH,"Seidman, Michael",13,90.75,5.64,99,81,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7
+UBC,2018,W,PATH,375,,001,INTRO HUMAN PATH,"Seidman, Michael;Van den Elzen, Peter",75,81.88,11.54,96,32,73,1,1,0,0,0,0,0,1,0,1,0,2,2,3,3,6,13,9,10,25
+UBC,2018,W,PATH,501,,001,FND HUMN HISTOPT,"Lee, Anna;Quandt, Jacqueline;Schutz, Peter;Seidman, Michael;Walker, David;Yip, Stephen",14,87.5,3.59,93,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,3

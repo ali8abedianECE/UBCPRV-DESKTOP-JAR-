@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",16,77.13,8.81,89,53,16,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,5,4,3,0
+UBC,2010,W,PATH,404,,001,HISTOCHEMISTRY,"Nielsen, Torsten;Park, Carol;Xenakis, Jennifer",18,79.67,4.98,91,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,8,2,1
+UBC,2011,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",15,80.4,3.33,87,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,1,0
+UBC,2011,W,PATH,404,,001,HISTOCHEMISTRY,"Nielsen, Torsten;Park, Carol;Xenakis, Jennifer",20,76.65,5.43,88,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,7,3,2,0
+UBC,2012,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",23,80.91,4.51,93,72,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,9,3,1
+UBC,2012,W,PATH,404,,001,HISTOCHEMISTRY,"Nielsen, Torsten;Park, Carol;Xenakis, Jennifer",15,82.47,3.09,89,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3,0
+UBC,2014,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",22,82.71,7.56,91,60,21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4,4,8,3
+UBC,2014,W,PATH,404,,001,HISTOCHEMISTRY,"Xenakis, Jennifer",23,78.13,6.24,89,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,4,6,4,0
+UBC,2015,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",22,77.1,7.74,92,65,21,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,3,6,2,4,1
+UBC,2015,W,PATH,404,,001,HISTOCHEMISTRY,"Xenakis, Jennifer",19,79.95,5.78,88,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,6,5,0
+UBC,2015,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",20,85.6,5.23,92,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,4
+UBC,2016,W,PATH,306,,001,MED LAB SAFETY,"Xenakis, Jennifer",15,85.6,5.7,93,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,6,4
+UBC,2016,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",21,84.62,7.86,96,68,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,3,8,5
+UBC,2017,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",12,78.58,5.88,85,66,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,6,1,0
+UBC,2017,W,PATH,306,,001,MED LAB SAFETY,"Xenakis, Jennifer",12,85.25,5.17,94,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,2
+UBC,2017,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",13,83.69,14.41,96,41,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,4,5
+UBC,2018,W,PATH,300,,001,BACKGRD MED LAB,"Xenakis, Jennifer",24,84.5,5.48,94,71,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,11,3
+UBC,2018,W,PATH,306,,001,MED LAB SAFETY,"Xenakis, Jennifer",24,88.63,3.89,96,80,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,11
+UBC,2018,W,PATH,404,,001,HISTOCHEMISTRY,"Xenakis, Jennifer",11,73.27,10.77,85,56,11,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,1,4,1,0
+UBC,2018,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Orton, Dennis;Price, Richard;Pudek, Morris;Purssell, Roy;Wang, Li;Xenakis, Jennifer",12,85.58,7.45,94,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,6

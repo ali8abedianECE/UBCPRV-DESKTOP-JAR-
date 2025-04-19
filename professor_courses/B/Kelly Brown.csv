@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,MICB,202,,101,MED MICB & IMMUN,"Brown, Kelly;Kion, Tracy",289,76.81,11.13,97,42,284,2,1,0,1,0,0,0,0,2,2,7,17,16,22,17,36,26,59,60,24,,,
+UBC,2018,W,MICB,202,,203,MED MICB & IMMUN,"Brown, Kelly;Kion, Tracy",218,81.53,12.19,100,39,210,6,2,0,0,0,0,0,1,5,6,3,3,7,10,12,16,23,27,43,66,,,
+UBCV,2017,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Brigid Conroy;Kelly Brown;Tracy Kion,288,76.489583333,12.019143956,97.0,0.0,,,,,,,,,,,3,7,17,17,22,17,36,26,59,60,24,,,
+UBCV,2018,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Jenifer Spence;Kelly Brown;Tracy Kion,216,81.532407407,12.191833551,100.0,39.0,,,,,,,,,,,6,3,3,7,10,12,16,23,27,43,66,,,
+UBCV,2021,W,MICB,412,,201,Topics in Immunological Research,Kelly Brown;Kenneth Harder;Michael Gold;Pauline Johnson,14,88.714285714,3.604027052,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,7,,,
+UBCV,2021,W,MICB,412,,201,Topics in Immunological Research,Kelly Brown;Michael Gold;Kenneth Harder,14,88.7,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,7,89.5,91.0,85.3
+UBCV,2022,W,WACH,501,,001,Women+ and Children's Health,Alexander Guillermo Beristain;Kelly Brown,23,86.6,,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,7,7,86.0,90.5,83.0
+UBCV,2023,W,WACH,501,,001,Women+ and Children's Health,Alexander Guillermo Beristain;Kelly Brown,17,88.47,,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,7,89.0,91.0,87.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MTRL,381,,201,STRUC&PRPTY LAB,"Liu, Chenglu",33,77.09,8.35,93,66,33,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,2,3,7,3,3
+UBC,2015,W,MTRL,381,,201,STRUC&PRPTY LAB,"Liu, Chenglu",48,79.23,6.36,94,68,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,11,15,6,2
+UBCV,2014,W,MTRL,381,,201,Structure and Properties Laboratory,Chenglu Liu;Madhumanti Mandal;Mandal Madhumanti,33,77.09090909,8.34552139,93.0,66.0,,,,,,,,,,,0,0,0,0,,12,,,7,,
+UBCV,2015,W,MTRL,381,,201,Structure and Properties Laboratory,Chenglu Liu;Hsueh Fen Chien;Madhumanti Mandal;Mandal Madhumanti,48,79.229166667,6.358909258,94.0,68.0,,,,,,,,,,,0,0,0,0,0,5,9,11,15,6,2

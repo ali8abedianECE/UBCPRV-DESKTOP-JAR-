@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,SSED,317,,301,CURR TPCS SS:SEC,"Clark, Penney;den Heyer, Kent",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,SSED,317,,302,CURR TPCS SS:SEC,"Clark, Penney;den Heyer, Kent",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,SSED,317,,302,CURR TPCS SS:SEC,"den Heyer, Kent",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EPSE,534,B,075,ACAD ASSESS SCHL,"McIntosh, Kent",5,81.6,6.58,91,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1
+UBC,2006,W,EPSE,552,B,074,INTRVT SCH PSYCH,"McIntosh, Kent",6,92,3.85,97,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2007,W,ENGL,112,,03A,STRAT UNIV WRIT,"KENT, EDWARD",35,70.31,13.12,80,0,34,1,0,0,0,1,0,0,0,0,1,0,0,2,2,11,11,4,4,0,0
+UBC,2007,W,ENGL,112,,03R,STRAT UNIV WRIT,"KENT, EDWARD",30,74.53,9.39,88,34,29,1,0,0,0,0,0,0,1,0,1,0,0,0,1,6,7,6,8,1,0
+UBC,2007,W,ENGL,112,,07C,STRAT UNIV WRIT,"KENT, EDWARD",33,66.48,10.73,82,31,31,2,0,0,0,0,0,0,2,0,2,0,0,7,9,5,5,3,2,0,0
+UBC,2007,W,ENGL,112,,13M,STRAT UNIV WRIT,"KENT, EDWARD",37,72.3,7.01,82,45,36,1,0,0,0,0,0,0,0,1,1,0,1,0,5,8,7,11,4,0,0
+UBC,2007,W,EPSE,531,,074,CURRIC AS&INTERV,"McIntosh, Kent",8,91.5,5.68,95,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7
+UBC,2007,W,EPSE,552,A,074,SCH INTRVENTIONS,"McIntosh, Kent",15,92.13,3,97,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12
+UBC,2007,W,EPSE,561,B,074,LAB PRACTICUM,"McIntosh, Kent",6,87.67,13.4,99,63,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,4
+UBC,2009,W,EPSE,531,,074,CURRIC AS&INTERV,"McIntosh, Kent",10,89.63,3.7,97,85,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2009,W,EPSE,531,,090,CURRIC AS&INTERV,"McIntosh, Kent",9,89.22,5.43,97,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6
+UBC,2009,W,EPSE,552,A,074,SCH INTRVENTIONS,"McIntosh, Kent",17,91.76,3.36,95,84,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14
+UBC,2009,W,EPSE,561,A,074,LAB PRACTICUM,"McIntosh, Kent",8,92.38,2.67,95,87,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2010,W,COMM,486,W,119,SPECIAL TPC BUSI,"Kent, Duncan",17,70.94,19.17,88,0,16,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,9,2,1,2,0
+UBC,2010,W,COMM,486,W,120,SPECIAL TPC BUSI,"Kent, Duncan",16,76.56,4.65,86,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3,3,1,0
+UBC,2010,W,COMM,486,W,217,SPECIAL TPC BUSI,"Kent, Duncan",14,77.29,9.57,89,49,13,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,4,4,2,0
+UBC,2010,W,COMM,486,W,218,SPECIAL TPC BUSI,"Kent, Duncan",9,80.89,4.99,87,74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2,0
+UBC,2010,W,EPSE,531,,074,CURRIC AS&INTERV,"McIntosh, Kent",9,91.22,1.99,95,89,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7
+UBC,2010,W,EPSE,531,,090,CURRIC AS&INTERV,"McIntosh, Kent",5,90,3.32,95,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2010,W,EPSE,561,A,074,LAB PRACTICUM,"McIntosh, Kent",8,91.63,4.78,97,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+UBC,2010,W,EPSE,561,A,090,LAB PRACTICUM,"Lacroix, Serge;McIntosh, Kent",6,92.5,3.27,97,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2010,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",18,81,7.26,94,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,6,2,3
+UBC,2011,S,COMM,486,W,921,SPECIAL TPC BUSI,"Kent, Duncan",18,79.28,4.32,85,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,10,1,0
+UBC,2011,S,COMM,486,W,922,SPECIAL TPC BUSI,"Kent, Duncan",19,76.16,3.11,82,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,3,0,0
+UBC,2011,S,COMM,486,W,926,SPECIAL TPC BUSI,"Kent, Duncan",20,81.75,4.78,91,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,4,2
+UBC,2011,W,COMM,390,,109,BUSINESS WRITING,"Kent, Duncan",20,78.5,4.15,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,2,0
+UBC,2011,W,COMM,390,,110,BUSINESS WRITING,"Kent, Duncan",20,77.15,10.54,90,36,19,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,6,9,0,1
+UBC,2011,W,COMM,390,,206,BUSINESS WRITING,"Kent, Duncan",20,76,3.51,82,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,7,5,0,0
+UBC,2011,W,COMM,390,,212,BUSINESS WRITING,"Kent, Duncan",20,74.75,10.33,88,36,19,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,10,2,4,2,0
+UBC,2011,W,EPSE,632,,075,SYSTEMS CHANGE,"McIntosh, Kent",7,88.29,5.82,96,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3
+UBC,2011,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",20,77.3,7.49,91,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,4,4,3,1
+UBC,2011,W,PHAR,450,B,019,SELECTED TOPICS,"Kent, Debra Ann",44,92.64,2.96,98,86,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,39
+UBC,2012,W,COMM,390,,111,BUSINESS WRITING,"Kent, Duncan",20,76.55,4.32,83,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,3,7,0,0
+UBC,2012,W,COMM,390,,112,BUSINESS WRITING,"Kent, Duncan",17,79.18,3.36,85,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,6,2,0
+UBC,2012,W,COMM,390,,206,BUSINESS WRITING,"Kent, Duncan",13,78.92,5.17,90,73,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,2,1
+UBC,2012,W,COMM,390,,211,BUSINESS WRITING,"Kent, Duncan",20,75.42,11.59,84,29,18,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,3,9,6,0,0
+UBC,2012,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",15,85.87,5.82,94,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,5
+UBC,2012,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",50,92.28,3.19,98,82,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,40
+UBC,2013,W,COMM,390,,105,BUSINESS WRITING,"Kent, Duncan",20,78,3.13,86,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,5,1,0
+UBC,2013,W,COMM,390,,106,BUSINESS WRITING,"Kent, Duncan",20,76.79,5.2,85,69,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,5,4,4,2,0
+UBC,2013,W,COMM,390,,205,BUSINESS WRITING,"Kent, Duncan",20,78.55,3.78,88,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,7,1,0
+UBC,2013,W,COMM,390,,206,BUSINESS WRITING,"Kent, Duncan",20,70.2,21.42,92,0,18,2,0,0,0,1,0,1,0,0,2,0,0,0,0,3,5,6,3,0,1
+UBC,2013,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",22,83.91,5.41,93,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,8,3
+UBC,2013,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",47,90.15,3.36,95,82,46,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,28
+UBC,2014,W,COMM,390,,106,BUSINESS WRITING,"Kent, Duncan",20,79.55,4.19,86,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,6,4,0
+UBC,2014,W,COMM,390,,107,BUSINESS WRITING,"Kent, Duncan",20,77.35,3.51,84,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,5,0,0
+UBC,2014,W,COMM,390,,204,BUSINESS WRITING,"Kent, Duncan",20,78.65,4.61,87,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,6,3,0
+UBC,2014,W,COMM,390,,205,BUSINESS WRITING,"Kent, Duncan",19,77.28,5.38,86,69,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,5,2,0
+UBC,2014,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",23,80.78,8.96,93,63,23,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,5,9,2
+UBC,2014,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",70,91.57,3.55,97,74,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16,53
+UBC,2015,W,COMM,390,,105,BUSINESS WRITING,"Kent, Duncan",20,79.15,5.24,85,61,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8,8,2,0
+UBC,2015,W,COMM,390,,106,BUSINESS WRITING,"Kent, Duncan",19,76.21,5.37,84,57,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,9,4,0,0
+UBC,2015,W,COMM,390,,206,BUSINESS WRITING,"Kent, Duncan",19,74.47,15.34,84,23,17,2,0,0,0,0,0,1,0,1,2,0,0,0,0,0,3,5,9,0,0
+UBC,2015,W,COMM,390,,207,BUSINESS WRITING,"Kent, Duncan",20,78.35,3.54,87,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,6,1,0
+UBC,2015,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Monsalve, Maria Victoria;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary",20,77.85,8.54,88,57,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,6,5,0
+UBC,2015,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",51,90.24,4.27,97,69,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,17,32
+UBC,2015,W,PHIL,240,A,004,KNOW & REALITY I,"Schmor, Kent",16,71.57,11.47,92,55,14,0,2,0,0,0,0,0,0,0,0,0,2,1,2,2,2,2,1,0,2
+UBC,2015,W,PHIL,460,A,001,PHIL OF SCIENCE,"Schmor, Kent",27,75.59,8.89,89,60,27,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,3,4,5,6,0
+UBC,2016,W,COMM,390,,115,BUSINESS WRITING,"Kent, Duncan",20,79.3,4.35,87,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,8,2,0
+UBC,2016,W,COMM,390,,116,BUSINESS WRITING,"Kent, Duncan",20,77.25,4.92,87,69,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,5,2,0
+UBC,2016,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Nimmo, Michael;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",21,77.38,6.29,86,66,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,6,3,0
+UBC,2016,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",43,91.07,3.25,98,81,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,30
+UBC,2016,W,PHIL,102,,002,INTR PHILSPHY II,"Schmor, Kent",22,72.14,12.44,88,40,20,1,1,0,0,0,0,0,0,1,1,1,1,1,2,2,4,2,4,3,0
+UBC,2017,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Fung, Angela;Hauff, Kristin;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Pudek, Morris;Schreiber, William;Simons, Janet;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",13,75.08,16.91,87,31,12,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,3,5,0
+UBC,2017,W,PHAR,406,,001,DRUG SAFETY,"Kent, Debra Ann",52,90.13,3.46,98,83,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18,32

@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,PHYS,118,,952,ELEC LIGHT & RAD,"Litinskaya, Marina",128,76.37,14.41,100,29,117,7,2,0,0,0,0,1,0,6,7,7,5,2,3,12,12,13,29,12,22,,,
+UBC,2017,W,PHYS,118,,202,ELEC LIGHT & RAD,"Litinskaya, Marina",171,80.34,15.16,100,33,159,8,2,0,2,0,0,0,1,7,8,3,7,11,3,10,8,14,32,22,49,,,
+UBC,2017,W,PHYS,159,,L2F,INTRO PHYS LAB,"Litinskaya, Marina",49,79.27,7.8,92,57,49,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,7,6,20,5,5,,,
+UBC,2017,W,PHYS,159,,L2H,INTRO PHYS LAB,"Litinskaya, Marina",47,78.89,7.64,93,61,47,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,5,5,15,9,3,,,
+UBC,2018,S,PHYS,118,,952,ELEC LIGHT & RAD,"Litinskaya, Marina",138,77.62,14.74,100,28,127,6,4,0,1,0,0,1,0,5,6,5,9,1,4,16,11,13,17,18,33,,,
+UBC,2018,W,PHYS,101,,203,ENERGY & WAVES,"Litinskaya, Marina",273,75.21,17.22,99,21,231,35,3,0,4,0,0,3,18,14,35,1,2,3,6,24,41,25,39,43,47,,,
+UBC,2018,W,PHYS,158,,203,INTR PHYS ENG II,"Litinskaya, Marina",292,64.96,16.03,97,18,233,53,2,0,4,0,1,6,10,36,53,10,35,37,16,28,27,11,33,26,10,,,
+UBCV,2017,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya,126,76.261904762,14.32490339,100.0,29.0,,,,,,,,,,,7,7,5,2,4,12,13,13,29,12,22,,,
+UBCV,2017,W,PHYS,118,,202,"Electricity, Light and Radiation",Marina Litinskaya;Prateek Yadav;Sarah Morris,169,79.650887574,16.32672407,100.0,19.0,,,,,,,,,,,10,3,7,11,3,10,8,14,32,22,49,,,
+UBCV,2017,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Jonathan Doucette;Marina Litinskaya;Thien Hoang Tran;Thomas Mattison,49,79.265306122,7.796301234,92.0,57.0,,,,,,,,,,,0,0,2,0,2,2,7,6,20,5,5,,,
+UBCV,2017,W,PHYS,159,,L2H,Introductory Physics Laboratory for Engineers,Justin Poon;Marina Litinskaya;Thomas Mattison;Zhen Zhu,47,78.893617021,7.639240921,93.0,61.0,,,,,,,,,,,0,0,0,1,1,8,5,5,15,9,3,,,
+UBCV,2018,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya;Maryam Afsari Golshan;Maryam Shirmohammad;Puranjay Gulati;Ziang Yan,134,77.21641791,15.424013082,100.0,23.0,,,,,,,,,,,7,5,9,1,4,16,11,13,17,18,33,,,
+UBCV,2018,W,PHYS,101,,203,Energy and Waves,Daniel Yates;Jaiten Saini;Jared Stang;Marina Litinskaya,270,74.722222222,17.766993192,99.0,19.0,,,,,,,,,,,37,1,3,3,6,25,40,26,39,43,47,,,
+UBCV,2018,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Ke Dai;Marina Litinskaya;Michael Hasinoff,289,64.636678201,16.442328844,97.0,9.0,,,,,,,,,,,55,10,35,37,17,28,27,11,33,26,10,,,
+UBCV,2019,S,PHYS,118,,952,"Electricity, Light and Radiation",Chengshu Li;Marina Litinskaya;Sean Cooper;Vedangi Pathak;Wyatt Reeves,138,75.528985507,15.137420172,100.0,31.0,,,,,,,,,,,7,8,4,6,9,17,8,13,25,15,26,,,
+UBCV,2019,W,PHYS,101,,104,Energy and Waves,Lorna Tu;Marina Litinskaya,111,77.621621622,13.634884441,98.0,45.0,,,,,,,,,,,11,0,0,0,6,14,8,7,24,24,17,,,
+UBCV,2019,W,PHYS,101,,202,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Paul Herringer,265,84.78490566,14.365459894,100.0,0.0,,,,,,,,,,,8,2,6,2,6,5,7,10,39,58,122,,,
+UBCV,2019,W,PHYS,101,,203,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Yilin Liu,237,84.666666667,12.398856335,100.0,0.0,,,,,,,,,,,2,3,1,5,5,13,9,10,36,62,91,,,
+UBCV,2019,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Donney Fan;Marina Litinskaya;Pedram Amani;Sarah Burke,53,82.830188679,7.900184635,95.0,63.0,,,,,,,,,,,0,0,0,1,1,3,4,7,14,11,12,,,
+UBCV,2019,W,PHYS,159,,L2J,Introductory Physics Laboratory for Engineers,Fatemeh Aghaee Rad;Ian Macphail-Bartley;Marina Litinskaya;Sarah Burke,52,76.807692308,7.129168094,86.0,58.0,,,,,,,,,,,0,0,1,1,3,8,7,8,19,5,0,,,
+UBCV,2020,S,PHYS,118,,952,"Electricity, Light and Radiation",Ashley Warner;Chengshu Li;Marina Litinskaya;Mohammad Mirsharifi;Oleg Kabernik,170,79.964705882,16.386563307,100.0,0.0,,,,,,,,,,,5,2,6,7,6,13,10,16,23,28,54,,,
+UBCV,2020,W,PHYS,100,,103,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya;Pedram Amani,510,81.425490196,13.234819575,100.0,0.0,,,,,,,,,,,23,3,3,3,4,20,50,41,120,123,120,,,
+UBCV,2020,W,PHYS,100,,M01,Introductory Physics,Erfan Rezaie;Jaiten Saini;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya,232,76.487068966,19.002387775,95.0,0.0,,,,,,,,,,,25,2,0,1,5,7,34,20,44,48,46,,,
+UBCV,2020,W,PHYS,170,,201,Mechanics I,Adair Connor;Daniel Ka Sing Wong;Marina Litinskaya;Matthew Choptuik,267,81.483146067,15.410507371,100.0,5.0,,,,,,,,,,,14,7,7,8,8,7,16,19,38,35,108,,,
+UBCV,2020,W,PHYS,170,,202,Mechanics I,Adair Connor;Daniel Ka Sing Wong;Marina Litinskaya;Matthew Choptuik,240,77.65,19.31944627,100.0,0.0,,,,,,,,,,,17,4,9,11,6,20,24,11,33,26,79,,,
+UBCV,2021,S,PHYS,118,,952,"Electricity, Light and Radiation",Ashley Warner;David Roberts;Marina Litinskaya;Mohammad Mirsharifi;Rane Alexander Simpson,232,76.025862069,14.157103188,100.0,5.0,,,,,,,,,,,5,9,12,16,11,27,22,17,44,25,44,,,
+UBCV,2021,W,PHYS,100,,101,Introductory Physics,Erfan Rezaie;Lucas Valenca Soares Bezerra;Marcello Pavan;Marina Litinskaya,136,71.044117647,18.33388591,99.0,20.0,,,,,,,,,,,18,8,1,6,4,11,18,13,25,21,11,,,
+UBCV,2021,W,PHYS,100,,102,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Lucas Valenca Soares Bezerra;Marcello Pavan;Maria Novoselova;Marina Litinskaya;Peilin Wu,255,73.68627451,17.951257491,97.0,3.0,,,,,,,,,,,27,10,3,5,17,15,27,24,55,33,39,,,
+UBCV,2021,W,PHYS,100,,103,Introductory Physics,Erfan Rezaie;Lucas Valenca Soares Bezerra;Marcello Pavan;Marina Litinskaya;Samantha Connolly,247,78.004048583,14.16898536,99.0,25.0,,,,,,,,,,,14,6,2,6,6,17,25,26,45,59,41,,,
+UBCV,2021,W,PHYS,170,,201,Mechanics I,Marina Litinskaya;Michael Kinach,302,75.043046358,21.766691033,100.0,0.0,,,,,,,,,,,30,14,12,16,12,17,23,15,33,30,100,,,
+UBCV,2021,W,PHYS,170,,202,Mechanics I,Marina Litinskaya;Michael Kinach,256,74.5390625,22.61160637,100.0,1.0,,,,,,,,,,,26,15,12,7,12,18,17,13,28,19,89,,,
+UBCV,2021,W,PHYS,333,,99A,Energy and Climate,Adair Connor;Marina Litinskaya;Rysa Greenwood,60,74.933333333,16.296892359,93.0,0.0,,,,,,,,,,,4,0,2,1,1,9,7,6,14,8,8,,,
+UBCV,2021,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya,232,76.0,,100.0,5.0,,,,,,,,,,,5,9,12,16,11,27,22,17,44,25,44,78.0,86.0,68.0
+UBCV,2021,W,PHYS,100,,101,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,136,71.3,,99.0,20.0,,,,,,,,,,,17,8,,6,,11,18,13,26,21,11,76.0,84.0,65.5
+UBCV,2021,W,PHYS,100,,102,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,254,74.0,,97.0,3.0,,,,,,,,,,,25,10,,,17,15,27,25,55,33,39,79.0,85.0,68.0
+UBCV,2021,W,PHYS,100,,103,Introductory Physics,Marina Litinskaya;Marcello Pavan;Erfan Rezaie,247,78.0,,99.0,25.0,,,,,,,,,,,14,6,2,6,6,17,25,26,45,59,41,80.0,87.0,73.0
+UBCV,2021,W,PHYS,170,,201,Mechanics I,Marina Litinskaya,302,76.9,,100.0,0.0,,,,,,,,,,,20,16,12,16,12,19,24,15,34,32,102,81.0,91.0,66.5
+UBCV,2021,W,PHYS,170,,202,Mechanics I,Marina Litinskaya,255,76.1,,100.0,1.0,,,,,,,,,,,18,16,12,7,13,20,18,14,29,19,89,80.0,92.0,66.0
+UBCV,2022,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya,158,75.6,,100.0,27.0,,,,,,,,,,,11,5,5,6,13,20,13,12,23,15,35,76.5,87.0,66.5
+UBCV,2022,W,PHYS,100,,101,Introductory Physics,Marina Litinskaya,212,77.7,,99.0,0.0,,,,,,,,,,,12,8,3,5,7,10,28,21,43,22,53,80.0,88.5,73.0
+UBCV,2022,W,PHYS,100,,102,Introductory Physics,Marina Litinskaya;Erfan Rezaie,230,79.5,,98.0,26.0,,,,,,,,,,,10,6,2,3,4,8,34,19,46,44,54,82.0,88.0,74.0
+UBCV,2022,W,PHYS,100,,103,Introductory Physics,Marina Litinskaya;Marcello Pavan,225,83.4,,99.0,18.0,,,,,,,,,,,1,5,4,1,1,8,21,16,47,35,86,85.0,91.0,78.0
+UBCV,2022,W,PHYS,170,,201,Mechanics I,Marina Litinskaya,261,75.7,,100.0,0.0,,,,,,,,,,,16,16,9,9,8,26,23,9,46,35,64,80.0,88.0,68.0
+UBCV,2022,W,PHYS,170,,202,Mechanics I,Marina Litinskaya,269,73.1,,100.0,0.0,,,,,,,,,,,25,19,16,10,7,23,28,9,37,37,58,77.0,87.0,63.0
+UBCV,2022,W,PHYS,333,,99A,Energy and Climate,Marina Litinskaya,61,74.1,,94.0,1.0,,,,,,,,,,,3,1,3,3,4,4,10,7,11,8,7,76.0,84.0,68.0
+UBCV,2023,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya,210,77.5,,100.0,27.0,,,,,,,,,,,11,6,5,7,7,21,31,13,32,21,54,80.0,90.0,70.0
+UBCV,2023,W,PHYS,100,,101,Introductory Physics,Marina Litinskaya,226,74.0,,97.0,0.0,,,,,,,,,,,18,10,1,10,10,21,41,24,33,17,35,75.0,84.0,68.0
+UBCV,2023,W,PHYS,100,,102,Introductory Physics,Amali Priyanka Jambuge;Marina Litinskaya,217,77.1,,98.0,45.0,,,,,,,,,,,12,2,5,5,11,18,30,19,47,23,39,80.0,86.0,71.5
+UBCV,2023,W,PHYS,100,,103,Introductory Physics,Marina Litinskaya;Marcello Pavan,242,74.9,,99.0,0.0,,,,,,,,,,,19,4,2,7,8,18,44,24,44,24,38,77.0,85.0,71.5
+UBCV,2023,W,PHYS,157,,102,Introductory Physics for Engineers I,Steven Dierker;Marina Litinskaya,342,77.7,,98.0,22.0,,,,,,,,,,,5,5,6,9,23,32,44,41,82,52,38,80.0,85.0,72.0
+UBCV,2023,W,PHYS,158,,201,Introductory Physics for Engineers II,Michael Hasinoff;Marina Litinskaya,313,66.5,,99.0,14.0,,,,,,,,,,,45,33,23,24,24,29,34,28,25,12,30,68.0,78.0,54.0
+UBCV,2023,W,PHYS,170,,201,Mechanics I,Matthew Choptuik;Marina Litinskaya,346,77.2,,100.0,0.0,,,,,,,,,,,23,13,10,16,12,31,22,25,48,32,111,82.0,91.0,69.0

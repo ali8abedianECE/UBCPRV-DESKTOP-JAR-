@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2017,S,CHEM,121,,001,Atomic and Molecular Chemistry,Richard Federley;Sandra Mecklenburg;Tamara Freeman;Tamara Kunz;Yas Yamin;Yasfatemeh Yamin,63,63.031746032,18.489725354,94.0,0.0,14,3,3,9,9,2,9,2,7,1,4,,,
+UBCO,2017,S,CHEM,123,,101,Physical and Organic Chemistry,Andrew Kennedy;Christine Furrer;Tamara Freeman;Tamara Kunz;Yas Yamin;Yasfatemeh Yamin,47,65.574468085,14.160177905,98.0,22.0,6,2,4,9,7,9,2,0,3,1,4,,,
+UBCO,2018,S,PHYS,122,,101,Introductory Physics for the Life Sciences II,Yas Yamin,49,72.346938776,12.33820459,94.0,43.0,4,1,1,6,5,3,5,9,8,4,3,,,
+UBCO,2018,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Scarrott;Yas Yamin,279,73.505376344,12.166373923,97.0,17.0,15,6,10,12,29,41,40,31,42,32,21,,,
+UBCO,2018,W,PHYS,215,,101,Thermodynamics,Guhnveer Bahia;Yas Yamin;Yasfatemeh Yamin,38,70.394736842,15.447451419,94.0,30.0,3,3,3,5,1,7,0,3,6,1,6,,,
+UBCO,2018,W,PHYS,441,,101,Experimental Physics II,Yas Yamin;Yasfatemeh Yamin,13,86.615384615,7.018291121,97.0,75.0,0,0,0,0,0,0,2,0,2,4,5,,,
+UBCO,2019,S,PHYS,112,,001,Introductory Physics for the Life Sciences I,Maryam Sadeghi;Sayra Gorgani;Yas Yamin,47,71.127659574,12.802202632,89.0,27.0,3,0,4,1,7,5,7,9,5,6,0,,,
+UBCO,2019,S,PHYS,122,,101,Introductory Physics for the Life Sciences II,Elizabeth Houghton;Maryam Sadeghi;Sayra Gorgani;Yas Yamin,47,69.255319149,13.9711941,91.0,24.0,2,5,3,2,8,6,5,4,7,4,1,,,
+UBCO,2019,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;Hadi Hairi;John Hopkinson;Leah Hamill;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Nathan Nichol;Nusrat Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng;Yas Yamin,114,73.035087719,12.450915895,100.0,34.0,5,2,8,5,13,16,16,15,15,9,10,,,
+UBCO,2019,W,PHYS,216,,101,Mechanics I,Araz Sholehkerdar;Jake Bobowski;Jason Reich;Kendra Scarrott;Michael Kudla-Hooper;Theo Bakas;Yas Yamin,36,74.611111111,17.024818485,98.0,0.0,1,1,1,2,4,3,5,5,3,6,5,,,
+UBCO,2019,W,PHYS,314,,001,Fluids,Yas Yamin;Yasfatemeh Yamin,26,64.5,13.57424031,100.0,32.0,1,4,6,4,2,2,1,2,2,1,1,,,
+UBCO,2019,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski;Yas Yamin;Yasfatemeh Yamin,20,90.65,8.093369606,100.0,64.0,0,0,0,0,1,0,0,1,0,6,12,,,
+UBCO,2020,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Amanda Visser;Graham Bovett;Jakob Marshall;Mitchell Wiebe;Nathan Nichol;Ramie Ali Adeeb;Stephen Collins;Xinchen Deng;Yas Yamin;Zhongda Huang,111,75.207207207,18.16345838,97.0,6.0,7,7,4,5,1,8,13,7,15,26,18,,,
+UBCO,2020,W,PHYS,215,,101,Thermodynamics,Amanda Visser;Yas Yamin;Yasfatemeh Yamin,36,67.361111111,20.014498713,100.0,11.0,3,5,3,1,4,3,4,5,0,2,6,,,
+UBCO,2020,W,PHYS,216,,101,Mechanics I,Emily Mellors;Yas Yamin,28,69.892857143,17.446933904,96.0,10.0,2,1,3,3,2,3,1,4,4,3,2,,,
+UBCO,2020,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jason Reich;Maya Patel;Yas Yamin;Yasfatemeh Yamin,23,73.391304348,15.233751793,95.0,32.0,1,1,2,0,4,2,1,1,5,2,4,,,
+UBCO,2021,S,COSC,405,,101,Modelling and Simulation,Aashish Raizada;Yas Yamin;Yasfatemeh Yamin,7,83.0,4.203173404,89.0,78.0,0,0,0,0,0,0,0,1,4,2,0,,,
+UBCO,2021,S,MATH,125,,001,Pre-Calculus,Md Tareque Hossain;Yas Yamin,20,64.8,24.086685556,94.0,15.0,4,3,0,2,1,1,1,1,1,2,4,,,
+UBCO,2021,W,COSC,405,,001,Modelling and Simulation,Ladan Tazik;Yas Yamin;Yasfatemeh Yamin,9,77.555555556,19.850132941,100.0,40.0,1,1,0,0,0,0,0,3,1,0,3,,,
+UBCO,2021,W,DATA,405,,001,Modelling and Simulation,Ladan Tazik;Yas Yamin;Yasfatemeh Yamin,8,81.875,31.669893319,100.0,5.0,1,0,0,0,0,0,0,0,1,1,5,,,
+UBCO,2021,W,PHYS,215,,101,Thermodynamics,Nikolai Lesack;Yas Yamin,19,70.789473684,20.649398558,89.0,20.0,2,1,1,0,0,2,3,1,4,5,0,,,
+UBCO,2021,W,PHYS,216,,101,Mechanics I,Emily Mellors;Xiaoying Zhang;Yas Yamin,29,70.724137931,15.645393096,100.0,42.0,2,4,2,3,1,3,1,3,5,1,4,,,
+UBCO,2021,W,PHYS,441,,101,Experimental Physics II,Jason Reich;Yas Yamin;Yasfatemeh Yamin,18,85.722222222,9.633309587,98.0,68.0,0,0,0,0,0,3,1,0,2,3,9,,,
+UBCO,2021,S,COSC,405,,101,Modelling and Simulation,Yas Yamin,7,83.0,,89.0,78.0,,,,,,,,,,,,82.0,86.0,80.0
+UBCO,2021,S,MATH,125,,001,Pre-Calculus,Yas Yamin,20,64.8,,94.0,15.0,,,,,,,,,,,,67.5,87.3,51.8
+UBCO,2021,W,COSC,405,,001,Modelling and Simulation,Yas Yamin,9,77.6,,100.0,40.0,,,,,,,,,,,,79.0,92.0,78.0
+UBCO,2021,W,DATA,405,,001,Modelling and Simulation,Yas Yamin,8,81.9,,100.0,5.0,,,,,,,,,,,,94.0,96.5,85.5
+UBCO,2021,W,PHYS,215,,101,Thermodynamics,Yas Yamin,19,70.8,,89.0,20.0,,,,,,,,,,,,77.0,84.5,69.5
+UBCO,2021,W,PHYS,441,,101,Experimental Physics II,Yas Yamin,18,85.7,,98.0,68.0,,,,,,,,,,,9,88.5,92.0,81.8
+UBCO,2022,S,DATA,101,,001,Making Predictions with Data,Yas Yamin,22,62.7,,95.0,0.0,6,0,2,1,0,2,1,0,4,4,2,72.0,86.3,35.0
+UBCO,2022,S,MATH,125,,001,Pre-Calculus,Yas Yamin,6,73.2,,98.0,64.0,0,0,0,0,1,4,0,0,0,0,1,69.5,70.0,68.3
+UBCO,2022,S,STAT,230,,101,Introductory Statistics,Yas Yamin,18,65.1,,80.0,16.0,2,1,0,2,2,3,4,3,1,0,0,70.0,74.8,62.8
+UBCO,2022,W,DATA,101,,002,Making Predictions with Data,Yas Yamin,56,71.1,,95.0,25.0,7,2,2,5,4,6,3,5,8,5,9,73.5,84.5,62.0
+UBCO,2022,W,DATA,405,,001,Stochastic Modelling and Simulation,Yas Yamin,21,80.0,,95.0,67.0,0,0,0,0,1,2,3,3,7,2,3,80.0,83.0,74.0
+UBCO,2022,W,DATA,505,,001,Modelling and Simulation,Yas Yamin,7,85.0,,97.0,72.0,0,0,0,0,0,0,1,1,1,1,3,85.0,90.5,80.0
+UBCO,2022,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Yas Yamin,18,71.3,,97.0,6.0,1,1,1,2,1,1,1,4,1,4,1,76.5,84.0,63.5
+UBCO,2022,W,PHYS,441,,101,Experimental Physics II,Yas Yamin,11,87.9,,97.0,76.0,0,0,0,0,0,0,0,1,2,4,4,88.0,92.5,84.0
+UBCO,2022,W,STAT,230,,001,Introductory Statistics,Yas Yamin,96,66.8,,100.0,6.0,14,7,11,7,8,6,9,9,10,7,8,69.5,80.0,57.0
+UBCO,2022,W,STAT,230,,101,Introductory Statistics,Yas Yamin,167,71.2,,97.0,13.0,11,16,9,10,19,12,16,13,24,19,18,73.0,84.0,62.0
+UBCO,2023,S,DATA,101,,001,Making Predictions with Data,Yas Yamin,25,68.79,,92.0,26.0,2,0,5,2,2,2,2,1,5,1,2,69.0,81.25,58.75
+UBCO,2023,S,STAT,230,,101,Introductory Statistics,Yas Yamin,38,72.0,,90.0,30.0,3,1,3,2,1,1,6,3,9,5,1,76.0,82.0,63.5
+UBCO,2023,W,DATA,101,,102,Making Predictions with Data,Yas Yamin,85,72.6,,98.0,0.0,8,2,2,3,4,7,8,8,8,17,12,78.0,86.0,69.0
+UBCO,2023,W,DATA,405,,001,Stochastic Modelling and Simulation,Yas Yamin,25,72.1,,95.0,57.0,0,0,3,4,2,3,2,5,1,2,2,72.0,78.0,62.8
+UBCO,2023,W,PHYS,441,,101,Experimental Physics II,Yas Yamin,9,88.6,,96.0,83.0,0,0,0,0,0,0,0,0,2,3,4,89.0,92.0,85.0
+UBCO,2023,W,STAT,230,,001,Introductory Statistics,Yas Yamin,62,70.0,,96.0,7.0,6,2,4,2,5,5,5,10,8,4,6,75.0,82.0,64.0
+UBCO,2023,W,STAT,230,,102,Introductory Statistics,Yas Yamin,76,68.9,,98.0,28.0,7,4,9,5,7,7,6,6,6,4,9,68.5,80.0,59.0

@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,AGRO,260,,99A,Agroeco I,"NOLAN, KATRINA",9,74.11,8.96,86,60,9,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,1,2,0
+UBC,2002,W,AGSC,250,,99A,"LND,FOD&COMM I","NOLAN, KATRINA",21,71.14,18.31,94,0,20,1,0,0,0,1,0,0,0,0,1,0,1,0,3,3,2,6,3,1,1
+UBC,2002,W,AGSC,250,,99C,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",34,,,,,0,0,2,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,AGSC,350,,99C,LAND FOOD COMM 2,"NOLAN, KATRINA",52,,,,,0,0,3,1,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,MUSC,162,,003,WIND&PERC CH ENS,"Nolan, Julia",8,88.5,0.53,89,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+UBC,2003,W,AGRO,260,,99A,Agroeco I,"NOLAN, KATRINA",12,74.18,20.05,88,17,10,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,2,0,4,3,0
+UBC,2003,W,AGSC,250,,99A,"LND,FOD&COMM I","NOLAN, KATRINA",30,74.79,16.27,93,9,27,1,2,0,0,1,0,0,0,0,1,1,0,3,0,4,1,2,10,4,2
+UBC,2003,W,AGSC,250,,99C,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",36,,,,,0,0,2,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,AGSC,350,,99C,LAND FOOD COMM 2,"NOLAN, KATRINA",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,MUSC,162,A,003,WIND&PERC CH ENS,"Nolan, Julia",8,87,6.23,94,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,5
+UBC,2005,W,AGRO,260,,99A,Agroeco I,"NOLAN, KATRINA",8,76,11.46,85,50,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,2,2,0
+UBC,2005,W,AGRO,497,E,250,Dir Studies,"Fortin, Marie-Claude;NOLAN, KATRINA",10,77.8,15.63,91,39,9,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,2,1,3
+UBC,2005,W,AGSC,250,,99A,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",77,73.36,13.84,94,4,70,2,5,0,0,1,0,0,0,1,2,3,2,5,12,5,9,7,10,12,5
+UBC,2005,W,AGSC,250,,99C,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",69,,,,,0,0,4,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,AGSC,350,,99C,LAND FOOD COMM 2,"NOLAN, KATRINA;WAGNER, JULIA",48,86,2.83,88,84,2,0,1,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+UBC,2005,W,MUSC,162,A,003,WIND&PERC CH ENS,"Nolan, Julia",5,82.4,0.89,84,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+UBC,2006,W,AGRO,497,E,250,Dir Studies,"Fortin, Marie-Claude;NOLAN, KATRINA",6,64,31.45,92,8,4,2,0,0,0,1,0,0,0,1,2,0,0,0,0,0,1,0,2,0,1
+UBC,2006,W,AGSC,250,,99A,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",85,71.65,17.85,95,0,69,8,8,0,0,1,1,1,0,5,8,4,1,6,4,9,5,7,16,9,8
+UBC,2006,W,AGSC,250,,99C,"LND,FOD&COMM I","Fortin, Marie-Claude;NOLAN, KATRINA",38,78.5,3.54,81,76,2,0,1,0,35,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+UBC,2006,W,AGSC,350,,99C,LAND FOOD COMM 2,"NOLAN, KATRINA",54,,,,,0,0,1,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",23,86.26,5.11,95,73,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,11,5
+UBC,2006,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",6,83.67,5.54,90,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2
+UBC,2007,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",17,81,8.99,96,58,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,7,3,2
+UBC,2007,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",5,83,10.95,90,65,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3
+UBC,2009,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",18,81.35,5.75,92,74,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,5,1
+UBC,2010,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",19,83.79,6.94,97,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,7,3
+UBC,2011,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",17,81.29,7.21,90,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,6,2
+UBC,2012,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,81.21,7.36,97,66,19,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,6,1
+UBC,2013,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",18,85.28,5.95,95,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,7,4
+UBC,2013,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",4,78,7.66,84,68,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0
+UBC,2014,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,77.3,12.7,94,42,19,1,0,0,0,0,0,0,0,1,1,0,1,1,0,2,1,5,4,2,3
+UBC,2014,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",5,87,6.71,95,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3
+UBC,2015,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",22,81.82,7.35,92,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,6,6,3
+UBC,2015,W,MUSC,162,A,001,WIND&PERC CH ENS,"Nolan, Julia",23,87.26,3.86,93,78,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,8
+UBC,2015,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",7,88.86,8.71,98,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3
+UBC,2016,W,FRST,386,,201,AQUA ECOSYS&FISH,"Bett, Nolan;Hinch, Scott",144,75.12,11.7,95,44,142,2,0,0,0,0,0,0,0,2,2,6,11,7,9,15,17,20,19,20,18
+UBC,2016,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",19,85.17,9.34,99,66,18,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,2,9
+UBC,2016,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",8,92,7.33,99,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6
+UBC,2017,W,MUSC,122,,001,CLASS WOODWINDS,"Franch Ballester, Jose;Nolan, Julia",10,84.9,6.57,94,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,2
+UBC,2017,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",4,90.5,6.35,96,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2017,W,PHTH,527,,001,EXERCISE MOVE II,"Grant, Natalie;Guenette, Jordan;Nolan, Mary",78,85.87,5.06,95,70,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,24,24,22
+UBC,2017,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Pearson, Neil;Reid, Andrea;Tsui, Karen",80,83.77,3.68,91,75,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,27,6
+UBC,2018,W,CSPW,100,,00A,CSP WORKSHOP,"Bett, Nolan;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CSPW,100,,00B,CSP WORKSHOP,"Bett, Nolan;Thompson, William",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CSPW,100,,00C,CSP WORKSHOP,"Bett, Nolan;Thompson, William",25,,,,,0,0,2,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CSPW,100,,00D,CSP WORKSHOP,"Bett, Nolan;Thompson, William",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CSPW,100,,00E,CSP WORKSHOP,"Bett, Nolan;Thompson, William",26,,,,,0,0,1,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CSPW,100,,00F,CSP WORKSHOP,"Bett, Nolan;Thompson, William",20,,,,,0,0,1,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,FRST,304,,201,SCI FRST ISSUES,"Bett, Nolan;Lafond, Valentine Marie Adelai;MENGHWANI, VIKAS",47,79.93,9.78,97,46,44,1,0,0,0,0,0,0,0,1,1,0,1,0,2,1,7,9,11,5,8
+UBC,2018,W,MUSC,122,,001,CLASS WOODWINDS,"Chiang, Ingrid;Fedoruk, Brenda Louise;Franch Ballester, Jose;Nolan, Julia",20,85.7,3.57,93,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,13,2
+UBC,2018,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Reid, Andrea",79,83.18,4.11,89,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,33,33,0
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,SCIE,113,,V07,SCIE SEMINAR,"Bett, Nolan",22,75.36,3.46,83,70,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,7,3,0,0

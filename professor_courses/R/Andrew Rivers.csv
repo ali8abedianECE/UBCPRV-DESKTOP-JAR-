@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,PSYC,102,,903,DEV SOC CLI PSY,"Rivers, Andrew",19,77.61,11.81,94,46,17,1,1,0,0,0,0,0,0,1,1,0,0,0,0,4,4,0,3,3,3,,,
+UBC,2018,W,PSYC,217,,901,RSRCH MTHDS,"Rivers, Andrew",81,65.53,12.54,91,34,73,6,2,0,0,0,0,0,1,5,6,6,14,11,8,8,2,7,13,3,1,,,
+UBC,2018,W,PSYC,308,A,001,SOCIAL PSYC,"Rivers, Andrew",140,70.7,10.86,95,40,136,4,0,0,0,0,0,0,0,4,4,4,12,9,24,11,25,24,11,9,7,,,
+UBC,2018,W,PSYC,308,A,002,SOCIAL PSYC,"Rivers, Andrew",121,70.03,13.14,95,11,116,4,0,0,0,0,1,0,2,1,4,6,8,16,11,14,12,13,20,12,4,,,
+UBC,2018,W,PSYC,308,A,004,SOCIAL PSYC,"Rivers, Andrew",128,70.82,13.55,99,24,121,4,1,0,0,0,0,1,2,1,4,6,13,15,8,19,14,9,13,16,8,,,
+UBC,2018,W,PSYC,308,A,005,SOCIAL PSYC,"Rivers, Andrew",72,70.89,16.81,96,2,64,6,0,0,2,1,0,0,1,4,6,2,9,4,3,6,6,6,11,12,5,,,
+UBCV,2018,W,PSYC,102,,903,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;William Jettinghoff,18,77.611111111,11.812948473,94.0,46.0,,,,,,,,,,,1,0,0,0,0,4,4,0,3,3,3,,,
+UBCV,2018,W,PSYC,217,,901,Research Methods,Andrew Rivers;Courtney Bryce;Jennifer Yip;Jovanka Durica;Sumeet Mutti,79,65.53164557,12.543090286,91.0,34.0,,,,,,,,,,,6,6,14,11,8,8,2,7,13,3,1,,,
+UBCV,2018,W,PSYC,308,A,001,Social Psychology,Andrew Rivers;Lucille De Souza;Lucille Louise De Souza,140,70.7,10.855294103,95.0,40.0,,,,,,,,,,,4,4,12,9,24,11,25,24,11,9,7,,,
+UBCV,2018,W,PSYC,308,A,002,Social Psychology,Andrew Rivers;Holly Engstrom,121,69.975206612,13.099912729,95.0,11.0,,,,,,,,,,,4,6,8,16,12,14,12,13,20,12,4,,,
+UBCV,2018,W,PSYC,308,A,004,Social Psychology,Andrew Rivers;Cindel White,127,70.913385827,13.465431121,99.0,24.0,,,,,,,,,,,4,6,13,15,8,19,14,11,13,16,8,,,
+UBCV,2018,W,PSYC,308,A,005,Social Psychology,Andrew Rivers;Gordon Heltzel,72,70.791666667,17.500050302,96.0,2.0,,,,,,,,,,,7,2,8,4,3,6,6,6,12,13,5,,,
+UBCV,2019,S,PSYC,308,A,921,Social Psychology,Andrew Rivers;Mikayla Pachkowski,94,73.925531915,12.373436134,93.0,50.0,,,,,,,,,,,0,6,5,11,13,7,7,7,11,17,10,,,
+UBCV,2019,W,PSYC,102,,204,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Jan-Ho Liang,152,69.480263158,13.632824818,93.0,24.0,,,,,,,,,,,8,10,12,14,15,17,13,20,18,20,5,,,
+UBCV,2019,W,PSYC,217,,009,Research Methods,Andrew Rivers;Brandon Tomm;Cindel White;Holly Engstrom;William Murch,88,70.579545455,10.883628527,92.0,36.0,,,,,,,,,,,1,2,10,6,17,9,15,3,13,8,4,,,
+UBCV,2019,W,PSYC,217,,901,Research Methods,Andrew Rivers;Daphne Sue Yin Ling;Ella Weik;Shunya Yagi,63,70.365079365,10.470082705,91.0,41.0,,,,,,,,,,,1,2,7,3,3,16,10,0,16,3,2,,,
+UBCV,2019,W,PSYC,218,,006,Analysis of Behavioural Data,Andrew Rivers;Anita Schmalor;Ella Weik;Erica Dharmawan;Jody Mielcarski;William Murch,94,76.308510638,13.806673309,100.0,44.0,,,,,,,,,,,1,1,7,10,5,10,12,7,14,8,19,,,
+UBCV,2019,W,PSYC,218,,008,Analysis of Behavioural Data,Andrew Rivers;Anita Schmalor;Ella Weik;Erica Dharmawan;Jody Mielcarski;William Murch,92,76.260869565,12.72176431,100.0,50.0,,,,,,,,,,,0,2,5,13,6,3,10,10,15,11,17,,,
+UBCV,2019,W,PSYC,308,A,901,Social Psychology,Andrew Rivers;Cindel White,94,81.978723404,14.922724767,100.0,0.0,,,,,,,,,,,1,0,3,6,2,2,14,6,10,16,34,,,
+UBCV,2020,S,PSYC,308,A,921,Social Psychology,Andrew Rivers;Ariel Ko;Siba Ghrear,171,77.269005848,13.758339873,93.0,0.0,,,,,,,,,,,4,1,0,3,5,17,29,16,42,35,19,,,
+UBCV,2020,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Azim Shariff;Hongyuan Qi;Mahmoud Khademi;Vivian Qi,352,76.295454545,11.382656964,100.0,0.0,,,,,,,,,,,4,5,8,19,24,34,50,52,63,53,40,,,
+UBCV,2020,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Eva Zysk;Hongyuan Qi;Lillian May;Vivian Qi;Xiaolei Deng,287,74.637630662,12.65247061,100.0,30.0,,,,,,,,,,,4,16,18,17,20,26,28,37,50,29,42,,,
+UBCV,2020,W,PSYC,216,,001,Questioning Psychological Science in the Media,Andrew Rivers;Edwina Picon,112,76.928571429,14.207417353,97.0,0.0,,,,,,,,,,,3,1,3,4,6,11,8,17,27,13,19,,,
+UBCV,2020,W,PSYC,217,,901,Research Methods,Andrew Rivers;Anna Mylvaganam;James Wu,95,75.052631579,8.942331103,93.0,40.0,,,,,,,,,,,1,0,4,1,8,13,19,12,24,8,5,,,
+UBCV,2020,W,PSYC,308,A,006,Social Psychology,Andrew Rivers;Qiao Hui Lydia Ong;Yawen Liu,98,76.775510204,10.22784819,98.0,37.0,,,,,,,,,,,1,0,3,4,7,8,13,20,18,13,11,,,
+UBCV,2020,W,PSYC,308,A,901,Social Psychology,Andrew Rivers;Qiao Hui Lydia Ong;Yawen Liu,127,75.976377953,14.838530158,97.0,0.0,,,,,,,,,,,4,2,2,7,6,12,15,16,21,19,23,,,
+UBCV,2021,S,PSYC,308,A,921,Social Psychology,Andrew Rivers;Katharina Block;Mikayla Pachkowski,130,74.184615385,13.635785463,94.0,9.0,,,,,,,,,,,5,4,7,8,9,14,12,17,23,20,11,,,
+UBCV,2021,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Oliver Jacobs;Omran Safi;Simon Lolliot,351,71.376068376,13.805005197,96.0,0.0,,,,,,,,,,,19,21,24,24,39,40,33,35,52,44,20,,,
+UBCV,2021,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Tanvi Puri;Xiaolei Deng,322,73.698757764,16.210624905,100.0,0.0,,,,,,,,,,,15,12,23,16,17,37,32,22,55,45,48,,,
+UBCV,2021,W,PSYC,217,,005,Research Methods,Alyssa Mercedes Ash;Andrew Rivers;Erica Dharmawan;Meghna Srivastava;Rachel Lai,93,74.247311828,8.190206126,90.0,47.0,,,,,,,,,,,1,2,0,5,10,13,17,15,25,2,3,,,
+UBCV,2021,W,PSYC,217,,006,Research Methods,Alyssa Mercedes Ash;Andrew Rivers;Erica Dharmawan;Meghna Srivastava;Rachel Lai,94,74.436170213,8.17754401,90.0,38.0,,,,,,,,,,,1,0,2,5,7,12,26,12,20,8,1,,,
+UBCV,2021,W,PSYC,217,,901,Research Methods,Andrew Rivers;Linnan Zhou;Yunru Ma,94,73.053191489,8.454008429,90.0,29.0,,,,,,,,,,,1,0,1,4,6,27,17,15,13,7,3,,,
+UBCV,2021,W,PSYC,218,,005,Analysis of Behavioural Data,Andrew Rivers;Anita Schmalor;Brynley Hanson-Wright;Veronika Dudarev,98,70.081632653,17.973447466,95.0,0.0,,,,,,,,,,,6,8,6,8,9,15,4,5,13,8,16,,,
+UBCV,2021,W,PSYC,308,A,901,Social Psychology,Andrew Rivers;Lucille De Souza,126,76.023809524,14.462898346,100.0,23.0,,,,,,,,,,,6,2,3,6,7,16,9,8,35,12,22,,,
+UBCV,2021,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers,318,75.3,,100.0,5.0,,,,,,,,,,,7,10,22,17,17,37,32,22,58,47,49,77.0,85.0,68.0
+UBCV,2021,W,PSYC,217,,005,Research Methods,Andrew Rivers,93,74.2,,90.0,47.0,,,,,,,,,,,,,,,10,13,17,15,25,,,75.0,80.0,69.0
+UBCV,2021,W,PSYC,218,,005,Analysis of Behavioural Data,Andrew Rivers,98,71.1,,95.0,0.0,,,,,,,,,,,,8,7,10,9,15,,,13,8,16,70.0,83.0,60.3
+UBCV,2021,W,PSYC,308,A,901,Social Psychology,Andrew Rivers,126,76.4,,100.0,23.0,,,,,,,,,,,,,,6,7,16,10,8,36,12,22,80.0,85.0,70.0
+UBCV,2022,S,PSYC,102,,921,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers,198,73.4,,99.0,0.0,,,,,,,,,,,8,13,17,11,12,18,13,17,26,19,44,76.0,86.0,64.0
+UBCV,2022,W,PSYC,102,,004,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers,354,75.4,,100.0,0.0,,,,,,,,,,,7,10,23,22,25,32,47,33,45,45,65,76.0,85.8,68.0
+UBCV,2022,W,PSYC,217,,001,Research Methods,Andrew Rivers,94,73.6,,94.0,30.0,,,,,,,,,,,1,3,8,8,7,7,11,12,21,12,4,76.0,82.8,65.0
+UBCV,2022,W,PSYC,217,,002,Research Methods,Andrew Rivers,94,73.5,,92.0,30.0,,,,,,,,,,,1,3,1,12,7,13,16,4,24,8,5,73.5,82.0,66.5
+UBCV,2022,W,PSYC,217,,901,Research Methods,Andrew Rivers,94,74.6,,98.0,19.0,,,,,,,,,,,1,2,2,5,6,16,12,13,19,15,3,76.0,81.8,68.3
+UBCV,2022,W,PSYC,218,,004,Analysis of Behavioural Data,Andrew Rivers,96,73.5,,100.0,12.0,,,,,,,,,,,5,9,3,4,7,11,5,5,20,7,20,76.0,85.3,64.0
+UBCV,2022,W,PSYC,218,,005,Analysis of Behavioural Data,Andrew Rivers,90,74.3,,100.0,2.0,,,,,,,,,,,4,4,7,8,9,6,6,4,9,8,25,77.0,90.0,61.8
+UBCV,2022,W,PSYC,308,A,003,Social Psychology,Andrew Rivers,156,77.3,,97.0,44.0,,,,,,,,,,,1,3,4,10,4,22,21,14,31,24,22,77.0,85.3,69.0
+UBCV,2023,W,PSYC,102,,001,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers,294,74.9,,96.0,29.0,,,,,,,,,,,7,7,13,12,22,31,42,29,56,32,39,76.0,83.0,68.0
+UBCV,2023,W,PSYC,217,,008,Research Methods,Andrew Rivers,96,73.9,,95.0,15.0,,,,,,,,,,,2,2,5,8,6,10,19,9,15,7,13,74.0,82.5,68.0
+UBCV,2023,W,PSYC,217,,101,Research Methods,Andrew Rivers,97,73.3,,100.0,31.0,,,,,,,,,,,4,1,10,6,5,12,12,6,12,9,15,73.0,85.0,64.8
+UBCV,2023,W,PSYC,217,,901,Research Methods,Andrew Rivers,95,74.5,,95.0,0.0,,,,,,,,,,,1,1,5,2,9,15,17,6,19,10,10,74.0,81.5,68.0
+UBCV,2023,W,PSYC,218,,003,Analysis of Behavioural Data,Andrew Rivers,100,63.7,,100.0,6.0,,,,,,,,,,,13,8,15,9,11,4,5,3,11,8,8,64.0,80.0,55.0
+UBCV,2023,W,PSYC,218,,004,Analysis of Behavioural Data,Andrew Rivers,100,71.7,,100.0,0.0,,,,,,,,,,,7,5,3,9,11,6,10,4,16,11,14,73.5,85.0,64.3
+UBCV,2023,W,PSYC,218,,005,Analysis of Behavioural Data,Andrew Rivers,100,76.6,,100.0,19.0,,,,,,,,,,,4,5,4,10,4,0,10,4,19,14,25,80.0,89.0,64.0

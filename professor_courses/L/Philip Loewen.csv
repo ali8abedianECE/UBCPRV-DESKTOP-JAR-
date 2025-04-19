@@ -1,0 +1,115 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MATH,226,,101,ADV CALCULUS I,"Loewen, Philip",33,77.24,14.33,99,50,33,0,0,0,0,0,0,0,0,0,0,4,0,1,3,2,4,3,6,3,7,,,
+UBC,2002,W,MATH,227,,201,ADV CALCULUS II,"Loewen, Philip",22,79.18,12.38,100,58,22,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,3,0,4,2,6,,,
+UBC,2002,W,MATH,403,,201,STABLZT&OPT CTRL,"Loewen, Philip",6,77.2,6.69,88,70,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,,,
+UBC,2003,W,MATH,226,,101,ADV CALCULUS I,"Loewen, Philip",36,72.83,17.32,98,25,31,5,0,0,0,0,0,1,1,3,5,1,2,0,1,4,3,3,9,3,5,,,
+UBC,2003,W,MATH,227,,201,ADV CALCULUS II,"Loewen, Philip",18,82.44,7.69,98,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,7,2,4,,,
+UBC,2003,W,MATH,266,,201,VTR CALC&CMPLX V,"Loewen, Philip",57,64.81,14.75,99,20,48,9,0,0,0,0,0,1,2,6,9,4,4,5,9,7,4,6,6,2,1,,,
+UBC,2005,W,MATH,217,,101,MLTVAR&VCTR CALC,"Loewen, Philip",58,69.98,18.22,99,25,49,9,0,0,0,0,0,2,1,6,9,4,3,3,1,7,6,3,9,6,7,,,
+UBC,2005,W,MATH,402,,101,CALCULUS VARIATN,"Loewen, Philip",13,74.92,14.38,97,50,13,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,3,0,2,0,3,,,
+UBC,2006,W,MATH,217,,101,MLTVAR&VCTR CALC,"Loewen, Philip",58,65.73,16.31,97,32,47,9,1,0,1,0,0,0,4,5,9,6,3,7,4,7,5,1,6,4,4,,,
+UBC,2006,W,MATH,403,,101,STABLZT&OPT CTRL,"Loewen, Philip",7,82.14,7.43,90,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,1,,,
+UBC,2007,W,MATH,253,,201,MULTIVRBL CALC,"Loewen, Philip",110,69.09,11.12,90,36,103,7,0,0,0,0,0,0,1,6,7,1,14,12,8,16,15,15,15,5,2,,,
+UBC,2007,W,MATH,402,,101,CALCULUS VARIATN,"Loewen, Philip",9,74.88,15.41,98,51,8,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,2,1,0,0,2,,,
+UBC,2009,S,MATH,220,,921,MATH PROOF,"Loewen, Philip",54,60.22,18.78,94,24,36,13,4,0,1,0,0,3,2,8,13,11,4,2,1,1,5,4,1,2,5,,,
+UBC,2009,W,MATH,253,,201,MULTIVRBL CALC,"Loewen, Philip",118,69.71,13.56,99,34,105,13,0,0,0,0,0,0,4,9,13,1,8,13,15,12,17,11,9,11,8,,,
+UBC,2009,W,MATH,340,,101,INTRO LIN PROG,"Loewen, Philip",59,66.11,19.05,100,0,47,8,2,0,2,1,0,1,3,3,8,4,7,3,6,1,5,8,6,3,4,,,
+UBC,2009,W,MATH,403,,201,STABLZT&OPT CTRL,"Loewen, Philip",11,84.6,10.73,98,65,10,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,4,,,
+UBC,2010,S,MATH,340,,921,INTRO LIN PROG,"Loewen, Philip",44,66.02,18.19,96,25,34,7,2,0,1,0,0,1,4,2,7,3,5,4,1,2,4,2,6,2,5,,,
+UBC,2010,W,MATH,226,,101,ADV CALCULUS I,"Loewen, Philip",39,74.89,16.52,98,33,37,1,1,0,0,0,0,0,1,0,1,5,3,1,2,2,4,1,6,5,8,,,
+UBC,2010,W,MATH,253,,201,MULTIVRBL CALC,"Loewen, Philip",112,68.03,16.28,97,29,90,22,0,0,0,0,0,1,4,17,22,4,5,7,10,12,12,5,19,7,9,,,
+UBC,2011,S,MATH,317,,921,CALCULUS IV,"Loewen, Philip",38,61.83,22.41,95,12,22,8,7,0,1,0,1,2,4,1,8,3,1,1,0,5,4,2,0,3,3,,,
+UBC,2011,W,MATH,253,,201,MULTIVRBL CALC,"Loewen, Philip",130,71.2,13.08,100,37,117,11,1,0,1,0,0,0,2,9,11,2,9,8,12,19,15,14,22,8,8,,,
+UBC,2011,W,MATH,320,,101,REAL VARIABLS I,"Loewen, Philip",51,70.63,15.65,100,37,38,2,8,1,2,0,0,0,1,1,2,4,4,3,4,6,1,3,5,3,5,,,
+UBC,2012,S,MATH,340,,921,INTRO LIN PROG,"Loewen, Philip",63,70.66,10.54,94,50,62,0,1,0,0,0,0,0,0,0,0,6,5,4,7,10,10,7,8,2,3,,,
+UBC,2012,W,MATH,253,,201,MULTIVRBL CALC,"Loewen, Philip",114,68.58,12.45,98,35,101,13,0,0,0,0,0,0,2,11,13,1,5,11,16,21,20,8,7,5,7,,,
+UBC,2012,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",96,63.79,14.97,95,24,80,12,0,0,4,0,0,1,3,8,12,14,15,9,5,9,5,6,8,3,6,,,
+UBC,2012,W,MATH,403,,101,STABLZT&OPT CTRL,"Loewen, Philip",5,86,6.32,94,80,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2013,S,MATH,340,,921,INTRO LIN PROG,"Loewen, Philip",62,65.31,19.78,100,22,48,11,2,0,1,0,0,4,3,4,11,7,5,2,4,5,4,6,4,5,6,,,
+UBC,2013,W,MATH,255,,106,ORD DIFF EQUTNS,"Loewen, Philip",113,71.25,11.18,100,42,107,6,0,0,0,0,0,0,0,6,6,0,6,9,19,18,17,14,12,5,7,,,
+UBC,2013,W,MATH,257,,201,PARTL DIFF EQUAT,"Loewen, Philip;Paton, Kelly",78,60.62,20.33,91,13,53,20,2,0,3,0,3,4,5,8,20,6,6,2,9,5,1,11,5,5,3,,,
+UBC,2013,W,MATH,257,,202,PARTL DIFF EQUAT,"Loewen, Philip",35,53.5,24.59,94,6,19,15,1,0,0,1,0,4,7,3,15,2,3,1,3,0,3,0,2,1,4,,,
+UBC,2013,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",114,61.62,15.02,98,30,95,15,2,0,2,0,0,0,4,11,15,27,15,10,4,9,6,3,12,5,4,,,
+UBC,2013,W,MATH,264,,202,VCTR CALC EL ENG,"Loewen, Philip",101,58.89,13.49,92,22,81,19,1,0,0,0,0,2,3,14,19,22,13,11,12,10,2,0,6,3,2,,,
+UBC,2013,W,MATH,316,,201,DIFF EQUATIONS 2,"Loewen, Philip;Paton, Kelly",48,67.2,18.78,98,16,41,4,3,0,0,0,2,0,2,0,4,5,4,5,4,5,4,1,4,4,5,,,
+UBC,2013,W,MATH,316,,202,DIFF EQUATIONS 2,"Loewen, Philip",37,72.82,18.61,96,38,28,6,1,0,2,0,0,0,2,4,6,2,1,0,1,3,4,1,4,5,7,,,
+UBC,2014,S,MATH,257,,921,PARTL DIFF EQUAT,"Loewen, Philip",42,58.29,19.43,95,0,25,9,8,0,0,1,1,0,2,5,9,4,5,3,2,3,2,1,3,0,2,,,
+UBC,2014,S,MATH,316,,921,DIFF EQUATIONS 2,"Loewen, Philip",22,73.48,22,99,16,18,3,1,0,0,0,1,0,0,2,3,2,0,2,0,0,2,1,3,2,6,,,
+UBC,2014,W,MATH,255,,106,ORD DIFF EQUTNS,"Loewen, Philip",117,72.94,12.03,96,23,109,7,1,0,0,0,0,1,1,5,7,0,5,8,8,13,20,19,21,8,7,,,
+UBC,2014,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",108,66.04,14.61,99,12,97,11,0,0,0,0,1,1,1,8,11,9,13,9,16,14,11,7,9,3,6,,,
+UBC,2014,W,MATH,264,,202,VCTR CALC EL ENG,"Loewen, Philip",89,63.52,17.04,99,0,76,12,1,0,0,1,1,1,3,6,12,9,12,9,11,9,5,2,14,1,4,,,
+UBC,2014,W,MATH,402,,201,CALCULUS VARIATN,"Loewen, Philip",9,82.86,11.77,98,64,7,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,2,,,
+UBC,2015,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",91,61.69,18.17,97,11,71,19,0,0,1,0,2,2,5,10,19,9,9,9,10,10,6,3,4,5,6,,,
+UBC,2015,W,MATH,264,,202,VCTR CALC EL ENG,"Loewen, Philip",89,66.26,16.35,96,17,72,12,2,0,3,0,1,1,4,6,12,6,7,10,7,9,6,4,11,8,4,,,
+UBC,2016,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",108,64.34,13.9,99,31,92,11,5,0,0,0,0,0,2,9,11,11,25,13,3,10,7,4,10,4,5,,,
+UBC,2016,W,MATH,264,,202,VCTR CALC EL ENG,"Loewen, Philip",93,63.49,16.84,95,18,73,18,1,0,1,0,1,2,3,12,18,9,13,6,6,8,7,3,8,10,3,,,
+UBC,2017,W,MATH,264,,201,VCTR CALC EL ENG,"Loewen, Philip",117,65.3,16.19,99,31,92,18,3,0,4,0,0,0,8,10,18,11,10,13,10,9,8,3,13,9,6,,,
+UBC,2017,W,MATH,264,,202,VCTR CALC EL ENG,"Loewen, Philip",85,63.87,16.12,99,26,65,12,4,0,4,0,0,1,5,6,12,7,13,7,9,6,6,1,6,6,4,,,
+UBC,2018,W,BMEG,220,,201,BME CIRC&ELECTRO,"Loewen, Philip;Mohaghegh Harandi, Negar",50,70.65,12.16,99,47,45,4,0,0,1,0,0,0,0,4,4,0,3,5,6,7,9,3,4,5,3,,,
+UBC,2018,W,MATH,264,,203,VCTR CALC EL ENG,"Loewen, Philip",50,70.65,12.16,99,47,45,4,0,0,1,0,0,0,0,4,4,0,3,5,6,7,9,3,4,5,3,,,
+UBCV,2014,S,MATH,257,,921,Partial Differential Equations,Philip Loewen,34,58.29411765,19.43213429,95.0,0.0,,,,,,,,,,,9,,5,,,,,,,,,,,
+UBCV,2014,S,MATH,316,,921,Elementary Differential Equations II,Philip Loewen,21,73.47619048,21.99913418,99.0,16.0,,,,,,,,,,,,,,,,,,,,,6,,,
+UBCV,2014,W,MATH,255,,106,Ordinary Differential Equations,Philip Loewen;Tai-Peng Tsai,116,72.93965517,12.03060503,96.0,23.0,,,,,,,,,,,7,0,5,8,8,13,20,19,21,8,7,,,
+UBCV,2014,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Philip Loewen,108,66.03703704,14.61399018,99.0,12.0,,,,,,,,,,,11,9,13,9,16,14,11,7,9,3,6,,,
+UBCV,2014,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Philip Loewen,88,63.52272727,17.03881794,99.0,0.0,,,,,,,,,,,12,9,12,9,11,9,5,2,14,1,4,,,
+UBCV,2014,W,MATH,402,,201,Calculus of Variations,Jummy David;Jummy Funke David;Philip Loewen,7,82.85714286,11.76759068,98.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2015,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Philip Loewen,91,61.131868132,18.837438367,97.0,11.0,,,,,,,,,,,20,9,9,9,10,10,6,3,4,5,6,,,
+UBCV,2015,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Philip Loewen,87,64.045977011,19.927722916,96.0,0.0,,,,,,,,,,,15,6,7,10,7,9,6,4,11,8,4,,,
+UBCV,2016,S,MATH,257,,951,Partial Differential Equations,Liangming Shen;Philip Loewen,33,76.21212121,13.58021902,98.0,50.0,,,,,,,,,,,0,2,2,2,1,4,5,3,5,2,7,,,
+UBCV,2016,S,MATH,316,,951,Elementary Differential Equations II,Liangming Shen;Philip Loewen,44,75.5,16.08914122,100.0,30.0,,,,,,,,,,,2,1,2,5,1,5,6,3,7,1,11,,,
+UBCV,2016,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Philip Loewen,103,64.33980583,13.90130012,99.0,31.0,,,,,,,,,,,11,11,25,13,3,10,7,4,10,4,5,,,
+UBCV,2016,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Philip Loewen,92,62.92391304,17.62193544,95.0,11.0,,,,,,,,,,,19,9,13,6,6,8,7,3,8,10,3,,,
+UBCV,2017,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Daniel Gomez;Philip Loewen,114,63.105263158,19.66550748,99.0,0.0,,,,,,,,,,,22,11,10,13,10,9,8,3,13,9,6,,,
+UBCV,2017,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Daniel Gomez;Philip Loewen,81,60.925925926,20.403907578,99.0,1.0,,,,,,,,,,,16,7,13,7,9,6,6,1,6,6,4,,,
+UBCV,2018,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Jeanie Malone;Leanne Dias;Negar Mohaghegh Harandi;Philip Loewen,50,69.84,13.334564569,99.0,30.0,,,,,,,,,,,5,0,3,5,6,7,9,3,4,5,3,,,
+UBCV,2018,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Liangchen Liu;Philip Loewen,50,69.84,13.334564569,99.0,30.0,,,,,,,,,,,5,0,3,5,6,7,9,3,4,5,3,,,
+UBCV,2019,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Bruno Ozaki;Cat Han Nguyen;Jeanie Malone;Leanne Dias;Negar Mohaghegh Harandi;Philip Loewen,71,71.957746479,10.883062358,99.0,53.0,,,,,,,,,,,0,2,9,5,11,8,10,8,10,4,4,,,
+UBCV,2019,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Philip Loewen;Xinyu Cheng,71,71.957746479,10.883062358,99.0,53.0,,,,,,,,,,,0,2,9,5,11,8,10,8,10,4,4,,,
+UBCV,2020,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Colin Macdonald;Philip Loewen;Xiaowei Li,124,76.60483871,13.583118736,100.0,40.0,,,,,,,,,,,3,6,6,6,9,12,13,12,23,9,25,,,
+UBCV,2021,W,MATH,101,,201,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Chih-Chieh Hung;Elizabeth Xiao;Noe Ducharme;Patrick Walls;Philip Loewen;Sarah Dijols;Simone Maletto,101,66.504950495,21.577591971,100.0,0.0,,,,,,,,,,,19,6,12,7,5,4,9,6,10,11,12,,,
+UBCV,2021,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Andres Ross Bernot;Elizabeth Xiao;Noe Ducharme;Philip Loewen;Simone Maletto,190,69.294736842,18.25763517,100.0,1.0,,,,,,,,,,,23,10,20,6,20,19,15,18,22,13,24,,,
+UBCV,2021,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Alireza Naderi;Costanza Piccolo;Elizabeth Xiao;Noe Ducharme;Philip Loewen;Simone Maletto,178,70.112359551,17.684899366,100.0,2.0,,,,,,,,,,,25,7,17,10,12,16,17,18,14,14,28,,,
+UBCV,2021,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Elizabeth Xiao;Noe Ducharme;Pablo Shmerkin;Philip Loewen;Simone Maletto,206,69.393203883,20.403867458,100.0,1.0,,,,,,,,,,,33,9,15,16,18,11,12,19,19,18,36,,,
+UBCV,2021,W,MATH,101,,206,Integral Calculus with Applications to Physical Sciences and Engineering,Alireza Naderi;Atharva Dilip Korde;Elizabeth Xiao;Natalia Accomazzo Scotti;Noe Ducharme;Philip Loewen;Simone Maletto,98,66.06122449,21.033510978,100.0,2.0,,,,,,,,,,,21,5,6,6,10,9,2,10,8,11,10,,,
+UBCV,2021,W,MATH,101,,207,Integral Calculus with Applications to Physical Sciences and Engineering,Alireza Naderi;Atharva Dilip Korde;Elizabeth Xiao;Natalia Accomazzo Scotti;Noe Ducharme;Philip Loewen;Simone Maletto,113,67.123893805,20.078476724,100.0,0.0,,,,,,,,,,,20,7,7,3,9,13,14,8,11,11,10,,,
+UBCV,2021,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Elizabeth Xiao;Fatemeh Saghafifar;Nahid Walji;Noe Ducharme;Philip Loewen;Simone Maletto,129,70.666666667,21.016486584,100.0,10.0,,,,,,,,,,,22,5,12,6,8,7,9,11,6,10,33,,,
+UBCV,2021,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Alireza Naderi;Atharva Dilip Korde;Elizabeth Xiao;Noe Ducharme;Philip Loewen;Severin Schraven;Simone Maletto,94,76.170212766,19.062228766,100.0,14.0,,,,,,,,,,,8,5,5,3,8,5,5,6,10,9,30,,,
+UBCV,2021,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Elizabeth Xiao;Fanze Kong;Guodong Gai;Noe Ducharme;Philip Loewen;Simone Maletto,107,74.747663551,18.408925982,100.0,26.0,,,,,,,,,,,9,8,6,8,5,9,10,8,7,7,30,,,
+UBCV,2021,W,MATH,101,,213,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Babhru Joshi;Elizabeth Xiao;Noe Ducharme;Philip Loewen;Simone Maletto,112,70.160714286,23.463044959,100.0,0.0,,,,,,,,,,,21,3,5,7,9,9,4,6,10,14,24,,,
+UBCV,2021,W,MATH,101,,V01,Integral Calculus with Applications to Physical Sciences and Engineering,Babhru Joshi;Fatemeh Saghafifar;Philip Loewen,77,63.922077922,23.433425426,100.0,0.0,,,,,,,,,,,16,6,5,6,5,6,6,8,6,3,10,,,
+UBCV,2021,W,MATH,257,,101,Partial Differential Equations,Anthony Peirce;Philip Loewen;Su Liang;Yiyang Tian,6,69.5,28.197517621,91.0,15.0,,,,,,,,,,,1,0,0,0,1,0,1,0,1,1,1,,,
+UBCV,2021,W,MATH,316,,101,Elementary Differential Equations II,Anthony Peirce;Philip Loewen;Su Liang;Yiyang Tian,63,63.746031746,22.774468057,94.0,1.0,,,,,,,,,,,14,3,2,5,3,2,8,9,10,3,4,,,
+UBCV,2021,W,MATH,316,,102,Elementary Differential Equations II,Anthony Peirce;Juncheng Wei;Philip Loewen;Su Liang;Yiyang Tian,53,72.471698113,21.647174068,100.0,9.0,,,,,,,,,,,6,5,2,3,2,2,3,2,6,8,14,,,
+UBCV,2021,W,MATH,101,,201,Integral Calculus with Applications to Physical Sciences and Engineering,Sarah Dijols;Philip Loewen;Patrick Walls,103,67.4,,100.0,28.0,,,,,,,,,,,18,7,13,8,,,9,6,10,11,12,68.0,82.0,55.0
+UBCV,2021,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen,188,70.2,,100.0,1.0,,,,,,,,,,,20,10,20,6,20,19,15,18,23,13,24,71.0,83.0,58.0
+UBCV,2021,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen;Costanza Piccolo,178,70.4,,100.0,2.0,,,,,,,,,,,23,6,19,10,12,16,17,19,14,14,28,72.0,83.8,58.0
+UBCV,2021,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen;Pablo Shmerkin,206,70.1,,100.0,1.0,,,,,,,,,,,30,9,16,16,19,11,13,19,19,18,36,72.0,85.0,59.0
+UBCV,2021,W,MATH,101,,206,Integral Calculus with Applications to Physical Sciences and Engineering,Natalia Accomazzo Scotti;Philip Loewen,97,67.3,,100.0,6.0,,,,,,,,,,,18,,7,6,11,9,,10,8,11,10,68.0,81.0,55.0
+UBCV,2021,W,MATH,101,,207,Integral Calculus with Applications to Physical Sciences and Engineering,Natalia Accomazzo Scotti;Philip Loewen,112,69.0,,100.0,3.0,,,,,,,,,,,16,7,7,3,9,14,15,8,11,11,11,71.5,82.3,58.8
+UBCV,2021,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen;Nahid Walji,128,71.4,,100.0,10.0,,,,,,,,,,,20,5,12,6,8,7,10,11,6,10,33,74.0,90.0,57.8
+UBCV,2021,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Philip Loewen;Severin Schraven,95,76.8,,100.0,14.0,,,,,,,,,,,6,,,,10,,,7,10,9,30,80.0,92.0,65.0
+UBCV,2021,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Guodong Gai;Philip Loewen,107,74.7,,100.0,26.0,,,,,,,,,,,9,8,6,8,5,9,10,8,7,7,30,75.0,90.5,62.0
+UBCV,2021,W,MATH,101,,213,Integral Calculus with Applications to Physical Sciences and Engineering,Babhru Joshi;Philip Loewen,111,72.0,,100.0,0.0,,,,,,,,,,,17,,,7,9,10,,6,11,15,24,76.0,88.0,61.5
+UBCV,2021,W,MATH,101,,V01,Integral Calculus with Applications to Physical Sciences and Engineering,Babhru Joshi;Philip Loewen,76,64.5,,100.0,0.0,,,,,,,,,,,15,6,,6,,6,6,8,6,,10,69.0,79.5,52.8
+UBCV,2021,W,MATH,257,,101,Partial Differential Equations,Philip Loewen,6,69.5,,91.0,15.0,,,,,,,,,,,,,,,,,,,,,,78.0,86.8,68.5
+UBCV,2021,W,MATH,316,,101,Elementary Differential Equations II,Philip Loewen,63,64.6,,94.0,1.0,,,,,,,,,,,13,,,,,,8,9,10,,,73.0,80.0,51.0
+UBCV,2021,W,MATH,316,,102,Elementary Differential Equations II,Philip Loewen;Juncheng Wei,53,72.5,,100.0,9.0,,,,,,,,,,,6,,,,,,,,6,8,14,80.0,90.0,61.0
+UBCV,2022,S,MATH,101,,95A,Integral Calculus with Applications,Natalia Accomazzo Scotti;Philip Loewen,104,57.4,,100.0,6.0,,,,,,,,,,,37,8,7,4,7,5,8,8,8,5,7,59.5,76.3,41.0
+UBCV,2022,S,MATH,101,,95C,Integral Calculus with Applications,Farid Aliniaeifard;Philip Loewen,108,61.3,,100.0,5.0,,,,,,,,,,,26,11,7,11,3,11,7,12,6,4,10,63.0,77.0,50.0
+UBCV,2022,W,MATH,101,,2A1,Integral Calculus with Applications,Yifeng Huang;Philip Loewen;Pablo Shmerkin,297,73.6,,99.0,17.0,,,,,,,,,,,37,23,4,11,13,21,25,24,42,44,53,77.0,87.0,63.0
+UBCV,2022,W,MATH,101,,2A2,Integral Calculus with Applications,Philip Loewen;Nahid Walji,398,73.8,,99.0,6.0,,,,,,,,,,,24,36,11,18,29,39,36,40,57,44,64,76.0,85.8,65.0
+UBCV,2022,W,MATH,101,,2A3,Integral Calculus with Applications,Philip Loewen;Pablo Shmerkin,401,73.6,,100.0,0.0,,,,,,,,,,,36,34,9,20,19,32,29,28,64,63,67,78.0,87.0,64.0
+UBCV,2022,W,MATH,101,,2A4,Integral Calculus with Applications,Philip Loewen;Nahid Walji,304,73.1,,100.0,0.0,,,,,,,,,,,34,24,14,9,17,19,22,22,40,38,65,77.0,87.0,61.8
+UBCV,2022,W,MATH,101,,2AR,Integral Calculus with Applications,Philip Loewen,150,73.1,,98.0,4.0,,,,,,,,,,,23,8,2,4,6,7,12,14,21,24,29,78.0,88.0,65.0
+UBCV,2022,W,MATH,101,,2B1,Integral Calculus with Applications,Seckin Demirbas;Peter Harrington;Philip Loewen,349,65.6,,97.0,16.0,,,,,,,,,,,69,45,9,17,30,30,38,30,31,27,23,68.0,78.0,53.0
+UBCV,2022,W,MATH,101,,2C1,Integral Calculus with Applications,Yifeng Huang;Philip Loewen;Elyse Yeager,369,69.2,,98.0,4.0,,,,,,,,,,,58,40,12,16,19,33,33,31,50,44,33,73.0,83.0,53.0
+UBCV,2022,W,MATH,215,,101,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,25,63.0,,90.0,35.0,,,,,,,,,,,4,3,2,3,5,1,3,1,1,1,1,65.0,72.0,54.0
+UBCV,2022,W,MATH,215,,102,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,35,63.6,,94.0,9.0,,,,,,,,,,,8,2,3,3,1,1,5,3,3,3,3,68.0,79.0,51.0
+UBCV,2022,W,MATH,215,,104,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,53,61.7,,89.0,28.0,,,,,,,,,,,8,8,7,4,9,5,3,1,4,4,0,63.0,71.0,53.0
+UBCV,2022,W,MATH,255,,101,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,50,53.7,,85.0,5.0,,,,,,,,,,,15,10,4,5,8,2,3,2,0,1,0,54.5,64.8,43.5
+UBCV,2022,W,MATH,255,,102,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,86,63.6,,87.0,18.0,,,,,,,,,,,9,13,8,13,7,9,9,7,8,3,0,63.0,74.0,54.5
+UBCV,2022,W,MATH,255,,104,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,69,80.0,,97.0,46.0,,,,,,,,,,,1,2,1,2,0,10,4,10,13,13,13,82.0,89.0,72.0
+UBCV,2023,S,MATH,101,,951,Integral Calculus with Applications,Farid Aliniaeifard;Teemu Jarvinen;Philip Loewen,330,59.14,,99.0,11.0,,,,,,,,,,,115,38,21,14,16,34,20,13,14,14,19,57.0,71.75,45.0
+UBCV,2023,W,MATH,101,,2AR,Integral Calculus with Applications,Emanuele Bodon;Wenzhao Chen;Philip Loewen,117,53.8,,87.0,0.0,,,,,,,,,,,32,18,8,13,10,10,5,5,5,2,0,58.5,67.3,40.8
+UBCV,2023,W,MATH,320,,101,Real Variables I,Philip Loewen,60,66.0,,100.0,12.0,,,,,,,,,,,9,5,7,5,0,9,3,0,2,4,9,68.0,82.0,54.0
+UBCV,2023,W,MATH,402,,101,Calculus of Variations,Philip Loewen,14,79.23,,99.0,55.0,,,,,,,,,,,0,0,1,1,1,1,0,1,4,0,4,80.0,90.0,70.0

@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,ENGR,442,,201,Water Quality Engineering,Nicolas Peleato;Shiva Khoei,15,78.333333333,11.049671402,92.0,52.0,0,1,0,0,2,1,0,3,3,3,2,,,
+UBCO,2018,W,ENGR,598,C,001,Topics in Engineering,Nicolas Peleato,6,77.833333333,16.17920476,97.0,51.0,0,,,,,,2,,1,,2,,,
+UBCO,2019,W,APSC,182,,102,Matter and Energy I,Ahmed Elmouchi;Anber Rana;Arash Dalili Shoaei;Benjamin Wiltshire;Hamed Mirzaei;Hirra Zafar;Humera Ahmed;John Alan Brereton;Kevin Golovin;Kyle Lessoway;Nicolas Peleato;Pamela Ines Rellstab Sanchez;Ramin Heydarlaki;Saeed Moghaddam;Sarin Raj Pokhrel;Shahab Zeraati Dizjeh,156,69.58974359,16.228955324,96.0,14.0,20,2,10,11,15,13,19,22,19,18,7,,,
+UBCO,2019,W,ENGR,347,,101,Environmental Engineering,Atefeh Aliashrafi Zagi;Cigdem Eskicioglu;Haroon Mian;Nicolas Peleato,97,77.0,11.557825632,99.0,44.0,1,2,2,4,11,14,11,15,10,12,15,,,
+UBCO,2019,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Nicolas Peleato,28,82.535714286,8.543926337,93.0,58.0,0,0,1,0,1,0,2,6,6,3,9,,,
+UBCO,2019,W,ENGR,442,,201,Water Quality Engineering,Ibrahim Alper Basar;Ibrahim Basar;Nicolas Peleato,24,79.541666667,11.001893776,96.0,52.0,0,1,0,1,1,2,2,5,4,3,5,,,
+UBCO,2020,W,ENGR,347,,101,Environmental Engineering,Atefeh Aliashrafi Zagi;Nicolas Peleato,115,76.008695652,10.932404474,99.0,50.0,0,4,1,9,15,12,13,17,21,8,15,,,
+UBCO,2020,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Nicolas Peleato,22,82.818181818,8.516853676,96.0,67.0,0,0,0,0,1,3,1,1,6,5,5,,,
+UBCO,2020,W,ENGR,442,,201,Water Quality Engineering,Gyan Kumar Chhipi Shrestha;Ibrahim Alper Basar;Ibrahim Basar;Nicolas Peleato,21,88.095238095,7.300032616,96.0,70.0,0,0,0,0,0,1,2,0,1,6,11,,,
+UBCO,2021,W,APSC,183,,102,Matter and Energy II,Ahmadreza Ghaffarkhah;Alison Cox;Manin Lam;Mohammadreza Aghel;Nicolas Peleato;Parisa Najmi;Ramin Karimianghadim;Sabrina Islam;Saeed Ghaderi;Sahar Alousi;Sarin Raj Pokhrel;Sepehr Mosadegh;Sepideh Pakpour,168,73.19047619,17.608161003,97.0,0.0,11,11,6,9,14,10,17,10,31,23,26,,,
+UBCO,2021,W,ENGR,347,,101,Environmental Engineering,Atefeh Aliashrafi Zagi;Nicolas Peleato,93,74.430107527,11.689272162,99.0,38.0,1,5,2,7,13,5,13,16,16,4,11,,,
+UBCO,2021,W,ENGR,441,,101,Advanced Water Treatment Processes,Manjot Kaur;Mike Mckie;Nicolas Peleato,41,77.073170732,8.678681478,94.0,61.0,0,0,0,3,5,3,6,3,13,6,2,,,
+UBCO,2021,W,ENGR,347,,101,Environmental Engineering,Nicolas Peleato,93,74.4,,99.0,38.0,,,,7,13,,13,16,16,,11,76.0,81.0,66.0
+UBCO,2022,W,APSC,182,,102,Matter and Energy I,Nicolas Peleato,204,69.8,,99.0,14.0,28,1,9,18,20,26,20,25,31,21,5,71.5,80.0,61.8
+UBCO,2022,W,ENGR,347,,101,Environmental Engineering,Nicolas Peleato,101,74.5,,99.0,25.0,2,2,2,12,9,14,15,11,14,8,12,74.0,83.0,67.0
+UBCO,2022,W,ENGR,441,,101,Advanced Water Treatment Processes,Nicolas Peleato,15,81.7,,97.0,42.0,1,0,0,0,0,0,1,2,5,3,3,82.0,88.0,79.0
+UBCO,2023,W,APSC,547,,001,Advanced Drinking Water Treatment,Nicolas Peleato,7,89.7,,95.0,72.0,0,0,0,0,0,0,1,0,0,0,6,92.0,94.5,90.0
+UBCO,2023,W,ENGR,347,,101,Environmental Engineering,Nicolas Peleato,87,76.2,,94.0,51.0,0,1,4,2,6,17,12,11,12,11,11,76.0,84.0,70.0
+UBCO,2023,W,ENGR,441,,101,Advanced Water Treatment Processes,Nicolas Peleato,32,80.5,,99.0,54.0,0,1,0,2,5,1,3,1,3,5,10,83.0,91.5,68.5
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

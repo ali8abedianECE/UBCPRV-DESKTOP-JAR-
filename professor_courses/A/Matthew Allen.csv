@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,ENGL,150,,005,Introduction to Literary Genre,Karis Shearer;Matthew Allen,27,73.444444444,6.302217762,93.0,61.0,0,0,0,2,1,6,11,3,3,0,1,,,
+UBCO,2021,W,ENGL,150,,009,Introduction to Literary Genre,Matthew Allen,26,71.153846154,7.237083986,82.0,55.0,0,0,1,4,2,5,6,5,3,0,0,,,
+UBCO,2021,W,ENGL,150,,010,Introduction to Literary Genre,Matthew Allen,29,70.344827586,14.546172452,83.0,0.0,1,0,0,2,1,9,8,4,4,0,0,,,
+UBCO,2021,W,ENGL,150,,102,Introduction to Literary Genre,Matthew Allen;Oliver Lovesey,25,59.88,18.360555547,85.0,0.0,3,0,3,7,0,7,4,0,0,1,0,,,
+UBCO,2021,W,ENGL,150,,106,Introduction to Literary Genre,Matthew Allen;Tristan Major,24,73.833333333,9.836341962,91.0,55.0,0,0,1,3,2,3,7,2,1,2,3,,,
+UBCO,2021,W,ENGL,150,,107,Introduction to Literary Genre,Alexandria Krause;Matthew Allen,27,78.222222222,10.33416043,95.0,50.0,0,1,0,2,1,1,5,4,6,2,5,,,
+UBCO,2021,W,ENGL,150,,108,Introduction to Literary Genre,Alexandria Krause;Matthew Allen,27,60.481481481,23.655167545,87.0,0.0,4,0,2,4,1,7,4,4,0,1,0,,,
+UBCO,2021,W,ENGL,150,,109,Introduction to Literary Genre,Alexandria Krause;Matthew Allen,28,73.464285714,20.46945718,93.0,0.0,2,3,0,1,0,2,2,3,6,7,2,,,
+UBCO,2021,W,ENGL,150,,110,Introduction to Literary Genre,Alexandria Krause;Matthew Allen,20,70.85,7.795241463,85.0,55.0,0,0,1,3,3,4,4,2,2,1,0,,,
+UBCO,2021,W,ENGL,150,,005,Introduction to Literary Genre,Matthew Allen,27,73.4,,93.0,61.0,,,,,,6,11,,,,,73.0,76.0,71.0
+UBCO,2021,W,ENGL,150,,009,Introduction to Literary Genre,Matthew Allen,26,71.2,,82.0,55.0,,,,,,,6,,,,,72.5,76.0,67.5
+UBCO,2021,W,ENGL,150,,010,Introduction to Literary Genre,Matthew Allen,29,70.3,,83.0,0.0,,,,,,9,8,,,,,73.0,77.0,70.0
+UBCO,2021,W,ENGL,150,,102,Introduction to Literary Genre,Matthew Allen,25,59.9,,85.0,0.0,,,,7,,7,,,,,,60.0,70.0,60.0
+UBCO,2021,W,ENGL,150,,108,Introduction to Literary Genre,Matthew Allen,27,60.5,,87.0,0.0,,,,,,7,,,,,,70.0,73.0,60.0
+UBCO,2021,W,ENGL,150,,110,Introduction to Literary Genre,Matthew Allen,20,70.9,,85.0,55.0,,,,,,,,,,,,70.0,75.5,65.8

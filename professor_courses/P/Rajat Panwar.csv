@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,WOOD,465,,201,WOOD IND MANAG,"Kozak, Robert Antal;Panwar, Rajat",91,66.79,9.43,91,51,91,0,0,0,0,0,0,0,0,0,0,6,11,27,9,12,7,4,12,2,1
+UBC,2015,W,FRST,560,,201,FRST BUSN ENTERP,"Kozak, Robert Antal;Panwar, Rajat",11,92.27,3.5,98,86,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+UBC,2015,W,WOOD,465,,201,WOOD IND MANAG,"Kozak, Robert Antal;Panwar, Rajat",75,76.79,6.99,94,60,75,0,0,0,0,0,0,0,0,0,0,0,0,3,4,9,19,15,16,6,3
+UBCV,2014,W,WOOD,465,,201,Wood Industry Business Management,Rajat Panwar;Robert Antal Kozak,91,66.79120879,9.433411641,91.0,51.0,,,,,,,,,,,0,6,11,27,9,12,7,,12,,
+UBCV,2015,W,FRST,560,,201,Forest Business Enterprise,Rajat Panwar;Robert Antal Kozak,11,92.272727273,3.49545159,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9
+UBCV,2015,W,WOOD,465,,201,Wood Industry Business Management,Rajat Panwar;Robert Antal Kozak,75,76.786666667,6.994772823,94.0,60.0,,,,,,,,,,,0,0,0,,,9,19,15,16,6,
+UBCV,2016,W,FRST,560,,201,Forest Business Enterprise,Rajat Panwar;Robert Antal Kozak;Thomas Nelson Urban;Thomas Urban,8,88.125,5.817154434,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,1,4
+UBCV,2016,W,WOOD,461,,201,Globalization and Sustainability,Justin Bull;Rajat Panwar,85,78.15294118,10.06467879,94.0,31.0,,,,,,,,,,,1,1,1,1,3,12,12,17,11,17,9
+UBCV,2017,W,WOOD,461,,201,Globalization and Sustainability,Justin Bull;Rajat Panwar,101,78.356435644,6.616017168,90.0,56.0,,,,,,,,,,,0,0,1,1,5,7,15,17,37,16,2
+UBCV,2020,W,CONS,302,,101,Issues in Genomics and the Environment,Rajat Panwar;Tongli Wang;Zhengyang Ye,38,86.947368421,5.977197067,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,1,6,16,13
+UBCV,2020,W,CONS,370,,201,Aboriginal Forestry,Janette Bulkan;Madison Paige Stevens;Marie Nosten;Rajat Panwar,80,80.125,10.389107002,96.0,16.0,,,,,,,,,,,1,0,1,1,4,3,8,9,27,19,7

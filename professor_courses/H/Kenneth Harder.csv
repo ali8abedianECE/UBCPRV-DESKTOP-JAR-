@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",59,73.67,14.22,95,11,55,3,1,0,0,0,1,0,1,1,3,1,4,3,3,4,6,9,15,6,4,,,
+UBC,2009,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",66,75.63,9.85,99,52,64,0,2,0,0,0,0,0,0,0,0,1,3,3,7,6,12,9,8,9,6,,,
+UBC,2009,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",18,88,3.31,93,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,8,,,
+UBC,2010,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",49,82.04,11.91,100,42,47,1,1,0,0,0,0,0,0,1,1,0,0,2,3,2,4,6,7,9,14,,,
+UBC,2010,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",18,85.39,6.57,94,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,7,,,
+UBC,2011,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",69,77.25,10.88,97,24,67,2,0,0,0,0,0,1,1,0,2,0,1,1,0,9,10,11,20,12,3,,,
+UBC,2011,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",15,89.4,3.27,97,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7,,,
+UBC,2012,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",50,79.09,8.81,94,56,45,0,0,4,0,0,0,0,0,0,0,0,2,0,3,4,5,8,11,7,5,,,
+UBC,2012,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",14,86.57,5.88,92,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11,2,,,
+UBC,2013,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",66,77.71,12.82,100,38,64,1,1,0,0,0,0,0,1,0,1,3,2,4,5,3,5,7,15,10,10,,,
+UBC,2013,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",15,89.4,2.56,93,86,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,,,
+UBC,2014,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth",52,81.65,14.26,100,50,51,0,1,0,0,0,0,0,0,0,0,3,3,1,3,3,1,2,5,12,18,,,
+UBC,2014,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",18,88.24,2.8,94,85,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,4,,,
+UBC,2015,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth;Perona Wright, Georgia",83,76.22,9.59,97,52,77,0,2,4,0,0,0,0,0,0,0,1,4,4,7,6,11,11,18,10,5,,,
+UBC,2015,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",23,88.61,4.3,97,78,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,9,,,
+UBC,2017,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth;Johnson, Pauline",73,77.34,10.49,94,50,70,0,1,2,0,0,0,0,0,0,0,2,1,6,4,7,9,7,13,14,7,,,
+UBC,2017,W,MICB,502,,201,ADV IMMUNOGENETI,"Gold, Michael;Harder, Kenneth;Osborne, Lisa",6,91.5,4.97,97,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,,,
+UBC,2018,W,MICB,402,,101,ADV IMMUNOLOGY,"Harder, Kenneth;Sadarangani, Manish",70,79.46,12.33,93,35,65,3,1,0,1,0,0,0,2,1,3,1,0,2,3,3,4,5,18,18,11,,,
+UBC,2018,W,MICB,412,,201,Top Immun Resrch,"Harder, Kenneth;Johnson, Pauline",12,90.5,2.91,95,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2014,W,MICB,402,,101,Advanced Immunology,Christina Farr;Kenneth Harder,51,81.64705882,14.2587847,100.0,50.0,,,,,,,,,,,0,,,,,,,,5,12,18,,,
+UBCV,2014,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Pauline Johnson,17,88.23529412,2.795742562,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13,4,,,
+UBCV,2015,W,MICB,402,,101,Advanced Immunology,Georgia Perona Wright;Graham Heieis;Kenneth Harder,77,76.220779221,9.59251816,97.0,52.0,,,,,,,,,,,0,,,,7,6,11,11,18,10,5,,,
+UBCV,2015,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Pauline Johnson,23,88.608695652,4.303689014,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,12,9,,,
+UBCV,2017,W,MICB,402,,101,Advanced Immunology,Etienne Melese;Kenneth Harder;Pauline Johnson;Tracy Kion,70,77.342857143,10.487930557,94.0,50.0,,,,,,,,,,,0,2,1,6,4,7,9,7,13,14,7,,,
+UBCV,2017,W,MICB,502,,201,Advanced Immunogenetics,Kenneth Harder;Laura Sly;Lisa Osborne;Michael Gold;Ninan Abraham,6,91.5,4.969909456,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,4,,,
+UBCV,2018,W,MICB,402,,101,Advanced Immunology,Andrew Sharon;Kenneth Harder;Manish Sadarangani;Megan Levings;Pauline Johnson,69,79.246376812,12.363853622,93.0,35.0,,,,,,,,,,,3,1,0,2,4,3,4,5,18,18,11,,,
+UBCV,2018,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Ninan Abraham;Pauline Johnson,12,90.5,2.907670108,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2018,W,MICB,502,,201,Advanced Immunogenetics,Kenneth Harder;Lisa Osborne;Michael Gold;Wilfred Arthur Jefferies,10,89.7,3.973523485,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,4,,,
+UBCV,2019,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Manish Sadarangani;Megan Levings;Morgan Alford,45,79.8,8.734987121,96.0,60.0,,,,,,,,,,,0,0,0,3,4,0,5,7,13,8,5,,,
+UBCV,2019,W,MICB,412,,201,Topics in Immunological Research,Jacqueline Cheuk-Yan Lai;Jacqueline Lai;Kenneth Harder;Pauline Johnson;Tracy Kion,16,86.8125,7.166763565,99.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,5,5,,,
+UBCV,2020,W,MICB,402,,101,Advanced Immunology,Alicia Jia;Israel Matos;Kenneth Harder;Manish Sadarangani;Megan Levings,54,82.62962963,7.936769687,96.0,61.0,,,,,,,,,,,0,0,0,2,1,1,5,8,10,16,11,,,
+UBCV,2020,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Michael Gold;Pauline Johnson,8,91.75,2.659215781,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2021,W,MICB,402,,101,Advanced Immunology,Chad Poloni;Kenneth Harder;Manish Sadarangani;Megan Levings,56,81.839285714,10.498098158,99.0,57.0,,,,,,,,,,,0,0,3,1,2,3,5,6,11,7,18,,,
+UBCV,2021,W,MICB,412,,201,Topics in Immunological Research,Kelly Brown;Kenneth Harder;Michael Gold;Pauline Johnson,14,88.714285714,3.604027052,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,7,,,
+UBCV,2021,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Megan Levings;Manish Sadarangani,56,81.8,,99.0,57.0,,,,,,,,,,,,,,,,,,6,11,7,18,84.0,91.0,75.8
+UBCV,2021,W,MICB,412,,201,Topics in Immunological Research,Kelly Brown;Michael Gold;Kenneth Harder,14,88.7,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,7,89.5,91.0,85.3
+UBCV,2022,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Megan Levings;Manish Sadarangani,36,75.8,,95.0,21.0,,,,,,,,,,,3,0,3,1,1,3,2,2,9,3,9,82.0,87.0,71.0
+UBCV,2022,W,MICB,412,,201,Topics in Immunological Research,Michael Gold;Kenneth Harder;Maria Tokuyama,13,90.8,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,10,91.0,93.0,90.0
+UBCV,2023,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Megan Levings;Manish Sadarangani,34,77.5,,96.0,50.0,,,,,,,,,,,0,2,1,0,3,2,4,5,7,5,4,79.0,85.0,72.0
+UBCV,2023,W,MICB,412,,201,Topics in Immunological Research,Ninan Abraham;Kenneth Harder;Maria Tokuyama,18,87.8,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,8,88.0,90.0,87.0

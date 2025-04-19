@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,PHYS,409,A,101,EXPTL PHYSICS,"Fedorko, Wojciech Tadeus;Madison, Kirk",19,84.53,8.93,94,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,2,3,8
+UBC,2016,W,PHYS,409,B,201,EXPTL PHYSICS,"Fedorko, Wojciech Tadeus;Madison, Kirk",19,83.26,8.52,96,63,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,5,5,4
+UBC,2017,W,PHYS,409,A,101,EXPTL PHYSICS,"Fedorko, Wojciech Tadeus;Madison, Kirk",19,80.37,8.53,93,63,19,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,6,3,3
+UBC,2017,W,PHYS,409,B,201,EXPTL PHYSICS,"Fedorko, Wojciech Tadeus;Madison, Kirk",22,82.55,11.33,93,50,22,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,5,4,8
+UBCV,2016,W,PHYS,409,A,101,Experimental Physics,Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko;Yang Lan,19,84.52631579,8.934131936,94.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,1,2,3,8
+UBCV,2016,W,PHYS,409,B,201,Experimental Physics,Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko;Yang Lan,19,83.2631579,8.516925014,96.0,63.0,,,,,,,,,,,0,0,0,1,0,0,4,0,5,5,4
+UBCV,2017,W,PHYS,409,A,101,Experimental Physics,Chen Ge Qu;Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko,19,80.368421053,8.532360142,93.0,63.0,,,,,,,,,,,0,0,0,1,1,1,1,3,6,3,3
+UBCV,2017,W,PHYS,409,B,201,Experimental Physics,Chen Ge Qu;Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko,22,82.545454545,11.329385612,93.0,50.0,,,,,,,,,,,0,1,1,0,1,0,1,1,5,4,8

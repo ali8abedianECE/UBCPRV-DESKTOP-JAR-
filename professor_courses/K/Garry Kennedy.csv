@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,VISA,370,,001,SPECIAL STUDY I,"Busby, Cathy;Kennedy, Garry",18,87.78,5.37,96,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,9,5
+UBC,2014,W,VISA,401,F,001,ADV OPEN STUDIO,"Busby, Cathy;Kennedy, Garry",21,85.15,10.01,96,60,20,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,11,5
+UBC,2015,W,VISA,370,,001,SPECIAL STUDY I,"Busby, Cathy;Kennedy, Garry",22,88.45,3.42,95,85,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,7
+UBC,2015,W,VISA,401,F,001,ADV OPEN STUDIO,"Busby, Cathy;Kennedy, Garry",20,86.15,5.15,95,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,9,8
+UBC,2016,W,VISA,481,,001,ADV SEMINAR II,"Busby, Cathy;Kennedy, Garry",23,87.7,3.6,95,80,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,7
+UBCV,2014,W,VISA,370,,001,Special Studies I,Cathy Busby;Garry Kennedy;Garry Neill Kennedy,18,87.77777778,5.374838499,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,5
+UBCV,2014,W,VISA,401,F,001,Advanced Open Studio,Cathy Busby;Garry Kennedy,20,85.15,10.01196652,96.0,60.0,,,,,,,,,,,0,0,0,,,,,,,11,5
+UBCV,2015,W,VISA,370,,001,Special Studies I,Cathy Busby;Garry Kennedy,22,88.454545455,3.418817294,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,15,7
+UBCV,2015,W,VISA,401,F,001,Advanced Open Studio,Cathy Busby;Garry Kennedy,20,86.15,5.153179907,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,8
+UBCV,2016,W,VISA,481,,001,Advanced Seminar II,Cathy Busby;Garry Kennedy,23,87.69565217,3.598418625,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,15,7

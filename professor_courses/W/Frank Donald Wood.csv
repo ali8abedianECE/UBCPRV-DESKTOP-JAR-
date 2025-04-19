@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,CPSC,340,,201,Machine Learning and Data Mining,Cathy Meng;Farzad Abdolhosseini;Frank Donald Wood;Frank Wood;Jonathan Wilder Lavington;Marjan Albooyeh;Nam Hee Kim;Si Yi Meng,171,79.187134503,13.087041569,100.0,30.0,5,2,5,9,8,13,12,20,26,32,39,,,
+UBCV,2018,W,CPSC,532,W,101,Topics in Artificial Intelligence,Frank Donald Wood,6,93.166666667,8.28049918,100.0,77.0,0,0,0,0,0,0,0,1,0,0,5,,,
+UBCV,2018,W,CPSC,539,W,101,Topics in Programming Languages,Frank Donald Wood,15,88.0,9.599107101,99.0,72.0,0,0,0,0,0,0,2,2,2,1,8,,,
+UBCV,2019,W,CPSC,340,,201,Machine Learning and Data Mining,Betty Shea;Chih-Hau Hou;Frank Donald Wood;Grigorii Anatolievich Guz;Grigorii Guz;Ke Ma;Olga Solodova;Setareh Cohan,160,86.1875,13.437105998,100.0,0.0,2,0,1,1,5,3,15,14,19,30,70,,,
+UBCV,2020,W,CPSC,340,,101,Machine Learning and Data Mining,Amit Kadan;Frank Donald Wood;Ke Ma;Peyman Gholami;Setareh Cohan;Shahriar Shayesteh;Xinyue Yang;Yunan Xu;Yunpeng Liu;Yuxin Zhang,107,90.747663551,6.687207526,100.0,50.0,0,2,0,0,0,0,0,0,0,0,105,,,
+UBCV,2020,W,CPSC,340,,103,Machine Learning and Data Mining,Frank Donald Wood;Qiuhan He,124,90.64516129,7.40708686,100.0,50.0,0,3,0,0,0,0,0,0,0,0,121,,,
+UBCV,2020,W,CPSC,532,W,201,Topics in Artificial Intelligence,Christian Weilbach;Frank Donald Wood,13,84.0,8.765462528,93.0,62.0,0,0,0,1,0,0,1,0,4,2,5,,,
+UBCV,2021,W,CPSC,532,W,101,Topics in Artificial Intelligence,Frank Donald Wood,18,87.0,13.381286318,98.0,48.0,1,0,1,0,0,0,0,0,3,1,12,,,
+UBCV,2021,W,CPSC,532,W,101,Topics in Artificial Intelligence,Frank Donald Wood,18,87.0,,98.0,48.0,,,,,,,,,,,12,92.0,94.0,84.3
+UBCV,2023,W,CPSC,436,E,201,Topics in Computer Science,Frank Donald Wood,31,82.5,,90.0,72.0,0,0,0,0,0,0,8,4,4,12,3,84.0,89.0,76.5

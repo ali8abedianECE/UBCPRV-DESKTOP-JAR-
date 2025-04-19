@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CPSC,312,,101,FUNC & LOGIC PRG,"Lowe, David",123,77.31,13.25,99,40,120,2,1,0,0,0,0,0,0,2,2,8,3,5,6,13,12,17,14,13,29
+UBC,2002,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",12,87.08,6.92,96,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,6
+UBC,2002,W,NURS,320,,002,NURS RLS&CMP I,"Lowe, Sharon",52,84.4,5.63,94,68,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,19,12,13
+UBC,2003,W,CPSC,312,,101,FUNC & LOGIC PRG,"Lowe, David",133,74.98,14.88,100,5,127,4,1,0,1,1,0,0,0,3,4,7,4,10,17,7,13,12,19,11,27
+UBC,2003,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",22,87.86,5.09,96,77,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,9
+UBC,2005,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",57,78.79,6.46,90,60,56,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3,9,14,15,11,1
+UBC,2005,W,NURS,421,,001,NURS ROL COM,"Dunn, Pady;Esson, Lynne;Lowe, Sharon;Valkenier, Beverley",56,82.52,5.03,91,69,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,22,20,2
+UBC,2005,W,NURS,421,,002,NURS ROL COM,"Cunningham, Margaret Mui Yeah;Dunn, Pady;Lowe, Sharon;TBA;Valkenier, Beverley",57,85.3,5.15,94,73,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,16,19,14
+UBC,2006,W,CPSC,425,,201,COMPUTER VISION,"Lowe, David",67,72.61,15.24,99,25,63,3,1,0,0,0,0,1,0,2,3,4,6,6,4,4,9,4,8,9,9
+UBC,2006,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",18,89,6.09,96,75,16,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,11
+UBC,2006,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",58,78.95,4.9,87,62,57,0,1,0,0,0,0,0,0,0,0,0,0,1,1,3,5,19,23,5,0
+UBC,2006,W,NURS,421,,002,NURS ROL COM,"Dunn, Pady;Esson, Lynne;Lowe, Sharon;Valkenier, Beverley",57,87.41,4,96,79,56,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,25,16
+UBC,2007,W,CPSC,111,,102,INTRO COMPTN,"Lowe, David",116,70.88,16.41,98,22,92,16,7,0,1,0,0,2,2,12,16,2,6,6,7,9,10,11,13,22,6
+UBC,2007,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",14,87.79,5.58,96,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,8
+UBC,2009,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",25,88.4,7.42,96,60,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,5,16
+UBC,2010,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",18,89.17,4.26,96,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,11
+UBC,2011,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",20,87.79,7.84,96,60,19,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,5,11
+UBC,2013,W,CPSC,525,,201,IMAGE UNDRSTD II,"Lowe, David",14,89.46,4.01,95,82,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8
+UBC,2014,W,PATH,417,A,99C,HMN BACT INFCTNS,"Kelly, Niamh;Lowe, Christopher",18,81.83,6.54,90,69,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,6,2
+UBC,2015,W,DENT,440,,001,DENTISTRY lV,"Aidelbaum, Martin;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Lowe, Alan Arthur;MacDonald, David;Mathu-Muju, Kavita;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",57,81.05,2.47,86,75,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,41,3,0
+UBC,2015,W,PATH,417,A,99C,HMN BACT INFCTNS,"Kelly, Niamh;Lowe, Christopher",21,79.38,8.48,91,62,21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,8,2,3

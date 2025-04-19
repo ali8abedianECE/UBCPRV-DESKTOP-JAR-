@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Morshed, Muhammad",19,77.21,10.4,97,57,19,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,5,2,3,2
+UBC,2010,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",19,74.37,10.25,92,54,19,0,0,0,0,0,0,0,0,0,0,1,1,0,4,1,2,5,1,3,1
+UBC,2011,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",17,80.76,7.98,89,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,6,6,0
+UBC,2012,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Isaac-Renton, Judith;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Noble, Michael Allen;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",24,85.54,4.03,92,78,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,8,5
+UBC,2013,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Lau, Timmy;McLean, Donald;Morshed, Muhammad;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",24,78.13,10.06,94,62,24,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,2,3,5,3
+UBC,2014,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",25,75.82,11.47,92,55,22,0,3,0,0,0,0,0,0,0,0,0,2,2,2,2,2,1,4,5,2
+UBC,2014,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Morshed, Muhammad;Petric, Martin;Roscoe, Diane;Scott, Mark;Tang, Patrick Kwok Chuen",22,80.33,9.17,93,51,21,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,3,2,7,4,3
+UBC,2015,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",24,70.96,13.15,93,37,22,2,0,0,0,0,0,0,1,1,2,0,2,0,1,6,2,6,2,1,2
+UBC,2015,W,MECH,563,,201,ROBOTICS: K DYN,"Tufail, Muhammad",5,77.8,10.33,87,61,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,0
+UBC,2015,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Jassem, Agata;Krajden, Mel;Morshed, Muhammad;Petric, Martin;Prystajecky, Natalie;Roscoe, Diane;Scott, Mark",23,78.36,6.89,91,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5,5,4,1
+UBC,2016,W,LIBR,559,C,002,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",27,82.42,4.44,89,70,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,8,13,0
+UBC,2016,W,LIBR,559,D,002,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",13,83.83,3.66,90,76,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,1
+UBC,2016,W,LIBR,559,N,001,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",8,86.25,2.12,89,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0
+UBC,2016,W,MECH,464,,201,INDUST ROBOTICS,"Tufail, Muhammad",20,75,17.12,98,23,19,1,0,0,0,0,0,1,0,0,1,1,1,1,0,2,1,4,4,2,3
+UBC,2016,W,MECH,563,,201,ROBOTICS: K DYN,"Tufail, Muhammad",10,82.3,7.96,96,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,2
+UBC,2016,W,PATH,327,,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Jassem, Agata;Krajden, Mel;Morshed, Muhammad;Petric, Martin;Prystajecky, Natalie;Roscoe, Diane;Scott, Mark",15,78.21,9.28,91,57,14,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,3,0,4,3,1
+UBC,2017,W,LIBR,539,J,002,SPECIALIZED MATS,"Abdul-Mageed, Muhammad;Freund, Luanne",19,84.05,2.32,88,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,11,0
+UBC,2017,W,LIBR,559,C,001,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",10,90.13,3.44,94,85,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+UBC,2017,W,LIBR,559,D,002,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",9,82.33,2.96,86,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,0
+UBC,2018,W,LIBR,559,C,001,TPCS CP-BSED INF,"Abdul-Mageed, Muhammad",15,88.2,4.3,94,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,5
+UBC,2018,W,LING,530,F,001,PROB IN SPC AREA,"Abdul-Mageed, Muhammad",24,85.38,1.88,89,83,21,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,13,0

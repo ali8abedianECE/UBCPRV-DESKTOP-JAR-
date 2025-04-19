@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,BIOL,112,,101,BIOL BACT CELL,"Gordon, Joyce",217,64.67,11.33,95,39,201,16,0,0,0,0,0,0,1,15,16,30,30,28,23,27,20,14,24,2,3
+UBC,2003,W,BIOL,112,,102,BIOL BACT CELL,"Gordon, Joyce",238,68.89,11.72,98,30,229,7,2,0,0,0,0,0,2,5,7,20,28,29,23,25,31,18,37,10,8
+UBC,2003,W,BIOL,112,,104,BIOL BACT CELL,"Gordon, Joyce",210,63.59,11.72,90,25,189,17,3,0,1,0,0,1,4,12,17,31,22,28,28,23,25,13,14,4,1
+UBC,2003,W,BIOL,112,,105,BIOL BACT CELL,"Bingle, Wade;Gordon, Joyce",218,65.93,12.97,99,21,197,15,4,0,2,0,0,2,2,11,15,25,29,25,17,26,28,14,16,11,6
+UBC,2005,W,BIOL,112,,101,BIOL BACT CELL,"Gordon, Joyce",218,67.01,12.84,95,36,190,18,10,0,0,0,0,0,5,13,18,6,35,26,27,17,20,16,22,14,7
+UBC,2005,W,BIOL,112,,105,BIOL BACT CELL,"Gordon, Joyce",220,70.33,13.25,98,32,197,17,6,0,0,0,0,0,4,13,17,7,15,19,23,27,30,15,31,16,14
+UBC,2006,W,BIOL,112,,102,BIOL BACT CELL,"Gordon, Joyce",193,74.99,12.72,96,33,186,6,1,0,0,0,0,0,3,3,6,6,17,7,9,18,27,18,40,21,23
+UBC,2006,W,BIOL,112,,105,BIOL BACT CELL,"Gordon, Joyce",200,69.19,11.36,95,38,186,9,5,0,0,0,0,0,1,8,9,11,20,25,23,23,25,18,23,8,10
+UBC,2007,W,BIOL,112,,102,BIOL BACT CELL,"Gordon, Joyce",277,71.1,13.83,97,35,251,24,1,0,1,0,0,0,1,23,24,10,25,18,22,30,31,39,29,23,24
+UBC,2009,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,1,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,1,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce",26,,,,,0,0,5,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",26,,,,,0,0,5,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce",28,,,,,0,0,9,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",23,,,,,0,0,3,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",29,,,,,0,0,2,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",30,,,,,0,0,5,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",31,,,,,0,0,4,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,1,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",30,,,,,0,0,4,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,2,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,3,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",25,,,,,0,0,3,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,5,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",29,,,,,0,0,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",24,,,,,0,0,2,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",29,,,,,0,0,2,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",24,,,,,0,0,1,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",31,,,,,0,0,4,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",26,,,,,0,0,5,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",18,,,,,0,0,2,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",29,,,,,0,0,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",26,,,,,0,0,4,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",25,,,,,0,0,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,2,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",26,,,,,0,0,3,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00A,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",32,,,,,0,0,5,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00B,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,2,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00C,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00D,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",29,,,,,0,0,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00E,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CSPW,100,,00F,CSP WORKSHOP,"Gordon, Joyce;Thompson, William",28,,,,,0,0,3,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2015,W,CHEM,123,,201,"Thermodynamics, Kinetics and Organic Chemistry",Aagam Patel;Angela Crane;Bryce Laver;Debbie Le;Erin Lindenberg;Guillaume Beaulieu-Houle;Javier Pacheco Calderon;Joyce Gordon;Kayli Johnson;Kevin Kovalchik;Lev Lewis;Lichen Ni;Sarah Spreckelmeyer;Seyed Nasseri;Stephen Zielke;William Thompson,151,80.927152318,15.298409215,100.0,28.0,,,,,,,,,,,10,2,3,2,4,10,10,7,20,25,58
+UBCV,2016,W,CHEM,121,,101,Structure and Bonding in Chemistry,Aagam Patel;Bryce Laver;Debbie Le;Joyce Gordon;Lawrence Mcintosh;Priya Lekhi;Roman Krems;Sarah Spreckelmeyer;Thomas Malig;Truman Hirkala-Schaefer;Valerie Chiykowski;William Thompson,161,74.68322981,12.44308159,95.0,38.0,,,,,,,,,,,9,2,8,8,10,18,22,20,29,14,21
+UBCV,2016,W,CHEM,123,,201,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Joyce Gordon;Kayli Johnson,147,79.3537415,11.5181826,97.0,18.0,,,,,,,,,,,1,1,6,7,5,16,12,14,26,26,33

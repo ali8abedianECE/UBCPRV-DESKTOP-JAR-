@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Harder, Leanne",18,93.89,4.19,99,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14
+UBC,2016,W,SOWK,335,,001,SOC ANL SOWK,"Harder, Leanne;MISKOVIC, TAMARA",44,89.09,4.32,96,76,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,21,18
+UBCV,2014,S,SOWK,440,H,921,Integrative Seminars in Social Work,Leanne Harder,18,93.88888889,4.185252665,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,14
+UBCV,2016,W,SOWK,335,,001,Social Analysis for Social Work Practice,Leanne Harder;Tamara Miskovic,44,89.09090909,4.317720015,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,21,18

@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,EOSC,454,,201,APPL GEOPHYSICS,"Haber, Eldad",6,89.5,1.87,92,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2009,W,MATH,522,,201,NUMERICAL ANLYS,"Haber, Eldad",7,87.29,2.93,91,84,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,,,
+UBC,2010,W,EOSC,454,,201,APPL GEOPHYSICS,"Haber, Eldad",9,85,6.46,93,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,2,,,
+UBC,2010,W,EOSC,555,B,201,NONL INVRSE THRY,"Haber, Eldad",13,86.08,6.57,100,80,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,3,,,
+UBC,2010,W,MATH,253,,101,MULTIVRBL CALC,"Haber, Eldad",136,67.34,15.37,99,8,126,9,0,0,1,1,0,1,4,3,9,15,15,13,14,14,12,10,13,14,6,,,
+UBC,2011,W,MATH,607,D,101,TPCS NUMERIC ANL,"Haber, Eldad",16,84.79,5.94,94,75,14,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,3,3,,,
+UBC,2012,W,EOSC,350,,101,"ENV,GEOTECH I","Haber, Eldad",43,80.8,10.22,99,58,41,0,1,0,0,0,0,0,0,0,0,0,1,2,4,0,1,9,6,13,5,,,
+UBC,2012,W,EOSC,550,,101,LINEAR INV THRY,"Haber, Eldad",7,89.17,5.53,99,84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2012,W,EOSC,555,B,201,NONL INVRSE THRY,"Haber, Eldad",16,87.31,6.18,100,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,10,,,
+UBC,2013,W,EOSC,511,,101,"NUM TEC OC,AT&ER","Haber, Eldad",6,90.33,3.83,94,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2014,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Haber, Eldad",15,76.47,10.2,91,55,15,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,4,5,1,1,,,
+UBC,2014,W,EOSC,550,,201,LINEAR INV THRY,"Haber, Eldad",16,87.94,5.42,90,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,13,,,
+UBC,2014,W,EOSC,555,B,101,NONL INVRSE THRY,"Haber, Eldad",10,85,6.24,90,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,5,,,
+UBC,2015,W,EOSC,454,,201,APPL GEOPHYSICS,"Haber, Eldad",10,85,4.52,93,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,1,,,
+UBC,2015,W,EOSC,555,B,201,NONL INVRSE THRY,"Haber, Eldad",5,87.5,5,90,80,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2016,W,EOSC,213,,201,CMPTNL MTHD GEOL,"Haber, Eldad",53,75.13,16.04,91,4,49,4,0,0,0,1,0,0,1,2,4,0,0,2,3,5,6,8,8,11,6,,,
+UBC,2016,W,EOSC,550,,201,LINEAR INV THRY,"Haber, Eldad",5,91.67,2.89,95,90,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,,,
+UBC,2017,W,EOSC,213,,201,CMPTNL MTHD GEOL,"Haber, Eldad",43,81.93,10.29,93,34,41,1,1,0,0,0,0,0,1,0,1,0,0,0,1,3,3,3,11,9,11,,,
+UBC,2017,W,EOSC,550,,201,LINEAR INV THRY,"Haber, Eldad",20,84.05,15.65,90,20,18,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,11,7,,,
+UBCV,2014,W,EOSC,352,,101,Geophysical Continuum Dynamics,Eldad Haber,15,76.46666667,10.20410748,91.0,55.0,,,,,,,,,,,0,0,,,,,,,5,,,,,
+UBCV,2014,W,EOSC,550,,201,Linear Inverse Theory,Eldad Haber,16,87.9375,5.421792447,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,,13,,,
+UBCV,2014,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,9,86.11111111,5.464532104,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,5,,,
+UBCV,2015,W,EOSC,454,,201,Applied Geophysics,Eldad Haber;Patrick Belliveau,10,85.0,4.521553322,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2016,W,EOSC,213,,201,Computational Methods in Geological Engineering,Colin Rowell;Eldad Haber;Patrick Belliveau,53,75.13207547,16.04205739,91.0,4.0,,,,,,,,,,,4,0,0,2,3,5,6,8,8,11,6,,,
+UBCV,2017,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber;Patrick Belliveau,42,81.928571429,10.287081307,93.0,34.0,,,,,,,,,,,1,0,0,0,1,3,3,3,11,9,11,,,
+UBCV,2017,W,EOSC,550,,201,Linear Inverse Theory,Eldad Haber,17,87.764705882,2.077540967,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,7,,,
+UBCV,2019,W,EOSC,211,,101,"Computer Methods in Earth, Ocean and Atmospheric Sciences",Catherine Johnson;Eldad Haber;Jingrong Lin;Johanand Gilchrist;Keegan Lensink;Richard Pawlowicz;Samuel Stevens;Samuel William Stevens,91,83.285714286,11.045648429,99.0,34.0,,,,,,,,,,,4,0,0,0,2,1,3,13,21,26,21,,,
+UBCV,2019,W,EOSC,213,,201,Computational Methods in Geological Engineering,Brian Irwin;Eldad Haber;Keegan Lensink;Philip Austin,28,81.5,7.786503042,92.0,55.0,,,,,,,,,,,0,0,1,0,1,1,1,3,8,12,1,,,
+UBCV,2019,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,9,94.888888889,1.269295518,96.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2020,W,ATSC,301,,101,Atmospheric Radiation and Remote Sensing,Eldad Haber;Gunho Oh;Peter Jackson;Philip Austin,12,86.166666667,7.589865651,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,2,6,,,
+UBCV,2020,W,EOSC,211,,101,"Computer Methods in Earth, Ocean and Atmospheric Sciences",Catherine Johnson;Eldad Haber;Georgia Peterson;Gunho Oh;Philip Austin;Richard Pawlowicz;Samuel Stevens;Tara Howatt,95,80.052631579,12.447650741,98.0,24.0,,,,,,,,,,,4,1,0,0,3,7,8,15,20,18,19,,,
+UBCV,2020,W,EOSC,213,,201,Computational Methods in Geological Engineering,Brian Irwin;Eldad Haber;Philip Austin,29,85.172413793,11.507975388,100.0,55.0,,,,,,,,,,,0,0,1,0,1,1,4,2,2,8,10,,,
+UBCV,2020,W,EOSC,250,,201,Fields and Fluxes,Eldad Haber,7,97.142857143,2.340126167,99.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,W,EOSC,213,,201,Computational Methods in Geological Engineering,Brian Irwin;Eldad Haber,21,77.285714286,18.089065363,99.0,36.0,,,,,,,,,,,2,1,1,1,1,0,2,1,4,1,7,,,
+UBCV,2021,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof;Eldad Haber;Sean Wanket,8,80.25,11.510864433,95.0,63.0,,,,,,,,,,,0,0,0,1,0,0,3,0,1,1,2,,,
+UBCV,2021,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,8,90.875,2.748376144,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,,,
+UBCV,2021,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber,21,77.3,,99.0,36.0,,,,,,,,,,,,,,,,,,,,,7,82.0,91.0,65.0
+UBCV,2021,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,8,90.9,,95.0,87.0,,,,,,,,,,,,,,,,,,,,,7,90.0,91.3,90.0
+UBCV,2022,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber,27,65.4,,99.0,0.0,,,,,,,,,,,2,4,3,3,3,2,4,0,0,2,4,66.0,75.0,55.0
+UBCV,2022,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,16,89.9,,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,8,89.0,92.5,87.0
+UBCV,2023,W,DSCI,100,,007,Introduction to Data Science,Eldad Haber;Lindsey Heagy;Yitong Liu,163,76.1,,98.0,0.0,,,,,,,,,,,5,3,3,6,11,19,15,25,25,26,18,78.0,85.0,69.0
+UBCV,2023,W,DSCI,100,,100,Introduction to Data Science,Eldad Haber;Lindsey Heagy,67,81.4,,98.0,8.0,,,,,,,,,,,3,0,0,1,4,6,2,4,8,14,23,88.0,91.0,76.0
+UBCV,2023,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Brett Gilley;Eldad Haber;Laura Lukes;Maria Maldonado-Pareja;Lucy Porritt;Rachel White,151,76.8,,94.0,20.0,,,,,,,,,,,3,2,2,4,16,13,16,21,28,25,20,78.0,85.0,70.0
+UBCV,2023,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Brett Gilley;Eldad Haber;Laura Lukes;Maria Maldonado-Pareja;Lucy Porritt;Rachel White,189,76.6,,95.0,15.0,,,,,,,,,,,4,2,5,5,10,15,27,33,36,25,24,77.5,85.0,72.0
+UBCV,2023,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber,30,88.5,,99.0,31.0,,,,,,,,,,,1,1,0,0,0,0,2,0,3,1,21,94.0,98.0,87.0
+UBCV,2023,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,10,94.4,,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,94.0,96.0,94.0

@@ -1,0 +1,75 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MECH,270,,101,THERMODYN - ENGY,"Bushe, William Kendal",80,65.49,14.43,94,19,68,11,0,0,1,0,1,0,2,8,11,4,8,7,9,13,8,8,5,4,2,,,
+UBC,2002,W,MECH,479,,201,Exp Comp Thermo,"Bushe, William Kendal",15,80.47,6.23,90,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3,4,1,,,
+UBC,2002,W,MECH,576,,201,COMBUSTION,"Bushe, William Kendal",6,81,9.86,95,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,1,,,
+UBC,2002,W,MECH,579,,201,ADV THERMOFLUIDS,"Bushe, William Kendal",4,75.5,17.08,86,50,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,,,
+UBC,2003,W,MECH,270,,201,THERMODYN - ENGY,"Bushe, William Kendal",124,65.92,17.79,99,20,96,26,1,0,1,0,0,4,7,15,26,3,12,10,9,8,9,10,18,11,6,,,
+UBC,2003,W,MECH,479,,201,Exp Comp Thermo,"Bushe, William Kendal",12,80.33,8.4,93,62,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,4,1,2,,,
+UBC,2003,W,MECH,579,,201,ADV THERMOFLUIDS,"Bushe, William Kendal",10,82,4,89,78,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,0,,,
+UBC,2003,W,MECH,586,,101,TURB SHEAR FLOW,"Bushe, William Kendal",8,83.75,8.51,93,71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,2,,,
+UBC,2006,W,MECH,479,,201,COMP FLUID DYN,"Bushe, William Kendal",11,73.91,10.44,91,49,10,1,0,0,0,0,0,0,0,1,1,0,0,0,0,3,4,0,2,0,1,,,
+UBC,2006,W,MECH,576,,201,COMBUSTION,"Bushe, William Kendal",6,74.33,8.07,87,64,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,1,0,,,
+UBC,2006,W,MECH,586,,101,TURB SHEAR FLOW,"Bushe, William Kendal",5,75.5,6.45,83,68,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,,,
+UBC,2006,W,MECH,598,,002,RESEARCH SEMINAR,"Bushe, William Kendal",34,87,0,87,87,1,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,
+UBC,2006,W,MECH,598,,003,RESEARCH SEMINAR,"Bushe, William Kendal",11,87.43,3.64,91,81,7,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,,,
+UBC,2007,W,MECH,479,,201,COMP FLUID DYN,"Bushe, William Kendal",21,77.37,9.27,96,63,19,0,1,1,0,0,0,0,0,0,0,0,0,1,2,2,2,4,5,1,2,,,
+UBC,2009,W,MECH,375,,101,HEAT TRANSFER I,"Bushe, William Kendal",86,64.08,17.49,100,28,64,19,3,0,0,0,0,2,4,13,19,4,7,7,8,15,3,3,5,3,9,,,
+UBC,2009,W,MECH,479,,101,COMP FLUID DYN,"Bushe, William Kendal",19,74.58,8.37,92,62,19,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4,3,5,0,1,,,
+UBC,2009,W,MECH,550,T,101,SPEC ADV COURSES,"Bushe, William Kendal",6,77,9.42,88,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,1,0,,,
+UBC,2010,W,MECH,327,,101,THERM SYS DESIGN,"Bushe, William Kendal",78,66.84,15.18,94,31,63,11,0,0,4,0,0,0,4,7,11,2,10,3,14,5,7,4,8,6,4,,,
+UBC,2010,W,MECH,479,,101,COMP FLUID DYN,"Bushe, William Kendal",22,77.05,12.15,92,44,21,1,0,0,0,0,0,0,0,1,1,0,2,0,1,0,3,4,5,3,3,,,
+UBC,2010,W,MECH,550,T,101,SPEC ADV COURSES,"Bushe, William Kendal",4,85.25,3.4,90,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2010,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",5,87,5.35,94,81,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,,,
+UBC,2011,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",8,86.71,9.88,97,71,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,3,,,
+UBC,2012,W,MECH,222,,201,ENGIN SCIENCE II,"Bushe, William Kendal;Evans, Robert;Ollivier-Gooch, Carl",131,69.32,12.71,100,35,117,14,0,0,0,0,0,0,2,12,14,1,6,11,19,23,22,11,9,5,10,,,
+UBC,2012,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",5,88.75,4.19,93,83,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBC,2013,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",6,85,5.76,93,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,,,
+UBC,2014,W,MECH,375,,101,HEAT TRANSFER I,"Bushe, William Kendal",82,60.09,17.57,100,14,60,22,0,0,0,0,2,2,7,11,22,5,8,7,10,9,7,1,8,3,2,,,
+UBC,2014,W,MECH,375,,201,HEAT TRANSFER I,"Bushe, William Kendal",128,75.91,15.46,100,20,114,12,0,0,2,0,0,1,3,8,12,0,5,3,6,5,18,20,21,13,23,,,
+UBC,2014,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",5,84.8,7.05,90,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,,,
+UBC,2015,W,MECH,470,,201,NRGY CONV SYSTMS,"Bushe, William Kendal",15,83.87,8.98,96,62,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,7,3,,,
+UBC,2015,W,MECH,479,,101,COMP FLUID DYN,"Bushe, William Kendal",17,86.13,6.91,98,74,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,5,,,
+UBC,2015,W,MECH,576,,201,COMBUSTION,"Bushe, William Kendal",6,84,6.24,89,77,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,,,
+UBC,2016,W,MECH,470,,201,NRGY CONV SYSTMS,"Bushe, William Kendal",15,83.53,7.82,99,66,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,5,3,,,
+UBC,2016,W,MECH,479,,101,COMP FLUID DYN,"Bushe, William Kendal",24,83.83,8.06,100,73,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,4,6,,,
+UBC,2016,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",10,88.38,3.66,94,83,8,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,,,
+UBC,2017,W,MECH,470,,201,NRGY CONV SYSTMS,"Bushe, William Kendal",25,80,9.09,94,65,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,2,4,5,4,,,
+UBC,2017,W,MECH,479,,101,COMP FLUID DYN,"Bushe, William Kendal",34,82.75,11,96,58,32,0,2,0,0,0,0,0,0,0,0,0,1,3,0,1,1,6,3,4,13,,,
+UBC,2018,W,MECH,586,,201,TURB SHEAR FLOW,"Bushe, William Kendal",4,91,7.66,97,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBCV,2014,W,MECH,375,,101,Heat Transfer I,William Kendal Bushe,82,60.08536585,17.56694512,100.0,14.0,,,,,,,,,,,22,5,8,7,10,9,7,1,8,3,2,,,
+UBCV,2014,W,MECH,375,,201,Heat Transfer I,William Kendal Bushe,128,75.390625,15.88949753,100.0,20.0,,,,,,,,,,,14,0,5,3,6,5,18,20,21,13,23,,,
+UBCV,2014,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,5,84.8,7.049822693,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,15,83.866666667,8.983052827,96.0,62.0,,,,,,,,,,,0,0,0,,,,,,,7,,,,
+UBCV,2015,W,MECH,479,,101,Computational Fluid Dynamics,Alireza Jalali;William Kendal Bushe,17,81.882352941,18.727928185,98.0,14.0,,,,,,,,,,,,,,,,,,,5,,5,,,
+UBCV,2016,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,15,83.53333333,7.818171751,99.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,1,4,5,3,,,
+UBCV,2016,W,MECH,479,,101,Computational Fluid Dynamics,Alireza Jalali;William Kendal Bushe,23,83.82608696,8.060296486,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,5,5,4,6,,,
+UBCV,2016,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,8,88.375,3.662064211,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,3,,,
+UBCV,2017,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,25,80.0,9.087537253,94.0,65.0,,,,,,,,,,,0,0,0,0,2,3,5,2,4,5,4,,,
+UBCV,2017,W,MECH,479,,101,Computational Fluid Dynamics,Arash Nikzad;William Kendal Bushe,32,82.75,11.001466178,96.0,58.0,,,,,,,,,,,0,0,1,3,0,1,1,6,3,4,13,,,
+UBCV,2018,W,MECH,470,,201,Energy Conversion Systems,Siamak Najarian;William Kendal Bushe,35,82.942857143,7.02073759,96.0,65.0,,,,,,,,,,,0,0,0,0,1,0,5,2,11,11,5,,,
+UBCV,2019,W,MECH,375,,201,Heat Transfer,Ali Cherom Kheirabadi;Seyed Arman Abtahi;William Kendal Bushe,105,77.657142857,12.648220133,100.0,42.0,,,,,,,,,,,2,3,1,7,8,13,10,15,12,14,20,,,
+UBCV,2019,W,MECH,470,,101,Energy Conversion Systems,William Kendal Bushe,23,85.869565217,7.521510655,100.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,3,3,7,8,,,
+UBCV,2019,W,MECH,576,,201,Combustion,William Kendal Bushe,8,87.375,10.363914043,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,1,1,5,,,
+UBCV,2020,W,MECH,375,,201,Heat Transfer,Arash Mousemi;Clement Avonde;William Kendal Bushe,59,79.440677966,12.712024156,99.0,50.0,,,,,,,,,,,0,4,1,4,3,3,3,8,8,10,15,,,
+UBCV,2020,W,MECH,470,,201,Energy Conversion Systems,Gwynn Elfring;Omid Hajieghrary;Siamak Najarian;William Kendal Bushe,29,79.517241379,7.419186948,92.0,63.0,,,,,,,,,,,0,0,0,1,0,3,6,4,6,5,4,,,
+UBCV,2020,W,MECH,477,,101,Aerospace Propulsion,Arash Mousemi;William Kendal Bushe,10,83.1,14.798273173,97.0,52.0,,,,,,,,,,,0,1,0,1,0,0,0,0,1,3,4,,,
+UBCV,2020,W,MECH,493,,001,Introduction to Academic Research,Carl Ollivier-Gooch;William Kendal Bushe,6,88.333333333,1.505545305,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1,,,
+UBCV,2020,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,9,90.666666667,4.74341649,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,5,,,
+UBCV,2021,S,MECH,597,,097,Project for M.Eng. Studies,William Kendal Bushe,10,86.0,6.71648056,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,3,3,,,
+UBCV,2021,W,MECH,375,,201,Heat Transfer,Arash Mousemi;Clement Avonde;William Kendal Bushe,82,76.817073171,16.789273507,100.0,20.0,,,,,,,,,,,6,0,3,5,5,5,3,11,15,9,20,,,
+UBCV,2021,W,MECH,410,L,201,Special Topics in Mechanical Engineering,Mohammad Javad Asgari Pirbalouti;William Kendal Bushe,7,85.714285714,12.257165057,91.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,0,0,2,4,,,
+UBCV,2021,W,MECH,477,,101,Aerospace Propulsion,Arash Mousemi;William Kendal Bushe,14,77.785714286,19.051261099,92.0,18.0,,,,,,,,,,,1,0,0,0,1,2,0,0,3,5,2,,,
+UBCV,2021,W,MECH,493,,001,Introduction to Academic Research,William Kendal Bushe,7,89.0,4.760952286,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,,,
+UBCO,2023,W,ENGR,477,,001,Aircraft Propulsion,William Kendal Bushe;Sepehr Mosadegh,13,78.7,,88.0,50.0,,,,,,,,,,,0,1,0,0,1,1,0,2,3,5,0,83.0,86.0,76.0
+UBCV,2021,S,MECH,597,,097,Project for M.Eng. Studies,William Kendal Bushe,10,86.0,,95.0,78.0,,,,,,,,,,,,,,,,,,,,,,87.0,92.0,79.0
+UBCV,2021,W,MECH,375,,201,Heat Transfer,William Kendal Bushe,81,78.6,,100.0,32.0,,,,,,,,,,,,,,,6,,,11,15,9,21,80.0,90.0,70.0
+UBCV,2021,W,MECH,410,L,201,Special Topics in Mechanical Engineering,William Kendal Bushe,7,85.7,,91.0,58.0,,,,,,,,,,,,,,,,,,,,,,91.0,91.0,89.0
+UBCV,2021,W,MECH,477,,101,Aerospace Propulsion,William Kendal Bushe,14,77.8,,92.0,18.0,,,,,,,,,,,,,,,,,,,,,,84.5,88.0,72.8
+UBCV,2021,W,MECH,493,,001,Introduction to Academic Research,William Kendal Bushe,7,89.0,,94.0,81.0,,,,,,,,,,,,,,,,,,,,,,91.0,92.5,86.0
+UBCV,2022,S,MECH,597,,971,Project for M.Eng. Studies,William Kendal Bushe,6,89.0,,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,2,87.5,91.0,87.0
+UBCV,2022,W,MECH,375,,201,Heat Transfer,William Kendal Bushe,99,69.8,,100.0,0.0,,,,,,,,,,,14,4,0,8,8,7,12,15,12,11,8,75.0,81.0,63.0
+UBCV,2022,W,MECH,477,,101,Aerospace Propulsion,William Kendal Bushe,9,80.8,,91.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,0,4,2,1,84.0,86.0,80.0
+UBCV,2022,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,7,88.3,,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2,3,89.0,93.0,84.5
+UBCV,2023,S,MECH,597,,971,Project for M.Eng. Studies,William Kendal Bushe,12,87.56,,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,2,87.0,88.0,86.0
+UBCV,2023,W,MECH,375,,201,Heat Transfer,William Kendal Bushe,110,74.28,,100.0,20.0,,,,,,,,,,,13,2,2,7,4,5,12,16,16,12,20,79.0,86.0,66.0
+UBCV,2023,W,MECH,477,,101,Aerospace Propulsion,William Kendal Bushe,21,78.29,,100.0,55.0,,,,,,,,,,,0,0,2,0,3,1,2,3,3,4,3,78.0,85.0,68.0

@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,GEOB,102,,201,CHANGING ENVR,"Chappells, Heather;Donner, Simon",269,68.31,15.19,100,0,238,21,9,1,0,2,1,2,6,10,21,11,24,26,27,33,25,27,24,25,16,,,
+UBC,2015,W,GEOB,102,,L2B,CHANGING ENVR,"Chappells, Heather;Donner, Simon",4,,,,,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,GEOG,412,,101,WATER MGMT,"Chappells, Heather",25,81.88,7.81,92,62,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,4,5,5,6,,,
+UBC,2016,S,GEOB,103,,921,CHNG ENV: WT&LND,"Chappells, Heather",73,72.45,15.24,95,0,68,3,2,0,0,1,1,1,0,0,3,0,1,2,14,5,12,15,6,6,7,,,
+UBC,2016,W,GEOB,103,,201,CHNG ENV: WT&LND,"Chappells, Heather;Koppes, Michele",268,66.81,15.28,99,0,239,23,6,0,0,2,4,1,5,11,23,17,22,28,31,35,27,29,25,14,11,,,
+UBC,2017,S,GEOB,103,,921,CHNG ENV: WT&LND,"Chappells, Heather",114,69.4,15.31,98,0,101,6,7,0,0,1,1,0,1,3,6,7,5,13,12,10,17,9,10,10,8,,,
+UBC,2017,W,GEOG,412,,101,WATER MGMT,"Chappells, Heather",31,78.6,9.42,95,55,30,0,1,0,0,0,0,0,0,0,0,0,1,1,1,2,4,7,7,2,5,,,
+UBC,2018,S,GEOB,103,,921,CHNG ENV: WT&LND,"Chappells, Heather",99,70.92,14.34,90,0,88,5,4,0,0,1,0,0,2,2,5,2,5,9,10,13,9,10,10,14,6,,,
+UBC,2018,W,GEOB,103,,201,CHNG ENV: WT&LND,"Chappells, Heather",203,73.58,15.55,98,0,191,11,1,0,0,1,1,1,5,3,11,9,7,12,18,10,22,32,31,26,24,,,
+UBCV,2015,W,GEOB,102,,201,Our Changing Environment: Climate and Ecosystems,Cameron Hunter;Heather Chappells;Katriina O'Kane;Simon Donner;Sung-Ching Lee,259,68.312741313,15.191244412,100.0,0.0,,,,,,,,,,,21,11,24,26,27,33,25,27,24,25,16,,,
+UBCV,2015,W,GEOG,412,,101,"Water Management: Theory, Policy, and Practice.",Heather Chappells,24,81.458333333,7.683857538,92.0,62.0,,,,,,,,,,,0,0,0,,,,,,5,5,5,,,
+UBCV,2016,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,Heather Chappells,71,72.45070423,15.23509926,95.0,0.0,,,,,,,,,,,3,0,1,2,14,5,12,15,6,6,7,,,
+UBCV,2016,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,Heather Chappells;Michele Koppes,262,66.80916031,15.28408608,99.0,0.0,,,,,,,,,,,23,17,22,28,31,35,27,29,25,14,11,,,
+UBCV,2017,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,Heather Chappells;Kathryn De Rego,107,69.401869159,15.308069036,98.0,0.0,,,,,,,,,,,6,7,5,13,12,10,17,9,10,10,8,,,
+UBCV,2017,W,GEOG,412,,101,"Water Management: Theory, Policy, and Practice.",Heather Chappells;Karen Jessica Bakker,30,78.6,9.423375192,95.0,55.0,,,,,,,,,,,0,0,1,1,1,2,4,7,7,2,5,,,
+UBCV,2018,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,Heather Chappells,95,70.821052632,14.208911608,90.0,0.0,,,,,,,,,,,5,2,5,9,11,14,9,10,10,14,6,,,
+UBCV,2018,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,Andras Szeitz;Conor Mcdowell;Heather Chappells;Michael Turley;Yinlue Wang,202,73.579207921,15.553987615,98.0,0.0,,,,,,,,,,,11,9,7,12,18,10,22,32,31,26,24,,,
+UBCV,2018,W,GEOG,327,,101,Creating Canada,Heather Chappells;Kathryn Mckay;Michael Simpson,78,73.269230769,10.839649533,92.0,40.0,,,,,,,,,,,1,3,6,4,8,7,9,16,14,5,5,,,
+UBCV,2019,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,Heather Chappells;James Pierce,120,70.058333333,14.070229513,95.0,25.0,,,,,,,,,,,7,7,5,18,10,22,6,5,16,13,11,,,
+UBCV,2019,W,GEOG,318,,201,Sustainability in a Changing Environment,Andrew Schuldt;Heather Chappells;Loch Brown,50,75.44,14.026447322,90.0,10.0,,,,,,,,,,,2,0,2,1,3,3,7,9,4,17,2,,,
+UBCV,2020,S,GEOB,103,,1WB,Our Changing Environment: Water and Landscapes,Heather Chappells;James Pierce;Sara Cannon,177,72.615819209,17.084661466,99.0,0.0,,,,,,,,,,,12,5,10,8,15,12,18,20,30,26,21,,,
+UBCV,2020,W,GEOG,318,,201,Sustainability in a Changing Environment,Caroline Ponder;Cora Sachs;Heather Chappells,32,77.15625,10.592478692,93.0,51.0,,,,,,,,,,,0,1,2,0,2,2,5,6,4,5,5,,,
+UBCV,2021,W,GEOG,318,,201,Sustainability in a Changing Environment,Emily Grishaber;Heather Chappells,50,74.86,16.251857037,93.0,17.0,,,,,,,,,,,4,1,1,1,0,3,8,8,8,12,4,,,
+UBCV,2021,W,GEOG,318,,201,Sustainability in a Changing Environment,Heather Chappells,50,75.3,,93.0,17.0,,,,,,,,,,,,,,,,,8,8,8,12,,78.0,85.0,72.3
+UBCV,2022,W,GEOG,412,,201,"Water Management: Theory, Policy, and Practice.",Heather Chappells,31,78.3,,90.0,55.0,,,,,,,,,,,0,0,1,1,1,1,4,10,2,8,3,78.0,85.0,74.5
+UBCV,2023,W,GEOG,412,,201,"Water Management: Theory, Policy, and Practice.",Heather Chappells,30,74.8,,88.0,24.0,,,,,,,,,,,1,1,0,0,1,3,4,10,4,6,0,76.5,80.8,72.3

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",34,82.85,4.79,93,74,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,12,8,4
+UBC,2013,W,BAEN,510,,001,INTRAPRENEURSHIP,"Simonite, James",32,83.38,2.21,88,80,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,11,0
+UBC,2013,W,COMM,466,,001,NEW VENTURE DES,"Cubbon, Paul;Simonite, James",18,81.33,4.54,86,65,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,13,3,0
+UBC,2014,W,APSC,486,,001,NEW VEN DESIGN,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",21,80.29,3.87,86,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,9,3,0
+UBC,2014,W,APSC,496,D,001,INTER ENG PRJECT,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",6,86,2.76,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2014,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",48,83.71,2.6,90,79,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,31,14,1
+UBC,2014,W,BAEN,510,,001,INTRAPRENEURSHIP,"Simonite, James",36,82.42,9.56,92,30,35,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,19,11,3
+UBC,2014,W,BAEN,590,A,001,DIR ST ENTREPR'P,"Simonite, James",4,81.25,2.5,85,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+UBC,2014,W,COMM,466,,001,NEW VENTURE DES,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",29,82.34,3.68,91,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,13,9,1
+UBC,2015,W,APSC,486,,001,NEW VEN DESIGN,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",32,82.66,3.14,90,77,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,21,5,1
+UBC,2015,W,APSC,496,D,001,INTER ENG PRJECT,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",13,83,1.65,85,80,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0
+UBC,2015,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",46,83.59,2.49,91,79,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,33,10,2
+UBC,2015,W,BAEN,510,,001,INTRAPRENEURSHIP,"Simonite, James",18,85.5,3.67,94,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,3
+UBC,2015,W,COMM,466,,001,NEW VENTURE DES,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",44,82.6,3.28,89,69,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,32,6,0
+UBC,2016,W,APSC,486,,001,NEW VEN DESIGN,"Etmannski, Tamara;Miller, David;Simonite, James",17,83.5,4.76,88,70,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,9,0
+UBC,2016,W,APSC,496,D,001,INTER ENG PRJECT,"Etmannski, Tamara;Miller, David;Simonite, James",6,82.83,1.33,85,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0
+UBC,2016,W,APSC,496,E,001,INTER ENG PRJECT,"Etmannski, Tamara;Miller, David;Simonite, James",8,84.75,3.41,88,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0
+UBC,2016,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",41,83.17,2.71,90,79,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,27,12,1
+UBC,2016,W,BAEN,510,,001,INTRAPRENEURSHIP,"Simonite, James",41,84.68,3.76,94,78,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,22,11,6
+UBC,2016,W,COMM,466,,001,NEW VENTURE DES,"Etmannski, Tamara;Miller, David;Simonite, James",23,84.05,2.57,88,78,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,10,0
+UBC,2017,W,APSC,486,,001,NEW VEN DESIGN,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",18,85.06,2.94,91,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,3
+UBC,2017,W,APSC,496,D,001,INTER ENG PRJECT,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",5,85.6,0.89,87,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2017,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",29,83.66,3.04,88,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,13,0
+UBC,2017,W,BAEN,510,,001,INTRAPRENEURSHIP,"Simonite, James",37,85.49,3.63,94,80,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,13,5
+UBC,2017,W,COMM,466,,001,NEW VENTURE DES,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",12,84.58,2.47,90,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1
+UBC,2018,W,APSC,486,,002,NEW VEN DESIGN,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",14,83.57,2.9,88,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0
+UBC,2018,W,APSC,496,D,002,INTER ENG PRJECT,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",7,87.14,3.13,90,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3
+UBC,2018,W,APSC,496,E,002,INTER ENG PRJECT,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",7,83.86,2.41,88,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0
+UBC,2018,W,BAEN,502,,001,GRW&EXIT VENTURE,"Simonite, James",27,85.56,3.68,92,79,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,11,4
+UBC,2018,W,BAEN,510,,817,INTRAPRENEURSHIP,"Simonite, James",21,84.19,3.64,94,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,9,1
+UBC,2018,W,COMM,466,,002,NEW VENTURE DES,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",20,84.65,2.68,90,81,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,1

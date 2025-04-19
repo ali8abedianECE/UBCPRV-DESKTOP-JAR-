@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",4,84.5,1.91,86,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2003,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",16,83.56,5.53,94,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,4,2
+UBC,2003,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",6,85.5,1.87,87,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0
+UBC,2005,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",18,83.44,7.59,93,58,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,8,6,2
+UBC,2005,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",6,87.33,2.42,89,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0
+UBC,2006,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",13,84.38,6.13,94,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,5,2
+UBC,2006,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",9,89.44,2.83,92,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2007,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",16,83.73,4.11,91,76,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,4,2
+UBC,2007,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",5,87.6,6.23,94,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3
+UBC,2009,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",15,84.53,5.68,96,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,2
+UBC,2009,W,MICB,507,,201,TP MOL PTH & IMM,"Hancock, Robert E",11,88.73,3.1,93,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4
+UBC,2010,W,MICB,404,,201,Top Mol Bac Path,"Hancock, Robert E",21,84.43,6.52,94,70,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,7,4
+UBC,2012,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",18,84.5,6.49,97,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,6,3
+UBC,2013,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",13,86.17,3.27,90,81,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,4
+UBC,2014,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",17,87.65,4.26,96,80,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,7
+UBC,2015,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",17,86.19,4.02,93,76,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,4
+UBC,2016,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",16,88.94,3.96,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,6
+UBC,2016,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Haney, Cara;Murphy, Michael",9,90,2.78,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7
+UBC,2017,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",18,89.11,4.65,95,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,10
+UBC,2017,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,90,3.16,97,83,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11
+UBC,2018,W,MICB,404,,201,TOP MOL BAC PATH,"Hancock, Robert E",17,88.29,3.33,95,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,7
+UBC,2018,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,92.12,1.45,94,88,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16

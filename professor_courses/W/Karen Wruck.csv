@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,AUDI,402,,98A,N-ANAT A&SL PATH,"Wruck, Karen",59,73.11,14.43,94,33,48,6,5,0,0,0,0,0,2,4,6,2,2,2,0,3,9,10,9,7,4,,,
+UBC,2018,S,AUDI,402,,98A,N-ANAT A&SL PATH,"Wruck, Karen",58,66.39,19.08,92,11,47,7,4,0,0,0,3,0,0,4,7,6,2,8,4,2,4,5,6,7,3,,,
+UBCV,2017,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Clinton Yin Hang Tsang;Karen Wruck;Rachel Richards,54,73.111111111,14.43353886,94.0,33.0,,,,,,,,,,,6,2,2,2,0,3,9,10,9,7,4,,,
+UBCV,2018,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,54,66.388888889,19.07721813,92.0,11.0,,,,,,,,,,,7,6,2,8,4,2,4,5,6,7,3,,,
+UBCV,2019,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,46,69.869565217,16.13362079,97.0,32.0,,,,,,,,,,,6,3,3,4,1,5,2,9,5,4,4,,,
+UBCV,2019,W,AUDI,402,,99C,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,50,68.9,18.694373267,95.0,8.0,,,,,,,,,,,5,4,6,4,5,3,2,2,6,7,6,,,
+UBCV,2020,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,64,73.625,15.670718828,95.0,21.0,,,,,,,,,,,3,3,2,10,5,4,9,1,8,7,12,,,
+UBCV,2020,W,AUDI,402,,99C,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,46,80.565217391,11.058736464,97.0,46.0,,,,,,,,,,,1,1,0,1,2,2,8,2,10,9,10,,,
+UBCV,2021,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,59,77.084745763,15.121676763,98.0,9.0,,,,,,,,,,,2,1,1,4,4,4,7,7,8,9,12,,,
+UBCV,2021,W,AUDI,402,,99C,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,57,74.385964912,11.828769991,95.0,49.0,,,,,,,,,,,1,3,2,2,8,9,7,1,9,10,5,,,
+UBCV,2021,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,59,77.1,,98.0,9.0,,,,,,,,,,,,,,,,,7,7,8,9,12,79.0,86.5,70.0
+UBCV,2021,W,AUDI,402,,99C,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,58,74.5,,95.0,49.0,,,,,,,,,,,,,,,8,9,7,,10,10,,74.0,84.8,67.0
+UBCV,2022,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,46,76.7,,96.0,46.0,,,,,,,,,,,1,0,0,7,2,5,4,8,5,7,7,77.0,86.8,68.8
+UBCV,2023,S,AUDI,402,,98A,Neuroanatomy for Audiology and Speech-Language Pathology,Karen Wruck,50,77.26,,94.0,54.0,,,,,,,,,,,0,1,1,0,1,7,7,13,8,4,4,77.0,82.75,72.25

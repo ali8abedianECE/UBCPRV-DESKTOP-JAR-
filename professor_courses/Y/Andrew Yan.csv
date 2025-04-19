@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,PLAN,548,V,001,CURRENT ISSUES,"Hutton, Thomas;Yan, Andrew",16,89.25,1.44,92,88,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8
+UBC,2013,W,PLAN,548,V,001,CURRENT ISSUES,"Hutton, Thomas;Yan, Andrew",18,88.06,0.87,89,86,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+UBCV,2020,W,BMEG,357,,201,Biomedical  Engineering Design II,Andrew Yan;Jeanie Malone;Jenna Usprech;Jessica Hua;Loay Al-Salehi;Matthew Hickey;Rashmi Prakash,84,87.428571429,5.976431047,97.0,58.0,,,,,,,,,,,0,0,1,0,1,0,2,1,8,42,29
+UBCV,2020,W,ELEC,341,,101,Systems and Control,Andrew Yan;Leo Stocco;Mohammad Najjarzadegan;Sara Hosseinirad,58,69.551724138,14.824319059,99.0,39.0,,,,,,,,,,,4,4,7,6,4,6,5,6,5,5,6
+UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.264957265,11.820783248,100.0,43.0,,,,,,,,,,,1,2,7,8,8,7,14,15,18,19,18

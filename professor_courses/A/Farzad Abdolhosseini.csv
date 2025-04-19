@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,317,,101,Internet Computing,Alan Wagner;Andrea Gottardo;Bingyao Wang;Fabian Nikolaus Trutz Ruffy Varga;Farzad Abdolhosseini;Jonatan Schroeder;Matheus Ulhoa Avelar Stolet;Muhammad Shayan,159,75.257861635,12.834986716,95.0,13.0,7,2,4,9,16,12,21,15,31,19,23
+UBCV,2018,W,CPSC,340,,201,Machine Learning and Data Mining,Cathy Meng;Farzad Abdolhosseini;Frank Donald Wood;Frank Wood;Jonathan Wilder Lavington;Marjan Albooyeh;Nam Hee Kim;Si Yi Meng,171,79.187134503,13.087041569,100.0,30.0,5,2,5,9,8,13,12,20,26,32,39
+UBCV,2019,W,CPSC,312,,101,Functional and Logic Programming,Alyssa Zhao;David Poole;Farzad Abdolhosseini;Jason Shau-Yin Chau;Rui Ge;Thitaree Tanprasert,124,78.217741935,10.401344882,99.0,50.0,0,2,2,10,8,10,15,11,27,23,16

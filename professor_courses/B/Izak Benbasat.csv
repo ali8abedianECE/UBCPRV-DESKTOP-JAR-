@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,COMM,634,,001,EMP RES METH,"Benbasat, Izak",10,82.3,4.32,86,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4,0
+UBC,2003,W,COMM,635,,001,TOP MNT INFO SYS,"Benbasat, Izak;Woo, Carson C",9,85.33,2.55,88,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0
+UBC,2006,W,COMM,634,,001,EMP RES METH,"Benbasat, Izak",8,85.5,3.02,88,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0
+UBC,2007,W,COMM,634,,001,EMP RES METH,"Benbasat, Izak",4,87,1.83,89,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2010,W,COMM,391,,202,MNGMNT INFO SYS,"Benbasat, Izak;Bulgurcu, Burcu;Grange, Camille",84,75.36,7.02,87,37,83,1,0,0,0,0,0,0,1,0,1,1,0,2,2,7,28,14,27,2,0
+UBC,2010,W,COMM,391,,203,MNGMNT INFO SYS,"Benbasat, Izak;Bulgurcu, Burcu;Grange, Camille",87,77.26,5.45,87,60,86,0,1,0,0,0,0,0,0,0,0,0,0,2,4,5,17,20,33,5,0
+UBC,2010,W,COMM,634,,001,EMP RES METH,"Benbasat, Izak",9,83.22,5.93,95,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,1
+UBC,2011,W,BAIT,580,A,001,TPCS INFO TECH,"Benbasat, Izak",5,91.25,4.79,95,85,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2012,W,COMM,634,,001,EMP RES METH,"Benbasat, Izak",5,83.25,7.41,93,75,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1
+UBC,2013,W,BAIT,580,B,001,TPCS INFO TECH,"Benbasat, Izak",5,85.4,3.65,90,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1

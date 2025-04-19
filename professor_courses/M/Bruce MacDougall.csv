@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,LAW,459,,001,Business Organizations,Bruce Macdougall;Bruce Wayne Macdougall,25,72.04,8.324061509,87.0,50.0,0,,,,5,5,,8,,,0
+UBCV,2015,S,LAW,515,,001,Canadian Private Law: Contractual Obligations and Remedies,Bruce Macdougall;Bruce Wayne Macdougall,7,60.0,28.94247168,80.0,0.0,,,,,,,,,,0,0
+UBCV,2015,W,LAW,211,,003,Contracts,Bruce Macdougall,46,73.456521739,6.99112619,88.0,57.0,0,0,,,,10,12,6,9,,0
+UBCV,2015,W,LAW,211,,004,Contracts,Bruce Macdougall,45,73.644444444,10.825381697,89.0,17.0,,,,,5,8,10,8,9,,0
+UBCV,2015,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,70,72.371428571,6.602966897,87.0,58.0,0,0,,5,8,17,19,5,12,,0
+UBCV,2015,W,LAW,438,,001,Secured Transactions,Bruce Macdougall;Bruce Wayne Macdougall,45,73.488888889,6.415968085,90.0,63.0,0,0,0,,6,13,7,11,,,
+UBCV,2015,W,LAW,459,,002,Business Organizations,Bruce Macdougall;Bruce Wayne Macdougall,61,73.049180328,5.874879373,88.0,62.0,0,0,0,,5,23,13,7,8,,0
+UBCV,2015,W,LAW,459,,003,Business Organizations,Bruce Macdougall;Bruce Wayne Macdougall,50,72.82,5.662947959,88.0,62.0,0,0,0,,6,17,12,6,7,,0
+UBCV,2016,S,LAW,515,,001,Canadian Private Law: Contractual Obligations and Remedies,Bruce Macdougall;Bruce Wayne Macdougall;Ljiljana Biukovic,8,71.75,10.1805136,82.0,50.0,0,,,,,2,1,3,1,0,0
+UBCV,2016,W,LAW,211,,001,Contracts,Bruce Macdougall,44,73.84090909,11.030493,89.0,15.0,1,0,0,1,4,5,10,14,6,3,0
+UBCV,2016,W,LAW,368,D,001,Sexuality and Law,Bruce Macdougall;Bruce Wayne Macdougall,14,78.64285714,4.087638831,88.0,73.0,0,0,0,0,0,0,4,6,3,1,0
+UBCV,2016,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,50,73.7,6.68305808,88.0,61.0,0,0,0,2,9,9,10,11,5,4,0
+UBCV,2016,W,LAW,438,,001,Secured Transactions,Bruce Macdougall;Bruce Wayne Macdougall,43,73.04651163,10.26309498,88.0,20.0,1,0,1,1,5,2,16,10,5,2,0
+UBCV,2016,W,LAW,459,,001,Business Organizations,Bruce Macdougall;Bruce Wayne Macdougall,72,73.13888889,5.622654267,88.0,57.0,0,0,2,0,7,21,21,11,8,2,0
+UBCV,2017,S,LAW,515,,001,Canadian Private Law: Contractual Obligations and Remedies,Bruce Macdougall;Bruce Wayne Macdougall,12,73.0,7.816067367,86.0,57.0,0,0,,,1,2,4,2,1,1,0
+UBCV,2017,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,60,73.333333333,6.966424725,88.0,60.0,0,0,0,5,6,15,10,12,9,3,0
+UBCV,2017,W,LAW,438,,001,Secured Transactions,Bruce Macdougall,29,74.448275862,7.423833275,90.0,57.0,0,0,1,1,4,3,4,7,8,0,1
+UBCV,2018,S,LAW,515,,001,Canadian Private Law: Contractual Obligations and Remedies,Bruce Macdougall;Bruce Wayne Macdougall;Ljiljana Biukovic,8,73.0,9.16515139,87.0,60.0,0,0,0,1,1,2,1,0,2,1,0
+UBCV,2018,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,64,73.15625,5.716083547,86.0,60.0,0,0,0,2,9,12,24,4,11,2,0
+UBCV,2018,W,LAW,438,,001,Secured Transactions,Bruce Macdougall,38,73.526315789,7.720582677,87.0,55.0,0,0,2,2,3,7,9,7,6,2,0
+UBCV,2019,S,LAW,459,,001,Business Organizations,Bruce Macdougall,19,74.157894737,7.960061124,85.0,55.0,0,0,1,1,2,1,5,4,4,1,0
+UBCV,2019,S,LAW,508,D,001,Business Organizations,Bruce Macdougall;Bruce Wayne Macdougall,7,74.428571429,7.8497801,83.0,60.0,0,0,0,1,0,0,3,0,3,0,0
+UBCV,2019,W,LAW,211,,001,Contracts,Bruce Macdougall,48,74.75,5.567764363,88.0,64.0,0,0,0,0,4,10,12,13,8,1,0
+UBCV,2019,W,LAW,211,,002,Contracts,Bruce Macdougall;Robert Russo,48,75.5625,5.660261816,85.0,63.0,0,0,0,1,5,7,7,12,15,1,0
+UBCV,2019,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,69,73.15942029,6.206313646,87.0,58.0,0,0,1,4,10,11,16,19,5,3,0
+UBCV,2019,W,LAW,438,,001,Secured Transactions,Bruce Macdougall,59,73.898305085,4.722269016,86.0,63.0,0,0,0,1,1,18,14,17,7,1,0
+UBCV,2020,S,LAW,437,,001,Commercial Transactions,Bruce Macdougall,28,74.107142857,5.54669929,84.0,65.0,0,0,0,0,3,8,4,6,7,0,0
+UBCV,2020,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,33,73.545454545,5.612992234,86.0,60.0,0,0,0,1,3,9,9,5,5,1,0
+UBCV,2020,W,LAW,438,,001,Secured Transactions,Bruce Macdougall,48,74.208333333,6.105311024,87.0,60.0,0,0,0,3,3,7,16,10,8,1,0
+UBCV,2021,S,LAW,437,,001,Commercial Transactions,Bruce Macdougall,8,74.125,5.540435775,81.0,64.0,0,0,0,0,1,1,3,1,2,0,0
+UBCV,2021,W,LAW,211,,001,Contracts,Bruce Macdougall,42,75.333333333,5.724004511,87.0,61.0,0,0,0,1,1,8,11,11,7,3,0
+UBCV,2021,W,LAW,437,,001,Commercial Transactions,Bruce Macdougall,37,75.054054054,5.384885978,88.0,64.0,0,0,0,0,3,8,6,14,4,2,0
+UBCV,2021,W,LAW,438,,001,Secured Transactions,Bruce Macdougall,20,73.85,8.815506673,90.0,57.0,0,0,1,2,2,2,6,2,3,1,1

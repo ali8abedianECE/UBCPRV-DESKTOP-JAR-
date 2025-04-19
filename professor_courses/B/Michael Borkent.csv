@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,WRDS,150,,02B,RSRCH&WRIT HUMAN,"Borkent, Michael",31,71.03,6.59,82,57,30,0,1,0,0,0,0,0,0,0,0,0,2,2,6,2,11,4,3,0,0
+UBC,2015,W,WRDS,150,,06C,RSRCH&WRIT HUMAN,"Borkent, Michael",30,71.21,7.64,82,44,28,1,1,0,0,0,0,0,0,1,1,0,0,2,2,9,8,2,5,0,0
+UBC,2015,W,WRDS,150,,08A,RSRCH&WRIT HUMAN,"Borkent, Michael",30,64.11,17.58,88,0,25,3,2,0,0,1,0,2,0,0,3,0,0,4,4,10,2,4,0,1,0
+UBC,2018,W,WRDS,150,,03B,RSRCH&WRIT HUMAN,"Borkent, Michael",30,71.9,15.78,87,0,29,1,0,0,0,1,0,0,0,0,1,0,1,3,3,2,4,6,7,3,0
+UBC,2018,W,WRDS,150,,03N,RSRCH&WRIT HUMAN,"Borkent, Michael",29,66.97,13.31,91,16,28,1,0,0,0,0,1,0,0,0,1,1,5,3,4,1,7,4,2,0,1
+UBC,2018,W,WRDS,150,,04A,RSRCH&WRIT HUMAN,"Borkent, Michael",30,72.14,8.61,86,41,28,1,1,0,0,0,0,0,0,1,1,0,0,2,3,5,5,8,4,1,0
+UBC,2018,W,WRDS,150,,05N,RSRCH&WRIT HUMAN,"Borkent, Michael",31,69.06,16.93,87,0,29,2,0,0,0,1,0,0,1,0,2,0,3,2,2,3,8,6,2,3,0
+UBC,2018,W,WRDS,150,,06A,RSRCH&WRIT HUMAN,"Borkent, Michael",31,69.67,7.64,81,48,29,1,1,0,0,0,0,0,0,1,1,1,2,0,4,8,6,7,1,0,0
+UBC,2018,W,WRDS,150,,06M,RSRCH&WRIT HUMAN,"Borkent, Michael",27,69.19,11.09,82,38,25,2,0,0,0,0,0,0,2,0,2,2,0,0,0,8,8,4,3,0,0
+UBC,2018,W,WRDS,150,,07N,RSRCH&WRIT HUMAN,"Borkent, Michael",28,71.88,7.32,88,50,25,0,3,0,0,0,0,0,0,0,0,1,0,2,1,6,7,6,1,1,0
+UBCV,2014,W,ENGL,468,A,003,Children's Literature,Michael Borkent;Richard Gooding,46,76.91304348,5.286570352,90.0,69.0,,,,,,,,,,,0,0,0,0,0,7,15,7,12,,
+UBCV,2015,W,WRDS,150,,02B,Research and Writing in the Humanities and Social Sciences,Michael Borkent,30,71.033333333,6.588827185,82.0,57.0,,,,,,,,,,,0,0,,,6,,11,,,0,0
+UBCV,2015,W,WRDS,150,,06C,Research and Writing in the Humanities and Social Sciences,Michael Borkent,29,71.206896552,7.640957823,82.0,44.0,,,,,,,,,,,,,,,,9,8,,5,0,0
+UBCV,2015,W,WRDS,150,,08A,Research and Writing in the Humanities and Social Sciences,Michael Borkent,28,64.107142857,17.575950079,88.0,0.0,,,,,,,,,,,,,,,,10,,,,,0
+UBCV,2018,W,WRDS,150,,03B,Research and Writing in the Humanities and Social Sciences,Michael Borkent,30,71.9,15.783776044,87.0,0.0,,,,,,,,,,,1,0,1,3,3,2,4,6,7,3,0
+UBCV,2018,W,WRDS,150,,03N,Research and Writing in the Humanities and Social Sciences,Michael Borkent,29,66.965517241,13.305430574,91.0,16.0,,,,,,,,,,,1,1,5,3,4,1,7,4,2,0,1
+UBCV,2018,W,WRDS,150,,04A,Research and Writing in the Humanities and Social Sciences,Michael Borkent,29,72.137931034,8.613627649,86.0,41.0,,,,,,,,,,,1,0,0,2,3,5,5,8,4,1,0
+UBCV,2018,W,WRDS,150,,05N,Research and Writing in the Humanities and Social Sciences,Michael Borkent,31,69.064516129,16.92519913,87.0,0.0,,,,,,,,,,,2,0,3,2,2,3,8,6,2,3,0
+UBCV,2018,W,WRDS,150,,06A,Research and Writing in the Humanities and Social Sciences,Michael Borkent,30,69.666666667,7.635368398,81.0,48.0,,,,,,,,,,,1,1,2,0,4,8,6,7,1,0,0
+UBCV,2018,W,WRDS,150,,06M,Research and Writing in the Humanities and Social Sciences,Michael Borkent,27,69.666666667,9.95760243,82.0,38.0,,,,,,,,,,,1,3,0,0,0,8,8,4,3,0,0
+UBCV,2018,W,WRDS,150,,07N,Research and Writing in the Humanities and Social Sciences,Michael Borkent,25,71.88,7.316192088,88.0,50.0,,,,,,,,,,,0,1,0,2,1,6,7,6,1,1,0
+UBCV,2019,S,WRDS,150,,M01,Writing and Research in the Disciplines,Michael Borkent,29,72.862068966,6.12794616,82.0,50.0,,,,,,,,,,,0,1,0,0,2,5,10,9,2,0,0
+UBCV,2019,W,WRDS,150,,03B,Writing and Research in the Disciplines,Michael Borkent,26,71.846153846,6.709350536,80.0,54.0,,,,,,,,,,,0,1,1,1,1,4,8,8,2,0,0
+UBCV,2019,W,WRDS,150,,04A,Writing and Research in the Disciplines,Michael Borkent,30,72.7,7.358551207,90.0,55.0,,,,,,,,,,,0,0,1,0,5,8,6,4,3,2,1
+UBCV,2019,W,WRDS,150,,06A,Writing and Research in the Disciplines,Michael Borkent,28,67.357142857,8.499299691,80.0,45.0,,,,,,,,,,,2,0,2,3,6,1,11,1,2,0,0
+UBCV,2019,W,WRDS,150,,821,Writing and Research in the Disciplines,Michael Borkent,30,72.433333333,6.240487013,85.0,60.0,,,,,,,,,,,0,0,0,4,3,3,8,10,1,1,0
+UBCV,2019,W,WRDS,150,,851,Writing and Research in the Disciplines,Michael Borkent,29,72.689655172,6.53618198,83.0,53.0,,,,,,,,,,,0,1,0,0,4,7,4,9,4,0,0
+UBCV,2019,W,WRDS,150,,861,Writing and Research in the Disciplines,Michael Borkent,27,70.62962963,9.774960744,81.0,42.0,,,,,,,,,,,1,1,2,1,2,5,4,6,5,0,0

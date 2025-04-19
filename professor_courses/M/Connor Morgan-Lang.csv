@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,MICB,405,,101,Bioinformatics,Connor Morgan-Lang;Jennifer Gardy;Martin Hirst;Steven Hallam,68,77.38235294,10.97490953,95.0,52.0,0,2,3,7,3,2,7,10,13,13,8,,,
+UBCV,2017,W,MICB,405,,101,Bioinformatics,Connor Morgan-Lang;Jennifer Gardy;Martin Hirst;Steven Hallam,81,84.740740741,5.900800322,96.0,60.0,0,0,0,1,0,1,4,8,17,36,14,,,
+UBCV,2018,W,MICB,405,,101,Bioinformatics,Connor Morgan-Lang;Jennifer Gardy;Kimberly Anne Dill-Mcfarland;Martin Hirst;Steven Hallam,79,82.329113924,6.315876452,93.0,54.0,0,1,0,0,1,1,6,13,27,21,9,,,
+UBCV,2021,W,MICB,425,,201,Microbial Ecological Genomics,Connor Morgan-Lang;Steven Hallam;Xiangyu Liu,45,89.422222222,6.180941709,96.0,57.0,0,0,1,0,0,0,0,0,2,17,25,,,
+UBCV,2021,W,MICB,425,,201,Microbial Ecological Genomics,Steven Hallam;Connor Morgan-Lang,45,89.4,,96.0,57.0,,,,,,,,,,17,25,90.0,93.0,88.0

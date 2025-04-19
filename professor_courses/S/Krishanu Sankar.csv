@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MATH,102,,107,DF CALC APP LF S,"Sankar, Krishanu",137,63.83,14.01,95,24,112,22,1,0,2,0,0,3,7,12,22,3,20,16,16,20,7,12,11,5,2
+UBC,2017,W,MATH,220,,201,MATH PROOF,"Sankar, Krishanu",66,65.3,15.13,100,31,62,4,0,0,0,0,0,0,3,1,4,11,11,5,9,4,5,4,3,4,6
+UBC,2018,W,MATH,102,,112,DF CALC APP LF S,"Sankar, Krishanu",103,63.11,13.95,91,13,87,14,2,0,0,0,1,0,5,8,14,8,8,17,19,10,8,2,11,3,1
+UBC,2018,W,MATH,220,,204,MATH PROOF,"Sankar, Krishanu",66,60.59,15.56,97,25,51,13,2,0,0,0,0,1,2,10,13,10,11,7,3,5,1,3,6,2,3
+UBCV,2017,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Elyse Yeager;Krishanu Sankar,136,63.102941176,15.206859764,95.0,2.0,,,,,,,,,,,24,3,20,16,16,20,7,12,11,5,2
+UBCV,2017,W,MATH,220,,201,Mathematical Proof,Krishanu Sankar;Mahta Khosravi,66,65.303030303,15.133223457,100.0,31.0,,,,,,,,,,,4,11,11,5,9,4,5,4,3,4,6
+UBCV,2018,W,MATH,102,,112,Differential Calculus with Applications to Life Sciences,Daniel Mcclement;Elyse Yeager;Karan Partap Bains;Krishanu Sankar;Madeline Doering;Ziyao Zhou,101,63.108910891,13.94553763,91.0,13.0,,,,,,,,,,,14,8,8,17,19,10,8,2,11,3,1
+UBCV,2018,W,MATH,220,,204,Mathematical Proof,Amin Soofiani;Krishanu Sankar;Rachel Ollivier,64,60.59375,15.561163247,97.0,25.0,,,,,,,,,,,13,10,11,7,3,5,1,3,6,2,3

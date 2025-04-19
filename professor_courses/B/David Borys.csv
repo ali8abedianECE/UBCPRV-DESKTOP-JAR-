@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,HIST,308,,101,QUEB 18TH - PRES,"Borys, David",23,72.95,7.46,83,50,22,0,1,0,0,0,0,0,0,0,0,1,0,0,1,6,5,3,6,0,0,,,
+UBC,2015,S,HIST,425,,925,MOD WAR& SOCIETY,"Borys, David",47,73.37,11,89,25,45,1,0,1,0,0,0,1,0,0,1,0,2,4,3,6,7,10,8,5,0,,,
+UBC,2015,W,HIST,326,,201,CAN SINCE 1945,"Borys, David",48,73.56,8.07,88,54,48,0,0,0,0,0,0,0,0,0,0,1,1,5,5,4,9,13,7,3,0,,,
+UBC,2016,S,HIST,425,,925,MOD WAR& SOCIETY,"Borys, David",46,70.11,18.74,88,0,41,4,1,0,0,2,0,0,1,1,4,0,3,2,3,6,5,6,12,4,0,,,
+UBC,2016,W,HIST,325,,101,CANADA 1896-1945,"Borys, David",49,73.74,9.91,92,50,47,0,2,0,0,0,0,0,0,0,0,2,3,2,6,5,8,6,9,4,2,,,
+UBC,2017,S,HIST,425,,925,MOD WAR& SOCIETY,"Borys, David",49,74.77,13.29,94,25,47,1,1,0,0,0,0,1,0,0,1,1,4,3,5,3,2,5,13,7,4,,,
+UBC,2017,W,HIST,104,,V01,TPCS WORLD HIST,"Borys, David",60,67.08,12.69,91,22,56,4,0,0,0,0,0,2,0,2,4,2,8,2,9,12,10,6,4,2,1,,,
+UBC,2017,W,HIST,104,,V02,TPCS WORLD HIST,"Borys, David",49,66.1,12.92,91,13,43,5,1,0,0,0,1,0,0,4,5,1,2,9,6,5,12,4,3,0,1,,,
+UBC,2017,W,HIST,105,,V01,CONT GLBL ISSUES,"Borys, David",60,64.24,14.8,95,16,49,10,1,0,0,0,1,0,2,7,10,4,10,3,6,6,7,4,4,4,1,,,
+UBC,2017,W,HIST,105,,V02,CONT GLBL ISSUES,"Borys, David",46,64.49,14.67,86,18,39,6,1,0,0,0,1,1,1,3,6,2,4,3,10,4,7,2,4,3,0,,,
+UBC,2018,S,HIST,425,,925,MOD WAR& SOCIETY,"Borys, David",40,70.03,18.7,90,0,33,5,2,0,0,1,0,0,1,3,5,1,2,1,4,2,5,4,5,8,1,,,
+UBCO,2014,S,HIST,383,A,001,Special Topics in Social and Cultural History,David Borys,26,76.73076923,10.86115166,95.0,51.0,,,,,,,,,,,0,,,,,,,8,,,,,,
+UBCV,2014,W,HIST,308,,101,Quebec from the End of the 18th Century to the Present,David Borys,22,72.95454546,7.460864706,83.0,50.0,,,,,,,,,,,0,,,,,6,5,,6,0,0,,,
+UBCV,2015,S,HIST,425,,925,War and Society,David Borys,46,73.36956522,10.99567328,89.0,25.0,,,,,,,,,,,,,,,,6,7,10,8,5,0,,,
+UBCV,2015,W,HIST,326,,201,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,David Borys,48,73.5625,8.071241962,88.0,54.0,,,,,,,,,,,0,,,5,5,,9,13,7,,0,,,
+UBCV,2016,S,HIST,425,,925,War and Society,David Borys,45,70.11111111,18.74496565,88.0,0.0,,,,,,,,,,,4,0,3,2,3,6,5,6,12,4,0,,,
+UBCV,2016,W,HIST,325,,101,"Canada 1896-1945: Boom, Bust and War",David Borys,47,73.74468085,9.911495489,92.0,50.0,,,,,,,,,,,0,2,3,2,6,5,8,6,9,4,2,,,
+UBCV,2017,S,HIST,425,,925,War and Society,David Borys,48,74.770833333,13.290917685,94.0,25.0,,,,,,,,,,,1,1,4,3,5,3,2,5,13,7,4,,,
+UBCV,2017,W,HIST,104,,V01,Topics in World History,David Borys;Luther Cenci,60,67.083333333,12.689634989,91.0,22.0,,,,,,,,,,,4,2,8,2,9,12,10,6,4,2,1,,,
+UBCV,2017,W,HIST,104,,V02,Topics in World History,David Borys;Miriam Matejova,48,66.104166667,12.9240656,91.0,13.0,,,,,,,,,,,5,1,2,9,6,5,12,4,3,0,1,,,
+UBCV,2017,W,HIST,105,,V01,Contemporary Global Issues in Historical Perspective,David Borys;Xian Wang,59,64.237288136,14.801373402,95.0,16.0,,,,,,,,,,,10,4,10,3,6,6,7,4,4,4,1,,,
+UBCV,2017,W,HIST,105,,V02,Contemporary Global Issues in Historical Perspective,David Borys;Ma Regina G Cruz,45,64.488888889,14.673139068,86.0,18.0,,,,,,,,,,,6,2,4,3,10,4,7,2,4,3,0,,,
+UBCV,2017,W,HIST,325,,101,"Canada 1896-1945: Boom, Bust and War",Andrea Ellen Eidinger;David Borys,46,72.956521739,11.14342162,90.0,32.0,,,,,,,,,,,2,1,1,2,4,9,5,8,7,6,1,,,
+UBCV,2017,W,HIST,326,,201,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,Andrea Ellen Eidinger;David Borys,46,66.0,13.381579379,85.0,29.0,,,,,,,,,,,5,2,1,7,9,5,5,4,6,2,0,,,
+UBCV,2018,S,HIST,425,,925,War and Society,David Borys,38,70.026315789,18.703210943,90.0,0.0,,,,,,,,,,,5,1,2,1,4,2,5,4,5,8,1,,,
+UBCV,2019,S,HIST,425,,925,War and Society,David Borys,43,78.255813953,10.212254598,96.0,51.0,,,,,,,,,,,0,1,0,4,2,3,5,8,6,8,6,,,
+UBCV,2019,W,HIST,404,,101,The First World War,David Borys,42,71.904761905,18.028175136,95.0,3.0,,,,,,,,,,,5,2,3,0,0,4,4,3,15,3,3,,,
+UBCV,2020,S,HIST,425,,925,War and Society,David Borys,50,77.6,15.40341865,96.0,10.0,,,,,,,,,,,3,0,0,3,2,4,3,7,10,9,9,,,
+UBCV,2020,W,HIST,406,,101,The Second World War,David Borys,47,75.808510638,11.00916278,93.0,50.0,,,,,,,,,,,0,3,2,1,3,6,5,7,10,6,4,,,
+UBCV,2021,S,HIST,425,,925,War and Society,David Borys,45,78.844444444,11.603204016,96.0,39.0,,,,,,,,,,,1,1,1,2,1,2,6,6,9,8,8,,,
+UBCV,2021,W,HIST,404,,101,The First World War,David Borys,40,79.475,9.012775832,93.0,51.0,,,,,,,,,,,0,1,0,2,2,0,4,8,10,9,4,,,
+UBCV,2021,S,HIST,425,,925,War and Society,David Borys,45,78.8,,96.0,39.0,,,,,,,,,,,,,,,,,6,6,9,8,8,82.0,86.0,73.0
+UBCV,2021,W,HIST,404,,101,The First World War,David Borys,40,79.5,,93.0,51.0,,,,,,,,,,,,,,,,,,8,10,9,,80.5,86.0,77.0
+UBCV,2022,S,HIST,425,,925,War and Society,David Borys,42,75.3,,97.0,10.0,,,,,,,,,,,2,1,1,3,3,3,3,5,12,3,6,79.5,83.0,68.5
+UBCV,2022,W,HIST,406,,101,The Second World War,David Borys,47,76.6,,96.0,22.0,,,,,,,,,,,2,2,1,1,3,2,7,5,8,8,8,80.0,86.5,72.5
+UBCV,2023,S,HIST,425,,925,War and Society,David Borys,29,76.2,,97.0,25.0,,,,,,,,,,,3,1,1,0,0,2,0,3,8,7,4,81.0,85.0,76.0
+UBCV,2023,W,HIST,406,,101,The Second World War,David Borys,48,76.6,,99.0,39.0,,,,,,,,,,,2,1,3,2,3,4,6,5,9,5,8,78.0,85.3,68.8

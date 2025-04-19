@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,MATH,408,,001,Differential Geometry,Chad Davis;Chad T Davis;Sylvie Desjardins,14,78.071428571,11.330451045,98.0,60.0,0,0,0,,,,,,,,,,,
+UBCO,2016,W,MATH,350,,001,Complex Variables and Applications,Chad Davis;Chad T Davis;Sylvie Desjardins,18,63.27777778,22.80816561,99.0,21.0,4,2,1,1,3,0,2,1,0,2,2,,,
+UBCO,2017,W,MATH,319,,001,Introduction to Partial Differential Equations,Chad Davis;Chad T Davis;Maria Martignoni Mseya;Sylvie Desjardins,44,66.272727273,24.810316343,100.0,0.0,10,3,3,0,3,4,4,2,3,4,8,,,
+UBCO,2018,W,MATH,350,,101,Complex Variables and Applications,Chad Davis;Chad T Davis;Sylvie Desjardins,26,69.5,21.648556534,99.0,4.0,3,1,3,1,2,3,2,3,0,5,3,,,
+UBCO,2019,W,MATH,408,,001,Differential Geometry,Chad Davis;Chad T Davis;Sylvie Desjardins,8,78.125,12.182393619,98.0,60.0,0,0,0,1,1,0,1,2,1,1,1,,,
+UBCO,2020,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Shambhavi Singh;Sylvie Desjardins,17,56.117647059,27.990807315,87.0,0.0,5,1,0,1,2,2,2,1,2,1,0,,,
+UBCO,2020,W,MATH,308,,001,Euclidean Geometry,Sylvie Desjardins,18,76.944444444,10.166104131,98.0,56.0,0,0,1,1,1,2,1,6,2,2,2,,,
+UBCO,2020,W,MATH,350,,001,Complex Variables and Applications,Manish Krishan Lal;Sylvie Desjardins;Zil Huma,19,73.526315789,13.857883521,100.0,50.0,0,1,1,4,1,2,2,1,3,1,3,,,
+UBCO,2020,W,MATH,408,,001,Differential Geometry,Sylvie Desjardins,16,74.875,13.073510113,97.0,52.0,0,1,1,1,0,5,2,1,1,2,2,,,
+UBCO,2021,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Jesse Ghashti;Sylvie Desjardins,15,41.4,25.963710939,87.0,0.0,9,2,1,1,0,0,0,0,1,1,0,,,
+UBCO,2021,W,MATH,350,,001,Complex Variables and Applications,Jesse Ghashti;Sylvie Desjardins,27,74.148148148,17.995092715,100.0,38.0,2,3,2,2,0,1,3,1,5,1,7,,,
+UBCO,2021,W,MATH,408,,001,Differential Geometry,Sylvie Desjardins,11,81.545454545,14.848324056,98.0,56.0,0,0,2,0,0,0,1,1,3,0,4,,,
+UBCO,2021,W,MATH,350,,001,Complex Variables and Applications,Sylvie Desjardins,27,74.1,,100.0,38.0,,,,,,,,,,,7,76.0,87.5,59.5
+UBCO,2021,W,MATH,408,,001,Differential Geometry,Sylvie Desjardins,11,81.5,,98.0,56.0,,,,,,,,,,,,83.0,94.0,76.5
+UBCO,2022,W,MATH,308,,001,Euclidean Geometry,Sylvie Desjardins,16,73.9,,98.0,36.0,2,0,2,1,0,1,1,0,3,3,3,80.0,87.5,60.0
+UBCO,2022,W,MATH,350,,001,Complex Variables and Applications,Sylvie Desjardins,39,77.1,,100.0,39.0,2,2,1,1,5,4,3,3,2,5,11,76.0,91.0,67.0
+UBCO,2022,W,MATH,408,,001,Differential Geometry,Sylvie Desjardins,7,79.9,,93.0,55.0,0,0,1,0,0,1,0,0,2,1,2,83.0,88.5,75.5

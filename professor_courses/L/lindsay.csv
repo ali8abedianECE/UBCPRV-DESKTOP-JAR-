@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",61,73.25,11.71,92,39,58,3,0,0,0,0,0,0,1,2,3,1,6,1,3,6,7,13,15,3,3
+UBC,2003,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",74,70.81,16.07,95,0,69,5,0,0,0,1,0,1,1,2,5,5,5,5,4,8,7,10,14,7,4
+UBC,2005,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",103,70.01,13.33,95,24,97,5,1,0,0,0,0,1,3,1,5,8,9,8,6,11,22,13,6,7,7
+UBC,2006,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",104,72.88,13.29,93,27,98,6,0,0,0,0,0,1,2,3,6,4,7,3,8,13,12,13,21,11,6
+UBC,2007,W,MATH,184,,108,CALC SOCSCI COMM,"Lindsay, Alan",54,63.4,18.65,97,14,48,5,1,0,0,0,2,3,0,0,5,9,6,3,3,9,6,2,5,3,2
+UBC,2007,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",93,71.76,13.39,93,16,87,4,0,2,0,0,1,1,0,2,4,2,8,6,8,8,16,15,12,5,7
+UBC,2009,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",97,74.13,12.12,98,21,87,5,5,0,0,0,0,1,1,3,5,0,1,7,8,13,15,11,14,11,7
+UBC,2009,W,SSED,314,A,304,C & I SOC ST SEC,"Gibson, Lindsay",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDCP,332,A,304,C & P SOC ST SEC,"Gibson, Lindsay",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,HKIN,261,,001,HLTH POL & SOCI,"RICHARDSON, LINDSAY;Sanderson, David J",168,77.04,12.24,95,0,163,4,1,0,0,1,0,0,2,1,4,2,3,11,8,15,15,26,36,30,17
+UBC,2010,W,MICB,324,,101,MLCR BACT GR REG,"Eltis, Lindsay",44,70.98,16.32,95,21,38,5,0,1,0,0,0,1,1,3,5,0,4,4,2,5,4,4,6,4,5
+UBC,2010,W,MICB,507,,201,TP MOL PTH & IMM,"Eltis, Lindsay;Thompson, Charles",8,88.25,2.31,91,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBC,2011,W,MICB,424,,201,CEL DYNAM BACTER,"Eltis, Lindsay",11,77.91,9.97,91,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,3,1
+UBC,2011,W,MICB,507,,201,TP MOL PTH & IMM,"Eltis, Lindsay;Thompson, Charles",7,83.86,5.98,90,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1
+UBC,2012,W,MICB,424,,101,CEL DYNAM BACTER,"Eltis, Lindsay",12,75.83,9.39,91,56,12,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,1,4,1,1
+UBC,2012,W,MICB,507,,101,TP MOL PTH & IMM,"Eltis, Lindsay",6,87.83,3.66,91,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2013,W,MICB,424,,101,CEL DYNAM BACTER,"Eltis, Lindsay",15,77.29,9.6,91,64,14,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,0,3,1,2,2
+UBC,2014,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Cullis, Pieter;Eltis, Lindsay;Hieter, Philip;Hirst, Martin;Marra, Marco;Rieseberg, Loren;Ryan, Katherine",11,89.36,2.69,93,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5
+UBC,2014,W,MICB,424,,101,CEL DYNAM BACTER,"Eltis, Lindsay",13,76.62,8.15,92,63,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,2,1,2,1
+UBC,2015,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",11,87.91,4.44,95,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,5
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2015,W,MICB,424,,101,CEL DYNAM BACTER,"Eltis, Lindsay",5,80.2,5.89,87,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0
+UBC,2016,S,FNIS,210,,003,POL & SELF-DTRMN,"LACHANCE, LINDSAY",22,73.52,11.91,87,42,20,1,0,1,0,0,0,0,0,1,1,1,0,2,1,2,3,1,7,3,0
+UBC,2016,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",12,89,2,91,87,3,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+UBC,2016,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",10,87.4,6.65,95,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,5
+UBC,2016,W,MICB,301,,101,MICROB ECOPHYS,"Eltis, Lindsay;Hallam, Steven;Mohn, William",125,76.77,9.35,93,51,123,0,1,1,0,0,0,0,0,0,0,4,4,3,7,12,24,10,35,18,6
+UBC,2017,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",14,85.5,3.54,88,83,2,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+UBC,2017,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",8,89.13,2.47,92,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2
+UBC,2017,W,MICB,301,,101,MICROB ECOPHYS,"Eltis, Lindsay;Hallam, Steven;Mohn, William",114,75.06,10.12,91,32,111,3,0,0,0,0,0,0,1,2,3,3,3,7,4,13,15,15,40,9,2
+UBC,2017,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,90,3.16,97,83,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11
+UBC,2017,W,MICB,507,,101,TP MOL PTH & IMM,"Av-Gay, Yossef;Eltis, Lindsay;Manges, Amee;Thompson, Charles",8,84.38,6.86,93,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+UBC,2018,W,BIOC,202,,001,INTR MED BIOC,"Brown, Lindsay;Williams, Warren",72,70.06,14.2,100,37,67,4,1,0,0,0,0,0,1,3,4,4,6,9,8,10,6,5,5,8,6
+UBC,2018,W,BIOC,202,,002,INTR MED BIOC,"Brown, Lindsay",169,70.06,13.61,97,0,154,9,3,0,2,1,0,0,1,7,9,5,21,20,14,14,26,10,20,14,10
+UBC,2018,W,BIOC,530,,001,SEMINAR,"Eltis, Lindsay;Molday, Robert",4,90.5,2.12,92,89,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2018,W,BIOC,530,,101,SEMINAR,"Eltis, Lindsay;Molday, Robert",12,86.83,4.3,94,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4
+UBC,2018,W,MICB,301,,101,MICROB ECOPHYS,"Dill-Mcfarland, Kimberly Anne;Eltis, Lindsay;Hallam, Steven;Mohn, William",113,77.04,10.18,96,47,107,2,0,1,3,0,0,0,0,2,2,5,0,3,4,11,15,18,26,18,7
+UBC,2018,W,MICB,325,,201,ANLYSIS MCRO G&G,"Eltis, Lindsay;Haney, Cara;Murphy, Michael",106,79.99,8.98,95,49,101,1,2,0,1,0,0,0,0,1,1,1,2,1,2,9,9,19,21,25,12
+UBC,2018,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,92.12,1.45,94,88,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16

@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,RMES,500,A,101,RESRCE&ENV WKSHP,"Dowlatabadi, Hadi;Kandlikar, Milind;Satterfield, Theresa",22,85.62,3.51,91,80,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,3,,,
+UBC,2003,W,RMES,500,Q,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",5,86.2,4.38,92,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,,,
+UBC,2005,W,RMES,500,L,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",5,87.6,3.13,91,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,,,
+UBC,2007,W,RMES,500,T,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",7,87.5,2.95,93,85,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,,,
+UBC,2010,W,RMES,500,G,101,RESRCE&ENV WKSHP,"Kandlikar, Milind;Zerriffi, Hisham",11,87.2,2.66,91,83,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2,,,
+UBC,2011,W,RMES,500,M,101,RESRCE&ENV WKSHP,"Kandlikar, Milind;Satterfield, Theresa",12,85.25,3.11,90,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2,,,
+UBC,2011,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Satterfield, Theresa",17,84.47,2.67,88,77,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11,0,,,
+UBC,2013,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Oberg, Gunilla",23,87.64,2.06,94,87,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,,,
+UBC,2013,W,SCIE,220,,200,INTR SUSTAINABIL,"Kandlikar, Milind",45,74.98,13.52,93,9,43,2,0,0,0,1,0,0,0,1,2,0,1,0,3,3,10,8,12,3,3,,,
+UBC,2014,W,SCIE,220,,200,INTR SUSTAINABIL,"Kandlikar, Milind",22,76.18,9.61,90,53,22,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,2,6,6,2,1,,,
+UBC,2015,W,ASIC,220,,208,INTR SUSTAINABIL,"Kandlikar, Milind",42,71.27,15.53,91,20,39,2,1,0,0,0,0,2,0,0,2,2,2,5,2,6,3,4,7,6,2,,,
+UBC,2015,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Satterfield, Theresa",12,86,1.55,90,85,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,,,
+UBC,2015,W,RMES,507,,101,HUMN TECH SYTEMS,"Kandlikar, Milind",12,86.55,1.21,88,85,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,,,
+UBC,2015,W,RMES,520,,101,CLIMATE CHANGE,"Kandlikar, Milind",11,84.91,6.32,91,67,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,2,,,
+UBCV,2014,W,SCIE,220,,200,Introduction to Sustainability,Milind Kandlikar,22,76.18181818,9.609699285,90.0,53.0,,,,,,,,,,,0,,,,,,,6,6,,,,,
+UBCV,2015,W,ASIC,220,,208,Introduction to Sustainability,Milind Kandlikar,41,71.268292683,15.525824278,91.0,20.0,,,,,,,,,,,,,,5,,6,,,7,6,,,,
+UBCV,2015,W,RMES,502,,201,Seminar on Resources and Environment,Milind Kandlikar;Theresa Satterfield,11,86.0,1.549193338,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,1,,,
+UBCV,2015,W,RMES,507,,101,Human Technological Systems,Milind Kandlikar,11,86.545454545,1.213559752,88.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,0,,,
+UBCV,2015,W,RMES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Milind Kandlikar,11,84.909090909,6.315925038,91.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,7,,,,
+UBCV,2016,W,ASIC,220,,208,Introduction to Sustainability,Gunilla Oberg;Milind Kandlikar;Victoria Ostenso;Victoria Rae Ostenso,49,74.53061225,7.263212216,90.0,57.0,,,,,,,,,,,0,0,2,1,4,8,11,9,10,3,1,,,
+UBCV,2016,W,GPP,590,,001,Capstone Project,Milind Kandlikar;Moura Quayle;Paul Evans,15,87.46666667,3.270357487,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,9,5,,,
+UBCV,2016,W,RES,500,W,101,Resource and Environmental Workshop,Milind Kandlikar;Naoko Ellis,19,82.52631579,6.104355649,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,1,5,8,1,,,
+UBCV,2016,W,RES,507,,101,Human Technological Systems,Milind Kandlikar,11,87.81818182,1.470930441,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,1,,,
+UBCV,2017,W,GPP,590,A,001,Global Policy Project,Milind Kandlikar;Shashidharan Enarth,13,86.307692308,2.657837949,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,1,,,
+UBCV,2017,W,RES,507,,101,Human Technological Systems,Jiaying Zhao;Milind Kandlikar;Theresa Satterfield,14,85.785714286,2.082105866,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,10,1,,,
+UBCV,2018,W,RES,507,,101,Human Technological Systems,Hadi Dowlatabadi;Milind Kandlikar;Theresa Satterfield,14,86.714285714,3.244606683,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,2,,,
+UBCV,2019,W,GPP,590,A,001,Global Policy Project,Erin Baines;George Hoberg;Julian Dierkes;Kai Ostwald;Milind Kandlikar;Nadja Kunz;Sara Shneiderman;Shashidharan Enarth,30,87.066666667,3.161550616,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,18,8,,,
+UBCV,2019,W,RES,507,,101,Human Technological Systems,Milind Kandlikar;Paul Evans;Theresa Satterfield,8,87.5,4.208834246,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,3,,,
+UBCV,2020,W,PPGA,542,,001,"Science, Technology, and Public Policy",Milind Kandlikar,8,85.625,4.24053568,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,1,,,
+UBCV,2020,W,RES,507,,101,Human Technological Systems,Milind Kandlikar,21,88.0,2.645751311,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,14,6,,,
+UBCV,2021,W,PPGA,542,,001,"Science, Technology, and Public Policy",Allison Macfarlane;Milind Kandlikar,18,85.777777778,5.775766367,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,6,6,,,
+UBCV,2021,W,PPGA,584,,001,Policy Responses to Global Climate Change,Amanda Giang;Milind Kandlikar;Navin Ramankutty,12,87.916666667,2.274696117,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,3,,,
+UBCV,2021,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Amanda Giang;Milind Kandlikar;Navin Ramankutty,12,88.083333333,1.676486224,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,3,,,
+UBCV,2021,W,PPGA,584,,001,Policy Responses to Global Climate Change,Amanda Giang;Milind Kandlikar,12,87.9,,92.0,84.0,,,,,,,,,,,,,,,,,,,,8,,88.0,88.5,87.0
+UBCV,2022,W,PPGA,542,,001,"Science, Technology, and Public Policy",Milind Kandlikar;Theresa Satterfield,7,87.7,,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,2,87.0,89.0,86.0
+UBCV,2022,W,PPGA,584,,001,Policy Responses to Global Climate Change,Milind Kandlikar,11,86.2,,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,0,87.0,87.5,86.0
+UBCV,2022,W,RES,507,,201,Human Technological Systems,Milind Kandlikar;Theresa Satterfield,12,91.1,,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,91.0,92.0,90.0
+UBCV,2022,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Milind Kandlikar,10,87.6,,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,2,88.5,89.0,86.0
+UBCV,2022,W,SPPH,581,Y,BL1,Selected Topics,Peter Berman;Charlyn Black;Milind Kandlikar;Paul Kershaw;Steven Morgan;Veena Sriram;Daniel Vigo,11,97.6,,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,98.0,99.0,96.5
+UBCV,2023,W,PPGA,542,,001,"Science, Technology, and Public Policy",Milind Kandlikar,7,86.43,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,2,88.0,89.5,86.0
+UBCV,2023,W,RES,507,,201,Human Technological Systems,Milind Kandlikar,16,88.94,,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,10,90.0,91.0,86.75

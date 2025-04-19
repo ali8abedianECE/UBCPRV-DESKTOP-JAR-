@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,APSC,172,,101,Engineering Analysis I,Christopher Michael Collier;Christopher Young;Maher Al-Hawarneh;Md Rashedul Kabir;Severin Nowak,132,69.818181818,16.439488013,97.0,7.0,12,3,13,14,11,8,17,13,16,12,13
+UBCO,2015,W,APSC,172,,102,Engineering Analysis I,Christopher Michael Collier;Christopher Young;Maher Al-Hawarneh;Md Rashedul Kabir;Severin Nowak,109,67.018348624,19.244519014,98.0,10.0,16,9,7,13,6,7,7,12,8,10,14
+UBCO,2018,W,APSC,253,,201,Fluid Mechanics I,Hamed Tahmooressi;Maher Al-Hawarneh;Mohamed Mohamed;Rachid Ouache;Sandun Tharaka Wanniarachchi;Shahab Zeraati Dizjeh;Yu Yan,115,66.773913043,12.299665428,95.0,25.0,8,10,13,14,15,19,9,9,9,5,4
+UBCO,2018,W,APSC,253,,202,Fluid Mechanics I,Hamed Tahmooressi;Maher Al-Hawarneh;Mohamed Mohamed;Rachid Ouache;Sandun Tharaka Wanniarachchi;Shahab Zeraati Dizjeh;Yu Yan,91,69.835164835,14.929660066,98.0,30.0,8,8,7,6,9,8,16,5,7,7,10
+UBCO,2018,W,ENGR,425,,101,Design of Steel and Timber Structures,Maher Al-Hawarneh;Shahria Alam,34,77.176470588,8.266290026,93.0,60.0,0,0,0,3,1,4,4,7,9,3,3
+UBCO,2018,W,ENGR,522,,101,Advanced Design of Steel Structures,Maher Al-Hawarneh;Shahria Alam,7,83.428571429,7.114706432,91.0,70.0,0,0,0,0,0,1,0,0,2,2,2
+UBCO,2019,W,ENGR,305,,201,Engineering Economic Analysis,Gholamreza Naser;John Alan Brereton;Kerry Black;Maher Al-Hawarneh;Zahra Azimi Dijvejin,166,85.686746988,7.93523437,98.0,40.0,1,0,1,1,2,4,6,11,36,52,52
+UBCO,2019,W,ENGR,305,,202,Engineering Economic Analysis,John Alan Brereton;Maher Al-Hawarneh;Zahra Azimi Dijvejin,145,83.772413793,8.10327851,99.0,63.0,0,0,0,1,2,13,8,19,32,32,38
+UBCO,2020,S,ENGR,305,,001,Engineering Economic Analysis,Maher Al-Hawarneh;Mohammad Kamali;Zahra Azimi Dijvejin,118,74.381355932,8.725558774,91.0,27.0,1,0,3,6,9,21,23,22,21,9,3
+UBCO,2020,W,ENGR,305,,201,Engineering Economic Analysis,John Alan Brereton;Maher Al-Hawarneh;Malcolm Metcalfe;Zahra Azimi Dijvejin,189,81.248677249,13.017441689,100.0,45.0,3,5,10,3,8,12,15,15,26,36,56
+UBCO,2020,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Haile Woldesellasse;Maher Al-Hawarneh;Mohammad Tiznobaik,27,78.074074074,15.399615195,96.0,33.0,1,1,1,1,2,2,1,2,4,4,8
+UBCO,2021,W,ENGR,305,,201,Engineering Economic Analysis,John Alan Brereton;Maher Al-Hawarneh;Majid Moradzadeh,235,69.663829787,14.413378542,99.0,0.0,5,17,20,24,35,26,27,27,28,10,16
+UBCO,2021,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Maher Al-Hawarneh;Mohammad Tiznobaik,28,79.035714286,10.847365759,95.0,50.0,0,1,1,0,1,3,2,5,3,8,4

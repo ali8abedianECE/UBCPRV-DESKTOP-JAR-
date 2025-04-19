@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Bilal Madani;Darina Vekhova;Eric Foxall;Geoff Goetz;Haashim Madani;Jakob David Marshall;Jakob Marshall;Patrick Nadeau;Pau Capera Aragones;Shambhavi Singh;Vanessa White;Yinuo Fan;You Rao;Ziyuan Wang,274,81.105839416,12.179056463,100.0,28.0,6,4,5,7,10,19,20,26,54,50,73,,,
+UBCO,2019,W,MATH,319,,001,Introduction to Partial Differential Equations,Chad Davis;Eric Foxall;Pau Capera Aragones,63,74.174603175,16.912049229,100.0,18.0,4,3,4,0,5,7,9,10,4,4,13,,,
+UBCO,2020,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Aanchal Kuckian;Alejandra Fuentes Nunez;Alexander Iannantuono;Alexander Molnar;Andrew Ogilvy;Billy Spelchan;Bradley Reinholz;Chad Davis;Chunlei Ge;Devin Reinholz;Eric Foxall;Gabriel Jarry-Bolduc;Garen Goh;Grace Loo;Haashim Madani;Ian Chambers;Islam Osman;Jakob Thoms;Jason Reich;Jesse Ghashti;Karanmeet Khatra;Ladan Tazik;Maria Guenter;Marjan Yaghoubi;Maryam Sadeghi;Matthew Dunn;Md Tareque Hossain;Mitchell Wiebe;Mohamad Khajezade;Mohammad Hadi;Nicholas Rieske;Nusrat Momo;Pradeep Mahato;Ramie Ali Adeeb;Reece Walsh;Roozbeh Eslami;Ruichao Jiang;Saeed Moghaddam;Shambhavi Singh;Sherif Elbishlawi;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zenab Kutubuddin Kagdiwala;Zhongda Huang;Ziyuan Wang,183,65.803278689,22.924495996,100.0,0.0,33,9,11,15,13,21,12,12,22,11,24,,,
+UBCO,2020,W,MATH,319,,001,Introduction to Partial Differential Equations,Eric Foxall;Shambhavi Singh,48,79.958333333,13.548900141,100.0,37.0,1,1,1,2,5,3,3,5,8,6,13,,,
+UBCO,2020,W,STAT,403,,001,Stochastic Processes,Eric Foxall;Paramjit Gill,12,73.833333333,16.737727299,98.0,50.0,0,1,2,1,1,2,0,0,1,1,3,,,
+UBCO,2021,W,MATH,319,,001,Introduction to Partial Differential Equations,Eric Foxall;Pau Capera Aragones;Shambhavi Singh,45,68.622222222,15.036756313,99.0,27.0,3,5,3,4,7,5,4,2,5,4,3,,,
+UBCO,2021,W,STAT,403,,001,Stochastic Processes,Eric Foxall,11,74.090909091,19.542029298,100.0,38.0,1,0,1,2,0,0,3,0,0,1,3,,,
+UBCO,2021,W,STAT,560,,001,Probability and Stochastic Processes,Eric Foxall,6,93.333333333,4.366539438,99.0,86.0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCO,2021,W,MATH,319,,001,Introduction to Partial Differential Equations,Eric Foxall,45,68.6,,99.0,27.0,,,,,7,,,,,,,68.0,80.0,60.0
+UBCO,2021,W,STAT,403,,001,Stochastic Processes,Eric Foxall,11,74.1,,100.0,38.0,,,,,,,,,,,,74.0,89.5,60.0
+UBCO,2021,W,STAT,560,,001,Probability and Stochastic Processes,Eric Foxall,6,93.3,,99.0,86.0,,,,,,,,,,,,93.5,95.5,92.3
+UBCO,2022,W,MATH,319,,001,Introduction to Partial Differential Equations,Eric Foxall,29,70.6,,97.0,3.0,1,1,2,2,7,5,4,0,0,2,5,70.0,75.0,65.0
+UBCO,2022,W,MATH,339,,101,Introduction to Dynamical Systems,Eric Foxall,8,72.9,,91.0,26.0,1,0,0,0,1,1,0,1,2,0,2,78.0,84.8,69.3
+UBCO,2022,W,STAT,403,,001,Stochastic Processes,Eric Foxall,14,74.1,,97.0,39.0,1,1,1,1,1,0,1,0,4,3,1,82.5,84.8,61.8
+UBCO,2022,W,STAT,560,,001,Probability and Stochastic Processes,Eric Foxall,10,89.4,,99.0,80.0,0,0,0,0,0,0,0,0,2,2,6,90.0,93.3,85.5

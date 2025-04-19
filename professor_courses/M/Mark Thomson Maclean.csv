@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,MATH,100,,106,DF CALC AP PH SC,"MacLean, Mark Thomson",171,59.74,15.87,95,6,135,30,6,0,0,1,3,2,9,15,30,23,24,22,8,20,12,7,9,6,4,,,
+UBC,2006,W,MATH,101,,205,INT CALC AP PH S,"MacLean, Mark Thomson",110,64.18,17.28,98,15,96,13,1,0,0,0,1,2,8,2,13,19,11,11,4,10,10,5,14,3,9,,,
+UBC,2007,W,MATH,104,,102,DFF CALC AP C&SS,"MacLean, Mark Thomson",208,75.66,16.84,99,25,192,13,2,0,1,0,0,2,8,3,13,14,9,10,8,14,16,10,36,30,45,,,
+UBC,2009,W,MATH,104,,104,DFF CALC AP C&SS,"MacLean, Mark Thomson",205,71.03,17.78,98,11,176,23,5,0,1,0,4,2,7,10,23,13,6,10,16,15,24,11,33,20,28,,,
+UBC,2009,W,MATH,105,,208,INT CALC AP C&SS,"MacLean, Mark Thomson",119,70,15.8,96,15,107,6,5,0,1,0,1,0,3,2,6,16,8,5,13,8,8,11,11,18,9,,,
+UBC,2009,W,MATH,335,,201,INTRO TO MATH,"MacLean, Mark Thomson",58,85.67,9.39,97,55,58,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,1,2,8,12,28,,,
+UBC,2010,W,MATH,104,,102,DFF CALC AP C&SS,"MacLean, Mark Thomson",117,72.54,12.24,99,30,111,3,3,0,0,0,0,0,1,2,3,3,14,5,10,15,18,10,17,8,11,,,
+UBC,2010,W,MATH,104,,103,DFF CALC AP C&SS,"MacLean, Mark Thomson",112,71.37,14.1,94,25,100,7,3,0,2,0,0,2,1,4,7,4,8,7,8,9,20,6,23,9,6,,,
+UBC,2010,W,MATH,317,,202,CALCULUS IV,"MacLean, Mark Thomson",69,68.38,15.81,94,22,61,7,1,0,0,0,0,1,2,4,7,6,7,5,3,5,10,5,8,6,6,,,
+UBC,2010,W,MATH,335,,201,INTRO TO MATH,"MacLean, Mark Thomson",38,85.92,6.22,96,72,36,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,3,8,12,11,,,
+UBC,2011,W,MATH,104,,103,DFF CALC AP C&SS,"MacLean, Mark Thomson",150,70.68,13.91,96,33,139,7,2,0,2,0,0,0,1,6,7,14,14,12,17,8,14,14,18,12,16,,,
+UBC,2011,W,MATH,217,,101,MLTVAR&VCTR CALC,"MacLean, Mark Thomson",74,77.23,13.68,95,0,71,3,0,0,0,1,0,0,1,1,3,0,0,3,1,6,11,9,16,19,6,,,
+UBC,2013,W,MATH,100,,102,DF CALC AP PH SC,"Liu, Keqin;MacLean, Mark Thomson;TBA",70,73.35,13.24,97,16,64,2,3,0,1,0,1,0,1,0,2,3,0,6,5,12,6,11,10,5,6,,,
+UBC,2013,W,MATH,100,,106,DF CALC AP PH SC,"Liu, Keqin;MacLean, Mark Thomson;TBA",71,65.38,16.36,95,10,61,8,2,0,0,0,2,0,1,5,8,9,6,7,3,8,6,12,3,5,2,,,
+UBC,2013,W,MATH,101,,201,INT CALC AP PH S,"MacLean, Mark Thomson",220,61.84,22.39,97,0,166,47,5,0,2,6,7,8,11,15,47,19,19,17,15,19,8,11,25,16,17,,,
+UBC,2013,W,MATH,101,,202,INT CALC AP PH S,"Gonzalez, Jose;MacLean, Mark Thomson",128,66.01,19.39,98,0,105,18,2,0,3,1,2,3,5,7,18,12,14,6,12,11,8,6,9,18,9,,,
+UBC,2013,W,MATH,101,,203,INT CALC AP PH S,"Gonzalez, Jose;MacLean, Mark Thomson",128,67.9,17.48,100,0,112,13,2,0,1,1,0,3,4,5,13,15,8,10,10,11,7,13,13,17,8,,,
+UBC,2013,W,MATH,101,,205,INT CALC AP PH S,"Hulshof, Willem;MacLean, Mark Thomson",198,69.3,18.42,97,0,173,24,1,0,0,4,1,3,6,10,24,11,9,14,14,15,23,26,20,26,15,,,
+UBC,2013,W,MATH,101,,206,INT CALC AP PH S,"Desaulniers, Shawn;MacLean, Mark Thomson",177,68.07,18.16,98,0,151,19,1,0,6,2,3,1,1,12,19,16,15,11,16,13,14,8,24,20,14,,,
+UBC,2013,W,MATH,101,,207,INT CALC AP PH S,"MacLean, Mark Thomson;Wiedemann, Emil",112,63.06,20.27,99,2,91,18,2,0,1,2,2,5,3,6,18,15,11,4,5,11,11,8,13,8,5,,,
+UBC,2013,W,MATH,101,,209,INT CALC AP PH S,"Ganapathy, Radhika;MacLean, Mark Thomson",99,67.27,16.98,95,3,81,10,4,0,4,1,1,1,3,4,10,10,6,6,6,12,12,4,12,8,5,,,
+UBC,2013,W,MATH,101,,210,INT CALC AP PH S,"MacLean, Mark Thomson;TBA",77,68.28,19.91,99,7,67,8,0,0,2,2,1,1,3,1,8,8,5,6,6,1,7,5,16,3,10,,,
+UBC,2013,W,MATH,101,,212,INT CALC AP PH S,"Feldman, Joel;MacLean, Mark Thomson",142,69.26,15.7,97,18,128,12,1,0,1,0,1,0,4,7,12,18,7,9,13,12,13,12,18,15,11,,,
+UBC,2013,W,MATH,101,,213,INT CALC AP PH S,"MacLean, Mark Thomson;TBA",87,61.58,18.94,92,13,63,21,1,0,2,0,1,5,6,9,21,3,6,13,4,6,9,7,8,4,3,,,
+UBC,2013,W,MATH,102,,102,DF CALC APP LF S,"Cytrynbaum, Eric;MacLean, Mark Thomson;TBA",59,67,16.74,98,33,46,11,2,0,0,0,0,0,5,6,11,2,3,7,2,8,5,3,7,6,3,,,
+UBC,2013,W,MATH,104,,102,DFF CALC AP C&SS,"MacLean, Mark Thomson",190,71.9,14.5,98,13,178,10,2,0,0,0,1,1,1,7,10,11,15,12,13,22,26,14,29,18,18,,,
+UBC,2013,W,MATH,104,,105,DFF CALC AP C&SS,"MacLean, Mark Thomson;TBA",84,70.46,19.36,98,19,72,11,1,0,0,0,1,4,3,3,11,5,6,1,3,11,7,6,13,7,13,,,
+UBC,2013,W,MATH,104,,108,DFF CALC AP C&SS,"MacLean, Mark Thomson;TBA",85,78.02,14.72,98,30,81,3,1,0,0,0,0,0,2,1,3,4,5,1,5,5,6,7,18,6,24,,,
+UBC,2013,W,MATH,184,,101,CALC SOCSCI COMM,"Davila Bonczos, Gonzalo;MacLean, Mark Thomson",99,68.62,15.21,94,32,82,13,3,0,1,0,0,0,4,9,13,6,4,8,7,14,9,9,11,7,7,,,
+UBC,2013,W,MATH,184,,102,CALC SOCSCI COMM,"MacLean, Mark Thomson;Paton, Kelly",79,67.95,14.82,96,14,69,7,2,0,1,0,1,0,3,3,7,6,4,9,9,7,9,7,9,7,2,,,
+UBC,2013,W,MATH,184,,103,CALC SOCSCI COMM,"Anstee, Richard;MacLean, Mark Thomson",116,63.97,16.62,99,21,92,16,8,0,0,0,0,4,7,5,16,13,10,7,8,12,14,10,10,5,3,,,
+UBC,2013,W,MATH,184,,104,CALC SOCSCI COMM,"Ganapathy, Radhika;MacLean, Mark Thomson",103,71.42,13.18,96,36,94,4,3,0,2,0,0,0,1,3,4,6,12,9,5,7,12,10,19,6,8,,,
+UBC,2013,W,MATH,184,,105,CALC SOCSCI COMM,"MacLean, Mark Thomson;TBA",83,65.97,16.32,94,12,68,11,3,0,1,0,1,1,4,5,11,4,8,6,7,17,5,6,4,7,4,,,
+UBC,2014,W,MATH,317,,202,CALCULUS IV,"MacLean, Mark Thomson",85,71.19,11.48,92,47,79,1,2,0,1,0,0,0,0,1,1,6,4,10,12,8,10,6,11,5,7,,,
+UBC,2017,W,MATH,104,,102,DFF CALC AP C&SS,"MacLean, Mark Thomson",179,73.83,17.85,95,15,160,15,2,0,2,0,2,4,3,6,15,15,6,5,6,15,8,11,39,26,29,,,
+UBC,2017,W,MATH,253,,104,MULTIVRBL CALC,"MacLean, Mark Thomson",82,75.42,10.73,95,42,80,1,1,0,0,0,0,0,0,1,1,1,6,5,5,5,16,8,18,8,8,,,
+UBC,2018,S,MATH,317,,951,CALCULUS IV,"MacLean, Mark Thomson",74,68.34,15.99,100,39,66,7,0,0,1,0,0,0,1,6,7,5,12,6,9,7,3,3,7,6,8,,,
+UBC,2018,W,MATH,101,,201,INT CALC AP PH S,"MacLean, Mark Thomson",181,59.48,18.89,97,3,125,49,3,0,4,2,2,9,17,19,49,13,17,9,22,7,17,15,15,6,4,,,
+UBC,2018,W,MATH,104,,102,DFF CALC AP C&SS,"MacLean, Mark Thomson",185,69.61,16.3,95,18,160,21,3,0,1,0,1,2,5,13,21,10,18,12,8,17,23,10,24,20,18,,,
+UBC,2018,W,MATH,253,,104,MULTIVRBL CALC,"MacLean, Mark Thomson",63,70.84,12.89,95,34,57,4,1,0,1,0,0,0,1,3,4,1,6,5,7,9,6,3,12,5,3,,,
+UBC,2018,W,MATH,317,,202,CALCULUS IV,"MacLean, Mark Thomson",116,69.15,13.56,94,31,103,5,2,0,5,0,0,0,1,4,5,14,10,9,7,16,9,9,13,8,8,,,
+UBCV,2022,S,MATH,100,,92C,Differential Calculus with Applications,Mark Thomson MacLean;Zhichao Wang,104,67.9,,93.0,3.0,,,,,,,,,,,8,10,9,4,11,17,9,9,6,15,6,70.0,80.0,59.0
+UBCV,2022,S,MATH,253,,921,Multivariable Calculus,Colin MacDonald;Mark Thomson MacLean,131,78.7,,98.0,0.0,,,,,,,,,,,6,3,9,2,3,5,6,19,20,18,40,83.0,90.5,75.0
+UBCV,2022,W,MATH,100,,1A1,Differential Calculus with Applications,Daniel Coombs;Mark Thomson MacLean;Kelly Paton;Anthony Wachs,323,69.4,,98.0,18.0,,,,,,,,,,,38,16,20,19,25,35,45,47,33,28,17,73.0,79.0,62.0
+UBCV,2022,W,MATH,100,,1A2,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Anthony Wachs,225,69.4,,95.0,32.0,,,,,,,,,,,19,7,21,20,24,24,26,30,31,16,7,71.0,79.0,61.0
+UBCV,2022,W,MATH,100,,1A3,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Muhammad Usman,442,68.1,,98.0,0.0,,,,,,,,,,,63,14,29,32,37,48,47,57,57,32,26,71.0,80.0,60.0
+UBCV,2022,W,MATH,100,,1A4,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Muhammad Usman,422,65.9,,98.0,16.0,,,,,,,,,,,78,16,32,42,44,41,38,38,39,35,19,67.0,78.0,57.0
+UBCV,2022,W,MATH,100,,1AR,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton,307,64.5,,98.0,11.0,,,,,,,,,,,68,16,28,24,28,28,15,29,35,23,13,66.0,78.0,53.0
+UBCV,2022,W,MATH,253,,10R,Multivariable Calculus,James Colliander;Mark Thomson MacLean,692,71.7,,100.0,0.0,,,,,,,,,,,13,30,32,43,87,99,131,90,108,34,25,73.0,78.0,66.0
+UBCV,2023,W,MATH,100,,1A1,Differential Calculus with Applications,Matthew Coles;Eric Cytrynbaum;Sarah Dijols;Mark Thomson MacLean;Kelly Paton;Lior Silberman;Elyse Yeager,270,74.2,,99.0,8.0,,,,,,,,,,,18,16,10,15,15,14,23,24,51,39,35,79.0,86.0,65.0
+UBCV,2023,W,MATH,100,,1A2,Differential Calculus with Applications,Eric Cytrynbaum;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean;Paul Péringuey,335,70.6,,97.0,0.0,,,,,,,,,,,36,29,9,20,12,18,36,41,53,40,29,76.0,83.0,62.0
+UBCV,2023,W,MATH,100,,1A3,Differential Calculus with Applications,Wenzhao Chen;Masoud Daneshi;Mark Thomson MacLean;Rodrigo Mitishita;Lior Silberman,397,73.5,,98.0,4.0,,,,,,,,,,,28,25,11,17,23,27,38,54,67,61,36,77.0,84.5,67.0
+UBCV,2023,W,MATH,100,,1A4,Differential Calculus with Applications,Wenzhao Chen;Masoud Daneshi;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean,448,76.1,,97.0,8.0,,,,,,,,,,,18,15,19,21,27,23,23,62,93,82,47,80.0,86.0,69.0
+UBCV,2023,W,MATH,100,,1AR,Differential Calculus with Applications,Wenzhao Chen;Sarah Dijols;Mark Thomson MacLean;Rodrigo Mitishita,191,65.6,,98.0,1.0,,,,,,,,,,,31,19,8,8,11,12,21,24,18,20,9,72.0,80.0,53.0
+UBCV,2023,W,MATH,101,,2C1,Integral Calculus with Applications,Teemu Jarvinen;Jakwang Kim;Petr Kosenko;Mark Thomson MacLean;Elyse Yeager,291,60.2,,100.0,0.0,,,,,,,,,,,63,38,39,26,21,23,26,13,21,8,7,60.0,72.0,50.0
+UBCV,2023,W,MATH,101,,2C3,Integral Calculus with Applications,Matthew Dickson;Teemu Jarvinen;Mark Thomson MacLean,263,57.9,,97.0,0.0,,,,,,,,,,,60,47,30,20,16,11,21,8,13,9,8,57.0,71.0,50.0
+UBCV,2023,W,MATH,200,,20R,Calculus III,Mark Thomson MacLean,99,68.8,,100.0,25.0,,,,,,,,,,,10,9,7,5,9,5,9,7,10,5,13,71.0,82.0,56.0
+UBCV,2023,W,MATH,253,,10R,Multivariable Calculus,Matthew Coles;Mark Thomson MacLean,747,71.5,,100.0,15.0,,,,,,,,,,,31,57,49,55,76,86,71,59,119,79,54,72.0,82.0,63.0

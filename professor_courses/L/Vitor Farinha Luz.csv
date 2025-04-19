@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,ECON,421,,001,INTR GAME THR AP,"Farinha Luz, Vitor",49,75.22,10.23,91,40,44,2,1,0,0,0,0,0,0,2,2,0,0,1,3,9,6,8,11,5,1,,,
+UBC,2015,W,ECON,514,,001,INFO & INCENTVES,"Farinha Luz, Vitor",16,88.27,6.19,97,77,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,9,,,
+UBC,2016,W,ECON,421,,001,INTR GAME THR AP,"Farinha Luz, Vitor",59,83.78,16.22,100,9,54,1,3,0,0,1,0,0,0,0,1,1,0,3,2,4,2,3,8,7,24,,,
+UBC,2016,W,ECON,500,,001,MICROECONOMICS,"Farinha Luz, Vitor",51,79.06,12.46,100,40,50,1,0,0,0,0,0,0,0,1,1,0,1,2,4,8,6,6,3,7,13,,,
+UBC,2017,W,ECON,421,,001,INTR GAME THR AP,"Farinha Luz, Vitor",47,80.46,11.31,96,51,46,0,1,0,0,0,0,0,0,0,0,1,1,2,3,4,3,4,5,11,12,,,
+UBC,2017,W,ECON,500,,001,MICROECONOMICS,"Farinha Luz, Vitor",49,82.55,7.94,97,57,47,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,5,7,11,12,9,,,
+UBC,2017,W,ECON,514,,001,INFO & INCENTVES,"Farinha Luz, Vitor",10,90,8.93,100,76,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,,,
+UBC,2018,W,ECON,421,,001,INTR GAME THR AP,"Farinha Luz, Vitor",44,76.64,16.21,100,11,37,2,5,0,0,0,1,0,1,0,2,0,1,2,2,3,6,5,7,5,6,,,
+UBC,2018,W,ECON,500,,001,MICROECONOMICS,"Farinha Luz, Vitor",65,82.36,8.34,96,57,64,0,1,0,0,0,0,0,0,0,0,0,1,0,3,2,5,13,9,16,15,,,
+UBC,2018,W,ECON,514,,001,INFO & INCENTVES,"Farinha Luz, Vitor",24,90.88,4.86,98,83,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,13,,,
+UBCV,2015,W,ECON,421,,001,Introduction to Game Theory and Applications.,David Christopher Macdonald;David Macdonald;Vitor Farinha Luz,48,74.666666667,10.364286744,91.0,40.0,,,,,,,,,,,,,,,,9,6,8,11,5,,,,
+UBCV,2015,W,ECON,514,,001,Information and Incentives,Vitor Farinha Luz,15,88.266666667,6.192929917,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,9,,,
+UBCV,2016,W,ECON,421,,001,Introduction to Game Theory and Applications.,Jacob Schwartz;Vitor Farinha Luz,56,82.875,17.44817,100.0,9.0,,,,,,,,,,,2,1,0,3,2,4,2,3,8,7,24,,,
+UBCV,2016,W,ECON,500,,001,Microeconomics,Vitor Farinha Luz;Wing Tung Lam;Xiaodi Ni,51,79.05882353,12.45698481,100.0,40.0,,,,,,,,,,,2,0,0,2,4,8,6,6,3,7,13,,,
+UBCV,2017,W,ECON,421,,001,Introduction to Game Theory and Applications.,Pedro Martins Pessoa;Vitor Farinha Luz,46,80.456521739,11.311167582,96.0,51.0,,,,,,,,,,,0,1,1,2,3,4,3,4,5,11,12,,,
+UBCV,2017,W,ECON,500,,001,Microeconomics,Clemens Possnig;German Antonio Vega Acuna;German Vega Acuna;Vitor Farinha Luz,47,82.553191489,7.939468032,97.0,57.0,,,,,,,,,,,0,0,,,1,1,5,7,11,12,9,,,
+UBCV,2017,W,ECON,514,,001,Information and Incentives,Vitor Farinha Luz,9,90.0,8.93028555,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,4,,,
+UBCV,2018,W,ECON,421,,001,Introduction to Game Theory and Applications.,Deivis Angeli;Vitor Farinha Luz,39,76.641025641,16.205079092,100.0,11.0,,,,,,,,,,,2,0,1,2,2,3,6,5,7,5,6,,,
+UBCV,2018,W,ECON,500,,001,Microeconomics,Clemens Possnig;German Antonio Vega Acuna;German Vega Acuna;Vitor Farinha Luz,64,82.40625,8.199339404,96.0,60.0,,,,,,,,,,,0,0,0,1,3,2,5,13,9,16,15,,,
+UBCV,2018,W,ECON,514,,001,Information and Incentives,Vitor Farinha Luz,24,90.875,4.857199945,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,13,,,
+UBCV,2018,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo;Valencia Caicedo Felipe;Vitor Farinha Luz,8,92.75,6.135377506,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2019,W,ECON,421,,001,Introduction to Game Theory and Applications.,Leopoldo Millan Gutierre;Pedro Martins Pessoa;Vitor Farinha Luz,39,81.179487179,10.884251769,97.0,55.0,,,,,,,,,,,0,0,2,2,2,2,1,6,1,15,8,,,
+UBCV,2019,W,ECON,500,,001,Microeconomics,Clemens Possnig;Paul Corcuera Garcia;Paul Josemaria Corcuera Garcia;Sebastian Gomez Cardona;Vitor Farinha Luz,49,79.408163265,9.547945607,99.0,60.0,,,,,,,,,,,0,0,0,2,3,6,8,5,8,10,7,,,
+UBCV,2019,W,ECON,514,,001,Information and Incentives,Mahdi Ebrahimikahou;Vitor Farinha Luz,7,85.285714286,7.43223353,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,2,,,
+UBCV,2020,W,ECON,102,,002,Principles of Macroeconomics,Mahdi Ebrahimikahou;Vitor Farinha Luz;Wai-Ching Alfred Kong,88,71.795454545,9.056856285,87.0,38.0,,,,,,,,,,,1,2,5,8,8,16,16,12,17,3,0,,,
+UBCV,2020,W,ECON,500,,001,Microeconomics,Anand Chopra;Hao Li;Vitor Farinha Luz;Yupei Ma,57,83.98245614,9.786089304,99.0,30.0,,,,,,,,,,,1,0,0,0,1,1,2,7,16,14,15,,,
+UBCV,2020,W,ECON,601,,001,Microeconomics II,Anubhav Jha;Sergei Severinov;Vitor Farinha Luz,15,90.666666667,6.125668088,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,6,,,
+UBCV,2021,W,ECON,316,,001,Intermediate Microeconomics II,Anubhav Jha;Gustavo Tovar Albuquerque;Vitor Farinha Luz,92,80.489130435,11.950901906,100.0,54.0,,,,,,,,,,,0,1,3,7,8,3,6,12,11,17,24,,,
+UBCV,2021,W,ECON,500,,001,Microeconomics,Hao Li;Shiming Wu;Vitor Farinha Luz;Yupei Ma,46,81.543478261,13.22742357,97.0,33.0,,,,,,,,,,,3,0,0,1,1,2,2,6,7,12,12,,,
+UBCV,2021,W,ECON,601,,001,Microeconomics II,Bufang Duan;Vitor Farinha Luz,23,90.347826087,6.951838839,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,14,,,
+UBCV,2021,W,ECON,316,,001,Intermediate Microeconomics II,Vitor Farinha Luz,92,80.6,,100.0,54.0,,,,,,,,,,,,,,7,8,,6,12,11,16,25,82.5,91.0,73.8
+UBCV,2021,W,ECON,500,,001,Microeconomics,Vitor Farinha Luz,46,81.5,,97.0,33.0,,,,,,,,,,,,,,,,,,6,7,12,12,85.0,89.8,77.3
+UBCV,2021,W,ECON,601,,001,Microeconomics II,Vitor Farinha Luz,23,90.3,,100.0,76.0,,,,,,,,,,,,,,,,,,,,,14,90.0,96.0,86.0
+UBCV,2022,W,ECON,316,,001,Intermediate Microeconomics II,Vitor Farinha Luz,89,79.4,,97.0,53.0,,,,,,,,,,,0,1,1,4,8,4,12,11,17,21,10,81.0,88.0,73.0
+UBCV,2022,W,ECON,500,,001,Microeconomics,Vitor Farinha Luz,40,88.0,,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,18,14,88.0,90.5,85.8
+UBCV,2022,W,ECON,601,,001,Microeconomics II,Vitor Farinha Luz,20,84.8,,95.0,47.0,,,,,,,,,,,1,0,0,0,0,1,1,1,1,9,6,88.5,90.3,84.0
+UBCV,2023,W,ECON,316,,001,Intermediate Microeconomics II,Vitor Farinha Luz,89,82.3,,100.0,58.0,,,,,,,,,,,0,0,1,2,1,5,12,16,16,13,23,83.0,90.0,76.0
+UBCV,2023,W,ECON,500,,001,Microeconomics,Vitor Farinha Luz,50,79.9,,100.0,60.0,,,,,,,,,,,0,0,0,1,2,5,5,10,13,7,7,80.0,85.0,74.5
+UBCV,2023,W,ECON,601,,001,Microeconomics II,Vitor Farinha Luz,21,79.8,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,10,1,5,1,4,76.0,83.0,74.0

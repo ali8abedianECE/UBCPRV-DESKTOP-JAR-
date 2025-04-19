@@ -1,0 +1,65 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,SPAN,102,,205,Beginners' Spanish II,Enrique Manchon;Joyce Lubert,23,66.08695652,19.10714536,89.0,10.0,3,1,2,2,3,1,4,1,2,4,0,,,
+UBCV,2017,W,SPAN,101,,111,Beginners' Spanish I,Enrique Manchon;Joyce Lubert,34,72.588235294,8.975109173,89.0,56.0,0,0,3,4,3,3,9,4,5,3,0,,,
+UBCV,2017,W,SPAN,101,,116,Beginners' Spanish I,Enrique Manchon;Joyce Lubert,33,72.363636364,10.945370545,96.0,50.0,0,4,1,1,4,4,6,4,6,2,1,,,
+UBCV,2017,W,SPAN,102,,210,Beginners' Spanish II,Brianne Orr Alvarez;Brianne Orr-Alvarez;Joyce Lubert,33,72.666666667,11.367900715,92.0,50.0,0,3,3,0,4,3,6,5,3,4,2,,,
+UBCV,2018,W,SPAN,101,,111,Beginners' Spanish I,Enrique Manchon;Joyce Lubert,32,75.6875,11.985037715,94.0,42.0,1,1,0,4,2,2,3,3,8,7,1,,,
+UBCV,2018,W,SPAN,101,,116,Beginners' Spanish I,Enrique Manchon;Joyce Lubert,34,78.147058824,12.541162174,96.0,40.0,2,1,0,1,0,1,5,6,5,11,2,,,
+UBCV,2018,W,SPAN,102,,209,Beginners' Spanish II,Brianne Orr Alvarez;Brianne Orr-Alvarez;Joyce Lubert,24,71.416666667,12.416387021,93.0,51.0,0,2,3,2,2,5,2,2,1,2,3,,,
+UBCV,2019,W,FREN,101,,116,Beginners' French I,Joyce Lubert,28,80.928571429,19.296763443,97.0,0.0,1,0,1,0,1,1,3,4,3,2,12,,,
+UBCV,2019,W,FREN,101,,202,Beginners' French I,Joyce Lubert;Soline Milet,31,81.322580645,22.115435178,98.0,0.0,2,0,1,1,0,3,0,1,1,7,15,,,
+UBCV,2019,W,FREN,101,,204,Beginners' French I,Joyce Lubert,29,84.275862069,12.371905246,99.0,56.0,0,0,2,0,2,2,2,0,3,6,12,,,
+UBCV,2019,W,FREN,102,,210,Beginners' French II,Joyce Lubert,26,78.269230769,16.910488325,96.0,13.0,1,0,2,0,1,1,3,5,2,4,7,,,
+UBCV,2019,W,FREN,111,,110,Elementary French I,Joyce Lubert;William Winder,32,71.75,12.528676783,98.0,51.0,0,1,3,5,6,5,3,0,1,4,4,,,
+UBCV,2019,W,FREN,122,,104,Intermediate French I,Joyce Lubert;Richard Hodgson,26,75.192307692,8.438100406,92.0,60.0,0,0,0,3,2,5,2,4,8,1,1,,,
+UBCV,2019,W,FREN,122,,109,Intermediate French I,Anna Machala;Joyce Lubert,31,76.032258065,10.672343919,89.0,50.0,0,2,1,1,2,3,3,5,6,8,0,,,
+UBCV,2020,S,FREN,101,,924,Beginners' French I,Anna Marzena Machala;Joyce Lubert,31,83.838709677,9.427254016,97.0,66.0,0,0,0,0,1,4,2,4,4,3,13,,,
+UBCV,2020,S,FREN,101,,925,Beginners' French I,Joyce Lubert,27,82.851851852,6.596640775,97.0,70.0,0,0,0,0,0,2,2,2,12,5,4,,,
+UBCV,2020,W,FREN,101,,107,Beginners' French I,Joyce Lubert;Nicholas Bartlett,31,82.741935484,7.962276651,98.0,65.0,0,0,0,0,3,0,4,2,6,10,6,,,
+UBCV,2020,W,FREN,101,,108,Beginners' French I,Joyce Lubert,30,82.5,16.992391807,96.0,0.0,1,0,0,0,0,0,3,3,6,9,8,,,
+UBCV,2020,W,FREN,101,,112,Beginners' French I,Joyce Lubert;Somayeh Kamranian,28,80.964285714,10.156122557,97.0,53.0,0,1,1,0,0,1,3,3,8,6,5,,,
+UBCV,2020,W,FREN,101,,202,Beginners' French I,Joyce Lubert;Liza Bolen,32,79.34375,8.380504931,91.0,51.0,0,1,0,0,0,3,7,4,6,6,5,,,
+UBCV,2020,W,FREN,101,,901,Beginners' French I,Joyce Lubert;Nicholas Bartlett;Nicolas Bernier-Wong,45,82.955555556,14.048544984,94.0,0.0,1,0,0,0,1,1,1,2,17,10,12,,,
+UBCV,2020,W,FREN,102,,209,Beginners' French II,Joyce Lubert,33,81.03030303,9.335700457,96.0,62.0,0,0,0,2,2,2,1,7,3,10,6,,,
+UBCV,2020,W,FREN,102,,210,Beginners' French II,Joseph Bouchard;Joyce Lubert;Somayeh Kamranian,29,89.413793103,6.091664336,97.0,70.0,0,0,0,0,0,1,0,1,2,9,16,,,
+UBCV,2020,W,FREN,102,,211,Beginners' French II,Joyce Lubert,33,77.696969697,16.371631044,95.0,0.0,1,0,0,1,3,2,3,0,13,7,3,,,
+UBCV,2020,W,FREN,102,,901,Beginners' French II,Joyce Lubert;Vincent Gelinas-Lemaire,35,83.628571429,6.860310893,94.0,64.0,0,0,0,0,1,3,1,1,9,15,5,,,
+UBCV,2021,S,FREN,101,,921,Beginners' French I,Joyce Lubert;Nicolas Bernier-Wong;Somayeh Kamranian,44,87.590909091,6.841454292,94.0,59.0,0,0,1,0,1,0,1,0,4,14,23,,,
+UBCV,2021,S,FREN,101,,922,Beginners' French I,Joyce Lubert;Nicolas Bernier-Wong,32,86.625,4.975747634,96.0,78.0,0,0,0,0,0,0,0,2,8,14,8,,,
+UBCV,2021,S,FREN,101,,924,Beginners' French I,Isabelle Delage-Beland;Joel Akinwumi;Joyce Lubert,41,86.073170732,8.784617931,98.0,56.0,0,0,1,1,0,0,4,0,6,9,20,,,
+UBCV,2021,S,FREN,102,,921,Beginners' French II,Joyce Lubert;Liza Bolen;Soline Milet,27,82.185185185,8.241718627,96.0,63.0,0,0,0,1,1,0,2,7,5,6,5,,,
+UBCV,2021,W,FREN,101,,103,Beginners' French I,Joyce Lubert;Judy Lee;Robert Miller,34,80.205882353,17.225385445,97.0,0.0,1,0,1,2,1,0,2,2,7,12,6,,,
+UBCV,2021,W,FREN,101,,105,Beginners' French I,John Culbert;Joyce Lubert;Judy Lee;Marie Renou,34,79.617647059,13.742247855,95.0,42.0,3,0,0,1,0,2,3,0,9,10,6,,,
+UBCV,2021,W,FREN,101,,113,Beginners' French I,Christine Rouget;Joyce Lubert;Judy Lee,47,83.957446809,7.68951134,95.0,60.0,0,0,0,1,1,1,3,6,8,16,11,,,
+UBCV,2021,W,FREN,101,,901,Beginners' French I,Joyce Lubert;Judy Lee;Sima Godfrey,32,81.3125,9.640096038,94.0,55.0,0,0,1,0,3,1,3,4,6,5,9,,,
+UBCV,2021,W,FREN,102,,204,Beginners' French II,Joyce Lubert;Juliet O'Brien;Magali Blanc;Soline Milet,31,80.225806452,16.550346779,91.0,0.0,1,0,0,1,1,0,2,3,7,11,5,,,
+UBCV,2021,W,FREN,102,,209,Beginners' French II,Carlo Testa;Joyce Lubert;Judy Lee;Somayeh Kamranian,51,84.078431373,9.11667294,97.0,35.0,1,0,0,0,0,2,2,2,16,17,11,,,
+UBCV,2021,W,FREN,102,,211,Beginners' French II,Joyce Lubert;Sima Godfrey,34,82.088235294,16.177739377,93.0,0.0,1,0,1,0,0,1,1,2,7,13,8,,,
+UBCV,2021,W,FREN,202,,209,Elementary French II,Fitia Ranaivo-Harisoa;Joyce Lubert;Somayeh Kamranian,34,77.882352941,16.232710534,95.0,1.0,1,0,0,2,1,4,3,4,7,7,5,,,
+UBCV,2021,S,FREN,101,,921,Beginners' French I,Joyce Lubert,44,87.6,,94.0,59.0,,,,,,,,,,14,23,90.0,91.3,86.0
+UBCV,2021,S,FREN,101,,922,Beginners' French I,Joyce Lubert,32,86.6,,96.0,78.0,,,,,,,,,8,14,8,86.5,89.5,82.0
+UBCV,2021,S,FREN,102,,921,Beginners' French II,Joyce Lubert,27,82.2,,96.0,63.0,,,,,,,,7,,6,,83.0,88.5,77.5
+UBCV,2021,W,FREN,101,,103,Beginners' French I,Joyce Lubert,34,80.2,,97.0,0.0,,,,,,,,,7,12,6,85.0,88.0,78.8
+UBCV,2021,W,FREN,101,,105,Beginners' French I,Joyce Lubert,34,79.6,,95.0,42.0,,,,,,,,,9,10,6,84.0,87.8,74.8
+UBCV,2021,W,FREN,101,,113,Beginners' French I,Joyce Lubert,47,84.0,,95.0,60.0,,,,,,,,6,8,16,11,85.0,89.0,79.5
+UBCV,2021,W,FREN,101,,901,Beginners' French I,Joyce Lubert,32,81.3,,94.0,55.0,,,,,,,,,6,,9,82.5,90.0,75.8
+UBCV,2021,W,FREN,102,,204,Beginners' French II,Joyce Lubert,31,80.2,,91.0,0.0,,,,,,,,,7,11,,85.0,88.0,79.5
+UBCV,2021,W,FREN,102,,209,Beginners' French II,Joyce Lubert,51,84.1,,97.0,35.0,,,,,,,,,16,17,11,86.0,88.5,81.5
+UBCV,2021,W,FREN,102,,211,Beginners' French II,Joyce Lubert,33,84.6,,93.0,57.0,,,,,,,,,7,13,8,86.0,89.0,82.0
+UBCV,2022,S,FREN,101,,921,Beginners' French I,Joyce Lubert,39,81.3,,96.0,56.0,0,0,2,2,0,1,4,2,11,6,11,84.0,90.0,76.5
+UBCV,2022,S,FREN,101,,922,Beginners' French I,Joyce Lubert,31,78.1,,96.0,0.0,2,0,0,0,1,3,4,3,2,10,6,85.0,87.5,75.0
+UBCV,2022,S,FREN,102,,921,Beginners' French II,Joyce Lubert,51,82.3,,98.0,46.0,1,0,0,0,1,3,4,7,12,15,8,83.0,88.0,78.0
+UBCV,2022,W,FREN,101,,103,Beginners' French I,Joyce Lubert,52,84.1,,97.0,57.0,0,0,1,2,1,4,2,2,9,9,22,87.0,91.3,80.0
+UBCV,2022,W,FREN,101,,104,Beginners' French I,Joyce Lubert,30,82.3,,97.0,51.0,0,1,1,0,1,1,2,2,9,4,9,83.0,90.0,78.5
+UBCV,2022,W,FREN,101,,116,Beginners' French I,Joyce Lubert,28,82.5,,94.0,70.0,0,0,0,0,0,4,2,4,5,6,7,84.0,88.5,76.8
+UBCV,2022,W,FREN,102,,201,Beginners' French II,Joyce Lubert,45,82.9,,96.0,58.0,0,0,1,2,1,2,3,5,7,11,13,85.0,90.0,78.0
+UBCV,2022,W,FREN,102,,202,Beginners' French II,Joyce Lubert,53,81.8,,93.0,51.0,0,1,0,1,4,2,4,3,14,11,13,83.0,89.0,79.0
+UBCV,2022,W,FREN,301,,105,Intermediate French I,Joyce Lubert,33,80.2,,97.0,50.0,0,1,0,0,2,1,4,3,12,6,4,81.0,86.0,76.0
+UBCV,2022,W,FREN,302,,203,Intermediate French II,Joyce Lubert,32,84.9,,96.0,64.0,0,0,0,0,1,0,3,1,5,13,9,86.0,90.0,82.0
+UBCV,2023,S,FREN,101,,922,Beginners' French I,Joyce Lubert,26,84.77,,96.0,68.0,0,0,0,0,0,1,2,3,4,3,9,86.0,91.75,77.75
+UBCV,2023,W,FREN,101,,104,Beginners' French I,Joyce Lubert,33,86.1,,97.0,72.0,0,0,0,0,0,0,3,3,6,8,12,87.0,92.0,81.5
+UBCV,2023,W,FREN,101,,105,Beginners' French I,Joyce Lubert,54,81.2,,96.0,51.0,0,1,1,1,1,6,5,3,7,14,13,85.0,88.5,73.8
+UBCV,2023,W,FREN,101,,113,Beginners' French I,Joyce Lubert,34,76.3,,94.0,20.0,1,0,1,2,2,2,3,6,6,7,3,79.0,85.0,73.0
+UBCV,2023,W,FREN,102,,209,Beginners' French II,Joyce Lubert,35,79.1,,95.0,0.0,1,0,1,1,2,3,3,2,5,4,12,83.5,90.8,72.0
+UBCV,2023,W,FREN,102,,210,Beginners' French II,Joyce Lubert,35,82.2,,98.0,0.0,1,0,0,0,0,2,3,2,6,11,9,86.0,89.8,80.5
+UBCV,2023,W,FREN,202,,207,Elementary French II,Joyce Lubert,35,79.3,,91.0,59.0,0,0,1,2,1,3,3,5,8,8,4,81.0,87.0,75.0

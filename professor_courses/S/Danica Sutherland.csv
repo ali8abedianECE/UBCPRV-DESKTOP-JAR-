@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CPSC,340,,101,Machine Learning and Data Mining,Danica Sutherland;Daniel Ajisafe;Dylan Green;Ken Johnson;Liron Kurzman;Michael Liu;Niloofar Khoshsiyar;Ruiyu Gou;Tianyue Zhang;Yen Fu Lin,86,78.011627907,16.205659277,100.0,12.0,4,3,5,3,5,6,8,7,11,9,25,,,
+UBCV,2021,W,CPSC,532,S,201,Topics in Artificial Intelligence,Danica Sutherland,22,91.818181818,5.611521851,100.0,80.0,0,0,0,0,0,0,0,0,3,3,16,,,
+UBCV,2021,W,CPSC,340,,101,Machine Learning and Data Mining,Danica Sutherland,86,78.0,,100.0,12.0,,,,,,6,8,7,11,9,25,80.5,91.8,68.0
+UBCV,2021,W,CPSC,532,S,201,Topics in Artificial Intelligence,Danica Sutherland,22,91.8,,100.0,80.0,,,,,,,,,,,16,91.5,96.0,89.3
+UBCV,2022,W,CPSC,440,,201,Advanced Machine Learning,Danica Sutherland,69,84.1,,95.0,6.0,2,0,0,1,0,0,3,8,11,20,24,88.0,91.0,81.0
+UBCV,2022,W,CPSC,532,D,101,Topics in Artificial Intelligence,Danica Sutherland,21,89.5,,100.0,28.0,2,0,0,0,0,0,0,0,0,2,17,95.0,97.0,90.0
+UBCV,2022,W,CPSC,540,,201,Machine Learning,Danica Sutherland,22,89.2,,95.0,72.0,0,0,0,0,0,0,1,1,0,6,14,91.0,92.0,87.3
+UBCV,2023,W,CPSC,440,,201,Advanced Machine Learning,Danica Sutherland,96,85.9,,100.0,56.0,0,0,2,1,2,1,2,5,18,33,31,87.0,91.0,82.5
+UBCV,2023,W,CPSC,532,D,101,Topics in Artificial Intelligence,Danica Sutherland,15,86.0,,96.0,68.0,0,0,0,0,0,1,1,0,2,5,5,88.0,91.0,84.3
+UBCV,2023,W,CPSC,550,,201,Machine Learning II,Danica Sutherland,16,88.7,,98.0,81.0,0,0,0,0,0,0,0,0,5,2,6,88.0,94.0,83.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,340,,201,INTRO LIN PROG,"Gomez Aiza, Ricardo",109,70.18,15.47,100,21,97,7,4,0,1,0,0,3,0,4,7,7,8,7,10,14,8,9,13,10,11
+UBC,2016,W,MATH,340,,202,INTRO LIN PROG,"Gomez Aiza, Ricardo",119,72.16,15.23,100,30,109,7,1,0,2,0,0,0,1,6,7,7,4,18,10,6,14,9,11,7,23
+UBCV,2016,W,MATH,340,,201,Introduction to Linear Programming,Ricardo Gomez Aiza;Richard Anstee,105,69.57142857,16.61953042,100.0,6.0,,,,,,,,,,,8,7,8,7,10,14,8,9,13,10,11
+UBCV,2016,W,MATH,340,,202,Introduction to Linear Programming,Ricardo Gomez Aiza;Richard Anstee,118,71.3559322,16.28985601,100.0,23.0,,,,,,,,,,,9,7,4,18,10,6,14,9,11,7,23

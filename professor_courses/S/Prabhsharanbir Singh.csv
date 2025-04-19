@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,SOCI,260,A,002,TECHNOLOGY,"Singh, Prabhsharanbir",24,79.35,3.98,87,73,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,9,2,0
+UBC,2015,W,SOCI,260,A,003,TECHNOLOGY,"Singh, Prabhsharanbir",28,76.56,8.21,87,55,27,0,0,1,0,0,0,0,0,0,0,0,1,2,0,2,6,5,6,5,0
+UBC,2015,W,SOCI,470,A,004,CRIME & JUSTICE,"Singh, Prabhsharanbir",40,78.79,5.07,90,70,38,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,7,9,13,5,1
+UBC,2016,S,SOCI,260,A,921,TECHNOLOGY,"Singh, Prabhsharanbir",73,79.77,5.4,90,61,70,0,2,0,0,0,0,0,0,0,0,0,0,1,2,2,10,9,33,12,1
+UBC,2016,W,SOCI,260,A,004,TECHNOLOGY,"Singh, Prabhsharanbir",45,79.39,5,90,67,44,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,19,9,6,2
+UBC,2016,W,SOCI,342,,004,CONSUM&CONSUMPTN,"Singh, Prabhsharanbir",56,80.55,7.15,91,40,54,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,3,12,24,12,2
+UBC,2017,W,SOCI,260,A,004,TECHNOLOGY,"Singh, Prabhsharanbir",63,80.29,10.24,94,21,60,2,0,0,0,0,0,1,0,1,2,0,0,0,0,1,5,11,25,13,5
+UBC,2017,W,SOCI,342,,004,CONSUM&CONSUMPTN,"Singh, Prabhsharanbir",62,79.63,7.83,94,42,61,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,12,16,19,6,6
+UBC,2018,S,SOCI,342,,921,CONSUM&CONSUMPTN,"Singh, Prabhsharanbir",73,80.39,7.32,96,47,69,1,1,0,0,0,0,0,0,1,1,0,0,0,0,4,9,17,21,10,8
+UBC,2018,W,SOCI,260,,202,TECHNOLOGY,"Singh, Prabhsharanbir",20,85,4.65,92,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,7,4
+UBCV,2014,W,SOCI,260,A,002,"Technology, Work and Society",Prabhsharanbir Singh,24,79.54166667,4.010628994,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,8,10,2,0
+UBCV,2015,W,SOCI,260,A,003,"Technology, Work and Society",Prabhsharanbir Singh,27,76.555555556,8.205689083,87.0,55.0,,,,,,,,,,,0,0,,,,,6,5,6,5,0
+UBCV,2015,W,SOCI,470,A,004,Sociology of Crime and Justice,Prabhsharanbir Singh,39,78.948717949,5.103913452,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,7,9,13,6,
+UBCV,2016,S,SOCI,260,A,921,"Technology, Work and Society",Laura Sierra;Prabhsharanbir Singh,71,79.57746479,5.602708457,90.0,61.0,,,,,,,,,,,0,0,0,1,3,2,10,9,33,12,1
+UBCV,2016,W,SOCI,260,A,004,"Technology, Work and Society",Kacey Ng;Prabhsharanbir Singh,45,79.37777778,4.946481251,90.0,67.0,,,,,,,,,,,0,0,0,0,1,1,6,20,9,6,2
+UBCV,2016,W,SOCI,342,,004,Consumers and Consumption,Prabhsharanbir Singh;Sherrie Dilley,56,80.625,7.10585546,91.0,40.0,,,,,,,,,,,1,0,0,0,0,1,3,12,24,13,2
+UBCV,2017,W,SOCI,260,A,004,"Technology, Work and Society",Prabhsharanbir Singh;Zhonghao Wang,63,80.206349206,10.182462359,94.0,21.0,,,,,,,,,,,2,0,0,0,0,1,6,11,25,13,5
+UBCV,2017,W,SOCI,342,,004,Consumers and Consumption,Prabhsharanbir Singh;Robin Sydneysmith;Teala Volkamer,62,79.629032258,7.832747296,94.0,42.0,,,,,,,,,,,1,0,0,0,1,1,12,16,19,6,6
+UBCV,2018,S,SOCI,342,,921,Consumers and Consumption,Prabhsharanbir Singh;Zhonghao Wang,72,80.236111111,7.303275467,96.0,47.0,,,,,,,,,,,1,0,0,0,0,5,9,18,21,10,8
+UBCV,2018,W,SOCI,260,,202,"Technology, Work and Society",Prabhsharanbir Singh,20,85.0,4.645314561,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,7,4
+UBCV,2019,W,SOCI,342,,102,Consumers and Consumption,Jean Chretien;Prabhsharanbir Singh,77,78.12987013,8.850142207,88.0,30.0,,,,,,,,,,,1,2,0,0,2,6,7,18,30,11,0
+UBCV,2020,W,SOCI,220,,201,Sociology of Indigenous Peoples,Kimberly Huyser;Nathan Vadeboncoeur;Prabhsharanbir Singh;Yi-Ching Lin,35,87.685714286,13.877131905,99.0,25.0,,,,,,,,,,,1,0,0,0,1,1,0,3,3,6,20
+UBCV,2020,W,SOCI,449,,301,Honours Tutorial,Oral Robinson;Prabhsharanbir Singh,9,90.222222222,3.492054473,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,4

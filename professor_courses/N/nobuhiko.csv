@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",13,84.31,5.74,97,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,2
+UBC,2014,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",14,85.14,4.96,96,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,2
+UBC,2015,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,86.17,3.97,92,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,3
+UBC,2015,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,87.22,4.39,96,79,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,6
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2016,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,78.67,2.33,83,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,6,0,0
+UBC,2016,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,81.72,4.36,91,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,4,1
+UBC,2017,W,BIOC,303,,001,MOLECULAR BIOC,"Duong Van Hoa, Franck;Mayor, Thibault;Numata, Masayuki;Tokuriki, Nobuhiko",110,75.93,9.69,93,37,105,2,3,0,0,0,0,0,1,1,2,1,1,8,5,12,15,22,21,14,6
+UBC,2017,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",15,81.33,6.7,91,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,6,3,2
+UBC,2017,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",17,86.06,4.38,92,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,4
+UBC,2017,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Rieseberg, Loren;Rossi, Fabio;Tokuriki, Nobuhiko",15,92.73,3.73,97,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2018,W,BIOC,303,,001,MOLECULAR BIOC,"Mayor, Thibault;Tokuriki, Nobuhiko",131,73.5,9.72,94,43,127,2,1,0,1,0,0,0,0,2,2,2,7,11,11,16,21,22,24,9,4

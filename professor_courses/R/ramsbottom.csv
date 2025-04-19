@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MUSC,162,,006,WIND&PERC CH ENS,"Ramsbottom, Gene",9,90.56,6.42,96,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7
+UBC,2005,W,MUSC,162,A,006,WIND&PERC CH ENS,"Ramsbottom, Gene",12,85.42,3.96,92,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,3
+UBC,2006,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",23,86.26,5.11,95,73,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,11,5
+UBC,2006,W,MUSC,162,F,001,WIND&PERC CH ENS,"Ramsbottom, Gene",4,88.75,6.29,95,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2007,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",17,81,8.99,96,58,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,7,3,2
+UBC,2009,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",18,81.35,5.75,92,74,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,5,1
+UBC,2009,W,MUSC,162,A,001,WIND&PERC CH ENS,"Cole, Roger;Fedoruk, Brenda Louise;Ramsbottom, Gene;Read, Jesse",27,87.33,6.84,95,70,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,6,15
+UBC,2009,W,MUSC,562,A,001,CHAMBER ENSEMBLE,"Cole, Roger;Fedoruk, Brenda Louise;Ramsbottom, Gene;Read, Jesse",11,90.55,3.42,95,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+UBC,2010,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",19,83.79,6.94,97,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,7,3
+UBC,2011,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",17,81.29,7.21,90,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,6,2
+UBC,2012,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,81.21,7.36,97,66,19,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,6,1
+UBC,2013,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",18,85.28,5.95,95,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,7,4
+UBC,2014,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,77.3,12.7,94,42,19,1,0,0,0,0,0,0,0,1,1,0,1,1,0,2,1,5,4,2,3
+UBC,2015,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",22,81.82,7.35,92,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,6,6,3
+UBC,2016,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",19,85.17,9.34,99,66,18,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,2,9

@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,COMM,336,,201,INTRO TO E-BUSI,"Nan, Ning",35,72.69,8.64,87,55,35,0,0,0,0,0,0,0,0,0,0,0,4,3,2,4,6,7,7,2,0,,,
+UBC,2012,W,COMM,336,,202,INTRO TO E-BUSI,"Nan, Ning",26,76.46,6.63,90,60,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,3,6,8,2,1,,,
+UBC,2013,W,COMM,336,,201,INTRO TO E-BUSI,"Nan, Ning",24,75.79,6.17,85,62,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,7,6,2,0,,,
+UBC,2013,W,COMM,336,,202,INTRO TO E-BUSI,"Nan, Ning",38,78.58,5.2,90,66,36,0,2,0,0,0,0,0,0,0,0,0,0,0,1,3,6,8,14,3,1,,,
+UBC,2014,W,BAIT,580,B,001,TPCS INFO TECH,"Nan, Ning",6,86.4,5.73,93,79,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,,,
+UBC,2014,W,COMM,336,,201,INTRO TO E-BUSI,"Nan, Ning",26,75.81,6.78,90,60,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,8,7,3,2,1,,,
+UBC,2014,W,COMM,336,,202,INTRO TO E-BUSI,"Nan, Ning",28,79.61,5.5,90,66,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,4,10,5,1,,,
+UBC,2015,W,BAIT,513,,815,MANAGING E-BUSI,"Nan, Ning",35,84.03,3.03,91,80,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,12,2,,,
+UBC,2016,W,COMM,336,,201,INTRO TO E-BUSI,"Nan, Ning",32,80.44,6.43,90,66,32,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,5,8,10,1,,,
+UBC,2016,W,COMM,336,,202,INTRO TO E-BUSI,"Nan, Ning",29,81.07,4.49,90,71,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,12,6,1,,,
+UBC,2017,W,BAIT,513,,816,MANAGING E-BUSI,"Nan, Ning",29,84.41,4.21,93,76,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,10,4,,,
+UBC,2017,W,COMM,336,,201,INTRO TO E-BUSI,"Nan, Ning",31,79.13,6.62,90,60,31,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,7,11,6,1,,,
+UBC,2017,W,COMM,336,,202,INTRO TO E-BUSI,"Nan, Ning",39,78.92,7.25,91,52,39,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4,3,8,14,7,1,,,
+UBC,2018,W,COMM,437,,101,DATABASE TECH,"Nan, Ning",44,78.65,7.81,90,54,43,0,1,0,0,0,0,0,0,0,0,1,1,0,0,5,5,12,10,7,2,,,
+UBC,2018,W,COMM,437,,201,DATABASE TECH,"Nan, Ning",42,78.64,9.81,93,48,41,1,0,0,0,0,0,0,0,1,1,1,1,0,2,1,7,8,7,10,4,,,
+UBC,2018,W,COMM,437,,202,DATABASE TECH,"Nan, Ning",41,80.71,7.22,92,61,41,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,3,9,8,14,3,,,
+UBCV,2014,W,BAIT,580,B,001,Topics in Information Technology Management,Ning Nan,5,86.4,5.727128425,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2014,W,COMM,336,,201,Introduction to e-Business,Ning Nan,26,75.80769231,6.776543253,90.0,60.0,,,,,,,,,,,0,0,0,,,,8,7,3,2,,,,
+UBCV,2014,W,COMM,336,,202,Introduction to e-Business,Ning Nan,28,79.60714286,5.499759495,90.0,66.0,,,,,,,,,,,0,0,0,0,,,6,4,10,5,,,,
+UBCV,2015,W,BAIT,513,,815,Managing e-Business,Ning Nan,35,84.028571429,3.033981216,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,21,12,2,,,
+UBCV,2016,W,COMM,336,,201,Introduction to e-Business,Adrianna Chen;Ning Nan,32,80.4375,6.430459272,90.0,66.0,,,,,,,,,,,0,0,0,0,2,2,4,5,8,10,1,,,
+UBCV,2016,W,COMM,336,,202,Introduction to e-Business,Adrianna Chen;Ning Nan,29,81.06896552,4.487530617,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,6,12,6,1,,,
+UBCV,2017,W,BAIT,513,,816,Managing e-Business,Ning Nan,29,84.413793103,4.213221039,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,12,10,4,,,
+UBCV,2017,W,COMM,336,,201,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,31,79.129032258,6.616856935,90.0,60.0,,,,,,,,,,,0,0,0,2,0,1,3,7,11,6,1,,,
+UBCV,2017,W,COMM,336,,202,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,39,78.923076923,7.248900517,91.0,52.0,,,,,,,,,,,0,1,0,1,0,4,3,8,14,7,1,,,
+UBCV,2018,W,COMM,437,,101,Database Technology,Ning Nan;Pattharin Tangwaragorn;Rebecca Chen;Rebecca Y Chen,43,78.651162791,7.809895191,90.0,54.0,,,,,,,,,,,0,1,1,0,0,5,5,12,10,7,2,,,
+UBCV,2018,W,COMM,437,,201,Database Technology,Ning Nan;Pattharin Tangwaragorn;Rebecca Chen;Rebecca Y Chen,42,78.642857143,9.809953702,93.0,48.0,,,,,,,,,,,1,1,1,0,2,1,7,8,7,10,4,,,
+UBCV,2018,W,COMM,437,,202,Database Technology,Ning Nan;Pattharin Tangwaragorn;Rebecca Chen;Rebecca Y Chen,41,80.707317073,7.222340003,92.0,61.0,,,,,,,,,,,0,0,0,2,1,1,3,9,8,14,3,,,
+UBCV,2019,W,COEC,437,,001,Database Technology,Curtis Koo;Ning Nan;Pattharin Tangwaragorn,22,83.909090909,5.299677357,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,5,11,2,,,
+UBCV,2019,W,COMM,437,,101,Database Technology,Curtis Koo;Ning Nan;Pattharin Tangwaragorn,47,78.914893617,11.732210932,95.0,46.0,,,,,,,,,,,1,1,1,3,3,2,2,7,6,14,7,,,
+UBCV,2019,W,COMM,437,,201,Database Technology,Curtis Koo;Ning Nan;Pattharin Tangwaragorn,43,82.627906977,7.374419286,95.0,63.0,,,,,,,,,,,0,0,0,1,1,3,2,5,10,15,6,,,
+UBCV,2019,W,COMM,437,,202,Database Technology,Curtis Koo;Lynda Anne Sayer;Ning Nan;Pattharin Tangwaragorn,43,83.511627907,6.797660988,97.0,69.0,,,,,,,,,,,0,0,0,0,0,2,4,6,9,16,6,,,
+UBCV,2020,W,COEC,437,,001,Database Technology,Brendan Woodward;Ning Nan,50,84.46,5.421837929,94.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,6,14,21,7,,,
+UBCV,2020,W,COMM,437,,101,Database Technology,Karina Kong;Ning Nan;Wei Sun,40,76.225,8.722171865,90.0,50.0,,,,,,,,,,,0,1,1,2,0,6,2,12,10,4,2,,,
+UBCV,2020,W,COMM,437,,201,Database Technology,Brendan Woodward;Ning Nan,36,80.972222222,8.108147969,92.0,62.0,,,,,,,,,,,0,0,0,1,3,1,3,5,6,14,3,,,
+UBCV,2020,W,COMM,437,,202,Database Technology,Brendan Woodward;Ning Nan,39,79.871794872,8.802450278,94.0,58.0,,,,,,,,,,,0,0,1,2,1,3,3,9,4,11,5,,,
+UBCV,2021,W,COEC,437,,001,Database Technology,Ning Nan;Yanlin Chen,49,82.469387755,7.533541777,94.0,64.0,,,,,,,,,,,0,0,0,0,1,5,5,4,8,16,10,,,
+UBCV,2021,W,COMM,437,,201,Database Technology,Hazelle Flores;Ning Nan,42,79.047619048,12.271228259,96.0,35.0,,,,,,,,,,,2,1,0,1,2,2,1,4,15,8,6,,,
+UBCV,2021,W,COMM,437,,202,Database Technology,Hazelle Flores;Ning Nan,39,78.846153846,8.713384929,94.0,61.0,,,,,,,,,,,0,0,0,1,4,5,4,6,8,5,6,,,
+UBCV,2021,W,COMM,633,,001,Modelling Methods in the Research and Practice of Information Systems,Carson C Woo;Ning Nan,9,88.333333333,2.5,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,4,,,
+UBCV,2021,W,COEC,437,,001,Database Technology,Ning Nan,49,82.5,,94.0,64.0,,,,,,,,,,,,,,,,,,,8,16,10,85.0,88.0,78.0
+UBCV,2021,W,COMM,437,,201,Database Technology,Ning Nan,42,79.7,,96.0,35.0,,,,,,,,,,,,,,,,,,,16,8,6,82.5,85.0,78.3
+UBCV,2021,W,COMM,437,,202,Database Technology,Ning Nan,39,78.8,,94.0,61.0,,,,,,,,,,,,,,,,,,6,8,,6,79.0,85.5,72.0
+UBCV,2021,W,COMM,633,,001,Modelling Methods in the Research and Practice of Information Systems,Ning Nan;Carson C Woo,9,88.3,,91.0,84.0,,,,,,,,,,,,,,,,,,,,,,89.0,90.0,86.0
+UBCV,2022,W,COEC,437,,001,Database Technology,Ning Nan,53,81.4,,96.0,62.0,,,,,,,,,,,0,0,0,1,3,2,4,8,14,13,8,82.0,87.0,77.0
+UBCV,2022,W,COMM,437,,201,Database Technology,Ning Nan,45,80.5,,95.0,60.0,,,,,,,,,,,0,0,0,1,1,6,5,5,9,11,7,81.0,86.0,74.0
+UBCV,2022,W,COMM,437,,202,Database Technology,Ning Nan,43,78.9,,94.0,55.0,,,,,,,,,,,0,0,2,0,1,6,4,7,13,6,4,80.0,84.0,73.5
+UBCV,2023,S,BAIT,513,,822,Managing e-Business,Ning Nan,14,83.21,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,4,1,82.0,85.0,81.25
+UBCV,2023,W,BAIT,507,,BA1,Data Management for Business Analytics,Ning Nan,44,86.64,,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,3,11,14,15,87.0,90.25,83.0
+UBCV,2023,W,BAIT,507,,BA2,Data Management for Business Analytics,Ning Nan,42,82.64,,97.0,64.0,,,,,,,,,,,0,0,0,0,1,2,4,9,9,8,9,83.0,88.0,76.5
+UBCV,2023,W,COMM,437,,101,Database Technology,Ning Nan,48,78.96,,96.0,59.0,,,,,,,,,,,0,0,1,0,5,4,6,6,12,8,6,80.0,85.25,72.75

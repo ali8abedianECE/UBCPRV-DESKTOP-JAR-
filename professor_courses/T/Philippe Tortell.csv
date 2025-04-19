@@ -1,0 +1,88 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Suttle, Curtis;Tortell, Philippe",13,73.77,12,94,57,13,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,0,4,0,2,,,
+UBC,2003,W,BIOL,447,,101,METH BIO RSCH II,"Tortell, Philippe",17,84.88,5.28,93,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,7,4,,,
+UBC,2003,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",240,76.12,13.15,98,0,224,10,6,0,0,1,0,0,2,7,10,4,11,15,13,8,24,33,51,48,17,,,
+UBC,2003,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Suttle, Curtis;Tortell, Philippe",17,78.24,8.65,93,62,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,1,3,2,2,,,
+UBC,2005,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",17,80.94,5.01,89,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,8,4,0,,,
+UBC,2006,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",18,78.71,7.51,91,58,17,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,5,3,1,,,
+UBC,2006,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",164,74.15,15.54,94,0,153,6,3,0,2,3,0,0,2,1,6,1,13,8,13,13,17,17,33,20,18,,,
+UBC,2006,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",30,72.28,13.77,89,34,27,2,0,1,0,0,0,0,1,1,2,1,1,2,3,2,4,4,5,5,0,,,
+UBC,2007,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",10,81.8,4.96,89,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,3,0,,,
+UBC,2007,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",141,73.29,15.22,97,0,131,8,2,0,0,1,0,1,2,4,8,5,7,11,7,15,10,20,22,19,15,,,
+UBC,2007,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",25,69.56,16.86,95,18,23,2,0,0,0,0,1,0,0,1,2,0,4,3,1,2,3,3,2,3,2,,,
+UBC,2009,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",12,81.33,3.68,90,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,1,1,,,
+UBC,2009,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Lipsen, Michael;Tortell, Philippe",135,72.86,12.68,95,13,130,4,1,0,0,0,1,0,0,3,4,5,9,11,12,14,14,20,24,10,11,,,
+UBC,2009,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",29,65.31,14.33,91,42,27,2,0,0,0,0,0,0,0,2,2,7,4,0,4,1,2,2,4,2,1,,,
+UBC,2011,W,BIOL,347,,201,PRIN&METH RSCH I,"Milsom, William;Tortell, Philippe",11,79.09,5.19,87,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,5,2,0,,,
+UBC,2011,W,BIOL,447,,101,METH BIO RSCH II,"Taylor, Eric;Tortell, Philippe",13,83.92,4.82,91,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,2,,,
+UBC,2011,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",11,70.73,10.09,90,60,11,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,1,0,2,0,1,,,
+UBC,2012,W,BIOL,347,,201,PRIN&METH RSCH I,"Schulte, Patricia;Tortell, Philippe",19,83.53,5.37,91,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,9,1,,,
+UBC,2012,W,BIOL,447,,101,METH BIO RSCH II,"Taylor, Eric;Tortell, Philippe",15,81.93,3.22,88,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5,0,,,
+UBC,2012,W,EOSC,584,A,101,BIOL OCEANOGRPHY,"Tortell, Philippe",6,84.33,3.2,88,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,,,
+UBC,2013,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",275,78.23,13.37,100,0,268,5,2,0,0,1,1,0,3,0,5,8,9,10,13,28,21,23,61,46,49,,,
+UBC,2013,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",216,74.57,13.01,98,13,209,7,0,0,0,0,1,1,2,3,7,10,8,9,16,28,17,38,36,28,19,,,
+UBC,2014,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",279,81.76,11.27,98,39,271,5,2,0,1,0,0,0,1,4,5,2,8,6,13,13,14,35,41,60,79,,,
+UBC,2014,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",201,77.95,13.6,98,25,185,9,6,0,1,0,0,1,0,8,9,1,8,10,14,13,14,25,28,30,42,,,
+UBC,2014,W,EOSC,584,B,102,BIOL OCEANOGRPHY,"Tortell, Philippe",8,83.8,2.59,87,80,5,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,,,
+UBC,2014,W,EOSC,595,A,201,DIRECTED STUDIES,"Tortell, Philippe",8,85,0,85,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,,,
+UBC,2015,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",287,77.81,13.27,97,24,275,11,1,0,0,0,0,2,7,2,11,9,4,11,9,27,13,27,61,59,55,,,
+UBC,2015,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",237,74.72,13.28,97,30,225,9,2,0,1,0,0,0,6,3,9,9,10,21,11,22,10,32,40,39,31,,,
+UBC,2017,W,EOSC,584,B,001,BIOL OCEANOGRPHY,"Tortell, Philippe",5,68,38.77,95,0,4,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,,,
+UBCV,2014,W,BIOL,260,,201,Fundamentals of Physiology,Patricia Schulte;Philippe Tortell,277,81.47292419,12.25292732,98.0,1.0,,,,,,,,,,,6,2,8,6,13,13,14,35,41,60,79,,,
+UBCV,2014,W,BIOL,260,,202,Fundamentals of Physiology,Patricia Schulte;Philippe Tortell,195,77.56923077,14.58530106,98.0,3.0,,,,,,,,,,,10,1,8,10,14,13,14,25,28,30,42,,,
+UBCV,2014,W,EOSC,584,B,102,Topics in Biological Oceanography,Philippe Tortell,5,83.8,2.588435821,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,0,,,
+UBCV,2014,W,EOSC,595,A,201,Directed Studies,Philippe Tortell,8,85.0,0.0,85.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,0,,,
+UBCV,2015,W,BIOL,260,,201,Fundamentals of Physiology,Evan Cronmiller;Michael A Sackville;Michael Sackville;Patricia Schulte;Philippe Tortell;Tara Mcbryan,286,77.807692308,13.273694217,97.0,24.0,,,,,,,,,,,11,9,4,11,9,27,13,27,61,59,55,,,
+UBCV,2015,W,BIOL,260,,202,Fundamentals of Physiology,Evan Cronmiller;Michael A Sackville;Michael Sackville;Patricia Schulte;Philippe Tortell;Tara Mcbryan,236,74.254237288,14.264186035,97.0,0.0,,,,,,,,,,,11,9,10,21,11,22,10,32,40,39,31,,,
+UBCV,2019,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Allison Cutting;Ashley Davidson;Christina Draeger;Doriane Drolet;Mengxi Wang;Philippe Tortell;Yulia Egorova,23,89.391304348,12.097103825,99.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,4,16,,,
+UBCV,2019,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Allison Cutting;Ashley Davidson;Philippe Tortell,26,89.0,19.516147161,99.0,0.0,,,,,,,,,,,1,0,0,0,1,0,0,0,2,3,19,,,
+UBCV,2019,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Ashley Davidson;Christina Draeger;Philippe Tortell,27,88.222222222,17.55723242,99.0,10.0,,,,,,,,,,,1,0,0,0,0,0,3,1,1,1,20,,,
+UBCV,2019,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Ashley Davidson;Katrina Schuler;Philippe Tortell,22,90.590909091,6.994277191,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,1,17,,,
+UBCV,2019,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Ashley Davidson;Mengxi Wang;Philippe Tortell,26,93.538461538,4.091266496,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,24,,,
+UBCV,2019,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Ashley Davidson;Philippe Tortell;Yulia Egorova,30,89.333333333,10.243023979,99.0,55.0,,,,,,,,,,,0,0,1,0,0,1,2,1,2,2,21,,,
+UBCV,2019,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Brett Gilley;Charles Sammis;David Sasse;Leah May Ver;Lucy Porritt;Maryam Zarrinderakht;Michael Lipsen;Mina Hassanaghaei;Philippe Tortell;Roland Stull;Shumin Li;Yuanji Sun,150,74.693333333,13.869935942,98.0,0.0,,,,,,,,,,,3,0,7,10,11,23,14,23,26,16,17,,,
+UBCV,2019,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Brett Gilley;Charles Sammis;David Sasse;Leah May Ver;Lucy Porritt;Luis Melgarejo Perez;Michael Lipsen;Philippe Tortell;Roland Stull,199,72.83919598,13.023067,94.0,0.0,,,,,,,,,,,6,4,9,13,15,22,37,22,39,24,8,,,
+UBCV,2020,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Ashley Davidson;David Puhl;Philippe Tortell,22,93.772727273,4.709987546,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,18,,,
+UBCV,2020,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Ashley Davidson;Philippe Tortell,26,95.0,5.059644256,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,24,,,
+UBCV,2020,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Ashley Davidson;Doriane Drolet;Philippe Tortell,25,91.2,9.759610648,100.0,55.0,,,,,,,,,,,0,0,1,0,0,0,0,1,2,6,15,,,
+UBCV,2020,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Ashley Davidson;Jovian Varian;Philippe Tortell,27,94.62962963,7.560769945,100.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,0,4,22,,,
+UBCV,2020,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Ashley Davidson;Philippe Tortell;Robert Rutz,28,95.535714286,4.717831759,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,25,,,
+UBCV,2020,W,EOSC,111,,L2F,Laboratory Exploration of Planet Earth,Ashley Davidson;Karly Mcmullen;Philippe Tortell,30,93.5,8.613341696,100.0,63.0,,,,,,,,,,,0,0,0,1,0,1,0,0,1,3,24,,,
+UBCV,2020,W,EOSC,584,B,001,Topics in Biological Oceanography,Philippe Tortell,8,85.75,8.066686344,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,2,3,,,
+UBCV,2021,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Ashley Davidson;Kira Musiiachenko;Philippe Tortell;Ruth Moore;Shea Thorne,24,94.291666667,6.968744923,99.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,1,21,,,
+UBCV,2021,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Emma Betz;Philippe Tortell;Yulia Egorova,22,90.863636364,12.586067333,100.0,50.0,,,,,,,,,,,0,1,0,0,1,1,0,0,0,1,18,,,
+UBCV,2021,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell;Ruth Moore;Yulia Egorova,28,96.928571429,4.729173222,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,26,,,
+UBCV,2021,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell;Samuel Ndegwa;Yulia Egorova,27,91.851851852,7.430207077,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,0,22,,,
+UBCV,2021,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell;Shereen Lim;Yulia Egorova,29,95.275862069,3.682938964,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,27,,,
+UBCV,2021,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell;Shea Thorne;Yulia Egorova,27,88.740740741,18.614701784,100.0,20.0,,,,,,,,,,,2,0,0,0,0,0,0,1,0,2,22,,,
+UBCV,2021,W,EOSC,473,,201,Methods in Oceanography,Brian Hunt;Jacob Lerner;Maria Maldonado-Pareja;Michael Zima;Philippe Tortell;Richard Pawlowicz;Samuel Stevens,20,80.5,6.013143499,89.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,4,4,8,0,,,
+UBCV,2021,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Philippe Tortell,24,94.3,,99.0,68.0,,,,,,,,,,,,,,,,,,,,,21,96.5,97.0,95.0
+UBCV,2021,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Philippe Tortell,22,90.9,,100.0,50.0,,,,,,,,,,,,,,,,,,,,,18,96.0,98.0,91.3
+UBCV,2021,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,96.9,,100.0,81.0,,,,,,,,,,,,,,,,,,,,,26,98.0,100.0,96.0
+UBCV,2021,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell,27,91.9,,100.0,72.0,,,,,,,,,,,,,,,,,,,,,22,94.0,96.0,91.0
+UBCV,2021,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell,29,95.3,,100.0,85.0,,,,,,,,,,,,,,,,,,,,,27,96.0,97.0,94.0
+UBCV,2021,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell,27,88.7,,100.0,20.0,,,,,,,,,,,,,,,,,,,,,22,94.0,96.0,92.0
+UBCV,2021,W,EOSC,473,,201,Methods in Oceanography,Brian Hunt;Samuel Stevens;Philippe Tortell,20,80.5,,89.0,68.0,,,,,,,,,,,,,,,,,,,,8,,80.0,85.3,77.0
+UBCV,2021,W,EOSC,595,F,201,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,8,92.0,,96.0,86.0,,,,,,,,,,,,,,,,,,,,,6,92.5,93.8,91.0
+UBCV,2022,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Philippe Tortell,20,92.8,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,16,93.5,96.0,90.8
+UBCV,2022,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,91.1,,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,3,22,92.5,94.0,90.0
+UBCV,2022,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Philippe Tortell,26,93.0,,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,22,93.5,97.0,91.0
+UBCV,2022,W,EOSC,111,,L1D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.7,,98.0,66.0,,,,,,,,,,,0,0,0,0,1,0,5,1,3,3,17,92.5,94.0,81.3
+UBCV,2022,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,87.9,,98.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,1,2,5,16,90.0,94.3,87.0
+UBCV,2022,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Philippe Tortell,29,85.6,,98.0,61.0,,,,,,,,,,,0,0,0,1,1,3,0,2,1,7,14,88.0,92.0,82.0
+UBCV,2022,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,80.9,,97.0,0.0,,,,,,,,,,,4,0,0,0,1,0,0,1,1,5,16,90.5,94.3,85.0
+UBCV,2022,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell,27,85.9,,98.0,60.0,,,,,,,,,,,0,0,0,1,0,2,2,2,1,6,13,88.0,93.0,81.0
+UBCV,2022,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.2,,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,10,10,87.5,91.5,83.3
+UBCV,2022,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,88.8,,96.0,59.0,,,,,,,,,,,0,0,1,0,0,0,2,0,2,2,21,92.0,93.0,89.8
+UBCV,2022,W,EOSC,595,F,104,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,9,87.2,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,4,3,88.0,91.0,87.0
+UBCV,2023,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Philippe Tortell,30,86.7,,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,3,6,7,11,88.0,93.0,82.0
+UBCV,2023,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Philippe Tortell,25,84.3,,97.0,52.0,,,,,,,,,,,0,1,0,0,0,0,3,2,2,8,8,85.5,91.0,82.5
+UBCV,2023,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Philippe Tortell,27,89.7,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,18,91.0,93.0,87.5
+UBCV,2023,W,EOSC,111,,L1D,Laboratory Exploration of Planet Earth,Philippe Tortell,27,83.6,,94.0,45.0,,,,,,,,,,,1,0,0,0,0,1,1,1,9,8,6,86.0,88.5,81.0
+UBCV,2023,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,83.2,,97.0,48.0,,,,,,,,,,,1,1,0,2,0,0,1,1,5,5,12,86.5,91.0,82.5
+UBCV,2023,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Philippe Tortell,30,80.4,,96.0,67.0,,,,,,,,,,,0,0,0,0,1,4,5,4,5,8,3,80.5,87.8,75.0
+UBCV,2023,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,76.5,,91.0,0.0,,,,,,,,,,,1,1,1,0,3,1,0,4,5,9,3,83.5,86.3,74.5
+UBCV,2023,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell,29,83.6,,95.0,0.0,,,,,,,,,,,1,0,0,0,1,3,0,0,3,9,12,88.0,92.0,84.0
+UBCV,2023,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,83.2,,94.0,0.0,,,,,,,,,,,1,0,0,0,1,1,0,4,3,7,13,88.0,91.0,81.0
+UBCV,2023,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell,29,86.0,,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,10,9,8,87.0,90.0,83.0
+UBCV,2023,W,EOSC,584,B,201,Topics in Biological Oceanography,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,8,85.1,,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,2,2,85.0,87.0,83.0

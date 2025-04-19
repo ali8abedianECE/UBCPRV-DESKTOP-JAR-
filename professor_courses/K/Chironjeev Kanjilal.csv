@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,MUSC,160,A,001,String Chamber Ensembles,Chironjeev Kanjilal;David Gillham;Eric Wilson;Jasper Wood;Yijia Fang,35,90.628571429,1.800093368,95.0,88.0,0,0,0,0,0,0,0,0,0,8,27,,,
+UBCV,2018,W,PHYS,341,,201,Physics of Music,Chironjeev Kanjilal;Christopher Waltham,21,64.619047619,18.869224124,93.0,17.0,3,3,0,2,4,2,3,0,1,1,2,,,
+UBCV,2021,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;James Wu;Jing Wang;Lesley Hill;Sarah Burke;Sunyuan Liang,51,93.68627451,13.861443209,100.0,0.0,1,0,0,0,0,0,0,0,1,3,46,,,
+UBCV,2021,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;James Wu;Jiabin Yu;Lesley Hill;Sarah Burke;Steven Dierker;Vladislav Pomogaev,40,88.125,10.542192396,100.0,40.0,1,0,0,0,0,1,1,1,7,7,22,,,
+UBCV,2021,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;Edward Thoeng;James Wu;Jiabin Yu;Lesley Hill;Samikshya Sahu;Sarah Burke,41,89.926829268,11.658452393,100.0,27.0,1,0,0,0,0,1,0,1,2,8,28,,,
+UBCV,2021,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;Duncan Mccarthy;James Wu;Lesley Hill;Ryan Quinn;Sarah Burke,48,81.5625,8.492565585,91.0,40.0,1,0,1,0,0,1,3,6,15,20,1,,,
+UBCV,2021,W,PHYS,159,,LG2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;James Wu;Lesley Hill;Sarah Burke;Shafkat Khondker;Tessa Zolezzi,39,78.871794872,19.652480073,95.0,0.0,2,0,0,0,0,2,3,6,9,9,8,,,
+UBCV,2021,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker;Chironjeev Kanjilal,40,88.1,,100.0,40.0,,,,,,,,,7,7,22,90.0,94.3,84.0
+UBCV,2021,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,41,89.9,,100.0,27.0,,,,,,,,,,8,28,93.0,95.0,88.0
+UBCV,2021,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,48,81.6,,91.0,40.0,,,,,,,,6,15,20,,83.5,86.3,79.8
+UBCV,2021,W,PHYS,159,,LG2,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,39,78.9,,95.0,0.0,,,,,,,,6,9,9,8,83.0,88.0,78.0
+UBCV,2022,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,47,78.3,,93.0,1.0,3,0,0,0,1,1,3,11,12,11,5,81.0,86.0,78.0
+UBCV,2022,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,47,74.9,,87.0,64.0,0,0,0,0,7,8,11,9,8,4,0,75.0,79.5,70.0
+UBCV,2022,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,48,84.4,,99.0,63.0,0,0,0,1,2,3,3,3,8,11,17,85.5,91.3,79.8
+UBCV,2022,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Sarah Burke;Chironjeev Kanjilal,49,67.8,,95.0,27.0,1,1,6,6,10,9,6,5,3,0,2,68.0,74.0,62.0
+UBCV,2023,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,50,85.1,,98.0,64.0,0,0,0,0,1,2,2,2,13,17,13,86.0,89.8,81.3
+UBCV,2023,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,30,79.4,,93.0,50.0,0,1,1,1,1,1,2,7,3,9,4,80.5,86.8,76.0
+UBCV,2023,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,48,81.4,,94.0,50.0,0,1,1,0,0,2,3,4,20,14,3,83.0,86.0,80.0
+UBCV,2023,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,49,81.0,,94.0,59.0,0,0,1,0,4,1,4,13,5,12,9,80.0,87.0,76.0
+UBCV,2023,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,35,76.1,,96.0,39.0,1,0,0,3,1,1,7,7,10,3,1,78.0,81.0,73.0
+UBCV,2023,W,PHYS,159,,LC2,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,47,82.3,,95.0,70.0,0,0,0,0,0,3,4,9,12,13,6,82.0,86.0,78.0
+UBCV,2023,W,PHYS,159,,LG2,Introductory Physics Laboratory for Engineers,Chironjeev Kanjilal;Jonathan Massey Allard,48,83.6,,94.0,66.0,0,0,0,0,1,1,3,6,13,15,9,84.5,87.0,80.0

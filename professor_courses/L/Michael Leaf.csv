@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",16,84.63,3.28,91,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7,1
+UBC,2003,W,PLAN,573,,001,SHLT&SERV DEV CN,"Leaf, Michael",12,85.5,4.06,90,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,2
+UBC,2005,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",5,88.2,1.48,90,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2006,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",9,86.5,3.96,91,80,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3
+UBC,2006,W,PLAN,573,,001,SHLT&SERV DEV CN,"Leaf, Michael",8,85.86,4.06,90,81,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3
+UBC,2007,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",9,86.57,3.99,90,79,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3
+UBC,2011,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",8,88.67,1.53,90,87,3,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+UBC,2012,W,PLAN,572,,001,PRJ&PRG DSGN DEV,"Leaf, Michael",6,78.83,17.92,91,43,5,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,2,1
+UBC,2012,W,PLAN,573,,001,SHLT&SERV DEV CN,"Leaf, Michael",9,88,1.85,90,84,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,1
+UBC,2013,W,PLAN,548,L,001,CURRENT ISSUES,"Leaf, Michael",4,90.25,1.5,92,89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2013,W,PLAN,573,,001,SHLT&SERV DEV CN,"Leaf, Michael",7,87.67,2.73,90,83,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2014,W,PLAN,548,X,001,CURRENT ISSUES,"Leaf, Michael",8,80.5,24.51,91,20,7,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,4
+UBC,2014,W,PLAN,603,,001,PHD COLLOQUIUM,"Leaf, Michael",4,89.25,0.96,90,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2015,W,PLAN,425,,002,URBN PLAN CNCPTS,"Leaf, Michael",24,86.3,5.3,94,74,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11,6
+UBC,2015,W,PLAN,509,,001,URBNISM GLBL LIF,"Hutton, Thomas;Leaf, Michael",34,88.41,1.91,92,85,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,11
+UBC,2015,W,PLAN,545,D,001,STUDIES ABROAD,"Leaf, Michael",12,88.25,4.18,93,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,4
+UBC,2015,W,PLAN,603,,002,PHD COLLOQUIUM,"Leaf, Michael",4,89.25,1.71,91,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2016,W,PLAN,425,,002,URBN PLAN CNCPTS,"Leaf, Michael",27,83.85,12.37,95,37,25,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,5,7,10
+UBC,2016,W,PLAN,425,,004,URBN PLAN CNCPTS,"Leaf, Michael",19,86.95,7.32,95,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,8,7
+UBC,2016,W,PLAN,509,,001,URBNISM GLBL LIF,"Hutton, Thomas;Leaf, Michael",25,88.88,2.15,93,85,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,11
+UBC,2016,W,PLAN,548,Y,002,CURRENT ISSUES,"Gurstein, Penelope;Leaf, Michael",14,89.29,2.79,92,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8
+UBC,2017,W,PLAN,425,,001,URBN PLAN CNCPTS,"Leaf, Michael",55,86.43,4.43,96,73,54,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15,25,11
+UBC,2017,W,PLAN,509,,001,URBNISM GLBL LIF,"Hutton, Thomas;Leaf, Michael",42,88.53,1.83,92,86,36,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,10
+UBC,2017,W,PLAN,603,,001,PHD COLLOQUIUM,"Leaf, Michael",4,89.75,0.5,90,89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2017,W,PLAN,603,,002,PHD COLLOQUIUM,"Leaf, Michael",5,88.2,1.79,90,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBCV,2014,W,PLAN,548,X,001,Current Issues in Planning,Michael Leaf,8,80.5,24.50655889,91.0,20.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,PLAN,425,,002,Urban Planning Issues and Concepts,Michael Leaf;Sara Ortiz Escalante;Vrushti Mawani,23,86.304347826,5.295236132,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,11,6
+UBCV,2015,W,PLAN,509,,001,Urbanism as a Global Way of Life,Michael Leaf;Thomas A Hutton;Thomas Hutton,34,88.411764706,1.908793797,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,23,11
+UBCV,2015,W,PLAN,545,D,001,Planning Studies Abroad,Michael Leaf;Vrushti Mawani,12,88.25,4.180582821,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,7,
+UBCV,2016,W,PLAN,425,,002,Urban Planning Issues and Concepts,Lili Friedler;Michael Leaf;Sara Ortiz Escalante,26,83.84615385,12.37317197,95.0,37.0,,,,,,,,,,,1,0,1,0,0,0,1,1,5,7,10
+UBCV,2016,W,PLAN,425,,004,Urban Planning Issues and Concepts,Lili Friedler;Michael Leaf;Sara Ortiz Escalante,19,86.94736842,7.321761204,95.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,0,2,8,7
+UBCV,2016,W,PLAN,509,,001,Urbanism as a Global Way of Life,Michael Leaf;Thomas A Hutton;Thomas Hutton,25,88.88,2.147091055,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,14,11
+UBCV,2016,W,PLAN,548,Y,002,Current Issues in Planning,Michael Leaf;Penelope Gurstein,14,89.28571429,2.785362052,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,8
+UBCV,2017,W,PLAN,425,,001,Urban Planning Issues and Concepts,Kenneth Cameron;Lili Friedler;Michael Leaf;Robert Catherall,54,86.425925926,4.428048899,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,15,25,11
+UBCV,2017,W,PLAN,509,,001,Urbanism as a Global Way of Life,Michael Leaf;Thomas A Hutton;Thomas Hutton,36,88.527777778,1.828131147,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,26,10
+UBCV,2018,W,PLAN,603,,001,Ph.D. Colloquium,Maged Senbel;Michael Leaf,6,86.0,3.098386677,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,0

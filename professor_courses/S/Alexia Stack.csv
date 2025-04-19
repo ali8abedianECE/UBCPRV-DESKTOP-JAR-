@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,EPSE,449,,074,EDUC STDS AUTISM,"Stack, Alexia",24,80.91,8.08,91,63,23,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,3,4,3,7,3
+UBC,2018,S,EPSE,449,,951,EDUC STDS AUTISM,"Stack, Alexia",20,80.4,9.48,91,52,20,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,4,3,7,2
+UBCV,2017,W,EPSE,449,,074,Education of Students with Autism,Alexia Stack,23,80.913043478,8.078664626,91.0,63.0,,,,,,,,,,,0,0,0,1,0,2,3,4,3,7,3
+UBCV,2018,S,EPSE,449,,951,Education of Students with Autism,Alexia Stack;Brenda Fossett,20,80.4,9.483503683,91.0,52.0,,,,,,,,,,,0,1,0,1,0,0,2,4,3,7,2
+UBCV,2018,W,EPSE,449,,074,Education of Students with Autism,Alexia Stack;Brenda Fossett,28,85.25,6.861729617,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,5,6,7,9

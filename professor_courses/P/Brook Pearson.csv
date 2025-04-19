@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,RELG,203,,001,SCRIPTURES OF NE,"Pearson, Brook",62,69.88,15.78,94,0,56,4,2,0,0,1,0,0,1,2,4,4,5,3,5,6,8,8,8,6,3
+UBC,2015,W,RELG,305,,001,PROPHECY&KINGSHP,"Pearson, Brook",13,75.67,7.91,84,61,12,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,1,2,5,0,0
+UBC,2015,W,RELG,316,,001,ORG CHRST LITERY,"Pearson, Brook",13,75.08,6.67,85,63,12,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,5,1,2,1,0
+UBC,2015,W,RELG,317,,001,ORG CHRIST SOCL,"Pearson, Brook",19,76.17,10,91,49,17,1,1,0,0,0,0,0,0,1,1,0,0,1,2,0,1,5,6,1,1
+UBC,2015,W,RELG,414,,001,GOSPL&HIST JESUS,"Pearson, Brook",10,78.22,6.24,89,68,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,0
+UBC,2015,W,RELG,415,,001,PAUL OF TARSUS,"Pearson, Brook",6,84.6,4.56,88,77,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0
+UBC,2016,W,RELG,203,,002,SCRIPTURES OF NE,"Pearson, Brook",66,71.05,10.16,87,43,61,3,1,0,0,0,0,0,0,3,3,1,6,3,8,8,11,10,10,4,0
+UBCV,2015,W,RELG,203,,001,Scriptures of the Near East,Brook Pearson;Florencia Fustinoni;Ryan Daniel Schroeder;Ryan Schroeder,60,69.883333333,15.776072492,94.0,0.0,,,,,,,,,,,,,5,,5,6,8,8,8,6,
+UBCV,2015,W,RELG,305,,001,Prophecy and Kingship in Ancient Israel,Brook Pearson,12,75.666666667,7.912399169,84.0,61.0,,,,,,,,,,,0,0,0,,,,,,5,0,0
+UBCV,2015,W,RELG,316,,001,The Origins of Christianity: Literary Contexts,Brook Pearson;Julia Gallo,12,75.083333333,6.666856058,85.0,63.0,,,,,,,,,,,0,0,0,,,,5,,,,0
+UBCV,2015,W,RELG,317,,001,"The Origins of Christianity: Social, Religious, and Political Milieux",Brook Pearson;John Moon,18,76.166666667,10.00147048,91.0,49.0,,,,,,,,,,,,,,,,,,5,6,,
+UBCV,2015,W,RELG,414,,001,The Gospels and the Historical Jesus,Brook Pearson,9,78.222222222,6.240548409,89.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2015,W,RELG,415,,001,The Life and Thought of Paul of Tarsus,Brook Pearson,6,77.333333333,18.261069702,88.0,41.0,,,,,,,,,,,,,,,,,,,,,0
+UBCV,2016,W,RELG,203,,001,Scriptures of the Near East,Brook Pearson;Ryan Daniel Schroeder;Ryan Schroeder;Youcef Soufi,56,73.17857143,14.39331555,93.0,0.0,,,,,,,,,,,1,3,1,5,3,8,9,8,6,10,2
+UBCV,2016,W,RELG,203,,002,Scriptures of the Near East,Brook Pearson,65,70.90769231,10.14692545,87.0,43.0,,,,,,,,,,,3,1,6,4,8,8,11,10,10,4,0

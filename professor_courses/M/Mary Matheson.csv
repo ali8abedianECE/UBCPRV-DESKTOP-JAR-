@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,HIST,368,,101,EUROPE 19TH CENT,"Matheson, Mary",41,68.13,12.23,85,32,35,3,1,0,1,0,0,0,2,1,3,1,2,5,5,4,8,3,5,2,0,,,
+UBCV,2017,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Christopher Friedrichs;Christopher R. Friedrichs;Elspeth Gow;Mary Carol Matheson;Mary Matheson;Rosalynd Boxall;Sebastian Huebel,212,71.70754717,12.599907456,92.0,5.0,,,,,,,,,,,11,5,6,10,18,26,34,42,45,13,2,,,
+UBCV,2018,W,HIST,368,,101,Europe in the 19th Century,Mary Carol Matheson;Mary Matheson,40,67.625,12.257258446,85.0,32.0,,,,,,,,,,,3,2,2,5,6,4,8,3,5,2,0,,,
+UBCV,2019,W,HIST,368,,101,Europe in the 19th Century,Mary Carol Matheson;Mary Matheson,40,65.35,14.869604171,86.0,15.0,,,,,,,,,,,4,4,3,2,6,4,8,2,4,3,0,,,
+UBCV,2020,W,HIST,324,,201,"Inventing Canada, 1840-1896",Jihyun Shin;Mary Matheson;Michel Ducharme;Tucker Sharon;Xian Wang,27,70.666666667,16.585443108,88.0,0.0,,,,,,,,,,,2,0,1,1,0,3,7,10,0,3,0,,,
+UBCV,2020,W,HIST,368,,101,Europe in the 19th Century,Mary Carol Matheson;Mary Matheson,32,71.59375,10.58867129,87.0,31.0,,,,,,,,,,,1,0,0,3,5,8,4,3,6,2,0,,,
+UBCV,2021,W,HIST,367,,201,Europe in the Age of the Enlightenment,Mary Matheson,39,63.641025641,22.693016755,88.0,0.0,,,,,,,,,,,7,1,2,2,5,2,4,9,5,2,0,,,
+UBCV,2021,W,HIST,367,,201,Europe in the Age of the Enlightenment,Mary Matheson,37,66.2,,88.0,0.0,,,,,,,,,,,,,,,,,,9,,,,75.0,78.0,62.0
+UBCV,2022,W,HIST,367,,101,Europe in the Age of the Enlightenment,Mary Matheson,18,62.6,,87.0,2.0,,,,,,,,,,,4,0,0,1,2,2,0,6,1,2,0,73.5,78.8,61.5
+UBCV,2022,W,HIST,368,,201,Europe in the 19th Century,Mary Matheson,30,69.4,,90.0,0.0,,,,,,,,,,,3,1,0,2,2,4,5,4,7,1,1,73.5,80.8,66.5
+UBCV,2023,W,HIST,367,,101,Europe in the Age of the Enlightenment,Mary Matheson,17,61.4,,88.0,9.0,,,,,,,,,,,3,1,1,3,0,2,2,0,1,3,0,65.5,74.8,54.3
+UBCV,2023,W,HIST,368,,201,Europe in the 19th Century,Mary Matheson,18,67.3,,89.0,35.0,,,,,,,,,,,3,0,2,0,1,2,1,2,2,2,0,70.0,78.5,58.0

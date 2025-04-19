@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,COMM,337,,101,Business Programming and Analytics,Jeremy Gill;Nader Beyzaei;Nader Shaun Beyzaei,36,81.138888889,8.721575145,93.0,61.0,0,0,0,2,2,2,5,1,7,11,6,,,
+UBCV,2021,W,BAIT,507,,BA1,Data Management for Business Analytics,Berkay Bulut;Nader Beyzaei,65,87.707692308,5.628396411,96.0,72.0,0,0,0,0,0,0,2,5,9,21,28,,,
+UBCV,2021,W,COMM,337,,101,Business Programming and Analytics,Christy Lam;Nader Beyzaei,42,78.119047619,15.877891334,96.0,8.0,1,2,0,1,5,1,6,3,5,10,8,,,
+UBCV,2021,W,COMM,436,,201,Information Systems Analysis and Design,Carson C Woo;Harvey Mahdizadeh;Nader Beyzaei;Samuel Tjahjakartana,39,77.846153846,5.407297513,88.0,61.0,0,0,0,1,1,1,9,9,16,2,0,,,
+UBCV,2021,W,COMM,436,,202,Information Systems Analysis and Design,Carson C Woo;Harvey Mahdizadeh;Nader Beyzaei;Samuel Tjahjakartana,43,77.906976744,7.418811205,91.0,60.0,0,0,0,2,1,5,9,9,6,8,3,,,
+UBCV,2021,W,COMM,437,,101,Database Technology,Hazelle Flores;Nader Beyzaei;Roberta Kowalishin;Wei Sun;Zeliha Ural Merpez,19,82.263157895,9.230638026,93.0,56.0,0,0,1,0,1,0,2,1,4,6,4,,,
+UBCV,2021,W,COMM,437,,102,Database Technology,Hazelle Flores;Nader Beyzaei;Roberta Kowalishin;Wei Sun;Zeliha Ural Merpez,13,85.0,7.604823031,93.0,70.0,0,0,0,0,0,2,0,1,2,3,5,,,
+UBCV,2021,W,BAIT,507,,BA1,Data Management for Business Analytics,Nader Beyzaei,65,87.7,,96.0,72.0,,,,,,,,,9,21,28,88.0,92.0,85.0
+UBCV,2021,W,COMM,337,,101,Business Programming and Analytics,Nader Beyzaei,42,78.1,,96.0,8.0,,,,,,,6,,,10,8,81.5,88.0,74.0
+UBCV,2023,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Nader Beyzaei,50,87.42,,97.0,70.0,0,0,0,0,0,1,1,1,9,18,20,88.0,91.0,85.0
+UBCV,2023,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Nader Beyzaei,50,86.56,,100.0,72.0,0,0,0,0,0,0,2,2,16,16,14,86.5,90.0,83.0

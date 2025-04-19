@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,APSC,230,,001,Int Eng Des,"Dunford, William;Yonemitsu, Noboru",35,81.65,10.65,98,55,31,0,4,0,0,0,0,0,0,0,0,0,1,1,0,3,5,3,0,9,9
+UBC,2009,W,APSC,230,,L0A,Int Eng Des,"Dunford, William;Yonemitsu, Noboru",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CIVL,315,,101,FLUID MECH II,"Millar, Robert;Yonemitsu, Noboru",170,73.93,7.86,92,52,170,0,0,0,0,0,0,0,0,0,0,4,5,5,17,31,26,37,36,8,1
+UBC,2009,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Yonemitsu, Noboru",152,74.34,8.36,92,50,152,0,0,0,0,0,0,0,0,0,0,2,6,9,10,25,25,34,22,16,3
+UBC,2010,W,APSC,150,,101,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",200,80.06,8.25,97,46,199,1,0,0,0,0,0,0,0,1,1,0,4,5,4,13,21,40,47,44,21
+UBC,2010,W,APSC,150,,102,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",185,77.48,9.96,97,23,182,2,0,0,1,0,0,2,0,0,2,2,4,5,6,18,27,34,47,26,13
+UBC,2010,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",191,72.94,13.35,92,2,182,9,0,0,0,1,3,0,2,3,9,2,8,8,6,24,35,33,46,19,1
+UBC,2010,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",206,76.89,12.04,93,3,198,6,1,0,1,1,2,0,2,1,6,1,7,6,2,8,36,21,78,35,4
+UBC,2010,W,APSC,230,,001,Int Eng Des,"Dunford, William;Yonemitsu, Noboru",45,87.2,5.7,96,78,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,11,18
+UBC,2010,W,CIVL,315,,101,FLUID MECH II,"Yonemitsu, Noboru",171,76.73,8.68,95,27,170,1,0,0,0,0,0,1,0,0,1,1,1,4,14,25,26,28,39,26,6
+UBC,2010,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",33,79.45,7.69,90,61,33,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,7,9,9,1
+UBC,2011,S,CIVL,498,B,941,DIRECTED STUDIES,"Yonemitsu, Noboru",5,87.2,2.68,92,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2011,W,APSC,150,,101,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",198,78.26,7.45,94,42,196,1,1,0,0,0,0,0,0,1,1,1,4,3,4,16,24,32,82,24,6
+UBC,2011,W,APSC,150,,102,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",175,76.49,7.81,93,48,174,1,0,0,0,0,0,0,0,1,1,2,3,5,7,21,28,35,51,19,3
+UBC,2011,W,APSC,150,,201,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",159,72.1,10.27,91,0,154,4,1,0,0,1,0,0,2,1,4,1,4,7,14,32,35,34,21,4,2
+UBC,2011,W,APSC,150,,202,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",178,72.58,13.83,91,0,170,8,0,0,0,3,0,0,2,3,8,4,9,7,12,17,25,39,43,13,1
+UBC,2011,W,CIVL,315,,101,FLUID MECH II,"Yonemitsu, Noboru",175,75.14,9.66,95,50,175,0,0,0,0,0,0,0,0,0,0,4,9,10,14,18,32,31,23,20,14
+UBC,2011,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Yonemitsu, Noboru",211,79.02,9.07,97,50,211,0,0,0,0,0,0,0,0,0,0,1,5,4,14,21,26,26,49,37,28
+UBC,2011,W,IGEN,230,,001,INTR ENG DESIGN,"Dunford, William;Yonemitsu, Noboru",48,82.81,7.12,94,73,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,6,11,6,12
+UBC,2012,W,APSC,150,,101,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",195,77.09,8.95,92,26,191,4,0,0,0,0,0,1,0,3,4,3,2,2,9,17,25,41,63,24,5
+UBC,2012,W,APSC,150,,102,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",168,75.3,11.08,91,3,161,6,1,0,0,1,0,1,1,3,6,0,1,5,14,17,28,33,39,22,2
+UBC,2012,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",167,76.13,14.09,95,2,160,7,0,0,0,2,0,2,2,1,7,4,1,2,11,12,21,27,45,23,14
+UBC,2012,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",182,81.38,14.51,97,2,176,5,1,0,0,2,2,0,0,1,5,2,4,2,3,10,13,14,29,51,48
+UBC,2012,W,CIVL,315,,101,FLUID MECH II,"Yonemitsu, Noboru",167,78.13,6.75,90,53,165,0,2,0,0,0,0,0,0,0,0,1,0,2,9,14,25,39,43,26,6
+UBC,2012,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",63,82.97,8.87,96,52,63,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,5,6,12,22,12
+UBC,2012,W,IGEN,230,,001,INTR ENG DESIGN,"Dunford, William;Yonemitsu, Noboru",52,82.31,4.8,93,74,51,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15,22,6,6
+UBC,2013,W,APSC,150,,101,ENG CASE STUDIES,"Kwok, K Ezra;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",173,78.03,7.71,90,37,171,1,1,0,0,0,0,0,1,0,1,2,1,3,7,13,22,36,59,26,2
+UBC,2013,W,APSC,150,,102,ENG CASE STUDIES,"Kwok, K Ezra;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",191,77.32,10.46,93,19,187,4,0,0,0,0,1,2,0,1,4,1,6,5,4,11,29,40,55,28,8
+UBC,2013,W,APSC,150,,201,ENG CASE STUDIES,"Mohseni, Madjid;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",150,73.93,14.08,93,20,138,11,1,0,0,0,0,5,2,4,11,2,1,2,13,16,20,21,39,19,5
+UBC,2013,W,APSC,150,,202,ENG CASE STUDIES,"Mohseni, Madjid;Poursartip, Anoshiravan;Smith, Kevin;Van Zyl, Dirk;Yonemitsu, Noboru",162,78.16,10.33,93,35,158,4,0,0,0,0,0,0,1,3,4,2,5,5,3,15,9,27,45,41,6
+UBC,2013,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",125,72.64,15.72,98,0,122,3,0,0,0,3,0,0,0,0,3,5,8,8,15,9,23,14,14,14,12
+UBC,2013,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",47,79,14.31,99,2,46,1,0,0,0,1,0,0,0,0,1,0,0,2,3,0,8,4,16,6,7
+UBC,2013,W,IGEN,230,,001,INTR ENG DESIGN,"Dunford, William;Yonemitsu, Noboru",52,80.92,6.51,92,64,50,0,2,0,0,0,0,0,0,0,0,0,0,0,2,4,2,8,18,14,2
+UBC,2014,W,APSC,150,,101,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Poursartip, Anoshiravan;Van Zyl, Dirk;Yonemitsu, Noboru",170,81.11,9.43,95,21,168,2,0,0,0,0,0,1,1,0,2,0,2,5,2,7,17,21,39,56,19
+UBC,2014,W,APSC,150,,102,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Poursartip, Anoshiravan;Van Zyl, Dirk;Yonemitsu, Noboru",196,80.44,10.13,93,7,191,4,1,0,0,1,0,0,0,3,4,1,3,5,3,8,7,31,60,57,16
+UBC,2014,W,APSC,150,,201,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Patsa, Eleni;Poursartip, Anoshiravan;Yonemitsu, Noboru",203,78.83,11.53,96,0,199,3,1,0,0,1,0,2,0,0,3,2,3,8,6,16,17,28,57,44,18
+UBC,2014,W,APSC,150,,202,ENG CASE STUDIES,"Gopaluni, Bhushan;Kwok, K Ezra;Patsa, Eleni;Poursartip, Anoshiravan;Yonemitsu, Noboru",181,82.55,9.33,96,30,175,4,2,0,0,0,0,0,2,2,4,0,0,2,3,4,10,21,46,60,29
+UBC,2014,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",83,75.58,14.57,98,0,82,1,0,0,0,1,0,0,0,0,1,6,1,6,3,8,10,15,15,4,14
+UBC,2014,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",48,81.67,11.82,99,26,47,1,0,0,0,0,0,1,0,0,1,0,0,3,0,2,3,5,12,13,9
+UBC,2014,W,IGEN,230,,001,INTR ENG DESIGN,"Dunford, William;Yonemitsu, Noboru",48,81.66,10.05,95,50,47,0,1,0,0,0,0,0,0,0,0,2,1,1,0,2,1,9,11,13,7
+UBC,2015,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yan, Joseph;Yonemitsu, Noboru",144,78.83,9.06,94,32,141,3,0,0,0,0,0,0,2,1,3,2,0,1,3,8,14,32,43,32,6
+UBC,2015,W,APSC,101,,202,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nazhat, Yahya;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",177,78.5,8.93,94,34,171,5,1,0,0,0,0,0,2,3,5,0,0,2,4,15,24,28,52,36,10
+UBC,2015,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",153,77.36,9.46,93,25,147,4,1,0,1,0,0,1,0,3,4,2,0,4,6,9,17,39,39,26,5
+UBC,2015,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",91,78.22,7.96,95,49,89,1,1,0,0,0,0,0,0,1,1,0,0,2,2,10,20,18,15,17,5
+UBC,2015,W,CIVL,315,,101,FLUID MECH II,"Yonemitsu, Noboru",191,77.71,10.51,95,15,188,2,1,0,0,0,1,0,1,0,2,2,2,7,12,24,17,26,50,29,19
+UBC,2015,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",44,83.16,6.65,95,69,43,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,10,12,6,10
+UBC,2015,W,IGEN,230,,001,INTR ENG DESIGN,"Yonemitsu, Noboru",56,81.77,11.28,96,41,54,2,0,0,0,0,0,0,0,2,2,0,1,1,2,3,2,4,13,16,12
+UBC,2016,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Jaeger, Carol Patricia;Ostafichuk, Peter;Yonemitsu, Noboru",184,73.12,10.64,92,38,172,9,2,0,1,0,0,0,2,7,9,3,6,6,15,23,32,41,26,16,4
+UBC,2016,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Jaeger, Carol Patricia;Ostafichuk, Peter;Yonemitsu, Noboru",162,72.75,11.53,96,35,152,9,1,0,0,0,0,0,3,6,9,7,5,7,8,17,30,29,29,16,4
+UBC,2016,W,CIVL,215,,101,FLUID MECH I,"Yonemitsu, Noboru",175,79,9.39,97,31,172,2,1,0,0,0,0,0,2,0,2,1,1,4,9,12,20,30,43,36,16
+UBC,2016,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",94,74.04,12.86,98,40,90,4,0,0,0,0,0,0,0,4,4,2,9,3,10,11,9,12,10,15,9
+UBC,2016,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Weijs, Steven;Yonemitsu, Noboru",205,76.54,8.79,94,45,203,2,0,0,0,0,0,0,0,2,2,1,6,8,16,14,31,46,50,20,11
+UBC,2016,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",70,80.83,10.4,99,50,69,0,0,1,0,0,0,0,0,0,0,2,0,2,2,5,10,6,14,13,15
+UBC,2016,W,IGEN,230,,001,INTR ENG DESIGN,"Yonemitsu, Noboru",60,84.38,7.03,97,67,58,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,6,3,15,18,13
+UBC,2017,W,APSC,101,,201,INTRO TO ENG II,"Ostafichuk, Peter;Potvin, Gabriel;Yonemitsu, Noboru",220,72.42,8.63,94,39,213,4,1,0,2,0,0,0,1,3,4,7,5,12,19,31,56,39,33,9,2
+UBC,2017,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Ostafichuk, Peter;Yonemitsu, Noboru",198,74.24,9.47,91,33,190,7,0,0,1,0,0,0,2,5,7,1,4,7,17,23,35,38,44,18,3
+UBC,2017,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",99,75.39,12.53,98,21,94,2,3,0,0,0,0,1,1,0,2,3,5,4,7,11,17,6,16,14,11
+UBC,2017,W,CIVL,215,,T2A,FLUID MECH I,"Yonemitsu, Noboru",4,,,,,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Yonemitsu, Noboru",229,80.2,10.44,94,5,227,1,1,0,0,1,0,0,0,0,1,2,7,4,10,17,20,27,45,60,35
+UBC,2017,W,CIVL,416,,101,ENVIR HYDRAULICS,"Olsthoorn, Jason;Yonemitsu, Noboru",64,75.95,8.03,92,60,63,0,1,0,0,0,0,0,0,0,0,0,0,4,8,6,11,10,12,10,2
+UBC,2017,W,IGEN,230,,001,INTR ENG DESIGN,"Yonemitsu, Noboru",57,83.13,7.91,92,55,56,0,1,0,0,0,0,0,0,0,0,0,1,0,1,2,5,5,17,9,16
+UBC,2018,W,APSC,101,,202,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",149,72.92,9.76,93,40,143,4,0,0,2,0,0,0,0,4,4,1,8,13,11,24,16,32,22,10,6
+UBC,2018,W,APSC,101,,203,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",231,73.99,8.54,93,44,226,3,0,0,2,0,0,0,0,3,3,6,6,6,15,39,42,48,41,20,3
+UBC,2018,W,APSC,101,,204,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",183,73.46,9.72,99,45,172,6,3,0,2,0,0,0,0,6,6,4,2,7,20,27,31,35,23,16,7
+UBC,2018,W,CIVL,215,,201,FLUID MECH I,"Yonemitsu, Noboru",96,78.06,11.07,100,28,94,1,0,0,1,0,0,1,0,0,1,3,2,1,4,7,12,18,23,12,12
+UBC,2018,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Yonemitsu, Noboru",204,84.92,9.83,96,27,202,2,0,0,0,0,0,1,1,0,2,0,0,1,4,11,17,17,28,38,86
+UBC,2018,W,CIVL,416,,101,ENVIR HYDRAULICS,"Yonemitsu, Noboru",78,82.09,8.99,99,61,78,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,8,10,15,14,20
+UBC,2018,W,IGEN,230,,001,INTR ENG DESIGN,"Yan, Joseph;Yonemitsu, Noboru",52,83.62,6.68,93,61,52,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,4,15,17,9

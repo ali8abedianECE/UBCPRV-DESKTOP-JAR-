@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,S,UDES,502,,001,STUDIO SUST NEIG,"Atkinson, Peter;Haden, Bruce;Kellett, Ronald;Knoetzele, Henning;Stevens, Sara;Thakre, Peeroj",12,81.92,1.93,85,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,2,0
+UBC,2018,W,ARCH,521,,009,ARCH DESIGN IV,"Bass, John;Gates, Joanne;Macdonald, Christopher;Thakre, Peeroj",55,83.36,3.91,88,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,17,27,0
+UBCV,2015,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;Joanne Gates;Peeroj Thakre,52,84.230769231,5.436317181,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,5,5,14,12,16
+UBCV,2018,S,UDES,502,,001,Design Studio: Sustainable Neighbourhood Design,Bruce Haden;Henning Knoetzele;Peeroj Thakre;Peter Atkinson;Ronald Kellett;Sara Stevens,12,81.916666667,1.928651594,85.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,2,0
+UBCV,2018,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;Joanne Gates;John Bass;Peeroj Thakre,57,83.192982456,3.970599975,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,11,18,27,0
+UBCV,2020,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Laura Killam;Matthew Soules;Peeroj Thakre,70,81.542857143,5.465798042,90.0,69.0,,,,,,,,,,,0,0,0,0,0,6,1,16,23,20,4

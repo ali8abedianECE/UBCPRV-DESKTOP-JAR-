@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MICB,202,,101,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Krebs, Danielle;Osborne, Lisa",299,78.78,12.53,98,36,289,7,3,0,0,0,0,0,1,6,7,7,14,14,14,16,30,31,47,55,61,,,
+UBC,2016,W,MICB,202,,201,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Osborne, Lisa;Sibley, Jennifer;Steiner, Theodore",246,79.29,12.77,98,0,240,3,3,0,0,1,1,0,0,1,3,5,9,6,11,18,25,22,52,42,50,,,
+UBC,2016,W,MICB,202,,203,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Osborne, Lisa;Sibley, Jennifer;Steiner, Theodore",213,78.33,14.44,98,0,204,6,2,1,0,1,0,0,1,4,6,10,6,10,13,11,16,16,31,50,41,,,
+UBC,2016,W,MICB,502,,201,ADV IMMUNOGENETI,"Gold, Michael;Osborne, Lisa;Sly, Laura",14,89.43,4.47,95,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,8,,,
+UBC,2017,W,MICB,202,,203,MED MICB & IMMUN,"Kion, Tracy;Osborne, Lisa;Sibley, Jennifer",378,78.4,11.96,96,28,364,9,3,0,1,0,0,1,1,7,9,11,15,14,21,19,29,49,67,82,57,,,
+UBC,2017,W,MICB,430,B,201,SEM MICB LIT,"Finlay, B Brett;Haney, Cara;Osborne, Lisa",20,86.25,3.65,91,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,5,,,
+UBC,2017,W,MICB,502,,201,ADV IMMUNOGENETI,"Gold, Michael;Harder, Kenneth;Osborne, Lisa",6,91.5,4.97,97,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,,,
+UBC,2018,W,MICB,202,,101,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Osborne, Lisa",226,80.83,11.45,98,40,221,2,2,0,1,0,0,0,0,2,2,3,6,10,7,21,19,18,36,38,63,,,
+UBC,2018,W,MICB,430,B,201,SEM MICB LIT,"Finlay, B Brett;Haney, Cara;Osborne, Lisa",18,84.67,2.91,91,79,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,1,,,
+UBC,2018,W,MICB,502,,201,ADV IMMUNOGENETI,"Gold, Michael;Jefferies, Wilfred Arthur;Osborne, Lisa",12,89.7,3.97,96,83,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,,,
+UBCV,2016,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Danielle Krebs;Erin Gaynor;Lisa Osborne;Tracy Kion,296,78.78378378,12.53039182,98.0,36.0,,,,,,,,,,,7,7,14,14,14,16,30,31,47,55,61,,,
+UBCV,2016,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Lisa Osborne;Theodore Steiner;Tracy Kion,243,79.28806584,12.76582398,98.0,0.0,,,,,,,,,,,3,5,9,6,11,18,25,22,52,42,50,,,
+UBCV,2016,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Lisa Osborne;Theodore Steiner;Tracy Kion,210,78.33333333,14.43524837,98.0,0.0,,,,,,,,,,,6,10,6,10,13,11,16,16,31,50,41,,,
+UBCV,2016,W,MICB,502,,201,Advanced Immunogenetics,Laura Sly;Lisa Osborne;Michael Gold,14,89.42857143,4.467218817,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,8,,,
+UBCV,2017,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Brigid Conroy;Jennifer Sibley;Lisa Osborne;Tracy Kion,374,78.35828877,11.98121735,96.0,28.0,,,,,,,,,,,9,11,15,15,21,19,29,49,67,82,57,,,
+UBCV,2017,W,MICB,430,B,201,Seminar in Microbiological Literature,B Brett Finlay;Cara Haney;Lisa Osborne,20,86.25,3.654485348,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,5,,,
+UBCV,2017,W,MICB,502,,201,Advanced Immunogenetics,Kenneth Harder;Laura Sly;Lisa Osborne;Michael Gold;Ninan Abraham,6,91.5,4.969909456,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,4,,,
+UBCV,2018,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jenifer Spence;Lisa Osborne;Tracy Kion,224,80.799107143,11.432774817,98.0,40.0,,,,,,,,,,,2,3,6,10,7,21,20,18,36,38,63,,,
+UBCV,2018,W,MICB,430,B,201,Seminar in Microbiological Literature,B Brett Finlay;Cara Haney;Lisa Osborne,18,84.666666667,2.9104275,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,8,1,,,
+UBCV,2018,W,MICB,502,,201,Advanced Immunogenetics,Kenneth Harder;Lisa Osborne;Michael Gold;Wilfred Arthur Jefferies,10,89.7,3.973523485,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,4,,,
+UBCV,2019,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Lisa Osborne;Tirosh Shapira;Tracy Kion;Virginia Pichler,346,80.083815029,11.769595977,98.0,33.0,,,,,,,,,,,9,0,6,15,22,14,28,45,57,79,71,,,
+UBCV,2019,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Cara Haney;Lisa Osborne,16,86.875,3.896579697,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,5,,,
+UBCV,2019,W,MICB,502,,201,Advanced Immunogenetics,Laura Sly;Lisa Osborne;Michael Gold;Wilfred Arthur Jefferies,15,90.866666667,3.270357487,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,11,,,
+UBCV,2020,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Erin Gaynor;Laura Daniela Morales Duran;Lisa Osborne;Tracy Kion;Virginia Pichler,357,79.834733894,8.174234888,95.0,23.0,,,,,,,,,,,1,2,5,6,8,21,43,72,93,74,32,,,
+UBCV,2020,W,MICB,413,,101,Topics in Microbiome Research,B Brett Finlay;Cara Haney;Carolina Tropini;Lisa Osborne,16,84.0,3.577708764,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,1,,,
+UBCV,2020,W,MICB,502,,201,Advanced Immunogenetics,Laura Sly;Lisa Osborne;Wilfred Arthur Jefferies,10,90.8,3.765338999,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,7,,,
+UBCV,2021,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Elitza Tocheva;Erin Gaynor;Katherine Donald;Lisa Osborne;Tracy Kion;Virginia Pichler,308,75.295454545,13.3072087,96.0,23.0,,,,,,,,,,,10,12,17,19,22,27,27,37,48,48,41,,,
+UBCV,2021,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Cara Haney;Carolina Tropini;Lisa Osborne,14,91.357142857,3.774553318,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,10,,,
+UBCV,2021,W,MICB,502,,201,Advanced Immunogenetics,Laura Sly;Lisa Osborne;Michael Gold;Wilfred Arthur Jefferies,12,92.0,4.045199175,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9,,,
+UBCV,2021,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Tracy Kion;Lisa Osborne;Elitza Tocheva,307,75.6,,96.0,23.0,,,,,,,,,,,7,13,17,20,22,27,27,37,48,48,41,77.0,86.0,67.0
+UBCV,2021,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Lisa Osborne;Carolina Tropini,14,91.4,,97.0,84.0,,,,,,,,,,,,,,,,,,,,,10,91.0,92.8,89.3
+UBCV,2021,W,MICB,502,,201,Advanced Immunogenetics,Michael Gold;Wilfred Arthur Jefferies;Lisa Osborne,12,92.0,,98.0,84.0,,,,,,,,,,,,,,,,,,,,,9,92.0,95.0,90.3
+UBCV,2022,W,MICB,212,,101,Introductory Immunology & Virology,Tracy Kion;Lisa Osborne,262,81.2,,98.0,14.0,,,,,,,,,,,7,3,9,9,9,19,20,19,32,49,86,85.0,91.0,74.0
+UBCV,2022,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Leah Hohman;Lisa Osborne;Carolina Tropini,18,91.4,,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,16,91.0,92.8,91.0
+UBCV,2023,W,MICB,302,,101,Immunology,Tracy Kion;Lisa Osborne,218,74.4,,96.0,13.0,,,,,,,,,,,14,1,5,13,19,16,18,35,46,25,17,77.0,84.0,68.0
+UBCV,2023,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Lisa Osborne;Carolina Tropini,24,91.9,,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,22,92.0,93.0,91.0
+UBCV,2023,W,MICB,502,,201,Advanced Immunogenetics,Michael Gold;Wilfred Arthur Jefferies;Lisa Osborne,10,92.4,,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,92.5,94.0,91.0
+UBCV,2023,W,MICB,506,B,201,Microbiological and Immunological Research,Ninan Abraham;Lindsay Eltis;Michael Gold;Marcia Graves;Michael Murphy;Lisa Osborne;Maria Tokuyama;Carolina Tropini,10,92.4,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,92.0,93.5,91.5

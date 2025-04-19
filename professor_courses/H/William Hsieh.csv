@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EOSC,112,,201,Fluid Earth,"Hsieh, William;Pandolfo, Lionel;Pawlowicz, Richard",134,70.3,13.54,96,0,125,7,2,0,0,1,0,1,3,2,7,3,10,13,15,16,17,18,19,11,3
+UBC,2002,W,EOSC,114,,101,CATASTROPH EARTH,"Bevier, Mary Lou;Hildes, Dave;Hsieh, William;Jones, Francis H M;Stull, Roland",152,65.75,10.95,98,37,140,8,3,0,1,0,0,0,1,7,8,17,12,17,26,25,19,10,7,3,4
+UBC,2002,W,EOSC,114,,202,CATASTROPH EARTH,"Hsieh, William;Jones, Francis H M;Russell, James Kelly;Stull, Roland;Sutherland, Stuart",247,67.87,11.14,100,29,234,4,4,0,5,0,0,1,1,2,4,18,24,35,32,32,25,25,26,13,4
+UBC,2002,W,EOSC,510,,201,"DTA ANL AT,ER&OC","Hsieh, William",7,87.2,6.38,92,76,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2
+UBC,2002,W,PHYS,314,,101,FLUIDS,"Hsieh, William",20,71.8,19.63,99,6,19,1,0,0,0,1,0,0,0,0,1,0,3,1,1,3,0,3,5,1,2
+UBC,2003,W,ATSC,404,,201,DYNAMIC METRLOGY,"Hsieh, William",17,72.18,15.03,97,50,17,0,0,0,0,0,0,0,0,0,0,4,0,1,1,0,4,1,3,1,2
+UBC,2003,W,EOSC,112,,101,Fluid Earth,"Hsieh, William;Pakhomov, Yevhenii",77,71.81,9.94,88,45,71,1,2,0,3,0,0,0,0,1,1,5,3,3,4,21,7,7,14,7,0
+UBC,2003,W,EOSC,112,,201,Fluid Earth,"Hsieh, William;Pakhomov, Yevhenii",82,71.23,10.47,92,34,79,1,1,0,1,0,0,0,1,0,1,4,8,7,4,7,16,14,15,2,2
+UBC,2003,W,PHYS,314,,101,FLUIDS,"Hsieh, William",33,71.81,16.34,98,36,31,1,1,0,0,0,0,0,1,0,1,5,3,3,0,1,4,2,6,2,5
+UBC,2005,W,ATSC,404,,201,DYNAMIC METRLOGY,"Hsieh, William",22,73.5,12.5,93,50,22,0,0,0,0,0,0,0,0,0,0,2,1,2,2,2,2,2,5,1,3
+UBC,2005,W,EOSC,112,,101,FLUID EARTH,"Hsieh, William;Pakhomov, Yevhenii",112,71.21,11.1,99,50,105,0,3,0,4,0,0,0,0,0,0,8,9,10,8,18,12,9,18,9,4
+UBC,2005,W,PHYS,314,,101,FLUIDS,"Hsieh, William",28,73.04,15.28,99,50,28,0,0,0,0,0,0,0,0,0,0,5,2,1,2,2,3,2,4,3,4
+UBC,2006,W,ATSC,414,,201,GEOPHYS FLD DYNM,"Balmforth, Neil;Hsieh, William",7,72.17,13.12,88,54,6,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,2,1,0
+UBC,2006,W,EOSC,477,,201,GEOPHYS FL DYNAM,"Balmforth, Neil;Hsieh, William",5,80.8,13.54,99,63,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1
+UBC,2006,W,EOSC,510,,101,"DTA ANL AT,ER&OC","Hsieh, William",9,86.11,8.36,98,73,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3
+UBC,2006,W,PHYS,314,,101,FLUIDS,"Hsieh, William",19,72.11,11.17,99,50,19,0,0,0,0,0,0,0,0,0,0,1,0,2,4,4,1,1,4,1,1
+UBC,2009,W,ATSC,404,,201,DYNAMIC METRLOGY,"Hsieh, William",17,73.88,11.67,98,50,17,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,2,2,3,0,2
+UBC,2009,W,EOSC,112,,201,FLUID EARTH,"Francois, Roger;Hsieh, William",171,70.43,14.18,100,33,158,9,2,0,2,0,0,0,3,6,9,20,10,9,11,28,18,9,23,15,15
+UBC,2009,W,PHYS,314,,101,FLUIDS,"Hsieh, William",21,74.19,16.51,99,41,20,1,0,0,0,0,0,0,0,1,1,2,1,2,0,3,2,1,2,4,3
+UBC,2010,W,EOSC,510,,101,"DTA ANL AT,ER&OC","Hsieh, William",5,89,7.35,98,80,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2011,W,EOSC,510,,101,"DTA ANL AT,ER&OC","Hsieh, William",7,89.83,4.92,96,83,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2013,W,EOSC,510,,101,"DTA ANL AT,ER&OC","Hsieh, William",10,90.4,3.31,95,86,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6
+UBCV,2020,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Devin Cowan;Doriane Drolet;Geena Littel;Michael Bostock;Shama Emy Haque;William Hsieh,39,72.641025641,10.363110637,99.0,50.0,,,,,,,,,,,0,1,3,4,5,7,5,3,5,4,2

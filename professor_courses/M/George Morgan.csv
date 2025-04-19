@@ -1,0 +1,133 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,ENGL,112,,922,STRAT UNIV WRIT,"Morgan, George",28,70.71,15.74,83,0,26,2,0,0,0,1,0,0,0,1,2,0,0,0,0,4,13,4,5,0,0
+UBC,2009,S,ENGL,112,,92A,STRAT UNIV WRIT,"Morgan, George",28,74.63,5.7,92,63,27,0,1,0,0,0,0,0,0,0,0,0,0,1,0,7,9,6,2,1,1
+UBC,2009,W,ENGL,112,,02N,STRAT UNIV WRIT,"Morgan, George",34,74.53,3.72,81,65,32,0,2,0,0,0,0,0,0,0,0,0,0,0,1,6,13,8,4,0,0
+UBC,2009,W,ENGL,112,,04P,STRAT UNIV WRIT,"Morgan, George",34,72.09,11.63,83,11,33,1,0,0,0,0,1,0,0,0,1,0,0,0,3,3,15,9,3,0,0
+UBC,2009,W,ENGL,112,,05B,STRAT UNIV WRIT,"Morgan, George",34,75.41,3.53,85,66,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,13,4,1,0
+UBC,2009,W,ENGL,112,,10A,STRAT UNIV WRIT,"Morgan, George",32,74.1,3.67,82,63,31,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,16,9,2,0,0
+UBC,2009,W,ENGL,220,,005,LIT ENGL 18C,"Morgan, George",45,74.44,4.77,86,66,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,15,11,5,2,0
+UBC,2009,W,ENGL,220,,011,LIT ENGL 18C,"Morgan, George",45,74.18,4.82,86,59,45,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,17,14,3,1,0
+UBC,2010,S,ENGL,110,,923,INTRO LITERATURE,"Morgan, George",36,76.64,3.51,90,70,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,10,9,0,1
+UBC,2010,S,ENGL,112,,92B,STRAT UNIV WRIT,"Morgan, George",33,74.06,4.46,80,62,31,0,2,0,0,0,0,0,0,0,0,0,0,1,1,5,13,5,6,0,0
+UBC,2010,W,ENGL,112,,02E,STRAT UNIV WRIT,"Morgan, George",30,74.8,4.86,80,61,30,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,12,8,6,0,0
+UBC,2010,W,ENGL,112,,02M,STRAT UNIV WRIT,"Morgan, George",28,70.22,9.52,85,45,26,1,1,0,0,0,0,0,0,1,1,2,0,2,2,6,5,5,3,1,0
+UBC,2010,W,ENGL,112,,04Q,STRAT UNIV WRIT,"Morgan, George",33,69.58,7.26,80,45,32,1,0,0,0,0,0,0,0,1,1,1,0,2,4,9,12,2,2,0,0
+UBC,2010,W,ENGL,112,,05A,STRAT UNIV WRIT,"Morgan, George",31,75.1,5.76,85,55,31,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,9,9,6,1,0
+UBC,2010,W,ENGL,220,,006,LIT ENGL 18C,"Morgan, George",42,68.76,21.29,91,0,36,5,1,0,0,2,1,0,1,1,5,1,1,1,1,1,10,11,7,1,2
+UBC,2010,W,ENGL,221,,011,LIT BRIT 18C+,"Morgan, George",32,75.61,5.4,85,61,31,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,6,11,8,1,0
+UBC,2011,S,ENGL,110,,JN4,INTRO LITERATURE,"Morgan, George",29,72.14,4.92,86,60,28,0,1,0,0,0,0,0,0,0,0,0,0,1,1,8,14,1,2,1,0
+UBC,2011,W,ENGL,112,,03E,STRAT UNIV WRIT,"Morgan, George",34,71.74,4.47,80,63,34,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,14,4,3,0,0
+UBC,2011,W,ENGL,112,,08A,STRAT UNIV WRIT,"Morgan, George",34,72,6.08,80,44,33,1,0,0,0,0,0,0,0,1,1,0,0,0,1,11,13,6,2,0,0
+UBC,2011,W,ENGL,112,,08M,STRAT UNIV WRIT,"Morgan, George",30,67.47,16.38,83,10,28,2,0,0,0,0,1,1,0,0,2,2,1,0,5,4,5,6,5,0,0
+UBC,2011,W,ENGL,112,,09M,STRAT UNIV WRIT,"Morgan, George",26,73,5.69,86,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,4,7,3,1,0
+UBC,2011,W,ENGL,220,,009,LIT ENGL 18C,"Morgan, George",24,74.61,5.64,85,64,23,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,3,9,4,1,0
+UBC,2011,W,ENGL,221,,003,LIT BRIT 18C+,"Morgan, George",40,70.9,12.81,85,0,38,1,1,0,0,1,0,0,0,0,1,0,0,2,5,6,13,7,4,1,0
+UBC,2012,S,ENGL,110,,JN4,INTRO LITERATURE,"Morgan, George",25,71.96,5.98,82,55,25,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,10,2,3,0,0
+UBC,2012,S,ENGL,112,,MA5,STRAT UNIV WRIT,"Morgan, George",24,70.58,9.02,90,50,24,0,0,0,0,0,0,0,0,0,0,2,0,2,2,3,10,3,0,1,1
+UBC,2012,W,ENGL,112,,02F,STRAT UNIV WRIT,"Morgan, George",25,67.21,11.11,84,45,21,3,1,0,0,0,0,0,0,3,3,1,0,2,3,4,6,3,2,0,0
+UBC,2012,W,ENGL,112,,04D,STRAT UNIV WRIT,"Morgan, George",33,71.06,12.25,85,20,32,1,0,0,0,0,0,1,0,0,1,1,1,2,3,6,3,6,9,1,0
+UBC,2012,W,ENGL,112,,04N,STRAT UNIV WRIT,"Morgan, George",32,71,12.91,80,10,31,1,0,0,0,0,1,0,0,0,1,1,0,1,3,3,9,8,6,0,0
+UBC,2012,W,ENGL,112,,05C,STRAT UNIV WRIT,"Morgan, George",34,70.52,13.4,85,15,32,1,1,0,0,0,1,0,0,0,1,2,1,4,0,5,7,2,10,1,0
+UBC,2012,W,ENGL,112,,06N,STRAT UNIV WRIT,"Morgan, George",33,69.94,14.06,80,0,31,2,0,0,0,1,0,0,0,1,2,0,0,0,3,5,13,7,3,0,0
+UBC,2012,W,ENGL,112,,08M,STRAT UNIV WRIT,"Morgan, George",27,70.37,14.23,86,20,25,2,0,0,0,0,0,1,0,1,2,1,1,0,1,2,8,7,4,1,0
+UBC,2012,W,ENGL,112,,11C,STRAT UNIV WRIT,"Morgan, George",33,71.58,6.94,85,50,33,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5,14,4,3,1,0
+UBC,2013,S,ENGL,110,,JN3,INTRO LITERATURE,"Morgan, George",35,76.46,5.61,90,63,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,9,9,7,3,1
+UBC,2013,W,ENGL,112,,01N,STRAT UNIV WRIT,"Morgan, George",28,71.58,10.12,88,41,25,1,2,0,0,0,0,0,0,1,1,1,1,1,2,4,5,5,5,1,0
+UBC,2013,W,ENGL,112,,02B,STRAT UNIV WRIT,"Morgan, George",32,68.5,18.74,85,5,29,3,0,0,0,1,1,0,1,0,3,0,1,0,1,6,8,8,3,2,0
+UBC,2013,W,ENGL,112,,03R,STRAT UNIV WRIT,"Morgan, George",23,73.23,8.98,85,42,21,1,1,0,0,0,0,0,0,1,1,0,0,1,0,5,6,3,4,2,0
+UBC,2013,W,ENGL,112,,07P,STRAT UNIV WRIT,"Morgan, George",23,71.09,10.18,87,45,21,1,1,0,0,0,0,0,0,1,1,1,0,2,1,5,4,2,5,1,0
+UBC,2013,W,ENGL,112,,08B,STRAT UNIV WRIT,"Morgan, George",31,70.23,5.67,80,59,31,0,0,0,0,0,0,0,0,0,0,0,1,2,4,11,7,3,3,0,0
+UBC,2013,W,ENGL,112,,09M,STRAT UNIV WRIT,"Morgan, George",25,70.83,6.88,80,56,24,0,1,0,0,0,0,0,0,0,0,0,2,2,1,6,8,2,3,0,0
+UBC,2013,W,ENGL,112,,12A,STRAT UNIV WRIT,"Morgan, George",34,75.19,6.23,85,55,32,0,2,0,0,0,0,0,0,0,0,0,1,1,0,3,10,5,11,1,0
+UBC,2013,W,ENGL,221,,003,LIT BRIT 18C+,"Morgan, George",41,76.95,6.08,88,64,41,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,7,10,15,3,0
+UBC,2014,S,ENGL,110,,JL2,INTRO LITERATURE,"Morgan, George",38,76.3,4.76,85,64,37,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5,9,9,12,1,0
+UBC,2014,W,ENGL,112,,02N,UNIVRSTY WRITING,"Morgan, George",25,74,6.75,86,59,25,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,5,7,3,2,0
+UBC,2014,W,ENGL,112,,04B,UNIVRSTY WRITING,"Morgan, George",31,72.84,12.3,90,15,30,1,0,0,0,0,1,0,0,0,1,0,0,1,2,5,8,9,3,1,1
+UBC,2014,W,ENGL,112,,06A,UNIVRSTY WRITING,"Morgan, George",32,72.1,9.63,90,40,29,1,2,0,0,0,0,0,0,1,1,1,0,2,1,5,9,5,5,0,1
+UBC,2014,W,ENGL,112,,07A,UNIVRSTY WRITING,"Morgan, George",31,73.87,5.77,82,55,31,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,12,5,7,0,0
+UBC,2014,W,ENGL,112,,13B,UNIVRSTY WRITING,"Morgan, George",25,72.48,8.23,85,45,24,1,0,0,0,0,0,0,0,1,1,0,0,2,1,5,8,3,4,1,0
+UBC,2014,W,ENGL,112,,13N,UNIVRSTY WRITING,"Morgan, George",26,71.12,16.02,90,0,25,1,0,0,0,1,0,0,0,0,1,0,0,1,3,5,6,3,5,1,1
+UBC,2014,W,ENGL,221,,013,BRIT LIT 18C-21C,"Morgan, George",29,69.29,19.55,85,10,25,3,1,0,0,0,2,1,0,0,3,0,1,0,1,6,3,5,7,2,0
+UBC,2015,S,ENGL,110,,MA2,INTRO LITERATURE,"Morgan, George",33,74.58,7.14,90,55,33,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,12,4,4,3,1
+UBC,2015,W,ENGL,112,,02P,UNIVRSTY WRITING,"Morgan, George",24,72.83,7.67,80,45,23,1,0,0,0,0,0,0,0,1,1,0,0,1,1,5,6,5,5,0,0
+UBC,2015,W,ENGL,112,,04C,UNIVRSTY WRITING,"Morgan, George",31,72.55,6.83,85,50,31,0,0,0,0,0,0,0,0,0,0,1,0,2,2,4,14,4,3,1,0
+UBC,2015,W,ENGL,112,,04M,UNIVRSTY WRITING,"Morgan, George",26,71.42,7.32,85,52,26,0,0,0,0,0,0,0,0,0,0,1,0,4,1,5,8,3,3,1,0
+UBC,2015,W,ENGL,112,,05R,UNIVRSTY WRITING,"Morgan, George",29,74.59,7.09,90,55,27,0,2,0,0,0,0,0,0,0,0,0,1,0,2,2,13,2,4,2,1
+UBC,2015,W,ENGL,112,,07B,UNIVRSTY WRITING,"Morgan, George",26,72.65,7.15,86,55,26,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,9,1,4,2,0
+UBC,2015,W,ENGL,112,,07P,UNIVRSTY WRITING,"Morgan, George",29,74.1,6.35,89,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,10,4,4,2,0
+UBC,2015,W,ENGL,220,,005,ENGL LIT TO 18C,"Morgan, George",29,76.55,5.56,87,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,4,7,4,0
+UBC,2016,S,ENGL,110,,MA4,INTRO LITERATURE,"Morgan, George",34,74.59,5.34,84,62,34,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,9,9,0,0
+UBC,2016,W,ENGL,112,,04N,UNIVRSTY WRITING,"Morgan, George",32,71.65,6.15,82,50,31,0,1,0,0,0,0,0,0,0,0,1,0,2,1,8,11,6,2,0,0
+UBC,2016,W,ENGL,112,,05A,UNIVRSTY WRITING,"Morgan, George",31,73.8,8.36,86,40,29,1,1,0,0,0,0,0,0,1,1,0,0,0,1,8,7,5,6,2,0
+UBC,2016,W,ENGL,112,,06B,UNIVRSTY WRITING,"Morgan, George",32,73.66,5.09,85,64,32,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,12,9,3,1,0
+UBC,2016,W,ENGL,112,,06P,UNIVRSTY WRITING,"Morgan, George",30,70.72,14.28,81,0,28,1,1,0,0,1,0,0,0,0,1,0,0,1,1,6,11,6,3,0,0
+UBC,2016,W,ENGL,112,,07P,UNIVRSTY WRITING,"Morgan, George",25,70.95,6.72,80,50,22,0,3,0,0,0,0,0,0,0,0,1,0,1,3,4,8,3,2,0,0
+UBC,2016,W,ENGL,112,,08A,UNIVRSTY WRITING,"Morgan, George",29,69.38,11.4,86,35,26,3,0,0,0,0,0,0,1,2,3,0,1,0,5,4,6,5,4,1,0
+UBC,2016,W,ENGL,112,,14N,UNIVRSTY WRITING,"Morgan, George",32,69.9,10.06,82,30,29,2,1,0,0,0,0,0,1,1,2,0,0,2,2,9,10,4,2,0,0
+UBC,2017,S,ENGL,110,,MA2,INTRO LITERATURE,"Morgan, George",37,76.44,4.88,85,65,36,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,12,8,8,4,0
+UBC,2017,W,ENGL,112,,05D,UNIVRSTY WRITING,"Morgan, George",34,72,7.28,85,42,32,1,1,0,0,0,0,0,0,1,1,0,0,1,3,5,15,5,2,1,0
+UBC,2017,W,ENGL,112,,06B,UNIVRSTY WRITING,"Morgan, George",33,72.81,7.43,84,50,32,0,1,0,0,0,0,0,0,0,0,1,0,2,5,1,8,8,7,0,0
+UBC,2017,W,ENGL,112,,08B,UNIVRSTY WRITING,"Morgan, George",33,72.42,5.96,82,56,33,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,12,5,5,0,0
+UBC,2017,W,ENGL,112,,11N,UNIVRSTY WRITING,"Morgan, George",28,72.21,4.69,85,62,28,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,14,3,1,1,0
+UBC,2017,W,ENGL,112,,14M,UNIVRSTY WRITING,"Morgan, George",34,73.65,5,80,60,34,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,12,4,8,0,0
+UBC,2017,W,ENGL,357,M,002,RESTORATION &18C,"Morgan, George",15,76.23,5.4,85,65,13,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1,4,1,0
+UBC,2018,S,ENGL,110,,MA2,INTRO LITERATURE,"Morgan, George",34,71.97,12.35,87,14,33,1,0,0,0,0,1,0,0,0,1,1,0,0,3,7,7,7,7,1,0
+UBC,2018,W,ENGL,112,,02D,UNIVRSTY WRITING,"Morgan, George",27,69.42,8.56,85,45,25,1,1,0,0,0,0,0,0,1,1,0,1,4,3,6,5,2,3,1,0
+UBC,2018,W,ENGL,112,,03C,UNIVRSTY WRITING,"Morgan, George",30,72.1,6.86,84,60,30,0,0,0,0,0,0,0,0,0,0,0,0,6,1,4,8,5,6,0,0
+UBC,2018,W,ENGL,112,,04N,UNIVRSTY WRITING,"Morgan, George",27,69.26,10.73,85,34,26,1,0,0,0,0,0,0,1,0,1,2,0,2,3,6,6,4,1,2,0
+UBC,2018,W,ENGL,112,,05C,UNIVRSTY WRITING,"Morgan, George",30,68.5,8.1,80,50,28,0,2,0,0,0,0,0,0,0,0,1,4,2,4,5,5,4,3,0,0
+UBC,2018,W,ENGL,112,,06N,UNIVRSTY WRITING,"Morgan, George",27,71.88,7.11,85,50,25,0,2,0,0,0,0,0,0,0,0,1,1,0,1,5,9,7,0,1,0
+UBC,2018,W,ENGL,112,,07B,UNIVRSTY WRITING,"Morgan, George",29,65.04,18,80,3,25,2,2,0,0,1,1,0,0,0,2,1,1,2,3,3,12,2,1,0,0
+UBC,2018,W,ENGL,112,,07P,UNIVRSTY WRITING,"Morgan, George",23,70.48,11.3,88,36,22,1,0,0,0,0,0,0,1,0,1,0,1,2,4,4,4,0,5,2,0
+UBCV,2014,S,ENGL,110,,JL2,Approaches to Literature,George Morgan,37,76.2972973,4.760163774,85.0,64.0,,,,,,,,,,,0,0,0,0,,5,9,9,12,,0
+UBCV,2014,W,ENGL,112,,02N,Strategies for University Writing,George Macgregor Morgan;George Morgan,25,74.0,6.751543034,86.0,59.0,,,,,,,,,,,0,0,,,,5,5,7,,,0
+UBCV,2014,W,ENGL,112,,04B,Strategies for University Writing,George Macgregor Morgan;George Morgan,31,72.83870968,12.29660326,90.0,15.0,,,,,,,,,,,,,,,,5,8,9,,,
+UBCV,2014,W,ENGL,112,,06A,Strategies for University Writing,George Macgregor Morgan;George Morgan,30,72.1,9.625218314,90.0,40.0,,,,,,,,,,,,,,,,5,9,5,5,,
+UBCV,2014,W,ENGL,112,,07A,Strategies for University Writing,George Macgregor Morgan;George Morgan,31,73.87096774,5.772012563,82.0,55.0,,,,,,,,,,,0,0,,,,,12,5,7,0,0
+UBCV,2014,W,ENGL,112,,13B,Strategies for University Writing,George Macgregor Morgan;George Morgan,25,72.48,8.231646251,85.0,45.0,,,,,,,,,,,,,,,,5,8,,,,0
+UBCV,2014,W,ENGL,112,,13N,Strategies for University Writing,George Macgregor Morgan;George Morgan,26,71.11538462,16.0158095,90.0,0.0,,,,,,,,,,,,,,,,5,6,,5,,
+UBCV,2014,W,ENGL,221,,013,Literature in Britain: the 18th Century to the Present,George Macgregor Morgan;George Morgan,28,69.28571429,19.55023376,85.0,10.0,,,,,,,,,,,,,,,,6,3,5,7,,0
+UBCV,2015,S,ENGL,110,,MA2,Approaches to Literature,George Macgregor Morgan;George Morgan,33,74.57575758,7.14156103,90.0,55.0,,,,,,,,,,,0,0,,,,6,12,,,,
+UBCV,2015,W,ENGL,112,,02P,Strategies for University Writing,George Macgregor Morgan;George Morgan,24,72.833333333,7.665091205,80.0,45.0,,,,,,,,,,,,,,,,5,6,5,5,0,0
+UBCV,2015,W,ENGL,112,,04C,Strategies for University Writing,George Macgregor Morgan;George Morgan,31,72.548387097,6.830513449,85.0,50.0,,,,,,,,,,,0,,,,,,14,,,,0
+UBCV,2015,W,ENGL,112,,04M,Strategies for University Writing,George Macgregor Morgan;George Morgan,26,71.423076923,7.322147646,85.0,52.0,,,,,,,,,,,0,,,,,5,8,,,,0
+UBCV,2015,W,ENGL,112,,05R,Strategies for University Writing,George Macgregor Morgan;George Morgan,27,74.592592593,7.0941973,90.0,55.0,,,,,,,,,,,0,0,,,,,13,,,,
+UBCV,2015,W,ENGL,112,,07B,Strategies for University Writing,George Macgregor Morgan;George Morgan,26,72.653846154,7.149502403,86.0,55.0,,,,,,,,,,,0,0,,,,5,9,,,,0
+UBCV,2015,W,ENGL,112,,07P,Strategies for University Writing,George Macgregor Morgan;George Morgan,29,74.103448276,6.349042828,89.0,60.0,,,,,,,,,,,0,0,0,,,6,10,,,,0
+UBCV,2015,W,ENGL,220,,005,Literature in English to the 18th Century,George Macgregor Morgan;George Morgan,29,76.551724138,5.558688225,87.0,69.0,,,,,,,,,,,0,0,0,0,0,7,7,,7,,0
+UBCV,2016,S,ENGL,110,,MA4,Approaches to Literature,George Macgregor Morgan;George Morgan,34,74.58823529,5.343461862,84.0,62.0,,,,,,,,,,,0,0,0,1,3,3,9,9,9,0,0
+UBCV,2016,W,ENGL,112,,04N,Strategies for University Writing,George Macgregor Morgan;George Morgan,31,71.64516129,6.145721477,82.0,50.0,,,,,,,,,,,0,1,0,2,1,8,11,6,2,0,0
+UBCV,2016,W,ENGL,112,,05A,Strategies for University Writing,George Macgregor Morgan;George Morgan,30,73.8,8.355877551,86.0,40.0,,,,,,,,,,,1,0,0,0,1,8,7,5,6,2,0
+UBCV,2016,W,ENGL,112,,06B,Strategies for University Writing,George Macgregor Morgan;George Morgan,32,73.65625,5.090214363,85.0,64.0,,,,,,,,,,,0,0,0,0,4,3,12,9,3,1,0
+UBCV,2016,W,ENGL,112,,06P,Strategies for University Writing,George Macgregor Morgan;George Morgan,29,70.72413793,14.27509458,81.0,0.0,,,,,,,,,,,1,0,0,1,1,6,11,6,3,0,0
+UBCV,2016,W,ENGL,112,,07P,Strategies for University Writing,George Macgregor Morgan;George Morgan,22,70.95454546,6.722225204,80.0,50.0,,,,,,,,,,,0,1,0,1,3,4,8,3,2,0,0
+UBCV,2016,W,ENGL,112,,08A,Strategies for University Writing,George Macgregor Morgan;George Morgan,29,69.37931035,11.40305032,86.0,35.0,,,,,,,,,,,3,0,1,0,5,4,6,5,4,1,0
+UBCV,2016,W,ENGL,112,,14N,Strategies for University Writing,George Macgregor Morgan;George Morgan,31,69.90322581,10.06430934,82.0,30.0,,,,,,,,,,,2,0,0,2,2,9,10,4,2,0,0
+UBCV,2017,S,ENGL,110,,MA2,Approaches to Literature,George Morgan,36,76.444444444,4.884052442,85.0,65.0,,,,,,,,,,,0,0,0,0,1,3,12,8,8,4,0
+UBCV,2017,W,ENGL,112,,05D,Strategies for University Writing,George Morgan,33,72.0,7.284401142,85.0,42.0,,,,,,,,,,,1,0,0,1,3,5,15,5,2,1,0
+UBCV,2017,W,ENGL,112,,06B,Strategies for University Writing,George Morgan,32,72.8125,7.428964674,84.0,50.0,,,,,,,,,,,0,1,0,2,5,1,8,8,7,0,0
+UBCV,2017,W,ENGL,112,,08B,Strategies for University Writing,George Morgan,33,72.424242424,5.963589015,82.0,56.0,,,,,,,,,,,0,0,2,0,2,7,12,5,5,0,0
+UBCV,2017,W,ENGL,112,,11N,Strategies for University Writing,George Morgan,28,72.214285714,4.685336802,85.0,62.0,,,,,,,,,,,0,0,0,2,1,6,14,3,1,1,0
+UBCV,2017,W,ENGL,112,,14M,Strategies for University Writing,George Morgan,34,73.647058824,4.996255282,80.0,60.0,,,,,,,,,,,0,0,0,1,1,8,12,4,8,0,0
+UBCV,2017,W,ENGL,357,M,002,Restoration and Eighteenth-Century Studies,George Macgregor Morgan;George Morgan,13,76.230769231,5.402990625,85.0,65.0,,,,,,,,,,,0,0,0,0,1,0,6,1,4,1,0
+UBCV,2018,S,ENGL,110,,MA2,Approaches to Literature,George Morgan,34,71.970588235,12.354572934,87.0,14.0,,,,,,,,,,,1,1,0,0,3,7,7,7,7,1,0
+UBCV,2018,W,ENGL,112,,02D,Strategies for University Writing,George Morgan,26,69.423076923,8.561182521,85.0,45.0,,,,,,,,,,,1,0,1,4,3,6,5,2,3,1,0
+UBCV,2018,W,ENGL,112,,03C,Strategies for University Writing,George Morgan,30,72.1,6.864953474,84.0,60.0,,,,,,,,,,,0,0,0,6,1,4,8,5,6,0,0
+UBCV,2018,W,ENGL,112,,04N,Strategies for University Writing,George Morgan,27,69.259259259,10.725930451,85.0,34.0,,,,,,,,,,,1,2,0,2,3,6,6,4,1,2,0
+UBCV,2018,W,ENGL,112,,05C,Strategies for University Writing,George Morgan,28,68.5,8.103497187,80.0,50.0,,,,,,,,,,,0,1,4,2,4,5,5,4,3,0,0
+UBCV,2018,W,ENGL,112,,06N,Strategies for University Writing,George Morgan,25,71.88,7.114070565,85.0,50.0,,,,,,,,,,,0,1,1,0,1,5,9,7,0,1,0
+UBCV,2018,W,ENGL,112,,07B,Strategies for University Writing,George Morgan,27,65.037037037,17.99889202,80.0,3.0,,,,,,,,,,,2,1,1,2,3,3,12,2,1,0,0
+UBCV,2018,W,ENGL,112,,07P,Strategies for University Writing,George Morgan,23,70.47826087,11.297101661,88.0,36.0,,,,,,,,,,,1,0,1,2,4,4,4,0,5,2,0
+UBCV,2019,S,ENGL,110,,MA2,Approaches to Literature,George Morgan,34,75.0,5.887840578,85.0,62.0,,,,,,,,,,,0,0,0,1,2,6,7,8,7,3,0
+UBCV,2019,W,ENGL,112,,02A,Strategies for University Writing,George Morgan,27,72.851851852,10.574656582,85.0,33.0,,,,,,,,,,,1,0,0,3,1,3,8,3,6,2,0
+UBCV,2019,W,ENGL,112,,02N,Strategies for University Writing,George Morgan,26,75.076923077,6.881413093,86.0,55.0,,,,,,,,,,,0,0,1,0,0,6,6,3,7,3,0
+UBCV,2019,W,ENGL,112,,05C,Strategies for University Writing,George Morgan,29,74.689655172,6.042134487,88.0,65.0,,,,,,,,,,,0,0,0,0,2,7,9,3,5,3,0
+UBCV,2019,W,ENGL,112,,06P,Strategies for University Writing,George Morgan,28,76.357142857,5.539182221,86.0,61.0,,,,,,,,,,,0,0,0,1,0,4,7,2,12,2,0
+UBCV,2019,W,ENGL,112,,07B,Strategies for University Writing,George Morgan,27,72.037037037,6.986148281,85.0,56.0,,,,,,,,,,,0,0,1,3,2,2,14,0,4,1,0
+UBCV,2019,W,ENGL,112,,08M,Strategies for University Writing,George Morgan,23,76.347826087,6.012174736,85.0,55.0,,,,,,,,,,,0,0,1,0,0,0,9,3,8,2,0
+UBCV,2020,S,ENGL,110,,MA2,Approaches to Literature,George Morgan,41,75.731707317,4.171476898,88.0,68.0,,,,,,,,,,,0,0,0,0,0,4,17,10,8,2,0
+UBCV,2020,W,ENGL,353,,002,Eighteenth-Century Literature,Barbara Dancygier;George Morgan;Nicholas James Hudson,25,78.64,13.607228471,89.0,17.0,,,,,,,,,,,1,0,0,0,0,1,2,4,13,4,0
+UBCV,2021,W,ENGL,111,,002,Approaches to Non-fictional Prose,Cody Brown;George Morgan;Ian Hill;Kelsey Wilson;Nathan Ness;Rhonda Bellares;Ya'El Frankel,137,78.416058394,16.370994048,98.0,0.0,,,,,,,,,,,6,1,1,2,3,7,8,28,32,30,19
+UBCV,2021,W,ENGL,232,,001,Approaches to Media Studies,George Morgan;Richard Anthony Cavell,46,77.847826087,12.440020349,100.0,54.0,,,,,,,,,,,0,1,2,3,6,6,1,3,5,9,10
+UBCV,2021,W,ENGL,312,,001,Discourse and Society,George Morgan;Katja Thieme,33,72.818181818,13.904708163,85.0,12.0,,,,,,,,,,,2,0,0,3,2,4,3,9,8,2,0
+UBCV,2021,W,ENGL,328,,001,"Metaphor, Language and Thought",Elise Stickles;George Morgan,28,76.75,21.341361337,94.0,5.0,,,,,,,,,,,2,0,1,2,1,0,0,4,6,5,7

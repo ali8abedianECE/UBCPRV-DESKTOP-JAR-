@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,LLED,200,,VE4,INTRO ACAD WRIT,"Hellwig, Cornelie Emma Soelie",14,68.07,8.24,82,57,14,0,0,0,0,0,0,0,0,0,0,0,2,3,3,2,0,3,1,0,0
+UBC,2015,W,LLED,201,,VE4,CRIT READ&WRIT,"Hellwig, Cornelie Emma Soelie",14,61.43,12.86,78,38,12,2,0,0,0,0,0,0,2,0,2,1,4,2,0,1,1,3,0,0,0
+UBC,2016,S,VANT,140,A,V98,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",16,58.93,22.22,85,0,11,4,1,0,0,1,0,0,2,1,4,0,2,2,1,2,0,1,2,1,0
+UBC,2016,S,VANT,140,A,V99,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",20,64.21,15.12,81,12,18,1,1,0,0,0,1,0,0,0,1,1,2,3,4,2,3,2,1,0,0
+UBC,2016,W,LLED,200,,VE5,INTRO ACAD WRIT,"Hellwig, Cornelie Emma Soelie",14,57.38,12,76,42,9,4,1,0,0,0,0,0,0,4,4,0,4,1,1,1,0,2,0,0,0
+UBC,2016,W,LLED,201,,VE4,CRIT READ&WRIT,"Hellwig, Cornelie Emma Soelie",13,62.23,19.34,81,11,10,3,0,0,0,0,1,0,0,2,3,0,0,2,3,1,1,1,2,0,0
+UBC,2016,W,LLED,201,,VE5,CRIT READ&WRIT,"Hellwig, Cornelie Emma Soelie",13,59.42,9.38,76,45,10,2,1,0,0,0,0,0,0,2,2,1,2,3,2,1,0,1,0,0,0
+UBC,2016,W,VANT,140,D,VE3,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",24,64.52,9.92,81,33,21,2,1,0,0,0,0,0,1,1,2,0,2,2,9,4,2,1,1,0,0
+UBC,2017,S,VANT,140,A,VE1,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",28,76.29,5.8,85,61,28,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,6,6,9,2,0
+UBC,2017,S,VANT,140,A,VE2,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",25,71.56,13.95,90,31,23,2,0,0,0,0,0,0,2,0,2,0,0,3,3,2,2,8,0,4,1
+UBC,2017,S,VANT,140,A,VE3,CONTENT LANG TUT,"Hellwig, Cornelie Emma Soelie",14,76.64,6.39,88,66,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,3,2,0
+UBCV,2015,W,LLED,200,,VE4,Introduction to Writing in Academic and Professional Registers,Cornelie Emma Soelie Hellwig;Sandra Zappa,14,68.071428571,8.241212436,82.0,57.0,,,,,,,,,,,0,0,,,,,,,,0,0
+UBCV,2015,W,LLED,201,,VE4,Critical Reading and Writing in Academic and Professional Registers,Cornelie Emma Soelie Hellwig;Sandra Zappa,14,61.428571429,12.864466778,78.0,38.0,,,,,,,,,,,,,,,,,,,0,0,0
+UBCV,2015,W,VANT,140,E,V01,Content and Language Enrichment Tutorials,Alfredo Ferreira;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,12,69.333333333,6.25711716,79.0,59.0,,,,,,,,,,,0,0,,,,,5,,0,0,0
+UBCV,2015,W,VANT,140,E,V03,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,23,72.391304348,8.451676167,83.0,41.0,,,,,,,,,,,,,,,,,10,,,0,0
+UBCV,2015,W,VANT,140,E,V04,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,22,68.272727273,10.655567819,80.0,27.0,,,,,,,,,,,,,,,,5,5,,,0,0
+UBCV,2015,W,VANT,140,E,V06,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,14,69.785714286,7.202334786,79.0,58.0,,,,,,,,,,,0,0,,,,,5,,0,0,0
+UBCV,2016,S,APSC,180,,VE1,Statics,Cornelie Emma Soelie Hellwig;Moein Ahmadi Pour Shirazi;Ray Taheri-Ardebili;Seach Chyr Goh,34,70.20588235,25.54589383,100.0,0.0,,,,,,,,,,,7,2,0,1,4,1,3,2,1,2,11
+UBCV,2016,S,VANT,140,A,V98,Content and Language Enrichment Tutorials,Cornelie Emma Soelie Hellwig;Sandra Zappa,15,58.93333333,22.21796785,85.0,0.0,,,,,,,,,,,4,0,2,2,1,2,0,1,2,1,0
+UBCV,2016,S,VANT,140,A,V99,Content and Language Enrichment Tutorials,Cornelie Emma Soelie Hellwig;Sandra Zappa,19,64.21052632,15.12018132,81.0,12.0,,,,,,,,,,,1,1,2,3,4,2,3,2,1,0,0
+UBCV,2016,S,VANT,151,,VE1,Multidisciplinary Engineering Design Project,Cornelie Emma Soelie Hellwig;Jacques Rousseau;Lukas Stracovsky;Ray Taheri-Ardebili;Seach Chyr Goh,34,77.73529412,21.88164974,100.0,0.0,,,,,,,,,,,3,0,0,0,0,3,2,3,10,5,8
+UBCV,2016,W,LLED,200,,VE5,Introduction to Writing in Academic and Professional Registers,Cornelie Emma Soelie Hellwig;Sandra Zappa,13,57.38461539,12.00373873,76.0,42.0,,,,,,,,,,,4,0,4,1,1,1,0,2,0,0,0
+UBCV,2016,W,LLED,201,,VE4,Critical Reading and Writing in Academic and Professional Registers,Cornelie Emma Soelie Hellwig;Sandra Zappa,13,62.23076923,19.34405096,81.0,11.0,,,,,,,,,,,3,0,0,2,3,1,1,1,2,0,0
+UBCV,2016,W,LLED,201,,VE5,Critical Reading and Writing in Academic and Professional Registers,Cornelie Emma Soelie Hellwig;Sandra Zappa,12,59.41666667,9.37558079,76.0,45.0,,,,,,,,,,,2,1,2,3,2,1,0,1,0,0,0
+UBCV,2016,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Cornelie Emma Soelie Hellwig;Fatimah Mahmood;Mike Murphy;Sandra Zappa,19,67.0,9.843215373,76.0,30.0,,,,,,,,,,,1,0,0,3,3,5,6,1,0,0,0
+UBCV,2016,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Cornelie Emma Soelie Hellwig;Fatimah Mahmood;Mike Murphy;Sandra Zappa,18,62.33333333,7.178398969,75.0,53.0,,,,,,,,,,,0,3,6,2,2,1,4,0,0,0,0
+UBCV,2016,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Cornelie Emma Soelie Hellwig;Fatimah Mahmood;Mike Murphy;Sandra Zappa,23,64.52173913,9.921828851,81.0,33.0,,,,,,,,,,,2,0,2,2,9,4,2,1,1,0,0
+UBCV,2016,W,VANT,140,D,VE4,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Cornelie Emma Soelie Hellwig;Fatimah Mahmood;Mike Murphy;Sandra Zappa,20,60.55,14.20702199,76.0,29.0,,,,,,,,,,,4,1,2,3,2,2,4,2,0,0,0
+UBCV,2017,S,VANT,140,A,VE1,Content and Language Enrichment Tutorials,Cornelie Emma Soelie Hellwig,28,76.285714286,5.80457765,85.0,61.0,,,,,,,,,,,0,0,0,1,2,2,6,6,9,2,0
+UBCV,2017,S,VANT,140,A,VE2,Content and Language Enrichment Tutorials,Cornelie Emma Soelie Hellwig,25,71.56,13.946564691,90.0,31.0,,,,,,,,,,,2,0,0,3,3,2,2,8,0,4,1
+UBCV,2017,S,VANT,140,A,VE3,Content and Language Enrichment Tutorials,Cornelie Emma Soelie Hellwig,14,76.642857143,6.392389018,88.0,66.0,,,,,,,,,,,0,0,0,0,1,1,5,2,3,2,0

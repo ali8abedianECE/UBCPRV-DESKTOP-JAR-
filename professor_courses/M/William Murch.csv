@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,Eric Ferguson;Madeleine Frame;Morgan Fraser;Rebecca Anderson;William Murch,291,70.494845361,11.983716289,93.0,0.0,9,6,11,32,41,43,55,35,39,15,5,,,
+UBCO,2021,W,PSYO,271,,102,Introduction to Data Analysis,Laura Wrighton;William Murch,55,70.563636364,18.882446911,100.0,2.0,4,1,6,5,5,7,3,2,11,5,6,,,
+UBCV,2014,W,PSYC,218,,006,Analysis of Behavioural Data,David Geoffrey Hall;Kristan Marchak;William Murch;William Spencer Murch,96,70.92708333,18.06027615,99.0,11.0,11,6,9,5,7,6,7,6,10,15,14,,,
+UBCV,2015,W,PSYC,218,,007,Analysis of Behavioural Data,David Geoffrey Hall;Kristan Marchak;William Murch,96,69.96875,15.252577435,95.0,25.0,9,6,7,11,7,11,8,6,14,7,10,,,
+UBCV,2015,W,PSYC,309,A,001,Cognitive Processes,Lihan Bill Chen;Lihan Chen;Todd Handy;William Murch;William Spencer Murch,185,73.540540541,13.274678811,93.0,0.0,4,8,13,11,16,16,18,29,36,27,7,,,
+UBCV,2016,W,PSYC,218,,001,Analysis of Behavioural Data,Grace Truong;Patrick Laflamme;William Murch,80,66.95,17.58228395,95.0,0.0,8,5,12,10,4,10,1,7,12,4,7,,,
+UBCV,2016,W,PSYC,335,,001,Gambling and Decision Making,Luke Clark;William Murch;William Spencer Murch,155,70.09032258,12.24658327,92.0,22.0,5,9,13,21,4,27,18,9,35,11,3,,,
+UBCV,2017,W,PSYC,335,,001,Gambling and Decision Making,Luke Clark;William Murch,158,71.227848101,12.051851212,95.0,36.0,4,12,10,12,15,28,15,14,27,11,10,,,
+UBCV,2019,W,PSYC,217,,007,Research Methods,Brandon Tomm;Cindel White;Grace Truong;Holly Engstrom;William Murch,91,69.373626374,10.581586052,94.0,40.0,2,4,13,7,9,18,11,10,8,7,2,,,
+UBCV,2019,W,PSYC,217,,009,Research Methods,Andrew Rivers;Brandon Tomm;Cindel White;Holly Engstrom;William Murch,88,70.579545455,10.883628527,92.0,36.0,1,2,10,6,17,9,15,3,13,8,4,,,
+UBCV,2019,W,PSYC,218,,006,Analysis of Behavioural Data,Andrew Rivers;Anita Schmalor;Ella Weik;Erica Dharmawan;Jody Mielcarski;William Murch,94,76.308510638,13.806673309,100.0,44.0,1,1,7,10,5,10,12,7,14,8,19,,,
+UBCV,2019,W,PSYC,218,,008,Analysis of Behavioural Data,Andrew Rivers;Anita Schmalor;Ella Weik;Erica Dharmawan;Jody Mielcarski;William Murch,92,76.260869565,12.72176431,100.0,50.0,0,2,5,13,6,3,10,10,15,11,17,,,
+UBCO,2021,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,William Murch,291,70.5,,93.0,0.0,9,6,11,32,41,43,55,35,39,15,5,72.0,78.0,65.0
+UBCO,2021,W,PSYO,271,,102,Introduction to Data Analysis,William Murch,55,70.6,,100.0,2.0,,,6,,,7,,,11,,6,71.0,83.5,62.0
+UBCO,2022,W,PSYO,372,,001,Research Methods and Statistics,William Murch;Leanne Ten Brinke,39,87.8,,96.0,78.0,0,0,0,0,0,0,0,1,7,19,12,88.0,90.0,86.0

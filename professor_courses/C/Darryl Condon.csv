@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,ARCH,573,F,002,ADV TPCS ENV STD,"Condon, Darryl",13,81.62,5.75,94,70,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,2,1,,,
+UBC,2015,W,ARCH,501,,011,ARCH DESIGN II,"Condon, Darryl",5,76.2,12.93,88,55,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,0,,,
+UBC,2015,W,ARCH,520,,011,ARCH DESIGN III,"Condon, Darryl",7,82.86,9.72,92,64,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,2,,,
+UBC,2016,W,ARCH,501,,012,ARCH DESIGN II,"Condon, Darryl",9,77.56,7.6,90,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2,1,1,,,
+UBC,2017,W,ARCH,501,,013,ARCH DESIGN II,"Condon, Darryl;Higgs, Melissa",8,79.13,4.02,88,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1,0,,,
+UBCV,2015,W,ARCH,501,,011,Architectural Design Studio II,Darryl Condon,5,76.2,12.9305839,88.0,55.0,,,,,,,,,,,0,0,,,,,,,,,0,,,
+UBCV,2015,W,ARCH,520,,011,Architectural Design Studio III,Darryl Condon,7,82.857142857,9.719886341,92.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2016,W,ARCH,501,,012,Architectural Design Studio II,Darryl Condon,9,77.55555556,7.601169501,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,1,2,1,1,,,
+UBCV,2017,W,ARCH,501,,013,Architectural Design Studio II,Darryl Condon;Katharine Huemoeller;Melissa Higgs,8,79.125,4.015594601,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,2,1,0,,,
+UBCV,2021,W,ARCH,520,,007,Architectural Design Studio III,Darryl Condon;Mari Fujita;Melissa Higgs,10,83.4,4.299870799,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,3,1,,,
+UBCV,2021,W,ARCH,520,,007,Architectural Design Studio III,Darryl Condon;Mari Fujita;Melissa Higgs,10,83.4,,90.0,74.0,,,,,,,,,,,,,,,,,,,,,,83.0,85.0,82.0

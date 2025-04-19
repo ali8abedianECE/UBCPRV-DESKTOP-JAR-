@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,S,BIOL,260,,921,FUND PHYSIOLOGY,"Singh, Santokh;Volpov, Beth",57,78.6,13.23,92,20,53,2,1,0,0,0,0,1,1,0,2,0,1,2,1,3,7,8,6,13,12,,,
+UBC,2016,W,BIOL,363,,201,LAB ANIMAL PHYSI,"Lacombe, Agnes;Volpov, Beth",93,79.4,8.75,96,59,93,0,0,0,0,0,0,0,0,0,0,0,1,5,4,7,11,12,21,18,14,,,
+UBC,2018,W,BIOL,361,,201,PHYS SNS NRV MSC,"Volpov, Beth",189,74.84,11.09,92,36,178,1,4,0,6,0,0,0,1,0,1,13,7,6,17,20,16,26,31,34,8,,,
+UBC,2018,W,BIOL,418,,101,EVOLUTIONARY ECO,"Volpov, Beth",30,84.86,7.08,93,66,29,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,1,5,13,7,,,
+UBCV,2016,S,BIOL,260,,921,Fundamentals of Physiology,Beth Lyn Volpov;Beth Volpov;Qianshi Lin;Santokh Singh,56,78.71428571,13.1338761,92.0,20.0,,,,,,,,,,,2,0,1,2,1,3,7,8,6,14,12,,,
+UBCV,2016,W,BIOL,363,,201,Laboratory in Animal Physiology,Agnes Lacombe;Beth Volpov;Derek Anthony Somo;Derek Somo;Gigi Lau;Ryan Sprenger;Wing Man Lo,93,79.39784946,8.749086642,96.0,59.0,,,,,,,,,,,0,0,1,5,4,7,11,12,21,18,14,,,
+UBCV,2018,W,BIOL,361,,201,"Physiology of Sensory, Nervous and Muscular Systems",Beth Lyn Volpov;Beth Volpov,184,74.635869565,11.590603708,92.0,34.0,,,,,,,,,,,2,13,8,6,18,20,16,25,32,35,9,,,
+UBCV,2018,W,BIOL,418,,101,Evolutionary Ecology,Beth Volpov;Ken Thompson;Stephanie Blain,29,84.862068966,7.079770668,93.0,66.0,,,,,,,,,,,0,0,0,0,2,1,0,1,5,13,7,,,
+UBCV,2019,S,BIOL,260,,921,Fundamentals of Physiology,Beth Lyn Volpov;Beth Volpov;Caitlin Donnelly;Rachel Chudnow;Santokh Singh,60,74.6,11.953582542,88.0,10.0,,,,,,,,,,,1,1,2,2,6,3,13,8,17,7,0,,,
+UBCV,2019,W,BIOL,121,,121,"Genetics, Evolution and Ecology",Beth Volpov;Isaac Borrego,152,72.578947368,11.084579298,95.0,39.0,,,,,,,,,,,2,9,14,6,11,19,26,16,30,15,4,,,
+UBCV,2020,S,BIOL,260,,921,Fundamentals of Physiology,Beth Volpov;Katie Marshall;Lorenzo Lindo;Santokh Singh;Skye Butterson,64,76.15625,10.265087618,90.0,46.0,,,,,,,,,,,1,3,1,3,3,8,5,11,14,12,3,,,
+UBCV,2021,W,BIOL,204,,201,Vertebrate Structure and Function,Beatrice Rost-Komiya;Beth Volpov;Carter Burtlake;Daniel Laronde;Elisabeth Bergman;Evan Mckenzie;Isaiah Box;Mary Fossey;Orna Phelan;Penelope Kahn;Queenie Pui Wing Hui,297,71.919191919,15.143018707,93.0,9.0,,,,,,,,,,,29,12,11,17,17,22,40,30,66,44,9,,,
+UBCV,2022,W,BIOL,501,,201,Quantitative Methods in Ecology and Evolution,Beth Volpov,17,95.1,,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,14,97.0,98.0,94.0
+UBCV,2023,W,SCIE,113,,V04,First-Year Seminar in Science,Caitlin Donnelly;Beth Volpov,23,74.0,,90.0,15.0,,,,,,,,,,,2,0,0,1,0,1,4,5,4,4,2,77.0,84.5,72.0

@@ -1,0 +1,64 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,PSYC,101,,005,BIO COG PSYCH,"Zysk, Eva",284,71.76,13.13,96,32,262,16,3,0,1,0,0,0,2,14,16,9,22,30,34,18,32,33,31,29,24,,,
+UBC,2018,W,PSYC,101,,V01,BIO COG PSYCH,"Zysk, Eva",77,61.68,10.87,82,39,67,9,0,0,1,0,0,0,1,8,9,10,13,14,6,7,9,2,6,0,0,,,
+UBC,2018,W,PSYC,102,,006,DEV SOC CLI PSY,"Zysk, Eva",242,69.24,13.67,93,18,212,15,5,0,7,0,1,3,4,7,15,11,17,25,20,35,26,24,25,19,10,,,
+UBC,2018,W,PSYC,102,,VM1,DEV SOC CLI PSY,"Zysk, Eva",48,66.73,11.91,89,36,43,2,0,0,3,0,0,0,1,1,2,4,6,10,1,7,2,4,8,1,0,,,
+UBC,2018,W,PSYC,300,A,001,ABNORMAL PSYC,"Zysk, Eva",126,72.34,10.99,96,43,121,3,1,0,0,0,0,0,0,3,3,8,5,8,9,18,21,19,18,9,6,,,
+UBC,2018,W,VANT,148,,V07,VANT COL PROJECT,"Zysk, Eva",26,75.77,9.79,89,54,26,0,0,0,0,0,0,0,0,0,0,1,0,1,3,5,4,1,4,7,0,,,
+UBC,2018,W,VANT,148,,V08,VANT COL PROJECT,"Zysk, Eva",25,76.36,7.82,87,55,25,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,6,3,7,4,0,,,
+UBCV,2018,W,PSYC,101,,005,Introduction to Biological and Cognitive Psychology,Catherine Rawn;Eva Zysk;Eve Limbrick-Oldfield;Graeme Betts;Klint Fung;Klint Wing Hei Fung,281,71.768683274,13.123855653,96.0,32.0,,,,,,,,,,,16,9,23,30,34,18,33,33,31,30,24,,,
+UBCV,2018,W,PSYC,101,,V01,Introduction to Biological and Cognitive Psychology,Eva Zysk;Shenaz Shahban;Simon Lolliot;Yu Luo,77,61.116883117,11.888709843,82.0,18.0,,,,,,,,,,,10,10,13,14,6,7,9,2,6,0,0,,,
+UBCV,2018,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Ashley Battaglini;Ashley Mary Battaglini;Catherine Rawn;Eva Zysk;Nicole Sugden;Raymond Macneil,236,68.050847458,15.854308741,93.0,0.0,,,,,,,,,,,20,11,17,26,22,35,26,24,26,19,10,,,
+UBCV,2018,W,PSYC,102,,VM1,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Eva Zysk;Oliver Jacobs;Robert Ruddell,48,63.604166667,17.253725572,89.0,0.0,,,,,,,,,,,5,4,6,10,1,7,2,4,8,1,0,,,
+UBCV,2018,W,PSYC,300,A,001,Abnormal Psychology,Eva Zysk;Jiwon Jennifer Na;Jiwon Na,125,72.424,10.986255343,96.0,43.0,,,,,,,,,,,3,8,5,8,9,18,21,19,19,9,6,,,
+UBCV,2018,W,VANT,148,,V07,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk,26,75.769230769,9.791047716,89.0,54.0,,,,,,,,,,,0,1,0,1,3,5,4,1,4,7,0,,,
+UBCV,2018,W,VANT,148,,V08,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk,25,76.36,7.8202728,87.0,55.0,,,,,,,,,,,0,0,1,1,0,3,6,3,7,4,0,,,
+UBCV,2019,S,VANT,149,,V06,Multi-disciplinary Research Project,Eva Zysk,25,78.16,9.267685795,94.0,57.0,,,,,,,,,,,0,0,1,0,2,4,2,3,6,4,3,,,
+UBCV,2019,S,VANT,149,,V07,Multi-disciplinary Research Project,Eva Zysk,27,77.185185185,9.841189097,94.0,62.0,,,,,,,,,,,0,0,0,4,1,4,2,6,3,3,4,,,
+UBCV,2019,W,PSYC,101,,005,Introduction to Biological and Cognitive Psychology,Denitza Dramkin;Eva Zysk;Lucas Calderhead;Shenaz Shahban,344,67.875,12.909375195,91.0,6.0,,,,,,,,,,,22,20,39,36,36,43,39,43,44,18,4,,,
+UBCV,2019,W,PSYC,101,,901,Introduction to Biological and Cognitive Psychology,Alex Jian Tong Yu;Eva Zysk;Eve Limbrick-Oldfield;Monica Emode,52,68.807692308,14.831125804,92.0,0.0,,,,,,,,,,,2,4,3,8,2,9,8,8,3,2,3,,,
+UBCV,2019,W,PSYC,101,,V02,Introduction to Biological and Cognitive Psychology,Enda Tan;Eva Zysk;Jennifer Yan Wa Yip;Jennifer Yip,96,67.208333333,14.108539159,94.0,33.0,,,,,,,,,,,10,8,7,11,12,9,10,9,9,6,5,,,
+UBCV,2019,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Eva Zysk;Monica Emode;Xiaolei Deng,186,71.129032258,14.994215682,97.0,0.0,,,,,,,,,,,11,7,17,17,17,18,21,20,26,13,19,,,
+UBCV,2019,W,VANT,148,,V01,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,20,72.65,5.163383224,82.0,61.0,,,,,,,,,,,0,0,0,2,1,3,10,2,2,0,0,,,
+UBCV,2019,W,VANT,148,,V02,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,22,71.090909091,6.038835357,80.0,56.0,,,,,,,,,,,0,0,1,1,3,6,6,2,3,0,0,,,
+UBCV,2019,W,VANT,148,,V03,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,75.208333333,7.288938413,86.0,55.0,,,,,,,,,,,0,0,2,0,0,3,6,8,3,2,0,,,
+UBCV,2019,W,VANT,148,,V04,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,25,77.36,6.645048282,89.0,65.0,,,,,,,,,,,0,0,0,0,1,4,6,6,3,5,0,,,
+UBCV,2019,W,VANT,148,,V05,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,72.916666667,11.695099928,87.0,26.0,,,,,,,,,,,1,0,0,1,0,6,8,4,1,3,0,,,
+UBCV,2019,W,VANT,148,,V06,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,22,75.0,7.634508123,87.0,50.0,,,,,,,,,,,0,1,0,0,0,4,6,4,5,2,0,,,
+UBCV,2019,W,VANT,148,,V07,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,20,73.9,18.361573147,88.0,1.0,,,,,,,,,,,1,0,1,0,0,0,4,9,2,3,0,,,
+UBCV,2019,W,VANT,148,,V08,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,30,76.4,6.228964601,86.0,57.0,,,,,,,,,,,0,0,1,0,0,5,7,5,9,3,0,,,
+UBCV,2019,W,VANT,148,,V09,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,21,75.476190476,6.145071583,83.0,57.0,,,,,,,,,,,0,0,1,0,1,2,4,6,7,0,0,,,
+UBCV,2019,W,VANT,148,,V10,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,64.375,15.127896776,86.0,23.0,,,,,,,,,,,2,3,3,2,1,3,6,0,3,1,0,,,
+UBCV,2020,S,VANT,149,,V02,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Kelly Shoecraft;Tierney Nicole Wisniewski;Tierney Wisniewski,25,78.8,6.812977812,90.0,68.0,,,,,,,,,,,0,0,0,0,0,4,4,5,4,7,1,,,
+UBCV,2020,S,VANT,149,,V04,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Kelly Shoecraft;Tierney Nicole Wisniewski;Tierney Wisniewski,24,69.75,7.212609731,82.0,58.0,,,,,,,,,,,0,0,1,5,2,7,2,4,3,0,0,,,
+UBCV,2020,S,VANT,149,,V06,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;David Brownstein;Eva Zysk;Tierney Nicole Wisniewski;Tierney Wisniewski,25,70.08,10.111544557,83.0,31.0,,,,,,,,,,,1,0,1,1,3,5,8,3,3,0,0,,,
+UBCV,2020,S,VANT,149,,V07,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Tierney Nicole Wisniewski;Tierney Wisniewski,26,74.307692308,3.855066596,83.0,70.0,,,,,,,,,,,0,0,0,0,0,5,13,3,5,0,0,,,
+UBCV,2020,S,VANT,149,,V08,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Emrul Hasan;Eva Zysk;Tierney Nicole Wisniewski;Tierney Wisniewski,14,78.5,8.662474331,93.0,65.0,,,,,,,,,,,0,0,0,0,2,2,0,3,4,2,1,,,
+UBCV,2020,W,PSYC,101,,005,Introduction to Biological and Cognitive Psychology,Elizabeth Zambrano Garza;Eva Zysk;Ke Zhang;Lexis Kepler;Lucille De Souza;Monica Emode;Shenaz Shahban,344,73.244186047,12.564641996,95.0,0.0,,,,,,,,,,,12,7,27,14,22,54,54,34,60,35,25,,,
+UBCV,2020,W,PSYC,101,,901,Introduction to Biological and Cognitive Psychology,Enda Tan;Eva Zysk;Janel Fergusson;Janel Lynn Fergusson,182,75.785714286,12.765769764,93.0,10.0,,,,,,,,,,,3,10,10,11,10,6,19,29,33,35,16,,,
+UBCV,2020,W,PSYC,101,,V02,Introduction to Biological and Cognitive Psychology,Eva Zysk;Ke Zhang;Lexis Kepler;Lucille De Souza;Tristan Hynes,98,65.87755102,16.635736782,92.0,4.0,,,,,,,,,,,9,5,10,9,6,16,17,14,7,3,2,,,
+UBCV,2020,W,PSYC,102,,006,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Eva Zysk;Hongyuan Qi;Lillian May;Vivian Qi;Xiaolei Deng,287,74.637630662,12.65247061,100.0,30.0,,,,,,,,,,,4,16,18,17,20,26,28,37,50,29,42,,,
+UBCV,2020,W,PSYC,102,,V01,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Anna Mylvaganam;Chaoyi Shi;Eva Zysk;Madison Elliott;Michael Souza;Myriam Paquet,70,70.0,10.033277962,88.0,26.0,,,,,,,,,,,2,1,4,8,11,10,16,5,11,2,0,,,
+UBCV,2020,W,PSYC,102,,V02,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Chandan Narayan;Eva Zysk;Lexis Kepler;Monica Emode,91,68.615384615,15.225540845,98.0,0.0,,,,,,,,,,,5,8,3,8,9,18,10,11,11,4,4,,,
+UBCV,2020,W,VANT,148,,V01,UBC Vantage College Projects,David Brownstein;Eva Zysk;Jennifer Lightfoot;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,24,64.625,19.331912117,80.0,2.0,,,,,,,,,,,3,1,0,0,3,8,4,2,3,0,0,,,
+UBCV,2020,W,VANT,148,,V02,UBC Vantage College Projects,Eva Zysk;Jennifer Lightfoot;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,19,68.631578947,3.989020018,77.0,59.0,,,,,,,,,,,0,0,1,1,3,11,2,1,0,0,0,,,
+UBCV,2020,W,VANT,148,,V05,UBC Vantage College Projects,Alys Avalos Rivera;David Brownstein;Eva Zysk;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,23,67.434782609,10.778033582,78.0,29.0,,,,,,,,,,,1,0,4,0,3,7,2,6,0,0,0,,,
+UBCV,2020,W,VANT,148,,V07,UBC Vantage College Projects,Brett Gilley;Dilsora Komil-Burley;Eva Zysk;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,18,68.611111111,17.91857035,83.0,0.0,,,,,,,,,,,1,0,0,0,1,8,3,3,2,0,0,,,
+UBCV,2021,S,VANT,149,,V02,Multi-disciplinary Research Project,David Brownstein;Eva Zysk;Maya Gal;Sijia Cheng;Veronika Larsen,16,73.75,4.524010021,83.0,68.0,,,,,,,,,,,0,0,0,0,0,5,7,1,3,0,0,,,
+UBCV,2021,S,VANT,149,,V04,Multi-disciplinary Research Project,Eva Zysk;Maya Gal;Sijia Cheng;Veronika Larsen,12,73.333333333,3.055050463,77.0,68.0,,,,,,,,,,,0,0,0,0,0,4,5,3,0,0,0,,,
+UBCV,2021,S,VANT,149,,V06,Multi-disciplinary Research Project,David Brownstein;Eva Zysk;Maya Gal;Sijia Cheng;Veronika Larsen,27,74.111111111,5.373248075,80.0,55.0,,,,,,,,,,,0,0,1,0,2,2,10,7,5,0,0,,,
+UBCV,2021,S,VANT,149,,V08,Multi-disciplinary Research Project,Dilsora Komil-Burley;Eva Zysk;Maya Gal;Sijia Cheng;Veronika Larsen,19,78.526315789,7.15982946,89.0,64.0,,,,,,,,,,,0,0,0,0,2,2,1,4,6,4,0,,,
+UBCV,2021,W,PSYC,101,,003,Introduction to Biological and Cognitive Psychology,Adri Khalis Abdul Karim;Eva Zysk;Mark Lam,108,72.435185185,13.33905316,93.0,37.0,,,,,,,,,,,6,3,11,8,7,13,11,5,21,15,8,,,
+UBCV,2021,W,PSYC,101,,V01,Introduction to Biological and Cognitive Psychology,Cindy Barha;Eva Zysk;Manlu Liu;Patrick Dubois;Yu Luo,86,66.546511628,15.055705955,92.0,29.0,,,,,,,,,,,11,8,6,8,3,14,14,5,7,6,4,,,
+UBCV,2021,W,VANT,148,,V01,UBC Vantage College Projects,Eva Zysk,26,68.615384615,16.465908838,85.0,0.0,,,,,,,,,,,1,0,3,2,3,6,1,4,5,1,0,,,
+UBCV,2021,S,VANT,149,,V04,Multi-disciplinary Research Project,Eva Zysk,12,73.3,,77.0,68.0,,,,,,,,,,,,,,,,,,,,,,74.5,75.3,71.0
+UBCV,2021,S,VANT,149,,V06,Multi-disciplinary Research Project,Eva Zysk,27,74.1,,80.0,55.0,,,,,,,,,,,,,,,,,10,7,,,,75.0,76.5,73.0
+UBCV,2021,W,PSYC,101,,003,Introduction to Biological and Cognitive Psychology,Eva Zysk,108,72.6,,93.0,37.0,,,,,,,,,,,,,12,8,7,13,11,,21,15,8,73.0,82.3,63.0
+UBCV,2021,W,VANT,148,,V01,UBC Vantage College Projects,Eva Zysk,26,68.6,,85.0,0.0,,,,,,,,,,,,,,,,6,,,,,,70.0,78.8,65.0
+UBCV,2022,S,VANT,149,,V01,Multi-disciplinary Research Project,Eva Zysk,20,80.7,,93.0,63.0,,,,,,,,,,,0,0,0,1,2,0,2,4,2,5,4,81.0,88.3,75.8
+UBCV,2022,S,VANT,149,,V02,Multi-disciplinary Research Project,Eva Zysk,19,82.4,,94.0,63.0,,,,,,,,,,,0,0,0,1,0,1,0,6,2,6,3,84.0,87.5,77.5
+UBCV,2022,W,PSYC,102,,992,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Eva Zysk,103,70.5,,96.0,0.0,,,,,,,,,,,5,5,10,9,3,11,20,10,19,5,6,73.0,80.0,61.0
+UBCV,2022,W,PSYC,216,,002,Questioning Psychological Science in the Media,Eva Zysk,111,73.8,,95.0,0.0,,,,,,,,,,,4,1,5,6,10,13,15,11,27,13,6,76.0,82.0,68.0
+UBCV,2022,W,PSYC,216,,003,Questioning Psychological Science in the Media,Eva Zysk,96,73.8,,93.0,2.0,,,,,,,,,,,2,3,1,13,6,9,16,15,9,16,6,75.0,84.0,67.0
+UBCV,2023,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Eva Zysk,249,73.1,,99.0,0.0,,,,,,,,,,,11,9,18,16,15,32,29,17,36,31,23,74.0,84.0,65.0
+UBCV,2023,W,PSYC,216,,002,Questioning Psychological Science in the Media,Veronika Dudarev;Eva Zysk,110,73.4,,94.0,15.0,,,,,,,,,,,4,0,6,6,8,20,11,17,17,12,5,75.0,80.8,68.3

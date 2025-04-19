@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,DSCI,524,,001,Collaborative Software Development,Arjun Baghela;Gittu George;Hossameldin Ibrahim Said Mohammed;Peter Henry Gysbers;Siddhesh Khandelwal;Tiffany Timbers,95,97.673684211,3.580211884,99.0,69.0,0,0,0,0,0,1,0,0,0,2,92,,,
+UBCV,2020,W,DSCI,525,,001,Web and Cloud Computing,Ali Seyfi;Gittu George;Hossameldin Ibrahim Said Mohammed;Michael Feeley;Paul Ripoche;Peter Henry Gysbers;Varada Kolhatkar,95,99.694736842,0.547211193,100.0,98.0,0,0,0,0,0,0,0,0,0,0,95,,,
+UBCV,2020,W,DSCI,591,,001,Capstone Project,Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Gittu George;Joel Ostblom;Michael Gelbart;Rodolfo Lourenzutti;Simon Goring;Tiffany Timbers;Tomas Beuzen;Varada Kolhatkar;Vincenzo Coia,95,92.326315789,4.243749108,97.0,72.0,0,0,0,0,0,0,2,0,4,6,83,,,
+UBCV,2021,W,BAIT,580,A,BA1,Topics in Information Technology Management,Colby Delisle;Daniel Ramandi;Gittu George;Yiting Hu,65,87.923076923,4.254804976,93.0,71.0,0,0,0,0,0,2,0,0,7,31,25,,,
+UBCV,2021,W,DSCI,525,,001,Web and Cloud Computing,Abdul Muntakim Rafi;Daniel Ramandi;Eric Lee;Gittu George;Md Shahriar Rahim Siddiqui;Melika Farahani;Michael Feeley;Tiffany Leung;Zac Warham,114,98.350877193,2.065230306,100.0,92.0,0,0,0,0,0,0,0,0,0,0,114,,,
+UBCV,2021,W,BAIT,580,A,BA1,Topics in Information Technology Management,Gittu George,65,87.9,,93.0,71.0,,,,,,,,,7,31,25,88.0,91.0,87.0
+UBCV,2021,W,DSCI,525,,001,Web and Cloud Computing,Gittu George,114,98.4,,100.0,92.0,0,0,0,0,0,0,0,0,0,0,114,99.0,100.0,97.0
+UBCV,2021,W,DSCI,591,,001,Capstone Project,Giuseppe Carenini;Daniel Chen;Maria Florencia D' Andrea;Gittu George;Simon Goring;Varada Kolhatkar;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Arman Seyed-Ahmadi;Tiffany Timbers,114,89.3,,93.0,69.0,,,,,,,,,,39,68,90.0,91.0,88.0
+UBCV,2022,S,CPSC,304,,921,Introduction to Relational Databases,Gittu George,151,83.3,,98.0,50.0,0,1,1,2,3,10,10,15,31,30,48,85.0,90.0,78.0
+UBCV,2022,W,BAIT,580,A,BA1,Topics in Information Technology Management,Gittu George,39,86.1,,95.0,71.0,0,0,0,0,0,1,0,2,12,13,11,86.0,90.0,82.5
+UBCV,2022,W,BAIT,580,A,BA2,Topics in Information Technology Management,Gittu George,39,85.2,,95.0,72.0,0,0,0,0,0,0,3,3,9,15,9,86.0,89.0,82.0
+UBCV,2022,W,DSCI,523,,001,Programming for Data Manipulation,Gittu George,115,89.6,,99.0,63.0,0,0,0,1,0,0,3,3,13,30,65,91.0,93.0,86.0
+UBCV,2022,W,DSCI,525,,001,Web and Cloud Computing,Gittu George,78,95.3,,100.0,89.0,0,0,0,0,0,0,0,0,0,1,77,95.0,98.0,94.0
+UBCV,2022,W,DSCI,591,,001,Capstone Project,Tomas Beuzen;Daniel Chen;Maria Florencia D' Andrea;Yulia Egorova;Gittu George;Simon Goring;Varada Kolhatkar;Rodolfo Lourenzutti;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis,78,89.2,,96.0,52.0,1,0,0,0,0,1,1,0,9,17,49,91.0,93.0,88.0
+UBCV,2023,S,CPSC,304,,921,Introduction to Relational Databases,Gittu George,155,81.0,,97.0,28.0,4,0,0,1,2,10,24,12,30,38,33,82.5,87.0,75.0
+UBCV,2023,W,BAIT,580,A,BA1,Topics in Information Technology Management,Gittu George,43,82.07,,95.0,64.0,0,0,0,0,1,4,1,8,11,9,9,82.0,88.0,77.0
+UBCV,2023,W,BAIT,580,A,BA2,Topics in Information Technology Management,Gittu George,42,82.31,,94.0,72.0,0,0,0,0,0,0,3,10,14,8,7,82.0,85.0,77.25
+UBCV,2023,W,CPSC,304,,102,Introduction to Relational Databases,Gittu George;Jessica Wong,175,79.3,,94.0,45.0,5,0,2,3,4,13,25,18,46,35,23,81.0,86.0,74.0
+UBCV,2023,W,DSCI,512,,001,Algorithms and Data Structures,Gittu George;Jordan Schalm,91,88.2,,99.0,67.0,0,0,0,0,2,0,2,3,17,22,44,89.0,92.8,84.0
+UBCV,2023,W,DSCI,513,,001,Databases and Data Retrieval,Gittu George,126,88.4,,99.0,65.0,0,0,0,0,1,0,1,8,21,35,59,89.0,93.0,85.0
+UBCV,2023,W,DSCI,525,,001,Web and Cloud Computing,Gittu George,88,97.7,,100.0,84.0,0,0,0,0,0,0,0,0,1,0,87,98.0,99.0,97.0
+UBCV,2023,W,DSCI,591,,001,Capstone Project,Katie Burak;Giuseppe Carenini;Daniel Chen;Gittu George;Simon Goring;Varada Kolhatkar;Vincent Liu;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Tiffany Timbers,89,89.3,,93.0,82.0,0,0,0,0,0,0,0,0,11,31,47,90.0,92.0,87.0

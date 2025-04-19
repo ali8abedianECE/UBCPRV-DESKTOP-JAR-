@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,304,,101,Introduction to Relational Databases,Allen Gour;Arnold Choa;Arya Rashtchian;Christine Cheng;Edwin Max Knorr;Farnoosh Javadifishani;Kenta Baron-Furuyama;Kristina Bukharova;Mona Fadaviardakani;Setareh Cohan;Siyan Luo;Yijia Wen,188,77.654255319,9.971758676,95.0,43.0,5,1,3,4,11,17,25,34,40,31,17
+UBCV,2018,W,CPSC,304,,102,Introduction to Relational Databases,Allen Gour;Arnold Choa;Arya Rashtchian;Christine Cheng;Farnoosh Javadifishani;Hazra Imran;Kenta Baron-Furuyama;Kristina Bukharova;Mona Fadaviardakani;Setareh Cohan,75,75.92,10.394593189,92.0,45.0,1,1,3,4,5,7,12,12,15,7,8
+UBCV,2019,W,BA,515,,001,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,48,82.833333333,6.488396626,95.0,62.0,0,0,0,1,0,0,4,9,15,13,6
+UBCV,2019,W,BA,515,,002,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,49,82.551020408,5.354364359,94.0,73.0,0,0,0,0,0,0,6,7,21,11,4
+UBCV,2019,W,BA,515,,003,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,29,84.24137931,6.110033741,95.0,68.0,0,0,0,0,0,1,2,4,8,10,4
+UBCV,2019,W,BA,515,,004,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,28,83.821428571,5.249716546,93.0,72.0,0,0,0,0,0,0,2,4,7,10,5

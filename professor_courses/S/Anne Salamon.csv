@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,FREN,222,,102,French Language and Style I,Anne Salamon,35,81.971428571,8.932708285,98.0,62.0,0,0,0,2,0,1,6,6,6,4,10,,,
+UBCV,2020,W,FREN,484,A,101,Studies in Book Culture,Anne Salamon,12,87.0,5.862050526,97.0,77.0,0,0,0,0,0,0,0,2,1,6,3,,,
+UBCV,2020,W,FREN,578,A,201,Studies in Romance Philology,Anne Salamon,6,85.5,7.314369419,92.0,74.0,0,0,0,0,0,0,1,0,1,1,3,,,
+UBCV,2021,W,FREN,321,,101,Critical Writing,Anne Salamon,29,81.0,9.18072515,94.0,58.0,0,0,1,2,0,1,2,2,9,7,5,,,
+UBCV,2021,W,FREN,352,,101,French Grammar,Anne Salamon;Nicholas Bartlett,50,83.64,10.74711162,99.0,44.0,1,1,0,0,1,1,3,8,10,5,20,,,
+UBCV,2021,W,RMST,300,,201,History of the Romance Languages,Anne Salamon,22,76.409090909,17.075906421,99.0,43.0,2,1,1,2,0,1,1,1,5,3,5,,,
+UBCV,2021,W,FREN,321,,101,Critical Writing,Anne Salamon,29,81.0,,94.0,58.0,,,,,,,,,9,7,,81.0,87.0,78.0
+UBCV,2021,W,FREN,352,,101,French Grammar,Anne Salamon,50,83.6,,99.0,44.0,,,,,,,,8,10,,20,84.5,91.0,78.0
+UBCV,2021,W,RMST,300,,201,History of the Romance Languages,Anne Salamon,22,76.4,,99.0,43.0,,,,,,,,,,,,82.0,88.3,63.8
+UBCV,2022,W,FREN,352,,101,French Grammar,Anne Salamon,50,85.5,,97.0,61.0,0,0,0,1,0,3,3,4,8,13,18,88.0,92.0,80.0
+UBCV,2022,W,FREN,353,,201,Advanced French Grammar,Anne Salamon,36,79.2,,97.0,24.0,1,2,3,0,0,0,5,1,8,8,8,83.5,88.0,74.8
+UBCV,2023,W,FREN,352,,101,French Grammar,Anne Salamon,43,81.8,,98.0,27.0,1,0,0,1,1,0,9,5,5,9,11,83.0,89.8,74.3
+UBCV,2023,W,RMST,300,,101,History of the Romance Languages,Anne Salamon,35,82.36,,99.0,34.0,2,0,0,0,2,1,1,4,8,2,13,83.0,93.0,77.0

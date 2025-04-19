@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,MUSC,150,A,001,Large Instrumental Ensemble,Adam Dopierala;Jacob Pope;Jaelem Bhate;Jaelem Taylor Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,104,93.163461538,3.671222587,100.0,79.0,0,0,0,0,0,0,0,1,0,17,86
+UBCV,2017,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Lauren Visel;Robert Taylor,20,93.5,2.481510576,100.0,90.0,0,0,0,0,0,0,0,0,0,0,20
+UBCV,2017,W,MUSC,311,,001,Fundamentals of Conducting,Jaelem Bhate;Jaelem Taylor Bhate;Lauren Visel;Robert Taylor,15,87.533333333,5.950590207,96.0,77.0,0,0,0,0,0,0,0,1,3,5,6
+UBCV,2017,W,MUSC,312,,001,Instrumental Conducting,Jaelem Bhate;Jaelem Taylor Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,20,81.6,12.495894062,96.0,55.0,0,0,2,1,1,0,1,2,1,6,6
+UBCV,2017,W,MUSC,550,A,001,Large Instrumental Ensemble,Jacob Pope;Jaelem Bhate;Jaelem Taylor Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,21,96.904761905,3.520010822,100.0,90.0,0,0,0,0,0,0,0,0,0,0,21
+UBCV,2018,W,MUSC,150,A,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Jaelem Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,113,92.848214286,5.27480809,100.0,53.0,0,1,,,,,,,3,10,98
+UBCV,2018,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Jacob Pope;Lauren Visel;Robert Taylor,23,94.652173913,1.773765785,98.0,93.0,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2018,W,MUSC,311,,001,Fundamentals of Conducting,Jacob Pope;Lauren Visel;Robert Taylor;Zane Kistner,15,87.8,9.92975327,96.0,56.0,0,0,1,0,0,0,0,0,2,3,9
+UBCV,2018,W,MUSC,312,,001,Instrumental Conducting,Jacob Pope;Jaelem Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,25,84.24,8.982761268,94.0,56.0,0,0,1,1,0,0,0,2,8,6,7
+UBCV,2018,W,MUSC,550,A,001,Large Instrumental Ensemble,Jacob Pope;Jaelem Bhate;Jonathan Girard;Lauren Visel;Robert Taylor,23,97.260869565,3.151008371,100.0,86.0,0,0,0,0,0,0,0,0,0,1,22
+UBCV,2019,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Lauren Visel;Minna Stelzner;Robert Taylor,19,91.105263158,3.478421367,95.0,84.0,0,0,0,0,0,0,0,0,2,3,14
+UBCV,2019,W,MUSC,311,,001,Fundamentals of Conducting,Lauren Visel;Robert Taylor;Zane Kistner,13,83.384615385,5.867118281,93.0,73.0,0,0,0,0,0,0,1,3,2,6,1
+UBCV,2019,W,MUSC,311,,002,Fundamentals of Conducting,Jonathan Girard;Lauren Visel;Robert Taylor;Zane Kistner,17,88.470588235,4.199964986,94.0,80.0,0,0,0,0,0,0,0,0,3,6,8

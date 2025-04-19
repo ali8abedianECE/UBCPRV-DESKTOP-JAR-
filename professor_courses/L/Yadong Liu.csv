@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,LING,200,,001,Linguistic Theory and Analysis I,Kathleen Hall;Stephanie Chung;Yadong Liu;Yifang Yuan,132,75.401515152,11.000249719,91.0,29.0,4,2,4,9,4,10,23,21,32,17,6
+UBCV,2018,W,LING,314,,001,Instrumental Phonetics,Murray Schellenberg;Yadong Liu,58,79.879310345,11.196925622,97.0,34.0,1,1,0,2,3,4,5,8,9,13,12
+UBCV,2019,W,COLX,563,,001,Advanced Computational Semantics,Julian Brooke;Laura Patterson;Michael Fry;Yadong Liu,25,88.88,4.106093034,95.0,80.0,0,0,0,0,0,0,0,0,5,6,14
+UBCV,2019,W,COLX,565,,001,Sentiment Analysis,Julian Brooke;Yadong Liu;Yu-Hsiang Lo,25,88.72,4.78295585,98.0,78.0,0,0,0,0,0,0,0,1,4,10,10
+UBCV,2020,W,COLX,521,,001,Corpus Linguistics,Julian Brooke;Muhammad Abdul-Mageed;Yadong Liu,31,89.64516129,5.250703998,96.0,74.0,0,0,0,0,0,0,1,0,5,7,18
+UBCV,2020,W,COLX,563,,001,Advanced Computational Semantics,Julian Brooke;Yadong Liu,30,85.8,7.203447451,95.0,67.0,0,0,0,0,1,1,2,1,3,14,8
+UBCV,2020,W,COLX,565,,001,Sentiment Analysis,Julian Brooke;Muhammad Abdul-Mageed;Yadong Liu,31,86.935483871,6.567269772,99.0,68.0,0,0,0,0,0,1,1,2,5,12,10
+UBCV,2021,W,LING,314,,002,Instrumental Phonetics,Murray Schellenberg;Yadong Liu,78,86.935897436,9.100220839,97.0,41.0,1,1,0,0,1,1,1,4,9,24,36

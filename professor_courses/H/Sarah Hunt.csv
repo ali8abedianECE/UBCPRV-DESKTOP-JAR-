@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,FNIS,320,,001,METHODS SEMINAR,"Hunt, Sarah",17,77.18,19.64,90,5,16,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,5,3,5,2
+UBC,2015,W,FNIS,451,,101,INDIG FEMINISMS,"Hunt, Sarah",18,80.28,6.92,91,65,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,2,4,2
+UBC,2015,W,FNIS,533,D,101,DIRECTED STUDY,"Hunt, Sarah",4,87.5,0.71,88,87,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+UBC,2015,W,GEOG,424,,201,FEMINIST GEOG,"Hunt, Sarah",21,79.7,8.81,91,53,20,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,0,5,6,4,2
+UBC,2016,W,FNIS,320,,001,METHODS SEMINAR,"Hunt, Sarah",12,80,7.17,92,70,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,1,2
+UBC,2016,W,FNIS,401,S,101,SPECIAL TOPICS,"Hunt, Sarah",17,81.71,5.08,90,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,2,2
+UBC,2016,W,FNIS,533,S,101,DIRECTED STUDY,"Hunt, Sarah",4,88,7.02,95,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+UBC,2016,W,GEOG,446,B,201,TOPICS IN GEOG,"Hunt, Sarah",17,76.47,9.06,87,51,15,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,2,2,6,2,0
+UBC,2017,W,FNIS,320,,001,CRT INDG MET ETH,"Hunt, Sarah",16,76.13,13.56,90,33,14,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,3,4,2,3,1
+UBC,2017,W,FNIS,400,,002,PRACTICM/ADV RES,"Coulthard, Glen;Hunt, Sarah",9,77.75,11.36,87,52,8,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,3,0
+UBC,2017,W,FNIS,455,,101,INDIGENOUS GEOG,"Hunt, Sarah",17,75.71,20.87,90,0,16,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,4,4,5,1
+UBC,2017,W,FNIS,533,S,101,DIRECTED STUDY,"Hunt, Sarah",6,83.83,4.17,90,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1
+UBC,2018,W,FNIS,320,,001,CRT INDG MET ETH,"Hunt, Sarah",11,77.09,6.33,85,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,4,1,0
+UBC,2018,W,GEOG,446,B,201,TOPICS IN GEOG,"Hunt, Sarah",21,74.94,19.87,90,5,16,1,0,1,3,1,0,0,0,0,1,1,0,0,0,0,1,7,2,4,1
+UBCV,2015,W,FNIS,320,,001,Methods Seminar,Sarah Hunt,17,77.176470588,19.644449897,90.0,5.0,,,,,,,,,,,,,,,,,,5,,5,
+UBCV,2015,W,FNIS,451,,101,Indigenous Feminisms,Sarah Hunt,18,80.277777778,6.918054432,91.0,65.0,,,,,,,,,,,0,0,0,0,,,,7,,,
+UBCV,2015,W,GEOG,424,,201,Feminist Geographies,Sarah Hunt,20,79.7,8.814461801,91.0,53.0,,,,,,,,,,,0,,,,,,,5,6,,
+UBCV,2016,W,FNIS,320,,001,Methods Seminar,Sarah Hunt,11,80.0,7.169379332,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,1,3,1,2
+UBCV,2016,W,FNIS,401,S,101,Special Topics,Sarah Hunt,17,81.70588235,5.083855647,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,7,2,2
+UBCV,2016,W,GEOG,446,B,201,Topics in Geography,Sarah Hunt,15,76.46666667,9.062218797,87.0,51.0,,,,,,,,,,,0,1,0,0,1,1,2,2,6,2,0
+UBCV,2017,W,FNIS,320,,001,Critical Indigenous Methodologies and Ethics,Sarah Hunt,15,76.133333333,13.563957844,90.0,33.0,,,,,,,,,,,1,0,0,0,1,0,3,4,2,3,1
+UBCV,2017,W,FNIS,400,,002,Practicum/Advanced Research Seminar,Glen Coulthard;Sarah Hunt,8,77.75,11.360960724,87.0,52.0,,,,,,,,,,,0,1,0,0,0,0,1,1,2,3,0
+UBCV,2017,W,FNIS,455,,101,Indigenous Geographies: Our Home on Native Land,Sarah Hunt,17,75.705882353,20.870926866,90.0,0.0,,,,,,,,,,,1,0,0,1,0,1,0,4,4,5,1
+UBCV,2017,W,FNIS,533,S,101,Directed Study,Sarah Hunt,6,83.833333333,4.16733328,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,1
+UBCV,2018,W,FNIS,320,,001,Critical Indigenous Methodologies and Ethics,Sarah Hunt,11,77.090909091,6.331738236,85.0,66.0,,,,,,,,,,,0,0,0,0,2,0,1,3,4,1,0
+UBCV,2018,W,FNIS,451,,101,Indigenous Feminisms,Dorothy Nason;Glen Coulthard;Sarah Hunt,20,82.6,7.036745659,92.0,65.0,,,,,,,,,,,0,0,0,0,2,0,0,3,5,8,2
+UBCV,2018,W,FNIS,533,D,101,Directed Study,Dorothy Nason;Glen Coulthard;Sarah Hunt,6,88.666666667,1.861898673,91.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3
+UBCV,2018,W,GEOG,446,B,201,Topics in Geography,Sarah Hunt,19,73.684210526,19.453798919,90.0,5.0,,,,,,,,,,,1,2,0,0,0,0,2,7,2,4,1
+UBCV,2019,S,FNIS,455,,001,Indigenous Geographies: Our Home on Native Land,Sarah Hunt,8,82.5,7.55928946,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,2,1,2
+UBCV,2019,S,FNIS,533,S,001,Directed Study,Sarah Hunt,6,87.166666667,4.490731195,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,2
+UBCV,2019,W,FNIS,320,,001,Critical Indigenous Methodologies and Ethics,Sarah Hunt,12,82.25,7.581376704,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,5,1,2,3
+UBCV,2019,W,FNIS,400,,002,Practicum/Advanced Research Seminar,Daniel Justice;Sarah Hunt,9,80.444444444,12.319812408,98.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,0,2,2,2
+UBCV,2020,W,FNIS,320,,001,Critical Indigenous Methodologies and Ethics,Dorothy Nason;Sarah Hunt,16,80.625,18.874586088,94.0,17.0,,,,,,,,,,,1,0,0,0,1,0,1,1,3,3,6
+UBCV,2020,W,FNIS,400,,002,Practicum/Advanced Research Seminar,Daniel Justice;Sarah Hunt,7,86.857142857,7.967194643,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,2

@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,CNPS,362,,006,BASIC INTVW SKLS,"Borgen, William;West, Gail Elizabeth",14,86.86,2.38,89,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,0
+UBC,2005,W,PETE,320,,107,C&I PETE: ELEM,"WEST, DARREN",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CNPS,362,,006,BASIC INTVW SKLS,"West, Gail Elizabeth",15,85.87,3.5,91,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,1
+UBC,2007,W,CNPS,362,,006,BASIC INTVW SKLS,"West, Gail Elizabeth",15,86.67,2.94,93,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,3
+UBC,2007,W,PETE,320,,105,C&I PETE: ELEM,"WEST, DARREN",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PETE,320,,110,C&I PETE: ELEM,"WEST, DARREN",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CNPS,362,,009,BASIC INTVW SKLS,"Amundson, Norman;West, Gail Elizabeth",14,84.93,3.79,91,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,1
+UBC,2009,W,HKIN,115,A,0A1,PERF ANYL SPORTS,"Samuhel-Corewyn, Janka;WEST, DARREN",13,82.33,6.73,94,70,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,3,4,1
+UBC,2009,W,HKIN,115,A,0A2,PERF ANYL SPORTS,"Samuhel-Corewyn, Janka;WEST, DARREN",19,86.11,7.28,94,65,18,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,7,7
+UBC,2010,W,CNPS,588,C,008,SUPRVSD TRAINING,"West, Gail Elizabeth",5,87.8,1.48,90,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2010,W,HKIN,115,A,0A1,PERF ANYL SPORTS,"Samuhel-Corewyn, Janka;WEST, DARREN",20,84.8,7.04,93,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,7,5
+UBC,2010,W,HKIN,115,A,0A2,PERF ANYL SPORTS,"Samuhel-Corewyn, Janka;West, Derek",17,85.44,5.19,93,76,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,5
+UBC,2016,W,ATSC,113,,101,APPL METEOROLOGY,"Howard, Rosemary;Stull, Roland;West, Gregory",49,75.06,12.91,93,34,47,1,0,0,0,0,0,0,1,0,1,4,1,1,5,0,5,9,8,9,5
+UBC,2016,W,ATSC,113,,201,APPL METEOROLOGY,"Howard, Rosemary;Stull, Roland;West, Gregory",93,79.4,10.16,93,26,86,2,1,0,4,0,0,1,0,1,2,0,2,1,1,4,9,12,27,19,11
+UBC,2017,W,DANI,100,,001,ELEM DANISH 1,"West, Kim",18,80.5,11.64,97,59,18,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,3,2,1,6
+UBC,2017,W,DANI,110,,001,ELEM DANISH 2,"West, Kim",10,73.9,10.63,88,54,10,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4,1,2,1,0
+UBC,2017,W,DANI,200,,001,INT DANISH 1,"West, Kim",4,80.75,4.03,84,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0
+UBC,2017,W,DANI,210,,001,INT DANISH 2,"West, Kim",5,79.2,8.14,87,67,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,0
+UBC,2017,W,SCAN,333,,001,MAJOR SCAN LIT,"West, Kim",66,80.5,6.54,91,50,64,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,7,12,23,15,3
+UBC,2017,W,SCAN,414,,001,TOP DAN & N EURO,"West, Kim",46,77.02,10.39,89,30,43,2,1,0,0,0,0,0,1,1,2,0,0,1,1,5,3,13,12,8,0
+UBC,2018,W,ATSC,113,,101,APPL METEOROLOGY,"Howard, Rosemary;McCollor, Douglas;Stull, Roland;West, Gregory",252,85.62,13.77,100,23,236,9,4,0,1,0,0,1,3,5,9,1,2,4,4,11,14,8,30,33,129
+UBC,2018,W,ATSC,113,,99A,APPL METEOROLOGY,"Howard, Rosemary;McCollor, Douglas;Stull, Roland;West, Gregory",77,75.49,16.54,100,39,67,7,2,0,1,0,0,0,1,6,7,4,2,5,1,5,5,6,11,9,19
+UBC,2018,W,DANI,100,,001,ELEM DANISH 1,"West, Kim",25,79.44,7.17,88,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,3,7,8,0
+UBC,2018,W,DANI,110,,001,ELEM DANISH 2,"West, Kim",12,79.42,7.82,93,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,2,2,1
+UBC,2018,W,DANI,200,,001,INT DANISH 1,"West, Kim",4,82.5,7.05,89,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0
+UBC,2018,W,SCAN,335,,001,VIKINGS & MYTH,"West, Kim",56,77.28,10.48,90,26,53,1,0,0,1,0,0,1,0,0,1,1,2,0,0,4,8,11,17,9,1
+UBC,2018,W,SCAN,414,,001,TOP DAN & N EURO,"West, Kim",51,78.7,7.84,97,52,50,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,9,8,19,7,2
+UBC,2018,W,THTR,299,C,001,PRODUCTION I,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",16,84.13,4.7,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,8,2
+UBC,2018,W,THTR,399,C,001,PRODUCTION II,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",11,87.36,4.54,95,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4
+UBC,2018,W,THTR,499,C,001,PRODUCTION III,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",9,88.22,5.31,95,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4

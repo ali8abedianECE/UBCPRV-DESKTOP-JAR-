@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",30,86,7.31,97,68,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,10,6,10
+UBC,2010,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",26,86.6,8.68,96,54,25,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,6,12
+UBC,2011,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",26,86.27,8.47,98,69,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,6,12
+UBC,2013,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",37,86.49,9.79,100,57,37,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,1,3,13,14
+UBC,2014,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",50,85.64,7.76,97,68,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0,10,11,20
+UBC,2015,W,MECH,520,,201,CNTRL SENS & ACT,"Gelbart, Daniel",39,86.56,7.46,97,71,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,3,10,17
+UBCV,2014,W,MECH,520,,201,Control Sensors and Actuators,Daniel Gelbart,50,85.64,7.755866772,97.0,68.0,,,,,,,,,,,0,0,0,0,0,,5,,10,11,20
+UBCV,2015,W,MECH,520,,201,Control Sensors and Actuators,Daniel Gelbart,39,86.564102564,7.464988003,97.0,71.0,,,,,,,,,,,0,0,0,0,0,,,5,,10,17

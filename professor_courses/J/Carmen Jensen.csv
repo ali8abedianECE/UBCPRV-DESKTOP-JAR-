@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,MINE,501,B,201,TPCS MINING IND,"Jensen, Carmen",20,88.45,5.7,96,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,11,,,
+UBC,2016,W,MINE,501,A,101,TPCS MINING IND,"Jensen, Carmen",16,91,4.12,97,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,,,
+UBC,2016,W,MINE,501,B,201,TPCS MINING IND,"Jensen, Carmen",16,86.81,6.17,98,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,4,,,
+UBCV,2015,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,20,88.45,5.698337708,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,2,11,,,
+UBCV,2016,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,16,91.0,4.115013163,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,11,,,
+UBCV,2016,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,16,86.8125,6.166779278,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,7,4,,,
+UBCV,2018,W,MINE,501,A,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,8,87.25,3.453776401,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,3,,,
+UBCV,2018,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,11,85.636363636,2.110579412,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,0,,,
+UBCV,2019,W,MINE,501,B,101,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,6,84.833333333,9.948199167,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,1,2,,,
+UBCV,2019,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,7,88.285714286,7.60951785,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,1,4,,,
+UBCV,2019,W,MINE,586,,201,Advanced Mine Waste Management,Carmen Jensen;Dirk Van Zyl;Yuan Li,8,87.0,0.0,87.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,0,,,
+UBCV,2019,W,MINE,587,,201,Advanced Mine Site Management,Carmen Jensen;Dirk Van Zyl;Yuan Li,8,87.0,0.0,87.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,0,,,
+UBCV,2020,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,23,88.391304348,4.98852438,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,10,10,,,
+UBCV,2020,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen,15,90.466666667,5.194319241,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,11,,,
+UBCV,2020,W,MINE,598,,001,Seminar,Carmen Jensen;Malcolm Scoble,7,89.285714286,2.360387377,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2021,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen,8,92.8,,95.0,87.0,,,,,,,,,,,,,,,,,,,,,7,95.0,95.0,90.0
+UBCV,2022,S,MINE,597,,971,Engineering Project,Carmen Jensen,6,85.3,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,1,85.5,86.0,83.5
+UBCV,2022,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,Carmen Jensen,14,91.9,,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10,93.0,94.8,88.5
+UBCV,2022,W,MINE,501,B,001,Topics for Engineers in the Mining Industry,Carmen Jensen,6,88.0,,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,2,85.5,89.3,84.0
+UBCV,2022,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen,9,94.8,,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,8,93.0,100.0,93.0
+UBCV,2022,W,MINE,598,,001,Seminar,Carmen Jensen,6,85.5,,92.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,1,0,4,90.5,91.8,85.5
+UBCV,2022,W,MINE,598,,101,Seminar,Carmen Jensen,10,89.1,,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,5,90.0,91.8,88.3
+UBCV,2023,S,MINE,597,,941,Engineering Project,Carmen Jensen,7,84.29,,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,4,1,86.0,87.0,84.0
+UBCV,2023,S,MINE,598,,941,Seminar,Carmen Jensen,27,88.75,,92.0,84.0,,,,,,,,,,,,,,,,,,,,,,89.5,91.25,87.0
+UBCV,2023,S,MINE,698,,941,Seminar,Carmen Jensen,31,91.5,,95.0,88.0,,,,,,,,,,,,,,,,,,,,,,91.5,93.25,89.75
+UBCV,2023,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,Carmen Jensen,19,88.5,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,7,87.5,91.0,86.25
+UBCV,2023,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen,12,86.08,,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,3,85.0,88.5,82.0
+UBCV,2023,W,MINE,598,,001,Seminar,Carmen Jensen,19,86.33,,90.0,83.0,,,,,,,,,,,,,,,,,,,,,,86.0,88.0,84.5
+UBCV,2023,W,MINE,598,,101,Seminar,Carmen Jensen,6,87.75,,90.0,84.0,,,,,,,,,,,,,,,,,,,,,,88.5,90.0,86.25

@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,SCED,313,,301,C&I BIOL SC SEC,"Barnes, Barry",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,SCED,313,,302,C&I BIOL SC SEC,"Barnes, Barry",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,SCED,320,,109,C&I SCIENCE ELEM,"Barnes, Barry",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,SCED,313,,302,C&I BIOL SC SEC,"Barnes, Barry",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,SCED,313,,301,C&I BIOL SC SEC,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,SCED,440,,951,SP STUD BIOL,"Barnes, Barry",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,SCED,313,,301,C&I BIOL SC SEC,"Barnes, Barry",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,453,,951,BIOL FOR TEACH,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDCP,354,,301,C&PBIOL SC SEC,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDCP,354,,302,C&PBIOL SC SEC,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDCP,453,,951,BIOL FOR TEACH,"Barnes, Barry",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,354,,301,BIO SCI SEC: C&P,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,354,,302,BIO SCI SEC: C&P,"Barnes, Barry",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDCP,453,,951,BIOL FOR TEACH,"Barnes, Barry",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDCP,354,,301,BIO SCI SEC: C&P,"Barnes, Barry",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDCP,354,,302,BIO SCI SEC: C&P,"Barnes, Barry",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,EDCP,453,,951,BIOL FOR TEACH,"Barnes, Barry",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,354,,301,BIO SCI SEC: C&P,"Barnes, Barry",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,354,,302,BIO SCI SEC: C&P,"Barnes, Barry",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EDCP,354,,302,BIO SCI SEC: C&P,"Barnes, Barry",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,328,,951,ENVIRONMTL ED,"Barnes, Barry",14,94.64,2.1,97,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13
+UBC,2016,W,EDCP,352,A,302,GEN SCI SEC C&P,"Barnes, Barry",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,354,,301,BIO SCI SEC: C&P,"Barnes, Barry",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,354,,302,BIO SCI SEC: C&P,"Barnes, Barry",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDCP,453,,951,BIOL FOR TEACH,"Barnes, Barry",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2015,S,EDCP,328,,951,Environmental Education,Barry Barnes;Sandra Scott,14,94.64285714,2.09787962,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,13

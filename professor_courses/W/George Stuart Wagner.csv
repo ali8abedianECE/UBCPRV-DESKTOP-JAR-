@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ARCH,522,,001,CURRENT ISSUES,"Wagner, George Stuart",6,81.17,4.31,86,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0
+UBC,2003,W,ARCH,538,A,001,ARCH ABROAD,"Wagner, George Stuart",12,82.83,3.04,88,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,0
+UBC,2003,W,ARCH,538,B,002,ARCH ABROAD,"Wagner, George Stuart",13,84.08,2.56,88,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0
+UBC,2003,W,ARCH,539,,001,ARCH DSGN ABROAD,"Pechet, Bill;Wagner, George Stuart",15,83.47,4.41,90,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,2
+UBC,2005,W,ARCH,523,,001,CNTMPRY THEORIES,"McKay, Sherry;Wagner, George Stuart",34,78.03,9.06,92,46,32,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,3,13,8,4,2
+UBC,2006,W,ARCH,523,,001,CNTMPRY THEORIES,"Wagner, George Stuart",41,79.97,10.69,96,23,38,1,2,0,0,0,0,1,0,0,1,0,0,0,0,0,3,10,16,6,3
+UBC,2006,W,ARCH,538,A,001,ARCH ABROAD,"Wagner, George Stuart",14,82.64,5.42,94,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,4,1
+UBC,2006,W,ARCH,538,B,002,ARCH ABROAD,"Wagner, George Stuart",16,85.56,4.15,92,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,5
+UBC,2006,W,ARCH,539,,001,ARCH DSGN ABROAD,"Wagner, George Stuart",15,83.73,4.27,92,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5,2
+UBC,2009,W,ARCH,500,,001,ARCH DESIGN,"Bass, John;Neumann, Oliver;Wagner, George Stuart",38,80.73,6.73,93,67,37,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,6,12,6,6,6
+UBC,2009,W,ARCH,523,,001,CNTMPRY THEORIES,"Soules, Matthew;Wagner, George Stuart",46,80.87,4.81,88,58,45,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,11,21,11,0
+UBC,2010,W,ARCH,538,A,001,ARCH ABROAD,"Wagner, George Stuart",16,83.88,3.38,88,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,0
+UBC,2010,W,ARCH,539,,001,ARCH DSGN ABROAD,"Wagner, George Stuart",16,84,3.92,90,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,9,1
+UBC,2011,W,ARCH,503,,001,Thms in Arch&Des,"Wagner, George Stuart",34,77.94,5.55,88,65,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,4,13,3,0
+UBC,2011,W,ARCH,521,,009,ARCH DESIGN 2B,"Dahmen, Joseph;Roecker, Inge;Soules, Matthew;Wagner, George Stuart",41,81.93,6.3,90,55,40,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,11,12,14,1
+UBC,2012,W,ARCH,501,,014,ARCH DESIGN 1B,"Wagner, George Stuart",5,82.8,5.45,90,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1
+UBC,2012,W,ARCH,520,,014,ARCH DESIGN 2A,"Wagner, George Stuart",5,79.4,4.34,84,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0
+UBC,2012,W,ARCH,538,A,001,ARCH ABROAD,"Wagner, George Stuart",15,81.47,5.07,90,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,4,1
+UBC,2012,W,ARCH,538,B,002,ARCH ABROAD,"Wagner, George Stuart",17,81.71,3.67,90,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,4,1
+UBC,2012,W,ARCH,539,,001,ARCH DSGN ABROAD,"Wagner, George Stuart",17,81.44,4.49,90,75,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,9,3,1
+UBC,2013,W,ARCH,500,,001,ARCH DESIGN,"Gates, Joanne;Roecker, Inge;Wagner, George Stuart",34,82.88,4.97,90,65,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,16,9,3
+UBC,2013,W,ARCH,501,,010,ARCH DESIGN 1B,"Dahmen, Joseph;Wagner, George Stuart",14,79.21,9.86,86,55,14,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,8,4,0
+UBC,2013,W,ARCH,503,,001,Thms in Arch&Des,"Wagner, George Stuart",40,80.35,6.07,90,55,40,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,9,13,10,1
+UBC,2013,W,ARCH,520,,010,ARCH DESIGN 2A,"Dahmen, Joseph;Wagner, George Stuart",6,81.67,2.73,84,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0
+UBC,2013,W,ARCH,540,,010,ARCH DESIGN 3A,"Dahmen, Joseph;Wagner, George Stuart",5,85.2,3.9,88,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2015,W,ARCH,501,,012,ARCH DESIGN II,"Wagner, George Stuart",8,80.88,6.81,88,72,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,3,0
+UBC,2015,W,ARCH,561,,001,SEMNR HIST&THRY,"Wagner, George Stuart",15,82.67,6.4,94,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,5,1
+UBC,2015,W,ARCH,561,H,001,SEMNR HIST&THRY,"Wagner, George Stuart",10,81.8,5.05,88,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,0
+UBC,2016,S,ARCH,544,G,001,SEMINR ARCHTECTR,"Wagner, George Stuart",10,86,0,86,86,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2016,W,ARCH,538,A,001,ARCH ABROAD,"Wagner, George Stuart",14,83.64,4.09,92,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5,1
+UBC,2016,W,ARCH,538,B,001,ARCH ABROAD,"Wagner, George Stuart",14,82.71,4.21,90,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,4,1
+UBC,2016,W,ARCH,539,,001,ARCH DSGN ABROAD,"Wagner, George Stuart",15,82.8,2.54,87,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,3,0
+UBC,2017,W,ARCH,500,,001,ARCH DESIGN,"Gates, Joanne;Soules, Matthew;Wagner, George Stuart",31,81.81,4.98,90,65,31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,16,8,1
+UBCV,2015,W,ARCH,501,,012,Architectural Design Studio II,George Stuart Wagner,8,80.875,6.812540957,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,0
+UBCV,2015,W,ARCH,561,,001,Seminar: History and Theory,George Stuart Wagner,15,82.666666667,6.399404734,94.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,5,
+UBCV,2016,S,ARCH,544,G,001,Seminar in Architecture,George Stuart Wagner,10,86.0,0.0,86.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,0
+UBCV,2016,W,ARCH,538,A,001,Study of Architecture Abroad,George Stuart Wagner;Lorinc Vass,14,83.64285714,4.087638831,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,5,1
+UBCV,2016,W,ARCH,538,B,001,Study of Architecture Abroad,George Stuart Wagner;Lorinc Vass,14,82.71428571,4.21405289,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,4,1
+UBCV,2016,W,ARCH,539,,001,Architectural Design Abroad,George Stuart Wagner;Lorinc Vass,15,82.8,2.541090879,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,3,0
+UBCV,2017,W,ARCH,500,,001,Architectural Design Studio I,George Stuart Wagner;Inge Roecker;Joanne Gates;John Bass;Matthew Soules,31,81.806451613,4.982765998,90.0,65.0,,,,,,,,,,,0,0,0,0,1,0,3,2,16,8,1
+UBCV,2017,W,ARCH,538,B,001,Study of Architecture Abroad,George Stuart Wagner;John Bass;Nicole Sylvia;Roy Cloutier,11,84.090909091,4.948829063,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,2
+UBCV,2018,W,ARCH,500,,001,Architectural Design Studio I,George Stuart Wagner;Inge Roecker;James Huemoeller;Joanne Gates;Matthew Soules;Thena Tak,31,82.032258065,5.665591296,88.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,4,15,10,0

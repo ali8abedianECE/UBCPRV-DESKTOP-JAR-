@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,310,,101,Introduction to Software Engineering,Andrew Lai;Giovanni Viviani;Kevin Tyler Stark;Li Che Hsiao;Marc Palyart-Lamarche;Nowrin Anwar Joyita;Tik Hang Cheung,158,78.48734177,7.225871196,94.0,46.0,,,,,2,14,26,36,39,32,3
+UBCV,2014,W,CPSC,310,,201,Introduction to Software Engineering,Casey Albert Thompson;Elisa Baniassad;Jeremy Goh;Nowrin Anwar Joyita;Sohrab Salehi;Stewart Grant;Zhihao Li,151,80.06622517,9.643421851,97.0,37.0,,,,,9,13,14,21,33,22,35
+UBCV,2015,S,CPSC,310,,921,Introduction to Software Engineering,Ben Zhu;Elisa Baniassad;Giovanni Viviani;Kieran Collery;Nowrin Anwar Joyita,110,82.6,10.72611492,99.0,9.0,,,,,5,,10,9,19,31,31
+UBCV,2015,W,CPSC,502,,101,Artificial Intelligence I,Cristina Conati;Nowrin Anwar Joyita,14,83.428571429,9.69309259,97.0,64.0,0,0,0,0,,,,,,,

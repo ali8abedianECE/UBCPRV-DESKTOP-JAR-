@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,CNPS,362,,001,BASIC INTVW SKLS,"Huminuik, Kirby Leigh",14,83.38,5.09,91,74,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,2,2
+UBC,2016,W,CNPS,365,,003,INT THRY COUNSEL,"Huminuik, Kirby Leigh",30,74.73,18.03,91,0,28,2,0,0,0,1,0,0,0,1,2,0,0,1,4,3,2,4,5,4,5
+UBC,2017,S,CNPS,363,,921,CAREER COUNSELNG,"Huminuik, Kirby Leigh",28,81.33,4.1,93,74,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,11,5,1
+UBC,2017,W,CNPS,363,,002,CAREER COUNSELNG,"Huminuik, Kirby Leigh",34,77.18,12.47,90,16,33,1,0,0,0,0,1,0,0,0,1,0,0,0,1,4,5,5,10,6,2
+UBC,2017,W,CNPS,363,,003,CAREER COUNSELNG,"Huminuik, Kirby Leigh",33,74.69,13.9,90,18,30,2,0,0,0,0,1,0,0,1,2,1,0,0,2,2,3,9,9,3,1
+UBC,2018,W,CNPS,363,,63A,CAREER COUNSELNG,"Huminuik, Kirby Leigh",55,83.86,6.48,93,58,51,0,3,0,0,0,0,0,0,0,0,0,1,0,0,1,3,5,13,21,7
+UBCV,2016,W,CNPS,362,,001,Basic Interviewing Skills,Kirby Huminuik;Kirby Leigh Huminuik,13,83.38461539,5.091470998,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,6,2,2
+UBCV,2016,W,CNPS,365,,003,Introduction to Theories of Counselling,Kirby Huminuik;Kirby Leigh Huminuik,30,74.73333333,18.03432232,91.0,0.0,,,,,,,,,,,2,0,0,1,4,3,2,4,5,4,5
+UBCV,2017,S,CNPS,363,,921,Career Counselling,Kirby Leigh Huminuik,27,81.333333333,4.095025124,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,9,11,5,1
+UBCV,2017,W,CNPS,363,,002,Career Counselling,Kirby Leigh Huminuik,34,77.176470588,12.474144382,90.0,16.0,,,,,,,,,,,1,0,0,0,1,4,5,5,10,6,2
+UBCV,2017,W,CNPS,363,,003,Career Counselling,Kirby Leigh Huminuik,33,73.939393939,14.34385625,90.0,18.0,,,,,,,,,,,2,2,0,0,2,2,3,9,9,3,1
+UBCV,2018,W,CNPS,363,,63A,Career Counselling,Kirby Leigh Huminuik,52,83.576923077,6.742740915,93.0,58.0,,,,,,,,,,,0,0,1,0,0,2,3,5,13,21,7

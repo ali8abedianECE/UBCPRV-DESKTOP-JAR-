@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,VISA,250,,001,INTRO PRNT MEDIA,"Smolinski, Mikolaj",21,79.1,5.25,88,68,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,4,4,0
+UBC,2018,W,VISA,250,,003,PRINT MEDIA,"Smolinski, Mikolaj",23,76.95,17.35,91,4,20,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,9,5,2,2
+UBC,2018,W,VISA,350,,001,INT PRINT I,"Smolinski, Mikolaj",22,78.43,6.23,92,69,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,4,6,4,3,1
+UBCV,2018,W,VISA,250,,003,Print Media,Mikolaj Smolinski,22,76.954545455,16.932575741,91.0,4.0,,,,,,,,,,,1,0,0,0,0,0,2,10,5,2,2
+UBCV,2018,W,VISA,350,,001,Intermediate Print Media I: Interdisciplinary Approaches to Image Production,Mikolaj Smolinski,22,78.363636364,6.090941397,92.0,69.0,,,,,,,,,,,0,0,0,0,0,3,4,7,4,3,1
+UBCV,2019,W,VISA,250,,004,Print Media,Mikolaj Smolinski,22,77.954545455,9.240064279,90.0,41.0,,,,,,,,,,,1,0,0,0,0,0,1,12,4,3,1

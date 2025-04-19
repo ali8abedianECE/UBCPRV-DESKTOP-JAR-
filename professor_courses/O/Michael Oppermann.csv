@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,CPSC,547,,101,Information Visualization,Michael Oppermann;Tamara Munzner,17,89.0,9.585144756,98.0,60.0,0,0,0,1,0,0,0,1,2,2,11
+UBCV,2019,W,CPSC,436,V,201,Topics in Computer Science,Michael Oppermann;Tamara Munzner;Zipeng Liu,69,86.231884058,7.851835543,99.0,63.0,0,0,0,1,0,1,4,8,12,18,25
+UBCV,2020,W,CPSC,547,,101,Information Visualization,Francis Hoang-Minh Nguyen;Francis Nguyen;Michael Oppermann;Tamara Munzner,37,92.243243243,7.562353416,99.0,61.0,0,0,0,1,0,0,1,0,1,8,26

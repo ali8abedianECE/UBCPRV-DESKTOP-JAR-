@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,PATH,402,,001,HAEMATOLOGY,"Ford, Jason",10,87.3,4.69,94,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3
+UBC,2006,W,PATH,402,,001,HAEMATOLOGY,"Ford, Jason",22,87.73,3.77,94,78,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,8
+UBC,2007,W,PATH,402,,001,HAEMATOLOGY,"Ford, Jason",22,87.32,4.25,95,77,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,7
+UBCV,2020,W,COMM,453,,101,Financial Accounting-Advanced,Barbara Wyntjes;Chuck Campbell;Jason Ford,32,84.21875,11.097033533,99.0,45.0,,,,,,,,,,,1,0,0,0,1,1,2,3,7,7,10
+UBCV,2020,W,COMM,453,,201,Financial Accounting-Advanced,Barbara Wyntjes;Chuck Campbell;Jason Ford,21,73.714285714,13.979065981,97.0,46.0,,,,,,,,,,,1,0,1,4,3,0,1,3,3,2,3
+UBCV,2020,W,COMM,453,,202,Financial Accounting-Advanced,Barbara Wyntjes;Chuck Campbell;Jason Ford,39,77.948717949,18.024761796,100.0,9.0,,,,,,,,,,,1,2,1,4,2,2,3,2,4,7,11
+UBCV,2020,W,COMM,453,,203,Financial Accounting-Advanced,Barbara Wyntjes;Chuck Campbell;Jason Ford,37,83.324324324,11.55434996,99.0,55.0,,,,,,,,,,,0,0,1,0,5,1,2,2,7,3,16
+UBCV,2020,W,COMM,453,,204,Financial Accounting-Advanced,Barbara Wyntjes;Chuck Campbell;Jason Ford,24,73.166666667,15.533040987,100.0,44.0,,,,,,,,,,,1,2,1,2,5,0,0,4,4,1,4

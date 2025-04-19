@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,PHYS,250,,941,Introduction to Modern Physics,James Gordon;Navid Siami;Oliver Stelzer-Chilton,70,79.8,9.525861063,98.0,50.0,0,,,,,,5,14,16,15,9
+UBCV,2015,W,PHYS,508,,201,Quantum Field Theory,James Gordon;Philip C Stamp,7,95.428571429,3.823486317,99.0,88.0,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2017,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Graham Reid;James Gordon;Joerg Rottler;Leo Sporn;Xunyu Liang,180,70.661111111,18.06789303,100.0,0.0,13,14,19,11,8,18,13,14,28,17,25
+UBCV,2017,W,PHYS,473,,201,Applied Nuclear Physics,James Gordon;Javed Iqbal;Mohammed Iqbal;Reiner Kruecken,16,80.0625,9.255403827,90.0,60.0,0,0,0,1,2,0,1,0,4,6,2

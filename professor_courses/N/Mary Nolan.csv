@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,PHTH,527,,001,EXERCISE MOVE II,"Grant, Natalie;Guenette, Jordan;Nolan, Mary",78,85.87,5.06,95,70,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,24,24,22,,,
+UBC,2017,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Pearson, Neil;Reid, Andrea;Tsui, Karen",80,83.77,3.68,91,75,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,27,6,,,
+UBC,2018,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Reid, Andrea",79,83.18,4.11,89,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,33,33,0,,,
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,PHTH,565,,001,Clinical Practice VIb,Anne Rankin;Catherine Kennedy;Linda Li;Mary Nolan,78,84.12820513,4.719010942,94.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,33,29,8,,,
+UBCV,2015,W,PHTH,565,,001,Clinical Practice VIb,Anne Rankin;Catherine Kennedy;Linda Li;Mary Nolan,82,87.231707317,4.155314255,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,21,31,28,,,
+UBCV,2017,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;Mary Nolan;Roland Fletcher,78,92.730769231,3.96960228,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,9,66,,,
+UBCV,2017,W,PHTH,527,,001,Exercise and Movement II,Jordan Guenette;Mary Nolan;Natalie Grant,78,85.871794872,5.059025558,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,7,24,24,22,,,
+UBCV,2017,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Karen Tsui;Linda Li;Mary Nolan;Neil Pearson;Tyler Dumont,79,83.772151899,3.675802257,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,37,27,6,,,
+UBCV,2018,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;Mary Nolan;Roland Fletcher,78,86.756410256,4.449386058,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,22,31,22,,,
+UBCV,2018,W,PHTH,527,,001,Exercise and Movement II,Geralyn Rochelle Ruissen;Geralyn Ruissen;Jordan Guenette;Mary Nolan;Natalie Grant,78,88.282051282,4.342174439,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,31,34,,,
+UBCV,2018,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Fraser Perry;Linda Li;Mary Nolan;Neil Pearson;Sophia Zhao;Tyler Dumont,79,83.17721519,4.109898912,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,8,33,33,0,,,
+UBCV,2019,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;Jean-Francois Esculier;Kendra Zadravec;Mark Hull;Mary Nolan;Roland Fletcher,80,89.7625,3.984920151,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,31,45,,,
+UBCV,2019,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Linda Li;Mary Nolan,78,84.679487179,3.719005557,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,3,38,29,7,,,
+UBCV,2020,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Debra Treloar;Joseph Anthony;Marjorie Belot;Mary Nolan;Nancy Cho;Natalie Grant;Neil Pearson;Roland Fletcher,79,83.303797468,4.33339575,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,11,32,28,4,,,
+UBCV,2020,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Linda Li;Mary Nolan;Tyler Dumont,78,84.474358974,3.709322615,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,10,28,34,6,,,
+UBCV,2021,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Eric Marriott;Joseph Anthony;Mary Nolan;Natalie Grant;Robin Roots;Roland Fletcher;Teryn Buna,101,83.108910891,4.692336284,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,14,37,35,7,,,
+UBCV,2021,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Lauren Watson;Linda Li;Mary Nolan;Tyler Dumont,102,82.156862745,4.21394455,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,7,24,39,30,2,,,
+UBCV,2021,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Teryn Buna;Roland Fletcher;Natalie Grant;Alison Alice Hoens;Eric Marriott;Mary Nolan;Andrea Reid;Robin Roots,101,83.1,,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,14,37,35,7,83.0,87.0,80.0
+UBCV,2021,W,PHTH,565,,001,Clinical Practice VIb,Tyler Dumont;Linda Li;Chris Napier;Mary Nolan;Andrea Reid;Lauren Watson,102,82.2,,93.0,73.0,,,,,,,,,,,,,,,,,7,24,39,30,,83.0,85.0,79.0
+UBCV,2022,W,PHTH,545,,001,Clinical Practice IVb,David Anekwe;Joseph Anthony;Teryn Buna;Roland Fletcher;Natalie Grant;Alison Greig;Alison Alice Hoens;Taru Manyanga;Mary Nolan;Andrea Reid,97,87.9,,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,48,34,88.0,90.0,86.0
+UBCV,2022,W,PHTH,565,,001,Clinical Practice VIb,Tyler Dumont;Natalie Grant;Linda Li;Mary Nolan;Andrea Reid;Lauren Watson,97,84.0,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,10,41,35,8,84.0,87.0,82.0
+UBCV,2023,W,PHTH,545,,001,Clinical Practice IVb,David Anekwe;Joseph Anthony;Roland Fletcher;Natalie Grant;Alison Greig;Alison Alice Hoens;Mary Nolan;Andrea Reid;Caitlin Williams,119,91.03,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,30,86,91.0,93.0,89.0
+UBCV,2023,W,PHTH,565,,001,Clinical Practice VIb,David Anekwe;Tyler Dumont;Roland Fletcher;Natalie Grant;Alison Greig;Linda Li;Mary Nolan;Andrea Reid;Karen Tsui;Caitlin Williams,119,82.48,,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,23,52,35,5,83.0,85.0,80.0

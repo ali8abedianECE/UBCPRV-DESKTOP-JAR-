@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2020,W,ENGR,361,,201,Signals and Communication Systems,Hibatallah Alwazani;Md Hossain;Mohammed Saif;Peyman Amiri;Simon Faber,97,81.989690722,10.802676024,99.0,34.0,1,1,1,3,3,3,10,6,27,14,28
+UBCO,2020,W,ENGR,451,,101,Microelectronics II,Alex Macgillivray;Hoda Dadashzadeh;Junchi Bin;Nibirh Jawad;Simon Faber;Thomas Johnson,94,77.531914894,12.957085601,97.0,43.0,1,4,5,4,10,6,11,4,15,16,18
+UBCO,2021,W,ENGR,361,,201,Signals and Communication Systems,Simon Faber;Thomas Johnson,74,71.608108108,15.005768359,98.0,18.0,5,5,3,4,9,11,10,2,7,10,8
+UBCO,2021,W,ENGR,420,,001,Fundamentals of Healthy Buildings,Craig Hostland;Sepideh Pakpour;Simon Faber,48,87.458333333,6.059837556,96.0,74.0,0,0,0,0,0,0,2,5,7,13,21

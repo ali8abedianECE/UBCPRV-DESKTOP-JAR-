@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,BA,515,,001,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,48,82.833333333,6.488396626,95.0,62.0,0,0,0,1,0,0,4,9,15,13,6
+UBCV,2019,W,BA,515,,002,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,49,82.551020408,5.354364359,94.0,73.0,0,0,0,0,0,0,6,7,21,11,4
+UBCV,2019,W,BA,515,,003,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,29,84.24137931,6.110033741,95.0,68.0,0,0,0,0,0,1,2,4,8,10,4
+UBCV,2019,W,BA,515,,004,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,28,83.821428571,5.249716546,93.0,72.0,0,0,0,0,0,0,2,4,7,10,5
+UBCV,2019,W,COMM,337,,201,Business Programming and Analytics,Hasan Cavusoglu;Rui Cao;Uzma Arjuman,50,78.24,8.972884322,95.0,54.0,0,1,2,0,3,2,7,6,14,12,3
+UBCV,2019,W,COMM,337,,202,Business Programming and Analytics,Hasan Cavusoglu;Rui Cao;Uzma Arjuman,48,76.645833333,11.009646802,95.0,50.0,0,1,1,3,8,3,7,2,8,6,9
+UBCV,2020,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,55,82.981818182,7.820890612,96.0,55.0,0,0,2,0,1,0,2,10,12,18,10
+UBCV,2020,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,56,82.553571429,7.368038207,93.0,64.0,0,0,0,0,4,1,3,9,12,18,9
+UBCV,2020,W,COMM,337,,201,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,33,78.272727273,9.23739928,91.0,60.0,0,0,0,3,3,3,0,7,7,7,3
+UBCV,2020,W,COMM,337,,202,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,37,77.567567568,10.876939267,98.0,56.0,0,0,2,3,2,1,8,6,3,6,6
+UBCV,2020,W,COMM,337,,203,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,41,80.609756098,9.856160634,98.0,58.0,0,0,2,1,1,4,3,4,10,7,9
+UBCV,2021,W,COMM,337,,201,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,34,71.705882353,13.772016889,96.0,43.0,3,2,1,2,4,3,8,1,4,1,5
+UBCV,2021,W,COMM,337,,202,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,47,75.021276596,14.49211084,94.0,20.0,3,2,2,2,0,5,4,4,15,6,4
+UBCV,2021,W,COMM,337,,203,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,38,76.447368421,11.329696373,96.0,52.0,0,1,2,2,5,2,6,3,4,8,5

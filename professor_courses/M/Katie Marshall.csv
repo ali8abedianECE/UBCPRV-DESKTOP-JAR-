@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,BIOL,450,,201,MOLEC ADAP ANIML,"Marshall, Katie",23,85.96,6.36,93,67,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,10,8,,,
+UBCV,2018,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall,23,85.956521739,6.356659077,93.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,1,2,10,8,,,
+UBCV,2019,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall,23,89.608695652,2.083247693,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,12,,,
+UBCV,2019,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Douglas Altshuler;Katie Marshall;Philip Matthews;Robert Edward Shadwick,7,87.0,3.0,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,3,,,
+UBCV,2020,S,BIOL,260,,921,Fundamentals of Physiology,Beth Volpov;Katie Marshall;Lorenzo Lindo;Santokh Singh;Skye Butterson,64,76.15625,10.265087618,90.0,46.0,,,,,,,,,,,1,3,1,3,3,8,5,11,14,12,3,,,
+UBCV,2020,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Aayush Malhotra;Kathy Margaret Nomme;Katie Marshall,23,92.173913043,2.309115807,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,20,,,
+UBCV,2020,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Douglas Altshuler;Katie Marshall;Robert Edward Shadwick,9,91.222222222,2.223610677,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,S,BIOL,260,,951,Fundamentals of Physiology,Aayush Malhotra;Caitlin Donnelly;Fanny Couture;Katie Marshall;Solveig Van Wersch,63,77.619047619,11.880355935,99.0,44.0,,,,,,,,,,,1,4,1,2,4,3,7,5,16,15,5,,,
+UBCV,2021,W,BIOL,310,,201,Introduction to Animal Behaviour,Aliye Sasmaz;Andrea Haberkern;Gabriel Greenberg-Pines;Katie Marshall;Leticia Aviles;Sarah Benson-Amram,56,92.553571429,5.614654989,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,3,6,45,,,
+UBCV,2021,W,BIOL,370,,101,Principles of Muscle Physiology and Energetics,Alexander Coverley;Katie Marshall;Nour Senoussaoui,99,84.616161616,10.284431538,97.0,17.0,,,,,,,,,,,1,0,1,0,5,1,4,0,28,28,31,,,
+UBCV,2021,W,BIOL,411,,201,Insect Ecology,Katie Marshall;Michelle Tseng;Samantha Straus,23,84.0,13.37908816,94.0,25.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,14,3,,,
+UBCV,2021,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall;Naomi Keeling;Nour Senoussaoui,21,92.0,3.376388603,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,18,,,
+UBCV,2021,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Benjamin Matthews;Katie Marshall,7,90.571428571,2.572750983,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,S,BIOL,260,,951,Fundamentals of Physiology,Caitlin Donnelly;Katie Marshall,63,77.6,,99.0,44.0,,,,,,,,,,,,,,,,,7,,16,15,,81.0,87.0,72.0
+UBCV,2021,W,BIOL,370,,101,Principles of Muscle Physiology and Energetics,Katie Marshall,99,84.6,,97.0,17.0,,,,,,,,,,,,,,,,,,,28,28,31,87.0,90.0,82.0
+UBCV,2021,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall,21,92.0,,96.0,80.0,,,,,,,,,,,,,,,,,,,,,18,93.0,94.0,91.0
+UBCV,2021,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Katie Marshall;Benjamin Matthews,7,90.6,,95.0,88.0,,,,,,,,,,,,,,,,,,,,,,90.0,91.5,89.0
+UBCV,2022,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall,20,88.8,,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,10,89.5,92.0,86.8
+UBCV,2022,W,ZOOL,503,,001,Comparative Animal Physiology Seminar,Katie Marshall;Benjamin Matthews,6,93.2,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,92.0,93.5,92.0
+UBCV,2023,W,BIOL,450,,201,Molecular Adaptation of Animals to the Environment,Katie Marshall,23,90.3,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,3,18,92.0,93.0,90.0

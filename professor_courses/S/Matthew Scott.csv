@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,LAW,471,D,001,Preventing Wrongful Convictions,Donna Turko;Matthew Scott,16,77.875,3.649200826,83.0,70.0,0,0,0,0,0,1,3,7,5,0,0
+UBCV,2018,W,LAW,471,D,001,Preventing Wrongful Convictions,Matthew Scott;Tony Paisana,22,75.681818182,7.266271485,87.0,57.0,0,0,1,0,0,6,3,4,6,2,0
+UBCV,2019,W,LAW,471,D,001,Preventing Wrongful Convictions,Matthew Scott;Tony Paisana,20,75.6,5.97714947,85.0,62.0,0,0,0,1,1,3,4,5,5,1,0
+UBCV,2021,W,MATH,200,,109,Calculus III,Ailana Fraser;Albert Chau;Evan Miller;Matthew Scott,106,67.716981132,17.665546083,100.0,20.0,12,14,6,8,7,11,7,4,20,8,9
+UBCV,2021,W,MATH,220,,201,Mathematical Proof,Alan Getz;Kai Behrend;Matthew Scott;Rachel Ollivier;Yuliang Shi,76,63.25,20.1389341,90.0,0.0,15,7,5,4,9,7,6,3,7,9,4
+UBCV,2021,W,MATH,220,,203,Mathematical Proof,Alan Getz;Matthew Scott;Rachel Ollivier;Thomas Williams;Yuliang Shi,70,67.085714286,19.667336901,100.0,6.0,12,5,8,6,6,3,3,3,9,6,9
+UBCV,2021,W,MATH,220,,204,Mathematical Proof,Alan Getz;Matthew Scott;Rachel Ollivier;Yuliang Shi,77,64.493506494,19.543220238,98.0,0.0,12,8,8,6,5,5,11,5,4,7,6
+UBCV,2021,W,MATH,221,,106,Matrix Algebra,Alexia Yavicoli;Halyun Jeong;Jalal Khouhak;Matthew Scott;Michael Deakin;Patrick Walls;Thomas Williams,113,68.362831858,15.721948913,97.0,5.0,10,11,7,9,8,16,16,7,14,6,9
+UBCV,2021,W,MATH,256,,201,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Laurent Mackay;Matthew Scott;Thomasina Ball;Tuoxin Li,102,67.303921569,17.142841485,99.0,15.0,12,12,7,9,5,11,13,5,11,10,7
+UBCV,2021,W,MATH,256,,202,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Matthew Scott;Tuoxin Li,119,73.605042017,17.34164112,100.0,0.0,13,5,2,8,8,10,7,15,18,11,22
+UBCV,2021,W,MATH,256,,203,Differential Equations,Andres Ross Bernot;Emad Chaparian;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Keegan Boyle;Matthew Scott;Tuoxin Li,102,66.843137255,13.228191541,90.0,32.0,8,12,12,9,4,16,8,16,10,5,2
+UBCV,2021,W,MATH,256,,204,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Kelly Paton;Matthew Scott;Tuoxin Li,69,57.101449275,14.222129533,85.0,20.0,20,11,9,6,6,4,5,4,3,1,0

@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,EDUC,310,,114,TEACh PRINC,"Maguire, Noreen",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,316,C,114,COMM SKILLS,"Maguire, Noreen",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,480,A,221,E-PORTFOLIO,"Maguire, Noreen",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,480,A,223,E-PORTFOLIO,"Maguire, Noreen",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDUC,480,A,114,E-PORTFOLIO,"Maguire, Noreen",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,310,,114,TEACh PRINC,"Maguire, Noreen",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,316,C,114,COMM SKILLS,"Maguire, Noreen",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,LLED,320,,104,C & I LNG ED EL,"Maguire, Noreen",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDUC,310,,114,TEACh PRINC,"Maguire, Noreen",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDUC,316,C,114,COMM SKILLS,"Maguire, Noreen",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,GEOB,270,,201,GEOG INFORM SCI,"MAGUIRE, BRADLEY DAVID",105,75.42,7.44,90,50,97,0,7,0,0,0,0,0,0,0,0,3,0,3,5,11,20,30,17,5,3
+UBC,2011,W,LLED,320,,107,C & I LNG ED EL,"Maguire, Noreen",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PATH,548,Q,017,DIR STD MSC STNT,"Allard, Michael;Dalal, Bakul;Gilks, Cyril Blake;Holmes, Daniel;Mackenzie, Ian;Maguire, John;Nielsen, Torsten;Owen, David Arthur",8,79.13,5.38,89,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,1,0
+UBC,2016,W,EDCP,349,,640,SCIENCE ELEM C&P,"Maguire, Susanne;Nissen, Monica",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,450,A,640,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,450,B,640,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,451,A,640,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,451,B,640,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EPSE,310,A,640,ASMNT&LRN IN CLS,"Burns, Geoffrey;Maguire, Susanne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EPSE,310,B,640,ASMNT&LRN IN CLS,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EPSE,311,,640,CULTVNG SUPP ENV,"Burns, Geoffrey;Maguire, Susanne",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,350,,640,CLSRM DISCRS ELM,"Burns, Geoffrey;Maguire, Susanne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,351,,640,LTR PRC&AST ELEM,"Maguire, Susanne;Wheeler, Fay",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,360,,640,CLS DSC TEL SECD,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,361,,640,LIT PRC&ASMT SEC,"Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDUC,452,A,964,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDUC,452,B,964,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,349,,640,SCIENCE ELEM C&P,"Maguire, Susanne;Nissen, Monica",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,450,A,640,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,450,A,641,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,450,B,640,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,450,B,641,INQUIRY SEMNR 1,"Burns, Geoffrey;Maguire, Susanne",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,451,A,640,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,451,A,641,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,451,B,640,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,451,B,641,INQUIRY SEMNR 2,"Burns, Geoffrey;Maguire, Susanne",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EPSE,310,A,640,ASMNT&LRN IN CLS,"Burns, Geoffrey;Maguire, Susanne",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EPSE,310,B,640,ASMNT&LRN IN CLS,"Burns, Geoffrey;Maguire, Susanne",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,LLED,350,,640,CLSRM DISCRS ELM,"Maguire, Susanne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,LLED,351,,640,LTR PRC&AST ELEM,"Maguire, Susanne;Wheeler, Fay",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDUC,452,A,964,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDUC,452,A,965,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDUC,452,B,964,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDUC,452,B,965,INQUIRY SEMNR 3,"Burns, Geoffrey;Maguire, Susanne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,349,,640,SCIENCE ELEM C&P,"Maguire, Susanne;Nissen, Monica",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDUC,450,A,640,INQUIRY SEMNR 1,"Maguire, Susanne",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDUC,450,A,641,INQUIRY SEMNR 1,"Maguire, Susanne",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EPSE,308,,640,HUM DVEL LRN DIV,"Maguire, Susanne;Richardson, Pamela;Shearer, Katherine",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LARC,504,,003,LA DSN STD IV,"Maguire, Sophie",6,84,3.95,88,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0
+UBC,2018,W,LARC,505,,003,LA DSN STD V,"Maguire, Sophie",6,83.5,6.19,87,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0
+UBC,2018,W,LLED,350,,640,CLSRM DISCRS ELM,"Maguire, Susanne",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

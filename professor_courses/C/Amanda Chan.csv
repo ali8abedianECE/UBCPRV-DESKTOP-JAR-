@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,MUSC,161,,001,PIANO CHAMB ENS,"Chan, Amanda;Sharon, Rena",30,86.57,4.34,95,75,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,19,5,,,
+UBC,2005,W,MUSC,167,,001,PIANO CHAMBER,"Chan, Amanda",15,83.8,4.8,94,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6,1,,,
+UBC,2005,W,MUSC,349,,001,KEYBOARD HRMY&TR,"Chan, Amanda",10,76.11,13.57,92,54,9,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,2,0,2,,,
+UBC,2005,W,MUSC,349,,002,KEYBOARD HRMY&TR,"Chan, Amanda",5,81.8,6.8,89,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,,,
+UBC,2005,W,MUSC,561,,001,PIANO CHAMB ENS,"Chan, Amanda;Sharon, Rena",15,90.29,1.86,94,88,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,,,
+UBC,2006,W,MUSC,167,,001,PIANO CHAMBER,"Chan, Amanda;Hoy, Patricia",10,82.33,2.74,87,79,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,1,0,,,
+UBC,2009,W,MUSC,161,A,001,PIANO CHAMB ENS,"Chan, Amanda;Coop, Jane;Dawson, Terence;Hoy, Patricia;Sharon, Rena",17,85.82,7.19,93,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,9,5,,,
+UBC,2013,W,MUSC,282,A,737,PERFORMANCE CON,"Chan, Amanda;Dawson, Terence;Hamm, Corey",4,84.25,1.5,86,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,
+UBC,2014,W,MUSC,382,A,737,PERFORMANCE CON,"Chan, Amanda",4,82.75,2.22,86,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,,,
+UBCV,2019,W,MUSC,182,A,737,Music Performance (Concentration),Amanda Chan;Terence Dawson,6,83.5,4.460941605,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,4,0,,,
+UBCV,2021,W,MUSC,549,A,001,Master's Thesis,Amanda Chan;Christie Reside;David Gillham;Graeme Langager;Michael Jarrett;Patricia Hoy;Valerie Whitney;Vern Griffiths,20,90.9,3.768288736,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,18,,,
+UBCV,2021,W,MUSC,549,A,001,Master's Thesis,Amanda Chan;David Gillham;Vern Griffiths;Patricia Hoy;Michael Jarrett;Graeme Langager;Christie Reside;Valerie Whitney,19,90.9,,96.0,78.0,,,,,,,,,,,,,,,,,,,,,17,91.0,93.0,90.0

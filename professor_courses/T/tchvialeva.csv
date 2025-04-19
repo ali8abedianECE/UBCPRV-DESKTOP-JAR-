@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,PHYS,100,,103,INTRO PHYSICS,"Carolan, James;Rieger, Georg;Tchvialeva, Lioudmila",292,75.07,13.14,98,45,256,28,7,0,1,0,0,0,0,28,28,0,3,8,18,36,39,36,50,33,33
+UBC,2009,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",40,80.15,8.08,93,60,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,6,10,6,6
+UBC,2010,S,PHYS,102,,952,ELEC LIGHT & RAD,"Tchvialeva, Lioudmila",82,73.32,11.91,97,32,77,2,2,0,1,0,0,0,2,0,2,1,7,6,4,10,11,11,17,3,7
+UBC,2010,W,PHYS,404,,101,INTRO MED PHYS,"Bjarnason, Thor;Kozlowski, Piotr;Lee, Richard;MacKay, Alexander;Tchvialeva, Lioudmila;Thakur, Yogesh;Walker, Matthew",39,74.81,13.19,91,33,35,2,1,0,1,0,0,0,1,1,2,1,1,2,2,3,4,5,7,8,2
+UBC,2011,S,PHYS,102,,952,ELEC LIGHT & RAD,"Tchvialeva, Lioudmila",102,75.99,11.25,97,42,97,2,2,0,0,0,0,0,0,2,2,2,1,4,14,13,10,12,16,16,9
+UBC,2011,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",53,82.1,7.08,94,68,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,2,6,20,9,9
+UBC,2012,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",37,77.64,8.21,92,54,36,0,1,0,0,0,0,0,0,0,0,1,1,0,0,7,2,4,14,6,1
+UBC,2013,W,PHYS,404,,101,INTRO MED PHYS,"MacKay, Alexander;Tchvialeva, Lioudmila;Walker, Matthew;Xiang, Qing-San",23,76.43,15.11,96,36,22,1,0,0,0,0,0,0,1,0,1,2,0,1,1,2,1,0,7,5,3
+UBC,2014,W,PHYS,404,,101,INTRO MED PHYS,"Kozlowski, Piotr;MacKay, Alexander;Tanguay, Jesse;Tchvialeva, Lioudmila;Thakur, Yogesh",20,77.67,11.25,91,52,18,0,1,0,1,0,0,0,0,0,0,1,1,0,2,1,1,0,6,5,1
+UBC,2015,W,PHYS,404,,101,INTRO MED PHYS,"Bergman, Alanah;MacMillan, Erin;Tanguay, Jesse;Tchvialeva, Lioudmila;Thakur, Yogesh;Xiang, Qing-San",35,76.76,11.49,93,45,28,1,5,0,1,0,0,0,0,1,1,0,2,2,0,1,7,3,5,3,5
+UBC,2016,W,PHYS,404,,101,INTRO MED PHYS,"Bergman, Alanah;Kozlowski, Piotr;Laule, Cornelia;MacKay, Alexander;Tchvialeva, Lioudmila;Thakur, Yogesh;Uribe Munoz, Carlos",45,72.45,13.46,94,35,39,3,3,0,0,0,0,0,1,2,3,2,2,3,3,3,6,5,8,5,2

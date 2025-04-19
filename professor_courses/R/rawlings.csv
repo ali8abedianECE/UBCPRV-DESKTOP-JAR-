@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MECH,220,,101,TECH SKILLS PRAC,"Abello Rubio, Juan;Fengler, Markus;Rawlings, George;d'Entremont, Agnes",128,81.09,5.74,91,59,128,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,12,26,44,36,3
+UBC,2017,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Mehrandezh, Mehran;Rawlings, George;Winkelman, Paul",144,79.77,6.78,92,52,144,0,0,0,0,0,0,0,0,0,0,1,2,1,3,6,16,33,52,24,6
+UBC,2018,W,MECH,220,,101,TECH SKILLS PRAC,"Abello Rubio, Juan;Atabaki, Nima;Fengler, Markus;Rawlings, George;d'Entremont, Agnes",121,82.63,4.82,92,71,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,18,45,40,5
+UBC,2018,W,MECH,328,,101,MECH ENG PROJECT,"Eyking, Adrianna;Fengler, Markus;Hodgson, Antony;Rawlings, George;Winkelman, Paul",127,81.81,4.91,94,71,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,24,46,35,6

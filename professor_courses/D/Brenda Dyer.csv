@@ -1,0 +1,67 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,CNPS,362,,002,BASIC INTVW SKLS,"Dyer, Brenda",15,83.73,5.47,90,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,8,2
+UBC,2010,W,CNPS,362,,009,BASIC INTVW SKLS,"Dyer, Brenda",15,84.33,5.11,92,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,3
+UBC,2011,S,CNPS,362,,922,BASIC INTVW SKLS,"Dyer, Brenda",15,84.87,2.47,90,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,1
+UBC,2011,W,CNPS,362,,010,BASIC INTVW SKLS,"Dyer, Brenda",15,84.07,3.47,91,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,5,1
+UBC,2012,W,CNPS,362,,006,BASIC INTVW SKLS,"Dyer, Brenda",15,86.13,2.1,90,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,1
+UBC,2012,W,CNPS,362,,007,BASIC INTVW SKLS,"Dyer, Brenda",15,86.2,2.11,90,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,1
+UBC,2012,W,CNPS,362,,010,BASIC INTVW SKLS,"Dyer, Brenda",14,86.43,3.06,94,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,2
+UBC,2012,W,CNPS,363,,003,CAREER COUNSELNG,"Dyer, Brenda",34,89.21,4.86,98,73,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,12,19
+UBC,2012,W,CNPS,524,,001,COUNSLNG ADULTS,"Dyer, Brenda",15,91.33,2.77,95,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11
+UBC,2012,W,CNPS,578,B,005,IND&FAM CNSL T&I,"Dyer, Brenda",8,91,2.14,94,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5
+UBC,2013,S,CNPS,362,,924,BASIC INTVW SKLS,"Dyer, Brenda",13,86.85,2.64,91,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,2
+UBC,2013,S,CNPS,514,,951,COUNSL ADOLESCNT,"Dyer, Brenda",12,91.17,1.64,94,88,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10
+UBC,2013,S,CNPS,578,B,953,IND&FAM CNSL T&I,"Dyer, Brenda",12,89.08,1.98,92,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3
+UBC,2013,W,CNPS,362,,001,BASIC INTVW SKLS,"Dyer, Brenda",14,87,2.39,93,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,2
+UBC,2013,W,CNPS,362,,006,BASIC INTVW SKLS,"Dyer, Brenda",14,86.64,2.34,91,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,2
+UBC,2013,W,CNPS,362,,009,BASIC INTVW SKLS,"Dyer, Brenda",13,86.62,2.96,93,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,1
+UBC,2013,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Dyer, Brenda",12,90,2.63,95,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2013,W,CNPS,578,C,002,IND&FAM CNSL T&I,"Dyer, Brenda",13,89.69,2.06,93,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7
+UBC,2014,S,CNPS,362,,924,BASIC INTVW SKLS,"Dyer, Brenda",11,87.64,2.54,92,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,2
+UBC,2014,S,CNPS,578,C,952,IND&FAM CNSL T&I,"Dyer, Brenda",11,88.45,2.34,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2014,W,CNPS,362,,001,BASIC INTVW SKLS,"Dyer, Brenda",14,86.79,2.67,92,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,3
+UBC,2014,W,CNPS,514,,001,COUNSL ADOLESCNT,"Dyer, Brenda",17,92.06,2.29,95,88,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14
+UBC,2014,W,CNPS,524,,001,COUNSLNG ADULTS,"Dyer, Brenda",17,90.06,3.27,95,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,10
+UBC,2014,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Dyer, Brenda",13,88.38,2.43,93,86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4
+UBC,2015,S,CNPS,578,C,952,IND&FAM CNSL T&I,"Dyer, Brenda",7,88.14,1.46,90,86,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2
+UBC,2015,W,CNPS,514,,001,COUNSL ADOLESCNT,"Dyer, Brenda",14,90.5,2.07,94,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+UBC,2015,W,CNPS,524,,001,COUNSLNG ADULTS,"Dyer, Brenda",20,89.75,3.09,95,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,10
+UBC,2015,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Dyer, Brenda",13,88.08,4.03,92,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,7
+UBC,2016,S,CNPS,578,C,952,IND&FAM CNSL T&I,"Dyer, Brenda",7,88.29,1.5,90,86,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2
+UBC,2017,W,CNPS,362,,009,BASIC INTVW SKLS,"Dyer, Brenda",13,86.77,5.25,92,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6
+UBC,2017,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Dyer, Brenda",12,88.73,1.79,92,86,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2017,W,CNPS,578,C,002,IND&FAM CNSL T&I,"Dyer, Brenda",12,88.42,1.68,93,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,2
+UBC,2018,W,CNPS,362,,001,BASIC INTVW SKLS,"Dyer, Brenda",15,88.21,3.62,94,82,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,5
+UBC,2018,W,CNPS,362,,009,BASIC INTVW SKLS,"Dyer, Brenda",15,87.67,2.53,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,5
+UBC,2018,W,CNPS,578,C,001,IND&FAM CNSL T&I,"Dyer, Brenda",11,88.64,2.38,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+UBC,2018,W,CNPS,578,C,002,IND&FAM CNSL T&I,"Dyer, Brenda",12,88.5,1.45,91,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4
+UBCV,2014,S,CNPS,362,,924,Basic Interviewing Skills,Brenda Dyer,11,87.63636364,2.540579748,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,S,CNPS,578,C,952,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,88.45454546,2.339386089,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4
+UBCV,2014,W,CNPS,362,,001,Basic Interviewing Skills,Brenda Dyer,14,86.78571429,2.665407212,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,CNPS,514,,001,Counselling Adolescents,Brenda Dyer,16,92.0625,2.294013949,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,14
+UBCV,2014,W,CNPS,524,,001,Counselling Adults,Brenda Dyer,17,90.05882353,3.268611866,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,10
+UBCV,2014,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,13,88.38461539,2.433737234,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,4
+UBCV,2015,S,CNPS,578,C,952,Individual and Family Counselling Theories and Interventions,Brenda Dyer,7,88.14285714,1.463850109,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,2
+UBCV,2015,W,CNPS,514,,001,Counselling Adolescents,Brenda Dyer,14,90.5,2.066211695,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,9
+UBCV,2015,W,CNPS,524,,001,Counselling Adults,Brenda Dyer,20,89.75,3.09286105,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,10
+UBCV,2015,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,13,88.076923077,4.030333701,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,4,7
+UBCV,2016,S,CNPS,578,C,952,Individual and Family Counselling Theories and Interventions,Brenda Dyer,7,88.28571429,1.496026483,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,2
+UBCV,2017,W,CNPS,362,,002,Basic Interviewing Skills,Brenda Dyer;Wei-Chiao Hsu,15,88.266666667,6.08824003,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,4,8
+UBCV,2017,W,CNPS,362,,005,Basic Interviewing Skills,Brenda Dyer;Gillian Smith,15,89.0,6.152815848,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,4,9
+UBCV,2017,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer,13,86.769230769,5.246488447,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,3,6
+UBCV,2017,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,88.727272727,1.793929156,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4
+UBCV,2017,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Brenda Dyer,12,88.416666667,1.676486224,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,2
+UBCV,2018,W,CNPS,362,,001,Basic Interviewing Skills,Brenda Dyer;Natasha Wawrykow,14,88.214285714,3.619999393,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,5
+UBCV,2018,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer,15,87.666666667,2.526054707,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,5
+UBCV,2018,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,88.636363636,2.377928816,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,3
+UBCV,2018,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Brenda Dyer,12,88.5,1.445997611,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,4
+UBCV,2019,W,CNPS,362,,001,Basic Interviewing Skills,Brenda Dyer;Cynthia Glidden-Tracey,13,91.692307692,3.038218101,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,11
+UBCV,2019,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer,14,88.714285714,3.049049573,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,6
+UBCV,2019,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,86.909090909,2.34326889,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,2
+UBCV,2019,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Brenda Dyer;Cynthia Glidden-Tracey,12,92.0,3.104249287,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10
+UBCV,2019,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Brenda Dyer;Sandra Wiens,13,88.230769231,2.278663576,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,4
+UBCV,2020,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer,15,87.133333333,2.263583337,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,2
+UBCV,2020,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,9,88.333333333,1.414213562,91.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,2
+UBCV,2020,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,88.636363636,1.963299634,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4
+UBCV,2021,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer;Joshua Madsen,14,90.714285714,8.231539453,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,1,10
+UBCV,2021,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Brenda Dyer;Christopher Shelley,10,92.6,1.776388346,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9

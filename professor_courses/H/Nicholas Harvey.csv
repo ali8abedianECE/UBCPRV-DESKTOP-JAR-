@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,CPSC,536,N,202,TPCS ALGO&COMPLX,"Harvey, Nicholas",12,86.83,14.33,100,50,12,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,8,,,
+UBC,2012,W,CPSC,421,,101,THEORY COMPTG,"Harvey, Nicholas",35,76.24,17.04,100,39,33,1,1,0,0,0,0,0,1,0,1,3,3,1,3,4,1,2,4,2,10,,,
+UBC,2012,W,CPSC,501,,101,THRY OF AUTOMATA,"Harvey, Nicholas",8,92.75,7.09,100,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,,,
+UBC,2012,W,CPSC,536,N,201,TPCS ALGO&COMPLX,"Harvey, Nicholas",6,96.6,2.3,100,95,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2013,W,CPSC,421,,101,THEORY COMPTG,"Harvey, Nicholas",42,77.48,18.83,100,0,41,1,0,0,0,1,0,0,0,0,1,2,3,2,1,7,2,3,6,4,11,,,
+UBC,2013,W,CPSC,531,H,201,THRY COMPUTATION,"Harvey, Nicholas",15,88.62,6.41,96,75,13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,7,,,
+UBC,2014,S,CPSC,221,,911,BASIC ALG&DATA,"Harvey, Nicholas",120,85.87,8.47,99,60,119,0,0,0,1,0,0,0,0,0,0,0,0,1,2,6,7,6,24,28,45,,,
+UBC,2014,W,CPSC,536,N,202,TPCS ALGO&COMPLX,"Harvey, Nicholas",26,91.68,6.4,100,80,19,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,12,,,
+UBC,2015,S,CPSC,320,,911,INTR ALG DSGN&AN,"Harvey, Nicholas",106,77.83,12.03,100,42,103,1,1,1,0,0,0,0,0,1,1,2,6,3,7,10,16,10,17,12,20,,,
+UBC,2016,S,CPSC,320,,911,INTR ALG DSGN&AN,"Harvey, Nicholas",115,75.66,15.57,100,39,105,5,5,0,0,0,0,0,1,4,5,7,6,7,9,9,6,12,19,8,22,,,
+UBC,2016,W,CPSC,421,,101,THEORY COMPTG,"Harvey, Nicholas",88,77.8,15.6,100,50,83,0,4,0,1,0,0,0,0,0,0,7,4,9,5,6,6,7,9,4,26,,,
+UBC,2016,W,CPSC,501,,101,THRY OF AUTOMATA,"Harvey, Nicholas",5,89.5,1.73,91,87,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2016,W,CPSC,536,N,201,TPCS ALGO&COMPLX,"Harvey, Nicholas",22,89.05,7.79,100,75,19,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,12,,,
+UBC,2018,W,CPSC,421,,101,THEORY COMPTG,"Harvey, Nicholas",76,80.12,15.46,100,29,74,1,1,0,0,0,0,1,0,0,1,3,7,3,2,4,3,6,14,5,27,,,
+UBC,2018,W,CPSC,501,,101,THRY OF AUTOMATA,"Harvey, Nicholas",8,85,7.83,93,70,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3,,,
+UBC,2018,W,CPSC,531,H,101,THRY COMPUTATION,"Harvey, Nicholas",18,88.18,17.61,100,23,16,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,4,11,,,
+UBC,2018,W,CPSC,536,J,201,TPCS ALGO&COMPLX,"Friedman, Joel;Harvey, Nicholas",6,93.5,3.45,100,90,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2014,S,CPSC,221,,911,Basic Algorithms and Data Structures,Nicholas Harvey,120,85.15833333,11.45542757,99.0,1.0,,,,,,,,,,,,,,,,6,7,6,24,28,45,,,
+UBCV,2014,W,CPSC,536,N,202,Topics in Algorithms and Complexity,Nicholas Harvey,19,91.68421053,6.40358087,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,12,,,
+UBCV,2015,S,CPSC,320,,911,Intermediate Algorithm Design and Analysis,Alireza Shafaei;Michael Philip Wathen;Michael Wathen;Nicholas Harvey;Samuel Edward Creed;Shiwen He;Sikander Randhawa;Sikander Singh Randhawa,104,77.82692308,12.02864083,100.0,42.0,,,,,,,,,,,,,6,,7,10,16,10,17,12,20,,,
+UBCV,2016,S,CPSC,320,,911,Intermediate Algorithm Design and Analysis,Nicholas Harvey,110,75.66363636,15.56712442,100.0,39.0,,,,,,,,,,,5,7,6,7,9,9,6,12,19,8,22,,,
+UBCV,2016,W,CPSC,421,,101,Introduction to Theory of Computing,Bader Alahmad;Christopher Liaw;Devon Graham;Giorgio Gori;Nicholas Harvey,84,76.91666667,17.4681868,100.0,4.0,,,,,,,,,,,1,7,4,9,5,6,6,7,9,4,26,,,
+UBCV,2016,W,CPSC,536,N,201,Topics in Algorithms and Complexity,Nicholas Harvey,19,89.05263158,7.792258867,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,2,12,,,
+UBCV,2018,W,CPSC,421,,101,Introduction to Theory of Computing,Curtis Fox;Da Wei Zheng;Nicholas Harvey;Shane Sims;Sikander Randhawa;Sikander Singh Randhawa,75,80.12,15.459589869,100.0,29.0,,,,,,,,,,,1,3,7,3,2,4,3,6,14,5,27,,,
+UBCV,2018,W,CPSC,501,,101,"Theory of Automata, Formal Languages and Computability",Joel Friedman;Nicholas Harvey,7,85.0,7.831560083,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,1,3,,,
+UBCV,2018,W,CPSC,531,H,101,Topics in Theory of Computation,Nicholas Harvey,17,88.176470588,17.614749835,100.0,23.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,4,11,,,
+UBCV,2018,W,CPSC,536,J,201,Topics in Algorithms and Complexity,Joel Friedman;Nicholas Harvey,6,93.5,3.449637662,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2019,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Ali Mohammad Mehr;Baitao Hu;Emmanuel Sales;Galen Hugh Wang;Galen Wang;Hanbo Yang;Jingwen Bai;Kyle Clarkson;Mourud Ahmed;Nicholas Harvey;Ningfeng Yang;Rebecca Zhi Ying Xie;Seyed Ali Tabatabaee;Wan Shing Martin Wang,173,85.086705202,11.865941936,100.0,5.0,,,,,,,,,,,2,2,2,1,2,3,10,10,36,43,62,,,
+UBCV,2019,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Georgios Tsiknis;Nicholas Harvey,165,86.115151515,9.760801434,100.0,57.0,,,,,,,,,,,0,0,3,3,4,4,8,8,33,37,65,,,
+UBCV,2020,W,CPSC,420,,101,Advanced Algorithms Design and Analysis,Arshvir Jhaj;Carson C Woo;Emmanuel Sales;Nicholas Harvey,71,81.112676056,9.421175686,99.0,50.0,,,,,,,,,,,0,2,0,0,3,8,6,3,22,18,9,,,
+UBCV,2021,W,CPSC,436,R,101,Topics in Computer Science,Arshvir Jhaj;Nicholas Harvey,32,80.03125,11.98516388,100.0,60.0,,,,,,,,,,,0,0,0,4,0,2,9,4,2,2,9,,,
+UBCV,2021,W,CPSC,536,N,201,Topics in Algorithms and Complexity,Nicholas Harvey;Victor Sanches Portella,26,89.5,4.216633728,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,9,15,,,
+UBCV,2021,W,CPSC,436,R,101,Topics in Computer Science,Nicholas Harvey,32,80.0,,100.0,60.0,,,,,,,,,,,,,,,,,9,,,,9,77.0,90.5,72.0
+UBCV,2021,W,CPSC,536,N,201,Topics in Algorithms and Complexity,Nicholas Harvey,26,89.5,,95.0,74.0,,,,,,,,,,,,,,,,,,,,9,15,91.0,91.8,88.0
+UBCV,2022,W,CPSC,421,,101,Introduction to Theory of Computing,Nicholas Harvey,73,76.9,,100.0,34.0,,,,,,,,,,,1,4,3,6,3,6,6,8,14,8,14,78.0,86.0,69.0
+UBCV,2022,W,CPSC,436,R,201,Topics in Computer Science,Nicholas Harvey,63,84.7,,100.0,55.0,,,,,,,,,,,0,0,1,0,3,1,6,7,11,7,27,88.0,92.0,77.5
+UBCV,2023,W,CPSC,436,R,101,Topics in Computer Science,Nicholas Harvey,48,81.6,,96.0,50.0,,,,,,,,,,,0,1,2,0,2,4,4,2,10,11,11,84.0,89.0,74.5

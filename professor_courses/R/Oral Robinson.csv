@@ -1,0 +1,97 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,SOCI,200,,003,SOCI OF FAMILY,"Robinson, Oral",96,70.86,7.78,87,56,92,0,1,0,1,0,0,0,0,0,0,0,5,12,18,15,12,12,15,3,0,,,
+UBC,2016,W,SOCI,200,,200,SOCI OF FAMILY,"Robinson, Oral",100,71.3,9.98,90,19,97,2,0,0,0,0,1,0,0,1,2,1,5,11,10,15,21,10,16,7,1,,,
+UBC,2016,W,SOCI,217,A,001,RESEARCH METHODS,"Robinson, Oral",93,71.75,9.39,88,37,88,1,4,0,0,0,0,0,1,0,1,2,5,4,19,7,16,11,18,6,0,,,
+UBC,2016,W,SOCI,217,A,005,RESEARCH METHODS,"Robinson, Oral",100,71.53,8.69,95,53,99,0,1,0,0,0,0,0,0,0,0,1,6,12,15,17,19,5,16,6,2,,,
+UBC,2016,W,SOCI,302,A,001,ETHNIC & RACIAL,"Robinson, Oral",70,72.99,10.38,94,50,70,0,0,0,0,0,0,0,0,0,0,4,5,4,8,11,7,9,11,7,4,,,
+UBC,2016,W,SOCI,302,A,004,ETHNIC & RACIAL,"Robinson, Oral",71,72.38,9.84,92,50,69,0,2,0,0,0,0,0,0,0,0,4,4,4,7,12,11,13,5,6,3,,,
+UBC,2017,S,SOCI,200,,921,SOCI OF FAMILY,"Robinson, Oral",80,75.26,11.57,92,28,71,2,4,0,0,0,0,1,1,0,2,2,1,2,2,12,14,8,15,13,2,,,
+UBC,2017,S,SOCI,217,,001,RESEARCH METHODS,"Robinson, Oral",40,71.95,14.91,92,0,36,1,3,0,0,1,0,0,0,0,1,0,1,5,3,7,2,7,7,2,2,,,
+UBC,2017,W,SOCI,200,,003,SOCI OF FAMILY,"Robinson, Oral",100,74.28,8.11,91,50,97,0,2,0,0,0,0,0,0,0,0,1,4,6,11,8,19,18,20,8,2,,,
+UBC,2017,W,SOCI,200,,200,SOCI OF FAMILY,"Robinson, Oral",100,71.48,8.77,93,53,98,0,2,0,0,0,0,0,0,0,0,4,6,10,12,10,23,13,15,4,1,,,
+UBC,2017,W,SOCI,217,A,001,RESEARCH METHODS,"Robinson, Oral",158,70.75,14.39,96,16,146,8,4,0,0,0,1,4,3,0,8,8,10,11,8,27,21,13,28,12,8,,,
+UBC,2017,W,SOCI,217,A,005,RESEARCH METHODS,"Robinson, Oral",100,73.6,13.48,95,2,96,2,2,0,0,1,1,0,0,0,2,1,7,7,8,9,11,18,17,14,4,,,
+UBC,2017,W,SOCI,301,A,001,DEVELOPMENT,"Robinson, Oral",68,76.61,7.56,90,58,66,0,1,1,0,0,0,0,0,0,0,0,1,4,3,8,8,14,17,8,3,,,
+UBC,2017,W,SOCI,302,A,202,ETHNIC & RACIAL,"Robinson, Oral",103,74.53,8.07,92,54,100,0,3,0,0,0,0,0,0,0,0,2,1,8,8,12,24,12,22,9,2,,,
+UBC,2018,S,SOCI,200,,801,SOCI OF FAMILY,"Robinson, Oral",93,74.69,9.37,91,50,86,0,3,0,0,0,0,0,0,0,0,3,5,2,6,12,16,9,19,11,3,,,
+UBC,2018,S,SOCI,217,,801,RESEARCH METHODS,"Robinson, Oral",65,73.89,14.84,95,1,61,3,1,0,0,1,0,1,1,0,3,0,3,2,0,14,9,5,17,8,3,,,
+UBC,2018,W,SOCI,200,,103,SOCI OF FAMILY,"Robinson, Oral",92,73.58,10.17,90,38,91,1,0,0,0,0,0,0,1,0,1,5,4,2,12,5,14,14,26,8,1,,,
+UBC,2018,W,SOCI,200,,202,SOCI OF FAMILY,"Robinson, Oral",93,75.12,10.97,90,14,91,1,1,0,0,0,1,0,0,0,1,3,1,4,8,11,16,4,31,10,3,,,
+UBC,2018,W,SOCI,217,,102,RESEARCH METHODS,"Robinson, Oral",91,73.24,12.83,91,14,85,2,2,0,2,0,2,0,0,0,2,3,3,3,12,9,13,11,15,15,1,,,
+UBC,2018,W,SOCI,217,,203,RESEARCH METHODS,"Robinson, Oral",109,70.17,14.06,94,0,103,3,2,0,1,1,2,0,0,0,3,4,6,8,16,21,9,7,21,8,3,,,
+UBC,2018,W,SOCI,301,,102,DEVELOPMENT,"Robinson, Oral",84,74.45,8.65,88,27,83,1,0,0,0,0,0,1,0,0,1,0,1,4,5,18,14,12,20,9,0,,,
+UBC,2018,W,SOCI,302,,201,ETHNIC & RACIAL,"Robinson, Oral",76,73.22,9.78,92,50,72,0,0,0,3,0,0,0,0,0,0,4,3,6,5,9,12,7,21,3,2,,,
+UBCV,2016,W,SOCI,200,,003,Sociology of Family,Oral Robinson;Simran Oberoi,95,70.25263158,9.19293024,87.0,22.0,,,,,,,,,,,1,0,5,13,18,16,12,12,15,3,0,,,
+UBCV,2016,W,SOCI,200,,200,Sociology of Family,Kendra Morphy;Oral Robinson,100,71.2,9.986860054,90.0,19.0,,,,,,,,,,,2,1,5,12,10,15,21,10,16,7,1,,,
+UBCV,2016,W,SOCI,217,A,001,Research Methods,Emily Cheung-Ismailzai;Emily Truong;Oral Robinson,89,71.75280899,9.390857376,88.0,37.0,,,,,,,,,,,1,2,5,4,19,7,16,11,18,6,0,,,
+UBCV,2016,W,SOCI,217,A,005,Research Methods,Oral Robinson;Roberta Hayes,99,71.52525253,8.688889732,95.0,53.0,,,,,,,,,,,0,1,6,12,15,17,19,5,16,6,2,,,
+UBCV,2016,W,SOCI,302,A,001,Ethnic and Racial Inequality,Letitia Chu;Oral Robinson,70,72.98571429,10.3776416,94.0,50.0,,,,,,,,,,,0,4,5,4,8,11,7,9,11,7,4,,,
+UBCV,2016,W,SOCI,302,A,004,Ethnic and Racial Inequality,Oral Robinson;Tanvi Sirari,69,72.37681159,9.843034936,92.0,50.0,,,,,,,,,,,0,4,4,4,7,12,11,13,5,6,3,,,
+UBCV,2017,S,SOCI,200,,921,Sociology of Family,Oral Robinson;Rafael Wainer;Ryan Charles Stillwagon;Ryan Stillwagon,76,75.210526316,11.337625606,92.0,28.0,,,,,,,,,,,2,2,1,2,2,12,17,8,15,13,2,,,
+UBCV,2017,S,SOCI,217,,001,Research Methods,Oral Robinson,37,71.945945946,14.908882412,92.0,0.0,,,,,,,,,,,1,0,1,5,3,7,2,7,7,2,2,,,
+UBCV,2017,W,SOCI,200,,003,Sociology of Family,Aujla Lovneet;Oral Robinson,98,74.275510204,8.067729547,91.0,50.0,,,,,,,,,,,0,1,4,6,11,8,20,18,20,8,2,,,
+UBCV,2017,W,SOCI,200,,200,Sociology of Family,Oral Robinson;Peter Pawlak,98,71.479591837,8.77347172,93.0,53.0,,,,,,,,,,,0,4,6,10,12,10,23,13,15,4,1,,,
+UBCV,2017,W,SOCI,217,A,001,Research Methods,Francois Lachapelle;Oral Robinson,154,70.753246753,14.387409023,96.0,16.0,,,,,,,,,,,8,8,10,11,8,27,21,13,28,12,8,,,
+UBCV,2017,W,SOCI,217,A,005,Research Methods,Francois Lachapelle;Oral Robinson,98,73.602040816,13.483659294,95.0,2.0,,,,,,,,,,,2,1,7,7,8,9,11,18,17,14,4,,,
+UBCV,2017,W,SOCI,301,A,001,Sociology of Development and Underdevelopment,Amanda Low;Oral Robinson,66,76.606060606,7.558752009,90.0,58.0,,,,,,,,,,,0,0,1,4,3,8,8,14,17,8,3,,,
+UBCV,2017,W,SOCI,302,A,202,Ethnic and Racial Inequality,Biao Zheng;Oral Robinson,100,74.53,8.069715177,92.0,54.0,,,,,,,,,,,0,2,1,8,8,12,24,12,22,9,2,,,
+UBCV,2018,S,SOCI,200,,801,Sociology of Family,Oral Robinson;Ryan Charles Stillwagon;Ryan Stillwagon,90,74.455555556,9.529565008,91.0,50.0,,,,,,,,,,,0,4,5,2,6,13,17,9,20,11,3,,,
+UBCV,2018,S,SOCI,217,,801,Research Methods,Jean Chretien;Oral Robinson,64,73.890625,14.844289359,95.0,1.0,,,,,,,,,,,3,0,3,2,0,14,9,5,17,8,3,,,
+UBCV,2018,W,SOCI,200,,103,Sociology of Family,Oral Robinson;Zhonghao Wang,92,73.576086957,10.169155795,90.0,38.0,,,,,,,,,,,1,5,4,2,12,5,14,14,26,8,1,,,
+UBCV,2018,W,SOCI,200,,202,Sociology of Family,Amy Hanser;Oral Robinson;Zhonghao Wang,92,75.119565217,10.973336707,90.0,14.0,,,,,,,,,,,1,3,1,4,8,11,16,4,31,10,3,,,
+UBCV,2018,W,SOCI,217,,102,Research Methods,Oral Robinson;Teala Volkamer,89,73.314606742,12.699852814,91.0,14.0,,,,,,,,,,,2,3,3,3,12,9,14,11,16,15,1,,,
+UBCV,2018,W,SOCI,217,,203,Research Methods,Guy Stecklov;Maximilian Chewinski;Oral Robinson,107,70.065420561,14.035851016,94.0,0.0,,,,,,,,,,,3,4,7,8,16,21,9,7,21,8,3,,,
+UBCV,2018,W,SOCI,301,,102,Sociology of Development and Underdevelopment,Majeed Malhas;Oral Robinson,84,74.452380952,8.648984566,88.0,27.0,,,,,,,,,,,1,0,1,4,5,18,14,12,20,9,0,,,
+UBCV,2018,W,SOCI,302,,201,Ethnic and Racial Inequality,Maria Angelica Laron;Oral Robinson,76,73.342105263,9.865161099,92.0,50.0,,,,,,,,,,,0,4,4,6,5,9,12,8,22,4,2,,,
+UBCV,2019,S,SOCI,200,,801,Sociology of Family,Oral Robinson;Ryan Charles Stillwagon;Ryan Stillwagon,78,75.269230769,9.006019743,96.0,53.0,,,,,,,,,,,0,2,2,1,13,7,16,9,16,9,3,,,
+UBCV,2019,S,SOCI,217,,801,Research Methods,Elic Chan;Masoud Movahed;Oral Robinson,48,73.458333333,10.805747748,88.0,23.0,,,,,,,,,,,1,0,2,0,7,9,5,7,9,8,0,,,
+UBCV,2019,S,SOCI,301,,801,Sociology of Development and Underdevelopment,Lily Ivanova;Oral Robinson,80,76.175,11.535059382,90.0,0.0,,,,,,,,,,,1,0,1,4,5,8,10,14,22,12,3,,,
+UBCV,2019,W,SOCI,102,,102,Inequality and Social Change,Dawn Heather Currie;Nicole Malette;Oral Robinson;Patara Mckeen,41,72.951219512,16.004610616,95.0,0.0,,,,,,,,,,,2,0,1,2,2,5,10,8,4,4,3,,,
+UBCV,2019,W,SOCI,200,,103,Sociology of Family,Oral Robinson;Xingshu Liu,112,74.0625,9.04072991,94.0,50.0,,,,,,,,,,,0,3,7,3,7,17,25,15,21,9,5,,,
+UBCV,2019,W,SOCI,200,,204,Sociology of Family,Merve Umay Kader;Oral Robinson,98,78.744897959,7.334864105,93.0,55.0,,,,,,,,,,,0,0,1,1,3,10,18,22,22,11,10,,,
+UBCV,2019,W,SOCI,217,,102,Research Methods,Ana Vivaldi Pasqua;Francois Lachapelle;Oral Robinson,86,71.720930233,11.845725129,92.0,38.0,,,,,,,,,,,2,5,7,6,10,8,9,8,20,9,2,,,
+UBCV,2019,W,SOCI,301,,102,Sociology of Development and Underdevelopment,Oral Robinson;Wei Jie Chow,75,74.106666667,8.870804426,91.0,53.0,,,,,,,,,,,0,1,5,5,4,13,12,8,21,4,2,,,
+UBCV,2019,W,SOCI,301,,201,Sociology of Development and Underdevelopment,Hannah Exley;Oral Robinson,56,77.0,7.795103358,89.0,53.0,,,,,,,,,,,0,1,1,1,2,9,9,7,14,12,0,,,
+UBCV,2019,W,SOCI,302,,203,Ethnic and Racial Inequality,Oral Robinson;Pengcheng Fang,74,76.162162162,9.281041255,91.0,53.0,,,,,,,,,,,0,1,3,5,3,9,10,11,18,8,6,,,
+UBCV,2020,S,SOCI,200,,801,Sociology of Family,Oral Robinson;Xingshu Liu,137,80.591240876,8.638622869,97.0,39.0,,,,,,,,,,,1,0,2,3,2,9,15,17,40,33,15,,,
+UBCV,2020,S,SOCI,380,,801,Sociological Methods: Survey Research,Oral Robinson;Ryan Stillwagon,74,77.027027027,10.628177814,94.0,22.0,,,,,,,,,,,1,0,1,4,5,4,14,12,15,12,6,,,
+UBCV,2020,W,SOCI,200,,101,Sociology of Family,Oral Robinson;Xingshu Liu,98,76.06122449,9.176186489,92.0,50.0,,,,,,,,,,,0,3,4,4,5,10,12,17,26,14,3,,,
+UBCV,2020,W,SOCI,200,,204,Sociology of Family,Oral Robinson;Ryan Stillwagon;Yue Qian,94,78.787234043,9.831781187,97.0,50.0,,,,,,,,,,,0,2,2,5,2,7,12,14,23,17,10,,,
+UBCV,2020,W,SOCI,301,,201,Sociology of Development and Underdevelopment,Oral Robinson;Yuying Guan,70,77.957142857,11.397222792,93.0,34.0,,,,,,,,,,,3,0,0,2,3,6,9,11,12,17,7,,,
+UBCV,2020,W,SOCI,302,,103,Ethnic and Racial Inequality,Caroline Sanner;Jennifer Vincent;Oral Robinson,73,76.876712329,10.935346874,90.0,14.0,,,,,,,,,,,1,1,1,3,3,6,10,12,22,12,2,,,
+UBCV,2020,W,SOCI,302,,203,Ethnic and Racial Inequality,Amira Halperin;Colter Uscola;Oral Robinson;Yue Qian,63,76.031746032,9.904329868,93.0,30.0,,,,,,,,,,,2,0,1,1,1,9,16,7,17,6,3,,,
+UBCV,2020,W,SOCI,361,,203,Social Inequality,Brett Matsushita;Carrie Yodanis;Charlotte Hirsh;Oral Robinson,42,76.595238095,14.59378338,91.0,0.0,,,,,,,,,,,1,0,1,2,0,3,6,6,13,7,3,,,
+UBCV,2020,W,SOCI,369,,102,Sociology of Sexualities,Becky Ross;Oral Robinson;Ryan Stillwagon,63,78.365079365,9.03452444,95.0,54.0,,,,,,,,,,,0,1,1,1,6,5,9,4,19,11,6,,,
+UBCV,2020,W,SOCI,449,,301,Honours Tutorial,Oral Robinson;Prabhsharanbir Singh,9,90.222222222,3.492054473,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,4,,,
+UBCV,2021,S,SOCI,200,,901,Sociology of Family,Nathan Willins;Oral Robinson;Xingshu Liu,129,74.085271318,13.12739919,91.0,0.0,,,,,,,,,,,3,2,3,7,16,11,15,26,30,10,6,,,
+UBCV,2021,S,SOCI,380,,902,Sociological Methods: Survey Research,Oral Robinson;Yijia Zhang,72,73.916666667,10.022158549,92.0,50.0,,,,,,,,,,,0,4,3,5,6,7,13,6,22,3,3,,,
+UBCV,2021,W,SOCI,200,,103,Sociology of Family,Alyssa Alexander;Anna-Rae Alaton;Oral Robinson;Veronica Hernandez-Depaoli,146,89.438356164,4.227940891,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,12,46,83,,,
+UBCV,2021,W,SOCI,200,,104,Sociology of Family,Merve Umay Kader;Oral Robinson;Xiaomei Zhang,147,75.496598639,8.311053994,91.0,44.0,,,,,,,,,,,2,0,1,6,17,24,23,24,32,12,6,,,
+UBCV,2021,W,SOCI,301,,102,Sociology of Development and Underdevelopment,Alexander Wilson;Oral Robinson,71,77.098591549,12.946212827,97.0,13.0,,,,,,,,,,,1,0,5,3,5,6,6,10,15,9,11,,,
+UBCV,2021,W,SOCI,301,,104,Sociology of Development and Underdevelopment,Oral Robinson;Xingshu Liu,86,75.058139535,11.27971073,93.0,26.0,,,,,,,,,,,3,1,2,5,5,8,11,16,22,9,4,,,
+UBCV,2021,W,SOCI,310,,101,Canadian Society,Oral Robinson;Rima Wilkes;Ryan Stillwagon,86,72.058139535,16.352984726,96.0,4.0,,,,,,,,,,,5,1,4,5,4,13,14,12,13,8,7,,,
+UBCV,2021,W,SOCI,449,,301,Honours Tutorial,Alexander Wilson;Kerry Greer;Oral Robinson,12,85.166666667,26.984282743,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,2,9,,,
+UBCV,2021,S,SOCI,200,,901,Sociology of Family,Oral Robinson,129,74.1,,91.0,0.0,,,,,,,,,,,,,,7,16,11,15,26,30,10,6,77.0,82.0,69.0
+UBCV,2021,S,SOCI,380,,902,Sociological Methods: Survey Research,Oral Robinson,72,73.9,,92.0,50.0,,,,,,,,,,,,,,,6,7,13,6,22,,,75.0,81.0,67.8
+UBCV,2021,W,SOCI,200,,104,Sociology of Family,Oral Robinson,147,75.5,,91.0,44.0,,,,,,,,,,,,,,6,17,24,23,24,32,12,6,76.0,82.0,70.0
+UBCV,2021,W,SOCI,301,,102,Sociology of Development and Underdevelopment,Oral Robinson,71,77.1,,97.0,13.0,,,,,,,,,,,,,,,,6,6,10,15,9,11,79.0,86.0,71.0
+UBCV,2021,W,SOCI,301,,104,Sociology of Development and Underdevelopment,Oral Robinson,86,75.1,,93.0,26.0,,,,,,,,,,,,,,,,8,11,16,22,9,,77.0,82.0,70.0
+UBCV,2021,W,SOCI,449,,301,Honours Tutorial,Kerry Greer;Oral Robinson,12,85.2,,97.0,0.0,,,,,,,,,,,,,,,,,,,,,9,93.5,95.0,89.8
+UBCV,2022,S,SOCI,200,,901,Sociology of Family,Oral Robinson,80,76.1,,87.0,53.0,,,,,,,,,,,0,2,1,2,3,12,10,14,32,4,0,77.5,81.3,71.8
+UBCV,2022,S,SOCI,301,,902,Sociology of Development and Underdevelopment,Oral Robinson,76,73.0,,92.0,40.0,,,,,,,,,,,3,2,4,5,5,7,15,7,20,6,2,74.5,80.0,67.5
+UBCV,2022,S,SOCI,302,,801,Ethnic and Racial Inequality,Oral Robinson,74,80.9,,95.0,53.0,,,,,,,,,,,0,1,2,2,1,7,4,7,14,28,8,83.5,87.0,77.0
+UBCV,2022,S,SOCI,380,,801,Sociological Methods: Survey Research,Oral Robinson,55,73.7,,92.0,39.0,,,,,,,,,,,3,2,1,3,4,4,9,6,14,7,2,76.0,81.5,69.0
+UBCV,2022,W,SOCI,200,,103,Sociology of Family,Oral Robinson,159,79.9,,90.0,58.0,,,,,,,,,,,0,0,1,2,2,5,20,33,71,24,1,81.0,83.5,77.0
+UBCV,2022,W,SOCI,200,,201,Sociology of Family,Oral Robinson,94,77.3,,90.0,53.0,,,,,,,,,,,0,1,3,4,3,7,19,16,23,14,4,78.0,84.0,73.0
+UBCV,2022,W,SOCI,301,,101,Sociology of Development and Underdevelopment,Oral Robinson,90,76.9,,91.0,46.0,,,,,,,,,,,1,1,2,2,7,5,10,24,23,13,2,78.0,82.0,73.3
+UBCV,2022,W,SOCI,302,,104,Ethnic and Racial Inequality,Oral Robinson,97,77.7,,96.0,51.0,,,,,,,,,,,0,3,2,4,3,11,16,13,20,16,9,78.0,85.0,72.0
+UBCV,2022,W,SOCI,380,,203,Sociological Methods: Survey Research,Oral Robinson,85,73.5,,93.0,51.0,,,,,,,,,,,0,1,5,6,9,10,19,14,11,4,6,74.0,78.0,68.0
+UBCV,2022,W,SOCI,449,,302,Honours Tutorial,Oral Robinson,9,83.7,,100.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,1,7,94.0,98.0,90.0
+UBCV,2023,S,SOCI,200,,901,Sociology of Family,Oral Robinson,82,78.8,,93.0,55.0,,,,,,,,,,,0,0,2,0,6,10,8,9,26,11,8,80.5,84.0,73.75
+UBCV,2023,S,SOCI,301,,901,Sociology of Development and Underdevelopment,Oral Robinson,66,76.11,,90.0,54.0,,,,,,,,,,,0,1,2,1,7,8,7,9,18,9,1,78.0,82.0,71.0
+UBCV,2023,W,SOCI,200,,103,Sociology of Family,Oral Robinson,159,74.7,,93.0,52.0,,,,,,,,,,,0,2,4,10,10,18,31,37,32,12,1,76.0,80.0,71.0
+UBCV,2023,W,SOCI,200,,201,Sociology of Family,Oral Robinson,147,72.8,,91.0,2.0,,,,,,,,,,,5,3,3,4,21,15,23,27,30,12,3,75.0,80.0,68.0
+UBCV,2023,W,SOCI,301,,101,Sociology of Development and Underdevelopment,Oral Robinson,68,75.9,,93.0,54.0,,,,,,,,,,,0,1,0,3,5,8,11,19,10,7,2,76.5,80.0,71.3
+UBCV,2023,W,SOCI,301,,201,Sociology of Development and Underdevelopment,Oral Robinson,83,78.5,,93.0,65.0,,,,,,,,,,,0,0,0,0,4,8,19,14,21,11,6,78.0,83.0,73.0
+UBCV,2023,W,SOCI,302,,104,Ethnic and Racial Inequality,Oral Robinson,98,75.5,,92.0,53.0,,,,,,,,,,,0,1,2,5,9,16,13,12,27,10,3,76.0,82.0,70.0
+UBCV,2023,W,SOCI,449,,301,Honours Tutorial,Oral Robinson,13,90.7,,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,2,8,90.0,95.0,89.5

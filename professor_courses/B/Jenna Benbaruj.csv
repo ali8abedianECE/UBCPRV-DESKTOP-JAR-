@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,KIN,110,,L1A,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ndisi Ogalo Ouma;Emmanuel Ouma;Hannah Goodings;Jean-Sebastien Blouin;Jenna Benbaruj;John Kramer;Viviana Shiffman,39,90.128205128,12.38245679,100.0,31.0,1,0,0,0,0,1,1,0,5,3,28,,,
+UBCV,2020,W,KIN,110,,L1B,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Liv Yoon;Viviana Shiffman,32,91.6875,5.80009733,100.0,81.0,0,0,0,0,0,0,0,0,5,5,22,,,
+UBCV,2020,W,KIN,110,,L1C,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Paolo B Dominelli;Viviana Shiffman,36,94.166666667,5.925730817,99.0,73.0,0,0,0,0,0,0,1,1,1,0,33,,,
+UBCV,2020,W,KIN,110,,L1D,Human Anatomy,Andrew Perrotta;Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Viviana Shiffman,29,91.310344828,9.219945182,100.0,61.0,0,0,0,1,0,0,0,3,2,2,21,,,
+UBCV,2020,W,KIN,110,,L1E,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Romeo Chua;Viviana Shiffman,35,92.771428571,6.462951949,100.0,71.0,0,0,0,0,0,1,0,1,1,4,28,,,
+UBCV,2020,W,KIN,110,,L1F,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Mark Beauchamp;Viviana Shiffman,38,95.105263158,4.228535455,100.0,83.0,0,0,0,0,0,0,0,0,1,2,35,,,
+UBCV,2021,W,KIN,110,,901,Human Anatomy,Gillian Corbo;J Timothy Inglis;Jenna Benbaruj;Shaunna Taylor,54,61.148148148,14.003244109,88.0,32.0,12,7,4,1,9,9,3,6,2,1,0,,,
+UBCV,2022,W,KIN,131,,L2A,Systems Physiology I,Jenna Benbaruj,17,86.9,,99.0,70.0,0,0,0,0,0,3,1,0,1,2,10,91.0,93.0,84.0
+UBCV,2022,W,KIN,131,,L2B,Systems Physiology I,Jenna Benbaruj,24,81.7,,97.0,17.0,1,0,1,1,0,3,0,1,0,7,10,87.0,92.3,75.5
+UBCV,2022,W,KIN,131,,L2C,Systems Physiology I,Jenna Benbaruj,30,84.6,,98.0,55.0,0,0,1,0,2,2,2,0,7,2,14,88.5,93.8,80.0
+UBCV,2022,W,KIN,131,,L2D,Systems Physiology I,Jenna Benbaruj,30,83.8,,96.0,41.0,1,0,2,0,1,0,1,2,4,5,14,88.5,92.0,80.3
+UBCV,2023,S,KIN,131,,921,Systems Physiology I,Jenna Benbaruj,18,85.12,,95.0,63.0,0,0,0,1,1,0,0,0,3,8,4,87.0,89.0,84.0

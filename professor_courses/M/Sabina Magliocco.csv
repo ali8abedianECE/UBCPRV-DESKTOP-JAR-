@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,ANTH,332,,101,ORAL TRADITION,"Magliocco, Sabina",41,84.75,8.99,97,60,40,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,4,1,4,14,13,,,
+UBC,2017,W,ANTH,378,,002,ANTH OF MEDIA,"Magliocco, Sabina",82,78.57,8.88,93,53,77,0,1,0,0,0,0,0,0,0,0,1,2,2,4,8,9,14,12,16,9,,,
+UBC,2017,W,ANTH,415,A,003,RELIGION&SOCIETY,"Magliocco, Sabina",27,75.28,16.07,95,23,24,1,1,1,0,0,0,1,0,0,1,1,2,1,0,2,3,5,0,6,4,,,
+UBC,2018,W,ANTH,206,,001,WITC VAMP ZOMB,"Magliocco, Sabina",122,78.88,8.42,95,49,116,1,2,2,0,0,0,0,0,1,1,0,0,3,6,12,21,19,24,17,14,,,
+UBC,2018,W,ANTH,303,C,002,ETHNO SPEC AREAS,"Magliocco, Sabina",48,85.7,5.83,97,72,46,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,5,13,13,13,,,
+UBC,2018,W,ANTH,332,,101,ORAL TRADITION,"Magliocco, Sabina",46,84.02,10.51,95,53,44,0,0,0,1,0,0,0,0,0,0,1,1,0,1,5,1,1,8,9,17,,,
+UBC,2018,W,ANTH,407,,001,PRNCPLS FLD WORK,"Magliocco, Sabina",33,80.38,12.63,95,30,31,1,0,0,0,0,0,0,1,0,1,0,1,0,0,2,6,1,7,6,8,,,
+UBCV,2017,W,ANTH,332,,101,Oral Tradition,Nicholas Waber;Sabina Magliocco,40,84.75,8.986457047,97.0,60.0,,,,,,,,,,,0,0,0,2,0,2,4,1,4,14,13,,,
+UBCV,2017,W,ANTH,378,,002,Anthropology of Media,Emily Leischner;Sabina Magliocco,81,78.172839506,8.938386492,93.0,53.0,,,,,,,,,,,0,1,2,3,4,9,10,15,12,16,9,,,
+UBCV,2017,W,ANTH,415,A,003,Religion and Society,John Barker;Sabina Magliocco,25,75.28,16.074099249,95.0,23.0,,,,,,,,,,,1,1,2,1,0,2,3,5,0,6,4,,,
+UBCV,2018,W,ANTH,206,,001,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Francesca Pegorer;Sabina Magliocco,118,79.008474576,8.499870047,95.0,49.0,,,,,,,,,,,1,0,0,3,6,12,21,19,24,17,15,,,
+UBCV,2018,W,ANTH,303,C,002,Ethnography of Special Areas,Sabina Magliocco,48,85.270833333,6.373948251,97.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,5,13,14,13,,,
+UBCV,2018,W,ANTH,332,,101,Oral Tradition,Sabina Magliocco,46,82.782608696,12.00354215,95.0,46.0,,,,,,,,,,,1,1,1,0,2,5,1,1,8,9,17,,,
+UBCV,2018,W,ANTH,378,,002,Anthropology of Media,Christopher Smith;David C Ryniker;David Ryniker;Sabina Magliocco,41,74.682926829,9.487989841,88.0,55.0,,,,,,,,,,,0,0,3,1,8,4,2,5,13,5,0,,,
+UBCV,2018,W,ANTH,407,,001,Principles of Field Work,Sabina Magliocco,33,80.090909091,12.540842367,95.0,30.0,,,,,,,,,,,1,0,1,0,0,3,6,1,7,6,8,,,
+UBCV,2019,S,ANTH,403,G,001,Ethnography of Special Areas,Francesca Pegorer;Sabina Magliocco,13,90.846153846,4.669870695,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,9,,,
+UBCV,2019,W,ANTH,206,,001,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Byron Clark;Francesca Pegorer;Sabina Magliocco,148,81.837837838,10.389721539,98.0,24.0,,,,,,,,,,,2,0,2,3,6,7,8,22,27,37,34,,,
+UBCV,2019,W,ANTH,332,,101,Oral Tradition,Bruce Miller;Sabina Magliocco,28,73.571428571,22.776577591,95.0,0.0,,,,,,,,,,,2,1,0,1,1,3,1,3,9,4,3,,,
+UBCV,2020,W,ANTH,202,A,001,Contemporary Social Problems,Byron Clark;Cailin O'Hern;Natasha Osing;Rafael Wainer;Sabina Magliocco,95,83.073684211,10.25031614,98.0,31.0,,,,,,,,,,,1,0,0,2,6,3,2,14,24,14,29,,,
+UBCV,2020,W,ANTH,206,,001,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Brianna Plant;Byron Clark;Fraser Germann;Sabina Magliocco,145,84.655172414,11.771186166,99.0,0.0,,,,,,,,,,,3,0,1,1,3,3,9,13,16,41,55,,,
+UBCV,2020,W,RGST,200,,001,Introduction to the Study of Religion,Sabina Magliocco,39,85.58974359,7.728000861,97.0,63.0,,,,,,,,,,,0,0,0,1,0,0,3,4,7,13,11,,,
+UBCV,2021,W,ANTH,202,A,001,Contemporary Social Problems,Cheyanne Connell;Elias Alexander;Meghna Vijai;Sabina Magliocco,143,79.468531469,14.08715537,98.0,0.0,,,,,,,,,,,8,4,2,2,1,5,10,20,30,34,27,,,
+UBCV,2021,W,ANTH,206,,002,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Alisha Wilkinson;Erin Socholotiuk;Sabina Magliocco;Sadie Dean Rittman,146,80.04109589,14.955048375,98.0,0.0,,,,,,,,,,,5,0,2,4,5,7,10,21,26,36,30,,,
+UBCV,2021,W,RGST,200,,001,Introduction to the Study of Religion,Cheyanne Connell;Elias Alexander;Meghna Vijai;Sabina Magliocco,48,78.625,12.680400356,94.0,39.0,,,,,,,,,,,3,0,1,1,0,3,5,7,10,12,6,,,
+UBCV,2021,W,ANTH,202,A,001,Contemporary Social Problems,Sabina Magliocco,143,79.6,,98.0,0.0,,,,,,,,,,,8,,,,,,10,21,30,34,27,83.0,88.0,76.5
+UBCV,2021,W,ANTH,206,,002,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Sabina Magliocco,145,81.0,,98.0,0.0,,,,,,,,,,,,,,,,7,10,21,25,37,32,84.0,89.0,77.0
+UBCV,2021,W,RGST,200,,001,Introduction to the Study of Religion,Sabina Magliocco,48,78.6,,94.0,39.0,,,,,,,,,,,,,,,,,,7,10,12,6,82.0,86.3,75.0
+UBCV,2022,W,ANTH,206,,002,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Sabina Magliocco,144,77.6,,95.0,13.0,,,,,,,,,,,4,1,1,6,9,9,17,29,26,23,19,79.0,86.0,74.0
+UBCV,2022,W,RGST,400,,001,Advanced Seminar in the Study of Religion,Sabina Magliocco,9,72.3,,96.0,44.0,,,,,,,,,,,1,0,1,1,0,2,1,0,0,1,2,70.0,89.0,60.0
+UBCV,2023,S,ANTH,403,G,921,Ethnography of Special Areas,Sabina Magliocco,11,88.73,,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,5,89.0,90.5,87.0
+UBCV,2023,W,ANTH,206,,002,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Sabina Magliocco,142,74.1,,93.0,3.0,,,,,,,,,,,12,2,5,2,4,8,21,19,37,19,10,79.0,84.0,72.0
+UBCV,2023,W,RGST,200,,101,Introduction to the Study of Religion,Sabina Magliocco,100,81.41,,96.0,40.0,,,,,,,,,,,2,0,1,1,4,9,8,11,13,26,24,85.0,89.0,75.5

@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,501,,201,QUANTUM MECH II,"Affleck, Ian Keith",31,80.73,8.85,99,66,30,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,3,2,9,5,5
+UBC,2005,W,PHYS,501,,201,QUANTUM MECH II,"Affleck, Ian Keith",25,80.36,11.05,98,58,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,3,5,3,1,7
+UBC,2006,W,PHYS,502,,201,COND MATTER I,"Affleck, Ian Keith",9,80.38,4.21,87,75,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,1,0
+UBC,2007,W,PHYS,502,,201,COND MATTER I,"Affleck, Ian Keith",14,71.33,24.46,98,4,11,1,2,0,0,1,0,0,0,0,1,0,0,2,1,2,0,1,1,1,3
+UBC,2009,S,NURS,430,A,941,FOCUS NURS PRAC,"Affleck, Frances;Cunningham, Margaret Mui Yeah;Foster, Paula;Leung, Linda;McBurney, Sheila Mary",59,81.39,6.64,96,63,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8,12,14,16,5
+UBC,2009,S,NURS,460,,941,CONSLD PRCT EXP,"Affleck, Frances;Bassingthwaighte, Carol;Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Jetha, Farah;Lawton, Jennifer;Tan, Elsie;Valkenier, Beverley",56,,,,,0,0,1,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHYS,503,,201,COND MATTER II,"Affleck, Ian Keith",15,90.42,6.69,98,74,12,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,7
+UBC,2010,S,NURS,411,A,941,EXPL AVE NURS PR,"Affleck, Frances;Esson, Lynne;Marshall, Helga;Oliffe, John",19,89.11,4.33,95,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,8
+UBC,2010,W,NURS,420,,002,ADLT ACUTE CONDN,"Affleck, Frances;Oliffe, John",38,81.37,4.19,89,72,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,15,11,0
+UBC,2010,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Ebbehoj, Catherine;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Tan, Elsie;Valkenier, Beverley",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith;Bonn, Douglas Andrew",90,78.95,10.04,99,50,88,0,2,0,0,0,0,0,0,0,0,1,4,3,4,4,15,7,22,18,10
+UBC,2011,W,NURS,337,,256,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",39,79.31,4.31,88,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,15,14,4,0
+UBC,2011,W,NURS,420,,003,ADLT ACUTE CONDN,"Affleck, Frances;Jackson, Cathryn;Marshall, Helga;Oliffe, John;Valkenier, Beverley",53,80.79,5.29,92,65,53,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,14,21,9,3
+UBC,2011,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Rodney, Patricia;Valkenier, Beverley",115,,,,,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith;Bonn, Douglas Andrew",81,79.89,11.72,99,45,78,1,2,0,0,0,0,0,0,1,1,3,1,2,4,8,7,7,11,17,18
+UBC,2011,W,PHYS,503,,201,COND MATTER II,"Affleck, Ian Keith",13,92.58,3.8,97,85,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+UBC,2012,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",40,82.05,5.07,91,71,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,16,11,2
+UBC,2012,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Marshall, Helga;Ricci, Joanne;Valkenier, Beverley",114,,,,,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith;Bonn, Douglas Andrew",89,79.76,10.47,100,40,86,1,2,0,0,0,0,0,0,1,1,1,1,1,5,10,6,15,20,11,16
+UBC,2012,W,PHYS,501,,201,QUANTUM MECH II,"Affleck, Ian Keith",10,83.22,5.95,90,71,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1
+UBC,2013,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,85.4,3.56,93,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,10,2
+UBC,2013,S,NURS,337,,942,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,81.65,4.57,89,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,6,0
+UBC,2013,W,NURS,337,,434,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,80.87,6.34,92,57,38,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,5,17,7,2
+UBC,2013,W,NURS,420,,002,ADLT ACUTE CONDN,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mislang, Jonathan;Oliffe, John;Rea, Gail;Valkenier, Beverley",48,81.88,10.84,95,19,47,1,0,0,0,0,1,0,0,0,1,0,0,0,0,2,2,7,16,13,7
+UBC,2013,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith;Bonn, Douglas Andrew",100,79.66,10.28,99,39,92,1,4,0,3,0,0,0,1,0,1,2,0,0,6,9,9,17,20,13,16
+UBC,2013,W,PHYS,501,,201,QUANTUM MECH II,"Affleck, Ian Keith",15,80.43,12.37,98,61,14,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,1,2,3,0,4
+UBC,2014,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",40,84.13,4.5,92,76,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,14,4
+UBC,2014,W,NURS,302,,001,FNDTN NURS PRACT,"Affleck, Frances;Boschma, Geertje;Brown, Helen Jean;Foster, Paula;Jackson, Cathryn;McBurney, Sheila Mary;Rea, Gail;Thorne, Sally",120,87.02,5.45,95,47,118,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,6,19,56,37
+UBC,2014,W,NURS,303,,001,ADULTS & FAMLIES,"Affleck, Frances;Foster, Paula;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Rea, Gail;Segaric, Cheryl",121,85.43,5.06,94,50,120,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,7,35,59,17
+UBC,2014,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith;Bonn, Douglas Andrew",105,79.84,10.25,96,44,98,1,6,0,0,0,0,0,0,1,1,0,5,1,4,5,16,14,16,20,17
+UBC,2014,W,PHYS,501,,201,QUANTUM MECH II,"Affleck, Ian Keith",12,79.09,13.51,97,45,10,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,3,2,2
+UBC,2016,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith",99,79.06,11.73,98,0,97,2,0,0,0,1,0,0,1,0,2,0,0,0,3,10,10,19,29,16,10
+UBC,2016,W,PHYS,474,,201,SOLID STATE PHYS,"Affleck, Ian Keith",35,77.18,13.72,98,43,32,1,2,0,0,0,0,0,0,1,1,0,2,5,0,3,1,5,5,4,7
+UBC,2017,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith",93,79.36,9.98,95,42,86,1,5,0,0,0,0,0,0,1,1,2,1,2,4,4,11,14,18,18,12
+UBC,2017,W,PHYS,474,,201,SOLID STATE PHYS,"Affleck, Ian Keith",31,80.16,14.17,100,51,31,0,0,0,0,0,0,0,0,0,0,1,3,0,3,2,3,3,2,3,11
+UBC,2018,W,PHYS,107,,101,ENRICH PHYSICS 1,"Affleck, Ian Keith",97,79.7,9.92,100,52,94,0,1,0,2,0,0,0,0,0,0,2,4,0,4,6,13,20,12,17,16
+UBC,2018,W,PHYS,474,,201,SOLID STATE PHYS,"Affleck, Ian Keith",23,76.9,16,91,15,20,1,2,0,0,0,1,0,0,0,1,0,0,0,2,2,1,2,7,5,1

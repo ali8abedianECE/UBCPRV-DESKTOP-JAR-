@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,ASIA,254,,001,JPN SEX&GEND FLM,"Yoshimizu, Ayaka",64,71.25,9.97,95,36,62,1,0,1,0,0,0,0,1,0,1,2,3,6,7,13,9,10,6,4,2,,,
+UBC,2017,W,ASIA,354,,001,INTR JAPN CINEMA,"Yoshimizu, Ayaka",78,76.69,10.99,95,41,73,1,0,0,0,0,0,0,0,1,1,2,4,3,3,4,11,12,16,10,8,,,
+UBC,2018,W,ASIA,254,,001,JPN SEX&GEND FLM,"Yoshimizu, Ayaka",81,75.63,9.3,95,46,79,1,0,1,0,0,0,0,0,1,1,1,3,3,4,11,15,12,14,12,4,,,
+UBC,2018,W,ASIA,354,,002,INTR JAPN CINEMA,"Yoshimizu, Ayaka",62,74.89,13.5,97,12,56,1,0,0,1,0,1,0,0,0,1,1,1,2,12,4,8,5,10,7,6,,,
+UBC,2018,W,ASTU,201,,001,"CAN,JAPN&PC CULT","Yoshimizu, Ayaka",82,76.16,7.15,92,53,81,0,1,0,0,0,0,0,0,0,0,1,0,3,2,11,22,16,15,8,3,,,
+UBCV,2017,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ayaka Yoshimizu;Daniel Pieper;Jee-Yeon Song;Stefania Burk,63,71.253968254,9.967638368,95.0,36.0,,,,,,,,,,,1,2,3,6,7,13,9,10,6,4,2,,,
+UBCV,2017,W,ASIA,354,,001,Introduction to Japanese Cinema,Ayaka Yoshimizu;Kaiqi Hua;Robyn Citizen;Saeko Suzuki;Shota Iwasaki,78,76.833333333,10.84652876,95.0,41.0,,,,,,,,,,,1,2,4,3,3,5,11,13,17,11,8,,,
+UBCV,2018,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Atsumi Nakao;Ayaka Yoshimizu;Shota Iwasaki,80,75.625,9.298666027,95.0,46.0,,,,,,,,,,,1,1,3,3,4,11,15,12,14,12,4,,,
+UBCV,2018,W,ASIA,354,,001,Introduction to Japanese Cinema,Ayaka Yoshimizu;Clayton Ashton;Zilin Alice Zhou;Zilin Zhou,62,77.677419355,7.881861712,90.0,55.0,,,,,,,,,,,0,0,3,1,5,3,6,10,24,8,2,,,
+UBCV,2018,W,ASIA,354,,002,Introduction to Japanese Cinema,Ayaka Yoshimizu;Saeko Suzuki,62,75.14516129,13.050779481,97.0,12.0,,,,,,,,,,,1,1,1,2,12,4,10,7,10,8,6,,,
+UBCV,2018,W,ASTU,201,,001,"Canada, Japan and the Pacific: Cultural Studies",Anne Canute;Anne N Canute;Ayaka Yoshimizu;Darrin Lehman;Kevin Chou;Lilian Higashikata;Rosaley Gai;Sayuri Higashikata;Sayuri Lilian Higashikata;Shahid Abrar-Ul-Hassan;Teodora Moraru;Zhuo Sun,81,76.160493827,7.150973343,92.0,53.0,,,,,,,,,,,0,1,0,3,2,11,22,16,15,8,3,,,
+UBCV,2019,S,ASIA,354,,921,Introduction to Japanese Cinema,Atsumi Nakao;Ayaka Yoshimizu;Nicholas Hall;Shota Iwasaki,75,71.586666667,13.202265708,96.0,16.0,,,,,,,,,,,4,4,1,4,10,9,12,8,13,7,3,,,
+UBCV,2019,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Atsumi Nakao;Ayaka Yoshimizu,61,70.93442623,14.99985428,95.0,23.0,,,,,,,,,,,5,1,3,3,4,9,8,14,5,3,6,,,
+UBCV,2019,W,ASIA,332,,001,Confucianism in China and Beyond: Reinventions of Tradition,Ayaka Yoshimizu;Clayton Ashton,34,79.235294118,6.135138849,90.0,64.0,,,,,,,,,,,0,0,0,0,1,1,9,5,11,6,1,,,
+UBCV,2019,W,ASIA,354,,002,Introduction to Japanese Cinema,Ayaka Yoshimizu;Colleen Laird;Lilian Higashikata;Sayuri Higashikata;Sayuri Lilian Higashikata,75,75.453333333,10.332699777,92.0,56.0,,,,,,,,,,,0,0,7,8,2,10,10,4,16,12,6,,,
+UBCV,2019,W,ASIA,354,,003,Introduction to Japanese Cinema,Ayaka Yoshimizu;Shota Iwasaki;Tae Yeon Eom,53,79.58490566,9.680340828,97.0,52.0,,,,,,,,,,,0,1,0,3,2,5,2,12,9,10,9,,,
+UBCV,2019,W,ASTU,201,,001,"Canada, Japan and the Pacific: Cultural Studies",Ayaka Yoshimizu;Marjan Abdolahi;Pramod Kumar Sah;Pramod Sah;Rosaley Gai;Yuko Fedrau;Zhuo Sun,76,74.236842105,7.599769156,90.0,53.0,,,,,,,,,,,0,1,2,4,7,9,15,21,13,3,1,,,
+UBCV,2019,W,ASTU,202,,001,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",Aika Ishige;Alexine Sanchez;Atsumi Nakao;Ayaka Yoshimizu;Parboti Roy;Yuya Takeda,82,69.170731707,11.252220498,90.0,36.0,,,,,,,,,,,5,2,3,10,12,13,13,8,12,2,2,,,
+UBCV,2019,W,CDST,250,A,001,Introduction to Canada,Amy Conroy;Ayaka Yoshimizu;Marjan Abdolahi;Parboti Roy;Yuko Fedrau,67,76.895522388,8.051226762,89.0,28.0,,,,,,,,,,,1,0,0,1,1,4,18,16,21,5,0,,,
+UBCV,2020,S,ASIA,354,,921,Introduction to Japanese Cinema,Ayaka Yoshimizu;Jaylene Laturnas;Jaylene Marie Laturnas;Shota Iwasaki,73,74.890410959,11.386592559,91.0,1.0,,,,,,,,,,,1,0,1,1,9,10,11,13,16,10,1,,,
+UBCV,2020,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Atsumi Nakao;Ayaka Yoshimizu;Iman Binte Isa;Iman Isa,79,79.455696203,9.957341665,98.0,35.0,,,,,,,,,,,1,1,0,0,4,8,9,11,16,20,9,,,
+UBCV,2020,W,ASIA,254,,002,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ashley Robinson;Ayaka Yoshimizu;Aydin Quach;Parboti Roy,64,76.515625,14.610272737,96.0,6.0,,,,,,,,,,,3,1,0,5,2,6,4,7,18,9,9,,,
+UBCV,2020,W,ASIA,354,,002,Introduction to Japanese Cinema,Ayaka Yoshimizu;Colleen Laird;Shih Chian Liu,50,76.96,10.984144417,94.0,42.0,,,,,,,,,,,1,2,1,0,5,4,6,6,10,9,6,,,
+UBCV,2020,W,ASIA,463,,001,Japanese Documentary Media,Ayaka Yoshimizu,20,80.75,10.779488319,97.0,64.0,,,,,,,,,,,0,0,0,0,4,0,3,0,4,5,4,,,
+UBCV,2020,W,ASTU,202,,001,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",Ayaka Yoshimizu,21,75.714285714,20.256215977,93.0,1.0,,,,,,,,,,,1,0,2,1,0,0,3,2,3,6,3,,,
+UBCV,2021,S,ASIA,354,,921,Introduction to Japanese Cinema,Ayaka Yoshimizu;Parboti Roy,64,74.390625,13.896005121,95.0,18.0,,,,,,,,,,,3,1,1,2,5,10,5,12,8,12,5,,,
+UBCV,2021,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ashley Robinson;Ayaka Yoshimizu;Aydin Quach,77,77.064935065,9.364459214,93.0,54.0,,,,,,,,,,,0,1,4,2,8,5,8,10,19,15,5,,,
+UBCV,2021,W,ASIA,254,,002,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ashley Robinson;Ayaka Yoshimizu;Aydin Quach,76,72.710526316,14.290151191,94.0,22.0,,,,,,,,,,,6,1,2,2,6,7,13,10,16,12,1,,,
+UBCV,2021,W,ASIA,320,,002,History of Early China,Ayaka Yoshimizu;Chen Chen;Clayton Ashton,60,75.133333333,17.612078547,93.0,0.0,,,,,,,,,,,4,1,0,1,3,2,11,9,13,11,5,,,
+UBCV,2021,W,ASIA,463,,001,Japanese Documentary Media,Ayaka Yoshimizu,25,79.28,7.068238819,91.0,67.0,,,,,,,,,,,0,0,0,0,1,4,4,4,3,7,2,,,
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Ayaka Yoshimizu;Rebecca Fuk Hing Chau Choi;Saori Hoshi,9,72.444444444,9.382311963,87.0,58.0,,,,,,,,,,,0,0,1,1,0,3,1,1,1,1,0,,,
+UBCV,2021,S,ASIA,354,,921,Introduction to Japanese Cinema,Ayaka Yoshimizu,63,75.3,,95.0,32.0,,,,,,,,,,,,,,,,10,,12,8,12,,76.0,85.0,68.0
+UBCV,2021,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ayaka Yoshimizu,77,77.1,,93.0,54.0,,,,,,,,,,,,,,,8,,8,10,19,15,,80.0,85.0,71.0
+UBCV,2021,W,ASIA,254,,002,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ayaka Yoshimizu,76,73.2,,94.0,22.0,,,,,,,,,,,,,,,6,7,13,10,16,12,,76.0,82.0,70.0
+UBCV,2021,W,ASIA,463,,001,Japanese Documentary Media,Ayaka Yoshimizu,25,79.7,,91.0,67.0,,,,,,,,,,,,,,,,,,,,7,,79.0,85.0,75.0
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,9,72.4,,87.0,58.0,,,,,,,,,,,,,,,,,,,,,,71.0,77.0,70.0
+UBCV,2022,S,ASIA,354,,951,Introduction to Japanese Cinema,Ayaka Yoshimizu,75,72.7,,95.0,50.0,,,,,,,,,,,0,4,5,6,5,11,16,8,7,7,6,73.0,81.0,66.0
+UBCV,2022,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ayaka Yoshimizu,76,78.3,,95.0,4.0,,,,,,,,,,,2,0,1,2,0,8,9,10,25,13,6,80.5,84.3,74.8
+UBCV,2022,W,ASTU,201,,001,"Canada, Japan and the Pacific: Cultural Studies",Ayaka Yoshimizu,79,73.4,,94.0,5.0,,,,,,,,,,,3,4,3,1,6,9,13,13,11,8,8,76.0,83.0,69.0
+UBCV,2022,W,ASTU,202,,001,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",Ayaka Yoshimizu,77,71.2,,92.0,10.0,,,,,,,,,,,2,6,1,4,7,11,18,10,11,6,1,73.0,79.0,67.0
+UBCV,2022,W,CDST,250,A,001,Introduction to Canada,Ayaka Yoshimizu,68,74.0,,91.0,60.0,,,,,,,,,,,0,0,0,6,9,13,12,11,7,6,4,72.0,79.3,68.0
+UBCV,2022,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,15,74.6,,82.0,57.0,,,,,,,,,,,0,0,2,0,1,0,3,3,6,0,0,78.0,80.0,72.5
+UBCV,2023,W,ASIA,590,,036,"Theories & Methods ""Thinking with the Body"" Embodied Cognition and the Study of Culture",Ayaka Yoshimizu,13,89.0,,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,3,88.5,90.5,87.0
+UBCV,2023,W,ASIX,220,,011,Indigeneities in Asia and Asian Diaspora,Ayaka Yoshimizu,30,79.96,,95.0,54.0,,,,,,,,,,,0,1,0,0,0,3,4,4,6,7,3,82.0,86.25,73.75
+UBCV,2023,W,ASTU,201,,021,"Canada, Japan and the Pacific: Cultural Studies",Ayaka Yoshimizu,76,69.0,,89.0,5.0,,,,,,,,,,,4,4,4,10,5,11,14,7,5,12,0,71.5,78.0,62.0
+UBCV,2023,W,CDST,250,A,011,Introduction to Canada,Ayaka Yoshimizu,63,79.87,,99.0,60.0,,,,,,,,,,,0,0,0,2,0,3,8,14,20,14,2,80.0,84.5,76.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,ENGR,518,,001,Applied Machine Learning for Engineers,Anas Chaaban;Mohanad Obeed,39,84.897435897,6.874035327,96.0,70.0,0,0,0,0,0,1,2,6,5,15,10,,,
+UBCO,2021,W,ENGR,518,,001,Applied Machine Learning for Engineers,Anas Chaaban;Mohanad Obeed;Wei Li,63,80.603174603,7.819619004,96.0,61.0,0,0,0,1,2,5,9,13,14,10,9,,,
+UBCO,2021,W,ENGR,518,,001,Applied Machine Learning for Engineers,Anas Chaaban;Mohanad Obeed,63,80.6,,96.0,61.0,,,,,,,9,13,14,10,9,80.0,86.0,75.0
+UBCO,2022,W,ENGR,518,,001,Applied Machine Learning for Engineers,Mohanad Obeed,24,84.5,,100.0,68.0,0,0,0,0,0,2,1,4,4,3,10,86.0,90.5,77.5

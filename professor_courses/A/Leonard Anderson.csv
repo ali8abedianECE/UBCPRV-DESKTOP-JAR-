@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,MUSC,182,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",5,84.6,3.91,91,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,,,
+UBC,2013,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",19,89.68,1.97,92,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,15,,,
+UBC,2013,W,MUSC,182,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence;Hamm, Corey",6,86.5,3.27,91,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,,,
+UBC,2013,W,MUSC,282,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence;Hamm, Corey",5,86.8,3.35,92,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,,,
+UBC,2013,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Iwaasa, Rachel;Sharon, Rena",5,89.6,2.61,94,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2014,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,84.54,15.3,93,35,12,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,6,5,,,
+UBC,2014,W,MUSC,282,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",5,84,4.06,91,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,,,
+UBC,2014,W,MUSC,340,,001,PIANO PDG I:TH&S,"Anderson, Leonard",23,87.77,4.41,95,81,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,7,,,
+UBC,2014,W,MUSC,382,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",4,87.25,4.99,94,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2014,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,90.14,1.92,93,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,,,
+UBC,2015,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",16,88.31,3.84,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8,,,
+UBC,2015,W,MUSC,382,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",5,86.4,5.22,93,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,,,
+UBC,2015,W,MUSC,440,,001,PIANO PD II: APP,"Anderson, Leonard",18,85.31,4.6,92,78,16,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,5,4,,,
+UBC,2015,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",11,90.64,2.38,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,,,
+UBC,2016,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",10,88.8,2.7,93,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,,,
+UBC,2016,W,MUSC,340,,001,PIANO PDG I:TH&S,"Anderson, Leonard",15,85.2,8.6,97,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,4,6,,,
+UBC,2016,W,MUSC,482,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",6,86.5,2.17,89,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,,,
+UBC,2016,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",4,90,2,92,88,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,,,
+UBC,2017,W,MUSC,182,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence",6,86,4.77,90,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,,,
+UBC,2017,W,MUSC,440,,001,PIANO PD II: APP,"Anderson, Leonard",6,90.83,4.75,97,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2018,W,MUSC,340,,001,PIANO PDG I:TH&S,"Anderson, Leonard",12,83.64,8.96,94,67,11,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,3,4,,,
+UBCV,2014,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Sara Davis Buechner;Terence Dawson,13,84.53846154,15.30041059,93.0,35.0,,,,,,,,,,,,,,,,,,,,6,5,,,
+UBCV,2014,W,MUSC,282,A,700,Music Performance (Concentration),Leonard Anderson;Terence Dawson,5,84.0,4.062019202,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2014,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,22,87.77272727,4.407048663,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,7,,,
+UBCV,2014,W,MUSC,561,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Sara Davis Buechner;Terence Dawson,14,90.14285714,1.915810447,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,9,,,
+UBCV,2015,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,16,88.3125,3.842199891,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,8,,,
+UBCV,2015,W,MUSC,382,A,700,Music Performance (Concentration),Leonard Anderson;Terence Dawson,5,86.4,5.224940191,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,16,85.3125,4.600271731,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,6,5,,,,
+UBCV,2015,W,MUSC,561,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,11,90.636363636,2.377928816,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCV,2016,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,10,88.8,2.699794231,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6,,,
+UBCV,2016,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,15,85.2,8.603985787,97.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,1,1,4,6,,,
+UBCV,2016,W,MUSC,482,A,700,Music Performance (Concentration),Leonard Anderson;Terence Dawson,6,86.5,2.167948339,89.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,0,,,
+UBCV,2017,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Terence Dawson,11,89.363636364,0.674199862,90.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5,,,
+UBCV,2017,W,MUSC,182,A,700,Music Performance (Concentration),Leonard Anderson;Terence Dawson,6,86.0,4.774934555,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,2,,,
+UBCV,2017,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,6,90.833333333,4.750438576,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2018,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,11,83.636363636,8.958490133,94.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,1,1,3,4,,,
+UBCV,2019,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,9,90.111111111,5.732461174,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,6,,,
+UBCV,2020,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,20,89.8,1.852452144,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,10,,,
+UBCV,2021,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,21,87.19047619,5.144113603,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,7,8,,,
+UBCV,2021,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,21,87.2,,94.0,76.0,,,,,,,,,,,,,,,,,,,,7,8,88.0,92.0,84.0
+UBCV,2022,W,MUSC,161,A,001,Piano Chamber Ensembles,Leonard Anderson;Terence Dawson;David Fung;Corey Hamm;Rena Sharon;Miranda Ting Wai Wong Wilkins,13,85.9,,95.0,25.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,4,8,90.0,94.0,87.0
+UBCV,2022,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,14,84.9,,98.0,63.0,,,,,,,,,,,0,0,0,1,0,0,2,0,2,5,4,86.5,91.3,81.8
+UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder MacLellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,22,91.0,93.0,89.0
+UBCV,2022,W,MUSC,561,A,001,Piano Chamber Ensembles,Leonard Anderson;Terence Dawson;David Fung;Corey Hamm;Rena Sharon;Miranda Ting Wai Wong Wilkins,9,94.4,,97.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,94.0,95.0,94.0
+UBCV,2022,W,MUSC,593,A,001,Music Performance (Major),Leonard Anderson;Corey Hamm;Alexander Weimann,6,90.3,,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,91.0,91.8,87.3
+UBCV,2023,W,MUSC,440,,001,Piano Pedagogy II: Applications,Leonard Anderson,9,87.3,,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,4,88.0,91.0,84.0
+UBCV,2023,W,MUSC,561,A,001,Piano Chamber Ensembles,Leonard Anderson;Terence Dawson;David Fung;Rena Sharon;Miranda Ting Wai Wong Wilkins,6,94.0,,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,94.0,95.5,92.5

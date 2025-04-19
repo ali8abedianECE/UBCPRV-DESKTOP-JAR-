@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",17,75.35,5.47,83,64,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,8,3,0,0
+UBC,2002,W,APSC,331,,101,INTER ENG DES,"Maijer, Daan",12,77.83,8.09,95,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,5,0,1
+UBC,2002,W,APSC,332,,201,INTER ENG DES II,"Maijer, Daan",8,80.75,6.16,87,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,3,0
+UBC,2002,W,MMAT,562,,201,FIN EL HEAT TRAN,"Maijer, Daan",10,88.33,4.47,94,83,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3
+UBC,2003,W,APSC,330,,001,Int Engin Des,"Hall, Robert;Maijer, Daan",14,79.43,5.17,86,68,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,3,0
+UBC,2003,W,APSC,331,,101,INTER ENG DES,"Hall, Robert;Maijer, Daan",9,76,8.63,86,55,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,1,1,0
+UBC,2003,W,APSC,332,,201,INTER ENG DES II,"Hall, Robert;Maijer, Daan",4,84,2.16,86,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2003,W,MMAT,390,,201,SEMINAR II,"Cockcroft, Steven;Maijer, Daan",33,85.94,5.09,94,68,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,8,18,4
+UBC,2003,W,MMAT,562,,201,FIN EL HEAT TRAN,"Maijer, Daan",5,88.2,7.98,99,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2
+UBC,2005,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",20,79.3,14.69,97,37,19,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,2,3,4,4,4
+UBC,2005,W,APSC,332,,201,INTER ENG DES II,"Hall, Robert;Maijer, Daan",8,81.88,5.57,87,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,0
+UBC,2005,W,MTRL,390,,201,SEMINAR II,"Cockcroft, Steven;Maijer, Daan",39,80.33,5.05,89,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,8,18,7,0
+UBC,2005,W,MTRL,562,,201,FIN EL HEAT TRAN,"Maijer, Daan",8,85.86,6.89,94,74,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3
+UBC,2006,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",16,75.38,9.37,94,55,16,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,4,7,0,0,2
+UBC,2006,W,APSC,331,,101,INTER ENG DES,"Maijer, Daan",8,85.13,2.85,90,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1
+UBC,2006,W,APSC,332,,201,INTER ENG DES II,"Hall, Robert;Maijer, Daan",10,83.1,6.23,92,71,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,1
+UBC,2006,W,MTRL,390,,201,SEMINAR II,"Cockcroft, Steven;Maijer, Daan",21,84.57,6.94,92,65,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,5,8,5
+UBC,2006,W,MTRL,562,,201,FIN EL HEAT TRAN,"Maijer, Daan",6,85.33,5.05,90,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2
+UBC,2007,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",25,78.4,7.53,88,59,25,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2,7,5,7,0
+UBC,2007,W,APSC,331,,101,INTER ENG DES,"Maijer, Daan",10,77.6,4.99,86,71,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,1,0
+UBC,2007,W,MTRL,390,,201,SEMINAR II,"Dreisinger, David;Maijer, Daan;Wassink, Berend",43,87.33,5.22,97,73,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,20,13
+UBC,2007,W,MTRL,562,,201,FIN EL HEAT TRAN,"Maijer, Daan",13,83.36,6.3,90,69,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,5,1
+UBC,2009,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",37,78,5.93,90,65,37,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,10,11,3,1
+UBC,2009,W,MTRL,465,,201,ENG DESIGN II,"Asselin, Edouard;Maijer, Daan;Troczynski, Tom;Wassink, Berend",35,72.17,10.8,84,24,34,1,0,0,0,0,0,1,0,0,1,1,0,1,4,7,7,6,8,0,0
+UBC,2010,W,APSC,330,,001,Int Engin Des,"Maijer, Daan",25,74.83,8.43,91,56,23,0,2,0,0,0,0,0,0,0,0,0,1,0,4,4,3,6,2,2,1
+UBC,2010,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Cockcroft, Steven;Maijer, Daan;Wang, Rizhi",38,80.29,7.27,90,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,6,8,12,3
+UBC,2011,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan;Reilly, Carl",37,74.54,5.09,87,63,37,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,15,11,3,1,0
+UBC,2012,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan;Reilly, Carl",48,78.43,4.92,88,66,47,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,3,19,14,6,0
+UBC,2013,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan;Reilly, Carl",43,76.98,13.73,86,0,42,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,7,16,4,13,0
+UBC,2013,W,MTRL,466,,101,ENG PROJECT I,"Ko, Frank;Maijer, Daan;Militzer, Matthias;Sinclair, Chadwick;Xia, Guangrui",27,81.19,6.93,92,67,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,5,8,3
+UBC,2013,W,MTRL,467,,201,ENG PROJECT II,"Cockcroft, Steven;Fernlund, Goran;Maijer, Daan;Wang, Rizhi;Wassink, Berend",30,80.87,5.32,89,66,30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,15,5,0
+UBC,2014,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan;Reilly, Carl",44,83.09,4.59,90,74,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,12,19,1
+UBC,2014,W,MTRL,466,,101,ENG PROJECT I,"Dreisinger, David;Ko, Frank;Maijer, Daan;Sinclair, Chadwick;Wang, Rizhi",52,79.77,3.36,86,69,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,27,4,0
+UBC,2015,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan;Reilly, Carl",46,77.43,10.57,94,52,46,0,0,0,0,0,0,0,0,0,0,1,2,3,3,4,6,4,7,12,4
+UBC,2016,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan",47,78.78,6.78,89,55,46,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,9,12,11,11,0
+UBC,2016,W,MTRL,515,,201,MTRL MANUFACT,"Maijer, Daan",14,92.57,1.74,95,89,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13
+UBC,2016,W,MTRL,517,,101,STDIES MTRL MANU,"Fernlund, Goran;Maijer, Daan;Poole, Warren;Poursartip, Anoshiravan",5,90,0,90,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2017,W,IGEN,330,,001,INTRMDT ENG DESN,"Maijer, Daan",53,79.34,6.86,92,60,53,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,10,14,14,6,5
+UBC,2018,W,MTRL,517,,101,STDIES MTRL MANU,"Maijer, Daan;Poole, Warren;Poursartip, Anoshiravan",4,88,0,88,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0

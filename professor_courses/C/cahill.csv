@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,EOSC,428,,201,FLD TEC GRDWT HY,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",31,79.63,6.78,90,66,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0,14,5,2
+UBC,2017,W,EOSC,429,,101,GRDWATER CONTAM,"Beckie, Roger;Cahill, Aaron",44,71.41,9.56,91,52,44,0,0,0,0,0,0,0,0,0,0,1,4,5,3,8,9,4,6,3,1
+UBC,2017,W,EOSC,532,,201,FLD LAB GRDWTR H,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",13,89.64,3.07,93,82,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2018,W,EOSC,429,,201,GRDWATER CONTAM,"Cahill, Aaron;Vriens, Bastianus",89,78.58,8.81,97,55,88,0,0,0,1,0,0,0,0,0,0,0,2,3,5,9,12,15,20,10,12

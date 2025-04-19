@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,PHIL,220,A,01A,SYMBOLIC LOGIC I,"Bartha, Paul",97,78.2,14.32,99,42,89,2,6,0,0,0,0,0,0,2,2,3,4,12,4,5,3,5,12,15,26,,,
+UBC,2002,W,PHIL,312,A,01A,MEDIEVAL PHILSPH,"Bartha, Paul",34,73.52,9.73,91,50,31,0,1,0,2,0,0,0,0,0,0,2,0,2,3,6,6,3,4,3,2,,,
+UBC,2002,W,PHIL,320,A,01A,SYMBOLC LOGIC II,"Bartha, Paul",28,73.42,20.45,100,41,22,4,1,0,1,0,0,0,0,4,4,3,0,0,3,4,0,0,2,3,7,,,
+UBC,2005,W,PHIL,220,A,001,SYMBOLIC LOGIC I,"Bartha, Paul",88,76.07,15.81,97,41,76,9,2,0,1,0,0,0,0,9,9,1,6,3,5,6,6,8,7,10,24,,,
+UBC,2005,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",44,68.31,19.91,99,0,37,5,1,1,0,1,0,0,1,3,5,4,4,3,3,3,2,3,6,3,6,,,
+UBC,2005,W,PHIL,321,A,001,INDUCTION & DECN,"Bartha, Paul",51,74.23,15.18,96,0,46,2,2,0,1,1,0,0,0,1,2,1,0,3,4,6,9,5,7,6,5,,,
+UBC,2006,W,PHIL,220,A,001,SYMBOLIC LOGIC I,"Bartha, Paul",110,78.4,14.45,98,27,103,4,3,0,0,0,0,1,2,1,4,2,2,6,7,10,8,7,19,14,28,,,
+UBC,2006,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",43,68.13,17.44,100,34,34,4,4,0,1,0,0,0,3,1,4,3,5,4,2,5,2,1,4,2,6,,,
+UBC,2006,W,PHIL,520,A,001,LOGIC,"Bartha, Paul",6,83.5,6.89,90,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,,,
+UBC,2007,W,PHIL,220,A,001,SYMBOLIC LOGIC I,"Bartha, Paul",103,79.63,16.03,100,24,97,4,1,0,1,0,0,1,2,1,4,1,8,3,6,8,3,8,11,11,38,,,
+UBC,2007,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",45,64.94,17.88,100,20,30,5,10,0,0,0,0,2,0,3,5,4,4,4,3,2,4,1,3,3,2,,,
+UBC,2007,W,PHIL,460,A,002,PHIL OF SCIENCE,"Bartha, Paul",18,70.81,15.77,86,26,14,2,1,1,0,0,0,1,0,1,2,0,0,0,1,3,4,1,3,2,0,,,
+UBC,2007,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Bartha, Paul",7,84.67,4.55,93,80,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,,,
+UBC,2007,W,PHIL,560,A,002,PHIL OF SCIENCE,"Bartha, Paul",5,85.75,4.11,91,82,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2009,S,PHIL,220,A,951,SYMBOLIC LOGIC I,"Bartha, Paul",61,76.65,16.85,97,29,53,4,2,0,2,0,0,1,2,1,4,5,0,2,2,1,5,6,10,6,16,,,
+UBC,2009,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",30,66.13,17.09,100,35,20,4,6,0,0,0,0,0,2,2,4,1,5,0,4,0,2,2,3,2,1,,,
+UBC,2010,W,PHIL,321,A,001,INDUCTION & DECN,"Bartha, Paul",37,71.06,16.05,94,29,30,2,4,1,0,0,0,1,1,0,2,2,4,1,0,7,6,1,0,6,3,,,
+UBC,2011,W,PHIL,520,A,001,LOGIC,"Bartha, Paul",8,68.83,31.1,86,6,5,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,1,0,,,
+UBC,2013,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",33,70.97,12.02,97,50,29,0,1,0,2,0,0,0,0,0,0,3,1,4,5,4,4,1,1,3,3,,,
+UBC,2013,W,PHIL,560,A,001,PHIL OF SCIENCE,"Bartha, Paul",8,83.5,4,90,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,1,,,
+UBC,2014,W,PHIL,220,A,002,SYMBOLIC LOGIC I,"Bartha, Paul",113,78.94,14.25,99,33,106,3,2,0,2,0,0,0,2,1,3,7,2,2,4,11,10,9,13,20,28,,,
+UBC,2014,W,PHIL,320,A,001,SYMBOLC LOGIC II,"Bartha, Paul",42,71.17,14.02,99,42,33,3,4,0,1,0,0,0,0,3,3,1,3,3,2,3,8,6,2,1,4,,,
+UBC,2014,W,PHIL,321,A,002,INDUCTION & DECN,"Bartha, Paul",56,74.87,12.58,98,42,51,1,2,0,2,0,0,0,0,1,1,4,1,1,6,6,5,7,11,2,8,,,
+UBC,2014,W,PHIL,460,A,001,PHIL OF SCIENCE,"Bartha, Paul",28,80.33,6.49,92,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,9,3,3,,,
+UBC,2015,W,PHIL,560,A,001,PHIL OF SCIENCE,"Bartha, Paul",9,83.38,2.56,88,80,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,,,
+UBC,2016,W,PHIL,321,A,001,INDUCTION & DECN,"Bartha, Paul",49,72.34,12.23,93,51,44,0,2,0,1,0,0,0,0,0,0,3,5,4,3,7,3,3,9,2,5,,,
+UBC,2017,W,PHIL,369,,001,PHIL OF SCIENCE,"Bartha, Paul",27,73.31,11.53,95,39,25,1,0,1,0,0,0,0,1,0,1,0,2,1,2,4,2,8,4,1,1,,,
+UBCV,2014,W,PHIL,220,A,002,Symbolic Logic I,Paul Bartha,111,78.25225225,15.0474815,99.0,33.0,,,,,,,,,,,5,7,,,,11,10,9,13,20,28,,,
+UBCV,2014,W,PHIL,320,A,001,Symbolic Logic 2,Ali Abasnezhad;Paul Bartha,38,68.68421053,17.98964456,99.0,3.0,,,,,,,,,,,5,,,,,,8,6,,,,,,
+UBCV,2014,W,PHIL,321,A,002,Induction and Decision,Jiwon Byun;Paul Bartha,54,73.09259259,15.69793703,98.0,10.0,,,,,,,,,,,,,,,6,6,5,7,11,,8,,,
+UBCV,2014,W,PHIL,460,A,001,Philosophy of Science,Paul Bartha,28,78.67857143,8.223964852,92.0,55.0,,,,,,,,,,,0,0,,,,,,,10,,,,,
+UBCV,2015,W,PHIL,560,A,001,Philosophy of Science,Paul Bartha,8,83.375,2.55999442,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,0,,,
+UBCV,2016,W,PHIL,321,A,001,Induction and Decision,Jeremy Dawson;Paul Bartha,47,71.31914894,14.68525789,93.0,14.0,,,,,,,,,,,1,3,5,4,3,8,3,3,10,2,5,,,
+UBCV,2017,W,PHIL,369,,001,Philosophy of Science,Paul Bartha,26,73.307692308,11.526557962,95.0,39.0,,,,,,,,,,,1,0,2,1,2,4,2,8,4,1,1,,,
+UBCV,2018,W,PHIL,369,,001,Philosophy of Science,Alexandre Korolev;Margaret Wylie;Paul Bartha,32,78.75,8.454813479,96.0,64.0,,,,,,,,,,,0,0,0,0,3,4,5,6,5,6,3,,,
+UBCV,2019,W,PHIL,220,,001,Symbolic Logic,Paul Bartha;Servaas Van Der Berg,104,74.355769231,17.102726898,99.0,16.0,,,,,,,,,,,9,6,8,6,5,2,10,8,17,12,21,,,
+UBCV,2019,W,PHIL,321,,001,"Induction, Decision and Game Theory",Alexandre Korolev;Christopher Stephens;Jade Hadley;Paul Bartha,57,86.333333333,8.974832536,100.0,63.0,,,,,,,,,,,0,0,0,1,2,0,5,4,7,15,23,,,
+UBCV,2019,W,PHIL,369,,001,Philosophy of Science,Alexandre Korolev;Paul Bartha,31,78.290322581,7.768284016,90.0,53.0,,,,,,,,,,,0,1,0,0,2,0,6,7,9,5,1,,,
+UBCV,2020,S,PHIL,220,,001,Symbolic Logic,Bruno Guindon;Ewan Townshend;Paul Bartha;Serban Dragulin,116,80.353448276,16.530474788,99.0,16.0,,,,,,,,,,,7,5,4,3,3,1,10,9,10,21,43,,,
+UBCV,2020,W,PHIL,220,,001,Symbolic Logic,Aleksandra Vujicic;Alexandre Korolev;Daisy Wan;Paul Bartha,93,75.967741935,13.563419164,92.0,5.0,,,,,,,,,,,2,3,4,1,5,12,17,8,14,15,12,,,
+UBCV,2020,W,PHIL,321,,001,"Induction, Decision and Game Theory",Alexandre Korolev;Daniel Jordan Saunders;Daniel Saunders;Paul Bartha,70,75.042857143,15.503562671,96.0,0.0,,,,,,,,,,,3,0,2,4,4,9,6,13,12,8,9,,,
+UBCV,2020,W,PHIL,369,A,001,Philosophy of Science,Paul Bartha;Spencer Knafelc,29,79.310344828,8.799770485,94.0,61.0,,,,,,,,,,,0,0,0,1,2,2,4,5,7,3,5,,,
+UBCV,2020,W,PHIL,560,A,001,Philosophy of Science,Christopher Stephens;Paul Bartha,13,88.153846154,3.647970985,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,5,,,
+UBCV,2021,S,PHIL,220,A,001,Symbolic Logic,Daniel Saunders;Gerrit Neels;Paul Bartha;Serban Dragulin,93,80.462365591,16.66326286,99.0,2.0,,,,,,,,,,,6,2,3,3,4,1,6,5,12,18,33,,,
+UBCV,2021,W,PHIL,321,A,001,"Induction, Decision and Game Theory",Hira Ahmed;Paul Bartha,48,76.208333333,15.61090499,93.0,0.0,,,,,,,,,,,1,2,3,1,1,1,7,9,10,6,7,,,
+UBCV,2021,W,PHIL,369,A,001,Philosophy of Science,Paul Bartha,28,75.857142857,14.375169656,90.0,27.0,,,,,,,,,,,2,0,1,0,1,2,2,7,7,5,1,,,
+UBCV,2021,S,PHIL,220,A,001,Symbolic Logic,Paul Bartha,93,80.5,,99.0,2.0,,,,,,,,,,,6,,,,,,6,,12,18,33,86.0,92.0,74.0
+UBCV,2021,W,PHIL,321,A,001,"Induction, Decision and Game Theory",Paul Bartha,48,76.2,,93.0,0.0,,,,,,,,,,,,,,,,,7,9,10,6,7,78.0,86.0,73.8
+UBCV,2021,W,PHIL,369,A,001,Philosophy of Science,Paul Bartha,28,75.9,,90.0,27.0,,,,,,,,,,,,,,,,,,7,7,,,78.5,84.0,74.8
+UBCV,2022,S,PHIL,220,A,001,Symbolic Logic,Paul Bartha,95,82.8,,99.0,11.0,,,,,,,,,,,3,2,2,3,3,3,8,5,13,14,39,87.0,94.0,75.5
+UBCV,2022,W,PHIL,321,A,001,"Induction, Decision and Game Theory",Paul Bartha,52,72.5,,94.0,0.0,,,,,,,,,,,4,2,2,3,4,3,6,8,9,7,4,77.0,84.0,67.0
+UBCV,2022,W,PHIL,369,A,001,Philosophy of Science,Paul Bartha,29,78.5,,90.0,63.0,,,,,,,,,,,0,0,0,1,4,0,4,7,3,9,1,79.0,85.0,75.0
+UBCV,2023,S,PHIL,220,,001,Symbolic Logic,Paul Bartha,117,79.1,,100.0,9.0,,,,,,,,,,,8,4,5,1,7,4,5,7,11,9,44,85.0,93.0,69.0
+UBCV,2023,W,PHIL,369,,001,Philosophy of Science,Paul Bartha,28,75.1,,89.0,31.0,,,,,,,,,,,1,0,0,1,4,2,1,4,5,6,0,79.0,83.5,67.8
+UBCV,2023,W,PHIL,560,A,001,Philosophy of Science,Paul Bartha,6,86.3,,89.0,84.0,,,,,,,,,,,,,,,,,,,,,,86.0,87.5,85.0

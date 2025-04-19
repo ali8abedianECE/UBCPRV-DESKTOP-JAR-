@@ -1,0 +1,74 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDUC,310,,112,TEACh PRINC,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,EDUC,316,,112,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,PHYS,101,,104,ENERGY & WAVES,"Iqbal, Javed;MacKay, Alexander",163,77.77,8.67,96,45,162,1,0,0,0,0,0,0,0,1,1,0,3,5,6,22,23,26,40,23,14
+UBC,2002,W,PHYS,404,,101,PHYS MEDICAL IMG,"MacKay, Alexander;Sossi, Vesna",19,79.94,18.79,94,14,16,1,0,1,1,0,1,0,0,0,1,0,0,1,0,0,1,0,5,4,5
+UBC,2002,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",13,85.31,7.33,94,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,5
+UBC,2003,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EDUC,316,,107,COMM SKILLS,"MacKay, Heather",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PHYS,101,,104,ENERGY & WAVES,"Iqbal, Javed;MacKay, Alexander",164,75.98,12.31,97,37,152,10,2,0,0,0,0,0,2,8,10,0,2,10,10,27,14,13,27,30,19
+UBC,2003,W,PHYS,404,,101,PHYS MEDICAL IMG,"Aldrich, John;Celler, Anna;MacAulay, Calum E.;MacKay, Alexander;Sossi, Vesna",30,79.45,11.07,94,56,29,0,1,0,0,0,0,0,0,0,0,0,3,1,0,2,3,3,6,5,6
+UBC,2005,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EDUC,316,,107,COMM SKILLS,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHYS,101,,104,ENERGY & WAVES,"Iqbal, Javed;MacKay, Alexander",151,76.46,10.96,96,45,142,6,2,0,1,0,0,0,0,6,6,1,2,7,7,21,17,15,33,27,12
+UBC,2005,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",30,73.83,12.17,95,50,29,0,1,0,0,0,0,0,0,0,0,2,3,1,1,5,3,2,7,2,3
+UBC,2005,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",8,93.38,5.18,98,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+UBC,2006,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EDUC,316,,107,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",161,79.45,8.86,98,47,160,1,0,0,0,0,0,0,0,1,1,1,0,6,3,18,20,21,45,22,24
+UBC,2006,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",39,76.54,9.01,92,47,38,1,0,0,0,0,0,0,0,1,1,0,0,2,2,5,6,4,14,4,1
+UBC,2006,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander",12,83.64,7.95,92,68,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,6,1
+UBC,2006,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",7,74.86,33.36,94,0,6,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,2,2
+UBC,2007,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,EDUC,316,,107,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",168,77.65,11.43,96,6,162,5,1,0,0,1,0,0,0,4,5,0,3,4,10,14,25,17,43,29,17
+UBC,2007,W,PHYS,404,,101,INTRO MED PHYS,"MacKay, Alexander",55,73.61,9.79,89,48,50,1,4,0,0,0,0,0,0,1,1,3,0,3,2,8,11,7,9,7,0
+UBC,2007,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",10,88.7,7.01,98,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,4
+UBC,2009,S,EDUC,316,A,107,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EDUC,480,A,107,E-PORTFOLIO,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,316,B,107,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",170,77.74,11.75,98,40,161,7,1,0,1,0,0,0,0,7,7,0,5,6,9,18,16,19,29,34,25
+UBC,2009,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",40,80.15,8.08,93,60,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,6,10,6,6
+UBC,2009,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",20,91.89,5.84,99,80,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,13
+UBC,2010,S,EDUC,316,A,107,COMM SKILLS,"MacKay, Heather;de Cosson, Alexander",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDUC,480,A,107,E-PORTFOLIO,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,310,,107,TEACh PRINC,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,316,B,107,COMM SKILLS,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",161,76.87,11.81,94,40,148,9,3,0,1,0,0,0,0,9,9,0,4,5,10,13,18,10,42,31,15
+UBC,2010,W,PHYS,404,,101,INTRO MED PHYS,"Bjarnason, Thor;Kozlowski, Piotr;Lee, Richard;MacKay, Alexander;Tchvialeva, Lioudmila;Thakur, Yogesh;Walker, Matthew",39,74.81,13.19,91,33,35,2,1,0,1,0,0,0,1,1,2,1,1,2,2,3,4,5,7,8,2
+UBC,2010,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",12,85.25,7.82,95,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,4
+UBC,2010,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",20,90.55,5.72,98,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,13
+UBC,2011,S,EDUC,480,A,107,E-PORTFOLIO,"MacKay, Heather",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDUC,310,,201,TEACh PRINC,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDUC,316,C,201,COMM SKILLS,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",165,79.35,10.92,97,25,161,4,0,0,0,0,0,1,0,3,4,0,1,5,9,12,20,17,37,35,25
+UBC,2011,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",53,82.1,7.08,94,68,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,2,6,20,9,9
+UBC,2011,W,PHYS,534,,101,RDIOTHRPY PHY I,"MacKay, Alexander",6,83.5,6.09,94,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1
+UBC,2011,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",27,87.89,12.02,99,50,27,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,1,3,0,19
+UBC,2012,S,EDUC,480,A,104,E-PORTFOLIO,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDUC,480,A,111,E-PORTFOLIO,"MacKay, Heather",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDUC,480,A,114,E-PORTFOLIO,"MacKay, Heather",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDUC,480,A,92F,E-PORTFOLIO,"MacKay, Heather",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDUC,480,A,221,E-PORTFOLIO,"MacKay, Heather",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",160,78.15,12.56,99,41,148,8,3,0,1,0,0,0,0,8,8,4,1,4,5,14,21,23,20,32,24
+UBC,2012,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",37,77.64,8.21,92,54,36,0,1,0,0,0,0,0,0,0,0,1,1,0,0,7,2,4,14,6,1
+UBC,2012,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",7,85.43,5.41,94,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2
+UBC,2012,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",27,88,9.69,99,52,27,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,2,8,14
+UBC,2013,W,PHYS,101,,104,ENERGY & WAVES,"Bates, Frances;MacKay, Alexander;Milner, Valery",157,80.14,12.21,98,27,147,7,3,0,0,0,0,1,0,6,7,1,0,4,2,14,18,15,32,29,32
+UBC,2013,W,PHYS,404,,101,INTRO MED PHYS,"MacKay, Alexander;Tchvialeva, Lioudmila;Walker, Matthew;Xiang, Qing-San",23,76.43,15.11,96,36,22,1,0,0,0,0,0,0,1,0,1,2,0,1,1,2,1,0,7,5,3
+UBC,2013,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",16,91.19,3.76,97,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11
+UBC,2014,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",151,79.61,10.89,98,46,141,6,2,0,2,0,0,0,0,6,6,0,3,1,4,16,12,13,34,37,21
+UBC,2014,W,PHYS,404,,101,INTRO MED PHYS,"Kozlowski, Piotr;MacKay, Alexander;Tanguay, Jesse;Tchvialeva, Lioudmila;Thakur, Yogesh",20,77.67,11.25,91,52,18,0,1,0,1,0,0,0,0,0,0,1,1,0,2,1,1,0,6,5,1
+UBC,2014,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",10,83.5,10.64,92,65,8,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,5
+UBC,2014,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander;Schulzer, Michael",18,90.94,4.87,97,83,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10
+UBC,2015,S,PSYC,350,A,951,PSYC ASP HM SEXL,"Mackay, Terri-Lynn",116,69.87,12.79,93,38,107,7,1,0,0,0,0,0,1,6,7,7,9,11,14,14,16,5,10,18,3
+UBC,2015,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",152,79.97,11,97,47,146,2,4,0,0,0,0,0,0,2,2,3,2,5,3,18,16,8,37,20,34
+UBC,2015,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander",10,90.2,4.26,97,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6
+UBC,2016,W,PHYS,404,,101,INTRO MED PHYS,"Bergman, Alanah;Kozlowski, Piotr;Laule, Cornelia;MacKay, Alexander;Tchvialeva, Lioudmila;Thakur, Yogesh;Uribe Munoz, Carlos",45,72.45,13.46,94,35,39,3,3,0,0,0,0,0,1,2,3,2,2,3,3,3,6,5,8,5,2
+UBC,2016,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",11,81.8,6.66,94,71,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,1
+UBC,2016,W,PHYS,545,,201,ANAT PHYS STATS,"Duzenli, Cheryl;Ford, Nancy;MacKay, Alexander",13,84.31,5.88,93,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,2,3
+UBC,2017,W,PHYS,404,,101,INTRO MED PHYS,"Bergman, Alanah;Laule, Cornelia;MacKay, Alexander;Markhvida, Igor;Thakur, Yogesh;Uribe Munoz, Carlos;Xiang, Qing-San",29,76.23,11.42,95,51,26,0,2,0,1,0,0,0,0,0,0,1,1,1,3,3,4,1,5,3,4
+UBC,2018,W,PHYS,101,,104,ENERGY & WAVES,"MacKay, Alexander",141,76.28,11.59,97,40,129,8,3,0,1,0,0,0,0,8,8,0,2,4,6,19,18,18,29,20,13
+UBC,2018,W,PHYS,404,,101,INTRO MED PHYS,"Kosztyla, Robert;Kozlowski, Piotr;Laule, Cornelia;MacKay, Alexander;Markhvida, Igor;Thakur, Yogesh;Uribe Munoz, Carlos",28,76,11.49,92,45,27,1,0,0,0,0,0,0,0,1,1,1,1,1,1,4,3,2,6,6,2
+UBC,2018,W,PHYS,542,,102,NUCLR MAG RES IMGING,"MacKay, Alexander;Xiang, Qing-San",11,85.36,5.63,93,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,4

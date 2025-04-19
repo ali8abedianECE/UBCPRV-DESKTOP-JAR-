@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",59,69.28,13.94,95,22,53,5,1,0,0,0,0,1,1,3,5,3,3,4,6,10,11,3,8,1,4
+UBC,2006,W,CHEM,203,,102,INTR ORGNC CHEM,"Ciufolini, Marco",122,57.88,14.28,90,25,76,45,0,0,1,0,0,1,9,35,45,4,7,17,14,12,7,6,5,3,1
+UBC,2006,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",60,65.37,16.77,97,30,48,11,1,0,0,0,0,0,5,6,11,4,1,6,10,4,8,3,7,0,5
+UBC,2007,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",63,70.64,13.46,96,32,58,3,2,0,0,0,0,0,1,2,3,3,5,9,5,5,10,5,6,3,7
+UBC,2009,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",84,65.77,15.12,97,30,70,13,0,1,0,0,0,0,3,10,13,8,4,5,8,11,13,5,9,3,4
+UBC,2010,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",254,67.24,16.08,97,29,224,29,1,0,0,0,0,1,15,13,29,31,14,28,17,29,28,11,23,19,24
+UBC,2010,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",83,66.47,15.01,94,30,69,12,1,1,0,0,0,0,3,9,12,8,3,7,10,9,9,4,10,4,5
+UBC,2011,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",220,68.98,14.53,96,31,202,17,0,0,1,0,0,0,4,13,17,21,20,27,18,21,17,16,23,18,21
+UBC,2011,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",108,64.55,16.9,98,22,91,11,4,0,2,0,0,2,8,1,11,15,15,9,12,9,0,7,12,3,9
+UBC,2012,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",224,67.81,14.05,100,30,189,32,2,0,1,0,0,0,5,27,32,5,17,30,17,29,20,23,19,18,11
+UBC,2012,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",103,67.06,14.94,100,22,95,7,0,0,1,0,0,2,1,4,7,11,10,14,8,16,10,4,9,4,9
+UBC,2013,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",223,69.47,13.51,96,34,202,19,2,0,0,0,0,0,1,18,19,11,15,19,31,22,33,21,20,12,18
+UBC,2013,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",80,58.75,15.72,95,14,66,11,3,0,0,0,1,2,6,2,11,15,7,18,9,3,4,1,4,2,3
+UBC,2014,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",200,68.88,14.94,98,35,175,20,2,0,3,0,0,0,7,13,20,14,13,21,24,13,17,22,24,8,19
+UBC,2014,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",70,59.66,19.42,100,10,54,13,1,0,2,0,1,3,8,1,13,14,4,9,6,3,6,2,2,1,7
+UBC,2015,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",213,68.04,14.85,98,17,189,22,2,0,0,0,1,0,2,19,22,14,19,23,24,14,19,22,25,17,12
+UBC,2015,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",46,66.5,17.74,96,19,38,6,0,0,2,0,1,1,1,3,6,3,3,5,4,5,4,3,5,1,5
+UBC,2015,W,CHEM,540,B,024,SEMINAR IN CHEM,"Ciufolini, Marco",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",246,66.4,14.85,98,29,211,29,6,0,0,0,0,1,11,17,29,21,22,23,25,19,34,20,25,5,17
+UBC,2016,W,CHEM,233,,199,Org Chem Biol Sc,"Ciufolini, Marco",234,67.39,15.35,94,29,194,34,4,0,2,0,0,1,9,24,34,15,18,20,17,22,23,18,28,20,13
+UBC,2017,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",236,63.77,15.37,100,28,195,37,3,0,1,0,0,2,10,25,37,31,24,24,23,15,20,14,21,11,12
+UBC,2017,W,CHEM,233,,108,Org Chem Biol Sc,"Ciufolini, Marco",220,57.94,17.04,97,23,163,53,4,0,0,0,0,5,35,13,53,42,19,21,13,18,16,9,12,7,6
+UBC,2018,W,CHEM,233,,110,Org Chem Biol Sc,"Ciufolini, Marco",205,75.69,12.72,100,31,197,4,2,0,2,0,0,0,4,0,4,8,4,14,20,20,25,17,34,22,33
+UBC,2018,W,CHEM,460,,166,ORGANIC SYNTHSIS,"Ciufolini, Marco",18,75.87,17,100,30,14,1,0,0,3,0,0,0,1,0,1,0,0,1,2,0,4,1,1,1,4
+UBC,2018,W,CHEM,560,,166,ORGANIC CHEM,"Ciufolini, Marco",11,75.63,14.5,95,50,8,0,0,3,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,2,1
+UBCV,2014,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,198,68.15151515,15.99039282,98.0,9.0,,,,,,,,,,,23,14,13,21,24,13,17,22,24,8,19
+UBCV,2014,W,CHEM,330,,108,Advanced Organic Chemistry,Marco Ciufolini,69,58.17391304,20.99226505,100.0,8.0,,,,,,,,,,,15,14,,9,6,,6,,,,7
+UBCV,2015,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,211,68.042654028,14.848218767,98.0,17.0,,,,,,,,,,,22,14,19,23,24,14,19,22,25,17,12
+UBCV,2015,W,CHEM,330,,108,Advanced Organic Chemistry,Marco Ciufolini,46,64.326086957,20.317539602,96.0,5.0,,,,,,,,,,,8,,,5,,5,,,5,,5
+UBCV,2016,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,240,66.40416667,14.84505691,98.0,29.0,,,,,,,,,,,29,21,22,23,25,19,34,20,25,5,17
+UBCV,2016,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Marco Ciufolini,230,66.89130435,16.17160737,94.0,9.0,,,,,,,,,,,36,15,18,20,17,22,23,18,28,20,13
+UBCV,2017,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,233,63.660944206,15.432306936,100.0,28.0,,,,,,,,,,,38,31,24,24,23,15,20,14,21,11,12
+UBCV,2017,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Marco Ciufolini;Martin Tanner,216,57.944444444,17.038306136,97.0,23.0,,,,,,,,,,,53,42,19,21,13,18,16,9,12,7,6
+UBCV,2018,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,211,70.582938389,15.114373257,100.0,12.0,,,,,,,,,,,10,19,13,30,16,15,23,15,27,19,24
+UBCV,2018,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Chia-Wei Lee;Condurache Vacariu;Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid;Zaile Zhuang,219,69.479452055,16.37051746,97.0,1.0,,,,,,,,,,,20,13,18,22,21,19,21,18,25,15,27
+UBCV,2018,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,203,75.39408867,13.332100936,100.0,16.0,,,,,,,,,,,5,8,4,14,20,20,25,18,34,22,33
+UBCV,2018,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,199,67.43718593,16.154394721,96.0,3.0,,,,,,,,,,,18,16,18,23,17,22,21,14,26,8,16
+UBCV,2018,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Chia-Wei Lee;Condurache Vacariu;Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid;Zaile Zhuang,213,75.807511737,12.094967763,100.0,37.0,,,,,,,,,,,5,7,8,17,8,23,23,24,40,28,30
+UBCV,2018,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Glenn Sammis;Gregory Richard Dake;Marco Ciufolini,18,72.555555556,21.088670564,100.0,15.0,,,,,,,,,,,2,0,0,1,2,0,5,2,1,1,4
+UBCV,2018,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Richard Dake;Marco Ciufolini,8,75.625,14.50061575,95.0,50.0,,,,,,,,,,,0,,,1,,,2,,1,2,1
+UBCV,2019,W,CHEM,449,,002,Seminar and Thesis,Christopher E Orvig;Dan Bizzotto;David Perrin;Derek Gates;Glenn Sammis;Harry Brumer;Jason Hein;Jayachandran Kizhakkedathu;Jose Rodriguez Nunez;Laurel Schafer;Marco Ciufolini;Mark Thachuk;Michael Wolf;Parisa Mehrkhodavandi;Robin Turner;Roman Krems;Suzana Straus;Tao Huan;Walter Algar;William Andrew Macfarlane;Yan Wang,21,87.80952381,5.372327686,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,7,10
+UBCV,2019,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Glenn Sammis;Gregory Dake;Marco Ciufolini,12,79.0,10.761885607,98.0,61.0,,,,,,,,,,,0,0,0,2,0,1,1,2,1,4,1
+UBCV,2019,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Dake;Marco Ciufolini,14,79.142857143,9.079623364,93.0,60.0,,,,,,,,,,,0,0,0,1,0,1,3,2,3,1,3
+UBCV,2020,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Alexander Clark;Hossein Yazdani Ahmadabadi;Jason Wickenden;Katherine Ryan;Leo Liu;Marco Ciufolini;Mostafa Hagar;Phillip Daniel Ivad;Taniya Adak,247,67.587044534,15.135415656,97.0,15.0,,,,,,,,,,,37,8,23,17,19,33,26,28,20,16,20
+UBCV,2020,W,CHEM,260,,109,Organic Chemistry for Engineers,Arvind Soni;Marco Ciufolini,128,61.7890625,10.948449244,93.0,20.0,,,,,,,,,,,14,8,17,39,15,17,7,5,1,3,2
+UBCV,2021,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jason Wickenden;Marco Ciufolini;Mia Stankovic;Nigare Raheem,218,63.105504587,18.051714421,100.0,0.0,,,,,,,,,,,34,34,17,28,14,16,16,11,18,13,17
+UBCV,2021,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jason Wickenden;Leo Liu;Marco Ciufolini;Nigare Raheem,243,69.263374486,17.572887648,100.0,11.0,,,,,,,,,,,29,20,11,15,13,28,32,19,30,15,31
+UBCV,2021,W,CHEM,260,,109,Organic Chemistry for Engineers,Jason Wickenden;Marco Ciufolini;Seyed Nasseri,135,66.192592593,16.364092606,100.0,12.0,,,,,,,,,,,15,17,11,14,10,18,12,5,16,5,12

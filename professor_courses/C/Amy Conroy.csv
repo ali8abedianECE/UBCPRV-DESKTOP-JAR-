@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CDST,250,A,001,INTRO TO CANADA,"Conroy, Amy",68,77.71,7.03,90,60,68,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,12,13,18,12,1
+UBC,2017,W,CDST,350,B,201,CDN STUDIES,"Conroy, Amy",31,77.9,9.08,92,54,30,0,0,0,1,0,0,0,0,0,0,1,1,0,2,2,4,2,12,3,3
+UBC,2018,S,ASTU,401,A,001,TPC ARTS STUDIES,"Conroy, Amy",27,75.85,6.94,85,53,27,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,2,7,7,2,0
+UBC,2018,W,ASTU,204,A,V09,TPC ARTS STUDIES,"Conroy, Amy",24,67.22,9.61,83,51,23,0,0,0,1,0,0,0,0,0,0,3,3,1,4,3,5,1,3,0,0
+UBC,2018,W,CDST,250,A,001,INTRO TO CANADA,"Conroy, Amy",70,75.73,6.85,91,51,70,0,0,0,0,0,0,0,0,0,0,1,1,2,1,10,18,18,12,6,1
+UBC,2018,W,CDST,350,A,001,CDN STUDIES,"Conroy, Amy",26,76.83,9.65,85,43,22,1,1,0,1,0,0,0,0,1,1,0,0,1,0,3,2,4,7,5,0
+UBCV,2017,W,CDST,250,A,001,Introduction to Canada,Amy Conroy;David Brownstein,68,77.705882353,7.028850617,90.0,60.0,,,,,,,,,,,0,0,0,2,4,6,12,13,18,12,1
+UBCV,2017,W,CDST,350,B,201,Canadian Studies,Amy Conroy;Andre Lamontagne;Rose-Marie Dechaine,30,77.9,9.083330697,92.0,54.0,,,,,,,,,,,0,1,1,0,2,2,4,2,12,3,3
+UBCV,2018,S,ASTU,401,A,001,Special Topics in Arts Studies,Amy Conroy,27,75.851851852,6.937654801,85.0,53.0,,,,,,,,,,,0,1,0,0,0,8,2,7,7,2,0
+UBCV,2018,W,ASTU,204,A,V09,Topics in Interdisciplinary Arts Studies,Amy Conroy,24,66.0,11.12771706,83.0,38.0,,,,,,,,,,,1,3,3,1,4,3,5,1,3,0,0
+UBCV,2018,W,CDST,250,A,001,Introduction to Canada,Amy Conroy;Harsha Thakoor;Marjan Abdolahi;Roisin Boyle;Simon Chilvers,70,75.728571429,6.852316711,91.0,51.0,,,,,,,,,,,0,1,1,2,1,10,18,18,12,6,1
+UBCV,2018,W,CDST,350,A,001,Canadian Studies,Amy Conroy;Matthew Dominic Evenden,25,74.28,13.154593621,85.0,34.0,,,,,,,,,,,2,0,1,1,0,3,2,4,7,5,0
+UBCV,2019,W,CDST,250,A,001,Introduction to Canada,Amy Conroy;Ayaka Yoshimizu;Marjan Abdolahi;Parboti Roy;Yuko Fedrau,67,76.895522388,8.051226762,89.0,28.0,,,,,,,,,,,1,0,0,1,1,4,18,16,21,5,0

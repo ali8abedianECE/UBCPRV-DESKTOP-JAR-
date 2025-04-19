@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,PHIL,310,,001,The Philosophy of Plato,Brooks Sommerville;Spencer Knafelc,77,74.480519481,11.392068328,92.0,34.0,5,1,4,2,4,6,13,13,16,9,4,,,
+UBCV,2019,W,PHIL,332,,002,Environmental Ethics,John Henry Beatty;Spencer Knafelc,87,80.655172414,8.095114212,94.0,55.0,0,0,2,3,2,3,8,12,23,28,6,,,
+UBCV,2020,S,PHIL,347,A,001,Philosophy of Religion,Anders Kraal;Nathan Cockram;Spencer Knafelc,132,75.78030303,7.417036706,100.0,58.0,0,0,1,5,8,17,35,31,22,7,6,,,
+UBCV,2020,W,PHIL,369,A,001,Philosophy of Science,Paul Bartha;Spencer Knafelc,29,79.310344828,8.799770485,94.0,61.0,0,0,0,1,2,2,4,5,7,3,5,,,
+UBCV,2020,W,PHIL,441,,002,Philosophy of Perception,Murat Aydede;Spencer Knafelc;Thomas Jacob Bittner,29,74.137931034,11.599643276,90.0,36.0,1,1,0,1,3,4,4,4,7,3,1,,,
+UBCV,2020,W,PHIL,451,,001,Philosophy of Mind,Murat Aydede;Spencer Knafelc,63,79.507936508,7.720673997,100.0,58.0,0,0,2,0,3,4,7,7,26,9,5,,,
+UBCV,2020,W,PHIL,451,,002,Philosophy of Mind,Evan Thompson;Spencer Knafelc,72,80.819444444,7.735643475,94.0,28.0,1,0,0,0,0,0,8,15,28,18,2,,,
+UBCV,2021,S,PHIL,375,A,001,Philosophy and Literature,Ceren Yildiz;Emily Tilton;Spencer Knafelc;Stefan Lukits,80,77.975,10.954422262,94.0,40.0,2,1,5,1,3,6,6,7,27,17,5,,,
+UBCV,2021,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis;Spencer Knafelc;Tyeson Daviesbarton,121,74.809917355,7.544660418,88.0,45.0,1,3,1,2,11,14,28,29,23,9,0,,,
+UBCV,2021,W,PHIL,101,,003,Introduction to Philosophy,Chase Dority;Eric Margolis;Spencer Knafelc,103,73.087378641,14.760245226,90.0,0.0,6,0,1,2,2,11,25,29,20,6,1,,,
+UBCV,2022,W,COGS,200,,004,Introduction to Cognitive Systems,Cristina Conati;Spencer Knafelc;James Kryklywy,163,77.2,,95.0,44.0,1,4,2,9,11,12,25,23,33,34,9,79.0,85.0,72.0
+UBCV,2023,W,PHIL,333,,003,Bio-Medical Ethics,Spencer Knafelc,30,84.4,,94.0,65.0,0,0,0,0,1,1,2,3,3,13,7,86.0,88.0,80.3

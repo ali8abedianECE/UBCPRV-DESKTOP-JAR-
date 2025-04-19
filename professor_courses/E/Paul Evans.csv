@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,POLI,461,,001,PEACE & CONFLICT,"Axworthy, Lloyd;Evans, Paul;Job, Brian",5,81.8,4.49,88,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,,,
+UBC,2002,W,POLI,563,,001,INTRNTL ORGANZTN,"Axworthy, Lloyd;Evans, Paul;Job, Brian",18,81.11,3.12,87,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,4,0,,,
+UBC,2003,W,POLI,461,,001,PEACE & CONFLICT,"Axworthy, Lloyd;Evans, Paul;Wallace, Michael",13,77.42,14.72,88,32,11,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,5,4,2,0,,,
+UBC,2015,W,POLI,464,A,001,PROB INTRL RELTN,"Evans, Paul",6,83.67,2.88,88,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,,,
+UBC,2015,W,POLI,464,B,001,PROB INTRL RELTN,"Evans, Paul",18,79.5,7.25,91,60,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,6,4,3,1,,,
+UBC,2017,W,POLI,460,B,001,FRGN POLICY ANLY,"Evans, Paul",26,81.4,4.18,90,74,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,6,1,,,
+UBC,2018,W,POLI,460,B,001,FRGN POLICY ANLY,"Evans, Paul",17,82.24,4.99,90,68,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,6,1,,,
+UBCV,2014,W,IAR,500,,001,Perspectives and Methods in Asia Pacific Policy Studies,Julian Dierkes;Paul Evans,16,84.8125,1.973786547,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,10,0,,,
+UBCV,2014,W,IAR,515,C,001,Topics in Asia Pacific Policy Studies,Paul Evans,12,83.83333333,1.94624736,86.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,5,0,,,
+UBCV,2015,W,IAR,515,C,001,Topics in Asia Pacific Policy Studies,Paul Evans,10,75.6,26.696649811,88.0,0.0,,,,,,,,,,,,,,,,,,,,,0,,,
+UBCV,2015,W,POLI,464,A,001,Problems in International Relations,Paul Evans,6,83.666666667,2.875181154,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,0,,,
+UBCV,2015,W,POLI,464,B,001,Problems in International Relations,Paul Evans,18,79.5,7.253802248,91.0,60.0,,,,,,,,,,,0,0,0,,,,,6,,,,,,
+UBCV,2016,W,GPP,590,,001,Capstone Project,Milind Kandlikar;Moura Quayle;Paul Evans,15,87.46666667,3.270357487,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,9,5,,,
+UBCV,2016,W,GPP,591,D,001,Special Topics in Public Policy,Paul Evans,12,81.66666667,5.245488682,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,6,0,,,
+UBCV,2017,W,GPP,591,D,001,Special Topics in Public Policy,Paul Evans,14,82.214285714,4.003432593,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,4,4,1,,,
+UBCV,2017,W,POLI,460,A,001,Foreign Policy Analysis,Allan Craigie;Paul Evans,16,77.9375,10.767040757,87.0,52.0,,,,,,,,,,,0,2,0,0,0,1,0,3,4,6,0,,,
+UBCV,2017,W,POLI,460,B,001,Foreign Policy Analysis,Paul Evans,25,81.4,4.183300133,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,8,8,6,1,,,
+UBCV,2018,W,GPP,591,D,001,Special Topics in Public Policy,Paul Evans,17,84.411764706,2.575335501,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,11,0,,,
+UBCV,2018,W,POLI,460,B,001,Foreign Policy Analysis,Paul Evans,17,82.235294118,4.994114183,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,6,1,,,
+UBCV,2019,W,RES,507,,101,Human Technological Systems,Milind Kandlikar;Paul Evans;Theresa Satterfield,8,87.5,4.208834246,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,3,,,
+UBCV,2020,S,GPP,591,D,001,Special Topics in Public Policy,Paul Evans,11,84.272727273,4.173509533,89.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,6,0,,,
+UBCV,2020,W,POLI,460,C,001,Foreign Policy Analysis,George Sharman;Paul Evans;Travis Liu,24,82.208333333,8.963593838,90.0,43.0,,,,,,,,,,,1,0,0,0,0,0,1,2,8,11,1,,,
+UBCV,2021,S,PPGA,591,D,001,Special Topics in Public Policy,Paul Evans,17,83.823529412,3.626901124,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,9,0,,,
+UBCV,2021,W,POLI,460,C,001,Foreign Policy Analysis,Alexander Butterfield;Paul Evans,17,82.235294118,2.462960915,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,10,3,0,,,
+UBCV,2021,S,PPGA,591,D,001,Special Topics in Public Policy,Paul Evans,17,83.8,,88.0,73.0,,,,,,,,,,,,,,,,,,,6,9,,85.0,86.0,84.0
+UBCV,2021,W,POLI,460,C,001,Foreign Policy Analysis,Paul Evans,17,82.2,,86.0,78.0,,,,,,,,,,,,,,,,,,,10,,,83.0,84.0,80.0
+UBCV,2022,S,PPGA,591,D,001,Special Topics in Public Policy,Paul Evans;Parvina Nadjibulla,17,83.5,,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,3,3,83.0,87.0,80.0
+UBCV,2022,W,POLI,460,C,001,Foreign Policy Analysis,Paul Evans,18,83.2,,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,4,2,83.0,85.0,80.5

@@ -1,0 +1,77 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",45,79.36,5.7,88,65,45,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,10,16,9,0
+UBC,2002,W,SOWK,310,,002,INTERVIEWING SKL,"Jones, Elizabeth",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,SOWK,316,,001,INT SEM IN SW TH,"Jones, Elizabeth",17,86.12,4.51,93,77,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,3
+UBC,2003,W,SOWK,305,,001,SOWK PRACTICE I,"Jones, Elizabeth;Kemp, Leslie;McNicoll, Paule",44,79.82,9.13,93,35,43,1,0,0,0,0,0,0,1,0,1,0,0,1,0,2,1,12,16,8,3
+UBC,2003,W,SOWK,310,,002,INTERVIEWING SKL,"Jones, Elizabeth",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,SOWK,316,,001,INT SEM IN SW TH,"Jones, Elizabeth",15,86.33,5.15,93,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,4
+UBC,2005,W,SOWK,305,,001,SOWK PRACTICE I,"Jones, Elizabeth;McNicoll, Paule;Riano-Alcala, Pilar",43,79.93,6.38,90,64,43,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,7,19,8,1
+UBC,2005,W,SOWK,310,,002,INTERVIEWING SKL,"Jones, Elizabeth",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,SOWK,316,,001,INT SEM IN SW TH,"Jones, Elizabeth",15,84.8,7.54,95,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,3,5
+UBC,2006,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",29,81.11,6.01,90,68,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,13,7,1
+UBC,2006,W,SOWK,502,,001,SOWK PRACTICE,"Jones, Elizabeth;McNicoll, Paule;Riano-Alcala, Pilar",9,85.22,2.91,90,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,1
+UBC,2006,W,SOWK,503,,001,COMMUNIC SKILLS,"Jones, Elizabeth",11,84.27,3.35,91,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,1
+UBC,2007,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",30,83.93,3.68,88,72,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,18,0
+UBC,2007,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,SOWK,502,,001,SOWK PRACTICE,"Jones, Elizabeth;McNicoll, Paule;Riano-Alcala, Pilar",14,81.93,3.85,88,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,4,0
+UBC,2007,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",16,87.81,3.54,94,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,7
+UBC,2009,S,SOWK,416,,601,ADV INT SEM IN SW TH,"Jones, Elizabeth",12,78,6.13,86,65,11,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,2,2,0
+UBC,2009,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",30,83.3,3.01,89,76,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15,11,0
+UBC,2009,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",15,81.93,5.7,89,67,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,6,0
+UBC,2009,W,SOWK,416,,002,ADV INT SEM IN SW TH,"Jones, Elizabeth",9,86.67,1.41,89,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+UBC,2009,W,SOWK,502,,001,SOWK PRACTICE,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",16,86.38,3.14,92,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,2
+UBC,2009,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",17,84.82,3.68,89,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,11,0
+UBC,2010,S,SOWK,416,,003,ADV INT SEM IN SW TH,"Jones, Elizabeth",5,84.8,4.82,91,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1
+UBC,2010,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",34,85.5,2.95,90,77,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,24,1
+UBC,2010,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",18,84.29,3.44,89,77,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,9,0
+UBC,2010,W,SOWK,502,,001,SOWK PRACTICE,"Jones, Elizabeth;McNicoll, Paule;Riano-Alcala, Pilar",9,85.33,2.35,89,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0
+UBC,2010,W,SOWK,503,,001,COMMUNIC SKILLS,"Jones, Elizabeth",9,85.44,2.88,91,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1
+UBC,2010,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",5,84.8,2.95,89,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2011,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;O'Neill, Brian;Yan, Miu Chung",33,83.48,2.72,88,75,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,19,11,0
+UBC,2011,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",16,82.75,2.27,87,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,2,0
+UBC,2011,W,SOWK,502,,001,SOWK PRACTICE,"Jones, Elizabeth;O'Neill, Brian;Riano-Alcala, Pilar",8,86.5,4.69,93,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2
+UBC,2011,W,SOWK,503,,001,COMMUNIC SKILLS,"Jones, Elizabeth",8,82.75,2.76,86,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0
+UBC,2011,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",14,89.14,3.13,93,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7
+UBC,2012,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",43,85.72,2.27,90,78,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,29,1
+UBC,2012,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",17,86.18,3.17,91,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12,2
+UBC,2012,W,SOWK,405,,001,SOWK PRACTICE II,"Jones, Elizabeth",33,88.03,2.47,92,83,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,20,9
+UBC,2012,W,SOWK,440,P,001,INTGRTV SEM SOWK,"Jones, Elizabeth",17,84.12,3.81,89,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,8,0
+UBC,2012,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",10,84.1,8.76,90,60,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,6,2
+UBC,2013,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Jones, Elizabeth;McNicoll, Paule",54,86.09,3.04,93,79,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,35,5
+UBC,2013,W,SOWK,310,,001,INTERVIEWING SKL,"Jones, Elizabeth",19,84.53,2.78,89,77,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,9,0
+UBC,2013,W,SOWK,405,,001,SOWK PRACTICE II,"Jones, Elizabeth",44,85.61,2.9,91,77,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,26,3
+UBC,2013,W,SOWK,440,P,001,INTGRTV SEM SOWK,"Jones, Elizabeth",19,84.11,2.54,88,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,9,0
+UBC,2013,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",16,87.13,2.8,92,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3
+UBC,2014,W,SOWK,305,,001,SOWK PRACTICE I,"Charles, Grant;Clark, Natalie;Jones, Elizabeth",64,85.23,3.73,91,76,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,18,34,6
+UBC,2014,W,SOWK,405,,001,SOWK PRACTICE II,"Jones, Elizabeth",53,84.64,4.09,93,71,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,19,23,7
+UBC,2014,W,SOWK,506,,001,DIR FLD STDIES I,"Jones, Elizabeth",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,SOWK,516,,001,FNDTN MSW SEMINR,"Jones, Elizabeth",12,87.17,5.25,94,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,5
+UBC,2014,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",16,87.13,3.34,93,81,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,4
+UBC,2015,W,SOWK,305,,001,SOWK PRACTICE I,"Clark, Natalie;Jamieson, Ally;Jones, Elizabeth",48,85.9,5.22,95,73,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,19,14
+UBC,2015,W,SOWK,405,,001,SOWK PRACTICE II,"Jones, Elizabeth",62,84.32,4.56,94,73,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,24,18,10
+UBC,2015,W,SOWK,506,,001,DIR FLD STDIES I,"Jones, Elizabeth",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,SOWK,516,,001,FNDTN MSW SEMINR,"Jones, Elizabeth",17,85.19,3.41,90,77,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,1
+UBC,2015,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",12,91.17,4.61,96,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8
+UBC,2016,W,SOWK,305,,001,SOWK PRACTICE I,"Allison, Kelly;Charles, Grant;Jamieson, Ally;Jones, Elizabeth",44,84.5,4.72,92,70,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,15,18,6
+UBC,2016,W,SOWK,506,,001,DIR FLD STDIES I,"Jones, Elizabeth",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,SOWK,516,,001,FNDTN MSW SEMINR,"Jones, Elizabeth",16,86.88,2.58,91,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,2
+UBC,2016,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",18,85.53,7.28,92,60,17,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,10,3
+UBC,2017,W,SOWK,502,,001,SOWK PRACTICE,"Chaparro-Pacheco, Ricardo;Jones, Elizabeth;Murray, Kathryn",13,89.08,3.38,94,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6
+UBC,2017,W,SOWK,506,,001,DIR FLD STDIES I,"Jones, Elizabeth",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,SOWK,516,,001,FNDTN MSW SEMINR,"Jones, Elizabeth",11,86.64,9.29,93,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,6
+UBC,2017,W,SOWK,524,A,001,SO SRV MGMT,"Jones, Elizabeth",13,87.08,1.66,90,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,1
+UBCV,2014,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Grant Charles;Natalie Clark,64,85.234375,3.732066909,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,18,34,6
+UBCV,2014,W,SOWK,405,,001,Social Work Practice II,Elizabeth Jones,53,84.64150943,4.086066096,93.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,19,23,7
+UBCV,2014,W,SOWK,516,,001,Foundation MSW Integrative Seminar,Elizabeth Jones,12,87.16666667,5.254146991,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,5
+UBCV,2014,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones,15,87.13333333,3.335237551,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2015,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Natalie Clark;Neringa Kubiliene,48,85.895833333,5.219601286,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,6,8,19,14
+UBCV,2015,W,SOWK,405,,001,Social Work Practice II,Elizabeth Jones,62,84.322580645,4.562046541,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,8,24,18,10
+UBCV,2015,W,SOWK,516,,001,Foundation MSW Integrative Seminar,Elizabeth Jones,16,85.1875,3.410156399,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,6,8,
+UBCV,2015,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones,12,91.166666667,4.608950449,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,8
+UBCV,2016,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Grant Charles;Kelly Allison,44,84.5,4.722533809,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,15,18,6
+UBCV,2016,W,SOWK,516,,001,Foundation MSW Integrative Seminar,Elizabeth Jones,16,86.875,2.578759392,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,12,2
+UBCV,2016,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones,17,85.52941177,7.281119823,92.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,3,10,3
+UBCV,2017,W,SOWK,502,,001,Social Work Practice,Elizabeth Jones;Grant Charles;Kathryn Murray;Ricardo Chaparro-Pacheco,13,89.076923077,3.377907105,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,6
+UBCV,2017,W,SOWK,516,,001,Foundation MSW Integrative Seminar,Elizabeth Jones,11,86.636363636,9.287332526,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,4,6
+UBCV,2017,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones,13,87.076923077,1.656378503,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,1
+UBCV,2018,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones;Grant Charles,13,86.538461538,1.71344607,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,1

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,APBI,414,,001,Animals and Global Issues,Alexandra Protopopova;Bailey Eagan;David Fraser,25,91.24,5.141984053,99.0,81.0,0,0,0,0,0,0,0,0,3,4,18,,,
+UBCV,2021,W,AANB,550,,001,Topics in Animal Welfare,Alexandra Protopopova,11,92.727272727,2.611164839,95.0,90.0,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,APBI,290,,002,Introductory Topics in Applied Biology,Alexandra Protopopova;Lexis Ly,28,88.75,9.788977172,100.0,56.0,0,0,1,0,1,0,0,1,2,4,19,,,
+UBCV,2021,W,APBI,414,,001,Animals and Global Issues,Alexandra Protopopova;Amelia Macrae;Lexis Ly;Sean Graham,22,84.954545455,5.963997323,94.0,70.0,0,0,0,0,0,2,0,0,7,8,5,,,
+UBCV,2021,W,APBI,490,,002,Advanced Topics in Applied Biology,Alexandra Protopopova;Amin Azadian,30,91.7,5.266353839,98.0,73.0,0,0,0,0,0,0,1,1,0,5,23,,,
+UBCV,2021,W,AANB,550,,001,Topics in Animal Welfare,Alexandra Protopopova,11,92.7,,95.0,90.0,0,0,0,0,0,0,0,0,0,0,11,95.0,95.0,90.0
+UBCV,2021,W,APBI,290,,002,Introductory Topics in Applied Biology,Alexandra Protopopova,28,88.8,,100.0,56.0,,,,,,,,,,,19,91.0,94.0,86.8
+UBCV,2021,W,APBI,490,,002,Advanced Topics in Applied Biology,Alexandra Protopopova,30,91.7,,98.0,73.0,,,,,,,,,,,23,92.5,94.8,91.0
+UBCV,2022,W,APBI,214,,002,Animal Sheltering and Companion Animal Support Services,Alexandra Protopopova,46,91.1,,100.0,0.0,1,0,0,0,0,1,0,0,2,2,40,94.0,96.0,92.0
+UBCV,2022,W,APBI,313,,001,Experimental Analysis of Animal Behaviour,Alexandra Protopopova,40,95.0,,100.0,78.0,0,0,0,0,0,0,0,1,1,3,35,97.0,98.0,93.8
+UBCV,2023,W,APBI,214,,002,Animal Sheltering and Companion Animal Support Services,Alexandra Protopopova,50,93.5,,100.0,57.0,0,0,1,0,0,1,0,1,1,3,43,96.0,97.0,93.0
+UBCV,2023,W,APBI,313,,001,Experimental Analysis of Animal Behaviour,Alexandra Protopopova,40,93.8,,99.0,85.0,0,0,0,0,0,0,0,0,0,6,34,94.5,97.0,91.0

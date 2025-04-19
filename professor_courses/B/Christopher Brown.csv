@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,JRNL,503,B,001,JRNL PRAC&STDS,"Brown, Christopher;Bula, Frances;Gretsinger, Kathryn",30,83.55,7.6,90,54,29,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,8,18,1
+UBC,2016,W,JRNL,515,C,001,INTEGRATED JOURN,"Brown, Christopher;Bula, Frances;Gretsinger, Kathryn",31,82.63,9.04,88,40,29,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,9,18,0
+UBCV,2016,W,JRNL,503,B,001,Journalism Practice and Standards,Christopher Brown;Eva Uguen-Csenge;Frances Bula;Kathryn Gretsinger;Stefan Labbe,29,83.55172414,7.59504635,90.0,54.0,,,,,,,,,,,0,,,1,,,,,8,18,1
+UBCV,2016,W,JRNL,515,C,001,Integrated Journalism,Christopher Brown;Eva Uguen-Csenge;Frances Bula;Kathryn Gretsinger;Stefan Labbe,30,82.63333333,9.03816938,88.0,40.0,,,,,,,,,,,1,0,0,0,1,0,0,1,9,18,0

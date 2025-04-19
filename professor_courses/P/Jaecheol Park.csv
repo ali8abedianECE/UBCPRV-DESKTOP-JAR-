@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,COMM,337,,201,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,33,78.272727273,9.23739928,91.0,60.0,0,0,0,3,3,3,0,7,7,7,3,,,
+UBCV,2020,W,COMM,337,,202,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,37,77.567567568,10.876939267,98.0,56.0,0,0,2,3,2,1,8,6,3,6,6,,,
+UBCV,2020,W,COMM,337,,203,Business Programming and Analytics,Jaecheol Park;Jeremy Gill;Mi Zhou;Rui Cao,41,80.609756098,9.856160634,98.0,58.0,0,0,2,1,1,4,3,4,10,7,9,,,
+UBCV,2020,W,COMM,438,,202,Management of Information Systems,Arslan Aziz;Jaecheol Park,39,78.461538462,8.720351737,91.0,57.0,0,0,2,2,1,0,7,6,11,8,2,,,
+UBCV,2021,W,BA,515,,301,Fundamentals of Analytics and Tech,Gene Lee;Jaecheol Park;Myunghwan Lee;Xiaoke Zhang,48,85.458333333,3.121363132,91.0,78.0,0,0,0,0,0,0,0,2,13,27,6,,,
+UBCV,2021,W,COMM,438,,101,Management of Information Systems,Arslan Aziz;Jaecheol Park;Syed Mohannad,37,74.837837838,5.927869739,88.0,60.0,0,0,0,1,2,8,8,11,4,3,0,,,
+UBCV,2021,W,COMM,438,,102,Management of Information Systems,Arslan Aziz;Jaecheol Park;Syed Mohannad,31,76.774193548,9.52788776,91.0,41.0,1,0,0,0,1,4,7,7,6,1,4,,,
+UBCV,2023,W,COMM,337,,101,Business Programming and Analytics,Myunghwan Lee;Jaecheol Park,50,78.1,,92.0,61.0,0,0,0,2,1,5,6,12,14,9,1,78.0,83.0,74.3
+UBCV,2023,W,COMM,337,,102,Business Programming and Analytics,Myunghwan Lee;Jaecheol Park,48,77.1,,90.0,55.0,0,0,1,1,4,5,8,6,14,6,3,78.0,83.0,72.8

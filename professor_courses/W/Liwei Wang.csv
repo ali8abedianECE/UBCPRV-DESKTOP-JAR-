@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,256,,101,Numerical Methods for Analysis,Liwei Wang,199,77.04522613,11.99802024,100.0,26.0,6,,,10,17,15,27,19,40,27,33,,,
+UBCO,2015,W,APSC,256,,101,Numerical Methods for Analysis,Fang Fang;Liwei Wang;Mahdieh Aliaslkhiabani;Mark Bergen;Peyman Amiri;Severin Nowak;Wenbo Zheng,249,75.128514056,13.441013239,97.0,23.0,14,3,11,12,22,17,19,38,41,37,35,,,
+UBCO,2015,W,ENGR,350,,201,Linear Circuit Theory,Liwei Wang;Mahdieh Aliaslkhiabani;Richard Worthing,46,77.065217391,10.596440018,98.0,52.0,0,,,,,10,6,,9,5,7,,,
+UBCO,2015,W,ENGR,351,,201,Microelectronics I,Liwei Wang;Mahdieh Aliaslkhiabani;Yanqi Yu,44,77.772727273,9.939031904,98.0,57.0,0,0,,,,7,5,,11,8,6,,,
+UBCO,2016,W,APSC,256,,101,Numerical Methods for Analysis,Fang Fang;Liwei Wang;Peyman Amiri;Yanqi Yu,106,75.24528302,11.09166252,98.0,28.0,2,0,4,5,11,13,13,17,15,18,8,,,
+UBCO,2016,W,ENGR,350,,201,Linear Circuit Theory,Liwei Wang,50,76.24,14.22639111,99.0,31.0,2,1,1,3,5,4,4,2,13,6,9,,,
+UBCO,2016,W,ENGR,458,,201,Power Electronics,Liwei Wang;Tobias Lindsay;Yanqi Yu,46,78.65217391,9.307625049,93.0,48.0,1,0,1,2,1,4,5,3,14,12,3,,,
+UBCO,2017,W,ENGR,350,,201,Linear Circuit Theory,Liwei Wang;Peyman Amiri,61,75.06557377,12.90590156,95.0,20.0,1,2,2,3,5,7,7,7,13,7,7,,,
+UBCO,2017,W,ENGR,458,,201,Power Electronics,Liwei Wang;Peyman Amiri,42,78.857142857,9.148027719,95.0,61.0,0,0,0,2,3,3,8,4,9,7,6,,,
+UBCO,2017,W,ENGR,558,,101,Power Electronics,Liwei Wang,6,85.833333333,7.600438584,94.0,77.0,0,0,0,0,0,0,0,1,2,0,3,,,
+UBCO,2018,W,APSC,256,,101,Numerical Methods for Analysis,Liwei Wang;Nicholas Swart;Xian Jin;Yuri Reis Rodrigues;Yuri Rodrigues,114,74.385964912,14.35609628,100.0,24.0,8,4,5,5,9,7,11,20,18,14,13,,,
+UBCO,2018,W,APSC,256,,102,Numerical Methods for Analysis,Jintao Han;Liwei Wang,172,74.924418605,12.929411922,98.0,32.0,5,7,6,14,13,18,14,23,18,34,20,,,
+UBCO,2018,W,ENGR,350,,201,Linear Circuit Theory,Anne Crawford;Ashraf Ali Khan;Jonathan Holzman;Liwei Wang;Yuri Reis Rodrigues;Yuri Rodrigues,68,75.835820896,11.975476222,95.0,28.0,2,1,1,1,7,9,10,12,7,6,12,,,
+UBCO,2018,W,ENGR,454,,101,Motor Drive Systems,Alireza Eyvazizadeh Khosroshahi;Levi Bieber;Liwei Wang,67,77.805970149,8.169119247,98.0,51.0,0,1,0,0,5,6,9,15,18,7,6,,,
+UBCO,2018,W,ENGR,458,,201,Power Electronics,Liwei Wang;Wilson Eberle;Yanqi Yu,69,74.550724638,10.063820219,94.0,54.0,0,1,3,6,9,10,6,15,6,6,7,,,
+UBCO,2018,W,ENGR,551,,001,High Power Electronic Converters for Power System Applications,Liwei Wang,7,92.714285714,1.704336206,95.0,91.0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCO,2018,W,ENGR,598,A,001,Topics in Engineering,Liwei Wang;Mina Hoorfar,6,95.666666667,2.338090389,98.0,93.0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCO,2019,W,APSC,255,,101,Electric Circuits and Power,Adel Tabkhpour Langeroudi;Katherine Luckasavitch;Kathrin Schmidt;Liwei Wang;Mandeep Chhajer Jain;Rafaeal Hossain Rakin;Richard Klukas;Yuri Reis Rodrigues;Yuri Rodrigues,117,73.820512821,10.729121975,100.0,50.0,0,3,8,11,8,19,21,18,10,9,10,,,
+UBCO,2019,W,APSC,256,,101,Numerical Methods for Analysis,Alireza Eyvazizadeh Khosroshahi;Jintao Han;Liwei Wang;Nicholas Swart;Sadhak Gautam;Yuanshi Zhang;Yuri Reis Rodrigues;Yuri Rodrigues,154,78.194805195,15.14076777,98.0,0.0,5,1,6,3,10,8,20,14,26,36,25,,,
+UBCO,2019,W,APSC,256,,102,Numerical Methods for Analysis,Alireza Eyvazizadeh Khosroshahi;Jintao Han;Liwei Wang;Mehran Shirazi;Sadhak Gautam;Yuanshi Zhang;Yuri Reis Rodrigues;Yuri Rodrigues,146,75.767123288,12.62894382,98.0,10.0,4,2,5,11,11,10,24,12,33,19,15,,,
+UBCO,2019,W,ENGR,454,,101,Motor Drive Systems,Alireza Eyvazizadeh Khosroshahi;Liwei Wang;Majid Moradzadeh,66,80.318181818,8.519947799,96.0,60.0,0,0,0,2,1,7,8,8,16,12,12,,,
+UBCO,2019,W,ENGR,458,,201,Power Electronics,Joel Pfannschmidt;Liwei Wang;Morad Abdelaziz;Peyman Amiri;Wilson Eberle;Yanqi Yu,60,77.966666667,9.554423355,99.0,60.0,0,0,0,3,7,6,8,4,13,12,7,,,
+UBCO,2020,W,APSC,255,,101,Electric Circuits and Power,Alireza Eyvazizadeh Khosroshahi;Hoda Dadashzadeh;Ian Foulds;Liwei Wang;Yuri Rodrigues;Ziad Abdelsamad,144,66.354166667,17.365051612,100.0,8.0,38,3,4,11,16,11,15,8,15,11,12,,,
+UBCO,2020,W,APSC,256,,101,Numerical Methods for Analysis,Alireza Eyvazizadeh Khosroshahi;Hoda Dadashzadeh;Jintao Han;Jonathan Holzman;Liwei Wang;Majid Moradzadeh;Nicholas Swart;Yuanshi Zhang;Yuri Reis Rodrigues;Yuri Rodrigues,180,73.583333333,14.99715988,98.0,14.0,17,2,4,8,10,17,23,23,33,22,21,,,
+UBCO,2020,W,APSC,256,,102,Numerical Methods for Analysis,Alireza Eyvazizadeh Khosroshahi;Hoda Dadashzadeh;Jintao Han;Jonathan Holzman;Liwei Wang;Majid Moradzadeh;Yuanshi Zhang;Yuri Reis Rodrigues;Yuri Rodrigues,117,74.264957265,14.05248362,96.0,25.0,7,3,5,3,12,12,12,8,21,20,14,,,
+UBCO,2020,W,ENGR,454,,101,Motor Drive Systems,Alireza Eyvazizadeh Khosroshahi;Liwei Wang;Majid Moradzadeh,79,78.734177215,9.714790285,93.0,50.0,0,1,3,2,4,7,9,5,22,16,10,,,
+UBCO,2020,W,ENGR,458,,201,Power Electronics,Hoda Dadashzadeh;Joel Pfannschmidt;Liwei Wang;Peyman Amiri;Wilson Eberle,62,82.096774194,9.807507458,97.0,50.0,0,1,0,0,3,7,4,5,13,13,16,,,
+UBCO,2020,W,ENGR,551,,001,High Power Electronic Converters for Power System Applications,Liwei Wang,7,90.142857143,2.672612419,93.0,85.0,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCO,2021,W,APSC,256,,101,Numerical Methods for Analysis,Hesameddin Mokhtarzadeh;Hoda Dadashzadeh;Jintao Han;Liwei Wang;Majid Moradzadeh;Ogechuku Onyenenue;Sara Ghaderahmadi,128,72.4921875,13.806306954,99.0,30.0,5,6,9,11,16,9,9,16,15,18,14,,,
+UBCO,2021,W,ENGR,454,,101,Motor Drive Systems,Liwei Wang;Ogechuku Onyenenue;Saeed Sharifi,57,72.807017544,13.100488808,100.0,29.0,2,0,2,8,5,6,8,6,11,5,4,,,
+UBCO,2021,W,ENGR,458,,201,Power Electronics,Hoda Dadashzadeh;Liwei Wang;Paul Yoo;Wilson Eberle,72,73.75,13.753104643,99.0,31.0,3,3,1,5,3,12,8,11,11,6,9,,,
+UBCO,2021,W,APSC,256,,101,Numerical Methods for Analysis,Liwei Wang,128,72.5,,99.0,30.0,5,6,9,11,16,9,9,16,15,18,14,73.5,83.5,64.0
+UBCO,2021,W,ENGR,454,,101,Motor Drive Systems,Liwei Wang,57,72.8,,100.0,29.0,,,,8,,6,8,6,11,,,74.0,81.0,65.0
+UBCO,2021,W,ENGR,458,,201,Power Electronics,Liwei Wang,72,73.8,,99.0,31.0,,,,,,12,8,11,11,6,9,76.0,82.0,68.0
+UBCO,2022,W,APSC,256,,102,Numerical Methods for Analysis,Liwei Wang,138,74.2,,99.0,33.0,5,5,7,12,8,15,12,16,18,28,12,76.0,85.0,66.0
+UBCO,2022,W,ENGR,454,,101,Motor Drive Systems,Liwei Wang,26,78.0,,94.0,41.0,1,0,0,1,0,4,2,4,7,3,4,80.0,85.3,72.3
+UBCO,2022,W,ENGR,551,,001,High Power Electronic Converters for Power System Applications,Liwei Wang,8,89.9,,93.0,82.0,0,0,0,0,0,0,0,0,1,0,7,90.0,91.5,90.0
+UBCO,2023,W,ENGR,458,,201,Power Electronics,Liwei Wang,57,74.4,,95.0,39.0,4,0,0,3,4,8,9,5,10,6,7,75.0,84.0,68.8
+UBCO,2023,W,ENGR,558,,201,Power Electronics,Liwei Wang,14,86.6,,99.0,69.0,0,0,0,0,0,1,0,0,5,3,5,86.5,90.8,83.0

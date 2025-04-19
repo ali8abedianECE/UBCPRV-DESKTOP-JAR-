@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,COML,500,A,001,INTRO TO COML,"Scarfo, Daniel",5,85,5.1,90,78,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+UBC,2002,W,COML,500,B,002,INTRO TO COML,"Scarfo, Daniel",5,83.75,3.5,88,80,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2002,W,SPAN,220,C,001,INTR MT HISP L A,"Scarfo, Daniel;Urrello, Antonio",34,81.53,7.08,90,67,32,0,0,0,2,0,0,0,0,0,0,0,0,0,1,4,2,4,5,13,3
+UBC,2002,W,SPAN,490,,101,SP-AM LIT 20C,"Scarfo, Daniel",30,73.53,17.4,92,0,29,1,0,0,0,1,0,0,0,0,1,0,1,2,6,2,2,4,4,4,4
+UBC,2002,W,SPAN,505,,201,STD PEN&LT-AM CL,"Scarfo, Daniel",6,86.67,3.56,91,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2

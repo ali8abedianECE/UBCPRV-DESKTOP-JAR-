@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,COMM,497,,101,NEW ENTER DEVEL,"Zhang, Wei",25,80,11.95,90,29,24,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,3,3,7,8,2,,,
+UBC,2014,W,SPPH,541,,002,ECONOMIC EVAL,"Zhang, Wei",9,87.43,4.93,95,82,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,,,
+UBCV,2014,W,SPPH,541,,002,Economic Evaluation,Wei Zhang,7,87.42857143,4.928053803,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2015,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Alla Pryyma;Christine Rogers;Jason Wickenden;Nicholas Hein;Omar Sadek;Peter Edwards;Phillip Daniel Ivad;Rosanne Persaud;Veronica Carta;Wei Ling Chiu;Wei Zhang;Xiaohua Zhang,52,71.711538462,7.736687588,86.0,54.0,,,,,,,,,,,0,,,,10,10,7,7,9,,0,,,
+UBCV,2015,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Wei Zhang,9,83.777777778,4.684489774,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,5,0,,,
+UBCV,2017,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Shan Jiang;Wei Zhang,19,87.789473684,4.779341509,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,9,7,,,
+UBCV,2018,W,SPHA,531,,001,Economic Evaluation,Aslam Anis;Seraphine Zeitouny;Wei Zhang,30,88.1,4.887351726,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,3,4,19,,,
+UBCV,2018,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Seraphine Zeitouny;Wei Zhang,12,86.333333333,1.61432977,88.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,0,,,
+UBCV,2019,W,SPHA,531,,001,Economic Evaluation,Aslam Anis;Wei Zhang,28,88.535714286,6.315660388,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,8,15,,,
+UBCV,2019,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Seraphine Zeitouny;Wei Zhang,6,86.833333333,5.776388722,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,2,,,
+UBCV,2020,W,SPHA,531,,001,Economic Evaluation,Seraphine Zeitouny;Wei Zhang,35,88.257142857,2.883450314,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,24,9,,,
+UBCV,2020,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Seraphine Zeitouny;Wei Zhang;Weihua Zhang,14,90.428571429,3.227627986,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,9,,,
+UBCV,2021,W,SPHA,531,,001,Economic Evaluation,Jacynthe L'Heureux;Wei Zhang,41,89.926829268,3.670083404,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,14,24,,,
+UBCV,2021,W,SPPH,541,,002,Economic Evaluation,Candice Chiu;Wei Zhang;Weihua Zhang,9,90.0,5.656854249,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,6,,,
+UBCV,2021,W,SPHA,531,,001,Economic Evaluation,Wei Zhang,41,89.9,,98.0,81.0,,,,,,,,,,,,,,,,,,,,14,24,90.0,92.0,87.0
+UBCV,2021,W,SPPH,541,,002,Economic Evaluation,Wei Zhang,9,90.0,,95.0,76.0,,,,,,,,,,,,,,,,,,,,,6,92.0,93.0,89.0
+UBCV,2022,W,SPHA,531,,001,Economic Evaluation,Wei Zhang,32,89.1,,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,5,20,91.0,92.0,85.8
+UBCV,2022,W,SPPH,541,,002,Economic Evaluation,Wei Zhang,25,89.8,,96.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,7,17,91.0,92.0,89.0
+UBCV,2023,W,PHAR,424,,001,Financing and Therapeutics in the Canadian Health Care System,Wei Zhang,10,91.0,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,92.0,93.0,88.5

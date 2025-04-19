@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,SCIE,300,,201,COMMUNICATE SCIE,"Dunham, Bruce;Jandciu, Eric;Steeves, John;Stewart, Jaclyn",14,81.62,5.81,88,68,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,6,5,0
+UBC,2011,W,SCIE,300,,210,COMMUNICATE SCIE,"Dunham, Bruce;Jandciu, Eric;Steeves, John;Stewart, Jaclyn",19,80.12,4.46,88,74,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,5,3,0
+UBC,2011,W,SCIE,300,,212,COMMUNICATE SCIE,"Dunham, Bruce;Jandciu, Eric;Steeves, John;Stewart, Jaclyn",15,76.73,7.2,88,58,15,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,5,5,1,0
+UBC,2012,W,BIOL,458,,201,DEVLPMT NEURBIOL,"Steeves, John",74,81.05,6.94,92,60,74,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,7,1,29,23,6
+UBC,2013,W,BIOL,458,,201,DEVLPMT NEURBIOL,"Steeves, John",128,74.57,12.07,95,0,125,1,2,0,0,1,0,0,0,0,1,0,10,6,13,13,15,13,29,18,8
+UBC,2014,W,BIOL,458,,201,DEVLPMT NEURBIOL,"Steeves, John",105,79.01,11.24,98,0,104,1,0,0,0,1,0,0,0,0,1,0,0,4,7,7,11,13,28,21,13
+UBC,2015,W,BIOL,458,,201,DEVLPMT NEURBIOL,"Steeves, John",124,83.68,6.74,97,55,124,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,9,10,31,43,25
+UBC,2016,W,BIOL,458,,201,DEVLPMT NEURBIOL,"Steeves, John",154,84.13,7.5,98,60,152,0,2,0,0,0,0,0,0,0,0,0,0,3,3,4,8,9,39,44,42
+UBCV,2014,W,BIOL,458,,201,Developmental Neurobiology,John Steeves,105,79.00952381,11.23909321,98.0,0.0,,,,,,,,,,,,,,,7,7,11,13,28,21,13
+UBCV,2015,W,BIOL,458,,201,Developmental Neurobiology,Doug Robert Brown;John Steeves;Paloma Stanar,124,83.677419355,6.744523086,97.0,55.0,,,,,,,,,,,0,0,,,,,9,10,31,43,25
+UBCV,2016,W,BIOL,458,,201,Developmental Neurobiology,Danielle Mceacherrn;Doug Robert Brown;John Steeves;Ylonna Kurtzke,152,84.13157895,7.498948457,98.0,60.0,,,,,,,,,,,0,0,0,3,3,4,8,9,39,44,42

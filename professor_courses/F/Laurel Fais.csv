@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",58,69.8,11.75,91,37,52,3,1,0,2,0,0,0,1,2,3,3,4,2,10,7,7,5,11,2,1
+UBC,2006,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",59,70.14,13.76,94,30,55,4,0,0,0,0,0,0,2,2,4,4,3,2,9,3,12,7,9,5,1
+UBC,2007,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",50,71.71,12.52,95,43,46,2,1,0,1,0,0,0,0,2,2,3,2,6,3,7,5,8,4,4,4
+UBC,2009,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",49,70.41,13.55,88,17,45,4,0,0,0,0,1,0,1,2,4,0,2,4,3,7,10,8,6,5,0
+UBC,2010,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",59,70.02,9.62,87,38,56,3,0,0,0,0,0,0,2,1,3,0,3,3,10,10,11,12,5,2,0
+UBC,2011,W,COGS,200,,001,Int Cog Sys,"Arasanipalai Kandhad, Padmapri;Fais, Laurel;Mole, Christopher",124,69.28,10.66,89,12,116,4,3,0,1,0,1,0,0,3,4,6,7,16,15,17,21,12,17,5,0
+UBC,2011,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",74,74.08,11.38,93,47,71,1,2,0,0,0,0,0,0,1,1,5,2,5,8,9,6,3,19,12,2
+UBC,2012,W,COGS,200,,001,Int Cog Sys,"Arasanipalai Kandhad, Padmapri;Fais, Laurel;Mole, Christopher",112,70.3,8.58,90,51,106,0,6,0,0,0,0,0,0,0,0,4,11,13,9,13,24,18,11,1,2
+UBC,2012,W,COGS,200,,002,Int Cog Sys,"Fais, Laurel;Mole, Christopher;Vatikiotis-Bateson, Eric",73,71.1,12.16,90,21,69,3,1,0,0,0,0,1,1,1,3,2,3,6,9,6,16,8,14,4,1
+UBC,2012,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",127,70.65,8.94,90,45,123,2,2,0,0,0,0,0,0,2,2,3,9,11,19,20,20,21,13,6,1
+UBC,2013,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",100,69.01,11.32,91,27,94,3,3,0,0,0,0,1,0,2,3,4,8,17,10,14,14,10,7,7,3
+UBC,2014,W,COGS,200,,001,Int Cog Sys,"Fais, Laurel;Mole, Christopher;Woodham, Robert",106,69.89,10.27,89,40,101,3,1,1,0,0,0,0,0,3,3,7,7,8,12,18,19,13,10,7,0
+UBC,2014,W,COGS,200,,002,Int Cog Sys,"Bernardet, Ulysses;Fais, Laurel;Mole, Christopher",74,68.09,10,86,38,63,2,4,1,3,0,0,0,1,1,2,2,6,11,10,12,4,6,10,2,0
+UBC,2014,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",63,67.79,12.79,88,23,56,5,2,0,0,0,0,2,0,3,5,2,3,7,9,8,11,5,9,2,0
+UBC,2015,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",131,66.77,9.09,86,43,122,3,4,1,0,0,0,0,0,3,3,11,8,18,22,25,17,7,11,3,0
+UBC,2015,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",89,74.06,15.6,97,26,82,6,0,1,0,0,0,1,2,3,6,4,3,6,6,8,6,9,16,11,13
+UBC,2016,W,COGS,200,,001,Int Cog Sys,"Bittner, Thomas Jacob;Conati, Cristina;Fais, Laurel",157,70.97,10.65,90,28,141,4,11,0,0,0,0,1,0,3,4,6,12,11,12,16,28,24,23,8,1
+UBC,2016,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",133,69.97,8.83,91,34,121,2,8,0,2,0,0,0,1,1,2,4,10,8,13,34,18,16,16,1,1
+UBC,2016,W,ENGL,140,,001,CHALL LANG MYTHS,"Brinton, Laurel;Fais, Laurel",12,50,31.36,80,0,9,3,0,0,0,3,0,0,0,0,3,1,2,1,0,1,2,1,1,0,0
+UBC,2016,W,LING,140,,002,CHALLG LANG MYTH,"Brinton, Laurel;Fais, Laurel",24,73.35,9.87,85,47,22,1,1,0,0,0,0,0,0,1,1,0,2,0,3,1,4,3,8,1,0
+UBC,2016,W,PSYC,336,,101,PSYC LANGUAGE I,"Fais, Laurel",112,67.3,12.11,94,33,99,5,4,0,4,0,0,0,1,4,5,13,8,11,13,20,9,5,11,5,4
+UBC,2017,W,COGS,200,,002,Int Cog Sys,"Fais, Laurel;Mackworth, Alan;Taylor, Ryan",149,71.1,9.21,88,41,144,1,4,0,0,0,0,0,0,1,1,6,10,13,19,17,27,20,25,7,0
+UBC,2017,W,ENGL,140,,001,CHALL LANG MYTHS,"Brinton, Laurel;Fais, Laurel",16,66.67,19.85,84,0,14,1,1,0,0,1,0,0,0,0,1,0,0,3,1,3,3,1,3,0,0
+UBC,2017,W,LING,140,,002,CHALLG LANG MYTH,"Brinton, Laurel;Fais, Laurel",43,70.52,7.71,87,56,42,0,1,0,0,0,0,0,0,0,0,0,3,5,6,9,9,2,7,1,0
+UBC,2017,W,PSYC,336,,101,PSYC LANGUAGE I,"Fais, Laurel",136,66.93,14.14,92,14,122,8,5,0,0,0,1,2,1,4,8,12,19,11,14,14,12,10,20,6,4
+UBC,2018,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",122,71.29,10.45,89,37,110,3,4,0,3,0,0,0,1,2,3,5,6,11,8,24,13,10,26,7,0
+UBC,2018,W,COGS,200,,004,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel",158,62.44,9.59,82,37,137,7,6,0,2,0,0,0,3,4,7,22,29,20,27,11,12,9,7,0,0
+UBC,2018,W,ENGL,140,,001,CHALL LANG MYTHS,"Brinton, Laurel;Fais, Laurel",8,67.5,17.72,84,29,7,1,0,0,0,0,0,1,0,0,1,0,1,0,1,0,2,1,2,0,0
+UBC,2018,W,LING,140,,002,CHALLG LANG MYTH,"Brinton, Laurel;Fais, Laurel",39,71.22,11.8,90,30,35,2,2,0,0,0,0,0,1,1,2,0,4,1,5,3,10,5,2,4,1
+UBC,2018,W,PSYC,336,,001,PSYC LANGUAGE I,"Fais, Laurel",145,64.07,15.42,92,2,122,15,8,0,0,1,1,3,1,9,15,16,15,16,17,15,12,7,14,6,4
+UBCV,2014,W,COGS,200,,001,Introduction to Cognitive Systems,Christopher Mole;Laurel Fais;Robert Woodham,104,69.89423077,10.26627835,89.0,40.0,,,,,,,,,,,3,7,7,8,12,18,19,13,10,7,0
+UBCV,2014,W,COGS,200,,002,Introduction to Cognitive Systems,Christopher Mole;David Marino;Laurel Fais;Sara Lariviere;Ulysses Bernardet,69,66.07246377,13.53026981,86.0,17.0,,,,,,,,,,,5,2,6,11,11,12,4,6,10,2,0
+UBCV,2014,W,PSYC,336,,001,The Psychology of Language I,Laurel Fais,61,67.78688525,12.78555794,88.0,23.0,,,,,,,,,,,5,,,7,9,8,11,5,9,,0
+UBCV,2015,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Hanxing Zhang;Katya Celine Feffer;Katya Feffer;Laurel Fais;Thomas Jacob Bittner,126,66.73015873,9.066344532,86.0,43.0,,,,,,,,,,,3,11,8,19,22,25,17,7,11,3,0
+UBCV,2015,W,PSYC,336,,001,The Psychology of Language I,Katya Celine Feffer;Laurel Fais,88,74.056818182,15.600882641,97.0,26.0,,,,,,,,,,,6,,,6,6,8,6,9,16,11,13
+UBCV,2016,W,COGS,200,,001,Introduction to Cognitive Systems,Cristina Conati;Dinah Hassrick;Laurel Fais;Nirel Marofsky;Thomas Jacob Bittner,146,70.99315069,10.61521132,90.0,28.0,,,,,,,,,,,4,6,12,11,12,16,29,24,23,8,1
+UBCV,2016,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Daniel Frederiks;Daniel Theodoor Frederiks;Laurel Fais;Tamara Lottering;Thomas Jacob Bittner,125,69.128,11.19834089,91.0,0.0,,,,,,,,,,,4,4,10,8,13,34,18,16,16,1,1
+UBCV,2016,W,ENGL,140,,001,Challenging Language Myths,Laurel Brinton;Laurel Fais,12,50.0,31.35717984,80.0,0.0,,,,,,,,,,,3,1,2,1,0,1,2,1,1,0,0
+UBCV,2016,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais,23,73.34782609,9.874709182,85.0,47.0,,,,,,,,,,,1,0,2,0,3,1,4,3,8,1,0
+UBCV,2016,W,PSYC,336,,101,The Psychology of Language I,Laurel Fais;Natasha Pestonji,108,65.09259259,16.44562666,94.0,1.0,,,,,,,,,,,9,13,8,11,13,20,9,5,11,5,4
+UBCV,2017,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Christopher Mole;Emily Stryker;Hudhaifah Bin Zahid;Laurel Fais;Molly Sun;Ryan Taylor,145,71.103448276,9.20652255,88.0,41.0,,,,,,,,,,,1,6,10,13,19,17,27,20,25,7,0
+UBCV,2017,W,ENGL,140,,001,Challenging Language Myths,Laurel Brinton;Laurel Fais,15,66.666666667,19.848233699,84.0,0.0,,,,,,,,,,,1,0,0,3,1,3,3,1,3,0,0
+UBCV,2017,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais;Tomoharu Hirota,42,70.523809524,7.705677651,87.0,56.0,,,,,,,,,,,0,0,3,5,6,9,9,2,7,1,0
+UBCV,2017,W,PSYC,336,,101,The Psychology of Language I,Laurel Fais;Natasha Pestonji,131,66.946564885,14.086716589,92.0,14.0,,,,,,,,,,,8,12,19,11,14,15,12,10,20,6,4
+UBCV,2018,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Andrew Raitt;Laurel Fais;Thomas Jacob Bittner;Zoey Gray,118,70.406779661,11.898601001,89.0,22.0,,,,,,,,,,,5,4,8,11,8,25,14,10,26,7,0
+UBCV,2018,W,COGS,200,,004,Introduction to Cognitive Systems,Christopher Mole;Gabrielle Lardner;James Kryklywy;Laurel Fais;Olha Sokolovska;Rebecca Reh;Ryan Taylor;Thomas Jacob Bittner,152,62.309210526,9.418337442,82.0,37.0,,,,,,,,,,,7,24,30,23,28,12,12,9,7,0,0
+UBCV,2018,W,ENGL,140,,001,Challenging Language Myths,Laurel Brinton;Laurel Fais;Tomoharu Hirota,8,67.5,17.720045147,84.0,29.0,,,,,,,,,,,1,0,1,0,1,0,2,1,2,0,0
+UBCV,2018,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais,37,71.216216216,11.79721044,90.0,30.0,,,,,,,,,,,2,0,4,1,5,3,10,5,2,4,1
+UBCV,2018,W,PSYC,336,,001,The Psychology of Language I,Laurel Fais;Stephanie Martin,136,64.529411765,14.523514102,92.0,13.0,,,,,,,,,,,14,16,15,16,17,15,12,7,14,6,4
+UBCV,2019,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Andrew Raitt;Anne Canute;Laurel Fais;Rebecca Reh;Ryan Taylor;Thomas Jacob Bittner,111,73.27027027,8.14967478,93.0,38.0,,,,,,,,,,,1,2,4,2,10,24,27,16,19,5,1
+UBCV,2019,W,COGS,200,,004,Introduction to Cognitive Systems,Gabrielle Lardner;James Kryklywy;Laura Cang;Laurel Fais;Robert Hebert;Robert Joseph Hebert;Thomas Jacob Bittner,163,73.435582822,8.287307572,88.0,31.0,,,,,,,,,,,1,2,4,8,13,32,29,32,28,14,0

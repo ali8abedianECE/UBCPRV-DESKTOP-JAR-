@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,FRST,452,,201,CST FLD SCHOOL,"Griess, Holger",56,80.75,10.65,97,58,56,0,0,0,0,0,0,0,0,0,0,0,1,3,2,9,3,8,8,8,14
+UBC,2018,W,FOPR,264,,101,GEO FRST & TRANS,"Griess, Holger;Roeser, Dominik",45,83.34,13.87,98,19,43,1,1,0,0,0,1,0,0,0,1,0,1,1,1,1,2,4,9,5,19
+UBC,2018,W,FOPR,362,,201,FRST HRVSTNG SYS,"Griess, Holger;Roeser, Dominik",19,85.63,6.7,94,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,4,8
+UBC,2018,W,FOPR,464,,201,FORSTRY MACHINES,"Griess, Holger;Roeser, Dominik",15,86.93,7.29,95,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,7
+UBC,2018,W,FRST,452,,201,CST FLD SCHOOL,"Griess, Holger;Roeser, Dominik",63,79.67,8.72,98,62,63,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,14,9,11,8,10
+UBCV,2017,W,FRST,452,,201,Coastal Field School,Adam David Polinko;Adam Polinko;Charles Lyons;David Hamilton;Holger Griess;Jing (Alice) Miao;Jing Miao;Kathleen Coupland;Kathleen Dawn Coupland,56,80.75,10.65193111,97.0,58.0,,,,,,,,,,,0,0,1,3,2,9,3,8,8,8,14
+UBCV,2018,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",David Hamilton;Dominik Roeser;Holger Griess;Jarret Christopher Lontayao,44,83.340909091,13.866377575,98.0,19.0,,,,,,,,,,,1,0,1,1,1,1,2,4,9,5,19
+UBCV,2018,W,FOPR,362,,201,Forest Harvesting Systems,Dominik Roeser;Holger Griess;Jarret Christopher Lontayao,19,85.631578947,6.701662533,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,4,8
+UBCV,2018,W,FOPR,464,,201,Forestry Machines,Dominik Roeser;Holger Griess,15,86.933333333,7.29448585,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,3,3,7
+UBCV,2018,W,FRST,452,,201,Coastal Field School,Charles Lyons;David Hamilton;Dominik Roeser;Holger Griess;Kathleen Coupland;Kathleen Dawn Coupland,63,79.666666667,8.721497356,98.0,62.0,,,,,,,,,,,0,0,0,1,3,7,14,9,11,8,10
+UBCV,2019,W,FOPR,264,,101,Introduction to Forest Operations,Bailey Williams;Dominik Roeser;Holger Griess;Jarret Christopher Lontayao,46,85.760869565,8.160023918,98.0,46.0,,,,,,,,,,,1,0,0,0,0,0,1,3,13,15,13
+UBCV,2019,W,FOPR,362,,201,Harvesting Systems and Forest Access,Dominik Roeser;Holger Griess,31,90.903225806,2.992822956,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,21
+UBCV,2019,W,FOPR,464,,201,Operational Planning and Management,Dominik Roeser;Harry William Nelson;Holger Griess,13,88.461538462,7.827466434,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,5,6
+UBCV,2020,W,FOPR,264,,101,Introduction to Forest Operations,Brandon Bung;Dominik Roeser;Eric Nance;Holger Griess;Jinming Ke,60,79.583333333,8.741662695,97.0,59.0,,,,,,,,,,,0,0,1,2,2,7,9,9,11,12,7
+UBCV,2020,W,FOPR,362,,201,Harvesting Systems and Forest Access,Brandon Bung;Dominik Roeser;Eric Nance;Holger Griess,32,88.78125,7.601928342,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,3,0,2,9,17
+UBCV,2020,W,FOPR,464,,201,Operational Planning and Management,Dominik Roeser;Holger Griess,6,87.5,2.949576241,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2
+UBCV,2020,W,FRST,452,,201,Coastal Field School,Dominik Roeser;Holger Griess,39,88.58974359,8.248502093,100.0,62.0,,,,,,,,,,,0,0,0,1,0,1,2,0,4,10,21
+UBCV,2020,W,FRST,507,C,201,Topics in Forest Science,Adam Polinko;Dominik Roeser;Holger Griess,14,93.357142857,2.951066114,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,12
+UBCV,2021,W,FOPR,264,,101,Introduction to Forest Operations,Dominik Roeser;Eric Nance;Holger Griess;Mingrui Liu;Rosalia Jaffray,36,82.277777778,21.648637187,97.0,0.0,,,,,,,,,,,3,0,0,0,0,1,1,1,3,13,14
+UBCV,2021,W,FOPR,362,,201,Harvesting Systems and Forest Access,Dominik Roeser;Eric Nance;Holger Griess;Lee Salmon;Mingrui Liu,35,87.228571429,7.73489311,95.0,52.0,,,,,,,,,,,0,1,0,0,0,1,0,1,3,14,15
+UBCV,2021,W,FOPR,464,,201,Operational Planning and Management,Dominik Roeser;Eric Nance;Holger Griess;Lee Salmon,15,82.2,3.233750587,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,3,0
+UBCV,2021,W,FRST,452,,201,Coastal Field School,Dominik Roeser;Fleur Damen;Holger Griess;Michael Stefanuk;Sabrina St-Onge;Steffen Lahrsen,70,82.085714286,7.008778878,97.0,63.0,,,,,,,,,,,0,0,0,1,0,3,10,10,19,17,10

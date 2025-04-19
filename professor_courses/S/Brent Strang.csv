@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FIST,100,,004,INTRO FILM STDY,"Strang, Brent",95,79.55,9.7,93,26,94,1,0,0,0,0,0,1,0,0,1,1,1,2,3,3,14,11,33,19,7,,,
+UBC,2018,W,FIST,230,,001,INT ASIAN CINEMA,"Strang, Brent",45,82.76,16.56,98,11,40,2,1,0,0,0,1,0,1,0,2,1,0,0,0,2,4,1,6,12,14,,,
+UBC,2018,W,FIST,430,,001,STDY AUTEURISM,"Strang, Brent",18,86.39,6.27,97,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5,6,,,
+UBC,2018,W,FIST,436,,001,AMER CIN 1960 ﾖ,"Strang, Brent",13,81.08,13.98,91,40,11,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,2,4,3,,,
+UBCV,2018,W,FIST,100,,004,Introduction to Film Studies,Brent Strang;Mathieu Aubin;Robyn Citizen;Sarah Shamash;Zoe Laks,95,79.547368421,9.696202833,93.0,26.0,,,,,,,,,,,1,1,1,2,3,3,14,11,33,19,7,,,
+UBCV,2018,W,FIST,230,,001,Introduction to Asian Cinema,Brent Strang,44,82.681818182,16.177464554,98.0,11.0,,,,,,,,,,,2,1,0,0,0,2,4,1,8,12,14,,,
+UBCV,2018,W,FIST,430,,001,Studies in Auteurism,Brent Strang,18,86.388888889,6.269805222,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,5,6,,,
+UBCV,2018,W,FIST,436,,001,Seminar in American Cinema Since 1960,Brent Strang,13,81.461538462,13.451241483,91.0,40.0,,,,,,,,,,,1,0,0,0,0,0,1,1,2,5,3,,,
+UBCV,2019,W,FIST,100,,004,Introduction to Film Studies,Brent Strang;Christine Evans;Gabrielle Berry;Gerrit Krueper;Marcus Prasad,91,79.868131868,10.042364475,94.0,30.0,,,,,,,,,,,2,0,1,1,2,6,7,15,27,18,12,,,
+UBCV,2019,W,FIST,210,,002,Early Cinema,Brent Strang;Joe Clark;Joseph Clark,33,77.636363636,7.465831257,92.0,62.0,,,,,,,,,,,0,0,0,1,3,4,3,9,6,5,2,,,
+UBCV,2019,W,FIST,240,,001,Media Industries,Brent Strang;Ernest Mathijs;Gerrit Krueper;Joceline Andersen,34,80.411764706,15.396020043,97.0,17.0,,,,,,,,,,,2,0,1,0,0,1,3,6,5,6,10,,,
+UBCV,2019,W,FIST,240,,002,Media Industries,Brent Strang,39,74.794871795,22.910787493,97.0,13.0,,,,,,,,,,,4,3,0,0,0,1,5,4,7,4,11,,,
+UBCV,2019,W,FIST,436,A,001,Seminar in American Cinema Since 1960,Brent Strang,16,87.125,6.510248331,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,6,2,7,,,
+UBCV,2020,W,FIST,100,,004,Introduction to Film Studies,Brent Strang;Harrison Wade;Jemma Dashkewytch;Kathleen Wise;Sarah Shamash,96,77.40625,11.232076365,94.0,33.0,,,,,,,,,,,3,1,1,4,5,10,8,15,18,24,7,,,
+UBCV,2020,W,FIST,220,,002,Hollywood Cinema 1930-1960,Brent Strang;Harrison Wade;Michael Stringer;Sarah Shamash,75,87.626666667,15.148609189,100.0,0.0,,,,,,,,,,,2,0,0,1,0,5,1,5,7,10,44,,,
+UBCV,2020,W,FIST,230,,001,Introduction to Asian Cinema,Brent Strang;Mila Zuo;Robyn Citizen,38,80.552631579,6.545877054,91.0,63.0,,,,,,,,,,,0,0,0,1,0,3,4,6,12,10,2,,,
+UBCV,2020,W,FIST,240,,001,Media Industries,Brent Strang;Brian Mcilroy;Ernest Mathijs;Joceline Andersen,36,79.333333333,16.212869668,95.0,0.0,,,,,,,,,,,1,0,0,2,2,0,4,3,11,5,8,,,
+UBCV,2020,W,FIST,240,,002,Media Industries,Andrew Kirby;Brent Strang;Joe Clark,42,79.380952381,13.153785287,96.0,19.0,,,,,,,,,,,1,0,2,0,1,5,2,3,12,12,4,,,
+UBCV,2021,W,FIST,100,,004,Introduction to Film Studies,Andrew Kirby;Brent Strang;Gabrielle Berry;Michael Stringer,84,76.226190476,11.2049378,92.0,0.0,,,,,,,,,,,2,0,0,3,3,11,11,18,24,11,1,,,
+UBCV,2021,W,FIST,200,,002,Introduction to Canadian Cinema,Brent Strang;Christine Evans;Lisa Coulthard,39,77.897435897,10.698733009,94.0,50.0,,,,,,,,,,,0,2,0,3,1,3,4,6,7,10,3,,,
+UBCV,2021,W,FIST,230,,001,Introduction to Asian Cinema,Brent Strang;Mila Zuo;Su-Anne Yeo,41,85.804878049,8.706949845,100.0,59.0,,,,,,,,,,,0,0,1,0,1,1,2,3,5,12,16,,,
+UBCV,2021,W,FIST,240,,001,Media Industries,Brent Strang,40,76.3,11.207140581,95.0,42.0,,,,,,,,,,,1,1,2,0,3,4,6,6,7,8,2,,,
+UBCV,2021,W,FIST,240,,002,Media Industries,Brent Strang;Ernest Mathijs,38,77.868421053,10.790814544,95.0,38.0,,,,,,,,,,,1,0,2,0,2,4,1,8,9,9,2,,,
+UBCV,2021,W,FIST,436,,001,Seminar in American Cinema Since 1960,Brent Strang;Lisa Coulthard,21,74.761904762,18.835882676,93.0,21.0,,,,,,,,,,,3,0,0,0,0,0,5,4,2,4,3,,,
+UBCV,2021,W,FIST,100,,004,Introduction to Film Studies,Brent Strang,84,76.2,,92.0,0.0,,,,,,,,,,,,,,,,11,11,18,24,11,,78.0,83.0,72.0
+UBCV,2021,W,FIST,200,,002,Introduction to Canadian Cinema,Brent Strang,39,77.9,,94.0,50.0,,,,,,,,,,,,,,,,,,6,7,10,,80.0,86.0,72.5
+UBCV,2021,W,FIST,240,,001,Media Industries,Brent Strang,40,76.3,,95.0,42.0,,,,,,,,,,,,,,,,,6,6,7,8,,78.0,84.3,71.0
+UBCV,2021,W,FIST,240,,002,Media Industries,Brent Strang,38,78.3,,95.0,56.0,,,,,,,,,,,,,,,,,,8,9,9,,80.5,85.0,73.8
+UBCV,2021,W,FIST,436,,001,Seminar in American Cinema Since 1960,Brent Strang,19,81.5,,93.0,73.0,,,,,,,,,,,,,,,,,,,,,,79.0,87.0,75.5
+UBCV,2022,W,FIST,220,,002,Hollywood Cinema 1930-1960,Brent Strang,110,74.1,,97.0,0.0,,,,,,,,,,,6,3,6,5,7,10,12,15,17,16,13,76.5,85.0,68.0
+UBCV,2022,W,FIST,240,,002,Media Industries,Brent Strang,36,82.3,,95.0,63.0,,,,,,,,,,,0,0,0,1,0,2,3,6,8,11,5,84.0,86.3,77.8
+UBCV,2023,W,CINE,100,,004,Introduction to Cinema Studies,Alessandra Santos;Brent Strang,89,81.9,,94.0,50.0,,,,,,,,,,,0,1,1,1,0,7,7,15,14,30,13,84.0,88.0,77.0
+UBCV,2023,W,CINE,332,,001,Studies in Genre or Period,Brent Strang,23,77.4,,94.0,2.0,,,,,,,,,,,1,0,0,1,1,0,3,4,6,3,4,82.0,85.5,76.0
+UBCV,2023,W,CINE,436,,001,Seminar in American Cinema Since 1960,Brent Strang,27,82.0,,92.0,56.0,,,,,,,,,,,0,0,1,0,0,0,3,6,5,8,4,84.0,87.0,77.5

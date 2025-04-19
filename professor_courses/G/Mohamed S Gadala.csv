@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,MECH,462,,201,Finite Element Analysis,Mohamed Gadala;Mohamed S Gadala,22,80.31818182,16.36310124,92.0,18.0,,,,,,,,,5,,7
+UBCV,2014,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mohamed Gadala;Mohamed S Gadala,8,87.625,6.610327418,97.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,MECH,550,P,201,Special Advanced Courses,Mohamed Gadala;Mohamed S Gadala,7,90.0,5.446711546,97.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,MECH,462,,201,Finite Element Analysis,Ali Roustaei;Farzad Hemmati;Mohamed Gadala;Mohamed S Gadala,15,72.333333333,12.488089564,90.0,50.0,0,,,,,,,,,,
+UBCV,2015,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mohamed Gadala;Mohamed S Gadala,7,77.428571429,8.997354108,90.0,60.0,0,0,0,,,,,,,,
+UBCV,2016,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Alptunc Comak;Mohamed Gadala;Mohamed S Gadala,8,86.5,8.176621726,96.0,70.0,0,0,0,0,0,1,0,0,1,2,4
+UBCV,2017,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Masoud Malakoutian;Mohamed Gadala;Mohamed S Gadala,12,84.5,7.192167457,94.0,65.0,0,0,0,0,1,0,0,0,4,5,2

@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,CPSC,554,M,201,Topics in Human-Computer Interaction,Joanna Mcgrenere,13,86.15384615,3.158220856,89.0,78.0,0,0,0,0,0,0,0,,,11,0,,,
+UBCV,2016,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Francesco Vitale;Joanna Mcgrenere;Jung Ho Chun,49,77.65306122,6.79016145,94.0,65.0,0,0,0,0,4,4,9,11,15,4,2,,,
+UBCV,2016,W,CPSC,554,M,201,Topics in Human-Computer Interaction,Joanna Mcgrenere,8,86.0,5.529143566,93.0,74.0,0,0,0,0,0,0,1,0,0,5,2,,,
+UBCV,2017,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere,45,79.311111111,5.648097919,90.0,68.0,0,0,0,0,0,4,10,9,14,6,2,,,
+UBCV,2017,W,CPSC,544,,101,Human Computer Interaction,Joanna Mcgrenere,20,85.6,4.333468284,93.0,77.0,0,0,0,0,0,0,0,1,6,10,3,,,
+UBCV,2018,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Hanieh Shakeri;Izabelle Janzen;Joanna Mcgrenere,33,78.090909091,5.99668469,86.0,66.0,0,0,0,0,3,3,2,10,10,5,0,,,
+UBCV,2018,W,CPSC,544,,101,Human Computer Interaction,Joanna Mcgrenere,19,86.842105263,3.287402857,93.0,81.0,0,0,0,0,0,0,0,0,3,12,4,,,
+UBCV,2019,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Sang-Wha Sien,30,82.166666667,7.547931132,90.0,66.0,0,0,0,0,2,3,1,2,4,16,2,,,
+UBCV,2019,W,CPSC,544,,101,Human Computer Interaction,Joanna Mcgrenere,14,87.0,4.803844614,95.0,78.0,0,0,0,0,0,0,0,1,3,6,4,,,
+UBCV,2020,W,CPSC,110,,103,"Computation, Programs, and Programming",Alexander Steele;Amanda Tupper;Bronwyn Damm;Daniel Ryu;Dao Minh Phuong Nguyen;Jack James Pitcher;James Riddell;Jiayi Fan;Joanna Mcgrenere;Laura Schmid;Mara Solen;Ryan Mehri;Will Alvarez;Yang Qin;Yiyi Liu,236,77.538135593,17.862674358,100.0,0.0,31,0,1,6,4,11,23,19,41,40,60,,,
+UBCV,2020,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Thitaree Tanprasert,25,78.88,7.693720383,91.0,62.0,0,0,0,2,0,3,2,6,5,6,1,,,
+UBCV,2020,W,CPSC,544,,101,Human Computer Interaction,Dongwook Yoon;Heather O'Brien;Joanna Mcgrenere;Sang-Wha Sien,24,89.208333333,1.413572922,91.0,85.0,0,0,0,0,0,0,0,0,0,16,8,,,
+UBCV,2021,W,CPSC,110,,104,"Computation, Programs, and Programming",Alexander Steele;Alexander Suyanto;Amanda Tupper;Dmitriy Burenok;Edward Jiayu Zeng;Eric Kuo;Franklin Ma;Joanna Mcgrenere;Kaiwen Zhou;Karl Sheng;Mara Solen;Meredith Clark;Petr Fenster;Ryan Acharya;Sassan Shokoohi;Spencer Yao;Susan Chung;William Xiao,198,74.464646465,19.761940107,100.0,20.0,47,0,0,1,3,7,16,25,25,27,47,,,
+UBCV,2021,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Thitaree Tanprasert,36,78.25,8.462944439,93.0,63.0,0,0,0,1,3,6,3,5,8,7,3,,,
+UBCV,2021,W,CPSC,110,,104,"Computation, Programs, and Programming",Joanna Mcgrenere,197,74.8,,100.0,20.0,45,,,,,7,16,25,25,27,47,80.0,89.0,67.0
+UBCV,2021,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere,36,78.3,,93.0,63.0,,,,,,6,,,8,7,,79.0,85.0,69.0

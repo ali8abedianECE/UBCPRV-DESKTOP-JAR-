@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,EESC,121,,001,Earth History,John Greenough,103,68.69902913,15.87378833,98.0,0.0,4,9,8,15,15,9,11,5,11,6,10,,,
+UBCO,2014,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,27,79.2962963,9.718399737,95.0,60.0,0,0,0,,,,6,,7,,5,,,
+UBCO,2014,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,14,73.78571429,19.81521782,98.0,17.0,,,,,,,,,,,,,,
+UBCO,2016,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,20,78.85,10.97017488,98.0,56.0,0,0,1,1,1,1,2,3,5,1,5,,,
+UBCO,2016,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,19,77.68421053,9.83786693,91.0,55.0,0,0,1,1,1,1,3,3,4,2,3,,,
+UBCO,2016,W,EESC,423,,001,Tracers of Natural Processes,John Greenough;Zhen Zhang,54,75.85185185,12.60788524,96.0,20.0,1,2,0,2,3,11,4,8,10,7,6,,,
+UBCO,2017,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,14,77.857142857,10.18186278,93.0,60.0,0,0,0,2,0,3,1,0,4,2,2,,,
+UBCO,2017,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,17,76.764705882,8.370554132,94.0,67.0,0,0,0,0,1,6,2,4,1,0,3,,,
+UBCO,2018,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,17,77.588235294,10.136930154,96.0,60.0,0,0,0,1,2,2,2,2,4,1,3,,,
+UBCO,2018,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,7,76.285714286,9.340133577,91.0,64.0,0,0,0,0,2,0,1,1,2,0,1,,,
+UBCO,2018,W,EESC,356,,001,Stratigraphy and Sedimentology,Bernard Bauer;Craig Nichol;Edward Hornibrook;Ian Saunders;John Greenough;Michelle Lamberson;Riccardo Graziani,36,69.111111111,9.993648777,84.0,43.0,3,1,1,1,8,7,5,4,6,0,0,,,
+UBCO,2018,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,18,77.055555556,12.614054823,90.0,35.0,1,0,0,0,1,2,1,4,3,5,1,,,
+UBCO,2019,W,EESC,200,,001,Mineralogy,John Greenough;Lutfi Ersay;Yuan Chen,19,76.210526316,17.472451165,100.0,19.0,1,0,0,2,0,3,3,0,4,3,3,,,
+UBCO,2019,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,16,76.1875,11.542493954,96.0,50.0,0,1,1,0,0,3,2,1,5,1,2,,,
+UBCO,2019,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,16,78.25,8.644844321,98.0,66.0,0,0,0,0,2,2,2,2,3,4,1,,,
+UBCO,2019,W,EESC,512,,001,Applied Data Analysis in Geosciences,John Greenough;Mathieu Bourbonnais,8,90.0,5.318431563,96.0,83.0,0,0,0,0,0,0,0,0,1,3,4,,,
+UBCO,2020,W,EESC,200,,001,Mineralogy,John Greenough;Katharina Holt;Yuan Chen,20,80.25,5.981330604,94.0,72.0,0,0,0,0,0,0,6,4,6,3,1,,,
+UBCO,2020,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough;Riccardo Graziani,14,75.5,15.042248195,99.0,40.0,1,0,1,0,1,1,2,2,4,0,2,,,
+UBCO,2020,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough;Riccardo Graziani,6,77.166666667,9.042492282,84.0,60.0,0,0,0,1,0,0,1,0,4,0,0,,,
+UBCO,2020,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,36,77.472222222,7.439224657,92.0,61.0,0,0,0,2,2,5,5,4,12,4,2,,,
+UBCO,2021,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,9,71.888888889,27.122151668,95.0,11.0,1,1,0,1,0,0,0,0,1,2,3,,,
+UBCO,2021,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,19,79.210526316,8.63184638,92.0,63.0,0,0,0,1,1,3,3,1,4,2,4,,,
+UBCO,2021,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,9,71.9,,95.0,11.0,,,,,,,,,,,,85.0,90.0,60.0
+UBCO,2021,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,19,79.2,,92.0,63.0,,,,,,,,,,,,81.0,85.0,72.5
+UBCO,2022,S,EESC,335,,001,Field Techniques,Brendan Dyck;John Greenough;Edward Hornibrook;Kyle Larson;Sheena Spencer;Isabelle Therriault;Jerry Vandenberg,36,88.3,,97.0,70.0,0,0,0,0,0,1,2,1,3,11,18,89.5,93.3,85.8
+UBCO,2023,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,23,78.17,,95.0,60.0,0,0,0,3,1,2,5,1,4,1,6,78.0,87.5,71.0
+UBCO,2023,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,17,77.88,,91.0,67.0,0,0,0,0,1,2,4,3,5,0,2,77.0,83.0,73.0
+UBCO,2023,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,27,78.52,,94.0,65.0,0,0,0,0,2,7,3,3,4,2,6,76.0,87.5,70.5

@@ -1,0 +1,116 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,MATH,223,,201,LINEAR ALGEBRA I,"Karu, Kalle",17,80.93,12.65,99,60,14,0,1,1,1,0,0,0,0,0,0,0,0,2,0,1,2,1,2,1,5,,,
+UBC,2003,W,MATH,422,,101,GROUPS&FIELDS,"Karu, Kalle",10,90.1,5.55,98,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,,,
+UBC,2003,W,MATH,501,,101,ALGEBRA I,"Karu, Kalle",5,90.6,2.51,94,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2005,W,MATH,100,,104,DF CALC AP PH SC,"Karu, Kalle",167,72.23,16.44,100,15,149,13,2,0,3,0,1,3,6,3,13,5,6,10,9,19,19,18,26,13,24,,,
+UBC,2005,W,MATH,101,,206,INT CALC AP PH S,"Karu, Kalle",134,60.01,17.78,98,0,108,17,6,0,3,2,0,2,13,0,17,28,11,16,8,14,9,5,7,3,7,,,
+UBC,2006,W,MATH,100,,104,DF CALC AP PH SC,"Karu, Kalle",203,74.22,13.78,99,16,198,4,1,0,0,0,1,2,1,0,4,9,15,15,7,23,28,16,38,25,22,,,
+UBC,2006,W,MATH,101,,204,INT CALC AP PH S,"Karu, Kalle",218,64.19,17.85,99,0,179,32,2,0,5,2,1,3,12,14,32,29,24,24,5,17,16,5,28,21,10,,,
+UBC,2006,W,MATH,532,,101,ALGB GEOMETRY I,"Karu, Kalle",13,94.09,3.08,99,90,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,,,
+UBC,2007,W,MATH,223,,101,LINEAR ALGEBRA I,"Karu, Kalle",52,77,11.23,100,55,49,0,2,0,1,0,0,0,0,0,0,0,2,5,2,6,4,6,8,7,9,,,
+UBC,2007,W,MATH,422,,101,GROUPS&FIELDS,"Karu, Kalle",16,83.75,14.47,99,40,15,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2,2,2,1,8,,,
+UBC,2007,W,MATH,501,,101,ALGEBRA I,"Karu, Kalle",5,93.8,2.59,97,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2009,W,MATH,221,,102,MATRIX ALGEBRA,"Karu, Kalle",133,70.43,13.74,94,23,124,3,4,0,2,0,0,1,2,0,3,13,11,11,10,5,20,17,18,8,11,,,
+UBC,2009,W,MATH,412,,201,ADV LINEAR ALGBR,"Karu, Kalle",15,79.93,25.51,99,0,13,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,2,3,6,,,
+UBC,2009,W,MATH,502,,201,ALGEBRA II,"Karu, Kalle",9,96.44,2.13,98,91,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2010,W,MATH,152,,205,LINEAR SYSTEMS,"Karu, Kalle",134,64.17,16.09,96,23,115,16,1,0,2,0,0,5,4,7,16,19,18,9,7,13,12,9,16,6,6,,,
+UBC,2010,W,MATH,322,,101,INTR ALGEBRA,"Karu, Kalle",36,74.59,12.65,97,45,33,1,2,0,0,0,0,0,0,1,1,0,2,3,2,5,5,5,2,3,6,,,
+UBC,2010,W,MATH,532,,101,ALGB GEOMETRY I,"Karu, Kalle",21,97.48,3.34,100,90,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,,,
+UBC,2011,W,MATH,221,,202,MATRIX ALGEBRA,"Karu, Kalle",104,69.58,14.21,99,31,94,5,3,0,2,0,0,0,3,2,5,6,12,13,5,9,13,10,11,5,10,,,
+UBC,2011,W,MATH,615,A,101,ALGEBRAIC GEOMET,"Karu, Kalle",7,94.17,4.92,100,85,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2012,W,MATH,300,,201,INTR COMPLEX VAR,"Karu, Kalle",48,63.69,17.95,97,29,34,8,3,0,2,0,0,1,2,5,8,5,5,2,2,6,2,2,4,2,4,,,
+UBC,2012,W,MATH,342,,201,ALGBR & COD THRY,"Karu, Kalle",25,72.26,14.37,93,27,22,1,2,0,0,0,0,1,0,0,1,0,0,4,3,3,3,2,1,4,2,,,
+UBC,2012,W,MATH,422,,101,GROUPS&FIELDS,"Karu, Kalle",9,83.33,7.79,95,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,3,,,
+UBC,2012,W,MATH,501,,101,ALGEBRA I,"Karu, Kalle",5,90.6,4.1,95,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2013,W,MATH,200,,202,CALCULUS 3,"Karu, Kalle",127,66.72,15.22,99,26,111,12,1,0,3,0,0,1,5,6,12,13,7,23,8,7,13,10,14,8,8,,,
+UBC,2013,W,MATH,223,,101,LINEAR ALGEBRA I,"Karu, Kalle",64,73.03,13.6,98,44,60,2,1,0,1,0,0,0,0,2,2,3,5,7,5,4,5,4,10,13,4,,,
+UBC,2013,W,MATH,423,,201,TPCS ALGEBRA,"Karu, Kalle",4,90,9.56,97,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,,,
+UBC,2014,W,MATH,532,,101,ALGB GEOMETRY I,"Karu, Kalle",15,89.53,10.33,100,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,8,,,
+UBC,2015,W,MATH,221,,203,MATRIX ALGEBRA,"Karu, Kalle",152,69.85,16.08,98,13,138,11,3,0,0,0,1,2,2,6,11,12,13,18,11,17,1,9,27,12,18,,,
+UBC,2015,W,MATH,300,,101,INTR COMPLEX VAR,"Karu, Kalle",75,67.11,16.18,99,25,64,8,2,0,0,0,0,2,3,3,8,6,6,8,5,3,5,12,13,1,5,,,
+UBC,2015,W,MATH,321,,201,REAL VARIABLS II,"Karu, Kalle",40,70.82,15.27,99,20,38,1,1,0,0,0,0,1,0,0,1,6,0,4,2,5,3,4,6,5,3,,,
+UBC,2017,W,MATH,152,,202,LINEAR SYSTEMS,"Karu, Kalle",157,67.91,12.94,94,28,149,8,0,0,0,0,0,1,1,6,8,16,17,13,12,31,15,13,12,14,6,,,
+UBC,2017,W,MATH,307,,202,APPL LINEAR ALGB,"Karu, Kalle",125,67.46,16.15,96,13,109,12,3,0,1,0,1,1,7,3,12,16,7,10,6,13,14,9,17,10,7,,,
+UBC,2017,W,MATH,615,B,101,ALGEBRAIC GEOMET,"Karu, Kalle",10,95.6,3.1,100,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,,,
+UBC,2018,W,MATH,152,,202,LINEAR SYSTEMS,"Karu, Kalle",199,66.47,13.79,96,29,183,12,2,0,2,0,0,1,7,4,12,26,27,17,16,22,18,14,25,10,8,,,
+UBC,2018,W,MATH,307,,202,APPL LINEAR ALGB,"Karu, Kalle",129,66.97,13.07,94,31,119,4,3,0,0,0,0,0,4,0,4,15,15,17,7,18,14,8,13,8,4,,,
+UBC,2018,W,MATH,422,,101,FLDS&GALOIS THRY,"Karu, Kalle",8,89.75,4.13,94,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,,,
+UBC,2018,W,MATH,501,,101,ALGEBRA I,"Karu, Kalle",4,85,5.77,90,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,,,
+UBCV,2014,W,MATH,532,,101,Algebraic Geometry I,Kalle Karu,15,89.53333333,10.32933871,100.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,8,,,
+UBCV,2014,W,SCIE,1,,001,Science One,Arthur Charbonneau;Celeste Leander;Christopher Addison;Costanza Piccolo;James Berger;Kalle Karu;Kurt Eiselt;Mark Van Raamsdonk;Pamela Kalas;Pierre Kennepohl,66,75.60606061,8.091550746,92.0,58.0,,,,,,,,,,,0,0,,,5,13,14,9,9,8,5,,,
+UBCV,2015,W,MATH,221,,201,Matrix Algebra,Kalle Karu;Weiwei Ao,131,68.580152672,18.756723594,100.0,0.0,,,,,,,,,,,17,11,10,11,7,13,10,7,17,14,14,,,
+UBCV,2015,W,MATH,221,,202,Matrix Algebra,Kalle Karu;Yong Liu,129,70.550387597,13.43907621,97.0,17.0,,,,,,,,,,,6,6,8,12,9,26,15,13,20,5,9,,,
+UBCV,2015,W,MATH,221,,203,Matrix Algebra,Kalle Karu,149,69.845637584,16.081601386,98.0,13.0,,,,,,,,,,,11,12,13,18,11,17,1,9,27,12,18,,,
+UBCV,2015,W,MATH,300,,101,Introduction to Complex Variables,Kalle Karu,73,66.808219178,16.277675181,99.0,25.0,,,,,,,,,,,9,6,6,8,5,3,5,12,13,1,5,,,
+UBCV,2015,W,MATH,321,,201,Real Variables II,Kalle Karu,39,70.820512821,15.271011056,99.0,20.0,,,,,,,,,,,,6,,,,5,,,6,5,,,,
+UBCV,2015,W,MATH,532,,201,Algebraic Geometry I,Clemens Koppensteiner;Kalle Karu,8,88.75,8.396427812,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2017,W,MATH,152,,201,Linear Systems,Kalle Karu;Ozgur Yilmaz,183,68.273224044,16.115711193,98.0,18.0,,,,,,,,,,,18,12,10,21,22,16,21,19,15,16,13,,,
+UBCV,2017,W,MATH,152,,202,Linear Systems,Kalle Karu,157,67.910828025,12.943851028,94.0,28.0,,,,,,,,,,,8,16,17,13,12,31,15,13,12,14,6,,,
+UBCV,2017,W,MATH,152,,205,Linear Systems,Erwan Tanne;Kalle Karu,123,63.162601626,17.274720459,100.0,0.0,,,,,,,,,,,12,23,11,14,7,16,10,11,9,9,1,,,
+UBCV,2017,W,MATH,152,,206,Linear Systems,Elyse Yeager;Kalle Karu,191,67.413612565,17.079123084,97.0,1.0,,,,,,,,,,,16,15,19,13,33,17,15,17,16,20,10,,,
+UBCV,2017,W,MATH,152,,207,Linear Systems,Kalle Karu;Nathaniel Bade,77,65.558441558,18.270981815,97.0,0.0,,,,,,,,,,,8,10,3,8,9,7,9,9,6,2,6,,,
+UBCV,2017,W,MATH,152,,208,Linear Systems,Colin Macdonald;Kalle Karu,64,69.984375,14.902319184,97.0,35.0,,,,,,,,,,,5,5,5,5,5,8,9,1,10,5,6,,,
+UBCV,2017,W,MATH,307,,202,Applied Linear Algebra,Kalle Karu;Ozgur Yilmaz,122,67.032786885,16.766226593,96.0,13.0,,,,,,,,,,,13,16,7,10,6,13,14,9,17,10,7,,,
+UBCV,2017,W,MATH,615,B,101,Topics in Algebraic Geometry,Kalle Karu,10,95.6,3.098386677,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2018,W,MATH,152,,201,Linear Systems,Elyse Yeager;Kalle Karu;Matthew Brassil;Yusuke Aoki,203,65.980295567,15.421458815,95.0,16.0,,,,,,,,,,,17,25,24,25,9,23,19,16,22,17,6,,,
+UBCV,2018,W,MATH,152,,202,Linear Systems,Kalle Karu;Matthew Brassil;Yusuke Aoki,196,66.459183673,13.750277101,96.0,29.0,,,,,,,,,,,12,26,27,17,17,22,18,14,25,10,8,,,
+UBCV,2018,W,MATH,152,,205,Linear Systems,Kalle Karu;Matthew Brassil;Yue-Xian Li;Yusuke Aoki,119,66.756302521,13.987261994,98.0,18.0,,,,,,,,,,,6,14,13,17,12,12,12,10,10,8,5,,,
+UBCV,2018,W,MATH,152,,206,Linear Systems,Kai Behrend;Kalle Karu;Matthew Brassil;Yusuke Aoki,196,64.397959184,13.867682258,91.0,13.0,,,,,,,,,,,18,25,25,21,21,29,16,11,15,12,3,,,
+UBCV,2018,W,MATH,152,,207,Linear Systems,Han Hong;Kalle Karu;Matthew Brassil;Yusuke Aoki,48,66.1875,13.483885181,90.0,36.0,,,,,,,,,,,4,5,5,8,3,4,6,3,6,3,1,,,
+UBCV,2018,W,MATH,152,,208,Linear Systems,Amir Maleki Zamenjani;Kalle Karu;Matthew Brassil;Yusuke Aoki,67,66.865671642,13.112445537,94.0,26.0,,,,,,,,,,,3,8,6,11,1,15,7,0,11,2,3,,,
+UBCV,2018,W,MATH,307,,201,Applied Linear Algebra,Kalle Karu;Oliver Leigh;Yaniv Plan,125,68.296,14.67003969,100.0,11.0,,,,,,,,,,,4,12,10,22,10,14,14,12,9,7,11,,,
+UBCV,2018,W,MATH,307,,202,Applied Linear Algebra,Kalle Karu;Li Wang,126,67.007936508,12.822165828,94.0,31.0,,,,,,,,,,,3,17,15,17,7,19,15,8,13,8,4,,,
+UBCV,2018,W,MATH,422,,101,Fields and Galois Theory,Kai Behrend;Kalle Karu;You Hung Hsu,8,89.75,4.131758533,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCV,2019,W,MATH,152,,201,Linear Systems,Ahmet Alperen Bulut;Caleb Marshall;Chi Hoi Yip;Elyse Yeager;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Mukul Rai Choudhuri;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yusuke Aoki,188,78.345744681,10.190308544,98.0,50.0,,,,,,,,,,,0,5,4,10,4,20,21,25,42,33,24,,,
+UBCV,2019,W,MATH,152,,202,Linear Systems,Ahmet Alperen Bulut;Alexander William Weekes;Caleb Marshall;Chi Hoi Yip;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Mukul Rai Choudhuri;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yusuke Aoki,191,78.638743455,9.608678451,96.0,50.0,,,,,,,,,,,0,2,6,5,10,19,23,24,45,35,22,,,
+UBCV,2019,W,MATH,152,,205,Linear Systems,Ahmet Alperen Bulut;Caleb Marshall;Chi Hoi Yip;Dylan Allegretti;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Mukul Rai Choudhuri;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yue-Xian Li;Yusuke Aoki,146,77.239726027,12.468611512,98.0,35.0,,,,,,,,,,,3,3,10,5,5,13,17,14,31,22,23,,,
+UBCV,2019,W,MATH,152,,206,Linear Systems,Ahmet Alperen Bulut;Caleb Marshall;Chi Hoi Yip;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kai Behrend;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Mukul Rai Choudhuri;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yue-Xian Li;Yusuke Aoki,196,77.403061224,11.810286295,100.0,29.0,,,,,,,,,,,2,1,11,14,9,21,15,17,48,28,30,,,
+UBCV,2019,W,MATH,152,,207,Linear Systems,Ahmet Alperen Bulut;Caleb Marshall;Chi Hoi Yip;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Mukul Rai Choudhuri;Najmul Abid;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yusuke Aoki,94,77.244680851,11.287719248,96.0,17.0,,,,,,,,,,,1,1,4,4,1,10,15,12,26,6,14,,,
+UBCV,2019,W,MATH,152,,208,Linear Systems,Ahmet Alperen Bulut;Caleb Marshall;Chi Hoi Yip;Eric Rozon;Gabriel Currier;Gabriel Emery Currier;Ha Jung Rachel Han;Igor Pereira Pinheiro;Igor Vinicius Pereira Pinheiro;Jaye Claire Sudweeks;Jaye Sudweeks;Jens Malmquist;Jens Peter Malmquist;Kalle Karu;Liangchen Liu;Mai Uyen Thieu;Maricela Best Mckay;Mihai Marian;Ming Zhang;Mukul Rai Choudhuri;Nicholas Hu;Patrick Walls;Prajeet Bajpai;Reginald Mcgregor Simpson;Reginald Simpson;Stephen Pietromonaco;Thomas Rued;Wang Chen;Yu-Hsiang Liu;Yusuke Aoki,135,77.407407407,12.232996909,98.0,21.0,,,,,,,,,,,4,1,4,5,2,14,24,16,30,14,21,,,
+UBCV,2019,W,MATH,200,,105,Calculus III,Albert Chau;Jacob Denson;Kalle Karu;Wang Chen,91,73.362637363,14.786267265,98.0,25.0,,,,,,,,,,,6,4,2,6,5,19,7,6,14,7,15,,,
+UBCV,2019,W,MATH,422,,101,Fields and Galois Theory,Kai Behrend;Kalle Karu;Mihai Marian,11,85.363636364,10.846868002,99.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,2,1,1,5,,,
+UBCV,2019,W,MATH,532,,101,Algebraic Geometry I,Kalle Karu;Zinovy Reichstein,9,98.111111111,1.691481928,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2020,W,MATH,152,,201,Linear Systems,Benjamin Langer;Charlotte Trainor;Chen-Chih Lai;Eric Rozon;Ha Jung Rachel Han;Han Hong;Joe Jin Lin Zhang;Kalle Karu;Liming Sun;Mihai Marian;Naba Mukhtar;Nina Morishige;Patrick Walls;Samantha Bardwell;Serdar Turkmenafsar;Simone Maletto;Xinyu Cheng;Yiyang Tian,174,74.655172414,12.338039854,99.0,50.0,,,,,,,,,,,0,13,7,9,14,30,22,15,20,25,19,,,
+UBCV,2020,W,MATH,152,,202,Linear Systems,Alexander William Weekes;Benjamin Langer;Charlotte Trainor;Chen-Chih Lai;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Mihai Marian;Naba Mukhtar;Nathaniel Budiardjo;Nina Morishige;Patrick Walls;Samantha Bardwell;Simone Maletto;Xinyu Cheng;Yiyang Tian,219,74.625570776,11.573716031,96.0,50.0,,,,,,,,,,,0,15,9,15,14,29,27,25,39,21,25,,,
+UBCV,2020,W,MATH,152,,205,Linear Systems,Anna Tianqi Wang;Benjamin Langer;Charlotte Trainor;Chen-Chih Lai;Emad Chaparian;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Mihai Marian;Naba Mukhtar;Nina Morishige;Patrick Walls;Samantha Bardwell;Simone Maletto;Xinyu Cheng;Yiyang Tian,144,74.256944444,11.349961663,96.0,50.0,,,,,,,,,,,0,6,9,10,13,22,15,15,28,11,15,,,
+UBCV,2020,W,MATH,152,,206,Linear Systems,Benjamin Langer;Charlotte Trainor;Chen-Chih Lai;Edison Yue;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Liming Sun;Mihai Marian;Naba Mukhtar;Nina Morishige;Patrick Walls;Simone Maletto;Xinyu Cheng;Yiyang Tian;Yue-Xian Li,198,73.227272727,12.811553464,98.0,14.0,,,,,,,,,,,2,7,24,13,11,29,19,18,39,14,22,,,
+UBCV,2020,W,MATH,152,,207,Linear Systems,Benjamin Langer;Charlotte Trainor;Chen-Chih Lai;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Karan Partap Bains;Mihai Marian;Naba Mukhtar;Nina Morishige;Niny Arcila Maya;Patrick Walls;Samantha Bardwell;Simone Maletto;Xinyu Cheng;Yiyang Tian,59,76.0,10.897642896,97.0,56.0,,,,,,,,,,,0,0,5,4,4,9,4,8,8,9,8,,,
+UBCV,2020,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Benjamin Langer;Bruno Ozaki;Charlotte Trainor;Chen-Chih Lai;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Mihai Marian;Ming Zhang;Naba Mukhtar;Nina Morishige;Patrick Walls;Samantha Bardwell;Simone Maletto;Xinyu Cheng;Yiyang Tian,148,71.945945946,12.883456556,98.0,25.0,,,,,,,,,,,6,5,8,16,12,15,21,18,18,20,9,,,
+UBCV,2020,W,MATH,200,,105,Calculus III,Ailana Fraser;Brian Freidin;Daniel Gomez;Edward Alexander Belk;Kalle Karu,120,70.275,14.51858415,99.0,17.0,,,,,,,,,,,8,7,6,13,10,14,15,9,21,10,7,,,
+UBCV,2020,W,MATH,300,,201,Introduction to Complex Variables,Elliot Cheung;Kalle Karu;Nina Morishige;Zinovy Reichstein,132,74.25,18.414802791,100.0,0.0,,,,,,,,,,,5,6,15,7,10,11,10,5,16,13,34,,,
+UBCV,2020,W,MATH,532,,101,Algebraic Geometry I,Kalle Karu,8,99.375,0.51754917,100.0,99.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2021,W,MATH,152,,201,Linear Systems,Alireza Naderi;Alireza Yazdani;Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Chi Hoi Yip;Emmanuel Michta;Jalal Khouhak;Jens Malmquist;Jialing Zhang;Jun Jie Zhu;Kalle Karu;Liam Yih;Maricela Best Mckay;Merlin Pelz;Michael Deakin;Noe Ducharme;Patrick Walls;Reginald Simpson;Ruo Ning Qiu;Shikun Nie;Simone Maletto;Su Liang;Xuemeng Wang;Yue-Xian Li;Yuliang Shi;Yuveshen Mooroogen,201,66.746268657,16.07390116,96.0,2.0,,,,,,,,,,,13,31,16,34,11,16,17,10,24,11,18,,,
+UBCV,2021,W,MATH,152,,202,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Debanjana Kundu;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang;Xuemeng Wang;Yuliang Shi,106,67.547169811,15.026409815,98.0,14.0,,,,,,,,,,,7,12,7,17,8,8,11,6,13,12,5,,,
+UBCV,2021,W,MATH,152,,203,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang;Wenzhao Chen,98,66.908163265,14.757899674,98.0,15.0,,,,,,,,,,,6,10,7,14,15,6,9,12,6,8,5,,,
+UBCV,2021,W,MATH,152,,205,Linear Systems,Ahmet Alperen Bulut;Alireza Naderi;Alireza Yazdani;Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Mateusz Faltyn;Michael Deakin;Min Jun Jo;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang;Xuemeng Wang,216,66.439814815,16.789700275,99.0,3.0,,,,,,,,,,,15,23,29,27,12,22,21,8,26,16,17,,,
+UBCV,2021,W,MATH,152,,207,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;David Stenlund;Debanjana Kundu;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang,112,67.919642857,14.135852057,96.0,30.0,,,,,,,,,,,6,10,18,6,9,16,10,8,17,6,6,,,
+UBCV,2021,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Elliot Cheung;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang,98,66.959183673,14.013924127,95.0,13.0,,,,,,,,,,,5,12,11,6,9,13,10,12,11,3,6,,,
+UBCV,2021,W,MATH,152,,209,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Benjamin Bruce;Caleb Suan;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang,94,65.744680851,18.620682321,95.0,0.0,,,,,,,,,,,10,7,14,4,13,9,6,10,7,5,9,,,
+UBCV,2021,W,MATH,300,,201,Introduction to Complex Variables,Andreas Hatziiliou;Kalle Karu;Mathav Murugan;Pramathanath Sastry;Simone Coccia;Tongou Yang,44,71.931818182,20.834226901,99.0,7.0,,,,,,,,,,,4,2,2,5,4,3,3,3,5,4,9,,,
+UBCV,2021,W,MATH,342,,101,Algebra and Coding Theory,Chi Hoi Yip;Kalle Karu,71,66.676056338,17.643918133,98.0,2.0,,,,,,,,,,,4,3,7,10,7,10,11,4,7,4,4,,,
+UBCV,2021,W,MATH,532,,101,Algebraic Geometry I,Jim Bryan;Kalle Karu,12,93.583333333,8.414903806,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,2,9,,,
+UBCV,2021,W,MATH,615,A,201,Topics in Algebraic Geometry,Kalle Karu,7,95.0,0.0,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,W,MATH,152,,201,Linear Systems,Kalle Karu;Yue-Xian Li;Patrick Walls,200,70.3,,96.0,33.0,,,,,,,,,,,7,16,17,27,23,21,11,15,23,21,19,68.0,81.0,60.8
+UBCV,2021,W,MATH,152,,202,Linear Systems,Kalle Karu;Debanjana Kundu,106,68.3,,98.0,14.0,,,,,,,,,,,,12,7,18,8,7,12,6,13,13,,69.0,80.0,60.0
+UBCV,2021,W,MATH,152,,203,Linear Systems,Wenzhao Chen;Kalle Karu,98,67.6,,98.0,24.0,,,,,,,,,,,,11,7,14,15,6,10,12,6,8,,66.0,77.8,60.0
+UBCV,2021,W,MATH,152,,205,Linear Systems,Kalle Karu,214,67.6,,99.0,6.0,,,,,,,,,,,9,24,29,28,12,22,21,8,28,16,17,68.0,80.0,56.0
+UBCV,2021,W,MATH,152,,207,Linear Systems,Kalle Karu;Debanjana Kundu,112,68.5,,96.0,30.0,,,,,,,,,,,4,10,18,6,10,17,10,8,17,6,6,70.0,80.0,58.0
+UBCV,2021,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Kalle Karu,98,67.2,,95.0,13.0,,,,,,,,,,,,13,11,6,9,13,10,12,11,,6,68.5,76.0,57.3
+UBCV,2021,W,MATH,152,,209,Linear Systems,Benjamin Bruce;Kalle Karu,94,66.2,,95.0,0.0,,,,,,,,,,,9,7,14,,13,9,6,10,8,,9,67.5,78.0,58.0
+UBCV,2021,W,MATH,342,,101,Algebra and Coding Theory,Kalle Karu,71,66.7,,98.0,2.0,,,,,,,,,,,,,7,10,7,10,11,,7,,,68.0,76.5,60.0
+UBCV,2021,W,MATH,615,A,201,Topics in Algebraic Geometry,Kalle Karu,7,95.0,,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,95.0,95.0,95.0
+UBCV,2022,W,MATH,152,,201,Linear Systems,Miranda Holmes-Cerfon;Kalle Karu,210,69.0,,99.0,0.0,,,,,,,,,,,7,15,26,23,21,25,27,15,21,21,9,69.0,78.0,60.0
+UBCV,2022,W,MATH,152,,202,Linear Systems,Kalle Karu;Anotida Madzwamuse,191,67.7,,99.0,13.0,,,,,,,,,,,3,21,25,17,25,28,21,13,23,9,6,68.0,77.0,59.0
+UBCV,2022,W,MATH,152,,203,Linear Systems,Anirudh Asuri Mukundan;Kalle Karu,163,67.1,,96.0,3.0,,,,,,,,,,,9,19,17,17,13,19,20,13,18,11,7,68.0,77.0,59.0
+UBCV,2022,W,MATH,152,,205,Linear Systems,Kalle Karu;Patrick Walls,225,68.3,,97.0,6.0,,,,,,,,,,,8,18,28,27,24,35,21,11,25,15,13,68.0,77.0,60.0
+UBCV,2022,W,MATH,152,,207,Linear Systems,Wenzhao Chen;Kalle Karu,148,66.8,,97.0,1.0,,,,,,,,,,,11,18,15,13,11,17,16,13,15,9,10,69.0,77.3,57.0
+UBCV,2022,W,MATH,342,,101,Algebra and Coding Theory,Kalle Karu,52,71.0,,95.0,50.0,,,,,,,,,,,0,7,6,3,4,4,6,3,10,4,5,72.0,81.3,59.0
+UBCV,2022,W,MATH,532,,101,Algebraic Geometry I,Kalle Karu,6,96.5,,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,96.5,98.0,95.0
+UBCV,2023,W,MATH,152,,201,Linear Systems,Miranda Holmes-Cerfon;Kalle Karu,189,69.6,,99.0,2.0,,,,,,,,,,,6,17,18,20,17,21,13,13,29,18,15,70.0,80.0,60.0
+UBCV,2023,W,MATH,152,,202,Linear Systems,Kalle Karu;Keqin Liu,200,69.1,,97.0,5.0,,,,,,,,,,,8,16,18,19,24,22,15,16,34,11,15,69.0,80.0,60.0
+UBCV,2023,W,MATH,152,,203,Linear Systems,Benjamin Bruce;Kalle Karu,205,69.6,,98.0,10.0,,,,,,,,,,,11,19,18,12,25,27,22,10,22,17,22,69.0,82.0,60.0
+UBCV,2023,W,MATH,152,,205,Linear Systems,Kalle Karu,193,69.2,,97.0,14.0,,,,,,,,,,,10,22,19,17,15,13,19,13,26,20,18,71.5,82.0,58.0
+UBCV,2023,W,MATH,152,,207,Linear Systems,Kalle Karu;Yue-Xian Li,150,67.8,,94.0,26.0,,,,,,,,,,,8,20,10,11,16,17,15,13,19,12,7,69.0,80.0,58.0
+UBCV,2023,W,MATH,342,,101,Algebra and Coding Theory,Kalle Karu,73,71.7,,98.0,35.0,,,,,,,,,,,2,3,6,10,4,10,4,3,10,9,8,70.0,83.0,62.0
+UBCV,2023,W,MATH,423,,201,Commutative Algebra,Kalle Karu,7,90.57,,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,92.0,95.5,87.0
+UBCV,2023,W,MATH,502,,201,Algebra II,Kalle Karu,8,90.75,,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,5,90.5,93.25,88.75

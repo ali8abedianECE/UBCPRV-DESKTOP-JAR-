@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,EECE,254,,101,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",78,65.56,15.36,98,25,64,14,0,0,0,0,0,1,2,11,14,6,7,8,7,6,10,6,6,3,5
+UBC,2009,W,EECE,254,,102,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",85,63.56,14.79,94,22,68,17,0,0,0,0,0,1,2,14,17,5,14,3,15,6,7,4,5,6,3
+UBC,2009,W,EECE,375,,101,INST DESG LAB,"Abolmaesumi, Purang;Tang, Shuo",19,87.74,7.42,100,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,7
+UBC,2009,W,EECE,375,,201,INST DESG LAB,"Abolmaesumi, Purang;Tang, Shuo",39,80.92,7.04,94,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,10,10,5,6
+UBC,2009,W,EECE,474,,101,INST DESIGN LAB,"Abolmaesumi, Purang;Tang, Shuo",31,86.68,10.15,100,60,31,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,6,5,14
+UBC,2009,W,EECE,474,,201,INST DESIGN LAB,"Abolmaesumi, Purang;Tang, Shuo",29,85.28,9.07,100,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,9,3,10
+UBC,2010,S,APSC,599,,942,M.A. SC. THESIS,"Abolmaesumi, Purang",18,91.33,2.16,94,88,6,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2010,S,APSC,699,,942,DOC DISSERTATION,"Abolmaesumi, Purang",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,BMEG,599,,001,M.A. SC. THESIS,"Abolmaesumi, Purang",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,BMEG,599,,101,M.A. SC. THESIS,"Abolmaesumi, Purang",5,83,4.4,88,78,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0
+UBC,2010,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EECE,254,,101,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",89,61.47,14.16,97,28,70,16,1,0,2,0,0,2,3,11,16,11,12,8,7,10,9,7,2,2,2
+UBC,2010,W,EECE,254,,102,ELEC CIRCUITS I,"Abolmaesumi, Purang;Turner, Robin",113,63.17,16.32,100,27,91,20,1,0,1,0,0,2,9,9,20,8,18,11,9,12,10,5,5,7,6
+UBC,2010,W,EECE,375,,201,INST DESG LAB,"Abolmaesumi, Purang",38,84.45,12.31,100,50,38,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,1,0,4,9,18
+UBC,2010,W,EECE,474,,201,INST DESIGN LAB,"Abolmaesumi, Purang",31,83.71,13.84,100,50,31,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,1,2,10,13
+UBC,2011,S,BMEG,599,,942,M.A. SC. THESIS,"Abolmaesumi, Purang",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,BMEG,699,,942,DOC DISSERTATION,"Abolmaesumi, Purang",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,BMEG,599,,001,M.A. SC. THESIS,"Abolmaesumi, Purang",17,91,3.46,93,87,3,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+UBC,2011,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EECE,375,,101,INST DESG LAB,"Abolmaesumi, Purang",31,90.19,7.21,100,70,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,7,18
+UBC,2011,W,EECE,474,,101,INST DESIGN LAB,"Abolmaesumi, Purang",56,88.82,7.37,100,67,56,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,6,13,30
+UBC,2011,W,EECE,542,,101,COMP INTGRD SURG,"Abolmaesumi, Purang",14,90,7.28,98,69,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,8
+UBC,2012,S,BMEG,599,,942,M.A. SC. THESIS,"Abolmaesumi, Purang",15,91,5.66,95,87,2,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2012,S,BMEG,699,,942,DOC DISSERTATION,"Abolmaesumi, Purang",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,BMEG,599,,001,M.A. SC. THESIS,"Abolmaesumi, Purang",20,83,0,83,83,1,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+UBC,2012,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EECE,375,,101,INST DESG LAB,"Abolmaesumi, Purang",22,87.67,5.36,98,73,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8,9
+UBC,2012,W,EECE,474,,101,INST DESIGN LAB,"Abolmaesumi, Purang",41,87.68,8.48,100,61,41,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,8,13,17
+UBC,2012,W,EECE,542,,101,COMP INTGRD SURG,"Abolmaesumi, Purang",10,92,4.83,100,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8
+UBC,2013,S,BMEG,599,,942,M.A. SC. THESIS,"Abolmaesumi, Purang",24,88,6.08,95,84,3,0,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+UBC,2013,S,BMEG,699,,942,DOC DISSERTATION,"Abolmaesumi, Purang",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,BMEG,599,,001,M.A. SC. THESIS,"Abolmaesumi, Purang",22,85,0,85,85,1,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UBC,2013,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EECE,400,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo",7,78,6.53,85,67,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,0
+UBC,2013,W,EECE,409,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",38,80.29,6.14,90,60,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,8,17,7,1
+UBC,2013,W,EECE,419,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",38,82.84,5.72,93,70,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,10,17,2
+UBC,2013,W,EECE,429,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",60,81.33,7.45,91,41,59,1,0,0,0,0,0,0,0,1,1,0,0,1,0,3,0,8,21,24,2
+UBC,2013,W,EECE,439,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",19,84.95,6.45,96,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,7,4
+UBC,2013,W,EECE,469,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",17,81.82,10.63,89,46,16,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,3,1,11,0
+UBC,2014,S,BMEG,599,,942,M.A. SC. THESIS,"Abolmaesumi, Purang",30,86,9.59,95,73,4,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2
+UBC,2014,S,BMEG,699,,942,DOC DISSERTATION,"Abolmaesumi, Purang",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,BMEG,599,,001,M.A. SC. THESIS,"Abolmaesumi, Purang",30,89.17,4.07,94,83,6,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2014,W,BMEG,599,,101,M.A. SC. THESIS,"Abolmaesumi, Purang",5,84.5,3.54,87,82,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+UBC,2014,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EECE,230,,201,TPCS BIOMED ENG,"Abolmaesumi, Purang",21,89.52,4.98,100,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,15
+UBC,2015,W,BMEG,699,,001,DOC DISSERTATION,"Abolmaesumi, Purang;Hodgson, Antony",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,BMEG,699,,101,DOC DISSERTATION,"Abolmaesumi, Purang;Hodgson, Antony",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",51,83.9,7.3,94,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,6,8,22,10
+UBC,2016,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",37,84.94,5.06,95,75,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10,12,8
+UBC,2016,W,EECE,542,,101,COMP INTGRD SURG,"Abolmaesumi, Purang",13,88,7.8,97,68,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,6
+UBC,2016,W,ELEC,271,,201,TPCS BIOMED ENG,"Abolmaesumi, Purang;Rohling, Robert",22,86.32,4.3,92,79,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,1,10
+UBC,2016,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",95,84.86,5.82,94,64,95,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,14,19,36,21
+UBC,2016,W,ELEC,492,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",16,87.06,3.66,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4
+UBC,2016,W,ELEC,493,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",6,90.67,3.2,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2016,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",15,87.33,2.5,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,2
+UBC,2017,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",102,84.01,6.27,95,58,102,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,8,8,29,34,20
+UBC,2017,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",6,85.67,5.39,92,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBC,2017,W,ELEC,271,,201,TPCS BIOMED ENG,"Abolmaesumi, Purang",23,93.3,3.92,98,88,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,17
+UBC,2017,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",110,81.35,8.79,94,42,108,2,0,0,0,0,0,0,0,2,2,1,0,1,3,3,11,10,34,28,17
+UBC,2017,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",13,89.31,3.9,94,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9
+UBC,2018,W,APSC,486,,001,NEW VEN DESIGN,"Abolmaesumi, Purang;Miller, David;Rhind, Julian",15,83.93,3.2,90,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3,1
+UBC,2018,W,APSC,496,D,001,INTER ENG PRJECT,"Abolmaesumi, Purang;Miller, David;Rhind, Julian",8,85.75,4.1,90,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3
+UBC,2018,W,APSC,496,E,001,INTER ENG PRJECT,"Abolmaesumi, Purang;Miller, David;Rhind, Julian",10,82.1,1.1,84,81,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+UBC,2018,W,COMM,466,,001,NEW VENTURE DES,"Abolmaesumi, Purang;Miller, David;Rhind, Julian",18,83.11,4.24,88,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,7,0
+UBC,2018,W,ELEC,271,,201,TPCS BIOMED ENG,"Abolmaesumi, Purang",16,92.63,3.16,96,87,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12

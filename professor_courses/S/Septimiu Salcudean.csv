@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,EECE,201,,1P1,Proj Int Prog I,"Lawrence, Peter;Pulfrey, David L.;Salcudean, Septimiu",63,70.29,9.67,90,50,63,0,0,0,0,0,0,0,0,0,0,3,6,7,9,8,11,8,7,3,1,,,
+UBC,2002,W,EECE,202,,2P1,Proj Int Prog II,"Lawrence, Peter;Pulfrey, David L.;Salcudean, Septimiu;Wilton, Steven;Yedlin, Matthew",62,73.5,11.02,92,44,59,3,0,0,0,0,0,0,0,3,3,1,0,3,10,8,10,6,10,10,1,,,
+UBC,2003,W,EECE,202,,2P1,Proj Int Prog II,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Salcudean, Septimiu;Yedlin, Matthew",68,69.37,9.42,90,45,66,2,0,0,0,0,0,0,0,2,2,1,4,12,10,10,11,5,10,2,1,,,
+UBC,2005,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",33,78.82,10.18,93,55,33,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,2,5,3,8,6,,,
+UBC,2005,W,EECE,589,,201,SYS DS ROBOT&TEL,"Salcudean, Septimiu",5,90.8,1.79,94,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2006,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",47,67.72,20.95,96,13,38,5,3,1,0,0,2,1,2,0,5,4,1,4,5,3,4,0,4,7,6,,,
+UBC,2007,W,EECE,230,,201,TPCS BIOMED ENG,"Salcudean, Septimiu",23,91.41,10.93,98,50,22,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,18,,,
+UBC,2007,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",39,71.41,21.27,98,0,32,5,1,0,1,1,0,0,2,2,5,2,1,3,3,2,2,3,4,4,8,,,
+UBC,2009,W,APSC,552,,001,BIOMED ENG SEM,"Kwok, K Ezra;Rosenberg, Ellen;Salcudean, Septimiu",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",38,71.24,16.71,96,27,36,2,0,0,0,0,0,1,1,0,2,4,5,0,1,6,2,5,4,4,5,,,
+UBC,2009,W,EECE,589,,201,SYS DS ROBOT&TEL,"Salcudean, Septimiu",12,89.67,4.64,96,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,,,
+UBC,2010,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",35,70.97,18.41,97,30,30,5,0,0,0,0,0,0,2,3,5,1,3,1,4,5,3,1,2,2,8,,,
+UBC,2010,W,EECE,589,,201,SYS DS ROBOT&TEL,"Salcudean, Septimiu",4,90,0,90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2012,W,EECE,360,,201,SYSTMS & CONTROL,"Salcudean, Septimiu",115,69.61,14.26,99,13,104,8,2,0,1,0,1,2,0,5,8,4,8,8,24,12,10,14,7,9,8,,,
+UBC,2012,W,EECE,487,,201,INTRO ROBOTICS,"Salcudean, Septimiu",47,63.63,18.61,97,14,36,5,4,0,2,0,1,1,1,2,5,5,8,3,5,2,2,3,2,2,4,,,
+UBC,2013,S,EECE,360,,941,SYSTMS & CONTROL,"Salcudean, Septimiu",57,68.54,15.4,100,15,54,3,0,0,0,0,1,0,0,2,3,6,5,7,2,2,13,5,8,2,4,,,
+UBC,2013,W,EECE,487,,101,INTRO ROBOTICS,"Salcudean, Septimiu",14,68.29,15.03,97,39,13,1,0,0,0,0,0,0,1,0,1,1,2,0,2,1,4,0,0,2,1,,,
+UBC,2014,S,EECE,360,,941,SYSTMS & CONTROL,"Salcudean, Septimiu",59,72.2,20.98,99,0,54,5,0,0,0,3,0,1,0,1,5,2,2,1,5,6,5,3,10,12,8,,,
+UBC,2015,S,EECE,360,,941,SYSTMS & CONTROL,"Salcudean, Septimiu",54,73.83,13.54,100,50,52,0,2,0,0,0,0,0,0,0,0,2,5,5,8,3,6,4,4,8,7,,,
+UBC,2016,S,ELEC,341,,941,SYSTMS & CONTROL,"Salcudean, Septimiu",48,66.41,22.11,99,0,39,5,4,0,0,2,0,2,1,0,5,3,2,7,2,3,6,1,5,6,4,,,
+UBC,2017,W,EECE,571,R,105,ELEC SEM&SP PROB,"Salcudean, Septimiu",9,86,10.12,99,62,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,3,,,
+UBC,2017,W,MECH,464,,101,INDUST ROBOTICS,"Salcudean, Septimiu",6,83,8.32,95,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,2,,,
+UBC,2017,W,MECH,563,,101,ROBOTICS: K DYN,"Salcudean, Septimiu",14,90.92,4.27,99,85,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,,,
+UBC,2018,W,BMEG,101,,201,INTRO TO BME,"Bashashati Saghezchi, Ali;Cripton, Peter;Salcudean, Septimiu;Zandstra, Peter",42,78.12,8.32,91,55,42,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,8,8,11,7,2,,,
+UBC,2018,W,MECH,464,,201,INDUST ROBOTICS,"Salcudean, Septimiu",17,77.35,23.46,98,0,16,1,0,0,0,1,0,0,0,0,1,0,1,0,0,3,0,3,1,1,7,,,
+UBC,2018,W,MECH,563,,201,ROBOTICS: K DYN,"Salcudean, Septimiu",11,81,12.08,94,51,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,4,1,3,,,
+UBCV,2014,S,EECE,360,,941,Systems and Control,Septimiu Salcudean,59,72.20338983,20.98010524,99.0,0.0,,,,,,,,,,,5,,,,5,6,5,,10,12,8,,,
+UBCV,2015,S,EECE,360,,941,Systems and Control,Septimiu Salcudean,52,73.82692308,13.53531496,100.0,50.0,,,,,,,,,,,0,,5,5,8,,6,,,8,7,,,
+UBCV,2016,S,ELEC,341,,941,Systems and Control,Emran Mohammad Abu Anas;Mahdi Yousefi;Septimiu Salcudean,44,66.40909091,22.11315318,99.0,0.0,,,,,,,,,,,5,3,2,7,2,3,6,1,5,6,4,,,
+UBCV,2017,W,EECE,571,R,105,Electrical Engineering Seminar and Special Problems,Septimiu Salcudean,9,86.0,10.124228366,99.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,0,1,4,3,,,
+UBCV,2017,W,MECH,464,,101,Industrial Robotics,Septimiu Salcudean,6,83.0,8.318653737,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,0,0,2,,,
+UBCV,2017,W,MECH,563,,101,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,13,90.923076923,4.271251543,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,9,,,
+UBCV,2018,W,APSC,100,,102,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Behzad Zakani;Carl Hansen;Carol Patricia Jaeger;Gabriel Potvin;Hamed Valipour;Jason Smolensky;Jonathan Nakane;Jonathan Verrett;Madeleine Brown;Madeleine Yeskoo;Michael Miller;Mohammadamin Sadeghi;Nil Ister;Peter Ostafichuk;Pranav Menon;Sander Calisal;Septimiu Salcudean;Siamak Najarian,201,78.512437811,8.845399625,92.0,0.0,,,,,,,,,,,1,2,0,4,5,16,26,39,62,39,7,,,
+UBCV,2018,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Justin Yu;Peter Cripton;Peter Zandstra;Septimiu Salcudean,42,78.119047619,8.323350583,91.0,55.0,,,,,,,,,,,0,0,1,3,0,2,8,8,11,7,2,,,
+UBCV,2018,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean,17,77.352941176,23.462579719,98.0,0.0,,,,,,,,,,,1,0,1,0,0,3,0,3,1,1,7,,,
+UBCV,2018,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,11,81.0,12.083045974,94.0,51.0,,,,,,,,,,,0,,,,,,1,1,4,1,3,,,
+UBCV,2019,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean;Siamak Najarian,24,85.25,7.99048347,96.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,1,1,9,8,,,
+UBCV,2019,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean;Siamak Najarian,20,92.05,6.916608539,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,3,15,,,
+UBCV,2020,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Atishay Jay;Hannah Gustafson;Peter Cripton;Peter Zandstra;Septimiu Salcudean,110,84.227272727,6.630011127,94.0,64.0,,,,,,,,,,,0,0,0,0,2,4,5,16,19,39,25,,,
+UBCV,2020,W,ELEC,442,,101,Introduction to Robotics,Joseph Yan;Ryan Yang;Septimiu Salcudean,35,73.0,15.029382986,99.0,50.0,,,,,,,,,,,0,5,4,0,6,3,3,2,3,4,5,,,
+UBCV,2020,W,MECH,464,,201,Industrial Robotics,Mohamed Gadala;Septimiu Salcudean;Siamak Najarian,15,84.8,6.909620622,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,0,4,3,5,,,
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Hedieh Alipour;Manu Sasidharan Madhav;Peter Cripton;Roza Vaez Ghaemi;Septimiu Salcudean,112,83.071428571,5.304620263,96.0,67.0,,,,,,,,,,,0,0,0,0,1,1,6,18,32,45,9,,,
+UBCV,2021,W,MECH,464,,201,Industrial Robotics,Bahram Mammadov;Septimiu Salcudean,21,84.428571429,6.289446944,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,3,6,6,5,,,
+UBCV,2021,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Bahram Mammadov;Septimiu Salcudean,12,91.0,5.099019514,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,8,,,
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Peter Cripton;Septimiu Salcudean;Manu Sasidharan Madhav;Roza Vaez Ghaemi,112,83.1,,96.0,67.0,,,,,,,,,,,,,,,,,6,18,32,45,9,84.0,86.0,80.0
+UBCV,2021,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean,21,84.5,,95.0,74.0,,,,,,,,,,,,,,,,,,,6,,6,85.0,90.0,80.0
+UBCV,2021,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,12,91.0,,98.0,82.0,,,,,,,,,,,,,,,,,,,,,8,90.5,95.3,87.0
+UBCV,2022,W,EECE,589,,201,Introduction to Robotics,Septimiu Salcudean,7,85.4,,99.0,60.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,1,3,86.0,96.0,80.5
+UBCV,2022,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean,25,85.2,,98.0,65.0,,,,,,,,,,,0,0,0,0,1,1,2,1,6,4,10,85.0,92.0,80.0
+UBCV,2022,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,20,81.9,,93.0,62.0,,,,,,,,,,,0,0,0,1,0,1,1,4,3,6,4,84.0,87.0,76.8
+UBCV,2023,W,BMEG,101,,201,Introduction to Biomedical Engineering,Govindkrishna Kaigala;Zachary Laksman;Septimiu Salcudean;Manu Sasidharan Madhav,81,84.15,,93.0,67.0,,,,,,,,,,,0,0,0,0,1,1,5,6,24,31,13,86.0,88.0,81.0
+UBCV,2023,W,BMEG,457,,001,Biomedical Engineering Design Project,Sharareh Bayat;Peter Cripton;Carl de Boer;Govindkrishna Kaigala;Daniel Kirouac;Pawel Kudzia;David Liu;Kelly Marshall McNagny;Septimiu Salcudean;Jenna Usprech,76,89.53,,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,3,5,25,42,90.0,94.0,86.0
+UBCV,2023,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean,34,83.15,,98.0,11.0,,,,,,,,,,,1,0,0,1,2,0,2,0,7,6,14,87.0,93.0,80.0
+UBCV,2023,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,9,90.78,,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,6,93.0,94.0,88.0

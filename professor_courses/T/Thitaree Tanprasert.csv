@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CPSC,312,,101,Functional and Logic Programming,Alyssa Zhao;David Poole;Farzad Abdolhosseini;Jason Shau-Yin Chau;Rui Ge;Thitaree Tanprasert,124,78.217741935,10.401344882,99.0,50.0,0,2,2,10,8,10,15,11,27,23,16,,,
+UBCV,2020,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Thitaree Tanprasert,25,78.88,7.693720383,91.0,62.0,0,0,0,2,0,3,2,6,5,6,1,,,
+UBCV,2021,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Thitaree Tanprasert,36,78.25,8.462944439,93.0,63.0,0,0,0,1,3,6,3,5,8,7,3,,,
+UBCV,2023,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Anika Sayara;Thitaree Tanprasert,103,87.2,,96.0,69.0,0,0,0,0,0,1,3,5,16,38,40,88.0,91.0,85.0

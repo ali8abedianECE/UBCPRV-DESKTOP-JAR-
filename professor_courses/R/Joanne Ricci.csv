@@ -1,0 +1,91 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDUC,310,,402,TEACh PRINC,"Ricci, Joanne",15,,,,,0,0,1,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,NURS,335,,99A,PROC OF NURSG II,"Ricci, Joanne",22,72.82,17.03,85,0,21,1,0,0,0,1,0,0,0,0,1,0,0,0,1,2,6,4,7,1,0
+UBC,2002,W,NURS,335,,99C,PROC OF NURSG II,"Ricci, Joanne",15,79.79,5.73,88,73,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,1,3,4,0
+UBC,2003,W,NURS,413,,001,FOSTERG POP HLTH,"Ricci, Joanne;Tognazzini, Paula",62,81.18,6.23,93,65,61,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,8,12,17,18,3
+UBC,2003,W,NURS,413,,99C,FOSTERG POP HLTH,"Ricci, Joanne;Scarr, Jennifer",14,84.07,4.51,91,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,7,1
+UBC,2005,W,NURS,331,,002,NURSING CARE FML,"Carty, Elaine A;Ebbehoj, Catherine;Hewat, Roberta J W;Ricci, Joanne;TBA",54,76.39,9.96,86,13,53,1,0,0,0,0,1,0,0,0,1,0,0,0,0,5,15,13,15,5,0
+UBC,2005,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Marshall, Helga;Ricci, Joanne;Tognazzini, Paula",59,82.71,7.18,93,63,59,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,8,11,19,11
+UBC,2005,W,NURS,414,,99C,POP HLTH PROMO,"Ricci, Joanne",8,77.38,7.19,85,67,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,1,0
+UBC,2006,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Ricci, Joanne;Tognazzini, Paula",59,81.53,5.53,91,61,58,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,7,10,19,18,2
+UBC,2006,W,NURS,414,,99A,POP HLTH PROMO,"Ricci, Joanne",15,79.53,4.63,87,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,2,0
+UBC,2006,W,NURS,414,,99C,POP HLTH PROMO,"Ricci, Joanne",13,73.7,26.42,89,0,9,1,3,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,4,3,0
+UBC,2007,W,NURS,331,,002,NURS CARE FAMILY,"Ebbehoj, Catherine;Einboden, Rochelle;Ricci, Joanne",59,74.25,5.86,85,58,59,0,0,0,0,0,0,0,0,0,0,0,1,2,7,8,13,16,11,1,0
+UBC,2007,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Ricci, Joanne;Tognazzini, Paula",56,84.4,6.21,96,68,55,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,17,17,11
+UBC,2007,W,NURS,414,,99A,POP HLTH PROMO,"Ricci, Joanne",9,80.44,5.79,87,67,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,2,0
+UBC,2007,W,NURS,414,,99C,POP HLTH PROMO,"Ricci, Joanne",15,79.07,5.27,90,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,7,0,1
+UBC,2009,S,NURS,413,,941,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Marshall, Helga;Ricci, Joanne;Tan, Elsie",60,82.28,6.21,92,63,60,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,6,22,19,4
+UBC,2009,W,NURS,336,,003,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",15,84.13,3.89,90,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,2
+UBC,2009,W,NURS,336,,004,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",15,82.13,5.76,89,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,6,0
+UBC,2009,W,NURS,413,,001,FOSTERG POP HLTH,"Ricci, Joanne",58,83.5,5.32,94,65,58,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,21,22,4
+UBC,2009,W,NURS,414,,99A,POP HLTH PROMO,"Ricci, Joanne",6,74.67,6.92,83,64,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,0,0
+UBC,2010,S,NURS,336,,945,COMMNTY & POPLTN,"Ricci, Joanne;Saewyc, Elizabeth",15,86.33,4.1,93,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,4
+UBC,2010,S,NURS,336,,946,COMMNTY & POPLTN,"Ricci, Joanne;Saewyc, Elizabeth",14,84.21,5.01,90,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,2
+UBC,2010,W,NURS,336,,203,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",19,86.26,5.39,95,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,7,6
+UBC,2010,W,NURS,336,,204,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",20,81.75,5.72,91,69,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,6,1
+UBC,2010,W,NURS,336,,401,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",15,88.6,3.42,95,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,6
+UBC,2010,W,NURS,336,,402,COMMNTY & POPLTN,"Ricci, Joanne;Wong, Sabrina",16,89.5,3.56,94,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10
+UBC,2010,W,NURS,425,,002,COMMNTY&POP HLTH,"Ricci, Joanne",7,86.43,2.3,89,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0
+UBC,2010,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Ebbehoj, Catherine;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Tan, Elsie;Valkenier, Beverley",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,NURS,336,,945,COMMNTY & POPLTN,"Ricci, Joanne;Saewyc, Elizabeth",20,84.45,3.82,90,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,12,1
+UBC,2011,S,NURS,336,,946,COMMNTY & POPLTN,"Ricci, Joanne;Saewyc, Elizabeth",20,81.95,7.47,92,61,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,8,5,2
+UBC,2011,W,NURS,336,,203,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",19,81.26,3.65,87,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,11,3,0
+UBC,2011,W,NURS,336,,204,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,84.4,3.41,90,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,9,1
+UBC,2011,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Rodney, Patricia;Valkenier, Beverley",115,,,,,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,NURS,336,,945,COMMNTY & POPLTN,"Ricci, Joanne",19,81.16,4.83,89,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,9,4,0
+UBC,2012,S,NURS,336,,946,COMMNTY & POPLTN,"Ricci, Joanne",19,83.74,2.92,89,77,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,6,0
+UBC,2012,W,NURS,336,,203,COMMNTY & POPLTN,"Ricci, Joanne",19,82.63,3.2,90,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,3,1
+UBC,2012,W,NURS,336,,204,COMMNTY & POPLTN,"Ricci, Joanne",19,80.58,6.03,90,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,2,6,1
+UBC,2012,W,NURS,336,,401,COMMNTY & POPLTN,"Ricci, Joanne",20,85.95,4.16,92,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,4
+UBC,2012,W,NURS,336,,402,COMMNTY & POPLTN,"Ricci, Joanne",19,79.63,5.9,88,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,8,4,0
+UBC,2012,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Marshall, Helga;Ricci, Joanne;Valkenier, Beverley",114,,,,,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,NURS,336,,945,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",20,83.3,4.05,91,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,8,1
+UBC,2013,S,NURS,336,,946,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",18,86.28,3.66,93,77,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,10,3
+UBC,2013,W,NURS,336,,203,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",20,80.3,4.77,87,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,12,1,0
+UBC,2013,W,NURS,336,,204,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",19,78.53,5.4,85,62,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,6,8,1,0
+UBC,2013,W,NURS,336,,401,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica;Unger, Connie",20,84.15,3.94,91,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,8,2
+UBC,2013,W,NURS,336,,402,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica;Unger, Connie",20,82.55,4.15,89,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,8,0
+UBC,2014,S,NURS,336,,945,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",20,82.4,4.21,89,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,7,0
+UBC,2014,S,NURS,336,,946,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne;Swanson, Monica",20,82.6,4.43,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,9,0
+UBC,2014,W,NURS,336,,401,COMMNTY & POPLTN,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Ricci, Joanne;Valkenier, Beverley",19,84.84,4.68,93,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11,2
+UBC,2014,W,NURS,427,,002,CONSOLD  PRACTCM,"Ricci, Joanne;Segaric, Cheryl;Tan, Elsie",115,,,,,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,NURS,336,,945,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",19,83.11,6.4,90,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,7,3
+UBC,2015,S,NURS,336,,946,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",19,82.63,2.71,86,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,7,0
+UBC,2015,W,NURS,427,,002,CONSOLD  PRACTCM,"Ricci, Joanne",112,,,,,0,0,0,0,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,NURS,336,,945,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,82.85,3.99,89,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,8,0
+UBC,2016,S,NURS,336,,946,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",19,78.74,3.96,86,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,8,1,0
+UBC,2016,W,NURS,336,,203,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,78.45,4.74,87,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,7,2,0
+UBC,2016,W,NURS,336,,204,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,77.55,4.8,87,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,4,2,0
+UBC,2016,W,NURS,336,,401,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,81.65,4.88,89,69,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,9,4,0
+UBC,2016,W,NURS,336,,402,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",19,80.63,5.41,89,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,9,4,0
+UBC,2016,W,NURS,427,,002,CONSOLD  PRACTCM,"Ricci, Joanne",119,,,,,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,NURS,336,,945,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,81.9,4.28,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,7,0
+UBC,2017,S,NURS,336,,946,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,77.75,4.69,85,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,7,1,0
+UBC,2017,W,NURS,336,,401,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,80.5,4.03,87,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8,4,0
+UBC,2017,W,NURS,336,,402,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Ricci, Joanne",20,83.6,3.42,89,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,10,0
+UBC,2017,W,NURS,427,,002,CONSOLD  PRAC EX,"Ricci, Joanne",114,,,,,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,S,NURS,336,,945,Professional Nursing Practice with Communities and Populations,Joanne Ricci;Monica Swanson;Ranjit Kaur Dhari,20,82.4,4.21026315,89.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,9,7,0
+UBCV,2014,S,NURS,336,,946,Professional Nursing Practice with Communities and Populations,Joanne Ricci;Monica Swanson;Ranjit Kaur Dhari,20,82.6,4.429565738,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,6,9,0
+UBCV,2014,W,NURS,336,,203,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Connie Unger;Donna Taylor;Joanne Ricci;Jonathan Mislang;Monica Swanson;Ranjit Gill;Ranjit Kaur Dhari;Sheila Mary Mcburney,17,81.41176471,6.031778589,92.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,5,5,
+UBCV,2014,W,NURS,336,,204,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Connie Unger;Farah Jetha;Joanne Ricci;Jonathan Mislang;Monica Swanson;Ranjit Gill;Ranjit Kaur Dhari,20,79.4,6.847204578,90.0,65.0,,,,,,,,,,,0,0,0,0,,,,,7,2,
+UBCV,2014,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Sheila Mary Mcburney,19,84.84210526,4.68168011,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,3,11,
+UBCV,2014,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari;Sheila Mary Mcburney,19,83.05263158,4.196211045,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,8,0
+UBCV,2015,S,NURS,336,,945,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Connie Unger;Joanne Ricci;Jonathan Mislang;Kristen Ruddick;Ranjit Kaur Dhari;Sheila Mary Mcburney,19,83.10526316,6.402210875,90.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,4,7,
+UBCV,2015,S,NURS,336,,946,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Connie Unger;Joanne Ricci;Jonathan Mislang;Kristen Ruddick;Monica Swanson;Ranjit Kaur Dhari;Sheila Mary Mcburney,19,82.63157895,2.712328363,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,7,0
+UBCV,2015,W,NURS,336,,203,Professional Nursing Practice with Communities and Populations,Alysha Mcfadden;Beverley Valkenier;Cathryn Jackson;Connie Unger;Joanne Ricci;Jonathan Mislang;Kathy Hydamaka;Ranjit Kaur Dhari,20,82.8,4.137123333,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,4,8,7,0
+UBCV,2015,W,NURS,336,,204,Professional Nursing Practice with Communities and Populations,Alysha Mcfadden;Anne Beetstra;Beverley Valkenier;Cathryn Jackson;Connie Unger;Joanne Ricci;Jonathan Mislang;Monica Swanson;Ranjit Kaur Dhari,20,78.1,4.833000594,88.0,69.0,,,,,,,,,,,0,0,0,0,0,,,7,6,,0
+UBCV,2015,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Alysha Mcfadden;Beverley Valkenier;Cathryn Jackson;Connie Unger;Farah Jetha;Joanne Ricci;Jonathan Mislang;Kristen Ruddick;Ranjit Kaur Dhari,20,81.7,4.669047012,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,5,8,,
+UBCV,2015,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Alysha Mcfadden;Anne Beetstra;Beverley Valkenier;Cathryn Jackson;Connie Unger;Farah Jetha;Joanne Ricci;Jonathan Mislang;Kristen Ruddick;Ranjit Kaur Dhari,20,83.15,4.120232492,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,9,0
+UBCV,2015,W,NURS,341,,001,Relational Nursing Practice as Praxis,Amanda Howard;Catherine Haney;Catherine Margaret Haney;Geertje Boschma;Joanne Ricci,113,79.628318584,5.475912661,89.0,65.0,,,,,,,,,,,0,0,0,0,5,6,11,30,39,22,0
+UBCV,2016,S,NURS,336,,945,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Connie Unger;Joanne Ricci;Jonathan Mislang;Kathy Hydamaka;Michelle Danda;Ranjit Kaur Dhari,20,82.85,3.990449124,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,8,0
+UBCV,2016,S,NURS,336,,946,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Joanne Ricci;Jonathan Mislang;Kathy Hydamaka;Ranjit Kaur Dhari,19,78.73684211,3.955897219,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,4,8,1,0
+UBCV,2016,W,NURS,336,,203,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Corey Hammond;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari,20,78.45,4.740364188,87.0,68.0,,,,,,,,,,,0,0,0,0,0,1,4,6,7,2,0
+UBCV,2016,W,NURS,336,,204,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Corey Hammond;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari,20,77.55,4.795557154,87.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,9,4,2,0
+UBCV,2016,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari,20,81.65,4.880411976,89.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,5,9,4,0
+UBCV,2016,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari,19,80.63157895,5.407921415,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,2,9,4,0
+UBCV,2017,S,NURS,336,,945,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Corey Hammond;Joanne Ricci;Jonathan Mislang;Ranjit Kaur Dhari,20,81.9,4.278465047,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,5,7,7,0
+UBCV,2017,S,NURS,336,,946,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Claire Pitcher;Connie Unger;Corey Hammond;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Kathy Hydamaka;Ranjit Kaur Dhari,20,77.75,4.689012914,85.0,67.0,,,,,,,,,,,0,0,0,0,1,1,4,6,7,1,0
+UBCV,2017,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Williams;Sukhdev Grewal,20,80.5,4.03276058,87.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,6,8,4,0
+UBCV,2017,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Tobert;Sharon Williams;Sukhdev Grewal,20,83.6,3.42437086,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,10,0
+UBCV,2018,W,NURS,180,,002,Stress and Strategies to Promote Well Being,Dalbir Mann;Frances Affleck;Jennifer Marie Lior Stephens;Jennifer Stephens;Jessica Elizabeth Wike;Jessica Wike;Joanne Ricci;Katherine O'Flynn-Magee;Naomi Kober;Parastoo Rahmanian;Paula Foster;Ranjit Kaur Dhari;William Konn;William Richard Konn,50,83.36,2.553588911,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,31,16,0
+UBCV,2020,W,NURS,310,,001,Basic Principles of Pharmacology for Nursing Practice,Chandra Pham;Chandra Waddington;Dalbir Mann;Elsie Tan;Geertje Boschma;Joanne Ricci;Julie Anne Tipping;Lydia Wytenbroek;William Allan Harding,119,85.714285714,3.483965345,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,3,39,63,13

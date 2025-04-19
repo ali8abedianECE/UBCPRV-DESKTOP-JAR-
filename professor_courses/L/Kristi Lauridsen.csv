@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,S,EPSE,516,,93A,ABLE&CREATV LRNR,"Lauridsen, Kristi",20,93.15,4.61,98,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,16,,,
+UBC,2015,S,EPSE,408,,951,ED PRG HGHLY ABL,"Lauridsen, Kristi",19,95.47,3.96,100,88,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17,,,
+UBC,2015,W,EPSE,408,,63D,ED PRG HGHLY ABL,"Lauridsen, Kristi",27,88.74,10.68,100,56,27,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,5,17,,,
+UBC,2016,W,EPSE,408,,63D,ED PRG HGHLY ABL,"Lauridsen, Kristi",36,91.58,12.93,100,30,35,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,4,29,,,
+UBC,2017,W,EPSE,408,,63D,ED PRG HGHLY ABL,"Lauridsen, Kristi",35,93.26,8.11,100,57,35,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,3,29,,,
+UBC,2018,W,EPSE,303,,63B,TCH'G HGHLY ABLE,"Lauridsen, Kristi",35,93.91,5.77,99,74,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,30,,,
+UBC,2018,W,EPSE,408,,63C,ED PRG HGHLY ABL,"Lauridsen, Kristi",31,95.97,3.22,100,89,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,29,,,
+UBCV,2014,S,EPSE,516,,93A,Seminar in the Development and Education of Highly Able and Creative Learners,Kristi Lauridsen,20,93.15,4.614336926,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,16,,,
+UBCV,2015,S,EPSE,408,,951,Educational Programming for Highly Able Learners,Kristi Lauridsen,19,95.47368421,3.963281764,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,17,,,
+UBCV,2015,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,27,88.740740741,10.682813633,100.0,56.0,,,,,,,,,,,0,0,,,,,,,,5,17,,,
+UBCV,2016,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,36,91.58333333,12.92920283,100.0,30.0,,,,,,,,,,,1,0,1,0,0,0,0,0,1,4,29,,,
+UBCV,2017,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,35,93.257142857,8.114412947,100.0,57.0,,,,,,,,,,,0,0,1,0,0,0,0,0,2,3,29,,,
+UBCV,2018,W,EPSE,303,,63B,Teaching Highly Able Learners,Chih Shen Lo;Kristi Lauridsen,35,93.914285714,5.771998474,99.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,30,,,
+UBCV,2018,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Chih Shen Lo;Kristi Lauridsen,31,95.967741935,3.219563852,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,29,,,
+UBCV,2019,W,EPSE,303,,63A,Teaching Highly Able Learners,David Nicks;Kristi Lauridsen,36,84.166666667,19.801154368,98.0,1.0,,,,,,,,,,,2,0,0,0,0,1,2,4,2,5,20,,,
+UBCV,2019,W,EPSE,303,,63B,Teaching Highly Able Learners,David Nicks;Kristi Lauridsen,36,86.972222222,12.086559504,100.0,32.0,,,,,,,,,,,1,0,0,1,0,0,1,2,5,8,18,,,
+UBCV,2020,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Chih Shen Lo;Kristi Lauridsen,25,91.84,10.270021097,100.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,1,2,1,19,,,
+UBCV,2020,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Chih Shen Lo;Kristi Lauridsen,31,96.451612903,2.778953156,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,30,,,
+UBCV,2021,S,EPSE,516,,951,Seminar in the Development and Education of Highly Able and Creative Learners,Chih Shen Lo;Kristi Lauridsen,8,93.25,1.669045921,95.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2021,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,35,95.171428571,4.559964617,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,31,,,
+UBCV,2021,S,EPSE,516,,951,Seminar in the Development and Education of Highly Able and Creative Learners,Kristi Lauridsen,8,93.3,,95.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,93.0,95.0,92.5
+UBCV,2021,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,35,95.2,,100.0,81.0,,,,,,,,,,,,,,,,,,,,,31,96.0,98.5,93.5
+UBCV,2022,S,EPSE,516,,951,Seminar in the Development and Education of Highly Able and Creative Learners,Kristi Lauridsen,18,94.9,,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,95.0,96.0,94.0
+UBCV,2022,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,31,90.6,,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,4,4,19,94.0,97.0,85.0
+UBCV,2023,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,36,89.9,,100.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,2,1,4,27,94.0,97.3,89.8

@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill;Taylor, Eric",57,79.02,5.91,92,62,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,8,11,21,7,2,,,
+UBC,2013,W,BIOL,230,,101,FUND ECOLOGY,"Brodie, Jedediah;Goodey, Wayne;Hansen, Malin;Jankowski, Jill",148,74.23,14.95,93,12,134,11,3,0,0,0,1,1,2,7,11,6,5,7,11,8,15,16,25,27,14,,,
+UBC,2013,W,BIOL,230,,102,FUND ECOLOGY,"Brodie, Jedediah;Goodey, Wayne;Hansen, Malin;Jankowski, Jill",221,74.75,12.82,97,28,208,8,5,0,0,0,0,1,1,6,8,5,6,24,19,21,27,18,26,39,23,,,
+UBC,2013,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",77,85.47,7.86,97,59,77,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,5,3,12,24,27,,,
+UBC,2014,W,BIOL,230,,101,FUND ECOLOGY,"Crutsinger, Gregory;Goodey, Wayne;Jankowski, Jill",171,69.65,11.45,89,30,158,9,4,0,0,0,0,0,3,6,9,5,12,15,28,20,20,23,25,10,0,,,
+UBC,2014,W,BIOL,230,,102,FUND ECOLOGY,"Crutsinger, Gregory;Goodey, Wayne;Jankowski, Jill",225,69.8,9.69,92,46,221,3,1,0,0,0,0,0,0,3,3,11,20,28,31,29,33,30,27,8,4,,,
+UBC,2014,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",63,81.67,6.57,92,62,63,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,12,18,17,6,,,
+UBC,2015,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",57,83.27,6.8,94,48,55,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,3,5,21,20,6,,,
+UBC,2016,S,BIOL,409,,951,ANIMAL ECOLOGY,"Jankowski, Jill",8,83.88,2.59,88,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,,,
+UBC,2016,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",61,83.49,5.91,93,69,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8,16,19,10,,,
+UBC,2017,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",61,79.18,10.12,96,31,60,1,0,0,0,0,0,0,1,0,1,0,1,0,4,6,3,11,17,14,4,,,
+UBC,2017,W,BIOL,416,,201,PR CONSERVT BIOL,"Gonzalez Torres, Luis;Jankowski, Jill",53,85.5,5.16,94,66,52,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,12,26,10,,,
+UBC,2018,W,BIOL,413,,201,ZOOGEOGRAPHY,"Jankowski, Jill",59,78.22,8.65,94,56,58,0,1,0,0,0,0,0,0,0,0,0,1,2,6,4,8,4,19,10,4,,,
+UBCV,2014,W,BIOL,230,,101,Fundamentals of Ecology,Gregory Crutsinger;Jill Jankowski;Wayne Goodey,167,69.64670659,11.45082616,89.0,30.0,,,,,,,,,,,9,5,12,15,28,20,20,23,25,10,0,,,
+UBCV,2014,W,BIOL,230,,102,Fundamentals of Ecology,Gregory Crutsinger;Jill Jankowski;Wayne Goodey,224,69.79910714,9.692574899,92.0,46.0,,,,,,,,,,,3,11,20,28,31,29,33,30,27,8,4,,,
+UBCV,2014,W,BIOL,413,,201,Zoogeography,Jill Jankowski,63,81.66666667,6.569725285,92.0,62.0,,,,,,,,,,,0,0,0,,,,7,12,18,17,6,,,
+UBCV,2015,W,BIOL,413,,201,Zoogeography,Jill Jankowski,56,83.267857143,6.797034304,94.0,48.0,,,,,,,,,,,,,,,,,,5,21,20,6,,,
+UBCV,2016,S,BIOL,409,,951,Field Course in Ecology,Jill Jankowski,8,83.875,2.587745848,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,0,,,
+UBCV,2016,W,BIOL,413,,201,Zoogeography,Jill Jankowski;Santiago David Rivera,61,83.49180328,5.906558363,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,6,8,16,19,10,,,
+UBCV,2017,W,BIOL,413,,201,Zoogeography,Jill Jankowski;Ron Ronald Togunov;Ron Togunov,61,79.180327869,10.11847847,96.0,31.0,,,,,,,,,,,1,0,1,0,4,6,3,11,17,14,4,,,
+UBCV,2017,W,BIOL,416,,201,Principles of Conservation Biology,Jill Jankowski;Ludovic Le Renard;Luis Gonzalez Torres,52,85.5,5.158279087,94.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,1,12,26,10,,,
+UBCV,2018,W,BIOL,413,,201,Zoogeography,Jill Jankowski;Mannfred Boehm,58,78.224137931,8.651220588,94.0,56.0,,,,,,,,,,,0,0,1,2,6,4,8,4,19,10,4,,,
+UBCV,2019,W,BIOL,413,,201,Zoogeography,Jill Jankowski;Mannfred Boehm;Tirosh Shapira,54,82.37037037,8.718439137,97.0,59.0,,,,,,,,,,,0,0,1,2,0,2,5,9,12,9,14,,,
+UBCV,2019,W,BIOL,448,C,201,Directed Studies in Biology,Jill Jankowski,15,89.133333333,6.534159326,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,3,8,,,
+UBCV,2020,W,BIOL,413,,201,Zoogeography,Jill Jankowski;Mannfred Boehm;Rosemary Mcginnis,56,83.178571429,7.548888281,94.0,61.0,,,,,,,,,,,0,0,0,1,1,3,4,5,11,21,10,,,
+UBCV,2020,W,BIOL,448,C,201,Directed Studies in Biology,Jenny Munoz Zapata;Jill Jankowski,24,90.5,2.431675035,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,18,,,
+UBCV,2021,W,BIOL,230,,201,Fundamentals of Ecology,Adam Hicks;Anne Kim;Duncan Macnaughton;Emma Eve Jourdain;Jessica Kowalski;Jihyun Kim;Jill Jankowski;Markus Thormeyer;Rachel Germain;Rachel Wilson,188,78.696808511,13.151466051,96.0,6.0,,,,,,,,,,,7,0,2,2,4,10,17,38,48,40,20,,,
+UBCV,2021,W,BIOL,424,,201,Tropical Ecology and Conservation,Jenny Munoz Zapata;Jill Jankowski,20,86.65,4.295346319,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,7,6,,,
+UBCV,2021,W,BIOL,548,G,201,Advanced Topics in Biology,Jill Jankowski,7,95.0,0.0,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,W,BIOL,230,,201,Fundamentals of Ecology,Rachel Germain;Jill Jankowski;Rachel Wilson,188,79.0,,96.0,6.0,,,,,,,,,,,,,,,,10,17,38,48,40,20,81.0,86.0,76.0
+UBCV,2021,W,BIOL,424,,201,Tropical Ecology and Conservation,Jill Jankowski,20,86.7,,94.0,78.0,,,,,,,,,,,,,,,,,,,6,7,6,86.5,90.0,83.0
+UBCV,2021,W,BIOL,548,G,201,Advanced Topics in Biology,Jill Jankowski,7,95.0,,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,95.0,95.0,95.0
+UBCV,2022,W,BIOL,230,,201,Fundamentals of Ecology,Jill Jankowski;Laura Parfrey;Rachel Wilson,167,79.3,,95.0,0.0,,,,,,,,,,,8,1,2,3,4,5,15,18,37,50,24,83.0,88.0,76.5
+UBCV,2022,W,BIOL,230,,202,Fundamentals of Ecology,Jill Jankowski;Laura Parfrey;Rachel Wilson,136,75.2,,94.0,0.0,,,,,,,,,,,4,3,2,6,12,19,16,21,26,19,8,77.0,84.0,70.0
+UBCV,2022,W,BIOL,424,,201,Tropical Ecology and Conservation,Jill Jankowski,12,92.4,,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,91.5,97.0,89.8

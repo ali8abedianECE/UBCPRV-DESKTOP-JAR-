@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,MECH,456,,201,DESIGN PROJ II,"Cramond, Pat;McAdam, Donald W;Winkelman, Paul",35,83.2,6.6,96,66,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,13,8,8
+UBC,2009,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Kott, Norbert;Olson, James;Winkelman, Paul",118,80.98,6.89,93,38,117,1,0,0,0,0,0,0,1,0,1,0,0,1,2,2,16,14,47,27,8
+UBC,2009,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cramond, Pat;Croft, Elizabeth;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik;Winkelman, Paul",82,81.94,6.07,95,69,81,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,10,13,29,17,10
+UBC,2011,S,MECH,410,E,101,SPECIAL TOPICS,"Winkelman, Paul",16,80.81,6.78,90,66,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,6,1
+UBC,2011,W,MECH,328,,101,MECH ENG PROJECT,"Cramond, Pat;Fengler, Markus;Mikkelsen, Jon;Winkelman, Paul",106,82.76,4.89,93,69,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,16,47,22,14
+UBC,2012,S,MECH,410,E,101,SPECIAL TOPICS,"Croft, Elizabeth;Winkelman, Paul",22,79.24,8.15,93,62,21,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,8,4,2
+UBC,2013,S,APSC,461,,101,GLBL ENG LDRSHIP,"Croft, Elizabeth;Winkelman, Paul",26,79.96,7.86,91,63,25,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,5,2,7,4,4
+UBC,2013,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",98,72.36,12.99,94,0,96,2,0,0,0,1,1,0,0,0,2,2,4,3,10,17,19,16,13,7,5
+UBC,2013,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;TBA;Winkelman, Paul",139,82.7,6.63,94,45,136,1,2,0,0,0,0,0,0,1,1,0,0,1,1,5,10,15,32,55,17
+UBC,2013,W,MECH,356,,101,MACHINE COMPONTS,"Winkelman, Paul",19,77.21,6.78,90,63,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,3,5,2,1
+UBC,2014,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",15,83.33,7.18,90,65,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,9,2
+UBC,2014,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,87.75,2.63,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2014,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",106,77.9,11.45,98,0,104,1,1,0,0,1,0,0,0,0,1,1,1,4,2,11,17,9,28,22,9
+UBC,2014,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Ostafichuk, Peter;Winkelman, Paul",120,81.24,7.39,100,59,120,0,0,0,0,0,0,0,0,0,0,0,1,0,2,13,12,10,41,28,13
+UBC,2014,W,WOOD,356,,101,MACHINE COMPONEN,"Winkelman, Paul",40,74.35,7.97,94,60,40,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10,6,5,7,3,2
+UBC,2015,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",17,78.76,7.45,90,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,6,3,1
+UBC,2015,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,88,2.94,91,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2015,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",33,76.21,15.76,90,0,32,1,0,0,0,1,0,0,0,0,1,0,0,2,1,3,3,5,9,8,1
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2015,W,WOOD,356,,101,MACHINE COMPONEN,"Winkelman, Paul",35,74.43,9.85,94,55,35,0,0,0,0,0,0,0,0,0,0,0,2,2,6,4,3,4,7,6,1
+UBC,2016,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",21,80.75,5.62,91,68,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,8,4,1
+UBC,2016,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",20,81.9,7.38,92,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5,6,3
+UBC,2016,W,MECH,220,,101,TECH SKILLS PRAC,"Fengler, Markus;Green, Sheldon;Parsons, Gregg;Winkelman, Paul;d'Entremont, Agnes",126,79.9,4.89,93,64,124,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,20,33,48,18,2
+UBC,2016,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Mehrandezh, Mehran;Rogak, Steven;Winkelman, Paul",138,79.75,6.78,95,56,137,0,1,0,0,0,0,0,0,0,0,0,1,1,3,4,28,24,48,16,12
+UBC,2017,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",20,79.45,10.54,91,50,20,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,3,4,4,4
+UBC,2017,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,88.5,1.73,90,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2017,W,APSC,261,,103,TECHNLGY&SOC I,"Winkelman, Paul",19,76,8.68,92,56,19,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,5,2,4,2,1
+UBC,2017,W,APSC,262,,202,TECHNLGY&SOC II,"Winkelman, Paul",25,77.96,8.15,90,58,25,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,7,4,7,1
+UBC,2017,W,APSC,262,,203,TECHNLGY&SOC II,"Kannangara, Dhaneshwarie;Winkelman, Paul",12,78.42,9.47,94,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3,1,2
+UBC,2017,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Mehrandezh, Mehran;Rawlings, George;Winkelman, Paul",144,79.77,6.78,92,52,144,0,0,0,0,0,0,0,0,0,0,1,2,1,3,6,16,33,52,24,6
+UBC,2018,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",25,82.83,6.66,90,58,24,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,4,13,2
+UBC,2018,W,APSC,261,,101,TECHNLGY&SOC I,"Winkelman, Paul",30,76.71,9.19,94,50,28,0,2,0,0,0,0,0,0,0,0,1,0,1,0,4,3,9,4,4,2
+UBC,2018,W,APSC,261,,104,TECHNLGY&SOC I,"Ollivier, Kelly;Winkelman, Paul",26,77.08,12.08,97,56,26,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,5,2,4,5,4
+UBC,2018,W,APSC,261,,105,TECHNLGY&SOC I,"Peragovics, Agnes;Winkelman, Paul",29,77.9,7.79,91,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,11,5,5,2
+UBC,2018,W,APSC,262,,202,TECHNLGY&SOC II,"Ollivier, Kelly;Winkelman, Paul",34,74.38,11.19,93,45,32,2,0,0,0,0,0,0,0,2,2,0,1,3,1,1,7,6,7,5,1
+UBC,2018,W,APSC,262,,203,TECHNLGY&SOC II,"Winkelman, Paul",30,73.13,14.73,93,15,28,2,0,0,0,0,1,0,0,1,2,0,1,0,0,8,3,6,6,1,3
+UBC,2018,W,APSC,262,,204,TECHNLGY&SOC II,"Ghasvareh, Pooneh;Winkelman, Paul",29,76.32,7.68,90,60,28,0,1,0,0,0,0,0,0,0,0,0,0,3,0,3,5,5,9,2,1
+UBC,2018,W,APSC,262,,205,TECHNLGY&SOC II,"Ghasvareh, Pooneh;Winkelman, Paul",28,74.32,14.55,85,6,27,1,0,0,0,1,0,0,0,0,1,0,0,1,1,1,5,7,10,2,0
+UBC,2018,W,MECH,328,,101,MECH ENG PROJECT,"Eyking, Adrianna;Fengler, Markus;Hodgson, Antony;Rawlings, George;Winkelman, Paul",127,81.81,4.91,94,71,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,24,46,35,6
+UBC,2018,W,MECH,454,,001,THRMOFLDS CAPSTN,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",9,83.89,7.42,92,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,1
+UBC,2018,W,MECH,457,,001,DESIGN PROJECT,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",82,85.17,5.26,96,73,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,21,29,20
+UBC,2018,W,MECH,458,,001,MECHTRON DSN PRJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",23,85.18,5.16,96,77,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,4
+UBC,2018,W,MECH,459,,001,BIOMED DSGN PROJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",10,85.8,4.96,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4

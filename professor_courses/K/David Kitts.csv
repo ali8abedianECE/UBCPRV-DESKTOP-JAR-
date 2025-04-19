@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,FOOD,525,,001,ADV FOOD TOXICOL,"Kitts, David",9,86.25,1.75,89,84,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,,,
+UBC,2005,W,FOOD,525,,001,ADV FOOD TOXICOL,"Kitts, David",4,84.5,2.52,87,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,,,
+UBC,2006,W,FOOD,522,,001,ADV FOOD CHEMIST,"Kitts, David",6,84.33,3.44,88,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,,,
+UBC,2006,W,FOOD,549,,001,MASTERS THESIS,"Kitts, David",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,FOOD,525,,001,ADV FOOD TOXICOL,"Kitts, David",27,84.44,4.05,90,77,25,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,10,3,,,
+UBC,2007,W,FOOD,549,,001,MASTERS THESIS,"Kitts, David",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,FOOD,525,,001,ADV FOOD TOXICOL,"Kitts, David",10,81.8,3.22,85,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2,0,,,
+UBC,2011,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",21,78.71,4.81,86,61,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,10,1,0,,,
+UBC,2013,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",16,82.8,5.57,94,75,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,2,3,,,
+UBC,2014,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",16,86.94,5.8,97,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,4,,,
+UBC,2015,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",22,86.36,4.69,93,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,9,,,
+UBC,2016,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",26,86.38,3.42,95,80,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,11,6,,,
+UBC,2017,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",23,88.48,3.95,95,82,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,8,,,
+UBC,2018,W,FOOD,525,,002,ADV FOOD TOXICOL,"Kitts, David",20,86.95,5.35,93,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,10,,,
+UBCV,2014,W,FNH,301,,001,Food Chemistry I,David Kitts;Theresa Schroder;Yongting Chen,61,72.91803279,10.98680281,88.0,17.0,,,,,,,,,,,,,,5,,13,10,10,7,9,0,,,
+UBCV,2014,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,16,86.9375,5.801939331,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,8,,,,
+UBCV,2015,W,FNH,301,,001,Food Chemistry I,David Kitts;Ningjian Liang;Yongting Chen,70,72.9,8.812293784,92.0,55.0,,,,,,,,,,,0,0,,8,8,13,13,11,,6,,,,
+UBCV,2015,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,22,86.363636364,4.685798753,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,7,9,,,
+UBCV,2016,W,FNH,301,,001,Food Chemistry I,David Kitts;Kaiwen Mu;Ningjian Liang,68,74.51470588,8.095498375,92.0,56.0,,,,,,,,,,,0,0,1,7,8,7,12,11,14,6,2,,,
+UBCV,2016,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,26,86.38461539,3.418501696,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,11,6,,,
+UBCV,2017,W,FNH,301,,001,Food Chemistry I,David Kitts;Kaiwen Mu,45,80.733333333,6.716330167,90.0,52.0,,,,,,,,,,,0,1,0,0,0,1,7,6,17,11,2,,,
+UBCV,2017,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,23,88.47826087,3.952784579,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,11,8,,,
+UBCV,2018,W,FNH,301,,001,Food Chemistry I,Anika Singh;David Kitts;Kaiwen Mu,59,78.06779661,8.944010531,92.0,53.0,,,,,,,,,,,0,1,2,2,1,5,11,6,15,12,4,,,
+UBCV,2018,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,20,86.95,5.345681976,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,5,10,,,
+UBCV,2019,W,FNH,301,,001,Food Chemistry I,Amelie Huiying Zhang;David Kitts;Shengwu Yu,43,72.651162791,9.726947647,95.0,50.0,,,,,,,,,,,0,2,0,5,4,8,7,5,7,4,1,,,
+UBCV,2019,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,19,89.736842105,4.531888315,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,9,,,
+UBCV,2020,W,FNH,301,,001,Food Chemistry I,Amelie Huiying Zhang;David Kitts;Shengwu Yu,40,74.725,9.240344926,90.0,47.0,,,,,,,,,,,1,0,0,4,4,5,7,5,7,6,1,,,
+UBCV,2020,W,FNH,425,,001,Food Science Laboratory III,Amelie Huiying Zhang;David Kitts;Elizabeth Marie Novak;Elizabeth Novak;Patricia Hingston;Rebecca Robertson;Ronit Mandal,16,87.25,2.435843454,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,3,,,
+UBCV,2020,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts;Zhaoming Xu,34,87.323529412,3.130694455,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,18,9,,,
+UBCV,2020,W,FOOD,527,A,001,Special Topics in Food Science,Alberto Mendoza;David Kitts,34,81.470588235,8.3927649,98.0,70.0,,,,,,,,,,,0,0,0,0,0,6,3,6,7,6,6,,,
+UBCV,2021,W,FNH,301,,001,Food Chemistry,Amelie Huiying Zhang;David Kitts,41,77.0,8.888194417,96.0,53.0,,,,,,,,,,,0,1,0,2,3,4,6,6,11,7,1,,,
+UBCV,2021,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts;Kaiwen Mu,21,85.523809524,3.203420791,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,12,3,,,
+UBCV,2021,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,21,85.5,,90.0,80.0,,,,,,,,,,,,,,,,,,,6,12,,86.0,88.0,84.0
+UBCV,2022,W,FNH,301,,001,Food Chemistry,David Kitts;Rickey Yada,40,76.5,,90.0,61.0,,,,,,,,,,,0,0,0,4,6,3,4,5,9,5,4,77.5,84.0,67.8
+UBCV,2022,W,FOOD,525,,002,Advances in Food Toxicology,David Kitts,20,83.7,,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,5,8,3,85.0,86.3,80.8
+UBCV,2023,W,FNH,301,,001,Food Chemistry,David Kitts,33,78.9,,90.0,54.0,,,,,,,,,,,0,1,0,0,1,1,5,7,10,7,1,80.0,83.0,76.0
+UBCV,2023,W,FOOD,525,,001,Advances in Food Toxicology,David Kitts,25,86.8,,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,14,5,87.0,88.0,85.0

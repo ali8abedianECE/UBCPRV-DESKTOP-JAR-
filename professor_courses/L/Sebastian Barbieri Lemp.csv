@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MATH,253,,103,MULTIVRBL CALC,"Barbieri Lemp, Sebastian",110,78.99,10.94,97,37,106,2,2,0,0,0,0,0,1,1,2,2,1,4,5,7,12,18,19,18,20
+UBC,2018,S,MATH,253,,921,MULTIVRBL CALC,"Barbieri Lemp, Sebastian",112,69.03,14.5,100,19,103,7,2,0,0,0,1,0,2,4,7,8,10,19,10,10,8,11,8,8,11
+UBC,2018,W,MATH,104,,103,DFF CALC AP C&SS,"Barbieri Lemp, Sebastian",99,62.33,18.12,97,5,75,20,3,1,0,1,1,4,1,13,20,12,6,7,9,10,10,6,2,8,5
+UBC,2018,W,MATH,200,,104,CALCULUS 3,"Barbieri Lemp, Sebastian",126,64.67,13.93,91,25,103,17,3,0,1,0,0,3,3,11,17,9,14,9,14,18,12,5,18,2,2
+UBCV,2017,W,MATH,253,,103,Multivariable Calculus,Colin Macdonald;Daniel Gomez;Nicholas Lai;Sebastian Barbieri Lemp,108,78.990740741,10.936089077,97.0,37.0,,,,,,,,,,,2,2,1,4,5,7,12,18,19,18,20
+UBCV,2018,S,MATH,253,,921,Multivariable Calculus,Sebastian Barbieri Lemp,110,69.027272727,14.499895027,100.0,19.0,,,,,,,,,,,7,8,10,19,10,10,8,11,8,8,11
+UBCV,2018,W,MATH,104,,103,Differential Calculus with Applications to Commerce and Social Sciences,Chunchen Ji;Isis Ip;Jieliang Hong;Mark Thomson Maclean;Sebastian Barbieri Lemp;Xiaoyi Chen,95,62.326315789,18.119838725,97.0,5.0,,,,,,,,,,,20,12,6,7,9,10,10,6,2,8,5
+UBCV,2018,W,MATH,200,,104,Calculus III,Albert Chau;Mihai Marian;Sebastian Barbieri Lemp;You Hung Hsu,123,64.349593496,14.23168005,91.0,25.0,,,,,,,,,,,18,9,14,10,14,19,12,5,18,2,2
+UBCV,2019,W,MATH,200,,104,Calculus III,Albert Chau;Jacob Denson;Javier Gonzalez Anaya;Joel Feldman;Joel S. Feldman;Sebastian Barbieri Lemp;Yifu Zhou,96,69.96875,14.746598627,95.0,25.0,,,,,,,,,,,6,6,8,8,10,13,7,9,12,13,4

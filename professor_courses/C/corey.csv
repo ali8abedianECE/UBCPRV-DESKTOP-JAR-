@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,MUSC,161,A,001,PIANO CHAMB ENS,"Coop, Jane;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",21,86.67,4.75,93,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,10,7
+UBC,2006,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",11,87.7,2.67,92,85,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4
+UBC,2007,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",6,87.67,7.53,95,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3
+UBC,2007,W,MUSC,161,A,001,PIANO CHAMB ENS,"Coop, Jane;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",12,84.83,4.11,90,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,1
+UBC,2007,W,MUSC,163,,001,CONTEM PLAYERS,"Hamm, Corey;MAGNANENSI, GIORGIO;Wilson, Eric",23,83.35,7.68,95,63,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,7,8,2
+UBC,2007,W,MUSC,561,A,001,PIANO CHAMB ENS,"Coop, Jane;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",5,89.4,5.27,96,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+UBC,2009,W,MUSC,136,C,001,PIANO REPERT I,"Hamm, Corey",12,85.5,7.43,95,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,5
+UBC,2009,W,MUSC,163,,001,CONTEM PLAYERS,"Hamm, Corey;MAGNANENSI, GIORGIO;Wilson, Eric",17,86.5,4.66,90,73,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,6
+UBC,2009,W,MUSC,563,,001,CONTEMP PLAYERS,"Hamm, Corey;Wilson, Eric",6,88.33,3.2,90,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+UBC,2010,W,MUSC,163,,001,CONTEM PLAYERS,"Hamm, Corey;MAGNANENSI, GIORGIO;Wilson, Eric",17,93.06,1.75,94,90,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+UBC,2010,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",8,87.38,4.5,93,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBC,2010,W,MUSC,563,,001,CONTEMP PLAYERS,"Hamm, Corey;Wilson, Eric",4,94,0,94,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2011,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",9,86.33,7.65,95,75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+UBC,2011,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",7,88.57,1.27,91,87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1
+UBC,2012,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey;Wilson, Eric",13,88.58,7.76,94,75,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,8
+UBC,2012,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",10,87.8,7.54,95,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,4
+UBC,2012,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",5,91.6,5.18,96,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2013,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",19,89.68,1.97,92,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,15
+UBC,2013,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey;Wilson, Eric",15,85.13,2.95,90,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,1
+UBC,2013,W,MUSC,182,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence;Hamm, Corey",6,86.5,3.27,91,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2013,W,MUSC,282,A,700,PERFORMANCE CON,"Anderson, Leonard;Dawson, Terence;Hamm, Corey",5,86.8,3.35,92,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2013,W,MUSC,282,A,737,PERFORMANCE CON,"Chan, Amanda;Dawson, Terence;Hamm, Corey",4,84.25,1.5,86,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2013,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Iwaasa, Rachel;Sharon, Rena",5,89.6,2.61,94,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2013,W,PHAR,330,,001,BIO PHARM CHEM I,"Nislow, Corey;Reid, Ronald",221,83.39,4.26,94,73,221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,25,93,76,17
+UBC,2014,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,84.54,15.3,93,35,12,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,6,5
+UBC,2014,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",8,89.63,2.26,92,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+UBC,2014,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",13,88.58,3.94,95,84,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,4
+UBC,2014,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,90.14,1.92,93,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+UBC,2014,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",7,90.43,2.57,94,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2014,W,MUSC,593,A,705,PERFORMANCE MAJ,"Hamm, Corey",5,91.4,3.13,94,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2014,W,PHAR,330,,001,PGX GENETCS DRGS,"Coughtrie, Michael;Nislow, Corey",219,82.83,5.37,95,65,219,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,47,68,65,22
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2015,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",9,90,3.81,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2015,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",16,88.31,3.84,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8
+UBC,2015,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",17,93.35,1.46,95,89,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16
+UBC,2015,W,MUSC,182,A,705,PERFORMANCE CON,"Dawson, Terence;Hamm, Corey",4,83.5,2.65,87,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+UBC,2015,W,MUSC,549,A,705,MASTERS THESIS,"Hamm, Corey",4,91.33,1.53,93,90,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2015,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",11,90.64,2.38,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+UBC,2015,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",20,85.6,5.23,92,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,4
+UBC,2015,W,PHAR,330,,001,PGX GENETCS DRGS,"Coughtrie, Michael;Nislow, Corey",218,78.84,6.77,92,23,217,1,0,0,0,0,0,1,0,0,1,0,0,0,4,21,32,52,68,36,4
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2016,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",10,88.8,2.7,93,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6
+UBC,2016,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",9,89.44,1.88,92,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5
+UBC,2016,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Hamm, Corey",8,88.13,1.25,90,87,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2
+UBC,2016,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",4,90,2,92,88,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+UBC,2016,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",4,89.5,3.7,92,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2016,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",21,84.62,7.86,96,68,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,3,8,5
+UBC,2017,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Rieseberg, Loren;Rossi, Fabio;Tokuriki, Nobuhiko",15,92.73,3.73,97,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2017,W,MUSC,136,C,001,PIANO REPERT I,"Hamm, Corey",11,91.09,5.65,95,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,9
+UBC,2017,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",12,90.92,3.73,94,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10
+UBC,2017,W,MUSC,182,A,705,PERFORMANCE CON,"Dawson, Terence;Hamm, Corey",4,86,1.63,88,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2017,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",4,89.25,2.87,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2017,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",13,83.69,14.41,96,41,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,4,5
+UBC,2018,W,BIOC,450,,001,MEMBRANE BIOC,"Duong Van Hoa, Franck;Molday, Robert;Nislow, Corey;Strynadka, Natalie;Van Petegem, Filip",40,80.88,8.31,94,57,40,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,3,7,13,9,4
+UBC,2018,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Gillham, David;Hamm, Corey",14,86.86,1.92,90,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+UBC,2018,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Hamm, Corey",7,90.14,11.14,96,65,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6
+UBC,2018,W,MUSC,282,A,705,PERFORMANCE CON,"Dawson, Terence;Hamm, Corey",4,86.75,1.5,88,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2018,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Orton, Dennis;Price, Richard;Pudek, Morris;Purssell, Roy;Wang, Li;Xenakis, Jennifer",12,85.58,7.45,94,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,6

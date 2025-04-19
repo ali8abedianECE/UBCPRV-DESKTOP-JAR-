@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,NURS,430,A,941,FOCUS NURS PRAC,"Affleck, Frances;Cunningham, Margaret Mui Yeah;Foster, Paula;Leung, Linda;McBurney, Sheila Mary",59,81.39,6.64,96,63,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8,12,14,16,5
+UBC,2010,W,NURS,302,,001,FNDTN NURS PRACT,"McBurney, Sheila Mary;O'Flynn-Magee, Katherine",120,83.67,4.7,96,69,119,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,12,44,45,11
+UBC,2011,W,NURS,302,,001,FNDTN NURS PRACT,"McBurney, Sheila Mary;O'Flynn-Magee, Katherine",120,80.38,4.89,92,63,119,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3,9,31,50,22,1
+UBC,2011,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",16,83.56,7.56,94,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,3,5
+UBC,2012,W,NURS,302,,001,FNDTN NURS PRACT,"McBurney, Sheila Mary;O'Flynn-Magee, Katherine",119,82.91,4.84,94,60,119,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,19,46,40,7
+UBC,2012,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",19,83.95,5.26,93,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4,3
+UBC,2013,W,NURS,302,,001,FNDTN NURS PRACT,"Boschma, Geertje;Brown, Helen Jean;Camacho, Sarah;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Valkenier, Beverley",118,84.01,4.45,94,71,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,10,41,53,9
+UBC,2013,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",19,84.21,5.48,93,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,6,3
+UBC,2014,W,NURS,302,,001,FNDTN NURS PRACT,"Affleck, Frances;Boschma, Geertje;Brown, Helen Jean;Foster, Paula;Jackson, Cathryn;McBurney, Sheila Mary;Rea, Gail;Thorne, Sally",120,87.02,5.45,95,47,118,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,6,19,56,37
+UBC,2014,W,NURS,303,,001,ADULTS & FAMLIES,"Affleck, Frances;Foster, Paula;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Rea, Gail;Segaric, Cheryl",121,85.43,5.06,94,50,120,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,7,35,59,17
+UBC,2014,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,79.85,3.96,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,3,0
+UBC,2014,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,81.25,4.72,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,5,6,0
+UBC,2014,W,NURS,334,,405,INFNT CHLD YOUTH,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Tan, Elsie;Valkenier, Beverley",20,83.3,5.3,94,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,4,3
+UBC,2014,W,NURS,334,,406,INFNT CHLD YOUTH,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Tan, Elsie;Valkenier, Beverley",20,82,4.91,90,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,10,4,2
+UBC,2014,W,NURS,335,,401,ADLT MNTL ILLNSS,"Groening, Marlee;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,79.95,4.13,86,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,9,2,0
+UBC,2014,W,NURS,335,,402,ADLT MNTL ILLNSS,"Groening, Marlee;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,76.16,3.62,82,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,4,5,0,0
+UBC,2014,W,NURS,336,,401,COMMNTY & POPLTN,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Ricci, Joanne;Valkenier, Beverley",19,84.84,4.68,93,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11,2
+UBC,2014,W,NURS,336,,402,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,83.05,4.2,89,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,8,0
+UBC,2014,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,82.37,4.66,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,16,13,1
+UBC,2014,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",18,82.39,5.71,91,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,7,6,1
+UBC,2015,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",12,85.83,5.46,93,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,3
+UBC,2016,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",19,83.84,6.4,91,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5,7,3
+UBC,2017,W,NURS,360,,001,NURSING ADULTS,"McBurney, Sheila Mary",121,,,,,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,NURS,425,,002,COMMNTY&POP HLTH,"McBurney, Sheila Mary",12,85.25,4.61,90,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,2

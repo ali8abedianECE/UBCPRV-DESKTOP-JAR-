@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,APSC,486,,001,New Venture Design,Antony Hodgson;James Blair Simonite;James Simonite;Jonas Altman;Paul Cubbon;Philippe Kruchten,32,82.65625,3.137796381,90.0,77.0,0,0,0,0,0,0,0,5,21,5,1,,,
+UBCV,2015,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,Antony Hodgson;James Blair Simonite;James Simonite;Jonas Altman;Paul Cubbon;Philippe Kruchten,13,82.153846154,3.436232284,85.0,72.0,0,0,0,0,0,0,,,9,,0,,,
+UBCV,2015,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,46,83.586956522,2.490658877,91.0,79.0,0,0,0,0,0,0,0,,33,10,,,,
+UBCV,2015,W,BAEN,510,,001,Intrapreneurship,James Blair Simonite,18,85.5,3.666221007,94.0,80.0,0,0,0,0,0,0,0,0,6,9,3,,,
+UBCV,2015,W,COMM,466,,001,New Venture Design,Antony Hodgson;James Blair Simonite;James Simonite;Jonas Altman;Paul Cubbon;Philippe Kruchten,43,82.604651163,3.281546782,89.0,69.0,0,0,0,0,0,,,,32,6,0,,,
+UBCV,2016,W,APSC,486,,001,New Venture Design,Antony Hodgson;David Miller;James Blair Simonite;James Simonite;Jonas Altman;Julian Rhind;Paul Cubbon;Tamara Etmannski,16,83.5,4.760952286,88.0,70.0,0,0,0,0,0,1,0,2,4,9,0,,,
+UBCV,2016,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,Antony Hodgson;David Miller;James Blair Simonite;James Simonite;Jonas Altman;Julian Rhind;Paul Cubbon;Tamara Etmannski,6,82.83333333,1.329160136,85.0,82.0,0,0,0,0,0,0,0,0,5,1,0,,,
+UBCV,2016,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,David Miller;James Blair Simonite;James Simonite;Philippe Kruchten;Tamara Etmannski,8,84.75,3.412163118,88.0,77.0,0,0,0,0,0,0,0,1,2,5,0,,,
+UBCV,2016,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,41,83.17073171,2.710188545,90.0,79.0,0,0,0,0,0,0,0,1,27,12,1,,,
+UBCV,2016,W,BAEN,510,,001,Intrapreneurship,Ekin Ok;James Blair Simonite,41,84.68292683,3.757918469,94.0,78.0,0,0,0,0,0,0,0,2,22,11,6,,,
+UBCV,2016,W,COMM,466,,001,New Venture Design,David Miller;James Blair Simonite;James Simonite;Tamara Etmannski,22,84.04545455,2.572330289,88.0,78.0,0,0,0,0,0,0,0,2,10,10,0,,,
+UBCV,2017,W,APSC,486,,001,New Venture Design,Antony Hodgson;David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Tamara Etmannski,18,85.055555556,2.940032457,91.0,82.0,0,0,0,0,0,0,0,0,9,6,3,,,
+UBCV,2017,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,29,83.655172414,3.038748122,88.0,78.0,0,0,0,0,0,0,0,3,13,13,0,,,
+UBCV,2017,W,BAEN,510,,001,Intrapreneurship,James Blair Simonite;Megan Kofoed,37,85.486486486,3.625692437,94.0,80.0,0,0,0,0,0,0,0,0,19,13,5,,,
+UBCV,2017,W,COMM,466,,001,New Venture Design,Antony Hodgson;Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,12,84.583333333,2.466441431,90.0,82.0,0,0,0,0,0,0,0,0,6,5,1,,,
+UBCV,2018,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,14,83.571428571,2.901307019,88.0,77.0,0,0,0,0,0,0,0,1,7,6,0,,,
+UBCV,2018,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,7,87.142857143,3.132015934,90.0,83.0,0,0,0,0,0,0,0,0,2,2,3,,,
+UBCV,2018,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,7,83.857142857,2.410295378,88.0,81.0,0,0,0,0,0,0,0,0,5,2,0,,,
+UBCV,2018,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,27,85.555555556,3.682947538,92.0,79.0,0,0,0,0,0,0,0,1,11,11,4,,,
+UBCV,2018,W,BAEN,510,,817,Intrapreneurship,James Blair Simonite,21,84.19047619,3.641689822,94.0,78.0,0,0,0,0,0,0,0,1,10,9,1,,,
+UBCV,2018,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,20,84.65,2.680828623,90.0,81.0,0,0,0,0,0,0,0,0,9,10,1,,,
+UBCV,2019,W,APSC,486,,002,New Venture Design,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,16,85.375,4.193248542,91.0,79.0,0,0,0,0,0,0,0,2,4,8,2,,,
+UBCV,2019,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,9,85.444444444,4.824704942,94.0,78.0,0,0,0,0,0,0,0,1,5,1,2,,,
+UBCV,2019,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,9,85.222222222,4.236088342,91.0,79.0,0,0,0,0,0,0,0,1,2,5,1,,,
+UBCV,2019,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,45,83.777777778,2.999158131,91.0,79.0,0,0,0,0,0,0,0,1,29,11,4,,,
+UBCV,2019,W,COMM,466,,002,New Venture Design,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,17,82.882352941,4.85904251,91.0,75.0,0,0,0,0,0,0,1,4,5,5,2,,,
+UBCV,2020,W,APSC,486,,002,New Venture Design,Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,15,84.8,3.189267717,90.0,80.0,0,0,0,0,0,0,0,0,6,8,1,,,
+UBCV,2020,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,6,85.666666667,2.160246899,87.0,82.0,0,0,0,0,0,0,0,0,2,4,0,,,
+UBCV,2020,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;Zitian Tong,25,84.12,3.551056181,90.0,79.0,0,0,0,0,0,0,0,1,14,7,3,,,
+UBCV,2020,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Paige Tighe;James Blair Simonite;Zitian Tong,22,83.818181818,4.193377587,94.0,77.0,0,0,0,0,0,0,0,5,9,6,2,,,
+UBCV,2020,W,COMM,466,,002,New Venture Design,David Miller;Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina;Zitian Tong,21,84.19047619,2.542027687,88.0,80.0,0,0,0,0,0,0,0,0,9,12,0,,,
+UBCV,2021,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,21,82.571428571,3.091462899,88.0,76.0,0,0,0,0,0,0,0,1,14,6,0,,,
+UBCV,2021,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,6,83.666666667,2.422120283,86.0,80.0,0,0,0,0,0,0,0,0,3,3,0,,,
+UBCV,2021,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite,39,84.512820513,3.243388375,91.0,78.0,0,0,0,0,0,0,0,1,22,13,3,,,
+UBCV,2021,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe;Elizabeth Castle;James Blair Simonite,26,83.230769231,2.657934421,89.0,79.0,0,0,0,0,0,0,0,1,16,9,0,,,
+UBCV,2021,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,21,82.857142857,2.688600273,88.0,80.0,0,0,0,0,0,0,0,0,15,6,0,,,
+UBCV,2021,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus,21,82.6,,88.0,76.0,,,,,,,,,14,6,,82.0,85.0,81.0
+UBCV,2021,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;Konrad Walus,6,83.7,,86.0,80.0,,,,,,,,,,,,84.0,85.8,82.3
+UBCV,2021,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite,39,84.5,,91.0,78.0,,,,,,,,,22,13,,84.0,87.0,82.0
+UBCV,2021,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus,21,82.9,,88.0,80.0,0,0,0,0,0,0,0,0,15,6,0,82.0,86.0,81.0
+UBCV,2022,W,APSC,486,,001,New Venture Design,Paul Lusina;David Miller;Fraser Pogue;James Blair Simonite,21,82.3,,90.0,74.0,0,0,0,0,0,0,1,2,13,4,1,82.0,83.0,81.0
+UBCV,2022,W,COMM,466,,001,New Venture Design,Paul Lusina;David Miller;Fraser Pogue;James Blair Simonite,21,82.9,,90.0,76.0,0,0,0,0,0,0,0,3,12,4,2,83.0,85.0,81.0
+UBCV,2023,W,APSC,486,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,21,83.9,,92.0,76.0,0,0,0,0,0,0,0,4,7,7,3,84.0,87.0,81.0
+UBCV,2023,W,APSC,486,,002,New Venture Design,Angele Beausoleil;Paul Lusina;James Blair Simonite,24,84.1,,88.0,80.0,0,0,0,0,0,0,0,0,11,13,0,85.0,86.0,82.8
+UBCV,2023,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,10,81.7,,88.0,76.0,0,0,0,0,0,0,0,2,6,2,0,81.5,83.8,80.0
+UBCV,2023,W,COMM,466,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,18,82.78,,90.0,77.0,0,0,0,0,0,0,0,4,9,4,1,83.0,84.75,80.25
+UBCV,2023,W,COMM,466,,002,New Venture Design,Angele Beausoleil;Paul Lusina;James Blair Simonite,16,82.19,,88.0,77.0,0,0,0,0,0,0,0,4,7,5,0,82.0,85.0,79.75

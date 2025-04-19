@@ -1,0 +1,85 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,AGSC,450,,001,LAND FOOD COMM 3,"Brunetti, Tony;Rojas, Alejandro",142,80.43,7.82,96,44,141,1,0,0,0,0,0,0,0,1,1,1,1,4,1,4,17,27,44,30,12
+UBC,2002,W,BIOL,410,,201,CUR TPCS ANL BEH,"Pitcher, Tony",17,83.12,5.28,91,72,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,6,2
+UBC,2002,W,ETEC,510,,64A,DES TECH,"Bates, Tony",14,87.45,2.81,91,84,11,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3
+UBC,2002,W,FISH,500,,001,FISHERIES MNGMT,"Pitcher, Tony",8,84.5,3.08,87,79,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0
+UBC,2002,W,FISH,502,,001,MAR FISH WLDWIDE,"Pitcher, Tony",4,84.33,3.51,88,81,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+UBC,2003,W,ETEC,520,,65A,PLAN MAN LEARN,"Bates, Tony",11,75.75,30.63,88,0,7,1,2,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0
+UBC,2005,W,BIOL,410,,201,CUR TPCS ANL BEH,"Pitcher, Tony",8,83.5,5.18,90,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,1
+UBC,2005,W,FISH,500,,001,FISHERIES MNGMT,"Pauly, Daniel;Pitcher, Tony",9,87.89,2.93,91,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4
+UBC,2005,W,FISH,504,,001,QUANT AN FISH I,"Pitcher, Tony",10,85.33,6.32,94,77,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,3
+UBC,2006,W,BIOL,410,,201,CUR TPCS ANL BEH,"Pitcher, Tony",5,79.6,15.79,94,53,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,1
+UBC,2006,W,HKIN,330,,001,HMN MOT BEHAV II,"CARLSEN, TONY;CRESSMAN, ERIN",134,69.13,14.42,95,0,123,8,3,0,0,1,1,0,0,6,8,12,8,13,14,13,14,16,16,11,6
+UBC,2006,W,HKIN,468,,001,HUMAN MOTOR PERF,"CARLSEN, TONY;CRESSMAN, ERIN",85,73.02,10.75,94,50,85,0,0,0,0,0,0,0,0,0,0,4,6,9,6,13,11,7,18,5,6
+UBC,2009,W,HKIN,330,,L1A,HMN MOT BEHAV II,"CARLSEN, TONY;Chua, Romeo",21,69.55,11.33,87,51,20,0,1,0,0,0,0,0,0,0,0,2,2,3,1,1,6,0,2,3,0
+UBC,2009,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,76.58,6.8,90,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3,8,7,2,1
+UBC,2009,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,73.8,7.74,86,56,25,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,6,5,5,2,0
+UBC,2009,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,78.62,5.43,90,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,6,4,1
+UBC,2009,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,74.13,6.07,85,62,24,0,1,0,0,0,0,0,0,0,0,0,0,1,2,4,4,8,4,1,0
+UBC,2009,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,78.38,5.41,90,65,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,8,7,3,1
+UBC,2009,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,70.44,11.2,90,38,24,1,0,0,0,0,0,0,1,0,1,1,2,1,3,1,5,7,3,0,1
+UBC,2010,W,EOSC,478,,101,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",35,71.69,9.41,86,40,34,1,0,0,0,0,0,0,0,1,1,1,1,3,1,6,10,5,6,1,0
+UBC,2010,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,74.31,11.56,90,31,25,1,0,0,0,0,0,0,1,0,1,0,0,1,2,4,5,3,6,3,1
+UBC,2010,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony",27,76.7,7.7,88,53,27,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,6,3,10,4,0
+UBC,2010,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,79.69,4.09,86,73,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,9,5,0
+UBC,2010,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,73.12,6.88,87,60,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,7,3,1,4,0
+UBC,2010,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,75.16,8.7,91,55,25,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,4,7,4,3,1
+UBC,2010,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,74.69,7.15,85,60,26,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,6,7,6,2,0
+UBC,2011,W,EOSC,478,,101,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",50,69.9,11.06,89,24,47,1,0,1,0,0,0,1,0,0,1,2,3,5,5,11,5,10,3,3,0
+UBC,2011,W,HKIN,330,,L1A,HMN MOT BEHAV II,"CARLSEN, TONY;Chua, Romeo",25,67,16.61,90,36,20,5,0,0,0,0,0,0,1,4,5,2,1,1,4,1,2,1,4,3,1
+UBC,2011,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,78.76,6.31,90,60,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,4,9,5,1
+UBC,2011,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.88,9.48,91,55,25,0,0,0,0,0,0,0,0,0,0,0,3,0,1,5,4,5,3,3,1
+UBC,2011,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,78.71,9.93,91,50,24,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,2,5,4,7,2
+UBC,2011,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,74.32,8.16,91,57,25,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,4,5,6,1,1
+UBC,2011,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.52,6.32,85,57,25,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8,5,4,1,0
+UBC,2011,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,77.28,6.53,88,60,25,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,5,8,4,0
+UBC,2011,W,PHAR,202,,L07,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,76.6,6.71,90,60,25,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,7,8,1,1
+UBC,2011,W,PHAR,202,,L08,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.44,8.91,87,51,25,0,0,0,0,0,0,0,0,0,0,1,0,1,4,5,3,2,6,3,0
+UBC,2011,W,PHAR,202,,L09,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,75.12,6.57,85,64,25,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,8,5,2,0
+UBC,2012,W,EOSC,478,,101,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",35,72.54,12.77,91,39,32,3,0,0,0,0,0,0,1,2,3,2,0,0,3,6,6,3,7,2,3
+UBC,2012,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",10,88.5,3.81,93,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4
+UBC,2012,W,PHAR,202,,L01,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",38,78,6.47,90,64,38,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,7,12,6,8,1
+UBC,2012,W,PHAR,202,,L02,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",37,78.94,6.36,90,66,36,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,11,7,2
+UBC,2012,W,PHAR,202,,L03,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",38,79.26,5.4,87,61,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,8,16,7,0
+UBC,2012,W,PHAR,202,,L04,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",38,79.55,5.51,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6,17,6,1
+UBC,2012,W,PHAR,202,,L05,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",36,75.33,5.03,85,68,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,11,7,2,0
+UBC,2012,W,PHAR,202,,L06,PHARM SKL I,"Seet, Tony;Seto, Katherine;Soon, Judith",37,78.78,6.43,91,64,37,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,6,13,6,2
+UBC,2013,W,ARCH,501,,006,ARCH DESIGN 1B,"Osborn, Tony",4,87.5,3.11,90,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2013,W,ARCH,540,,006,ARCH DESIGN 3A,"Osborn, Tony",6,81.67,6.83,88,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0
+UBC,2013,W,EOSC,478,,201,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",48,75.96,9.25,95,51,48,0,0,0,0,0,0,0,0,0,0,2,1,0,5,8,5,8,11,4,4
+UBC,2013,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",6,85.17,4.4,89,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0
+UBC,2013,W,PHAR,202,,L01,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,80.19,7.44,88,52,37,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,5,12,14,0
+UBC,2013,W,PHAR,202,,L02,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,77.24,8,91,57,37,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,5,7,10,7,1
+UBC,2013,W,PHAR,202,,L03,PHARM SKL I,"Seet, Tony;Seto, Katherine",38,82.16,5.81,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,11,14,4
+UBC,2013,W,PHAR,202,,L04,PHARM SKL I,"Seet, Tony;Seto, Katherine",38,77.21,6.4,91,62,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,10,10,5,1
+UBC,2013,W,PHAR,202,,L05,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,75.89,7.35,88,56,37,0,0,0,0,0,0,0,0,0,0,0,2,1,0,4,6,12,7,5,0
+UBC,2013,W,PHAR,202,,L06,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,73.51,7.36,86,60,37,0,0,0,0,0,0,0,0,0,0,0,0,4,2,9,7,3,9,3,0
+UBC,2014,W,EOSC,478,,101,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",59,71.62,8.56,86,37,57,1,1,0,0,0,0,0,1,0,1,0,1,6,10,10,10,10,8,2,0
+UBC,2014,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",9,87.67,1.94,91,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2
+UBC,2014,W,PHAR,202,,L01,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,76.08,6.42,88,64,37,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,9,8,7,6,0
+UBC,2014,W,PHAR,202,,L02,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,77.59,6.07,91,65,37,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,6,14,4,1
+UBC,2014,W,PHAR,202,,L03,PHARM SKL I,"Seet, Tony;Seto, Katherine",38,81.45,6.02,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,14,10,4
+UBC,2014,W,PHAR,202,,L04,PHARM SKL I,"Seet, Tony;Seto, Katherine",38,81.24,7.23,93,64,38,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,8,7,13,4
+UBC,2014,W,PHAR,202,,L05,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,78.78,5.12,88,70,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,9,12,7,0
+UBC,2014,W,PHAR,202,,L06,PHARM SKL I,"Seet, Tony;Seto, Katherine",37,79.86,6.02,90,64,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,11,6,12,2
+UBC,2014,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Popescu, Tony",5,87.4,6.8,94,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+UBC,2015,W,EOSC,478,,101,INTRO FISH SCIEN,"Pakhomov, Yevhenii;Pitcher, Tony",50,81.52,10.39,97,54,48,0,2,0,0,0,0,0,0,0,0,2,1,2,0,0,2,10,10,11,10
+UBC,2015,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",10,86.89,3.3,91,80,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1
+UBC,2015,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Lee, Lawrence;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",24,74.96,10.1,94,57,23,0,1,0,0,0,0,0,0,0,0,0,2,1,2,3,3,6,2,1,3
+UBC,2015,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Cairns, Brian;Chen, Tim;Collier, Abby;De Vera, Mary;Ensom, Mary;Frankel, Adam;Hafeli, Urs;Li, Shyh-dar;Lynd, Larry;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Judy",221,81.43,5.55,93,38,201,1,1,0,18,0,0,0,1,0,1,0,0,0,0,4,21,42,79,46,9
+UBC,2015,W,PHRM,111,,001,MED MANAGEMENT 1,"Chan, Fong;Frankel, Adam;Lalji, Fawziah;Massaro, Davide;Miller, Penelope;Moshenko, Janice Lynn;Park, Charles;Seet, Tony;Watson, Hilary;Zed, Peter",212,75.97,5.35,90,51,212,0,0,0,0,0,0,0,0,0,0,1,0,1,7,35,55,57,48,7,1
+UBC,2016,W,ENDS,402,,001,ENDS DESIGN IV,"Hannah-Suarez, Fernanda;Osborn, Tony",31,81.1,5.42,93,69,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,13,5,2
+UBC,2016,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Lee, Lawrence;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",15,74.93,12.33,91,54,15,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,2,1,3,3,1
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2017,S,PHAR,403,,941,ADMN OF INJECTNS,"Ladak, Ali Reza;Seet, Tony;Seto, Katherine",43,93.19,2.53,99,89,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,40
+UBC,2017,S,PHRM,361,,941,INJECTIONS,"Ladak, Ali Reza;Seet, Tony;Seto, Katherine",49,93.63,2.93,97,86,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,43
+UBC,2017,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",14,80.36,6.02,93,68,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,2,1
+UBC,2017,W,PHAR,403,,001,ADMN OF INJECTNS,"Ladak, Ali Reza;Seet, Tony",106,92.37,3.68,98,74,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,95
+UBC,2017,W,PHAR,403,,002,ADMN OF INJECTNS,"Ladak, Ali Reza;Seet, Tony",72,92.86,4.36,97,77,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,64
+UBC,2017,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Brady, Colleen;Cairns, Brian;Carr, Roxane;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Ensom, Mary;Frankel, Adam;Gerber, Patricia;Hafeli, Urs;Harrison, Mark;Li, Shyh-dar;Lynd, Larry;McCormack, James;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Harvey;Wong, Judy",223,82.04,6.53,94,59,222,0,1,0,0,0,0,0,0,0,0,0,5,0,2,5,16,39,69,66,20
+UBC,2017,W,PHRM,361,,001,INJECTIONS,"Ladak, Ali Reza;Seet, Tony",154,93.17,3.44,98,71,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,9,141
+UBC,2017,W,PHYS,534,,101,RDIOTHRPY PHY I,"Baillie, Alistair;Beckham, Wayne;Duzenli, Cheryl;Hyde, Derek;Teke, Tony;Zavgorodni, Sergei",6,85.33,12.88,96,62,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3
+UBC,2018,S,PHAR,420,B,950,PHARMACY ED,"Seet, Tony",5,82.8,1.3,85,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+UBC,2018,W,PATH,304,,001,HUM HISTOLOGY,"Bush, Jonathan;Gilks, Cyril Blake;Li, Charles;Ng, Tony;Nimmo, Michael;Skinnider, Brian;Yip, Stephen",23,83.83,10.26,95,57,23,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,1,5,5,8
+UBC,2018,W,PHRM,100,,001,FOUND OF PHRM,"Cairns, Brian;Carr, Roxane;Chan, Fong;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Frankel, Adam;Gerber, Patricia;Grierson, David;Hafeli, Urs;Harrison, Mark;Ladak, Ali Reza;Li, Shyh-dar;Mira, Aileen;Moshenko, Janice Lynn;Rodrigues, Brian;Seet, Tony;Wong, Judy",228,81.08,6.67,94,55,223,0,3,0,2,0,0,0,0,0,0,0,7,0,0,8,23,37,79,55,14
+UBC,2018,W,PHRM,111,,001,MED MANAGEMENT 1,"Barry, Arden;Cairns, Brian;Carr, Roxane;Frankel, Adam;Khurana, Christine;Kumar, Ujendra;Ladak, Ali Reza;Lalji, Fawziah;McCormack, James;Miller, Penelope;Mira, Aileen;Moshenko, Janice Lynn;Price, Ingrid;Rodrigues, Brian;Seet, Tony;Watson, Hilary;Wilbur, Kerry;Wong, Judy;Xia, Jane Meng",217,82.31,5.34,93,59,216,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6,15,41,65,72,16

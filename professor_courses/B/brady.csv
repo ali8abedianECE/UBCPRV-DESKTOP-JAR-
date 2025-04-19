@@ -1,0 +1,94 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHAR,200,,001,PROF PRACTICE II,"Brady, Colleen",139,74.94,5.29,86,62,139,0,0,0,0,0,0,0,0,0,0,0,0,4,10,20,38,34,32,1,0
+UBC,2002,W,PHAR,453,C,004,Dir Stu Phar Pra,"Brady, Colleen;Fielding, David",12,86.08,2.97,91,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,1
+UBC,2003,W,PHAR,200,,001,PROF PRACTICE II,"Brady, Colleen",145,74.1,5.5,86,55,143,0,1,0,1,0,0,0,0,0,0,0,3,2,14,18,53,26,23,4,0
+UBC,2003,W,PHAR,453,C,012,Dir Stu Phar Pra,"Brady, Colleen",12,83.17,2.92,88,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,0
+UBC,2005,W,BAMA,501,,001,PRICING,"BRADY, PAUL",15,80.33,4.55,85,71,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,9,2,0
+UBC,2005,W,BAMA,501,,002,PRICING,"BRADY, PAUL",24,86.46,3.76,92,76,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,10,7
+UBC,2005,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen",22,75.5,8.79,92,60,22,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,5,4,3,1,2
+UBC,2005,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen",24,82.75,5.4,90,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,7,9,1
+UBC,2005,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen",24,86.33,5.59,95,72,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,8
+UBC,2005,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen",23,82.43,5.98,94,69,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,9,6,2
+UBC,2005,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen",24,83.42,7.52,93,65,24,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,5,7,6
+UBC,2005,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen",24,85.88,4.8,94,76,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,6,7
+UBC,2005,W,PHAR,361,,001,NON-PRES DRUGS,"Brady, Colleen;Watson, Hilary",141,74.24,8.12,92,55,141,0,0,0,0,0,0,0,0,0,0,0,6,8,16,19,34,13,28,14,3
+UBC,2005,W,PHAR,453,B,008,Dir Stu Phar Pra,"Brady, Colleen",12,84.42,4.8,89,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11,0
+UBC,2005,W,PHAR,462,,001,DRUGS HLTH IV,"Brady, Colleen",131,78.39,7.6,94,57,131,0,0,0,0,0,0,0,0,0,0,0,4,2,4,13,15,14,49,24,6
+UBC,2006,W,BAMA,501,,001,PRICING,"BRADY, PAUL",27,84.5,2.86,91,79,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,10,2
+UBC,2006,W,BAMA,501,,002,PRICING,"BRADY, PAUL",17,84.59,2.21,89,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,7,0
+UBC,2006,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen",153,82.51,5.32,92,70,152,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,12,21,45,53,18
+UBC,2006,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen",16,77.25,7.6,86,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,4,4,0
+UBC,2006,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen",27,79.3,7.43,90,58,27,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,7,8,6,1
+UBC,2006,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen",27,80.74,6.04,91,68,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,8,6,2
+UBC,2006,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen",27,80.93,5.53,92,68,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,11,8,1
+UBC,2006,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen",27,87.3,4.03,94,80,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,9
+UBC,2006,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen",27,84.11,4.51,93,76,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,12,3
+UBC,2006,W,PHAR,453,B,008,Dir Stu Phar Pra,"Brady, Colleen",12,88.92,2.31,93,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4
+UBC,2007,W,BAMA,501,,002,PRICING,"BRADY, PAUL",29,84.83,3.28,91,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,12,3
+UBC,2007,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen",152,74.68,9.14,92,55,152,0,0,0,0,0,0,0,0,0,0,0,8,12,16,12,18,29,31,23,3
+UBC,2007,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen",27,80.74,6.17,91,66,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,8,8,2
+UBC,2007,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen",22,79.19,5.02,87,68,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,10,3,0
+UBC,2007,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen",27,82.37,4.92,91,70,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,11,10,2
+UBC,2007,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen",27,85,4.22,93,76,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,13,5
+UBC,2007,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen",27,84.74,4.31,92,76,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,15,4
+UBC,2007,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen",27,85.78,3.59,93,78,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,14,5
+UBC,2007,W,PHAR,453,B,001,Dir Stu Phar Pra,"Brady, Colleen",14,88,0,88,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+UBC,2009,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen",153,80.93,6.29,92,61,152,0,1,0,0,0,0,0,0,0,0,0,0,1,3,7,15,25,38,52,11
+UBC,2009,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen",26,77.54,5.73,90,66,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,5,7,3,1
+UBC,2009,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen",25,80.2,6.26,90,66,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,8,6,1
+UBC,2009,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen",25,85.2,3.77,91,77,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,12,5
+UBC,2009,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen",25,81.32,6.82,94,66,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,6,7,3
+UBC,2009,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen",25,81.36,6.06,90,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,9,9,1
+UBC,2009,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen",25,84.88,3.96,91,76,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,12,4
+UBC,2009,W,PHAR,453,B,001,Dir Stu Phar Pra,"Brady, Colleen",14,87.79,0.8,88,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+UBC,2010,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen",155,83.05,6.2,94,42,154,1,0,0,0,0,0,0,0,1,1,0,0,0,1,2,7,20,43,58,23
+UBC,2010,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen",25,83.52,5.41,94,71,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,9,8,4
+UBC,2010,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen",25,81.52,5.39,90,72,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,7,7,3
+UBC,2010,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen",25,83.6,4.8,92,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,14,2
+UBC,2010,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen",25,81.2,10.52,92,48,24,1,0,0,0,0,0,0,0,1,1,0,0,0,2,1,1,3,5,5,7
+UBC,2010,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen",23,87,4.68,94,72,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,11,8
+UBC,2010,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen",24,85.88,4.88,93,73,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,11,6
+UBC,2010,W,PHAR,453,B,001,Dir Stu Phar Pra,"Brady, Colleen",15,89.33,1.76,93,86,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10
+UBC,2011,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen",225,86.07,5.74,95,62,225,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,13,46,70,86
+UBC,2011,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,82.77,5.64,91,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,3,9,5
+UBC,2011,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,76.96,6.76,89,62,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,6,7,4,0
+UBC,2011,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,81.85,6.24,92,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,8,6,4
+UBC,2011,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,82.54,5.34,94,66,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,11,9,2
+UBC,2011,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,85.81,5.89,94,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,9,9
+UBC,2011,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Seto, Katherine",26,84.73,4.99,93,71,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,11,6
+UBC,2011,W,PHAR,453,B,001,Dir Stu Phar Pra,"Brady, Colleen",14,88.57,1.34,91,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4
+UBC,2012,W,PHAR,201,,001,PHARM PAT SOC,"Brady, Colleen;Moshenko, Janice Lynn;Price, Ingrid;TBA",224,83.1,6.75,97,62,224,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,18,36,57,63,38
+UBC,2012,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Seto, Katherine",36,75.56,9.23,91,48,35,1,0,0,0,0,0,0,0,1,1,0,2,2,0,4,5,8,8,5,1
+UBC,2012,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,73.31,8.5,85,41,35,1,1,0,0,0,0,0,0,1,1,0,1,1,3,5,10,5,9,1,0
+UBC,2012,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Seto, Katherine",34,82.18,5.54,93,71,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,11,8,4
+UBC,2012,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Seto, Katherine",36,84.42,5.35,94,73,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,10,13,7
+UBC,2012,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,83.57,4.7,92,72,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,13,15,3
+UBC,2012,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,76.22,8.34,88,53,37,0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,9,10,8,5,0
+UBC,2012,W,PHAR,453,B,001,Dir Stu Phar Pra,"Brady, Colleen",23,88.22,1.2,92,85,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,3
+UBC,2013,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Seto, Katherine",35,78.97,6.79,90,63,35,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,4,6,13,4,2
+UBC,2013,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Seto, Katherine",38,76.42,7.5,93,62,38,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,8,8,6,6,1
+UBC,2013,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Seto, Katherine",38,79.46,6.74,91,68,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,4,7,7,11,1
+UBC,2013,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Seto, Katherine",38,83.03,5.63,91,69,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,9,16,3
+UBC,2013,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,81.08,6.58,94,71,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,11,6,9,4
+UBC,2013,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,80.73,7.29,91,63,37,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,5,6,13,3
+UBC,2013,W,PHAR,404,,001,PEER TEACHING 2,"Brady, Colleen",25,88.16,0.47,90,88,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1
+UBC,2014,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Seto, Katherine",35,73.91,6.04,86,61,35,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,8,8,5,1,0
+UBC,2014,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,69.22,7,82,53,37,0,0,0,0,0,0,0,0,0,0,1,2,5,9,4,10,2,4,0,0
+UBC,2014,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,72.46,7.44,86,53,37,0,0,0,0,0,0,0,0,0,0,1,2,2,2,7,11,7,4,1,0
+UBC,2014,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,78.89,5.04,87,68,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,10,12,6,0
+UBC,2014,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,77.43,4.66,85,66,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,11,12,1,0
+UBC,2014,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Seto, Katherine",37,75.59,5.46,86,58,37,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,12,14,5,2,0
+UBC,2014,W,PHAR,404,,001,PEER TEACHING 2,"Brady, Colleen",25,90,0,90,90,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+UBC,2015,W,PHAR,303,,L01,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",37,72.84,5.6,83,61,37,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,7,8,6,0,0
+UBC,2015,W,PHAR,303,,L02,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",37,72.34,6.07,85,60,35,0,0,0,2,0,0,0,0,0,0,0,0,2,3,11,9,3,6,1,0
+UBC,2015,W,PHAR,303,,L03,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",38,76.51,4.96,84,63,37,0,0,0,1,0,0,0,0,0,0,0,0,1,1,3,5,17,10,0,0
+UBC,2015,W,PHAR,303,,L04,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",38,77.79,5.61,91,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,12,10,2,2
+UBC,2015,W,PHAR,303,,L05,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",35,64.8,14.54,80,0,28,2,2,0,3,1,0,0,0,1,2,2,0,5,7,7,2,3,2,0,0
+UBC,2015,W,PHAR,303,,L06,PHARMACY II,"Brady, Colleen;Chan, Fong;Ladak, Ali Reza;Massaro, Davide;Seto, Katherine",36,77.66,6.49,90,62,35,0,0,0,1,0,0,0,0,0,0,0,0,1,1,4,6,7,9,6,1
+UBC,2015,W,PHAR,404,,001,PEER TEACHING 2,"Brady, Colleen",27,87.85,1.85,90,85,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,8
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2017,S,PHAR,420,E,944,PHARMACY ED,"Brady, Colleen",4,87,2.94,90,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2017,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Brady, Colleen;Cairns, Brian;Carr, Roxane;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Ensom, Mary;Frankel, Adam;Gerber, Patricia;Hafeli, Urs;Harrison, Mark;Li, Shyh-dar;Lynd, Larry;McCormack, James;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Harvey;Wong, Judy",223,82.04,6.53,94,59,222,0,1,0,0,0,0,0,0,0,0,0,5,0,2,5,16,39,69,66,20
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11
+UBC,2018,W,PHRM,312,,001,MED MANAGEMENT 5,"Brady, Colleen;Carr, Roxane;Chan, Fong;Collier, Abby;Elliot, Mary;Frankel, Adam;Kim-Sing, Angela;Ladak, Ali Reza;Lalji, Fawziah;Li, Shyh-dar;Lynd, Larry;Mira, Aileen;Seto, Katherine;Soon, Judith;Wilbur, Kerry;Williams, Karla;Wong, Judy",211,80.64,5.61,93,59,211,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,24,46,73,49,7

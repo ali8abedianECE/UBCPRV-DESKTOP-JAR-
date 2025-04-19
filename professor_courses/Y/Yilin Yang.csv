@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,CPSC,440,,201,Advanced Machine Learning,Alan Milligan;Ali Behrouz;Betty Shea;Jacques Chen;Liron Kurzman;Mark Schmidt;Raghav Goyal;Yilin Yang,70,87.142857143,12.924850476,99.0,9.0,1,1,0,1,0,0,6,2,3,17,39
+UBCV,2021,W,CPSC,540,,201,Machine Learning,Alan Milligan;Ali Behrouz;Betty Shea;Liron Kurzman;Mark Schmidt;Raghav Goyal;Yilin Yang,26,93.038461538,4.024731238,98.0,85.0,0,0,0,0,0,0,0,0,0,6,20
+UBCV,2021,W,DSCI,100,,002,Introduction to Data Science,Eros Shinji Rojas Velez;Jingxin Lei;Jonathan Yu;Lindsey Heagy;Melissa Lee;Mohammad Amin Roohi;Rachel Lee;Yilin Yang;Zhonghao Yang,170,85.135294118,12.643001721,99.0,16.0,4,0,1,2,2,5,6,14,18,44,74
+UBCV,2021,W,DSCI,100,,005,Introduction to Data Science,Amirali Darbandsari;Eric (Qingze) Li;Rachel Lee;Rodolfo Lourenzutti;Yilin Yang;Zhonghao Yang,138,83.782608696,12.06838128,97.0,14.0,2,0,3,3,2,2,7,13,22,34,50

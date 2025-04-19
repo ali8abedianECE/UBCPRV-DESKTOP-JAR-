@@ -1,0 +1,91 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHYS,153,,001,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",221,75.74,12.34,99,12,206,4,10,0,1,0,2,0,1,1,4,2,4,15,22,25,30,18,40,20,30
+UBC,2002,W,PHYS,153,,002,ELEMENTS OF PHYS,"Meyer, Jochen;Parsons, Robert R;Witt, Donald",245,74.66,11.15,95,7,234,2,5,0,4,1,0,0,0,1,2,6,13,14,21,25,40,23,52,19,21
+UBC,2002,W,PHYS,153,,T0H,ELEMENTS OF PHYS,"Meyer, Jochen;Witt, Donald",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PHYS,153,,001,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",219,74.92,13.32,98,29,207,6,3,0,3,0,0,1,2,3,6,10,9,16,16,25,30,11,28,32,30
+UBC,2003,W,PHYS,153,,002,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",194,73.79,13.39,97,25,181,7,4,0,2,0,0,2,1,4,7,10,9,11,23,17,20,16,30,23,22
+UBC,2003,W,PHYS,153,,003,ELEMENTS OF PHYS,"Parsons, Robert R;Semenoff, Gordon Walter;Witt, Donald",208,73.29,13.08,97,22,195,6,5,0,2,0,0,1,0,5,6,9,19,16,16,14,28,22,31,18,22
+UBC,2005,W,PHYS,153,,001,ELEMENTS OF PHYS,"Hasinoff, Michael;Schleich, Kristin;Witt, Donald",197,73.13,13.58,99,37,181,11,3,0,2,0,0,0,1,10,11,6,8,15,21,25,27,11,19,21,28
+UBC,2005,W,PHYS,153,,002,ELEMENTS OF PHYS,"Hasinoff, Michael;Parsons, Robert R;Schleich, Kristin;Witt, Donald",201,72.83,14.67,99,35,173,14,7,0,7,0,0,0,3,11,14,6,13,15,13,21,24,13,23,16,29
+UBC,2005,W,PHYS,153,,003,ELEMENTS OF PHYS,"Hasinoff, Michael;McCutcheon, William;Parsons, Robert R;Witt, Donald",194,71.88,12.99,99,29,176,11,3,0,4,0,0,1,0,10,11,4,7,21,23,17,35,13,22,13,21
+UBC,2005,W,PHYS,354,,101,ELEC & MAGN FLDS,"Witt, Donald",76,76.78,10.26,95,44,72,2,2,0,0,0,0,0,0,2,2,0,0,4,5,5,17,6,19,7,9
+UBC,2006,W,PHYS,153,,001,ELEMENTS OF PHYS,"Schleich, Kristin;Witt, Donald",220,71.58,15.39,98,27,189,22,6,0,3,0,0,1,6,15,22,5,12,21,11,24,23,16,30,19,28
+UBC,2006,W,PHYS,153,,002,ELEMENTS OF PHYS,"Witt, Donald",252,69.81,14.74,98,34,218,23,5,0,6,0,0,0,7,16,23,11,15,32,18,19,37,19,21,21,25
+UBC,2006,W,PHYS,153,,003,ELEMENTS OF PHYS,"Louis-Martinez, Domingo;Witt, Donald",208,68.08,16.53,98,31,166,32,6,0,4,0,0,0,7,25,32,9,15,22,10,24,19,11,17,13,26
+UBC,2006,W,PHYS,354,,101,ELEC & MAGN FLDS,"Witt, Donald",69,76.93,12.07,98,52,69,0,0,0,0,0,0,0,0,0,0,1,5,8,1,4,10,8,7,13,12
+UBC,2007,W,PHYS,153,,001,ELEMENTS OF PHYS,"Louis-Martinez, Domingo;McCutcheon, William;Witt, Donald",220,71.59,12.17,97,29,197,18,5,0,0,0,0,1,2,15,18,2,6,14,23,35,34,19,38,17,9
+UBC,2007,W,PHYS,153,,002,ELEMENTS OF PHYS,"Witt, Donald",226,67.96,15.43,96,0,179,41,6,0,0,1,0,2,6,32,41,1,7,16,17,39,21,21,28,18,11
+UBC,2007,W,PHYS,153,,003,ELEMENTS OF PHYS,"Louis-Martinez, Domingo;McCutcheon, William;Witt, Donald",221,68.31,16.03,95,0,180,31,10,0,0,3,1,1,5,21,31,0,7,20,14,31,37,19,30,14,8
+UBC,2007,W,PHYS,354,,101,ELEC & MAGN FLDS,"Witt, Donald",71,78.11,12.03,98,50,70,0,1,0,0,0,0,0,0,0,0,1,6,3,3,4,11,4,10,13,15
+UBC,2009,W,ASTR,201,,101,STELLAR ASTRPHYS,"Witt, Donald",57,76.35,14.94,95,16,51,4,2,0,0,0,1,0,2,1,4,0,1,0,2,4,7,8,15,6,8
+UBC,2009,W,PHYS,153,,001,ELEMENTS OF PHYS,"McCutcheon, William;Witt, Donald",277,68.52,17.34,98,17,213,45,8,0,11,0,2,4,9,30,45,4,17,21,28,22,22,15,34,24,26
+UBC,2009,W,PHYS,153,,002,ELEMENTS OF PHYS,"McCutcheon, William;Witt, Donald",266,66.77,16.73,98,12,204,40,9,0,13,0,2,3,11,24,40,5,25,33,22,28,19,14,19,12,27
+UBC,2009,W,PHYS,153,,003,ELEMENTS OF PHYS,"Kotlicki, Andrzej;McCutcheon, William;Witt, Donald",274,63.8,14.79,98,22,202,53,8,0,11,0,0,3,11,39,53,8,25,27,30,29,26,12,28,12,5
+UBC,2010,W,ASTR,201,,101,STELLAR ASTRPHYS,"Witt, Donald",53,79.62,10.51,96,50,50,0,3,0,0,0,0,0,0,0,0,2,0,2,2,1,8,8,13,4,10
+UBC,2010,W,PHYS,153,,001,ELEMENTS OF PHYS,"Burke, Sarah;Witt, Donald",267,75.83,13.38,100,14,247,16,3,0,1,0,2,1,6,7,16,2,3,10,17,16,28,56,51,41,23
+UBC,2010,W,PHYS,153,,002,ELEMENTS OF PHYS,"Witt, Donald",271,71.81,16.52,96,8,238,26,3,0,4,1,4,5,11,5,26,5,8,6,20,30,37,40,42,31,19
+UBC,2010,W,PHYS,153,,003,ELEMENTS OF PHYS,"Kotlicki, Andrzej;Witt, Donald",259,70.36,17.69,93,8,208,39,4,0,8,1,1,8,12,17,39,2,2,9,14,18,40,36,43,31,13
+UBC,2011,W,ASTR,201,,101,STELLAR ASTRPHYS,"Witt, Donald",78,77.65,12.68,97,27,74,1,3,0,0,0,0,1,0,0,1,1,5,5,1,6,9,7,14,15,11
+UBC,2011,W,PHYS,153,,001,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",263,68.9,19.66,99,6,206,47,6,0,4,1,0,7,21,18,47,21,25,8,1,6,9,23,56,30,27
+UBC,2011,W,PHYS,153,,002,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",250,63.96,20.92,99,6,184,52,8,0,6,1,4,11,23,13,52,31,28,6,3,7,16,20,37,15,21
+UBC,2011,W,PHYS,153,,003,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",237,66.35,20.15,99,16,174,50,4,0,9,0,1,6,30,13,50,24,22,1,1,9,17,26,34,16,24
+UBC,2012,W,ASTR,201,,101,STELLAR ASTRPHYS,"Witt, Donald",95,80.08,9.08,95,50,93,0,1,0,1,0,0,0,0,0,0,1,1,1,5,10,10,8,25,17,15
+UBC,2012,W,PHYS,153,,001,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",268,73.15,14.62,94,26,229,24,5,0,10,0,0,3,7,14,24,3,12,8,16,21,36,34,45,34,20
+UBC,2012,W,PHYS,153,,002,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",267,64.01,15.28,91,21,208,40,9,0,10,0,0,9,12,19,40,15,15,31,32,32,27,22,21,7,6
+UBC,2012,W,PHYS,153,,003,ELEMENTS OF PHYS,"Burke, Sarah;Kotlicki, Andrzej;Witt, Donald",252,67.16,15.84,94,17,205,33,4,0,10,0,2,7,10,14,33,9,12,13,24,29,43,21,32,18,4
+UBC,2013,W,PHYS,153,,001,ELEMENTS OF PHYS,"Witt, Donald",262,71.12,17.12,98,17,219,34,5,0,4,0,2,5,15,12,34,3,7,15,14,27,32,23,44,31,23
+UBC,2013,W,PHYS,153,,002,ELEMENTS OF PHYS,"Burke, Sarah;Witt, Donald",242,65.22,19.68,99,10,184,47,2,0,9,0,5,12,16,14,47,7,9,18,21,27,14,26,29,20,13
+UBC,2013,W,PHYS,153,,003,ELEMENTS OF PHYS,"Kotlicki, Andrzej;Witt, Donald",249,68.55,17.59,99,0,196,37,8,0,8,1,1,5,15,15,37,6,9,10,16,34,28,21,37,20,15
+UBC,2014,W,PHYS,157,,104,INTR PHYS ENG I,"Hasinoff, Michael;Witt, Donald",51,69.25,5.99,85,54,51,0,0,0,0,0,0,0,0,0,0,1,1,6,10,17,8,5,2,1,0
+UBC,2014,W,PHYS,159,,XMT,INTRO PHYS LAB,"Witt, Donald",57,73.35,8.47,92,55,57,0,0,0,0,0,0,0,0,0,0,0,3,6,5,6,12,8,14,2,1
+UBC,2015,W,PHYS,157,,101,INTR PHYS ENG I,"Witt, Donald",245,73.31,14.2,99,21,222,22,1,0,0,0,0,1,1,20,22,6,4,19,18,39,15,32,41,20,28
+UBC,2015,W,PHYS,157,,201,INTR PHYS ENG I,"Witt, Donald",59,69.88,19.18,95,0,53,5,1,0,0,2,0,1,1,1,5,2,2,4,1,7,15,7,4,6,5
+UBC,2015,W,PHYS,158,,203,INTR PHYS ENG II,"Plotkin, Steven;Witt, Donald",249,67.37,15.3,99,25,223,24,1,0,1,0,0,2,7,15,24,32,28,19,14,16,25,36,20,17,16
+UBC,2015,W,PHYS,159,,XMT,INTRO PHYS LAB,"Witt, Donald",5,74.6,3.97,78,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0
+UBC,2016,W,PHYS,157,,101,INTR PHYS ENG I,"Witt, Donald",243,74.57,11.18,96,30,234,8,1,0,0,0,0,0,1,7,8,1,13,10,25,30,38,32,41,25,19
+UBC,2016,W,PHYS,157,,201,INTR PHYS ENG I,"Witt, Donald",22,75.81,11.66,95,50,21,0,0,0,1,0,0,0,0,0,0,1,2,0,0,3,2,3,6,1,3
+UBC,2016,W,PHYS,158,,203,INTR PHYS ENG II,"Witt, Donald",251,67.54,15.53,100,6,222,26,2,0,1,1,0,1,8,16,26,15,32,29,14,26,24,22,29,13,18
+UBC,2017,W,PHYS,157,,101,INTR PHYS ENG I,"Witt, Donald",272,77.19,12.39,97,12,263,8,1,0,0,0,1,1,1,5,8,3,5,11,14,39,33,42,41,33,42
+UBC,2017,W,PHYS,157,,201,INTR PHYS ENG I,"Witt, Donald",38,69.63,19.23,94,0,34,4,0,0,0,1,0,1,0,2,4,3,2,1,2,6,2,4,6,5,3
+UBC,2017,W,PHYS,158,,203,INTR PHYS ENG II,"Witt, Donald",257,68.11,16.91,99,24,210,42,4,0,1,0,0,3,16,23,42,9,18,19,23,21,24,25,31,19,21
+UBC,2018,W,PHYS,157,,101,INTR PHYS ENG I,"Van Raamsdonk, Mark;Witt, Donald",292,80.34,11.94,100,32,282,6,2,0,2,0,0,0,2,4,6,5,5,9,8,24,24,29,57,55,66
+UBC,2018,W,PHYS,157,,201,INTR PHYS ENG I,"McCutcheon, William;Witt, Donald",35,65.44,17.55,95,35,28,4,0,0,3,0,0,0,3,1,4,8,1,2,3,2,1,0,5,4,2
+UBCV,2014,W,PHYS,157,,104,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Michael Hasinoff,51,69.25490196,5.992806145,85.0,54.0,,,,,,,,,,,0,1,1,6,10,17,8,5,2,1,0
+UBCV,2014,W,PHYS,157,,201,Introductory Physics for Engineers I,Donald Witt;Michael Hasinoff;William Mccutcheon,51,55.25490196,17.7097071,81.0,0.0,,,,,,,,,,,12,12,3,2,10,3,3,1,5,0,0
+UBCV,2014,W,PHYS,158,,201,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Steven Plotkin,247,67.49392713,14.03331415,100.0,0.0,,,,,,,,,,,24,8,27,25,30,30,33,23,21,15,11
+UBCV,2014,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Sean Stotyn,238,63.07142857,15.17879179,97.0,0.0,,,,,,,,,,,37,9,29,35,30,31,25,13,17,3,9
+UBCV,2014,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff,236,65.9279661,15.23319101,99.0,13.0,,,,,,,,,,,36,6,31,22,19,30,26,16,25,12,13
+UBCV,2014,W,PHYS,159,,XMT,Introductory Physics Laboratory for Engineers,Donald Witt,57,73.35087719,8.473680319,92.0,55.0,,,,,,,,,,,0,0,,6,5,6,12,8,14,2,
+UBCV,2015,W,PHYS,157,,101,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Saul Cuen Rochin,244,73.31147541,14.195044616,99.0,21.0,,,,,,,,,,,22,6,4,19,18,39,15,32,41,20,28
+UBCV,2015,W,PHYS,157,,102,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Jared Stang;Ryan Mckenzie,262,74.751908397,15.141842011,99.0,0.0,,,,,,,,,,,17,5,7,26,27,26,26,22,32,22,52
+UBCV,2015,W,PHYS,157,,103,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Leonard Paul Ruocco,265,74.38490566,16.314700986,99.0,7.0,,,,,,,,,,,23,5,9,12,23,29,28,29,30,29,48
+UBCV,2015,W,PHYS,157,,201,Introductory Physics for Engineers I,Donald Witt;Laurent Chaurette;Saul Cuen Rochin,58,69.879310345,19.179738566,95.0,0.0,,,,,,,,,,,5,2,2,4,1,7,15,7,6,6,5
+UBCV,2015,W,PHYS,158,,201,Introductory Physics for Engineers II,Donald Witt;Gene Polovy;Michael Hasinoff;Ricardo Chavez Gonzalez,247,67.619433198,16.165836043,98.0,0.0,,,,,,,,,,,29,19,22,27,13,24,23,24,36,17,13
+UBCV,2015,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Joshua Folk;Qingdi Wang;Ricardo Chavez Gonzalez,262,67.496183206,17.559695249,98.0,12.0,,,,,,,,,,,35,25,20,24,23,19,12,31,29,17,27
+UBCV,2015,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Ricardo Chavez Gonzalez;Seyed Hamed Mirsadeghi;Steven Plotkin,248,67.169354839,15.603758384,99.0,17.0,,,,,,,,,,,25,32,28,19,14,16,25,36,20,17,16
+UBCV,2015,W,PHYS,159,,XMT,Introductory Physics Laboratory for Engineers,Donald Witt,5,74.6,3.974921383,78.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,0,0,0
+UBCV,2016,W,PHYS,157,,101,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Gene Polovy;Joshua Folk,242,74.5661157,11.18190635,96.0,30.0,,,,,,,,,,,8,1,13,10,25,30,38,32,41,25,19
+UBCV,2016,W,PHYS,157,,102,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Joshua Folk;Thien Hoang Tran,238,72.59243698,13.72967871,99.0,0.0,,,,,,,,,,,11,6,16,18,22,24,32,25,42,30,12
+UBCV,2016,W,PHYS,157,,103,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Joshua Folk;Leonard Paul Ruocco,239,73.24686193,11.4316447,96.0,31.0,,,,,,,,,,,8,6,11,18,23,29,32,35,45,17,15
+UBCV,2016,W,PHYS,157,,201,Introductory Physics for Engineers I,Christos Aris Chatzichristos;Donald Witt,22,72.36363636,19.76660352,95.0,0.0,,,,,,,,,,,1,1,2,0,0,3,2,3,6,1,3
+UBCV,2016,W,PHYS,158,,201,Introductory Physics for Engineers II,Donald Witt;Jared Stang;Pranav Garg,262,68.66412214,16.4219322,98.0,0.0,,,,,,,,,,,35,9,27,24,11,29,29,26,24,26,22
+UBCV,2016,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Gene Polovy;Jared Stang;Michael Hasinoff,232,66.87931035,15.80435316,99.0,25.0,,,,,,,,,,,37,15,25,24,15,19,20,17,32,10,18
+UBCV,2016,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Saul Cuen Rochin,249,67.26907631,16.07429473,100.0,0.0,,,,,,,,,,,27,15,32,29,14,26,24,22,29,13,18
+UBCV,2017,W,PHYS,157,,101,Introductory Physics for Engineers I,Allison Fink;Andrew Elias;Barry Bohnet;Christos Aris Chatzichristos;Donald Witt;Emilie Carpentier;Maryam Afsari Golshan;Pinrui Shen;Saul Cuen Rochin;Shuailiang Ge;Sofia Fatigoni;Tiam Heydari;Tianyu Liu;William H. Mccutcheon;Yukiya Saito,271,77.188191882,12.393158539,97.0,12.0,,,,,,,,,,,8,3,5,11,14,39,33,42,41,33,42
+UBCV,2017,W,PHYS,157,,102,Introductory Physics for Engineers I,Anna Hughes;Donald Witt;Joshua Folk,271,73.450184502,13.755682663,97.0,2.0,,,,,,,,,,,17,9,10,16,17,32,30,42,48,30,20
+UBCV,2017,W,PHYS,157,,103,Introductory Physics for Engineers I,Donald Witt;Fei Zhou;Yau Chuen Yam,250,74.116,14.286460577,98.0,18.0,,,,,,,,,,,18,6,11,6,12,27,32,38,45,34,21
+UBCV,2017,W,PHYS,157,,201,Introductory Physics for Engineers I,Donald Witt;James Mcneil;Shadi Balandeh;William H. Mccutcheon,38,69.631578947,19.234570584,94.0,0.0,,,,,,,,,,,4,3,2,1,2,6,2,4,6,5,3
+UBCV,2017,W,PHYS,158,,201,Introductory Physics for Engineers II,Carina Graf;Christos Aris Chatzichristos;Donald Witt;Eduardo Muntaner Garcia;Emilie Carpentier;Erik Frieling;Ian Kent Nickolas Janzen;Maryam Afsari Golshan;Matthew Rempel;Michael Hasinoff;Saul Cuen Rochin;Sheng Chun Chang;Shuailiang Ge;Yukiya Saito,260,69.896153846,16.154203363,99.0,19.0,,,,,,,,,,,32,14,12,28,23,30,22,20,23,24,32
+UBCV,2017,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Marcel Franz;Natalie Yung,256,66.5859375,18.895181394,99.0,0.0,,,,,,,,,,,45,13,23,20,19,23,20,23,21,30,19
+UBCV,2017,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Sabnamdeep Kular,253,67.861660079,17.340447041,99.0,5.0,,,,,,,,,,,43,9,18,19,23,21,24,25,31,19,21
+UBCV,2017,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Barry Bohnet;Donald Witt;Giacomo Gallina;Michael Hasinoff;Thomas Mattison;Ziliang Ye,51,80.411764706,9.972314617,95.0,40.0,,,,,,,,,,,1,0,1,0,1,3,7,9,11,8,10
+UBCV,2018,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Donald Witt;Enxiao Luan;Jaspreet Jhoja;Lukas Chrostowski,13,78.615384615,9.561541556,95.0,64.0,,,,,,,,,,,0,0,0,0,2,2,1,1,3,2,2
+UBCV,2018,W,PHYS,157,,101,Introductory Physics for Engineers I,Donald Witt;Marcel Franz;Mark Van Raamsdonk;Michael Hasinoff;Michael Power;Philippe Belanger;Sofia Fatigoni;Yukiya Saito,290,79.844827586,13.344000277,100.0,0.0,,,,,,,,,,,8,5,5,9,8,24,24,29,57,55,66
+UBCV,2018,W,PHYS,157,,102,Introductory Physics for Engineers I,Donald Witt;Joshua Folk,286,75.566433566,15.808973441,99.0,0.0,,,,,,,,,,,19,4,8,15,17,28,26,26,54,42,47
+UBCV,2018,W,PHYS,157,,103,Introductory Physics for Engineers I,Donald Witt;Fei Zhou,271,77.258302583,12.40010735,100.0,38.0,,,,,,,,,,,3,10,12,15,20,23,29,30,43,40,46
+UBCV,2018,W,PHYS,157,,201,Introductory Physics for Engineers I,Donald Witt;William H. Mccutcheon,35,63.257142857,18.991240794,95.0,15.0,,,,,,,,,,,5,10,1,2,3,2,1,0,5,4,2
+UBCV,2018,W,PHYS,158,,201,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Sabnamdeep Kular,265,66.962264151,16.05714495,94.0,8.0,,,,,,,,,,,36,10,21,36,26,22,29,23,27,24,11
+UBCV,2018,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Ke Zou;Marcel Franz;Michael Hasinoff,285,64.357894737,15.409149324,97.0,22.0,,,,,,,,,,,55,8,31,30,26,36,20,29,30,13,7
+UBCV,2018,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Ke Dai;Marina Litinskaya;Michael Hasinoff,289,64.636678201,16.442328844,97.0,9.0,,,,,,,,,,,55,10,35,37,17,28,27,11,33,26,10
+UBCV,2019,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Adan Azem;Donald Witt;Lukas Chrostowski,14,85.642857143,5.982116205,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,5,4
+UBCV,2021,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Donald Witt;Lukas Chrostowski;Seyediman Taghavi,11,79.818181818,18.594720658,92.0,25.0,,,,,,,,,,,1,0,0,0,0,0,0,1,5,2,2

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,SPPH,504,,DL1,APPL EPID MTHDS,"Rose, Caren",6,87,4.24,93,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,,,
+UBCV,2018,W,SPPH,504,,001,Application of Epidemiological Methods,Ashleigh Joy Rich;Ashleigh Rich;Caren L Rose;Caren Rose;Mieke Koehoorn,17,87.470588235,3.429971703,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,9,4,,,
+UBCV,2018,W,SPPH,504,,DL1,Application of Epidemiological Methods,Caren L Rose;Caren Rose,6,87.0,4.242640687,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,2,,,
+UBCV,2019,W,SPPH,504,,DL1,Application of Epidemiological Methods,Caren L Rose;Caren Rose;Kamila Romanowska;Kamila Romanowski,12,88.166666667,3.270622219,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,3,,,
+UBCV,2020,W,SPPH,504,,001,Application of Epidemiological Methods,Caren L Rose;Caren Rose;Dahn Jeong;Mieke Koehoorn,38,83.657894737,14.660622596,94.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,2,10,16,8,,,
+UBCV,2021,W,SPPH,504,,BL1,Application of Epidemiological Methods,Caren Rose;Dahn Jeong;Max Xie;Mina Park,33,87.090909091,4.752391742,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,13,13,,,
+UBCV,2021,W,SPPH,504,,BL1,Application of Epidemiological Methods,Caren Rose,33,87.1,,95.0,77.0,,,,,,,,,,,,,,,,,,,,13,13,88.0,90.0,85.0
+UBCV,2022,W,SPPH,504,,BL2,Application of Epidemiological Methods,Caren Rose;Max Xie,31,89.5,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,12,15,89.0,93.0,87.0
+UBCV,2023,W,SPPH,502,,001,Epidemiological Methods 1,Caren Rose,74,88.1,,97.0,61.0,,,,,,,,,,,0,0,0,1,0,0,2,4,6,20,37,90.0,92.0,85.3

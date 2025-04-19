@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,EPSE,581,A,075,SPCL TPCS MERM,"Gadermann, Anne",5,90.8,3.49,95,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2018,W,SPPH,527,,DL2,SOC DETRMIN HLTH,"Gadermann, Anne",16,90.33,2.99,94,84,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,10,,,
+UBCV,2014,W,EPSE,581,A,075,"Special Topics in Measurement, Evaluation, and Research Methodology",Anne Gadermann,5,90.8,3.492849839,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2018,W,SPPH,527,,DL2,Social Determinants of Health,Anne Gadermann;Verena Birgit Rossa-Roccor,15,90.333333333,2.992052966,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,10,,,
+UBCV,2019,W,SPPH,527,,DL2,Social Determinants of Health,Anne Gadermann;Verena Birgit Rossa-Roccor,13,91.769230769,2.803386231,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,10,,,
+UBCV,2020,W,SPPH,527,,DL2,Social Determinants of Health,Anne Gadermann;Verena Birgit Rossa-Roccor,20,92.0,3.670651742,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,16,,,
+UBCV,2021,W,SPPH,527,,BL2,Social Determinants of Health,Anne Gadermann;Verena Birgit Rossa-Roccor,17,93.235294118,1.678146737,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2021,W,SPPH,527,,BL2,Social Determinants of Health,Anne Gadermann,18,93.1,,96.0,89.0,,,,,,,,,,,,,,,,,,,,,17,93.0,94.0,92.3
+UBCV,2023,W,SPPH,527,,BL2,Social Determinants of Health,Anne Gadermann,20,93.1,,95.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,93.0,94.0,92.0

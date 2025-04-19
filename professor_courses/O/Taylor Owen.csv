@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,JRNL,100,A,227,NEW MEDIA&SOCI,"Owen, Taylor",46,76.85,7.65,91,53,46,0,0,0,0,0,0,0,0,0,0,1,2,0,2,3,6,15,12,4,1
+UBC,2015,W,JRNL,555,A,002,INTL REPORTING,"Gretsinger, Kathryn;Owen, Taylor",10,87,1.73,88,83,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0
+UBC,2016,W,JRNL,520,J,001,SPEC TOP IN JRNL,"Owen, Taylor",14,87.58,3.15,91,82,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,2
+UBC,2016,W,JRNL,555,A,002,INTL REPORTING,"Gretsinger, Kathryn;Klein, Peter;Owen, Taylor",10,86.9,1.66,89,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2017,W,JRNL,520,J,001,SPEC TOP IN JRNL,"Owen, Taylor",10,87.75,4.59,92,78,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4
+UBC,2017,W,JRNL,520,M,001,SPEC TOP IN JRNL,"Owen, Taylor",17,86.88,2.71,91,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,3
+UBC,2018,W,JRNL,520,M,001,SPEC TOP IN JRNL,"Owen, Taylor",11,86.09,3.67,89,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,0
+UBCV,2014,W,JRNL,503,B,001,Journalism Practice and Standards,Alfred Hermida;Darryl Hol;Frances Bula;Kathryn Gretsinger;Mary-Lynn Young;Taylor Owen,26,81.26923077,6.378449293,88.0,63.0,,,,,,,,,,,0,0,0,,,,,,,14,0
+UBCV,2014,W,JRNL,515,C,001,Integrated Journalism,Alfred Hermida;Darryl Hol;Frances Bula;Kathryn Gretsinger;Taylor Owen,26,83.34615385,4.782821826,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,17,0
+UBCV,2015,W,GPP,591,A,001,Special Topics in Public Policy,Taylor Owen,28,93.035714286,3.501133603,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,26
+UBCV,2015,W,JRNL,555,A,002,International Reporting,Kathryn Gretsinger;Taylor Owen,9,87.0,1.732050808,88.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,0
+UBCV,2016,W,GPP,509,,001,Communicating Policy,Taylor Owen,25,84.52,3.820122162,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,9,15,0
+UBCV,2016,W,JRNL,520,J,001,Special Topics in Contemporary Journalism,Olivier Leroux;Taylor Owen,12,87.58333333,3.146667309,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,2
+UBCV,2016,W,JRNL,555,A,002,International Reporting,Kathryn Gretsinger;Peter Klein;Taylor Owen,10,86.9,1.663329993,89.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,0
+UBCV,2017,W,GPP,591,C,001,Special Topics in Public Policy,Taylor Owen,27,86.0,1.941450687,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,20,0
+UBCV,2017,W,JRNL,520,J,001,Special Topics in Contemporary Journalism,Olivier Leroux;Taylor Owen,8,87.75,4.590362575,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,4
+UBCV,2017,W,JRNL,520,M,001,Special Topics in Contemporary Journalism,Taylor Owen,17,86.882352941,2.712986199,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,11,3
+UBCV,2018,W,JRNL,520,M,001,Special Topics in Contemporary Journalism,Taylor Owen,11,86.090909091,3.67299729,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,8,0
+UBCV,2021,W,JRNL,520,M,001,Special Topics in Contemporary Journalism,Heidi Evans;Taylor Owen,12,83.333333333,2.534608929,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,6,0

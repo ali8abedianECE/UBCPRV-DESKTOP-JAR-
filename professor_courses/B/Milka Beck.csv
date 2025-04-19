@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,FREN,110,,011,INTERMED FRENCH,"Beck, Milka",24,70.24,13.75,93,33,20,1,1,0,2,0,0,0,1,0,1,1,3,1,1,3,3,4,1,2,1
+UBC,2003,W,FREN,110,,901,INTERMED FRENCH,"Beck, Milka;O'Hagan, Michael",34,74.45,11.8,91,51,29,0,0,3,2,0,0,0,0,0,0,3,1,2,2,1,3,5,5,5,2
+UBC,2003,W,FREN,122,,202,FREN LANG&LIT I,"Beck, Milka;Scott, Anne",27,71.96,9.21,89,55,25,0,2,0,0,0,0,0,0,0,0,0,2,2,4,4,4,4,3,2,0
+UBCO,2014,S,FREN,103,,001,Beginner's French II,Milka Beck,19,75.05263158,12.33096231,97.0,52.0,,,,,,,,,,,0,,,,,,,,,,
+UBCO,2014,S,FREN,104,,001,Beginner's French III,Milka Beck,36,72.52777778,10.97916497,95.0,56.0,,,,,,,,,,,0,0,,6,,,5,5,,,
+UBCO,2014,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,24,74.95833333,6.956255656,87.0,60.0,,,,,,,,,,,0,0,0,,,,,,8,,0
+UBCO,2014,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,30,80.33333333,6.482514058,92.0,64.0,,,,,,,,,,,0,0,0,0,,,,9,7,8,
+UBCO,2014,W,FREN,123,,001,Contemporary French Language and Literature II,Milka Beck,23,76.56521739,7.744946076,90.0,61.0,,,,,,,,,,,0,0,0,,,,5,,7,,
+UBCO,2014,W,FREN,215,,001,Second-Year Oral French Practice I,Milka Beck,22,77.22727273,5.079668326,85.0,67.0,,,,,,,,,,,0,0,0,0,,,,5,9,,0
+UBCO,2014,W,FREN,221,,001,French Literature and Textual Analysis II,Milka Beck,8,72.5,7.0305456,80.0,60.0,,,,,,,,,,,0,0,0,,,,,,,0,0
+UBCO,2014,W,FREN,222,,001,Studies in French Language and Style I,Milka Beck,14,76.35714286,8.270495687,88.0,63.0,,,,,,,,,,,0,0,0,,,,,,,,0
+UBCO,2014,W,FREN,223,,001,Studies in French Language and Style II,Milka Beck,10,72.4,10.98686084,86.0,57.0,,,,,,,,,,,0,0,,,,,,,,,0
+UBCO,2015,S,FREN,103,,001,Beginner's French II,Milka Beck,13,74.615384615,13.574108083,95.0,51.0,,,,,,,,,,,0,,,,,,,,,,
+UBCO,2015,W,FREN,102,,002,Beginner's French I,Milka Beck,71,76.61971831,13.273352679,96.0,15.0,,,,,,,,,,,,,,5,,,9,15,12,11,8
+UBCO,2015,W,FREN,103,,102,Beginner's French II,Milka Beck,56,69.303571429,17.915883905,94.0,1.0,,,,,,,,,,,7,,,,8,5,3,9,7,8,
+UBCO,2015,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,21,76.619047619,8.108490553,92.0,64.0,,,,,,,,,,,0,0,0,0,,6,,,,,
+UBCO,2015,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,34,77.970588235,10.346966454,92.0,53.0,,,,,,,,,,,0,,,,,6,,,8,7,
+UBCO,2015,W,FREN,215,,001,Second-Year Oral French Practice I,Milka Beck,29,74.862068966,15.708787663,86.0,0.0,,,,,,,,,,,,,,,,,5,6,10,,0
+UBCO,2015,W,FREN,223,,001,Studies in French Language and Style II,Milka Beck,15,75.933333333,5.229950378,86.0,68.0,,,,,,,,,,,0,0,0,0,0,,6,,5,,0
+UBCO,2016,S,FREN,104,,001,Beginner's French III,Milka Beck,24,73.75,13.3717743,95.0,52.0,,,,,,,,,,,0,2,3,1,2,4,3,1,1,1,6
+UBCO,2016,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,27,77.77777778,6.75581421,89.0,60.0,,,,,,,,,,,0,0,0,2,0,1,5,9,7,3,0
+UBCO,2016,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,32,73.15625,12.9418286,89.0,19.0,,,,,,,,,,,1,1,0,2,1,5,8,4,6,4,0
+UBCO,2016,W,FREN,215,,001,Second-Year Oral French Practice I,Anne-Benedicte Claret;Milka Beck,29,76.20689655,9.397489446,87.0,33.0,,,,,,,,,,,1,0,0,0,0,1,9,8,8,2,0
+UBCO,2016,W,FREN,223,,001,Studies in French Language and Style II,Anne-Benedicte Claret;Milka Beck,18,78.72222222,7.575545452,94.0,68.0,,,,,,,,,,,0,0,0,0,0,3,6,1,3,3,2
+UBCO,2016,W,FREN,345,,001,Techniques of Oral Expression in French II,Anne-Benedicte Claret;Milka Beck,9,79.44444444,5.547772326,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,2,3,0,1
+UBCO,2017,S,FREN,103,,001,Beginner's French II,Milka Beck,7,76.857142857,10.253919111,93.0,65.0,,,,,,,,,,,0,0,0,0,1,1,2,1,0,1,1
+UBCO,2017,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,16,75.375,8.048809436,89.0,57.0,,,,,,,,,,,0,0,1,1,0,1,5,4,2,2,0
+UBCO,2017,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,32,74.03125,12.794868868,92.0,28.0,,,,,,,,,,,1,1,1,2,3,3,1,7,8,4,1
+UBCO,2017,W,FREN,123,,001,Contemporary French Language and Literature II,Milka Beck,18,77.666666667,9.474423776,90.0,60.0,,,,,,,,,,,0,0,0,3,0,1,3,1,6,3,1
+UBCO,2017,W,FREN,215,,001,Second-Year Oral French Practice II,Milka Beck,30,77.8,7.765529491,89.0,62.0,,,,,,,,,,,0,0,0,2,1,6,2,5,8,6,0
+UBCO,2017,W,FREN,221,,001,French Literature and Textual Analysis II,Milka Beck,9,74.555555556,5.101742622,82.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,4,1,0,0
+UBCO,2017,W,FREN,222,,001,Studies in French Language and Style I,Milka Beck,24,78.166666667,7.682089088,90.0,62.0,,,,,,,,,,,0,0,0,1,1,4,2,5,4,6,1
+UBCO,2017,W,FREN,223,,001,Studies in French Language and Style II,Milka Beck,15,78.133333333,8.814490235,91.0,61.0,,,,,,,,,,,0,0,0,1,1,3,0,2,3,4,1
+UBCO,2018,W,FREN,102,,005,Beginner's French I,Milka Beck,33,79.787878788,9.386684638,96.0,55.0,,,,,,,,,,,0,0,1,0,2,2,6,4,8,4,6
+UBCO,2018,W,FREN,103,,105,Beginner's French II,Milka Beck,31,75.741935484,11.744410704,94.0,56.0,,,,,,,,,,,0,0,3,3,3,2,6,1,5,3,5
+UBCO,2018,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,23,75.782608696,7.573617616,87.0,57.0,,,,,,,,,,,0,0,2,0,1,2,3,9,4,2,0
+UBCO,2018,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,34,79.235294118,6.737767023,94.0,66.0,,,,,,,,,,,0,0,0,0,1,3,5,9,7,7,2
+UBCO,2018,W,FREN,123,,001,Contemporary French Language and Literature II,Milka Beck,27,76.777777778,8.354332516,92.0,61.0,,,,,,,,,,,0,0,0,2,1,6,3,2,8,4,1
+UBCO,2018,W,FREN,215,,001,Second-Year Oral French Practice II,Milka Beck,30,81.566666667,5.887938187,88.0,65.0,,,,,,,,,,,0,0,0,0,1,2,1,2,12,12,0
+UBCO,2018,W,FREN,221,,001,French Literature and Textual Analysis II,Milka Beck,15,75.0,12.02378595,88.0,43.0,,,,,,,,,,,1,0,0,1,1,2,1,1,5,3,0
+UBCO,2019,W,FREN,101,,003,Elementary French I,Alexandra Tonnel;Milka Beck,35,76.942857143,11.633983833,96.0,55.0,,,,,,,,,,,0,0,2,3,4,2,6,4,4,4,6
+UBCO,2019,W,FREN,101,,004,Elementary French I,Alexandra Tonnel;Milka Beck;Stephanie Tolman,33,75.0,11.450982491,94.0,50.0,,,,,,,,,,,0,3,0,3,4,2,3,5,5,6,2
+UBCO,2019,W,FREN,103,,005,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Milka Beck,31,79.258064516,12.580322577,97.0,50.0,,,,,,,,,,,0,2,0,3,1,0,3,5,5,5,7

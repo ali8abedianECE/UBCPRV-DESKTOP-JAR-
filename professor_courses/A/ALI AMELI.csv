@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,EOSC,329,,101,Groundwater Hydrology,Ali Ameli;Danielle Cocchetto;Hannah Gatz-Miller;Mengqi Jia;Ulrich Mayer;Xueying Yi,86,76.953488372,9.979870301,95.0,42.0,1,1,1,3,8,6,12,16,14,17,7,,,
+UBCV,2020,W,EOSC,329,,101,Groundwater Hydrology,Ali Ameli;Anne-Martine Doucet;Hannah Gatz-Miller;Mengqi Jia;Ulrich Mayer;Xueying Yi,85,75.235294118,11.947949674,98.0,39.0,3,0,3,9,3,9,11,11,15,8,13,,,
+UBCV,2020,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Ali Ameli;Roger Beckie,38,84.368421053,5.053342766,93.0,66.0,0,0,0,0,1,0,0,2,17,10,8,,,
+UBCV,2020,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Ali Ameli;Roger Beckie;Shane O'Neill,9,88.333333333,6.144102864,91.0,72.0,0,0,0,0,0,0,1,0,0,0,8,,,
+UBCV,2021,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli;Hamed Sharif;Hongyi Li,43,75.906976744,16.467592928,96.0,0.0,1,3,0,1,3,5,3,6,9,4,8,,,
+UBCV,2021,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli,43,75.9,,96.0,0.0,,,,,,,,6,9,,8,78.0,87.0,70.0
+UBCV,2021,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Ali Ameli;Shane O'Neill,38,84.8,,100.0,64.0,,,,,,,,7,10,,13,83.0,94.5,79.0
+UBCV,2021,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Ali Ameli;Shane O'Neill,11,86.5,,97.0,0.0,,,,,,,,,,,10,95.0,96.5,94.5
+UBCV,2022,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli,74,82.1,,98.0,50.0,0,1,0,2,4,7,8,2,10,21,19,85.0,89.8,74.0
+UBCV,2022,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Ali Ameli;Roger Beckie,30,81.4,,93.0,69.0,0,0,0,0,0,1,2,7,13,5,2,82.0,84.0,78.0
+UBCV,2022,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Ali Ameli;Roger Beckie,10,88.8,,96.0,82.0,0,0,0,0,0,0,0,0,3,3,4,88.5,92.3,84.8
+UBCV,2023,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli,77,76.9,,100.0,50.0,0,2,4,5,7,10,5,7,14,11,11,78.0,85.3,69.0

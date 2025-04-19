@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,ELEC,201,,102,Circuit Analysis I,Jesus Calvino-Fraga;Nafiseh Nikpour;Rana Dastgir,89,66.865168539,21.290304564,100.0,0.0,15,12,3,6,11,5,6,2,7,7,15
+UBCV,2015,W,ELEC,455,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal;Nafiseh Nikpour,42,74.380952381,14.411973987,94.0,32.0,,,,6,,,6,,8,7,6
+UBCV,2015,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Nafiseh Nikpour,18,69.388888889,22.788384267,96.0,5.0,,,,,,,,,,,

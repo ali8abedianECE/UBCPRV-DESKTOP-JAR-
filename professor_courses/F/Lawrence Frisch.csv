@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",43,88.24,5.1,95,64,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,19,19
+UBC,2016,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",76,91.88,5.06,99,76,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,15,56
+UBC,2017,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",114,89.25,4.68,97,67,113,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,5,35,68
+UBC,2018,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",67,84.46,10.05,96,27,64,1,0,1,0,0,0,1,0,0,1,0,0,1,0,3,2,3,13,21,21
+UBCV,2015,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch;Leo Chen;Pauline Voon,43,88.139534884,5.002767783,95.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,21,19
+UBCV,2016,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch,76,91.88157895,5.05955757,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,15,56
+UBCV,2017,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch,114,89.263157895,4.6659236,97.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,3,5,35,69
+UBCV,2018,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch;Seraphine Zeitouny,66,84.484848485,9.974185796,96.0,27.0,,,,,,,,,,,1,0,0,1,0,3,2,3,13,22,21
+UBCV,2019,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch,64,87.40625,9.346451241,98.0,60.0,,,,,,,,,,,0,0,0,1,2,1,6,3,5,6,40
+UBCV,2020,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Adam Jafar Kahnamelli;Adam Kahnamelli;Lawrence Frisch;Niki Oveisi;Rachel Lai;Rachel Mun Suet Lai,61,89.655737705,5.153915165,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,1,4,19,35

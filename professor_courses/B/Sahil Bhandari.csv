@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Cristian Sorin Grecu;Jane Hill;Jonathan Verrett;Mewael Isiet;Sahil Bhandari,43,80.441860465,10.965969711,99.0,37.0,1,0,0,0,3,5,2,6,7,11,8,,,
+UBCV,2021,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Sahil Bhandari;Cristian Sorin Grecu;Jane Hill;Jonathan Verrett,43,80.4,,99.0,37.0,,,,,,,,6,7,11,8,82.0,87.5,75.0
+UBCV,2022,S,MECH,431,,971,Engineering Economics,Sahil Bhandari,86,82.5,,100.0,48.0,1,1,0,3,2,2,8,10,21,17,21,84.0,88.8,78.0

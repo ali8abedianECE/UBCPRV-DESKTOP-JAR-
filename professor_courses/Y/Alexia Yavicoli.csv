@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,221,,103,Matrix Algebra,Alexia Yavicoli;Halyun Jeong;Jalal Khouhak;Michael Deakin;Patrick Walls;Sina Saleh;Thomas Williams,114,66.912280702,18.836305278,97.0,0.0,13,10,10,8,5,13,15,11,11,9,9,,,
+UBCV,2021,W,MATH,221,,106,Matrix Algebra,Alexia Yavicoli;Halyun Jeong;Jalal Khouhak;Matthew Scott;Michael Deakin;Patrick Walls;Thomas Williams,113,68.362831858,15.721948913,97.0,5.0,10,11,7,9,8,16,16,7,14,6,9,,,
+UBCV,2021,W,MATH,221,,103,Matrix Algebra,Patrick Walls;Thomas Williams;Alexia Yavicoli,116,67.1,,97.0,4.0,14,10,10,8,6,13,15,11,11,9,9,71.0,79.3,57.0
+UBCV,2021,W,MATH,221,,106,Matrix Algebra,Patrick Walls;Thomas Williams;Alexia Yavicoli,113,68.7,,97.0,6.0,9,11,7,9,9,16,16,7,14,6,9,70.0,80.0,60.0
+UBCV,2022,W,MATH,121,,202,Honours Integral Calculus,Gregory Martin;Alexia Yavicoli,6,84.5,,96.0,69.0,0,0,0,0,0,1,1,0,0,1,3,89.0,90.8,76.8
+UBCV,2022,W,MATH,227,,201,Advanced Calculus II,Alexia Yavicoli,24,80.0,,99.0,0.0,1,1,1,0,2,0,1,2,3,3,10,86.0,92.3,76.5
+UBCV,2023,W,MATH,120,,101,Honours Differential Calculus,Alexia Yavicoli,45,75.6,,98.0,0.0,4,1,1,2,3,2,1,2,7,9,7,83.0,87.5,66.5
+UBCV,2023,W,MATH,121,,201,Honours Integral Calculus,Alexia Yavicoli,51,78.5,,97.0,22.0,4,0,1,0,3,5,3,4,10,6,15,83.0,90.0,72.0

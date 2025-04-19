@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,317,,101,Internet Computing,Alan Wagner;Andrea Gottardo;Bingyao Wang;Fabian Nikolaus Trutz Ruffy Varga;Farzad Abdolhosseini;Jonatan Schroeder;Matheus Ulhoa Avelar Stolet;Muhammad Shayan,159,75.257861635,12.834986716,95.0,13.0,7,2,4,9,16,12,21,15,31,19,23
+UBCV,2018,W,CPSC,415,,201,Advanced Operating Systems,Ali Mohammad Mehr;Anand Jayarajan;Bingyao Wang;Christopher Satterfield;Donald Acton,89,75.134831461,14.213622636,97.0,14.0,3,5,3,4,5,6,10,17,14,11,11
+UBCV,2019,W,CPSC,317,,201,Internet Computing,Alan Wagner;Arda Ege Unlu;Bingyao Wang;Michelle Lee;Michelle Mun Hee Lee;Viniel Kumar;Yi Fan Liu,156,76.679487179,10.924365888,99.0,50.0,0,6,8,4,9,21,16,12,32,29,19
+UBCV,2019,W,CPSC,415,,101,Advanced Operating Systems,Ali Mohammad Mehr;Bingyao Wang;Donald Acton;Zixuan Yin,59,74.440677966,14.850137799,97.0,20.0,2,4,1,3,5,1,11,13,7,5,7

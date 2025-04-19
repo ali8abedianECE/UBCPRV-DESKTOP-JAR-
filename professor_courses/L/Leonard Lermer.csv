@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,CHEM,260,,011,ORG CHEM ENGNEER,"Lermer, Leonard",68,51.75,20.1,94,11,41,24,3,0,0,0,3,7,9,5,24,16,3,3,3,3,3,1,6,1,2,,,
+UBC,2003,W,CHEM,233,,108,Org Chem Biol Sc,"Lermer, Leonard;Sessional Lecturer",262,59.93,15.23,96,0,191,61,4,0,6,1,0,6,14,40,61,28,31,29,21,24,21,10,14,9,4,,,
+UBC,2003,W,CHEM,233,,110,Org Chem Biol Sc,"Lermer, Leonard",236,62.15,15.63,95,23,175,52,6,0,3,0,0,3,15,34,52,12,29,20,25,19,18,16,19,14,3,,,
+UBC,2003,W,CHEM,260,,166,ORG CHEM ENGNEER,"Lermer, Leonard",75,57.34,18.18,96,6,57,17,1,0,0,1,2,2,8,4,17,15,5,12,6,3,6,2,3,0,5,,,
+UBC,2003,W,CHEM,333,,288,SPCTR TEC ORG CH,"Lermer, Leonard",186,62.68,12.55,96,0,159,19,3,0,5,1,0,1,4,13,19,24,18,27,25,26,11,13,13,1,1,,,
+UBC,2009,S,CHEM,233,,921,Org Chem Biol Sc,"Lermer, Leonard",350,56.89,17.3,94,12,245,96,7,0,2,0,3,16,41,36,96,62,28,37,21,13,25,18,20,14,7,,,
+UBC,2010,S,CHEM,233,,921,Org Chem Biol Sc,"Lermer, Leonard",348,60.92,17.65,98,14,251,78,13,0,6,0,2,7,36,33,78,41,20,27,31,34,20,22,21,15,20,,,
+UBCO,2014,S,CHEM,203,,001,Introduction to Organic Chemistry,Leonard Lermer,19,65.05263158,12.95064857,86.0,38.0,,,,,,,,,,,,,5,,,,,,,,0,,,
+UBCO,2014,S,CHEM,204,,001,Organic Chemistry,Leonard Lermer;Sandra Mecklenburg,15,56.86666667,16.92363802,86.0,31.0,,,,,,,,,,,,6,,,,,,,,,0,,,
+UBCO,2015,S,CHEM,203,,001,Introduction to Organic Chemistry,Leonard Lermer,21,66.904761905,16.35513608,97.0,20.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCO,2015,S,CHEM,204,,001,Organic Chemistry,Daniel King;Leonard Lermer,17,64.411764706,16.128619065,92.0,41.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCO,2016,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer,43,64.76744186,17.12675046,93.0,31.0,,,,,,,,,,,11,2,1,3,6,5,1,3,5,2,4,,,
+UBCO,2016,S,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Leonard Lermer,42,57.88095238,18.58034942,92.0,27.0,,,,,,,,,,,17,3,5,1,3,1,1,2,4,3,2,,,
+UBCO,2017,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer;Mason Vandel,24,66.958333333,15.023110217,93.0,35.0,,,,,,,,,,,4,0,2,1,3,1,7,2,1,2,1,,,
+UBCO,2017,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer;Zhenlin Tian,37,57.405405405,18.630112213,95.0,15.0,,,,,,,,,,,10,4,6,2,5,2,3,0,2,1,2,,,
+UBCO,2018,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer;Paul Shipley,31,63.870967742,15.791858526,97.0,39.0,,,,,,,,,,,6,4,3,6,0,5,0,1,1,1,4,,,
+UBCO,2018,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer;Paul Shipley,31,62.032258065,19.255274379,92.0,20.0,,,,,,,,,,,8,0,5,3,1,6,1,1,0,2,4,,,
+UBCO,2019,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer;Mohammad Hossein Khalilian;Riley Petillion,35,67.2,14.664482903,93.0,36.0,,,,,,,,,,,5,1,4,3,5,3,3,3,3,1,4,,,
+UBCO,2019,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer;Riley Petillion,29,66.655172414,17.225968482,93.0,40.0,,,,,,,,,,,7,1,2,3,2,1,3,2,2,1,5,,,
+UBCO,2021,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Darina Vekhova;Kadie Wert;Leonard Lermer;Ozren Petkovic,32,62.4375,21.074273416,96.0,21.0,,,,,,,,,,,10,2,1,2,2,3,3,1,2,1,5,,,
+UBCO,2021,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Darina Vekhova;Kadie Wert;Leonard Lermer;Ozren Petkovic,14,73.214285714,16.761579563,96.0,47.0,,,,,,,,,,,2,1,0,0,2,1,1,2,2,0,3,,,
+UBCO,2021,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer,32,62.4,,96.0,21.0,,,,,,,,,,,10,,,,,,,,,,,64.0,78.0,46.0
+UBCO,2021,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer,14,73.2,,96.0,47.0,,,,,,,,,,,,,,,,,,,,,,75.0,83.0,65.3
+UBCO,2022,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer,26,62.0,,98.0,24.0,,,,,,,,,,,5,2,2,4,2,4,1,2,2,1,1,62.5,73.0,53.5
+UBCO,2022,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer,21,65.2,,96.0,6.0,,,,,,,,,,,5,0,2,3,1,2,0,2,1,2,3,64.0,81.0,57.0

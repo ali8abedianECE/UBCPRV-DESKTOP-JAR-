@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,CRWR,401,C,002,WRITING POETRY I,"Upfold, Amber",14,94.64,3.1,98,90,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+UBC,2013,W,CRWR,401,D,001,WRITING POETRY I,"Upfold, Amber",16,96.5,2.76,100,92,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2014,W,CRWR,200,,001,INTR CR WRITING,"Upfold, Amber",238,80.46,10.25,95,0,227,4,4,0,0,1,0,1,2,0,4,0,1,4,6,9,16,42,67,61,21
+UBC,2014,W,CRWR,200,,004,INTR CR WRITING,"Upfold, Amber",252,80.05,11.04,97,0,240,5,3,0,0,1,0,1,1,2,5,2,3,7,2,11,19,33,79,57,27
+UBC,2014,W,CRWR,401,A,001,WRITING POETRY I,"Upfold, Amber",14,97,2.54,100,94,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+UBC,2015,W,CRWR,200,,001,INTR CR WRITING,"Upfold, Amber",297,82.1,9.63,96,0,287,4,3,0,0,1,1,0,1,1,4,1,1,1,3,12,17,27,96,89,40
+UBC,2015,W,CRWR,200,,004,INTR CR WRITING,"Upfold, Amber",266,81.28,9.33,94,0,262,2,1,0,0,2,0,0,0,0,2,0,0,1,5,6,26,45,79,74,26
+UBC,2015,W,CRWR,401,W,003,WRITING POETRY I,"Upfold, Amber",14,89.36,6.8,96,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,10
+UBC,2016,W,CRWR,409,Y,002,WRITING FIC I,"Upfold, Amber",14,86.43,4.01,91,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,5
+UBC,2016,W,CRWR,409,Z,005,WRITING FIC I,"Upfold, Amber",12,90.25,1.71,93,88,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2017,W,CRWR,409,I,001,WRITING FIC I,"Upfold, Amber",14,91.79,2.78,97,89,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+UBC,2017,W,CRWR,409,J,004,WRITING FIC I,"Upfold, Amber",14,85.29,9.56,95,68,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,3,6
+UBC,2017,W,CRWR,440,I,002,INTRDIS PROJECTS,"Upfold, Amber",12,90.92,4.52,95,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8
+UBC,2018,W,CRWR,401,P,001,WRITING POETRY I,"Upfold, Amber",14,86.64,12.15,95,56,14,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4,8
+UBC,2018,W,CRWR,401,Q,002,WRITING POETRY I,"Upfold, Amber",12,91.83,5.47,96,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11
+UBC,2018,W,CRWR,409,P,003,WRITING FIC I,"Upfold, Amber",14,89,4.95,97,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7
+UBC,2018,W,CRWR,501,Q,002,ADV POETRY I,"Upfold, Amber",12,91.25,3.55,95,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9
+UBCV,2014,W,CRWR,200,,001,Introduction to Creative Writing,Amber Dawn Catherine Upfold;Amber Upfold,234,80.3974359,10.23333744,95.0,0.0,,,,,,,,,,,,,,,7,9,17,42,68,61,21
+UBCV,2014,W,CRWR,200,,004,Introduction to Creative Writing,Amber Dawn Catherine Upfold;Amber Upfold;Clara Kumagai;Curtis Leblanc;Elizabeth Christie;Henry Heavy Shield;Sasha Singer-Wilson,249,80.00401606,11.02142269,97.0,0.0,,,,,,,,,,,5,,,7,,11,20,33,80,57,28
+UBCV,2014,W,CRWR,401,A,001,Writing Poetry I,Amber Dawn Catherine Upfold;Amber Upfold,14,97.0,2.541955637,100.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14
+UBCV,2015,W,CRWR,200,,001,Introduction to Creative Writing,Amber Upfold;Benjamin Stephenson;Gena Ellett;Matthew Walsh;Rachel Jansen;Sarah Higgins,294,82.023809524,9.650343207,96.0,0.0,,,,,,,,,,,,,,,,14,17,27,96,90,40
+UBCV,2015,W,CRWR,200,,004,Introduction to Creative Writing,Amber Upfold;Curtis Leblanc;Elizabeth Christie;Meaghan Rondeau;Mica Lemiski;Rachel Jansen,265,81.226415094,9.356656821,94.0,0.0,,,,,,,,,,,,,,,6,6,26,45,79,74,26
+UBCV,2015,W,CRWR,401,W,003,Writing Poetry I,Amber Dawn Catherine Upfold;Amber Upfold,14,89.357142857,6.800533269,96.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,10
+UBCV,2016,W,CRWR,409,Y,002,Writing Fiction I,Amber Dawn Catherine Upfold;Amber Upfold,14,86.42857143,4.013712759,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,5
+UBCV,2016,W,CRWR,409,Z,005,Writing Fiction I,Amber Dawn Catherine Upfold;Amber Upfold,12,90.25,1.712255291,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2017,W,CRWR,409,I,001,Writing Fiction I,Amber Upfold,14,91.785714286,2.778449247,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,9
+UBCV,2017,W,CRWR,409,J,004,Writing Fiction I,Amber Upfold,14,85.285714286,9.562978064,95.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,0,2,3,6
+UBCV,2017,W,CRWR,440,I,002,Interdisciplinary Projects,Amber Upfold,12,90.916666667,4.52183256,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,8
+UBCV,2018,W,CRWR,401,P,001,Writing Poetry I,Amber Upfold,14,86.642857143,12.150385514,95.0,56.0,,,,,,,,,,,0,0,1,1,0,0,0,0,0,4,8
+UBCV,2018,W,CRWR,401,Q,002,Writing Poetry I,Amber Upfold,12,91.833333333,5.474458601,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,11
+UBCV,2018,W,CRWR,409,P,003,Writing Fiction I,Amber Upfold,14,89.0,4.94586074,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,7
+UBCV,2018,W,CRWR,501,Q,002,Advanced Writing of Poetry I,Amber Upfold,12,91.25,3.545163158,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9

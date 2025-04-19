@@ -1,0 +1,79 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,BIOL,441,,102,ANIM CELL BIOL,"Graves, Marcia;Pante, Nelly",22,75.45,9.02,88,58,22,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,4,1,5,4,0,,,
+UBC,2012,W,BIOL,121,,226,GENTCS ECOL&EVOL,"Graves, Marcia",214,69.46,12.37,95,4,206,6,2,0,0,2,1,1,0,2,6,7,15,21,26,46,26,21,30,10,4,,,
+UBC,2013,W,BIOL,112,,202,BIOLOGY OF CELL,"Graves, Marcia",263,72.63,13.76,100,38,233,19,6,0,3,0,0,0,1,18,19,12,15,10,27,28,28,21,38,30,24,,,
+UBC,2014,W,BIOL,112,,202,BIOLOGY OF CELL,"Graves, Marcia",303,73.22,12.52,100,34,286,9,3,0,5,0,0,0,1,8,9,14,21,21,27,34,28,31,57,23,30,,,
+UBC,2014,W,BIOL,340,,101,INT CELL BIO LAB,"Graves, Marcia;Zeiler, Kathryn",66,80.35,8.2,94,29,65,1,0,0,0,0,0,1,0,0,1,0,0,0,2,0,5,16,27,13,2,,,
+UBC,2014,W,SCIE,113,,212,SCIE SEMINAR,"Graves, Marcia;Steyn, Douw Gerbrand",24,76.04,13.93,90,32,22,2,0,0,0,0,0,0,1,1,2,0,1,0,0,3,0,4,8,5,1,,,
+UBC,2015,S,BIOL,200,,921,FUND CELL BIO,"Barker, Megan;Graves, Marcia",116,75.73,10.37,93,44,110,4,2,0,0,0,0,0,0,4,4,0,2,3,12,13,20,12,18,23,7,,,
+UBC,2015,W,BIOL,112,,102,BIOLOGY OF CELL,"Graves, Marcia;Zeiler, Kathryn",290,77.61,12.37,98,34,283,6,1,0,0,0,0,0,1,5,6,6,15,17,24,15,29,28,47,52,50,,,
+UBC,2015,W,BIOL,112,,202,BIOLOGY OF CELL,"Graves, Marcia",300,76.07,13.33,98,35,281,10,5,0,4,0,0,0,1,9,10,10,13,19,27,29,17,24,47,46,49,,,
+UBC,2015,W,SCIE,113,,212,SCIE SEMINAR,"Graves, Marcia",26,77.64,15.15,92,30,23,2,1,0,0,0,0,0,2,0,2,0,0,0,1,0,5,2,6,7,2,,,
+UBC,2016,W,BIOL,112,,104,BIOLOGY OF CELL,"Graves, Marcia",303,80.29,11.63,99,44,297,5,1,0,0,0,0,0,0,5,5,2,8,9,16,31,27,18,61,45,80,,,
+UBC,2016,W,BIOL,112,,202,BIOLOGY OF CELL,"Graves, Marcia",307,77.98,13.65,100,33,293,11,2,0,1,0,0,0,3,8,11,6,13,16,20,29,19,24,56,40,70,,,
+UBC,2016,W,BIOL,340,,101,INT CELL BIO LAB,"Graves, Marcia;Zeiler, Kathryn",70,76.87,4.41,87,66,69,0,1,0,0,0,0,0,0,0,0,0,0,0,1,7,16,25,17,3,0,,,
+UBC,2016,W,SCIE,113,,22A,SCIE SEMINAR,"Graves, Marcia",25,78.68,7.8,91,55,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,6,7,4,1,,,
+UBC,2017,S,BIOL,200,,921,FUND CELL BIO,"Graves, Marcia",119,71.61,9.97,94,45,118,1,0,0,0,0,0,0,0,1,1,5,4,16,13,21,15,19,8,13,4,,,
+UBC,2017,W,MICB,306,,101,MOLECUL VIROLOGY,"Graves, Marcia;Jean, Francois",269,76.94,10,94,32,266,1,2,0,0,0,0,0,1,0,1,5,12,14,14,26,24,34,68,59,10,,,
+UBC,2017,W,MICB,323,,201,MOLC IMMN&VIR LB,"Graves, Marcia",83,82.52,4.76,92,71,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,11,39,18,8,,,
+UBC,2017,W,SCIE,113,,11A,SCIE SEMINAR,"Graves, Marcia",22,78.15,11.21,90,45,19,1,2,0,0,0,0,0,0,1,1,1,0,0,1,0,0,3,11,2,1,,,
+UBC,2018,S,MICB,202,,971,MED MICB & IMMUN,"Gaynor, Erin;Graves, Marcia",118,77.91,11.63,99,45,113,3,2,0,0,0,0,0,0,3,3,0,5,3,7,16,15,10,19,16,22,,,
+UBC,2018,W,MICB,306,,101,MOLECUL VIROLOGY,"Graves, Marcia;Jean, Francois",203,78.7,11.17,97,30,198,3,2,0,0,0,0,0,3,0,3,2,7,11,7,7,21,26,33,57,27,,,
+UBC,2018,W,MICB,323,,201,MOLC IMMN&VIR LB,"Graves, Marcia",71,84.06,5.06,95,65,71,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,29,21,10,,,
+UBC,2018,W,SCIE,113,,115,SCIE SEMINAR,"Graves, Marcia",25,77.5,7.63,92,60,24,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,4,5,8,2,1,,,
+UBCV,2014,W,BIOL,112,,202,Biology of the Cell,Marcia Graves,300,72.34666667,14.311156,100.0,0.0,,,,,,,,,,,14,14,21,21,27,34,28,31,57,23,30,,,
+UBCV,2014,W,BIOL,340,,101,Introductory Cell Biology Laboratory,Kathryn Zeiler;Marcia Graves,66,80.34848485,8.198484708,94.0,29.0,,,,,,,,,,,,,,,,,5,16,27,13,,,,
+UBCV,2014,W,SCIE,113,,212,First-Year Seminar in Science,Douw Gerbrand Steyn;Marcia Graves,24,76.04166667,13.93300482,90.0,32.0,,,,,,,,,,,,,,,,,,,8,5,,,,
+UBCV,2015,S,BIOL,200,,921,Fundamentals of Cell Biology,Marcia Graves;Megan Barker,114,75.72807018,10.36953083,93.0,44.0,,,,,,,,,,,,,,,12,13,20,12,18,23,7,,,
+UBCV,2015,W,BIOL,112,,102,Biology of the Cell,Crisostomo Gomez;Kathryn Zeiler;Kristy Dockstader;Marcia Graves,289,77.60899654,12.372518916,98.0,34.0,,,,,,,,,,,6,6,15,17,24,15,29,28,47,52,50,,,
+UBCV,2015,W,BIOL,112,,202,Biology of the Cell,Marcia Graves,294,75.510204082,14.462788475,98.0,0.0,,,,,,,,,,,13,10,13,19,27,29,17,24,47,46,49,,,
+UBCV,2015,W,SCIE,113,,212,First-Year Seminar in Science,Gunilla Oberg;Marcia Graves,25,77.64,15.146176635,92.0,30.0,,,,,,,,,,,,,,,,,5,,6,7,,,,
+UBCV,2016,W,BIOL,112,,104,Biology of the Cell,Marcia Graves;Shuang Liu;Shumin Wang,302,80.29139073,11.62943305,99.0,44.0,,,,,,,,,,,5,2,8,9,16,31,27,18,61,45,80,,,
+UBCV,2016,W,BIOL,112,,202,Biology of the Cell,Fang Gao;Marcia Graves;Shuang Liu,305,77.72131148,14.34459731,100.0,0.0,,,,,,,,,,,12,6,13,16,20,29,19,24,56,40,70,,,
+UBCV,2016,W,BIOL,340,,101,Introductory Cell Biology Laboratory,Kathryn Zeiler;Marcia Graves;Marta Salvador Ordono;Regan-Heng Zhang;Sara Saberi;Sarah El Louadi;Yuan Xiong,69,76.86956522,4.408924917,87.0,66.0,,,,,,,,,,,0,0,0,0,1,7,16,25,17,3,0,,,
+UBCV,2016,W,SCIE,113,,22A,First-Year Seminar in Science,Gunilla Oberg;Marcia Graves,25,78.68,7.803418055,91.0,55.0,,,,,,,,,,,0,0,1,0,0,3,3,6,7,4,1,,,
+UBCV,2017,S,BIOL,200,,921,Fundamentals of Cell Biology,Alberto Delaidelli;Evan Cronmiller;Le Tam Nhan Nguyen;Marcia Graves,119,71.605042017,9.965379467,94.0,45.0,,,,,,,,,,,1,5,4,16,13,21,15,19,8,13,4,,,
+UBCV,2017,W,MICB,306,,101,Molecular Virology,Catherine Byrne;Catherine Margaret Mccomb Byrne;Francois Jean;Marcia Graves;Virginie Jean Baptiste;Zachary Morse,267,76.943820225,9.997021606,94.0,32.0,,,,,,,,,,,1,5,12,14,14,26,24,34,68,59,10,,,
+UBCV,2017,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Ana Citlali Marquez Hernandez;Ana Citlali Varhola;Celine Michiels;Marcia Graves;Tracy Kion;Virginie Jean Baptiste,83,82.518072289,4.763585055,92.0,71.0,,,,,,,,,,,0,0,0,0,0,2,5,11,39,18,8,,,
+UBCV,2017,W,SCIE,113,,11A,First-Year Seminar in Science,Marcia Graves,20,78.15,11.212187917,90.0,45.0,,,,,,,,,,,1,1,0,0,1,0,0,3,11,2,1,,,
+UBCV,2018,S,MICB,202,,971,Introductory Medical Microbiology and Immunology,Erin Gaynor;Madison Bolger-Munro;Marcia Graves,116,77.913793103,11.626483236,99.0,45.0,,,,,,,,,,,3,0,5,3,7,16,15,10,19,16,22,,,
+UBCV,2018,W,MICB,306,,101,Molecular Virology,Catherine Byrne;Francois Jean;Marcia Graves;Virginie Jean Baptiste;Zachary Morse,201,78.696517413,11.167920031,97.0,30.0,,,,,,,,,,,3,2,7,11,7,7,21,26,33,57,27,,,
+UBCV,2018,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Iwona Niemietz;Marcia Graves;Miguel Mejias Cordero;Virginie Jean Baptiste,71,84.070422535,5.069020598,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,9,29,21,10,,,
+UBCV,2018,W,SCIE,113,,115,First-Year Seminar in Science,Kalindi Chatterton;Kalindi Dasi Chatterton;Kalindi Morgan;Marcia Graves,24,77.5,7.632880817,92.0,60.0,,,,,,,,,,,0,0,0,2,0,2,4,5,8,2,1,,,
+UBCV,2019,W,BIOL,346,,201,Microbes and Society,Brandon Paul Kieft;Corrie Belanger;David Oliver;Jennifer Sibley;John Fiore Nomellini;John Nomellini;Julian Davies;Marcia Graves;Yasmine Mohamed,39,90.0,5.236511494,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,13,21,,,
+UBCV,2019,W,MICB,306,,101,Molecular Virology,Francois Jean;Jeffrey Han;Marcia Graves;Virginie Jean Baptiste;Zachary Morse,174,80.764367816,10.419340365,98.0,31.0,,,,,,,,,,,1,2,3,5,9,11,14,17,31,42,39,,,
+UBCV,2019,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,David Oliver;Israel Matos;Marcia Graves;Victoria Peters;Virginie Jean Baptiste,83,89.891566265,3.345955142,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,25,53,,,
+UBCV,2019,W,MICB,421,,201,Experimental Microbiology,David Oliver;Evelyn Sun;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Zakhar Krekhno,36,87.361111111,4.209871242,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,20,9,,,
+UBCV,2019,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;Evelyn Sun;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon,35,92.714285714,3.374396927,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,30,,,
+UBCV,2019,W,SCIE,113,,112,First-Year Seminar in Science,Caitlin Donnelly;Joanna Wong;Marcia Graves;Tara Ivanochko,25,79.32,4.964205207,89.0,70.0,,,,,,,,,,,0,0,0,0,0,2,4,8,7,4,0,,,
+UBCV,2019,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves;Rocio Lopez De La Lama;Sara Cannon,24,77.541666667,5.021511696,87.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,6,8,2,0,,,
+UBCV,2020,W,MICB,306,,101,Molecular Virology,Christopher Hong;Derrick Chong;Derrick Ho Yan Chong;Francois Jean;Lynnea Carr;Marcia Graves;Victoria Peters;Virginie Jean Baptiste;Zachary Morse,209,84.416267943,7.648775885,97.0,52.0,,,,,,,,,,,0,2,1,1,2,8,14,12,45,61,63,,,
+UBCV,2020,W,MICB,322,,101,Molecular Microbiology Laboratory,Djihane Damoo;Evelyn Sun;Jennie Jackson;Jennie Lynne Jackson;Jennifer Sibley;Jessica Chorolovski;Jessica Maria Christine Chorolovski;Karen Smith;Kelli Anne Verhagen;Kelli Verhagen;Leah Rankine-Wilson;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Stephan Koenig;Wen Jing Xia;Wen Xia,78,85.115384615,5.568885662,96.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,7,20,31,16,,,
+UBCV,2020,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Abhishek Bedi;Christine Wardell;Gara Dexter;Hassan Ali;Israel Matos;Jennifer Sibley;Kelli Verhagen;Marcia Graves;Virginie Jean Baptiste,71,86.394366197,8.764341509,95.0,21.0,,,,,,,,,,,1,0,0,0,0,0,1,1,12,32,24,,,
+UBCV,2020,W,MICB,405,,101,Bioinformatics,Avery Noonan;Axel Cameron Hauduc;Axel Hauduc;David Oliver;Karen Smith;Marcia Graves;Martin Hirst;Pranav Sai Shankar Sampara;Rachel Fernandez;Ryan Karimi;Stephan Koenig;Steven Hallam;Yue Ming Kang,85,80.952941176,4.966329205,93.0,66.0,,,,,,,,,,,0,0,0,0,1,1,9,21,31,19,3,,,
+UBCV,2020,W,SCIE,113,,112,First-Year Seminar in Science,Angela Jane Roskams;Caitlin Donnelly;Isaac Jonas;Marcia Graves,27,81.111111111,9.621023987,95.0,54.0,,,,,,,,,,,0,1,0,0,1,3,2,3,3,9,5,,,
+UBCV,2020,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves;Michael Turley;Sara Cannon,23,81.0,8.795660087,91.0,45.0,,,,,,,,,,,1,0,0,0,0,1,0,1,14,5,1,,,
+UBCV,2021,W,MICB,306,,101,Molecular Virology,Francois Jean;Joshua De Guzman;Marcia Graves;Sarah Popple;Virginie Jean Baptiste;William Stubbs,180,78.327777778,13.469531334,95.0,0.0,,,,,,,,,,,7,4,3,8,3,7,15,21,37,47,28,,,
+UBCV,2021,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Chad Poloni;Colton Strong;Marcia Graves;Virginie Jean Baptiste;Xianya Qu,80,83.3125,10.520135907,93.0,10.0,,,,,,,,,,,1,0,1,2,0,1,4,2,15,46,8,,,
+UBCV,2021,W,MICB,401,,101,Environmental Microbiology Laboratory,Braydon Black;Cara Haney;Daniela Yanez Ortuno;David Oliver;Marcia Graves;Tracy Kion;Wade Bingle,44,92.0,3.797183779,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,36,,,
+UBCV,2021,W,MICB,401,,201,Environmental Microbiology Laboratory,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion;Wade Bingle,50,94.52,2.443149523,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,50,,,
+UBCV,2021,W,MICB,421,,201,Experimental Microbiology,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion,12,92.5,2.236067977,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2021,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Madeline Lauener;Marcia Graves,26,84.461538462,9.192304474,93.0,43.0,,,,,,,,,,,1,0,0,0,0,0,0,1,8,10,6,,,
+UBCV,2021,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Marcia Graves;Virginie Jean Baptiste,79,84.2,,93.0,59.0,,,,,,,,,,,,,,,,,,,15,46,8,86.0,88.0,83.0
+UBCV,2021,W,MICB,401,,101,Environmental Microbiology Laboratory,Marcia Graves;Cara Haney;David Oliver,44,92.0,,97.0,80.0,,,,,,,,,,,,,,,,,,,,7,36,93.0,95.0,90.8
+UBCV,2021,W,MICB,401,,201,Environmental Microbiology Laboratory,Marcia Graves;David Oliver,50,94.5,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,50,95.0,96.0,93.0
+UBCV,2021,W,MICB,421,,201,Experimental Microbiology,Marcia Graves;David Oliver,12,92.5,,96.0,88.0,,,,,,,,,,,,,,,,,,,,,11,93.0,94.0,91.0
+UBCV,2021,W,SCIE,113,,115,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,26,84.5,,93.0,43.0,,,,,,,,,,,,,,,,,,,8,10,6,86.0,88.0,84.0
+UBCV,2022,S,MICB,323,,971,Molecular Immunology and Virology Laboratory,Marcia Graves,23,86.2,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,6,9,87.0,90.0,82.5
+UBCV,2022,W,MICB,306,,101,Molecular Virology,Marcia Graves;Francois Jean,165,81.0,,97.0,31.0,,,,,,,,,,,2,2,5,5,0,16,9,16,31,34,45,83.0,90.0,76.0
+UBCV,2022,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Michael Chua;Marcia Graves,83,83.6,,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,6,29,35,8,85.0,86.0,82.0
+UBCV,2022,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,49,93.9,,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,44,94.0,97.0,92.0
+UBCV,2022,W,MICB,506,B,201,Microbiological and Immunological Research,Michael Gold;Marcia Graves;Pauline Johnson;Michael Murphy;Maria Tokuyama;Carolina Tropini,25,95.1,,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,21,97.0,98.0,94.0
+UBCV,2022,W,SCIE,113,,114,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,25,82.2,,92.0,45.0,,,,,,,,,,,1,0,0,0,0,0,0,1,15,7,1,84.0,86.0,81.0
+UBCV,2023,S,MICB,323,,971,Molecular Immunology and Virology Laboratory,Michael Chua;Marcia Graves,26,86.56,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,12,7,87.0,90.0,85.0
+UBCV,2023,W,MICB,306,,101,Molecular Virology,Marcia Graves;Francois Jean,187,82.6,,95.0,45.0,,,,,,,,,,,1,2,5,2,7,9,6,12,37,54,51,85.0,90.0,80.0
+UBCV,2023,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Michael Chua;Marcia Graves,83,86.4,,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,14,54,13,87.0,89.0,85.0
+UBCV,2023,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,53,94.2,,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,49,95.0,96.0,91.0
+UBCV,2023,W,MICB,506,B,201,Microbiological and Immunological Research,Ninan Abraham;Lindsay Eltis;Michael Gold;Marcia Graves;Michael Murphy;Lisa Osborne;Maria Tokuyama;Carolina Tropini,10,92.4,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,92.0,93.5,91.5
+UBCV,2023,W,SCIE,113,,101,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,524,81.74,,98.0,0.0,,,,,,,,,,,8,1,3,5,14,10,28,67,159,148,73,84.0,87.0,79.0
+UBCV,2023,W,SCIE,113,,201,First-Year Seminar in Science,Caitlin Donnelly;Marcia Graves,420,82.06,,97.0,0.0,,,,,,,,,,,7,0,2,1,4,14,23,42,147,107,68,83.0,87.0,80.0

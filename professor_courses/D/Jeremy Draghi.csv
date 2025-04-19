@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,SCIE,120,,2F2,TPCS SUSTAIN SCI,"Draghi, Jeremy;Jandciu, Eric",16,85.73,8.3,96,68,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,2,6
+UBC,2014,W,BIOL,336,,201,EVOLUTIONARY BIO,"Bole, Gregory Michael;Draghi, Jeremy",167,72.6,9.93,91,18,164,2,1,0,0,0,1,0,1,0,2,1,13,9,11,33,28,25,31,10,3
+UBC,2014,W,BIOL,336,,202,EVOLUTIONARY BIO,"Bole, Gregory Michael;Draghi, Jeremy",48,73.06,8.81,90,50,48,0,0,0,0,0,0,0,0,0,0,3,1,4,2,6,8,12,10,1,1
+UBCV,2014,W,BIOL,336,,201,Fundamentals of Evolutionary Biology,Gregory Michael Bole;Jeremy Draghi,166,72.59638554,9.930655882,91.0,18.0,,,,,,,,,,,,,13,9,11,33,28,25,31,10,
+UBCV,2014,W,BIOL,336,,202,Fundamentals of Evolutionary Biology,Gregory Michael Bole;Jeremy Draghi,48,73.0625,8.808618241,90.0,50.0,,,,,,,,,,,0,,1,4,2,6,8,12,10,1,

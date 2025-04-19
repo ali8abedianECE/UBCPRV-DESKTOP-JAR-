@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,MATH,225,,001,Introduction to Differential Equations,May Anne Mata;Rebecca Tyson,99,63.48484849,22.47918023,100.0,0.0,28,,,,7,12,9,7,7,9,9,,,
+UBCO,2014,W,MATH,319,,001,Introduction to Partial Differential Equations,Rebecca Tyson,49,71.10204082,16.06010183,96.0,16.0,5,,,,7,7,6,,8,,6,,,
+UBCO,2014,W,MATH,459,,001,Mathematical Biology,Rebecca Tyson,6,77.0,9.444575162,87.0,61.0,0,0,0,,,,,,,,0,,,
+UBCO,2015,W,MATH,225,,001,Introduction to Differential Equations,Jimit Majmudar;May Anne Mata;Megan Kurz;Rebecca Tyson,94,58.946808511,23.52503449,97.0,0.0,37,,,9,5,7,8,11,,,9,,,
+UBCO,2015,W,MATH,339,,001,Introduction to Dynamical Systems,Rebecca Tyson,17,81.411764706,6.727358541,92.0,71.0,0,0,0,0,0,,,,,,,,,
+UBCO,2015,W,MATH,459,,001,Mathematical Biology,Rebecca Tyson,14,75.142857143,30.966128252,98.0,0.0,,,,,,,,,,,6,,,
+UBCO,2016,W,MATH,225,,001,Introduction to Differential Equations,May Anne Mata;Rebecca Tyson,81,67.0617284,23.41705878,99.0,3.0,20,1,1,5,6,8,9,6,4,6,15,,,
+UBCO,2016,W,MATH,319,,001,Introduction to Partial Differential Equations,Maria Martignoni Mseya;Rebecca Tyson,37,71.24324324,17.99753904,97.0,25.0,4,1,3,3,5,4,2,3,1,3,8,,,
+UBCO,2017,W,MATH,225,,001,Introduction to Differential Equations,Maria Martignoni Mseya;Rebecca Tyson,81,68.901234568,24.272208871,100.0,4.0,23,2,1,3,5,4,3,10,3,8,19,,,
+UBCO,2017,W,MATH,459,,001,Mathematical Biology,Rebecca Tyson,9,74.222222222,28.708786886,97.0,0.0,1,0,0,0,0,0,1,1,3,1,2,,,
+UBCO,2019,W,MATH,225,,101,Introduction to Differential Equations,Cole Priestman;Gabriel Jarry-Bolduc;Haashim Madani;Pau Capera Aragones;Rebecca Tyson;Sarah Macqueen;Sarah Wyse;Ziyuan Wang,75,68.213333333,14.965991477,94.0,14.0,11,1,9,3,4,10,13,7,8,5,4,,,
+UBCO,2019,W,MATH,339,,001,Introduction to Dynamical Systems,Rebecca Tyson,14,82.142857143,7.764387567,97.0,70.0,0,0,0,0,0,1,2,3,4,2,2,,,
+UBCO,2019,W,MATH,459,,101,Mathematical Biology,Nourridine Siewe;Rebecca Tyson,8,80.625,10.7827574,97.0,66.0,0,0,0,0,1,2,0,0,3,0,2,,,
+UBCO,2020,W,MATH,225,,001,Introduction to Differential Equations,Alexander Molnar;Ian Chambers;Jakob Marshall;Maria Guenter;Md Tareque Hossain;Rebecca Tyson;Seyedbahram Talebjedi;Tenzin Jinpa,81,68.543209877,12.974060065,93.0,13.0,7,0,6,8,12,12,12,9,11,2,2,,,
+UBCO,2021,W,MATH,225,,101,Introduction to Differential Equations,Ian Chambers;Jakob Marshall;Jesse Ghashti;Rebecca Tyson;Sarah Wyse,46,65.217391304,20.097443777,94.0,15.0,12,3,2,1,6,4,1,1,9,3,4,,,
+UBCO,2021,W,MATH,225,,101,Introduction to Differential Equations,Rebecca Tyson,48,64.0,,94.0,15.0,14,,,,6,,,,9,,,66.5,82.0,47.0
+UBCO,2022,W,MATH,225,,101,Introduction to Differential Equations,Rebecca Tyson,65,62.5,,100.0,13.0,21,1,2,4,4,4,7,7,3,6,6,69.0,79.0,45.0
+UBCO,2022,W,MATH,559,,101,Mathematical Biology,Rebecca Tyson,7,83.9,,95.0,71.0,0,0,0,0,0,1,0,0,3,1,2,83.0,89.0,80.0
+UBCO,2023,W,MATH,225,,101,Introduction to Differential Equations,Rebecca Tyson,79,57.9,,100.0,7.0,28,3,7,9,5,3,3,2,3,4,8,58.0,73.5,44.5
+UBCO,2023,W,MATH,319,,001,Introduction to Partial Differential Equations,Rebecca Tyson,30,74.6,,98.0,46.0,4,1,1,0,2,2,5,1,3,3,7,75.0,85.0,65.0

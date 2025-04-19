@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,FNLG,448,W,001,STDY FRST NAT L,"Rosenblum, Daisy",11,89,7.09,96,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,7,,,
+UBC,2015,W,ANTH,512,,002,LANG & CULTURE,"Rosenblum, Daisy",5,85.2,5.93,91,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,,,
+UBC,2015,W,FNEL,282,,002,STRUC ENDG LANG,"Rosenblum, Daisy",6,82.2,9.93,93,68,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,,,
+UBC,2016,W,FNEL,282,,001,STRUC ENDG LANG,"Rosenblum, Daisy",11,87.18,9.82,97,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,6,,,
+UBC,2016,W,FNEL,381,,001,BIOCULTRL DVRSTY,"Rosenblum, Daisy",15,82.67,9.91,97,65,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,2,4,4,,,
+UBC,2016,W,FNEL,481,,001,HERITG RSRCS FNL,"Rosenblum, Daisy",6,79.5,15.11,91,57,6,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,3,,,
+UBC,2017,W,FNEL,141,,001,INTR WAKASHAN I,"Rosenblum, Daisy",11,75.82,18.92,96,30,10,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,1,2,2,2,,,
+UBC,2017,W,FNEL,142,,001,INTR WAKASHAN II,"Rosenblum, Daisy",11,83,10.11,100,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,0,3,,,
+UBC,2017,W,FNEL,381,,001,BIOCULTRL DVRSTY,"Rosenblum, Daisy",16,82.87,10.7,97,67,15,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,2,2,2,5,,,
+UBC,2018,W,FNEL,141,,001,INTR WAKASHAN I,"Rosenblum, Daisy",7,88.5,5.89,93,78,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,,,
+UBC,2018,W,FNEL,142,,001,INTR WAKASHAN II,"Rosenblum, Daisy",6,69.4,39.61,93,0,4,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3,,,
+UBC,2018,W,FNEL,241,,001,INTMD WAKASHAN I,"Rosenblum, Daisy",4,73.33,3.06,76,70,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,,,
+UBC,2018,W,FNEL,242,,001,INTMD WAKASHN II,"Rosenblum, Daisy",6,69.17,15.96,90,55,6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,1,0,1,,,
+UBC,2018,W,FNEL,282,,001,STRUC ENDG LANG,"Rosenblum, Daisy",13,68,26.72,91,0,10,2,1,0,0,1,0,0,0,1,2,1,0,0,0,3,0,1,1,2,2,,,
+UBCV,2014,W,FNLG,448,W,001,Directed Studies in First Nations Languages,Daisy Rosenblum,11,89.0,7.085195834,96.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,,7,,,
+UBCV,2015,W,ANTH,512,,002,Language and Culture,Daisy Rosenblum,5,85.2,5.93295879,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2015,W,FNEL,282,,002,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,5,82.2,9.934787366,93.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2016,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,11,87.18181818,9.816498172,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,0,1,6,,,
+UBCV,2016,W,FNEL,381,,001,"Biocultural Diversity: Language, Community, and Environment",Daisy Rosenblum,15,82.66666667,9.911513267,97.0,65.0,,,,,,,,,,,0,0,0,0,1,3,0,1,2,4,4,,,
+UBCV,2016,W,FNEL,481,,001,Heritage Resources in Endangered First Nations Language Revitalization,Daisy Rosenblum,6,79.5,15.1095996,91.0,57.0,,,,,,,,,,,0,0,1,0,1,0,0,0,1,0,3,,,
+UBCV,2017,W,FNEL,101,,001,Introduction to a Salish Language I,Daisy Rosenblum;Fiona Campbell;Larry Grant,22,84.454545455,7.307708081,95.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,2,6,4,7,,,
+UBCV,2017,W,FNEL,141,,001,Introduction to a Wakashan Language I,Daisy Rosenblum,11,75.818181818,18.919926965,96.0,30.0,,,,,,,,,,,1,0,1,0,0,1,1,1,2,2,2,,,
+UBCV,2017,W,FNEL,142,,001,Introduction to a Wakashan Language II,Daisy Rosenblum,11,83.0,10.109401565,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,2,0,3,,,
+UBCV,2017,W,FNEL,381,,001,"Biocultural Diversity: Language, Community, and Environment",Daisy Rosenblum,15,82.866666667,10.696238769,97.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,2,2,2,5,,,
+UBCV,2018,W,FNEL,141,,001,Introduction to a Wakashan Language I,Daisy Rosenblum,7,84.714285714,11.368293418,93.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,1,0,1,4,,,
+UBCV,2018,W,FNEL,242,,001,Intermediate Wakashan Language II,Daisy Rosenblum,6,73.333333333,14.733182503,90.0,55.0,,,,,,,,,,,0,0,2,0,0,0,0,1,2,0,1,,,
+UBCV,2018,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,14,70.0,25.099800796,91.0,0.0,,,,,,,,,,,2,1,0,0,0,3,0,1,3,2,2,,,
+UBCV,2019,W,FNEL,141,A,001,Introduction to a Wakashan Language I,Daisy Rosenblum,16,73.1875,20.659844304,87.0,0.0,,,,,,,,,,,1,0,0,1,1,0,1,3,8,1,0,,,
+UBCV,2019,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,15,78.066666667,18.549034117,97.0,30.0,,,,,,,,,,,1,0,1,1,1,0,2,1,1,2,5,,,
+UBCV,2019,W,FNEL,381,,001,"Biocultural Diversity: Language, Community, and Environment",Daisy Rosenblum,14,81.571428571,8.073835098,94.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,2,3,3,3,,,
+UBCV,2019,W,FNEL,481,,001,Heritage Resources in Endangered First Nations Language Revitalization,Daisy Rosenblum,9,79.555555556,17.03754025,95.0,52.0,,,,,,,,,,,0,1,1,0,0,1,0,0,2,0,4,,,
+UBCV,2020,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,20,79.55,10.159128641,95.0,57.0,,,,,,,,,,,0,0,1,0,1,3,1,5,2,2,5,,,
+UBCV,2020,W,FNEL,381,,001,"Biocultural Diversity: Language, Community, and Environment",Daisy Rosenblum,21,84.714285714,17.094276402,100.0,32.0,,,,,,,,,,,1,1,0,0,0,0,4,0,1,3,11,,,
+UBCV,2022,W,ANTH,217,,002,Culture and Communication,Daisy Rosenblum,64,81.6,,100.0,0.0,,,,,,,,,,,2,3,0,0,3,4,4,5,9,11,23,85.0,92.3,75.8
+UBCV,2022,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,14,81.5,,99.0,50.0,,,,,,,,,,,0,2,0,1,0,0,1,2,1,1,6,85.5,96.0,73.8
+UBCV,2023,W,ANTH,217,,002,Culture and Communication,Daisy Rosenblum,108,76.4,,100.0,1.0,,,,,,,,,,,1,4,6,5,6,9,15,17,8,16,17,77.0,87.0,69.8
+UBCV,2023,W,FNEL,381,,001,"Biocultural Diversity: Language, Community, and Environment",Daisy Rosenblum,19,82.0,,100.0,28.0,,,,,,,,,,,1,0,0,1,1,0,0,3,0,4,7,88.0,92.0,78.0
+UBCV,2023,W,FNEL,448,B,001,Directed Research in First Nations Languages,Daisy Rosenblum,6,88.0,,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,1,3,90.0,96.0,84.75
+UBCV,2023,W,FNEL,481,,001,Heritage Resources in Endangered First Nations Language Revitalization,Daisy Rosenblum,14,83.92,,97.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,2,1,1,5,85.0,92.75,75.75

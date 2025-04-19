@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,PHYS,157,,102,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Guy Leckenby;Ryan Harvey;Sahba Mozaffarian;Steven Dierker;Ziang Yan,356,72.710674157,11.567949827,96.0,30.0,13,3,22,40,32,46,48,40,53,41,18,,,
+UBCV,2019,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Chengshu Li;Jeff Young;Jordan Hanania;Sarah Burke;Steven Dierker,52,84.807692308,5.099167412,94.0,69.0,0,0,0,0,0,1,3,2,14,24,8,,,
+UBCV,2019,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Edward Thoeng;Samuel Brown;Sarah Burke;Steven Dierker,53,85.716981132,4.592541439,96.0,76.0,0,0,0,0,0,0,0,3,19,18,13,,,
+UBCV,2019,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Hassan Mallahzadeh;Jeff Young;Ryan Harvey;Sarah Burke;Steven Dierker,48,76.729166667,8.110249841,90.0,59.0,0,0,1,2,4,7,6,9,9,8,2,,,
+UBCV,2019,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Sarah Burke;Sean Vanbergen;Steven Dierker;Yukiya Saito,45,77.844444444,9.65061363,89.0,46.0,1,2,0,1,2,2,1,12,12,12,0,,,
+UBCV,2020,W,PHYS,157,,101,Introductory Physics for Engineers I,Adan Azem;Bradley Guislain;Fei Zhou;Mark Van Raamsdonk;Oleksii Proskurin;Steven Dierker;Tim Tuschen,341,79.035190616,12.308722124,99.0,28.0,9,5,10,10,14,21,38,33,73,64,64,,,
+UBCV,2020,W,PHYS,157,,102,Introductory Physics for Engineers I,Adan Azem;Arnab Adhikary;Bradley Guislain;Fei Zhou;Mark Van Raamsdonk;Oleksii Proskurin;Steven Dierker,340,76.864705882,14.185223987,98.0,11.0,17,7,11,8,19,24,25,36,95,47,51,,,
+UBCV,2020,W,PHYS,157,,103,Introductory Physics for Engineers I,Adan Azem;Austin Khorram;Bradley Guislain;Fei Zhou;Mark Van Raamsdonk;Oleksii Proskurin;Steven Dierker,342,78.00877193,13.253116015,98.0,24.0,12,7,15,9,5,40,37,21,71,38,87,,,
+UBCV,2020,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Adair Connor;Ashley Warner;David Roberts;Ryan Quinn;Sarah Burke;Shadab Ahamed Shadab Ahamed;Steven Dierker,48,86.25,14.785703273,100.0,15.0,2,1,0,0,0,0,3,1,3,15,23,,,
+UBCV,2020,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Alexander Ensworth;Ashley Warner;Christian Malherbe;Sarah Burke;Shadab Ahamed Shadab Ahamed;Steven Dierker;Willow Benitz,60,88.033333333,8.570676588,100.0,61.0,0,0,0,1,1,4,0,1,7,13,33,,,
+UBCV,2020,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Ashley Warner;Brandon Stuart;Daniel Ka Sing Wong;Lara Maria Bartels;Sarah Burke;Shadab Ahamed Shadab Ahamed;Steven Dierker,48,79.875,16.324664801,98.0,6.0,2,0,2,0,2,6,3,2,6,10,15,,,
+UBCV,2021,W,PHYS,157,,102,Introductory Physics for Engineers I,Carlos Doebeli;James Wu;Jing Wang;Perrin Waldock;Steven Dierker,355,76.633802817,11.645710925,96.0,0.0,6,8,14,14,20,37,34,53,75,61,33,,,
+UBCV,2021,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Ashley Warner;James Wu;Jiabin Yu;Lesley Hill;Mercedes Thompson;Sarah Burke;Steven Dierker,40,89.75,6.01174065,100.0,73.0,0,0,0,0,0,0,1,1,5,10,23,,,
+UBCV,2021,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Ashley Warner;Donney Fan;Edward Thoeng;James Wu;Lesley Hill;Sarah Burke;Steven Dierker,43,83.348837209,9.578954414,97.0,51.0,0,1,0,1,1,1,3,6,7,8,15,,,
+UBCV,2021,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Ashley Warner;James Wu;Lesley Hill;Miles Justice;Samikshya Sahu;Sarah Burke;Steven Dierker,48,83.291666667,15.531653792,100.0,7.0,2,0,1,0,0,2,2,6,11,7,17,,,
+UBCV,2021,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chironjeev Kanjilal;James Wu;Jiabin Yu;Lesley Hill;Sarah Burke;Steven Dierker;Vladislav Pomogaev,40,88.125,10.542192396,100.0,40.0,1,0,0,0,0,1,1,1,7,7,22,,,
+UBCV,2021,W,PHYS,157,,102,Introductory Physics for Engineers I,Steven Dierker,355,76.6,,96.0,0.0,,8,,14,20,,,53,,,,79.0,85.0,71.0
+UBCV,2021,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,40,89.8,,100.0,73.0,,,,,,,,,,10,23,91.0,93.3,86.0
+UBCV,2021,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,43,83.3,,97.0,51.0,,,,,,,,6,7,8,15,86.0,90.0,77.5
+UBCV,2021,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,48,83.3,,100.0,7.0,,,,,,,,6,11,7,17,84.5,92.0,79.0
+UBCV,2021,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker;Chironjeev Kanjilal,40,88.1,,100.0,40.0,,,,,,,,,7,7,22,90.0,94.3,84.0
+UBCV,2022,W,PHYS,157,,101,Introductory Physics for Engineers I,Steven Dierker;Robert Raussendorf,287,77.5,,99.0,5.0,15,5,7,10,17,16,14,46,55,59,43,81.0,87.0,72.0
+UBCV,2022,W,PHYS,157,,102,Introductory Physics for Engineers I,Steven Dierker;Amali Priyanka Jambuge;William H. McCutcheon,314,80.5,,98.0,13.0,9,8,4,5,5,18,27,32,60,80,66,83.0,89.0,76.0
+UBCV,2022,W,PHYS,157,,103,Introductory Physics for Engineers I,Steven Dierker,319,80.8,,99.0,6.0,6,4,1,9,9,17,36,41,56,71,69,82.0,89.0,75.0
+UBCV,2022,W,PHYS,159,,LE2,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,41,75.8,,94.0,61.0,0,0,0,3,4,5,8,9,6,3,3,76.0,81.0,70.0
+UBCV,2022,W,PHYS,159,,LT2,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,47,79.4,,97.0,46.0,1,0,0,0,2,4,8,9,9,11,3,79.0,85.5,74.0
+UBCV,2022,W,PHYS,159,,LU2,Introductory Physics Laboratory for Engineers,Sarah Burke;Steven Dierker,36,75.9,,96.0,5.0,1,0,1,1,3,4,6,5,6,5,4,77.0,83.8,71.0
+UBCV,2022,W,PHYS,200,,101,Relativity and Quanta,Steven Dierker;Alison Lister,142,76.7,,100.0,3.0,7,6,7,5,8,12,12,10,24,19,32,80.0,89.0,68.3
+UBCV,2023,W,PHYS,157,,101,Introductory Physics for Engineers I,Steven Dierker;Amali Priyanka Jambuge,272,75.5,,97.0,12.0,5,7,10,12,20,25,46,38,43,40,20,76.0,84.0,70.0
+UBCV,2023,W,PHYS,157,,102,Introductory Physics for Engineers I,Steven Dierker;Marina Litinskaya,342,77.7,,98.0,22.0,5,5,6,9,23,32,44,41,82,52,38,80.0,85.0,72.0
+UBCV,2023,W,PHYS,157,,103,Introductory Physics for Engineers I,Steven Dierker,334,75.2,,97.0,9.0,7,10,16,19,17,48,35,36,59,44,34,77.0,84.0,69.0
+UBCV,2023,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Steven Dierker;Jonathan Massey Allard,39,86.7,,94.0,70.0,0,0,0,0,0,2,0,3,3,16,14,87.5,90.0,85.0
+UBCV,2023,W,PHYS,159,,LT2,Introductory Physics Laboratory for Engineers,Steven Dierker;Jonathan Massey Allard,49,77.9,,89.0,59.0,0,0,1,1,4,4,7,9,13,10,0,79.0,84.0,73.0
+UBCV,2023,W,PHYS,159,,LU2,Introductory Physics Laboratory for Engineers,Steven Dierker;Jonathan Massey Allard,32,73.7,,90.0,50.0,0,2,3,0,1,2,5,11,5,2,1,76.5,78.5,71.5

@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,APSC,459,,101,ENG PHYS PRJ I,"Davis, Harold;Nakane, Jonathan",53,81,10.22,94,57,53,0,0,0,0,0,0,0,0,0,0,0,3,3,0,5,3,0,18,6,15
+UBC,2006,W,APSC,479,,101,ENG PHYS PRJ II,"Davis, Harold;Nakane, Jonathan",53,83.75,13.97,95,6,52,1,0,0,0,1,0,0,0,0,1,0,0,0,4,2,4,2,7,13,20
+UBC,2007,W,APSC,459,,101,ENG PHYS PRJ I,"Nakane, Jonathan;Young, Jeff",54,79.06,10.51,94,54,54,0,0,0,0,0,0,0,0,0,0,4,0,0,5,0,6,4,18,3,14
+UBC,2007,W,APSC,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Young, Jeff",54,80.17,13.47,93,8,53,1,0,0,0,1,0,0,0,0,1,0,0,2,5,4,0,6,8,16,12
+UBC,2009,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",62,86.82,9.26,100,68,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,15,5,30
+UBC,2009,W,APSC,459,,001,ENG PHYS PRJ I,"Nakane, Jonathan;Waltham, Christopher",51,80,11.39,96,53,50,0,1,0,0,0,0,0,0,0,0,1,1,3,3,6,8,0,7,7,14
+UBC,2009,W,APSC,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Waltham, Christopher",51,80.37,16.15,94,7,49,2,0,0,0,1,0,1,0,0,2,2,0,0,0,0,8,5,13,6,15
+UBC,2010,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",55,86.49,7,99,75,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,25,6,17
+UBC,2010,W,APSC,459,,001,ENG PHYS PRJ I,"Nakane, Jonathan;Waltham, Christopher",56,83.02,6.39,92,67,56,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,9,10,23,8
+UBC,2010,W,APSC,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Waltham, Christopher",55,83.91,6.38,93,65,55,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,9,11,20,10
+UBC,2011,S,PHYS,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",53,84.68,7.87,97,70,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,7,10,7,19
+UBC,2011,W,ENPH,459,,001,ENG PHYS PRJ1,"Nakane, Jonathan;Waltham, Christopher",52,85.58,4.81,94,76,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,16,16,14
+UBC,2011,W,ENPH,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Waltham, Christopher",55,85.69,7.82,94,65,54,0,1,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,7,12,27
+UBC,2012,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",59,86.66,6.92,100,76,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,22,12,19
+UBC,2012,W,ENPH,459,,001,ENG PHYS PRJ1,"Nakane, Jonathan;Young, Jeff",52,79.33,8.38,93,65,52,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,13,7,4,14,6
+UBC,2012,W,ENPH,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Waltham, Christopher",47,83.87,5.48,95,67,47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,18,11,11
+UBC,2012,W,ENPH,481,,201,ENTREPRN PROJ  I,"Nakane, Jonathan",4,82.5,4.8,88,78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+UBC,2013,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",60,87.4,8.82,100,65,60,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,2,12,15,23
+UBC,2013,W,BAEN,580,B,001,TPCS ENTREPR'SHP,"Nakane, Jonathan",9,88.33,2.5,93,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2
+UBC,2013,W,ENPH,459,,001,ENG PHYS PRJ1,"Nakane, Jonathan;Young, Jeff",57,80.93,8.91,95,61,57,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,4,8,14,11,12
+UBC,2013,W,ENPH,479,,101,ENG PHYS PRJ II,"Nakane, Jonathan;Waltham, Christopher",53,83.02,5.49,92,73,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,12,16,8
+UBC,2013,W,ENPH,481,,201,ENTREPRN PROJ  I,"Nakane, Jonathan",4,78.5,9,92,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+UBC,2014,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",56,89.04,5.09,99,79,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,17,27
+UBC,2014,W,BAEN,580,B,001,TPCS ENTREPR'SHP,"Nakane, Jonathan",11,84.55,5.39,94,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,2
+UBC,2014,W,ENPH,459,,001,ENG PHYS PRJ1,"Hansen, Carl;Nakane, Jonathan",57,84.63,5.83,91,61,57,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,25,18,11
+UBC,2014,W,ENPH,479,,101,ENG PHYS PRJ II,"Jones, David;Nakane, Jonathan",51,83.73,7.99,93,53,51,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,19,13,13
+UBC,2015,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",65,86.74,7.58,98,71,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,12,4,33
+UBC,2015,W,APSC,100,,101,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",192,82.08,5.41,93,45,190,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,11,28,78,60,10
+UBC,2015,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",193,80.28,7.53,92,41,188,4,1,0,0,0,0,0,0,4,4,1,0,0,1,7,13,30,82,52,2
+UBC,2015,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",242,80.49,5.89,90,48,237,1,3,0,1,0,0,0,0,1,1,1,0,1,3,9,23,47,79,67,7
+UBC,2015,W,APSC,100,,104,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",198,80.37,6.91,90,32,195,2,0,0,1,0,0,0,1,1,2,1,0,1,1,7,16,35,78,49,7
+UBC,2015,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yan, Joseph;Yonemitsu, Noboru",144,78.83,9.06,94,32,141,3,0,0,0,0,0,0,2,1,3,2,0,1,3,8,14,32,43,32,6
+UBC,2015,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya",273,79.4,9.04,94,29,260,9,2,0,2,0,0,1,1,7,9,0,2,1,3,15,23,53,82,65,16
+UBC,2015,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",153,77.36,9.46,93,25,147,4,1,0,1,0,0,1,0,3,4,2,0,4,6,9,17,39,39,26,5
+UBC,2015,W,COMM,386,P,201,TPCS BUSINESS 3,"Nakane, Jonathan",21,78.19,7.74,88,62,21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,3,8,4,0
+UBC,2015,W,ENPH,459,,001,ENG PHYS PRJ1,"Hansen, Carl;Nakane, Jonathan",51,84.96,6.68,93,60,51,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,0,9,24,13
+UBC,2015,W,ENPH,479,,101,ENG PHYS PRJ II,"Jones, David;Nakane, Jonathan",58,82.86,8.42,92,36,57,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,15,16,4,19
+UBC,2016,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",60,85.73,6.17,98,69,59,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,23,20,12
+UBC,2016,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Nakane, Jonathan;Ostafichuk, Peter",199,78.83,8.81,97,45,196,2,1,0,0,0,0,0,0,2,2,3,5,4,4,12,25,28,52,53,10
+UBC,2016,W,APSC,101,,202,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",200,75.16,10.21,91,16,191,8,1,0,0,0,1,0,1,6,8,1,3,5,12,21,32,37,53,23,4
+UBC,2016,W,COMM,386,P,101,TPCS BUSINESS 3,"Nakane, Jonathan",19,78.56,4.4,88,73,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,6,2,0
+UBC,2016,W,ENPH,459,,001,ENG PHYS PRJ1,"Hansen, Carl;Nakane, Jonathan",66,82.23,8.8,97,64,66,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,4,5,0,33,10
+UBC,2016,W,ENPH,479,,101,ENG PHYS PRJ II,"Jones, David;Nakane, Jonathan",53,83.67,5.8,93,59,52,0,1,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,20,25,2
+UBC,2017,S,ENPH,253,,941,INTRO INST DSGN,"Marziali, Andre;Nakane, Jonathan",62,86.03,5.53,99,76,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,22,18,16
+UBC,2017,W,APSC,101,,202,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter",203,73.89,11.03,95,40,189,9,2,0,3,0,0,0,0,9,9,5,5,10,14,25,28,32,39,22,9
+UBC,2017,W,APSC,278,,201,ENG MATERIALS,"Fernlund, Goran;Nakane, Jonathan",242,70.24,11.91,98,40,232,8,2,0,0,0,0,0,0,8,8,15,17,30,31,35,23,31,19,19,12
+UBC,2018,W,APSC,100,,102,INTRO TO ENG I,"Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Verrett, Jonathan",202,78.91,6.89,92,50,200,0,1,0,1,0,0,0,0,0,0,2,0,4,5,16,26,39,62,39,7
+UBC,2018,W,APSC,100,,104,INTRO TO ENG I,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Ostafichuk, Peter",232,78.75,7.81,92,44,223,4,3,0,2,0,0,0,0,4,4,1,1,2,7,15,26,45,72,47,7
+UBC,2018,W,APSC,101,,201,INTRO TO ENG II,"Lam, Gabrielle;Nakane, Jonathan",242,73.2,9.83,97,24,232,9,0,0,1,0,0,1,0,8,9,3,4,9,25,46,38,37,46,17,7
+UBC,2018,W,APSC,101,,202,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",149,72.92,9.76,93,40,143,4,0,0,2,0,0,0,0,4,4,1,8,13,11,24,16,32,22,10,6
+UBC,2018,W,APSC,101,,203,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",231,73.99,8.54,93,44,226,3,0,0,2,0,0,0,0,3,3,6,6,6,15,39,42,48,41,20,3
+UBC,2018,W,APSC,101,,204,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",183,73.46,9.72,99,45,172,6,3,0,2,0,0,0,0,6,6,4,2,7,20,27,31,35,23,16,7
+UBC,2018,W,IGEN,330,,001,INTRMDT ENG DESN,"Nakane, Jonathan;Reilly, Carl",50,78.73,13.14,91,0,48,1,1,0,0,1,0,0,0,0,1,0,0,0,2,4,5,10,11,14,2
+UBC,2018,W,MECH,221,,101,ENGIN SCIENCE I,"Nakane, Jonathan;Turner, Robin;Walls, Patrick;Wu, Chun;d'Entremont, Agnes",124,76.17,10.95,100,28,121,3,0,0,0,0,0,1,0,2,3,0,2,7,2,27,16,17,31,2,17
+UBC,2018,W,MECH,223,,201,INTRO MECH DSGN,"Fengler, Markus;Nakane, Jonathan;Ostafichuk, Peter;d'Entremont, Agnes",125,72.33,10.48,95,32,121,3,0,0,1,0,0,0,3,0,3,4,5,11,5,11,25,33,19,5,3
+UBC,2018,W,MTRL,381,,201,STRUC&PRPTY LAB,"Nakane, Jonathan",20,81.79,6.29,94,71,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8,2,3
+UBC,2018,W,MTRL,381,,202,STRUC&PRPTY LAB,"Nakane, Jonathan",20,83.2,5.2,91,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,5,3
+UBC,2018,W,MTRL,381,,203,STRUC&PRPTY LAB,"Nakane, Jonathan",12,81.92,3.5,87,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,3,0
+UBC,2018,W,MTRL,381,,204,STRUC&PRPTY LAB,"Nakane, Jonathan",11,78.55,5.72,86,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,5,2,0

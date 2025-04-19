@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2022,W,APSC,101,,201,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Roza Vaez Ghaemi,250,73.2,97.0,0.0,6,14,9,10,21,30,46,33,39,32,10,74.0,81.0,68.0
+UBCV,2022,W,APSC,101,,202,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Roza Vaez Ghaemi,172,71.1,94.0,0.0,14,9,8,7,15,17,30,18,29,17,8,73.0,80.0,65.0
+UBCV,2022,W,APSC,101,,203,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Roza Vaez Ghaemi,188,72.3,99.0,14.0,16,13,2,4,19,8,27,29,35,21,14,76.0,82.0,65.0
+UBCV,2022,W,APSC,101,,204,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Roza Vaez Ghaemi,234,74.2,98.0,0.0,9,7,7,13,19,29,24,27,46,32,21,76.0,83.0,68.0
+UBCV,2022,W,MTRL,251,,201,Thermodynamics of Materials II,Amir Mehdi Dehkhoda,108,69.3,91.0,0.0,3,6,4,12,20,7,24,12,14,3,3,72.0,77.0,64.8
+UBCV,2022,W,MTRL,358,,101,Hydrometallurgy I,Amir Mehdi Dehkhoda,53,83.2,100.0,14.0,2,1,0,1,1,1,5,1,11,6,24,88.0,92.0,80.0
+UBCV,2022,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,21,77.1,92.0,65.0,0,0,0,0,4,2,4,1,7,0,3,76.0,82.0,71.0
+UBCV,2022,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,16,67.1,90.0,23.0,1,2,0,2,4,1,2,1,1,0,2,66.5,75.0,62.5
+UBCV,2022,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,13,66.1,88.0,12.0,1,2,0,2,1,2,1,0,1,3,0,68.0,82.0,61.0
+UBCV,2023,W,APSC,100,,101,Introduction to Engineering I,Seyyed Alireza Bagherzadeh Hosseini;Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk,262,78.7,99.0,46.0,4,6,3,7,13,10,32,47,61,50,27,80.0,85.0,74.0
+UBCV,2023,W,APSC,100,,102,Introduction to Engineering I,Seyyed Alireza Bagherzadeh Hosseini;Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk,260,81.2,96.0,40.0,6,4,0,2,4,10,23,31,60,68,48,83.0,87.0,78.0
+UBCV,2023,W,APSC,100,,103,Introduction to Engineering I,Seyyed Alireza Bagherzadeh Hosseini;Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk,240,80.8,94.0,48.0,6,2,0,0,5,10,23,33,58,80,20,83.0,86.0,78.0
+UBCV,2023,W,APSC,100,,104,Introduction to Engineering I,Seyyed Alireza Bagherzadeh Hosseini;Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk,234,78.2,94.0,16.0,8,4,1,2,1,12,32,40,66,54,11,80.0,85.0,75.0
+UBCV,2023,W,APSC,101,,201,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Jonathan Verrett,258,74.6,95.0,16.0,15,2,4,6,8,33,57,38,53,28,9,76.0,81.0,71.0
+UBCV,2023,W,APSC,101,,202,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Jonathan Verrett,178,74.8,97.0,0.0,9,5,7,3,10,20,24,25,35,29,10,77.0,82.0,70.0
+UBCV,2023,W,APSC,101,,203,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Jonathan Verrett,200,74.1,99.0,0.0,16,6,6,8,7,11,30,34,35,30,14,77.0,83.0,71.0
+UBCV,2023,W,APSC,101,,204,Introduction to Engineering II,Amir Mehdi Dehkhoda;Carol Patricia Jaeger;Chris McLean;Jonathan Nakane;Peter Ostafichuk;Jonathan Verrett,246,74.7,94.0,31.0,14,7,4,4,16,26,35,54,43,28,14,77.0,82.0,70.0
+UBCV,2023,W,MTRL,251,,201,Thermodynamics of Materials II,Amir Mehdi Dehkhoda,57,74.5,92.0,28.0,2,2,3,7,4,1,3,6,15,10,4,80.0,84.0,64.0
+UBCV,2023,W,MTRL,358,,101,Hydrometallurgy I,Amir Mehdi Dehkhoda,43,77.3,95.0,37.0,2,3,1,1,2,3,4,3,7,8,9,82.0,89.0,70.0
+UBCV,2023,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,17,82.1,94.0,35.0,1,0,0,0,1,0,0,0,6,6,3,86.0,88.0,82.0
+UBCV,2023,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,19,77.3,93.0,55.0,0,0,2,1,1,0,2,2,4,5,2,80.0,85.0,72.5
+UBCV,2023,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,7,91.3,95.0,84.0,0,0,0,0,0,0,0,0,1,1,5,93.0,94.0,89.5

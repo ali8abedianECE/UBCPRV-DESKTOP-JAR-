@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MATH,215,,101,ELEM DIFF EQ I,"Henriot, Kevin",11,76.55,19.11,97,44,10,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,2,1,0,0,5
+UBC,2014,W,MATH,255,,101,ORD DIFF EQUTNS,"Henriot, Kevin",48,67.17,14.9,93,23,45,2,0,0,1,0,0,1,1,0,2,6,9,3,3,6,1,5,5,5,2
+UBC,2015,W,MATH,300,,201,INTR COMPLEX VAR,"Henriot, Kevin",43,68.58,22.94,100,2,36,7,0,0,0,1,1,1,2,2,7,3,1,1,3,6,6,2,3,4,7
+UBCV,2014,W,MATH,215,,101,Elementary Differential Equations I,Kevin Henriot;Tai-Peng Tsai,11,76.54545455,19.10687644,97.0,44.0,,,,,,,,,,,,,,,,,,,,,5
+UBCV,2014,W,MATH,255,,101,Ordinary Differential Equations,Kevin Henriot;Tai-Peng Tsai,48,66.16666667,16.30211229,93.0,19.0,,,,,,,,,,,,6,9,,,6,,5,5,5,
+UBCV,2015,W,MATH,300,,201,Introduction to Complex Variables,Dong Li;Kevin Henriot,43,68.581395349,22.943234876,100.0,2.0,,,,,,,,,,,7,3,1,1,3,6,6,,3,,7

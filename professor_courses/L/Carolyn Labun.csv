@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,S,APSC,176,,001,Engineering Communication,Carolyn Labun,7,68.14285714,18.56006979,86.0,30.0,,,,,,,,,,,0
+UBCO,2014,W,APSC,176,,105,Engineering Communication,Carolyn Labun,26,67.96153846,17.23132211,86.0,0.0,,,,,,,8,5,,,0
+UBCO,2014,W,APSC,176,,107,Engineering Communication,Carolyn Labun,18,73.38888889,4.983961204,81.0,65.0,0,0,0,0,,5,,,,0,0
+UBCO,2014,W,APSC,201,,202,Technical Communication,Carolyn Labun,30,73.76666667,9.276159035,91.0,51.0,0,,,,,7,7,2,,,
+UBCO,2015,W,APSC,176,,102,Engineering Communication,Carolyn Labun,29,70.413793103,6.581995146,82.0,56.0,0,0,,,10,6,,,,0,0
+UBCO,2015,W,APSC,176,,107,Engineering Communication,Carolyn Labun,28,73.357142857,5.512371848,82.0,64.0,0,0,0,0,6,6,5,5,6,0,0
+UBCO,2015,W,APSC,176,,109,Engineering Communication,Carolyn Labun,23,65.47826087,10.076388085,91.0,43.0,,,,,,6,,,,,
+UBCO,2015,W,APSC,201,,207,Technical Communication,Carolyn Labun,35,72.0,11.17770891,87.0,15.0,,,,,5,,14,9,,,0
+UBCO,2015,W,ENGR,499,,001,Engineering Capstone Design Project,Carolyn Labun;Ray Taheri-Ardebili;Rehan Sadiq;Rudolf Seethaler,156,85.192307692,3.368000047,91.0,74.0,0,0,0,0,0,0,4,5,47,92,8
+UBCO,2016,W,APSC,176,,102,Engineering Communication,Carolyn Labun,23,62.08695652,17.93146813,86.0,6.0,4,2,2,3,2,1,4,2,2,1,0
+UBCO,2016,W,APSC,176,,107,Engineering Communication,Carolyn Labun,31,73.25806452,8.473361167,87.0,47.0,1,0,0,1,6,4,2,9,7,1,0
+UBCO,2017,W,APSC,176,,107,Engineering Communication,Carolyn Labun;Laura Patterson,31,67.64516129,18.893646881,88.0,0.0,4,1,0,3,3,3,6,3,5,3,0
+UBCO,2018,W,APSC,176,,102,Engineering Communication,Carolyn Labun;Jannik Eikenaar,32,66.84375,15.647548247,93.0,19.0,5,0,3,2,5,4,2,6,3,1,1
+UBCO,2018,W,APSC,176,,103,Engineering Communication,Carolyn Labun;Jannik Eikenaar;Spela Grasic,33,67.454545455,10.353414018,85.0,45.0,3,1,2,4,4,5,6,5,2,1,0
+UBCO,2018,W,APSC,176,,104,Engineering Communication,Carolyn Labun;Laura Patterson,36,70.111111111,10.388944062,90.0,45.0,1,2,1,5,6,5,4,6,3,2,1
+UBCO,2018,W,ENGR,499,,101,Engineering Capstone Design Project,Carolyn Labun;Dimitry Sediako;Rafael Mongui Torres;Sabine Weyand,234,89.277777778,4.618931209,99.0,75.0,0,0,0,0,0,0,1,2,34,76,121
+UBCO,2019,W,APSC,176,,102,Engineering Communication,Carolyn Labun;Jannik Eikenaar;Laura Patterson,34,64.647058824,15.824573053,84.0,23.0,6,2,2,1,5,3,5,4,6,0,0
+UBCO,2019,W,APSC,176,,104,Engineering Communication,Carolyn Labun;Jannik Eikenaar,33,67.666666667,12.398756658,86.0,37.0,3,1,3,4,4,2,5,6,4,1,0
+UBCO,2020,S,ENGR,598,H,101,Topics in Engineering,Carolyn Labun,18,92.444444444,5.533026214,100.0,84.0,0,0,0,0,0,0,0,0,1,6,11
+UBCO,2020,W,APSC,176,,104,Engineering Communication,Carolyn Labun;Graeme Webb;Jannik Eikenaar;Mehnaz Tabassum,32,78.15625,5.267731194,93.0,67.0,0,0,0,0,2,1,5,15,6,2,1
+UBCO,2020,W,APSC,176,,105,Engineering Communication,Carolyn Labun;Emmalee Taylor;Jannik Eikenaar;Kyla Morris;Natalie Forssman,36,65.694444444,15.285510309,90.0,20.0,3,3,7,1,3,5,4,2,5,2,1
+UBCO,2021,W,APSC,176,,104,Engineering Communication,Brittney Fedoruk;Carolyn Labun;Natalie Forssman;Zainab Tariq,31,71.677419355,9.853551295,95.0,55.0,0,0,3,6,2,1,7,8,2,0,2
+UBCO,2021,W,APSC,176,,105,Engineering Communication,Brittney Fedoruk;Carolyn Labun;Jannik Eikenaar;Kelly Duckworth;Natalie Forssman;Richard Aleong;Zainab Tariq,29,77.482758621,7.604607108,90.0,62.0,0,0,0,1,2,3,5,8,3,6,1
+UBCO,2021,W,APSC,201,,206,Technical Communication,Alon Eisenstein;Carolyn Labun;Laura Patterson;Zainab Tariq,29,74.965517241,9.124076308,90.0,49.0,1,0,0,2,4,3,0,9,6,3,1
+UBCO,2021,W,APSC,201,,207,Technical Communication,Carolyn Labun;Graeme Webb;Serena Slonowski,31,77.741935484,4.057649089,86.0,67.0,0,0,0,0,1,1,7,10,11,1,0
+UBCV,2016,S,APSC,176,,VE1,Engineering Communication,Carolyn Labun,19,66.73684211,10.57692512,81.0,44.0,1,2,2,1,3,4,1,2,3,0,0
+UBCV,2016,S,APSC,176,,VE2,Engineering Communication,Carolyn Labun,15,62.26666667,19.37032586,82.0,0.0,1,2,2,1,2,3,2,1,1,0,0

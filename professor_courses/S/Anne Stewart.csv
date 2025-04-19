@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ASTU,100,,I01,CAP SEMINAR,"Stewart, Anne",26,80.84,7.14,91,68,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,9,5,3,,,
+UBC,2018,W,ASTU,100,,I02,CAP SEMINAR,"Stewart, Anne",23,75.23,20.18,92,0,21,1,1,0,0,1,0,0,0,0,1,0,2,1,1,0,4,2,2,5,4,,,
+UBC,2018,W,ASTU,100,,I03,CAP SEMINAR,"Stewart, Anne",19,81.21,7.32,90,59,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,5,6,1,,,
+UBC,2018,W,ASTU,101,,P01,WRTI RES SS & H,"Stewart, Anne",25,85.08,7.16,94,70,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,8,8,,,
+UBCV,2018,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart;Evan Mauro;James Francis Glassman;Robert Vanwynsberghe,25,80.84,7.139561144,91.0,68.0,,,,,,,,,,,0,0,0,0,0,5,1,2,9,5,3,,,
+UBCV,2018,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart;Evan Mauro;Laurie Mcneill;Linda Morra,22,75.227272727,20.175260235,92.0,0.0,,,,,,,,,,,1,0,2,1,1,0,4,2,2,5,4,,,
+UBCV,2018,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart;Evan Mauro;James Francis Glassman;Reginald D'Silva,19,81.210526316,7.322559869,90.0,59.0,,,,,,,,,,,0,0,1,0,0,0,2,4,5,6,1,,,
+UBCV,2018,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart;Evan Mauro;Gregory Mackie,24,85.083333333,7.156126391,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,3,1,8,8,,,
+UBCV,2019,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart,22,71.681818182,7.240010284,83.0,47.0,,,,,,,,,,,1,0,0,0,2,7,5,5,2,0,0,,,
+UBCV,2019,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart,21,71.380952381,7.130751647,83.0,50.0,,,,,,,,,,,0,1,0,2,3,2,6,6,1,0,0,,,
+UBCV,2019,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart,24,72.375,6.233238393,82.0,56.0,,,,,,,,,,,0,0,2,0,2,5,8,4,3,0,0,,,
+UBCV,2019,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart;Joe Greenholtz,23,70.130434783,10.288141222,82.0,41.0,,,,,,,,,,,2,0,1,2,1,1,8,6,2,0,0,,,
+UBCV,2020,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart;Marianne El-Mikati,23,74.347826087,5.621458042,85.0,64.0,,,,,,,,,,,0,0,0,0,4,2,6,7,3,1,0,,,
+UBCV,2020,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart;Marianne El-Mikati,21,65.761904762,23.638749463,81.0,0.0,,,,,,,,,,,3,0,0,1,1,1,5,9,1,0,0,,,
+UBCV,2020,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart;Marianne El-Mikati,24,73.291666667,6.181875097,80.0,56.0,,,,,,,,,,,0,0,1,2,0,4,6,10,1,0,0,,,
+UBCV,2020,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart;Krista Mary Smith Sigurdson;Krista Sigurdson;Love Mbakadi,25,79.96,6.241527591,88.0,63.0,,,,,,,,,,,0,0,0,1,1,1,0,6,10,6,0,,,
+UBCV,2020,W,ENGL,366,,001,Twentieth-Century Literature,Anne Stewart;Dina Al-Kassim,37,73.891891892,15.973561114,89.0,0.0,,,,,,,,,,,2,0,1,0,2,2,7,10,8,5,0,,,
+UBCV,2021,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart,23,68.347826087,10.768678047,79.0,36.0,,,,,,,,,,,2,1,0,1,2,10,1,6,0,0,0,,,
+UBCV,2021,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart,24,70.666666667,9.581080391,83.0,37.0,,,,,,,,,,,1,0,1,2,2,4,7,4,3,0,0,,,
+UBCV,2021,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart,13,74.461538462,3.66550098,81.0,70.0,,,,,,,,,,,0,0,0,0,0,3,6,2,2,0,0,,,
+UBCV,2021,W,ASTU,100,,I04,1st Year CAP Seminar,Anne Stewart;Emily Fedoruk;Meredith Beales,23,80.086956522,13.200940199,96.0,45.0,,,,,,,,,,,1,1,0,0,1,1,4,1,4,2,8,,,
+UBCV,2021,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart;Elise Stickles,24,71.0,7.04642987,85.0,56.0,,,,,,,,,,,0,0,3,0,3,4,8,3,2,1,0,,,
+UBCV,2021,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart,23,69.7,,79.0,43.0,,,,,,,,,,,,,,,,11,,6,,,,71.0,74.5,68.5
+UBCV,2021,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart,24,70.7,,83.0,37.0,,,,,,,,,,,,,,,,,7,,,,,72.0,76.3,69.3
+UBCV,2021,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart,13,74.5,,81.0,70.0,,,,,,,,,,,,,,,,,6,,,,,74.0,77.0,72.0
+UBCV,2021,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart,24,71.0,,85.0,56.0,,,,,,,,,,,,,,,,,8,,,,,72.0,75.3,67.8
+UBCV,2022,W,ASTU,100,,I01,1st Year CAP Seminar,Anne Stewart,25,69.4,,88.0,18.0,,,,,,,,,,,3,1,1,0,0,0,4,10,5,1,0,76.0,79.0,72.0
+UBCV,2022,W,ASTU,100,,I02,1st Year CAP Seminar,Anne Stewart,22,68.4,,86.0,20.0,,,,,,,,,,,1,3,1,1,2,4,2,3,4,1,0,70.5,79.0,63.8
+UBCV,2022,W,ASTU,100,,I03,1st Year CAP Seminar,Anne Stewart,22,72.1,,87.0,31.0,,,,,,,,,,,2,0,1,2,1,1,3,5,4,3,0,77.5,80.8,66.3
+UBCV,2022,W,ASTU,101,,P01,Writing for Research in the Social Sciences and the Humanities,Anne Stewart,27,73.1,,86.0,31.0,,,,,,,,,,,2,0,1,1,2,1,2,8,7,3,0,77.0,80.5,71.5
+UBCV,2023,W,ASTU,100,,G01,1st Year CAP Seminar,Anne Stewart,19,69.9,,84.0,0.0,,,,,,,,,,,1,1,0,1,2,1,4,2,6,0,0,75.0,80.0,67.3
+UBCV,2023,W,ASTU,100,,G02,1st Year CAP Seminar,Anne Stewart,25,72.7,,87.0,35.0,,,,,,,,,,,2,1,1,0,0,3,2,6,8,1,0,78.5,80.3,70.8
+UBCV,2023,W,ASTU,100,,G04,1st Year CAP Seminar,Anne Stewart,6,80.0,,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,0,1,1,77.0,84.8,74.5
+UBCV,2023,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Anne Stewart,25,72.5,,85.0,31.0,,,,,,,,,,,1,0,0,2,3,1,9,4,3,2,0,74.0,78.0,70.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,FRST,232,,101,COMPUTER AP FRST,"Ghafghazi, Saeed",40,73.5,12.71,93,41,37,3,0,0,0,0,0,0,0,3,3,1,0,2,4,5,6,6,5,4,4
+UBC,2016,W,FRST,232,,201,COMPUTER AP FRST,"Ghafghazi, Saeed",115,71.68,14.95,100,6,106,7,2,0,0,1,0,1,0,5,7,5,10,8,9,13,10,14,15,14,8
+UBCV,2016,W,FRST,232,,101,Computer Applications in Forestry,Saeed Ghafghazi,40,73.5,12.7138124,93.0,41.0,,,,,,,,,,,3,1,0,2,4,5,6,6,5,4,4
+UBCV,2016,W,FRST,232,,201,Computer Applications in Forestry,Saeed Ghafghazi,113,71.68141593,14.94529637,100.0,6.0,,,,,,,,,,,7,5,10,8,9,13,10,14,15,14,8

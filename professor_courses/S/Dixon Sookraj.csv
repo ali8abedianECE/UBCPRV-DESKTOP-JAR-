@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,HINT,501,,001,Evidence-Based Practice,Dixon Sookraj,15,80.8,3.931557307,88.0,71.0,0,0,0,0,0,,,,8,2,0,,,
+UBCO,2014,W,HINT,501,,002,Evidence-Based Practice,Dixon Sookraj,7,87.71428571,3.59231985,90.0,80.0,0,0,0,0,0,0,0,0,1,3,3,,,
+UBCO,2014,W,HINT,501,,003,Evidence-Based Practice,Dixon Sookraj,20,87.65,2.796143961,92.0,82.0,0,0,0,0,0,0,0,0,3,12,5,,,
+UBCO,2015,W,HINT,501,,001,Evidence-Based Practice,Dixon Sookraj,19,87.631578947,3.961067846,93.0,77.0,0,0,0,0,0,0,0,,,10,5,,,
+UBCO,2015,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,28,85.571428571,4.932346534,92.0,72.0,0,0,0,0,0,0,,,8,15,,,,
+UBCO,2015,W,SOCW,540,T,001,Selected Topics in Social Work Practice,Dixon Sookraj,25,87.68,2.19317122,91.0,82.0,0,0,0,0,0,0,0,0,1,18,6,,,
+UBCO,2016,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,37,84.18918919,4.718979632,92.0,70.0,0,0,0,0,0,1,1,1,17,12,5,,,
+UBCO,2016,W,SOCW,540,T,001,Selected Topics in Social Work Practice,Dixon Sookraj,13,88.76923077,2.773500981,92.0,84.0,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCO,2017,S,SOCW,540,A,001,Selected Topics in Social Work Practice,Dixon Sookraj,8,90.125,3.044315546,94.0,85.0,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCO,2017,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,30,90.566666667,3.520220735,96.0,82.0,0,0,0,0,0,0,0,0,3,7,20,,,
+UBCO,2017,W,SOCW,516,,001,Foundations of Ethical Practice,Dixon Sookraj,30,89.966666667,3.890601703,96.0,76.0,0,0,0,0,0,0,0,1,1,9,19,,,
+UBCO,2017,W,SOCW,540,T,001,Selected Topics in Social Work Practice,Dixon Sookraj,7,91.571428571,2.935821456,95.0,87.0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCO,2018,S,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,33,89.0,2.610076627,93.0,84.0,0,0,0,0,0,0,0,0,1,16,16,,,
+UBCO,2018,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,43,87.953488372,3.429240429,95.0,79.0,0,0,0,0,0,0,0,2,3,27,11,,,
+UBCO,2018,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,18,90.277777778,2.652536091,94.0,84.0,0,0,0,0,0,0,0,0,1,4,13,,,
+UBCO,2018,W,SOCW,516,,001,Foundations of Ethical Practice,Dixon Sookraj,43,90.441860465,3.672953435,96.0,80.0,0,0,0,0,0,0,0,0,5,6,32,,,
+UBCO,2019,S,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,25,90.0,4.222953153,94.0,78.0,0,0,0,0,0,0,0,1,2,4,18,,,
+UBCO,2019,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj;Hilla Shlomi,97,83.628865979,9.374521752,97.0,30.0,1,0,0,1,1,3,9,12,23,22,25,,,
+UBCO,2019,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,57,92.438596491,3.218348866,97.0,81.0,0,0,0,0,0,0,0,0,3,3,51,,,
+UBCO,2019,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,24,91.041666667,1.899179838,94.0,85.0,0,0,0,0,0,0,0,0,0,3,21,,,
+UBCO,2019,W,SOCW,516,,001,Foundations of Ethical Practice,Dixon Sookraj,57,92.0,2.68594224,95.0,82.0,0,0,0,0,0,0,0,0,2,6,49,,,
+UBCO,2020,S,SOCW,515,,002,Social Welfare Policy in Canada,Dixon Sookraj,33,90.545454545,3.317481246,95.0,80.0,0,0,0,0,0,0,0,0,2,8,23,,,
+UBCO,2020,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj,99,83.464646465,12.708917913,100.0,0.0,1,0,0,2,2,7,7,13,16,18,33,,,
+UBCO,2020,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,43,91.093023256,3.650270398,97.0,78.0,0,0,0,0,0,0,0,1,0,12,30,,,
+UBCO,2020,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,27,92.518518519,1.96841151,95.0,86.0,0,0,0,0,0,0,0,0,0,1,26,,,
+UBCO,2020,W,SOCW,553,,001,Research Knowledge and Evidence in Clinical Social Work Practice,Dixon Sookraj,35,92.542857143,3.640805156,96.0,75.0,0,0,0,0,0,0,1,0,0,3,31,,,
+UBCO,2021,S,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj;Hilla Shlomi;Saran Mallinson,15,87.0,4.225771274,94.0,81.0,0,0,0,0,0,0,0,0,5,6,4,,,
+UBCO,2021,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj,94,81.414893617,12.942727085,96.0,15.0,2,1,0,4,0,6,6,2,32,15,26,,,
+UBCO,2021,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj;Shereen Ismael,21,88.666666667,6.366579406,96.0,72.0,0,0,0,0,0,0,1,2,1,4,13,,,
+UBCO,2021,W,SOCW,553,,001,Research Knowledge and Evidence in Clinical Social Work Practice,Dixon Sookraj;Shirley Bo Yee Chau,37,87.540540541,4.200493322,95.0,73.0,0,0,0,0,0,0,1,0,8,16,12,,,
+UBCO,2021,W,SOCW,553,,002,Research Knowledge and Evidence in Clinical Social Work Practice,Dixon Sookraj;Shirley Bo Yee Chau,24,93.791666667,2.992442171,97.0,87.0,0,0,0,0,0,0,0,0,0,4,20,,,
+UBCO,2021,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj,94,81.6,,99.0,15.0,,,,,,6,6,,33,14,27,84.0,90.0,81.0
+UBCO,2021,W,SOCW,553,,002,Research Knowledge and Evidence in Clinical Social Work Practice,Dixon Sookraj,24,93.8,,97.0,87.0,,,,,,,,,,,20,95.0,95.3,94.0
+UBCO,2022,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj,98,86.2,,100.0,65.0,0,0,0,0,2,6,3,5,17,29,36,87.0,92.0,82.0
+UBCO,2022,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,22,91.2,,95.0,88.0,0,0,0,0,0,0,0,0,0,5,17,90.5,93.0,90.0
+UBCO,2023,W,HEAL,101,,001,Mental Health in Social Contexts,Dixon Sookraj,100,88.58,,100.0,35.0,3,0,2,1,0,2,1,2,11,18,60,91.0,98.0,86.0
+UBCO,2023,W,SOCW,511,,001,Introduction to Social Work,Dixon Sookraj,59,91.3,,98.0,84.0,0,0,0,0,0,0,0,0,2,9,48,91.0,93.0,90.0
+UBCO,2023,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,30,92.7,,97.0,86.0,0,0,0,0,0,0,0,0,0,2,28,93.0,94.0,91.0

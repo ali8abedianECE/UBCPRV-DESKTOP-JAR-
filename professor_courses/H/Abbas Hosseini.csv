@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,MANF,270,,201,Production Systems Management I,Abbas Hosseini;Hassan Iqbal;Mahsa Mohammadi,15,72.733333333,19.181340139,98.0,30.0,2,1,0,0,1,3,1,0,3,1,3,,,
+UBCV,2015,W,MECH,260,,101,Introduction to Mechanics of Materials,Abbas Hosseini;Hoda Talebian;Jon Mikkelsen;Min Xia;Teng Li,111,68.216216216,12.066034526,94.0,27.0,8,2,12,12,14,14,22,7,10,6,4,,,
+UBCV,2015,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Abbas Hosseini;Amir Farzad Forughi;Amirhossein Salimian;Ehsan Zaman;James Alec Morrison Cronkite;Jay Leong;Jon Mikkelsen;Masoud Hejazi;Mohammad Shanb Ghazani;Parisa Sarmadi;Ramin Dastanpour;Reza Zangeneh,96,80.197916667,7.833289007,95.0,48.0,,,,,,8,8,17,22,24,11,,,
+UBCV,2015,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Ehsan Moosavi Mehr;Farzad Hemmati;Kambiz Haji Hajikolaei;Mohammad Barimani;Reza Zangeneh;Sayed Mohammad Hashem Jayhooni,135,74.155555556,14.780920874,99.0,3.0,6,5,9,11,4,12,14,21,20,19,14,,,
+UBCV,2016,W,MECH,260,,101,Introduction to Mechanics of Materials,Abbas Hosseini;Farrokh Sassani;Masoud Hejazi,120,68.99166667,15.51171736,100.0,0.0,6,6,7,17,13,17,13,13,16,6,6,,,
+UBCV,2016,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,. Manav;Abbas Hosseini;Alireza Sarraf Shirazi;Amir Farzad Forughi;Amirhossein Salimian;Cristopher Jesus Cortes Sanchez;Hatef Rahmani;Jon Mikkelsen;Justin Roberts;Masoud Hejazi;Mohammad Shanb Ghazani;Parisa Sarmadi;Reza Zangeneh,99,80.44444444,8.002833965,93.0,48.0,2,0,2,0,0,4,11,15,32,28,5,,,
+UBCV,2016,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,. Manav;Abbas Hosseini;Alireza Sarraf Shirazi;Amir Farzad Forughi;Amirhossein Salimian;Cristopher Jesus Cortes Sanchez;Hatef Rahmani;Jon Mikkelsen;Justin Roberts;Masoud Hejazi;Mohammad Shanb Ghazani;Parisa Sarmadi;Reza Zangeneh,31,84.83870968,5.459528516,92.0,70.0,0,0,0,0,0,1,1,2,7,13,7,,,
+UBCV,2016,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Karry Ocean;Maryam Mohtajeb;Masoud Hejazi;Mohammadreza Mallakzadeh;Reza Zangeneh,104,73.60576923,11.01227759,98.0,41.0,4,1,3,8,8,21,15,15,11,12,6,,,
+UBCV,2016,W,MECH,495,,201,Industrial Engineering,Abbas Hosseini;Farrokh Sassani,43,79.46511628,13.72232945,100.0,53.0,0,1,3,3,3,5,2,0,7,6,13,,,
+UBCV,2017,W,MECH,325,,101,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,116,76.344827586,8.113438609,93.0,44.0,3,0,1,2,3,13,26,26,26,12,4,,,
+UBCV,2017,W,MECH,325,,102,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,101,76.712871287,7.871895113,98.0,42.0,1,0,0,1,8,15,16,22,21,10,7,,,
+UBCV,2017,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Abdul Vali Syed Syed Hussain;Karry Ocean;Maryam Mohtajeb;Mohammadreza Mallakzadeh;Mohammadreza Rostam;Reza Zangeneh,140,80.035714286,10.667917824,99.0,46.0,1,2,3,4,6,10,20,15,25,25,29,,,
+UBCV,2020,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini;Erfan Forghani,17,77.352941176,12.257350736,97.0,43.0,1,0,0,0,0,5,1,3,2,3,2,,,
+UBCV,2020,W,MECH,260,,202,Introduction to Mechanics of Materials,Abbas Hosseini;Mohammad Reza Karimi,51,79.980392157,10.234237043,97.0,56.0,0,0,1,3,2,8,2,6,9,8,12,,,
+UBCV,2021,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini;Mohammad Reza Karimi,39,75.717948718,9.136245682,92.0,43.0,1,1,0,0,2,3,13,7,4,6,2,,,
+UBCV,2021,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini;Erfan Forghani;Mohammad Reza Karimi,42,77.380952381,10.603617379,98.0,45.0,2,0,0,1,2,3,8,8,9,6,3,,,
+UBCO,2021,W,MANF,270,,201,Production Systems Management I,Abbas Hosseini,15,72.7,,98.0,30.0,,,,,,,,,,,,75.0,86.0,66.0
+UBCO,2022,W,MANF,270,,201,Production Systems Management I,Abbas Hosseini,12,70.8,,94.0,52.0,0,1,1,2,0,3,1,2,0,1,1,70.0,76.8,62.5
+UBCO,2023,W,MANF,270,,201,Production Systems Management I,Abbas Hosseini,9,74.56,,93.0,48.0,1,0,0,0,1,2,0,0,3,1,1,80.0,83.0,68.0
+UBCV,2021,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini,39,75.7,,92.0,43.0,,,,,,,13,7,,6,,75.0,80.5,72.0
+UBCV,2021,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini,42,77.4,,98.0,45.0,,,,,,,8,8,9,6,,78.5,83.0,73.3
+UBCV,2022,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini,45,73.1,,87.0,0.0,1,0,0,6,4,5,7,4,16,2,0,75.0,82.0,68.0
+UBCV,2022,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini,41,73.8,,90.0,55.0,0,0,3,3,5,5,8,2,10,4,1,74.0,82.0,67.0
+UBCV,2022,W,MTRL,340,,201,Manufacturing in Materials Engineering,Abbas Hosseini,111,72.7,,90.0,55.0,0,0,4,11,14,18,20,21,18,4,1,73.0,78.0,67.0
+UBCV,2023,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini,40,75.6,,94.0,44.0,2,0,0,1,2,7,6,3,9,5,4,76.0,82.0,69.5
+UBCV,2023,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini,37,73.4,,93.0,39.0,1,0,1,4,6,3,5,5,6,5,1,75.0,82.0,67.0
+UBCV,2023,W,MTRL,340,,201,Manufacturing in Materials Engineering,Abbas Hosseini,106,70.7,,91.0,40.0,4,1,6,8,10,17,23,21,9,5,2,72.0,76.8,66.0

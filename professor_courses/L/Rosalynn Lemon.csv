@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CNPS,362,,007,BASIC INTVW SKLS,"Lemon, Rosalynn",12,89,4.41,94,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,,,
+UBC,2018,S,CNPS,362,,922,BASIC INTVW SKLS,"Lemon, Rosalynn",16,89.38,1.78,92,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,,,
+UBCV,2017,W,CNPS,362,,007,Basic Interviewing Skills,Rosalynn Lemon;Rosalynn Michelle Lemon,12,89.0,4.410730717,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,6,,,
+UBCV,2018,S,CNPS,362,,922,Basic Interviewing Skills,Gillian Smith;Rosalynn Lemon;Rosalynn Michelle Lemon,16,89.375,1.784189825,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,8,,,
+UBCV,2019,S,CNPS,362,,922,Basic Interviewing Skills,Rosalynn Lemon;Sandra Wiens,15,87.0,4.174754056,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,7,5,,,
+UBCV,2021,S,CNPS,362,,922,Basic Interviewing Skills,Cynthia Glidden-Tracey;Rosalynn Lemon,16,91.0,2.221110833,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,11,,,
+UBCV,2021,S,CNPS,362,,922,Basic Interviewing Skills,Rosalynn Lemon,16,91.0,,95.0,87.0,,,,,,,,,,,,,,,,,,,,,11,91.0,92.0,89.0

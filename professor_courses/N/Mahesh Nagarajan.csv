@@ -1,0 +1,112 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,COMM,399,,201,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",49,77.18,7.75,92,58,49,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,5,10,12,8,2,,,
+UBC,2003,W,COMM,399,,202,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",50,77.62,8.01,91,60,50,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,9,8,11,8,5,,,
+UBC,2003,W,COMM,399,,203,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",47,74.98,11.66,92,50,47,0,0,0,0,0,0,0,0,0,0,3,3,3,1,3,5,11,7,5,6,,,
+UBC,2005,W,COMM,399,,202,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",49,79.92,7.18,94,65,48,0,1,0,0,0,0,0,0,0,0,0,0,0,4,3,7,6,12,14,2,,,
+UBC,2005,W,COMM,399,,203,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",49,78.67,5.87,90,62,49,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,11,16,6,1,,,
+UBC,2006,W,BASC,511,,001,SUPPLY CH DESIGN,"Nagarajan, Mahesh",10,84.9,7.52,93,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,5,2,,,
+UBC,2006,W,COMM,399,,202,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",57,79.93,9.86,94,41,56,1,0,0,0,0,0,0,0,1,1,0,1,0,4,4,7,5,16,11,8,,,
+UBC,2006,W,COMM,399,,203,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",59,78.22,6.92,93,68,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,15,13,11,5,6,,,
+UBC,2007,W,BASC,511,,001,SUPPLY CH DESIGN,"Nagarajan, Mahesh",13,83.54,5.85,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,3,,,
+UBC,2007,W,COMM,399,,205,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",56,77.55,10.98,95,51,56,0,0,0,0,0,0,0,0,0,0,2,1,2,7,6,4,4,15,6,9,,,
+UBC,2007,W,COMM,399,,206,LOGISTIC/OPS MGT,"Nagarajan, Mahesh",57,77.89,10.32,92,52,57,0,0,0,0,0,0,0,0,0,0,2,1,3,4,6,3,7,11,13,7,,,
+UBC,2007,W,COMM,682,,001,STOCHASTIC TOPCS,"Krishnan, Harish;Nagarajan, Mahesh",4,85.5,1.73,87,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,
+UBC,2009,S,BASC,500,,808,INTR LGSTCS&OPRT,"Nagarajan, Mahesh",56,84.09,5.84,95,70,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,14,21,9,,,
+UBC,2009,W,BASC,514,,ECM,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",22,79.86,4.6,87,72,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,11,3,0,,,
+UBC,2013,W,BASC,540,,301,OPERATION FUNDMT,"Nagarajan, Mahesh",49,81.61,10.67,100,60,49,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,7,8,5,7,15,,,
+UBC,2014,S,BASC,550,,814,OPER & LOG,"Nagarajan, Mahesh",39,80.82,13.26,97,27,38,1,0,0,0,0,0,1,0,0,1,1,0,0,1,4,2,5,9,4,12,,,
+UBC,2014,W,BASC,523,,MM1,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",48,74.42,6.17,88,61,48,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,13,7,13,1,0,,,
+UBC,2015,S,BASC,550,,815,OPER & LOG,"Nagarajan, Mahesh",29,78.76,8.48,91,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,2,11,4,3,,,
+UBC,2015,W,BASC,523,,MM1,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",46,77.89,5.24,93,68,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,15,9,5,1,,,
+UBC,2015,W,COMM,204,,113,LOG&OPS MANAGMNT,"Huh, Woonghee Tim;Nagarajan, Mahesh",11,82.64,4.01,89,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,0,,,
+UBC,2015,W,COMM,398,,202,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",43,78,7.02,89,50,43,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,9,11,13,6,0,,,
+UBC,2015,W,COMM,590,B,002,TOPICS BUS ADMIN,"Granot, Daniel;Granot, Frieda;Huh, Woonghee Tim;Krishnan, Harish;McCormick, S Thomas;Nagarajan, Mahesh",4,90,2.16,93,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2015,W,COMM,612,,001,ADV OPTIMIZATION,"Granot, Daniel;Granot, Frieda;Huh, Woonghee Tim;Krishnan, Harish;McCormick, S Thomas;Nagarajan, Mahesh",6,87.33,2.34,91,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,,,
+UBC,2015,W,COMM,616,,001,OPT THY & APPL,"Granot, Daniel;Granot, Frieda;Huh, Woonghee Tim;Krishnan, Harish;McCormick, S Thomas;Nagarajan, Mahesh",5,89.2,1.79,90,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2016,S,COMM,398,,921,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",47,78.43,7.87,91,60,47,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,9,2,17,6,5,,,
+UBC,2016,W,BASC,523,,MM1,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",54,68.56,5.96,85,60,54,0,0,0,0,0,0,0,0,0,0,0,0,14,4,19,12,3,1,1,0,,,
+UBC,2016,W,BASC,550,,816,OPER & LOG,"Nagarajan, Mahesh",34,78.94,7.08,96,62,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,8,10,2,3,,,
+UBC,2016,W,COMM,398,,201,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",56,80.45,7.95,97,50,56,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,7,5,18,15,4,,,
+UBC,2016,W,COMM,398,,202,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",48,82.19,8.01,94,53,48,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,3,3,16,14,7,,,
+UBC,2016,W,COMM,618,,001,DESCRETE OPT II,"Nagarajan, Mahesh",5,90,0,90,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2017,S,BASC,550,,817,OPER & LOG,"Nagarajan, Mahesh",27,72.04,8.12,86,60,27,0,0,0,0,0,0,0,0,0,0,0,0,6,0,7,5,4,3,2,0,,,
+UBC,2017,S,COMM,398,,921,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",52,77.52,11.1,95,31,49,1,2,0,0,0,0,0,1,0,1,0,0,2,6,4,3,10,12,5,7,,,
+UBC,2017,W,BASC,523,,MM1,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",39,78.56,5.55,88,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12,3,13,7,0,,,
+UBC,2017,W,COMM,398,,202,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",56,77.52,10.74,96,35,55,1,0,0,0,0,0,0,1,0,1,0,2,1,3,6,8,5,15,8,7,,,
+UBC,2017,W,COMM,616,,001,OPT THY & APPL,"McCormick, S Thomas;Nagarajan, Mahesh",5,85.4,10.24,94,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,,,
+UBC,2018,S,COMM,398,,921,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",49,80.37,8.85,93,57,49,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,6,7,12,8,10,,,
+UBC,2018,W,BASC,523,,MM1,SUPPLY CHAIN MNG,"Nagarajan, Mahesh",48,75.23,8.39,94,60,48,0,0,0,0,0,0,0,0,0,0,0,0,4,3,11,9,3,12,3,3,,,
+UBC,2018,W,BASC,550,,818,OPER & LOG,"Nagarajan, Mahesh",43,76.12,7.04,88,60,43,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,10,6,15,3,0,,,
+UBC,2018,W,COMM,398,,201,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",55,81.34,6.47,91,62,53,0,0,0,2,0,0,0,0,0,0,0,0,2,1,2,3,8,20,14,3,,,
+UBC,2018,W,COMM,398,,202,BUSI PROCESS&OPS,"Huh, Woonghee Tim;Nagarajan, Mahesh",47,83.6,5.63,92,66,47,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6,11,21,5,,,
+UBCV,2014,S,BA,504,,814,Integration and Professional Development: Foundation,Mahesh Nagarajan;Murali Chandrashekaran;Steve Alisharan,40,76.7,3.509693536,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,15,17,8,0,0,,,
+UBCV,2014,S,BASC,550,,814,Operations and Logistics,Mahesh Nagarajan,39,80.82051282,13.26426103,97.0,27.0,,,,,,,,,,,,,,,,,,5,9,,12,,,
+UBCV,2014,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,48,74.41666667,6.170738544,88.0,61.0,,,,,,,,,,,0,0,0,,,9,13,7,13,,0,,,
+UBCV,2015,S,BASC,550,,815,Operations and Logistics,Mahesh Nagarajan,29,78.75862069,8.479619148,91.0,60.0,,,,,,,,,,,0,0,0,,,,,,11,,,,,
+UBCV,2015,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,46,77.891304348,5.237591732,93.0,68.0,,,,,,,,,,,0,0,0,0,0,,13,15,9,5,,,,
+UBCV,2015,W,COMM,204,,113,Logistics and Operations Management,Mahesh Nagarajan;Woonghee Tim Huh,11,82.636363636,4.006812381,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,6,,0,,,
+UBCV,2015,W,COMM,398,,202,Introduction to Business Processes and Operations,Bingjing Yu;Mahesh Nagarajan;Woonghee Tim Huh,43,78.0,7.0203785,89.0,50.0,,,,,,,,,,,0,,,,,,9,11,13,6,0,,,
+UBCV,2015,W,COMM,612,,001,Advanced Topics in Optimization,Daniel Granot;Frieda Granot;Harish Krishnan;Mahesh Nagarajan;S Thomas Mccormick;Woonghee Tim Huh,6,87.333333333,2.338090389,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1,,,
+UBCV,2015,W,COMM,616,,001,Optimization Theory and Applications,Daniel Granot;Frieda Granot;Harish Krishnan;Mahesh Nagarajan;S Thomas Mccormick;Woonghee Tim Huh,5,89.2,1.788854382,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2016,S,COMM,398,,921,Introduction to Business Processes and Operations,Lifei Sheng;Mahesh Nagarajan;Mona Imanpoor Yourdshahy;Woonghee Tim Huh,47,78.42553192,7.865015218,91.0,60.0,,,,,,,,,,,0,0,0,3,0,5,9,2,17,6,5,,,
+UBCV,2016,W,BASC,523,,MM1,Supply Chain Management,Lifei Sheng;Mahesh Nagarajan,54,68.55555556,5.961089766,85.0,60.0,,,,,,,,,,,0,0,0,14,4,19,12,3,1,1,0,,,
+UBCV,2016,W,BASC,550,,816,Operations and Logistics,Mahesh Nagarajan;Mona Imanpoor Yourdshahy,34,78.94117647,7.083660997,96.0,62.0,,,,,,,,,,,0,0,0,1,0,3,7,8,10,2,3,,,
+UBCV,2016,W,COMM,398,,201,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,56,80.44642857,7.949658981,97.0,50.0,,,,,,,,,,,0,1,0,0,1,5,7,5,18,15,4,,,
+UBCV,2016,W,COMM,398,,202,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,48,82.1875,8.007061378,94.0,53.0,,,,,,,,,,,0,0,0,0,2,2,3,3,16,14,7,,,
+UBCV,2017,S,BASC,550,,817,Operations and Logistics,Lifei Sheng;Mahesh Nagarajan,27,72.037037037,8.121583218,86.0,60.0,,,,,,,,,,,0,0,0,6,0,7,5,4,3,2,0,,,
+UBCV,2017,S,COMM,398,,921,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,50,77.52,11.102932137,95.0,31.0,,,,,,,,,,,1,0,0,2,6,4,3,10,12,5,7,,,
+UBCV,2017,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,39,78.564102564,5.552594803,88.0,70.0,,,,,,,,,,,0,0,0,0,0,4,12,3,13,7,0,,,
+UBCV,2017,W,COMM,398,,202,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,56,77.517857143,10.738191944,96.0,35.0,,,,,,,,,,,1,0,2,1,3,6,8,5,15,8,7,,,
+UBCV,2018,S,COMM,398,,921,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,49,80.367346939,8.847537034,93.0,57.0,,,,,,,,,,,0,0,1,2,1,2,6,7,12,8,10,,,
+UBCV,2018,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,48,75.229166667,8.387527679,94.0,60.0,,,,,,,,,,,0,0,0,4,3,11,9,3,12,3,3,,,
+UBCV,2018,W,BASC,550,,818,Operations,Mahesh Nagarajan,43,76.162790698,6.955402945,88.0,60.0,,,,,,,,,,,0,0,0,3,3,3,10,6,15,3,0,,,
+UBCV,2018,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen;Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,55,79.581818182,11.40125222,91.0,20.0,,,,,,,,,,,2,0,0,2,1,2,3,8,20,14,3,,,
+UBCV,2018,W,COMM,398,,202,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,47,83.595744681,5.63243547,92.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,6,11,21,5,,,
+UBCV,2019,S,BA,514,,818,"IMBA Residency - People, Culture and Organizations",Dan Skarlicki;Danielle Van Jaarsveld;David Clough;David Hardisty;Lingtao Yu;Mahesh Nagarajan;Michael Daniels;Sima Sajjadiani;Tamar Milne;Vatsala Gupta;Vatsala Yash Gupta;Yash Gupta,44,82.227272727,2.361154983,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,33,7,0,,,
+UBCV,2019,S,COMM,398,,921,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,48,79.895833333,6.291634376,91.0,60.0,,,,,,,,,,,0,0,0,1,1,2,6,7,16,12,3,,,
+UBCV,2019,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,47,78.531914894,6.185013669,90.0,65.0,,,,,,,,,,,0,0,0,0,2,4,10,8,13,9,1,,,
+UBCV,2019,W,BUSI,370,,101,Business Finance,Aziz Rajwani;Mahesh Nagarajan,20,65.3,14.422570032,92.0,38.0,,,,,,,,,,,2,3,1,3,0,3,3,1,3,0,1,,,
+UBCV,2019,W,COMM,398,,201,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,54,79.833333333,8.172087791,92.0,60.0,,,,,,,,,,,0,0,0,2,3,3,6,8,12,13,7,,,
+UBCV,2019,W,COMM,398,,202,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,51,76.882352941,8.233218226,91.0,60.0,,,,,,,,,,,0,0,0,6,0,6,6,8,12,12,1,,,
+UBCV,2020,S,BASC,550,,819,Operations,Mahesh Nagarajan;Mona Imanpoor Yourdshahy;Sanjith Gopalakrishnan,36,79.444444444,4.959518666,88.0,62.0,,,,,,,,,,,0,0,0,1,0,1,2,13,17,2,0,,,
+UBCV,2020,S,COMR,398,,921,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,46,76.130434783,7.850290004,88.0,53.0,,,,,,,,,,,0,1,0,2,3,5,5,10,13,7,0,,,
+UBCV,2020,W,BA,580,C,BA1,Topics in Business Administration,Danielle Van Jaarsveld;Darren Dahl;Mahesh Nagarajan;Rajesh Vijayaraghavan;Sima Sajjadiani,75,81.986666667,3.450394938,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,10,45,17,0,,,
+UBCV,2020,W,BUSI,370,,101,Business Finance,Aziz Rajwani;Mahesh Nagarajan,30,68.666666667,12.335352429,87.0,25.0,,,,,,,,,,,1,1,1,6,6,2,4,3,4,2,0,,,
+UBCV,2020,W,COMM,682,,001,Advanced Topics in Stochastic Models,Hao Zhang;Mahesh Nagarajan,6,86.833333333,3.763863264,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,2,,,
+UBCV,2020,W,COMR,398,,201,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,49,75.673469388,12.403607935,92.0,10.0,,,,,,,,,,,1,0,2,1,1,6,9,7,13,7,2,,,
+UBCV,2020,W,COMR,398,,202,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,49,76.448979592,6.837583712,90.0,55.0,,,,,,,,,,,0,0,2,1,0,6,12,8,17,2,1,,,
+UBCV,2021,S,BA,514,,819,"IMBA Residency - People, Culture and Organizations",Amy Stanley;Danielle Van Jaarsveld;Hsuan-Che Huang;Jonathan Blair Evans;Justin Bull;Lingtao Yu;Mahesh Nagarajan;Michael Daniels,33,80.060606061,3.648110761,84.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,6,24,0,0,,,
+UBCV,2021,S,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Yiwen Jin,56,77.053571429,4.776532188,87.0,55.0,,,,,,,,,,,0,0,,,,3,14,20,17,1,0,,,
+UBCV,2021,S,BASC,550,,820,Operations,Mahesh Nagarajan;Yiwen Jin,31,79.612903226,3.870206018,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,13,13,2,1,,,
+UBCV,2021,S,COMR,398,,921,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh,45,79.266666667,6.47161635,94.0,63.0,,,,,,,,,,,0,0,0,1,1,4,6,10,13,9,1,,,
+UBCV,2021,W,BA,580,C,BA1,Topics in Business Administration,Danielle Van Jaarsveld;Darren Dahl;Mahesh Nagarajan;Sima Sajjadiani,65,79.4,7.678704318,88.0,50.0,,,,,,,,,,,0,,,,,2,4,15,30,11,0,,,
+UBCV,2021,W,BASC,550,,821,Operations,Dana Fallis;Mahesh Nagarajan,22,78.636363636,4.381187647,85.0,68.0,,,,,,,,,,,0,0,0,0,0,1,4,4,12,1,0,,,
+UBCV,2021,W,BUSI,335,,101,Information Systems,Alym Amlani;Mahesh Nagarajan,59,74.06779661,13.883585454,95.0,34.0,,,,,,,,,,,4,0,2,4,2,6,10,9,8,5,9,,,
+UBCV,2021,W,COMR,398,,101,Introduction to Business Processes and Operations,Hossein Piri;Iman Nosoohi;Mahesh Nagarajan;Woonghee Tim Huh,50,74.12,11.003969599,90.0,28.0,,,,,,,,,,,1,0,0,5,7,5,8,4,9,10,1,,,
+UBCV,2021,W,COMR,398,,201,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh;Ziqian Zhu,51,80.235294118,8.647747071,94.0,46.0,,,,,,,,,,,1,0,0,0,1,6,6,5,15,10,7,,,
+UBCV,2021,W,COMR,398,,202,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh;Ziqian Zhu,49,75.428571429,16.590660023,92.0,29.0,,,,,,,,,,,5,1,0,0,2,3,3,10,9,9,7,,,
+UBCV,2021,S,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,56,77.1,,87.0,55.0,,,,,,,,,,,,,,,,,14,20,17,,,78.0,80.0,74.0
+UBCV,2021,S,BASC,550,,820,Operations,Mahesh Nagarajan,31,79.6,,90.0,72.0,,,,,,,,,,,,,,,,,,13,13,,,80.0,82.0,77.0
+UBCV,2021,S,COMR,398,,921,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,45,79.3,,94.0,63.0,,,,,,,,,,,,,,,,,6,10,13,9,,80.0,83.0,75.0
+UBCV,2021,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,46,75.9,,90.0,64.0,,,,,,,,,,,,,,,,7,12,,13,,,75.0,80.0,72.0
+UBCV,2021,W,BASC,550,,821,Operations,Mahesh Nagarajan,22,78.6,,85.0,68.0,,,,,,,,,,,,,,,,,,,12,,,80.0,82.0,76.0
+UBCV,2021,W,COMR,398,,101,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,50,74.1,,90.0,28.0,,,,,,,,,,,,,,,7,,8,,9,10,,74.0,83.0,66.5
+UBCV,2021,W,COMR,398,,201,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,51,81.0,,94.0,65.0,,,,,,,,,,,,,,,,6,6,,16,10,7,82.0,86.5,75.5
+UBCV,2021,W,COMR,398,,202,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,49,77.8,,92.0,34.0,,,,,,,,,,,,,,,,,,11,9,10,7,80.0,87.0,76.0
+UBCV,2022,S,COMR,398,,921,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,48,71.9,,95.0,5.0,,,,,,,,,,,3,2,4,6,0,1,4,5,13,6,4,77.5,84.0,60.0
+UBCV,2022,W,BA,550,,BA1,Business Immersion,Mahesh Nagarajan;Alvaro Parra Perez;Sima Sajjadiani;Danielle van Jaarsveld;Rajesh Vijayaraghavan,78,80.2,,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,9,15,53,1,0,81.0,82.0,78.3
+UBCV,2022,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,42,72.3,,88.0,60.0,,,,,,,,,,,0,0,0,5,7,5,13,2,9,1,0,72.0,77.5,67.0
+UBCV,2022,W,BASC,550,,822,Operations,Mahesh Nagarajan,15,78.3,,86.0,65.0,,,,,,,,,,,0,0,0,0,2,1,1,1,8,2,0,81.0,82.0,75.5
+UBCV,2022,W,COMR,398,,101,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,53,74.7,,95.0,51.0,,,,,,,,,,,0,1,0,4,7,8,9,4,10,5,5,73.0,81.0,68.0
+UBCV,2022,W,COMR,398,,201,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,72.6,,93.0,40.0,,,,,,,,,,,1,4,6,4,4,7,4,1,9,4,10,72.0,84.8,61.3
+UBCV,2022,W,COMR,398,,202,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,74.4,,95.0,40.0,,,,,,,,,,,1,2,2,2,7,6,5,9,6,10,4,76.0,84.5,66.5
+UBCV,2023,S,BA,509,,BA2,Experiential Learning: Business Analytics Internship,Mahesh Nagarajan,20,83.65,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,9,0,83.0,85.5,82.0
+UBCV,2023,S,BA,514,,821,"IMBA Residency - People, Culture and Organizations",Michael Daniels;Jonathan Blair Evans;Mahesh Nagarajan;Wayne Rawcliffe;Mia Raynard;Amy Stanley;Danielle van Jaarsveld;Lingtao Yu,16,80.44,,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,9,1,0,80.5,82.0,78.75
+UBCV,2023,S,BA,514,,822,"IMBA Residency - People, Culture and Organizations",Michael Daniels;Jonathan Blair Evans;Mahesh Nagarajan;Wayne Rawcliffe;Mia Raynard;Amy Stanley;Danielle van Jaarsveld;Lingtao Yu,13,79.23,,85.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,6,5,1,0,79.0,82.0,78.0
+UBCV,2023,S,COMR,398,,921,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,48,73.15,,95.0,42.0,,,,,,,,,,,2,1,4,4,4,5,3,6,5,8,4,75.5,84.75,64.25
+UBCV,2023,W,BA,550,,BA1,Business Immersion,Mahesh Nagarajan,86,80.95,,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,17,65,3,0,81.0,82.0,80.0
+UBCV,2023,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,35,75.03,,86.0,65.0,,,,,,,,,,,0,0,0,0,1,11,5,8,8,2,0,76.0,80.0,68.0
+UBCV,2023,W,BASC,550,,823,Operations,Mahesh Nagarajan,16,75.56,,85.0,66.0,,,,,,,,,,,0,0,0,0,1,5,2,3,3,2,0,75.5,82.5,69.5
+UBCV,2023,W,COMR,398,,101,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,72.3,,90.0,39.0,,,,,,,,,,,2,4,2,4,2,9,9,5,8,5,4,73.5,81.8,67.3
+UBCV,2023,W,COMR,398,,201,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,76.9,,93.0,55.0,,,,,,,,,,,0,0,3,1,7,4,7,5,14,9,3,78.0,84.0,70.0
+UBCV,2023,W,COMR,398,,202,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,53,71.8,,90.0,26.0,,,,,,,,,,,4,1,0,2,10,8,2,4,12,7,1,73.0,83.0,65.5

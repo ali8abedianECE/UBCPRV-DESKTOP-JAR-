@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CIVL,426,,201,Virtual Design and Construction,Puyan Zadeh;Zhengbo Zou,20,87.5,8.550161587,100.0,67.0,0,0,0,0,1,1,1,0,1,7,9,,,
+UBCV,2021,W,CIVL,498,A,201,Topics in Civil Engineering,Zhengbo Zou,25,85.12,15.74092331,100.0,26.0,1,1,0,0,0,0,0,2,4,5,12,,,
+UBCV,2021,W,CIVL,520,,101,Construction Planning and Control,Alan Russell;Zhengbo Zou,23,83.652173913,5.843478849,95.0,74.0,0,0,0,0,0,0,3,3,5,10,2,,,
+UBCV,2021,W,CIVL,598,M,001,Topics in Civil Engineering,Sebastien Lepine-Lacroix;Svetlana Nikolic-Brzev;Zhengbo Zou,27,82.407407407,7.142824583,97.0,69.0,0,0,0,0,0,2,4,1,8,7,5,,,
+UBCV,2021,W,CIVL,498,A,201,Topics in Civil Engineering,Zhengbo Zou,25,85.1,,100.0,26.0,,,,,,,,,,,12,89.0,93.0,84.0
+UBCV,2021,W,CIVL,520,,101,Construction Planning and Control,Zhengbo Zou,23,83.7,,95.0,74.0,,,,,,,,,,10,,86.0,87.5,79.5
+UBCV,2022,W,CIVL,498,A,201,Topics in Civil Engineering,Zhengbo Zou,26,89.7,,100.0,71.0,0,0,0,0,0,1,1,1,4,3,16,91.0,95.0,84.8
+UBCV,2022,W,CIVL,520,,101,Construction Planning and Control,Zhengbo Zou,33,89.7,,98.0,69.0,0,0,0,0,0,1,1,1,3,7,20,91.0,94.0,88.0
+UBCV,2023,W,CIVL,300,,201,Construction Engineering and Management,Omar Swei;Zhengbo Zou,133,76.6,,96.0,2.0,2,4,5,5,9,12,18,16,20,26,14,78.0,86.0,71.0
+UBCV,2023,W,CIVL,498,A,101,Topics in Civil Engineering,Zhengbo Zou,35,90.1,,99.0,68.0,0,0,0,0,0,1,1,0,3,8,22,91.0,94.0,87.5
+UBCV,2023,W,CIVL,520,,101,Construction Planning and Control,Zhengbo Zou,24,86.8,,100.0,65.0,0,0,0,0,1,1,1,2,1,6,12,89.0,92.5,84.8

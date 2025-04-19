@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,ASIA,250,,001,INTRO BUDDHISM,"Xing, Guang",33,75.22,7.09,86,61,32,0,0,1,0,0,0,0,0,0,0,0,0,3,2,4,6,7,7,3,0
+UBC,2014,W,CICS,520,,001,DATABASE SYSTEMS,"Liu, Xing",30,77.37,6.92,89,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,8,5,6,0
+UBC,2015,S,CICS,525,,921,R-TIME&DISTR SYS,"Liu, Xing",28,82.93,11.9,95,30,27,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,4,8,7,7

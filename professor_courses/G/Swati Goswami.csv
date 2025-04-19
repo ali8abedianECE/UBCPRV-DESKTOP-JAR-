@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CPSC,416,,201,Distributed Systems,Donald Acton;Jonathan Budiardjo;Matheus Ulhoa Avelar Stolet;Swati Goswami;Zixuan Yin,112,76.080357143,14.142223784,98.0,0.0,2,2,3,6,4,13,17,17,23,13,12
+UBCV,2019,W,CPSC,421,,101,Introduction to Theory of Computing,Adam Jozefiak;Joel Friedman;Swati Goswami;Yuchong Pan,73,80.643835616,10.411491865,100.0,58.0,0,0,3,0,4,9,9,4,13,14,17
+UBCV,2020,S,CPSC,320,,921,Intermediate Algorithm Design and Analysis,Ali Mohammad Mehr;Amit Kadan;Anne Condon;Farnoosh Javadifishani;Jan Hansen;Ke Ma;Kyle Clarkson;Mourud Ahmed;Prithu Banerjee;Rebecca Zhi Ying Xie;Seyed Ali Tabatabaee;Susanne Bradley;Swati Goswami,193,83.89119171,12.133526861,100.0,0.0,6,0,0,3,3,10,7,10,44,37,73
+UBCV,2020,S,CPSC,410,,911,Advanced Software Engineering,Alexander Summers;Ali Mohammad Mehr;Nico Ritschel;Puneet Mehrotra;Swati Goswami;Tim Straubinger,51,79.705882353,10.498179114,98.0,46.0,1,1,0,1,2,5,5,7,9,12,8

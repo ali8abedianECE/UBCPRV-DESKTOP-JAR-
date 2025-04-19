@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,MATH,110,,001,DIFF CALCULUS,"Leung, Fok-Shuen;Sargent, Pamela;Wong, Tom",111,62.47,17.01,98,0,80,10,13,0,8,1,0,3,3,3,10,16,16,6,9,7,6,3,8,5,4
+UBC,2013,W,MATH,110,,002,DIFF CALCULUS,"Leung, Fok-Shuen;Sargent, Pamela;TBA",94,63.03,15.16,93,20,69,10,11,0,4,0,0,2,5,3,10,12,5,9,11,9,7,2,10,3,1
+UBC,2013,W,MATH,110,,003,DIFF CALCULUS,"Leung, Fok-Shuen;Sargent, Pamela;TBA",104,58.42,18.65,88,7,66,22,13,0,3,1,1,6,8,6,22,11,8,9,7,8,6,4,7,6,0
+UBC,2013,W,MATH,110,,004,DIFF CALCULUS,"Desaulniers, Shawn;Leung, Fok-Shuen;Sargent, Pamela",128,56.43,15.99,96,16,74,31,15,0,8,0,1,7,9,14,31,10,16,13,13,4,8,0,8,0,2
+UBC,2013,W,MATH,110,,W1B,DIFF CALCULUS,"Sargent, Pamela;TBA",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MATH,110,,W1D,DIFF CALCULUS,"Sargent, Pamela;TBA",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MATH,110,,W1H,DIFF CALCULUS,"Sargent, Pamela;TBA",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MATH,110,,W1L,DIFF CALCULUS,"Sargent, Pamela;TBA",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MATH,110,,W1Q,DIFF CALCULUS,"Sargent, Pamela;TBA",6,,,,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2016,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Pamela Sargent,117,68.64102564,15.93113496,99.0,31.0,,,,,,,,,,,13,9,10,11,11,11,10,12,5,11,14
+UBCV,2016,W,MATH,101,,V01,Integral Calculus with Applications to Physical Sciences and Engineering,Fok-Shuen Leung;Pamela Sargent;Vanessa Radzimski,84,64.91666667,14.25094234,97.0,5.0,,,,,,,,,,,7,11,11,9,6,12,11,1,11,2,3
+UBCV,2017,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Dimitrios Roxanas;Keqin Liu;Pamela Sargent,127,68.62992126,15.19753695,100.0,12.0,,,,,,,,,,,10,10,13,9,12,15,17,8,12,8,13

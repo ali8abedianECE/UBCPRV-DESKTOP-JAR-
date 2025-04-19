@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",10,88.5,3.81,93,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4
+UBC,2012,W,SCIE,113,,112,SCIE SEMINAR,"Cheung, Wai Lung;Fox, Joanne Alison;Han, Andrea",27,75.44,6.8,93,61,27,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,7,3,8,0,1
+UBC,2013,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",6,85.17,4.4,89,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0
+UBC,2013,W,SCIE,113,,209,SCIE SEMINAR,"Cheung, Wai Lung;Steyn, Douw Gerbrand",20,75.15,14.58,89,31,19,1,0,0,0,0,0,0,1,0,1,1,1,0,2,1,0,2,6,6,0
+UBC,2014,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",9,87.67,1.94,91,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2
+UBC,2014,W,SCIE,113,,209,SCIE SEMINAR,"Cheung, Wai Lung;Steyn, Douw Gerbrand",26,76.08,7.35,87,54,26,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,7,8,2,0
+UBC,2015,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",10,86.89,3.3,91,80,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1
+UBC,2016,W,EOSC,478,,101,INTRO FISH SCIEN,"Cheung, Wai Lung;Pakhomov, Yevhenii",64,82.92,10.18,99,49,62,1,1,0,0,0,0,0,0,1,1,0,1,2,1,2,5,9,10,11,21
+UBC,2016,W,SCIE,113,,11A,SCIE SEMINAR,"Cheung, Wai Lung",27,77.74,6.92,91,59,27,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,8,11,1,1
+UBC,2017,W,EOSC,478,,101,INTRO FISH SCIEN,"Cheung, Wai Lung;Pakhomov, Yevhenii",65,84.13,8.84,96,53,64,0,1,0,0,0,0,0,0,0,0,1,0,0,3,1,6,3,14,14,22
+UBC,2018,W,EOSC,478,,101,INTRO FISH SCIEN,"Cheung, Wai Lung;Pakhomov, Yevhenii",75,87.96,6.53,98,71,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,11,18,35
+UBC,2018,W,SCIE,113,,215,SCIE SEMINAR,"Cheung, Wai Lung",26,76,5.69,86,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,6,6,2,0

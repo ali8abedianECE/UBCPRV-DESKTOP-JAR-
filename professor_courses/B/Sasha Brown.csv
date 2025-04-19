@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,AUDI,551,,001,HEARNG AND NOISE,"Brown, Sasha",14,89.29,4.78,97,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,,,
+UBC,2016,W,AUDI,518,,001,FUNDAMENTAL AUDI,"Brown, Sasha;Hicks, Darlene",49,86.59,3.81,93,79,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,22,13,,,
+UBC,2016,W,AUDI,545,,003,ISSUES CLIN PRAC,"Avery, Lisa Ann;Brown, Sasha;Choi, Marcia;Hicks, Darlene;Sinden, Eavan;Taylor, Sandra Lynn",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,AUDI,551,,001,HEARNG AND NOISE,"Brown, Sasha",12,91.75,4.31,99,84,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,,,
+UBC,2016,W,AUDI,555,,001,ISS PROF PRACTIC,"Avery, Lisa Ann;Brown, Sasha;Choi, Marcia;Hicks, Darlene;Sinden, Eavan;Taylor, Sandra Lynn",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,AUDI,567,,001,AUDI PRCTCM III,"Brown, Sasha;Hicks, Darlene",12,90.75,2.8,95,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,,,
+UBC,2016,W,AUDI,568,,001,AUDI PRCTCM IV,"Brown, Sasha;Hicks, Darlene",12,93,4.2,100,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,,,
+UBC,2017,S,AUDI,565,C,933,AUDI PRACTICUM I,"Brown, Sasha;Hicks, Darlene",12,86.83,3.59,95,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,,,
+UBC,2017,S,AUDI,566,C,973,AUDI PRACTICM II,"Brown, Sasha;Hicks, Darlene",12,88.5,3.23,95,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,,,
+UBC,2017,S,AUDI,579,,931,PRACT AUD SP-LNG,"Adelman, Sharon;Brown, Sasha;Hicks, Darlene",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,AUDI,518,,001,FUNDAMENTAL AUDI,"Brown, Sasha;Hicks, Darlene;Sinden, Eavan",47,87.32,4.92,97,75,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11,17,17,,,
+UBC,2017,W,AUDI,567,,001,AUDI PRCTCM III,"Brown, Sasha;Hicks, Darlene",12,89.5,4.98,95,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,7,,,
+UBC,2017,W,AUDI,568,,001,AUDI PRCTCM IV,"Brown, Sasha;Hicks, Darlene",12,92,3.3,95,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,,,
+UBC,2018,S,AUDI,565,C,933,AUDI PRACTICUM I,"Brown, Sasha;Hicks, Darlene",12,85.25,4.33,92,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,1,,,
+UBC,2018,S,AUDI,566,C,973,AUDI PRACTICM II,"Brown, Sasha;Hicks, Darlene",11,86.82,2.52,90,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,,,
+UBC,2018,S,AUDI,579,,931,PRACT AUD SP-LNG,"Adelman, Sharon;Brown, Sasha;Hicks, Darlene",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,AUDI,518,,001,FUNDAMENTAL AUDI,"Brown, Sasha;Chan, Sylvia",12,84.08,4.93,91,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,1,,,
+UBC,2018,W,AUDI,545,,003,ISSUES CLIN PRAC,"Brown, Sasha;Choi, Marcia;Hicks, Darlene;McGee, Cheryl;Sinden, Eavan;Taylor, Sandra Lynn",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,AUDI,555,,001,ISS PROF PRACTIC,"Brown, Sasha;Choi, Marcia",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,AUDI,551,,001,Hearing and Noise,Sasha Brown,14,89.28571429,4.778615368,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,7,,,
+UBCV,2016,W,AUDI,518,,001,Fundamentals of Audiology,Darlene Hicks;Sasha Brown,49,86.59183674,3.812907723,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,13,22,13,,,
+UBCV,2016,W,AUDI,551,,001,Hearing and Noise,Navid Shahnaz;Sasha Brown,12,91.75,4.30908132,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9,,,
+UBCV,2016,W,AUDI,567,,001,Audiology Practicum III,Darlene Hicks;Sasha Brown;Sharon Adelman,12,90.75,2.800162333,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2016,W,AUDI,568,,001,Audiology Practicum IV,Darlene Hicks;Sasha Brown;Sharon Adelman,12,93.0,4.199567077,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2017,S,AUDI,565,C,933,Audiology Practicum I,Darlene Hicks;Sasha Brown;Sharon Adelman,12,86.833333333,3.588702813,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,2,,,
+UBCV,2017,S,AUDI,566,C,973,Audiology Practicum II,Darlene Hicks;Sasha Brown;Sharon Adelman,12,88.5,3.233348953,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,6,,,
+UBCV,2017,W,AUDI,518,,001,Fundamentals of Audiology,Darlene Hicks;Eavan Sinden;Sasha Brown,47,87.319148936,4.921586802,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,11,17,17,,,
+UBCV,2017,W,AUDI,567,,001,Audiology Practicum III,Darlene Hicks;Sasha Brown;Sharon Adelman,12,89.5,4.981785003,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,7,,,
+UBCV,2017,W,AUDI,568,,001,Audiology Practicum IV,Darlene Hicks;Sasha Brown;Sharon Adelman,12,92.0,3.302891295,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2018,S,AUDI,565,C,933,Audiology Practicum I,Darlene Hicks;Sasha Brown,12,85.25,4.330127019,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,4,1,,,
+UBCV,2018,S,AUDI,566,C,973,Audiology Practicum II,Darlene Hicks;Sasha Brown,12,87.083333333,2.574643253,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,4,,,
+UBCV,2018,W,AUDI,518,,001,Fundamentals of Audiology,Darlene Hicks;Sasha Brown;Sylvia Chan,12,84.083333333,4.925967064,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,5,1,,,
+UBCV,2019,S,AUDI,565,C,933,Audiology Practicum I,Darlene Hicks;Sasha Brown,12,87.333333333,3.749747466,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,2,,,
+UBCV,2019,S,AUDI,566,C,973,Audiology Practicum II,Darlene Hicks;Sasha Brown,11,90.090909091,3.562430223,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,7,,,
+UBCV,2019,W,AUDI,518,,001,Fundamentals of Audiology,Sasha Brown,11,88.545454545,3.933538772,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,6,,,
+UBCV,2019,W,AUDI,567,,001,Audiology Practicum III,Darlene Hicks;Sasha Brown,11,88.909090909,5.593827767,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,7,,,
+UBCV,2019,W,AUDI,568,,001,Audiology Practicum IV,Darlene Hicks;Sasha Brown,11,88.0,7.014271167,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,1,7,,,
+UBCV,2020,S,AUDI,565,C,933,Audiology Practicum I,Darlene Hicks;Sasha Brown,10,86.3,3.267686916,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,1,,,
+UBCV,2020,W,AUDI,518,,001,Fundamentals of Audiology,Sasha Brown,11,90.090909091,3.64566991,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,6,,,
+UBCV,2020,W,AUDI,545,,003,Preparation for Clinical Practice and Externships,Cheryl Mcgee;Darlene Hicks;Eavan Sinden;Marcia Choi;Sandra Lynn Taylor;Sasha Brown,47,92.063829787,3.847100858,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,35,,,
+UBCV,2021,S,AUDI,565,C,933,Audiology Practicum I,Darlene Hicks;Sasha Brown,12,87.333333333,3.256694736,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,6,2,,,
+UBCV,2021,S,AUDI,566,C,973,Audiology Practicum II,Darlene Hicks;Sasha Brown,11,86.272727273,3.466724941,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,1,,,
+UBCV,2021,W,AUDI,518,,001,Fundamentals of Audiology,Darlene Hicks;Sasha Brown,11,92.090909091,3.753785968,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8,,,
+UBCV,2021,W,AUDI,545,,003,Preparation for Clinical Practice and Externships,Cheryl Mcgee;Darlene Hicks;Eavan Sinden;Marcia Choi;Sasha Brown,46,91.869565217,5.000483068,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,34,,,
+UBCV,2021,S,AUDI,565,C,933,Audiology Practicum I,Sasha Brown;Darlene Hicks,12,87.3,,92.0,82.0,,,,,,,,,,,,,,,,,,,,6,,88.0,89.0,84.0
+UBCV,2021,S,AUDI,566,C,973,Audiology Practicum II,Sasha Brown;Darlene Hicks,11,86.3,,95.0,82.0,,,,,,,,,,,,,,,,,,,,8,,87.0,87.0,85.0
+UBCV,2022,S,AUDI,565,C,933,Audiology Practicum I,Sasha Brown;Darlene Hicks,10,88.9,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,3,88.0,91.3,87.0
+UBCV,2022,S,AUDI,566,C,973,Audiology Practicum II,Sasha Brown;Darlene Hicks,11,87.3,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,7,3,87.0,88.5,85.0
+UBCV,2022,W,AUDI,518,,001,Fundamentals of Audiology,Sasha Brown,12,90.4,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9,91.0,92.0,89.5
+UBCV,2022,W,AUDI,545,,003,Preparation for Clinical Practice and Externships,Sasha Brown;Marcia Choi;Marcia Goldbach;Cheryl McGee;Sandra Lynn Taylor,49,92.4,,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,43,92.0,94.0,91.0
+UBCV,2023,S,AUDI,565,C,933,Audiology Practicum I,Sasha Brown;Darlene Hicks,13,83.38,,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,7,3,1,84.0,87.0,82.0
+UBCV,2023,S,AUDI,566,C,973,Audiology Practicum II,Sasha Brown;Darlene Hicks,12,87.5,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,6,88.5,90.0,86.5
+UBCV,2023,W,AUDI,518,,001,Fundamentals of Audiology,Sasha Brown,12,87.08,,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,1,7,90.5,93.0,82.0

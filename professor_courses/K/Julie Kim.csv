@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,S,COMM,391,,921,MNGMNT INFO SYS,"Kim, Julie",119,75.12,7.11,88,57,119,0,0,0,0,0,0,0,0,0,0,0,3,6,10,15,23,26,27,9,0
+UBC,2015,S,COMM,391,,921,MNGMNT INFO SYS,"Kim, Julie",113,74.38,9.4,96,42,111,1,1,0,0,0,0,0,0,1,1,3,2,5,14,14,23,14,19,13,4
+UBC,2015,W,BUSI,335,,101,INFO SYSTEMS,"Kim, Julie",118,73.3,7.67,88,28,114,1,3,0,0,0,0,1,0,0,1,1,3,5,10,15,29,32,16,3,0
+UBC,2015,W,SPHA,543,,001,INFO TECH MGMT,"Kim, Julie",33,84.67,4.08,91,75,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,16,8,7
+UBC,2016,W,SPHA,543,,001,INFO TECH MGMT,"Kim, Julie",35,85.89,4.68,94,75,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,14,9
+UBC,2017,W,SPHA,543,,001,INFO TECH MGMT,"Kim, Julie",28,83.61,3.52,90,76,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,12,1
+UBCV,2014,S,COMM,391,,921,Introduction to Management Information Systems,Julie Kim,119,75.11764706,7.110718182,88.0,57.0,,,,,,,,,,,0,0,3,6,10,15,23,26,27,9,0
+UBCV,2015,S,COMM,391,,921,Introduction to Management Information Systems,Julie Kim,112,74.375,9.397263355,96.0,42.0,,,,,,,,,,,,,,5,14,14,23,14,19,13,
+UBCV,2015,W,BUSI,335,,101,Information Systems,Julie Kim,115,73.304347826,7.673346342,88.0,28.0,,,,,,,,,,,,,,5,10,15,29,32,16,3,0
+UBCV,2015,W,SPHA,543,,001,Information Technology for Management,Julie Kim,33,84.666666667,4.082482905,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,16,8,7
+UBCV,2016,W,SPHA,543,,001,Information Technology for Management,Julie Kim,35,85.88571429,4.676420379,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,8,14,9
+UBCV,2017,W,SPHA,543,,001,Information Technology for Management,Boris Sobolev;Jonathan Berkowitz;Julie Kim,28,83.607142857,3.520724733,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,11,12,1

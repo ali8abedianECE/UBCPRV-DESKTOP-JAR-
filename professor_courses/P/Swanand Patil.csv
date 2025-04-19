@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CIVL,332,,101,Structural Analysis,Christian Slotboom;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,157,72.337579618,16.300681966,99.0,10.0,10,2,9,7,10,23,19,19,19,25,14
+UBCV,2019,W,CIVL,435,,201,Advanced Structural Analysis,Steven Weijs;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,32,77.1875,14.911432072,99.0,50.0,0,5,0,1,2,2,0,2,8,5,7
+UBCV,2020,W,CIVL,518,,101,Reliability and Structural Safety,Craig Wallace;Swanand Patil;Terje Haukaas,33,78.393939394,9.965375664,93.0,39.0,1,0,0,0,0,4,7,3,11,3,4

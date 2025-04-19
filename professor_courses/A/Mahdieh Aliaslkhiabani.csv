@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,APSC,256,,101,Numerical Methods for Analysis,Fang Fang;Liwei Wang;Mahdieh Aliaslkhiabani;Mark Bergen;Peyman Amiri;Severin Nowak;Wenbo Zheng,249,75.128514056,13.441013239,97.0,23.0,14,3,11,12,22,17,19,38,41,37,35
+UBCO,2015,W,ENGR,350,,201,Linear Circuit Theory,Liwei Wang;Mahdieh Aliaslkhiabani;Richard Worthing,46,77.065217391,10.596440018,98.0,52.0,0,,,,,10,6,,9,5,7
+UBCO,2015,W,ENGR,351,,201,Microelectronics I,Liwei Wang;Mahdieh Aliaslkhiabani;Yanqi Yu,44,77.772727273,9.939031904,98.0,57.0,0,0,,,,7,5,,11,8,6
+UBCO,2015,W,ENGR,463,,001,Communication Networks,Chen Feng;Chunpu Wang;Mahdieh Aliaslkhiabani,18,81.5,10.450161834,96.0,60.0,0,0,0,,,,,,,,6

@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,NURS,552,,99A,METHS NURS SCI,"Campbell, Suzanne",12,86.17,3.76,93,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,1,,,
+UBC,2018,W,NURS,345,,002,CHLDBRNG FAMLIES,"Campbell, Suzanne",113,86.03,4.51,94,69,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,28,46,31,,,
+UBC,2018,W,NURS,506,,001,HLTH PROMO PRAC,"Campbell, Suzanne",22,96.86,2.92,100,89,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,21,,,
+UBC,2018,W,NURS,511,,002,FNDTNS NURS PRAC,"Campbell, Suzanne",13,89.62,3.4,95,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2014,W,NURS,552,,99A,Methods in Nursing Science.,Suzanne Campbell,12,86.16666667,3.761849964,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,1,,,
+UBCV,2018,W,NURS,345,,002,Theoretical Perspectives in Nursing: Childbearing Individuals and their Families,Cheryl Segaric;Geertje Boschma;Leah Tannock;Suzanne Campbell,113,86.026548673,4.506860201,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,5,28,46,31,,,
+UBCV,2018,W,NURS,506,,001,Health Promotion in Practice,John Oliffe;Suzanne Campbell,22,96.863636364,2.916218271,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,21,,,
+UBCV,2018,W,NURS,511,,002,Theoretical Foundations of Nursing Practice,Sabrina Wong;Suzanne Campbell,13,89.615384615,3.404371247,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2019,W,NURS,506,,001,Health Promotion in Practice,Eunice Bawafaa;Suzanne Campbell,35,92.4,4.188218771,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,25,,,
+UBCV,2019,W,NURS,511,,002,Theoretical Foundations of Nursing Practice,Bernard Mark Garrett;Suzanne Campbell,12,88.916666667,2.314316445,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,8,,,
+UBCV,2019,W,NURS,511,,102,Theoretical Foundations of Nursing Practice,Cheryl Segaric;Geertje Boschma;Ismalia Erica Pires De Sousa;Jennifer Kryworuchko;Suzanne Campbell,28,86.678571429,5.402698718,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,11,9,,,
+UBCV,2020,W,NURS,506,,001,Health Promotion in Practice,Abdul-Fatawu Abdulai;Suzanne Campbell,37,95.675675676,3.118529337,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,36,,,
+UBCV,2020,W,NURS,511,,102,Theoretical Foundations of Nursing Practice,Ibrahim Abughori;Suzanne Campbell,27,93.0,4.94586074,99.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,0,24,,,
+UBCV,2021,S,NURS,540,,941,Educational Processes in Nursing,Ismalia Erica Pires De Sousa;Suzanne Campbell,14,98.071428571,1.940035119,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,,,
+UBCV,2021,W,NURS,506,,001,Health Promotion in Practice,Harvinder Sihota;Helen Jean Brown;Meaghan Thumath;Simrin Sangha;Suzanne Campbell,28,98.535714286,0.999338405,100.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,28,,,
+UBCV,2021,W,NURS,511,,001,Theoretical Foundations of Nursing Practice,Suzanne Campbell,25,97.76,2.52124308,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,25,,,
+UBCV,2021,W,NURS,511,,101,Theoretical Foundations of Nursing Practice,Cheryl Segaric;Nassim Adhami;Suzanne Campbell,27,85.740740741,4.719783181,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,12,5,,,
+UBCV,2021,W,NURS,541,,001,Clinical Nursing Education,Suzanne Campbell,18,97.5,2.382534488,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,,,
+UBCV,2021,S,NURS,540,,941,Educational Processes in Nursing,Suzanne Campbell,14,98.1,,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,99.0,99.8,97.0
+UBCV,2021,W,NURS,511,,001,Theoretical Foundations of Nursing Practice,Suzanne Campbell,25,97.8,,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,25,99.0,99.0,97.0
+UBCV,2021,W,NURS,541,,001,Clinical Nursing Education,Suzanne Campbell,18,97.5,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,98.0,99.0,97.0
+UBCV,2022,S,NURS,540,,941,Educational Processes in Nursing,Suzanne Campbell,16,97.7,,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,98.0,99.0,97.0
+UBCV,2023,W,NURS,511,,102,Theoretical Foundations of Nursing Practice,Suzanne Campbell,26,98.0,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,24,100.0,100.0,98.0

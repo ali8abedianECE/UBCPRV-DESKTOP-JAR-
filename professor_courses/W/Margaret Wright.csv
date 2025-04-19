@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,SOWK,200,,001,INTR SOC WELFARE,"HARRIS, BARBARA;Wright, Margaret",93,79.22,8.67,91,45,90,2,1,0,0,0,0,0,0,2,2,0,2,1,2,5,12,13,26,25,4
+UBC,2002,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Wright, Margaret",45,78.8,5.58,90,70,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,10,16,3,2
+UBC,2002,W,SOWK,504,,001,FEM'M & SOWK PRX,"Wright, Margaret",14,88.21,2.67,93,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6
+UBC,2003,W,SOWK,200,,001,INTR SOC WELFARE,"Wright, Margaret",80,72.76,9.75,92,34,78,1,1,0,0,0,0,0,1,0,1,3,3,5,9,8,16,15,13,5,1
+UBC,2003,W,SOWK,335,,001,SOC ANL SOWK,"Cadell, Susan;Seebaran, Roopchand;Stainton, Timothy;Tester, Frank;Wright, Margaret",44,77.55,6.95,90,57,44,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,10,8,12,7,1
+UBC,2003,W,SOWK,440,H,001,INTGRTV SEM SOWK,"Wright, Margaret",20,82.2,7.49,90,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,2,9,2
+UBC,2003,W,SOWK,504,,001,FEM'M & SOWK PRX,"Wright, Margaret",22,87.45,4.85,94,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,13,7
+UBC,2005,W,SOWK,200,,001,INTR SOC WELFARE,"Wright, Margaret",80,76.71,8.37,91,52,78,0,1,0,1,0,0,0,0,0,0,2,2,3,1,7,16,14,21,11,1
+UBC,2005,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Orr, Alison;Stainton, Timothy;Tester, Frank;Wright, Margaret",44,77.89,6.75,89,55,44,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,3,14,13,7,0
+UBC,2005,W,SOWK,440,H,001,INTGRTV SEM SOWK,"Wright, Margaret",23,75.43,18.28,93,0,22,1,0,0,0,1,0,0,0,0,1,0,0,0,2,3,3,2,7,2,3
+UBC,2005,W,SOWK,504,,001,FEM'M & SOWK PRX,"Wright, Margaret",19,87.26,3.21,92,79,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,3
+UBC,2007,W,SOWK,201,,001,INTR SOC WORK,"Wright, Margaret",46,76.57,14.27,87,0,44,2,0,0,0,1,0,0,1,0,2,0,0,1,0,2,2,14,21,4,0
+UBC,2007,W,SOWK,335,,001,SOC ANL SOWK,"O'Connor, Deborah;O'Neill, Brian;Stainton, Timothy;Tester, Frank;Wright, Margaret",29,80.62,5.75,93,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,12,4,2
+UBC,2007,W,SOWK,440,H,001,INTGRTV SEM SOWK,"Wright, Margaret",5,77.4,18.02,92,46,4,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,0,1
+UBC,2007,W,SOWK,505,,001,SOCIAL ANALYSIS,"Wright, Margaret",13,84,4.18,90,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,1
+UBC,2007,W,SOWK,514,A,001,FEM'M & SOWK PRX,"Wright, Margaret",13,88.15,2.38,93,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+UBC,2009,W,SOWK,335,,001,SOC ANL SOWK,"O'Connor, Deborah;O'Neill, Brian;Stainton, Timothy;Tester, Frank;Wright, Margaret",29,83.45,3.76,91,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,10,3
+UBC,2009,W,SOWK,405,,002,SOWK PRACTICE II,"Wright, Margaret",9,84.56,5.68,93,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,2
+UBC,2009,W,SOWK,440,H,001,INTGRTV SEM SOWK,"Wright, Margaret",16,81.27,6.69,90,72,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,2,1,6,1
+UBC,2009,W,SOWK,505,,001,SOCIAL ANALYSIS,"Wright, Margaret",17,87.47,6.38,94,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,9
+UBC,2009,W,SOWK,514,A,001,FEM'M & SOWK PRX,"Wright, Margaret",8,87.71,2.81,92,83,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1
+UBC,2010,W,SOWK,335,,001,SOC ANL SOWK,"MEADOWS, KAREN;O'Connor, Deborah;Sullivan, T Richard;Tester, Frank;Wright, Margaret",34,88.94,4.36,96,77,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,21
+UBC,2010,W,SOWK,505,,001,SOCIAL ANALYSIS,"Wright, Margaret",10,87.8,4.42,94,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4
+UBC,2010,W,SOWK,550,,001,SOC WRK & JUSTCE,"Wright, Margaret",48,88.04,5.9,99,70,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,14,24
+UBC,2011,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",20,84.2,4.06,90,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,9,2
+UBC,2011,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Stainton, Timothy;Stern, Louise;Tester, Frank;Wright, Margaret",33,79.82,4.28,90,68,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,10,15,2,1
+UBC,2011,W,SOWK,505,,001,SOCIAL ANALYSIS,"O'Connor, Deborah;Stainton, Timothy;Sullivan, T Richard;Tester, Frank;Wright, Margaret",7,83,5.48,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1
+UBC,2011,W,SOWK,550,,001,SOC WRK & JUSTCE,"Wright, Margaret",35,90.06,4.15,97,81,33,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,21
+UBC,2012,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",12,83.5,2.84,88,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0
+UBC,2012,S,SOWK,514,A,921,FEM'M & SOWK PRX,"Wright, Margaret",5,88.4,1.52,90,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2013,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",24,80.96,9.75,90,42,23,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,5,0,9,8,1
+UBC,2013,S,SOWK,514,A,921,FEM'M & SOWK PRX,"Wright, Margaret",9,89.56,2.07,92,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5
+UBC,2014,W,SOWK,335,,001,SOC ANL SOWK,"O'Neill, Brian;Rockwell, Jasmyne;Stainton, Timothy;Tester, Frank;Wright, Margaret",63,86.14,4.53,94,73,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,30,15
+UBC,2015,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",32,83.5,3.64,89,76,30,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,11,13,0
+UBC,2015,S,SOWK,514,A,921,FEM'M & SOWK PRX,"Wright, Margaret",10,87.67,2.65,91,82,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3
+UBC,2016,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",18,84.78,7.31,94,62,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,9,3
+UBC,2016,W,SOWK,550,,001,SOC WRK & JUSTCE,"Wright, Margaret",41,88.76,4.86,97,79,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,14,19
+UBC,2017,S,SOWK,440,H,921,INTGRTV SEM SOWK,"Wright, Margaret",18,81.56,21.33,96,0,17,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,2,1,8,5
+UBCV,2014,W,SOWK,335,,001,Social Analysis for Social Work Practice,Brian O'Neill;Frank Tester;Jasmyne Rockwell;Margaret Wright;Tamara Miskovic;Timothy Stainton,63,86.14285714,4.528964643,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,13,30,15
+UBCV,2015,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright,30,83.5,3.636500781,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,11,13,0
+UBCV,2015,S,SOWK,514,A,921,Feminism and Social Work Praxis,Margaret Wright,9,87.66666667,2.645751311,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,5,
+UBCV,2016,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright,18,84.77777778,7.312805493,94.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,1,3,9,3
+UBCV,2016,W,SOWK,550,,001,Social Work and Social Justice,Margaret Wright,41,88.75609756,4.856853342,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,14,19
+UBCV,2017,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright,18,81.555555556,21.332720579,96.0,0.0,,,,,,,,,,,1,0,0,0,0,1,0,2,1,8,5
+UBCV,2017,W,SOWK,550,,001,Social Work and Social Justice,Margaret Wright;Ricardo Chaparro-Pacheco;Timothy Stainton,45,87.866666667,4.115381348,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,24,15
+UBCV,2018,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright;Simon Davis,28,84.535714286,8.690063047,95.0,46.0,,,,,,,,,,,1,0,0,0,0,0,0,1,11,7,8

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,POLI,561,A,001,INTER RELATIONS,"Holsti, Kal",14,78.92,6.63,87,63,13,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,4,3,0
+UBC,2014,W,RHSC,502,,001,REHAB THEORY,"Holsti, Liisa;Virji-Babul, Naznin",20,80.8,7.85,91,62,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5,3,6,2
+UBC,2014,W,RSOT,527,,001,EVIDENCE PRAC I,"Holsti, Liisa;Suto, Melinda",50,84.6,4.79,93,72,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,10,25,7
+UBC,2015,W,RHSC,502,,001,REHAB THEORY,"Holsti, Liisa;Virji-Babul, Naznin",15,88.67,10.1,98,59,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,2,9
+UBC,2015,W,RSOT,527,,001,EVIDENCE PRAC I,"Holsti, Liisa;Suto, Melinda",53,80.8,6.27,91,63,51,0,0,0,2,0,0,0,0,0,0,0,0,1,1,2,6,10,14,14,3
+UBC,2016,W,RHSC,502,,001,REHAB THEORY,"Holsti, Liisa;Virji-Babul, Naznin",17,92.94,4.56,99,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,14
+UBC,2016,W,RSOT,527,,001,EVIDENCE PRAC I,"Holsti, Liisa;Suto, Melinda",57,84.86,3.42,91,77,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,32,4
+UBC,2017,W,RHSC,502,,001,REHAB THEORY,"Holsti, Liisa;Virji-Babul, Naznin",6,89.67,8.33,99,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3
+UBC,2018,W,RHSC,502,,001,REHAB THEORY,"Holsti, Liisa;Virji-Babul, Naznin",18,93.33,5.06,99,79,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,15

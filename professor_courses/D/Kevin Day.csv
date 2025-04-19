@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,S,LIBR,559,A,941,Topics in Computer-Based Information Systems,Kevin Day,16,86.9375,3.923752456,93.0,81.0,0,0,0,0,0,0,0,0,5,6,5,,,
+UBCV,2021,W,VISA,210,,227,Digital Arts,Kevin Day;Manuel Pina;Manuel Pina Baldoquin;Matilda Aslizadeh,18,80.333333333,5.110542736,88.0,66.0,0,0,0,0,1,0,0,6,7,4,0,,,
+UBCV,2021,S,LIBR,559,A,941,Topics in Computer-Based Information Systems,Kevin Day,16,86.9,,93.0,81.0,,,,,,,,,,6,,87.0,90.3,83.8
+UBCV,2021,W,VISA,210,,227,Digital Arts,Kevin Day,18,80.3,,88.0,66.0,,,,,,,,6,7,,,80.0,83.0,78.0
+UBCV,2022,S,LIBR,559,A,941,Topics in Computer-Based Information Systems,Kevin Day,16,84.9,,93.0,46.0,1,0,0,0,0,0,0,0,2,9,4,87.0,89.3,85.0
+UBCV,2022,W,VISA,210,,228,Digital Arts,Kevin Day,17,80.3,,87.0,74.0,0,0,0,0,0,0,3,2,8,4,0,80.0,83.0,78.0
+UBCV,2023,S,LIBR,559,A,941,Topics in Computer-Based Information Systems,Kevin Day,14,85.93,,88.0,82.0,0,0,0,0,0,0,0,0,3,11,0,86.5,87.0,85.0
+UBCV,2023,W,VISA,210,,228,Digital Arts,Kevin Day,19,81.37,,86.0,66.0,0,0,0,0,1,0,0,2,12,4,0,82.0,83.0,80.5

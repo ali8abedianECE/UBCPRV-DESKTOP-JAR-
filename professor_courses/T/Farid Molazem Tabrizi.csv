@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,APSC,160,,921,Introduction to Computation in Engineering Design,Ahmet Burak Yoldemir;Basak Oztas Yoldemir;Farid Molazem Tabrizi;Farshid Agharebparast;Hamidreza Tohidypour;Md. Humayun Ahmed;Negar Mohaghegh Harandi,115,74.17391304,13.51624161,97.0,39.0,7,2,10,7,7,11,10,10,17,19,15
+UBCV,2015,W,CPSC,415,,101,Advanced Operating Systems,Donald Acton;Farid Molazem Tabrizi;Patrick Colp,73,71.054794521,15.989484749,93.0,3.0,6,,6,,11,7,7,12,9,10,
+UBCV,2015,W,EECE,513,,201,Error Resilient Computing Systems,Farid Molazem Tabrizi;Karthik Pattabiraman,19,84.947368421,8.051733314,96.0,68.0,0,0,0,0,0,,,,,5,7
+UBCV,2016,W,CPEN,391,,201,Computer Engineering Design Studio II,Farid Molazem Tabrizi;Fatemeh Eslami;Hossein Omidian Savarbaghi;Ilya Ganelin;Paul Davies;Stylianos Ploumis,114,82.27192983,9.708389846,94.0,0.0,1,0,0,3,0,2,1,14,47,35,11
+UBCV,2016,W,CPSC,261,,201,Basics of Computer Systems,Farid Molazem Tabrizi;Jonatan Schroeder,126,68.23015873,14.25884298,97.0,0.0,10,7,9,15,18,14,19,7,9,10,8

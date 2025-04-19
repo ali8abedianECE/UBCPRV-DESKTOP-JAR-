@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,COMM,377,,101,International Financial Markets and Institutions,Afraz Khan;Ali Lazrak;Dongliang Lu,38,81.210526316,6.694725212,92.0,61.0,0,0,0,1,0,2,3,9,8,12,3,,,
+UBCV,2020,W,COMM,377,,102,International Financial Markets and Institutions,Afraz Khan;Ali Lazrak;Dongliang Lu,36,78.166666667,6.101522058,91.0,64.0,0,0,0,0,2,3,7,6,13,4,1,,,
+UBCV,2020,W,COMM,671,,001,Theory of Finance,Ali Lazrak;Dongliang Lu,8,84.25,5.849297882,90.0,74.0,0,0,0,0,0,0,1,1,1,4,1,,,
+UBCV,2021,W,BAFI,500,,MM1,Introductory Finance,Dongliang Lu;R Glen Donaldson,32,84.21875,4.619275009,90.0,70.0,0,0,0,0,0,1,0,2,9,15,5,,,
+UBCV,2021,W,BAFI,511,,DD1,Investment Theory and Asset Pricing,Dongliang Lu;R Glen Donaldson,31,84.322580645,3.815644085,92.0,76.0,0,0,0,0,0,0,0,2,11,15,3,,,
+UBCV,2021,W,BAFI,511,,DD2,Investment Theory and Asset Pricing,Dongliang Lu;R Glen Donaldson,33,83.757575758,2.979411677,90.0,77.0,0,0,0,0,0,0,0,2,12,17,2,,,
+UBCV,2021,W,BAFI,511,,MM1,Investment Theory and Asset Pricing,Dongliang Lu;R Glen Donaldson,46,84.065217391,3.220780954,90.0,73.0,0,0,0,0,0,0,1,1,18,23,3,,,
+UBCV,2021,W,BAFI,550,,001,Fundamental Finance,Dongliang Lu;R Glen Donaldson,72,84.222222222,3.553305235,91.0,76.0,0,0,0,0,0,0,0,6,25,34,7,,,
+UBCV,2021,W,COMM,421,,DD1,Introductory Finance,Dongliang Lu;R Glen Donaldson,58,83.534482759,4.014078371,93.0,74.0,0,0,0,0,0,0,2,6,17,31,2,,,
+UBCV,2021,W,COMM,421,,DD2,Introductory Finance,Dongliang Lu;R Glen Donaldson,59,83.457627119,4.375961112,90.0,68.0,0,0,0,0,0,1,2,6,18,30,2,,,
+UBCV,2021,W,COMM,421,,DD3,Introductory Finance,Dongliang Lu;R Glen Donaldson,19,82.842105263,5.785644667,93.0,68.0,0,0,0,0,0,1,0,3,7,5,3,,,
+UBCV,2022,W,COMM,371,,105,Investment Theory,Dongliang Lu,40,73.2,,97.0,36.0,2,1,0,2,2,7,8,11,3,1,3,74.0,79.0,70.0

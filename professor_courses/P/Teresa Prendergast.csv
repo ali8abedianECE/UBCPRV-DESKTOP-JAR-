@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,LIBR,527,,001,SERV FOR CHLD,"Prendergast, Teresa",8,91.63,3.34,96,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,,,
+UBC,2018,W,LIBR,520,,001,CHILD LITERATURE,"Prendergast, Teresa",14,85.14,3.44,89,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,0,,,
+UBC,2018,W,LIBR,527,,002,SERV FOR CHLD,"Prendergast, Teresa",15,87.33,3.52,91,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,4,,,
+UBCV,2016,W,LIBR,527,,001,Services for Children,Teresa Prendergast,8,91.625,3.335416016,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2018,W,LIBR,520,,001,Survey of Literature and Other Materials for Children,Teresa Prendergast,14,85.142857143,3.438629934,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,8,0,,,
+UBCV,2018,W,LIBR,527,,002,Services for Children,Teresa Prendergast,15,87.333333333,3.518657753,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,8,4,,,
+UBCV,2019,W,LIBR,520,,001,Survey of Literature and Other Materials for Children,Teresa Prendergast,11,83.090909091,10.482886487,90.0,52.0,,,,,,,,,,,0,,,,,,,,3,6,1,,,
+UBCV,2019,W,LIBR,523,,002,Canadian Literature and other Materials for Children,Teresa Prendergast,6,87.833333333,0.98319208,89.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,0,,,
+UBCV,2019,W,LIBR,527,,002,Services for Children,Teresa Prendergast,10,86.7,1.494434118,89.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,0,,,
+UBCV,2019,W,LIBR,531,,001,Client-Centred Services for Adults,Teresa Prendergast,15,82.866666667,9.560832799,88.0,49.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,9,0,,,
+UBCV,2019,W,LIBR,576,,002,Public Libraries,Teresa Prendergast,24,86.708333333,1.988645304,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,20,2,,,
+UBCV,2020,S,LIBR,529,,942,Services for Families and Early Literacy in the Preschool Years,Teresa Prendergast,18,87.444444444,2.594614835,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,10,5,,,
+UBCV,2020,S,LIBR,531,,941,Client-Centred Services for Adults,Teresa Prendergast,31,87.096774194,3.672917448,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,24,5,,,
+UBCV,2020,W,LIBR,520,,001,Survey of Literature and Other Materials for Children,Teresa Prendergast,22,86.863636364,6.812421809,92.0,58.0,,,,,,,,,,,0,0,,,,,,,1,13,7,,,
+UBCV,2020,W,LIBR,527,,002,Services for Children,Teresa Prendergast,17,89.058823529,3.287677528,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,10,,,
+UBCV,2020,W,LIBR,576,,002,Public Libraries,Teresa Prendergast,17,87.529411765,1.545867356,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,14,2,,,
+UBCV,2020,W,LIBR,580,,001,Collection Management,Kevin Madill;Teresa Prendergast,29,88.620689655,2.455515557,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,13,13,,,
+UBCV,2020,W,LIBR,580,,002,Collection Management,Teresa Prendergast,34,87.911764706,2.220669392,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,23,8,,,
+UBCV,2021,S,LIBR,529,,941,Services for Families and Early Literacy in the Preschool Years,Teresa Prendergast,27,87.814814815,2.732103121,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,12,12,,,
+UBCV,2021,W,LIBR,506,,002,Human-Information Interaction,Heather O'Brien;Niloufar Davoudi;Teresa Prendergast,52,86.980769231,1.985144679,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,41,7,,,
+UBCV,2021,W,LIBR,520,,001,Survey of Literature and Other Materials for Children,Teresa Prendergast,21,88.19047619,1.721018525,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,14,6,,,
+UBCV,2021,W,LIBR,523,,002,Canadian Literature and other Materials for Children,Teresa Prendergast,21,87.095238095,2.8619008,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,11,5,,,
+UBCV,2021,W,LIBR,527,,002,Services for Children,Teresa Prendergast,24,86.833333333,1.434563005,89.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,23,0,,,
+UBCV,2021,W,LIBR,576,,001,Public Libraries,Teresa Prendergast,20,86.85,1.843195166,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,15,2,,,
+UBCV,2021,W,LIBR,580,,002,Collection Management,Teresa Prendergast;Trevor Smith,33,83.181818182,1.333570055,86.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,27,6,0,,,
+UBCV,2021,S,LIBR,529,,941,Services for Families and Early Literacy in the Preschool Years,Teresa Prendergast,27,87.8,,92.0,82.0,,,,,,,,,,,,,,,,,,,,12,12,88.0,90.0,86.0
+UBCV,2021,W,LIBR,506,,002,Human-Information Interaction,Teresa Prendergast,52,87.0,,92.0,82.0,,,,,,,,,,,,,,,,,,,,41,7,87.0,88.0,86.0
+UBCV,2021,W,LIBR,520,,001,Survey of Literature and Other Materials for Children,Teresa Prendergast,21,88.2,,90.0,84.0,,,,,,,,,,,,,,,,,,,,14,6,88.0,90.0,87.0
+UBCV,2021,W,LIBR,523,,002,Canadian Literature and other Materials for Children,Teresa Prendergast,21,87.1,,92.0,81.0,,,,,,,,,,,,,,,,,,,,11,,88.0,89.0,85.0
+UBCV,2021,W,LIBR,527,,002,Services for Children,Teresa Prendergast,24,86.8,,89.0,83.0,,,,,,,,,,,,,,,,,,,,23,,87.0,88.0,86.0
+UBCV,2021,W,LIBR,576,,001,Public Libraries,Teresa Prendergast,20,86.9,,90.0,84.0,,,,,,,,,,,,,,,,,,,,15,,86.5,88.0,86.0
+UBCV,2022,S,LIBR,529,,941,Services for Families and Early Literacy in the Preschool Years,Teresa Prendergast,30,87.8,,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,20,9,88.0,90.0,86.3
+UBCV,2022,S,LIBR,531,,941,Client-Centred Services for Adults,Teresa Prendergast,23,88.1,,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,16,6,88.0,89.5,87.0
+UBCV,2022,W,CHIL,500,,001,Research in Children's and Young Adult Literature,Teresa Prendergast,17,87.8,,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,7,89.0,90.0,87.0
+UBCV,2022,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Teresa Prendergast,28,85.5,,92.0,33.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,16,6,88.0,89.0,87.0
+UBCV,2022,W,LIBR,527,,001,Services for Children,Teresa Prendergast,16,87.9,,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,5,89.0,90.0,86.8
+UBCV,2022,W,LIBR,580,,002,Collection Management,Teresa Prendergast,31,85.3,,90.0,26.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,26,2,87.0,89.0,86.0
+UBCV,2022,W,LIBR,580,,004,Collection Management,Teresa Prendergast,20,84.2,,89.0,34.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,18,0,86.5,88.0,85.0
+UBCV,2023,S,LIBR,529,,941,Services for Families and Early Literacy in the Preschool Years,Teresa Prendergast,34,85.36,,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,22,1,87.0,87.0,83.0
+UBCV,2023,W,CHIL,500,,001,Research in Children's and Young Adult Literature,Teresa Prendergast,6,87.667,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3,88.0,90.0,85.25
+UBCV,2023,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Teresa Prendergast,22,86.38,,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,16,2,86.0,87.0,85.0
+UBCV,2023,W,LIBR,527,,001,Services for Children,Teresa Prendergast,19,85.53,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,16,0,85.0,86.5,85.0
+UBCV,2023,W,LIBR,580,,001,Collection Management,Teresa Prendergast,15,87.07,,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,12,1,87.0,88.0,86.5
+UBCV,2023,W,LIBR,580,,002,Collection Management,Teresa Prendergast,32,85.34,,88.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,24,0,85.0,86.0,84.75

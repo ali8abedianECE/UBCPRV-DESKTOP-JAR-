@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,FREN,111,,103,BEGINNR FREN III,"Falangola, Chiara;O'Hagan, Michael",32,70.38,13.16,88,39,29,3,0,0,0,0,0,0,1,2,3,0,4,2,2,2,5,5,5,4,0,,,
+UBC,2009,W,FREN,112,,203,BEGINNR FREN IV,"Falangola, Chiara;O'Hagan, Michael",28,70,13.09,96,42,25,2,1,0,0,0,0,0,0,2,2,3,0,2,3,2,5,2,5,2,1,,,
+UBC,2010,W,FREN,111,,202,INTERMED FREN 1,"Falangola, Chiara;Rouget, Christine;Simpson, Anne",16,71.06,8.35,82,55,16,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,1,3,3,0,0,,,
+UBC,2010,W,ITAL,101,,107,1ST YR ITALIAN I,"Boccassini, Daniela;Falangola, Chiara",34,67.76,16.1,90,30,27,2,2,2,1,0,0,0,1,1,2,6,2,2,1,3,2,2,4,2,3,,,
+UBC,2011,S,FREN,112,,922,INTERMED FREN 2,"Falangola, Chiara;Rouget, Christine;Simpson, Anne",36,71.17,15.77,94,0,34,1,1,0,0,1,0,0,0,0,1,1,2,3,2,8,4,5,5,2,2,,,
+UBC,2011,W,ITAL,101,,107,1ST YR ITALIAN I,"Boccassini, Daniela;Falangola, Chiara",35,73.44,11.42,92,50,34,0,1,0,0,0,0,0,0,0,0,2,2,4,2,3,5,7,2,4,3,,,
+UBC,2012,S,FREN,101,,922,BEGINNER FREN I,"Bodolec, Jacques;Falangola, Chiara",32,73.87,12.85,95,31,29,1,1,0,0,0,0,0,1,0,1,0,2,2,3,2,4,5,6,3,2,,,
+UBC,2012,W,FREN,112,,201,INTERMED FREN 2,"Falangola, Chiara;Rouget, Christine;Simpson, Anne",33,74.25,11.99,94,46,31,1,1,0,0,0,0,0,0,1,1,1,1,1,7,1,4,4,5,4,3,,,
+UBC,2012,W,ITAL,102,,202,1ST YR ITAL II,"Boccassini, Daniela;Falangola, Chiara",24,71.32,20.37,90,0,21,1,2,0,0,1,0,0,0,0,1,3,0,1,0,4,0,4,3,4,2,,,
+UBC,2013,S,FREN,102,,923,BEGINNER FREN II,"Falangola, Chiara;O'Brien, Juliet",15,73.77,5.54,80,65,13,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2,3,1,4,0,0,,,
+UBCV,2021,W,ITAL,101,,107,Beginners' Italian I,Chiara Falangola,13,81.076923077,10.451965832,94.0,56.0,,,,,,,,,,,0,0,1,0,0,1,1,2,3,1,4,,,
+UBCV,2021,W,ITAL,102,,201,Beginners' Italian II,Chiara Falangola,25,73.44,20.265076692,95.0,0.0,,,,,,,,,,,3,0,0,1,0,1,2,6,6,4,2,,,
+UBCV,2021,W,ITAL,102,,202,Beginners' Italian II,Chiara Falangola;Luisa Canuto,22,76.545454545,15.327309187,93.0,45.0,,,,,,,,,,,1,2,0,3,0,2,1,1,1,7,4,,,
+UBCV,2021,W,ITAL,201,,101,Elementary Italian I,Chiara Falangola;Luisa Canuto,22,74.863636364,10.80253698,94.0,56.0,,,,,,,,,,,0,0,2,1,1,5,1,5,3,1,3,,,
+UBCV,2021,W,ITAL,401,,101,Upper-Intermediate Italian I,Chiara Falangola,7,82.428571429,11.355720186,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,2,0,2,2,,,
+UBCV,2021,W,ITST,232,,201,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,Chiara Falangola,22,77.5,16.64403225,94.0,33.0,,,,,,,,,,,2,1,0,0,0,1,1,2,7,5,3,,,
+UBCV,2021,W,ITAL,101,,107,Beginners' Italian I,Chiara Falangola,13,81.1,,94.0,56.0,,,,,,,,,,,,,,,,,,,,,,81.0,90.0,78.0
+UBCV,2021,W,ITAL,102,,201,Beginners' Italian II,Chiara Falangola,25,73.4,,95.0,0.0,,,,,,,,,,,,,,,,,,6,6,,,79.0,82.0,74.0
+UBCV,2021,W,ITAL,102,,202,Beginners' Italian II,Chiara Falangola,22,76.5,,93.0,45.0,,,,,,,,,,,,,,,,,,,,7,,82.5,89.0,64.5
+UBCV,2021,W,ITAL,201,,101,Elementary Italian I,Chiara Falangola,22,74.9,,94.0,56.0,,,,,,,,,,,,,,,,,,,,,,76.0,80.8,68.0
+UBCV,2021,W,ITAL,401,,101,Upper-Intermediate Italian I,Chiara Falangola,7,82.4,,93.0,60.0,,,,,,,,,,,,,,,,,,,,,,86.0,90.0,79.0
+UBCV,2021,W,ITST,232,,201,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,Chiara Falangola,22,80.1,,94.0,33.0,,,,,,,,,,,,,,,,,,,7,,,83.5,86.8,77.8
+UBCV,2022,S,ITAL,101,,922,Beginners' Italian I,Chiara Falangola,25,79.6,,95.0,0.0,,,,,,,,,,,1,1,0,1,1,1,2,2,0,5,11,86.0,91.0,74.0
+UBCV,2022,W,ITAL,101,,102,Beginners' Italian I,Chiara Falangola,26,82.2,,95.0,57.0,,,,,,,,,,,0,0,3,0,0,0,3,2,3,8,7,87.0,89.8,78.3
+UBCV,2022,W,ITAL,102,,201,Beginners' Italian II,Chiara Falangola,33,77.4,,98.0,0.0,,,,,,,,,,,2,0,0,1,3,1,4,4,5,8,5,81.0,89.0,72.0
+UBCV,2022,W,ITAL,201,,102,Elementary Italian I,Chiara Falangola,31,82.4,,94.0,50.0,,,,,,,,,,,0,2,1,0,0,1,4,2,3,5,13,86.0,91.5,75.5
+UBCV,2022,W,ITAL,202,,201,Elementary Italian II,Chiara Falangola,29,76.7,,93.0,0.0,,,,,,,,,,,2,1,1,2,1,0,1,2,4,9,6,85.0,88.0,72.0
+UBCV,2022,W,ITAL,304,,201,Italian Literature and Culture of the Modern and Contemporary Age (in English),Chiara Falangola,23,80.3,,97.0,43.0,,,,,,,,,,,1,0,1,0,0,2,2,5,3,4,5,80.0,87.5,75.5
+UBCV,2023,S,ITAL,101,,921,Beginners' Italian I,Chiara Falangola,21,83.9,,98.0,67.0,,,,,,,,,,,0,0,0,0,1,1,2,3,2,8,4,86.0,89.0,76.0
+UBCV,2023,S,ITAL,101,,922,Beginners' Italian I,Chiara Falangola,25,81.0,,96.0,57.0,,,,,,,,,,,0,0,1,1,2,1,0,5,4,5,5,82.5,89.0,76.0

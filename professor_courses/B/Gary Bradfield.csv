@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BIOL,121,,224,Eco Gen Evol,"Bradfield, Gary",185,66.31,11.94,87,15,169,12,3,0,1,0,1,0,2,9,12,15,24,22,14,33,15,16,23,7,0
+UBC,2002,W,BIOL,303,,101,POPULATION BIOL,"Bradfield, Gary;Sinclair, Anthony R E",250,66.27,10.7,87,26,227,17,3,0,3,0,0,1,2,14,17,18,25,23,32,47,30,28,21,3,0
+UBC,2002,W,BOTA,526,,201,ADV PLNT COMM,"Bradfield, Gary",6,85.8,3.27,90,82,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2003,W,BIOL,303,,101,POPULATION BIOL,"Bradfield, Gary;Goodey, Wayne;Sinclair, Anthony R E",260,72.58,9.74,92,32,246,5,5,0,4,0,0,0,3,2,5,6,10,22,17,43,48,31,44,22,3
+UBC,2003,W,BIOL,406,,101,PLANT ECOLOGY I,"Bradfield, Gary",20,77.75,6.83,90,59,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,6,6,2,1
+UBC,2005,W,BIOL,302,,202,COMM & ECOSYSTEM,"Bradfield, Gary;Goodey, Wayne",244,67.84,9.78,93,41,231,11,1,0,1,0,0,0,0,11,11,9,21,33,36,45,41,21,13,8,4
+UBC,2005,W,BIOL,303,,101,POPULATION BIOL,"Bradfield, Gary;Prugh, Laura",237,73.77,10.59,92,22,231,6,0,0,0,0,0,1,2,3,6,3,9,17,19,28,35,37,51,29,3
+UBC,2005,W,BIOL,406,,101,PLANT ECOLOGY I,"Bradfield, Gary",22,74.35,7.67,86,53,20,0,1,0,1,0,0,0,0,0,0,1,0,0,1,4,5,4,3,2,0
+UBC,2006,W,BIOL,302,,201,COMM & ECOSYSTEM,"Bradfield, Gary;Sinclair, Anthony R E",226,68.57,10.79,90,15,210,10,2,0,4,0,1,0,2,7,10,5,22,26,22,47,31,16,31,9,1
+UBC,2006,W,BIOL,303,,101,POPULATION BIOL,"Bradfield, Gary;Sinclair, Anthony R E",247,69.14,11.19,95,37,230,14,1,0,2,0,0,0,1,13,14,8,19,32,28,39,31,27,29,12,5
+UBC,2006,W,BIOL,406,,101,PLANT ECOLOGY I,"Bradfield, Gary",19,77.79,4.4,85,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,7,1,0
+UBC,2006,W,BOTA,526,,201,ADV PLNT COMM,"Bradfield, Gary;Turkington, Robert",10,86.6,6.39,95,78,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+UBC,2007,W,BIOL,121,,226,ECO GEN EVOL,"Bradfield, Gary",216,66.7,12.82,98,32,196,17,1,0,2,0,0,0,4,13,17,17,26,26,20,24,24,16,28,11,4
+UBC,2007,W,BIOL,302,,201,COMM & ECOSYSTEM,"Bradfield, Gary;Goodey, Wayne;Sinclair, Anthony R E",182,68.11,10.72,91,20,174,2,6,0,0,0,0,1,0,1,2,17,15,25,20,33,18,18,16,11,1
+UBC,2007,W,BIOL,303,,101,POPULATION BIOL,"Bradfield, Gary;Goodey, Wayne",234,64.29,12.59,99,27,212,20,1,0,1,0,0,1,4,15,20,39,21,22,30,31,25,12,22,6,4
+UBC,2009,W,BIOL,306,,201,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne",121,72.68,8.86,94,39,118,2,1,0,0,0,0,0,1,1,2,1,6,4,15,23,23,15,23,6,2
+UBC,2009,W,BIOL,306,,202,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne",93,68.42,11.46,86,35,86,6,1,0,0,0,0,0,2,4,6,4,6,10,12,16,8,9,18,3,0
+UBC,2010,W,BIOL,306,,201,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",120,70.86,6.95,86,46,117,1,1,0,1,0,0,0,0,1,1,0,4,14,12,27,33,10,15,2,0
+UBC,2010,W,BIOL,306,,202,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",78,70.66,8.68,87,45,75,2,0,0,1,0,0,0,0,2,2,1,6,8,3,17,18,8,12,2,0
+UBC,2010,W,BIOL,406,,101,PLANT ECOLOGY I,"Bradfield, Gary",34,75.39,10.77,90,35,31,2,0,1,0,0,0,0,1,1,2,0,1,0,0,4,4,6,14,1,1
+UBC,2010,W,BOTA,526,,201,ADV PLNT COMM,"Bradfield, Gary",8,83.43,5.77,90,75,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1
+UBC,2011,W,BIOL,306,,201,ADVANCED ECOLOGY,"Bradfield, Gary;Crutsinger, Gregory;Goodey, Wayne",118,75.56,8.2,91,50,117,0,1,0,0,0,0,0,0,0,0,2,1,7,10,13,20,20,30,12,2
+UBC,2011,W,BIOL,306,,202,ADVANCED ECOLOGY,"Bradfield, Gary;Crutsinger, Gregory;Goodey, Wayne",54,74.23,11.09,89,44,52,1,1,0,0,0,0,0,0,1,1,3,3,3,1,6,6,6,18,6,0
+UBC,2011,W,SCIE,120,,22A,TPCS SUSTAIN SCI,"Bradfield, Gary",16,82,4.36,85,77,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+UBC,2012,W,BIOL,306,,201,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",113,70.67,11.77,88,15,106,5,1,1,0,0,1,0,1,3,5,4,6,6,10,20,18,12,23,7,0
+UBC,2012,W,BIOL,306,,202,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",30,74.83,8.31,88,57,30,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,5,3,12,2,0
+UBC,2012,W,BIOL,406,,101,PLANT ECOLOGY I,"Angert, Amy;Bradfield, Gary",19,75.32,6.41,90,58,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,8,3,4,0,1
+UBC,2013,W,BIOL,306,,101,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",115,73,8.32,87,29,113,1,1,0,0,0,0,1,0,0,1,2,2,6,10,20,25,19,26,3,0
+UBC,2013,W,BIOL,406,,201,PLANT ECOLOGY I,"Angert, Amy;Bradfield, Gary",15,79,9.86,91,57,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,0,1,6,1
+UBC,2013,W,BOTA,501,,001,SEM IN BOTANY,"Bradfield, Gary;Keeling, Naomi",14,84.86,4.15,93,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,3
+UBC,2014,W,BIOL,306,,101,ADVANCED ECOLOGY,"Angert, Amy;Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",123,71,9.09,91,43,118,1,4,0,0,0,0,0,0,1,1,2,13,8,9,27,19,16,14,9,1
+UBC,2014,W,BIOL,406,,201,PLANT ECOLOGY I,"Angert, Amy;Bradfield, Gary",13,82.92,5.55,92,73,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,6,1,2
+UBC,2014,W,BOTA,501,,001,SEM IN BOTANY,"Bradfield, Gary;Rosado Rey, Abel",19,89.05,5.42,97,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,10
+UBC,2015,W,BIOL,306,,101,ADVANCED ECOLOGY,"Bradfield, Gary;Goodey, Wayne;O'Connor, Mary",99,74.44,10.74,92,40,96,2,0,0,1,0,0,0,0,2,2,2,7,2,7,16,10,9,28,12,3
+UBC,2015,W,BIOL,406,,201,PLANT ECOLOGY I,"Angert, Amy;Bradfield, Gary",17,75.12,10.34,97,61,17,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,0,5,2,2,1
+UBC,2015,W,BOTA,501,,001,SEM IN BOTANY,"Bradfield, Gary;Rosado Rey, Abel",13,89,4.99,96,82,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6
+UBCV,2014,W,BIOL,306,,101,Advanced Ecology,Amy Angert;Gary Bradfield;Mary O'Connor;Wayne Goodey,119,71.0,9.092742496,91.0,43.0,,,,,,,,,,,,,13,8,9,27,19,16,14,9,
+UBCV,2014,W,BIOL,406,,201,Plant Ecology I,Amy Angert;Gary Bradfield,13,77.15384615,21.44701282,92.0,8.0,,,,,,,,,,,,,,,,,,,6,,
+UBCV,2014,W,BOTA,501,,001,Seminar in Botany,Abel Rosado Rey;Gary Bradfield,19,89.05263158,5.4208823,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,10
+UBCV,2015,W,BIOL,306,,101,Advanced Ecology,Barbara Joy Gass;Gary Bradfield;Joanna Bernhardt;Mary O'Connor;Rachel Nora Wilson;Rachel Wilson;Ruth Sharpe;Wayne Goodey,99,74.43877551,10.741639114,92.0,40.0,,,,,,,,,,,,,7,,7,16,10,9,28,12,
+UBCV,2015,W,BIOL,406,,201,Plant Ecology I,Amy Angert;Barbara Joy Gass;Gary Bradfield,17,75.117647059,10.337325288,97.0,61.0,,,,,,,,,,,0,0,0,,,,,5,,,
+UBCV,2015,W,BOTA,501,,001,Seminar in Botany,Abel Rosado Rey;Gary Bradfield,12,89.0,4.990900811,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,6

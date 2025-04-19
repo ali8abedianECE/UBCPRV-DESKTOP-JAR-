@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin,65,78.81538462,5.606615255,93.0,67.0,0,0,0,0,,3,14,13,24,6,,,,
+UBCO,2014,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin,69,79.34782609,5.508886102,91.0,70.0,0,0,0,0,0,5,17,7,27,10,3,,,
+UBCO,2014,W,MGMT,350,,003,Introduction to Information Technology Management,Barbara Marcolin,54,75.09259259,12.02398314,90.0,0.0,,,,,,8,12,12,13,3,,,,
+UBCO,2014,W,MGMT,429,C,001,Special Topics in Information Technology Management,Barbara Marcolin,31,81.09677419,7.790399385,91.0,50.0,0,,,,,,,,9,10,,,,
+UBCO,2015,W,MGMT,429,C,001,Special Topics in Information Technology Management,Barbara Marcolin,48,86.479166667,3.83705108,94.0,81.0,0,0,0,0,0,0,0,0,18,17,13,,,
+UBCO,2016,W,MGMT,429,C,001,Special Topics in Information Technology Management,Barbara Marcolin,22,87.40909091,6.389419013,97.0,75.0,0,0,0,0,0,0,1,3,5,1,12,,,
+UBCO,2017,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin;Jeihua Ip;Jenna Duke;Jiehua Ip;Sarah Leung,69,76.927536232,3.828372564,86.0,68.0,0,0,0,0,0,7,15,31,13,3,0,,,
+UBCO,2017,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Jeihua Ip;Jenna Duke;Jiehua Ip;Sarah Leung,70,77.3,5.097171708,92.0,61.0,0,0,0,1,1,7,13,25,16,6,1,,,
+UBCO,2017,W,MGMT,350,,003,Introduction to Information Technology Management,Barbara Marcolin;Jeihua Ip;Jenna Duke;Jiehua Ip;Sarah Leung,45,80.488888889,5.731183529,93.0,68.0,0,0,0,0,0,1,8,12,15,5,4,,,
+UBCO,2017,W,MGMT,425,,101,Strategies in Entrepreneurial Technology,Barbara Marcolin,21,82.523809524,4.094130526,91.0,78.0,0,0,0,0,0,0,0,6,8,6,1,,,
+UBCO,2018,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Farah Kanani;Kanchana Pintapakang;Kexin Cheng;Shiva Zargar Ershadi,122,76.368852459,7.906688057,88.0,22.0,1,0,2,3,3,9,20,36,33,15,0,,,
+UBCO,2018,W,MGMT,250,,102,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Farah Kanani;Kanchana Pintapakang;Kexin Cheng;Shiva Zargar Ershadi,81,75.49382716,8.984880991,92.0,37.0,1,0,1,4,7,10,15,13,18,11,1,,,
+UBCO,2018,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma;Zhenyuan Ma Ma,107,79.102803738,5.747738816,90.0,61.0,0,0,0,2,4,5,14,23,43,14,2,,,
+UBCO,2018,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma;Zhenyuan Ma Ma,105,74.914285714,6.800896838,90.0,52.0,0,2,0,2,8,20,22,19,27,4,1,,,
+UBCO,2018,W,MGMT,425,,101,Strategies in Entrepreneurial Technology,Barbara Marcolin,58,84.017241379,4.992947234,94.0,72.0,0,0,0,0,0,0,5,6,15,26,6,,,
+UBCO,2019,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin,91,73.813186813,8.298476551,90.0,31.0,1,0,2,5,5,12,29,18,10,8,1,,,
+UBCO,2019,W,MGMT,250,,102,Introduction to Information Technology Management,Barbara Marcolin,92,75.706521739,8.109874653,94.0,56.0,0,0,2,4,8,14,20,9,21,11,3,,,
+UBCO,2019,W,MGMT,250,,103,Introduction to Information Technology Management,Barbara Marcolin,62,73.983870968,7.136817345,90.0,55.0,0,0,1,4,7,10,9,14,14,2,1,,,
+UBCO,2019,W,MGMT,425,,101,Strategies in Entrepreneurial Technology,Barbara Marcolin,57,78.824561404,5.937540397,93.0,66.0,0,0,0,0,1,3,14,14,14,7,4,,,
+UBCO,2020,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin;Jessie Feng;Jingyi Ni;Rajpreet Somal;Shreeta Panchmatia;Wing Yin Chiu,236,76.309322034,8.565745609,95.0,21.0,3,2,4,6,11,22,39,61,58,23,7,,,
+UBCO,2020,W,MGMT,360,,001,Business Conditions Analysis,Barbara Marcolin;Kaitlin Breen;Mariana Jose Amorim;Melanie Field;Rylan Van Der Meulen;Tamara Ebl,247,75.874493927,10.097715533,90.0,0.0,2,4,8,9,10,23,37,40,67,39,8,,,
+UBCO,2021,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin;Hugo Tanade;Khushi Bhandari;Kriti Sud;Manav Gupta;Shreeta Panchmatia;Vanessa Ferraro;Yunji Im,236,78.042372881,9.88693018,93.0,32.0,8,5,1,1,0,9,30,35,115,27,5,,,
+UBCO,2021,W,MGMT,360,,001,Business Conditions Analysis,Barbara Marcolin;Kaitlin Breen;Melanie Field;Rohan Dabral Chamoli;Shreeta Panchmatia;Tamara Ebl,203,73.862068966,11.457225212,94.0,0.0,4,3,3,14,22,29,32,22,50,15,9,,,
+UBCO,2021,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin,236,78.0,,93.0,32.0,8,,,,,9,30,35,115,27,,80.0,83.3,76.0
+UBCO,2021,W,MGMT,360,,001,Business Conditions Analysis,Tamara Ebl;Barbara Marcolin,203,73.9,,94.0,0.0,,,,14,22,29,32,22,50,15,9,75.0,81.0,68.0
+UBCO,2022,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin,74,77.0,,91.0,39.0,2,0,0,1,3,11,10,10,21,14,2,79.0,82.8,72.3
+UBCO,2022,W,MGMT,250,,102,Introduction to Information Technology Management,Barbara Marcolin,165,75.4,,92.0,40.0,2,2,3,4,8,16,37,34,39,18,2,76.0,81.0,72.0
+UBCO,2023,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin,111,72.6,,90.0,13.0,2,0,1,8,11,25,22,14,15,9,2,72.0,78.0,68.0
+UBCO,2023,W,MGMT,250,,102,Introduction to Information Technology Management,Barbara Marcolin,110,73.4,,87.0,0.0,3,0,1,5,8,12,23,22,21,12,0,76.0,80.0,70.0

@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ARST,554,,002,DATABASE DESIGN,"Blanchette, Jean-Francois",9,79.44,5.92,91,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,0,1
+UBC,2002,W,LIBR,554,,002,DATABASE DESIGN,"Blanchette, Jean-Francois",9,83.56,8.29,93,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,5,1
+UBC,2003,W,ARST,554,,901,DATABASE DESIGN,"Blanchette, Jean-Francois",9,81,6.28,91,72,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,1
+UBC,2003,W,LIBR,554,,001,DATABASE DESIGN,"Blanchette, Jean-Francois",8,80,3.03,85,77,6,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0
+UBC,2009,S,MATH,265,,921,LINEAR EQUATIONS,"Ganghoffer, Jean-Francois",42,59.51,14.9,94,28,32,7,0,0,3,0,0,1,2,4,7,10,4,3,5,2,4,0,1,1,2

@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHIL,314,A,01A,Phil 17th Cent,"Schouls, Peter",59,73.85,12.62,90,0,53,1,3,0,2,1,0,0,0,0,1,1,0,2,4,6,11,10,13,5,1
+UBC,2003,W,PHIL,314,A,001,Phil 17th Cent,"Schouls, Peter",68,71.42,10.28,86,30,65,1,1,0,1,0,0,0,1,0,1,1,3,10,4,10,13,5,12,7,0
+UBC,2005,W,PHIL,316,,001,Phil After 1800,"Schouls, Peter",60,70.5,8.76,85,45,57,1,2,0,0,0,0,0,0,1,1,2,3,5,9,8,12,10,6,2,0
+UBC,2005,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",77,74.07,10.36,89,25,65,3,9,0,0,0,0,1,0,2,3,0,1,2,1,13,14,17,11,6,0
+UBC,2006,W,PHIL,316,,001,Phil After 1800,"Schouls, Peter",60,70.44,12.64,91,0,50,2,6,0,2,1,0,0,0,1,2,0,2,3,7,13,7,10,4,3,1
+UBC,2006,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",99,67.84,6.38,85,42,91,1,7,0,0,0,0,0,0,1,1,1,1,14,28,25,11,6,4,1,0
+UBC,2007,W,PHIL,315,A,001,PHIL 18TH CENT,"Schabas, Margaret;Schouls, Peter",47,61.89,20.93,90,0,41,5,1,0,0,3,0,2,0,0,5,4,2,7,6,6,6,5,3,0,2
+UBC,2007,W,PHIL,316,,001,Phil After 1800,"Schouls, Peter",57,73.81,6.51,88,46,52,1,3,0,1,0,0,0,0,1,1,0,0,2,2,12,16,12,7,1,0
+UBC,2007,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",98,73.65,6.58,84,50,93,0,4,0,1,0,0,0,0,0,0,2,0,2,11,19,16,27,16,0,0
+UBC,2009,W,PHIL,316,A,002,Phil After 1800,"Schouls, Peter",68,71.98,9.31,85,24,57,2,8,0,1,0,0,1,0,1,2,0,1,3,5,12,12,16,7,1,0
+UBC,2010,W,PHIL,315,A,001,PHIL 18TH CENT,"Schouls, Peter",47,68.07,23.55,88,0,41,5,1,0,0,4,1,0,0,0,5,0,0,1,3,3,14,11,3,6,0
+UBC,2011,W,PHIL,315,A,001,PHIL 18TH CENT,"Schouls, Peter",43,73.38,6.73,87,58,39,0,1,0,3,0,0,0,0,0,0,0,1,2,4,8,11,5,5,3,0
+UBC,2011,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",81,73.68,8.76,91,52,76,0,5,0,0,0,0,0,0,0,0,2,4,3,7,13,16,7,17,6,1
+UBC,2012,W,PHIL,315,A,001,PHIL 18TH CENT,"Schouls, Peter",47,73.47,7.91,91,46,44,1,1,0,1,0,0,0,0,1,1,0,0,3,4,7,12,8,7,2,1
+UBC,2012,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",80,74.41,7.76,86,50,74,0,4,2,0,0,0,0,0,0,0,2,2,4,3,11,17,11,19,5,0
+UBC,2013,W,PHIL,315,A,001,PHIL 18TH CENT,"Schouls, Peter",53,73.57,16.45,85,0,49,2,2,0,0,2,0,0,0,0,2,2,0,0,3,3,9,12,17,3,0
+UBC,2013,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",120,75.16,7.2,90,59,103,0,9,0,7,0,0,0,0,0,0,0,1,7,8,14,20,25,18,8,2
+UBC,2014,W,PHIL,316,,001,Phil After 1800,"Schouls, Peter",49,76.24,7.38,94,64,42,0,6,0,1,0,0,0,0,0,0,0,0,0,5,5,10,12,5,1,4
+UBC,2014,W,PHIL,414,A,001,EARLY MOD PHIL,"Schouls, Peter",10,75,19.69,98,27,8,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,2,3,1,1,1
+UBC,2015,W,PHIL,316,,001,Phil After 1800,"Schouls, Peter",60,76.89,5.83,89,59,57,0,2,0,0,0,0,0,0,0,0,0,1,1,1,6,11,20,10,7,0
+UBC,2015,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",90,75.67,9.7,84,0,86,1,1,0,0,1,0,0,0,0,1,0,2,1,2,4,21,27,29,0,0
+UBC,2016,W,PHIL,315,A,002,PHIL 18TH CENT,"Schouls, Peter",45,72.23,12.91,87,0,43,1,1,0,0,1,0,0,0,0,1,0,1,1,7,5,10,9,8,2,0
+UBC,2016,W,PHIL,375,A,001,PHILOSOPHY & LIT,"Schouls, Peter",82,68.55,14.85,91,0,71,3,8,0,0,2,0,0,0,1,3,1,10,4,13,11,6,11,12,2,1
+UBC,2017,W,PHIL,514,A,001,ERLY MODERN PHIL,"Schouls, Peter",5,84.5,5.45,90,77,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+UBCV,2014,W,PHIL,316,,001,Philosophy After 1800,Peter Schouls,43,74.46511628,13.7257992,94.0,0.0,,,,,,,,,,,,,,,5,5,10,12,5,,
+UBCV,2014,W,PHIL,414,A,001,Topics in the History of Modern Philosophy,Peter Schouls,9,75.0,19.69136867,98.0,27.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,PHIL,316,,001,Philosophy After 1800,Emma Esmaili;Peter Schouls,58,76.689655172,5.988898784,89.0,59.0,,,,,,,,,,,0,0,,,,6,11,20,10,7,0
+UBCV,2015,W,PHIL,375,A,001,Philosophy and Literature,Ian Heckman;Ian Tomas Heckman;Jonathan Lopez;Peter Schouls,89,75.494382022,9.668509798,84.0,0.0,,,,,,,,,,,,,,,,5,21,27,29,0,0
+UBCV,2016,W,PHIL,315,A,002,Philosophy in the 18th Century,Matthew Cleveland Smithdeal;Matthew Smithdeal;Peter Schouls,44,72.22727273,12.90729672,87.0,0.0,,,,,,,,,,,1,0,1,1,7,5,10,9,8,2,0
+UBCV,2016,W,PHIL,375,A,001,Philosophy and Literature,Chien Wong;Peter Schouls,74,68.55405405,14.8528323,91.0,0.0,,,,,,,,,,,3,1,10,4,13,11,6,11,12,2,1
+UBCV,2017,W,PHIL,375,,001,Philosophy and Literature,Emma Esmaili;Ian Heckman;Ian Tomas Heckman;Peter Schouls,80,73.7,15.576190854,90.0,0.0,,,,,,,,,,,4,2,2,2,5,8,9,16,16,14,2
+UBCV,2018,W,PHIL,375,,001,Philosophy and Literature,Bianca Crewe;Michel-Antoine Xhignesse;Peter Schouls,78,80.230769231,12.62127978,98.0,0.0,,,,,,,,,,,1,1,0,2,0,6,7,16,16,16,13
+UBCV,2018,W,PHIL,514,A,001,Early Modern Philosophy,Margaret Schabas;Peter Schouls,6,86.666666667,1.366260102,88.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,0

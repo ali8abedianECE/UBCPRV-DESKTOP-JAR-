@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,LLED,200,,V91,INTRO ACAD WRIT,"Gradin, Christopher",14,53.21,11.33,67,37,8,6,0,0,0,0,0,0,2,4,6,0,2,2,4,0,0,0,0,0,0
+UBC,2014,W,LLED,200,,V98,INTRO ACAD WRIT,"Gradin, Christopher",15,53.73,14.94,80,20,9,6,0,0,0,0,0,1,1,4,6,1,3,1,2,0,1,0,1,0,0
+UBC,2014,W,LLED,201,,V93,CRIT READ&WRIT,"Gradin, Christopher",11,62.18,9.17,77,48,10,1,0,0,0,0,0,0,0,1,1,2,1,2,3,0,1,1,0,0,0
+UBC,2014,W,LLED,201,,V97,CRIT READ&WRIT,"Gradin, Christopher",14,61.43,6.22,74,45,13,1,0,0,0,0,0,0,0,1,1,0,1,10,0,1,1,0,0,0,0
+UBC,2014,W,VANT,140,E,V02,CONTENT LANG TUT,"Gradin, Christopher",14,66.27,11.69,84,51,11,0,3,0,0,0,0,0,0,0,0,2,2,1,1,2,0,0,3,0,0
+UBC,2015,S,VANT,140,A,V09,CONTENT LANG TUT,"Gradin, Christopher",17,56.71,15.28,74,4,15,2,0,0,0,1,0,0,0,1,2,3,2,5,4,0,1,0,0,0,0
+UBC,2015,W,LLED,200,,V90,INTRO ACAD WRIT,"Gradin, Christopher",16,66.25,8.4,77,50,16,0,0,0,0,0,0,0,0,0,0,2,2,1,2,4,3,2,0,0,0
+UBC,2015,W,LLED,200,,V96,INTRO ACAD WRIT,"Gradin, Christopher",18,63.83,7.53,77,47,17,1,0,0,0,0,0,0,0,1,1,1,3,3,6,1,1,2,0,0,0
+UBC,2015,W,LLED,201,,V90,CRIT READ&WRIT,"Gradin, Christopher",16,61.25,6.13,70,47,15,1,0,0,0,0,0,0,0,1,1,3,0,5,6,1,0,0,0,0,0
+UBC,2015,W,LLED,201,,V96,CRIT READ&WRIT,"Gradin, Christopher",18,59.67,9.42,78,40,16,2,0,0,0,0,0,0,0,2,2,3,3,4,3,2,0,1,0,0,0
+UBC,2015,W,VANT,140,D,VE2,CONTENT LANG TUT,"Gradin, Christopher",18,70.22,8,81,55,18,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,4,3,2,0,0
+UBC,2016,W,LLED,200,,V93,INTRO ACAD WRIT,"Gradin, Christopher",14,51.14,11.82,73,23,9,5,0,0,0,0,0,1,1,3,5,2,6,0,0,0,1,0,0,0,0
+UBC,2016,W,LLED,200,,V97,INTRO ACAD WRIT,"Gradin, Christopher",13,55.62,9.25,70,33,11,2,0,0,0,0,0,0,1,1,2,1,6,2,1,1,0,0,0,0,0
+UBC,2016,W,LLED,201,,V95,CRIT READ&WRIT,"Gradin, Christopher",12,62.67,5.21,71,53,12,0,0,0,0,0,0,0,0,0,0,1,3,3,3,2,0,0,0,0,0
+UBC,2016,W,VANT,140,D,V02,CONTENT LANG TUT,"Gradin, Christopher",12,72.27,3.85,77,65,11,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,5,3,0,0,0
+UBC,2016,W,VANT,140,D,V04,CONTENT LANG TUT,"Gradin, Christopher",12,60.08,19.97,75,2,11,1,0,0,0,1,0,0,0,0,1,2,0,4,0,2,3,0,0,0,0
+UBC,2016,W,VANT,140,D,V22,CONTENT LANG TUT,"Gradin, Christopher",9,74.13,3.8,79,69,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,0,0,0
+UBC,2016,W,VANT,140,D,V24,CONTENT LANG TUT,"Gradin, Christopher",7,73.4,6.8,84,65,5,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,0,0
+UBC,2017,W,LLED,200,,V92,INTRO ACAD WRIT,"Gradin, Christopher",14,59.79,10.27,83,44,13,1,0,0,0,0,0,0,0,1,1,3,4,1,2,2,0,0,1,0,0
+UBC,2017,W,LLED,200,,V94,INTRO ACAD WRIT,"Gradin, Christopher",14,59,9.66,73,35,12,2,0,0,0,0,0,0,1,1,2,1,4,2,3,1,1,0,0,0,0
+UBC,2017,W,VANT,140,D,V05,CONTENT LANG TUT,"Gradin, Christopher",11,70,5.78,77,61,11,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,3,0,0,0
+UBC,2017,W,VANT,140,D,V22,CONTENT LANG TUT,"Gradin, Christopher",11,68.7,11.01,81,43,9,1,1,0,0,0,0,0,0,1,1,0,0,1,2,1,3,0,2,0,0
+UBCV,2014,W,LLED,200,,V91,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,14,53.21428571,11.32851115,67.0,37.0,,,,,,,,,,,6,,,,,0,0,0,0,0,0
+UBCV,2014,W,LLED,200,,V98,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,15,53.73333333,14.94497845,80.0,20.0,,,,,,,,,,,6,,,,,,,,,0,0
+UBCV,2014,W,LLED,201,,V93,Critical Reading and Writing in Academic and Professional Registers,Christopher Gradin,11,62.18181818,9.174074142,77.0,48.0,,,,,,,,,,,,,,,,,,,0,0,0
+UBCV,2014,W,LLED,201,,V97,Critical Reading and Writing in Academic and Professional Registers,Christopher Gradin,14,61.42857143,6.2229635,74.0,45.0,,,,,,,,,,,,,,10,,,,0,0,0,0
+UBCV,2014,W,VANT,140,E,V01,Content and Language Enrichment Tutorials,Alfredo Ferreira;Amber Shaw;Christopher Gradin;Fok-Shuen Leung,12,55.0,11.30567034,70.0,35.0,,,,,,,,,,,,,,,,,0,0,0,0,0
+UBCV,2014,W,VANT,140,E,V02,Content and Language Enrichment Tutorials,Alfredo Ferreira;Amber Shaw;Christopher Gradin;Fok-Shuen Leung,11,66.27272727,11.68837807,84.0,51.0,,,,,,,,,,,0,,,,,,,,,0,0
+UBCV,2014,W,VANT,140,E,V03,Content and Language Enrichment Tutorials,Alfredo Ferreira;Amber Shaw;Aubrey Leveridge;Christopher Gradin;Fok-Shuen Leung;Meghan Allen,21,67.23809524,11.44947493,85.0,46.0,,,,,,,,,,,,,,,,,,,,,0
+UBCV,2015,S,VANT,140,A,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Sandra Zappa,20,61.2,8.401754203,77.0,47.0,,,,,,,,,,,,,6,,,,,,0,0,0
+UBCV,2015,S,VANT,140,A,V09,Content and Language Enrichment Tutorials,Christopher Gradin;Sandra Zappa,17,56.70588235,15.27974438,74.0,4.0,,,,,,,,,,,,,,5,,,,0,0,0,0
+UBCV,2015,W,LLED,200,,V90,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,16,66.25,8.402380615,77.0,50.0,,,,,,,,,,,0,,,,,,,,0,0,0
+UBCV,2015,W,LLED,200,,V96,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,18,63.833333333,7.53228346,77.0,47.0,,,,,,,,,,,,,,,6,,,,0,0,0
+UBCV,2015,W,LLED,201,,V90,Critical Reading and Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,16,61.25,6.126445408,70.0,47.0,,,,,,,,,,,,,,5,6,,0,0,0,0,0
+UBCV,2015,W,LLED,201,,V96,Critical Reading and Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,18,59.666666667,9.418380028,78.0,40.0,,,,,,,,,,,,,,,,,,,0,0,0
+UBCV,2015,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Mike Murphy;Sandra Zappa,18,71.0,8.588638186,84.0,51.0,,,,,,,,,,,0,,,,,,,,,0,0
+UBCV,2015,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Mike Murphy;Sandra Zappa,18,70.222222222,8.004083925,81.0,55.0,,,,,,,,,,,0,0,,,,,,,,0,0
+UBCV,2015,W,VANT,140,E,V01,Content and Language Enrichment Tutorials,Alfredo Ferreira;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,12,69.333333333,6.25711716,79.0,59.0,,,,,,,,,,,0,0,,,,,5,,0,0,0
+UBCV,2015,W,VANT,140,E,V03,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,23,72.391304348,8.451676167,83.0,41.0,,,,,,,,,,,,,,,,,10,,,0,0
+UBCV,2015,W,VANT,140,E,V04,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,22,68.272727273,10.655567819,80.0,27.0,,,,,,,,,,,,,,,,5,5,,,0,0
+UBCV,2015,W,VANT,140,E,V06,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Christopher Gradin;Cornelie Emma Soelie Hellwig;Sandra Zappa,14,69.785714286,7.202334786,79.0,58.0,,,,,,,,,,,0,0,,,,,5,,0,0,0
+UBCV,2016,W,LLED,200,,V93,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,14,51.14285714,11.81822024,73.0,23.0,,,,,,,,,,,5,2,6,0,0,0,1,0,0,0,0
+UBCV,2016,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,13,55.61538462,9.251472509,70.0,33.0,,,,,,,,,,,2,1,6,2,1,1,0,0,0,0,0
+UBCV,2016,W,LLED,201,,V95,Critical Reading and Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,12,62.66666667,5.210711578,71.0,53.0,,,,,,,,,,,0,1,3,3,3,2,0,0,0,0,0
+UBCV,2016,W,VANT,140,D,V02,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Christopher Gradin;Kayli Johnson;Priya Lekhi;Sandra Zappa,11,72.27272727,3.849439156,77.0,65.0,,,,,,,,,,,0,0,0,0,2,1,5,3,0,0,0
+UBCV,2016,W,VANT,140,D,V04,Content and Language Enrichment Tutorials,Celina Berg;Celina Gay Berg;Christopher Gradin;Kayli Johnson;Priya Lekhi;Sandra Zappa,12,60.08333333,19.97024302,75.0,2.0,,,,,,,,,,,1,2,0,4,0,2,3,0,0,0,0
+UBCV,2016,W,VANT,140,D,V22,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Sandra Zappa,8,74.125,3.796144661,79.0,69.0,,,,,,,,,,,0,0,0,0,0,3,2,3,0,0,0
+UBCV,2017,W,LLED,200,,V92,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,14,59.785714286,10.267038907,83.0,44.0,,,,,,,,,,,1,3,4,1,2,2,0,0,1,0,0
+UBCV,2017,W,LLED,200,,V94,Introduction to Writing in Academic and Professional Registers,Christopher Gradin;Sandra Zappa,14,59.0,9.655608175,73.0,35.0,,,,,,,,,,,2,1,4,2,3,1,1,0,0,0,0
+UBCV,2017,W,VANT,140,D,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,15,73.066666667,8.472364037,88.0,54.0,,,,,,,,,,,0,1,0,1,2,0,5,4,0,2,0
+UBCV,2017,W,VANT,140,D,V05,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,11,70.0,5.779273311,77.0,61.0,,,,,,,,,,,0,0,0,2,2,2,2,3,0,0,0
+UBCV,2017,W,VANT,140,D,V21,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,12,72.5,6.585107164,82.0,60.0,,,,,,,,,,,0,0,0,1,2,3,1,4,1,0,0
+UBCV,2017,W,VANT,140,D,V22,Content and Language Enrichment Tutorials,Christopher Gradin;Kayli Johnson;Noosha Mehdian;Sandra Zappa,10,68.7,11.005554153,81.0,43.0,,,,,,,,,,,1,0,0,1,2,1,3,0,2,0,0
+UBCV,2021,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Daniel Riccardi;Jennifer Walsh Marr;Jodie Martin;John Pringle;Sandra Zappa,17,78.529411765,4.784318748,83.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,5,9,0,0
+UBCV,2021,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Christopher Gradin;Emrul Hasan;Fatimah Mahmood;Jodie Martin;John Pringle;Mingjun Wang;Naga Raghavendra Koppisetti;Pedro Dos Santos;Sandra Zappa,16,77.5,7.949842766,86.0,58.0,,,,,,,,,,,0,0,1,0,1,1,1,5,4,3,0
+UBCV,2021,W,VANT,148,,V02,UBC Vantage College Projects,Christopher Gradin;Paulina Semenec,23,66.434782609,10.878778704,83.0,27.0,,,,,,,,,,,1,0,2,5,2,6,4,2,1,0,0
+UBCV,2021,W,VANT,150,,VE1,Sustainability and Engineering Design,Alfredo Ferreira;Amber Shaw;Behzad Zakani;Christopher Gradin;Daniel Riccardi;Emrul Hasan;Gabriel Potvin;Jodie Martin;Juan Abello Rubio;Katherine Lyon;Saloome Motavas;Vladan Prodanovic,58,67.206896552,14.156715127,91.0,35.0,,,,,,,,,,,12,0,0,7,6,8,6,7,8,3,1

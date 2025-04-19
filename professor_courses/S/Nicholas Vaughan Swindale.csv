@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,CPSC,532,S,201,TOPIC ARTF INTEL,"Swindale, Nicholas Vaughan",10,86.3,5.54,92,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,3,,,
+UBC,2016,W,NRSC,501,,001,NEUROSCIENCE II,"Swindale, Nicholas Vaughan",19,84,4.65,90,74,17,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,5,3,,,
+UBC,2017,W,CPSC,532,S,101,TOPIC ARTF INTEL,"Swindale, Nicholas Vaughan",8,89.67,3.5,93,83,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,,,
+UBC,2017,W,NRSC,501,,001,NEUROSCIENCE II,"Swindale, Nicholas Vaughan",19,84.89,4.28,90,74,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8,2,,,
+UBC,2018,W,NRSC,501,,001,NEUROSCIENCE II,"Swindale, Nicholas Vaughan",24,81.25,10.32,91,40,23,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,2,0,10,7,3,,,
+UBCV,2016,W,NRSC,501,,001,Neuroscience II,Nicholas Vaughan Swindale,17,84.0,4.650268809,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,5,3,,,
+UBCV,2017,W,CPSC,532,S,101,Topics in Artificial Intelligence,Nicholas Vaughan Swindale,6,89.666666667,3.502380143,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,5,,,
+UBCV,2017,W,NRSC,501,,001,Neuroscience II,Nicholas Vaughan Swindale,18,84.888888889,4.282507359,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,8,2,,,
+UBCV,2018,W,NRSC,501,,001,Neuroscience II,Adrian Lindsay;Cameron Woodard;Doris Doudet;Jeremy Seamans;Lucero Guadalupe Aceves Serrano;Nicholas Vaughan Swindale;Victor Viau,25,80.56,10.673487403,91.0,40.0,,,,,,,,,,,2,0,0,0,0,1,2,0,10,7,3,,,
+UBCV,2019,W,NRSC,501,,001,Neuroscience II,Adrian Lindsay;Miguel Mejias Cordero;Nicholas Vaughan Swindale,17,87.058823529,3.24943434,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,9,4,,,
+UBCV,2020,W,NRSC,501,,001,Neuroscience II,Adrian Lindsay;Doris Doudet;Jeremy Seamans;Kumar Pankaj Gupta;Lucero Guadalupe Aceves Serrano;Man Yeung Tai;Nicholas Vaughan Swindale;Victor Viau,24,86.5,5.508886102,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,6,10,,,
+UBCV,2021,W,NRSC,501,,001,Neuroscience II,Doris Doudet;Anthony Herdman;Veronica Hirsch-Reinshagen La;Shannon Kolind;Benjamin Matthews;Orson Moritz;Timothy Murphy;Miriam Pai-Spering;Matthew Ramer;Julie Robillard;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,35,85.5,,98.0,80.0,,,,,,,,,,,,,,,,,,,15,16,,85.0,88.0,82.5
+UBCV,2022,W,NRSC,501,,001,Neuroscience II,Silke Cresswell;Anthony Herdman;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Miriam Pai-Spering;Matthew Ramer;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,23,85.8,,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,9,5,86.0,89.0,81.5
+UBCV,2023,W,NRSC,501,,001,Neuroscience II,Steven Barnes;Clare Louise Beasley;Luke Clark;Silke Cresswell;Lauren Emberson;Stanley Bogdan Floresco;Anthony Herdman;Veronica Hirsch-Reinshagen la;William Honer;Hyosub Kim;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Orson Moritz;Haakon Nygaard;Miriam Pai-Spering;Matthew Ramer;Catharine Rankin;Julie Robillard;Jeremy Seamans;Jason Snyder;Nicholas Vaughan Swindale;Anthony Traboulsee;Victor Viau,22,85.68,,95.0,63.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,12,4,87.0,89.0,84.25
+UBCV,2023,W,NSCI,303,,001,Foundations of Computational Neuroscience,Nicholas Vaughan Swindale,25,91.8,,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,17,92.0,96.0,89.0

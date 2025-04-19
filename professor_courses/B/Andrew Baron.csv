@@ -1,0 +1,108 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,PSYC,413,,001,SOCI & PERS DEVL,"Baron, Andrew",28,69.32,10.39,87,40,27,1,0,0,0,0,0,0,0,1,1,2,2,2,2,5,6,4,3,1,0,,,
+UBC,2010,W,PSYC,315,,002,CHILDHOOD & ADOL,"Baron, Andrew",67,70.37,10.32,85,23,63,2,2,0,0,0,0,1,0,1,2,1,5,2,11,10,14,7,10,3,0,,,
+UBC,2010,W,PSYC,315,,003,CHILDHOOD & ADOL,"Baron, Andrew",140,70.57,7.47,85,44,135,3,0,0,0,0,0,0,0,3,3,1,2,13,23,33,29,7,26,1,0,,,
+UBC,2011,W,PSYC,315,,001,CHILDHOOD & ADOL,"Baron, Andrew",50,68.92,8.29,90,54,49,0,1,0,0,0,0,0,0,0,0,4,3,3,11,9,8,6,3,1,1,,,
+UBC,2011,W,PSYC,315,,002,CHILDHOOD & ADOL,"Baron, Andrew",52,68.83,9.48,89,49,47,1,4,0,0,0,0,0,0,1,1,5,0,6,9,8,10,2,4,3,0,,,
+UBC,2011,W,PSYC,413,,001,SOCI & PERS DEVL,"Baron, Andrew",18,66.72,20.96,88,0,16,2,0,0,0,1,0,0,1,0,2,0,0,3,1,4,1,3,2,2,0,,,
+UBC,2012,W,PSYC,315,,001,CHILDHOOD & ADOL,"Baron, Andrew",99,67.66,13.51,91,0,90,6,3,0,0,1,0,0,1,4,6,4,14,10,10,9,11,16,11,3,2,,,
+UBC,2012,W,PSYC,315,,002,CHILDHOOD & ADOL,"Baron, Andrew",127,71.87,11.82,91,0,120,2,4,0,0,1,0,0,0,1,2,7,4,11,13,14,18,22,18,11,2,,,
+UBC,2012,W,PSYC,413,,001,SOCI & PERS DEVL,"Baron, Andrew",28,74.59,8.23,84,44,26,1,1,0,0,0,0,0,0,1,1,0,0,1,1,3,6,7,8,0,0,,,
+UBC,2013,W,PSYC,315,,004,CHILDHOOD & ADOL,"Baron, Andrew",140,69.8,13.41,95,12,133,5,2,0,0,0,2,1,2,0,5,5,14,13,14,17,22,18,19,4,7,,,
+UBC,2013,W,PSYC,315,,005,CHILDHOOD & ADOL,"Baron, Andrew",124,72.5,9.61,89,34,121,2,1,0,0,0,0,0,1,1,2,2,9,9,7,24,19,16,24,11,0,,,
+UBC,2014,W,PSYC,315,,001,CHILDHOOD & ADOL,"Baron, Andrew",168,71.26,12.82,95,33,157,9,2,0,0,0,0,0,4,5,9,8,12,17,19,10,26,12,24,22,7,,,
+UBC,2014,W,PSYC,315,,002,CHILDHOOD & ADOL,"Baron, Andrew",168,70.91,13.29,99,40,156,8,4,0,0,0,0,0,0,8,8,8,27,8,14,22,17,10,21,14,15,,,
+UBC,2015,S,PSYC,588,A,921,SOC&PERSNTY DEVL,"Baron, Andrew",11,92.82,4.17,100,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,,,
+UBC,2015,W,PSYC,315,,003,CHILDHOOD & ADOL,"Baron, Andrew",129,70.76,14.58,100,0,123,4,2,0,0,1,0,0,1,2,4,7,15,13,18,7,18,10,15,8,12,,,
+UBC,2015,W,PSYC,315,,004,CHILDHOOD & ADOL,"Baron, Andrew",112,73.7,16.34,100,14,107,4,1,0,0,0,1,0,1,2,4,10,9,10,8,11,5,9,12,11,22,,,
+UBC,2016,S,PSYC,315,,98A,CHILDHOOD & ADOL,"Baron, Andrew",95,63.63,15.32,88,0,70,16,3,0,5,1,0,0,3,12,16,11,8,4,5,11,10,10,7,4,0,,,
+UBC,2016,W,PSYC,315,,003,CHILDHOOD & ADOL,"Baron, Andrew",134,71.01,15.57,100,0,125,7,1,0,0,1,0,0,2,4,7,6,17,9,23,7,14,7,10,14,18,,,
+UBC,2016,W,PSYC,315,,004,CHILDHOOD & ADOL,"Baron, Andrew",120,75.15,12.92,99,49,117,1,1,0,0,0,0,0,0,1,1,6,12,6,12,10,12,11,12,18,18,,,
+UBC,2016,W,PSYC,315,,99A,CHILDHOOD & ADOL,"Baron, Andrew",101,66.38,12.6,90,30,90,7,4,0,0,0,0,0,3,4,7,7,18,12,8,13,5,8,11,7,1,,,
+UBC,2016,W,PSYC,315,,99C,CHILDHOOD & ADOL,"Baron, Andrew",107,68.17,14.6,91,0,94,6,3,0,2,1,1,1,0,3,6,5,13,8,11,16,8,10,12,10,1,,,
+UBC,2017,S,PSYC,315,,98A,CHILDHOOD & ADOL,"Baron, Andrew",97,66.17,13.73,93,19,80,6,7,0,2,0,1,1,0,4,6,11,9,9,13,8,5,11,4,8,2,,,
+UBC,2017,W,PSYC,315,,003,CHILDHOOD & ADOL,"Baron, Andrew",130,71.9,14.1,100,13,121,5,1,0,0,0,1,0,1,3,5,7,9,12,15,11,17,13,15,6,16,,,
+UBC,2017,W,PSYC,315,,004,CHILDHOOD & ADOL,"Baron, Andrew",132,72.57,15.05,99,15,122,8,1,0,0,0,1,1,2,4,8,7,5,9,16,10,15,10,18,17,15,,,
+UBC,2017,W,PSYC,315,,99A,CHILDHOOD & ADOL,"Baron, Andrew",108,67.65,13.79,95,0,97,6,3,0,0,1,0,0,1,4,6,7,17,8,10,16,9,6,15,6,3,,,
+UBC,2017,W,PSYC,315,,99C,CHILDHOOD & ADOL,"Baron, Andrew",107,68.38,14.91,93,29,85,10,4,0,0,0,0,1,2,7,10,7,9,12,6,7,7,12,10,6,9,,,
+UBC,2018,S,PSYC,315,,98A,CHILDHOOD & ADOL,"Baron, Andrew",106,68.2,15.11,94,21,84,10,7,0,2,0,0,1,1,8,10,6,12,10,8,9,6,6,10,11,6,,,
+UBC,2018,S,PSYC,413,,98A,SOCI & PERS DEVL,"Baron, Andrew",90,73.93,16,98,0,78,7,4,0,1,1,1,0,2,3,7,0,2,2,6,7,9,22,14,9,7,,,
+UBC,2018,W,PSYC,315,,003,CHILDHOOD & ADOL,"Baron, Andrew",138,72.1,13.94,100,40,130,4,1,0,2,0,0,0,0,4,4,11,9,14,13,17,11,10,21,6,18,,,
+UBC,2018,W,PSYC,315,,004,CHILDHOOD & ADOL,"Baron, Andrew",138,71.96,15.57,100,35,126,11,1,0,0,0,0,0,3,8,11,10,11,11,7,11,16,10,18,16,16,,,
+UBC,2018,W,PSYC,315,,99A,CHILDHOOD & ADOL,"Baron, Andrew",105,69.8,12.09,96,46,92,5,2,0,4,0,0,0,0,5,5,9,7,14,6,11,8,15,12,6,4,,,
+UBC,2018,W,PSYC,315,,99C,CHILDHOOD & ADOL,"Baron, Andrew",106,66.19,16.67,91,0,85,13,2,0,2,1,2,0,1,9,13,4,9,12,6,9,13,12,13,5,2,,,
+UBC,2018,W,PSYC,413,,99A,SOCI & PERS DEVL,"Baron, Andrew",78,75.36,12.55,93,0,74,1,1,0,0,1,0,0,0,0,1,3,1,4,2,11,5,13,24,10,1,,,
+UBC,2018,W,PSYC,413,,99C,SOCI & PERS DEVL,"Baron, Andrew",96,70.04,20.03,92,0,82,9,2,0,0,4,0,2,2,1,9,2,4,3,7,6,13,11,28,7,1,,,
+UBCV,2014,W,PSYC,315,,001,Childhood and Adolescence,Andrew Baron,166,71.25903615,12.81709593,95.0,33.0,,,,,,,,,,,9,8,12,17,19,10,26,12,24,22,7,,,
+UBCV,2014,W,PSYC,315,,002,Childhood and Adolescence,Andrew Baron,164,70.90853659,13.28720683,99.0,40.0,,,,,,,,,,,8,8,27,8,14,22,17,10,21,14,15,,,
+UBCV,2015,S,PSYC,588,A,921,Special Topics in Social and Personality Development,Andrew Baron,11,92.81818182,4.166969686,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,10,,,
+UBCV,2015,W,PSYC,315,,003,Childhood and Adolescence,Andrew Baron;Antonya Gonzalez;Antonya Marie Gonzalez,127,70.755905512,14.584573572,100.0,0.0,,,,,,,,,,,4,7,15,13,18,7,18,10,15,8,12,,,
+UBCV,2015,W,PSYC,315,,004,Childhood and Adolescence,Andrew Baron;Anthea Pun,111,73.702702703,16.341021774,100.0,14.0,,,,,,,,,,,4,10,9,10,8,11,5,9,12,11,22,,,
+UBCV,2016,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Anthea Pun,87,63.81609195,15.33086925,88.0,0.0,,,,,,,,,,,16,11,8,4,5,11,10,10,8,4,0,,,
+UBCV,2016,W,PSYC,315,,003,Childhood and Adolescence,Adri Khalis Abdul Karim;Adri Khalis Bin Abdul Karim;Andrew Baron,133,70.93984962,15.53527725,100.0,0.0,,,,,,,,,,,7,6,17,10,23,7,14,7,10,14,18,,,
+UBCV,2016,W,PSYC,315,,004,Childhood and Adolescence,Andrew Baron;Anthea Pun,119,74.96638656,13.02925832,99.0,49.0,,,,,,,,,,,1,7,12,6,12,10,12,11,12,18,18,,,
+UBCV,2016,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Anthea Pun,97,66.3814433,12.60162299,90.0,30.0,,,,,,,,,,,7,7,18,12,8,13,5,8,11,7,1,,,
+UBCV,2016,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Anthea Pun,102,68.0,14.52004419,91.0,0.0,,,,,,,,,,,6,5,14,8,12,16,8,10,12,10,1,,,
+UBCV,2017,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Anthea Pun,88,65.931818182,13.845448611,93.0,19.0,,,,,,,,,,,7,11,9,9,13,9,5,11,4,8,2,,,
+UBCV,2017,W,PSYC,315,,003,Childhood and Adolescence,Andrew Baron;Taeh Haddock,129,72.062015504,14.017707517,100.0,13.0,,,,,,,,,,,5,7,9,12,15,12,17,14,15,7,16,,,
+UBCV,2017,W,PSYC,315,,004,Childhood and Adolescence,Andrew Baron;Mikayla Pachkowski,131,72.496183206,15.01351906,99.0,15.0,,,,,,,,,,,8,7,5,10,16,10,15,10,18,17,15,,,
+UBCV,2017,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Anthea Pun,105,67.39047619,13.792065192,95.0,0.0,,,,,,,,,,,6,8,18,8,10,16,9,6,15,6,3,,,
+UBCV,2017,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Anthea Pun,103,67.67961165,14.782881987,93.0,29.0,,,,,,,,,,,12,8,9,15,6,7,9,12,10,6,9,,,
+UBCV,2018,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Anthea Pun,98,67.948979592,15.314821639,94.0,21.0,,,,,,,,,,,11,6,12,11,8,9,7,6,11,11,6,,,
+UBCV,2018,S,PSYC,413,,98A,Social and Personality Development,Andrew Baron;Anthea Pun,86,73.662790698,16.098674016,98.0,0.0,,,,,,,,,,,7,1,2,2,6,7,9,22,14,9,7,,,
+UBCV,2018,W,PSYC,315,,003,Childhood and Adolescence,Andrew Baron;Ellen Jopling;Taeh Haddock,137,71.824817518,14.551075264,100.0,19.0,,,,,,,,,,,5,11,9,14,13,17,11,11,22,6,18,,,
+UBCV,2018,W,PSYC,315,,004,Childhood and Adolescence,Andrew Baron;Ellen Jopling;Taeh Haddock,137,71.95620438,15.572821637,100.0,35.0,,,,,,,,,,,11,10,11,11,7,11,16,10,18,16,16,,,
+UBCV,2018,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Anthea Pun;Raechel Drew,103,68.747572816,12.781511193,96.0,30.0,,,,,,,,,,,7,10,8,15,7,11,8,15,12,6,4,,,
+UBCV,2018,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Anthea Pun;Raechel Drew,104,66.980769231,15.948327221,91.0,0.0,,,,,,,,,,,12,4,9,9,8,12,18,12,13,5,2,,,
+UBCV,2018,W,PSYC,413,,99A,Social and Personality Development,Andrew Baron;Anthea Pun,76,76.184210526,8.989935893,93.0,50.0,,,,,,,,,,,0,3,1,4,3,11,6,13,24,10,1,,,
+UBCV,2018,W,PSYC,413,,99C,Social and Personality Development,Andrew Baron;Anthea Pun,94,70.063829787,19.721070284,92.0,0.0,,,,,,,,,,,9,2,4,3,8,6,15,11,28,7,1,,,
+UBCV,2019,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Anthea Pun;Raechel Drew,87,67.471264368,13.321462906,92.0,17.0,,,,,,,,,,,4,6,11,8,15,13,8,5,8,7,2,,,
+UBCV,2019,S,PSYC,413,,98A,Social and Personality Development,Andrew Baron;Anthea Pun,77,74.441558442,11.405785128,88.0,0.0,,,,,,,,,,,1,0,3,4,6,5,13,23,17,5,0,,,
+UBCV,2019,W,PSYC,315,,003,Childhood and Adolescence,Alyssa Mercedes Ash;Andrew Baron;Hannah Brodie,129,75.759689922,13.102823642,100.0,40.0,,,,,,,,,,,2,7,8,9,10,9,12,14,23,13,22,,,
+UBCV,2019,W,PSYC,315,,004,Childhood and Adolescence,Alyssa Mercedes Ash;Andrew Baron;Hannah Brodie,130,75.192307692,13.8592572,100.0,27.0,,,,,,,,,,,1,8,11,12,9,10,18,7,15,15,24,,,
+UBCV,2019,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Raechel Drew,105,66.485714286,12.445353076,90.0,28.0,,,,,,,,,,,9,7,11,12,15,16,6,13,10,5,1,,,
+UBCV,2019,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Raechel Drew,91,67.384615385,16.396997849,91.0,0.0,,,,,,,,,,,5,9,10,11,8,6,13,8,9,10,2,,,
+UBCV,2019,W,PSYC,413,,99A,Social and Personality Development,Andrew Baron,84,75.452380952,14.783094188,91.0,13.0,,,,,,,,,,,5,0,1,3,3,7,9,18,18,18,2,,,
+UBCV,2019,W,PSYC,413,,99C,Social and Personality Development,Andrew Baron,85,78.494117647,10.937727989,91.0,29.0,,,,,,,,,,,2,1,1,5,2,4,9,9,25,21,6,,,
+UBCV,2020,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Raechel Drew,126,72.666666667,14.880322577,95.0,0.0,,,,,,,,,,,7,8,6,7,14,11,11,18,15,17,12,,,
+UBCV,2020,S,PSYC,413,,98A,Social and Personality Development,Andrew Baron,79,74.037974684,18.892029956,97.0,0.0,,,,,,,,,,,6,0,2,5,2,7,10,8,16,14,9,,,
+UBCV,2020,W,PSYC,315,,003,Childhood and Adolescence,Andrew Baron;Raechel Drew,86,69.255813953,14.052997207,95.0,19.0,,,,,,,,,,,7,8,4,7,7,10,13,11,8,7,4,,,
+UBCV,2020,W,PSYC,315,,004,Childhood and Adolescence,Andrew Baron;Fiza Arshad,109,70.80733945,13.93800896,93.0,0.0,,,,,,,,,,,5,3,7,12,13,11,13,15,15,10,5,,,
+UBCV,2020,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Raechel Drew,79,68.481012658,15.6261293,93.0,29.0,,,,,,,,,,,10,6,6,5,11,5,8,7,6,10,5,,,
+UBCV,2020,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Raechel Drew,45,72.333333333,9.979524492,90.0,51.0,,,,,,,,,,,0,1,6,3,2,7,10,5,4,6,1,,,
+UBCV,2020,W,PSYC,413,,99A,Social and Personality Development,Andrew Baron;Anthea Pun,72,79.583333333,15.094771038,96.0,25.0,,,,,,,,,,,5,1,1,1,2,2,4,5,17,17,17,,,
+UBCV,2020,W,PSYC,413,,99C,Social and Personality Development,Andrew Baron;Anthea Pun,80,76.95,15.153977629,95.0,0.0,,,,,,,,,,,5,0,0,0,4,7,7,15,17,18,7,,,
+UBCV,2021,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron;Raechel Drew,85,68.258823529,12.833320601,91.0,15.0,,,,,,,,,,,5,7,3,13,11,12,7,12,9,3,3,,,
+UBCV,2021,S,PSYC,413,,98A,Social and Personality Development,Andrew Baron;Anthea Pun,69,76.550724638,12.489449938,90.0,33.0,,,,,,,,,,,2,2,3,5,4,1,6,9,14,20,3,,,
+UBCV,2021,W,PSYC,315,,001,Childhood and Adolescence,Andrew Baron;Eloise West;Lillian May;Maria Clara Brandao,136,70.382352941,14.113329042,98.0,3.0,,,,,,,,,,,9,2,14,19,6,19,16,19,11,11,10,,,
+UBCV,2021,W,PSYC,315,,002,Childhood and Adolescence,Andrew Baron;Eloise West;Lillian May;Maria Clara Brandao,139,69.388489209,14.013715224,98.0,21.0,,,,,,,,,,,12,8,13,10,20,13,17,10,12,12,12,,,
+UBCV,2021,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron;Raechel Drew,106,67.490566038,15.417519585,93.0,8.0,,,,,,,,,,,12,4,9,13,13,13,3,15,13,6,5,,,
+UBCV,2021,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron;Raechel Drew,97,69.804123711,15.124923674,91.0,0.0,,,,,,,,,,,4,7,7,9,4,13,16,13,14,8,2,,,
+UBCV,2021,W,PSYC,413,,99A,Social and Personality Development,Andrew Baron;Anthea Pun,104,76.759615385,11.959880501,93.0,15.0,,,,,,,,,,,3,0,3,3,8,6,16,13,28,16,8,,,
+UBCV,2021,W,PSYC,413,,99C,Social and Personality Development,Andrew Baron;Anthea Pun,78,78.961538462,7.718155872,93.0,59.0,,,,,,,,,,,0,0,1,2,4,7,12,7,27,15,3,,,
+UBCV,2021,S,PSYC,315,,98A,Childhood and Adolescence,Andrew Baron,86,67.9,,91.0,15.0,,,,,,,,,,,6,7,,13,11,12,7,12,9,,,68.5,77.0,61.0
+UBCV,2021,S,PSYC,413,,98A,Social and Personality Development,Andrew Baron,72,74.1,,90.0,0.0,,,,,,,,,,,,,,,,,6,9,14,20,,80.5,85.0,65.8
+UBCV,2021,W,PSYC,315,,99A,Childhood and Adolescence,Andrew Baron,107,67.5,,93.0,8.0,,,,,,,,,,,12,,9,13,14,13,,15,13,6,,68.0,79.0,60.0
+UBCV,2021,W,PSYC,315,,99C,Childhood and Adolescence,Andrew Baron,97,69.8,,91.0,0.0,,,,,,,,,,,,7,7,9,,13,16,13,14,8,,73.0,79.0,63.0
+UBCV,2021,W,PSYC,315,,001,Childhood and Adolescence,Andrew Baron,137,70.4,,98.0,3.0,,,,,,,,,,,9,2,14,19,6,19,17,19,11,11,10,71.0,79.0,61.0
+UBCV,2021,W,PSYC,315,,002,Childhood and Adolescence,Andrew Baron,139,69.5,,98.0,21.0,,,,,,,,,,,12,7,13,10,20,13,18,10,12,12,12,69.0,80.0,61.0
+UBCV,2021,W,PSYC,413,,99A,Social and Personality Development,Andrew Baron,106,76.3,,93.0,0.0,,,,,,,,,,,,,,,9,6,16,13,28,16,8,79.0,84.0,72.0
+UBCV,2021,W,PSYC,413,,99C,Social and Personality Development,Andrew Baron,84,76.5,,93.0,0.0,,,,,,,,,,,,,,,,7,12,7,28,16,,80.0,84.0,73.0
+UBCV,2022,S,PSYC,315,,922,Childhood and Adolescence,Andrew Baron,94,72.5,,95.0,32.0,,,,,,,,,,,7,2,4,9,6,16,8,9,11,14,8,73.0,84.0,66.3
+UBCV,2022,S,PSYC,413,,922,Social and Personality Development,Andrew Baron,74,70.8,,87.0,0.0,,,,,,,,,,,3,4,6,1,9,6,15,12,11,7,0,74.0,79.0,64.3
+UBCV,2022,W,PSYC,315,,001,Childhood and Adolescence,Andrew Baron,144,70.7,,91.0,0.0,,,,,,,,,,,10,8,9,6,17,14,17,24,15,20,4,73.0,80.0,64.0
+UBCV,2022,W,PSYC,315,,002,Childhood and Adolescence,Andrew Baron,145,71.9,,99.0,39.0,,,,,,,,,,,6,6,12,13,16,15,22,15,14,19,7,73.0,80.0,63.0
+UBCV,2022,W,PSYC,315,,991,Childhood and Adolescence,Andrew Baron,106,71.4,,93.0,0.0,,,,,,,,,,,4,8,7,5,11,10,12,17,13,16,3,74.0,80.0,65.0
+UBCV,2022,W,PSYC,315,,992,Childhood and Adolescence,Andrew Baron,107,71.4,,95.0,19.0,,,,,,,,,,,2,8,4,13,16,13,8,11,14,12,6,70.0,81.0,63.5
+UBCV,2022,W,PSYC,413,,991,Social and Personality Development,Andrew Baron,91,74.5,,92.0,0.0,,,,,,,,,,,4,3,0,3,5,11,14,8,23,17,3,78.0,84.0,70.5
+UBCV,2022,W,PSYC,413,,992,Social and Personality Development,Andrew Baron,99,76.5,,95.0,21.0,,,,,,,,,,,3,1,2,6,8,7,9,15,21,23,4,79.0,85.0,70.0
+UBCV,2022,W,PSYC,588,A,001,Special Topics in Social and Personality Development,Andrew Baron,12,91.8,,100.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,11,92.0,94.8,91.5
+UBCV,2023,S,PSYC,315,,922,Childhood and Adolescence,Andrew Baron,105,70.0,,95.0,19.0,,,,,,,,,,,7,1,12,13,10,11,9,5,12,13,5,70.0,82.8,62.0
+UBCV,2023,S,PSYC,413,,922,Social and Personality Development,Andrew Baron,102,77.5,,91.0,11.0,,,,,,,,,,,2,1,3,5,8,6,8,10,22,25,7,82.0,86.0,71.0
+UBCV,2023,W,PSYC,315,,001,Childhood and Adolescence,Andrew Baron,158,71.3,,99.0,18.0,,,,,,,,,,,15,5,8,13,10,11,19,20,18,22,10,74.0,82.0,63.0
+UBCV,2023,W,PSYC,315,,002,Childhood and Adolescence,Andrew Baron,158,66.4,,95.0,16.0,,,,,,,,,,,20,9,18,13,19,12,17,16,9,13,7,67.0,78.0,57.0
+UBCV,2023,W,PSYC,315,,991,Childhood and Adolescence,Andrew Baron,111,72.8,,93.0,19.0,,,,,,,,,,,2,5,9,8,10,9,17,14,21,11,4,75.0,81.0,65.0
+UBCV,2023,W,PSYC,315,,992,Childhood and Adolescence,Andrew Baron,108,71.6,,96.0,30.0,,,,,,,,,,,3,3,6,9,12,20,17,15,11,2,9,72.0,78.0,66.5
+UBCV,2023,W,PSYC,315,,993,Childhood and Adolescence,Andrew Baron,105,72.1,,92.0,41.0,,,,,,,,,,,2,4,2,13,13,15,12,15,12,13,2,73.0,80.0,65.0
+UBCV,2023,W,PSYC,413,,991,Social and Personality Development,Andrew Baron,111,79.1,,100.0,21.0,,,,,,,,,,,3,1,5,4,5,7,3,11,24,23,21,83.0,88.0,72.5
+UBCV,2023,W,PSYC,413,,992,Social and Personality Development,Andrew Baron,108,77.3,,96.0,0.0,,,,,,,,,,,4,3,3,4,2,9,9,16,19,26,12,80.0,86.0,73.5

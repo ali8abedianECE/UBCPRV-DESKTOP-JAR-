@@ -1,0 +1,61 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,SPAN,102,,002,Beginners' Spanish II,Mercedes Duran;Monica Carolina Good;Monica Good,61,77.78688525,12.72283348,99.0,48.0,,,6,,,,6,,10,11,11,,,
+UBCO,2014,W,SPAN,102,,004,Beginners' Spanish II,Mercedes Duran;Monica Carolina Good;Monica Good,24,76.5,13.20408369,100.0,46.0,,,,,,,,,7,,3,,,
+UBCO,2015,W,SPAN,101,,004,Beginners' Spanish I,Diana Carter;Monica Carolina Good;Monica Good,58,77.051724138,21.088304245,100.0,7.0,7,,,,,,7,,7,,23,,,
+UBCO,2015,W,SPAN,101,,006,Beginners' Spanish I,Mercedes Duran;Monica Carolina Good;Monica Good,57,73.596491228,14.060912957,95.0,38.0,,5,6,,,7,,,9,7,8,,,
+UBCO,2015,W,SPAN,102,,002,Beginners' Spanish II,Diana Carter;Monica Carolina Good;Monica Good,50,77.1,20.351252281,98.0,7.0,,,,,,,6,,,5,19,,,
+UBCO,2015,W,SPAN,102,,004,Beginners' Spanish II,Mercedes Duran;Monica Carolina Good;Monica Good,34,77.617647059,19.004010272,97.0,25.0,,,,,,,,,,5,11,,,
+UBCO,2016,W,SPAN,101,,001,Beginners' Spanish I,Diana Carter;Himayini Sharma;Monica Good,32,76.3125,18.91140209,98.0,25.0,3,2,0,0,5,2,2,1,4,2,11,,,
+UBCO,2016,W,SPAN,101,,002,Beginners' Spanish I,Brandon Currie;Diana Carter;Monica Good,39,73.8974359,13.9902125,100.0,50.0,0,5,1,4,2,6,4,3,4,1,9,,,
+UBCO,2016,W,SPAN,101,,004,Beginners' Spanish I,Cristina Senn;Hoi Pan Cheng;Monica Good,33,78.90909091,20.09254158,100.0,7.0,1,1,2,3,2,2,1,0,3,6,12,,,
+UBCO,2016,W,SPAN,102,,001,Beginners' Spanish II,Diana Carter;Hoi Pan Cheng;Monica Good,31,70.38709677,23.48145001,98.0,5.0,3,4,0,3,1,0,3,3,3,5,6,,,
+UBCO,2016,W,SPAN,102,,002,Beginners' Spanish II,Brandon Currie;Diana Carter;Monica Good,38,77.34210526,13.58909801,100.0,50.0,0,4,0,2,2,3,4,6,5,3,9,,,
+UBCO,2016,W,SPAN,102,,004,Beginners' Spanish II,Cristina Senn;Karina Rosero;Monica Good,32,74.84375,18.18207088,99.0,13.0,1,3,1,1,2,5,2,4,2,3,8,,,
+UBCO,2016,W,SPAN,201,,001,Intermediate Spanish I,Diana Carter;Monica Carolina Good;Monica Good,38,70.44736842,17.68293936,100.0,23.0,4,3,3,4,2,2,5,3,3,1,8,,,
+UBCO,2016,W,SPAN,201,,003,Intermediate Spanish I,Cristina Senn;Monica Carolina Good;Monica Good,28,77.03571429,15.89894509,98.0,26.0,1,0,1,3,2,1,3,4,3,2,8,,,
+UBCO,2016,W,SPAN,202,,002,Intermediate Spanish II,Cristina Senn;Monica Carolina Good;Monica Good,39,77.64102564,15.60615125,100.0,50.0,0,3,2,4,2,1,6,0,6,3,12,,,
+UBCO,2017,W,SPAN,101,,001,Beginners' Spanish I,Arianna Ormrod;Diana Carter;Monica Good,39,78.333333333,15.294191077,100.0,38.0,2,3,1,0,1,1,2,6,8,5,10,,,
+UBCO,2017,W,SPAN,101,,002,Beginners' Spanish I,Cristina Senn;Monica Good;Rebecca Sasso Annunziata,38,79.710526316,16.281157896,96.0,7.0,1,0,3,0,0,4,3,3,7,5,12,,,
+UBCO,2017,W,SPAN,101,,004,Beginners' Spanish I,Cristina Senn;Monica Good;Rebecca Sasso Annunziata,39,80.051282051,17.992613569,100.0,6.0,1,1,2,1,5,2,1,2,4,5,15,,,
+UBCO,2017,W,SPAN,101,,005,Beginners' Spanish I,Cristina Senn;Monica Good;Rebecca Sasso Annunziata,38,75.947368421,15.374509209,99.0,28.0,1,2,3,2,2,4,3,2,4,8,7,,,
+UBCO,2017,W,SPAN,102,,001,Beginners' Spanish II,Diana Carter;Monica Good,24,73.375,12.846290278,95.0,50.0,0,3,1,1,2,3,3,2,4,3,2,,,
+UBCO,2017,W,SPAN,102,,002,Beginners' Spanish II,Arianna Ormrod;Diana Carter;Monica Good,40,72.325,14.369461029,98.0,43.0,2,3,4,2,3,2,7,3,4,5,5,,,
+UBCO,2017,W,SPAN,102,,004,Beginners' Spanish II,Cristina Senn;Monica Good;Rebecca Sasso Annunziata,37,71.810810811,15.244011279,96.0,28.0,1,3,3,5,3,3,2,2,6,5,4,,,
+UBCO,2017,W,SPAN,201,,001,Intermediate Spanish I,Diana Carter;Monica Carolina Good;Monica Good,38,75.236842105,17.8680361,98.0,9.0,2,2,1,2,3,2,4,5,5,3,9,,,
+UBCO,2017,W,SPAN,201,,002,Intermediate Spanish I,Diana Carter;Monica Carolina Good;Monica Good,40,77.675,12.888849285,100.0,51.0,0,3,0,3,3,4,3,5,6,5,8,,,
+UBCO,2017,W,SPAN,202,,003,Intermediate Spanish II,Cristina Senn;Monica Carolina Good;Monica Good,39,81.461538462,13.64174351,100.0,28.0,1,1,0,1,0,3,2,3,9,9,10,,,
+UBCO,2018,W,SPAN,101,,001,Beginners' Spanish I,Luis Freire;Monica Good,34,82.588235294,14.539637874,99.0,47.0,1,1,0,3,2,0,1,5,1,6,14,,,
+UBCO,2018,W,SPAN,101,,002,Beginners' Spanish I,Luis Freire;Monica Good,40,82.425,13.662389887,98.0,24.0,1,0,1,1,1,2,2,3,7,7,15,,,
+UBCO,2018,W,SPAN,101,,004,Beginners' Spanish I,Monica Good;Selena Clark,36,82.5,9.819805061,98.0,53.0,0,1,0,0,1,3,2,8,5,5,11,,,
+UBCO,2018,W,SPAN,102,,004,Beginners' Spanish II,Monica Good;Selena Clark,39,79.051282051,11.740502809,98.0,54.0,0,1,2,1,1,6,3,5,7,5,8,,,
+UBCO,2018,W,SPAN,202,,003,Advanced Beginners' Spanish II,Denica Parashkevova;Monica Good,40,81.975,14.066668186,96.0,21.0,2,0,0,1,0,2,1,5,8,9,12,,,
+UBCO,2019,W,SPAN,101,,006,Beginners' Spanish I,Monica Good,31,84.580645161,10.311075578,99.0,54.0,0,1,0,0,2,0,2,3,5,6,12,,,
+UBCO,2019,W,SPAN,102,,001,Beginners' Spanish II,Monica Good;Rebecca Sasso Annunziata,28,80.714285714,10.080627343,95.0,52.0,0,1,0,1,1,1,4,5,3,7,5,,,
+UBCO,2019,W,SPAN,201,,001,Advanced Beginners' Spanish I,Monica Good,34,75.323529412,19.035406545,98.0,0.0,2,0,2,2,2,6,3,1,5,3,8,,,
+UBCO,2019,W,SPAN,201,,004,Advanced Beginners' Spanish I,Monica Good,33,82.363636364,9.195169186,98.0,62.0,0,0,0,1,0,4,2,4,8,4,10,,,
+UBCO,2019,W,SPAN,202,,001,Advanced Beginners' Spanish II,Alexandra Przychodzk;Monica Good;Rebecca Sasso Annunziata,36,76.611111111,10.781671691,97.0,51.0,0,2,0,0,4,4,7,3,9,3,4,,,
+UBCO,2019,W,SPAN,202,,002,Advanced Beginners' Spanish II,Monica Good;Rebecca Sasso Annunziata,35,79.542857143,9.072722068,95.0,63.0,0,0,0,1,4,2,3,10,6,4,5,,,
+UBCO,2020,W,SPAN,201,,002,Advanced Beginners' Spanish I,Monica Good;Nicholas Kucher,38,75.921052632,14.486492458,97.0,34.0,2,1,2,2,1,4,3,9,3,5,6,,,
+UBCO,2020,W,SPAN,201,,004,Advanced Beginners' Spanish I,Carolina Leyton;Monica Good,31,75.709677419,13.740920756,96.0,45.0,1,2,2,2,1,2,6,1,4,4,6,,,
+UBCO,2020,W,SPAN,202,,002,Advanced Beginners' Spanish II,Carolina Leyton;Monica Good,36,77.527777778,11.190521783,98.0,55.0,0,0,2,2,3,7,2,3,6,5,6,,,
+UBCO,2020,W,SPAN,380,A,001,Selected Studies in Spanish,Monica Good,17,90.117647059,8.328282783,98.0,66.0,0,0,0,0,1,0,0,1,0,4,11,,,
+UBCO,2021,W,SPAN,201,,001,Advanced Beginners' Spanish I,Maria Novoa Vignau;Monica Good,30,81.5,11.956097853,96.0,51.0,0,2,0,0,1,3,2,2,6,6,8,,,
+UBCO,2021,W,SPAN,201,,003,Advanced Beginners' Spanish I,Maria Novoa Vignau;Monica Good,24,77.166666667,19.566312369,97.0,8.0,1,1,0,3,0,3,1,2,1,2,10,,,
+UBCO,2021,W,SPAN,202,,003,Advanced Beginners' Spanish II,Fatima Canales Gonzalez;Monica Good,30,78.066666667,11.129127156,95.0,55.0,0,0,2,1,2,4,4,2,7,2,6,,,
+UBCO,2021,W,SPAN,425,,001,Translation from English to Spanish,Monica Good,14,91.0,5.697502827,98.0,79.0,0,0,0,0,0,0,0,1,1,3,9,,,
+UBCO,2021,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,23,88.173913043,10.810988408,100.0,66.0,0,0,0,0,1,1,3,0,2,4,12,,,
+UBCO,2021,W,SPAN,201,,001,Advanced Beginners' Spanish I,Monica Good,30,81.5,,96.0,51.0,,,,,,,,,6,6,8,83.0,89.8,74.8
+UBCO,2021,W,SPAN,201,,003,Advanced Beginners' Spanish I,Monica Good,24,77.2,,97.0,8.0,,,,,,,,,,,10,83.5,91.0,68.8
+UBCO,2021,W,SPAN,202,,003,Advanced Beginners' Spanish II,Monica Good,30,78.1,,95.0,55.0,,,,,,,,,7,,6,79.0,86.3,70.3
+UBCO,2021,W,SPAN,425,,001,Translation from English to Spanish,Monica Good,14,91.0,,98.0,79.0,,,,,,,,,,,9,93.0,94.8,88.0
+UBCO,2021,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,23,88.2,,100.0,66.0,,,,,,,,,,,12,91.0,98.0,82.5
+UBCO,2022,W,SPAN,201,,001,Advanced Beginners' Spanish I,Monica Good,19,82.8,,99.0,60.0,0,0,0,1,0,1,2,3,5,1,6,82.0,91.0,76.0
+UBCO,2022,W,SPAN,201,,002,Advanced Beginners' Spanish I,Monica Good,30,77.2,,95.0,44.0,1,0,0,0,3,5,4,3,7,3,4,78.5,84.0,70.0
+UBCO,2022,W,SPAN,202,,003,Advanced Beginners' Spanish II,Monica Good,15,81.1,,97.0,65.0,0,0,0,0,1,1,3,2,3,3,2,81.0,88.0,75.0
+UBCO,2022,W,SPAN,419,,001,Introduction to Translation and Interpretation from Spanish to English,Monica Good,12,84.6,,93.0,74.0,0,0,0,0,0,0,2,1,2,3,4,85.0,92.0,80.5
+UBCO,2022,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,17,87.7,,100.0,69.0,0,0,0,0,0,2,0,0,4,4,7,88.0,95.0,82.0
+UBCO,2023,S,WRLD,399,O,001,Special Topics in World Literatures,Monica Good,10,96.4,,100.0,83.0,0,0,0,0,0,0,0,0,1,1,8,100.0,100.0,95.75
+UBCO,2023,W,SPAN,401,,001,Advanced Spanish I,Monica Good,15,86.2,,98.0,70.0,0,0,0,0,0,1,0,4,3,0,7,84.0,95.5,78.5
+UBCO,2023,W,SPAN,402,,001,Advanced Spanish II,Monica Good,12,87.42,,97.0,69.0,0,0,0,0,0,1,0,0,3,3,5,86.0,95.25,82.75
+UBCO,2023,W,SPAN,427,,001,Interpretation Skills,Monica Good,11,91.73,,99.0,70.0,0,0,0,0,0,1,0,0,0,3,7,96.0,97.0,87.5
+UBCO,2023,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,19,88.7,,100.0,66.0,0,0,0,0,1,2,1,0,2,0,13,92.0,97.5,81.0

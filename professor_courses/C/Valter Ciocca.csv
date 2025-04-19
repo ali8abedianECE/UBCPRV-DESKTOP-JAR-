@@ -1,0 +1,98 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,AUDI,580,,001,SP PERCEP&HEAR,"Ciocca, Valter",10,85.6,3.84,90,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,2,,,
+UBC,2009,W,AUDI,514,,001,HEARING SCI I,"Ciocca, Valter;Stapells, David",37,82.7,6.31,93,68,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,9,12,6,,,
+UBC,2009,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",10,89.67,5.87,94,77,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,,,
+UBC,2010,W,AUDI,513,,001,ACOUS & ART PHON,"Ayyad, Hadeel;Bacsfalvi, Penelope;Ciocca, Valter",13,85,2.13,88,80,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,0,,,
+UBC,2010,W,AUDI,514,,001,HEARING SCI I,"Ciocca, Valter;Stapells, David",35,82.37,7.3,93,64,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,11,10,6,,,
+UBC,2010,W,AUDI,524,,001,DISORD SP PROD,"Avery, Lisa Ann;Ciocca, Valter;Rammage, Linda",24,85.96,2.48,90,81,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,16,2,,,
+UBC,2010,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",13,89.62,3.33,93,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,,,
+UBC,2011,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",12,85.5,7.04,94,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,4,,,
+UBC,2011,W,AUDI,514,,001,HEARING SCI I,"Ciocca, Valter;Stapells, David",11,85.64,12.02,98,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,1,6,,,
+UBC,2011,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Stapells, David",22,83.82,8.95,97,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4,4,8,,,
+UBC,2011,W,AUDI,524,,001,DISORD SP PROD,"Avery, Lisa Ann;Ciocca, Valter;Rammage, Linda",23,84.43,2.41,89,77,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,11,0,,,
+UBC,2011,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",13,83.46,3.36,88,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,0,,,
+UBC,2011,W,AUDI,583,,001,ADV SPEECH SCIE,"Bernhardt, Barbara;Ciocca, Valter;Rammage, Linda;Small, Jeff",23,87.83,3.74,94,80,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,9,,,
+UBC,2012,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",10,85.4,4.6,90,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,3,,,
+UBC,2012,W,AUDI,514,,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",11,88.4,4.38,93,82,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,,,
+UBC,2012,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,79.96,5.09,88,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,12,4,0,,,
+UBC,2012,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,79.96,5.09,88,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,12,4,0,,,
+UBC,2012,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",10,86.6,2.12,90,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,1,,,
+UBC,2013,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",12,80.33,4.79,88,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,3,0,,,
+UBC,2013,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,82.75,5.53,90,68,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,6,11,1,,,
+UBC,2013,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",15,89.57,4.11,95,80,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,,,
+UBC,2013,W,AUDI,530,B,001,RESEARCH METHODS,"Ciocca, Valter",9,81.67,2.78,87,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,,,
+UBC,2013,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",12,81.92,2.71,85,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,4,0,,,
+UBC,2014,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",11,82.64,4.65,90,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,1,,,
+UBC,2014,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",22,83.86,6.16,92,72,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,8,5,,,
+UBC,2014,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,83.42,7.87,93,66,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,4,3,,,
+UBC,2014,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",11,85.45,2.77,90,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,2,,,
+UBC,2015,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",12,82.17,3.41,88,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,0,,,
+UBC,2015,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",30,83.03,4.72,91,71,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,11,13,1,,,
+UBC,2015,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,85.83,3.24,90,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,2,,,
+UBC,2015,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",12,83.5,2.94,89,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,,,
+UBC,2016,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",12,83.42,4.42,91,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,4,1,,,
+UBC,2016,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",37,80,3.66,90,74,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,19,3,1,,,
+UBC,2016,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",14,82.93,4.41,90,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,6,1,,,
+UBC,2016,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",12,84.58,2.47,88,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,0,,,
+UBC,2018,W,AUDI,513,,001,ACOUS & ART PHON,"Bacsfalvi, Penelope;Ciocca, Valter",12,85.25,3.39,92,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,1,,,
+UBC,2018,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",37,87.14,3.95,94,80,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,14,,,
+UBC,2018,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,83.17,6.32,91,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,4,,,
+UBC,2018,W,AUDI,540,,002,FIRST NATIONS,"Ciocca, Valter",49,89.67,3.8,98,82,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,24,24,,,
+UBC,2018,W,AUDI,550,A,001,ADV TPCS AUDI,"Ciocca, Valter",12,88.08,2.39,93,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,,,
+UBC,2018,W,AUDI,583,,001,ADV SPEECH SCIE,"Ciocca, Valter;Mason, Glenda;Rammage, Linda",36,90.97,2.52,95,85,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,27,,,
+UBCV,2014,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,11,82.63636364,4.653444472,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2014,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,22,83.86363636,6.158969105,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,8,5,,,
+UBCV,2014,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,83.41666667,7.867751594,93.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2014,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,11,85.45454546,2.769968822,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,5,,,,
+UBCV,2015,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,12,82.166666667,3.406766885,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,7,,0,,,
+UBCV,2015,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,30,83.033333333,4.715954822,91.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,11,13,,,,
+UBCV,2015,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,85.833333333,3.242707436,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,,,,
+UBCV,2015,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,12,83.5,2.938769068,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,5,0,,,
+UBCV,2016,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,12,83.41666667,4.420167281,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,6,4,1,,,
+UBCV,2016,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,80.0,3.664501525,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,7,19,3,1,,,
+UBCV,2016,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,14,82.92857143,4.410900583,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,5,6,1,,,
+UBCV,2016,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,12,84.58333333,2.466441431,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,0,,,
+UBCV,2017,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,12,80.75,7.411600244,89.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,1,6,3,0,,,
+UBCV,2017,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,85.361111111,6.279912546,97.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,1,11,12,9,,,
+UBCV,2017,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,85.272727273,8.462752615,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,4,3,3,,,
+UBCV,2017,W,AUDI,550,A,001,Advanced Topics in Audiology,Li Qi;Valter Ciocca,12,87.0,4.512608599,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,3,,,
+UBCV,2018,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,12,85.25,3.387812381,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,7,1,,,
+UBCV,2018,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,37,87.135135135,3.952229766,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,15,14,,,
+UBCV,2018,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,83.166666667,6.322159202,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,3,1,4,,,
+UBCV,2018,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M���tis or Inuit Heritage",Valter Ciocca,49,89.673469388,3.804535424,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,24,24,,,
+UBCV,2018,W,AUDI,550,A,001,Advanced Topics in Audiology,Li Qi;Valter Ciocca,12,88.083333333,2.391588796,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,4,,,
+UBCV,2018,W,AUDI,583,,001,Advanced Speech Science,Glenda Mason;Jeff Small;Linda Rammage;Valter Ciocca,36,90.972222222,2.524011672,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,27,,,
+UBCV,2019,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Penelope Bacsfalvi;Valter Ciocca,11,88.818181818,1.887759615,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,6,,,
+UBCV,2019,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,84.25,4.311943546,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,12,15,4,,,
+UBCV,2019,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,86.545454545,4.058660773,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,3,,,
+UBCV,2019,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M���tis or Inuit Heritage",Valter Ciocca,47,91.680851064,2.246798524,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,41,,,
+UBCV,2019,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,11,88.454545455,1.694912173,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,3,,,
+UBCV,2019,W,AUDI,583,,001,Advanced Speech Science,Glenda Mason;Linda Rammage;Valter Ciocca,37,90.324324324,3.6897309,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,12,22,,,
+UBCV,2020,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Alexis Black;Penelope Bacsfalvi;Valter Ciocca,11,91.363636364,3.931226966,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,7,,,
+UBCV,2020,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,86.027777778,3.996327679,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,12,14,8,,,
+UBCV,2020,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,88.090909091,3.986340313,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,4,,,
+UBCV,2020,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M���tis or Inuit Heritage",Valter Ciocca,46,90.782608696,1.576395938,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,1,,,
+UBCV,2020,W,AUDI,550,A,001,Advanced Topics in Audiology,Alexis Black;Valter Ciocca,11,91.818181818,2.040499048,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCV,2020,W,AUDI,583,,001,Advanced Speech Science,Glenda Mason;Linda Rammage;Valter Ciocca,36,92.083333333,2.781315208,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,29,,,
+UBCV,2021,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Alexis Black;Valter Ciocca,11,89.272727273,3.379080025,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,5,,,
+UBCV,2021,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,89.722222222,4.082094078,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,12,19,,,
+UBCV,2021,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,87.818181818,13.927082838,98.0,47.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,3,7,,,
+UBCV,2021,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M�tis or Inuit Heritage",Valter Ciocca,44,95.068181818,1.662132663,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,43,,,
+UBCV,2021,W,AUDI,550,A,001,Advanced Topics in Audiology,Alexis Black;Valter Ciocca,10,93.1,2.514402955,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2021,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Alexis Black;Valter Ciocca,11,89.3,,94.0,83.0,,,,,,,,,,,,,,,,,,,,,,89.0,92.0,87.0
+UBCV,2021,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,36,89.7,,98.0,82.0,,,,,,,,,,,,,,,,,,,,12,19,90.0,93.0,87.0
+UBCV,2021,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,11,87.8,,98.0,47.0,,,,,,,,,,,,,,,,,,,,,7,91.0,93.0,88.5
+UBCV,2021,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M�tis or Inuit Heritage",Valter Ciocca,44,95.1,,99.0,89.0,,,,,,,,,,,,,,,,,,,,,43,95.0,96.0,94.0
+UBCV,2021,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,10,93.1,,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,93.5,95.0,90.5
+UBCV,2021,W,AUDI,583,,001,Advanced Speech Science,Valter Ciocca;Glenda Mason;Linda Rammage,36,87.5,,92.0,80.0,,,,,,,,,,,,,,,,,,,,23,8,88.0,89.0,86.0
+UBCV,2022,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,35,87.8,,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,16,12,88.0,92.0,85.0
+UBCV,2022,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,12,89.8,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,6,89.5,92.0,87.8
+UBCV,2022,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, M���tis or Inuit Heritage",Valter Ciocca,46,92.6,,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,44,93.0,93.8,92.0
+UBCV,2022,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,13,91.8,,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,92.0,93.0,91.0
+UBCV,2022,W,AUDI,583,,001,Advanced Speech Science,Valter Ciocca;Glenda Mason;Linda Rammage;Alanna Turner,36,90.0,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,13,21,90.0,92.0,88.0
+UBCV,2023,W,AUDI,513,,001,Acoustic and Articulatory Phonetics,Stephanie Chung;Valter Ciocca,12,88.5,,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,3,6,89.5,94.0,86.0
+UBCV,2023,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,38,86.92,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,22,7,87.0,89.0,85.0
+UBCV,2023,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,12,88.92,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,6,89.0,92.5,85.75
+UBCV,2023,W,AUDI,540,,002,"Approaches to Audiology and Speech-Language Pathology for People of First Nations, Mtis or Inuit Heritage",Valter Ciocca,48,93.08,,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,47,93.0,94.0,92.0
+UBCV,2023,W,AUDI,550,A,001,Advanced Topics in Audiology,Valter Ciocca,12,91.0,,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,9,92.0,93.0,90.5
+UBCV,2023,W,AUDI,583,,001,Advanced Speech Science,Valter Ciocca;Glenda Mason;Dinusha Peiris,38,90.74,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,29,91.0,92.0,90.0

@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,45,69.0,21.15956693,100.0,0.0,5,,,5,,5,,,,,9,,,
+UBCO,2014,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,18,71.33333333,18.49960254,95.0,19.0,,,,,,,,,,5,,,,
+UBCO,2014,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,26,74.57692308,19.78114876,93.0,0.0,,,,,,,,,,6,,,,
+UBCO,2015,W,PHIL,220,,001,Symbolic Logic I,Josef Zagrodney;Wolfgang Holger Andreas,26,71.269230769,19.77585941,98.0,24.0,,,,,,,,,,,6,,,
+UBCO,2015,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,19,63.684210526,26.570770556,96.0,0.0,,,,,,,,,,,,,,
+UBCO,2015,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,28,76.035714286,18.464143716,100.0,28.0,,,,,,,,,,,9,,,
+UBCO,2015,W,PHIL,469,,001,Topics in Philosophy of Science,Wolfgang Holger Andreas,9,81.333333333,14.688430822,97.0,58.0,0,0,,,,,,,,,,,,
+UBCO,2016,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,32,64.71875,24.4437925,100.0,10.0,8,2,0,4,3,3,1,1,1,4,5,,,
+UBCO,2016,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,10,65.6,22.55462505,93.0,25.0,2,1,1,0,1,1,0,0,1,2,1,,,
+UBCO,2016,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,23,76.30434783,15.25967587,100.0,40.0,1,1,1,1,2,3,1,3,2,3,5,,,
+UBCO,2016,W,PHIL,469,,001,Topics in Philosophy of Science,Wolfgang Holger Andreas,11,68.45454546,31.97925464,100.0,0.0,2,2,0,0,2,0,0,0,1,0,4,,,
+UBCO,2017,W,MATH,460,E,001,Special Topics in Mathematics,Wolfgang Holger Andreas,11,70.454545455,22.584789733,91.0,7.0,1,0,0,1,0,2,1,2,2,1,1,,,
+UBCO,2017,W,PHIL,220,,101,Symbolic Logic I,Wolfgang Holger Andreas,31,78.677419355,19.722047049,100.0,19.0,2,1,1,0,1,3,3,0,4,5,11,,,
+UBCO,2017,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,22,77.681818182,16.582797638,98.0,29.0,1,0,1,2,3,0,2,1,3,3,6,,,
+UBCO,2017,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,16,74.3125,14.022452234,100.0,55.0,0,0,3,1,3,1,1,0,2,2,3,,,
+UBCO,2018,W,PHIL,220,,001,Symbolic Logic I,Stefaniia Mikhailova;Wolfgang Holger Andreas,24,76.375,15.955951595,99.0,43.0,1,2,1,1,2,1,1,3,2,5,5,,,
+UBCO,2018,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas,22,69.5,21.362517241,98.0,0.0,1,2,2,3,3,1,2,1,2,1,4,,,
+UBCO,2018,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,29,80.482758621,16.597376492,98.0,39.0,1,2,1,2,1,1,1,0,2,8,10,,,
+UBCO,2019,W,MATH,460,E,101,Special Topics in Mathematics,Wolfgang Holger Andreas,6,73.833333333,17.186234802,90.0,50.0,0,2,0,0,0,0,0,0,3,0,1,,,
+UBCO,2019,W,PHIL,220,,001,Symbolic Logic I,Lisa Remedios;Wolfgang Holger Andreas,44,75.159090909,18.867892232,99.0,37.0,4,5,2,2,4,2,1,2,3,6,13,,,
+UBCO,2019,W,PHIL,245,,101,Introduction to Metaphysics,Lisa Remedios;Wolfgang Holger Andreas,25,70.44,16.426807359,97.0,29.0,1,2,1,5,3,2,2,2,1,2,4,,,
+UBCO,2019,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,33,77.696969697,13.305273505,98.0,50.0,0,3,1,2,2,1,2,3,8,6,5,,,
+UBCO,2020,W,PHIL,220,,001,Symbolic Logic I,Alexandre Korolev;Wolfgang Holger Andreas,55,71.690909091,19.207321836,98.0,0.0,3,2,3,6,5,1,9,5,11,4,6,,,
+UBCO,2020,W,PHIL,245,,101,Introduction to Metaphysics,Emma Mcnamar;Thomas Ryder;Wolfgang Holger Andreas,15,76.733333333,12.509805678,94.0,58.0,0,0,1,2,2,1,1,1,2,1,4,,,
+UBCO,2021,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,46,71.347826087,18.624019606,97.0,20.0,7,2,2,2,2,3,5,6,3,6,8,,,
+UBCO,2021,W,PHIL,245,,101,Introduction to Metaphysics,Fawad Ahmad;Thomas Ryder;Wolfgang Holger Andreas,29,72.965517241,18.323448597,100.0,20.0,3,3,0,1,1,2,2,4,6,4,3,,,
+UBCO,2021,W,PHIL,418,G,101,Topics in 20th-Century Philosophy,Wolfgang Holger Andreas,8,84.25,13.551489112,99.0,66.0,0,0,0,0,1,1,1,0,1,0,4,,,
+UBCO,2021,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,14,74.357142857,20.757230966,93.0,29.0,2,1,1,0,0,0,1,1,2,1,5,,,
+UBCO,2021,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,46,71.3,,97.0,20.0,7,,,,,,,6,,6,8,75.0,85.8,63.0
+UBCO,2021,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas,29,73.0,,100.0,20.0,,,,,,,,,6,,,78.0,84.0,64.0
+UBCO,2021,W,PHIL,418,G,101,Topics in 20th-Century Philosophy,Wolfgang Holger Andreas,8,84.3,,99.0,66.0,,,,,,,,,,,,88.0,95.0,71.8
+UBCO,2021,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,14,74.4,,93.0,29.0,,,,,,,,,,,,83.5,90.0,60.0
+UBCO,2022,W,PHIL,220,,101,Symbolic Logic I,Wolfgang Holger Andreas;Phil Smolenski,48,79.5,,100.0,16.0,2,5,4,0,2,0,3,0,5,9,18,85.0,93.0,67.0
+UBCO,2022,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas;Phil Smolenski,44,74.4,,97.0,0.0,4,3,0,3,2,3,3,2,7,8,9,80.0,88.0,66.5
+UBCO,2022,W,PHIL,460,,101,Philosophy of Science,Wolfgang Holger Andreas;Phil Smolenski,34,78.4,,98.0,18.0,2,1,1,1,3,2,3,1,3,5,12,84.5,92.0,70.3
+UBCO,2023,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,28,75.2,,96.0,27.0,2,0,0,4,2,2,0,1,4,2,8,81.0,90.0,65.0
+UBCO,2023,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,31,67.1,,99.0,0.0,4,4,1,2,2,2,2,0,4,2,6,71.0,85.0,53.0

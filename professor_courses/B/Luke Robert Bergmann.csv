@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,GEOB,472,,201,RES CARTOGRAPHY,"Bergmann, Luke Robert",23,74.3,15.19,95,19,22,1,0,0,0,0,1,0,0,0,1,0,0,1,3,3,6,2,1,3,3,,,
+UBCV,2018,W,GEOB,472,,201,Research in Cartography,Luke Robert Bergmann,23,74.304347826,15.191010448,95.0,19.0,,,,,,,,,,,1,0,0,1,3,3,6,2,1,3,3,,,
+UBCV,2019,W,GEOB,370,,201,Advanced Geographic Information Science,Adrian Dwiputra;Luke Robert Bergmann,38,75.105263158,11.327530381,94.0,49.0,,,,,,,,,,,1,1,1,4,3,2,4,8,6,5,3,,,
+UBCV,2019,W,GEOB,472,,201,Research in Cartography,Luke Robert Bergmann,23,81.47826087,6.20021675,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,4,1,7,7,2,,,
+UBCV,2020,W,GEOB,370,,201,Advanced Geographic Information Science,Luke Robert Bergmann;Pedro Gonzalez Espinosa,35,75.228571429,6.868880011,91.0,65.0,,,,,,,,,,,0,0,0,0,4,8,8,7,3,4,1,,,
+UBCV,2020,W,GEOB,472,,201,Research in Cartography,Luke Robert Bergmann,23,77.739130435,9.304043067,89.0,56.0,,,,,,,,,,,0,0,1,1,2,3,1,2,6,7,0,,,
+UBCV,2021,W,GEOS,472,,201,Research in Cartography,Luke Robert Bergmann,22,78.863636364,10.579834613,89.0,42.0,,,,,,,,,,,1,0,0,0,2,0,3,3,6,7,0,,,
+UBCV,2021,W,GEOS,472,,201,Research in Cartography,Luke Robert Bergmann,22,78.9,,89.0,42.0,,,,,,,,,,,,,,,,,,,6,7,,81.0,85.0,75.5
+UBCV,2022,W,GEOS,370,,201,Advanced Geographic Information Science,Luke Robert Bergmann,38,73.1,,87.0,40.0,,,,,,,,,,,2,0,0,4,4,4,5,9,6,4,0,75.5,79.8,67.0
+UBCV,2022,W,GEOS,472,,201,Research in Cartography,Luke Robert Bergmann,12,77.6,,83.0,64.0,,,,,,,,,,,0,0,0,0,1,0,3,1,7,0,0,80.0,81.3,74.8
+UBCV,2023,W,GEOS,370,,201,Advanced Geographic Information Science,Luke Robert Bergmann,57,78.6,,94.0,26.0,,,,,,,,,,,2,0,0,0,1,4,7,13,14,10,4,80.0,84.5,75.5
+UBCV,2023,W,GEOS,472,,201,Research in Cartography,Luke Robert Bergmann,21,76.3,,89.0,24.0,,,,,,,,,,,1,0,0,0,1,1,2,4,7,3,0,80.0,82.5,75.5

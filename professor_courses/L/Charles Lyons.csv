@@ -1,0 +1,80 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,FOPR,359,,101,CABLE MECHANICS,"Lyons, Charles",13,78.54,12.41,94,51,13,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,2,3,1,3
+UBC,2002,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",11,83.27,11.84,99,58,11,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,4,3
+UBC,2003,W,FOPR,359,,101,CABLE MECHANICS,"Lyons, Charles",4,64.33,6.11,71,59,3,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+UBC,2003,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",5,85,4,91,83,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1
+UBC,2003,W,FRST,449,C,201,DIRECTED STUDIES,"Lyons, Charles",8,65.86,14.06,82,43,6,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,2,1,0,0
+UBC,2005,W,FOPR,359,,101,NONLINEAR STRUCT,"Lyons, Charles",8,67.88,28.32,85,0,7,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,2,1,1,2,0
+UBC,2005,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",4,78.25,6.29,84,71,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0
+UBC,2005,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",20,79.15,13.51,95,45,19,1,0,0,0,0,0,0,0,1,1,1,0,1,0,2,1,2,2,5,5
+UBC,2005,W,FRST,449,C,101,DIRECTED STUDIES,"Lyons, Charles",47,60.63,17.65,100,10,36,10,1,0,0,0,1,2,3,4,10,5,3,9,4,4,2,2,4,2,1
+UBC,2006,W,FOPR,359,,101,NONLINEAR STRUCT,"Lyons, Charles",7,74.17,11.07,93,63,6,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,1,0,0,1
+UBC,2006,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",5,79.2,6.8,88,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0
+UBC,2006,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",25,69.17,9.85,88,47,23,1,1,0,0,0,0,0,0,1,1,0,3,4,1,5,5,1,2,2,0
+UBC,2006,W,FRST,449,C,101,DIRECTED STUDIES,"Lyons, Charles",45,63.16,18.45,94,0,35,9,1,0,0,1,0,0,3,5,9,3,4,2,5,7,4,3,2,2,3
+UBC,2007,W,FOPR,359,,101,NONLINEAR STRUCT,"Lyons, Charles",8,64.5,26.7,83,0,7,1,0,0,0,1,0,0,0,0,1,0,0,0,1,3,0,2,1,0,0
+UBC,2007,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",4,78.25,6.24,85,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0
+UBC,2007,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",25,67.75,12.78,87,42,21,3,1,0,0,0,0,0,0,3,3,0,3,0,6,3,1,3,2,3,0
+UBC,2007,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",40,62.18,14.86,89,24,34,5,1,0,0,0,0,2,3,0,5,5,5,0,5,7,7,3,1,1,0
+UBC,2009,W,FOPR,464,,201,FOREST TRAN SYS,"Lyons, Charles",4,64,11.6,75,53,4,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0
+UBC,2009,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",28,66.41,8.04,80,52,27,0,0,0,1,0,0,0,0,0,0,2,2,8,4,1,7,0,3,0,0
+UBC,2009,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",60,60.04,19.23,95,9,47,10,3,0,0,1,0,4,5,0,10,10,9,3,2,5,4,6,3,1,4
+UBC,2010,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",11,76.36,10.33,92,57,11,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,3,2,1,1
+UBC,2010,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",15,76.8,8.99,88,53,15,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,2,3,3,3,0
+UBC,2010,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",69,60.52,19.01,99,4,55,11,1,0,2,2,0,3,1,5,11,14,6,5,7,3,6,5,2,4,3
+UBC,2011,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",4,76,11.58,87,60,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0
+UBC,2011,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",28,74.11,10.09,91,43,27,1,0,0,0,0,0,0,0,1,1,0,1,0,5,1,6,5,6,2,1
+UBC,2011,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",77,61.55,19.41,97,2,60,15,1,0,1,2,0,1,5,7,15,8,9,8,6,4,7,5,4,5,4
+UBC,2012,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",5,72,10.72,79,53,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0
+UBC,2012,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",34,71.79,13.5,90,15,33,1,0,0,0,0,1,0,0,0,1,0,4,2,2,4,8,2,9,1,1
+UBC,2012,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",63,71.66,18.34,97,21,55,6,2,0,0,0,0,3,1,2,6,3,4,5,7,3,4,5,8,2,14
+UBC,2013,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",37,73.84,11.29,95,39,36,1,0,0,0,0,0,0,1,0,1,1,1,1,4,7,7,4,5,4,2
+UBC,2013,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",59,61.81,14.04,88,8,54,4,1,0,0,1,0,1,1,1,4,10,9,6,13,3,4,5,1,3,0
+UBC,2014,W,FOPR,261,,101,BSC GEOMATICS NR,"Lyons, Charles",44,80.51,10.94,98,56,43,0,1,0,0,0,0,0,0,0,0,0,1,0,4,6,4,5,5,5,13
+UBC,2014,W,FOPR,262,,101,FRST ACCSS&TRANS,"Lyons, Charles",41,75.9,15.88,94,4,39,2,0,0,0,1,0,0,0,1,2,1,0,1,4,4,5,2,9,9,4
+UBC,2014,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",7,78.43,8.54,90,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,1,1
+UBC,2014,W,FRST,239,,201,TR STD LEV MEAS,"Lyons, Charles",51,74.49,11.08,97,50,51,0,0,0,0,0,0,0,0,0,0,3,1,4,7,5,6,9,4,8,4
+UBC,2014,W,FRST,452,,101,CST FLD SCHOOL,"Lyons, Charles",27,78.19,7.37,93,67,27,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,7,2,10,3,1
+UBC,2014,W,FRST,452,,201,CST FLD SCHOOL,"Lyons, Charles",10,77.1,6.49,86,67,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,1,0
+UBC,2014,W,MATH,190,,101,CALCULUS SURVEY,"Lyons, Charles",73,81.23,16.54,99,19,65,4,1,0,3,0,1,0,0,3,4,1,4,2,1,4,1,6,6,14,26
+UBC,2015,W,FOPR,264,,101,GEO FRST & TRANS,"Lyons, Charles",59,75.98,9.57,92,54,58,0,1,0,0,0,0,0,0,0,0,1,2,4,2,13,6,7,9,10,4
+UBC,2015,W,FOPR,362,,201,HARVEST SYST&OPS,"Lyons, Charles",20,75.53,6.85,85,65,19,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,3,3,6,1,0
+UBC,2015,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",11,78.91,8.03,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,2,1
+UBC,2015,W,FRST,452,,101,CST FLD SCHOOL,"Lyons, Charles",32,75.56,12.07,94,51,32,0,0,0,0,0,0,0,0,0,0,2,2,3,2,2,1,6,5,7,2
+UBC,2015,W,FRST,452,,201,CST FLD SCHOOL,"Lyons, Charles",47,79.36,9.77,91,50,47,0,0,0,0,0,0,0,0,0,0,2,0,1,3,4,2,6,12,12,5
+UBC,2015,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;De Long, Deborah;Hamelin, Richard;Larson, Bruce;Lyons, Charles;Mitchell, Stephen Jarvis",16,84.53,3.7,89,75,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,8,0
+UBC,2016,W,FOPR,264,,101,GEO FRST & TRANS,"Lyons, Charles",68,74.78,12.29,97,9,66,1,1,0,0,1,0,0,0,0,1,1,1,4,10,5,10,9,14,9,3
+UBC,2016,W,FOPR,362,,201,FRST HRVSTNG SYS,"Lyons, Charles",27,83.73,7.95,96,66,26,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,8,3,8
+UBC,2016,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",7,74.86,5.7,87,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,1,0
+UBC,2016,W,FRST,452,,201,CST FLD SCHOOL,"Lyons, Charles",69,78.68,7.48,92,64,69,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,10,14,13,13,5
+UBC,2016,W,FRST,497,,101,GRADUATING ESSAY,"Lyons, Charles",10,79.7,3.8,87,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,2,0
+UBC,2016,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;De Long, Deborah;Hamelin, Richard;Larson, Bruce;Lyons, Charles;Mitchell, Stephen Jarvis",20,83.8,2.73,89,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,7,0
+UBC,2017,W,FOPR,264,,101,GEO FRST & TRANS,"Lyons, Charles",50,69.5,13.53,97,17,49,1,0,0,0,0,1,0,0,0,1,6,4,3,5,8,7,5,4,6,1
+UBC,2017,W,FOPR,362,,201,FRST HRVSTNG SYS,"Lyons, Charles",36,80.43,8.02,96,65,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,7,5,7,5
+UBC,2017,W,FOPR,464,,201,FORSTRY MACHINES,"Lyons, Charles",12,77.5,10,92,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,0,2,2
+UBC,2017,W,FRST,557,,101,STE-LVL LND MGMT,"Carroll, Allan;Hamelin, Richard;Lyons, Charles;Mitchell, Stephen Jarvis;POLINKO, ADAM DAVID",25,84.12,3.7,89,73,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,11,0
+UBCV,2014,W,FOPR,261,,101,Basic Geomatics for Natural Resources,Charles Lyons,43,80.51162791,10.93785931,98.0,56.0,,,,,,,,,,,0,0,,,,6,,5,5,5,13
+UBCV,2014,W,FOPR,262,,101,Forest Access and Transportation,Charles Lyons,41,75.90243902,15.88207304,94.0,4.0,,,,,,,,,,,,,,,,,5,,9,9,
+UBCV,2014,W,FOPR,464,,201,Forestry Machines,Charles Lyons,7,78.42857143,8.541216597,90.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,
+UBCV,2014,W,FRST,239,,201,Tree and Stand Level Measurements,Charles Lyons,51,74.49019608,11.08038366,97.0,50.0,,,,,,,,,,,0,,,,7,5,6,9,,8,
+UBCV,2014,W,FRST,452,,101,Coastal Field School,Charles Lyons,27,78.18518519,7.374785718,93.0,67.0,,,,,,,,,,,0,0,0,0,,,7,,10,,
+UBCV,2014,W,FRST,452,,201,Coastal Field School,Charles Lyons,10,77.1,6.488451279,86.0,67.0,,,,,,,,,,,0,0,0,0,,,2,,3,,0
+UBCV,2014,W,MATH,190,,101,Calculus Survey,Charles Lyons,72,78.30555556,21.50901474,99.0,7.0,,,,,,,,,,,7,,,,,,,6,6,14,26
+UBCV,2015,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",Charles Lyons,58,75.982758621,9.570589781,92.0,54.0,,,,,,,,,,,0,,,,,13,6,7,9,10,
+UBCV,2015,W,FOPR,362,,201,Harvest Systems and Operations Planning,Charles Lyons,19,75.526315789,6.850534619,85.0,65.0,,,,,,,,,,,0,0,0,0,,,,,6,,0
+UBCV,2015,W,FOPR,464,,201,Forestry Machines,Charles Lyons,11,78.909090909,8.030623207,90.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,,
+UBCV,2015,W,FRST,452,,101,Coastal Field School,Charles Lyons,32,75.5625,12.066850085,94.0,51.0,,,,,,,,,,,0,,,,,,,6,5,7,2
+UBCV,2015,W,FRST,452,,201,Coastal Field School,Charles Lyons,47,79.361702128,9.772244484,91.0,50.0,,,,,,,,,,,0,,,,,,,6,12,12,5
+UBCV,2015,W,FRST,557,,101,Site-Level Forest Land Management,Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Richard Hamelin;Stephen Jarvis Mitchell,15,84.533333333,3.700707783,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,6,8,0
+UBCV,2016,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",Charles Lyons,67,74.7761194,12.28798489,97.0,9.0,,,,,,,,,,,1,1,1,4,10,5,10,9,14,9,3
+UBCV,2016,W,FOPR,362,,201,Forest Harvesting Systems,Charles Lyons,26,83.73076923,7.947616963,96.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,3,8,3,8
+UBCV,2016,W,FOPR,464,,201,Forestry Machines,Charles Lyons,7,74.85714286,5.69878851,87.0,71.0,,,,,,,,,,,0,0,0,0,0,3,2,1,0,1,0
+UBCV,2016,W,FRST,452,,201,Coastal Field School,Charles Lyons,69,78.68115942,7.484283049,92.0,64.0,,,,,,,,,,,0,0,0,0,5,9,10,14,13,13,5
+UBCV,2016,W,FRST,497,,101,Graduating Essay or Technical Report,Charles Lyons,10,79.7,3.802046233,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,2,2,0
+UBCV,2016,W,FRST,557,,101,Site-Level Forest Land Management,Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Richard Hamelin;Stephen Jarvis Mitchell,20,83.8,2.726092249,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,7,0
+UBCV,2017,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",Charles Lyons;David Hamilton;Jing (Alice) Miao;Jing Miao,50,69.5,13.530389077,97.0,17.0,,,,,,,,,,,1,6,4,3,5,8,7,5,4,6,1
+UBCV,2017,W,FOPR,362,,201,Forest Harvesting Systems,Charles Lyons,36,80.194444444,8.024318198,96.0,65.0,,,,,,,,,,,0,0,0,0,2,1,9,7,5,7,5
+UBCV,2017,W,FOPR,464,,201,Forestry Machines,Charles Lyons,12,77.5,10.004544422,92.0,60.0,,,,,,,,,,,0,0,0,1,1,1,3,2,0,2,2
+UBCV,2017,W,FRST,452,,201,Coastal Field School,Adam David Polinko;Adam Polinko;Charles Lyons;David Hamilton;Holger Griess;Jing (Alice) Miao;Jing Miao;Kathleen Coupland;Kathleen Dawn Coupland,56,80.75,10.65193111,97.0,58.0,,,,,,,,,,,0,0,1,3,2,9,3,8,8,8,14
+UBCV,2017,W,FRST,557,,101,Site-Level Forest Land Management,Adam David Polinko;Adam Polinko;Allan Carroll;Bruce Larson;Charles Lyons;Deborah De Long;Kathleen Coupland;Kathleen Dawn Coupland;Richard Hamelin;Stephen Jarvis Mitchell,25,84.12,3.700450423,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,12,11,0
+UBCV,2018,W,FRST,452,,201,Coastal Field School,Charles Lyons;David Hamilton;Dominik Roeser;Holger Griess;Kathleen Coupland;Kathleen Dawn Coupland,63,79.666666667,8.721497356,98.0,62.0,,,,,,,,,,,0,0,0,1,3,7,14,9,11,8,10

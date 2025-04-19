@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CIVL,416,,101,ENVIR HYDRAULICS,"Olsthoorn, Jason;Yonemitsu, Noboru",64,75.95,8.03,92,60,63,0,1,0,0,0,0,0,0,0,0,0,0,4,8,6,11,10,12,10,2
+UBCV,2017,W,CIVL,416,,101,Environmental Hydraulics,Jason Olsthoorn;Moutoshi Saha;Noboru Yonemitsu;Seyed Abdolnaser Moosavian,63,75.952380952,8.031045751,92.0,60.0,,,,,,,,,,,0,0,0,4,8,6,11,10,12,10,2
+UBCV,2019,W,CIVL,303,,101,Computational Tools in Civil Engineering,Abhinav Arora;Farah Rawas;Jason Olsthoorn;Michael D Isaacson;Mohamed Kamel;Noboru Yonemitsu;Yahya Nazhat,107,87.785046729,7.489650768,100.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,4,22,23,50

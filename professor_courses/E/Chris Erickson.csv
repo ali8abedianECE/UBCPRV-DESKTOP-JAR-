@@ -1,0 +1,115 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",154,73.5,8.84,88,26,149,2,3,0,0,0,0,1,0,1,2,3,4,5,17,24,27,30,29,10,0
+UBC,2007,W,POLI,361,A,001,INT VIOL&CONTROL,"Erickson, Chris",67,76.26,11.4,93,8,64,1,2,0,0,1,0,0,0,0,1,0,1,3,4,1,15,16,15,4,5
+UBC,2009,W,POLI,100,,001,INTRO TO POLITIC,"Erickson, Chris",143,72.11,12.84,91,0,135,5,3,0,0,2,0,0,0,3,5,3,5,12,11,20,19,25,28,9,3
+UBC,2009,W,POLI,240,,001,CUR POLI THOUGHT,"Erickson, Chris",176,72.49,6.71,85,30,169,2,4,1,0,0,0,0,1,1,2,2,1,5,13,39,62,23,23,1,0
+UBC,2009,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",176,72.78,12.43,97,0,169,6,1,0,0,1,0,1,4,0,6,3,4,7,19,21,31,35,32,7,10
+UBC,2009,W,POLI,341,B,001,CONTMP POLI THRY,"Erickson, Chris",65,74.82,17.91,97,0,57,5,3,0,0,1,1,0,1,2,5,1,2,0,3,5,8,8,8,15,7
+UBC,2009,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",65,72.44,16.78,93,0,59,4,1,1,0,2,0,0,1,1,4,0,3,4,3,3,11,15,13,4,3
+UBC,2010,W,POLI,100,,001,INTRO TO POLITIC,"Erickson, Chris",134,71.06,15.85,92,0,124,10,0,0,0,2,0,3,1,4,10,5,4,12,10,11,25,15,21,14,7
+UBC,2010,W,POLI,100,,004,INTRO TO POLITIC,"Erickson, Chris",82,68.51,12.01,89,29,76,6,0,0,0,0,0,1,3,2,6,2,7,5,10,12,19,7,12,2,0
+UBC,2010,W,POLI,240,,001,CUR POLI THOUGHT,"Erickson, Chris",150,75.02,10.32,92,17,147,2,1,0,0,0,1,0,0,1,2,3,5,6,13,14,18,29,37,17,5
+UBC,2010,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",146,74.59,11.09,92,0,141,2,2,0,0,1,0,1,0,0,2,5,1,7,9,12,24,29,41,12,1
+UBC,2010,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",37,73.44,11.32,91,43,33,1,3,0,0,0,0,0,0,1,1,1,1,2,6,4,4,2,6,4,3
+UBC,2011,S,POLI,373,,951,ETH WLD POL,"Erickson, Chris",53,75.69,16.14,96,0,47,2,3,0,0,1,0,1,0,0,2,0,1,2,3,3,9,3,13,10,3
+UBC,2011,W,POLI,100,,001,INTRO TO POLITIC,"Erickson, Chris",150,70.62,12.13,91,4,140,9,1,0,0,1,0,1,2,5,9,2,10,12,11,20,26,30,21,7,1
+UBC,2011,W,POLI,100,,002,INTRO TO POLITIC,"Erickson, Chris",150,72.89,12.16,91,0,142,5,2,0,0,1,0,1,0,3,5,4,5,8,14,24,22,24,19,18,4
+UBC,2011,W,POLI,100,,003,INTRO TO POLITIC,"Erickson, Chris",175,72.67,14.83,91,0,157,12,5,0,0,2,1,2,1,6,12,3,6,4,11,13,31,23,49,12,5
+UBC,2011,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",37,75.94,7.5,90,58,36,0,1,0,0,0,0,0,0,0,0,0,1,1,2,4,6,10,7,4,1
+UBC,2011,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",62,74.33,12.46,88,0,58,2,2,0,0,1,0,0,0,1,2,0,1,2,3,10,11,12,12,7,0
+UBC,2012,S,POLI,100,,951,INTRO TO POLITIC,"Erickson, Chris",11,78.09,6.79,86,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,4,2,0
+UBC,2012,S,POLI,373,,951,ETH WLD POL,"Erickson, Chris",65,75.15,14.88,94,14,56,4,5,0,0,0,1,0,3,0,4,0,3,1,3,2,7,10,19,9,2
+UBC,2012,W,POLI,100,,002,INTRO TO POLITIC,"Erickson, Chris",147,73.08,11.44,91,24,137,7,3,0,0,0,0,1,3,3,7,3,2,7,13,17,24,27,28,14,2
+UBC,2012,W,POLI,100,,003,INTRO TO POLITIC,"Erickson, Chris",141,77.34,8.59,92,44,135,1,4,0,0,0,0,0,0,1,1,2,3,5,4,13,16,25,39,20,8
+UBC,2012,W,POLI,100,,004,INTRO TO POLITIC,"Erickson, Chris",116,73.62,14.98,91,2,104,5,5,0,0,2,1,0,1,1,5,1,2,6,8,11,13,25,22,10,6
+UBC,2012,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",223,76.04,6.41,91,55,220,0,3,0,0,0,0,0,0,0,0,0,2,4,12,33,47,51,49,19,3
+UBC,2012,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",38,76.95,14.33,91,9,35,2,0,1,0,1,0,0,0,1,2,0,0,0,4,1,3,7,11,8,1
+UBC,2012,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",63,77.55,6.26,89,57,62,0,1,0,0,0,0,0,0,0,0,0,2,0,0,7,10,16,21,6,0
+UBC,2013,S,POLI,373,,921,ETH WLD POL,"Erickson, Chris",54,77.66,9.5,95,47,52,1,1,0,0,0,0,0,0,1,1,2,0,1,2,2,9,8,19,6,3
+UBC,2013,W,POLI,100,,002,INTRO TO POLITIC,"Erickson, Chris",292,70.92,12.4,92,0,274,13,5,0,0,2,0,2,4,5,13,6,18,19,23,47,54,39,48,19,1
+UBC,2013,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",119,72.22,12.51,93,17,112,6,1,0,0,0,1,1,1,3,6,3,4,11,7,16,17,23,18,10,3
+UBC,2013,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",199,73.22,10.64,87,0,194,4,1,0,0,2,0,1,1,0,4,1,5,8,10,34,49,39,41,7,0
+UBC,2013,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",19,68.79,18.66,86,0,18,1,0,0,0,1,0,0,0,0,1,1,0,2,1,3,3,5,2,1,0
+UBC,2013,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",65,77.43,6.62,87,47,64,1,0,0,0,0,0,0,0,1,1,1,0,1,0,2,13,20,24,3,0
+UBC,2013,W,POLI,449,D,001,TPCS POLI THEORY,"Erickson, Chris",15,89.14,4.22,96,78,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,7
+UBC,2014,S,POLI,373,,921,ETH WLD POL,"Erickson, Chris",66,73.85,16.5,94,0,58,2,6,0,0,2,0,0,0,0,2,1,3,0,5,8,7,7,18,6,3
+UBC,2014,S,POLI,449,D,921,TPCS POLI THEORY,"Erickson, Chris",19,73,21.92,96,18,13,1,4,1,0,0,1,0,0,0,1,1,1,1,2,0,1,1,0,2,4
+UBC,2014,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",113,75.49,11.53,95,30,109,2,2,0,0,0,0,0,1,1,2,5,4,6,5,9,16,18,24,16,6
+UBC,2014,W,POLI,100,,228,INTRO TO POLITIC,"Erickson, Chris",82,74.73,8.86,90,52,80,0,2,0,0,0,0,0,0,0,0,3,2,5,3,13,14,12,18,8,2
+UBC,2014,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",195,73.19,8.86,92,33,189,4,2,0,0,0,0,0,1,3,4,2,1,9,25,37,33,27,36,17,2
+UBC,2014,W,POLI,240,,003,CUR POLI THOUGHT,"Erickson, Chris",173,75.38,7.8,90,55,170,0,2,0,0,0,0,0,0,0,0,0,6,7,9,38,16,32,37,24,1
+UBC,2014,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",31,74,13.56,94,34,29,2,0,0,0,0,0,0,2,0,2,1,0,1,4,1,4,3,11,3,1
+UBC,2014,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",73,73.27,13.16,88,0,69,2,0,0,0,1,1,0,0,0,2,0,1,4,2,11,15,19,14,3,0
+UBC,2015,S,POLI,100,,951,INTRO TO POLITIC,"Erickson, Chris",55,77.83,12.7,96,40,46,1,2,0,0,0,0,0,0,1,1,0,3,2,3,7,5,4,4,6,12
+UBC,2015,S,POLI,373,,951,ETH WLD POL,"Erickson, Chris",46,78.51,17.28,95,0,41,2,1,0,0,1,1,0,0,0,2,0,0,0,1,4,2,4,15,11,4
+UBC,2015,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",119,73.05,9.23,90,48,116,1,2,0,0,0,0,0,0,1,1,3,9,5,10,16,23,20,20,8,2
+UBC,2015,W,POLI,100,,228,INTRO TO POLITIC,"Erickson, Chris",93,72.14,8.97,88,21,91,1,1,0,0,0,0,1,0,0,1,1,4,3,12,12,25,20,12,2,0
+UBC,2015,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",139,77.01,6.56,92,57,136,0,3,0,0,0,0,0,0,0,0,0,3,3,3,10,36,27,37,15,2
+UBC,2015,W,POLI,240,,003,CUR POLI THOUGHT,"Erickson, Chris",193,72.77,12.23,88,0,184,5,3,0,0,2,2,0,0,1,5,3,3,11,12,28,43,35,37,12,0
+UBC,2015,W,POLI,342,A,001,MOD POL TH:SELCT,"Erickson, Chris",71,79.36,8.5,89,38,67,2,2,0,0,0,0,0,1,1,2,0,1,0,0,3,7,11,28,17,0
+UBC,2015,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",87,80.48,3.88,88,71,87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,27,34,18,0
+UBC,2016,S,POLI,373,,951,ETH WLD POL,"Erickson, Chris",66,82.43,9.42,96,43,62,1,1,1,0,0,0,0,0,1,1,1,0,1,0,1,5,10,16,17,11
+UBC,2016,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",116,72.41,11.25,97,25,111,3,2,0,0,0,0,1,0,2,3,3,9,8,9,15,19,13,23,9,3
+UBC,2016,W,POLI,100,,228,INTRO TO POLITIC,"Erickson, Chris",78,74.21,15.32,95,0,71,6,1,0,0,1,0,1,1,3,6,1,2,1,3,8,7,17,17,12,3
+UBC,2016,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",198,74.85,8.91,90,24,193,3,0,0,0,0,0,2,1,0,3,4,3,3,11,19,47,43,52,10,1
+UBC,2016,W,POLI,240,,003,CUR POLI THOUGHT,"Erickson, Chris",163,76.63,7.16,91,48,159,2,2,0,0,0,0,0,0,2,2,1,0,3,7,18,35,40,32,22,1
+UBC,2016,W,POLI,373,,001,ETH WLD POL,"Erickson, Chris",75,77.4,7.65,91,45,72,1,2,0,0,0,0,0,0,1,1,0,1,3,0,3,20,18,14,11,2
+UBC,2016,W,POLI,449,A,002,TPCS POLI THEORY,"Erickson, Chris",23,70.48,26.42,95,0,19,4,0,0,0,2,0,0,1,1,4,1,0,0,0,1,3,4,3,2,5
+UBC,2017,S,POLI,373,,921,ETH WLD POL,"Erickson, Chris",56,77.09,14.75,92,0,51,3,1,1,0,1,0,0,1,1,3,0,2,0,0,2,7,11,19,6,4
+UBC,2017,W,POLI,100,,003,INTRO TO POLITIC,"Erickson, Chris",140,72.86,9.74,90,36,137,3,0,0,0,0,0,0,1,2,3,5,8,4,11,14,35,26,22,10,2
+UBC,2017,W,POLI,100,,004,INTRO TO POLITIC,"Erickson, Chris",149,72.84,15.81,91,0,140,7,2,0,0,3,2,0,1,1,7,4,4,4,7,21,22,23,32,21,2
+UBC,2017,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",124,72.39,12.42,90,29,115,7,2,0,0,0,0,2,3,2,7,3,5,8,10,11,13,26,27,11,1
+UBC,2017,W,POLI,100,,228,INTRO TO POLITIC,"Erickson, Chris",91,73.65,12.31,90,16,86,3,2,0,0,0,1,0,0,2,3,3,5,4,3,15,13,6,22,14,1
+UBC,2017,W,POLI,240,,001,CUR POLI THOUGHT,"Erickson, Chris",196,76.81,8.5,95,20,187,4,4,0,0,0,0,1,1,2,4,1,1,3,3,13,43,47,54,20,2
+UBC,2017,W,POLI,449,A,002,TPCS POLI THEORY,"Erickson, Chris",20,82.63,10.91,98,45,18,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,3,4,6,4
+UBC,2018,S,POLI,342,A,921,MOD POL TH:SELCT,"Erickson, Chris",62,79.95,8.72,91,35,61,1,0,0,0,0,0,0,1,0,1,0,0,0,2,4,6,15,13,18,3
+UBC,2018,W,POLI,100,,002,INTRO TO POLITIC,"Erickson, Chris",189,74.87,8.83,90,28,179,3,5,0,1,0,0,1,0,2,3,2,3,9,9,31,29,35,41,17,3
+UBC,2018,W,POLI,100,,004,INTRO TO POLITIC,"Erickson, Chris",140,71.61,14.46,92,0,132,5,2,0,1,2,1,1,1,0,5,4,4,10,15,22,16,20,29,10,2
+UBC,2018,W,POLI,100,,227,INTRO TO POLITIC,"Erickson, Chris",118,71.22,16.54,94,0,106,9,2,0,1,2,2,0,2,3,9,5,4,8,5,8,20,17,22,12,5
+UBC,2018,W,POLI,100,,228,INTRO TO POLITIC,"Erickson, Chris",69,72.09,18.68,90,0,63,5,1,0,0,3,1,0,0,1,5,1,1,5,2,4,9,14,20,6,1
+UBC,2018,W,POLI,240,,002,CUR POLI THOUGHT,"Erickson, Chris",228,74.37,12.93,93,0,213,9,1,0,5,3,1,1,2,2,9,0,3,6,11,20,53,44,53,19,4
+UBC,2018,W,POLI,449,A,002,TPCS POLI THEORY,"Erickson, Chris",21,82.24,8.28,96,68,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1,4,7,3
+UBCV,2014,S,POLI,373,,921,Ethics in World Politics,Chris Erickson,60,73.85,16.49840773,94.0,0.0,,,,,,,,,,,,,,,5,8,7,7,18,6,
+UBCV,2014,S,POLI,449,D,921,Topics in Political Theory,Chris Erickson,14,73.0,21.9194329,96.0,18.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2014,W,POLI,100,,227,Introduction to Politics,Chris Erickson,111,75.48648649,11.52614803,95.0,30.0,,,,,,,,,,,,5,,6,5,9,16,18,24,16,6
+UBCV,2014,W,POLI,100,,228,Introduction to Politics,Chris Erickson,80,74.725,8.860344023,90.0,52.0,,,,,,,,,,,0,,,5,3,13,14,12,18,8,
+UBCV,2014,W,POLI,240,,002,Currents of Political Thought,Chris Erickson,193,73.1865285,8.862751223,92.0,33.0,,,,,,,,,,,,,1,9,25,37,33,27,36,17,
+UBCV,2014,W,POLI,240,,003,Currents of Political Thought,Chris Erickson,171,75.38596491,7.776482766,90.0,55.0,,,,,,,,,,,0,0,6,7,9,38,16,33,37,24,1
+UBCV,2014,W,POLI,342,A,001,Modern Political Theory: Analysis of a Selected Theorist,Chris Erickson,31,74.0,13.55728586,94.0,34.0,,,,,,,,,,,,,,,,,,,11,,
+UBCV,2014,W,POLI,373,,001,Ethics in World Politics,Chris Erickson,73,73.21917808,12.9895755,88.0,0.0,,,,,,,,,,,,,,,,12,16,19,14,,0
+UBCV,2015,S,POLI,100,,951,Introduction to Politics,Chris Erickson,53,77.11320755,12.70321034,96.0,40.0,,,,,,,,,,,,,,,,7,6,5,6,6,12
+UBCV,2015,S,POLI,373,,951,Ethics in World Politics,Chris Erickson,45,78.86666667,16.96868774,95.0,0.0,,,,,,,,,,,,,,,,,,,15,13,
+UBCV,2015,W,POLI,100,,227,Introduction to Politics,Chris Erickson,117,73.051282051,9.234349438,90.0,48.0,,,,,,,,,,,,,9,5,10,16,23,20,20,8,
+UBCV,2015,W,POLI,100,,228,Introduction to Politics,Chris Erickson,92,72.141304348,8.970747971,88.0,21.0,,,,,,,,,,,,,,,12,12,25,20,12,,0
+UBCV,2015,W,POLI,240,,002,Currents of Political Thought,Chris Erickson,136,77.007352941,6.560822355,92.0,57.0,,,,,,,,,,,0,0,,3,3,10,36,27,37,15,
+UBCV,2015,W,POLI,240,,003,Currents of Political Thought,Chris Erickson,190,72.794736842,12.197882273,88.0,0.0,,,,,,,,,,,5,,,11,12,28,43,36,37,12,0
+UBCV,2015,W,POLI,342,A,001,Modern Political Theory: Analysis of a Selected Theorist,Chris Erickson,69,79.362318841,8.504274037,89.0,38.0,,,,,,,,,,,,,,,,,7,11,28,17,0
+UBCV,2015,W,POLI,373,,001,Ethics in World Politics,Chris Erickson,87,80.482758621,3.875570683,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,7,27,34,18,0
+UBCV,2016,S,POLI,373,,951,Ethics in World Politics,Chris Erickson,64,82.359375,9.36451795,96.0,43.0,,,,,,,,,,,1,1,0,1,0,1,5,11,16,17,11
+UBCV,2016,W,POLI,100,,227,Introduction to Politics,Chris Erickson,114,72.4122807,11.24530298,97.0,25.0,,,,,,,,,,,3,3,9,8,9,15,19,13,23,9,3
+UBCV,2016,W,POLI,100,,228,Introduction to Politics,Chris Erickson,77,74.20779221,15.32399019,95.0,0.0,,,,,,,,,,,6,1,2,1,3,8,7,17,17,12,3
+UBCV,2016,W,POLI,240,,002,Currents of Political Thought,Chris Erickson,198,74.82323232,8.86583963,90.0,24.0,,,,,,,,,,,3,4,3,3,11,20,48,43,52,10,1
+UBCV,2016,W,POLI,240,,003,Currents of Political Thought,Chris Erickson,161,76.63354037,7.163003421,91.0,48.0,,,,,,,,,,,2,1,0,3,7,18,35,40,32,22,1
+UBCV,2016,W,POLI,373,,001,Ethics in World Politics,Camille Desmares;Chris Erickson,73,77.39726027,7.65168777,91.0,45.0,,,,,,,,,,,1,0,1,3,0,3,20,18,14,11,2
+UBCV,2016,W,POLI,449,A,002,Topics in Political Theory,Chris Erickson,23,70.47826087,26.42290598,95.0,0.0,,,,,,,,,,,4,1,0,0,0,1,3,4,3,2,5
+UBCV,2017,S,POLI,373,,921,Ethics in World Politics,Chris Erickson,54,77.092592593,14.754939715,92.0,0.0,,,,,,,,,,,3,0,2,0,0,2,7,11,19,6,4
+UBCV,2017,W,POLI,100,,003,Introduction to Politics,Aliya Hai;Barbara Arneil;Chang Pan;Chris Erickson;Morgan Thomas,140,72.857142857,9.736508044,90.0,36.0,,,,,,,,,,,3,5,8,4,11,14,35,26,22,10,2
+UBCV,2017,W,POLI,100,,004,Introduction to Politics,Chris Erickson;Shona Zhang;Timothy Campbell;Yongzheng Li,147,72.836734694,15.810106364,91.0,0.0,,,,,,,,,,,7,4,4,4,7,21,22,23,32,21,2
+UBCV,2017,W,POLI,100,,227,Introduction to Politics,Chris Erickson;Gabrielle Matheson;Shona Zhang;Yongzheng Li,122,72.385245902,12.423948296,90.0,29.0,,,,,,,,,,,7,3,5,8,10,11,13,26,27,11,1
+UBCV,2017,W,POLI,100,,228,Introduction to Politics,Anson Ching;Chris Erickson;Timothy Campbell,89,73.651685393,12.308626985,90.0,16.0,,,,,,,,,,,3,3,5,4,3,15,13,6,22,14,1
+UBCV,2017,W,POLI,240,,001,Currents of Political Thought,Benjamin O'Heran;Chris Erickson;Nojang Khatami;Richie Khatami;Tenzing Tekan Lama,192,76.890625,8.549426093,95.0,20.0,,,,,,,,,,,4,1,1,3,3,13,43,47,54,20,3
+UBCV,2017,W,POLI,449,A,002,Topics in Political Theory,Chris Erickson;Hani Faris,19,82.631578947,10.914875305,98.0,45.0,,,,,,,,,,,1,0,0,0,0,0,1,3,4,6,4
+UBCV,2018,S,POLI,342,A,921,Modern Political Theory: Analysis of a Selected Theorist,Chris Erickson,62,79.951612903,8.72236135,91.0,35.0,,,,,,,,,,,1,0,0,0,2,4,6,15,13,18,3
+UBCV,2018,W,POLI,100,,002,Introduction to Politics,Blazka Felicijan;Bruce Baum;Chang Pan;Chris Erickson;Cole Smith;Kurt Huebner;Maura O'Brien;Rafael Posada;Shona Zhang;Tommy Koh;Yongzheng Li,184,74.766304348,8.93417063,90.0,28.0,,,,,,,,,,,3,3,3,9,9,31,29,36,41,17,3
+UBCV,2018,W,POLI,100,,004,Introduction to Politics,Aliya Hai;Chris Erickson;Isabella Picui,137,72.270072993,13.006504962,92.0,0.0,,,,,,,,,,,4,3,4,10,16,22,16,21,29,10,2
+UBCV,2018,W,POLI,100,,227,Introduction to Politics,Alexandra Lloyd;Blazka Felicijan;Chang Pan;Chris Erickson;Jordan Buffie;Maura O'Brien;Tommy Koh,116,71.456896552,16.291044348,94.0,0.0,,,,,,,,,,,8,5,4,8,5,9,21,17,22,12,5
+UBCV,2018,W,POLI,100,,228,Introduction to Politics,Alexandra Lloyd;Aliya Hai;Chris Erickson;Shona Zhang,68,72.088235294,18.677734605,90.0,0.0,,,,,,,,,,,5,1,1,5,2,4,9,14,20,6,1
+UBCV,2018,W,POLI,240,,002,Currents of Political Thought,Alberto Alcaraz Escarcega;Alexandra Lloyd;Chris Erickson;Cole Smith;Jordan Buffie;Joshua Santeusanio,225,75.28,10.684885854,93.0,0.0,,,,,,,,,,,6,0,4,5,12,20,55,43,56,19,5
+UBCV,2018,W,POLI,449,A,002,Topics in Political Theory,Chris Erickson,21,82.238095238,8.275897304,96.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,1,4,7,3
+UBCV,2019,S,POLI,100,,951,Introduction to Politics,Chris Erickson,46,75.847826087,8.969001905,90.0,50.0,,,,,,,,,,,0,1,1,2,4,7,5,9,8,8,1
+UBCV,2019,W,POLI,100,,002,Introduction to Politics,Chris Erickson;Constant Courtin;Israa Noureddine;Jory Smallenberg;Laurence Claussen;Ritica Ramesh,197,73.954314721,12.125321126,93.0,0.0,,,,,,,,,,,8,2,3,15,13,21,24,40,48,15,8
+UBCV,2019,W,POLI,100,,004,Introduction to Politics,Chris Erickson;Daniel Jacinto;Ely Bahhadi;Hani Faris;Israa Noureddine;Jory Smallenberg;Zarai Toledo Orozco,217,76.824884793,12.08292061,100.0,21.0,,,,,,,,,,,5,4,6,10,11,18,28,36,39,33,27
+UBCV,2019,W,POLI,100,,227,Introduction to Politics,Chris Erickson;Constant Courtin;Elena Plotnikoff;Jory Smallenberg;Ritica Ramesh;Shane Joshua Barter,104,73.298076923,16.628364939,98.0,3.0,,,,,,,,,,,8,3,7,4,0,12,13,13,15,21,8
+UBCV,2019,W,POLI,100,,228,Introduction to Politics,Chris Erickson;Israa Noureddine;Jory Smallenberg;Kyung Ae Park;Ritica Ramesh,66,73.727272727,8.239763728,90.0,48.0,,,,,,,,,,,1,1,1,3,5,13,15,7,15,4,1
+UBCV,2019,W,POLI,240,,002,Currents of Political Thought,Chris Erickson;Elena Plotnikoff;Katherine Alexander;Kun Li;Martina Zago;Renaud Chicoine-Mckenzie,241,77.058091286,7.680382673,91.0,40.0,,,,,,,,,,,1,4,2,5,10,16,47,59,59,33,5
+UBCV,2019,W,POLI,449,A,002,Topics in Political Theory,Chris Erickson;Saira Khan,19,77.368421053,19.009385186,91.0,25.0,,,,,,,,,,,2,0,0,0,0,0,0,4,5,6,2

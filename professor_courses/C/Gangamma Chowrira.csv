@@ -1,0 +1,62 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,BIOL,201,,201,CELL BIOLOGY 2,"Chowrira, Gangamma",257,71.77,12.52,97,35,247,8,1,0,1,0,0,0,1,7,8,16,25,19,26,31,28,25,30,25,22,,,
+UBC,2005,W,BIOL,201,,204,CELL BIOLOGY 2,"Chowrira, Gangamma",205,74.3,11.14,97,43,198,2,3,0,2,0,0,0,0,2,2,8,12,11,21,24,23,26,34,22,17,,,
+UBC,2005,W,BIOL,351,,101,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Guy, Robert;Jolliffe, Peter A;Singh, Santokh",62,79.65,8.08,92,51,62,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,10,5,22,12,5,,,
+UBC,2006,W,AGRO,324,,001,PLNT PHYS,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",11,66.9,10.86,88,50,10,0,1,0,0,0,0,0,0,0,0,1,1,2,2,1,1,1,0,1,0,,,
+UBC,2006,W,BIOL,201,,201,CELL BIOLOGY 2,"Chowrira, Gangamma",254,74.06,13.77,99,29,243,11,0,0,0,0,0,1,1,9,11,5,27,22,20,26,19,14,40,35,35,,,
+UBC,2006,W,BIOL,201,,204,CELL BIOLOGY 2,"Chowrira, Gangamma",197,75.28,12.42,100,34,194,3,0,0,0,0,0,0,2,1,3,5,18,11,14,23,23,12,36,26,26,,,
+UBC,2006,W,BIOL,351,,101,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",54,76.45,8.79,90,57,53,0,0,0,1,0,0,0,0,0,0,0,2,4,3,8,8,3,13,10,2,,,
+UBC,2006,W,BIOL,436,,101,INTEG FUNC GENOM,"Chowrira, Gangamma;Lund, Steven",32,80.34,7.63,92,61,32,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,4,9,7,4,,,
+UBC,2007,W,AGRO,324,,001,PLNT PHYS,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",5,72.6,13.52,85,50,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,,,
+UBC,2007,W,BIOL,201,,203,CELL BIOLOGY 2,"Chowrira, Gangamma;Taylor, Jared",160,75.45,11.16,95,37,156,2,2,0,0,0,0,0,1,1,2,2,13,8,8,15,26,23,27,21,13,,,
+UBC,2007,W,BIOL,351,,201,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",36,73.54,10.38,91,56,35,0,1,0,0,0,0,0,0,0,0,0,4,4,3,2,5,5,7,4,1,,,
+UBC,2007,W,BIOL,436,,101,INTEG FUNC GENOM,"Chowrira, Gangamma",28,79.96,9.17,90,60,27,0,1,0,0,0,0,0,0,0,0,0,0,2,1,2,3,3,1,10,5,,,
+UBC,2009,W,BIOL,200,,101,CELL BIOLOGY 1,"Chowrira, Gangamma;Rosenberg, Ellen",4,,,,,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,BIOL,201,,202,CELL BIOLOGY 2,"Chowrira, Gangamma",213,71.74,12.88,98,32,196,15,0,0,2,0,0,0,3,12,15,4,11,17,22,32,24,13,40,23,10,,,
+UBC,2009,W,BIOL,201,,203,CELL BIOLOGY 2,"Chowrira, Gangamma",181,73.22,11.39,97,34,173,8,0,0,0,0,0,0,2,6,8,1,9,19,16,13,30,18,42,15,10,,,
+UBC,2010,W,BIOL,201,,202,INTRO BIOCHEM,"Chowrira, Gangamma",284,71.61,12.51,98,25,265,12,5,0,2,0,0,1,2,9,12,12,25,17,25,30,47,26,43,28,12,,,
+UBC,2010,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",215,76.36,12.2,98,34,205,6,3,0,1,0,0,0,2,4,6,4,8,10,14,25,25,19,40,35,25,,,
+UBC,2010,W,BIOL,436,,101,INTEG FUNC GENOM,"Chowrira, Gangamma;Lund, Steven",25,77.2,8.88,90,61,25,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,5,2,5,6,1,,,
+UBC,2011,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",221,80.33,9.65,96,55,219,0,1,0,0,0,0,0,0,0,0,0,10,2,11,18,22,29,44,36,47,,,
+UBC,2011,W,BIOL,535,,201,TEACH LIFE SCI,"Chowrira, Gangamma;Nomme, Kathy Margaret;Samuels, Anne Lacey",11,83.89,6.92,92,68,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,,,
+UBC,2012,S,BIOL,201,,951,INTRO BIOCHEM,"Chowrira, Gangamma",87,72.39,11.02,95,36,82,1,3,0,0,0,0,0,1,0,1,2,3,10,14,13,8,7,10,11,4,,,
+UBC,2012,W,BIOL,200,,105,FUND CELL BIO,"Chowrira, Gangamma",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",215,78.02,12.53,97,18,208,5,2,0,0,0,1,0,1,3,5,1,10,10,12,21,22,22,36,30,44,,,
+UBC,2012,W,BIOL,436,,101,INTEG FUNC GENOM,"Chowrira, Gangamma",21,81.57,6.96,92,70,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,5,4,4,,,
+UBC,2013,W,BIOL,112,,103,BIOLOGY OF CELL,"Chowrira, Gangamma",295,73.02,11.62,95,33,273,14,2,0,6,0,0,0,2,12,14,1,18,22,32,31,41,39,43,23,23,,,
+UBC,2013,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",207,79.12,10.85,98,42,200,3,3,0,0,0,0,0,0,3,3,0,7,9,14,18,17,13,46,40,36,,,
+UBC,2014,W,BIOL,112,,104,BIOLOGY OF CELL,"Chowrira, Gangamma",212,72.54,11.39,95,44,198,7,4,0,2,0,0,0,0,7,7,7,14,17,20,23,32,18,34,21,12,,,
+UBC,2014,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",223,78.6,11.09,96,40,214,7,1,0,1,0,0,0,0,7,7,1,5,8,9,14,29,22,56,35,35,,,
+UBC,2015,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",222,76.69,11.18,96,43,214,8,0,0,0,0,0,0,0,8,8,0,7,10,14,27,29,21,48,31,27,,,
+UBC,2015,W,BIOL,535,,201,TEACH LIFE SCI,"Chowrira, Gangamma;Samuels, Anne Lacey",7,88.83,2.86,93,87,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,,,
+UBC,2016,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma",188,78.38,11.43,95,39,183,4,1,0,0,0,0,0,1,3,4,4,3,10,9,14,20,19,35,45,24,,,
+UBC,2018,W,BIOL,112,,104,BIOLOGY OF CELL,"Chowrira, Gangamma",273,74.74,13.53,97,36,251,16,6,0,0,0,0,0,2,14,16,3,23,11,13,31,27,30,43,34,36,,,
+UBC,2018,W,BIOL,201,,203,INTRO BIOCHEM,"Chowrira, Gangamma;Taylor, Jared",180,78.42,11.64,99,40,173,5,1,0,1,0,0,0,0,5,5,2,7,4,10,13,16,18,43,35,25,,,
+UBCV,2014,W,BIOL,112,,104,Biology of the Cell,Gangamma Chowrira,208,71.97596154,12.23736257,95.0,29.0,,,,,,,,,,,10,7,14,17,20,23,32,18,34,21,12,,,
+UBCV,2014,W,BIOL,201,,203,Introduction to Biochemistry,Gangamma Chowrira,222,78.34684685,11.67630791,96.0,23.0,,,,,,,,,,,8,1,5,8,9,14,29,22,56,35,35,,,
+UBCV,2015,W,BIOL,201,,203,Introduction to Biochemistry,Adam Mulvihill;Christina Rose Tysoe;Crisostomo Gomez;Gangamma Chowrira;Marina Mussoi Giacomin;Samuel Livingston;Sishuo Wang;Spencer S Skene-Macdonald;Stephanie Cheung;Yuan Xiong,222,76.689189189,11.175999263,96.0,43.0,,,,,,,,,,,8,0,7,10,14,27,29,21,48,31,27,,,
+UBCV,2015,W,BIOL,535,,201,Teaching and Learning in the Life Sciences,Anne Lacey Samuels;Gangamma Chowrira,6,88.833333333,2.857738033,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2016,W,BIOL,201,,203,Introduction to Biochemistry,Amelia Hunter;Christina Rose Tysoe;Francisco Benitez De La Fuente;Gangamma Chowrira;Le Tam Nhan Nguyen;Nolan Jack Shelley;Nolan Shelley;Rebecca Wai Yin Ko;Sravya Paluri;Stephanie Tran,187,78.37967914,11.42813986,95.0,39.0,,,,,,,,,,,4,4,3,10,9,14,20,19,35,45,24,,,
+UBCV,2018,W,BIOL,112,,104,Biology of the Cell,Gangamma Chowrira;Jennifer Elizabeth Woolcock;Jennifer Woolcock;Jianhua Huang;Karen Smith,267,74.741573034,13.529578921,97.0,36.0,,,,,,,,,,,16,3,23,11,13,31,27,30,43,34,36,,,
+UBCV,2018,W,BIOL,201,,201,Introduction to Biochemistry,Brian Caffrey;Brian James Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Le Tam Nhan Nguyen;Mopelola Akinlaja;Qian Zhang;Rebecca Wai Yin Ko;Reinhard Jetter;Sreeparna Vappala;Yulin Sun,263,71.060836502,12.089208268,97.0,4.0,,,,,,,,,,,15,5,15,24,35,33,33,24,56,16,7,,,
+UBCV,2018,W,BIOL,201,,203,Introduction to Biochemistry,Brian Caffrey;Brian James Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Jared Taylor;Le Tam Nhan Nguyen;Mopelola Akinlaja;Qian Zhang;Sreeparna Vappala;Yulin Sun,179,78.268156425,11.771019567,99.0,40.0,,,,,,,,,,,5,3,7,4,10,13,16,18,43,35,25,,,
+UBCV,2018,W,BIOL,201,,204,Introduction to Biochemistry,Brian Caffrey;Brian James Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Le Tam Nhan Nguyen;Mopelola Akinlaja;Qian Zhang;Rebecca Wai Yin Ko;Reinhard Jetter;Sreeparna Vappala;Yulin Sun,249,72.899598394,14.136501877,97.0,1.0,,,,,,,,,,,17,4,20,13,28,28,20,27,32,34,26,,,
+UBCV,2019,W,BIOL,201,,201,Introduction to Biochemistry,Araliya Arnott;Araliya Kenzie Arnott;Brian Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Jared Taylor;Le Tam Nhan Nguyen;Qian Zhang;Reinhard Jetter;Sreeparna Vappala;Usama Abbasi,261,75.988505747,10.781566448,96.0,50.0,,,,,,,,,,,0,8,13,16,23,27,30,28,53,33,30,,,
+UBCV,2019,W,BIOL,201,,203,Introduction to Biochemistry,Araliya Arnott;Araliya Kenzie Arnott;Brian Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Le Tam Nhan Nguyen;Qian Zhang;Sreeparna Vappala;Stephanie Cheung;Usama Abbasi,155,78.129032258,10.211853106,97.0,50.0,,,,,,,,,,,0,2,6,9,12,7,20,15,36,25,23,,,
+UBCV,2019,W,BIOL,201,,204,Introduction to Biochemistry,Araliya Arnott;Araliya Kenzie Arnott;Brian Caffrey;Christian Cizek;Christian Gregory Cizek;Duo Cheng;Freddy Abelanjo Francis;Freddy Francis;Gangamma Chowrira;Jared Taylor;Le Tam Nhan Nguyen;Qian Zhang;Reinhard Jetter;Sreeparna Vappala;Usama Abbasi,275,79.545454545,9.649360218,98.0,47.0,,,,,,,,,,,1,1,6,9,19,20,36,18,63,62,40,,,
+UBCV,2020,W,BIOL,201,,201,Introduction to Biochemistry,Amirhossein Bahreyni;Araliya Arnott;Charlotte Barclay;Christian Cizek;Gangamma Chowrira;Jared Taylor;Jayamini Jayawardhane;Le Tam Nhan Nguyen;Marie-Soleil Smith;Matthew Strelau;Reinhard Jetter;Sreeparna Vappala;Stephanie Cheung,241,81.377593361,9.469389061,96.0,33.0,,,,,,,,,,,1,1,2,7,12,16,15,24,49,67,47,,,
+UBCV,2020,W,BIOL,201,,202,Introduction to Biochemistry,Amirhossein Bahreyni;Araliya Arnott;Charlotte Barclay;Christian Cizek;Gangamma Chowrira;Jayamini Jayawardhane;Le Tam Nhan Nguyen;Marie-Soleil Smith;Matthew Strelau;Reinhard Jetter;Sreeparna Vappala;Stephanie Cheung,228,78.907894737,11.576420245,96.0,28.0,,,,,,,,,,,2,7,4,9,11,21,23,27,33,45,46,,,
+UBCV,2021,W,BIOL,201,,201,Introduction to Biochemistry,Amirhossein Bahreyni;Araliya Arnott;Chak Chung Kuo;Freddy Francis;Gangamma Chowrira;Isidora Silva-Valderrama;Ivan Lo;Jonathan Musor;Le Tam Nhan Nguyen;Nolan Shelley;Reinhard Jetter;Sreeparna Vappala,197,77.573604061,13.803316435,97.0,15.0,,,,,,,,,,,8,2,8,10,8,18,13,16,39,44,31,,,
+UBCV,2021,W,BIOL,201,,202,Introduction to Biochemistry,Amirhossein Bahreyni;Araliya Arnott;Chak Chung Kuo;Freddy Francis;Gangamma Chowrira;Isidora Silva-Valderrama;Ivan Lo;Jonathan Musor;Kai Chan;Le Tam Nhan Nguyen;Nolan Shelley;Reinhard Jetter;Sreeparna Vappala,205,77.609756098,12.821317361,97.0,12.0,,,,,,,,,,,7,4,4,8,11,16,19,13,52,49,22,,,
+UBCV,2021,W,BIOL,201,,201,Introduction to Biochemistry,Gangamma Chowrira;Reinhard Jetter;Sreeparna Vappala,199,78.1,,97.0,15.0,,,,,,,,,,,,,10,10,8,18,13,17,40,45,31,81.0,88.0,70.5
+UBCV,2021,W,BIOL,201,,202,Introduction to Biochemistry,Gangamma Chowrira;Reinhard Jetter;Sreeparna Vappala,206,78.4,,97.0,12.0,,,,,,,,,,,,,6,9,11,17,19,13,52,51,22,82.0,86.0,72.0
+UBCV,2022,W,BIOL,201,,201,Introduction to Biochemistry,Stephanie Cheung;Gangamma Chowrira;Reinhard Jetter,194,75.1,,95.0,39.0,,,,,,,,,,,11,4,9,13,10,15,19,20,42,34,17,78.0,85.0,68.0
+UBCV,2022,W,BIOL,448,A,101,Directed Studies in Biology,Gangamma Chowrira,17,90.4,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,10,90.0,95.0,85.0
+UBCV,2022,W,BIOL,448,A,201,Directed Studies in Biology,Gangamma Chowrira,30,92.0,,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,8,21,93.0,95.0,88.0
+UBCV,2022,W,BIOL,448,D,006,Directed Studies in Biology,Gangamma Chowrira,32,93.5,,100.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,27,95.0,96.3,92.0
+UBCV,2023,S,BIOL,448,D,002,Directed Studies in Biology,Gangamma Chowrira,8,95.1,,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,95.0,96.5,95.0
+UBCV,2023,W,BIOL,201,,201,Introduction to Biochemistry,Amirhossein Bahreyni;Gangamma Chowrira;Reinhard Jetter,213,77.0,,97.0,33.0,,,,,,,,,,,8,1,8,5,15,21,25,21,38,38,24,78.0,86.0,70.0
+UBCV,2023,W,BIOL,201,,202,Introduction to Biochemistry,Amirhossein Bahreyni;Gangamma Chowrira;Reinhard Jetter,225,79.3,,97.0,27.0,,,,,,,,,,,9,4,12,8,6,11,16,15,34,53,55,84.0,89.0,73.0
+UBCV,2023,W,BIOL,448,A,101,Directed Studies in Biology,Gangamma Chowrira,14,92.6,,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,9,92.0,97.0,88.3
+UBCV,2023,W,BIOL,448,A,201,Directed Studies in Biology,Gangamma Chowrira,22,93.0,,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,18,95.0,95.8,90.5
+UBCV,2023,W,BIOL,448,D,006,Directed Studies in Biology,Gangamma Chowrira,26,92.1,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,19,93.5,95.0,88.5

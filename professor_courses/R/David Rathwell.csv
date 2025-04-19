@@ -1,0 +1,71 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,S,EPSE,415,,951,TECH FOR VIS IMP,"Rathwell, David",14,89.86,4.07,96,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,,,
+UBC,2013,W,EPSE,320,,074,INCL BL VIS-IMP,"Rathwell, David",29,85.46,10.88,98,57,28,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,2,4,5,13,,,
+UBC,2014,W,EPSE,320,,074,INCL BL VIS-IMP,"Rathwell, David",36,92.49,6.24,100,77,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,27,,,
+UBC,2014,W,EPSE,320,,075,INCL BL VIS-IMP,"Rathwell, David",35,93.69,5.84,100,82,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,26,,,
+UBC,2015,S,EPSE,320,,921,INCL BL VIS-IMP,"Rathwell, David",28,89.96,8.98,97,62,27,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,5,18,,,
+UBC,2015,W,EPSE,320,,076,INCL BL VIS-IMP,"Rathwell, David",35,93.23,4.98,99,78,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,29,,,
+UBC,2015,W,EPSE,320,,077,INCL BL VIS-IMP,"Rathwell, David",35,93,8.21,99,53,35,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2,30,,,
+UBC,2016,S,EPSE,320,,921,INCL BL VIS-IMP,"Rathwell, David",26,92.72,3.99,98,81,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,22,,,
+UBC,2016,S,EPSE,320,,951,INCL BL VIS-IMP,"Rathwell, David",35,91.26,6.71,99,68,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,5,25,,,
+UBC,2016,W,EPSE,320,,076,INCL BL VIS-IMP,"Rathwell, David",34,88.12,16.9,99,0,33,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,3,4,24,,,
+UBC,2016,W,EPSE,320,,077,INCL BL VIS-IMP,"Rathwell, David",37,92.78,5.84,99,73,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,28,,,
+UBC,2017,S,EPSE,320,,921,INCL BL VIS-IMP,"Rathwell, David",33,90.42,6.3,100,77,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,22,,,
+UBC,2017,S,EPSE,320,,951,INCL BL VIS-IMP,"Rathwell, David",34,91.72,4.79,99,82,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,21,,,
+UBC,2017,W,EPSE,320,,076,INCL BL VIS-IMP,"Rathwell, David",38,94.16,7.05,99,69,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,4,31,,,
+UBC,2017,W,EPSE,320,,077,INCL BL VIS-IMP,"Rathwell, David",36,92.63,7.01,100,68,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,6,25,,,
+UBC,2018,S,EPSE,320,,921,INCL BL VIS-IMP,"Rathwell, David",34,92.21,7.01,100,71,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,4,26,,,
+UBC,2018,S,EPSE,320,,93Q,INCL BL VIS-IMP,"Rathwell, David",33,91.84,8.55,100,57,32,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,2,26,,,
+UBC,2018,S,EPSE,320,,93S,INCL BL VIS-IMP,"Rathwell, David",33,94.77,4.15,100,84,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,28,,,
+UBC,2018,S,EPSE,320,,951,INCL BL VIS-IMP,"Rathwell, David",36,92.22,16.45,100,0,35,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,32,,,
+UBC,2018,W,EPSE,320,,076,INCL BL VIS-IMP,"Rathwell, David",37,94.84,5.01,100,79,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,34,,,
+UBC,2018,W,EPSE,320,,077,INCL BL VIS-IMP,"Rathwell, David",35,96.91,4.29,100,79,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,34,,,
+UBCV,2014,W,EPSE,320,,074,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,92.48571429,6.237323279,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,3,27,,,
+UBCV,2014,W,EPSE,320,,075,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.68571429,5.83988028,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,26,,,
+UBCV,2015,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,27,89.96296296,8.984951014,97.0,62.0,,,,,,,,,,,0,0,0,,,,,,,5,18,,,
+UBCV,2015,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.228571429,4.976921528,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,29,,,
+UBCV,2015,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.0,8.214048225,99.0,53.0,,,,,,,,,,,0,,,,,,,,,,30,,,
+UBCV,2016,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,25,92.72,3.994996871,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,22,,,
+UBCV,2016,S,EPSE,320,,951,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,34,91.26470588,6.711856644,99.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,5,25,,,
+UBCV,2016,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,34,88.11764706,16.90035809,99.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,0,3,4,24,,,
+UBCV,2016,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,37,92.78378378,5.841114501,99.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,6,28,,,
+UBCV,2017,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,90.424242424,6.2999519,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,5,22,,,
+UBCV,2017,S,EPSE,320,,951,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,91.121212121,5.829652518,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,9,21,,,
+UBCV,2017,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,38,94.157894737,7.053947776,99.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,2,0,4,31,,,
+UBCV,2017,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,92.628571429,7.008758027,100.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,6,25,,,
+UBCV,2018,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,92.212121212,7.0122998,100.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,0,4,26,,,
+UBCV,2018,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,91.151515152,9.307662207,100.0,57.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,2,26,,,
+UBCV,2018,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,32,94.625,4.171717369,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,29,,,
+UBCV,2018,S,EPSE,320,,951,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,92.222222222,16.447511511,100.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,1,32,,,
+UBCV,2018,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,37,94.837837838,5.013944519,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,0,34,,,
+UBCV,2018,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,96.914285714,4.286582545,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,34,,,
+UBCV,2019,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,94.771428571,5.557642932,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,29,,,
+UBCV,2019,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.96969697,4.889304964,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,29,,,
+UBCV,2019,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,96.939393939,3.071434864,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,31,,,
+UBCV,2019,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,93.527777778,15.301701327,100.0,19.0,,,,,,,,,,,1,1,0,0,0,0,0,0,1,0,33,,,
+UBCV,2019,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,95.861111111,6.808200005,100.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,0,33,,,
+UBCV,2020,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,94.257142857,9.38190642,100.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,1,0,2,30,,,
+UBCV,2020,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,34,97.0,2.881497927,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,34,,,
+UBCV,2020,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.727272727,6.978864195,100.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,3,29,,,
+UBCV,2020,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,34,97.029411765,3.950337877,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,32,,,
+UBCV,2020,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,96.555555556,6.746192342,100.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,1,0,0,34,,,
+UBCV,2021,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.727272727,12.848328508,100.0,27.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,3,29,,,
+UBCV,2021,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,96.742857143,6.302860495,100.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,34,,,
+UBCV,2021,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.757575758,8.799965565,100.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,2,1,2,27,,,
+UBCV,2021,W,EPSE,320,,63A,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.194444444,3.808407575,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,34,,,
+UBCV,2021,W,EPSE,320,,63C,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,96.75,5.592724866,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,1,32,,,
+UBCV,2021,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,96.7,,100.0,64.0,,,,,,,,,,,,,,,,,,,,,34,99.0,100.0,96.0
+UBCV,2021,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.8,,100.0,60.0,,,,,,,,,,,,,,,,,,,,,27,99.0,100.0,92.0
+UBCV,2021,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,94.7,,100.0,27.0,,,,,,,,,,,,,,,,,,,,,29,98.0,100.0,95.0
+UBCV,2021,W,EPSE,320,,63A,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.2,,100.0,80.0,,,,,,,,,,,,,,,,,,,,,34,98.0,100.0,96.0
+UBCV,2021,W,EPSE,320,,63C,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,96.8,,100.0,77.0,,,,,,,,,,,,,,,,,,,,,32,99.5,100.0,95.8
+UBCV,2022,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,96.4,,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,31,97.0,99.0,96.0
+UBCV,2022,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.3,,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,34,99.0,100.0,97.0
+UBCV,2022,S,EPSE,320,,93T,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,97.0,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,34,98.0,99.0,95.0
+UBCV,2022,W,EPSE,320,,63A,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,98.4,,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,35,99.0,100.0,98.0
+UBCV,2022,W,EPSE,320,,63C,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,98.6,,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,36,99.0,100.0,98.0
+UBCV,2023,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,34,96.59,,100.0,59.0,,,,,,,,,,,0,0,1,0,0,0,1,0,0,0,32,99.0,100.0,97.25
+UBCV,2023,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.42,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,34,98.0,99.25,97.0
+UBCV,2023,S,EPSE,320,,93T,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,96.83,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,33,98.0,100.0,96.75
+UBCV,2023,W,EPSE,320,,63A,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.5,,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,35,99.0,100.0,97.8
+UBCV,2023,W,EPSE,320,,63C,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,97.7,,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,33,99.0,100.0,97.0

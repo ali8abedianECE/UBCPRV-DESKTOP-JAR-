@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,ECON,361,,001,Economics of Industrial Relations,Julien Picault,32,63.6875,14.4923506,90.0,25.0,,,7,6,6,,,,,,,,,
+UBCO,2014,W,ECON,102,,001,Principles of Macroeconomics,Julien Picault,146,64.84931507,12.49073724,90.0,0.0,12,16,16,13,30,14,13,12,12,6,2,,,
+UBCO,2014,W,ECON,102,,003,Principles of Macroeconomics,Joonhwan Cho;Julien Picault;Linh Bui;Luke Davey;Maisha Badhon;Matthew Leung;Ngoc Anh Luu;Shaun Campbell;Spencer Dean;Spencer Lh Dean;Theodore Wannop,175,62.68571429,14.37504908,90.0,0.0,18,20,23,20,20,26,18,11,10,8,1,,,
+UBCO,2014,W,ECON,351,,001,Women in the Economy,Julien Picault,25,67.76,12.03910296,91.0,51.0,0,5,,,,,,,,,,,,
+UBCO,2014,W,ECON,361,,001,Economics of Industrial Relations,Julien Picault,31,60.51612903,21.15162873,94.0,0.0,6,,5,,,,,,,,,,,
+UBCO,2014,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,31,61.90322581,18.26719252,94.0,6.0,5,,,,,,,,,,,,,
+UBCO,2014,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,23,58.26086957,18.82990221,90.0,0.0,,,,6,,,,,,,,,,
+UBCO,2015,W,ECON,102,,001,Principles of Macroeconomics,Ayla Lovell;Emily Mutter;Julien Picault;Linh Bui;Maisha Badhon;Ngoc Anh Luu;Spencer Dean;Spencer Lh Dean;Yang Yongmin,134,65.97761194,14.504583884,92.0,0.0,8,14,15,21,16,9,10,12,20,6,3,,,
+UBCO,2015,W,ECON,102,,003,Principles of Macroeconomics,Ayla Lovell;Dakota Ravestein;Julien Picault;Linh Bui;Ngoc Anh Luu;Spencer Dean;Spencer Lh Dean,170,66.364705882,15.361788495,92.0,0.0,14,12,15,11,19,27,23,21,21,5,2,,,
+UBCO,2015,W,ECON,351,,001,Women in the Economy,Julien Picault,30,67.266666667,9.979058533,90.0,50.0,0,,,5,,6,,,,,,,,
+UBCO,2015,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,23,70.0,20.451716976,95.0,24.0,,,,,,,,,,,,,,
+UBCO,2015,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,34,51.676470588,19.598578471,86.0,6.0,16,5,,,,,,,,,0,,,
+UBCO,2015,W,ECON,391,E,001,Topics in Economics,Julien Picault,10,75.0,12.534397118,86.0,50.0,0,,,,,,,,,5,0,,,
+UBCO,2016,W,ECON,102,,003,Principles of Macroeconomics,Julien Picault,242,65.13223141,16.00100731,90.0,0.0,25,13,22,27,32,27,31,26,26,9,4,,,
+UBCO,2016,W,ECON,351,,001,Women in the Economy,Julien Picault,28,66.35714286,19.03449945,91.0,23.0,5,0,3,1,2,4,2,1,6,3,1,,,
+UBCO,2016,W,ECON,361,,001,Economics of Industrial Relations,Julien Picault,17,74.23529412,10.02203455,92.0,45.0,1,0,0,0,1,3,3,4,3,1,1,,,
+UBCO,2016,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,33,70.66666667,14.74929377,92.0,20.0,2,0,2,3,4,5,3,1,10,0,3,,,
+UBCO,2016,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,30,63.36666667,14.35866513,90.0,25.0,3,3,5,4,4,1,4,2,2,1,1,,,
+UBCO,2016,W,ECON,391,E,001,Topics in Economics,Julien Picault,10,78.1,4.557045827,88.0,73.0,0,0,0,0,0,0,4,2,3,1,0,,,
+UBCO,2017,W,ECON,102,,001,Principles of Macroeconomics,Julien Picault;Karl Pinno,145,76.951724138,10.725962165,96.0,23.0,2,1,5,8,11,11,15,27,31,24,10,,,
+UBCO,2017,W,ECON,102,,102,Principles of Macroeconomics,Hannah Johnson;Hoang Bui;Jinze Wu;Julien Picault;Karl Pinno;Laura Fylyshtan;Tomasz Cykowski,196,65.306122449,18.898600227,100.0,0.0,20,7,33,19,16,26,17,18,19,8,13,,,
+UBCO,2017,W,ECON,321,,001,Experimental Economics,Julien Picault,10,78.2,9.975525606,90.0,60.0,0,0,0,2,0,0,0,1,5,1,1,,,
+UBCO,2017,W,ECON,351,,101,Women in the Economy,Julien Picault,33,65.666666667,19.029034833,94.0,19.0,6,1,1,2,10,0,2,3,2,2,4,,,
+UBCO,2017,W,ECON,370,,101,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,38,65.157894737,19.538632993,91.0,20.0,7,1,3,3,3,4,3,0,10,1,3,,,
+UBCO,2017,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,25,58.72,18.935240514,94.0,19.0,6,5,3,3,1,0,0,2,2,2,1,,,
+UBCO,2017,W,ECON,391,Q,101,Topics in Economics,Julien Picault,13,80.307692308,12.802243393,96.0,55.0,0,0,1,0,1,2,1,1,0,2,5,,,
+UBCO,2018,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault;Ross Hickey,307,65.843648208,12.792013327,93.0,17.0,27,26,33,30,38,40,45,27,26,11,4,,,
+UBCO,2018,W,ECON,321,,001,Experimental Economics,Julien Picault,14,75.857142857,10.755014164,92.0,56.0,0,0,1,0,3,0,4,1,1,2,2,,,
+UBCO,2018,W,ECON,351,,101,Women in the Economy,Julien Picault,18,68.388888889,21.954870527,91.0,0.0,2,0,3,2,0,0,2,3,2,1,3,,,
+UBCO,2018,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,23,70.826086957,13.815841283,92.0,39.0,1,3,1,1,0,3,6,2,3,0,3,,,
+UBCO,2018,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,26,71.461538462,11.257817796,90.0,53.0,0,1,4,1,4,5,1,2,4,1,3,,,
+UBCO,2018,W,ECON,391,Q,101,Topics in Economics,Julien Picault,13,77.615384615,9.561541556,93.0,63.0,0,0,0,1,0,3,2,1,3,1,2,,,
+UBCO,2019,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,260,67.665384615,13.041349218,95.0,0.0,10,18,26,34,33,36,20,35,29,12,7,,,
+UBCO,2019,W,ECON,321,,001,Experimental Economics,Julien Picault,25,73.64,8.118292103,90.0,61.0,0,0,0,3,4,3,6,3,3,1,2,,,
+UBCO,2019,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,38,59.552631579,19.427894919,87.0,18.0,9,4,2,4,3,2,7,1,3,3,0,,,
+UBCO,2019,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,40,61.625,13.850275384,90.0,28.0,6,6,5,6,2,6,2,2,2,2,1,,,
+UBCO,2019,W,ECON,391,Q,101,Topics in Economics,Julien Picault,15,69.0,12.811824895,90.0,50.0,0,2,1,3,1,0,2,3,1,1,1,,,
+UBCO,2020,W,ECON,102,,001,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Felipe Morelli Guazzelli;Jakob Graves;Jessica Grant;Julien Picault;Maria Paz Marengo Di Bez;Ruben Thiemann;Sarah El Kaissi;Tazul Islam;Voole Cox;Yuanzhe Chen,354,70.850282486,17.339720483,99.0,0.0,24,18,25,24,32,30,34,38,53,44,32,,,
+UBCO,2020,W,ECON,102,,101,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Felipe Morelli Guazzelli;Jessica Grant;Julien Picault;Karl Pinno;Noriko Ozawa;Rowan Holyer;Ruben Thiemann;Sarah El Kaissi;Spencer Dean;Voole Cox;Yuanzhe Chen,280,71.903571429,14.629522421,99.0,0.0,21,6,12,26,27,27,25,48,43,27,18,,,
+UBCO,2020,W,ECON,351,,101,Women in the Economy,Anthony Boyko;Julien Picault;Mehdi Mohamadian;Voole Cox,58,72.379310345,11.98365493,90.0,26.0,3,0,2,5,5,10,6,8,11,6,2,,,
+UBCO,2020,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,33,74.121212121,11.179662271,94.0,40.0,2,0,0,1,4,4,5,6,6,3,2,,,
+UBCO,2020,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault;Noriko Ozawa,36,66.111111111,12.001851709,90.0,35.0,2,5,3,2,9,4,3,4,2,1,1,,,
+UBCO,2021,W,ECON,102,,101,Principles of Macroeconomics,Braydon Neiszner;Ghazal Shaloodegi;Johanna Manrique Hernandez;Julien Picault;Kenny Liao;Maria Paz Marengo Di Bez;Marina Selber Cekannauskas;Matthew Kopp;Omar Eldeeb;Rowan Holyer;Ruiqi Tan;Sarah El Kaissi;Seravin Suteja;Xuege Wang;Yuanzhe Chen,342,75.026315789,18.188066337,98.0,0.0,20,8,16,15,24,33,26,35,40,60,65,,,
+UBCO,2021,W,ECON,351,,101,Women in the Economy,Julien Picault,37,72.108108108,12.489515122,93.0,29.0,2,0,0,4,3,6,7,7,3,3,2,,,
+UBCO,2021,W,ECON,370,,101,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,36,68.638888889,17.146682774,90.0,16.0,4,1,2,2,2,4,6,7,3,3,2,,,
+UBCO,2021,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault;Noriko Ozawa,19,65.578947368,13.602760298,92.0,46.0,4,0,0,6,1,2,1,2,1,1,1,,,
+UBCO,2021,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,342,75.0,,98.0,0.0,20,8,16,15,24,33,26,35,40,60,65,79.0,88.0,68.0
+UBCO,2021,W,ECON,351,,101,Women in the Economy,Julien Picault,37,72.1,,93.0,29.0,,,,,,6,7,7,,,,74.0,78.0,68.0
+UBCO,2021,W,ECON,370,,101,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,36,68.6,,90.0,16.0,,,,,,,6,7,,,,73.0,79.0,64.5
+UBCO,2022,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,256,67.1,,93.0,0.0,11,15,34,32,31,27,35,27,27,11,6,68.0,76.0,60.0
+UBCO,2022,W,ECON,351,,001,Women in the Economy,Julien Picault,36,70.6,,93.0,28.0,4,2,0,4,2,3,5,3,7,1,5,74.0,81.3,62.3
+UBCO,2022,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,30,70.6,,95.0,35.0,3,0,1,5,4,0,3,4,5,3,2,74.0,81.5,62.0
+UBCO,2022,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,32,64.0,,94.0,10.0,4,4,4,3,2,3,4,0,5,1,2,66.5,75.5,54.5
+UBCO,2023,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,257,69.2,,93.0,0.0,10,13,19,30,22,42,36,30,27,17,5,71.0,77.0,63.0
+UBCO,2023,W,ECON,351,,101,Women in the Economy,Julien Picault,39,63.7,,93.0,15.0,5,2,6,3,3,3,6,3,3,2,1,67.0,75.0,56.0
+UBCO,2023,W,ECON,370,,101,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,34,60.3,,91.0,20.0,7,2,0,6,7,2,1,1,2,2,2,64.0,71.3,52.3
+UBCO,2023,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,31,65.5,,95.0,24.0,4,1,4,4,4,2,0,5,5,0,2,66.0,77.0,57.5
+UBCO,2023,W,ECON,391,B,001,Topics in Economics,Julien Picault;Madeleine Ransom,15,83.9,,92.0,71.0,0,0,0,0,0,1,1,2,2,7,2,87.0,88.0,80.5
+UBCO,2023,W,PHIL,391,G,001,Topics in Philosophy,Julien Picault;Madeleine Ransom,15,83.5,,90.0,72.0,0,0,0,0,0,0,1,2,4,7,1,85.0,87.0,80.5

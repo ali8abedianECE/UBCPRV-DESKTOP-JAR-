@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,PHAR,220,,001,PHYSICOCHEM,"Hafeli, Urs;Reid, Ronald;Riggs, Kenneth Wayne",153,87.75,5.41,96,69,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,27,43,69
+UBC,2006,W,PHAR,510,C,003,ADVD PHARCEUT 1,"Burt, Helen Mary;Hafeli, Urs",6,82.5,4.18,88,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0
+UBC,2007,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",152,86.01,8.98,100,0,151,1,0,0,0,1,0,0,0,0,1,0,0,0,2,0,4,9,34,51,51
+UBC,2007,W,PHAR,450,B,003,SELECTED TOPICS,"Hafeli, Urs;Rodrigues, Brian;Soja, Peter;Wasan, Kishor",4,93,2.58,96,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2007,W,PHAR,514,,001,ADV DRUG DEL SYS,"Burt, Helen Mary;Hafeli, Urs;Ng, Sylvia;Wasan, Kishor",4,85.33,1.53,87,84,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+UBC,2009,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",153,81.71,6.15,93,60,153,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,13,21,56,47,7
+UBC,2009,W,PHAR,592,A,002,FNDMNTL PHAR SCI,"Hafeli, Urs;Wasan, Kishor",6,87.8,1.92,90,85,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2010,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",156,85.46,9.25,98,0,155,1,0,0,0,1,0,0,0,0,1,0,0,1,2,1,8,7,32,59,45
+UBC,2010,W,PHAR,510,C,001,ADVD PHARCEUT 1,"Burt, Helen Mary;Hafeli, Urs;Wasan, Kishor",6,79.8,13.59,88,56,5,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,3,0
+UBC,2010,W,PHAR,548,,001,SEMINAR,"Hafeli, Urs",20,87,1.41,88,86,2,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+UBC,2011,W,PHAR,548,,001,SEMINAR,"Hafeli, Urs",17,93,0,93,93,1,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UBC,2011,W,PHAR,548,,002,SEMINAR,"Hafeli, Urs",6,87.4,3.44,92,84,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2011,W,PHAR,648,,001,SEM-PHD STUDENTS,"Hafeli, Urs",25,,,,,0,0,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,649,,001,DOC DISSERTATION,"Hafeli, Urs;Levine, Marc",28,,,,,0,0,1,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",224,83.47,6.63,95,52,223,0,1,0,0,0,0,0,0,0,0,1,1,1,3,6,13,24,65,70,39
+UBC,2012,W,PHAR,323,,001,BIOPHYS PHARM II,"Hafeli, Urs;Letchford, Kevin",216,72.71,8.97,91,0,212,1,0,0,3,1,0,0,0,0,1,0,10,15,22,36,47,27,48,6,1
+UBC,2012,W,PHAR,518,,001,DIAG IMG & RDOPH,"Hafeli, Urs",8,90.43,7.91,99,74,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5
+UBC,2012,W,PHAR,548,,001,SEMINAR,"Hafeli, Urs;Kumar, Ujendra",22,86.33,3.21,90,84,3,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+UBC,2012,W,PHAR,648,,001,SEM-PHD STUDENTS,"Hafeli, Urs;Kumar, Ujendra",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,648,,002,SEM-PHD STUDENTS,"Hafeli, Urs;Kumar, Ujendra",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",224,85.05,6.62,98,62,224,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,9,21,55,72,59
+UBC,2013,W,PHAR,323,,001,BIOPHYS PHARM II,"Hafeli, Urs;Letchford, Kevin",222,79.7,7.09,92,55,222,0,0,0,0,0,0,0,0,0,0,0,3,3,6,20,26,37,67,49,11
+UBC,2013,W,PHAR,515,,001,NANOMEDICINES,"Hafeli, Urs;Letchford, Kevin",9,84.67,2,88,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+UBC,2013,W,PHAR,548,,001,SEMINAR,"Hafeli, Urs;Kumar, Ujendra",22,91.4,3.05,95,88,5,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2013,W,PHAR,548,,002,SEMINAR,"Hafeli, Urs;Kumar, Ujendra",5,86,0,86,86,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UBC,2013,W,PHAR,648,,001,SEM-PHD STUDENTS,"Hafeli, Urs;Kumar, Ujendra",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,648,,003,SEM-PHD STUDENTS,"Hafeli, Urs;Kumar, Ujendra",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,220,,001,PHYSICOCHEM,"Albon, Simon;Hafeli, Urs",223,83.75,7.68,99,58,223,0,0,0,0,0,0,0,0,0,0,0,3,0,6,10,13,19,58,62,52
+UBC,2014,W,PHAR,323,,001,BIOPHYS PHARM II,"Hafeli, Urs;Letchford, Kevin",219,78.57,7.74,95,60,219,0,0,0,0,0,0,0,0,0,0,0,0,6,12,27,35,36,50,37,16
+UBC,2014,W,PHAR,518,,001,DIAG IMG & RDOPH,"Hafeli, Urs",9,82.89,7.62,95,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,1,2
+UBC,2014,W,PHAR,548,,001,SEMINAR,"Hafeli, Urs;Kumar, Ujendra",18,90,0,90,90,3,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2014,W,PHAR,648,,001,SEM-PHD STUDENTS,"Hafeli, Urs;Kumar, Ujendra",32,,,,,0,0,1,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,323,,001,BIOPHYS PHARM II,"Hafeli, Urs;Li, Shyh-dar",219,81.56,8.17,97,26,216,1,0,0,2,0,0,1,0,0,1,0,0,0,8,14,23,30,57,55,29
+UBC,2015,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Cairns, Brian;Chen, Tim;Collier, Abby;De Vera, Mary;Ensom, Mary;Frankel, Adam;Hafeli, Urs;Li, Shyh-dar;Lynd, Larry;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Judy",221,81.43,5.55,93,38,201,1,1,0,18,0,0,0,1,0,1,0,0,0,0,4,21,42,79,46,9
+UBC,2016,S,PHAR,518,,941,DIAG IMG & RDOPH,"Hafeli, Urs",8,92.5,2.88,96,88,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2017,S,PHAR,518,,941,DIAG IMG & RDOPH,"Hafeli, Urs",15,89.88,3.6,95,85,8,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2017,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Brady, Colleen;Cairns, Brian;Carr, Roxane;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Ensom, Mary;Frankel, Adam;Gerber, Patricia;Hafeli, Urs;Harrison, Mark;Li, Shyh-dar;Lynd, Larry;McCormack, James;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Harvey;Wong, Judy",223,82.04,6.53,94,59,222,0,1,0,0,0,0,0,0,0,0,0,5,0,2,5,16,39,69,66,20
+UBC,2018,W,PHRM,100,,001,FOUND OF PHRM,"Cairns, Brian;Carr, Roxane;Chan, Fong;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Frankel, Adam;Gerber, Patricia;Grierson, David;Hafeli, Urs;Harrison, Mark;Ladak, Ali Reza;Li, Shyh-dar;Mira, Aileen;Moshenko, Janice Lynn;Rodrigues, Brian;Seet, Tony;Wong, Judy",228,81.08,6.67,94,55,223,0,3,0,2,0,0,0,0,0,0,0,7,0,0,8,23,37,79,55,14
+UBC,2018,W,PHYS,565,,101,RADIOISO SCI&MED,"Hafeli, Urs;Kruecken, Reiner;Orvig, Christopher E;Sossi, Vesna",11,90.56,2.46,94,88,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5

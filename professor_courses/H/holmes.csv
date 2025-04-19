@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,COMM,405,,101,REAL EST FINAN,"Holmes, Cynthia",37,75.43,9.4,94,57,37,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8,2,4,7,5,3
+UBC,2003,W,COMM,405,,101,REAL EST FINAN,"Holmes, Cynthia",43,76.65,10.7,93,46,42,1,0,0,0,0,0,0,0,1,1,0,3,0,4,6,4,3,9,8,5
+UBC,2010,W,MATH,103,,201,INT CALC AP LF S,"Holmes, William",100,73.8,10.76,95,46,99,1,0,0,0,0,0,0,0,1,1,4,7,5,8,15,12,12,18,12,6
+UBC,2010,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",18,81,7.26,94,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,6,2,3
+UBC,2010,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",18,84.5,6.32,97,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,7,3
+UBC,2010,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;HARRISON, NICHOLAS;Holmes, Jonathan",15,86,1.96,90,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,1
+UBC,2011,W,MATH,103,,209,INT CALC AP LF S,"Holmes, William",100,70.29,12.64,100,37,95,4,1,0,0,0,0,0,2,2,4,6,9,10,11,12,16,8,11,5,7
+UBC,2011,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",20,77.3,7.49,91,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,4,4,3,1
+UBC,2011,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",20,79.7,5.02,88,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,4,0
+UBC,2011,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;HARRISON, NICHOLAS;Holmes, Jonathan",7,88.57,1.99,90,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2011,W,THTR,491,C,001,AD REHEARS&PERF,"Holmes, Jonathan;Scholte, Tom;TBA",7,88.57,1.99,90,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2012,W,PATH,406,,001,CLIN CHEM,"Casey, Brett;Dooley, Kent;Frohlich, Jiri;Halstead, Anne Catherine;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Urquhart, Nadine;Vallance, Hilary",15,85.87,5.82,94,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5,5
+UBC,2012,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",15,89.07,6.23,96,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8
+UBC,2012,W,WMST,310,,001,WMNS HLTH ISSUES,"Holmes, Cindy",36,83.97,5.03,92,72,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,11,11,6
+UBC,2013,S,NURS,586,V,98A,SP D NURS PRAC,"Holmes, Cindy",4,85,5.6,93,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1
+UBC,2013,S,SOWK,570,E,98A,DIRECTED STUDY,"Holmes, Cindy",12,80.75,2.22,83,78,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+UBC,2013,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Keller, Bernd;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",22,83.91,5.41,93,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,8,3
+UBC,2013,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Mattman, Andre;Pudek, Morris;Purssell, Roy",22,88.27,3.21,94,83,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,7
+UBC,2014,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hill, John Stuart;Holmes, Daniel;Mattman, Andre;Monsalve, Maria Victoria;Nimmo, Michael;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Vallance, Hilary",23,80.78,8.96,93,63,23,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,0,5,9,2
+UBC,2014,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",23,84.91,6.61,92,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,8,7
+UBC,2014,W,PATH,548,Q,017,DIR STD MSC STNT,"Allard, Michael;Dalal, Bakul;Gilks, Cyril Blake;Holmes, Daniel;Mackenzie, Ian;Maguire, John;Nielsen, Torsten;Owen, David Arthur",8,79.13,5.38,89,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,1,0
+UBC,2015,W,CPSC,410,,101,ADV SOFTWARE ENG,"Holmes, Reid",119,79,8.72,96,59,118,0,1,0,0,0,0,0,0,0,0,0,1,3,10,13,11,20,26,16,18
+UBC,2015,W,CPSC,507,,201,SOFTWARE ENG,"Holmes, Reid",7,89,4.83,95,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5
+UBC,2015,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frohlich, Jiri;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Monsalve, Maria Victoria;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary",20,77.85,8.54,88,57,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,6,5,0
+UBC,2015,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",20,85.6,5.23,92,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,4
+UBC,2015,W,PATH,548,Q,017,DIR STD MSC STNT,"Allard, Michael;Flint, Julia;Gilks, Cyril Blake;Holmes, Daniel;Magil, Alexander;Nielsen, Torsten;Pudek, Morris;Skinnider, Brian",8,87,1.31,89,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+UBC,2016,W,CPSC,310,,101,INTR SFTWR ENG,"Holmes, Reid",158,81.72,11.68,98,9,139,2,17,0,0,1,1,0,0,0,2,2,2,0,2,6,11,16,32,40,28
+UBC,2016,W,CPSC,310,,201,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",148,82.19,10.63,97,34,143,2,2,0,1,0,0,0,2,0,2,1,0,1,9,11,5,15,21,37,43
+UBC,2016,W,CPSC,310,,202,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",138,80.68,9.59,95,29,129,1,6,0,2,0,0,1,0,0,1,0,1,2,4,12,11,16,32,23,28
+UBC,2016,W,CPSC,507,,201,SOFTWARE ENG,"Holmes, Reid",13,86.31,7.9,97,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,7
+UBC,2016,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Nimmo, Michael;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",21,77.38,6.29,86,66,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,6,3,0
+UBC,2016,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",21,84.62,7.86,96,68,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,3,8,5
+UBC,2016,W,PATH,548,Q,017,DIR STD MSC STNT,"Allard, Michael;Flint, Julia;Gilks, Cyril Blake;Holmes, Daniel;Magil, Alexander;Nielsen, Torsten;Pudek, Morris;Skinnider, Brian",6,86.17,5.71,95,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2017,W,CPSC,310,,201,INTR SFTWR ENG,"Holmes, Reid",166,82.4,8.22,96,37,164,2,0,0,0,0,0,0,1,1,2,0,1,0,2,9,9,26,39,49,29
+UBC,2017,W,CPSC,507,,201,SOFTWARE ENG,"Holmes, Reid",19,82,13.28,94,36,18,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,2,5,1,7
+UBC,2017,W,PATH,406,,001,CLIN CHEM,"Dooley, Kent;Frykman, Hans;Fung, Angela;Hauff, Kristin;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Pudek, Morris;Schreiber, William;Simons, Janet;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary;Wong, Sophia",13,75.08,16.91,87,31,12,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,1,1,3,5,0
+UBC,2017,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",13,83.69,14.41,96,41,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,4,5
+UBC,2018,W,CPSC,310,,102,INTR SFTWR ENG,"Holmes, Reid",160,77.85,8.58,95,33,156,1,2,0,1,0,0,0,1,0,1,3,2,4,2,10,26,36,42,27,4
+UBC,2018,W,CPSC,507,,101,SOFTWARE ENG,"Holmes, Reid",10,79.56,20.35,95,30,8,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,2,4
+UBC,2018,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Orton, Dennis;Price, Richard;Pudek, Morris;Purssell, Roy;Wang, Li;Xenakis, Jennifer",12,85.58,7.45,94,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,6

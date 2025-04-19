@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,CHEM,100,,112,Foundations of Chemistry,Magrieta Janse Van Vuuren;Magrieta Jeanette Janse Van Vuuren;Taylor Douglas Wright;Taylor Wright,66,64.954545455,17.622041983,95.0,23.0,11,7,7,5,6,3,5,6,6,6,4,,,
+UBCV,2019,W,CHEM,100,,112,Foundations of Chemistry,Jaclyn Stewart;Magrieta Janse Van Vuuren;Taylor Douglas Wright;Taylor Wright,73,72.246575342,13.601246697,94.0,35.0,4,4,5,7,3,6,8,12,12,3,9,,,
+UBCV,2019,W,CHEM,235,,L12,Organic Chemistry Laboratory,Alexander Clark;Alina Cook;Andrea Terpstra;Andrew Kukor;Arvind Soni;Christopher Walters;Hossein Yazdani Ahmadabadi;Jeffrey Suen;Kalindi Dasi Chatterton;Kalindi Morgan;Katherine Krause;Leo Liu;Mailam Dinh;Mailam Thi Dinh;Naysilla Dayanara;Othoniel Reyes Camacho;Phillip Danby;Shambhu Chandra;Sui Man Ho;Sui Man Man Ho;Taniya Adak;Tanvi Garg;Taylor Douglas Wright;Taylor Parkkila;Taylor Wright;Trevor Bolduc;Weiying He;Zaile Zhuang,82,72.268292683,8.279155412,91.0,50.0,0,3,4,4,6,12,21,18,7,6,1,,,
+UBCV,2020,W,CHEM,100,,112,Foundations of Chemistry,Jaclyn Stewart;Taylor Wright,108,72.361111111,12.185066955,91.0,28.0,3,4,6,11,10,10,16,11,22,6,9,,,
+UBCV,2021,W,CHEM,300,,209,Communicating Chemistry,Jaclyn Stewart;Rajneesh Bains;Robin Stoodley;Taylor Wright,19,76.842105263,10.001461881,89.0,44.0,1,0,0,0,1,3,0,4,8,2,0,,,
+UBCV,2021,W,SCIE,113,,112,First-Year Seminar in Science,Angela Jane Roskams;Caitlin Donnelly;Roza Vaez Ghaemi;Taylor Wright,23,83.086956522,7.018890378,94.0,64.0,0,0,0,0,1,0,1,3,9,6,3,,,
+UBCV,2021,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Dwiti Mistry;Roza Vaez Ghaemi;Taylor Wright,25,81.64,6.244197306,92.0,66.0,0,0,0,0,1,0,3,6,5,8,2,,,
+UBCV,2021,W,SCIE,113,,112,First-Year Seminar in Science,Caitlin Donnelly;Taylor Wright,23,83.1,,94.0,64.0,,,,,,,,,9,6,,84.0,87.0,80.0
+UBCV,2021,W,SCIE,113,,210,First-Year Seminar in Science,Caitlin Donnelly;Roza Vaez Ghaemi;Taylor Wright,25,81.6,,92.0,66.0,,,,,,,,6,,8,,83.0,87.0,77.0

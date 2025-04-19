@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,PHIL,100,,001,INTRO TO PHIL,"Boxer, Karin",93,68.8,14.49,85,0,76,5,10,1,0,2,0,0,1,2,5,1,3,8,13,12,13,11,9,6,0
+UBC,2014,W,PHIL,432,A,002,ETHICAL THEORY,"Boxer, Karin",13,69.92,22.82,85,0,11,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,2,3,3,1,0
+UBC,2014,W,PHIL,433,A,002,BIOMEDICAL ETHIC,"Boxer, Karin",50,74.08,12.45,85,0,48,1,1,0,0,1,0,0,0,0,1,0,2,1,1,6,10,15,10,3,0
+UBC,2015,W,PHIL,330,A,002,,"Boxer, Karin",67,73.29,16.6,90,0,60,3,4,0,0,1,1,1,0,0,3,1,3,3,4,8,8,8,10,12,3
+UBC,2015,W,PHIL,330,A,003,,"Boxer, Karin",72,71.9,12.37,92,20,65,2,3,0,0,0,0,1,1,0,2,2,2,9,4,5,13,14,9,6,1
+UBC,2015,W,PHIL,338,A,003,PHIL OF LAW,"Boxer, Karin",58,71.61,17.75,93,0,54,3,1,0,0,2,0,0,0,1,3,1,6,2,6,5,5,7,8,11,3
+UBC,2015,W,PHIL,432,A,002,ETHICAL THEORY,"Boxer, Karin",18,69,28.54,91,0,14,3,1,0,0,2,0,1,0,0,3,0,1,0,0,0,1,3,3,4,2
+UBCV,2014,W,PHIL,100,,001,Introduction to Philosophy,Karin Boxer,82,68.74390244,14.40748346,85.0,0.0,,,,,,,,,,,5,,,8,14,12,13,11,9,6,0
+UBCV,2014,W,PHIL,432,A,002,Ethical Theory,Karin Boxer,12,69.91666667,22.82127529,85.0,0.0,,,,,,,,,,,,,,,,,,,3,1,0
+UBCV,2014,W,PHIL,433,A,002,Bio-Medical Ethics,Karin Boxer,49,74.08163265,12.45297276,85.0,0.0,,,,,,,,,,,,,,,,6,10,15,10,,0
+UBCV,2015,W,PHIL,330,A,002,Social and Political Philosophy,Karin Boxer;Warren Bowen,63,73.285714286,16.601038222,90.0,0.0,,,,,,,,,,,,,,3,4,8,8,8,10,12,
+UBCV,2015,W,PHIL,330,A,003,Social and Political Philosophy,Bianca Crewe;Karin Boxer,69,71.782608696,12.223253593,92.0,20.0,,,,,,,,,,,,,,9,5,5,14,14,9,6,
+UBCV,2015,W,PHIL,338,A,003,Philosophy of Law,Karin Boxer;Warren Bowen,57,71.614035088,17.75201637,93.0,0.0,,,,,,,,,,,,,6,,6,5,5,7,8,11,
+UBCV,2015,W,PHIL,432,A,002,Ethical Theory,Karin Boxer;Warren Bowen,17,69.0,28.539446386,91.0,0.0,,,,,,,,,,,,,,,,,,,,,

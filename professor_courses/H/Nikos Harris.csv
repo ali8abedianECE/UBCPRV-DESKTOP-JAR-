@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,S,LAW,476,,001,Evidence,Nikos Harris,27,74.0,5.717718749,85.0,60.0,0,0,0,,,,6,7,,,0,,,
+UBCV,2014,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,47,74.31914894,8.057150168,89.0,54.0,0,,,,,6,10,10,9,,0,,,
+UBCV,2014,W,LAW,241,,004,Torts,Nikos Harris,45,75.15555556,7.513489552,86.0,41.0,,,,,,5,10,14,9,,0,,,
+UBCV,2014,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,66,73.8030303,6.846042533,85.0,55.0,0,0,,,10,9,13,14,13,,0,,,
+UBCV,2014,W,LAW,476,,002,Evidence,Nikos Harris,64,72.25,9.642827748,86.0,50.0,0,6,,,7,8,8,13,15,,0,,,
+UBCV,2014,W,LAW,507,,002,Evidence,Nikos Harris,11,65.63636364,12.54011744,77.0,37.0,,,,,,,2,,0,0,0,,,
+UBCV,2015,S,LAW,476,,001,Evidence,Nikos Harris,44,73.75,9.383620068,88.0,50.0,0,,,,,,5,11,10,,0,,,
+UBCV,2015,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,44,74.227272727,7.993787228,85.0,50.0,0,,,,,5,12,11,10,,0,,,
+UBCV,2015,W,LAW,221,,003,Criminal Law and Procedure,Nikos Harris,44,75.318181818,5.964128145,86.0,58.0,0,0,,,,,12,12,11,,0,,,
+UBCV,2015,W,LAW,241,,004,Torts,Nikos Harris,46,74.52173913,10.171286667,84.0,18.0,,,,,,,13,15,12,0,0,,,
+UBCV,2015,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,47,74.723404255,6.736345699,89.0,55.0,0,0,,,,8,12,8,11,,0,,,
+UBCV,2015,W,LAW,476,,002,Evidence,Nikos Harris,63,73.984126984,7.70733221,86.0,56.0,0,0,,,6,7,17,11,11,5,0,,,
+UBCV,2016,S,LAW,476,,001,Evidence,Nikos Harris,51,73.58823529,8.674506258,89.0,50.0,0,1,3,3,3,6,12,9,11,3,0,,,
+UBCV,2016,W,LAW,221,,004,Criminal Law and Procedure,Nikos Harris,46,74.80434783,7.870111012,89.0,50.0,0,2,0,1,2,6,10,13,9,3,0,,,
+UBCV,2016,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,56,73.73214286,5.928332807,86.0,54.0,0,1,0,1,7,7,19,13,7,1,0,,,
+UBCV,2016,W,LAW,468,,001,Ethics and Professionalism,Nikos Harris,43,75.0,6.047431568,84.0,60.0,0,0,0,2,3,7,11,7,13,0,0,,,
+UBCV,2016,W,LAW,476,,002,Evidence,Nikos Harris,66,72.33333333,8.405736747,85.0,50.0,0,3,2,3,7,13,10,15,12,1,0,,,
+UBCV,2017,S,LAW,476,,001,Evidence,Nikos Harris,20,73.65,7.1691958,86.0,62.0,0,0,0,1,3,5,3,3,3,2,0,,,
+UBCV,2017,W,LAW,221,,004,Criminal Law and Procedure,Nikos Harris,48,75.333333333,8.781831664,89.0,50.0,0,2,1,2,4,2,11,10,9,7,0,,,
+UBCV,2017,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,56,73.910714286,7.056336381,85.0,55.0,0,0,2,2,9,6,9,15,11,2,0,,,
+UBCV,2017,W,LAW,468,,001,Ethics and Professionalism,Nikos Harris,40,75.0,4.187894643,82.0,67.0,0,0,0,0,1,6,15,10,8,0,0,,,
+UBCV,2017,W,LAW,476,,002,Evidence,Nikos Harris,62,74.177419355,7.696122493,89.0,50.0,0,2,0,2,7,8,16,13,11,3,0,,,
+UBCV,2018,S,LAW,476,,001,Evidence,Nikos Harris,36,71.694444444,11.587726128,87.0,33.0,1,2,2,2,3,4,4,10,5,3,0,,,
+UBCV,2018,W,LAW,221,,004,Criminal Law and Procedure,Nikos Harris,48,75.291666667,5.626526586,85.0,54.0,0,1,0,0,0,10,14,13,7,3,0,,,
+UBCV,2018,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,66,74.151515152,5.813095096,83.0,60.0,0,0,0,3,7,8,17,15,16,0,0,,,
+UBCV,2018,W,LAW,476,,002,Evidence,Nikos Harris,68,73.794117647,6.509599854,83.0,50.0,0,2,0,2,6,10,19,14,15,0,0,,,
+UBCV,2019,S,LAW,476,,001,Evidence,Nikos Harris,36,73.666666667,7.127411872,87.0,60.0,0,0,0,2,5,8,8,2,8,3,0,,,
+UBCV,2019,W,LAW,221,,004,Criminal Law and Procedure,Nikos Harris,46,75.108695652,7.442306276,85.0,58.0,0,0,3,1,3,3,14,6,11,5,0,,,
+UBCV,2019,W,LAW,251,,003,Public Law,Anne Uteck;Catherine Dauvergne;Efrat Arbel;Nikos Harris,47,75.085106383,2.925374649,82.0,65.0,0,0,0,0,1,3,23,15,5,0,0,,,
+UBCV,2019,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,48,74.6875,5.911245144,88.0,60.0,0,0,0,1,4,10,8,16,6,3,0,,,
+UBCV,2019,W,LAW,476,,002,Evidence,Nikos Harris,63,74.317460317,6.962631586,87.0,50.0,0,1,1,1,7,6,21,9,12,5,0,,,
+UBCV,2020,S,LAW,476,,001,Evidence,Nikos Harris,60,74.8,9.587774702,86.0,24.0,1,1,0,2,2,8,17,6,19,4,0,,,
+UBCV,2020,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,45,76.155555556,7.232991194,86.0,50.0,0,1,1,2,1,3,8,13,14,2,0,,,
+UBCV,2020,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,69,73.695652174,9.340462811,86.0,44.0,1,3,2,3,6,4,11,16,19,4,0,,,
+UBCV,2020,W,LAW,476,,002,Evidence,Nikos Harris,58,74.948275862,9.574128908,89.0,50.0,0,1,3,2,6,8,5,11,12,10,0,,,
+UBCV,2021,S,LAW,476,,001,Evidence,Nikos Harris,37,72.378378378,12.428353228,85.0,23.0,2,1,0,1,4,2,6,13,7,1,0,,,
+UBCV,2021,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,45,74.888888889,6.046119049,87.0,55.0,0,0,1,1,2,6,11,14,9,1,0,,,
+UBCV,2021,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,69,72.565217391,10.05642648,88.0,40.0,2,3,1,4,7,8,14,13,12,5,0,,,
+UBCV,2021,W,LAW,476,,002,Evidence,Nikos Harris,61,72.68852459,10.348173726,90.0,30.0,3,0,0,3,7,8,14,14,6,5,1,,,
+UBCV,2022,S,LAW,476,,001,Evidence,Nikos Harris,36,74.3,,83.0,50.0,0,1,0,1,4,2,9,11,8,0,0,76.0,79.0,72.0
+UBCV,2022,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,51,75.5,,86.0,62.0,0,0,0,1,5,6,15,8,14,2,0,75.0,80.5,72.0
+UBCV,2022,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,57,73.0,,85.0,0.0,1,0,3,0,4,7,17,12,11,2,0,75.0,79.0,71.0
+UBCV,2022,W,LAW,476,,002,Evidence,Nikos Harris,60,72.9,,87.0,50.0,0,3,4,4,3,9,8,11,14,4,0,75.0,81.0,68.0
+UBCV,2023,W,LAW,221,,002,Criminal Law and Procedure,Nikos Harris,50,74.54,,86.0,54.0,0,1,1,3,6,6,6,9,15,3,0,76.0,80.0,69.25
+UBCV,2023,W,LAW,400,,001,Advanced Criminal Procedure,Nikos Harris,66,73.83,,86.0,50.0,0,2,0,2,9,11,8,17,13,4,0,76.0,79.75,69.25
+UBCV,2023,W,LAW,476,,002,Evidence,Nikos Harris,69,71.55,,90.0,30.0,3,4,1,3,9,5,9,11,13,5,1,75.0,80.0,66.5

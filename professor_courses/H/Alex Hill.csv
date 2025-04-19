@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill;Christopher Isaak,26,79.461538462,12.257995821,99.0,43.0,1,0,1,0,2,1,2,4,6,6,3,,,
+UBCO,2020,W,ASTR,110,,001,Astrophysics I,Alex Hill;Andrew Ogilvy;Bilal Madani;Bradley Reinholz;Devin Reinholz;Elif Eren;Jakob Marshall;Jason Reich,14,57.071428571,20.495644137,93.0,25.0,6,2,1,0,0,0,2,0,2,0,1,,,
+UBCO,2020,W,ASTR,111,,001,Astronomy I,Alex Hill;Andrew Ogilvy;Bilal Madani;Bradley Reinholz;Devin Reinholz;Elif Eren;Jakob Marshall;Jason Reich,43,76.302325581,11.160164881,94.0,49.0,1,0,3,5,2,2,5,3,13,4,5,,,
+UBCO,2020,W,ASTR,112,,001,Astronomy I (Non Lab),Alex Hill;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Jakob Marshall;Jason Reich,42,70.023809524,19.664860446,93.0,0.0,3,0,2,2,5,7,5,4,6,6,2,,,
+UBCO,2020,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill;Elif Eren,33,71.454545455,25.750110326,96.0,1.0,4,2,1,3,1,2,1,3,2,5,9,,,
+UBCO,2020,W,PHYS,321,,101,Stellar Astrophysics,Alex Hill,16,78.25,15.952011367,100.0,50.0,0,2,1,0,1,1,2,0,1,4,4,,,
+UBCO,2021,W,ASTR,120,,101,Astrophysics II,Alejandra Fuentes Nunez;Alex Hill;Dakota Mckeown;Elif Eren;Joan Brewer;Maya Patel;Stephen Collins,12,80.25,16.804355496,96.0,49.0,2,0,0,0,1,0,0,0,3,2,4,,,
+UBCO,2021,W,ASTR,121,,101,Astronomy II,Alejandra Fuentes Nunez;Alex Hill;Dakota Mckeown;Elif Eren;Joan Brewer;Maya Patel;Stephen Collins,24,76.166666667,20.518637692,96.0,14.0,2,0,1,0,0,3,4,3,2,1,8,,,
+UBCO,2021,W,ASTR,122,,101,Astronomy II (Non Lab),Alejandra Fuentes Nunez;Alex Hill;Dakota Mckeown;Elif Eren;Joan Brewer;Maya Patel;Stephen Collins,17,73.529411765,20.494260316,97.0,11.0,2,0,1,0,2,0,1,3,4,1,3,,,
+UBCO,2021,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill;Joan Brewer,12,82.166666667,8.397330023,96.0,69.0,0,0,0,0,0,2,0,1,5,2,2,,,
+UBCO,2021,W,PHYS,321,,101,Stellar Astrophysics,Alex Hill;Joan Brewer,12,79.0,22.172874501,97.0,14.0,1,0,0,0,1,0,0,1,3,3,3,,,
+UBCO,2021,W,ASTR,120,,101,Astrophysics II,Alex Hill,12,80.3,,96.0,49.0,,,,,,,,,,,,86.0,93.0,76.3
+UBCO,2021,W,ASTR,121,,101,Astronomy II,Alex Hill,24,76.2,,96.0,14.0,,,,,,,,,,,8,78.0,92.3,71.0
+UBCO,2021,W,ASTR,122,,101,Astronomy II (Non Lab),Alex Hill,17,73.5,,97.0,11.0,,,,,,,,,,,,79.0,83.0,65.0
+UBCO,2021,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill,12,82.2,,96.0,69.0,,,,,,,,,,,,82.0,85.5,79.3
+UBCO,2021,W,PHYS,321,,101,Stellar Astrophysics,Alex Hill,12,79.0,,97.0,14.0,,,,,,,,,,,,85.0,88.8,80.5
+UBCO,2022,W,ASTR,110,,001,Astrophysics I,Alex Hill,10,84.6,,99.0,67.0,0,0,0,0,1,0,0,2,2,1,4,84.5,91.5,78.0
+UBCO,2022,W,ASTR,111,,001,Astronomy I,Alex Hill,33,77.8,,98.0,10.0,2,0,2,0,0,3,3,4,4,10,5,82.0,88.0,74.0
+UBCO,2022,W,ASTR,112,,001,Astronomy I (Non Lab),Alex Hill,27,76.2,,98.0,45.0,1,1,2,1,2,0,4,4,5,3,4,78.0,85.0,69.5
+UBCO,2022,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill,19,76.3,,94.0,50.0,0,2,1,0,2,0,3,2,5,1,3,76.0,84.0,70.0
+UBCO,2023,W,ASTR,210,,001,Physical Processes in the Universe,Alex Hill,22,78.14,,97.0,61.0,0,0,0,3,2,1,4,3,3,1,5,77.5,85.5,71.75
+UBCO,2023,W,ASTR,321,,101,Stellar Astrophysics,Alex Hill,13,84.38,,93.0,64.0,0,0,0,0,1,0,1,1,2,2,6,86.0,90.0,82.0
+UBCO,2023,W,PHYS,401,,101,Electromagnetic Theory,Alex Hill,22,78.7,,95.0,66.0,0,0,0,0,1,1,5,6,4,2,2,77.0,83.0,75.0

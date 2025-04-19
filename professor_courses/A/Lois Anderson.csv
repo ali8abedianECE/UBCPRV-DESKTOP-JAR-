@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,THTR,339,,001,CREATING THTR I,"Anderson, Lois",19,84.16,7.14,91,60,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,6,5,5,,,
+UBC,2013,W,THTR,491,C,001,AD REHEARS&PERF,"Anderson, Lois;Heatley, Stephen",12,86,2.17,89,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0,,,
+UBC,2018,W,THTR,391,A,001,REHEARS&PERFORM,"Anderson, Lois;Bertoia, Susan",16,84.88,2,88,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,0,,,
+UBC,2018,W,THTR,471,,001,ADV BFA ACTING I,"Anderson, Lois",13,86.15,1.86,89,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,0,,,
+UBC,2018,W,THTR,491,A,001,AD REHEARS&PERF,"Anderson, Lois;Bertoia, Susan",14,86.71,2.76,94,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,1,,,
+UBCV,2018,W,THTR,391,A,001,Rehearsal and Performance,Lois Anderson;Susan Bertoia,16,84.875,1.995828984,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,10,0,,,
+UBCV,2018,W,THTR,471,,001,Advanced B.F.A. Acting I,Courtenay Dobbie;Lois Anderson,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,0,,,
+UBCV,2018,W,THTR,491,A,001,Advanced Rehearsal and Performance,Lois Anderson;Susan Bertoia,14,86.714285714,2.757606862,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,1,,,
+UBCV,2019,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Courtenay Dobbie;Lois Anderson;Marijka Asbeek Brusse,14,84.071428571,3.384677822,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,7,0,,,
+UBCV,2019,W,THTR,391,C,001,Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Gerald Trentham;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Drover;Stephen Malloy;Susan Bertoia,14,84.642857143,2.924883768,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,8,0,,,
+UBCV,2019,W,THTR,471,,001,Advanced B.F.A. Acting I,Lois Anderson;Raphael Wagner,16,82.4375,3.405265531,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,5,0,,,
+UBCV,2019,W,THTR,491,C,001,Advanced Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Gerald Trentham;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Drover;Stephen Malloy;Susan Bertoia,15,85.866666667,2.875181154,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,10,1,,,
+UBCV,2020,W,THTR,273,,001,Beginning Voice and Movement I,Allen Morrison;Gayle Murphy;Lauren Taylor;Lois Anderson;Michelle Olson;Sheila Langston,11,79.272727273,4.880387466,85.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,5,3,2,0,,,
+UBCV,2020,W,THTR,371,,001,Intermediate B.F.A. Acting I,Bart Anderson;Courtenay Dobbie;Lois Anderson;Raphael Wagner,12,85.583333333,2.810963385,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,0,,,
+UBCV,2020,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Lois Anderson;Marlise Mccormick;Stephen Heatley;Susan Bertoia,12,86.333333333,2.498484389,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,9,0,,,
+UBCV,2020,W,THTR,391,A,001,Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,12,85.583333333,2.810963385,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,0,,,
+UBCV,2020,W,THTR,491,A,001,Advanced Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,13,84.615384615,5.560852176,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,6,2,,,
+UBCV,2020,W,THTR,491,C,001,Advanced Rehearsal and Performance,Adam Henderson;Bart Anderson;Gayle Murphy;Heather Young;Jocelyn Pitsch;Kirsty Johnston;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Heatley,14,87.785714286,2.750624305,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,3,,,
+UBCV,2021,W,THTR,271,,001,Beginning B.F.A. Acting I,Lois Anderson,11,80.909090909,4.846742111,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,6,2,0,,,
+UBCV,2021,W,THTR,272,,001,Beginning B.F.A. Acting II,Lois Anderson,10,83.8,2.440400696,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,0,,,
+UBCV,2021,W,THTR,371,,001,Intermediate B.F.A. Acting I,Lois Anderson;Susan Bertoia,11,84.181818182,1.60113596,86.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,0,,,
+UBCV,2021,W,THTR,391,C,001,Rehearsal and Performance,Lois Anderson;Raphael Wagner,11,85.909090909,1.868397466,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,1,,,
+UBCV,2021,W,THTR,491,C,001,Advanced Rehearsal and Performance,Lois Anderson;Raphael Wagner,13,87.153846154,2.115268062,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,2,,,
+UBCV,2021,W,THTR,271,,001,Beginning B.F.A. Acting I,Lois Anderson,11,80.9,,86.0,72.0,,,,,,,,,,,,,,,,,,,6,,,82.0,84.0,79.0
+UBCV,2021,W,THTR,272,,001,Beginning B.F.A. Acting II,Lois Anderson,10,83.8,,88.0,80.0,,,,,,,,,,,,,,,,,,,,,,84.5,85.0,83.0
+UBCV,2021,W,THTR,371,,001,Intermediate B.F.A. Acting I,Lois Anderson;Susan Bertoia,11,84.2,,86.0,82.0,,,,,,,,,,,,,,,,,,,,6,,85.0,85.5,83.0
+UBCV,2021,W,THTR,391,C,001,Rehearsal and Performance,Lois Anderson;Raphael Wagner,11,85.9,,90.0,83.0,,,,,,,,,,,,,,,,,,,,9,,85.0,86.5,85.0
+UBCV,2021,W,THTR,491,C,001,Advanced Rehearsal and Performance,Lois Anderson;Raphael Wagner,13,87.2,,90.0,83.0,,,,,,,,,,,,,,,,,,,,10,,87.0,89.0,86.0
+UBCV,2022,W,THTR,372,,001,Intermediate B.F.A. Acting II,Lois Anderson;Stephen Heatley,10,85.3,,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,7,1,86.0,87.0,86.0
+UBCV,2022,W,THTR,391,B,001,Rehearsal and Performance,Lois Anderson;Sheila Langston;Leora Morris,10,85.3,,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,7,1,86.0,87.0,86.0
+UBCV,2022,W,THTR,491,B,001,Advanced Rehearsal and Performance,Lois Anderson;Sheila Langston;Leora Morris,10,86.3,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,1,86.5,88.0,85.0
+UBCV,2023,W,THTR,371,,001,Intermediate B.F.A. Acting I,Lois Anderson;Susan Bertoia,12,82.3,,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,2,0,82.0,84.0,80.8
+UBCV,2023,W,THTR,391,A,001,Rehearsal and Performance,Lois Anderson;Susan Bertoia;Arthi Chandra;Raphael Wagner,12,82.3,,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,2,0,82.0,84.0,80.8
+UBCV,2023,W,THTR,491,A,001,Advanced Rehearsal and Performance,Lois Anderson;Susan Bertoia;Arthi Chandra;Raphael Wagner,12,84.8,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,0,86.0,86.3,82.8

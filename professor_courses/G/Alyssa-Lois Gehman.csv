@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BIOL,326,,201,Experimental Biology of Invertebrates,Alyssa-Lois Gehman;Christopher Harley;Jessica Li;Kai Chan;Marta Flotats Aviles;Sandra Emry,23,79.695652174,6.46975328,89.0,70.0,0,0,0,0,0,4,3,3,7,6,0,,,
+UBCV,2021,W,BIOL,326,,201,Experimental Biology of Invertebrates,Alyssa-Lois Gehman;Christopher Harley,23,79.7,,89.0,70.0,,,,,,,,,7,6,,81.0,84.5,74.5
+UBCV,2022,W,BIOL,326,,201,Experimental Biology of Invertebrates,Alyssa-Lois Gehman;Christopher Harley,24,84.6,,96.0,70.0,0,0,0,0,0,1,2,2,6,3,10,85.0,90.0,80.0
+UBCV,2023,W,BIOL,326,,201,Experimental Biology of Invertebrates,Sandra Emry;Alyssa-Lois Gehman,24,86.5,,93.0,75.0,0,0,0,0,0,0,2,1,7,4,10,88.5,92.0,82.8

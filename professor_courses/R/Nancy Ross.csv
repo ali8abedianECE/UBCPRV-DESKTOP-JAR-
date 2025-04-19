@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,FOOD,530,B,009,DIRECTED STUDIES,"Ross, Nancy",20,86.45,1.88,89,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,0,,,
+UBC,2010,W,FOOD,530,B,009,DIRECTED STUDIES,"Ross, Nancy",20,81.95,3.53,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,4,0,,,
+UBC,2011,W,FOOD,527,G,001,SP TPS FOOD SCIE,"Ross, Nancy",22,86.5,6.02,96,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,8,7,,,
+UBC,2012,W,FOOD,527,G,001,SP TPS FOOD SCIE,"Ross, Nancy",24,85.75,4.99,92,73,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,8,,,
+UBC,2013,W,FOOD,527,G,001,SP TPS FOOD SCIE,"Ross, Nancy",25,82.54,4.46,90,74,24,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,9,8,1,,,
+UBC,2014,W,FOOD,512,,002,HAZARD ANAL FOOD,"Ross, Nancy",24,89.38,4.29,97,81,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,13,,,
+UBC,2015,W,FOOD,512,,002,HAZARD ANAL FOOD,"Ross, Nancy",25,90.68,4.32,99,82,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,16,,,
+UBC,2016,W,FOOD,512,,002,HAZARD ANAL FOOD,"Ross, Nancy",29,88.03,5.43,96,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,11,12,,,
+UBC,2017,W,FOOD,512,,002,HAZARD ANAL FOOD,"Ross, Nancy",32,83.59,3.44,90,77,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15,12,1,,,
+UBC,2018,W,FOOD,512,,002,HAZARD ANAL FOOD,"Ross, Nancy",33,88.15,2.58,93,83,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,20,9,,,
+UBCV,2014,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Michael Milillo;Nancy Ross;Pablo Elizondo Grediaga,73,82.64383562,6.303371812,93.0,61.0,,,,,,,,,,,0,0,0,,,,7,5,23,26,9,,,
+UBCV,2014,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,24,89.375,4.291675461,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,13,,,
+UBCV,2015,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Jiaqi Li;Nancy Ross;Samer Naoum,72,85.055555556,5.957333955,94.0,62.0,,,,,,,,,,,0,0,0,,,,,,20,25,19,,,
+UBCV,2015,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,25,90.68,4.317792646,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,16,,,
+UBCV,2016,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Lauren Rappaport;Nancy Ross;Yue Dai,75,83.53333333,6.566362548,94.0,56.0,,,,,,,,,,,0,0,1,0,1,2,6,2,28,16,19,,,
+UBCV,2016,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,29,88.03448276,5.427988042,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,11,12,,,
+UBCV,2017,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Nancy Ross;Xiaozi Chen;Yue Dai,75,85.546666667,5.34813262,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,7,18,27,21,,,
+UBCV,2017,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Michel Facon;Nancy Ross,32,83.59375,3.444110213,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,15,12,1,,,
+UBCV,2018,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Nancy Ross;Ningrong Catherine Fu;Yvonne Ma,82,84.219512195,5.663450918,96.0,67.0,,,,,,,,,,,0,0,0,0,2,0,5,6,20,36,13,,,
+UBCV,2018,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,33,88.151515152,2.57537876,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,20,9,,,
+UBCV,2018,W,SPAN,101,,108,Beginners' Spanish I,Enrique Manchon;Nancy Ross,21,73.952380952,13.211647098,96.0,46.0,,,,,,,,,,,1,1,1,2,1,1,1,5,4,2,2,,,
+UBCV,2019,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Jorge Leiva Arriera;Jorge Leiva Arrieta;Nancy Ross;Sadaf Harandi-Zadeh,83,86.228915663,5.709054215,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,3,6,18,29,26,,,
+UBCV,2019,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,38,87.447368421,2.367543697,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,25,9,,,
+UBCV,2019,W,SPAN,101,,112,Beginners' Spanish I,Brianne Orr-Alvarez;Nancy Ross,22,76.454545455,9.786907059,91.0,50.0,,,,,,,,,,,0,1,1,0,1,2,3,2,9,1,2,,,
+UBCV,2020,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Krishnav Biyani;Marlen Petersen;Nancy Ross,105,86.314285714,6.153976647,96.0,51.0,,,,,,,,,,,0,1,0,0,1,1,2,5,16,51,28,,,
+UBCV,2020,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,41,90.658536585,3.013384775,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,15,26,,,
+UBCV,2021,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Kan Tsui;Nancy Ross;Nicholas Aldrian,78,90.179487179,3.917140455,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,21,48,,,
+UBCV,2021,W,FNH,403,,002,"Food Laws, Regulations and Quality Assurance",Nancy Ross;Nicholas Aldrian,75,87.213333333,4.863802687,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,15,28,28,,,
+UBCV,2021,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,39,89.051282051,2.635274059,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,15,21,,,
+UBCV,2021,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,39,89.1,,93.0,84.0,,,,,,,,,,,,,,,,,,,,15,21,90.0,91.0,87.0
+UBCV,2022,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Nancy Ross,84,84.9,,97.0,66.0,,,,,,,,,,,0,0,0,0,1,1,5,9,16,34,18,86.0,89.0,81.8
+UBCV,2022,W,FNH,403,,002,"Food Laws, Regulations and Quality Assurance",Nancy Ross,82,85.6,,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,5,6,22,23,25,86.0,90.0,82.0
+UBCV,2022,W,FOOD,512,,002,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,44,90.2,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,19,22,89.5,93.0,88.0
+UBCV,2023,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Nancy Ross,85,87.4,,96.0,63.0,,,,,,,,,,,0,0,0,1,1,1,1,3,13,27,38,89.0,92.0,85.0
+UBCV,2023,W,FNH,403,,002,"Food Laws, Regulations and Quality Assurance",Nancy Ross,85,85.4,,95.0,61.0,,,,,,,,,,,0,0,0,1,1,1,4,6,15,37,20,87.0,89.0,83.0
+UBCV,2023,W,FOOD,512,,001,Hazard Analysis and Critical Control Point and Food Safety Management,Nancy Ross,41,86.8,,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,17,11,87.0,90.0,84.0

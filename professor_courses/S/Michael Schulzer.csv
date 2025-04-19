@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MATH,302,,202,INTR PROBABILITY,"Schulzer, Michael",51,81.92,12.39,100,41,50,1,0,0,0,0,0,0,0,1,1,0,1,1,5,2,5,2,10,7,17
+UBC,2002,W,STAT,302,,202,INTR PROBABILITY,"Schulzer, Michael",64,71.24,17.11,100,0,59,4,1,0,0,1,0,0,2,1,4,2,3,7,9,6,5,7,9,4,7
+UBC,2002,W,STAT,550,,101,TECH STAT CONSLT,"Schulzer, Michael",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,STAT,536,C,201,STAT THRY DSG&AN,"Schulzer, Michael",14,91.55,5.59,99,81,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7
+UBC,2003,W,STAT,550,,101,TECH STAT CONSLT,"Schulzer, Michael",7,,,,,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,STAT,447,B,201,SPECIAL TOPICS,"Schulzer, Michael",34,87.32,9.04,95,56,34,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,3,6,19
+UBC,2006,W,STAT,306,,101,RLTNSHIPS DATA,"Schulzer, Michael",63,85.17,9.93,100,60,59,0,3,1,0,0,0,0,0,0,0,0,0,1,2,4,2,6,11,14,19
+UBC,2006,W,STAT,550,,201,TECH STAT CONSLT,"Schulzer, Michael",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,STAT,550,,201,TECH STAT CONSLT,"Schulzer, Michael",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHYS,545,,201,ANAT PHYS STATS,"MacKay, Alexander;Schulzer, Michael",18,90.94,4.87,97,83,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10
+UBCV,2014,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Alexander Mackay;Michael Schulzer,17,90.94117647,4.866602874,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,10
+UBCV,2019,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Joel Singer;Maryam Shirmohammad;Michael Schulzer;Nancy Ford,13,90.538461538,2.817072494,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,10

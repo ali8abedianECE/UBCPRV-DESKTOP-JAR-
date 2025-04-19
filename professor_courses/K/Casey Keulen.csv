@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",40,73.63,8.65,92,52,40,0,0,0,0,0,0,0,0,0,0,2,0,3,3,7,6,8,8,1,2,,,
+UBC,2015,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",26,77.62,9.12,95,60,26,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,2,4,6,3,3,,,
+UBC,2015,W,MTRL,594,,201,ADV COMPSIT MTRL,"Keulen, Casey;Zobeiry, Navid",4,89,3.37,94,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,,,
+UBC,2017,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",48,74.38,12.47,99,43,47,1,0,0,0,0,0,0,0,1,1,1,5,2,3,9,4,6,5,6,6,,,
+UBC,2018,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Poursartip, Anoshiravan;Zobeiry, Navid",63,78.55,14.29,100,0,61,1,0,0,1,1,0,0,0,0,1,2,0,1,2,3,11,8,10,14,10,,,
+UBCV,2014,W,MTRL,494,,201,Composite Materials,Andrew Lawrence Stewart;Casey James Keulen;Casey Keulen;Navid Zobeiry,40,73.625,8.651922863,92.0,52.0,,,,,,,,,,,0,,,,,7,6,8,8,,,,,
+UBCV,2015,W,MTRL,494,,201,Composite Materials,Casey James Keulen;Casey Keulen;Navid Zobeiry;Zi Zheng Zhou,26,77.615384615,9.117354542,95.0,60.0,,,,,,,,,,,0,0,0,,,5,,,6,,,,,
+UBCV,2017,W,MTRL,494,,201,Composite Materials,Casey Keulen;Navid Zobeiry;Seyyed Mohammad Mohseni,48,74.375,12.468897476,99.0,43.0,,,,,,,,,,,1,1,5,2,3,9,4,6,5,6,6,,,
+UBCV,2018,W,MTRL,494,,201,Composite Materials,Casey Keulen;Navid Zobeiry;Seyyed Mohammad Mohseni,63,78.015873016,14.894783741,100.0,0.0,,,,,,,,,,,2,2,0,1,2,3,10,9,10,14,10,,,
+UBCV,2019,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen;Jonathan Nakane;Markus Fengler;Nima Bakhshi;Shaghayegh Kiafar,22,88.0,13.804761083,97.0,31.0,,,,,,,,,,,1,0,0,0,0,0,0,1,2,3,15,,,
+UBCV,2019,W,MTRL,494,,201,Composite Materials,Casey Keulen;Nima Bakhshi,57,83.877192982,7.894550959,97.0,63.0,,,,,,,,,,,0,0,0,1,3,2,3,4,13,16,15,,,
+UBCV,2020,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen;Mohammadali Shahsavari;Nima Bakhshi;Shaghayegh Kiafar,45,84.2,6.706848603,97.0,62.0,,,,,,,,,,,0,0,0,1,0,1,2,4,15,12,10,,,
+UBCV,2020,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen;Erfan Forghani;Nima Bakhshi,18,84.222222222,8.06266308,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,2,5,5,,,
+UBCV,2020,W,MTRL,494,,201,Composite Materials,Casey Keulen;Nima Bakhshi,67,83.850746269,13.92648853,98.0,0.0,,,,,,,,,,,1,0,0,1,3,5,1,6,11,13,26,,,
+UBCV,2021,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen;Markus Fengler;Nima Bakhshi;Shaghayegh Kiafar,43,78.441860465,7.72226936,91.0,60.0,,,,,,,,,,,0,0,0,2,2,5,3,8,15,6,2,,,
+UBCV,2021,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen;Erfan Forghani;Nima Bakhshi;Pegah Pourabdollah,41,83.585365854,9.555039534,96.0,37.0,,,,,,,,,,,1,0,0,0,0,2,0,6,14,12,6,,,
+UBCV,2021,W,MTRL,494,,201,Composite Materials,Casey Keulen;Nima Bakhshi,57,79.614035088,12.886530047,99.0,34.0,,,,,,,,,,,2,1,0,2,5,3,3,7,7,18,9,,,
+UBCV,2021,W,MANU,230,,001,Manufacturing Engineering Laboratory,Markus Fengler;Casey Keulen,43,78.4,,91.0,60.0,,,,,,,,,,,,,,,,,,8,15,6,,80.0,84.0,73.0
+UBCV,2021,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen,41,83.6,,96.0,37.0,,,,,,,,,,,,,,,,,,6,14,12,6,83.0,89.0,83.0
+UBCV,2021,W,MTRL,494,,201,Composite Materials,Casey Keulen,57,80.3,,99.0,43.0,,,,,,,,,,,,,,,,,,7,7,18,9,83.0,88.0,75.0
+UBCV,2022,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen,42,79.7,,92.0,64.0,,,,,,,,,,,0,0,0,0,2,0,11,7,12,8,2,80.5,84.0,75.0
+UBCV,2022,W,MANU,261,,101,Thermodynamics,Casey Keulen,37,75.0,,100.0,0.0,,,,,,,,,,,3,1,2,3,0,1,6,6,4,1,10,78.0,90.0,68.0
+UBCV,2022,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen,45,76.9,,96.0,56.0,,,,,,,,,,,0,0,2,0,5,7,6,8,10,2,5,77.0,83.0,68.0
+UBCV,2022,W,MANU,430,,001,Manufacturing Design Capstone Project,Casey Keulen;Christoph Sielmann,24,80.3,,93.0,66.0,,,,,,,,,,,0,0,0,0,2,1,5,2,6,4,4,80.5,86.3,74.8
+UBCV,2023,W,MANU,230,,001,Manufacturing Engineering Laboratory,Markus Fengler;Casey Keulen,50,84.8,,93.0,62.0,,,,,,,,,,,0,0,0,1,1,0,2,4,15,13,14,86.0,90.0,83.0
+UBCV,2023,W,MANU,261,,101,Thermodynamics,Casey Keulen,52,80.7,,100.0,51.0,,,,,,,,,,,0,2,0,1,1,5,8,1,17,5,12,82.0,89.0,72.8
+UBCV,2023,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen,38,85.1,,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,7,6,8,13,87.0,91.0,79.0
+UBCV,2023,W,MANU,430,,001,Manufacturing Design Capstone Project,Adam Clare;Casey Keulen;Christoph Sielmann,31,73.9,,91.0,39.0,,,,,,,,,,,1,2,5,1,0,2,3,1,6,6,3,80.0,85.0,60.0

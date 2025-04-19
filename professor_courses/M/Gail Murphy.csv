@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CPSC,410,,101,ADV SOFTWARE ENG,"Murphy, Gail",120,72.18,9.91,92,45,112,6,1,0,1,0,0,0,0,6,6,1,5,4,13,19,29,9,22,7,3
+UBC,2002,W,CPSC,507,,201,SOFTWARE ENG,"Murphy, Gail",8,89.75,4.59,94,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+UBC,2003,W,CPSC,410,,101,ADV SOFTWARE ENG,"Murphy, Gail",83,70.95,12.36,94,24,80,2,0,0,1,0,0,1,0,1,2,6,6,5,8,14,11,8,13,4,5
+UBC,2009,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",13,72.17,18.44,97,40,10,2,1,0,0,0,0,0,0,2,2,0,0,2,1,1,1,0,1,2,2
+UBC,2011,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Murphy, Gail",103,69.6,15.82,99,22,90,9,1,1,2,0,0,2,2,5,9,7,8,8,11,10,8,6,16,3,13
+UBC,2011,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",77,72.11,12.94,98,40,67,4,4,0,1,0,0,0,0,4,4,2,3,9,9,7,6,7,11,5,8
+UBC,2013,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Murphy, Gail",162,75.17,12.83,99,27,151,4,6,0,1,0,0,1,0,3,4,3,14,11,11,10,14,20,29,17,22
+UBC,2014,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",142,75.33,15.82,96,33,123,13,4,0,2,0,0,0,2,11,13,6,6,5,6,8,9,10,29,11,33
+UBC,2016,W,CPSC,310,,201,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",148,82.19,10.63,97,34,143,2,2,0,1,0,0,0,2,0,2,1,0,1,9,11,5,15,21,37,43
+UBC,2016,W,CPSC,310,,202,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",138,80.68,9.59,95,29,129,1,6,0,2,0,0,1,0,0,1,0,1,2,4,12,11,16,32,23,28
+UBCV,2014,W,CPSC,210,,201,Software Construction,Aaron Mishkin;Alfred Sin;Andrew Lai;Anny Gakhokidze;Benjamin Cook;Billy Huang;Bryan Tai;Daniel Mckerricher;Gail Murphy;Jelena Furundzic;Li-Yi Cheng;Michael Przystupa;Napon Taratan;Neil Newman;Rachel Stiyer;Scott Wang;William Qi;Yeu Yang Tai,138,74.68115942,16.64659958,96.0,20.0,,,,,,,,,,,15,6,6,5,6,8,9,10,29,11,33
+UBCV,2015,W,CPSC,310,,201,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Marc Palyart-Lamarche,167,80.916167665,10.938719322,99.0,33.0,,,,,,,,,,,,,,2,9,11,14,15,33,40,36
+UBCV,2016,W,CPSC,310,,201,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Nicholas Bradley;Reid Holmes;Rodrigo Araujo,146,81.73972603,11.92450667,97.0,16.0,,,,,,,,,,,3,1,0,1,9,11,5,15,21,37,43
+UBCV,2016,W,CPSC,310,,202,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Reid Holmes,132,79.98484849,11.16905817,95.0,23.0,,,,,,,,,,,3,0,1,2,4,12,11,16,32,23,28

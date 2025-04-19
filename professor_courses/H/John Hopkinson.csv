@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,PHYS,112,,001,Introductory Physics I,Hiroko Nakahara;John Hopkinson,146,68.79452055,13.27321275,97.0,21.0,15,3,11,12,20,21,13,20,20,7,4,,,
+UBCO,2014,W,PHYS,112,,002,Introductory Physics I,Hiroko Nakahara;John Hopkinson,108,68.75925926,17.19697342,96.0,3.0,13,2,8,9,8,20,12,8,9,8,11,,,
+UBCO,2014,W,PHYS,122,,001,Introductory Physics II,Hiroko Nakahara;John Hopkinson;Lindsey Reinholz,146,68.39041096,14.15158005,96.0,4.0,19,,9,15,20,16,24,12,14,15,,,,
+UBCO,2014,W,PHYS,122,,002,Introductory Physics II,Hiroko Nakahara;John Hopkinson;Lindsey Reinholz,95,71.82105263,10.67705728,92.0,36.0,5,,6,9,8,10,17,17,14,6,,,,
+UBCO,2014,W,PHYS,215,,001,Thermodynamics,John Hopkinson,45,67.93333333,14.47945253,99.0,29.0,,,5,5,6,7,5,,,,,,,
+UBCO,2014,W,PHYS,400,,001,Introduction to Elementary Particles,John Hopkinson,12,72.58333333,10.99138781,96.0,60.0,0,0,0,,,,,,,,,,,
+UBCO,2015,W,PHYS,102,,001,"Electricity, Light, and Radiation",Charles Jolin-Landry;Jeffrey Krupa;John Hopkinson;Lindsey Reinholz;Morgan Alford;Xing Ai,192,70.541666667,14.329274152,99.0,0.0,12,2,16,14,18,30,24,25,30,13,8,,,
+UBCO,2015,W,PHYS,112,,001,Introductory Physics I,Charles Jolin-Landry;John Hopkinson;Raafa Abdulla,159,71.830188679,11.999054576,93.0,18.0,10,2,12,11,11,20,31,19,20,19,4,,,
+UBCO,2015,W,PHYS,112,,002,Introductory Physics I,John Hopkinson,120,72.091666667,10.745329909,91.0,32.0,6,3,5,8,13,14,25,16,17,8,5,,,
+UBCO,2015,W,PHYS,215,,001,Thermodynamics,John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb,37,59.675675676,15.291708091,83.0,22.0,6,,,6,5,5,,,,0,0,,,
+UBCO,2015,W,PHYS,303,,001,Thermal Physics II,Allan Meldrum;John Hopkinson,36,68.916666667,16.861409872,98.0,31.0,,,,7,,6,,,,,5,,,
+UBCO,2015,W,PHYS,474,,001,Solid State Physics,John Hopkinson,29,70.137931034,16.4223805,98.0,29.0,,,5,,,,,,,,5,,,
+UBCO,2016,W,PHYS,102,,001,"Electricity, Light, and Radiation",Jeffrey Krupa;John Hopkinson;Siu Lung Tang,227,70.26431718,15.12516232,98.0,0.0,20,5,14,10,30,35,21,30,31,21,10,,,
+UBCO,2016,W,PHYS,112,,001,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Emily Wilson;Eric Nelson;John Hopkinson;Marie Pierre Milette;Robert Lalonde;Sean Blackmore,174,66.58045977,16.88594408,100.0,0.0,38,3,11,13,16,22,15,18,15,10,13,,,
+UBCO,2016,W,PHYS,112,,002,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Celine Edwards;Celine M Edwards;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,112,68.20535714,15.11704389,95.0,18.0,19,3,5,9,13,10,16,11,13,6,7,,,
+UBCO,2016,W,PHYS,112,,003,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,36,60.05555556,20.68255917,94.0,0.0,11,1,3,2,3,5,3,2,3,1,2,,,
+UBCO,2016,W,PHYS,122,,001,Introductory Physics II,Alexander Bunka;Andrew Ogilvy;Ben Tippett;Boyi Chen;John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Sean Colford,153,72.86928105,13.49058776,98.0,12.0,7,7,11,9,20,10,16,16,27,19,11,,,
+UBCO,2016,W,PHYS,122,,002,Introductory Physics II,Alexander Bunka;Andrew Ogilvy;Boyi Chen;John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Sean Blackmore;Sean Colford,109,74.01834862,12.89486091,99.0,15.0,3,5,4,4,12,12,14,17,20,10,8,,,
+UBCO,2016,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Matthew Basso,28,71.53571429,10.08659596,94.0,49.0,1,0,0,5,4,6,4,3,2,1,2,,,
+UBCO,2016,W,PHYS,215,,001,Thermodynamics,John Hopkinson,23,63.65217391,17.83920273,90.0,19.0,3,2,2,4,3,1,2,2,2,1,1,,,
+UBCO,2016,W,PHYS,303,,001,Thermal Physics II,John Hopkinson,22,65.63636364,14.4536878,91.0,47.0,7,0,1,3,0,3,1,2,3,1,1,,,
+UBCO,2017,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Allison Percy;Andrew Ogilvy;Araz Sholehkerdar;David Roberts;John Hopkinson;Tobyn Neame,198,72.474747475,13.975572187,100.0,0.0,17,7,5,17,17,21,22,30,18,26,18,,,
+UBCO,2017,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Allison Percy;Andrew Ogilvy;Araz Sholehkerdar;John Hopkinson;Kaden Kujanpaa;Kai Neubauer;Miranda Kirby;Ramie Ali Adeeb,210,75.342857143,11.438479984,100.0,46.0,1,6,14,13,17,34,18,26,37,19,25,,,
+UBCO,2017,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Stephen Collins,37,73.648648649,17.98643967,100.0,0.0,4,0,2,0,3,4,4,3,9,2,6,,,
+UBCO,2017,W,PHYS,215,,101,Thermodynamics,John Hopkinson;Stephen Collins,35,71.542857143,19.189983382,99.0,0.0,3,3,2,2,2,1,5,3,5,4,5,,,
+UBCO,2017,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,12,61.0,17.093326715,90.0,33.0,3,2,1,0,3,0,0,0,2,0,1,,,
+UBCO,2017,W,PHYS,474,,101,Solid State Physics,John Hopkinson,11,71.454545455,11.387393348,84.0,50.0,0,1,1,1,0,2,1,1,4,0,0,,,
+UBCO,2018,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Scarrott;Yas Yamin,279,73.505376344,12.166373923,97.0,17.0,15,6,10,12,29,41,40,31,42,32,21,,,
+UBCO,2018,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Scarrott;Megan Greenwood;Ria Meston,181,71.287292818,15.661534758,99.0,0.0,13,4,10,14,19,23,25,21,19,19,14,,,
+UBCO,2018,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Andrew Ogilvy;Elizabeth Houghton;John Hopkinson;Mitchell Wiebe;Ramie Ali Adeeb;Satori Kitamori;Xinchen Deng,221,72.7239819,14.60450785,99.0,4.0,13,5,8,19,21,25,30,26,36,19,19,,,
+UBCO,2018,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Andrew Ogilvy;Erica Tolles;John Hopkinson;Kendra Scarrott;Lukas Ewing;Megan Greenwood;Ramie Ali Adeeb;Ria Meston,350,74.502857143,11.708921628,98.0,6.0,8,5,17,29,32,44,41,54,51,35,34,,,
+UBCO,2018,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Sean Colford,41,72.585365854,10.288283651,94.0,56.0,0,0,6,1,8,4,9,4,3,2,4,,,
+UBCO,2018,W,PHYS,400,,001,Introduction to Elementary Particles,John Hopkinson,23,73.347826087,11.76902211,96.0,50.0,0,2,0,2,4,4,1,4,3,0,3,,,
+UBCO,2018,W,PHYS,401,,101,Electromagnetic Theory,Daniel Vollick;John Hopkinson,13,71.153846154,19.334106969,97.0,31.0,2,1,0,1,0,0,3,1,2,0,3,,,
+UBCO,2018,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,17,69.235294118,15.295135713,96.0,44.0,1,1,2,4,2,1,1,0,1,2,2,,,
+UBCO,2019,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Leah Hamill;Madeleine Czechowski;Maryam Sadeghi;Olivia Stanton;Sayra Gorgani,258,75.829457364,11.996188779,100.0,29.0,9,3,13,15,14,24,41,36,36,33,34,,,
+UBCO,2019,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;John Hopkinson;Leah Hamill;Madeleine Czechowski;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Michael Gowe;Nusrat Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng,204,74.18627451,9.895742621,98.0,43.0,1,2,13,15,20,24,38,31,27,24,9,,,
+UBCO,2019,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;Hadi Hairi;John Hopkinson;Leah Hamill;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Nathan Nichol;Nusrat Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng;Yas Yamin,114,73.035087719,12.450915895,100.0,34.0,5,2,8,5,13,16,16,15,15,9,10,,,
+UBCO,2019,W,PHYS,200,,001,Relativity and Quanta,David Roberts;Jason Reich;John Hopkinson,31,72.516129032,13.588894897,96.0,44.0,2,0,4,3,3,2,4,2,5,2,4,,,
+UBCO,2019,W,PHYS,215,,101,Thermodynamics,John Hopkinson;Kendra Scarrott,25,80.28,9.749017044,97.0,58.0,0,0,1,1,1,0,4,5,4,5,4,,,
+UBCO,2019,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,15,77.0,9.524404743,99.0,63.0,0,0,0,1,2,2,2,2,3,2,1,,,
+UBCO,2019,W,PHYS,474,,101,Solid State Physics,John Hopkinson,16,73.8125,15.942474714,97.0,42.0,1,2,0,1,0,3,2,0,3,0,4,,,
+UBCO,2020,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Alejandra Fuentes Nunez;Alisa Chung;Amanda Visser;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Jakob Marshall;Jason Reich;John Hopkinson;Karanmeet Khatra;Laken Tucker;Michael Kudla-Hooper;Mitchell Wiebe;Nathan Nichol;Pinku Nath;Ramin Shahbazi;Seger Nelson;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zhongda Huang;Zil Huma,250,76.672,13.811860336,99.0,0.0,10,7,8,5,18,21,31,33,53,25,39,,,
+UBCO,2020,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Amanda Visser;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Gurbir Amrit;Jakob Marshall;Jason Reich;John Hopkinson;Laken Tucker;Michael Kudla-Hooper;Mitchell Wiebe;Nikolai Lesack;Olivia Ireland;Olivia Stanton;Ramie Ali Adeeb;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zhongda Huang,306,75.803921569,13.308475704,100.0,2.0,10,9,12,20,20,35,32,41,44,40,43,,,
+UBCO,2020,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Samuel Ruttiman,27,78.666666667,16.112584666,100.0,18.0,1,0,0,2,2,1,4,3,3,4,7,,,
+UBCO,2020,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski;John Hopkinson;Michael Kudla-Hooper;Reza Khanbabaie-Shoub,22,79.318181818,10.199842966,95.0,56.0,0,0,1,0,1,3,3,4,2,3,5,,,
+UBCO,2020,W,PHYS,400,,101,Introduction to Elementary Particles,John Hopkinson;Mitchell Wiebe;Reza Khanbabaie-Shoub,18,90.944444444,7.734355916,100.0,69.0,0,0,0,0,0,1,0,0,2,4,11,,,
+UBCO,2020,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,22,70.454545455,17.978101157,96.0,35.0,3,0,4,0,0,4,2,1,1,3,4,,,
+UBCO,2021,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Ainsley Light;Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Dakota Mckeown;Devin Reinholz;Hannah Tapper;Jakob Marshall;Jason Reich;Jenna Norris;John Hopkinson;Kendra Mcnabb;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Maysey Lu;Mikayla Tchir;Mitchell Wiebe;Nathan Nichol;Olivia Stanton;Oluwapelumi Kola-Ilesanmi;Sandra Popescu;Stephen Collins;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,264,73.375,17.345282941,99.0,1.0,31,6,7,9,20,28,25,25,45,30,38,,,
+UBCO,2021,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Devin Reinholz;Emily Mellors;Hannah Tapper;John Hopkinson;Keiran Malott;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Nathan Nichol;Oluwapelumi Kola-Ilesanmi;Samuel Ruttiman;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,239,74.012552301,11.09564271,99.0,37.0,8,6,10,16,22,31,29,33,43,26,15,,,
+UBCO,2021,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Samuel Ruttiman,16,74.125,9.200543462,88.0,56.0,0,0,2,0,2,2,1,4,3,2,0,,,
+UBCO,2021,W,PHYS,320,,001,Environmental Physics,Jason Reich;John Hopkinson,24,82.583333333,10.721439985,98.0,55.0,0,0,1,0,1,1,4,1,3,5,8,,,
+UBCO,2021,W,PHYS,328,,101,Advanced Mechanics,Amaan Ali Khan;John Hopkinson;Reza Khanbabaie-Shoub,14,80.0,12.102129501,97.0,60.0,0,0,0,1,2,1,1,3,1,1,4,,,
+UBCO,2021,W,PHYS,474,,101,Solid State Physics,John Hopkinson,7,80.714285714,11.025943432,95.0,66.0,0,0,0,0,1,0,2,1,0,1,2,,,
+UBCO,2021,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson,16,74.1,,88.0,56.0,,,,,,,,,,,,76.0,80.0,69.8
+UBCO,2021,W,PHYS,320,,001,Environmental Physics,John Hopkinson,24,82.6,,98.0,55.0,,,,,,,,,,,8,86.5,90.0,75.0
+UBCO,2021,W,PHYS,474,,101,Solid State Physics,John Hopkinson,7,80.7,,95.0,66.0,,,,,,,,,,,,77.0,90.0,73.5
+UBCO,2022,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,John Hopkinson,236,73.6,,99.0,49.0,7,7,15,9,18,38,35,44,29,13,21,74.0,80.0,68.0
+UBCO,2022,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson,18,66.4,,95.0,24.0,2,2,2,0,2,4,2,1,1,1,1,70.0,74.8,56.8
+UBCO,2022,W,PHYS,215,,101,Thermodynamics,John Hopkinson,18,69.3,,91.0,48.0,1,1,3,0,3,3,0,3,1,2,1,68.5,78.8,58.8
+UBCO,2022,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,19,67.4,,95.0,7.0,2,0,2,1,1,5,3,2,2,0,1,70.0,76.0,64.0
+UBCO,2023,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,John Hopkinson,115,74.7,,97.0,49.0,3,1,6,9,10,11,17,13,23,9,10,75.0,82.0,67.0
+UBCO,2023,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson,21,70.3,,92.0,55.0,0,0,3,3,4,0,4,3,0,2,1,69.0,76.5,62.8
+UBCO,2023,W,PHYS,304,,001,Introduction to Quantum Mechanics,John Hopkinson,12,75.8,,95.0,60.0,0,0,0,2,1,1,2,1,3,0,2,75.5,81.0,67.8
+UBCO,2023,W,PHYS,474,,101,Solid State Physics,John Hopkinson,10,80.1,,94.0,71.0,0,0,0,0,0,2,1,0,5,0,1,81.0,83.0,74.0

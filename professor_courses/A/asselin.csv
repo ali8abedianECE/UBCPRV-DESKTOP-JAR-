@@ -1,0 +1,74 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LIBE,508,A,061,THRY & RES TLIB,"Asselin, Marlene",9,88.78,3.46,94,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4
+UBC,2002,W,LLED,310,,106,INTR EL RD & LA,"Asselin, Marlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,LLED,310,,107,INTR EL RD & LA,"Asselin, Marlene",38,,,,,0,0,1,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,LIBE,527,A,061,SEM TCHR LIBRSHP,"Asselin, Marlene",10,88.67,4.85,95,83,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4
+UBC,2005,W,LLED,310,,103,INTR EL RD & LA,"Asselin, Marlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,LLED,310,,107,INTR EL RD & LA,"Asselin, Marlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,LLED,310,,103,INTR EL RD & LA,"Asselin, Marlene",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,LLED,310,,106,INTR EL RD & LA,"Asselin, Marlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,LIBE,508,A,061,THRY & RES TLIB,"Asselin, Marlene",11,86.73,4.27,92,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,3
+UBC,2007,W,LLED,310,,201,INTR EL RD & LA,"Asselin, Marlene",39,,,,,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,LLED,310,,202,INTR EL RD & LA,"Asselin, Marlene;Lenters, Kimberly",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",16,77.06,12.8,96,50,16,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,2,3,5,1
+UBC,2007,W,MTRL,465,,201,ENG DESIGN II,"Asselin, Edouard;Barr, Peter",21,75.57,13.65,90,32,20,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,4,4,3,5,1
+UBC,2009,W,LLED,310,,104,INTR EL RD & LA,"Asselin, Marlene",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,LLED,481,,001,DIG MEDIA ART ED,"Asselin, Marlene",13,80.62,5.22,92,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,2,1
+UBC,2009,W,LLED,580,A,62A,PROB IN EDUC,"Asselin, Marlene",21,84,4.51,93,76,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,8,2
+UBC,2009,W,MECH,221,,101,ENGIN SCIENCE I,"Asselin, Edouard;Croft, Elizabeth;FATOURECHI, MEHRDAD;OKWUDIRE, CHINEDUM;Ostafichuk, Peter;Schajer, Gary",124,74.46,10.22,92,43,118,5,1,0,0,0,0,0,0,5,5,0,3,5,12,21,19,16,20,12,10
+UBC,2009,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",10,71.6,24.4,87,7,9,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,2,2,3,0
+UBC,2009,W,MTRL,464,,101,ENG DESIGN I,"Alfantazi, Akram;Asselin, Edouard;Militzer, Matthias;Poursartip, Anoshiravan",36,75.08,13.87,86,2,35,1,0,0,0,1,0,0,0,0,1,0,1,0,1,2,7,9,14,1,0
+UBC,2009,W,MTRL,465,,201,ENG DESIGN II,"Asselin, Edouard;Maijer, Daan;Troczynski, Tom;Wassink, Berend",35,72.17,10.8,84,24,34,1,0,0,0,0,0,1,0,0,1,1,0,1,4,7,7,6,8,0,0
+UBC,2009,W,MTRL,466,,101,ENG PROJECT I,"Asselin, Edouard;Dreisinger, David;Wang, Rizhi",36,82.53,10.15,100,58,36,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,2,3,12,7,7
+UBC,2009,W,MTRL,467,,201,ENG PROJECT II,"Alfantazi, Akram;Asselin, Edouard;Dixon, David;Ko, Frank",34,74.53,15.01,85,0,32,2,0,0,0,1,0,0,0,1,2,0,0,1,1,1,4,9,15,1,0
+UBC,2009,W,MTRL,592,E,202,ADVANCED TOPICS,"Asselin, Edouard",4,79,6.83,88,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+UBC,2010,W,LLED,310,,104,INTR EL RD & LA,"Asselin, Marlene",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,LLED,480,B,001,ADV ST LNG LIT,"Asselin, Marlene",6,81,4.64,87,75,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0
+UBC,2010,W,LLED,481,,001,DIG MEDIA ART ED,"Asselin, Marlene",11,87,4.52,92,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4
+UBC,2010,W,LLED,565,B,061,SP CRS SBJCT FLD,"Asselin, Marlene",11,84.9,4.61,90,78,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,3
+UBC,2010,W,MECH,221,,101,ENGIN SCIENCE I,"Asselin, Edouard;Croft, Elizabeth;FATOURECHI, MEHRDAD;Ostafichuk, Peter;Schajer, Gary",126,73.15,12.02,97,18,122,4,0,0,0,0,1,0,0,3,4,2,4,13,13,19,19,15,13,13,11
+UBC,2010,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",32,74.9,14.96,93,39,28,3,1,0,0,0,0,0,2,1,3,1,0,0,1,4,4,4,5,3,6
+UBC,2010,W,MTRL,464,,101,ENG DESIGN I,"Asselin, Edouard;Barr, Peter;Fernlund, Goran;Troczynski, Tom",39,76.62,6.24,88,61,39,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,7,11,10,3,0
+UBC,2010,W,MTRL,465,,201,ENG DESIGN II,"Asselin, Edouard;Poursartip, Anoshiravan;Wassink, Berend;Xia, Guangrui",39,71.82,7.45,86,50,39,0,0,0,0,0,0,0,0,0,0,1,0,4,7,4,9,9,4,1,0
+UBC,2010,W,MTRL,466,,101,ENG PROJECT I,"Alfantazi, Akram;Asselin, Edouard;Dreisinger, David;Ko, Frank;Sinclair, Chadwick",40,72.38,11.15,89,50,40,0,0,0,0,0,0,0,0,0,0,4,3,2,3,3,5,8,8,4,0
+UBC,2010,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Cockcroft, Steven;Maijer, Daan;Wang, Rizhi",38,80.29,7.27,90,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,6,8,12,3
+UBC,2011,W,LLED,565,B,061,SP CRS SBJCT FLD,"Asselin, Marlene",7,83.5,5.65,89,75,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+UBC,2011,W,MECH,221,,101,ENGIN SCIENCE I,"Asselin, Edouard;Cripton, Peter;FATOURECHI, MEHRDAD;Ostafichuk, Peter;Schajer, Gary",137,72.85,10.08,99,46,132,3,2,0,0,0,0,0,0,3,3,1,7,15,8,26,26,7,28,6,8
+UBC,2011,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",26,78.38,8.14,96,63,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,6,6,4,2
+UBC,2011,W,MTRL,466,,101,ENG PROJECT I,"Asselin, Edouard;Cockcroft, Steven;Dreisinger, David;Sinclair, Chadwick;Wang, Rizhi",31,81.03,6.97,93,65,31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,5,11,7,3
+UBC,2011,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Barr, Peter;Dixon, David;Militzer, Matthias",29,75.93,10.74,91,53,29,0,0,0,0,0,0,0,0,0,0,1,3,2,1,0,3,6,7,4,2
+UBC,2012,W,LLED,351,,110,LTR PRC&AST ELEM,"Asselin, Marlene",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",9,70.78,12.74,91,50,9,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,2,1,0,1
+UBC,2012,W,MTRL,466,,101,ENG PROJECT I,"Alfantazi, Akram;Asselin, Edouard;Dreisinger, David;Fernlund, Goran;Ko, Frank",38,77.55,5.1,85,63,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8,9,14,3,0
+UBC,2012,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Barr, Peter;Cockcroft, Steven;Wassink, Berend;Xia, Guangrui",37,77.41,8.3,95,60,37,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,6,11,3,5,3
+UBC,2012,W,MTRL,559,,201,ADV HYDROMTLRGY,"Asselin, Edouard",10,78.67,12.82,98,62,9,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2,1,0,1,2
+UBC,2013,W,LLED,350,,101,CLSRM DISCRS ELM,"Asselin, Marlene",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,LLED,350,,104,CLSRM DISCRS ELM,"Asselin, Marlene",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,LLED,565,D,063,SP CRS SBJCT FLD,"Asselin, Marlene",12,86,4.35,91,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,4
+UBC,2013,W,MTRL,593,B,102,DIR ST MATRL ENG,"Asselin, Edouard",4,86.25,2.5,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2014,W,LLED,350,,101,CLSRM DISCRS ELM,"Asselin, Marlene",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,LLED,350,,102,CLSRM DISCRS ELM,"Asselin, Marlene",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,MTRL,250,,101,MET THERMODYN I,"Asselin, Edouard",51,66.75,11.3,95,34,47,4,0,0,0,0,0,0,1,3,4,2,4,8,8,6,11,5,0,2,1
+UBC,2014,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",18,78.72,12.42,98,55,18,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,3,2,1,6
+UBC,2014,W,MTRL,467,,201,ENG PROJECT II,"Asselin, Edouard;Cockcroft, Steven;Fernlund, Goran;Poursartip, Anoshiravan",48,76.06,9.9,90,50,48,0,0,0,0,0,0,0,0,0,0,3,1,0,4,6,7,8,7,11,1
+UBC,2015,S,LIBE,465,,93S,ORG LRN RES,"Asselin, Marlene",28,83.93,2.76,90,78,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,7,2
+UBC,2015,S,LLED,565,H,952,SP CRS SBJCT FLD,"Asselin, Marlene",6,90.17,3.76,93,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4
+UBC,2015,W,ECED,585,E,61A,RES EARLY CHLDHD,"Asselin, Marlene",17,87.59,4.09,95,80,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,5
+UBC,2015,W,IGEN,451,,201,PIPELINE SYSTS,"Asselin, Edouard;Isaacson, Michael D;Kirchen, Patrick;Mikkelsen, Jon;Wijewickreme, Dharmapriya",18,75.67,11.46,92,53,18,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,6,2,2
+UBC,2015,W,LLED,350,,104,CLSRM DISCRS ELM,"Asselin, Marlene",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,MTRL,250,,101,MET THERMODYN I,"Asselin, Edouard",62,71.14,14.61,91,10,56,3,0,3,0,0,1,0,1,1,3,5,3,3,3,3,10,12,10,5,2
+UBC,2015,W,MTRL,263,,201,TRANSPORT PHEN I,"Asselin, Edouard",52,71.21,13.28,98,22,50,2,0,0,0,0,0,1,0,1,2,3,2,7,4,5,8,9,5,4,3
+UBC,2016,W,ECED,585,E,61A,RES EARLY CHLDHD,"Asselin, Marlene",14,86.71,5.06,99,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,3
+UBC,2016,W,LLED,350,,102,CLSRM DISCRS ELM,"Asselin, Marlene",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,350,,104,CLSRM DISCRS ELM,"Asselin, Marlene",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,MTRL,250,,101,MET THERMODYN I,"Asselin, Edouard",61,71.17,12.18,93,24,58,2,1,0,0,0,0,1,0,1,2,3,2,4,13,6,6,10,6,4,4
+UBC,2016,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",6,72.17,21.57,91,40,5,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,2,1,1
+UBC,2017,S,LLED,559,,921,EARLY LITERACIES,"Asselin, Marlene",12,87.18,6.15,96,77,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,4
+UBC,2017,W,ECED,508,B,62A,REV RES IN ECED,"Asselin, Marlene",22,86.95,5.65,99,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,5,7
+UBC,2017,W,MTRL,250,,101,PRINC & CALC ENG,"Asselin, Edouard",59,69.82,11.15,96,43,55,2,2,0,0,0,0,0,0,2,2,3,5,8,7,6,9,6,5,4,2
+UBC,2017,W,MTRL,466,,101,ENG PROJECT I,"Asselin, Edouard;Poursartip, Anoshiravan;Sinclair, Chadwick;Wang, Rizhi",34,80.82,10.83,96,50,34,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,2,3,6,9,7
+UBC,2018,S,LLED,559,,921,EARLY LITERACIES,"Asselin, Marlene",10,89.11,3.14,95,85,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3
+UBC,2018,W,ECED,508,B,62A,REV RES IN ECED,"Asselin, Marlene",16,87.44,2.85,92,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,6
+UBC,2018,W,MTRL,250,,101,PRINC & CALC ENG,"Asselin, Edouard",51,74.04,13.89,100,33,48,2,1,0,0,0,0,0,1,1,2,3,1,4,4,6,9,6,6,3,6
+UBC,2018,W,MTRL,458,,201,HYDROMETLLRGY II,"Asselin, Edouard",19,76.74,9.42,92,59,19,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,2,4,2,2
+UBC,2018,W,MTRL,466,,101,ENG PROJECT I,"Asselin, Edouard;Dixon, David;Sinclair, Chadwick;Wang, Rizhi",71,82.68,5.42,91,55,71,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,10,33,21,3

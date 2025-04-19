@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,CPSC,110,,202,"Computation, Programs, and Programming",James Joseph Little;James Little,210,67.69047619,19.499341291,99.0,13.0,56,3,5,5,14,10,23,24,28,19,23,,,
+UBCV,2016,W,CPSC,110,,103,"Computation, Programs, and Programming",James Joseph Little;James Little,148,71.40540541,19.39136418,97.0,30.0,42,1,0,0,5,6,14,5,23,25,27,,,
+UBCV,2016,W,CPSC,425,,201,Computer Vision,James Joseph Little;James Little,104,71.59615385,10.81577348,96.0,39.0,1,7,6,10,11,11,13,21,15,5,4,,,
+UBCV,2016,W,CPSC,505,,201,Image Understanding I: Image Analysis,James Joseph Little;James Little,15,74.2,12.451047,86.0,36.0,1,0,0,0,0,4,2,2,3,3,0,,,
+UBCV,2019,W,CPSC,425,,101,Computer Vision,Farnoosh Javadifishani;Ivan Beschastnikh;James Joseph Little;James Little;Mir Rayat Imtiaz Hossain;Zicong Fan,69,76.869565217,11.102348776,94.0,41.0,1,2,3,3,5,6,6,8,15,14,6,,,
+UBCV,2020,W,CPSC,425,,201,Computer Vision,James Little;Jiahui Huang;Kalli Leung;Mir Rayat Imtiaz Hossain;Tzu-Yun Shann;Wonho Bae,142,75.084507042,11.692570811,93.0,5.0,3,4,2,7,7,18,25,15,39,13,9,,,
+UBCV,2021,W,CPSC,425,,101,Computer Vision,James Little;Jiahui Huang;Mir Rayat Imtiaz Hossain;Peyman Gholami;Tianyu Hua;Yizhuo He,126,77.801587302,9.280534331,93.0,37.0,2,0,3,6,8,9,15,16,39,16,12,,,
+UBCV,2021,W,CPSC,425,,201,Computer Vision,Bicheng Xu;James Little;Jiahui Huang;Mir Rayat Imtiaz Hossain;Tanzila Rahman;Wonho Bae,137,76.04379562,12.901133451,95.0,16.0,4,4,3,9,3,15,19,9,33,22,16,,,
+UBCV,2021,W,CPSC,449,,001,Honours Thesis,James Little,9,95.111111111,6.450667493,100.0,80.0,0,0,0,0,0,0,0,0,1,0,8,,,
+UBCV,2021,W,CPSC,425,,101,Computer Vision,James Little,126,77.8,,93.0,37.0,,,,6,8,9,15,16,39,16,12,80.0,84.0,73.0
+UBCV,2021,W,CPSC,425,,201,Computer Vision,James Little,137,76.0,,95.0,16.0,,,,9,,15,19,9,33,22,16,80.0,85.0,70.0
+UBCV,2021,W,CPSC,449,,001,Honours Thesis,James Little,9,95.1,,100.0,80.0,,,,,,,,,,,8,97.0,100.0,93.0

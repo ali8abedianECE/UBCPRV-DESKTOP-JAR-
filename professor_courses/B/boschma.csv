@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,NURS,310,,001,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",57,78.2,6.95,88,58,56,0,1,0,0,0,0,0,0,0,0,0,1,0,3,6,13,5,15,13,0
+UBC,2005,W,NURS,310,,002,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",56,80.7,5.48,94,65,56,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,14,17,15,1
+UBC,2005,W,NURS,503,,001,CNC KNW CLN NURS,"Boschma, Geertje",19,80.79,6.64,90,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,7,2,3
+UBC,2005,W,NURS,503,,002,CNC KNW CLN NURS,"Boschma, Geertje",8,81.5,5.32,90,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,1
+UBC,2005,W,NURS,585,B,002,SPCL TPC NURSING,"Boschma, Geertje",6,85.33,3.5,90,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1
+UBC,2006,W,NURS,310,,002,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",58,83.46,5.74,95,60,57,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,22,22,5
+UBC,2006,W,NURS,511,,001,FNDTNS NURS PRAC,"Boschma, Geertje",12,83.08,4.36,91,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,1
+UBC,2006,W,NURS,511,,002,FNDTNS NURS PRAC,"Boschma, Geertje",12,81.18,5.02,89,74,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,0
+UBC,2006,W,NURS,511,,02K,FNDTNS NURS PRAC,"Boschma, Geertje;Mahara, Star",9,81,1.51,83,79,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0
+UBC,2007,W,NURS,511,,002,FNDTNS NURS PRAC,"Boschma, Geertje;McPherson, Gladys",8,81.13,5.03,88,71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,1,0
+UBC,2007,W,NURS,511,,01B,FNDTNS NURS PRAC,"Boschma, Geertje",26,84.4,6.8,92,68,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,3,6,8,6
+UBC,2009,S,NURS,586,A,941,SP D NURS PRAC,"Boschma, Geertje",12,86.42,3.7,93,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,3
+UBC,2009,W,NURS,304,,001,RELATIONAL PRACT,"Boschma, Geertje;Smye, Victoria;Tan, Elsie",89,81.83,5.08,91,65,89,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,15,40,20,4
+UBC,2009,W,NURS,511,,01A,FNDTNS NURS PRAC,"Boschma, Geertje",25,83.76,4.67,94,77,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,9,2
+UBC,2010,S,NURS,502,,98A,ETHC&POLTC NURS,"Boschma, Geertje",14,84.07,4.57,90,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6,1
+UBC,2011,W,NURS,502,,99C,ETHC&POLTC NURS,"Boschma, Geertje",6,79.83,6.88,89,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,0
+UBC,2012,W,NURS,502,,002,ETHC&POLTC NURS,"Boschma, Geertje",11,82.91,4.01,90,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,2,1
+UBC,2012,W,NURS,511,,01B,FNDTNS NURS PRAC,"Boschma, Geertje",15,81.47,4.5,92,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,2,1
+UBC,2013,W,NURS,302,,001,FNDTN NURS PRACT,"Boschma, Geertje;Brown, Helen Jean;Camacho, Sarah;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Valkenier, Beverley",118,84.01,4.45,94,71,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,10,41,53,9
+UBC,2013,W,NURS,502,,002,ETHC&POLTC NURS,"Boschma, Geertje",9,83.78,3.63,90,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,1
+UBC,2014,W,NURS,302,,001,FNDTN NURS PRACT,"Affleck, Frances;Boschma, Geertje;Brown, Helen Jean;Foster, Paula;Jackson, Cathryn;McBurney, Sheila Mary;Rea, Gail;Thorne, Sally",120,87.02,5.45,95,47,118,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,6,19,56,37
+UBC,2014,W,NURS,511,,001,FNDTNS NURS PRAC,"Boschma, Geertje",29,80.93,5.88,91,63,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,14,6,1
+UBC,2014,W,NURS,580,,001,PHIL EVIDENCE,"Boschma, Geertje",5,85.2,4.6,92,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2015,W,NURS,341,,001,PRACTICE PRAXIS,"Boschma, Geertje",113,79.63,5.48,89,65,113,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,11,30,39,22,0
+UBC,2015,W,NURS,511,,001,FNDTNS NURS PRAC,"Boschma, Geertje",27,83.78,4.38,93,76,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,12,2
+UBC,2016,W,NURS,335,,204,ADLT MNTL ILLNSS,"Boschma, Geertje",20,81.5,5.96,90,69,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,7,6,1
+UBC,2016,W,NURS,341,,001,PRACTICE PRAXIS,"Boschma, Geertje",118,78.57,5.5,91,63,118,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,29,31,31,16,2
+UBC,2016,W,NURS,511,,001,FNDTNS NURS PRAC,"Boschma, Geertje",28,83.43,4.32,93,73,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,15,7,3
+UBC,2016,W,NURS,581,,002,LDRSHP KNLDG APP,"Boschma, Geertje",6,88.67,3.56,94,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2
+UBC,2017,S,NURS,335,,945,ADLT MNTL ILLNSS,"Boschma, Geertje;Ochi, Emily",20,85.3,4.23,93,77,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,12,2
+UBC,2017,S,NURS,335,,946,ADLT MNTL ILLNSS,"Boschma, Geertje;Ochi, Emily",20,82.45,4.97,91,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,11,5,1
+UBC,2018,W,NURS,502,,002,ETHC&POLTC NURS,"Boschma, Geertje",13,84.62,4.84,92,74,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,6,2
+UBC,2018,W,NURS,502,,99A,ETHC&POLTC NURS,"Boschma, Geertje",12,85.83,5.29,94,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4
+UBC,2018,W,NURS,511,,102,FNDTNS NURS PRAC,"Boschma, Geertje",28,85,4.23,94,76,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,14,3

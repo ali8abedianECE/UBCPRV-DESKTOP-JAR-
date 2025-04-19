@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHIL,338,A,01A,PHIL OF LAW,"Russell, Joseph Paul",62,75.93,6.08,89,61,56,0,5,1,0,0,0,0,0,0,0,0,0,1,4,10,12,9,18,2,0
+UBC,2002,W,PHIL,390,A,001,HONOURS 3RD YEAR,"Russell, Joseph Paul",8,82,2.78,85,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0
+UBC,2002,W,PHIL,432,A,01A,ETHICAL THEORY,"Russell, Joseph Paul",18,77.82,6.06,85,65,17,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,2,2,7,2,0
+UBC,2002,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Russell, Joseph Paul",6,83,1.9,85,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0
+UBC,2002,W,PHIL,514,A,01A,ERLY MODERN PHIL,"Russell, Joseph Paul",4,83.67,3.21,86,80,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+UBC,2003,W,PHIL,432,A,001,ETHICAL THEORY,"Russell, Joseph Paul",17,78.44,6.11,85,68,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,6,4,0
+UBC,2003,W,PHIL,514,B,002,ERLY MODERN PHIL,"Russell, Joseph Paul",7,81.43,2.76,84,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0
+UBC,2005,W,PHIL,452,A,001,PHIL OF ACTION,"Russell, Joseph Paul",15,78.5,4.2,85,69,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,7,1,0
+UBC,2005,W,PHIL,530,A,001,MORAL PHILOSOPHY,"Russell, Joseph Paul",14,82.36,2.82,87,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,3,0
+UBC,2006,W,PHIL,330,A,001,,"Russell, Joseph Paul",67,75.4,11.1,88,0,62,1,1,0,3,1,0,0,0,0,1,1,0,0,2,7,13,19,17,3,0
+UBC,2006,W,PHIL,390,A,001,HONOURS 3RD YEAR,"Russell, Joseph Paul",5,81,4.3,85,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0
+UBC,2006,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Russell, Joseph Paul",9,85.71,3.3,90,82,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2
+UBC,2006,W,PHIL,550,A,001,METAPHYSICS,"Russell, Joseph Paul",12,83.83,2.08,88,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0
+UBC,2007,W,PHIL,414,A,001,EARLY MOD PHIL,"Russell, Joseph Paul",10,79.25,5.99,87,69,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,0
+UBC,2007,W,PHIL,432,A,002,ETHICAL THEORY,"Russell, Joseph Paul",16,70.87,23.35,89,0,13,2,1,0,0,1,0,0,0,1,2,1,0,0,0,0,1,3,6,2,0
+UBC,2007,W,PHIL,516,A,001,MODERN PHIL,"Russell, Joseph Paul",7,84.14,2.97,88,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0
+UBC,2007,W,PHIL,532,A,002,ETHIC THRY&PRAC,"Russell, Joseph Paul",4,79.75,14.06,92,60,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+UBC,2009,W,PHIL,230,A,90A,MORAL & POLI I,"Russell, Joseph Paul",104,72.17,11.23,90,0,99,2,3,0,0,1,0,0,0,1,2,2,5,6,14,10,22,17,15,7,1
+UBC,2009,W,PHIL,315,A,001,PHIL 18TH CENT,"Russell, Joseph Paul",31,73.57,15.62,84,0,27,1,2,0,1,1,0,0,0,0,1,0,1,0,0,4,7,5,10,0,0
+UBC,2009,W,PHIL,432,A,002,ETHICAL THEORY,"Russell, Joseph Paul",25,76.28,17.65,86,0,23,2,0,0,0,1,0,0,0,1,2,0,0,0,0,0,2,7,8,6,0
+UBC,2009,W,PHIL,518,A,001,20TH CENT PHIL,"Russell, Joseph Paul",16,83.54,2.11,87,80,13,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0
+UBC,2011,W,PHIL,230,A,001,MORAL & POLI I,"Russell, Joseph Paul",72,70.61,15.48,85,3,65,5,2,0,0,1,2,0,1,1,5,0,2,1,3,14,16,13,15,1,0
+UBC,2011,W,PHIL,349,A,002,PHIL OF RELIGION,"Russell, Joseph Paul",58,69.38,9.96,88,42,52,1,0,1,1,0,0,0,0,1,1,2,5,4,12,7,10,1,7,4,0
+UBC,2011,W,PHIL,450,A,001,METAPHYSICS,"Russell, Joseph Paul",19,76.47,7.6,89,60,19,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,3,7,2,0
+UBC,2011,W,PHIL,516,A,001,MODERN PHIL,"Russell, Joseph Paul",15,82.36,4.75,87,68,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,5,0
+UBC,2012,W,PHIL,330,A,001,,"Russell, Joseph Paul",74,71.75,10.41,84,0,72,1,0,0,1,1,0,0,0,0,1,1,2,0,9,14,23,14,9,0,0
+UBC,2012,W,PHIL,349,A,002,PHIL OF RELIGION,"Russell, Joseph Paul",61,72.64,11.04,89,40,54,4,1,0,1,0,0,0,0,4,4,1,1,1,8,6,10,8,13,6,0
+UBC,2012,W,PHIL,390,A,001,HONOURS 3RD YEAR,"Russell, Joseph Paul",12,83.09,2.91,88,78,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,0
+UBC,2012,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Russell, Joseph Paul",5,82.6,0.89,83,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+UBC,2012,W,PHIL,530,A,001,MORAL PHILOSOPHY,"Russell, Joseph Paul",9,83.67,2.92,90,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1
+UBC,2013,W,PHIL,349,A,002,PHIL OF RELIGION,"Russell, Joseph Paul",79,74.25,5.14,85,57,76,0,0,0,1,0,0,0,0,0,0,0,1,1,5,14,24,19,11,1,0
+UBC,2013,W,PHIL,414,A,001,EARLY MOD PHIL,"Russell, Joseph Paul",14,82.25,3.24,87,78,8,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0
+UBC,2013,W,PHIL,450,A,001,METAPHYSICS,"Russell, Joseph Paul",15,80.47,3.29,87,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,2,0
+UBC,2013,W,PHIL,516,A,001,MODERN PHIL,"Russell, Joseph Paul",8,81.57,1.99,84,78,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0
+UBC,2014,W,PHIL,315,A,002,PHIL 18TH CENT,"Russell, Joseph Paul",58,75.07,11.57,86,4,54,1,2,1,0,1,0,0,0,0,1,0,1,1,1,10,8,14,16,3,0
+UBC,2014,W,PHIL,418,A,002,20TH CENT PHIL,"Russell, Joseph Paul",19,78,15.79,87,14,18,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,4,11,3,0
+UBC,2014,W,PHIL,432,A,001,ETHICAL THEORY,"Russell, Joseph Paul",33,75.61,9.65,86,46,30,1,2,0,0,0,0,0,0,1,1,0,1,0,4,4,2,3,11,5,0
+UBC,2014,W,PHIL,491,A,001,SEM PHIL MAJORS,"Russell, Joseph Paul",33,75.52,15.21,87,0,32,1,0,0,0,1,0,0,0,0,1,0,0,1,3,4,2,2,14,6,0
+UBC,2015,W,PHIL,100,,001,INTRO TO PHIL,"Kraal, Anders;Russell, Joseph Paul",121,68.56,16.2,93,0,103,10,8,0,0,1,1,2,1,5,10,12,6,7,4,12,20,11,17,12,2
+UBC,2015,W,PHIL,530,A,001,MORAL PHILOSOPHY,"Russell, Joseph Paul",11,76,24.44,87,11,8,1,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,4,4,0
+UBC,2016,W,PHIL,414,A,001,EARLY MOD PHIL,"Russell, Joseph Paul",13,79.54,6.39,92,66,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,8,0,1
+UBC,2016,W,PHIL,490,A,001,HONOURS 4TH YEAR,"Russell, Joseph Paul",14,82.69,3.17,91,78,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,1,1
+UBCV,2014,W,PHIL,315,A,002,Philosophy in the 18th Century,Joseph Paul Russell;Richard Andrew Sandlin;Richard Sandlin,55,75.07272727,11.56920329,86.0,4.0,,,,,,,,,,,,,,,,10,8,14,16,,0
+UBCV,2014,W,PHIL,418,A,002,Topics in Twentieth-Century Philosophy,Joseph Paul Russell,19,78.0,15.78677365,87.0,14.0,,,,,,,,,,,,,,,,,,,11,,0
+UBCV,2014,W,PHIL,432,A,001,Ethical Theory,Joseph Paul Russell,31,75.61290323,9.645991981,86.0,46.0,,,,,,,,,,,,,,,,,,,11,5,0
+UBCV,2014,W,PHIL,491,A,001,Seminar for Majors in Philosophy,Joseph Paul Russell,33,75.51515152,15.20510032,87.0,0.0,,,,,,,,,,,,,,,,,,,14,6,0
+UBCV,2015,W,PHIL,100,,001,Introduction to Philosophy,Anders Kraal;Chien Wong;Jasper Heaton;Jonathan Lopez;Joseph Paul Russell;Matthew Cleveland Smithdeal;Matthew Smithdeal;Warren Bowen,113,68.557522124,16.20016427,93.0,0.0,,,,,,,,,,,10,12,6,7,,12,20,11,17,12,
+UBCV,2015,W,PHIL,530,A,001,Moral Philosophy,Joseph Paul Russell,9,76.0,24.443813123,87.0,11.0,,,,,,,,,,,,,,,,,,,,,0
+UBCV,2016,W,PHIL,414,A,001,Topics in the History of Modern Philosophy,Joseph Paul Russell,13,79.53846154,6.38507876,92.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,1,8,0,1
+UBCV,2016,W,PHIL,490,A,001,Honours Tutorial,Joseph Paul Russell,13,82.69230769,3.172396975,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,1,1
+UBCV,2019,W,PHIL,230,,003,Introduction to Ethics,Bruno Guindon;Joseph Paul Russell;Servaas Van Der Berg,83,73.86746988,8.890624116,87.0,22.0,,,,,,,,,,,2,0,0,1,6,14,27,15,13,5,0
+UBCV,2019,W,PHIL,530,A,001,Moral Philosophy,Joseph Paul Russell,9,85.111111111,2.260776661,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,0
+UBCV,2020,W,PHIL,230,,003,Introduction to Ethics,Joseph Paul Russell;Willow Verkerk;Xinyi Zhao,58,72.068965517,15.177155119,90.0,13.0,,,,,,,,,,,3,2,3,1,2,9,8,10,14,5,1
+UBCV,2020,W,PHIL,530,A,001,Moral Philosophy,Joseph Paul Russell;Kimberley Brownlee;Kimberly Brownlee,15,88.8,6.371812929,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,6

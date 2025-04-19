@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,MATH,101,,206,INT CALC AP PH S,"Desaulniers, Shawn;MacLean, Mark Thomson",177,68.07,18.16,98,0,151,19,1,0,6,2,3,1,1,12,19,16,15,11,16,13,14,8,24,20,14
+UBC,2013,W,MATH,110,,004,DIFF CALCULUS,"Desaulniers, Shawn;Leung, Fok-Shuen;Sargent, Pamela",128,56.43,15.99,96,16,74,31,15,0,8,0,1,7,9,14,31,10,16,13,13,4,8,0,8,0,2
+UBC,2014,W,MATH,101,,209,INT CALC AP PH S,"Desaulniers, Shawn",187,65.27,18.5,95,16,147,31,8,0,0,0,2,9,10,10,31,13,20,6,16,18,15,11,22,16,10
+UBC,2014,W,MATH,110,,001,DIFF CALCULUS,"Desaulniers, Shawn",113,64.63,15.98,97,23,82,15,13,0,3,0,0,3,6,6,15,8,8,8,9,12,11,7,13,4,2
+UBC,2014,W,MATH,335,,202,INTRO TO MATH,"Desaulniers, Shawn",13,73.33,9.05,88,60,12,0,1,0,0,0,0,0,0,0,0,0,0,3,0,2,3,1,1,2,0
+UBC,2015,W,MATH,104,,102,DFF CALC AP C&SS,"Desaulniers, Shawn",189,71.76,15.74,96,20,172,12,2,0,3,0,0,2,4,6,12,19,10,13,7,15,20,17,27,22,22
+UBC,2015,W,MATH,104,,103,DFF CALC AP C&SS,"Desaulniers, Shawn",101,68.72,17.43,100,26,88,11,1,0,1,0,0,3,3,5,11,10,8,5,4,10,15,8,5,9,14
+UBC,2015,W,MATH,335,,201,INTRO TO MATH,"Desaulniers, Shawn",55,76.26,15.29,97,20,50,4,1,0,0,0,0,1,0,3,4,2,2,1,1,4,6,4,15,4,11
+UBC,2016,W,MATH,104,,102,DFF CALC AP C&SS,"Desaulniers, Shawn",194,70.44,15.14,97,19,173,15,4,0,2,0,1,1,4,9,15,13,13,7,21,22,26,10,23,20,18
+UBC,2016,W,MATH,104,,103,DFF CALC AP C&SS,"Desaulniers, Shawn",126,65.81,18.34,97,20,104,20,1,0,1,0,0,5,10,5,20,13,8,11,8,15,15,2,10,8,14
+UBC,2016,W,MATH,335,,201,INTRO TO MATH,"Desaulniers, Shawn",47,80.88,10.98,98,40,42,1,4,0,0,0,0,0,0,1,1,0,0,1,0,6,3,5,10,7,10
+UBCV,2014,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Shawn Desaulniers;Shirin Boroushaki,179,65.39664805,18.52887785,95.0,16.0,,,,,,,,,,,31,13,20,6,16,18,15,11,22,17,10
+UBCV,2014,W,MATH,110,,001,Differential Calculus,Costanza Piccolo;Shawn Desaulniers,100,63.28,17.55860605,97.0,13.0,,,,,,,,,,,18,8,8,8,9,12,11,7,13,,
+UBCV,2014,W,MATH,335,,201,Introduction to Mathematics,Shawn Desaulniers;Siqi Wei,32,85.53125,10.17582326,99.0,56.0,,,,,,,,,,,0,0,,,,,,,8,5,13
+UBCV,2014,W,MATH,335,,202,Introduction to Mathematics,Shawn Desaulniers,12,73.33333333,9.048689843,88.0,60.0,,,,,,,,,,,0,0,0,,,,,,,2,0
+UBCV,2015,W,MATH,104,,101,Differential Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Shawn Desaulniers,145,70.731034483,16.433474971,96.0,20.0,,,,,,,,,,,16,6,7,9,10,11,21,17,17,20,11
+UBCV,2015,W,MATH,104,,102,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,187,70.839572193,17.284959458,96.0,0.0,,,,,,,,,,,15,19,10,13,7,15,20,17,27,22,22
+UBCV,2015,W,MATH,104,,103,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,100,68.15,18.247111298,100.0,12.0,,,,,,,,,,,12,10,8,5,4,10,15,8,5,9,14
+UBCV,2015,W,MATH,104,,104,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers;Thomas Hughes,97,65.783505155,21.143471611,98.0,6.0,,,,,,,,,,,17,8,6,9,9,7,7,4,9,8,13
+UBCV,2015,W,MATH,104,,105,Differential Calculus with Applications to Commerce and Social Sciences,Raimundo Briceno Dominguez;Shawn Desaulniers,73,63.191780822,20.618665717,90.0,7.0,,,,,,,,,,,13,6,5,5,5,11,6,2,11,8,1
+UBCV,2015,W,MATH,104,,106,Differential Calculus with Applications to Commerce and Social Sciences,Ida Karimfazli;Shawn Desaulniers,121,68.73553719,18.487729532,97.0,6.0,,,,,,,,,,,13,10,12,8,4,13,12,8,15,11,15
+UBCV,2015,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Patrick Walls;Shawn Desaulniers,129,68.705426357,17.344128645,95.0,18.0,,,,,,,,,,,16,8,10,6,5,22,12,8,15,20,7
+UBCV,2015,W,MATH,104,,109,Differential Calculus with Applications to Commerce and Social Sciences,Richard Wade;Shawn Desaulniers,69,72.536231884,16.352351612,97.0,6.0,,,,,,,,,,,5,2,5,3,4,8,8,6,13,6,9
+UBCV,2015,W,MATH,184,,101,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,89,63.921348315,19.883881503,98.0,1.0,,,,,,,,,,,17,8,11,6,7,7,4,6,6,11,6
+UBCV,2015,W,MATH,184,,102,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,104,62.163461538,18.97628084,94.0,2.0,,,,,,,,,,,19,15,9,13,6,6,10,6,7,6,7
+UBCV,2015,W,MATH,184,,103,Differential Calculus for Social Science and Commerce,Henrik Ruping;Shawn Desaulniers,100,60.19,18.808817511,94.0,9.0,,,,,,,,,,,25,10,10,6,6,16,5,7,6,4,5
+UBCV,2015,W,MATH,184,,104,Differential Calculus for Social Science and Commerce,Shawn Desaulniers;Tai-Peng Tsai,128,62.3203125,16.545776916,95.0,4.0,,,,,,,,,,,15,16,17,16,7,23,12,,12,3,
+UBCV,2015,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,James Jingtao Feng;Shawn Desaulniers,154,65.62987013,17.429578683,96.0,19.0,,,,,,,,,,,24,15,14,15,9,11,12,18,10,18,8
+UBCV,2015,W,MATH,184,,106,Differential Calculus for Social Science and Commerce,Shawn Desaulniers;Zachary Bradshaw,124,58.943548387,18.684066696,94.0,4.0,,,,,,,,,,,26,19,15,11,9,10,13,,8,5,
+UBCV,2015,W,MATH,335,,201,Introduction to Mathematics,Shawn Desaulniers,54,76.259259259,15.292352491,97.0,20.0,,,,,,,,,,,,,,,,,6,,15,4,11
+UBCV,2016,W,MATH,104,,101,Differential Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Shawn Desaulniers,168,68.85714286,14.40487514,98.0,27.0,,,,,,,,,,,14,14,12,10,13,23,28,15,17,11,11
+UBCV,2016,W,MATH,104,,102,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,190,69.83157895,16.19370355,97.0,8.0,,,,,,,,,,,17,13,13,7,21,22,26,10,23,20,18
+UBCV,2016,W,MATH,104,,103,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,125,65.48,18.64247665,97.0,20.0,,,,,,,,,,,21,13,8,11,8,15,15,2,10,8,14
+UBCV,2016,W,MATH,104,,104,Differential Calculus with Applications to Commerce and Social Sciences,Amir Maleki Zamenjani;Shawn Desaulniers,88,67.44318182,14.92113979,98.0,25.0,,,,,,,,,,,10,8,3,11,6,14,12,3,11,4,6
+UBCV,2016,W,MATH,104,,105,Differential Calculus with Applications to Commerce and Social Sciences,Laura Cladek;Shawn Desaulniers,77,67.44155844,13.49999367,99.0,37.0,,,,,,,,,,,7,8,7,7,5,11,10,7,9,2,4
+UBCV,2016,W,MATH,104,,106,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers;Tobias Huxol,113,64.59292035,17.56195013,97.0,0.0,,,,,,,,,,,17,12,11,10,7,14,11,8,9,6,8
+UBCV,2016,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Shawn Desaulniers,79,66.69620253,18.13083111,99.0,4.0,,,,,,,,,,,9,8,8,3,6,12,6,6,10,5,6
+UBCV,2016,W,MATH,104,,109,Differential Calculus with Applications to Commerce and Social Sciences,Roberto Pirisi;Shawn Desaulniers,94,69.11702128,13.38098184,98.0,31.0,,,,,,,,,,,6,10,7,9,8,9,10,13,9,8,5
+UBCV,2016,W,MATH,184,,101,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,99,62.60606061,13.9882007,91.0,0.0,,,,,,,,,,,12,13,14,13,4,17,8,6,7,4,1
+UBCV,2016,W,MATH,184,,102,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,120,62.24166667,13.06672973,93.0,25.0,,,,,,,,,,,18,15,15,16,10,20,4,10,7,3,2
+UBCV,2016,W,MATH,184,,103,Differential Calculus for Social Science and Commerce,Mohar Dey;Shawn Desaulniers,102,58.93137255,16.09148339,96.0,14.0,,,,,,,,,,,23,19,11,8,7,12,4,5,10,1,2
+UBCV,2016,W,MATH,184,,104,Differential Calculus for Social Science and Commerce,Shawn Desaulniers;Uriya First,117,62.15384615,15.3255564,91.0,7.0,,,,,,,,,,,15,11,18,13,13,17,10,8,6,3,3
+UBCV,2016,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,James Jingtao Feng;Shawn Desaulniers,207,62.28502416,15.03881444,98.0,0.0,,,,,,,,,,,42,17,18,22,19,35,17,14,14,2,7
+UBCV,2016,W,MATH,184,,106,Differential Calculus for Social Science and Commerce,Lee Troupe;Shawn Desaulniers,119,61.37815126,14.90591488,93.0,8.0,,,,,,,,,,,21,15,14,11,12,19,11,1,8,4,3
+UBCV,2016,W,MATH,335,,201,Introduction to Mathematics,Shawn Desaulniers,43,80.88372093,10.98095603,98.0,40.0,,,,,,,,,,,1,0,0,1,0,6,3,5,10,7,10

@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,ARTH,340,,001,MODERNISM,"Smith, Tai",78,73.3,12.08,90,13,70,3,3,0,0,0,1,1,1,0,3,0,2,1,3,11,20,12,16,4,1,,,
+UBC,2012,W,ARTH,341,,001,POSTMODERN ART,"Smith, Tai",81,73.26,16.5,95,0,73,3,3,0,0,2,1,0,0,0,3,2,0,7,4,7,9,22,7,10,5,,,
+UBC,2012,W,ARTH,540,C,001,20th CENT ART,"Smith, Tai",13,85.58,3.75,92,80,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,,,
+UBC,2013,W,ARTH,340,,001,MODERNISM,"Smith, Tai",77,73.68,15.05,95,5,69,4,3,0,0,1,1,0,1,1,4,0,4,2,5,8,11,9,15,10,5,,,
+UBC,2013,W,ARTH,341,,001,POSTMODERN ART,"Smith, Tai",78,71.97,14.67,93,11,69,5,2,1,0,0,1,2,1,1,5,2,0,4,4,10,13,16,12,6,2,,,
+UBC,2013,W,ARTH,440,B,001,MOD & CONTEM ART,"Smith, Tai",16,82.25,16.09,97,32,15,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,2,3,3,6,,,
+UBC,2014,W,ARTH,300,,001,ART HX METHODS,"Smith, Tai",29,73.56,19.95,88,8,25,2,2,0,0,1,1,0,0,0,2,1,0,1,0,1,4,4,9,5,0,,,
+UBC,2014,W,ARTH,480,,001,VIS&DIG MEDIA TH,"Smith, Tai",18,82.33,14.03,91,28,17,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,6,7,3,,,
+UBC,2014,W,ARTH,540,B,001,20th CENT ART,"Smith, Tai",9,90.13,3,96,87,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,,,
+UBC,2015,W,ARTH,101,,001,WAYS OF SEEING,"Smith, Tai",100,75.02,12.24,88,28,93,4,2,1,0,0,0,3,0,1,4,4,1,3,4,4,16,15,32,14,0,,,
+UBC,2015,W,ARTH,300,,002,ART HX METHODS,"Smith, Tai",36,77.19,15.97,90,0,35,1,0,0,0,1,0,0,0,0,1,1,1,1,0,2,2,4,15,7,2,,,
+UBC,2015,W,ARTH,341,,001,POSTMODERN ART,"Smith, Tai",78,74.78,14.55,91,15,72,5,0,0,0,0,1,1,0,3,5,2,3,1,6,3,9,6,24,13,5,,,
+UBC,2015,W,ARTH,480,,001,VIS&DIG MEDIA TH,"Smith, Tai",16,86.69,3.88,93,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,4,,,
+UBC,2016,W,ARTH,101,,001,WAYS OF SEEING,"Smith, Tai",98,77.48,10.3,96,36,92,3,1,1,0,0,0,0,2,1,3,0,1,1,5,11,14,15,23,13,9,,,
+UBC,2016,W,ARTH,227,,002,VIS ENV MOD&POST,"Smith, Tai",60,73.64,18.48,94,0,54,4,2,0,0,2,0,2,0,0,4,0,0,3,2,3,6,14,17,7,2,,,
+UBC,2016,W,ARTH,300,,002,ART HX METHODS,"Smith, Tai",44,82.3,8.71,96,58,43,0,1,0,0,0,0,0,0,0,0,0,1,1,2,2,2,4,9,16,6,,,
+UBC,2016,W,ARTH,540,A,001,20th CENT ART,"Smith, Tai",12,89.83,4.28,96,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,,,
+UBC,2017,W,ARTH,227,,002,VIS ENV MOD&POST,"Smith, Tai",60,77.69,11.24,96,34,57,2,0,1,0,0,0,0,1,1,2,0,0,3,4,6,5,7,15,10,7,,,
+UBC,2017,W,ARTH,300,,001,ART HX METHODS,"Smith, Tai",38,79.69,21.75,95,0,33,3,2,0,0,1,1,1,0,0,3,0,0,1,1,0,2,0,6,11,12,,,
+UBCV,2014,W,ARTH,300,,001,Seminar on Methods and Approaches in Art History,Tai Smith,27,73.55555556,19.95443528,88.0,8.0,,,,,,,,,,,,,,,,1,,4,9,5,0,,,
+UBCV,2014,W,ARTH,480,,001,Visual and Digital Media Theory,Tai Smith,18,82.33333333,14.02518743,91.0,28.0,,,,,,,,,,,,,,,,,,,6,7,,,,
+UBCV,2014,W,ARTH,540,B,001,Studies in 20th Century Art,Tai Smith,8,90.125,2.997022332,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,ARTH,101,,001,Ways of Seeing: Introduction to Visual Studies,Tai Smith,97,75.020618557,12.240625138,88.0,28.0,,,,,,,,,,,,,,,,,16,15,32,14,0,,,
+UBCV,2015,W,ARTH,300,,002,Seminar on Methods and Approaches in Art History,Tai Smith,36,77.194444444,15.971080014,90.0,0.0,,,,,,,,,,,1,,,,,,,,15,7,,,,
+UBCV,2015,W,ARTH,341,,001,20th Century Art and Culture: The Postmodern,Madeline Ullrich;Tai Smith,78,74.820512821,14.464235867,91.0,15.0,,,,,,,,,,,5,,,,6,,9,7,24,13,5,,,
+UBCV,2015,W,ARTH,480,,001,Visual and Digital Media Theory,Tai Smith,16,86.6875,3.876746918,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,4,,,
+UBCV,2016,W,ARTH,101,,001,Ways of Seeing: Introduction to Visual Studies,Tai Smith,96,77.48958333,10.24437693,96.0,36.0,,,,,,,,,,,3,0,1,1,5,11,14,16,23,13,9,,,
+UBCV,2016,W,ARTH,227,,002,Art and the Visual Environment in the Modern and Post-modern Periods,Tai Smith,58,73.63793103,18.48346656,94.0,0.0,,,,,,,,,,,4,0,0,3,2,3,6,14,17,7,2,,,
+UBCV,2016,W,ARTH,300,,002,Seminar on Methods and Approaches in Art History,Tai Smith,43,82.30232558,8.713795531,96.0,58.0,,,,,,,,,,,0,0,1,1,2,2,2,4,9,16,6,,,
+UBCV,2016,W,ARTH,540,A,001,Studies in 20th Century Art,Tai Smith,12,89.83333333,4.281744193,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,6,,,
+UBCV,2017,W,ARTH,227,,002,Art and the Visual Environment in the Modern and Post-modern Periods,Monica Daniela Perez Montelongo;Monica Perez Montelongo;Tai Smith,59,77.694915254,11.240711472,96.0,34.0,,,,,,,,,,,2,0,0,3,4,6,5,7,15,10,7,,,
+UBCV,2017,W,ARTH,300,,001,Seminar on Methods and Approaches in Art History,Tai Smith,36,79.694444444,21.751610048,95.0,0.0,,,,,,,,,,,3,0,0,1,1,0,2,0,6,11,12,,,
+UBCV,2017,W,ARTH,571,,001,The Methodology of Art History,Julia Orell;Tai Smith,10,86.2,3.259175083,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,1,,,
+UBCV,2019,W,ARTH,341,,001,20th Century Art and Culture: The Postmodern,Tai Smith;Tobias Linnemann Ewe,67,78.776119403,12.376444997,95.0,23.0,,,,,,,,,,,1,1,2,3,1,6,9,11,11,8,14,,,
+UBCV,2019,W,ARTH,540,C,001,Studies in 20th Century Art,Tai Smith,9,89.777777778,3.80058475,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,5,,,
+UBCV,2019,W,ARTH,571,,001,The Methodology of Art History,Michelle Mcgeough;Tai Smith,13,88.615384615,2.754948927,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,4,,,
+UBCV,2020,W,ARTH,341,,001,20th Century Art and Culture: The Postmodern,Kyoung Yong Lee;Marina Roy;Tai Smith;Tobias Linnemann Ewe,64,75.6875,12.979684982,97.0,32.0,,,,,,,,,,,3,1,2,1,5,8,10,8,9,10,7,,,
+UBCV,2020,W,ARTH,440,A,001,Seminar in Modern and Contemporary Art,Marisa Sanchez;Tai Smith,17,86.411764706,7.599825849,99.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,5,6,,,
+UBCV,2020,W,ARTH,480,,001,Visual and Digital Media Theory,Elisabeth Cooper;Tai Smith,21,88.571428571,8.334095203,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,5,10,,,
+UBCV,2020,W,ARTH,480,,002,Visual and Digital Media Theory,Ignacio Alberto Adriasola Munoz;Tai Smith,21,84.761904762,13.083977843,97.0,39.0,,,,,,,,,,,1,0,0,0,1,0,2,0,2,6,9,,,
+UBCV,2020,W,CCST,500,,001,Seminar in Interdisciplinary Frameworks in Museum and Curatorial Studies,Catherine Soussloff;Jaleh Mansoor;Tai Smith,6,91.333333333,3.076794869,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2021,W,ARTH,101,,001,Ways of Seeing: Introduction to Visual Studies,Alison Ariss;Ignacio Alberto Adriasola Munoz;Tai Smith;Tobias Linnemann Ewe,114,79.315789474,12.100110282,97.0,0.0,,,,,,,,,,,3,0,3,3,3,5,11,18,25,32,11,,,
+UBCV,2021,W,ARTH,439,,001,Seminar in 18th & 19th-Century Visual Culture,Rachel Boate;Tai Smith,18,76.222222222,7.589121902,89.0,64.0,,,,,,,,,,,0,0,0,0,2,4,2,3,4,3,0,,,
+UBCV,2021,W,ARTH,480,,002,Visual and Digital Media Theory,Ignacio Alberto Adriasola Munoz;Tai Smith,20,85.9,12.468486592,99.0,52.0,,,,,,,,,,,0,1,0,0,0,2,0,3,2,1,11,,,
+UBCV,2021,W,ARTH,480,,002,Visual and Digital Media Theory,Tai Smith,20,85.9,,99.0,52.0,,,,,,,,,,,,,,,,,,,,,11,91.5,94.0,78.8
+UBCV,2021,W,CCST,500,,001,Seminar in Interdisciplinary Frameworks in Museum and Curatorial Studies,Tai Smith,9,91.4,,96.0,87.0,,,,,,,,,,,,,,,,,,,,,8,91.0,93.0,90.0
+UBCV,2022,W,ARTH,300,,002,Seminar on Methods and Approaches in Art History,Tai Smith,24,85.9,,98.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,1,3,9,8,86.0,91.8,83.0
+UBCV,2022,W,ARTH,340,,001,20th Century Art and Culture: The Triumph and Demise of Modernism,Tai Smith,70,77.8,,97.0,50.0,,,,,,,,,,,0,3,1,3,3,7,9,11,14,11,8,78.5,85.0,72.3
+UBCV,2022,W,ARTH,540,B,001,Studies in 20th Century Art,Tai Smith,10,88.2,,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,5,89.5,90.8,89.0
+UBCV,2023,W,ARTH,227,,002,What is Modern Art?,Tai Smith,56,75.6,,93.0,0.0,,,,,,,,,,,3,1,0,3,0,3,4,10,11,15,4,81.0,86.0,74.5
+UBCV,2023,W,ARTH,300,,001,Seminar on Methods and Approaches in Art History,Tai Smith,20,86.3,,97.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,2,2,6,8,89.0,92.0,84.0
+UBCV,2023,W,ARTH,340,,001,20th Century Art and Culture: The Triumph and Demise of Modernism,Tai Smith,47,81.0,,99.0,57.0,,,,,,,,,,,0,0,2,4,2,1,5,4,5,10,12,84.0,90.0,72.0
+UBCV,2023,W,ARTH,571,,001,The Methodology of Art History,Ignacio Alberto Adriasola Munoz;Tai Smith,12,89.7,,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5,90.0,92.0,87.0

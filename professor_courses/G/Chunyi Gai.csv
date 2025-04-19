@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,307,,101,Applied Linear Algebra,Benjamin Friedman;Chunyi Gai;Max Gheorghiu;Patrick Walls;Qidi Zhang;Richard Gerd Froese,115,76.52173913,14.152272043,100.0,18.0,3,6,6,8,5,9,7,15,20,17,19,,,
+UBCV,2021,W,MATH,307,,102,Applied Linear Algebra,Benjamin Friedman;Chunyi Gai;Markus Lange;Max Gheorghiu;Patrick Walls;Qidi Zhang,96,66.822916667,15.061973584,96.0,6.0,9,5,8,10,11,17,9,12,7,5,3,,,
+UBCV,2021,W,MATH,307,,201,Applied Linear Algebra,Bakytzhan Kurmanbek;Chunyi Gai;Danny Ofek;Elina Robeva;Patrick Walls;Sharvaj Kubal,85,72.352941176,13.196956614,99.0,22.0,3,4,3,5,12,6,16,13,9,4,10,,,
+UBCV,2021,W,MATH,307,,101,Applied Linear Algebra,Chunyi Gai;Patrick Walls,115,76.8,,100.0,18.0,,6,6,8,,10,7,15,20,17,19,79.0,86.0,70.0
+UBCV,2021,W,MATH,307,,102,Applied Linear Algebra,Chunyi Gai;Patrick Walls,95,67.7,,96.0,17.0,7,,9,10,11,17,9,12,7,,,69.0,76.0,60.0
+UBCV,2021,W,MATH,307,,201,Applied Linear Algebra,Chunyi Gai;Elina Robeva;Patrick Walls,87,72.7,,99.0,43.0,,,,,13,6,16,13,10,,10,73.0,80.5,65.0
+UBCV,2022,S,MATH,221,,921,Matrix Algebra,Jingyi Chen;Chunyi Gai,109,76.2,,100.0,23.0,5,5,4,4,6,7,15,11,14,15,23,78.0,88.0,69.0
+UBCV,2022,W,MATH,307,,102,Applied Linear Algebra,Chunyi Gai;Patrick Walls,105,70.9,,98.0,29.0,4,5,4,7,14,16,18,9,18,4,6,72.0,80.0,65.0
+UBCV,2023,W,MATH,101,,2B1,Integral Calculus with Applications,Balazs Elek;Chunyi Gai;Stephen James Gustafson;Victor Juma;Paul Péringuey;Andrew Warren,347,58.5,,95.0,1.0,76,54,42,32,31,24,20,11,23,10,8,59.0,70.0,50.0
+UBCV,2023,W,MATH,307,,102,Applied Linear Algebra,Omer Angel;Chunyi Gai,118,72.4,,99.0,15.0,4,4,9,9,10,18,15,10,17,7,12,72.0,82.0,65.0

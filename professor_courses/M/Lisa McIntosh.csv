@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,14,91.5,10.51555624,99.0,57.0,0,0,,,,,,,,,11,,,
+UBCV,2015,W,EDCP,585,A,61A,Special Course in Curriculum and Pedagogy,Lisa Mcintosh,12,91.583333333,6.111960455,97.0,75.0,0,0,0,0,0,0,,,,,9,,,
+UBCV,2015,W,EDUC,500,,62A,Research Methodology in Education,Lisa Mcintosh,12,87.416666667,2.64431924,92.0,83.0,0,0,0,0,0,0,0,0,,8,,,,
+UBCV,2016,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,19,90.63157895,3.235403569,96.0,83.0,0,0,0,0,0,0,0,0,2,3,14,,,
+UBCV,2017,W,EDCP,585,A,61A,Special Course in Curriculum and Pedagogy,Lisa Mcintosh,17,89.176470588,8.383281682,97.0,68.0,0,0,0,0,0,1,1,1,0,3,11,,,
+UBCV,2018,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,17,93.764705882,6.339651132,100.0,74.0,0,0,0,0,0,0,1,0,0,2,14,,,
+UBCV,2019,W,EDCP,558,,61A,Science Learning in Informal Environments,Lisa Mcintosh,18,93.944444444,2.235337117,98.0,89.0,0,0,0,0,0,0,0,0,0,1,17,,,
+UBCV,2019,W,EDCP,585,A,61A,Special Course in Curriculum and Pedagogy,Lisa Mcintosh,16,92.25,2.955221368,96.0,85.0,0,0,0,0,0,0,0,0,0,1,15,,,
+UBCV,2020,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,20,87.05,7.243690539,95.0,62.0,0,0,0,1,0,0,0,0,5,6,8,,,
+UBCV,2020,W,EDCP,585,A,61A,Special Course in Curriculum and Pedagogy,Lisa Mcintosh;Mary-Leah Dezwart,10,75.4,27.321948849,94.0,0.0,1,0,0,0,0,1,0,0,5,1,2,,,
+UBCV,2020,W,EDUC,500,,61A,Research Methodology in Education,Lisa Mcintosh;Lori Macintosh;Oksana Bartosh,22,89.772727273,2.975004093,95.0,84.0,0,0,0,0,0,0,0,0,1,9,12,,,
+UBCV,2021,W,EDCP,545,,61A,Educational Programming in Museums,Lisa Mcintosh,19,90.789473684,14.901822958,99.0,31.0,1,0,0,0,0,0,0,0,0,3,15,,,
+UBCV,2021,W,EDCP,558,,61A,Science Learning in Informal Environments,Lisa Mcintosh,21,93.476190476,3.172050561,99.0,86.0,0,0,0,0,0,0,0,0,0,2,19,,,
+UBCV,2021,W,EDCP,545,,61A,Educational Programming in Museums,Lisa Mcintosh,19,90.8,,99.0,31.0,,,,,,,,,,,15,95.0,97.0,91.0
+UBCV,2021,W,EDCP,558,,61A,Science Learning in Informal Environments,Lisa Mcintosh,21,93.5,,99.0,86.0,,,,,,,,,,,19,94.0,96.0,92.0

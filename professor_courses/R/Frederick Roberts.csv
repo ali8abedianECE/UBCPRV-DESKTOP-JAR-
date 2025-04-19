@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PATH,467,,99C,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PATH,467,,99C,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",20,91,0,91,91,1,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UBC,2006,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",17,93,0,93,93,1,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UBC,2007,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",19,,,,,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",17,87.06,5.95,96,75,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,5
+UBC,2009,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",21,85,0,85,85,1,0,1,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UBC,2010,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",19,87.35,7.91,96,65,17,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,1,7,7
+UBC,2010,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",24,,,,,0,0,1,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",23,87.86,4.48,95,78,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,11
+UBC,2011,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",19,,,,,0,0,2,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PATH,467,,GIS,MICR INFECTN CTL,"Bryce, Elizabeth;Roberts, Frederick;Roscoe, Diane",17,87,6.06,95,72,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,6
+UBC,2012,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick",19,,,,,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PATH,467,,GIS,MICR INFECTN CTL,"Roberts, Frederick",18,86.39,5.87,95,71,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,7,6
+UBC,2013,W,PATH,467,,99C,MICR INFECTN CTL,"Roberts, Frederick;Stefanovic, Aleksandra",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PATH,467,,GIS,MICR INFECTN CTL,"Roberts, Frederick",16,82.81,8.51,94,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,6,4,3
+UBC,2014,W,PATH,467,,99C,MICR INFECTN CTL,"Al Rawahi, Ghada;Roberts, Frederick;Stefanovic, Aleksandra",17,82.21,9.73,95,63,14,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,0,3,5
+UBC,2015,W,PATH,467,,99C,MICR INFECTN CTL,"Al Rawahi, Ghada;Roberts, Frederick;Stefanovic, Aleksandra",12,80.58,6.05,89,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,3,0
+UBC,2016,W,PATH,467,,99C,MICR INFECTN CTL,"Al Rawahi, Ghada;Roberts, Frederick;Stefanovic, Aleksandra",8,83.5,2.98,87,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,0
+UBC,2017,W,PATH,467,,99C,MICR INFECTN CTL,"Al Rawahi, Ghada;Charles, Marthe Kenny;Roberts, Frederick;Stefanovic, Aleksandra",7,84.67,4.68,90,78,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2014,S,PATH,467,,GIS,Basic Microbiology for Infection Control,Frederick Roberts,16,82.8125,8.51053269,94.0,62.0,,,,,,,,,,,0,0,0,,,,,,6,,
+UBCV,2014,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Frederick Roberts;Ghada Al Rawahi,14,82.21428571,9.728456051,95.0,63.0,,,,,,,,,,,0,0,0,,,,,,,,5
+UBCV,2015,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Frederick Roberts;Ghada Al Rawahi,12,80.583333333,6.052172162,89.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,5,,0
+UBCV,2016,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Frederick Roberts;Ghada Al Rawahi,8,83.5,2.976095237,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,0
+UBCV,2017,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Frederick Roberts;Ghada Al Rawahi;Marthe Kenny Charles,6,84.666666667,4.676180778,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2018,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Diana Whellams;Frederick Roberts;Ghada Al Rawahi;Marthe Kenny Charles,13,74.153846154,15.512608602,87.0,36.0,,,,,,,,,,,1,1,0,1,0,1,1,1,2,5,0
+UBCV,2020,S,PATH,467,,GIS,Basic Microbiology for Infection Control,Frederick Roberts,12,81.333333333,5.280036731,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,3,5,2,1

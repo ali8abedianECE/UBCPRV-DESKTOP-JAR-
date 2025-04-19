@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,FRST,439,,201,INTL FORESTRY,"Innes, John;Tikina, Anna;Timko, Joleen",47,79.65,13.92,94,19,43,3,1,0,0,0,1,0,0,2,3,0,1,0,0,1,2,4,19,10,6
+UBC,2010,W,FRST,537,C,202,TPCS FRST MGMT,"Tikina, Anna;Timko, Joleen",8,83.63,9.61,96,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3,2
+UBC,2015,W,FRST,519,,101,FRSTS & SOCIETY,"Timko, Joleen",11,87.91,6.17,98,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4
+UBC,2015,W,FRST,526,C,921,DIR STDY FORESTS,"Timko, Joleen",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,FRST,562,,001,DS INTL FORSTRY,"Timko, Joleen",11,96.36,5.05,100,90,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2016,S,FRST,526,C,922,DIR STDY FORESTS,"Timko, Joleen",8,100,0,100,100,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2016,W,FRST,519,,101,FRSTS & SOCIETY,"Timko, Joleen",8,88.75,4.59,97,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+UBC,2016,W,FRST,526,C,921,DIR STDY FORESTS,"Timko, Joleen",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,FRST,562,,001,DS INTL FORSTRY,"Timko, Joleen",8,100,0,100,100,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,FRST,519,,101,Forests and Society,Joleen Timko,11,87.909090909,6.171783299,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,FRST,562,,001,Directed Study in International Forestry,Joleen Timko,11,96.363636364,5.045249791,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2016,S,FRST,526,C,922,Directed Studies in Forests and Society,Joleen Timko,8,100.0,0.0,100.0,100.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2016,W,FRST,519,,101,Forests and Society,Joleen Timko,8,88.75,4.590362575,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,4
+UBCV,2016,W,FRST,562,,001,Directed Study in International Forestry,Joleen Timko,8,100.0,0.0,100.0,100.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8

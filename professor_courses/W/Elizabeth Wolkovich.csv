@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FRST,507,C,202,TPS FRST SCIENCE,"Wolkovich, Elizabeth",6,86,3.41,90,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBCV,2018,W,FRST,507,C,202,Topics in Forest Science,Elizabeth Wolkovich,6,86.0,3.405877273,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,1,,,
+UBCV,2019,W,CONS,310,,201,Ecology in a Changing Climate,Elizabeth Wolkovich;Mira Garner,23,84.130434783,8.035740322,95.0,65.0,,,,,,,,,,,0,0,0,0,1,2,0,2,5,6,7,,,
+UBCV,2020,W,CONS,310,,201,Ecology in a Changing Climate,Elizabeth Wolkovich;Mira Garner,30,80.233333333,12.995180362,99.0,38.0,,,,,,,,,,,1,0,0,1,2,3,6,0,3,8,6,,,
+UBCV,2021,W,CONS,310,,201,Ecology in a Changing Climate,Elizabeth Wolkovich;Yueru Zhao,30,85.333333333,7.517030473,94.0,62.0,,,,,,,,,,,0,0,0,1,1,0,0,4,5,9,10,,,
+UBCV,2021,W,FRST,507,C,202,Topics in Forest Science,Elizabeth Wolkovich,6,92.5,4.135214626,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2021,W,UFOR,521,,101,Advances in Arboriculture and Urban Ecology,Elizabeth Wolkovich;Meagan Hanna,10,80.2,9.635582206,92.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,1,0,3,2,,,
+UBCV,2021,W,CONS,310,,201,Ecology in a Changing Climate,Elizabeth Wolkovich,30,85.3,,94.0,62.0,,,,,,,,,,,,,,,,,,,,9,10,87.0,91.0,82.3
+UBCV,2021,W,FRST,507,C,202,Topics in Forest Science,Elizabeth Wolkovich,6,92.5,,99.0,88.0,,,,,,,,,,,,,,,,,,,,,,91.0,94.8,90.3
+UBCV,2023,W,CONS,310,,201,Ecology in a Changing Climate,Elizabeth Wolkovich,30,85.5,,98.0,64.0,,,,,,,,,,,0,0,0,0,1,1,4,4,1,5,14,88.0,92.8,77.3

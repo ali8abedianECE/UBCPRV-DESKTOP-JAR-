@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,S,SOWK,525,,921,PR MENTAL HEALTH,"Escueta, Moises",4,92.67,1.53,94,91,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2013,S,SOWK,525,,921,PR MENTAL HEALTH,"Escueta, Moises",9,91.75,2.05,95,89,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+UBC,2014,S,SOWK,525,,921,PR MENTAL HEALTH,"Escueta, Moises",20,91,1.08,92,89,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18
+UBC,2016,W,SOWK,315,,001,PRACTICUM I,"Escueta, Moises;Nickel, Wayne;Oliver, Carolyn",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,SOWK,316,,003,INT SEM IN SW TH,"Escueta, Moises",13,88.31,4.5,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6
+UBC,2016,W,SOWK,405,,001,SOWK PRACTICE II,"Escueta, Moises",50,89.86,5.39,96,70,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,14,32
+UBC,2016,W,SOWK,440,K,001,INTGRTV SEM SOWK,"Escueta, Moises",15,86.33,3.58,89,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,0
+UBC,2016,W,SOWK,525,,001,PR MENTAL HEALTH,"Escueta, Moises",21,88.7,2.3,93,83,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,9
+UBC,2017,W,SOWK,315,,003,PRACTICUM I,"Escueta, Moises",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,SOWK,316,,003,INT SEM IN SW TH,"Escueta, Moises",18,91.39,4.12,95,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13
+UBC,2017,W,SOWK,405,,001,SOWK PRACTICE II,"Escueta, Moises",45,85.2,5.05,95,69,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,16,15,9
+UBC,2017,W,SOWK,440,K,001,INTGRTV SEM SOWK,"Escueta, Moises",7,87.71,1.89,90,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2
+UBC,2017,W,SOWK,525,,001,PR MENTAL HEALTH,"Escueta, Moises",15,87.47,2.42,94,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1
+UBCV,2014,S,SOWK,525,,921,Advanced Social Work Practice: Mental Health,Moises Escueta,15,90.93333333,1.099783528,92.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,13
+UBCV,2016,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Moises Escueta,13,88.30769231,4.49786274,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,6
+UBCV,2016,W,SOWK,405,,001,Social Work Practice II,Moises Escueta,50,89.86,5.39466857,96.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,1,1,14,32
+UBCV,2016,W,SOWK,440,K,001,Integrative Seminars in Social Work,Moises Escueta,15,86.33333333,3.579039509,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,13,0
+UBCV,2016,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Moises Escueta,20,88.7,2.29645035,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,9
+UBCV,2017,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Moises Escueta,18,91.388888889,4.117950502,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,13
+UBCV,2017,W,SOWK,405,,001,Social Work Practice II,Michelle O'Kane;Moises Escueta,45,85.2,5.04795188,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,4,16,15,9
+UBCV,2017,W,SOWK,440,K,001,Integrative Seminars in Social Work,Moises Escueta,7,87.714285714,1.889822365,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,2
+UBCV,2017,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Moises Escueta,15,87.466666667,2.416215065,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,14,1
+UBCV,2018,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Erika Ono;Moises Escueta;Wayne Nickel,17,94.411764706,2.693947464,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16
+UBCV,2018,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Moises Escueta;Rhea Del Vecchio,15,94.0,3.139608711,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14
+UBCV,2018,W,SOWK,405,,001,Social Work Practice II,Joshua Apland;Moises Escueta;Parminder Nizher,52,91.134615385,4.29787383,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,13,35
+UBCV,2018,W,SOWK,440,K,001,Integrative Seminars in Social Work,Kim Fleming;Moises Escueta,14,87.785714286,5.086612465,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,6
+UBCV,2018,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Ayesha Sackey;Moises Escueta,17,94.235294118,1.30045241,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2019,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Moises Escueta;Rae Morris,24,88.625,5.306374346,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,8,10

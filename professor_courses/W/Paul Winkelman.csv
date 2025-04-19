@@ -1,0 +1,152 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,MECH,456,,201,DESIGN PROJ II,"Cramond, Pat;McAdam, Donald W;Winkelman, Paul",35,83.2,6.6,96,66,35,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,13,8,8,,,
+UBC,2009,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Kott, Norbert;Olson, James;Winkelman, Paul",118,80.98,6.89,93,38,117,1,0,0,0,0,0,0,1,0,1,0,0,1,2,2,16,14,47,27,8,,,
+UBC,2009,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cramond, Pat;Croft, Elizabeth;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik;Winkelman, Paul",82,81.94,6.07,95,69,81,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,10,13,29,17,10,,,
+UBC,2011,S,MECH,410,E,101,SPECIAL TOPICS,"Winkelman, Paul",16,80.81,6.78,90,66,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,6,1,,,
+UBC,2011,W,MECH,328,,101,MECH ENG PROJECT,"Cramond, Pat;Fengler, Markus;Mikkelsen, Jon;Winkelman, Paul",106,82.76,4.89,93,69,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,16,47,22,14,,,
+UBC,2012,S,MECH,410,E,101,SPECIAL TOPICS,"Croft, Elizabeth;Winkelman, Paul",22,79.24,8.15,93,62,21,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,8,4,2,,,
+UBC,2013,S,APSC,461,,101,GLBL ENG LDRSHIP,"Croft, Elizabeth;Winkelman, Paul",26,79.96,7.86,91,63,25,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,5,2,7,4,4,,,
+UBC,2013,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",98,72.36,12.99,94,0,96,2,0,0,0,1,1,0,0,0,2,2,4,3,10,17,19,16,13,7,5,,,
+UBC,2013,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;TBA;Winkelman, Paul",139,82.7,6.63,94,45,136,1,2,0,0,0,0,0,0,1,1,0,0,1,1,5,10,15,32,55,17,,,
+UBC,2013,W,MECH,356,,101,MACHINE COMPONTS,"Winkelman, Paul",19,77.21,6.78,90,63,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,3,5,2,1,,,
+UBC,2014,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",15,83.33,7.18,90,65,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,9,2,,,
+UBC,2014,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,87.75,2.63,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2014,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",106,77.9,11.45,98,0,104,1,1,0,0,1,0,0,0,0,1,1,1,4,2,11,17,9,28,22,9,,,
+UBC,2014,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Ostafichuk, Peter;Winkelman, Paul",120,81.24,7.39,100,59,120,0,0,0,0,0,0,0,0,0,0,0,1,0,2,13,12,10,41,28,13,,,
+UBC,2014,W,WOOD,356,,101,MACHINE COMPONEN,"Winkelman, Paul",40,74.35,7.97,94,60,40,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10,6,5,7,3,2,,,
+UBC,2015,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",17,78.76,7.45,90,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,6,3,1,,,
+UBC,2015,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,88,2.94,91,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2015,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",33,76.21,15.76,90,0,32,1,0,0,0,1,0,0,0,0,1,0,0,2,1,3,3,5,9,8,1,,,
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3,,,
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7,,,
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0,,,
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5,,,
+UBC,2015,W,WOOD,356,,101,MACHINE COMPONEN,"Winkelman, Paul",35,74.43,9.85,94,55,35,0,0,0,0,0,0,0,0,0,0,0,2,2,6,4,3,4,7,6,1,,,
+UBC,2016,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",21,80.75,5.62,91,68,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,8,4,1,,,
+UBC,2016,W,APSC,262,,201,TECHNLGY&SOC II,"Winkelman, Paul",20,81.9,7.38,92,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,5,6,3,,,
+UBC,2016,W,MECH,220,,101,TECH SKILLS PRAC,"Fengler, Markus;Green, Sheldon;Parsons, Gregg;Winkelman, Paul;d'Entremont, Agnes",126,79.9,4.89,93,64,124,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,20,33,48,18,2,,,
+UBC,2016,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Mehrandezh, Mehran;Rogak, Steven;Winkelman, Paul",138,79.75,6.78,95,56,137,0,1,0,0,0,0,0,0,0,0,0,1,1,3,4,28,24,48,16,12,,,
+UBC,2017,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",20,79.45,10.54,91,50,20,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,3,4,4,4,,,
+UBC,2017,S,APSC,462,,201,GLB ENG LDR PRCT,"Winkelman, Paul",4,88.5,1.73,90,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2017,W,APSC,261,,103,TECHNLGY&SOC I,"Winkelman, Paul",19,76,8.68,92,56,19,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,5,2,4,2,1,,,
+UBC,2017,W,APSC,262,,202,TECHNLGY&SOC II,"Winkelman, Paul",25,77.96,8.15,90,58,25,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,7,4,7,1,,,
+UBC,2017,W,APSC,262,,203,TECHNLGY&SOC II,"Kannangara, Dhaneshwarie;Winkelman, Paul",12,78.42,9.47,94,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3,1,2,,,
+UBC,2017,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Mehrandezh, Mehran;Rawlings, George;Winkelman, Paul",144,79.77,6.78,92,52,144,0,0,0,0,0,0,0,0,0,0,1,2,1,3,6,16,33,52,24,6,,,
+UBC,2018,S,APSC,461,,101,GLBL ENG LDRSHIP,"Winkelman, Paul",25,82.83,6.66,90,58,24,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,4,13,2,,,
+UBC,2018,W,APSC,261,,101,TECHNLGY&SOC I,"Winkelman, Paul",30,76.71,9.19,94,50,28,0,2,0,0,0,0,0,0,0,0,1,0,1,0,4,3,9,4,4,2,,,
+UBC,2018,W,APSC,261,,104,TECHNLGY&SOC I,"Ollivier, Kelly;Winkelman, Paul",26,77.08,12.08,97,56,26,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,5,2,4,5,4,,,
+UBC,2018,W,APSC,261,,105,TECHNLGY&SOC I,"Peragovics, Agnes;Winkelman, Paul",29,77.9,7.79,91,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,11,5,5,2,,,
+UBC,2018,W,APSC,262,,202,TECHNLGY&SOC II,"Ollivier, Kelly;Winkelman, Paul",34,74.38,11.19,93,45,32,2,0,0,0,0,0,0,0,2,2,0,1,3,1,1,7,6,7,5,1,,,
+UBC,2018,W,APSC,262,,203,TECHNLGY&SOC II,"Winkelman, Paul",30,73.13,14.73,93,15,28,2,0,0,0,0,1,0,0,1,2,0,1,0,0,8,3,6,6,1,3,,,
+UBC,2018,W,APSC,262,,204,TECHNLGY&SOC II,"Ghasvareh, Pooneh;Winkelman, Paul",29,76.32,7.68,90,60,28,0,1,0,0,0,0,0,0,0,0,0,0,3,0,3,5,5,9,2,1,,,
+UBC,2018,W,APSC,262,,205,TECHNLGY&SOC II,"Ghasvareh, Pooneh;Winkelman, Paul",28,74.32,14.55,85,6,27,1,0,0,0,1,0,0,0,0,1,0,0,1,1,1,5,7,10,2,0,,,
+UBC,2018,W,MECH,328,,101,MECH ENG PROJECT,"Eyking, Adrianna;Fengler, Markus;Hodgson, Antony;Rawlings, George;Winkelman, Paul",127,81.81,4.91,94,71,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,24,46,35,6,,,
+UBC,2018,W,MECH,454,,001,THRMOFLDS CAPSTN,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",9,83.89,7.42,92,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,1,,,
+UBC,2018,W,MECH,457,,001,DESIGN PROJECT,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",82,85.17,5.26,96,73,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,21,29,20,,,
+UBC,2018,W,MECH,458,,001,MECHTRON DSN PRJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",23,85.18,5.16,96,77,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,4,,,
+UBC,2018,W,MECH,459,,001,BIOMED DSGN PROJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",10,85.8,4.96,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,,,
+UBCV,2014,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,15,83.33333333,7.178008744,90.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,9,,,,
+UBCV,2014,W,APSC,262,,201,Technology and Society II,Dawn Mills;Naoko Ellis;Paul Winkelman;Saloome Motavas,105,77.8952381,11.44713922,98.0,0.0,,,,,,,,,,,,,,,,11,17,9,28,22,9,,,
+UBCV,2014,W,MECH,328,,101,Mechanical Engineering Design Project,Markus Fengler;Paul Winkelman;Peter Ostafichuk,120,81.24166667,7.38951771,100.0,59.0,,,,,,,,,,,0,0,,,,13,12,10,41,28,13,,,
+UBCV,2014,W,WOOD,356,,101,Machine Components,Paul Winkelman,40,74.35,7.966436001,94.0,60.0,,,,,,,,,,,0,0,0,,5,10,6,5,7,,,,,
+UBCV,2015,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,17,78.76470588,7.445883189,90.0,60.0,,,,,,,,,,,0,0,0,,,,,,6,,,,,
+UBCV,2015,W,APSC,262,,201,Technology and Society II,Paul Winkelman,33,76.212121212,15.759436807,90.0,0.0,,,,,,,,,,,,,,,,,,5,9,8,,,,
+UBCV,2015,W,APSC,262,,202,Technology and Society II,Dhaneshwarie Kannangara;Paul Winkelman,28,76.035714286,18.647772467,96.0,0.0,,,,,,,,,,,,,,,,,5,,,7,,,,
+UBCV,2015,W,APSC,262,,203,Technology and Society II,Michael Hitch;Paul Winkelman,17,79.176470588,7.011020736,95.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,2,,,,
+UBCV,2015,W,MECH,454,,001,Thermofluids Capstone Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,11,86.272727273,3.744086246,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,,,,
+UBCV,2015,W,MECH,457,,001,Mechanical Engineering Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,58,84.896551724,3.452381101,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,21,28,7,,,
+UBCV,2015,W,MECH,458,,001,Mechatronics Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,28,83.607142857,3.23567253,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,13,13,0,,,
+UBCV,2015,W,MECH,459,,001,Biomedical Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,9,89.222222222,7.378647874,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,5,,,
+UBCV,2015,W,WOOD,356,,101,Machine Components,Paul Winkelman,35,74.428571429,9.846724491,94.0,55.0,,,,,,,,,,,0,0,,,6,,,,7,6,,,,
+UBCV,2016,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,20,80.75,5.618344015,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,5,8,4,1,,,
+UBCV,2016,W,APSC,261,,102,Technology and Society I,Kelly Ollivier;Paul Winkelman,17,76.76470588,13.18867607,94.0,36.0,,,,,,,,,,,1,0,0,0,2,1,1,4,4,2,2,,,
+UBCV,2016,W,APSC,262,,201,Technology and Society II,Paul Winkelman,20,81.9,7.376349118,92.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,3,5,6,3,,,
+UBCV,2016,W,APSC,262,,203,Technology and Society II,K Ezra Kwok;Paul Winkelman,23,82.26086957,6.009215584,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,8,5,6,3,,,
+UBCV,2016,W,MECH,220,,101,Technical Skills Practicum,Agnes D'Entremont;Coskun Islam;Cristopher Jesus Cortes Sanchez;Gregg Parsons;Hongliang Fan;Jaehyun Shim;Jon Mikkelsen;Kai Kin Gary Yan;Mahkame Sharbatdar;Markus Fengler;Masashi Karasawa;Miayan Yeremi;Paul Winkelman;Sheldon Green,124,79.89516129,4.88871032,93.0,64.0,,,,,,,,,,,0,0,0,0,1,2,20,33,48,18,2,,,
+UBCV,2016,W,MECH,328,,101,Mechanical Engineering Design Project,Amin Engarnevis;Cristopher Jesus Cortes Sanchez;Hooman Esfandiari;Jeremy Rochussen;Markus Fengler;Mehran Mehrandezh;Mohammad Rezayi Khoshdarregi;Morgan Hibbert;Paul Winkelman;Rene Zepeda Gutierrez;Steven Rogak,137,79.75182482,6.783176661,95.0,56.0,,,,,,,,,,,0,0,1,1,3,4,28,24,48,16,12,,,
+UBCV,2017,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,20,79.45,10.535528863,91.0,50.0,,,,,,,,,,,0,1,0,1,0,1,2,3,4,4,4,,,
+UBCV,2017,W,APSC,261,,103,Technology and Society I,Kelly Ollivier;Paul Winkelman,19,76.0,8.679477711,92.0,56.0,,,,,,,,,,,0,0,1,0,2,2,5,2,4,2,1,,,
+UBCV,2017,W,APSC,262,,202,Technology and Society II,Paul Winkelman,25,77.96,8.152095845,90.0,58.0,,,,,,,,,,,0,0,1,1,0,3,1,7,4,7,1,,,
+UBCV,2017,W,APSC,262,,203,Technology and Society II,Dhaneshwarie Kannangara;Paul Winkelman,12,78.416666667,9.472048193,94.0,65.0,,,,,,,,,,,0,0,0,0,3,0,0,3,3,1,2,,,
+UBCV,2017,W,MECH,328,,101,Mechanical Engineering Design Project,Ehsan Zaman;George Rawlings;Hooman Esfandiari;Jeremy Rochussen;Jihoon Lim;M'Beth Schoenfeld;Markus Fengler;Mehran Mehrandezh;Oliver Terry;Paul Winkelman;Rene Zepeda Gutierrez,144,79.770833333,6.782039991,92.0,52.0,,,,,,,,,,,0,1,2,1,3,6,16,33,52,24,6,,,
+UBCV,2018,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,24,82.833333333,6.663767486,90.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,4,4,13,2,,,
+UBCV,2018,W,APSC,100,,101,Introduction to Engineering I,Ali Pourzahedi;Amirsalar Heydari Haratameh;Behzad Zakani;Carlos Antonio Sanchez;Carol Patricia Jaeger;Gabriel Potvin;Gabrielle Lam;George Rawlings;Hamed Valipour;James Simonite;Jonathan Nakane;Jonathan Verrett;Kenneth Alton;Madeleine Brown;Madeleine Yeskoo;Masoud Haghi Kashani;Michael Miller;Mohammadamin Sadeghi;Naoko Ellis;Nil Ister;Paul Winkelman;Peter Ostafichuk;Pranav Menon;Siamak Najarian;Susan Nesbit;Tampriye Awoala Asawo,278,77.64028777,10.021642424,96.0,0.0,,,,,,,,,,,3,1,2,8,12,24,39,45,88,41,15,,,
+UBCV,2018,W,APSC,261,,101,Technology and Society I,Paul Winkelman,28,76.714285714,9.188790042,94.0,50.0,,,,,,,,,,,0,1,0,1,0,4,3,9,4,4,2,,,
+UBCV,2018,W,APSC,261,,104,Technology and Society I,Kelly Ollivier;Paul Winkelman,26,77.076923077,12.076168521,97.0,56.0,,,,,,,,,,,0,0,4,1,1,0,5,2,4,5,4,,,
+UBCV,2018,W,APSC,261,,105,Technology and Society I,Agnes Peragovics;Paul Winkelman,30,75.3,16.152612685,91.0,0.0,,,,,,,,,,,1,0,0,2,2,0,2,11,5,5,2,,,
+UBCV,2018,W,APSC,262,,202,Technology and Society II,Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,34,74.382352941,11.18986204,93.0,45.0,,,,,,,,,,,2,0,1,3,1,1,7,6,7,5,1,,,
+UBCV,2018,W,APSC,262,,203,Technology and Society II,Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,29,75.137931034,9.995442311,93.0,44.0,,,,,,,,,,,1,0,1,0,0,8,3,6,6,1,3,,,
+UBCV,2018,W,APSC,262,,204,Technology and Society II,Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,28,76.321428571,7.683814501,90.0,60.0,,,,,,,,,,,0,0,0,3,0,3,5,5,9,2,1,,,
+UBCV,2018,W,APSC,262,,205,Technology and Society II,Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,28,74.321428571,14.545085899,85.0,6.0,,,,,,,,,,,1,0,0,1,1,1,5,7,10,2,0,,,
+UBCV,2018,W,MECH,328,,101,Mechanical Engineering Design Project,Adrianna Eyking;Antony Hodgson;George Rawlings;Hooman Esfandiari;Jason Boxiao Hu;Jason Hu;Jihoon Lim;Markus Fengler;Naresh Kumar Maroju;Paul Winkelman;Shayan Fahimi;Taylor Sweet;Tung Nguyen,127,81.811023622,4.914720815,94.0,71.0,,,,,,,,,,,0,0,0,0,0,2,14,24,46,35,6,,,
+UBCV,2018,W,MECH,454,,001,Thermofluids Capstone Design Project,Antony Hodgson;Bingqi Liu;Dana Grecov;Hendrik Van Der Loos;Jon Mikkelsen;Markus Fengler;Mu Chiao;Paul Winkelman;Peter Cripton,9,83.888888889,7.423685817,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,5,1,,,
+UBCV,2018,W,MECH,457,,001,Mechanical Engineering Design Project,Antony Hodgson;Bingqi Liu;Dana Grecov;Hendrik Van Der Loos;Jon Mikkelsen;Markus Fengler;Mu Chiao;Paul Winkelman;Peter Cripton,82,85.170731707,5.255931107,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,10,21,29,20,,,
+UBCV,2018,W,MECH,458,,001,Mechatronics Design Project,Antony Hodgson;Bingqi Liu;Dana Grecov;Hendrik Van Der Loos;Jon Mikkelsen;Markus Fengler;Mu Chiao;Paul Winkelman;Peter Cripton,22,85.181818182,5.160623473,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,8,4,,,
+UBCV,2018,W,MECH,459,,001,Biomedical Design Project,Antony Hodgson;Bingqi Liu;Dana Grecov;Hendrik Van Der Loos;Jon Mikkelsen;Markus Fengler;Mu Chiao;Paul Winkelman;Peter Cripton,10,85.8,4.962078418,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,0,4,,,
+UBCV,2019,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,18,81.277777778,9.215112623,90.0,55.0,,,,,,,,,,,0,0,1,0,1,1,0,1,3,9,2,,,
+UBCV,2019,W,APSC,261,,101,Technology and Society I,Kelly Ollivier;Paul Winkelman,28,71.142857143,11.9743995,88.0,43.0,,,,,,,,,,,3,0,0,2,2,4,5,3,6,3,0,,,
+UBCV,2019,W,APSC,262,,202,Technology and Society II,Dhaneshwarie Kannangara;Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman,23,76.869565217,18.144130901,91.0,0.0,,,,,,,,,,,1,0,0,0,1,1,3,4,6,5,2,,,
+UBCV,2019,W,APSC,262,,203,Technology and Society II,Dhaneshwarie Kannangara;Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman,25,78.32,11.488109795,92.0,44.0,,,,,,,,,,,1,0,1,0,1,1,3,6,3,5,4,,,
+UBCV,2019,W,APSC,262,,204,Technology and Society II,Dhaneshwarie Kannangara;Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman,34,78.352941176,15.423088464,91.0,5.0,,,,,,,,,,,1,0,2,0,0,2,5,0,9,13,2,,,
+UBCV,2019,W,APSC,262,,205,Technology and Society II,Dhaneshwarie Kannangara;Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman,30,78.9,9.935481523,96.0,52.0,,,,,,,,,,,0,1,0,1,1,2,6,4,5,5,5,,,
+UBCV,2019,W,MECH,454,,001,Thermofluids Capstone Design Project,Ahmad Mohammadpanah Foroutaghe;Bingqi Liu;Dana Grecov;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,18,87.055555556,2.460803843,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,12,5,,,
+UBCV,2019,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Bingqi Liu;Dana Grecov;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,66,85.227272727,4.656824453,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,2,0,16,35,11,,,
+UBCV,2019,W,MECH,458,,001,Mechatronics Design Project,Ahmad Mohammadpanah Foroutaghe;Bingqi Liu;Dana Grecov;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,24,87.416666667,4.169419381,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,5,14,,,
+UBCV,2019,W,MECH,459,,001,Biomedical Design Project,Ahmad Mohammadpanah Foroutaghe;Bingqi Liu;Dana Grecov;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,7,91.0,5.322906474,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,,,
+UBCV,2020,S,APSC,262,,921,Technology and Society II,Ataollah Kheyrandish;Paul Winkelman,35,82.2,6.351470418,92.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,6,10,9,6,,,
+UBCV,2020,S,APSC,262,,922,Technology and Society II,Ataollah Kheyrandish;Paul Winkelman,36,82.833333333,4.095293466,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,20,9,4,,,
+UBCV,2020,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,22,80.909090909,6.323870808,91.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,2,6,7,2,,,
+UBCV,2020,W,APSC,261,,101,Technology and Society I,Dhaneshwarie Kannangara;Earl Foster;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,29,79.689655172,8.255316245,93.0,60.0,,,,,,,,,,,0,0,0,1,2,1,3,4,7,7,4,,,
+UBCV,2020,W,APSC,261,,102,Technology and Society I,Dhaneshwarie Kannangara;Earl Foster;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,30,80.2,6.54638621,93.0,60.0,,,,,,,,,,,0,0,0,1,1,0,0,8,12,6,2,,,
+UBCV,2020,W,APSC,261,,104,Technology and Society I,Dhaneshwarie Kannangara;Earl Foster;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,28,81.821428571,9.249839123,95.0,50.0,,,,,,,,,,,0,1,0,1,0,1,1,0,12,8,4,,,
+UBCV,2020,W,APSC,261,,105,Technology and Society I,Dhaneshwarie Kannangara;Earl Foster;Kelly Ollivier;Paul Winkelman;Pooneh Ghasvareh,29,81.103448276,7.257236918,93.0,70.0,,,,,,,,,,,0,0,0,0,0,3,6,2,5,8,5,,,
+UBCV,2020,W,APSC,262,,202,Technology and Society II,Dhaneshwarie Kannangara;Earl Foster;Frank Ko;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,34,86.294117647,3.996433347,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,13,10,,,
+UBCV,2020,W,APSC,262,,203,Technology and Society II,Dhaneshwarie Kannangara;Earl Foster;Frank Ko;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,29,82.793103448,6.836766729,93.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,5,10,4,7,,,
+UBCV,2020,W,APSC,262,,204,Technology and Society II,Dhaneshwarie Kannangara;Earl Foster;Frank Ko;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,30,83.4,8.907958472,96.0,69.0,,,,,,,,,,,0,0,0,0,0,4,4,2,3,5,12,,,
+UBCV,2020,W,APSC,262,,205,Technology and Society II,Dhaneshwarie Kannangara;Earl Foster;Frank Ko;Gabriel Potvin;Kelly Ollivier;Paul Winkelman,27,84.851851852,18.001503578,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,3,4,5,14,,,
+UBCV,2020,W,MECH,454,,001,Thermofluids Capstone Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,13,87.153846154,2.544476169,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,3,,,
+UBCV,2020,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,63,84.492063492,3.913883542,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,7,24,27,5,,,
+UBCV,2020,W,MECH,458,,001,Mechatronics Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,26,84.192307692,5.138242741,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,11,9,3,,,
+UBCV,2020,W,MECH,459,,001,Biomedical Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,9,83.555555556,4.390646624,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,1,2,,,
+UBCV,2021,S,APSC,262,,921,Technology and Society II,Paul Winkelman,18,81.388888889,7.341572911,91.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,7,5,2,,,
+UBCV,2021,S,APSC,262,,922,Technology and Society II,Ataollah Kheyrandish;Paul Winkelman,30,81.133333333,8.058978002,97.0,58.0,,,,,,,,,,,0,0,1,0,0,1,3,8,7,6,4,,,
+UBCV,2021,S,APSC,262,,923,Technology and Society II,Paul Winkelman;Sean Mcbeath,28,81.285714286,7.615078331,90.0,56.0,,,,,,,,,,,0,0,1,0,2,0,0,1,13,9,2,,,
+UBCV,2021,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,21,80.095238095,7.968091126,92.0,64.0,,,,,,,,,,,0,0,0,0,2,1,0,7,4,4,3,,,
+UBCV,2021,W,APSC,261,,101,Technology and Society I,Malcolm Scoble;Paul Winkelman,36,78.416666667,10.758053462,91.0,51.0,,,,,,,,,,,0,3,0,1,0,3,2,7,8,8,4,,,
+UBCV,2021,W,APSC,261,,102,Technology and Society I,Earl Foster;Malcolm Scoble;Paul Winkelman,30,81.5,8.732618204,97.0,58.0,,,,,,,,,,,0,0,1,0,0,1,4,7,7,2,8,,,
+UBCV,2021,W,APSC,261,,104,Technology and Society I,Earl Foster;Malcolm Scoble;Paul Winkelman,41,78.43902439,12.79853269,95.0,42.0,,,,,,,,,,,1,1,2,2,1,3,2,4,6,12,7,,,
+UBCV,2021,W,APSC,261,,105,Technology and Society I,Dhaneshwarie Kannangara;Earl Foster;Malcolm Scoble;Paul Winkelman,33,77.909090909,13.709858762,93.0,34.0,,,,,,,,,,,1,2,1,0,3,1,2,1,8,8,6,,,
+UBCV,2021,W,MECH,328,,101,Mechanical Engineering Design Project,Ali Ergudenler;Behzad Aminian;Charmaine Neufeld;Christopher Mckesson;Erfan Bayat;Markus Fengler;Omid Hajieghrary;Paul Winkelman;Peter Ostafichuk;Reza Partovi;Shayan Fahimi;Sheldon Green;Sohrab Entezami Lahijani;Timothy Ko Lee,120,79.55,7.759894741,96.0,50.0,,,,,,,,,,,0,2,0,2,3,5,15,28,34,17,14,,,
+UBCV,2021,W,MECH,454,,001,Thermofluids Capstone Design Project,Ali Ergudenler;Antony Hodgson;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mehdi Hamidi;Mrinmoy Chakraborty;Nima Atabaki;Paul Winkelman;Peter Ostafichuk,20,86.15,4.38027877,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,9,6,,,
+UBCV,2021,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Ali Ergudenler;Antony Hodgson;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mehdi Hamidi;Mrinmoy Chakraborty;Nima Atabaki;Paul Winkelman;Peter Ostafichuk;Vladan Prodanovic;Wen Li,60,82.833333333,5.560656792,90.0,69.0,,,,,,,,,,,0,0,0,0,0,5,1,7,15,25,7,,,
+UBCV,2021,W,MECH,458,,001,Mechatronics Design Project,Ali Ergudenler;Antony Hodgson;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mehdi Hamidi;Mrinmoy Chakraborty;Nima Atabaki;Paul Winkelman;Peter Ostafichuk,31,81.580645161,13.669367685,91.0,12.0,,,,,,,,,,,1,0,0,0,0,0,0,6,9,8,7,,,
+UBCV,2021,S,APSC,262,,921,Technology and Society II,Paul Winkelman,18,81.4,,91.0,64.0,,,,,,,,,,,,,,,,,,,7,,,81.5,87.0,80.0
+UBCV,2021,S,APSC,262,,922,Technology and Society II,Ataollah Kheyrandish;Paul Winkelman,30,81.1,,97.0,58.0,,,,,,,,,,,,,,,,,,8,7,6,,82.0,85.0,78.0
+UBCV,2021,S,APSC,262,,923,Technology and Society II,Sean Mcbeath;Paul Winkelman,28,81.3,,90.0,56.0,,,,,,,,,,,,,,,,,,,13,9,,83.0,85.0,81.0
+UBCV,2021,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,21,80.1,,92.0,64.0,,,,,,,,,,,,,,,,,,7,,,,80.0,88.0,76.0
+UBCV,2021,W,APSC,261,,101,Technology and Society I,Paul Winkelman,36,78.4,,91.0,51.0,,,,,,,,,,,,,,,,,,7,8,8,,80.0,87.0,75.5
+UBCV,2021,W,APSC,261,,102,Technology and Society I,Earl Foster;Paul Winkelman,30,81.5,,97.0,58.0,,,,,,,,,,,,,,,,,,7,7,,8,81.0,89.3,77.3
+UBCV,2021,W,APSC,261,,104,Technology and Society I,Earl Foster;Paul Winkelman,41,78.4,,95.0,42.0,,,,,,,,,,,,,,,,,,,6,12,7,82.0,87.0,74.0
+UBCV,2021,W,APSC,261,,105,Technology and Society I,Earl Foster;Paul Winkelman,33,77.9,,93.0,34.0,,,,,,,,,,,,,,,,,,,8,8,6,83.0,86.0,72.0
+UBCV,2021,W,MECH,328,,101,Mechanical Engineering Design Project,Ali Ergudenler;Markus Fengler;Sheldon Green;Peter Ostafichuk;Paul Winkelman,120,80.0,,96.0,62.0,,,,,,,,,,,,,,,,,16,28,35,17,14,80.0,85.0,76.0
+UBCV,2021,W,MECH,454,,001,Thermofluids Capstone Design Project,Nima Atabaki;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Antony Hodgson;Peter Ostafichuk;George Rawlings;Hendrik Van Der Loos;Paul Winkelman,20,86.2,,92.0,79.0,,,,,,,,,,,,,,,,,,,,9,6,86.5,90.3,84.5
+UBCV,2021,W,MECH,457,,001,Mechanical Engineering Design Project,Nima Atabaki;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Antony Hodgson;Peter Ostafichuk;George Rawlings;Hendrik Van Der Loos;Paul Winkelman,60,82.9,,90.0,69.0,,,,,,,,,,,,,,,,,,7,14,26,7,85.0,86.0,80.0
+UBCV,2021,W,MECH,458,,001,Mechatronics Design Project,Nima Atabaki;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Antony Hodgson;Peter Ostafichuk;George Rawlings;Hendrik Van Der Loos;Paul Winkelman,31,81.6,,91.0,12.0,,,,,,,,,,,,,,,,,,6,9,8,7,83.0,87.0,80.0
+UBCV,2022,S,APSC,262,,921,Technology and Society II,Paul Winkelman,23,79.6,,91.0,33.0,,,,,,,,,,,1,1,0,0,1,0,1,4,3,9,3,85.0,88.0,77.0
+UBCV,2022,S,APSC,262,,922,Technology and Society II,Ataollah Kheyrandish;Paul Winkelman,25,79.4,,91.0,60.0,,,,,,,,,,,0,0,0,1,1,1,3,5,6,4,4,80.0,85.0,76.0
+UBCV,2022,S,APSC,262,,923,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,29,81.7,,90.0,65.0,,,,,,,,,,,0,0,0,0,3,1,1,3,6,11,4,85.0,87.0,77.0
+UBCV,2022,S,APSC,461,,921,Global Engineering Leadership,Paul Winkelman,17,80.4,,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,5,4,5,1,82.0,85.0,76.0
+UBCV,2022,W,APSC,262,,101,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,32,79.9,,92.0,50.0,,,,,,,,,,,0,1,0,1,2,2,3,0,9,10,4,82.0,87.0,73.8
+UBCV,2022,W,APSC,262,,102,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,28,81.1,,95.0,61.0,,,,,,,,,,,0,0,0,1,0,5,2,3,3,7,7,83.0,87.8,72.0
+UBCV,2022,W,APSC,262,,104,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,29,83.8,,100.0,60.0,,,,,,,,,,,0,0,0,2,1,0,2,4,4,5,11,85.0,92.0,78.0
+UBCV,2022,W,APSC,262,,105,Technology and Society II,Paul Winkelman,26,78.9,,92.0,43.0,,,,,,,,,,,1,0,1,0,2,1,0,3,9,6,3,81.5,85.8,77.0
+UBCV,2022,W,APSC,262,,106,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,30,77.6,,97.0,60.0,,,,,,,,,,,0,0,0,3,5,1,3,2,8,4,4,80.0,84.8,67.8
+UBCV,2022,W,MECH,431,,201,Engineering Economics,Paul Winkelman,84,77.7,,97.0,38.0,,,,,,,,,,,6,1,1,3,1,4,10,8,21,13,16,80.0,86.0,73.0
+UBCV,2023,W,APSC,262,,105,Technology and Society II,Roza Vaez Ghaemi;Paul Winkelman,21,83.0,,91.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,6,5,5,84.0,87.0,80.0
+UBCV,2023,W,MECH,453,,001,Aerospace Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,14,83.0,,88.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,7,6,0,82.5,86.75,81.25
+UBCV,2023,W,MECH,454,,001,Thermofluids Capstone Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,84.0,,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,0,83.0,88.0,81.0
+UBCV,2023,W,MECH,457,,001,Mechanical Engineering Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,54,83.07,,90.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,1,32,19,1,84.0,85.0,81.0
+UBCV,2023,W,MECH,458,,001,Mechatronics Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,28,82.61,,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,21,4,1,82.5,84.0,81.0
+UBCV,2023,W,MECH,459,,001,Biomedical Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,83.11,,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,0,83.0,85.0,81.0
+UBCV,2023,W,MECH,557,,101,Research Skills for Engineers,Paul Winkelman,6,84.5,,97.0,72.0,,,,,,,,,,,,,,,,,,,,,,84.5,90.25,78.75
+UBCV,2023,W,MECH,559,,101,Engineering Project Management,Paul Winkelman,38,81.82,,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,10,11,5,8,81.0,86.75,76.0

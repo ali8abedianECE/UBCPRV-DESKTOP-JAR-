@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,WOOD,494,,101,PRNC WOOD CUT&TL,"Cool, Julie",18,72.28,9.44,86,49,17,1,0,0,0,0,0,0,0,1,1,0,0,2,2,3,4,2,2,2,0,,,
+UBC,2015,W,WOOD,384,,101,WOOD SAWMILL DRY,"Avramidis, Stavros;Cool, Julie",22,76.18,9.38,92,56,22,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,5,2,4,4,1,,,
+UBC,2015,W,WOOD,494,,101,PRNC WOOD CUT&TL,"Cool, Julie",35,76.44,7.2,90,59,34,0,1,0,0,0,0,0,0,0,0,0,1,2,0,6,4,12,4,4,1,,,
+UBC,2016,W,WOOD,335,,101,QUALITY IMPROVEM,"Cool, Julie",42,76.52,7.49,91,61,42,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,8,7,10,6,1,,,
+UBC,2016,W,WOOD,384,,101,WOOD SAWMILL DRY,"Avramidis, Stavros;Cool, Julie",47,78.43,8.54,90,50,47,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,6,9,13,9,2,,,
+UBC,2016,W,WOOD,494,,101,PRNC WOOD CUT&TL,"Cool, Julie",29,73.72,9.55,92,56,29,0,0,0,0,0,0,0,0,0,0,0,2,1,6,2,6,3,5,3,1,,,
+UBC,2017,S,WOOD,353,,921,MILL SITE VISITS,"Cool, Julie;Ellis, Simon",40,75.56,11.56,92,50,39,0,0,0,0,0,0,0,0,0,0,3,1,3,3,2,1,10,6,8,2,,,
+UBC,2017,W,WOOD,335,,101,QUALITY IMPROVEM,"Cool, Julie",56,81.68,4.26,90,70,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,30,9,2,,,
+UBC,2017,W,WOOD,384,,101,WOOD SAWMILL DRY,"Avramidis, Stavros;Cool, Julie",58,73.43,9.21,98,51,58,0,0,0,0,0,0,0,0,0,0,1,3,1,13,9,7,10,7,3,4,,,
+UBC,2017,W,WOOD,494,,101,PRNC WOOD CUT&TL,"Cool, Julie",24,81.71,5.43,91,71,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,11,5,2,,,
+UBC,2018,S,WOOD,353,,921,MILL SITE VISITS,"Cool, Julie;Jiang, Feng",54,87.3,6.7,97,66,54,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,8,17,24,,,
+UBC,2018,W,WOOD,335,,101,QUALITY IMPROVEM,"Cool, Julie",61,83.48,6.47,92,61,61,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,9,12,29,6,,,
+UBC,2018,W,WOOD,384,,101,WOOD SAWMILL DRY,"Avramidis, Stavros;Cool, Julie",62,75.82,8.4,90,50,62,0,0,0,0,0,0,0,0,0,0,1,1,2,6,6,14,10,13,7,2,,,
+UBC,2018,W,WOOD,494,,101,PRNC WOOD CUT&TL,"Cool, Julie",39,81.51,11.35,95,26,38,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,5,18,11,3,,,
+UBCV,2014,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,18,72.27777778,9.442118129,86.0,49.0,,,,,,,,,,,,,,,,,,,,,0,,,
+UBCV,2015,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Stavros Avramidis,22,76.181818182,9.378985444,92.0,56.0,,,,,,,,,,,0,0,,,,,5,,,,,,,
+UBCV,2015,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,34,76.441176471,7.199289428,90.0,59.0,,,,,,,,,,,0,0,,,,6,,12,,,,,,
+UBCV,2016,W,WOOD,335,,101,Quality Improvement,Julie Cool,42,76.52380952,7.487348989,91.0,61.0,,,,,,,,,,,0,0,0,2,3,5,8,7,10,6,1,,,
+UBCV,2016,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Stavros Avramidis,47,78.42553192,8.540809148,90.0,50.0,,,,,,,,,,,0,1,1,0,3,3,6,9,13,9,2,,,
+UBCV,2016,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,29,73.72413793,9.553969077,92.0,56.0,,,,,,,,,,,0,0,2,1,6,2,6,3,5,3,1,,,
+UBCV,2017,S,WOOD,353,,921,Mill Site Visits,Julie Cool;Simon Ellis,40,75.3,11.536341686,92.0,50.0,,,,,,,,,,,0,3,1,3,4,2,1,10,6,8,2,,,
+UBCV,2017,W,WOOD,335,,101,Quality Improvement,Julie Cool;Vahid Nasir,56,81.678571429,4.264471161,90.0,70.0,,,,,,,,,,,0,0,0,0,0,2,2,11,30,9,2,,,
+UBCV,2017,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Marc Banholzer;Stavros Avramidis,58,73.431034483,9.209286063,98.0,51.0,,,,,,,,,,,0,1,3,1,13,9,7,10,7,3,4,,,
+UBCV,2017,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Vahid Nasir,24,81.708333333,5.425216218,91.0,71.0,,,,,,,,,,,0,0,0,0,0,2,2,2,11,5,2,,,
+UBCV,2018,S,WOOD,353,,921,Mill Site Visits,Feng Jiang;Julie Cool;Simon Ellis,54,87.296296296,6.697309033,97.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,1,8,17,24,,,
+UBCV,2018,W,WOOD,335,,101,Quality Improvement,Julie Cool;Lun Ji,62,83.435483871,6.426433546,92.0,61.0,,,,,,,,,,,0,0,0,2,0,2,1,9,13,29,6,,,
+UBCV,2018,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Marc Banholzer;Sohrab Rahimi;Stavros Avramidis,62,75.822580645,8.395010606,90.0,50.0,,,,,,,,,,,0,1,1,2,6,6,14,10,13,7,2,,,
+UBCV,2018,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Vahid Nasir,39,81.512820513,11.345928541,95.0,26.0,,,,,,,,,,,1,1,0,0,0,0,0,5,18,11,3,,,
+UBCV,2019,S,WOOD,353,,921,Mill Site Visits,Anna Helena Schild;Anna Schild;Feng Jiang;Julie Cool;Simon Ellis,42,79.785714286,5.497386138,90.0,63.0,,,,,,,,,,,0,0,0,1,0,2,5,8,19,6,1,,,
+UBCV,2019,W,WOOD,335,,101,Quality Improvement,Julie Cool;Qing Qiu,41,76.512195122,7.194171082,87.0,60.0,,,,,,,,,,,0,0,0,3,3,3,5,10,13,4,0,,,
+UBCV,2019,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Marc Banholzer;Sohrab Rahimi;Stavros Avramidis,42,72.047619048,12.008030608,97.0,51.0,,,,,,,,,,,0,2,5,4,4,7,5,5,2,3,5,,,
+UBCV,2019,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Vahid Nasir,32,80.65625,7.460041404,94.0,64.0,,,,,,,,,,,0,0,0,0,1,4,3,3,10,9,2,,,
+UBCV,2020,W,WOOD,335,,101,Quality Improvement,Julie Cool;Qing Qiu;Vahid Nasir,45,83.066666667,6.668787541,95.0,64.0,,,,,,,,,,,0,0,0,0,1,1,5,7,11,12,8,,,
+UBCV,2020,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Sohrab Rahimi;Stavros Avramidis;Vahid Nasir,39,87.128205128,6.465208456,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,6,4,12,16,,,
+UBCV,2020,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Lukie Leung;Robert Fuerst,17,81.823529412,9.72904989,96.0,63.0,,,,,,,,,,,0,0,0,1,1,2,1,0,3,5,4,,,
+UBCV,2021,W,WOOD,335,,101,Quality Improvement,Julie Cool;Qing Qiu;Vahid Nasir,43,76.441860465,5.852562831,87.0,62.0,,,,,,,,,,,0,0,0,2,1,7,6,14,11,2,0,,,
+UBCV,2021,W,WOOD,384,,101,Wood Sawmilling and Drying,Chenli Zhou;Dessie Tibebu;Julie Cool;Stavros Avramidis;Vahid Nasir,44,84.113636364,5.292451444,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,1,15,18,5,,,
+UBCV,2021,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Qiyue Zhang;Robert Fuerst;Yeling Xia,9,80.0,11.079259903,96.0,59.0,,,,,,,,,,,0,0,1,0,0,1,1,0,4,0,2,,,
+UBCV,2021,W,WOOD,335,,101,Quality Improvement,Julie Cool,43,76.4,,87.0,62.0,,,,,,,,,,,,,,,,7,6,14,11,,,77.0,80.5,73.5
+UBCV,2021,W,WOOD,384,,101,Wood Sawmilling and Drying,Stavros Avramidis;Julie Cool,44,84.1,,95.0,71.0,,,,,,,,,,,,,,,,,,,15,18,,85.0,87.0,83.0
+UBCV,2021,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,9,81.8,,96.0,71.0,,,,,,,,,,,,,,,,,,,,,,83.0,84.0,75.0
+UBCV,2022,W,WOOD,335,,101,Quality Improvement,Julie Cool,37,80.2,,89.0,68.0,,,,,,,,,,,0,0,0,0,0,5,3,6,13,10,0,81.0,85.0,78.0
+UBCV,2022,W,WOOD,384,,101,Wood Sawmilling and Drying,Stavros Avramidis;Julie Cool,36,82.1,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,6,10,13,2,82.5,86.0,78.0
+UBCV,2022,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,17,78.2,,88.0,65.0,,,,,,,,,,,0,0,0,0,1,1,5,2,4,4,0,77.0,84.0,73.0
+UBCV,2023,W,WOOD,335,,101,Quality Improvement,Julie Cool,40,77.45,,92.0,65.0,,,,,,,,,,,0,0,0,0,3,4,7,10,14,1,1,77.5,82.25,73.75
+UBCV,2023,W,WOOD,384,,101,Wood Sawmilling and Drying,Stavros Avramidis;Julie Cool,43,79.7,,92.0,66.0,,,,,,,,,,,0,0,0,0,2,3,6,9,13,6,4,80.0,84.0,75.5
+UBCV,2023,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool,8,81.71,,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,1,1,1,2,80.0,89.0,76.5

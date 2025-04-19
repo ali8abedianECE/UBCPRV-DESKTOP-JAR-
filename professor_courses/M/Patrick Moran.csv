@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FREN,348,,201,FR LIT IN TRAN I,"Moran, Patrick",5,82.2,4.09,88,79,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,,,
+UBC,2018,W,FREN,407,,101,MEDIEVAL FR LIT,"Moran, Patrick",22,82,5.95,92,70,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,4,7,6,2,,,
+UBC,2018,W,MDVL,301,,001,EURO LIT 5-14CNT,"Moran, Patrick",29,80.24,5.56,91,66,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,7,11,4,1,,,
+UBC,2018,W,RMST,221,,201,LIT&CULT RMNCE I,"Moran, Patrick",44,77.84,9.67,90,41,41,2,1,0,0,0,0,0,0,2,2,0,0,0,0,3,9,12,5,8,4,,,
+UBCV,2018,W,FREN,407,,101,Studies in Medieval French Literature,Patrick Moran,22,79.681818182,12.32645766,92.0,31.0,,,,,,,,,,,1,0,0,0,0,1,1,4,7,6,2,,,
+UBCV,2018,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,29,80.24137931,5.559131307,91.0,66.0,,,,,,,,,,,0,0,0,0,1,0,5,7,11,4,1,,,
+UBCV,2018,W,RMST,221,,201,Literatures and Cultures of the Romance World I: Medieval to Early Modern,Patrick Moran,43,78.488372093,7.911330311,90.0,46.0,,,,,,,,,,,1,0,0,0,0,4,9,12,5,8,4,,,
+UBCV,2019,W,FREN,101,,101,Beginners' French I,Juliet O'Brien;Laurence Gauvreau;Patrick Moran;Pooja Booluck;Somayeh Kamranian;Sylvia Bascou Vallarino,33,80.909090909,12.006153725,93.0,48.0,,,,,,,,,,,1,2,0,0,2,1,1,3,6,8,9,,,
+UBCV,2019,W,FREN,220,,103,Introduction to Early French Literature and to Textual Analysis,Patrick Moran,37,80.540540541,6.322774508,91.0,64.0,,,,,,,,,,,0,0,0,0,1,2,3,7,15,6,3,,,
+UBCV,2019,W,FREN,348,,201,French Literature from the Middle Ages to the Revolution (in English),Patrick Moran,11,82.272727273,8.844104354,90.0,63.0,,,,,,,,,,,0,0,0,1,0,0,2,0,1,5,2,,,
+UBCV,2019,W,FREN,501,B,201,Studies in Medieval French Literature,Patrick Moran,7,87.857142857,4.180453382,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,2,,,
+UBCV,2019,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,32,79.75,16.735128208,92.0,0.0,,,,,,,,,,,1,0,1,0,0,2,4,2,8,7,7,,,
+UBCV,2020,W,FREN,220,,102,Introduction to Early French Literature and to Textual Analysis,Caitlin Midgley;Patrick Moran,44,79.5,13.570659184,91.0,0.0,,,,,,,,,,,1,0,0,0,0,4,4,6,15,10,4,,,
+UBCV,2020,W,FREN,348,,201,French Literature from the Middle Ages to the Revolution (in English),Patrick Moran,7,82.0,6.429100507,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,1,1,,,
+UBCV,2020,W,FREN,407,,101,Studies in Medieval French Literature,Patrick Moran,13,83.230769231,5.585007403,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,6,2,2,,,
+UBCV,2020,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Kyla Drzazgowski;Patrick Moran,35,76.142857143,16.155754497,91.0,0.0,,,,,,,,,,,1,2,0,0,1,2,7,3,8,8,3,,,
+UBCV,2021,W,FREN,101,,902,Beginners' French I,Haia Abo Sfeer;Patrick Moran;Romina Mahinpei;Somayeh Kamranian,31,88.451612903,7.027748381,99.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,1,5,8,16,,,
+UBCV,2021,W,FREN,321,,102,Critical Writing,Patrick Moran,28,81.142857143,13.407334327,94.0,21.0,,,,,,,,,,,1,0,0,0,0,0,3,5,6,7,6,,,
+UBCV,2021,W,FREN,501,A,101,Studies in Medieval French Literature,Patrick Moran,8,86.0,4.035556255,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,4,2,,,
+UBCV,2021,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,39,74.871794872,11.776827129,94.0,27.0,,,,,,,,,,,1,0,2,2,0,4,10,8,6,2,4,,,
+UBCV,2021,W,RMST,321,,201,French Literature from the Middle Ages to the Revolution,Gabriela Penkov;Patrick Moran,24,78.416666667,12.250702435,90.0,28.0,,,,,,,,,,,1,0,0,0,0,2,4,3,6,6,2,,,
+UBCV,2021,W,FREN,321,,102,Critical Writing,Patrick Moran,28,81.1,,94.0,21.0,,,,,,,,,,,,,,,,,,,6,7,6,84.0,87.0,76.0
+UBCV,2021,W,FREN,501,A,101,Studies in Medieval French Literature,Patrick Moran,8,86.0,,90.0,78.0,,,,,,,,,,,,,,,,,,,,,,87.0,88.5,84.5
+UBCV,2021,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,39,74.9,,94.0,27.0,,,,,,,,,,,,,,,,,10,8,6,,,76.0,80.0,72.0
+UBCV,2021,W,RMST,321,,201,French Literature from the Middle Ages to the Revolution,Patrick Moran,23,80.6,,90.0,70.0,,,,,,,,,,,,,,,,,,,6,6,,80.0,85.0,76.0
+UBCV,2022,W,FREN,321,,102,Critical Writing,Patrick Moran,24,81.3,,93.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,4,4,8,3,84.0,86.0,78.0
+UBCV,2022,W,FREN,417,,201,Popular Fiction,Patrick Moran,30,85.1,,94.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,8,8,10,87.0,90.0,83.0
+UBCV,2022,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,35,77.9,,94.0,9.0,,,,,,,,,,,1,0,1,1,1,2,5,3,9,8,4,80.0,85.5,75.0
+UBCV,2022,W,RMST,321,,201,French Literature from the Middle Ages to the Revolution,Patrick Moran,20,83.1,,94.0,54.0,,,,,,,,,,,0,1,0,0,1,0,0,1,7,5,5,84.5,89.3,80.8
+UBCV,2023,W,FREN,407,,201,Medieval French Literature,Patrick Moran,27,82.7,,93.0,62.0,,,,,,,,,,,0,0,0,1,1,1,2,1,6,9,6,85.0,88.5,80.0
+UBCV,2023,W,FREN,501,A,101,Studies in Medieval French Literature,Patrick Moran,7,80.1,,95.0,37.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,1,3,88.0,91.0,79.5
+UBCV,2023,W,MDVL,301,,001,European Literature from the 5th to the 14th Century,Patrick Moran,36,82.33,,93.0,24.0,,,,,,,,,,,1,0,0,0,0,2,4,3,5,12,9,85.0,89.25,77.75
+UBCV,2023,W,RMST,321,,201,French Literature from the Middle Ages to the Revolution,Patrick Moran,40,80.56,,93.0,44.0,,,,,,,,,,,1,1,0,0,1,4,1,3,11,12,5,83.0,87.5,78.0

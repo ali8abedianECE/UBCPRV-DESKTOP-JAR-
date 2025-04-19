@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",17,89.63,6.24,100,80,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8,,,
+UBC,2011,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",20,91.53,6.04,100,81,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,11,,,
+UBC,2012,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",24,91.64,4.51,100,84,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,15,,,
+UBC,2013,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",21,93.25,3.82,100,84,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17,,,
+UBC,2014,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",28,90.44,9.18,100,67,27,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,3,20,,,
+UBC,2014,W,EPSE,390,A,63C,SELECTED TOPICS,"Nicks, David",23,83.26,20.35,100,0,22,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,3,1,2,7,8,,,
+UBC,2015,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",26,92.23,6.72,100,65,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,23,,,
+UBC,2015,S,EPSE,390,A,921,SELECTED TOPICS,"Nicks, David",7,90.71,5.91,95,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,,,
+UBC,2015,W,EPSE,390,A,63C,SELECTED TOPICS,"Nicks, David",26,85.92,11.03,100,56,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,2,4,11,,,
+UBC,2016,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",28,93.36,3.61,100,86,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,24,,,
+UBC,2016,S,EPSE,408,,951,ED PRG HGHLY ABL,"Nicks, David",30,93.24,3.45,98,84,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,25,,,
+UBC,2017,S,EPSE,303,,951,TCH'G HGHLY ABLE,"Nicks, David",27,91.93,9.27,100,55,27,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3,21,,,
+UBC,2017,S,EPSE,408,,951,ED PRG HGHLY ABL,"Nicks, David",21,93.76,3.94,100,86,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,,,
+UBC,2018,W,EPSE,303,,63A,TCH'G HGHLY ABLE,"Nicks, David",36,82.5,16.79,100,16,34,2,0,0,0,0,1,0,0,1,2,1,0,0,0,2,1,3,6,7,14,,,
+UBC,2018,W,EPSE,408,,63D,ED PRG HGHLY ABL,"Nicks, David",27,90.63,5.81,100,76,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,18,,,
+UBCV,2014,S,EPSE,303,,951,Teaching Highly Able Learners,David Nicks,27,90.44444444,9.179129058,100.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,20,,,
+UBCV,2014,W,EPSE,390,A,63C,Special Topics,David Nicks,23,83.26086957,20.35417623,100.0,0.0,,,,,,,,,,,,,,,,,,,,7,8,,,
+UBCV,2015,S,EPSE,303,,951,Teaching Highly Able Learners,David Nicks,26,92.23076923,6.718974281,100.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,,23,,,
+UBCV,2015,S,EPSE,390,A,921,Special Topics,David Nicks,7,90.71428571,5.908025212,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,5,,,
+UBCV,2015,W,EPSE,390,A,63C,Special Topics,David Nicks,26,85.884615385,10.804913412,100.0,56.0,,,,,,,,,,,0,0,,,,,,,,5,11,,,
+UBCV,2016,S,EPSE,303,,951,Teaching Highly Able Learners,David Nicks,28,93.35714286,3.612881129,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,24,,,
+UBCV,2016,S,EPSE,408,,951,Educational Programming for Highly Able Learners,David Nicks,30,92.73333333,4.38597556,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,25,,,
+UBCV,2017,S,EPSE,303,,951,Teaching Highly Able Learners,David Nicks,27,91.925925926,9.269162795,100.0,55.0,,,,,,,,,,,0,0,1,0,0,0,0,1,1,3,21,,,
+UBCV,2017,S,EPSE,408,,951,Educational Programming for Highly Able Learners,David Nicks,21,93.761904762,3.935794226,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,17,,,
+UBCV,2018,S,EPSE,303,,951,Teaching Highly Able Learners,Chih Shen Lo;David Nicks,20,92.6,3.43970623,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,18,,,
+UBCV,2018,W,EPSE,303,,63A,Teaching Highly Able Learners,Chih Shen Lo;David Nicks,36,82.5,16.78519756,100.0,16.0,,,,,,,,,,,2,1,0,0,0,2,1,3,6,7,14,,,
+UBCV,2018,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Chih Shen Lo;David Nicks,27,90.62962963,5.812110355,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,5,18,,,
+UBCV,2019,W,EPSE,303,,63A,Teaching Highly Able Learners,David Nicks;Kristi Lauridsen,36,84.166666667,19.801154368,98.0,1.0,,,,,,,,,,,2,0,0,0,0,1,2,4,2,5,20,,,
+UBCV,2019,W,EPSE,303,,63B,Teaching Highly Able Learners,David Nicks;Kristi Lauridsen,36,86.972222222,12.086559504,100.0,32.0,,,,,,,,,,,1,0,0,1,0,0,1,2,5,8,18,,,
+UBCV,2019,W,EPSE,390,A,63C,Special Topics,Chih Shen Lo;David Nicks;I-Chen Wu,28,78.571428571,19.991532599,100.0,3.0,,,,,,,,,,,1,1,0,1,3,3,2,2,2,1,12,,,
+UBCV,2019,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Chih Shen Lo;David Nicks,36,92.0,2.305273458,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,29,,,
+UBCV,2019,W,EPSE,565,I,074,Special Course in Subject Matter Field,David Nicks,14,93.928571429,5.863371119,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,13,,,
+UBCV,2020,S,EPSE,408,,951,Educational Programming for Highly Able Learners,David Nicks,30,90.633333333,3.643447906,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,19,,,
+UBCV,2020,W,EPSE,303,,63A,Teaching Highly Able Learners,David Nicks;Ginaya Peters,28,88.357142857,5.215463374,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,8,14,,,
+UBCV,2020,W,EPSE,303,,63B,Teaching Highly Able Learners,David Nicks;Hyekyung Lee,30,88.6,9.636854545,98.0,51.0,,,,,,,,,,,0,1,0,0,0,1,0,0,6,1,21,,,
+UBCV,2020,W,EPSE,390,A,63C,Special Topics,David Nicks;Ginaya Peters,11,85.727272727,9.45611875,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,4,2,4,,,
+UBCV,2020,W,EPSE,565,I,074,Special Course in Subject Matter Field,David Nicks;Jennifer Katz,13,85.307692308,8.004005408,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,2,3,4,,,
+UBCV,2021,S,EPSE,408,,951,Educational Programming for Highly Able Learners,David Nicks;Ginaya Peters,29,90.793103448,8.195727591,99.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,2,1,1,22,,,
+UBCV,2022,W,CNPS,363,,63B,Career Counselling,David Nicks,35,86.5,,99.0,61.0,,,,,,,,,,,0,0,0,1,0,1,1,4,6,7,15,88.0,91.5,82.5
+UBCV,2022,W,CNPS,433,,63B,The Personal and Social Development of the Adult,David Nicks,29,85.4,,98.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,1,4,5,14,88.0,92.0,80.0
+UBCV,2022,W,CNPS,433,,63E,The Personal and Social Development of the Adult,David Nicks,33,84.0,,99.0,56.0,,,,,,,,,,,0,0,1,1,1,1,1,3,7,7,11,85.0,90.0,80.0
+UBCV,2022,W,EPSE,562,,075,Designing Inclusive Learning Communities: From Theory to Practice,David Nicks,9,78.8,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,2,1,1,1,78.0,82.0,73.0
+UBCV,2023,S,CNPS,363,,93Q,Career Counselling,David Nicks,32,85.56,,100.0,55.0,,,,,,,,,,,0,0,1,1,0,1,1,1,4,11,12,87.0,91.0,83.75
+UBCV,2023,S,EPSE,509,,951,Organization of Special Education Services,David Nicks,10,93.0,,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,92.5,95.0,90.0
+UBCV,2023,W,CNPS,363,,63B,Career Counselling,David Nicks,36,85.8,,99.0,60.0,,,,,,,,,,,0,0,0,2,2,0,1,1,7,5,17,89.0,92.5,81.5
+UBCV,2023,W,CNPS,363,,63F,Career Counselling,David Nicks,36,86.1,,97.0,52.0,,,,,,,,,,,0,1,0,0,1,1,1,2,3,8,17,89.5,91.0,82.8
+UBCV,2023,W,CNPS,433,,63B,The Personal and Social Development of the Adult,David Nicks,36,86.0,,97.0,64.0,,,,,,,,,,,0,0,0,0,2,1,3,0,6,10,13,87.0,92.0,83.0
+UBCV,2023,W,CNPS,433,,63E,The Personal and Social Development of the Adult,David Nicks,35,89.1,,99.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,3,2,7,21,91.0,94.0,85.5
+UBCV,2023,W,EPSE,312,,074,Introduction to the Study of Exceptional Children,David Nicks,35,87.7,,99.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,1,2,9,22,90.0,93.0,88.0

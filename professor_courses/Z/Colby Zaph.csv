@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,PATH,301,,001,BIOCHEM MED LAB,"Keller, Bernd;Kizhakkedathu, Jayachandran;Seow, Chun Yong;Young, Sean;Zaph, Colby",24,80.79,8.81,94,62,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,1,7,4,4
+UBC,2014,W,PATH,415,,001,IMMUNOPATHOLOGY,"Bradley, Amanda;Huynh, Hanh;Junker, Anne Kristine;Magil, Alexander;Quandt, Jacqueline;Zaph, Colby",31,81.61,8.98,95,53,31,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8,4,6,4,8
+UBCV,2014,W,PATH,415,,001,Immunopathology,Alexander Magil;Amanda Bradley;Anne Kristine Junker;Colby Zaph;Hanh Huynh;Jacqueline Quandt,31,81.61290323,8.983976177,95.0,53.0,,,,,,,,,,,0,,,,,,8,,6,,8

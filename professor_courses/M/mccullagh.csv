@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",57,82.49,3.13,89,73,51,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,1,9,28,13,0
+UBC,2015,W,DENT,440,,001,DENTISTRY lV,"Aidelbaum, Martin;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Lowe, Alan Arthur;MacDonald, David;Mathu-Muju, Kavita;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",57,81.05,2.47,86,75,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,41,3,0
+UBC,2015,W,DENT,532,,001,PROSTHODONTCS I,"McCullagh, Anthony;Wyatt, Christopher",4,80.25,7.14,89,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+UBC,2015,W,DENT,575,,001,IMPLANT THERAPY,"Larjava, Hannu;McCullagh, Anthony",11,78.64,6.67,89,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,2,0
+UBC,2015,W,DENT,725,,001,CLIN PROSTH I,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,DENT,726,,001,CLIN PROSTH II,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,420,,001,DENTISTRY II,"Black, Nancy;Bryant, S;Chanpong, Brian;Hatzimanolakis, Penny;Mathu-Muju, Kavita;McCullagh, Anthony;Pattanaporn, Komkham;Ruse, N Dorin;Whitney, Eli",46,82.38,3.11,89,75,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,29,11,0
+UBC,2016,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",54,82.5,2.88,89,77,52,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,30,13,0
+UBC,2016,W,DENT,440,,001,DENTISTRY lV,"Aidelbaum, Martin;Chen, Hui;Coil, Jeffrey Martin;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;MacDonald, David;Mathu-Muju, Kavita;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",56,80.76,2.46,87,75,55,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,15,36,3,0
+UBC,2016,W,DENT,532,,001,PROSTHODONTCS I,"McCullagh, Anthony;Wyatt, Christopher",4,83.5,2.65,86,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2016,W,DENT,575,,001,IMPLANT THERAPY,"Giannelis, Georgios;Larjava, Hannu;McCullagh, Anthony",11,81.91,7.54,95,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,3
+UBC,2016,W,DENT,725,,001,CLIN PROSTH I,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,726,,001,CLIN PROSTH II,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,727,,001,CLIN PROSTH III,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,DENT,440,,001,DENTISTRY lV,"Chen, Hui;Coil, Jeffrey Martin;Diewert, Virginia;Fogelman, Menachem;MacDonald, David;McCullagh, Anthony;Richardson, James;Whitney, Eli;Zhang, Lewei",55,80.51,2.87,88,75,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,15,33,4,0
+UBC,2017,W,DENT,575,,001,IMPLANT THERAPY,"Giannelis, Georgios;Larjava, Hannu;McCullagh, Anthony",9,82.44,7.73,94,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2
+UBC,2017,W,DENT,726,,001,CLIN PROSTH II,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,DENT,727,,001,CLIN PROSTH III,"Bryant, S;McCullagh, Anthony;Nguyen, Caroline;Wyatt, Christopher",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

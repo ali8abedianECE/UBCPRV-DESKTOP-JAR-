@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDST,314,,003,ANALYSIS OF EDUC,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,EDST,314,,010,ANALYSIS OF EDUC,"Morton, Charlene",38,,,,,0,0,1,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EDST,314,,009,ANALYSIS OF EDUC,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EDUC,316,,334,COMM SKILLS,"Morton, Charlene",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,MUED,320,,205,C & I MUSIC ELEM,"Morton, Charlene",36,,,,,0,0,2,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EDST,314,,010,SCL ISS IN EDUC,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EDUC,316,,212,COMM SKILLS,"Morton, Charlene",19,,,,,0,0,1,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,MUED,320,,101,C & I MUSIC ELEM,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,MUED,320,,102,C & I MUSIC ELEM,"Morton, Charlene",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,MUED,320,,202,C & I MUSIC ELEM,"Morton, Charlene",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,MUED,320,,205,C & I MUSIC ELEM,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EDST,314,,106,SCL ISS IN EDUC,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EDST,314,,201,SCL ISS IN EDUC,"Morton, Charlene",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EDUC,310,,211,TEACh PRINC,"Morton, Charlene",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EDUC,316,,211,COMM SKILLS,"Morton, Charlene",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,MUED,320,,101,C & I MUSIC ELEM,"Morton, Charlene",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,MUED,320,,201,C & I MUSIC ELEM,"Morton, Charlene",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,MUED,320,,103,C & I MUSIC ELEM,"Morton, Charlene",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,MUED,320,,107,C & I MUSIC ELEM,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EDST,428,,920,SOCL FNDTN OF ED,"Morton, Charlene",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EDST,428,,924,SOCL FNDTN OF ED,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,MUED,320,,107,C & I MUSIC ELEM,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,MUED,320,,110,C & I MUSIC ELEM,"Morton, Charlene",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,MUED,320,,201,C & I MUSIC ELEM,"Morton, Charlene",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Morton, Charlene",37,89.51,2.61,93,84,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,19
+UBC,2010,S,EDCP,562,,951,CURRIC ISS&THRY,"Morton, Charlene",18,86.39,2.43,90,81,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12,2
+UBC,2010,W,EDCP,308,,201,C & P MUSIC ELEM,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDST,314,,201,SCL ISS IN EDUC,"Morton, Charlene",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDST,314,,401,SCL ISS IN EDUC,"Morton, Charlene",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,308,,102,MUS ELEM CRC&PED,"Morton, Charlene",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,308,,103,MUS ELEM CRC&PED,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,308,,104,MUS ELEM CRC&PED,"Morton, Charlene",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDST,428,,924,SOCL FNDTN OF ED,"Morton, Charlene",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

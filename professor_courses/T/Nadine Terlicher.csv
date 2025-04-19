@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,PHTH,517,,001,EXERCISE MOVE I,"Terlicher, Nadine",83,84.18,5.92,95,59,82,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,13,22,27,15
+UBC,2014,W,PHTH,527,,001,EXERCISE MOVE II,"Terlicher, Nadine",81,88.28,3.93,97,74,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,40,30
+UBC,2015,S,PHTH,545,,921,CLIN PRAC IVB,"Terlicher, Nadine",82,,,,,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHTH,545,,921,CLIN PRAC IVB,"Terlicher, Nadine",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,W,PHTH,517,,001,Exercise and Movement I,Nadine Terlicher,82,84.18292683,5.919476221,95.0,59.0,,,,,,,,,,,0,0,,,,,,13,22,27,15
+UBCV,2014,W,PHTH,524,,001,Clinical Practice II,Doria Bellows;Nadine Terlicher;Natalie Grant;Nu Lu;Simone Gruenig,81,82.82716049,3.942683488,92.0,71.0,,,,,,,,,,,0,0,0,0,0,,,12,41,21,
+UBCV,2014,W,PHTH,527,,001,Exercise and Movement II,Nadine Terlicher,81,88.28395062,3.931394689,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,10,40,30

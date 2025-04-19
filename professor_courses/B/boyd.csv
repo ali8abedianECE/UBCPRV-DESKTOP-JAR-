@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MATH,257,,103,PARTL DIFF EQUAT,"Boyd, David W",23,57.05,18.81,98,23,16,6,1,0,0,0,0,1,3,2,6,5,2,1,0,2,2,2,1,0,1
+UBC,2002,W,MATH,257,,201,PARTL DIFF EQUAT,"Boyd, David W",63,60.15,17.43,95,16,48,13,0,0,2,0,1,3,1,8,13,13,3,4,5,5,5,4,3,4,2
+UBC,2002,W,MATH,312,,201,INTR NUMBER THRY,"Boyd, David W",54,68.77,17.44,99,19,47,5,1,0,1,0,1,0,3,1,5,4,4,4,5,3,6,6,5,5,5
+UBC,2002,W,MATH,316,,103,DIFF EQUATIONS 2,"Boyd, David W",30,67.19,15.35,92,35,25,2,3,0,0,0,0,0,1,1,2,5,1,3,2,3,0,2,6,2,1
+UBC,2002,W,MUSC,455,,001,HIST OF OPERA II,"Boyd, Melinda",29,78.68,10.17,97,51,28,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,1,8,7,7,1
+UBC,2002,W,WMST,303,,001,"WMN, LAW, SOC","Boyd, Susan",16,77.87,4.31,86,71,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,4,5,1,0
+UBC,2003,W,MATH,440,,201,COMPLEX ANALYSIS,"Boyd, David W",14,75.14,21.1,94,25,11,3,0,0,0,0,0,1,0,2,3,0,0,0,0,0,0,2,3,3,3
+UBC,2003,W,MATH,508,,201,COMPLEX ANALY I,"Boyd, David W",8,80.75,16.68,100,53,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,4
+UBC,2003,W,MATH,539,,101,ANAL NUM THRY I,"Boyd, David W",6,93.33,4.8,98,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2003,W,MUSC,520,A,001,BIBLIO & RESRCH,"Boyd, Melinda",24,80.7,21.77,95,0,21,2,1,0,0,1,0,0,0,1,2,1,0,0,1,0,0,0,3,7,9
+UBC,2006,W,MATH,437,,101,NUMBER THEORY,"Boyd, David W",12,80.5,15.1,96,50,10,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,2,4
+UBC,2006,W,MATH,537,,101,ELEM NUMBER THRY,"Boyd, David W",4,94.5,6.66,100,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2006,W,WMST,224,B,002,WOMEN IN LITRTRE,"Boyd, Jade",35,72,9.95,91,42,31,2,2,0,0,0,0,0,0,2,2,0,0,2,5,4,9,7,1,1,2
+UBC,2006,W,WMST,303,,001,"WMN, LAW, SOC","Boyd, Susan",7,73.67,11.4,84,52,6,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,2,0,0
+UBC,2007,W,WMST,224,B,002,WOMEN IN LITRTRE,"Boyd, Jade",40,74.88,5.73,90,65,40,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,12,9,4,2,1
+UBC,2009,W,BASD,580,A,001,SUSTAIN & BUSI,"COHEN, BOYD",11,81,6.09,90,70,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,3,1
+UBC,2009,W,WMST,224,B,002,WOMEN IN LITRTRE,"Boyd, Jade",38,76.42,6.49,91,62,36,0,0,0,2,0,0,0,0,0,0,0,0,1,2,4,11,6,7,4,1
+UBC,2009,W,WMST,325,,001,FEMIN RESEARCH,"Boyd, Jade",20,77.63,5.98,90,67,19,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,6,1,1
+UBC,2010,W,BASD,580,A,001,SUSTAIN & BUSI,"COHEN, BOYD",19,83.95,5.16,91,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,6,3
+UBC,2011,W,BASD,580,A,001,SUSTAIN & BUSI,"COHEN, BOYD",28,79.93,6.46,95,72,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,6,5,3
+UBC,2011,W,WMST,303,,001,"WMN, LAW, SOC","Boyd, Susan",9,79.67,3.71,84,73,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,0,0
+UBC,2012,W,BASD,580,A,001,SUSTAIN & BUSI,"COHEN, BOYD",30,83.23,4.35,88,68,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,11,15,0
+UBC,2013,W,SOCI,310,A,003,CANADIAN SOCIETY,"Boyd, Jade",76,74.27,11.81,91,0,73,2,1,0,0,1,0,0,0,1,2,2,2,0,2,6,19,21,15,3,3
+UBC,2014,W,SOCI,100,B,001,INTRO SOCIOLOGY,"Boyd, Jade",112,72.89,8.63,94,54,109,0,3,0,0,0,0,0,0,0,0,1,3,11,20,15,17,19,9,12,2
+UBC,2014,W,SOCI,310,A,002,CANADIAN SOCIETY,"Boyd, Jade",96,74.45,13.25,95,0,90,3,2,0,0,1,1,0,0,1,3,1,3,2,7,13,16,15,19,10,4
+UBC,2014,W,SOCI,470,A,004,CRIME & JUSTICE,"Boyd, Jade",33,77.06,5.98,88,59,33,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,6,10,8,3,0
+UBC,2015,W,SOCI,470,A,001,CRIME & JUSTICE,"Boyd, Jade",36,75.31,6.78,90,55,35,0,1,0,0,0,0,0,0,0,0,0,1,1,1,3,11,12,3,1,2
+UBC,2016,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",82,86.4,7.81,94,68,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,13,23,36
+UBC,2016,W,PHTH,521,,001,PATH FOR PT 2,"Boyd, Lara;Virji-Babul, Naznin",80,84.9,4.85,94,71,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,22,32,14
+UBC,2017,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,91.28,4.15,97,78,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,17,58
+UBC,2017,W,PHTH,521,,001,PATH FOR PT 2,"Boyd, Lara",78,85.81,4.89,95,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,21,29,19
+UBC,2018,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",79,91.78,3.66,98,85,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,54
+UBC,2018,W,ASIC,220,,001,INTR SUSTAINABIL,"Boyd, David",38,85.61,6.86,95,66,38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,3,21,8
+UBC,2018,W,PHTH,521,,001,PATH FOR PT 2,"Boyd, Lara;Camp, Patricia;Gruenig, Simone",78,85.08,5.43,92,48,77,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,30,33,11
+UBC,2018,W,PHTH,524,,001,CLIN PRAC II,"Boyd, Lara;Gruenig, Simone;Reid, Andrea",78,85.08,5.43,92,48,77,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,30,33,11

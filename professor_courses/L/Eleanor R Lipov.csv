@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,SOWK,415,,001,PRACTICUM II,"Clark, Natalie;Lipov, Eleanor R;Marshall, Sheila;Sullivan, T Richard",52,,,,,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,SOWK,416,,003,ADV INT SEM IN SW TH,"Lipov, Eleanor R",19,83.05,4.34,90,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,8,1
+UBC,2015,W,SOWK,415,,001,PRACTICUM II,"Del Vecchio, Rhea;Kruk, Edward Andrew;Lipov, Eleanor R;O'Neill, Brian",59,,,,,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,SOWK,416,,003,ADV INT SEM IN SW TH,"Lipov, Eleanor R",16,83.31,4.03,91,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,4,2
+UBC,2016,S,SOWK,315,,921,PRACTICUM I,"Lipov, Eleanor R",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,SOWK,316,,921,INT SEM IN SW TH,"Lipov, Eleanor R",7,84.86,2.91,90,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1
+UBC,2016,W,SOWK,415,,001,PRACTICUM II,"Charles, Grant;Kruk, Edward Andrew;Lipov, Eleanor R",45,,,,,0,0,1,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,SOWK,416,,002,ADV INT SEM IN SW TH,"Lipov, Eleanor R",15,84.47,3.62,91,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,1
+UBC,2017,S,SOWK,315,,921,PRACTICUM I,"Lipov, Eleanor R",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,SOWK,316,,921,INT SEM IN SW TH,"Lipov, Eleanor R",7,86.43,6.43,95,79,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2
+UBC,2017,S,SOWK,415,,941,PRACTICUM II,"Lipov, Eleanor R",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,SOWK,416,,921,ADV INT SEM IN SW TH,"Lipov, Eleanor R",4,76.75,10.63,85,62,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0
+UBC,2017,W,SOWK,415,,002,PRACTICUM II,"Lipov, Eleanor R",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,SOWK,416,,002,ADV INT SEM IN SW TH,"Lipov, Eleanor R",14,83.57,2.9,88,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,5,0
+UBC,2018,W,SOWK,415,,003,PRACTICUM II,"Lipov, Eleanor R",18,,,,,0,0,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,SOWK,416,,003,ADV INT SEM IN SW TH,"Lipov, Eleanor R",18,83.29,3.85,90,74,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,6,1
+UBCV,2014,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,19,83.05263158,4.339401958,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,5,8,1
+UBCV,2015,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,16,83.3125,4.028543988,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,9,,
+UBCV,2016,S,SOWK,316,,921,"Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,7,84.85714286,2.911389784,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,1
+UBCV,2016,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,15,84.46666667,3.622679881,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,8,1
+UBCV,2017,S,SOWK,316,,921,"Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,7,86.428571429,6.425396041,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,2,2
+UBCV,2017,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,14,83.571428571,2.901307019,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,5,0
+UBCV,2018,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Ashley Quinn;Eleanor Lipov;Eleanor R Lipov,17,83.294117647,3.852997305,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,9,6,1
+UBCV,2020,S,SOWK,559,,943,Advanced Integrative Seminar,Barbara Lee;Eleanor R Lipov;Erika Ono;Rhea Del Vecchio,6,89.5,6.156297589,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,5

@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,CRWR,507,A,D01,ADV DRAMA WRITNG,"Hunt, Stephen",4,89.75,4.5,96,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2010,W,CRWR,507,A,D01,ADV DRAMA WRITNG,"Hunt, Stephen",5,91.4,1.95,94,89,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2011,W,CRWR,507,A,D01,ADV DRAMA WRITNG,"Hunt, Stephen",6,91.5,2.07,94,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2012,W,CRWR,507,N,D01,ADV DRMA STG I,"Hunt, Stephen",6,92.33,2.88,95,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2013,W,CRWR,507,A,D01,ADV DRMA STG I,"Hunt, Stephen",13,92.42,2.23,95,87,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11
+UBC,2014,W,CRWR,507,C,D01,ADV DRMA STG I,"Hunt, Stephen",10,90.6,3.69,95,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7
+UBC,2015,W,CRWR,507,A,D01,ADV DRMA STG I,"Hunt, Stephen",10,91.7,2.87,95,87,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8
+UBC,2016,W,CRWR,507,Z,D01,ADV DRMA STG I,"Hunt, Stephen",8,91,2.83,95,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+UBC,2017,W,CRWR,507,I,D01,ADV DRMA STG I,"Hunt, Stephen",11,90.36,3.01,95,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5
+UBC,2017,W,CRWR,507,J,D02,ADV DRMA STG I,"Hunt, Stephen",10,90.4,1.51,93,88,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8
+UBC,2018,W,CRWR,507,P,D01,ADV DRMA STG I,"Hunt, Stephen",5,89.6,4.34,94,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2018,W,CRWR,507,Q,D02,ADV DRMA STG I,"Hunt, Stephen",9,92.44,2.65,95,87,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8
+UBCV,2014,W,CRWR,507,C,D01,Advanced Writing of Drama for the Stage I,Stephen Hunt,10,90.6,3.687817783,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,7
+UBCV,2015,W,CRWR,507,A,D01,Advanced Writing of Drama for the Stage I,Stephen Hunt,10,91.7,2.869378562,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8
+UBCV,2016,W,CRWR,507,Z,D01,Advanced Writing of Drama for the Stage I,Stephen Hunt,8,91.0,2.828427125,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6
+UBCV,2017,W,CRWR,507,I,D01,Advanced Writing of Drama for the Stage I,Stephen Hunt,11,90.363636364,3.009077177,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5
+UBCV,2017,W,CRWR,507,J,D02,Advanced Writing of Drama for the Stage I,Stephen Hunt,10,90.4,1.505545305,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8
+UBCV,2018,W,CRWR,507,Q,D02,Advanced Writing of Drama for the Stage I,Stephen Hunt,9,92.444444444,2.65099562,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8
+UBCV,2020,W,CRWR,507,B,D02,Advanced Writing of Drama for the Stage I,Stephen Hunt,6,91.666666667,2.943920289,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5

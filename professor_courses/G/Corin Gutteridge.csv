@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,THTR,150,,001,INTRO TECH PROD,"Gutteridge, Corin",61,76.88,20.78,100,2,44,4,0,0,11,1,1,2,0,0,4,1,0,0,4,1,4,5,11,7,11
+UBC,2018,W,THTR,150,A,001,INTRO TECH PROD,"Gutteridge, Corin",62,86.31,9.6,100,57,59,0,1,0,0,0,0,0,0,0,0,0,1,1,0,4,3,4,4,18,24
+UBC,2018,W,THTR,454,,001,PROD & THTR MGMT,"Gutteridge, Corin",13,89.69,11.96,97,51,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,10
+UBCV,2017,W,THTR,150,,001,Introduction to Technical Production,Corin Gutteridge,61,76.62295082,18.955354507,100.0,2.0,,,,,,,,,,,4,2,0,1,4,1,6,10,13,8,12
+UBCV,2018,W,THTR,150,A,001,Introduction to Technical Production,Corin Gutteridge,61,86.032786885,9.56202073,100.0,57.0,,,,,,,,,,,0,0,1,1,0,4,3,5,5,18,24
+UBCV,2018,W,THTR,454,,001,Production and Theatre Management,Corin Gutteridge,13,89.692307692,11.960940706,97.0,51.0,,,,,,,,,,,0,1,0,0,0,0,0,0,0,2,10
+UBCV,2019,W,THTR,150,A,001,Introduction to Technical Production,Corin Gutteridge,36,84.833333333,9.085309964,99.0,64.0,,,,,,,,,,,0,0,0,0,1,1,6,2,6,3,17
+UBCV,2019,W,THTR,350,,001,Scenery Production I,Bradley Powers;Corin Gutteridge,14,84.571428571,13.865919957,99.0,60.0,,,,,,,,,,,0,0,0,2,0,2,0,0,1,0,9
+UBCV,2020,W,THTR,454,,001,Production and Theatre Management,Corin Gutteridge,11,89.454545455,7.174449615,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,6

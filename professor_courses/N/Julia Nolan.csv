@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MUSC,162,,003,WIND&PERC CH ENS,"Nolan, Julia",8,88.5,0.53,89,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,,,
+UBC,2003,W,MUSC,162,A,003,WIND&PERC CH ENS,"Nolan, Julia",8,87,6.23,94,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,5,,,
+UBC,2005,W,MUSC,162,A,003,WIND&PERC CH ENS,"Nolan, Julia",5,82.4,0.89,84,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,,
+UBC,2006,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",23,86.26,5.11,95,73,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,11,5,,,
+UBC,2006,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",6,83.67,5.54,90,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,,,
+UBC,2007,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene",17,81,8.99,96,58,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,7,3,2,,,
+UBC,2007,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",5,83,10.95,90,65,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,,,
+UBC,2009,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",18,81.35,5.75,92,74,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,5,1,,,
+UBC,2010,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",19,83.79,6.94,97,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,7,3,,,
+UBC,2011,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",17,81.29,7.21,90,66,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,6,2,,,
+UBC,2012,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,81.21,7.36,97,66,19,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,6,1,,,
+UBC,2013,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",18,85.28,5.95,95,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,7,4,,,
+UBC,2013,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",4,78,7.66,84,68,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,,,
+UBC,2014,W,MUSC,122,,001,CLASS WOODWINDS,"Fedoruk, Brenda Louise;Nolan, Julia;Ramsbottom, Gene;Read, Jesse",20,77.3,12.7,94,42,19,1,0,0,0,0,0,0,0,1,1,0,1,1,0,2,1,5,4,2,3,,,
+UBC,2014,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",5,87,6.71,95,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,,,
+UBC,2015,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",22,81.82,7.35,92,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,6,6,3,,,
+UBC,2015,W,MUSC,162,A,001,WIND&PERC CH ENS,"Nolan, Julia",23,87.26,3.86,93,78,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,8,,,
+UBC,2015,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",7,88.86,8.71,98,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,,,
+UBC,2016,W,MUSC,122,,001,CLASS WOODWINDS,"Nolan, Julia;Ramsbottom, Gene",19,85.17,9.34,99,66,18,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,2,9,,,
+UBC,2016,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",8,92,7.33,99,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,,,
+UBC,2017,W,MUSC,122,,001,CLASS WOODWINDS,"Franch Ballester, Jose;Nolan, Julia",10,84.9,6.57,94,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,2,,,
+UBC,2017,W,MUSC,162,C,001,WIND&PERC CH ENS,"Nolan, Julia",4,90.5,6.35,96,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2018,W,MUSC,122,,001,CLASS WOODWINDS,"Chiang, Ingrid;Fedoruk, Brenda Louise;Franch Ballester, Jose;Nolan, Julia",20,85.7,3.57,93,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,13,2,,,
+UBCV,2014,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Gene Ramsbottom;Jesse Read;Julia Nolan,20,77.3,12.69935763,94.0,42.0,,,,,,,,,,,,,,,,,,5,,,,,,
+UBCV,2014,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,5,87.0,6.708203932,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MUSC,122,,001,Class Woodwinds,Gene Ramsbottom;Julia Nolan;Kristen Cooke,22,81.818181818,7.352591792,92.0,63.0,,,,,,,,,,,0,0,0,,,,,,6,6,,,,
+UBCV,2015,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Julia Nolan;Kristen Cooke,23,87.260869565,3.863787488,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,11,8,,,
+UBCV,2015,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,7,88.857142857,8.706866475,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2016,W,MUSC,122,,001,Class Woodwinds,Gene Ramsbottom;Julia Nolan;Kristen Cooke,18,85.16666667,9.338408984,99.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,1,3,2,9,,,
+UBCV,2016,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jonathan Girard;Julia Nolan;Kuang-Yuan Hung;Paolo Bortolussi,20,86.5,4.261208131,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,13,3,,,
+UBCV,2016,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,8,92.0,7.329003051,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,6,,,
+UBCV,2017,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Kristen Cooke,10,84.9,6.573515887,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,4,2,,,
+UBCV,2018,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Kristen Cooke,20,85.7,3.5703457,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,13,2,,,
+UBCV,2018,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,7,92.857142857,2.672612419,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2019,W,MUSC,122,,001,Class Woodwinds,Jose Franch Ballester;Julia Nolan;Kristen Cooke,22,87.636363636,4.59342651,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,10,8,,,
+UBCV,2019,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,8,90.5,2.672612419,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,4,,,
+UBCV,2020,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Marie Park,23,83.52173913,15.456300761,98.0,29.0,,,,,,,,,,,1,0,0,1,1,1,0,1,3,5,10,,,
+UBCV,2020,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,11,90.0,0.0,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Julia Nolan;Wei Wang,9,83.555555556,17.55784092,94.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,3,4,,,
+UBCV,2021,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Carlos Savall Guardiola;Jose Franch Ballester;Julia Nolan;Yanqing Zhang,10,90.2,4.131182236,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2021,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,9,91.555555556,1.943650632,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2021,W,MUSC,169,A,001,Intensive Chamber Ensemble,Frederick Stride;Graeme Langager;Jonathan Girard;Julia Nolan;Robert Taylor,7,94.857142857,4.913538149,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,W,MUSC,562,A,001,Wind and Percussion Chamber Ensembles,Carlos Savall Guardiola;Jose Franch Ballester;Julia Nolan;Yanqing Zhang,12,89.833333333,3.298300756,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,7,,,
+UBCV,2021,W,MUSC,122,,001,Class Woodwinds,Ingrid Chiang;Brenda Fedoruk;Julia Nolan,9,83.6,,94.0,38.0,,,,,,,,,,,,,,,,,,,,,,86.0,93.0,85.0
+UBCV,2021,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jose Franch Ballester;Julia Nolan,10,90.2,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,7,91.0,94.0,86.3
+UBCV,2021,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,9,91.6,,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,90.0,94.0,90.0
+UBCV,2021,W,MUSC,169,A,001,Intensive Chamber Ensemble,Jonathan Girard;Graeme Langager;Julia Nolan;Frederick Stride;Robert Taylor,7,94.9,,100.0,88.0,,,,,,,,,,,,,,,,,,,,,,95.0,99.0,91.5
+UBCV,2021,W,MUSC,562,A,001,Wind and Percussion Chamber Ensembles,Jose Franch Ballester;Julia Nolan,12,89.8,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,7,91.0,92.0,88.3
+UBCV,2021,W,MUSC,593,D,004,Music Performance (Major),Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Larry Knopp;Peder Maclellan;Julia Nolan;Christie Reside;Brian Wendel,8,88.9,,95.0,84.0,,,,,,,,,,,,,,,,,,,,,,88.0,90.5,87.5
+UBCV,2022,W,MUSC,122,,001,Class Woodwinds,Ingrid Chiang;Brenda Fedoruk;Julia Nolan,10,91.8,,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,93.0,93.8,90.5
+UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder MacLellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,22,91.0,93.0,89.0
+UBCV,2022,W,MUSC,593,D,004,Music Performance (Major),Jose Franch Ballester;Michael Jarrett;Larry Knopp;Peder MacLellan;Julia Nolan;Christie Reside;Valerie Whitney,9,87.3,,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,1,6,90.0,91.0,85.0
+UBCV,2023,W,MUSC,122,,001,Class Woodwinds,Marea Chernoff;Ingrid Chiang;Brenda Fedoruk;Julia Nolan,17,87.8,,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,3,9,90.0,92.0,84.0
+UBCV,2023,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,6,91.7,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,90.0,93.8,90.0

@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",5,83.5,7,91,75,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,,,
+UBC,2011,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",10,82.3,9.25,94,64,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,1,3,,,
+UBC,2012,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",8,83.75,6.98,90,72,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,3,,,
+UBC,2014,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",6,81.83,5.81,89,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,0,,,
+UBC,2015,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",8,78,7.17,90,67,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,1,1,,,
+UBC,2018,W,SPPH,555,,DL1,INJ PRVNTN,"Babul, Shelina;Brussoni, Mariana;Pike, Ian",8,80.75,5.73,90,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,,,
+UBCV,2014,W,SPPH,555,,DL1,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,6,81.83333333,5.810909281,89.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,0,,,
+UBCV,2015,W,SPPH,555,,DL1,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,8,78.0,7.171371656,90.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2018,W,SPPH,555,,DL1,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,8,80.75,5.725881093,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,2,1,1,,,
+UBCV,2021,S,SPPH,555,,941,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,13,87.461538462,6.777602632,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,3,7,,,
+UBCV,2021,S,SPPH,555,,941,Principles and Practices of Injury Prevention,Shelina Babul;Mariana Brussoni;Ian Pike,13,87.5,,94.0,69.0,,,,,,,,,,,,,,,,,,,,,7,91.0,91.0,87.0

@@ -1,0 +1,82 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,LLED,200,,002,INTRO ACAD WRIT,"Kowkabi, Nasrin",13,75.54,7.09,86,64,13,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,1,4,1,0,,,
+UBC,2012,W,LLED,200,,003,INTRO ACAD WRIT,"Kowkabi, Nasrin",19,77.89,5.98,86,67,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,2,8,2,0,,,
+UBC,2013,S,LLED,489,B,922,APPL LING TEACH,"Kowkabi, Nasrin",22,85.32,4.61,94,70,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,10,3,,,
+UBC,2013,W,LLED,200,,007,INTRO ACAD WRIT,"Kowkabi, Nasrin",13,72.46,9.46,82,45,12,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,4,4,2,0,0,,,
+UBC,2013,W,LLED,211,,001,SOC PROC INCL/EX,"Kowkabi, Nasrin",22,75.5,4.63,84,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,5,5,0,0,,,
+UBC,2013,W,LLED,211,,002,SOC PROC INCL/EX,"Kowkabi, Nasrin",13,73.23,6.34,82,63,13,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,0,4,0,0,,,
+UBC,2014,W,LLED,200,,005,INTRO ACAD WRIT,"D'Silva, Reginald;Kowkabi, Nasrin",12,72.58,3.99,80,66,12,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,2,1,0,0,,,
+UBC,2014,W,LLED,211,,001,SOC PROC INCL/EX,"Kowkabi, Nasrin",22,78.95,4.82,88,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,7,3,0,,,
+UBC,2014,W,LLED,211,,002,SOC PROC INCL/EX,"Kowkabi, Nasrin",25,76.92,4.77,87,66,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,13,5,1,0,,,
+UBC,2014,W,LLED,221,,001,LANG MAINTENANCE,"Kowkabi, Nasrin",17,76,4.92,84,68,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,5,0,0,,,
+UBC,2015,W,LLED,200,,007,INTRO ACAD WRIT,"Kowkabi, Nasrin",12,73.33,4.89,79,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,0,0,0,,,
+UBC,2015,W,LLED,211,,001,SOC PROC INCL/EX,"Kowkabi, Nasrin",11,76.18,7.07,86,59,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,7,1,1,0,,,
+UBC,2015,W,LLED,211,,002,SOC PROC INCL/EX,"Kowkabi, Nasrin",24,75.08,6.14,87,62,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,6,5,4,1,0,,,
+UBC,2016,W,LLED,200,,001,INTRO ACAD WRIT,"Kowkabi, Nasrin",13,75.08,3.8,81,69,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,2,3,0,0,,,
+UBC,2016,W,LLED,200,,005,INTRO ACAD WRIT,"Kowkabi, Nasrin",12,73.42,4.23,80,67,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,4,1,0,0,,,
+UBC,2018,W,LLED,200,,001,INTRO ACAD WRIT,"Kowkabi, Nasrin",15,78.33,2.53,83,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,4,0,0,,,
+UBC,2018,W,LLED,200,,004,INTRO ACAD WRIT,"Kowkabi, Nasrin",15,70.4,6.02,82,61,15,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,1,1,2,0,0,,,
+UBC,2018,W,LLED,201,,001,CRIT READ&WRIT,"Kowkabi, Nasrin",18,77.56,3.88,84,69,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,6,0,0,,,
+UBC,2018,W,LLED,201,,003,CRIT READ&WRIT,"Kowkabi, Nasrin",18,72.89,3.64,80,67,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,3,1,0,0,,,
+UBCV,2014,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,12,72.58333333,3.987670392,80.0,66.0,,,,,,,,,,,0,0,0,0,,,5,,,0,0,,,
+UBCV,2014,W,LLED,211,,001,Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives,Nasrin Kowkabi,22,78.95454546,4.815424352,88.0,71.0,,,,,,,,,,,0,0,0,0,0,,5,6,7,,0,,,
+UBCV,2014,W,LLED,211,,002,Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives,Nasrin Kowkabi,25,76.92,4.768997099,87.0,66.0,,,,,,,,,,,0,0,0,0,,,3,13,5,,0,,,
+UBCV,2014,W,LLED,221,,001,Language Maintenance and the Integration of Immigrants in Canada: An Introduction,Nasrin Kowkabi,17,76.0,4.924428901,84.0,68.0,,,,,,,,,,,0,0,0,0,0,,,5,5,0,0,,,
+UBCV,2015,W,LLED,200,,007,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,12,73.333333333,4.886592666,79.0,63.0,,,,,,,,,,,0,0,0,,,,,,0,0,0,,,
+UBCV,2015,W,LLED,211,,001,Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives,Nasrin Kowkabi,11,76.181818182,7.068496047,86.0,59.0,,,,,,,,,,,0,0,,,,1,0,7,,,0,,,
+UBCV,2015,W,LLED,211,,002,Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives,Nasrin Kowkabi,24,75.083333333,6.142628432,87.0,62.0,,,,,,,,,,,0,0,0,,,7,6,5,,,0,,,
+UBCV,2016,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,13,75.07692308,3.796084352,81.0,69.0,,,,,,,,,,,0,0,0,0,0,1,7,2,3,0,0,,,
+UBCV,2016,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,12,73.41666667,4.231018217,80.0,67.0,,,,,,,,,,,0,0,0,0,1,4,2,4,1,0,0,,,
+UBCV,2018,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva;Ryan Deschambault,15,78.333333333,2.526054707,83.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,10,4,0,0,,,
+UBCV,2018,W,LLED,200,,004,Introduction to Writing in Academic and Professional Registers,Fay Wheeler;Nasrin Kowkabi;Reginald D'Silva;Ryan Deschambault,15,70.4,6.021390442,82.0,61.0,,,,,,,,,,,0,0,0,1,4,6,1,1,2,0,0,,,
+UBCV,2018,W,LLED,201,,001,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,18,77.555555556,3.88393709,84.0,69.0,,,,,,,,,,,0,0,0,0,0,1,5,6,6,0,0,,,
+UBCV,2018,W,LLED,201,,002,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Reginald D'Silva;Yanning Dong,18,78.166666667,4.693550017,86.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,6,5,2,0,,,
+UBCV,2018,W,LLED,201,,003,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva,18,72.888888889,3.644316912,80.0,67.0,,,,,,,,,,,0,0,0,0,1,6,7,3,1,0,0,,,
+UBCV,2019,W,EDUC,210,,002,"Global Citizenship, Part 1: Introduction",Jun Ma;Nasrin Kowkabi;Natalia Balyasnikova;Ryan Deschambault,18,78.666666667,3.970479301,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,6,7,2,0,,,
+UBCV,2019,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Ryan Deschambault,15,78.466666667,6.06943945,86.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,2,4,3,0,,,
+UBCV,2019,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Ryan Deschambault;Yanning Dong,15,77.733333333,5.270763928,86.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,5,3,3,0,,,
+UBCV,2019,W,LLED,200,,003,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Ryan Deschambault,15,74.733333333,6.08824003,83.0,62.0,,,,,,,,,,,0,0,0,2,0,1,4,6,2,0,0,,,
+UBCV,2019,W,LLED,200,,004,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Ryan Deschambault,14,73.0,4.867474468,81.0,65.0,,,,,,,,,,,0,0,0,0,2,3,5,3,1,0,0,,,
+UBCV,2019,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Ryan Deschambault;Yanning Dong,13,68.307692308,16.291023169,78.0,17.0,,,,,,,,,,,1,0,0,0,3,2,2,5,0,0,0,,,
+UBCV,2019,W,LLED,201,,001,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva;Ryan Deschambault,19,78.842105263,4.031310207,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,7,5,2,0,,,
+UBCV,2019,W,LLED,201,,002,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva;Ryan Deschambault;Yanning Dong,17,77.411764706,4.016510045,84.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,5,7,0,0,,,
+UBCV,2019,W,LLED,201,,003,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Reginald D'Silva;Ryan Deschambault;Yanning Dong,17,73.176470588,10.248385813,82.0,50.0,,,,,,,,,,,0,2,1,0,0,1,3,2,8,0,0,,,
+UBCV,2019,W,LLED,212,,001,Introduction to Language Communities and Variation in Language Practices,Jun Ma;Nasrin Kowkabi;Ryan Deschambault,24,78.291666667,7.451169542,88.0,58.0,,,,,,,,,,,0,0,1,0,0,2,6,3,7,5,0,,,
+UBCV,2020,S,LLED,489,C,951,Applied Linguistics for Teachers,Farhad Jafari;Joel Joachim Saalfeld;Joel Saalfeld;Meghan Corella Morales;Nasrin Kowkabi,26,94.884615385,4.752489226,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,23,,,
+UBCV,2020,W,LLED,201,,V93,Critical Reading and Writing in Academic and Professional Registers,John Pringle;Nasrin Kowkabi;Sandra Zappa,16,80.125,7.135591543,91.0,67.0,,,,,,,,,,,0,0,0,0,1,0,4,2,4,4,1,,,
+UBCV,2020,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Nasrin Kowkabi;Steven Talmy;Victoria Surtees;Zhuo Sun,16,90.3125,1.352466882,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,14,,,
+UBCV,2020,W,LLED,478,B,003,Introduction to Teaching English as a Second Language,Nasrin Kowkabi;Steven Talmy;Zhuo Sun,9,90.222222222,2.818589088,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2020,W,LLED,489,A,001,Applied Linguistics for Teachers,Joel Saalfeld;Ling Shi;Nasrin Kowkabi,33,90.696969697,3.330585989,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,25,,,
+UBCV,2021,S,LLED,489,A,921,Applied Linguistics for Teachers,Ava Becker;Nasrin Kowkabi,25,89.44,4.983974318,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,4,16,,,
+UBCV,2021,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi,7,81.0,2.708012802,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,1,0,,,
+UBCV,2021,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi,8,74.75,6.562882642,86.0,66.0,,,,,,,,,,,0,0,0,0,1,1,4,0,1,1,0,,,
+UBCV,2021,W,LLED,212,,001,Introduction to Language Communities and Variation in Language Practices,Nasrin Kowkabi;Pramod Sah,11,76.545454545,6.072291764,85.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,2,3,1,0,,,
+UBCV,2021,W,LLED,478,B,001,Introduction to Teaching English as a Second Language,Irina Tursunkulova;Nasrin Kowkabi;Steven Talmy,18,86.666666667,3.378130357,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,3,,,
+UBCV,2021,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Andreea Cervatiuc;Nasrin Kowkabi,7,90.428571429,4.540820148,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,5,,,
+UBCV,2021,W,LLED,478,B,003,Introduction to Teaching English as a Second Language,Irina Tursunkulova;Nasrin Kowkabi;Steven Talmy;Yanning Dong,10,88.2,2.82055944,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,3,,,
+UBCV,2021,W,LLED,489,A,001,Applied Linguistics for Teachers,Ashley Moore;Nasrin Kowkabi,22,84.363636364,5.429596622,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,8,7,5,,,
+UBCV,2021,W,LLED,489,B,003,Applied Linguistics for Teachers,Nasrin Kowkabi;Yanning Dong,17,86.588235294,3.571743684,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,8,4,,,
+UBCV,2021,W,LLED,573,A,061,Theories of Second Language Acquisition,Nasrin Kowkabi,16,90.9375,4.218510796,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,15,,,
+UBCV,2021,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi,7,81.0,,85.0,78.0,,,,,,,,,,,,,,,,,,,,,,80.0,83.0,79.0
+UBCV,2021,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi,8,74.8,,86.0,66.0,,,,,,,,,,,,,,,,,,,,,,73.0,76.3,71.8
+UBCV,2021,W,LLED,212,,001,Introduction to Language Communities and Variation in Language Practices,Nasrin Kowkabi,11,76.5,,85.0,65.0,,,,,,,,,,,,,,,,,,,,,,79.0,80.5,72.5
+UBCV,2021,W,LLED,478,B,001,Introduction to Teaching English as a Second Language,Nasrin Kowkabi,18,86.7,,92.0,80.0,,,,,,,,,,,,,,,,,,,,10,,87.5,89.0,84.3
+UBCV,2021,W,LLED,478,B,003,Introduction to Teaching English as a Second Language,Nasrin Kowkabi,10,88.2,,92.0,82.0,,,,,,,,,,,,,,,,,,,,6,,88.5,89.8,87.3
+UBCV,2021,W,LLED,489,B,003,Applied Linguistics for Teachers,Nasrin Kowkabi,17,86.6,,93.0,80.0,,,,,,,,,,,,,,,,,,,,8,,87.0,88.0,83.0
+UBCV,2021,W,LLED,573,A,061,Theories of Second Language Acquisition,Nasrin Kowkabi,16,90.9,,95.0,76.0,,,,,,,,,,,,,,,,,,,,,15,91.5,93.0,91.0
+UBCV,2022,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi,14,77.3,,86.0,66.0,,,,,,,,,,,0,0,0,0,1,0,4,3,5,1,0,78.0,80.0,73.5
+UBCV,2022,W,LLED,201,,001,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi,11,79.0,,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,5,3,1,0,79.0,81.5,76.5
+UBCV,2022,W,LLED,212,,001,Introduction to Language Communities and Variation in Language Practices,Nasrin Kowkabi,21,78.6,,88.0,65.0,,,,,,,,,,,0,0,0,0,2,2,1,6,4,6,0,79.0,85.0,76.0
+UBCV,2022,W,LLED,489,B,61A,Applied Linguistics for Teachers,Nasrin Kowkabi,18,87.1,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,12,3,88.0,89.0,85.0
+UBCV,2022,W,LLED,574,,062,Theory and Research in Teaching Second Language Writing,Nasrin Kowkabi,10,91.9,,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,92.0,92.8,91.3
+UBCV,2023,W,LLED,200,,001,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Alexandra Ross,13,80.5,,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,2,5,3,0,82.0,84.0,77.0
+UBCV,2023,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Zhen Lin,13,77.1,,87.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,5,2,2,0,77.0,81.0,74.0
+UBCV,2023,W,LLED,200,,003,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Anastasia Zhuravleva,14,74.9,,86.0,66.0,,,,,,,,,,,0,0,0,0,2,3,1,5,2,1,0,77.0,78.8,69.3
+UBCV,2023,W,LLED,200,,004,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Zhen Lin,12,74.4,,82.0,71.0,,,,,,,,,,,0,0,0,0,0,3,5,3,1,0,0,74.0,76.0,71.8
+UBCV,2023,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Nasrin Kowkabi;Alexandra Ross,12,74.9,,87.0,64.0,,,,,,,,,,,0,0,0,0,2,2,1,4,2,1,0,77.0,78.5,71.0
+UBCV,2023,W,LLED,201,,001,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi,11,78.0,,84.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,6,3,0,0,78.0,79.0,76.0
+UBCV,2023,W,LLED,201,,002,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Anastasia Zhuravleva,14,75.0,,83.0,66.0,,,,,,,,,,,0,0,0,0,1,5,1,3,4,0,0,75.0,79.5,70.3
+UBCV,2023,W,LLED,201,,003,Critical Reading and Writing in Academic and Professional Registers,Nasrin Kowkabi;Alexandra Ross,14,73.6,,87.0,64.0,,,,,,,,,,,0,0,0,0,3,4,2,2,1,2,0,71.5,78.0,70.0
+UBCV,2023,W,LLED,212,,001,Introduction to Language Communities and Variation in Language Practices,Nasrin Kowkabi,24,77.5,,93.0,65.0,,,,,,,,,,,0,0,0,0,2,2,5,6,5,1,3,76.0,82.3,72.0
+UBCV,2023,W,LLED,489,B,003,Applied Linguistics for Teachers,Nasrin Kowkabi,28,88.6,,95.0,22.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,7,20,91.0,93.0,89.0
+UBCV,2023,W,LLED,526,,062,Second Language Assessment: Conceptual and Empirical Approaches,Nasrin Kowkabi,21,85.5,,96.0,20.0,,,,,,,,,,,1,0,0,0,0,0,1,0,1,7,11,90.0,92.0,87.0

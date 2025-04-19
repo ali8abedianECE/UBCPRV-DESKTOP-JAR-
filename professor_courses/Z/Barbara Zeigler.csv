@@ -1,0 +1,113 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,FINA,283,,001,ETCHING,"Zeigler, Barbara",16,80.08,11.27,95,50,13,0,2,0,1,0,0,0,0,0,0,1,0,0,0,0,3,1,4,2,2
+UBC,2002,W,FINA,290,,001,LITHOGRAPHY,"Zeigler, Barbara",21,80.16,6.42,92,66,19,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,4,4,5,4,1
+UBC,2002,W,FINA,383,,001,INTERM PRINTMKNG,"Zeigler, Barbara",14,80.54,6.2,90,69,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,2,1
+UBC,2002,W,FINA,482,,001,ADV PRNT SCLP IN,"Zeigler, Barbara",16,82.44,4.86,90,74,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,5,1
+UBC,2003,W,VISA,283,,001,ETCHING,"Zeigler, Barbara",13,77,8.49,90,65,11,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,3,2,1,1
+UBC,2003,W,VISA,290,,001,LITHOGRAPHY,"Zeigler, Barbara",18,78.11,6.53,90,66,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,3,3,1
+UBC,2003,W,VISA,383,,001,INTERMED PRINT,"Zeigler, Barbara",16,80.25,6.27,90,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,5,2,2
+UBC,2003,W,VISA,482,,001,ADV PRINT/SCULP,"Zeigler, Barbara",21,80.42,5.29,92,73,19,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8,2,1
+UBC,2005,W,VISA,250,,003,INTRO PRNT MEDIA,"Zeigler, Barbara",16,79.5,6.55,90,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,2,1
+UBC,2005,W,VISA,320,,001,INTRMD DRAWNG I,"Zeigler, Barbara",21,79.52,6.99,90,63,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,4,5,3,2
+UBC,2005,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",11,81,6.78,90,69,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,3,1
+UBC,2005,W,VISA,450,,001,MDIA & SCULPT I,"Zeigler, Barbara",20,80.2,5.85,88,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,4,7,0
+UBC,2005,W,VISA,451,,001,MDIA & SCULPT II,"Zeigler, Barbara",17,80.29,4.86,90,72,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,3,1
+UBC,2006,W,VISA,220,,001,DRAWING,"Zeigler, Barbara",21,77.48,5.07,88,69,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,4,3,0
+UBC,2006,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",19,78.33,5.02,88,72,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,6,3,0
+UBC,2006,W,VISA,320,,001,INTRMD DRAWNG I,"Zeigler, Barbara",21,78.48,4.76,90,72,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,3,3,1
+UBC,2006,W,VISA,321,,002,INTRMD DRAWNG II,"Zeigler, Barbara",22,79.5,6.38,92,72,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,2,5,2
+UBC,2006,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",17,81.06,3.93,87,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,3,0
+UBC,2006,W,VISA,451,,001,MDIA & SCULPT II,"Zeigler, Barbara",15,80.53,5.94,92,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,2,1
+UBC,2007,W,VISA,220,,002,DRAWING,"Zeigler, Barbara",17,79.29,3.9,86,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,3,4,0
+UBC,2007,W,VISA,250,,002,INTRO PRNT MEDIA,"Zeigler, Barbara",16,80.81,4.64,88,74,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,5,0
+UBC,2007,W,VISA,320,,001,INTRMD DRAWNG I,"Zeigler, Barbara",21,75.81,12.62,88,30,20,1,0,0,0,0,0,0,1,0,1,0,0,1,0,2,3,5,5,4,0
+UBC,2007,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",23,79.59,6.08,90,67,22,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,5,1,10,3,1
+UBC,2007,W,VISA,430,,002,ADV DRAW I,"Zeigler, Barbara",22,74.59,17.19,86,0,21,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,7,2,10,1,0
+UBC,2007,W,VISA,451,,001,MDIA & SCULPT II,"Zeigler, Barbara",23,79.95,5.52,90,73,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,6,3,2
+UBC,2009,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",22,77.82,4.44,86,69,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,6,4,3,0
+UBC,2009,W,VISA,321,,001,INTRMD DRAWNG II,"Zeigler, Barbara",20,80.15,4.22,87,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,7,5,0
+UBC,2009,W,VISA,451,,001,MDIA & SCULPT II,"Zeigler, Barbara",18,78.17,5.95,88,66,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,2,8,1,0
+UBC,2010,W,VISA,220,,001,DRAWING,"Zeigler, Barbara",20,79.5,4.31,88,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,5,3,0
+UBC,2010,W,VISA,250,,002,INTRO PRNT MEDIA,"Zeigler, Barbara",21,78.25,7.69,89,61,20,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,6,3,4,5,0
+UBC,2010,W,VISA,250,,003,INTRO PRNT MEDIA,"Zeigler, Barbara",20,79.5,5.25,88,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,5,4,0
+UBC,2010,W,VISA,320,,002,INTRMD DRAWNG I,"Zeigler, Barbara",19,75.42,18.88,89,0,18,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,9,3,4,0
+UBC,2010,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",20,79.55,4.67,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,6,4,0
+UBC,2010,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",21,78.48,7.22,87,58,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,4,4,6,0
+UBC,2011,W,VISA,220,,003,DRAWING,"Zeigler, Barbara",21,79.3,3.53,85,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,9,1,0
+UBC,2011,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",20,78.25,6.75,90,66,20,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,5,4,3,1
+UBC,2011,W,VISA,250,,002,INTRO PRNT MEDIA,"Zeigler, Barbara",20,77.79,6.69,88,64,19,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,4,4,6,3,0
+UBC,2011,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",20,80.4,4.54,90,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,6,3,1
+UBC,2011,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",21,78.1,15.88,90,15,19,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,5,1,7,5,1
+UBC,2011,W,VISA,401,C,001,ADV OPEN STUDIO,"Zeigler, Barbara",20,79.05,6.06,90,66,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,5,3,1
+UBC,2012,W,VISA,220,,002,DRAWING,"Zeigler, Barbara",15,79.87,4.44,87,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,4,3,0
+UBC,2012,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",19,79.35,4.81,88,72,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,5,3,0
+UBC,2012,W,VISA,320,,002,INTRMD DRAWNG I,"Zeigler, Barbara",19,81.84,4.89,89,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,4,7,0
+UBC,2012,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",18,80.35,5.24,90,74,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,4,1
+UBC,2012,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",20,81.26,6.58,90,70,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,2,7,1
+UBC,2012,W,VISA,401,E,001,ADV OPEN STUDIO,"Zeigler, Barbara",20,79.95,6.14,90,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,5,5,1
+UBC,2013,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",18,79.76,6.84,88,62,17,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5,1,4,6,0
+UBC,2013,W,VISA,352,,001,INT PRNT MEDIA 3,"Zeigler, Barbara",18,81.56,6.63,88,59,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,6,7,0
+UBC,2013,W,VISA,401,A,001,ADV OPEN STUDIO,"Zeigler, Barbara",22,77.14,16.19,89,10,20,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,2,4,7,6,0
+UBC,2014,W,VISA,220,,004,DRAWING,"Zeigler, Barbara",16,80.31,4.36,87,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4,4,0
+UBC,2014,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",19,74.5,18.92,87,0,17,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,7,6,2,0
+UBC,2014,W,VISA,250,,003,INTRO PRNT MEDIA,"Zeigler, Barbara",19,80.63,4.92,88,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,6,0
+UBC,2014,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",20,80.5,3.99,88,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,7,4,0
+UBC,2014,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",22,74.52,18.24,89,20,19,2,1,0,0,0,0,2,0,0,2,0,0,0,0,1,2,4,9,3,0
+UBC,2014,W,VISA,401,A,001,ADV OPEN STUDIO,"Zeigler, Barbara",19,79.42,7.93,88,63,19,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,3,2,8,0
+UBC,2015,W,VISA,220,,002,DRAWING,"Zeigler, Barbara",16,81.6,4.97,88,74,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,6,0
+UBC,2015,W,VISA,250,,001,INTRO PRNT MEDIA,"Zeigler, Barbara",15,74.67,16.97,85,16,14,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,2,3,7,1,0
+UBC,2015,W,VISA,250,,003,INTRO PRNT MEDIA,"Zeigler, Barbara",16,75.07,20.09,89,5,14,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,4,3,3,4,0
+UBC,2015,W,VISA,321,,002,INTRMD DRAWNG II,"Zeigler, Barbara",14,81.57,4.24,88,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,4,0
+UBC,2015,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",22,79.27,5.36,89,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,7,8,4,0
+UBC,2015,W,VISA,352,,001,INT PRNT MEDIA 3,"Zeigler, Barbara",22,76.73,17.57,89,0,21,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,7,8,4,0
+UBC,2016,W,VISA,220,,002,DRAWING,"Zeigler, Barbara",20,79.25,6.6,89,59,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,6,6,4,0
+UBC,2016,W,VISA,250,,002,INTRO PRNT MEDIA,"Zeigler, Barbara",14,78.36,5.03,90,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,6,0,1
+UBC,2016,W,VISA,250,,003,INTRO PRNT MEDIA,"Zeigler, Barbara",12,76.92,18.41,88,20,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,2,5,3,0
+UBC,2016,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",18,80.56,4.53,88,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,6,0
+UBC,2016,W,VISA,352,,001,INT PRNT MEDIA 3,"Zeigler, Barbara",13,81.38,5.38,88,73,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,6,0
+UBC,2016,W,VISA,401,A,001,ADV OPEN STUDIO,"Zeigler, Barbara",14,81.07,3.54,85,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,3,0
+UBC,2017,W,VISA,101,,001,BFA STUDIO PRACT,"Jones, Barrie;McCrum, Phillip;Prince, Richard;Zeigler, Barbara",21,76.29,11.73,87,50,21,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,4,7,5,0
+UBC,2017,W,VISA,220,,002,DRAWING,"Zeigler, Barbara",22,79.64,5.06,88,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,10,6,4,0
+UBC,2017,W,VISA,250,,001,PRINT MEDIA,"Zeigler, Barbara",20,79.1,6.42,89,62,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,8,3,0
+UBC,2017,W,VISA,250,,003,PRINT MEDIA,"Zeigler, Barbara",20,76.95,11.18,89,37,19,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,2,5,7,3,0
+UBC,2017,W,VISA,350,,001,INT PRINT I,"Zeigler, Barbara",20,76.47,13.28,90,41,17,2,1,0,0,0,0,0,0,2,2,0,0,0,1,0,2,2,9,2,1
+UBC,2017,W,VISA,351,,001,INTERMD PRINT II,"Zeigler, Barbara",21,78.67,6.28,89,58,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,9,3,0
+UBC,2017,W,VISA,401,G,001,ADV OPEN STUDIO,"Zeigler, Barbara",21,79.81,8.18,90,63,21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,4,6,6,1
+UBC,2018,W,VISA,352,,001,INT PRNT MEDIA 3,"Zeigler, Barbara",20,78.85,8.11,90,52,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,3,9,1,2
+UBC,2018,W,VISA,401,H,001,ADV OPEN STUDIO,"Zeigler, Barbara",20,80.85,5.86,90,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,7,6,1
+UBCV,2014,W,VISA,220,,004,Drawing,Barbara Zeigler,16,80.3125,4.362243307,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,7,,,0
+UBCV,2014,W,VISA,250,,001,Introduction to Print Media,Barbara Zeigler,18,74.5,18.91544654,87.0,0.0,,,,,,,,,,,,,,,,,,7,6,,0
+UBCV,2014,W,VISA,250,,003,Introduction to Print Media,Barbara Zeigler,19,80.63157895,4.923983553,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,5,5,6,0
+UBCV,2014,W,VISA,350,,001,Intermediate Print Media I: Interdisciplinary Approaches to Image Production,Barbara Zeigler,20,80.5,3.993415633,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,6,7,,0
+UBCV,2014,W,VISA,351,,001,Intermediate Print Media II: Interdisciplinary Approaches to Image Production,Barbara Zeigler,21,74.52380952,18.24450341,89.0,20.0,,,,,,,,,,,,,,,,,,,9,,0
+UBCV,2014,W,VISA,401,A,001,Advanced Open Studio,Barbara Zeigler,19,79.42105263,7.925456801,88.0,63.0,,,,,,,,,,,0,0,0,,,,,,,8,0
+UBCV,2015,W,VISA,220,,002,Drawing,Barbara Zeigler,15,81.6,4.968472027,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,6,0
+UBCV,2015,W,VISA,250,,001,Introduction to Print Media,Barbara Zeigler,15,74.666666667,16.969159701,85.0,16.0,,,,,,,,,,,,,,,,,,,7,,0
+UBCV,2015,W,VISA,250,,003,Introduction to Print Media,Barbara Zeigler,15,75.066666667,20.090746508,89.0,5.0,,,,,,,,,,,,,,,,,,,,,0
+UBCV,2015,W,VISA,321,,002,Intermediate Drawing II,Barbara Zeigler,14,81.571428571,4.237457251,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,5,4,0
+UBCV,2015,W,VISA,351,,001,Intermediate Print Media II: Interdisciplinary Approaches to Image Production,Barbara Zeigler,22,79.272727273,5.355742963,89.0,63.0,,,,,,,,,,,0,0,0,,,,,7,8,,0
+UBCV,2015,W,VISA,352,,001,Intermediate Print Media III: Interdisciplinary Approaches to Image Production,Barbara Zeigler,22,76.727272727,17.566694185,89.0,0.0,,,,,,,,,,,,,,,,,,7,8,,0
+UBCV,2016,W,VISA,220,,002,Drawing,Barbara Zeigler,20,79.25,6.600438582,89.0,59.0,,,,,,,,,,,0,0,1,0,0,0,3,6,6,4,0
+UBCV,2016,W,VISA,250,,002,Introduction to Print Media,Barbara Zeigler,14,78.35714286,5.032313168,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,1,6,0,1
+UBCV,2016,W,VISA,250,,003,Introduction to Print Media,Barbara Zeigler,12,76.91666667,18.40680869,88.0,20.0,,,,,,,,,,,1,0,0,0,0,0,1,2,5,3,0
+UBCV,2016,W,VISA,350,,001,Intermediate Print Media I: Interdisciplinary Approaches to Image Production,Barbara Zeigler,18,80.55555556,4.527331667,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,4,3,5,6,0
+UBCV,2016,W,VISA,352,,001,Intermediate Print Media III: Interdisciplinary Approaches to Image Production,Barbara Zeigler,13,81.38461539,5.378017936,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,3,2,6,0
+UBCV,2016,W,VISA,401,A,001,Advanced Open Studio,Barbara Zeigler,14,81.07142857,3.540193078,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,6,3,0
+UBCV,2017,W,VISA,101,,001,BFA Studio Practice,Barbara Zeigler;Barrie Jones;Phillip Mccrum;Richard Prince,21,76.285714286,11.726648529,87.0,50.0,,,,,,,,,,,0,3,0,0,1,1,0,4,7,5,0
+UBCV,2017,W,VISA,220,,002,Drawing,Barbara Zeigler,22,79.636363636,5.057248024,88.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,10,6,4,0
+UBCV,2017,W,VISA,250,,001,Print Media,Barbara Zeigler,20,79.1,6.422821154,89.0,62.0,,,,,,,,,,,0,0,0,1,0,1,3,4,8,3,0
+UBCV,2017,W,VISA,250,,003,Print Media,Barbara Zeigler,20,76.95,11.175513647,89.0,37.0,,,,,,,,,,,1,0,0,0,1,1,2,5,7,3,0
+UBCV,2017,W,VISA,350,,001,Intermediate Print Media I: Interdisciplinary Approaches to Image Production,Barbara Zeigler,19,76.473684211,13.284780018,90.0,41.0,,,,,,,,,,,2,0,0,0,1,0,2,2,9,2,1
+UBCV,2017,W,VISA,351,,001,Intermediate Print Media II: Interdisciplinary Approaches to Image Production,Barbara Zeigler,21,78.666666667,6.27959659,89.0,58.0,,,,,,,,,,,0,0,1,0,0,0,4,4,9,3,0
+UBCV,2017,W,VISA,401,G,001,Advanced Open Studio,Barbara Zeigler,21,79.80952381,8.183025404,90.0,63.0,,,,,,,,,,,0,0,0,2,1,0,1,4,6,6,1
+UBCV,2018,W,VISA,352,,001,Intermediate Print Media III: Interdisciplinary Approaches to Image Production,Barbara Zeigler,20,78.85,8.112855296,90.0,52.0,,,,,,,,,,,0,1,0,0,0,1,3,3,9,1,2
+UBCV,2018,W,VISA,401,H,001,Advanced Open Studio,Barbara Zeigler,20,80.85,5.860438281,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,4,1,7,6,1
+UBCV,2019,W,VISA,250,,002,Print Media,Barbara Zeigler,17,78.882352941,5.893665593,89.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,3,5,4,0
+UBCV,2019,W,VISA,350,,001,Intermediate Print Media I: Interdisciplinary Approaches to Image Production,Barbara Zeigler,20,78.45,9.773621857,89.0,58.0,,,,,,,,,,,0,0,1,1,1,2,2,2,4,7,0
+UBCV,2019,W,VISA,351,,001,Intermediate Print Media II: Interdisciplinary Approaches to Image Production,Barbara Zeigler,20,81.15,8.093369606,90.0,55.0,,,,,,,,,,,0,0,1,0,0,0,1,5,4,7,2
+UBCV,2019,W,VISA,352,,001,Intermediate Print Media III: Interdisciplinary Approaches to Image Production,Barbara Zeigler,20,82.4,3.978891673,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,7,8,0
+UBCV,2019,W,VISA,401,E,001,Advanced Open Studio,Barbara Zeigler,22,77.090909091,18.036759003,90.0,0.0,,,,,,,,,,,1,0,0,0,0,1,2,5,6,6,1
+UBCV,2020,W,VISA,330,,001,Intermediate Painting I,Barbara Zeigler;Phillip Mccrum,19,81.473684211,5.450468084,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,4,8,5,1
+UBCV,2020,W,VISA,352,,001,Intermediate Print Media III: Interdisciplinary Approaches to Image Production,Barbara Zeigler;Manuel Pina,18,81.722222222,4.956345375,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,3,5,7,0
+UBCV,2020,W,VISA,401,B,001,Advanced Open Studio,Barbara Zeigler;Jeneen Frei Njootli,15,82.466666667,3.739111175,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,5,0
+UBCV,2021,W,VISA,390,,001,Performance Art,Barbara Zeigler;Guadalupe Martinez,19,79.473684211,6.653056282,88.0,58.0,,,,,,,,,,,0,0,1,0,0,0,1,6,6,5,0

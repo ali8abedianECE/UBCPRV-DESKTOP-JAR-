@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Alondra Renteria Ruiz;Cristian Sorin Grecu;Jane Hill;Jonathan Verrett;Juan Abello Rubio,57,83.105263158,7.357416595,94.0,58.0,0,0,1,1,1,1,4,4,20,15,10,,,
+UBCV,2021,W,APSC,262,,202,Technology and Society II,Earl Foster;Elizabeth Dobrzanski;Gabriel Potvin;Jane Hill;Victoria French,34,85.617647059,4.855579146,94.0,75.0,0,0,0,0,0,0,2,1,8,15,8,,,
+UBCV,2021,W,APSC,262,,203,Technology and Society II,Dhaneshwarie Kannangara;Elizabeth Dobrzanski;Gabriel Potvin;Jane Hill;Victoria French,29,81.689655172,9.235426544,90.0,48.0,1,0,1,0,0,0,1,2,10,11,3,,,
+UBCV,2021,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Cristian Sorin Grecu;Jane Hill;Jonathan Verrett;Mewael Isiet;Sahil Bhandari,43,80.441860465,10.965969711,99.0,37.0,1,0,0,0,3,5,2,6,7,11,8,,,
+UBCV,2021,W,APSC,262,,202,Technology and Society II,Jane Hill;Gabriel Potvin,34,85.6,,94.0,75.0,,,,,,,,,8,15,8,86.0,89.0,83.0
+UBCV,2021,W,APSC,262,,203,Technology and Society II,Jane Hill;Gabriel Potvin,29,81.7,,90.0,48.0,,,,,,,,,10,11,,83.0,86.0,80.0
+UBCV,2021,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Sahil Bhandari;Cristian Sorin Grecu;Jane Hill;Jonathan Verrett,43,80.4,,99.0,37.0,,,,,,,,6,7,11,8,82.0,87.5,75.0
+UBCV,2022,W,CHBE,497,B,201,Topics in Chemical and Biological Engineering.,Jane Hill,8,87.4,,91.0,77.0,0,0,0,0,0,0,0,1,0,4,3,89.0,90.3,86.5
+UBCV,2023,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Agnes D'Entremont;Cristian Sorin Grecu;Jane Hill;Peter Ostafichuk,61,85.2,,100.0,51.0,0,1,0,2,1,0,1,1,15,21,18,87.0,90.0,83.0
+UBCV,2023,W,CHBE,472,,201,Technologies for Human and Environmental Health,Jane Hill,6,79.8,,84.0,70.0,0,0,0,0,0,1,0,1,4,0,0,81.0,83.5,79.3

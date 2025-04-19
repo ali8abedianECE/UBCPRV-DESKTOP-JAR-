@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2017,W,COSC,101,,001,Digital Citizenship,Chad Kohalyk;Mason Macklem;Parsa Rajabi;Riley Waters,74,75.162162162,19.28376919,97.0,0.0,7,3,0,1,7,6,5,2,15,15,13
+UBCO,2018,S,COSC,111,,001,Computer Programming I,Jeff Bulmer;Ken Chidlow;Parsa Rajabi,38,73.552631579,15.382857023,99.0,38.0,2,1,4,6,2,2,2,2,4,8,5
+UBCO,2018,W,COSC,101,,101,Digital Citizenship,Chad Kohalyk;Dhruv Virani;Parsa Rajabi;Shambhavi Singh,108,78.87962963,12.188333316,98.0,0.0,1,1,3,2,5,10,14,12,27,16,17
+UBCO,2018,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Cameron Chong;Dhruv Virani;Gunjan Soni;Heather Mehain;Jean-Philippe Abadir;Parsa Rajabi;Raghav Jhavar;Ren Lin;Shambhavi Singh,270,73.822222222,19.61255446,100.0,9.0,52,4,6,7,15,14,18,29,25,27,73
+UBCO,2018,W,COSC,111,,101,Computer Programming I,Alexandar Salloum;Cameron Chong;James Koss;Jim Nastos;Parsa Rajabi,104,67.355769231,16.779505686,95.0,19.0,19,4,8,2,11,11,11,9,12,13,4
+UBCO,2019,S,COSC,101,,001,Digital Citizenship,Hui Ma;Nipas Visavachaipan;Parsa Rajabi,22,77.590909091,12.94920145,94.0,41.0,1,0,0,2,1,3,4,0,2,4,5
+UBCO,2019,S,COSC,221,,101,Introduction to Discrete Structures,Bohan Gao;Mayeesha Mariam;Parsa Rajabi;Stephen Brown,45,80.622222222,11.019175206,97.0,49.0,1,0,2,2,1,0,7,5,8,10,9
+UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.791044776,16.379530198,97.0,13.0,5,0,2,2,5,1,13,7,6,18,8
+UBCO,2020,W,COSC,122,,001,Computer Fluency,Amir Hossein Zeinali Kalkhoran;Ayazhan Akhmet;Brenden Trieu;Camila Jenkins;Heather Mehain;Islam Osman;Ken Chidlow;Lucas Pozza;Parsa Rajabi;Pradeep Mahato;Quinn Marshall;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi,199,82.412060302,16.188007011,100.0,2.0,6,6,1,3,5,11,11,14,26,41,75
+UBCO,2020,W,COSC,310,,001,Software Engineering,Devon Macneil;Parsa Rajabi;Shan Du;Yohen Thounaojam,143,83.433566434,7.773700191,97.0,62.0,0,0,0,1,2,10,12,13,37,30,38
+UBCO,2020,W,COSC,310,,101,Software Engineering,Apurva Narayan;Parsa Rajabi,17,84.294117647,8.865415288,96.0,71.0,0,0,0,0,0,1,3,2,3,0,8

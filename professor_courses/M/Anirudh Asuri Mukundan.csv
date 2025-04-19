@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Benjamin Langer;Bruno Ozaki;Charlotte Trainor;Chen-Chih Lai;Eric Rozon;Ha Jung Rachel Han;Han Hong;Kalle Karu;Mihai Marian;Ming Zhang;Naba Mukhtar;Nina Morishige;Patrick Walls;Samantha Bardwell;Simone Maletto;Xinyu Cheng;Yiyang Tian,148,71.945945946,12.883456556,98.0,25.0,6,5,8,16,12,15,21,18,18,20,9,,,
+UBCV,2021,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Elliot Cheung;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang,98,66.959183673,14.013924127,95.0,13.0,5,12,11,6,9,13,10,12,11,3,6,,,
+UBCV,2021,W,MATH,152,,208,Linear Systems,Anirudh Asuri Mukundan;Kalle Karu,98,67.2,,95.0,13.0,,13,11,6,9,13,10,12,11,,6,68.5,76.0,57.3
+UBCV,2022,W,MATH,152,,203,Linear Systems,Anirudh Asuri Mukundan;Kalle Karu,163,67.1,,96.0,3.0,9,19,17,17,13,19,20,13,18,11,7,68.0,77.0,59.0
+UBCV,2022,W,MATH,221,,103,Matrix Algebra,Anirudh Asuri Mukundan;Patrick Walls;Thomas Williams,159,70.0,,100.0,20.0,13,14,12,15,11,14,12,17,18,22,11,72.0,82.0,60.0

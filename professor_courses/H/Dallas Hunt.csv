@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,GRSJ,301,,001,GNDR&INDG CAN,"Hunt, Dallas",33,75.28,10.36,90,52,32,0,1,0,0,0,0,0,0,0,0,1,3,1,2,4,1,8,5,6,1,,,
+UBCV,2014,W,ENGL,110,,020,Approaches to Literature,Dallas Hunt;Gaarth Mcclure;Jonathan Newell;Michael Paul Taylor;Morag Mcgreevey;Tiffany Potter,129,71.29457364,6.966889439,90.0,50.0,,,,,,,,,,,0,,,15,8,35,34,14,14,,,,,
+UBCV,2015,W,ENGL,110,,012,Approaches to Literature,Adam Zarour;Dallas Hunt;Jonathan Newell;Loren Gaudet;Sarah Crover;Tiffany Potter,133,72.07518797,8.943106419,87.0,30.0,,,,,,,,,,,,,5,8,16,18,34,23,18,8,0,,,
+UBCV,2015,W,ENGL,110,,028,Approaches to Literature,Brendan Mccormack;Dallas Hunt;Jade Elizabeth Standing;Jade Standing;Mary Lorraine Weir;Stephen Cook,79,71.417721519,14.140873287,88.0,0.0,,,,,,,,,,,,,,,5,10,23,15,14,,0,,,
+UBCV,2016,W,ENGL,111,,005,Approaches to Non-fictional Prose,Dallas Hunt;Dorothy Lockyer;Laurie Mcneill;Loren Gaudet;Michael De Santis,87,72.28735632,14.95956414,94.0,0.0,,,,,,,,,,,3,2,3,6,9,9,13,10,17,13,2,,,
+UBCV,2016,W,GRSJ,301,,001,Gender and Indigeneity in Canada,Dallas Hunt,32,75.28125,10.36194768,90.0,52.0,,,,,,,,,,,0,1,3,1,2,4,1,8,5,6,1,,,
+UBCV,2019,W,ENGL,231,,001,Introduction to Indigenous Literatures,Dallas Hunt,37,76.945945946,11.125411218,95.0,49.0,,,,,,,,,,,1,1,1,3,2,2,0,7,11,5,4,,,
+UBCV,2019,W,ENGL,382,,001,Theory: Anti-/De-/Post-Colonization,Dallas Hunt,42,79.095238095,9.267855604,95.0,50.0,,,,,,,,,,,0,2,0,1,0,1,8,5,9,11,5,,,
+UBCV,2019,W,ENGL,490,,002,Literature Majors Seminar,Dallas Hunt,16,82.4375,5.715111547,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,5,4,3,3,,,
+UBCV,2020,W,ENGL,231,,001,Introduction to Indigenous Literatures,Dallas Hunt,45,79.466666667,7.001947781,90.0,55.0,,,,,,,,,,,0,0,1,0,1,4,6,7,12,13,1,,,
+UBCV,2020,W,ENGL,382,,001,Theory: Anti-/De-/Post-Colonization,Dallas Hunt;Julia Denholm,42,76.595238095,15.617469149,95.0,0.0,,,,,,,,,,,1,3,0,0,1,2,3,9,12,9,2,,,
+UBCV,2020,W,ENGL,545,A,001,Studies in Canadian Literature,Dallas Hunt,10,83.2,18.884443921,94.0,30.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,5,4,,,
+UBCV,2021,W,ENGL,545,A,001,Studies in Canadian Literature,Christine Kim;Dallas Hunt,11,85.454545455,2.252271581,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,1,,,
+UBCV,2022,W,ENGL,200,,008,Principles of Literary Studies,Dallas Hunt,30,79.4,,96.0,50.0,,,,,,,,,,,0,1,0,0,1,1,4,7,6,8,2,80.0,85.0,77.0
+UBCV,2022,W,ENGL,231,,001,Introduction to Indigenous Literatures,Dallas Hunt,41,82.6,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,3,3,6,11,9,9,82.0,87.0,78.0
+UBCV,2022,W,ENGL,373,,001,Indigenous Literature,Dallas Hunt,45,81.0,,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,9,9,15,8,4,81.0,85.0,77.0
+UBCV,2022,W,ENGL,553,B,002,Studies in Literary Theory,Dallas Hunt,9,87.6,,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,2,89.0,89.0,85.0
+UBCV,2023,W,ENGL,222,,001,Literature in Canada,Dallas Hunt,45,77.2,,92.0,50.0,,,,,,,,,,,0,2,0,3,0,3,7,8,12,7,3,79.0,83.0,75.0
+UBCV,2023,W,ENGL,231,,001,Introduction to Indigenous Literatures,Dallas Hunt,44,77.0,,95.0,50.0,,,,,,,,,,,0,4,0,1,0,1,9,6,10,8,3,79.5,84.3,74.3
+UBCV,2023,W,ENGL,373,,001,Indigenous Literature,Dallas Hunt,46,79.1,,91.0,50.0,,,,,,,,,,,0,3,0,0,2,2,2,8,10,13,5,82.0,85.0,76.0

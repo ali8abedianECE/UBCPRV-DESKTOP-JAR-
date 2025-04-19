@@ -1,0 +1,68 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ECON,101,,011,PRNCPLS MICRECON,"Mahmoud, Chowdhury",118,70.06,13.55,90,0,108,8,2,0,0,1,0,1,0,6,8,5,6,7,12,18,17,19,10,11,3,,,
+UBC,2018,W,ECON,226,,002,ECON DATA,"Mahmoud, Chowdhury",14,69.5,15.7,90,50,14,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,1,4,1,1,,,
+UBC,2018,W,ECON,303,,001,INT MICROECON II,"Mahmoud, Chowdhury",55,75.17,12.93,92,35,49,3,1,0,0,0,0,0,1,2,3,0,3,1,5,3,5,8,12,9,3,,,
+UBC,2018,W,ECON,325,,002,EMPIRICAL ECON,"Mahmoud, Chowdhury",75,74.65,13.08,97,45,72,3,0,0,0,0,0,0,0,3,3,3,8,2,5,3,12,10,11,7,11,,,
+UBC,2018,W,ECON,325,,003,EMPIRICAL ECON,"Mahmoud, Chowdhury",70,75.76,11.03,97,50,70,0,0,0,0,0,0,0,0,0,0,3,2,2,8,11,8,11,8,9,8,,,
+UBC,2018,W,ECON,326,,003,MTDS EMPIRC RESR,"Mahmoud, Chowdhury",78,67.29,19.34,96,7,68,10,0,0,0,1,3,1,2,3,10,2,7,5,11,7,8,8,6,7,7,,,
+UBCV,2018,W,ECON,101,,011,Principles of Microeconomics,Chowdbury Mahmoud;Chowdhury Mahmoud;Clive Chapple;Hugh Neary;Matthew O'Brien,116,70.060344828,13.554584524,90.0,0.0,,,,,,,,,,,8,5,6,7,12,18,17,19,10,11,3,,,
+UBCV,2018,W,ECON,226,,002,Making Sense of Economic Data,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Ronit Mukherji,14,69.5,15.702768007,90.0,50.0,,,,,,,,,,,0,5,0,0,0,1,1,1,4,1,1,,,
+UBCV,2018,W,ECON,303,,001,Intermediate Microeconomics II,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Wei Li;Zhen Lu,54,74.962962963,12.860592086,92.0,35.0,,,,,,,,,,,3,0,3,2,5,3,5,9,12,9,3,,,
+UBCV,2018,W,ECON,325,,002,Introduction to Empirical Economics,Arkadev Ghosh;Chowdhury Mahmoud,75,74.653333333,13.083405348,97.0,45.0,,,,,,,,,,,3,3,8,2,5,3,12,10,11,7,11,,,
+UBCV,2018,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,70,75.757142857,11.027548789,97.0,50.0,,,,,,,,,,,0,3,2,2,8,11,8,11,8,9,8,,,
+UBCV,2018,W,ECON,326,,003,Methods of Empirical Research in Economics,Chowdhury Mahmoud;Sandra Buzinsky,78,73.820512821,20.678581421,100.0,8.0,,,,,,,,,,,8,4,0,5,6,6,6,10,9,7,17,,,
+UBCV,2019,S,ECON,226,,921,Making Sense of Economic Data,Chowdhury Mahmoud;Marcelo Sacchi De Carvalho;Philip Monagan,14,70.214285714,13.616610735,91.0,50.0,,,,,,,,,,,0,2,2,1,2,0,0,4,1,0,2,,,
+UBCV,2019,S,ECON,226,,922,Making Sense of Economic Data,Chowdhury Mahmoud;Marcelo Sacchi De Carvalho,9,67.222222222,17.605239119,91.0,37.0,,,,,,,,,,,1,1,1,1,0,1,0,1,2,0,1,,,
+UBCV,2019,W,ECON,101,,011,Principles of Microeconomics,Adam Hussein;Chowdhury Mahmoud,104,70.134615385,11.176481629,92.0,41.0,,,,,,,,,,,5,7,6,7,16,11,14,17,11,7,3,,,
+UBCV,2019,W,ECON,226,,002,Making Sense of Economic Data,Chowdhury Mahmoud;Hung-Hsiang Chien;William Riddell,18,71.388888889,17.493322722,95.0,35.0,,,,,,,,,,,2,0,3,2,0,0,1,4,1,2,3,,,
+UBCV,2019,W,ECON,303,,001,Intermediate Microeconomics II,Bufang Duan;Chowdhury Mahmoud,66,79.318181818,7.243371699,92.0,63.0,,,,,,,,,,,0,0,0,2,2,2,18,7,14,15,6,,,
+UBCV,2019,W,ECON,325,,002,Introduction to Empirical Economics,Angela Georgie Katelieva;Angela Katelieva;Chowdhury Mahmoud,74,76.945945946,11.828560621,97.0,40.0,,,,,,,,,,,3,1,4,4,2,3,8,15,11,16,7,,,
+UBCV,2019,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Tiago Bonomo,76,73.105263158,11.497917432,98.0,43.0,,,,,,,,,,,2,1,8,5,6,7,11,11,14,7,4,,,
+UBCV,2019,W,ECON,326,,003,Methods of Empirical Research in Economics,Chowdhury Mahmoud;Tiago Bonomo,76,82.828947368,6.855437079,94.0,66.0,,,,,,,,,,,0,0,0,0,2,4,8,8,17,24,13,,,
+UBCV,2020,S,ECON,226,,932,Making Sense of Economic Data,Chowdhury Mahmoud;Deivis Angeli,37,69.648648649,14.484121989,87.0,30.0,,,,,,,,,,,2,5,1,3,4,2,4,2,9,5,0,,,
+UBCV,2020,S,ECON,325,,921,Introduction to Empirical Economics,Chowdhury Mahmoud;Diana Whistler;Tiago Bonomo,85,77.164705882,13.9085851,95.0,14.0,,,,,,,,,,,2,1,2,9,4,9,4,4,17,24,9,,,
+UBCV,2020,W,ECON,101,,011,Principles of Microeconomics,Chowdhury Mahmoud;Clive Chapple;Jamie Emery;Patrick Francois,120,67.35,15.826076768,99.0,0.0,,,,,,,,,,,9,15,7,19,8,15,8,9,17,4,9,,,
+UBCV,2020,W,ECON,101,,016,Principles of Microeconomics,Ali Adibnia;Chowdhury Mahmoud;Clive Chapple;Prajain Maskey,199,71.502512563,13.46895959,98.0,20.0,,,,,,,,,,,4,15,12,16,29,26,21,20,19,19,18,,,
+UBCV,2020,W,ECON,226,,002,Making Sense of Economic Data,Chowdhury Mahmoud;Nicole Fortin;Tiago Bonomo,21,75.047619048,19.064302218,93.0,0.0,,,,,,,,,,,1,0,0,0,3,2,1,4,4,5,1,,,
+UBCV,2020,W,ECON,301,,004,Intermediate Microeconomic Analysis I,Chowdhury Mahmoud;Hugh Shiplett,58,73.724137931,15.644956705,95.0,16.0,,,,,,,,,,,4,0,3,6,5,4,4,7,11,7,7,,,
+UBCV,2020,W,ECON,303,,001,Intermediate Microeconomics II,Chowdhury Mahmoud;Federico Ricca;Il Myoung Hwang;Il Myoung Sam Hwang,52,73.288461538,10.08655976,96.0,50.0,,,,,,,,,,,0,2,2,2,6,12,8,6,5,6,3,,,
+UBCV,2020,W,ECON,311,,001,Principles of Macroeconomics,Chowdhury Mahmoud;Daniel Jaramillo Calderon;Ratna Shrestha,220,75.831818182,12.518985996,99.0,14.0,,,,,,,,,,,3,7,13,8,13,30,28,18,48,18,34,,,
+UBCV,2020,W,ECON,325,,002,Introduction to Empirical Economics,Chowdhury Mahmoud;Tiago Bonomo,65,73.092307692,12.624038425,96.0,27.0,,,,,,,,,,,2,3,2,4,7,9,6,12,8,8,4,,,
+UBCV,2020,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Deivis Angeli,59,72.966101695,13.357118858,95.0,5.0,,,,,,,,,,,1,1,2,5,7,9,10,8,6,5,5,,,
+UBCV,2020,W,ECON,326,,003,Methods of Empirical Research in Economics,Chowdhury Mahmoud;Matthew Lowe;Tiago Bonomo,80,75.7125,9.129440137,93.0,55.0,,,,,,,,,,,0,0,3,10,4,10,4,13,26,6,4,,,
+UBCV,2021,S,ECON,325,,921,Introduction to Empirical Economics,Chowdhury Mahmoud;Tiago Bonomo,61,72.508196721,13.845123029,93.0,36.0,,,,,,,,,,,3,3,6,5,2,8,6,5,8,10,5,,,
+UBCV,2021,S,ECON,325,,922,Introduction to Empirical Economics,Chowdhury Mahmoud;Federico Ricca;Wendy Wai Yee Kei,65,76.738461538,12.773601835,98.0,11.0,,,,,,,,,,,1,3,0,2,4,6,7,9,15,14,4,,,
+UBCV,2021,W,ECON,101,,016,Principles of Microeconomics,Chowdhury Mahmoud;Haoxiang Tang;James Payne;Kevin Milligan,205,70.195121951,15.782249138,96.0,0.0,,,,,,,,,,,12,13,18,16,18,22,16,28,34,14,14,,,
+UBCV,2021,W,ECON,102,,004,Principles of Macroeconomics,Anirban Mukherjee;Chowdhury Mahmoud;Haoxiang Tang;Kevin Milligan;Noor Kumar;Ratna Shrestha,219,66.397260274,18.257892394,97.0,0.0,,,,,,,,,,,14,37,14,15,22,28,18,23,18,12,18,,,
+UBCV,2021,W,ECON,102,,008,Principles of Macroeconomics,Chowdhury Mahmoud;Tiago Bonomo;Zhiqi Liu,212,67.533018868,15.404616909,97.0,0.0,,,,,,,,,,,9,25,20,18,28,23,31,12,18,18,10,,,
+UBCV,2021,W,ECON,102,,010,Principles of Macroeconomics,Chowdhury Mahmoud;Kuo Yan;Robert Gateman,106,73.462264151,14.440798374,99.0,26.0,,,,,,,,,,,5,6,6,6,7,12,9,13,18,12,12,,,
+UBCV,2021,W,ECON,102,,015,Principles of Macroeconomics,Ali Karimirad;Chowdhury Mahmoud;James Payne;Leonel Ordonez Flores;Robert Gateman,225,67.622222222,16.174396777,98.0,0.0,,,,,,,,,,,11,33,12,17,25,27,25,28,21,17,9,,,
+UBCV,2021,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Tiago Bonomo,71,69.084507042,16.104787646,95.0,16.0,,,,,,,,,,,3,14,2,4,10,5,4,5,10,10,4,,,
+UBCV,2021,W,ECON,325,,005,Introduction to Empirical Economics,Chowdhury Mahmoud;Tiago Bonomo,51,71.823529412,16.284601171,96.0,17.0,,,,,,,,,,,4,1,4,1,3,8,8,4,10,5,3,,,
+UBCV,2021,W,ECON,490,,012,Seminar in Applied Economics,Chowdhury Mahmoud;Federico Ricca;Marina Adshade,20,84.1,6.496152708,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,6,4,4,,,
+UBCV,2021,S,ECON,325,,921,Introduction to Empirical Economics,Chowdhury Mahmoud,61,72.5,,93.0,36.0,,,,,,,,,,,,,6,,,8,6,,8,10,,74.0,84.0,62.0
+UBCV,2021,S,ECON,325,,922,Introduction to Empirical Economics,Chowdhury Mahmoud,65,76.7,,98.0,11.0,,,,,,,,,,,,,,,,6,7,9,15,14,,80.0,85.0,72.0
+UBCV,2021,W,ECON,101,,016,Principles of Microeconomics,Chowdhury Mahmoud,205,71.2,,96.0,7.0,,,,,,,,,,,6,14,20,17,18,23,16,28,35,14,14,72.0,82.0,62.0
+UBCV,2021,W,ECON,102,,004,Principles of Macroeconomics,Chowdhury Mahmoud,217,67.2,,97.0,0.0,,,,,,,,,,,12,35,14,15,22,28,18,23,19,12,19,69.0,78.0,56.0
+UBCV,2021,W,ECON,102,,008,Principles of Macroeconomics,Chowdhury Mahmoud,213,68.3,,97.0,0.0,,,,,,,,,,,5,25,20,20,29,24,31,12,19,18,10,69.0,78.0,60.0
+UBCV,2021,W,ECON,102,,010,Principles of Macroeconomics,Chowdhury Mahmoud,106,73.8,,99.0,33.0,,,,,,,,,,,4,6,7,6,7,12,9,13,18,12,12,76.5,83.0,67.0
+UBCV,2021,W,ECON,102,,015,Principles of Macroeconomics,Chowdhury Mahmoud,225,67.8,,98.0,0.0,,,,,,,,,,,10,34,12,17,25,27,25,28,21,17,9,70.0,78.0,60.0
+UBCV,2021,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud,71,71.3,,98.0,50.0,,,,,,,,,,,,14,,,10,,,,11,10,,71.0,84.0,61.0
+UBCV,2021,W,ECON,325,,005,Introduction to Empirical Economics,Chowdhury Mahmoud,51,72.5,,96.0,29.0,,,,,,,,,,,,,,,,8,8,,10,,,75.0,83.0,67.0
+UBCV,2021,W,ECON,490,,012,Seminar in Applied Economics,Chowdhury Mahmoud,20,84.1,,98.0,76.0,,,,,,,,,,,,,,,,,,6,6,,,84.0,88.0,78.0
+UBCV,2022,W,ECON,101,,016,Principles of Microeconomics,Chowdhury Mahmoud,149,71.5,,100.0,29.0,,,,,,,,,,,2,14,17,14,15,12,10,20,12,19,14,72.0,83.0,61.0
+UBCV,2022,W,ECON,102,,004,Principles of Macroeconomics,Chowdhury Mahmoud,219,69.1,,94.0,16.0,,,,,,,,,,,18,8,16,15,23,27,23,37,32,13,7,72.0,79.0,63.0
+UBCV,2022,W,ECON,102,,008,Principles of Macroeconomics,Chowdhury Mahmoud,218,69.3,,99.0,18.0,,,,,,,,,,,10,7,13,22,29,33,35,37,23,6,3,71.0,76.8,64.0
+UBCV,2022,W,ECON,102,,010,Principles of Macroeconomics,Chowdhury Mahmoud,113,65.2,,96.0,17.0,,,,,,,,,,,13,16,9,6,17,12,11,7,10,8,4,66.0,76.0,54.0
+UBCV,2022,W,ECON,102,,015,Principles of Macroeconomics,Chowdhury Mahmoud,222,70.4,,95.0,18.0,,,,,,,,,,,5,9,11,17,27,43,42,34,26,6,2,71.0,77.0,66.0
+UBCV,2022,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud,92,75.5,,95.0,34.0,,,,,,,,,,,6,1,7,2,3,6,9,15,21,14,8,79.0,84.0,70.0
+UBCV,2022,W,ECON,325,,005,Introduction to Empirical Economics,Chowdhury Mahmoud,80,74.0,,94.0,30.0,,,,,,,,,,,5,1,3,6,6,5,11,11,17,12,3,77.0,83.0,67.0
+UBCV,2022,W,ECON,490,,012,Seminar in Applied Economics,Chowdhury Mahmoud,20,84.1,,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,10,4,3,83.5,88.0,81.0
+UBCV,2023,W,ECON,101,,004,Principles of Microeconomics,Chowdhury Mahmoud,404,66.2,,95.0,12.0,,,,,,,,,,,27,44,43,42,49,48,35,37,31,27,14,67.0,77.0,58.0
+UBCV,2023,W,ECON,101,,011,Principles of Microeconomics,Chowdhury Mahmoud,94,66.2,,89.0,10.0,,,,,,,,,,,8,6,10,9,13,6,19,13,5,5,0,69.0,75.0,59.3
+UBCV,2023,W,ECON,102,,001,Principles of Macroeconomics,Chowdhury Mahmoud,370,66.2,,94.0,3.0,,,,,,,,,,,27,25,40,37,43,48,55,30,33,15,7,68.0,75.0,59.0
+UBCV,2023,W,ECON,102,,003,Principles of Macroeconomics,Chowdhury Mahmoud,448,69.2,,95.0,0.0,,,,,,,,,,,25,24,38,44,40,45,63,53,68,34,11,72.0,80.0,62.0
+UBCV,2023,W,ECON,102,,010,Principles of Macroeconomics,Chowdhury Mahmoud,96,67.4,,98.0,0.0,,,,,,,,,,,7,10,9,9,10,8,13,7,6,6,9,68.5,77.0,59.0
+UBCV,2023,W,ECON,490,,002,Seminar in Applied Economics,Chowdhury Mahmoud,20,87.2,,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,6,7,87.0,92.0,83.8
+UBCV,2023,W,ECON,490,,003,Seminar in Applied Economics,Chowdhury Mahmoud,20,86.1,,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,9,4,86.5,89.0,82.5
+UBCV,2023,W,ECON,490,,008,Seminar in Applied Economics,Chowdhury Mahmoud,21,86.4,,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,7,5,85.0,89.0,84.0

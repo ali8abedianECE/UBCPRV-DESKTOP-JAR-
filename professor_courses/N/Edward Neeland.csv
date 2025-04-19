@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,118,64.27966102,14.31088618,90.0,0.0,22,,14,13,13,16,13,10,9,,,,,
+UBCO,2014,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,94,69.08510638,14.59390031,93.0,32.0,16,,,8,7,,20,10,9,10,5,,,
+UBCO,2014,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland,92,70.65217391,14.04109728,93.0,7.0,,,8,11,13,5,10,11,12,10,5,,,
+UBCO,2014,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,17,79.76470588,7.445883189,91.0,65.0,0,0,0,0,,,,,7,,,,,
+UBCO,2015,W,CHEM,111,,001,Principles of Chemistry I,Edward Neeland,35,63.142857143,18.703794609,92.0,26.0,10,,,,,,7,,,,,,,
+UBCO,2015,W,CHEM,113,,001,Principles of Chemistry II,Edward Neeland,23,67.826086957,18.917649705,91.0,14.0,,,,,,,,8,,,,,,
+UBCO,2015,W,CHEM,121,,001,Atomic and Molecular Chemistry,Edward Neeland,241,69.439834025,15.225715308,100.0,16.0,34,8,5,23,17,33,36,24,21,26,14,,,
+UBCO,2015,W,CHEM,123,,001,Physical and Organic Chemistry,Edward Neeland,253,66.102766798,13.774448404,98.0,21.0,42,3,24,26,28,37,31,23,20,11,8,,,
+UBCO,2015,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,95,67.557894737,12.146022718,98.0,32.0,13,,5,15,14,9,11,11,11,,,,,
+UBCO,2015,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,84,66.976190476,13.811969831,96.0,9.0,12,,7,9,12,11,8,9,8,,,,,
+UBCO,2016,W,CHEM,111,,001,Principles of Chemistry I,Edward Neeland;Tamara Freeman;Tamara Kunz,34,56.94117647,18.17581006,86.0,10.0,12,1,3,3,4,3,4,1,2,1,0,,,
+UBCO,2016,W,CHEM,121,,001,Atomic and Molecular Chemistry,Edward Neeland;Tamara Freeman;Tamara Kunz,251,66.19521912,14.86653077,95.0,14.0,49,4,17,26,20,34,25,26,31,13,6,,,
+UBCO,2016,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,144,65.16666667,16.82613685,97.0,7.0,34,2,6,21,12,15,9,10,21,8,6,,,
+UBCO,2016,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,109,66.27522936,13.7563935,91.0,19.0,20,2,5,12,20,6,17,11,6,6,4,,,
+UBCO,2016,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,13,74.92307692,11.92659171,94.0,58.0,0,0,1,3,0,2,1,1,1,2,2,,,
+UBCO,2017,W,CHEM,111,,003,Principles of Chemistry I,Edward Neeland;Tamara Kunz,32,67.78125,12.098345328,86.0,41.0,5,0,2,3,3,5,4,4,4,2,0,,,
+UBCO,2017,W,CHEM,121,,003,Atomic and Molecular Chemistry,Edward Neeland;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,136,67.683823529,14.914920298,99.0,12.0,25,0,4,8,13,26,15,21,14,5,5,,,
+UBCO,2017,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,141,65.588652482,14.051980502,91.0,28.0,29,2,12,13,22,8,18,10,18,7,2,,,
+UBCO,2017,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,112,68.696428571,14.229672896,90.0,29.0,20,3,5,6,8,14,12,16,17,7,4,,,
+UBCO,2017,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,7,84.142857143,5.2734736,91.0,76.0,0,0,0,0,0,0,0,1,3,2,1,,,
+UBCO,2018,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,136,67.426470588,16.878929382,97.0,15.0,26,4,6,9,13,13,13,21,12,12,7,,,
+UBCO,2018,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,113,66.646017699,15.845188744,98.0,23.0,25,4,2,17,10,10,12,9,6,8,10,,,
+UBCO,2018,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland;Ieva Zigg,44,71.204545455,11.944794615,92.0,38.0,1,1,4,8,4,3,4,6,8,3,2,,,
+UBCO,2018,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Benjamin Ernest Olafsen;Benjamin Olafsen;Edward Neeland,11,76.454545455,9.750524461,91.0,58.0,0,0,1,0,1,1,2,1,3,1,1,,,
+UBCO,2019,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,134,66.507462687,14.076988244,92.0,26.0,28,3,9,10,16,14,14,13,13,12,2,,,
+UBCO,2019,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,109,70.926605505,13.49808383,93.0,8.0,8,4,4,7,13,11,20,10,16,15,1,,,
+UBCO,2019,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland,46,71.173913043,10.955068533,95.0,40.0,2,0,3,4,5,14,4,3,5,4,2,,,
+UBCO,2020,W,CHEM,203,,001,Introduction to Organic Chemistry,Aida Javadian Saraf;Anthony Tardif;Arantxa Da Fonseca;Behzad Gorji Pour Shafiee;Brooke Kwan;Darina Vekhova;Edward Neeland;Elinor Binson;Kadie Wert;Kamal Narayana;Marisa Aviani;Melissa Barriault;Paige Dafoe;Riley Petillion;Scott Stussi;Taryn Murray;Thomas Head;William Filipski,160,68.225,14.875986305,96.0,11.0,23,1,12,18,19,21,14,11,21,10,10,,,
+UBCO,2020,W,CHEM,204,,001,Organic Chemistry,Aida Javadian Saraf;Anthony Tardif;Behzad Gorji Pour Shafiee;Edward Neeland;Emma Tillman;Lailah Akkurt;Marisa Aviani;Paige Dafoe;Riley Petillion;Simona Mastroianni;Taryn Murray,128,67.1015625,15.393955171,100.0,23.0,21,11,5,8,21,9,14,7,14,10,8,,,
+UBCO,2020,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Anh Nguyen;Edward Neeland;Marisa Aviani;Scott Stussi,36,68.416666667,13.034843415,88.0,34.0,3,2,3,3,6,3,3,4,6,3,0,,,
+UBCO,2020,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland;Omkar Kulkarni,9,81.888888889,6.273843408,89.0,74.0,0,0,0,0,0,0,2,2,0,5,0,,,
+UBCO,2021,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,112,69.875,18.371602156,95.0,10.0,22,1,2,6,6,12,7,13,19,16,8,,,
+UBCO,2021,W,CHEM,204,,001,Organic Chemistry,Edward Neeland;Jackline Irungu,100,71.81,14.722822934,93.0,13.0,10,3,0,6,8,17,10,11,19,11,5,,,
+UBCO,2021,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Edward Neeland;Paul Shipley,193,69.875647668,18.506616996,100.0,19.0,37,4,9,6,15,20,19,17,18,16,32,,,
+UBCO,2021,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland;Paul Shipley;Thomas Head,52,74.865384615,14.780788865,95.0,36.0,3,2,1,4,3,6,8,1,7,9,8,,,
+UBCO,2021,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland;Riley Petillion,9,78.555555556,13.519533194,94.0,55.0,0,0,1,0,2,0,0,0,2,2,2,,,
+UBCO,2021,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,112,69.9,,95.0,10.0,22,,,6,6,12,7,13,19,16,8,75.5,84.0,62.8
+UBCO,2021,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,100,72.1,,93.0,13.0,9,,,6,9,17,10,11,19,11,,74.5,82.3,67.0
+UBCO,2021,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Edward Neeland,193,69.9,,100.0,19.0,37,4,9,6,15,20,19,17,18,16,32,72.0,84.0,59.0
+UBCO,2021,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,9,78.6,,94.0,55.0,,,,,,,,,,,,83.0,87.0,66.0
+UBCO,2022,S,CHEM,204,,101,Organic Chemistry,Edward Neeland;Jeffrey Therrien,20,67.2,,91.0,34.0,1,0,1,5,4,2,5,0,1,0,1,66.5,73.0,62.8
+UBCO,2022,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,114,71.1,,94.0,44.0,11,0,3,13,19,10,13,12,20,8,5,72.0,80.8,64.0
+UBCO,2022,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,118,68.2,,94.0,27.0,19,5,5,8,11,14,16,13,16,8,3,70.0,77.0,60.5
+UBCO,2022,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Edward Neeland,215,67.8,,97.0,2.0,32,3,10,32,29,23,24,11,20,21,10,68.0,79.0,61.0
+UBCO,2022,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,10,75.3,,94.0,68.0,0,0,0,0,0,5,1,1,2,0,1,71.5,79.3,69.3
+UBCO,2023,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,129,68.2,,99.0,18.0,24,4,6,5,14,13,14,12,18,8,10,71.0,80.0,57.8
+UBCO,2023,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,106,70.0,,95.0,28.0,14,0,2,12,14,15,14,5,13,9,6,71.0,80.0,63.0
+UBCO,2023,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland,83,71.1,,95.0,38.0,2,3,11,4,5,10,14,15,14,3,2,73.0,78.5,64.5
+UBCO,2023,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,6,78.2,,94.0,58.0,0,0,1,0,0,0,1,0,3,0,1,81.0,81.8,75.0

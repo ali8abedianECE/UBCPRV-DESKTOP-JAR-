@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,VISA,264,,001,Computer and Imaging Development I,Aleksandra Dulic,9,78.33333333,8.93028555,93.0,65.0,0,0,0,0,,,,,,,,,,
+UBCO,2014,W,VISA,265,,001,Computer and Image Development II,Aleksandra Dulic,6,83.33333333,6.345602152,95.0,77.0,0,0,0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,300,C,001,Advanced Practice in Drawing,Aleksandra Dulic,14,81.28571429,6.497674986,90.0,70.0,0,0,0,0,0,,,,,8,,,,
+UBCO,2014,W,VISA,300,D,001,Advanced Practice in Drawing,Aleksandra Dulic,16,76.4375,13.06888799,90.0,39.0,,,,,,,,,,5,,,,
+UBCO,2016,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic;Nina Fazio;Nina Vincenza Fazio,19,79.47368421,9.051509518,95.0,55.0,0,0,1,0,0,0,4,6,4,1,3,,,
+UBCO,2016,W,VISA,266,,001,2D Animation,Aleksandra Dulic,9,79.0,7.842193571,90.0,70.0,0,0,0,0,0,2,1,3,0,1,2,,,
+UBCO,2016,W,VISA,300,G,001,Advanced Practice in Drawing,Aleksandra Dulic,15,80.73333333,5.775152029,90.0,70.0,0,0,0,0,0,1,3,1,3,6,1,,,
+UBCO,2016,W,VISA,300,H,001,Advanced Practice in Drawing,Aleksandra Dulic,15,82.93333333,4.366539438,90.0,76.0,0,0,0,0,0,0,0,4,4,5,2,,,
+UBCO,2016,W,VISA,382,H,001,Advanced Practice in Media Arts,Aleksandra Dulic,10,85.2,6.268084946,90.0,76.0,0,0,0,0,0,0,0,3,1,0,6,,,
+UBCO,2017,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Aleksandra Dulic,8,90.0,3.070597894,95.0,85.0,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCO,2017,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic;Holly Ward,21,84.476190476,5.688752479,94.0,72.0,0,0,0,0,0,0,2,1,9,5,4,,,
+UBCO,2017,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic,17,79.235294118,5.368070088,90.0,70.0,0,0,0,0,0,1,3,6,3,3,1,,,
+UBCO,2017,W,VISA,300,I,001,Advanced Practice in Drawing,Aleksandra Dulic,16,84.0,7.571877794,95.0,72.0,0,0,0,0,0,0,1,5,2,4,4,,,
+UBCO,2017,W,VISA,300,J,002,Advanced Practice in Drawing,Aleksandra Dulic,15,85.6,6.092149515,95.0,75.0,0,0,0,0,0,0,1,1,3,6,4,,,
+UBCO,2018,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic;Patrick Lundeen,18,77.222222222,10.195475095,90.0,50.0,0,1,1,0,0,0,2,6,4,3,1,,,
+UBCO,2018,W,VISA,300,K,001,Advanced Practice in Drawing,Aleksandra Dulic;Emerald Holt,8,81.625,10.927520958,95.0,59.0,0,0,1,0,0,0,1,0,2,2,2,,,
+UBCO,2018,W,VISA,300,L,002,Advanced Practice in Drawing,Aleksandra Dulic;Emerald Holt,10,83.5,10.834615309,97.0,60.0,0,0,0,1,0,1,0,0,1,3,4,,,
+UBCO,2018,W,VISA,382,K,001,Advanced Practice in Media Arts,Aleksandra Dulic,6,84.5,6.220932406,90.0,75.0,0,0,0,0,0,0,1,1,0,2,2,,,
+UBCO,2018,W,VISA,382,L,001,Advanced Practice in Media Arts,Aleksandra Dulic,6,83.0,12.083045974,95.0,60.0,0,0,0,1,0,0,0,0,1,2,2,,,
+UBCO,2019,W,MDST,330,,101,Immersive Installation,Aleksandra Dulic;Miles Thorogood,13,84.076923077,5.453768398,90.0,76.0,0,0,0,0,0,0,0,3,1,5,4,,,
+UBCO,2019,W,VISA,300,M,001,Advanced Practice in Drawing,Aleksandra Dulic,15,78.666666667,22.346833162,95.0,0.0,1,0,0,0,0,0,0,4,1,6,3,,,
+UBCO,2019,W,VISA,300,N,001,Advanced Practice in Drawing,Aleksandra Dulic,14,83.928571429,4.548275848,90.0,76.0,0,0,0,0,0,0,0,4,1,8,1,,,
+UBCO,2019,W,VISA,382,M,001,Advanced Practice in Media Arts,Aleksandra Dulic,15,84.2,3.211586168,90.0,80.0,0,0,0,0,0,0,0,0,5,8,2,,,
+UBCO,2019,W,VISA,382,N,001,Advanced Practice in Media Arts,Aleksandra Dulic;Morgan Rauscher,8,87.375,6.412877669,94.0,76.0,0,0,0,0,0,0,0,1,1,2,4,,,
+UBCO,2020,W,MDST,311,,001,Computational Poetics,Aleksandra Dulic;Yujie Gao,13,81.538461538,6.213096177,90.0,68.0,0,0,0,0,0,1,1,2,2,6,1,,,
+UBCO,2020,W,MDST,330,,001,Immersive Environments,Aleksandra Dulic;Megan Smith;Yujie Gao,9,83.888888889,7.025746303,90.0,70.0,0,0,0,0,0,1,0,2,0,3,3,,,
+UBCO,2020,W,VISA,300,O,001,Advanced Practice in Drawing,Aleksandra Dulic;Alison Trim;Michaela Bridgemohan,14,78.642857143,4.162232072,84.0,70.0,0,0,0,0,0,2,0,6,6,0,0,,,
+UBCO,2020,W,VISA,300,P,001,Advanced Practice in Drawing,Aleksandra Dulic;Alison Trim;Michaela Bridgemohan,12,79.333333333,4.396968653,87.0,73.0,0,0,0,0,0,0,2,5,3,2,0,,,
+UBCO,2021,W,MDST,499,,001,Capstone Media Project,Aleksandra Dulic;Megan Smith;Miles Thorogood;Yujie Gao,9,81.555555556,13.436062585,96.0,58.0,0,0,1,0,0,1,2,0,0,0,5,,,
+UBCO,2021,W,VISA,300,Q,001,Advanced Practice in Drawing,Aleksandra Dulic;Patrick Lundeen,15,84.133333333,5.316640543,90.0,72.0,0,0,0,0,0,0,1,1,5,5,3,,,
+UBCO,2021,W,VISA,300,R,001,Advanced Practice in Drawing,Aleksandra Dulic,17,83.176470588,10.125680805,90.0,50.0,0,1,0,0,0,1,0,2,0,8,5,,,
+UBCO,2021,W,VISA,382,Q,001,Advanced Practice in Media Arts,Aleksandra Dulic,18,81.388888889,9.095175766,90.0,50.0,0,1,0,0,0,0,1,2,6,5,3,,,
+UBCO,2021,W,MDST,499,,001,Capstone Media Project,Aleksandra Dulic;Megan Smith,9,81.6,,96.0,58.0,,,,,,,,,,,,90.0,91.0,72.0
+UBCO,2021,W,VISA,300,R,001,Advanced Practice in Drawing,Aleksandra Dulic,17,84.9,,90.0,70.0,,,,,,,,,,8,,85.0,90.0,85.0
+UBCO,2021,W,VISA,382,Q,001,Advanced Practice in Media Arts,Aleksandra Dulic,18,81.4,,90.0,50.0,,,,,,,,,6,,,84.0,85.0,80.0
+UBCO,2022,W,IMTC,507,,001,Immersive Technology Design Studio,Aleksandra Dulic,6,91.3,,95.0,88.0,0,0,0,0,0,0,0,0,0,2,4,91.0,94.3,88.5
+UBCO,2023,W,IGS,501,C,001,Interdisciplinary Topics in Research Methods and Analysis,Aleksandra Dulic,8,88.13,,90.0,85.0,0,0,0,0,0,0,0,0,0,3,5,90.0,90.0,85.0

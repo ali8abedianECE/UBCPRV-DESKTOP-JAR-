@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,ENGR,335,,201,Transportation Engineering,Elis Davanzo;Gordon Lovegrove;Muntahith Orvin;Shivam Khaddar;Suliman Gargoum,82,75.719512195,16.100973355,99.0,8.0,5,1,0,6,5,5,8,13,11,16,12,,,
+UBCO,2021,W,ENGR,432,,001,Infrastructure Management II,Shivam Khaddar;Suliman Gargoum,27,81.740740741,6.507939486,92.0,68.0,0,0,0,0,0,1,4,4,5,8,5,,,
+UBCO,2021,W,ENGR,335,,201,Transportation Engineering,Suliman Gargoum,82,75.7,,99.0,8.0,,,,6,,,8,13,11,16,12,78.0,87.0,70.0
+UBCO,2021,W,ENGR,432,,001,Infrastructure Management II,Suliman Gargoum,27,81.7,,92.0,68.0,,,,,,,,,,8,,80.0,87.0,77.0
+UBCO,2022,W,ENGR,305,,201,Engineering Economic Analysis,Suliman Gargoum,283,72.6,,98.0,43.0,18,0,12,18,35,40,39,36,40,26,19,73.0,80.0,66.0
+UBCO,2022,W,ENGR,432,,001,Infrastructure Management II,Suliman Gargoum,30,80.4,,91.0,68.0,0,0,0,0,0,3,5,4,6,10,2,81.0,85.8,74.8
+UBCO,2022,W,ENGR,534,,001,Road Safety Planning and Engineering,Suliman Gargoum,21,84.7,,94.0,64.0,0,0,0,0,1,1,1,1,3,8,6,87.0,91.0,81.0
+UBCO,2023,W,ENGR,335,,201,Transportation Engineering,Suliman Gargoum,74,76.5,,96.0,45.0,1,3,2,7,4,7,8,6,15,8,13,78.0,85.8,70.0
+UBCO,2023,W,ENGR,432,,001,Infrastructure Management II,Suliman Gargoum,22,76.5,,90.0,29.0,1,0,0,0,3,2,3,2,3,6,2,78.5,86.5,70.5
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,ENGR,534,,001,Road Safety Planning and Engineering,Suliman Gargoum,9,83.9,,94.0,74.0,0,0,0,0,0,0,1,2,2,2,2,83.0,87.0,79.0

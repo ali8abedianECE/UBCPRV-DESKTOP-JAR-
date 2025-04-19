@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,S,SPPH,581,F,DL3,SELECTED TOPICS,"Krausz, Reinhard",4,89,4.76,92,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2012,S,SPPH,581,F,DL3,SELECTED TOPICS,"Krausz, Reinhard",9,89.38,1.69,92,87,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2013,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",11,93.22,2.64,97,89,9,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8
+UBC,2014,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",6,90.8,5.22,98,86,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2015,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",9,90.89,4.46,97,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2016,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",14,89.21,7.67,97,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,9
+UBC,2017,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",11,86.73,7.77,98,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,4
+UBC,2018,S,SPPH,554,,DL3,ADCTN & MNTL HLT,"Krausz, Reinhard",18,93.5,2.04,97,90,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2014,S,SPPH,554,,DL3,Addiction and Mental Health,Reinhard Krausz,5,90.8,5.215361924,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,S,SPPH,554,,DL3,Addiction and Mental Health,Reinhard Krausz,9,90.88888889,4.456580652,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,6
+UBCV,2016,S,SPPH,554,,DL3,Addiction and Mental Health,Mohammadali Nikoo;Reinhard Krausz,14,89.21428571,7.66790084,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,2,9
+UBCV,2017,S,SPPH,554,,DL3,Addiction and Mental Health,Reinhard Krausz,11,86.727272727,7.772913342,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,3,4
+UBCV,2018,S,SPPH,554,,DL3,Addiction and Mental Health,Mohammadali Nikoo;Reinhard Krausz,18,93.5,2.036432867,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18

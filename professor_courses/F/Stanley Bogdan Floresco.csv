@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,PSYC,304,,002,BRAIN & BEHVIOUR,"COURY, ARIANE;Floresco, Stanley Bogdan",121,67.46,12.66,96,25,111,4,6,0,0,0,0,1,3,0,4,13,9,15,10,21,8,10,16,6,3,,,
+UBC,2005,W,PSYC,304,,002,BRAIN & BEHVIOUR,"COURY, ARIANE;Floresco, Stanley Bogdan",130,68.21,12.47,97,0,124,2,4,0,0,1,0,0,0,1,2,12,9,18,15,19,15,11,14,6,5,,,
+UBC,2006,W,PSYC,304,,002,BRAIN & BEHVIOUR,"COURY, ARIANE;Floresco, Stanley Bogdan",124,68.38,13.02,92,34,116,4,4,0,0,0,0,0,1,3,4,15,10,15,9,13,17,6,13,11,7,,,
+UBC,2007,W,PSYC,514,,001,ADV TOPS BIOPSYC,"Floresco, Stanley Bogdan;Rankin, Catharine",9,86.11,5.11,94,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,,,
+UBC,2010,W,PSYC,514,,001,ADV TOPS BIOPSYC,"Floresco, Stanley Bogdan",5,89.4,0.55,90,89,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2014,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Floresco, Stanley Bogdan",76,71.43,12.93,94,38,73,1,2,0,0,0,0,0,1,0,1,6,5,10,8,5,8,5,13,6,7,,,
+UBC,2015,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Floresco, Stanley Bogdan",101,73.42,12.37,94,50,99,0,1,0,0,0,0,0,0,0,0,9,7,5,10,4,12,14,16,13,9,,,
+UBC,2016,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Floresco, Stanley Bogdan",104,72.08,12.76,96,30,100,3,0,0,0,0,0,0,1,2,3,6,4,10,12,13,9,11,16,10,9,,,
+UBC,2017,W,PSYC,304,,002,BRAIN & BEHVIOUR,"Floresco, Stanley Bogdan",174,71.03,16.59,100,21,158,8,8,0,0,0,0,1,7,0,8,13,22,14,10,17,13,6,21,12,30,,,
+UBC,2017,W,PSYC,462,,002,DRG&BEHAV NROSCI,"Floresco, Stanley Bogdan",101,72.02,11.25,90,50,100,0,1,0,0,0,0,0,0,0,0,7,7,8,11,17,9,2,22,15,2,,,
+UBC,2018,W,PSYC,304,,002,BRAIN & BEHVIOUR,"Floresco, Stanley Bogdan",178,70.16,14.04,98,36,158,6,10,0,3,0,0,0,3,3,6,20,14,12,13,15,16,16,24,11,17,,,
+UBC,2018,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Floresco, Stanley Bogdan",105,71.69,13.36,96,35,96,5,4,0,0,0,0,0,3,2,5,3,4,13,11,12,11,8,15,7,12,,,
+UBCV,2014,W,PSYC,304,,002,Brain and Behaviour,Dwayne Hamson;Joshua Larkin;Stanley Bogdan Floresco,158,67.61392405,14.8648796,95.0,33.0,,,,,,,,,,,13,16,17,22,7,12,18,7,20,13,13,,,
+UBCV,2014,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Patrick Piantadosi;Stanley Bogdan Floresco,74,71.43243243,12.931941,94.0,38.0,,,,,,,,,,,1,6,5,10,8,5,8,5,13,6,7,,,
+UBCV,2015,W,PSYC,304,,002,Brain and Behaviour,Aarthi Gobinath;Dwayne Hamson;Patrick Piantadosi;Stanley Bogdan Floresco,165,68.121212121,15.259858021,95.0,25.0,,,,,,,,,,,10,17,20,17,16,8,14,10,26,14,13,,,
+UBCV,2015,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Patrick Piantadosi;Stanley Bogdan Floresco,100,73.43,12.304433791,94.0,50.0,,,,,,,,,,,0,9,7,5,10,4,13,14,16,13,9,,,
+UBCV,2016,W,PSYC,304,,002,Brain and Behaviour,Dwayne Hamson;Michael Barrus;Patrick Piantadosi;Stanley Bogdan Floresco,166,69.78313253,15.07118317,99.0,0.0,,,,,,,,,,,11,10,11,19,17,18,18,9,23,17,13,,,
+UBCV,2016,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Patrick Piantadosi;Stanley Bogdan Floresco,104,71.91346154,12.80784846,96.0,30.0,,,,,,,,,,,3,6,5,10,12,13,9,11,16,10,9,,,
+UBCV,2017,W,PSYC,304,,002,Brain and Behaviour,Nicole Jenni;Nicole Sugden;Rand Mahmoud;Stanley Bogdan Floresco,166,71.030120482,16.5944221,100.0,21.0,,,,,,,,,,,8,13,22,14,10,17,13,6,21,12,30,,,
+UBCV,2017,W,PSYC,462,,002,Drugs and Behavioural Neuroscience,Ryan Tomm;Stanley Bogdan Floresco,100,72.02,11.252815585,90.0,50.0,,,,,,,,,,,0,7,7,8,11,17,9,2,22,15,2,,,
+UBCV,2018,W,PSYC,304,,002,Brain and Behaviour,Jeremy Hosking;Matthew Cooke;Ryan Tomm;Stanley Bogdan Floresco,168,69.904761905,14.140542679,98.0,36.0,,,,,,,,,,,7,20,14,13,13,16,17,16,24,11,17,,,
+UBCV,2018,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Nicole Jenni;Stanley Bogdan Floresco,101,71.693069307,13.363938472,96.0,35.0,,,,,,,,,,,5,3,4,13,11,12,11,8,15,7,12,,,
+UBCV,2019,W,PSYC,304,,002,Brain and Behaviour,Debra Ann Bercovici;Debra Bercovici;Jackson Schumacher;Jeremy Hosking;Stanley Bogdan Floresco,167,73.395209581,14.156593289,100.0,40.0,,,,,,,,,,,1,17,10,17,18,12,15,11,20,19,27,,,
+UBCV,2019,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Nicole Jenni;Stanley Bogdan Floresco,114,74.377192982,15.158974882,100.0,41.0,,,,,,,,,,,1,14,6,9,9,7,6,7,17,15,23,,,
+UBCV,2020,W,ANAT,516,,001,Functional Human Neuroanatomy: Central Nervous System,Arlo Adams;Claudia Krebs;Cristina Rubino;Jeremy Seamans;Stanley Bogdan Floresco;Victor Viau,16,84.6875,6.857781468,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,3,5,5,,,
+UBCV,2020,W,PSYC,304,,002,Brain and Behaviour,Debra Bercovici;Fouziah Khairati;Giulio Laino Chiavegatti;Jeremy Hosking;Stanley Bogdan Floresco,181,79.508287293,10.485237657,100.0,50.0,,,,,,,,,,,0,3,3,8,7,18,21,23,31,36,31,,,
+UBCV,2020,W,PSYC,462,,001,Drugs and Behavioural Neuroscience,Nicole Jenni;Stanley Bogdan Floresco,134,79.656716418,11.812510558,94.0,31.0,,,,,,,,,,,2,2,3,9,5,7,4,12,26,39,25,,,
+UBCV,2021,W,PSYC,304,,002,Brain and Behaviour,Hagar Goldberg;Mudi Zhao;Shayden Schofield-Lewis;Stanley Bogdan Floresco,166,72.5,15.102377898,99.0,20.0,,,,,,,,,,,6,12,12,18,9,22,6,14,25,17,25,,,
+UBCV,2021,W,PSYC,462,,002,Drugs and Behavioural Neuroscience,Ara Norenzayan;Jackson Schumacher;Stanley Bogdan Floresco,141,72.730496454,14.667203177,99.0,20.0,,,,,,,,,,,5,9,10,7,13,19,13,10,19,12,24,,,
+UBCV,2021,W,PSYC,304,,002,Brain and Behaviour,Stanley Bogdan Floresco;Hagar Goldberg,166,72.6,,99.0,20.0,,,,,,,,,,,,,12,18,,,6,,25,,24,73.5,84.5,61.0
+UBCV,2021,W,PSYC,462,,002,Drugs and Behavioural Neuroscience,Stanley Bogdan Floresco,142,72.9,,99.0,20.0,,,,,,,,,,,5,8,10,8,14,16,13,12,20,12,24,74.0,84.5,64.0
+UBCV,2022,W,PSYC,304,,002,Brain and Behaviour,Stanley Bogdan Floresco;Jeremy Hosking,176,77.8,,100.0,30.0,,,,,,,,,,,2,8,5,15,10,17,16,14,20,17,52,80.0,90.3,68.0
+UBCV,2022,W,PSYC,462,,002,Drugs and Behavioural Neuroscience,Stanley Bogdan Floresco,131,72.7,,99.0,29.0,,,,,,,,,,,6,8,6,7,10,14,16,11,20,20,13,75.0,84.0,65.0
+UBCV,2023,W,NRSC,501,,001,Neuroscience II,Steven Barnes;Clare Louise Beasley;Luke Clark;Silke Cresswell;Lauren Emberson;Stanley Bogdan Floresco;Anthony Herdman;Veronica Hirsch-Reinshagen la;William Honer;Hyosub Kim;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Orson Moritz;Haakon Nygaard;Miriam Pai-Spering;Matthew Ramer;Catharine Rankin;Julie Robillard;Jeremy Seamans;Jason Snyder;Nicholas Vaughan Swindale;Anthony Traboulsee;Victor Viau,22,85.68,,95.0,63.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,12,4,87.0,89.0,84.25
+UBCV,2023,W,PSYC,304,,002,Brain and Behaviour,Stanley Bogdan Floresco;Jeremy Hosking,179,80.4,,98.0,50.0,,,,,,,,,,,0,2,4,8,6,15,16,17,31,29,46,81.0,90.0,74.0
+UBCV,2023,W,PSYC,462,,002,Drugs and Behavioural Neuroscience,Stanley Bogdan Floresco,141,76.1,,97.0,50.0,,,,,,,,,,,0,8,8,6,10,15,10,11,22,21,23,78.0,86.0,68.0

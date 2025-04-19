@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",73,69.96,10.13,90,50,72,0,1,0,0,0,0,0,0,0,0,6,7,6,4,15,11,7,13,2,1
+UBC,2002,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",84,69.8,10.13,91,44,79,1,4,0,0,0,0,0,0,1,1,6,7,6,9,13,15,7,11,4,1
+UBC,2002,W,CPSC,532,E,202,TOPIC ARTF INTEL,"Rensink, Ronald",6,87.67,4.18,91,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+UBC,2002,W,PSYC,260,,001,EXPERML PSYC&LAB,"Gorzalka, Boris;Rensink, Ronald",50,72.08,7.7,92,56,48,0,2,0,0,0,0,0,0,0,0,0,2,4,8,9,12,5,3,4,1
+UBC,2003,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",82,72.08,10.97,98,50,80,0,2,0,0,0,0,0,0,0,0,5,11,5,5,8,10,15,12,7,2
+UBC,2003,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald;Rysiew, Patrick;Stemberger, Joseph;Ward, Lawrence",73,71.49,10.29,92,43,68,1,4,0,0,0,0,0,0,1,1,2,7,3,7,13,14,6,8,6,2
+UBC,2003,W,COGS,400,,002,Sp Top Cog Sys,"Rensink, Ronald;Vatikiotis-Bateson, Eric",10,83.6,4.99,91,73,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,1
+UBC,2003,W,PSYC,260,,001,EXPERML PSYC&LAB,"Gorzalka, Boris;Rensink, Ronald",47,72.85,6.37,84,58,46,0,1,0,0,0,0,0,0,0,0,0,1,2,8,8,11,7,9,0,0
+UBC,2005,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald",100,71.26,10,92,48,96,1,3,0,0,0,0,0,0,1,1,3,10,8,12,13,18,9,14,5,4
+UBC,2005,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald",69,70.68,12.31,91,31,62,3,4,0,0,0,0,0,1,2,3,5,4,4,6,8,10,10,9,3,3
+UBC,2005,W,COGS,300,,001,DSGN COG SYSTEMS,"Rensink, Ronald",20,78.58,8.41,91,64,19,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,3,4,4,2
+UBC,2005,W,COGS,300,,002,DSGN COG SYSTEMS,"Rensink, Ronald",39,77.46,8.39,93,56,35,0,4,0,0,0,0,0,0,0,0,0,1,2,0,3,7,7,8,4,3
+UBC,2005,W,PSYC,579,,001,TOP PERCEPTION,"Rensink, Ronald",9,86.44,7.55,97,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,4
+UBC,2007,W,COGS,200,,001,Int Cog Sys,"Rensink, Ronald;Rullmann, Hotze",110,71.13,9.26,96,52,102,0,7,0,1,0,0,0,0,0,0,2,7,13,19,13,18,11,7,10,2
+UBC,2007,W,COGS,200,,002,Int Cog Sys,"Rensink, Ronald;Rullmann, Hotze",48,72.15,10.34,93,44,45,2,1,0,0,0,0,0,0,2,2,1,1,3,6,8,8,7,6,3,2
+UBC,2007,W,COGS,300,,001,DSGN COG SYSTEMS,"Fisher, Justin;Rensink, Ronald",22,75.95,8.85,90,56,21,0,1,0,0,0,0,0,0,0,0,0,1,1,0,5,4,2,4,2,2
+UBC,2009,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",15,79.73,10.88,90,50,15,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,4,3,3
+UBC,2009,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",22,78.77,9.45,95,60,22,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,4,1,5,5,2
+UBC,2010,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",26,75.35,11.75,91,43,25,1,0,0,0,0,0,0,0,1,1,0,2,1,2,1,4,3,6,3,3
+UBC,2010,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",26,76.58,8,96,62,24,0,1,0,1,0,0,0,0,0,0,0,0,1,1,4,5,4,6,1,2
+UBC,2010,W,PSYC,579,,001,TOP PERCEPTION,"Rensink, Ronald",12,86.67,4.03,91,80,9,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2
+UBC,2012,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",25,74.29,10.36,90,52,24,0,0,0,1,0,0,0,0,0,0,1,1,3,1,2,3,3,7,1,2
+UBC,2013,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",38,74.37,12.89,88,20,37,1,0,0,0,0,0,1,0,0,1,1,1,1,4,4,4,4,10,8,0
+UBC,2013,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",27,75.78,6.61,90,57,27,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,7,5,7,1,1
+UBC,2013,W,PSYC,579,,001,TOP PERCEPTION,"Rensink, Ronald",16,86.53,6.38,98,74,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,4
+UBC,2014,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",16,73.73,12.1,93,51,15,0,1,0,0,0,0,0,0,0,0,1,0,2,3,0,3,0,3,1,2
+UBC,2014,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",29,76.62,10.72,92,43,28,1,0,0,0,0,0,0,0,1,1,0,1,2,1,2,2,7,6,5,2
+UBC,2015,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",35,73.31,8.94,91,54,35,0,0,0,0,0,0,0,0,0,0,1,2,2,2,5,9,5,6,2,1
+UBC,2015,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",33,71.69,8.67,85,50,32,0,1,0,0,0,0,0,0,0,0,2,0,5,1,4,10,4,5,1,0
+UBC,2017,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",51,73.12,7.02,87,53,51,0,0,0,0,0,0,0,0,0,0,1,0,5,4,10,11,9,10,1,0
+UBC,2017,W,COGS,303,,002,RES METH COG SYS,"Rensink, Ronald",37,71.27,9.31,90,46,36,1,0,0,0,0,0,0,0,1,1,0,5,0,5,7,6,6,5,1,1
+UBC,2017,W,PSYC,579,,001,TOP PERCEPTION,"Rensink, Ronald",10,87,4.99,95,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,3
+UBC,2018,W,COGS,303,,001,RES METH COG SYS,"Rensink, Ronald",48,71.13,10.84,87,36,47,1,0,0,0,0,0,0,1,0,1,4,1,4,4,6,12,4,9,3,0
+UBC,2018,W,COGS,303,,003,RES METH COG SYS,"Rensink, Ronald",36,72.09,8.69,90,57,35,0,1,0,0,0,0,0,0,0,0,0,2,5,5,3,8,6,3,1,2
+UBCV,2014,W,COGS,303,,001,Research Methods in Cognitive Systems,Ronald Rensink,15,73.73333333,12.09761881,93.0,51.0,,,,,,,,,,,0,,,,,,,0,3,1,
+UBCV,2014,W,COGS,303,,002,Research Methods in Cognitive Systems,Bronwyn Oshust;Frederic Charles Ren;Ronald Rensink,29,76.62068966,10.72185283,92.0,43.0,,,,,,,,,,,,,,,,,,7,6,5,
+UBCV,2015,W,COGS,303,,001,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,35,73.314285714,8.943520259,91.0,54.0,,,,,,,,,,,0,,,2,,5,9,5,6,,
+UBCV,2015,W,COGS,303,,002,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,32,71.6875,8.671188853,85.0,50.0,,,,,,,,,,,0,,,5,,4,10,4,5,,0
+UBCV,2017,W,COGS,303,,001,Research Methods in Cognitive Systems,Adrian Palidis;Ronald Rensink;Vesta Sahatciu,51,73.117647059,7.016115902,87.0,53.0,,,,,,,,,,,0,1,0,5,4,10,11,9,10,1,0
+UBCV,2017,W,COGS,303,,002,Research Methods in Cognitive Systems,Maira Brondizio;Ronald Rensink,37,71.27027027,9.305460311,90.0,46.0,,,,,,,,,,,1,0,5,0,5,7,6,6,5,1,1
+UBCV,2017,W,COGS,303,,003,Research Methods in Cognitive Systems,Charlotte Zimmermann;Madison Ann Elliott;Madison Elliott;Ronald Rensink,23,71.391304348,15.095872797,88.0,19.0,,,,,,,,,,,2,0,1,1,2,1,2,10,1,3,0
+UBCV,2017,W,PSYC,579,,001,Special Topics in Perception,Ronald Rensink,10,87.0,4.988876516,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,3
+UBCV,2018,W,COGS,303,,001,Research Methods in Cognitive Systems,Ronald Rensink;Tiara Allidina,48,71.125,10.836551622,87.0,36.0,,,,,,,,,,,1,4,1,4,4,6,12,4,9,3,0
+UBCV,2018,W,COGS,303,,002,Research Methods in Cognitive Systems,Jessica Ip;Madison Ann Elliott;Madison Elliott;Ronald Rensink,39,70.846153846,14.441421532,87.0,0.0,,,,,,,,,,,1,2,2,0,6,6,3,12,5,2,0
+UBCV,2018,W,COGS,303,,003,Research Methods in Cognitive Systems,Jacob Mcfarlane;Ronald Rensink,35,72.085714286,8.688638384,90.0,57.0,,,,,,,,,,,0,0,2,5,5,3,8,6,3,1,2
+UBCV,2019,W,COGS,303,,001,Research Methods in Cognitive Systems,Jacob Mcfarlane;Ronald Rensink,44,72.681818182,7.864470376,84.0,56.0,,,,,,,,,,,0,0,2,5,4,7,8,7,11,0,0
+UBCV,2019,W,COGS,303,,003,Research Methods in Cognitive Systems,Misha Afzaal;Ronald Rensink,50,77.36,6.681561592,90.0,55.0,,,,,,,,,,,0,0,1,1,2,5,7,9,22,2,1
+UBCV,2020,W,COGS,303,,001,Research Methods in Cognitive Systems,Misha Afzaal;Ronald Rensink;Xinyang Liu,44,79.159090909,9.286006431,90.0,46.0,,,,,,,,,,,1,0,0,3,2,3,2,4,14,11,4
+UBCV,2020,W,COGS,303,,003,Research Methods in Cognitive Systems,Amy Lu;Naeema Al-Mridha;Ronald Rensink,45,76.888888889,11.271892279,90.0,45.0,,,,,,,,,,,1,1,4,3,0,0,3,4,20,7,2
+UBCV,2021,W,COGS,303,,001,Research Methods in Cognitive Systems,Ankita Guha Patra;Daniel Saunders;Gale Chen;Grace Shaw;Ronald Rensink,45,80.488888889,21.243846406,98.0,5.0,,,,,,,,,,,4,0,0,1,1,0,2,1,8,13,15
+UBCV,2021,W,COGS,303,,003,Research Methods in Cognitive Systems,Daniel Saunders;Ronald Rensink;Sara Niasati,39,82.0,11.594009342,97.0,52.0,,,,,,,,,,,0,1,2,0,2,1,3,3,8,6,13

@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,LIBE,477,B,63A,SP TPCS TCH LIBR,"Mueller, Aaron",11,85.64,6.65,95,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,3
+UBC,2012,W,LIBE,477,B,63C,SP TPCS TCH LIBR,"Mueller, Aaron",8,82.88,8.98,89,63,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,5,0
+UBC,2013,W,LIBE,477,B,63C,SP TPCS TCH LIBR,"Mueller, Aaron",15,84.47,5.18,91,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,3,4
+UBC,2014,W,LIBE,477,B,63C,SP TPCS TCH LIBR,"Mueller, Aaron",21,84.95,5.79,98,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,7,3
+UBC,2015,W,LIBE,467,,63C,INFO SERVICES I,"Mueller, Aaron",18,90.22,3.69,96,81,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,11
+UBC,2015,W,LIBE,477,B,63A,SP TPCS TCH LIBR,"Mueller, Aaron",23,88.43,5.12,95,76,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,10
+UBC,2016,W,LIBE,467,,63C,INFO SERVICES I,"Mueller, Aaron",31,88.57,6.87,98,64,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,6,18
+UBC,2016,W,LIBE,477,B,63A,SP TPCS TCH LIBR,"Mueller, Aaron",27,89.33,4.64,98,78,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,10,14
+UBC,2017,W,LIBE,467,,63C,INFO SERVICES I,"Mueller, Aaron",35,87.91,6.63,99,75,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,10,15
+UBC,2017,W,LIBE,477,B,63A,SP TPCS TCH LIBR,"Mueller, Aaron",34,86.42,6.64,97,71,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,6,8,14
+UBC,2018,S,LIBE,477,B,96A,SP TPCS TCH LIBR,"Mueller, Aaron",35,86.79,5.72,96,73,34,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,13,11
+UBC,2018,W,LIBE,467,,63C,INFO SERVICES I,"Mueller, Aaron",30,89.69,4.87,99,81,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,16
+UBC,2018,W,LIBE,477,B,63A,SP TPCS TCH LIBR,"Mueller, Aaron",21,89.63,6.23,96,74,19,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,13
+UBCV,2014,W,LIBE,477,B,63C,Special Topics in Teacher Librarianship,Aaron Mueller,21,84.95238095,5.79203065,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,6,7,
+UBCV,2015,W,LIBE,467,,63C,Information Services I,Aaron Mueller,18,90.222222222,3.687108792,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,11
+UBCV,2015,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller,23,88.434782609,5.115272027,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,9,10
+UBCV,2016,W,LIBE,467,,63C,Information Services I,Aaron Mueller,30,88.56666667,6.871647563,98.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,1,4,6,18
+UBCV,2016,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller,27,89.33333333,4.640954809,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,10,14
+UBCV,2017,W,LIBE,467,,63C,Information Services I,Aaron Mueller,35,87.914285714,6.630461915,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,2,6,10,15
+UBCV,2017,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller,33,86.424242424,6.638101682,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,1,6,8,14
+UBCV,2018,S,LIBE,477,B,96A,Special Topics in Teacher Librarianship,Aaron Mueller,34,86.794117647,5.719606957,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,4,5,13,11
+UBCV,2018,W,LIBE,467,,63C,Information Services I,Aaron Mueller,29,89.689655172,4.870490209,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,8,16
+UBCV,2018,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller,20,89.55,6.073887163,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,4,13
+UBCV,2019,W,LIBE,467,,63C,Information Services I,Aaron Mueller,22,90.318181818,4.612471331,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,10
+UBCV,2019,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller,29,89.482758621,4.975803522,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,4,17
+UBCV,2020,W,LIBE,467,,63A,Information Services I,Aaron Mueller;Richard Beaudry,21,90.619047619,4.769446409,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,13
+UBCV,2020,W,LIBE,467,,63C,Information Services I,Aaron Mueller;Kristie Oxley,14,88.428571429,6.18576885,99.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,5
+UBCV,2020,W,LIBE,477,B,63A,Special Topics in Teacher Librarianship,Aaron Mueller;Darcy Leigh Mcnee;Darcy Mcnee,19,94.263157895,4.723959089,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,16
+UBCV,2020,W,LIBE,477,B,63C,Special Topics in Teacher Librarianship,Aaron Mueller;Darcy Leigh Mcnee;Darcy Mcnee,16,92.9375,5.732582315,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,12
+UBCV,2021,W,LIBE,477,B,63C,Special Topics in Teacher Librarianship,Aaron Mueller;Darcy Mcnee,21,88.666666667,7.989576543,100.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,2,12

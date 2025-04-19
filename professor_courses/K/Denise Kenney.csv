@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,FILM,100,,001,Introduction to Film Studies,Denise Kenney;Karen Meyer,83,65.4939759,21.3338009,93.0,0.0,11,7,10,6,2,9,9,7,8,7,7,,,
+UBCO,2014,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney,19,75.68421053,10.40327209,92.0,50.0,0,,,,,,,,7,2,,,,
+UBCO,2014,W,THTR,201,,001,Acting II: Actor/Creator Resources,Denise Kenney,11,77.72727273,11.93390891,88.0,52.0,0,,,,,,,,5,,0,,,
+UBCO,2014,W,THTR,401,,001,Live Art/New Media,Denise Kenney,16,82.5625,4.049176871,88.0,76.0,0,0,0,0,0,0,0,5,5,6,0,,,
+UBCO,2014,W,THTR,482,,001,Advanced Performance Practices I,Denise Kenney,8,82.5,4.566962104,87.0,74.0,0,0,0,0,0,0,,,,,0,,,
+UBCO,2016,W,CRWR,382,O,001,Topics in Creative Writing,Denise Kenney,15,83.06666667,3.899938949,87.0,74.0,0,0,0,0,0,0,1,2,4,8,0,,,
+UBCO,2016,W,FILM,100,,001,Introduction to Film Studies,Denise Kenney;Trystan Carter,40,66.375,17.03644284,89.0,0.0,4,1,1,8,2,8,4,6,4,2,0,,,
+UBCO,2016,W,THTR,101,,002,Acting I: Improvisation - The Body in Performance,Denise Kenney,22,78.59090909,8.116174861,88.0,56.0,0,0,1,1,0,2,3,1,9,5,0,,,
+UBCO,2016,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney,24,77.5,7.824154351,87.0,53.0,0,1,0,0,1,2,4,4,8,4,0,,,
+UBCO,2016,W,THTR,303,,001,Narrative Film Production,Denise Kenney,9,81.44444444,7.535103037,86.0,62.0,0,0,0,1,0,0,0,0,5,3,0,,,
+UBCO,2017,W,CCS,506,,001,M.F.A. Graduate Colloquium I,Denise Kenney,8,86.125,0.991031209,88.0,85.0,0,0,0,0,0,0,0,0,0,8,0,,,
+UBCO,2017,W,FILM,100,,001,Introduction to Film Studies,Denise Kenney;Jennifer Furlong,49,68.591836735,18.381283922,89.0,3.0,6,2,3,2,0,5,8,10,8,5,0,,,
+UBCO,2017,W,THTR,201,,001,Acting II: Actor/Creator Resources,Denise Kenney,8,70.75,20.727828086,85.0,27.0,1,1,0,0,0,0,1,0,4,1,0,,,
+UBCO,2017,W,THTR,280,A,001,Devised Public Performance,Denise Kenney;Neil Cadger;Tracy Ross,12,77.916666667,17.228192188,88.0,25.0,1,0,0,0,0,0,0,4,2,5,0,,,
+UBCO,2017,W,THTR,480,B,001,Special Topics in Performance Creation,Denise Kenney;Neil Cadger,9,86.111111111,3.919325339,90.0,78.0,0,0,0,0,0,0,0,1,2,4,2,,,
+UBCO,2017,W,VISA,371,,001,Digital Documentary Production,Denise Kenney,16,76.375,19.424640709,87.0,8.0,1,0,0,0,1,1,1,0,6,6,0,,,
+UBCO,2018,W,CRWR,384,,001,Spoken Word,Denise Kenney,7,79.428571429,10.357881747,87.0,57.0,0,0,1,0,0,0,0,1,3,2,0,,,
+UBCO,2018,W,FILM,100,,001,Introduction to Film Studies,Denise Kenney;Tracy Ross,40,67.65,17.420221083,92.0,8.0,4,4,0,4,5,5,4,5,4,4,1,,,
+UBCO,2018,W,FILM,103,,001,Acting for Stage and Screen,Denise Kenney,10,77.6,8.682037651,85.0,56.0,0,0,1,0,0,1,0,3,4,1,0,,,
+UBCO,2018,W,FILM,371,,001,Digital Documentary Production,Denise Kenney,8,84.125,2.531938839,88.0,81.0,0,0,0,0,0,0,0,0,4,4,0,,,
+UBCO,2018,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney;Robert Ornellas,13,81.769230769,6.326582097,88.0,65.0,0,0,0,0,1,0,1,0,7,4,0,,,
+UBCO,2019,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Tania Willard,8,86.125,2.295181288,88.0,82.0,0,0,0,0,0,0,0,0,2,6,0,,,
+UBCO,2019,W,CRWR,474,,001,Writing with Media,Denise Kenney;Michael Smith,13,83.384615385,4.073050895,87.0,71.0,0,0,0,0,0,1,0,0,8,4,0,,,
+UBCO,2019,W,FILM,100,,001,Introduction to Film Studies,Denise Kenney;Samantha Woods;William Alexander Giroux;William Giroux,67,69.074626866,16.290277294,92.0,0.0,3,3,7,4,7,6,16,6,8,4,3,,,
+UBCO,2019,W,FILM,103,,101,Acting for Stage and Screen,Benjamin Gorodetsky;Denise Kenney,6,91.0,2.19089023,95.0,89.0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCO,2019,W,THTR,103,,101,Acting for Stage and Screen,Benjamin Gorodetsky;Denise Kenney,17,78.235294118,16.928265607,94.0,40.0,1,1,1,0,2,0,1,0,2,5,4,,,
+UBCO,2019,W,THTR,401,,001,Live Art/New Media,Denise Kenney,7,78.285714286,9.911513267,84.0,56.0,0,0,1,0,0,0,0,0,6,0,0,,,
+UBCO,2020,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Samuel Roy-Bois;Tania Willard,9,88.111111111,1.269295518,91.0,87.0,0,0,0,0,0,0,0,0,0,8,1,,,
+UBCO,2020,W,FILM,103,,101,Acting for Stage and Screen,Denise Kenney;Tracy Ross,12,82.083333333,12.943642408,96.0,55.0,0,0,1,1,0,0,2,0,2,2,4,,,
+UBCO,2020,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney;Sage Cannon;Tracy Ross,14,81.5,19.146198659,97.0,23.0,1,0,0,1,0,0,1,0,2,5,4,,,
+UBCO,2021,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Tania Willard,9,89.777777778,1.201850425,92.0,88.0,0,0,0,0,0,0,0,0,0,4,5,,,
+UBCO,2023,W,FILM,103,,001,Acting for Stage and Screen,Denise Kenney,10,83.2,,92.0,74.0,0,0,0,0,0,0,1,1,4,3,1,84.0,85.75,80.5
+UBCO,2023,W,FILM,303,,001,Narrative Film Production,Denise Kenney,8,87.5,,91.0,81.0,0,0,0,0,0,0,0,0,1,4,3,88.0,90.0,86.5
+UBCO,2023,W,SUST,204,,001,Creative Communication and Engagement,Denise Kenney,26,83.1,,88.0,72.0,0,0,0,0,0,0,2,1,11,11,0,84.0,85.0,82.0
+UBCO,2023,W,THTR,103,,001,Acting for Stage and Screen,Denise Kenney,13,82.23,,89.0,75.0,0,0,0,0,0,0,2,1,5,5,0,82.0,85.0,81.0
+UBCO,2023,W,THTR,212,,001,Creativity as Source & Resource,Denise Kenney,21,81.1,,90.0,64.0,0,0,0,0,1,0,3,4,4,8,1,83.0,86.0,76.0
+UBCO,2023,W,THTR,303,,001,Narrative Film Production,Denise Kenney,11,83.4,,92.0,67.0,0,0,0,0,1,0,0,1,2,5,1,85.5,87.75,81.0

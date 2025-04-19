@@ -1,0 +1,85 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,CHEM,202,,103,COORDINAT'N CHEM,"Gates, Derek;Storr, Alan",139,68.93,12.05,93,32,125,12,2,0,0,0,0,0,3,9,12,1,12,12,16,21,20,11,22,7,3,,,
+UBC,2002,W,CHEM,202,,108,COORDINAT'N CHEM,"Gates, Derek;Storr, Alan",167,62.99,14.04,90,6,133,31,3,0,0,1,0,2,5,23,31,3,26,14,17,27,22,3,13,6,2,,,
+UBC,2002,W,CHEM,310,,210,CHEM ELEMENTS,"Gates, Derek;Wolf, Michael",79,67.69,10.66,88,38,74,4,0,0,1,0,0,0,1,3,4,5,7,9,12,7,14,7,12,1,0,,,
+UBC,2002,W,CHEM,427,,110,CHEM MATERIALS,"Gates, Derek;MacLachlan, Mark",7,78.57,3.82,83,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,0,,,
+UBC,2002,W,CHEM,521,A,199,TOP INORGAN CHEM,"Gates, Derek;Schafer, Laurel",5,85.4,5.9,92,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,,,
+UBC,2002,W,CHEM,527,,110,MATERIALS CHEM,"Gates, Derek;MacLachlan, Mark",13,87.17,2.93,91,83,6,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,,,
+UBC,2003,W,CHEM,202,,103,COORDINAT'N CHEM,"Gates, Derek;Storr, Alan",146,69.11,12.85,97,32,127,15,4,0,0,0,0,0,1,14,15,3,7,18,15,20,14,13,27,3,7,,,
+UBC,2003,W,CHEM,202,,108,COORDINAT'N CHEM,"Gates, Derek;Storr, Alan",176,68.67,14.49,99,16,147,24,4,0,1,0,1,0,2,21,24,2,15,15,12,20,20,17,23,17,6,,,
+UBC,2003,W,CHEM,310,,210,CHEM ELEMENTS,"Fryzuk, Michael;Gates, Derek",85,67.71,11.46,94,45,80,4,0,0,1,0,0,0,0,4,4,4,12,13,9,14,4,6,13,2,3,,,
+UBC,2003,W,CHEM,521,A,199,TOP INORGAN CHEM,"Gates, Derek;Schafer, Laurel",8,82.88,6.38,93,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,1,,,
+UBC,2005,W,CHEM,121,,199,STRUCTURAL CHEM,"Gates, Derek",221,64.48,13.92,94,33,167,47,4,0,3,0,0,0,5,42,47,2,17,21,25,34,21,13,21,5,8,,,
+UBC,2005,W,CHEM,310,,210,CHEM ELEMENTS,"Gates, Derek;Legzdins, Peter",71,68.74,11.09,92,27,65,4,2,0,0,0,0,1,0,3,4,2,4,10,7,9,13,7,10,2,1,,,
+UBC,2006,W,CHEM,121,,110,STRUCTURAL CHEM,"Gates, Derek",220,64.08,15.71,94,22,160,56,1,0,3,0,0,3,7,46,56,3,15,23,15,30,25,4,28,7,10,,,
+UBC,2006,W,CHEM,121,,111,STRUCTURAL CHEM,"Gates, Derek",214,68.96,14.45,100,30,179,31,3,0,1,0,0,0,4,27,31,3,9,21,15,33,27,18,27,8,18,,,
+UBC,2007,W,CHEM,121,,101,STRUCTURAL CHEM,"Gates, Derek",168,79.33,10.82,99,40,163,3,1,0,1,0,0,0,0,3,3,1,2,7,4,19,22,10,39,25,34,,,
+UBC,2007,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",22,79.86,9.74,98,62,22,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,2,4,5,3,,,
+UBC,2009,W,CHEM,121,,101,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya",167,77.4,12.91,98,34,161,6,0,0,0,0,0,0,1,5,6,1,6,12,12,21,13,8,28,22,38,,,
+UBC,2009,W,CHEM,121,,102,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;Thachuk, Mark",226,67.37,12.66,94,37,193,28,4,0,1,0,0,0,2,26,28,3,19,33,14,38,20,22,22,16,6,,,
+UBC,2009,W,CHEM,121,,103,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;Stewart, Jaclyn",234,67.17,13.27,92,28,195,34,3,0,2,0,0,1,6,27,34,0,18,20,24,38,31,19,30,9,6,,,
+UBC,2009,W,CHEM,121,,110,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;McIntosh, Lawrence",236,72.33,13.38,95,31,211,22,3,0,0,0,0,0,5,17,22,2,10,14,17,30,26,26,47,23,16,,,
+UBC,2009,W,CHEM,121,,111,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya",234,75.16,13.03,100,32,215,14,4,0,1,0,0,0,3,11,14,2,7,14,12,31,27,21,39,27,35,,,
+UBC,2009,W,CHEM,121,,122,STRUCTURAL CHEM,"Burtnick, Leslie D;Gates, Derek;Lekhi, Priya",218,67.46,14.32,98,28,179,35,3,0,1,0,0,2,6,27,35,1,13,20,15,35,30,20,25,10,10,,,
+UBC,2009,W,CHEM,121,,133,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya",201,64.21,15.26,96,17,152,42,4,0,3,0,1,3,2,36,42,8,16,20,16,30,11,16,18,10,7,,,
+UBC,2009,W,CHEM,121,,188,STRUCTURAL CHEM,"Burtnick, Leslie D;Gates, Derek;Lekhi, Priya",218,65.72,15.4,100,16,171,38,6,1,2,0,1,2,5,30,38,5,22,17,21,28,25,10,20,11,12,,,
+UBC,2009,W,CHEM,121,,199,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;Mehrkhodavandi, Parisa",224,67.69,14.05,100,20,190,31,1,0,2,0,0,1,3,27,31,7,17,20,19,39,21,11,32,14,10,,,
+UBC,2010,W,CHEM,121,,101,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;Wolf, Michael",164,78.59,11.66,96,34,155,5,3,0,1,0,0,0,1,4,5,2,4,5,7,14,20,7,39,24,33,,,
+UBC,2010,W,CHEM,121,,102,STRUCTURAL CHEM,"Chou, Keng Chang;Gates, Derek;Krems, Roman;Lekhi, Priya",215,69.51,13.44,96,21,191,22,2,0,0,0,0,2,3,17,22,2,15,22,14,36,25,26,29,13,9,,,
+UBC,2010,W,CHEM,121,,103,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya;MacLachlan, Mark",211,70.62,14.88,97,12,179,27,4,0,1,0,1,2,3,21,27,3,9,14,10,26,30,16,44,13,14,,,
+UBC,2010,W,CHEM,121,,110,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya",219,74.67,11.77,99,44,201,11,4,0,3,0,0,0,0,11,11,2,11,11,13,23,26,29,42,29,15,,,
+UBC,2010,W,CHEM,121,,111,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya",220,76.25,13.86,96,23,202,14,4,0,0,0,0,1,2,11,14,2,8,14,13,14,18,25,49,17,42,,,
+UBC,2010,W,CHEM,121,,122,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya",217,69.08,11.89,94,34,191,18,8,0,0,0,0,0,2,16,18,2,17,25,21,34,27,15,37,5,8,,,
+UBC,2010,W,CHEM,121,,133,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Kunz, Tamara;Lekhi, Priya",180,65.57,13.43,97,27,140,26,11,0,3,0,0,1,2,23,26,4,22,24,10,20,14,20,15,6,5,,,
+UBC,2010,W,CHEM,121,,188,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Kunz, Tamara;Lekhi, Priya",204,65.3,16.08,100,15,156,45,2,0,1,0,1,2,6,36,45,1,24,13,18,22,18,16,24,9,11,,,
+UBC,2010,W,CHEM,121,,199,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Lekhi, Priya;McIntosh, Lawrence",203,69.26,14.17,97,22,171,24,7,0,1,0,0,2,3,19,24,0,20,15,10,34,23,18,25,11,15,,,
+UBC,2011,W,CHEM,202,,112,COORDINAT'N CHEM,"Gates, Derek",151,70.8,12.37,96,30,135,12,2,0,2,0,0,0,3,9,12,0,10,12,15,21,21,18,26,6,6,,,
+UBC,2011,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek;Kizhakkedathu, Jayachandran",28,77.16,10.27,92,53,25,0,1,2,0,0,0,0,0,0,0,3,0,0,0,2,3,2,12,2,1,,,
+UBC,2012,W,CHEM,202,,112,COORDINAT'N CHEM,"Gates, Derek",143,69.53,12.87,93,0,130,12,1,0,0,1,0,0,3,8,12,0,5,13,24,21,21,13,23,8,2,,,
+UBC,2013,W,CHEM,202,,112,COORDINAT'N CHEM,"Gates, Derek",158,69.56,12.46,94,40,132,18,8,0,0,0,0,0,0,18,18,0,11,9,11,29,25,11,20,9,7,,,
+UBC,2013,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",34,72.73,10.62,91,51,33,0,0,1,0,0,0,0,0,0,0,2,1,2,6,2,6,2,8,1,3,,,
+UBC,2014,W,CHEM,202,,112,COORDINAT'N CHEM,"Gates, Derek",114,68.14,14.54,94,24,96,15,2,0,1,0,0,1,1,13,15,0,12,13,10,12,10,11,12,9,7,,,
+UBC,2014,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",33,73.37,14.77,93,34,28,2,1,1,1,0,0,0,2,0,2,1,1,1,2,6,2,4,2,4,5,,,
+UBC,2014,W,CHEM,540,C,036,SEMINAR IN CHEM,"Gates, Derek",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,CHEM,111,,112,STR BND EQU CHEM,"Gates, Derek",254,63.97,15.48,97,17,186,59,4,0,5,0,1,0,9,49,59,1,32,20,24,31,17,7,31,11,12,,,
+UBC,2015,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",27,79,10.25,93,50,25,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,3,2,9,7,1,,,
+UBC,2016,W,CHEM,111,,112,STR BND EQU CHEM,"Gates, Derek",255,63.16,14.22,99,30,191,50,9,0,5,0,0,0,9,41,50,11,32,27,24,27,23,14,17,8,8,,,
+UBC,2016,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",38,73.59,12.74,95,39,32,2,0,4,0,0,0,0,1,1,2,0,2,3,2,4,5,3,8,2,3,,,
+UBC,2017,W,CHEM,111,,112,STR BND EQU CHEM,"Gates, Derek",247,61.26,14.17,98,23,163,54,25,0,4,0,0,2,9,43,54,11,33,23,12,31,15,10,15,10,3,,,
+UBC,2017,W,CHEM,406,,109,POLYMER CHEM,"Gates, Derek",49,69.98,12.22,92,37,42,2,2,2,0,0,0,0,1,1,2,2,2,9,2,6,3,5,9,2,2,,,
+UBCV,2014,W,CHEM,202,,112,Coordination Chemistry,Derek Gates,112,67.73214286,15.11575882,94.0,22.0,,,,,,,,,,,16,0,12,13,10,12,10,11,12,9,7,,,
+UBCV,2014,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,31,71.64516129,17.40219984,93.0,20.0,,,,,,,,,,,,,,,,6,,,,,5,,,
+UBCV,2015,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Valerie Chiykowski;Vishakha Monga,250,62.972,16.857637312,97.0,8.0,,,,,,,,,,,64,1,32,20,24,31,17,7,31,11,12,,,
+UBCV,2015,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,26,76.769230769,15.171836256,93.0,21.0,,,,,,,,,,,,,,,,,,,9,7,,,,
+UBCV,2016,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Jaclyn Stewart;Valerie Chiykowski,246,62.18292683,15.70529201,99.0,0.0,,,,,,,,,,,55,11,32,27,24,27,23,14,17,8,8,,,
+UBCV,2016,W,CHEM,121,,111,Structure and Bonding in Chemistry,Derek Gates;Kayli Johnson;Lawrence Mcintosh,227,70.51982379,14.32163114,96.0,23.0,,,,,,,,,,,23,3,20,17,25,30,19,11,41,21,17,,,
+UBCV,2016,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,34,73.58823529,12.73534249,95.0,39.0,,,,,,,,,,,2,0,2,3,2,4,5,3,8,2,3,,,
+UBCV,2017,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Valerie Chiykowski,222,60.468468468,15.034391837,98.0,16.0,,,,,,,,,,,59,11,33,23,12,31,15,10,15,10,3,,,
+UBCV,2017,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,45,69.977777778,12.07644004,92.0,37.0,,,,,,,,,,,2,2,2,9,2,7,3,5,9,2,2,,,
+UBCV,2018,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Kayli Johnson;Valerie Chiykowski,169,69.840236686,13.872868002,98.0,18.0,,,,,,,,,,,15,3,14,14,11,33,16,17,24,11,11,,,
+UBCV,2019,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,26,71.692307692,11.709036615,94.0,50.0,,,,,,,,,,,0,2,1,4,4,1,5,0,6,1,2,,,
+UBCV,2019,W,CHEM,449,,002,Seminar and Thesis,Christopher E Orvig;Dan Bizzotto;David Perrin;Derek Gates;Glenn Sammis;Harry Brumer;Jason Hein;Jayachandran Kizhakkedathu;Jose Rodriguez Nunez;Laurel Schafer;Marco Ciufolini;Mark Thachuk;Michael Wolf;Parisa Mehrkhodavandi;Robin Turner;Roman Krems;Suzana Straus;Tao Huan;Walter Algar;William Andrew Macfarlane;Yan Wang,21,87.80952381,5.372327686,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,7,10,,,
+UBCV,2019,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,11,78.545454545,10.699192833,90.0,55.0,,,,,,,,,,,0,0,,1,,,1,,4,3,1,,,
+UBCV,2020,W,CHEM,120,,102,Structure and Bonding in Chemistry (Lecture),Alyssa Henderson;Aoxue Huang;Arthur Fink;Derek Gates;Diana Kim;Erin Lindenberg;Evelande Gedeon;Hamid Gaikani;Haoquan Lin;Hassan Baalbaki;Qian Liu;Ruijie Yang;Siyu Miao;Tengxiao Ji;Yingyue Zhang,212,70.721698113,16.032044361,98.0,1.0,,,,,,,,,,,15,11,14,25,12,23,26,12,34,16,24,,,
+UBCV,2020,W,CHEM,121,,102,Structure and Bonding in Chemistry,Alyssa Henderson;Aoxue Huang;Arthur Fink;Derek Gates;Diana Kim;Erin Lindenberg;Evelande Gedeon;Hamid Gaikani;Haoquan Lin;Hassan Baalbaki;Qian Liu;Ruijie Yang;Siyu Miao;Tengxiao Ji;Yingyue Zhang,12,65.5,11.797534411,80.0,45.0,,,,,,,,,,,2,0,1,2,0,2,3,1,1,0,0,,,
+UBCV,2020,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,25,78.84,6.555404895,91.0,65.0,,,,,,,,,,,0,0,0,0,1,2,5,5,5,5,2,,,
+UBCV,2020,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,9,81.333333333,4.183300133,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,0,1,,,
+UBCV,2021,W,CHEM,121,,102,Structure and Bonding in Chemistry,Bridget Henson;Derek Gates;Jose Rodriguez Nunez;Laura Stirchak,225,71.853333333,15.554076177,95.0,1.0,,,,,,,,,,,22,0,14,24,9,23,27,25,30,23,28,,,
+UBCV,2021,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,20,71.35,14.492375491,90.0,38.0,,,,,,,,,,,1,2,2,0,2,2,3,0,3,3,2,,,
+UBCV,2021,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,19,81.368421053,8.407738012,94.0,61.0,,,,,,,,,,,0,0,0,,,2,2,,3,9,2,,,
+UBCV,2021,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,20,71.4,,90.0,38.0,,,,,,,,,,,,,,,,,,,,,,72.5,83.5,62.3
+UBCV,2021,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,19,81.4,,94.0,61.0,,,,,,,,,,,,,,,,,,,,9,,85.0,86.0,76.5
+UBCV,2022,W,CHEM,121,,102,Structure and Bonding in Chemistry,Derek Gates;Laura Stirchak,206,73.4,,96.0,7.0,,,,,,,,,,,19,1,7,10,23,20,15,25,35,27,24,76.0,84.0,66.0
+UBCV,2022,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,16,73.1,,86.0,60.0,,,,,,,,,,,0,0,0,3,1,3,2,3,2,2,0,74.5,77.8,67.5
+UBCV,2022,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,9,82.0,,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,4,0,3,81.0,90.0,80.0
+UBCV,2023,W,CHEM,121,,101,Structure and Bonding in Chemistry,Derek Gates;Nigare Raheem;Laura Stirchak,126,63.2,,92.0,11.0,,,,,,,,,,,22,3,9,26,20,8,10,9,7,5,5,64.0,73.0,58.0
+UBCV,2023,W,CHEM,121,,102,Structure and Bonding in Chemistry,Derek Gates;Laura Stirchak,209,69.2,,94.0,23.0,,,,,,,,,,,24,2,13,16,19,34,28,16,30,13,10,71.0,80.0,61.0
+UBCV,2023,W,CHEM,121,,103,Structure and Bonding in Chemistry,Derek Gates;Nigare Raheem;Laura Stirchak,184,71.0,,94.0,15.0,,,,,,,,,,,14,0,12,16,17,23,29,19,21,19,12,72.0,81.0,65.0
+UBCV,2023,W,CHEM,121,,110,Structure and Bonding in Chemistry,Derek Gates;Priya Lekhi;Laura Stirchak,213,74.8,,97.0,27.0,,,,,,,,,,,12,0,8,20,16,16,23,14,50,27,23,77.0,84.0,66.0
+UBCV,2023,W,CHEM,121,,111,Structure and Bonding in Chemistry,Derek Gates;Laura Stirchak,224,72.8,,94.0,0.0,,,,,,,,,,,18,2,13,14,17,26,20,26,39,24,24,76.0,82.0,65.0
+UBCV,2023,W,CHEM,121,,122,Structure and Bonding in Chemistry,Derek Gates;Laura Stirchak,201,71.1,,97.0,20.0,,,,,,,,,,,18,1,10,15,22,24,17,23,27,22,11,72.5,81.8,64.0
+UBCV,2023,W,CHEM,121,,133,Structure and Bonding in Chemistry,Derek Gates;Laura Stirchak,176,66.9,,93.0,17.0,,,,,,,,,,,22,1,19,22,15,21,20,14,20,9,6,68.0,76.0,60.0
+UBCV,2023,W,CHEM,121,,188,Structure and Bonding in Chemistry,Nadine Borduas-Dedekind;Derek Gates;Laura Stirchak,153,66.8,,96.0,17.0,,,,,,,,,,,22,1,13,15,19,12,26,12,17,9,4,69.0,76.0,60.0
+UBCV,2023,W,CHEM,121,,199,Structure and Bonding in Chemistry,Nadine Borduas-Dedekind;Derek Gates;Laura Stirchak,192,72.7,,95.0,41.0,,,,,,,,,,,18,1,6,15,11,23,25,20,30,22,17,74.0,82.0,65.0
+UBCV,2023,W,CHEM,406,,101,Polymer Chemistry,Derek Gates,21,69.4,,83.0,0.0,,,,,,,,,,,1,0,2,1,1,2,5,4,5,0,0,74.0,78.0,68.0
+UBCV,2023,W,CHEM,506,,101,Polymer Chemistry,Derek Gates,10,77.2,,90.0,62.0,,,,,,,,,,,0,0,0,1,0,1,2,1,1,2,1,77.0,85.0,72.0

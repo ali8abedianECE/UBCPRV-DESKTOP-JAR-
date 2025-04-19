@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,PHIL,211,,001,Greek Philosophy I: Socrates and Plato,Cristian Trout;Livia Graf;Michael Griffin,54,77.87037037,16.445503252,92.0,0.0,2,0,0,2,3,3,1,9,16,13,5
+UBCV,2019,W,PHIL,230,,002,Introduction to Ethics,Bruno Guindon;Irwin Chan;Livia Graf;Scott Allen Anderson;Yu Shing Chan,72,75.986111111,9.855995609,89.0,0.0,1,0,0,0,0,5,18,32,14,2,0
+UBCV,2020,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Chase Dority;Livia Graf,89,77.483146067,14.802573762,95.0,2.0,3,2,2,3,6,3,9,14,15,18,14
+UBCV,2020,W,PHIL,310,,001,The Philosophy of Plato,Brooks Sommerville;Livia Graf,84,77.821428571,7.162756275,92.0,49.0,1,0,0,2,1,9,21,15,19,14,2
+UBCV,2020,W,PHIL,311,,001,The Philosophy of Aristotle,Brooks Sommerville;Livia Graf;Michael Griffin,52,76.269230769,15.921517546,91.0,0.0,2,0,0,0,0,4,9,14,13,8,2
+UBCV,2020,W,PHIL,414,,001,Topics in the History of Modern Philosophy,Anders Kraal;Livia Graf,22,78.136363636,14.999350635,97.0,18.0,1,0,0,0,0,0,4,8,4,2,3
+UBCV,2021,W,CLST,211,,001,Greek Philosophy I,Alexa White;Livia Graf;Michael Griffin,55,79.981818182,9.60032968,95.0,28.0,1,0,0,1,3,2,3,4,24,15,2
+UBCV,2021,W,PHIL,211,A,001,Greek Philosophy I: Socrates and Plato,Alexa White;Livia Graf;Michael Griffin,49,75.346938776,11.274142651,90.0,30.0,1,2,1,1,4,4,7,9,9,10,1

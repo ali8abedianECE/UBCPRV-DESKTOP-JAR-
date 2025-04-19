@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,ENGL,110,,22B,INTRO LITERATURE,"Phillips, Noelle",14,70,21.1,86,0,13,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0,3,4,3,1,0
+UBC,2012,W,MDVL,301,,101,EURO LIT 5-14CNT,"Phillips, Noelle",38,74.84,9.98,95,57,38,0,0,0,0,0,0,0,0,0,0,0,2,6,2,4,4,6,10,1,3
+UBC,2014,W,ENGL,110,,06A,INTRO LITERATURE,"Phillips, Noelle",36,76.42,6.11,88,59,36,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,8,8,9,3,0
+UBC,2014,W,ENGL,112,,04E,UNIVRSTY WRITING,"Phillips, Noelle",34,73.97,12.23,91,48,31,2,1,0,0,0,0,0,0,2,2,1,2,2,3,3,3,2,9,5,1
+UBC,2014,W,ENGL,344,B,002,MEDIEVAL STUDIES,"Phillips, Noelle",28,76.04,12.75,92,42,26,2,0,0,0,0,0,0,0,2,2,1,0,0,1,1,4,7,5,5,2
+UBC,2014,W,ENGL,346,B,002,CHAUCER&MID AGES,"Phillips, Noelle",43,79.93,9.66,95,37,42,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,6,7,11,11,4
+UBC,2015,W,ENGL,344,A,001,MEDIEVAL STUDIES,"Phillips, Noelle",45,77.16,11.62,91,13,43,1,1,0,0,0,1,0,0,0,1,0,0,0,3,2,5,14,12,5,2
+UBC,2015,W,ENGL,490,,012,MAJOR SEMINR LIT,"Phillips, Noelle",6,73.67,10.82,85,56,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,0
+UBC,2015,W,MDVL,490,A,001,RSRCH SEMNR MDVL,"Phillips, Noelle",6,88.8,2.17,91,86,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBCV,2014,W,ENGL,110,,06A,Approaches to Literature,Noelle Phillips,36,76.41666667,6.110295761,88.0,59.0,,,,,,,,,,,0,0,,,,7,8,8,9,,0
+UBCV,2014,W,ENGL,112,,04E,Strategies for University Writing,Noelle Phillips,33,73.96969697,12.23081367,91.0,48.0,,,,,,,,,,,,,,,,,,,9,5,
+UBCV,2014,W,ENGL,344,B,002,Medieval Studies,Noelle Heather Phillips;Noelle Phillips,28,76.03571429,12.74677052,92.0,42.0,,,,,,,,,,,,,,,,,,7,5,5,
+UBCV,2014,W,ENGL,346,B,002,Chaucer and the Middle Ages,Noelle Heather Phillips;Noelle Phillips,43,79.93023256,9.664356084,95.0,37.0,,,,,,,,,,,,,,,,,6,7,11,11,
+UBCV,2015,W,ENGL,344,A,001,Medieval Studies,Noelle Heather Phillips;Noelle Phillips,44,77.159090909,11.62383914,91.0,13.0,,,,,,,,,,,,,,,,,5,14,12,5,
+UBCV,2015,W,ENGL,490,,012,Literature Majors Seminar,Noelle Phillips,6,73.666666667,10.819735055,85.0,56.0,,,,,,,,,,,0,0,,,,,,,,,0
+UBCV,2015,W,MDVL,490,A,001,Research Seminar in Medieval Studies,Noelle Heather Phillips;Noelle Phillips,5,88.8,2.167948339,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,

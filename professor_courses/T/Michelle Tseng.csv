@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,BIOL,411,,201,INSECT ECOLOGY,"Tseng, Michelle",22,83.1,6.91,93,69,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,8,3,5,,,
+UBC,2014,W,BIOL,411,,201,INSECT ECOLOGY,"Tseng, Michelle",16,86.31,6.06,98,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4,4,,,
+UBC,2015,W,BIOL,230,,101,FUND ECOLOGY,"Brodie, Jedediah;Goodey, Wayne;Tseng, Michelle",192,71.23,11.08,93,39,185,6,1,0,0,0,0,0,1,5,6,7,16,19,20,26,15,35,28,14,5,,,
+UBC,2015,W,BIOL,230,,102,FUND ECOLOGY,"Brodie, Jedediah;Goodey, Wayne;Tseng, Michelle",207,73.6,10.99,92,36,197,7,2,0,1,0,0,0,2,5,7,7,8,6,22,29,28,29,38,24,6,,,
+UBC,2015,W,BIOL,411,,201,INSECT ECOLOGY,"Tseng, Michelle",24,85.13,4.56,94,74,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,13,2,,,
+UBC,2017,W,BIOL,411,,201,INSECT ECOLOGY,"Tseng, Michelle",26,78.08,8.95,97,62,26,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,5,5,5,4,2,,,
+UBC,2018,W,BIOL,411,,201,INSECT ECOLOGY,"Tseng, Michelle",21,83.76,5.88,94,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,8,4,4,,,
+UBCV,2014,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,16,86.3125,6.063208721,98.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,7,,,,,
+UBCV,2015,W,BIOL,230,,101,Fundamentals of Ecology,Elizabeth Kleynhans;Jedediah Brodie;John Champion;Lindsay Aylesworth;Michelle Tseng;Philippe Fernandez Fournier;Ting-Chun Kuo;Wayne Goodey,191,71.22513089,11.077079078,93.0,39.0,,,,,,,,,,,6,7,16,19,20,26,15,35,28,14,5,,,
+UBCV,2015,W,BIOL,230,,102,Fundamentals of Ecology,Coreen Forbes;Jedediah Brodie;Lindsay Aylesworth;Mannfred Boehm;Mark Robertson;Michelle Tseng;Philippe Fernandez Fournier;Wayne Goodey,205,73.36097561,11.471894002,92.0,25.0,,,,,,,,,,,8,7,8,6,22,29,28,29,38,24,6,,,
+UBCV,2015,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,23,85.130434783,4.555759071,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,5,13,,,,
+UBCV,2017,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,26,78.076923077,8.948399083,97.0,62.0,,,,,,,,,,,0,0,0,1,4,0,5,5,5,4,2,,,
+UBCV,2018,W,BIOL,411,,201,Insect Ecology,Michelle Tseng;Natalie Westwood,21,83.761904762,5.881366864,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,3,8,4,4,,,
+UBCV,2019,S,BIOL,409,,951,Field Course in Ecology,Michelle Tseng;Sean Michaletz,10,91.4,4.325634186,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6,,,
+UBCV,2019,W,BIOL,230,,101,Fundamentals of Ecology,Adam Hicks;Asfar Khan;Christopher Harley;Christopher Kopp;Di Liu;Gabriel Greenberg-Pines;Grant Dejong;Jarrett Blair;Michelle Tseng;Rachel Wilson;Sarah Blake;Skye Butterson;Tolulope Afolabi;Tolulope Esther Afolabi,171,73.69005848,10.10665858,91.0,37.0,,,,,,,,,,,3,4,6,9,12,22,27,32,33,15,8,,,
+UBCV,2019,W,BIOL,230,,102,Fundamentals of Ecology,Adam Hicks;Asfar Khan;Christopher Harley;Christopher Kopp;Di Liu;Gabriel Greenberg-Pines;Grant Dejong;Jarrett Blair;Michelle Tseng;Rachel Wilson;Sarah Blake;Skye Butterson;Tolulope Afolabi;Tolulope Esther Afolabi,199,76.271356784,9.236332172,95.0,25.0,,,,,,,,,,,3,0,6,6,7,22,33,31,49,35,7,,,
+UBCV,2019,W,BIOL,411,,201,Insect Ecology,Michelle Tseng;Sandra Emry;Sandra Michelle Emry,21,88.285714286,4.900437298,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,8,8,,,
+UBCV,2020,W,APBI,427,,201,Insect Ecology,Benjamin Matthews;George Haughn;Michelle Tseng;Natasha Klasios,6,69.333333333,29.682767167,92.0,11.0,,,,,,,,,,,1,0,0,0,0,1,1,0,1,1,1,,,
+UBCV,2020,W,BIOL,230,,101,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Darwin Shikra Sodhi;Darwin Sodhi;Graham Brownlee;Isaiah Box;Jeffrey Richards;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Jihyun Olivia Kim;Laura Parfrey;Leticia Aviles;Michelle Tseng;Rachel Germain;Rachel Wilson,143,74.734265734,8.925316934,91.0,33.0,,,,,,,,,,,2,1,5,5,11,18,29,29,27,15,1,,,
+UBCV,2020,W,BIOL,230,,102,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Darwin Shikra Sodhi;Darwin Sodhi;Erin Gaynor;Graham Brownlee;Isaiah Box;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Jihyun Olivia Kim;Kota Mizumoto;Laura Parfrey;Michelle Tseng;Rachel Germain;Rachel Wilson,196,75.198979592,11.574782447,95.0,9.0,,,,,,,,,,,4,4,6,6,12,23,30,31,49,25,6,,,
+UBCV,2020,W,BIOL,411,,201,Insect Ecology,Benjamin Matthews;Erin Gaynor;George Haughn;Michelle Tseng;Natasha Klasios,18,90.333333333,5.087470191,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,4,11,,,
+UBCV,2021,W,BIOL,230,,101,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Christopher Harley;Darwin Sodhi;Jawad Sakarchi;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Markus Thormeyer;Matthew Tsuruda;Michelle Tseng;Rachel Wilson;Samantha Straus,200,76.725,12.192730967,93.0,0.0,,,,,,,,,,,5,2,5,4,9,14,26,39,56,31,9,,,
+UBCV,2021,W,BIOL,230,,102,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Christopher Harley;Darwin Sodhi;Jawad Sakarchi;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Markus Thormeyer;Matthew Tsuruda;Michelle Tseng;Rachel Wilson;Samantha Straus,205,77.097560976,10.154697739,96.0,21.0,,,,,,,,,,,3,2,7,8,9,17,26,42,47,28,16,,,
+UBCV,2021,W,BIOL,411,,201,Insect Ecology,Katie Marshall;Michelle Tseng;Samantha Straus,23,84.0,13.37908816,94.0,25.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,14,3,,,
+UBCV,2021,W,BIOL,230,,101,Fundamentals of Ecology,Christopher Harley;Michelle Tseng;Rachel Wilson,201,76.7,,93.0,0.0,,,,,,,,,,,,,,,9,14,27,39,56,31,9,79.0,83.0,73.0
+UBCV,2021,W,BIOL,230,,102,Fundamentals of Ecology,Christopher Harley;Michelle Tseng;Rachel Wilson,205,77.1,,96.0,21.0,,,,,,,,,,,,,7,8,9,17,26,42,47,28,16,79.0,84.0,72.0
+UBCV,2021,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,23,84.0,,94.0,25.0,,,,,,,,,,,,,,,,,,,,14,,87.0,88.0,85.0
+UBCV,2022,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,23,86.3,,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,8,6,85.0,90.5,82.5
+UBCV,2023,W,BIOL,230,,201,Fundamentals of Ecology,Rachel Germain;Michelle Tseng;Rachel Wilson,183,81.1,,94.0,10.0,,,,,,,,,,,1,0,2,1,5,13,18,25,39,54,23,83.0,87.0,76.0
+UBCV,2023,W,BIOL,230,,202,Fundamentals of Ecology,Rachel Germain;Michelle Tseng;Rachel Wilson,120,79.7,,95.0,26.0,,,,,,,,,,,1,0,3,5,7,6,8,17,29,27,16,81.0,86.0,75.5
+UBCV,2023,W,BIOL,411,,201,Insect Ecology,Michelle Tseng,24,86.7,,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,1,2,8,11,87.0,92.0,85.0
+UBCV,2023,W,BIOL,548,M,201,Advanced Topics in Biology,Michelle Tseng,7,95.3,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,96.0,97.5,93.5

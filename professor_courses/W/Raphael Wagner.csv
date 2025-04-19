@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,THTR,391,C,001,REHEARS&PERFORM,"Burnett, Cathy;Drover, Stephen;Malloy, Stephen;Murphy, Gayle;Wagner, Raphael",16,84.88,1.96,88,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,0,,,
+UBC,2018,W,THTR,491,C,001,AD REHEARS&PERF,"Burnett, Cathy;Drover, Stephen;Malloy, Stephen;Murphy, Gayle;Wagner, Raphael",13,86.31,3.43,91,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,1,,,
+UBCV,2018,W,THTR,391,C,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Raphael Wagner;Stephen Drover;Stephen Malloy,16,84.875,1.962141687,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,11,0,,,
+UBCV,2018,W,THTR,491,C,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Raphael Wagner;Stephen Drover;Stephen Malloy,13,86.307692308,3.425021056,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,1,,,
+UBCV,2019,W,THTR,391,C,001,Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Gerald Trentham;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Drover;Stephen Malloy;Susan Bertoia,14,84.642857143,2.924883768,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,8,0,,,
+UBCV,2019,W,THTR,471,,001,Advanced B.F.A. Acting I,Lois Anderson;Raphael Wagner,16,82.4375,3.405265531,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,5,0,,,
+UBCV,2019,W,THTR,491,C,001,Advanced Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Gerald Trentham;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Drover;Stephen Malloy;Susan Bertoia,15,85.866666667,2.875181154,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,10,1,,,
+UBCV,2020,W,THTR,250,,001,Technical Production,Bradley Powers;Lorraine West;Raphael Wagner,8,82.625,5.629958132,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,2,1,,,
+UBCV,2020,W,THTR,371,,001,Intermediate B.F.A. Acting I,Bart Anderson;Courtenay Dobbie;Lois Anderson;Raphael Wagner,12,85.583333333,2.810963385,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,0,,,
+UBCV,2020,W,THTR,406,,001,Costume Design II,Jacqueline Firkins;Raphael Wagner,15,83.733333333,8.362045774,96.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,1,3,4,4,,,
+UBCV,2020,W,THTR,491,C,001,Advanced Rehearsal and Performance,Adam Henderson;Bart Anderson;Gayle Murphy;Heather Young;Jocelyn Pitsch;Kirsty Johnston;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Heatley,14,87.785714286,2.750624305,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,3,,,
+UBCV,2021,W,THTR,391,C,001,Rehearsal and Performance,Lois Anderson;Raphael Wagner,11,85.909090909,1.868397466,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,1,,,
+UBCV,2021,W,THTR,491,C,001,Advanced Rehearsal and Performance,Lois Anderson;Raphael Wagner,13,87.153846154,2.115268062,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,2,,,
+UBCV,2021,W,THTR,391,C,001,Rehearsal and Performance,Lois Anderson;Raphael Wagner,11,85.9,,90.0,83.0,,,,,,,,,,,,,,,,,,,,9,,85.0,86.5,85.0
+UBCV,2021,W,THTR,491,C,001,Advanced Rehearsal and Performance,Lois Anderson;Raphael Wagner,13,87.2,,90.0,83.0,,,,,,,,,,,,,,,,,,,,10,,87.0,89.0,86.0
+UBCV,2022,W,THTR,391,C,001,Rehearsal and Performance,Raphael Wagner,10,86.4,,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,7,1,87.5,89.0,86.0
+UBCV,2022,W,THTR,491,C,001,Advanced Rehearsal and Performance,Raphael Wagner,10,86.5,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,1,87.0,88.0,85.3
+UBCV,2023,W,THTR,391,A,001,Rehearsal and Performance,Lois Anderson;Susan Bertoia;Arthi Chandra;Raphael Wagner,12,82.3,,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,2,0,82.0,84.0,80.8
+UBCV,2023,W,THTR,391,B,001,Rehearsal and Performance,Camyar Chaichian;Florence Hudson;Raphael Wagner;Nelson Wong,12,84.4,,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,7,0,85.5,87.3,81.5
+UBCV,2023,W,THTR,491,A,001,Advanced Rehearsal and Performance,Lois Anderson;Susan Bertoia;Arthi Chandra;Raphael Wagner,12,84.8,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,0,86.0,86.3,82.8
+UBCV,2023,W,THTR,491,B,001,Advanced Rehearsal and Performance,Camyar Chaichian;Florence Hudson;Raphael Wagner;Nelson Wong,10,87.5,,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,4,88.0,90.0,86.0

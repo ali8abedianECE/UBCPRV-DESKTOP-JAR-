@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,BIOL,200,,105,CELL BIOLOGY 1,"Abraham, Ninan",191,70.06,12.28,96,30,170,18,3,0,0,0,0,0,1,17,18,0,15,12,24,28,24,20,25,17,5,,,
+UBC,2010,W,BIOL,441,,101,ANIM CELL BIOL,"Abraham, Ninan",50,78.69,6.55,92,64,49,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5,11,6,15,7,3,,,
+UBC,2011,W,MICB,502,,201,ADV IMMUNOGENETI,"Abraham, Ninan",12,91.42,4.08,95,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,,,
+UBC,2012,W,BIOL,200,,103,FUND CELL BIO,"Abraham, Ninan",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,BIOL,200,,105,FUND CELL BIO,"Abraham, Ninan",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Murphy, Michael",14,89.21,2.81,94,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,,,
+UBC,2015,W,BIOL,530,,101,BIOL OF THE CELL,"Abraham, Ninan",14,88.93,5.01,95,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,,,
+UBC,2015,W,MICB,202,,203,MED MICB & IMMUN,"Abraham, Ninan;Finlay, B Brett;Sibley, Jennifer",180,74.39,13.44,99,27,172,7,1,0,0,0,0,1,0,6,7,6,12,16,10,19,20,20,22,21,26,,,
+UBC,2015,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Gold, Michael;Murphy, Michael",19,89.39,5.49,97,71,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,8,,,
+UBC,2016,W,BIOL,530,,101,BIOL OF THE CELL,"Abraham, Ninan",12,86.92,7,97,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,6,,,
+UBC,2016,W,MICB,412,,201,Top Immun Resrch,"Abraham, Ninan;Johnson, Pauline",23,88,5.95,96,78,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,9,,,
+UBC,2017,W,MICB,412,,201,Top Immun Resrch,"Abraham, Ninan;Johnson, Pauline",21,90.1,5.9,98,79,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,12,,,
+UBC,2017,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,90,3.16,97,83,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11,,,
+UBC,2018,W,BIOL,530,,101,BIOL OF THE CELL,"Abraham, Ninan",25,85.96,6.57,96,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,5,10,,,
+UBC,2018,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,92.12,1.45,94,88,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2014,W,MICB,506,C,001,Microbiological and Immunological Research,Michael Murphy;Ninan Abraham,14,89.21428571,2.805998285,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,7,,,
+UBCV,2015,W,BIOL,530,,101,The Biology of the Cell,Ninan Abraham,14,88.928571429,5.014813222,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,8,,,
+UBCV,2015,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,B Brett Finlay;Jennifer Sibley;Ninan Abraham,179,74.38547486,13.439084839,99.0,27.0,,,,,,,,,,,7,6,12,16,10,19,20,20,22,21,26,,,
+UBCV,2015,W,MICB,506,C,001,Microbiological and Immunological Research,Michael Gold;Michael Murphy;Ninan Abraham,18,89.388888889,5.489443226,97.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,9,8,,,
+UBCV,2016,W,BIOL,530,,101,The Biology of the Cell,Ninan Abraham,12,86.91666667,6.999458854,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,1,6,,,
+UBCV,2016,W,MICB,412,,201,Topics in Immunological Research,Ninan Abraham;Pauline Johnson,23,88.0,5.954371961,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,7,9,,,
+UBCV,2017,W,MICB,412,,201,Topics in Immunological Research,Ninan Abraham;Pauline Johnson,21,90.095238095,5.898345208,98.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,4,12,,,
+UBCV,2017,W,MICB,502,,201,Advanced Immunogenetics,Kenneth Harder;Laura Sly;Lisa Osborne;Michael Gold;Ninan Abraham,6,91.5,4.969909456,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,4,,,
+UBCV,2017,W,MICB,506,C,001,Microbiological and Immunological Research,Cara Haney;Lindsay Eltis;Michael Gold;Michael Murphy;Ninan Abraham;Rachel Fernandez;Robert E Hancock,17,90.0,3.16227766,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,11,,,
+UBCV,2018,W,BIOL,530,,101,The Biology of the Cell,Jason William Millington;Ninan Abraham,25,85.96,6.566835869,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,5,10,,,
+UBCV,2018,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Ninan Abraham;Pauline Johnson,12,90.5,2.907670108,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2018,W,MICB,506,C,001,Microbiological and Immunological Research,Lindsay Eltis;Michael Gold;Michael Murphy;Ninan Abraham;Pauline Johnson;Rachel Fernandez;Robert E Hancock,17,92.117647059,1.452685141,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2019,W,BIOL,530,,101,The Biology of the Cell,Katherine Clayworth;Ninan Abraham,16,86.25,2.720294102,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,11,2,,,
+UBCV,2019,W,MICB,506,C,001,Microbiological and Immunological Research,Charles Thompson;John Beatty;Lindsay Eltis;Michael Gold;Michael Murphy;Ninan Abraham;Pauline Johnson;Rachel Fernandez;Robert E Hancock,8,92.375,1.685018016,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2020,W,BIOL,530,,101,The Biology of the Cell,Katherine Clayworth;Ninan Abraham,18,90.0,4.874905731,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,10,,,
+UBCV,2021,W,BIOL,530,,101,The Biology of the Cell,Katherine Clayworth;Ninan Abraham,14,93.285714286,2.267786838,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,13,,,
+UBCV,2021,W,MICB,506,C,001,Microbiological and Immunological Research,Ninan Abraham;Pauline Johnson;Robert E Hancock,17,92.176470588,4.065637928,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,12,,,
+UBCV,2021,W,BIOL,530,,101,The Biology of the Cell,Ninan Abraham,14,93.3,,97.0,88.0,,,,,,,,,,,,,,,,,,,,,13,94.0,94.0,92.3
+UBCV,2021,W,MICB,506,C,001,Microbiological and Immunological Research,Ninan Abraham;Robert E Hancock;Pauline Johnson,17,92.2,,99.0,86.0,,,,,,,,,,,,,,,,,,,,,12,92.0,95.0,89.0
+UBCV,2022,W,BIOL,530,,101,The Biology of the Cell,Ninan Abraham,16,91.9,,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,13,92.0,93.5,90.0
+UBCV,2023,W,MICB,412,,201,Topics in Immunological Research,Ninan Abraham;Kenneth Harder;Maria Tokuyama,18,87.8,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,8,88.0,90.0,87.0
+UBCV,2023,W,MICB,506,B,201,Microbiological and Immunological Research,Ninan Abraham;Lindsay Eltis;Michael Gold;Marcia Graves;Michael Murphy;Lisa Osborne;Maria Tokuyama;Carolina Tropini,10,92.4,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,92.0,93.5,91.5

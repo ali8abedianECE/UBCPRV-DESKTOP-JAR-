@@ -1,0 +1,84 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,CENS,201,,001,CONTR & CONFL,"Eming, Jutta;Gassner, Florian",49,75.24,9.6,96,50,46,0,3,0,0,0,0,0,0,0,0,2,0,4,3,6,8,7,8,6,2,,,
+UBC,2013,W,CENS,201,,001,CONTR & CONFL,"Gassner, Florian",35,79.91,7.37,93,61,33,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,10,2,10,4,5,,,
+UBC,2013,W,GERM,100,,901,BEGIN GERM I,"Gassner, Florian",24,82.83,13.53,98,52,23,0,1,0,0,0,0,0,0,0,0,1,1,1,1,2,0,1,1,6,9,,,
+UBC,2013,W,GERM,110,,001,BEGIN GERM 2,"Gassner, Florian",23,78.26,17.26,97,10,22,1,0,0,0,0,1,0,0,0,1,0,0,2,0,1,0,5,8,3,3,,,
+UBC,2013,W,GERM,301,,003,GRM LIT 1900-45,"Gassner, Florian",39,79.44,5.16,88,68,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,10,14,6,0,,,
+UBC,2013,W,GERM,380,,001,TRAD & CHANGE,"Gassner, Florian",14,83.36,3.61,88,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,0,,,
+UBC,2013,W,GERM,402,,001,WRD&MUS GERM LIT,"Gassner, Florian",15,78.14,8.35,94,67,14,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3,2,3,1,2,,,
+UBC,2014,W,CENS,201,,001,CONTR & CONFL,"Gassner, Florian",46,74.31,16.47,94,9,39,3,3,1,0,1,0,1,0,1,3,1,0,2,0,2,10,6,9,6,3,,,
+UBC,2014,W,GERM,100,,012,BEGIN GERM I,"Gassner, Florian",30,79.3,16.63,96,8,29,1,0,0,0,1,0,0,0,0,1,0,1,0,3,1,3,2,4,9,6,,,
+UBC,2014,W,GERM,304,,001,GERM CINEMA ENGL,"Gassner, Florian",51,79.14,8.16,94,45,49,1,1,0,0,0,0,0,0,1,1,0,1,0,1,1,8,12,14,10,2,,,
+UBC,2014,W,GERM,313,,001,CONV GERMAN II,"Gassner, Florian",17,82.2,5.07,90,70,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,5,5,1,,,
+UBC,2014,W,GERM,370,,001,REAS REVOL,"Gassner, Florian",8,80.71,13.72,91,51,7,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,3,1,,,
+UBC,2014,W,GERM,408,B,001,ISSU IN GERM CUL,"Gassner, Florian",13,82.75,9.08,94,60,12,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,3,3,,,
+UBC,2015,S,GERM,408,A,900,ISSU IN GERM CUL,"Gassner, Florian",4,84.75,5.32,91,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,,
+UBC,2015,W,CENS,201,,002,CONTR & CONFL,"Gassner, Florian",36,75.18,11.6,88,32,33,1,2,0,0,0,0,0,1,0,1,2,1,0,1,3,4,7,11,4,0,,,
+UBC,2015,W,GERM,304,,001,GERM CINEMA ENGL,"Gassner, Florian",44,78.62,6.06,87,57,42,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,3,15,15,5,0,,,
+UBC,2015,W,GERM,313,,001,CONV GERMAN II,"Gassner, Florian",21,78.41,8.22,90,60,17,0,0,3,0,0,0,0,0,0,0,0,0,1,1,1,1,4,6,2,1,,,
+UBC,2015,W,GERM,360,,001,HEAVEN & EARTH,"Gassner, Florian",15,76.5,15.5,91,26,13,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,4,1,4,3,1,,,
+UBC,2015,W,GERM,402,,001,WRD&MUS GERM LIT,"Gassner, Florian",37,75.58,9.08,88,57,36,0,1,0,0,0,0,0,0,0,0,0,4,0,4,3,2,8,10,5,0,,,
+UBC,2017,W,GERM,200,,003,INTER GERM I,"Gassner, Florian",22,81.71,9.99,95,61,21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,2,2,3,7,,,
+UBC,2017,W,GERM,304,,002,GERM CINEMA ENGL,"Gassner, Florian",71,77.76,11.1,99,50,68,0,0,0,0,0,0,0,0,0,0,1,3,5,6,6,6,7,15,7,12,,,
+UBC,2017,W,GERM,313,,001,CONV GERMAN II,"Gassner, Florian",30,79.78,8.99,96,50,27,0,0,2,0,0,0,0,0,0,0,1,0,0,0,3,3,5,8,3,4,,,
+UBC,2017,W,GERM,360,,001,HEAVEN & EARTH,"Gassner, Florian",15,72.43,21.83,89,5,13,1,0,1,0,1,0,0,0,0,1,1,1,0,0,0,1,3,5,2,0,,,
+UBC,2018,W,CENS,201,,001,CONTR & CONFL,"Gassner, Florian",57,73.79,17.81,96,5,53,3,0,0,0,1,0,2,0,0,3,3,3,3,2,2,7,6,13,8,6,,,
+UBC,2018,W,GERM,304,,002,GERM CINEMA ENGL,"Gassner, Florian",76,73.58,14.42,94,0,69,2,1,2,1,1,0,1,0,0,2,3,1,2,11,5,9,14,10,11,3,,,
+UBC,2018,W,GERM,313,,001,CONV GERMAN II,"Gassner, Florian",18,81.13,7.75,98,67,16,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,4,5,2,2,,,
+UBC,2018,W,GERM,402,,001,WRD&MUS GERM LIT,"Gassner, Florian",23,75.65,17.4,98,43,19,1,1,0,0,0,0,0,0,1,1,3,0,1,1,1,2,2,2,0,7,,,
+UBC,2018,W,GERM,408,A,001,ISSU IN GERM CUL,"Gassner, Florian",12,82.73,5.52,91,73,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,1,,,
+UBCV,2014,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,42,74.30952381,16.46798534,94.0,9.0,,,,,,,,,,,,,,,,,10,6,9,6,,,,
+UBCV,2014,W,GERM,100,,012,Beginners' German I,Florian Gassner,30,79.3,16.62808177,96.0,8.0,,,,,,,,,,,,,,,,,,,,9,6,,,
+UBCV,2014,W,GERM,304,,001,German Cinema (in English),Florian Gassner,50,79.14,8.159156619,94.0,45.0,,,,,,,,,,,,,,,,1,8,12,14,10,,,,
+UBCV,2014,W,GERM,313,,001,Conversational German II,Florian Gassner,16,82.0,4.966554809,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,5,,,,
+UBCV,2014,W,GERM,370,,001,Reason and Revolution: Studies in the 18th Century,Florian Gassner,7,80.71428571,13.71998889,91.0,51.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2014,W,GERM,408,B,001,Selected Issues in German Culture,Florian Gassner,12,82.75,9.076693431,94.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2015,W,CENS,201,,002,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,34,75.176470588,11.595376791,88.0,32.0,,,,,,,,,,,,,,,,,4,7,11,4,0,,,
+UBCV,2015,W,GERM,304,,001,German Cinema (in English),Florian Gassner,44,78.090909091,6.407910017,87.0,57.0,,,,,,,,,,,0,0,,,5,,3,15,15,5,0,,,
+UBCV,2015,W,GERM,313,,001,Conversational German II,Florian Gassner,18,78.444444444,7.972173829,90.0,60.0,,,,,,,,,,,0,0,0,,,,,5,6,,,,,
+UBCV,2015,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,14,76.5,15.49565696,91.0,26.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner,36,75.583333333,9.078624817,88.0,57.0,,,,,,,,,,,0,0,,,,,,8,10,5,0,,,
+UBCV,2017,W,GERM,200,,003,Intermediate German I,Florian Gassner,22,81.181818182,10.064725595,95.0,61.0,,,,,,,,,,,0,0,0,1,1,2,4,2,2,3,7,,,
+UBCV,2017,W,GERM,304,,002,German Cinema (in English),Dorothee Leesing;Florian Gassner,71,77.38028169,11.027713397,99.0,50.0,,,,,,,,,,,0,1,3,5,7,7,7,7,15,7,12,,,
+UBCV,2017,W,GERM,313,,001,Conversational German II,Florian Gassner,28,79.535714286,8.913087102,96.0,50.0,,,,,,,,,,,0,1,0,0,0,3,4,5,8,3,4,,,
+UBCV,2017,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,14,72.428571429,21.830515994,89.0,5.0,,,,,,,,,,,1,1,1,0,0,0,1,3,5,2,0,,,
+UBCV,2017,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner;Irmgard Scheitler-Schmidt,10,84.7,9.753062197,100.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,0,3,2,3,,,
+UBCV,2018,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Anna Westpfahl;Florian Gassner,57,73.561403509,17.732151533,96.0,5.0,,,,,,,,,,,3,3,3,4,2,2,7,6,13,8,6,,,
+UBCV,2018,W,GERM,304,,002,German Cinema (in English),Florian Gassner;Patricia Milewski,73,72.917808219,15.783037154,94.0,0.0,,,,,,,,,,,3,3,1,2,11,5,9,14,11,11,3,,,
+UBCV,2018,W,GERM,313,,001,Conversational German II,Florian Gassner,16,81.125,7.753493836,98.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,4,5,2,2,,,
+UBCV,2018,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner,22,74.363636364,18.096422837,98.0,42.0,,,,,,,,,,,2,3,0,1,1,1,2,2,3,0,7,,,
+UBCV,2018,W,GERM,408,A,001,Selected Issues in German Culture,Florian Gassner,11,82.727272727,5.515268064,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,5,2,1,,,
+UBCV,2019,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,45,74.177777778,17.703734697,96.0,0.0,,,,,,,,,,,1,5,2,2,4,3,2,6,6,6,8,,,
+UBCV,2019,W,GERM,304,,002,German Cinema (in English),Anna Franzen;Florian Gassner,55,76.563636364,11.383489728,98.0,34.0,,,,,,,,,,,1,0,0,7,4,4,9,6,11,7,6,,,
+UBCV,2019,W,GERM,313,,001,Conversational German II,Florian Gassner,21,77.80952381,6.353101979,87.0,66.0,,,,,,,,,,,0,0,0,0,2,1,5,3,6,4,0,,,
+UBCV,2019,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,9,81.111111111,8.550503559,89.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,6,2,0,,,
+UBCV,2020,W,CENS,202,,004,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ajibola Fabusuyi;Florian Gassner,55,74.127272727,14.753599116,97.0,32.0,,,,,,,,,,,2,4,2,5,4,5,7,2,8,8,8,,,
+UBCV,2020,W,GERM,304,,001,German Cinema (in English),Anna Franzen;Florian Gassner,71,74.85915493,11.844583783,88.0,27.0,,,,,,,,,,,2,3,1,3,4,7,9,13,19,10,0,,,
+UBCV,2020,W,GERM,313,,001,Conversational German II,Florian Gassner,11,81.272727273,5.31207886,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,5,2,1,,,
+UBCV,2020,W,GERM,404,,001,Religion and German Literature (in English),Florian Gassner,20,78.3,12.074767078,96.0,53.0,,,,,,,,,,,0,1,1,0,2,1,4,0,4,4,3,,,
+UBCV,2020,W,GERM,408,,001,Selected Issues in German Culture,Florian Gassner,8,81.875,8.983119089,95.0,71.0,,,,,,,,,,,0,0,0,0,0,2,1,0,1,3,1,,,
+UBCV,2021,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner;Rachel Helmer,45,78.2,20.270444225,99.0,0.0,,,,,,,,,,,2,2,0,5,1,0,3,6,3,7,16,,,
+UBCV,2021,W,CENS,201,,002,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,10,80.6,9.547541859,94.0,63.0,,,,,,,,,,,0,0,0,1,0,0,2,2,1,1,3,,,
+UBCV,2021,W,GERM,304,,002,German Cinema (in English),Braden Russell;Florian Gassner,56,78.982142857,15.492509711,100.0,29.0,,,,,,,,,,,2,2,1,4,2,4,6,4,7,9,15,,,
+UBCV,2021,W,GERM,313,,001,Conversational German II,Florian Gassner,11,81.454545455,10.755125628,97.0,61.0,,,,,,,,,,,0,0,0,1,1,0,1,1,3,2,2,,,
+UBCV,2021,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,8,74.125,20.753226944,90.0,32.0,,,,,,,,,,,1,1,0,0,0,0,1,1,0,2,2,,,
+UBCV,2021,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner,24,73.75,24.68276991,99.0,0.0,,,,,,,,,,,2,1,2,1,1,1,4,0,2,2,8,,,
+UBCV,2021,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,44,80.0,,99.0,11.0,,,,,,,,,,,,,,,,,,6,,7,16,85.5,91.3,74.8
+UBCV,2021,W,CENS,201,,002,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,10,80.6,,94.0,63.0,,,,,,,,,,,,,,,,,,,,,,80.5,88.8,74.5
+UBCV,2021,W,GERM,304,,002,German Cinema (in English),Florian Gassner,56,79.0,,100.0,29.0,,,,,,,,,,,,,,,,,6,,7,9,15,82.0,91.0,70.5
+UBCV,2021,W,GERM,313,,001,Conversational German II,Florian Gassner,11,81.5,,97.0,61.0,,,,,,,,,,,,,,,,,,,,,,84.0,87.0,76.5
+UBCV,2021,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,8,74.1,,90.0,32.0,,,,,,,,,,,,,,,,,,,,,,82.5,87.8,69.8
+UBCV,2021,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner,24,73.8,,99.0,0.0,,,,,,,,,,,,,,,,,,,,,8,78.0,91.3,66.0
+UBCV,2022,W,CENS,104,,001,Canadian Monuments to Central and Eastern European History,Florian Gassner,16,77.8,,100.0,43.0,,,,,,,,,,,1,2,0,0,0,1,1,2,2,3,4,81.0,87.5,72.5
+UBCV,2022,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,17,78.8,,95.0,24.0,,,,,,,,,,,1,0,1,0,1,0,1,2,5,1,5,83.0,90.0,76.0
+UBCV,2022,W,GERM,304,,002,German Cinema (in English),Florian Gassner,64,79.9,,100.0,52.0,,,,,,,,,,,0,4,3,2,4,6,5,2,7,10,21,81.0,91.3,69.8
+UBCV,2022,W,GERM,313,,001,Conversational German II,Florian Gassner,14,76.4,,89.0,22.0,,,,,,,,,,,2,0,0,0,0,0,0,0,6,6,0,83.0,85.8,82.0
+UBCV,2022,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner,22,81.6,,100.0,50.0,,,,,,,,,,,0,2,0,1,2,0,1,2,1,4,9,88.0,91.8,73.5
+UBCV,2022,W,GERM,408,,001,Selected Issues in German Culture,Florian Gassner,6,71.8,,88.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,4,0,86.0,87.8,83.5
+UBCV,2023,W,CENS,104,,101,Canadian Monuments to Central and Eastern European History,Florian Gassner,22,71.75,,98.0,26.0,,,,,,,,,,,1,1,1,3,1,0,2,0,3,1,3,75.0,85.0,61.75
+UBCV,2023,W,CENS,201,,202,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,48,73.48,,99.0,30.0,,,,,,,,,,,4,3,1,3,3,4,3,4,2,8,7,76.0,87.0,62.5
+UBCV,2023,W,GERN,303,,201,German Conversation,Florian Gassner,14,79.33,,89.0,51.0,,,,,,,,,,,0,1,1,0,0,0,0,1,5,4,0,84.0,86.0,81.0
+UBCV,2023,W,GMST,335,,101,German Cinema,Florian Gassner,59,77.61,,97.0,37.0,,,,,,,,,,,2,5,2,3,4,4,3,1,4,14,15,85.0,90.0,67.0
+UBCV,2023,W,GMST,341,,101,Germanophone Literature before 1900,Florian Gassner,8,76.67,,95.0,51.0,,,,,,,,,,,0,1,1,0,0,1,0,0,0,0,3,82.0,94.0,59.5
+UBCV,2023,W,GMST,342,,101,Heaven and Earth: Germanophone Culture and Literature before 1700,Florian Gassner,18,80.94,,97.0,51.0,,,,,,,,,,,0,1,1,2,1,0,0,1,0,4,7,88.0,91.0,64.0
+UBCV,2023,W,GMST,445,,201,Words and Music in Germanophone Literature,Florian Gassner,31,81.03,,99.0,50.0,,,,,,,,,,,0,3,0,2,0,2,1,0,7,6,8,84.0,90.0,74.0

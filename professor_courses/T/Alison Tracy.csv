@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,PSYO,271,,101,Introduction to Data Analysis,Alexa Rempel;Alison Tracy;Clara-Marie Burdett;Curt More;Dakota Broadfoot;Jan Cioe;Ran Wei,231,66.67532468,22.55646532,99.0,1.0,42,11,22,14,11,15,23,7,26,26,34
+UBCO,2015,W,PSYO,270,,001,Introduction to Research Methods and Design,Alison Tracy;Brianna Verigin;Clara-Marie Burdett;Colin Redwood;Jan Cioe;Trina Kushnerik,198,75.01010101,14.863845653,99.0,14.0,9,10,9,11,16,18,14,22,28,30,31
+UBCO,2015,W,PSYO,315,,001,Psychology of Touch I,Alison Tracy;Paul Gabias,77,70.090909091,12.301242789,100.0,41.0,,6,6,6,11,7,13,7,7,9,
+UBCV,2016,W,PSYC,314,,002,Health Psychology,Alison Tracy;David Brian King;David King,175,72.46857143,10.6850355,97.0,50.0,0,9,13,18,21,13,27,25,27,15,7
+UBCV,2016,W,PSYC,314,,004,Health Psychology,Alison Tracy;Anita De Longis;Drake Levere,137,72.60583942,10.26584691,95.0,50.0,0,1,13,13,9,32,14,12,27,9,7
+UBCV,2016,W,PSYC,314,,005,Health Psychology,Alison Tracy;Anita De Longis;Drake Levere,113,71.60176991,11.2524123,92.0,11.0,1,2,9,13,16,15,12,8,25,11,1
+UBCV,2017,S,PSYC,305,A,921,Personality Psychology,Alison Tracy;David Brian King;David King;Sumeet Mutti,231,72.168831169,12.988023845,97.0,19.0,3,20,13,27,18,23,32,19,32,22,22
+UBCV,2017,W,PSYC,305,A,001,Personality Psychology,Alison Tracy;David Brian King;David King;Jessica Flores,224,71.816964286,13.180957785,100.0,17.0,2,16,18,25,24,29,24,23,23,15,25
+UBCV,2017,W,PSYC,314,,005,Health Psychology,Alison Tracy;Anita De Longis;Anita Delongis,111,70.612612613,9.777684399,94.0,43.0,1,9,2,13,16,15,17,20,13,3,2
+UBCV,2018,S,PSYC,305,A,921,Personality Psychology,Alison Tracy;David Brian King;David King;Giulia Capuzzo,258,73.104651163,13.832260046,100.0,31.0,4,21,19,23,23,33,21,24,27,26,37
+UBCV,2018,W,PSYC,314,,002,Health Psychology,Alison Tracy;David Brian King;David King,147,73.020408163,12.914613888,97.0,14.0,2,10,6,15,17,17,15,11,21,19,14
+UBCV,2018,W,PSYC,314,,004,Health Psychology,Alison Tracy;Anita De Longis;Anita Delongis;Rand Mahmoud,130,73.107692308,10.779140172,96.0,50.0,0,2,16,14,6,19,15,15,20,16,7
+UBCV,2018,W,PSYC,314,,005,Health Psychology,Alison Tracy;Anita De Longis;Anita Delongis;Rand Mahmoud,70,70.542857143,14.822315447,96.0,0.0,2,3,5,2,8,16,11,5,9,4,5
+UBCV,2019,S,PSYC,305,A,921,Personality Psychology,Alison Tracy;David Brian King;David King;Michelle Hunsche,217,71.834101382,14.419641255,100.0,22.0,4,19,21,22,22,20,19,13,28,16,33
+UBCV,2019,W,PSYC,314,,003,Health Psychology,Alison Tracy;David Brian King;David King,102,72.617647059,13.488568037,100.0,50.0,0,11,9,11,12,5,3,7,24,8,12
+UBCV,2019,W,PSYC,314,,004,Health Psychology,Alison Tracy;Anita De Longis;Anita Delongis,121,76.082644628,10.180526163,100.0,53.0,0,2,4,7,9,14,14,22,24,10,15
+UBCV,2019,W,PSYC,331,,901,Forensic Psychology,Alison Tracy;Catherine Marie Wilson;Catherine Wilson;Kaosisochukwu Onochie,146,70.397260274,13.150838155,96.0,38.0,7,10,16,16,16,8,14,20,17,10,12
+UBCV,2020,S,PSYC,305,A,98A,Personality Psychology,Adri Khalis Abdul Karim;Alison Tracy;Chantelle Cocquyt;David Brian King;David King,159,76.509433962,12.141501129,96.0,31.0,3,4,7,9,9,18,19,18,27,23,22
+UBCV,2020,S,PSYC,314,,98A,Health Psychology,Alison Tracy;Anita De Longis;Anita Delongis;Drake Levere,119,72.773109244,14.029289564,96.0,0.0,2,4,5,14,4,20,22,13,13,12,10
+UBCV,2020,W,PSYC,218,,007,Analysis of Behavioural Data,Alison Tracy;Grace Truong;Johanna Mickelson,97,73.886597938,14.362042195,100.0,37.0,4,5,8,8,4,11,8,14,13,6,16
+UBCV,2020,W,PSYC,314,,005,Health Psychology,Alison Tracy;Ava Outadi;David Brian King;David King,175,77.662857143,8.954260712,97.0,51.0,0,1,1,9,18,13,25,28,35,27,18
+UBCV,2021,W,PSYC,218,,003,Analysis of Behavioural Data,Alison Tracy;Grayson Mullen;Holly Engstrom;Irein Thomas;Kristin Laurin;Qinye Yu;Rachel Lai,97,67.773195876,18.219440827,100.0,16.0,12,10,8,10,3,8,10,8,10,8,10
+UBCV,2021,W,PSYC,218,,004,Analysis of Behavioural Data,Alison Tracy;Grayson Mullen;Holly Engstrom;Irein Thomas;Kristin Laurin;Qinye Yu;Rachel Lai,93,71.032258065,16.954832332,100.0,13.0,8,5,10,3,6,11,8,11,11,7,13
+UBCV,2021,W,PSYC,218,,006,Analysis of Behavioural Data,Alison Tracy;Frances Chen;Grace Truong;Grayson Mullen;Holly Engstrom;Irein Thomas;Qinye Yu;Rachel Lai,97,69.773195876,17.306974241,100.0,13.0,10,7,6,7,8,11,7,7,16,9,9

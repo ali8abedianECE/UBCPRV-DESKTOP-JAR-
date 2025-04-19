@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MECH,223,,201,MECH DESIGN,"Fengler, Markus;Ollivier-Gooch, Carl;Ostafichuk, Peter;d'Entremont, Agnes",121,72.64,10.18,96,47,118,3,0,0,0,0,0,0,0,3,3,5,7,7,11,11,17,29,17,9,5
+UBC,2014,W,MECH,435,,201,ORTHO BIOMECH,"d'Entremont, Agnes",37,80.19,8.3,98,61,36,0,0,0,1,0,0,0,0,0,0,0,0,1,1,5,2,5,13,4,5
+UBC,2014,W,MECH,436,,101,FUND INJ BIOMECH,"d'Entremont, Agnes",23,79.43,7.5,90,54,23,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,5,6,5,2
+UBC,2014,W,MECH,535,,201,ORTHO BIOMECH,"d'Entremont, Agnes",6,75.6,8.2,86,66,5,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0
+UBC,2014,W,MECH,536,,101,FDMT INJ BIOMECH,"d'Entremont, Agnes",4,83.25,8.42,90,71,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1
+UBC,2015,W,MECH,436,,201,FUND INJ BIOMECH,"d'Entremont, Agnes",5,61.8,8.76,70,50,5,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,0,0
+UBC,2015,W,MECH,536,,201,FDMT INJ BIOMECH,"d'Entremont, Agnes",6,86.67,3.14,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2016,W,APSC,366,,201,ENG FOR NONENGNR,"Ellis, Naoko;Grecu, Cristian Sorin;Green, Sheldon;Kirchen, Patrick;d'Entremont, Agnes",28,76.67,9.23,86,50,27,0,1,0,0,0,0,0,0,0,0,1,0,2,1,3,2,3,12,3,0
+UBC,2016,W,MECH,220,,101,TECH SKILLS PRAC,"Fengler, Markus;Green, Sheldon;Parsons, Gregg;Winkelman, Paul;d'Entremont, Agnes",126,79.9,4.89,93,64,124,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,20,33,48,18,2
+UBC,2016,W,MECH,221,,101,ENGIN SCIENCE I,"Cripton, Peter;Poole, Warren;Schajer, Gary;Turner, Robin;Walls, Patrick;d'Entremont, Agnes",124,74.39,10.03,98,45,119,4,1,0,0,0,0,0,0,4,4,0,3,5,11,19,25,22,22,2,10
+UBC,2016,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",130,74.68,12.5,99,0,126,3,0,0,1,1,0,0,0,2,3,2,7,7,5,22,15,18,28,10,12
+UBC,2016,W,MECH,223,,201,INTRO MECH DSGN,"Fengler, Markus;Ostafichuk, Peter;d'Entremont, Agnes",127,72.13,9.36,98,43,125,1,0,0,1,0,0,0,0,1,1,3,11,7,12,11,30,24,20,3,4
+UBC,2016,W,MECH,224,,1AB,ENG CONCEPTS I,"d'Entremont, Agnes",61,76.51,11.26,98,42,58,3,0,0,0,0,0,0,0,3,3,0,0,2,4,5,10,15,13,1,8
+UBC,2016,W,MECH,224,,1CD,ENG CONCEPTS I,"d'Entremont, Agnes",63,68.87,12.88,97,38,52,10,1,0,0,0,0,0,1,9,10,0,2,2,5,12,12,7,9,1,2
+UBC,2016,W,MECH,225,,2AB,ENG CONCEPTS II,"d'Entremont, Agnes",63,77.9,10.63,99,46,60,2,0,0,1,0,0,0,0,2,2,0,1,2,0,10,7,9,17,6,8
+UBC,2016,W,MECH,225,,2CD,ENG CONCEPTS II,"d'Entremont, Agnes",67,70.01,15.61,93,0,57,10,0,0,0,1,0,0,0,9,10,1,1,3,4,12,8,9,11,4,4
+UBC,2016,W,MECH,226,,001,TECH COMMUNICATN,"Eyking, Adrianna;Teslenko, Tatiana;d'Entremont, Agnes",108,82.72,3.81,90,70,107,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,19,47,37,1
+UBC,2016,W,MECH,435,,101,ORTHO BIOMECH,"d'Entremont, Agnes",23,78.23,12.81,98,50,22,0,0,0,1,0,0,0,0,0,0,2,1,0,0,2,1,3,5,5,3
+UBC,2017,W,APSC,366,,201,ENG FOR NONENGNR,"Grecu, Cristian Sorin;Green, Sheldon;Kirchen, Patrick;Verrett, Jonathan;d'Entremont, Agnes",48,76.96,16.16,98,21,45,2,0,0,0,0,0,1,1,0,2,4,1,0,1,4,3,5,10,6,11
+UBC,2017,W,MECH,220,,101,TECH SKILLS PRAC,"Abello Rubio, Juan;Fengler, Markus;Rawlings, George;d'Entremont, Agnes",128,81.09,5.74,91,59,128,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,12,26,44,36,3
+UBC,2017,W,MECH,221,,101,ENGIN SCIENCE I,"Poole, Warren;Schajer, Gary;Turner, Robin;Walls, Patrick;d'Entremont, Agnes",133,73.72,10.12,98,41,128,5,0,0,0,0,0,0,0,5,5,0,2,8,10,22,33,19,20,0,14
+UBC,2017,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",129,77.14,9.72,99,46,128,1,0,0,0,0,0,0,0,1,1,1,2,7,12,12,14,19,35,11,15
+UBC,2017,W,MECH,223,,201,INTRO MECH DSGN,"Fengler, Markus;Ostafichuk, Peter;d'Entremont, Agnes",129,74.64,11.21,96,39,124,5,0,0,0,0,0,0,1,4,5,8,3,2,3,10,14,33,36,8,7
+UBC,2017,W,MECH,224,,1AB,ENG CONCEPTS I,"d'Entremont, Agnes",66,74.35,12.06,98,38,62,4,0,0,0,0,0,0,1,3,4,1,0,3,3,10,14,12,9,0,10
+UBC,2017,W,MECH,224,,1CD,ENG CONCEPTS I,"d'Entremont, Agnes",67,68.28,13.93,94,37,54,13,0,0,0,0,0,0,2,11,13,0,1,2,5,9,18,6,9,0,4
+UBC,2017,W,MECH,224,,1RM,ENG CONCEPTS I,"d'Entremont, Agnes",5,62.2,2.49,64,58,5,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0
+UBC,2017,W,MECH,225,,2AB,ENG CONCEPTS II,"d'Entremont, Agnes",64,77.52,10.23,99,46,62,2,0,0,0,0,0,0,0,2,2,0,0,2,4,7,9,11,16,3,10
+UBC,2017,W,MECH,225,,2CD,ENG CONCEPTS II,"d'Entremont, Agnes",65,75.52,11.95,97,39,61,4,0,0,0,0,0,0,1,3,4,0,1,4,7,4,5,8,19,8,5
+UBC,2017,W,MECH,226,,001,TECH COMMUNICATN,"Eyking, Adrianna;Teslenko, Tatiana;d'Entremont, Agnes",115,81.05,4.64,94,68,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,26,51,22,3
+UBC,2017,W,MECH,436,,101,FUND INJ BIOMECH,"d'Entremont, Agnes",17,80.35,8.43,97,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,6,2,2
+UBC,2017,W,MECH,536,,101,FDMT INJ BIOMECH,"d'Entremont, Agnes",10,80.6,14.41,93,43,9,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,5,2
+UBC,2018,W,APSC,366,,201,ENG FOR NONENGNR,"Oxland, Thomas;d'Entremont, Agnes",48,80.5,16.23,98,0,44,2,0,0,0,1,0,0,0,1,2,1,0,1,1,2,3,3,10,13,10
+UBC,2018,W,MECH,220,,101,TECH SKILLS PRAC,"Abello Rubio, Juan;Atabaki, Nima;Fengler, Markus;Rawlings, George;d'Entremont, Agnes",121,82.63,4.82,92,71,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,18,45,40,5
+UBC,2018,W,MECH,221,,101,ENGIN SCIENCE I,"Nakane, Jonathan;Turner, Robin;Walls, Patrick;Wu, Chun;d'Entremont, Agnes",124,76.17,10.95,100,28,121,3,0,0,0,0,0,1,0,2,3,0,2,7,2,27,16,17,31,2,17
+UBC,2018,W,MECH,222,,201,ENGIN SCIENCE II,"Abello Rubio, Juan;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",121,81.05,7.62,97,62,120,0,0,0,1,0,0,0,0,0,0,0,0,1,2,14,12,12,39,20,20
+UBC,2018,W,MECH,223,,201,INTRO MECH DSGN,"Fengler, Markus;Nakane, Jonathan;Ostafichuk, Peter;d'Entremont, Agnes",125,72.33,10.48,95,32,121,3,0,0,1,0,0,0,3,0,3,4,5,11,5,11,25,33,19,5,3
+UBC,2018,W,MECH,224,,1AB,ENG CONCEPTS I,"d'Entremont, Agnes",63,76.63,13.51,100,28,59,4,0,0,0,0,0,1,1,2,4,0,0,3,0,12,5,9,18,1,11
+UBC,2018,W,MECH,224,,1CD,ENG CONCEPTS I,"d'Entremont, Agnes",61,72.84,12.36,99,41,56,5,0,0,0,0,0,0,0,5,5,1,2,3,1,12,10,8,12,1,6
+UBC,2018,W,MECH,224,,1RM,ENG CONCEPTS I,"d'Entremont, Agnes",8,64.88,7.06,78,57,8,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2,0,1,0,0,0
+UBC,2018,W,MECH,225,,2AB,ENG CONCEPTS II,"d'Entremont, Agnes",63,82.47,7.51,97,68,62,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,5,3,20,11,15
+UBC,2018,W,MECH,225,,2CD,ENG CONCEPTS II,"d'Entremont, Agnes",58,79.1,8.74,95,44,57,1,0,0,0,0,0,0,0,1,1,0,0,1,2,5,7,9,19,9,5
+UBC,2018,W,MECH,436,,101,FUND INJ BIOMECH,"d'Entremont, Agnes",19,79.53,8.92,92,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,0,4,4,3
+UBC,2018,W,MECH,536,,101,FDMT INJ BIOMECH,"d'Entremont, Agnes",5,75.8,15.04,96,60,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,1

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,GEOB,103,,101,CHNG ENV: WT&LND,"Chartrand, Shawn;Saletti, Matteo",211,73.2,13.13,99,30,198,8,4,0,0,0,0,0,4,4,8,12,7,13,22,20,24,27,30,20,23,,,
+UBC,2017,W,GEOB,103,,201,CHNG ENV: WT&LND,"Chartrand, Shawn;Saletti, Matteo",203,70.9,17.11,96,0,184,16,1,0,0,4,2,1,1,8,16,7,11,12,19,18,24,22,35,18,18,,,
+UBCV,2017,W,GEOB,103,,101,Our Changing Environment: Water and Landscapes,Anna Dufficy;Conor Mcdowell;Maria Elgueta;Matteo Saletti;Shawn Chartrand;William Booker,207,73.22705314,13.100864957,99.0,30.0,,,,,,,,,,,8,12,7,13,22,20,24,28,30,20,23,,,
+UBCV,2017,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,Anna Dufficy;Anya Leenman;Conor Mcdowell;Matteo Saletti;Shawn Chartrand;William Booker,202,70.945544554,17.052509042,96.0,0.0,,,,,,,,,,,16,7,11,12,20,18,24,22,35,19,18,,,
+UBCV,2019,W,GEOB,103,,101,Our Changing Environment: Water and Landscapes,James Pierce;Kyle Wlodarczyk;Matteo Saletti;Yinlue Wang,197,73.182741117,10.704619764,92.0,23.0,,,,,,,,,,,3,5,8,16,25,21,28,26,36,22,7,,,
+UBCV,2019,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,David Puhl;James Pierce;Matteo Saletti;Yinlue Wang,204,76.181372549,13.431506453,97.0,3.0,,,,,,,,,,,5,5,8,10,10,19,14,28,46,36,23,,,
+UBCV,2019,W,GEOB,406,,101,Watershed Geomorphology,Alexander Mitchell;Matteo Saletti,26,75.384615385,18.304266001,95.0,10.0,,,,,,,,,,,2,1,0,0,0,4,1,6,2,8,2,,,
+UBCV,2020,W,GEOB,103,,101,Our Changing Environment: Water and Landscapes,Conor Mcdowell;Kyle Wlodarczyk;Matteo Saletti;Yinlue Wang,199,75.311557789,14.616422792,96.0,1.0,,,,,,,,,,,7,3,4,5,16,25,13,30,48,30,18,,,
+UBCV,2020,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,Emily Grishaber;Kyle Wlodarczyk;Matteo Saletti;Mrinmoy Chakraborty,208,75.456730769,13.442238314,95.0,17.0,,,,,,,,,,,7,6,9,13,10,23,13,21,36,50,20,,,
+UBCV,2021,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,James Pierce;Matteo Saletti;Mrinmoy Chakraborty,141,78.368794326,16.042983044,97.0,0.0,,,,,,,,,,,4,9,7,4,5,6,7,11,27,24,37,,,
+UBCV,2021,W,GEOS,103,,101,Our Changing Environment: Water and Landscapes,Emily Grishaber;Kabir Rasouli;Matteo Saletti;Porter Abbey;Tianqi Xing;Yanyang Liu,105,83.819047619,11.446179202,97.0,45.0,,,,,,,,,,,2,3,0,2,1,6,4,10,10,25,42,,,
+UBCV,2021,S,GEOB,103,,921,Our Changing Environment: Water and Landscapes,Matteo Saletti,141,78.4,,97.0,0.0,,,,,,,,,,,,9,7,,,6,7,11,27,24,37,83.0,90.0,72.0

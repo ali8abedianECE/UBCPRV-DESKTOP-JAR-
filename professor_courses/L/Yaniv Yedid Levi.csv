@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,ECON,302,,004,INTRM MACRO ANLY,"Yedid Levi, Yaniv",64,70.92,14.33,91,21,59,3,2,0,0,0,0,1,0,2,3,7,3,4,4,5,9,8,10,4,5
+UBC,2010,W,ECON,305,,001,HONS I-MED MACRO,"Beaudry, Paul;Yedid Levi, Yaniv",25,80.17,11.63,93,51,24,0,1,0,0,0,0,0,0,0,0,2,0,1,0,1,0,4,5,6,5
+UBC,2010,W,ECON,602,,001,MACROECON I,"Beaudry, Paul;Yedid Levi, Yaniv",19,79.68,14.15,98,50,19,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3,3,3,2,5
+UBC,2011,W,ECON,302,,001,INTRM MACRO ANLY,"Yedid Levi, Yaniv",90,75.48,15.01,97,6,82,5,3,0,0,1,0,0,1,3,5,1,2,5,7,8,14,8,10,10,17
+UBC,2011,W,ECON,302,,004,INTRM MACRO ANLY,"Yedid Levi, Yaniv",78,69.7,16.92,100,19,68,8,2,0,0,0,1,0,2,5,8,7,8,3,4,7,11,5,6,7,10
+UBC,2011,W,ECON,305,,001,HONS I-MED MACRO,"Yedid Levi, Yaniv",29,87,8.88,97,58,29,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,1,8,15
+UBC,2012,W,ECON,302,,001,INTRM MACRO ANLY,"Yedid Levi, Yaniv",99,68.57,15.71,100,17,86,11,2,0,0,0,1,2,2,6,11,4,5,10,12,8,14,10,8,9,6
+UBC,2012,W,ECON,302,,004,INTRM MACRO ANLY,"Yedid Levi, Yaniv",91,67.7,15.19,96,19,82,9,0,0,0,0,1,1,1,6,9,11,6,6,8,10,9,13,8,7,4
+UBC,2012,W,ECON,305,,001,HONS I-MED MACRO,"Beaudry, Paul;Yedid Levi, Yaniv",28,86.42,9.04,95,50,26,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,4,8,11
+UBC,2012,W,ECON,602,,001,MACROECON I,"Beaudry, Paul;Yedid Levi, Yaniv",9,88.78,7.19,95,75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5
+UBC,2013,W,ECON,305,,001,HONS I-MED MACRO,"Yedid Levi, Yaniv",19,83.65,6.91,95,71,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,6,2,5
+UBC,2013,W,ECON,602,,001,MACROECON I,"Yedid Levi, Yaniv",12,87.92,7.8,100,72,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,4
+UBC,2014,W,ECON,302,,001,INTRM MACRO ANLY,"Yedid Levi, Yaniv",95,72.97,14.84,98,19,89,5,1,0,0,0,1,1,2,1,5,2,7,5,9,16,5,13,7,13,12
+UBC,2014,W,ECON,305,,001,HONS I-MED MACRO,"Beaudry, Paul;Yedid Levi, Yaniv",14,86.38,4.65,94,80,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,4
+UBC,2014,W,ECON,602,,001,MACROECON I,"Beaudry, Paul;Yedid Levi, Yaniv",14,84.29,5.98,91,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4,4
+UBC,2015,W,ECON,302,,002,INTRM MACRO ANLY,"Yedid Levi, Yaniv",100,71.46,15.46,97,14,91,5,2,0,0,0,1,0,2,2,5,9,9,8,6,7,10,9,13,7,13
+UBC,2015,W,ECON,302,,003,INTRM MACRO ANLY,"Yedid Levi, Yaniv",97,69.78,13.27,94,25,94,2,1,0,0,0,0,1,1,0,2,8,13,9,12,9,11,7,10,6,9
+UBC,2015,W,ECON,305,,001,HONS I-MED MACRO,"Beaudry, Paul;Yedid Levi, Yaniv",15,82.27,6.02,93,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,3,2
+UBC,2015,W,ECON,602,,001,MACROECON I,"Beaudry, Paul;Yedid Levi, Yaniv",14,84.71,7.42,98,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5,4,3
+UBC,2016,W,ECON,302,,002,INTRM MACRO ANLY,"Yedid Levi, Yaniv",79,75.79,10.56,96,47,77,1,1,0,0,0,0,0,0,1,1,1,4,5,6,6,13,9,16,13,4
+UBC,2016,W,ECON,302,,003,INTRM MACRO ANLY,"Yedid Levi, Yaniv",76,72.43,13.55,96,8,72,3,1,0,0,1,0,0,0,2,3,2,6,6,8,6,8,12,12,9,3
+UBC,2016,W,ECON,305,,002,HONS I-MED MACRO,"Siu, Henry;Yedid Levi, Yaniv",15,92.6,6.57,100,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,12
+UBC,2016,W,ECON,602,,001,MACROECON I,"Siu, Henry;Yedid Levi, Yaniv",14,82.75,6.48,96,75,12,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,4,2,2
+UBCV,2014,W,ECON,302,,001,Intermediate Macroeconomic Analysis I,Yaniv Yedid Levi,94,72.96808511,14.83634895,98.0,19.0,,,,,,,,,,,5,2,7,5,9,16,5,13,7,13,12
+UBCV,2014,W,ECON,305,,001,Honours Intermediate Macroeconomic Analysis I,Paul Beaudry;Yaniv Yedid Levi,13,86.38461539,4.64647647,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,,
+UBCV,2014,W,ECON,602,,001,Macroeconomics I,Paul Beaudry;Yaniv Yedid Levi,14,84.28571429,5.979819542,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2015,W,ECON,302,,002,Intermediate Macroeconomic Analysis I,Yaniv Yedid Levi,98,71.459183673,15.299867507,97.0,14.0,,,,,,,,,,,5,9,9,8,6,8,11,9,13,7,13
+UBCV,2015,W,ECON,302,,003,Intermediate Macroeconomic Analysis I,Yaniv Yedid Levi,96,69.78125,13.272213257,94.0,25.0,,,,,,,,,,,2,8,13,9,12,9,11,7,10,6,9
+UBCV,2015,W,ECON,305,,001,Honours Intermediate Macroeconomic Analysis I,Paul Beaudry;Yaniv Yedid Levi,15,82.266666667,6.017434986,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,6,,
+UBCV,2015,W,ECON,602,,001,Macroeconomics I,Paul Beaudry;Yaniv Yedid Levi,14,84.714285714,7.415457571,98.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,,
+UBCV,2016,W,ECON,302,,002,Intermediate Macroeconomic Analysis I,Anand Chopra;Yaniv Yedid Levi,78,75.7948718,10.55518458,96.0,47.0,,,,,,,,,,,1,1,4,5,6,6,13,9,16,13,4
+UBCV,2016,W,ECON,302,,003,Intermediate Macroeconomic Analysis I,Anand Chopra;Chenyu Hou;Yaniv Yedid Levi,75,72.42666667,13.55386983,96.0,8.0,,,,,,,,,,,3,2,6,6,8,6,8,12,12,9,3
+UBCV,2016,W,ECON,305,,002,Honours Intermediate Macroeconomic Analysis I,Henry Siu;Yaniv Yedid Levi,15,92.6,6.566146946,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,1,12
+UBCV,2016,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Henry Siu;Yaniv Yedid Levi,12,82.75,6.482493908,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,4,2,2
+UBCV,2017,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Henry Siu;Paul Beaudry;Yaniv Yedid Levi,20,88.05,8.312799263,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,1,13

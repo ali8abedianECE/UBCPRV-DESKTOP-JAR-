@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,CHEM,422,K,101,Special Topics in Chemistry,Robert Godin,9,77.0,9.836157786,89.0,58.0,0,0,1,0,1,0,1,3,1,2,0,,,
+UBCO,2019,W,CHEM,464,,001,Advanced Physical and Biophysical Chemistry Laboratory,Robert Godin,6,84.166666667,6.794605704,92.0,76.0,0,0,0,0,0,0,0,2,1,1,2,,,
+UBCO,2020,W,CHEM,422,K,101,Special Topics in Chemistry,Robert Godin,7,80.0,8.22597512,91.0,65.0,0,0,0,0,1,0,0,2,2,1,1,,,
+UBCO,2021,W,CHEM,422,K,101,Special Topics in Chemistry,Robert Godin,8,80.625,9.334077351,93.0,67.0,0,0,0,0,1,1,0,1,2,1,2,,,
+UBCO,2021,W,CHEM,422,K,101,Special Topics in Chemistry,Robert Godin,8,80.6,,93.0,67.0,,,,,,,,,,,,80.5,87.8,75.8
+UBCO,2022,W,CHEM,464,,001,Advanced Physical and Biophysical Chemistry Laboratory,Robert Godin,8,81.0,,86.0,70.0,0,0,0,0,0,1,0,2,2,3,0,81.5,86.0,78.8
+UBCO,2022,W,CHEM,507,Y,101,Topics in Physical Chemistry,Robert Godin;Isaac Li,6,91.0,,99.0,72.0,0,0,0,0,0,0,1,0,0,0,5,94.5,96.0,90.8
+UBCO,2023,W,CHEM,319,,101,Topics in Computerized Instrumentation,Robert Godin;Isaac Li,6,83.7,,95.0,69.0,0,0,0,0,0,1,1,0,0,2,2,87.5,89.5,76.5
+UBCO,2023,W,CHEM,464,,001,Advanced Physical and Biophysical Chemistry Laboratory,Robert Godin,9,73.0,,98.0,55.0,0,0,3,0,0,2,0,0,2,1,1,71.0,84.0,58.0

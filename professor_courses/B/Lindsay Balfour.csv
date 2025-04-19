@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,CULT,101,,002,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon;Lindsay Balfour,43,73.39534884,11.79010791,92.0,30.0,,,,,1,5,11,7,7,5,,,,
+UBCO,2020,W,ENGL,112,,019,Studies in Composition,Lindsay Balfour,28,78.75,8.404694455,89.0,48.0,1,0,0,0,1,1,5,2,11,7,0,,,
+UBCO,2020,W,ENGL,150,,007,Introduction to Literary Genre,Lindsay Balfour,34,79.352941176,5.640128695,85.0,62.0,0,0,0,1,2,1,0,8,18,4,0,,,
+UBCO,2020,W,ENGL,150,,009,Introduction to Literary Genre,Lindsay Balfour,35,76.6,7.16691746,87.0,57.0,0,0,1,2,2,0,8,11,7,4,0,,,
+UBCO,2020,W,ENGL,333,A,101,Canadian Fiction,Lindsay Balfour,30,74.633333333,16.234240811,86.0,0.0,2,0,0,1,0,1,5,7,11,3,0,,,
+UBCO,2021,S,ENGL,112,,102,Studies in Composition,Lindsay Balfour,25,78.4,6.191391874,91.0,64.0,0,0,0,0,1,2,6,4,8,3,1,,,
+UBCO,2021,S,ENGL,150,,001,Introduction to Literary Genre,Lindsay Balfour,30,78.966666667,4.649681734,88.0,70.0,0,0,0,0,0,2,5,9,10,4,0,,,
+UBCO,2021,S,ENGL,112,,102,Studies in Composition,Lindsay Balfour,25,78.4,,91.0,64.0,,,,,,,6,,8,,,78.0,82.0,75.0
+UBCO,2021,S,ENGL,150,,001,Introduction to Literary Genre,Lindsay Balfour,30,79.0,,88.0,70.0,,,,,,,,9,10,,,78.5,82.8,76.3

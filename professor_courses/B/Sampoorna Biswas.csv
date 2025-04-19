@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,304,,201,Introduction to Relational Databases,Jianing Yu;Kailang Jiang;Laks Lakshmanan;Nayantara Dutta Choudhury;Sampoorna Biswas;Yan Zhao,156,82.42948718,8.510420314,96.0,52.0,0,,,,4,8,17,16,36,34,36
+UBCV,2014,W,CPSC,430,,101,Computers and Society,Felipe Andres Banados Schwerter;Kevin Leyton-Brown;Nayantara Dutta Choudhury;Robert Sumi;Sampoorna Biswas,92,77.5326087,13.40202633,92.0,14.0,,,,,,8,,14,27,19,8
+UBCV,2015,S,CPSC,304,,911,Introduction to Relational Databases,Hassan Khosravi;Lauren Fung;Minwoo Kim;Nam Giang;Reza Babanezhad Harikande;Sampoorna Biswas;Shuoshi Sun,103,76.67961165,11.84061935,97.0,45.0,,,6,,6,6,11,13,21,22,9

@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,349,B,002,DIRECTED STUDIES,"Carolan, James",4,78.75,8.1,85,68,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0
+UBC,2003,W,PHYS,349,B,201,DIRECTED STUDIES,"Carolan, James",10,88.3,4.47,96,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+UBC,2003,W,PHYS,412,,201,ATOMIC & NUCLEAR,"Carolan, James",48,73.32,12.83,95,33,46,1,0,0,1,0,0,0,1,0,1,2,3,3,7,6,3,4,8,5,5
+UBC,2003,W,PHYS,449,,001,HONOURS THESIS,"Carolan, James;Zhitnitsky, Ariel",21,83.95,5.23,95,77,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,7,3
+UBC,2005,W,PHYS,102,,203,ELEC LIGHT & RAD,"Carolan, James;Milner-Bolotin, Marina",181,68.94,15.48,94,23,155,23,3,0,0,0,0,2,6,15,23,17,5,11,7,21,28,18,22,15,11
+UBC,2005,W,PHYS,102,,204,ELEC LIGHT & RAD,"Bates, Frances;Carolan, James;Matthews, Jaymie Mark",137,74.85,11.63,98,36,129,7,1,0,0,0,0,0,1,6,7,3,4,4,10,13,24,15,29,18,9
+UBC,2009,W,PHYS,100,,101,INTRO PHYSICS,"Carolan, James;Rieger, Georg",285,75.85,13.12,98,45,254,23,6,0,2,0,0,0,0,23,23,2,2,9,16,36,36,36,35,38,44
+UBC,2009,W,PHYS,100,,102,INTRO PHYSICS,"Carolan, James;Rieger, Georg;Zhou, Fei",245,77.78,13.47,100,19,224,17,2,0,2,0,1,0,1,15,17,0,2,9,8,25,22,34,45,34,45
+UBC,2009,W,PHYS,100,,103,INTRO PHYSICS,"Carolan, James;Rieger, Georg;Tchvialeva, Lioudmila",292,75.07,13.14,98,45,256,28,7,0,1,0,0,0,0,28,28,0,3,8,18,36,39,36,50,33,33
+UBC,2013,W,SCIE,113,,214,SCIE SEMINAR,"Carolan, James;Steyn, Douw Gerbrand",26,70.31,16.08,86,16,24,2,0,0,0,0,1,0,1,0,2,2,1,0,2,1,5,5,7,1,0
+UBC,2014,W,SCIE,113,,114,SCIE SEMINAR,"Carolan, James;Steyn, Douw Gerbrand",26,75.19,8.65,90,50,26,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,6,4,9,0,1
+UBC,2015,W,SCIE,113,,114,SCIE SEMINAR,"Carolan, James;Oberg, Gunilla",24,72.43,7.9,90,53,23,0,1,0,0,0,0,0,0,0,0,1,0,2,1,6,7,0,5,0,1
+UBC,2016,W,SCIE,113,,113,SCIE SEMINAR,"Carolan, James",24,79.42,5.75,88,60,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,9,4,0
+UBCV,2014,W,SCIE,113,,114,First-Year Seminar in Science,Douw Gerbrand Steyn;James Carolan,26,75.19230769,8.653411955,90.0,50.0,,,,,,,,,,,0,,,,,,6,,9,,
+UBCV,2015,W,PHYS,203,,201,Thermal Physics I,Chengshu Li;James Carolan;Joanna Karczmarek;Stephen Pietromonaco,113,68.716814159,18.171538296,98.0,3.0,,,,,,,,,,,13,4,9,6,11,9,19,10,15,8,9
+UBCV,2015,W,SCIE,113,,114,First-Year Seminar in Science,Gunilla Oberg;James Carolan,23,72.434782609,7.901818473,90.0,53.0,,,,,,,,,,,0,,,,,6,7,,5,,
+UBCV,2016,W,PHYS,203,,201,Thermal Physics I,Chengshu Li;David Stephen;James Carolan;Joanna Karczmarek,116,69.30172414,18.07386767,99.0,0.0,,,,,,,,,,,10,5,9,8,12,16,11,8,17,12,8
+UBCV,2016,W,SCIE,113,,113,First-Year Seminar in Science,James Carolan,24,79.41666667,5.747715362,88.0,60.0,,,,,,,,,,,0,0,0,1,0,0,3,7,9,4,0

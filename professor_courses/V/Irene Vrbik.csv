@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,COSC,301,,001,Introduction to Data Analytics,Irene Vrbik,48,78.541666667,11.3155106,99.0,53.0,0,1,4,0,1,7,5,7,7,8,8,,,
+UBCO,2018,W,COSC,301,,101,Introduction to Data Analytics,Irene Vrbik,76,80.513157895,12.930061532,100.0,39.0,2,0,3,2,2,8,8,8,11,13,19,,,
+UBCO,2018,W,DATA,101,,101,Making Predictions with Data,Dongying Wang;Irene Vrbik;Liam Welsh;Maria Guenter;Parker Gregoire-Jenkins,27,61.703703704,29.888015111,100.0,0.0,5,4,1,2,2,1,1,2,3,1,5,,,
+UBCO,2018,W,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik;Thomas Reid;Zachary Bentsen,30,77.266666667,14.146848884,100.0,36.0,1,0,1,2,5,1,4,1,2,7,6,,,
+UBCO,2018,W,DATA,301,,101,Introduction to Data Analytics,Irene Vrbik;Jordan Gardener;Thomas Reid;Zachary Bentsen,62,78.435483871,14.425183998,98.0,22.0,2,2,0,5,3,4,8,6,8,9,15,,,
+UBCO,2018,W,DATA,501,,001,Data Analytics,Irene Vrbik,10,90.5,5.06074215,99.0,84.0,0,0,0,0,0,0,0,0,1,4,5,,,
+UBCO,2018,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik;Matthew Fritter;Matthew S Fritter,28,87.464285714,8.039173271,99.0,71.0,0,0,0,0,0,1,1,3,3,7,13,,,
+UBCO,2018,W,DATA,570,,001,Predictive Modelling,Irene Vrbik;Joyce Epp,28,93.357142857,2.391563656,99.0,88.0,0,0,0,0,0,0,0,0,0,1,27,,,
+UBCO,2018,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik;Joyce Epp,28,84.857142857,7.682178924,97.0,70.0,0,0,0,0,0,2,3,1,6,6,10,,,
+UBCO,2018,W,STAT,230,,001,Introductory Statistics,Irene Vrbik;Jordan Gardener;Maria Guenter;Marlie Russell;Phillip Shreeves;Quincy Ngo;Susheel Palakurthi,153,70.078431373,16.423879202,99.0,16.0,16,6,12,14,14,16,11,17,12,19,16,,,
+UBCO,2018,W,STAT,230,,002,Introductory Statistics,Irene Vrbik;Jordan Gardener;Maria Guenter;Marlie Russell;Phillip Shreeves;Quincy Ngo;Susheel Palakurthi,92,63.989130435,16.390492128,94.0,0.0,12,8,7,13,10,11,10,7,9,3,2,,,
+UBCO,2018,W,STAT,303,,001,Introduction to Probability,Irene Vrbik;Jason Loeppky;Jordan Gardener;Lengyi Han,57,70.49122807,16.343547009,100.0,25.0,8,3,3,5,4,6,4,3,10,2,9,,,
+UBCO,2019,S,COSC,301,,001,Introduction to Data Analytics,Irene Vrbik;Mayeesha Mariam;Patrick Epman,33,71.818181818,20.120658764,99.0,24.0,7,1,0,1,2,4,0,3,5,2,8,,,
+UBCO,2019,S,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik,22,78.954545455,14.394037366,98.0,44.0,2,0,0,1,0,2,3,0,4,5,5,,,
+UBCO,2019,S,DATA,501,,001,Data Analytics,Irene Vrbik,9,75.333333333,12.0,95.0,60.0,0,0,0,1,2,1,0,2,1,1,1,,,
+UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.791044776,16.379530198,97.0,13.0,5,0,2,2,5,1,13,7,6,18,8,,,
+UBCO,2019,W,COSC,301,,101,Introduction to Data Analytics,Barret Jackson;Billy Spelchan;Chaoping Guo;Congsong Zhang;Irene Vrbik;Kyle Ranslam;Nusrat Momo;Ramon Lawrence;Roozbeh Eslami;Zhenyuan Ma,71,82.211267606,12.744652092,99.0,50.0,0,2,1,4,5,3,6,7,8,5,30,,,
+UBCO,2019,W,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik;Ramon Lawrence,46,73.695652174,14.145073057,94.0,33.0,2,3,4,2,5,2,4,2,11,9,2,,,
+UBCO,2019,W,DATA,301,,101,Introduction to Data Analytics,Barret Jackson;Irene Vrbik;Jeffrey Andrews;Kyle Ranslam;Ramon Lawrence;Zhenyuan Ma,66,81.878787879,13.102571857,100.0,50.0,0,4,2,1,1,3,6,8,9,9,23,,,
+UBCO,2019,W,DATA,501,,001,Data Analytics,Irene Vrbik;Ramon Lawrence,17,87.117647059,8.16151298,96.0,67.0,0,0,0,0,1,0,1,2,1,3,9,,,
+UBCO,2019,W,DATA,501,,101,Data Analytics,Irene Vrbik;Ramon Lawrence,6,85.666666667,4.844240567,93.0,80.0,0,0,0,0,0,0,0,0,4,0,2,,,
+UBCO,2019,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik,35,89.542857143,6.648055254,100.0,71.0,0,0,0,0,0,1,1,1,5,6,21,,,
+UBCO,2019,W,DATA,570,,001,Predictive Modelling,Debangsha Sarkar;Dongying Wang;Irene Vrbik,35,90.2,4.701689308,97.0,81.0,0,0,0,0,0,0,0,0,6,9,20,,,
+UBCO,2019,W,DATA,582,,101,Bayesian Inference,Debangsha Sarkar;Irene Vrbik,35,89.457142857,7.212500819,99.0,66.0,0,0,0,0,1,0,1,1,4,4,24,,,
+UBCO,2019,W,STAT,230,,001,Introductory Statistics,Chelsey Hvingelby;Irene Vrbik;Phillip Shreeves;Sarah Macqueen,143,63.734265734,15.537302251,100.0,27.0,18,22,16,18,15,10,10,12,7,6,9,,,
+UBCO,2020,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik;Jeffrey Andrews,31,91.032258065,4.254283104,98.0,82.0,0,0,0,0,0,0,0,0,3,9,19,,,
+UBCO,2020,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik,31,86.806451613,10.706444647,100.0,62.0,0,0,0,1,0,2,3,2,4,2,17,,,
+UBCO,2020,W,DATA,599,,101,Capstone,Debangsha Sarkar;Dongying Wang;Irene Vrbik;Scott Fazackerley;Yiming Ding,31,91.580645161,7.210058685,99.0,68.0,0,0,0,0,0,1,0,1,0,10,19,,,
+UBCO,2021,W,DATA,311,,101,Machine Learning,Irene Vrbik;Ladan Tazik;Mohamad Khajezade;Xiaoou Liu,80,73.875,20.140251906,100.0,0.0,6,7,4,2,4,6,8,7,10,8,18,,,
+UBCO,2021,W,STAT,230,,001,Introductory Statistics,Chunlei Ge;Indira Mishra;Irene Vrbik;Pau Capera Aragones;Xinchen Deng,90,69.577777778,14.86567404,98.0,37.0,7,8,12,5,7,8,12,4,10,8,9,,,
+UBCO,2021,W,STAT,230,,101,Introductory Statistics,Chunlei Ge;Irene Vrbik;Wanye Gao;Xiaoyu Mao,133,73.195488722,15.974628865,100.0,13.0,9,9,6,10,9,12,15,13,15,16,19,,,
+UBCO,2021,W,DATA,311,,101,Machine Learning,Irene Vrbik,80,73.9,,100.0,0.0,6,7,,,,6,8,7,10,8,18,76.0,88.3,65.0
+UBCO,2021,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,30,95.1,,99.0,88.0,,,,,,,,,,,28,96.5,98.0,93.0
+UBCO,2021,W,DATA,599,,101,Capstone,Firas Moosvi;Irene Vrbik,30,92.4,,98.0,82.0,,,,,,,,,,,24,93.5,96.5,93.0
+UBCO,2021,W,STAT,230,,101,Introductory Statistics,Irene Vrbik,131,74.4,,100.0,34.0,7,8,6,10,9,12,15,13,15,16,20,75.0,85.0,65.5
+UBCO,2022,W,DATA,311,,201,Machine Learning,Irene Vrbik,85,70.3,,96.0,0.0,9,4,4,3,11,10,7,8,6,14,9,72.0,85.0,64.0
+UBCO,2022,W,DATA,550,,001,Dataviz I,Irene Vrbik,30,95.9,,100.0,90.0,0,0,0,0,0,0,0,0,0,0,30,96.0,99.0,94.0
+UBCO,2022,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,30,84.3,,95.0,65.0,0,0,0,0,1,2,0,3,7,9,8,85.5,89.8,81.0
+UBCO,2023,S,DATA,599,,101,Capstone,Firas Moosvi;Irene Vrbik,31,87.33,,95.0,74.0,0,0,0,0,0,0,1,3,4,11,11,88.0,91.0,83.75
+UBCO,2023,W,DATA,101,,001,Making Predictions with Data,Irene Vrbik,117,70.9,,99.0,0.0,12,3,2,6,10,13,6,11,17,11,16,76.0,84.5,65.5
+UBCO,2023,W,DATA,311,,101,Machine Learning,Irene Vrbik,120,71.2,,98.0,0.0,5,8,10,9,12,8,20,9,15,8,13,73.0,82.0,62.0
+UBCO,2023,W,DATA,550,,001,Dataviz I,Irene Vrbik,40,93.4,,99.0,81.0,0,0,0,0,0,0,0,0,2,2,36,94.0,97.0,92.0
+UBCO,2023,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,40,88.2,,99.0,77.0,0,0,0,0,0,0,0,4,6,10,20,89.5,92.3,84.8
+UBCO,2023,W,STAT,205,,101,Introduction to Mathematical Statistics,Irene Vrbik,18,67.9,,94.0,0.0,3,1,0,0,0,3,2,0,2,4,2,74.0,85.0,68.0

@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BIOC,302,,102,GENERAL BIOCHEM,"Roberge, Michel",271,73.76,13.82,96,0,256,12,3,0,0,1,0,0,3,8,12,10,12,26,25,20,26,26,45,38,28
+UBC,2002,W,BIOC,302,,202,GENERAL BIOCHEM,"Roberge, Michel",178,70.05,13.05,95,36,162,11,3,0,2,0,0,0,3,8,11,16,9,14,19,11,27,21,22,16,7
+UBC,2002,W,BIOC,521,,201,ADV TPCS MOLE BI,"Roberge, Michel",17,86,1.97,90,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,1
+UBC,2003,W,BIOC,302,,102,GENERAL BIOCHEM,"Roberge, Michel",308,73.63,13.33,98,17,297,7,2,0,2,0,1,2,3,1,7,19,21,25,12,32,34,40,49,36,29
+UBC,2003,W,BIOC,302,,202,GENERAL BIOCHEM,"Roberge, Michel",191,69.96,14.83,94,0,170,15,6,0,0,2,0,0,4,9,15,4,14,14,21,25,26,12,27,18,9
+UBC,2003,W,BIOC,521,,201,ADV TPCS MOLE BI,"Roberge, Michel",11,86.09,2.84,91,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,2
+UBC,2005,W,BIOC,521,,201,ADV TPCS MOLE BI,"Roberge, Michel",13,86.54,1.81,91,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,1
+UBC,2006,W,BIOC,521,,201,ADV TPCS MOLE BI,"Roberge, Michel",12,89.45,3.24,93,84,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2007,W,BIOC,521,,201,ADV TPCS MOLE BI,"Roberge, Michel",20,87.2,3.11,93,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,5
+UBC,2009,W,BIOC,521,,201,ADV TPCS MOLE BI,"Finlay, B Brett;Roberge, Michel",9,87.67,1.8,90,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2
+UBC,2012,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Cullis, Pieter;Foster, Leonard;Roberge, Michel",16,88.19,3.56,94,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,6
+UBC,2013,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel",28,80.57,2.78,85,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,14,4,0
+UBC,2014,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",13,84.31,5.74,97,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,2
+UBC,2014,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",14,85.14,4.96,96,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,2
+UBC,2015,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,86.17,3.97,92,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,11,3
+UBC,2015,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,87.22,4.39,96,79,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,6
+UBC,2016,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,78.67,2.33,83,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,6,0,0
+UBC,2016,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",18,81.72,4.36,91,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,4,1
+UBC,2017,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",15,81.33,6.7,91,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,6,3,2
+UBC,2017,W,BIOC,460,,002,ADV TECHNIQ BIOC,"Foster, Leonard;Roberge, Michel;Tokuriki, Nobuhiko",17,86.06,4.38,92,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,4

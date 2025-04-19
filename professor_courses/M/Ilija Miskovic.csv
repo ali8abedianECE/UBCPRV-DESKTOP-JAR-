@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MINE,497,B,201,DIR STUD,"Miskovic, Ilija",5,82.6,6.66,89,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,,,
+UBC,2016,W,MINE,552,,201,MIN GEOSTAT,"Miskovic, Ilija",11,88.36,6.76,100,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,6,,,
+UBC,2017,W,MINE,432,,101,MIN PROC CONTR,"Miskovic, Ilija",44,79.61,10.6,95,52,44,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,6,6,9,11,6,,,
+UBC,2017,W,MINE,497,B,201,DIR STUD,"Miskovic, Ilija",6,73.17,7.68,81,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,,,
+UBC,2017,W,MINE,552,,201,MIN GEOSTAT,"Miskovic, Ilija",8,83.63,3.85,92,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,,,
+UBC,2018,W,MINE,420,,201,APPLIED GEOSTATS,"Miskovic, Ilija",15,77.8,8.96,93,60,15,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,6,0,2,2,,,
+UBC,2018,W,MINE,432,,101,MIN PROC CONTR,"Miskovic, Ilija",52,83.42,4.85,93,73,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,23,13,6,,,
+UBCV,2016,W,MINE,552,,201,Mining Geostatistics,Ilija Miskovic,11,88.36363636,6.756814742,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,1,6,,,
+UBCV,2017,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic;Paige Merko;Paige Taylor Megan Merko,44,79.613636364,10.603237569,95.0,52.0,,,,,,,,,,,0,2,2,0,0,2,6,6,9,11,6,,,
+UBCV,2017,W,MINE,497,B,201,Directed Studies,Ilija Miskovic,6,73.166666667,7.678975626,81.0,60.0,,,,,,,,,,,0,0,0,1,0,1,2,0,2,0,0,,,
+UBCV,2017,W,MINE,552,,201,Mining Geostatistics,Ilija Miskovic,8,83.625,3.852179346,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,1,1,,,
+UBCV,2018,W,MINE,420,,201,Applied Geostatistics,Chaitrali Ghodke;Ilija Miskovic,15,77.8,8.961823794,93.0,60.0,,,,,,,,,,,0,0,0,1,1,1,2,6,0,2,2,,,
+UBCV,2018,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic;Matias Pinto Ahumada;Utkan Caliskan,52,83.423076923,4.852111543,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,9,23,13,6,,,
+UBCV,2019,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic,7,90.428571429,9.863352082,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,0,5,,,
+UBCV,2019,W,MINE,432,,101,Mineral Process Control,Danny George;Ilija Miskovic;Matias Pinto Ahumada,37,75.162162162,7.399375024,85.0,50.0,,,,,,,,,,,0,2,0,0,1,3,15,2,12,2,0,,,
+UBCV,2020,W,MINE,402,,101,Mine Ventilation and Occupational Health and Safety,Ali Kuyuk;Ilija Miskovic;Seyed Ghoreishi-Madiseh,34,78.617647059,7.575937609,86.0,52.0,,,,,,,,,,,0,1,1,0,0,2,3,6,17,4,0,,,
+UBCV,2020,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic;Obada Alhumsi,17,84.176470588,11.620215651,95.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,2,2,2,8,,,
+UBCV,2020,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic;Obada Alhumsi,36,85.166666667,10.699799731,100.0,57.0,,,,,,,,,,,0,0,2,2,0,0,1,1,9,3,18,,,
+UBCV,2021,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic,7,79.857142857,11.596386958,100.0,62.0,,,,,,,,,,,0,0,0,1,0,0,2,0,3,0,1,,,
+UBCV,2021,W,MINE,432,,101,Mineral Process Control,Guilherme Lindner;Ilija Miskovic;Reza Rabbi,25,90.12,10.453548042,99.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,1,0,3,19,,,
+UBCV,2021,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic,7,79.9,,100.0,62.0,,,,,,,,,,,,,,,,,,,,,,82.0,83.0,74.5
+UBCV,2021,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic,25,90.1,,99.0,50.0,,,,,,,,,,,,,,,,,,,,,19,94.0,96.0,90.0
+UBCV,2022,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic,8,94.9,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,94.5,97.3,93.0
+UBCV,2022,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic,20,84.6,,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,3,2,8,84.0,91.0,79.0
+UBCV,2023,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic,8,74.43,,90.0,33.0,,,,,,,,,,,1,0,0,1,0,0,0,0,3,0,2,83.0,86.5,71.0
+UBCV,2023,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic,31,86.48,,97.0,58.0,,,,,,,,,,,0,0,1,0,0,0,1,2,4,10,13,88.0,92.0,84.5
+UBCV,2023,W,MINE,552,,201,Mining Geostatistics,Ilija Miskovic,7,87.86,,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,2,88.0,90.0,85.0

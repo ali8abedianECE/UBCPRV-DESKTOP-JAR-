@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,PHYS,216,,201,Intermediate Mechanics,Byron Wilson;Moshe Rozali;Rui Yang;Wei Zhao,92,78.815217391,19.08795682,100.0,6.0,6,,,,,7,9,,13,13,31
+UBCV,2016,W,PHYS,229,,L2A,Intermediate Experimental Physics II,Andrew Finlay;Douglas Andrew Bonn;Rui Yang,30,84.13333333,9.149084497,97.0,45.0,1,0,0,0,0,1,1,0,9,14,4
+UBCV,2016,W,PHYS,229,,L2C,Intermediate Experimental Physics II,Douglas Andrew Bonn;Rui Yang;Vincent Wong,26,81.34615385,7.620720741,94.0,65.0,0,0,0,0,2,0,3,4,8,5,4

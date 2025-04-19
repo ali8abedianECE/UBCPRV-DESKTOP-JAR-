@@ -1,0 +1,84 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MATH,220,,106,MATH PROOF,"Demirbas, Seckin",65,72.11,13.2,99,34,63,2,0,0,0,0,0,0,1,1,2,5,4,5,7,8,8,2,11,8,5,,,
+UBC,2016,W,MATH,257,,201,PARTL DIFF EQUAT,"Demirbas, Seckin",108,67.64,14.65,98,0,100,7,0,0,1,1,0,1,3,2,7,9,9,8,16,11,12,12,13,8,2,,,
+UBC,2016,W,MATH,257,,202,PARTL DIFF EQUAT,"Demirbas, Seckin",27,68.92,24.17,93,0,20,5,1,0,1,1,0,1,2,1,5,1,1,0,0,3,1,2,4,3,5,,,
+UBC,2016,W,MATH,316,,201,DIFF EQUATIONS 2,"Demirbas, Seckin",18,60.18,16.17,87,27,13,4,1,0,0,0,0,1,0,3,4,1,4,2,0,1,2,0,2,1,0,,,
+UBC,2016,W,MATH,316,,202,DIFF EQUATIONS 2,"Demirbas, Seckin",100,68.23,17.3,94,13,83,16,1,0,0,0,1,0,7,8,16,9,1,4,3,9,20,7,15,8,7,,,
+UBC,2017,W,MATH,215,,201,ELEM DIFF EQ I,"Demirbas, Seckin",132,69.9,17.68,98,21,111,13,5,0,3,0,0,2,5,6,13,12,8,10,8,4,14,12,11,14,18,,,
+UBC,2017,W,MATH,220,,101,MATH PROOF,"Demirbas, Seckin",65,69.64,15.08,98,33,59,5,1,0,0,0,0,0,2,3,5,8,5,4,4,9,4,3,10,6,6,,,
+UBC,2017,W,MATH,220,,106,MATH PROOF,"Demirbas, Seckin",61,68,12.86,92,36,53,5,1,0,2,0,0,0,1,4,5,5,6,3,4,12,7,3,7,4,2,,,
+UBC,2018,W,MATH,103,,201,INT CALC AP LF S,"Demirbas, Seckin",210,69.21,13.22,97,35,193,13,2,0,2,0,0,0,4,9,13,14,18,21,25,29,20,16,19,18,13,,,
+UBC,2018,W,MATH,184,,105,CALC SOCSCI COMM,"Demirbas, Seckin",197,65.5,15.47,98,15,171,19,5,0,2,0,1,4,6,8,19,19,27,22,12,20,23,10,16,12,10,,,
+UBC,2018,W,MATH,220,,104,MATH PROOF,"Demirbas, Seckin",64,60.71,15.03,94,25,50,12,1,0,1,0,0,1,2,9,12,11,7,6,2,12,4,1,3,1,3,,,
+UBC,2018,W,MATH,220,,203,MATH PROOF,"Demirbas, Seckin",64,63.67,12.61,90,36,58,5,1,0,0,0,0,0,2,3,5,8,16,4,3,8,6,5,5,1,2,,,
+UBC,2018,W,MATH,264,,201,VCTR CALC EL ENG,"Demirbas, Seckin",109,69.6,12.25,99,41,99,5,3,0,2,0,0,0,0,5,5,6,5,12,18,15,15,9,3,9,7,,,
+UBC,2018,W,MATH,264,,202,VCTR CALC EL ENG,"Demirbas, Seckin",96,65.21,12.5,93,33,81,11,0,0,4,0,0,0,3,8,11,9,3,12,17,9,13,7,4,4,3,,,
+UBCV,2016,W,MATH,220,,106,Mathematical Proof,Jingyi Chen;Seckin Demirbas,65,72.10769231,13.20407498,99.0,34.0,,,,,,,,,,,2,5,4,5,7,8,8,2,11,8,5,,,
+UBCV,2016,W,MATH,257,,201,Partial Differential Equations,Anthony Peirce;Seckin Demirbas,108,67.30555556,15.00059708,98.0,0.0,,,,,,,,,,,8,9,9,8,16,11,12,12,13,8,2,,,
+UBCV,2016,W,MATH,257,,202,Partial Differential Equations,Anthony Peirce;Seckin Demirbas,26,66.38461539,26.98455399,93.0,0.0,,,,,,,,,,,6,1,1,0,0,3,1,2,4,3,5,,,
+UBCV,2016,W,MATH,316,,201,Elementary Differential Equations II,Anthony Peirce;Seckin Demirbas,17,60.17647059,16.16800581,87.0,27.0,,,,,,,,,,,4,1,4,2,0,1,2,0,2,1,0,,,
+UBCV,2016,W,MATH,316,,202,Elementary Differential Equations II,Anthony Peirce;Seckin Demirbas,83,67.96385542,17.6810811,94.0,13.0,,,,,,,,,,,14,8,1,3,2,8,15,7,12,7,6,,,
+UBCV,2017,W,MATH,215,,201,Elementary Differential Equations I,K Wayne Nagata;Seckin Demirbas,127,68.57480315,19.481582546,98.0,6.0,,,,,,,,,,,16,12,8,10,8,4,14,12,11,14,18,,,
+UBCV,2017,W,MATH,220,,101,Mathematical Proof,Jingyi Chen;Seckin Demirbas,64,69.640625,15.075858119,98.0,33.0,,,,,,,,,,,5,8,5,4,4,9,4,3,10,6,6,,,
+UBCV,2017,W,MATH,220,,106,Mathematical Proof,Jingyi Chen;Seckin Demirbas,60,66.15,16.308285302,92.0,0.0,,,,,,,,,,,7,5,6,3,4,12,7,3,7,4,2,,,
+UBCV,2018,W,MATH,103,,201,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Alastair Jamieson-Lane;Michael Walter Doebeli;Rebeca Cardim Falcao;Seckin Demirbas,207,69.111111111,13.273530936,97.0,35.0,,,,,,,,,,,14,14,18,21,25,29,20,16,19,18,13,,,
+UBCV,2018,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,Chen-Chih Lai;Elliot Cheung;Hyunju Kwon;James Wu;Jenna Downey;Keqin Liu;Liheng Chen;Nicolas Folinsbee;Oliver Leigh;Seckin Demirbas;William Gant;Yu-Hsiang Liu,192,65.208333333,15.729997132,98.0,15.0,,,,,,,,,,,20,20,27,22,12,20,23,10,16,12,10,,,
+UBCV,2018,W,MATH,220,,104,Mathematical Proof,Ethan White;Seckin Demirbas,63,60.142857143,15.573817092,94.0,25.0,,,,,,,,,,,13,11,7,6,2,12,4,1,3,1,3,,,
+UBCV,2018,W,MATH,220,,203,Mathematical Proof,Amir Hossein Parvardi;Rachel Ollivier;Seckin Demirbas,63,63.666666667,12.608241033,90.0,36.0,,,,,,,,,,,5,8,16,4,3,8,6,5,5,1,2,,,
+UBCV,2018,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Michael Deakin;Michael Fremont Deakin;Seckin Demirbas,106,69.179245283,13.026564193,99.0,21.0,,,,,,,,,,,6,6,5,12,18,15,16,9,3,9,7,,,
+UBCV,2018,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Michael Deakin;Michael Fremont Deakin;Seckin Demirbas,95,63.263157895,16.391623786,93.0,1.0,,,,,,,,,,,14,9,3,12,17,9,13,7,4,4,3,,,
+UBCV,2019,S,MATH,300,,951,Introduction to Complex Variables,Elliot Cheung;Seckin Demirbas,58,61.896551724,19.910932953,98.0,0.0,,,,,,,,,,,13,7,4,2,6,7,4,5,4,1,5,,,
+UBCV,2019,W,MATH,103,,201,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Christoph Hauert;Clinton Durney;Michael Walter Doebeli;Rebeca Cardim Falcao;Seckin Demirbas,193,70.730569948,11.902378447,97.0,38.0,,,,,,,,,,,1,18,19,21,17,28,16,15,30,17,11,,,
+UBCV,2019,W,MATH,220,,102,Mathematical Proof,Jingyi Chen;Nina Morishige;Seckin Demirbas,50,64.7,15.284045303,100.0,25.0,,,,,,,,,,,4,7,10,2,6,5,4,3,5,2,2,,,
+UBCV,2019,W,MATH,220,,104,Mathematical Proof,Alma Hernandez Torres;Alma Sarai Hernandez Torres;Jingyi Chen;Seckin Demirbas,47,65.595744681,15.373126714,98.0,31.0,,,,,,,,,,,5,5,4,6,6,6,5,2,3,1,4,,,
+UBCV,2019,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Han Hong;Seckin Demirbas,80,68.95,10.327424471,94.0,50.0,,,,,,,,,,,0,7,7,10,13,13,11,8,4,3,4,,,
+UBCV,2019,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Han Hong;Seckin Demirbas,84,66.047619048,13.65840115,96.0,16.0,,,,,,,,,,,6,5,11,13,13,3,10,9,9,2,3,,,
+UBCV,2020,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Alireza Naderi;Aneesh Bulusu;Christoph Hauert;Elliot Cheung;Ha Jung Rachel Han;Katharine Faulkner;Ken Mawer;Mihai Marian;Mikhail Chernobai;Nina Morishige;Prajeet Bajpai;Qidi Zhang;Seckin Demirbas;Sol Lee;Xianda Sun,127,59.078740157,15.921237837,91.0,0.0,,,,,,,,,,,26,16,18,17,11,13,11,6,1,6,2,,,
+UBCV,2020,W,MATH,110,,004,Differential Calculus,Aneesh Bulusu;Charlotte Trainor;Emma Hansen;Justin Furlotte;Seckin Demirbas,200,66.62,17.310513261,98.0,0.0,,,,,,,,,,,21,13,22,13,17,26,23,17,28,13,7,,,
+UBCV,2020,W,MATH,220,,101,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Gregory Martin;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,53,71.660377358,11.877489045,92.0,39.0,,,,,,,,,,,2,2,5,2,8,7,7,6,5,7,2,,,
+UBCV,2020,W,MATH,220,,102,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,49,63.428571429,16.751865568,88.0,19.0,,,,,,,,,,,7,6,7,5,3,3,2,3,10,3,0,,,
+UBCV,2020,W,MATH,220,,103,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Hannah Kohut;Itay Londner;Jacob Stockton;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Thomas Williams,39,66.384615385,13.394058747,85.0,32.0,,,,,,,,,,,4,3,4,3,1,6,8,5,4,1,0,,,
+UBCV,2020,W,MATH,220,,104,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,44,67.0,16.065273831,99.0,29.0,,,,,,,,,,,7,2,3,3,6,5,5,3,5,1,4,,,
+UBCV,2020,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Rachel Ollivier;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,68,73.073529412,8.714914607,93.0,47.0,,,,,,,,,,,1,0,5,3,8,11,14,6,16,2,2,,,
+UBCV,2020,W,MATH,220,,106,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Gregory Martin;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Shen-Ning Tung;Simone Maletto;Sina Saleh;Thomas Williams,44,65.75,11.796974385,89.0,39.0,,,,,,,,,,,4,3,4,5,12,4,3,2,3,4,0,,,
+UBCV,2020,W,MATH,220,,107,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,41,71.243902439,11.508215517,90.0,46.0,,,,,,,,,,,1,2,5,3,4,2,9,4,5,5,1,,,
+UBCV,2020,W,MATH,220,,108,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,35,70.2,12.430512743,90.0,38.0,,,,,,,,,,,2,1,3,4,2,6,4,3,6,3,1,,,
+UBCV,2020,W,MATH,220,,109,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Delphin Guilhem Senizergues;Delphin Senizergues;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,38,64.973684211,15.276703412,91.0,31.0,,,,,,,,,,,6,2,4,3,2,6,5,3,5,1,1,,,
+UBCV,2020,W,MATH,220,,110,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dac Nham Tam Nguyen;Dac-Nhan-Tam Nguyen;Hannah Kohut;Jacob Stockton;Keegan Boyle;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,42,67.80952381,15.867189794,91.0,24.0,,,,,,,,,,,4,5,4,2,4,3,2,7,5,2,4,,,
+UBCV,2020,W,MATH,220,,201,Mathematical Proof,Ahmet Alperen Bulut;Benjamin Friedman;Benjamin Garbuz;Delphin Senizergues;Devang Agarwal;Ethan Armitage;Hannah Kohut;Jacob Stockton;Julien Gagnon;Kai Behrend;Nina Morishige;Noe Ducharme;Rachel Ollivier;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,35,63.857142857,11.185975613,81.0,38.0,,,,,,,,,,,4,4,3,4,4,8,3,2,3,0,0,,,
+UBCV,2020,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Han Hong;Seckin Demirbas,84,69.011904762,14.140852591,95.0,4.0,,,,,,,,,,,4,5,8,12,8,7,13,4,12,7,4,,,
+UBCV,2020,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Han Hong;Seckin Demirbas,81,67.50617284,15.938258576,96.0,5.0,,,,,,,,,,,8,8,8,8,5,8,6,10,8,8,4,,,
+UBCV,2021,W,MATH,110,,004,Differential Calculus,Alireza Yazdani;Cyrus Young;Daniel Shirvani;Duncan Macintyre;Emma Hansen;Forest Kobayashi;Jason Sheng Li;Justin Furlotte;Katja Nell;Madeleine Ruth Langran Desbrisay;Patrik Coulibaly;Quang Vuong;Samuel Munn;Seckin Demirbas,176,60.994318182,22.974146254,100.0,2.0,,,,,,,,,,,41,17,11,13,17,13,16,7,15,11,15,,,
+UBCV,2021,W,MATH,220,,101,Mathematical Proof,Andrew Rechnitzer;Angel Cruz;Hannah Kohut;Jingyi Chen;Seckin Demirbas,69,69.188405797,12.602842072,95.0,42.0,,,,,,,,,,,3,7,6,5,11,9,6,8,6,2,6,,,
+UBCV,2021,W,MATH,220,,103,Mathematical Proof,Andrew Rechnitzer;Anshula Gandhi;Hannah Kohut;Seckin Demirbas;Shen-Ning Tung,71,63.830985915,17.591382562,97.0,22.0,,,,,,,,,,,10,7,8,7,11,6,6,3,5,2,6,,,
+UBCV,2021,W,MATH,220,,104,Mathematical Proof,Andreas Hatziiliou;Hannah Kohut;Jingyi Chen;Seckin Demirbas,67,62.328358209,15.65865823,94.0,25.0,,,,,,,,,,,11,8,11,7,5,5,7,4,2,3,4,,,
+UBCV,2021,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer;Chih-Chieh Hung;Delphin Senizergues;Hannah Kohut;Seckin Demirbas,78,62.679487179,12.063138647,87.0,24.0,,,,,,,,,,,6,11,7,14,14,9,10,2,3,2,0,,,
+UBCV,2021,W,MATH,220,,107,Mathematical Proof,Hannah Kohut;Jun Jie Zhu;Nahid Walji;Seckin Demirbas,71,60.85915493,12.694538505,95.0,21.0,,,,,,,,,,,9,5,16,12,10,7,7,0,3,1,1,,,
+UBCV,2021,W,MATH,220,,108,Mathematical Proof,Hannah Kohut;Nitya Gadhiwala;Rachel Ollivier;Seckin Demirbas,73,63.068493151,15.205379866,99.0,23.0,,,,,,,,,,,11,8,7,10,10,14,2,2,1,2,6,,,
+UBCV,2021,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas;William Gant,86,62.88372093,16.725055951,100.0,12.0,,,,,,,,,,,16,7,13,6,9,7,7,8,4,4,5,,,
+UBCV,2021,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas;William Gant,79,64.898734177,13.596374834,90.0,26.0,,,,,,,,,,,9,4,13,13,4,10,6,8,3,8,1,,,
+UBCV,2021,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Colin Macdonald;Liwei Zhang;Seckin Demirbas;Shikun Nie;William Gant,121,76.578512397,17.661989349,100.0,15.0,,,,,,,,,,,13,5,3,2,6,8,8,17,14,14,31,,,
+UBCV,2021,W,MATH,110,,004,Differential Calculus,Seckin Demirbas,174,62.5,,100.0,2.0,,,,,,,,,,,35,17,11,14,17,13,17,7,17,11,15,66.0,78.0,50.5
+UBCV,2021,W,MATH,220,,101,Mathematical Proof,Jingyi Chen;Seckin Demirbas;Andrew Rechnitzer,69,69.2,,95.0,42.0,,,,,,,,,,,,7,6,,11,9,6,8,6,,6,69.0,77.0,61.0
+UBCV,2021,W,MATH,220,,103,Mathematical Proof,Seckin Demirbas;Shen-Ning Tung,71,64.9,,97.0,22.0,,,,,,,,,,,8,8,8,7,11,7,6,,,,6,65.0,74.0,56.5
+UBCV,2021,W,MATH,220,,104,Mathematical Proof,Jingyi Chen;Seckin Demirbas,68,62.0,,94.0,22.0,,,,,,,,,,,12,8,11,7,,,7,,,,,61.5,72.0,53.0
+UBCV,2021,W,MATH,220,,105,Mathematical Proof,Seckin Demirbas;Delphin Senizergues,78,63.1,,87.0,24.0,,,,,,,,,,,,11,7,14,15,9,10,,,,,64.5,71.0,57.5
+UBCV,2021,W,MATH,220,,107,Mathematical Proof,Seckin Demirbas;Nahid Walji,73,60.6,,95.0,21.0,,,,,,,,,,,10,,16,13,10,7,7,,,,,61.0,68.0,57.0
+UBCV,2021,W,MATH,220,,108,Mathematical Proof,Seckin Demirbas;Rachel Ollivier,76,62.0,,99.0,13.0,,,,,,,,,,,13,8,8,10,10,14,,,,,6,63.0,69.3,53.0
+UBCV,2021,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas,86,63.6,,100.0,12.0,,,,,,,,,,,14,7,13,6,10,7,7,9,,,,64.5,75.3,55.0
+UBCV,2021,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas,79,65.1,,90.0,26.0,,,,,,,,,,,9,,13,13,,10,6,8,,8,,66.0,75.0,58.0
+UBCV,2021,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Seckin Demirbas;Liwei Zhang,121,77.7,,100.0,15.0,,,,,,,,,,,8,,,,6,7,10,17,15,14,32,80.0,90.0,71.0
+UBCV,2022,W,MATH,101,,2B1,Integral Calculus with Applications,Seckin Demirbas;Peter Harrington;Philip Loewen,349,65.6,,97.0,16.0,,,,,,,,,,,69,45,9,17,30,30,38,30,31,27,23,68.0,78.0,53.0
+UBCV,2022,W,MATH,101,,2B2,Integral Calculus with Applications,Seckin Demirbas,309,68.3,,99.0,0.0,,,,,,,,,,,47,48,5,12,17,24,29,23,51,27,26,72.0,81.0,53.0
+UBCV,2022,W,MATH,101,,2B3,Integral Calculus with Applications,Seckin Demirbas;Costanza Piccolo,268,67.1,,98.0,0.0,,,,,,,,,,,51,30,3,20,15,26,19,16,39,27,22,69.0,81.0,53.0
+UBCV,2022,W,MATH,110,,001,Differential Calculus,Seckin Demirbas,198,58.6,,100.0,0.0,,,,,,,,,,,45,25,20,14,12,20,19,11,19,4,9,62.0,74.0,50.0
+UBCV,2022,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas,94,68.6,,96.0,26.0,,,,,,,,,,,9,4,6,10,13,19,7,4,11,4,7,69.0,78.0,62.0
+UBCV,2022,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas,96,66.1,,100.0,4.0,,,,,,,,,,,12,4,10,12,15,15,7,5,5,2,9,66.0,74.3,58.0
+UBCV,2022,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Seckin Demirbas;Zhichao Wang,113,73.2,,97.0,49.0,,,,,,,,,,,3,10,4,7,16,12,7,16,11,19,8,74.0,83.0,64.0
+UBCV,2022,W,MATH,300,,101,Introduction to Complex Variables,Seckin Demirbas,93,64.6,,100.0,21.0,,,,,,,,,,,15,12,5,10,8,10,10,1,10,3,9,65.0,75.0,53.0
+UBCV,2023,W,MATH,101,,2B2,Integral Calculus with Applications,Seckin Demirbas;Balazs Elek;Victor Juma;Paul Péringuey,463,60.2,,100.0,18.0,,,,,,,,,,,93,65,56,44,41,38,33,22,24,17,12,60.0,71.0,50.0
+UBCV,2023,W,MATH,110,,001,Differential Calculus,Seckin Demirbas,208,60.7,,100.0,3.0,,,,,,,,,,,33,10,17,24,10,22,17,16,16,4,4,64.0,75.0,55.0
+UBCV,2023,W,MATH,220,,10M,Mathematical Proof,Seckin Demirbas;Nahid Walji,39,59.6,,94.0,27.0,,,,,,,,,,,9,7,3,2,3,3,3,1,3,2,1,57.0,72.0,50.0
+UBCV,2023,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas,86,69.2,,100.0,18.0,,,,,,,,,,,8,4,4,10,8,16,8,5,10,2,10,68.0,80.0,63.0
+UBCV,2023,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas,99,63.7,,93.0,10.0,,,,,,,,,,,15,4,10,13,11,20,10,5,6,2,3,66.0,72.0,59.0
+UBCV,2023,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Farid Aliniaeifard;Seckin Demirbas,102,73.0,,100.0,30.0,,,,,,,,,,,8,6,4,11,5,10,7,9,11,10,19,74.0,86.5,62.0

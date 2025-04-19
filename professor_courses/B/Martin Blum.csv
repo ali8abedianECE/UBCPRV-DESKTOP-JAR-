@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,GERM,110,,001,Beginners' German II,Martin Blum,20,70.8,21.74880517,91.0,0.0,,,,,,,,,,5,,,,
+UBCO,2015,W,GERM,200,,001,Intermediate German I,Martin Blum,22,82.5,13.132112585,99.0,61.0,0,0,0,,,,,,,,8,,,
+UBCO,2015,W,GERM,210,,001,Intermediate German II,Martin Blum,17,71.352941176,28.928664799,97.0,0.0,,,,,,,,,,,,,,
+UBCO,2016,W,GERM,200,,001,Intermediate German I,Martin Blum,17,80.82352941,12.49117335,99.0,52.0,0,1,0,0,1,2,1,0,7,1,4,,,
+UBCO,2016,W,GERM,210,,001,Intermediate German II,Martin Blum,15,75.13333333,18.96939892,98.0,36.0,2,0,0,1,1,1,1,1,3,2,3,,,
+UBCO,2020,W,ENGL,150,,101,Introduction to Literary Genre,Martin Blum,32,78.96875,16.165443779,94.0,0.0,1,0,0,0,2,1,5,2,5,13,3,,,
+UBCO,2020,W,ENGL,428,,001,Chaucer's Canterbury Tales,Martin Blum,24,76.541666667,11.068872008,88.0,35.0,1,0,1,0,0,2,2,5,10,3,0,,,
+UBCO,2020,W,GERM,100,,001,Beginners' German I,Martin Blum;Tatjana Smith,33,86.666666667,10.775164345,98.0,60.0,0,0,0,2,0,2,2,0,5,4,18,,,
+UBCO,2020,W,GERM,110,,001,Beginners' German II,Martin Blum,29,86.655172414,9.596412507,99.0,68.0,0,0,0,0,0,3,2,3,2,4,15,,,
+UBCO,2021,W,ENGL,150,,001,Introduction to Literary Genre,Martin Blum,29,82.034482759,4.762073068,91.0,73.0,0,0,0,0,0,0,4,4,11,9,1,,,
+UBCO,2021,W,ENGL,428,,001,Chaucer's Canterbury Tales,Martin Blum,15,80.133333333,7.049484952,90.0,60.0,0,0,0,1,0,0,2,1,7,3,1,,,
+UBCO,2021,W,GERM,100,,001,Beginners' German I,Martin Blum,36,83.0,10.08818262,97.0,52.0,0,1,1,0,1,0,2,4,11,6,10,,,
+UBCO,2021,W,GERM,110,,001,Beginners' German II,Martin Blum,27,79.740740741,11.109914465,96.0,50.0,0,1,0,1,2,2,3,3,5,2,8,,,
+UBCO,2021,W,ENGL,150,,001,Introduction to Literary Genre,Martin Blum,29,82.0,,91.0,73.0,,,,,,,,,11,9,,82.0,86.0,78.0
+UBCO,2021,W,ENGL,428,,001,Chaucer's Canterbury Tales,Martin Blum,15,81.5,,90.0,75.0,,,,,,,,,8,,,81.0,84.0,80.0
+UBCO,2021,W,GERM,100,,001,Beginners' German I,Martin Blum,36,83.0,,97.0,52.0,,,,,,,,,11,6,10,83.5,90.3,79.5
+UBCO,2021,W,GERM,110,,001,Beginners' German II,Martin Blum,27,79.7,,96.0,50.0,,,,,,,,,,,8,82.0,90.0,75.0
+UBCO,2022,W,ENGL,150,,101,Introduction to Literary Genre,Martin Blum,31,75.1,,93.0,0.0,2,1,1,1,0,1,2,6,9,5,3,80.0,84.0,76.0
+UBCO,2022,W,ENGL,428,,001,Chaucer's Canterbury Tales,Martin Blum,18,81.2,,90.0,73.0,0,0,0,0,0,0,2,3,10,2,1,81.0,84.0,78.5
+UBCO,2022,W,GERM,100,,001,Beginners' German I,Martin Blum,35,82.1,,98.0,43.0,2,0,0,2,0,3,1,2,4,8,13,88.0,91.0,77.0
+UBCO,2022,W,GERM,110,,001,Beginners' German II,Martin Blum,24,76.6,,95.0,10.0,1,0,1,0,1,5,1,0,8,3,4,80.0,86.0,70.0
+UBCO,2023,W,ENGL,150,,003,Introduction to Literary Genre,Martin Blum,34,81.7,,93.0,32.0,1,0,0,1,0,1,2,6,9,4,10,83.0,90.0,78.0
+UBCO,2023,W,ENGL,344,D,101,Topics in Medieval Studies,Martin Blum,36,78.7,,91.0,0.0,2,0,0,1,1,0,1,5,10,12,4,84.0,86.0,78.0
+UBCO,2023,W,GERM,100,,001,Beginners' German I,Martin Blum,34,85.76,,97.0,70.0,0,0,0,0,0,2,2,2,9,3,15,87.0,92.0,80.0
+UBCO,2023,W,WRLD,159,,001,Introduction to Language and Culture: Modern German,Martin Blum,17,82.6,,98.0,0.0,1,0,0,0,0,0,1,0,3,6,6,88.0,90.0,83.0

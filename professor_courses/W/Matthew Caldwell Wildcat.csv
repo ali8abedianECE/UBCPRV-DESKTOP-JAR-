@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,FNSP,401,G,101,SPECIAL TOPICS,"Mack, Johnny;Wildcat, Matthew Caldwell",14,79.31,10.01,90,55,13,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,3,3,2,2
+UBC,2014,W,FNSP,533,G,101,DIRECTED STUDY,"Mack, Johnny;Wildcat, Matthew Caldwell",4,86.33,4.51,91,82,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+UBC,2015,W,FNIS,310,,001,THEORY SEMINAR,"Wildcat, Matthew Caldwell",22,79.82,4.62,87,73,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,6,5,0
+UBCV,2014,W,FNSP,401,G,101,Special Topics,Johnny Mack;Matthew Caldwell Wildcat,13,79.30769231,10.01153181,90.0,55.0,,,,,,,,,,,0,0,,,,,,,,,
+UBCV,2015,W,FNIS,310,,001,Theory Seminar,Matthew Caldwell Wildcat,22,79.818181818,4.615051603,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,7,6,5,0

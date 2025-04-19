@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CIVL,562,,201,ENV CONTAMNT ANL,"Lee, Jongho",13,83.08,7.44,93,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,5,2,,,
+UBC,2017,W,CIVL,565,,101,PHYS-CHML TRT PR,"Lee, Jongho",15,85.07,6.5,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,4,5,,,
+UBC,2018,W,CIVL,406,,101,WTR TREAT&WST MG,"Lee, Jongho",33,79.97,10.48,98,58,33,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,4,2,6,9,5,,,
+UBC,2018,W,CIVL,565,,101,PHYS-CHML TRT PR,"Lee, Jongho",11,73.64,24.63,89,1,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,2,4,2,0,,,
+UBCV,2017,W,CIVL,562,,201,Environmental Contaminant Analysis Laboratory,Jongho Lee,13,83.076923077,7.443806581,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,5,2,,,
+UBCV,2017,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Abhishek Dutta;Jongho Lee,15,85.066666667,6.496885701,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,4,5,,,
+UBCV,2018,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee;Pierre Berube;Yaqian Luo,33,79.96969697,10.477609605,98.0,58.0,,,,,,,,,,,0,0,2,1,2,2,4,2,6,9,5,,,
+UBCV,2018,W,CIVL,437,,101,Introduction to Ship Structures,Clark Lim;Jasmin Jelovica;Jongho Lee;Mohammad Mohammadzadeh Keleshteri,23,88.304347826,6.226298934,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,6,10,,,
+UBCV,2018,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Chenxi Li;Deborah Altow;Jongho Lee,11,73.636363636,24.630358208,89.0,1.0,,,,,,,,,,,1,0,0,0,0,0,2,2,4,2,0,,,
+UBCV,2019,W,CIVL,215,,201,Fluid Mechanics I,Abhishek Dutta;Hiroki Fukuda;Jongho Lee;Noboru Yonemitsu;Sophia Eugeni,85,88.517647059,12.119063853,100.0,50.0,,,,,,,,,,,0,2,3,2,0,2,1,6,7,7,55,,,
+UBCV,2019,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee;Negar Roghanian;Yehan Chen,40,77.25,10.250078174,94.0,50.0,,,,,,,,,,,0,2,0,2,3,3,5,5,9,9,2,,,
+UBCV,2019,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Amirhossein Parizi;Dana Vanier;Jongho Lee,14,82.285714286,7.839040085,93.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,3,3,4,2,,,
+UBCV,2020,W,CIVL,215,,201,Fluid Mechanics I,Abhishek Dutta;Christopher Young;Hiroki Fukuda;Jiankang Yang;Jongho Lee;Matthew Tong,199,83.934673367,10.637780668,100.0,36.0,,,,,,,,,,,1,5,2,1,4,8,12,16,39,50,61,,,
+UBCV,2021,W,CIVL,215,,201,Fluid Mechanics I,Hiroki Fukuda;Jongho Lee;Matthew Tong;Yixin Wei,201,71.517412935,14.213759013,93.0,5.0,,,,,,,,,,,8,11,6,19,25,15,28,27,33,19,10,,,
+UBCV,2021,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee;Sifat Kalam,17,72.470588235,14.599304979,95.0,50.0,,,,,,,,,,,0,2,1,2,2,3,0,2,0,1,4,,,
+UBCV,2021,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Hiroki Fukuda;Jongho Lee;Pierre Berube,23,81.869565217,7.688860584,95.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,6,2,7,3,,,
+UBCV,2021,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee,17,72.5,,95.0,50.0,,,,,,,,,,,,,,,,,,,,,,69.0,85.0,60.0
+UBCV,2021,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Jongho Lee,23,81.9,,95.0,68.0,,,,,,,,,,,,,,,,,,6,,7,,82.0,88.0,78.0
+UBCV,2022,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee,33,72.7,,96.0,24.0,,,,,,,,,,,1,0,2,3,6,4,3,4,5,3,2,74.0,84.0,66.0
+UBCV,2022,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Jongho Lee,12,82.6,,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,2,3,2,3,83.5,89.3,77.5

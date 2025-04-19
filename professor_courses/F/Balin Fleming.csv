@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MATH,101,,202,INT CALC AP PH S,"Fleming, Balin",99,68.48,15.07,99,23,87,8,0,0,4,0,0,3,0,5,8,3,12,9,11,15,7,4,13,6,7
+UBC,2015,W,MATH,101,,203,INT CALC AP PH S,"Fleming, Balin",123,67.7,15.8,96,12,108,9,4,0,2,0,1,0,7,1,9,7,22,8,6,11,12,13,15,7,7
+UBC,2016,W,MATH,101,,202,INT CALC AP PH S,"Fleming, Balin",118,67.4,14.35,91,27,106,10,2,0,0,0,0,2,3,5,10,7,17,10,12,12,11,7,15,13,2
+UBC,2016,W,MATH,101,,203,INT CALC AP PH S,"Fleming, Balin",107,66.09,15.64,91,21,88,13,5,0,1,0,0,1,4,8,13,11,9,7,13,5,11,8,11,9,4
+UBCV,2015,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,99,65.828282828,19.684263063,99.0,0.0,,,,,,,,,,,12,,12,9,11,15,7,,13,6,7
+UBCV,2015,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,119,66.655462185,17.608952353,96.0,3.0,,,,,,,,,,,12,7,21,8,6,11,12,13,15,7,7
+UBCV,2016,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,116,67.39655172,14.34717322,91.0,27.0,,,,,,,,,,,10,7,17,10,12,12,11,7,15,13,2
+UBCV,2016,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,102,65.44117647,16.88550467,91.0,0.0,,,,,,,,,,,14,11,9,7,13,5,11,8,11,9,4

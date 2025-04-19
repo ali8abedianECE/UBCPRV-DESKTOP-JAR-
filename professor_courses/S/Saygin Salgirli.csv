@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,ARTH,351,B,001,ISLAM ARCH ART,"Salgirli, Saygin",41,78.51,13.11,96,47,38,1,0,1,0,0,0,0,0,1,1,1,3,0,3,4,2,4,4,7,10,,,
+UBC,2015,W,ARTH,436,,001,EARLY MODERN ART,"Salgirli, Saygin",6,78.67,12.37,97,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,,,
+UBC,2015,W,ARTH,533,B,001,MEDEVAL ART,"Salgirli, Saygin",5,94.4,4.51,99,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2016,W,ARTH,350,,001,GRND ISLMC IMAGE,"Salgirli, Saygin",27,82.13,11.78,95,51,23,0,3,1,0,0,0,0,0,0,0,2,0,0,0,1,2,1,3,7,7,,,
+UBC,2016,W,ARTH,450,,001,ART ISLMC WRLD,"Salgirli, Saygin",9,86,6.3,92,75,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,4,,,
+UBC,2017,W,ARTH,102,,001,CRISIS & CONTRAD,"Salgirli, Saygin",107,75.99,15.69,98,0,100,5,2,0,0,1,0,1,1,2,5,1,2,8,10,7,13,12,14,8,25,,,
+UBC,2017,W,ARTH,225,,001,PRE 1600 EUR,"Salgirli, Saygin",54,86.96,9.06,98,45,50,1,1,0,0,0,0,0,0,1,1,0,0,0,0,2,2,1,9,11,25,,,
+UBC,2017,W,ARTH,351,B,001,ART ARCH ISLAMIC,"Salgirli, Saygin",47,85.23,11.49,98,45,45,2,0,0,0,0,0,0,0,2,2,0,0,0,0,1,3,4,7,12,18,,,
+UBC,2017,W,ARTH,550,,001,ART IN ISLMC WRL,"Salgirli, Saygin",11,91.45,3.14,96,86,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,,,
+UBC,2018,W,ARTH,102,,001,CRISIS & CONTRAD,"Salgirli, Saygin",98,78.94,14.29,96,0,92,2,2,0,1,1,0,1,0,0,2,2,2,0,6,7,8,10,14,29,14,,,
+UBC,2018,W,ARTH,225,,001,PRE 1600 EUR,"Salgirli, Saygin",52,80.68,9.43,95,50,50,0,2,0,0,0,0,0,0,0,0,2,0,0,0,4,7,7,9,13,8,,,
+UBC,2018,W,ARTH,350,,001,GRND ISLMC IMAGE,"Salgirli, Saygin",41,78.05,19.93,93,10,36,3,0,2,0,0,2,1,0,0,3,1,0,0,0,0,1,6,12,7,9,,,
+UBC,2018,W,ARTH,550,,001,ART IN ISLMC WRL,"Salgirli, Saygin",8,89.5,1.76,92,87,6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2015,W,ARTH,351,B,001,Islamic Art and Archaeology,Saygin Salgirli,40,78.25,13.049707728,96.0,47.0,,,,,,,,,,,,,,,,5,,,,7,10,,,
+UBCV,2015,W,ARTH,436,,001,Seminar in Early Modern Art,Saygin Salgirli,6,78.666666667,12.372011424,97.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2015,W,ARTH,533,B,001,Studies in Medieval Art,Saygin Salgirli,5,94.4,4.50555213,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,5,,,
+UBCV,2016,W,ARTH,350,,001,Grounding the Islamic Image,Heida Arnadottir;Saygin Salgirli,23,82.13043478,11.77556927,95.0,51.0,,,,,,,,,,,0,2,0,0,0,1,2,1,3,7,7,,,
+UBCV,2016,W,ARTH,450,,001,Seminar in Art in the Islamic World,Saygin Salgirli,8,86.0,6.301927143,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,1,4,,,
+UBCV,2016,W,ARTH,571,,001,The Methodology of Art History,Carol Knicely Guilbaut;Saygin Salgirli,13,88.46153846,1.761409692,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,3,,,
+UBCV,2017,W,ARTH,102,,001,Crisis and Contradiction in Art and the Built Environment,Alison Ariss;Lucas Jordan Kling;Lucas Kling;Saygin Salgirli,105,75.99047619,15.69020716,98.0,0.0,,,,,,,,,,,5,1,2,8,10,7,13,12,14,8,25,,,
+UBCV,2017,W,ARTH,225,,001,Art in Europe to the Sixteenth Century,Saygin Salgirli,53,86.320754717,10.656838875,98.0,45.0,,,,,,,,,,,2,0,0,0,0,2,2,1,9,11,26,,,
+UBCV,2017,W,ARTH,351,B,001,Art and Architecture in the Islamic World,Saygin Salgirli,47,85.234042553,11.489527871,98.0,45.0,,,,,,,,,,,2,0,0,0,0,1,3,4,7,12,18,,,
+UBCV,2017,W,ARTH,550,,001,Studies in Art in the Islamic World,Saygin Salgirli,11,91.454545455,3.142089635,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,7,,,
+UBCV,2018,W,ARTH,102,,001,Crisis and Contradiction in Art and the Built Environment,Laura Aguilera;Laura Aguilera Cassis;Saygin Salgirli;Tobias Linnemann Ewe,96,78.71875,14.228735288,96.0,0.0,,,,,,,,,,,2,2,2,0,7,7,9,10,14,29,14,,,
+UBCV,2018,W,ARTH,225,,001,Art in Europe to the Sixteenth Century,Pamela Mackenzie;Saygin Salgirli,50,80.68,9.427359229,95.0,50.0,,,,,,,,,,,0,2,0,0,0,4,7,7,9,13,8,,,
+UBCV,2018,W,ARTH,350,,001,Grounding the Islamic Image,Saygin Salgirli,39,79.153846154,17.044119933,93.0,11.0,,,,,,,,,,,2,2,0,0,0,0,1,6,12,7,9,,,
+UBCV,2018,W,ARTH,550,,001,Studies in Art in the Islamic World,Saygin Salgirli,7,84.571428571,13.13845682,92.0,55.0,,,,,,,,,,,0,0,,,,,,,,2,4,,,
+UBCV,2019,W,ARTH,102,,001,Crisis and Contradiction in Art and the Built Environment,Emily Cadger;Savannah Marlatt;Saygin Salgirli,108,82.222222222,10.924835235,94.0,20.0,,,,,,,,,,,2,0,0,3,3,3,10,8,22,25,32,,,
+UBCV,2019,W,ARTH,225,,001,Art in Europe to the Sixteenth Century,Sameena Sameena;Saygin Salgirli,49,80.510204082,9.094692704,92.0,44.0,,,,,,,,,,,1,1,0,0,2,1,3,6,16,14,5,,,
+UBCV,2019,W,ARTH,351,B,001,Art and Architecture in the Islamic World,Saygin Salgirli,30,83.866666667,10.264546728,94.0,50.0,,,,,,,,,,,0,1,1,0,0,0,2,4,3,7,12,,,
+UBCV,2019,W,ARTH,450,,001,Seminar in Art in the Islamic World,Saygin Salgirli,7,88.714285714,2.751622898,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2020,W,ARTH,102,,001,Crisis and Contradiction in Art and the Built Environment,Jacqueline Witkowski;Sameena Sameena;Saygin Salgirli,110,80.4,13.771530266,96.0,0.0,,,,,,,,,,,3,0,3,1,0,5,9,10,26,29,24,,,
+UBCV,2020,W,ARTH,225,,001,Art in Europe to the Sixteenth Century,Sameena Sameena;Saygin Salgirli,55,82.418181818,11.449876126,94.0,28.0,,,,,,,,,,,1,0,1,3,0,0,4,4,12,12,18,,,
+UBCV,2020,W,ARTH,339,,001,19th-Century Art and Social Space,Emily Cadger;Rachel Boate;Saygin Salgirli,53,75.132075472,11.031489431,91.0,20.0,,,,,,,,,,,1,0,2,2,1,6,11,14,7,8,1,,,
+UBCV,2020,W,ARTH,350,,001,Grounding the Islamic Image,Saygin Salgirli,41,89.902439024,5.889842434,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,7,27,,,
+UBCV,2020,W,ARTH,550,,001,Studies in Art in the Islamic World,Saygin Salgirli,7,92.714285714,1.112697281,94.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,W,ARTH,225,,001,"Art, Patrons, and Audiences in the Middle Ages",Catherine Volmensky;Saygin Salgirli,49,80.102040816,16.001620879,97.0,21.0,,,,,,,,,,,3,1,0,2,2,0,2,6,6,13,14,,,
+UBCV,2021,W,ARTH,351,,001,Art and Urban Culture in the Islamic World,Richard Chapplow;Saygin Salgirli,59,82.13559322,10.277960396,97.0,50.0,,,,,,,,,,,0,2,1,0,3,1,4,5,13,17,13,,,
+UBCV,2021,W,ARTH,450,,001,Seminar in Art in the Islamic World,Saygin Salgirli,13,83.384615385,13.276159469,96.0,56.0,,,,,,,,,,,0,0,2,0,0,0,0,2,0,5,4,,,
+UBCV,2021,W,ARTH,225,,001,"Art, Patrons, and Audiences in the Middle Ages",Saygin Salgirli,49,80.1,,97.0,21.0,,,,,,,,,,,,,,,,,,6,6,13,14,87.0,90.0,78.0
+UBCV,2021,W,ARTH,351,,001,Art and Urban Culture in the Islamic World,Saygin Salgirli,59,82.1,,97.0,50.0,,,,,,,,,,,,,,,,,,,13,17,13,85.0,88.0,77.0
+UBCV,2021,W,ARTH,450,,001,Seminar in Art in the Islamic World,Saygin Salgirli,13,83.4,,96.0,56.0,,,,,,,,,,,,,,,,,,,,,,88.0,92.0,77.0
+UBCV,2021,W,ARTH,571,,001,The Methodology of Art History,Joseph Monteyne;Saygin Salgirli,11,91.9,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,91.0,93.0,90.5
+UBCV,2023,W,ARTH,351,,001,Art and Urban Culture in the Islamic World,Saygin Salgirli,45,82.3,,96.0,54.0,,,,,,,,,,,0,1,1,0,0,3,3,6,10,11,10,83.0,88.0,78.0
+UBCV,2023,W,ARTH,450,,001,Seminar in Art in the Islamic World,Saygin Salgirli,10,83.4,,98.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,0,2,4,88.0,92.3,73.3
+UBCV,2023,W,ARTH,550,,001,Studies in Art in the Islamic World,Saygin Salgirli,10,88.4,,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,0,8,91.0,91.0,90.0

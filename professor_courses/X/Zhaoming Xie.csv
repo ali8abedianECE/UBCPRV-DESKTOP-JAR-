@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,314,,101,Computer Graphics,Fan Wu;Jinfan Yang;Michiel Van De Panne;Yuan Yao;Zhaoming Xie,105,80.723809524,8.76564013,96.0,47.0,2,0,1,3,1,5,8,18,30,23,14
+UBCV,2018,W,CPSC,426,,201,Computer Animation,Hung Yu Ling;Michiel Van De Panne;Prashant Sachdeva;Zhaoming Xie,74,79.135135135,10.785993358,97.0,46.0,1,0,2,4,4,6,8,6,17,11,15
+UBCV,2019,W,CPSC,320,,101,Intermediate Algorithm Design and Analysis,Anne Condon;Elena Podina;Emmanuel Sales;Frank Tai;Harpaul Gill;Kyle Clarkson;Mourud Ahmed;Setareh Cohan;Seyed Ali Tabatabaee;Wan Shing Martin Wang;Yi Chen Cao;Zhaoming Xie;Zoe Fox,156,73.705128205,13.735857454,100.0,5.0,14,1,3,2,10,23,28,30,17,11,17
+UBCV,2019,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,Alan Hu;Ray He Qing Zhang;Ray Zhang;Uri Michael Ascher;Yihan Zhou;Zhaoming Xie,82,70.268292683,16.298942464,100.0,40.0,2,18,0,17,0,7,1,9,9,12,7
+UBCV,2020,W,CPSC,314,,201,Computer Graphics,Dinesh Pai;Egor Larionov;Jinzhao Kang;Laks Lakshmanan;Megha Shastry;Roark Zhang;Xinya Gao;Zhaoming Xie,105,82.628571429,10.866548124,100.0,18.0,1,0,3,0,3,4,8,14,18,30,24

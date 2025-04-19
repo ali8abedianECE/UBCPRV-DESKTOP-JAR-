@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sarah Gumpinger,37,76.54054054,10.03215551,97.0,42.0,,,,,,5,7,,12,,,,,
+UBCO,2014,W,MGMT,403,,001,Auditing and Assurance Services,Sarah Gumpinger;Zhi Qiao,37,74.56756757,6.19829968,92.0,62.0,0,0,0,,,6,14,8,,,,,,
+UBCO,2014,W,MGMT,404,,001,Advanced Financial Accounting,Sarah Gumpinger,5,81.4,2.302172887,84.0,79.0,0,0,0,0,0,0,0,2,3,0,0,,,
+UBCO,2014,W,MGMT,404,,101,Advanced Financial Accounting,Camilo Moreno Pena;Camilo Pena;Sarah Gumpinger,35,82.05714286,11.63145547,100.0,38.0,,,,,,,,8,3,9,8,,,
+UBCO,2015,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sarah Gumpinger,14,78.214285714,6.541918931,87.0,66.0,0,0,0,0,,,,3,2,,0,,,
+UBCO,2015,W,MGMT,402,,002,Introduction to Income Taxes in Canada,Sarah Gumpinger,27,77.925925926,5.312727287,91.0,67.0,0,0,0,0,,,,11,5,,,,,
+UBCO,2015,W,MGMT,403,,001,Auditing and Assurance Services,Sarah Gumpinger;Zhi Qiao,37,79.243243243,7.952656458,90.0,62.0,0,0,0,,,,,5,9,12,,,,
+UBCO,2015,W,MGMT,404,,101,Advanced Financial Accounting,Camilo Moreno Pena;Camilo Pena;Sarah Gumpinger,35,77.742857143,11.899932914,97.0,50.0,0,,,,5,,,,6,7,5,,,
+UBCO,2016,W,MGMT,400,,001,Intermediate Financial Accounting,Sarah Gumpinger;Sheila Westwell,48,75.10416667,10.39484239,95.0,56.0,0,0,3,3,6,8,4,7,7,5,5,,,
+UBCO,2016,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sarah Gumpinger;Sheila Westwell,12,70.33333333,10.41269621,90.0,57.0,0,0,1,3,1,1,4,0,0,1,1,,,
+UBCO,2016,W,MGMT,402,,002,Introduction to Income Taxes in Canada,Sarah Gumpinger;Sheila Westwell,36,76.0,9.561828875,93.0,51.0,0,1,1,1,1,8,8,2,6,5,3,,,
+UBCO,2016,W,MGMT,403,,001,Auditing and Assurance Services,Annette Fairweather;Sarah Gumpinger;Sheila Westwell,43,72.23255814,11.54254492,96.0,45.0,1,3,2,2,7,7,3,6,5,4,3,,,
+UBCO,2016,W,MGMT,404,,101,Advanced Financial Accounting,Sarah Gumpinger;Sheila Westwell,43,75.90697674,11.22457753,96.0,43.0,1,0,1,3,3,3,14,3,5,5,5,,,
+UBCO,2018,W,MGMT,201,,001,Introduction to Financial Accounting,Sarah Gumpinger;Sheila Westwell,177,76.655367232,11.658487301,100.0,38.0,1,2,8,11,19,20,26,21,26,16,27,,,
+UBCO,2018,W,MGMT,301,,001,Introduction to Financial Accounting,Annette Fairweather;Sarah Gumpinger;Tamara Ebl,221,80.067873303,11.776320984,100.0,28.0,5,1,6,6,10,12,24,28,49,36,44,,,
+UBCO,2018,W,MGMT,404,,101,Advanced Financial Accounting,Sarah Gumpinger;Sheila Westwell,30,77.233333333,11.321884007,96.0,51.0,0,1,1,1,3,5,2,4,4,5,4,,,
+UBCO,2019,W,MGMT,201,,001,Introduction to Financial Accounting,Annette Fairweather;Karanjot Singh;Peter Norwood;Sarah Gumpinger,230,70.782608696,14.720560204,100.0,34.0,17,18,18,23,24,20,19,21,31,13,26,,,
+UBCO,2020,W,MGMT,201,,001,Introduction to Financial Accounting,Annette Fairweather;Sarah Gumpinger,264,76.590909091,15.193532017,100.0,0.0,9,6,14,15,17,17,34,34,43,20,55,,,
+UBCO,2021,W,MGMT,100,,001,Introduction to Business,Alisa Hayati;Annabelle Awashish;Aradhita Arora;Kyla Bruan;Sarah Gumpinger;Seyedeh Nadia Mahmoudi;Ying Zhu,341,73.944281525,10.972953561,92.0,3.0,10,8,10,12,23,44,61,58,77,34,4,,,
+UBCO,2021,W,MGMT,100,,101,Introduction to Business,Alisa Hayati;Aradhita Arora;Sarah Gumpinger;Ying Zhu,144,76.506944444,15.383215141,94.0,1.0,7,2,1,5,5,10,13,30,30,29,12,,,
+UBCO,2021,W,MGMT,201,,001,Introduction to Financial Accounting,Annette Fairweather;Sarah Gumpinger;Seravin Suteja;Shreeta Panchmatia,226,70.769911504,11.57507579,95.0,14.0,7,8,25,11,25,33,39,31,26,13,8,,,
+UBCO,2021,W,MGMT,100,,001,Introduction to Business,Sarah Gumpinger,341,73.9,,92.0,3.0,10,8,10,12,23,44,61,58,77,34,4,76.0,81.0,70.0
+UBCO,2021,W,MGMT,100,,101,Introduction to Business,Sarah Gumpinger,144,76.5,,94.0,1.0,7,,,,,10,13,30,30,29,12,79.0,85.0,74.8
+UBCO,2022,W,MGMT,100,,002,Introduction to Business,Sarah Gumpinger,52,75.7,,92.0,34.0,2,2,2,0,6,1,5,11,11,8,4,77.0,84.0,71.3
+UBCO,2022,W,MGMT,100,,101,Introduction to Business,Annette Fairweather;Sarah Gumpinger;Sheila Westwell,166,70.8,,91.0,0.0,11,0,6,12,15,28,21,29,26,14,4,73.5,80.0,67.0
+UBCO,2023,W,MGMT,100,,001,Introduction to Business,Annette Fairweather;Sarah Gumpinger;A. Sandy Hilton;Candice Loring,306,74.4,,93.0,0.0,11,6,8,11,16,36,44,55,58,42,12,77.0,83.0,70.0
+UBCO,2023,W,MGMT,100,,101,Introduction to Business,Sarah Gumpinger,114,75.0,,95.0,10.0,1,2,4,4,11,12,14,19,25,13,2,77.0,82.0,70.0

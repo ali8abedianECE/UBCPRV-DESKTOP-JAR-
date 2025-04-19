@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,MUSC,300,,911,CMP&ANL AP M MOD,"Parsons, Laurel Jean",49,79.9,9.09,96,60,48,0,1,0,0,0,0,0,0,0,0,0,0,2,5,3,2,6,14,8,8
+UBC,2013,W,MUSC,101,,001,DIATNC HRMNY&VCE,"Parsons, Laurel Jean",34,72.41,10.83,90,50,34,0,0,0,0,0,0,0,0,0,0,2,1,5,3,5,5,3,3,5,2
+UBC,2013,W,MUSC,101,,002,DIATNC HRMNY&VCE,"Parsons, Laurel Jean",55,70.61,13.89,88,0,51,3,1,0,0,1,0,0,0,2,3,1,2,2,13,5,6,6,11,5,0
+UBC,2013,W,MUSC,206,,110,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",9,,,,,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MUSC,206,,120,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",9,,,,,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MUSC,206,,210,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",5,,,,,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,MUSC,103,,002,INTRO MUSC THRY,"Parsons, Laurel Jean",22,88,10,99,56,22,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,3,4,12
+UBC,2017,W,MUSC,104,,002,INTR TO DIATONIC,"Parsons, Laurel Jean",20,70.05,16.58,87,11,19,1,0,0,0,0,1,0,0,0,1,0,2,2,1,2,4,1,5,2,0
+UBC,2017,W,MUSC,200,,001,CHRMTC HRMNY&VCE,"Parsons, Laurel Jean",53,81.23,15.02,98,27,50,2,0,1,0,0,0,1,0,1,2,2,1,1,3,1,1,4,12,4,21
+UBCV,2017,W,MUSC,103,,002,Introduction to the Theory of Music,Laurel Jean Parsons;Laurel Parsons;Winnie Ho,22,88.0,10.0,99.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,1,3,4,12
+UBCV,2017,W,MUSC,104,,002,Introduction to Diatonic Harmony,Laurel Jean Parsons;Laurel Parsons;Winnie Ho,20,70.05,16.583044606,87.0,11.0,,,,,,,,,,,1,0,2,2,1,2,4,1,5,2,0
+UBCV,2017,W,MUSC,200,,001,Chromatic Harmony and Voice Leading,Eve Poudrier;Hei Yeung Lai;Laurel Jean Parsons;Laurel Parsons,52,81.230769231,15.023661579,98.0,27.0,,,,,,,,,,,2,2,1,1,3,1,1,4,12,4,21

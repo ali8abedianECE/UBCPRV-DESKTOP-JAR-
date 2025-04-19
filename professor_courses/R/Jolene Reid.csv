@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Glenn Sammis;Gregory Dake;Jia Yi Mo;Jolene Reid,21,78.952380952,7.466432819,91.0,60.0,0,0,0,1,0,1,3,5,6,3,2,,,
+UBCV,2020,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Dake;Jolene Reid,10,77.9,9.048634028,96.0,66.0,0,0,0,0,1,3,0,0,4,1,1,,,
+UBCV,2021,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Glenn Sammis;Gregory Dake;Jolene Reid,18,79.611111111,17.816512133,98.0,24.0,1,0,0,1,1,1,1,3,1,2,7,,,
+UBCV,2021,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Dake;Jolene Reid,18,83.333333333,9.511602822,96.0,60.0,0,0,0,1,0,1,1,2,5,2,6,,,
+UBCV,2021,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Jolene Reid,18,79.6,,98.0,24.0,,,,,,,,,,,7,85.5,91.8,73.0
+UBCV,2021,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Jolene Reid,18,83.3,,96.0,60.0,,,,,,,,,,,6,83.5,90.8,77.8
+UBCV,2022,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jolene Reid;John Sherman,246,72.4,,100.0,10.0,24,22,14,14,12,15,18,19,34,27,47,76.0,86.0,60.0
+UBCV,2022,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Jolene Reid,11,76.8,,91.0,59.0,0,0,1,1,1,0,2,0,2,3,1,80.0,86.0,68.5
+UBCV,2022,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Jolene Reid,11,73.2,,94.0,31.0,2,0,0,0,0,2,1,1,1,2,2,77.0,86.0,69.0
+UBCV,2023,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jolene Reid;Glenn Sammis;Jason Wickenden,259,61.8,,100.0,6.0,50,30,26,27,18,21,16,14,25,13,10,62.0,75.0,52.0
+UBCV,2023,W,CHEM,460,,166,Organic Synthesis: A Mechanistic Approach,Jolene Reid,11,80.6,,92.0,59.0,0,0,1,0,0,1,2,0,3,1,3,83.0,89.0,74.5
+UBCV,2023,W,CHEM,560,,166,Organic Chemistry: Building Molecules and Understanding Reactivity,Jolene Reid,9,83.9,,89.0,80.0,0,0,0,0,0,0,0,0,4,4,0,84.0,86.3,80.8

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,SOCI,111,,001,Introduction to Sociology I,Laura Mudde;Nujhat Jahan;Ondine Park;Shubhangi Chatterjee;Zerrin Akter Anni,304,72.118421053,14.497266937,96.0,0.0,15,6,18,15,32,42,38,43,48,32,15,,,
+UBCO,2021,W,SOCI,228,,101,Sociology of the Anthropocene,Ondine Park,33,79.575757576,17.965296934,96.0,2.0,2,0,0,0,1,3,2,1,6,10,8,,,
+UBCO,2021,W,SOCI,432,,101,Sociology of Food,Ondine Park,26,83.461538462,7.793488406,92.0,50.0,0,1,0,0,0,0,0,3,10,10,2,,,
+UBCO,2021,W,SOCI,111,,001,Introduction to Sociology I,Ondine Park,302,72.6,,96.0,0.0,13,6,18,15,32,42,38,43,48,32,15,74.0,81.0,67.0
+UBCO,2021,W,SOCI,228,,101,Sociology of the Anthropocene,Ondine Park,33,79.6,,96.0,2.0,,,,,,,,,6,10,8,85.0,89.0,76.0
+UBCO,2021,W,SOCI,432,,101,Sociology of Food,Ondine Park,26,83.5,,92.0,50.0,,,,,,,,,10,10,,84.0,87.8,82.0
+UBCO,2022,W,IGS,591,,101,Society and Conflict,Ondine Park,14,90.1,,97.0,80.0,0,0,0,0,0,0,0,0,3,2,9,91.5,94.0,87.5
+UBCO,2022,W,SOCI,228,,001,Sociology of the Anthropocene,Ondine Park,54,82.0,,94.0,61.0,0,0,0,1,1,2,6,5,18,15,6,83.0,86.8,79.0
+UBCO,2022,W,SOCI,320,,001,Cultural Studies in Sociology,Ondine Park,30,78.3,,95.0,55.0,0,0,1,2,1,4,1,5,9,4,3,80.5,84.0,72.0
+UBCO,2023,W,SOCI,111,,002,Introduction to Sociology,Ondine Park,136,74.3,,93.0,0.0,5,5,3,7,11,11,16,16,23,21,10,77.0,84.0,68.8
+UBCO,2023,W,SOCI,228,,001,Sociology of the Anthropocene,Ondine Park,37,76.3,,93.0,0.0,1,0,0,1,1,2,9,9,7,4,3,77.0,83.0,74.0
+UBCO,2023,W,SOCI,432,,101,Sociology of Food,Ondine Park,19,78.3,,95.0,60.0,0,0,0,4,3,1,0,0,1,7,3,85.0,88.5,66.0

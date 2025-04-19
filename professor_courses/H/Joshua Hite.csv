@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,VISA,240,,901,INTRO PHOTO,"Hite, Joshua",19,76.67,5.65,85,60,18,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,8,4,1,0,,,
+UBC,2012,W,VISA,240,,001,INTRO PHOTO,"Hite, Joshua",18,76.06,7.81,88,50,18,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,6,3,2,0,,,
+UBC,2013,W,VISA,210,,001,DIGITAL ARTS,"Hite, Joshua",16,77.19,5.87,90,66,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,6,4,0,1,,,
+UBC,2014,W,VISA,240,,001,INTRO PHOTO,"Hite, Joshua",19,77.44,7,91,68,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,6,1,1,,,
+UBC,2015,W,VISA,310,,001,DIGITAL ARTS I,"Hite, Joshua",20,75.25,2.65,80,69,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,8,2,0,0,,,
+UBC,2016,W,VISA,311,,001,DIGITAL ARTS II,"Hite, Joshua",19,79.95,5.93,88,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,6,5,0,,,
+UBC,2017,W,VISA,210,,001,DIGITAL ARTS,"Hite, Joshua",20,79.89,3.57,85,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,6,4,0,,,
+UBC,2017,W,VISA,240,,003,PHOTOGRAPHY,"Hite, Joshua",22,79.29,3.49,86,73,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,8,1,0,,,
+UBC,2018,W,VISA,210,,227,DIGITAL ARTS,"Hite, Joshua",20,76.95,7.33,85,60,20,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,1,7,3,0,,,
+UBC,2018,W,VISA,210,,228,DIGITAL ARTS,"Hite, Joshua",21,79.38,4.1,87,69,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,12,2,0,,,
+UBC,2018,W,VISA,240,,003,PHOTOGRAPHY,"Hite, Joshua",16,81.63,4.62,92,74,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,3,1,,,
+UBCV,2014,W,VISA,240,,001,Introduction to Photography,Joshua Daniel Hite;Joshua Hite,18,77.44444444,6.997665344,91.0,68.0,,,,,,,,,,,0,0,0,0,0,,4,2,6,,,,,
+UBCV,2015,W,VISA,310,,001,Intermediate Digital Arts I,Joshua Hite,20,75.25,2.653200649,80.0,69.0,,,,,,,,,,,0,0,0,0,0,,9,8,,0,0,,,
+UBCV,2016,W,VISA,311,,001,Intermediate Digital Arts II,Joshua Daniel Hite;Joshua Hite,19,79.94736842,5.929902418,88.0,69.0,,,,,,,,,,,0,0,0,0,0,1,4,3,6,5,0,,,
+UBCV,2017,W,VISA,210,,001,Digital Arts,Joshua Daniel Hite;Joshua Hite,20,79.7,3.585056705,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,9,6,4,0,,,
+UBCV,2017,W,VISA,240,,003,Photography,Joshua Daniel Hite;Joshua Hite,21,79.285714286,3.494894235,86.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,10,8,1,0,,,
+UBCV,2018,W,VISA,210,,227,Digital Arts,Joshua Daniel Hite;Joshua Hite,20,76.95,7.330362237,85.0,60.0,,,,,,,,,,,0,0,0,1,1,2,5,1,7,3,0,,,
+UBCV,2018,W,VISA,210,,228,Digital Arts,Joshua Daniel Hite;Joshua Hite,21,79.380952381,4.104585125,87.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,5,12,2,0,,,
+UBCV,2018,W,VISA,240,,003,Photography,Joshua Daniel Hite;Joshua Hite,16,81.625,4.616997581,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,4,7,3,1,,,
+UBCV,2019,W,VISA,110,,001,Foundation Studio: Digital Media,Alejandro Barbosa;Angela Glanzmann;Joshua Daniel Hite;Joshua Hite;Mandana Mansouribigvand;Nazanin Oghanian;Samantha Kinsley,213,76.431924883,8.223947691,90.0,8.0,,,,,,,,,,,2,3,0,5,7,14,43,48,70,20,1,,,
+UBCV,2019,W,VISA,210,,001,Digital Arts,Joshua Daniel Hite;Joshua Hite,20,79.2,3.105173951,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,6,10,2,0,,,
+UBCV,2019,W,VISA,210,,002,Digital Arts,Joshua Daniel Hite;Joshua Hite,22,77.090909091,6.124961348,85.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,6,10,1,0,,,
+UBCV,2019,W,VISA,210,,004,Digital Arts,Joshua Daniel Hite;Joshua Hite,21,80.714285714,3.822863549,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,8,9,3,1,,,
+UBCV,2020,W,VISA,110,,227,Foundation Studio: Digital Media,Jeneen Frei Njootli;Joshua Hite;Russell Gordon;Ryan Smith,96,76.489583333,8.284411222,87.0,14.0,,,,,,,,,,,1,0,0,0,4,5,23,23,30,10,0,,,
+UBCV,2020,W,VISA,210,,002,Digital Arts,Joshua Hite,18,81.833333333,3.129555503,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,10,5,0,,,
+UBCV,2020,W,VISA,210,,003,Digital Arts,Joshua Hite,15,80.0,2.751622898,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,4,9,1,0,,,
+UBCV,2020,W,VISA,210,,227,Digital Arts,Joshua Hite,13,73.538461538,19.948330693,85.0,8.0,,,,,,,,,,,1,0,0,0,0,0,2,4,5,1,0,,,
+UBCV,2020,W,VISA,230,,002,Painting,Carolyn Stockbridge;Joshua Hite;Marina Roy,20,82.6,5.215361924,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,5,6,3,,,
+UBCV,2021,W,VISA,110,,001,Foundation Studio: Digital Media,Alexandra Elcock;Artem Struyanskiy;Joshua Hite;Matilda Aslizadeh;Natalie Purschwitz;Russell Gordon;Sol Hashemi,211,78.687203791,8.82295584,90.0,12.0,,,,,,,,,,,4,0,1,2,1,5,12,50,104,30,2,,,
+UBCV,2021,W,VISA,110,,227,Foundation Studio: Digital Media,Joshua Hite;Russell Gordon;Saromi Kim;Yingqiu Zhao,86,75.790697674,9.65049987,86.0,13.0,,,,,,,,,,,3,0,1,0,0,2,21,26,31,2,0,,,
+UBCV,2021,W,VISA,210,,004,Digital Arts,Joshua Hite,17,78.588235294,6.325136595,86.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,2,10,2,0,,,
+UBCV,2021,W,VISA,110,,001,Foundation Studio: Digital Media,Joshua Hite,210,79.0,,90.0,12.0,,,,,,,,,,,,,,,,,12,50,104,30,,80.0,82.0,77.0
+UBCV,2021,W,VISA,110,,227,Foundation Studio: Digital Media,Joshua Hite,86,75.9,,86.0,13.0,,,,,,,,,,,,,,,,,21,26,32,,,78.0,80.0,74.0
+UBCV,2021,W,VISA,210,,004,Digital Arts,Joshua Hite,17,78.6,,86.0,60.0,,,,,,,,,,,,,,,,,,,10,,,80.0,81.0,78.0
+UBCV,2022,W,VISA,110,,001,Foundation Studio: Digital Media,Joshua Hite,206,80.5,,93.0,0.0,,,,,,,,,,,1,1,2,0,1,3,17,27,98,52,4,82.0,85.0,78.5
+UBCV,2022,W,VISA,210,,004,Digital Arts,Joshua Hite,21,79.8,,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,4,14,1,0,80.0,82.0,77.0
+UBCV,2023,W,VISA,110,,001,Foundation Studio: Digital Media,Joshua Hite,200,79.45,,91.0,50.0,,,,,,,,,,,0,1,1,1,5,8,23,41,78,27,11,80.0,83.0,76.0
+UBCV,2023,W,VISA,110,,002,Foundation Studio: Digital Media,Joshua Hite,156,79.08,,94.0,12.0,,,,,,,,,,,2,0,3,0,2,2,20,21,75,24,4,80.0,83.0,77.0
+UBCV,2023,W,VISA,110,,227,Foundation Studio: Digital Media,Joshua Hite,87,77.39,,87.0,46.0,,,,,,,,,,,1,0,0,1,0,2,15,31,35,2,0,78.0,80.0,76.0
+UBCV,2023,W,VISA,210,,001,Digital Arts,Joshua Hite,20,79.15,,87.0,51.0,,,,,,,,,,,0,1,0,0,1,0,0,1,12,5,0,80.0,82.75,80.0
+UBCV,2023,W,VISA,311,,002,Intermediate Digital Arts II,Joshua Hite,19,80.68,,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,13,1,0,81.0,82.5,79.5

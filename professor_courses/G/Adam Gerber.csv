@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,CIVL,439,,201,DSGN TMBR STRUCT,"Gerber, Adam;Tannert, Thomas",29,77.79,11.43,93,50,29,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,6,1,8,3,6
+UBC,2018,W,CIVL,516,,201,BEHV TIMBER STRU,"Gerber, Adam;Tannert, Thomas",8,82,10.13,97,68,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,2
+UBCV,2018,W,CIVL,439,,201,Design of Timber Structures,Adam Gerber;Ann Abraham;Hercend Mpidi Bita;Thomas Tannert,29,77.793103448,11.434219663,93.0,50.0,,,,,,,,,,,0,2,1,1,0,1,6,1,8,3,6
+UBCV,2018,W,CIVL,516,,201,Behaviour of Timber Structures,Adam Gerber;Julien Fagnan;Thomas Tannert,7,82.0,10.132456102,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,1,2

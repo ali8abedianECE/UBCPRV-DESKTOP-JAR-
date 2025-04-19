@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,COMM,292,,204,MNGMT&ORGNZ BHVR,"Egeling, Alexander;Schulz, Martin",53,73.4,5.16,82,52,53,0,0,0,0,0,0,0,0,0,0,1,1,0,2,10,23,12,4,0,0
+UBC,2017,W,COMM,292,,205,MNGMT&ORGNZ BHVR,"Egeling, Alexander;Schulz, Martin",50,74.22,5.23,84,61,49,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6,15,15,7,0,0
+UBC,2017,W,COMM,292,,209,MNGMT&ORGNZ BHVR,"Egeling, Alexander",53,74.25,4.34,82,66,53,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,17,17,4,0,0
+UBCV,2017,W,COMM,292,,204,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,53,73.396226415,5.160275867,82.0,52.0,,,,,,,,,,,0,1,1,0,2,10,23,12,4,0,0
+UBCV,2017,W,COMM,292,,205,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,49,74.224489796,5.225200579,84.0,61.0,,,,,,,,,,,0,0,0,2,4,6,15,15,7,0,0
+UBCV,2017,W,COMM,292,,209,Management and Organizational Behaviour,Alexander Egeling;Amir Kashani,53,74.245283019,4.340797784,82.0,66.0,,,,,,,,,,,0,0,0,0,6,9,17,17,4,0,0

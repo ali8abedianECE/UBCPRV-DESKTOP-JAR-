@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,CNPS,362,,002,BASIC INTVW SKLS,"Cayley, Mair",15,85.53,4.87,92,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,5
+UBC,2016,W,CNPS,362,,008,BASIC INTVW SKLS,"Cayley, Mair",14,85.43,4.31,90,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,9,1
+UBC,2017,W,CNPS,362,,004,BASIC INTVW SKLS,"Cayley, Mair",15,83.33,3.89,89,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,6,0
+UBCV,2014,W,CNPS,362,,006,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,13,87.23076923,3.218536058,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,CNPS,362,,007,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,13,86.07692308,4.94067368,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,
+UBCV,2014,W,CNPS,362,,010,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,16,85.0625,5.68587431,92.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,9,
+UBCV,2015,S,CNPS,362,,923,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,14,87.85714286,3.034599019,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2016,W,CNPS,362,,002,Basic Interviewing Skills,Mair Cayley;Talino Bruno,15,85.53333333,4.867775477,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,3,5
+UBCV,2016,W,CNPS,362,,003,Basic Interviewing Skills,Mair Cayley;Talino Bruno,15,88.0,2.699206233,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,5
+UBCV,2016,W,CNPS,362,,008,Basic Interviewing Skills,Mair Cayley,14,85.42857143,4.309458037,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,9,1
+UBCV,2017,W,CNPS,362,,004,Basic Interviewing Skills,Mair Cayley,15,83.333333333,3.885259077,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,6,0
+UBCV,2017,W,CNPS,362,,006,Basic Interviewing Skills,Gillian Smith;Mair Cayley;Thomas Motl,15,85.533333333,5.409867528,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,5,5

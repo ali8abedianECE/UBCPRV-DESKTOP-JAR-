@@ -1,0 +1,117 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,APSC,486,,001,NEW VEN DESIGN,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",18,85.06,2.94,91,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,3,,,
+UBC,2017,W,APSC,496,D,001,INTER ENG PRJECT,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",5,85.6,0.89,87,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,,,
+UBC,2017,W,COMM,466,,001,NEW VENTURE DES,"Etmannski, Tamara;Hodgson, Antony;Pogue, Fraser;Simonite, James",12,84.58,2.47,90,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,,,
+UBC,2018,W,APSC,486,,002,NEW VEN DESIGN,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",14,83.57,2.9,88,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0,,,
+UBC,2018,W,APSC,496,D,002,INTER ENG PRJECT,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",7,87.14,3.13,90,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,,,
+UBC,2018,W,APSC,496,E,002,INTER ENG PRJECT,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",7,83.86,2.41,88,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,,,
+UBC,2018,W,APSC,541,,202,TECH ENT ENGIN,"Bull, Justin;Pogue, Fraser",11,82.36,3.04,87,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4,0,,,
+UBC,2018,W,BAEN,506,,002,TECH ENTRPRNRSHP,"Bull, Justin;Pogue, Fraser",21,81.76,3.1,86,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12,6,0,,,
+UBC,2018,W,BAEN,550,,MM1,FUND ENTRPRENEUR,"Pogue, Fraser",50,80.86,2.05,85,76,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,42,1,0,,,
+UBC,2018,W,COMM,386,P,101,TPCS BUSINESS 3,"Feldman, Alex;Miller, David;Pogue, Fraser",23,80.65,5.83,89,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,11,5,0,,,
+UBC,2018,W,COMM,466,,002,NEW VENTURE DES,"Etmannski, Tamara;Pogue, Fraser;Simonite, James",20,84.65,2.68,90,81,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,10,1,,,
+UBCV,2017,W,APSC,486,,001,New Venture Design,Antony Hodgson;David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Tamara Etmannski,18,85.055555556,2.940032457,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,3,,,
+UBCV,2017,W,COMM,466,,001,New Venture Design,Antony Hodgson;Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,12,84.583333333,2.466441431,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,1,,,
+UBCV,2018,W,APSC,101,,201,Introduction to Engineering II,Ali Pourzahedi;Behzad Zakani;Carl Ollivier-Gooch;Carlos Antonio Sanchez;Carol Patricia Jaeger;Connor Diego Mosquera;Connor Mosquera;Fraser Pogue;Gabriel Potvin;Gabrielle Lam;Hamed Valipour;Jonas Altman;Jonathan Nakane;Madeleine Brown;Madeleine Yeskoo;Mohammadamin Sadeghi;Nil Ister;Noboru Yonemitsu;Peter Ostafichuk;Siamak Najarian;Susan Nesbit;Tamara Etmannski;Vivienne Jaehn-Kreibaum,242,72.987603306,10.372114468,97.0,21.0,,,,,,,,,,,10,3,4,9,25,46,38,37,46,17,7,,,
+UBCV,2018,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,14,83.571428571,2.901307019,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,6,0,,,
+UBCV,2018,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,7,87.142857143,3.132015934,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,3,,,
+UBCV,2018,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,7,83.857142857,2.410295378,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,2,0,,,
+UBCV,2018,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Fraser Pogue;Justin Bull;Paul Cubbon;Tamara Etmannski,11,82.363636364,3.042128441,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,4,0,,,
+UBCV,2018,W,BAEN,506,,002,Technology Entrepreneurship,Fraser Pogue;Justin Bull;Paul Cubbon;Sayyedsoroush Nasseri;Tamara Etmannski,21,81.761904762,3.096849397,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,12,6,0,,,
+UBCV,2018,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue,50,80.86,2.050485259,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,7,42,1,0,,,
+UBCV,2018,W,COMM,386,P,101,Topics in Business III,Alex Feldman;David Miller;Fraser Pogue,23,80.652173913,5.827900726,89.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,4,11,5,0,,,
+UBCV,2018,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,20,84.65,2.680828623,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,10,1,,,
+UBCV,2019,W,APSC,486,,001,New Venture Design,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,17,83.823529412,2.270332963,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,6,1,,,
+UBCV,2019,W,APSC,486,,002,New Venture Design,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,16,85.375,4.193248542,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,8,2,,,
+UBCV,2019,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,10,76.0,26.828674544,88.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,6,3,0,,,
+UBCV,2019,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,9,85.444444444,4.824704942,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,1,2,,,
+UBCV,2019,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,9,83.333333333,1.936491673,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,0,,,
+UBCV,2019,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,9,85.222222222,4.236088342,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,1,,,
+UBCV,2019,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Fraser Pogue;Justin Bull,12,82.666666667,3.84550111,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,1,2,,,
+UBCV,2019,W,BAEN,506,,002,Technology Entrepreneurship,Fraser Pogue;Justin Bull;Simran Kaur Rai;Simran Rai,23,82.608695652,2.82423168,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,15,7,0,,,
+UBCV,2019,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Fraser Pogue;Maria Anzola;Paul Cubbon,49,80.632653061,3.295791999,87.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,15,26,6,0,,,
+UBCV,2019,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Fraser Pogue;Paul Cubbon,50,80.92,3.128799731,87.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,11,32,4,0,,,
+UBCV,2019,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue;Gokhan Basaran,47,80.595744681,2.946328404,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,14,27,3,0,,,
+UBCV,2019,W,COMM,386,P,101,Topics in Business III,Alex Feldman;Cat Han Nguyen;David Miller;Fraser Pogue;Ratthamnoon Prakitpong,21,78.0,8.0,89.0,60.0,,,,,,,,,,,0,0,0,2,1,1,1,5,7,4,0,,,
+UBCV,2019,W,COMM,466,,001,New Venture Design,David Miller;Eva Kjekstad;Fraser Pogue;Frederick Fajardo;Ilan Boris Vertinsky;James Simonite;Julian Rhind;Purang Abolmaesumi,15,83.933333333,2.576450123,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,0,,,
+UBCV,2019,W,COMM,466,,002,New Venture Design,David Miller;Fraser Pogue;James Blair Simonite;James Simonite;Julian Rhind;Konrad Walus;Tamara Etmannski,17,82.882352941,4.85904251,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,5,5,2,,,
+UBCV,2020,W,APSC,486,,002,New Venture Design,Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,15,84.8,3.189267717,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,8,1,,,
+UBCV,2020,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,6,85.666666667,2.160246899,87.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,0,,,
+UBCV,2020,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Fraser Pogue;Parmjot Gill;Paul Cubbon,55,80.436363636,1.941397324,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,16,38,1,0,,,
+UBCV,2020,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Fraser Pogue;Jerome Manuel;Paul Cubbon,55,81.381818182,2.990670116,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,15,31,9,0,,,
+UBCV,2020,W,BAEN,550,,301,Fundamentals in Entrepreneurship,Fraser Pogue;Victoria Lansdown,51,80.843137255,2.166772245,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,13,37,1,0,,,
+UBCV,2020,W,BAEN,550,,302,Fundamentals in Entrepreneurship,Fraser Pogue;Victoria Elizabeth Lansdown;Victoria Lansdown,16,80.0625,3.086934834,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,9,1,0,,,
+UBCV,2020,W,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Fraser Pogue;Hariharan Mahadevan;Mahadevan Hariharan;Matthew Fuller;Tamara Etmannski,47,80.808510638,2.723794491,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,8,31,5,0,,,
+UBCV,2020,W,BAEN,550,,DD2,Fundamentals in Entrepreneurship,Fraser Pogue;Matthew Fuller;Tamara Etmannski,26,81.192307692,2.135775845,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,21,1,0,,,
+UBCV,2020,W,COMM,466,,002,New Venture Design,David Miller;Fraser Pogue;Hendrik Van Der Loos;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina;Zitian Tong,21,84.19047619,2.542027687,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,12,0,,,
+UBCV,2021,S,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue,56,80.767857143,2.412023454,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,13,38,5,0,,,
+UBCV,2021,W,APSC,160,,VE1,Introduction to Computation in Engineering Design,Eric Souder;Fraser Pogue;Leo Stocco;Maia Henriksson-Ward;Muchen He;Saloome Motavas;Yuanpei Gao,61,69.918032787,24.019641325,100.0,10.0,,,,,,,,,,,11,5,2,4,3,5,4,1,3,6,17,,,
+UBCV,2021,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Amirali Darbandsari;Fraser Pogue;Hongrong Zhang;Hosna Kazerooni Haghighat;Mohammad Najjarzadegan;Siamak Najarian,58,74.379310345,19.188654896,98.0,0.0,,,,,,,,,,,5,3,0,2,4,6,6,3,13,3,13,,,
+UBCV,2021,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,21,82.571428571,3.091462899,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,6,0,,,
+UBCV,2021,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,6,83.666666667,2.422120283,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,0,,,
+UBCV,2021,W,APSC,541,,102,Technology Entrepreneurship for Engineers,Fraser Pogue;Justin Bull,16,81.75,2.265686062,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,11,3,0,,,
+UBCV,2021,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue;Paul Cubbon;Philippe Kruchten,8,81.75,1.832250763,84.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,0,0,,,
+UBCV,2021,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue;Justin Bull;Paul Cubbon;Philippe Kruchten,10,82.5,2.173067468,85.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,2,0,,,
+UBCV,2021,W,BAEN,506,,002,Technology Entrepreneurship,Fraser Pogue;Justin Bull;Lorenzo Zarantonello;Lynn Kulli,15,81.8,2.782598991,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,3,0,,,
+UBCV,2021,W,BAEN,506,,003,Technology Entrepreneurship,Adam Dvorak;Alex Feldman;David Miller;Fraser Pogue;Mary Sullivan,25,81.76,1.588500341,84.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,4,21,0,0,,,
+UBCV,2021,W,BAEN,506,,004,Technology Entrepreneurship,Adam Dvorak;Alex Feldman;David Miller;Fraser Pogue;Justin Bull;Mary Sullivan,20,82.75,2.124419425,85.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,11,6,0,,,
+UBCV,2021,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Alexandra Woudzia;Fraser Pogue;Shauna Dehens,50,80.48,1.9716356,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,15,34,1,0,,,
+UBCV,2021,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Alexandra Woudzia;Fraser Pogue;Shauna Dehens,51,81.058823529,2.221816957,86.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,10,37,4,0,,,
+UBCV,2021,W,BAEN,550,,301,Fundamentals in Entrepreneurship,Alexandra Woudzia;Fraser Pogue,38,81.394736842,2.187673992,86.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,9,27,2,0,,,
+UBCV,2021,W,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Alexandra Woudzia;Fraser Pogue;Shauna Dehens,32,81.46875,2.063263544,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,26,2,0,,,
+UBCV,2021,W,BAEN,550,,DD2,Fundamentals in Entrepreneurship,Alexandra Woudzia;Fraser Pogue;Shauna Dehens,34,81.705882353,1.714985851,86.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,5,28,1,0,,,
+UBCV,2021,W,BAEN,580,,820,Topics in Entrepreneurship,Alexandra Woudzia;Fraser Pogue,35,80.228571429,1.848460636,84.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,6,28,0,0,,,
+UBCV,2021,W,BMEG,401,,202,Economics of Healthcare Solutions,Fraser Pogue;Sahil Jain,38,79.947368421,13.778062015,88.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,4,22,9,0,,,
+UBCV,2021,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus;Paul Cubbon;Paul Lusina,21,82.857142857,2.688600273,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,15,6,0,,,
+UBCV,2021,S,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue,56,80.8,,86.0,76.0,,,,,,,,,,,,,,,,,,13,38,,,80.0,82.3,80.0
+UBCV,2021,W,APSC,486,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus,21,82.6,,88.0,76.0,,,,,,,,,,,,,,,,,,,14,6,,82.0,85.0,81.0
+UBCV,2021,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Fraser Pogue;James Blair Simonite;Konrad Walus,6,83.7,,86.0,80.0,,,,,,,,,,,,,,,,,,,,,,84.0,85.8,82.3
+UBCV,2021,W,APSC,541,,102,Technology Entrepreneurship for Engineers,Justin Bull;Fraser Pogue,16,81.8,,86.0,78.0,,,,,,,,,,,,,,,,,,,11,,,82.0,83.0,80.0
+UBCV,2021,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue,8,81.8,,84.0,79.0,,,,,,,,,,,,,,,,,,,6,,,82.0,83.0,81.3
+UBCV,2021,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Fraser Pogue,10,82.5,,85.0,79.0,,,,,,,,,,,,,,,,,,,6,,,82.5,84.0,82.0
+UBCV,2021,W,BAEN,506,,002,Technology Entrepreneurship,Justin Bull;Fraser Pogue,15,81.8,,86.0,78.0,,,,,,,,,,,,,,,,,,,9,,,82.0,83.0,80.0
+UBCV,2021,W,BAEN,506,,003,Technology Entrepreneurship,Alex Feldman;David Miller;Fraser Pogue,25,81.8,,84.0,79.0,,,,,,,,,,,,,,,,,,,21,,,82.0,83.0,81.0
+UBCV,2021,W,BAEN,506,,004,Technology Entrepreneurship,Alex Feldman;David Miller;Fraser Pogue,20,82.8,,85.0,79.0,,,,,,,,,,,,,,,,,,,11,6,,83.0,85.0,82.0
+UBCV,2021,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Fraser Pogue,50,80.5,,85.0,76.0,,,,,,,,,,,,,,,,,,15,34,,,80.0,81.8,79.0
+UBCV,2021,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Fraser Pogue,51,81.1,,86.0,77.0,,,,,,,,,,,,,,,,,,10,37,,,81.0,82.5,80.0
+UBCV,2021,W,BAEN,550,,301,Fundamentals in Entrepreneurship,Fraser Pogue,38,81.4,,86.0,77.0,,,,,,,,,,,,,,,,,,9,27,,,82.0,83.0,80.0
+UBCV,2021,W,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Fraser Pogue,32,81.5,,87.0,77.0,,,,,,,,,,,,,,,,,,,26,,,81.0,83.0,80.0
+UBCV,2021,W,BAEN,550,,DD2,Fundamentals in Entrepreneurship,Fraser Pogue,34,81.7,,86.0,79.0,,,,,,,,,,,,,,,,,,,28,,,82.0,83.0,81.0
+UBCV,2021,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue,45,81.5,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,7,31,7,0,81.0,83.0,80.0
+UBCV,2021,W,BAEN,580,,820,Topics in Entrepreneurship,Fraser Pogue,35,80.2,,84.0,75.0,,,,,,,,,,,,,,,,,,6,28,,,80.0,81.0,80.0
+UBCV,2021,W,BMEG,401,,202,Economics of Healthcare Solutions,Fraser Pogue,38,79.9,,88.0,0.0,,,,,,,,,,,,,,,,,,,22,9,,83.0,84.0,80.3
+UBCV,2021,W,COMM,466,,002,New Venture Design,Fraser Pogue;James Blair Simonite;Konrad Walus,21,82.9,,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,15,6,0,82.0,86.0,81.0
+UBCV,2022,S,BA,512,,002,Business Strategy Integration: Experiential Learning,Fraser Pogue,24,84.7,,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,13,0,85.0,86.3,82.0
+UBCV,2022,W,APSC,440,,201,Management Fundamentals for Technology-Based Product Marketing and Development,Linh le;Fraser Pogue,37,80.3,,87.0,65.0,,,,,,,,,,,0,0,0,0,2,1,4,2,21,7,0,82.0,84.0,80.0
+UBCV,2022,W,APSC,486,,001,New Venture Design,Paul Lusina;David Miller;Fraser Pogue;James Blair Simonite,21,82.3,,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,13,4,1,82.0,83.0,81.0
+UBCV,2022,W,APSC,486,,002,New Venture Design,David Miller;Fraser Pogue;Konrad Walus,19,82.6,,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,8,8,0,83.0,85.0,81.0
+UBCV,2022,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Robin Coope;David Miller;Jonathan Nakane;Fraser Pogue,8,82.9,,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,2,0,83.0,84.0,80.0
+UBCV,2022,W,APSC,541,,202,Technology Entrepreneurship for Engineers,Robin Coope;David Miller;Jonathan Nakane;Fraser Pogue,9,81.4,,83.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,0,0,82.0,82.0,80.0
+UBCV,2022,W,BAEN,506,,001,Technology Entrepreneurship,Robin Coope;David Miller;Jonathan Nakane;Fraser Pogue,16,82.1,,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,4,0,80.0,83.8,80.0
+UBCV,2022,W,BAEN,506,,002,Technology Entrepreneurship,Robin Coope;David Miller;Jonathan Nakane;Fraser Pogue,15,81.9,,83.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,15,0,0,82.0,83.0,81.0
+UBCV,2022,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Fraser Pogue,44,81.6,,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,36,2,0,82.0,83.0,80.0
+UBCV,2022,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Fraser Pogue,45,81.3,,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,34,4,0,81.0,83.0,80.0
+UBCV,2022,W,BAEN,550,,301,Fundamentals in Entrepreneurship,Fraser Pogue,49,82.4,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,34,9,1,82.0,84.0,81.0
+UBCV,2022,W,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Fraser Pogue,44,81.5,,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,37,3,0,81.0,83.0,80.0
+UBCV,2022,W,BAEN,550,,DD2,Fundamentals in Entrepreneurship,Fraser Pogue,46,83.5,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,36,9,1,83.0,84.0,82.0
+UBCV,2022,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Fraser Pogue,41,80.0,,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,6,8,23,3,0,81.0,82.0,77.0
+UBCV,2022,W,BAEN,580,,821,Topics in Entrepreneurship,Fraser Pogue,17,78.8,,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,10,3,2,0,78.0,80.0,77.0
+UBCV,2022,W,BMEG,401,,202,Economics of Healthcare Solutions,Fraser Pogue,56,82.2,,94.0,68.0,,,,,,,,,,,0,0,0,0,0,5,2,8,22,11,8,82.0,86.0,79.0
+UBCV,2022,W,COMM,280,,101,Entrepreneurship,Fraser Pogue,37,72.6,,87.0,3.0,,,,,,,,,,,1,0,2,4,0,5,4,11,7,3,0,76.0,80.0,69.0
+UBCV,2022,W,COMM,280,,203,Entrepreneurship,Fraser Pogue,21,69.5,,94.0,0.0,,,,,,,,,,,1,1,0,3,0,3,6,3,2,1,1,73.0,77.0,68.0
+UBCV,2022,W,COMM,466,,001,New Venture Design,Paul Lusina;David Miller;Fraser Pogue;James Blair Simonite,21,82.9,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,12,4,2,83.0,85.0,81.0
+UBCV,2022,W,COMM,466,,002,New Venture Design,David Miller;Fraser Pogue;Konrad Walus,19,82.5,,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,6,0,82.0,85.0,80.5
+UBCV,2022,W,FCOR,502,,201,Entrepreneurship,Piyapattra Chaimahawong;Fraser Pogue,34,87.0,,97.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,5,9,16,88.0,91.8,84.3
+UBCV,2023,S,BA,512,,004,Business Strategy Integration: Experiential Learning,Fraser Pogue,31,88.65,,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,20,11,88.0,90.0,88.0
+UBCV,2023,S,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Fraser Pogue,51,80.69,,87.0,60.0,,,,,,,,,,,0,0,0,1,0,0,3,9,32,6,0,82.0,83.0,79.5
+UBCV,2023,S,BAEN,550,,DD2,Fundamentals in Entrepreneurship,Fraser Pogue,49,82.88,,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,35,11,0,83.0,84.0,81.0
+UBCV,2023,W,APSC,486,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,21,83.9,,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,7,3,84.0,87.0,81.0
+UBCV,2023,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,10,81.7,,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,2,0,81.5,83.8,80.0
+UBCV,2023,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Robin Coope;Fraser Pogue,9,84.4,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,0,85.0,85.0,83.5
+UBCV,2023,W,BAEN,506,,001,Technology Entrepreneurship,Robin Coope;Fraser Pogue,17,84.65,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,11,0,85.0,86.0,83.0
+UBCV,2023,W,BAEN,550,,001,Fundamentals in Entrepreneurship,Fraser Pogue,44,83.07,,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,32,12,0,83.0,85.0,81.0
+UBCV,2023,W,BAEN,550,,002,Fundamentals in Entrepreneurship,Fraser Pogue,38,83.24,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,21,13,1,83.0,85.0,82.0
+UBCV,2023,W,BAEN,550,,301,Fundamentals in Entrepreneurship,Fraser Pogue,46,81.89,,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,2,32,9,0,82.0,84.0,81.0
+UBCV,2023,W,BAEN,580,,822,Topics in Entrepreneurship,Fraser Pogue,6,83.83,,85.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,0,84.0,84.75,83.25
+UBCV,2023,W,BMEG,401,,202,Economics of Healthcare Solutions,Fraser Pogue,55,81.24,,96.0,54.0,,,,,,,,,,,0,1,2,0,2,2,5,7,8,22,6,85.0,87.5,77.5
+UBCV,2023,W,COMM,466,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,18,82.78,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,4,1,83.0,84.75,80.25

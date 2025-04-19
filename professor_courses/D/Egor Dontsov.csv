@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,MATH,405,,101,NUM MTHDS DFF EQ,"Dontsov, Egor",21,72.72,30.4,100,0,15,3,2,0,1,1,1,1,0,0,3,0,0,1,0,1,1,1,2,3,6
+UBC,2013,W,MATH,607,E,101,TPCS NUMERIC ANL,"Dontsov, Egor",7,93.33,6.74,99,80,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5
+UBC,2014,W,MATH,152,,201,LINEAR SYSTEMS,"Dontsov, Egor",141,64.75,15.89,98,12,120,15,2,0,4,0,1,3,1,10,15,16,18,13,15,12,7,12,15,5,7
+UBC,2014,W,MATH,215,,104,ELEM DIFF EQ I,"Dontsov, Egor",55,70.73,20.41,98,13,42,6,5,0,1,0,1,2,0,3,6,3,3,3,2,6,3,3,4,4,11
+UBC,2014,W,MATH,255,,104,ORD DIFF EQUTNS,"Dontsov, Egor",59,83.16,12.56,99,35,57,1,1,0,0,0,0,0,1,0,1,2,0,1,1,3,4,2,12,10,22
+UBCV,2014,W,MATH,152,,201,Linear Systems,Brian Thomas Wetton;Brian Wetton;Egor Dontsov,139,62.88489209,19.06019418,98.0,0.0,,,,,,,,,,,19,16,18,13,15,12,7,12,15,5,7
+UBCV,2014,W,MATH,215,,104,Elementary Differential Equations I,Egor Dontsov;Tai-Peng Tsai,50,69.42,21.98337962,98.0,6.0,,,,,,,,,,,7,,,,,7,,,,,11
+UBCV,2014,W,MATH,255,,104,Ordinary Differential Equations,Egor Dontsov;Tai-Peng Tsai,58,83.15517241,12.56394413,99.0,35.0,,,,,,,,,,,,2,,,,,,,12,10,22

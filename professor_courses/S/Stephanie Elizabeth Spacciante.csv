@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,SPAN,101,,110,Beginners' Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,44,74.113636364,13.612948537,95.0,33.0,,,,,,5,,8,9,5,
+UBCV,2015,W,SPAN,102,,207,Beginners' Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,38,74.394736842,12.977193037,97.0,45.0,,,,,,,5,5,7,,6
+UBCV,2015,W,SPAN,201,,101,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,71.228571429,18.594884993,95.0,20.0,,,,,,,,,,7,5
+UBCV,2015,W,SPAN,201,,103,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,69.314285714,16.372091441,98.0,42.0,,6,,,,,,,,,5
+UBCV,2015,W,SPAN,202,,201,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,34,68.176470588,18.937649831,96.0,17.0,,,,,,,,6,,,
+UBCV,2015,W,SPAN,202,,203,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,33,72.060606061,16.36868083,95.0,24.0,,,,,,6,,,,5,6
+UBCV,2015,W,SPAN,202,,902,Intermediate Spanish II,Juan Carlos Rodriguez;Stephanie Elizabeth Spacciante;Stephanie Spacciante,28,75.285714286,9.560168691,90.0,58.0,0,0,,,,,,,6,,
+UBCV,2016,W,SPAN,101,,110,Beginners' Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,34,77.5,11.71957699,95.0,51.0,0,1,2,2,3,2,3,5,5,5,6
+UBCV,2016,W,SPAN,102,,207,Beginners' Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,72.5,12.31835766,92.0,50.0,0,2,4,4,2,2,1,7,4,4,2
+UBCV,2016,W,SPAN,201,,101,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,34,69.35294118,14.47439192,94.0,36.0,2,3,6,0,3,3,4,4,2,6,1
+UBCV,2016,W,SPAN,201,,103,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,33,72.42424242,13.13637674,92.0,26.0,1,1,3,3,2,3,5,3,7,4,1
+UBCV,2016,W,SPAN,202,,201,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,72.375,15.67358575,95.0,22.0,2,0,2,2,4,2,6,5,3,1,5
+UBCV,2016,W,SPAN,202,,203,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,33,72.03030303,12.65030842,94.0,41.0,1,2,1,4,3,6,2,4,4,2,4
+UBCV,2016,W,SPAN,202,,901,Intermediate Spanish II,Gianluca Oluic;Stephanie Elizabeth Spacciante;Stephanie Spacciante,27,68.77777778,14.08581756,90.0,31.0,1,3,4,2,0,6,4,0,1,5,1
+UBCV,2016,W,SPAN,202,,902,Intermediate Spanish II,Fabricio Tocco;Stephanie Elizabeth Spacciante;Stephanie Spacciante,26,69.80769231,16.38052314,97.0,32.0,1,6,2,0,2,0,4,2,4,2,3
+UBCV,2017,W,SPAN,101,,115,Beginners' Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,33,72.484848485,17.658427896,96.0,21.0,2,4,2,2,2,2,3,3,3,2,8
+UBCV,2017,W,SPAN,102,,202,Beginners' Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,31,67.870967742,18.298892381,94.0,21.0,4,5,0,1,1,7,1,2,3,4,3
+UBCV,2017,W,SPAN,102,,207,Beginners' Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,23,71.956521739,14.483464744,94.0,40.0,1,1,2,3,1,3,3,0,4,3,2
+UBCV,2017,W,SPAN,201,,101,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,70.1875,13.532368603,94.0,46.0,1,4,4,1,3,5,3,1,5,2,3
+UBCV,2017,W,SPAN,201,,102,Intermediate Spanish I,Camilo Monje;Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,70.114285714,12.254102383,94.0,43.0,1,1,7,3,5,2,3,3,6,3,1
+UBCV,2017,W,SPAN,201,,103,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,74.228571429,15.233642557,96.0,40.0,1,5,2,1,1,2,6,2,4,6,5
+UBCV,2017,W,SPAN,201,,107,Intermediate Spanish I,Gianluca Oluic;Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,70.21875,14.358844358,92.0,23.0,2,3,1,2,2,3,5,5,6,2,1
+UBCV,2017,W,SPAN,201,,901,Intermediate Spanish I,Fabricio Tocco;Stephanie Elizabeth Spacciante;Stephanie Spacciante,30,71.066666667,14.87866636,91.0,38.0,2,4,1,2,3,1,3,4,4,4,2
+UBCV,2017,W,SPAN,201,,902,Intermediate Spanish I,Marcos Moscoso-Garay;Stephanie Elizabeth Spacciante;Stephanie Spacciante,31,67.258064516,17.680436914,92.0,23.0,5,2,3,1,4,4,2,3,0,2,5
+UBCV,2017,W,SPAN,202,,201,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,71.085714286,12.677844103,91.0,45.0,1,4,2,2,4,4,6,2,3,4,3
+UBCV,2017,W,SPAN,202,,203,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,73.028571429,17.672653708,94.0,10.0,2,2,1,4,3,2,4,4,2,3,8
+UBCV,2017,W,SPAN,202,,204,Intermediate Spanish II,Camilo Monje;Stephanie Elizabeth Spacciante;Stephanie Spacciante,24,75.958333333,11.570123319,91.0,41.0,1,1,0,0,2,2,6,1,5,4,2
+UBCV,2017,W,SPAN,202,,205,Intermediate Spanish II,Gianluca Oluic;Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,74.46875,8.639684787,89.0,58.0,0,0,2,2,5,3,4,6,6,4,0
+UBCV,2017,W,SPAN,202,,901,Intermediate Spanish II,Fabricio Tocco;Stephanie Elizabeth Spacciante;Stephanie Spacciante,23,72.130434783,13.288081973,91.0,43.0,1,1,1,4,1,4,0,2,4,3,2
+UBCV,2017,W,SPAN,202,,902,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante;Upasana Thakkar,31,71.580645161,19.193356826,95.0,7.0,3,2,1,3,2,3,1,3,4,5,4
+UBCV,2018,W,SPAN,101,,110,Beginners' Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,76.371428571,16.956840914,95.0,14.0,3,0,0,4,2,1,3,3,7,3,9
+UBCV,2018,W,SPAN,201,,101,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,28,74.535714286,15.049257747,97.0,50.0,0,4,0,2,4,4,1,2,2,2,7
+UBCV,2018,W,SPAN,201,,102,Intermediate Spanish I,Jose Garcia Martinez;Jose Ricardo Garcia Martinez;Stephanie Elizabeth Spacciante;Stephanie Spacciante,33,73.242424242,15.091451022,93.0,13.0,1,2,0,4,3,1,2,7,7,4,2
+UBCV,2018,W,SPAN,201,,103,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,70.3125,15.650285991,94.0,24.0,3,1,4,1,1,3,6,3,4,5,1
+UBCV,2018,W,SPAN,201,,106,Intermediate Spanish I,Barbara Fraser;Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles;Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,71.875,16.703775891,94.0,12.0,2,0,3,3,2,2,5,4,4,3,4
+UBCV,2018,W,SPAN,202,,201,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,34,68.705882353,14.083150069,95.0,24.0,1,4,3,5,3,3,3,4,4,2,2
+UBCV,2018,W,SPAN,202,,202,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante;Xana Menendez Prendes,34,70.382352941,19.298319452,98.0,3.0,3,3,1,1,2,2,6,3,9,1,3
+UBCV,2018,W,SPAN,202,,203,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,34,75.352941176,15.643533571,94.0,39.0,2,2,4,0,2,2,1,4,3,6,8
+UBCV,2018,W,SPAN,202,,901,Intermediate Spanish II,Gianluca Oluic;Stephanie Elizabeth Spacciante;Stephanie Spacciante,12,67.583333333,15.18047989,91.0,35.0,1,0,3,1,1,2,0,1,1,1,1
+UBCV,2019,S,SPAN,201,,A01,Intermediate Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,23,84.739130435,9.106528085,95.0,60.0,0,0,0,1,1,0,1,1,4,8,7
+UBCV,2019,S,SPAN,202,,A01,Intermediate Spanish II,Stephanie Elizabeth Spacciante;Stephanie Spacciante,24,84.291666667,9.782322862,96.0,62.0,0,0,0,1,1,1,0,4,5,2,10
+UBCV,2019,W,SPAN,201,,101,Elementary Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,35,63.971428571,15.916114132,90.0,20.0,4,1,9,4,2,3,4,2,3,2,1
+UBCV,2019,W,SPAN,201,,103,Elementary Spanish I,Stephanie Elizabeth Spacciante;Stephanie Spacciante,30,71.766666667,15.767017809,95.0,31.0,2,3,2,0,2,4,2,6,2,3,4
+UBCV,2019,W,SPAN,201,,107,Elementary Spanish I,Patricio Robles;Stephanie Elizabeth Spacciante;Stephanie Spacciante,29,73.75862069,16.55867311,93.0,30.0,2,2,1,2,1,2,2,2,7,5,3
+UBCV,2019,W,SPAN,201,,108,Elementary Spanish I,Camilo Monje;Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,69.375,12.615274919,90.0,31.0,2,1,2,5,3,2,5,3,8,0,1

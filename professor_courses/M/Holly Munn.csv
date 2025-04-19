@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,COMM,390,,105,BUSINESS WRITING,"Munn, Holly",20,78.89,7.11,92,67,19,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,1,3,8,2,1,,,
+UBC,2018,W,COMM,390,,106,BUSINESS WRITING,"Munn, Holly",21,74.05,8.54,90,58,21,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,4,3,4,1,1,,,
+UBC,2018,W,COMM,390,,215,BUSINESS WRITING,"Munn, Holly",13,77.23,9.73,93,61,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,1,2,0,3,,,
+UBCV,2018,W,COMM,390,,105,Business Writing,Holly Munn,19,78.894736842,7.109420486,92.0,67.0,,,,,,,,,,,0,0,0,0,2,2,1,3,8,2,1,,,
+UBCV,2018,W,COMM,390,,106,Business Writing,Chad Brealey;Holly Munn,21,74.047619048,8.535081666,90.0,58.0,,,,,,,,,,,0,0,1,1,4,2,4,3,4,1,1,,,
+UBCV,2018,W,COMM,390,,215,Business Writing,Holly Munn,13,77.230769231,9.730997261,93.0,61.0,,,,,,,,,,,0,0,0,1,0,3,3,1,2,0,3,,,
+UBCV,2019,W,COMM,390,,113,Business Writing,Holly Munn,19,77.157894737,12.262241765,90.0,44.0,,,,,,,,,,,2,0,0,0,0,0,1,5,8,1,2,,,
+UBCV,2019,W,COMM,390,,114,Business Writing,Holly Munn,19,74.263157895,10.476651847,90.0,51.0,,,,,,,,,,,0,2,0,1,2,1,2,3,5,2,1,,,
+UBCV,2019,W,COMM,390,,115,Business Writing,Holly Munn,20,79.1,6.874054959,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,3,5,4,2,,,
+UBCV,2019,W,COMM,390,,210,Business Writing,Holly Munn,19,79.105263158,5.141278882,88.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,5,7,4,0,,,
+UBCV,2019,W,COMM,390,,211,Business Writing,Holly Munn,17,77.588235294,6.195349299,90.0,69.0,,,,,,,,,,,0,0,0,0,0,2,6,3,3,1,2,,,
+UBCV,2020,S,COMM,390,,924,Business Writing,Holly Munn,22,81.636363636,4.716187469,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,4,11,3,2,,,
+UBCV,2020,W,COMM,390,,107,Business Writing,Holly Munn,20,78.4,7.653000787,90.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,6,9,2,1,,,
+UBCV,2020,W,COMM,390,,108,Business Writing,Holly Munn,18,73.611111111,10.960565083,85.0,38.0,,,,,,,,,,,1,0,1,0,0,0,5,5,5,1,0,,,
+UBCV,2020,W,COMM,390,,210,Business Writing,Holly Munn,14,80.0,7.980746061,94.0,65.0,,,,,,,,,,,0,0,0,0,2,0,1,3,3,4,1,,,
+UBCV,2021,S,COMM,390,,924,Business Writing,Holly Munn,19,80.421052632,7.151657069,93.0,62.0,,,,,,,,,,,0,0,0,1,0,1,0,6,4,5,2,,,
+UBCV,2021,W,COMM,220,,DD1,Business Communications,Holly Munn;Marlisse Silver Sweeney;Ryan Dong,29,80.0,4.750939757,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,10,11,4,2,,,
+UBCV,2021,W,COMM,220,,DD6,Business Communications,Holly Munn;Kari Marken;Krysten Spencer;Marlisse Silver Sweeney,24,78.666666667,4.860369164,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,11,4,5,0,,,
+UBCV,2021,W,COMM,390,,109,Business Writing,Holly Munn,17,75.882352941,10.409625071,90.0,53.0,,,,,,,,,,,0,1,0,1,2,2,0,2,4,4,1,,,
+UBCV,2021,W,COMM,390,,115,Business Writing,Holly Munn,16,75.25,9.609023537,90.0,60.0,,,,,,,,,,,0,0,0,3,2,0,1,3,4,1,2,,,
+UBCV,2021,W,COMM,390,,201,Business Writing,Holly Munn,13,76.230769231,6.220314115,88.0,66.0,,,,,,,,,,,0,0,0,0,1,1,4,3,2,2,0,,,
+UBCV,2021,W,COMM,390,,202,Business Writing,Holly Munn,19,78.736842105,6.366946811,92.0,66.0,,,,,,,,,,,0,0,0,0,1,1,3,4,6,3,1,,,
+UBCV,2021,W,COMM,390,,203,Business Writing,Holly Munn,20,79.95,5.942487517,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,7,1,2,,,
+UBCV,2021,S,COMM,390,,924,Business Writing,Holly Munn,19,80.4,,93.0,62.0,,,,,,,,,,,,,,,,,,6,,,,80.0,85.0,77.0
+UBCV,2021,W,COMM,220,,DD1,Business Communications,Holly Munn,29,80.0,,90.0,70.0,,,,,,,,,,,,,,,,,,10,11,,,80.0,82.0,76.0
+UBCV,2021,W,COMM,220,,DD6,Business Communications,Holly Munn,24,78.7,,88.0,70.0,,,,,,,,,,,,,,,,,,11,,,,78.0,81.3,76.0
+UBCV,2021,W,COMM,390,,109,Business Writing,Holly Munn,17,75.9,,90.0,53.0,,,,,,,,,,,,,,,,,,,,,,80.0,85.0,70.0
+UBCV,2021,W,COMM,390,,115,Business Writing,Holly Munn,16,75.3,,90.0,60.0,,,,,,,,,,,,,,,,,,,,,,76.5,80.0,66.0
+UBCV,2021,W,COMM,390,,201,Business Writing,Holly Munn,13,76.2,,88.0,66.0,,,,,,,,,,,,,,,,,,,,,,77.0,80.0,73.0
+UBCV,2021,W,COMM,390,,202,Business Writing,Holly Munn,19,78.7,,92.0,66.0,,,,,,,,,,,,,,,,,,,6,,,81.0,82.0,75.0
+UBCV,2021,W,COMM,390,,203,Business Writing,Holly Munn,20,80.0,,94.0,70.0,,,,,,,,,,,,,,,,,,7,7,,,79.0,82.3,76.8
+UBCV,2022,S,COMM,390,,973,Business Writing,Holly Munn,16,77.7,,91.0,0.0,,,,,,,,,,,1,0,0,0,0,0,2,1,5,5,2,83.0,85.3,79.5
+UBCV,2022,W,COMM,220,,DD1,Business Communications,Holly Munn,12,83.5,,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,5,1,84.0,85.3,81.5
+UBCV,2022,W,COMM,220,,DD4,Business Communications,Holly Munn,30,78.4,,90.0,0.0,,,,,,,,,,,1,0,0,0,1,1,0,8,8,8,3,80.5,85.0,78.0
+UBCV,2022,W,COMM,390,,109,Business Writing,Holly Munn,17,78.2,,89.0,54.0,,,,,,,,,,,0,1,0,1,0,0,2,2,8,3,0,80.0,82.0,78.0
+UBCV,2022,W,COMM,390,,110,Business Writing,Holly Munn,20,77.6,,92.0,60.0,,,,,,,,,,,0,0,0,1,1,1,2,5,7,2,1,79.0,80.3,75.3
+UBCV,2022,W,COMM,390,,201,Business Writing,Holly Munn,16,80.0,,91.0,61.0,,,,,,,,,,,0,0,0,1,0,2,1,3,1,5,3,83.0,85.5,75.0
+UBCV,2022,W,COMM,390,,202,Business Writing,Holly Munn,19,79.5,,90.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,4,6,4,1,81.0,84.0,76.0
+UBCV,2023,S,COMM,396,,971,Business Communications II,Holly Munn,19,76.47,,91.0,47.0,,,,,,,,,,,1,0,0,0,1,3,2,3,5,3,1,78.0,82.5,71.0
+UBCV,2023,S,COMM,396,,973,Business Communications II,Holly Munn,16,80.44,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,0,7,1,3,80.0,84.25,73.0
+UBCV,2023,W,COMM,220,,DD1,Business Communications,Holly Munn,12,79.6,,87.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,3,5,2,0,80.0,80.0,77.5
+UBCV,2023,W,COMM,220,,DD4,Business Communications,Holly Munn,15,82.8,,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,8,0,85.0,85.0,82.0
+UBCV,2023,W,COMM,220,,DD7,Business Communications,Holly Munn,21,79.4,,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,8,11,1,0,80.0,82.0,76.0
+UBCV,2023,W,COMM,396,,105,Business Communications II,Holly Munn,20,80.2,,87.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,1,8,6,0,80.0,85.0,75.5
+UBCV,2023,W,COMM,396,,106,Business Communications II,Holly Munn,19,77.7,,85.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,7,8,1,0,78.0,80.0,76.0
+UBCV,2023,W,COMM,396,,219,Business Communications II,Holly Munn,20,79.3,,92.0,61.0,,,,,,,,,,,0,0,0,2,0,3,0,5,3,4,3,79.0,87.3,74.8
+UBCV,2023,W,COMM,396,,220,Business Communications II,Holly Munn,20,76.4,,94.0,31.0,,,,,,,,,,,2,0,0,1,0,2,1,2,4,2,5,80.0,89.0,72.0

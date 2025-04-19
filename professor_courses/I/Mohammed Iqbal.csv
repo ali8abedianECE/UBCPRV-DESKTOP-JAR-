@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,PHYS,101,,101,Energy and Waves,Alison Lister;Evert Koster;Javed Iqbal;Mohammed Iqbal,235,79.48085106,13.2991009,97.0,33.0,15,1,2,9,11,12,19,29,37,35,65,,,
+UBCV,2016,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Krishan Saraswat;Mohammed Iqbal;Reiner Kruecken,43,80.34883721,11.6310007,96.0,38.0,1,0,2,1,1,2,5,4,8,11,8,,,
+UBCV,2017,W,PHYS,101,,101,Energy and Waves,Evert Koster;Mohammed Iqbal,252,73.916666667,12.680136299,99.0,36.0,18,8,3,13,20,27,28,36,49,32,18,,,
+UBCV,2017,W,PHYS,473,,201,Applied Nuclear Physics,James Gordon;Javed Iqbal;Mohammed Iqbal;Reiner Kruecken,16,80.0625,9.255403827,90.0,60.0,0,0,0,1,2,0,1,0,4,6,2,,,
+UBCV,2018,W,PHYS,101,,101,Energy and Waves,Ian Macphail-Bartley;Jared Stang;Jordan Fordyce;Mohammed Iqbal,270,76.896296296,12.777928272,99.0,23.0,14,4,3,10,15,31,26,30,58,43,36,,,
+UBCV,2018,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Mohammed Iqbal;Reiner Kruecken,16,85.4375,15.819687102,97.0,30.0,1,0,0,0,0,0,0,1,3,2,9,,,
+UBCV,2019,W,PHYS,101,,101,Energy and Waves,Mohammed Iqbal,259,77.791505792,13.117350678,100.0,25.0,17,0,2,5,13,28,36,26,49,34,49,,,
+UBCV,2019,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Mohammed Iqbal;Reiner Kruecken;Stepan Fomichev,12,86.75,6.468454923,95.0,75.0,0,0,0,0,0,0,1,0,4,1,6,,,
+UBCV,2020,W,PHYS,131,,104,Energy and Waves (Lecture),Alannah Hallas;Mohammed Iqbal;Steven Plotkin,380,80.128947368,12.939343124,99.0,38.0,22,0,2,4,27,24,43,40,57,56,105,,,
+UBCV,2020,W,PHYS,131,,M01,Energy and Waves (Lecture),Alannah Hallas;Mohammed Iqbal;Steven Plotkin,170,79.129411765,13.808742823,100.0,16.0,13,0,1,2,6,19,10,17,26,40,36,,,
+UBCV,2020,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Kouther Noureddine;Mohammed Iqbal;Reiner Kruecken,17,73.117647059,20.630324625,92.0,0.0,1,0,0,1,1,3,0,4,3,3,1,,,
+UBCV,2021,W,PHYS,131,,101,Energy and Waves (Lecture),Abenezer Chane;Abhisek Sahu;Alejandro Mercado Tejerina;Callum Christopher Mccracken;Dhruv Kush;Eduardo Muntaner Garcia;Gottumukkala Chari;Hon Yin (Pompey) Leung;Kyung Nam Lee;Lorna Tu;Mario Ulises Gonzalez Rivas;Md Nurul Shishir;Megan Rutherford;Michelle Medina;Mohammed Iqbal;Satyam Priyadarshi;Shadab Ahamed Shadab Ahamed;Steven Plotkin;Suliat Yakubu;Wyatt Reeves,226,83.539823009,13.042178004,100.0,2.0,10,1,0,0,5,12,12,16,42,45,83,,,
+UBCV,2021,W,PHYS,131,,101,Energy and Waves (Lecture),Mohammed Iqbal;Steven Plotkin,226,83.5,,100.0,2.0,,,,,,12,,16,42,45,83,86.0,92.0,80.0
+UBCV,2022,W,PHYS,131,,101,Energy and Waves (Lecture),Mohammed Iqbal;Erfan Rezaie,269,84.0,,100.0,0.0,14,1,1,0,8,12,18,13,48,34,120,87.0,95.0,80.0
+UBCV,2022,W,PHYS,473,,201,Applied Nuclear Physics,Alexander Gottberg;Mohammed Iqbal,12,84.3,,93.0,72.0,0,0,0,0,0,0,2,1,3,2,4,85.5,90.0,80.8
+UBCV,2023,W,PHYS,131,,101,Energy and Waves (Lecture),Mohammed Iqbal;Steven Plotkin,286,80.9,,100.0,28.0,20,4,3,6,9,19,19,31,27,39,101,85.0,92.0,74.0
+UBCV,2023,W,PHYS,473,,201,Applied Nuclear Physics,Alexander Gottberg;Mohammed Iqbal,24,88.8,,100.0,70.0,0,0,0,0,0,1,1,1,3,4,14,90.0,93.3,84.8

@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",16,92.69,4.75,98,81,13,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10
+UBC,2003,W,PLAN,581,,001,URBAN INFRASTRCT,"Frank, Lawrence",6,94.5,5,97,87,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2005,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",8,88,3.3,93,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+UBC,2005,W,PLAN,581,,001,URBAN INFRASTRCT,"Frank, Lawrence",7,86.83,11.43,94,64,6,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4
+UBC,2006,W,PLAN,548,A,001,CURRENT ISSUES,"Berechman, Joseph;Frank, Lawrence",17,85.47,3.94,91,79,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,3
+UBC,2006,W,PLAN,548,Q,017,CURRENT ISSUES,"Frank, Lawrence;Gurstein, Penelope",8,89.25,1.98,92,87,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+UBC,2007,W,PLAN,548,A,001,CURRENT ISSUES,"Frank, Lawrence",16,86.73,3.83,92,79,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,4
+UBC,2007,W,PLAN,548,Q,017,CURRENT ISSUES,"Frank, Lawrence",5,90.8,3.42,95,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2009,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",12,90.08,2.75,95,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2009,W,PLAN,581,,001,URBAN INFRASTRCT,"Frank, Lawrence",7,87.83,8.3,100,78,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3
+UBC,2010,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",14,89.57,7.51,99,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,10
+UBC,2011,W,PLAN,548,N,001,CURRENT ISSUES,"Frank, Lawrence",10,91.2,4.69,97,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7
+UBC,2011,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",7,86.29,9.48,98,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,3
+UBC,2012,W,PLAN,579,,001,PUB HLTH TRANS,"Frank, Lawrence",10,90.3,4.83,99,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+UBC,2012,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",14,88.92,4.4,94,82,12,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7
+UBC,2012,W,SPPH,571,,001,PUB HLTH TRANS,"Frank, Lawrence",4,93.75,2.99,98,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2013,W,PLAN,579,,001,PUB HLTH TRANS,"Frank, Lawrence",11,91,4.98,98,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6
+UBC,2013,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",16,87.75,4.49,93,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,5
+UBC,2014,W,PLAN,579,,001,PUB HLTH TRANS,"Frank, Lawrence",12,85.82,8.68,92,61,11,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,4
+UBC,2014,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",17,89.29,3.24,94,84,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8
+UBC,2014,W,SPPH,571,,001,PUB HLTH TRANS,"Frank, Lawrence",4,94,4.69,97,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2016,W,PLAN,579,,001,PUB HLTH TRANS,"Frank, Lawrence",13,86.92,4.35,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,3
+UBC,2016,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",7,87.43,6.73,94,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4
+UBC,2017,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",17,88.13,5.3,99,76,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,7
+UBC,2018,W,PLAN,579,,001,PUB HLTH TRANS,"Frank, Lawrence",12,86.58,4.38,95,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,3
+UBC,2018,W,PLAN,580,,001,URBAN TRANSPORT,"Frank, Lawrence",16,87.75,4.63,94,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,8
+UBCV,2014,W,PLAN,579,,001,"Public Health, Transportation, and the Built Environment",Lawrence Frank,11,85.81818182,8.681223207,92.0,61.0,,,,,,,,,,,0,0,0,,,,,,,5,
+UBCV,2014,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank,17,89.29411765,3.235828833,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,8
+UBCV,2016,W,PLAN,579,,001,"Public Health, Transportation, and the Built Environment",Lawrence Frank,13,86.92307692,4.348592463,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,7,3
+UBCV,2016,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank,7,87.42857143,6.729466122,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,2,4
+UBCV,2017,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank,16,88.125,5.302515126,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,7
+UBCV,2018,W,PLAN,579,,001,"Public Health, Transportation, and the Built Environment",Lawrence Frank,12,86.583333333,4.378840306,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,3
+UBCV,2018,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank,16,87.75,4.626013402,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,8
+UBCV,2019,W,PLAN,579,,001,"Public Health, Transportation, and the Built Environment",Lawrence Frank,16,90.875,2.604483314,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,9
+UBCV,2019,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank,13,93.0,3.829708431,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,9
+UBCV,2021,W,PLAN,580,,001,Urban Transportation Planning,Lawrence Frank;Tamim Raad,23,89.217391304,2.430049041,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,14,9

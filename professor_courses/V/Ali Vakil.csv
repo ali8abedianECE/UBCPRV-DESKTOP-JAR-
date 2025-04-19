@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,S,MATH,105,,921,INT CALC AP C&SS,"Vakil, Ali",58,78.59,12.68,96,50,56,0,1,0,1,0,0,0,0,0,0,3,2,2,5,4,6,1,12,8,13,,,
+UBC,2011,W,MECH,479,,101,COMP FLUID DYN,"Vakil, Ali",26,81.23,11.82,95,52,26,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3,1,2,4,5,8,,,
+UBC,2011,W,MECH,481,,201,AERODYN AIRCFT 1,"Vakil, Ali",13,76.33,12.15,90,50,12,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,3,2,1,2,,,
+UBC,2012,W,MECH,479,,101,COMP FLUID DYN,"Vakil, Ali",27,79.93,17.45,99,5,26,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,2,0,8,8,5,,,
+UBC,2013,W,MECH,479,,101,COMP FLUID DYN,"Vakil, Ali",33,84.34,11.78,99,58,32,0,0,1,0,0,0,0,0,0,0,0,1,2,2,1,0,1,6,6,13,,,
+UBC,2014,W,MECH,481,,201,AERODYN AIRCFT 1,"Vakil, Ali",12,82,9.37,94,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,5,1,3,,,
+UBC,2015,W,MECH,481,,201,AERODYN AIRCFT 1,"Vakil, Ali",11,80.45,12.44,94,62,11,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,4,3,,,
+UBC,2016,W,MECH,481,,201,AERODYN AIRCFT 1,"Vakil, Ali",20,73.68,12.72,94,50,19,0,1,0,0,0,0,0,0,0,0,2,1,1,2,2,2,1,5,1,2,,,
+UBC,2017,W,MECH,481,,201,AERODYN AIRCFT 1,"Vakil, Ali",18,78.35,19.14,97,25,16,1,1,0,0,0,0,1,0,0,1,0,0,3,0,1,3,0,1,1,7,,,
+UBC,2018,W,MECH,479,,101,COMP FLUID DYN,"Vakil, Ali",25,75.84,14.42,99,50,25,0,0,0,0,0,0,0,0,0,0,2,1,2,2,4,2,1,4,0,7,,,
+UBCV,2014,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil,12,82.0,9.371135567,94.0,60.0,,,,,,,,,,,0,0,0,,,,,,5,,,,,
+UBCV,2015,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Ehsan Zaman,11,80.454545455,12.436749064,94.0,62.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2016,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Ehsan Zaman,19,73.68421053,12.71505071,94.0,50.0,,,,,,,,,,,0,2,1,1,2,2,2,1,5,1,2,,,
+UBCV,2017,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Arash Nikzad,17,78.352941176,19.143997677,97.0,25.0,,,,,,,,,,,1,0,0,3,0,1,3,0,1,1,7,,,
+UBCV,2018,W,MECH,479,,101,Computational Fluid Dynamics,Ali Vakil;Ehsan Mirzaee,25,75.84,14.421280572,99.0,50.0,,,,,,,,,,,0,2,1,2,2,4,2,1,4,0,7,,,
+UBCV,2019,W,MECH,220,,101,Technical Skills Practicum,Agnes D'Entremont;Ali Vakil;Carly Jones;Faezeh Samanipour;George Rawlings;Graham Hendra;Harman Khungura;Jacob Morrison;Jason Hu;Juan Abello Rubio;Markus Fengler;Masoud Malakoutian;Mohammad Mohammadzadeh Keleshteri;Mohammadreza Rostam;Omid Hajieghrary;Robin Turner;Sayed Mohammad Hashem Jayhooni;Seyed Farid Hoseynian Benvidi;Zahra Shahriari,124,82.879032258,4.381395891,92.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,24,49,40,6,,,
+UBCV,2019,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Ali Vakil;Alireza Sarraf Shirazi;Carly Jones;Chun Wu;Daniel Gomez;Delaram Behnami;Elizabeth Trudel;Hatef Rahmani;Jacob Morrison;Jonathan Nakane;Justin Yu;Maryam Tayyab;Masoud Malakoutian;Mewael Isiet;Mohammad Reza Karimi;Mojtaba Mansouri Arani;Nasser Arbabi;Omid Hajieghrary;Patrick Walls;Robin Turner;Ronny Winarko;Sara Hosseinirad;Sarafa Adewale Iyaniwura;Sayed Mohammad Hashem Jayhooni;Sonia Taylor;Xiaohe Liu;Zahra Shahriari;Zhicheng Wang,126,76.166666667,10.420556607,100.0,46.0,,,,,,,,,,,4,0,0,5,8,22,15,23,30,3,16,,,
+UBCV,2022,W,MECH,484,,201,Aircraft Design: Aerodynamics,Ali Vakil,12,84.0,,99.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,1,1,4,4,86.0,91.0,81.0
+UBCV,2023,W,MECH,484,,201,Aircraft Design: Aerodynamics,Ali Vakil,29,79.72,,99.0,46.0,,,,,,,,,,,1,1,0,0,2,5,3,3,3,2,9,78.0,92.0,70.0

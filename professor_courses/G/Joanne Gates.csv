@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,ARCH,521,,011,ARCH DESIGN 2B,"Gates, Joanne",8,83,7.11,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,3,1,,,
+UBC,2010,W,ARCH,540,,011,ARCH DESIGN 3A,"Gates, Joanne",4,84,7.57,89,73,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,,,
+UBC,2011,W,ARCH,520,,002,ARCH DESIGN 2A,"Gates, Joanne",5,76.6,2.3,79,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,,,
+UBC,2011,W,ARCH,540,,002,ARCH DESIGN 3A,"Gates, Joanne",6,79.83,6.97,87,68,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2,0,,,
+UBC,2012,W,ARCH,520,,007,ARCH DESIGN 2A,"Gates, Joanne",4,80.5,6.4,87,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,,,
+UBC,2012,W,ENDS,402,,001,ENDS DESIGN 4,"Gates, Joanne",24,77.79,6.38,87,64,24,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,6,6,5,0,,,
+UBC,2013,W,ARCH,500,,001,ARCH DESIGN,"Gates, Joanne;Roecker, Inge;Wagner, George Stuart",34,82.88,4.97,90,65,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,16,9,3,,,
+UBC,2014,W,ARCH,500,,001,ARCH DESIGN,"Bass, John;Gates, Joanne;Roecker, Inge",35,81.03,4.13,88,68,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,16,9,0,,,
+UBC,2014,W,ARCH,521,,009,ARCH DESIGN IV,"Gates, Joanne;Macdonald, Christopher;Soules, Matthew",45,82.71,5.15,90,70,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,20,6,8,,,
+UBC,2015,W,ARCH,500,,001,ARCH DESIGN,"Gates, Joanne;Roecker, Inge;Satterfield, Blair",32,80.97,6.13,88,60,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,15,10,0,,,
+UBC,2015,W,ARCH,521,,009,ARCH DESIGN IV,"Gates, Joanne;Macdonald, Christopher",53,84.23,5.44,92,75,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,14,12,16,,,
+UBC,2016,W,ARCH,500,,001,ARCH DESIGN,"Bass, John;Gates, Joanne;Roecker, Inge",35,83.11,4.32,92,74,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,17,8,4,,,
+UBC,2016,W,ARCH,521,,009,ARCH DESIGN IV,"Gates, Joanne;Pechet, Bill;Soules, Matthew",46,84.09,3.92,90,70,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,19,22,2,,,
+UBC,2017,W,ARCH,500,,001,ARCH DESIGN,"Gates, Joanne;Soules, Matthew;Wagner, George Stuart",31,81.81,4.98,90,65,31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,16,8,1,,,
+UBC,2018,W,ARCH,520,,004,ARCH DESIGN III,"Gates, Joanne",10,81.5,3.5,85,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,1,0,,,
+UBC,2018,W,ARCH,521,,009,ARCH DESIGN IV,"Bass, John;Gates, Joanne;Macdonald, Christopher;Thakre, Peeroj",55,83.36,3.91,88,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,17,27,0,,,
+UBCV,2014,W,ARCH,500,,001,Architectural Design Studio I: First Term Core,Inge Roecker;Joanne Gates;John Bass,35,81.02857143,4.126568966,88.0,68.0,,,,,,,,,,,0,0,0,0,0,,,7,16,9,0,,,
+UBCV,2014,W,ARCH,521,,009,Architectural Design Studio IV:  Comprehensive Design Studio,Christopher Macdonald;Joanne Gates;Matthew Soules,45,82.71111111,5.150561409,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,,6,20,6,8,,,
+UBCV,2015,W,ARCH,500,,001,Architectural Design Studio I,Blair Satterfield;Inge Roecker;Joanne Gates,32,80.96875,6.13022325,88.0,60.0,,,,,,,,,,,0,0,0,,,,,,15,10,0,,,
+UBCV,2015,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;Joanne Gates;Peeroj Thakre,52,84.230769231,5.436317181,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,5,5,14,12,16,,,
+UBCV,2016,W,ARCH,500,,001,Architectural Design Studio I,Inge Roecker;Joanne Gates;John Bass,35,83.11428571,4.316666937,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,17,8,4,,,
+UBCV,2016,W,ARCH,521,,009,Architectural Design Studio IV,Bill Pechet;Joanne Gates;Matthew Soules,46,84.08695652,3.920465318,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,0,19,22,2,,,
+UBCV,2017,W,ARCH,500,,001,Architectural Design Studio I,George Stuart Wagner;Inge Roecker;Joanne Gates;John Bass;Matthew Soules,31,81.806451613,4.982765998,90.0,65.0,,,,,,,,,,,0,0,0,0,1,0,3,2,16,8,1,,,
+UBCV,2017,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;James Huemoeller;Joanne Gates,47,83.127659574,3.836988296,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,0,28,13,2,,,
+UBCV,2018,W,ARCH,500,,001,Architectural Design Studio I,George Stuart Wagner;Inge Roecker;James Huemoeller;Joanne Gates;Matthew Soules;Thena Tak,31,82.032258065,5.665591296,88.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,4,15,10,0,,,
+UBCV,2018,W,ARCH,520,,004,Architectural Design Studio III,Joanne Gates;John Bass,10,81.5,3.503966007,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,1,0,,,
+UBCV,2018,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;Joanne Gates;John Bass;Peeroj Thakre,57,83.192982456,3.970599975,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,11,18,27,0,,,
+UBCV,2019,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Inge Roecker;James Huemoeller;Joanne Gates;Laura Killam;Matthew Soules;Thena Tak,30,85.133333333,3.812260921,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,9,13,5,,,
+UBCV,2019,W,ARCH,520,,004,Architectural Design Studio III,Annalisa Meyboom;Joanne Gates;Matthew Soules,10,85.2,3.645392831,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,2,,,
+UBCV,2019,W,ARCH,520,,013,Architectural Design Studio III,Joanne Gates,6,85.166666667,4.070217029,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,1,,,
+UBCV,2020,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Joanne Gates;Laura Killam,39,85.717948718,3.845357542,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,11,22,4,,,
+UBCV,2020,W,ARCH,501,,011,Architectural Design Studio II,Joanne Gates,9,84.888888889,2.02758751,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,0,,,
+UBCV,2021,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Dolly Sehr;Joanne Gates;Laura Killam;Qiongyu Li;Shirely Shen,42,84.380952381,3.470800716,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,16,17,4,,,
+UBCV,2021,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Joanne Gates;John Bass;Laura Killam,47,85.382978723,2.754862827,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,18,27,0,,,
+UBCV,2021,W,ARCH,500,,001,Architectural Design Studio I,Joanne Gates;Qiongyu Li;Bill Pechet;Dolly Sehr,42,84.4,,91.0,76.0,,,,,,,,,,,,,,,,,,,16,17,,84.5,86.0,82.3
+UBCV,2021,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Inge Roecker,47,85.4,,88.0,78.0,,,,,,,,,,,,,,,,,,,18,27,,86.0,88.0,84.0
+UBCV,2022,W,ARCH,500,,001,Architectural Design Studio I,Joanne Gates;Niloufar Goodarzi;Qiongyu Li;Bill Pechet,42,84.0,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,20,15,3,83.0,86.8,82.0
+UBCV,2022,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Inge Roecker,50,84.5,,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,4,14,24,6,85.0,87.0,83.0
+UBCV,2023,W,ARCH,500,,001,Architectural Design Studio I,Joanne Gates;Niloufar Goodarzi;Christopher MacDonald;Lorinc Vass,44,81.84,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,9,19,12,0,82.0,85.0,79.0
+UBCV,2023,W,ARCH,511,,001,Architectural Technology I,Joanne Gates,47,82.91,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,8,19,18,0,83.5,86.0,81.0
+UBCV,2023,W,ARCH,521,,009,Architectural Design Studio IV,John Bass;Joanne Gates;James Huemoeller;Amanda Reed,61,85.07,,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,20,39,0,86.0,88.0,83.0

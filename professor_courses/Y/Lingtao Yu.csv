@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,COMM,292,,207,MNGMT&ORGNZ BHVR,"Yu, Lingtao",51,76.35,5.61,84,46,50,1,0,0,0,0,0,0,0,1,1,0,0,0,0,4,15,17,14,0,0,,,
+UBC,2017,W,COMM,292,,208,MNGMT&ORGNZ BHVR,"Yu, Lingtao",52,78.51,3.83,85,68,51,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,7,16,23,1,0,,,
+UBC,2018,W,COMM,292,,207,MNGMT&ORGNZ BHVR,"Yu, Lingtao",52,74.63,3.14,79,63,52,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,22,24,0,0,0,,,
+UBC,2018,W,COMM,292,,208,MNGMT&ORGNZ BHVR,"Yu, Lingtao",56,75,8.26,80,20,55,1,0,0,0,0,0,1,0,0,1,0,0,1,2,2,12,33,5,0,0,,,
+UBC,2018,W,COMM,292,,209,MNGMT&ORGNZ BHVR,"Yu, Lingtao",53,74.89,3.53,81,62,53,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,19,27,1,0,0,,,
+UBCV,2017,W,BA,501,,817,Professional Residency I Leadership and Competitive Strategy,Danielle Van Jaarsveld;Darren Dahl;David Clough;David Hardisty;Gregory Werker;Jo Andrea Hoegg;Lingtao Yu;Michael Daniels;Scott Sinclair;Tracey Gurton,27,75.740740741,3.768213131,86.0,71.0,,,,,,,,,,,0,0,0,0,0,4,9,10,3,1,0,,,
+UBCV,2017,W,COMM,292,,207,Management and Organizational Behaviour,Amir Kashani;Lingtao Yu,51,76.352941176,5.606508822,84.0,46.0,,,,,,,,,,,1,0,0,0,0,4,15,17,14,0,0,,,
+UBCV,2017,W,COMM,292,,208,Management and Organizational Behaviour,Amir Kashani;Lingtao Yu,51,78.509803922,3.828172144,85.0,68.0,,,,,,,,,,,0,0,0,0,0,4,7,16,23,1,0,,,
+UBCV,2018,W,BA,564,,817,Leadership Development,Lingtao Yu,30,85.333333333,2.940013293,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,13,2,,,
+UBCV,2018,W,COMM,292,,207,Management and Organizational Behaviour,Jason Mah;Lingtao Yu;Luiz Vianna Rosa,52,74.634615385,3.137557725,79.0,63.0,,,,,,,,,,,0,0,0,1,1,4,22,24,0,0,0,,,
+UBCV,2018,W,COMM,292,,208,Management and Organizational Behaviour,Jason Mah;Lingtao Yu;Luiz Vianna Rosa,56,75.0,8.259429872,80.0,20.0,,,,,,,,,,,1,0,0,1,2,2,12,33,5,0,0,,,
+UBCV,2018,W,COMM,292,,209,Management and Organizational Behaviour,Jason Mah;Lingtao Yu;Luiz Vianna Rosa,53,74.886792453,3.528239795,81.0,62.0,,,,,,,,,,,0,0,0,2,0,4,19,27,1,0,0,,,
+UBCV,2019,S,BA,514,,818,"IMBA Residency - People, Culture and Organizations",Dan Skarlicki;Danielle Van Jaarsveld;David Clough;David Hardisty;Lingtao Yu;Mahesh Nagarajan;Michael Daniels;Sima Sajjadiani;Tamar Milne;Vatsala Gupta;Vatsala Yash Gupta;Yash Gupta,44,82.227272727,2.361154983,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,33,7,0,,,
+UBCV,2019,W,BAHR,550,,001,Organizational Behavior,Lingtao Yu;Tracey Gurton,48,84.145833333,1.624147349,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,27,21,0,,,
+UBCV,2019,W,BAHR,550,,002,Organizational Behavior,Lingtao Yu;Tracey Gurton,50,83.94,1.448574246,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,35,15,0,,,
+UBCV,2019,W,COMM,292,,209,Management and Organizational Behaviour,Lingtao Yu;Yumin Huang,54,76.314814815,6.742778315,85.0,47.0,,,,,,,,,,,1,0,1,1,2,2,8,24,14,1,0,,,
+UBCV,2020,S,BA,564,,818,Leadership Development,Lingtao Yu,42,89.380952381,2.174714794,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,23,19,,,
+UBCV,2020,S,BAHR,580,D,001,Topics in Human Resources,Bradley Scheftner;Lingtao Yu;Michael Daniels;Rebecca Mee Kyung Paluch;Samyta Rai;Sandra Robinson;Tracey Gurton;Vatsala Gupta;Vatsala Yash Gupta;Wayne Rawcliffe;Yash Gupta;Yu-Wung Cheng,53,82.547169811,3.249651092,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,12,27,14,0,,,
+UBCV,2020,W,BAHR,550,,001,Organizational Behavior,Lingtao Yu,70,83.357142857,1.668425573,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,53,17,0,,,
+UBCV,2020,W,BAHR,550,,002,Organizational Behavior,Dhiraj Hariramani;Lingtao Yu,42,83.761904762,1.5430335,87.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,29,13,0,,,
+UBCV,2020,W,COMM,292,,209,Management and Organizational Behaviour,Aadim Rajan;Alexander Tsang;Larry Chen;Lingtao Yu,60,75.683333333,8.926235691,80.0,11.0,,,,,,,,,,,1,0,0,0,2,1,8,43,5,0,0,,,
+UBCV,2020,W,COMM,321,,DD3,Organizational Behaviour,Amy Stanley;Lingtao Yu;Wayne Rawcliffe,51,84.235294118,4.116251864,89.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,17,30,0,,,
+UBCV,2021,S,BA,514,,819,"IMBA Residency - People, Culture and Organizations",Amy Stanley;Danielle Van Jaarsveld;Hsuan-Che Huang;Jonathan Blair Evans;Justin Bull;Lingtao Yu;Mahesh Nagarajan;Michael Daniels,33,80.060606061,3.648110761,84.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,6,24,0,0,,,
+UBCV,2021,S,BA,564,,819,Leadership Development,Lingtao Yu,30,84.266666667,4.184811068,90.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,1,11,16,1,,,
+UBCV,2021,W,BAHR,550,,001,Organizational Behavior,Kai Min Chan;Lingtao Yu;Patrick Reilly,50,83.52,1.752432711,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,30,20,0,,,
+UBCV,2021,W,COMM,292,,208,Management and Organizational Behaviour,Joyce Lee;Lingtao Yu,58,76.413793103,5.251681377,90.0,67.0,,,,,,,,,,,0,0,0,0,1,7,20,14,12,2,2,,,
+UBCV,2021,W,COMM,292,,209,Management and Organizational Behaviour,Joyce Lee;Lingtao Yu,55,76.490909091,4.127023532,85.0,69.0,,,,,,,,,,,0,0,0,0,0,3,22,14,13,3,0,,,
+UBCV,2021,W,COMM,292,,208,Management and Organizational Behaviour,Lingtao Yu,58,76.4,,90.0,67.0,,,,,,,,,,,,,,,,7,20,14,12,,,76.0,80.0,73.0
+UBCV,2021,W,COMM,292,,209,Management and Organizational Behaviour,Lingtao Yu,55,76.5,,85.0,69.0,,,,,,,,,,,,,,,,,22,14,13,,,76.0,80.0,73.0
+UBCV,2022,W,BA,564,,820,Leadership Development,Lingtao Yu,24,83.8,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,13,0,85.0,86.0,82.0
+UBCV,2022,W,COMM,192,,209,Management and Organizational Behaviour,Lingtao Yu,57,75.7,,81.0,70.0,,,,,,,,,,,0,0,0,0,0,3,21,31,2,0,0,76.0,78.0,74.0
+UBCV,2022,W,COMM,192,,210,Management and Organizational Behaviour,Lingtao Yu,59,76.7,,83.0,63.0,,,,,,,,,,,0,0,0,1,0,3,14,27,14,0,0,77.0,79.0,75.0
+UBCV,2022,W,COMM,192,,211,Management and Organizational Behaviour,Lingtao Yu,60,76.2,,81.0,61.0,,,,,,,,,,,0,0,0,1,0,2,19,30,8,0,0,77.0,78.0,75.0
+UBCV,2023,S,BA,514,,821,"IMBA Residency - People, Culture and Organizations",Michael Daniels;Jonathan Blair Evans;Mahesh Nagarajan;Wayne Rawcliffe;Mia Raynard;Amy Stanley;Danielle van Jaarsveld;Lingtao Yu,16,80.44,,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,9,1,0,80.5,82.0,78.75
+UBCV,2023,S,BA,514,,822,"IMBA Residency - People, Culture and Organizations",Michael Daniels;Jonathan Blair Evans;Mahesh Nagarajan;Wayne Rawcliffe;Mia Raynard;Amy Stanley;Danielle van Jaarsveld;Lingtao Yu,13,79.23,,85.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,6,5,1,0,79.0,82.0,78.0
+UBCV,2023,S,BA,564,,821,Leadership Development,Lingtao Yu,11,84.27,,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,0,83.0,86.5,82.5
+UBCV,2023,W,COMM,192,,202,Management and Organizational Behaviour,Lingtao Yu,55,76.4,,82.0,69.0,,,,,,,,,,,0,0,0,0,0,1,14,35,5,0,0,77.0,78.0,75.0
+UBCV,2023,W,COMM,192,,203,Management and Organizational Behaviour,Lingtao Yu,58,76.4,,82.0,67.0,,,,,,,,,,,0,0,0,0,1,2,16,29,9,0,0,76.0,78.0,75.0
+UBCV,2023,W,COMM,192,,204,Management and Organizational Behaviour,Lingtao Yu,58,76.5,,80.0,46.0,,,,,,,,,,,1,0,0,1,0,3,13,23,17,0,0,78.0,80.0,75.0

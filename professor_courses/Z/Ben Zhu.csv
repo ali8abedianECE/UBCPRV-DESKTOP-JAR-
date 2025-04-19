@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,319,,201,Software Engineering Project,Ben Zhu;Frederick Tung;Giovanni Viviani;Kurt Eiselt,69,85.72463768,7.120566852,94.0,45.0,,,,,,,,,18,29,18
+UBCV,2014,W,CPSC,410,,101,Advanced Software Engineering,Ben Zhu;Casey Albert Thompson;Elisa Baniassad;James Teng Kin Lo;Neil Traft;Reza Babanezhad Harikande;Sohrab Salehi,135,79.38518519,8.973414453,98.0,57.0,0,0,5,1,7,7,15,26,29,26,19
+UBCV,2015,S,CPSC,310,,921,Introduction to Software Engineering,Ben Zhu;Elisa Baniassad;Giovanni Viviani;Kieran Collery;Nowrin Anwar Joyita,110,82.6,10.72611492,99.0,9.0,,,,,5,,10,9,19,31,31

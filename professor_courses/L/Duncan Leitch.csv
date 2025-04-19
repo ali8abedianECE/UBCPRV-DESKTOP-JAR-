@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,BIOL,455,,201,Comparative Neurobiology,Duncan Leitch;Poljanka Johnson,19,91.526315789,3.70237793,97.0,85.0,0,0,0,0,0,0,0,0,0,6,13,,,
+UBCV,2021,W,BIOL,455,,201,Comparative Neurobiology,Duncan Leitch;Pei-Hsuan Wu;Yihan Wu,29,88.482758621,5.018684302,97.0,78.0,0,0,0,0,0,0,0,1,4,12,12,,,
+UBCV,2021,W,BIOL,455,,201,Comparative Neurobiology,Duncan Leitch,29,88.5,,97.0,78.0,,,,,,,,,,12,12,88.0,93.0,86.0
+UBCV,2022,S,BIOL,371,,921,Principles of Neurobiology I,Irene Ballagh;Duncan Leitch,51,78.1,,97.0,28.0,1,0,0,1,4,4,8,9,10,8,6,79.0,85.5,73.0

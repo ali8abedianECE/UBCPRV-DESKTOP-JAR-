@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,CRWR,307,A,001,INTMD STAGE&RADI,"Wittman, Brie",19,76.32,9.89,87,41,18,1,0,0,0,0,0,0,0,1,1,0,0,0,0,3,3,2,9,1,0
+UBC,2015,W,CRWR,307,A,001,INTMD STAGE&RADI,"Wittman, Brie",38,78.51,9.54,88,34,36,1,1,0,0,0,0,0,1,0,1,0,0,0,2,1,5,8,11,9,0
+UBCV,2015,W,CRWR,307,A,001,Intermediate Writing for the Stage and Radio,Brie Wittman,37,78.513513514,9.535377466,88.0,34.0,,,,,,,,,,,,,,,,,5,8,11,9,0

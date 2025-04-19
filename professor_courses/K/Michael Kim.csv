@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,COMM,204,,202,LOG&OPS MANAGMNT,"Kim, Michael",65,75.23,13.27,94,0,63,1,1,0,0,1,0,0,0,0,1,1,2,3,5,6,9,9,14,9,5,,,
+UBC,2017,W,COMM,204,,203,LOG&OPS MANAGMNT,"Kim, Michael",66,77.2,9.4,99,54,66,0,0,0,0,0,0,0,0,0,0,1,0,5,3,8,12,11,10,7,9,,,
+UBC,2017,W,COMM,682,,001,STOCHASTIC TOPCS,"Kim, Michael",5,86.6,2.3,90,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,,,
+UBC,2018,W,COMM,204,,202,LOG&OPS MANAGMNT,"Kim, Michael",62,74.37,7,90,52,62,0,0,0,0,0,0,0,0,0,0,1,0,3,6,5,17,16,11,2,1,,,
+UBC,2018,W,COMM,204,,203,LOG&OPS MANAGMNT,"Kim, Michael",62,76.85,7.17,91,60,61,0,1,0,0,0,0,0,0,0,0,0,0,2,2,13,10,10,14,9,1,,,
+UBC,2018,W,COMM,204,,204,LOG&OPS MANAGMNT,"Kim, Michael",61,76.95,7.78,91,54,61,0,0,0,0,0,0,0,0,0,0,1,0,2,4,7,8,14,16,7,2,,,
+UBCV,2017,W,COMM,204,,202,Logistics and Operations Management,Matheus Sampaio;Michael Kim,64,75.234375,13.267387139,94.0,0.0,,,,,,,,,,,1,1,2,3,5,6,9,9,14,9,5,,,
+UBCV,2017,W,COMM,204,,203,Logistics and Operations Management,Matheus Sampaio;Michael Kim,66,77.196969697,9.397576933,99.0,54.0,,,,,,,,,,,0,1,0,5,3,8,12,11,10,7,9,,,
+UBCV,2018,W,COMM,204,,202,Logistics and Operations Management,Matheus Sampaio;Michael Kim,62,74.370967742,7.001718456,90.0,52.0,,,,,,,,,,,0,1,0,3,6,5,17,16,11,2,1,,,
+UBCV,2018,W,COMM,204,,203,Logistics and Operations Management,Matheus Sampaio;Michael Kim,61,76.852459016,7.171322671,91.0,60.0,,,,,,,,,,,0,0,0,2,2,13,10,10,14,9,1,,,
+UBCV,2018,W,COMM,204,,204,Logistics and Operations Management,Matheus Sampaio;Michael Kim,61,76.950819672,7.77694505,91.0,54.0,,,,,,,,,,,0,1,0,2,4,7,8,14,16,7,2,,,
+UBCV,2019,W,COMM,204,,202,Logistics and Operations Management,Huixin Shu;Michael Kim,62,80.403225806,7.099895352,94.0,64.0,,,,,,,,,,,0,0,0,0,4,2,10,11,15,15,5,,,
+UBCV,2019,W,COMM,204,,203,Logistics and Operations Management,Michael Kim;Yun Gu Ko,62,77.467741935,9.591180617,93.0,52.0,,,,,,,,,,,0,2,1,3,4,6,4,10,21,5,6,,,
+UBCV,2019,W,COMM,204,,204,Logistics and Operations Management,Michael Kim;Minh Phuong Vu,62,80.870967742,7.191716252,92.0,60.0,,,,,,,,,,,0,0,0,2,3,3,4,6,24,17,3,,,
+UBCV,2019,W,COMM,295,,105,Managerial Economics,Anqi Li;Ayush Shrestha;Karina Kong;Michael Kim;Ratna Shrestha;Ricky Foof Chuen Guan;Ricky Guan;Sheryl Staub-French;William Zheng;Yu Ting Chen;Zain Azhar,108,75.861111111,8.520956391,92.0,55.0,,,,,,,,,,,0,0,3,6,8,19,18,9,25,16,4,,,
+UBCV,2019,W,CPSC,319,,101,Software Engineering Project,Asem Ghaleb;Jerry Jim;Jerry Yick Jim;Michael Kim,32,85.875,4.434105358,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,11,11,9,,,
+UBCV,2020,W,BASC,550,,DD1,Operations,Michael Kim;Woonghee Tim Huh,55,83.272727273,7.311722059,98.0,70.0,,,,,,,,,,,0,0,0,0,0,2,6,10,14,9,14,,,
+UBCV,2020,W,BASC,550,,DD2,Operations,Michael Kim;Woonghee Tim Huh;Xinyuan Zhang,18,82.333333333,9.517785209,96.0,65.0,,,,,,,,,,,0,0,0,0,1,3,0,4,2,3,5,,,
+UBCV,2020,W,COMM,204,,201,Logistics and Operations Management,Michael Kim;Yun Gu Ko,56,76.607142857,7.705201481,90.0,55.0,,,,,,,,,,,0,0,1,2,4,7,11,7,14,9,1,,,
+UBCV,2020,W,COMM,204,,205,Logistics and Operations Management,Chi Kwan Chan;Michael Kim,49,79.408163265,9.859256157,95.0,55.0,,,,,,,,,,,0,0,3,1,1,5,6,4,11,11,7,,,
+UBCV,2020,W,COMM,616,,001,Optimization Theory and Applications,Christopher Ryan;Michael Kim;S Thomas Mccormick;Woonghee Tim Huh,6,88.166666667,9.662642841,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,2,3,,,
+UBCV,2021,W,BASC,550,,DD1,Operations,Michael Kim;Vinayak Goel,32,81.15625,7.05329653,93.0,65.0,,,,,,,,,,,0,0,0,0,1,3,4,3,10,6,5,,,
+UBCV,2021,W,BASC,550,,DD2,Operations,Michael Kim;Vinayak Goel,33,81.0,6.046693311,91.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,5,13,8,2,,,
+UBCV,2021,W,COMM,204,,204,Logistics and Operations Management,Michael Kim;Tejsai Tagore;Yun Gu Ko,59,76.661016949,8.336893843,89.0,39.0,,,,,,,,,,,1,0,0,3,2,4,14,12,15,8,0,,,
+UBCV,2021,W,COMM,204,,206,Logistics and Operations Management,Michael Kim;Tejsai Tagore;Yun Gu Ko,53,75.886792453,8.289614395,90.0,43.0,,,,,,,,,,,2,0,0,0,3,5,13,11,15,3,1,,,
+UBCV,2021,W,BASC,550,,DD1,Operations,Michael Kim,32,81.2,,93.0,65.0,,,,,,,,,,,,,,,,,,,10,6,,81.5,86.3,77.3
+UBCV,2021,W,BASC,550,,DD2,Operations,Michael Kim,33,81.0,,91.0,65.0,,,,,,,,,,,,,,,,,,,13,8,,82.0,85.0,78.0
+UBCV,2023,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Michael Kim,44,83.23,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,2,22,15,3,83.0,86.0,80.0
+UBCV,2023,W,BABS,507,,BA2,Descriptive and Predictive Business Analysis,Michael Kim,42,83.1,,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,8,0,15,14,5,83.5,86.0,80.0
+UBCV,2023,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Michael Kim,43,81.79,,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,21,9,3,82.0,85.0,80.0
+UBCV,2023,W,BABS,508,,BA2,Advanced Predictive Business Analytics,Michael Kim,42,79.48,,92.0,70.0,,,,,,,,,,,0,0,0,0,0,3,7,9,16,6,1,80.0,83.0,76.0
+UBCV,2023,W,BASC,550,,DD1,Operations,Michael Kim,50,82.94,,100.0,70.0,,,,,,,,,,,0,0,0,0,0,4,7,2,14,17,6,83.0,88.0,77.75
+UBCV,2023,W,BASC,550,,DD2,Operations,Michael Kim,50,81.82,,100.0,70.0,,,,,,,,,,,0,0,0,0,0,3,6,11,11,12,7,81.0,86.0,77.0

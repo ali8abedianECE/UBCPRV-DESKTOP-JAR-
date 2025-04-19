@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,HCEP,500,,002,AN METH EPID RES,"Sobolev, Boris",21,91.11,2.7,96,86,18,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,12,,,
+UBC,2003,W,HCEP,500,,002,AN METH EPID RES,"Sobolev, Boris",20,90.9,4.33,99,84,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,12,,,
+UBC,2005,W,HCEP,500,,002,AN METH EPID RES,"Sobolev, Boris",30,86.33,4.2,97,78,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,12,8,,,
+UBC,2006,W,HCEP,580,D,003,DIR STUDIES,"Sobolev, Boris",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,HCEP,500,,002,AN METH EPID RES,"Sobolev, Boris",32,89.55,2.65,94,84,29,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,16,,,
+UBC,2009,W,SPPH,500,,002,AN METH EPID RES,"Sobolev, Boris",63,90.38,4.68,97,70,61,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,2,16,41,,,
+UBC,2009,W,SPPH,500,,DL2,AN METH EPID RES,"Sobolev, Boris",9,95.11,3.62,100,89,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,,,
+UBC,2012,W,SPPH,500,,002,AN METH EPID RES,"Sobolev, Boris",61,94.09,3.58,100,83,54,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,49,,,
+UBC,2014,W,SPPH,681,A,001,SELECTED TOPICS,"Sobolev, Boris",4,99,0,99,99,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,,,
+UBC,2016,W,SPPH,681,A,001,SELECTED TOPICS,"Sobolev, Boris",6,95.67,2.34,100,93,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2016,W,SPPH,681,A,001,Selected Topics,Boris Sobolev;Katie Sheehan,6,95.66666667,2.338090389,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2017,W,SPHA,543,,001,Information Technology for Management,Boris Sobolev;Jonathan Berkowitz;Julie Kim,28,83.607142857,3.520724733,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,11,12,1,,,
+UBCV,2020,W,SPPH,400,,001,Statistics for Health Research,Adian Mckerrell Nikiforuk;Aidan Nikiforuk;Boris Sobolev;Lianping Ti;Lourdes Gonzalez Arreola;Marie Paul Nisingizwe;Michael Marin,110,88.227272727,6.795383067,99.0,67.0,,,,,,,,,,,0,0,0,0,1,3,5,4,11,30,56,,,
+UBCV,2021,W,SPPH,400,,001,Statistics for Health Research,Boris Sobolev;Lourdes Gonzalez Arreola;Michael Marin,77,84.324675325,8.307323273,97.0,47.0,,,,,,,,,,,1,0,0,0,1,2,4,8,19,12,30,,,
+UBCV,2021,W,SPPH,400,,BL1,Statistics for Health Research,Boris Sobolev;Michael Marin;Zishan Cui,39,79.820512821,17.734699551,98.0,0.0,,,,,,,,,,,2,0,0,1,0,1,5,4,6,11,9,,,
+UBCV,2022,W,SPPH,681,A,001,Selected Topics,Boris Sobolev,11,99.2,,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,100.0,100.0,100.0

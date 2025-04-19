@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,S,MATH,105,,921,INT CALC AP C&SS,"Helmuth, Tyler",80,65.68,15.91,96,25,59,12,7,0,1,0,0,2,3,7,12,5,7,6,7,5,7,5,10,3,4
+UBC,2012,W,MATH,102,,102,DF CALC APP LF S,"Helmuth, Tyler",78,68.06,13.06,96,31,71,6,1,0,0,0,0,0,1,5,6,6,8,6,9,7,10,14,4,5,2
+UBC,2014,W,GEOG,328,,201,CONSTRUCT CANADA,"McCreary, Tyler",82,73.37,9.01,92,24,72,1,3,0,5,0,0,1,0,0,1,1,0,3,2,13,26,11,10,4,2
+UBC,2015,W,GEOG,328,,201,CONSTRUCT CANADA,"McCreary, Tyler",91,73.76,14.19,90,0,82,3,3,1,0,3,0,0,0,0,3,1,0,1,3,3,22,26,23,2,1
+UBC,2015,W,GEOG,329,,101,INTR POLI GEOG,"McCreary, Tyler",58,73.4,14.68,88,0,55,2,1,0,0,1,1,0,0,0,2,0,1,0,3,7,17,10,10,7,0
+UBC,2016,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Langford, Dolores;Li, Linda;Reid, Andrea;Tsui, Karen",78,84.27,3.26,91,75,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,36,30,6
+UBC,2017,W,EOSC,328,,201,FIELD GEOLOGY,"Ambrose, Tyler;Gilley, Brett;Hickey, Kenneth;Scoates, James Stewart;Smit, Matthijs",41,73.1,8.18,91,50,40,0,1,0,0,0,0,0,0,0,0,1,1,2,4,6,12,8,2,2,2
+UBC,2017,W,EOSC,428,,201,FLD TEC GRDWT HY,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",31,79.63,6.78,90,66,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0,14,5,2
+UBC,2017,W,EOSC,532,,201,FLD LAB GRDWTR H,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",13,89.64,3.07,93,82,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2017,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Pearson, Neil;Reid, Andrea;Tsui, Karen",80,83.77,3.68,91,75,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,27,6
+UBC,2018,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Reid, Andrea",79,83.18,4.11,89,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,33,33,0

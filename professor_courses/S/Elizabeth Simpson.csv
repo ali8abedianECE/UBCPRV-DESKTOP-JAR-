@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MEDG,520,,001,ADV HUM MOLE GEN,"Simpson, Elizabeth",16,83.81,5.13,93,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,4,2,,,
+UBC,2003,W,MEDG,520,,001,ADV HUM MOLE GEN,"McMaster, W Robert;Simpson, Elizabeth",22,86.45,5.14,96,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,7,,,
+UBC,2009,W,MEDG,420,,001,HUMAN BIOC GENET,"Kay, Robert;Marra, Marco;Simpson, Elizabeth;Wilkinson, Mark",14,82.54,6.17,89,69,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,7,0,,,
+UBC,2010,W,MEDG,420,,001,HUMAN BIOC GENET,"Kay, Robert;Marra, Marco;Simpson, Elizabeth;Wilkinson, Mark",14,79,10.13,89,50,13,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,3,5,0,,,
+UBC,2013,W,MEDG,420,,001,HUMN GENOM&GENET,"Brown, Carolyn Janet;Conibear, Elizabeth;Farrer, Matthew;Kay, Robert;Simpson, Elizabeth",14,81.43,5.64,93,73,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,3,1,,,
+UBC,2014,W,MEDG,420,,001,HUMN GENOM&GENET,"Conibear, Elizabeth;Kay, Robert;Simpson, Elizabeth;Vilarino-Guell, Carles",16,78.88,12.72,91,37,15,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,2,1,5,4,2,,,
+UBC,2015,W,MEDG,420,,001,HUMN GENOM&GENET,"Conibear, Elizabeth;Simpson, Elizabeth;Vilarino-Guell, Carles",18,80.61,7.99,91,56,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,8,3,2,,,
+UBC,2016,W,MEDG,420,,001,HUMN GENOM&GENET,"Brown, Carolyn Janet;Conibear, Elizabeth;Simpson, Elizabeth;Vilarino-Guell, Carles",11,80.91,6.35,90,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,2,1,,,
+UBC,2017,W,MEDG,420,,001,HUMN GENOM&GENET,"Brown, Carolyn Janet;Conibear, Elizabeth;Simpson, Elizabeth;Vilarino-Guell, Carles",12,85.33,7.2,94,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,4,,,
+UBC,2018,W,MEDG,420,,001,HUMN GENOM&GENET,"Brown, Carolyn Janet;Conibear, Elizabeth;Simpson, Elizabeth;Vilarino-Guell, Carles",16,85.75,9.04,99,63,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,3,7,,,
+UBCV,2014,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson;Robert Kay,16,78.875,12.72202814,91.0,37.0,,,,,,,,,,,,,,,,,,,5,,,,,
+UBCV,2015,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson,18,80.611111111,7.993665793,91.0,56.0,,,,,,,,,,,0,0,,,,,,,8,,,,,
+UBCV,2016,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson,11,80.90909091,6.347512039,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,1,4,2,1,,,
+UBCV,2017,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson,12,85.333333333,7.202693099,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,4,4,,,
+UBCV,2018,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson;Erika Scott,16,85.75,9.036961141,99.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,2,2,3,7,,,
+UBCV,2019,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth Simpson;Jan Marshall Friedman;Tiffany Carlaw,22,82.090909091,7.210502201,91.0,66.0,,,,,,,,,,,0,0,0,0,1,0,4,2,4,6,5,,,
+UBCV,2020,W,MEDG,420,,001,Human Genomics and Medical Genetics,Amy Inkster;Carles Vilarino-Guell;Carolyn Janet Brown;Colin Ross;Constance Jean Eaves;Dixie Mager;Elizabeth Conibear;Elizabeth Simpson;Jan Marshall Friedman,17,89.529411765,5.292892015,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,8,,,
+UBCV,2021,W,MEDG,420,,001,Human Genomics and Medical Genetics,Colin Ross;Constance Jean Eaves;Dixie Mager;Elizabeth Simpson;Jan Marshall Friedman;Kheireddin Mufti;Laura Arbour;Mahmoud Pouladi,20,90.35,3.828906674,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,14,,,
+UBCV,2021,W,MEDG,420,,001,Human Genomics and Medical Genetics,Laura Arbour;Jan Marshall Friedman;Mahmoud Pouladi;Colin Ross;Elizabeth Simpson,20,90.4,,99.0,80.0,,,,,,,,,,,,,,,,,,,,,14,90.5,92.0,89.0
+UBCV,2022,W,MEDG,420,,001,Human Genomics and Medical Genetics,Laura Arbour;Jan Marshall Friedman;Mahmoud Pouladi;Colin Ross;Elizabeth Simpson,17,93.3,,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,14,95.0,95.0,93.0

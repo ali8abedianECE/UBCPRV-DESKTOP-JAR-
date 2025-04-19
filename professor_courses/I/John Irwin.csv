@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,FDNS,103,,001,APP SOC UNDRSTDG,"Brownstein, David;Irwin, John",20,70.9,10.54,85,47,19,1,0,0,0,0,0,0,0,1,1,0,3,1,0,4,3,3,4,1,0
+UBC,2016,W,GEOG,122,,V01,GEOG MOD GLOB,"Irwin, John",123,71.24,17.41,88,0,111,8,4,0,0,4,1,2,0,1,8,1,1,5,7,10,19,35,28,5,0
+UBC,2016,W,GEOG,290,,201,INTR GEOG CANADA,"Irwin, John",63,74.28,12.51,86,0,59,2,0,0,0,1,0,0,0,1,2,0,3,0,2,4,11,18,18,3,0
+UBC,2017,W,GEOG,328,,201,CONSTRUCT CANADA,"Irwin, John",91,74.3,10.26,89,30,87,3,0,0,0,0,0,0,2,1,3,1,1,3,3,12,22,19,15,11,0
+UBCV,2016,W,GEOG,122,,V01,"Geography, Modernity and Globalization",John Irwin;Siobhan Mcphee,119,71.24369748,17.40979969,88.0,0.0,,,,,,,,,,,8,1,1,5,7,10,19,35,28,5,0
+UBCV,2016,W,GEOG,290,,201,Introduction to the Geography of Canada,John Irwin;Nina Ebner;Richard Mackie,63,74.06349206,12.36784725,86.0,0.0,,,,,,,,,,,2,0,3,0,3,5,11,18,18,3,0
+UBCV,2017,W,GEOG,328,,201,Constructing Canada,Douglas Robb;John Irwin,91,74.582417582,9.746869508,89.0,30.0,,,,,,,,,,,2,1,1,4,3,12,22,19,16,11,0

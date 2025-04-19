@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,COLX,535,,001,Parsing for Computational Linguistics,Garrett Nicolai;Jungyeul Park;Miikka Pietari Silfverberg;Yu-Hsiang Lo;Yundong Yao,34,92.323529412,3.417606714,98.0,82.0,0,0,0,0,0,0,0,0,1,5,28,,,
+UBCV,2021,W,COLX,561,,001,Computational Semantics,Garrett Nicolai;Julian Brooke;Jungyeul Park;Shi Qiu;Yundong Yao,35,87.657142857,4.351760003,95.0,76.0,0,0,0,0,0,0,0,2,5,16,12,,,
+UBCV,2021,W,COLX,585,,001,Trends in Computational Linguistics,Chiyu Zhang;Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan;Shi Qiu;Yundong Yao,34,93.735294118,3.20330155,98.0,87.0,0,0,0,0,0,0,0,0,0,4,30,,,
+UBCV,2021,W,COLX,525,,001,Computational Morphology,Jungyeul Park;Miikka Pietari Silfverberg;Yundong Yao,34,92.4,,96.0,87.0,,,,,,,,,,,29,93.0,94.0,90.3
+UBCV,2021,W,COLX,535,,001,Parsing for Computational Linguistics,Jungyeul Park;Miikka Pietari Silfverberg;Yundong Yao,34,92.3,,98.0,82.0,,,,,,,,,,,28,93.0,94.0,90.3
+UBCV,2021,W,COLX,561,,001,Computational Semantics,Garrett Nicolai;Jungyeul Park;Shi Qiu;Yundong Yao,35,87.7,,95.0,76.0,,,,,,,,,,16,12,89.0,91.0,85.0
+UBCV,2021,W,COLX,565,,001,Sentiment Analysis,Garrett Nicolai;Jungyeul Park;Shi Qiu;Yundong Yao,35,90.3,,97.0,76.0,,,,,,,,,,10,22,91.0,93.0,89.0
+UBCV,2021,W,COLX,581,,001,Natural Language Processing for Low-Resource Languages,Jungyeul Park;Miikka Pietari Silfverberg;Yundong Yao,34,93.6,,98.0,88.0,,,,,,,,,,,32,94.0,95.0,92.3
+UBCV,2021,W,COLX,585,,001,Trends in Computational Linguistics,Muhammad Abdul-Mageed;Shi Qiu;Yundong Yao,34,93.7,,98.0,87.0,,,,,,,,,,,30,94.0,96.0,93.0
+UBCV,2021,W,DSCI,541,,002,"Privacy, Ethics, and Security",Garrett Nicolai;Jungyeul Park;Yundong Yao,35,95.5,,100.0,91.0,0,0,0,0,0,0,0,0,0,0,35,96.0,97.0,94.0

@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,LAW,251,,002,Public Law,Cristie Ford,45,74.53333333,3.864759195,81.0,63.0,0,0,0,,,,20,16,,0,0,,,
+UBCV,2014,W,LAW,344,,001,Innovations in Governance and Regulatory Design,Cristie Ford,11,78.09090909,4.908249086,83.0,66.0,0,0,0,0,,,,,5,0,0,,,
+UBCV,2014,W,LAW,372,,001,Administrative Law,Cristie Ford,59,73.3220339,6.8416591,87.0,40.0,,,,,6,10,22,8,9,,0,,,
+UBCV,2014,W,LAW,463,,001,Securities Regulation,Cristie Ford,65,73.87692308,5.345873678,84.0,50.0,0,,,,,9,31,13,8,0,0,,,
+UBCV,2014,W,LAW,509,,001,Administrative Law,Cristie Ford,10,70.7,3.128720008,74.0,64.0,0,0,0,0,,,6,0,0,0,0,,,
+UBCV,2015,W,LAW,251,,002,Public Law,Cristie Ford,44,74.840909091,5.786685527,85.0,47.0,,,,,,6,18,10,7,,0,,,
+UBCV,2015,W,LAW,344,D,001,Innovations in Governance and Regulatory Design,Cristie Ford,13,78.076923077,3.303067727,85.0,72.0,0,0,0,0,0,0,,5,,,0,,,
+UBCV,2015,W,LAW,372,,001,Administrative Law,Cristie Ford,64,74.28125,7.150244196,87.0,50.0,0,,,,8,12,14,8,15,5,0,,,
+UBCV,2015,W,LAW,463,,001,Securities Regulation,Cristie Ford,31,75.612903226,3.783097667,85.0,68.0,0,0,0,0,0,,11,14,,,0,,,
+UBCV,2016,W,LAW,372,,001,Administrative Law,Cristie Ford,54,74.27777778,8.148195,86.0,50.0,0,2,0,3,4,8,5,11,19,2,0,,,
+UBCV,2016,W,LAW,372,,002,Administrative Law,Cristie Ford,48,74.0,5.473339639,85.0,56.0,0,0,1,1,2,6,18,13,5,2,0,,,
+UBCV,2016,W,LAW,463,,001,Securities Regulation,Cristie Ford,20,76.0,5.739979828,85.0,64.0,0,0,0,0,2,2,3,8,4,1,0,,,
+UBCV,2016,W,LAW,509,,002,Administrative Law,Cristie Ford,6,70.33333333,6.408327915,78.0,60.0,0,0,0,1,0,2,2,1,0,0,0,,,
+UBCV,2017,W,LAW,344,D,001,Innovations in Governance and Regulatory Design,Cristie Ford,17,74.647058824,18.158817336,85.0,5.0,1,0,0,0,0,0,0,9,6,1,0,,,
+UBCV,2017,W,LAW,463,,001,Securities Regulation,Cristie Ford,49,74.489795918,3.398053665,85.0,66.0,0,0,0,0,1,4,29,11,3,1,0,,,
+UBCV,2017,W,LAW,509,,001,Administrative Law,Cristie Ford;Mary Ann Liston,7,73.285714286,2.870208222,78.0,70.0,0,0,0,0,0,3,3,1,0,0,0,,,
+UBCV,2019,W,LAW,344,D,001,Innovations in Governance and Regulatory Design,Cristie Ford,6,79.333333333,2.581988897,83.0,76.0,0,0,0,0,0,0,0,3,3,0,0,,,
+UBCV,2020,W,LAW,463,,002,Securities Regulation,Cristie Ford,26,75.923076923,4.127208034,85.0,69.0,0,0,0,0,0,3,9,8,5,1,0,,,
+UBCV,2021,W,LAW,344,D,001,Innovations in Governance and Regulatory Design,Cristie Ford,7,78.857142857,2.794552524,82.0,75.0,0,0,0,0,0,0,1,2,4,0,0,,,
+UBCV,2021,W,LAW,372,,004,Administrative Law,Cristie Ford,21,74.0,3.577708764,81.0,68.0,0,0,0,0,0,4,8,7,2,0,0,,,
+UBCV,2022,W,LAW,344,D,001,Innovations in Governance and Regulatory Design,Cristie Ford,7,79.0,,83.0,75.0,0,0,0,0,0,0,1,2,4,0,0,80.0,80.5,77.0
+UBCV,2022,W,LAW,372,,004,Administrative Law,Cristie Ford,28,73.9,,84.0,68.0,0,0,0,0,0,7,11,6,4,0,0,72.5,76.0,71.8
+UBCV,2022,W,LAW,463,,002,Securities Regulation,Cristie Ford,33,75.9,,85.0,52.0,0,1,0,0,0,2,7,15,7,1,0,76.0,78.0,74.0
+UBCV,2023,W,CPSC,538,S,201,Topics in Computer Systems,Cristie Ford;Benjamin Goold;Thomas Pasquier;Kristen Thomasen,9,82.4,,91.0,75.0,0,0,0,0,0,0,1,3,2,2,1,84.0,88.0,77.0
+UBCV,2023,W,LAW,372,,004,Administrative Law,Cristie Ford,40,73.69,,85.0,37.0,1,0,1,0,1,7,10,12,6,1,0,74.0,77.0,71.5
+UBCV,2023,W,LAW,432,D,003,Topics in Private Law,Cristie Ford;Benjamin Goold;Thomas Pasquier;Kristen Thomasen,6,80.83,,90.0,76.0,0,0,0,0,0,0,0,4,0,1,1,78.5,83.5,77.25
+UBCV,2023,W,LAW,463,,002,Securities Regulation,Cristie Ford,21,75.63,,81.0,69.0,0,0,0,0,0,3,5,5,6,0,0,76.0,80.0,72.5

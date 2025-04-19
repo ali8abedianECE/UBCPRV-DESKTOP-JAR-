@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,ARCH,573,C,003,ADV TPCS ENV STD,"Labrie, Michel",10,80.4,3.84,85,73,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,1,0,,,
+UBC,2013,W,ARCH,573,E,001,ADV TPCS ENV STD,"Labrie, Michel",11,78.6,5.78,87,67,10,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,2,3,2,0,,,
+UBC,2014,W,ARCH,573,E,001,ADV TPCS ENV STD,"Labrie, Michel",8,77.86,6.41,85,68,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,1,0,,,
+UBC,2015,W,ARCH,573,E,001,SMNR ENVRNMN STD,"Labrie, Michel",14,79.07,2.97,85,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,6,1,0,,,
+UBC,2018,W,ARCH,575,,001,REGEN DVLPMNT,"Labrie, Michel;Woodruff, Matthew",7,83.86,5.58,92,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,,,
+UBCV,2014,W,ARCH,573,E,001,Advanced Topics in Environmental Studies,Michel Labrie,7,77.85714286,6.414269806,85.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,0,,,
+UBCV,2015,W,ARCH,573,E,001,Seminar: Environmental Studies,Michel Labrie,14,79.071428571,2.973324628,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,6,6,,0,,,
+UBCV,2018,W,ARCH,575,,001,Regenerative Development,Matthew James Woodruff;Matthew Woodruff;Michel Labrie;Mina Parsian,7,83.857142857,5.580578567,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,0,2,,,
+UBCV,2019,W,ARCH,575,,001,Regenerative Development,Jennifer Cutbill;Matthew James Woodruff;Matthew Woodruff;Michel Labrie;Patricia Nelson-Smith Perrone;Patricia Perrone;Raymond John Cole;Shelley Long,7,82.142857143,4.63424109,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,1,1,,,
+UBCV,2019,W,HPB,502,,101,Regenerative Development,Jennifer Cutbill;Matthew James Woodruff;Matthew Woodruff;Michel Labrie;Patricia Nelson-Smith Perrone;Patricia Perrone;Raymond John Cole;Shelley Long,15,82.333333333,6.264031868,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,5,0,7,1,,,
+UBCV,2020,W,HPB,502,,101,Regenerative Development,Asher Degroot;Matthew Woodruff;Michel Labrie;Patricia Nelson-Smith Perrone;Patricia Perrone;Tracey Lynn Mactavish;Tracey Mactavish,18,84.222222222,2.43879323,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,8,0,,,
+UBCV,2020,W,HPB,504,,201,Building Energy Systems Design,Daniel Eden;Michel Labrie,19,86.842105263,3.685755733,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,8,6,,,
+UBCV,2021,W,ARCH,575,,001,Regenerative Development,Heidi Nesbitt;Michel Labrie;Vu Quynh Nhu Nguyen,9,87.444444444,3.35824028,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,3,,,
+UBCV,2021,W,HPB,502,,101,Regenerative Development,Heidi Nesbitt;Michel Labrie;Vu Quynh Nhu Nguyen,19,87.842105263,3.640255759,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,7,,,
+UBCV,2021,W,ARCH,575,,001,Regenerative Development,Michel Labrie;Heidi Nesbitt,9,87.4,,93.0,83.0,,,,,,,,,,,,,,,,,,,,,,87.0,90.0,85.0
+UBCV,2022,W,ARCH,575,,001,Regenerative Development,Geoffrey Cox;Michel Labrie,9,88.4,,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,3,88.0,90.0,88.0
+UBCV,2022,W,HPB,502,,101,Regenerative Development,Geoffrey Cox;Michel Labrie,26,86.6,,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,6,10,88.5,91.0,82.3
+UBCV,2023,W,ARCH,575,,001,Regenerative Development,Geoffrey Cox;Michel Labrie,13,86.69,,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,5,5,88.0,90.0,86.0
+UBCV,2023,W,HPB,502,,101,Regenerative Development,Geoffrey Cox;Michel Labrie,19,89.26,,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,10,90.0,91.0,87.5

@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,PHYS,210,,101,Introduction to Computational Physics,Amanda Parker;Graham Reid;Kahan Dare;Thomas Mattison,80,80.6125,11.255933738,91.0,25.0,,,,,,,11,10,18,17,18
+UBCV,2015,W,PHYS,401,,201,Electromagnetic Theory,Ariel Zhitnitsky;Graham Reid;Xunyu Liang,75,77.52,16.608659415,100.0,4.0,,5,,,,,9,9,12,10,19
+UBCV,2017,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Graham Reid;James Gordon;Joerg Rottler;Leo Sporn;Xunyu Liang,180,70.661111111,18.06789303,100.0,0.0,13,14,19,11,8,18,13,14,28,17,25
+UBCV,2017,W,PHYS,319,,201,Electronics Laboratory,Andrzej Kotlicki;Carl Michal;Colby Delisle;Colby Lee Delisle;Graham Reid,44,73.613636364,15.219656674,94.0,32.0,2,4,2,2,3,1,5,3,12,4,6
+UBCV,2017,W,PHYS,410,,101,Computational Physics,Graham Reid;Moshe Rozali;Timothy Cox,63,81.761904762,12.003647679,99.0,55.0,0,0,3,3,4,6,4,4,8,12,19
+UBCV,2018,W,ASTR,406,,101,High-Energy Astrophysics,Graham Reid;Ilaria Caiazzo;Ludovic Van Waerbeke,18,82.777777778,12.854642355,100.0,59.0,0,0,1,1,0,0,6,1,0,2,7
+UBCV,2019,W,PHYS,408,,201,Optics,Austin De St Croix;Graham Reid;Jordan Fordyce;Lars Gitt;Mark Halpern;Paul Ripoche;Pinrui Shen;Shadab Ahamed Shadab Ahamed,66,77.803030303,9.013186403,92.0,50.0,0,1,1,3,3,9,9,8,14,13,5
+UBCV,2021,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal;Graham Reid;Lucas Polson;Maxwell Botsis;Mercedes Thompson;Shannon Egan,37,77.567567568,15.555528743,95.0,29.0,1,3,1,2,3,1,3,1,5,9,8
+UBCV,2021,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal;Graham Reid;Lucas Polson;Maxwell Botsis;Mercedes Thompson;Shannon Egan,37,80.945945946,15.049817175,97.0,28.0,2,1,1,0,0,3,2,1,7,9,11
+UBCV,2021,W,PHYS,401,,201,Electromagnetic Theory,Adair Connor;Ariel Zhitnitsky;Candice Ip;Graham Reid;Kristin Schleich,81,84.654320988,12.573941798,99.0,29.0,2,0,1,2,0,3,4,2,17,18,32
+UBCV,2021,W,PHYS,504,,201,Special Relativity and Classical Electromagnetism,Graham Reid;Kristin Schleich,15,85.066666667,15.608910764,98.0,31.0,1,0,0,0,0,0,0,0,2,4,8

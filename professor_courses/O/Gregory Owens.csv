@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,BIOL,525,D,971,TPC SYST & EVLTN,"Owens, Gregory",15,96.07,3.56,100,90,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+UBC,2016,W,BIOL,415,,201,EVOL PROCSS PLNT,"Owens, Gregory",17,82,7.98,95,64,16,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,5,1,4
+UBC,2017,S,BIOL,525,D,971,TPC SYST & EVLTN,"Owens, Gregory",8,93.86,5.37,99,83,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+UBC,2018,S,BIOL,525,D,971,TPC SYST & EVLTN,"Owens, Gregory",11,89,8.94,98,73,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4
+UBCV,2015,W,BIOL,415,,201,Evolutionary Processes in Plants,Gregory Owens;Loren Rieseberg,21,77.142857143,14.160811115,94.0,51.0,,,,,,,,,,,0,,,,,,,,,,7
+UBCV,2016,S,BIOL,525,D,971,Topics in Systematics and Evolution,Gregory Owens,14,96.07142857,3.561855301,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14
+UBCV,2016,W,BIOL,415,,201,Evolutionary Processes in Plants,Gregory Owens;Joon Seon Lee,16,82.0,7.983315936,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,3,5,1,4
+UBCV,2017,S,BIOL,525,D,971,Topics in Systematics and Evolution,Gregory Owens,7,93.857142857,5.367450401,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,6
+UBCV,2018,S,BIOL,525,D,971,Topics in Systematics and Evolution,Gregory Owens,6,89.0,8.94427191,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,4
+UBCV,2019,S,BIOL,525,D,971,Topics in Systematics and Evolution,Gregory Owens,9,87.111111111,6.660413734,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,2

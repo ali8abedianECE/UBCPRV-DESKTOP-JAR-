@@ -1,0 +1,80 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,HKIN,103,,002,COND SPRT&PH ACT,"Sheel, William",74,75.65,10.12,90,13,73,1,0,0,0,0,1,0,0,0,1,0,1,3,4,8,18,10,20,7,2,,,
+UBC,2002,W,HKIN,371,,001,INTR STATS & RES,"Sheel, William",118,75.19,14.27,94,8,115,3,0,0,0,1,1,0,0,1,3,6,2,11,7,11,14,12,14,26,12,,,
+UBC,2003,W,HKIN,463,,001,PHYSLGY EXERCISE,"*Hodges, Alastair;*Stewart, Ian;Sheel, William",100,70.38,11.13,92,0,93,1,6,0,0,1,0,0,0,0,1,2,4,13,12,19,15,10,13,4,1,,,
+UBC,2005,W,HKIN,275,,001,EXER PHYSOLGY I,"Sheel, William",108,76.19,6.6,89,50,108,0,0,0,0,0,0,0,0,0,0,1,1,1,5,14,24,24,27,11,0,,,
+UBC,2006,W,HKIN,275,,001,EXER PHYSOLGY I,"Sheel, William",157,73.18,8.39,92,37,156,1,0,0,0,0,0,0,1,0,1,1,6,8,23,31,23,26,27,8,3,,,
+UBC,2007,W,HKIN,275,,001,EXER PHYSOLGY I,"Sheel, William",170,74.25,9.76,91,43,168,2,0,0,0,0,0,0,0,2,2,4,6,16,14,16,24,29,37,19,3,,,
+UBC,2009,W,HKIN,489,C,001,SEMINAR,"Sheel, William",18,81.5,5.24,89,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,9,6,0,,,
+UBC,2011,W,HKIN,371,,001,INTR STATS  HKIN,"Sheel, William",139,72.82,12.01,95,25,132,3,4,0,0,0,0,1,2,0,3,6,4,17,13,11,20,19,19,19,4,,,
+UBC,2011,W,HKIN,489,C,001,SEMINAR,"Sheel, William",22,77.14,7.05,87,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,11,2,0,,,
+UBCV,2014,W,KIN,343,,001,Biology of Human Athletic Performance,Maria Gallo;Michael Koehle;William Sheel,141,87.12765957,7.53359245,99.0,55.0,,,,,,,,,,,0,0,,,,,5,11,19,43,58,,,
+UBCV,2014,W,KIN,371,,001,Introduction to Statistics in Kinesiology,William Sheel,106,77.91509434,10.28000178,95.0,44.0,,,,,,,,,,,1,1,3,6,5,11,10,19,18,18,14,,,
+UBCV,2014,W,KIN,475,,001,Pulmonary Physiology of Exercise,William Sheel,54,73.7962963,12.11638471,92.0,35.0,,,,,,,,,,,,,,5,5,6,7,6,8,8,,,,
+UBCV,2015,W,KIN,375,,L2A,Exercise Physiology II,William Sheel,21,78.285714286,8.259194011,88.0,58.0,,,,,,,,,,,0,0,,,,,,,6,5,0,,,
+UBCV,2015,W,KIN,375,,L2B,Exercise Physiology II,William Sheel,23,78.608695652,8.183903994,91.0,63.0,,,,,,,,,,,0,0,0,,,,,,8,,,,,
+UBCV,2015,W,KIN,375,,L2C,Exercise Physiology II,William Sheel,25,74.56,10.500317456,90.0,55.0,,,,,,,,,,,0,0,,,,,5,,5,,,,,
+UBCV,2015,W,KIN,475,,001,Pulmonary Physiology of Exercise,William Sheel,50,75.8,9.793792286,97.0,50.0,,,,,,,,,,,0,,,,,8,9,6,13,,,,,
+UBCV,2016,W,KIN,375,,L1A,Exercise Physiology II,William Sheel,19,78.52631579,7.581911376,92.0,67.0,,,,,,,,,,,0,0,0,0,1,3,4,2,5,3,1,,,
+UBCV,2016,W,KIN,375,,L1B,Exercise Physiology II,William Sheel,20,81.7,6.283646276,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,2,9,5,1,,,
+UBCV,2016,W,KIN,375,,L1C,Exercise Physiology II,William Sheel,22,82.40909091,8.617032363,96.0,62.0,,,,,,,,,,,0,0,0,1,0,2,1,3,6,4,5,,,
+UBCV,2016,W,KIN,375,,L1D,Exercise Physiology II,William Sheel,22,81.5,7.176350047,94.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,4,6,6,2,,,
+UBCV,2016,W,KIN,375,,L1E,Exercise Physiology II,William Sheel,21,78.80952381,8.936548817,92.0,60.0,,,,,,,,,,,0,0,0,2,1,1,2,4,5,4,2,,,
+UBCV,2016,W,KIN,375,,L1F,Exercise Physiology II,William Sheel,19,78.0,6.146362972,86.0,67.0,,,,,,,,,,,0,0,0,0,1,2,4,2,6,4,0,,,
+UBCV,2016,W,KIN,375,,L2A,Exercise Physiology II,William Sheel,24,79.29166667,8.482612224,94.0,60.0,,,,,,,,,,,0,0,0,1,2,1,4,2,7,5,2,,,
+UBCV,2016,W,KIN,375,,L2B,Exercise Physiology II,William Sheel,20,76.85,8.963522569,97.0,53.0,,,,,,,,,,,0,1,0,0,1,2,5,5,4,1,1,,,
+UBCV,2016,W,KIN,375,,L2C,Exercise Physiology II,William Sheel,24,74.91666667,10.53324619,95.0,55.0,,,,,,,,,,,0,0,1,2,4,2,4,1,6,1,3,,,
+UBCV,2016,W,KIN,475,,001,Pulmonary Physiology of Exercise,William Sheel,53,75.96226415,13.26644446,95.0,27.0,,,,,,,,,,,1,4,2,1,2,3,8,7,12,8,5,,,
+UBCV,2017,W,KIN,375,,L1A,Exercise Physiology II,William Sheel,25,79.44,7.55579248,89.0,61.0,,,,,,,,,,,0,0,0,1,1,2,2,5,5,9,0,,,
+UBCV,2017,W,KIN,375,,L1B,Exercise Physiology II,William Sheel,25,74.32,6.555659133,85.0,62.0,,,,,,,,,,,0,0,0,2,2,5,2,8,5,1,0,,,
+UBCV,2017,W,KIN,375,,L1C,Exercise Physiology II,William Sheel,25,78.72,9.248963906,94.0,60.0,,,,,,,,,,,0,0,0,1,2,3,5,1,5,5,3,,,
+UBCV,2017,W,KIN,375,,L1D,Exercise Physiology II,William Sheel,25,80.36,6.204030948,90.0,66.0,,,,,,,,,,,0,0,0,0,1,3,0,5,11,4,1,,,
+UBCV,2017,W,KIN,375,,L1E,Exercise Physiology II,William Sheel,24,78.833333333,6.091095901,90.0,67.0,,,,,,,,,,,0,0,0,0,1,2,4,4,9,3,1,,,
+UBCV,2017,W,KIN,375,,L1F,Exercise Physiology II,William Sheel,26,77.269230769,8.600268332,91.0,61.0,,,,,,,,,,,0,0,0,1,3,5,1,4,5,5,2,,,
+UBCV,2017,W,KIN,375,,L2A,Exercise Physiology II,William Sheel,6,85.0,6.066300355,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2,2,,,
+UBCV,2017,W,KIN,375,,L2B,Exercise Physiology II,William Sheel,13,82.153846154,5.429029285,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,6,0,,,
+UBCV,2017,W,KIN,375,,L2C,Exercise Physiology II,William Sheel,23,80.826086957,5.859352849,90.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,6,8,5,1,,,
+UBCV,2017,W,KIN,475,,001,Pulmonary Physiology of Exercise,William Sheel,66,77.075757576,12.565288703,94.0,26.0,,,,,,,,,,,2,3,0,3,4,6,6,5,19,12,6,,,
+UBCV,2018,W,KIN,375,,L1A,Exercise Physiology II,William Sheel,20,81.1,9.770524955,92.0,56.0,,,,,,,,,,,0,0,1,1,1,0,1,0,8,4,4,,,
+UBCV,2018,W,KIN,375,,L1B,Exercise Physiology II,William Sheel,22,74.363636364,9.973992154,92.0,56.0,,,,,,,,,,,0,0,2,1,2,4,4,3,1,4,1,,,
+UBCV,2018,W,KIN,375,,L1C,Exercise Physiology II,William Sheel,21,81.666666667,5.266244709,90.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,5,5,6,2,,,
+UBCV,2018,W,KIN,375,,L1D,Exercise Physiology II,William Sheel,16,77.6875,7.930689335,91.0,65.0,,,,,,,,,,,0,0,0,0,2,1,3,4,2,3,1,,,
+UBCV,2018,W,KIN,375,,L1E,Exercise Physiology II,William Sheel,17,78.294117647,7.397336564,87.0,63.0,,,,,,,,,,,0,0,0,1,1,2,3,1,5,4,0,,,
+UBCV,2018,W,KIN,375,,L1F,Exercise Physiology II,William Sheel,11,74.818181818,5.827832905,85.0,67.0,,,,,,,,,,,0,0,0,0,1,3,2,3,1,1,0,,,
+UBCV,2018,W,KIN,475,,001,Pulmonary Physiology of Exercise,Emily Ann Marie Gerson;Emily Gerson;William Sheel,41,76.853658537,13.14070199,94.0,18.0,,,,,,,,,,,1,0,0,3,2,5,7,5,8,4,6,,,
+UBCV,2019,W,KIN,375,,L1A,Exercise Physiology II,William Sheel,20,73.55,8.338086364,85.0,55.0,,,,,,,,,,,0,0,1,2,2,1,7,1,5,1,0,,,
+UBCV,2019,W,KIN,375,,L1B,Exercise Physiology II,William Sheel,19,75.894736842,7.400410926,92.0,62.0,,,,,,,,,,,0,0,0,2,1,2,4,4,5,0,1,,,
+UBCV,2019,W,KIN,375,,L1C,Exercise Physiology II,William Sheel,22,74.636363636,9.363279109,92.0,60.0,,,,,,,,,,,0,0,0,5,1,1,3,4,5,2,1,,,
+UBCV,2019,W,KIN,375,,L1D,Exercise Physiology II,William Sheel,19,76.947368421,10.052493799,92.0,55.0,,,,,,,,,,,0,0,2,0,0,1,5,3,3,3,2,,,
+UBCV,2019,W,KIN,375,,L1E,Exercise Physiology II,William Sheel,9,78.888888889,7.287737036,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,3,1,1,1,,,
+UBCV,2019,W,KIN,375,,L1F,Exercise Physiology II,William Sheel,9,70.222222222,8.885068624,83.0,57.0,,,,,,,,,,,0,0,1,1,2,1,2,0,2,0,0,,,
+UBCV,2019,W,KIN,475,,001,Pulmonary Physiology of Exercise,Joshua Landan Taylor;Joshua Taylor;William Sheel,46,73.717391304,15.212075676,90.0,0.0,,,,,,,,,,,1,2,2,3,3,5,2,8,10,8,2,,,
+UBCV,2020,W,KIN,335,,L1A,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,29,86.034482759,8.024439271,97.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,1,6,7,11,,,
+UBCV,2020,W,KIN,335,,L1B,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,32,87.75,7.509134223,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,3,2,9,15,,,
+UBCV,2020,W,KIN,335,,L1C,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,30,89.066666667,6.136006414,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,7,18,,,
+UBCV,2020,W,KIN,335,,L1D,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,28,91.642857143,5.172679553,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,3,23,,,
+UBCV,2020,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,24,87.416666667,8.479728598,97.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,2,1,2,16,,,
+UBCV,2020,W,KIN,335,,L1F,Advanced Applications of Exercise Physiology,Michael Leahy;Shalaya Kipp;William Sheel,28,84.5,7.110243003,97.0,71.0,,,,,,,,,,,0,0,0,0,0,2,1,3,8,6,8,,,
+UBCV,2020,W,KIN,435,,001,Pulmonary Physiology of Exercise,Kayla Johnson;Kayla Johnston;William Sheel,106,80.858490566,10.054554693,99.0,51.0,,,,,,,,,,,0,1,1,5,6,9,6,11,23,22,22,,,
+UBCV,2021,W,KIN,321,,001,Chronic Health Issues and Physical Activity,Delon Chan;Kassi Welch;Paul Kennedy;William Sheel,124,77.572580645,13.690049432,100.0,41.0,,,,,,,,,,,1,5,6,13,8,9,10,13,14,21,24,,,
+UBCV,2021,W,KIN,335,,L1A,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,24,80.625,8.850509688,93.0,53.0,,,,,,,,,,,0,1,0,0,1,0,2,5,6,6,3,,,
+UBCV,2021,W,KIN,335,,L1B,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,23,82.608695652,7.420727301,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,5,4,7,4,,,
+UBCV,2021,W,KIN,335,,L1C,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,27,79.111111111,12.061806643,95.0,44.0,,,,,,,,,,,1,0,0,2,1,4,0,4,7,3,5,,,
+UBCV,2021,W,KIN,335,,L1D,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,27,84.037037037,8.083608683,98.0,57.0,,,,,,,,,,,0,0,1,0,0,1,1,2,5,11,6,,,
+UBCV,2021,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,21,83.666666667,8.181279444,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,3,3,5,6,,,
+UBCV,2021,W,KIN,335,,L1F,Advanced Applications of Exercise Physiology,Michael Leahy;Patric Goncalves;William Sheel,21,84.523809524,7.373052608,96.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,4,3,5,7,,,
+UBCV,2021,W,KIN,435,,001,Pulmonary Physiology of Exercise,Viviana Shiffman;William Sheel,116,78.068965517,11.244882228,97.0,50.0,,,,,,,,,,,0,4,3,7,9,10,14,13,16,21,19,,,
+UBCV,2022,W,KIN,335,,L1A,Advanced Applications of Exercise Physiology,William Sheel,27,83.4,,95.0,67.0,,,,,,,,,,,0,0,0,0,1,2,3,2,4,9,6,87.0,89.0,76.0
+UBCV,2022,W,KIN,335,,L1B,Advanced Applications of Exercise Physiology,William Sheel,31,83.0,,96.0,55.0,,,,,,,,,,,0,0,1,0,2,2,3,1,3,10,9,86.0,90.0,76.5
+UBCV,2022,W,KIN,335,,L1C,Advanced Applications of Exercise Physiology,William Sheel,29,84.6,,94.0,65.0,,,,,,,,,,,0,0,0,0,1,2,1,2,5,10,8,87.0,90.0,82.0
+UBCV,2022,W,KIN,335,,L1D,Advanced Applications of Exercise Physiology,William Sheel,30,87.4,,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,2,4,8,15,89.5,92.0,86.0
+UBCV,2022,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,William Sheel,29,84.9,,94.0,62.0,,,,,,,,,,,0,0,0,1,1,0,3,2,3,6,13,89.0,91.0,81.0
+UBCV,2022,W,KIN,335,,L1F,Advanced Applications of Exercise Physiology,William Sheel,29,83.0,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,10,11,2,84.0,86.0,80.0
+UBCV,2022,W,KIN,435,,001,Pulmonary Physiology of Exercise,William Sheel,144,77.7,,95.0,50.0,,,,,,,,,,,0,5,2,10,8,10,20,23,22,24,20,78.5,86.0,72.0
+UBCV,2023,W,KIN,335,,L1A,Advanced Applications of Exercise Physiology,William Sheel,30,80.0,,93.0,57.0,,,,,,,,,,,0,0,1,1,2,2,2,1,10,9,2,83.0,85.8,75.0
+UBCV,2023,W,KIN,335,,L1B,Advanced Applications of Exercise Physiology,William Sheel,30,77.1,,93.0,57.0,,,,,,,,,,,0,0,1,2,1,3,4,4,8,5,1,79.0,84.0,72.0
+UBCV,2023,W,KIN,335,,L1C,Advanced Applications of Exercise Physiology,William Sheel,30,76.6,,90.0,57.0,,,,,,,,,,,0,0,1,0,4,4,3,5,7,5,1,77.0,82.8,71.0
+UBCV,2023,W,KIN,335,,L1D,Advanced Applications of Exercise Physiology,William Sheel,30,82.8,,95.0,56.0,,,,,,,,,,,0,0,1,0,0,1,2,3,7,11,4,85.0,88.0,80.0
+UBCV,2023,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,William Sheel,30,83.8,,94.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,6,7,10,5,84.5,87.8,79.3
+UBCV,2023,W,KIN,335,,L1F,Advanced Applications of Exercise Physiology,William Sheel,29,82.7,,92.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,4,9,10,3,84.0,87.0,80.0
+UBCV,2023,W,KIN,435,,001,Pulmonary Physiology of Exercise,William Sheel,194,74.1,,96.0,31.0,,,,,,,,,,,6,10,2,24,11,18,18,18,41,31,12,76.0,84.0,65.5

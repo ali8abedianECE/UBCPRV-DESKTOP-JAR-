@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,ENGR,320,,201,Electromechanical Devices,Bradley A Reinholz;Bradley Reinholz;Peyman Amiri;Severin Nowak;Wilson Eberle;Yanqi Yu,122,78.549180328,9.602085224,97.0,49.0,,,,,7,14,17,26,20,11,20
+UBCO,2015,W,ENGR,351,,201,Microelectronics I,Liwei Wang;Mahdieh Aliaslkhiabani;Yanqi Yu,44,77.772727273,9.939031904,98.0,57.0,0,0,,,,7,5,,11,8,6
+UBCO,2016,W,APSC,255,,101,Electric Circuits and Power,Ashraf Hossain;Ayman Elnaggar;Peyman Amiri;Todd Williams;Xuekun Meng;Yanqi Yu,194,72.39175258,15.01850789,100.0,0.0,6,12,18,16,18,18,15,19,27,23,22
+UBCO,2016,W,APSC,256,,101,Numerical Methods for Analysis,Fang Fang;Liwei Wang;Peyman Amiri;Yanqi Yu,106,75.24528302,11.09166252,98.0,28.0,2,0,4,5,11,13,13,17,15,18,8
+UBCO,2016,W,APSC,256,,102,Numerical Methods for Analysis,Ayman Elnaggar;Fang Fang;Peyman Amiri;Yanqi Yu,147,78.42857143,11.90257253,99.0,24.0,1,3,6,8,8,8,18,16,23,29,27
+UBCO,2016,W,ENGR,351,,201,Microelectronics I,Jennifer Alam;Stephen O'Leary;Suzanne Wenngren;Yanqi Yu,52,82.13461539,9.403855793,100.0,59.0,0,0,1,1,2,4,2,7,15,8,12
+UBCO,2016,W,ENGR,458,,201,Power Electronics,Liwei Wang;Tobias Lindsay;Yanqi Yu,46,78.65217391,9.307625049,93.0,48.0,1,0,1,2,1,4,5,3,14,12,3
+UBCO,2016,W,ENGR,487,,201,Digital Control,Yang Cao;Yanqi Yu,32,74.9375,13.23469902,95.0,43.0,2,0,2,2,3,3,3,2,7,3,5
+UBCO,2017,W,APSC,248,,101,Engineering Analysis III,Brittney Kerns;Connor Badowich;Iman Aghanejad;Mohammad Paknahad;Richard Klukas;Yang Cao;Yanqi Yu,135,66.822222222,19.023499477,100.0,13.0,23,12,12,12,6,9,8,8,19,11,15
+UBCO,2017,W,APSC,248,,102,Engineering Analysis III,Brittney Kerns;Connor Badowich;Iman Aghanejad;Mohammad Paknahad;Raja Selvakumar;Richard Klukas;Yang Cao;Yanqi Yu,173,65.583815029,19.163318079,98.0,0.0,29,13,16,12,11,17,14,17,16,14,14
+UBCO,2017,W,APSC,255,,101,Electric Circuits and Power,Ali Maleki Gargari;Ayman Elnaggar;Todd Williams;Xuekun Meng;Yanqi Yu,224,72.299107143,15.972364,100.0,0.0,14,16,12,16,19,17,24,18,31,23,34
+UBCO,2017,W,ENGR,320,,201,Electromechanical Devices,Peyman Amiri;Tobias Lindsay;Wilson Eberle;Yanqi Yu,165,76.581818182,11.877973429,99.0,24.0,3,3,8,5,15,19,17,21,28,27,19
+UBCO,2017,W,ENGR,487,,201,Digital Control,Yang Cao;Yanqi Yu,40,77.575,12.731723955,95.0,38.0,1,2,0,0,3,6,5,3,3,10,7
+UBCO,2018,W,APSC,177,,201,Engineering Computation and Instrumentation,Ehab Ghanem;Hui Ma;Richard Klukas;Sorayya Kazemi Nojadeh;Uchenna Anyaoha;Yanqi Yu,147,64.80952381,21.475801397,98.0,0.0,27,16,13,9,13,14,6,5,11,13,20
+UBCO,2018,W,APSC,177,,202,Engineering Computation and Instrumentation,Anas Chaaban;Ehab Ghanem;Hui Ma;Richard Klukas;Sorayya Kazemi Nojadeh;Uchenna Anyaoha;Yanqi Yu,105,67.586538462,19.876126372,99.0,0.0,15,8,11,8,6,7,9,6,8,12,14
+UBCO,2018,W,APSC,248,,101,Engineering Analysis III,Iman Aghanejad;Yang Cao;Yanqi Yu,159,71.245283019,17.235787387,100.0,0.0,14,11,14,15,6,12,14,15,15,23,20
+UBCO,2018,W,APSC,248,,102,Engineering Analysis III,Iman Aghanejad;Richard Klukas;Yanqi Yu,169,70.698224852,17.993320432,100.0,7.0,21,5,13,9,15,11,16,13,28,21,17
+UBCO,2018,W,ENGR,320,,201,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,93,74.462365591,13.99732827,98.0,15.0,3,1,6,6,9,11,6,16,10,15,10
+UBCO,2018,W,ENGR,320,,202,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,117,79.444444444,8.847797743,95.0,50.0,0,1,1,4,8,8,14,15,28,24,14
+UBCO,2018,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary;Yanqi Yu,75,80.186666667,11.06087985,100.0,37.0,1,0,0,5,2,6,9,10,14,11,17
+UBCO,2018,W,ENGR,458,,201,Power Electronics,Liwei Wang;Wilson Eberle;Yanqi Yu,69,74.550724638,10.063820219,94.0,54.0,0,1,3,6,9,10,6,15,6,6,7
+UBCO,2019,S,APSC,248,,001,Engineering Analysis III,Chen Feng;Haibo Feng;Yanqi Yu,34,71.382352941,17.013389924,96.0,0.0,1,0,3,5,4,4,3,3,4,4,3
+UBCO,2019,W,APSC,177,,101,Engineering Computation and Instrumentation,Abdul Basit Zia;Mahmoud Hasabel Naby;Mehran Shirazi;Nourhan Soliman;Sin Hang Cheung;Sorayya Kazemi Nojadeh;Yanqi Yu,28,76.75,14.858904301,100.0,40.0,1,0,2,0,6,1,3,5,1,1,8
+UBCO,2019,W,APSC,248,,101,Engineering Analysis III,Adel Tabkhpour Langeroudi;Sevda Mohammadi Gharalar;Yang Cao;Yanqi Yu,146,70.821917808,17.759964636,100.0,5.0,17,6,6,14,13,8,19,17,14,11,21
+UBCO,2019,W,APSC,248,,102,Engineering Analysis III,Adel Tabkhpour Langeroudi;Richard Klukas;Sevda Mohammadi Gharalar;Yanqi Yu,187,68.058823529,16.22164241,100.0,3.0,22,10,16,16,22,20,12,19,25,13,12
+UBCO,2019,W,ENGR,320,,201,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu,102,77.441176471,9.312584405,94.0,53.0,0,1,3,5,6,14,12,14,18,22,7
+UBCO,2019,W,ENGR,320,,202,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu,113,75.504424779,11.068878423,96.0,9.0,1,2,2,4,15,15,12,19,20,19,4
+UBCO,2019,W,ENGR,351,,201,Microelectronics I,Kathrin Schmidt;Stephen O'Leary;Yanqi Yu,89,82.393258427,8.43641724,96.0,59.0,0,0,1,1,2,6,10,14,13,16,26
+UBCO,2019,W,ENGR,458,,201,Power Electronics,Joel Pfannschmidt;Liwei Wang;Morad Abdelaziz;Peyman Amiri;Wilson Eberle;Yanqi Yu,60,77.966666667,9.554423355,99.0,60.0,0,0,0,3,7,6,8,4,13,12,7
+UBCO,2020,W,ENGR,320,,201,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Peyman Amiri;Rakiba Rayhana;Wilson Eberle;Yanqi Yu,143,83.013986014,7.321573384,96.0,63.0,0,0,0,1,4,7,10,16,36,42,27
+UBCO,2020,W,ENGR,320,,202,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Peyman Amiri;Rakiba Rayhana;Wilson Eberle;Yanqi Yu,92,80.336956522,7.395093672,95.0,63.0,0,0,0,1,4,10,7,19,24,16,11

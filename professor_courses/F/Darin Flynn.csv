@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",13,89.17,5.34,95,77,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7
+UBC,2011,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",12,89.17,4.76,94,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,5
+UBC,2012,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",18,85.59,4.84,96,77,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,6,3
+UBC,2013,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",24,88.74,2.56,93,83,23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,10
+UBC,2014,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",33,82.76,21.54,94,0,31,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,5,19,7
+UBC,2015,S,FNLG,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",29,87.34,5.7,95,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,11,10
+UBC,2016,S,FNEL,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",29,92.68,2.96,96,80,28,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,26
+UBC,2017,S,FNEL,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",21,90.1,4.57,95,74,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,13
+UBC,2018,S,FNEL,480,A,001,ENDNGRD LANG REV,"Flynn, Darin",34,90.23,17.07,96,0,30,1,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,1,27
+UBCV,2014,S,FNLG,480,A,001,Endangered Language Documentation and Revitalization,Darin Flynn,33,82.75757576,21.53780151,94.0,0.0,,,,,,,,,,,,,,,,,,,5,19,7
+UBCV,2015,S,FNLG,480,A,001,Endangered Language Documentation and Revitalization,Darin Flynn,29,87.34482759,5.702605057,95.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,11,10
+UBCV,2016,S,FNEL,480,A,001,Endangered Language Documentation and Revitalization,Darin Flynn,28,92.67857143,2.957145413,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,26
+UBCV,2017,S,FNEL,480,A,001,Endangered Language Documentation and Revitalization,Darin Flynn,21,90.095238095,4.570610046,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,7,13
+UBCV,2018,S,FNEL,480,A,001,Endangered Language Documentation and Revitalization,Darin Flynn,31,90.225806452,17.073780439,96.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,1,27
+UBCV,2019,S,FNEL,480,A,001,Endangered Language Documentation and Revitalization,Candace Galla;Darin Flynn,37,87.513513514,15.106329839,96.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,4,29

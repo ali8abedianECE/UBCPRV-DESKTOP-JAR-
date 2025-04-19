@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,ARTH,331,,001,Greek Art and Architecture,Brianne Lynn;Megan Daniels,15,80.133333333,18.282961102,95.0,20.0,1,0,0,0,1,0,0,2,4,3,4,,,
+UBCV,2020,W,CLST,331,,001,Greek Art and Architecture,Brianne Lynn;Megan Daniels,41,80.243902439,18.020516763,96.0,0.0,2,0,0,2,1,3,2,0,9,12,10,,,
+UBCV,2020,W,CNRS,104,,001,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",Megan Daniels;Safia Boutaleb,51,82.745098039,10.144640235,99.0,50.0,0,1,1,0,2,3,3,7,9,10,15,,,
+UBCV,2021,W,ARTH,331,,001,Greek Art and Architecture,Caroline Barnes;Megan Daniels,14,77.5,20.754054284,93.0,14.0,1,1,0,0,0,0,0,4,2,3,3,,,
+UBCV,2021,W,CLST,331,,001,Greek Art and Architecture,Caroline Barnes;Megan Daniels,49,78.612244898,16.310549151,95.0,20.0,3,0,2,2,1,5,1,4,6,15,10,,,
+UBCV,2021,W,CNRS,104,,002,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",Megan Daniels;Sasha Boghosian,49,80.469387755,15.363785939,95.0,34.0,4,0,2,0,1,2,2,4,6,13,15,,,
+UBCV,2021,W,CNRS,500,B,001,Pro-Seminar in Ancient Mediterranean Studies: Selected Topics,Megan Daniels,17,82.941176471,12.137084639,92.0,51.0,0,,,,,,,2,1,7,5,,,
+UBCV,2021,W,ARTH,331,,001,Greek Art and Architecture,Megan Daniels,14,77.5,,93.0,14.0,,,,,,,,,,,,84.0,88.8,78.3
+UBCV,2021,W,CLST,331,,001,Greek Art and Architecture,Megan Daniels,48,80.3,,95.0,28.0,,,,,,,,,6,15,10,85.0,89.0,72.5
+UBCV,2021,W,CNRS,104,,002,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",Megan Daniels,49,81.1,,95.0,34.0,,,,,,,,,6,13,15,86.0,91.0,76.0
+UBCV,2022,W,AMNE,376,,001,Greek Art and Architecture,Megan Daniels,47,84.4,,96.0,42.0,2,0,0,0,1,2,0,3,9,13,17,88.0,91.0,82.5
+UBCV,2022,W,AMNE,470,A,001,Seminar in Ancient Mediterranean and Near Eastern Archaeology,Megan Daniels,18,73.1,,93.0,0.0,2,0,0,2,1,1,1,1,3,3,4,81.0,85.8,67.8
+UBCV,2022,W,AMNE,470,B,001,Seminar in Ancient Mediterranean and Near Eastern Archaeology,Megan Daniels,6,67.3,,83.0,0.0,1,0,0,0,0,0,0,1,4,0,0,81.0,82.8,77.0
+UBCV,2022,W,AMNE,572,A,001,Topics in Near Eastern Archaeology,Megan Daniels,7,86.7,,94.0,78.0,0,0,0,0,0,0,0,1,1,2,3,86.0,90.5,84.0
+UBCV,2022,W,ARTH,331,,001,Greek Art and Architecture,Megan Daniels,13,71.9,,95.0,0.0,2,0,0,0,1,1,1,1,3,1,3,80.0,88.0,69.0
+UBCV,2023,W,AMNE,170,,001,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",Megan Daniels,54,81.37,,95.0,48.0,1,3,0,0,2,1,3,4,15,9,13,84.0,89.0,78.0
+UBCV,2023,W,AMNE,170,,002,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",Megan Daniels,58,81.68,,96.0,34.0,1,3,0,1,1,3,1,6,11,9,20,85.0,90.0,78.0
+UBCV,2023,W,AMNE,376,,001,Greek Art and Architecture,Megan Daniels,31,84.03,,97.0,32.0,1,0,0,1,1,0,1,3,4,7,12,87.0,91.75,82.0
+UBCV,2023,W,AMNE,575,B,001,Topics in Greek Archaeology,Megan Daniels,8,81.43,,91.0,53.0,1,0,0,0,0,0,0,0,1,4,1,85.0,86.0,84.5
+UBCV,2023,W,ARTH,331,,001,Greek Art and Architecture,Megan Daniels,9,76.6,,94.0,56.0,0,0,1,2,0,0,0,1,1,0,3,78.5,91.5,61.5

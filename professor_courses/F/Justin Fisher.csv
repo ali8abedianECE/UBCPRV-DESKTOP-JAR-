@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,COGS,300,,001,DSGN COG SYSTEMS,"De Freitas, Joao;Fisher, Justin",21,76.38,10.26,90,55,21,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,4,3,3
+UBC,2006,W,COGS,300,,002,DSGN COG SYSTEMS,"Fisher, Justin;Van de Panne, Michiel",28,74.5,6.39,85,61,28,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,6,8,6,1,0
+UBC,2006,W,PHIL,450,A,001,METAPHYSICS,"Fisher, Justin",8,82.71,6.92,91,75,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2
+UBC,2006,W,PHIL,451,A,001,PHIL OF MIND,"Fisher, Justin",19,79.71,10.63,97,60,17,0,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,3,4,4,2
+UBC,2007,W,COGS,300,,001,DSGN COG SYSTEMS,"Fisher, Justin;Rensink, Ronald",22,75.95,8.85,90,56,21,0,1,0,0,0,0,0,0,0,0,0,1,1,0,5,4,2,4,2,2
+UBC,2007,W,COGS,300,,002,DSGN COG SYSTEMS,"Fisher, Justin;Van de Panne, Michiel",23,71.5,17.08,86,0,21,1,1,0,0,1,0,0,0,0,1,0,0,0,1,5,8,2,1,4,0
+UBC,2007,W,PHIL,451,A,001,PHIL OF MIND,"Fisher, Justin",17,77.56,9.82,90,60,16,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,0,6,1
+UBC,2007,W,PHIL,464,,001,PHIL OF BIOL,"Fisher, Justin",19,82,8.17,94,63,17,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,6,6,2

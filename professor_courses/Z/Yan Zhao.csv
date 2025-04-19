@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,304,,201,Introduction to Relational Databases,Jianing Yu;Kailang Jiang;Laks Lakshmanan;Nayantara Dutta Choudhury;Sampoorna Biswas;Yan Zhao,156,82.42948718,8.510420314,96.0,52.0,0,,,,4,8,17,16,36,34,36
+UBCV,2014,W,CPSC,340,,101,Machine Learning and Data Mining,Jason Siyanda Hartford;Michael Philip Wathen;Michael Wathen;Raymond Tak-Yan Ng;Sarah Huber;Yan Zhao,108,72.94444444,14.45898701,99.0,30.0,7,,,8,6,14,14,12,19,11,10
+UBCV,2015,W,CPSC,340,,101,Machine Learning and Data Mining,Bobak Shahriari;Issam Hadj Laradji;Mark Schmidt;Sharan Rajesh Vaswani;Sharan Vaswani;Tian Qi Chen;Yan Zhao,151,80.198675497,10.143648172,95.0,32.0,,,,,7,10,15,16,37,28,28

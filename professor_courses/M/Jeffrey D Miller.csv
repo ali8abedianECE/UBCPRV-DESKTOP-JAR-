@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ETEC,510,,64B,DES TECH,"Miller, Jeffrey D",16,88.07,3.12,93,82,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,5
+UBC,2003,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",21,86.75,7.09,91,58,20,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,10,7
+UBC,2005,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",18,90.5,2.09,94,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14
+UBC,2005,W,ETEC,540,,64A,TEXT TECH,"Miller, Jeffrey D",14,90.07,4.08,96,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9
+UBC,2006,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",21,88.55,3.47,95,83,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,8
+UBC,2006,W,ETEC,540,,64B,TEXT TECH,"LAMB, BRIAN;Miller, Jeffrey D",13,81.08,26.05,95,0,11,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,4,5
+UBC,2007,W,ETEC,510,,65A,DES TECH,"Miller, Jeffrey D",19,89.79,4.5,96,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,11
+UBC,2007,W,ETEC,540,,64A,TEXT TECH,"Miller, Jeffrey D",12,90.1,5.17,95,77,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7
+UBC,2009,W,ETEC,540,,64A,TEXT TECH,"Miller, Jeffrey D",23,88.82,2.77,93,84,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,10
+UBC,2012,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",22,90.09,3.04,93,78,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,18
+UBC,2012,W,ETEC,510,,65C,DES TECH,"Miller, Jeffrey D",21,89.62,2.01,92,85,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14
+UBC,2012,W,ETEC,540,,64B,TEXT TECH,"Miller, Jeffrey D",23,90.3,2.16,93,85,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,17
+UBC,2013,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",22,89.27,1.75,93,86,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,11
+UBC,2013,W,ETEC,510,,65C,DES TECH,"Miller, Jeffrey D",20,89.85,2.41,93,83,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,15
+UBC,2013,W,ETEC,540,,64B,TEXT TECH,"Miller, Jeffrey D",19,89,3.32,94,84,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,9
+UBC,2014,W,ETEC,510,,65C,DES TECH,"Miller, Jeffrey D",22,89.91,4.29,93,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,19
+UBC,2014,W,ETEC,510,,65D,DES TECH,"Miller, Jeffrey D",19,90.21,3.92,94,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,17
+UBC,2015,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",18,89,3.29,93,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,11
+UBC,2016,W,ETEC,510,,65A,DES TECH,"Miller, Jeffrey D",19,89.26,3.97,94,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,14
+UBC,2017,W,ETEC,510,,65C,DES TECH,"Miller, Jeffrey D",20,91.05,2.09,94,87,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+UBC,2018,W,ETEC,510,,65B,DES TECH,"Miller, Jeffrey D",22,89.45,6.34,94,70,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,17
+UBCV,2014,W,ETEC,510,,65C,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,22,89.90909091,4.286291447,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,19
+UBCV,2014,W,ETEC,510,,65D,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,19,90.21052632,3.923985323,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,17
+UBCV,2015,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,18,89.0,3.289913283,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,11
+UBCV,2016,W,ETEC,510,,65A,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,19,89.2631579,3.96991611,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,14
+UBCV,2017,W,ETEC,510,,65C,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,19,91.052631579,2.094269541,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,16
+UBCV,2018,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,22,89.454545455,6.337547015,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,3,17

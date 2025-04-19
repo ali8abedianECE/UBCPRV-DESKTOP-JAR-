@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,S,FMST,314,,901,Relationship Development,Anna Dawczyk;Brett Matsushita;Emily Cheung-Ismailzai;Robyn Pitman,88,88.818181818,5.855629877,97.0,69.0,0,0,0,0,0,2,2,1,8,32,43,,,
+UBCV,2021,W,FMST,210,,101,Family Context of Human Development,Anna Dawczyk;Emma Nesbitt;Harjot Kular;Yijia Zhang,222,84.184684685,10.978676974,98.0,0.0,5,0,2,0,7,2,16,21,41,53,75,,,
+UBCV,2021,W,FMST,210,,207,Family Context of Human Development,Anna Dawczyk;Emily Cheung-Ismailzai;Victoria Barclay,193,81.772020725,9.599253691,96.0,38.0,3,3,2,2,7,4,13,23,49,53,34,,,
+UBCV,2021,W,FMST,314,,102,Relationship Development,Anna Dawczyk;Emily Cheung-Ismailzai;Ryan Stillwagon,83,84.036144578,6.874210878,94.0,54.0,0,1,0,1,2,1,3,5,18,37,15,,,
+UBCV,2021,W,FMST,314,,105,Relationship Development,Anna Dawczyk;Silvia Bartolic;Tom Einhorn,90,85.911111111,6.396355079,96.0,60.0,0,0,0,1,2,2,2,4,11,46,22,,,
+UBCV,2021,W,FMST,314,,202,Relationship Development,Anna Dawczyk;Kailey Peckford;Mary Connolly;Rafael Wainer,77,83.246753247,12.089747553,98.0,23.0,2,0,0,1,5,2,1,4,13,29,20,,,
+UBCV,2021,W,FMST,314,,203,Relationship Development,Anna Dawczyk;Hazel Hollingdale;Rafael Wainer;Xueqing Zhang,94,86.106382979,5.844707348,94.0,64.0,0,0,0,0,2,2,3,3,14,44,26,,,
+UBCV,2021,S,FMST,314,,901,Relationship Development,Anna Dawczyk,88,88.8,,97.0,69.0,,,,,,,,,8,32,43,89.0,93.0,86.8
+UBCV,2021,W,FMST,210,,101,Family Context of Human Development,Anna Dawczyk,222,84.2,,98.0,0.0,,,,,6,,16,22,41,53,75,87.0,91.0,80.0
+UBCV,2021,W,FMST,210,,207,Family Context of Human Development,Anna Dawczyk,193,81.8,,96.0,38.0,,,,,7,,13,23,49,53,34,84.0,88.0,79.0
+UBCV,2021,W,FMST,314,,102,Relationship Development,Anna Dawczyk,83,84.0,,94.0,54.0,,,,,,,,,18,37,15,85.0,88.0,82.0
+UBCV,2021,W,FMST,314,,105,Relationship Development,Anna Dawczyk,90,85.9,,96.0,60.0,,,,,,,,,11,46,22,87.0,89.0,85.0
+UBCV,2021,W,FMST,314,,202,Relationship Development,Anna Dawczyk,77,83.2,,98.0,23.0,,,,,,,,,13,29,20,86.0,90.0,82.0
+UBCV,2021,W,FMST,314,,203,Relationship Development,Anna Dawczyk,94,86.1,,94.0,64.0,,,,,,,,,14,44,26,88.0,90.0,84.3
+UBCV,2022,S,FMST,210,,901,Family Context of Human Development,Anna Dawczyk,108,83.2,,95.0,1.0,1,1,0,1,3,3,6,7,20,47,19,86.0,88.0,81.8
+UBCV,2022,S,FMST,314,,901,Relationship Development,Anna Dawczyk,80,82.8,,92.0,10.0,1,0,2,1,0,2,0,5,25,33,11,85.0,87.0,82.0
+UBCV,2022,W,FMST,210,,207,Family Context of Human Development,Anna Dawczyk,179,80.5,,96.0,0.0,4,0,2,4,1,5,14,32,42,57,18,83.0,87.0,77.0
+UBCV,2022,W,FMST,314,,102,Relationship Development,Anna Dawczyk,83,84.5,,95.0,49.0,1,0,0,0,1,2,5,10,17,21,26,86.0,90.5,80.0
+UBCV,2022,W,FMST,314,,105,Relationship Development,Anna Dawczyk,89,87.2,,96.0,64.0,0,0,0,0,2,0,5,3,9,33,37,88.0,91.0,85.0
+UBCV,2022,W,FMST,314,,106,Relationship Development,Anna Dawczyk,89,86.7,,95.0,64.0,0,0,0,0,2,1,2,5,15,28,36,88.0,91.0,84.0
+UBCV,2022,W,FMST,314,,202,Relationship Development,Anna Dawczyk,94,79.9,,92.0,21.0,4,1,0,2,0,6,9,7,30,26,9,82.0,87.0,78.0
+UBCV,2022,W,FMST,314,,203,Relationship Development,Anna Dawczyk,88,82.7,,95.0,49.0,1,0,4,1,1,4,3,10,17,23,24,86.0,90.0,79.0
+UBCV,2022,W,SOCI,217,,101,Research Methods,Anna Dawczyk,143,82.5,,97.0,32.0,2,2,2,3,8,4,10,16,16,36,44,85.0,91.0,78.0
+UBCV,2023,S,FMST,314,,901,Relationship Development,Anna Dawczyk,73,84.25,,93.0,62.0,0,0,0,2,3,2,2,3,11,31,17,87.0,89.0,81.5
+UBCV,2023,S,SOCI,217,,901,Research Methods,Anna Dawczyk,45,83.98,,99.0,53.0,0,1,1,0,1,2,2,6,5,14,12,87.0,91.25,78.75
+UBCV,2023,W,FMST,210,,101,Family Context of Human Development,Anna Dawczyk,185,81.71,,97.0,48.0,1,0,1,6,5,11,19,20,40,49,30,84.0,88.0,76.0
+UBCV,2023,W,FMST,210,,207,Family Context of Human Development,Anna Dawczyk,189,77.09,,93.0,0.0,2,5,3,4,6,13,31,38,49,30,6,79.0,83.0,73.5
+UBCV,2023,W,FMST,314,,102,Relationship Development,Anna Dawczyk,75,82.31,,91.0,73.0,0,0,0,0,0,0,8,15,25,24,3,83.0,86.0,78.5
+UBCV,2023,W,FMST,314,,105,Relationship Development,Anna Dawczyk,77,82.08,,92.0,64.0,0,0,0,0,2,1,8,9,25,26,6,83.0,87.0,78.0
+UBCV,2023,W,FMST,314,,106,Relationship Development,Anna Dawczyk,82,81.78,,94.0,61.0,0,0,0,1,2,5,7,9,26,26,5,83.0,87.0,79.0
+UBCV,2023,W,FMST,314,,202,Relationship Development,Anna Dawczyk,163,76.24,,93.0,19.0,2,3,5,3,9,26,20,25,32,23,13,78.0,84.0,70.0
+UBCV,2023,W,SOCI,217,,201,Research Methods,Anna Dawczyk,94,74.6,,94.0,40.0,2,3,7,6,5,14,8,11,15,15,7,76.0,84.0,68.0
+UBCV,2023,W,SOCI,328,,202,Social Statistics I,Anna Dawczyk,80,73.6,,96.0,19.0,5,4,8,1,5,7,9,7,11,8,13,75.5,85.0,65.0

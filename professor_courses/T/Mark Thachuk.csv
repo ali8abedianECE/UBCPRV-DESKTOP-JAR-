@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,CHEM,121,,101,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",250,68.57,14.88,96,19,209,36,3,0,2,0,1,1,4,30,36,3,21,26,13,33,29,13,36,17,18,,,
+UBC,2002,W,CHEM,121,,109,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",259,71,14.56,96,17,222,32,3,0,2,0,1,1,7,23,32,2,10,18,15,35,37,19,44,25,17,,,
+UBC,2002,W,CHEM,121,,110,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",239,62.56,15.56,91,24,171,62,4,0,2,0,0,5,11,46,62,1,25,28,16,23,24,18,20,12,4,,,
+UBC,2002,W,CHEM,121,,111,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",258,68.06,14.48,99,23,215,36,2,0,5,0,0,2,6,28,36,1,13,42,21,28,27,25,29,12,17,,,
+UBC,2002,W,CHEM,121,,122,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",162,77.1,12.02,96,38,154,8,0,0,0,0,0,0,1,7,8,2,4,7,5,13,21,18,38,23,23,,,
+UBC,2002,W,CHEM,121,,188,STRUCTURAL CHEM,"Blades, Michael;Herring, F Geoffrey;MacFarlane, William Andrew;Storr, Alan;Thachuk, Mark",235,63.57,16.02,95,24,163,63,6,0,3,0,0,2,10,51,63,1,24,20,15,22,23,9,31,7,11,,,
+UBC,2005,W,CHEM,320,,266,ATOMS&MOLECULES,"Thachuk, Mark",17,76.53,14.56,98,44,16,1,0,0,0,0,0,0,0,1,1,0,1,1,0,4,2,0,0,5,3,,,
+UBC,2006,W,CHEM,320,,266,ATOMS&MOLECULES,"Thachuk, Mark",22,74.33,13.01,93,33,20,1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,4,3,6,2,1,,,
+UBC,2007,W,CHEM,320,,266,ATOMS&MOLECULES,"Thachuk, Mark",26,75.4,13.18,95,51,25,0,0,0,1,0,0,0,0,0,0,2,2,1,2,2,4,2,1,5,4,,,
+UBC,2009,W,CHEM,121,,102,STRUCTURAL CHEM,"Gates, Derek;Lekhi, Priya;Thachuk, Mark",226,67.37,12.66,94,37,193,28,4,0,1,0,0,0,2,26,28,3,19,33,14,38,20,22,22,16,6,,,
+UBC,2009,W,CHEM,320,,266,ATOMS&MOLECULES,"Thachuk, Mark",20,74.05,15.37,93,40,18,1,1,0,0,0,0,0,0,1,1,2,0,1,1,5,0,0,2,3,4,,,
+UBC,2011,W,CHEM,304,,111,FUND PHYS CHEM,"Thachuk, Mark",147,67.27,15.38,100,30,125,18,3,0,1,0,0,0,3,15,18,16,10,13,9,21,14,11,14,4,13,,,
+UBC,2011,W,CHEM,501,,109,QUANT MECH CHEM,"Thachuk, Mark",6,86.5,4.97,95,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,,,
+UBC,2012,W,CHEM,304,,111,FUND PHYS CHEM,"Thachuk, Mark",112,70.16,12.87,97,26,108,3,1,0,0,0,0,2,0,1,3,6,9,17,10,17,11,6,16,8,8,,,
+UBC,2013,W,CHEM,304,,111,FUND PHYS CHEM,"Thachuk, Mark",71,69.94,13.48,99,37,66,3,1,0,1,0,0,0,1,2,3,8,5,6,4,11,9,4,11,4,4,,,
+UBC,2014,W,CHEM,304,,111,FUND PHYS CHEM,"Thachuk, Mark",80,69.57,12.7,100,33,74,2,3,0,1,0,0,0,1,1,2,4,11,9,8,10,9,7,7,0,9,,,
+UBC,2015,W,CHEM,304,,111,FUND PHYS CHEM,"Thachuk, Mark",79,69.71,14.19,97,38,72,4,1,0,2,0,0,0,3,1,4,7,6,9,7,8,13,2,5,7,8,,,
+UBC,2016,W,CHEM,304,,111,FND THRM ST MECH,"Thachuk, Mark",170,70.67,14,100,31,155,9,5,0,1,0,0,0,5,4,9,9,16,16,15,20,18,9,23,9,20,,,
+UBC,2016,W,CHEM,304,,T01,FND THRM ST MECH,"Thachuk, Mark",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,CHEM,501,,122,QUANT MECH CHEM,"Thachuk, Mark",4,85.5,3.42,89,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,,,
+UBC,2017,W,CHEM,304,,111,FND THRM ST MECH,"Thachuk, Mark",192,68.68,15.27,100,19,173,14,4,0,1,0,1,6,5,2,14,6,17,22,13,32,24,11,22,11,15,,,
+UBC,2017,W,CHEM,304,,T01,FND THRM ST MECH,"Thachuk, Mark",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,CHEM,501,,122,QUANT MECH CHEM,"Thachuk, Mark",7,86.86,4.56,95,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,,,
+UBCV,2014,W,CHEM,304,,111,Fundamentals of Physical Chemistry,Mark Thachuk,77,68.66233766,14.90108649,100.0,0.0,,,,,,,,,,,,,11,9,8,10,9,7,7,,9,,,
+UBCV,2015,W,CHEM,304,,111,Fundamentals of Physical Chemistry,Joshua Cantin;Mark Thachuk,78,68.064102564,17.358960218,97.0,0.0,,,,,,,,,,,6,7,6,9,7,8,13,2,5,7,8,,,
+UBCV,2016,W,CHEM,304,,111,Fundamentals of Thermodynamics and Statistical Mechanics,Mark Thachuk,165,70.27272727,14.86744833,100.0,5.0,,,,,,,,,,,10,9,16,16,15,20,18,9,23,9,20,,,
+UBCV,2017,W,CHEM,304,,111,Fundamentals of Thermodynamics and Statistical Mechanics,Mark Thachuk,188,68.377659574,15.796531497,100.0,11.0,,,,,,,,,,,15,6,17,22,13,32,24,11,22,11,15,,,
+UBCV,2017,W,CHEM,501,,122,Applications of Quantum Mechanics in Chemistry,Mark Thachuk,7,86.857142857,4.561745698,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,1,,,
+UBCV,2019,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,21,81.761904762,5.467218323,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,6,6,5,2,,,
+UBCV,2019,W,CHEM,449,,002,Seminar and Thesis,Christopher E Orvig;Dan Bizzotto;David Perrin;Derek Gates;Glenn Sammis;Harry Brumer;Jason Hein;Jayachandran Kizhakkedathu;Jose Rodriguez Nunez;Laurel Schafer;Marco Ciufolini;Mark Thachuk;Michael Wolf;Parisa Mehrkhodavandi;Robin Turner;Roman Krems;Suzana Straus;Tao Huan;Walter Algar;William Andrew Macfarlane;Yan Wang,21,87.80952381,5.372327686,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,7,10,,,
+UBCV,2019,W,CHEM,501,,111,Applications of Quantum Mechanics in Chemistry,Mark Thachuk,6,79.0,12.116104985,97.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,2,0,1,,,
+UBCV,2020,W,CHEM,154,,111,Chemistry for Engineering,Julie Mcnutt;Mark Thachuk;Olga Yunyaeva;Raksha Kandel;Sarah Burke,235,72.136170213,11.963199011,92.0,14.0,,,,,,,,,,,12,3,11,16,21,39,24,32,49,20,8,,,
+UBCV,2020,W,CHEM,154,,133,Chemistry for Engineering,Brodie Thomson;Duane Hean;Francesco D'Acierno;Hyuk Joon Jung;Jade Poisson;Jeanette Loos;Jedrzej Gozdzik;Jiahong Hu;Jingwei Yun;Julie Mcnutt;Kristina Rothchild;Linglan Fu;Madduma Gunasekera;Madhureeta Das Gupta;Mailam Dinh;Mark Thachuk;Nirmalendu Kuanr;Nolton Woods;Olga Yunyaeva;Paul Foth;Paul Heine;Qian Liu;Raksha Kandel;Sui Man Ho;Taniya Adak;Tianyu Duan;Xianzhe Yin;Xiaochen Xu;Yi Ren;Yitao Xu;Yu Xi;Yuanzhou Huang;Yueyang Li;Zeyu Han;Zhujun Xiao;Ziao Huang,302,71.642384106,12.379838057,94.0,21.0,,,,,,,,,,,18,4,22,23,23,47,45,27,47,30,16,,,
+UBCV,2020,W,CHEM,154,,177,Chemistry for Engineering,Ethan Sauve;Guillaume Bussiere;Julie Mcnutt;Mark Thachuk;Raksha Kandel,295,66.318644068,13.409059718,94.0,16.0,,,,,,,,,,,34,9,25,36,29,48,40,30,28,12,4,,,
+UBCV,2020,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,18,81.0,8.436614877,96.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,1,7,1,4,,,
+UBCV,2021,W,CHEM,154,,111,Chemistry for Engineering,Kristina Rothchild;Mark Thachuk;Mason Guy;Sarah Burke;Vishakha Monga,206,72.90776699,9.754860595,95.0,45.0,,,,,,,,,,,5,1,13,15,23,26,32,26,45,14,6,,,
+UBCV,2021,W,CHEM,154,,133,Chemistry for Engineering,Daniel Golec;Douglas Pimlott;Dwiti Mistry;Finn Bork;Ginger Brown;Giuseppe Crescenzo;Guojun Chen;Haoquan Lin;Hsin-Yun Tsai;Jan Gustowski;Jiacheng Zuo;Jiahua Tan;Jiajing Li;Joey Lai;Juliette Froelich;Jun Dai;Kayla Newell;Madhureeta Das Gupta;Mark Thachuk;Mason Guy;Paul Heine;Peiyun Li;Poornima Wedamulla;Sena Arslan;Shipei Xing;Shuyang Ye;Tian-Yao Xiao;Tianxiao Ma;Vani Verma;Yimin Zeng,304,71.513157895,10.853654062,95.0,33.0,,,,,,,,,,,17,4,17,22,22,53,54,36,53,20,6,,,
+UBCV,2021,W,CHEM,154,,177,Chemistry for Engineering,Abhishek Soni;Guillaume Bussiere;Mark Thachuk;Mason Guy,303,68.801980198,14.555001736,95.0,0.0,,,,,,,,,,,35,7,15,23,26,48,45,28,50,16,10,,,
+UBCV,2021,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,26,81.5,8.286132994,98.0,66.0,,,,,,,,,,,0,0,0,0,1,3,3,1,10,4,4,,,
+UBCV,2021,W,CHEM,501,,111,Applications of Quantum Mechanics in Chemistry,Mark Thachuk,6,85.5,7.609204952,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,1,1,,,
+UBCV,2021,W,CHEM,154,,111,Chemistry for Engineering,Sarah Burke;Vishakha Monga;Mark Thachuk,206,72.9,,95.0,45.0,,,,,,,,,,,,,13,15,23,26,32,26,45,14,6,74.0,80.0,66.0
+UBCV,2021,W,CHEM,154,,133,Chemistry for Engineering,Mark Thachuk,304,71.5,,95.0,33.0,,,,,,,,,,,17,4,17,22,22,53,54,36,53,20,6,73.0,80.0,65.0
+UBCV,2021,W,CHEM,154,,177,Chemistry for Engineering,Guillaume Bussiere;Mark Thachuk,304,69.0,,95.0,0.0,,,,,,,,,,,34,7,15,23,27,49,45,28,50,16,10,71.0,78.5,63.0
+UBCV,2021,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,26,81.5,,98.0,66.0,,,,,,,,,,,,,,,,,,,10,,,83.0,85.0,74.5
+UBCV,2021,W,CHEM,501,,111,Applications of Quantum Mechanics in Chemistry,Mark Thachuk,6,85.5,,100.0,81.0,,,,,,,,,,,,,,,,,,,,,,81.5,86.5,81.0
+UBCV,2022,W,CHEM,154,,111,Chemistry for Engineering,Sarah Burke;Mark Thachuk,202,68.0,,93.0,27.0,,,,,,,,,,,15,7,21,26,20,29,31,13,24,12,4,69.0,76.0,61.0
+UBCV,2022,W,CHEM,154,,133,Chemistry for Engineering,Mark Thachuk;Jianxiong Yang,280,67.1,,92.0,8.0,,,,,,,,,,,37,8,18,23,28,39,41,31,36,14,5,70.0,76.3,61.0
+UBCV,2022,W,CHEM,154,,177,Chemistry for Engineering,Vishakha Monga;Mark Thachuk,305,68.7,,92.0,2.0,,,,,,,,,,,36,5,20,24,27,51,39,25,50,21,7,71.0,80.0,62.0
+UBCV,2022,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,28,78.6,,93.0,66.0,,,,,,,,,,,1,0,0,0,2,2,4,4,7,7,1,80.0,85.0,74.5
+UBCV,2023,W,CHEM,154,,111,Chemistry for Engineering,Amani Hariri;Mark Thachuk,217,71.0,,98.0,12.0,,,,,,,,,,,17,8,13,10,17,25,36,17,41,17,10,73.0,80.5,64.0
+UBCV,2023,W,CHEM,154,,133,Chemistry for Engineering,Nigare Raheem;Mark Thachuk,300,68.3,,94.0,4.0,,,,,,,,,,,29,5,25,29,30,45,34,29,45,15,7,70.0,78.0,61.0
+UBCV,2023,W,CHEM,154,,177,Chemistry for Engineering,Mark Thachuk,329,72.7,,97.0,32.0,,,,,,,,,,,21,4,20,18,21,38,51,41,53,30,21,74.0,81.0,66.0
+UBCV,2023,W,CHEM,404,,101,Computational Chemistry,Mark Thachuk,28,80.6,,93.0,60.0,,,,,,,,,,,0,0,0,1,0,1,2,4,12,4,3,82.0,84.5,77.5

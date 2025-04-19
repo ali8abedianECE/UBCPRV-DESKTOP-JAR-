@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CIVL,228,,101,MECH CIVL DESIGN,"Stiemer, Siegfried",106,75.22,13.51,98,50,106,0,0,0,0,0,0,0,0,0,0,10,10,1,8,13,10,6,19,11,18
+UBC,2002,W,CIVL,510,,101,BEHV STEEL STRUC,"Stiemer, Siegfried",20,88.11,6.33,99,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,7
+UBC,2003,W,CIVL,228,,101,MECH CIVL DESIGN,"Stiemer, Siegfried",128,70.37,9.91,91,44,124,3,1,0,0,0,0,0,0,3,3,6,8,13,19,18,15,16,21,6,2
+UBC,2003,W,CIVL,432,,201,ADV STEEL DESIGN,"Stiemer, Siegfried",35,79.37,8.65,97,50,35,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,6,3,12,5,4
+UBC,2003,W,CIVL,510,,101,BEHV STEEL STRUC,"Stiemer, Siegfried",19,83.11,5.39,95,77,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,4,3
+UBC,2005,W,CIVL,228,,101,MECH CIVL DESIGN,"Stiemer, Siegfried",132,76.49,8.89,95,51,131,0,1,0,0,0,0,0,0,0,0,2,2,7,11,17,14,22,29,21,6
+UBC,2005,W,CIVL,432,,201,ADV STEEL DESIGN,"Stiemer, Siegfried",14,86,6.68,99,73,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,2,4
+UBC,2005,W,CIVL,511,,201,ADV TPCS STL STR,"Stiemer, Siegfried",6,89,5.44,96,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2
+UBC,2006,W,CIVL,231,,201,SOLID MECH II,"Stiemer, Siegfried",136,78.2,9.23,98,51,136,0,0,0,0,0,0,0,0,0,0,1,3,3,7,21,19,23,23,21,15
+UBC,2006,W,CIVL,432,,201,ADV STEEL DESIGN,"Stiemer, Siegfried",19,83.89,7.94,95,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,5,4,5
+UBC,2006,W,CIVL,510,,101,BEHV STEEL STRUC,"Stiemer, Siegfried",5,87.4,2.88,90,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2007,W,CIVL,231,,201,SOLID MECH II,"Stiemer, Siegfried",154,77.42,9.39,97,46,152,1,1,0,0,0,0,0,0,1,1,1,3,3,13,23,21,22,27,25,14
+UBC,2007,W,CIVL,432,,201,ADV STEEL DESIGN,"Stiemer, Siegfried",14,82.43,4.7,90,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,1,2
+UBC,2007,W,CIVL,510,,101,BEHV STEEL STRUC,"Stiemer, Siegfried",10,90.5,2.84,95,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+UBC,2009,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried",114,78.53,14.59,100,50,114,0,0,0,0,0,0,0,0,0,0,7,7,6,8,9,11,8,17,11,30
+UBC,2009,W,CIVL,510,,201,BEHV STEEL STRUC,"Stiemer, Siegfried",32,84.41,5.22,95,75,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,11,11,5
+UBC,2010,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried",141,79.02,13.15,100,40,139,2,0,0,0,0,0,0,0,2,2,5,6,9,5,9,11,16,28,17,33
+UBC,2010,W,CIVL,432,,201,ADV STEEL DESIGN,"Stiemer, Siegfried",22,83.35,10.81,100,50,20,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,3,3,6,5
+UBC,2010,W,CIVL,510,,201,BEHV STEEL STRUC,"Stiemer, Siegfried",14,90.57,5.69,100,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8
+UBC,2011,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried;Tannert, Thomas",154,82.61,6.35,97,66,153,0,1,0,0,0,0,0,0,0,0,0,0,0,2,7,12,25,38,53,16
+UBC,2011,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Chieng, Sie-Tan;Stiemer, Siegfried",141,85.76,4.43,94,71,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,42,52,35
+UBC,2011,W,CIVL,446,,201,DESIG & ANALYS 2,"Chieng, Sie-Tan;Stiemer, Siegfried",140,91.46,4.17,98,80,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,29,100
+UBC,2012,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried",146,81.96,11.86,100,19,143,1,2,0,0,0,1,0,0,0,1,1,6,1,4,13,9,12,31,26,40
+UBC,2012,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Chieng, Sie-Tan;Nesbit, Susan;Stiemer, Siegfried",148,87.41,4.61,98,60,148,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,23,68,52
+UBC,2012,W,CIVL,446,,201,DESIG & ANALYS 2,"Atwater, James;Chieng, Sie-Tan;Stiemer, Siegfried",145,85.75,7.96,94,32,142,3,0,0,0,0,0,0,1,2,3,0,0,0,1,2,1,0,25,80,33
+UBC,2013,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried",136,79.15,13.43,100,11,134,2,0,0,0,0,2,0,0,0,2,2,3,7,2,12,16,20,23,22,27
+UBC,2013,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Li, Loretta;Lo, Kwang Victor;Stiemer, Siegfried",127,88.76,6.14,97,52,126,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,19,32,69
+UBC,2013,W,CIVL,446,,201,DESIG & ANALYS 2,"Howie, John;Mavinic, Donald;Stiemer, Siegfried",131,86.54,3.9,95,64,131,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,22,79,25
+UBCV,2020,W,CIVL,430,,101,Design of Concrete Structures,Abdolreza Joghataie;Anurag Krishna;Perry Erwin Adebar;Sara Hui Man Zhang;Siegfried Stiemer;Utkarsh Sharma;Yueran Fang,132,81.939393939,8.60831976,98.0,51.0,,,,,,,,,,,0,2,1,0,1,10,14,22,25,32,25
+UBCV,2020,W,CIVL,446,,201,Civil Engineering Design Project II.,Carlos Estuardo Ventura;Gerald Palomino Romani;Loretta Li;Mohamed Kamel;Nemkumar Banthia;Robert Shilton;Siegfried Stiemer;Yahya Nazhat,132,89.439393939,3.458053054,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,14,43,75
+UBCV,2020,W,CIVL,537,,101,Computational Mechanics I,Hubert Courteau-Godmaire;Negar Roghanian;Reza Vaziri;Siegfried Stiemer,39,76.487179487,18.284119936,100.0,0.0,,,,,,,,,,,6,0,0,0,0,5,4,5,4,7,8

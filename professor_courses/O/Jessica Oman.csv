@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,COMM,390,,121,BUSINESS WRITING,"Oman, Jessica",20,76.6,6.19,86,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,5,4,2,0
+UBC,2016,W,COMM,390,,122,BUSINESS WRITING,"Oman, Jessica",20,77.65,5.48,89,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,6,2,3,0
+UBC,2016,W,COMM,390,,219,BUSINESS WRITING,"Oman, Jessica",20,75.55,7.62,85,57,20,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,7,4,2,0
+UBC,2016,W,COMM,390,,220,BUSINESS WRITING,"Oman, Jessica",20,77.95,8.34,89,60,20,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,2,6,4,0
+UBC,2017,W,COMM,390,,103,BUSINESS WRITING,"Oman, Jessica",21,79.1,6.21,88,64,20,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,5,8,3,0
+UBC,2017,W,COMM,390,,104,BUSINESS WRITING,"Oman, Jessica",20,79.25,3.16,87,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,8,1,0
+UBC,2017,W,COMM,390,,204,BUSINESS WRITING,"Oman, Jessica",20,79.85,4.79,87,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,8,3,0
+UBC,2017,W,COMM,390,,205,BUSINESS WRITING,"Oman, Jessica",20,74.7,7.66,86,60,20,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,4,6,3,2,0
+UBC,2018,W,COMM,390,,121,BUSINESS WRITING,"Oman, Jessica",20,77.25,5.09,85,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,4,6,2,0
+UBC,2018,W,COMM,390,,122,BUSINESS WRITING,"Oman, Jessica",19,77.05,4.99,87,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,5,4,2,0
+UBC,2018,W,COMM,390,,123,BUSINESS WRITING,"Oman, Jessica",20,75.7,5.03,82,66,20,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,3,7,0,0
+UBC,2018,W,COMM,390,,210,BUSINESS WRITING,"Oman, Jessica",19,79.61,5.89,90,71,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,6,3,1
+UBC,2018,W,COMM,390,,211,BUSINESS WRITING,"Oman, Jessica",18,74.67,6.97,89,59,18,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,5,3,4,1,0
+UBCV,2016,W,COMM,390,,121,Business Writing,Jessica Oman,20,76.6,6.193375068,86.0,65.0,,,,,,,,,,,0,0,0,0,1,3,5,5,4,2,0
+UBCV,2016,W,COMM,390,,122,Business Writing,Jessica Oman,20,77.65,5.479867459,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,8,6,2,3,0
+UBCV,2016,W,COMM,390,,219,Business Writing,Jessica Oman,20,75.55,7.61905506,85.0,57.0,,,,,,,,,,,0,0,1,1,1,2,2,7,4,2,0
+UBCV,2016,W,COMM,390,,220,Business Writing,Jessica Oman,20,77.95,8.338086364,89.0,60.0,,,,,,,,,,,0,0,0,2,0,1,5,2,6,4,0
+UBCV,2017,W,COMM,390,,103,Business Writing,Jessica Oman,20,79.1,6.206109045,88.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,5,8,3,0
+UBCV,2017,W,COMM,390,,104,Business Writing,Jessica Oman,20,79.25,3.16019653,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,9,8,1,0
+UBCV,2017,W,COMM,390,,204,Business Writing,Jessica Oman,20,79.85,4.793361638,87.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,6,8,3,0
+UBCV,2017,W,COMM,390,,205,Business Writing,Jessica Oman,20,74.7,7.657813347,86.0,60.0,,,,,,,,,,,0,0,0,3,2,0,4,6,3,2,0
+UBCV,2018,W,COMM,390,,121,Business Writing,Chad Brealey;Jessica Oman,20,77.25,5.087394121,85.0,67.0,,,,,,,,,,,0,0,0,0,1,2,5,4,6,2,0
+UBCV,2018,W,COMM,390,,122,Business Writing,Chad Brealey;Jessica Oman,19,77.052631579,4.994148623,87.0,69.0,,,,,,,,,,,0,0,0,0,0,2,6,5,4,2,0
+UBCV,2018,W,COMM,390,,123,Business Writing,Chad Brealey;Jessica Oman,20,75.7,5.027293925,82.0,66.0,,,,,,,,,,,0,0,0,0,2,1,7,3,7,0,0
+UBCV,2018,W,COMM,390,,210,Business Writing,Jessica Oman,18,79.611111111,5.89255651,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,5,2,6,3,1
+UBCV,2018,W,COMM,390,,211,Business Writing,Jessica Oman,18,74.888888889,6.488803831,89.0,63.0,,,,,,,,,,,0,0,0,1,1,3,5,3,4,1,0
+UBCV,2018,W,FNH,415,,001,"Business Concepts in Food, Nutrition, and Health",Aashim Aggarwal;Jessica Oman;Sarah Montgomery,83,79.481927711,6.29820231,91.0,38.0,,,,,,,,,,,1,0,0,0,0,1,10,33,25,12,1
+UBCV,2019,W,COMM,390,,221,Business Writing,Jessica Oman,18,76.888888889,6.425032743,88.0,61.0,,,,,,,,,,,0,0,0,1,1,0,5,5,4,2,0
+UBCV,2019,W,COMM,390,,222,Business Writing,Jessica Oman,12,74.666666667,7.643575238,88.0,62.0,,,,,,,,,,,0,0,0,1,2,1,3,1,3,1,0
+UBCV,2019,W,FNH,415,,001,"Business Concepts in Food, Nutrition, and Health",Jessica Oman;Justin Desmond Falardeau;Justin Falardeau;Sarah Montgomery,81,81.654320988,4.909583724,95.0,58.0,,,,,,,,,,,0,0,1,0,0,0,4,18,38,18,2
+UBCV,2020,W,FNH,415,,001,"Business Concepts in Food, Nutrition, and Health",Jessica Oman;Queena Chung;Sarah Montgomery,81,82.975308642,5.447419822,93.0,57.0,,,,,,,,,,,0,0,1,0,0,1,4,11,31,29,4
+UBCV,2021,W,FNH,415,,001,"Business Concepts in Food, Nutrition, and Health",Ana Patino Lopez;Jessica Oman;Weihang Liu,84,83.654761905,6.444375614,92.0,46.0,,,,,,,,,,,1,0,0,0,1,0,4,8,25,39,6

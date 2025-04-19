@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,SCED,320,,106,C&I SCIENCE ELEM,"Khan, Samia",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,SCED,313,,301,C&I BIOL SC SEC,"Khan, Samia",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,SCED,565,B,032,SP CRS SBJCT FLD,"Khan, Samia",13,84.42,5.3,96,76,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,8,1
+UBC,2005,W,CUST,565,C,032,SPCL CRS IN SUBJ,"Khan, Samia",12,90.1,3.18,95,85,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8
+UBC,2005,W,EDUC,311,,312,TEACH PRINC SEC,"Khan, Samia",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",12,73.6,26.82,90,2,9,1,2,0,0,1,0,0,0,0,1,0,1,0,0,0,0,2,1,4,1
+UBC,2005,W,SCED,316,A,302,C&I GEN SC SEC,"Khan, Samia",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CUST,565,F,031,SPCL CRS IN SUBJ,"Khan, Samia",7,88.67,2.94,92,85,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2006,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",10,83.22,9.2,92,64,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,4,2
+UBC,2006,W,SCED,313,,301,C&I BIOL SC SEC,"Khan, Samia",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,EDCP,447,,301,TECH-BASED SC ED,"Khan, Samia",8,86,3.9,91,81,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2011,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",26,85.52,5.1,93,70,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,6,12,5
+UBC,2012,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",17,83.24,4.12,90,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,4,2
+UBC,2013,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",16,81.88,7.97,92,67,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,3,5,3
+UBC,2014,S,ETEC,530,,66A,CONSTR STRAT,"Khan, Samia",20,86.1,3.13,91,81,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,5
+UBC,2015,W,ETEC,530,,65B,CONSTR STRAT,"Khan, Samia",16,83.2,7.79,92,60,15,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,5,6,2
+UBC,2016,W,EDCP,559,,031,RES TCH & LRN SC,"Khan, Samia",7,84.29,10.05,91,62,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,2
+UBC,2016,W,ETEC,530,,65A,CONSTR STRAT,"Khan, Samia",13,83.58,4.48,90,76,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,2
+UBC,2016,W,ETEC,533,,65A,TECH MATH SCI,"Khan, Samia",16,87.06,5.46,95,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,7
+UBCV,2014,S,ETEC,530,,66A,Constructivism Strategies for E-Learning,Samia Khan,20,86.1,3.127130852,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,5
+UBCV,2015,W,ETEC,530,,65B,Constructivism Strategies for E-Learning,Samia Khan,15,83.2,7.793770406,92.0,60.0,,,,,,,,,,,0,0,0,,,,,,5,6,2
+UBCV,2016,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Samia Khan,7,84.28571429,10.04513623,91.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,4,2
+UBCV,2016,W,ETEC,530,,65A,Constructivism Strategies for E-Learning,Samia Khan,12,83.58333333,4.48144322,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,3,2
+UBCV,2016,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Samia Khan,16,87.0625,5.458555975,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,4,7
+UBCV,2020,W,EDCP,557,,031,Issues in the Teaching and Learning of the Sciences,Samia Khan,7,84.0,3.605551275,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,1
+UBCV,2021,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh;Samia Khan,15,91.2,6.416496596,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,11

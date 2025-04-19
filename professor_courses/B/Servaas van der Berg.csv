@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,91,74.538461538,11.283525545,94.0,38.0,,,8,,6,10,8,17,20,10,5
+UBCV,2015,W,PHIL,125,,002,Introduction to Scientific Reasoning,Christopher Forbes French;Servaas Van Der Berg,28,70.928571429,15.883671027,88.0,0.0,2,,,,,4,7,6,4,1,0
+UBCV,2015,W,PHIL,220,A,005,Symbolic Logic I,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,87,76.149425287,16.972295302,99.0,14.0,5,,,6,,,,12,16,14,17
+UBCV,2015,W,PHIL,320,A,001,Symbolic Logic 2,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,23,84.565217391,8.419814762,99.0,68.0,0,0,0,0,0,,,,,6,7
+UBCV,2016,S,PHIL,101,,922,Introduction to Philosophy,Servaas Van Der Berg,31,74.48387097,5.555003557,85.0,62.0,0,0,0,2,1,5,11,3,8,1,0
+UBCV,2016,W,PHIL,220,A,003,Symbolic Logic I,Alan Walter Richardson;Servaas Van Der Berg,50,72.1,16.22953971,99.0,22.0,7,0,1,3,3,3,9,7,10,1,6
+UBCV,2016,W,PHIL,320,A,001,Symbolic Logic 2,Alexandre Korolev;Servaas Van Der Berg,29,76.93103448,17.96610108,99.0,5.0,1,0,2,2,1,1,3,2,5,7,5
+UBCV,2016,W,PHIL,339,A,001,Philosophy of Art,Dominic Lopes;Servaas Van Der Berg,60,68.85,14.13832992,91.0,0.0,3,3,6,3,6,10,7,7,11,2,2
+UBCV,2016,W,PHIL,340,A,002,Knowledge and Reality II,Roberta Ballarin;Servaas Van Der Berg,53,69.58490566,15.40283935,90.0,21.0,3,4,2,5,4,3,12,1,13,5,1
+UBCV,2016,W,PHIL,415,A,001,The Philosophy of Immanuel Kant,Alan Walter Richardson;Servaas Van Der Berg,8,75.875,6.998724374,86.0,68.0,0,0,0,0,0,2,3,1,0,2,0
+UBCV,2017,S,PHIL,220,,002,Symbolic Logic,Servaas Van Der Berg,61,81.278688525,11.948683536,99.0,38.0,1,2,1,1,3,0,6,5,13,14,15
+UBCV,2017,W,PHIL,120,,002,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,97,76.298969072,18.036516749,100.0,0.0,3,4,4,7,5,6,10,9,16,12,21
+UBCV,2017,W,PHIL,120,,99A,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,91,72.197802198,17.749002964,96.0,3.0,9,5,6,3,2,7,6,16,13,16,8
+UBCV,2017,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,99,74.898989899,16.958830672,95.0,0.0,5,4,7,4,4,8,7,9,19,16,16
+UBCV,2017,W,PHIL,220,,003,Symbolic Logic,Alexandre Korolev;Servaas Van Der Berg,88,73.181818182,15.645164105,95.0,14.0,5,5,3,7,4,9,11,8,15,10,11
+UBCV,2018,S,PHIL,220,,001,Symbolic Logic,Matthew Smithdeal;Servaas Van Der Berg,52,76.519230769,15.397339195,100.0,33.0,4,1,0,1,5,7,5,3,9,8,9
+UBCV,2018,W,PHIL,120,,001,Introduction to Critical Thinking,Emma Esmaili;Leslie Burkholder;Serban Dragulin;Servaas Van Der Berg,270,89.2,13.203187629,100.0,1.0,5,2,0,0,5,2,12,6,31,44,163
+UBCV,2018,W,PHIL,125,,003,Introduction to Scientific Reasoning,Leslie Burkholder;Serban Dragulin;Servaas Van Der Berg,156,92.807692308,11.547442328,100.0,11.0,3,0,2,0,1,2,1,2,10,13,122
+UBCV,2018,W,PHIL,220,,003,Symbolic Logic,Murat Aydede;Servaas Van Der Berg,51,70.862745098,19.252033251,100.0,27.0,8,3,3,0,5,5,5,2,4,4,12
+UBCV,2018,W,PHIL,220,,99A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Serban Dragulin;Servaas Van Der Berg,270,87.203703704,13.107476271,99.0,0.0,7,1,1,4,8,3,6,9,18,51,162
+UBCV,2018,W,PHIL,220,,99C,Symbolic Logic,Leslie Burkholder;Servaas Van Der Berg,286,89.27972028,11.488762225,98.0,5.0,5,1,3,0,6,2,3,4,16,34,212
+UBCV,2018,W,PHIL,451,,001,Philosophy of Mind,Murat Aydede;Servaas Van Der Berg,59,73.0,6.491373586,85.0,50.0,0,1,0,3,7,11,16,10,8,3,0
+UBCV,2018,W,PHIL,451,,002,Philosophy of Mind,Murat Aydede;Servaas Van Der Berg,57,74.929824561,9.139513212,90.0,51.0,0,3,1,2,2,9,11,8,14,5,2
+UBCV,2019,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,99,79.232323232,11.294597122,95.0,18.0,1,2,2,2,5,2,11,17,27,15,15
+UBCV,2019,W,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Leslie Burkholder;Serban Dragulin;Servaas Van Der Berg,132,76.863636364,14.214696581,95.0,6.0,5,3,4,4,8,6,18,18,24,23,19
+UBCV,2019,W,PHIL,220,,001,Symbolic Logic,Paul Bartha;Servaas Van Der Berg,104,74.355769231,17.102726898,99.0,16.0,9,6,8,6,5,2,10,8,17,12,21
+UBCV,2019,W,PHIL,230,,003,Introduction to Ethics,Bruno Guindon;Joseph Paul Russell;Servaas Van Der Berg,83,73.86746988,8.890624116,87.0,22.0,2,0,0,1,6,14,27,15,13,5,0
+UBCV,2020,W,PHIL,102,,004,Introduction to Philosophy II,Irwin Chan;Jasper Heaton;Kristin Lee Conrad;Serban Dragulin;Servaas Van Der Berg,102,71.794117647,13.707942509,87.0,0.0,3,0,2,4,4,23,27,10,26,3,0
+UBCV,2020,W,PHIL,125,,001,Introduction to Scientific Reasoning,Christopher Stephens;Ewan Townshend;Servaas Van Der Berg,48,74.729166667,17.401075515,91.0,0.0,2,1,1,2,4,4,5,4,7,17,1
+UBCV,2020,W,PHIL,220,,002,Symbolic Logic,David Robert Gilbert;Miraslava Kuroyedov;Serban Dragulin;Servaas Van Der Berg,101,71.306930693,18.564343551,94.0,1.0,11,8,2,0,4,16,9,7,16,15,13
+UBCV,2021,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alexandre Korolev;Kinley Gillette;Servaas Van Der Berg;Zachary Bloom,39,72.512820513,13.712982314,88.0,11.0,1,2,1,2,0,7,12,3,4,7,0

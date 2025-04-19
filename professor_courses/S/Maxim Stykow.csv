@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,MATH,180,,104,DIF CALC PHYS AP,"Stykow, Maxim",48,64.03,13.1,95,27,36,4,7,0,1,0,0,1,0,3,4,5,3,7,6,7,2,1,2,1,2
+UBC,2012,W,MATH,180,,103,DIF CALC PHYS AP,"Stykow, Maxim",79,65.09,15.37,89,27,65,10,2,0,2,0,0,2,4,4,10,5,9,9,7,8,7,5,7,8,0
+UBC,2013,W,MATH,102,,105,DF CALC APP LF S,"Stykow, Maxim",70,75.53,12.71,97,31,64,2,4,0,0,0,0,0,1,1,2,3,3,2,3,11,7,6,12,7,10
+UBCV,2014,W,MATH,100,,110,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Maxim Stykow,139,69.76978417,15.08781856,96.0,7.0,,,,,,,,,,,13,7,11,6,14,23,15,8,20,14,8
+UBCV,2015,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Maxim Stykow,59,48.86440678,24.49240391,97.0,2.0,,,,,,,,,,,28,8,,,,,,,,,
+UBCV,2015,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Maxim Stykow,129,51.31007752,22.00099375,94.0,0.0,,,,,,,,,,,54,13,12,7,5,13,11,,6,,

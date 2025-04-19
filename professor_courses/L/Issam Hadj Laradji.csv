@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,322,,101,Introduction to Artificial Intelligence,Alfonso Arturo Martinez-Covarrubias;Glen Paul Berseth;Issam Hadj Laradji;James Joseph Little;Sharan Vaswani,106,74.36792453,18.17026638,100.0,5.0,10,4,2,6,12,7,7,8,17,8,25
+UBCV,2014,W,CPSC,422,,201,Intelligent Systems,Giuseppe Carenini;Issam Hadj Laradji,36,71.88888889,22.97424369,100.0,0.0,,,,,,5,,,,5,7
+UBCV,2015,S,CPSC,210,,921,Software Construction,Issam Hadj Laradji;Ming An Wu;Paul Carter;Paul Martin Carter;Samuel Edward Creed;Shu Yang,159,75.44654088,16.15613995,100.0,15.0,14,2,8,8,9,9,15,17,22,16,39
+UBCV,2015,S,CPSC,221,,911,Basic Algorithms and Data Structures,Angad Kalra;Devon Graham;Henry Li;Issam Hadj Laradji;Jing Hei Jason Chan;Kaitlyn Melton;Kamil Khan;Kurt Eiselt;Mushfiqur Rouf;Sedigheh Zolaktaf;Shu Yang;Wei Luo;Zeinab Zolaktaf Zadeh,155,85.87096774,7.689349758,99.0,55.0,0,0,,,,5,7,7,39,33,61
+UBCV,2015,W,CPSC,340,,101,Machine Learning and Data Mining,Bobak Shahriari;Issam Hadj Laradji;Mark Schmidt;Sharan Rajesh Vaswani;Sharan Vaswani;Tian Qi Chen;Yan Zhao,151,80.198675497,10.143648172,95.0,32.0,,,,,7,10,15,16,37,28,28
+UBCV,2016,W,CPSC,340,,101,Machine Learning and Data Mining,Alireza Shafaei;Issam Hadj Laradji;Jianhui Chen;Mark Schmidt;Moumita Roy Tora;Reza Babanezhad Harikande;Robert Adam Rolin;Sedigheh Zolaktaf;Zeinab Zolaktaf Zadeh,175,82.81142857,11.06687538,100.0,46.0,2,2,5,5,5,4,13,18,31,31,59
+UBCV,2016,W,CPSC,340,,201,Machine Learning and Data Mining,Bita Nejat;Issam Hadj Laradji;Michael Gelbart;Ritika Jain;Tian Qi Chen;Wenyi Wang,114,75.09649123,11.2556529,99.0,38.0,1,4,8,4,4,17,20,14,17,12,13

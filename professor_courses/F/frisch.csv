@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",43,88.24,5.1,95,64,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,19,19
+UBC,2016,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",76,91.88,5.06,99,76,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,15,56
+UBC,2017,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",114,89.25,4.68,97,67,113,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,5,35,68
+UBC,2018,W,SPPH,302,,001,TPCS HLTH INFORM,"Frisch, Lawrence",67,84.46,10.05,96,27,64,1,0,1,0,0,0,1,0,0,1,0,0,1,0,3,2,3,13,21,21

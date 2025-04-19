@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,AUDI,550,A,001,ADV TPCS AUDI,"Qi, Li",12,87,4.51,95,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,,,
+UBCV,2017,W,AUDI,550,A,001,Advanced Topics in Audiology,Li Qi;Valter Ciocca,12,87.0,4.512608599,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,3,,,
+UBCV,2018,W,AUDI,550,A,001,Advanced Topics in Audiology,Li Qi;Valter Ciocca,12,88.083333333,2.391588796,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,4,,,
+UBCV,2022,W,AUDI,530,B,001,Research Methods,Li Qi,11,83.5,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,0,3,80.0,87.5,80.0

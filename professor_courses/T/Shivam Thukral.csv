@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CPSC,404,,101,Advanced Relational Databases,Chenliang Zhou;Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral,101,75.267326733,10.785074028,97.0,45.0,2,2,4,6,9,12,15,13,18,10,10
+UBCV,2019,W,CPSC,404,,201,Advanced Relational Databases,Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral;Xavier Dela Cruz,133,76.796992481,12.016881685,99.0,52.0,0,11,4,7,7,8,18,16,27,15,20
+UBCV,2020,S,CPSC,304,,911,Introduction to Relational Databases,Ansel Hartanto;Arya Rashtchian;Hazra Imran;Kenrick Yap;Mir Rayat Imtiaz Hossain;Sameer Ahmed;Shivam Thukral;Zhe Li;Zhenpeng Wu,113,84.938053097,8.447615033,98.0,55.0,0,0,2,1,0,5,7,10,21,30,37
+UBCV,2020,W,CPSC,404,,101,Advanced Relational Databases,Alison Li;Asem Ghaleb;Edwin Max Knorr;Shivam Thukral;Zhe Li;Zhenpeng Wu,157,82.121019108,11.653848445,99.0,38.0,3,2,4,3,4,6,13,22,23,26,51
+UBCV,2021,W,CPSC,404,,101,Advanced Relational Databases,Aditya Chinchure;Edwin Max Knorr;Matthew Yep;Ming Cheng Jiang;Shivam Thukral;Zipeng Liang,143,80.629370629,14.153921629,98.0,2.0,2,4,1,8,5,11,9,12,26,21,44
+UBCV,2021,W,CPSC,404,,201,Advanced Relational Databases,Declan Herbertson;Edwin Max Knorr;Ray Hua;Shivam Thukral;Tristan Lei;Zipeng Liang,150,77.446666667,12.012039076,99.0,38.0,2,6,5,9,10,8,19,16,29,21,25

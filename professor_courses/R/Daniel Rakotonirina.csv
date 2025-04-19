@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,105,,207,INT CALC AP C&SS,"Rakotonirina, Daniel",69,63.9,17.59,93,14,56,13,0,0,0,0,2,0,5,6,13,6,3,7,4,11,7,5,7,2,4
+UBC,2017,W,MATH,104,,108,DFF CALC AP C&SS,"Rakotonirina, Daniel",71,76.04,13.91,95,24,67,2,2,0,0,0,0,2,0,0,2,2,2,3,6,6,6,13,7,12,10
+UBCV,2016,W,MATH,105,,207,Integral Calculus with Applications to Commerce and Social Sciences,Daniel Rakotonirina;Keqin Liu,69,63.89855073,17.58688091,93.0,14.0,,,,,,,,,,,13,6,3,7,4,11,7,5,7,2,4
+UBCV,2017,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Daniel Rakotonirina;Mark Thomson Maclean;You Hung Hsu,69,76.043478261,13.907715572,95.0,24.0,,,,,,,,,,,2,2,2,3,6,6,6,13,7,12,10

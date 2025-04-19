@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,APSC,541,,202,TECH ENT ENGIN,"Cubbon, Paul;Fitzgerald, Gregory",10,83.6,3.5,89,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0
+UBC,2016,W,BAEN,506,,002,TECH ENTRPRNRSHP,"Cubbon, Paul;Fitzgerald, Gregory",18,82.94,5.22,90,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,7,5,2
+UBC,2017,W,BAEN,550,,MM1,FUND ENTRPRENEUR,"Etmannski, Tamara;Fitzgerald, Gregory",39,82.59,3.38,90,77,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,20,12,1
+UBCV,2016,W,APSC,541,,201,Technology Entrepreneurship for Engineers,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,12,83.83333333,4.969604582,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,6,3,2
+UBCV,2016,W,APSC,541,,202,Technology Entrepreneurship for Engineers,David Miller;Gregory Fitzgerald;Gregory Gordon Fitzgerald;Paul Cubbon;Tamara Etmannski,10,83.6,3.502380143,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,3,0
+UBCV,2016,W,BAEN,506,,001,Technology Entrepreneurship,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,20,83.15,3.048295468,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,10,7,0
+UBCV,2016,W,BAEN,506,,002,Technology Entrepreneurship,David Miller;Gregory Fitzgerald;Gregory Gordon Fitzgerald;Paul Cubbon;Tamara Etmannski,18,82.94444444,5.218431387,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,1,7,5,2
+UBCV,2017,W,APSC,541,,201,Technology Entrepreneurship for Engineers,Alex Feldman;David Miller;Gregory Fitzgerald;Paul Cubbon,14,83.071428571,4.497251908,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,7,0
+UBCV,2017,W,APSC,541,,202,Technology Entrepreneurship for Engineers,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,13,83.692307692,2.2870875,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,5,0
+UBCV,2017,W,BAEN,506,,001,Technology Entrepreneurship,Alex Feldman;David Miller;Gregory Fitzgerald;Paul Cubbon,20,84.0,3.699217556,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,10,0
+UBCV,2017,W,BAEN,506,,002,Technology Entrepreneurship,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,19,84.315789474,3.575419658,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,9,7,2
+UBCV,2017,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Gregory Fitzgerald;Gregory Gordon Fitzgerald;Tamara Etmannski,39,82.58974359,3.377307778,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,20,12,1
+UBCV,2019,W,BAEN,580,,818,Topics in Entrepreneurship,Gregory Fitzgerald;Gregory Gordon Fitzgerald,45,81.244444444,1.734090744,84.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,6,39,0,0
+UBCV,2019,W,COMM,386,I,201,Topics in Business III,Bradley J Scheftner;Bradley Scheftner;Gregory Fitzgerald;Gregory Gordon Fitzgerald;Tamara Etmannski,41,80.0,3.708099244,87.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,10,24,4,0
+UBCV,2020,W,BAEN,580,D,819,Topics in Entrepreneurship,Gregory Fitzgerald,29,80.827586207,3.808533328,88.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,7,17,4,0
+UBCV,2020,W,COMM,386,I,201,Topics in Business III,Gregory Fitzgerald;James Tansey;Justin Bull;Natalie Youssef,30,85.433333333,3.380301286,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,14,4

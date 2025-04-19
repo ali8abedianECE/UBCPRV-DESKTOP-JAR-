@@ -1,0 +1,107 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,NURS,321,,001,NURS RLS&CMP II,"Esson, Lynne;Jackson, Cathryn",71,81.64,4.87,94,71,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,20,24,18,3
+UBC,2002,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",27,76,10.87,94,50,18,0,5,0,4,0,0,0,0,0,0,1,0,2,0,2,3,3,2,4,1
+UBC,2002,W,PHIL,120,,99B,LOG & CRIT THINK,"Jackson, Howard",11,81,0,81,81,1,0,4,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+UBC,2002,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",16,,,,,0,0,6,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,PHIL,120,,99D,LOG & CRIT THINK,"Jackson, Howard",8,,,,,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",23,56.41,35.55,98,0,12,5,5,0,1,4,0,0,1,0,5,1,0,1,1,1,1,0,4,0,3
+UBC,2002,W,POLI,325,,001,COMM & POST-COMM,"Jackson, Nicole",62,75.44,6.66,86,45,60,1,0,0,1,0,0,0,0,1,1,0,0,2,2,10,11,18,15,2,0
+UBC,2002,W,POLI,325,,002,COMM & POST-COMM,"Jackson, Nicole",61,75.15,8.53,83,23,58,1,1,0,1,0,0,1,0,0,1,0,0,1,3,6,17,12,19,0,0
+UBC,2002,W,POLI,362,,001,GREAT POWRS/INTL,"Jackson, Nicole",63,77.77,3.98,85,67,61,0,1,0,1,0,0,0,0,0,0,0,0,0,1,2,13,20,24,1,0
+UBC,2002,W,POLI,362,,002,GREAT POWRS/INTL,"Jackson, Nicole",60,75.34,4.14,84,62,58,0,2,0,0,0,0,0,0,0,0,0,0,1,2,6,19,22,8,0,0
+UBC,2002,W,POLI,460,B,002,FRGN POLICY ANLY,"Jackson, Nicole",11,79.73,3.04,86,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,1,0
+UBC,2003,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn",64,79.48,6.84,94,62,62,0,2,0,0,0,0,0,0,0,0,0,0,2,2,2,8,17,16,11,4
+UBC,2003,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn",54,81.43,5.06,92,68,53,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,10,18,16,1
+UBC,2003,W,NURS,321,,001,NURS RLS&CMP II,"Esson, Lynne;Jackson, Cathryn",57,82.23,4.02,91,72,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,26,13,2
+UBC,2003,W,NURS,350,,001,SOCIOCLT CNS H&I,"Jackson, Cathryn;Tan, Elsie;Valkenier, Beverley",65,76.56,5.88,87,60,64,0,1,0,0,0,0,0,0,0,0,0,0,1,4,8,15,14,17,5,0
+UBC,2003,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",39,70.56,17.34,94,20,24,3,8,0,4,0,0,2,0,1,3,0,1,1,2,2,7,3,4,3,1
+UBC,2003,W,PHIL,120,,99B,LOG & CRIT THINK,"Jackson, Howard",17,70,14.14,80,60,2,0,3,0,12,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+UBC,2003,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",14,0,0,0,0,0,1,2,0,11,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PHIL,120,,99D,LOG & CRIT THINK,"Jackson, Howard",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",17,72,25.66,92,0,11,1,2,0,3,1,0,0,0,0,1,0,2,0,0,1,0,1,3,0,4
+UBC,2005,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",57,78.79,6.46,90,60,56,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3,9,14,15,11,1
+UBC,2005,W,NURS,321,,002,NURS RLS&CMP II,"Jackson, Cathryn;TBA;Valkenier, Beverley",53,86.38,4.66,95,74,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,13,23,14
+UBC,2005,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",16,79,7.59,87,66,10,0,3,0,3,0,0,0,0,0,0,0,0,0,1,1,2,0,2,4,0
+UBC,2005,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",22,75,18.38,88,62,2,0,2,0,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+UBC,2005,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",10,50.13,29.15,77,10,5,3,2,0,0,0,2,1,0,0,3,0,0,0,1,2,1,1,0,0,0
+UBC,2006,W,ECON,221,,001,INT STRA THINK,"JACKSON, KEN",120,70.87,15.3,98,2,115,4,1,0,0,1,1,0,1,1,4,10,10,8,18,13,6,9,17,15,9
+UBC,2006,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",58,78.95,4.9,87,62,57,0,1,0,0,0,0,0,0,0,0,0,0,1,1,3,5,19,23,5,0
+UBC,2006,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",31,65.79,14.47,90,40,16,3,8,0,4,0,0,0,0,3,3,3,0,1,0,2,7,1,0,1,1
+UBC,2006,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",22,71.5,2.12,73,70,2,0,3,0,17,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+UBC,2006,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",13,77,13.3,92,55,8,0,1,0,4,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,2
+UBC,2007,W,BAIM,521,,001,INTR MKTG STRTGY,"JACKSON, EAN",15,87.13,5.14,93,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,5,6
+UBC,2007,W,BAMA,513,,001,INTERNET MKTG,"JACKSON, EAN",24,85.5,4.79,93,76,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,14,4
+UBC,2007,W,NURS,321,,002,NURS RLS&CMP II,"Jackson, Cathryn;Valkenier, Beverley",58,87.81,4.43,95,74,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,23,23
+UBC,2007,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",24,75.53,16.79,97,33,15,2,6,0,1,0,0,0,1,1,2,0,0,0,0,4,1,3,2,1,4
+UBC,2007,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",21,,,,,0,0,3,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",7,75.6,9.02,86,62,5,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,0
+UBC,2009,S,NURS,321,,941,NURS RLS&CMP II,"Einboden, Rochelle;Jackson, Cathryn;Jetha, Farah;Valkenier, Beverley",61,88.23,4.6,96,73,60,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,26,24
+UBC,2009,S,NURS,460,,941,CONSLD PRCT EXP,"Affleck, Frances;Bassingthwaighte, Carol;Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Jetha, Farah;Lawton, Jennifer;Tan, Elsie;Valkenier, Beverley",56,,,,,0,0,1,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHIL,120,,98A,LOG & CRIT THINK,"Jackson, Howard",22,,,,,0,0,6,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",9,56.38,32.71,85,0,6,2,1,0,0,1,1,0,0,0,2,0,1,0,0,2,1,0,1,1,0
+UBC,2009,W,NURS,303,,001,ADULTS & FAMLIES,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn;Kowalski, Linda;Marshall, Helga",89,84.01,3.34,91,72,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,36,45,1
+UBC,2009,W,NURS,337,,005,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;Jennings,  Mary Lou;Marshall, Helga;Simpson, Margaret;Taverner, Tarnia",15,77.8,4.84,85,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,2,0
+UBC,2009,W,NURS,337,,006,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;Jennings,  Mary Lou;Marshall, Helga;Simpson, Margaret;Taverner, Tarnia",14,76.64,7.07,85,62,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,4,2,0
+UBC,2009,W,NURS,421,,002,NURS ROL COM,"Jackson, Cathryn;Valkenier, Beverley",55,86.33,3.92,94,76,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,29,12
+UBC,2009,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",37,70.5,19.75,94,15,24,4,5,0,4,0,1,1,1,1,4,1,0,0,2,4,5,0,7,2,3
+UBC,2009,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",27,81,11.53,90,68,3,0,4,0,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+UBC,2009,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",16,60,27.59,93,13,9,4,0,0,3,0,1,2,1,0,4,0,0,0,0,2,4,1,0,1,1
+UBC,2010,S,NURS,337,,941,ADLTS & FAMILIES,"Cunningham, Margaret Mui Yeah;Foster, Paula;Jackson, Cathryn;Simpson, Margaret;Taverner, Tarnia",16,79.81,5.99,87,61,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,9,2,0
+UBC,2010,S,NURS,460,,941,CONSLD PRCT EXP,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Simpson, Margaret;Tan, Elsie;Tognazzini, Paula;Valkenier, Beverley",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,PHIL,120,,98A,LOG & CRIT THINK,"Jackson, Howard",22,96,0,96,96,1,0,3,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UBC,2010,S,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",20,68.75,25.39,95,11,13,3,2,0,2,0,2,0,0,1,3,1,0,0,1,1,1,3,2,0,4
+UBC,2010,W,NURS,337,,256,ADLTS & FAMILIES,"Jackson, Cathryn;Taverner, Tarnia",40,78.8,4.8,89,67,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,15,15,3,0
+UBC,2010,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Ebbehoj, Catherine;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Tan, Elsie;Valkenier, Beverley",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard",35,63.04,23.43,89,0,18,5,11,0,1,1,0,1,2,1,5,2,1,1,1,2,2,2,5,2,0
+UBC,2010,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard",16,56.33,48.79,85,0,2,1,0,1,12,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+UBC,2010,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",20,58.9,22.71,86,12,8,2,1,0,9,0,1,1,0,0,2,0,1,2,1,0,3,0,0,1,0
+UBC,2011,S,ATSC,406,,921,OPRTL METEOROLGY,"JACKSON, PETER",9,82.5,6.44,91,74,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,2
+UBC,2011,S,NURS,337,,941,ADLTS & FAMILIES,"Cunningham, Margaret Mui Yeah;Foster, Paula;Jackson, Cathryn;Simpson, Margaret;Taverner, Tarnia",38,80.18,5.59,91,63,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,5,16,7,1
+UBC,2011,S,PHIL,120,,98A,LOG & CRIT THINK,"Jackson, Howard",29,,,,,0,0,7,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",15,65.9,23.33,93,25,8,2,1,1,3,0,0,1,1,0,2,1,0,0,1,0,2,0,2,1,1
+UBC,2011,W,NURS,337,,256,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",39,79.31,4.31,88,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,15,14,4,0
+UBC,2011,W,NURS,337,,434,ADLTS & FAMILIES,"Jackson, Cathryn",38,81.03,4.83,89,69,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,13,12,0
+UBC,2011,W,NURS,420,,003,ADLT ACUTE CONDN,"Affleck, Frances;Jackson, Cathryn;Marshall, Helga;Oliffe, John;Valkenier, Beverley",53,80.79,5.29,92,65,53,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,14,21,9,3
+UBC,2011,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Rodney, Patricia;Valkenier, Beverley",115,,,,,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHIL,120,,99A,LOG & CRIT THINK,"Jackson, Howard;Weiss, Max",26,72.24,23.09,92,0,19,2,4,0,1,1,1,0,0,0,2,0,0,0,2,1,4,1,5,4,2
+UBC,2011,W,PHIL,120,,99C,LOG & CRIT THINK,"Jackson, Howard;Weiss, Max",17,87.5,0.71,88,87,2,0,4,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+UBC,2011,W,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard;Weiss, Max",22,70.75,21.19,94,12,17,3,0,0,1,0,1,0,1,1,3,1,0,0,3,1,1,1,4,4,2
+UBC,2012,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",40,82.05,5.07,91,71,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,16,11,2
+UBC,2012,S,PHIL,120,,GIS,LOG & CRIT THINK,"Jackson, Howard",12,55.33,42.05,92,0,6,3,1,0,2,3,0,0,0,0,3,0,0,0,1,0,0,0,1,3,1
+UBC,2012,W,NURS,337,,256,ADLTS & FAMILIES,"Jackson, Cathryn;Taverner, Tarnia",41,82.73,4.61,92,72,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,17,11,3
+UBC,2012,W,NURS,337,,434,ADLTS & FAMILIES,"Jackson, Cathryn",39,80.41,9.88,94,30,38,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,3,8,16,7,3
+UBC,2012,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Marshall, Helga;Ricci, Joanne;Valkenier, Beverley",114,,,,,0,0,0,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,NURS,540,,002,EDUC PRC NURS,"Jackson, Cathryn",6,85.17,1.83,87,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+UBC,2013,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,85.4,3.56,93,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,10,2
+UBC,2013,S,NURS,337,,942,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,81.65,4.57,89,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,6,0
+UBC,2013,W,NURS,302,,001,FNDTN NURS PRACT,"Boschma, Geertje;Brown, Helen Jean;Camacho, Sarah;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Valkenier, Beverley",118,84.01,4.45,94,71,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,10,41,53,9
+UBC,2013,W,NURS,303,,001,ADULTS & FAMLIES,"Jackson, Cathryn;Jetha, Farah;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Segaric, Cheryl;Valkenier, Beverley",119,83.56,3.71,91,74,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16,48,47,4
+UBC,2013,W,NURS,337,,256,ADLTS & FAMILIES,"Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Mislang, Jonathan;Valkenier, Beverley",40,79.48,3.96,88,71,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,14,14,5,0
+UBC,2013,W,NURS,337,,434,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,80.87,6.34,92,57,38,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,5,17,7,2
+UBC,2013,W,NURS,420,,002,ADLT ACUTE CONDN,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mislang, Jonathan;Oliffe, John;Rea, Gail;Valkenier, Beverley",48,81.88,10.84,95,19,47,1,0,0,0,0,1,0,0,0,1,0,0,0,0,2,2,7,16,13,7
+UBC,2013,W,NURS,540,,99A,EDUC PRC NURS,"Jackson, Cathryn",14,85.71,5.77,95,79,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,4
+UBC,2014,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",40,84.13,4.5,92,76,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,14,4
+UBC,2014,W,NURS,302,,001,FNDTN NURS PRACT,"Affleck, Frances;Boschma, Geertje;Brown, Helen Jean;Foster, Paula;Jackson, Cathryn;McBurney, Sheila Mary;Rea, Gail;Thorne, Sally",120,87.02,5.45,95,47,118,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,6,19,56,37
+UBC,2014,W,NURS,303,,001,ADULTS & FAMLIES,"Affleck, Frances;Foster, Paula;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Rea, Gail;Segaric, Cheryl",121,85.43,5.06,94,50,120,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,7,35,59,17
+UBC,2014,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,79.85,3.96,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,3,0
+UBC,2014,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,81.25,4.72,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,5,6,0
+UBC,2014,W,NURS,334,,405,INFNT CHLD YOUTH,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Tan, Elsie;Valkenier, Beverley",20,83.3,5.3,94,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,4,3
+UBC,2014,W,NURS,334,,406,INFNT CHLD YOUTH,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Tan, Elsie;Valkenier, Beverley",20,82,4.91,90,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,10,4,2
+UBC,2014,W,NURS,335,,401,ADLT MNTL ILLNSS,"Groening, Marlee;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,79.95,4.13,86,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,9,2,0
+UBC,2014,W,NURS,335,,402,ADLT MNTL ILLNSS,"Groening, Marlee;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,76.16,3.62,82,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,4,5,0,0
+UBC,2014,W,NURS,336,,401,COMMNTY & POPLTN,"Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Ricci, Joanne;Valkenier, Beverley",19,84.84,4.68,93,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,11,2
+UBC,2014,W,NURS,336,,402,COMMNTY & POPLTN,"Dhari, Ranjit Kaur;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",19,83.05,4.2,89,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,8,0
+UBC,2014,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,82.37,4.66,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,16,13,1
+UBC,2015,W,NURS,302,,001,FNDTN NURS PRACT,"Jackson, Cathryn",120,82.75,4.39,92,73,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,25,45,38,7
+UBC,2016,S,BIOL,300,,921,FUND OF BIOSTATS,"Jackson, Keith",87,74.7,15,94,0,83,3,1,0,0,2,0,0,0,1,3,1,2,6,5,12,6,12,22,11,6
+UBC,2016,S,NURS,541,,941,CLIN NURSE EDUC,"Jackson, Cathryn",7,88,4.4,93,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4
+UBC,2016,W,NURS,302,,001,FNDTN NURS PRACT,"Jackson, Cathryn;O'Flynn-Magee, Katherine",120,80.64,3.8,89,70,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,51,23,0
+UBC,2017,S,BIOL,300,,921,FUND OF BIOSTATS,"Jackson, Keith",103,74.48,12.65,95,27,97,5,1,0,0,0,0,1,0,4,5,4,1,10,5,10,12,14,19,14,8
+UBC,2017,W,NURS,321,,001,SKLLS CMPTNCS I,"Jackson, Cathryn",121,,,,,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,NURS,322,,002,SKLLS CMPTNCS II,"Jackson, Cathryn",125,,,,,0,0,1,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,BIOL,300,,921,FUND OF BIOSTATS,"Jackson, Keith",79,75.09,11.87,96,46,75,2,2,0,0,0,0,0,0,2,2,3,5,5,6,5,4,16,18,5,8
+UBC,2018,S,NURS,323,,941,SKLLS CMPTNC III,"Jackson, Cathryn",121,,,,,0,0,1,0,120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,NURS,321,,001,SKLLS CMPTNCS I,"Jackson, Cathryn",119,,,,,0,0,5,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,NURS,322,,002,SKLLS CMPTNCS II,"Jackson, Cathryn",113,,,,,0,0,0,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,NURS,401,,001,SKLLS CMPTNCS IV,"Jackson, Cathryn",117,,,,,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,NURS,402,,002,SKLLS CMPTNCS V,"Jackson, Cathryn",117,,,,,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

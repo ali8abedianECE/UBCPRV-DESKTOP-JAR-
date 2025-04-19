@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,215,,104,ELEM DIFF EQ I,"Daskalakis, Emmanouil",62,70,16.8,100,16,54,5,1,0,2,0,1,0,0,4,5,6,4,4,3,9,4,7,7,3,7
+UBC,2016,W,MATH,255,,104,ORD DIFF EQUTNS,"Daskalakis, Emmanouil",43,84.54,9.42,100,59,41,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,4,3,10,8,13
+UBCV,2016,W,MATH,215,,104,Elementary Differential Equations I,Emmanouil Daskalakis;Richard Gerd Froese,61,68.13114754,19.53840271,100.0,2.0,,,,,,,,,,,7,6,4,4,3,9,4,7,7,3,7
+UBCV,2016,W,MATH,255,,104,Ordinary Differential Equations,Emmanouil Daskalakis;Richard Gerd Froese,42,83.0,13.62565729,100.0,20.0,,,,,,,,,,,1,0,1,0,1,1,4,3,10,8,13

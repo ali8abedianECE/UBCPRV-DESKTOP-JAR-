@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Wilson, Eric",19,88.21,1.87,92,85,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,4,,,
+UBC,2011,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",7,88.57,1.27,91,87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,,,
+UBC,2012,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey;Wilson, Eric",13,88.58,7.76,94,75,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,8,,,
+UBC,2012,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",5,91.6,5.18,96,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,,,
+UBC,2013,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey;Wilson, Eric",15,85.13,2.95,90,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,1,,,
+UBC,2014,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",8,89.63,2.26,92,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,,,
+UBC,2014,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",7,90.43,2.57,94,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,,,
+UBC,2015,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",17,93.35,1.46,95,89,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,,,
+UBC,2016,W,MUSC,162,A,001,WIND&PERC CH ENS,"Bortolussi, Paolo;Girard, Jonathan",20,86.5,4.26,97,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,13,3,,,
+UBC,2016,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",9,89.44,1.88,92,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,,,
+UBC,2016,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",4,89.5,3.7,92,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2017,W,MUSC,162,A,001,WIND&PERC CH ENS,"Bortolussi, Paolo;Franch Ballester, Jose;Taylor, Robert",15,85.87,4.41,92,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,4,,,
+UBC,2017,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Hamm, Corey",12,90.92,3.73,94,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,,,
+UBC,2017,W,MUSC,563,,001,CONTEMP PLAYERS,"Bortolussi, Paolo;Hamm, Corey",4,89.25,2.87,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2018,W,MUSC,163,,001,CONTEM PLAYERS,"Bortolussi, Paolo;Gillham, David;Hamm, Corey",14,86.86,1.92,90,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3,,,
+UBCV,2014,W,MUSC,163,,001,Contemporary Players,Corey Hamm;Laine Longton;Paolo Bortolussi,8,89.625,2.263846285,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2014,W,MUSC,563,,001,Contemporary Players,Corey Hamm;Paolo Bortolussi,7,90.42857143,2.572750983,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MUSC,163,,001,Contemporary Players,Aaron Graham;Corey Hamm;Paolo Bortolussi,17,93.352941176,1.45521375,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2016,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jonathan Girard;Julia Nolan;Kuang-Yuan Hung;Paolo Bortolussi,20,86.5,4.261208131,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,13,3,,,
+UBCV,2016,W,MUSC,163,,001,Contemporary Players,Corey Hamm;Laine Longton;Paolo Bortolussi,9,89.44444444,1.878237945,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5,,,
+UBCV,2017,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jonathan Girard;Jose Franch Ballester;Kuang-Yuan Hung;Paolo Bortolussi;Robert Taylor,15,85.866666667,4.405624111,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,6,4,,,
+UBCV,2017,W,MUSC,163,,001,Contemporary Players,Corey Hamm;Laine Longton;Paolo Bortolussi,12,90.916666667,3.728473569,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,10,,,
+UBCV,2018,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jose Franch Ballester;Paolo Bortolussi;Robert Taylor,20,84.2,6.169534658,94.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,3,4,9,3,,,
+UBCV,2018,W,MUSC,163,,001,Contemporary Players,Corey Hamm;David Gillham;Oskar Falta;Paolo Bortolussi;Ramsey Sadaka;Susan Xia,14,86.857142857,1.915810447,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,3,,,
+UBCV,2019,W,MUSC,163,,001,Contemporary Players,Corey Hamm;David Gillham;Paolo Bortolussi;Ramsey Sadaka,13,89.307692308,1.84321347,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,6,,,
+UBCV,2019,W,MUSC,563,,001,Contemporary Players,Corey Hamm;David Gillham;Paolo Bortolussi,6,91.666666667,2.065591118,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2020,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi;Ramsey Sadaka,10,89.9,2.282785822,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,5,,,
+UBCV,2021,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi;Ramsey Sadaka,13,87.923076923,2.722178615,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,4,,,
+UBCV,2021,W,MUSC,563,,001,Contemporary Players,Paolo Bortolussi;Ramsey Sadaka,9,90.111111111,3.295619989,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,3,,,
+UBCV,2021,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi,13,87.9,,93.0,84.0,,,,,,,,,,,,,,,,,,,,7,,88.0,90.0,86.0
+UBCV,2021,W,MUSC,563,,001,Contemporary Players,Paolo Bortolussi,9,90.1,,98.0,88.0,,,,,,,,,,,,,,,,,,,,6,,89.0,91.0,88.0
+UBCV,2022,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi,9,92.1,,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,92.0,93.0,91.0
+UBCV,2022,W,MUSC,563,,001,Contemporary Players,Paolo Bortolussi,8,92.0,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,90.0,93.5,90.0
+UBCV,2023,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Paolo Bortolussi;Jose Franch Ballester,15,91.5,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,14,92.0,94.0,90.0
+UBCV,2023,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi,12,92.8,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,92.0,94.0,91.0

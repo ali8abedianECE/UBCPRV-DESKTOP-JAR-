@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,CHIN,101,,002,BASIC CHIN I 1,"Chen, Hsueh-Ni",26,84.24,7.53,95,73,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0,3,9
+UBC,2010,W,CHIN,101,,004,BASIC CHIN I 1,"Chen, Hsueh-Ni",24,83.79,7.54,95,76,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,10
+UBC,2010,W,CHIN,103,,002,BASIC CHIN I 2,"Chen, Hsueh-Ni",24,82.58,7.88,94,65,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,13,0,2,8
+UBC,2010,W,CHIN,103,,004,BASIC CHIN I 2,"Chen, Hsueh-Ni",22,80.82,9.03,95,62,22,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,8,0,4,5
+UBC,2010,W,CHIN,115,,002,BASIC CHIN II 1,"Chen, Hsueh-Ni",12,83.83,6.63,93,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,2,4
+UBC,2010,W,CHIN,117,,002,BASIC CHIN II 2,"Chen, Hsueh-Ni",18,82.22,6.95,93,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,0,1,6
+UBC,2011,W,CHIN,101,,001,BASIC CHIN I 1,"Chen, Hsueh-Ni",27,77.77,10.7,91,37,25,1,0,1,0,0,0,0,1,0,1,0,0,0,2,0,3,9,5,3,3
+UBC,2011,W,CHIN,101,,002,BASIC CHIN I 1,"Chen, Hsueh-Ni",23,79.5,7.73,92,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,2,7,1,5,3
+UBC,2011,W,CHIN,101,,005,BASIC CHIN I 1,"Chen, Hsueh-Ni",27,79.85,7.38,91,64,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,9,4,6,3
+UBC,2011,W,CHIN,103,,001,BASIC CHIN I 2,"Chen, Hsueh-Ni",25,80.67,6.69,92,65,24,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,13,1,5,3
+UBC,2011,W,CHIN,103,,002,BASIC CHIN I 2,"Chen, Hsueh-Ni",29,80.11,7.71,93,66,27,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,4,10,0,5,5
+UBC,2011,W,CHIN,103,,005,BASIC CHIN I 2,"Chen, Hsueh-Ni",25,80.96,9.39,93,50,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,11,0,3,7
+UBC,2018,W,CHIN,441,,001,AD CHIN R&WR I,"Chen, Hsueh-Ni",30,81.5,6.03,92,71,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,8,6,4
+UBC,2018,W,CHIN,445,,002,CHIN SPK&WRT I,"Chen, Hsueh-Ni",23,82.09,5.69,93,71,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,4,4,3
+UBCV,2018,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Deyu Liu;Hsueh-Ni Chen;Jiao Jiao Han;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xinxin Wu,28,80.928571429,8.008923595,91.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,5,7,9,2
+UBCV,2018,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Chien-Ju Lin;Hsueh-Ni Chen;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,23,83.0,8.893306983,94.0,61.0,,,,,,,,,,,0,0,0,1,0,1,4,1,3,7,6
+UBCV,2018,W,CHIN,241,,001,Basic Chinese II: Part 1 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Qian Wang;Tianming Li;Zhenyi Zhou,31,77.967741935,9.016591636,92.0,55.0,,,,,,,,,,,0,0,1,2,2,1,3,9,6,5,2
+UBCV,2018,W,CHIN,243,,001,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Junjie Lin;Qian Wang;Qijiang Zhao;Tianming Li,28,70.964285714,12.001488003,90.0,36.0,,,,,,,,,,,1,1,2,3,2,4,3,4,5,2,1
+UBCV,2018,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Hsiang-Ning Wang;Hsueh-Ni Chen;Junjie Lin;Qian Wang;Tianming Li;Yudan Wang,12,78.916666667,8.284249385,86.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,3,3,4,0
+UBCV,2018,W,CHIN,441,,001,Advanced Chinese Reading and Writing I (Heritage),Hsueh-Ni Chen;Qian Wang;Zhining Zheng,30,81.5,6.027237029,92.0,71.0,,,,,,,,,,,0,0,0,0,0,2,3,7,8,6,4
+UBCV,2018,W,CHIN,443,,001,Advanced Chinese Reading and Writing II (Heritage),Hsueh-Ni Chen;Qian Wang;Qianyu Li;Zhining Zheng;Zhuo Sun,25,77.8,8.341662504,94.0,61.0,,,,,,,,,,,0,0,0,2,1,3,2,7,6,3,1
+UBCV,2018,W,CHIN,445,,002,Advanced Chinese Speaking and Writing I (Heritage),Hsueh-Ni Chen;Maorong Cheng;Qian Wang,23,82.086956522,5.688209844,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,11,4,4,3
+UBCV,2019,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Hsueh-Ni Chen;Qian Wang;Siyu Liu,9,79.333333333,14.781745499,91.0,50.0,,,,,,,,,,,0,1,0,1,0,1,0,0,1,3,2
+UBCV,2019,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Hsiang-Ning Wang;Hsueh-Ni Chen;Qian Wang,8,80.375,8.314144574,90.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,1,2,2,1
+UBCV,2019,W,CHIN,131,,011,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Hsueh-Ni Chen;Jun Wu;Qian Wang;Shiyang Zhang;Ying-Hua Tsai,26,87.615384615,3.250562082,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,16,7
+UBCV,2019,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),An-Yi Lee;Hsueh-Ni Chen;Jingjing Yi;Jun Wu;Menghan Gao;Pi-Hua Lin;Qian Wang;Tianmu Ji,20,79.1,12.247018971,92.0,50.0,,,,,,,,,,,0,2,0,1,1,0,1,1,4,9,1
+UBCV,2019,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Jingjing Yi;Jun Wu;Menghan Gao;Qian Wang;Tianmu Ji;Xinxin Wu;Ying-Hua Tsai;Yushu Deng,13,88.384615385,5.346937777,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,4,7
+UBCV,2019,W,CHIN,133,,009,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Qian Wang;Xinxin Wu;Yushu Deng,23,80.347826087,16.929287951,95.0,14.0,,,,,,,,,,,1,0,0,2,0,0,2,3,2,10,3
+UBCV,2019,W,CHIN,243,,001,Basic Chinese II: Part 2 (Heritage),Connie Huang;Hsiang-Ning Wang;Hsueh-Ni Chen;Qian Wang,25,78.52,6.513575567,88.0,57.0,,,,,,,,,,,0,0,1,0,0,1,4,5,11,3,0
+UBCV,2019,W,CHIN,415,,002,Media Chinese I (Heritage),Hsueh-Ni Chen;Qian Wang,20,78.35,18.868729352,88.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,5,7,6,0
+UBCV,2019,W,CHIN,441,,001,Advanced Chinese Reading and Writing I (Heritage),Hsueh-Ni Chen;Qian Wang,20,80.75,8.422244981,90.0,55.0,,,,,,,,,,,0,0,1,0,1,0,2,5,3,7,1
+UBCV,2019,W,CHIN,443,,001,Advanced Chinese Reading and Writing II (Heritage),Hsueh-Ni Chen;Qian Wang;Yushu Deng,15,83.2,4.88730133,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,4,7,0
+UBCV,2019,W,CHIN,445,,002,Advanced Chinese Speaking and Writing I (Heritage),Hsueh-Ni Chen;Qian Wang,10,79.3,9.333928552,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,2,2,1,2
+UBCV,2020,S,CHIN,144,,921,Intensive Basic Chinese I (Heritage),Hsueh-Ni Chen;Meng Zhang;Qian Wang,7,86.428571429,5.593363414,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,1,3
+UBCV,2020,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Hsiang-Ning Wang;Hsueh-Ni Chen;Meng Zhang;Qian Wang,8,86.375,4.138236339,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,3
+UBCV,2020,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Hsueh-Ni Chen;Jiaqi Shi;Ni An;Qian Wang;Shiyang Zhang;Yijun Yue;Ying-Hua Tsai;Yu Jia Sun;Yudan Wang,19,86.473684211,8.720145393,94.0,70.0,,,,,,,,,,,0,0,0,0,0,3,0,1,1,3,11
+UBCV,2020,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Hsueh-Ni Chen;Jiaqi Shi;Li-Jung Lee;Ni An;Qian Wang;Shiyang Zhang;Yijun Yue;Yu Jia Sun;Yudan Wang,12,86.25,7.225271307,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,3,4
+UBCV,2020,W,CHIN,133,,009,Basic Chinese I: Part 2 (Non-Heritage),Congrui Gu;Hsueh-Ni Chen;Qian Wang,28,87.428571429,5.971714633,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,2,4,5,15
+UBCV,2020,W,CHIN,415,,001,Media Chinese I (Heritage),Hsueh-Ni Chen;Qian Wang;Zibin Xu,29,87.103448276,3.857690164,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,16,7
+UBCV,2020,W,CHIN,441,,001,Advanced Chinese Reading and Writing I (Heritage),Hsueh-Ni Chen;Qian Wang;Zibin Xu,28,88.428571429,3.468680734,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,15,12
+UBCV,2020,W,CHIN,443,,001,Advanced Chinese Reading and Writing II (Heritage),Hsueh-Ni Chen;Qian Wang;Zibin Xu,28,88.071428571,5.456417027,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,9,17
+UBCV,2021,S,CHIN,144,,921,Intensive Basic Chinese I (Heritage),Hsueh-Ni Chen;Qian Wang,9,89.222222222,2.333333333,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5
+UBCV,2021,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Hsueh-Ni Chen;Qian Wang;Qing Yuan Ma,12,82.5,9.150260801,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,4,3,2
+UBCV,2021,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Junyi Zhang;Pi-Hua Lin;Qing Yuan Ma;Rui Xu;Shiang-Han Lin,22,76.454545455,9.883739762,90.0,56.0,,,,,,,,,,,0,0,1,2,1,4,1,2,7,2,2
+UBCV,2021,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Khushi Patil;Qing Yuan Ma;Yi Chen,24,72.5,16.078611231,89.0,7.0,,,,,,,,,,,1,0,1,1,1,4,5,3,6,2,0
+UBCV,2021,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Pi-Hua Lin;Qing Yuan Ma,13,81.0,6.91616464,87.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,2,7,3,0
+UBCV,2021,W,CHIN,133,,009,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Qing Yuan Ma;Shiang-Han Lin;Yuting Huang,23,78.304347826,7.201229583,90.0,65.0,,,,,,,,,,,0,0,0,0,2,3,2,6,4,5,1
+UBCV,2021,W,CHIN,388,,001,Introduction to Classical Chinese I (Non-Heritage),Hsueh-Ni Chen;Kay Jane Duffy;Xiaowen Xu,7,79.714285714,20.467163016,94.0,37.0,,,,,,,,,,,1,0,0,0,0,0,1,0,1,1,3
+UBCV,2021,W,CHIN,415,,001,Media Chinese I (Heritage),Hsueh-Ni Chen,26,78.730769231,17.96787732,96.0,0.0,,,,,,,,,,,1,0,0,0,1,3,2,5,2,8,4
+UBCV,2021,W,CHIN,441,,001,Advanced Chinese Reading and Writing I (Heritage),Hsueh-Ni Chen,19,86.789473684,5.234277488,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,9,5
+UBCV,2021,W,CHIN,443,,001,Advanced Chinese Reading and Writing II (Heritage),Hsueh-Ni Chen;Yi-Yi Chen;Yuwei Hu,30,75.466666667,5.38025338,85.0,64.0,,,,,,,,,,,0,0,0,0,2,5,6,9,6,2,0

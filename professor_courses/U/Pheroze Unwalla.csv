@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,HIST,105,,201,CONT GLBL ISSUES,"Unwalla, Pheroze",68,72.91,16.22,93,0,60,4,1,1,0,1,0,2,1,0,4,0,1,4,4,10,9,7,12,11,2,,,
+UBC,2017,W,HIST,402,A,101,PRBS INTRNL RELN,"Unwalla, Pheroze",47,81.26,5.88,91,68,43,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,4,9,13,12,3,,,
+UBC,2017,W,HIST,403,B,201,INTRNATNL RELTNS,"Unwalla, Pheroze",17,78.24,7.8,88,57,17,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,4,5,3,0,,,
+UBC,2018,W,HIST,104,G,V01,TPCS WORLD HIST,"Unwalla, Pheroze",77,68.21,9.78,85,25,75,2,0,0,0,0,0,1,0,1,2,4,4,4,18,15,13,12,4,1,0,,,
+UBC,2018,W,HIST,104,G,V02,TPCS WORLD HIST,"Unwalla, Pheroze",69,70.19,12.13,91,0,68,1,0,0,0,1,0,0,0,0,1,3,4,4,11,10,13,14,5,3,1,,,
+UBC,2018,W,HIST,105,D,201,CONT GLBL ISSUES,"Unwalla, Pheroze",67,73.24,12.02,90,40,62,4,0,1,0,0,0,0,0,4,4,3,4,1,1,10,6,16,10,10,1,,,
+UBC,2018,W,HIST,105,G,V01,CONT GLBL ISSUES,"Unwalla, Pheroze",74,72.48,10.03,90,42,72,1,1,0,0,0,0,0,0,1,1,5,1,6,4,12,13,16,6,8,1,,,
+UBC,2018,W,HIST,105,G,V02,CONT GLBL ISSUES,"Unwalla, Pheroze",65,74.95,7.31,92,58,65,0,0,0,0,0,0,0,0,0,0,0,1,3,6,9,18,12,9,5,2,,,
+UBC,2018,W,HIST,403,B,101,INTRNATNL RELTNS,"Unwalla, Pheroze",20,75.79,12.19,90,36,18,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,6,3,2,4,1,,,
+UBCV,2017,W,HIST,105,,201,Contemporary Global Issues in Historical Perspective,Niping Yan;Pheroze Unwalla,66,73.0,16.003845692,93.0,0.0,,,,,,,,,,,4,0,1,4,4,11,9,7,13,11,2,,,
+UBCV,2017,W,HIST,402,A,101,Problems in International Relations,Pheroze Unwalla,45,80.222222222,7.540463239,91.0,55.0,,,,,,,,,,,0,0,1,1,0,2,4,9,13,12,3,,,
+UBCV,2017,W,HIST,403,B,201,Seminar in the History of International Relations,Pheroze Unwalla,17,78.235294118,7.798472701,88.0,57.0,,,,,,,,,,,0,0,,,1,1,2,4,5,3,0,,,
+UBCV,2018,W,HIST,104,G,V01,Topics in World History,Caitlin Scharf-Way;Charles Chambers;Charles Duncan Chambers;Pheroze Unwalla,77,68.207792208,9.780939658,85.0,25.0,,,,,,,,,,,2,4,4,4,18,15,13,12,4,1,0,,,
+UBCV,2018,W,HIST,104,G,V02,Topics in World History,Emily Leischner;Katherine Wallace;Pheroze Unwalla,68,71.220588235,8.645325867,91.0,51.0,,,,,,,,,,,0,3,4,4,11,10,13,14,5,3,1,,,
+UBCV,2018,W,HIST,105,D,201,Contemporary Global Issues in Historical Perspective,Archa Neelakandan Girija;Pheroze Unwalla,66,73.242424242,12.021852674,90.0,40.0,,,,,,,,,,,4,3,4,1,1,10,6,16,10,10,1,,,
+UBCV,2018,W,HIST,105,G,V01,Contemporary Global Issues in Historical Perspective,Caitlin Scharf-Way;Charles Chambers;Charles Duncan Chambers;Pheroze Unwalla,73,72.479452055,10.026505968,90.0,42.0,,,,,,,,,,,1,5,1,6,4,12,13,16,6,8,1,,,
+UBCV,2018,W,HIST,105,G,V02,Contemporary Global Issues in Historical Perspective,Ataollah Heshmati;Katherine Wallace;Pheroze Unwalla,65,74.953846154,7.306740829,92.0,58.0,,,,,,,,,,,0,0,1,3,6,9,18,12,9,5,2,,,
+UBCV,2018,W,HIST,403,B,101,Seminar in the History of International Relations,Pheroze Unwalla,20,78.6,7.500175437,90.0,60.0,,,,,,,,,,,0,0,0,1,1,0,6,3,3,5,1,,,
+UBCV,2019,W,HIST,104,G,V01,Topics in World History,Heather Ryan;Jacob Goldowitz;Pheroze Unwalla;Simone Senna,67,77.895522388,7.143834656,88.0,43.0,,,,,,,,,,,1,0,0,2,2,4,8,20,23,7,0,,,
+UBCV,2019,W,HIST,104,G,V02,Topics in World History,Heather Ryan;Hilal Kina;Pheroze Unwalla,71,76.281690141,6.603425731,90.0,54.0,,,,,,,,,,,0,1,0,5,0,6,16,20,19,3,1,,,
+UBCV,2019,W,HIST,105,G,V01,Contemporary Global Issues in Historical Perspective,Emily Leischner;Heather Ryan;Pheroze Unwalla;Simone Senna;Tucker Sharon,66,84.560606061,6.152244838,95.0,65.0,,,,,,,,,,,0,0,0,0,1,1,6,6,13,25,14,,,
+UBCV,2019,W,HIST,105,G,V02,Contemporary Global Issues in Historical Perspective,Heather Ryan;Hilal Kina;Juan Felipe Hernandez Gomez;Pheroze Unwalla;Tucker Sharon,71,82.197183099,10.072054292,95.0,17.0,,,,,,,,,,,1,0,1,0,1,1,4,12,19,22,10,,,
+UBCV,2019,W,HIST,421,A,101,Honours Tutorial,Coll Thrush;Pheroze Unwalla,6,84.5,4.929503018,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,4,0,,,
+UBCV,2020,W,HIST,104,G,V01,Topics in World History,Aaron Wilford;Mina Rigby-Thompson;Pheroze Unwalla,71,69.943661972,13.555059492,85.0,0.0,,,,,,,,,,,3,3,0,7,6,13,11,16,10,2,0,,,
+UBCV,2020,W,HIST,105,G,V01,Contemporary Global Issues in Historical Perspective,Henry John;Henry Richard Lawrence John;Pheroze Unwalla;Sanad Tabbaa,70,69.328571429,16.430548985,87.0,0.0,,,,,,,,,,,4,1,0,7,7,17,10,7,11,6,0,,,
+UBCV,2020,W,HIST,352,,101,Modern Middle Eastern Histrory,Pheroze Unwalla;Sanad Tabbaa,65,76.461538462,9.555883206,91.0,53.0,,,,,,,,,,,0,1,1,5,8,4,8,11,11,12,4,,,
+UBCV,2020,W,HIST,403,F,201,Seminar in the History of International Relations,Pheroze Unwalla,15,76.533333333,12.240837195,90.0,42.0,,,,,,,,,,,1,0,0,1,0,3,0,3,3,3,1,,,
+UBCV,2020,W,HIST,421,A,101,Honours Tutorial,Kelly Mccormick;Pheroze Unwalla,6,85.0,3.16227766,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,0,,,
+UBCV,2020,W,MES,300,,001,The Middle East: Critical Questions and Debates,Ibrahim Bin Daair;Pheroze Unwalla,45,74.466666667,20.802753314,90.0,0.0,,,,,,,,,,,3,0,0,0,2,0,7,12,12,8,1,,,
+UBCV,2021,W,HIST,105,B,101,Contemporary Global Issues in Historical Perspective,Jane Willsie;Nila Utami;Pheroze Unwalla,96,76.697916667,13.427481475,93.0,5.0,,,,,,,,,,,4,1,1,3,2,5,11,18,27,22,2,,,
+UBCV,2021,W,HIST,352,,101,Modern Middle Eastern History,Pheroze Unwalla;Sanad Tabbaa,59,76.254237288,15.04544062,91.0,0.0,,,,,,,,,,,2,1,0,1,0,4,12,10,17,10,2,,,
+UBCV,2021,W,HIST,403,E,201,Seminar in the History of International Relations,David Gossen;Pheroze Unwalla,18,79.166666667,7.927984686,93.0,61.0,,,,,,,,,,,0,0,0,1,1,0,2,6,4,2,2,,,
+UBCV,2021,W,MES,300,,001,The Middle East: Critical Questions and Debates,Pheroze Unwalla;Sanad Tabbaa,40,74.875,16.05149965,91.0,0.0,,,,,,,,,,,2,1,0,1,2,5,6,5,9,6,3,,,
+UBCV,2021,W,HIST,105,B,101,Contemporary Global Issues in Historical Perspective,Pheroze Unwalla,96,76.7,,93.0,5.0,,,,,,,,,,,,,,,,,11,18,27,22,,80.0,84.3,74.0
+UBCV,2021,W,HIST,352,,101,Modern Middle Eastern History,Pheroze Unwalla,59,76.3,,91.0,0.0,,,,,,,,,,,,,,,,,12,10,17,10,,79.0,83.0,74.0
+UBCV,2021,W,HIST,403,E,201,Seminar in the History of International Relations,Pheroze Unwalla,18,79.2,,93.0,61.0,,,,,,,,,,,,,,,,,,6,,,,79.0,83.0,76.0
+UBCV,2022,W,HIST,105,B,201,Contemporary Global Issues in Historical Perspective,Pheroze Unwalla,88,76.3,,90.0,26.0,,,,,,,,,,,1,0,1,5,3,7,13,28,19,9,2,78.0,81.0,73.0
+UBCV,2022,W,HIST,352,,101,Modern Middle Eastern History,Pheroze Unwalla,66,73.2,,90.0,0.0,,,,,,,,,,,3,0,1,2,5,9,11,12,12,9,2,77.0,81.0,70.0
+UBCV,2022,W,HIST,403,E,101,Seminar in the History of International Relations,Pheroze Unwalla,17,73.4,,88.0,30.0,,,,,,,,,,,1,0,3,0,0,0,2,5,3,3,0,77.0,83.0,73.0
+UBCV,2022,W,MES,300,,001,The Middle East: Critical Questions and Debates,Pheroze Unwalla,27,79.4,,92.0,54.0,,,,,,,,,,,0,1,0,0,0,1,2,7,11,4,1,80.0,83.0,77.0
+UBCV,2023,W,HIST,105,B,201,Contemporary Global Issues in Historical Perspective,Pheroze Unwalla,50,76.6,,92.0,46.0,,,,,,,,,,,1,2,1,1,1,6,6,6,12,9,2,78.0,83.5,72.0
+UBCV,2023,W,HIST,403,E,101,Seminar in the History of International Relations,Pheroze Unwalla,17,78.6,,89.0,59.0,,,,,,,,,,,0,0,1,1,0,2,2,2,3,6,0,80.0,85.0,73.0
+UBCV,2023,W,MES,300,,202,The Middle East: Critical Questions and Debates,Pheroze Unwalla,43,77.56,,90.0,0.0,,,,,,,,,,,1,0,2,0,3,1,3,6,9,13,1,82.0,85.5,77.0

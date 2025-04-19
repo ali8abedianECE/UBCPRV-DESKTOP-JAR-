@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,CHIN,105,,004,BASIC CHIN II 1,"Kuo, Yu-Chi",14,75.36,11.06,89,51,14,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,3,2,3,0
+UBC,2012,W,CHIN,107,,004,BASIC CHIN II 2,"Kuo, Yu-Chi",17,78.06,6.29,89,70,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5,4,2,3,0
+UBC,2012,W,CHIN,113,,001,BASIC CHIN I 2,"Kuo, Yu-Chi",10,78.44,6.82,86,65,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,1,3,0
+UBC,2012,W,CHIN,113,,003,BASIC CHIN I 2,"Kuo, Yu-Chi",14,77.54,6.08,89,67,13,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,5,3,1,0
+UBC,2012,W,CHIN,201,,001,INT CHINESE I: 1,"Kuo, Yu-Chi",24,73,14.61,86,15,22,1,0,1,0,0,1,0,0,0,1,0,0,2,2,2,2,7,4,3,0
+UBC,2012,W,CHIN,203,,001,INT CHINESE I: 2,"Kuo, Yu-Chi",18,75.94,7.59,88,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,3,2,3,0
+UBC,2013,W,CHIN,101,,008,BASIC CHIN I 1,"Kuo, Yu-Chi",20,71.26,16.17,89,30,17,2,0,1,0,0,0,0,2,0,2,0,0,3,1,2,1,4,3,3,0
+UBC,2013,W,CHIN,101,,010,BASIC CHIN I 1,"Kuo, Yu-Chi",25,72.74,12.96,89,35,22,1,0,2,0,0,0,0,1,0,1,0,0,6,1,1,1,6,2,5,0
+UBC,2013,W,CHIN,103,,008,BASIC CHIN I 2,"Kuo, Yu-Chi",16,75.92,8.7,89,55,13,0,0,3,0,0,0,0,0,0,0,0,1,0,0,1,4,3,2,2,0
+UBC,2013,W,CHIN,105,,003,BASIC CHIN II 1,"Kuo, Yu-Chi",15,73.86,9.76,89,60,14,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,3,3,2,2,0
+UBC,2013,W,CHIN,107,,003,BASIC CHIN II 2,"Kuo, Yu-Chi",13,77,9.8,89,61,13,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,2,2,4,0
+UBC,2013,W,CHIN,201,,002,INT CHINESE I: 1,"Kuo, Yu-Chi",13,72.38,8.83,89,60,13,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,1,3,0,2,0
+UBC,2016,W,CHIN,131,,003,BASIC CHIN I 1,"Kuo, Yu-Chi",22,72.35,13.52,87,30,19,1,2,0,0,0,0,0,1,0,1,1,0,1,1,3,4,3,2,4,0
+UBC,2016,W,CHIN,131,,009,BASIC CHIN I 1,"Kuo, Yu-Chi",25,73.57,18.18,92,0,22,1,2,0,0,1,0,0,0,0,1,0,0,1,3,2,3,6,2,4,1
+UBC,2016,W,CHIN,131,,010,BASIC CHIN I 1,"Kuo, Yu-Chi",28,74.83,10.54,89,50,24,0,3,1,0,0,0,0,0,0,0,2,0,1,0,5,5,3,2,6,0
+UBC,2016,W,CHIN,231,,001,BASIC CHIN II 1,"Kuo, Yu-Chi",27,74.11,9.35,88,50,27,0,0,0,0,0,0,0,0,0,0,1,0,2,5,2,2,7,5,3,0
+UBC,2016,W,CHIN,233,,001,BASIC CHIN II 2,"Kuo, Yu-Chi",26,75.63,9.88,90,60,24,0,2,0,0,0,0,0,0,0,0,0,0,5,1,2,2,5,4,4,1
+UBC,2017,W,CHIN,131,,008,BASIC CHIN I 1,"Kuo, Yu-Chi;Lin, Pi-Hua",22,84.68,11.36,94,40,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,5,5,9
+UBC,2017,W,CHIN,231,,002,BASIC CHIN II 1,"Kuo, Yu-Chi",30,76.68,8.66,92,60,28,0,0,2,0,0,0,0,0,0,0,0,0,4,0,2,3,9,5,3,2
+UBC,2017,W,CHIN,233,,002,BASIC CHIN II 2,"Kuo, Yu-Chi",28,75.15,11.89,91,35,26,1,0,1,0,0,0,0,1,0,1,1,0,2,0,2,5,4,9,1,2
+UBC,2017,W,CHIN,331,,001,INT CHINESE I: 1,"Kuo, Yu-Chi",22,75.05,9.3,87,50,21,0,0,1,0,0,0,0,0,0,0,1,0,2,0,2,2,8,4,2,0
+UBC,2017,W,CHIN,333,,001,INT CHINESE I: 2,"Kuo, Yu-Chi",30,72.68,13.17,91,26,27,1,1,1,0,0,0,1,0,0,1,1,1,2,2,1,6,5,7,1,1
+UBC,2017,W,CHIN,335,,001,INT CHINESE II 1,"Kuo, Yu-Chi",17,77.44,7.41,87,61,16,0,0,1,0,0,0,0,0,0,0,0,0,1,0,3,1,3,5,3,0
+UBC,2017,W,CHIN,337,,001,INT CHINESE II 2,"Kuo, Yu-Chi",17,76.4,10.13,88,52,15,0,0,2,0,0,0,0,0,0,0,1,0,0,2,1,2,2,3,4,0
+UBCV,2016,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Yu-Chi Kuo,20,72.35,13.51908982,87.0,30.0,,,,,,,,,,,1,1,0,1,1,3,4,3,2,4,0
+UBCV,2016,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Bingling Hu;Yu-Chi Kuo,23,73.56521739,18.1779739,92.0,0.0,,,,,,,,,,,1,0,0,1,3,2,3,6,2,4,1
+UBCV,2016,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Bingling Hu;Yu-Chi Kuo,24,74.83333333,10.54459131,89.0,50.0,,,,,,,,,,,0,2,0,1,0,5,5,3,2,6,0
+UBCV,2016,W,CHIN,231,,001,Basic Chinese II: Part 1 (Non-Heritage),Shuang Li;Yu-Chi Kuo,27,74.11111111,9.34934524,88.0,50.0,,,,,,,,,,,0,1,0,2,5,2,2,7,5,3,0
+UBCV,2016,W,CHIN,233,,001,Basic Chinese II: Part 2 (Non-Heritage),Shuang Li;Yu-Chi Kuo,24,75.625,9.881086457,90.0,60.0,,,,,,,,,,,0,0,0,5,1,2,2,5,4,4,1
+UBCV,2017,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Hsiang-Ning Wang;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,26,78.846153846,9.548580241,92.0,56.0,,,,,,,,,,,0,0,1,1,2,1,5,0,6,8,2
+UBCV,2017,W,CHIN,131,,008,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,22,84.681818182,11.357340247,94.0,40.0,,,,,,,,,,,1,0,0,0,0,0,1,1,5,5,9
+UBCV,2017,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Chieh-Yang Chang;Hsiang-Ning Wang;Yu-Chi Kuo;Yuhan Zhang,21,75.047619048,17.399644222,89.0,25.0,,,,,,,,,,,2,0,0,1,0,0,3,3,8,4,0
+UBCV,2017,W,CHIN,231,,001,Basic Chinese II: Part 1 (Non-Heritage),Chengmin Su;Ming Zhu Lu;Yu-Chi Kuo,22,75.590909091,10.728951002,90.0,55.0,,,,,,,,,,,0,0,3,1,0,4,1,2,7,2,2
+UBCV,2017,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),Peiyi Liu;Qian Wang;Yu-Chi Kuo,28,76.678571429,8.662621156,92.0,60.0,,,,,,,,,,,0,0,0,4,0,2,3,9,5,3,2
+UBCV,2017,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),Bingling Hu;Peiyi Liu;Qian Wang;Xinxin Wu;Yu-Chi Kuo,27,75.148148148,11.886332499,91.0,35.0,,,,,,,,,,,1,1,0,2,0,2,5,4,9,1,2
+UBCV,2017,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Yu-Chi Kuo;Ziwei Yin,21,75.047619048,9.297721175,87.0,50.0,,,,,,,,,,,0,1,0,2,0,2,2,8,4,2,0
+UBCV,2017,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Bo Zhao;Yu-Chi Kuo;Ziwei Yin,28,72.678571429,13.17138754,91.0,26.0,,,,,,,,,,,1,1,1,2,2,1,6,5,7,1,1
+UBCV,2017,W,CHIN,335,,001,Intermediate Chinese II: Part I (Non-Heritage),Yu-Chi Kuo;Ziwei Yin,16,77.4375,7.411421366,87.0,61.0,,,,,,,,,,,0,0,0,1,0,3,1,3,5,3,0
+UBCV,2017,W,CHIN,337,,001,Intermediate Chinese II: Part 2 (Non-Heritage),Bo Zhao;Yu-Chi Kuo;Ziwei Yin,15,76.4,10.126344708,88.0,52.0,,,,,,,,,,,0,1,0,0,2,1,2,2,3,4,0
+UBCV,2018,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Chuhan Zeng;Qian Wang;Yu-Chi Kuo,28,69.107142857,16.021604131,89.0,24.0,,,,,,,,,,,3,1,0,2,5,3,3,2,5,4,0
+UBCV,2018,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Chengmin Su;Chien-Ju Lin;Jiao Jiao Han;Qian Wang;Yu-Chi Kuo,21,72.80952381,12.536423125,92.0,40.0,,,,,,,,,,,1,1,0,1,3,2,3,2,5,2,1
+UBCV,2018,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Qian Wang;Ying-Hua Tsai;Yu-Chi Kuo;Ziwei Yin,21,80.047619048,9.666830869,94.0,54.0,,,,,,,,,,,0,1,0,0,0,2,4,3,2,6,3
+UBCV,2018,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Qian Wang;Ying-Hua Tsai;Yu-Chi Kuo;Ziyu Wang,21,81.571428571,6.136541604,93.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,4,8,6,1
+UBCV,2018,W,CHIN,335,,001,Intermediate Chinese II: Part I (Non-Heritage),An-Yi Lee;Qian Wang;Yu-Chi Kuo;Ziyu Wang,25,76.24,5.599702373,85.0,64.0,,,,,,,,,,,0,0,0,0,1,5,3,8,6,2,0
+UBCV,2018,W,CHIN,337,,001,Intermediate Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Qian Wang;Yu-Chi Kuo;Ziyu Wang,24,75.416666667,7.371606318,87.0,60.0,,,,,,,,,,,0,0,0,1,3,2,4,6,5,3,0

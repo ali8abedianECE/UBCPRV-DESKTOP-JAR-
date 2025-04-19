@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CIVL,562,,201,ENV CONTAMNT ANL,"Lee, Jongho",13,83.08,7.44,93,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,5,2
+UBC,2017,W,CIVL,565,,101,PHYS-CHML TRT PR,"Lee, Jongho",15,85.07,6.5,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,4,5
+UBC,2018,W,CIVL,406,,101,WTR TREAT&WST MG,"Lee, Jongho",33,79.97,10.48,98,58,33,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,4,2,6,9,5
+UBC,2018,W,CIVL,565,,101,PHYS-CHML TRT PR,"Lee, Jongho",11,73.64,24.63,89,1,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,2,4,2,0

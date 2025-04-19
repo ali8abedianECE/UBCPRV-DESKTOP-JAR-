@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,152,,203,Linear Systems,Ariel Dufresne;Atharva Dilip Korde;Caleb Suan;Emmanuel Michta;Jalal Khouhak;Kalle Karu;Michael Deakin;Noe Ducharme;Reginald Simpson;Shikun Nie;Su Liang;Wenzhao Chen,98,66.908163265,14.757899674,98.0,15.0,6,10,7,14,15,6,9,12,6,8,5,,,
+UBCV,2021,W,MATH,221,,101,Matrix Algebra,Jalal Khouhak;Michael Deakin;Patrick Walls;Sujatha Ramdorai;Thomas Williams;Wenzhao Chen,97,66.556701031,19.327748334,96.0,0.0,14,6,7,5,5,10,12,13,14,8,3,,,
+UBCV,2021,W,MATH,152,,203,Linear Systems,Wenzhao Chen;Kalle Karu,98,67.6,,98.0,24.0,,11,7,14,15,6,10,12,6,8,,66.0,77.8,60.0
+UBCV,2021,W,MATH,221,,101,Matrix Algebra,Wenzhao Chen;Patrick Walls;Thomas Williams,97,66.4,,96.0,0.0,14,6,7,,,10,12,13,14,8,,72.0,80.0,58.0
+UBCV,2022,W,MATH,152,,207,Linear Systems,Wenzhao Chen;Kalle Karu,148,66.8,,97.0,1.0,11,18,15,13,11,17,16,13,15,9,10,69.0,77.3,57.0
+UBCV,2022,W,MATH,221,,105,Matrix Algebra,Wenzhao Chen;Patrick Walls;Thomas Williams,77,69.6,,95.0,0.0,6,6,5,7,3,11,6,9,8,9,7,72.0,82.0,60.0
+UBCV,2023,S,MATH,221,,921,Matrix Algebra,Wenzhao Chen,106,74.79,,100.0,4.0,3,6,6,3,9,11,12,6,18,10,15,75.0,84.5,66.0
+UBCV,2023,W,MATH,100,,1A3,Differential Calculus with Applications,Wenzhao Chen;Masoud Daneshi;Mark Thomson MacLean;Rodrigo Mitishita;Lior Silberman,397,73.5,,98.0,4.0,28,25,11,17,23,27,38,54,67,61,36,77.0,84.5,67.0
+UBCV,2023,W,MATH,100,,1A4,Differential Calculus with Applications,Wenzhao Chen;Masoud Daneshi;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean,448,76.1,,97.0,8.0,18,15,19,21,27,23,23,62,93,82,47,80.0,86.0,69.0
+UBCV,2023,W,MATH,100,,1AR,Differential Calculus with Applications,Wenzhao Chen;Sarah Dijols;Mark Thomson MacLean;Rodrigo Mitishita,191,65.6,,98.0,1.0,31,19,8,8,11,12,21,24,18,20,9,72.0,80.0,53.0
+UBCV,2023,W,MATH,101,,2A1,Integral Calculus with Applications,Keegan Boyle;Wenzhao Chen;Matthieu Heitz;Pablo Shmerkin;Chengyu Wu,317,66.7,,99.0,0.0,38,29,27,18,37,31,28,19,43,27,16,68.0,80.0,56.0
+UBCV,2023,W,MATH,101,,2A2,Integral Calculus with Applications,Emanuele Bodon;Wenzhao Chen;Hossein Rahmani;Nahid Walji;Chengyu Wu,415,68.2,,100.0,11.0,35,31,27,46,39,51,37,38,49,32,23,69.0,80.0,60.0
+UBCV,2023,W,MATH,101,,2A3,Integral Calculus with Applications,Keegan Boyle;Wenzhao Chen;Matthieu Heitz;Pablo Shmerkin;Chengyu Wu,423,67.0,,98.0,16.0,41,36,42,39,49,45,47,33,42,24,21,68.0,77.0,58.0
+UBCV,2023,W,MATH,101,,2AR,Integral Calculus with Applications,Emanuele Bodon;Wenzhao Chen;Philip Loewen,117,53.8,,87.0,0.0,32,18,8,13,10,10,5,5,5,2,0,58.5,67.3,40.8

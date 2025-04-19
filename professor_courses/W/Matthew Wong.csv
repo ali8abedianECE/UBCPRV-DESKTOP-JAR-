@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,IGEN,201,,001,Integrated Technical Communication,Matthew Allan Wong;Matthew Wong,48,77.083333333,7.281084013,90.0,56.0,0,0,1,2,3,5,4,13,15,4,1,,,
+UBCV,2017,W,IGEN,340,,101,Technology Entrepreneurship,Krishnamoorthy Prashanth;M Wong;Matthew Allan Wong;Matthew Wong,60,74.75,8.345556008,88.0,50.0,0,1,4,2,4,8,4,17,17,3,0,,,
+UBCV,2018,W,IGEN,201,,201,Integrated Technical Communication,Matthew Allan Wong;Matthew Wong,48,79.291666667,9.113838749,93.0,46.0,1,0,0,2,3,2,3,10,13,10,4,,,
+UBCV,2018,W,IGEN,330,,001,Intermediate Engineering Design,Carl Joseph Reilly;Carl Reilly;Daan Maijer;Jonathan Nakane;Matthew Allan Wong;Matthew Wong,49,78.734693878,13.141498377,91.0,0.0,1,0,0,0,2,4,5,10,11,14,2,,,
+UBCV,2018,W,IGEN,340,,101,Technology Entrepreneurship,Hossein Zargarnezhad;Matthew Allan Wong;Matthew Wong;Mojtaba Mansouri Arani,63,76.80952381,9.759787714,91.0,28.0,1,0,3,1,2,6,8,10,25,6,1,,,
+UBCV,2019,W,COMM,280,,104,Entrepreneurship,Alexander Gillis;Matthew Wong,47,71.85106383,10.37551198,96.0,45.0,1,1,4,2,9,8,4,7,6,3,2,,,
+UBCV,2019,W,IGEN,201,,201,Integrated Technical Communication,Matthew Allan Wong;Matthew Wong,56,78.660714286,8.40189759,92.0,38.0,1,0,1,1,2,0,7,13,24,6,1,,,
+UBCV,2019,W,MANU,201,,101,Technical Communication,Matthew Allan Wong;Matthew Wong,21,77.666666667,7.545418036,91.0,63.0,0,0,0,1,1,3,3,4,4,4,1,,,
+UBCV,2020,W,COMM,280,,104,Entrepreneurship,Japnit Bhatia;Matthew Wong,48,75.625,7.736690699,87.0,44.0,1,0,0,1,6,3,7,15,12,3,0,,,
+UBCV,2020,W,IGEN,201,,201,Integrated Technical Communication,Katherine Le;Matthew Allan Wong;Matthew Wong,52,77.461538462,10.016577511,91.0,50.0,0,2,1,2,3,5,4,7,14,9,5,,,
+UBCV,2020,W,MANU,201,,101,Technical Communication,Katherine Le;Matthew Allan Wong;Matthew Wong,45,78.866666667,7.114645586,90.0,59.0,0,0,2,0,1,3,8,6,15,8,2,,,
+UBCV,2020,W,MTRL,201,,201,Technical Communication,Katherine Le;Matthew Wong;Pamela Rogalski,49,73.469387755,11.173074108,90.0,35.0,1,3,1,2,4,7,6,10,8,6,1,,,
+UBCV,2020,W,MTRL,392,,201,Engineering Technical Communication,Berend Wassink;Mahdieh Eghtesad;Matthew Wong;Pamela Rogalski;Pamela Wolf,40,77.925,7.34633172,91.0,61.0,0,0,0,1,2,4,9,4,11,8,1,,,
+UBCV,2020,W,MTRL,398,,101,Engineering Written Communication,Katherine Le;Matthew Allan Wong;Matthew Wong;Pamela Rogalski,35,74.714285714,17.798829156,95.0,34.0,1,7,1,2,2,1,2,1,3,6,9,,,
+UBCV,2021,W,COMM,280,,104,Entrepreneurship,Japnit Bhatia;Matthew Wong,48,72.9375,14.130706341,88.0,10.0,2,1,1,1,2,6,11,10,11,3,0,,,
+UBCV,2021,W,IGEN,201,,201,Integrated Technical Communication,Katherine Le;Matthew Wong,50,79.18,9.401888651,94.0,51.0,0,1,1,0,3,6,4,9,10,7,9,,,
+UBCV,2021,W,MANU,201,,101,Technical Communication,Katherine Le;Matthew Wong,42,74.119047619,10.85874354,92.0,50.0,0,3,1,5,2,7,1,7,9,5,2,,,
+UBCV,2021,W,MTRL,201,,201,Technical Communication,Katherine Le;Matthew Wong,55,70.636363636,12.490535137,89.0,36.0,1,5,7,4,4,6,6,5,7,10,0,,,
+UBCV,2021,W,MTRL,320,,101,Management of Engineering Design,Katherine Le;Matthew Wong,47,80.021276596,9.246595993,93.0,52.0,0,1,0,3,1,2,2,14,7,9,8,,,
+UBCV,2021,W,COMM,280,,104,Entrepreneurship,Matthew Wong,48,72.9,,88.0,10.0,,,,,,6,11,10,11,,,75.5,81.0,70.8
+UBCV,2021,W,IGEN,201,,201,Integrated Technical Communication,Matthew Wong,50,79.2,,94.0,51.0,,,,,,6,,9,10,7,9,80.5,85.8,73.0
+UBCV,2021,W,MANU,201,,101,Technical Communication,Matthew Wong,42,74.1,,92.0,50.0,,,,,,7,,7,9,,,76.5,83.0,66.5
+UBCV,2021,W,MTRL,201,,201,Technical Communication,Matthew Wong,55,70.6,,89.0,36.0,,,7,,,6,6,,7,10,,72.0,81.5,62.0
+UBCV,2021,W,MTRL,320,,101,Management of Engineering Design,Matthew Wong,47,80.0,,93.0,52.0,,,,,,,,14,7,9,8,81.0,86.0,76.0
+UBCV,2022,W,COMR,280,,104,Entrepreneurship,Matthew Wong,40,77.0,,89.0,55.0,0,0,2,1,0,6,5,12,8,6,0,78.5,82.3,73.0
+UBCV,2022,W,IGEN,201,,201,Integrated Technical Communication,Matthew Wong,55,77.9,,93.0,6.0,1,2,3,2,0,5,4,6,11,9,12,81.0,88.0,72.5
+UBCV,2022,W,MANU,201,,101,Technical Communication,Matthew Wong,39,75.3,,90.0,50.0,0,1,2,4,1,4,7,6,4,9,1,76.0,84.5,70.0
+UBCV,2022,W,MTRL,201,,201,Technical Communication,Matthew Wong,51,71.3,,89.0,0.0,3,5,1,2,2,2,10,12,7,7,0,76.0,80.0,69.0
+UBCV,2022,W,MTRL,320,,101,Management of Engineering Design,Matthew Wong,50,81.5,,94.0,59.0,0,0,1,1,2,2,6,5,12,13,8,83.0,87.0,76.3
+UBCV,2023,S,IGEN,201,,101,Integrated Technical Communication,Matthew Wong,68,86.19,,91.0,74.0,0,0,0,0,0,0,1,0,18,40,9,86.0,88.0,84.0
+UBCV,2023,W,COMR,280,,104,Entrepreneurship,Matthew Wong,37,75.3,,90.0,37.0,2,0,0,1,1,5,6,6,10,3,1,78.0,81.5,71.5
+UBCV,2023,W,IGEN,201,,201,Integrated Technical Communication,Matthew Wong,52,78.9,,94.0,11.0,3,1,1,1,1,4,2,4,10,12,11,83.0,89.0,74.5
+UBCV,2023,W,MANU,201,,101,Technical Communication,Matthew Wong,51,80.1,,95.0,38.0,2,0,0,1,3,1,3,9,10,15,7,84.0,87.5,76.0
+UBCV,2023,W,MTRL,201,,201,Technical Communication,Matthew Wong,56,77.0,,95.0,40.0,4,1,2,2,3,3,7,3,14,6,11,82.0,88.3,71.0
+UBCV,2023,W,MTRL,320,,101,Management of Engineering Design,Matthew Wong,42,81.5,,92.0,63.0,0,0,0,2,1,3,5,4,7,15,5,84.0,88.0,75.5

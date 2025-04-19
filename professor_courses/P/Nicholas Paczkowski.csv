@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",30,75.4,8.19,92,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,5,4,4,3,2,,,
+UBC,2009,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",38,76.38,9.61,96,60,37,0,1,0,0,0,0,0,0,0,0,0,0,3,5,5,6,3,7,5,3,,,
+UBC,2010,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",37,73.08,9.51,91,49,35,1,1,0,0,0,0,0,0,1,1,0,1,4,6,2,5,6,9,1,1,,,
+UBC,2011,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",51,79.51,7.6,98,60,51,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,4,14,12,7,5,,,
+UBC,2012,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",34,79.03,8.07,94,60,34,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,4,10,5,3,,,
+UBC,2013,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",46,78.46,9.18,96,60,46,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3,4,10,9,10,3,,,
+UBC,2014,W,ARCH,541,,001,PROC&PRAC ARCH,"Paczkowski, Nicholas",44,82.8,8.05,94,60,44,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,12,9,11,,,
+UBC,2015,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",30,83.2,6.68,95,69,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,7,7,5,,,
+UBC,2015,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",19,85.84,5.11,95,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,4,,,
+UBC,2016,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",51,85.27,4.76,94,75,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,11,22,9,,,
+UBC,2016,W,CIVL,524,,101,LEGAL CNSTR MNGT,"Paczkowski, Nicholas;Samuels, Brian",28,83.11,7.94,96,68,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,10,4,8,,,
+UBC,2016,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",19,84.37,3.82,91,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,8,2,,,
+UBC,2017,W,ARCH,541,,002,PROFSNL PRACTICE,"Man-Bourdon, Alexandre;Paczkowski, Nicholas",41,86.65,5.19,96,72,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,21,10,,,
+UBC,2017,W,LARC,551,,001,PROFSNL PRACTICE,"Man-Bourdon, Alexandre;Paczkowski, Nicholas",26,87.35,2.97,95,83,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,6,,,
+UBC,2018,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",42,85.9,5.29,95,69,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,16,11,,,
+UBC,2018,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",13,89,3.49,93,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2014,W,ARCH,541,,001,Process and Practice of Architecture,Nicholas Paczkowski,44,82.79545455,8.048052041,94.0,60.0,,,,,,,,,,,0,0,0,,,,,,12,9,11,,,
+UBCV,2015,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Dinara Yusufzyanova;Nicholas Paczkowski;Nicole Sylvia,30,83.2,6.676773947,95.0,69.0,,,,,,,,,,,0,0,0,0,0,,,8,7,7,5,,,
+UBCV,2015,W,LARC,551,,001,Professional Practice,Cynthia Girling;Dinara Yusufzyanova;Nicholas Paczkowski;Nicole Sylvia,19,85.842105263,5.112763526,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,9,,,,
+UBCV,2016,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,51,85.2745098,4.758480562,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,11,22,9,,,
+UBCV,2016,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels;Nicholas Paczkowski;Tricia Curmi;Tricia Kathleen Curmi,28,83.10714286,7.936503968,96.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,1,10,4,8,,,
+UBCV,2016,W,LARC,551,,001,Professional Practice,Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,19,84.36842105,3.818238778,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,8,2,,,
+UBCV,2017,W,ARCH,541,,002,Professional Practice,Alexandre Man-Bourdon;Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,40,86.65,5.186520992,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,4,3,21,10,,,
+UBCV,2017,W,LARC,551,,001,Professional Practice,Alexandre Man-Bourdon;Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,26,87.346153846,2.96570137,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,16,6,,,
+UBCV,2018,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,42,85.904761905,5.290624583,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,3,10,16,11,,,
+UBCV,2018,W,LARC,551,,001,Professional Practice,Cynthia Girling;Marjanossadat Ebneshahidi;Nicholas Paczkowski,13,89.0,3.488074923,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2019,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,54,83.685185185,4.013298996,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,3,26,20,3,,,
+UBCV,2019,W,LARC,551,,001,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,22,82.909090909,4.395984,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,9,8,1,,,
+UBCV,2019,W,LARC,595,,001,Graduate Project Part I,Kees Lokman;Mari Fujita;Nicholas Paczkowski;Sylvia Coleman,24,81.666666667,3.874853901,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,5,12,5,0,,,
+UBCV,2020,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,52,86.230769231,4.680436483,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,9,25,13,,,
+UBCV,2020,W,LARC,551,,001,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,19,88.210526316,2.657880262,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13,6,,,
+UBCV,2021,W,ARCH,517,,001,Design Media II,Cindy Sze Nga Lee;Guy Mclintock;Nicholas Paczkowski;Parker Albanese;Ranveer Sandhu;Sarah Klym;Sze Nga Lee;Thena Tak;Thomas Gaudin,38,83.184210526,2.392050609,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,26,10,0,,,
+UBCV,2021,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Maria Emilia Brasdefer;Nicholas Paczkowski;Nicholas Saraiva Martino,64,85.4375,5.212545915,94.0,62.0,,,,,,,,,,,0,0,0,2,0,0,0,1,18,38,5,,,
+UBCV,2021,W,LARC,551,,001,Professional Practice,Cynthia Girling;Maria Emilia Brasdefer;Nicholas Paczkowski;Nicholas Saraiva Martino,29,85.344827586,5.838761256,92.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,5,16,4,,,
+UBCV,2021,W,ARCH,541,,002,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,64,85.4,,94.0,62.0,,,,,,,,,,,,,,,,,,,18,38,,86.5,88.0,83.8
+UBCV,2021,W,LARC,551,,001,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,29,85.3,,92.0,64.0,,,,,,,,,,,,,,,,,,,,16,,87.0,89.0,84.0
+UBCV,2022,W,ARCH,541,,002,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,47,88.3,,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,5,17,21,89.0,92.0,87.0
+UBCV,2022,W,LARC,551,,001,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,28,85.8,,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,7,11,6,85.5,88.3,83.8
+UBCV,2023,W,ARCH,541,,002,Professional Practice,Paul de Greeff;Nicholas Paczkowski;Inge Roecker,41,85.71,,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,3,7,15,12,86.0,90.0,83.0
+UBCV,2023,W,LARC,551,,001,Professional Practice,Paul de Greeff;Nicholas Paczkowski;Inge Roecker,22,82.91,,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,3,10,5,2,83.0,86.0,80.25

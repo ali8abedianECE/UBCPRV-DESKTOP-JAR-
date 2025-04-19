@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,CLST,212,,001,Greek Philosophy II,Abdulrahman Bajodah;Michael Griffin;Robert Bryant,25,79.88,4.850429534,88.0,71.0,0,0,0,0,0,1,4,6,9,5,0
+UBCV,2021,W,ECON,318,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Margaret Schabas;Robert Bryant,38,74.552631579,6.07029706,94.0,64.0,0,0,0,0,4,5,12,10,4,2,1
+UBCV,2021,W,PHIL,212,A,001,Greek Philosophy II: Aristotle and After,Abdulrahman Bajodah;Michael Griffin;Robert Bryant,55,76.872727273,11.821284234,93.0,30.0,2,1,0,1,4,6,5,7,18,8,3
+UBCV,2021,W,PHIL,311,A,001,The Philosophy of Aristotle,Brooks Sommerville;Robert Bryant,33,76.090909091,13.677910194,91.0,11.0,1,0,0,1,1,4,5,9,5,4,3
+UBCV,2021,W,PHIL,362,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Margaret Schabas;Robert Bryant,22,74.136363636,11.96938736,85.0,24.0,1,0,0,0,0,3,4,7,6,1,0

@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,SPHA,502,,201,MANAG ACCOUNTING,"Lee, Stephen",29,83.66,9.22,97,60,29,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,9,9,6,,,
+UBC,2012,W,SPHA,502,,201,MANAG ACCOUNTING,"Lee, Stephen",26,86.92,4.27,93,77,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,11,8,,,
+UBC,2013,W,SPHA,502,,201,MANAG ACCOUNTING,"Lee, Stephen",36,80.72,7.06,93,65,36,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,9,10,8,3,,,
+UBC,2014,W,SPHA,502,,201,MANAG ACCOUNTING,"Lee, Stephen",39,82.79,7.98,95,60,39,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,5,6,12,9,,,
+UBC,2015,W,SPHA,502,,001,MANAG ACCOUNTING,"Lee, Stephen",34,89.76,8.37,100,60,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,3,2,25,,,
+UBC,2016,W,SPHA,502,,001,MANAG ACCOUNTING,"Lee, Stephen",33,90.33,8.6,100,67,33,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,2,22,,,
+UBC,2016,W,SPHA,502,,002,MANAG ACCOUNTING,"Lee, Stephen",32,93.13,6.81,100,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,24,,,
+UBC,2017,W,SPHA,502,,002,MANAG ACCOUNTING,"Lee, Stephen",28,88.93,5.41,100,70,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,13,,,
+UBC,2018,W,SPHA,502,,002,MANAG ACCOUNTING,"Lee, Stephen",32,83.28,4.2,92,75,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,19,6,3,,,
+UBCV,2014,W,SPHA,502,,201,Managerial Accounting,Stephen Lee,39,82.7948718,7.977532553,95.0,60.0,,,,,,,,,,,0,0,0,,,,,5,6,12,9,,,
+UBCV,2015,W,SPHA,502,,001,Managerial Accounting,Stephen Lee,34,89.764705882,8.374053808,100.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,25,,,
+UBCV,2016,W,SPHA,502,,001,Managerial Accounting,Stephen Lee,33,90.33333333,8.604746752,100.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,2,5,2,22,,,
+UBCV,2016,W,SPHA,502,,002,Managerial Accounting,Stephen Lee,32,93.125,6.814358654,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,5,24,,,
+UBCV,2017,W,SPHA,502,,002,Managerial Accounting,Carson C Woo;Christina Krause;Jeffrey Barnett;Stephen Lee;Steven George Morgan,28,88.928571429,5.408693766,100.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,14,13,,,
+UBCV,2018,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Daniel Pauly;Gabriel Reygondeau;Murdoch Mcallister;Stephen Lee,6,92.166666667,2.136976057,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2018,W,NAME,524,,101,Shipbuilding Project Management,Stephen Lee;Vitorio Stana,13,86.923076923,6.356906198,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,5,4,,,
+UBCV,2018,W,SPHA,502,,002,Managerial Accounting,Stephen Lee,32,83.28125,4.198574067,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,19,6,3,,,
+UBCV,2019,W,SPHA,502,,002,Managerial Accounting,Stephen Lee,34,85.323529412,5.013440047,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,15,10,7,,,
+UBCV,2021,S,SPHA,502,,901,Managerial Accounting,Kyla Gunderson;Stephen Lee,38,88.157894737,4.258703748,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,7,18,,,
+UBCV,2021,S,SPHA,502,,901,Managerial Accounting,Kyla Gunderson;Stephen Lee,38,88.2,,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,7,18,88.0,93.0,84.0
+UBCV,2022,S,SPHA,502,,901,Managerial Accounting,Kyla Gunderson;Stephen Lee,32,89.8,,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,12,15,89.0,92.0,89.0
+UBCV,2022,W,SPHA,502,,001,Managerial Accounting,Kyla Gunderson;Stephen Lee,30,93.1,,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,29,92.0,96.0,90.0
+UBCV,2023,W,SPHA,502,,001,Managerial Accounting,Stephen Lee,35,93.74,,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,34,93.0,96.0,91.5

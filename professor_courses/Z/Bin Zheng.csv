@@ -1,0 +1,82 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CHIN,131,,001,BASIC CHIN I 1,"Zheng, Bin",25,78,7.8,92,60,24,0,1,0,0,0,0,0,0,0,0,0,0,1,1,3,3,8,2,5,1,,,
+UBC,2017,W,CHIN,133,,001,BASIC CHIN I 2,"Lin, Pi-Hua;Zheng, Bin",14,70,12.84,89,50,13,0,1,0,0,0,0,0,0,0,0,1,2,2,0,2,1,0,3,2,0,,,
+UBC,2017,W,CHIN,133,,006,BASIC CHIN I 2,"Zheng, Bin",10,79.89,11.1,92,56,9,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,3,1,,,
+UBC,2017,W,CHIN,141,,003,BASIC CHIN I 1,"Zheng, Bin",17,79.53,7.44,88,64,15,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,6,0,6,0,,,
+UBC,2017,W,CHIN,143,,003,BASIC CHIN I 2,"Zheng, Bin",18,77.88,9.24,90,60,17,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,1,7,1,4,1,,,
+UBC,2018,S,CHIN,494,,921,INT CLS CH (H),"Zheng, Bin",53,77.2,6.48,89,64,51,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,10,13,8,9,0,,,
+UBC,2018,W,CHIN,471,,001,CLAS POET TANG,"Zheng, Bin",60,77.67,7.12,92,60,60,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,6,20,9,11,1,,,
+UBC,2018,W,CHIN,473,,001,LATE CLAS POET,"Zheng, Bin",61,76.59,6.85,91,63,59,0,1,0,1,0,0,0,0,0,0,0,0,1,5,6,15,13,10,6,3,,,
+UBC,2018,W,CHIN,491,,002,CLASS CHIN 1,"Zheng, Bin",60,76.58,9.29,89,30,59,1,0,0,0,0,0,0,1,0,1,1,0,2,4,0,8,24,14,6,0,,,
+UBC,2018,W,CHIN,491,,003,CLASS CHIN 1,"Zheng, Bin",55,77.46,6.29,89,65,54,0,0,1,0,0,0,0,0,0,0,0,0,0,4,5,13,13,9,10,0,,,
+UBC,2018,W,CHIN,493,,002,CLASS CHIN 2,"Zheng, Bin",59,76.03,10.88,91,21,58,1,0,0,0,0,0,1,0,0,1,0,1,3,3,7,10,14,9,7,4,,,
+UBC,2018,W,CHIN,493,,003,CLASS CHIN 2,"Zheng, Bin",59,77.14,7.63,92,50,57,0,1,1,0,0,0,0,0,0,0,1,0,1,3,6,13,12,13,5,3,,,
+UBCV,2017,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Yilin Xie,24,78.0,7.801894976,92.0,60.0,,,,,,,,,,,0,0,0,1,1,3,3,8,2,5,1,,,
+UBCV,2017,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ming Zhu Lu,27,73.888888889,14.692576182,87.0,27.0,,,,,,,,,,,2,1,0,0,2,1,6,2,9,4,0,,,
+UBCV,2017,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Hsiang-Ning Wang;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,26,78.846153846,9.548580241,92.0,56.0,,,,,,,,,,,0,0,1,1,2,1,5,0,6,8,2,,,
+UBCV,2017,W,CHIN,131,,004,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Xinxin Wu;Yiwen Zheng,21,81.904761905,6.433543051,93.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,5,7,5,2,,,
+UBCV,2017,W,CHIN,131,,005,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ming Zhu Lu;Xiaotong Wang,17,76.882352941,10.728946552,89.0,45.0,,,,,,,,,,,1,0,0,0,1,2,3,2,3,5,0,,,
+UBCV,2017,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,18,78.111111111,6.434181596,89.0,64.0,,,,,,,,,,,0,0,0,0,1,2,1,9,1,4,0,,,
+UBCV,2017,W,CHIN,131,,008,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ke Yuan;Pi-Hua Lin;Yu-Chi Kuo,22,84.681818182,11.357340247,94.0,40.0,,,,,,,,,,,1,0,0,0,0,0,1,1,5,5,9,,,
+UBCV,2017,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Chieh-Yang Chang;Hsiang-Ning Wang;Yu-Chi Kuo;Yuhan Zhang,21,75.047619048,17.399644222,89.0,25.0,,,,,,,,,,,2,0,0,1,0,0,3,3,8,4,0,,,
+UBCV,2017,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ke Yuan;Pi-Hua Lin,22,76.727272727,20.475727368,92.0,0.0,,,,,,,,,,,1,1,0,1,0,3,2,1,1,8,4,,,
+UBCV,2017,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Bingling Hu;Pi-Hua Lin;Yilin Xie,13,70.0,12.838743448,89.0,50.0,,,,,,,,,,,0,1,2,2,0,2,1,0,3,2,0,,,
+UBCV,2017,W,CHIN,133,,004,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Xinxin Wu;Yiwen Zheng,21,79.80952381,7.500793609,96.0,60.0,,,,,,,,,,,0,0,0,1,0,0,4,5,7,2,2,,,
+UBCV,2017,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Ming Zhu Lu;Xiaotong Wang,24,76.166666667,9.933109617,95.0,51.0,,,,,,,,,,,0,1,1,0,2,2,5,3,5,3,2,,,
+UBCV,2017,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,9,79.888888889,11.095544651,92.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,3,1,,,
+UBCV,2017,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Ming Zhu Lu;Xiaotong Wang,16,71.0625,10.64874797,93.0,50.0,,,,,,,,,,,0,1,1,2,2,1,2,5,1,0,1,,,
+UBCV,2017,W,CHIN,133,,008,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Jiao Jiao Han;Pi-Hua Lin;Qijiang Zhao,28,78.964285714,11.545344237,91.0,42.0,,,,,,,,,,,1,1,0,0,1,2,1,7,5,5,5,,,
+UBCV,2017,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Bin Zheng;Pi-Hua Lin;Ya Wen,15,79.533333333,7.443757372,88.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,6,0,6,0,,,
+UBCV,2017,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Bin Zheng;Pi-Hua Lin;Ya Wen,17,77.882352941,9.239063487,90.0,60.0,,,,,,,,,,,0,0,0,2,1,0,1,7,1,4,1,,,
+UBCV,2018,S,CHIN,494,,921,Intensive Classical Chinese (Heritage),Bin Zheng;Qian Wang;Yinzong Wei,53,77.547169811,6.62038239,89.0,64.0,,,,,,,,,,,0,0,0,0,3,8,10,13,9,10,0,,,
+UBCV,2018,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,22,86.409090909,6.821947012,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,3,5,2,11,,,
+UBCV,2018,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Ming Zhu Lu;Qian Wang;Shehao Huang,13,83.307692308,6.562324479,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,5,2,3,,,
+UBCV,2018,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Chien-Ju Lin;Hsueh-Ni Chen;Jiao Jiao Han;Pi-Hua Lin;Qian Wang;Sin Yee Chow,23,83.0,8.893306983,94.0,61.0,,,,,,,,,,,0,0,0,1,0,1,4,1,3,7,6,,,
+UBCV,2018,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Bin Zheng;Chien-Ju Lin;Qian Wang;Shuyan Lei,24,79.083333333,9.717383199,93.0,50.0,,,,,,,,,,,0,1,0,0,1,4,0,3,8,5,2,,,
+UBCV,2018,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Bin Zheng;Chien-Ju Lin;Qian Wang;Shuyan Lei;Siang Hu;Wayne Fan,15,79.533333333,9.620414801,92.0,60.0,,,,,,,,,,,0,0,0,2,0,0,1,3,4,3,2,,,
+UBCV,2018,W,CHIN,471,,001,Later Classical Chinese Poetry (Tang),Bin Zheng;Jerry Dean Schmidt;Qian Wang,60,77.666666667,7.118052168,92.0,60.0,,,,,,,,,,,0,0,0,2,5,6,6,20,9,11,1,,,
+UBCV,2018,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Jerry Dean Schmidt;Qian Wang;Xiaowen Xu,60,76.4,6.955548937,91.0,63.0,,,,,,,,,,,0,0,0,1,6,6,15,13,10,6,3,,,
+UBCV,2018,W,CHIN,491,,002,Classical Chinese I (Heritage),Bin Zheng;Qian Wang;Xiaowen Xu,60,76.583333333,9.285110491,89.0,30.0,,,,,,,,,,,1,1,0,2,4,0,8,24,14,6,0,,,
+UBCV,2018,W,CHIN,491,,003,Classical Chinese I (Heritage),Bin Zheng;Huai-Chuan Mou;Qian Wang,54,77.462962963,6.287792794,89.0,65.0,,,,,,,,,,,0,0,0,0,4,5,13,13,9,10,0,,,
+UBCV,2018,W,CHIN,493,,002,Classical Chinese II (Heritage),Bin Zheng;Qian Wang;Xiaowen Xu,59,76.033898305,10.883340799,91.0,21.0,,,,,,,,,,,1,0,1,3,3,7,10,14,9,7,4,,,
+UBCV,2018,W,CHIN,493,,003,Classical Chinese II (Heritage),Bin Zheng;Huai-Chuan Mou;Qian Wang,57,77.140350877,7.633194886,92.0,50.0,,,,,,,,,,,0,1,0,1,3,6,13,12,13,5,3,,,
+UBCV,2019,S,CHIN,494,,921,Intensive Classical Chinese (Heritage),Bin Zheng;Qian Wang;Zheng Cai,55,76.763636364,11.78505588,100.0,57.0,,,,,,,,,,,0,0,3,5,4,8,9,8,6,4,8,,,
+UBCV,2019,W,CHIN,471,,004,Later Classical Chinese Poetry (Tang),Bin Zheng;Qian Wang;Xue Shun Liu;Zheng Cai,60,77.0,7.633556605,92.0,53.0,,,,,,,,,,,0,1,0,2,4,7,7,19,9,9,2,,,
+UBCV,2019,W,CHIN,471,,006,Later Classical Chinese Poetry (Tang),Bin Zheng;Qian Wang;Zheng Cai,63,75.0,8.82445283,94.0,50.0,,,,,,,,,,,0,2,1,2,3,15,11,8,13,5,3,,,
+UBCV,2019,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Qian Wang;Xiaowen Xu;Xue Shun Liu,60,75.916666667,7.026081355,88.0,56.0,,,,,,,,,,,0,0,1,0,5,13,8,11,17,5,0,,,
+UBCV,2019,W,CHIN,473,,003,Later Classical Chinese Poetry (after Tang),Bin Zheng;Qian Wang;Xue Shun Liu,59,77.06779661,5.717077885,89.0,61.0,,,,,,,,,,,0,0,0,1,2,10,5,19,18,4,0,,,
+UBCV,2019,W,CHIN,473,,004,Later Classical Chinese Poetry (after Tang),Bin Zheng;Qian Wang;Xue Shun Liu,59,74.13559322,12.115048532,93.0,0.0,,,,,,,,,,,1,0,0,4,4,6,13,12,14,3,2,,,
+UBCV,2019,W,CHIN,491,,003,Classical Chinese I (Heritage),Bin Zheng;Qian Wang;Zheng Cai,60,72.866666667,7.984023595,90.0,55.0,,,,,,,,,,,0,0,3,5,4,14,13,1,15,4,1,,,
+UBCV,2019,W,CHIN,493,,002,Classical Chinese II (Heritage),Bin Zheng;Josephine Chiu-Duke;Qian Wang,60,71.333333333,11.55483121,90.0,41.0,,,,,,,,,,,1,5,4,4,6,7,11,2,13,5,2,,,
+UBCV,2019,W,CHIN,493,,003,Classical Chinese II (Heritage),Bin Zheng;Qian Wang;Zheng Cai,61,73.114754098,10.887452045,97.0,42.0,,,,,,,,,,,1,2,3,5,2,14,10,8,9,3,4,,,
+UBCV,2020,S,CHIN,464,,951,Early Classical Chinese Poetry (Intensive),Bin Zheng,64,76.59375,7.074924981,87.0,57.0,,,,,,,,,,,0,0,1,4,4,3,11,17,18,6,0,,,
+UBCV,2020,W,CHIN,471,,004,Later Classical Chinese Poetry (Tang),Bin Zheng;Miru Wang;Zheng Cai,71,76.873239437,6.892914742,86.0,58.0,,,,,,,,,,,0,0,1,3,5,6,7,20,23,6,0,,,
+UBCV,2020,W,CHIN,471,,005,Later Classical Chinese Poetry (Tang),Bin Zheng;Miru Wang;Xue Shun Liu,69,77.753623188,6.374133845,88.0,62.0,,,,,,,,,,,0,0,0,1,6,5,9,19,19,10,0,,,
+UBCV,2020,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Calvin Lin;Zheng Cai,59,79.627118644,9.236170099,94.0,43.0,,,,,,,,,,,1,1,0,1,0,5,4,18,13,9,7,,,
+UBCV,2020,W,CHIN,473,,003,Later Classical Chinese Poetry (after Tang),Bin Zheng;Calvin Lin;Xue Shun Liu,57,78.210526316,7.325924715,91.0,60.0,,,,,,,,,,,0,0,0,2,2,5,9,15,10,10,4,,,
+UBCV,2020,W,CHIN,473,,004,Later Classical Chinese Poetry (after Tang),Bin Zheng;Calvin Lin;Xue Shun Liu;Yanyao Huang,67,76.880597015,6.258381987,88.0,61.0,,,,,,,,,,,0,0,0,3,4,9,9,15,23,4,0,,,
+UBCV,2020,W,CHIN,473,,005,Later Classical Chinese Poetry (after Tang),Bin Zheng;Calvin Lin;Xue Shun Liu;Yanyao Huang,74,76.081081081,11.78663831,87.0,0.0,,,,,,,,,,,1,2,1,3,3,4,6,24,25,5,0,,,
+UBCV,2021,S,CHIN,464,,921,Early Classical Chinese Poetry (Intensive),Bin Zheng,60,76.383333333,6.39144467,85.0,50.0,,,,,,,,,,,0,2,0,1,0,5,10,22,19,1,0,,,
+UBCV,2021,W,CHIN,471,,001,Later Classical Chinese Poetry (Tang),Bin Zheng;Chen Chen;Zheng Cai,74,77.378378378,6.4610587,86.0,40.0,,,,,,,,,,,1,0,0,0,5,2,12,26,25,3,0,,,
+UBCV,2021,W,CHIN,471,,002,Later Classical Chinese Poetry (Tang),Bin Zheng;Chen Chen;Xue Shun Liu,73,76.794520548,5.897171884,85.0,50.0,,,,,,,,,,,0,1,0,2,2,4,14,23,26,1,0,,,
+UBCV,2021,W,CHIN,471,,004,Later Classical Chinese Poetry (Tang),Bin Zheng;Chen Chen;Zheng Cai,60,79.766666667,8.778569179,93.0,28.0,,,,,,,,,,,1,0,0,0,0,1,9,20,14,10,5,,,
+UBCV,2021,W,CHIN,471,,005,Later Classical Chinese Poetry (Tang),Bin Zheng;Chen Chen;Xue Shun Liu;Zheng Cai,58,77.103448276,9.563618296,98.0,49.0,,,,,,,,,,,1,1,2,0,2,9,6,11,16,6,4,,,
+UBCV,2021,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng;Yuwei Hu;Zheng Cai,73,76.602739726,5.873054586,87.0,58.0,,,,,,,,,,,0,0,1,1,5,5,10,26,23,2,0,,,
+UBCV,2021,W,CHIN,473,,002,Later Classical Chinese Poetry (after Tang),Bin Zheng;Xue Shun Liu,75,75.0,12.938524081,89.0,0.0,,,,,,,,,,,3,0,1,0,1,9,9,26,21,5,0,,,
+UBCV,2021,W,CHIN,473,,004,Later Classical Chinese Poetry (after Tang),Bin Zheng;Xue Shun Liu,60,75.783333333,8.124229646,91.0,39.0,,,,,,,,,,,1,0,0,4,1,7,11,17,12,5,2,,,
+UBCV,2021,S,CHIN,464,,921,Early Classical Chinese Poetry (Intensive),Bin Zheng,60,76.4,,85.0,50.0,,,,,,,,,,,,,,,,,10,22,19,,,78.0,80.0,75.0
+UBCV,2021,W,CHIN,471,,001,Later Classical Chinese Poetry (Tang),Bin Zheng,74,77.4,,86.0,40.0,,,,,,,,,,,,,,,,,12,26,25,,,79.0,81.0,75.0
+UBCV,2021,W,CHIN,471,,002,Later Classical Chinese Poetry (Tang),Bin Zheng,73,76.8,,85.0,50.0,,,,,,,,,,,,,,,,,14,23,26,,,79.0,80.0,75.0
+UBCV,2021,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng,73,76.6,,87.0,58.0,,,,,,,,,,,,,,,,,10,26,23,,,78.0,81.0,74.0
+UBCV,2021,W,CHIN,473,,002,Later Classical Chinese Poetry (after Tang),Bin Zheng,75,75.0,,89.0,0.0,,,,,,,,,,,,,,,,9,9,26,21,,,78.0,81.0,74.0
+UBCV,2022,S,CHIN,464,,921,Early Classical Chinese Poetry (Intensive),Bin Zheng,60,77.0,,88.0,50.0,,,,,,,,,,,0,1,1,3,1,3,5,23,18,5,0,78.0,81.0,76.0
+UBCV,2022,S,CHIN,485,,951,Contemporary Chinese Fiction in Film,Bin Zheng,70,76.7,,90.0,35.0,,,,,,,,,,,1,0,1,4,4,6,4,25,15,9,1,78.0,83.0,73.5
+UBCV,2022,W,CHIN,461,,001,Early Classical Chinese Poetry (to Han),Bin Zheng,59,74.4,,86.0,0.0,,,,,,,,,,,1,1,0,2,2,6,15,15,12,5,0,76.0,80.0,72.5
+UBCV,2022,W,CHIN,471,,001,Later Classical Chinese Poetry (Tang),Bin Zheng,89,75.3,,90.0,0.0,,,,,,,,,,,1,1,0,4,6,7,12,30,24,3,1,77.0,80.0,73.0
+UBCV,2022,W,CHIN,473,,001,Later Classical Chinese Poetry (after Tang),Bin Zheng,82,72.0,,90.0,20.0,,,,,,,,,,,1,1,2,8,12,8,24,7,12,6,1,73.0,77.8,67.0
+UBCV,2022,W,CHIN,473,,004,Later Classical Chinese Poetry (after Tang),Bin Zheng,52,72.2,,90.0,30.0,,,,,,,,,,,2,0,3,4,2,4,17,7,12,0,1,74.0,78.5,70.5
+UBCV,2023,S,CHIN,474,,951,Later Classical Chinese Poetry (Intensive),Bin Zheng,58,74.13,,90.0,54.0,,,,,,,,,,,0,1,0,6,3,5,13,14,8,3,2,75.0,77.5,71.0
+UBCV,2023,W,CHIN,461,,011,Early Classical Chinese Poetry (to Han),Bin Zheng,49,74.66,,91.0,55.0,,,,,,,,,,,0,0,2,2,2,5,11,13,10,1,1,76.0,79.0,72.5
+UBCV,2023,W,CHIN,463,,021,Early Classical Chinese Poetry (Han to Tang),Bin Zheng,56,74.73,,85.0,55.0,,,,,,,,,,,0,0,1,3,6,8,10,7,20,1,0,75.5,80.0,70.0
+UBCV,2023,W,CHIN,471,,015,Later Classical Chinese Poetry (Tang),Bin Zheng,90,76.27,,91.0,62.0,,,,,,,,,,,0,0,0,2,2,11,22,25,20,5,1,76.0,80.0,72.75
+UBCV,2023,W,CHIN,473,,025,Later Classical Chinese Poetry (after Tang),Bin Zheng,89,74.71,,90.0,50.0,,,,,,,,,,,0,4,2,3,5,10,18,16,25,5,1,76.0,80.0,71.0

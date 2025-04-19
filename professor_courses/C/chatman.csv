@@ -1,0 +1,71 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MUSC,163,,001,CONTEM PLAYERS,"Chatman, Stephen;Wilson, Eric",21,87.62,3.07,90,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,12
+UBC,2002,W,MUSC,307,C,001,COMPOSITION 3,"Chatman, Stephen;Hamel, Keith;Tenzer, Michael;Wilson, Eugene N",11,79.82,5.17,86,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,4,0
+UBC,2002,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",37,76.92,9.78,95,55,37,0,0,0,0,0,0,0,0,0,0,0,1,3,2,5,3,8,6,6,3
+UBC,2002,W,MUSC,310,,001,ORCHESTRATION,"Chatman, Stephen",33,82.67,7.07,93,70,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,6,7,8
+UBC,2002,W,MUSC,507,C,001,COMPOSITION,"Chatman, Stephen;Hamel, Keith;Tenzer, Michael;Wilson, Eugene N",5,86.6,5.27,90,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3
+UBC,2002,W,MUSC,563,,001,CONTEMP PLAYERS,"Chatman, Stephen;Wilson, Eric",6,89.17,2.04,90,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2003,W,MUSC,163,,001,CONTEM PLAYERS,"Chatman, Stephen;MAGNANENSI, GIORGIO;Wilson, Eric",20,82.7,19.52,88,0,19,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,19,0
+UBC,2003,W,MUSC,310,,001,ORCHESTRATION,"Chatman, Stephen",29,74.34,8.07,90,55,29,0,0,0,0,0,0,0,0,0,0,0,1,2,1,7,6,4,5,2,1
+UBC,2003,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith;Tenzer, Michael",11,83.73,5.33,90,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,2
+UBC,2003,W,MUSC,563,,001,CONTEMP PLAYERS,"Chatman, Stephen;Wilson, Eric",8,87.88,1.36,90,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1
+UBC,2003,W,MUSC,607,C,001,COMPOSITION,"Chatman, Stephen;Hamel, Keith;Tenzer, Michael;Wilson, Eugene N",4,87,0,87,87,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UBC,2005,W,MUSC,107,C,001,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",10,80.1,4.28,86,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,2,0
+UBC,2005,W,MUSC,163,,001,CONTEM PLAYERS,"Chatman, Stephen",15,87,2.65,90,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,3
+UBC,2005,W,MUSC,207,C,002,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith;Tenzer, Michael",5,76.8,3.49,81,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0
+UBC,2005,W,MUSC,307,C,001,COMPOSITION 3,"Chatman, Stephen",8,81.25,8.58,90,65,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,2,2
+UBC,2005,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",39,78,7.67,91,60,39,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,7,7,11,7,1
+UBC,2005,W,MUSC,507,C,001,COMPOSITION,"Chatman, Stephen",4,84.25,5.32,90,78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+UBC,2005,W,MUSC,563,,001,CONTEMP PLAYERS,"Chatman, Stephen",8,88.57,2.44,90,85,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2005,W,MUSC,607,C,001,COMPOSITION,"Chatman, Stephen",6,88.2,4.32,93,83,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2006,W,MUSC,107,C,001,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",15,80.64,3.79,88,73,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,2,0
+UBC,2006,W,MUSC,207,C,001,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,81,4.16,86,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0
+UBC,2006,W,MUSC,607,C,001,COMPOSITION,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,89,7.07,94,84,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+UBC,2007,W,MUSC,107,C,001,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",14,82.21,6.91,94,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,3,3
+UBC,2007,W,MUSC,207,C,001,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",7,87.83,3.66,93,84,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2007,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",5,83.8,2.77,87,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2007,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",36,73.94,9.16,95,61,35,0,1,0,0,0,0,0,0,0,0,0,0,5,7,2,7,6,4,1,3
+UBC,2009,W,MUSC,107,C,001,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",6,83.33,5.72,87,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0
+UBC,2009,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",6,87.17,2.48,90,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2009,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",43,72.79,16.15,91,15,40,3,0,0,0,0,1,2,0,0,3,1,0,1,2,2,9,10,12,2,1
+UBC,2009,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",5,89,4.69,95,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+UBC,2010,W,MUSC,107,C,001,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",13,82.85,3.8,88,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,0
+UBC,2010,W,MUSC,307,C,001,COMPOSITION 3,"Chatman, Stephen",5,69,38.6,88,0,4,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,3,0
+UBC,2010,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",42,75.29,9.79,88,40,40,1,1,0,0,0,0,0,0,1,1,1,1,2,2,1,8,11,9,5,0
+UBC,2010,W,MUSC,507,C,001,COMPOSITION,"Chatman, Stephen",6,86.83,2.4,88,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0
+UBC,2011,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",9,83.22,2.39,86,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,0
+UBC,2011,W,MUSC,207,C,002,COMPOSITION 2,"Chatman, Stephen",4,85,0,85,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2011,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,87.25,5.25,92,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2011,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",43,77.05,6.69,91,61,41,0,0,1,1,0,0,0,0,0,0,0,0,1,3,2,9,13,5,7,1
+UBC,2012,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",15,86.87,3.87,92,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,4
+UBC,2012,W,MUSC,207,C,001,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,87,2.94,90,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2012,W,MUSC,207,C,002,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",7,73.86,32.62,88,0,6,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,5,0
+UBC,2012,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,90.5,2.65,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2012,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",44,79.82,7.82,96,63,44,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6,10,7,9,5
+UBC,2012,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,89.75,2.5,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2013,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",10,85,3.67,90,78,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,1
+UBC,2013,W,MUSC,207,C,002,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",6,85.6,3.21,90,82,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2013,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,87,4.55,92,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2013,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,90.75,3.86,95,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2013,W,MUSC,507,C,001,COMPOSITION,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",5,94,2.24,95,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2014,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",10,85,5.61,94,77,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,2
+UBC,2015,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",9,84.22,4.66,91,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,2
+UBC,2015,W,MUSC,207,C,001,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,88.5,1,90,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2015,W,MUSC,207,C,002,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,86.75,1.5,88,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2015,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,86.25,3.5,88,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2015,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",42,74.51,12.23,92,30,39,2,1,0,0,0,0,0,2,0,2,0,1,2,3,4,8,4,11,5,1
+UBC,2015,W,MUSC,507,C,001,COMPOSITION,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,93,0,93,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2016,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",11,84.91,2.88,90,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,1
+UBC,2016,W,MUSC,207,C,002,COMPOSITION 2,"Chatman, Stephen",5,83,3.61,87,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0
+UBC,2016,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",5,88.2,1.1,90,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2016,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",33,81.03,7.6,93,64,33,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,7,9,4
+UBC,2016,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,86,6.73,90,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2
+UBC,2016,W,MUSC,507,C,001,COMPOSITION,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,93.5,2.12,95,92,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+UBC,2017,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",9,85.88,1.96,88,82,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0
+UBC,2017,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",32,82.32,8.28,97,58,31,0,1,0,0,0,0,0,0,0,0,0,1,0,0,4,1,3,7,11,4
+UBC,2017,W,MUSC,507,C,001,COMPOSITION,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,89.75,2.63,92,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2018,W,MUSC,107,C,002,COMPOSITION I,"Chang Bortolussi, Dorothy;Chatman, Stephen",10,84.9,4.36,91,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,2
+UBC,2018,W,MUSC,207,C,002,COMPOSITION 2,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",5,87.6,2.88,90,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2018,W,MUSC,307,C,001,COMPOSITION 3,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,85.75,7.23,90,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2
+UBC,2018,W,MUSC,309,,001,INSTRUMENTATION,"Chatman, Stephen",37,82.14,9.39,95,59,36,0,1,0,0,0,0,0,0,0,0,0,1,1,2,2,1,4,6,11,8
+UBC,2018,W,MUSC,407,C,001,COMPOSITION IV,"Chang Bortolussi, Dorothy;Chatman, Stephen;Hamel, Keith",4,90,2,92,88,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2

@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,ENGL,224,,004,WORLD LIT ENGL,"Al-Kassim, Dina",36,81.83,16.64,99,0,35,1,0,0,0,1,0,0,0,0,1,0,0,0,1,3,4,4,4,6,13
+UBC,2011,W,ENGL,490,,004,MAJOR SEMINR LIT,"Al-Kassim, Dina",8,85.88,5.82,95,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2
+UBC,2012,S,ENGL,553,A,921,ST'S LIT THEORY,"Al-Kassim, Dina",8,90,6.12,97,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5
+UBC,2012,W,ENGL,490,,010,MAJOR SEMINR LIT,"Al-Kassim, Dina",10,80.44,15.79,100,47,8,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,3,1,2
+UBC,2012,W,ENGL,546,A,001,CMMNWLTH/POSTCOL,"Al-Kassim, Dina",8,89.57,4.69,95,81,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2013,W,CSIS,500,C,001,,"Al-Kassim, Dina",6,91.5,1.73,93,89,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2013,W,ENGL,224,,003,WORLD LIT ENGL,"Al-Kassim, Dina",17,77.38,22.76,95,0,15,1,1,0,0,1,0,0,0,0,1,0,0,0,2,0,2,1,2,3,5
+UBC,2013,W,ENGL,464,A,001,20TH CENT STD,"Al-Kassim, Dina",29,79.04,16.96,90,24,22,2,4,0,0,0,0,1,1,0,2,0,0,0,0,1,3,1,3,11,3
+UBC,2013,W,ENGL,490,,003,MAJOR SEMINR LIT,"Al-Kassim, Dina",8,87,6.59,95,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4
+UBC,2014,W,ENGL,224,,003,WORLD LIT IN ENG,"Al-Kassim, Dina",27,74.68,22.21,95,0,23,2,2,0,0,1,0,1,0,0,2,1,0,1,2,2,0,2,5,6,4
+UBC,2014,W,ENGL,464,A,001,20TH CENTURY,"Al-Kassim, Dina",34,83.34,6.25,94,70,32,0,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,3,9,10,6
+UBC,2014,W,ENGL,466,A,001,20C GENRE,"Al-Kassim, Dina",22,79.09,19.99,93,0,20,2,0,0,0,1,0,0,0,1,2,0,0,0,0,0,1,4,4,6,5
+UBC,2014,W,ENGL,553,F,001,ST'S LIT THEORY,"Al-Kassim, Dina",8,91.33,2.16,95,89,6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2014,W,GRSJ,502,,001,GNDR SEX CRT RCE,"Al-Kassim, Dina",6,90.67,1.15,92,90,3,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2015,W,ENGL,224,,003,WORLD LIT IN ENG,"Al-Kassim, Dina",23,79,7.67,92,61,21,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,3,9,2,3,2
+UBC,2015,W,ENGL,464,A,001,20TH CENTURY,"Al-Kassim, Dina",20,86,9.3,96,72,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,11
+UBC,2015,W,GRSJ,500,,001,INTERSECTNL ISSU,"Al-Kassim, Dina",14,86.93,12.82,94,43,13,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,7
+UBC,2016,W,ENGL,224,,006,WORLD LIT IN ENG,"Al-Kassim, Dina",19,79.94,10.4,100,56,18,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,4,3,2,2,4
+UBC,2016,W,ENGL,546,A,001,CMMNWLTH/POSTCOL,"Al-Kassim, Dina",10,91.14,5.61,96,79,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6
+UBC,2016,W,GRSJ,500,,001,INTERSECTNL ISSU,"Al-Kassim, Dina",7,92,1.41,93,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2017,W,ENGL,478,A,001,POSTCOLONIAL LIT,"Al-Kassim, Dina",32,79.93,13.31,94,25,28,1,3,0,0,0,0,1,0,0,1,0,0,2,0,0,2,5,8,6,5
+UBC,2017,W,ENGL,553,B,001,ST'S LIT THEORY,"Al-Kassim, Dina",10,90.43,1.72,92,88,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2017,W,GRSJ,500,,001,INTERSECTNL ISSU,"Al-Kassim, Dina",14,88.23,1.83,90,83,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,4
+UBC,2018,W,ENGL,377,A,001,WRLD LIT & SCIAL,"Al-Kassim, Dina",21,87,8.19,98,70,18,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,3,2,3,9
+UBC,2018,W,ENGL,546,B,002,CMMNWLTH/POSTCOL,"Al-Kassim, Dina",8,92.5,1,93,91,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2018,W,GRSJ,500,,001,INTERSECTNL ISSU,"Al-Kassim, Dina",10,88.9,3.51,93,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
+UBCV,2014,W,ENGL,224,,003,World Literature in English,Dina Al-Kassim,25,74.68,22.21433471,95.0,0.0,,,,,,,,,,,,,,,,,0,,5,6,
+UBCV,2014,W,ENGL,464,A,001,Twentieth-Century Studies,Dina Al-Kassim,32,83.34375,6.245562941,94.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,9,10,6
+UBCV,2014,W,ENGL,466,A,001,Studies in a Twentieth-Century Genre,Dina Al-Kassim,22,79.09090909,19.98787511,93.0,0.0,,,,,,,,,,,,,,,,,,,,6,5
+UBCV,2014,W,ENGL,553,F,001,Studies in Literary Theory,Dina Al-Kassim,6,91.33333333,2.160246899,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2015,W,ENGL,224,,003,World Literature in English,Dina Al-Kassim,21,79.0,7.668115805,92.0,61.0,,,,,,,,,,,0,0,0,,,,3,9,,,
+UBCV,2015,W,ENGL,464,A,001,Twentieth-Century Studies,Dina Al-Kassim,19,86.0,9.297550454,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,1,0,11
+UBCV,2015,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,14,86.928571429,12.821042114,94.0,43.0,,,,,,,,,,,,,,,,,,,,6,7
+UBCV,2016,W,ENGL,224,,006,World Literature in English,Dina Al-Kassim,18,79.94444444,10.40063472,100.0,56.0,,,,,,,,,,,0,0,1,0,0,2,4,3,2,2,4
+UBCV,2016,W,ENGL,546,A,001,Studies in Commonwealth/Post-colonial Literatures,Dina Al-Kassim,7,91.14285714,5.610364558,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,6
+UBCV,2016,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,7,92.0,1.414213562,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2017,W,ENGL,478,A,001,Post-colonial Studies,Dina Al-Kassim,29,79.931034483,13.306633777,94.0,25.0,,,,,,,,,,,1,0,0,2,0,0,2,5,8,6,5
+UBCV,2017,W,ENGL,553,B,001,Studies in Literary Theory,Dina Al-Kassim,7,90.428571429,1.718249386,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,4
+UBCV,2017,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,13,88.230769231,1.83275049,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,4
+UBCV,2018,W,ENGL,377,A,001,World Literature and Social Movements,Dina Al-Kassim,20,84.1,13.977048856,98.0,35.0,,,,,,,,,,,1,0,0,0,0,1,0,3,3,3,9
+UBCV,2018,W,ENGL,546,B,002,Studies in Commonwealth/Post-colonial Literatures,Dina Al-Kassim,10,91.6,1.0749677,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2018,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,11,89.181818182,3.458848994,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,6
+UBCV,2019,W,ENGL,377,,001,World Literature and Social Movements,Dina Al-Kassim,24,81.541666667,10.693269589,98.0,57.0,,,,,,,,,,,0,0,1,0,4,0,1,4,2,5,7
+UBCV,2019,W,ENGL,546,A,001,Studies in Commonwealth/Post-colonial Literatures,Dina Al-Kassim,7,92.285714286,0.755928946,93.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2019,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,10,89.8,1.686548085,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,5
+UBCV,2020,W,ENGL,323,,001,Varieties of English,Dina Al-Kassim;Stefan Dollinger,39,80.641025641,12.429775752,90.0,18.0,,,,,,,,,,,1,0,0,2,0,0,3,2,12,15,4
+UBCV,2020,W,ENGL,366,,001,Twentieth-Century Literature,Anne Stewart;Dina Al-Kassim,37,73.891891892,15.973561114,89.0,0.0,,,,,,,,,,,2,0,1,0,2,2,7,10,8,5,0
+UBCV,2020,W,ENGL,546,A,001,Studies in Commonwealth/Post-colonial Literatures,Dina Al-Kassim,7,90.571428571,0.786795792,91.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2020,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim;John Paul Catungal,7,84.857142857,6.743603671,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,5,1
+UBCV,2021,W,ENGL,382,,001,Theory: Anti-/De-/Post-Colonization,Dina Al-Kassim,12,76.0,29.735194941,98.0,0.0,,,,,,,,,,,2,0,1,0,0,0,0,0,3,1,5
+UBCV,2021,W,ENGL,490,,008,Literature Majors Seminar,Dina Al-Kassim,11,80.454545455,15.035715057,93.0,40.0,,,,,,,,,,,1,0,0,0,0,0,2,0,3,1,4

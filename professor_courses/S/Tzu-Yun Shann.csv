@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,425,,101,Computer Vision,Borna Ghotbi;Leonid Sigal;Linzi Xing;Polina Zablotskaia;Sarah Habashi Elhammadi;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Tzu-Yun Shann,143,76.181818182,10.798171705,100.0,52.0,0,1,5,14,17,18,14,13,26,16,19
+UBCV,2018,W,CPSC,425,,201,Computer Vision,Bicheng Xu;Borna Ghotbi;Leonid Sigal;Tzu-Yun Shann;Zicong Fan,146,77.02739726,11.174444493,97.0,12.0,2,2,3,5,12,19,19,15,33,20,16
+UBCV,2019,W,CPSC,322,,101,Introduction to Artificial Intelligence,Beriwan Salamat Ravandi;Federico Arribas Svendsen;Ganesh Jawahar;Hazra Imran;Joanna Tu;Kyle Clarkson;Raymond Li;Rui Ge;Siddhesh Khandelwal;Tzu-Yun Shann,127,78.0,10.114424714,95.0,37.0,5,0,0,2,4,12,18,26,27,23,10
+UBCV,2019,W,CPSC,425,,201,Computer Vision,Hafsa Binte Zahid;Jerry Jim;Leonid Sigal;Mohammed Suhail;Mona Fadaviardakani;Tianxin Tao;Tzu-Yun Shann,157,77.439490446,11.641183293,98.0,0.0,3,1,4,7,4,20,19,31,22,30,16
+UBCV,2020,W,CPSC,425,,101,Computer Vision,Eric Hedlin;Leonid Sigal;Mohammed Suhail;Mona Fadaviardakani;Ruolan Ye;Tzu-Yun Shann;Wolfgang Heidrich,103,79.902912621,13.487477535,100.0,8.0,2,4,2,1,4,4,6,14,25,22,19
+UBCV,2020,W,CPSC,425,,201,Computer Vision,James Little;Jiahui Huang;Kalli Leung;Mir Rayat Imtiaz Hossain;Tzu-Yun Shann;Wonho Bae,142,75.084507042,11.692570811,93.0,5.0,3,4,2,7,7,18,25,15,39,13,9
+UBCV,2021,W,CPSC,330,,102,Applied Machine Learning,Brianna Dungate;Emmanuel Sales;Gaurav Bhatt;Rubia Reis Guerra;Tzu-Yun Shann;Varada Kolhatkar,112,83.982142857,8.693978596,98.0,54.0,0,1,1,2,1,6,3,20,17,30,31

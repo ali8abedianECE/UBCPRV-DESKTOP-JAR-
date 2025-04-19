@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,EDST,314,,006,ANALYSIS OF EDUC,"Gill, Hartej",40,,,,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2003,W,EDST,428,,202,SOCL FNDTN OF ED,"Gill, Hartej",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2003,W,EDUC,310,,205,TEACh PRINC,"Gill, Hartej",18,,,,,0,0,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2005,W,EADM,501,,021,RSRCH&RSRCH TRAD,"Gill, Hartej",12,89.42,1.56,92,88,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,,,
+UBC,2005,W,EADM,553,A,021,SEM-GRP INQ EADM,"Gill, Hartej",9,91.44,3.09,95,88,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,,,
+UBC,2005,W,EDST,314,,205,SCL ISS IN EDUC,"Gill, Hartej",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2005,W,EDUC,310,,205,TEACh PRINC,"Gill, Hartej",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2005,W,EDUC,316,,205,COMM SKILLS,"Gill, Hartej",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2006,W,EADM,501,,021,RSRCH&RSRCH TRAD,"Gill, Hartej",16,88.69,1.99,92,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,5,,,
+UBC,2007,W,EADM,501,,61B,RSRCH&RSRCH TRAD,"Gill, Hartej",16,88.69,1.4,91,87,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,6,,,
+UBC,2007,W,EADM,553,A,62A,SEM-GRP INQ EADM,"Gill, Hartej",16,90.31,1.85,93,88,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,,,
+UBC,2010,S,EDST,501,,97A,RSC TRD EDU ADMN,"Gill, Hartej",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,W,EDST,501,,67A,RSC TRD EDU ADMN,"Gill, Hartej",19,89.05,1.39,92,87,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,7,,,
+UBC,2010,W,EDST,553,A,62B,GRP INQ ED ADMIN,"Gill, Hartej",18,90.5,1.76,93,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,,,
+UBC,2011,S,EDST,532,,93A,LDRSHP EDUC ORG,"Gill, Hartej",22,88.59,1.89,91,84,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,8,,,
+UBC,2012,W,EDST,532,,62A,LDRSHP EDUC ORG,"Gill, Hartej",20,90.5,1.19,93,89,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,,,
+UBC,2013,S,EDST,532,,93A,LDRSHP EDUC ORG,"Gill, Hartej",17,90.06,0.75,91,89,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,,,
+UBC,2014,W,EDST,401,,110,EDU SCH SOC INST,"Gill, Hartej",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,EDST,532,,62A,LDRSHP EDUC ORG,"Gill, Hartej",16,91.81,1.33,94,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2014,W,EDST,532,,62A,Leadership in Educational Organizations,Hartej Gill,16,91.8125,1.327591805,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2017,W,EDST,579,,022,School-Community Relations,Bathseba Opini;Hartej Gill,9,93.555555556,3.574601765,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2019,W,EDST,532,,022,Leadership in Educational Organizations,Fei Wang;Hartej Gill,9,89.777777778,2.538591035,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2020,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Fei Wang;Hartej Gill,10,91.5,3.100179206,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,6,,,
+UBCV,2021,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Hartej Gill,10,91.0,3.559026084,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,8,,,
+UBCV,2021,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Hartej Gill,10,91.0,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,8,92.0,93.0,91.3
+UBCV,2022,W,EDST,561,B,082,Practicum,Hartej Gill,9,91.0,,92.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,91.0,92.0,91.0
+UBCV,2023,W,EDST,561,B,082,Practicum,Hartej Gill,7,95.0,,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,96.0,96.0,94.5
+UBCV,2023,W,EDST,581,,61A,"Leadership, Administration, and the Aims of Education",Hartej Gill,12,90.75,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,90.0,91.0,90.0

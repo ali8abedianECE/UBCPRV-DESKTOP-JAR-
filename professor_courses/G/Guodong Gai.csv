@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Guodong Gai;K Wayne Nagata,112,81.517857143,10.898369283,100.0,42.0,2,0,0,6,6,2,16,11,16,24,29,,,
+UBCV,2021,W,MATH,100,,108,Differential Calculus with Applications to Physical Sciences and Engineering,Bakytzhan Kurmanbek;Elizabeth Xiao;Guodong Gai;Roomina Zendehboodi;Sven Bachmann,99,61.323232323,22.488921664,100.0,11.0,26,12,4,6,5,4,6,7,16,8,5,,,
+UBCV,2021,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Atharva Dilip Korde;Elizabeth Xiao;Fanze Kong;Guodong Gai;Noe Ducharme;Philip Loewen;Simone Maletto,107,74.747663551,18.408925982,100.0,26.0,9,8,6,8,5,9,10,8,7,7,30,,,
+UBCV,2021,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Guodong Gai;K Wayne Nagata,112,81.5,,100.0,42.0,,,,6,6,,16,11,16,24,29,83.5,90.0,75.0
+UBCV,2021,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Guodong Gai;Philip Loewen,107,74.7,,100.0,26.0,9,8,6,8,5,9,10,8,7,7,30,75.0,90.5,62.0

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MIDW,305,,001,THRY VAR PRIM CR,"Broten, Courtney;Campbell, Allison;Momtazian, Tanya",18,81.17,22.21,94,0,17,1,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,1,1,5,8,,,
+UBC,2017,W,MIDW,305,,001,THRY VAR PRIM CR,"Broten, Courtney;Momtazian, Tanya;Simmons, Valerie",17,83.25,5.22,91,72,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,2,3,,,
+UBC,2018,W,MIDW,405,,001,ADV TOPICS,"Campbell, Kim;Momtazian, Tanya",15,87.47,3.11,92,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,6,,,
+UBCV,2016,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Allison Campbell;Courtney Broten;Tanya Momtazian,18,81.16666667,22.20823907,94.0,0.0,,,,,,,,,,,3,0,0,0,0,0,0,1,1,5,8,,,
+UBCV,2017,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Courtney Broten;Tanya Momtazian;Valerie Simmons,16,83.25,5.221749388,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,2,3,,,
+UBCV,2018,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Cathryn Ellis;Courtney Broten;Luba Butska;Tanya Momtazian;Valerie Simmons,21,85.428571429,4.456135417,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,7,4,,,
+UBCV,2018,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Kim Campbell;Tanya Momtazian,15,87.466666667,3.113717729,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,6,,,
+UBCV,2019,W,MIDW,210,,001,Evidence-Informed Midwifery,Hamideh Bayrampour Basmenj;Tanya Momtazian,20,94.85,4.221187162,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,16,,,
+UBCV,2019,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Kim Campbell;Tanya Momtazian,21,85.428571429,4.8638609,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,5,8,5,,,
+UBCV,2022,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Cecilia Jevitt;Lorna McRae;Tanya Momtazian,19,91.8,,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,17,92.0,93.0,90.5
+UBCV,2023,W,MIDW,405,,001,Theory for Advanced Midwifery Care,Natalie Amram;Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,18,92.61,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,15,93.5,94.75,91.5
+UBCV,2023,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,19,90.11,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,9,89.5,91.75,88.25

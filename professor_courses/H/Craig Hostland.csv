@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,ENGR,420,,001,Fundamentals of Healthy Buildings,Craig Hostland;Negin Kazemian;Sepideh Pakpour,52,85.057692308,9.619044552,98.0,47.0,1,0,0,1,1,1,1,5,15,8,19,,,
+UBCO,2021,W,ENGR,420,,001,Fundamentals of Healthy Buildings,Craig Hostland;Sepideh Pakpour;Simon Faber,48,87.458333333,6.059837556,96.0,74.0,0,0,0,0,0,0,2,5,7,13,21,,,
+UBCO,2021,W,ENGR,420,,001,Fundamentals of Healthy Buildings,Craig Hostland;Sepideh Pakpour,48,87.5,,96.0,74.0,,,,,,,,,7,13,21,88.5,92.3,82.0
+UBCO,2022,W,ENGR,420,,001,Fundamentals of Healthy Buildings,Craig Hostland,71,88.0,,97.0,69.0,0,0,0,0,0,1,1,4,13,18,34,89.0,92.0,84.0

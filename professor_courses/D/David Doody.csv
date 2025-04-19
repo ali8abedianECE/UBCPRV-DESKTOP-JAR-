@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,David Doody;David James Doody;Katherine Pickering,22,84.727272727,6.59134944,95.0,59.0,0,0,1,0,0,0,0,0,7,12,2,,,
+UBCO,2019,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,David Doody;David James Doody;Katherine Pickering,22,87.181818182,3.289758475,92.0,80.0,0,0,0,0,0,0,0,0,4,11,7,,,
+UBCO,2019,W,VISA,322,M,001,Advanced Practice in Sculpture,David Doody;David James Doody,7,86.285714286,3.498298906,89.0,79.0,0,0,0,0,0,0,0,1,0,6,0,,,
+UBCO,2019,W,VISA,322,N,001,Advanced Practice in Sculpture,David Doody;David James Doody,7,88.285714286,1.380131119,90.0,86.0,0,0,0,0,0,0,0,0,0,6,1,,,
+UBCO,2020,S,VISA,460,K,101,Special Topics in Visual Art,David Doody,16,98.0,0.0,98.0,98.0,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCO,2020,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Connor C Charlesworth;Connor Charlesworth;David Doody;Michaela Bridgemohan,19,76.631578947,6.881622276,90.0,64.0,0,0,0,0,3,1,3,5,5,1,1,,,
+UBCO,2020,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Connor C Charlesworth;Connor Charlesworth;David Doody;Michaela Bridgemohan,23,79.173913043,8.881298912,92.0,56.0,0,0,1,0,1,3,2,2,6,6,2,,,
+UBCO,2020,W,VISA,104,,002,Three-Dimensional Art Practices I,David Doody;Renay Egami;Scott Moore,23,82.347826087,4.996441421,89.0,70.0,0,0,0,0,0,2,0,3,10,8,0,,,
+UBCO,2020,W,VISA,105,,001,Three-Dimensional Art Practices II,David Doody;Patrick Lundeen;Renay Egami;Scott Moore,19,84.736842105,5.020426114,90.0,69.0,0,0,0,0,0,1,0,1,5,11,1,,,
+UBCO,2020,W,VISA,105,,002,Three-Dimensional Art Practices II,David Doody;Renay Egami;Scott Moore,16,82.5625,4.242149612,89.0,75.0,0,0,0,0,0,0,2,1,7,6,0,,,
+UBCO,2020,W,VISA,282,,001,Drawing III,Alison Trim;David Doody;Michaela Bridgemohan;Patrick Lundeen,18,80.0,6.624375664,90.0,60.0,0,0,0,1,0,0,1,4,9,2,1,,,
+UBCO,2020,W,VISA,322,O,001,Advanced Practice in Sculpture,David Doody;Renay Egami;Scott Moore,10,88.1,4.094712037,93.0,81.0,0,0,0,0,0,0,0,0,2,3,5,,,
+UBCO,2021,S,VISA,460,M,101,Special Topics in Visual Art,David Doody,9,96.111111111,0.78173596,98.0,95.0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCO,2021,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Connor Charlesworth;David Doody,18,82.722222222,5.278207757,89.0,68.0,0,0,0,0,0,1,1,2,6,8,0,,,
+UBCO,2021,W,VISA,104,,002,Three-Dimensional Art Practices I,David Doody;Samuel Roy-Bois,20,84.55,7.423114682,92.0,66.0,0,0,0,0,1,1,1,1,2,7,7,,,
+UBCO,2021,W,VISA,105,,002,Three-Dimensional Art Practices II,David Doody;Renay Egami,16,82.25,2.352303835,87.0,79.0,0,0,0,0,0,0,0,1,12,3,0,,,
+UBCO,2021,W,VISA,215,,002,Painting I,Connor Charlesworth;David Doody,14,86.071428571,4.665161976,92.0,74.0,0,0,0,0,0,0,1,0,2,7,4,,,
+UBCO,2021,S,VISA,460,M,101,Special Topics in Visual Art,David Doody,9,96.1,,98.0,95.0,0,0,0,0,0,0,0,0,0,0,9,96.0,96.0,96.0
+UBCO,2021,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,David Doody,18,82.7,,89.0,68.0,,,,,,,,,6,8,,84.0,86.0,82.3
+UBCO,2021,W,VISA,215,,002,Painting I,David Doody,14,86.1,,92.0,74.0,,,,,,,,,,7,,86.0,89.8,85.0
+UBCO,2022,S,VISA,460,M,101,Special Topics in Visual Art,David Doody,9,87.6,,96.0,69.0,0,0,0,0,0,1,0,0,1,2,5,90.0,91.0,87.0
+UBCO,2022,W,VISA,225,,001,Painting II,David Doody,22,88.2,,94.0,82.0,0,0,0,0,0,0,0,0,2,11,9,88.0,90.8,87.0
+UBCO,2022,W,VISA,312,T,001,Advanced Practice in Painting,David Doody,19,89.9,,97.0,82.0,0,0,0,0,0,0,0,0,2,6,11,90.0,93.0,87.5
+UBCO,2022,W,VISA,482,,001,Advanced Art Practices I,David Doody;Andreas Rutkauskas,20,79.8,,93.0,61.0,0,0,0,1,1,2,2,3,2,8,1,82.5,86.3,73.8
+UBCO,2022,W,VISA,483,,001,Advanced Art Practices II,David Doody;Andreas Rutkauskas,20,79.1,,96.0,51.0,0,1,1,0,1,2,0,4,2,7,2,81.5,87.0,74.5
+UBCO,2023,S,VISA,290,J,001,Special Topics in Visual Art,David Doody,6,100.0,,100.0,100.0,0,0,0,0,0,0,0,0,0,0,6,100.0,100.0,100.0
+UBCO,2023,S,VISA,460,N,101,Special Topics in Visual Art,David Doody,18,91.67,,98.0,81.0,0,0,0,0,0,0,0,0,2,1,15,92.0,95.0,91.25
+UBCO,2023,S,VISA,460,O,001,Special Topics in Visual Art,David Doody,15,100.0,,100.0,100.0,0,0,0,0,0,0,0,0,0,0,15,100.0,100.0,100.0
+UBCO,2023,W,VISA,137,,001,Introduction to Art I,David Doody,90,82.4,,98.0,6.0,2,1,3,2,0,1,4,9,14,24,27,87.0,90.0,79.5
+UBCO,2023,W,VISA,482,,001,Advanced Art Practices I,David Doody;Andreas Rutkauskas,23,82.4,,91.0,63.0,0,0,0,1,0,0,1,5,8,6,2,84.0,86.5,78.5
+UBCO,2023,W,VISA,483,,001,Advanced Art Practices II,David Doody;Andreas Rutkauskas,23,83.6,,95.0,69.0,0,0,0,0,0,1,2,4,4,9,3,85.0,88.5,78.5

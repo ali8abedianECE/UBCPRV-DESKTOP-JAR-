@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,MATH,103,,209,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Christoph Hauert;Clinton Durney;Michael Walter Doebeli;Rebeca Cardim Falcao;Shamil Asgarli,125,69.208,12.034423744,95.0,50.0,0,16,14,15,13,17,10,9,13,11,7,,,
+UBCV,2019,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Christoph Hauert;Clinton Durney;Michael Walter Doebeli;Rebeca Cardim Falcao;Shamil Asgarli,110,75.645454545,11.979789068,98.0,42.0,1,4,6,10,6,15,9,9,24,12,14,,,
+UBCV,2019,W,MATH,190,,101,Calculus Survey,Andrew Rechnitzer;Anthony Ho;M Fred Mutangana;Shamil Asgarli;Shirin Boroushaki;Stephen Pietromonaco;Yongqi Nie,64,72.734375,16.520542467,97.0,16.0,5,5,3,2,2,5,12,3,10,10,7,,,
+UBCV,2020,S,MATH,257,,921,Partial Differential Equations,Anthony Peirce;Chen-Chih Lai;Shamil Asgarli,68,86.794117647,9.276126996,99.0,52.0,0,2,0,0,1,0,5,2,11,14,33,,,
+UBCV,2020,S,MATH,316,,921,Elementary Differential Equations II,Anthony Peirce;Shamil Asgarli,59,84.796610169,10.652472048,100.0,56.0,0,0,1,2,2,5,3,4,6,12,24,,,
+UBCV,2020,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Eric Rozon;Eugene Chau;Michael Walter Doebeli;Santanil Jana;Shamil Asgarli;Ziheng Zhao,144,71.493055556,12.593702793,96.0,36.0,6,6,12,12,16,19,17,15,18,10,13,,,
+UBCV,2020,W,MATH,190,,101,Calculus Survey,Andrew Rechnitzer;Edward Jiayu Zeng;Hannah Alpert;M Fred Mutangana;Naba Mukhtar;Shamil Asgarli,67,69.985074627,16.902117975,96.0,33.0,8,6,6,5,4,5,7,5,3,7,11,,,
+UBCV,2020,W,MATH,257,,202,Partial Differential Equations,Mikhail Chernobai;Min Jun Jo;Mona Rahmani;Parisa Sarmadi;Shamil Asgarli;Simone Maletto,9,70.222222222,17.405299321,94.0,41.0,1,1,0,1,1,0,0,2,2,0,1,,,
+UBCV,2020,W,MATH,316,,202,Elementary Differential Equations II,Mikhail Chernobai;Min Jun Jo;Mona Rahmani;Parisa Sarmadi;Shamil Asgarli;Simone Maletto,61,70.081967213,19.333300358,96.0,8.0,6,1,3,2,5,9,8,9,7,3,8,,,
+UBCV,2021,S,MATH,312,,951,Introduction to Number Theory,Ethan Armitage;Shamil Asgarli;Zinovy Reichstein,73,75.835616438,12.717020199,99.0,51.0,0,2,6,6,5,9,7,6,10,11,11,,,
+UBCV,2021,S,MATH,312,,951,Introduction to Number Theory,Shamil Asgarli;Zinovy Reichstein,73,75.8,,99.0,51.0,,,6,6,,9,7,6,10,11,11,76.0,86.0,64.0

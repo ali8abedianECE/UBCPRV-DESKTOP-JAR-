@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,PHIL,120,,003,Introduction to Critical Thinking,Leslie Burkholder;Madeleine Penner;Ryan Chen;Zachary Bloom,271,83.911439114,13.709671436,93.0,0.0,7,6,2,6,4,4,15,13,23,61,130
+UBCV,2020,W,PHIL,220,,99C,Symbolic Logic,Ewan Townshend;Leslie Burkholder;Ryan Chen;Zachary Bloom,257,89.140077821,10.251706641,96.0,0.0,2,0,0,3,5,2,3,5,13,40,184
+UBCV,2021,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alexandre Korolev;Kinley Gillette;Servaas Van Der Berg;Zachary Bloom,39,72.512820513,13.712982314,88.0,11.0,1,2,1,2,0,7,12,3,4,7,0
+UBCV,2021,W,PHIL,333,A,003,Bio-Medical Ethics,Emma Esmaili;Leslie Burkholder;Zachary Bloom,69,76.260869565,13.961767305,96.0,0.0,3,1,0,3,1,6,13,10,14,13,5

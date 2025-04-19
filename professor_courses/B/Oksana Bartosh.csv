@@ -1,0 +1,87 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,S,EDUC,500,,922,RES MTHD IN EDUC,"Bartosh, Oksana",24,91.79,4.41,100,80,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,20,,,
+UBC,2010,W,ETEC,500,,65E,RES METH EDUC,"Bartosh, Oksana",16,87.8,4.55,94,79,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,6,,,
+UBC,2012,W,EDUC,500,,001,RES MTHD IN EDUC,"Bartosh, Oksana",18,88.88,3.84,94,80,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,,,
+UBC,2012,W,EDUC,500,,003,RES MTHD IN EDUC,"Bartosh, Oksana",14,90.07,4.27,97,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,,,
+UBC,2013,W,ETEC,500,,65C,RES METH EDUC,"Bartosh, Oksana",20,90.39,6.14,98,76,18,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,12,,,
+UBC,2013,W,ETEC,500,,65D,RES METH EDUC,"Bartosh, Oksana",19,90.22,4.73,98,82,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,11,,,
+UBC,2014,W,ETEC,500,,65D,RES METH EDUC,"Bartosh, Oksana",20,86.05,7.93,95,68,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,7,7,,,
+UBC,2015,W,EDUC,500,,002,RES MTHD IN EDUC,"Bartosh, Oksana",18,86.78,3,92,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,3,,,
+UBC,2016,W,EDUC,500,,003,RES MTHD IN EDUC,"Bartosh, Oksana",16,86.94,3.77,94,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,4,,,
+UBC,2017,S,EDUC,500,,921,RES MTHD IN EDUC,"Bartosh, Oksana",20,89.6,4.89,98,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,10,,,
+UBC,2017,W,EDUC,500,,003,RES MTHD IN EDUC,"Bartosh, Oksana",12,88.17,3.69,94,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,4,,,
+UBC,2018,W,EDCP,349,,108,SCIENCE ELEM C&P,"Bartosh, Oksana",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,349,,109,SCIENCE ELEM C&P,"Bartosh, Oksana",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,352,A,302,GEN SCI SEC C&P,"Bartosh, Oksana",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,467,J,302,SP TPCS C&P,"Bartosh, Oksana",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDUC,500,,001,RES MTHD IN EDUC,"Bartosh, Oksana",20,87.95,3.2,94,82,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,7,,,
+UBC,2018,W,EDUC,500,,003,RES MTHD IN EDUC,"Bartosh, Oksana",16,90.44,4.21,96,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,9,,,
+UBC,2018,W,ETEC,500,,65A,RES METH EDUC,"Bartosh, Oksana",18,88.12,7.84,98,70,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,5,8,,,
+UBCV,2014,W,ETEC,500,,65D,Research Methodology in Education,Oksana Bartosh,19,86.05263158,7.933569214,95.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,7,7,,,
+UBCV,2015,W,EDUC,500,,002,Research Methodology in Education,Oksana Bartosh,18,86.777777778,3.001089127,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,13,,,,
+UBCV,2016,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,16,86.9375,3.767735836,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,8,4,,,
+UBCV,2017,S,EDUC,500,,921,Research Methodology in Education,Oksana Bartosh,20,89.6,4.892529214,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,10,,,
+UBCV,2017,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,12,88.166666667,3.688639398,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,7,4,,,
+UBCV,2018,W,EDUC,500,,001,Research Methodology in Education,Oksana Bartosh,20,87.95,3.203205631,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,7,,,
+UBCV,2018,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,16,90.4375,4.210601699,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,9,,,
+UBCV,2018,W,ETEC,500,,65A,Research Methodology in Education,Leah Macfadyen;Lori Macintosh;Oksana Bartosh,17,88.117647059,7.841255902,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,5,8,,,
+UBCV,2019,S,EDUC,500,,921,Research Methodology in Education,Oksana Bartosh,16,92.5,3.723797345,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,10,,,
+UBCV,2019,S,EDUC,500,,93A,Research Methodology in Education,Oksana Bartosh,19,90.789473684,4.744341043,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,11,,,
+UBCV,2019,W,EDCP,538,,62A,Theory and Research in Environmental Education,Oksana Bartosh;Sandra Scott,17,92.647058824,4.608974621,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,13,,,
+UBCV,2019,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,14,90.785714286,2.665407212,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,8,,,
+UBCV,2019,W,ETEC,500,,64B,Research Methodology in Education,Oksana Bartosh,22,90.045454545,5.635578077,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,7,12,,,
+UBCV,2020,S,EDCP,538,,941,Theory and Research in Environmental Education,Oksana Bartosh;Sandra Scott,16,88.9375,6.016297311,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,9,,,
+UBCV,2020,S,EDUC,500,,921,Research Methodology in Education,Kapil Regmi;Oksana Bartosh,19,92.526315789,1.428613199,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,,,
+UBCV,2020,S,EDUC,500,,951,Research Methodology in Education,David Anderson;Oksana Bartosh,16,90.25,5.802298395,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,9,,,
+UBCV,2020,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh;Sandra Mathison,13,92.692307692,4.090326299,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,8,,,
+UBCV,2020,W,EDUC,500,,61A,Research Methodology in Education,Lisa Mcintosh;Lori Macintosh;Oksana Bartosh,22,89.772727273,2.975004093,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,12,,,
+UBCV,2020,W,ETEC,500,,64B,Research Methodology in Education,Kisha Mcpherson;Oksana Bartosh,18,89.666666667,2.930569108,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,10,,,
+UBCV,2020,W,ETEC,500,,64C,Research Methodology in Education,Oksana Bartosh,22,91.545454545,4.044128875,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,16,,,
+UBCV,2020,W,ETEC,500,,65B,Research Methodology in Education,Leah Macfadyen;Oksana Bartosh,16,89.4375,6.366252168,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,4,9,,,
+UBCV,2020,W,ETEC,500,,65D,Research Methodology in Education,Oksana Bartosh,20,90.55,3.899730085,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,13,,,
+UBCV,2021,S,EDCP,538,,941,Theory and Research in Environmental Education,Oksana Bartosh;Sandra Scott,18,96.333333333,0.594088526,98.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,,,
+UBCV,2021,S,EDUC,500,,93A,Research Methodology in Education,Oksana Bartosh,26,89.5,5.770615219,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,9,14,,,
+UBCV,2021,S,EDUC,500,,93B,Research Methodology in Education,Oksana Bartosh,20,88.6,5.154456426,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,7,10,,,
+UBCV,2021,S,EDUC,500,,951,Research Methodology in Education,Oksana Bartosh;Stephen Petrina,9,93.222222222,2.108185107,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,,,
+UBCV,2021,S,EPSE,483,,951,Reading and Interpreting Research in Education,Oksana Bartosh;Shawna Faber,20,92.95,3.899730085,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,18,,,
+UBCV,2021,S,ETEC,500,,66B,Research Methodology in Education,Kisha Mcpherson;Oksana Bartosh,18,91.333333333,4.311407577,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,13,,,
+UBCV,2021,W,EDCP,538,,62A,Theory and Research in Environmental Education,Oksana Bartosh,21,93.333333333,3.568379651,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,17,,,
+UBCV,2021,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh;Samia Khan,15,91.2,6.416496596,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,11,,,
+UBCV,2021,W,EDUC,500,,006,Research Methodology in Education,Oksana Bartosh,16,90.1875,3.850865704,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,9,,,
+UBCV,2021,W,EDUC,500,,61A,Research Methodology in Education,Maria Pighini;Oksana Bartosh,21,90.904761905,6.355350202,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,0,2,17,,,
+UBCV,2021,W,EDUC,500,,62A,Research Methodology in Education,David Anderson;Kerry Renwick;Oksana Bartosh,18,88.722222222,3.268486888,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,8,,,
+UBCV,2021,W,EPSE,483,,63A,Reading and Interpreting Research in Education,Oksana Bartosh,24,92.875,3.937694095,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,20,,,
+UBCV,2021,W,ETEC,500,,64B,Research Methodology in Education,Kisha Mcpherson;Oksana Bartosh,17,78.705882353,29.909790842,95.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,0,2,6,7,,,
+UBCV,2021,W,ETEC,500,,64C,Research Methodology in Education,Keri Ewart;Oksana Bartosh,14,87.785714286,3.512145332,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,6,,,
+UBCV,2021,W,ETEC,500,,65A,Research Methodology in Education,Kisha Mcpherson;Oksana Bartosh,23,90.043478261,5.636554886,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,5,16,,,
+UBCV,2021,W,ETEC,500,,65B,Research Methodology in Education,Leah Macfadyen;Oksana Bartosh,21,89.333333333,4.374166587,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,11,,,
+UBCV,2021,S,EDUC,500,,93A,Research Methodology in Education,Oksana Bartosh,26,89.5,,97.0,73.0,,,,,,,,,,,,,,,,,,,,9,14,90.0,93.8,87.3
+UBCV,2021,S,EDUC,500,,93B,Research Methodology in Education,Oksana Bartosh,20,88.6,,97.0,77.0,,,,,,,,,,,,,,,,,,,,7,10,89.5,91.0,86.8
+UBCV,2021,S,EPSE,483,,951,Reading and Interpreting Research in Education,Oksana Bartosh,20,93.0,,98.0,80.0,,,,,,,,,,,,,,,,,,,,,18,93.0,96.0,91.0
+UBCV,2021,S,ETEC,500,,66B,Research Methodology in Education,Oksana Bartosh,18,91.3,,96.0,80.0,,,,,,,,,,,,,,,,,,,,,13,93.0,94.0,89.5
+UBCV,2021,W,EDCP,538,,62A,Theory and Research in Environmental Education,Oksana Bartosh,21,93.3,,99.0,86.0,,,,,,,,,,,,,,,,,,,,,17,94.0,95.0,93.0
+UBCV,2021,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh,15,91.2,,97.0,77.0,,,,,,,,,,,,,,,,,,,,,11,93.0,96.0,88.0
+UBCV,2021,W,EDUC,500,,006,Research Methodology in Education,Oksana Bartosh,16,90.2,,97.0,83.0,,,,,,,,,,,,,,,,,,,,6,9,90.5,93.0,87.0
+UBCV,2021,W,EPSE,483,,63A,Reading and Interpreting Research in Education,Oksana Bartosh,24,92.9,,98.0,82.0,,,,,,,,,,,,,,,,,,,,,20,94.0,95.3,91.8
+UBCV,2021,W,ETEC,500,,64B,Research Methodology in Education,Oksana Bartosh,17,78.7,,95.0,0.0,,,,,,,,,,,,,,,,,,,,6,7,87.0,93.0,85.0
+UBCV,2021,W,ETEC,500,,65A,Research Methodology in Education,Oksana Bartosh,23,90.0,,96.0,70.0,,,,,,,,,,,,,,,,,,,,,16,91.0,93.0,89.0
+UBCV,2021,W,ETEC,500,,65B,Research Methodology in Education,Oksana Bartosh,21,89.3,,96.0,82.0,,,,,,,,,,,,,,,,,,,,7,11,90.0,92.0,86.0
+UBCV,2022,S,EDUC,500,,93A,Research Methodology in Education,Oksana Bartosh,17,90.4,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,10,90.0,93.0,88.0
+UBCV,2022,S,EDUC,500,,951,Research Methodology in Education,Oksana Bartosh,8,92.6,,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,92.0,94.0,90.8
+UBCV,2022,S,EPSE,483,,93S,Reading and Interpreting Research in Education,Oksana Bartosh,19,92.3,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,14,94.0,95.0,90.5
+UBCV,2022,S,ETEC,500,,66A,Research Methodology in Education,Oksana Bartosh,15,90.4,,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,10,93.0,95.0,86.5
+UBCV,2022,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh,10,92.1,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,9,92.5,93.8,90.3
+UBCV,2022,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,16,91.0,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,9,91.0,95.3,88.8
+UBCV,2022,W,EDUC,500,,007,Research Methodology in Education,Oksana Bartosh,16,89.8,,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,8,90.0,94.0,86.8
+UBCV,2022,W,EPSE,483,,63A,Reading and Interpreting Research in Education,Oksana Bartosh,25,94.7,,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,22,95.0,97.0,93.0
+UBCV,2022,W,ETEC,500,,64B,Research Methodology in Education,Oksana Bartosh,20,91.0,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,14,92.0,94.0,88.8
+UBCV,2022,W,ETEC,500,,65A,Research Methodology in Education,Oksana Bartosh,22,90.6,,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,17,92.0,94.0,90.0
+UBCV,2023,S,EDUC,500,,96A,Research Methodology in Education,Oksana Bartosh,27,89.07,,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,11,13,89.0,92.0,86.0
+UBCV,2023,S,EDUC,500,,96B,Research Methodology in Education,Oksana Bartosh,23,88.76,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,7,10,89.0,93.0,86.0
+UBCV,2023,S,EDUC,500,,96C,Research Methodology in Education,Oksana Bartosh,22,89.68,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,12,90.0,91.75,88.25
+UBCV,2023,W,EDCP,538,,62A,Theory and Research in Environmental Education,Oksana Bartosh,23,94.57,,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,21,95.0,97.0,93.5
+UBCV,2023,W,EDUC,500,,62C,Research Methodology in Education,Oksana Bartosh,17,90.4,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,11,91.0,93.0,89.0
+UBCV,2023,W,EDUC,500,,007,Research Methodology in Education,Oksana Bartosh,12,92.3,,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,92.5,94.5,89.8
+UBCV,2023,W,EPSE,483,,63A,Reading and Interpreting Research in Education,Oksana Bartosh,25,92.3,,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,17,93.0,95.0,89.0
+UBCV,2023,W,ETEC,500,,64A,Research Methodology in Education,Oksana Bartosh,19,91.79,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,15,92.0,94.5,90.0
+UBCV,2023,W,ETEC,500,,65A,Research Methodology in Education,Oksana Bartosh,22,90.55,,99.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,4,16,92.0,93.0,87.75

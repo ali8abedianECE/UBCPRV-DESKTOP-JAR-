@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Ethan Greenblatt;Harry Brumer;Hugh Kim;Sheila Teves,90,80.011111111,8.141300512,94.0,59.0,0,0,1,4,2,5,11,17,19,19,12,,,
+UBCV,2021,W,BIOC,304,,001,Contemporary Biochemical Research,Ethan Greenblatt;Hugh Kim;Sheila Teves;Calvin Yip,90,80.0,,94.0,59.0,,,,,,,11,17,19,19,12,80.5,86.0,75.3
+UBCV,2022,W,BIOC,304,,001,Contemporary Biochemical Research,Ethan Greenblatt;Hugh Kim;Sheila Teves;Calvin Yip,107,82.2,,96.0,57.0,0,0,1,1,3,1,12,16,28,27,18,83.0,87.0,78.0
+UBCV,2022,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;Scott Covey;Pieter Cullis;Dana Virginia Devine;Franck Duong van Hoa;B Brett Finlay;Ethan Greenblatt;Philip Hieter;Thibault Mayor;Seth Parker;Jason Read;Sriram Subramaniam;Sheila Teves,20,97.4,,99.0,94.0,0,0,0,0,0,0,0,0,0,0,20,97.0,99.0,97.0
+UBCV,2023,W,BIOC,304,,001,Contemporary Biochemical Research,Ethan Greenblatt;Hugh Kim;Sheila Teves;Calvin Yip,98,77.6,,92.0,44.0,2,1,3,4,4,7,11,18,26,14,8,79.0,84.0,73.3
+UBCV,2023,W,BIOC,530,,001,Seminar in Biochemistry,Lindsay Eltis;Ethan Greenblatt,18,87.0,,87.0,87.0,,,,,,,,,,,,87.0,87.0,87.0
+UBCV,2023,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Ethan Greenblatt,18,89.8,,94.0,85.0,0,0,0,0,0,0,0,0,0,8,10,90.0,91.0,89.0
+UBCV,2023,W,BIOC,554,,001,Nucleic Acids: DNA/RNA Structure and Function,Ethan Greenblatt;Eric Jan;Sheila Teves,14,89.2,,94.0,83.0,0,0,0,0,0,0,0,0,2,4,7,90.0,93.0,87.0

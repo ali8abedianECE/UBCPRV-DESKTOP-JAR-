@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,EOSC,328,,201,FIELD GEOLOGY,"Ambrose, Tyler;Gilley, Brett;Hickey, Kenneth;Scoates, James Stewart;Smit, Matthijs",41,73.1,8.18,91,50,40,0,1,0,0,0,0,0,0,0,0,1,1,2,4,6,12,8,2,2,2
+UBC,2017,W,EOSC,428,,201,FLD TEC GRDWT HY,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",31,79.63,6.78,90,66,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0,14,5,2
+UBC,2017,W,EOSC,532,,201,FLD LAB GRDWTR H,"Ambrose, Tyler;Beckie, Roger;Cahill, Aaron;O'Neill, Shane",13,89.64,3.07,93,82,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBCV,2017,W,EOSC,328,,201,Field Geology,Brett Gilley;James Stewart Scoates;Kenneth Hickey;Matthijs Smit;Tyler Ambrose,40,73.1,8.183159693,91.0,50.0,,,,,,,,,,,0,1,1,2,4,6,12,8,2,2,2
+UBCV,2017,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Aaron Cahill;Roger Beckie;Shane O'Neill;Tyler Ambrose,30,79.633333333,6.784786904,90.0,66.0,,,,,,,,,,,0,0,0,0,1,4,4,0,14,5,2
+UBCV,2017,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Aaron Cahill;Aaron G Cahill;Roger Beckie;Shane O'Neill;Tyler Ambrose;Ulrich Mayer,11,89.636363636,3.074824459,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,6

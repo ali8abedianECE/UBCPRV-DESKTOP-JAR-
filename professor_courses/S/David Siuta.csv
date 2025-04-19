@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,ATSC,406,,201,OPRTL METEOROLGY,"Siuta, David",6,87.33,6.41,95,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3
+UBC,2014,W,ATSC,406,,201,OPRTL METEOROLGY,"Siuta, David",7,89,5.8,96,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4
+UBC,2015,W,ATSC,406,,201,OPRTL METEOROLGY,"Siuta, David",19,81.47,8.61,94,65,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,6,1,5
+UBCV,2014,W,ATSC,406,,201,Operational Meteorology,David Siuta,7,89.0,5.802298395,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,ATSC,406,,201,Operational Meteorology,David Siuta;Margaret Campbell,19,81.473684211,8.611158272,94.0,65.0,,,,,,,,,,,0,0,0,0,,,,,6,,5

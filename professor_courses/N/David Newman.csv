@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,S,HIST,109,,951,Cultural Histories of Media: From Writing to Tweeting,David Bruce Newman;David Newman,23,73.608695652,15.663330455,90.0,12.0,1,0,2,0,0,1,6,3,7,2,1,,,
+UBCV,2019,W,WRDS,150,,633,Writing and Research in the Disciplines,David Newman,27,72.148148148,6.004509227,90.0,62.0,0,0,0,1,5,5,8,7,0,0,1,,,
+UBCV,2019,W,WRDS,150,,663,Writing and Research in the Disciplines,David Newman,27,68.222222222,17.323468593,87.0,10.0,2,0,0,3,2,5,6,4,4,1,0,,,
+UBCV,2019,W,WRDS,150,,922,Writing and Research in the Disciplines,David Newman,28,73.928571429,10.04408273,90.0,34.0,1,0,0,1,1,7,5,4,7,1,1,,,
+UBCV,2019,W,WRDS,150,,931,Writing and Research in the Disciplines,David Newman,27,73.407407407,8.889316229,85.0,40.0,1,0,0,1,2,4,6,6,6,1,0,,,
+UBCV,2020,S,HIST,109,,951,Cultural Histories of Media: From Writing to Tweeting,David Bruce Newman;David Newman,31,74.741935484,20.041569702,92.0,0.0,2,0,0,1,0,0,5,8,10,2,3,,,
+UBCV,2020,W,WRDS,150,B,643,Writing and Research in the Disciplines,David Newman;Eshana Bhangu,26,75.923076923,6.196276798,85.0,55.0,0,0,1,0,0,3,4,10,7,1,0,,,
+UBCV,2020,W,WRDS,150,B,654,Writing and Research in the Disciplines,David Newman;Eshana Bhangu,25,73.64,7.2277244,85.0,56.0,0,0,1,1,3,4,5,6,4,1,0,,,
+UBCV,2020,W,WRDS,150,B,672,Writing and Research in the Disciplines,Amelia Meredith;David Newman,25,75.8,6.958208582,86.0,59.0,0,0,1,1,1,2,8,4,5,3,0,,,
+UBCV,2020,W,WRDS,150,B,924,Writing and Research in the Disciplines,Amelia Meredith;David Newman,29,77.206896552,6.014145886,87.0,61.0,0,0,0,1,3,0,4,8,11,2,0,,,
+UBCV,2020,W,WRDS,150,B,934,Writing and Research in the Disciplines,Amelia Meredith;David Newman,22,76.318181818,7.466664734,86.0,57.0,0,0,1,1,1,1,3,6,8,1,0,,,
+UBCV,2020,W,WRDS,150,B,951,Writing and Research in the Disciplines,Amelia Meredith;David Newman,25,76.04,6.044832504,87.0,66.0,0,0,0,0,2,5,4,7,4,3,0,,,
+UBCV,2021,S,HIST,109,,921,Cultural Histories of Media: From Writing to Tweeting,David Newman,17,77.352941176,9.279959432,89.0,50.0,0,1,0,0,1,0,3,5,3,4,0,,,
+UBCV,2021,W,WRDS,150,A,191,Writing and Research in the Disciplines,David Newman;Gabrielle Rutman,31,67.35483871,17.530066338,85.0,0.0,4,0,1,3,4,2,4,6,6,1,0,,,
+UBCV,2021,W,WRDS,150,A,391,Writing and Research in the Disciplines,Claire Sutherland;David Newman,24,72.875,5.48763432,90.0,63.0,0,0,0,2,1,5,10,4,1,0,1,,,
+UBCV,2021,W,WRDS,150,B,721,Writing and Research in the Disciplines,David Newman;Gabrielle Rutman,31,76.35483871,6.285159171,87.0,63.0,0,0,0,2,1,3,6,10,6,3,0,,,
+UBCV,2021,W,WRDS,150,B,922,Writing and Research in the Disciplines,Claire Sutherland;David Newman,23,72.652173913,16.786381644,86.0,0.0,1,0,0,1,0,3,5,6,6,1,0,,,
+UBCV,2021,S,HIST,109,,921,Cultural Histories of Media: From Writing to Tweeting,David Newman,17,77.4,,89.0,50.0,,,,,,,,,,,,77.0,84.0,75.0
+UBCV,2021,W,WRDS,150,A,191,Writing and Research in the Disciplines,David Newman,31,67.4,,85.0,0.0,,,,,,,,6,6,,,73.0,78.5,62.5
+UBCV,2021,W,WRDS,150,A,391,Writing and Research in the Disciplines,David Newman,24,72.9,,90.0,63.0,,,,,,,10,,,,,74.0,75.3,69.8
+UBCV,2021,W,WRDS,150,B,721,Writing and Research in the Disciplines,David Newman,31,76.4,,87.0,63.0,,,,,,,6,10,6,,,77.0,80.0,72.5
+UBCV,2021,W,WRDS,150,B,922,Writing and Research in the Disciplines,David Newman,23,72.7,,86.0,0.0,,,,,,,,6,6,,,77.0,80.0,72.5
+UBCV,2022,S,HIST,109,,951,Cultural Histories of Media: From Writing to Tweeting,David Newman,20,73.8,,90.0,0.0,2,0,0,0,1,0,1,5,7,3,1,80.0,83.0,78.8
+UBCV,2022,S,WRDS,150,B,562,Writing and Research in the Disciplines,David Newman,24,79.4,,85.0,74.0,0,0,0,0,0,0,1,13,6,4,0,78.0,82.0,77.0
+UBCV,2022,W,WRDS,150,A,211,Writing and Research in the Disciplines,David Newman,26,77.8,,90.0,65.0,0,0,0,0,2,2,2,10,7,2,1,77.5,81.0,76.0
+UBCV,2022,W,WRDS,150,B,723,Writing and Research in the Disciplines,David Newman,23,75.3,,85.0,60.0,0,0,0,1,2,2,4,10,3,1,0,77.0,78.5,72.0
+UBCV,2023,S,WRDS,150,B,562,Writing and Research in the Disciplines,David Newman,25,81.4,,91.0,71.0,0,0,0,0,0,1,0,6,13,4,1,82.0,83.0,79.0
+UBCV,2023,S,WRDS,150,B,565,Writing and Research in the Disciplines,David Newman,29,76.9,,85.0,67.0,0,0,0,0,1,2,9,6,10,1,0,77.0,81.0,73.0
+UBCV,2023,W,WRDS,150,A,222,Writing and Research in the Disciplines,David Newman,30,76.7,,85.0,58.0,0,0,1,0,0,3,8,8,6,3,0,78.0,81.0,73.0
+UBCV,2023,W,WRDS,150,B,741,Writing and Research in the Disciplines,David Newman,30,70.5,,90.0,33.0,1,1,1,2,3,6,6,5,2,1,1,72.0,76.0,67.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,BMEG,456,,101,CLIN&IND BIO ENG,"Boehm, Jochen;Paris, Nancy",48,84.33,7.55,95,56,48,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,3,12,14,13
+UBC,2017,W,BMEG,556,,101,CL&IND BIOMD ENG,"Boehm, Jochen;Paris, Nancy",19,84.63,6.51,98,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,5,5
+UBCV,2017,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Nancy Paris,48,84.333333333,7.549364728,95.0,56.0,,,,,,,,,,,0,0,1,0,1,1,3,3,12,14,13
+UBCV,2017,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Nancy Paris,19,84.631578947,6.508204449,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,5,5,5

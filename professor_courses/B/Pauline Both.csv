@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,EPSE,317,,301,DEV&EX REG CLASS,"Both, Pauline",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,EPSE,432,,221,CLASSROOM MGMT,"Both, Pauline;Faber, Shawna",30,91.07,4.33,98,79,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,23,,,
+UBC,2010,S,EPSE,432,,952,CLASSROOM MGMT,"Both, Pauline",18,84.56,6.25,92,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,6,5,,,
+UBC,2010,W,EPSE,317,,301,DEV&EX REG CLASS,"Both, Pauline",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,S,EPSE,317,,972,DEV&EX REG CLASS,"Both, Pauline",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,S,EPSE,432,,952,CLASSROOM MGMT,"Both, Pauline",29,88.34,6.74,98,74,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,5,16,,,
+UBC,2011,W,EPSE,317,,301,DEV&EX REG CLASS,"Both, Pauline",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,S,EPSE,432,,951,CLASSROOM MGMT,"Both, Pauline;Romero, Amber",37,91.83,4.4,99,76,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,27,,,
+UBC,2012,W,EPSE,432,,63C,CLASSROOM MGMT,"Both, Pauline",26,90.54,6.8,100,76,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,18,,,
+UBC,2014,S,EPSE,317,,923,DEV&EX REG CLASS,"Both, Pauline;Heikkila, Mary",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,S,EPSE,317,,972,DEV&EX REG CLASS,"Both, Pauline;Heikkila, Mary",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,EPSE,432,,63C,CLASSROOM MGMT,"Both, Pauline;Ervin, Ruth",25,94.88,3.55,100,86,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,24,,,
+UBC,2015,S,EPSE,432,,951,CLASSROOM MGMT,"Both, Pauline",37,95.86,4.01,100,82,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,35,,,
+UBC,2018,W,EPSE,432,,63C,CLASSROOM MGMT,"Both, Pauline;Ervin, Ruth",22,93.64,6.31,99,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,17,,,
+UBCV,2014,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,25,94.88,3.551056181,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,24,,,
+UBCV,2015,S,EPSE,432,,951,Classroom Management,Pauline Both,37,95.86486487,4.008062445,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,35,,,
+UBCV,2017,S,EPSE,432,,951,Classroom Management,Laurie Smith;Pauline Both;Sunita Braich,28,81.178571429,8.119722543,95.0,67.0,,,,,,,,,,,0,0,0,0,2,1,6,3,6,5,5,,,
+UBCV,2018,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,22,93.636363636,6.306047396,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,4,17,,,
+UBCV,2019,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,25,93.84,19.171767437,100.0,2.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,0,24,,,
+UBCV,2020,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,21,95.523809524,7.743507265,100.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,0,1,19,,,
+UBCV,2022,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,23,98.9,,100.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23,99.0,100.0,98.0
+UBCV,2023,W,EPSE,432,,63C,Classroom Management,Pauline Both;Ruth Ervin,24,96.9,,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,24,98.0,99.0,95.0

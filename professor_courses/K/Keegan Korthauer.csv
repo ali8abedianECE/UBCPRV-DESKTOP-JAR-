@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Keegan Korthauer;Paul Pavlidis;Sara Mostafavi;Sina Jafarzadeh;Victor Weike Yuan;Victor Yuan,14,91.5,2.534379001,95.0,86.0,0,0,0,0,0,0,0,0,0,2,12,,,
+UBCV,2020,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Jenkin Tsui;Keegan Korthauer;Marco Tello Palencia;Sara Mostafavi;Sina Jafarzadeh,15,90.533333333,5.680375574,98.0,81.0,0,0,0,0,0,0,0,0,3,2,10,,,
+UBCV,2020,W,GSAT,502,,001,Advanced Concepts in Genome Science and Technology,Alexander Wyatt;Cara Haney;Carl Bohlmann;Carl De Boer;Carolina Tropini;Christian Kastrup;Corey Nislow;Fabio Rossi;Inanc Birol;Joerg Bohlmann;Jorg Bohlmann;Keegan Korthauer;Lindsay Eltis;Marco Marra;Martin Hirst;Nobuhiko Tokuriki;Peter Stirling;Sara Mostafavi;Sheila Teves;Steven Hallam;Thibault Mayor;Vivien Measday;Xin Li,14,88.214285714,3.262339213,94.0,83.0,0,0,0,0,0,0,0,0,1,9,4,,,
+UBCV,2020,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Jenkin Tsui;Keegan Korthauer;Marco Tello Palencia;Sara Mostafavi;Sina Jafarzadeh,10,92.9,3.314949304,98.0,87.0,0,0,0,0,0,0,0,0,0,2,8,,,
+UBCV,2020,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Jenkin Tsui;Keegan Korthauer;Marco Tello Palencia;Sara Mostafavi;Sina Jafarzadeh,20,89.65,7.005824644,98.0,75.0,0,0,0,0,0,0,1,2,1,4,12,,,
+UBCV,2021,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Syed Asfar Lathif Salaudeen;Yongjin Park,12,91.833333333,4.323999271,99.0,84.0,0,0,0,0,0,0,0,0,1,2,9,,,
+UBCV,2021,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Syed Asfar Lathif Salaudeen;Yongjin Park,8,89.375,8.927285622,99.0,74.0,0,0,0,0,0,0,1,1,0,1,5,,,
+UBCV,2021,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Yongjin Park,21,94.142857143,4.809217341,100.0,77.0,0,0,0,0,0,0,0,1,0,0,20,,,
+UBCV,2021,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,91.8,,99.0,84.0,,,,,,,,,,,9,92.5,93.3,89.8
+UBCV,2021,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,8,89.4,,99.0,74.0,,,,,,,,,,,,92.5,95.5,84.3
+UBCV,2021,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,21,94.2,,100.0,77.0,,,,,,,,,,,20,95.0,96.0,93.0
+UBCV,2022,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,10,93.3,,95.0,89.0,0,0,0,0,0,0,0,0,0,1,9,94.0,95.0,92.3
+UBCV,2022,W,GSAT,502,,001,Advanced Concepts in Genome Science and Technology,Samuel Aparicio;Anna Blakney;Joerg Bohlmann;Martin Hirst;Keegan Korthauer;Freda Miller;Peter Stirling;Sheila Teves;Alexander Wyatt;Nozomu Yachie,12,91.4,,96.0,86.0,0,0,0,0,0,0,0,0,0,3,9,91.5,94.0,89.3
+UBCV,2022,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,7,93.0,,94.0,90.0,0,0,0,0,0,0,0,0,0,0,7,94.0,94.0,92.5
+UBCV,2022,W,STAT,450,,201,Case Studies in Statistics,Keegan Korthauer;Melissa Lee;Rodolfo Lourenzutti;Hongxing Estella Qi,26,91.5,,97.0,83.0,0,0,0,0,0,0,0,0,1,6,19,92.0,93.8,89.3
+UBCV,2022,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,13,92.6,,96.0,89.0,0,0,0,0,0,0,0,0,0,1,12,92.0,94.0,91.0
+UBCV,2023,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,92.09,,99.0,81.0,0,0,0,0,0,0,0,0,2,0,9,93.0,96.5,90.5
+UBCV,2023,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,9,91.0,,99.0,70.0,0,0,0,0,0,1,0,0,0,1,5,93.0,98.5,89.0
+UBCV,2023,W,STAT,450,,201,Case Studies in Statistics,Keegan Korthauer;Melissa Lee;Rodolfo Lourenzutti;Hongxing Estella Qi,28,89.7,,95.0,81.0,0,0,0,0,0,0,0,0,4,9,15,90.5,93.0,87.0
+UBCV,2023,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,90.1,,96.0,80.0,0,0,0,0,0,0,0,0,2,1,9,91.5,93.3,89.3

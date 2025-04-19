@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,MUSC,220,,001,HIST MUSIC III,"Vellutini, Claudio",55,76.3,14.42,98,35,52,2,0,1,0,0,0,0,1,1,2,2,1,4,5,6,7,1,5,9,12,,,
+UBC,2016,W,MUSC,455,,001,HIST OF OPERA II,"Vellutini, Claudio",25,72.25,17.85,97,12,23,1,1,0,0,0,1,0,0,0,1,1,3,1,0,4,3,3,2,2,4,,,
+UBC,2016,W,MUSC,532,D,001,MUS HIST&MUSICOL,"Vellutini, Claudio",4,83,9,92,74,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,,,
+UBC,2017,W,MUSC,220,,001,HIST MUSIC III,"Vellutini, Claudio",56,78.85,13.48,99,25,53,1,1,1,0,0,0,1,0,0,1,2,2,1,2,5,4,8,9,8,12,,,
+UBC,2017,W,MUSC,356,,001,ROMANTIC MUSIC,"Vellutini, Claudio",15,81.54,15.43,95,35,12,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,3,3,4,,,
+UBC,2017,W,MUSC,532,K,001,MUS HIST&MUSICOL,"Vellutini, Claudio",5,79.4,13.28,94,58,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,,,
+UBC,2018,W,MUSC,220,,001,HIST MUSIC III,"Vellutini, Claudio",73,80.8,13.9,98,0,68,3,1,1,0,1,0,0,0,2,3,1,0,0,0,2,10,4,19,18,14,,,
+UBC,2018,W,MUSC,403,H,001,SELECTED TOPICS,"Vellutini, Claudio",9,80.86,13.89,99,60,7,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2,2,,,
+UBC,2018,W,MUSC,403,T,001,SELECTED TOPICS,"Vellutini, Claudio",13,80.5,16.91,94,36,11,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,4,4,,,
+UBC,2018,W,MUSC,455,,001,HIST OF OPERA II,"Vellutini, Claudio",30,72.83,13.11,95,46,29,1,0,0,0,0,0,0,0,1,1,3,2,0,1,4,7,2,5,1,4,,,
+UBCV,2016,W,MUSC,220,,001,History of Music III,Claudio Vellutini,54,76.2962963,14.42172056,98.0,35.0,,,,,,,,,,,2,2,1,4,5,6,7,1,5,9,12,,,
+UBCV,2016,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,24,72.25,17.84535014,97.0,12.0,,,,,,,,,,,1,1,3,1,0,4,3,3,2,2,4,,,
+UBCV,2017,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Claudio Vellutini;Marina Gallagher;Samara Ripley,54,78.851851852,13.477314843,99.0,25.0,,,,,,,,,,,1,2,2,1,2,5,4,8,9,8,12,,,
+UBCV,2017,W,MUSC,356,,001,Romantic Music,Claudio Vellutini,14,79.642857143,16.429837505,95.0,35.0,,,,,,,,,,,1,0,1,0,0,0,0,2,3,3,4,,,
+UBCV,2018,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Christina Hutten;Claudio Vellutini;Joanna Bevaart,71,81.342857143,13.231369965,98.0,0.0,,,,,,,,,,,2,1,,,,2,10,4,19,18,14,,,
+UBCV,2018,W,MUSC,403,H,001,Selected Topics in Music,Claudio Vellutini,7,80.857142857,13.885586909,99.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,0,0,2,2,,,
+UBCV,2018,W,MUSC,403,T,001,Selected Topics in Music,Claudio Vellutini,12,80.5,16.914222095,94.0,36.0,,,,,,,,,,,1,0,1,0,0,0,0,1,1,4,4,,,
+UBCV,2018,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,31,72.35483871,13.164468307,95.0,46.0,,,,,,,,,,,1,3,3,0,1,4,7,2,5,1,4,,,
+UBCV,2019,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Christina Hutten;Claudio Vellutini,67,80.268656716,10.726040374,96.0,50.0,,,,,,,,,,,0,2,2,4,1,2,6,8,16,13,13,,,
+UBCV,2019,W,MUSC,356,,001,Romantic Music,Claudio Vellutini,9,87.333333333,6.763874629,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,4,,,
+UBCV,2019,W,MUSC,403,L,001,Selected Topics in Music,Claudio Vellutini,6,89.666666667,5.750362307,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,2,,,
+UBCV,2019,W,MUSC,430,B,001,Major Composers,Claudio Vellutini,6,69.333333333,13.231276079,80.0,50.0,,,,,,,,,,,0,1,1,0,0,0,1,2,1,0,0,,,
+UBCV,2019,W,MUSC,532,D,001,Advanced Studies in Music History and Musicology,Claudio Vellutini,6,84.5,7.231873893,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,0,2,,,
+UBCV,2020,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Christina Hutten;Claudio Vellutini,49,82.306122449,9.517974403,98.0,57.0,,,,,,,,,,,0,0,2,0,2,2,5,5,10,13,10,,,
+UBCV,2020,W,MUSC,403,H,001,Selected Topics in Music,Claudio Vellutini,8,76.25,16.472921503,93.0,45.0,,,,,,,,,,,1,0,0,1,0,0,2,0,1,0,3,,,
+UBCV,2020,W,MUSC,403,P,001,Selected Topics in Music,Claudio Vellutini,6,85.166666667,9.867454923,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,2,,,
+UBCV,2020,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,21,78.952380952,10.399404745,93.0,56.0,,,,,,,,,,,0,0,2,0,0,3,2,5,1,4,4,,,
+UBCV,2021,W,MUSC,220,,001,History of Music III,Catherine Laub;Claudio Vellutini,60,81.7,11.445226968,98.0,27.0,,,,,,,,,,,1,0,1,1,2,3,5,6,14,9,18,,,
+UBCV,2021,W,MUSC,356,,001,Romantic Music,Claudio Vellutini,9,67.666666667,17.965244223,90.0,37.0,,,,,,,,,,,1,1,1,1,0,1,0,1,1,1,1,,,
+UBCV,2021,W,MUSC,403,K,001,Selected Topics in Music,Claudio Vellutini,8,80.5,11.186726829,96.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,0,4,0,2,,,
+UBCV,2021,W,MUSC,532,K,001,Advanced Studies in Music History and Musicology,Claudio Vellutini,6,91.0,5.403702434,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,4,,,
+UBCV,2021,W,MUSC,220,,001,History of Music III,Claudio Vellutini,60,81.7,,98.0,27.0,,,,,,,,,,,,,,,,,,6,14,9,18,84.0,90.0,76.0
+UBCV,2021,W,MUSC,356,,001,Romantic Music,Claudio Vellutini,10,66.1,,90.0,37.0,,,,,,,,,,,,,,,,,,,,,,64.0,81.3,53.5
+UBCV,2021,W,MUSC,403,K,001,Selected Topics in Music,Claudio Vellutini,8,80.5,,96.0,60.0,,,,,,,,,,,,,,,,,,,,,,82.5,84.8,77.5
+UBCV,2021,W,MUSC,532,K,001,Advanced Studies in Music History and Musicology,Claudio Vellutini,6,91.0,,96.0,82.0,,,,,,,,,,,,,,,,,,,,,,93.0,94.5,88.5
+UBCV,2022,W,MUSC,220,,001,History of Music III,Claudio Vellutini,42,73.0,,94.0,22.0,,,,,,,,,,,1,0,5,5,4,3,3,8,6,1,6,76.0,82.5,63.3
+UBCV,2022,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,19,75.8,,94.0,53.0,,,,,,,,,,,0,1,0,2,1,2,3,2,2,4,2,76.0,86.5,68.0
+UBCV,2023,W,MUSC,220,,001,History of Music III,Claudio Vellutini,54,77.7,,94.0,52.0,,,,,,,,,,,0,3,2,2,3,3,7,7,9,7,10,79.0,85.0,72.0
+UBCV,2023,W,MUSC,403,L,001,Selected Topics in Music,Claudio Vellutini,6,73.7,,93.0,30.0,,,,,,,,,,,1,0,0,0,0,1,0,1,1,1,1,80.5,86.8,72.0

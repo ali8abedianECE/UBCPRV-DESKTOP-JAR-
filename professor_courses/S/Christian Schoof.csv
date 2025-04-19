@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,EOSC,250,,101,GEO FLDS&FLUX I,"Schoof, Christian",31,70.68,17.27,95,25,28,3,0,0,0,0,0,2,0,1,3,1,2,1,3,6,2,2,4,3,4,,,
+UBC,2007,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",18,69.06,21.8,97,8,16,2,0,0,0,1,0,0,1,0,2,1,1,0,3,3,0,1,3,1,3,,,
+UBC,2009,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",20,74.26,13.56,95,51,19,0,1,0,0,0,0,0,0,0,0,1,3,1,2,1,1,1,4,2,3,,,
+UBC,2009,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",12,68.25,21.35,100,24,11,1,0,0,0,0,0,1,0,0,1,3,0,1,0,2,0,2,1,0,2,,,
+UBC,2009,W,EOSC,554,B,201,THEORCALGLACIOL,"Schoof, Christian",5,86.8,2.28,89,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,,,
+UBC,2010,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",23,72.9,20.77,100,23,19,2,2,0,0,0,0,1,0,1,2,2,2,1,1,1,3,1,1,1,6,,,
+UBC,2010,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",15,74.62,12.3,90,50,13,0,1,0,1,0,0,0,0,0,0,1,1,0,2,0,1,3,2,2,1,,,
+UBC,2011,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",18,62.28,25.55,85,3,14,4,0,0,0,1,0,2,1,0,4,1,1,0,1,3,0,2,4,2,0,,,
+UBC,2011,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",9,83.33,8.67,94,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,3,,,
+UBC,2012,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",16,73.94,10.66,90,56,16,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,4,1,2,2,1,,,
+UBC,2012,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",14,77.17,7.96,90,61,12,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,2,5,1,1,1,,,
+UBC,2012,W,EOSC,554,B,101,THEORCALGLACIOL,"Schoof, Christian",6,87.33,2.73,92,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2013,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",11,73.64,12.16,91,61,11,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,0,0,2,2,,,
+UBC,2013,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",8,76.38,10.34,86,55,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1,2,0,,,
+UBC,2015,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",26,71.32,20.52,88,6,23,2,1,0,0,1,1,0,0,0,2,0,1,0,1,4,4,3,6,4,0,,,
+UBC,2015,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",19,75.26,12.66,98,51,19,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,3,3,2,1,3,,,
+UBC,2016,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",11,78.89,9.06,91,65,9,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,0,2,,,
+UBC,2016,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",16,74.2,17.64,93,40,13,2,0,0,1,0,0,0,0,2,2,0,1,0,2,2,0,1,0,4,3,,,
+UBC,2017,W,EOSC,114,,201,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",283,72.39,12.95,99,0,262,9,4,1,0,2,0,0,2,5,9,3,18,18,31,36,38,36,35,21,26,,,
+UBC,2017,W,EOSC,114,,202,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",235,73.38,11,96,28,227,4,3,0,0,0,0,1,1,2,4,8,7,17,24,27,34,28,40,28,14,,,
+UBC,2017,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",9,76.89,16.52,94,35,8,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,4,0,1,,,
+UBC,2017,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",12,77.25,12.56,99,59,12,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,4,1,2,,,
+UBC,2017,W,EOSC,554,B,201,THEORCALGLACIOL,"Schoof, Christian",4,93.75,0.96,95,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2018,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",12,72.89,11.75,88,50,9,0,2,1,0,0,0,0,0,0,0,1,0,0,1,3,0,2,0,2,0,,,
+UBC,2018,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",12,75.92,9.39,89,60,12,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,2,3,0,,,
+UBCV,2015,W,EOSC,250,,201,Fields and Fluxes,Arran John Charles Whiteford;Arran Whiteford;Christian Schoof,25,71.32,20.519746587,88.0,6.0,,,,,,,,,,,,,,,,,,,6,,0,,,
+UBCV,2015,W,EOSC,352,,101,Geophysical Continuum Dynamics,Arran John Charles Whiteford;Arran Whiteford;Christian Schoof,19,75.263157895,12.661587163,98.0,51.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2016,W,EOSC,250,,201,Fields and Fluxes,Anna Grau Galofre;Christian Schoof,9,78.88888889,9.061518146,91.0,65.0,,,,,,,,,,,0,0,0,0,1,1,2,0,3,0,2,,,
+UBCV,2016,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof;Gabriela Clara Racz;Gabriela Racz,16,74.5625,17.10348405,93.0,40.0,,,,,,,,,,,2,0,1,0,2,2,0,1,1,4,3,,,
+UBCV,2017,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Christian Schoof;Connor Robinson;Leah May Ver;Lucy Porritt;Maria Maldonado-Pareja;Michael Bostock;Roland Stull;Saurav Sahu;Vahid Dehghanniri;Valentina Radic,278,72.449640288,12.834800808,99.0,0.0,,,,,,,,,,,9,3,18,18,32,37,41,36,36,22,26,,,
+UBCV,2017,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Benjamin Scheifele;Christian Schoof;Leah May Ver;Lucy Porritt;Maria Maldonado-Pareja;Mengqi Jia;Michael Bostock;Roland Stull;Valentina Radic;Yuanji Sun,232,73.422413793,10.994410908,96.0,28.0,,,,,,,,,,,4,8,7,17,24,27,34,28,41,28,14,,,
+UBCV,2017,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof;Maryam Zarrinderakht,9,76.888888889,16.518508138,94.0,35.0,,,,,,,,,,,1,0,0,0,0,0,0,3,4,0,1,,,
+UBCV,2017,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof;Gabriela Racz,12,77.25,12.556237132,99.0,59.0,,,,,,,,,,,0,0,1,2,1,0,1,0,4,1,2,,,
+UBCV,2018,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Charles Sammis;Christian Schoof;Leah May Ver;Louise Longridge;Lucy Porritt;Luis Felipe Melgarejo Perez;Luis Melgarejo Perez;Mengqi Jia;Michael Bostock;Michael Lipsen;Roland Stull;Vahid Dehghanniri;Valentina Radic,186,70.333333333,13.584039389,93.0,0.0,,,,,,,,,,,6,9,12,21,21,23,16,22,29,17,10,,,
+UBCV,2018,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Benjamin Scheifele;Charles Sammis;Christian Schoof;Leah May Ver;Louise Longridge;Lucy Porritt;Michael Bostock;Michael Lipsen;Roland Stull;Saurav Sahu;Valentina Radic,233,72.291845494,11.629731982,94.0,0.0,,,,,,,,,,,4,8,13,13,35,27,30,29,35,29,10,,,
+UBCV,2018,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof;Colin Rowell,9,72.888888889,11.752068376,88.0,50.0,,,,,,,,,,,0,1,0,0,1,3,0,2,0,2,0,,,
+UBCV,2018,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof;Gabriela Racz,12,75.916666667,9.394953513,89.0,60.0,,,,,,,,,,,0,0,0,2,0,1,2,2,2,3,0,,,
+UBCV,2019,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,7,85.142857143,12.185080651,94.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,1,0,4,,,
+UBCV,2019,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,6,79.166666667,9.432214303,92.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,1,1,1,1,,,
+UBCV,2021,W,ATSC,404,,201,Dynamic Meteorology,Christian Schoof;Liam Buchart,6,74.166666667,18.443607745,90.0,40.0,,,,,,,,,,,1,0,0,0,0,1,0,1,1,1,1,,,
+UBCV,2021,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof;Eldad Haber;Sean Wanket,8,80.25,11.510864433,95.0,63.0,,,,,,,,,,,0,0,0,1,0,0,3,0,1,1,2,,,
+UBCV,2021,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof;Maryam Zarrinderakht,8,80.0,10.127755357,91.0,63.0,,,,,,,,,,,0,0,0,1,0,1,1,1,0,3,1,,,
+UBCV,2021,W,EOSC,512,,201,Advanced Geophysical Fluid Dynamics,Christian Schoof;Stephanie Block,6,74.166666667,37.402762821,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,0,0,0,4,,,
+UBCV,2021,W,ATSC,404,,201,Dynamic Meteorology,Christian Schoof,6,83.3,,95.0,68.0,,,,,,,,,,,,,,,,,,,,,,85.0,89.0,78.8
+UBCV,2021,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,8,80.3,,95.0,63.0,,,,,,,,,,,,,,,,,,,,,,78.0,89.0,73.5
+UBCV,2021,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,8,80.0,,91.0,63.0,,,,,,,,,,,,,,,,,,,,,,82.5,87.5,73.8
+UBCV,2021,W,EOSC,512,,201,Advanced Geophysical Fluid Dynamics,Stephanie Block;Christian Schoof,6,74.2,,97.0,0.0,,,,,,,,,,,,,,,,,,,,,,90.5,94.0,76.5
+UBCV,2022,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,8,75.0,,90.0,52.0,,,,,,,,,,,0,1,0,1,0,0,1,1,3,0,1,78.5,81.5,71.8
+UBCV,2022,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,8,74.5,,95.0,47.0,,,,,,,,,,,1,0,1,0,0,1,0,1,2,0,2,78.0,83.5,65.5
+UBCV,2023,W,ATSC,404,,201,Dynamic Meteorology,Christian Schoof,13,77.5,,97.0,58.0,,,,,,,,,,,0,0,1,1,0,2,2,2,1,1,3,78.0,86.0,69.0
+UBCV,2023,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,16,78.0,,95.0,54.0,,,,,,,,,,,0,1,0,2,2,0,1,1,2,1,5,80.0,91.0,66.0
+UBCV,2023,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,7,77.0,,92.0,51.0,,,,,,,,,,,0,1,1,0,0,0,0,1,0,3,1,85.0,87.5,68.0

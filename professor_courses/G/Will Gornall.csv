@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,BAFI,580,B,001,TPCS FINANCE,"Gornall, Will",26,84.31,4.92,90,70,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8,11,3,,,
+UBC,2015,W,COMM,386,G,201,TPCS BUSINESS 3,"Gornall, Will",40,81.44,4.27,90,73,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,18,8,1,,,
+UBC,2015,W,COMM,672,,001,ADV TPC TH CO PR,"Gornall, Will",11,84.73,6.69,100,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,2,,,
+UBC,2016,W,BAFI,580,B,001,TPCS FINANCE,"Gornall, Will",43,84.23,4.93,92,70,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,14,16,9,,,
+UBC,2016,W,COMM,386,G,201,TPCS BUSINESS 3,"Gornall, Will",43,78.95,6.36,90,61,43,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,8,7,13,6,4,,,
+UBC,2016,W,COMM,386,G,202,TPCS BUSINESS 3,"Gornall, Will",43,79.14,5.01,90,64,43,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,6,21,6,1,,,
+UBC,2017,W,BAFI,580,B,001,TPCS FINANCE,"Gornall, Will",47,82.35,5.71,92,69,46,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,16,14,7,,,
+UBC,2017,W,COMM,386,G,201,TPCS BUSINESS 3,"Gornall, Will",37,80.27,5.42,91,69,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,11,9,2,,,
+UBC,2017,W,COMM,672,,001,ADV TPC TH CO PR,"Gornall, Will",15,84.13,7.35,95,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,4,4,,,
+UBC,2018,W,BAFI,580,B,001,TPCS FINANCE,"Gornall, Will",34,82.47,4.86,90,72,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,9,16,3,,,
+UBC,2018,W,COMM,386,G,201,TPCS BUSINESS 3,"Gornall, Will",43,79.28,5.36,91,68,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,10,15,8,2,,,
+UBC,2018,W,COMM,386,G,202,TPCS BUSINESS 3,"Gornall, Will",33,72.39,4.98,82,56,33,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,12,10,2,0,0,,,
+UBCV,2015,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall,26,84.307692308,4.921538221,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,8,11,,,,
+UBCV,2015,W,COMM,386,G,201,Topics in Business III,Will Gornall,39,81.435897436,4.266114168,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,8,18,8,,,,
+UBCV,2015,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,11,84.727272727,6.694638289,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2016,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall;Xuejing Guan,43,84.23255814,4.932097059,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,1,14,16,9,,,
+UBCV,2016,W,COMM,386,G,201,Topics in Business III,Will Gornall;Xuejing Guan,43,78.95348837,6.358172425,90.0,61.0,,,,,,,,,,,0,0,0,1,0,4,8,7,13,6,4,,,
+UBCV,2016,W,COMM,386,G,202,Topics in Business III,Will Gornall;Xuejing Guan,43,79.13953488,5.007524792,90.0,64.0,,,,,,,,,,,0,0,0,0,1,2,6,6,21,6,1,,,
+UBCV,2017,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall;Xuejing Guan,46,82.347826087,5.708540936,92.0,69.0,,,,,,,,,,,0,0,0,0,0,1,5,3,16,14,7,,,
+UBCV,2017,W,COMM,386,G,201,Topics in Business III,Will Gornall;Xuejing Guan,37,80.27027027,5.419351379,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,5,8,11,9,2,,,
+UBCV,2017,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,15,84.133333333,7.347173088,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,4,4,4,,,
+UBCV,2018,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall;Zhanbing Xiao,34,82.470588235,4.86319071,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,3,9,16,3,,,
+UBCV,2018,W,COMM,386,G,201,Topics in Business III,Will Gornall;Zhanbing Xiao,43,79.279069767,5.360017686,91.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,10,15,8,2,,,
+UBCV,2018,W,COMM,386,G,202,Topics in Business III,Will Gornall;Zhanbing Xiao,33,72.393939394,4.98083448,82.0,56.0,,,,,,,,,,,0,0,1,0,2,6,12,10,2,0,0,,,
+UBCV,2019,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall;Zhanbing Xiao,40,85.0,7.045638767,96.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,2,8,12,14,,,
+UBCV,2019,W,COMM,386,G,201,Topics in Business III,Will Gornall;Zhanbing Xiao,43,80.209302326,5.045309654,91.0,64.0,,,,,,,,,,,0,0,0,0,1,1,4,7,21,8,1,,,
+UBCV,2019,W,COMM,386,G,202,Topics in Business III,Will Gornall;Zhanbing Xiao,42,77.619047619,5.432298983,90.0,66.0,,,,,,,,,,,0,0,0,0,1,1,15,8,11,5,1,,,
+UBCV,2019,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall;Xiyue Li,18,79.888888889,20.897196234,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,2,5,4,5,,,
+UBCV,2020,W,COMM,470,,201,Venture Capital,Will Gornall;Zhanbing Xiao,42,79.857142857,6.399586224,91.0,62.0,,,,,,,,,,,0,0,0,1,2,0,5,5,20,5,4,,,
+UBCV,2020,W,COMM,470,,202,Venture Capital,Will Gornall;Zhanbing Xiao,37,76.054054054,8.701679103,88.0,51.0,,,,,,,,,,,0,1,0,3,2,4,3,7,9,8,0,,,
+UBCV,2021,W,BAFI,580,B,001,Special Topics in Finance,Gen Li;Will Gornall,41,81.756097561,3.954620638,90.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,3,29,5,3,,,
+UBCV,2021,W,BAFI,580,B,002,Special Topics in Finance,Will Gornall,36,82.916666667,2.394935132,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,21,14,0,,,
+UBCV,2021,W,COMM,470,,201,Venture Capital,Will Gornall;Zhanbing Xiao,43,81.186046512,3.111084744,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,10,23,10,0,,,
+UBCV,2021,W,COMM,470,,202,Venture Capital,Will Gornall;Zhanbing Xiao,41,79.682926829,4.584970144,85.0,60.0,,,,,,,,,,,0,0,0,1,0,1,2,7,23,7,0,,,
+UBCV,2021,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,11,83.818181818,6.569903832,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,1,3,,,
+UBCV,2021,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall,41,81.8,,90.0,66.0,,,,,,,,,,,,,,,,,,,29,,,82.0,83.0,80.0
+UBCV,2021,W,BAFI,580,B,002,Special Topics in Finance,Will Gornall,36,82.9,,87.0,78.0,,,,,,,,,,,,,,,,,,,21,14,,83.0,85.0,81.0
+UBCV,2021,W,COMM,470,,201,Venture Capital,Will Gornall,43,81.2,,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,10,23,10,0,81.0,83.0,80.0
+UBCV,2021,W,COMM,470,,202,Venture Capital,Will Gornall,41,79.7,,85.0,60.0,,,,,,,,,,,,,,,,,,7,23,7,,80.0,81.0,78.0
+UBCV,2021,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,11,83.8,,95.0,76.0,,,,,,,,,,,,,,,,,,,,,,82.0,89.0,79.0
+UBCV,2022,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall,47,82.4,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,31,9,3,82.0,84.0,80.5
+UBCV,2022,W,COMM,470,,201,Venture Capital,Will Gornall,43,78.9,,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,15,21,4,0,80.0,80.0,76.0
+UBCV,2022,W,COMM,470,,202,Venture Capital,Will Gornall,42,80.0,,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,15,16,9,0,80.0,83.0,77.3
+UBCV,2023,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall,31,83.77,,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,17,13,0,83.0,85.75,82.0
+UBCV,2023,W,COMM,470,,201,Venture Capital,Will Gornall,42,79.17,,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,14,16,4,1,80.0,81.0,76.0
+UBCV,2023,W,COMM,470,,202,Venture Capital,Will Gornall,44,78.32,,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,8,13,17,5,0,79.0,80.0,76.0
+UBCV,2023,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Markus Baldauf;Will Gornall,14,83.83,,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,4,3,3,84.5,87.0,81.5

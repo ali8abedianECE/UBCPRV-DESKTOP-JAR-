@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,LARC,502,,001,LA DSGN STD II,"Byrne, Fionn;Long, Shelley",18,85.06,3.11,91,81,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,6,2,,,
+UBC,2017,W,LARC,504,,002,LA DSN STD IV,"Byrne, Fionn",7,77.71,3.64,85,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,0,,,
+UBC,2017,W,LARC,505,,002,LA DSN STD V,"Byrne, Fionn",6,75.17,5.15,85,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,1,0,,,
+UBC,2017,W,LARC,523,,001,LNDSCP ARCH THRY,"Byrne, Fionn",21,82.9,5.23,91,72,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,5,3,,,
+UBC,2018,W,LARC,502,,001,LA DSGN STD II,"Byrne, Fionn;Miller, Mary",22,82.41,4.91,91,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6,6,2,,,
+UBC,2018,W,LARC,504,,002,LA DSN STD IV,"Byrne, Fionn",9,84.33,5.59,88,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,0,,,
+UBC,2018,W,LARC,505,,002,LA DSN STD V,"Byrne, Fionn",5,83.8,4.21,88,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,,,
+UBC,2018,W,LARC,582,A,001,SEMINAR SP TPCS,"Byrne, Fionn",7,81,3.87,86,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,0,,,
+UBCV,2017,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Patrick Mooney;Shelley Long,17,85.058823529,3.111884241,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,2,,,
+UBCV,2017,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,7,77.714285714,3.638419332,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,3,1,1,0,,,
+UBCV,2017,W,LARC,505,,002,Landscape Architecture Design Studio V,Fionn Byrne,6,75.166666667,5.154286242,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,4,0,0,1,0,,,
+UBCV,2017,W,LARC,523,,001,Landscape Architecture Theory,Fionn Byrne,21,82.904761905,5.233591137,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,3,8,5,3,,,
+UBCV,2018,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Mary Miller,22,82.409090909,4.905381796,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,5,6,6,2,,,
+UBCV,2018,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,9,84.333333333,5.590169944,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,6,0,,,
+UBCV,2018,W,LARC,582,A,001,Seminar: Special Topics,Fionn Byrne,7,81.0,3.872983346,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,2,0,,,
+UBCV,2019,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Joseph Dahmen;Kelty Miyoshi Mckinnon;Mary Miller;Melody Redekop;Shana Johnstone;Shelley Long;Sstephanie Braconnier;Stacy Teresa Moriarty;Stephanie Braconnier,26,85.923076923,3.969111507,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,10,8,,,
+UBCV,2019,W,LARC,504,,001,Landscape Architecture Design Studio IV,Cynthia Girling;Fionn Byrne;Kees Lokman,11,82.727272727,5.293220364,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,4,5,0,,,
+UBCV,2019,W,LARC,505,,002,Landscape Architecture Design Studio V,Cynthia Girling;Fionn Byrne,7,84.428571429,5.883795341,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,5,0,,,
+UBCV,2019,W,LARC,582,A,002,Seminar: Special Topics,Fionn Byrne,16,81.5,6.460134158,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,2,5,5,1,,,
+UBCV,2020,W,LARC,505,,002,Landscape Architecture Design Studio V,Fionn Byrne,9,85.222222222,4.493822921,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,1,,,
+UBCV,2020,W,LARC,523,,001,Landscape Architecture Theory,Fionn Byrne,29,83.896551724,7.098011933,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,4,7,5,8,,,
+UBCV,2020,W,LARC,525,,001,Design Research Methods,Fionn Byrne;Sahar Khelifa;Sara Jacobs,28,87.607142857,3.881001071,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,13,9,,,
+UBCV,2020,W,LARC,582,H,001,Seminar: Special Topics,Fionn Byrne,10,87.1,7.50481327,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,0,5,,,
+UBCV,2021,W,ARCH,517,,002,Design Media II,Anjani Batra;Fayaz Yunus;Fionn Byrne,36,82.638888889,2.919420469,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,22,8,1,,,
+UBCV,2021,W,DES,302,,001,Design Studio IV - Vancouver,Ellen Harper;Fionn Byrne;Katrina Ross-Ghali,28,83.035714286,3.98592099,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,16,7,2,,,
+UBCV,2021,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne;Jonathan Behnke;Susan Herrington,8,88.0,0.0,88.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,0,,,
+UBCV,2021,W,LARC,582,A,001,Seminar: Special Topics,Fionn Byrne,17,85.411764706,7.323411291,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,2,4,7,,,
+UBCV,2021,W,ARCH,517,,002,Design Media II,Fionn Byrne,36,82.6,,90.0,76.0,,,,,,,,,,,,,,,,,,,22,8,,83.0,84.3,81.0
+UBCV,2021,W,LARC,582,A,001,Seminar: Special Topics,Fionn Byrne,17,85.4,,97.0,72.0,,,,,,,,,,,,,,,,,,,,,7,88.0,90.0,80.0
+UBCV,2022,W,ARCH,517,,002,Design Media II,Fionn Byrne,24,82.9,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,5,9,6,3,83.0,87.3,79.5
+UBCV,2022,W,DES,302,,001,Design Studio IV - Vancouver,Fionn Byrne;Kaitlyn Pelletier;Fayaz Yunus,47,81.1,,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,13,27,7,0,81.0,84.0,78.0
+UBCV,2022,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,6,84.8,,87.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,0,85.0,86.8,83.3
+UBCV,2022,W,LARC,505,,002,Landscape Architecture Design Studio V,Fionn Byrne,6,84.0,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,0,2,82.0,88.0,80.5
+UBCV,2023,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,8,84.13,,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,0,84.0,85.5,82.0

@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,S,EDCP,323,,951,ENVIR EDUC C&P,"Banack, Hartley;McMullan, Conor",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDST,403,,301,EDUC KNOWL CURR,"Banack, Hartley",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDST,404,,308,ETHICS & TEACHIN,"Banack, Hartley",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDST,404,,975,ETHICS & TEACHIN,"Banack, Hartley",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EDCP,320,,108,PHYS ED ELEM C&P,"Banack, Hartley",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EDCP,349,,107,SCIENCE ELEM C&P,"Banack, Hartley",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EPSE,310,B,303,ASMNT&LRN IN CLS,"Banack, Hartley",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,323,,951,ENVIR EDUC C&P,"Banack, Hartley",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,423,,951,ADV MTHD OUTDOOR,"Banack, Hartley",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,531,,951,HEALTH PROMO,"Banack, Hartley",13,79.85,3.72,86,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,1,0
+UBC,2015,W,EDCP,320,,104,PHYS ED ELEM C&P,"Banack, Hartley",40,,,,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,320,,108,PHYS ED ELEM C&P,"Banack, Hartley",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,320,,110,PHYS ED ELEM C&P,"Banack, Hartley",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,323,,301,ENVIR EDUC C&P,"Banack, Hartley",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,349,,107,SCIENCE ELEM C&P,"Banack, Hartley",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,349,,110,SCIENCE ELEM C&P,"Banack, Hartley",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,EDCP,323,,96A,ENVIR EDUC C&P,"Banack, Hartley",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,EDCP,531,,951,HEALTH PROMO,"Banack, Hartley",9,82.44,2.51,85,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2,0
+UBC,2016,W,EDCP,320,,110,PHYS ED ELEM C&P,"Banack, Hartley",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,323,,301,ENVIR EDUC C&P,"Banack, Hartley",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,349,,107,SCIENCE ELEM C&P,"Banack, Hartley",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,349,,110,SCIENCE ELEM C&P,"Banack, Hartley",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDCP,455,,952,ESS FOR TEACHING,"Banack, Hartley",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDCP,456,,951,BOT FOR TEACHING,"Banack, Hartley",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDCP,531,,96A,HEALTH PROMO,"Banack, Hartley",15,89.6,3.36,94,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,11
+UBC,2017,S,EDCP,585,C,96A,SPECIAL CURR&PED,"Banack, Hartley;Butler, Joy;Petherick, LeAnne",24,86.71,4.66,96,78,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,12,5
+UBC,2017,W,EDCP,320,,110,PHYS ED ELEM C&P,"Banack, Hartley",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,323,,301,ENVIR EDUC C&P,"Banack, Hartley",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,349,,107,SCIENCE ELEM C&P,"Banack, Hartley",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,349,,110,SCIENCE ELEM C&P,"Banack, Hartley",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,454,,302,CHEM FOR TEACH,"Banack, Hartley",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,500,,62B,RES MTHD IN EDUC,"Banack, Hartley;Butler, Joy",23,90.91,4.65,100,81,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,15
+UBC,2018,S,EDCP,423,,951,OTDR ETAL EDU,"Banack, Hartley",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDCP,423,,96A,OTDR ETAL EDU,"Banack, Hartley",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDCP,456,,951,BOT FOR TEACHING,"Banack, Hartley",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDCP,531,,951,HEALTH PROMO,"Banack, Hartley",13,95.62,1.85,98,91,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+UBC,2018,S,EDCP,538,,941,THRY & RS ENV ED,"Banack, Hartley",14,95.14,1.61,97,91,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+UBC,2018,W,EDCP,320,,101,PHYS ED ELEM C&P,"Banack, Hartley",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,320,,103,PHYS ED ELEM C&P,"Banack, Hartley",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,320,,110,PHYS ED ELEM C&P,"Banack, Hartley",34,,,,,0,0,0,1,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,323,,301,ENVIR EDUC C&P,"Banack, Hartley",21,,,,,0,0,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,349,,107,SCIENCE ELEM C&P,"Banack, Hartley",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,349,,110,SCIENCE ELEM C&P,"Banack, Hartley",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2015,S,EDCP,531,,951,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack,13,79.84615385,3.71587033,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,6,1,0
+UBCV,2016,S,EDCP,531,,951,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack,9,82.44444444,2.505549396,85.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,2,0
+UBCV,2017,S,EDCP,531,,96A,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack,15,89.6,3.355166592,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,11
+UBCV,2017,S,EDCP,585,C,96A,Special Course in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,24,86.708333333,4.657664713,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,12,5
+UBCV,2017,W,EDUC,500,,62B,Research Methodology in Education,Hartley Banack;Joy Butler,23,90.913043478,4.650640655,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,15
+UBCV,2018,S,EDCP,531,,951,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack,13,95.615384615,1.850155919,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2018,S,EDCP,538,,941,Theory and Research in Environmental Education,Hartley Banack;Sandra Scott,14,95.142857143,1.610405723,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14
+UBCV,2018,W,EDCP,508,B,62A,Review of Research in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,23,88.304347826,5.430844423,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,6,12
+UBCV,2019,S,EDCP,531,,951,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack,7,88.142857143,1.951800146,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,2
+UBCV,2019,S,EDCP,531,,96A,"Health Promotion, Wellness and Lifeskills in Outdoor Settings",Hartley Banack;Megan Zeni,17,87.823529412,1.878672873,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,14,3
+UBCV,2019,S,EDCP,538,,941,Theory and Research in Environmental Education,Hartley Banack;Sandra Scott,13,99.307692308,0.480384461,100.0,99.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2019,S,EDCP,585,C,96A,Special Course in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,21,90.333333333,2.652043237,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,13
+UBCV,2019,W,EDUC,500,,62A,Research Methodology in Education,Gerald Tembrevilla;Hartley Banack;Joy Butler,20,87.6,3.29912269,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,12,6
+UBCV,2020,W,EDCP,508,B,62A,Review of Research in Curriculum and Pedagogy,Claire Robson;Hartley Banack;Leanne Petherick;Susanne Freitag,21,88.857142857,3.732100136,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,10
+UBCV,2020,W,EDUC,500,,62A,Research Methodology in Education,Hartley Banack;Kerry Renwick,8,79.75,23.650732396,97.0,24.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,2,3

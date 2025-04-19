@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,BIOL,125,,001,Biology for Science Majors II,Miranda Hart;Scott Reid,204,70.75490196,13.38217053,91.0,0.0,14,3,18,17,23,27,21,24,26,23,8,,,
+UBCO,2014,W,BIOL,125,,002,Biology for Science Majors II,Miranda Hart;Scott Reid,190,67.84736842,12.45023399,92.0,0.0,18,3,27,21,24,24,16,15,27,11,4,,,
+UBCO,2014,W,BIOL,210,,001,Vascular Plants,Miranda Hart,20,72.7,11.17374743,89.0,49.0,,,,,,,,,,,0,,,
+UBCO,2015,W,BIOL,210,,001,Vascular Plants,Antreas Pogiatzis;Miranda Hart,20,84.25,5.87479003,95.0,73.0,0,0,0,0,0,0,,5,,5,5,,,
+UBCO,2016,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,18,73.38888889,16.48578314,90.0,20.0,1,0,1,0,2,3,2,2,3,1,3,,,
+UBCO,2017,W,BIOL,210,,001,Vascular Plants,Antreas Pogiatzis;Miranda Hart,35,80.114285714,11.184998958,97.0,36.0,1,0,0,1,1,4,2,4,4,14,4,,,
+UBCO,2017,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,21,80.095238095,7.516014648,91.0,61.0,0,0,0,1,1,2,1,3,8,4,1,,,
+UBCO,2018,W,BIOL,209,,001,"Algae, Fungi, and Bryophytes",Antreas Pogiatzis;Ian Walker;Miranda Hart,36,76.75,15.329476741,91.0,0.0,1,0,1,0,1,5,3,5,12,5,3,,,
+UBCO,2018,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,20,79.8,7.324077093,95.0,68.0,0,0,0,0,0,3,3,1,7,5,1,,,
+UBCO,2019,W,BIOL,210,,001,Vascular Plants,Antreas Pogiatzis;Miranda Hart,37,83.351351351,6.281437451,96.0,70.0,0,0,0,0,0,1,2,8,10,8,8,,,
+UBCO,2020,W,BIOL,209,,001,"Algae, Fungi, and Bryophytes",Mackenzie Campbell;Miranda Hart,34,83.323529412,4.853743249,89.0,65.0,0,0,0,0,1,0,0,4,14,15,0,,,
+UBCO,2021,W,BIOL,210,,001,Vascular Plants,Emily O'Brien;Miranda Hart,37,77.702702703,10.335657977,95.0,58.0,0,0,1,1,6,3,4,6,5,5,6,,,
+UBCO,2021,W,BIOL,210,,001,Vascular Plants,Miranda Hart,37,77.7,,95.0,58.0,,,,,6,,,6,,,6,78.0,85.0,70.0
+UBCO,2022,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,19,77.9,,90.0,47.0,1,0,0,0,2,2,1,3,4,4,2,81.0,85.0,72.5
+UBCO,2023,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,37,74.0,,93.0,51.0,0,1,2,4,3,6,2,6,5,5,2,76.0,83.3,65.8

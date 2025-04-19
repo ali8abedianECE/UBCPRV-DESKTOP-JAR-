@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,MATH,110,,W1I,DIFF CALCULUS,"Paton, Kelly",5,,,,,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,S,MATH,184,,922,CALC SOCSCI COMM,"Paton, Kelly",78,64.77,12.69,92,33,67,7,1,0,3,0,0,0,4,3,7,5,13,8,11,7,7,7,4,4,1,,,
+UBC,2013,W,MATH,184,,102,CALC SOCSCI COMM,"MacLean, Mark Thomson;Paton, Kelly",79,67.95,14.82,96,14,69,7,2,0,1,0,1,0,3,3,7,6,4,9,9,7,9,7,9,7,2,,,
+UBC,2013,W,MATH,257,,201,PARTL DIFF EQUAT,"Loewen, Philip;Paton, Kelly",78,60.62,20.33,91,13,53,20,2,0,3,0,3,4,5,8,20,6,6,2,9,5,1,11,5,5,3,,,
+UBC,2013,W,MATH,316,,201,DIFF EQUATIONS 2,"Loewen, Philip;Paton, Kelly",48,67.2,18.78,98,16,41,4,3,0,0,0,2,0,2,0,4,5,4,5,4,5,4,1,4,4,5,,,
+UBCV,2021,W,MATH,256,,204,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Kelly Paton;Matthew Scott;Tuoxin Li,69,57.101449275,14.222129533,85.0,20.0,,,,,,,,,,,20,11,9,6,6,4,5,4,3,1,0,,,
+UBCV,2021,W,MATH,256,,204,Differential Equations,Eric Cytrynbaum;Kelly Paton,69,57.4,,85.0,20.0,,,,,,,,,,,19,11,10,6,6,,,,,,,57.0,67.0,48.0
+UBCV,2022,W,MATH,100,,1A1,Differential Calculus with Applications,Daniel Coombs;Mark Thomson MacLean;Kelly Paton;Anthony Wachs,323,69.4,,98.0,18.0,,,,,,,,,,,38,16,20,19,25,35,45,47,33,28,17,73.0,79.0,62.0
+UBCV,2022,W,MATH,100,,1A2,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Anthony Wachs,225,69.4,,95.0,32.0,,,,,,,,,,,19,7,21,20,24,24,26,30,31,16,7,71.0,79.0,61.0
+UBCV,2022,W,MATH,100,,1A3,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Muhammad Usman,442,68.1,,98.0,0.0,,,,,,,,,,,63,14,29,32,37,48,47,57,57,32,26,71.0,80.0,60.0
+UBCV,2022,W,MATH,100,,1A4,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton;Muhammad Usman,422,65.9,,98.0,16.0,,,,,,,,,,,78,16,32,42,44,41,38,38,39,35,19,67.0,78.0,57.0
+UBCV,2022,W,MATH,100,,1AR,Differential Calculus with Applications,Mark Thomson MacLean;Kelly Paton,307,64.5,,98.0,11.0,,,,,,,,,,,68,16,28,24,28,28,15,29,35,23,13,66.0,78.0,53.0
+UBCV,2022,W,MATH,100,,1B1,Differential Calculus with Applications,Daniel Coombs;Eric Cytrynbaum;Kelly Paton;Elyse Yeager,465,67.5,,95.0,8.0,,,,,,,,,,,47,30,40,45,48,58,57,58,49,27,6,69.0,77.0,59.0
+UBCV,2022,W,MATH,100,,1B2,Differential Calculus with Applications,Eric Cytrynbaum;Kelly Paton,311,68.5,,95.0,0.0,,,,,,,,,,,32,14,29,25,31,31,43,32,41,28,5,70.0,79.0,60.5
+UBCV,2022,W,MATH,100,,1B3,Differential Calculus with Applications,Eric Cytrynbaum;Peter Harrington;Kelly Paton,334,71.1,,95.0,27.0,,,,,,,,,,,25,9,17,18,36,45,47,55,44,31,7,73.0,79.0,65.0
+UBCV,2022,W,MATH,100,,1C1,Differential Calculus with Applications,Daniel Coombs;Kelly Paton;Lior Silberman;Brian Wetton,218,64.7,,94.0,0.0,,,,,,,,,,,28,17,29,26,18,28,21,20,16,10,5,66.0,75.0,56.0
+UBCV,2022,W,MATH,100,,1C2,Differential Calculus with Applications,Kelly Paton;Lior Silberman;Brian Wetton,443,64.0,,94.0,10.0,,,,,,,,,,,81,25,37,53,51,55,47,35,36,14,9,65.0,74.0,55.5
+UBCV,2022,W,MATH,100,,1C3,Differential Calculus with Applications,Kelly Paton;Lior Silberman,440,61.6,,93.0,0.0,,,,,,,,,,,94,35,55,44,54,54,24,30,30,17,3,63.0,71.0,52.0
+UBCV,2023,W,MATH,100,,1A1,Differential Calculus with Applications,Matthew Coles;Eric Cytrynbaum;Sarah Dijols;Mark Thomson MacLean;Kelly Paton;Lior Silberman;Elyse Yeager,270,74.2,,99.0,8.0,,,,,,,,,,,18,16,10,15,15,14,23,24,51,39,35,79.0,86.0,65.0
+UBCV,2023,W,MATH,100,,1B1,Differential Calculus with Applications,Matthew Coles;Eric Cytrynbaum;Victor Juma;Kelly Paton;Paul Péringuey;Yangshuai Wang;Elyse Yeager,292,63.1,,96.0,2.0,,,,,,,,,,,56,22,24,18,22,24,29,33,19,16,14,67.0,77.0,51.0
+UBCV,2023,W,MATH,100,,1C1,Differential Calculus with Applications,Matthew Coles;Masoud Daneshi;Balazs Elek;Petr Kosenko;Shubhodip Mondal;Kelly Paton;Elyse Yeager,333,62.7,,95.0,0.0,,,,,,,,,,,58,29,21,19,25,52,37,29,32,11,6,68.0,75.0,53.0

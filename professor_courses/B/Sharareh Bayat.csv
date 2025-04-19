@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,S,BMEG,591,M,942,Topics in Biomedical Engineering,Delaram Behnami;Gabriel Rebello Guerreiro;Mohammad Reza Yousefidarestani;Mohammadjavad Shariatzadeh;Ravneet Kaur;Sarah Romani;Sharareh Bayat,7,91.714285714,6.62606685,99.0,84.0,0,0,0,0,0,0,0,0,1,2,4,,,
+UBCV,2019,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Peter Cripton;Peter Zandstra;Sayed Mohammad Hashem Jayhooni;Sharareh Bayat,83,79.975903614,9.032429249,93.0,28.0,1,0,0,1,2,6,10,13,25,18,7,,,
+UBCV,2019,W,BMEG,320,,101,Bioengineering Feedback Systems and Controls,Sharareh Bayat,16,78.875,10.039090264,93.0,65.0,0,0,0,0,2,3,3,1,1,3,3,,,
+UBCV,2019,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,A Wayne Vogl;Antony Josephine Snowfy Wellington;Arlo Adams;Christina Hull;Duo Cheng;Edbert Yeung;Edwin D Moore;Hakima Moukhles;James Johnson;Janel Kopp;Mark Steven Cembrowski;Salma Osborne;Sharareh Bayat;Tabea Stephan,48,84.9375,7.135187752,98.0,69.0,0,0,0,0,0,2,2,6,12,11,15,,,
+UBCV,2020,W,BMEG,320,,101,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,10,77.7,15.606622526,93.0,41.0,1,0,0,0,0,1,3,0,0,2,3,,,
+UBCV,2021,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,24,64.25,17.283442692,98.0,34.0,4,2,4,2,1,3,2,1,1,2,2,,,
+UBCV,2021,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Ali Chamkalani;Sharareh Bayat,6,90.833333333,4.535048695,95.0,82.0,0,0,0,0,0,0,0,0,1,0,5,,,
+UBCV,2021,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Morteza Lotfi Neyestanak;Sharareh Bayat;Sheri Chowdhury,47,86.170212766,7.542111194,98.0,63.0,0,0,0,1,0,1,2,2,13,12,16,,,
+UBCV,2021,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Sharareh Bayat,24,64.3,,98.0,34.0,,,,,,,,,,,,63.5,73.0,54.0
+UBCV,2021,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Sharareh Bayat,6,90.8,,95.0,82.0,,,,,,,,,,,,92.0,92.8,91.3
+UBCV,2021,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Sharareh Bayat,47,86.2,,98.0,63.0,,,,,,,,,13,12,16,85.0,91.0,83.0
+UBCV,2022,S,BMEG,200,,942,Biomedical Engineering Bridge Module,Sharareh Bayat,43,91.1,,100.0,0.0,1,0,0,0,0,0,1,1,2,1,37,94.0,97.0,91.0
+UBCV,2022,W,BMEG,101,,201,Introduction to Biomedical Engineering,Sharareh Bayat;Govindkrishna Kaigala;Zachary Laksman;Manu Sasidharan Madhav,93,81.1,,94.0,59.0,0,0,1,0,0,6,8,16,31,28,3,82.0,85.0,79.0
+UBCV,2022,W,BMEG,201,,201,Technical Communication for Biomedical Engineers,Sharareh Bayat,40,86.5,,94.0,80.0,0,0,0,0,0,0,0,0,9,24,7,87.0,88.0,85.0
+UBCV,2022,W,BMEG,201,,202,Technical Communication for Biomedical Engineers,Sharareh Bayat,38,88.2,,94.0,74.0,0,0,0,0,0,0,1,0,7,7,23,90.0,91.0,86.3
+UBCV,2022,W,BMEG,201,,203,Technical Communication for Biomedical Engineers,Sharareh Bayat,33,84.8,,94.0,72.0,0,0,0,0,0,0,3,2,10,10,8,85.0,88.0,82.0
+UBCV,2022,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Sharareh Bayat,26,72.6,,98.0,50.0,0,7,1,0,1,2,2,4,2,2,5,74.5,85.5,54.5
+UBCV,2022,W,BMEG,457,,001,Biomedical Engineering Design Project,Sharareh Bayat;Anna Blakney;Carl de Boer;Negar Mohaghegh Harandi;Robyn Newell;Jenna Usprech,100,87.4,,96.0,42.0,1,0,1,2,0,0,3,5,9,27,52,90.0,92.3,86.8
+UBCV,2022,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Sharareh Bayat,11,89.5,,98.0,71.0,0,0,0,0,0,1,0,0,2,0,8,92.0,93.5,88.0
+UBCV,2022,W,ELEC,271,,101,Selected Topics in Biomedical Engineering,Sharareh Bayat,10,93.6,,97.0,88.0,0,0,0,0,0,0,0,0,0,3,7,96.0,96.0,89.5
+UBCV,2023,S,BMEG,200,,942,Biomedical Engineering Bridge Module,Sharareh Bayat,50,89.5,,100.0,0.0,1,0,0,0,0,0,0,0,3,16,30,91.0,93.8,88.0
+UBCV,2023,W,BMEG,201,,201,Technical Communication for Biomedical Engineers,Sharareh Bayat,50,85.71,,91.0,69.0,0,0,0,0,0,1,0,1,14,20,13,87.0,90.0,83.0
+UBCV,2023,W,BMEG,201,,202,Technical Communication for Biomedical Engineers,Sharareh Bayat,49,83.61,,92.0,64.0,0,0,0,0,1,0,0,6,22,15,5,84.0,87.0,82.0
+UBCV,2023,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Sharareh Bayat,15,78.13,,99.0,60.0,0,0,0,3,1,3,0,1,1,2,4,76.0,89.0,67.0
+UBCV,2023,W,BMEG,457,,001,Biomedical Engineering Design Project,Sharareh Bayat;Peter Cripton;Carl de Boer;Govindkrishna Kaigala;Daniel Kirouac;Pawel Kudzia;David Liu;Kelly Marshall McNagny;Septimiu Salcudean;Jenna Usprech,76,89.53,,97.0,71.0,0,0,0,0,0,1,0,3,5,25,42,90.0,94.0,86.0
+UBCV,2023,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Sharareh Bayat,9,89.44,,96.0,82.0,0,0,0,0,0,0,0,0,1,3,5,90.0,92.0,86.0

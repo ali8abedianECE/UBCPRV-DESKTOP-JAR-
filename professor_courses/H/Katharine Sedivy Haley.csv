@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,MICB,203,,201,Basic Microbiology Laboratory,Karen Smith;Katharine Sedivy Haley,25,80.72,5.31130869,90.0,67.0,0,0,0,0,1,0,5,1,12,4,2
+UBCV,2018,W,MICB,353,,101,Food Microbiology Laboratory,John Fiore Nomellini;John Nomellini;Karen Smith;Katharine Sedivy Haley,25,84.24,3.515205068,90.0,75.0,0,0,0,0,0,0,1,0,14,8,2
+UBCV,2019,W,DSCI,522,,001,Data Science Workflows,Javier Castillo Arnemann;Katharine Sedivy Haley;Nazli Kafaee;Paul Gustafson;Peiyuan Zhu;Tiffany Timbers;�Z�M Kafaee,94,90.478723404,4.134119046,95.0,77.0,0,0,0,0,0,0,0,4,5,26,59
+UBCV,2019,W,DSCI,523,,001,Data Wrangling,Javier Castillo Arnemann;Joel Ostblom;Kateryna Tyshchenko;Katharine Sedivy Haley;Tiffany Timbers;Tomas Beuzen;Yi-Chin Tseng,122,88.836065574,6.348502336,97.0,57.0,0,0,,,2,2,,3,9,34,71
+UBCV,2019,W,DSCI,532,,001,Data Visualization II,Alejandra Virgen Urcelay;Ellen Koch;Firas Moosvi;Hossameldin Ibrahim Said Mohammed;Katharine Sedivy Haley;Michael Feeley;Stefanie Lumnitz;Varada Kolhatkar,95,91.168421053,5.490131633,97.0,64.0,0,0,0,0,2,0,0,1,6,15,71
+UBCV,2019,W,DSCI,542,,001,Communication and Argumentation,Christopher Nicholas Gubbels;David Kendall Laing;David Laing;Ellen Koch;Katharine Sedivy Haley;Timothy Cashion,95,84.652631579,5.337081083,93.0,68.0,0,0,0,0,0,1,2,10,32,27,23

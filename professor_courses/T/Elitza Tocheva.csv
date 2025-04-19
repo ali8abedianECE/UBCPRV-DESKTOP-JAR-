@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Elitza Tocheva;Gyles Ifill;Leah Rankine-Wilson;Rachel Fernandez,112,80.758928571,7.390334003,95.0,53.0,0,1,1,0,3,6,12,21,30,26,12,,,
+UBCV,2019,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Charles Thompson;Elitza Tocheva,27,92.666666667,4.123105626,98.0,84.0,0,0,0,0,0,0,0,0,2,4,21,,,
+UBCV,2020,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Charles Thompson;Elitza Tocheva;Morgan Alford,20,89.35,4.428080254,95.0,81.0,0,0,0,0,0,0,0,0,5,4,11,,,
+UBCV,2021,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Elitza Tocheva;Erin Gaynor;Katherine Donald;Lisa Osborne;Tracy Kion;Virginia Pichler,308,75.295454545,13.3072087,96.0,23.0,10,12,17,19,22,27,27,37,48,48,41,,,
+UBCV,2021,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Djihane Damoo;Elitza Tocheva;Evelyn Sun;Polina Beskrovnaya,34,85.147058824,4.729868683,95.0,74.0,0,0,0,0,0,0,1,1,14,12,6,,,
+UBCV,2021,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Tracy Kion;Lisa Osborne;Elitza Tocheva,307,75.6,,96.0,23.0,7,13,17,20,22,27,27,37,48,48,41,77.0,86.0,67.0
+UBCV,2021,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Evelyn Sun;Elitza Tocheva,34,85.1,,95.0,74.0,,,,,,,,,14,12,6,86.0,88.0,81.3
+UBCV,2022,W,BIOC,559,,001,Advanced Topics in Protein Chemistry II,Khanh Dao Duc;Sriram Subramaniam;Elitza Tocheva,14,87.8,,92.0,85.0,0,0,0,0,0,0,0,0,0,11,3,88.0,88.8,86.0
+UBCV,2022,W,MICB,211,,201,Foundations of Microbiology,Evelyn Sun;Elitza Tocheva,265,88.4,,99.0,4.0,1,0,0,1,2,1,8,9,31,71,141,90.0,93.0,86.0
+UBCV,2022,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Evelyn Sun;Elitza Tocheva,40,93.6,,97.0,85.0,0,0,0,0,0,0,0,0,0,3,37,94.5,96.0,92.0
+UBCV,2023,W,MICB,211,,201,Foundations of Microbiology,Karen Smith;Evelyn Sun;Elitza Tocheva,320,89.1,,99.0,0.0,1,0,0,0,3,3,7,13,36,75,182,91.0,94.0,86.0
+UBCV,2023,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Evelyn Sun;Elitza Tocheva,44,90.4,,97.0,66.0,0,0,0,0,1,0,0,1,2,9,31,91.0,93.0,89.0

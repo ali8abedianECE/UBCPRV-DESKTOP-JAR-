@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ENGL,112,,002,Studies in Composition,Jordan Stouck,34,72.41176471,9.052431942,85.0,47.0,,,,,,5,9,6,5,,0,,,
+UBCO,2014,W,ENGL,112,,010,Studies in Composition,Jordan Stouck,35,70.51428571,8.186687287,86.0,45.0,,,,,,9,12,,,,0,,,
+UBCO,2014,W,ENGL,112,,101,Studies in Composition,Jordan Stouck,35,71.62857143,13.35727542,87.0,8.0,,,,,,6,7,6,6,,0,,,
+UBCO,2014,W,ENGL,112,,112,Studies in Composition,Jordan Stouck,36,66.66666667,12.8996124,82.0,32.0,5,,,,6,5,6,,6,0,0,,,
+UBCO,2015,S,ENGL,112,,003,Studies in Composition,Jordan Stouck,27,69.185185185,15.92539587,87.0,11.0,,,,0,5,,,5,,4,0,,,
+UBCO,2015,W,ENGL,112,,010,Studies in Composition,Jordan Stouck,34,71.970588235,10.12193925,86.0,42.0,,,,,,11,7,5,,,0,,,
+UBCO,2015,W,ENGL,112,,101,Studies in Composition,Jordan Stouck,34,71.5,9.433178069,90.0,38.0,,,,,,10,5,5,5,,,,,
+UBCO,2015,W,ENGL,112,,112,Studies in Composition,Jordan Stouck,35,70.057142857,9.946748973,82.0,35.0,,,,,5,7,7,6,5,0,0,,,
+UBCO,2015,W,ENGL,151,,102,Critical Studies in Literature,Jordan Stouck,35,71.885714286,9.535603342,86.0,42.0,,,,,,5,8,,7,,0,,,
+UBCO,2015,W,ENGL,203,,001,Topics in Composition,Jordan Stouck,12,68.166666667,21.928948627,85.0,12.0,,,,,,,,5,,,0,,,
+UBCO,2016,S,ENGL,112,,003,Studies in Composition,Jordan Stouck,35,67.54285714,20.38791865,90.0,0.0,3,1,0,1,5,6,7,5,5,1,1,,,
+UBCO,2017,W,ENGL,112,,012,Studies in Composition,Jordan Stouck,33,74.090909091,7.121111379,85.0,57.0,0,0,1,1,5,5,5,8,5,3,0,,,
+UBCO,2017,W,ENGL,112,,014,Studies in Composition,Jordan Stouck,36,72.138888889,11.225361026,82.0,15.0,1,0,0,2,3,6,9,8,7,0,0,,,
+UBCO,2017,W,ENGL,112,,109,Studies in Composition,Jordan Stouck,35,71.914285714,9.799073872,90.0,45.0,1,2,2,1,3,5,8,4,6,2,1,,,
+UBCO,2017,W,ENGL,112,,111,Studies in Composition,Jordan Stouck,34,73.058823529,8.438516229,86.0,51.0,0,1,2,1,4,4,5,10,4,3,0,,,
+UBCO,2018,W,ENGL,112,,015,Studies in Composition,Jordan Stouck,35,75.714285714,5.992993108,86.0,61.0,0,0,0,2,1,4,6,13,7,2,0,,,
+UBCO,2018,W,ENGL,112,,017,Studies in Composition,Jordan Stouck,35,74.457142857,8.859500906,86.0,51.0,0,2,0,3,3,2,5,6,12,2,0,,,
+UBCO,2018,W,ENGL,112,,115,Studies in Composition,Jordan Stouck,34,75.0,10.433047726,93.0,41.0,2,0,0,3,1,3,4,7,11,2,1,,,
+UBCO,2018,W,ENGL,112,,120,Studies in Composition,Jordan Stouck,34,63.470588235,23.833049747,90.0,0.0,7,0,3,3,2,2,4,2,7,3,1,,,
+UBCO,2019,W,ENGL,109,,009,Studies in Composition for English Language Learners,Jordan Stouck;Kyla Anne Morris;Kyla Morris,22,72.272727273,16.653847884,89.0,15.0,2,0,1,1,1,1,5,1,7,3,0,,,
+UBCO,2019,W,ENGL,112,,120,Studies in Composition,Jordan Stouck;Shona Harrison,25,67.0,20.012496096,85.0,0.0,3,0,1,0,3,5,7,1,4,1,0,,,
+UBCO,2020,W,ENGL,109,,003,Studies in Composition (Enhanced),Jordan Stouck,23,81.0,7.379332318,90.0,56.0,0,0,1,0,0,1,1,6,6,7,1,,,
+UBCO,2021,W,ENGL,109,,003,Studies in Composition (Enhanced),Alison Kloosterman;Jordan Stouck;Oriane Edwards;Sherry Breshears,22,72.409090909,15.457034432,88.0,36.0,3,1,1,0,1,1,4,2,3,6,0,,,
+UBCO,2021,W,ENGL,112,,111,Studies in Composition,Jordan Stouck;Mehnaz Tabassum,25,81.56,12.751078386,88.0,22.0,1,0,0,0,0,0,0,2,9,13,0,,,
+UBCO,2022,W,CORH,205,,001,Communication in the Social Sciences,Jordan Stouck,27,77.8,,87.0,66.0,0,0,0,0,2,3,2,6,11,3,0,80.0,82.0,75.0
+UBCO,2023,W,CORH,205,,001,Communication in the Social Sciences,Jordan Stouck,35,77.5,,93.0,37.0,1,0,0,2,0,3,4,6,14,4,1,80.0,83.0,75.0
+UBCO,2023,W,CORH,205,,102,Communication in the Social Sciences,Jordan Stouck,35,79.3,,92.0,61.0,0,0,0,1,0,2,7,7,8,5,4,79.0,85.0,74.3
+UBCO,2023,W,ENGL,112,,008,Studies in Composition,Jordan Stouck,30,78.8,,88.0,60.0,0,0,0,2,0,1,5,6,9,6,0,80.0,84.0,75.0

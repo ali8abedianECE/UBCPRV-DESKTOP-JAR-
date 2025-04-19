@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,AGEC,502,,001,TOP FOOD ANYL,"Barichello, Richard",19,77.95,6.21,87,60,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,5,7,2,0,,,
+UBC,2010,W,AGEC,502,,001,TOP FOOD ANYL,"Barichello, Richard",22,80.27,3.72,86,70,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,10,2,0,,,
+UBC,2010,W,AGEC,503,,001,AGRI PROB & POL,"Barichello, Richard",23,79.26,4.9,90,68,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,10,1,1,,,
+UBC,2018,W,FRST,534,,201,NATURAL RES ECON,"Barichello, Richard;Bull, Gary;Langston, James",15,82.67,5.47,90,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,4,2,,,
+UBCV,2014,W,FRE,306,,001,Introduction to Global Food Markets,Alfred Katule;Atsadakorn Klomjaroon;Katarzyna Pankowska;Richard Barichello,120,75.425,12.71382659,95.0,0.0,,,,,,,,,,,,,,,9,10,18,28,31,9,7,,,
+UBCV,2014,W,FRE,502,,001,Food Market Analysis,Richard Barichello,20,77.15,12.02749044,94.0,39.0,,,,,,,,,,,,,,,,,,,7,,,,,
+UBCV,2014,W,FRE,503,,001,"Policy Analysis for Food, Environment and Resources",Richard Barichello,17,74.70588235,20.12388104,89.0,0.0,,,,,,,,,,,,,,,,,,,,5,0,,,
+UBCV,2015,W,FRE,306,,001,Introduction to Global Food Markets,Abera Birhanu Demeke;Richard Barichello;Sean Holowaychuk;Sean Louis Holowaychuk,106,76.20754717,6.274236028,92.0,55.0,,,,,,,,,,,0,0,,,5,16,26,23,26,7,,,,
+UBCV,2015,W,FRE,502,,001,Food Market Analysis,Richard Barichello,32,80.46875,6.117053766,91.0,68.0,,,,,,,,,,,0,0,0,0,0,,5,6,9,7,,,,
+UBCV,2015,W,FRE,503,,001,"Policy Analysis for Food, Environment and Resources",Richard Barichello,31,78.548387097,5.117543093,90.0,69.0,,,,,,,,,,,0,0,0,0,0,,7,5,13,,,,,
+UBCV,2016,W,FRE,306,,001,Introduction to Global Food Markets,Richard Barichello;Xiaozhu Li,72,76.91666667,8.752866734,93.0,50.0,,,,,,,,,,,0,1,0,4,7,5,14,12,14,10,5,,,
+UBCV,2016,W,FRE,502,,001,Food Market Analysis,Richard Barichello,30,78.03333333,6.183868521,90.0,68.0,,,,,,,,,,,0,0,0,0,0,5,5,6,10,3,1,,,
+UBCV,2016,W,FRE,504,,001,Agricultural and Resource Policy Analysis,Richard Barichello,24,78.04166667,6.642937843,91.0,63.0,,,,,,,,,,,0,0,0,1,1,2,2,8,6,3,1,,,
+UBCV,2016,W,FRE,505,,001,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,25,79.96,6.406246951,90.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,6,9,5,1,,,
+UBCV,2017,W,FRE,306,,001,Introduction to Global Food Markets,Jun Obayashi;Jun Paul Obayashi;Richard Barichello;Xuewen Wang,71,75.704225352,7.96849935,93.0,54.0,,,,,,,,,,,0,1,0,4,7,10,7,15,21,3,3,,,
+UBCV,2017,W,FRE,502,,001,Food Market Analysis,Richard Barichello,40,78.55,4.840798832,86.0,59.0,,,,,,,,,,,0,0,,,,1,5,13,17,3,0,,,
+UBCV,2017,W,FRE,505,,001,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,16,80.375,3.283798613,85.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,6,6,2,0,,,
+UBCV,2018,W,FRE,306,,001,Introduction to Global Food Markets,Ely Charles Weisbrot;Ely Weisbrot;Kristen Chang;Richard Barichello;Yeon Kyung Zhoo,59,76.559322034,10.549180695,98.0,42.0,,,,,,,,,,,1,0,1,4,5,8,8,8,11,7,6,,,
+UBCV,2018,W,FRE,502,,001,Food Market Analysis,Richard Barichello,35,78.114285714,3.178710695,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,7,14,12,2,0,,,
+UBCV,2018,W,FRE,505,,001,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,17,77.705882353,5.709254613,86.0,67.0,,,,,,,,,,,0,0,0,0,1,2,2,4,6,2,0,,,
+UBCV,2018,W,FRE,521,E,001,Topics in Food and Resource Economics,James Vercammen;Mukesh Eswaran;Richard Barichello,6,82.333333333,5.428320796,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,1,1,,,
+UBCV,2018,W,FRST,534,,201,Natural Resources Economics,Gary Bull;James Langston;Richard Barichello,15,82.666666667,5.472876844,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,4,3,4,2,,,
+UBCV,2019,W,FOOD,510,,001,Advances in Food Science,Alberto Mendoza;Azita Madadi Noei;Jerzy Zawistowski;Richard Barichello,8,88.5,4.440077219,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2019,W,FRE,306,,001,Introduction to Global Food Markets,Ji Hye Heo;Richard Barichello;Xiao Han,70,77.457142857,7.031370111,90.0,64.0,,,,,,,,,,,0,0,0,0,8,9,7,15,18,12,1,,,
+UBCV,2019,W,FRE,502,,001,Food Market Analysis,Richard Barichello,45,79.222222222,5.026696407,89.0,69.0,,,,,,,,,,,0,0,0,0,0,3,6,18,11,7,0,,,
+UBCV,2019,W,FRE,505,,001,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,17,80.352941176,5.555866004,91.0,71.0,,,,,,,,,,,0,0,0,0,0,2,1,3,8,2,1,,,
+UBCV,2019,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,20,87.45,4.98919886,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,10,7,,,
+UBCV,2019,W,LFS,450,,001,"Land, Food, and Community III: Leadership in Campus Food System Sustainability",Corine Singfield;Liska Richer;Richard Barichello,24,84.291666667,7.195887513,97.0,71.0,,,,,,,,,,,0,0,0,0,0,2,0,4,6,7,5,,,
+UBCV,2020,W,FRE,306,,001,Introduction to Global Food Markets,Richard Barichello;Vivek Jairam Bobb;Xiaowen Kong,59,76.661016949,10.209208435,97.0,50.0,,,,,,,,,,,0,1,0,4,6,11,4,8,11,6,8,,,
+UBCV,2020,W,FRE,502,,001,Food Market Analysis,Richard Barichello,34,78.147058824,5.309410473,91.0,69.0,,,,,,,,,,,0,0,0,0,0,3,7,12,8,2,2,,,
+UBCV,2020,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;James Langston;Richard Barichello,13,87.461538462,4.175631382,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,5,,,
+UBCV,2021,W,FRE,302,,001,Small Business Management in Agri-food Industries,Ainsley Macdougall;Estefanny Felix Bazurto;Kelleen Wiseman;Richard Barichello,49,78.918367347,12.771773459,95.0,7.0,,,,,,,,,,,1,0,0,1,3,0,7,5,17,10,5,,,
+UBCV,2021,W,FRE,306,,001,Introduction to Global Food Markets,Ainsley Macdougall;Estefanny Felix Bazurto;Karen Taylor;Richard Barichello,38,79.684210526,4.888515295,89.0,69.0,,,,,,,,,,,0,0,0,0,0,3,5,7,17,6,0,,,
+UBCV,2021,W,FRE,502,,001,Food Market Analysis,Carol Mcausland;Richard Barichello,44,76.590909091,7.393643347,91.0,60.0,,,,,,,,,,,0,0,0,3,2,2,11,12,7,6,1,,,
+UBCV,2021,W,FRE,521,G,001,Topics in Food and Resource Economics,Mukesh Eswaran;Richard Barichello,9,79.0,3.082207001,84.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,4,0,0,,,
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,17,85.705882353,4.538236247,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,9,2,,,
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Richard Barichello;Gary Bull;Christopher Gaston;James Langston,17,85.7,,95.0,79.0,,,,,,,,,,,,,,,,,,,,9,,86.0,87.0,82.0
+UBCV,2022,W,FRE,306,,001,Introduction to Global Food Markets,Richard Barichello,57,80.0,,95.0,56.0,,,,,,,,,,,0,0,1,2,0,6,7,10,13,10,8,80.0,86.0,75.0
+UBCV,2022,W,FRE,501,,001,Strategic Economic Analysis of Agri-Food Markets,Richard Barichello,37,77.8,,94.0,66.0,,,,,,,,,,,0,0,0,0,2,10,4,4,7,7,3,78.0,85.0,71.0
+UBCV,2022,W,FRE,502,,001,Food Market Analysis,Richard Barichello,37,82.1,,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,7,17,11,0,82.0,85.0,80.0
+UBCV,2022,W,FRE,505,,001,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,17,81.9,,95.0,69.0,,,,,,,,,,,0,0,0,0,0,3,1,1,5,5,2,84.0,86.0,78.0
+UBCV,2022,W,FRE,521,G,002,Topics in Food and Resource Economics,Richard Barichello;Mukesh Eswaran,7,83.9,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,3,1,85.0,85.5,82.5
+UBCV,2023,S,LFS,303,,921,International Field Studies in Policy Analysis for Agriculture and Natural Resources,Richard Barichello;Christopher Bennett,10,83.9,,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,1,84.5,85.0,83.0
+UBCV,2023,W,FRE,502,,001,Food Market Analysis,Richard Barichello,40,79.15,,91.0,69.0,,,,,,,,,,,0,0,0,0,0,6,6,9,10,5,4,79.0,83.25,74.0
+UBCV,2023,W,FRE,505,,002,Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools,Richard Barichello,11,81.55,,86.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,4,0,82.0,85.0,80.0

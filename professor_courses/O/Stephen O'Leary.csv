@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Stephen O'Leary,97,63.84536083,15.36320022,94.0,20.0,13,6,12,13,7,17,10,5,6,6,2,,,
+UBCO,2014,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary,33,79.66666667,7.792892061,94.0,59.0,0,0,,,,,,6,9,6,,,,
+UBCO,2014,W,ENGR,451,,101,Microelectronics II,Stephen O'Leary,27,83.0,11.19409185,100.0,55.0,0,0,,,,,,,5,5,8,,,
+UBCO,2014,W,ENGR,552,,001,Electronic Materials and Devices,Stephen O'Leary,5,91.4,5.029910536,96.0,85.0,0,0,0,0,0,0,0,0,0,,,,,
+UBCO,2016,W,APSC,172,,101,Engineering Analysis I,Chunpu Wang;Poppy Siddiqua;Stephen O'Leary;Suzanne Wenngren;Timothy Mitchell Westgate;Timothy Westgate,248,75.87903226,14.03067359,97.0,20.0,14,5,11,8,17,18,31,26,47,31,40,,,
+UBCO,2016,W,ENGR,351,,201,Microelectronics I,Jennifer Alam;Stephen O'Leary;Suzanne Wenngren;Yanqi Yu,52,82.13461539,9.403855793,100.0,59.0,0,0,1,1,2,4,2,7,15,8,12,,,
+UBCO,2016,W,ENGR,353,,101,Semiconductor Devices,Stephen O'Leary,59,75.30508475,11.11112248,96.0,44.0,1,1,4,2,6,6,4,10,12,9,4,,,
+UBCO,2017,W,APSC,172,,101,Engineering Analysis I,Kenneth Chau;Poppy Siddiqua;Saeed Moghaddam;Stephen O'Leary;Suzanne Wenngren,129,64.085271318,17.066977896,99.0,0.0,16,23,12,9,10,9,19,9,8,6,8,,,
+UBCO,2017,W,ENGR,351,,201,Microelectronics I,Jennifer Alam;Stephen O'Leary;Suzanne Wenngren,61,71.327868852,11.176942503,90.0,26.0,2,4,1,3,5,12,13,10,6,4,1,,,
+UBCO,2017,W,ENGR,353,,101,Semiconductor Devices,Jennifer Alam;Stephen O'Leary,66,80.681818182,10.292878929,97.0,38.0,1,1,1,1,1,3,7,8,16,18,9,,,
+UBCO,2018,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary;Yanqi Yu,75,80.186666667,11.06087985,100.0,37.0,1,0,0,5,2,6,9,10,14,11,17,,,
+UBCO,2018,W,ENGR,353,,001,Semiconductor Devices,Saeed Moghaddam;Stephen O'Leary,79,75.949367089,13.283784924,100.0,33.0,2,2,4,6,4,10,9,8,13,8,13,,,
+UBCO,2019,W,ENGR,351,,201,Microelectronics I,Kathrin Schmidt;Stephen O'Leary;Yanqi Yu,89,82.393258427,8.43641724,96.0,59.0,0,0,1,1,2,6,10,14,13,16,26,,,
+UBCO,2019,W,ENGR,353,,001,Semiconductor Devices,Bradley A Reinholz;Bradley Reinholz;Jonathan Holzman;Stephen O'Leary,89,77.078651685,17.337705048,100.0,0.0,4,2,6,6,2,5,6,7,16,13,22,,,
+UBCO,2020,W,APSC,172,,102,Engineering Analysis I,Hamid Maghzian;Michael Mitchell;Sarin Raj Pokhrel;Stephen O'Leary;Tina Olfatbakhsh;Vahid Asgharian,194,74.113402062,18.440705306,98.0,0.0,15,5,16,11,10,17,15,15,23,28,39,,,
+UBCO,2020,W,APSC,255,,102,Electric Circuits and Power,Alireza Eyvazizadeh Khosroshahi;Ayman Elnaggar;Hoda Dadashzadeh;Stephen O'Leary;Yuri Rodrigues;Ziad Abdelsamad,110,63.818181818,16.256082457,100.0,26.0,33,3,2,11,8,15,17,1,8,6,6,,,
+UBCO,2020,W,ENGR,351,,201,Microelectronics I,Kathrin Schmidt;Stephen O'Leary,99,78.474747475,11.765865047,94.0,37.0,1,3,4,4,5,6,12,12,16,17,19,,,
+UBCO,2021,W,APSC,172,,102,Engineering Analysis I,Ahmed Hussein Ahmed Alsaggaf;Ali Pooresmaeili Babaki;Arash Jalil Khabbazi;John Alan Brereton;Michael Mitchell;Niloofar Akbariansaravi;Stephen O'Leary,173,66.38150289,15.01720347,96.0,0.0,16,17,12,17,12,24,28,21,15,8,3,,,
+UBCO,2021,W,APSC,172,,201,Engineering Analysis I,Michael Mitchell;Poppy Siddiqua;Stephen O'Leary,25,48.72,17.812729531,72.0,0.0,11,5,0,3,4,1,1,0,0,0,0,,,
+UBCO,2021,W,APSC,255,,102,Electric Circuits and Power,Ayman Elnaggar;Bayan Al Nahhas;Isaac Spotts;Mohammad Kharouf;Stephen O'Leary;Ziad Abdelsamad,146,63.205479452,18.373488325,100.0,28.0,63,0,0,9,9,7,15,11,8,8,16,,,
+UBCO,2021,W,ENGR,351,,201,Microelectronics I,Kathrin Schmidt;Stephen O'Leary,89,74.696629213,13.305334281,99.0,12.0,2,3,1,9,7,10,15,9,11,13,9,,,
+UBCO,2021,W,ENGR,353,,001,Semiconductor Devices,Amir Hosein Ahmadian Hoseini;Ian Foulds;Jonathan Holzman;Noah Mcintosh;Saeed Moghaddam;Stephen O'Leary,87,62.827586207,19.246387095,100.0,8.0,23,7,6,7,10,3,10,4,3,5,9,,,
+UBCO,2021,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary,89,74.7,,99.0,12.0,,,,9,7,10,15,9,11,13,9,75.0,84.0,68.0
+UBCO,2022,S,ENGR,353,,001,Semiconductor Devices,Stephen O'Leary,23,77.1,,95.0,53.0,0,1,3,0,1,3,2,0,6,3,4,80.0,86.5,69.5
+UBCO,2022,W,APSC,172,,201,Engineering Analysis I,Stephen O'Leary,27,53.0,,88.0,17.0,14,1,1,2,3,1,0,1,1,3,0,48.0,66.5,40.0
+UBCO,2022,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary,86,76.5,,92.0,31.0,1,1,2,5,4,11,16,10,18,10,8,76.5,84.0,71.0
+UBCO,2022,W,ENGR,353,,001,Semiconductor Devices,Stephen O'Leary,64,81.9,,100.0,21.0,2,0,4,0,1,1,5,7,6,23,15,85.0,89.0,78.8
+UBCO,2023,W,APSC,172,,201,Engineering Analysis I,Stephen O'Leary,43,54.6,,83.0,0.0,14,4,3,1,7,3,4,3,2,0,0,59.0,69.0,42.0
+UBCO,2023,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary,104,68.5,,92.0,40.0,5,12,10,6,13,8,13,14,15,5,1,71.0,78.0,58.3
+UBCO,2023,W,ENGR,353,,001,Semiconductor Devices,Stephen O'Leary,84,77.5,,99.0,44.0,1,2,6,5,8,4,9,10,9,10,20,78.5,88.3,67.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

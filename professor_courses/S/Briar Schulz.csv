@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,NURS,410,D,99A,EXPL AVE NURS PR,"Clark, Nancy;Schulz, Briar",13,83.08,2.35,86,78,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3,0
+UBC,2018,W,CNPS,363,,003,CAREER COUNSELNG,"Schulz, Briar",33,93.4,4.21,99,83,30,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,25
+UBC,2018,W,CNPS,364,,001,FMLY ED & CONSUL,"Schulz, Briar",29,91.79,6.34,98,67,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,22
+UBC,2018,W,CNPS,365,,001,INT THRY COUNSEL,"Schulz, Briar",36,86.43,5.35,96,72,35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,7,14,11
+UBC,2018,W,CNPS,524,,001,COUNSLNG ADULTS,"Schulz, Briar",15,95.53,2.45,98,90,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+UBC,2018,W,CNPS,588,C,007,SUPRVSD TRAINING,"Schulz, Briar",5,91.2,1.79,94,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2018,W,CNPS,363,,003,Career Counselling,Briar Schulz,30,93.4,4.214916042,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,25
+UBCV,2018,W,CNPS,364,,001,Family Education and Consultation,Briar Patterson;Briar Schulz,29,91.793103448,6.343609328,98.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,1,5,22
+UBCV,2018,W,CNPS,365,,001,Introduction to Theories of Counselling,Briar Patterson;Briar Schulz;Mircea Munteanu,36,86.333333333,5.30229061,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,8,14,11
+UBCV,2018,W,CNPS,524,,001,Counselling Adults,Briar Patterson;Briar Schulz;Fumio Ishu Ishiyama,15,95.533333333,2.445598573,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15
+UBCV,2019,W,CNPS,524,,001,Counselling Adults,Briar Schulz;Izabela Schultz,11,93.0,2.144761059,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11

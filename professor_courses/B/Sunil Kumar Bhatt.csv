@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ASIA,353,,001,INTRO HINDI FILM,"Kumar Bhatt, Sunil",57,75.79,8.95,92,55,52,0,0,0,2,0,0,0,0,0,0,0,3,3,3,6,6,10,14,5,2,,,
+UBC,2018,W,ASIA,490,A,001,ASIA CLSSCS SEM,"Kumar Bhatt, Sunil",5,82.2,3.7,86,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,,,
+UBC,2018,W,HINU,102,,001,INTR HINDI-URDU,"Kumar Bhatt, Sunil",17,81.31,8.67,94,62,13,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,0,4,,,
+UBC,2018,W,HINU,200,,001,INTRM HINDI-URDU,"Kumar Bhatt, Sunil",4,83,13.39,91,63,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,,,
+UBCV,2018,W,ASIA,353,,001,Introduction to Hindi Film,Sunil Kumar Bhatt,57,74.98245614,10.4428568,92.0,34.0,,,,,,,,,,,1,0,3,4,3,7,6,10,15,6,2,,,
+UBCV,2018,W,HINU,102,,001,Introductory Hindi-Urdu,Gurinderpal Mann;Sunil Kumar Bhatt,13,81.307692308,8.673567273,94.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,4,3,0,4,,,
+UBCV,2019,W,ASIA,353,,001,Introduction to Hindi Film,Sunil Kumar Bhatt,41,78.951219512,6.449617119,90.0,59.0,,,,,,,,,,,0,0,1,0,0,4,5,11,12,7,1,,,
+UBCV,2019,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,9,79.666666667,14.282856857,96.0,50.0,,,,,,,,,,,0,1,0,0,0,1,1,1,1,1,3,,,
+UBCV,2020,S,ASIA,353,,951,Introduction to Hindi Film,Sunil Kumar Bhatt,48,80.25,11.201253729,95.0,55.0,,,,,,,,,,,0,0,4,1,1,5,3,7,5,10,12,,,
+UBCV,2020,W,ASIA,336,,001,Sufi and Bhakti Devotional Literatures,Sunil Kumar Bhatt,23,86.086956522,5.089320757,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,3,9,7,,,
+UBCV,2020,W,ASIA,353,,001,Introduction to Hindi Film,Shubham Arora;Sunil Kumar Bhatt,54,80.703703704,9.460203894,95.0,54.0,,,,,,,,,,,0,1,0,2,4,3,4,1,19,9,11,,,
+UBCV,2020,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,7,88.857142857,4.561745698,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,,,
+UBCV,2021,W,ASIA,336,,001,Sufi and Bhakti Devotional Literatures,Sunil Kumar Bhatt,21,83.952380952,7.123736312,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,2,7,3,7,,,
+UBCV,2021,W,ASIA,353,,001,Introduction to Hindi Film,Sunil Kumar Bhatt;Tanzoom Ahmed,64,76.21875,17.185697957,94.0,0.0,,,,,,,,,,,3,2,3,2,3,3,2,5,21,11,9,,,
+UBCV,2021,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,12,78.666666667,25.91010099,96.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,2,2,2,4,,,
+UBCV,2021,W,HINU,200,,001,Intermediate Hindi-Urdu,Sunil Kumar Bhatt,7,86.285714286,6.447590912,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,2,,,
+UBCV,2021,W,ASIA,336,,001,Sufi and Bhakti Devotional Literatures,Sunil Kumar Bhatt,21,84.0,,95.0,68.0,,,,,,,,,,,,,,,,,,,7,,7,84.0,90.0,80.0
+UBCV,2021,W,ASIA,353,,001,Introduction to Hindi Film,Sunil Kumar Bhatt,64,78.4,,94.0,9.0,,,,,,,,,,,,,,,,,,,22,13,9,82.0,85.3,76.0
+UBCV,2021,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,12,78.7,,96.0,0.0,,,,,,,,,,,,,,,,,,,,,,86.0,91.3,77.5
+UBCV,2021,W,HINU,200,,001,Intermediate Hindi-Urdu,Sunil Kumar Bhatt,7,86.3,,97.0,78.0,,,,,,,,,,,,,,,,,,,,,,88.0,89.0,81.5
+UBCV,2022,W,ASIA,336,,001,Sufi and Bhakti Devotional Literatures,Sunil Kumar Bhatt,28,83.0,,93.0,51.0,,,,,,,,,,,0,1,0,0,1,1,1,1,9,8,6,84.5,87.3,81.0
+UBCV,2022,W,ASIA,353,,001,Introduction to Hindi Film,Sunil Kumar Bhatt,63,80.2,,95.0,50.0,,,,,,,,,,,0,3,0,2,3,2,5,5,18,19,6,83.0,87.0,77.5
+UBCV,2022,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,9,82.6,,96.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,1,1,2,3,85.0,90.0,76.0
+UBCV,2022,W,HINU,200,,001,Intermediate Hindi-Urdu,Sunil Kumar Bhatt,8,80.1,,93.0,70.0,,,,,,,,,,,0,0,0,0,0,3,0,0,3,1,1,82.0,85.0,71.0
+UBCV,2023,W,ASIA,336,,011,Sufi and Bhakti Devotional Literatures,Sunil Kumar Bhatt,42,77.9,,95.0,19.0,,,,,,,,,,,1,0,1,1,3,4,5,5,8,7,7,80.0,87.0,72.0
+UBCV,2023,W,ASIA,353,,021,Introduction to Hindi Film,Sunil Kumar Bhatt,53,81.3,,96.0,54.0,,,,,,,,,,,0,1,0,3,1,7,2,3,11,16,9,84.0,88.0,74.0
+UBCV,2023,W,HINU,102,,001,Introductory Hindi-Urdu,Sunil Kumar Bhatt,14,85.09,,98.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,1,0,1,7,91.0,92.0,81.5

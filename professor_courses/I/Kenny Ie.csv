@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,POLI,101,,099,GOVERNMENT CAN,"Ie, Kenny",91,73.07,10.03,92,31,89,2,0,0,0,0,0,0,1,1,2,2,3,8,5,9,20,20,18,2,2,,,
+UBC,2017,W,POLI,304,,001,BC GOVERNMT&POLI,"Ie, Kenny",65,75.51,7.97,88,41,64,1,0,0,0,0,0,0,0,1,1,0,1,2,5,9,13,11,19,4,0,,,
+UBC,2018,W,POLI,101,,099,GOVERNMENT CAN,"Ie, Kenny",87,74.48,6.34,87,55,85,0,2,0,0,0,0,0,0,0,0,0,4,2,2,14,16,32,14,1,0,,,
+UBCV,2017,W,POLI,101,,099,The Government of Canada,Brynne Langford;Jungroan Lin;Kenny Ie,91,73.065934066,10.029736008,92.0,31.0,,,,,,,,,,,2,2,3,8,5,9,20,20,18,2,2,,,
+UBCV,2017,W,POLI,304,,001,British Columbia Government and Politics,Alison James-Lomax;Antje Ellermann;Kenny Ie;Paul Kopas;Paul Sheldon Kopas,65,75.507692308,7.968930051,88.0,41.0,,,,,,,,,,,1,0,1,2,5,9,13,11,19,4,0,,,
+UBCV,2018,W,POLI,101,,099,The Government of Canada,Kelley Humber;Kenny Ie;Mark Olson,85,74.482352941,6.338866815,87.0,55.0,,,,,,,,,,,0,0,4,2,2,14,16,32,14,1,0,,,
+UBCV,2019,S,POLI,101,,921,The Government of Canada,Kenny Ie,57,76.070175439,15.058053907,90.0,17.0,,,,,,,,,,,3,1,1,0,0,4,7,12,17,11,1,,,
+UBCV,2019,W,POLI,101,,227,The Government of Canada,Alana Erin Tiemessen;Alexandra Lloyd;Jory Smallenberg;Kenny Ie;Ramana M.V.;Sarah Despatie,96,75.114583333,11.509144915,90.0,18.0,,,,,,,,,,,3,2,2,2,4,9,14,24,25,10,1,,,
+UBCV,2019,W,POLI,303,,002,Federalism in Canada,Corey Snelgrove;Gerald Baier;Kenny Ie,92,74.456521739,10.332295516,89.0,30.0,,,,,,,,,,,3,1,2,3,7,8,16,25,15,12,0,,,
+UBCV,2020,S,POLI,101,,921,The Government of Canada,Kenny Ie;Renaud Chicoine-Mckenzie,105,75.942857143,15.079806015,92.0,8.0,,,,,,,,,,,6,2,0,3,6,3,6,22,33,20,4,,,
+UBCV,2020,W,POLI,101,,099,The Government of Canada,Arsalan Ghaemi;Jennifer Fleming;Kenny Ie,94,78.968085106,9.929268268,92.0,32.0,,,,,,,,,,,2,2,2,1,0,7,4,15,34,26,1,,,
+UBCV,2020,W,POLI,101,,227,The Government of Canada,Julia Harvey;Kenny Ie;Lillian Sarson;Zarai Toledo Orozco,115,75.365217391,10.940292849,94.0,43.0,,,,,,,,,,,2,7,4,5,11,4,12,21,27,18,4,,,
+UBCV,2020,W,POLI,303,,002,Federalism in Canada,Aidan Fehr;Gerald Baier;Kenny Ie,90,75.766666667,9.458424697,92.0,50.0,,,,,,,,,,,0,2,6,4,4,6,16,19,17,13,3,,,
+UBCV,2020,W,POLI,308,A,002,Issues in Canadian Politics,Andrew Owen;Kenny Ie;Renaud Chicoine-Mckenzie,105,76.828571429,8.990868383,89.0,35.0,,,,,,,,,,,1,1,3,4,3,9,17,20,27,20,0,,,
+UBCV,2021,S,POLI,303,,951,Federalism in Canada,Kenny Ie;Yongzheng Li,58,71.189655172,17.686804375,92.0,0.0,,,,,,,,,,,5,3,7,1,1,2,7,8,13,10,1,,,
+UBCV,2021,W,POLI,101,,099,The Government of Canada,Hannah Stanley;Jocelyne Praud;Kenny Ie;Kevin Wong,99,74.080808081,14.601283678,93.0,8.0,,,,,,,,,,,6,4,1,1,5,10,15,20,18,14,5,,,
+UBCV,2021,W,POLI,101,,227,The Government of Canada,Brenna Campbell;George Sharman;Kenny Ie;Melika Hosseiny,108,70.027777778,17.109028241,90.0,0.0,,,,,,,,,,,11,3,7,6,8,8,9,21,20,14,1,,,
+UBCV,2021,W,POLI,308,A,002,Issues in Canadian Politics,Katelynn Kowalchuk;Kenny Ie;Zarai Toledo Orozco,91,76.879120879,9.923972284,92.0,40.0,,,,,,,,,,,2,2,0,6,4,7,10,14,28,14,4,,,
+UBCV,2021,S,POLI,303,,951,Federalism in Canada,Kenny Ie,58,71.2,,92.0,0.0,,,,,,,,,,,,,7,,,,7,8,13,10,,76.5,82.8,59.8
+UBCV,2021,W,POLI,101,,099,The Government of Canada,Kenny Ie,99,74.3,,93.0,8.0,,,,,,,,,,,,,,,,11,15,20,18,14,,78.0,84.0,70.5
+UBCV,2021,W,POLI,101,,227,The Government of Canada,Kenny Ie,108,70.0,,90.0,0.0,,,,,,,,,,,11,,7,6,8,8,9,21,20,14,,76.0,81.0,63.8
+UBCV,2021,W,POLI,308,A,002,Issues in Canadian Politics,Kenny Ie,91,77.1,,92.0,40.0,,,,,,,,,,,,,,6,,6,10,14,28,15,,80.0,83.0,73.0
+UBCV,2022,S,POLI,101,,951,The Government of Canada,Kenny Ie,30,79.0,,90.0,64.0,,,,,,,,,,,0,0,0,0,3,2,5,3,9,7,1,81.0,84.8,74.0
+UBCV,2022,W,POLI,101,,099,The Government of Canada,Kenny Ie,94,78.1,,92.0,33.0,,,,,,,,,,,3,2,1,3,1,4,8,21,28,21,2,80.0,84.0,76.0
+UBCV,2022,W,POLI,101,,227,The Government of Canada,Kenny Ie,95,72.8,,91.0,0.0,,,,,,,,,,,8,1,6,4,5,7,6,14,22,19,3,79.0,84.0,67.5
+UBCV,2022,W,POLI,308,A,001,Issues in Canadian Politics,Kenny Ie,81,76.3,,91.0,45.0,,,,,,,,,,,1,1,0,6,6,9,8,12,28,7,3,79.0,82.0,70.0
+UBCV,2023,W,POLI,101,,099,The Government of Canada,Kenny Ie,92,77.01,,93.0,37.0,,,,,,,,,,,2,1,2,5,2,6,12,15,30,12,4,80.0,83.0,73.5
+UBCV,2023,W,POLI,101,,227,The Government of Canada,Kenny Ie,92,75.28,,95.0,0.0,,,,,,,,,,,6,1,1,2,5,5,13,16,20,16,7,79.0,84.25,72.75
+UBCV,2023,W,POLI,308,A,001,Issues in Canadian Politics,Kenny Ie,63,76.55,,93.0,0.0,,,,,,,,,,,4,0,2,1,3,4,8,4,23,6,7,80.0,84.0,72.0

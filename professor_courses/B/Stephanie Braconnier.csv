@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Joseph Dahmen;Kelty Miyoshi Mckinnon;Mary Miller;Melody Redekop;Shana Johnstone;Shelley Long;Sstephanie Braconnier;Stacy Teresa Moriarty;Stephanie Braconnier,26,85.923076923,3.969111507,92.0,77.0,0,0,0,0,0,0,0,3,5,10,8,,,
+UBCV,2020,W,ARCH,515,,002,Design Media I,Christen Oakes;Sstephanie Braconnier;Stephanie Braconnier,18,86.944444444,7.415978157,96.0,71.0,0,0,0,0,0,2,0,0,4,3,9,,,
+UBCV,2020,W,ARCH,517,,002,Design Media II,Annie Liang;Christen Oakes;Grace Morazzani Diaz;Stephanie Braconnier,18,90.611111111,2.592724864,96.0,86.0,0,0,0,0,0,0,0,0,0,5,13,,,
+UBCV,2020,W,LARC,501,,001,Landscape Architecture Design Studio I,David Zielnicki;Lisa Marie Lang;Paul Cameron Peters;Paul Peters;Sstephanie Braconnier;Stephanie Braconnier,18,86.166666667,6.298926146,92.0,70.0,0,0,0,0,0,1,1,0,4,4,8,,,
+UBCV,2020,W,LARC,502,,001,Landscape Architecture Design Studio II,Daniel Roehr;Mary Miller;Melody Redekop;Stephanie Braconnier,19,87.368421053,2.985344319,92.0,82.0,0,0,0,0,0,0,0,0,4,10,5,,,
+UBCV,2021,S,LARC,582,J,001,Seminar: Special Topics,Christen Oakes;Jingzhou Sun;Stephanie Braconnier,28,90.642857143,3.581994951,96.0,85.0,0,0,0,0,0,0,0,0,0,9,19,,,
+UBCV,2021,W,ARCH,515,,002,Design Media I,Nicole Dulong;Roy Cloutier;Samantha Miller;Stephanie Braconnier,25,84.36,1.912241268,87.0,80.0,0,0,0,0,0,0,0,0,10,15,0,,,
+UBCV,2021,W,LARC,501,,001,Landscape Architecture Design Studio I,Paul Peters;Sara Jacobs;Stephanie Braconnier;Tatiana Nozaki,24,81.125,3.15281103,87.0,73.0,0,0,0,0,0,0,1,6,13,4,0,,,
+UBCV,2021,W,LARC,502,,001,Landscape Architecture Design Studio II,Cynthia Girling;Daniel Roehr;Stephanie Braconnier,29,86.620689655,2.498768169,90.0,80.0,0,0,0,0,0,0,0,0,4,22,3,,,
+UBCV,2021,S,LARC,582,J,001,Seminar: Special Topics,Stephanie Braconnier,28,90.6,,96.0,85.0,0,0,0,0,0,0,0,0,0,9,19,90.0,94.0,87.8
+UBCV,2021,W,ARCH,515,,002,Design Media I,Stephanie Braconnier,25,84.4,,87.0,80.0,0,0,0,0,0,0,0,0,10,15,0,85.0,86.0,84.0
+UBCV,2021,W,LARC,502,,001,Landscape Architecture Design Studio II,Stephanie Braconnier;Daniel Roehr,29,86.6,,90.0,80.0,,,,,,,,,,22,,87.0,88.0,85.0
+UBCV,2022,S,LARC,582,J,001,Seminar: Special Topics,Stephanie Braconnier,24,91.1,,98.0,81.0,0,0,0,0,0,0,0,0,3,5,16,92.5,94.3,87.0

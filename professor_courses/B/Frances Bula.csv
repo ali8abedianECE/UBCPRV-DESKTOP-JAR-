@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,JRNL,503,B,001,JRNL PRAC&STDS,"Bula, Frances;Gretsinger, Kathryn;Woodward, Stephen Richard",39,82.24,5.77,90,68,37,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,9,16,2,,,
+UBC,2015,W,JRNL,515,C,001,INTEGRATED JOURN,"Bula, Frances;Gretsinger, Kathryn;Woodward, Stephen Richard",39,83.78,5.16,88,60,37,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,9,23,0,,,
+UBC,2016,W,JRNL,503,B,001,JRNL PRAC&STDS,"Brown, Christopher;Bula, Frances;Gretsinger, Kathryn",30,83.55,7.6,90,54,29,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,8,18,1,,,
+UBC,2016,W,JRNL,515,C,001,INTEGRATED JOURN,"Brown, Christopher;Bula, Frances;Gretsinger, Kathryn",31,82.63,9.04,88,40,29,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,9,18,0,,,
+UBC,2018,W,JRNL,503,B,001,JRNL PRAC&STDS,"Barforoush, Saranaz;Berret, Charles;Bula, Frances;Gretsinger, Kathryn",35,84.56,3.42,90,77,32,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,11,17,1,,,
+UBC,2018,W,JRNL,515,C,001,INTEGRATED JOURN,"Berret, Charles;Bula, Frances;Gretsinger, Kathryn;Klein, Peter",34,85.71,3.09,90,77,31,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,10,15,5,,,
+UBCV,2014,W,JRNL,503,B,001,Journalism Practice and Standards,Alfred Hermida;Darryl Hol;Frances Bula;Kathryn Gretsinger;Mary-Lynn Young;Taylor Owen,26,81.26923077,6.378449293,88.0,63.0,,,,,,,,,,,0,0,0,,,,,,,14,0,,,
+UBCV,2014,W,JRNL,515,C,001,Integrated Journalism,Alfred Hermida;Darryl Hol;Frances Bula;Kathryn Gretsinger;Taylor Owen,26,83.34615385,4.782821826,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,17,0,,,
+UBCV,2015,W,JRNL,503,B,001,Journalism Practice and Standards,Frances Bula;Kathryn Gretsinger;Stephen Richard Woodward,37,82.243243243,5.770641238,90.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,9,16,,,,
+UBCV,2015,W,JRNL,515,C,001,Integrated Journalism,Frances Bula;Kathryn Gretsinger;Stephen Richard Woodward,37,83.783783784,5.164704655,88.0,60.0,,,,,,,,,,,0,0,0,,,,,,9,23,0,,,
+UBCV,2016,W,JRNL,503,B,001,Journalism Practice and Standards,Christopher Brown;Eva Uguen-Csenge;Frances Bula;Kathryn Gretsinger;Stefan Labbe,29,83.55172414,7.59504635,90.0,54.0,,,,,,,,,,,0,,,1,,,,,8,18,1,,,
+UBCV,2016,W,JRNL,515,C,001,Integrated Journalism,Christopher Brown;Eva Uguen-Csenge;Frances Bula;Kathryn Gretsinger;Stefan Labbe,30,82.63333333,9.03816938,88.0,40.0,,,,,,,,,,,1,0,0,0,1,0,0,1,9,18,0,,,
+UBCV,2017,W,JRNL,503,B,001,Journalism Practice and Standards,Frances Bula;Holly Mckenzie-Sutter;Kathryn Gretsinger;Saranaz Barforoush,37,83.864864865,3.675460381,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,2,11,21,0,,,
+UBCV,2017,W,JRNL,515,C,001,Integrated Journalism,Frances Bula;Holly Mckenzie-Sutter;Kathryn Gretsinger;Peter Klein;Saranaz Barforoush,38,83.736842105,3.957095649,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,3,12,20,1,,,
+UBCV,2018,W,JRNL,503,B,001,Journalism Practice and Standards,Charles Berret;Frances Bula;Kathryn Gretsinger;Melanie Woods;Ryan Jones;Saranaz Barforoush,34,82.294117647,9.898054329,90.0,40.0,,,,,,,,,,,2,0,0,0,0,0,0,3,11,17,1,,,
+UBCV,2018,W,JRNL,515,C,001,Integrated Journalism,Charles Berret;Frances Bula;Kathryn Gretsinger;Melanie Woods;Peter Klein;Ryan Jones,34,82.088235294,12.240933929,90.0,40.0,,,,,,,,,,,3,0,0,0,0,0,0,1,10,15,5,,,
+UBCV,2019,W,JRNL,515,C,001,Integrated Journalism,Candice Lipski;Frances Bula;Jasmine Mani;Kathryn Gretsinger,29,85.206896552,4.887150136,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,9,12,5,,,
+UBCV,2020,W,JRNL,515,D,001,Integrated Journalism,Carmen Alejandrina Alvarez Debrot;Carmen Alvarez Debrot;Frances Bula;Kathryn Gretsinger,36,83.361111111,5.581360703,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,4,5,5,17,4,,,
+UBCV,2020,W,JRNL,515,E,001,Integrated Journalism,Carmen Alejandrina Alvarez Debrot;Carmen Alvarez Debrot;Frances Bula;Kathryn Gretsinger,37,84.351351351,4.57175031,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,1,5,28,0,,,
+UBCV,2021,W,JRNL,515,C,001,Integrated Journalism,Frances Bula;Kathryn Gretsinger;Ori Tenenboim,19,85.5,,90.0,80.0,,,,,,,,,,,,,,,,,,,6,11,,86.0,87.0,83.0
+UBCV,2022,W,JRNL,515,C,001,Integrated Journalism,Kamal al-Solaylee;Frances Bula;Kathryn Gretsinger,26,86.3,,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,11,8,87.0,90.0,83.5
+UBCV,2023,W,JRNL,515,C,001,Integrated Journalism,Frances Bula;Kathryn Gretsinger,33,86.03,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,9,8,85.0,90.0,83.0

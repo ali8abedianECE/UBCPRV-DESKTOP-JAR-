@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,SPAN,101,,202,BEGINNER SPAN I,"Albarran Caselles, Olga;Manchon, Enrique",36,68.32,20.71,93,3,30,4,1,0,0,1,0,2,0,1,4,3,3,0,2,4,4,4,3,3,4
+UBC,2011,W,SPAN,101,,113,BEGINNER SPAN I,"Albarran Caselles, Olga;Manchon, Enrique",35,70.25,14.93,89,21,29,3,3,0,0,0,0,1,0,2,3,0,2,4,3,3,5,1,6,5,0
+UBC,2011,W,SPAN,102,,204,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",35,68.66,12.31,91,46,31,1,2,0,0,0,0,0,0,1,1,5,1,5,3,3,3,3,4,3,1
+UBC,2012,S,SPAN,102,,922,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",25,70.5,11.71,93,46,21,1,1,1,1,0,0,0,0,1,1,1,2,2,2,0,7,3,2,1,1
+UBC,2012,W,SPAN,102,,101,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",34,68.24,12.76,91,45,32,1,0,0,0,0,0,0,0,1,1,6,3,2,2,2,6,4,6,0,1
+UBC,2012,W,SPAN,202,,902,INTERMED SPAN II,"Albarran Caselles, Olga;Spacciante, Stephanie",28,67.28,9.83,87,48,24,1,2,0,0,0,0,0,0,1,1,1,2,6,5,2,3,1,3,1,0
+UBC,2013,S,SPAN,201,,922,INTERMED SPAN I,"Albarran Caselles, Olga;Spacciante, Stephanie",34,62.71,26.43,95,0,24,4,3,0,0,4,0,0,0,0,4,2,1,2,2,3,4,3,5,1,1
+UBC,2018,S,SPAN,101,,922,BEGINNER SPAN I,"Albarran Caselles, Olga",22,75.85,19.12,94,7,19,1,1,0,0,1,0,0,0,0,1,1,0,0,2,0,2,3,3,6,2
+UBC,2018,W,SPAN,102,,204,BEGINNER SPAN II,"Albarran Caselles, Olga",24,73.83,14.04,92,41,23,1,0,0,0,0,0,0,0,1,1,2,1,3,0,2,2,0,7,4,2
+UBC,2018,W,SPAN,302,,203,ADVANCED SPAN II,"Albarran Caselles, Olga",14,73.07,20.18,90,10,13,1,0,0,0,0,1,0,0,0,1,0,0,2,0,1,2,1,4,1,2

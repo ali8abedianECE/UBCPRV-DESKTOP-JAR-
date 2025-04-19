@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,ECON,371,,002,ECON OF ENVIRNMT,"Baylis, Patrick",149,79.69,9.66,99,51,148,0,1,0,0,0,0,0,0,0,0,1,3,2,9,13,21,25,26,23,25,,,
+UBC,2017,W,ECON,573,,001,ENVR ECON,"Baylis, Patrick",8,89.57,1.62,92,87,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,,,
+UBC,2018,W,ECON,494,,001,APPLD INTL ECON,"Baylis, Patrick",18,83.72,4.82,90,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,8,1,,,
+UBC,2018,W,ECON,573,,001,ENVR ECON,"Baylis, Patrick",23,87.78,3.47,92,81,18,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,8,,,
+UBCV,2017,W,ECON,371,,002,Economics of the Environment,Joshua Ruf;Patrick Baylis,148,79.689189189,9.655178267,99.0,51.0,,,,,,,,,,,0,1,3,2,9,13,21,25,26,23,25,,,
+UBCV,2017,W,ECON,573,,001,Environmental Economics,Patrick Baylis,7,89.571428571,1.618347187,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2018,W,ECON,102,,002,Principles of Macroeconomics,Patrick Baylis;Philip Michael Monagan;Philip Monagan;Wai-Ching Alfred Kong,102,70.117647059,15.989039636,100.0,1.0,,,,,,,,,,,10,6,4,11,4,13,14,11,15,7,7,,,
+UBCV,2018,W,ECON,345,,002,Money and Banking,Geoffrey Newman;Nadhanael Gemaliel Vimala;Patrick Baylis,148,68.743243243,15.394195223,99.0,0.0,,,,,,,,,,,10,6,20,16,15,17,15,10,12,11,16,,,
+UBCV,2018,W,ECON,494,,001,Seminar in Applied International Economics,Benjamin Milner;Brian Copeland;Patrick Baylis;Vanessa Alviarez,18,83.722222222,4.824027553,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,7,8,1,,,
+UBCV,2018,W,ECON,573,,001,Environmental Economics,Patrick Baylis,18,87.777777778,3.473522632,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,8,,,
+UBCV,2019,W,ECON,371,,002,Economics of the Environment,Maria Tenyenhuis;Patrick Baylis,140,79.464285714,10.931711322,100.0,50.0,,,,,,,,,,,0,4,1,10,6,8,18,18,23,25,27,,,
+UBCV,2019,W,ECON,494,,001,Seminar in Applied International Economics,Carol Mcausland;Patrick Baylis;Vibhu Pratyush,17,87.0,4.373213921,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,8,4,,,
+UBCV,2019,W,ECON,573,,001,Environmental Economics,Joshua Catalano;Patrick Baylis,16,90.5,3.687817783,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,11,,,
+UBCV,2020,W,ECON,371,,002,Economics of the Environment,Elyse Adamic;Patrick Baylis,144,84.326388889,6.79863197,98.0,54.0,,,,,,,,,,,0,1,0,0,1,4,9,12,38,48,31,,,
+UBCV,2020,W,ECON,494,,001,Seminar in Applied International Economics,Geoffrey Newman;Patrick Baylis;Pooya Rashidi Ravari,21,84.952380952,5.113474264,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,7,6,5,,,
+UBCV,2020,W,ECON,573,,001,Environmental Economics,Joshua Catalano;Patrick Baylis;Shunya Noda,8,88.125,8.838834765,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,1,5,,,
+UBCV,2021,W,ECON,371,,002,Economics of the Environment,Alyssa Russell;Patrick Baylis,143,83.216783217,7.563012162,98.0,55.0,,,,,,,,,,,0,0,1,1,3,7,8,15,39,41,28,,,
+UBCV,2021,W,ECON,494,,001,Seminar in Applied International Economics,Francisco Eslava Saenz;Patrick Baylis,24,84.916666667,5.064082102,92.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,3,3,13,4,,,
+UBCV,2021,W,ECON,573,,001,Environmental Economics,Joshua Catalano;Patrick Baylis,15,91.4,2.971291206,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,11,,,
+UBCV,2021,W,ECON,371,,002,Economics of the Environment,Patrick Baylis,143,83.2,,98.0,55.0,,,,,,,,,,,,,,,,7,8,15,39,41,28,84.0,88.0,80.0
+UBCV,2021,W,ECON,494,,001,Seminar in Applied International Economics,Patrick Baylis,24,84.9,,92.0,69.0,,,,,,,,,,,,,,,,,,,,13,,86.0,87.3,83.3
+UBCV,2021,W,ECON,573,,001,Environmental Economics,Patrick Baylis,15,91.4,,96.0,85.0,,,,,,,,,,,,,,,,,,,,,11,92.0,93.5,90.0
+UBCV,2022,W,ECON,371,,002,Economics of the Environment,Patrick Baylis,146,78.3,,99.0,29.0,,,,,,,,,,,2,3,5,6,10,10,16,23,27,16,28,79.0,87.0,72.0
+UBCV,2022,W,ECON,494,,001,Seminar in Applied International Economics,Patrick Baylis,22,85.7,,95.0,63.0,,,,,,,,,,,0,0,0,1,0,0,0,1,6,7,7,86.0,90.8,83.0
+UBCV,2022,W,ECON,573,,001,Environmental Economics,Patrick Baylis,16,87.9,,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,5,88.0,90.0,85.8
+UBCV,2023,W,ECON,371,,001,Economics of the Environment,Patrick Baylis,150,78.5,,99.0,40.0,,,,,,,,,,,2,1,4,4,11,9,20,20,37,20,19,80.0,85.0,73.0

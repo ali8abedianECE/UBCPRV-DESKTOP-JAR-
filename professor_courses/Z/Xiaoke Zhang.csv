@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Xiaoke Zhang,50,84.18,4.693417014,94.0,69.0,0,0,0,0,0,2,0,5,15,23,5
+UBCV,2021,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Xiaoke Zhang,51,85.0,6.08276253,93.0,62.0,0,0,0,1,0,2,1,2,9,26,10
+UBCV,2021,W,BA,515,,301,Fundamentals of Analytics and Tech,Gene Lee;Jaecheol Park;Myunghwan Lee;Xiaoke Zhang,48,85.458333333,3.121363132,91.0,78.0,0,0,0,0,0,0,0,2,13,27,6
+UBCV,2021,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Adam Saunders;Gene Lee;Myunghwan Lee;Xiaoke Zhang,32,88.28125,4.502575428,95.0,79.0,0,0,0,0,0,0,0,1,7,11,13
+UBCV,2021,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Adam Saunders;Gene Lee;Myunghwan Lee;Xiaoke Zhang,34,86.147058824,4.619670413,95.0,76.0,0,0,0,0,0,0,0,5,4,19,6
+UBCV,2021,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee;Xiaoke Zhang,64,84.890625,8.098828423,97.0,61.0,0,0,0,2,1,2,3,7,11,18,20
+UBCV,2021,W,COMM,337,,201,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,34,71.705882353,13.772016889,96.0,43.0,3,2,1,2,4,3,8,1,4,1,5
+UBCV,2021,W,COMM,337,,202,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,47,75.021276596,14.49211084,94.0,20.0,3,2,2,2,0,5,4,4,15,6,4
+UBCV,2021,W,COMM,337,,203,Business Programming and Analytics,Kehui Jin;Mi Zhou;Rui Cao;Xiaoke Zhang,38,76.447368421,11.329696373,96.0,52.0,0,1,2,2,5,2,6,3,4,8,5

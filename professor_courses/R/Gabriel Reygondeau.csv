@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FISH,500,,001,FISHERIES MNGMT,"Reygondeau, Gabriel",6,89.67,2.34,93,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2018,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Daniel Pauly;Gabriel Reygondeau;Murdoch Mcallister;Stephen Lee,6,92.166666667,2.136976057,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2019,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Gabriel Reygondeau,12,93.166666667,2.79067712,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2020,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Colette Wabnitz;Gabriel Reygondeau,10,94.3,2.584139659,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2021,W,EOSC,478,,101,Introduction to Fisheries Science,Gabriel Reygondeau;Kate Mussett;Polina Orlov;Yevhenii Pakhomov,139,84.942446043,7.308690265,99.0,59.0,,,,,,,,,,,0,0,1,1,2,4,5,17,30,36,43,,,
+UBCV,2021,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Colette Wabnitz;Gabriel Reygondeau;Ussif Rashid Sumaila,18,92.5,2.502939448,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,15,,,
+UBCV,2021,W,EOSC,478,,101,Introduction to Fisheries Science,Gabriel Reygondeau,139,84.9,,99.0,59.0,,,,,,,,,,,,,,,,,,17,30,36,43,86.0,90.0,81.0
+UBCV,2021,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Gabriel Reygondeau;Ussif Rashid Sumaila;Colette Wabnitz,18,92.5,,96.0,88.0,,,,,,,,,,,,,,,,,,,,,15,93.0,94.8,91.0
+UBCV,2022,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Gabriel Reygondeau;Ussif Rashid Sumaila;Colette Wabnitz,14,97.4,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,98.5,99.0,98.0

@@ -1,0 +1,79 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,COMM,581,,OR1,STATS METHLGY I,"Essak, Martha",14,84.77,6.1,94,71,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,4,3,,,
+UBC,2016,W,BABS,502,,OR1,FRCST TIM SR PRD,"Essak, Martha",12,84.67,4.36,91,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,2,,,
+UBC,2016,W,COMM,291,,101,APPL STAT IN BUS,"Essak, Martha",60,72.6,10.44,92,43,57,1,2,0,0,0,0,0,0,1,1,2,4,3,6,8,10,9,8,5,2,,,
+UBC,2016,W,COMM,581,,OR1,STATS METHLGY I,"Essak, Martha",14,80.64,10.04,92,54,14,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,4,4,2,,,
+UBC,2017,W,BABS,502,,BA1,FRCST TIM SR PRD,"Essak, Martha",35,80.03,6.65,91,61,35,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,8,12,8,1,,,
+UBC,2017,W,BABS,507,,BA1,DSCPTV PRDTV BAN,"Essak, Martha",37,85.38,5.35,93,70,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,10,15,8,,,
+UBC,2017,W,BABS,508,,BA1,ADV PREDCTIV BAN,"Essak, Martha",35,82.69,5.21,91,69,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,13,9,4,,,
+UBC,2017,W,BUSI,291,,201,APPL STAT IN BUS,"Essak, Martha",26,78,15.78,95,25,24,2,0,0,0,0,0,1,0,1,2,0,0,0,1,2,4,1,4,7,5,,,
+UBC,2017,W,COMM,291,,101,APPL STAT IN BUS,"Essak, Martha",69,74.57,13.96,98,27,66,2,1,0,0,0,0,1,0,1,2,2,3,5,11,5,9,2,10,10,9,,,
+UBC,2018,S,BUSI,291,,921,APPL STAT IN BUS,"Essak, Martha",32,73.42,12.7,94,25,30,1,1,0,0,0,0,1,0,0,1,0,1,3,1,5,6,5,5,2,2,,,
+UBC,2018,W,BABS,502,,BA1,FRCST TIM SR PRD,"Essak, Martha",50,81.32,4.46,89,66,50,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,15,21,12,0,,,
+UBC,2018,W,BABS,507,,BA1,DSCPTV PRDTV BAN,"Essak, Martha",50,76.92,5.84,89,60,50,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,9,19,13,3,0,,,
+UBC,2018,W,BABS,508,,BA1,ADV PREDCTIV BAN,"Essak, Martha",50,81.64,3.69,88,73,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,23,11,0,,,
+UBC,2018,W,BUSI,291,,101,APPL STAT IN BUS,"Essak, Martha",39,74.53,13.63,98,35,37,1,1,0,0,0,0,0,1,0,1,0,4,3,5,2,5,2,3,10,3,,,
+UBC,2018,W,BUSI,291,,201,APPL STAT IN BUS,"Essak, Martha",34,73,17.62,96,2,32,1,1,0,0,1,0,0,0,0,1,2,3,0,3,5,3,2,5,6,3,,,
+UBC,2018,W,COMM,291,,101,APPL STAT IN BUS,"Essak, Martha",45,68.87,18.52,95,27,39,6,0,0,0,0,0,3,1,2,6,5,2,1,7,2,0,5,8,4,5,,,
+UBCV,2015,W,COMM,581,,OR1,Statistical Methodology I,Martha Essak,13,84.769230769,6.098549638,94.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2016,W,BABS,502,,OR1,Forecasting and Time Series Prediction,Martha Essak,12,84.66666667,4.355421561,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,5,2,,,
+UBCV,2016,W,COMM,291,,101,Application of Statistics in Business,Martha Essak,58,72.60344828,10.43768418,92.0,43.0,,,,,,,,,,,1,2,4,3,6,8,10,9,8,5,2,,,
+UBCV,2016,W,COMM,581,,OR1,Statistical Methodology I,Martha Essak,14,80.64285714,10.03537698,92.0,54.0,,,,,,,,,,,0,,,,,2,1,,4,4,2,,,
+UBCV,2017,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Martha Essak;Wenting Li,35,80.028571429,6.653109464,91.0,61.0,,,,,,,,,,,0,0,0,1,1,3,1,8,12,8,1,,,
+UBCV,2017,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Wenting Li,37,85.378378378,5.345565927,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,1,10,15,8,,,
+UBCV,2017,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Martha Essak;Wenting Li,35,82.685714286,5.206169579,91.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,6,13,9,4,,,
+UBCV,2017,W,BUSI,291,,201,Application of Statistics in Business,Elaine Williamson;Martha Essak,26,78.0,15.775931034,95.0,25.0,,,,,,,,,,,2,0,0,0,1,2,4,1,4,7,5,,,
+UBCV,2017,W,COMM,291,,101,Application of Statistics in Business,Albina Gibadullina;Martha Essak,68,74.573529412,13.955490201,98.0,27.0,,,,,,,,,,,2,2,3,5,11,5,9,2,10,10,9,,,
+UBCV,2018,S,BUSI,291,,921,Application of Statistics in Business,Martha Essak,31,73.419354839,12.695863351,94.0,25.0,,,,,,,,,,,1,0,1,3,1,5,6,5,5,2,2,,,
+UBCV,2018,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Kataria Isha;Martha Essak;Xinru Luo,50,81.32,4.460438342,89.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,15,21,12,0,,,
+UBCV,2018,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Sahil Jain,50,76.92,5.844376331,89.0,60.0,,,,,,,,,,,0,0,0,2,2,2,9,19,13,3,0,,,
+UBCV,2018,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Martha Essak;Xinru Luo;Ziyang Xu,50,81.64,3.685382045,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,14,23,11,0,,,
+UBCV,2018,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,38,74.526315789,13.625764233,98.0,35.0,,,,,,,,,,,1,0,4,3,5,2,5,2,3,10,3,,,
+UBCV,2018,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,33,73.0,17.621010187,96.0,2.0,,,,,,,,,,,1,2,3,0,3,5,3,2,5,6,3,,,
+UBCV,2018,W,COMM,291,,101,Application of Statistics in Business,Martha Essak,45,68.866666667,18.517313766,95.0,27.0,,,,,,,,,,,6,5,2,1,7,2,0,5,8,4,5,,,
+UBCV,2019,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,20,69.35,21.136834897,94.0,0.0,,,,,,,,,,,2,0,0,2,2,5,2,0,3,2,2,,,
+UBCV,2019,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Hsiu-Chieh Lee;Martha Essak,47,80.978723404,5.840225434,92.0,64.0,,,,,,,,,,,0,0,0,0,2,1,5,7,19,11,2,,,
+UBCV,2019,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Hsiu-Chieh Lee;Martha Essak,47,81.872340426,4.665400031,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,8,20,12,2,,,
+UBCV,2019,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Hsiu-Chieh Lee;Martha Essak,47,81.893617021,5.835550876,94.0,62.0,,,,,,,,,,,0,0,0,1,0,1,4,7,18,12,4,,,
+UBCV,2019,W,BUSI,291,,101,Application of Statistics in Business,Brian Graystone;Martha Essak,46,72.934782609,14.824007816,94.0,28.0,,,,,,,,,,,2,4,4,5,0,1,6,6,6,8,4,,,
+UBCV,2019,W,BUSI,291,,201,Application of Statistics in Business,John Ries;Martha Essak,27,72.296296296,10.918631976,93.0,50.0,,,,,,,,,,,0,1,2,3,4,4,1,6,2,2,2,,,
+UBCV,2019,W,COMM,291,,101,Application of Statistics in Business,Martha Essak;Michael Lai Chuen Tam,49,67.142857143,16.832508231,91.0,7.0,,,,,,,,,,,4,4,8,5,4,3,2,4,8,6,1,,,
+UBCV,2020,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,35,71.485714286,17.684109565,96.0,8.0,,,,,,,,,,,3,1,1,4,2,2,6,4,6,3,3,,,
+UBCV,2020,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Hossameldin Ibrahim Said Mohammed;Martha Essak,75,84.666666667,5.771161608,94.0,68.0,,,,,,,,,,,0,0,0,0,0,2,4,10,12,32,15,,,
+UBCV,2020,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Zhuoya Wang,77,80.571428571,7.019575207,93.0,65.0,,,,,,,,,,,0,0,0,0,2,5,15,12,15,19,9,,,
+UBCV,2020,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Hossameldin Ibrahim Said Mohammed;Martha Essak,75,88.506666667,4.911028222,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,2,6,25,40,,,
+UBCV,2020,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak;Martin Schulz,55,75.0,14.593250596,94.0,26.0,,,,,,,,,,,3,3,0,5,3,4,5,4,11,11,6,,,
+UBCV,2020,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak;Martin Schulz,26,75.115384615,10.485521153,90.0,53.0,,,,,,,,,,,0,1,2,1,1,4,2,6,4,1,4,,,
+UBCV,2020,W,COMM,291,,101,Application of Statistics in Business,Ansel Hartanto;Martha Essak,52,69.288461538,12.327772788,93.0,40.0,,,,,,,,,,,1,6,6,4,7,4,3,7,9,3,2,,,
+UBCV,2021,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,37,75.540540541,10.828446576,96.0,50.0,,,,,,,,,,,0,2,1,3,1,5,7,2,9,4,3,,,
+UBCV,2021,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Karthik Narayanan;Katherine Sunderland;Martha Essak,65,83.815384615,3.468124077,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,33,21,4,,,
+UBCV,2021,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Sudipta Ghosh;Wendy Wai Yee Kei,65,82.784615385,5.925296163,93.0,46.0,,,,,,,,,,,1,0,0,0,0,0,1,9,31,20,3,,,
+UBCV,2021,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Karthik Narayanan;Katherine Sunderland;Martha Essak,65,85.2,3.973348714,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,3,25,24,12,,,
+UBCV,2021,W,BUSI,291,,101,Application of Statistics in Business,Daniel Muzyka;Martha Essak,62,70.048387097,17.858668666,94.0,11.0,,,,,,,,,,,6,2,5,5,3,5,6,11,7,8,4,,,
+UBCV,2021,W,BUSI,291,,201,Application of Statistics in Business,Chun Yan Yu;Martha Essak,53,72.471698113,15.589202098,97.0,27.0,,,,,,,,,,,4,3,2,2,7,2,3,12,7,7,4,,,
+UBCV,2021,W,COMM,291,,101,Application of Statistics in Business,Martha Essak;Yifan Zhou,52,65.942307692,19.42548706,96.0,9.0,,,,,,,,,,,7,3,6,5,2,8,5,3,4,3,6,,,
+UBCV,2021,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,37,75.5,,96.0,50.0,,,,,,,,,,,,,,,,,7,,9,,,75.0,83.0,70.0
+UBCV,2021,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,62,70.0,,94.0,11.0,,,,,,,,,,,6,,,,,,6,11,7,8,,75.0,83.0,62.3
+UBCV,2021,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,54,72.2,,97.0,27.0,,,,,,,,,,,,,,,7,,,12,7,7,,76.0,82.0,64.5
+UBCV,2022,S,BUSI,291,,951,Application of Statistics in Business,Martha Essak,57,76.4,,98.0,37.0,,,,,,,,,,,3,0,3,3,5,5,5,5,9,9,10,78.0,87.0,68.0
+UBCV,2022,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,38,79.1,,96.0,39.0,,,,,,,,,,,2,0,1,1,3,1,5,4,5,5,11,82.0,90.0,73.0
+UBCV,2022,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Martha Essak,39,82.2,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,7,23,6,1,83.0,84.0,80.0
+UBCV,2022,W,BABS,502,,BA2,Forecasting and Time Series Prediction,Martha Essak,39,81.4,,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,9,21,6,1,81.0,84.0,79.0
+UBCV,2022,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak,39,81.0,,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,5,27,4,0,82.0,83.0,80.0
+UBCV,2022,W,BABS,507,,BA2,Descriptive and Predictive Business Analysis,Martha Essak,39,82.3,,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,4,23,9,1,83.0,84.5,80.0
+UBCV,2022,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Martha Essak,39,80.5,,88.0,62.0,,,,,,,,,,,0,0,0,1,0,0,6,7,15,10,0,81.0,84.5,76.5
+UBCV,2022,W,BABS,508,,BA2,Advanced Predictive Business Analytics,Martha Essak,39,82.1,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,10,15,12,0,83.0,85.0,79.0
+UBCV,2022,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,58,74.6,,95.0,12.0,,,,,,,,,,,5,0,0,3,6,6,3,3,12,16,4,81.0,86.0,68.0
+UBCV,2022,W,BUSI,291,,102,Application of Statistics in Business,Martha Essak,61,76.2,,99.0,17.0,,,,,,,,,,,5,6,2,1,2,3,5,5,4,9,19,81.0,91.0,67.0
+UBCV,2022,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,46,77.0,,95.0,50.0,,,,,,,,,,,0,3,2,3,3,3,3,7,5,13,4,79.0,86.0,69.5
+UBCV,2022,W,BUSI,291,,202,Application of Statistics in Business,Martha Essak,53,70.1,,97.0,28.0,,,,,,,,,,,5,6,3,2,4,4,3,7,11,4,4,75.0,82.0,57.0
+UBCV,2022,W,COMM,191,,101,Application of Statistics in Business,Martha Essak,41,69.2,,94.0,31.0,,,,,,,,,,,2,1,4,6,6,4,7,1,6,2,2,69.0,79.0,62.0
+UBCV,2023,S,BUSI,291,,951,Application of Statistics in Business,Martha Essak,61,75.8,,95.0,0.0,,,,,,,,,,,2,2,3,6,2,3,6,4,11,8,10,80.0,87.0,67.0
+UBCV,2023,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,23,66.8,,93.0,17.0,,,,,,,,,,,4,2,1,0,2,3,1,3,4,2,1,70.0,80.5,56.5
+UBCV,2023,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Martha Essak,43,84.33,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,10,10,14,8,85.0,89.0,79.5
+UBCV,2023,W,BABS,502,,BA2,Forecasting and Time Series Prediction,Martha Essak,42,82.52,,93.0,69.0,,,,,,,,,,,0,0,0,0,0,3,7,4,9,12,7,84.0,88.0,76.75
+UBCV,2023,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,50,77.1,,92.0,58.0,,,,,,,,,,,0,0,3,2,10,2,3,5,7,13,5,79.5,86.0,67.0
+UBCV,2023,W,BUSI,291,,102,Application of Statistics in Business,Martha Essak,61,76.3,,98.0,21.0,,,,,,,,,,,3,2,1,3,2,8,3,9,6,7,13,79.0,88.0,70.0
+UBCV,2023,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,51,78.7,,97.0,19.0,,,,,,,,,,,1,2,0,2,4,5,2,4,5,16,8,84.0,89.0,69.0
+UBCV,2023,W,BUSI,291,,202,Application of Statistics in Business,Martha Essak,49,71.5,,93.0,10.0,,,,,,,,,,,4,3,0,4,1,1,4,7,7,6,4,78.0,83.0,63.0
+UBCV,2023,W,COMM,191,,101,Application of Statistics in Business,Martha Essak,61,75.4,,95.0,19.0,,,,,,,,,,,2,1,2,2,6,10,6,9,7,10,6,76.0,85.0,69.0

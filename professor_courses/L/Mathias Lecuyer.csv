@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CPSC,538,L,201,Topics in Computer Systems,Mathias Lecuyer,8,90.375,3.739270364,99.0,87.0,0,0,0,0,0,0,0,0,0,5,3,,,
+UBCV,2021,W,CPSC,538,L,201,Topics in Computer Systems,Mathias Lecuyer,8,90.4,,99.0,87.0,,,,,,,,,,,,89.0,91.0,88.8
+UBCV,2022,W,CPSC,330,,202,Applied Machine Learning,Mathias Lecuyer,82,82.5,,95.0,45.0,1,0,2,1,1,3,6,13,16,22,17,84.0,89.0,78.3
+UBCV,2022,W,CPSC,532,Y,101,Topics in Artificial Intelligence,Mathias Lecuyer,13,82.4,,100.0,61.0,0,0,0,1,0,0,2,0,4,4,2,84.0,86.0,80.0
+UBCV,2023,W,CPSC,330,,201,Applied Machine Learning,Mathias Lecuyer,155,84.1,,99.0,53.0,0,1,1,0,7,6,6,12,36,37,46,85.5,90.0,80.0
+UBCV,2023,W,CPSC,532,Y,101,Topics in Artificial Intelligence,Mathias Lecuyer,11,83.9,,98.0,49.0,1,0,0,0,0,0,2,0,0,2,4,89.0,95.0,74.0
+UBCV,2023,W,CPSC,538,L,101,Topics in Computer Systems,Mathias Lecuyer,7,94.2,,98.0,90.0,0,0,0,0,0,0,0,0,0,0,6,95.0,95.8,92.0

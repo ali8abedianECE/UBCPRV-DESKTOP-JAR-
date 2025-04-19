@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,MINE,486,,201,MIN & THE ENV,"Keen, Patricia",41,80.15,7.48,92,63,41,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,6,11,8,5
+UBC,2013,W,CIVL,405,,201,ENV IMPACT STDS,"Keen, Patricia;Lo, Kwang Victor;Mavinic, Donald",148,77.13,8.93,93,50,147,0,0,0,1,0,0,0,0,0,0,1,4,7,9,17,19,18,39,25,8
+UBC,2014,W,CIVL,305,,101,ENV IMPACT STUDY,"Keen, Patricia;Lo, Kwang Victor;Mavinic, Donald",143,76.73,8.21,93,50,142,0,0,1,0,0,0,0,0,0,0,3,2,4,12,14,16,31,40,15,5
+UBC,2015,W,CIVL,446,,201,DESIG & ANALYS 2,"Bourne, Michael;Derksen, Ruth;Keen, Patricia;Lo, Kwang Victor;Nazhat, Yahya;Sanghara, Hartaj",121,86.36,3.22,92,78,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,26,64,27
+UBC,2015,W,CIVL,447,,201,ENV ENG DESIGN,"Bourne, Michael;Derksen, Ruth;Keen, Patricia;Lo, Kwang Victor;Nazhat, Yahya;Sanghara, Hartaj",4,89,1.83,91,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2016,W,CIVL,202,,201,CIVL ENGINEER II,"Keen, Patricia",125,77.35,10.73,93,0,124,1,0,0,0,1,0,0,0,0,1,1,3,3,6,8,23,24,29,21,6
+UBC,2016,W,CIVL,304,,201,FNDMNTL ENVR ENG,"Keen, Patricia",40,80.7,7.2,92,64,40,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,4,15,9,3
+UBC,2016,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Altow, Deborah;Keen, Patricia;Li, Loretta;Nazhat, Yahya;Nesbit, Susan;Qi, Hongxing Estella;Sanghara, Hartaj",147,88.1,3.85,95,75,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,52,74
+UBC,2016,W,CIVL,446,,201,DESIG & ANALYS 2,"Bebam Zadeh, Armin;Keen, Patricia;Nazhat, Yahya",139,88.7,2.52,94,82,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,79,54
+UBC,2017,W,CIVL,202,,201,CIVL ENGINEER II,"Keen, Patricia",134,82.54,6.48,94,60,134,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,11,18,41,32,24
+UBC,2017,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Bourne, Michael;Keen, Patricia;Li, Loretta;Nazhat, Yahya;Nesbit, Susan;Rogalski, Pamela;Sanghara, Hartaj",133,88.54,3.38,94,78,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,58,57
+UBC,2017,W,CIVL,446,,201,DESIG & ANALYS 2,"Joghataie, Abdolreza;Keen, Patricia;Nazhat, Yahya",131,90.47,3.61,95,78,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,22,97
+UBC,2018,W,CIVL,204,,201,FNDMNTL ENVR ENG,"Keen, Patricia",123,76.1,10.76,95,22,119,2,1,0,1,0,0,1,1,0,2,1,2,5,8,17,19,19,21,20,7
+UBC,2018,W,CIVL,445,,101,CIVL DES PROJ I,"Bourne, Michael;Joghataie, Abdolreza;Keen, Patricia;Li, Loretta;Nazhat, Yahya;Rogalski, Pamela;Sanghara, Hartaj",150,89.99,3.44,94,65,150,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,45,99
+UBC,2018,W,CIVL,446,,201,CIVL DES PROJ II,"Joghataie, Abdolreza;Keen, Patricia;Nazhat, Yahya",151,91.12,1.9,95,86,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,129
+UBCV,2014,W,CIVL,305,,101,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Kwang Victor Lo;Patricia Keen,142,76.72535211,8.208406317,93.0,50.0,,,,,,,,,,,0,3,2,4,12,14,16,31,40,15,5
+UBCV,2015,W,CIVL,446,,201,Engineering Design and Analysis II,Hartaj Sanghara;Jessica Louise Lenoble;Kwang Victor Lo;Michael Bourne;Patricia Keen;Raghav Grover;Ruth Derksen;Yahya Nazhat,121,86.355371901,3.22454003,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,26,64,27
+UBCV,2016,W,CIVL,202,,201,Civil Engineering II,Ahmad Shafiq;Arash Nikzad;Federico Puscar;Mahdiar Khosravi;Michael Beswick;Mohammed Farooq;Patricia Keen;Sylvia Woolley,125,77.352,10.73376944,93.0,0.0,,,,,,,,,,,1,1,3,3,6,8,23,24,29,21,6
+UBCV,2016,W,CIVL,304,,201,Fundamentals of Environmental Engineering,James Roberts;Patricia Keen,40,80.7,7.204699321,92.0,64.0,,,,,,,,,,,0,0,0,0,3,2,4,4,15,9,3
+UBCV,2016,W,CIVL,445,,101,Engineering Design and Analysis I,Deborah Altow;Hartaj Sanghara;Hongxing Estella Qi;Loretta Li;Naeim Farahi Ghoddoosy;Patricia Keen;Susan Nesbit;Sydnie Koch;Yahya Nazhat,147,88.0952381,3.852295763,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,17,52,74
+UBCV,2016,W,CIVL,446,,201,Engineering Design and Analysis II,Armin Bebam Zadeh;Naeim Farahi Ghoddoosy;Patricia Keen;Sydnie Koch;Yahya Nazhat,139,88.69784173,2.51561695,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,79,54
+UBCV,2017,W,CIVL,202,,201,Civil Engineering II,Mohammed Farooq;Patricia Keen;Rajat Jain;Sahar Abouali;Sara Azizkhani;Vikas Menghwani,134,82.544776119,6.484934156,94.0,60.0,,,,,,,,,,,0,0,0,1,1,6,11,18,41,32,24
+UBCV,2017,W,CIVL,445,,101,Engineering Design and Analysis I,Hartaj Sanghara;Loretta Li;Michael Bourne;Moutoshi Saha;Naeim Farahi Ghoddoosy;Pamela Rogalski;Pamela Wolf;Patricia Keen;Susan Nesbit;Yahya Nazhat,133,88.541353383,3.383362319,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,17,58,57
+UBCV,2017,W,CIVL,446,,201,Engineering Design and Analysis II,Abdolreza Joghataie;Moutoshi Saha;Naeim Farahi Ghoddoosy;Patricia Keen;Yahya Nazhat,131,90.465648855,3.610450025,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,22,97
+UBCV,2018,W,CIVL,204,,201,Fundamentals of Environmental Engineering,Abhishek Dutta;Patricia Keen;Pranav Sai Shankar Sampara;Robert Gregory Shilton;Robert Shilton;Ryan Ziels,122,76.024590164,10.74379553,95.0,22.0,,,,,,,,,,,2,1,2,5,9,17,19,19,21,20,7
+UBCV,2018,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Hartaj Sanghara;Jeffrey D Desson;Jeffrey Desson;Loretta Li;Michael Bourne;Pamela Rogalski;Pamela Wolf;Patricia Keen;Seyed Alireza Eksir Monfared;Yahya Nazhat,150,89.986666667,3.438796939,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,5,45,99
+UBCV,2018,W,CIVL,446,,201,Civil Engineering Design Project II.,Abdolreza Joghataie;Jeffrey Desson;Patricia Keen;Seyed Alireza Eksir Monfared;Yahya Nazhat,151,91.119205298,1.904125879,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,22,129
+UBCV,2019,W,CIVL,204,,201,Fundamentals of Environmental Engineering,Abhishek Dutta;Christopher Caufield;Eric Hall;Jaime Cathcart;Patricia Keen;Pranav Sai Shankar Sampara;Ryan Ziels,144,80.652777778,9.096467803,98.0,57.0,,,,,,,,,,,0,0,1,4,9,11,18,19,24,32,26

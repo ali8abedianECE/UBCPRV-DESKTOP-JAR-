@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,AGRO,322,,001,Hort Tech,"JUSTICE, DOUGLAS;Jolliffe, Peter A",14,80.08,6.7,89,65,13,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,5,3,0
+UBC,2002,W,AGRO,420,,001,GREENHS hort sys,"Jolliffe, Peter A",15,80.67,10.65,92,63,15,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,2,5,3
+UBC,2002,W,AGRO,497,B,002,Dir Studies,"Jolliffe, Peter A",15,84.67,8.26,95,59,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,6,5
+UBC,2002,W,AGRO,497,B,003,Dir Studies,"Jolliffe, Peter A",4,81.25,2.5,85,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+UBC,2002,W,AGRO,498,,001,Undergrad Essay,"Jolliffe, Peter A",5,82.8,7.05,93,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+UBC,2002,W,AGRO,499,,001,UNDERGRAD THESIS,"Jolliffe, Peter A",6,83.83,6.24,93,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2
+UBC,2003,W,AGRO,423,,001,Ecophys & Hort,"Jolliffe, Peter A",9,83.11,8.74,95,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,3,2
+UBC,2003,W,AGRO,497,B,001,Dir Studies,"Jolliffe, Peter A",7,85.14,1.46,88,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0
+UBC,2003,W,AGRO,497,B,002,Dir Studies,"Jolliffe, Peter A",6,65.8,39.06,95,0,4,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,2
+UBC,2003,W,PLNT,525,,101,PLANT ANALYSIS,"Jolliffe, Peter A",6,87.33,4.8,93,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2005,W,AGRO,497,B,002,Dir Studies,"Jolliffe, Peter A",13,78.54,13.45,95,51,13,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,1,2,2,3
+UBC,2005,W,BIOL,351,,101,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Guy, Robert;Jolliffe, Peter A;Singh, Santokh",62,79.65,8.08,92,51,62,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,10,5,22,12,5
+UBC,2006,W,AGRO,324,,001,PLNT PHYS,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",11,66.9,10.86,88,50,10,0,1,0,0,0,0,0,0,0,0,1,1,2,2,1,1,1,0,1,0
+UBC,2006,W,AGRO,420,,001,GREENHS hort sys,"Jolliffe, Peter A",13,83.08,4.87,90,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,4,1
+UBC,2006,W,AGRO,497,A,001,Dir Studies,"Jolliffe, Peter A",4,90,5.77,95,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2006,W,AGRO,497,B,001,Dir Studies,"Jolliffe, Peter A",6,68.33,33.99,90,0,5,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,2,1,1
+UBC,2006,W,BIOL,351,,101,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",54,76.45,8.79,90,57,53,0,0,0,1,0,0,0,0,0,0,0,2,4,3,8,8,3,13,10,2
+UBC,2007,W,AGRO,324,,001,PLNT PHYS,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",5,72.6,13.52,85,50,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0
+UBC,2007,W,AGRO,423,,001,Ecophys & Hort,"Jolliffe, Peter A",9,82.25,5.97,90,72,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,1
+UBC,2007,W,AGRO,497,B,001,Dir Studies,"Jolliffe, Peter A",11,84.91,8.77,91,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,6
+UBC,2007,W,AGRO,497,B,002,Dir Studies,"Jolliffe, Peter A",4,65,43.59,90,0,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2
+UBC,2007,W,BIOL,351,,201,PLNT PHYL 1:NUTR,"Chowrira, Gangamma;Jolliffe, Peter A;Mansfield, Shawn;Singh, Santokh",36,73.54,10.38,91,56,35,0,1,0,0,0,0,0,0,0,0,0,4,4,3,2,5,5,7,4,1

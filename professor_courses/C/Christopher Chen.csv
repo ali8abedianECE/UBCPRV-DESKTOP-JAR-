@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,317,,201,Internet Computing,Alan Wagner;Bin Chen;Cathy Jiao;Cathy Lu Jiao;Christopher Chen;Hannah Lin;Jocelyn Minns;Pritpal Chauhan;Ronald Garcia,149,76.852348993,11.276246164,95.0,38.0,4,1,4,4,16,13,14,23,24,25,21
+UBCV,2018,W,CPSC,418,,101,Parallel Computation,Adam Geller;Chia Wei Hsiung;Christopher Chen;Mark Greenstreet,81,79.469135802,9.973823765,98.0,52.0,0,2,1,0,5,8,14,8,16,11,16
+UBCV,2020,W,CPSC,508,,201,Operating Systems,Christopher Chen;Margo Seltzer;Reto Achermann,19,83.631578947,7.689896158,93.0,72.0,0,0,0,0,0,0,4,2,4,3,6

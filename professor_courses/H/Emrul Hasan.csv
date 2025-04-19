@@ -1,0 +1,79 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ECON,101,,VM1,PRNCPLS MICRECON,"Hasan, Emrul",24,68.88,19.35,95,0,22,2,0,0,0,1,0,0,1,0,2,1,1,2,3,3,1,6,1,3,1,,,
+UBC,2018,W,ECON,102,,008,PRINCPL MACRECON,"Hasan, Emrul",99,80.21,11.64,100,51,97,0,1,0,1,0,0,0,0,0,0,2,2,4,8,8,6,14,15,15,23,,,
+UBC,2018,W,ECON,102,,VM1,PRINCPL MACRECON,"Hasan, Emrul",23,67.74,19.12,96,0,22,1,0,0,0,1,0,0,0,0,1,2,4,2,2,1,2,3,3,1,2,,,
+UBC,2018,W,ECON,355,,005,INTRO INT TRADE,"Hasan, Emrul",59,70.91,11.27,95,41,54,2,3,0,0,0,0,0,0,2,2,1,6,6,5,8,11,3,8,3,3,,,
+UBC,2018,W,ECON,425,,003,ECONOMETRICS,"Hasan, Emrul",49,84.4,8.04,98,68,48,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3,4,11,11,14,,,
+UBC,2018,W,VANT,148,,V09,VANT COL PROJECT,"Hasan, Emrul",24,75.13,10.28,93,48,23,1,0,0,0,0,0,0,0,1,1,0,0,1,3,4,3,3,4,4,1,,,
+UBC,2018,W,VANT,148,,V10,VANT COL PROJECT,"Hasan, Emrul",25,81.08,15.02,93,18,24,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4,7,7,5,,,
+UBC,2018,W,VANT,148,,VM1,VANT COL PROJECT,"Hasan, Emrul",23,80.52,18.39,93,1,22,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,2,2,4,6,7,,,
+UBCV,2018,W,ECON,101,,VM1,Principles of Microeconomics,David Green;Emrul Hasan;Yu Hung Yaow,24,68.875,19.348772571,95.0,0.0,,,,,,,,,,,2,1,1,2,3,3,1,6,1,3,1,,,
+UBCV,2018,W,ECON,102,,008,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Nicolas Franz Pattillo,98,79.897959184,11.97548165,100.0,50.0,,,,,,,,,,,0,3,2,4,8,8,6,14,15,15,23,,,
+UBCV,2018,W,ECON,102,,VM1,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Yu Hung Yaow,23,67.739130435,19.122137079,96.0,0.0,,,,,,,,,,,1,2,4,2,2,1,2,3,3,1,2,,,
+UBCV,2018,W,ECON,355,,005,Introduction to International Trade,Emrul Hasan;Hugh Neary;Ronit Mukherji,56,70.910714286,11.273906777,95.0,41.0,,,,,,,,,,,2,1,6,6,5,8,11,3,8,3,3,,,
+UBCV,2018,W,ECON,425,,003,Introduction to Econometrics,Denis Kojevnikov;Emrul Hasan,48,84.395833333,8.041751644,98.0,68.0,,,,,,,,,,,0,0,0,0,0,5,3,4,11,11,14,,,
+UBCV,2018,W,VANT,148,,V09,UBC Vantage College Projects,Caroline Chung-Hsuan Locher-Lo;Caroline Locher-Lo;Cayley Burton;Cayley Nicole Burton;Emrul Hasan,24,75.125,10.2800461,93.0,48.0,,,,,,,,,,,1,0,0,1,3,4,3,3,4,4,1,,,
+UBCV,2018,W,VANT,148,,V10,UBC Vantage College Projects,Caroline Chung-Hsuan Locher-Lo;Caroline Locher-Lo;Cayley Burton;Cayley Nicole Burton;Emrul Hasan,25,81.08,15.024757347,93.0,18.0,,,,,,,,,,,1,0,1,0,0,0,0,4,7,7,5,,,
+UBCV,2018,W,VANT,148,,VM1,UBC Vantage College Projects,Caroline Chung-Hsuan Locher-Lo;Caroline Locher-Lo;Cayley Burton;Cayley Nicole Burton;Emrul Hasan,23,80.52173913,18.386926099,93.0,1.0,,,,,,,,,,,1,0,0,0,0,1,2,2,4,6,7,,,
+UBCV,2019,S,VANT,149,,V01,Multi-disciplinary Research Project,Emrul Hasan,20,76.3,11.507892029,92.0,47.0,,,,,,,,,,,1,0,1,0,2,2,2,2,6,2,2,,,
+UBCV,2019,S,VANT,149,,V03,Multi-disciplinary Research Project,Emrul Hasan,23,81.043478261,7.163533034,90.0,58.0,,,,,,,,,,,0,0,1,0,0,1,2,3,7,7,2,,,
+UBCV,2019,S,VANT,149,,V08,Multi-disciplinary Research Project,Emrul Hasan,25,81.48,8.272041264,95.0,59.0,,,,,,,,,,,0,0,1,0,0,1,3,3,9,3,5,,,
+UBCV,2019,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Emrul Hasan;Jordan Hutchings,102,73.441176471,13.627704404,96.0,4.0,,,,,,,,,,,5,1,6,8,10,10,11,21,12,7,11,,,
+UBCV,2019,W,ECON,102,,014,Principles of Macroeconomics,Ali Karimirad;Emrul Hasan;Sean Alldridge;Wenyan Bu,125,72.44,13.259445811,96.0,37.0,,,,,,,,,,,6,6,8,11,12,15,18,7,14,15,13,,,
+UBCV,2019,W,ECON,302,,006,Intermediate Macroeconomic Analysis I,Ali Karimirad;Emrul Hasan;Helena Xiaoyi Zhu;Xinying Wang;Yajun Wang,100,71.76,8.442461224,88.0,50.0,,,,,,,,,,,0,2,6,9,12,17,19,16,12,7,0,,,
+UBCV,2019,W,ECON,355,,002,Introduction to International Trade,Emrul Hasan;Ronit Mukherji;Tomasz Swiecki,97,83.546391753,8.656669657,96.0,48.0,,,,,,,,,,,1,1,0,1,1,2,8,14,17,26,26,,,
+UBCV,2019,W,ECON,355,,003,Introduction to International Trade,Emrul Hasan;Nisha Malhotra;Ronit Mukherji,91,82.395604396,8.704888947,97.0,59.0,,,,,,,,,,,0,0,1,3,1,4,7,19,15,20,21,,,
+UBCV,2019,W,ECON,355,,005,Introduction to International Trade,Emrul Hasan;Ronit Mukherji,53,74.490566038,11.886680719,96.0,33.0,,,,,,,,,,,2,0,1,5,4,4,8,9,11,6,3,,,
+UBCV,2019,W,ECON,425,,003,Introduction to Econometrics,Cheryl Fu;Emrul Hasan;Gustavo Albuquerque;Gustavo Tovar Albuquerque,47,85.021276596,12.957269844,98.0,11.0,,,,,,,,,,,1,0,0,0,0,2,1,5,7,13,18,,,
+UBCV,2019,W,ECON,457,,001,Seminar in International Economic Relations,Emrul Hasan;Nisha Malhotra,18,87.0,7.30833529,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,4,8,,,
+UBCV,2020,S,VANT,149,,V01,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;David Brownstein;Emrul Hasan;Tierney Nicole Wisniewski;Tierney Wisniewski,30,74.4,7.595824624,87.0,60.0,,,,,,,,,,,0,0,0,4,3,1,7,5,8,2,0,,,
+UBCV,2020,S,VANT,149,,V03,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;David Brownstein;Emrul Hasan;Tierney Nicole Wisniewski;Tierney Wisniewski,24,81.375,6.901874352,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,4,10,1,5,,,
+UBCV,2020,S,VANT,149,,V08,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Emrul Hasan;Eva Zysk;Tierney Nicole Wisniewski;Tierney Wisniewski,14,78.5,8.662474331,93.0,65.0,,,,,,,,,,,0,0,0,0,2,2,0,3,4,2,1,,,
+UBCV,2020,W,ECON,102,,007,Principles of Macroeconomics,Emrul Hasan;Hanqi Wang;Robert Gateman;Vibhu Pratyush;William Thomas,176,76.022727273,17.252396784,98.0,7.0,,,,,,,,,,,10,5,8,8,8,13,13,17,30,35,29,,,
+UBCV,2020,W,ECON,102,,010,Principles of Macroeconomics,Emrul Hasan;Justine See-Fernandez;Robert G Gateman;Robert Gateman;Silas Xuereb,106,63.29245283,18.410642358,94.0,0.0,,,,,,,,,,,17,10,15,13,5,10,6,10,7,8,5,,,
+UBCV,2020,W,ECON,102,,014,Principles of Macroeconomics,Emrul Hasan;Ivan Pastine;Vibhu Pratyush;William Thomas,117,74.538461538,12.79583611,98.0,6.0,,,,,,,,,,,3,1,4,9,12,15,18,16,17,10,12,,,
+UBCV,2020,W,ECON,226,,003,Making Sense of Economic Data,Emrul Hasan;Fr���D���Rik-Xavier Duhamel;Javier Cortes Orihuela,49,77.653061224,11.292606395,99.0,50.0,,,,,,,,,,,0,1,3,1,4,4,9,4,6,10,7,,,
+UBCV,2020,W,ECON,302,,006,Intermediate Macroeconomic Analysis I,Ali Karimirad;Emrul Hasan,84,78.392857143,7.17260158,93.0,55.0,,,,,,,,,,,0,0,1,1,2,10,14,17,23,11,5,,,
+UBCV,2020,W,ECON,355,,002,Introduction to International Trade,Emrul Hasan;Sneha Danda,90,81.666666667,12.300543516,98.0,0.0,,,,,,,,,,,1,0,1,3,2,5,5,11,19,24,19,,,
+UBCV,2020,W,ECON,355,,003,Introduction to International Trade,Ali Karimirad;Emrul Hasan,92,81.315217391,8.765478426,96.0,54.0,,,,,,,,,,,0,1,1,2,4,6,5,14,20,26,13,,,
+UBCV,2020,W,ECON,355,,005,Introduction to International Trade,Emrul Hasan;Ronit Mukherji;Tomasz Swiecki,57,76.473684211,10.510377972,97.0,50.0,,,,,,,,,,,0,1,2,2,7,7,8,9,6,9,6,,,
+UBCV,2020,W,ECON,425,,003,Introduction to Econometrics,Emrul Hasan;Yu Hao,41,84.43902439,7.629052302,97.0,67.0,,,,,,,,,,,0,0,0,0,1,1,4,7,5,9,14,,,
+UBCV,2020,W,ECON,457,,001,Seminar in International Economic Relations,Emrul Hasan,13,85.692307692,5.023023913,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,6,4,,,
+UBCV,2021,S,ECON,326,,921,Methods of Empirical Research in Economics,Emrul Hasan;Jan  Ksawery Rosa;Jonathan Graves,16,82.0625,6.329494451,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,5,5,2,3,,,
+UBCV,2021,S,ECON,326,,922,Methods of Empirical Research in Economics,Emrul Hasan;Jan  Ksawery Rosa;Jonathan Graves;Wendy Wai Yee Kei,20,77.15,11.352138681,94.0,52.0,,,,,,,,,,,0,2,0,0,2,1,3,3,3,4,2,,,
+UBCV,2021,W,ECON,102,,005,Principles of Macroeconomics,Emrul Hasan;Jonah Izatt;Ken Jackson;Mehak Raina;Michael Vaney;Robert Gateman;Vanessa Alviarez;Wai-Ching Alfred Kong,227,67.95154185,13.811061836,94.0,10.0,,,,,,,,,,,13,16,25,20,30,28,25,27,22,14,7,,,
+UBCV,2021,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Ali Karimirad;Emrul Hasan;Peifan Wu,125,76.52,9.757214039,96.0,36.0,,,,,,,,,,,2,2,1,4,10,9,15,27,27,20,8,,,
+UBCV,2021,W,ECON,304,,002,Honours Intermediate Microeconomic Analysis I,Anubhav Jha;Emrul Hasan;Wei Li,16,75.0,12.398924685,99.0,55.0,,,,,,,,,,,0,0,3,0,1,1,1,4,3,2,1,,,
+UBCV,2021,W,ECON,325,,006,Introduction to Empirical Economics,Emrul Hasan;Spreeha Aggarwal,46,72.260869565,15.730274819,95.0,21.0,,,,,,,,,,,4,0,1,4,7,2,3,6,11,6,2,,,
+UBCV,2021,W,ECON,326,,004,Methods of Empirical Research in Economics,Anirban Mukherjee;Emrul Hasan;Jan  Ksawery Rosa,95,72.6,11.422635236,92.0,29.0,,,,,,,,,,,4,0,4,5,8,10,22,15,19,4,4,,,
+UBCV,2021,W,ECON,327,,001,Introduction to Empirical Methods,Emrul Hasan;Spreeha Aggarwal,99,81.737373737,9.73169224,99.0,47.0,,,,,,,,,,,1,0,0,3,7,7,7,8,21,23,22,,,
+UBCV,2021,W,ECON,355,,002,Introduction to International Trade,Emrul Hasan;Maria Correa;Yuxuan Wu,130,75.230769231,14.042868179,97.0,2.0,,,,,,,,,,,5,1,3,5,7,12,24,20,20,27,6,,,
+UBCV,2021,W,ECON,355,,003,Introduction to International Trade,Brian Copeland;Emrul Hasan;Francis Vitek;Giulia Lo Forte;Nisha Malhotra,97,79.020618557,14.551617451,97.0,0.0,,,,,,,,,,,2,1,4,5,7,6,3,9,20,19,21,,,
+UBCV,2021,W,ECON,457,,002,Seminar in International Economic Relations,Emrul Hasan;Nisha Malhotra,13,85.384615385,8.057485769,91.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,1,2,3,6,,,
+UBCV,2021,W,ECON,490,,003,Seminar in Applied Economics,Emrul Hasan;Federico Ricca;Michael Vaney;Subrata Sarker;Wendy Wai Yee Kei,20,80.55,5.942487517,91.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,4,8,2,3,,,
+UBCV,2021,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Daniel Riccardi;Emrul Hasan;Jennifer Lightfoot;Sandra Zappa,13,62.384615385,14.682974617,79.0,29.0,,,,,,,,,,,3,1,1,1,1,1,2,3,0,0,0,,,
+UBCV,2021,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Amber Shaw;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Christopher Gradin;Emrul Hasan;Fatimah Mahmood;Jodie Martin;John Pringle;Mingjun Wang;Naga Raghavendra Koppisetti;Pedro Dos Santos;Sandra Zappa,16,77.5,7.949842766,86.0,58.0,,,,,,,,,,,0,0,1,0,1,1,1,5,4,3,0,,,
+UBCV,2021,W,VANT,150,,VE1,Sustainability and Engineering Design,Alfredo Ferreira;Amber Shaw;Behzad Zakani;Christopher Gradin;Daniel Riccardi;Emrul Hasan;Gabriel Potvin;Jodie Martin;Juan Abello Rubio;Katherine Lyon;Saloome Motavas;Vladan Prodanovic,58,67.206896552,14.156715127,91.0,35.0,,,,,,,,,,,12,0,0,7,6,8,6,7,8,3,1,,,
+UBCV,2021,S,ECON,326,,921,Methods of Empirical Research in Economics,Jonathan Graves;Emrul Hasan,16,82.1,,92.0,68.0,,,,,,,,,,,,,,,,,,,,,,82.5,86.5,77.8
+UBCV,2021,S,ECON,326,,922,Methods of Empirical Research in Economics,Jonathan Graves;Emrul Hasan,20,77.2,,94.0,52.0,,,,,,,,,,,,,,,,,,,,,,78.5,85.0,72.0
+UBCV,2021,W,ECON,102,,005,Principles of Macroeconomics,Emrul Hasan,227,68.1,,94.0,10.0,,,,,,,,,,,10,18,26,20,30,28,25,27,22,14,7,69.0,77.0,61.0
+UBCV,2021,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Emrul Hasan,125,76.6,,96.0,36.0,,,,,,,,,,,,,,,10,9,15,27,27,20,8,77.0,83.0,72.0
+UBCV,2021,W,ECON,325,,006,Introduction to Empirical Economics,Emrul Hasan,46,72.3,,95.0,21.0,,,,,,,,,,,,,,,7,,,6,11,6,,77.5,82.0,65.0
+UBCV,2021,W,ECON,326,,004,Methods of Empirical Research in Economics,Emrul Hasan,94,73.3,,92.0,32.0,,,,,,,,,,,,,,,9,10,23,15,19,,,74.0,80.0,69.0
+UBCV,2021,W,ECON,327,,001,Introduction to Empirical Methods,Emrul Hasan,99,81.7,,99.0,47.0,,,,,,,,,,,,,,,7,7,7,8,21,23,22,84.0,89.0,75.5
+UBCV,2021,W,ECON,355,,002,Introduction to International Trade,Emrul Hasan,129,75.9,,97.0,2.0,,,,,,,,,,,,,,,7,12,23,20,20,28,6,77.0,85.0,72.0
+UBCV,2021,W,ECON,457,,002,Seminar in International Economic Relations,Emrul Hasan,13,85.4,,91.0,62.0,,,,,,,,,,,,,,,,,,,,,6,87.0,90.0,83.0
+UBCV,2022,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Emrul Hasan,133,76.4,,96.0,28.0,,,,,,,,,,,1,0,1,3,10,14,23,29,32,17,3,77.0,82.0,72.0
+UBCV,2022,W,ECON,325,,001,Introduction to Empirical Economics,Emrul Hasan,64,75.0,,95.0,15.0,,,,,,,,,,,4,0,3,0,6,5,9,7,16,8,6,79.0,84.0,69.8
+UBCV,2022,W,ECON,325,,006,Introduction to Empirical Economics,Emrul Hasan,75,74.3,,94.0,24.0,,,,,,,,,,,3,4,4,3,5,4,11,13,13,9,6,76.0,83.5,67.5
+UBCV,2022,W,ECON,326,,004,Methods of Empirical Research in Economics,Emrul Hasan,89,74.1,,90.0,52.0,,,,,,,,,,,0,2,3,2,11,14,11,17,18,10,1,76.0,80.0,68.0
+UBCV,2022,W,ECON,327,,001,Introduction to Empirical Methods,Emrul Hasan,92,83.4,,96.0,55.0,,,,,,,,,,,0,0,1,1,0,2,4,17,24,19,24,84.0,90.0,78.8
+UBCV,2022,W,ECON,457,,002,Seminar in International Economic Relations,Emrul Hasan,24,85.0,,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,3,12,5,85.5,87.3,83.0
+UBCV,2022,W,PPGA,500,B,001,Economics for Policy,Emrul Hasan,44,80.5,,93.0,62.0,,,,,,,,,,,0,0,0,3,0,3,4,7,12,11,4,82.0,86.0,76.0
+UBCV,2023,S,ECON,325,,921,Introduction to Empirical Economics,Emrul Hasan,87,75.5,,96.0,46.0,,,,,,,,,,,2,3,3,3,10,6,12,9,12,12,9,76.0,85.0,67.0
+UBCV,2023,W,ECON,302,,001,Intermediate Macroeconomic Analysis I,Emrul Hasan,89,72.2,,94.0,46.0,,,,,,,,,,,1,0,5,10,11,8,18,12,17,5,2,73.0,80.0,65.0
+UBCV,2023,W,ECON,325,,002,Introduction to Econometrics I,Emrul Hasan,37,78.8,,97.0,53.0,,,,,,,,,,,0,1,2,1,3,3,3,2,4,7,9,82.0,89.0,69.5
+UBCV,2023,W,ECON,325,,003,Introduction to Econometrics I,Emrul Hasan,25,76.2,,96.0,30.0,,,,,,,,,,,1,0,0,1,2,3,5,0,6,3,4,80.0,86.0,70.0
+UBCV,2023,W,ECON,326,,001,Introduction to Econometrics II,Emrul Hasan,91,78.8,,93.0,64.0,,,,,,,,,,,0,0,0,0,4,7,12,23,23,18,4,78.0,83.0,75.5
+UBCV,2023,W,ECON,326,,002,Introduction to Econometrics II,Emrul Hasan,95,78.8,,95.0,58.0,,,,,,,,,,,0,0,1,1,2,8,10,24,25,14,8,80.0,83.0,76.0
+UBCV,2023,W,ECON,457,,002,Seminar in International Economic Relations,Emrul Hasan,16,86.6,,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,7,6,86.5,90.3,85.0

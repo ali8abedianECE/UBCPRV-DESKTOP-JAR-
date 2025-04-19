@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,ENVR,300,,201,Introduction to Research in Environmental Science,Sam Anderson;Sam Lucas Anderson;Tara Ivanochko;Valentina Radic,60,83.666666667,4.785807644,91.0,67.0,0,0,0,0,1,1,1,3,28,20,6,,,
+UBCV,2018,W,EOSC,453,,101,Physics of the Earth and Other Planets,Andrew Jellinek;Sam Anderson;Sam Lucas Anderson,19,82.0,8.069145625,99.0,71.0,0,0,0,0,0,1,4,2,5,4,3,,,
+UBCV,2018,W,EOSC,454,,201,Applied Geophysics,Andrew Jellinek;Sam Anderson;Sam Lucas Anderson;Valentina Radic,14,84.928571429,6.977593653,93.0,70.0,0,0,0,0,0,2,0,0,3,6,3,,,
+UBCV,2018,W,EOSC,510,,201,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Sam Anderson;Sam Lucas Anderson;Valentina Radic,23,88.130434783,4.585593526,94.0,78.0,0,0,0,0,0,0,0,1,5,5,12,,,
+UBCV,2019,W,EOSC,410,,201,Geoscientific Data Analysis and Empirical Modelling,Geena Frances Littel;Geena Littel;Sam Anderson;Sam Lucas Anderson,10,93.2,4.565571645,97.0,84.0,0,0,0,0,0,0,0,0,1,1,8,,,
+UBCV,2019,W,EOSC,510,,201,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Sam Anderson;Sam Lucas Anderson;Valentina Radic,19,90.421052632,7.128314352,96.0,72.0,0,0,0,0,0,0,2,0,1,1,15,,,
+UBCV,2020,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Ali Mehrabifard;Charles Sammis;Connor Turvey;Leah May Ver;Louise Longridge;Lucy Porritt;Maria Maldonado-Pareja;Roland Stull;Sam Anderson,116,76.103448276,16.028441737,96.0,2.0,6,3,2,4,6,5,13,11,32,19,15,,,
+UBCV,2020,W,EOSC,453,,101,Physics of the Earth and Other Planets,Andrew Jellinek;Benjamin Scheifele;Neil Balmforth;Sam Anderson,11,89.818181818,3.400534717,95.0,85.0,0,0,0,0,0,0,0,0,0,5,6,,,
+UBCV,2021,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Charles Sammis;Connor Turvey;Kartik Jain;Leah May Ver;Louise Longridge;Lucy Porritt;Maria Maldonado-Pareja;Polina Orlov;Roland Stull;Sam Anderson,212,74.146226415,15.682040167,96.0,0.0,11,6,10,10,15,13,17,33,42,26,29,,,
+UBCV,2021,W,EOSC,510,,101,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Cole Lord-May;Sam Anderson;Valentina Radic,26,88.961538462,3.924087351,94.0,80.0,0,0,0,0,0,0,0,0,4,8,14,,,
+UBCV,2021,W,EOSC,510,,101,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Sam Anderson,26,89.0,,94.0,80.0,,,,,,,,,,8,14,90.0,92.0,85.5

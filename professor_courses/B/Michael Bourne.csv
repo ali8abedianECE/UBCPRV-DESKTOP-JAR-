@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,APSC,201,,102,TECHNICAL COMMUN,"Bourne, Michael",31,72.55,8.77,85,43,29,2,0,0,0,0,0,0,0,2,2,0,0,0,3,3,12,7,3,1,0
+UBC,2014,W,MTRL,201,,201,TECHNCL COMMNCTN,"Bourne, Michael",39,73.84,3.77,81,62,38,0,1,0,0,0,0,0,0,0,0,0,0,1,0,10,16,7,4,0,0
+UBC,2015,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Bourne, Michael;Derksen, Ruth;Isaacson, Michael D;Li, Loretta;Mavinic, Donald;Nazhat, Yahya;Nesbit, Susan;Sanghara, Hartaj",124,85.6,6.43,95,70,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,11,27,32,43
+UBC,2015,W,CIVL,446,,201,DESIG & ANALYS 2,"Bourne, Michael;Derksen, Ruth;Keen, Patricia;Lo, Kwang Victor;Nazhat, Yahya;Sanghara, Hartaj",121,86.36,3.22,92,78,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,26,64,27
+UBC,2015,W,CIVL,447,,201,ENV ENG DESIGN,"Bourne, Michael;Derksen, Ruth;Keen, Patricia;Lo, Kwang Victor;Nazhat, Yahya;Sanghara, Hartaj",4,89,1.83,91,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2015,W,MTRL,201,,201,TECHNCL COMMNCTN,"Bourne, Michael",51,74.61,4.24,85,65,51,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,19,13,5,1,0
+UBC,2017,W,CIVL,445,,101,ENG DESIG&ANLY 1,"Bourne, Michael;Keen, Patricia;Li, Loretta;Nazhat, Yahya;Nesbit, Susan;Rogalski, Pamela;Sanghara, Hartaj",133,88.54,3.38,94,78,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,58,57
+UBC,2018,W,CIVL,445,,101,CIVL DES PROJ I,"Bourne, Michael;Joghataie, Abdolreza;Keen, Patricia;Li, Loretta;Nazhat, Yahya;Rogalski, Pamela;Sanghara, Hartaj",150,89.99,3.44,94,65,150,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,45,99
+UBCV,2014,W,APSC,201,,102,Technical Communication,Michael Bourne,31,72.5483871,8.770551901,85.0,43.0,,,,,,,,,,,,,,,,,12,7,,,0
+UBCV,2014,W,MTRL,201,,201,Technical Communication,Michael Bourne,38,73.84210526,3.774210609,81.0,62.0,,,,,,,,,,,0,0,0,,,10,16,7,,0,0
+UBCV,2015,W,CIVL,445,,101,Engineering Design and Analysis I,Donald Mavinic;Hartaj Sanghara;Jessica Louise Lenoble;Loretta Li;Michael Bourne;Michael D Isaacson;Raghav Grover;Ruth Derksen;Susan Nesbit;Yahya Nazhat,124,85.596774194,6.428998525,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,9,11,27,32,43
+UBCV,2015,W,CIVL,446,,201,Engineering Design and Analysis II,Hartaj Sanghara;Jessica Louise Lenoble;Kwang Victor Lo;Michael Bourne;Patricia Keen;Raghav Grover;Ruth Derksen;Yahya Nazhat,121,86.355371901,3.22454003,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,26,64,27
+UBCV,2015,W,MTRL,201,,201,Technical Communication,Michael Bourne,51,74.607843137,4.2430104,85.0,65.0,,,,,,,,,,,0,0,0,0,,10,19,13,5,,0
+UBCV,2017,W,CIVL,445,,101,Engineering Design and Analysis I,Hartaj Sanghara;Loretta Li;Michael Bourne;Moutoshi Saha;Naeim Farahi Ghoddoosy;Pamela Rogalski;Pamela Wolf;Patricia Keen;Susan Nesbit;Yahya Nazhat,133,88.541353383,3.383362319,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,17,58,57
+UBCV,2018,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Hartaj Sanghara;Jeffrey D Desson;Jeffrey Desson;Loretta Li;Michael Bourne;Pamela Rogalski;Pamela Wolf;Patricia Keen;Seyed Alireza Eksir Monfared;Yahya Nazhat,150,89.986666667,3.438796939,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,5,45,99

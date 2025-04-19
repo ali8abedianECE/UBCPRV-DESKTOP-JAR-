@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2017,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Aurey Harris;Cameron Chong;Gunjan Soni;Joyce Epp;Riley Waters;Robert Hill;Shima Amirsadri;Zhenyuan Ma,241,73.763485477,19.932544439,100.0,0.0,38,4,6,13,9,17,15,23,30,30,56
+UBCO,2017,W,COSC,121,,001,Computer Programming II,Abdallah Mohamed;Anupreet Januhen;Aurey Harris;Dhruv Virani;Joyce Epp;Karla Lugo Baez;Kyle Ranslam;Shima Amirsadri,194,67.396907216,20.09490928,100.0,1.0,41,5,10,12,23,11,17,18,16,14,27
+UBCO,2017,W,COSC,304,,001,Introduction to Databases,Heath Caswell;Joyce Epp;Ramon Lawrence,85,77.541176471,12.881837474,99.0,29.0,2,1,3,3,11,10,2,10,12,17,14
+UBCO,2017,W,DATA,311,,001,Machine Learning,Jeffrey Andrews;Joyce Epp,30,74.233333333,14.824684292,98.0,36.0,1,2,1,4,1,4,5,2,1,3,6
+UBCO,2018,W,DATA,550,,001,Dataviz I,Dongying Wang;John Braun;Joyce Epp,28,91.678571429,3.981936728,98.0,84.0,0,0,0,0,0,0,0,0,1,7,20
+UBCO,2018,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;Joyce Epp,28,86.107142857,5.632835519,94.0,73.0,0,0,0,0,0,0,2,2,7,6,11
+UBCO,2018,W,DATA,570,,001,Predictive Modelling,Irene Vrbik;Joyce Epp,28,93.357142857,2.391563656,99.0,88.0,0,0,0,0,0,0,0,0,0,1,27
+UBCO,2018,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews;Joyce Epp,28,92.464285714,4.533677625,99.0,80.0,0,0,0,0,0,0,0,0,1,4,23
+UBCO,2018,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews;Joyce Epp,28,83.892857143,8.90833686,97.0,60.0,0,0,0,1,0,1,2,3,8,5,8
+UBCO,2018,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews;Joyce Epp,28,88.428571429,7.445747339,100.0,75.0,0,0,0,0,0,0,2,3,4,3,16
+UBCO,2018,W,DATA,580,,001,Modelling and Simulation I,John Braun;Joyce Epp,28,95.535714286,3.543195282,99.0,84.0,0,0,0,0,0,0,0,0,1,1,26
+UBCO,2018,W,DATA,581,,101,Modelling and Simulation II,John Braun;Joyce Epp,28,96.678571429,1.925531604,99.0,91.0,0,0,0,0,0,0,0,0,0,0,28
+UBCO,2018,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik;Joyce Epp,28,84.857142857,7.682178924,97.0,70.0,0,0,0,0,0,2,3,1,6,6,10
+UBCO,2018,W,DATA,583,,101,Advanced Predictive Modelling,Dongying Wang;John Braun;Joyce Epp,28,87.464285714,8.613005424,100.0,70.0,0,0,0,0,0,1,0,5,5,6,11
+UBCO,2018,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Joyce Epp,28,92.428571429,3.726070032,99.0,83.0,0,0,0,0,0,0,0,0,1,5,22
+UBCO,2019,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews;Joyce Epp,35,84.685714286,8.002835632,98.0,65.0,0,0,0,0,1,2,2,1,9,11,9

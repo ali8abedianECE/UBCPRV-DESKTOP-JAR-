@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,GEOG,210,,101,VANC AND REGION,"Hermansen, Sally;McKendry, Ian",93,70.71,9.02,86,36,91,2,0,0,0,0,0,0,1,1,2,1,5,11,8,17,20,11,16,2,0
+UBC,2002,W,GEOG,370,,101,INTR GEOG INF SY,"Hermansen, Sally",78,71.97,9.11,92,46,74,1,1,1,1,0,0,0,0,1,1,3,0,6,9,15,15,10,11,4,1
+UBC,2002,W,GEOG,372,,101,CARTOGRAPHY,"Hermansen, Sally",60,72.95,9.63,93,50,57,0,2,0,1,0,0,0,0,0,0,3,0,7,5,10,9,6,12,2,3
+UBC,2002,W,GEOG,472,,201,ADV CARTOGRAPHY,"Hermansen, Sally",23,73.3,14.04,92,17,22,1,0,0,0,0,1,0,0,0,1,0,0,1,1,3,4,7,4,1,1
+UBC,2003,W,GEOG,210,,101,VANC AND REGION,"Hermansen, Sally;Wynn, Graeme",97,70.79,8.66,90,44,93,1,3,0,0,0,0,0,0,1,1,2,6,9,9,23,17,11,12,3,1
+UBC,2003,W,GEOG,370,,101,INTR GEOG INF SY,"Hermansen, Sally",79,74.77,9.7,90,50,74,0,1,4,0,0,0,0,0,0,0,6,0,2,1,15,11,10,17,11,1
+UBC,2003,W,GEOG,372,,201,CARTOGRAPHY,"Hermansen, Sally",55,70.6,15.3,95,3,51,4,0,0,0,1,1,0,0,2,4,0,1,3,5,12,9,4,13,2,2
+UBC,2003,W,GEOG,472,,201,ADV CARTOGRAPHY,"Hermansen, Sally",10,80.11,3.86,85,73,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,1,0
+UBC,2005,W,GEOG,210,,101,VANC AND REGION,"Hermansen, Sally;Wynn, Graeme",98,71.68,8.85,87,34,96,1,0,1,0,0,0,0,1,0,1,3,2,10,7,24,20,6,20,4,0
+UBC,2005,W,GEOG,270,,101,INTR GEOG INF SY,"Hermansen, Sally",69,72.09,11.08,95,35,65,1,1,2,0,0,0,0,1,0,1,4,2,6,2,14,13,6,11,4,3
+UBC,2005,W,GEOG,270,,201,INTR GEOG INF SY,"Hermansen, Sally",79,72.59,10.06,94,50,74,0,4,1,0,0,0,0,0,0,0,4,2,6,7,17,8,8,13,6,3
+UBC,2005,W,GEOG,372,,101,CARTOGRAPHY,"Hermansen, Sally",59,72.72,12.52,95,20,56,1,2,0,0,0,0,1,0,0,1,2,2,6,5,9,6,5,13,5,3
+UBC,2005,W,GEOG,472,,201,ADV CARTOGRAPHY,"Hermansen, Sally",29,74.62,8.88,86,56,29,0,0,0,0,0,0,0,0,0,0,0,1,3,3,3,3,1,13,2,0
+UBC,2007,W,GEOG,210,,101,VANC AND REGION,"Hermansen, Sally;McKendry, Ian;Wynn, Graeme",115,71.38,8.04,91,37,111,1,3,0,0,0,0,0,1,0,1,2,6,6,12,27,27,11,16,3,1
+UBC,2007,W,GEOG,270,,101,INTR GEOG INF SY,"Hermansen, Sally",79,66.33,14.45,97,3,71,5,2,1,0,1,0,1,1,2,5,8,4,10,9,14,9,6,4,6,1
+UBC,2007,W,GEOG,372,,101,CARTOGRAPHY,"Hermansen, Sally",63,73.25,8.92,91,55,63,0,0,0,0,0,0,0,0,0,0,0,3,8,5,10,10,11,10,4,2
+UBC,2007,W,GEOG,373,,201,INTR REMOTE SENS,"Hermansen, Sally",38,72.03,10.4,93,52,37,0,1,0,0,0,0,0,0,0,0,1,2,6,4,5,6,2,8,0,3
+UBC,2007,W,GEOG,472,,201,ADV CARTOGRAPHY,"Hermansen, Sally",17,77.88,8.99,87,54,17,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,1,7,4,0
+UBC,2009,W,GEOB,270,,101,GEOG INFORM SCI,"Hermansen, Sally",77,73.78,14.3,94,2,73,3,1,0,0,1,0,0,1,1,3,4,1,3,2,12,16,7,13,10,5
+UBC,2011,W,GEOB,472,,201,RES CARTOGRAPHY,"Hermansen, Sally",27,76.12,9.45,93,56,26,0,1,0,0,0,0,0,0,0,0,0,2,1,1,3,2,6,6,4,1
+UBC,2011,W,GEOG,210,,101,VANC AND REGION,"Hermansen, Sally;McKendry, Ian",197,74.32,7.05,91,50,193,0,3,0,1,0,0,0,0,0,0,2,5,4,15,37,45,34,36,13,2
+UBC,2012,W,GEOB,472,,201,RES CARTOGRAPHY,"Hermansen, Sally;Mooney, Dawn",24,72.13,13.79,89,29,22,2,0,0,0,0,0,1,0,1,2,0,2,1,0,2,4,4,7,2,0
+UBC,2012,W,GEOG,311,,101,URBAN ENVR,"Hermansen, Sally;McKendry, Ian",80,75.52,5.8,87,59,77,0,3,0,0,0,0,0,0,0,0,0,1,2,3,9,19,16,24,3,0
+UBC,2013,W,GEOB,472,,201,RES CARTOGRAPHY,"Hermansen, Sally",24,75.42,8.33,90,55,24,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,3,5,7,1,1
+UBC,2015,W,GEOB,270,,101,GEOG INFORM SCI,"Hermansen, Sally",95,73.3,13.13,95,6,88,3,4,0,0,1,0,0,0,2,3,2,4,8,8,10,13,9,16,11,7
+UBC,2015,W,GEOB,270,,201,GEOG INFORM SCI,"Hermansen, Sally",98,75.05,11.19,90,19,95,2,1,0,0,0,1,0,0,1,2,2,3,4,7,14,13,18,12,16,6
+UBC,2015,W,GEOB,472,,101,RES CARTOGRAPHY,"Hermansen, Sally",24,77.63,9.99,94,55,24,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,3,2,6,3,3
+UBC,2015,W,GEOG,311,,201,URBAN ENVR,"Christen, Andreas;Hermansen, Sally",77,73.11,10.02,90,39,73,2,2,0,0,0,0,0,1,1,2,0,4,4,7,14,11,8,14,8,3
+UBC,2016,W,GEOB,270,,201,GEOG INFORM SCI,"Hermansen, Sally",92,72.35,13.75,93,0,89,3,0,0,0,1,0,0,1,1,3,2,6,8,6,14,12,11,13,10,7
+UBC,2016,W,GEOB,472,,101,RES CARTOGRAPHY,"Hermansen, Sally",27,78.11,8.63,88,54,27,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,4,3,9,6,0
+UBC,2017,W,GEOB,270,,201,GEOG INFORM SCI,"Hermansen, Sally",98,71.94,9.9,90,30,97,1,0,0,0,0,0,0,1,0,1,1,9,8,7,20,13,9,24,5,1
+UBC,2017,W,GEOB,472,,101,RES CARTOGRAPHY,"Hermansen, Sally",25,76.75,13.2,94,31,23,1,1,0,0,0,0,0,1,0,1,0,0,2,1,1,1,6,5,4,3
+UBC,2018,W,GEOB,270,,101,GEOG INFORM SCI,"Hermansen, Sally",93,75.05,9.37,92,42,89,2,1,0,1,0,0,0,0,2,2,3,2,1,2,15,21,14,19,10,2
+UBC,2018,W,GEOB,270,,201,GEOG INFORM SCI,"Hermansen, Sally",95,74.37,11.42,92,23,89,2,1,1,2,0,0,1,0,1,2,3,1,9,6,10,11,14,20,10,5
+UBCV,2015,W,GEOB,270,,101,Geographic Information Science,Eva Crego Liz;Josef Mueller;Sally Hermansen,91,73.296703297,13.134766847,95.0,6.0,,,,,,,,,,,,,,8,8,10,13,9,16,11,7
+UBCV,2015,W,GEOB,270,,201,Geographic Information Science,Josef Mueller;Sally Hermansen;Wesley Skeeter,97,75.051546392,11.194651936,90.0,19.0,,,,,,,,,,,,,,4,7,14,13,18,12,16,6
+UBCV,2015,W,GEOB,472,,101,Research in Cartography,Sally Hermansen,24,77.625,9.990484603,94.0,55.0,,,,,,,,,,,0,0,,,,,,,6,,
+UBCV,2015,W,GEOG,311,,201,Urban Environments,Andreas Christen;Caitlin Semmens;Sally Hermansen,75,73.106666667,10.022371372,90.0,39.0,,,,,,,,,,,,,,,7,14,11,8,14,8,
+UBCV,2016,W,GEOB,270,,201,Geographic Information Science,Josef Mueller;Sally Hermansen;Wesley Skeeter,92,72.34782609,13.74607619,93.0,0.0,,,,,,,,,,,3,2,6,8,6,14,12,11,13,10,7
+UBCV,2016,W,GEOB,472,,101,Research in Cartography,Sally Hermansen,27,78.11111111,8.630595546,88.0,54.0,,,,,,,,,,,0,1,1,0,0,3,4,3,9,6,0
+UBCV,2017,W,GEOB,270,,201,Geographic Information Science,Alexandra Winter-Billington;Peter Whitman;Sally Hermansen,98,71.93877551,9.895137123,90.0,30.0,,,,,,,,,,,1,1,9,8,7,20,13,9,24,5,1
+UBCV,2017,W,GEOB,472,,101,Research in Cartography,Sally Hermansen,24,76.75,13.204906861,94.0,31.0,,,,,,,,,,,1,0,0,2,1,1,1,6,5,4,3
+UBCV,2018,W,GEOB,270,,101,Geographic Information Science,June Skeeter;Mielle Claire Michaux;Sally Hermansen;Wesley Skeeter,92,74.456521739,10.947841419,92.0,20.0,,,,,,,,,,,3,3,2,1,2,15,21,14,19,10,2
+UBCV,2018,W,GEOB,270,,201,Geographic Information Science,June Skeeter;Mielle Claire Michaux;Sally Hermansen;Wesley Skeeter,93,73.978494624,12.527342699,92.0,23.0,,,,,,,,,,,3,3,1,9,6,10,11,14,20,11,5
+UBCV,2019,W,GEOB,270,,102,Geographic Information Science,June Skeeter;Sally Hermansen;Wesley Skeeter;Ziqiang Hu,96,74.635416667,10.178532406,95.0,37.0,,,,,,,,,,,2,0,5,6,9,7,16,15,18,16,2
+UBCV,2019,W,GEOB,270,,201,Geographic Information Science,Avinash Parla;Sally Hermansen;Ziqiang Hu,92,74.684782609,11.63069957,96.0,50.0,,,,,,,,,,,0,7,5,6,5,9,9,15,15,14,7

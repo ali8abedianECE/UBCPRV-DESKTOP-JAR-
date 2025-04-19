@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,AUDI,546,A,001,ADV COMM SCI DIS,"Anderson, Reiko;Visser, Tiffany",34,92.59,3.43,98,84,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,27,,,
+UBC,2018,W,AUDI,546,A,001,ADV COMM SCI DIS,"Anderson, Reiko;Visser, Tiffany",38,93.82,2.98,99,88,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,35,,,
+UBCV,2017,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Barbara Bernhardt;Reiko Anderson;Tiffany Visser,34,92.588235294,3.429971703,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,27,,,
+UBCV,2018,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,38,93.815789474,2.976078166,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,35,,,
+UBCV,2019,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,37,92.594594595,2.640070069,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,33,,,
+UBCV,2021,S,AUDI,546,A,941,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,36,89.611111111,3.674450612,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,13,19,,,
+UBCV,2021,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,36,89.583333333,7.116881339,98.0,54.0,,,,,,,,,,,0,,,,,,,,3,10,22,,,
+UBCV,2021,S,AUDI,546,A,941,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,36,89.6,,96.0,81.0,,,,,,,,,,,,,,,,,,,,13,19,90.0,92.3,87.0
+UBCV,2021,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,36,89.6,,98.0,54.0,,,,,,,,,,,,,,,,,,,,10,22,91.0,92.3,88.0
+UBCV,2022,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,36,91.8,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,26,92.5,95.0,89.0
+UBCV,2023,W,AUDI,546,A,001,Advanced Communication Sciences and Disorders,Reiko Anderson;Tiffany Visser,37,90.59,,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,12,23,91.0,94.0,87.0

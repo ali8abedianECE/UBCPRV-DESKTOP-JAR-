@@ -1,0 +1,68 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CONS,451,,101,INTGRTD FLD SCHL,"Harrison, Georgie",20,83.9,3.58,89,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,10,0
+UBC,2002,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",50,71.98,13.25,94,23,44,1,2,0,3,0,0,1,0,0,1,2,3,6,3,6,5,5,5,7,2
+UBC,2003,W,CONS,451,,101,INTGRTD FLD SCHL,"Harrison, Georgie",18,80.94,6.65,92,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,11,3,1
+UBC,2003,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",53,70.69,12.05,87,25,46,2,3,0,2,0,0,1,0,1,2,2,2,3,9,5,6,5,9,5,0
+UBC,2003,W,POLI,533,,002,TOP-PUBLIC POL,"Harrison, Kathryn",14,83.25,3.55,90,76,12,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,6,4,1
+UBC,2005,W,CNPS,362,,010,BASIC INTVW SKLS,"Borgen, William;Harrison, Richard",14,85.62,3.86,91,80,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,3
+UBC,2005,W,CNPS,365,,002,INT THRY COUNSEL,"Harrison, Richard;Ishiyama, Fumio Ishu",31,83.58,7.72,95,56,31,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,6,9,7
+UBC,2005,W,POLI,350,A,001,PUBLIC POLICY,"Harrison, Kathryn",64,70.85,10.96,90,40,58,3,1,0,2,0,0,0,0,3,3,3,2,6,3,10,16,3,8,6,1
+UBC,2005,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",57,73.29,8.43,90,50,55,0,2,0,0,0,0,0,0,0,0,2,0,3,6,12,9,9,8,5,1
+UBC,2005,W,POLI,404,A,001,PUBLIC POLICY,"Harrison, Kathryn",10,80.78,5.24,88,73,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,0
+UBC,2005,W,POLI,533,A,001,TOP-PUBLIC POL,"Harrison, Kathryn",7,84.57,3.99,90,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1
+UBC,2005,W,POLI,533,B,001,TOP-PUBLIC POL,"Harrison, Kathryn",7,84,5.66,90,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1
+UBC,2005,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;Burnett, Cathy;HARRISON, NICHOLAS",11,86,1.84,89,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,0
+UBC,2006,W,CNPS,365,,001,INT THRY COUNSEL,"Harrison, Richard",36,83.71,5.8,92,72,34,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,4,7,12,7
+UBC,2006,W,CNPS,365,,002,INT THRY COUNSEL,"Harrison, Richard",33,83.06,6.25,92,71,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,8,13,4
+UBC,2006,W,EPSE,432,,074,CLASSROOM MGMT,"HARRISON, SHERYL LYNN",13,90.23,4,96,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8
+UBC,2007,W,EPSE,432,,221,CLASSROOM MGMT,"HARRISON, SHERYL LYNN",23,88.74,3.45,94,82,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,10
+UBC,2007,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",63,72.65,10.44,91,42,61,1,0,1,0,0,0,0,0,1,1,4,1,3,6,9,15,7,6,8,2
+UBC,2007,W,POLI,351,,002,ENV POLI&POLCY,"Harrison, Kathryn",60,72.15,9.27,88,46,54,1,1,0,4,0,0,0,0,1,1,0,5,3,4,8,12,9,8,5,0
+UBC,2007,W,POLI,404,A,001,PUBLIC POLICY,"Harrison, Kathryn",17,79.06,5.7,88,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,6,3,0
+UBC,2007,W,POLI,533,A,001,TOP-PUBLIC POL,"Harrison, Kathryn",13,83.08,4.34,90,73,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,4,1
+UBC,2009,W,CNPS,524,,001,COUNSLNG ADULTS,"Harrison, Richard",13,89,1.73,92,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6
+UBC,2009,W,MUSC,323,,001,HIST POPLR MUSIC,"Harrison, Klisala",67,74.7,13.54,92,4,65,2,0,0,0,1,0,0,1,0,2,1,1,4,4,6,14,9,11,11,4
+UBC,2009,W,MUSC,328,B,001,WRLD MUSC CULTUR,"Harrison, Klisala",28,79.59,13.79,94,17,26,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,4,5,10,4,3
+UBC,2009,W,MUSC,403,F,001,SELECTED TOPICS,"Harrison, Klisala",32,86.47,6.57,96,74,30,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4,6,13
+UBC,2009,W,POLI,533,A,001,TOP-PUBLIC POL,"Harrison, Kathryn",14,84.5,3.39,88,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,9,0
+UBC,2010,S,CNPS,508,A,93A,REV RES ED MTHDS,"Harrison, Richard;Hawley, Jody",16,90.75,1.61,93,88,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13
+UBC,2010,S,CNPS,508,A,93B,REV RES ED MTHDS,"Harrison, Richard;Hawley, Jody",13,82.85,13.85,94,45,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,2,2,6
+UBC,2010,W,CNPS,588,C,004,SUPRVSD TRAINING,"Harrison, Richard",6,89.33,1.51,91,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2010,W,EPSE,433,,62B,AS PST BHV SUPT,"HARRISON, SHERYL LYNN;Wilk, Diana L",19,92.37,4.42,99,85,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15
+UBC,2010,W,MUSC,323,,001,HIST POPLR MUSIC,"Harrison, Klisala",66,81.32,6.9,92,62,62,0,3,0,0,0,0,0,0,0,0,0,0,1,0,7,4,7,20,18,5
+UBC,2010,W,MUSC,328,B,001,WRLD MUSC CULTUR,"Harrison, Klisala",6,76.17,21.26,91,36,5,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,2,2
+UBC,2010,W,MUSC,403,F,001,SELECTED TOPICS,"Harrison, Klisala",6,84.17,4.07,89,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0
+UBC,2010,W,THTR,120,,001,INTRO TO THEATRE,"HARRISON, NICHOLAS",72,79.82,16.02,97,0,69,3,0,0,0,1,0,2,0,0,3,1,1,0,2,3,4,9,12,29,8
+UBC,2010,W,THTR,120,,002,INTRO TO THEATRE,"HARRISON, NICHOLAS",62,73.02,22.06,98,0,48,9,5,0,0,1,2,0,1,5,9,1,3,1,2,3,5,5,6,11,11
+UBC,2010,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;HARRISON, NICHOLAS;Holmes, Jonathan",15,86,1.96,90,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,1
+UBC,2011,S,CNPS,508,A,93A,REV RES ED MTHDS,"Harrison, Richard;Hawley, Jody",15,87.73,3.56,94,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,6
+UBC,2011,W,CNPS,588,C,004,SUPRVSD TRAINING,"Harrison, Richard",5,89.4,3.65,92,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+UBC,2011,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;HARRISON, NICHOLAS;Holmes, Jonathan",7,88.57,1.99,90,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2012,W,CNPS,588,C,004,SUPRVSD TRAINING,"Harrison, Richard",4,88.75,2.06,91,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2012,W,SCIE,120,,1F2,TPCS SUSTAIN SCI,"Harrison, Paul Garth;Jandciu, Eric;Kindsvater,  Holly;Winget, Danielle",15,93.13,2.47,96,88,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2012,W,SCIE,120,,1F3,TPCS SUSTAIN SCI,"Harrison, Paul Garth;Jandciu, Eric;Kindsvater,  Holly;Lotterhos, Katie",9,75.89,32.44,97,0,7,2,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,1,6
+UBC,2012,W,SCIE,120,,2F2,TPCS SUSTAIN SCI,"Harrison, Paul Garth;Jandciu, Eric",16,85.43,4.83,93,75,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,4,4
+UBC,2013,W,CNPS,588,C,003,SUPRVSD TRAINING,"Harrison, Richard",5,88.8,2.28,92,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2013,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",38,71.29,15.68,95,0,37,1,0,0,0,1,0,0,0,0,1,1,1,3,9,2,5,4,5,5,2
+UBC,2013,W,POLI,533,A,001,TOP-PUBLIC POL,"Harrison, Kathryn",16,83.87,5.55,93,73,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,3,3
+UBC,2013,W,THTR,474,,001,ADV SPCH&MOVE II,"Beley, Lisa;HARRISON, NICHOLAS;TBA",13,84.54,1.71,87,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0
+UBC,2014,W,CNPS,588,C,003,SUPRVSD TRAINING,"Harrison, Richard",5,89.2,1.79,92,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2014,W,PHAR,456,,001,PH-ECN&TEC ASMNT,"De Vera, Mary;Harrison, Mark;Lynd, Larry",12,80,6.76,88,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,4,0
+UBC,2014,W,POLI,351,,001,ENV POLI&POLCY,"Harrison, Kathryn",70,70.85,12.79,90,25,64,4,2,0,0,0,0,1,2,1,4,0,3,9,5,10,8,11,9,8,1
+UBC,2014,W,POLI,533,A,001,TOP-PUBLIC POL,"Harrison, Kathryn",8,81.38,5.68,87,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,3,0
+UBC,2015,W,CNPS,588,C,007,SUPRVSD TRAINING,"Harrison, Richard",6,88.17,2.79,91,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2015,W,DENT,420,,001,DENTISTRY II,"Brondani, Mario;Diewert, Virginia;Emanuels, Ingrid;Harrison, Rosamund Louise;Nguyen, Caroline;Whitney, Eli",49,86.04,2.32,92,81,47,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,34,1
+UBC,2015,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",57,82.49,3.13,89,73,51,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,1,9,28,13,0
+UBC,2015,W,DENT,513,,001,PED PATIENT I,"Campbell, Karen;Harrison, Rosamund Louise;Kennedy, David;Mathu-Muju, Kavita;Richman, Joy Marion",4,79.25,4.27,84,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0
+UBC,2015,W,EOSC,333,,201,ELEM&ISO GEOCHEM,"FOURNY, ANAIS;HARRISON, LAUREN",40,78.49,9.79,93,56,37,0,2,0,0,0,0,0,0,0,0,0,2,3,0,3,4,5,10,6,4
+UBC,2015,W,PHAR,506,,001,CRIT APPRAIS LIT,"De Vera, Mary;Harrison, Mark;Lynd, Larry",8,82.13,4.61,88,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0
+UBC,2016,W,CNPS,588,C,007,SUPRVSD TRAINING,"Harrison, Richard",5,89.75,1.26,91,88,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2016,W,DENT,430,,001,DENTISTRY III,"Aidelbaum, Martin;Aleksejuniene, Jolanta;Bryant, S;Chanpong, Brian;Diewert, Virginia;Fogelman, Menachem;Garcia Fulle De Owen, Maria Is;Gardner, Karen Mary;Harrison, Rosamund Louise;MacDonald, David;McCullagh, Anthony;Richardson, James;Ruse, N Dorin;Whitney, Eli",54,82.5,2.88,89,77,52,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,9,30,13,0
+UBC,2016,W,PHAR,456,,001,PH-ECN&TEC ASMNT,"Harrison, Mark;Lynd, Larry",23,83.59,6.16,94,73,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,9,3
+UBC,2016,W,PHAR,506,,001,CRIT APPRAIS LIT,"De Vera, Mary;Harrison, Mark;Lynd, Larry;Sadatsafavi, Mohsen",6,84.17,5.91,93,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1
+UBC,2017,W,CNPS,588,C,007,SUPRVSD TRAINING,"Harrison, Richard",6,89.17,2.32,93,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2
+UBC,2017,W,PHAR,456,,001,APPL PHRMECON,"Harrison, Mark",23,85.83,4.91,91,73,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,11,5
+UBC,2017,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Brady, Colleen;Cairns, Brian;Carr, Roxane;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Ensom, Mary;Frankel, Adam;Gerber, Patricia;Hafeli, Urs;Harrison, Mark;Li, Shyh-dar;Lynd, Larry;McCormack, James;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Harvey;Wong, Judy",223,82.04,6.53,94,59,222,0,1,0,0,0,0,0,0,0,0,0,5,0,2,5,16,39,69,66,20
+UBC,2018,W,CNPS,588,C,008,SUPRVSD TRAINING,"Harrison, Richard",5,87.8,1.3,90,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2018,W,PHAR,456,,001,APPL PHRMECON,"De Vera, Mary;Harrison, Mark",11,82.09,6.82,94,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,1,2
+UBC,2018,W,PHRM,100,,001,FOUND OF PHRM,"Cairns, Brian;Carr, Roxane;Chan, Fong;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Frankel, Adam;Gerber, Patricia;Grierson, David;Hafeli, Urs;Harrison, Mark;Ladak, Ali Reza;Li, Shyh-dar;Mira, Aileen;Moshenko, Janice Lynn;Rodrigues, Brian;Seet, Tony;Wong, Judy",228,81.08,6.67,94,55,223,0,3,0,2,0,0,0,0,0,0,0,7,0,0,8,23,37,79,55,14

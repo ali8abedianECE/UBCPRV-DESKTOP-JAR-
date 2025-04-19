@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,FREN,111,,104,BEGINNR FREN III,"Jean, Marie-Gerald;O'Hagan, Michael",33,67.13,13.51,94,33,30,1,1,0,1,0,0,0,1,0,1,6,3,1,5,2,2,6,2,2,1
+UBC,2009,W,FREN,112,,210,BEGINNR FREN IV,"Jean, Marie-Gerald;O'Hagan, Michael",26,70.24,11.4,90,50,25,0,1,0,0,0,0,0,0,0,0,3,2,3,2,3,3,2,4,2,1
+UBC,2010,W,FREN,122,,102,FREN LANG&LIT I,"Jean, Marie-Gerald;Miller, Robert;Scott, Anne",26,70.29,14.35,87,25,23,1,2,0,0,0,0,1,0,0,1,3,0,2,2,2,3,6,2,3,0
+UBC,2010,W,FREN,123,,LD7,FREN LANG&LIT II,"Jean, Marie-Gerald;Miller, Robert;Scott, Anne",5,,,,,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,FREN,101,,106,BEGINNER FREN I,"Bodolec, Jacques;Jean, Marie-Gerald;O'Brien, Juliet",27,68.38,16.5,93,43,21,5,1,0,0,0,0,0,0,5,5,1,3,3,0,1,2,4,0,4,3
+UBC,2011,W,FREN,102,,206,BEGINNER FREN II,"Bodolec, Jacques;Jean, Marie-Gerald;O'Brien, Juliet",33,70.66,16.17,93,17,28,1,3,0,0,0,1,0,0,0,1,2,4,2,1,4,2,4,3,3,3
+UBC,2012,W,FREN,101,,109,BEGINNER FREN I,"Bodolec, Jacques;Jean, Marie-Gerald;O'Brien, Juliet",35,68.97,19.76,95,6,31,2,0,0,0,2,0,0,0,0,2,3,2,3,4,2,4,2,5,2,4
+UBC,2012,W,FREN,101,,201,BEGINNER FREN I,"Bodolec, Jacques;Jean, Marie-Gerald;O'Brien, Juliet",33,72.31,16.56,92,25,26,3,2,0,0,0,0,2,0,1,3,1,1,0,2,2,3,7,4,3,3
+UBC,2012,W,FREN,111,,102,INTERMED FREN 1,"Jean, Marie-Gerald;Rouget, Christine;Simpson, Anne",32,74.65,16.01,95,10,30,1,0,0,0,0,1,0,0,0,1,1,0,3,2,3,5,4,2,6,4
+UBCV,2014,W,FREN,111,,202,Intermediate French I,Marie-Gerald Jean;Robert Miller,29,73.96551724,12.74890124,96.0,47.0,,,,,,,,,,,,,,,,,,7,,7,
+UBCV,2014,W,FREN,123,,101,Contemporary French Language and Literature II,Anne Scott;Marie-Gerald Jean,18,75.5,10.90736395,92.0,45.0,,,,,,,,,,,,,,,,,,,5,,
+UBCV,2015,W,FREN,111,,901,Intermediate French I,Marie-Gerald Jean;Robert Miller,23,66.956521739,22.584142186,95.0,0.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,FREN,112,,101,Intermediate French II,Marie-Gerald Jean;Robert Miller,31,72.870967742,11.951964791,96.0,37.0,,,,,,,,,,,,,,6,,,7,,5,,
+UBCV,2015,W,FREN,123,,201,Contemporary French Language and Literature II,Anne Scott;Marie-Gerald Jean,24,72.75,8.93576108,91.0,48.0,,,,,,,,,,,,,,,,,8,,,,
+UBCV,2016,W,FREN,111,,111,Intermediate French I,Marie-Gerald Jean;Robert Miller,32,72.875,16.37021292,96.0,9.0,,,,,,,,,,,2,1,1,1,4,5,3,3,5,4,3
+UBCV,2016,W,FREN,123,,203,Contemporary French Language and Literature II,Anne Scott;Marie-Gerald Jean,21,76.76190476,6.685093581,87.0,61.0,,,,,,,,,,,0,0,0,1,1,2,5,4,7,1,0

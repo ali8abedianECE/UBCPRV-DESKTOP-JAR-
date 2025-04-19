@@ -1,0 +1,91 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,COMM,395,,111,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,75.36,4.85,82,59,39,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,12,14,8,0,0,,,
+UBC,2015,W,COMM,395,,112,BUSN COMMUNICATI,"Mollenhauer, Douglas",34,75.85,4.49,86,63,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,14,9,7,1,0,,,
+UBC,2015,W,COMM,395,,207,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,77.79,4.08,85,67,38,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,5,16,13,1,0,,,
+UBC,2015,W,COMM,395,,208,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,77.44,4.71,86,61,39,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,18,11,2,0,,,
+UBC,2016,W,COMM,390,,212,BUSINESS WRITING,"Mollenhauer, Douglas",18,74.83,6.62,88,62,18,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,7,2,1,0,,,
+UBC,2016,W,COMM,395,,105,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,76.23,4.42,84,64,40,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,11,16,9,0,0,,,
+UBC,2016,W,COMM,395,,106,BUSN COMMUNICATI,"Mollenhauer, Douglas",41,77.2,6.04,87,59,41,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,4,15,12,3,0,,,
+UBC,2016,W,COMM,395,,203,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,76.97,7.87,84,36,38,1,1,0,0,0,0,0,1,0,1,0,0,0,1,3,4,15,15,0,0,,,
+UBC,2016,W,COMM,395,,204,BUSN COMMUNICATI,"Mollenhauer, Douglas",35,77.71,3.91,86,69,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,13,9,2,0,,,
+UBC,2017,W,COMM,395,,105,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,77.43,4.08,87,63,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,19,10,1,0,,,
+UBC,2017,W,COMM,395,,107,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,78.38,3.71,86,72,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,15,13,4,0,,,
+UBC,2017,W,COMM,395,,109,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,77.33,3.71,86,70,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,7,18,8,2,0,,,
+UBC,2017,W,COMM,395,,205,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,76.64,5.49,85,65,39,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,4,13,12,2,0,,,
+UBC,2017,W,COMM,395,,206,BUSN COMMUNICATI,"Mollenhauer, Douglas",28,74.18,8.69,85,47,27,1,0,0,0,0,0,0,0,1,1,0,1,0,3,3,6,6,6,2,0,,,
+UBC,2017,W,COMM,395,,211,BUSN COMMUNICATI,"Mollenhauer, Douglas",24,75.42,4.46,82,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,9,5,0,0,,,
+UBC,2018,W,COMM,395,,103,BUSN COMMUNICATI,"Mollenhauer, Douglas",39,78.1,3.69,85,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,13,15,1,0,,,
+UBC,2018,W,COMM,395,,104,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,75.58,5.33,85,55,40,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,10,15,8,1,0,,,
+UBC,2018,W,COMM,395,,111,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,75.8,4.3,90,68,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,12,15,5,0,1,,,
+UBC,2018,W,COMM,395,,112,BUSN COMMUNICATI,"Mollenhauer, Douglas",40,75.83,5.57,84,61,40,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,8,11,13,0,0,,,
+UBC,2018,W,COMM,395,,204,BUSN COMMUNICATI,"Mollenhauer, Douglas",38,77.39,5.26,85,66,38,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,10,15,1,0,,,
+UBC,2018,W,COMM,395,,205,BUSN COMMUNICATI,"Mollenhauer, Douglas",31,75.39,5.48,86,62,31,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,11,6,6,2,0,,,
+UBCV,2015,W,COMM,395,,111,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Zachary Short,39,75.358974359,4.84761026,82.0,59.0,,,,,,,,,,,0,0,,,,,12,14,8,0,0,,,
+UBCV,2015,W,COMM,395,,112,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Omneet Madan,34,75.852941176,4.486561435,86.0,63.0,,,,,,,,,,,0,0,0,,,,14,9,7,,0,,,
+UBCV,2015,W,COMM,395,,207,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Michael Tam,38,77.789473684,4.081321293,85.0,67.0,,,,,,,,,,,0,0,0,0,,,5,16,13,,0,,,
+UBCV,2015,W,COMM,395,,208,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Omneet Madan,39,77.435897436,4.711658954,86.0,61.0,,,,,,,,,,,0,0,0,,,,5,18,11,,0,,,
+UBCV,2016,W,COMM,390,,212,Business Writing,Douglas Mollenhauer,18,74.83333333,6.617712418,88.0,62.0,,,,,,,,,,,0,0,0,2,1,1,4,7,2,1,0,,,
+UBCV,2016,W,COMM,395,,105,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Michael Tam,40,76.225,4.423060201,84.0,64.0,,,,,,,,,,,0,0,0,0,3,1,11,16,9,0,0,,,
+UBCV,2016,W,COMM,395,,106,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Xinyue Li,41,77.19512195,6.042431266,87.0,59.0,,,,,,,,,,,0,0,1,0,3,3,4,15,12,3,0,,,
+UBCV,2016,W,COMM,395,,203,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Jia Xin Li,39,76.97435897,7.872293786,84.0,36.0,,,,,,,,,,,1,0,0,0,1,3,4,15,15,0,0,,,
+UBCV,2016,W,COMM,395,,204,Business Communications,Douglas Mollenhauer;Gabriel Narciso;Grace Jin;Grace Zhiling Jin,35,77.71428571,3.907544953,86.0,69.0,,,,,,,,,,,0,0,0,0,0,3,8,13,9,2,0,,,
+UBCV,2017,W,COMM,395,,105,Business Communications,Douglas Mollenhauer;Jia Xin Li;Sassan Shokoohi,40,77.425,4.075489588,87.0,63.0,,,,,,,,,,,0,0,0,1,0,1,8,19,10,1,0,,,
+UBCV,2017,W,COMM,395,,106,Business Communications,Arielle Uwonkunda;Douglas Mollenhauer;Elizabeth Bowker;Ioannis Sakarellos;Sassan Shokoohi,36,77.305555556,9.759448007,87.0,25.0,,,,,,,,,,,1,0,0,0,0,2,4,13,12,4,0,,,
+UBCV,2017,W,COMM,395,,107,Business Communications,Cameron Morrell;Douglas Mollenhauer;Ee Anne Lee;Sassan Shokoohi,39,78.384615385,3.710691414,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,7,15,13,4,0,,,
+UBCV,2017,W,COMM,395,,109,Business Communications,Bowie Ko;Douglas Mollenhauer,39,77.333333333,3.7086906,86.0,70.0,,,,,,,,,,,0,0,0,0,0,4,7,18,8,2,0,,,
+UBCV,2017,W,COMM,395,,203,Business Communications,David Miller;Douglas Mollenhauer;Gun Uk Han;Sassan Shokoohi,40,77.975,4.190878373,87.0,71.0,,,,,,,,,,,0,0,0,0,0,2,12,10,13,3,0,,,
+UBCV,2017,W,COMM,395,,204,Business Communications,David Miller;Douglas Mollenhauer;Jared Braverman;Jared Hayden Braverman;Sassan Shokoohi,40,78.25,3.027650354,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,14,18,0,0,,,
+UBCV,2017,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Janelle Helen Marie Salm;Janelle Salm;Sassan Shokoohi,39,76.641025641,5.48916243,85.0,65.0,,,,,,,,,,,0,0,0,0,5,3,4,13,12,2,0,,,
+UBCV,2017,W,COMM,395,,206,Business Communications,Douglas Mollenhauer;Hailey Cole;Hailey May Cole;Sassan Shokoohi,28,74.178571429,8.692498134,85.0,47.0,,,,,,,,,,,1,0,1,0,3,3,6,6,6,2,0,,,
+UBCV,2017,W,COMM,395,,211,Business Communications,Alexa Rae Wu;Alexa Wu;Douglas Mollenhauer;Sassan Shokoohi,24,75.416666667,4.461591319,82.0,66.0,,,,,,,,,,,0,0,0,0,1,5,4,9,5,0,0,,,
+UBCV,2018,W,COMM,395,,103,Business Communications,Douglas Mollenhauer;Janelle Helen Marie Salm;Janelle Salm;Tamara Etmannski,39,78.102564103,3.690634461,85.0,70.0,,,,,,,,,,,0,0,0,0,0,3,7,13,15,1,0,,,
+UBCV,2018,W,COMM,395,,104,Business Communications,Douglas Mollenhauer;Hailey Cole;Phaedra Burke,40,75.575,5.334394926,85.0,55.0,,,,,,,,,,,0,0,1,0,1,4,10,15,8,1,0,,,
+UBCV,2018,W,COMM,395,,105,Business Communications,Bianca Suescun;Chad Brealey;Douglas Mollenhauer,40,77.75,4.902903378,83.0,56.0,,,,,,,,,,,0,0,1,0,0,1,8,14,16,0,0,,,
+UBCV,2018,W,COMM,395,,107,Business Communications,Catherine Emma Hackwell;Catherine Hackwell;Douglas Mollenhauer;Susan Soliman Ibrahim,40,76.45,6.135019278,86.0,61.0,,,,,,,,,,,0,0,0,1,3,6,6,8,11,5,0,,,
+UBCV,2018,W,COMM,395,,109,Business Communications,Chung Lee;Douglas Mollenhauer;Susan Soliman Ibrahim,39,73.692307692,9.208559651,82.0,35.0,,,,,,,,,,,1,1,1,1,0,5,9,9,12,0,0,,,
+UBCV,2018,W,COMM,395,,111,Business Communications,Cameron Morrell;Douglas Mollenhauer;Kelsey Gill;Kelsey Nasibkaur Gill,40,75.8,4.297882603,90.0,68.0,,,,,,,,,,,0,0,0,0,0,7,12,15,5,0,1,,,
+UBCV,2018,W,COMM,395,,112,Business Communications,Cameron Morrell;Douglas Mollenhauer;Jocelyn Kwong,40,75.825,5.574150504,84.0,61.0,,,,,,,,,,,0,0,0,1,4,3,8,11,13,0,0,,,
+UBCV,2018,W,COMM,395,,204,Business Communications,David Miller;Douglas Mollenhauer;Janelle Helen Marie Salm;Janelle Salm,38,77.394736842,5.258401122,85.0,66.0,,,,,,,,,,,0,0,0,0,2,4,6,10,15,1,0,,,
+UBCV,2018,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Kelsey Gill;Kelsey Nasibkaur Gill,31,75.387096774,5.481346668,86.0,62.0,,,,,,,,,,,0,0,0,1,1,4,11,6,6,2,0,,,
+UBCV,2018,W,COMM,395,,206,Business Communications,Cameron Morrell;Douglas Mollenhauer;Maia Brundage,40,78.9,4.211096453,86.0,66.0,,,,,,,,,,,0,0,0,0,1,2,3,14,19,1,0,,,
+UBCV,2019,W,COMM,220,,DD1,Business Communications,Douglas Mollenhauer;Elizabeth Bowker;Maddison Mayah Zapach;Maddison Zapach,27,76.777777778,5.746793978,87.0,63.0,,,,,,,,,,,0,0,0,1,1,3,5,6,10,1,0,,,
+UBCV,2019,W,COMM,395,,108,Business Communications,Douglas Mollenhauer;Samantha Li;Yao Chu Chen,39,78.820512821,3.98597406,85.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,12,18,1,0,,,
+UBCV,2019,W,COMM,395,,110,Business Communications,Douglas Mollenhauer;Kelsey Gill;Yao Chu Chen,39,77.384615385,3.780945194,87.0,67.0,,,,,,,,,,,0,0,0,0,1,1,8,19,9,1,0,,,
+UBCV,2019,W,COMM,395,,111,Business Communications,Douglas Mollenhauer;Kate Dempsey;Kate Elizabeth Dempsey;Yao Chu Chen,39,72.974358974,10.34786319,84.0,19.0,,,,,,,,,,,1,0,0,1,3,5,13,7,9,0,0,,,
+UBCV,2019,W,COMM,395,,112,Business Communications,Angela Ngo;Douglas Mollenhauer;Yao Chu Chen,40,73.675,8.14732141,90.0,56.0,,,,,,,,,,,0,0,1,2,8,5,7,5,8,3,1,,,
+UBCV,2019,W,COMM,395,,113,Business Communications,Arkie Liu;Douglas Mollenhauer;Tamara Etmannski;Yaxi Liu,40,78.0,7.023769169,87.0,45.0,,,,,,,,,,,1,0,1,0,0,0,6,15,14,3,0,,,
+UBCV,2019,W,COMM,395,,204,Business Communications,Douglas Mollenhauer;Sydney Milrad,40,76.2,6.610791488,88.0,57.0,,,,,,,,,,,0,0,3,1,0,0,10,18,7,1,0,,,
+UBCV,2019,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Yuri Choi,24,75.291666667,5.606511483,85.0,61.0,,,,,,,,,,,0,0,0,1,2,2,5,9,4,1,0,,,
+UBCV,2020,W,COMM,220,,DD1,Business Communications,Douglas Mollenhauer;Jane Hei Yeung Wong;Jane Wong;Marlisse Silver Sweeney,29,80.206896552,4.047744613,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,10,14,2,1,,,
+UBCV,2020,W,COMM,395,,107,Business Communications,Cameron Morrell;Douglas Mollenhauer;Yuri Choi,39,74.512820513,6.077879629,82.0,55.0,,,,,,,,,,,0,0,1,0,5,4,8,14,7,0,0,,,
+UBCV,2020,W,COMM,395,,108,Business Communications,Alexandra Skarsgard;Cameron Morrell;Douglas Mollenhauer,40,77.475,3.974195613,85.0,69.0,,,,,,,,,,,0,0,0,0,0,3,9,16,10,2,0,,,
+UBCV,2020,W,COMM,395,,109,Business Communications,Cameron Morrell;Douglas Mollenhauer;Jerry Yu,40,74.775,6.15811951,85.0,59.0,,,,,,,,,,,0,0,1,1,4,5,7,13,8,1,0,,,
+UBCV,2020,W,COMM,395,,110,Business Communications,Cameron Morrell;Douglas Mollenhauer;Katherine Skarsgard,38,76.710526316,3.212373836,83.0,69.0,,,,,,,,,,,0,0,0,0,0,2,9,20,7,0,0,,,
+UBCV,2020,W,COMM,395,,113,Business Communications,Douglas Mollenhauer;Patricia Kavanagh;Sepand Boroumand-Jazzi,40,78.475,4.40854357,88.0,62.0,,,,,,,,,,,0,0,0,1,0,2,3,16,16,2,0,,,
+UBCV,2020,W,COMM,395,,201,Business Communications,Douglas Mollenhauer;Yao Chu Chen;Zhen Di Pan,28,76.892857143,6.057375582,86.0,61.0,,,,,,,,,,,0,0,0,1,0,5,3,10,5,4,0,,,
+UBCV,2020,W,COMM,395,,204,Business Communications,Douglas Mollenhauer;Elizabeth Bowker;Sirena Harrop;Sukhmanpreet Bajwa,38,78.552631579,5.081483974,90.0,59.0,,,,,,,,,,,0,0,1,0,0,1,6,6,23,0,1,,,
+UBCV,2020,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Elizabeth Bowker;Jivan Shokar;Katrina Kwong,37,78.648648649,4.577822239,87.0,66.0,,,,,,,,,,,0,0,0,0,1,2,4,12,15,3,0,,,
+UBCV,2020,W,COMM,395,,210,Business Communications,Brooke Henderson;Douglas Mollenhauer;Yao Chu Chen,20,78.3,5.361657246,87.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,7,5,3,0,,,
+UBCV,2021,W,COMM,395,,105,Business Communications,Brooke Henderson;Chad Brealey;Douglas Mollenhauer,38,77.263157895,6.549950322,89.0,58.0,,,,,,,,,,,0,0,1,1,0,6,3,14,7,6,0,,,
+UBCV,2021,W,COMM,395,,107,Business Communications,Claire Polkosnik;Douglas Mollenhauer,37,74.864864865,7.685347394,88.0,53.0,,,,,,,,,,,0,1,0,2,4,6,6,6,9,3,0,,,
+UBCV,2021,W,COMM,395,,109,Business Communications,Douglas Mollenhauer;Sarah Eisses,26,76.269230769,6.508810597,85.0,54.0,,,,,,,,,,,0,1,0,0,1,2,6,5,10,1,0,,,
+UBCV,2021,W,COMM,395,,113,Business Communications,Cameron Morrell;Douglas Mollenhauer;Sophia Temirov;Sophie Temirov,37,75.378378378,7.095974412,83.0,45.0,,,,,,,,,,,1,0,0,1,2,1,10,11,11,0,0,,,
+UBCV,2021,W,COMM,395,,201,Business Communications,Douglas Mollenhauer;Nicole Hudon,30,75.566666667,8.114199276,90.0,58.0,,,,,,,,,,,0,0,1,1,5,3,1,7,9,2,1,,,
+UBCV,2021,W,COMM,395,,210,Business Communications,Douglas Mollenhauer;Jaden Koon,26,77.384615385,5.74857842,89.0,63.0,,,,,,,,,,,0,0,0,1,0,3,3,10,7,2,0,,,
+UBCV,2021,W,COMM,395,,105,Business Communications,Douglas Mollenhauer,38,77.3,,89.0,58.0,,,,,,,,,,,,,,,,6,,14,7,6,,78.0,81.8,74.3
+UBCV,2021,W,COMM,395,,107,Business Communications,Douglas Mollenhauer,37,74.9,,88.0,53.0,,,,,,,,,,,,,,,,6,6,6,9,,,75.0,81.0,71.0
+UBCV,2021,W,COMM,395,,109,Business Communications,Douglas Mollenhauer,26,76.3,,85.0,54.0,,,,,,,,,,,,,,,,,6,,10,,,77.5,80.8,73.3
+UBCV,2021,W,COMM,395,,201,Business Communications,Douglas Mollenhauer,30,75.6,,90.0,58.0,,,,,,,,,,,,,,,,,,7,9,,,77.0,81.8,68.3
+UBCV,2021,W,COMM,395,,210,Business Communications,Douglas Mollenhauer,26,77.4,,89.0,63.0,,,,,,,,,,,,,,,,,,10,7,,,77.5,80.8,75.3
+UBCV,2022,W,COMM,395,,108,Business Communications,Douglas Mollenhauer,40,76.1,,86.0,20.0,,,,,,,,,,,1,0,0,0,2,3,9,8,16,1,0,77.0,81.0,75.0
+UBCV,2022,W,COMM,395,,109,Business Communications,Douglas Mollenhauer,39,76.1,,86.0,57.0,,,,,,,,,,,0,0,1,2,1,1,10,12,11,1,0,77.0,80.0,74.5
+UBCV,2022,W,COMM,395,,110,Business Communications,Douglas Mollenhauer,38,74.3,,87.0,57.0,,,,,,,,,,,0,0,1,2,1,6,11,13,3,1,0,75.0,77.8,71.3
+UBCV,2022,W,COMM,395,,111,Business Communications,Douglas Mollenhauer,39,77.1,,86.0,62.0,,,,,,,,,,,0,0,0,1,1,2,7,18,7,3,0,78.0,79.5,75.0
+UBCV,2022,W,COMM,395,,209,Business Communications,Douglas Mollenhauer,29,76.8,,92.0,59.0,,,,,,,,,,,0,0,1,1,3,0,5,6,11,1,1,79.0,82.0,75.0
+UBCV,2022,W,COMM,395,,210,Business Communications,Douglas Mollenhauer,39,76.0,,84.0,58.0,,,,,,,,,,,0,0,1,0,3,2,10,11,12,0,0,76.0,80.0,74.0
+UBCV,2023,W,COMM,395,,106,Business Communications,Douglas Mollenhauer,37,77.2,,87.0,66.0,,,,,,,,,,,0,0,0,0,1,5,7,12,8,4,0,77.0,81.0,74.0
+UBCV,2023,W,COMM,395,,108,Business Communications,Douglas Mollenhauer,40,78.8,,86.0,68.0,,,,,,,,,,,0,0,0,0,0,1,7,14,13,5,0,78.5,81.3,76.0
+UBCV,2023,W,COMM,395,,201,Business Communications,Douglas Mollenhauer,40,78.8,,86.0,57.0,,,,,,,,,,,0,0,1,0,0,3,3,11,19,3,0,80.0,81.3,78.0
+UBCV,2023,W,COMM,395,,202,Business Communications,Douglas Mollenhauer,40,79.7,,88.0,67.0,,,,,,,,,,,0,0,0,0,1,3,4,7,20,5,0,81.0,83.0,77.0
+UBCV,2023,W,COMM,395,,203,Business Communications,Douglas Mollenhauer,33,77.0,,86.0,64.0,,,,,,,,,,,0,0,0,0,2,1,11,6,12,1,0,78.0,80.0,73.0
+UBCV,2023,W,COMM,395,,207,Business Communications,Douglas Mollenhauer,37,77.6,,88.0,53.0,,,,,,,,,,,0,1,1,0,1,2,5,9,15,3,0,79.0,82.0,75.0

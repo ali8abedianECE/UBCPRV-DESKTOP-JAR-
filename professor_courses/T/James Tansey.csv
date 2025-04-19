@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,BASD,580,A,001,SUSTAIN & BUSI,"Tansey, James",4,85.25,6.6,90,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,,,
+UBC,2012,W,BAEN,546,,001,SOCIAL ENTREPREN,"Tansey, James",6,85,2.83,88,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,,,
+UBC,2012,W,BAEN,547,,001,INNOV&SUSTAINBLT,"Tansey, James",6,84.67,2.5,87,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,,,
+UBC,2014,W,BAEN,580,A,001,TPCS ENTREPR'SHP,"Tansey, James",11,83,3,86,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,3,0,,,
+UBC,2014,W,BAEN,580,C,001,TPCS ENTREPR'SHP,"Tansey, James",18,85.06,1.8,88,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11,0,,,
+UBC,2015,W,EMBA,598,B,003,TPCS STRAT&ECON,"Tansey, James",6,85,3.41,90,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,,,
+UBC,2016,W,COMM,386,L,201,TPCS BUSINESS 3,"Tansey, James",23,80,3.29,86,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,11,2,0,,,
+UBC,2016,W,EMBA,598,B,003,TPCS STRAT&ECON,"Tansey, James",10,83.5,7.09,90,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,4,,,
+UBC,2017,W,COMM,386,L,201,TPCS BUSINESS 3,"Tansey, James",27,80.27,12.6,88,24,25,1,1,0,0,0,0,1,0,0,1,0,0,0,0,2,1,1,10,11,0,,,
+UBC,2018,W,BAEN,580,C,001,TPCS ENTREPR'SHP,"Tansey, James",29,85.1,2.91,89,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,23,0,,,
+UBC,2018,W,COMM,386,L,201,TPCS BUSINESS 3,"Tansey, James",29,85.9,2.21,90,82,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,19,2,,,
+UBC,2018,W,COMM,386,V,201,TPCS BUSINESS 3,"Tansey, James",26,87.12,4.95,94,74,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,14,8,,,
+UBCV,2014,W,BA,560,,302,Ethics and Sustainability,David Silver;James Tansey,44,84.47727273,3.023078951,91.0,71.0,,,,,,,,,,,0,0,0,0,0,,,0,19,23,,,,
+UBCV,2014,W,BAEN,580,A,001,Topics in Entrepreneurship,James Tansey,11,83.0,3.0,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,7,,0,,,
+UBCV,2014,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,18,85.05555556,1.797783675,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,11,0,,,
+UBCV,2015,S,BA,560,,301,Ethics and Sustainability,David Silver;James Tansey,31,84.16129032,1.863630403,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,16,15,0,,,
+UBCV,2015,W,EMBA,598,B,003,Topics in Strategy and Economics,James Tansey,6,85.0,3.405877273,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2016,S,BA,560,,301,Ethics and Sustainability,James Tansey,33,87.48484849,2.611527476,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,23,8,,,
+UBCV,2016,W,BA,560,,301,Ethics and Sustainability,James Tansey,47,84.5106383,1.742965245,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,21,26,0,,,
+UBCV,2016,W,BA,560,,MM1,Ethics and Sustainability,James Tansey,54,84.16666667,2.34520788,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,27,27,0,,,
+UBCV,2016,W,COMM,386,L,201,Topics in Business III,James Tansey;Steven Petterson,23,80.0,3.289100457,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,9,11,2,0,,,
+UBCV,2016,W,EMBA,598,B,003,Topics in Strategy and Economics,James Tansey,10,83.5,7.090682462,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,2,4,,,
+UBCV,2016,W,GPP,527,,001,Corporate Social Responsibility,Anne Wittman;James Tansey,13,78.76923077,3.419401657,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,9,3,1,0,,,
+UBCV,2017,W,BA,560,,MM1,Ethics and Sustainability,Christina Douglas;Christina Michelle Douglas;David Hardisty;James Tansey,39,84.0,3.103478524,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,17,20,1,,,
+UBCV,2017,W,COMM,386,L,201,Topics in Business III,James Tansey;Varun Srivatsan,26,80.269230769,12.597008192,88.0,24.0,,,,,,,,,,,1,0,0,0,0,2,1,1,10,11,0,,,
+UBCV,2017,W,RES,520,,101,"Climate Change: Science, Technology and Sustainable Development",Hadi Dowlatabadi;James Tansey,11,87.181818182,1.834021909,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,0,,,
+UBCV,2018,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,29,85.103448276,2.907439074,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,23,0,,,
+UBCV,2018,W,COMM,386,L,201,Topics in Business III,James Tansey;Pauline Tsai,29,85.896551724,2.209473557,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,19,2,,,
+UBCV,2018,W,COMM,386,V,201,Topics in Business III,Audrey Maria Popa;Audrey Popa;James Tansey,26,87.115384615,4.950369062,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,1,14,8,,,
+UBCV,2019,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,7,85.0,0.816496581,86.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,0,,,
+UBCV,2019,W,COMM,386,L,201,Topics in Business III,James Tansey;Noahm Rozen,28,84.964285714,4.041288233,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,8,13,4,,,
+UBCV,2019,W,COMM,386,V,201,Topics in Business III,James Tansey;Richard M Vurdela,16,84.625,3.383784863,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,7,1,,,
+UBCV,2020,W,BA,560,,001,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,70,87.857142857,2.555390519,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,44,22,,,
+UBCV,2020,W,BA,560,,002,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,40,87.375,3.052426525,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,25,9,,,
+UBCV,2020,W,COMM,386,I,201,Topics in Business III,Gregory Fitzgerald;James Tansey;Justin Bull;Natalie Youssef,30,85.433333333,3.380301286,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,14,4,,,
+UBCV,2020,W,COMM,386,L,201,Topics in Business III,James Tansey;Kenneth Kang,31,84.806451613,8.368270848,91.0,44.0,,,,,,,,,,,1,0,0,0,0,0,0,1,9,13,7,,,
+UBCV,2020,W,COMM,386,V,201,Topics in Business III,Anne C Graham;James Tansey,10,86.6,3.025814858,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,2,,,
+UBCV,2021,W,BA,560,,001,Ethics and Sustainability,Jade Greer;James Tansey;Justin Bull;Patrick Gregorowicz,50,80.1,2.434865793,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,10,37,0,0,,,
+UBCV,2021,W,BA,560,,002,Ethics and Sustainability,Jade Greer;James Tansey;Justin Bull;Patrick Gregorowicz,51,80.823529412,1.807826124,85.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,11,39,1,0,,,
+UBCV,2021,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,15,84.6,4.188419409,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,4,3,,,
+UBCV,2021,W,COMM,386,I,201,Topics in Business III,Benjamin Wleugel;James Tansey,32,82.53125,3.61880728,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,23,7,0,,,
+UBCV,2021,W,COMM,386,L,201,Topics in Business III,Ahmed Elsayed;Dina Sayed;James Tansey,33,83.090909091,3.422020934,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,16,13,0,,,
+UBCV,2021,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,15,84.6,,91.0,76.0,,,,,,,,,,,,,,,,,,,7,,,84.0,87.0,82.5
+UBCV,2021,W,COMM,386,I,201,Topics in Business III,James Tansey,32,82.5,,87.0,70.0,,,,,,,,,,,,,,,,,,,23,7,,83.5,84.0,81.0
+UBCV,2021,W,COMM,386,L,201,Topics in Business III,James Tansey,33,83.1,,88.0,73.0,,,,,,,,,,,,,,,,,,,16,13,,84.0,86.0,81.0
+UBCV,2022,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,34,86.0,,89.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,28,0,86.0,87.0,85.0
+UBCV,2022,W,COMM,105,,201,"Values, Ethics, and Community",Colin Dodds;Su Kyung Kim;James Tansey,35,64.3,,88.0,0.0,,,,,,,,,,,4,2,3,4,7,4,2,5,3,1,0,65.0,74.5,59.5
+UBCV,2022,W,COMM,386,I,201,Topics in Business III,James Tansey,34,84.3,,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,18,15,0,84.0,85.0,83.0
+UBCV,2022,W,COMM,386,L,201,Topics in Business III,James Tansey,32,84.7,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,19,1,85.0,87.0,83.0
+UBCV,2023,W,BAEN,580,C,001,Topics in Entrepreneurship,James Tansey,17,83.76,,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,7,0,83.0,86.0,82.0
+UBCV,2023,W,COMM,386,C,201,Topics in Business III,James Tansey,9,74.7,,85.0,18.0,,,,,,,,,,,1,0,0,0,0,0,0,1,6,1,0,82.0,83.0,80.0
+UBCV,2023,W,COMM,386,I,201,Topics in Business III,James Tansey,38,84.4,,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,10,19,3,85.0,87.0,83.0
+UBCV,2023,W,COMM,386,L,201,Topics in Business III,James Tansey,38,82.6,,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,3,23,10,0,83.0,84.8,81.0

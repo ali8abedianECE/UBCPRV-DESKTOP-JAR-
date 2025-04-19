@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",49,78.15,6.8,93,63,33,0,2,13,1,0,0,0,0,0,0,0,0,1,1,4,4,9,7,6,1
+UBC,2003,W,EECE,256,,101,DIGITAL LOGC DES,"Leung, Victor;Nasiopoulos, Panos",31,79.81,12.71,99,41,30,1,0,0,0,0,0,0,0,1,1,0,0,1,2,3,4,4,5,3,8
+UBC,2003,W,EECE,256,,102,DIGITAL LOGC DES,"Leung, Victor;Nasiopoulos, Panos",79,67.62,15.47,100,38,69,9,0,0,1,0,0,0,1,8,9,9,12,5,6,8,6,3,7,4,9
+UBC,2003,W,EECE,256,,103,DIGITAL LOGC DES,"Leung, Victor;Nasiopoulos, Panos",95,70.98,14.78,100,37,85,9,0,0,1,0,0,0,1,8,9,2,11,6,14,9,7,12,2,10,12
+UBC,2003,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",18,77.77,5.57,89,70,13,0,1,4,0,0,0,0,0,0,0,0,0,0,0,1,4,3,3,2,0
+UBC,2005,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",25,82.45,5.14,95,73,22,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,4,10,4,3
+UBC,2006,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",34,71.91,10.86,93,52,32,0,2,0,0,0,0,0,0,0,0,2,2,3,5,4,5,2,4,3,2
+UBC,2006,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",21,82.43,6.05,92,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8,3,4
+UBC,2007,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",48,70.28,10.88,94,50,47,0,0,0,1,0,0,0,0,0,0,5,2,6,6,4,9,8,3,1,3
+UBC,2007,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",19,81.33,8.51,93,68,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,3,4,4
+UBC,2009,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",13,73,13.44,92,50,12,0,0,0,1,0,0,0,0,0,0,1,0,2,3,0,1,1,0,2,2
+UBC,2009,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",22,75.81,9.39,92,61,21,0,0,0,1,0,0,0,0,0,0,0,0,1,2,6,3,1,2,4,2
+UBC,2010,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",10,74.7,9.64,89,56,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,1,2,1,2,0
+UBC,2010,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",18,80.18,6.55,92,70,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,7,1,2
+UBC,2011,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",32,70.31,11.25,92,52,32,0,0,0,0,0,0,0,0,0,0,3,2,6,3,4,4,1,6,2,1
+UBC,2011,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",19,81.63,6.66,91,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,4,5,3
+UBC,2012,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",14,72.23,12.08,92,54,13,0,0,0,1,0,0,0,0,0,0,1,1,2,1,1,1,2,1,2,1
+UBC,2012,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",34,82.15,6.89,96,68,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,13,2,7
+UBC,2013,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",31,69.61,13.74,95,34,30,1,0,0,0,0,0,0,1,0,1,3,2,6,1,4,6,2,1,2,3
+UBC,2013,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",31,81.3,6.59,91,68,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5,8,5,5
+UBC,2014,W,EECE,452,,201,INTRO OPTIC NET,"Leung, Victor",30,71.57,9.42,95,55,30,0,0,0,0,0,0,0,0,0,0,0,3,3,5,4,4,7,1,2,1
+UBC,2014,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",56,82.56,5.75,93,67,55,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,17,17,6
+UBC,2015,W,EECE,569,,101,MOBILE COM NETWK,"Leung, Victor",22,80.45,5.5,90,71,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,11,2,2
+UBC,2016,W,ELEC,434,,201,INTRO OPTIC NET,"Leung, Victor",4,84.33,4.04,88,80,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+UBC,2017,W,EECE,569,,201,MOBILE COM NETWK,"Leung, Victor",44,87.28,3.65,94,74,43,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,26,12
+UBC,2017,W,ELEC,434,,201,INTRO OPTIC NET,"Leung, Victor",10,74,13.37,88,51,10,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1,3,2,0
+UBCV,2014,W,EECE,452,,201,Introduction to Optical Networks,Victor C Leung;Victor Leung,30,71.56666667,9.420020255,95.0,55.0,,,,,,,,,,,0,0,,,5,,,7,,,
+UBCV,2014,W,EECE,569,,201,Mobile Communications Networks,Victor C Leung;Victor Leung,55,82.56363636,5.753464774,93.0,67.0,,,,,,,,,,,0,0,0,0,,,,9,17,17,6
+UBCV,2015,W,EECE,569,,101,Mobile Communications Networks,Victor C Leung;Victor Leung,22,80.454545455,5.500885407,90.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,11,,
+UBCV,2017,W,EECE,569,,201,Mobile Communications Networks,Farshid Agharebparast;Javier Orlando Tarazona Gomez;Javier Tarazona Gomez;Victor C Leung;Victor Leung;Xiuhua Li,44,85.295454545,13.644284169,94.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,1,3,26,12
+UBCV,2017,W,ELEC,434,,201,Introduction to Optical Networks,Victor Leung,10,74.0,13.366625104,88.0,51.0,,,,,,,,,,,0,2,0,0,1,0,1,1,3,2,0
+UBCV,2020,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Diana Whellams;Ghada Al Rawahi;Inna Sekirov;Marthe Kenny Charles;Nancy Matic;Victor Leung,25,83.48,6.104096985,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,9,5,5
+UBCV,2021,W,CPSC,110,,201,"Computation, Programs, and Programming",Abigail Meza;Alex Luo;Alexander Steele;Alexander Suyanto;Allison Earle;Amanda Tupper;Anna Wu;Ashtan Mistal;Boris Li;Brianna Dungate;Collin Lucas Eng;Dmitriy Burenok;Duy Nguyen;Edward Jiayu Zeng;Franklin Ma;Isabel Chumbe;Jeffrey Chew;Jiayi Fan;Jonah Hu;Kaiwen Zhou;Karl Sheng;Michelle Wang;Paul Carter;Petr Fenster;Ryan Acharya;Shannon Lawrence;Susan Chung;Terry Chou;Victor Leung;William Xiao;Xinzi Wang;Zoe Harris;Zong Yi Ha,213,68.807511737,23.011800498,100.0,0.0,,,,,,,,,,,64,2,2,5,7,11,12,20,21,30,39
+UBCV,2021,W,CPSC,110,,203,"Computation, Programs, and Programming",Abigail Meza;Alex Luo;Alexander Steele;Alexander Suyanto;Allison Earle;Amanda Tupper;Anna Wu;Ashtan Mistal;Boris Li;Brianna Dungate;Collin Lucas Eng;Dmitriy Burenok;Edward Jiayu Zeng;Franklin Ma;Gregor Kiczales;Isabel Chumbe;Jeffrey Chew;Jiayi Fan;Jonah Hu;Kaiwen Zhou;Karl Sheng;Michelle Wang;Petr Fenster;Ryan Acharya;Susan Chung;Terry Chou;Victor Leung;William Xiao;Xinzi Wang;Zong Yi Ha,231,71.12987013,23.223498585,100.0,0.0,,,,,,,,,,,61,0,1,3,6,14,16,19,23,29,59
+UBCV,2021,W,CPSC,110,,V01,"Computation, Programs, and Programming",Abigail Meza;Alex Luo;Alexander Steele;Alexander Suyanto;Allison Earle;Amanda Tupper;Anna Wu;Ashtan Mistal;Boris Li;Brianna Dungate;Collin Lucas Eng;Dmitriy Burenok;Edward Jiayu Zeng;Franklin Ma;Gregor Kiczales;Isabel Chumbe;Jeffrey Chew;Jiayi Fan;Jonah Hu;Kaiwen Zhou;Karl Sheng;Michelle Wang;Oluwakemi Ola;Petr Fenster;Ryan Acharya;Susan Chung;Terry Chou;Victor Leung;William Xiao;Xinzi Wang;Zong Yi Ha,40,66.95,21.463086977,97.0,17.0,,,,,,,,,,,13,0,1,0,3,0,3,6,5,4,5

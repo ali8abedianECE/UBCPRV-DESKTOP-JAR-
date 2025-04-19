@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,WOOD,282,,201,WOOD-PHY MECHNCS,"Avramidis, Stavros;Loss, Cristiano",19,75.05,8.71,90,60,19,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,0,1,4,1,,,
+UBCV,2018,W,WOOD,282,,201,Wood Physics and Mechanics,Cristiano Loss;Dessie Tegegne Tibebu;Dessie Tibebu;Hercend Mpidi Bita;Simon Ellis;Stavros Avramidis,19,75.052631579,8.708065764,90.0,60.0,,,,,,,,,,,0,0,0,1,2,4,6,0,1,4,1,,,
+UBCV,2019,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss;Thomas Tannert,29,79.068965517,13.147327361,93.0,28.0,,,,,,,,,,,1,1,0,1,0,0,2,6,7,7,4,,,
+UBCV,2019,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss;Ryan Ziels;Thomas Tannert;Yashar Khalighi,24,80.25,7.913939271,91.0,61.0,,,,,,,,,,,0,0,0,1,0,2,2,5,7,4,3,,,
+UBCV,2019,W,WOOD,282,,201,Wood Physics and Mechanics,Cristiano Loss;Dessie Tibebu;Simon Ellis;Sohrab Rahimi;Stavros Avramidis,24,79.125,11.505433499,97.0,50.0,,,,,,,,,,,0,1,1,1,1,0,2,6,4,3,5,,,
+UBCV,2020,W,CIVL,439,,201,Design of Timber Structures,Alexander Lebaron Forrest;Chaoyue Zhang;Cristiano Loss;Mehrtash Motamedi;Samuel Shulman;Sean Irvine;Tsung-Yuan Yang,36,82.638888889,12.170579932,97.0,24.0,,,,,,,,,,,1,0,0,0,0,1,2,6,10,8,8,,,
+UBCV,2020,W,CIVL,516,,201,Behaviour of Timber Structures,Alexander Lebaron Forrest;Cristiano Loss;Mehrtash Motamedi;Sean Irvine;Tsung-Yuan Yang,16,83.9375,8.999768516,97.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,2,4,2,5,,,
+UBCV,2020,W,WOOD,282,,201,Wood Physics and Mechanics,Chaoyue Zhang;Cristiano Loss;Dessie Tibebu;Stavros Avramidis,12,75.083333333,7.809764673,84.0,57.0,,,,,,,,,,,0,0,1,0,1,2,1,3,4,0,0,,,
+UBCV,2021,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,39,82.58974359,7.032697875,91.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,6,14,12,4,,,
+UBCV,2021,W,CIVL,445,,101,Civil Engineering Design Project I.,Alireza Habibzadeh Gharehbaba;Andrew Metten;Carlos Estuardo Ventura;Christopher Caufield;Cristiano Loss;Fraser Peterson;Garumuni Sanjaya De Zoysa;Hartaj Sanghara;John Pao;Krista Falkner;Kwang Victor Lo;Loretta Li;Mike Samilski;Noboru Yonemitsu;Pamela Rogalski;Pamela Wolf;Seyed Amir Hossein Hassanpour Matikolaei;Tarek Ghoul;Yahya Nazhat;Ziad K Shawwash,132,86.022727273,3.122110045,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,53,60,19,,,
+UBCV,2021,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,21,86.142857143,7.336795719,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,1,3,9,5,,,
+UBCV,2021,W,WOOD,282,,201,Wood Physics and Mechanics,Chaoyue Zhang;Cristiano Loss;Stavros Avramidis;Yaohui Liu,8,70.0,25.433386382,88.0,12.0,,,,,,,,,,,1,0,0,1,1,0,0,0,2,3,0,,,
+UBCV,2021,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,39,82.6,,91.0,50.0,,,,,,,,,,,,,,,,,,6,14,12,,83.0,86.5,81.0
+UBCV,2021,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,21,86.1,,99.0,71.0,,,,,,,,,,,,,,,,,,,,9,,86.0,88.0,83.0
+UBCV,2021,W,WOOD,282,,201,Wood Physics and Mechanics,Stavros Avramidis;Cristiano Loss,8,70.0,,88.0,12.0,,,,,,,,,,,,,,,,,,,,,,82.0,85.0,63.5
+UBCV,2022,S,WOOD,353,,921,Mill Site Visits,Chunping Dai;Cristiano Loss,39,88.8,,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,6,23,91.0,92.0,85.0
+UBCV,2022,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,32,86.9,,96.0,62.0,,,,,,,,,,,0,0,0,1,1,0,0,1,9,3,17,90.0,92.3,83.0
+UBCV,2022,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,12,90.6,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,9,92.0,93.3,89.5
+UBCV,2022,W,WOOD,282,,201,Wood Physics and Mechanics,Stavros Avramidis;Cristiano Loss,19,78.1,,89.0,65.0,,,,,,,,,,,0,0,0,0,2,3,2,2,5,5,0,80.0,83.5,72.5
+UBCV,2023,S,WOOD,353,,921,Mill Site Visits,Cristiano Loss;Gregory Smith,47,84.7,,96.0,66.0,,,,,,,,,,,0,0,0,0,1,3,4,5,6,9,18,87.0,91.0,78.25
+UBCV,2023,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,26,85.6,,97.0,69.0,,,,,,,,,,,0,0,0,0,0,2,2,1,4,9,8,87.5,90.0,82.3
+UBCV,2023,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,10,89.2,,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,4,89.0,90.0,88.0
+UBCV,2023,W,WOOD,282,,201,Wood Physics and Mechanics,Stavros Avramidis;Cristiano Loss,15,79.47,,92.0,52.0,,,,,,,,,,,0,1,0,1,0,0,1,2,5,3,2,83.0,85.5,77.0

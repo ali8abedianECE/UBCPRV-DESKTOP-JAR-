@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Loic Markley,100,65.8,14.90644224,97.0,20.0,12,7,7,15,9,13,11,12,5,2,7,,,
+UBCO,2014,W,ENGR,473,,001,Antennas and Propagation,Loic Markley,11,70.63636364,10.99338644,86.0,53.0,0,,,,,,,,,,0,,,
+UBCO,2015,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Asif Al Noor;Iman Aghanejad;Loic Markley;Mohammed Al-Shakhs;Poppy Siddiqua,121,64.446280992,16.804240741,99.0,0.0,17,11,15,16,9,12,7,11,8,7,8,,,
+UBCO,2015,W,ENGR,473,,001,Antennas and Propagation,Loic Markley,6,72.666666667,12.863384728,88.0,60.0,0,0,0,,,,,,,,0,,,
+UBCO,2015,W,ENGR,574,,001,Antennas and Propagation,Loic Markley,5,72.0,16.015617378,90.0,53.0,0,,,,,,,,,,,,,
+UBCO,2016,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Adrian Boivin;Iman Aghanejad;Loic Markley;Masoud Ahmadi;Naomi Fredeen;Naomi Victoria Fredeen;Nibirh Jawad;Timothy Mitchell Westgate;Timothy Westgate,135,54.08148148,17.73984967,93.0,0.0,50,19,9,13,9,11,6,9,6,2,1,,,
+UBCO,2016,W,ENGR,365,,101,Engineering Electromagnetics,Iman Aghanejad;Loic Markley,63,67.57142857,16.49312104,97.0,28.0,8,7,5,4,7,6,6,2,6,5,7,,,
+UBCO,2016,W,ENGR,473,,001,Antennas and Propagation,Connor Badowich;Loic Markley,14,74.5,10.53017642,95.0,57.0,0,0,1,1,1,3,2,2,1,2,1,,,
+UBCO,2017,W,ENGR,365,,101,Engineering Electromagnetics,Connor Badowich;Loic Markley;Nibirh Jawad,77,63.805194805,17.057980815,99.0,4.0,12,9,10,8,7,5,6,6,5,6,3,,,
+UBCO,2017,W,ENGR,473,,001,Antennas and Propagation,Connor Badowich;Loic Markley,18,72.777777778,19.836257817,94.0,5.0,1,0,1,1,1,3,1,3,2,3,2,,,
+UBCO,2018,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Iman Aghanejad;Loic Markley;Marek Splawinski;Mark Bergen;Wei Sen Loi,136,63.558823529,16.340707952,96.0,12.0,21,14,17,14,12,13,9,14,8,4,10,,,
+UBCO,2018,W,ENGR,365,,101,Engineering Electromagnetics,Kenneth Chau;Loic Markley,83,65.108433735,13.754832453,94.0,41.0,9,13,9,10,10,6,6,4,5,8,3,,,
+UBCO,2019,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Cael Warner;Ilija Hristovski;Loic Markley;Majid Moradzadeh;Marek Splawinski;Mark Bergen;Wei Sen Loi,155,66.909677419,11.48141793,97.0,33.0,9,7,24,22,27,16,17,9,11,7,6,,,
+UBCO,2019,W,ENGR,365,,101,Engineering Electromagnetics,Loic Markley;Nibirh Jawad,11,72.636363636,12.587872952,88.0,45.0,1,0,1,0,1,1,1,3,1,2,0,,,
+UBCO,2019,W,ENGR,470,,101,Microwave Engineering,Ali Maleki Gargari;Loic Markley;Mohammad Hossein Zarifi;Stephen Kimanzi;Thomas Johnson,21,87.571428571,9.542386644,96.0,58.0,0,0,1,0,0,0,2,1,1,4,12,,,
+UBCO,2020,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Benjamin Wiltshire;Cael Warner;Loic Markley;Majid Moradzadeh;Maryam Moradpour;Tristan Vandermeulen,189,64.560846561,16.50927371,99.0,1.0,32,11,17,17,20,28,23,9,15,9,8,,,
+UBCO,2020,W,ENGR,473,,201,Antennas and Propagation,Ali Maleki Gargari;Loic Markley;Marek Splawinski,14,73.785714286,11.301317632,87.0,40.0,1,0,0,0,1,1,4,2,4,1,0,,,
+UBCO,2020,W,ENGR,567,,001,Passive Microwave Circuits,Loic Markley,6,81.666666667,13.201010062,95.0,57.0,0,0,,,,,,,2,2,1,,,
+UBCO,2020,W,ENGR,574,,001,Antennas and Propagation,Loic Markley,7,85.857142857,6.817344826,92.0,74.0,0,0,0,0,0,0,1,0,2,1,3,,,
+UBCO,2021,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Ezra Sebastian;Loic Markley;Majid Moradzadeh;Nibirh Jawad;Tristan Vandermeulen,190,64.478947368,15.424747481,98.0,0.0,30,12,34,13,26,18,13,11,14,7,12,,,
+UBCO,2021,W,ENGR,365,,102,Engineering Electromagnetics,Ali Maleki Gargari;Loic Markley;Majid Moradzadeh,71,64.971830986,18.155653847,99.0,0.0,11,7,3,8,8,8,6,5,7,4,4,,,
+UBCO,2021,W,ENGR,473,,001,Antennas and Propagation,Ali Maleki Gargari;Loic Markley,7,83.285714286,10.209705933,97.0,69.0,0,0,0,0,0,1,1,1,1,1,2,,,
+UBCO,2021,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Loic Markley,191,64.6,,98.0,0.0,30,12,34,13,26,18,13,11,14,8,12,64.0,73.0,55.5
+UBCO,2021,W,ENGR,365,,102,Engineering Electromagnetics,Loic Markley,71,65.0,,99.0,0.0,11,7,,8,8,8,6,,7,,,67.0,76.5,55.0
+UBCO,2021,W,ENGR,473,,001,Antennas and Propagation,Loic Markley,7,83.3,,97.0,69.0,,,,,,,,,,,,84.0,90.5,76.0
+UBCO,2022,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Loic Markley,124,63.3,,97.0,2.0,22,4,12,16,19,16,9,7,6,6,7,65.0,74.0,58.0
+UBCO,2022,W,APSC,278,,001,Electric and Magnetic Fields,Loic Markley,93,66.8,,97.0,0.0,14,8,4,14,8,6,8,7,7,9,8,65.0,80.0,57.0
+UBCO,2022,W,ENGR,473,,001,Antennas and Propagation,Loic Markley,10,78.1,,97.0,66.0,0,0,0,0,1,1,3,0,2,2,1,77.0,83.8,72.0
+UBCO,2023,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Loic Markley,187,65.8,,93.0,0.0,20,11,32,14,27,19,15,11,13,8,11,66.0,75.0,56.0
+UBCO,2023,W,ENGR,378,,001,Electromagnetics for Engineers,Loic Markley,60,69.5,,99.0,30.0,10,2,7,2,5,3,6,3,7,7,7,73.0,83.5,57.5
+UBCO,2023,W,ENGR,473,,001,Antennas and Propagation,Loic Markley,10,73.1,,91.0,7.0,1,0,0,0,0,2,0,2,0,2,2,78.0,88.0,71.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

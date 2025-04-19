@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,STAT,461,,201,Statistical Inference II,Jiahua Chen;Yi Huang,7,68.57142857,12.32689665,82.0,45.0,,,,,,,,,,0,0
+UBCV,2014,W,STAT,561,,201,Statistical Theory II,Jiahua Chen;Yi Huang,8,81.75,12.19777497,96.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,STAT,443,,201,Time Series and Forecasting,Bruce Dunham;Hao Chen;Yi Huang,92,68.076086957,10.398894379,86.0,27.0,,6,18,,8,15,14,12,11,,0
+UBCV,2015,W,STAT,460,,101,Statistical Inference I,Ruben Zamar;Yi Huang,11,88.090909091,8.700052246,97.0,70.0,0,0,0,0,0,,,,,,6
+UBCV,2015,W,STAT,560,,101,Statistical Theory I,Ruben Zamar;Yi Huang,10,87.0,7.731609003,96.0,71.0,0,0,0,0,0,,,,,,

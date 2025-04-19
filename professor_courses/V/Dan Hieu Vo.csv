@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,COMM,486,X,201,SPECIAL TPC BUSI,"Vo, Dan Hieu",37,81.11,7.37,95,63,37,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,6,9,7,8
+UBC,2014,W,COMM,387,,201,ENTREPREN FINANC,"Vo, Dan Hieu",43,81.9,8.9,94,51,42,0,1,0,0,0,0,0,0,0,0,1,0,0,1,4,3,2,12,11,8
+UBCV,2014,W,COMM,387,,201,Entrepreneurial Finance,Dan Hieu Vo,42,81.90476191,8.900012397,94.0,51.0,,,,,,,,,,,0,,,,,,,,12,11,8

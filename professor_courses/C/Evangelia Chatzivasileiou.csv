@@ -1,0 +1,102 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,SPAN,220,C,001,INTR MT HISP L A,"Chatzivasileiou, Evangelia;Urrello, Antonio",34,80.3,7.13,95,67,33,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,5,9,5,6,4,,,
+UBC,2003,W,SPAN,300,,002,ADV GRAMMAR&COMP,"Chatzivasileiou, Evangelia",30,76.38,9.59,93,56,29,0,0,1,0,0,0,0,0,0,0,0,2,2,0,4,4,4,8,2,3,,,
+UBC,2003,W,SPAN,405,,101,TPCS PNS&LTN-A C,"Chatzivasileiou, Evangelia",21,75.79,10.56,93,52,19,0,1,1,0,0,0,0,0,0,0,1,0,2,1,1,2,4,5,1,2,,,
+UBC,2006,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",36,77.31,10.3,94,56,36,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,7,5,6,3,6,,,
+UBC,2006,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",20,73.21,20.34,92,0,18,1,1,0,0,1,0,0,0,0,1,0,1,0,4,0,2,2,4,2,3,,,
+UBC,2007,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",39,70.55,14.94,93,23,36,2,1,0,0,0,0,1,0,1,2,3,1,6,4,4,3,1,5,7,2,,,
+UBC,2007,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",30,72.32,18.9,95,6,27,1,2,0,0,1,0,0,0,0,1,2,4,2,1,0,2,3,5,3,5,,,
+UBC,2009,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",39,75.14,14.34,96,47,34,1,4,0,0,0,0,0,0,1,1,2,3,4,0,3,3,3,5,3,8,,,
+UBC,2009,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",37,78.2,13.08,98,47,34,1,2,0,0,0,0,0,0,1,1,1,1,2,2,4,2,1,9,6,6,,,
+UBC,2010,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",36,77.18,10.69,96,51,34,0,2,0,0,0,0,0,0,0,0,1,1,3,2,2,4,3,10,3,5,,,
+UBC,2010,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",35,80.62,12.15,98,50,29,0,1,3,0,0,0,0,0,0,0,1,1,1,1,2,2,4,3,5,9,,,
+UBC,2011,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",39,73.41,12.2,97,53,39,0,0,0,0,0,0,0,0,0,0,2,2,4,7,6,5,2,1,4,6,,,
+UBC,2011,W,WMST,224,B,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",37,77.74,10.7,93,55,34,0,3,0,0,0,0,0,0,0,0,0,3,3,0,1,3,5,7,9,3,,,
+UBC,2011,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",34,77.18,16.04,97,31,32,1,0,1,0,0,0,0,1,0,1,3,0,2,4,0,3,2,3,6,9,,,
+UBC,2012,W,WMST,224,A,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",36,76.29,11.97,97,55,35,0,1,0,0,0,0,0,0,0,0,0,2,5,4,3,3,3,6,2,7,,,
+UBC,2012,W,WMST,224,B,002,WOMEN IN LITRTRE,"Chatzivasileiou, Evangelia",38,71.84,19.78,95,0,34,4,0,0,0,1,0,0,2,1,4,2,1,4,2,4,2,4,5,1,9,,,
+UBC,2012,W,WMST,328,,001,SUBJECTIVITY,"Chatzivasileiou, Evangelia",34,74.48,13.15,99,35,31,2,1,0,0,0,0,0,1,1,2,0,1,1,4,6,3,2,8,2,4,,,
+UBC,2013,W,GRSJ,224,A,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",41,71.6,15.4,97,41,36,4,1,0,0,0,0,0,0,4,4,2,3,5,3,4,1,0,8,5,5,,,
+UBC,2013,W,GRSJ,224,B,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",42,72.62,16.61,96,8,41,1,0,0,0,1,0,0,0,0,1,3,5,3,2,5,2,3,8,2,8,,,
+UBC,2013,W,GRSJ,328,,001,FEM SUBJECTIVITY,"Chatzivasileiou, Evangelia",27,84,10.24,98,63,27,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,4,1,8,9,,,
+UBC,2014,W,GRSJ,224,A,001,GRSJ IN LIT,"Chatzivasileiou, Evangelia",45,70.42,19.9,95,7,39,4,2,0,0,1,0,0,3,0,4,3,6,4,0,1,4,2,7,2,10,,,
+UBC,2014,W,GRSJ,224,A,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",44,77.98,12.89,98,50,44,0,0,0,0,0,0,0,0,0,0,2,2,2,5,5,3,1,9,6,9,,,
+UBC,2014,W,GRSJ,328,,001,FEM SUBJECTIVITY,"Chatzivasileiou, Evangelia",39,80.41,11.18,98,50,37,0,2,0,0,0,0,0,0,0,0,1,0,2,3,2,1,4,10,6,8,,,
+UBC,2015,S,GRSJ,224,C,921,GRSJ IN LIT,"Chatzivasileiou, Evangelia",32,75.63,20.11,98,5,28,2,2,0,0,1,0,0,1,0,2,2,1,2,1,2,2,1,3,6,8,,,
+UBC,2015,W,GRSJ,224,A,001,GRSJ IN LIT,"Chatzivasileiou, Evangelia",40,76.69,11.79,98,51,39,0,1,0,0,0,0,0,0,0,0,1,3,1,4,7,1,2,9,3,8,,,
+UBC,2015,W,GRSJ,224,A,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",45,75.52,16.2,98,4,43,1,1,0,0,1,0,0,0,0,1,3,0,1,3,5,8,4,6,7,6,,,
+UBC,2015,W,GRSJ,224,B,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",42,74.48,17.09,98,16,39,3,0,0,0,0,1,0,1,1,3,1,3,5,2,0,3,6,5,7,7,,,
+UBC,2015,W,GRSJ,326,,001,POLITICS GENDER,"Chatzivasileiou, Evangelia",40,78.55,10.23,96,61,40,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,4,3,8,6,7,,,
+UBC,2016,S,GRSJ,224,C,921,GRSJ IN LIT,"Chatzivasileiou, Evangelia",38,77.11,15.37,98,30,35,1,2,0,0,0,0,0,1,0,1,2,2,2,1,4,2,2,6,6,8,,,
+UBC,2016,W,GRSJ,224,A,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",47,77.61,15.47,98,8,45,1,1,0,0,1,0,0,0,0,1,1,1,4,2,3,3,2,15,3,11,,,
+UBC,2016,W,GRSJ,224,B,002,GRSJ IN LIT,"Chatzivasileiou, Evangelia",43,78.19,17.41,98,0,41,1,1,0,0,1,0,0,0,0,1,1,1,3,4,2,2,3,7,5,13,,,
+UBC,2017,S,GRSJ,224,C,921,GRSJ IN LIT,"Chatzivasileiou, Evangelia",31,82.87,7.48,97,70,30,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3,5,6,7,7,,,
+UBC,2017,W,GRSJ,101,,202,INTR SOC JUSTICE,"Chatzivasileiou, Evangelia",75,78.97,14.02,98,0,72,2,1,0,0,1,0,0,0,1,2,1,3,1,3,5,3,9,16,19,12,,,
+UBC,2017,W,GRSJ,200,,001,GNDR&ENVRN JSTIC,"Chatzivasileiou, Evangelia",48,81.57,13.39,98,51,47,0,1,0,0,0,0,0,0,0,0,3,2,2,2,1,1,4,5,12,15,,,
+UBC,2017,W,GRSJ,224,A,001,GRSJ IN LIT,"Chatzivasileiou, Evangelia",48,75.3,16.3,98,20,44,3,1,0,0,0,0,1,0,2,3,1,5,1,2,4,4,3,7,8,9,,,
+UBC,2017,W,GRSJ,320,,001,FEM ANTI-RC PED,"Chatzivasileiou, Evangelia",30,83,14.13,98,41,27,2,1,0,0,0,0,0,0,2,2,0,1,1,0,0,1,0,4,11,9,,,
+UBC,2018,S,GRSJ,224,E,911,GRSJ IN LIT,"Chatzivasileiou, Evangelia",48,82.51,16.62,98,0,46,1,1,0,0,1,0,0,0,0,1,1,1,2,1,0,4,4,6,5,22,,,
+UBC,2018,W,GRSJ,102,,001,GLB ISS IN S JUS,"Chatzivasileiou, Evangelia",76,79.62,15.69,99,0,72,2,2,0,0,1,0,0,0,1,2,1,2,4,2,7,7,8,10,8,23,,,
+UBC,2018,W,GRSJ,305,,001,SOC JUS ISSUES,"Chatzivasileiou, Evangelia",43,83.31,15.75,100,0,41,1,0,0,1,1,0,0,0,0,1,0,0,0,0,4,4,2,7,8,16,,,
+UBC,2018,W,GRSJ,320,,001,FEM ANTI-RC PED,"Chatzivasileiou, Evangelia",27,78.8,22.46,98,0,23,2,2,0,0,1,0,1,0,0,2,0,0,1,0,1,2,0,6,7,6,,,
+UBCV,2014,W,GRSJ,224,A,001,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,43,70.41860465,19.90241976,95.0,7.0,,,,,,,,,,,,,6,,,,,,7,,10,,,
+UBCV,2014,W,GRSJ,224,A,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,44,77.97727273,12.88858994,98.0,50.0,,,,,,,,,,,0,,,,5,5,,,9,6,9,,,
+UBCV,2014,W,GRSJ,328,,001,Feminist Theories of Subjectivity,Evangelia Chatzivasileiou,37,80.40540541,11.17899682,98.0,50.0,,,,,,,,,,,0,,,,,,,,10,6,8,,,
+UBCV,2015,S,GRSJ,224,C,921,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,30,75.63333333,20.11258541,98.0,5.0,,,,,,,,,,,,,,,,,,,,6,8,,,
+UBCV,2015,W,GRSJ,224,A,001,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,39,76.692307692,11.790169514,98.0,51.0,,,,,,,,,,,0,,,,,7,,,9,,8,,,
+UBCV,2015,W,GRSJ,224,A,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,44,75.522727273,16.200041109,98.0,4.0,,,,,,,,,,,,,,,,5,8,,6,7,6,,,
+UBCV,2015,W,GRSJ,224,B,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,42,74.476190476,17.085492484,98.0,16.0,,,,,,,,,,,,,,5,,,,6,5,7,7,,,
+UBCV,2015,W,GRSJ,326,,001,"The Politics of Gender, Families, and Nation-Building",Evangelia Chatzivasileiou,40,78.55,10.228040893,96.0,61.0,,,,,,,,,,,0,0,0,5,,6,,,8,6,7,,,
+UBCV,2016,S,GRSJ,224,C,921,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,36,77.11111111,15.37489192,98.0,30.0,,,,,,,,,,,1,2,2,2,1,4,2,2,6,6,8,,,
+UBCV,2016,W,GRSJ,224,A,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,46,77.60869565,15.46821581,98.0,8.0,,,,,,,,,,,1,1,1,4,2,3,3,2,15,3,11,,,
+UBCV,2016,W,GRSJ,224,B,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,42,78.19047619,17.41493345,98.0,0.0,,,,,,,,,,,1,1,1,3,4,2,2,3,7,5,13,,,
+UBCV,2017,S,GRSJ,224,C,921,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,31,81.935483871,8.999761048,97.0,54.0,,,,,,,,,,,0,1,0,0,0,2,3,5,6,7,7,,,
+UBCV,2017,W,GRSJ,101,,202,Introduction to Social Justice,Evangelia Chatzivasileiou;Pedro Gabriel Soares Daher,74,78.972972973,14.02246043,98.0,0.0,,,,,,,,,,,2,1,3,1,3,5,3,9,16,19,12,,,
+UBCV,2017,W,GRSJ,200,,001,Gender and Environmental Justice,Evangelia Chatzivasileiou;John Paul Catungal,47,81.574468085,13.394912533,98.0,51.0,,,,,,,,,,,0,3,2,2,2,1,1,4,5,12,15,,,
+UBCV,2017,W,GRSJ,224,A,001,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,47,75.29787234,16.300059874,98.0,20.0,,,,,,,,,,,3,1,5,1,2,4,4,3,7,8,9,,,
+UBCV,2017,W,GRSJ,320,,001,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou;Shalimujiang Gulidana,29,83.0,14.12697521,98.0,41.0,,,,,,,,,,,2,0,1,1,0,0,1,0,4,11,9,,,
+UBCV,2018,S,GRSJ,224,E,911,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,47,82.510638298,16.620930153,98.0,0.0,,,,,,,,,,,1,1,1,2,1,0,4,4,6,5,22,,,
+UBCV,2018,W,GRSJ,102,,001,Global Issues in Social Justice,Evangelia Chatzivasileiou;Leonora Angeles;Wajiha Mehdi,73,80.712328767,12.664999289,99.0,41.0,,,,,,,,,,,1,1,2,4,2,7,7,8,10,8,23,,,
+UBCV,2018,W,GRSJ,305,,001,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou;Mark Andrew Harris;Mark Harris,43,81.651162791,18.988572655,100.0,0.0,,,,,,,,,,,2,0,0,0,0,4,4,2,7,8,16,,,
+UBCV,2018,W,GRSJ,320,,001,Feminist Anti-Racist Pedagogies,David Ng;David Wayne Ng;Evangelia Chatzivasileiou,25,78.8,22.457367017,98.0,0.0,,,,,,,,,,,2,0,0,1,0,1,2,0,6,7,6,,,
+UBCV,2019,S,GRSJ,101,,911,Introduction to Social Justice,Evangelia Chatzivasileiou;Jessi Taylor;Kim Snowden,27,82.0,15.56623565,98.0,50.0,,,,,,,,,,,0,2,2,2,0,0,2,0,3,1,15,,,
+UBCV,2019,S,GRSJ,224,E,911,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,49,80.693877551,13.332610525,99.0,50.0,,,,,,,,,,,0,3,2,3,1,2,2,3,10,9,14,,,
+UBCV,2019,W,GRSJ,101,,202,Introduction to Social Justice,Evangelia Chatzivasileiou;Jessi Taylor;Minelle Mahtani;Wajiha Mehdi,73,84.219178082,12.08562803,99.0,50.0,,,,,,,,,,,0,1,3,2,3,7,1,1,12,8,35,,,
+UBCV,2019,W,GRSJ,102,,001,Global Issues in Social Justice,Evangelia Chatzivasileiou;Johnson Adeerya,73,78.328767123,15.163053411,99.0,11.0,,,,,,,,,,,3,0,4,5,2,7,7,3,9,13,20,,,
+UBCV,2019,W,GRSJ,305,,001,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou;Pilar Riano-Alcala;Taqdir Bhandal,48,100.0,0.0,100.0,100.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,48,,,
+UBCV,2019,W,GRSJ,320,,201,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou;Jordan Lelievre;Maj Jensen,32,83.5625,9.807625407,98.0,57.0,,,,,,,,,,,0,0,1,1,0,2,1,2,10,4,11,,,
+UBCV,2019,W,GRSJ,326,,001,"The Politics of Gender, Families, and Nation-Building",Becky Ross;Evangelia Chatzivasileiou,47,80.85106383,11.05712189,98.0,58.0,,,,,,,,,,,0,0,1,4,2,4,4,3,9,5,15,,,
+UBCV,2019,W,GRSJ,328,,004,Theories of Subjectivity,Evangelia Chatzivasileiou;Janice Stewart;John Paul Catungal,49,78.816326531,15.24613813,98.0,0.0,,,,,,,,,,,1,1,0,1,3,4,6,4,14,3,12,,,
+UBCV,2020,S,GRSJ,224,E,911,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,41,81.390243902,14.77308033,99.0,46.0,,,,,,,,,,,1,4,1,1,0,2,2,2,3,7,18,,,
+UBCV,2020,W,GRSJ,102,,001,Global Issues in Social Justice,Evangelia Chatzivasileiou;Rosa Shannon Butler Srivastava;Rosa Srivastava,71,79.718309859,10.634422677,100.0,55.0,,,,,,,,,,,0,0,1,5,5,8,2,10,14,12,14,,,
+UBCV,2020,W,GRSJ,200,,101,Gender and Environmental Justice,Evangelia Chatzivasileiou;Leila Harris,44,81.681818182,13.426410501,99.0,35.0,,,,,,,,,,,2,0,1,1,2,2,2,2,11,8,13,,,
+UBCV,2020,W,GRSJ,305,,001,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou,30,86.7,13.214803611,100.0,34.0,,,,,,,,,,,1,0,0,0,0,1,2,1,5,5,15,,,
+UBCV,2020,W,GRSJ,320,,201,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou;Jordan Lelievre,25,80.32,15.792192164,98.0,47.0,,,,,,,,,,,3,0,1,1,0,0,2,0,6,4,8,,,
+UBCV,2020,W,GRSJ,326,,001,"The Politics of Gender, Families, and Nation-Building",Alifa Bandali;Evangelia Chatzivasileiou,44,86.363636364,5.117643485,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,4,8,17,14,,,
+UBCV,2021,S,GRSJ,224,E,911,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,45,70.555555556,23.98916001,98.0,0.0,,,,,,,,,,,5,4,0,2,4,5,2,2,5,7,9,,,
+UBCV,2021,W,GRSJ,102,,001,Global Issues in Social Justice,Evangelia Chatzivasileiou;Leila Harris;Melissa Plisic,71,73.591549296,15.709485274,96.0,12.0,,,,,,,,,,,2,5,7,6,2,7,9,4,5,11,13,,,
+UBCV,2021,W,GRSJ,102,,002,Global Issues in Social Justice,Evangelia Chatzivasileiou;John Paul Catungal;Rosanne Sia;Viisha Souza,59,69.355932203,18.535857804,98.0,5.0,,,,,,,,,,,7,2,7,4,3,8,4,4,7,5,8,,,
+UBCV,2021,W,GRSJ,200,,101,Gender and Environmental Justice,Evangelia Chatzivasileiou;Valeria Alcaraz,36,79.111111111,13.791877066,99.0,23.0,,,,,,,,,,,1,0,0,1,1,5,6,3,7,3,9,,,
+UBCV,2021,W,GRSJ,224,B,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou;Michelle Walks;Zoe Brimacombe,49,78.367346939,13.405057935,94.0,32.0,,,,,,,,,,,2,2,1,0,4,2,2,8,10,11,7,,,
+UBCV,2021,W,GRSJ,302,,101,Pedagogies of Social Justice,Evangelia Chatzivasileiou;John Paul Catungal;Valeria Alcaraz,24,75.583333333,22.457528353,95.0,0.0,,,,,,,,,,,2,0,0,2,0,0,2,2,9,1,6,,,
+UBCV,2021,W,GRSJ,305,,001,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou,43,70.651162791,25.533249771,95.0,11.0,,,,,,,,,,,8,0,0,4,1,0,4,0,8,10,8,,,
+UBCV,2021,W,GRSJ,320,,201,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou,19,67.052631579,25.874641563,96.0,1.0,,,,,,,,,,,3,0,2,2,0,3,0,2,1,3,3,,,
+UBCV,2021,S,GRSJ,224,E,911,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,45,70.6,,98.0,0.0,,,,,,,,,,,,,,,,,,,,7,9,78.0,86.0,65.0
+UBCV,2021,W,GRSJ,102,,001,Global Issues in Social Justice,Evangelia Chatzivasileiou,71,73.8,,96.0,12.0,,,,,,,,,,,,,8,6,,7,9,,,11,13,75.0,86.0,62.0
+UBCV,2021,W,GRSJ,102,,002,Global Issues in Social Justice,Evangelia Chatzivasileiou,58,70.5,,98.0,28.0,,,,,,,,,,,6,,7,,,8,,,7,,8,71.0,82.8,58.8
+UBCV,2021,W,GRSJ,200,,101,Gender and Environmental Justice,Evangelia Chatzivasileiou,36,79.1,,99.0,23.0,,,,,,,,,,,,,,,,,6,,7,,9,80.0,87.8,73.0
+UBCV,2021,W,GRSJ,302,,101,Pedagogies of Social Justice,Evangelia Chatzivasileiou,24,78.2,,95.0,0.0,,,,,,,,,,,,,,,,,,,10,,6,81.5,86.5,78.0
+UBCV,2021,W,GRSJ,305,,001,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou,41,77.3,,95.0,11.0,,,,,,,,,,,,,,6,,,,,9,10,8,83.0,87.0,72.0
+UBCV,2021,W,GRSJ,320,,201,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou,18,70.1,,96.0,1.0,,,,,,,,,,,,,,,,,,,,,,73.0,86.8,60.8
+UBCV,2022,W,GRSJ,101,,202,Introduction to Social Justice,Evangelia Chatzivasileiou,61,75.7,,99.0,1.0,,,,,,,,,,,2,2,4,4,7,5,2,3,10,8,14,80.0,88.0,65.0
+UBCV,2022,W,GRSJ,102,,101,Global Issues in Social Justice,Evangelia Chatzivasileiou,69,74.0,,98.0,7.0,,,,,,,,,,,4,1,4,3,5,6,8,6,16,10,6,78.0,83.0,68.0
+UBCV,2022,W,GRSJ,200,,101,Gender and Environmental Justice,Evangelia Chatzivasileiou,42,79.2,,100.0,19.0,,,,,,,,,,,3,1,2,1,3,1,0,4,5,6,16,87.0,90.0,72.3
+UBCV,2022,W,GRSJ,224,B,202,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,32,64.2,,90.0,0.0,,,,,,,,,,,6,1,1,2,1,6,2,5,4,2,2,70.5,78.5,59.5
+UBCV,2022,W,GRSJ,302,,101,Pedagogies of Social Justice,Evangelia Chatzivasileiou,21,71.7,,95.0,35.0,,,,,,,,,,,2,2,1,3,0,0,1,1,7,3,1,80.0,82.0,61.0
+UBCV,2022,W,GRSJ,305,,201,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou,30,76.5,,99.0,0.0,,,,,,,,,,,4,0,0,0,1,1,1,3,4,8,8,85.5,89.5,77.3
+UBCV,2023,W,GRSJ,101,,101,Introduction to Social Justice,Evangelia Chatzivasileiou,70,77.6,,97.0,34.0,,,,,,,,,,,4,1,1,1,0,4,9,8,16,16,7,80.0,85.0,74.5
+UBCV,2023,W,GRSJ,102,,101,Global Issues in Social Justice,Evangelia Chatzivasileiou,59,83.2,,100.0,17.0,,,,,,,,,,,3,1,0,0,1,2,2,3,11,13,22,86.5,92.8,81.0
+UBCV,2023,W,GRSJ,200,,101,Gender and Environmental Justice,Evangelia Chatzivasileiou,29,73.1,,99.0,0.0,,,,,,,,,,,2,4,1,0,1,1,2,4,1,2,7,78.0,91.0,58.0
+UBCV,2023,W,GRSJ,224,B,202,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,42,74.9,,98.0,3.0,,,,,,,,,,,3,0,2,1,2,5,1,7,11,3,6,78.0,83.0,68.0
+UBCV,2023,W,GRSJ,305,,201,Social Justice Issues in Community and International Organizing,Evangelia Chatzivasileiou,22,80.1,,98.0,7.0,,,,,,,,,,,2,0,0,0,1,0,0,1,6,5,7,85.5,91.5,80.3
+UBCV,2023,W,GRSJ,320,,201,Feminist Anti-Racist Pedagogies,Evangelia Chatzivasileiou,6,76.2,,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,0,4,92.0,92.8,85.3

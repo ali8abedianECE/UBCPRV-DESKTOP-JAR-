@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,CHBE,455,,101,KINET REACT DESG,"Yadav, Vikramaditya",100,81.31,11.43,97,50,95,0,3,2,0,0,0,0,0,0,0,5,2,3,4,4,4,6,20,26,21
+UBC,2014,W,CHBE,455,,T1A,KINET REACT DESG,"Yadav, Vikramaditya",4,,,,,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,APSC,100,,101,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",192,82.08,5.41,93,45,190,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,11,28,78,60,10
+UBC,2015,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",193,80.28,7.53,92,41,188,4,1,0,0,0,0,0,0,4,4,1,0,0,1,7,13,30,82,52,2
+UBC,2015,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",242,80.49,5.89,90,48,237,1,3,0,1,0,0,0,0,1,1,1,0,1,3,9,23,47,79,67,7
+UBC,2015,W,APSC,100,,104,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",198,80.37,6.91,90,32,195,2,0,0,1,0,0,0,1,1,2,1,0,1,1,7,16,35,78,49,7
+UBC,2015,W,APSC,101,,202,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nazhat, Yahya;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",177,78.5,8.93,94,34,171,5,1,0,0,0,0,0,2,3,5,0,0,2,4,15,24,28,52,36,10
+UBC,2015,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya",273,79.4,9.04,94,29,260,9,2,0,2,0,0,1,1,7,9,0,2,1,3,15,23,53,82,65,16
+UBC,2015,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",153,77.36,9.46,93,25,147,4,1,0,1,0,0,1,0,3,4,2,0,4,6,9,17,39,39,26,5
+UBC,2015,W,CHBE,455,,001,KINET REACT DESG,"Yadav, Vikramaditya",13,70.85,14.2,92,50,13,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,2,2,2,1,1
+UBC,2015,W,CHBE,455,,101,KINET REACT DESG,"Yadav, Vikramaditya",91,76.86,12.38,98,41,90,1,0,0,0,0,0,0,0,1,1,3,3,7,7,10,10,10,9,11,20
+UBC,2015,W,CHBE,455,,201,KINET REACT DESG,"Yadav, Vikramaditya",107,68.62,15.85,96,0,102,3,2,0,0,2,0,0,1,0,3,10,13,12,8,10,11,11,14,5,8
+UBC,2015,W,CHBE,455,,202,KINET REACT DESG,"Yadav, Vikramaditya",4,65.25,18.1,83,40,3,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,1,0,0
+UBC,2016,W,APSC,100,,104,INTRO TO ENG I,"Jaeger, Carol Patricia;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya",177,77.51,9.3,98,40,174,2,0,0,1,0,0,0,0,2,2,4,3,2,9,19,21,33,38,35,10
+UBC,2016,W,APSC,101,,202,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",200,75.16,10.21,91,16,191,8,1,0,0,0,1,0,1,6,8,1,3,5,12,21,32,37,53,23,4
+UBC,2016,W,APSC,101,,203,INTRO TO ENG II,"Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter;Yadav, Vikramaditya",188,74.43,9.66,92,39,182,5,1,0,0,0,0,0,1,4,5,3,6,5,15,18,33,41,36,18,7
+UBC,2016,W,CHBE,455,,201,KINET REACT DESG,"Yadav, Vikramaditya",103,70.72,13.98,95,0,98,2,1,0,2,1,0,0,1,0,2,7,11,5,10,14,20,4,11,7,9
+UBC,2016,W,CHBE,550,,101,ADV REACTOR DSGN,"Yadav, Vikramaditya",14,87.46,6.49,100,77,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,3
+UBC,2017,W,CHBE,455,,201,KINET REACT DESG,"Yadav, Vikramaditya",123,72.72,10.34,93,0,122,1,0,0,0,1,0,0,0,0,1,1,6,7,10,27,20,28,13,8,2
+UBC,2017,W,CHBE,550,,101,ADV REACTOR DSGN,"Yadav, Vikramaditya",34,92.94,2.5,95,90,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+UBC,2018,W,BMEG,250,,201,PYHS & BIOPHYS,"Yadav, Vikramaditya",58,79.02,8.25,91,42,56,1,0,0,1,0,0,0,0,1,1,0,1,0,1,4,11,7,17,11,4
+UBC,2018,W,CHBE,355,,201,KINET REACT DESG,"Yadav, Vikramaditya",127,71.22,10.31,91,13,124,2,0,0,1,0,1,0,1,0,2,4,5,11,16,19,20,27,16,4,2
+UBC,2018,W,CHBE,550,,101,ADV REACTOR DSGN,"Yadav, Vikramaditya",33,91.36,2.78,96,84,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,27

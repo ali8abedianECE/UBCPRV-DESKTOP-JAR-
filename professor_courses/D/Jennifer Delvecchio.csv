@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,LLED,462,,63A,SCH LRC PROG,"Delvecchio, Jennifer",26,89.69,7.82,98,61,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,10,13,,,
+UBC,2014,W,LLED,469,,63C,RESOURCE-BSD TCH,"Delvecchio, Jennifer",24,89.96,7.84,99,61,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,7,13,,,
+UBC,2015,W,LLED,441,,63C,INTR TCH CH LIT,"Delvecchio, Jennifer",15,90.67,5.16,98,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,10,,,
+UBC,2015,W,LLED,462,,63A,SCH LRC PROG,"Delvecchio, Jennifer",24,89.25,7.5,100,74,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,7,13,,,
+UBC,2016,W,LLED,441,,63C,INTR TCH CH LIT,"Delvecchio, Jennifer",26,88.32,7.9,97,58,25,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,7,13,,,
+UBC,2016,W,LLED,462,,63A,SCH LRC PROG,"Delvecchio, Jennifer",30,89.47,5.39,97,77,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,15,,,
+UBC,2017,S,LLED,469,,93S,INQ BSD PED LIB,"Delvecchio, Jennifer",35,88.77,7.53,99,72,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,7,20,,,
+UBC,2017,W,LLED,462,,61A,SCH LRC PROG,"Delvecchio, Jennifer",30,86.43,7.77,96,67,28,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,5,6,12,,,
+UBC,2017,W,LLED,462,,61B,SCH LRC PROG,"Delvecchio, Jennifer",34,89.21,7.42,97,64,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,4,6,20,,,
+UBC,2017,W,LLED,462,,63A,SCH LRC PROG,"Delvecchio, Jennifer",32,89.13,4.23,96,81,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,16,,,
+UBC,2018,S,LLED,441,,93S,INTR TCH CH LIT,"Delvecchio, Jennifer",29,89.21,9.02,98,51,29,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,9,17,,,
+UBC,2018,W,LLED,441,,63C,INTR TCH CH LIT,"Delvecchio, Jennifer",27,87.85,10.14,98,64,26,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,2,16,,,
+UBC,2018,W,LLED,469,,63A,INQ BSD PED LIB,"Delvecchio, Jennifer",31,89.66,6.35,97,71,29,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,7,18,,,
+UBCV,2014,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,26,89.69230769,7.821862851,98.0,61.0,,,,,,,,,,,0,0,0,,,,,,,10,13,,,
+UBCV,2014,W,LLED,469,,63C,Resource-Based Teaching,Jennifer Delvecchio,24,89.95833333,7.837918794,99.0,61.0,,,,,,,,,,,0,0,0,,,,,,,7,13,,,
+UBCV,2015,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,15,90.666666667,5.163977795,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,10,,,
+UBCV,2015,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,24,89.25,7.496375936,100.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,7,13,,,
+UBCV,2016,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,26,87.46153846,8.895980077,97.0,58.0,,,,,,,,,,,0,0,1,0,1,0,0,1,3,7,13,,,
+UBCV,2016,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,30,89.46666667,5.3866587,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,11,15,,,
+UBCV,2017,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,35,88.771428571,7.534570187,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,4,1,7,20,,,
+UBCV,2017,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio;Natalie Gray;Natalie Schembri,27,89.0,4.187894643,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,13,,,
+UBCV,2017,W,LLED,462,,61A,School Library Resource Centre Programs,Jennifer Delvecchio,28,86.428571429,7.77187985,96.0,67.0,,,,,,,,,,,0,0,0,0,1,1,2,1,5,6,12,,,
+UBCV,2017,W,LLED,462,,61B,School Library Resource Centre Programs,Jennifer Delvecchio;Natalie Schembri,34,89.205882353,7.417340092,97.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,3,4,6,20,,,
+UBCV,2017,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,32,89.125,4.233125895,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,11,16,,,
+UBCV,2018,S,LLED,441,,93S,Introduction to Teaching Children's Literature,Jennifer Delvecchio,29,89.206896552,9.021321214,98.0,51.0,,,,,,,,,,,0,1,0,0,0,0,1,0,1,9,17,,,
+UBCV,2018,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio;Kathryn Shoemaker,26,87.846153846,10.13781952,98.0,64.0,,,,,,,,,,,0,0,0,0,2,1,1,1,3,2,16,,,
+UBCV,2018,W,LLED,469,,63A,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,29,89.655172414,6.348654875,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,1,7,18,,,
+UBCV,2019,S,LLED,441,,96A,Introduction to Teaching Children's Literature,Jennifer Delvecchio,30,91.233333333,5.805368106,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,8,19,,,
+UBCV,2019,W,LLED,441,,61A,Introduction to Teaching Children's Literature,Jennifer Delvecchio,25,89.8,6.041522987,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,7,15,,,
+UBCV,2019,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio;Natalie Schembri,22,89.045454545,7.931115773,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,2,1,4,14,,,
+UBCV,2019,W,LLED,469,,63A,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio;Kristie Oxley,28,86.535714286,6.860958484,95.0,71.0,,,,,,,,,,,0,0,0,0,0,2,0,3,4,8,11,,,
+UBCV,2020,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,27,90.740740741,4.10058713,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,16,,,
+UBCV,2020,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,18,88.833333333,9.930641825,98.0,56.0,,,,,,,,,,,0,0,1,0,0,0,0,0,4,2,11,,,
+UBCV,2020,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,25,92.0,4.787135539,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,17,,,
+UBCV,2021,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,24,91.625,3.597251366,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,18,,,
+UBCV,2021,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,11,89.272727273,5.780846116,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,6,,,
+UBCV,2021,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,25,91.44,4.796526521,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2,21,,,
+UBCV,2021,W,LLED,462,,63B,School Library Resource Centre Programs,Jennifer Delvecchio,28,88.678571429,8.973432274,100.0,61.0,,,,,,,,,,,0,0,0,1,0,0,2,1,3,4,17,,,
+UBCV,2021,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,24,91.6,,96.0,83.0,,,,,,,,,,,,,,,,,,,,,18,91.5,94.3,89.8
+UBCV,2021,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,11,89.3,,97.0,80.0,,,,,,,,,,,,,,,,,,,,,6,90.0,93.5,86.5
+UBCV,2021,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,25,91.4,,97.0,75.0,,,,,,,,,,,,,,,,,,,,,21,92.0,95.0,90.0
+UBCV,2021,W,LLED,462,,63B,School Library Resource Centre Programs,Jennifer Delvecchio,28,88.7,,100.0,61.0,,,,,,,,,,,,,,,,,,,,,17,91.0,94.3,84.8
+UBCV,2022,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,23,90.7,,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,3,16,93.0,96.0,87.5
+UBCV,2022,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,26,89.4,,99.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,2,1,2,19,92.0,95.0,87.8
+UBCV,2022,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,27,91.5,,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,6,16,91.0,97.0,87.0
+UBCV,2023,S,LLED,469,,93S,Inquiry-Based Pedagogy in School Library Programs,Jennifer Delvecchio,17,90.8,,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,1,12,93.0,95.0,88.0
+UBCV,2023,W,LLED,441,,63C,Introduction to Teaching Children's Literature,Jennifer Delvecchio,27,85.8,,100.0,58.0,,,,,,,,,,,0,0,1,0,1,0,2,1,6,7,9,88.0,93.5,80.0
+UBCV,2023,W,LLED,462,,63A,School Library Resource Centre Programs,Jennifer Delvecchio,28,91.6,,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,3,5,18,95.0,97.0,87.8

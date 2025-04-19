@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,BIOL,112,,202,UNICELLULAR LIFE,"Gaynor, Erin;Oliver, David",264,70.93,11.77,97,33,242,10,8,0,4,0,0,0,10,0,10,6,17,20,40,32,32,28,43,14,10,,,
+UBC,2014,W,MICB,421,,201,EXPERMNTL MICB,"Oliver, David",43,88.98,6.79,99,68,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,7,9,24,,,
+UBC,2014,W,MICB,447,,101,EXPRMTL RESEARCH,"Oliver, David",34,85.61,7.78,97,68,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,4,12,11,,,
+UBC,2015,S,MICB,201,,971,INT ENV MICRBIOL,"Kion, Tracy;Oliver, David",62,70.42,10.98,92,46,58,2,2,0,0,0,0,0,0,2,2,5,3,3,10,10,6,9,6,4,2,,,
+UBC,2015,W,MICB,421,,201,EXPERMNTL MICB,"Oliver, David",56,91.79,3.63,99,85,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,41,,,
+UBC,2015,W,MICB,447,,101,EXPRMTL MOLECBIO,"Oliver, David",33,86.79,6.17,95,69,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,5,11,13,,,
+UBC,2016,S,MICB,202,,971,MED MICB & IMMUN,"Kion, Tracy;Oliver, David",122,80.71,12,97,39,115,2,4,1,0,0,0,0,1,1,2,2,5,4,7,5,9,6,21,23,33,,,
+UBC,2016,W,MICB,421,,201,EXPERMNTL MICB,"Oliver, David",36,90.19,4.08,97,81,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,23,,,
+UBC,2016,W,MICB,447,,101,EXPRMTL MOLECBIO,"Oliver, David",34,89.35,4.64,97,77,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,18,,,
+UBC,2017,W,MICB,421,,201,EXPERMNTL MICB,"Oliver, David",56,94.27,3.12,99,88,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,52,,,
+UBC,2017,W,MICB,447,,101,EXPRMTL MOLECBIO,"Oliver, David",28,92.86,5.09,100,81,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,22,,,
+UBC,2018,W,MICB,421,,201,EXPERMNTL MICB,"Oliver, David",47,94.38,2.99,99,88,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,42,,,
+UBC,2018,W,MICB,447,,101,EXPRMTL MOLECBIO,"Oliver, David",39,93.03,2.87,99,88,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,34,,,
+UBCV,2014,W,MICB,421,,201,Experimental Microbiology,Celine Michiels;David Oliver;Jia Wang,43,88.97674419,6.794564957,99.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,7,9,24,,,
+UBCV,2014,W,MICB,447,,101,Experimental Research,Christoph Deeg;David Oliver,33,85.60606061,7.781947836,97.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,12,11,,,
+UBCV,2015,S,MICB,201,,971,Introductory Environmental Microbiology,David Oliver;Tracy Kion,60,70.41666667,10.97962932,92.0,46.0,,,,,,,,,,,,5,,,10,10,6,9,6,,,,,
+UBCV,2015,W,MICB,421,,201,Experimental Microbiology,Andrew Santos;Celine Michiels;Danielle Krebs;David Ng;David Oliver,56,91.785714286,3.626740514,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,15,41,,,
+UBCV,2015,W,MICB,447,,101,Experimental Molecular Biology,Christoph Deeg;David Oliver,33,86.787878788,6.173317462,95.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,5,11,13,,,
+UBCV,2016,S,MICB,202,,971,Introductory Medical Microbiology and Immunology,David Oliver;Tracy Kion,117,80.70940171,11.99860612,97.0,39.0,,,,,,,,,,,2,2,5,4,7,5,9,6,21,23,33,,,
+UBCV,2016,W,MICB,421,,201,Experimental Microbiology,Chang Sheng-Huei Lin;David Oliver;Gyles Ifill,36,90.19444444,4.076549272,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,9,23,,,
+UBCV,2016,W,MICB,447,,101,Experimental Molecular Biology,Christoph Deeg;David Oliver,34,89.35294118,4.64420364,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,11,18,,,
+UBCV,2017,W,MICB,421,,201,Experimental Microbiology,Ashley Arnold;Ashley Celine Arnold;David Oliver;Gyles Ifill,56,94.267857143,3.124629848,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,52,,,
+UBCV,2017,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;James Round,28,92.857142857,5.089672082,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,22,,,
+UBCV,2018,W,MICB,421,,201,Experimental Microbiology,Aaron Liu;David Oliver;Jessica Tuengel;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon,47,94.382978723,2.989497497,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,42,,,
+UBCV,2018,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;Mihai Cirstea,39,93.025641026,2.869872356,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,34,,,
+UBCV,2019,W,BIOL,346,,201,Microbes and Society,Brandon Paul Kieft;Corrie Belanger;David Oliver;Jennifer Sibley;John Fiore Nomellini;John Nomellini;Julian Davies;Marcia Graves;Yasmine Mohamed,39,90.0,5.236511494,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,13,21,,,
+UBCV,2019,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,David Oliver;Israel Matos;Marcia Graves;Victoria Peters;Virginie Jean Baptiste,83,89.891566265,3.345955142,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,25,53,,,
+UBCV,2019,W,MICB,421,,201,Experimental Microbiology,David Oliver;Evelyn Sun;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Zakhar Krekhno,36,87.361111111,4.209871242,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,20,9,,,
+UBCV,2019,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;Evelyn Sun;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon,35,92.714285714,3.374396927,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,30,,,
+UBCV,2020,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Christopher Lee;David Oliver;Leah Rankine-Wilson;Rachel Fernandez,107,75.878504673,15.598566867,100.0,30.0,,,,,,,,,,,5,7,4,5,9,8,6,11,11,23,18,,,
+UBCV,2020,W,MICB,405,,101,Bioinformatics,Avery Noonan;Axel Cameron Hauduc;Axel Hauduc;David Oliver;Karen Smith;Marcia Graves;Martin Hirst;Pranav Sai Shankar Sampara;Rachel Fernandez;Ryan Karimi;Stephan Koenig;Steven Hallam;Yue Ming Kang,85,80.952941176,4.966329205,93.0,66.0,,,,,,,,,,,0,0,0,0,1,1,9,21,31,19,3,,,
+UBCV,2020,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Maria Elizabeth Baeva;Nirpjit Dosanjh,55,93.090909091,7.136948013,100.0,63.0,,,,,,,,,,,0,0,0,1,0,1,0,0,1,8,44,,,
+UBCV,2020,W,MICB,421,,201,Experimental Microbiology,Cathy Yan;David Oliver;Emily Adamczyk;Evelyn Sun;Mihai Cirstea;Resmi Radhamony;Stephan Koenig;Zakhar Krekhno,18,87.666666667,6.695037671,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,5,8,,,
+UBCV,2020,W,MICB,447,,101,Experimental Molecular Biology,Avery Noonan;David Oliver;Emily Adamczyk;Evelyn Sun;Ilan Rubin;Pranav Sai Shankar Sampara;Ryan Karimi;Stephan Koenig;Steven Hallam;Yue Ming Kang;Zakhar Krekhno,60,92.95,2.94828304,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,50,,,
+UBCV,2021,S,MICB,322,,921,Molecular Microbiology Laboratory,David Oliver;Djihane Damoo;Jennifer Sibley;John Nomellini;Leah Rankine-Wilson,16,84.125,5.402160062,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,3,7,3,,,
+UBCV,2021,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Amita Mahey;Antonio Serapio Palacios;David Oliver;Rachel Fernandez;Siyu Song,111,75.207207207,15.428496137,96.0,28.0,,,,,,,,,,,8,4,5,4,6,7,6,15,24,18,14,,,
+UBCV,2021,W,MICB,401,,101,Environmental Microbiology Laboratory,Braydon Black;Cara Haney;Daniela Yanez Ortuno;David Oliver;Marcia Graves;Tracy Kion;Wade Bingle,44,92.0,3.797183779,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,36,,,
+UBCV,2021,W,MICB,401,,201,Environmental Microbiology Laboratory,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion;Wade Bingle,50,94.52,2.443149523,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,50,,,
+UBCV,2021,W,MICB,418,,201,Industrial Microbiology and Biotechnology,Brianne Newman;David Oliver;Jared Taylor,61,85.737704918,8.479193435,98.0,65.0,,,,,,,,,,,0,0,0,0,3,2,6,2,7,14,27,,,
+UBCV,2021,W,MICB,421,,201,Experimental Microbiology,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion,12,92.5,2.236067977,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2021,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;Divya Kriti;Evelyn Sun;Stefanie Sternagel;Stephan Koenig;Steven Hallam;Zakhar Krekhno,42,89.428571429,5.988374335,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,5,5,28,,,
+UBCV,2021,S,MICB,322,,921,Molecular Microbiology Laboratory,John Nomellini;David Oliver;Jennifer Sibley,16,84.1,,91.0,74.0,,,,,,,,,,,,,,,,,,,,7,,86.0,88.0,80.0
+UBCV,2021,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,David Oliver;Antonio Serapio Palacios,110,75.6,,96.0,28.0,,,,,,,,,,,7,,,,6,7,6,15,24,18,14,80.0,86.0,68.5
+UBCV,2021,W,MICB,401,,101,Environmental Microbiology Laboratory,Marcia Graves;Cara Haney;David Oliver,44,92.0,,97.0,80.0,,,,,,,,,,,,,,,,,,,,7,36,93.0,95.0,90.8
+UBCV,2021,W,MICB,401,,201,Environmental Microbiology Laboratory,Marcia Graves;David Oliver,50,94.5,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,50,95.0,96.0,93.0
+UBCV,2021,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Jared Taylor,61,85.7,,98.0,65.0,,,,,,,,,,,,,,,,,6,,7,14,27,88.0,92.0,80.0
+UBCV,2021,W,MICB,421,,201,Experimental Microbiology,Marcia Graves;David Oliver,12,92.5,,96.0,88.0,,,,,,,,,,,,,,,,,,,,,11,93.0,94.0,91.0
+UBCV,2022,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Yossef Av-Gay;David Oliver,103,80.1,,99.0,32.0,,,,,,,,,,,3,3,1,4,3,6,10,10,18,21,24,83.0,89.0,73.0
+UBCV,2022,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Jared Taylor,61,85.4,,97.0,56.0,,,,,,,,,,,0,0,1,0,0,1,6,3,11,17,22,87.0,92.0,81.0
+UBCV,2022,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,49,93.9,,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,44,94.0,97.0,92.0
+UBCV,2022,W,MICB,471,,201,Laboratory Research in Microbiology and Immunology,David Oliver,17,93.7,,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17,95.0,95.0,92.0
+UBCV,2023,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Yossef Av-Gay;David Oliver,130,77.3,,100.0,41.0,,,,,,,,,,,6,3,5,3,5,12,13,16,24,23,18,80.0,86.0,71.0
+UBCV,2023,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Jared Taylor,58,82.6,,93.0,60.0,,,,,,,,,,,0,0,0,2,2,1,4,3,16,19,9,84.5,87.3,80.0
+UBCV,2023,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,53,94.2,,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,49,95.0,96.0,91.0
+UBCV,2023,W,MICB,471,,201,Laboratory Research in Microbiology and Immunology,David Oliver,50,93.8,,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,44,95.0,97.0,92.0

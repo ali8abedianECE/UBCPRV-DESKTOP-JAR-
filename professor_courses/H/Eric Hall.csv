@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Hall, Kenneth J F;Mavinic, Donald",95,77.49,9.06,97,53,95,0,0,0,0,0,0,0,0,0,0,2,4,4,1,6,17,16,27,15,3
+UBC,2002,W,CIVL,409,,201,DSG WTR SPLY&WST,"Hall, Eric",20,83.4,3.82,90,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,4,4
+UBC,2002,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",10,84.7,2,88,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,0
+UBC,2002,W,CIVL,565,,101,PHYS-CHML TRT PR,"Hall, Eric",18,75.59,10.78,88,48,16,1,0,1,0,0,0,0,0,1,1,0,0,2,1,1,0,4,6,2,0
+UBC,2003,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Hall, Kenneth J F;Mavinic, Donald",132,80.41,7.18,95,64,130,0,0,2,0,0,0,0,0,0,0,0,0,0,7,10,16,18,42,25,12
+UBC,2003,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",16,81.69,5.53,89,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4,6,0
+UBC,2005,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",6,84.17,3.92,91,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1
+UBC,2006,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",9,78,7.81,90,64,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,0,1
+UBC,2009,W,CIVL,405,,101,ENV IMPACT STDS,"Atwater, James;Hall, Eric;Mavinic, Donald",202,76.35,8.04,95,47,200,1,0,0,1,0,0,0,0,1,1,0,5,6,11,32,34,43,38,26,5
+UBC,2009,W,CIVL,407,,101,ENVR'TL LAB ANLY,"Hall, Eric",25,85.28,9.33,95,51,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,4,7,10
+UBC,2009,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",7,82,6.87,92,73,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1
+UBC,2009,W,CIVL,565,,101,PHYS-CHML TRT PR,"Hall, Eric",14,82.07,3.99,89,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,4,0
+UBC,2010,W,CIVL,407,,101,ENVR'TL LAB ANLY,"Hall, Eric",15,81.8,6.38,93,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,6,2,2
+UBC,2010,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",11,79.5,4.53,85,72,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3,0
+UBC,2011,W,CIVL,201,,101,CIVL ENGINEER I,"Hall, Eric;Isaacson, Michael D;Johnson, Gregory",124,82.06,3.77,89,68,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,23,60,36,0
+UBC,2014,W,CIVL,305,,201,ENV IMPACT STUDY,"Hall, Eric;Mavinic, Donald",146,70.89,10.47,97,44,143,3,0,0,0,0,0,0,0,3,3,10,6,12,17,26,19,23,17,9,4
+UBC,2014,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",8,82.13,5.36,88,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0
+UBC,2015,W,CIVL,305,,201,ENV IMPACT STUDY,"Hall, Eric;Mavinic, Donald",197,73.76,12.27,98,28,185,8,0,0,4,0,0,1,0,7,8,5,9,13,18,22,23,33,21,26,15
+UBC,2015,W,CIVL,562,,201,ENV CONTAMNT ANL,"Hall, Eric",7,79.71,5.15,85,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,0
+UBC,2016,W,CIVL,305,,201,INTRO ENVRN ENG,"Hall, Eric;Mavinic, Donald",200,73.4,9.89,91,36,192,6,0,0,2,0,0,0,1,5,6,2,8,12,18,29,34,36,28,21,4
+UBC,2016,W,CIVL,409,,201,MUNICIPL ENGNRNG,"Hall, Eric;Johnston, Chris",155,83.66,4.78,96,64,155,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,20,53,66,9
+UBC,2017,W,CIVL,305,,201,INTRO ENVRN ENG,"Hall, Eric",192,77.02,10.05,94,33,183,6,1,0,2,0,0,0,4,2,6,2,2,1,7,16,32,42,49,22,10
+UBCV,2014,W,CIVL,305,,201,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Eric Hall,146,70.89041096,10.4684243,97.0,44.0,,,,,,,,,,,3,10,6,12,17,26,19,23,17,9,4
+UBCV,2014,W,CIVL,562,,201,Environmental Contaminant Analysis Laboratory,Eric Hall,8,82.125,5.356904757,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,,0
+UBCV,2015,W,CIVL,305,,201,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Eric Hall;Jessica Louise Lenoble;Michael Harvard;Shayok Ghosh,197,72.47715736,15.30258535,98.0,0.0,,,,,,,,,,,12,5,9,13,18,22,23,33,21,26,15
+UBCV,2015,W,CIVL,562,,201,Environmental Contaminant Analysis Laboratory,Eric Hall,7,79.714285714,5.154748158,85.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2016,W,CIVL,305,,201,Introduction to Environmental Engineering,Donald Mavinic;Emily Claire Mills;Emily Mills;Eric Hall;Marcus Yu;Moutoshi Saha;Rajat Jain,200,73.05,10.47838167,91.0,29.0,,,,,,,,,,,8,2,8,12,18,29,34,36,28,21,4
+UBCV,2016,W,CIVL,409,,201,Municipal Engineering,Chris Johnston;Diana Lopez Behar;Eric Hall;Mehrnoush Mohammadali;Sean Larson;Seyed Abdolnaser Moosavian,155,83.66451613,4.777215158,96.0,64.0,,,,,,,,,,,0,0,0,0,2,1,4,20,53,66,9
+UBCV,2017,W,CIVL,305,,201,Introduction to Environmental Engineering,Eric Hall;Rajat Jain;Siwen Li,191,76.654450262,10.618056547,94.0,33.0,,,,,,,,,,,8,2,2,1,7,16,32,42,49,22,10
+UBCV,2018,W,CIVL,305,,201,Introduction to Environmental Engineering,Abhishek Dutta;Archita Borah;Eric Hall;Pierre Berube;Sifat Kalam;Varshini Baskar,185,71.2,11.115891484,94.0,23.0,,,,,,,,,,,6,5,13,22,20,23,27,17,30,14,8
+UBCV,2019,W,CIVL,204,,201,Fundamentals of Environmental Engineering,Abhishek Dutta;Christopher Caufield;Eric Hall;Jaime Cathcart;Patricia Keen;Pranav Sai Shankar Sampara;Ryan Ziels,144,80.652777778,9.096467803,98.0,57.0,,,,,,,,,,,0,0,1,4,9,11,18,19,24,32,26
+UBCV,2019,W,CIVL,537,,101,Computational Mechanics I,Deborah Altow;Eric Hall;Hubert Courteau-Godmaire;Nemkumar Banthia;Reza Vaziri,58,81.948275862,13.499086927,99.0,30.0,,,,,,,,,,,2,0,0,3,4,3,1,5,10,11,19
+UBCV,2019,W,COMM,202,,101,Career Fundamentals,Adrien Rebselj;Carly Sangha;Casey King;Casey Lauren King;Conor Topley;Eric Hall;Eric John Hall;Fianca Chen;Fianca M Chen;Jia Lin Xu;Joanna Zhao;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,119,79.764705882,10.219378304,95.0,41.0,,,,,,,,,,,2,2,0,3,7,7,12,14,32,22,18
+UBCV,2019,W,COMM,202,,102,Career Fundamentals,Adrien Rebselj;Carly Sangha;Casey King;Casey Lauren King;Conor Topley;Eric Hall;Eric John Hall;Fianca Chen;Fianca M Chen;Jia Lin Xu;Joanna Zhao;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,111,81.711711712,10.852220039,97.0,35.0,,,,,,,,,,,2,2,1,2,0,7,12,10,17,33,25
+UBCV,2019,W,COMM,202,,103,Career Fundamentals,Adrien Rebselj;Carly Sangha;Casey King;Casey Lauren King;Conor Topley;Eric Hall;Eric John Hall;Fianca Chen;Fianca M Chen;Jia Lin Xu;Joanna Zhao;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,111,80.468468468,11.990010857,95.0,19.0,,,,,,,,,,,2,2,1,3,10,4,6,7,24,32,20
+UBCV,2019,W,COMM,202,,104,Career Fundamentals,Adrien Rebselj;Carly Sangha;Casey King;Casey Lauren King;Conor Topley;Eric Hall;Eric John Hall;Fianca Chen;Fianca M Chen;Jia Lin Xu;Joanna Zhao;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,110,80.618181818,10.029298198,97.0,29.0,,,,,,,,,,,1,0,3,3,2,6,13,14,19,32,17
+UBCV,2019,W,COMM,202,,201,Career Fundamentals,Adrien Rebselj;Carly Sangha;Conor Topley;Eric Hall;Fianca Chen;Joanna Zhao;Matheson Kroeker;Mira Hayre;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,125,80.24,8.28270643,99.0,51.0,,,,,,,,,,,0,1,3,0,4,7,13,29,26,30,12
+UBCV,2019,W,COMM,202,,202,Career Fundamentals,Adrien Rebselj;Carly Sangha;Conor Topley;Eric Hall;Fianca Chen;Joanna Zhao;Matheson Kroeker;Mira Hayre;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,125,81.344,7.337600909,98.0,56.0,,,,,,,,,,,0,0,1,2,2,7,15,14,36,34,14
+UBCV,2019,W,COMM,202,,203,Career Fundamentals,Adrien Rebselj;Carly Sangha;Conor Topley;Eric Hall;Fianca Chen;Joanna Zhao;Matheson Kroeker;Mira Hayre;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,123,78.991869919,8.000508114,95.0,59.0,,,,,,,,,,,0,0,1,6,6,5,22,19,35,19,10
+UBCV,2019,W,COMM,202,,204,Career Fundamentals,Adrien Rebselj;Carly Sangha;Conor Topley;Eric Hall;Fianca Chen;Joanna Zhao;Matheson Kroeker;Mira Hayre;Robyn Noel;Samyta Kaur Rai;Samyta Rai;Veronica Vivero;Victoria Welsby;Zhao Joanna,101,78.089108911,10.876671375,96.0,33.0,,,,,,,,,,,2,0,5,2,5,5,16,14,21,23,8

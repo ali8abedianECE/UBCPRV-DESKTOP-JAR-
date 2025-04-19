@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,ASTR,404,,101,ASTR&ASTRPHY MEA,"Hinshaw, Gary",8,80.88,11.75,97,63,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,3,,,
+UBC,2012,W,ASTR,404,,101,ASTR&ASTRPHY MEA,"Hinshaw, Gary",4,77.75,8.73,87,66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,,,
+UBC,2013,W,ASTR,404,,101,ASTR&ASTRPHY MEA,"Hinshaw, Gary",13,74.77,9.5,91,57,13,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,2,2,2,1,1,,,
+UBC,2014,W,ASTR,404,,101,ASTR&ASTRPHY MEA,"Hinshaw, Gary",9,83.56,6.64,96,74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,3,1,,,
+UBC,2014,W,ASTR,514,,101,OBSERVNL ASTRONM,"Hinshaw, Gary",4,86,4.24,90,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2014,W,PHYS,509,C,101,MEASUREMNT THEOR,"Hinshaw, Gary",16,83,6.99,97,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,2,4,,,
+UBC,2015,W,ASTR,404,,101,ASTR&ASTRPHY MEA,"Hinshaw, Gary",11,76.64,26.11,94,0,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,3,3,2,,,
+UBC,2015,W,PHYS,509,C,101,MEASUREMNT THEOR,"Hinshaw, Gary",18,89.28,8.62,99,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,10,,,
+UBC,2015,W,PHYS,571,,201,PHYSCAL COSMOLGY,"Hinshaw, Gary",15,86.2,6.84,97,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,5,,,
+UBC,2015,W,PHYS,649,,001,DOC DISSERTATION,"Hinshaw, Gary",107,,,,,0,0,0,0,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,PHYS,509,C,101,MEASUREMNT THEOR,"Hinshaw, Gary",19,89.11,7.75,97,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,11,,,
+UBC,2017,W,PHYS,509,C,101,MEASUREMNT THEOR,"Hinshaw, Gary",24,87.38,5.15,95,75,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,10,8,,,
+UBC,2017,W,PHYS,571,,201,PHYSCAL COSMOLGY,"Hinshaw, Gary",12,86.75,4.31,94,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,3,,,
+UBC,2018,W,PHYS,649,,001,DOC DISSERTATION,"Hinshaw, Gary",18,,,,,0,0,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,9,83.55555556,6.635343079,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2014,W,PHYS,509,C,101,Theory of Measurements,Gary Hinshaw,16,83.0,6.985699679,97.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,,,,,
+UBCV,2015,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,11,76.636363636,26.112344695,94.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,PHYS,509,C,101,Theory of Measurements,Gary Hinshaw,18,89.277777778,8.621488581,99.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,5,10,,,
+UBCV,2015,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw,15,86.2,6.836874808,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,5,5,,,
+UBCV,2016,W,PHYS,509,C,101,Theory of Measurements,Elham Khoda;Gary Hinshaw,19,89.10526316,7.745211688,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,1,5,11,,,
+UBCV,2017,W,PHYS,509,C,101,Theory of Measurements,Gary Hinshaw;Jennifer Hoffman,24,87.375,5.148342916,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,10,8,,,
+UBCV,2017,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw;Kris Sigurdson,12,86.75,4.30908132,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,3,,,
+UBCV,2019,W,PHYS,301,,101,Electricity and Magnetism,Denis Uhland;Gary Hinshaw;Joerg Rottler;Kathleen Foote;Leo Sporn;Oleg Kabernik;Paul Natan Jean-Fracois Ripoche;Paul Ripoche;Philippe Belanger;Shadab Ahamed Shadab Ahamed,158,73.35443038,14.293589472,97.0,20.0,,,,,,,,,,,6,6,13,12,12,16,15,16,28,17,17,,,
+UBCV,2019,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw,8,91.125,7.491662032,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,6,,,
+UBCV,2020,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Demet Kirmizibayrak;Gary Hinshaw;Scott Chapman,9,83.222222222,7.917982347,90.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,0,2,4,1,,,
+UBCV,2020,W,PHYS,301,,101,Electricity and Magnetism,Daniel Ka Sing Wong;Denis Uhland;Gary Hinshaw;Joerg Rottler;Lara Maria Bartels;Michael Zurel;Riku Mizuta;Shadab Ahamed Shadab Ahamed;Wyatt Reeves,156,74.5,14.214712959,98.0,31.0,,,,,,,,,,,7,9,4,9,12,12,18,16,21,21,27,,,
+UBCV,2020,W,PHYS,301,,201,Electricity and Magnetism,Christopher Waltham;Gary Hinshaw;Jack James Pitcher;Leo Sporn,19,76.894736842,12.827465052,100.0,45.0,,,,,,,,,,,1,0,0,1,0,5,1,2,3,3,3,,,
+UBCV,2021,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw;Joshua Maceachern,16,87.875,4.616997581,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,7,,,
+UBCV,2021,W,ASTR,514,,101,Observational Astronomy,Gary Hinshaw;Joshua Maceachern,9,84.111111111,6.333333333,91.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,5,1,,,
+UBCV,2021,W,PHYS,301,,201,Electricity and Magnetism,Dong Chen;Gary Hinshaw;Riku Mizuta,27,72.962962963,16.301206849,93.0,26.0,,,,,,,,,,,1,2,2,2,2,4,1,2,2,4,5,,,
+UBCV,2021,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw;John Shaw;Tristan Pinsonneault-Marotte,8,87.75,9.422617168,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,2,4,,,
+UBCV,2021,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,16,87.9,,96.0,80.0,,,,,,,,,,,,,,,,,,,,,7,88.5,91.0,84.8
+UBCV,2021,W,ASTR,514,,101,Observational Astronomy,Gary Hinshaw,9,84.1,,91.0,69.0,,,,,,,,,,,,,,,,,,,,,,85.0,88.0,84.0
+UBCV,2021,W,PHYS,301,,201,Electricity and Magnetism,Gary Hinshaw,26,74.8,,93.0,50.0,,,,,,,,,,,,,,,,,,,,,,75.5,88.3,64.5
+UBCV,2021,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw;John Shaw,8,87.8,,98.0,69.0,,,,,,,,,,,,,,,,,,,,,,89.5,93.5,86.5
+UBCV,2022,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,11,82.6,,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,0,4,2,2,83.0,86.5,78.0
+UBCV,2022,W,PHYS,301,,201,Electricity and Magnetism,Gary Hinshaw,45,73.7,,97.0,21.0,,,,,,,,,,,3,2,5,2,3,2,7,3,2,5,11,74.0,88.0,60.0
+UBCV,2023,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,9,79.0,,89.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,3,2,0,80.0,82.0,77.0
+UBCV,2023,W,PHYS,306,,201,Advanced Mechanics,Gary Hinshaw,50,76.9,,97.0,3.0,,,,,,,,,,,2,0,2,3,3,3,4,4,8,14,6,80.0,87.0,70.0

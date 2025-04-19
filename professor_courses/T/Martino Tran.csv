@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,URSY,520,,002,URB SYSTS PLAN,"Tran, Martino",14,82.83,2.25,85,80,12,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0,,,
+UBC,2016,W,URSY,520,,002,URB SYS ANYL PLN,"Tran, Martino",14,84,1.92,87,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,,,
+UBC,2017,W,URSY,520,,002,URB SYS ANYL PLN,"Tran, Martino",13,82.23,4.07,89,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,3,0,,,
+UBC,2018,W,PLAN,341,,001,SMART CITIES,"Tran, Martino",48,87,3.48,96,80,47,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,24,12,,,
+UBC,2018,W,URSY,520,,002,URB SYS ANYL PLN,"Tran, Martino",13,85.85,2.7,90,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,1,,,
+UBCV,2015,W,URSY,520,,002,Urban Systems Planning,Martino Tran,12,82.833333333,2.249579085,85.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,5,0,,,
+UBCV,2016,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran,14,84.0,1.921537846,87.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,7,0,,,
+UBCV,2017,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran,13,82.230769231,4.065174169,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,8,3,0,,,
+UBCV,2018,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Jennifer Pierce;Martino Tran;Soraya Lodovica Sarshar;Soraya Sarshar,47,87.0,3.476630052,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,24,12,,,
+UBCV,2018,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran,13,85.846153846,2.703274368,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,1,,,
+UBCV,2019,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Aigul Kassimova;Khadija Anjum;Martino Tran,58,88.034482759,4.930981601,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,9,22,22,,,
+UBCV,2019,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran,15,86.733333333,1.79151439,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,12,0,,,
+UBCV,2020,S,PLAN,548,S,001,Current Issues in Planning,Martino Tran,6,89.166666667,2.136976057,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2020,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Adriana Farias;Jennifer Koss;Khadija Anjum;Martino Tran,53,87.943396226,3.084795806,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,34,12,,,
+UBCV,2020,W,URSY,510,,002,Urban Systems and Society,Jordi Honey-Roses;Martino Tran,14,84.642857143,4.307545131,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,5,3,,,
+UBCV,2020,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran,10,87.0,2.828427125,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,1,,,
+UBCV,2021,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Jasmin Senghera;Khadija Anjum;Madison Lore;Martino Tran,76,88.644736842,3.161029146,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,33,34,,,
+UBCV,2021,W,URSY,520,,002,Urban Systems Analysis and Planning,Martino Tran;Peter O'Brien;Stephanie Chang;Susan Nesbit,13,86.923076923,3.616202853,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,4,,,
+UBCV,2021,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Martino Tran,76,88.6,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,33,34,89.0,91.0,86.0
+UBCV,2022,W,PLAN,341,,001,"Smart Cities: Concepts, Methods and Design",Martino Tran,92,90.3,,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,8,23,59,91.0,93.0,88.8

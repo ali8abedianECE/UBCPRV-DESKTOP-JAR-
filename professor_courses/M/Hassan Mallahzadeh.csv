@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Hassan Mallahzadeh;Jeff Young;Ryan Harvey;Sarah Burke;Steven Dierker,48,76.729166667,8.110249841,90.0,59.0,0,0,1,2,4,7,6,9,9,8,2
+UBCV,2021,W,CPSC,303,,201,Numerical Approximation and Discretization,Austin Gregory Beauchamp;Gautam Luhana;Hassan Mallahzadeh;Kwang Moo Yi,88,68.943181818,22.004366314,100.0,6.0,13,4,6,6,8,7,6,10,5,5,18
+UBCV,2021,W,CPSC,421,,101,Introduction to Theory of Computing,Amirhossein Tootooni Mofrad;Hassan Mallahzadeh;Joel Friedman,51,85.176470588,13.887700864,100.0,39.0,2,2,0,0,0,1,3,1,10,4,28

@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ENGL,112,,001,Studies in Composition,Joanna Cockerline,35,73.91428571,8.409978067,87.0,56.0,0,0,,,5,,7,,9,,0,,,
+UBCO,2014,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,35,72.88571429,17.88816801,98.0,0.0,,,,,,,,10,6,,,,,
+UBCO,2015,W,ENGL,112,,016,Studies in Composition,Joanna Cockerline,33,69.787878788,15.830661657,90.0,11.0,,,,,,,5,7,,,,,,
+UBCO,2015,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,29,72.034482759,24.870353491,95.0,0.0,,,,,,,,6,6,5,,,,
+UBCO,2016,W,ENGL,112,,003,Studies in Composition,Joanna Cockerline,35,79.82857143,6.109229827,93.0,65.0,0,0,0,0,3,0,5,6,14,6,1,,,
+UBCO,2016,W,ENGL,112,,004,Studies in Composition,Joanna Cockerline,33,69.60606061,13.05023801,88.0,34.0,2,3,2,1,5,2,4,7,4,3,0,,,
+UBCO,2016,W,ENGL,112,,005,Studies in Composition,Joanna Cockerline,35,79.88571429,12.76431475,92.0,13.0,1,0,0,0,0,2,2,6,13,7,4,,,
+UBCO,2016,W,ENGL,112,,013,Studies in Composition,Joanna Cockerline,36,78.36111111,6.845865396,92.0,56.0,0,0,1,0,3,1,3,9,14,4,1,,,
+UBCO,2016,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,35,70.57142857,16.03908042,91.0,0.0,3,0,0,1,5,6,5,8,5,1,1,,,
+UBCO,2017,S,APSC,201,,001,Technical Communication,Joanna Cockerline,26,71.615384615,9.670892092,84.0,41.0,2,0,1,0,0,7,6,7,3,0,0,,,
+UBCO,2017,S,ENGL,112,,003,Studies in Composition,Joanna Cockerline,35,72.314285714,9.266547769,90.0,55.0,0,0,4,3,5,3,6,4,7,2,1,,,
+UBCO,2017,W,ENGL,112,,004,Studies in Composition,Joanna Cockerline,34,70.058823529,18.02849794,98.0,3.0,3,2,1,3,3,1,2,9,5,4,1,,,
+UBCO,2017,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,36,67.277777778,22.883070612,89.0,0.0,4,0,2,1,1,9,5,4,5,5,0,,,
+UBCO,2017,W,ENGL,150,,001,Introduction to Literary Genre,Joanna Cockerline,34,72.323529412,13.201745955,90.0,29.0,2,0,1,2,4,1,7,7,7,2,1,,,
+UBCO,2017,W,ENGL,150,,002,Introduction to Literary Genre,Joanna Cockerline,35,69.0,19.399818071,92.0,2.0,4,1,0,5,1,4,5,2,9,3,1,,,
+UBCO,2017,W,ENGL,150,,101,Introduction to Literary Genre,Joanna Cockerline,35,75.114285714,10.635045918,91.0,37.0,1,0,0,3,3,2,7,4,10,2,3,,,
+UBCO,2017,W,ENGL,150,,106,Introduction to Literary Genre,Joanna Cockerline,34,73.735294118,9.241896773,92.0,50.0,0,1,1,3,3,4,8,4,5,4,1,,,
+UBCO,2018,W,ENGL,112,,013,Studies in Composition,Joanna Cockerline,35,75.742857143,9.574300334,95.0,41.0,1,0,0,2,1,4,7,8,7,4,1,,,
+UBCO,2018,W,MGMT,240,,001,Introduction to Management  Communications,Joanna Cockerline;Marcgraf Gregorio;Zhongyu Gao,75,76.44,8.937077338,91.0,31.0,1,0,1,0,5,13,13,12,18,9,3,,,
+UBCO,2018,W,MGMT,240,,002,Introduction to Management  Communications,Joanna Cockerline;Marcgraf Gregorio;Zhongyu Gao,106,75.783018868,8.713432124,94.0,50.0,0,2,4,4,8,17,11,12,31,15,2,,,
+UBCO,2018,W,MGMT,340,,001,Introduction to Management Communications,Georgia Platt;Joanna Cockerline;Marika Van Poelgeest;Mary Stewart Butterfield;Mary Stewart Varhola,108,81.481481481,7.407348563,95.0,60.0,0,0,0,2,1,6,14,14,30,23,18,,,
+UBCO,2018,W,MGMT,340,,002,Introduction to Management Communications,Georgia Platt;Joanna Cockerline;Marika Van Poelgeest;Mary Stewart Butterfield;Mary Stewart Varhola,105,77.438095238,8.344647996,97.0,55.0,0,0,1,4,11,8,20,12,25,14,10,,,
+UBCO,2019,S,ENGL,345,A,001,Studies in Backgrounds to International Literature in English,Joanna Cockerline,7,89.571428571,6.827814264,95.0,75.0,0,0,0,0,0,0,1,0,0,1,5,,,
+UBCO,2019,S,ENGL,395,E,001,Popular Literature,Joanna Cockerline,7,93.142857143,2.035400978,96.0,90.0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCO,2019,S,ENGL,395,F,001,Popular Literature,Joanna Cockerline,14,93.714285714,2.016416144,98.0,90.0,0,0,0,0,0,0,0,0,0,0,14,,,
+UBCO,2019,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,30,74.233333333,20.150611069,97.0,0.0,3,0,0,0,2,3,1,4,10,5,2,,,
+UBCO,2019,W,MGMT,240,,001,Introduction to Management  Communications,Craig Jacobs;Jessica D'Vaz;Joanna Cockerline;Noah Kallner,64,79.453125,9.362081046,100.0,58.0,0,0,1,3,3,5,10,6,18,8,10,,,
+UBCO,2019,W,MGMT,240,,002,Introduction to Management  Communications,Craig Jacobs;Jessica D'Vaz;Joanna Cockerline;Noah Kallner,93,77.215053763,6.515615795,93.0,63.0,0,0,0,1,8,9,14,17,33,8,3,,,
+UBCO,2019,W,MGMT,240,,003,Introduction to Management  Communications,Craig Jacobs;Jessica D'Vaz;Joanna Cockerline;Noah Kallner,84,79.285714286,7.468119275,93.0,59.0,0,0,1,2,6,6,6,9,34,14,6,,,
+UBCO,2020,W,ENGL,112,,001,Studies in Composition,Joanna Cockerline,29,75.862068966,19.428852142,94.0,0.0,3,1,0,0,1,0,1,6,8,5,4,,,
+UBCO,2020,W,ENGL,112,,113,Studies in Composition,Joanna Cockerline,29,67.793103448,22.439409386,91.0,0.0,4,1,1,3,2,2,2,1,9,1,3,,,
+UBCO,2020,W,ENGL,112,,116,Studies in Composition,Joanna Cockerline,28,79.071428571,8.432426703,92.0,60.0,0,0,0,1,3,2,2,5,5,8,2,,,
+UBCO,2020,W,ENGL,112,,123,Studies in Composition,Joanna Cockerline,29,72.103448276,14.556159294,90.0,24.0,2,1,0,0,2,4,5,7,5,2,1,,,
+UBCO,2020,W,MGMT,240,,001,Introduction to Management  Communications,Caitlin Jardine;Joanna Cockerline;Nicole Perks;Noah Kallner,251,82.386454183,10.342826295,98.0,0.0,2,1,0,5,2,10,19,30,70,68,44,,,
+UBCO,2021,W,ENGL,112,,001,Studies in Composition,Ahmad Alhomsi;Ahmed Alhomsi;Joanna Cockerline,24,75.625,19.435092644,98.0,0.0,1,1,1,0,0,2,3,6,4,1,5,,,
+UBCO,2021,W,ENGL,112,,008,Studies in Composition,Catherine Shaw;Joanna Cockerline,22,74.045454545,18.901945661,93.0,0.0,1,0,0,1,2,6,1,0,5,2,4,,,
+UBCO,2021,W,ENGL,112,,101,Studies in Composition,Joanna Cockerline,24,70.666666667,21.483394329,92.0,0.0,2,0,0,1,1,5,3,3,5,3,1,,,
+UBCO,2021,W,ENGL,112,,109,Studies in Composition,Catherine Shaw;Joanna Cockerline,25,75.96,16.432893841,91.0,11.0,1,1,1,0,0,3,1,3,8,6,1,,,
+UBCO,2021,W,MGMT,240,,001,Introduction to Management  Communications,Hanna Nour;Joanna Cockerline;Manav Gupta;Melanie Field,251,77.115537849,7.592535651,91.0,26.0,1,3,2,2,12,32,33,42,91,29,4,,,
+UBCO,2021,W,ENGL,112,,001,Studies in Composition,Joanna Cockerline,24,75.6,,98.0,0.0,,,,,,,,6,,,,78.0,84.3,73.0
+UBCO,2021,W,ENGL,112,,008,Studies in Composition,Joanna Cockerline,22,74.0,,93.0,0.0,,,,,,6,,,,,,76.5,84.5,70.0
+UBCO,2021,W,ENGL,112,,101,Studies in Composition,Joanna Cockerline,24,70.7,,92.0,0.0,,,,,,,,,,,,75.5,80.5,70.0
+UBCO,2021,W,ENGL,112,,109,Studies in Composition,Joanna Cockerline,25,76.0,,91.0,11.0,,,,,,,,,8,6,,82.0,85.0,75.0
+UBCO,2021,W,MGMT,240,,001,Introduction to Management  Communications,Joanna Cockerline,251,77.1,,91.0,26.0,,,,,12,32,33,42,91,29,,78.0,82.0,73.0
+UBCO,2022,W,ENGL,112,,016,Studies in Composition,Joanna Cockerline,28,77.0,,82.0,30.0,1,0,0,1,0,1,2,3,20,0,0,80.0,81.0,77.8
+UBCO,2022,W,MGMT,240,,001,Introduction to Management  Communications,Joanna Cockerline,227,75.3,,90.0,54.0,0,1,0,2,11,40,62,53,50,7,1,75.0,80.0,72.0
+UBCO,2023,S,ENGL,394,E,101,Interdisciplinary Studies in English Literature,Joanna Cockerline,16,90.31,,96.0,74.0,0,0,0,0,0,0,1,0,2,0,13,93.0,93.25,90.0
+UBCO,2023,S,ENGL,394,F,101,Interdisciplinary Studies in English Literature,Joanna Cockerline,16,91.5,,97.0,80.0,0,0,0,0,0,0,0,0,2,2,12,92.5,94.25,90.5
+UBCO,2023,W,ENGL,112,,107,Studies in Composition,Joanna Cockerline,29,79.5,,91.0,54.0,0,1,1,0,1,1,2,2,13,4,4,81.0,85.0,76.0
+UBCO,2023,W,MGMT,240,,001,Introduction to Management  Communications,Joanna Cockerline,252,71.2,,95.0,0.0,5,4,7,25,24,55,55,23,42,6,3,72.0,78.0,67.0

@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,MATH,255,,201,ORD DIFF EQUTNS,"Rahmani, Mona",117,68.76,15.21,96,8,108,8,1,0,0,1,1,1,3,2,8,8,5,9,12,21,15,13,14,5,6,,,
+UBC,2016,W,MATH,215,,101,ELEM DIFF EQ I,"Rahmani, Mona",34,65.43,19.04,90,29,22,6,6,0,0,0,0,1,2,3,6,5,0,1,1,2,2,1,4,4,2,,,
+UBC,2016,W,MATH,255,,101,ORD DIFF EQUTNS,"Rahmani, Mona",63,66.31,18.66,99,21,54,8,0,0,1,0,0,2,2,4,8,9,9,5,4,3,3,0,3,11,7,,,
+UBC,2016,W,MATH,255,,201,ORD DIFF EQUTNS,"Rahmani, Mona",94,67.25,13.02,98,28,88,5,0,0,1,0,0,1,3,1,5,9,8,10,13,8,15,12,7,2,4,,,
+UBC,2017,W,MATH,257,,201,PARTL DIFF EQUAT,"Rahmani, Mona",77,64.25,18.99,96,5,63,10,4,0,0,1,1,1,2,5,10,10,10,3,14,3,1,5,5,2,10,,,
+UBC,2017,W,MATH,257,,202,PARTL DIFF EQUAT,"Rahmani, Mona",20,71.53,19.2,96,32,14,1,1,0,4,0,0,0,1,0,1,2,1,1,2,1,0,0,2,2,3,,,
+UBC,2017,W,MATH,316,,201,DIFF EQUATIONS 2,"Rahmani, Mona",35,66.37,18.4,100,32,30,5,0,0,0,0,0,0,2,3,5,6,4,1,2,3,2,1,3,3,5,,,
+UBC,2017,W,MATH,316,,202,DIFF EQUATIONS 2,"Rahmani, Mona",77,66.73,20.83,100,5,62,12,2,0,1,1,0,1,8,2,12,5,9,5,5,6,6,4,5,1,16,,,
+UBC,2018,W,MATH,257,,201,PARTL DIFF EQUAT,"Rahmani, Mona",71,67.89,18.43,100,21,62,8,0,0,1,0,0,3,2,3,8,7,7,5,8,7,6,2,6,3,11,,,
+UBC,2018,W,MATH,257,,202,PARTL DIFF EQUAT,"Rahmani, Mona",8,56.71,31.76,94,11,5,2,1,0,0,0,1,1,0,0,2,1,1,0,0,1,0,0,0,0,2,,,
+UBC,2018,W,MATH,316,,201,DIFF EQUATIONS 2,"Rahmani, Mona",41,70.51,19.43,99,37,32,7,0,0,2,0,0,0,2,5,7,2,1,5,4,2,0,2,5,2,9,,,
+UBC,2018,W,MATH,316,,202,DIFF EQUATIONS 2,"Rahmani, Mona",101,71.52,21.53,100,6,78,10,5,0,7,1,1,4,2,2,10,8,4,7,10,2,3,2,11,4,27,,,
+UBCV,2015,W,MATH,255,,201,Ordinary Differential Equations,Daniel Coombs;Mona Rahmani,116,68.75862069,15.211906486,96.0,8.0,,,,,,,,,,,8,8,5,9,12,21,15,13,14,5,6,,,
+UBCV,2016,W,MATH,215,,101,Elementary Differential Equations I,Mona Rahmani;Richard Gerd Froese,28,65.42857143,19.04269778,90.0,29.0,,,,,,,,,,,6,5,0,1,1,2,2,1,4,4,2,,,
+UBCV,2016,W,MATH,255,,101,Ordinary Differential Equations,Mona Rahmani;Richard Gerd Froese,63,65.38095238,19.90900961,99.0,8.0,,,,,,,,,,,9,9,9,5,4,3,3,0,3,11,7,,,
+UBCV,2016,W,MATH,255,,201,Ordinary Differential Equations,Daniel Coombs;Mona Rahmani,94,66.61702128,14.3227816,98.0,8.0,,,,,,,,,,,6,9,8,10,13,8,15,12,7,2,4,,,
+UBCV,2017,W,MATH,257,,201,Partial Differential Equations,Mona Rahmani,73,64.246575342,18.988871611,96.0,5.0,,,,,,,,,,,10,10,10,3,14,3,1,5,5,2,10,,,
+UBCV,2017,W,MATH,257,,202,Partial Differential Equations,Mona Rahmani,19,56.473684211,34.416353382,96.0,0.0,,,,,,,,,,,5,2,1,1,2,1,0,0,2,2,3,,,
+UBCV,2017,W,MATH,316,,201,Elementary Differential Equations II,Mona Rahmani,35,66.371428571,18.397707201,100.0,32.0,,,,,,,,,,,5,6,4,1,2,3,2,1,3,3,5,,,
+UBCV,2017,W,MATH,316,,202,Elementary Differential Equations II,Mona Rahmani,75,66.04,21.537170885,100.0,5.0,,,,,,,,,,,13,5,9,5,5,6,6,4,5,1,16,,,
+UBCV,2018,W,MATH,257,,201,Partial Differential Equations,Anthony Peirce;Mona Rahmani;Wesley Ridgway,71,67.253521127,19.053847238,100.0,21.0,,,,,,,,,,,9,7,7,5,8,7,6,2,6,3,11,,,
+UBCV,2018,W,MATH,257,,202,Partial Differential Equations,Anthony Peirce;Ha Jung Rachel Han;Mona Rahmani,7,56.714285714,31.758013612,94.0,11.0,,,,,,,,,,,2,1,1,0,0,1,0,0,0,0,2,,,
+UBCV,2018,W,MATH,316,,201,Elementary Differential Equations II,Anthony Peirce;Mona Rahmani,41,70.243902439,19.267564049,99.0,37.0,,,,,,,,,,,7,3,1,5,4,2,0,2,6,2,9,,,
+UBCV,2018,W,MATH,316,,202,Elementary Differential Equations II,Anthony Peirce;Mona Rahmani,95,68.4,24.904242141,100.0,0.0,,,,,,,,,,,15,8,4,7,10,3,4,2,11,4,27,,,
+UBCV,2019,W,MATH,257,,201,Partial Differential Equations,Anthony Peirce;Mona Rahmani,18,81.444444444,15.041989161,100.0,56.0,,,,,,,,,,,0,0,1,2,1,2,0,2,1,2,7,,,
+UBCV,2019,W,MATH,316,,201,Elementary Differential Equations II,Anthony Peirce;Mona Rahmani,80,81.5125,13.322669127,100.0,37.0,,,,,,,,,,,1,3,1,5,1,6,5,7,12,12,27,,,
+UBCV,2019,W,MATH,316,,202,Elementary Differential Equations II,Anthony Peirce;Mona Rahmani,68,76.75,17.223183785,100.0,28.0,,,,,,,,,,,1,6,5,9,4,3,4,2,5,6,23,,,
+UBCV,2020,W,MATH,257,,202,Partial Differential Equations,Mikhail Chernobai;Min Jun Jo;Mona Rahmani;Parisa Sarmadi;Shamil Asgarli;Simone Maletto,9,70.222222222,17.405299321,94.0,41.0,,,,,,,,,,,1,1,0,1,1,0,0,2,2,0,1,,,
+UBCV,2020,W,MATH,316,,201,Elementary Differential Equations II,Mikhail Chernobai;Min Jun Jo;Mona Rahmani;Parisa Sarmadi;Simone Maletto,69,78.188405797,16.750132012,98.0,0.0,,,,,,,,,,,5,1,2,1,3,2,8,8,14,5,20,,,
+UBCV,2020,W,MATH,316,,202,Elementary Differential Equations II,Mikhail Chernobai;Min Jun Jo;Mona Rahmani;Parisa Sarmadi;Shamil Asgarli;Simone Maletto,61,70.081967213,19.333300358,96.0,8.0,,,,,,,,,,,6,1,3,2,5,9,8,9,7,3,8,,,
+UBCV,2021,S,MATH,257,,921,Partial Differential Equations,Andreas Buttenschoen;Jordan Alexander Mackenzie;Mai Uyen Thieu;Marjan Zare Bezgabadi;Mona Rahmani;Parisa Sarmadi,51,76.509803922,17.314008836,98.0,3.0,,,,,,,,,,,3,1,3,3,1,4,4,5,9,6,12,,,
+UBCV,2021,S,MATH,316,,921,Elementary Differential Equations II,Andreas Buttenschoen;Jordan Alexander Mackenzie;Mai Uyen Thieu;Marjan Zare Bezgabadi;Mona Rahmani;Parisa Sarmadi,63,71.285714286,10.806850533,100.0,46.0,,,,,,,,,,,1,2,3,9,11,9,7,5,9,2,5,,,
+UBCV,2021,W,MATH,257,,201,Partial Differential Equations,Masoud Daneshi;Mikhail Chernobai;Mona Rahmani;Yiyang Tian,7,67.714285714,29.210239561,98.0,17.0,,,,,,,,,,,2,0,0,0,0,1,0,0,2,1,1,,,
+UBCV,2021,W,MATH,316,,201,Elementary Differential Equations II,Masoud Daneshi;Mikhail Chernobai;Mona Rahmani;Yiyang Tian,81,67.49382716,22.762976221,100.0,0.0,,,,,,,,,,,11,10,5,3,6,9,5,3,9,7,13,,,
+UBCV,2021,W,MATH,316,,202,Elementary Differential Equations II,Masoud Daneshi;Mikhail Chernobai;Mona Rahmani;Yiyang Tian,44,70.681818182,22.646702853,100.0,7.0,,,,,,,,,,,6,3,3,3,2,1,5,1,3,9,8,,,
+UBCV,2021,S,MATH,257,,921,Partial Differential Equations,Mona Rahmani;Marjan Zare Bezgabadi,51,76.5,,98.0,3.0,,,,,,,,,,,,,,,,,,,9,6,12,80.0,87.0,68.5
+UBCV,2021,S,MATH,316,,921,Elementary Differential Equations II,Mona Rahmani;Marjan Zare Bezgabadi,63,71.3,,100.0,46.0,,,,,,,,,,,,,,9,11,9,7,,9,,,70.0,79.5,64.0
+UBCV,2021,W,MATH,257,,201,Partial Differential Equations,Masoud Daneshi;Mona Rahmani,6,62.7,,85.0,17.0,,,,,,,,,,,,,,,,,,,,,,76.5,82.8,46.3
+UBCV,2021,W,MATH,316,,201,Elementary Differential Equations II,Masoud Daneshi;Mona Rahmani,80,69.9,,100.0,1.0,,,,,,,,,,,8,10,,,6,9,,,9,7,15,71.0,85.3,56.8
+UBCV,2021,W,MATH,316,,202,Elementary Differential Equations II,Masoud Daneshi;Mona Rahmani,44,70.7,,100.0,7.0,,,,,,,,,,,6,,,,,,,,,9,8,74.5,86.5,58.8
+UBCV,2022,S,MATH,257,,921,Partial Differential Equations,Masoud Daneshi;Mona Rahmani,59,75.9,,99.0,39.0,,,,,,,,,,,2,1,0,7,9,6,5,5,5,6,13,74.0,88.5,66.5
+UBCV,2022,S,MATH,316,,921,Elementary Differential Equations II,Masoud Daneshi;Mona Rahmani,50,63.0,,100.0,33.0,,,,,,,,,,,6,13,6,6,2,4,2,2,1,1,7,59.0,72.8,50.0
+UBCV,2022,W,MATH,257,,201,Partial Differential Equations,Mona Rahmani,7,73.9,,96.0,39.0,,,,,,,,,,,1,0,1,1,0,0,0,0,1,1,2,81.0,89.5,61.0
+UBCV,2022,W,MATH,316,,201,Elementary Differential Equations II,Mona Rahmani,57,66.3,,100.0,0.0,,,,,,,,,,,12,4,3,4,3,5,5,2,4,1,14,70.0,87.0,53.0
+UBCV,2022,W,MATH,316,,202,Elementary Differential Equations II,Mona Rahmani,33,70.5,,100.0,3.0,,,,,,,,,,,5,2,0,4,3,0,3,0,3,4,9,75.0,90.0,60.0
+UBCV,2023,W,MATH,257,,201,Partial Differential Equations,Mona Rahmani,12,69.5,,100.0,24.0,,,,,,,,,,,3,0,1,0,1,0,0,1,2,2,2,78.5,85.3,51.8
+UBCV,2023,W,MATH,316,,201,Elementary Differential Equations II,Mona Rahmani,89,65.1,,100.0,0.0,,,,,,,,,,,17,12,7,5,7,3,4,3,8,3,18,65.0,83.0,50.0
+UBCV,2023,W,MATH,316,,202,Elementary Differential Equations II,Mona Rahmani,45,68.3,,98.0,33.0,,,,,,,,,,,5,8,3,3,3,4,3,0,3,3,9,67.5,85.3,52.5

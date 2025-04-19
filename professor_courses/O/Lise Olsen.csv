@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,NRSG,325,,001,Introduction to Statistics for Nursing,Lise Olsen,64,85.5625,7.661229956,98.0,52.0,0,,,,,,3,6,6,26,20,,,
+UBCO,2014,W,NRSG,325,,002,Introduction to Statistics for Nursing,Lise Olsen,60,82.01666667,9.424978832,95.0,58.0,0,0,,,,,7,8,10,13,15,,,
+UBCO,2015,W,NRSG,325,,001,Introduction to Statistics for Nursing,Lise Olsen;Madeleine Greig;Nicole De Bosch Kemper;Wendy Andrews,54,84.611111111,4.846382299,94.0,73.0,0,0,0,0,0,0,3,2,24,16,9,,,
+UBCO,2015,W,NRSG,325,,002,Introduction to Statistics for Nursing,Lise Olsen;Madeleine Greig;Nicole De Bosch Kemper;Wendy Andrews,58,83.051724138,8.386334778,97.0,51.0,0,,,,,,6,10,12,11,15,,,
+UBCO,2015,W,NRSG,507,,001,Quantitative Research,Kathy Rush;Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen,6,84.666666667,6.153589738,89.0,73.0,0,0,0,0,0,0,,,,,0,,,
+UBCO,2016,W,NRSG,325,,001,Introduction to Statistics for Nursing,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen;Wendy Andrews,67,80.7761194,8.824588402,94.0,54.0,0,,,2,4,1,4,9,18,19,8,,,
+UBCO,2016,W,NRSG,325,,002,Introduction to Statistics for Nursing,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen;Wendy Andrews,67,81.31343284,9.119092451,94.0,57.0,0,0,1,2,3,5,6,7,11,18,14,,,
+UBCO,2016,W,NRSG,507,,001,Quantitative Research,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen,8,81.625,9.560895057,91.0,63.0,0,0,0,1,0,0,1,1,1,2,2,,,
+UBCO,2017,S,NRSG,597,,001,Healthcare Capstone Practicum,Lise Olsen,8,84.875,3.758324095,89.0,78.0,0,0,0,0,0,0,0,1,1,6,0,,,
+UBCO,2017,W,HINT,110,,001,Applied Research in Health,Lise Olsen;Robert Colin Reid,117,80.051282051,10.33060915,98.0,43.0,1,2,2,6,3,6,12,14,24,31,16,,,
+UBCO,2018,S,NRSG,597,,001,Healthcare Capstone Practicum,Darlene Taylor;Lise Olsen,12,88.583333333,5.615859577,94.0,76.0,0,0,0,0,0,0,0,1,2,1,8,,,
+UBCO,2018,W,HINT,110,,001,Applied Research in Health,Adam Fulton;Adam R Fulton;Lise Olsen,110,81.418181818,10.979030737,98.0,45.0,3,1,2,2,3,3,13,11,17,27,28,,,
+UBCO,2018,W,NRSG,507,,001,Quantitative Research,Adam Fulton;Adam R Fulton;Joan Bottorff;Kathy Rush;Lise Olsen,7,89.571428571,2.992052966,93.0,85.0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCO,2019,S,NRSG,428,,001,Advanced Community Health Nursing,Lisa Moralejo;Lise Olsen,35,85.714285714,4.040758727,92.0,76.0,0,0,0,0,0,0,0,3,9,17,6,,,
+UBCO,2019,W,HINT,110,,001,Applied Research in Health,Lise Olsen,125,79.584,11.303856036,98.0,44.0,1,2,2,7,7,10,11,22,21,12,30,,,
+UBCO,2019,W,NRSG,507,,001,Quantitative Research,Lise Olsen,7,89.428571429,2.935821456,94.0,86.0,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCO,2020,S,NRSG,428,,001,Advanced Community Health Nursing,Fatima Al-Roubaiai;Lisa Moralejo;Lise Olsen,37,86.648648649,4.956568124,97.0,78.0,0,0,0,0,0,0,0,3,10,14,10,,,
+UBCO,2020,W,HINT,110,,001,Applied Research in Health,Fatima Al-Roubaiai;Heather Anne Cooke;Heather Cooke;Lise Olsen,134,81.21641791,9.857146517,96.0,38.0,1,1,1,2,7,9,12,14,29,29,29,,,
+UBCO,2021,S,NRSG,428,,001,Advanced Community Health Nursing,Lindsay Kennedy;Lisa Moralejo;Lise Olsen,19,88.210526316,3.80903819,93.0,79.0,0,0,0,0,0,0,0,1,2,8,8,,,
+UBCO,2021,S,NRSG,597,,001,Healthcare Capstone Practicum,Laura Struik;Lise Olsen;Nelly Oelke,13,90.538461538,4.976869575,97.0,84.0,0,0,0,0,0,0,0,0,2,5,6,,,
+UBCO,2021,S,NRSG,428,,001,Advanced Community Health Nursing,Lindsay Kennedy;Lisa Moralejo;Lise Olsen,19,88.2,,93.0,79.0,,,,,,,,,,8,8,88.0,91.5,86.5
+UBCO,2021,S,NRSG,597,,001,Healthcare Capstone Practicum,Lise Olsen;Laura Struik,13,90.5,,97.0,84.0,,,,,,,,,,,6,89.0,95.0,87.0
+UBCO,2022,S,NRSG,428,,001,Advanced Community Health Nursing,Lindsay Kennedy;Lise Olsen;Nicola Waters,46,85.8,,95.0,74.0,0,0,0,0,0,0,1,2,16,14,13,85.0,90.0,82.0
+UBCO,2022,S,NRSG,597,,001,Healthcare Capstone Practicum,Vicki Foley;Lise Olsen,17,88.3,,96.0,77.0,0,0,0,0,0,0,0,3,1,5,8,89.0,94.0,86.0
+UBCO,2023,S,NRSG,428,,001,Advanced Community Health Nursing,Lindsay Kennedy;Lise Olsen;Nicola Waters,50,89.92,,98.0,83.0,0,0,0,0,0,0,0,0,2,19,29,90.5,92.0,87.0
+UBCO,2023,S,NRSG,597,,001,Healthcare Capstone Practicum,Lise Olsen;Nicola Waters,22,89.53,,96.0,84.0,0,0,0,0,0,0,0,0,2,8,9,89.0,92.0,86.5

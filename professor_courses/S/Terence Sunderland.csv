@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FRST,495,,101,BIO DIV&FRST MGT,"Sunderland, Terence",70,73.94,9.12,90,44,69,1,0,0,0,0,0,0,0,1,1,1,2,3,9,11,10,11,14,6,2,,,
+UBC,2018,W,FRST,559,,101,NTRL RSORCE PLAN,"Sunderland, Terence",19,86.05,6.17,97,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,8,4,,,
+UBCV,2018,W,FRST,495,,101,Biological Diversity and Forest Management,Allen Larocque;Terence Sunderland,70,73.942857143,9.123763707,90.0,44.0,,,,,,,,,,,1,1,2,3,9,11,10,11,14,6,2,,,
+UBCV,2018,W,FRST,559,,101,Natural Resources Planning,Jeanine Rhemtulla;Sumeet Gulati;Terence Sunderland,19,86.052631579,6.168681511,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,5,8,4,,,
+UBCV,2019,W,CONS,452,,201,Global Perspectives Capstone,Catherine Moreau;Hisham Zerriffi;Jeanine Rhemtulla;Juliana Kaufmanis;Marcos Kavlin Castaneda;Marcos Ricardo Alejandro Kavlin Castaneda;Sarah Gergel;Terence Sunderland;Vikas Menghwani,39,87.871794872,3.286171082,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,18,14,,,
+UBCV,2019,W,FRST,559,,101,Natural Resources Planning,James Langston;Terence Sunderland,23,82.434782609,6.451399333,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,4,6,6,3,,,
+UBCV,2020,W,CONS,452,,201,Global Perspectives Capstone,Alida O'Connor;Hisham Zerriffi;Jeanine Rhemtulla;Juliana Kaufmanis;Marcos Kavlin Castaneda;Sarah Gergel;Terence Sunderland,42,80.619047619,14.164456342,94.0,17.0,,,,,,,,,,,2,0,0,1,0,2,4,2,10,14,7,,,
+UBCV,2020,W,FRST,559,,101,Natural Resources Planning,Alida O'Connor;James Langston;Terence Sunderland,12,81.75,5.956280108,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,3,5,0,,,
+UBCV,2021,W,CONS,452,,201,Global Perspectives Capstone,Abdulateef Femi Gafar;Celine Wright;Cheng Chen;Deborah Ann Pierce;Hisham Zerriffi;Jeanine Rhemtulla;Nolan Bett;Terence Sunderland,37,83.189189189,5.327276967,94.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,5,17,12,2,,,
+UBCV,2021,W,FOPE,500,,101,Sustainable Forest Management in a Changing World,John Innes;Terence Sunderland,8,70.375,4.307385684,77.0,64.0,,,,,,,,,,,0,0,0,0,2,3,2,1,0,0,0,,,
+UBCV,2021,W,FRST,559,,101,Natural Resources Planning,Alida O'Connor;James Langston;Terence Sunderland,18,82.888888889,5.561304215,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,4,7,4,2,,,
+UBCV,2021,W,CONS,452,,201,Global Perspectives Capstone,Nolan Bett;Terence Sunderland;Hisham Zerriffi,37,83.2,,94.0,61.0,,,,,,,,,,,,,,,,,,,17,12,,84.0,86.0,81.0
+UBCV,2021,W,FOPE,500,,101,Sustainable Forest Management in a Changing World,Terence Sunderland,8,70.4,,77.0,64.0,,,,,,,,,,,,,,,,,,,,,,70.0,72.8,68.3
+UBCV,2021,W,FRST,559,,101,Natural Resources Planning,James Langston;Terence Sunderland,18,82.9,,92.0,71.0,,,,,,,,,,,,,,,,,,,7,,,83.0,87.8,79.3
+UBCV,2022,W,CONS,452,,201,Global Perspectives Capstone,Nolan Bett;Sima Fakheran Esfahani;Seyedeh Zahra Goushehgir;Terence Sunderland,32,87.5,,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,19,6,87.5,89.0,85.0
+UBCV,2022,W,FOPE,500,,101,Sustainable Forest Management in a Changing World,Terence Sunderland,6,83.0,,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,0,2,80.5,87.8,79.3
+UBCV,2022,W,FRST,559,,101,Natural Resources Planning,Terence Sunderland,13,80.8,,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,5,4,1,2,80.0,81.0,77.0
+UBCV,2023,W,FRST,559,,101,Natural Resources Planning,Terence Sunderland;Peter Wood,13,79.5,,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,4,2,3,0,78.0,84.0,75.0

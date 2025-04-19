@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,ARST,570,,002,MANGMT LIBR&ARST,"Middlemass, Christine",4,82.5,2.52,85,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0
+UBC,2005,W,LIBR,570,,001,MGMT LIB & ARCHV,"Middlemass, Christine",11,84.18,3.34,89,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,0
+UBC,2005,W,LIBR,570,,002,MGMT LIB & ARCHV,"Middlemass, Christine",26,82.27,2.78,87,79,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,8,0
+UBC,2007,W,LIBR,571,,002,HUMN RESR MGMNT,"Hartman, Teresa;Middlemass, Christine",9,84.63,3.25,89,79,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0
+UBC,2009,W,LIBR,571,,001,HUMN RESR MGMNT,"Hartman, Teresa;Middlemass, Christine",9,89.29,3.73,94,85,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3
+UBC,2010,S,LIBR,571,,941,HUMN RESR MGMNT,"Hartman, Teresa;Middlemass, Christine",21,87,3.4,92,79,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,4
+UBC,2011,W,LIBR,571,,002,HUMN RESR MGMNT,"Hartman, Teresa;Middlemass, Christine",8,83.75,1.91,85,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0
+UBC,2014,W,LIBR,571,,002,HUMN RESR MGMNT,"Middlemass, Christine",9,83.5,6.46,91,72,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2
+UBC,2016,W,LIBR,571,,001,HUMN RESR MGMNT,"Ibey, Marion Dawn;Middlemass, Christine",7,87.71,3.59,92,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2
+UBC,2017,W,ARST,570,,002,MANGMT INFO ORGS,"Freeman, Andrea;Middlemass, Christine",4,91.75,0.96,93,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2017,W,LIBR,504,,002,INFO ORG MGMT,"Freeman, Andrea;Middlemass, Christine",37,90.97,1.87,94,88,35,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,27
+UBC,2018,W,LIBR,504,,002,INFO ORG MGMT,"Farrell, Adam;Middlemass, Christine",25,85.04,4.1,89,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,19,0
+UBC,2018,W,LIBR,571,,001,HUMN RESR MGMNT,"Ibey, Marion Dawn;Middlemass, Christine",12,83.25,2.63,87,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0

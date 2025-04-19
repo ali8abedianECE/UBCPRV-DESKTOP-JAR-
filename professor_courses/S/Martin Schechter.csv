@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,HCEP,513,,001,CLIN EPID,"Schechter, Martin",20,81.35,4.64,90,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,9,4,1,,,
+UBC,2014,W,SPPH,502,,DL1,EPID METHODS 1,"Schechter, Martin;Singer, Joel",21,82.1,8.25,93,62,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,3,8,2,,,
+UBC,2015,W,SPPH,502,,DL1,EPID METHODS 1,"Schechter, Martin;Singer, Joel",22,80.81,5.97,88,62,21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,9,6,0,,,
+UBC,2016,W,SPPH,502,,DL1,EPID METHODS 1,"Schechter, Martin;Singer, Joel",23,81.1,7.87,94,66,20,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1,3,2,5,5,3,,,
+UBC,2017,W,SPPH,502,,DL1,EPID METHODS 1,"Schechter, Martin;Singer, Joel",25,86.83,4.17,95,80,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,7,,,
+UBC,2018,W,SPPH,502,,DL1,EPID METHODS 1,"Schechter, Martin",23,83.95,7.19,94,70,21,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,5,6,5,,,
+UBCV,2014,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter,21,82.0952381,8.245633765,93.0,62.0,,,,,,,,,,,0,0,0,,,,4,2,3,8,2,,,
+UBCV,2015,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter;Mina Park,21,80.80952381,5.971758934,88.0,62.0,,,,,,,,,,,0,0,0,,,,,3,9,6,0,,,
+UBCV,2016,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter,20,81.1,7.873339424,94.0,66.0,,,,,,,,,,,0,0,0,0,1,1,3,2,5,5,3,,,
+UBCV,2017,W,SPPH,502,,DL1,Epidemiological Methods 1,Huiru Dong;Joel Singer;Martin Schechter,24,86.833333333,4.166811592,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,8,7,,,
+UBCV,2018,W,SPPH,502,,DL1,Epidemiological Methods 1,Huiru Dong;Joel Singer;Martin Schechter,21,83.952380952,7.186627794,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,1,5,6,5,,,
+UBCV,2019,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter;Weiran Yuchi,22,86.909090909,8.337574678,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,2,2,4,11,,,
+UBCV,2020,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Margo Pearce;Martin Schechter;Sameer Desai,19,88.210526316,4.263266189,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,9,6,,,
+UBCV,2021,W,SPPH,502,,BL1,Epidemiological Methods 1,Hallah Kassem;Heather Palis;Margo Pearce;Martin Schechter,42,90.952380952,5.098791731,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,28,,,
+UBCV,2021,W,SPPH,502,,BL1,Epidemiological Methods 1,Heather Palis;Martin Schechter,42,91.0,,99.0,80.0,,,,,,,,,,,,,,,,,,,,9,28,92.0,94.8,87.0
+UBCV,2022,W,SPPH,502,,BL1,Epidemiological Methods 1,Heather Palis;Martin Schechter,31,91.9,,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,28,92.0,93.0,91.0
+UBCV,2023,W,SPPH,502,,BL1,Epidemiological Methods 1,Heather Palis;Martin Schechter,38,92.8,,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,1,35,93.0,94.0,93.0

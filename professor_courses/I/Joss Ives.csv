@@ -1,0 +1,172 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,PHYS,101,,201,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",250,75.17,13.74,97,15,232,14,4,0,0,0,1,2,0,11,14,8,9,11,12,27,24,39,34,38,30,,,
+UBC,2013,W,PHYS,101,,202,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",286,79.42,13.97,99,24,259,16,8,1,2,0,0,2,0,14,16,6,3,8,10,15,24,30,43,54,66,,,
+UBC,2013,W,PHYS,101,,203,ENERGY & WAVES,"Bates, Simon;Charbonneau, Arthur;Ives, Joss;Koster, Evert;Kotlicki, Andrzej",226,75.98,12.97,99,29,212,10,4,0,0,0,0,1,1,8,10,3,9,11,25,10,29,29,33,32,31,,,
+UBC,2013,W,SCIE,113,,210,SCIE SEMINAR,"Ives, Joss;Steyn, Douw Gerbrand",26,73.5,19.25,97,0,25,1,0,0,0,1,0,0,0,0,1,1,1,2,3,2,1,3,7,1,4,,,
+UBC,2014,W,PHYS,101,,201,ENERGY & WAVES,"Ives, Joss",261,70.94,12.52,97,39,229,20,7,0,5,0,0,0,1,19,20,6,11,25,24,40,29,25,34,21,14,,,
+UBC,2014,W,PHYS,107,,V01,ENRICH PHYSICS 1,"Ives, Joss",59,78.07,12.34,97,45,55,3,0,0,1,0,0,0,0,3,3,0,2,1,2,7,7,7,9,6,14,,,
+UBC,2014,W,PHYS,109,,L0C,ENRCH EXPER PHYS,"Ives, Joss",23,82.52,12.25,99,41,22,1,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,3,3,4,8,,,
+UBC,2014,W,PHYS,109,,V1B,ENRCH EXPER PHYS,"Ives, Joss",35,72.29,7.72,89,56,35,0,0,0,0,0,0,0,0,0,0,0,2,3,3,6,11,6,2,2,0,,,
+UBC,2014,W,PHYS,520,A,101,TEACH PHYS&ASTR,"Bonn, Douglas Andrew;Ives, Joss",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,PHYS,520,A,201,TEACH PHYS&ASTR,"Bonn, Douglas Andrew;Ives, Joss",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,PHYS,108,,V01,ENRICH PHYSICS 2,"Ives, Joss",42,75.54,13.99,99,45,39,2,0,0,1,0,0,0,0,2,2,2,1,1,5,5,2,3,10,3,7,,,
+UBC,2015,W,PHYS,109,,L0A,ENRCH EXPER PHYS,"Ives, Joss",17,79.76,7.53,90,56,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,9,3,1,,,
+UBC,2015,W,PHYS,109,,L0B,ENRCH EXPER PHYS,"Ives, Joss",26,83.17,14.3,92,20,23,1,2,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,5,9,7,,,
+UBC,2015,W,PHYS,109,,L0C,ENRCH EXPER PHYS,"Ives, Joss",13,79.85,16.64,90,25,12,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,8,3,1,,,
+UBC,2015,W,PHYS,117,,V01,DYNAMICS & WAVES,"Ives, Joss",41,79.71,17.24,98,42,37,4,0,0,0,0,0,0,0,4,4,1,1,4,0,2,2,0,4,6,17,,,
+UBC,2015,W,PHYS,119,,L2F,EXPRMNT PHYS LAB,"Ives, Joss",22,84,4.78,91,71,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,6,3,,,
+UBC,2015,W,PHYS,119,,V2A,EXPRMNT PHYS LAB,"Ives, Joss",22,83.14,9.98,93,43,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,7,9,4,,,
+UBC,2015,W,PHYS,119,,V2B,EXPRMNT PHYS LAB,"Ives, Joss",32,85.75,4.6,93,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,11,9,,,
+UBC,2015,W,PHYS,119,,V2E,EXPRMNT PHYS LAB,"Ives, Joss",22,85.82,4.54,92,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,5,7,,,
+UBC,2016,S,PHYS,118,,V01,ELEC LIGHT & RAD,"Ives, Joss;Rieger, Georg",40,82.23,12.17,100,52,40,0,0,0,0,0,0,0,0,0,0,1,0,3,1,4,1,6,6,2,16,,,
+UBC,2016,S,PHYS,118,,V02,ELEC LIGHT & RAD,"Ives, Joss;Rieger, Georg",27,77.93,14.11,98,42,26,1,0,0,0,0,0,0,0,1,1,0,1,3,3,1,2,0,6,2,8,,,
+UBC,2016,S,PHYS,119,,L02,EXPRMNT PHYS LAB,"Ives, Joss",9,81.33,2.18,85,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,0,,,
+UBC,2016,W,PHYS,109,,L0B,ENRCH EXPER PHYS,"Ives, Joss",27,82.67,4.36,90,74,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10,8,3,,,
+UBC,2016,W,PHYS,109,,L0C,ENRCH EXPER PHYS,"Ives, Joss",19,78.16,8.64,85,44,18,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,4,12,1,0,,,
+UBC,2016,W,PHYS,117,,V01,DYNAMICS & WAVES,"Ives, Joss",47,81.89,18.04,99,21,43,3,0,0,1,0,0,1,1,1,3,0,2,2,2,1,2,3,4,4,23,,,
+UBC,2016,W,PHYS,119,,V2A,EXPRMNT PHYS LAB,"Ives, Joss",29,78.07,6.6,90,66,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,2,9,5,1,,,
+UBC,2016,W,PHYS,119,,V2C,EXPRMNT PHYS LAB,"Ives, Joss",33,75.33,13.4,87,11,32,1,0,0,0,0,1,0,0,0,1,0,0,2,0,4,8,3,8,7,0,,,
+UBC,2016,W,PHYS,159,,L2F,INTRO PHYS LAB,"Ives, Joss",51,80.9,6.22,92,67,51,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,9,14,14,2,,,
+UBC,2016,W,PHYS,159,,L2G,INTRO PHYS LAB,"Ives, Joss",52,80.19,8.22,95,39,51,1,0,0,0,0,0,0,1,0,1,0,0,1,0,2,3,11,22,10,2,,,
+UBC,2016,W,PHYS,520,A,101,TEACH PHYS&ASTR,"Ives, Joss;Stang, Jared;Strubbe, Linda",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,PHYS,520,B,001,TEACH PHYS&ASTR,"Bonn, Douglas Andrew;Ives, Joss",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,S,PHYS,118,,V01,ELEC LIGHT & RAD,"Ives, Joss;Rieger, Georg",36,77.11,10.46,95,58,36,0,0,0,0,0,0,0,0,0,0,0,1,5,2,3,5,2,9,4,5,,,
+UBC,2017,S,PHYS,118,,V02,ELEC LIGHT & RAD,"Ives, Joss;Rieger, Georg",23,83.26,9.26,98,56,23,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,4,5,4,7,,,
+UBC,2017,W,PHYS,109,,L0A,ENRCH EXPER PHYS,"Ives, Joss",18,83.67,8.26,92,54,18,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,7,6,3,,,
+UBC,2017,W,PHYS,109,,L0B,ENRCH EXPER PHYS,"Ives, Joss",18,83.33,10.57,98,65,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2,2,1,8,,,
+UBC,2017,W,PHYS,109,,L0C,ENRCH EXPER PHYS,"Ives, Joss",22,86.5,5.87,93,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,9,8,,,
+UBC,2017,W,PHYS,117,,V01,DYNAMICS & WAVES,"Ives, Joss;Rieger, Georg",45,74.55,13.11,98,45,41,3,0,0,1,0,0,0,0,3,3,1,0,3,4,5,6,5,7,6,4,,,
+UBC,2017,W,PHYS,117,,V02,DYNAMICS & WAVES,"Ives, Joss;Rieger, Georg",51,77.98,15.43,99,42,46,5,0,0,0,0,0,0,0,5,5,2,0,1,2,3,6,3,7,9,13,,,
+UBC,2017,W,PHYS,119,,L1A,EXPRMNT PHYS LAB,"Eleftheriadou, Electra;Ives, Joss",34,85.58,6.24,94,62,33,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,6,12,11,,,
+UBC,2017,W,PHYS,119,,V2A,EXPRMNT PHYS LAB,"Ives, Joss",16,74.69,13.2,95,41,15,1,0,0,0,0,0,0,0,1,1,1,0,0,1,2,2,4,3,0,2,,,
+UBC,2017,W,PHYS,119,,V2B,EXPRMNT PHYS LAB,"Ives, Joss",25,80.76,7.48,91,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,9,6,3,,,
+UBC,2018,W,PHYS,109,,L0C,ENRCH EXPER PHYS,"Ives, Joss",13,88.85,2.61,93,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,,,
+UBC,2018,W,PHYS,119,,L2B,EXPRMNT PHYS LAB,"Ives, Joss",38,88.24,5.56,96,75,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,7,19,,,
+UBC,2018,W,PHYS,119,,V2A,EXPRMNT PHYS LAB,"Ives, Joss",47,72.74,13.1,90,28,44,2,1,0,0,0,0,1,1,0,2,2,3,0,1,5,12,8,6,5,2,,,
+UBC,2018,W,PHYS,119,,V2B,EXPRMNT PHYS LAB,"Ives, Joss",46,72.57,9.87,94,59,42,0,4,0,0,0,0,0,0,0,0,0,1,7,7,6,7,3,4,4,3,,,
+UBCV,2014,W,PHYS,101,,201,Energy and Waves,Evert Koster;Joss Ives,254,69.78740158,14.88460484,97.0,1.0,,,,,,,,,,,25,6,11,25,24,40,29,25,34,21,14,,,
+UBCV,2014,W,PHYS,101,,202,Energy and Waves,Evert Koster;Joerg Rottler;Joss Ives;Simon Bates,288,74.02430556,15.10876132,100.0,3.0,,,,,,,,,,,29,5,5,20,16,40,22,24,55,23,49,,,
+UBCV,2014,W,PHYS,101,,203,Energy and Waves,Andrzej Kotlicki;Evert Koster;Joss Ives,226,72.6460177,15.03502303,99.0,4.0,,,,,,,,,,,21,1,7,19,18,34,21,13,47,18,27,,,
+UBCV,2014,W,PHYS,107,,V01,Enriched Physics 1,Joss Ives,59,77.49152542,13.01242494,97.0,44.0,,,,,,,,,,,,,,,,7,7,7,9,6,14,,,
+UBCV,2014,W,PHYS,109,,L0C,Enriched Experimental Physics,Douglas Andrew Bonn;Joss Ives,23,82.52173913,12.25067555,99.0,41.0,,,,,,,,,,,,,,,,,,,,,8,,,
+UBCV,2014,W,PHYS,109,,V1B,Enriched Experimental Physics,Douglas Andrew Bonn;Joss Ives,35,72.28571429,7.721518551,89.0,56.0,,,,,,,,,,,0,0,,,,6,11,6,,,0,,,
+UBCV,2015,S,PHYS,101,,921,Energy and Waves,Alexander Sheyerman;Arthur Charbonneau;Douglas Andrew Bonn;Evert Koster;Joss Ives;Lienong Xu;Maryam Afsari Golshan;Maryam Shirmohammad;Omid Nourbakhsh;Shadi Balandeh;Stephen Pietromonaco;Xiruo Yan;Yi Liu,194,76.24742268,12.85513621,96.0,41.0,,,,,,,,,,,13,7,,,16,15,22,28,40,28,23,,,
+UBCV,2015,S,PHYS,102,,952,"Electricity, Light and Radiation",Douglas Andrew Bonn;Edward Thoeng;Evert Koster;Hideki Tanimura;Joss Ives;Leonard Paul Ruocco;Mayra Tovar;Shiqin Su;Timothy Cox;Victor Bednar;Wei Zhao,129,72.97674419,14.94022732,97.0,0.0,,,,,,,,,,,10,,,11,13,13,16,13,11,19,15,,,
+UBCV,2015,S,PHYS,108,,V01,Enriched Physics II,Eric Mills;Georg Rieger;Hillgan Ma;Jonathan Massey Allard;Joshua Wienands;Joss Ives;Lindsay Forestell;Rocky Yat-Cheung So,42,74.33333333,15.87092243,99.0,25.0,,,,,,,,,,,,,,,5,5,,3,10,,7,,,
+UBCV,2015,S,PHYS,108,,V02,Enriched Physics II,Georg Rieger;Joss Ives,36,76.58333333,18.8139386,97.0,9.0,,,,,,,,,,,,,,,3,2,,5,10,,7,,,
+UBCV,2015,W,PHYS,109,,L0A,Enriched Experimental Physics,Evan Chen;Jennifer Moroz;Joss Ives,17,79.764705882,7.52935432,90.0,56.0,,,,,,,,,,,0,0,,,,,,,9,,,,,
+UBCV,2015,W,PHYS,109,,L0B,Enriched Experimental Physics,Edward Thoeng;Evan Chen;Joss Ives,24,83.166666667,14.30009628,92.0,20.0,,,,,,,,,,,,,,,,,,,5,9,7,,,
+UBCV,2015,W,PHYS,109,,L0C,Enriched Experimental Physics,Deborah C Good;Deborah Good;Gelareh Farahi;Joss Ives,13,79.846153846,16.642546649,90.0,25.0,,,,,,,,,,,,,,,,,,,8,,,,,
+UBCV,2015,W,PHYS,117,,V01,Dynamics and Waves,Georg Rieger;Hillgan Ma;Jessie Fanglu;Joss Ives;Lindsay Forestell;Xiruo Yan,41,79.707317073,17.239843245,98.0,42.0,,,,,,,,,,,,,,,,,,,4,6,17,,,
+UBCV,2015,W,PHYS,117,,V02,Dynamics and Waves,Georg Rieger;Hillgan Ma;Jessie Fanglu;Joss Ives;Lindsay Forestell;Xiruo Yan,42,85.476190476,12.793363553,100.0,45.0,,,,,,,,,,,,,,,,,,,6,5,21,,,
+UBCV,2015,W,PHYS,119,,L2F,Experimental Physics Lab,Carolin Janet Hofer;Joss Ives;Linda Strubbe;Peter Gustainis,20,84.0,4.779341509,91.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,9,6,,,,
+UBCV,2015,W,PHYS,119,,V2A,Experimental Physics Lab,Hillgan Ma;Joss Ives;Lienong Xu,22,83.136363636,9.98234372,93.0,43.0,,,,,,,,,,,,,,,,,,,7,9,,,,
+UBCV,2015,W,PHYS,119,,V2B,Experimental Physics Lab,Joss Ives;Lienong Xu;Lindsay Forestell,32,85.75,4.60014025,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,10,11,9,,,
+UBCV,2015,W,PHYS,119,,V2E,Experimental Physics Lab,Hillgan Ma;Joss Ives;Lindsay Forestell;Zimeng Li,22,85.818181818,4.542249953,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,9,5,7,,,
+UBCV,2015,W,VANT,148,,V01,UBC Vantage College Projects,Brett Gilley;Celina Berg;Celina Gay Berg;Fok-Shuen Leung;Georg Rieger;Joss Ives;Kayli Johnson;Meghan Allen;Priya Lekhi,14,72.0,13.473620951,88.0,34.0,,,,,,,,,,,,,,,,,,,,,0,,,
+UBCV,2015,W,VANT,148,,V02,UBC Vantage College Projects,Brett Gilley;Celina Berg;Celina Gay Berg;Fok-Shuen Leung;Georg Rieger;Joss Ives;Kayli Johnson;Meghan Allen;Priya Lekhi,17,72.470588235,10.247668314,90.0,50.0,,,,,,,,,,,0,,,,,6,,,,,,,,
+UBCV,2015,W,VANT,148,,V03,UBC Vantage College Projects,Brett Gilley;Celina Berg;Celina Gay Berg;Fok-Shuen Leung;Georg Rieger;Joss Ives;Kayli Johnson;Meghan Allen;Priya Lekhi,18,66.555555556,8.030985744,85.0,50.0,,,,,,,,,,,0,,,,,6,,,,,0,,,
+UBCV,2015,W,VANT,148,,V04,UBC Vantage College Projects,Brett Gilley;Celina Berg;Celina Gay Berg;Fok-Shuen Leung;Georg Rieger;Joss Ives;Kayli Johnson;Meghan Allen;Priya Lekhi,18,65.666666667,10.759400814,91.0,50.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2015,W,VANT,148,,V06,UBC Vantage College Projects,Brett Gilley;Celina Berg;Celina Gay Berg;Fok-Shuen Leung;Georg Rieger;Joss Ives;Kayli Johnson;Meghan Allen;Priya Lekhi,15,68.866666667,9.991901483,85.0,50.0,,,,,,,,,,,0,,,,,,,,,,0,,,
+UBCV,2016,S,PHYS,118,,V01,"Electricity, Light and Radiation",Georg Rieger;Jordan Wilson-Gerow;Joss Ives;Lienong Xu;Ricardo Chavez Gonzalez;Ryan Mckenzie;Timothy Cox,40,82.225,12.17287337,100.0,52.0,,,,,,,,,,,0,1,0,3,1,4,1,6,6,2,16,,,
+UBCV,2016,S,PHYS,118,,V02,"Electricity, Light and Radiation",Georg Rieger;Jordan Wilson-Gerow;Joss Ives;Lienong Xu;Ricardo Chavez Gonzalez;Ryan Mckenzie;Timothy Cox,27,77.92592593,14.10653402,98.0,42.0,,,,,,,,,,,1,0,1,3,3,1,2,0,6,2,8,,,
+UBCV,2016,S,PHYS,119,,L01,Experimental Physics Lab,Deborah C Good;Deborah Good;Douglas Andrew Bonn;Hillgan Ma;Jeff Bale;Joss Ives;Peter Gustainis,24,78.29166667,17.26136467,88.0,0.0,,,,,,,,,,,1,0,0,0,0,1,0,4,11,7,0,,,
+UBCV,2016,S,PHYS,119,,L02,Experimental Physics Lab,Deborah C Good;Deborah Good;Douglas Andrew Bonn;Hillgan Ma;Jeff Bale;Joss Ives;Peter Gustainis,9,81.33333333,2.179449472,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,1,0,,,
+UBCV,2016,W,PHYS,109,,L0A,Enriched Experimental Physics,Anita Mahinpei;Carolin Janet Hofer;Jennifer Moroz;Joss Ives,19,83.0,3.144660377,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,12,5,0,,,
+UBCV,2016,W,PHYS,109,,L0B,Enriched Experimental Physics,Deborah C Good;Deborah Good;Jennifer Moroz;Joss Ives,27,82.66666667,4.358898944,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,10,8,3,,,
+UBCV,2016,W,PHYS,109,,L0C,Enriched Experimental Physics,Jack Hong;Jack Zhoujie Hong;Jeff Bale;Joss Ives,19,78.15789474,8.642679355,85.0,44.0,,,,,,,,,,,1,0,0,0,0,0,1,4,12,1,0,,,
+UBCV,2016,W,PHYS,109,,L0D,Enriched Experimental Physics,Edward Thoeng;Hillgan Ma;Jeff Bale;Joss Ives;Mai Linh Phan,6,77.5,4.415880433,85.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,1,1,0,,,
+UBCV,2016,W,PHYS,117,,V01,Dynamics and Waves,Joss Ives;Marta Zonno;Wesley Cheek,47,80.34042553,20.77443726,99.0,9.0,,,,,,,,,,,4,0,2,2,2,1,2,3,4,4,23,,,
+UBCV,2016,W,PHYS,117,,V02,Dynamics and Waves,Georg Rieger;Joss Ives;Marta Zonno;Wesley Cheek,55,75.25454546,20.30345545,100.0,20.0,,,,,,,,,,,8,0,1,4,0,4,5,3,7,6,17,,,
+UBCV,2016,W,PHYS,119,,V2A,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno;Wesley Cheek,29,78.06896552,6.600492592,90.0,66.0,,,,,,,,,,,0,0,0,0,1,4,7,2,9,5,1,,,
+UBCV,2016,W,PHYS,119,,V2C,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno;Wesley Cheek,33,75.33333333,13.39698349,87.0,11.0,,,,,,,,,,,1,0,0,2,0,4,8,3,8,7,0,,,
+UBCV,2016,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Aaron Ngai;Allison Fink;Joss Ives;Sarah Burke,51,80.90196078,6.223358906,92.0,67.0,,,,,,,,,,,0,0,0,0,1,3,8,9,14,14,2,,,
+UBCV,2016,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Joss Ives;Maneezhay Hashmi;Marie Siegert;Sarah Burke,52,80.19230769,8.22010558,95.0,39.0,,,,,,,,,,,1,0,0,1,0,2,3,11,22,10,2,,,
+UBCV,2017,S,PHYS,118,,V01,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,36,77.111111111,10.457472456,95.0,58.0,,,,,,,,,,,0,0,1,5,2,3,5,2,9,4,5,,,
+UBCV,2017,S,PHYS,118,,V02,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,23,83.260869565,9.259969523,98.0,56.0,,,,,,,,,,,0,0,1,0,0,1,1,4,5,4,7,,,
+UBCV,2017,W,PHYS,109,,L0A,Enriched Experimental Physics,Connor Bevington;Joss Ives;Pranav Garg,18,83.666666667,8.260465732,92.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,1,7,6,3,,,
+UBCV,2017,W,PHYS,109,,L0B,Enriched Experimental Physics,Jennifer Moroz;Joss Ives;Nicolas Savard,18,83.333333333,10.571882797,98.0,65.0,,,,,,,,,,,0,0,0,0,1,3,1,2,2,1,8,,,
+UBCV,2017,W,PHYS,109,,L0C,Enriched Experimental Physics,Connor Bevington;Emily Tyhurst;Joss Ives,22,86.5,5.86961506,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,3,9,8,,,
+UBCV,2017,W,PHYS,117,,V01,Dynamics and Waves,Clarissa Audrey;Georg Rieger;Jonathan Massey Allard;Joss Ives;Lienong Xu;Xiruo Yan;Yazhou Wang;Zimeng Li,45,73.533333333,14.631224394,98.0,29.0,,,,,,,,,,,4,1,0,3,4,5,6,5,7,6,4,,,
+UBCV,2017,W,PHYS,117,,V02,Dynamics and Waves,Clarissa Audrey;Georg Rieger;Jonathan Massey Allard;Joss Ives;Lienong Xu;Xiruo Yan;Yazhou Wang;Zimeng Li,51,77.980392157,15.429180401,99.0,42.0,,,,,,,,,,,5,2,0,1,2,3,6,3,7,9,13,,,
+UBCV,2017,W,PHYS,119,,L1A,Experimental Physics Lab,Connor Bevington;Electra Eleftheriadou;Joss Ives;Nicolas Savard,33,85.575757576,6.235133835,94.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,2,6,12,11,,,
+UBCV,2017,W,PHYS,119,,L2A,Experimental Physics Lab,Deborah C Good;Deborah Good;Douglas Andrew Bonn;Joss Ives;Sina Maloufi,25,86.56,9.037329989,97.0,68.0,,,,,,,,,,,0,0,0,0,0,4,0,0,6,2,13,,,
+UBCV,2017,W,PHYS,119,,L2B,Experimental Physics Lab,Electra Eleftheriadou;Joss Ives;Laurel Stothers;Robin Gabriel Newhouse;Robin Newhouse,40,90.3,4.778155421,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,11,27,,,
+UBCV,2017,W,PHYS,119,,L2C,Experimental Physics Lab,Deborah C Good;Deborah Good;Gaurav Somashekar Tenkila;Joss Ives;Wyatt Reeves,38,86.052631579,8.026804313,95.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,2,9,10,15,,,
+UBCV,2017,W,PHYS,119,,L2D,Experimental Physics Lab,Douglas Andrew Bonn;Jack Hong;Joss Ives;Steffani Grondin,22,88.909090909,5.013401952,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,13,,,
+UBCV,2017,W,PHYS,119,,L2E,Experimental Physics Lab,Electra Eleftheriadou;Joss Ives;Rommel Rodrigues De Oliveira;Wyatt Reeves,41,85.609756098,9.007991032,97.0,62.0,,,,,,,,,,,0,0,0,1,1,1,4,3,3,7,21,,,
+UBCV,2017,W,PHYS,119,,L2G,Experimental Physics Lab,Emily Elizabeth Altiere;Joss Ives;Laurel Stothers;Rommel Rodrigues De Oliveira,27,93.925925926,4.287063958,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,21,,,
+UBCV,2017,W,PHYS,119,,V2A,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno,16,74.6875,13.19958964,95.0,41.0,,,,,,,,,,,1,1,0,0,1,2,2,4,3,0,2,,,
+UBCV,2017,W,PHYS,119,,V2B,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno,25,80.76,7.484873635,91.0,68.0,,,,,,,,,,,0,0,0,0,0,5,1,1,9,6,3,,,
+UBCV,2018,S,PHYS,118,,V01,"Electricity, Light and Radiation",Carina Graf;Eleni Marina Marina Lykiardopoulou;Georg Rieger;Joss Ives;Kathryn Crowter;Tao Fang;Wyatt Reeves,24,85.833333333,9.332815721,97.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,0,5,4,11,,,
+UBCV,2018,S,PHYS,118,,V02,"Electricity, Light and Radiation",Carina Graf;Eleni Marina Marina Lykiardopoulou;Georg Rieger;Joss Ives;Kathryn Crowter;Tao Fang;Wyatt Reeves,9,79.444444444,9.275116052,90.0,59.0,,,,,,,,,,,0,0,1,0,0,0,1,1,4,0,2,,,
+UBCV,2018,W,PHYS,109,,L0A,Enriched Experimental Physics,Douglas Bryman;Jacobus Philip Haupt;Joss Ives;Zoe Gidden;Zoe Louise Gidden,22,85.090909091,5.672902095,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,10,4,7,,,
+UBCV,2018,W,PHYS,109,,L0B,Enriched Experimental Physics,Austin De St Croix;Douglas Bryman;Grace Ng;Joss Ives,10,81.1,13.609228895,91.0,46.0,,,,,,,,,,,1,0,0,0,0,0,1,1,0,5,2,,,
+UBCV,2018,W,PHYS,109,,L0C,Enriched Experimental Physics,Derek Fujimoto;Douglas Bryman;Joss Ives;Samantha Cibere,13,88.846153846,2.609155478,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,7,,,
+UBCV,2018,W,PHYS,109,,L0D,Enriched Experimental Physics,Austin De St Croix;Douglas Bryman;Helena Kanya Winata;Helena Winata;Joss Ives,9,83.0,5.5,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,1,2,,,
+UBCV,2018,W,PHYS,119,,L2B,Experimental Physics Lab,Abhilash Javaji;Douglas Andrew Bonn;Gustavo Alejandro Loachamin Ordonez;Joss Ives,37,88.243243243,5.559803181,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,7,19,,,
+UBCV,2018,W,PHYS,119,,V2A,Experimental Physics Lab,Douglas Andrew Bonn;Joss Ives;Lorne Mallin;Rommel Rodrigues De Oliveira,46,72.739130435,13.10035586,90.0,28.0,,,,,,,,,,,2,2,3,0,1,5,12,8,6,5,2,,,
+UBCV,2018,W,PHYS,119,,V2B,Experimental Physics Lab,Douglas Andrew Bonn;Joss Ives;Rommel Rodrigues De Oliveira;Yunan Xu,42,72.571428571,9.872709014,94.0,59.0,,,,,,,,,,,0,0,1,7,7,6,7,3,4,4,3,,,
+UBCV,2019,S,PHYS,118,,V01,"Electricity, Light and Radiation",Arash Mirhosseini;Georg Rieger;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Prateek Yadav,71,74.436619718,17.948921491,99.0,28.0,,,,,,,,,,,10,2,1,1,4,9,9,3,7,7,18,,,
+UBCV,2019,W,PHYS,109,,L0A,Enriched Experimental Physics,Caleb Sample;Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Joss Ives;Riley Zurrin;Valery Milner,22,90.454545455,3.097268731,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,15,,,
+UBCV,2019,W,PHYS,109,,L0B,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Gareth William Maddock Smith;Joss Ives;Valery Milner,21,88.571428571,6.144684114,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,1,14,,,
+UBCV,2019,W,PHYS,109,,L0C,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Hannah Xiao;Joss Ives;Valery Milner,7,85.142857143,5.4902511,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,2,,,
+UBCV,2020,W,PHYS,119,,L2E,Experimental Physics Lab,Caleb Sample;Carl Michal;Helena Winata;Joss Ives;Ryohei Kang Weil,38,88.815789474,5.981300876,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,9,22,,,
+UBCV,2020,W,PHYS,119,,L2M,Experimental Physics Lab,Abenezer Chane;Carl Michal;Daniella Mcarthur;Joss Ives,23,84.304347826,15.615944016,97.0,35.0,,,,,,,,,,,2,0,0,0,0,0,1,0,3,8,9,,,
+UBCV,2020,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Graham Baker;Joss Ives;Yikang Zhang,22,72.863636364,20.199706397,98.0,0.0,,,,,,,,,,,2,0,1,0,0,5,4,1,4,2,3,,,
+UBCV,2021,S,PHYS,118,,V01,"Electricity, Light and Radiation",Danny Fusco;Jordan Wilson-Gerow;Joss Ives;Marianne Moore;Shovon Biswas,72,85.375,14.484024711,99.0,0.0,,,,,,,,,,,2,1,0,0,0,3,2,9,9,14,32,,,
+UBCV,2021,S,PHYS,119,,L01,Experimental Physics Lab I,Caleb Sample;Cassidy Northway;Edward Thoeng;Helena Marie Koniar;Joss Ives,33,91.363636364,9.574765604,100.0,51.0,,,,,,,,,,,0,1,0,0,0,0,1,0,2,5,24,,,
+UBCV,2021,S,PHYS,119,,L02,Experimental Physics Lab I,Caleb Sample;Cassidy Northway;Edward Thoeng;Helena Marie Koniar;Joss Ives,34,89.676470588,6.347132916,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,4,6,21,,,
+UBCV,2021,W,PHYS,117,,V01,Dynamics and Waves,Danny Fusco;Guy Leckenby;Joss Ives;Shovon Biswas,70,74.042857143,15.778756324,98.0,38.0,,,,,,,,,,,8,0,5,3,2,11,10,5,5,6,15,,,
+UBCV,2021,W,PHYS,117,,V02,Dynamics and Waves,Guy Leckenby;Hao Jia;Joss Ives;Miho Wakai;Wucheng Zhang,41,71.146341463,21.643198673,96.0,6.0,,,,,,,,,,,8,0,3,1,2,4,4,1,5,3,10,,,
+UBCV,2021,W,PHYS,119,,L1A,Experimental Physics Lab I,Joss Ives;Ke Zou;Roberto Fedrigo;Tigris Joseph,36,86.944444444,10.056822686,100.0,56.0,,,,,,,,,,,0,0,1,0,0,3,1,1,5,8,17,,,
+UBCV,2021,W,PHYS,119,,L1B,Experimental Physics Lab I,Erfan Rezaie;Jenna Chisholm;Jonah Berean-Dutcher;Joss Ives,39,86.205128205,7.807484557,96.0,65.0,,,,,,,,,,,0,0,0,0,2,0,1,3,10,3,20,,,
+UBCV,2021,W,PHYS,119,,L1C,Experimental Physics Lab I,Joss Ives;Ryohei Kang Weil;Xicheng Liu,13,83.538461538,22.441090974,97.0,11.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,3,6,,,
+UBCV,2021,W,PHYS,119,,L1D,Experimental Physics Lab I,Aaron Kraft;Connor Bevington;Helena Marie Koniar;Joss Ives,38,79.789473684,19.158172196,93.0,5.0,,,,,,,,,,,3,0,0,1,0,0,1,3,10,12,8,,,
+UBCV,2021,W,PHYS,119,,L1E,Experimental Physics Lab I,Alexander James Tofini;Connor Bevington;Erfan Rezaie;Joss Ives,13,79.307692308,21.611665891,94.0,22.0,,,,,,,,,,,2,0,0,0,0,0,0,0,2,4,5,,,
+UBCV,2021,W,PHYS,119,,L1F,Experimental Physics Lab I,Aaron Kraft;Joss Ives;Ke Zou;Mariposa Casida,11,81.545454545,14.320360585,97.0,51.0,,,,,,,,,,,0,1,0,0,0,2,1,0,1,1,5,,,
+UBCV,2021,W,PHYS,119,,L2A,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Maria Novoselova;Natalia Dubljevic;Rachel Wang,33,79.424242424,23.073293955,99.0,0.0,,,,,,,,,,,3,0,0,3,0,1,0,2,4,8,12,,,
+UBCV,2021,W,PHYS,119,,L2B,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Rachel Wang;Tiantian Ke;Yue Shen,42,89.476190476,9.668248499,99.0,52.0,,,,,,,,,,,0,1,1,0,0,1,0,1,0,8,30,,,
+UBCV,2021,W,PHYS,119,,L2C,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Rachel Wang;Samantha Connolly;Tigris Joseph,43,90.837209302,6.361828999,99.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,3,9,28,,,
+UBCV,2021,W,PHYS,119,,L2D,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Rachel Wang;Rebecca Clews;Tomasz Andrzejewski,42,85.738095238,12.829195978,99.0,29.0,,,,,,,,,,,1,0,0,0,0,2,7,2,2,8,20,,,
+UBCV,2021,W,PHYS,119,,L2E,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Graham Baker;Joss Ives;Neale Wiley;Rachel Wang;Rebecca Clews;Stefan Reinsberg;Tomasz Andrzejewski,40,88.4,15.592240016,98.0,23.0,,,,,,,,,,,2,0,0,1,0,0,0,1,0,7,29,,,
+UBCV,2021,W,PHYS,119,,L2F,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Dinel Anthony;Jenna Chisholm;Jonah Berean-Dutcher;Joss Ives;Rachel Wang;Stefan Reinsberg,38,90.921052632,9.832053424,100.0,41.0,,,,,,,,,,,1,0,0,0,0,0,0,0,4,6,27,,,
+UBCV,2021,W,PHYS,119,,L2G,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Rachel Wang;Roberto Fedrigo;Yiqi Zhu,33,86.03030303,16.119640288,97.0,13.0,,,,,,,,,,,1,1,0,0,1,0,0,0,4,9,17,,,
+UBCV,2021,W,PHYS,119,,V2A,Experimental Physics Lab I,Aaron Kraft;Cassidy Northway;Joss Ives;Rachel Wang;Xicheng Liu,19,79.578947368,9.400447918,95.0,61.0,,,,,,,,,,,0,0,0,1,1,2,1,5,3,3,3,,,
+UBCV,2021,S,PHYS,118,,V01,"Electricity, Light and Radiation",Joss Ives,72,85.4,,99.0,0.0,,,,,,,,,,,,,,,,,,9,9,14,32,89.0,95.0,80.8
+UBCV,2021,S,PHYS,119,,L01,Experimental Physics Lab I,Joss Ives,33,91.4,,100.0,51.0,,,,,,,,,,,,,,,,,,,,,24,94.0,97.0,89.0
+UBCV,2021,S,PHYS,119,,L02,Experimental Physics Lab I,Joss Ives,34,89.7,,98.0,73.0,,,,,,,,,,,,,,,,,,,,6,21,91.5,94.0,86.5
+UBCV,2021,W,PHYS,117,,V01,Dynamics and Waves,Joss Ives,70,74.0,,98.0,38.0,,,,,,,,,,,8,,,,,11,10,,,6,15,73.0,87.0,66.5
+UBCV,2021,W,PHYS,117,,V02,Dynamics and Waves,Joss Ives,41,71.1,,96.0,6.0,,,,,,,,,,,8,,,,,,,,,,10,74.0,87.0,59.0
+UBCV,2021,W,PHYS,119,,L1A,Experimental Physics Lab I,Joss Ives;Ke Zou,40,85.9,,100.0,56.0,,,,,,,,,,,,,,,,,,,,,,88.5,94.3,81.0
+UBCV,2021,W,PHYS,119,,L1B,Experimental Physics Lab I,Joss Ives;Erfan Rezaie,39,86.2,,96.0,65.0,,,,,,,,,,,,,,,,,,,10,,20,90.0,93.0,81.5
+UBCV,2021,W,PHYS,119,,L1C,Experimental Physics Lab I,Joss Ives,13,83.5,,97.0,11.0,,,,,,,,,,,,,,,,,,,,,6,88.0,94.0,83.0
+UBCV,2021,W,PHYS,119,,L1D,Experimental Physics Lab I,Joss Ives,38,79.8,,93.0,5.0,,,,,,,,,,,,,,,,,,,10,12,8,85.5,89.0,81.0
+UBCV,2021,W,PHYS,119,,L1E,Experimental Physics Lab I,Joss Ives;Erfan Rezaie,13,79.3,,94.0,22.0,,,,,,,,,,,,,,,,,,,,,,87.0,91.0,82.0
+UBCV,2021,W,PHYS,119,,L1F,Experimental Physics Lab I,Joss Ives;Ke Zou,11,81.5,,97.0,51.0,,,,,,,,,,,,,,,,,,,,,,87.0,91.0,71.5
+UBCV,2021,W,PHYS,119,,L2A,Experimental Physics Lab I,Joss Ives,33,79.4,,99.0,0.0,,,,,,,,,,,,,,,,,,,,8,12,87.0,94.0,76.0
+UBCV,2021,W,PHYS,119,,L2B,Experimental Physics Lab I,Joss Ives,42,89.5,,99.0,52.0,,,,,,,,,,,,,,,,,,,,8,30,92.0,95.0,88.0
+UBCV,2021,W,PHYS,119,,L2C,Experimental Physics Lab I,Joss Ives,44,90.5,,99.0,74.0,,,,,,,,,,,,,,,,,,,,9,28,93.0,95.0,87.5
+UBCV,2021,W,PHYS,119,,L2D,Experimental Physics Lab I,Joss Ives,42,85.7,,99.0,29.0,,,,,,,,,,,,,,,,,7,,,8,20,89.0,95.0,78.3
+UBCV,2021,W,PHYS,119,,L2E,Experimental Physics Lab I,Joss Ives;Stefan Reinsberg,40,88.4,,98.0,23.0,,,,,,,,,,,,,,,,,,,,7,29,93.0,95.0,89.0
+UBCV,2021,W,PHYS,119,,L2F,Experimental Physics Lab I,Joss Ives;Stefan Reinsberg,38,90.9,,100.0,41.0,,,,,,,,,,,,,,,,,,,,6,27,93.5,96.0,88.3
+UBCV,2021,W,PHYS,119,,L2G,Experimental Physics Lab I,Joss Ives,33,86.0,,97.0,13.0,,,,,,,,,,,,,,,,,,,,9,17,90.0,95.0,85.0
+UBCV,2021,W,PHYS,119,,V2A,Experimental Physics Lab I,Joss Ives,19,79.6,,95.0,61.0,,,,,,,,,,,,,,,,,,,,,,78.0,87.0,76.0
+UBCV,2022,S,PHYS,119,,L01,Experimental Physics Lab I,Joss Ives,24,89.2,,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,8,13,90.5,94.3,85.8
+UBCV,2022,S,PHYS,119,,L02,Experimental Physics Lab I,Joss Ives,17,87.4,,97.0,54.0,,,,,,,,,,,0,1,1,0,0,0,0,1,0,2,12,91.0,93.0,89.0
+UBCV,2022,W,PHYS,117,,101,Dynamics and Waves,Joss Ives,320,79.4,,100.0,0.0,,,,,,,,,,,23,3,9,12,19,25,19,34,31,31,114,81.0,94.0,69.0
+UBCV,2022,W,PHYS,117,,102,Dynamics and Waves,Joss Ives;Stefan Reinsberg,136,81.0,,100.0,28.0,,,,,,,,,,,9,0,1,8,6,10,13,13,6,19,51,85.0,95.0,71.8
+UBCV,2022,W,PHYS,119,,L2D,Experimental Physics Lab I,Joss Ives,42,87.1,,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,1,9,11,18,88.5,91.0,83.3
+UBCV,2022,W,PHYS,119,,V2A,Experimental Physics Lab I,Joss Ives,28,81.1,,91.0,61.0,,,,,,,,,,,0,0,0,1,0,1,3,7,4,10,2,81.0,87.0,77.0
+UBCV,2022,W,PHYS,210,,101,Introduction to Computational Physics,Joss Ives,33,88.3,,100.0,38.0,,,,,,,,,,,1,0,0,0,0,3,0,2,2,5,20,93.0,96.0,87.0
+UBCV,2022,W,PHYS,210,,102,Introduction to Computational Physics,Joss Ives,50,89.8,,100.0,66.0,,,,,,,,,,,0,0,0,0,2,2,2,1,4,8,31,93.0,96.0,85.3
+UBCV,2023,S,PHYS,119,,L01,Experimental Physics Lab I,Joss Ives,26,83.3,,97.0,65.0,,,,,,,,,,,0,0,0,0,1,2,8,1,1,1,12,84.5,92.8,74.3
+UBCV,2023,S,PHYS,119,,L02,Experimental Physics Lab I,Joss Ives,35,87.1,,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,12,12,87.5,91.0,84.0
+UBCV,2023,W,PHYS,119,,L2B,Experimental Physics Lab I,Joss Ives;Alison Lister,40,80.2,,91.0,39.0,,,,,,,,,,,1,0,1,1,0,1,1,6,18,8,2,83.0,85.0,78.0
+UBCV,2023,W,PHYS,119,,V2A,Experimental Physics Lab I,Joss Ives,19,81.6,,94.0,60.0,,,,,,,,,,,0,0,0,2,1,1,1,0,2,5,5,87.0,90.0,73.0
+UBCV,2023,W,PHYS,210,,101,Introduction to Computational Physics,Joss Ives,40,90.1,,100.0,56.0,,,,,,,,,,,0,0,2,0,0,0,1,1,3,3,29,94.0,96.0,89.5
+UBCV,2023,W,PHYS,210,,102,Introduction to Computational Physics,Joss Ives,54,91.2,,98.0,62.0,,,,,,,,,,,0,0,0,1,1,0,2,1,1,5,40,94.0,95.5,91.0
+UBCV,2023,W,PHYS,229,,L2A,Intermediate Experimental Physics II,Joss Ives,40,85.3,,95.0,29.0,,,,,,,,,,,1,0,0,0,0,0,0,2,8,14,11,86.5,90.0,83.0
+UBCV,2023,W,PHYS,229,,L2B,Intermediate Experimental Physics II,Joss Ives,31,84.0,,96.0,38.0,,,,,,,,,,,1,0,1,0,0,2,0,1,5,11,10,86.0,91.0,82.0
+UBCV,2023,W,PHYS,229,,L2C,Intermediate Experimental Physics II,Joss Ives,39,85.8,,95.0,58.0,,,,,,,,,,,0,0,1,0,0,1,1,3,6,15,12,88.0,90.0,83.0
+UBCV,2023,W,SCIE,500,,101,Discipline-based Education Research Methodology,Joss Ives;Laura Lukes;Jaclyn Stewart,10,86.78,,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,4,87.0,90.0,85.0

@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,COMM,491,,201,STRATEGIC MANGMT,"Parra Perez, Alvaro",40,79.25,7.61,92,61,40,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,4,8,12,6,3,,,
+UBC,2013,W,COMM,491,,202,STRATEGIC MANGMT,"Parra Perez, Alvaro",37,79.35,8.14,93,56,37,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,9,10,7,3,,,
+UBC,2013,W,COMM,491,,203,STRATEGIC MANGMT,"Parra Perez, Alvaro",40,78.63,7.73,96,64,40,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,8,7,9,6,3,,,
+UBC,2014,W,BASM,501,,814,BUS STRATEGY,"Parra Perez, Alvaro",40,81.28,6.77,95,65,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,8,10,11,4,,,
+UBC,2014,W,COMM,491,,201,STRATEGIC MANGMT,"Parra Perez, Alvaro",41,80.07,6.42,97,66,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,12,14,3,5,,,
+UBC,2014,W,COMM,491,,202,STRATEGIC MANGMT,"Parra Perez, Alvaro",43,80.4,6.94,93,64,43,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4,15,5,7,,,
+UBC,2015,W,COMM,491,,104,STRATEGIC MANGMT,"Parra Perez, Alvaro",41,79.76,5.94,91,63,41,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,14,12,6,3,,,
+UBC,2015,W,COMM,491,,105,STRATEGIC MANGMT,"Parra Perez, Alvaro",40,79.18,7.53,90,58,40,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,4,3,15,9,2,,,
+UBC,2015,W,COMM,493,,101,STRG MNGMNT BUS,"Parra Perez, Alvaro",40,79.4,5.93,91,66,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,11,11,5,4,,,
+UBC,2016,W,COEC,491,,001,STRATEGIC MGMT,"Parra Perez, Alvaro",39,80.28,5.06,90,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,16,7,2,,,
+UBC,2016,W,COEC,491,,002,STRATEGIC MGMT,"Parra Perez, Alvaro",42,81.48,5.79,93,66,42,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,9,15,3,,,
+UBC,2016,W,COMM,491,,104,STRATEGIC MANGMT,"Parra Perez, Alvaro",43,80.47,7.75,93,53,43,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,2,5,15,11,4,,,
+UBC,2017,W,COEC,491,,001,STRATEGIC MGMT,"Parra Perez, Alvaro",23,85.35,3.77,93,77,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,8,4,,,
+UBC,2017,W,COEC,491,,002,STRATEGIC MGMT,"Parra Perez, Alvaro",27,80.15,5.15,90,68,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,13,4,1,,,
+UBC,2017,W,COMM,493,,101,STRG MNGMNT BUS,"Parra Perez, Alvaro",46,79.93,6.01,96,65,46,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,13,18,3,5,,,
+UBC,2018,W,BASM,501,,001,BUS STRATEGY,"Parra Perez, Alvaro",38,84.13,5.82,98,69,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,15,11,7,,,
+UBC,2018,W,BASM,501,,002,BUS STRATEGY,"Parra Perez, Alvaro",22,84.27,4.97,93,73,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,10,5,4,,,
+UBC,2018,W,COEC,491,,001,STRATEGIC MGMT,"Parra Perez, Alvaro",25,79.36,5.86,90,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,9,6,1,,,
+UBCV,2014,W,BASM,501,,814,Business Strategy,Alvaro Parra Perez,40,81.275,6.770931459,95.0,65.0,,,,,,,,,,,0,0,0,0,,,,8,10,11,,,,
+UBCV,2014,W,COMM,491,,201,Strategic Management,Alvaro Parra Perez,41,80.07317073,6.424135132,97.0,66.0,,,,,,,,,,,0,0,0,0,,,,12,14,,5,,,
+UBCV,2014,W,COMM,491,,202,Strategic Management,Alvaro Parra Perez,43,80.39534884,6.942414617,93.0,64.0,,,,,,,,,,,0,0,0,0,,,9,,15,5,7,,,
+UBCV,2015,W,COMM,491,,104,Strategic Management,Alvaro Parra Perez;Armaan Sidhu,41,79.756097561,5.944663522,91.0,63.0,,,,,,,,,,,0,0,0,,,,,14,12,6,,,,
+UBCV,2015,W,COMM,491,,105,Strategic Management,Alvaro Parra Perez;Armaan Sidhu,40,79.175,7.527343319,90.0,58.0,,,,,,,,,,,0,0,,,,,,,15,9,,,,
+UBCV,2015,W,COMM,493,,101,Strategic Management in Business,Alvaro Parra Perez;Armaan Sidhu,40,79.4,5.934687255,91.0,66.0,,,,,,,,,,,0,0,0,0,,,6,11,11,5,,,,
+UBCV,2016,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez,39,80.28205128,5.062497397,90.0,70.0,,,,,,,,,,,0,0,0,0,0,2,5,7,16,7,2,,,
+UBCV,2016,W,COEC,491,,002,Strategic Management,Alvaro Parra Perez,42,81.47619048,5.79418588,93.0,66.0,,,,,,,,,,,0,0,0,0,1,0,4,10,9,15,3,,,
+UBCV,2016,W,COMM,491,,104,Strategic Management,Alvaro Parra Perez;Cheng Chen,43,80.46511628,7.753183178,93.0,53.0,,,,,,,,,,,0,1,0,0,2,3,2,5,15,11,4,,,
+UBCV,2017,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez,23,85.347826087,3.77321536,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,8,4,,,
+UBCV,2017,W,COEC,491,,002,Strategic Management,Alvaro Parra Perez,27,80.148148148,5.149336803,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,6,13,4,1,,,
+UBCV,2017,W,COMM,493,,101,Strategic Management in Business,Alvaro Parra Perez;Sarah O'Brien;Xuemeng Ruan,46,79.934782609,6.01258744,96.0,65.0,,,,,,,,,,,0,0,0,0,2,0,5,13,18,3,5,,,
+UBCV,2018,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez;Perdip Atwal,38,84.131578947,5.817824673,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,2,15,11,7,,,
+UBCV,2018,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez;Perdip Atwal,22,84.272727273,4.968297765,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,10,5,4,,,
+UBCV,2018,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez;Aurora H Marstokk;Aurora Marstokk;Momcilo Deretic;Sabrina Dhalla,25,79.36,5.858611895,90.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,4,9,6,1,,,
+UBCV,2018,W,COEC,491,,002,Strategic Management,Alvaro Parra Perez;Momcilo Deretic;Terrisa Inthapanya,19,79.157894737,3.578689361,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,12,1,0,,,
+UBCV,2018,W,COMM,493,,101,Strategic Management in Business,Adam Pankratz;Alvaro Parra Perez,34,76.735294118,3.116999563,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,11,16,6,1,0,,,
+UBCV,2019,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez,17,84.294117647,5.359159284,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,5,8,2,,,
+UBCV,2019,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez,35,82.971428571,4.69972286,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,7,10,14,2,,,
+UBCV,2019,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez;Guillermo Marshall Manriquez;Laura Chen;Sabrina Dhalla;Simran Alibhai,34,86.323529412,4.733635852,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,11,12,,,
+UBCV,2020,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez;Mohammed Basil Tungekar,18,87.777777778,4.58328877,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,6,,,
+UBCV,2020,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez;Mohammed Basil Tungekar,20,87.4,4.429565738,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,6,,,
+UBCV,2020,W,COEC,294,,001,Managerial Accounting,Alvaro Parra Perez;Diane Wu;Mary Chong,44,75.340909091,10.856234265,94.0,55.0,,,,,,,,,,,0,0,2,3,6,7,3,6,6,4,7,,,
+UBCV,2021,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez;Angela Bouzanis,21,85.857142857,4.327651953,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,7,6,,,
+UBCV,2021,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez;Angela Bouzanis,21,85.523809524,6.273906659,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,2,2,11,5,,,
+UBCV,2021,W,COMM,491,,201,Strategic Management,Adam Vilio;Alvaro Parra Perez;Nikolai Boodoosingh;Peter Jiang,33,81.636363636,5.666889479,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,6,14,7,2,,,
+UBCV,2021,W,COMM,491,,202,Strategic Management,Adam Vilio;Alvaro Parra Perez;Nikolai Boodoosingh;Peter Jiang,29,80.24137931,5.968100753,92.0,65.0,,,,,,,,,,,0,0,0,0,1,0,5,7,8,7,1,,,
+UBCV,2021,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez,21,85.9,,93.0,78.0,,,,,,,,,,,,,,,,,,,6,7,6,86.0,90.0,83.0
+UBCV,2021,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez,21,85.5,,94.0,64.0,,,,,,,,,,,,,,,,,,,,11,,87.0,89.0,85.0
+UBCV,2021,W,COMM,491,,201,Strategic Management,Alvaro Parra Perez,33,81.6,,93.0,68.0,,,,,,,,,,,,,,,,,,6,14,7,,82.0,85.0,78.0
+UBCV,2021,W,COMM,491,,202,Strategic Management,Alvaro Parra Perez,29,80.2,,92.0,65.0,,,,,,,,,,,,,,,,,,7,8,7,,81.0,85.0,77.0
+UBCV,2022,W,BA,550,,BA1,Business Immersion,Mahesh Nagarajan;Alvaro Parra Perez;Sima Sajjadiani;Danielle van Jaarsveld;Rajesh Vijayaraghavan,78,80.2,,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,9,15,53,1,0,81.0,82.0,78.3
+UBCV,2022,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez,19,85.0,,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,10,1,86.0,89.0,81.5
+UBCV,2022,W,BASM,501,,822,Business Strategy,Alvaro Parra Perez,15,86.3,,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,5,4,85.0,89.0,83.5
+UBCV,2022,W,BASM,550,,MM1,Strategic Management,Alvaro Parra Perez,42,82.4,,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,6,7,12,10,6,82.0,86.0,77.3
+UBCV,2022,W,COMM,491,,201,Strategic Management,Alvaro Parra Perez,43,84.9,,95.0,51.0,,,,,,,,,,,0,1,0,0,0,0,1,4,13,12,12,85.0,90.0,81.5
+UBCV,2022,W,COMM,491,,202,Strategic Management,Alvaro Parra Perez,41,82.2,,94.0,58.0,,,,,,,,,,,0,0,1,1,0,1,4,2,15,13,4,83.0,88.0,80.0
+UBCV,2023,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez,48,82.3,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,4,10,15,12,5,82.0,85.3,79.0
+UBCV,2023,W,COMR,493,,101,Strategic Management in Business,Alvaro Parra Perez,40,84.2,,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,7,9,13,7,84.5,88.3,79.0
+UBCV,2023,W,COMR,493,,102,Strategic Management in Business,Alvaro Parra Perez,25,81.0,,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,9,5,2,5,79.0,86.0,78.0

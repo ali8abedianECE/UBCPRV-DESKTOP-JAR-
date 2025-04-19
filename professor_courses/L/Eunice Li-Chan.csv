@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,FOOD,527,A,001,SP TPS FOOD SCIE,"Li-Chan, Eunice",27,78.92,6.65,89,65,26,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,3,2,11,5,0
+UBC,2009,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",18,78,6.27,89,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,4,3,0
+UBC,2010,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",19,80.53,4.82,88,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,10,3,0
+UBC,2012,W,FOOD,500,,001,M.SC. SEMINAR,"Black, Jennifer;Li-Chan, Eunice",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",20,81.2,5.53,91,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,4,6,1
+UBC,2012,W,FOOD,600,,001,PH.D. SEMINAR,"Black, Jennifer;Li-Chan, Eunice",5,,,,,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,FOOD,500,,001,M.SC. SEMINAR,"Li-Chan, Eunice",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",23,78.43,5.54,86,63,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,10,3,5,0
+UBC,2013,W,FOOD,600,,001,PH.D. SEMINAR,"Li-Chan, Eunice",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,FOOD,500,,001,M.SC. SEMINAR,"Li-Chan, Eunice",14,,,,,0,0,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",19,79.35,6.64,88,60,17,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,4,4,0
+UBC,2014,W,FOOD,600,,001,PH.D. SEMINAR,"Li-Chan, Eunice",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,FOOD,500,,001,M.SC. SEMINAR,"Li-Chan, Eunice",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",11,78.55,7.29,90,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,1,1
+UBC,2015,W,FOOD,600,,001,PH.D. SEMINAR,"Li-Chan, Eunice",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,FOOD,500,,001,M.SC. SEMINAR,"Li-Chan, Eunice",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,FOOD,510,,001,ADVANCES FD SCI,"Li-Chan, Eunice",14,82.07,4.6,89,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,6,0
+UBC,2016,W,FOOD,600,,001,PH.D. SEMINAR,"Li-Chan, Eunice",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,HUNU,531,,003,M.SC. SEMINAR,"Black, Jennifer;Lamers, Katja Yvonne;Li-Chan, Eunice",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,HUNU,631,,001,PH.D SEMINAR,"Black, Jennifer;Lamers, Katja Yvonne;Li-Chan, Eunice",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,FOOD,500,,001,M.SC. SEMINAR,"Li-Chan, Eunice",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,FOOD,600,,001,PH.D. SEMINAR,"Li-Chan, Eunice",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,W,FOOD,510,,001,Advances in Food Science,Eunice Li-Chan,17,79.35294118,6.642111642,88.0,60.0,,,,,,,,,,,0,0,0,,,,,6,,,0
+UBCV,2015,W,FOOD,510,,001,Advances in Food Science,Eunice Li-Chan,11,78.545454545,7.285103107,90.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,
+UBCV,2016,W,FOOD,510,,001,Advances in Food Science,Eunice Li-Chan,14,82.07142857,4.598733701,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,3,6,0
+UBCV,2017,W,FOOD,510,,001,Advances in Food Science,Azita Madadi Noei;Eunice Li-Chan;Jerzy Zawistowski,11,84.090909091,6.655141553,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,3,4,2

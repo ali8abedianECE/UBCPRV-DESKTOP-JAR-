@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,APSC,172,,102,Engineering Analysis I,Behrooz Khatir;Bryn Crawford;Dean Richert;Md Arifur Rahman Khandoker;Tina Olfatbakhsh,152,67.671052632,17.624026464,97.0,19.0,25,9,11,6,10,21,16,15,12,12,15,,,
+UBCO,2018,W,APSC,173,,201,Engineering Analysis II,Dean Richert;Jonathan Holzman;Kevin Golovin;Manjot Kaur;Maryam Sadeghi;Vahid Asgharian;Xian Jin,127,70.535433071,20.296530032,100.0,6.0,12,8,14,12,1,10,15,11,9,12,23,,,
+UBCO,2018,W,APSC,173,,202,Engineering Analysis II,Anas Chaaban;Dean Richert;Jonathan Holzman;Kevin Golovin;Manjot Kaur;Maryam Sadeghi;Vahid Asgharian,129,70.589147287,20.455596882,100.0,5.0,18,3,8,6,5,14,13,17,13,12,20,,,
+UBCO,2018,W,ENGR,315,,201,Systems and Control,Abtin Djavadifar;Brandon Robertson;Dean Richert;Kashish Gupta;Mehrnoosh Afsharborji;Sepehr Zarif Mansour;Sorayya Kazemi Nojadeh,79,71.949367089,19.229983755,100.0,2.0,9,9,4,2,4,5,3,7,7,15,14,,,
+UBCO,2018,W,ENGR,480,,101,Modern Control,Dean Richert;Kashish Gupta,30,80.533333333,15.239995776,99.0,40.0,2,0,0,1,3,2,2,2,3,3,12,,,
+UBCO,2018,W,ENGR,481,,201,Mechatronics,Dean Richert;Kyle Low,50,83.24,11.059320568,98.0,42.0,1,0,0,0,2,3,3,7,10,7,17,,,
+UBCO,2019,S,ENGR,387,,001,Vibration of Mechanical Systems,Abtin Djavadifar;Dean Richert,22,80.818181818,13.336796087,100.0,55.0,0,0,1,2,0,3,2,4,0,3,7,,,
+UBCO,2019,W,APSC,172,,101,Engineering Analysis I,Behrooz Khatir;Dean Richert;Kevin Golovin;Tina Olfatbakhsh;Vahid Asgharian,298,69.546979866,16.132640677,97.0,0.0,32,13,19,20,32,32,35,29,33,30,23,,,
+UBCO,2019,W,APSC,173,,201,Engineering Analysis II,Alok Chandra;Amirhossein Zaji;Dean Richert;Manjot Kaur;Mehran Shirazi;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,147,81.115646259,14.049090551,100.0,38.0,3,3,3,11,9,9,12,8,22,23,44,,,
+UBCO,2019,W,APSC,173,,202,Engineering Analysis II,Alok Chandra;Amirhossein Zaji;Dean Richert;Kevin Golovin;Manjot Kaur;Mehran Shirazi;Sandun Tharaka Wanniarachchi;Sin Hang Cheung;Vipul Moudgil,135,73.903703704,13.316398864,100.0,38.0,2,11,3,14,12,21,12,17,12,9,22,,,
+UBCO,2019,W,APSC,177,,201,Engineering Computation and Instrumentation,Abdul Basit Zia;Dean Richert;Mahmoud Hasabel Naby;Nourhan Soliman;Richard Klukas;Sin Hang Cheung;Sorayya Kazemi Nojadeh,118,68.076271186,17.397886098,100.0,0.0,8,15,14,11,13,10,6,8,11,9,13,,,
+UBCO,2019,W,ENGR,387,,201,Vibration of Mechanical Systems,Dean Richert;Dylan Goode;Hadi Mohammadi,16,79.0625,11.561249932,97.0,56.0,0,0,1,1,0,2,1,5,1,2,3,,,
+UBCO,2019,W,ENGR,480,,101,Modern Control,Dean Richert;Kashish Gupta,58,82.75862069,12.606473337,98.0,31.0,2,0,0,2,1,2,4,2,13,14,18,,,
+UBCO,2019,W,ENGR,481,,201,Mechatronics,Dean Richert;Kyle Low,71,82.366197183,10.384383105,98.0,44.0,1,0,0,2,3,4,6,9,12,14,20,,,
+UBCO,2020,W,APSC,172,,101,Engineering Analysis I,Dean Richert;John Alan Brereton;Michael Mitchell;Sarin Raj Pokhrel;Tina Olfatbakhsh;Vahid Asgharian,180,78.166666667,15.364291475,99.0,14.0,12,4,7,6,11,14,9,15,27,25,50,,,
+UBCO,2020,W,APSC,177,,201,Engineering Computation and Instrumentation,Abdul Basit Zia;Anas Chaaban;Dean Richert;Mahmoud Hasabel Naby;Nourhan Soliman;Rafiya Hossain;Richard Klukas;Sin Hang Cheung,166,75.126506024,22.243057258,100.0,0.0,21,3,6,7,6,13,7,12,23,23,45,,,
+UBCO,2020,W,ENGR,315,,202,Systems and Control,Aria Salari;Dean Richert;Kai Neubauer;Logan Tarasoff;Ram Dershan,75,72.693333333,16.58799088,100.0,0.0,5,2,4,6,6,6,11,7,10,8,10,,,
+UBCO,2020,W,MANF,368,,001,Engineering Measurements and Instrumentation,Dean Richert;Logan Tarasoff,8,68.5,13.03840481,82.0,51.0,0,2,1,0,0,0,2,1,2,0,0,,,
+UBCO,2020,W,MANF,386,,001,Industrial Automation,Arunava Majumdar;Dean Richert,34,81.058823529,10.048190479,95.0,60.0,0,0,0,3,2,1,3,1,9,6,9,,,
+UBCO,2021,W,ENGR,481,,001,Mechatronics,Dean Richert;Nasim Hajati;Rohith Jayaraman Krishnamurthy;Saeed Moghaddam,23,84.956521739,8.905964604,100.0,64.0,0,0,0,0,1,0,2,3,3,7,7,,,
+UBCO,2021,W,MANF,368,,001,Engineering Measurements and Instrumentation,Dean Richert;Logan Tarasoff,8,79.0,8.734169353,88.0,65.0,0,0,0,0,1,1,0,1,2,3,0,,,
+UBCO,2021,W,MANF,386,,001,Industrial Automation,Amir Mehdi Soufi Enayati;Arman Rajaei;Arunava Majumdar;Dean Richert;Graeme Damberger;Solomon Thiessen,34,77.588235294,14.403529969,93.0,8.0,1,0,0,0,1,3,5,7,7,4,6,,,
+UBCO,2021,W,MANF,455,,001,Factory Planning,Aida Esmaeilidouki;Dean Richert;Rohith Jayaraman Krishnamurthy,9,86.555555556,4.85054407,93.0,78.0,0,0,0,0,0,0,0,1,1,4,3,,,
+UBCO,2021,W,MANF,486,,001,Mechatronic Systems Laboratory,Dean Richert;Ram Dershan,19,96.421052632,1.304513084,99.0,94.0,0,0,0,0,0,0,0,0,0,0,19,,,
+UBCO,2021,W,ENGR,481,,001,Mechatronics,Dean Richert,23,85.0,,100.0,64.0,,,,,,,,,,7,7,86.0,90.0,79.0
+UBCO,2021,W,MANF,368,,001,Engineering Measurements and Instrumentation,Dean Richert,8,79.0,,88.0,65.0,,,,,,,,,,,,80.0,86.5,74.8
+UBCO,2021,W,MANF,386,,001,Industrial Automation,Dean Richert,34,77.6,,93.0,8.0,,,,,,,,7,7,,6,79.0,85.0,73.3
+UBCO,2021,W,MANF,455,,001,Factory Planning,Dean Richert,9,86.6,,93.0,78.0,,,,,,,,,,,,88.0,90.0,85.0
+UBCO,2021,W,MANF,486,,001,Mechatronic Systems Laboratory,Dean Richert,19,96.4,,99.0,94.0,0,0,0,0,0,0,0,0,0,0,19,96.0,97.0,96.0
+UBCO,2022,W,ENGR,499,,101,Engineering Capstone Design Project,Kenneth Chau;Dean Richert;Sabine Weyand,264,88.6,,100.0,63.0,0,0,0,1,1,3,6,2,27,96,128,89.0,92.0,86.0
+UBCO,2022,W,MANF,386,,001,Industrial Automation,Dean Richert,53,73.1,,97.0,20.0,1,0,5,2,7,6,6,9,8,6,3,74.0,80.0,66.0
+UBCO,2022,W,MANF,455,,001,Factory Planning,Dean Richert,6,80.8,,87.0,70.0,0,0,0,0,0,1,0,0,3,2,0,81.5,84.3,80.3
+UBCO,2022,W,MANF,486,,001,Mechatronic Systems Laboratory,Dean Richert,37,84.9,,94.0,68.0,0,0,0,0,0,1,2,3,8,11,12,85.0,90.0,82.0
+UBCO,2022,W,MANF,555,,001,Factory Planning,Dean Richert,18,88.1,,97.0,76.0,0,0,0,0,0,0,0,1,1,9,7,87.0,90.8,86.0
+UBCO,2023,S,ENGR,498,O,001,Special Topics in Engineering,Dean Richert,19,93.26,,99.0,85.0,0,0,0,0,0,0,0,0,0,1,18,93.0,95.0,92.0
+UBCO,2023,W,MANF,386,,001,Industrial Automation,Dean Richert,30,75.87,,93.0,58.0,0,0,1,4,2,3,4,2,6,5,3,76.5,84.0,68.0
+UBCO,2023,W,MANF,455,,001,Factory Planning,Dean Richert,16,88.31,,97.0,73.0,0,0,0,0,0,0,1,0,1,7,7,88.0,91.0,86.75
+UBCO,2023,W,MANF,555,,001,Factory Planning,Dean Richert,18,86.28,,96.0,70.0,0,0,0,0,0,1,3,2,0,0,12,90.0,94.25,76.0

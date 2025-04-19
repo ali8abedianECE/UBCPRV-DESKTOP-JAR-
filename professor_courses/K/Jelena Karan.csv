@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,DHYG,206,,001,HEAD & NECK ANAT,"Karan, Jelena",23,78.19,10.31,97,61,21,0,0,0,2,0,0,0,0,0,0,0,0,2,3,2,1,1,7,2,3,,,
+UBC,2018,W,DHYG,206,,001,HEAD & NECK ANAT,"Karan, Jelena;Kindler, Pawel;Laronde, Denise;Roberts, Clive;Vora, Siddharth",23,76.65,10.63,93,50,23,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,3,7,3,3,2,,,
+UBC,2018,W,DHYG,208,,001,ORAL HLTH SCI II,"Hatzimanolakis, Penny;Kanji, Zul;Karan, Jelena",24,79.38,4.96,88,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,12,3,0,,,
+UBCV,2017,W,DHYG,206,,001,Head & Neck Anatomy,Jelena Karan;Jelena Prelec,23,76.043478261,12.156099333,97.0,51.0,,,,,,,,,,,0,,,2,3,2,1,1,7,2,3,,,
+UBCV,2017,W,DHYG,208,,001,Oral Health Sciences II,Jelena Karan;Jelena Prelec;Ravindra Shah;Zul Kanji,23,78.695652174,6.018417057,90.0,66.0,,,,,,,,,,,0,0,0,0,1,3,3,4,8,3,1,,,
+UBCV,2017,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Diana Lin;Jelena Karan;Jelena Prelec;Zul Kanji,23,81.0,4.66125227,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,13,4,0,,,
+UBCV,2018,W,DHYG,206,,001,Head & Neck Anatomy,Clive R Roberts;Clive Roberts;Denise Laronde;Jelena Karan;Jelena Prelec;Pawel Kindler;Siddharth Vora,24,76.5,10.425720703,93.0,50.0,,,,,,,,,,,0,,,2,1,1,4,7,3,3,2,,,
+UBCV,2018,W,DHYG,208,,001,Oral Health Sciences II,Denise Laronde;Hin Chung Pau;Jelena Karan;Jelena Prelec;Penny Hatzimanolakis;Zul Kanji,24,79.375,4.959071617,88.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,4,12,3,0,,,
+UBCV,2018,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Batoul Shariati;Carrie Krekoski;Denise Laronde;Diana Lin;Hin Chung Pau;Jelena Karan;Jelena Prelec;Lari Hakkinen;Penny Hatzimanolakis;Ravindra Shah;Zul Kanji,24,78.791666667,3.476369504,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,8,9,1,0,,,
+UBCV,2019,W,DHYG,206,,001,Head & Neck Anatomy,Charles Shuler;Clive Roberts;Denise Laronde;Jelena Karan;Mary Macdougall;Pawel Kindler;Siddharth Vora,23,80.913043478,9.967734508,97.0,61.0,,,,,,,,,,,0,0,0,1,2,2,1,4,4,3,6,,,
+UBCV,2019,W,DHYG,208,,001,Oral Health Sciences II,Carrie Krekoski;Eli Whitney;Jelena Karan;Lari Hakkinen;Penny Hatzimanolakis;Rae Mcfarlane;Ricardo Marins De Carvalho;Susan Schmitz;Zul Kanji,23,81.913043478,4.813929065,89.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,2,14,6,0,,,
+UBCV,2019,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Diana Lin;Hin Chung Pau;Jelena Karan;Lari Hakkinen;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,23,82.130434783,3.152262504,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,13,5,0,,,
+UBCV,2019,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Batoul Shariati;Diana Lin;Jelena Karan;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,22,83.409090909,3.685997841,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,14,7,0,,,
+UBCV,2020,W,DHYG,206,,001,Head & Neck Anatomy,Charles Shuler;Jelena Karan;Mary Macdougall;Pawel Kindler,25,85.56,5.424327915,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,0,5,11,6,,,
+UBCV,2020,W,DHYG,208,,001,Oral Health Sciences II,Charanpreet Dhami;Charanpreett Dhami;Eli Whitney;Gayathri Murthy;Jelena Karan;Penny Hatzimanolakis;Ricardo Marins De Carvalho;Susan Schmitz;Zul Kanji,25,82.08,4.182503238,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,15,4,1,,,
+UBCV,2020,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Charanpreet Dhami;Charanpreett Dhami;Diana Lin;Jelena Karan;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,24,84.208333333,3.270143816,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,13,7,2,,,
+UBCV,2020,W,DHYG,461,,002,Literature Review I,Jelena Karan;Penny Hatzimanolakis,23,81.695652174,13.455092928,95.0,30.0,,,,,,,,,,,1,0,0,0,0,2,1,4,4,6,5,,,
+UBCV,2020,W,DHYG,461,,99C,Literature Review I,Jelena Karan;Penny Hatzimanolakis,10,84.2,3.259175083,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,5,0,,,
+UBCV,2021,W,DHYG,208,,001,Oral Health Sciences II,Charanpreet Dhami;Penny Hatzimanolakis;Jelena Karan;Ricardo Marins De Carvalho;Gayathri Murthy;Susan Schmitz;Eli Whitney,23,80.7,,90.0,67.0,,,,,,,,,,,,,,,,,,,11,,,81.0,83.5,77.5
+UBCV,2021,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Charanpreet Dhami;Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,23,82.8,,89.0,74.0,,,,,,,,,,,,,,,,,,,13,6,,84.0,84.5,81.0
+UBCV,2021,W,DHYG,461,,002,Literature Review I,Charanpreet Dhami;Jelena Karan,25,83.2,,96.0,70.0,,,,,,,,,,,,,,,,,,,6,,6,83.0,89.0,78.0
+UBCV,2022,W,DHYG,206,,001,Head & Neck Anatomy,Jelena Karan;Pawel Kindler;Mary MacDougall;Charles Shuler,23,74.9,,93.0,60.0,,,,,,,,,,,0,0,0,4,2,3,4,1,4,2,3,74.0,82.0,66.5
+UBCV,2022,W,DHYG,208,,001,Oral Health Sciences II,Penny Hatzimanolakis;Jelena Karan;Ricardo Marins de Carvalho;Gayathri Murthy;Susan Schmitz;Eli Whitney,22,77.0,,87.0,65.0,,,,,,,,,,,0,0,0,0,2,2,5,6,5,2,0,78.0,80.8,74.0
+UBCV,2022,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,21,80.2,,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,7,8,4,0,80.0,84.0,78.0
+UBCV,2022,W,DHYG,461,,002,Literature Review I,Jelena Karan,23,82.2,,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,5,7,4,4,83.0,88.0,78.0
+UBCV,2023,W,DHYG,206,,001,Head & Neck Anatomy,Jelena Karan;Pawel Kindler;Andrea Krüsi,21,77.55,,95.0,49.0,,,,,,,,,,,2,0,0,1,2,1,2,1,4,4,3,80.5,89.0,67.5
+UBCV,2023,W,DHYG,208,,001,Oral Health Sciences II,Charanpreet Dhami;Jelena Karan;Gayathri Murthy;Susan Schmitz;Eli Whitney,21,81.25,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,6,6,4,1,81.5,84.25,78.0
+UBCV,2023,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Zul Kanji;Jelena Karan;Carrie Krekoski;Diana Lin;Susan Schmitz,21,77.65,,87.0,0.0,,,,,,,,,,,1,0,0,0,0,0,2,3,7,7,0,81.0,85.25,78.75
+UBCV,2023,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Charanpreet Dhami;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji;Jelena Karan;Diana Lin;Susan Schmitz,23,85.0,,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,6,4,83.0,88.5,82.0
+UBCV,2023,W,DHYG,461,,002,Critical Appraisal and Professional Writing in Quantitative Research,Jelena Karan;Batoul Shariati,21,86.62,,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,4,8,7,87.0,91.0,84.0

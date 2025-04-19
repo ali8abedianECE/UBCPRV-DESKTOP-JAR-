@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,MGMT,419,N,001,Special Topics in Management,David Koslowsky,46,82.23913044,4.336843617,87.0,64.0,0,0,0,0,,,,5,15,24,0
+UBCO,2014,W,MGMT,435,,101,Risk Management,David Koslowsky,72,81.47222222,6.545554824,93.0,60.0,0,0,0,,,,7,9,25,15,12
+UBCO,2014,W,MGMT,436,,101,Investments,David Koslowsky,69,81.08695652,9.241433442,95.0,55.0,0,0,,,,,10,5,10,20,15
+UBCO,2014,W,MGMT,439,E,001,Special Topics in Finance,David Koslowsky,70,80.04285714,7.445328687,95.0,61.0,0,0,0,,,,11,5,22,15,8
+UBCO,2015,W,MGMT,419,N,001,Special Topics in Management,David Koslowsky;Haleh Barmaki,53,83.490566038,3.467556452,89.0,72.0,0,0,0,0,0,0,1,6,20,26,0
+UBCO,2015,W,MGMT,435,,101,Risk Management,David Koslowsky;Haleh Barmaki,58,83.051724138,5.151809131,94.0,73.0,0,0,0,0,0,0,4,7,23,15,9
+UBCO,2015,W,MGMT,436,,101,Investments,David Koslowsky;John D Henderson;John Henderson,71,83.549295775,4.976483935,93.0,73.0,0,0,0,0,0,0,5,10,17,31,8

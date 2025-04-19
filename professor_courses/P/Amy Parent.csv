@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,EDUC,440,,104,ABRG EDUC CANADA,"Parent, Amy",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,EDST,591,,93A,INDIG EPIST&CURR,"Parent, Amy",16,90.31,2.27,94,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,,,
+UBC,2015,S,EDUC,440,,923,ABRG EDUC CANADA,"Kerr, Jeannie;Parent, Amy",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,EDUC,440,,951,ABRG EDUC CANADA,"Parent, Amy",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,S,EDST,591,,93A,Indigenous Epistemology and Curriculum,Amy Parent,16,90.3125,2.272113554,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,10,,,
+UBCV,2021,W,EDST,545,,021,Indigenous Inquiry and Research,Amy Parent;Cash Ahenakew,17,93.176470588,3.762234943,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,14,,,
+UBCV,2021,W,EDST,565,A,021,Special Course in Subject Matter Field,Amy Parent,9,92.777777778,4.352521619,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,W,EDST,545,,021,Indigenous Inquiry and Research,Amy Parent,17,93.2,,97.0,83.0,,,,,,,,,,,,,,,,,,,,,14,94.0,96.0,92.0
+UBCV,2021,W,EDST,565,A,021,Special Course in Subject Matter Field,Amy Parent,9,93.3,,98.0,85.0,,,,,,,,,,,,,,,,,,,,,8,93.0,96.0,92.0
+UBCV,2022,S,EDST,565,E,941,Special Course in Subject Matter Field,Amy Parent,10,94.8,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,95.0,96.8,94.0

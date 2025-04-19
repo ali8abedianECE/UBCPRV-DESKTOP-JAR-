@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CPSC,404,,101,Advanced Relational Databases,Chenliang Zhou;Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral,101,75.267326733,10.785074028,97.0,45.0,2,2,4,6,9,12,15,13,18,10,10
+UBCV,2019,W,CPSC,404,,201,Advanced Relational Databases,Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral;Xavier Dela Cruz,133,76.796992481,12.016881685,99.0,52.0,0,11,4,7,7,8,18,16,27,15,20
+UBCV,2020,S,CPSC,322,,911,Introduction to Artificial Intelligence,Arda Ege Unlu;Dujian Ding;Federico Arribas Svendsen;Mehrdad Oveisi-Fordoei;Rui Ge;Siddhesh Khandelwal;Siliang Liu;Taek Hee Kwun,91,79.868131868,9.488248628,97.0,49.0,1,2,1,1,5,5,6,13,25,22,10

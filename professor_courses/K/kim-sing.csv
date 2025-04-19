@@ -1,0 +1,87 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,PHAR,402,,001,CLERKSP 1 COMMUN,"Kassam, Rosemin;Kim-Sing, Angela;Kwong, Mona",135,79.07,9.73,95,35,132,3,0,0,0,0,0,0,3,0,3,0,2,1,4,6,8,34,49,20,8
+UBC,2005,W,PHAR,403,,001,CLERKSP 2 INSTIT,"Kassam, Rosemin;Kim-Sing, Angela;Rubner, Wayne",135,80.65,7.24,95,52,135,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,22,29,32,33,10
+UBC,2006,W,PHAR,489,,001,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",58,77.33,10.83,95,52,58,0,0,0,0,0,0,0,0,0,0,2,1,4,3,6,7,7,11,12,5
+UBC,2006,W,PHAR,489,,002,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",66,76.58,7.77,87,52,66,0,0,0,0,0,0,0,0,0,0,1,0,4,2,4,17,12,15,11,0
+UBC,2007,W,PHAR,489,,001,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",54,,,,,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHAR,489,,002,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",83,,,,,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHAR,469,,001,PRACT EXP I,"Kim-Sing, Angela",83,,,,,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHAR,469,,002,PRACT EXP I,"Kim-Sing, Angela",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHAR,469,,003,PRACT EXP I,"Kim-Sing, Angela",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PHAR,469,,004,PRACT EXP I,"Kim-Sing, Angela",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHAR,489,,001,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHAR,489,,002,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",104,,,,,0,0,0,0,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,PHAR,469,,001,PRACT EXP I,"Kim-Sing, Angela",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,PHAR,469,,002,PRACT EXP I,"Kim-Sing, Angela",43,,,,,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,PHAR,469,,003,PRACT EXP I,"Kim-Sing, Angela",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,489,,001,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",47,,,,,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,489,,002,STR PRAC EXP IV,"Kassam, Rosemin;Kim-Sing, Angela",94,,,,,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,369,,001,STRCT PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",93,,,,,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,369,,002,STRCT PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,369,,003,STRCT PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,469,,001,PRACT EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,469,,002,PRACT EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",49,,,,,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,PHAR,469,,003,PRACT EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,453,B,013,Dir Stu Phar Pra,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",11,85,0,85,85,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2011,W,PHAR,479,,001,STR PRAC EXP III,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,479,,002,STR PRAC EXP III,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",89,,,,,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,489,,001,STR PRAC EXP IV,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",55,,,,,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,489,,002,STR PRAC EXP IV,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",88,,,,,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,369,,001,INTRO PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",95,,,,,0,0,1,0,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,369,,002,INTRO PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,369,,003,INTRO PRAC EXP I,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,469,,001,PRACT EXP II,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",74,,,,,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,469,,002,PRACT EXP II,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,PHAR,469,,003,PRACT EXP II,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,269,,001,COM SRV LRNING 1,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",20,79.32,6.2,90,70,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,5,3,1
+UBC,2012,W,PHAR,479,,001,ADV PRC EXP: COM,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,479,,002,ADV PRC EXP: COM,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",96,,,,,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,489,,001,ADV PC EXP: INST,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",47,,,,,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,489,,002,ADV PC EXP: INST,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",96,,,,,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,369,,001,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",127,,,,,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,369,,002,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",57,,,,,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,369,,003,INTRO PRAC EXP I,"Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,469,,001,PRACT EXP II,"Badesha, Nindy;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",79,,,,,0,0,1,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,469,,002,PRACT EXP II,"Badesha, Nindy;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,PHAR,469,,003,PRACT EXP II,"Badesha, Nindy;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,269,,001,COM SRV LRNING 1,"Badesha, Nindy;Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",19,83.63,2.93,90,79,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,4,1
+UBC,2013,W,PHAR,479,,001,ADV PRC EXP: COM,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",44,,,,,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,479,,002,ADV PRC EXP: COM,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",96,,,,,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,489,,001,ADV PC EXP: INST,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",45,,,,,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,489,,002,ADV PC EXP: INST,"Jawanda, Jasdeep;Kim-Sing, Angela;Tchen, Paulo",96,,,,,0,0,1,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",128,,,,,0,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",52,,,,,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,469,,001,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",95,,,,,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,469,,002,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",64,,,,,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,PHAR,469,,003,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",49,,,,,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,453,E,489,DIR STDY PHAR PR,"Kim-Sing, Angela",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,479,,001,ADV PRC EXP: COM,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",79,,,,,0,0,0,0,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,479,,002,ADV PRC EXP: COM,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",121,,,,,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,489,,001,ADV PC EXP: INST,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,PHAR,489,,002,ADV PC EXP: INST,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",122,,,,,0,0,0,0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",66,,,,,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",61,,,,,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,469,,001,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory",99,,,,,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,469,,002,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory",65,,,,,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,PHAR,469,,003,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory",62,,,,,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,479,,001,ADV PRC EXP: COM,"Kim-Sing, Angela;Tchen, Paulo",86,,,,,0,0,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,479,,002,ADV PRC EXP: COM,"Kim-Sing, Angela;Tchen, Paulo",124,,,,,0,0,1,0,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,479,,003,ADV PRC EXP: COM,"Kim-Sing, Angela;Tchen, Paulo",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,489,,001,ADV PC EXP: INST,"Kim-Sing, Angela;Legal, Gregory",92,,,,,0,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,489,,002,ADV PC EXP: INST,"Kim-Sing, Angela;Legal, Gregory",124,,,,,0,0,1,0,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,489,,003,ADV PC EXP: INST,"Kim-Sing, Angela;Legal, Gregory",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,001,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",84,,,,,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,002,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",74,,,,,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,369,,003,INTRO PRAC EXP I,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",54,,,,,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,469,,001,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Mira, Aileen;Tchen, Paulo",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,469,,002,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Mira, Aileen;Tchen, Paulo",65,,,,,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHAR,469,,003,PRACT EXP II,"Dhaliwal, Neelam;Jawanda, Jasdeep;Kim-Sing, Angela;Mira, Aileen;Tchen, Paulo",60,,,,,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,001,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",84,,,,,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,002,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",68,,,,,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHRM,171,,003,INTR PRACT EXP 1,"Dhaliwal, Neelam;Eccott, Lynda;Jawanda, Jasdeep;Kim-Sing, Angela;Legal, Gregory;Tchen, Paulo",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11
+UBC,2018,W,PHRM,312,,001,MED MANAGEMENT 5,"Brady, Colleen;Carr, Roxane;Chan, Fong;Collier, Abby;Elliot, Mary;Frankel, Adam;Kim-Sing, Angela;Ladak, Ali Reza;Lalji, Fawziah;Li, Shyh-dar;Lynd, Larry;Mira, Aileen;Seto, Katherine;Soon, Judith;Wilbur, Kerry;Williams, Karla;Wong, Judy",211,80.64,5.61,93,59,211,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,24,46,73,49,7

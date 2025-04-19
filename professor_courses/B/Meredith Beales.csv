@@ -1,0 +1,80 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,WRDS,150,,04P,RSRCH&WRIT HUMAN,"Beales, Meredith",27,67.48,12.28,80,14,26,1,0,0,0,0,1,0,0,0,1,0,2,2,3,9,5,4,1,0,0,,,
+UBC,2016,W,WRDS,150,,05C,RSRCH&WRIT HUMAN,"Beales, Meredith",30,66.27,11.09,85,36,27,3,0,0,0,0,0,0,1,2,3,1,2,3,6,2,8,4,0,1,0,,,
+UBC,2016,W,WRDS,150,,07A,RSRCH&WRIT HUMAN,"Beales, Meredith",29,71.22,7.29,82,47,26,1,2,0,0,0,0,0,0,1,1,0,0,2,5,4,5,8,2,0,0,,,
+UBC,2016,W,WRDS,150,,07M,RSRCH&WRIT HUMAN,"Beales, Meredith",27,67.46,10.94,84,27,25,1,1,0,0,0,0,1,0,0,1,0,3,2,7,3,7,1,2,0,0,,,
+UBC,2016,W,WRDS,150,,08A,RSRCH&WRIT HUMAN,"Beales, Meredith",30,69.03,7.59,80,54,30,0,0,0,0,0,0,0,0,0,0,1,3,5,1,6,7,6,1,0,0,,,
+UBC,2016,W,WRDS,150,,12N,RSRCH&WRIT HUMAN,"Beales, Meredith",28,65.46,18.52,80,0,24,4,0,0,0,1,0,1,2,0,4,0,0,0,3,7,7,6,1,0,0,,,
+UBC,2017,W,WRDS,150,,04A,RSRCH&WRIT HUMAN,"Beales, Meredith",30,72.2,5.89,82,60,30,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,10,5,3,0,0,,,
+UBC,2017,W,WRDS,150,,05Q,RSRCH&WRIT HUMAN,"Beales, Meredith",29,61.14,22.08,82,0,24,5,0,0,0,2,1,1,0,1,5,0,1,1,6,6,5,3,2,0,0,,,
+UBC,2017,W,WRDS,150,,06B,RSRCH&WRIT HUMAN,"Beales, Meredith",29,65.24,15.52,83,0,28,1,0,0,0,1,0,0,0,0,1,3,2,4,6,3,3,4,3,0,0,,,
+UBC,2017,W,WRDS,150,,06Q,RSRCH&WRIT HUMAN,"Beales, Meredith",27,68.73,8.56,83,49,25,1,1,0,0,0,0,0,0,1,1,2,1,1,6,5,5,2,3,0,0,,,
+UBC,2017,W,WRDS,150,,07A,RSRCH&WRIT HUMAN,"Beales, Meredith",30,68.14,8.15,79,46,27,2,1,0,0,0,0,0,0,2,2,1,0,3,4,7,8,4,0,0,0,,,
+UBC,2017,W,WRDS,150,,08M,RSRCH&WRIT HUMAN,"Beales, Meredith",27,68.46,9.66,82,35,25,1,1,0,0,0,0,0,1,0,1,0,3,2,3,8,4,4,1,0,0,,,
+UBC,2018,S,WRDS,150,,M02,RSRCH&WRIT HUMAN,"Beales, Meredith",27,70.89,12.2,84,27,26,1,0,0,0,0,0,1,0,0,1,1,3,0,3,3,4,3,9,0,0,,,
+UBC,2018,W,ASTU,100,,G03,CAP SEMINAR,"Beales, Meredith",21,64.85,26.65,86,9,16,4,1,0,0,1,2,1,0,0,4,0,1,0,0,1,2,4,6,2,0,,,
+UBC,2018,W,WRDS,150,,07B,RSRCH&WRIT HUMAN,"Beales, Meredith",30,70.14,13.53,85,34,24,4,2,0,0,0,0,0,2,2,4,0,0,0,2,5,5,8,3,1,0,,,
+UBC,2018,W,WRDS,150,,08A,RSRCH&WRIT HUMAN,"Beales, Meredith",30,69.77,9.87,83,45,29,1,0,0,0,0,0,0,0,1,1,1,1,5,3,5,2,7,5,0,0,,,
+UBC,2018,W,WRDS,150,,12B,RSRCH&WRIT HUMAN,"Beales, Meredith",30,72.57,10.66,84,43,29,1,0,0,0,0,0,0,0,1,1,2,2,1,2,1,5,8,8,0,0,,,
+UBC,2018,W,WRDS,150,,14P,RSRCH&WRIT HUMAN,"Beales, Meredith",25,72.25,15.23,84,6,23,1,1,0,0,1,0,0,0,0,1,0,1,0,1,2,7,5,7,0,0,,,
+UBC,2018,W,WRDS,150,,15M,RSRCH&WRIT HUMAN,"Beales, Meredith",20,73.9,9.11,85,54,20,0,0,0,0,0,0,0,0,0,0,1,2,0,0,3,3,4,6,1,0,,,
+UBCV,2016,W,WRDS,150,,04P,Research and Writing in the Humanities and Social Sciences,Meredith Beales,27,67.48148148,12.283104,80.0,14.0,,,,,,,,,,,1,0,2,2,3,9,5,4,1,0,0,,,
+UBCV,2016,W,WRDS,150,,05C,Research and Writing in the Humanities and Social Sciences,Meredith Beales,30,66.26666667,11.09499214,85.0,36.0,,,,,,,,,,,3,1,2,3,6,2,8,4,0,1,0,,,
+UBCV,2016,W,WRDS,150,,07A,Research and Writing in the Humanities and Social Sciences,Meredith Beales,27,71.22222222,7.2924267,82.0,47.0,,,,,,,,,,,1,0,0,2,5,4,5,8,2,0,0,,,
+UBCV,2016,W,WRDS,150,,07M,Research and Writing in the Humanities and Social Sciences,Meredith Beales,26,67.46153846,10.94067921,84.0,27.0,,,,,,,,,,,1,0,3,2,7,3,7,1,2,0,0,,,
+UBCV,2016,W,WRDS,150,,08A,Research and Writing in the Humanities and Social Sciences,Meredith Beales,30,69.03333333,7.590753601,80.0,54.0,,,,,,,,,,,0,1,3,5,1,6,7,6,1,0,0,,,
+UBCV,2016,W,WRDS,150,,12N,Research and Writing in the Humanities and Social Sciences,Meredith Beales,28,65.46428571,18.52422267,80.0,0.0,,,,,,,,,,,4,0,0,0,3,7,7,6,1,0,0,,,
+UBCV,2017,W,WRDS,150,,04A,Research and Writing in the Humanities and Social Sciences,Meredith Beales,30,72.2,5.886278609,82.0,60.0,,,,,,,,,,,0,0,0,3,3,6,10,5,3,0,0,,,
+UBCV,2017,W,WRDS,150,,05Q,Research and Writing in the Humanities and Social Sciences,Meredith Beales,29,61.137931034,22.078955944,82.0,0.0,,,,,,,,,,,5,0,1,1,6,6,5,3,2,0,0,,,
+UBCV,2017,W,WRDS,150,,06B,Research and Writing in the Humanities and Social Sciences,Meredith Beales,29,65.24137931,15.52338138,83.0,0.0,,,,,,,,,,,1,3,2,4,6,3,3,4,3,0,0,,,
+UBCV,2017,W,WRDS,150,,06Q,Research and Writing in the Humanities and Social Sciences,Meredith Beales,26,68.730769231,8.562979352,83.0,49.0,,,,,,,,,,,1,2,1,1,6,5,5,2,3,0,0,,,
+UBCV,2017,W,WRDS,150,,07A,Research and Writing in the Humanities and Social Sciences,Meredith Beales,29,68.137931034,8.153544969,79.0,46.0,,,,,,,,,,,2,1,0,3,4,7,8,4,0,0,0,,,
+UBCV,2017,W,WRDS,150,,08M,Research and Writing in the Humanities and Social Sciences,Meredith Beales,26,68.461538462,9.659112875,82.0,35.0,,,,,,,,,,,1,0,3,2,3,8,4,4,1,0,0,,,
+UBCV,2018,S,WRDS,150,,M02,Research and Writing in the Humanities and Social Sciences,Meredith Beales,27,70.888888889,12.20445484,84.0,27.0,,,,,,,,,,,1,1,3,0,3,3,4,3,9,0,0,,,
+UBCV,2018,W,ASTU,100,,G03,1st Year CAP Seminar,Colleen Derkatch;Linda Morra;Meredith Beales;Moberley Luger;Robert Vanwynsberghe,20,64.85,26.652293275,86.0,9.0,,,,,,,,,,,4,0,1,0,0,1,2,4,6,2,0,,,
+UBCV,2018,W,WRDS,150,,07B,Research and Writing in the Humanities and Social Sciences,Meredith Beales,28,70.142857143,13.533810297,85.0,34.0,,,,,,,,,,,4,0,0,0,2,5,5,8,3,1,0,,,
+UBCV,2018,W,WRDS,150,,08A,Research and Writing in the Humanities and Social Sciences,Meredith Beales,30,69.766666667,9.873976013,83.0,45.0,,,,,,,,,,,1,1,1,5,3,5,2,7,5,0,0,,,
+UBCV,2018,W,WRDS,150,,12B,Research and Writing in the Humanities and Social Sciences,Meredith Beales,30,72.566666667,10.659893683,84.0,43.0,,,,,,,,,,,1,2,2,1,2,1,5,8,8,0,0,,,
+UBCV,2018,W,WRDS,150,,14P,Research and Writing in the Humanities and Social Sciences,Meredith Beales,24,72.25,15.232259817,84.0,6.0,,,,,,,,,,,1,0,1,0,1,2,7,5,7,0,0,,,
+UBCV,2018,W,WRDS,150,,15M,Research and Writing in the Humanities and Social Sciences,Meredith Beales,20,73.9,9.112744113,85.0,54.0,,,,,,,,,,,0,1,2,0,0,3,3,4,6,1,0,,,
+UBCV,2019,S,WRDS,150,,512,Writing and Research in the Disciplines,Meredith Beales,27,72.333333333,6.639045344,84.0,60.0,,,,,,,,,,,0,0,0,4,4,4,4,8,3,0,0,,,
+UBCV,2019,W,ASTU,100,,I04,1st Year CAP Seminar,Emel Tastekin;Meredith Beales,21,75.428571429,13.39989339,85.0,24.0,,,,,,,,,,,1,0,0,1,1,1,1,5,10,1,0,,,
+UBCV,2019,W,ASTU,100,,I05,1st Year CAP Seminar,Emel Tastekin;Fenn Stewart;Meredith Beales;Sean Mcalister,19,69.947368421,19.460711658,85.0,22.0,,,,,,,,,,,3,0,0,0,1,0,4,4,4,3,0,,,
+UBCV,2019,W,WRDS,150,,741,Writing and Research in the Disciplines,Meredith Beales,25,71.52,20.796874765,89.0,0.0,,,,,,,,,,,2,0,1,1,1,4,1,2,10,3,0,,,
+UBCV,2019,W,WRDS,150,,941,Writing and Research in the Disciplines,Meredith Beales,26,73.0,22.655683614,88.0,0.0,,,,,,,,,,,2,0,1,0,1,2,3,3,8,6,0,,,
+UBCV,2020,S,WRDS,150,B,561,Writing and Research in the Disciplines,Meredith Beales,27,79.481481481,3.856765987,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,6,13,2,0,,,
+UBCV,2020,W,ASTU,100,,I04,1st Year CAP Seminar,Love Mbakadi;Meredith Beales,24,67.0,21.280732253,88.0,2.0,,,,,,,,,,,2,1,2,0,1,4,3,5,5,1,0,,,
+UBCV,2020,W,ASTU,100,,I05,1st Year CAP Seminar,Love Mbakadi;Meredith Beales,23,74.869565217,10.99299094,86.0,42.0,,,,,,,,,,,1,0,2,0,1,2,3,3,8,3,0,,,
+UBCV,2020,W,WRDS,150,A,451,Writing and Research in the Disciplines,Kevin Chan;Meredith Beales,22,59.909090909,24.346524326,87.0,6.0,,,,,,,,,,,6,1,1,1,2,2,2,2,3,2,0,,,
+UBCV,2020,W,WRDS,150,B,742,Writing and Research in the Disciplines,Kevin Chan;Meredith Beales,27,71.222222222,16.754639618,85.0,17.0,,,,,,,,,,,3,1,0,1,3,0,2,6,9,2,0,,,
+UBCV,2021,S,WRDS,150,B,523,Writing and Research in the Disciplines,Kevin Chan;Meredith Beales,20,79.15,5.343712488,89.0,71.0,,,,,,,,,,,0,0,0,0,0,1,5,6,4,4,0,,,
+UBCV,2021,W,ASTU,100,,I04,1st Year CAP Seminar,Anne Stewart;Emily Fedoruk;Meredith Beales,23,80.086956522,13.200940199,96.0,45.0,,,,,,,,,,,1,1,0,0,1,1,4,1,4,2,8,,,
+UBCV,2021,W,ASTU,100,,I05,1st Year CAP Seminar,Emily Fedoruk;Meredith Beales,24,79.75,12.591404936,97.0,36.0,,,,,,,,,,,1,0,0,0,1,3,2,1,5,7,4,,,
+UBCV,2021,W,WRDS,150,A,232,Writing and Research in the Disciplines,Meghan French-Smith;Meredith Beales,25,68.96,20.911480101,87.0,13.0,,,,,,,,,,,5,1,0,0,0,1,2,5,10,1,0,,,
+UBCV,2021,W,WRDS,150,A,241,Writing and Research in the Disciplines,Meghan French-Smith;Meredith Beales,24,65.958333333,21.403939432,89.0,16.0,,,,,,,,,,,5,1,0,2,2,2,1,2,5,4,0,,,
+UBCV,2021,W,WRDS,150,A,251,Writing and Research in the Disciplines,Meghan French-Smith;Meredith Beales,24,63.958333333,19.815407195,86.0,28.0,,,,,,,,,,,7,0,0,2,3,0,2,3,5,2,0,,,
+UBCV,2021,W,WRDS,150,B,655,Writing and Research in the Disciplines,Meghan French-Smith;Meredith Beales,28,71.464285714,9.31141133,82.0,45.0,,,,,,,,,,,1,1,2,0,3,4,5,6,6,0,0,,,
+UBCV,2021,W,WRDS,150,B,852,Writing and Research in the Disciplines,Meredith Beales;Samantha Belhumeur,24,75.208333333,11.941812428,85.0,28.0,,,,,,,,,,,1,0,0,1,1,2,6,3,7,3,0,,,
+UBCV,2021,S,WRDS,150,B,523,Writing and Research in the Disciplines,Meredith Beales,20,79.2,,89.0,71.0,,,,,,,,,,,,,,,,,,6,,,,79.0,84.0,74.5
+UBCV,2021,W,WRDS,150,A,232,Writing and Research in the Disciplines,Meredith Beales,25,69.0,,87.0,13.0,,,,,,,,,,,,,,,,,,,10,,,79.0,82.0,69.0
+UBCV,2021,W,WRDS,150,A,241,Writing and Research in the Disciplines,Meredith Beales,24,66.0,,89.0,16.0,,,,,,,,,,,,,,,,,,,,,,72.5,81.5,58.5
+UBCV,2021,W,WRDS,150,B,655,Writing and Research in the Disciplines,Meredith Beales,28,71.5,,82.0,45.0,,,,,,,,,,,,,,,,,,6,6,,,72.5,78.3,68.5
+UBCV,2021,W,WRDS,150,B,852,Writing and Research in the Disciplines,Meredith Beales,24,76.6,,85.0,61.0,,,,,,,,,,,,,,,,,6,,7,,,79.0,83.0,73.0
+UBCV,2021,W,WRDS,150,B,871,Writing and Research in the Disciplines,Meredith Beales,27,80.2,,88.0,57.0,,,,,,,,,,,,,,,,,,,10,10,,83.0,85.0,78.5
+UBCV,2021,W,WRDS,150,B,881,Writing and Research in the Disciplines,Meredith Beales,24,73.3,,87.0,14.0,,,,,,,,,,,,,,,,,,,7,,,78.0,83.3,70.8
+UBCV,2021,W,WRDS,150,B,891,Writing and Research in the Disciplines,Meredith Beales,28,62.7,,85.0,6.0,,,,,,,,,,,,,,,,,,6,,,,69.0,78.0,53.8
+UBCV,2022,W,WRDS,150,A,251,Writing and Research in the Disciplines,Meredith Beales,27,67.9,,88.0,0.0,,,,,,,,,,,4,2,1,0,3,1,4,4,5,3,0,74.0,81.0,61.5
+UBCV,2022,W,WRDS,150,A,360,Writing and Research in the Disciplines,Meredith Beales,26,68.2,,85.0,34.0,,,,,,,,,,,2,3,3,2,0,1,7,0,4,4,0,72.0,81.8,57.3
+UBCV,2022,W,WRDS,150,A,380,Writing and Research in the Disciplines,Meredith Beales,27,66.5,,91.0,6.0,,,,,,,,,,,5,1,0,0,2,1,2,3,9,2,2,78.0,81.5,64.5
+UBCV,2022,W,WRDS,150,A,391,Writing and Research in the Disciplines,Meredith Beales,22,55.3,,86.0,0.0,,,,,,,,,,,9,0,1,0,0,1,3,0,2,6,0,71.0,84.0,31.0
+UBCV,2022,W,WRDS,150,B,540,Writing and Research in the Disciplines,Meredith Beales,30,80.1,,90.0,25.0,,,,,,,,,,,1,0,0,0,1,2,1,2,10,12,1,83.5,85.8,80.3
+UBCV,2022,W,WRDS,150,B,550,Writing and Research in the Disciplines,Meredith Beales,26,82.5,,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,0,11,9,2,83.5,87.0,82.0
+UBCV,2022,W,WRDS,150,B,560,Writing and Research in the Disciplines,Meredith Beales,21,75.6,,90.0,4.0,,,,,,,,,,,1,1,0,1,0,1,1,2,9,4,1,81.0,84.0,76.0
+UBCV,2023,S,WRDS,150,B,514,Writing and Research in the Disciplines,Meredith Beales,30,76.7,,88.0,31.0,,,,,,,,,,,2,0,1,0,1,0,4,5,11,6,0,80.5,82.8,75.3
+UBCV,2023,W,WRDS,150,A,061,Writing and Research in the Disciplines,Meredith Beales,30,70.2,,87.0,0.0,,,,,,,,,,,7,0,0,1,1,0,1,4,8,7,0,80.0,84.0,63.0
+UBCV,2023,W,WRDS,150,A,071,Writing and Research in the Disciplines,Meredith Beales,29,70.0,,91.0,17.0,,,,,,,,,,,4,0,1,0,0,3,0,6,7,1,1,78.0,81.5,69.5
+UBCV,2023,W,WRDS,150,A,241,Writing and Research in the Disciplines,Meredith Beales,29,69.5,,87.0,6.0,,,,,,,,,,,2,0,2,4,2,2,5,3,4,4,0,72.5,80.3,62.8
+UBCV,2023,W,WRDS,150,A,251,Writing and Research in the Disciplines,Meredith Beales,30,71.9,,88.0,36.0,,,,,,,,,,,2,0,1,3,3,2,6,3,4,5,0,74.0,81.0,65.0
+UBCV,2023,W,WRDS,150,A,380,Writing and Research in the Disciplines,Meredith Beales,30,65.4,,89.0,33.0,,,,,,,,,,,6,1,2,1,1,6,2,1,5,3,0,69.0,80.0,57.5
+UBCV,2023,W,WRDS,150,A,431,Writing and Research in the Disciplines,Meredith Beales,27,61.1,,90.0,0.0,,,,,,,,,,,7,1,0,3,0,1,1,3,5,2,1,70.0,81.3,44.3
+UBCV,2023,W,WRDS,150,A,441,Writing and Research in the Disciplines,Meredith Beales,27,72.1,,88.0,43.0,,,,,,,,,,,1,1,3,1,2,4,2,3,1,7,0,72.0,85.0,64.0

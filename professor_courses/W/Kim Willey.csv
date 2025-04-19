@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,LAW,504,,99A,Property Law,Kim Willey;Michael Litchfield,15,78.0,7.0305456,87.0,63.0,0,0,0,1,0,1,5,1,4,3,0,,,
+UBCV,2022,W,LAW,504,,99A,Property Law,Kim Willey,13,80.6,,90.0,72.0,0,0,0,0,0,0,1,6,3,2,1,79.0,83.0,78.0
+UBCV,2022,W,LAW,504,,99C,Property Law,Kim Willey,7,78.7,,87.0,71.0,0,0,0,0,0,1,2,0,2,2,0,80.0,84.5,72.0
+UBCV,2023,W,LAW,504,,99A,Property Law,Kim Willey,14,76.0,,87.0,69.0,0,0,0,0,0,1,5,7,0,1,0,76.5,78.5,72.25
+UBCV,2023,W,LAW,504,,99C,Property Law,Kim Willey,16,78.2,,87.0,61.0,0,0,0,1,1,0,2,4,2,5,0,78.0,85.0,75.5

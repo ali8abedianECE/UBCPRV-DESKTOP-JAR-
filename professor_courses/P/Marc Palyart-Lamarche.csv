@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,CPSC,310,,101,INTR SFTWR ENG,"Palyart-Lamarche, Marc",160,78.69,6.78,94,53,156,0,2,0,1,0,0,0,0,0,0,1,0,4,2,14,26,36,38,32,3
+UBCV,2014,W,CPSC,310,,101,Introduction to Software Engineering,Andrew Lai;Giovanni Viviani;Kevin Tyler Stark;Li Che Hsiao;Marc Palyart-Lamarche;Nowrin Anwar Joyita;Tik Hang Cheung,158,78.48734177,7.225871196,94.0,46.0,,,,,,,,,,,,,,,2,14,26,36,39,32,3
+UBCV,2015,W,CPSC,310,,201,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Marc Palyart-Lamarche,167,80.916167665,10.938719322,99.0,33.0,,,,,,,,,,,,,,2,9,11,14,15,33,40,36

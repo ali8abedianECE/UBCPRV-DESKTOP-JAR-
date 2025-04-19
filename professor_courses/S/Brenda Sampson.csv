@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Sampson, Brenda",15,93,4.55,99,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+UBC,2017,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Sampson, Brenda",28,95.07,4.23,100,82,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,25
+UBCV,2016,S,EDCP,496,,951,Global Education and Curriculum,Brenda Sampson,15,93.0,4.551294949,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,12
+UBCV,2017,S,EDCP,496,,951,Global Education and Curriculum,Brenda Sampson,28,95.071428571,4.23327709,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,25
+UBCV,2018,S,EDCP,496,,951,Global Education and Curriculum,Brenda Sampson;Timothy Waddington,26,84.538461538,3.859852528,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,12,3

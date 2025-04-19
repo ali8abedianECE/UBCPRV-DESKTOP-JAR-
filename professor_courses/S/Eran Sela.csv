@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,PHYS,315,,101,QTNM PHYS MATRLS,"Sela, Eran",21,81,15.63,100,42,19,1,0,0,1,0,0,0,0,1,1,0,0,3,0,0,2,3,3,1,7
+UBCV,2018,W,PHYS,315,,101,Quantum Physics of Materials,Andrea Damascelli;Eran Sela,21,81.238095238,15.273849423,100.0,42.0,,,,,,,,,,,1,0,0,3,0,0,2,3,3,2,7
+UBCV,2019,W,PHYS,315,,101,Quantum Physics of Materials,Eran Sela;Joshua Folk;Stepan Fomichev,14,70.857142857,22.256743638,87.0,1.0,,,,,,,,,,,1,0,1,1,1,1,1,1,5,2,0

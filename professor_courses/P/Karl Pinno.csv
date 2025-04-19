@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2016,W,ECON,102,,001,Principles of Macroeconomics,Ayla Lovell;Erin Pederson;Karl Pinno;Marcus Drewry;Sean Alldridge;Shahrzad Pakravan;Tomasz Cykowski,117,74.0,11.96330597,100.0,22.0,3,2,4,10,13,19,14,8,25,9,10
+UBCO,2016,W,ECON,102,,002,Principles of Macroeconomics,Karl Pinno,119,70.23529412,16.46913183,100.0,0.0,7,4,7,13,15,12,15,12,15,13,6
+UBCO,2016,W,ECON,327,,001,Introduction to Empirical Economics,Karl Pinno;Thomas Palmer,54,73.11111111,12.24539446,96.0,51.0,0,1,9,6,4,5,3,8,6,8,4
+UBCO,2016,W,ECON,355,,002,International Trade,Karl Pinno,66,77.62121212,10.70408283,97.0,56.0,0,0,5,2,7,4,9,8,10,13,8
+UBCO,2016,W,ECON,391,O,001,Topics in Economics,Karl Pinno,10,73.3,27.59649736,96.0,0.0,1,0,0,0,0,2,1,1,2,1,2
+UBCO,2017,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno;Tazul Islam,33,71.181818182,18.045869585,95.0,0.0,1,2,3,6,0,2,5,2,3,5,4
+UBCO,2017,S,ECON,355,,001,International Trade,Karl Pinno;Tazul Islam,28,79.928571429,10.732189627,100.0,56.0,0,0,1,0,2,3,3,7,2,5,5
+UBCO,2017,W,ECON,102,,001,Principles of Macroeconomics,Julien Picault;Karl Pinno,145,76.951724138,10.725962165,96.0,23.0,2,1,5,8,11,11,15,27,31,24,10
+UBCO,2017,W,ECON,102,,102,Principles of Macroeconomics,Hannah Johnson;Hoang Bui;Jinze Wu;Julien Picault;Karl Pinno;Laura Fylyshtan;Tomasz Cykowski,196,65.306122449,18.898600227,100.0,0.0,20,7,33,19,16,26,17,18,19,8,13
+UBCO,2017,W,ECON,232,,101,History of Economic Thought,Karl Pinno;Peter Wylie,73,70.767123288,13.035763358,100.0,55.0,0,0,21,4,8,8,7,6,10,2,7
+UBCO,2017,W,ECON,345,,001,Money and Banking,Karl Pinno;Khan Islam,45,72.488888889,10.851523191,99.0,52.0,0,2,4,2,10,6,2,6,7,4,2
+UBCO,2017,W,ECON,355,,001,International Trade,Karl Pinno,52,71.923076923,19.249493147,100.0,9.0,6,0,6,1,3,5,2,8,7,5,9
+UBCO,2017,W,ECON,355,,101,International Trade,Karl Pinno,60,73.083333333,11.536664716,99.0,55.0,0,0,8,7,5,6,9,5,8,7,5
+UBCO,2017,W,ECON,391,O,001,Topics in Economics,Karl Pinno,40,68.475,18.62723055,100.0,18.0,3,0,9,3,5,1,6,1,3,3,6
+UBCO,2018,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno,22,69.227272727,12.791112309,93.0,41.0,1,1,2,3,3,4,2,0,3,2,1
+UBCO,2018,S,ECON,355,,001,International Trade,Karl Pinno,37,72.459459459,9.665501638,93.0,55.0,0,0,4,2,6,4,8,5,3,3,2
+UBCO,2018,W,ECON,102,,001,Principles of Macroeconomics,Anthony Boyko;Devon Rudd;Jinze Wu;Juwilliart Cox;Karl Pinno;Michael Manojlovic;Ryan Bergen;Sabreena Saeed,143,66.769230769,17.14794461,100.0,0.0,18,4,12,12,19,18,20,12,14,8,6
+UBCO,2018,W,ECON,102,,102,Principles of Macroeconomics,Karl Pinno,197,66.076142132,15.527437511,100.0,0.0,20,13,18,34,22,23,18,14,13,10,12
+UBCO,2018,W,ECON,232,,101,History of Economic Thought,Karl Pinno,58,71.24137931,16.764949176,100.0,31.0,3,6,6,5,7,3,3,2,8,7,8
+UBCO,2018,W,ECON,355,,001,International Trade,Karl Pinno,45,66.8,16.71499055,97.0,27.0,4,5,7,5,3,2,3,1,8,4,3
+UBCO,2018,W,ECON,355,,101,International Trade,Karl Pinno,57,69.315789474,19.14247138,96.0,0.0,2,9,2,5,8,6,1,3,9,6,6
+UBCO,2018,W,ECON,391,O,001,Topics in Economics,Karl Pinno,27,73.259259259,12.161074701,94.0,55.0,0,0,4,3,2,5,1,3,4,1,4
+UBCO,2019,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno,37,69.297297297,15.662880509,93.0,2.0,1,3,1,5,6,4,4,5,3,4,1
+UBCO,2019,S,ECON,355,,001,International Trade,Karl Pinno,28,72.357142857,10.870327556,93.0,50.0,0,1,2,4,1,6,4,2,4,2,2
+UBCO,2019,W,ECON,102,,102,Principles of Macroeconomics,Karl Pinno,173,74.063583815,14.385534679,98.0,0.0,4,16,4,5,13,23,16,25,24,23,20
+UBCO,2019,W,ECON,232,,001,History of Economic Thought,Braydon Neiszner;Colton Horne;Karl Pinno;Peter Wylie,75,69.906666667,11.344927826,92.0,35.0,2,2,11,4,14,8,10,10,7,5,2
+UBCO,2019,W,ECON,327,,001,Introduction to Empirical Economics,Amarpreet Kaur;Karl Pinno;Noriko Ozawa,60,69.433333333,13.220895976,95.0,32.0,2,4,8,5,9,8,3,6,7,7,1
+UBCO,2019,W,ECON,355,,001,International Trade,Karl Pinno,50,71.3,11.700776182,94.0,50.0,0,3,7,2,6,8,7,6,2,4,5
+UBCO,2019,W,ECON,355,,101,International Trade,Karl Pinno,58,79.689655172,10.540160285,100.0,51.0,0,2,0,2,2,2,11,10,11,6,12
+UBCO,2020,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno,53,69.113207547,13.086488007,96.0,25.0,2,4,5,5,8,6,7,5,4,5,2
+UBCO,2020,S,ECON,391,O,001,Topics in Economics,Karl Pinno,44,73.318181818,8.660986375,88.0,52.0,0,1,2,1,7,8,4,9,8,4,0
+UBCO,2020,W,ECON,102,,101,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Felipe Morelli Guazzelli;Jessica Grant;Julien Picault;Karl Pinno;Noriko Ozawa;Rowan Holyer;Ruben Thiemann;Sarah El Kaissi;Spencer Dean;Voole Cox;Yuanzhe Chen,280,71.903571429,14.629522421,99.0,0.0,21,6,12,26,27,27,25,48,43,27,18
+UBCO,2020,W,ECON,232,,001,History of Economic Thought,Felipe Morelli Guazzelli;Karl Pinno,73,72.438356164,9.056897772,85.0,30.0,1,1,3,7,6,10,10,22,11,2,0
+UBCO,2020,W,ECON,309,,101,Intermediate Macroeconomics II,Anthony Boyko;Karl Pinno;Noriko Ozawa;Spencer Dean,12,71.166666667,16.380883167,97.0,47.0,1,1,1,2,1,0,0,1,2,1,2
+UBCO,2020,W,ECON,327,,001,Introduction to Empirical Economics,Amarpreet Kaur;James Johnson;Karl Pinno,61,68.770491803,12.924644989,97.0,40.0,4,4,6,8,4,11,2,9,5,6,2
+UBCO,2020,W,ECON,355,,001,International Trade,Andrea Craig;Karl Pinno,58,76.465517241,11.819127402,96.0,28.0,2,0,1,2,4,6,7,10,12,8,6
+UBCO,2020,W,ECON,355,,101,International Trade,Andrea Craig;Braydon Neiszner;Karl Pinno;Noriko Ozawa;Ruben Thiemann;Spencer Dean;Yuanzhe Chen,59,80.050847458,9.874075651,97.0,57.0,0,0,1,1,7,5,6,6,11,9,13
+UBCO,2020,W,ECON,391,O,101,Topics in Economics,Karl Pinno,59,73.13559322,10.72293325,93.0,51.0,0,3,4,7,5,5,5,9,15,5,1
+UBCO,2021,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno;Mehdi Mohamadian;Noriko Ozawa;Tazul Islam,33,64.363636364,22.214604123,99.0,12.0,8,2,3,4,1,0,4,2,4,1,4

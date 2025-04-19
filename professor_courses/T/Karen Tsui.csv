@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Langford, Dolores;Li, Linda;Reid, Andrea;Tsui, Karen",78,84.27,3.26,91,75,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,36,30,6,,,
+UBC,2017,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Pearson, Neil;Reid, Andrea;Tsui, Karen",80,83.77,3.68,91,75,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,27,6,,,
+UBCV,2016,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Dolores Langford;Karen Tsui;Linda Li;Tyler Dumont,78,84.26923077,3.262032977,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,36,30,6,,,
+UBCV,2017,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Karen Tsui;Linda Li;Mary Nolan;Neil Pearson;Tyler Dumont,79,83.772151899,3.675802257,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,37,27,6,,,
+UBCV,2023,W,PHTH,565,,001,Clinical Practice VIb,David Anekwe;Tyler Dumont;Roland Fletcher;Natalie Grant;Alison Greig;Linda Li;Mary Nolan;Andrea Reid;Karen Tsui;Caitlin Williams,119,82.48,,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,23,52,35,5,83.0,85.0,80.0

@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,ENGR,335,,201,Transportation Engineering,Gordon Lovegrove;Jinglei You;Md. Nobinur Rahman,71,78.873239437,7.141287554,90.0,41.0,,,,,,9,9,,36,9,,,,
+UBCO,2015,W,ENGR,435,,001,Transportation Systems Engineering,Gordon Lovegrove;Seyed Faghihi;Seyed Farhad Faghihi,18,75.555555556,13.289634272,90.0,28.0,,,,,,,,,8,,,,,
+UBCO,2015,W,ENGR,437,,001,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,10,73.8,13.521998537,90.0,50.0,0,,,,,,,,5,,,,,
+UBCO,2016,S,ENGR,449,,001,Special Topics in Civil Engineering,Gordon Lovegrove,15,78.8,6.212889827,90.0,68.0,0,0,0,0,0,2,4,0,7,1,1,,,
+UBCO,2016,W,ENGR,305,,201,Engineering Economic Analysis,Gordon Lovegrove;Seyed Faghihi;Seyed Farhad Faghihi,270,70.87037037,9.474768482,94.0,27.0,6,1,8,39,48,44,41,32,32,14,5,,,
+UBCO,2016,W,ENGR,435,,001,Transportation Systems Engineering,Gordon Lovegrove,19,75.84210526,5.230924689,90.0,67.0,0,0,0,0,1,2,9,1,5,0,1,,,
+UBCO,2016,W,ENGR,437,,001,Railway Systems Engineering,Gordon Lovegrove,23,73.7826087,7.446515486,90.0,59.0,0,0,1,2,1,4,6,2,6,0,1,,,
+UBCO,2017,S,ENGR,449,,001,Special Topics in Civil Engineering,Gordon Lovegrove,15,81.0,5.916079783,87.0,68.0,0,0,0,0,0,1,2,1,6,5,0,,,
+UBCO,2017,W,ENGR,305,,201,Engineering Economic Analysis,Gordon Lovegrove;Seyed Faghihi;Seyed Farhad Faghihi,151,71.337748344,14.700969318,94.0,0.0,12,8,3,5,10,17,29,23,24,15,5,,,
+UBCO,2017,W,ENGR,335,,201,Transportation Engineering,Ahmed Idris;Gordon Lovegrove;Md Firoz Ovi;Zhenyuan Ma;Zhenyuan Ma Ma,56,76.696428571,7.238582591,91.0,61.0,0,0,0,3,2,8,9,10,16,7,1,,,
+UBCO,2017,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove,25,76.88,8.328265125,94.0,61.0,0,0,0,1,0,7,4,2,6,3,2,,,
+UBCO,2018,S,ENGR,498,A,001,Special Topics in Engineering,Gordon Lovegrove;Zhenyuan Ma;Zhenyuan Ma Ma,12,83.166666667,5.322906474,91.0,75.0,0,0,0,0,0,0,2,1,4,4,1,,,
+UBCO,2018,W,ENGR,305,,201,Engineering Economic Analysis,Gordon Lovegrove;Kerry Black;Kh Md Nahiduzzaman;Piyaruwan Kaluthantirige;Saeed Ahmadi,139,78.597122302,9.228751093,97.0,47.0,1,3,1,2,6,15,20,21,30,28,12,,,
+UBCO,2018,W,ENGR,335,,201,Transportation Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove,87,74.229885057,8.538151248,92.0,46.0,2,0,1,3,7,19,16,12,17,5,5,,,
+UBCO,2018,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove;Mahmudur Fatmi,15,79.8,13.299838882,91.0,37.0,1,0,0,0,0,1,1,2,5,3,2,,,
+UBCO,2018,W,ENGR,437,,101,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,14,80.857142857,6.187545094,88.0,68.0,0,0,0,0,0,1,2,2,4,5,0,,,
+UBCO,2019,W,ENGR,335,,201,Transportation Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove,108,86.851851852,6.566432359,97.0,64.0,0,0,0,0,2,1,5,6,15,36,43,,,
+UBCO,2019,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove;Mahmudur Fatmi,14,86.071428571,3.099982276,90.0,80.0,0,0,0,0,0,0,0,0,6,5,3,,,
+UBCO,2019,W,ENGR,437,,101,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,21,81.952380952,5.084055374,91.0,72.0,0,0,0,0,0,0,3,1,11,4,2,,,
+UBCO,2019,W,ENGR,537,,101,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,7,79.571428571,4.613644361,85.0,75.0,0,0,0,0,0,0,2,2,1,2,0,,,
+UBCO,2020,W,ENGR,335,,201,Transportation Engineering,Gordon Lovegrove;Muntahith Orvin;Scott Juniper,106,86.952830189,10.463889904,98.0,29.0,2,0,0,2,1,1,3,4,10,24,59,,,
+UBCO,2020,W,ENGR,435,,001,Transportation Systems Engineering,Gordon Lovegrove;Mahmudur Fatmi;Muntahith Orvin,10,82.7,7.33409087,91.0,66.0,0,0,0,0,1,0,0,1,2,5,1,,,
+UBCO,2020,W,ENGR,437,,101,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,13,79.230769231,4.456340916,86.0,70.0,0,0,0,0,0,1,1,2,8,1,0,,,
+UBCO,2020,W,ENGR,505,,101,Social Cost-Benefit Analysis in Engineering Projects,Gordon Lovegrove,6,79.0,6.356099433,90.0,73.0,0,0,0,0,0,0,2,2,1,0,1,,,
+UBCO,2021,W,ENGR,335,,201,Transportation Engineering,Elis Davanzo;Gordon Lovegrove;Muntahith Orvin;Shivam Khaddar;Suliman Gargoum,82,75.719512195,16.100973355,99.0,8.0,5,1,0,6,5,5,8,13,11,16,12,,,
+UBCO,2022,S,ENGR,505,,001,Social Cost-Benefit Analysis in Engineering Projects,Gordon Lovegrove,6,85.2,,95.0,70.0,0,0,0,0,0,1,0,0,1,1,3,88.0,90.0,81.5
+UBCO,2022,W,ENGR,335,,201,Transportation Engineering,Gordon Lovegrove,88,79.5,,90.0,40.0,2,0,0,3,1,5,10,2,40,21,4,81.0,85.0,76.8
+UBCO,2023,S,ENGR,305,,001,Engineering Economic Analysis,Gordon Lovegrove,71,83.14,,100.0,51.0,0,1,0,1,4,6,4,2,14,13,24,85.0,90.0,77.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

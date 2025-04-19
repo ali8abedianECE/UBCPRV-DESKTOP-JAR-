@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,PSYC,309,A,003,COGNTV PROCESSES,"Todd, Rebecca",118,69.6,15.4,96,10,106,8,4,0,0,0,2,1,1,4,8,6,10,13,12,9,12,12,12,10,10,,,
+UBC,2014,W,PSYC,217,,003,RSRCH MTHDS,"Todd, Rebecca",89,71.89,8.71,92,39,85,2,2,0,0,0,0,0,1,1,2,0,5,6,11,13,15,19,13,2,1,,,
+UBC,2014,W,PSYC,309,A,003,COGNTV PROCESSES,"Todd, Rebecca",155,75.77,12.94,100,31,150,2,3,0,0,0,0,0,2,0,2,0,9,14,18,22,16,12,18,14,27,,,
+UBC,2014,W,PSYC,570,,001,COG NEUROSCIENCE,"Todd, Rebecca",7,92.17,3.76,98,88,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2015,W,PSYC,309,A,003,COGNTV PROCESSES,"Todd, Rebecca",187,74.38,15.49,96,0,172,8,5,1,0,3,1,1,2,1,8,1,3,13,17,17,26,20,32,28,15,,,
+UBC,2015,W,PSYC,365,,001,COG NEUROSCIENCE,"Todd, Rebecca",92,79.17,9.29,93,56,92,0,0,0,0,0,0,0,0,0,0,0,3,3,8,4,12,14,17,18,13,,,
+UBC,2016,W,PSYC,365,,001,COG NEUROSCIENCE,"Todd, Rebecca",109,77.77,13.02,96,0,106,2,1,0,0,1,0,0,1,0,2,3,0,3,5,11,18,12,18,21,15,,,
+UBC,2017,W,PSYC,365,,001,COG NEUROSCIENCE,"Todd, Rebecca",140,75.47,14.82,96,1,131,7,2,0,0,2,0,0,1,4,7,3,4,6,10,14,10,17,33,16,18,,,
+UBC,2018,W,PSYC,365,,001,COG NEUROSCIENCE,"Todd, Rebecca",142,76.35,11.4,95,36,139,2,0,0,1,0,0,0,1,1,2,3,5,6,16,14,16,20,20,20,19,,,
+UBCV,2014,W,PSYC,217,,003,Research Methods,Rebecca Todd,87,71.88505747,8.706353317,92.0,39.0,,,,,,,,,,,,,5,6,11,13,15,19,13,,,,,
+UBCV,2014,W,PSYC,309,A,003,Cognitive Processes,Juliette Tobias-Webb;Rebecca Todd;Sophie Lanthier,152,75.76973684,12.9443385,100.0,31.0,,,,,,,,,,,2,0,9,14,18,22,16,12,18,14,27,,,
+UBCV,2014,W,PSYC,570,,001,Cognitive Neuroscience,Rebecca Todd,6,92.16666667,3.763863264,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,PSYC,309,A,003,Cognitive Processes,Karen Auyeung;Kevin H Roberts;Kevin Roberts;Rebecca Todd,181,74.35359116,15.448367437,96.0,0.0,,,,,,,,,,,8,1,3,13,17,18,26,20,32,28,15,,,
+UBCV,2015,W,PSYC,365,,001,Cognitive Neuroscience,Mana Ehlers;Rebecca Todd,92,79.173913043,9.287364328,93.0,56.0,,,,,,,,,,,0,0,,,8,,12,14,17,18,13,,,
+UBCV,2016,W,PSYC,365,,001,Cognitive Neuroscience,Max Bernardo Jativa;Max Jativa;Rebecca Todd,108,77.76851852,13.01875461,96.0,0.0,,,,,,,,,,,2,3,0,3,5,11,18,12,18,21,15,,,
+UBCV,2017,W,PSYC,365,,001,Cognitive Neuroscience,Alexander Terpstra;Mana Ehlers;Rebecca Todd,138,75.471014493,14.815257488,96.0,1.0,,,,,,,,,,,7,3,4,6,10,14,10,17,33,16,18,,,
+UBCV,2018,W,PSYC,365,,001,Cognitive Neuroscience,Alexander Terpstra;Maria Joey Manaligod;Maria Manaligod;Rebecca Todd,142,76.422535211,11.38577185,95.0,36.0,,,,,,,,,,,2,3,5,6,16,14,16,19,21,21,19,,,
+UBCV,2019,W,PSYC,365,,001,Cognitive Neuroscience,Maria Manaligod;Rebecca Todd;Ryan Tomm,184,84.293478261,10.214677154,100.0,51.0,,,,,,,,,,,0,4,3,3,5,4,12,16,25,47,65,,,
+UBCV,2020,W,PSYC,365,,001,Cognitive Neuroscience,Brandon Forys;Maria Manaligod;Rebecca Todd,232,81.99137931,12.187919425,99.0,0.0,,,,,,,,,,,4,2,3,3,10,17,19,19,34,53,68,,,
+UBCV,2021,W,PSYC,365,,001,Cognitive Neuroscience,Brandon Forys;Maria Manaligod;Rebecca Todd,195,79.58974359,13.549295163,100.0,29.0,,,,,,,,,,,8,1,8,6,7,11,16,23,33,34,48,,,
+UBCV,2021,W,PSYC,365,,001,Cognitive Neuroscience,Rebecca Todd,195,79.9,,100.0,29.0,,,,,,,,,,,6,2,8,6,7,11,16,23,33,35,48,82.0,89.0,74.0
+UBCV,2022,W,PSYC,365,,001,Cognitive Neuroscience,Rebecca Todd,230,78.3,,99.0,27.0,,,,,,,,,,,8,3,8,10,12,19,25,14,41,47,43,82.0,87.8,71.0
+UBCV,2023,W,COGS,401,,001,Seminar in Cognitive Systems,Rebecca Todd,40,83.92,,95.0,1.0,,,,,,,,,,,1,0,0,0,0,0,2,1,9,15,11,87.0,90.0,83.0
+UBCV,2023,W,PSYC,365,,002,Cognitive Neuroscience,Rebecca Todd,189,80.2,,99.0,21.0,,,,,,,,,,,3,2,4,5,10,10,15,19,39,44,35,83.0,88.8,75.0

@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,MIDW,108,,002,FNDTNS MIDW PRCT,"Butska, Luba;Campbell, Kim",18,87.89,6.69,96,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,7,8,,,
+UBC,2018,W,MIDW,106,,001,RPROD ANAT PHYS,"Butska, Luba;Krebs, Claudia",20,87.65,4.58,96,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9,6,,,
+UBC,2018,W,MIDW,107,,001,PHYSICAL ASSMNT,"Butska, Luba;Vogler, Rachel",20,92.05,2.58,96,87,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,17,,,
+UBC,2018,W,MIDW,215,,001,ETHICS MTRNYCARE,"Butska, Luba",19,90,5.08,95,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,11,,,
+UBC,2018,W,MIDW,305,,001,THRY VAR PRIM CR,"Butska, Luba;Ellis, Cathryn;Simmons, Valerie",21,85.43,4.46,95,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,7,4,,,
+UBC,2018,W,MIDW,320,,001,VARNS CLIN CARE,"Butska, Luba;Ellis, Cathryn;Simmons, Valerie",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,MIDW,322,,002,MIDW PRMRY CARE,"Butska, Luba;Ellis, Cathryn",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2017,W,MIDW,108,,002,Foundations for Midwifery Practice,Kim Campbell;Luba Butska,18,87.888888889,6.685268166,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,0,7,8,,,
+UBCV,2018,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Luba Butska,20,87.65,4.579990807,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,9,6,,,
+UBCV,2018,W,MIDW,107,,001,Physical Assessment,Luba Butska;Rachel Vogler,20,92.05,2.584875035,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,17,,,
+UBCV,2018,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska,19,90.0,5.077182071,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,7,11,,,
+UBCV,2018,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Cathryn Ellis;Courtney Broten;Luba Butska;Tanya Momtazian;Valerie Simmons,21,85.428571429,4.456135417,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,8,7,4,,,
+UBCV,2019,W,MIDW,107,,001,Physical Assessment,Luba Butska;Rachel Vogler,20,88.6,3.560011827,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,9,,,
+UBCV,2019,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Cathryn Ellis;Luba Butska;Valerie Simmons,17,86.352941176,5.231409663,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,8,5,,,
+UBCV,2020,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska,18,87.777777778,4.15232827,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,6,8,,,
+UBCV,2020,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Cathryn Ellis;Luba Butska;Valerie Simmons,21,86.095238095,3.70006435,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,13,3,,,
+UBCV,2021,W,MIDW,201,,001,Clinical Skills for Midwifery Practice,Ann Lovold;Luba Butska;Valerie Simmons,19,87.894736842,3.619311427,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,8,10,,,
+UBCV,2021,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska,18,90.166666667,4.768154163,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,1,15,,,
+UBCV,2021,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Luba Butska;Michelle Turner;Valerie Simmons,18,86.611111111,5.007510699,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,4,8,,,
+UBCV,2021,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Cathryn Ellis;Lorna Mcrae;Luba Butska;Sarah Hilbert-West;Valerie Simmons,16,85.625,3.981205847,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,7,4,,,
+UBCV,2021,W,MIDW,201,,001,Clinical Skills for Midwifery Practice,Luba Butska;Ann Lovold;Valerie Simmons,19,87.9,,91.0,75.0,,,,,,,,,,,,,,,,,,,,8,10,90.0,90.0,86.5
+UBCV,2021,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska,18,90.2,,95.0,75.0,,,,,,,,,,,,,,,,,,,,,15,92.0,92.8,90.0
+UBCV,2021,W,MIDW,230,,001,Midwifery Theory for Primary Care,Luba Butska;Valerie Simmons;Michelle Turner,18,86.6,,92.0,75.0,,,,,,,,,,,,,,,,,,,,,8,88.0,90.8,83.0
+UBCV,2022,W,MIDW,201,,001,"Midwifery Theory for Antepartum, Postpartum and Newborn Care",Luba Butska;Mojgan Nadafi;Valerie Simmons,20,87.2,,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,7,10,89.0,90.0,85.8
+UBCV,2022,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska,14,88.6,,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,8,90.0,91.8,88.0
+UBCV,2022,W,MIDW,230,,001,Midwifery Theory for Primary Care,Luba Butska;Mojgan Nadafi;Valerie Simmons,18,87.2,,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,4,9,89.0,90.8,84.3
+UBCV,2023,W,MIDW,102,,001,Birth and its Meanings,Luba Butska;Allison Campbell;Cecilia Duran;Rebecca Geddes;Cecilia Jevitt;Kaveri Mayra;Kellie Thiessen;Michelle Turner,32,96.84,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,31,97.5,99.0,95.0
+UBCV,2023,W,MIDW,201,,001,"Midwifery Theory for Antepartum, Postpartum and Newborn Care",Courtney Broten;Luba Butska;Cecilia Jevitt;Mojgan Nadafi;Valerie Simmons;Kellie Thiessen,26,90.0,,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,19,90.5,91.0,88.5
+UBCV,2023,W,MIDW,215,,001,Ethics in Maternity Care,Luba Butska;Kellie Thiessen,24,91.46,,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,21,92.0,93.25,90.0
+UBCV,2023,W,MIDW,230,,001,Midwifery Theory for Primary Care,Courtney Broten;Luba Butska;Laura Mercer;Mojgan Nadafi;Valerie Simmons;Kellie Thiessen,27,87.52,,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,9,12,87.0,90.0,85.0

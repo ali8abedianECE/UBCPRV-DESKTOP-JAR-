@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,406,,201,Computational Optimization,Farbod Roosta-Khorasani;Sharan Rajesh Vaswani;Sharan Vaswani;Uri Michael Ascher,46,76.41304348,24.66177977,100.0,0.0,,,,,,,,,,6,18
+UBCV,2015,W,CPSC,340,,101,Machine Learning and Data Mining,Bobak Shahriari;Issam Hadj Laradji;Mark Schmidt;Sharan Rajesh Vaswani;Sharan Vaswani;Tian Qi Chen;Yan Zhao,151,80.198675497,10.143648172,95.0,32.0,,,,,7,10,15,16,37,28,28
+UBCV,2015,W,CPSC,540,,201,Machine Learning,Alireza Shafaei;Mark Schmidt;Reza Babanezhad Harikande;Sharan Rajesh Vaswani;Sharan Vaswani,59,90.525423729,5.74563082,100.0,73.0,0,0,0,0,0,0,,,5,19,33

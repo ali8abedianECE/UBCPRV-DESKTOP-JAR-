@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Alex May;Edward Ashton;Edward James Ashton;Ilaria Caiazzo;Jacob Aaron White;Jacob White;Jaymie Mark Matthews;Yi Liu,114,76.596491228,17.576492395,99.0,0.0,5,,,8,6,5,12,13,17,14,29
+UBCV,2016,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Edward Ashton;Edward James Ashton;Jacob Aaron White;Jacob White;Javiera Parada Torres;Linda Strubbe,97,74.54639175,14.22001276,96.0,8.0,7,2,2,4,7,9,11,13,20,15,7
+UBCV,2016,W,ASTR,102,,201,Introduction to Stars and Galaxies,Edward Ashton;Edward James Ashton;Ingrid Stairs;Javiera Parada Torres,116,73.90517241,13.83692505,93.0,0.0,4,4,7,4,4,16,18,7,23,25,4
+UBCV,2017,S,ASTR,311,,98A,Exploring the Universe: Stars and Galaxies,Christopher Mann;Edward Ashton;Ilaria Caiazzo;Jeremy Heyl;Joschua Hellemeier,74,67.013513514,24.06469206,98.0,0.0,11,0,1,7,6,10,6,9,12,6,6
+UBCV,2017,W,ASTR,102,,201,Introduction to Stars and Galaxies,Edward Ashton;Edward James Ashton;Ingrid Stairs;Javiera Parada Torres,102,68.362745098,19.482304342,95.0,0.0,12,4,10,5,6,10,8,12,16,10,9
+UBCV,2017,W,ASTR,200,,101,Frontiers of Astrophysics,Brett Gladman;Edward Ashton;Ryley Hill,87,71.908045977,18.141967397,98.0,1.0,8,3,5,3,4,9,8,13,13,14,7
+UBCV,2017,W,ASTR,300,,101,Galaxies,Edward Ashton;Edward James Ashton;Jeremy Heyl;Paul Hickson,26,74.923076923,20.380231749,94.0,4.0,2,1,1,1,0,6,0,1,1,6,7
+UBCV,2017,W,ASTR,311,,201,Exploring the Universe: Stars and Galaxies,Anna Hughes;Edward Ashton;Ilaria Caiazzo;Jeremy Heyl;Joschua Hellemeier,62,68.435483871,19.353163818,94.0,0.0,8,1,6,2,3,3,10,9,15,1,4
+UBCV,2018,W,ASTR,200,,101,Frontiers of Astrophysics,Brett Gladman;Edward Ashton,47,71.446808511,19.16383427,95.0,3.0,4,1,2,4,3,6,3,5,7,7,5
+UBCV,2018,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Edward Ashton;Edward James Ashton;Ingrid Stairs,21,75.619047619,7.97167605,90.0,63.0,0,0,0,1,2,6,1,2,5,3,1
+UBCV,2018,W,ASTR,405,,2LA,Astronomical Laboratory,Aaron Boley;Edward Ashton;Edward James Ashton;Ingrid Stairs;Jaymie Mark Matthews;Paul Hickson,19,81.315789474,9.591967887,98.0,61.0,0,0,0,1,0,1,2,4,5,3,3
+UBCV,2018,W,ASTR,407,,201,Planetary Science,Brett Gladman;Edward Ashton;Edward James Ashton,21,72.19047619,20.648532751,96.0,21.0,3,1,0,0,2,2,2,2,2,2,5
+UBCV,2019,W,ASTR,200,,101,Frontiers of Astrophysics,Edward Ashton;Ingrid Stairs,70,71.657142857,13.830113871,91.0,10.0,3,2,4,7,1,13,9,9,12,7,3
+UBCV,2019,W,ASTR,205,,201,Stars and Stellar Populations,Edward Ashton;Harvey Richer;Paul Hickson,20,89.75,5.408326913,96.0,77.0,0,0,0,0,0,0,0,2,0,5,13
+UBCV,2020,W,ASTR,200,,101,Frontiers of Astrophysics,Edward Ashton;Ingrid Stairs;Raelyn Sullivan,72,75.25,12.368462849,97.0,50.0,0,5,3,4,5,13,9,6,6,8,13
+UBCV,2020,W,ASTR,205,,201,Stars and Stellar Populations,Edward Ashton;Paul Hickson,34,76.823529412,16.319667607,98.0,7.0,1,1,1,1,1,3,5,3,9,3,6
+UBCV,2020,W,ASTR,407,,201,Planetary Science,Aaron Boley;Brett Gladman;Edward Ashton,12,77.833333333,8.983149208,94.0,66.0,0,0,0,0,1,3,1,2,3,0,2

@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHBE,344,,201,UNIT OPER I,"Hatzikiriakos, Savvas",38,83.03,8.99,100,55,37,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,3,4,11,8,8
+UBC,2002,W,CHBE,554,B,201,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",8,88.71,4.39,96,83,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2002,W,CHBE,557,C,202,FLUID DYNAMICS,"Hatzikiriakos, Savvas",6,86.5,2.43,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1
+UBC,2003,W,CHBE,554,B,201,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",6,80.83,9.56,98,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,1
+UBC,2003,W,CHBE,559,H,101,TOPICS IN CHEM E,"Hatzikiriakos, Savvas",8,85.75,2.6,90,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1
+UBC,2003,W,FREN,110,,005,INTERMED FRENCH,"BOSSAVIT, CLAIRE;O'Hagan, Michael;Savvas, Sophia",34,74.91,13.94,95,44,30,2,2,0,0,0,0,0,0,2,2,2,1,0,4,0,5,6,4,3,5
+UBC,2005,W,CHBE,554,B,101,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",8,81.38,6.95,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,1,1
+UBC,2005,W,CHBE,557,C,202,FLUID DYNAMICS,"Hatzikiriakos, Savvas",10,83.22,9.74,98,68,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0,3
+UBC,2006,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",90,62.24,13.37,91,15,77,11,2,0,0,0,1,0,2,8,11,16,12,11,10,5,9,5,3,4,2
+UBC,2007,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",92,64.47,19.14,94,0,78,14,0,0,0,3,1,3,0,7,14,9,5,7,8,11,13,8,5,8,4
+UBC,2007,W,CHBE,554,B,201,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",8,84,9.5,97,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,2
+UBC,2009,W,APSC,150,,101,ENG CASE STUDIES,"Hatzikiriakos, Savvas",219,72.95,12.11,93,3,213,5,1,0,0,2,0,0,2,1,5,10,10,11,15,25,32,44,41,24,1
+UBC,2009,W,APSC,150,,102,ENG CASE STUDIES,"Hatzikiriakos, Savvas",191,70.35,12.31,92,13,178,12,1,0,0,0,1,1,3,7,12,6,9,13,19,30,29,29,30,11,2
+UBC,2009,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas",201,66.91,16.65,88,0,178,23,0,0,0,5,2,2,3,11,23,10,9,13,18,31,25,44,19,9,0
+UBC,2009,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas",188,74.85,13.59,95,0,176,11,1,0,0,1,0,3,1,6,11,3,5,5,7,23,20,30,43,36,4
+UBC,2009,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",104,65.55,17.4,97,19,88,15,1,0,0,0,1,2,8,4,15,10,5,13,11,11,7,6,9,10,6
+UBC,2009,W,CHBE,351,,101,TRANS PHENMNA II,"Hatzikiriakos, Savvas",98,67.29,10.46,100,43,97,1,0,0,0,0,0,0,0,1,1,13,8,14,10,17,15,8,7,2,3
+UBC,2009,W,CHBE,571,,201,NON NEWT FLD BEH,"Hatzikiriakos, Savvas",11,85.22,9.65,98,70,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,4
+UBC,2010,W,APSC,150,,101,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",200,80.06,8.25,97,46,199,1,0,0,0,0,0,0,0,1,1,0,4,5,4,13,21,40,47,44,21
+UBC,2010,W,APSC,150,,102,ENG CASE STUDIES,"Al-Darbi, Muhannad;Hatzikiriakos, Savvas;Pawlik, Marek;Poursartip, Anoshiravan;Yonemitsu, Noboru",185,77.48,9.96,97,23,182,2,0,0,1,0,0,2,0,0,2,2,4,5,6,18,27,34,47,26,13
+UBC,2010,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",191,72.94,13.35,92,2,182,9,0,0,0,1,3,0,2,3,9,2,8,8,6,24,35,33,46,19,1
+UBC,2010,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",206,76.89,12.04,93,3,198,6,1,0,1,1,2,0,2,1,6,1,7,6,2,8,36,21,78,35,4
+UBC,2010,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",106,63.19,17.79,100,0,89,17,0,0,0,2,0,2,2,11,17,9,15,12,16,8,8,3,5,2,11
+UBC,2010,W,CHBE,351,,101,TRANS PHENMNA II,"Hatzikiriakos, Savvas",100,65.16,15.88,100,0,91,9,0,0,0,1,0,1,2,5,9,17,9,14,7,12,6,5,8,7,6
+UBC,2011,W,APSC,150,,101,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",198,78.26,7.45,94,42,196,1,1,0,0,0,0,0,0,1,1,1,4,3,4,16,24,32,82,24,6
+UBC,2011,W,APSC,150,,102,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",175,76.49,7.81,93,48,174,1,0,0,0,0,0,0,0,1,1,2,3,5,7,21,28,35,51,19,3
+UBC,2011,W,APSC,150,,201,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",159,72.1,10.27,91,0,154,4,1,0,0,1,0,0,2,1,4,1,4,7,14,32,35,34,21,4,2
+UBC,2011,W,APSC,150,,202,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",178,72.58,13.83,91,0,170,8,0,0,0,3,0,0,2,3,8,4,9,7,12,17,25,39,43,13,1
+UBC,2011,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",105,64.67,13.68,97,20,96,9,0,0,0,0,0,1,2,6,9,15,15,8,15,7,10,12,9,2,3
+UBC,2011,W,CHBE,351,,101,TRANS PHENMNA II,"Hatzikiriakos, Savvas",100,70.34,16.39,98,11,92,8,0,0,0,0,1,2,4,1,8,4,7,8,13,11,10,9,9,10,11
+UBC,2012,W,APSC,150,,101,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",195,77.09,8.95,92,26,191,4,0,0,0,0,0,1,0,3,4,3,2,2,9,17,25,41,63,24,5
+UBC,2012,W,APSC,150,,102,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",168,75.3,11.08,91,3,161,6,1,0,0,1,0,1,1,3,6,0,1,5,14,17,28,33,39,22,2
+UBC,2012,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",167,76.13,14.09,95,2,160,7,0,0,0,2,0,2,2,1,7,4,1,2,11,12,21,27,45,23,14
+UBC,2012,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",182,81.38,14.51,97,2,176,5,1,0,0,2,2,0,0,1,5,2,4,2,3,10,13,14,29,51,48
+UBC,2012,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",114,72.87,13.85,100,36,110,3,1,0,0,0,0,0,1,2,3,9,10,7,10,8,19,7,15,11,14
+UBC,2012,W,CHBE,351,,101,TRANS PHENMNA II,"Hatzikiriakos, Savvas",107,68.42,15.73,95,34,94,12,0,1,0,0,0,0,4,8,12,9,8,10,11,8,9,9,8,12,10
+UBC,2013,W,CHBE,251,,201,TRANS PHENMNA I,"Hatzikiriakos, Savvas",121,70.32,20.49,100,0,108,12,1,0,0,3,1,2,2,4,12,9,8,11,10,5,8,8,12,20,17
+UBC,2013,W,CHBE,554,,201,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",19,89.33,7.77,100,72,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,12
+UBC,2013,W,CHBE,559,C,101,TOPICS IN CHEM E,"Hatzikiriakos, Savvas",4,89,2.58,92,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2015,W,CHBE,346,,101,APPL THERMODY II,"Hatzikiriakos, Savvas",106,69.95,14.06,95,24,95,9,2,0,0,0,0,1,2,6,9,6,5,7,13,10,14,11,18,5,6
+UBC,2015,W,CHBE,351,,101,TRANS PHENMNA II,"Hatzikiriakos, Savvas",133,67.5,10.52,90,26,120,5,2,0,6,0,0,1,0,4,5,10,13,15,14,22,16,15,10,3,2
+UBC,2015,W,CHBE,495,,101,THS PROP: BIOTEC,"Hatzikiriakos, Savvas",4,94.75,3.3,98,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2015,W,CHBE,496,,201,THS: BIOTECH TPC,"Hatzikiriakos, Savvas",4,89,5.35,95,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2016,W,CHBE,244,,201,CHEM & BIO THRMO,"Hatzikiriakos, Savvas",214,75.21,12.27,100,15,205,7,2,0,0,0,1,1,2,3,7,1,8,8,17,25,35,37,32,23,19
+UBC,2016,W,CHBE,346,,101,APPL THERMODY II,"Hatzikiriakos, Savvas",120,72.06,14.66,99,11,114,5,1,0,0,0,1,0,2,2,5,7,10,10,12,14,10,4,19,16,12
+UBC,2016,W,CHBE,554,,101,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",12,88.25,4.47,95,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,5
+UBC,2017,W,CHBE,244,,201,CHEM & BIO THRMO,"Hatzikiriakos, Savvas",222,78.16,14.85,100,14,212,9,1,0,0,0,2,0,2,5,9,5,8,9,12,16,20,33,22,36,51
+UBC,2017,W,CHBE,344,,101,UNIT OPER I,"Hatzikiriakos, Savvas",174,85.9,9.1,100,53,174,0,0,0,0,0,0,0,0,0,0,1,2,1,3,4,12,17,29,29,76
+UBC,2017,W,CHBE,346,,101,APPL THERMODY II,"Hatzikiriakos, Savvas",120,80.69,12.07,100,46,118,2,0,0,0,0,0,0,0,2,2,0,6,5,7,7,10,12,20,18,33
+UBC,2017,W,CHBE,554,,101,MOMENT HEAT MASS,"Hatzikiriakos, Savvas",33,86.73,6.38,98,75,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,11,9
+UBC,2018,W,CHBE,244,,201,CHEM & BIO THRMO,"Hatzikiriakos, Savvas",210,70.2,13.33,100,0,194,9,0,0,7,1,0,0,2,6,9,13,11,24,21,29,26,21,22,13,14
+UBC,2018,W,CHBE,346,,101,APPL THERMODY II,"Hatzikiriakos, Savvas",139,73.41,15.62,100,18,130,6,0,0,3,0,1,0,0,5,6,8,9,16,11,14,12,11,11,12,26
+UBC,2018,W,CHBE,571,,201,NON NEWT FLD BEH,"Hatzikiriakos, Savvas",5,88,2.83,92,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2018,W,CHBE,598,,001,SEMINAR,"Hatzikiriakos, Savvas",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

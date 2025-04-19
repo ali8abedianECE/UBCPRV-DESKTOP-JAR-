@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHBE,363,,201,CHEM ENG LAB III,"Ellis, Naoko",14,79.86,12.22,88,41,13,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,5,6,0
+UBC,2003,W,CHBE,363,,201,CHEM ENG LAB III,"Ellis, Naoko",26,79.46,9.28,88,45,25,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,2,12,8,0
+UBC,2005,W,CHBE,346,,101,APPL THERMODY II,"Ellis, Naoko",65,70.82,13.55,94,30,60,5,0,0,0,0,0,0,1,4,5,4,4,5,6,6,8,8,11,5,3
+UBC,2006,W,CHBE,346,,101,APPL THERMODY II,"Ellis, Naoko",79,70.82,14.54,99,6,75,4,0,0,0,1,0,0,1,2,4,5,5,8,6,7,11,13,10,4,6
+UBC,2007,W,CHBE,346,,101,APPL THERMODY II,"Ellis, Naoko",92,71.32,10.93,95,45,89,2,1,0,0,0,0,0,0,2,2,6,6,7,13,10,16,10,8,10,3
+UBC,2009,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",115,72.26,12.39,94,45,109,6,0,0,0,0,0,0,0,6,6,4,8,11,11,14,9,19,14,7,12
+UBC,2009,W,CHBE,362,,101,CHEM ENGR LAB II,"Ellis, Naoko;Gopaluni, Bhushan",82,87.2,4.86,97,73,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,18,31,27
+UBC,2009,W,CHBE,363,,201,CHEM ENG LAB III,"Ellis, Naoko",34,83.82,3.7,91,73,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,17,1
+UBC,2010,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",116,63.9,12.67,87,29,104,12,0,0,0,0,0,1,3,8,12,13,20,13,11,11,11,12,11,2,0
+UBC,2010,W,CHBE,561,,001,PARTICLE TECH,"Bi, Xiaotao;Ellis, Naoko",5,89.5,0.71,90,89,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2010,W,CHBE,598,,001,SEMINAR,"Ellis, Naoko",62,,,,,0,0,1,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",126,65.34,12.81,94,40,118,8,0,0,0,0,0,0,0,8,8,18,20,15,16,11,6,9,11,9,3
+UBC,2011,W,CHBE,491,,101,THESIS PROPOSAL,"Ellis, Naoko",4,79.25,5.85,86,73,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+UBC,2011,W,CHBE,493,,101,THS PRPL-ENV TPC,"Ellis, Naoko",7,84.57,7.93,91,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,1
+UBC,2011,W,CHBE,495,,101,THS PROP: BIOTEC,"Ellis, Naoko",7,87.29,5.47,93,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3
+UBC,2012,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",130,72.05,12.78,92,30,124,6,0,0,0,0,0,0,1,5,6,8,9,11,7,15,15,15,22,16,6
+UBC,2012,W,CHBE,561,,001,PARTICLE TECH,"Bi, Xiaotao;Ellis, Naoko;Grace, John Ross;Taghipour, Fariborz",7,81.6,8.26,91,70,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+UBC,2012,W,CHBE,573,,201,ENV ENG&SUSTAIN,"Ellis, Naoko",12,86.92,2.87,91,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,1
+UBC,2012,W,CHBE,598,,001,SEMINAR,"Ellis, Naoko;Feng, James Jingtao",69,,,,,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",126,72.27,10.75,91,19,124,2,0,0,0,0,1,0,0,1,2,4,7,10,16,16,19,16,23,10,3
+UBC,2013,W,CHBE,573,,201,ENV ENG&SUSTAIN,"Ellis, Naoko",18,86.24,4.84,93,77,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,5
+UBC,2014,W,CHBE,344,,101,UNIT OPER I,"Ellis, Naoko",107,68.64,9.79,92,46,106,1,0,0,0,0,0,0,0,1,1,10,10,12,15,15,18,12,7,6,1
+UBC,2014,W,CHBE,573,,201,ENV ENG&SUSTAIN,"Ellis, Naoko",18,82.81,6.41,92,71,16,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,4,3
+UBC,2015,W,APSC,100,,101,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",192,82.08,5.41,93,45,190,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,11,28,78,60,10
+UBC,2015,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",193,80.28,7.53,92,41,188,4,1,0,0,0,0,0,0,4,4,1,0,0,1,7,13,30,82,52,2
+UBC,2015,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Yadav, Vikramaditya",242,80.49,5.89,90,48,237,1,3,0,1,0,0,0,0,1,1,1,0,1,3,9,23,47,79,67,7
+UBC,2015,W,APSC,100,,104,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Yadav, Vikramaditya;Yan, Joseph",198,80.37,6.91,90,32,195,2,0,0,1,0,0,0,1,1,2,1,0,1,1,7,16,35,78,49,7
+UBC,2015,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yan, Joseph;Yonemitsu, Noboru",144,78.83,9.06,94,32,141,3,0,0,0,0,0,0,2,1,3,2,0,1,3,8,14,32,43,32,6
+UBC,2015,W,APSC,101,,202,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nazhat, Yahya;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",177,78.5,8.93,94,34,171,5,1,0,0,0,0,0,2,3,5,0,0,2,4,15,24,28,52,36,10
+UBC,2015,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya",273,79.4,9.04,94,29,260,9,2,0,2,0,0,1,1,7,9,0,2,1,3,15,23,53,82,65,16
+UBC,2015,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Nakane, Jonathan;Nazhat, Yahya;Nesbit, Susan;Ostafichuk, Peter;Staub-French, Sheryl;Yadav, Vikramaditya;Yan, Joseph;Yonemitsu, Noboru",153,77.36,9.46,93,25,147,4,1,0,1,0,0,1,0,3,4,2,0,4,6,9,17,39,39,26,5
+UBC,2015,W,CHBE,561,,001,PARTICLE TECH,"Bi, Xiaotao;Ellis, Naoko;Grace, John Ross;Lim, Choon Jim;Taghipour, Fariborz",9,79,24.88,93,16,8,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,3,4
+UBC,2015,W,CHBE,598,,001,SEMINAR,"Ellis, Naoko;Lau, Anthony K",76,,,,,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,HIST,483,,201,ASIAN MIGR AMER,"Kato, Naoko",18,82.35,7.68,96,67,17,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,0,6,5,2
+UBC,2015,W,HIST,485,,101,ASIAN MIGR VAN,"Kato, Naoko",23,82.35,7.75,93,60,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,4,4,7,4
+UBC,2016,W,APSC,100,,102,INTRO TO ENG I,"Ellis, Naoko;Fernlund, Goran;Jaeger, Carol Patricia;Ostafichuk, Peter",201,80.2,9.29,96,21,196,3,1,0,1,0,0,2,0,1,3,2,0,4,5,7,17,25,63,59,14
+UBC,2016,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Nakane, Jonathan;Ostafichuk, Peter",199,78.83,8.81,97,45,196,2,1,0,0,0,0,0,0,2,2,3,5,4,4,12,25,28,52,53,10
+UBC,2016,W,APSC,101,,201,INTRO TO ENG II,"Ellis, Naoko;Jaeger, Carol Patricia;Ostafichuk, Peter;Yonemitsu, Noboru",184,73.12,10.64,92,38,172,9,2,0,1,0,0,0,2,7,9,3,6,6,15,23,32,41,26,16,4
+UBC,2016,W,APSC,101,,204,INTRO TO ENG II,"Ellis, Naoko;Jaeger, Carol Patricia;Ostafichuk, Peter;Yonemitsu, Noboru",162,72.75,11.53,96,35,152,9,1,0,0,0,0,0,3,6,9,7,5,7,8,17,30,29,29,16,4
+UBC,2016,W,APSC,366,,201,ENG FOR NONENGNR,"Ellis, Naoko;Grecu, Cristian Sorin;Green, Sheldon;Kirchen, Patrick;d'Entremont, Agnes",28,76.67,9.23,86,50,27,0,1,0,0,0,0,0,0,0,0,1,0,2,1,3,2,3,12,3,0
+UBC,2016,W,CHBE,597,,001,MASC THESIS DEV,"Ellis, Naoko;Feng, James Jingtao",9,78.44,5.2,85,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,0
+UBC,2016,W,CHBE,697,,001,PHD THESIS DEV,"Ellis, Naoko;Feng, James Jingtao",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,APSC,100,,103,INTRO TO ENG I,"Ellis, Naoko;Jaeger, Carol Patricia;Ostafichuk, Peter",179,76.98,8.93,93,42,174,3,1,0,1,0,0,0,0,3,3,2,2,4,12,15,24,29,49,28,9
+UBC,2017,W,APSC,101,,203,INTRO TO ENG II,"Ellis, Naoko;Fernlund, Goran;Ostafichuk, Peter;Yonemitsu, Noboru",198,74.24,9.47,91,33,190,7,0,0,1,0,0,0,2,5,7,1,4,7,17,23,35,38,44,18,3
+UBC,2017,W,CHBE,597,,001,MASC THESIS DEV,"Ellis, Naoko",14,82.93,6.2,95,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,3,2
+UBC,2017,W,CHBE,697,,001,PHD THESIS DEV,"Ellis, Naoko",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

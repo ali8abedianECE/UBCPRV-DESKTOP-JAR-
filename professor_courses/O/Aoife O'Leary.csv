@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,LLED,200,,V97,INTRO ACAD WRIT,"O'Leary, Aoife",12,56.58,20.07,75,0,10,2,0,0,0,1,0,0,1,0,2,0,2,3,2,2,1,0,0,0,0
+UBC,2018,W,LLED,200,,V99,INTRO ACAD WRIT,"O'Leary, Aoife",16,62.06,9.31,80,45,15,1,0,0,0,0,0,0,0,1,1,1,5,3,1,3,0,1,1,0,0
+UBC,2018,W,LLED,201,,V89,CRIT READ&WRIT,"O'Leary, Aoife",11,73.73,8,86,62,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,2,0,1,2,0
+UBC,2018,W,LLED,201,,V97,CRIT READ&WRIT,"O'Leary, Aoife",15,64,23.9,85,0,13,2,0,0,0,1,1,0,0,0,2,0,0,0,3,5,1,0,3,1,0
+UBCV,2018,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Aoife O'Leary;Sandra Zappa,12,56.583333333,20.065612073,75.0,0.0,,,,,,,,,,,2,0,2,3,2,2,1,0,0,0,0
+UBCV,2018,W,LLED,200,,V99,Introduction to Writing in Academic and Professional Registers,Aoife O'Leary;Sandra Zappa,16,62.0625,9.305688225,80.0,45.0,,,,,,,,,,,1,1,5,3,1,3,0,1,1,0,0
+UBCV,2018,W,LLED,201,,V89,Critical Reading and Writing in Academic and Professional Registers,Alfredo Ferreira;Aoife O'Leary;Sandra Zappa,11,73.727272727,8.001136283,86.0,62.0,,,,,,,,,,,0,0,0,1,0,5,2,0,1,2,0
+UBCV,2018,W,LLED,201,,V97,Critical Reading and Writing in Academic and Professional Registers,Aoife O'Leary;Sandra Zappa,15,64.0,23.904572187,85.0,0.0,,,,,,,,,,,2,0,0,0,3,5,1,0,3,1,0
+UBCV,2019,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Aoife O'Leary;Sandra Zappa,15,75.133333333,8.271005006,88.0,54.0,,,,,,,,,,,0,1,0,0,1,1,3,6,2,1,0
+UBCV,2019,W,LLED,200,,V98,Introduction to Writing in Academic and Professional Registers,Aoife O'Leary;Sandra Zappa,14,73.357142857,8.678950157,83.0,55.0,,,,,,,,,,,0,0,1,2,0,3,1,2,5,0,0

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,EDST,403,,307,EDUC KNOWL CURR,"Grain, Kari",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,ASTU,401,H,001,TPC ARTS STUDIES,"Grain, Kari",11,88.36,4.43,93,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,,,
+UBC,2017,W,EDST,401,,008,EDU SCH SOC INST,"Grain, Kari",40,,,,,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,SOCI,495,E,201,ADV STUDIES SOCI,"Grain, Kari;Greer, Kerry",11,84.27,9.12,91,59,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,6,3,,,
+UBCO,2020,S,EDUC,527,,001,"Global Education, Citizenship, and Cross-Cultural Conceptions of Teaching and Learning",Kari Grain,12,90.166666667,3.242707436,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,8,,,
+UBCO,2021,S,EDUC,527,,001,"Global Education, Citizenship, and Cross-Cultural Conceptions of Teaching and Learning",Catherine Broom;Kari Grain,24,90.833333333,1.493949148,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,20,,,
+UBCV,2017,W,ASTU,401,H,001,Special Topics in Arts Studies,Kari Grain,11,88.363636364,4.433344725,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,7,,,
+UBCV,2018,W,SOCI,495,E,201,Advanced Studies in Sociology,Kari Grain;Kerry Greer,11,84.272727273,9.122400003,91.0,59.0,,,,,,,,,,,0,0,1,0,0,0,0,1,0,6,3,,,
+UBCV,2019,W,ASTU,401,H,001,Special Topics in Arts Studies,Kari Grain,9,88.444444444,4.824704942,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,4,,,
+UBCV,2020,S,ADHE,328,,951,Institutions of Adult Education,Kari Grain,29,88.482758621,5.241460331,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,10,14,,,
+UBCV,2021,W,ADHE,328,,63A,Institutions of Adult Education,Kapil Regmi;Kari Grain,19,86.368421053,21.37550656,98.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,5,12,,,
+UBCV,2021,W,ADHE,328,,63C,Institutions of Adult Education,Jennifer Chan;Kari Grain,28,87.428571429,6.751836905,95.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,1,1,10,14,,,
+UBCV,2021,W,ADHE,328,,63D,Institutions of Adult Education,Jennifer Chan;Kari Grain,28,84.392857143,11.357292602,93.0,40.0,,,,,,,,,,,1,0,0,1,0,1,1,0,4,8,12,,,
+UBCV,2021,W,ADHE,328,,63F,Institutions of Adult Education,Kari Grain;Vicheth Sen,27,85.62962963,7.796193095,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,1,6,5,12,,,
+UBCV,2021,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean;Kari Grain,19,86.842105263,2.477973139,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,7,,,
+UBCV,2021,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean;Kari Grain,11,89.545454545,1.507556723,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCV,2021,W,ADHE,328,,63A,Institutions of Adult Education,Kari Grain,19,86.4,,98.0,0.0,,,,,,,,,,,,,,,,,,,,,12,93.0,94.0,87.0
+UBCV,2021,W,ADHE,328,,63C,Institutions of Adult Education,Kari Grain,28,87.4,,95.0,62.0,,,,,,,,,,,,,,,,,,,,10,14,89.5,90.0,87.0
+UBCV,2021,W,ADHE,328,,63D,Institutions of Adult Education,Kari Grain,28,84.4,,93.0,40.0,,,,,,,,,,,,,,,,,,,,8,12,89.0,90.3,83.5
+UBCV,2021,W,ADHE,328,,63F,Institutions of Adult Education,Kari Grain,27,85.6,,95.0,60.0,,,,,,,,,,,,,,,,,,,6,,12,88.0,91.0,81.0
+UBCV,2021,W,EDST,540,A,021,Locating Oneself in Global Learning,Kari Grain,19,86.8,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,7,85.0,90.0,85.0
+UBCV,2021,W,EDST,540,B,022,Locating Oneself in Global Learning,Kari Grain,12,89.6,,90.0,85.0,,,,,,,,,,,,,,,,,,,,,11,90.0,90.0,90.0
+UBCV,2022,S,EDST,525,,941,Program Evaluation in Adult and Community Education,Kari Grain,20,90.2,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,12,90.0,93.0,87.8
+UBCV,2022,W,ADHE,328,,63A,Institutions of Adult Education,Kari Grain,27,87.7,,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,6,9,11,87.0,91.0,84.5
+UBCV,2022,W,ADHE,328,,63D,Institutions of Adult Education,Kari Grain,26,86.6,,95.0,65.0,,,,,,,,,,,0,0,0,0,2,1,0,1,3,4,15,90.0,93.0,83.8
+UBCV,2022,W,ADHE,328,,63E,Institutions of Adult Education,Kari Grain,23,86.5,,96.0,62.0,,,,,,,,,,,0,0,0,1,0,1,0,0,3,10,8,87.0,91.5,85.0
+UBCV,2022,W,EDST,540,A,021,Locating Oneself in Global Learning,Kari Grain,15,87.0,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,6,85.0,90.0,85.0
+UBCV,2022,W,EDST,540,B,022,Locating Oneself in Global Learning,Kari Grain,17,89.1,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,14,90.0,90.0,90.0
+UBCV,2023,S,EDST,520,,941,Perspectives on Adult Education Practice,Kari Grain,14,91.29,,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,11,91.0,92.0,90.0
+UBCV,2023,W,ADHE,328,,63D,Institutions of Adult Education,Kari Grain,29,89.86,,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,9,18,90.0,93.0,88.0
+UBCV,2023,W,EDST,540,A,021,Locating Oneself in Global Learning,Kari Grain;Jingzhou Liu,16,87.81,,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,9,90.0,90.0,85.0
+UBCV,2023,W,EDST,540,B,022,Locating Oneself in Global Learning,Kari Grain,14,86.14,,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,8,5,85.0,90.0,85.0
+UBCV,2023,W,EDST,561,A,081,Practicum,Kari Grain,6,92.0,,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,91.5,92.75,91.0
+UBCV,2023,W,EDST,565,A,021,Special Course in Subject Matter Field,Kari Grain,12,90.75,,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,91.0,92.25,89.75

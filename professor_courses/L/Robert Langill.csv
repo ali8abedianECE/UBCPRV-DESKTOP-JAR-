@@ -1,0 +1,77 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,HKIN,291,,901,FNC ANT&AP PH II,"Langill, Robert",28,68.26,19.05,96,26,22,5,1,0,0,0,0,2,1,2,5,0,1,3,3,1,3,3,4,0,4,,,
+UBC,2003,W,HKIN,291,,901,FNC ANT&AP PH II,"Langill, Robert",33,72.18,15.42,91,13,31,2,0,0,0,0,1,0,0,1,2,0,2,3,2,5,5,1,6,5,2,,,
+UBC,2006,W,HKIN,463,,001,PHYSLGY EXERCISE,"Langill, Robert",110,75.22,9.5,95,39,107,1,2,0,0,0,0,0,1,0,1,3,3,4,7,17,12,21,25,8,7,,,
+UBC,2009,S,HKIN,275,,921,EXER PHYSOLGY I,"Langill, Robert",22,76.64,11.07,92,56,22,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,2,6,5,1,,,
+UBC,2009,S,HKIN,375,,921,EXER PHYSOLGY II,"Langill, Robert",44,74.68,13.6,95,50,44,0,0,0,0,0,0,0,0,0,0,4,3,4,4,3,4,4,5,4,9,,,
+UBC,2010,S,HKIN,375,,921,EXER PHYSOLGY II,"Langill, Robert",46,80.26,9.2,96,56,46,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,6,6,11,8,8,,,
+UBC,2011,S,HKIN,375,,921,EXER PHYSOLGY II,"Langill, Robert",67,75.61,12.41,94,41,65,2,0,0,0,0,0,0,0,2,2,2,3,5,3,7,8,4,13,11,9,,,
+UBCV,2014,S,KIN,375,,921,Exercise Physiology II,Robert Langill,54,81.88888889,12.63966005,96.0,40.0,,,,,,,,,,,,,,,,,,,9,8,21,,,
+UBCV,2016,S,KIN,375,,921,Exercise Physiology II,Robert Langill,53,78.30188679,11.23453622,94.0,54.0,,,,,,,,,,,0,1,2,2,5,6,2,2,12,15,5,,,
+UBCV,2016,W,KIN,191,,901,Anatomy & Physiology II,Robert Langill,63,65.25396825,21.30119507,93.0,11.0,,,,,,,,,,,17,6,1,2,4,4,2,5,5,9,8,,,
+UBCV,2016,W,KIN,191,,L1A,Anatomy & Physiology II,Robert Langill,33,71.75757576,13.29010511,90.0,40.0,,,,,,,,,,,2,1,4,2,2,6,1,3,4,6,2,,,
+UBCV,2016,W,KIN,191,,L1B,Anatomy & Physiology II,Robert Langill,33,76.03030303,11.89927742,94.0,41.0,,,,,,,,,,,2,0,1,2,0,4,4,6,6,4,4,,,
+UBCV,2016,W,KIN,191,,L1C,Anatomy & Physiology II,Robert Langill,33,74.54545455,11.94542514,90.0,50.0,,,,,,,,,,,0,2,2,4,2,3,1,3,10,2,4,,,
+UBCV,2016,W,KIN,191,,L1D,Anatomy & Physiology II,Robert Langill,32,76.25,12.68984862,93.0,44.0,,,,,,,,,,,2,0,1,2,2,2,4,2,7,6,4,,,
+UBCV,2016,W,KIN,191,,L1E,Anatomy & Physiology II,Robert Langill,28,71.42857143,13.29000898,96.0,46.0,,,,,,,,,,,1,3,1,3,2,4,5,0,4,2,3,,,
+UBCV,2016,W,KIN,191,,L1F,Anatomy & Physiology II,Robert Langill,32,66.34375,15.75540742,87.0,21.0,,,,,,,,,,,4,2,2,4,4,2,3,2,6,3,0,,,
+UBCV,2017,S,KIN,375,,921,Exercise Physiology II,Robert Langill,50,72.72,14.056794421,97.0,41.0,,,,,,,,,,,4,1,2,6,3,6,6,3,8,4,7,,,
+UBCV,2017,W,KIN,191,,901,Anatomy & Physiology II,Robert Langill,56,74.964285714,17.282638988,97.0,0.0,,,,,,,,,,,4,1,2,4,5,2,6,6,7,7,12,,,
+UBCV,2017,W,KIN,191,,L1A,Anatomy & Physiology II,Robert Langill,31,78.225806452,9.358453139,97.0,56.0,,,,,,,,,,,0,0,1,1,2,3,5,3,8,5,3,,,
+UBCV,2017,W,KIN,191,,L1B,Anatomy & Physiology II,Robert Langill,29,79.172413793,9.475792336,93.0,54.0,,,,,,,,,,,0,1,0,0,4,1,4,3,6,6,4,,,
+UBCV,2017,W,KIN,191,,L1C,Anatomy & Physiology II,Robert Langill,31,75.935483871,12.564329094,96.0,43.0,,,,,,,,,,,1,1,1,3,2,1,2,7,3,6,4,,,
+UBCV,2017,W,KIN,191,,L1D,Anatomy & Physiology II,Robert Langill,31,77.387096774,8.96912266,93.0,60.0,,,,,,,,,,,0,0,0,3,1,4,3,5,8,4,3,,,
+UBCV,2017,W,KIN,191,,L1E,Anatomy & Physiology II,Robert Langill,29,75.310344828,15.408957155,95.0,28.0,,,,,,,,,,,1,0,3,4,2,0,2,0,8,3,6,,,
+UBCV,2017,W,KIN,191,,L1F,Anatomy & Physiology II,Robert Langill,29,75.689655172,12.320434386,94.0,38.0,,,,,,,,,,,1,1,0,2,3,1,5,2,6,5,3,,,
+UBCV,2018,S,KIN,375,,921,Exercise Physiology II,Robert Langill,48,75.020833333,13.442532663,98.0,45.0,,,,,,,,,,,1,2,5,2,3,6,6,2,9,2,10,,,
+UBCV,2018,W,KIN,191,,901,Anatomy & Physiology II,Michael George Leahy;Michael Leahy;Robert Langill,51,77.941176471,12.266069892,96.0,47.0,,,,,,,,,,,1,2,1,4,2,4,4,3,13,7,10,,,
+UBCV,2018,W,KIN,191,,L1A,Anatomy & Physiology II,Gregg Eschelmuller;Gregg Ludwig Eschelmuller;Katherine Elizabeth Lienhard;Katherine Lienhard;Michael George Leahy;Michael Leahy;Robert Langill,32,78.90625,17.601978215,99.0,35.0,,,,,,,,,,,3,0,2,3,0,0,2,0,6,5,11,,,
+UBCV,2018,W,KIN,191,,L1B,Anatomy & Physiology II,Robert Langill,33,82.909090909,11.584913779,96.0,50.0,,,,,,,,,,,0,2,0,0,1,2,3,1,6,7,11,,,
+UBCV,2018,W,KIN,191,,L1C,Anatomy & Physiology II,Robert Langill,31,80.709677419,13.803848614,96.0,44.0,,,,,,,,,,,1,1,0,2,2,0,4,1,6,3,11,,,
+UBCV,2018,W,KIN,191,,L1D,Anatomy & Physiology II,Robert Langill,31,80.322580645,12.180276671,95.0,36.0,,,,,,,,,,,1,0,1,0,2,2,2,3,7,6,7,,,
+UBCV,2018,W,KIN,191,,L1E,Anatomy & Physiology II,Robert Langill,26,82.653846154,10.699317016,96.0,50.0,,,,,,,,,,,0,1,0,0,1,1,3,1,7,3,9,,,
+UBCV,2018,W,KIN,191,,L1F,Anatomy & Physiology II,Robert Langill,31,79.483870968,13.426021917,96.0,45.0,,,,,,,,,,,1,1,1,2,0,1,4,2,6,4,9,,,
+UBCV,2019,S,KIN,375,,921,Exercise Physiology II,Joshua Bovard;Joshua Maschio Bovard;Robert Langill,43,81.162790698,10.183857985,99.0,52.0,,,,,,,,,,,0,2,0,1,1,3,2,5,11,10,8,,,
+UBCV,2019,W,KIN,132,,901,Systems Physiology II,Henry Lai;Paige Alexis Reinhard;Paige Reinhard;Robert Langill,48,74.375,12.078863199,93.0,43.0,,,,,,,,,,,2,1,3,3,2,8,4,4,11,5,5,,,
+UBCV,2019,W,KIN,132,,L1A,Systems Physiology II,Robert Langill,37,82.756756757,8.779412172,96.0,69.0,,,,,,,,,,,0,0,0,0,0,4,8,3,4,6,12,,,
+UBCV,2019,W,KIN,132,,L1B,Systems Physiology II,Robert Langill,35,85.2,11.674003295,97.0,42.0,,,,,,,,,,,1,0,1,0,1,1,1,2,4,9,15,,,
+UBCV,2019,W,KIN,132,,L1C,Systems Physiology II,Robert Langill,36,83.833333333,8.729261137,97.0,60.0,,,,,,,,,,,0,0,0,1,1,2,2,0,10,9,11,,,
+UBCV,2019,W,KIN,132,,L1D,Systems Physiology II,Robert Langill,36,82.277777778,8.872464986,96.0,54.0,,,,,,,,,,,0,1,0,1,0,1,4,6,5,10,8,,,
+UBCV,2019,W,KIN,132,,L1E,Systems Physiology II,Robert Langill,15,78.0,11.655777231,92.0,50.0,,,,,,,,,,,0,1,0,1,0,2,1,3,2,2,3,,,
+UBCV,2019,W,KIN,132,,L1F,Systems Physiology II,Robert Langill,30,75.566666667,14.366347971,91.0,20.0,,,,,,,,,,,1,1,0,1,4,4,1,2,7,7,2,,,
+UBCV,2020,W,KIN,132,,901,Systems Physiology II,Andrea Bundon;Robert Langill;Sobhan Mardan-Dezfouli,63,86.968253968,7.745900589,98.0,56.0,,,,,,,,,,,0,0,2,0,0,0,3,0,12,16,30,,,
+UBCV,2020,W,KIN,132,,L1A,Systems Physiology II,Jasmine Gill;Nicola Hodges;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,36,84.055555556,8.522053557,97.0,58.0,,,,,,,,,,,0,0,1,1,0,1,0,6,9,7,11,,,
+UBCV,2020,W,KIN,132,,L1B,Systems Physiology II,Andrea Bundon;Jasmine Gill;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,32,85.75,8.63227253,96.0,58.0,,,,,,,,,,,0,0,1,0,1,1,1,1,4,11,12,,,
+UBCV,2020,W,KIN,132,,L1C,Systems Physiology II,Jasmine Gill;Laura Hurd;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,38,84.842105263,12.340936746,98.0,24.0,,,,,,,,,,,1,0,0,0,0,0,4,4,5,7,17,,,
+UBCV,2020,W,KIN,132,,L1D,Systems Physiology II,Jasmine Gill;Mark Beauchamp;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,36,82.583333333,14.720976288,96.0,10.0,,,,,,,,,,,1,0,0,1,0,3,1,4,5,8,13,,,
+UBCV,2020,W,KIN,132,,L1E,Systems Physiology II,Jasmine Gill;Paolo B Dominelli;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,18,80.055555556,8.376944706,92.0,60.0,,,,,,,,,,,0,0,0,1,1,1,0,5,5,3,2,,,
+UBCV,2020,W,KIN,132,,L1F,Systems Physiology II,Jasmine Gill;Robert Langill;Romeo Chua;Sobhan Mardan-Dezfouli;Viviana Shiffman,34,81.823529412,9.64984091,91.0,46.0,,,,,,,,,,,1,0,0,1,2,0,1,4,7,15,3,,,
+UBCV,2021,S,KIN,132,,921,Systems Physiology II,Jasmine Gill;Robert Langill,36,78.166666667,13.124676867,96.0,33.0,,,,,,,,,,,2,0,0,2,1,3,3,4,9,6,6,,,
+UBCV,2021,S,KIN,335,,921,Advanced Applications of Exercise Physiology,Joshua Bovard;Michael Leahy;Robert Langill,46,89.086956522,6.292238912,97.0,63.0,,,,,,,,,,,0,0,0,1,0,0,0,2,4,11,28,,,
+UBCV,2021,W,KIN,132,,901,Systems Physiology II,Monika Sohal;Robert Langill,62,66.774193548,13.402250062,91.0,32.0,,,,,,,,,,,4,4,5,10,12,6,6,4,4,1,6,,,
+UBCV,2021,W,KIN,132,,L1A,Systems Physiology II,Darren Warburton;Joshua Taylor;Owen Payne;Robert Langill,37,74.702702703,13.523364277,92.0,34.0,,,,,,,,,,,2,1,2,3,1,3,5,5,5,5,5,,,
+UBCV,2021,W,KIN,132,,L1B,Systems Physiology II,Christopher West;Joshua Taylor;Owen Payne;Robert Langill,33,70.333333333,15.759256539,95.0,21.0,,,,,,,,,,,2,3,3,2,1,6,1,1,9,3,2,,,
+UBCV,2021,W,KIN,132,,L1C,Systems Physiology II,Joshua Taylor;Owen Payne;Peter Crocker;Robert Langill,36,70.611111111,13.743107941,90.0,40.0,,,,,,,,,,,1,7,2,3,1,2,3,3,8,3,3,,,
+UBCV,2021,W,KIN,132,,L1D,Systems Physiology II,Erica Bennett;Joshua Taylor;Owen Payne;Robert Langill,34,72.235294118,13.622750186,96.0,30.0,,,,,,,,,,,2,0,1,6,0,6,4,3,7,3,2,,,
+UBCV,2021,W,KIN,132,,L1E,Systems Physiology II,Darren Warburton;Joshua Taylor;Owen Payne;Robert Langill,14,50.571428571,19.712215212,71.0,2.0,,,,,,,,,,,5,1,1,2,4,1,0,0,0,0,0,,,
+UBCV,2021,W,KIN,132,,L1F,Systems Physiology II,Erica Bennett;Joshua Taylor;Owen Payne;Robert Langill,28,67.964285714,15.919897038,92.0,20.0,,,,,,,,,,,4,1,1,1,2,3,8,1,5,1,1,,,
+UBCV,2022,S,KIN,132,,921,Systems Physiology II,Robert Langill,24,64.3,,95.0,0.0,,,,,,,,,,,5,2,2,0,2,1,3,3,4,0,2,72.5,78.8,50.0
+UBCV,2022,W,KIN,132,,91A,Systems Physiology II,Robert Langill,18,67.7,,90.0,40.0,,,,,,,,,,,2,0,2,2,3,1,3,2,1,1,1,67.5,75.8,60.3
+UBCV,2022,W,KIN,132,,91B,Systems Physiology II,Robert Langill,39,70.0,,90.0,52.0,,,,,,,,,,,0,4,3,4,5,5,4,5,7,0,2,70.0,77.5,62.0
+UBCV,2022,W,KIN,132,,91C,Systems Physiology II,Robert Langill,19,70.3,,90.0,43.0,,,,,,,,,,,2,1,0,2,1,4,0,3,4,1,1,70.0,80.0,63.5
+UBCV,2022,W,KIN,132,,L1A,Systems Physiology II,Robert Langill,35,74.9,,91.0,33.0,,,,,,,,,,,1,1,5,1,3,0,3,1,9,6,5,81.0,86.5,64.0
+UBCV,2022,W,KIN,132,,L1B,Systems Physiology II,Robert Langill,33,74.3,,91.0,40.0,,,,,,,,,,,3,2,0,0,3,3,3,4,7,5,3,78.0,84.0,70.0
+UBCV,2022,W,KIN,132,,L1C,Systems Physiology II,Robert Langill,39,73.6,,97.0,47.0,,,,,,,,,,,1,1,3,5,6,1,2,2,10,5,3,76.0,83.5,63.0
+UBCV,2022,W,KIN,132,,L1D,Systems Physiology II,Robert Langill,34,75.3,,97.0,53.0,,,,,,,,,,,0,4,2,2,3,1,3,5,3,5,6,76.5,86.5,64.8
+UBCV,2022,W,KIN,132,,L1E,Systems Physiology II,Robert Langill,12,65.3,,85.0,42.0,,,,,,,,,,,1,2,0,2,2,2,1,0,1,1,0,65.5,71.8,58.3
+UBCV,2022,W,KIN,132,,L1F,Systems Physiology II,Robert Langill,34,69.6,,94.0,20.0,,,,,,,,,,,4,2,1,3,2,2,5,3,8,0,4,73.5,81.8,61.3
+UBCV,2023,S,KIN,132,,921,Systems Physiology II,Robert Langill,24,75.45,,93.0,50.0,,,,,,,,,,,0,3,0,1,1,3,3,2,1,3,5,76.0,87.0,68.0
+UBCV,2023,W,KIN,132,,L1A,Systems Physiology II,Robert Langill,31,70.7,,91.0,50.0,,,,,,,,,,,0,4,4,5,1,0,3,2,9,2,1,75.0,82.0,59.0
+UBCV,2023,W,KIN,132,,L1B,Systems Physiology II,Robert Langill,19,73.7,,90.0,58.0,,,,,,,,,,,0,0,2,3,1,2,0,2,6,1,1,77.0,81.8,63.3
+UBCV,2023,W,KIN,132,,L1C,Systems Physiology II,Robert Langill,15,69.9,,81.0,33.0,,,,,,,,,,,1,1,1,1,0,2,2,2,5,0,0,75.0,80.0,66.5
+UBCV,2023,W,KIN,132,,L1D,Systems Physiology II,Robert Langill,26,73.5,,92.0,26.0,,,,,,,,,,,1,2,1,2,1,1,3,5,4,4,2,77.0,82.8,67.0
+UBCV,2023,W,KIN,132,,L1E,Systems Physiology II,Robert Langill,19,70.2,,88.0,15.0,,,,,,,,,,,2,0,1,0,1,4,3,2,5,1,0,73.0,81.0,70.0
+UBCV,2023,W,KIN,132,,L2A,Systems Physiology II,Robert Langill,27,73.5,,93.0,53.0,,,,,,,,,,,0,3,1,3,2,2,3,1,7,3,2,75.0,83.0,63.5
+UBCV,2023,W,KIN,132,,L2B,Systems Physiology II,Robert Langill,33,72.5,,94.0,20.0,,,,,,,,,,,1,3,2,3,3,5,2,0,5,4,5,71.0,87.0,63.0
+UBCV,2023,W,KIN,132,,L2C,Systems Physiology II,Robert Langill,33,79.1,,94.0,46.0,,,,,,,,,,,1,1,0,2,1,1,3,4,8,6,6,82.0,88.0,75.0
+UBCV,2023,W,KIN,132,,L2D,Systems Physiology II,Robert Langill,27,72.7,,90.0,27.0,,,,,,,,,,,2,2,1,0,1,3,4,4,3,6,1,76.0,84.5,70.0

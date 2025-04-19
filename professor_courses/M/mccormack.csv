@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",141,71.76,7.42,89,52,139,0,1,0,1,0,0,0,0,0,0,1,8,15,14,22,31,29,15,4,0
+UBC,2005,W,PHAR,371,,001,PATHOPHYS I,"MacLeod, Kathleen;McCormack, James",139,86.34,6.16,97,64,139,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,14,24,48,46
+UBC,2005,W,PHAR,399,,001,CASES PHARM II,"Eccott, Lynda;McCormack, James",142,85.25,4.79,94,62,142,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,8,36,72,21
+UBC,2005,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",152,71.01,7.48,89,51,149,0,1,0,2,0,0,0,0,0,0,3,10,9,22,33,30,22,16,4,0
+UBC,2006,W,PHAR,371,,001,PATHOPHYS I,"Marzban, Lucy;McCormack, James",151,81.99,6.96,99,59,151,0,0,0,0,0,0,0,0,0,0,0,2,1,4,3,10,25,46,42,18
+UBC,2006,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",159,72.94,8.15,88,47,157,1,1,0,0,0,0,0,0,1,1,2,7,13,16,24,25,34,28,8,0
+UBC,2007,W,PHAR,371,,001,PATHOPHYS I,"Marzban, Lucy;McCormack, James",157,84.62,5.92,95,66,156,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,7,20,35,46,45
+UBC,2007,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",151,72.17,7.95,87,52,151,0,0,0,0,0,0,0,0,0,0,3,7,13,19,23,28,27,25,6,0
+UBC,2009,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",147,74.65,6.71,90,54,147,0,0,0,0,0,0,0,0,0,0,1,1,5,18,15,34,36,30,6,1
+UBC,2010,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",155,79.26,7.84,93,50,155,0,0,0,0,0,0,0,0,0,0,2,1,3,6,16,18,25,41,35,8
+UBC,2011,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James",217,72.01,7.66,89,50,213,0,2,0,2,0,0,0,0,0,0,4,10,16,25,40,41,41,26,10,0
+UBC,2012,W,PHAR,535,,001,PHARM.D. SEMINAR,"McCormack, James",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,PHAR,351,,001,THERAPEUTICS I,"McCormack, James;Soon, Judith",223,74.85,8.52,92,40,222,1,0,0,0,0,0,0,0,1,1,0,9,12,21,34,42,30,46,21,7
+UBC,2014,W,PHAR,451,,001,THERAPEUTICS III,"McCormack, James;Soon, Judith;Zed, Peter",220,74.53,6.61,91,55,220,0,0,0,0,0,0,0,0,0,0,0,4,9,16,42,48,47,41,12,1
+UBC,2015,W,PHAR,451,,001,THERAPEUTICS III,"McCormack, James",215,72.59,6.01,87,60,208,0,2,0,5,0,0,0,0,0,0,0,0,13,30,56,40,36,31,2,0
+UBC,2015,W,PHRM,131,,001,STUDY DSGN&INT 1,"McCormack, James",213,84.78,4.89,95,68,213,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,15,65,89,33
+UBC,2016,W,PHAR,451,,001,THERAPEUTICS III,"Loewen, Peter Shane;McCormack, James;Moshenko, Janice Lynn",218,80.22,7.43,97,60,218,0,0,0,0,0,0,0,0,0,0,0,0,8,5,15,25,40,61,43,21
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2016,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",204,77.69,4.38,88,65,203,0,0,0,1,0,0,0,0,0,0,0,0,0,4,18,37,72,63,9,0
+UBC,2017,W,PHRM,100,,001,FOUND OF PHRM,"Albon, Simon;Brady, Colleen;Cairns, Brian;Carr, Roxane;Collier, Abby;Conklin, Annalijn;De Vera, Mary;Ensom, Mary;Frankel, Adam;Gerber, Patricia;Hafeli, Urs;Harrison, Mark;Li, Shyh-dar;Lynd, Larry;McCormack, James;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Wong, Harvey;Wong, Judy",223,82.04,6.53,94,59,222,0,1,0,0,0,0,0,0,0,0,0,5,0,2,5,16,39,69,66,20
+UBC,2017,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",220,79.96,4.14,89,66,220,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,18,67,104,22,0
+UBC,2018,W,PHRM,111,,001,MED MANAGEMENT 1,"Barry, Arden;Cairns, Brian;Carr, Roxane;Frankel, Adam;Khurana, Christine;Kumar, Ujendra;Ladak, Ali Reza;Lalji, Fawziah;McCormack, James;Miller, Penelope;Mira, Aileen;Moshenko, Janice Lynn;Price, Ingrid;Rodrigues, Brian;Seet, Tony;Watson, Hilary;Wilbur, Kerry;Wong, Judy;Xia, Jane Meng",217,82.31,5.34,93,59,216,0,1,0,0,0,0,0,0,0,0,0,1,0,0,6,15,41,65,72,16
+UBC,2018,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Carr, Roxane;Chan, Fong;Dahri, Karen;Elliot, Mary;Fischer, Michelle;Frankel, Adam;Grosshuesch, Jonathan;Kanji, Tamiz Jamal;Loewen, Peter Shane;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Price, Ingrid;Rodrigues, Brian;Watson, Hilary;Wilbur, Kerry;Zed, Peter",206,84.63,5.81,96,71,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,26,59,59,47
+UBC,2018,W,PHRM,212,,001,MED MANAGEMENT 3,"Chan, Fong;Dossa, Anar;Elliot, Mary;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Grosshuesch, Jonathan;Khurana, Christine;Loewen, Peter Shane;MacLeod, Kathleen;McCormack, James;Mira, Aileen;Nicholl, Tessa;Pearson, Marion;Rodrigues, Brian;Soja, Peter;Watson, Hilary;Wilbur, Kerry;Xia, Jane Meng",208,81.61,6.31,94,59,208,0,0,0,0,0,0,0,0,0,0,0,1,0,1,12,27,37,58,49,23
+UBC,2018,W,PHRM,231,,001,STUDY DSGN&INT 2,"McCormack, James;Sadatsafavi, Mohsen",207,82.97,3.79,91,69,207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,26,105,62,8
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11
+UBC,2018,W,PHRM,451,,001,CRIT APPRAIS LIT,"McCormack, James",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,451,,002,CRIT APPRAIS LIT,"McCormack, James;Turgeon, Ricky",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,ELEC,291,,201,Electrical Engineering Design Studio I,Janelle Somerville;Jesus Calvino-Fraga;Matthew Winship;Min Ai;Mustafa Hammood;Robert Evans;Vani Sahni;Zhonghua Zhou;Ziyu Wang,125,86.384,5.737235481,100.0,67.0,0,0,0,0,1,0,2,5,39,43,35
+UBCV,2017,W,ELEC,292,,201,Biomedical Engineering Design Studio,Janelle Somerville;Jesus Calvino-Fraga;Matthew Winship;Min Ai;Robert Evans;Vani Sahni;Zhonghua Zhou;Ziyu Wang,22,87.181818182,4.403855061,93.0,81.0,0,0,0,0,0,0,0,0,8,4,10
+UBCV,2018,W,CPEN,311,,201,Digital Systems Design,Daniel Holanda Noronha;Deval Shah;Jose Pinilla Gomez;Kahlan Gibson;Lakshmi Lavanya Bodepu;Yair Linn;Zhonghua Zhou,120,79.058333333,17.002370489,100.0,9.0,11,3,3,1,7,8,4,7,21,21,34
+UBCV,2018,W,CPEN,333,,101,System Software Engineering,Dawood Al Masslawi;Mohammadhossein Jafari;Paul Davies;Zhonghua Zhou,77,85.350649351,10.850377429,98.0,41.0,2,1,0,0,0,0,9,4,13,16,32
+UBCV,2019,W,CPEN,311,,201,Digital Systems Design,Esther Roorda;Jose Pinilla Gomez;Minxiu Xu;Muhammad Adnan;Yair Linn;Yuan Hsi Chou;Zhonghua Zhou,122,87.426229508,13.368223104,100.0,15.0,1,0,3,2,2,4,12,5,14,9,70
+UBCV,2019,W,CPEN,333,,101,System Software Engineering,Mohammadhossein Jafari;Negar Goli;Paul Davies;Zhonghua Zhou,112,87.553571429,10.090437258,100.0,19.0,1,0,0,0,2,2,5,9,11,28,54
+UBCV,2020,W,CPEN,311,,201,Digital Systems Design,Esther Roorda;Jose Pinilla Gomez;Muhammad Adnan;Yair Linn;Yazan Al Attar;Yuan Hsi Chou;Zhonghua Zhou,121,84.909090909,17.869900205,100.0,5.0,14,1,1,0,2,1,6,5,12,15,64
+UBCV,2020,W,CPEN,333,,101,System Software Engineering,Hooman Vaseli;Mohammadhossein Olyaiy;Paul Davies;Shuyong Xie;Zhonghua Zhou,113,80.734513274,8.502119168,99.0,59.0,0,0,1,5,1,10,14,14,25,24,19
+UBCV,2021,W,CPEN,311,,101,Digital Systems Design,Muhammad Adnan;Yair Linn;Yazan Al Attar;Yuan Hsi Chou;Zhonghua Zhou,128,86.1875,12.984394025,100.0,32.0,5,0,2,1,4,3,2,10,18,18,65
+UBCV,2021,W,CPEN,391,,201,Computer Engineering Design Studio II,Brandon Freiberger;Guy Lemieux;Jared Paul;Tala Bazzaza;Yuan Hsi Chou;Zhonghua Zhou;Zi Yu Xue;Zyad Ben-Suleiman,102,85.441176471,6.774403674,97.0,57.0,0,0,1,0,1,2,3,5,27,24,39

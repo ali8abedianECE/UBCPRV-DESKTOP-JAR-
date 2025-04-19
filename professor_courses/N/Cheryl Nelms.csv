@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2007,W,CIVL,403,,201,ENGR ECON ANLYS,"Nelms, Cheryl",120,76.23,9.85,97,44,119,1,0,0,0,0,0,0,0,1,1,3,6,1,6,15,18,19,31,15,5,,,
+UBC,2013,W,CIVL,300,,201,CONST ENG & MGMT,"Nelms, Cheryl",149,81.2,7.35,99,60,148,0,0,0,1,0,0,0,0,0,0,0,0,3,4,4,16,29,46,32,14,,,
+UBC,2013,W,CIVL,523,,101,PROJ MNGMT ENG,"Nelms, Cheryl",22,86.5,6.99,96,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,4,8,,,
+UBC,2014,W,CIVL,300,,201,CONST ENG & MGMT,"Froese, Thomas;Nelms, Cheryl",152,78.73,8.1,95,31,151,1,0,0,0,0,0,0,1,0,1,0,2,3,5,12,17,22,58,19,13,,,
+UBC,2015,W,CIVL,300,,201,CONST ENG & MGMT,"Froese, Thomas;Nelms, Cheryl",146,81.17,7.64,95,55,145,0,0,0,1,0,0,0,0,0,0,0,2,1,4,8,14,18,48,27,23,,,
+UBC,2015,W,CIVL,523,,201,PROJ MNGMT ENG,"Nelms, Cheryl",34,88.44,5.83,96,69,32,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,7,19,,,
+UBC,2017,W,CIVL,523,,201,PROJ MNGMT ENG,"Nelms, Cheryl",25,82.92,8.97,93,50,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,4,7,4,7,,,
+UBC,2018,W,CIVL,523,,201,PROJ MNGMT ENG,"Nelms, Cheryl",23,92.13,3.4,98,82,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,19,,,
+UBCV,2014,W,CIVL,300,,201,Construction Engineering and Management,Cheryl Nelms;Thomas Froese,152,78.73026316,8.095432769,95.0,31.0,,,,,,,,,,,,,,,5,12,17,22,58,19,13,,,
+UBCV,2015,W,CIVL,300,,201,Construction Engineering and Management,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Cheryl Nelms;Raghav Grover;Thomas Froese;Thomas M Froese,146,80.609589041,10.154919506,95.0,0.0,,,,,,,,,,,,,,,,8,14,18,48,27,23,,,
+UBCV,2015,W,CIVL,523,,201,Project Management for Engineers,Amir Behzad Shoolestani;Cheryl Nelms;Raghav Grover,32,88.4375,5.830606121,96.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,7,19,,,
+UBCV,2017,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Melissa Yong;Thomas Froese,25,82.92,8.967162316,93.0,50.0,,,,,,,,,,,0,,,,,,2,4,7,4,7,,,
+UBCV,2018,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Suzana Espindola,23,92.130434783,3.401929236,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,19,,,
+UBCV,2019,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Karanpreet Matharu,31,84.870967742,3.913582634,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,16,2,,,
+UBCV,2020,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Suzana Espindola,22,92.545454545,5.068363808,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,20,,,
+UBCV,2021,W,APPP,506,D,101,Capstone Project,Cheryl Nelms;Ting Ting Grace Sonmezsoy,6,90.333333333,4.546060566,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,2,,,
+UBCV,2021,W,CIVL,518,,101,Reliability and Structural Safety,Cheryl Nelms;Gabriel Andrade Lanzaro;Terje Haukaas,36,79.583333333,10.327148687,97.0,60.0,,,,,,,,,,,0,0,0,2,2,5,4,5,3,7,8,,,
+UBCV,2021,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,24,90.583333333,3.399701607,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,12,,,
+UBCV,2021,W,APPP,506,D,101,Capstone Project,Cheryl Nelms,6,90.3,,98.0,85.0,,,,,,,,,,,,,,,,,,,,,,89.0,92.0,88.3
+UBCV,2021,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,24,90.6,,95.0,84.0,,,,,,,,,,,,,,,,,,,,11,12,89.5,94.0,88.0
+UBCV,2022,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,24,91.7,,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,16,93.0,94.0,89.0
+UBCV,2022,W,IWME,506,,101,Water Infrastructure Capstone,Cheryl Nelms,7,83.1,,86.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,2,0,83.0,84.0,82.0
+UBCV,2023,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,27,85.6,,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,3,3,9,9,87.0,90.0,81.0
+UBCV,2023,W,IWME,506,,101,Water Infrastructure Capstone,Cheryl Nelms,7,91.0,,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,91.0,93.0,90.0

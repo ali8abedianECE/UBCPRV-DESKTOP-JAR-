@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,PHTH,545,,001,CLIN PRAC IVB,"Anthony, Joseph;Grant, Natalie",78,83.17,3.14,90,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,39,28,1,,,
+UBC,2017,W,PHTH,528,,001,CASE INTEGR I,"Anthony, Joseph;Jacobs, Michelle;Rankin, Anne;Roots, Robin",78,82.79,4.48,93,70,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,18,32,18,8,,,
+UBC,2018,S,PHTH,301,,921,PHYS THER FNDTNS,"Anthony, Joseph",42,75.05,11.62,92,42,39,1,2,0,0,0,0,0,0,1,1,1,2,2,2,7,5,4,5,7,4,,,
+UBC,2018,S,PHTH,538,,001,CASE INTEG II,"Anthony, Joseph;Grant, Natalie;Rankin, Anne",78,86.27,4.16,96,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,23,35,17,,,
+UBC,2018,W,PHTH,545,,001,CLIN PRAC IVB,"Anthony, Joseph;Grant, Natalie",78,82.15,4.08,91,73,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,36,18,4,,,
+UBCV,2015,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Natalie Grant,82,84.951219512,3.40987107,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,6,34,35,7,,,
+UBCV,2016,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Natalie Grant,78,83.16666667,3.143398222,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,9,39,28,1,,,
+UBCV,2017,W,PHTH,528,,001,Case-based Integration,Anne Rankin;Joseph Anthony;Michelle Jacobs;Robin Roots,78,82.794871795,4.476080656,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,18,32,18,8,,,
+UBCV,2017,W,PHTH,545,,001,Clinical Practice IVb,Alexander Scott;Alison Alice Hoens;Andrea Reid;Erin Macri;Jill Kipnis;Joseph Anthony;Lesley Schwab;Leslie Schwab;Natalie Grant;Victoria Feige;Wendy Epp,80,81.1125,4.366134779,89.0,71.0,,,,,,,,,,,0,0,0,0,0,2,7,19,35,17,0,,,
+UBCV,2018,S,PHTH,301,,921,Physical Therapy Foundations,Joseph Anthony,40,75.05,11.61773622,92.0,42.0,,,,,,,,,,,1,1,2,2,2,7,5,4,5,7,4,,,
+UBCV,2018,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Joseph Anthony;Kerrie Anne Roberts;Kerrie Roberts;Lesley Schwab;Leslie Schwab;Natalie Grant;Patricia Mcilwaine;Robin Roots;Stacey Anne Cave,78,86.269230769,4.164391653,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,23,35,17,,,
+UBCV,2018,W,PHTH,544,,001,Clinical Practice IVa,Jean Cremin;Jill Zwicker;Joseph Anthony;Karen Sauve;Stacey Miller,78,84.230769231,4.701265585,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,6,28,27,12,,,
+UBCV,2018,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Natalie Grant,78,82.153846154,4.080606407,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,6,14,36,18,4,,,
+UBCV,2019,S,PHTH,301,,921,Physical Therapy Foundations,Helen Honig;Joseph Anthony,29,75.172413793,11.461329284,94.0,51.0,,,,,,,,,,,0,1,2,1,4,3,3,2,8,3,2,,,
+UBCV,2019,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Joseph Anthony;Kerrie Anne Roberts;Kerrie Roberts;Michelle Labandelo;Natalie Grant;Robin Roots,78,85.538461538,3.455439182,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,26,39,10,,,
+UBCV,2019,W,PHTH,544,,001,Clinical Practice IVa,Jean Cremin;Joseph Anthony;Karen Sauve,78,85.884615385,3.430121611,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,22,40,14,,,
+UBCV,2019,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Joseph Anthony;Natalie Grant;Roland Fletcher,78,83.730769231,3.591740442,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,5,37,32,2,,,
+UBCV,2020,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Joseph Anthony;Kim Foster;Lesley Schwab;Michelle Labandelo;Natalie Grant;Patricia Macdiarmid;Patricia Mcilwaine;Robin Roots;Roland Fletcher,79,88.063291139,3.968923422,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,13,36,29,,,
+UBCV,2020,W,PHTH,544,,001,Clinical Practice IVa,Jean Cremin;Joseph Anthony;Karen Sauve;Roland Fletcher,79,87.848101266,3.655303865,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,13,38,27,,,
+UBCV,2020,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Debra Treloar;Joseph Anthony;Marjorie Belot;Mary Nolan;Nancy Cho;Natalie Grant;Neil Pearson;Roland Fletcher,79,83.303797468,4.33339575,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,11,32,28,4,,,
+UBCV,2021,S,PHTH,538,,001,Case-based Integration II,David Anekwe;Joseph Anthony;Kerrie Roberts;Michelle Labandelo;Natalie Grant;Patricia Mcilwaine;Robin Roots;Roland Fletcher,101,89.504950495,3.517452949,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,38,58,,,
+UBCV,2021,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Eric Marriott;Joseph Anthony;Mary Nolan;Natalie Grant;Robin Roots;Roland Fletcher;Teryn Buna,101,83.108910891,4.692336284,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,14,37,35,7,,,
+UBCV,2021,S,PHTH,538,,001,Case-based Integration II,David Anekwe;Joseph Anthony;Roland Fletcher;Natalie Grant;Michelle Labandelo;Patricia Mcilwaine;Kerrie Roberts;Robin Roots,101,89.5,,97.0,73.0,,,,,,,,,,,,,,,,,,,,38,58,90.0,91.0,88.0
+UBCV,2021,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Teryn Buna;Roland Fletcher;Natalie Grant;Alison Alice Hoens;Eric Marriott;Mary Nolan;Andrea Reid;Robin Roots,101,83.1,,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,14,37,35,7,83.0,87.0,80.0
+UBCV,2022,S,PHTH,538,,001,Case-based Integration II,David Anekwe;Joseph Anthony;Marilyn Araujo;Khushboo Baldawa;Michelle Labandelo;Patricia McIlwaine;Robin Roots,99,90.8,,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,22,73,91.0,93.0,89.0
+UBCV,2022,W,PHTH,545,,001,Clinical Practice IVb,David Anekwe;Joseph Anthony;Teryn Buna;Roland Fletcher;Natalie Grant;Alison Greig;Alison Alice Hoens;Taru Manyanga;Mary Nolan;Andrea Reid,97,87.9,,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,48,34,88.0,90.0,86.0
+UBCV,2023,S,PHTH,538,,001,Case-based Integration II,David Anekwe;Joseph Anthony;Michelle Labandelo;Robin Roots,117,93.06,,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,0,114,93.0,95.0,92.0
+UBCV,2023,W,PHTH,545,,001,Clinical Practice IVb,David Anekwe;Joseph Anthony;Roland Fletcher;Natalie Grant;Alison Greig;Alison Alice Hoens;Mary Nolan;Andrea Reid;Caitlin Williams,119,91.03,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,30,86,91.0,93.0,89.0

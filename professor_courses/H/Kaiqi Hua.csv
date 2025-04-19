@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,ASIA,301,,001,BDHSM MDRN ERA,"Hua, Kaiqi",31,79.23,9.01,100,65,26,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,2,4,9,2,3
+UBC,2016,W,ASIA,303,,002,MAHAYANA BUDDHSM,"Hua, Kaiqi",50,69.89,17.11,99,0,45,2,0,1,0,1,0,0,1,0,2,3,3,5,6,4,10,3,2,4,5
+UBC,2017,W,ASIA,301,,001,BDHSM MDRN ERA,"Hua, Kaiqi",34,77.09,10.31,98,60,33,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,7,2,6,4,5
+UBC,2017,W,ASIA,382,,001,BUDDHISM CHINA,"Hua, Kaiqi",54,68.3,9.7,92,50,47,0,1,0,0,0,0,0,0,0,0,1,6,10,8,3,9,3,4,2,1
+UBC,2018,S,ASIA,355,,951,HIST CHIN CINEMA,"Hua, Kaiqi",65,78.12,12.14,97,31,51,1,3,0,0,0,0,0,1,0,1,0,0,3,5,7,4,5,10,4,13
+UBC,2018,S,ASIA,456,,951,TAIWAN HIST&CULT,"Hua, Kaiqi",62,72.2,10.23,94,52,59,0,2,0,0,0,0,0,0,0,0,1,6,6,6,10,9,4,8,5,4
+UBC,2018,W,ASIA,375,,001,GLBL CHIN CINEMA,"Hua, Kaiqi",55,84.91,9.35,98,59,46,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,6,7,8,19
+UBC,2018,W,ASIA,456,,001,TAIWAN HIST&CULT,"Hua, Kaiqi",52,70.38,10.73,91,48,49,1,0,0,0,0,0,0,0,1,1,3,3,5,10,5,8,3,6,3,3
+UBCV,2016,W,ASIA,301,,001,Buddhism in the Modern Era,Kaiqi Hua,30,79.1,9.378441897,100.0,61.0,,,,,,,,,,,0,0,0,1,2,4,2,5,10,2,4
+UBCV,2016,W,ASIA,303,,002,Mahayana Buddhism,Kaiqi Hua,49,70.20408163,16.85351051,99.0,0.0,,,,,,,,,,,2,3,3,5,6,4,11,3,3,4,5
+UBCV,2017,W,ASIA,301,,001,Buddhism in the Modern Era,Kaiqi Hua,34,77.176470588,10.160740215,98.0,60.0,,,,,,,,,,,0,0,0,4,2,3,7,2,7,4,5
+UBCV,2017,W,ASIA,307,,001,Korean Language and Writing in Culture and Society,Kaiqi Hua;Stefania Burk;William Scott Wells;William Wells,30,78.4,14.306015132,95.0,10.0,,,,,,,,,,,1,0,0,0,1,2,2,7,10,5,2
+UBCV,2017,W,ASIA,354,,001,Introduction to Japanese Cinema,Ayaka Yoshimizu;Kaiqi Hua;Robyn Citizen;Saeko Suzuki;Shota Iwasaki,78,76.833333333,10.84652876,95.0,41.0,,,,,,,,,,,1,2,4,3,3,5,11,13,17,11,8
+UBCV,2017,W,ASIA,382,,001,Buddhism in China,Kaiqi Hua,53,67.773584906,9.343120689,92.0,50.0,,,,,,,,,,,0,1,6,13,10,4,9,3,4,2,1
+UBCV,2018,S,ASIA,355,,951,History of Chinese Cinema,C. D. Alison Bailey;Huiyong Cyrus Qiu;Kaiqi Hua,62,77.435483871,11.71746765,97.0,31.0,,,,,,,,,,,1,0,1,3,6,10,4,8,11,4,14
+UBCV,2018,S,ASIA,456,,951,History and Culture of Taiwan,Kaiqi Hua;Yuqing Liu,60,72.05,10.217009745,94.0,52.0,,,,,,,,,,,0,1,6,7,6,10,9,4,8,5,4
+UBCV,2018,W,ASIA,301,,001,Buddhism in the Modern Era,Jessica Main;Kaiqi Hua,49,73.714285714,19.306734576,93.0,9.0,,,,,,,,,,,7,1,0,0,0,1,6,5,14,12,3
+UBCV,2018,W,ASIA,347,,001,Traditional Korean Literature in Translation,Bruce Fulton;Daniel Oliver Pieper;Daniel Pieper;Jerry Dean Schmidt;Kaiqi Hua,27,84.814814815,11.871222596,99.0,50.0,,,,,,,,,,,0,1,0,0,1,2,2,1,3,4,13
+UBCV,2018,W,ASIA,375,,001,Global Chinese Cinemas,Christopher Rea;Kaiqi Hua,55,84.127272727,9.269732797,98.0,59.0,,,,,,,,,,,0,0,1,1,1,2,4,10,7,8,21
+UBCV,2018,W,ASIA,382,,001,Buddhism in China,Ernest Billings Brewster;Kaiqi Hua,20,84.55,2.394621166,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,11,0
+UBCV,2018,W,ASIA,456,,001,History and Culture of Taiwan,Kaiqi Hua,52,70.038461538,10.895153696,91.0,48.0,,,,,,,,,,,1,4,3,5,10,5,9,3,6,3,3
+UBCV,2019,W,ASIA,375,,001,Global Chinese Cinemas,Dongchen Hou;Kaiqi Hua;Zi Yue Wang,63,77.634920635,14.111653372,96.0,0.0,,,,,,,,,,,1,2,1,1,2,8,10,9,9,10,10

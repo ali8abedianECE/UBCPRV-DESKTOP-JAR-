@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,COMM,362,,201,BUYER BEHAVR,"South, Cluny",35,76.74,9.68,91,56,34,0,0,0,1,0,0,0,0,0,0,0,2,1,2,6,4,4,5,9,1,,,
+UBC,2016,W,COMM,365,,203,MARKET RESEARCH,"South, Cluny",41,76.6,9.89,97,48,39,1,1,0,0,0,0,0,0,1,1,1,2,0,1,3,7,4,16,4,1,,,
+UBC,2018,W,BAMA,508,,MM1,MRKT RESEARCH,"South, Cluny",49,79.98,5.95,88,58,49,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,7,11,15,13,0,,,
+UBCV,2014,W,COMM,362,,201,Buyer Behaviour,Cluny Serenella South;Cluny South,35,75.82857143,10.94501153,91.0,45.0,,,,,,,,,,,,,,,,6,,4,5,9,,,,
+UBCV,2015,W,COMM,362,,101,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,42,80.904761905,7.277796248,96.0,63.0,,,,,,,,,,,0,0,0,,,,,11,13,5,6,,,
+UBCV,2015,W,COMM,362,,102,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,42,77.285714286,7.600660158,93.0,55.0,,,,,,,,,,,0,0,,,,7,7,7,11,6,,,,
+UBCV,2015,W,COMM,362,,103,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,41,75.341463415,6.452169233,90.0,61.0,,,,,,,,,,,0,0,0,,,7,8,11,9,,,,,
+UBCV,2015,W,COMM,362,,201,Consumer Behaviour,Cluny Serenella South;Cluny South;Yann Cornil,43,78.88372093,9.256167319,96.0,51.0,,,,,,,,,,,0,,,,,,9,5,7,9,6,,,
+UBCV,2015,W,COMM,362,,202,Consumer Behaviour,Cluny Serenella South;Cluny South;Yann Cornil,42,77.666666667,8.792088091,95.0,58.0,,,,,,,,,,,0,0,,,,6,5,7,9,6,,,,
+UBCV,2015,W,COMM,362,,203,Consumer Behaviour,Cluny Serenella South;Cluny South;Yann Cornil,39,74.461538462,9.025828884,92.0,57.0,,,,,,,,,,,0,0,,,5,6,,10,8,,,,,
+UBCV,2016,W,COMM,362,,101,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,43,76.11627907,7.065035646,92.0,59.0,,,,,,,,,,,0,0,1,1,3,2,15,7,9,3,2,,,
+UBCV,2016,W,COMM,362,,102,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,41,80.2195122,6.657748099,93.0,67.0,,,,,,,,,,,0,0,0,0,2,2,6,10,11,5,5,,,
+UBCV,2016,W,COMM,362,,103,Consumer Behaviour,Cluny Serenella South;Cluny South;David Hardisty,41,74.85365854,7.856719976,90.0,59.0,,,,,,,,,,,0,0,1,2,5,4,10,6,9,3,1,,,
+UBCV,2016,W,COMM,365,,203,Market Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,40,76.6,9.886017061,97.0,48.0,,,,,,,,,,,1,1,2,0,1,3,7,4,16,4,1,,,
+UBCV,2016,W,COMM,412,,101,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,33,80.96969697,2.709760696,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,21,3,0,,,
+UBCV,2017,S,BAMA,508,,DD1,Marketing Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,52,80.0,5.523568043,89.0,63.0,,,,,,,,,,,0,0,0,1,0,5,4,15,16,11,0,,,
+UBCV,2017,W,COMM,412,,101,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,36,81.222222222,2.957905737,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,8,22,6,0,,,
+UBCV,2017,W,COMM,412,,102,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,32,81.3125,2.833412396,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,21,6,0,,,
+UBCV,2018,S,BAMA,508,,DD1,Marketing Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,50,79.82,5.317241881,92.0,68.0,,,,,,,,,,,0,0,0,0,0,3,6,16,12,11,2,,,
+UBCV,2018,W,BAMA,508,,MM1,Marketing Research,Cluny Serenella South;Cluny South;Dale Griffin;Hyo Eun Ahn,49,79.979591837,5.949404017,88.0,58.0,,,,,,,,,,,0,0,1,0,1,1,7,11,15,13,0,,,
+UBCV,2019,S,BAMA,508,,DD1,Marketing Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,37,80.324324324,4.069220879,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,9,18,5,1,,,
+UBCV,2019,S,BAMA,508,,DD2,Marketing Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,37,81.243243243,3.386291034,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,22,5,1,,,
+UBCV,2019,W,BAMA,508,,MM1,Marketing Research,Cluny Serenella South;Cluny South;Xixi Hu;Yi Qian;Zining Wang,47,87.617021277,4.199136513,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,20,20,,,
+UBCV,2019,W,COMM,295,,106,Managerial Economics,Anqi Li;Ayush Shrestha;Cluny Serenella South;Cluny South;Karina Kong;Ratna Shrestha;Ricky Foof Chuen Guan;Ricky Guan;William Zheng;Yang Yue;Yu Ting Chen;Zain Azhar,95,70.557894737,9.388444447,90.0,50.0,,,,,,,,,,,0,5,5,14,15,13,13,8,15,6,1,,,
+UBCV,2019,W,FRE,518,,001,Survey Design and Data Analysis,Cluny Serenella South;Cluny South,20,81.45,7.04478157,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,3,5,5,2,,,
+UBCV,2020,S,BAMA,508,,DD1,Marketing Research,Cluny Serenella South;Cluny South;Ekin Ok,52,82.153846154,3.5112403,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,10,26,12,2,,,
+UBCV,2020,S,BAMA,508,,DD2,Marketing Research,Cluny Serenella South;Cluny South;Ekin Ok,22,81.590909091,4.81722199,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,4,10,5,1,,,
+UBCV,2020,W,COMM,362,,102,Consumer Behaviour,Cluny South;Ethan Fernandes;Michaela Wong;Mieka Halliday-Gunn,31,77.838709677,6.367086064,92.0,65.0,,,,,,,,,,,0,0,0,0,2,3,5,9,8,3,1,,,
+UBCV,2020,W,COMM,362,,103,Consumer Behaviour,Cluny South;Ethan Fernandes;Michaela Wong;Mieka Halliday-Gunn,37,80.297297297,7.426921244,90.0,63.0,,,,,,,,,,,0,0,0,2,1,2,4,5,10,12,1,,,
+UBCV,2020,W,COMM,362,,201,Consumer Behaviour,Cluny South;Michaela Wong;Mieka Halliday-Gunn,32,79.21875,8.525992043,92.0,56.0,,,,,,,,,,,0,0,1,1,3,0,2,6,8,9,2,,,
+UBCV,2020,W,COMM,365,,101,Market Research,Cluny South;Ethan Fernandes;Jessye Pabustan,51,77.0,6.511528238,90.0,63.0,,,,,,,,,,,0,0,0,1,3,7,6,13,14,5,2,,,
+UBCV,2020,W,FRE,518,,001,Survey Design and Data Analysis,Cluny South,16,85.0,4.66190233,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,6,3,,,
+UBCV,2021,S,BAMA,508,,DD1,Marketing Research,Cluny South;Ekin Ok,32,83.375,6.690146823,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,8,7,7,7,,,
+UBCV,2021,S,BAMA,508,,DD2,Marketing Research,Cluny South;Ekin Ok,33,82.151515152,6.447486003,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,7,12,2,7,,,
+UBCV,2021,W,BAMA,508,,301,Marketing Research,Cluny South;Ekin Ok,20,83.4,5.985948458,91.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,2,4,10,2,,,
+UBCV,2021,W,COMM,362,,102,Consumer Behaviour,Cluny South;Ethan Fernandes;Simone Fernandes,42,82.333333333,6.292336286,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,8,10,16,4,,,
+UBCV,2021,W,COMM,362,,103,Consumer Behaviour,Cluny South;Ethan Fernandes;Simone Fernandes,36,76.916666667,8.774557376,94.0,52.0,,,,,,,,,,,0,1,0,0,6,1,7,6,9,4,2,,,
+UBCV,2021,W,COMM,365,,201,Market Research,Cluny South;Danique Ehmann;Ethan Fernandes,39,79.794871795,6.53000962,89.0,55.0,,,,,,,,,,,0,0,1,1,0,0,4,5,19,9,0,,,
+UBCV,2021,W,COMM,365,,202,Market Research,Cluny South;Danique Ehmann;Ethan Fernandes,41,77.268292683,6.184757029,87.0,62.0,,,,,,,,,,,0,0,0,2,2,1,7,10,17,2,0,,,
+UBCV,2021,S,BAMA,508,,DD1,Marketing Research,Cluny South,32,83.4,,96.0,74.0,,,,,,,,,,,,,,,,,,8,7,7,7,82.5,86.3,78.0
+UBCV,2021,S,BAMA,508,,DD2,Marketing Research,Cluny South,33,82.2,,94.0,71.0,,,,,,,,,,,,,,,,,,7,12,,7,81.0,88.0,77.0
+UBCV,2021,W,BAMA,508,,301,Marketing Research,Cluny South,20,83.4,,91.0,67.0,,,,,,,,,,,,,,,,,,,,10,,85.0,87.0,81.8
+UBCV,2021,W,COMM,365,,201,Market Research,Cluny South,39,79.8,,89.0,55.0,,,,,,,,,,,,,,,,,,,19,9,,81.0,83.5,78.0
+UBCV,2021,W,COMM,365,,202,Market Research,Cluny South,41,77.3,,87.0,62.0,,,,,,,,,,,,,,,,,7,10,17,,,79.0,82.0,73.0
+UBCV,2022,S,BAMA,508,,DD1,Marketing Research,Cluny South,45,83.7,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,19,19,2,84.0,85.0,82.0
+UBCV,2022,S,BAMA,508,,DD2,Marketing Research,Cluny South,45,83.3,,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,9,16,14,5,83.0,86.0,80.0
+UBCV,2022,W,COMM,362,,201,Consumer Behaviour,Cluny South,43,80.3,,90.0,61.0,,,,,,,,,,,0,0,0,1,0,1,6,6,16,11,2,81.0,85.0,77.0
+UBCV,2022,W,COMM,362,,202,Consumer Behaviour,Cluny South,43,80.0,,90.0,63.0,,,,,,,,,,,0,0,0,1,1,2,3,9,17,8,2,81.0,84.0,76.5
+UBCV,2022,W,COMM,362,,203,Consumer Behaviour,Cluny South,38,80.1,,94.0,50.0,,,,,,,,,,,0,1,0,1,1,2,2,5,15,7,4,81.0,85.0,78.0
+UBCV,2022,W,COMM,365,,101,Market Research,Cluny South,41,73.7,,87.0,48.0,,,,,,,,,,,1,0,0,1,3,10,4,15,4,3,0,76.0,78.0,69.0
+UBCV,2022,W,COMM,365,,102,Market Research,Cluny South,44,78.3,,90.0,55.0,,,,,,,,,,,0,0,1,0,0,5,7,7,16,7,1,80.0,82.3,74.5
+UBCV,2023,S,BAMA,508,,301,Marketing Research,Cluny South,29,84.15,,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,11,13,1,85.0,87.0,82.0
+UBCV,2023,S,BAMA,508,,DD1,Marketing Research,Cluny South,51,81.35,,93.0,63.0,,,,,,,,,,,0,0,0,1,2,1,4,7,19,13,4,82.0,85.5,79.0
+UBCV,2023,S,BAMA,508,,DD2,Marketing Research,Cluny South,49,84.51,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,4,14,19,9,85.0,88.0,81.0

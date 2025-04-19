@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,BIOL,200,,101,CELL BIOLOGY 1,"Kunst, Ljerka",295,66.42,14.23,97,21,256,33,5,0,1,0,0,4,11,18,33,20,28,31,26,37,35,28,27,19,5
+UBC,2005,W,BIOL,200,,101,CELL BIOLOGY 1,"Kunst, Ljerka",265,74.23,12.64,97,35,248,12,4,0,1,0,0,0,1,11,12,8,12,20,17,26,26,31,45,36,27
+UBC,2006,W,BIOL,433,,101,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",28,72.21,9.55,92,57,28,0,0,0,0,0,0,0,0,0,0,0,2,4,4,3,7,2,1,4,1
+UBC,2007,W,BIOL,433,,101,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",34,66.67,12.5,90,41,30,3,1,0,0,0,0,0,0,3,3,3,2,6,4,2,5,1,5,1,1
+UBC,2009,W,BIOL,351,,201,PLNT PHYL 1:NUTR,"Kunst, Ljerka;Mansfield, Shawn",48,69.6,10.61,93,39,42,3,1,2,0,0,0,0,1,2,3,1,1,3,9,8,6,7,5,1,1
+UBC,2009,W,BIOL,433,,101,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",25,71.28,15.04,97,41,22,3,0,0,0,0,0,0,0,3,3,0,3,1,1,4,4,1,3,1,4
+UBC,2009,W,BOTA,501,,001,SEM IN BOTANY,"Graham, Sean;Kunst, Ljerka",20,87.4,6.33,94,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,5,10
+UBC,2010,W,BIOL,351,,201,PLNT PHYL 1:NUTR,"Kunst, Ljerka;Mansfield, Shawn",35,71.71,9.06,89,50,34,0,0,1,0,0,0,0,0,0,0,2,1,2,3,11,1,9,2,3,0
+UBC,2010,W,BIOL,433,,101,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",24,69.61,13.93,98,52,23,0,0,0,1,0,0,0,0,0,0,2,4,4,3,0,2,3,0,2,3
+UBC,2010,W,BOTA,501,,001,SEM IN BOTANY,"Graham, Sean;Kunst, Ljerka",20,85.3,3.83,92,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,9,2
+UBC,2010,W,BOTA,546,G,202,TOPICS IN BOTANY,"Berbee, Mary;Kunst, Ljerka",6,84.33,7.87,92,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3
+UBC,2011,W,BIOL,351,,101,PLNT PHYL 1:NUTR,"Kunst, Ljerka;Mansfield, Shawn;Singh, Santokh",33,70.21,10.38,88,51,33,0,0,0,0,0,0,0,0,0,0,4,0,3,5,6,6,2,4,3,0
+UBC,2011,W,BIOL,433,,101,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",27,72.18,13.7,98,40,21,1,3,2,0,0,0,0,0,1,1,2,1,1,0,4,6,1,1,3,2
+UBC,2011,W,BOTA,501,,001,SEM IN BOTANY,"Graham, Sean;Kunst, Ljerka",22,87.55,4.52,95,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,9
+UBC,2012,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Li, Xin",29,78,11.07,97,55,28,0,0,1,0,0,0,0,0,0,0,0,3,0,3,0,3,4,6,5,4
+UBC,2014,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Zhang, Yuelin",22,78.33,13.73,98,48,19,2,0,1,0,0,0,0,0,2,2,0,1,0,0,1,3,2,3,5,4
+UBC,2015,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Zhang, Yuelin",25,70.29,16.29,91,32,22,2,1,0,0,0,0,0,2,0,2,0,4,2,2,1,2,2,4,3,2
+UBC,2016,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Zhang, Yuelin",18,72.72,14.5,93,53,18,0,0,0,0,0,0,0,0,0,0,1,5,1,1,0,1,1,3,2,3
+UBC,2017,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Zhang, Yuelin",19,71.37,15.07,91,35,17,2,0,0,0,0,0,0,1,1,2,1,0,1,2,0,3,5,3,0,2
+UBC,2018,W,BIOL,433,,201,PLANT GENETICS,"Haughn, George;Kunst, Ljerka;Song, Liang",23,72.48,17.26,95,20,19,2,1,0,0,0,0,1,0,1,2,0,1,0,2,4,2,2,4,2,2
+UBCV,2014,W,BIOL,433,,201,Plant Genetics,George Haughn;Ljerka Kunst;Yuelin Zhang,21,78.33333333,13.72710215,98.0,48.0,,,,,,,,,,,,,,,,,,,,5,
+UBCV,2015,W,BIOL,433,,201,Plant Genetics,George Haughn;Ljerka Kunst;Yuelin Zhang,24,70.291666667,16.294782218,91.0,32.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,BIOL,433,,201,Plant Genetics,George Haughn;Ljerka Kunst;Yuelin Zhang,18,72.72222222,14.49870402,93.0,53.0,,,,,,,,,,,0,1,5,1,1,0,1,1,3,2,3
+UBCV,2017,W,BIOL,433,,201,Plant Genetics,George Haughn;Ljerka Kunst;Yuelin Zhang,19,71.368421053,15.074667958,91.0,35.0,,,,,,,,,,,3,1,0,1,1,0,3,5,3,0,2
+UBCV,2018,W,BIOL,433,,201,Plant Genetics,George Haughn;Liang Song;Ljerka Kunst,22,71.681818182,17.255465286,95.0,20.0,,,,,,,,,,,2,0,2,0,2,4,2,2,4,2,2
+UBCV,2019,W,BIOL,433,,201,Plant Genetics,George Haughn;Ljerka Kunst;Yuelin Zhang,17,78.588235294,9.021216822,98.0,61.0,,,,,,,,,,,0,0,0,1,1,1,2,2,6,3,1

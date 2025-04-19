@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,BIOL,301,,201,BIOMATHEMATICS,"Otto, Sarah",43,75.46,11.98,96,42,38,1,1,3,0,0,0,0,0,1,1,0,2,2,3,6,7,2,7,3,6,,,
+UBC,2005,W,BIOL,301,,201,BIOMATHEMATICS,"Otto, Sarah",43,78.52,10.3,98,45,41,1,0,0,1,0,0,0,0,1,1,0,1,0,1,4,8,8,7,6,6,,,
+UBC,2005,W,BIOL,336,,201,EVOLUTIONARY GEN,"Otto, Sarah;Whitton, Jeannette",210,76.19,9.65,95,21,205,2,3,0,0,0,0,1,0,1,2,2,6,7,8,32,33,31,48,26,12,,,
+UBC,2007,W,BIOL,301,,201,BIOMATHEMATICS,"Otto, Sarah",37,80.51,10.66,98,51,37,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,2,5,6,7,8,,,
+UBC,2007,W,BIOL,509,,101,POP & QUANT GENE,"Otto, Sarah;Whitlock, Michael",21,84.38,5.8,92,72,8,0,1,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,,,
+UBC,2009,W,BIOL,301,,201,BIOMATHEMATICS,"Otto, Sarah",38,79.79,10.4,98,60,38,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,0,3,12,6,7,,,
+UBC,2010,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",43,80.67,11.76,97,46,38,1,3,0,1,0,0,0,0,1,1,0,1,2,1,3,3,4,6,9,9,,,
+UBC,2012,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",42,83.29,9.55,99,58,38,0,3,1,0,0,0,0,0,0,0,0,1,0,1,2,3,5,8,8,10,,,
+UBC,2013,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",45,80.16,12.01,97,30,44,1,0,0,0,0,0,0,1,0,1,1,0,2,0,1,7,3,13,7,10,,,
+UBC,2014,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",36,81.38,11.93,97,42,33,1,1,1,0,0,0,0,0,1,1,0,1,2,0,1,3,1,9,8,8,,,
+UBC,2015,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",32,83.84,10.45,98,50,31,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,0,4,5,8,10,,,
+UBC,2017,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",40,84.28,9.75,99,62,39,0,1,0,0,0,0,0,0,0,0,0,0,2,0,4,1,4,7,9,12,,,
+UBC,2018,W,BIOL,301,,101,BIOMATHEMATICS,"Otto, Sarah",30,84.8,12.49,98,48,29,1,0,0,0,0,0,0,0,1,1,1,0,0,1,2,0,0,7,4,14,,,
+UBCV,2014,W,BIOL,301,,101,Biomathematics,Sarah Otto,34,81.38235294,11.92912074,97.0,42.0,,,,,,,,,,,,,,,,,,,9,8,8,,,
+UBCV,2015,W,BIOL,301,,101,Biomathematics,Ailene Macpherson;Ailene Marie Macpherson;Sarah Otto,31,83.838709677,10.446998849,98.0,50.0,,,,,,,,,,,0,,,,,,,,5,8,10,,,
+UBCV,2017,W,BIOL,301,,101,Biomathematics,Nathalie Sandell;Sarah Otto,39,84.282051282,9.749355493,99.0,62.0,,,,,,,,,,,0,0,0,2,0,4,1,4,7,9,12,,,
+UBCV,2018,W,BIOL,301,,101,Biomathematics,Sarah Otto;Seth Watt,30,84.8,12.493860561,98.0,48.0,,,,,,,,,,,1,1,0,0,1,2,0,0,7,4,14,,,
+UBCV,2019,W,BIOL,301,,101,Biomathematics,Nicola Love;Sarah Otto,43,84.604651163,8.513685159,97.0,63.0,,,,,,,,,,,0,0,0,2,1,1,2,2,13,7,15,,,
+UBCV,2020,W,BIOL,301,,101,Biomathematics,Gil Jorge Barros Henriques;Nicola Love;Sarah Otto,49,87.183673469,8.728959153,98.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,2,10,6,26,,,
+UBCV,2020,W,BIOL,336,,101,Fundamentals of Evolutionary Biology,Caryn Cooper;Ellen Koch;Jeannette Whitton;Julian Heavyside;Lydia Fong;Mariia Radaeva;Melanie Lysenko-Martin;Nathaniel Klimpert;Sarah Otto;Takuji Usui;Wayne Maddison,246,79.0,7.313950885,92.0,49.0,,,,,,,,,,,1,2,2,4,8,14,27,64,69,42,13,,,
+UBCV,2020,W,BIOL,336,,201,Fundamentals of Evolutionary Biology,Avery Kruger;Carla Di Filippo;Gabriel Dall'Alba;Isabela Do O;Jeannette Whitton;Lydia Fong;Nathaniel Klimpert;Nicholas Bard;Sarah Otto;Stephanie Blain;Wayne Maddison,228,80.947368421,8.453909353,95.0,39.0,,,,,,,,,,,2,2,1,4,6,13,12,30,69,69,20,,,
+UBCV,2021,W,BIOL,301,,101,Biomathematics,Alireza Ghaseminejadtafreshi;Nicola Love;Sarah Otto,38,78.763157895,13.489604026,96.0,43.0,,,,,,,,,,,1,1,3,0,1,2,7,2,6,3,12,,,
+UBCV,2021,W,BIOL,336,,101,Fundamentals of Evolutionary Biology,Clark Mcmaster;Gabriel Dall'Alba;Jeannette Whitton;Mohammadjavad Meghrazi;Nathaniel Klimpert;Nicholas Bard;Rituparna Banerjee;Sarah Otto;Takuji Usui;Wayne Maddison,181,81.303867403,12.444161347,99.0,28.0,,,,,,,,,,,5,2,5,4,3,7,7,21,37,42,48,,,
+UBCV,2021,W,BIOL,336,,201,Fundamentals of Evolutionary Biology,Alireza Ghaseminejadtafreshi;Avery Kruger;Clark Mcmaster;Gracy Buckholtz;Jeannette Whitton;Mohammadjavad Meghrazi;Nathaniel Klimpert;Rituparna Banerjee;Sarah Otto;Wayne Maddison,207,78.946859903,12.79570913,97.0,0.0,,,,,,,,,,,5,2,5,5,8,15,22,24,51,36,34,,,
+UBCV,2021,W,BIOL,301,,101,Biomathematics,Sarah Otto,38,78.8,,96.0,43.0,,,,,,,,,,,,,,,,,7,,6,,12,80.0,90.8,72.3
+UBCV,2021,W,BIOL,336,,101,Fundamentals of Evolutionary Biology,Wayne Maddison;Sarah Otto;Jeannette Whitton,181,82.8,,99.0,28.0,,,,,,,,,,,,,,,,,,,,,,85.0,90.0,79.0
+UBCV,2021,W,BIOL,336,,201,Fundamentals of Evolutionary Biology,Wayne Maddison;Sarah Otto;Jeannette Whitton,205,79.7,,97.0,34.0,,,,,,,,,,,,,,,8,16,21,25,51,36,34,81.0,87.0,75.0
+UBCV,2022,W,BIOL,301,,101,Biomathematics,Sarah Otto,47,73.9,,99.0,1.0,,,,,,,,,,,4,4,3,2,1,1,2,4,6,10,10,80.0,89.0,60.0
+UBCV,2022,W,BIOL,336,,101,Fundamentals of Evolutionary Biology,Wayne Maddison;Sarah Otto;Jeannette Whitton,175,81.1,,98.0,39.0,,,,,,,,,,,1,0,0,2,6,17,16,21,42,43,27,82.0,87.0,76.0
+UBCV,2022,W,BIOL,336,,201,Fundamentals of Evolutionary Biology,Wayne Maddison;Sarah Otto;Jeannette Whitton,219,81.1,,97.0,35.0,,,,,,,,,,,3,0,1,5,6,13,17,33,52,54,35,82.0,88.0,76.0

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CHIN,131,,006,BASIC CHIN I 1,"Chang, Chieh-Yang",18,78.11,6.43,89,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,9,1,4,0
+UBC,2017,W,CHIN,141,,001,BASIC CHIN I 1,"Chang, Chieh-Yang",8,79.43,6.08,88,71,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,0
+UBC,2017,W,CHIN,231,,003,BASIC CHIN II 1,"Chang, Chieh-Yang",19,76.67,9.73,91,50,18,0,1,0,0,0,0,0,0,0,0,1,0,0,1,3,3,4,1,4,1
+UBCV,2017,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,18,78.111111111,6.434181596,89.0,64.0,,,,,,,,,,,0,0,0,0,1,2,1,9,1,4,0
+UBCV,2017,W,CHIN,131,,009,Basic Chinese I: Part 1 (Non-Heritage),Bin Zheng;Chieh-Yang Chang;Hsiang-Ning Wang;Yu-Chi Kuo;Yuhan Zhang,21,75.047619048,17.399644222,89.0,25.0,,,,,,,,,,,2,0,0,1,0,0,3,3,8,4,0
+UBCV,2017,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Bin Zheng;Bo Zhao;Chieh-Yang Chang;Chien-Ju Lin,9,79.888888889,11.095544651,92.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,3,1
+UBCV,2017,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Chieh-Yang Chang;Chien-Ju Lin;Pi-Hua Lin,7,79.428571429,6.078847008,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,2,1,0
+UBCV,2017,W,CHIN,231,,003,Basic Chinese II: Part 1 (Non-Heritage),Chieh-Yang Chang;Xinxin Wu,18,76.666666667,9.731694732,91.0,50.0,,,,,,,,,,,0,1,0,0,1,3,3,4,1,4,1
+UBCV,2017,W,CHIN,233,,003,Basic Chinese II: Part 2 (Non-Heritage),Chieh-Yang Chang;Peiyi Liu;Xinxin Wu,20,73.25,18.206057407,88.0,0.0,,,,,,,,,,,1,0,0,0,0,4,2,6,4,3,0

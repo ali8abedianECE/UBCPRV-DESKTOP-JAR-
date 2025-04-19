@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,ENGR,485,,201,"Heating, Ventilating, and Air Conditioning",Chun-Sheng Wang;Leslie Saca;Ri Li;Yu Yan,60,79.916666667,8.049195489,92.0,56.0,0,0,1,2,2,3,5,14,13,17,3,,,
+UBCO,2021,W,ENGR,485,,201,"Heating, Ventilating, and Air Conditioning",Ri Li;Chun-Sheng Wang,60,79.9,,92.0,56.0,,,,,,,,14,13,17,,81.0,86.0,76.0
+UBCO,2022,W,APSC,253,,201,Fluid Mechanics I,Chun-Sheng Wang,172,79.1,,97.0,32.0,4,4,7,7,9,8,16,19,28,31,39,81.5,88.3,72.8
+UBCO,2022,W,ENGR,310,,101,Fluid Mechanics II,Chun-Sheng Wang,167,75.9,,97.0,0.0,1,2,1,8,11,23,35,30,24,23,9,77.0,83.0,71.0

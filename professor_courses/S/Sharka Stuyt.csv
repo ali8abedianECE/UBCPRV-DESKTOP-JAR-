@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,COMM,292,,201,MNGMT&ORGNZ BHVR,"Stuyt, Sharka",46,73.04,8.85,93,44,45,1,0,0,0,0,0,0,0,1,1,0,0,3,10,7,7,8,6,2,2
+UBC,2015,W,COMM,296,,108,INTRO MARKETING,"Stuyt, Sharka",60,78.35,6.22,87,52,60,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,11,14,21,8,0
+UBC,2016,W,COMM,280,,203,ENTREPRENEURSHIP,"Stuyt, Sharka",29,76.07,5.77,85,65,29,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,8,7,2,0
+UBC,2016,W,COMM,292,,101,MNGMT&ORGNZ BHVR,"Stuyt, Sharka",50,73.46,5.32,90,64,50,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,17,11,5,0,1
+UBC,2016,W,COMM,296,,204,INTRO MARKETING,"Stuyt, Sharka",49,76.16,5.99,90,66,49,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,8,12,9,4,1
+UBC,2017,W,BAHR,516,,BA1,LEADING TEAMS,"Stuyt, Sharka",36,77.64,4.5,88,69,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,10,11,2,0
+UBC,2017,W,BAHR,516,,MM1,LEADING TEAMS,"Rawcliffe, Wayne;Stuyt, Sharka",39,81.1,4.69,89,73,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,11,12,0
+UBCV,2015,W,COMM,292,,201,Management and Organizational Behaviour,Brent Lin;Sharka Stuyt,46,73.043478261,8.851758198,93.0,44.0,,,,,,,,,,,,,,,10,7,7,8,6,,
+UBCV,2015,W,COMM,296,,108,Introduction to Marketing,Sharka Stuyt;Tess Kwan,60,78.35,6.21595814,87.0,52.0,,,,,,,,,,,0,,,,,,11,14,21,8,0
+UBCV,2016,W,COMM,280,,203,Entrepreneurship,David Miller;Sharka Stuyt;Shehan Anthony Wijeyagoonewardane;Shehan Wijeyagoonewardane,29,76.06896552,5.768950353,85.0,65.0,,,,,,,,,,,0,0,0,0,3,3,6,8,7,2,0
+UBCV,2016,W,COMM,292,,101,Management and Organizational Behaviour,Alicia Woodside;Sharka Stuyt,50,73.46,5.323072613,90.0,64.0,,,,,,,,,,,0,0,0,0,6,10,17,11,5,0,1
+UBCV,2016,W,COMM,296,,204,Introduction to Marketing,Sharka Stuyt;Suzanne Liu,49,76.16326531,5.990780899,90.0,66.0,,,,,,,,,,,0,0,0,0,3,12,8,12,9,4,1
+UBCV,2017,W,BAHR,516,,BA1,Leading Teams,Sharka Stuyt,36,77.638888889,4.498588844,88.0,69.0,,,,,,,,,,,0,0,0,0,0,2,11,10,11,2,0
+UBCV,2017,W,BAHR,516,,MM1,Leading Teams,Robert Prowse;Sharka Stuyt;Wayne Rawcliffe,39,81.102564103,4.689264738,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,7,9,11,12,0
+UBCV,2017,W,COMM,296,,204,Introduction to Marketing,Hannah Chiang;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu;Sharka Stuyt,54,73.462962963,9.380254176,94.0,56.0,,,,,,,,,,,0,0,3,6,9,6,5,11,7,5,2
+UBCV,2017,W,COMM,468,,201,Marketing Applications,Kristin Noel Rotte;Kristin Rotte;Sharka Stuyt,41,79.487804878,4.566847661,87.0,64.0,,,,,,,,,,,0,0,0,0,1,0,8,11,15,6,0
+UBCV,2018,W,BAHR,516,,MM1,Leading Teams,Peter Wanyenya;Robert Prowse;Sharka Stuyt;Wayne Rawcliffe,49,82.204081633,1.779274101,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,41,4,0
+UBCV,2018,W,COMM,395,,201,Business Communications,Catherine Hackwell;Sharka Stuyt;Susan Soliman Ibrahim,23,77.173913043,4.195800649,85.0,70.0,,,,,,,,,,,0,0,0,0,0,4,4,5,9,1,0

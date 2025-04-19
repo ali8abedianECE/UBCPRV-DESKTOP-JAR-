@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,ECON,371,,001,ECON OF ENVIRNMT,"Sumaila, Ussif Rashid",93,73.65,13.48,93,0,86,3,1,2,1,1,0,0,0,2,3,1,4,7,5,16,7,17,11,11,7,,,
+UBC,2003,W,ECON,371,,001,ECON OF ENVIRNMT,"Sumaila, Ussif Rashid",148,73.6,10.43,95,35,142,3,0,2,1,0,0,0,2,1,3,3,5,9,12,19,29,21,21,16,7,,,
+UBC,2005,W,ECON,371,,001,ECON OF ENVIRNMT,"Sumaila, Ussif Rashid",162,78.73,9.15,96,56,157,0,1,3,1,0,0,0,0,0,0,0,3,9,10,12,21,25,29,31,17,,,
+UBC,2006,W,ECON,371,,001,ECON OF ENVIRNMT,"Sumaila, Ussif Rashid",108,75.53,8.07,92,52,108,0,0,0,0,0,0,0,0,0,0,1,2,4,9,19,22,14,23,11,3,,,
+UBC,2006,W,FISH,502,,001,MAR FISH WLDWIDE,"Sumaila, Ussif Rashid",7,83.71,2.5,87,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,,,
+UBC,2007,W,ECON,371,,001,ECON OF ENVIRNMT,"Sumaila, Ussif Rashid",107,76.29,9.27,93,51,104,0,1,2,0,0,0,0,0,0,0,2,1,5,7,19,18,10,17,18,7,,,
+UBC,2007,W,ISCI,330,,101,TPCS INTEG SCIE,"Fletcher, Jeffrey;Sumaila, Ussif Rashid",10,80.11,5.82,86,68,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,2,0,,,
+UBC,2009,W,FISH,506,C,001,TOPICS FISHERIES,"Sumaila, Ussif Rashid",5,90.8,2.95,95,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2009,W,ISCI,330,,101,TPCS INTEG SCIE,"Hauert, Christoph;Sumaila, Ussif Rashid",30,83.47,8.99,95,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,5,7,4,10,,,
+UBC,2011,W,FISH,506,C,001,TOPICS FISHERIES,"Sumaila, Ussif Rashid",6,92.17,5.08,95,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,,,
+UBC,2012,W,FISH,508,,001,FSH ECON & MGMNT,"Sumaila, Ussif Rashid",5,87,5.57,94,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,,,
+UBC,2012,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",10,88.5,3.81,93,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,,,
+UBC,2013,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda;Walters, Carl John",6,85.17,4.4,89,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,,,
+UBC,2014,W,FISH,508,,001,FSH ECON & MGMNT,"Sumaila, Ussif Rashid",7,91.14,5.3,95,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,,,
+UBC,2014,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",9,87.67,1.94,91,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,,,
+UBC,2015,W,FISH,520,,001,"CONS, GOVR, EVAL","Cheung, Wai Lung;Christensen, Villy;Close, David;McAllister, Murdoch;Pauly, Daniel;Pitcher, Tony;Sumaila, Ussif Rashid;Trites, Andrew;Vincent, Amanda",10,86.89,3.3,91,80,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,,,
+UBC,2016,W,FISH,508,,001,FSH ECON & MGMNT,"Sumaila, Ussif Rashid",5,91.4,4.04,95,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBCV,2014,W,FISH,508,,001,Fisheries Economics and Management,Ussif Rashid Sumaila,7,91.14285714,5.304984179,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,5,,,
+UBCV,2014,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Amanda Vincent;Andrew Trites;Daniel Pauly;David Close;Murdoch Mcallister;Tony Pitcher;Ussif Rashid Sumaila;Villy Christensen;Wai Lung Cheung,9,87.66666667,1.936491673,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,2,,,
+UBCV,2015,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Amanda Vincent;Andrew Trites;Daniel Pauly;David Close;Murdoch Mcallister;Tony Pitcher;Ussif Rashid Sumaila;Villy Christensen;Wai Lung Cheung,9,86.888888889,3.295619989,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,7,,,,
+UBCV,2016,W,FRE,523,,001,Resource Economics I,Gordon Munro;Ussif Rashid Sumaila,7,81.42857143,9.829498849,91.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,1,2,2,1,,,
+UBCV,2017,W,FRE,523,,001,Resource Economics I,Ussif Rashid Sumaila,18,82.333333333,5.357787076,90.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,1,10,3,2,,,
+UBCV,2017,W,GPP,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,10,88.0,1.825741858,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,3,,,
+UBCV,2018,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Amanda Vincent;Andrew Trites;Brett Van Poorten;Brian Hunt;Carl John Walters;Daniel Pauly;David Rosen;Douglas Harris;Jordan Rosenfeld;Marie Auger-Methe;Murdoch Mcallister;Thomas Carruthers;Thomas Robert Carruthers;Tony Pitcher;Ussif Rashid Sumaila;Villy Christensen;Wai Lung Cheung,7,85.714285714,4.38612531,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,2,,,
+UBCV,2018,W,FRE,523,,001,Resource Economics I,Gordon Munro;James Vercammen;Ussif Rashid Sumaila,6,82.5,2.258317958,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,1,0,,,
+UBCV,2018,W,GPP,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,12,90.5,1.732050808,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2019,W,FRE,523,,001,Resource Economics I,Gordon Munro;James Vercammen;Ralph Winter;Ussif Rashid Sumaila,11,81.727272727,5.139862043,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,7,1,1,,,
+UBCV,2019,W,GPP,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,9,90.555555556,3.04594448,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2019,W,ISCI,311,,201,The Size of Things,Robert James Evans;Ussif Rashid Sumaila,48,97.020833333,5.624753738,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,0,45,,,
+UBCV,2020,W,FRE,523,,001,Resource Economics I,Gordon Munro;Kelleen Wiseman;Mark Liew;Ronald Wasik;Ussif Rashid Sumaila,21,81.476190476,7.068373558,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,4,5,4,4,,,
+UBCV,2020,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,8,89.5,1.511857892,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCV,2021,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Colette Wabnitz;Gabriel Reygondeau;Ussif Rashid Sumaila,18,92.5,2.502939448,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,15,,,
+UBCV,2021,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Amanda Vincent;Andrew Trites;Brett Van Poorten;Brian Hunt;Camilla Speller;Carl John Walters;Charles Menzies;Daniel Pauly;David Rosen;Douglas Harris;Eric Parkinson;Evelyn Pinkerton;Jordan Rosenfeld;Marie Auger-Methe;Murdoch Mcallister;Thomas Carruthers;Tony Pitcher;Ussif Rashid Sumaila;Villy Christensen;Wai Lung Cheung,7,89.714285714,2.927700219,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,,,
+UBCV,2021,W,FRE,523,,001,Resource Economics I,Gordon Munro;Mark Liew;Ussif Rashid Sumaila,21,81.238095238,8.166423709,92.0,49.0,,,,,,,,,,,1,0,0,0,0,0,0,2,14,3,1,,,
+UBCV,2021,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,10,92.7,2.406010991,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2021,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Gabriel Reygondeau;Ussif Rashid Sumaila;Colette Wabnitz,18,92.5,,96.0,88.0,,,,,,,,,,,,,,,,,,,,,15,93.0,94.8,91.0
+UBCV,2021,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Marie Auger-Methe;Wai Lung Cheung;Villy Christensen;Brian Hunt;Murdoch Mcallister;Charles Menzies;Eric Parkinson;Daniel Pauly;Evelyn Pinkerton;David Rosen;Jordan Rosenfeld;Camilla Speller;Ussif Rashid Sumaila;Andrew Trites;Amanda Vincent;Carl John Walters,7,89.7,,93.0,84.0,,,,,,,,,,,,,,,,,,,,,,90.0,91.5,89.0
+UBCV,2021,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,10,92.7,,96.0,88.0,,,,,,,,,,,,,,,,,,,,,9,93.0,93.8,91.3
+UBCV,2022,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,Gabriel Reygondeau;Ussif Rashid Sumaila;Colette Wabnitz,14,97.4,,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,98.5,99.0,98.0
+UBCV,2022,W,FRE,523,,002,Resource Economics I,Gordon Munro;Ussif Rashid Sumaila,9,81.3,,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,1,3,1,84.0,86.0,75.0
+UBCV,2022,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,13,92.5,,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,10,93.0,94.0,90.0
+UBCV,2023,W,FISH,500,,001,Issues in Fisheries Research: Seminars - Fisheries Management,David Rosen;Ussif Rashid Sumaila,9,90.0,,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,90.0,90.0,90.0
+UBCV,2023,W,FISH,520,,001,"Fisheries Conservation, Governance, and Evaluation",Marie Auger-Methe;Wai Lung Cheung;Villy Christensen;Simon Donner;Christopher Harley;Brian Hunt;Murdoch McAllister;Charles Menzies;Eric Parkinson;Daniel Pauly;Evelyn Pinkerton;Andrea Reid;David Rosen;Jordan Rosenfeld;Camilla Speller;Ussif Rashid Sumaila;Andrew Trites;Amanda Vincent;Carl John Walters,8,90.571,,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,91.0,91.5,89.5
+UBCV,2023,W,FRE,523,,002,Resource Economics I,Gordon Munro;Ussif Rashid Sumaila,24,80.0,,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,6,7,8,2,1,79.0,83.25,75.75
+UBCV,2023,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,12,89.17,,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,5,89.0,92.5,85.75

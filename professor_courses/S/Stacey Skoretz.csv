@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,AUDI,527,,001,INTRO DYSPHAGIA,"Skoretz, Stacey",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,AUDI,577,,001,AS IN S&S DISORD,"Skoretz, Stacey",28,89.79,4.25,96,80,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,18,,,
+UBC,2017,W,AUDI,527,,001,INTRO DYSPHAGIA,"Skoretz, Stacey",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,AUDI,577,,001,AS IN S&S DISORD,"Skoretz, Stacey",35,86.66,2.36,93,82,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,25,4,,,
+UBC,2018,W,AUDI,524,,001,DISORD SP PROD,"Rammage, Linda;Skoretz, Stacey",36,81.69,2.47,87,77,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,26,4,0,,,
+UBC,2018,W,AUDI,527,,001,INTRO DYSPHAGIA,"Skoretz, Stacey",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,AUDI,577,,001,AS IN S&S DISORD,"Skoretz, Stacey",36,83.31,2.61,89,78,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,18,14,0,,,
+UBCV,2016,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Stacey Skoretz,28,89.78571429,4.245757297,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,18,,,
+UBCV,2017,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Stacey Skoretz,35,86.657142857,2.363233791,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,25,4,,,
+UBCV,2018,W,AUDI,524,,001,Disorders of Speech Production,Cheryl Mcgee;Linda Rammage;Stacey Skoretz,36,81.694444444,2.470621026,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,26,4,0,,,
+UBCV,2018,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Stacey Skoretz,36,83.305555556,2.605701928,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,18,14,0,,,
+UBCV,2019,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Dulcie Carter;Stacey Skoretz,38,81.421052632,5.123510088,90.0,70.0,,,,,,,,,,,0,0,0,0,0,2,4,9,9,13,1,,,
+UBCV,2020,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Dulcie Carter;Stacey Skoretz,36,77.138888889,4.94051922,89.0,70.0,,,,,,,,,,,0,0,0,0,0,6,7,14,6,3,0,,,
+UBCV,2021,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Chantal Leo;Stacey Skoretz,36,82.166666667,5.808860228,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,6,11,11,3,,,
+UBCV,2022,W,AUDI,577,,001,Advanced Studies in Acquired Speech and Swallowing Disorders,Gillian O'Toole;Stacey Skoretz,35,79.2,,87.0,68.0,,,,,,,,,,,0,0,0,0,0,1,6,10,15,3,0,80.0,82.0,76.0

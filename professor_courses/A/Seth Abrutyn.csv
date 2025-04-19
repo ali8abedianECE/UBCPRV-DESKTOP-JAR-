@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,SOCI,371,,201,CLSCL TRAD THEOR,"Abrutyn, Seth",75,71.68,10.29,100,45,73,1,1,0,0,0,0,0,0,1,1,2,5,8,8,12,8,11,12,4,3,,,
+UBC,2017,W,SOCI,416,,203,TPCS SOCIO THEOR,"Abrutyn, Seth",34,73.26,14.42,94,33,30,1,2,0,0,0,0,0,1,0,1,3,1,3,2,2,4,3,4,4,4,,,
+UBC,2017,W,SOCI,500,,001,SOCIAL THOUGHT,"Abrutyn, Seth",5,91,5,99,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,,,
+UBC,2018,W,SOCI,371,,102,CLSCL TRAD THEOR,"Abrutyn, Seth",81,74.39,8.16,89,34,79,1,1,0,0,0,0,0,1,0,1,1,1,3,6,10,20,18,15,5,0,,,
+UBC,2018,W,SOCI,501,,101,CONTEMP THEORY,"Abrutyn, Seth",8,86.57,1.62,88,84,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,,,
+UBCV,2017,W,SOCI,371,,201,Classical Traditions in Theory,Sam Stiegler;Seth Abrutyn;Zachary Hyde,74,71.675675676,10.291781677,100.0,45.0,,,,,,,,,,,1,2,5,8,8,12,8,11,12,4,3,,,
+UBCV,2017,W,SOCI,416,,203,Selected Topics in Sociological Theory,Seth Abrutyn,32,73.8125,14.52570025,94.0,33.0,,,,,,,,,,,1,3,1,3,2,2,4,3,4,4,5,,,
+UBCV,2018,W,SOCI,370,,001,Sociological Theories: Classical and Contemporary Approaches,Jing Zhao;Kerry Greer;Seth Abrutyn;Thomas Kemple,82,71.353658537,10.565927011,86.0,0.0,,,,,,,,,,,1,1,3,5,11,14,14,24,7,2,0,,,
+UBCV,2018,W,SOCI,371,,102,Classical Traditions in Theory,Lily Ivanova;Seth Abrutyn,80,74.3875,8.159011094,89.0,34.0,,,,,,,,,,,1,1,1,3,6,10,20,18,15,5,0,,,
+UBCV,2018,W,SOCI,371,,201,Classical Traditions in Theory,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;James M White;Lily Ivanova;Seth Abrutyn,56,76.285714286,7.847904841,93.0,46.0,,,,,,,,,,,1,0,0,1,5,5,11,15,10,6,2,,,
+UBCV,2018,W,SOCI,433,E,101,Directed Studies,Seth Abrutyn;Youngmin Choi,9,85.666666667,4.55521679,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,2,,,
+UBCV,2018,W,SOCI,501,,101,Contemporary Sociological Theory,Seth Abrutyn,7,86.571428571,1.618347187,88.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,0,,,
+UBCV,2019,W,SOCI,371,,102,Classical Traditions in Theory,Seth Abrutyn;Zachary Hyde,78,75.41025641,7.285345364,90.0,43.0,,,,,,,,,,,1,0,1,3,2,6,27,18,16,1,3,,,
+UBCV,2019,W,SOCI,550,,101,Social Interaction,Seth Abrutyn,9,85.111111111,5.600099205,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,4,2,,,
+UBCV,2020,W,SOCI,372,,201,Contemporary Directions in Theory,Emily Cheung-Ismailzai;Emily Truong;Francois Lachapelle;Kerry Greer;Seth Abrutyn,65,74.461538462,7.931497579,89.0,44.0,,,,,,,,,,,2,1,1,0,2,8,21,16,11,3,0,,,
+UBCV,2020,W,SOCI,501,,201,Contemporary Sociological Theory,Seth Abrutyn,9,87.777777778,4.437842319,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,2,,,
+UBCV,2021,W,SOCI,371,,101,Classical Traditions in Theory,Anne Martin-Matthews;Colter Uscola;Seth Abrutyn,49,76.714285714,8.755950358,85.0,35.0,,,,,,,,,,,2,0,0,0,2,4,3,16,18,4,0,,,
+UBCV,2021,W,SOCI,495,A,201,Advanced Studies in Sociology,Gerry Veenstra;Seth Abrutyn,22,68.0,25.429641497,92.0,13.0,,,,,,,,,,,4,0,1,0,2,1,2,2,5,1,4,,,
+UBCV,2021,W,SOCI,599,D,295,Special Topics Seminar,Seth Abrutyn,7,89.714285714,3.199702367,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCV,2021,W,SOCI,371,,101,Classical Traditions in Theory,Seth Abrutyn,49,76.7,,85.0,35.0,,,,,,,,,,,,,,,,,,16,18,,,79.0,81.0,76.0
+UBCV,2021,W,SOCI,495,A,201,Advanced Studies in Sociology,Seth Abrutyn,20,72.9,,92.0,13.0,,,,,,,,,,,,,,,,,,,,,,79.0,84.5,69.3
+UBCV,2021,W,SOCI,599,D,295,Special Topics Seminar,Seth Abrutyn,7,89.7,,95.0,87.0,,,,,,,,,,,,,,,,,,,,,,89.0,91.5,87.0
+UBCV,2022,W,SOCI,371,,202,Classical Traditions in Theory,Seth Abrutyn,72,75.1,,90.0,59.0,,,,,,,,,,,0,0,1,1,9,8,21,14,10,7,1,75.0,79.3,70.8
+UBCV,2022,W,SOCI,501,,201,Contemporary Sociological Theory,Seth Abrutyn,6,87.5,,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1,87.0,87.8,87.0
+UBCV,2023,W,SOCI,371,,101,Classical Traditions in Theory,Seth Abrutyn,83,77.4,,97.0,22.0,,,,,,,,,,,2,3,1,1,5,6,14,19,8,10,14,77.0,87.5,73.0
+UBCV,2023,W,SOCI,501,,101,Contemporary Sociological Theory,Seth Abrutyn,11,86.4,,88.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,0,86.0,88.0,85.3

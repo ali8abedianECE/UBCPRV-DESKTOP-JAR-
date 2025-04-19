@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,SOWK,505,,001,SOCIAL ANALYSIS,"Bryson, Stephanie;O'Connor, Deborah;Stainton, Timothy;Sullivan, T Richard;Tester, Frank",27,96.15,3.63,100,85,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,25
+UBC,2012,W,SOWK,550,,001,SOC WRK & JUSTCE,"Bryson, Stephanie",10,90.2,6.86,97,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+UBC,2012,W,SOWK,550,,002,SOC WRK & JUSTCE,"Bryson, Stephanie",13,87.15,5.21,94,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6
+UBC,2012,W,SOWK,559,,001,ADV INT SEMINAR,"Advisor, -;Bryson, Stephanie;Charles, Grant;Tester, Frank",35,87.85,5.34,96,72,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,14,13
+UBC,2013,W,SOWK,505,,001,SOCIAL ANALYSIS,"Bryson, Stephanie",16,80.81,7.56,95,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5,1,3
+UBC,2013,W,SOWK,550,,001,SOC WRK & JUSTCE,"Bryson, Stephanie",33,85.18,7.62,95,54,33,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,7,16,6
+UBC,2013,W,SOWK,559,,001,ADV INT SEMINAR,"Bryson, Stephanie",13,91,2.97,95,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11
+UBC,2014,W,SOWK,525,,001,PR MENTAL HEALTH,"Bryson, Stephanie",23,86.38,5.04,96,78,21,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,5
+UBC,2014,W,SOWK,551,,002,HLTH & SOC CARE,"Bosma, Harvey;Bryson, Stephanie",12,85.83,6.59,97,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,3
+UBC,2014,W,SOWK,554,C,004,RSCH-QUALT MTHDS,"Bryson, Stephanie",19,93.63,3.37,98,88,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+UBC,2014,W,SOWK,559,,004,ADV INT SEMINAR,"Bryson, Stephanie",12,92.08,4.76,97,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10
+UBC,2015,W,SOWK,335,,001,SOC ANL SOWK,"Bryson, Stephanie;Riano-Alcala, Pilar",50,85.62,4.07,94,74,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,18,23,7
+UBC,2015,W,SOWK,551,,001,HLTH & SOC CARE,"Bryson, Stephanie;Robitaille, Teresa",16,84.5,7.53,91,60,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,7,3
+UBC,2015,W,SOWK,554,C,003,RSCH-QUALT MTHDS,"Bryson, Stephanie",11,84.73,9.42,94,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,5,3
+UBC,2015,W,SOWK,559,,001,ADV INT SEMINAR,"Bryson, Stephanie",16,86.06,6.05,93,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,7,4
+UBC,2015,W,SOWK,560,C,002,DIR FLD STUDIES,"Bryson, Stephanie",30,,,,,0,0,1,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2014,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Stephanie Anne Bryson;Stephanie Bryson,21,86.38095238,5.044563316,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,9,5
+UBCV,2014,W,SOWK,551,,002,Health and Social Care Praxis,Harvey Bosma;Stephanie Anne Bryson;Stephanie Bryson,12,85.83333333,6.589707309,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,3
+UBCV,2014,W,SOWK,554,C,004,Qualitative Methods in Social Work Research,Stephanie Anne Bryson;Stephanie Bryson,19,93.63157895,3.369974057,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,16
+UBCV,2014,W,SOWK,559,,004,Advanced Integrative Seminar,Stephanie Anne Bryson;Stephanie Bryson,12,92.08333333,4.756972554,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,10
+UBCV,2015,W,SOWK,335,,001,Social Analysis for Social Work Practice,Pilar Riano-Alcala;Stephanie Bryson;Tamara Miskovic,50,85.62,4.070250456,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,18,23,7
+UBCV,2015,W,SOWK,551,,001,Health and Social Care Praxis,Stephanie Anne Bryson;Stephanie Bryson;Teresa Robitaille,16,84.5,7.527726527,91.0,60.0,,,,,,,,,,,0,0,0,,,,,,,7,
+UBCV,2015,W,SOWK,554,C,003,Qualitative Methods in Social Work Research,Stephanie Anne Bryson;Stephanie Bryson,11,84.727272727,9.424339861,94.0,60.0,,,,,,,,,,,0,0,0,,,,,,,5,
+UBCV,2015,W,SOWK,559,,001,Advanced Integrative Seminar,Stephanie Anne Bryson;Stephanie Bryson,16,86.0625,6.049449011,93.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,7,4

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",31,87.39,6.48,97,70,28,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,11,10
+UBC,2010,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",29,82.11,8.57,95,56,28,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,6,4,8,5
+UBC,2012,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",28,81.9,8.5,93,60,20,0,1,7,0,0,0,0,0,0,0,0,0,1,0,2,0,2,8,3,4
+UBC,2014,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",25,85.2,7.68,98,70,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,6,9
+UBC,2014,W,CAPS,424,,001,MAM ENDOCRINOLGY,"Baimbridge, Kenneth;Clee, Susanne Michelle;Hammond, Geoffrey Lewis;Hoffman, Bradford;Kieffer, Tim;Kindler, Pawel;Luciani, Dan;Verchere, Bruce;Viau, Victor",14,85,6.54,93,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,5
+UBC,2015,W,CAPS,390,,001,INTR MCR HUM ANT,"Kopp, Janel;Loewen, Christopher;Moukhles, Hakima;O'Connor, Timothy;Roskelley, Calvin;Tanentzapf, Guy;Viau, Victor",376,74.61,14.32,100,32,364,6,6,0,0,0,0,0,2,4,6,24,21,38,37,38,32,26,38,35,75
+UBC,2015,W,CAPS,424,,001,MAM ENDOCRINOLGY,"Baimbridge, Kenneth;Clee, Susanne Michelle;Hammond, Geoffrey Lewis;Hoffman, Bradford;Kieffer, Tim;Kindler, Pawel;Luciani, Dan;Verchere, Bruce;Viau, Victor",28,87.63,7.54,95,60,27,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,8,13
+UBC,2016,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",22,81.38,6.94,95,70,21,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,4,4,5,3
+UBC,2016,W,CAPS,390,,001,INTR MCR HUM ANT,"Kopp, Janel;Loewen, Christopher;Moukhles, Hakima;O'Connor, Timothy;Roskelley, Calvin;Tanentzapf, Guy;Viau, Victor;Yule, Heather",407,74.61,14.85,100,17,393,9,4,0,0,0,1,0,4,4,9,33,22,32,32,38,40,28,46,44,78
+UBC,2016,W,CAPS,424,,001,MAM ENDOCRINOLGY,"Clee, Susanne Michelle;Hoffman, Bradford;Johnson, James;Kindler, Pawel;Luciani, Dan;Rideout, Elizabeth;Verchere, Bruce;Viau, Victor",29,86.48,6.4,96,72,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,5,13
+UBC,2017,W,CAPS,390,,001,INTR MCR HUM ANT,"Loewen, Christopher;Moukhles, Hakima;O'Connor, Timothy;Roskelley, Calvin;Tanentzapf, Guy;Viau, Victor;Vogl, A Wayne;Yule, Heather",366,71.51,14.85,100,15,341,19,3,0,0,0,2,2,4,11,19,29,19,32,36,36,32,25,51,37,44
+UBC,2017,W,CAPS,424,,001,MAM ENDOCRINOLGY,"Baimbridge, Kenneth;Hammond, Geoffrey Lewis;Hoffman, Bradford;Kieffer, Tim;Kindler, Pawel;Luciani, Dan;Verchere, Bruce;Viau, Victor",23,87.68,8.51,97,63,22,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,2,5,12
+UBC,2018,W,ANAT,516,,001,FNC HMN NEUR:CNS,"Viau, Victor",19,84.32,7.56,94,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,3,7
+UBC,2018,W,CAPS,390,,001,INTR MCR HUM ANT,"Kopp, Janel;Loewen, Christopher;Moukhles, Hakima;O'Connor, Timothy;Roskelley, Calvin;Tanentzapf, Guy;Viau, Victor;Vogl, A Wayne;Yule, Heather",250,75.05,14.38,96,14,228,7,6,0,7,0,1,0,3,3,7,11,20,19,15,10,20,22,33,43,35

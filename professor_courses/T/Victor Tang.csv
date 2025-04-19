@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,COMM,464,,101,DIGITALMARKETING,"Sandhu, Meena;Tang, Victor",39,89.38,3.13,95,85,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,17,,,
+UBC,2016,W,COMM,464,,102,DIGITALMARKETING,"Sandhu, Meena;Tang, Victor",33,85.52,10.89,90,44,32,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,19,11,,,
+UBC,2017,W,BAMA,513,,001,DIGITAL MKTG,"Tang, Victor",37,91.05,2.07,95,88,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,26,,,
+UBC,2017,W,BAMA,513,,002,DIGITAL MKTG,"Tang, Victor",45,90.75,2.47,95,86,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,27,,,
+UBC,2017,W,COMM,464,,101,DIGITALMARKETING,"Tang, Victor",34,88.74,3.96,94,80,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,19,,,
+UBC,2017,W,COMM,464,,201,DIGITALMARKETING,"Tang, Victor",41,89,3.94,98,75,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,18,20,,,
+UBC,2018,W,COMM,464,,101,DIGITALMARKETING,"Tang, Victor",39,88.36,2.92,95,83,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,23,12,,,
+UBC,2018,W,COMM,464,,201,DIGITALMARKETING,"Tang, Victor",42,88.43,7.47,98,51,42,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,18,22,,,
+UBCV,2016,W,COMM,464,,101,Digital Marketing,Meena Sandhu;Victor Tang,39,89.38461539,3.133985059,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,22,17,,,
+UBCV,2016,W,COMM,464,,102,Digital Marketing,Meena Sandhu;Victor Tang,33,85.51515152,10.88898874,90.0,44.0,,,,,,,,,,,1,1,0,1,0,0,0,0,0,19,11,,,
+UBCV,2017,S,BA,512,,302,Business Strategy Integration: Experiential Learning,Victor Tang,13,89.846153846,2.409915415,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,9,,,
+UBCV,2017,W,BAMA,513,,001,Digital Marketing,Victor Tang,37,91.054054054,2.067552847,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,26,,,
+UBCV,2017,W,BAMA,513,,002,Digital Marketing,Victor Tang,44,90.75,2.469582396,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,17,27,,,
+UBCV,2017,W,COMM,464,,101,Digital Marketing,Victor Tang,34,88.735294118,3.964301486,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,7,19,,,
+UBCV,2017,W,COMM,464,,201,Digital Marketing,Victor Tang,41,89.0,3.937003937,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,18,20,,,
+UBCV,2018,W,BA,512,,302,Business Strategy Integration: Experiential Learning,Victor Tang,11,92.818181818,4.60039524,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,10,,,
+UBCV,2018,W,COMM,464,,101,Digital Marketing,Victor Tang,39,88.358974359,2.915360224,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,23,12,,,
+UBCV,2018,W,COMM,464,,201,Digital Marketing,Victor Tang,42,88.428571429,7.473996734,98.0,51.0,,,,,,,,,,,0,1,0,0,1,0,0,0,0,18,22,,,
+UBCV,2019,W,BAMA,513,,001,Digital Marketing,Victor Tang,45,90.044444444,2.803857372,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,18,25,,,
+UBCV,2019,W,COMM,464,,101,Digital Marketing,Victor Tang,49,88.775510204,4.139571768,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,16,24,,,
+UBCV,2019,W,COMM,464,,201,Digital Marketing,Victor Tang,44,87.636363636,3.641434097,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,27,13,,,
+UBCV,2020,W,BAMA,513,,001,Digital Marketing,Victor Tang,33,91.272727273,3.947093292,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,10,22,,,
+UBCV,2020,W,COMM,464,,101,Digital Marketing,Victor Tang,48,88.208333333,4.247443954,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,22,18,,,
+UBCV,2020,W,COMM,464,,201,Digital Marketing,Katrina Del Rosario;Victor Tang,43,88.11627907,3.953354828,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,18,17,,,
+UBCV,2021,W,BA,511,,DD1,Community Business Project,Dharini Thiruchittampalam;Joanne Turner;Victor Tang;Wayne Rawcliffe,66,82.939393939,2.794933812,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,55,5,5,,,
+UBCV,2021,W,BAMA,513,,001,Digital Marketing,Victor Tang,33,88.575757576,3.984582028,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,15,13,,,
+UBCV,2021,W,COMM,464,,101,Digital Marketing,Katrina Del Rosario;Victor Tang,53,87.056603774,4.849326259,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,13,16,21,,,
+UBCV,2021,W,COMM,464,,201,Digital Marketing,Merissa Mah;Victor Tang,47,85.489361702,4.57247122,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,2,17,19,8,,,
+UBCV,2021,W,BAMA,513,,001,Digital Marketing,Victor Tang,33,88.6,,95.0,77.0,,,,,,,,,,,,,,,,,,,,15,13,89.0,91.0,86.0
+UBCV,2021,W,COMM,464,,101,Digital Marketing,Victor Tang,53,87.1,,94.0,71.0,,,,,,,,,,,,,,,,,,,13,16,21,88.0,91.0,84.0
+UBCV,2021,W,COMM,464,,201,Digital Marketing,Victor Tang,47,85.5,,94.0,69.0,,,,,,,,,,,,,,,,,,,17,19,8,86.0,88.0,83.5
+UBCV,2022,W,BAMA,513,,001,Digital Marketing,Victor Tang,43,91.4,,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,39,92.0,92.5,90.0
+UBCV,2022,W,COMM,464,,101,Digital Marketing,Victor Tang,47,86.0,,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,16,18,10,85.0,89.0,83.0
+UBCV,2022,W,COMM,464,,201,Digital Marketing,Victor Tang,52,86.3,,94.0,57.0,,,,,,,,,,,0,0,1,0,0,1,0,2,8,25,15,87.0,90.0,85.0
+UBCV,2022,W,COMM,464,,202,Digital Marketing,Victor Tang,49,83.0,,93.0,57.0,,,,,,,,,,,0,0,1,0,0,0,5,9,11,17,6,84.0,88.0,79.0
+UBCV,2023,W,COMM,464,,101,Digital Marketing,Victor Tang,49,83.53,,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,8,15,12,9,83.0,88.0,79.0
+UBCV,2023,W,COMM,464,,201,Digital Marketing,Victor Tang,50,79.88,,89.0,59.0,,,,,,,,,,,0,0,1,0,0,1,8,12,18,10,0,80.0,84.0,77.25
+UBCV,2023,W,COMM,464,,202,Digital Marketing,Victor Tang,45,78.69,,91.0,59.0,,,,,,,,,,,0,0,1,0,0,2,5,18,15,1,3,78.0,81.0,77.0

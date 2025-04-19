@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MIDW,405,,001,ADV TOPICS,"Campbell, Kim;Simmons, Valerie;Wines, Jane",18,83.5,4.3,91,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,6,1
+UBC,2016,W,MIDW,420,,001,ADV CLINICL CARE,"Campbell, Kim;Simmons, Valerie;Wines, Jane",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2016,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Jane Wines;Kim Campbell;Valerie Simmons,18,83.5,4.301162634,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,6,1
+UBCV,2020,W,MIDW,230,,001,Midwifery Theory for Primary Care,Allison Campbell;Courtney Broten;Jane Wines;Michelle Turner;Valerie Simmons,18,88.666666667,4.0,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,9,8

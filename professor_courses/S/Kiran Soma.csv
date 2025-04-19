@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,PSYC,460,,001,HORMONES&BEHAVOR,"Soma, Kiran",43,70.71,8.18,82,40,40,1,2,0,0,0,0,0,0,1,1,0,1,4,5,9,12,1,8,0,0,,,
+UBC,2006,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",88,67.11,13.86,97,41,76,8,3,0,1,0,0,0,0,8,8,10,12,7,12,5,5,7,7,7,4,,,
+UBC,2007,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",79,67.55,16.17,92,0,69,7,3,0,0,2,0,0,0,5,7,5,2,13,5,13,6,8,10,3,4,,,
+UBC,2009,W,PSYC,306,A,001,PRIN ANIML BEHAV,"Soma, Kiran",108,69.87,11.94,96,12,102,2,4,0,0,0,1,0,0,1,2,6,9,10,15,14,18,10,7,9,4,,,
+UBC,2009,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",113,68.71,14.07,93,26,103,6,4,0,0,0,0,1,3,2,6,16,10,3,9,12,11,17,14,7,4,,,
+UBC,2009,W,PSYC,594,,001,PSYCHONEUROENDRO,"Soma, Kiran",9,86.67,4.5,94,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,,,
+UBC,2011,W,PSYC,306,A,001,PRIN ANIML BEHAV,"Soma, Kiran",127,69.63,9.99,94,39,114,2,8,0,0,0,0,0,1,1,2,7,10,10,18,18,17,14,13,5,2,,,
+UBC,2011,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",127,72.89,9.8,93,40,119,2,5,0,0,0,0,0,0,2,2,4,2,14,13,11,24,20,18,11,2,,,
+UBC,2011,W,PSYC,594,,001,PSYCHONEUROENDRO,"Soma, Kiran",4,89.25,2.5,92,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2012,W,PSYC,306,A,001,PRIN ANIML BEHAV,"Soma, Kiran",142,71.07,10.89,92,48,137,3,1,0,0,0,0,0,0,3,3,5,21,11,14,11,16,23,23,9,4,,,
+UBC,2012,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",116,70.25,13.07,88,19,109,5,2,0,0,0,1,1,2,1,5,8,10,9,10,11,11,16,25,9,0,,,
+UBC,2013,W,PSYC,306,A,001,PRIN ANIML BEHAV,"Soma, Kiran",147,69.47,12.42,96,0,136,8,2,0,0,1,1,0,0,6,8,5,8,13,18,32,16,16,16,9,3,,,
+UBC,2013,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",115,71.72,11.28,94,29,108,3,4,0,0,0,0,1,0,2,3,5,9,10,8,14,16,16,19,8,3,,,
+UBC,2013,W,PSYC,594,,001,PSYCHONEUROENDRO,"Soma, Kiran",6,86.67,3.83,94,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2014,W,PSYC,306,A,001,PRIN ANIML BEHAV,"Soma, Kiran",129,68.22,13.46,88,0,120,8,1,0,0,1,0,0,2,5,8,12,10,12,15,15,10,18,18,10,0,,,
+UBC,2014,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",119,66.8,13.38,91,30,105,13,1,0,0,0,0,0,3,10,13,8,13,13,14,10,14,8,14,10,1,,,
+UBC,2015,W,PSYC,260,,001,EXPERML PSYC&LAB,"Soma, Kiran",48,73.33,7.12,88,54,48,0,0,0,0,0,0,0,0,0,0,1,1,2,4,7,18,7,4,4,0,,,
+UBC,2015,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",123,66.19,12.33,90,29,108,8,6,0,0,0,0,1,2,5,8,10,17,14,14,11,12,12,13,4,1,,,
+UBC,2015,W,PSYC,594,,001,PSYCHONEUROENDRO,"Soma, Kiran",8,87.43,3.55,91,82,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,,,
+UBC,2016,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",120,67.53,11.89,93,25,111,5,4,0,0,0,0,1,0,4,5,10,14,18,11,15,11,12,13,3,4,,,
+UBC,2018,W,PSYC,270,,001,INT BHVRL NEURSC,"Soma, Kiran",93,72.33,7.71,88,48,89,1,3,0,0,0,0,0,0,1,1,0,2,7,15,18,15,13,16,3,0,,,
+UBC,2018,W,PSYC,306,A,002,PRIN ANIML BEHAV,"Soma, Kiran",110,69.71,13.34,92,32,93,12,3,0,2,0,0,0,2,10,12,3,5,13,8,17,6,12,15,9,5,,,
+UBC,2018,W,PSYC,594,,001,PSYCHONEUROENDRO,"Soma, Kiran",8,88.88,3.8,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,,,
+UBCV,2014,W,PSYC,306,A,001,Principles of Animal Behaviour,Kiran Soma,128,68.21875,13.45856137,88.0,0.0,,,,,,,,,,,8,12,10,12,15,15,10,18,18,10,0,,,
+UBCV,2014,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma;Shaina Cahill,118,66.79661017,13.37976487,91.0,30.0,,,,,,,,,,,13,8,13,13,14,10,14,8,14,10,1,,,
+UBCV,2015,W,PSYC,260,,001,Experimental Psychology and Laboratory,Kalina Christoff;Kiran Soma;Nicole Jenni;Patrick Laflamme;Quentin Raffaelli;Richard Alan Rigby;Ryan Tomm;Silvain Dang,48,73.333333333,7.123032265,88.0,54.0,,,,,,,,,,,0,,,,,7,18,7,,,0,,,
+UBCV,2015,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma;Shaina Cahill,117,66.299145299,12.333207876,90.0,29.0,,,,,,,,,,,8,10,17,14,14,11,12,13,13,4,1,,,
+UBCV,2015,W,PSYC,594,,001,Psychoneuroendocrinology,Kiran Soma,7,87.428571429,3.552329886,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2016,W,PSYC,260,,001,Experimental Psychology and Laboratory,Gabriel Smith;Jacqueline-Marie Ferland;Kalina Christoff;Kiran Soma;Nicole Jenni;Richard Alan Rigby;Silvain Dang;Sneha Ketan Sheth;Yvette Monique Graveline,45,75.97777778,7.881188445,87.0,47.0,,,,,,,,,,,1,0,1,1,2,3,7,12,15,3,0,,,
+UBCV,2016,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma;Shaina Cahill,116,67.52586207,11.89333844,93.0,25.0,,,,,,,,,,,5,10,14,18,11,15,11,12,13,3,4,,,
+UBCV,2018,W,PSYC,270,,001,Introduction to Behavioural Neuroscience,Alyssa Mercedes Ash;Debra Ann Bercovici;Debra Bercovici;Kiran Soma;Melody Salehzadeh;Melody Salehzadeh Moghadami;Nicole Jenni,90,72.333333333,7.709617516,88.0,48.0,,,,,,,,,,,1,0,2,7,15,18,15,13,16,3,0,,,
+UBCV,2018,W,PSYC,306,A,002,Principles of Animal Behaviour,Alyssa Mercedes Ash;Kiran Soma,107,69.327102804,13.528987538,92.0,32.0,,,,,,,,,,,13,4,5,13,8,17,6,12,15,9,5,,,
+UBCV,2018,W,PSYC,594,,001,Psychoneuroendocrinology,Kiran Soma,8,88.875,3.796144661,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,5,,,
+UBCV,2019,W,PSYC,270,,001,Introduction to Behavioural Neuroscience,Debra Ann Bercovici;Debra Bercovici;Kiran Soma;Melody Salehzadeh;Melody Salehzadeh Moghadami;Nicole Jenni;Susan Heritage,97,77.989690722,6.943964474,90.0,55.0,,,,,,,,,,,0,0,2,2,2,9,15,23,28,15,1,,,
+UBCV,2019,W,PSYC,306,A,002,Principles of Animal Behaviour,Jackson Schumacher;Kiran Soma,127,74.559055118,12.997346215,96.0,25.0,,,,,,,,,,,2,10,8,4,9,12,14,15,22,19,12,,,
+UBCV,2020,W,PSYC,270,,001,Introduction to Behavioural Neuroscience,Debra Bercovici;Kiran Soma;Melody Salehzadeh;Melody Salehzadeh Moghadami;Nicole Jenni;Valerie Lo,99,77.101010101,8.018467141,90.0,31.0,,,,,,,,,,,1,1,0,0,9,6,14,28,23,16,1,,,
+UBCV,2020,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma;Sofia Gray,124,69.637096774,14.84737237,100.0,33.0,,,,,,,,,,,14,7,11,10,8,16,13,9,15,12,9,,,
+UBCV,2020,W,PSYC,594,,001,Psychoneuroendocrinology,Kiran Soma,9,91.555555556,1.589898669,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,,,
+UBCV,2021,W,PSYC,270,,001,Introduction to Behavioural Neuroscience,Jackson Schumacher;Kiran Soma;Megan Liu;Melody Salehzadeh Moghadami;Valerie Lo,99,79.868686869,7.112286674,94.0,58.0,,,,,,,,,,,0,0,1,1,2,12,9,15,31,24,4,,,
+UBCV,2021,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma;Sofia Gray,124,71.10483871,14.476680743,95.0,0.0,,,,,,,,,,,7,7,10,7,9,15,13,19,17,15,5,,,
+UBCV,2021,W,PSYC,270,,001,Introduction to Behavioural Neuroscience,Kiran Soma,101,79.9,,94.0,62.0,,,,,,,,,,,,,,,,12,12,15,31,24,,81.0,85.0,75.0
+UBCV,2021,W,PSYC,306,A,002,Principles of Animal Behaviour,Kiran Soma,123,71.7,,95.0,0.0,,,,,,,,,,,6,7,9,7,9,15,13,19,17,15,6,75.0,81.5,64.0
+UBCV,2022,W,NSCI,201,,001,Fundamentals of Behavioural and Cognitive Neuroscience,Steven Barnes;Kiran Soma,143,82.0,,96.0,65.0,,,,,,,,,,,0,0,0,0,2,9,8,24,46,40,14,83.0,86.0,78.0
+UBCV,2022,W,PSYC,306,A,001,Principles of Animal Behaviour,Kiran Soma,137,71.8,,100.0,37.0,,,,,,,,,,,5,7,14,8,14,12,21,18,15,14,9,73.0,80.0,64.0
+UBCV,2022,W,PSYC,594,,001,Psychoneuroendocrinology,Kiran Soma,10,90.3,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6,92.0,93.0,88.0
+UBCV,2023,W,NSCI,201,,001,Fundamentals of Behavioural and Cognitive Neuroscience,Kiran Soma,151,78.72,,93.0,54.0,,,,,,,,,,,0,1,2,3,7,12,19,28,46,26,7,80.0,84.0,74.0
+UBCV,2023,W,PSYC,306,A,001,Principles of Animal Behaviour,Kiran Soma,155,71.8,,95.0,27.0,,,,,,,,,,,13,9,7,8,12,15,15,11,32,14,11,75.0,83.0,63.5

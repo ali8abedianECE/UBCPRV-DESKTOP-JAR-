@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,FRST,534,,201,NATURAL RES ECON,"Barichello, Richard;Bull, Gary;Langston, James",15,82.67,5.47,90,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,4,2,,,
+UBCV,2018,W,FRST,534,,201,Natural Resources Economics,Gary Bull;James Langston;Richard Barichello,15,82.666666667,5.472876844,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,4,3,4,2,,,
+UBCV,2019,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Rebecca Anne Riggs;Rebecca Riggs,23,84.695652174,4.486695308,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,5,9,5,,,
+UBCV,2019,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",James Langston;Janette Bulkan,25,87.52,7.200231478,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,1,1,8,13,,,
+UBCV,2019,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,20,87.45,4.98919886,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,10,7,,,
+UBCV,2019,W,FRST,559,,101,Natural Resources Planning,James Langston;Terence Sunderland,23,82.434782609,6.451399333,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,4,6,6,3,,,
+UBCV,2020,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,13,82.692307692,4.150996173,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,6,0,,,
+UBCV,2020,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",James Langston;Janette Bulkan,13,84.384615385,8.949287323,95.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,0,2,5,3,,,
+UBCV,2020,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;James Langston;Richard Barichello,13,87.461538462,4.175631382,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,5,,,
+UBCV,2020,W,FRST,559,,101,Natural Resources Planning,Alida O'Connor;James Langston;Terence Sunderland,12,81.75,5.956280108,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,3,5,0,,,
+UBCV,2021,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Jeffrey Sayer;Rebecca Anne Riggs;Rebecca Riggs,21,84.904761905,3.433726284,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,11,2,,,
+UBCV,2021,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",Agni Boedhihartono;James Langston;Janette Bulkan;Jeffrey Sayer;Rebecca Riggs,19,85.789473684,6.868437857,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,5,7,,,
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,17,85.705882353,4.538236247,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,9,2,,,
+UBCV,2021,W,FRST,559,,101,Natural Resources Planning,Alida O'Connor;James Langston;Terence Sunderland,18,82.888888889,5.561304215,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,4,7,4,2,,,
+UBCV,2021,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,21,84.9,,91.0,79.0,,,,,,,,,,,,,,,,,,,6,11,,85.0,87.0,83.0
+UBCV,2021,W,FRST,522,,101,"Social, Community, and Indigenous Forestry",Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,19,85.8,,97.0,71.0,,,,,,,,,,,,,,,,,,,,,7,86.0,91.0,82.0
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Richard Barichello;Gary Bull;Christopher Gaston;James Langston,17,85.7,,95.0,79.0,,,,,,,,,,,,,,,,,,,,9,,86.0,87.0,82.0
+UBCV,2021,W,FRST,559,,101,Natural Resources Planning,James Langston;Terence Sunderland,18,82.9,,92.0,71.0,,,,,,,,,,,,,,,,,,,7,,,83.0,87.8,79.3
+UBCV,2022,S,FRST,526,C,922,Directed Studies in International Forestry,James Langston,17,89.4,,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,9,7,87.0,96.0,87.0
+UBCV,2022,W,FRST,519,,101,Forests and Society,Agni Boedhihartono;James Langston;Rebecca Riggs;Jeffrey Sayer,18,79.2,,92.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,2,8,3,4,82.5,86.8,81.0
+UBCV,2022,W,FRST,534,,201,Natural Resources Economics,James Langston,18,89.2,,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,8,88.5,91.8,87.3
+UBCV,2023,S,FRST,526,C,922,Directed Studies in International Forestry,James Langston,13,85.38,,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,2,5,85.0,90.0,81.0

@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,FRST,320,,101,ABIOTIC DISTURBN,"Pickell, Paul;Read, Wolf",87,75.28,7.69,91,57,87,0,0,0,0,0,0,0,0,0,0,0,2,2,8,20,15,14,15,9,2,,,
+UBC,2017,S,CONS,340,,921,INTR GIS FRS&CON,"Pickell, Paul",52,75.35,8.25,91,50,49,0,2,0,0,0,0,0,0,0,0,1,0,1,5,8,12,6,11,2,3,,,
+UBC,2017,W,CONS,340,,101,INTR GIS FRS&CON,"Pickell, Paul",119,77.34,10.11,94,29,114,2,2,0,1,0,0,1,0,1,2,1,1,4,6,12,20,20,20,20,10,,,
+UBC,2017,W,CONS,340,,201,INTR GIS FRS&CON,"Pickell, Paul",64,73.62,16.39,95,0,57,3,4,0,0,1,0,1,1,0,3,0,2,3,5,11,5,8,8,9,6,,,
+UBC,2018,S,CONS,340,,921,INTR GIS FRS&CON,"Pickell, Paul",58,81.51,8.62,95,54,55,0,2,0,0,0,0,0,0,0,0,1,2,0,1,1,2,11,16,12,9,,,
+UBC,2018,W,CONS,340,,201,INTR GIS FRS&CON,"Pickell, Paul",60,76.05,17.55,97,16,54,5,0,0,1,0,3,0,0,2,5,1,0,3,1,4,4,6,13,16,6,,,
+UBC,2018,W,UFOR,400,,201,UFOR FIELD SCHL,"Day, Susan;Pickell, Paul",27,81.07,4.85,91,71,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,11,3,2,,,
+UBCV,2014,W,FRST,439,,201,International Forestry,John Innes;Paul Drew Pickell;Paul Pickell,80,77.225,15.58478242,97.0,21.0,,,,,,,,,,,6,,,,,7,10,9,15,11,17,,,
+UBCV,2016,W,FRST,320,,101,Abiotic Disturbances: Fire and Climate,Paul Drew Pickell;Paul Pickell;Wolf Read,87,75.27586207,7.694289116,91.0,57.0,,,,,,,,,,,0,0,2,2,8,20,15,14,15,9,2,,,
+UBCV,2017,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,50,75.34,8.168156188,91.0,50.0,,,,,,,,,,,0,1,0,1,5,8,13,6,11,2,3,,,
+UBCV,2017,W,CONS,340,,101,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher William Mulverhill;Paul Pickell;Yuhao Lu,117,77.213675214,10.168264576,94.0,29.0,,,,,,,,,,,2,1,1,5,6,12,20,20,20,20,10,,,
+UBCV,2017,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,60,73.616666667,16.393561848,95.0,0.0,,,,,,,,,,,3,0,2,3,5,11,5,8,8,9,6,,,
+UBCV,2017,W,FRST,556,,101,Land Information Acquisition and Analysis,Michael Meitner;Nicholas Charles Coops;Paul Pickell;Pramila Khatri Chhetri;Valerie Lemay,25,87.8,6.576473219,95.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,1,3,8,12,,,
+UBCV,2017,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Paul Drew Pickell;Paul Pickell;Tanya Gallagher;Trevor Gareth Jones;Trevor Jones,34,85.088235294,5.166134755,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,3,13,9,8,,,
+UBCV,2018,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,56,81.375,8.597171839,95.0,54.0,,,,,,,,,,,0,1,2,0,1,1,3,11,16,12,9,,,
+UBCV,2018,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Jeremy Benjamin Arkin;Paul Pickell;Shuojie Li,60,75.216666667,18.559196785,97.0,16.0,,,,,,,,,,,6,1,0,3,1,4,4,6,13,16,6,,,
+UBCV,2018,W,FRST,556,,101,Land Information Acquisition and Analysis,Michael Meitner;Nicholas Charles Coops;Paul Drew Pickell;Paul Pickell;Peter Marshall;Pramila Khatri Chhetri;Valerie Lemay,22,84.590909091,6.253829995,94.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,2,7,6,5,,,
+UBCV,2018,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Christopher William Mulverhill;Michael Meitner;Paul Hacker;Paul Pickell,41,85.341463415,8.813653488,97.0,48.0,,,,,,,,,,,1,0,0,0,1,1,1,3,5,17,12,,,
+UBCV,2018,W,UFOR,400,,201,Urban Forestry Field School,Cecil Konijnendijk;Paul Drew Pickell;Paul Pickell;Sara Fryer;Susan Day,27,81.074074074,4.851057981,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,9,11,3,2,,,
+UBCV,2019,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Jeremy Benjamin Arkin;Paul Pickell;Philip Baev,50,81.9,9.435603438,95.0,58.0,,,,,,,,,,,0,0,2,2,0,3,6,3,10,12,12,,,
+UBCV,2019,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Agatha Czekajlo;Felix Poulin;Francois Du Toit;Jeremy Benjamin Arkin;Paul Drew Pickell;Paul Pickell;Rik Johannes Gerardus Nuijten;Ryan Frazier;Ryan James Frazier;Stephen Sheppard,29,85.655172414,7.82064969,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,4,6,6,10,,,
+UBCV,2019,W,GEM,511,,201,Advanced Geographic Information Systems for Environmental Management,Andrew Chadwick;Andrew J Chadwick;Brian Klinkenberg;Christopher William Mulverhill;Paul Pickell,31,79.967741935,8.45570368,95.0,68.0,,,,,,,,,,,0,0,0,0,0,7,5,3,4,9,3,,,
+UBCV,2019,W,GEOB,479,,201,Research in Geographic Information Science,Andrew Chadwick;Brian Klinkenberg;Christopher William Mulverhill;Paul Pickell,21,78.714285714,7.191264542,91.0,65.0,,,,,,,,,,,0,0,0,0,1,2,3,5,5,4,1,,,
+UBCV,2020,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Agatha Czekajlo;Amy Blood;Jeremy Benjamin Arkin;Paul Pickell,78,83.076923077,8.772402462,97.0,51.0,,,,,,,,,,,0,1,0,0,4,6,0,13,16,18,20,,,
+UBCV,2020,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Bryn Gerson;Jeremy Benjamin Arkin;Michael Meitner;Paul Pickell;Spencer Dakin Kuiper,70,83.342857143,8.620645449,95.0,50.0,,,,,,,,,,,0,1,0,3,1,2,3,6,14,23,17,,,
+UBCV,2020,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Amy Blood;Claire Armour;Francois Du Toit;Jeremy Benjamin Arkin;Paul Pickell;Rik Johannes Gerardus Nuijten;Stephen Sheppard,27,92.185185185,4.206561148,99.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,21,,,
+UBCV,2020,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Lauren Shinnimin;Michael Meitner;Paul Hacker;Paul Pickell,28,91.571428571,3.282146671,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,20,,,
+UBCV,2020,W,GEM,510,,102,Geographic Information Systems for Forestry and Conservation,Lauren Shinnimin;Paul Pickell,20,88.35,3.616846547,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,8,,,
+UBCV,2020,W,GEM,511,,201,Advanced Geographic Information Systems for Environmental Management,Brian Klinkenberg;Claire Armour;Paul Pickell,27,92.0,4.038278384,99.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,23,,,
+UBCV,2021,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Aeryn Ng;Amy Blood;Paul Pickell;Ziyun Zeng,78,76.743589744,11.964705561,92.0,41.0,,,,,,,,,,,3,3,1,4,4,6,8,11,12,18,8,,,
+UBCV,2021,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Claire Armour;Daniel Sax;Francois Du Toit;Ira Sutherland;Jennifer Baron;Laura Grant;Martin Emile Queinnec;Paul Pickell;Sara Barron;Sarah Smith-Tripp,28,90.607142857,5.691704722,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,10,15,,,
+UBCV,2021,W,FCOR,599,,002,Project Proposal Development and Proof of Concept,Amy Blood;Daniel Sax;Laura Grant;Paul Pickell;Sara Barron;Zhaohua Cheng,10,96.6,6.275171534,100.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,9,,,
+UBCV,2021,W,FRST,538,,101,Advanced Geomatics for Natural Resource Management,Nicholas Charles Coops;Paul Pickell;Sarah Smith-Tripp;Spencer Dakin Kuiper,43,87.581395349,3.698342989,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,17,16,,,
+UBCV,2021,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Lauren Shinnimin;Paul Hacker;Paul Pickell,28,92.071428571,3.790129202,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,22,,,
+UBCV,2021,W,GEM,511,,201,Advanced Geographic Information Systems for Environmental Management,Claire Armour;Paul Pickell,28,94.464285714,2.937397978,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,25,,,
+UBCV,2021,W,UFOR,511,,101,Geomatics Principles and Applications,Amy Blood;Kirsten Stevens;Nicholas Charles Coops;Paul Pickell,10,78.4,29.231641912,96.0,0.0,,,,,,,,,,,1,0,0,0,1,0,0,1,1,1,5,,,
+UBCV,2021,S,CONS,340,,921,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,78,76.7,,92.0,41.0,,,,,,,,,,,,,,,,6,8,11,12,18,8,79.0,86.0,71.0
+UBCV,2021,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Sara Barron;Paul Pickell,28,90.6,,98.0,77.0,,,,,,,,,,,,,,,,,,,,10,15,92.0,95.0,87.0
+UBCV,2021,W,FRST,538,,101,Advanced Geomatics for Natural Resource Management,Nicholas Charles Coops;Paul Pickell,43,87.6,,94.0,77.0,,,,,,,,,,,,,,,,,,,9,17,16,88.0,90.0,85.0
+UBCV,2021,W,UFOR,511,,101,Geomatics Principles and Applications,Paul Pickell,10,78.4,,96.0,0.0,,,,,,,,,,,,,,,,,,,,,,88.5,95.0,78.0
+UBCV,2022,S,UFOR,511,,951,Geomatics Principles and Applications,Paul Pickell,7,91.3,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4,91.0,95.5,87.5
+UBCV,2022,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Paul Pickell,28,86.9,,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,8,5,12,88.0,92.3,82.8
+UBCV,2022,W,FRST,538,,101,Advanced Geomatics for Natural Resource Management,Nicholas Charles Coops;Paul Pickell,40,86.7,,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,1,7,17,13,88.0,90.3,84.8
+UBCV,2022,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Paul Pickell,29,91.1,,98.0,54.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,3,23,94.0,95.0,90.0
+UBCV,2022,W,GEM,511,,201,Advanced Geographic Information Systems for Environmental Management,Paul Pickell,28,88.3,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,8,3,15,92.0,94.0,82.0
+UBCV,2023,S,UFOR,511,,951,Geomatics Principles and Applications,Paul Pickell,9,92.0,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,7,91.0,96.0,90.0
+UBCV,2023,W,FCOR,599,,001,Project Proposal Development and Proof of Concept,Paul Pickell,29,80.3,,100.0,0.0,,,,,,,,,,,1,0,0,2,0,1,4,6,4,7,4,84.0,89.0,75.0
+UBCV,2023,W,FRST,538,,101,Advanced Geomatics for Natural Resource Management,Nicholas Charles Coops;Paul Pickell,24,88.4,,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,9,11,88.5,92.0,86.0
+UBCV,2023,W,GEM,510,,101,Geographic Information Systems for Forestry and Conservation,Paul Pickell,29,91.72,,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,19,92.0,94.0,89.0
+UBCV,2023,W,GEM,511,,201,Advanced Geographic Information Systems for Environmental Management,Paul Pickell,29,91.72,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,22,93.0,95.0,90.0

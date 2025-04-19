@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ENPH,481,,201,ENTREPRN PROJ  I,"Isbasescu, Ioan;Marziali, Andre",4,86.75,2.63,89,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,,,
+UBCV,2019,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu,40,87.125,6.579640314,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,0,8,10,18,,,
+UBCV,2019,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu,20,86.85,6.753361736,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,4,4,9,,,
+UBCV,2020,S,ENPH,480,,941,Engineering Physics Project IV,Amar Achal Shah;Amar Shah;Andre Marziali;Ioan Isbasescu;Ioan Mitrut Isbasescu;Pei Yuan Zheng,64,87.625,5.644213219,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,21,21,20,,,
+UBCV,2020,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Joshua White,40,88.55,5.027871038,97.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,1,4,17,17,,,
+UBCV,2020,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Thien Ho,24,87.416666667,4.862605015,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,12,8,,,
+UBCV,2021,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu,44,85.795454545,5.865070215,93.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,1,9,25,8,,,
+UBCV,2021,W,ENPH,353,,201,Engineering Physics Project I,Cheng-Che Lee;Ioan Isbasescu,11,84.363636364,13.559297381,100.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,0,3,0,6,,,
+UBCV,2021,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu,44,85.8,,93.0,54.0,,,,,,,,,,,,,,,,,,,9,25,8,86.0,89.0,84.8
+UBCV,2021,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu,11,84.4,,100.0,50.0,,,,,,,,,,,,,,,,,,,,,6,91.0,91.5,82.5
+UBCV,2022,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu,33,84.5,,93.0,6.0,,,,,,,,,,,1,0,0,0,0,0,1,1,2,20,8,88.0,89.0,85.0
+UBCV,2022,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu,32,87.0,,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,4,13,11,88.0,91.0,84.8
+UBCV,2022,W,ENPH,459,,001,Engineering Physics Project II,Dylan Gunn;Ioan Isbasescu,60,85.6,,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,22,18,16,85.0,90.0,83.0
+UBCV,2022,W,ENPH,479,,101,Engineering Physics Project III,Dylan Gunn;Ioan Isbasescu,39,84.9,,97.0,35.0,,,,,,,,,,,1,0,0,1,0,0,1,2,8,15,11,86.0,90.5,84.0
+UBCV,2023,S,ENPH,253,,L01,Introduction to Instrument Design,Dylan Gunn;Ioan Isbasescu;Andre Marziali,69,89.97,,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,18,11,40,92.0,95.0,84.0
+UBCV,2023,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu,35,87.37,,95.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,2,6,14,12,89.0,91.0,84.5
+UBCV,2023,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu,34,85.21,,94.0,22.0,,,,,,,,,,,1,0,0,0,0,0,0,0,10,14,9,86.5,89.75,83.25
+UBCV,2023,W,ENPH,459,,001,Engineering Physics Project II,Dylan Gunn;Ioan Isbasescu,67,86.03,,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,18,39,8,85.0,88.5,84.0
+UBCV,2023,W,ENPH,479,,101,Engineering Physics Project III,Dylan Gunn;Ioan Isbasescu,61,84.23,,95.0,60.0,,,,,,,,,,,0,0,0,2,1,2,2,4,13,20,16,85.0,90.0,81.75

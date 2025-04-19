@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,COSC,305,,001,Project Management,Hamid Afshari;John Graham-Knight,50,75.82,8.920716545,95.0,60.0,0,0,0,4,8,4,8,7,11,2,6
+UBCO,2018,W,COSC,445,,101,Computer Vision,Abdallah Mohamed;John Graham-Knight;Mayeesha Mariam,78,71.820512821,16.314079323,100.0,31.0,14,1,1,3,5,8,9,8,8,10,11
+UBCO,2019,W,COSC,111,,101,Computer Programming I,Abhineeth Adiraju;Amir Hossein Zeinali Kalkhoran;Bowen Hui;Cameron Chong;Erik Johnston;Islam Osman;John Graham-Knight;Opeyemi Adeyemi;Pradeep Mahato;Tenzin Jinpa,85,79.541176471,20.956617855,100.0,0.0,13,1,0,1,2,2,4,5,11,10,36
+UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.791044776,16.379530198,97.0,13.0,5,0,2,2,5,1,13,7,6,18,8
+UBCO,2019,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,16,84.0,9.084785817,93.0,54.0,0,1,0,0,0,0,0,1,4,7,3
+UBCO,2019,W,COSC,341,,001,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Mohammad Khalad Hasan;Rishab Sharma;Trevor Richard;Zil Huma,101,85.217821782,9.188693009,96.0,56.0,0,0,4,0,2,3,5,7,14,26,40
+UBCO,2019,W,COSC,341,,002,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Rishab Sharma;Trevor Richard;Vladimir Grebenyuk;Zil Huma,55,81.236363636,10.967905429,95.0,45.0,3,0,0,0,2,0,4,7,12,18,9
+UBCO,2019,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;John Graham-Knight,34,87.882352941,9.021068625,100.0,57.0,0,0,1,0,0,0,2,2,7,3,19
+UBCO,2019,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,12,86.916666667,12.645217086,97.0,52.0,0,1,0,0,0,0,0,1,1,2,7
+UBCO,2020,S,COSC,122,,001,Computer Fluency,Elias Pinno;John Graham-Knight;Ken Chidlow,44,81.840909091,15.59210173,98.0,16.0,1,1,1,3,2,1,0,4,6,6,19
+UBCO,2020,S,COSC,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,81,79.24691358,10.505392501,97.0,45.0,2,0,1,2,5,7,10,13,14,11,16
+UBCO,2020,S,DATA,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,53,78.377358491,13.113742667,100.0,41.0,2,0,1,1,7,6,5,8,2,7,14
+UBCO,2020,W,DATA,531,,001,Programming for Data Science,Firas Moosvi;John Graham-Knight,31,90.612903226,5.565832788,100.0,80.0,0,0,0,0,0,0,0,0,5,5,21
+UBCO,2020,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Debangsha Sarkar;John Graham-Knight;Mohamed Shehata,32,91.46875,4.406625327,98.0,79.0,0,0,0,0,0,0,0,1,3,4,24
+UBCO,2020,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Firas Moosvi;John Graham-Knight;Ramon Lawrence,31,90.322580645,6.073917444,99.0,72.0,0,0,0,0,0,0,1,1,3,4,22
+UBCO,2020,W,DATA,542,,101,Data Wrangling,Debangsha Sarkar;Fatemeh Hendijani Fard;John Graham-Knight,31,91.741935484,6.049615646,100.0,75.0,0,0,0,0,0,0,1,0,2,7,21
+UBCO,2020,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;John Graham-Knight;Patricia Lasserre,31,92.096774194,4.085379123,98.0,82.0,0,0,0,0,0,0,0,0,1,6,24

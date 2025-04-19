@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,COSC,101,,001,Digital Citizenship,Bowen Hui,38,79.210526316,20.377727501,100.0,19.0,5,,,,,,,,,5,16,,,
+UBCO,2015,W,COSC,111,,101,Computer Programming I,Bowen Hui;Michael Nowicki,69,65.260869565,25.429054812,100.0,2.0,24,,,3,5,4,5,1,7,4,15,,,
+UBCO,2015,W,COSC,341,,001,Human Computer Interaction,Bowen Hui,76,80.986842105,7.403590878,95.0,54.0,0,,,,,,9,11,23,16,10,,,
+UBCO,2015,W,COSC,419,B,001,Topics in Computer Science,Bowen Hui;Yi-Hsun Huang,35,79.628571429,10.814167489,98.0,50.0,0,,,,,,7,,5,7,6,,,
+UBCO,2015,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui,32,82.5,10.936768409,100.0,59.0,0,0,,,,,,,7,5,9,,,
+UBCO,2016,W,COSC,101,,001,Digital Citizenship,Ashley Segert;Bowen Hui;Shanika Rajapakshe,74,72.04054054,22.73036662,96.0,0.0,11,1,4,1,3,5,5,10,6,14,14,,,
+UBCO,2016,W,COSC,111,,101,Computer Programming I,Bowen Hui;Cameron Chong;Levi Miller,70,72.27142857,24.22175416,100.0,0.0,19,0,0,2,1,2,6,5,7,6,22,,,
+UBCO,2016,W,COSC,419,C,001,Topics in Computer Science,Bowen Hui,28,81.39285714,18.11759792,100.0,44.0,2,2,0,0,3,2,1,1,4,1,12,,,
+UBCO,2016,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Dewan Wahid,33,84.39393939,6.618815009,95.0,69.0,0,0,0,0,0,2,1,3,11,8,8,,,
+UBCO,2017,W,COSC,111,,101,Computer Programming I,Angelina Pinchbeck;Bowen Hui;Jeff Bulmer;Levi Miller;Rachelle Gelden,113,66.061946903,23.462844177,100.0,9.0,38,1,4,4,4,8,6,7,8,12,21,,,
+UBCO,2017,W,COSC,341,,001,Human Computer Interaction,Bowen Hui;Jeff Bulmer;Levi Miller,76,78.697368421,16.17077177,100.0,39.0,10,0,0,0,2,5,10,4,11,11,23,,,
+UBCO,2017,W,COSC,442,,001,Mobile Educational Game Development,Bowen Hui;Levi Miller,30,84.9,7.0336629,99.0,74.0,0,0,0,0,0,0,6,1,8,7,8,,,
+UBCO,2017,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Deepak Kumar,29,82.586206897,10.192844974,100.0,61.0,0,0,0,1,1,3,2,1,10,2,9,,,
+UBCO,2019,W,COSC,111,,101,Computer Programming I,Abhineeth Adiraju;Amir Hossein Zeinali Kalkhoran;Bowen Hui;Cameron Chong;Erik Johnston;Islam Osman;John Graham-Knight;Opeyemi Adeyemi;Pradeep Mahato;Tenzin Jinpa,85,79.541176471,20.956617855,100.0,0.0,13,1,0,1,2,2,4,5,11,10,36,,,
+UBCO,2019,W,COSC,419,C,101,Topics in Computer Science,Bowen Hui;Congsong Zhang;Pradeep Mahato,29,80.620689655,15.85743132,98.0,45.0,2,1,1,1,0,3,1,3,2,3,12,,,
+UBCO,2019,W,COSC,448,A,103,Directed Studies in Computer Science,Bowen Hui,8,72.875,13.973827577,93.0,55.0,0,0,2,0,1,0,2,1,0,0,2,,,
+UBCO,2019,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;John Graham-Knight,34,87.882352941,9.021068625,100.0,57.0,0,0,1,0,0,0,2,2,7,3,19,,,
+UBCO,2020,W,COSC,341,,101,Human Computer Interaction,Bowen Hui;Brianna Marshinew;Courtney Gosselin;Heather Mehain;Pinku Nath;Rachelle Gelden,160,91.025,9.86063261,100.0,45.0,3,0,0,1,0,5,1,6,9,26,109,,,
+UBCO,2020,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Zil Huma,77,92.376623377,8.209492197,100.0,45.0,1,0,0,0,0,0,1,1,8,8,58,,,
+UBCO,2021,W,COSC,329,,001,Learning Analytics,Bowen Hui;Congsong Zhang,52,83.115384615,20.344728899,100.0,0.0,5,0,0,0,0,3,4,2,1,10,27,,,
+UBCO,2021,W,COSC,341,,101,Human Computer Interaction,Biswapriyo Chakrabarty;Bowen Hui;Charles-Olivier Dufresne-Camaro;Devina Jaiswal;Marium-E- Jannat;Pinku Nath;Yu Qi Lin,193,84.056994819,19.143152205,100.0,5.0,28,0,1,0,3,2,4,7,10,25,113,,,
+UBCO,2021,W,COSC,541,,101,Advanced Human Computer Interaction,Bowen Hui,6,87.333333333,6.121002097,96.0,78.0,0,0,0,0,0,0,0,1,1,2,2,,,
+UBCO,2021,W,COSC,329,,001,Learning Analytics,Bowen Hui,52,83.1,,100.0,0.0,,,,,,,,,,10,27,90.5,94.3,77.8
+UBCO,2021,W,COSC,541,,101,Advanced Human Computer Interaction,Bowen Hui,6,87.3,,96.0,78.0,,,,,,,,,,,,87.5,90.3,84.8
+UBCO,2023,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui,105,84.3,,98.0,45.0,4,0,0,0,1,2,7,11,26,12,41,85.0,92.3,80.0

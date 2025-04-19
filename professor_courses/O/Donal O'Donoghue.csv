@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,ARTE,320,,202,CRC&INS ART ELEM,"O'Donoghue, Donal",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,ARTE,541,,091,"PRS,PRC,&CUR ISS","O'Donoghue, Donal",9,85.5,5.95,96,78,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,2
+UBC,2009,S,ARTE,441,,921,THEORY & RSEARCH,"O'Donoghue, Donal",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,ARTE,565,A,941,SP CRS SBJCT FLD,"O'Donoghue, Donal",7,92,4.12,97,89,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2009,W,ARTE,508,A,031,REV RES ARTE MTH,"O'Donoghue, Donal",10,89.6,5.17,94,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6
+UBC,2010,S,EDCP,301,,102,CRC&PED ART ELEM,"LeBlanc, Natalie;O'Donoghue, Donal",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,409,,921,ART ED THRY&RES,"O'Donoghue, Donal",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,523,A,941,SEMINAR ART EDUC,"O'Donoghue, Donal",9,91.38,5.5,96,80,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+UBC,2010,W,CCFI,508,D,052,REV RES ED MTHDS,"O'Donoghue, Donal",11,88.6,3.5,92,81,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5
+UBC,2011,S,EDCP,409,,921,ART ED THRY&RES,"O'Donoghue, Donal",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,EDCP,523,A,941,SEMINAR ART EDUC,"O'Donoghue, Donal",17,86.8,4.68,95,79,15,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,3
+UBC,2011,W,EDCP,504,A,032,REV RES ART EDUC,"O'Donoghue, Donal",17,88.59,3.52,95,83,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,7
+UBC,2012,S,EDCP,409,,921,ART ED THRY&RES,"O'Donoghue, Donal",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,S,EDCP,523,A,941,SEMINAR ART EDUC,"O'Donoghue, Donal",15,91.29,3.54,96,85,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10
+UBC,2013,S,EDCP,523,A,921,SEMINAR ART EDUC,"O'Donoghue, Donal",16,89.5,4.38,94,80,14,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,10
+UBC,2013,W,EDCP,504,A,031,REV RES ART EDUC,"O'Donoghue, Donal",19,92.79,3.1,98,88,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+UBC,2014,W,EDCP,301,,105,ART ELEM CRC&PED,"O'Donoghue, Donal",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EDCP,504,A,031,REV RES ART EDUC,"O'Donoghue, Donal",8,88.88,3.87,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+UBC,2015,W,EDCP,504,A,032,REV RES ART EDUC,"O'Donoghue, Donal",12,93.33,2.42,97,90,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2015,W,EDCP,523,A,031,SEMINAR ART EDUC,"O'Donoghue, Donal",8,91.13,5.08,97,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5
+UBC,2016,W,EDCP,504,A,032,REV RES ART EDUC,"O'Donoghue, Donal",7,91.86,2.34,95,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2016,W,EDUC,450,B,307,INQUIRY SEMNR 1,"O'Donoghue, Donal",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,520,,031,"PRS,PRC,&CUR ISS","O'Donoghue, Donal",13,89.92,5.07,96,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,8
+UBC,2017,W,EDCP,580,D,031,Prob in Educ,"Loutzenheiser, Lisa;O'Donoghue, Donal;Phelan, Anne;Renwick, Kerry",8,88.63,3.89,93,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+UBC,2018,S,EDCP,523,A,941,SEMINAR ART EDUC,"O'Donoghue, Donal",11,91.91,3.36,96,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+UBC,2018,W,EDCP,504,A,032,REV RES ART EDUC,"O'Donoghue, Donal",16,93.31,3.14,96,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14
+UBC,2018,W,EDCP,520,,031,"PRS,PRC,&CUR ISS","O'Donoghue, Donal",11,92.91,1.92,95,89,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2014,W,EDCP,504,A,031,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,8,88.875,3.870677312,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,EDCP,504,A,032,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,12,93.333333333,2.424621183,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2015,W,EDCP,523,A,031,Seminar in Art Education,Donal O'Donoghue,8,91.125,5.083235752,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5
+UBCV,2016,W,EDCP,504,A,032,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,7,91.85714286,2.340126167,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2017,W,EDCP,520,,031,"Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",Donal O'Donoghue,13,89.923076923,5.073814122,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,8
+UBCV,2017,W,EDCP,580,D,031,Problems in Education,Anne Phelan;Donal O'Donoghue;Kerry Renwick;Lisa Loutzenheiser,8,88.625,3.889087297,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,4
+UBCV,2018,S,EDCP,523,A,941,Seminar in Art Education,Donal O'Donoghue,11,91.909090909,3.3601948,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8
+UBCV,2018,W,EDCP,504,A,032,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,16,93.3125,3.135150182,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,14
+UBCV,2018,W,EDCP,520,,031,"Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",Donal O'Donoghue,11,92.909090909,1.921173884,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2019,S,EDCP,523,A,952,Seminar in Art Education,Donal O'Donoghue,10,94.7,1.888562063,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2019,W,EDCP,520,,031,"Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",Donal O'Donoghue;Hsiao-Cheng Han,8,96.0,2.138089935,98.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2020,S,EDCP,523,A,952,Seminar in Art Education,Donal O'Donoghue,17,92.117647059,3.789497871,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,13
+UBCV,2020,W,EDCP,504,A,031,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,15,92.866666667,2.325838303,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,13

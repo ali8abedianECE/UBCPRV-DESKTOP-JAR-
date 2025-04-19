@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,JAPN,408,,001,RDGS MOD JAPN LT,"Ohsawa, Yuki",17,74.33,6.38,87,66,15,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3,2,4,2,1,0,,,
+UBC,2015,W,ASIA,360,A,001,SP ASIAN LIT TRN,"Ohsawa, Yuki",53,70.72,10.81,89,44,50,3,0,0,0,0,0,0,0,3,3,2,1,8,5,4,7,13,8,2,0,,,
+UBC,2016,W,ASIA,326,,002,MANGA & ANIME,"Ohsawa, Yuki",77,76.89,11.32,94,31,64,2,5,0,0,0,0,0,1,1,2,0,4,1,1,8,4,18,13,10,5,,,
+UBC,2016,W,JAPN,456,,001,NEWSPAPER JAPN I,"Ohsawa, Yuki",10,71,10.84,88,54,10,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,2,0,2,1,0,,,
+UBC,2017,S,ASIA,326,,921,MANGA & ANIME,"Ohsawa, Yuki",80,76.3,11.24,93,41,75,1,2,0,0,0,0,0,0,1,1,1,4,5,6,10,5,9,10,20,5,,,
+UBCV,2014,W,JAPN,408,,001,Readings in Modern Japanese Literature,Yuki Ohsawa,15,74.33333333,6.377042157,87.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,0,,,
+UBCV,2015,W,ASIA,360,A,001,A Specific Asian Literature in Translation,Yuki Ohsawa,53,70.716981132,10.813768571,89.0,44.0,,,,,,,,,,,,,,8,5,,7,13,8,,0,,,
+UBCV,2015,W,JAPN,150,,001,Intensive Beginning Japanese I,Ihhwa Kim;Yuki Ohsawa,21,63.047619048,20.958235113,94.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,ASIA,326,,002,Critical Approaches to Manga and Anime,Casey Collins;Casey Ray Collins;Yuki Ohsawa,72,76.51388889,11.43504997,94.0,31.0,,,,,,,,,,,2,1,4,1,1,11,4,18,14,10,6,,,
+UBCV,2016,W,JAPN,456,,001,Newspaper Japanese I,Yuki Ohsawa,10,71.0,10.84230398,88.0,54.0,,,,,,,,,,,0,1,0,2,1,1,2,0,2,1,0,,,
+UBCV,2017,S,ASIA,326,,921,Critical Approaches to Manga and Anime,Yuki Ohsawa,78,76.0,11.26078127,93.0,41.0,,,,,,,,,,,1,1,4,6,7,10,5,9,10,20,5,,,
+UBCV,2019,W,ASIA,326,,003,Critical Approaches to Manga and Anime,Jose Manuel Escalona Echaniz;Sharalyn Orbaugh;Yuki Ohsawa,64,75.640625,9.869573554,92.0,56.0,,,,,,,,,,,0,0,6,3,6,8,6,5,18,7,5,,,
+UBCV,2019,W,ASIA,326,,004,Critical Approaches to Manga and Anime,Sonay Cheema;Yuki Ohsawa,63,76.650793651,12.735724114,93.0,16.0,,,,,,,,,,,1,2,2,1,7,4,5,7,15,13,6,,,
+UBCV,2020,S,ASIA,326,,921,Critical Approaches to Manga and Anime,Jose Manuel Escalona Echaniz;Yuki Ohsawa,63,75.26984127,8.363141772,88.0,56.0,,,,,,,,,,,0,0,3,3,6,9,9,9,14,10,0,,,
+UBCV,2020,S,ASIA,326,,951,Critical Approaches to Manga and Anime,Atsumi Nakao;Yuki Ohsawa,64,76.828125,6.418115946,87.0,59.0,,,,,,,,,,,0,0,1,2,2,8,8,19,17,7,0,,,
+UBCV,2020,S,ASIA,326,,952,Critical Approaches to Manga and Anime,Huiyong Cyrus Qiu;Yuki Ohsawa,65,74.353846154,16.415913363,91.0,0.0,,,,,,,,,,,3,1,1,3,7,4,7,12,13,12,2,,,
+UBCV,2020,W,ASIA,326,,001,Critical Approaches to Manga and Anime,Huiyong Cyrus Qiu;Sharalyn Orbaugh;Yuki Ohsawa,60,76.783333333,8.88360071,90.0,45.0,,,,,,,,,,,1,1,0,1,7,4,5,10,22,8,1,,,
+UBCV,2020,W,ASIA,326,,002,Critical Approaches to Manga and Anime,Anika Kuzyk;Haley Blum;Yuki Ohsawa,63,74.634920635,13.063494552,90.0,0.0,,,,,,,,,,,3,0,1,3,3,9,7,13,16,7,1,,,
+UBCV,2020,W,ASIA,326,,003,Critical Approaches to Manga and Anime,Atsumi Nakao;Kiran Sunar;Yuki Ohsawa,53,75.094339623,6.780243219,89.0,60.0,,,,,,,,,,,0,0,0,3,5,7,15,7,12,4,0,,,
+UBCV,2020,W,ASIA,326,,005,Critical Approaches to Manga and Anime,Olga Belokon;Yuki Ohsawa,63,76.174603175,7.834044155,90.0,53.0,,,,,,,,,,,0,1,2,3,2,4,13,19,11,7,1,,,
+UBCV,2020,W,ASIA,326,,006,Critical Approaches to Manga and Anime,Iman Isa;Yuki Ohsawa,59,75.661016949,8.84855369,90.0,46.0,,,,,,,,,,,1,1,1,2,3,5,12,15,11,6,2,,,
+UBCV,2021,S,ASIA,326,,921,Critical Approaches to Manga and Anime,Iman Isa;Yuki Ohsawa,64,77.515625,8.133786458,92.0,59.0,,,,,,,,,,,0,0,2,1,4,7,11,12,11,15,1,,,
+UBCV,2021,S,ASIA,326,,951,Critical Approaches to Manga and Anime,Huiyong Cyrus Qiu;Yuki Ohsawa,57,76.140350877,12.381493385,95.0,11.0,,,,,,,,,,,1,1,0,4,3,6,8,8,15,7,4,,,
+UBCV,2021,W,ASIA,326,,001,Critical Approaches to Manga and Anime,Anika Kuzyk;Haley Blum;Hyung Gu Lynn;Shirin Eshghi;Yuki Ohsawa,64,78.875,14.528024369,94.0,0.0,,,,,,,,,,,2,2,0,2,1,3,7,7,16,15,9,,,
+UBCV,2021,W,ASIA,326,,002,Critical Approaches to Manga and Anime,Haley Blum;Yuki Ohsawa,51,78.294117647,15.570862683,93.0,14.0,,,,,,,,,,,3,0,2,1,1,3,2,7,13,10,9,,,
+UBCV,2021,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Rebecca Fuk Hing Chau Choi;Yuki Ohsawa,15,74.733333333,10.606377237,88.0,56.0,,,,,,,,,,,0,0,1,2,2,1,0,2,4,3,0,,,
+UBCV,2021,S,ASIA,326,,921,Critical Approaches to Manga and Anime,Yuki Ohsawa,64,77.5,,92.0,59.0,,,,,,,,,,,,,,,,7,11,12,11,15,,77.5,84.3,73.0
+UBCV,2021,S,ASIA,326,,951,Critical Approaches to Manga and Anime,Yuki Ohsawa,57,76.1,,95.0,11.0,,,,,,,,,,,,,,,,6,8,8,15,7,,78.0,84.0,71.0
+UBCV,2021,W,JAPN,453,,001,Readings in Modern Japanese Literature,Rebecca Fuk Hing Chau Choi;Yuki Ohsawa,15,74.7,,88.0,56.0,,,,,,,,,,,,,,,,,,,,,,78.0,83.0,65.5
+UBCV,2022,S,ASIA,326,,921,Critical Approaches to Manga and Anime,Yuki Ohsawa,47,77.4,,91.0,33.0,,,,,,,,,,,1,0,0,4,3,3,4,7,15,8,2,81.0,84.0,73.0
+UBCV,2022,S,ASIA,326,,922,Critical Approaches to Manga and Anime,Yuki Ohsawa,57,76.6,,88.0,49.0,,,,,,,,,,,1,0,0,1,3,7,7,15,19,4,0,78.0,81.0,73.0

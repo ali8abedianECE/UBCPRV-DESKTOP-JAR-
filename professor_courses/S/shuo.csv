@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,EECE,253,,201,CIRCUIT ANLY II,"Tang, Shuo",67,67.85,14.14,95,33,62,4,1,0,0,0,0,0,1,3,4,9,9,5,6,5,6,6,9,1,6
+UBC,2007,W,EECE,253,,202,CIRCUIT ANLY II,"Tang, Shuo",59,66.59,13.67,98,39,54,5,0,0,0,0,0,0,1,4,5,7,4,7,10,6,4,6,4,3,3
+UBC,2007,W,EECE,571,T,103,ELEC SEM&SP PROB,"Tang, Shuo",8,85.75,2.76,90,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1
+UBC,2009,W,EECE,253,,203,CIRCUIT ANLY II,"Tang, Shuo",102,73.04,13.26,100,42,98,3,1,0,0,0,0,0,0,3,3,6,5,13,4,14,9,10,17,10,10
+UBC,2009,W,EECE,375,,101,INST DESG LAB,"Abolmaesumi, Purang;Tang, Shuo",19,87.74,7.42,100,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,7
+UBC,2009,W,EECE,375,,201,INST DESG LAB,"Abolmaesumi, Purang;Tang, Shuo",39,80.92,7.04,94,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,10,10,5,6
+UBC,2009,W,EECE,474,,101,INST DESIGN LAB,"Abolmaesumi, Purang;Tang, Shuo",31,86.68,10.15,100,60,31,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,6,5,14
+UBC,2009,W,EECE,474,,201,INST DESIGN LAB,"Abolmaesumi, Purang;Tang, Shuo",29,85.28,9.07,100,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,9,3,10
+UBC,2009,W,EECE,490,T,104,TPCS ELEC&CMP I,"Tang, Shuo",4,77.25,11.32,87,61,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0
+UBC,2009,W,EECE,571,T,103,ELEC SEM&SP PROB,"Tang, Shuo",5,85.6,3.05,90,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2010,W,EECE,253,,203,CIRCUIT ANLY II,"Tang, Shuo",111,74.94,12.77,99,42,105,3,3,0,0,0,0,0,0,3,3,1,6,12,9,12,16,8,14,8,19
+UBC,2010,W,EECE,361,,101,SIGNALS&SYS LAB,"Tang, Shuo",46,80.35,7.11,96,66,46,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,6,16,9,4
+UBC,2010,W,EECE,571,T,103,ELEC SEM&SP PROB,"Tang, Shuo",8,82.25,7.89,94,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+UBC,2011,W,EECE,253,,203,CIRCUIT ANLY II,"Tang, Shuo",57,70.89,12.24,97,50,56,0,1,0,0,0,0,0,0,0,0,6,3,8,7,7,2,5,11,3,4
+UBC,2011,W,EECE,361,,201,SIGNALS&SYS LAB,"Tang, Shuo",75,83.16,8.64,97,55,75,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,9,6,16,22,17
+UBC,2011,W,EECE,571,T,103,ELEC SEM&SP PROB,"Tang, Shuo",11,80.55,8.94,91,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,5,1
+UBC,2012,W,EECE,253,,203,CIRCUIT ANLY II,"Tang, Shuo",151,70.37,15.89,100,23,136,8,4,0,3,0,0,1,5,2,8,19,8,13,13,13,14,7,17,14,18
+UBC,2012,W,EECE,253,,T2C,CIRCUIT ANLY II,"Tang, Shuo",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EECE,361,,101,SIGNALS&SYS LAB,"Tang, Shuo",41,82.22,6.4,92,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,12,9,7
+UBC,2012,W,EECE,490,T,104,TPCS ELEC&CMP I,"Tang, Shuo",7,81.29,9.11,89,65,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,4,0
+UBC,2012,W,EECE,571,T,103,ELEC SEM&SP PROB,"Tang, Shuo",8,86.43,4.24,93,82,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1
+UBC,2013,W,EECE,253,,203,CIRCUIT ANLY II,"Tang, Shuo",117,72.74,15.81,100,28,109,6,0,0,2,0,0,2,0,4,6,11,3,10,13,6,17,9,10,11,19
+UBC,2013,W,EECE,435,,101,BIOPHOTONICS,"Tang, Shuo",8,83.75,4.46,90,76,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1
+UBC,2013,W,EECE,535,,101,ADV BIOPHOTONICS,"Tang, Shuo",8,84,3.46,90,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1
+UBC,2014,S,COMM,293,,922,FINANCIAL ACCTNG,"Yang, Shuo",41,63.61,19.25,96,6,30,8,3,0,0,1,0,1,1,5,8,3,5,0,4,3,4,3,3,2,3
+UBC,2015,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",41,86.32,5.34,96,69,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,14,12
+UBC,2015,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",37,85.92,5.48,96,73,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,14,9
+UBC,2015,W,EECE,535,,201,ADV BIOPHOTONICS,"Tang, Shuo",10,83.4,3.06,87,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,0
+UBC,2015,W,ELEC,474,,201,BIOPHOTONICS,"Tang, Shuo",6,79.5,3.33,85,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,0
+UBC,2015,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",89,86.31,5.32,96,63,88,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,30,33,21
+UBC,2015,W,ELEC,492,,001,EL ENRG SYST DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",29,87.32,5.25,95,76,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,10,9
+UBC,2015,W,ELEC,493,,001,NANTEC & MICRSYS,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",8,84.88,5.89,96,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1
+UBC,2015,W,ELEC,494,,001,BIOMED CPSTN DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",13,89.54,4.81,96,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9
+UBC,2016,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",51,83.9,7.3,94,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,6,8,22,10
+UBC,2016,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",37,84.94,5.06,95,75,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10,12,8
+UBC,2016,W,EECE,535,,201,ADV BIOPHOTONICS,"Tang, Shuo",11,84.1,9.41,95,70,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,4
+UBC,2016,W,ELEC,474,,201,BIOPHOTONICS,"Tang, Shuo",15,79.58,7.44,93,70,12,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,5,2,1
+UBC,2016,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",95,84.86,5.82,94,64,95,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,14,19,36,21
+UBC,2016,W,ELEC,492,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",16,87.06,3.66,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4
+UBC,2016,W,ELEC,493,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",6,90.67,3.2,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2016,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",15,87.33,2.5,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,2
+UBC,2017,W,EECE,535,,101,ADV BIOPHOTONICS,"Tang, Shuo",9,85.11,9.05,96,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,4
+UBC,2017,W,ELEC,202,,201,CIRCUIT ANLYS 2,"Linares, Luis;Tang, Shuo",84,69.62,17.21,97,23,71,11,1,0,1,0,0,1,7,3,11,5,3,7,4,7,9,10,9,10,7
+UBC,2017,W,ELEC,202,,202,CIRCUIT ANLYS 2,"Linares, Luis;Tang, Shuo",77,70.58,15.89,99,26,69,5,1,0,2,0,0,3,1,1,5,6,5,5,6,7,8,10,7,9,6
+UBC,2017,W,ELEC,474,,101,BIOPHOTONICS,"Tang, Shuo",6,79.33,12.58,96,60,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,1
+UBC,2018,W,ELEC,202,,201,CIRCUIT ANLYS 2,"Linares, Luis;Tang, Shuo",76,65.85,13.38,87,28,63,10,0,0,3,0,0,1,3,6,10,0,3,12,12,12,9,4,5,6,0
+UBC,2018,W,ELEC,202,,202,CIRCUIT ANLYS 2,"Linares, Luis;Tang, Shuo",90,68.91,14.66,100,26,74,12,0,0,4,0,0,1,0,11,12,2,6,5,12,11,10,4,12,3,9
+UBC,2018,W,ELEC,474,,101,BIOPHOTONICS,"Tang, Shuo",5,78.2,14.81,94,60,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,2
+UBC,2018,W,ELEC,524,,101,ADV BIOPHOTO,"Tang, Shuo",10,83.4,7.89,95,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,3,3

@@ -1,0 +1,68 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,MATH,300,,102,INTR COMPLEX VAR,"Angel, Omer",70,66.99,19.44,100,4,61,9,0,0,0,1,0,3,1,4,9,8,6,9,3,3,4,5,11,5,7,,,
+UBC,2009,W,MATH,120,,101,DIFFER CALCULUS,"Angel, Omer",30,80.79,10.57,96,56,29,0,1,0,0,0,0,0,0,0,0,0,1,0,2,3,3,2,3,8,7,,,
+UBC,2009,W,MATH,419,,201,STOCHASTIC PROC,"Angel, Omer",6,75.25,17.95,92,50,4,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,,,
+UBC,2009,W,MATH,544,,101,PROBABILITY I,"Angel, Omer",12,84.56,7.13,94,70,9,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,2,,,
+UBC,2010,W,MATH,220,,201,MATH PROOF,"Angel, Omer",59,61.28,18.34,100,22,46,12,0,0,0,0,0,3,4,5,12,11,6,1,6,5,8,0,1,3,5,,,
+UBC,2010,W,MATH,548,,201,DSCRT RANDM PRCS,"Angel, Omer",7,90.71,2.14,93,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBC,2011,W,MATH,318,,201,PROB PHYS APP,"Angel, Omer",82,72.21,15.92,100,27,74,6,2,0,0,0,0,1,1,4,6,7,4,7,4,5,11,7,8,9,12,,,
+UBC,2012,S,MATH,608,D,921,TPCS PROBABILITY,"Angel, Omer",4,94.5,2.52,97,91,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2012,W,MATH,302,,101,INTR PROBABILITY,"Angel, Omer",90,74.2,11.9,95,41,84,3,1,0,2,0,0,0,0,3,3,5,3,4,7,9,8,13,19,12,4,,,
+UBC,2012,W,MATH,544,,101,PROBABILITY I,"Angel, Omer",10,91.2,6.09,100,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,,,
+UBC,2013,W,MATH,100,,110,DF CALC AP PH SC,"Angel, Omer",135,75,13.79,97,16,127,5,3,0,0,0,1,1,2,1,5,4,7,7,8,11,15,17,23,23,12,,,
+UBC,2013,W,MATH,301,,201,APPLIED ANALYSIS,"Angel, Omer",30,69.34,21.81,94,31,22,7,1,0,0,0,0,0,4,3,7,1,3,1,1,1,0,2,2,2,9,,,
+UBC,2013,W,MATH,418,,101,PROBABILITY,"Angel, Omer",10,79.7,16.98,100,50,10,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,2,3,,,
+UBC,2013,W,MATH,544,,101,PROBABILITY I,"Angel, Omer",7,90.5,7.15,98,82,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,,,
+UBC,2013,W,MATH,545,,201,PROBABILITY II,"Angel, Omer",7,91.86,5.27,98,86,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,,,
+UBC,2014,W,MATH,302,,101,INTR PROBABILITY,"Angel, Omer",99,73.04,14.89,99,25,89,6,2,0,2,0,0,1,2,3,6,2,8,7,6,9,13,8,13,10,13,,,
+UBC,2014,W,MATH,418,,101,PROBABILITY,"Angel, Omer",10,89.89,7.88,100,77,9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,,,
+UBC,2014,W,MATH,544,,101,PROBABILITY I,"Angel, Omer",12,92.1,7,100,77,10,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,,,
+UBC,2015,W,MATH,418,,101,PROBABILITY,"Angel, Omer",11,80.82,16.55,98,50,11,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,3,4,,,
+UBC,2015,W,MATH,544,,101,PROBABILITY I,"Angel, Omer",4,93.5,3.11,96,89,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2016,W,MATH,302,,101,INTR PROBABILITY,"Angel, Omer",115,73.71,16.7,100,0,108,4,3,0,0,2,1,0,0,1,4,6,4,6,12,10,21,9,12,7,21,,,
+UBC,2016,W,MATH,548,,101,DSCRT RANDM PRCS,"Angel, Omer",9,93.88,5.51,100,86,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,,,
+UBC,2018,W,MATH,318,,201,PROB PHYS APP,"Angel, Omer",107,72.67,15.75,96,8,98,6,2,0,1,1,0,2,2,1,6,6,5,5,7,12,13,10,17,9,14,,,
+UBC,2018,W,MATH,344,,101,MATH GAME THRY,"Angel, Omer",60,73,15.33,100,44,55,2,3,0,0,0,0,0,0,2,2,5,4,6,5,8,4,1,7,5,10,,,
+UBC,2018,W,MATH,548,,101,DSCRT RANDM PRCS,"Angel, Omer",10,89.1,5.51,99,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,,,
+UBCV,2014,W,MATH,302,,101,Introduction to Probability,Omer Angel,97,72.32989691,15.5427647,99.0,25.0,,,,,,,,,,,8,2,8,7,6,9,13,8,13,10,13,,,
+UBCV,2014,W,MATH,418,,101,Probability,Omer Angel,10,81.9,26.33312236,100.0,10.0,,,,,,,,,,,,,,,,,,,,,6,,,
+UBCV,2014,W,MATH,544,,101,Probability I,Omer Angel,10,92.1,6.999206304,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,6,,,
+UBCV,2015,W,MATH,302,,101,Introduction to Probability,Omer Angel;Richard Balka,125,76.464,12.733967782,98.0,25.0,,,,,,,,,,,3,3,2,6,11,10,22,13,23,15,17,,,
+UBCV,2015,W,MATH,418,,101,Probability,Omer Angel,11,80.818181818,16.551846917,98.0,50.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2015,W,SCIE,1,,001,Science One,Amanda Claire Zimmerman;Andrew Chih-An Wang;Arthur Charbonneau;Bryan Wong;Celeste Leander;Chih-An Wang;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Fumika Suzuki;Gayathri Athavan;James Berger;Jasmyne Kassam;Mark Van Raamsdonk;Michael Gelbart;Noah Bayless;Noah Solomon Thomas Bayless;Omer Angel;Pamela Kalas;Stefan Dawydiak,62,78.435483871,9.381916627,97.0,61.0,,,,,,,,,,,0,0,0,3,6,7,8,6,11,13,8,,,
+UBCV,2016,W,MATH,302,,101,Introduction to Probability,Omer Angel,112,73.71428571,16.69678103,100.0,0.0,,,,,,,,,,,4,6,4,6,12,10,21,9,12,7,21,,,
+UBCV,2016,W,MATH,302,,201,Introduction to Probability,Omer Angel;Richard Balka,102,77.80392157,11.45895751,98.0,43.0,,,,,,,,,,,1,0,8,5,6,10,8,14,18,15,17,,,
+UBCV,2016,W,MATH,548,,101,Discrete Random Processes,Omer Angel,8,93.875,5.514591035,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2018,W,MATH,302,,101,Introduction to Probability,Aram Bahrini;Jacob Denson;Omer Angel;Yinon Spinka,109,69.587155963,16.46950662,96.0,24.0,,,,,,,,,,,11,10,8,9,9,11,7,7,13,11,13,,,
+UBCV,2018,W,MATH,302,,102,Introduction to Probability,Aram Bahrini;Jacob Denson;Omer Angel;Yinon Spinka,105,64.961904762,14.851135549,98.0,0.0,,,,,,,,,,,7,14,21,12,10,6,10,7,6,8,4,,,
+UBCV,2018,W,MATH,318,,201,Probability with Physical Applications,Alma Hernandez Torres;Alma Sarai Hernandez Torres;Omer Angel,105,72.133333333,16.616758609,96.0,8.0,,,,,,,,,,,7,6,5,5,7,12,13,10,17,9,14,,,
+UBCV,2018,W,MATH,344,,101,Mathematical Game Theory,Alma Hernandez Torres;Alma Sarai Hernandez Torres;Omer Angel,58,73.120689655,15.224723183,100.0,44.0,,,,,,,,,,,2,5,4,6,5,8,4,1,8,5,10,,,
+UBCV,2018,W,MATH,548,,101,Discrete Random Processes,Omer Angel,10,89.1,5.506561742,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,3,,,
+UBCV,2019,W,MATH,302,,101,Introduction to Probability,Kyle Macdonald;Omer Angel;Sophie Macdonald,93,79.010752688,14.562081958,100.0,21.0,,,,,,,,,,,2,2,2,10,7,6,3,10,11,13,27,,,
+UBCV,2019,W,MATH,302,,102,Introduction to Probability,Guillermo Elias Martinez Dibene;Guillermo Martinez Dibene;Omer Angel,54,77.87037037,16.451238752,98.0,20.0,,,,,,,,,,,3,2,0,1,2,4,9,3,10,6,14,,,
+UBCV,2019,W,MATH,302,,103,Introduction to Probability,Omer Angel;Serdar Turkmenafsar;Yinon Spinka,88,81.068181818,12.797086104,100.0,32.0,,,,,,,,,,,1,0,4,4,4,5,3,13,15,14,25,,,
+UBCV,2019,W,MATH,302,,201,Introduction to Probability,Adam Martens;Alireza Naderi;Ethan White;Omer Angel;Yinon Spinka,162,72.50617284,12.571903463,100.0,27.0,,,,,,,,,,,3,8,12,15,19,19,16,14,29,13,14,,,
+UBCV,2019,W,MATH,344,,101,Mathematical Game Theory,Adam Martens;Omer Angel,69,72.101449275,15.481625663,100.0,27.0,,,,,,,,,,,3,6,4,8,4,7,5,4,12,6,10,,,
+UBCV,2020,W,MATH,200,,101,Calculus III,Ailana Fraser;Albert Chau;Daniel Gomez;Edward Alexander Belk;Omer Angel,143,68.335664336,12.74005774,93.0,25.0,,,,,,,,,,,12,7,16,8,21,16,21,13,16,7,6,,,
+UBCV,2020,W,MATH,302,,101,Introduction to Probability,Julien Gagnon;Omer Angel;Patrick Walls;Rebecca Bonham-Carter;Rebecca Cherry Bonham-Carter;Richard Gerd Froese;Yaniv Plan,129,81.480620155,13.74437429,100.0,20.0,,,,,,,,,,,3,2,1,2,3,9,15,13,19,16,46,,,
+UBCV,2020,W,MATH,318,,201,Probability with Physical Applications,Geoffrey Schiebinger;Jens Malmquist;Omer Angel,97,81.597938144,11.839780926,100.0,50.0,,,,,,,,,,,0,2,2,1,2,11,14,10,17,10,28,,,
+UBCV,2020,W,MATH,344,,101,Mathematical Game Theory,Eric Rozon;Omer Angel,77,74.558441558,16.36788697,100.0,10.0,,,,,,,,,,,4,3,4,2,6,10,7,9,11,7,14,,,
+UBCV,2020,W,MATH,608,D,201,Topics in Probability,Omer Angel,6,88.833333333,19.041183437,98.0,50.0,,,,,,,,,,,0,,,,,,,,,,5,,,
+UBCV,2021,W,MATH,200,,101,Calculus III,Albert Chau;Kenneth Moore;Omer Angel,161,68.826086957,19.377359604,99.0,12.0,,,,,,,,,,,22,9,8,13,14,14,10,13,27,12,19,,,
+UBCV,2021,W,MATH,303,,201,Introduction to Stochastic Processes,Benjamin Langer;Omer Angel;Yucheng Liu,100,72.2,17.715484296,100.0,12.0,,,,,,,,,,,9,6,6,8,7,7,13,5,10,9,20,,,
+UBCV,2021,W,MATH,303,,202,Introduction to Stochastic Processes,Benjamin Langer;Omer Angel;Yucheng Liu,92,72.02173913,18.941191963,100.0,19.0,,,,,,,,,,,9,6,4,5,10,8,2,10,12,11,15,,,
+UBCV,2021,W,MATH,344,,101,Mathematical Game Theory,Omer Angel;Yucheng Liu,79,76.810126582,13.028642952,100.0,19.0,,,,,,,,,,,1,1,5,3,8,7,6,13,16,6,13,,,
+UBCV,2021,W,MATH,418,,101,Probability,Alireza Naderi;Gordon Slade;Omer Angel,17,82.470588235,11.565669279,98.0,62.0,,,,,,,,,,,0,0,0,1,0,3,2,1,1,4,5,,,
+UBCV,2021,W,MATH,544,,101,Probability I,Alireza Naderi;Gordon Slade;Omer Angel,15,76.266666667,16.934608126,96.0,38.0,,,,,,,,,,,2,0,0,2,0,0,1,2,1,3,4,,,
+UBCV,2021,W,MATH,303,,201,Introduction to Stochastic Processes,Omer Angel,99,72.8,,100.0,28.0,,,,,,,,,,,8,6,6,8,7,7,13,5,10,9,20,74.0,86.0,62.0
+UBCV,2021,W,MATH,303,,202,Introduction to Stochastic Processes,Omer Angel,92,72.0,,100.0,19.0,,,,,,,,,,,9,6,,,10,8,,10,12,11,15,76.5,86.0,62.8
+UBCV,2021,W,MATH,344,,101,Mathematical Game Theory,Omer Angel,79,76.8,,100.0,19.0,,,,,,,,,,,,,,,8,7,6,13,16,6,13,78.0,84.0,68.0
+UBCV,2022,W,MATH,220,,107,Mathematical Proof,Omer Angel;Andrew Rechnitzer,49,64.3,,97.0,30.0,,,,,,,,,,,5,8,7,5,4,6,5,2,2,1,4,63.0,72.0,53.0
+UBCV,2022,W,MATH,318,,201,Probability with Physical Applications,Omer Angel,104,77.5,,100.0,33.0,,,,,,,,,,,3,1,1,3,7,19,7,9,22,17,15,80.0,86.0,69.0
+UBCV,2022,W,MATH,344,,101,Mathematical Game Theory,Omer Angel,75,76.8,,100.0,44.0,,,,,,,,,,,2,4,2,5,2,8,10,8,13,8,13,78.0,85.5,70.0
+UBCV,2023,W,MATH,307,,101,Applied Linear Algebra,Omer Angel;Patrick Walls,108,77.9,,98.0,19.0,,,,,,,,,,,5,3,4,5,3,8,7,14,18,17,24,80.0,88.0,71.0
+UBCV,2023,W,MATH,307,,102,Applied Linear Algebra,Omer Angel;Chunyi Gai,118,72.4,,99.0,15.0,,,,,,,,,,,4,4,9,9,10,18,15,10,17,7,12,72.0,82.0,65.0
+UBCV,2023,W,MATH,307,,103,Applied Linear Algebra,Omer Angel;David Stenlund,75,69.9,,97.0,2.0,,,,,,,,,,,5,6,2,10,4,12,8,3,9,6,9,71.0,83.0,62.0
+UBCV,2023,W,MATH,344,,201,Mathematical Game Theory,Omer Angel,77,70.4,,98.0,9.0,,,,,,,,,,,3,8,4,6,7,5,10,8,13,4,6,73.0,81.0,63.0
+UBCV,2023,W,MATH,418,,101,Probability,Omer Angel,6,87.67,,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,1,3,88.5,93.75,84.75
+UBCV,2023,W,MATH,544,,101,Probability I,Omer Angel,10,89.2,,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,3,88.5,91.25,88.0

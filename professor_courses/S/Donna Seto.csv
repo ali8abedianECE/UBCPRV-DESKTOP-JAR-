@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,POLI,464,A,002,PROB INTRL RELTN,"Seto, Donna",20,79.7,5.84,88,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,8,5,0
+UBC,2018,W,POLI,423,B,001,ISS COMP POLITCS,"Seto, Donna",17,81.71,5.3,90,71,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,5,1
+UBCV,2016,W,POLI,464,A,002,Problems in International Relations,Donna Seto,20,79.7,5.840872321,88.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,3,8,5,0
+UBCV,2018,W,POLI,423,B,001,Issues in Comparative Politics,Donna Seto,17,81.705882353,5.300527166,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,3,6,5,1

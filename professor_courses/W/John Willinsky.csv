@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LLED,601,A,061,DOCTORAL SEMINAR,"Willinsky, John",11,86.91,2.63,91,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,2
+UBC,2003,W,LLED,601,A,061,DOCTORAL SEMINAR,"Willinsky, John",9,87.22,4.97,94,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4
+UBC,2005,W,LLED,314,A,301,C & I ENGL SEC,"Willinsky, John",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,LLED,601,A,061,DOCTORAL SEMINAR,"Willinsky, John",8,87.38,3.11,92,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2
+UBC,2006,W,LLED,314,A,302,C & I ENGL SEC,"Willinsky, John",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,LLED,601,A,061,DOCTORAL SEMINAR,"Willinsky, John",8,86,4.17,91,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2
+UBC,2009,S,LLED,565,D,951,SP CRS SBJCT FLD,"Willinsky, John",15,84.46,3.84,90,78,13,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,2
+UBC,2010,S,LLED,565,D,951,SP CRS SBJCT FLD,"Willinsky, John",19,84.06,5.34,96,77,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,3,4
+UBC,2012,S,EDCP,470,,96A,ITC IN EDUC,"Bryson, Mary;Dobson, Teresa;Krug, Don;Pinar, William;Willinsky, John",7,90,8.25,99,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4
+UBC,2012,S,EDCP,571,,96A,HIST MEDIA & TEC,"Bryson, Mary;Dobson, Teresa;Krug, Don;Pinar, William;Willinsky, John",6,90.33,4.03,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2012,S,LLED,481,,96A,DIG MEDIA ART ED,"Bryson, Mary;Dobson, Teresa;Krug, Don;Pinar, William;Willinsky, John",13,87.17,4.09,92,81,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5
+UBC,2012,S,LLED,565,G,96A,SP CRS SBJCT FLD,"Bryson, Mary;Dobson, Teresa;Krug, Don;Pinar, William;Willinsky, John",7,89.29,5.68,94,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4

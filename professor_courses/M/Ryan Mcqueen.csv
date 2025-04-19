@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2016,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Ashley Segert;David Rowswell;Herraj Luhano;Ryan Mcqueen,114,78.77192983,16.32796347,100.0,7.0,9,2,1,4,4,7,9,9,22,17,30
+UBCO,2016,W,COSC,310,,001,Software Engineering,James Yu;Mahdi Aziz;Ryan Mcqueen,69,73.20289855,11.90227328,97.0,40.0,5,0,3,3,5,7,14,11,10,9,2
+UBCO,2017,W,COSC,301,,101,Introduction to Data Analytics,Cameron Chong;Ramon Lawrence;Robert Hill;Ryan Mcqueen;Thomas Reid,76,82.75,13.493825749,100.0,41.0,2,2,0,1,6,3,4,9,12,8,29
+UBCO,2017,W,COSC,310,,001,Software Engineering,Deepak Kumar;Ryan Mcqueen;Shambhavi Singh;Youry Khmelevsky,76,83.447368421,7.750087719,95.0,43.0,1,0,0,0,0,2,3,8,22,17,23
+UBCO,2017,W,DATA,301,,101,Introduction to Data Analytics,Ramon Lawrence;Robert Hill;Ryan Mcqueen;Thomas Reid,75,78.16,20.541349202,100.0,0.0,5,2,0,3,5,7,7,7,5,7,27

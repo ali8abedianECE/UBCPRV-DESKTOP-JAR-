@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,WRDS,150,A,121,Writing and Research in the Disciplines,Stephen Dadugblor,28,79.25,12.977544709,96.0,55.0,0,0,3,3,0,3,0,1,7,2,9,,,
+UBCV,2021,W,WRDS,150,A,312,Writing and Research in the Disciplines,Stephen Dadugblor,28,73.107142857,21.022632047,97.0,12.0,3,1,2,0,2,1,2,2,4,9,2,,,
+UBCV,2021,W,WRDS,150,A,332,Writing and Research in the Disciplines,Stephen Dadugblor,25,80.24,19.63474811,95.0,0.0,1,0,1,0,2,1,1,1,4,6,8,,,
+UBCV,2021,W,WRDS,150,A,121,Writing and Research in the Disciplines,Stephen Dadugblor,28,79.3,,96.0,55.0,,,,,,,,,7,,9,81.5,90.3,68.8
+UBCV,2021,W,WRDS,150,A,312,Writing and Research in the Disciplines,Stephen Dadugblor,27,77.1,,97.0,19.0,,,,,,,,,,9,,81.0,87.0,73.5
+UBCV,2021,W,WRDS,150,A,332,Writing and Research in the Disciplines,Stephen Dadugblor,24,83.6,,95.0,59.0,,,,,,,,,,6,8,87.0,91.3,79.8
+UBCV,2022,W,WRDS,150,A,310,Writing and Research in the Disciplines,Stephen Dadugblor,30,77.8,,100.0,0.0,2,2,1,0,1,2,3,2,2,2,13,84.5,96.8,70.5
+UBCV,2022,W,WRDS,150,A,320,Writing and Research in the Disciplines,Stephen Dadugblor,31,83.2,,100.0,12.0,2,1,3,0,2,0,0,2,0,3,18,93.0,99.0,72.0
+UBCV,2022,W,WRDS,350,,003,Knowledge-Making in the Disciplines,Stephen Dadugblor,26,85.2,,99.0,46.0,1,1,0,0,0,1,1,1,3,8,10,87.5,95.0,81.8
+UBCV,2023,W,WRDS,150,A,422,Writing and Research in the Disciplines,Stephen Dadugblor,30,85.7,,98.0,37.0,1,0,0,0,2,2,0,2,2,6,14,89.0,96.0,80.0
+UBCV,2023,W,WRDS,150,B,722,Writing and Research in the Disciplines,Stephen Dadugblor,32,91.5,,99.0,58.0,0,0,1,0,1,0,1,0,2,2,25,96.0,97.0,90.8
+UBCV,2023,W,WRDS,350,,001,Knowledge-Making in the Disciplines,Stephen Dadugblor,29,80.1,,99.0,18.0,3,0,2,0,0,0,2,2,2,5,13,88.0,95.0,77.0
+UBCV,2023,W,WRDS,360,,100,Knowledge Popularization: Research Writing in New Media,Stephen Dadugblor,7,94.4,,98.0,88.0,0,0,0,0,0,0,0,0,0,2,5,97.0,97.0,92.0

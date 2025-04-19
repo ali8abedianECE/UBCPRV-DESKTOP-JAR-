@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,221,,204,MATRIX ALGEBRA,"Collins, Daniel",126,67.85,14.19,97,0,114,5,5,0,2,1,0,2,0,2,5,15,9,12,12,16,12,18,10,4,6
+UBC,2016,W,MATH,422,,101,FLDS&GALOIS THRY,"Collins, Daniel",6,80.8,7.66,88,70,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0
+UBC,2017,W,MATH,221,,204,MATRIX ALGEBRA,"Collins, Daniel",113,77.75,13.44,100,22,106,4,0,0,1,0,0,1,1,2,4,4,3,2,5,6,19,12,19,19,17
+UBC,2017,W,MATH,340,,101,INTRO LIN PROG,"Collins, Daniel",106,71.64,15.29,97,30,99,4,2,0,1,0,0,0,4,0,4,10,11,10,7,4,12,10,9,11,15
+UBCV,2016,W,MATH,221,,204,Matrix Algebra,Daniel Collins;Kai Behrend,121,67.05785124,15.40308277,97.0,0.0,,,,,,,,,,,7,15,9,12,12,16,12,18,10,4,6
+UBCV,2017,W,MATH,221,,204,Matrix Algebra,Daniel Collins;Sabin Cautis,113,77.061946903,14.90283002,100.0,8.0,,,,,,,,,,,5,4,3,3,5,6,19,12,19,20,17
+UBCV,2017,W,MATH,340,,101,Introduction to Linear Programming,Daniel Collins,104,71.240384615,15.755101003,97.0,30.0,,,,,,,,,,,5,10,11,10,7,4,12,10,9,11,15

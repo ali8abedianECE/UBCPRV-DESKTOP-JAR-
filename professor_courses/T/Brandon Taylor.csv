@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,ENGL,153,,004,Readings in Narrative,Brandon Taylor,33,70.696969697,7.735813017,85.0,50.0,0,2,0,1,6,12,4,3,4,1,0,,,
+UBCO,2020,W,ENGL,153,,102,Readings in Narrative,Brandon Taylor,34,68.147058824,13.638475772,83.0,0.0,2,1,0,0,7,9,10,4,1,0,0,,,
+UBCO,2020,W,ENGL,153,,103,Readings in Narrative,Brandon Taylor,35,72.057142857,5.840743593,84.0,62.0,0,0,0,3,3,14,4,7,4,0,0,,,
+UBCO,2020,W,ENGL,153,,104,Readings in Narrative,Brandon Taylor,32,67.71875,8.467144756,82.0,43.0,2,1,0,2,6,12,5,2,2,0,0,,,
+UBCO,2021,S,ENGL,153,,001,Readings in Narrative,Brandon Taylor,28,72.071428571,6.857969527,84.0,51.0,0,1,1,0,2,7,9,6,2,0,0,,,
+UBCO,2021,S,ENGL,153,,002,Readings in Narrative,Brandon Taylor,29,67.620689655,14.597978806,84.0,0.0,1,1,1,4,0,9,8,4,1,0,0,,,
+UBCO,2021,W,ENGL,153,,003,Readings in Narrative,Brandon Taylor,28,71.964285714,10.761667718,85.0,24.0,1,0,0,0,3,7,10,2,3,2,0,,,
+UBCO,2021,W,ENGL,153,,005,Readings in Narrative,Brandon Taylor,29,75.034482759,4.427856291,86.0,69.0,0,0,0,0,0,6,14,5,2,2,0,,,
+UBCO,2021,W,ENGL,153,,108,Readings in Narrative,Brandon Taylor;Michael Unrau,30,71.266666667,11.307407805,86.0,30.0,1,1,1,2,1,6,12,0,3,3,0,,,
+UBCO,2021,W,ENGL,153,,109,Readings in Narrative,Brandon Taylor;Michael Unrau,28,67.785714286,16.499959917,86.0,3.0,3,1,0,1,1,5,12,3,0,2,0,,,
+UBCO,2021,W,ENGL,153,,112,Readings in Narrative,Brandon Taylor;Michael Unrau,27,70.555555556,15.189402514,82.0,8.0,2,0,0,0,1,5,9,6,4,0,0,,,
+UBCO,2021,S,ENGL,153,,001,Readings in Narrative,Brandon Taylor,28,72.1,,84.0,51.0,,,,,,7,9,6,,,,73.0,76.3,70.8
+UBCO,2021,S,ENGL,153,,002,Readings in Narrative,Brandon Taylor,29,67.6,,84.0,0.0,,,,,,9,8,,,,,70.0,75.0,68.0
+UBCO,2021,W,ENGL,153,,003,Readings in Narrative,Brandon Taylor,28,72.0,,85.0,24.0,,,,,,7,10,,,,,73.0,75.3,70.0
+UBCO,2021,W,ENGL,153,,005,Readings in Narrative,Brandon Taylor,29,75.0,,86.0,69.0,,,,,,6,14,,,,,74.0,77.0,73.0
+UBCO,2021,W,ENGL,153,,108,Readings in Narrative,Brandon Taylor,30,71.3,,86.0,30.0,,,,,,6,12,,,,,74.0,74.8,69.3
+UBCO,2021,W,ENGL,153,,109,Readings in Narrative,Brandon Taylor,28,67.8,,86.0,3.0,,,,,,,12,,,,,73.0,75.0,68.0
+UBCO,2021,W,ENGL,153,,112,Readings in Narrative,Brandon Taylor,27,70.6,,82.0,8.0,,,,,,,9,6,,,,73.0,78.0,70.0
+UBCO,2022,S,ENGL,150,,002,Introduction to Literary Genre,Brandon Taylor,34,72.0,,83.0,25.0,2,0,1,1,1,7,6,6,10,0,0,75.0,80.0,70.0
+UBCO,2022,S,ENGL,150,,101,Introduction to Literary Genre,Brandon Taylor,32,67.2,,85.0,13.0,2,4,1,1,2,6,5,5,5,1,0,72.0,77.0,64.0
+UBCO,2022,W,ENGL,150,,004,Introduction to Literary Genre,Brandon Taylor,33,73.5,,85.0,61.0,0,0,0,1,4,6,12,3,6,1,0,73.0,79.0,69.0
+UBCO,2022,W,ENGL,150,,005,Introduction to Literary Genre,Brandon Taylor,33,74.8,,84.0,60.0,0,0,0,2,1,7,5,11,7,0,0,76.0,78.0,71.0
+UBCO,2022,W,ENGL,150,,104,Introduction to Literary Genre,Brandon Taylor,34,68.2,,86.0,0.0,4,0,2,2,2,4,7,3,8,2,0,74.5,80.0,65.5
+UBCO,2022,W,ENGL,150,,107,Introduction to Literary Genre,Brandon Taylor,35,73.5,,87.0,0.0,1,0,0,0,3,1,11,13,4,2,0,76.0,78.0,73.0
+UBCO,2023,W,CORH,204,,001,Communications in the Humanities,Brandon Taylor,24,73.2,,86.0,56.0,0,0,1,1,4,5,2,3,6,1,0,72.0,80.0,67.5
+UBCO,2023,W,CORH,204,,101,Communications in the Humanities,Brandon Taylor,29,77.2,,88.0,59.0,0,0,1,2,2,3,2,2,11,5,0,80.5,84.0,70.5
+UBCO,2023,W,CORH,204,,102,Communications in the Humanities,Brandon Taylor,33,77.6,,88.0,45.0,1,2,1,0,0,1,1,7,10,7,0,81.0,84.0,77.3
+UBCO,2023,W,ENGL,112,,110,Studies in Composition,Brandon Taylor,30,78.4,,88.0,33.0,1,0,0,2,0,0,3,4,11,6,0,82.0,84.0,77.0
+UBCO,2023,W,ENGL,150,,004,Introduction to Literary Genre,Brandon Taylor,35,74.3,,85.0,37.0,1,0,0,1,0,5,10,11,6,1,0,76.0,78.5,72.0
+UBCO,2023,W,ENGL,150,,005,Introduction to Literary Genre,Brandon Taylor,35,73.8,,87.0,50.0,0,2,0,1,1,6,9,10,5,1,0,75.0,78.5,71.0

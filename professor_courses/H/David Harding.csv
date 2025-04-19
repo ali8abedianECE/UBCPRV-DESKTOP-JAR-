@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,MUSC,159,A,001,UNIV CHMBR STRNG,"Choi, Eugenia;Harding, David;Wilson, Eric",14,87.71,1.64,90,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+UBC,2006,W,MUSC,159,A,001,UNIV CHMBR STRNG,"Choi, Eugenia;Harding, David;Wilson, Eric",17,87.35,2.21,90,84,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,4
+UBC,2006,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",33,87.61,3.19,92,75,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,24,6
+UBC,2006,W,MUSC,559,,001,UBC CHAMB STRING,"Choi, Eugenia;Harding, David;Wilson, Eric",5,90.4,1.67,92,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2006,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",5,90.4,1.67,92,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2007,W,MUSC,159,A,001,UNIV CHMBR STRNG,"Choi, Eugenia;Harding, David;Wilson, Eric",10,87.1,2.23,90,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,2
+UBC,2007,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",29,87.62,1.84,92,85,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,5
+UBC,2007,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",7,89.71,3.73,94,84,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5
+UBC,2009,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",35,87.4,2.37,93,82,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,26,7
+UBC,2009,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",6,86.5,1.52,89,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+UBC,2010,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",39,87.77,2.74,95,82,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,23,14
+UBC,2010,W,MUSC,521,A,001,PERFORMANCE PRAC,"Harding, David;Sharon, Rena",17,89.56,1.5,92,86,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11
+UBC,2010,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",9,87.56,2.07,90,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3
+UBC,2011,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",38,86.65,4.42,92,72,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,25,9
+UBC,2011,W,MUSC,521,A,001,PERFORMANCE PRAC,"Harding, David;Sharon, Rena",22,88.29,2.03,93,85,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,8
+UBC,2011,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",12,88.75,2.63,92,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4
+UBC,2012,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",7,86.71,2.29,89,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0
+UBC,2013,W,MUSC,160,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",44,85.77,13.39,91,0,43,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,28,12
+UBC,2013,W,MUSC,560,A,001,STR CHAMB ENS,"Choi, Eugenia;Harding, David;Wilson, Eric",9,86.33,6.02,92,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,1
+UBC,2014,W,MUSC,160,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",38,87.66,5.06,96,70,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,20,15
+UBC,2014,W,MUSC,560,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",9,87.44,1.42,90,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+UBC,2015,W,MUSC,160,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",39,90.29,2.55,95,85,38,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,28
+UBC,2015,W,MUSC,560,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",12,90,2.22,93,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8
+UBCV,2014,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,37,87.64864865,5.127356998,96.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,19,15
+UBCV,2014,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,9,87.44444444,1.424000624,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,1
+UBCV,2015,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,38,90.289473684,2.54588056,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,28
+UBCV,2015,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,12,90.0,2.215646838,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,8

@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDST,602,B,083,DOCTORAL SEMINAR,"Grosjean, Garnet;Newton, Earle",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,ADHE,501,,022,ADULT ED & COMM,"Grosjean, Garnet",12,87.67,4.14,93,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,3
+UBC,2003,W,ADHE,540,A,021,GLOB LEARN,"Grosjean, Garnet",15,87.5,2.62,93,85,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+UBC,2006,W,ADHE,540,A,021,GLOB LEARN,"Grosjean, Garnet;THOMSON, BJORN",18,83.39,4.91,89,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,9,0
+UBC,2006,W,EDST,575,,082,SEM WORK & EDUC,"Grosjean, Garnet",18,86.67,4.24,92,78,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,4
+UBC,2007,W,ADHE,540,A,021,GLOB LEARN,"Grosjean, Garnet;THOMSON, BJORN",17,84.59,4.86,89,72,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,11,0
+UBC,2009,S,ADHE,542,,971,FOS LEA PRAC,"Grosjean, Garnet",13,85.69,2.72,90,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,1
+UBC,2009,W,ADHE,540,A,021,GLOB LEARN,"Grosjean, Garnet",11,86.4,3.5,90,78,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,2
+UBC,2010,S,EDST,542,,971,FOS LEA PRAC,"Grosjean, Garnet",9,87.44,4.13,92,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,3
+UBC,2010,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",10,85.3,0.95,88,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2010,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",9,89.11,4.26,92,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8
+UBC,2011,S,EDST,542,,971,FOS LEA PRAC,"Grosjean, Garnet",11,82.27,5.41,92,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,1
+UBC,2011,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",23,84.87,2.01,90,77,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21,1
+UBC,2011,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",10,86.6,4.5,91,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4
+UBC,2012,S,EDST,542,,971,FOS LEA PRAC,"Grosjean, Garnet",21,80.9,6.28,90,70,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,8,0,7,3
+UBC,2012,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",18,84.89,5.16,90,76,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,6,7
+UBC,2012,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",21,83.81,3.41,90,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,8,2
+UBC,2013,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",25,83,1.89,88,81,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,3,0
+UBC,2013,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",17,81,7.38,90,68,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,7,1,4
+UBC,2014,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",16,86.25,4.2,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,4
+UBC,2014,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",21,81.9,8.83,92,62,21,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,5,5,5
+UBC,2015,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",17,82.65,3.04,88,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,8,0
+UBC,2015,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",12,84.75,4.22,90,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,8,1
+UBC,2016,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",22,86.71,5,94,76,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,7
+UBC,2016,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",17,80.94,4.42,90,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,8,2,1
+UBC,2017,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",21,83.35,4.08,87,76,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,0
+UBC,2017,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",17,81,3.5,86,76,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,3,0
+UBC,2018,W,EDST,540,A,021,GLOB LEARN,"Grosjean, Garnet",18,86.56,2.01,89,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,0
+UBC,2018,W,EDST,540,B,022,GLOB LEARN,"Grosjean, Garnet",15,82,5.24,90,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,4,1
+UBCV,2014,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,16,86.25,4.203173404,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,4
+UBCV,2014,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,21,81.90476191,8.825558123,92.0,62.0,,,,,,,,,,,0,0,0,,,,,,5,5,5
+UBCV,2015,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,17,82.647058824,3.040172209,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,8,0
+UBCV,2015,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,12,84.75,4.223850032,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,8,
+UBCV,2016,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,21,86.71428571,5.001428367,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,7,7
+UBCV,2016,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,17,80.94117647,4.422535871,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,5,8,2,1
+UBCV,2017,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,20,83.35,4.081730799,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,5,10,0
+UBCV,2017,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,17,81.0,3.5,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,8,3,0
+UBCV,2018,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,18,86.555555556,2.006525303,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,17,0
+UBCV,2018,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,16,81.625,5.277309921,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,2,6,4,1
+UBCV,2019,S,EDST,542,,971,Fostering Learning in Practice,Garnet Grosjean,16,84.5625,7.339107575,91.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,3,0,5,6
+UBCV,2019,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,18,86.111111111,3.393573319,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,8,4
+UBCV,2019,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,20,81.35,5.714938872,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,7,5,2
+UBCV,2020,S,EDST,542,,971,Fostering Learning in Practice,Garnet Grosjean,18,81.722222222,5.311536341,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,8,0,9,0
+UBCV,2020,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,15,86.6,1.956673562,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,13,0
+UBCV,2020,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,18,83.666666667,5.335783751,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,7,5,3
+UBCV,2021,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean;Kari Grain,19,86.842105263,2.477973139,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,7
+UBCV,2021,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean;Kari Grain,11,89.545454545,1.507556723,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10

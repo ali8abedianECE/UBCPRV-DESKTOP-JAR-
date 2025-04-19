@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,ASTR,110,,001,Astrophysics I,Bilal Madani;Daniel Vollick;Gregory Mohammed,16,87.1875,16.444730666,100.0,36.0,1,0,0,0,0,1,1,1,1,0,11,,,
+UBCO,2018,W,ASTR,111,,001,Astronomy I,Bilal Madani;Daniel Vollick;Gregory Mohammed,37,88.918918919,13.267291397,100.0,51.0,0,2,0,1,0,1,1,4,2,1,25,,,
+UBCO,2018,W,ASTR,112,,001,Astronomy I (Non Lab),Daniel Vollick;Gregory Mohammed,25,88.96,14.598744238,100.0,47.0,1,1,0,0,1,0,0,0,4,1,17,,,
+UBCO,2023,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Gregory Mohammed,277,85.9,,100.0,0.0,19,1,0,1,1,7,14,15,35,36,137,90.0,96.8,81.0

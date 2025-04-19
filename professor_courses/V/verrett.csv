@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,CHBE,241,,101,MASS&ENRGY BALNC,"Verrett, Jonathan",194,71.47,15.07,100,11,182,11,1,0,0,0,1,0,1,9,11,12,20,16,24,15,17,16,18,16,28
+UBC,2017,W,APSC,366,,201,ENG FOR NONENGNR,"Grecu, Cristian Sorin;Green, Sheldon;Kirchen, Patrick;Verrett, Jonathan;d'Entremont, Agnes",48,76.96,16.16,98,21,45,2,0,0,0,0,0,1,1,0,2,4,1,0,1,4,3,5,10,6,11
+UBC,2017,W,CHBE,241,,101,MASS&ENRGY BALNC,"Verrett, Jonathan",190,71.33,13.62,100,44,180,10,0,0,0,0,0,0,0,10,10,14,17,19,14,22,21,12,27,14,20
+UBC,2017,W,CHBE,362,,101,PROC&ENV ENG LAB,"Kannangara, Dhaneshwarie;Verrett, Jonathan",64,79.84,5.96,90,53,64,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,7,17,23,12,1
+UBC,2017,W,CHBE,362,,102,PROC&ENV ENG LAB,"Kannangara, Dhaneshwarie;Verrett, Jonathan",48,79.6,5.8,90,61,48,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,10,21,6,1
+UBC,2017,W,CHBE,376,,201,CMPT FLWSH&FLUID,"Verrett, Jonathan",128,79.53,11.88,100,30,125,2,0,0,1,0,0,0,1,1,2,1,5,5,3,10,15,14,26,23,23
+UBC,2018,W,APSC,100,,102,INTRO TO ENG I,"Jaeger, Carol Patricia;Nakane, Jonathan;Ostafichuk, Peter;Verrett, Jonathan",202,78.91,6.89,92,50,200,0,1,0,1,0,0,0,0,0,0,2,0,4,5,16,26,39,62,39,7
+UBC,2018,W,APSC,100,,103,INTRO TO ENG I,"Jaeger, Carol Patricia;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan",180,76.46,8.48,90,43,173,5,1,0,1,0,0,0,0,5,5,1,0,4,9,21,24,41,42,28,3
+UBC,2018,W,APSC,101,,202,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",149,72.92,9.76,93,40,143,4,0,0,2,0,0,0,0,4,4,1,8,13,11,24,16,32,22,10,6
+UBC,2018,W,APSC,101,,203,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",231,73.99,8.54,93,44,226,3,0,0,2,0,0,0,0,3,3,6,6,6,15,39,42,48,41,20,3
+UBC,2018,W,APSC,101,,204,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",183,73.46,9.72,99,45,172,6,3,0,2,0,0,0,0,6,6,4,2,7,20,27,31,35,23,16,7
+UBC,2018,W,CHBE,241,,101,MASS&ENRGY BALNC,"Verrett, Jonathan",179,72.08,14.25,100,30,171,6,1,0,1,0,0,0,3,3,6,12,13,15,21,29,16,15,16,12,22
+UBC,2018,W,CHBE,243,,101,INT CHEM&BIO ENG,"Verrett, Jonathan",117,79.37,7.64,96,45,116,1,0,0,0,0,0,0,0,1,1,0,1,1,5,6,17,25,32,21,8
+UBC,2018,W,CHBE,362,,101,PROC&ENV ENG LAB,"Ghasvareh, Pooneh;Verrett, Jonathan",69,82.25,5.76,90,53,69,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,10,24,26,1
+UBC,2018,W,CHBE,362,,102,PROC&ENV ENG LAB,"Ghasvareh, Pooneh;Verrett, Jonathan",67,80.69,6.4,87,51,67,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,12,39,12,0
+UBC,2018,W,CHBE,376,,201,CMPT FLOWSHEET,"Verrett, Jonathan",129,80.43,10.83,100,53,126,0,0,0,3,0,0,0,0,0,0,2,4,5,9,7,10,14,19,26,30
+UBC,2018,W,CHBE,453,,001,BIO PRC PRD DSGN,"Baldwin, Susan;Berretta, Sergio;Lim, Choon Jim;Posarac, Dusko;Smith, Kevin;Verrett, Jonathan",47,84.77,1.99,88,80,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,29,0
+UBC,2018,W,CHBE,454,,001,CHM PRC PRD DSGN,"Baldwin, Susan;Berretta, Sergio;Lim, Choon Jim;Posarac, Dusko;Smith, Kevin;Verrett, Jonathan",59,85.46,2.01,89,80,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,45,0

@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,THTR,310,,001,DRAMA PERFORM,"Blair, Kelsey",29,76.32,16.73,91,0,27,1,0,0,1,1,0,0,0,0,1,0,0,1,1,2,4,5,6,6,2
+UBC,2016,W,THTR,420,,001,HIST OF THTR II,"Blair, Kelsey",17,80.06,7.24,88,62,16,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,2,1,4,7,0
+UBC,2017,W,THTR,210,,001,DRAMA IDEAS I,"Blair, Kelsey",91,72.88,10.78,90,34,85,5,1,0,0,0,0,0,1,4,5,0,1,9,4,15,17,10,20,8,1
+UBC,2017,W,THTR,420,,001,HIST OF THTR II,"Blair, Kelsey",24,77.91,12.17,90,30,21,1,0,2,0,0,0,0,1,0,1,0,0,0,0,2,4,2,7,5,1
+UBC,2018,W,THTR,210,,001,DRAMA IDEAS I,"Blair, Kelsey",105,73.4,9.92,95,33,101,1,2,0,1,0,0,0,1,0,1,2,6,8,8,12,19,18,14,12,2
+UBC,2018,W,THTR,310,,001,DRAMA PERFORM,"Blair, Kelsey",34,75.33,8.68,90,56,33,0,1,0,0,0,0,0,0,0,0,0,2,1,0,9,6,2,7,4,2
+UBC,2018,W,THTR,440,A,001,TOPICS IN THTR,"Blair, Kelsey",14,83.62,7.84,94,70,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4,2,2,4
+UBCV,2016,W,THTR,310,,001,Theory of Drama Performance,Kelsey Blair;Kelsey Leanne Blair,29,76.20689655,16.43684735,91.0,0.0,,,,,,,,,,,1,0,0,1,1,2,5,5,6,6,2
+UBCV,2016,W,THTR,420,,001,History of Theatre II,Kelsey Blair;Kelsey Leanne Blair,16,80.0625,7.243100165,88.0,62.0,,,,,,,,,,,0,0,0,1,0,1,2,1,4,7,0
+UBCV,2017,W,THTR,210,,001,Drama: Forms and Ideas I,Kelsey Blair;Kelsey Leanne Blair;Marios Kallos;Rui Zhang;Siyuan Liu;Yanting Qiu,90,72.877777778,10.775364931,90.0,34.0,,,,,,,,,,,5,0,1,9,4,15,17,10,20,8,1
+UBCV,2017,W,THTR,420,,001,History of Theatre II,Kelsey Blair;Kelsey Leanne Blair,22,77.909090909,12.16908296,90.0,30.0,,,,,,,,,,,1,0,0,0,0,2,4,2,7,5,1
+UBCV,2018,W,THTR,210,,001,Drama: Forms and Ideas I,Colleen Lanki;Hanyang Harry Jiang;Hanyang Jiang;Kelsey Blair;Kelsey Leanne Blair;Marios Kallos,103,73.485436893,9.904310883,95.0,33.0,,,,,,,,,,,1,2,6,8,8,12,19,18,15,12,2
+UBCV,2018,W,THTR,310,,001,Theory of Drama Performance,Kelsey Blair;Kelsey Leanne Blair,33,75.333333333,8.68427698,90.0,56.0,,,,,,,,,,,0,0,2,1,0,9,6,2,7,4,2
+UBCV,2018,W,THTR,440,A,001,Topics in Theatre,Kelsey Blair;Kelsey Leanne Blair;Kirsty Johnston,14,81.571428571,10.73251197,94.0,55.0,,,,,,,,,,,0,0,1,0,0,1,0,4,2,2,4
+UBCV,2019,W,THTR,356,,001,Costume Construction,Jacqueline Firkins;Kelsey Blair,23,80.956521739,5.321297354,91.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,3,14,3,1

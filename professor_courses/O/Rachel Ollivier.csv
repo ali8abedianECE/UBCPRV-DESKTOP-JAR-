@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,MATH,200,,107,CALCULUS 3,"Ollivier, Rachel",126,68.04,13.75,98,24,119,6,0,0,1,0,0,2,1,3,6,9,24,10,12,13,13,11,10,10,7,,,
+UBC,2014,W,MATH,422,,201,FLDS&GALOIS THRY,"Ollivier, Rachel",10,76,19.09,95,37,9,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,2,1,3,,,
+UBC,2014,W,MATH,501,,201,ALGEBRA I,"Ollivier, Rachel",7,85.86,12.13,93,60,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5,,,
+UBC,2015,W,MATH,317,,202,CALCULUS IV,"Ollivier, Rachel",80,74.23,14.55,96,38,70,5,5,0,0,0,0,0,1,4,5,2,5,4,4,8,9,5,9,11,13,,,
+UBC,2015,W,MATH,423,,201,TPCS ALGEBRA,"Ollivier, Rachel",4,84,6.32,90,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,,
+UBC,2016,S,MATH,221,,921,MATRIX ALGEBRA,"Ollivier, Rachel",80,77.36,12.15,99,33,77,1,1,0,1,0,0,0,1,0,1,2,2,1,7,8,9,14,10,12,12,,,
+UBC,2017,W,MATH,221,,202,MATRIX ALGEBRA,"Ollivier, Rachel",89,76.25,15.29,99,21,79,5,2,1,2,0,0,1,1,3,5,1,6,3,5,3,10,13,11,11,16,,,
+UBC,2017,W,MATH,323,,201,INT RINGS&MODULE,"Ollivier, Rachel",18,75.44,15.91,100,35,17,1,0,0,0,0,0,0,1,0,1,1,0,0,2,4,1,0,1,5,3,,,
+UBC,2018,S,MATH,220,,921,MATH PROOF,"Ollivier, Rachel",49,68.42,12.85,100,50,48,0,1,0,0,0,0,0,0,0,0,4,8,7,9,1,3,6,3,3,4,,,
+UBC,2018,W,MATH,220,,202,MATH PROOF,"Ollivier, Rachel",65,63.98,15.68,99,36,51,9,3,0,2,0,0,0,2,7,9,9,8,5,5,7,4,2,3,3,5,,,
+UBC,2018,W,MATH,323,,201,INT RINGS&MODULE,"Ollivier, Rachel",22,71.76,14.98,100,37,20,1,1,0,0,0,0,0,1,0,1,1,1,1,4,2,3,1,3,2,2,,,
+UBCV,2014,W,MATH,422,,201,Fields and Galois Theory,Rachel Ollivier,10,76.0,19.09042808,95.0,37.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2014,W,MATH,501,,201,Algebra I,Rachel Ollivier,7,85.85714286,12.13024555,93.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,5,,,
+UBCV,2015,W,MATH,317,,201,Calculus IV,Justin Tzou;Rachel Ollivier,66,73.121212121,16.525518869,100.0,28.0,,,,,,,,,,,4,6,5,1,5,5,2,8,9,10,11,,,
+UBCV,2015,W,MATH,317,,202,Calculus IV,Rachel Ollivier,75,74.226666667,14.546824055,96.0,38.0,,,,,,,,,,,5,2,5,4,4,8,9,5,9,11,13,,,
+UBCV,2016,S,MATH,221,,921,Matrix Algebra,Rachel Ollivier,79,76.4556962,14.50092611,99.0,6.0,,,,,,,,,,,2,2,2,1,7,8,9,14,10,12,12,,,
+UBCV,2017,W,MATH,221,,202,Matrix Algebra,Rachel Ollivier;Sabin Cautis,86,75.255813953,16.60842171,99.0,18.0,,,,,,,,,,,7,1,6,3,5,3,10,13,11,11,16,,,
+UBCV,2017,W,MATH,323,,201,Introduction to Rings and Modules,Rachel Ollivier,18,75.444444444,15.912341574,100.0,35.0,,,,,,,,,,,1,1,0,0,2,4,1,0,1,5,3,,,
+UBCV,2018,S,MATH,220,,921,Mathematical Proof,Rachel Ollivier,48,68.416666667,12.852408224,100.0,50.0,,,,,,,,,,,0,4,8,7,9,1,3,6,3,3,4,,,
+UBCV,2018,W,MATH,220,,201,Mathematical Proof,Jamie Juul;Jun Jie Jameson Zhu;Jun Jie Zhu;Rachel Ollivier,62,57.064516129,16.681069046,98.0,15.0,,,,,,,,,,,13,15,9,5,3,5,4,0,5,2,1,,,
+UBCV,2018,W,MATH,220,,202,Mathematical Proof,Charlotte Trainor;Rachel Ollivier,62,64.0,15.498281237,99.0,36.0,,,,,,,,,,,9,9,9,5,5,7,5,2,3,3,5,,,
+UBCV,2018,W,MATH,220,,203,Mathematical Proof,Amir Hossein Parvardi;Rachel Ollivier;Seckin Demirbas,63,63.666666667,12.608241033,90.0,36.0,,,,,,,,,,,5,8,16,4,3,8,6,5,5,1,2,,,
+UBCV,2018,W,MATH,220,,204,Mathematical Proof,Amin Soofiani;Krishanu Sankar;Rachel Ollivier,64,60.59375,15.561163247,97.0,25.0,,,,,,,,,,,13,10,11,7,3,5,1,3,6,2,3,,,
+UBCV,2018,W,MATH,323,,201,Introduction to Rings and Modules,Javier Gonzalez Anaya;Rachel Ollivier,21,71.761904762,14.979668761,100.0,37.0,,,,,,,,,,,1,1,1,1,4,2,3,1,3,2,2,,,
+UBCV,2019,W,MATH,220,,105,Mathematical Proof,Jingyi Chen;Rachel Ollivier;Santanil Jana,55,77.618181818,11.325963141,98.0,30.0,,,,,,,,,,,1,0,2,2,3,6,7,6,13,11,4,,,
+UBCV,2019,W,MATH,220,,201,Mathematical Proof,Benjamin Garbuz;Charlotte Trainor;Eric Rozon;Max Gheorghiu;Rachel Ollivier;Santanil Jana;Simone Coccia;Simone Maletto,55,76.727272727,15.460169308,100.0,15.0,,,,,,,,,,,1,3,4,1,2,7,6,4,8,8,11,,,
+UBCV,2019,W,MATH,220,,202,Mathematical Proof,Benjamin Garbuz;Charlotte Trainor;Eric Rozon;Julia Yulia Gordon;Max Gheorghiu;Rachel Ollivier;Simone Coccia;Simone Maletto,50,71.2,14.685825458,99.0,26.0,,,,,,,,,,,1,6,3,1,8,6,9,2,3,4,7,,,
+UBCV,2019,W,MATH,220,,203,Mathematical Proof,Benjamin Garbuz;Charlotte Trainor;Eric Rozon;Jamie Juul;Max Gheorghiu;Rachel Ollivier;Simone Coccia;Simone Maletto,53,73.490566038,9.931733603,92.0,50.0,,,,,,,,,,,0,2,5,5,3,3,7,11,12,3,2,,,
+UBCV,2019,W,MATH,220,,204,Mathematical Proof,Benjamin Garbuz;Boaz Elazar;Charlotte Trainor;Eric Rozon;Max Gheorghiu;Rachel Ollivier;Simone Coccia;Simone Maletto,51,73.156862745,12.040552394,97.0,50.0,,,,,,,,,,,0,3,4,2,9,5,6,3,9,6,4,,,
+UBCV,2019,W,MATH,323,,201,Introduction to Rings and Modules,Rachel Ollivier;Thomas Rued,20,76.5,12.559332869,100.0,55.0,,,,,,,,,,,0,0,3,1,0,1,5,3,1,3,3,,,
+UBCV,2020,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Rachel Ollivier;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,68,73.073529412,8.714914607,93.0,47.0,,,,,,,,,,,1,0,5,3,8,11,14,6,16,2,2,,,
+UBCV,2020,W,MATH,220,,201,Mathematical Proof,Ahmet Alperen Bulut;Benjamin Friedman;Benjamin Garbuz;Delphin Senizergues;Devang Agarwal;Ethan Armitage;Hannah Kohut;Jacob Stockton;Julien Gagnon;Kai Behrend;Nina Morishige;Noe Ducharme;Rachel Ollivier;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,35,63.857142857,11.185975613,81.0,38.0,,,,,,,,,,,4,4,3,4,4,8,3,2,3,0,0,,,
+UBCV,2020,W,MATH,323,,201,Introduction to Rings and Modules,Max Gheorghiu;Rachel Ollivier;Vinayak Vatsal,12,61.166666667,19.798224591,92.0,19.0,,,,,,,,,,,2,2,3,0,0,2,1,0,0,0,2,,,
+UBCV,2021,W,MATH,220,,108,Mathematical Proof,Hannah Kohut;Nitya Gadhiwala;Rachel Ollivier;Seckin Demirbas,73,63.068493151,15.205379866,99.0,23.0,,,,,,,,,,,11,8,7,10,10,14,2,2,1,2,6,,,
+UBCV,2021,W,MATH,220,,201,Mathematical Proof,Alan Getz;Kai Behrend;Matthew Scott;Rachel Ollivier;Yuliang Shi,76,63.25,20.1389341,90.0,0.0,,,,,,,,,,,15,7,5,4,9,7,6,3,7,9,4,,,
+UBCV,2021,W,MATH,220,,203,Mathematical Proof,Alan Getz;Matthew Scott;Rachel Ollivier;Thomas Williams;Yuliang Shi,70,67.085714286,19.667336901,100.0,6.0,,,,,,,,,,,12,5,8,6,6,3,3,3,9,6,9,,,
+UBCV,2021,W,MATH,220,,204,Mathematical Proof,Alan Getz;Matthew Scott;Rachel Ollivier;Yuliang Shi,77,64.493506494,19.543220238,98.0,0.0,,,,,,,,,,,12,8,8,6,5,5,11,5,4,7,6,,,
+UBCV,2021,W,MATH,220,,108,Mathematical Proof,Seckin Demirbas;Rachel Ollivier,76,62.0,,99.0,13.0,,,,,,,,,,,13,8,8,10,10,14,,,,,6,63.0,69.3,53.0
+UBCV,2021,W,MATH,220,,201,Mathematical Proof,Rachel Ollivier,75,63.7,,90.0,0.0,,,,,,,,,,,14,7,,,9,7,6,,7,9,,66.0,80.0,52.5
+UBCV,2021,W,MATH,220,,203,Mathematical Proof,Rachel Ollivier,69,67.7,,100.0,6.0,,,,,,,,,,,10,6,8,6,6,,,,9,6,9,67.0,83.0,55.0
+UBCV,2021,W,MATH,220,,204,Mathematical Proof,Rachel Ollivier,77,64.7,,98.0,0.0,,,,,,,,,,,12,8,8,6,,,11,,,7,6,66.0,77.0,53.0
+UBCV,2022,S,MATH,100,,92A,Differential Calculus with Applications,Rachel Ollivier,125,69.5,,100.0,1.0,,,,,,,,,,,13,8,6,11,16,11,11,12,12,7,18,70.0,82.0,62.0
+UBCV,2022,S,MATH,220,,951,Mathematical Proof,Keegan Boyle;Rachel Ollivier,68,66.1,,100.0,0.0,,,,,,,,,,,11,5,3,6,8,7,6,5,7,1,9,68.0,79.3,58.0
+UBCV,2022,W,MATH,220,,201,Mathematical Proof,Michael Bennett;Rachel Ollivier,73,63.1,,99.0,0.0,,,,,,,,,,,10,8,8,6,9,8,9,2,7,4,2,65.0,73.0,55.0
+UBCV,2022,W,MATH,220,,203,Mathematical Proof,Rachel Ollivier,78,70.9,,98.0,24.0,,,,,,,,,,,3,7,4,13,5,9,4,6,6,12,9,69.0,85.0,61.0
+UBCV,2022,W,MATH,220,,204,Mathematical Proof,Rachel Ollivier,54,69.6,,94.0,33.0,,,,,,,,,,,3,3,4,1,6,13,6,5,8,3,2,70.0,77.8,64.0

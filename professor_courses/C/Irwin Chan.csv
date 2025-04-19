@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,S,PHIL,433,A,921,Bio-Medical Ethics,Doran Smolkin;Irwin Chan;Yu Shing Chan,58,69.62068966,13.24641969,86.0,0.0,,,,5,6,11,19,6,6,,0,,,
+UBCV,2015,W,PHIL,102,,001,Introduction to Philosophy II,Irwin Chan;Jamie Hellewell;Yu Shing Chan,114,68.877192982,13.502631897,91.0,8.0,9,6,5,10,7,17,27,15,9,7,2,,,
+UBCV,2016,S,PHIL,120,,921,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,38,77.0,16.97533983,96.0,15.0,2,2,1,1,2,3,1,6,6,3,11,,,
+UBCV,2016,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,49,75.93877551,15.76310059,97.0,22.0,3,1,1,3,3,4,4,2,14,5,9,,,
+UBCV,2016,W,PHIL,120,,002,Introduction to Critical Thinking,Irwin Chan;Yu Shing Chan,39,74.07692308,9.518360693,88.0,48.0,1,0,2,2,7,1,7,6,8,5,0,,,
+UBCV,2017,S,PHIL,101,,001,Introduction to Philosophy,Bruno Guindon;Irwin Chan;Yu Shing Chan,49,73.387755102,13.651642646,85.0,12.0,2,0,1,2,1,9,5,11,15,3,0,,,
+UBCV,2017,W,PHIL,102,,004,Introduction to Philosophy II,Irwin Chan;Yu Shing Chan,38,72.684210526,10.115829883,84.0,40.0,1,2,1,3,3,2,6,10,10,0,0,,,
+UBCV,2017,W,PHIL,240,,002,Introduction to Epistemology,Irwin Chan;Jonathan Ichikawa;Nathan Cockram;Yu Shing Chan,110,69.790909091,14.672632863,92.0,2.0,8,4,6,7,12,13,23,15,9,10,3,,,
+UBCV,2018,W,PHIL,120,,99A,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,93,73.731182796,16.949502869,99.0,0.0,5,5,3,6,6,4,10,14,20,11,9,,,
+UBCV,2018,W,PHIL,240,,002,Introduction to Epistemology,Alexandre Korolev;Irwin Chan;Jonathan Ichikawa;Matthew Bedke;Yu Shing Chan,33,70.848484848,17.047949312,95.0,7.0,2,2,1,4,2,4,5,3,4,2,4,,,
+UBCV,2019,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin;Irwin Chan;Yu Shing Chan,50,65.84,14.445336794,81.0,20.0,4,3,3,5,4,9,11,7,4,0,0,,,
+UBCV,2019,W,PHIL,230,,002,Introduction to Ethics,Bruno Guindon;Irwin Chan;Livia Graf;Scott Allen Anderson;Yu Shing Chan,72,75.986111111,9.855995609,89.0,0.0,1,0,0,0,0,5,18,32,14,2,0,,,
+UBCV,2019,W,PHIL,330,,002,Social and Political Philosophy,Irwin Chan;Jelena Markovic;Kelin Emmett;Scott Allen Anderson;Yu Shing Chan,73,75.369863014,11.035934801,89.0,0.0,1,0,2,3,1,2,18,27,14,5,0,,,
+UBCV,2019,W,PHIL,333,,001,Bio-Medical Ethics,Bruno Guindon;Irwin Chan;Jelena Markovic;Jordan Wadden;Yu Shing Chan,78,73.474358974,8.866578659,84.0,31.0,3,0,1,0,4,6,27,29,8,0,0,,,
+UBCV,2019,W,PHIL,333,,002,Bio-Medical Ethics,David Friedell;Irwin Chan;Jelena Markovic;Jordan Wadden;Leslie Burkholder;Yu Shing Chan,105,74.714285714,9.653331714,89.0,0.0,2,0,0,1,1,9,38,38,12,4,0,,,
+UBCV,2020,S,PHIL,333,,001,Bio-Medical Ethics,Bruno Guindon;Irwin Chan;Jasper Heaton,73,74.835616438,9.549598157,84.0,0.0,1,0,0,0,1,8,26,27,10,0,0,,,
+UBCV,2020,W,PHIL,102,,004,Introduction to Philosophy II,Irwin Chan;Jasper Heaton;Kristin Lee Conrad;Serban Dragulin;Servaas Van Der Berg,102,71.794117647,13.707942509,87.0,0.0,3,0,2,4,4,23,27,10,26,3,0,,,
+UBCV,2020,W,PHIL,230,,002,Introduction to Ethics,Cameron Gilbert;Irwin Chan;Scott Allen Anderson,76,70.315789474,16.120554603,85.0,0.0,5,2,0,4,6,9,17,15,17,1,0,,,
+UBCV,2020,W,PHIL,333,,001,Bio-Medical Ethics,Han Wei Luo;Irwin Chan;Leslie Burkholder;Samuel Delorme,100,94.14,12.133949368,100.0,25.0,1,1,0,1,4,0,2,1,5,1,84,,,
+UBCV,2020,W,PHIL,333,,002,Bio-Medical Ethics,Han Wei Luo;Irwin Chan;Leslie Burkholder;Samuel Delorme,74,91.608108108,14.116751506,100.0,42.0,2,0,3,0,4,0,0,3,4,1,57,,,
+UBCV,2020,W,PHIL,333,,003,Bio-Medical Ethics,Irwin Chan;Karoline Paier;Kelsey Vicars;Leslie Burkholder,92,80.826086957,7.329915664,92.0,43.0,1,0,1,0,2,0,9,26,23,23,7,,,
+UBCV,2020,W,PHIL,333,,004,Bio-Medical Ethics,David Friedell;Irwin Chan;Karoline Paier;Kelsey Vicars,26,77.769230769,13.509426908,89.0,21.0,1,0,1,0,0,2,0,6,10,6,0,,,
+UBCV,2020,W,PHIL,338,,001,Philosophy of Law,Emily Tilton;Irwin Chan;Kelin Emmett;Nathan Cockram,71,75.267605634,10.421074453,87.0,20.0,3,0,2,3,2,1,10,26,20,4,0,,,
+UBCV,2021,S,PHIL,333,A,002,Bio-Medical Ethics,Ian Heckman;Irwin Chan;Kelsey Vicars,77,74.038961039,12.80670215,90.0,2.0,2,3,1,1,1,11,20,17,10,10,1,,,
+UBCV,2021,W,PHIL,102,,001,Introduction to Philosophy II,Bianca Verjee;Irwin Chan;Stefan Lukits;Steven Diggin,112,73.785714286,10.590177815,92.0,0.0,3,0,1,4,8,17,27,27,17,6,2,,,
+UBCV,2021,W,PHIL,102,,002,Introduction to Philosophy II,Cameron Gilbert;Emily Lawson;Irwin Chan;Stefan Lukits,108,82.62037037,13.130344105,97.0,0.0,2,0,1,0,1,2,5,13,28,33,23,,,
+UBCV,2021,W,PHIL,330,A,002,Social and Political Philosophy,Irwin Chan;Miraslava Kuroyedov,59,78.93220339,6.769262189,94.0,63.0,0,0,0,1,2,7,7,12,17,11,2,,,
+UBCV,2021,W,PHIL,331,A,001,Business and Professional Ethics,Irwin Chan;Zorn Rose,62,82.467741935,10.323803058,92.0,28.0,2,0,0,0,0,0,0,4,28,25,3,,,
+UBCV,2021,W,PHIL,333,A,001,Bio-Medical Ethics,Irwin Chan;Kelsey Vicars,84,74.761904762,6.276018705,89.0,41.0,1,0,0,0,2,12,39,15,8,7,0,,,
+UBCV,2021,W,PHIL,333,A,002,Bio-Medical Ethics,Irwin Chan;Kelsey Vicars,31,72.612903226,6.591294356,83.0,54.0,0,1,1,0,2,9,8,4,6,0,0,,,
+UBCV,2021,S,PHIL,333,A,002,Bio-Medical Ethics,Irwin Chan,77,74.0,,90.0,2.0,,,,,,11,20,17,10,10,,75.0,80.0,72.0
+UBCV,2021,W,PHIL,102,,001,Introduction to Philosophy II,Irwin Chan,112,73.8,,92.0,0.0,,,,,8,17,27,27,17,6,,75.0,79.0,70.8
+UBCV,2021,W,PHIL,102,,002,Introduction to Philosophy II,Irwin Chan,108,82.9,,97.0,0.0,,,,,,,,13,28,34,23,85.0,89.0,81.0
+UBCV,2021,W,PHIL,330,A,002,Social and Political Philosophy,Irwin Chan,59,78.9,,94.0,63.0,,,,,,7,7,12,17,11,,80.0,83.5,75.0
+UBCV,2021,W,PHIL,331,A,001,Business and Professional Ethics,Irwin Chan,62,83.4,,92.0,30.0,,,,,,,,,28,26,,84.0,85.8,82.0
+UBCV,2021,W,PHIL,333,A,001,Bio-Medical Ethics,Irwin Chan,84,74.8,,89.0,41.0,,,,,,12,39,15,8,7,,74.0,77.0,72.0
+UBCV,2021,W,PHIL,333,A,002,Bio-Medical Ethics,Irwin Chan,32,72.7,,83.0,54.0,,,,,,9,9,,6,,,72.0,76.3,70.0
+UBCV,2022,S,PHIL,333,A,002,Bio-Medical Ethics,Irwin Chan,75,78.5,,90.0,0.0,1,0,1,0,1,5,8,20,23,15,1,80.0,84.0,76.0
+UBCV,2022,S,PHIL,338,A,001,Philosophy of Law,Irwin Chan,49,74.1,,87.0,0.0,1,0,0,0,0,8,17,15,6,2,0,75.0,78.0,73.0
+UBCV,2022,W,PHIL,102,,002,Introduction to Philosophy II,Irwin Chan,96,72.7,,95.0,0.0,6,3,1,0,2,15,16,24,19,8,2,77.0,81.0,70.8
+UBCV,2022,W,PHIL,331,A,001,Business and Professional Ethics,Irwin Chan,88,77.2,,92.0,43.0,1,2,0,1,2,7,21,20,18,13,3,78.0,82.0,73.0
+UBCV,2022,W,PHIL,333,A,002,Bio-Medical Ethics,Irwin Chan,110,75.8,,90.0,54.0,0,1,0,1,7,9,31,35,23,2,1,76.0,79.0,73.0
+UBCV,2022,W,PHIL,333,A,003,Bio-Medical Ethics,Irwin Chan,112,74.6,,91.0,0.0,3,2,1,0,5,17,32,24,13,12,3,75.0,79.3,71.8
+UBCV,2023,S,PHIL,333,,002,Bio-Medical Ethics,Irwin Chan,87,75.9,,95.0,62.0,0,0,0,2,3,18,26,12,12,11,1,74.0,80.0,71.0
+UBCV,2023,S,PHIL,338,,901,Philosophy of Law,Irwin Chan,35,65.2,,83.0,0.0,3,3,2,2,6,6,5,6,2,0,0,68.0,74.5,61.5
+UBCV,2023,W,PHIL,331,,001,Business and Professional Ethics,Irwin Chan,76,74.7,,87.0,59.0,0,0,1,6,2,9,24,18,12,3,0,75.0,78.5,72.0
+UBCV,2023,W,PHIL,333,,001,Bio-Medical Ethics,Irwin Chan,72,76.3,,90.0,0.0,1,1,1,1,2,8,14,12,17,11,2,78.0,83.0,73.0
+UBCV,2023,W,PHIL,333,,002,Bio-Medical Ethics,Irwin Chan,122,77.2,,90.0,46.0,2,0,0,2,5,13,24,25,26,21,1,78.0,83.0,73.0

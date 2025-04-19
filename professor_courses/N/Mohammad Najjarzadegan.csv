@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,ELEC,205,,L1C,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,18,79.555555556,5.679915308,88.0,70.0,0,0,0,0,0,2,3,3,5,5,0
+UBCV,2017,W,ELEC,205,,L1D,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,20,82.1,6.687773605,93.0,68.0,0,0,0,0,0,2,1,2,7,5,3
+UBCV,2017,W,ELEC,205,,L1E,Electronics Laboratory,Milad Haghi Kashani;Mohammad Najjarzadegan;Reza Molavi,19,81.421052632,4.476057162,90.0,70.0,0,0,0,0,0,1,0,4,9,4,1
+UBCV,2018,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang;Zahra Shahriari,71,79.704225352,14.748747517,100.0,20.0,2,0,4,1,4,3,11,6,6,13,21
+UBCV,2018,W,ELEC,341,,101,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,65,85.0,9.490126448,99.0,53.0,0,1,0,2,2,2,1,3,14,18,22
+UBCV,2018,W,ELEC,341,,201,Systems and Control,Edmond Cretu;Kevin Voon;Mohammad Najjarzadegan;Sapna Srinivasan;Su Wang,107,68.588785047,16.030015049,99.0,0.0,12,6,8,11,10,7,14,13,8,9,9
+UBCV,2018,W,ELEC,441,,201,Control Systems,Hamed Shakouri Ganjavi;Mohammad Najjarzadegan;Zahra Shahriari,62,74.016129032,18.908313668,100.0,0.0,5,2,4,5,3,5,5,6,8,6,13
+UBCV,2019,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,86,79.11627907,12.557087153,98.0,0.0,1,0,1,4,4,9,10,12,11,20,14
+UBCV,2019,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Kieran Morton;Mohammad Mahdi Kazemi Esfeh;Mohammad Mahdi Kazimi Esfeh;Mohammad Najjarzadegan;Naga Raghavendra Koppisetti;Saloome Motavas;Siamak Najarian,64,85.328125,9.856195679,100.0,55.0,0,0,1,1,0,3,6,6,11,13,23
+UBCV,2019,W,ELEC,202,,201,Circuit Analysis II,Abdul Rehman Anwer;Arvin Tashakori;Avilash Mukherjee;Luis Linares;Mohammad Najjarzadegan;Rubinderjit Singh Nagi;Shuo Tang,71,67.042253521,13.39342762,93.0,11.0,3,7,8,9,5,14,7,3,10,3,2
+UBCV,2019,W,ELEC,202,,202,Circuit Analysis II,Abdul Rehman Anwer;Arvin Tashakori;Avilash Mukherjee;Luis Linares;Mohammad Najjarzadegan;Rubinderjit Singh Nagi;Shuo Tang,70,69.485714286,12.746972198,100.0,38.0,3,7,4,5,12,8,9,7,6,5,4
+UBCV,2019,W,ELEC,341,,101,Systems and Control,Leo Stocco;Mohammad Najjarzadegan;Zoya Jafaryrabanybastany,75,76.413333333,14.81607357,99.0,15.0,3,2,2,4,3,9,8,6,10,13,15
+UBCV,2020,S,ELEC,341,,941,Systems and Control,Mohammad Najjarzadegan;Omid Esmaeeli;Pramit Saha;Siamak Najarian,81,81.061728395,10.378277409,99.0,39.0,1,0,1,3,4,1,10,12,14,16,19
+UBCV,2020,W,ELEC,341,,101,Systems and Control,Andrew Yan;Leo Stocco;Mohammad Najjarzadegan;Sara Hosseinirad,58,69.551724138,14.824319059,99.0,39.0,4,4,7,6,4,6,5,6,5,5,6
+UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.264957265,11.820783248,100.0,43.0,1,2,7,8,8,7,14,15,18,19,18
+UBCV,2020,W,ELEC,391,,201,Electrical Engineering Design Studio II,Charlotte Johnston;Daniel Li;Franco Degioanni;Jonas Welsch;Leo Stocco;Mohammad Najjarzadegan,160,74.7,11.895139328,96.0,0.0,2,0,4,12,18,18,29,19,22,14,22
+UBCV,2021,S,ELEC,341,,941,Systems and Control,Amirali Darbandsari;Mohammad Najjarzadegan;Omid Esmaeeli;Siamak Najarian,107,78.514018692,12.651619693,100.0,42.0,1,3,5,5,7,9,8,15,19,12,23
+UBCV,2021,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Amirali Darbandsari;Fraser Pogue;Hongrong Zhang;Hosna Kazerooni Haghighat;Mohammad Najjarzadegan;Siamak Najarian,58,74.379310345,19.188654896,98.0,0.0,5,3,0,2,4,6,6,3,13,3,13
+UBCV,2021,W,ELEC,341,,101,Systems and Control,Hosna Kazerooni Haghighat;Leo Stocco;Mohammad Najjarzadegan;Puria Azadi Moghadam,50,67.04,21.128334781,100.0,0.0,7,5,6,4,0,4,3,4,7,4,6
+UBCV,2021,W,ELEC,391,,201,Electrical Engineering Design Studio II,Franco Degioanni;Jonas Welsch;Justin Wyss;Leo Stocco;Mohammad Najjarzadegan,102,74.754901961,16.605162191,99.0,26.0,4,13,4,3,8,7,8,6,12,13,24

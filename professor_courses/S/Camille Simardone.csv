@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,ECON,320,,101,Introduction to Mathematical Economics,Camille Simardone,38,85.157894737,9.911844718,100.0,65.0,0,0,0,0,1,3,6,0,6,7,15,,,
+UBCO,2021,W,ECON,328,,101,Methods of Empirical Research,Amarpreet Kaur;Camille Simardone;Ross Hickey;Wei Dai,47,77.106382979,10.851235238,98.0,53.0,0,1,3,1,5,4,2,13,5,7,6,,,
+UBCO,2021,W,ECON,391,M,001,Topics in Economics,Camille Simardone,40,80.4,14.715768623,99.0,40.0,3,0,1,1,2,0,3,7,1,9,13,,,
+UBCO,2021,W,ECON,320,,101,Introduction to Mathematical Economics,Noriko Ozawa;Camille Simardone,38,85.2,,100.0,65.0,,,,,,,6,,6,7,15,85.5,93.0,76.5
+UBCO,2021,W,ECON,328,,101,Methods of Empirical Research,Camille Simardone,47,77.1,,98.0,53.0,,,,,,,,13,,7,6,77.0,86.0,70.0
+UBCO,2021,W,ECON,391,M,001,Topics in Economics,Andrea Craig;Camille Simardone,40,80.4,,99.0,40.0,,,,,,,,7,,9,13,85.5,90.0,75.3
+UBCO,2022,S,ECON,101,,001,Principles of Microeconomics,Camille Simardone,73,80.5,,96.0,45.0,2,1,0,4,0,9,11,3,10,11,22,82.0,90.0,73.0
+UBCO,2022,S,ECON,391,M,001,Topics in Economics,Camille Simardone,33,77.8,,96.0,26.0,2,1,0,1,1,1,6,1,10,5,5,83.0,86.0,73.0

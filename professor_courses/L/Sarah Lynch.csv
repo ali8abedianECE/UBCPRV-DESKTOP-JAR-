@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,LLED,200,,V05,INTRO ACAD WRIT,"Lynch, Sarah",14,61.14,10.73,83,51,14,0,0,0,0,0,0,0,0,0,0,7,0,2,2,0,1,1,1,0,0,,,
+UBC,2017,W,LLED,200,,V10,INTRO ACAD WRIT,"Lynch, Sarah",13,60.83,18.6,85,23,10,2,1,0,0,0,0,1,1,0,2,1,2,2,0,2,0,0,2,1,0,,,
+UBC,2017,W,LLED,201,,V95,CRIT READ&WRIT,"Lynch, Sarah",14,68.21,9.17,83,53,14,0,0,0,0,0,0,0,0,0,0,1,2,2,1,2,2,3,1,0,0,,,
+UBC,2017,W,LLED,201,,V99,CRIT READ&WRIT,"Lynch, Sarah",13,69,12.32,90,52,13,0,0,0,0,0,0,0,0,0,0,2,1,2,1,1,1,2,2,0,1,,,
+UBC,2018,W,LLED,200,,V07,INTRO ACAD WRIT,"Lynch, Sarah",11,65.73,10.05,80,54,11,0,0,0,0,0,0,0,0,0,0,1,2,3,0,0,3,0,2,0,0,,,
+UBC,2018,W,LLED,200,,V14,INTRO ACAD WRIT,"Lynch, Sarah",15,66.67,12.8,84,37,14,1,0,0,0,0,0,0,1,0,1,1,1,3,2,2,0,2,3,0,0,,,
+UBC,2018,W,LLED,200,,V15,INTRO ACAD WRIT,"Lynch, Sarah",15,58.93,10.58,73,37,11,3,1,0,0,0,0,0,1,2,3,1,2,2,2,3,1,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,V04,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Sandra Zappa;Sarah Lynch;Won Kim,14,60.214285714,17.55509381,73.0,4.0,,,,,,,,,,,2,0,2,1,3,5,1,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,V05,Introduction to Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch;Won Kim,14,61.142857143,10.726366815,83.0,51.0,,,,,,,,,,,0,7,0,2,2,0,1,1,1,0,0,,,
+UBCV,2017,W,LLED,200,,V10,Introduction to Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch,12,60.833333333,18.59537251,85.0,23.0,,,,,,,,,,,2,1,2,2,0,2,0,0,2,1,0,,,
+UBCV,2017,W,LLED,201,,V95,Critical Reading and Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch,14,68.214285714,9.166650017,83.0,53.0,,,,,,,,,,,0,1,2,2,1,2,2,3,1,0,0,,,
+UBCV,2017,W,LLED,201,,V99,Critical Reading and Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch,13,69.0,12.315302135,90.0,52.0,,,,,,,,,,,0,2,1,2,1,1,1,2,2,0,1,,,
+UBCV,2018,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Elisabeth Sones;Sandra Zappa;Sarah Lynch,11,65.727272727,10.05078016,80.0,54.0,,,,,,,,,,,0,1,2,3,0,0,3,0,2,0,0,,,
+UBCV,2018,W,LLED,200,,V14,Introduction to Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch,15,66.666666667,12.804389128,84.0,37.0,,,,,,,,,,,1,1,1,3,2,2,0,2,3,0,0,,,
+UBCV,2018,W,LLED,200,,V15,Introduction to Writing in Academic and Professional Registers,Sandra Zappa;Sarah Lynch,14,58.928571429,10.579110663,73.0,37.0,,,,,,,,,,,3,1,2,2,2,3,1,0,0,0,0,,,
+UBCV,2019,W,LLED,200,,V90,Introduction to Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,14,63.928571429,11.671558367,85.0,51.0,,,,,,,,,,,0,4,3,0,2,1,1,1,1,1,0,,,
+UBCV,2019,W,LLED,200,,V92,Introduction to Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,13,65.230769231,11.358945419,87.0,36.0,,,,,,,,,,,1,0,1,2,4,2,2,0,0,1,0,,,
+UBCV,2019,W,LLED,200,,V95,Introduction to Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,15,80.6,7.844925566,95.0,65.0,,,,,,,,,,,0,0,0,0,1,2,0,3,4,3,2,,,
+UBCV,2019,W,LLED,201,,V89,Critical Reading and Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,16,71.125,12.371337842,91.0,35.0,,,,,,,,,,,1,0,0,1,3,2,2,4,2,0,1,,,
+UBCV,2019,W,LLED,201,,V91,Critical Reading and Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,14,69.357142857,11.419330055,92.0,46.0,,,,,,,,,,,1,0,1,2,2,2,3,1,1,0,1,,,
+UBCV,2019,W,LLED,201,,V93,Critical Reading and Writing in Academic and Professional Registers,Joel Joachim Saalfeld;Joel Saalfeld;Joel Saalfield;Sandra Zappa;Sarah Lynch,14,66.142857143,10.96748441,83.0,44.0,,,,,,,,,,,1,1,2,0,3,2,3,0,2,0,0,,,
+UBCV,2020,W,LLED,200,,V94,Introduction to Writing in Academic and Professional Registers,Maureen Kendrick;Sandra Zappa;Sarah Lynch,12,52.75,29.881964764,90.0,0.0,,,,,,,,,,,3,1,1,4,0,0,0,1,0,1,1,,,
+UBCV,2020,W,LLED,201,,V90,Critical Reading and Writing in Academic and Professional Registers,Maureen Kendrick;Sandra Zappa;Sarah Lynch,16,56.9375,31.48643888,90.0,2.0,,,,,,,,,,,5,0,0,1,1,1,3,1,1,2,1,,,
+UBCV,2022,W,EPSE,481,,074,Introduction to Research in Education,Sarah Lynch,9,86.4,,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,1,3,84.0,94.0,83.0
+UBCV,2022,W,LLED,201,,V90,Critical Reading and Writing in Academic and Professional Registers,Sarah Lynch;Sandra Zappa,11,63.8,,93.0,16.0,,,,,,,,,,,2,0,0,1,3,0,1,2,0,1,1,67.0,78.0,63.0
+UBCV,2022,W,LLED,201,,V98,Critical Reading and Writing in Academic and Professional Registers,Sarah Lynch;Sandra Zappa,8,65.1,,82.0,0.0,,,,,,,,,,,1,1,0,0,0,1,0,2,3,0,0,77.0,80.5,65.3

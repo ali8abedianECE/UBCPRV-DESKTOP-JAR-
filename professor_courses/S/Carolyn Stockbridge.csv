@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,VISA,220,,003,DRAWING,"Stockbridge, Carolyn",21,75.62,8.33,87,59,21,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,3,3,4,5,0,,,
+UBC,2018,W,VISA,230,,003,PAINTING,"Stockbridge, Carolyn",22,78.05,5.85,88,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5,5,4,0,,,
+UBCV,2018,W,VISA,220,,003,Drawing,Carolyn Stockbridge,21,75.619047619,8.327521783,87.0,59.0,,,,,,,,,,,0,0,1,2,0,3,3,3,4,5,0,,,
+UBCV,2018,W,VISA,230,,003,Painting,Carolyn Stockbridge,22,78.045454545,5.851147814,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,7,5,5,4,0,,,
+UBCV,2019,W,VISA,180,,002,Foundation Studio: Approaches to Media,Carolyn Stockbridge;Martin Katzoff;Natalie Purschwitz,73,75.260273973,7.049482639,88.0,50.0,,,,,,,,,,,0,1,0,3,5,7,18,17,13,9,0,,,
+UBCV,2019,W,VISA,230,,001,Painting,Carolyn Stockbridge,20,78.3,5.667079448,88.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,7,9,2,0,,,
+UBCV,2019,W,VISA,230,,003,Painting,Carolyn Stockbridge,20,82.2,9.506784281,94.0,52.0,,,,,,,,,,,0,1,0,0,0,0,2,3,4,6,4,,,
+UBCV,2020,W,VISA,220,,003,Drawing,Carolyn Stockbridge;Guadalupe Martinez;Marina Roy,20,80.45,4.582288557,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,7,9,2,1,,,
+UBCV,2020,W,VISA,230,,001,Painting,Carolyn Stockbridge;Marina Roy;Mohammad Ali Ahadi,19,81.947368421,6.38986771,92.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,5,6,5,2,,,
+UBCV,2020,W,VISA,230,,002,Painting,Carolyn Stockbridge;Joshua Hite;Marina Roy,20,82.6,5.215361924,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,5,6,3,,,
+UBCV,2020,W,VISA,230,,004,Painting,Carolyn Stockbridge,20,80.85,5.163383224,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,6,8,2,2,,,
+UBCV,2021,W,VISA,230,,001,Painting,Carolyn Stockbridge,20,81.4,7.450891858,93.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,4,2,7,3,,,
+UBCV,2021,W,VISA,230,,002,Painting,Carolyn Stockbridge,20,81.75,7.032817808,92.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,6,2,6,3,,,
+UBCV,2021,W,VISA,230,,001,Painting,Carolyn Stockbridge,20,81.4,,93.0,66.0,,,,,,,,,,,,,,,,,,,,7,,83.0,85.0,77.0
+UBCV,2021,W,VISA,230,,002,Painting,Carolyn Stockbridge,20,81.8,,92.0,66.0,,,,,,,,,,,,,,,,,,6,,6,,82.0,87.3,77.0
+UBCV,2022,W,VISA,230,,001,Painting,Carolyn Stockbridge,21,77.3,,91.0,4.0,,,,,,,,,,,1,0,0,0,0,2,2,5,3,5,3,80.0,86.0,77.0
+UBCV,2022,W,VISA,230,,002,Painting,Carolyn Stockbridge,21,83.9,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,5,8,4,85.0,88.0,83.0
+UBCV,2022,W,VISA,230,,004,Painting,Carolyn Stockbridge,21,77.7,,92.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,4,6,5,4,82.0,88.0,78.0
+UBCV,2023,W,VISA,230,,001,Painting,Carolyn Stockbridge,21,81.9,,92.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,2,6,9,1,83.0,86.0,81.0
+UBCV,2023,W,VISA,230,,003,Painting,Carolyn Stockbridge,19,80.16,,92.0,63.0,,,,,,,,,,,0,0,0,1,1,0,1,3,8,4,1,82.0,84.0,78.0

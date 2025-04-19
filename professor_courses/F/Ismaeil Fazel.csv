@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,S,LLED,489,A,921,APPL LING TEACH,"Fazel, Ismaeil",35,84.1,6.24,98,72,30,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,10,5,,,
+UBC,2016,W,EPSE,310,A,101,ASMNT&LRN IN CLS,"Fazel, Ismaeil",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,S,LLED,489,A,921,Applied Linguistics for Teachers,Ismaeil Fazel;Victoria Surtees,33,83.09090909,7.354265923,98.0,61.0,,,,,,,,,,,0,0,0,,,,,5,9,10,5,,,
+UBCV,2021,W,LLED,200,,V91,Introduction to Writing in Academic and Professional Registers,Amber Shaw;Ismaeil Fazel;Lorenia Salgado-Leos;Sandra Zappa,9,69.666666667,9.219544457,83.0,57.0,,,,,,,,,,,0,0,2,1,1,0,2,2,1,0,0,,,
+UBCV,2021,W,LLED,200,,V92,Introduction to Writing in Academic and Professional Registers,Brett Todd;Ismaeil Fazel;Lorenia Salgado-Leos;Sandra Zappa,16,75.8125,5.406400528,89.0,70.0,,,,,,,,,,,0,0,0,0,0,4,4,5,2,1,0,,,
+UBCV,2021,W,LLED,200,,V96,Introduction to Writing in Academic and Professional Registers,Amber Shaw;Ismaeil Fazel;Lorenia Salgado-Leos;Sandra Zappa,9,75.777777778,7.742379766,85.0,60.0,,,,,,,,,,,0,0,0,1,0,1,3,1,2,1,0,,,
+UBCV,2021,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Brett Todd;Ismaeil Fazel;Lorenia Salgado-Leos;Sandra Zappa,13,74.153846154,6.02558647,87.0,63.0,,,,,,,,,,,0,0,0,1,0,4,3,3,1,1,0,,,
+UBCV,2021,W,LLED,201,,V92,Critical Reading and Writing in Academic and Professional Registers,Brett Todd;Ismaeil Fazel;Maria-Teresa Gallo;Sandra Zappa,13,79.384615385,7.240378231,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,2,3,3,1,,,
+UBCV,2021,W,LLED,201,,V95,Critical Reading and Writing in Academic and Professional Registers,Brett Todd;Ismaeil Fazel;Romina Simian;Sandra Zappa,15,71.533333333,8.675636384,90.0,56.0,,,,,,,,,,,0,0,2,0,2,3,5,1,1,0,1,,,
+UBCV,2021,W,LLED,200,,V91,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,9,69.7,,83.0,57.0,,,,,,,,,,,,,,,,,,,,,,73.0,77.0,63.0
+UBCV,2021,W,LLED,200,,V92,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,16,75.8,,89.0,70.0,,,,,,,,,,,,,,,,,,,,,,75.0,78.3,71.8
+UBCV,2021,W,LLED,200,,V96,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,9,75.8,,85.0,60.0,,,,,,,,,,,,,,,,,,,,,,75.0,82.0,73.0
+UBCV,2021,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,13,74.2,,87.0,63.0,,,,,,,,,,,,,,,,,,,,,,74.0,78.0,70.0
+UBCV,2021,W,LLED,201,,V92,Critical Reading and Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,13,79.4,,90.0,68.0,,,,,,,,,,,,,,,,,,,,,,80.0,86.0,74.0
+UBCV,2021,W,LLED,201,,V95,Critical Reading and Writing in Academic and Professional Registers,Ismaeil Fazel;Sandra Zappa,15,71.5,,90.0,56.0,,,,,,,,,,,,,,,,,,,,,,72.0,75.0,67.5
+UBCV,2022,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel,12,76.1,,82.0,70.0,,,,,,,,,,,0,0,0,0,0,1,4,6,1,0,0,76.0,78.3,74.8
+UBCV,2022,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Ismaeil Fazel,12,74.1,,83.0,66.0,,,,,,,,,,,0,0,0,0,1,3,4,2,2,0,0,73.5,77.3,70.0
+UBCV,2022,W,LLED,223,,001,Introduction to the Nature of World Englishes,Ismaeil Fazel,27,79.1,,88.0,67.0,,,,,,,,,,,0,0,0,0,1,0,6,7,9,4,0,79.0,82.0,75.5
+UBCV,2022,W,LLED,223,,002,Introduction to the Nature of World Englishes,Ismaeil Fazel,12,79.1,,88.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,2,4,3,0,82.0,84.3,75.8
+UBCV,2022,W,VANT,140,D,V01,Content and Language Enrichment Tutorials,Ismaeil Fazel;Sandra Zappa,13,82.6,,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,4,0,82.0,85.0,80.0
+UBCV,2022,W,VANT,140,D,V11,Content and Language Enrichment Tutorials,Ismaeil Fazel,10,78.1,,84.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,3,5,0,0,79.5,80.8,78.0
+UBCV,2023,W,LLED,223,,001,Introduction to the Nature of World Englishes,Ismaeil Fazel,16,81.3,,96.0,60.0,,,,,,,,,,,0,0,0,1,0,1,2,1,5,2,4,83.5,87.0,77.3
+UBCV,2023,W,LLED,223,,002,Introduction to the Nature of World Englishes,Ismaeil Fazel,13,78.0,,91.0,60.0,,,,,,,,,,,0,0,0,1,1,2,1,1,4,2,1,81.0,84.0,71.0

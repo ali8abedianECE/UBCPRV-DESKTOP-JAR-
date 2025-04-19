@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,BIOC,202,,001,INTR MED BIOC,"Brown, Lindsay;Williams, Warren",72,70.06,14.2,100,37,67,4,1,0,0,0,0,0,1,3,4,4,6,9,8,10,6,5,5,8,6,,,
+UBC,2018,W,BIOC,202,,002,INTR MED BIOC,"Brown, Lindsay",169,70.06,13.61,97,0,154,9,3,0,2,1,0,0,1,7,9,5,21,20,14,14,26,10,20,14,10,,,
+UBCV,2018,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Lindsay Rogers (Brown);Warren Williams,71,70.056338028,14.196465681,100.0,37.0,,,,,,,,,,,4,4,6,9,8,10,6,5,5,8,6,,,
+UBCV,2018,W,BIOC,202,,002,Introductory Medical Biochemistry,Lindsay Brown;Lindsay Rogers (Brown);Warren Williams,164,70.146341463,13.453051243,97.0,0.0,,,,,,,,,,,8,5,21,21,14,15,26,10,20,14,10,,,
+UBCV,2019,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),11,79.454545455,8.153080845,91.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,1,3,2,1,,,
+UBCV,2019,W,BIOC,421,,202,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),11,75.727272727,7.497878488,85.0,66.0,,,,,,,,,,,0,0,0,0,2,3,0,2,1,3,0,,,
+UBCV,2019,W,BIOC,421,,204,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),9,78.222222222,3.382963855,83.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,4,4,0,0,,,
+UBCV,2019,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,16,91.0,4.396968653,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,13,,,
+UBCV,2019,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,10,91.5,4.249182928,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2020,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,178,71.146067416,11.087785881,99.0,41.0,,,,,,,,,,,4,7,17,16,21,23,21,27,23,11,8,,,
+UBCV,2020,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,11,88.272727273,4.496463257,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,5,,,
+UBCV,2020,W,BIOC,421,,202,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,11,83.909090909,5.048852255,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,6,1,,,
+UBCV,2020,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown;Scott Covey,11,92.0,4.0,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,7,,,
+UBCV,2020,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown;Scott Covey,19,92.263157895,3.493519481,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,16,,,
+UBCV,2020,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Alexandra Sebastien;Lindsay Brown;Lindsay Rogers (Brown);Michael Krisinger,60,83.8,5.565633045,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,7,6,17,19,11,,,
+UBCV,2021,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,98,68.755102041,17.71426196,100.0,16.0,,,,,,,,,,,11,3,9,11,10,14,7,3,8,9,13,,,
+UBCV,2021,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Nisha Chander;Rhonda Thygesen;Robert Maurus;Tomas Pelletier;Warren Williams,122,72.245901639,12.892634501,100.0,35.0,,,,,,,,,,,6,3,8,8,12,19,17,13,15,12,9,,,
+UBCV,2021,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Matthew Shannon;Scott Covey,10,73.0,29.503295484,95.0,7.0,,,,,,,,,,,2,0,0,0,1,0,0,1,0,2,4,,,
+UBCV,2021,W,BIOC,421,,202,Recombinant DNA Techniques,Karol Buda;Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,12,82.75,12.432545267,96.0,55.0,,,,,,,,,,,0,0,1,0,1,0,1,0,3,1,5,,,
+UBCV,2021,W,BIOC,421,,203,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Rachel Price;Scott Covey,9,82.222222222,7.395569244,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,1,3,2,,,
+UBCV,2021,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Daniel Andrews;Jerry Leung;Lindsay Brown;Lindsay Rogers (Brown);Maya Degrood;Michael Krisinger;Mopelola Akinlaja,54,86.018518519,4.367507561,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,15,26,10,,,
+UBCV,2021,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;B Brett Finlay;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Lindsay Brown;Michael Kobor;Nobuhiko Tokuriki;Philip Hieter;Pieter Cullis;Scott Covey;Sheila Teves;Shoukat Dedhar;Sriram Subramaniam;Thibault Mayor;Vivien Measday;Warren Williams,19,94.684210526,2.427907915,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,18,,,
+UBCV,2021,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,98,69.0,,100.0,18.0,,,,,,,,,,,11,,9,11,10,14,7,,8,9,13,68.0,82.0,60.0
+UBCV,2021,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Nisha Chander;Warren Williams,121,73.0,,100.0,40.0,,,,,,,,,,,,,9,8,12,20,17,13,14,13,9,73.0,81.0,65.0
+UBCV,2021,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Lindsay Brown,54,86.0,,95.0,74.0,,,,,,,,,,,,,,,,,,,15,26,10,86.0,88.8,83.3
+UBCV,2021,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Lindsay Brown;Annie Ciernia;Scott Covey;Pieter Cullis;Shoukat Dedhar;B Brett Finlay;Philip Hieter;Thibault Mayor;Corey Nislow;Jason Read;Sriram Subramaniam;Sheila Teves;Filip Van Petegem,19,94.7,,98.0,89.0,,,,,,,,,,,,,,,,,,,,,18,95.0,96.0,93.5
+UBCV,2022,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,148,69.9,,96.0,41.0,,,,,,,,,,,9,13,16,13,11,19,13,10,19,11,14,70.0,81.3,58.8
+UBCV,2022,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Warren Williams,116,74.8,,93.0,31.0,,,,,,,,,,,1,6,6,5,9,13,15,12,24,18,7,76.0,83.0,68.0
+UBCV,2022,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown,9,89.0,,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,4,88.0,90.0,87.0
+UBCV,2022,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown,13,91.8,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,10,92.0,94.0,91.0
+UBCV,2022,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Lindsay Brown,56,85.2,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,14,25,8,86.0,88.0,83.0
+UBCV,2023,S,BIOC,302,,951,General Biochemistry,Lindsay Brown;Eden Fussner-Dupas,96,76.8,,93.0,36.0,,,,,,,,,,,1,2,2,7,6,8,11,8,26,13,10,80.0,84.0,70.0
+UBCV,2023,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,173,69.5,,99.0,36.0,,,,,,,,,,,11,13,17,16,17,19,12,17,16,12,16,68.0,80.0,60.0
+UBCV,2023,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Warren Williams,138,69.5,,96.0,29.0,,,,,,,,,,,12,4,12,11,14,19,9,15,20,11,6,71.0,81.0,62.0
+UBCV,2023,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown,16,86.3,,94.0,50.0,,,,,,,,,,,0,1,0,0,0,0,0,0,1,7,7,88.5,91.0,85.8
+UBCV,2023,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown,18,88.9,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,9,89.5,91.0,87.3
+UBCV,2023,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Lindsay Brown,53,85.9,,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,21,28,4,87.0,88.0,83.0

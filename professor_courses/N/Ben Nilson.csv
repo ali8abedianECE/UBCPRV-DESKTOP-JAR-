@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson,69,67.49275362,10.87715251,92.0,37.0,,,,12,10,10,11,6,7,,,,,
+UBCO,2014,W,HIST,119,,001,Medieval Europe,Ben Nilson,66,64.37878788,20.9113625,91.0,0.0,13,,,8,6,9,8,5,11,,,,,
+UBCO,2014,W,HIST,325,,001,Europe in 1215,Ben Nilson,28,66.89285714,18.0664192,88.0,4.0,,,,,,5,,,5,,0,,,
+UBCO,2014,W,HIST,414,,001,Medieval England,Ben Nilson,26,66.23076923,18.95322177,88.0,8.0,,,,,5,5,,,,,0,,,
+UBCO,2015,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson;Dorjan Lecki,74,71.121621622,14.113971221,92.0,11.0,,,,5,7,9,8,10,14,8,,,,
+UBCO,2015,W,HIST,201,,001,Religion in the West,Ben Nilson,36,69.916666667,16.215292606,96.0,25.0,,,,6,,,,,7,,5,,,
+UBCO,2015,W,HIST,343,,001,"Tudor England, 1485-1603",Ben Nilson,29,76.551724138,11.239554538,94.0,40.0,,,,,,,,,9,,,,,
+UBCO,2015,W,HIST,344,,001,"Stuart England, 1603-1714",Ben Nilson,28,64.214285714,23.948025733,95.0,0.0,6,,,,,,,,6,,,,,
+UBCO,2017,W,HIST,201,,101,Religion in the West,Ben Nilson,34,67.911764706,15.859931688,90.0,8.0,2,2,2,6,1,5,6,1,6,2,1,,,
+UBCO,2017,W,HIST,343,,101,"Tudor England, 1485-1603",Ben Nilson,27,75.074074074,10.684013672,89.0,35.0,1,0,0,1,1,7,2,3,9,3,0,,,
+UBCO,2017,W,HIST,344,,001,"Stuart England, 1603-1714",Ben Nilson,20,72.55,9.293319615,88.0,48.0,1,0,0,2,3,1,6,3,2,2,0,,,
+UBCO,2017,W,HIST,414,,001,Medieval England,Ben Nilson,32,66.875,19.955999987,89.0,7.0,3,1,1,1,6,4,5,5,2,4,0,,,
+UBCO,2018,W,HIST,110,,001,Survey of the Ancient World,Ariel Nicolaides;Ben Nilson,81,66.24691358,15.954255595,95.0,17.0,11,4,2,9,10,12,8,12,6,4,3,,,
+UBCO,2018,W,HIST,119,,101,Medieval Europe,Ben Nilson,77,62.12987013,20.43754971,96.0,0.0,20,0,4,9,8,7,6,8,9,3,3,,,
+UBCO,2018,W,HIST,325,,001,Europe in 1215,Ben Nilson,31,65.129032258,17.175063193,87.0,0.0,4,0,1,2,6,5,7,4,1,1,0,,,
+UBCO,2018,W,HIST,343,,101,"Tudor England, 1485-1603",Ben Nilson,24,74.583333333,10.051678063,90.0,51.0,0,1,2,0,4,1,1,7,5,2,1,,,
+UBCO,2019,W,HIST,110,,101,Survey of the Ancient World,Ariel Nicolaides;Ben Nilson,66,67.015151515,17.564380411,93.0,16.0,8,2,2,6,11,7,8,6,7,6,3,,,
+UBCO,2019,W,HIST,201,,001,Religion in the West,Ange-Aimee Quesnel;Ben Nilson,41,69.414634146,14.959905765,96.0,31.0,5,1,3,7,2,4,2,5,5,5,2,,,
+UBCO,2019,W,HIST,344,,001,"Stuart England, 1603-1714",Ben Nilson,34,68.411764706,16.281831568,98.0,17.0,3,1,1,4,3,3,9,3,5,1,1,,,
+UBCO,2019,W,HIST,495,W,101,Special Topics in History,Ben Nilson;Julien Vernet,27,82.37037037,7.864957079,96.0,67.0,0,0,0,0,2,2,2,1,8,7,5,,,
+UBCO,2020,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson;Morgan Marshall,59,69.491525424,16.457230757,95.0,18.0,6,2,5,4,3,7,5,9,12,2,4,,,
+UBCO,2020,W,HIST,119,,101,Medieval Europe,Ben Nilson;Morgan Marshall;Ruth Frost,59,73.491525424,16.828109572,96.0,17.0,4,3,0,1,6,3,9,8,13,7,5,,,
+UBCO,2020,W,HIST,343,,101,"Tudor England, 1485-1603",Ben Nilson;Francois Gauthier;Ruth Frost,30,77.966666667,6.397646838,88.0,62.0,0,0,0,1,1,3,5,6,11,3,0,,,
+UBCO,2020,W,HIST,414,,001,Medieval England,Ben Nilson,20,67.3,19.265731781,86.0,14.0,3,0,1,2,0,2,3,4,3,2,0,,,
+UBCO,2021,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson;Grace Franks,67,66.925373134,15.145069638,92.0,18.0,8,2,5,10,4,11,6,7,7,4,3,,,
+UBCO,2021,W,HIST,201,,101,Religion in the West,Ben Nilson;Grace Franks,33,69.363636364,16.883457477,92.0,28.0,5,1,1,4,3,1,2,4,5,5,2,,,
+UBCO,2021,W,HIST,325,,101,Europe in 1215,Ben Nilson,23,69.043478261,15.998517718,87.0,34.0,4,0,0,3,3,1,2,1,6,3,0,,,
+UBCO,2021,W,HIST,344,,001,"Stuart England, 1603-1714",Ben Nilson,22,70.0,8.0,81.0,52.0,0,2,1,1,3,4,6,3,2,0,0,,,
+UBCO,2021,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson,67,66.9,,92.0,18.0,8,,,10,,11,6,7,7,,,68.0,78.0,60.0
+UBCO,2021,W,HIST,201,,101,Religion in the West,Ben Nilson,33,69.4,,92.0,28.0,,,,,,,,,,,,72.0,82.0,62.0
+UBCO,2021,W,HIST,325,,101,Europe in 1215,Ben Nilson,23,69.0,,87.0,34.0,,,,,,,,,6,,,74.0,82.0,62.0
+UBCO,2021,W,HIST,344,,001,"Stuart England, 1603-1714",Ben Nilson,22,70.0,,81.0,52.0,,,,,,,6,,,,,71.5,75.0,67.0
+UBCO,2022,W,HIST,119,,001,Medieval Europe,Ben Nilson,67,69.1,,94.0,11.0,2,3,3,6,14,10,11,8,3,4,3,69.0,76.0,65.0
+UBCO,2022,W,HIST,201,,101,Religion in the West,Ben Nilson,18,64.6,,91.0,16.0,4,2,0,2,1,0,1,2,4,0,2,69.5,80.0,52.3
+UBCO,2022,W,HIST,343,,101,"Tudor England, 1485-1603",Ben Nilson,26,74.0,,85.0,40.0,1,1,0,0,3,2,5,5,8,1,0,76.0,80.0,69.8
+UBCO,2022,W,HIST,414,,001,Medieval England,Ben Nilson,23,69.9,,93.0,1.0,1,2,1,2,2,2,3,3,3,3,1,74.0,81.0,63.5
+UBCO,2023,W,HIST,344,,101,"Stuart England, 1603-1714",Ben Nilson,22,71.28,,86.0,24.0,3,0,0,0,1,0,3,2,7,2,0,79.5,81.0,72.0

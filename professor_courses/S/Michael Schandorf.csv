@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Evan Mauro;Gregory Mackie;Kathryn Grafton;Michael Christian Schandorf;Michael Schandorf,23,72.130434783,27.886628187,100.0,0.0,3,0,0,3,2,0,3,3,1,0,8,,,
+UBCV,2018,W,ASTU,101,,P04,Writing for Research in the Social Sciences and the Humanities,Evan Mauro;Michael Christian Schandorf;Michael Schandorf,25,91.8,12.645816172,100.0,47.0,1,0,0,1,0,0,0,0,1,3,19,,,
+UBCV,2018,W,ASTU,101,,P05,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael Schandorf,22,80.681818182,26.121303773,100.0,0.0,3,0,0,1,1,0,1,1,2,2,11,,,
+UBCV,2018,W,WRDS,150,,11M,Research and Writing in the Humanities and Social Sciences,Michael Schandorf,27,72.518518519,30.376319687,100.0,0.0,5,0,0,0,1,4,1,1,2,2,11,,,
+UBCV,2018,W,WRDS,150,,14M,Research and Writing in the Humanities and Social Sciences,Michael Schandorf,29,84.965517241,18.853727859,100.0,5.0,1,1,0,0,0,1,1,1,5,3,16,,,
+UBCV,2018,W,WRDS,350,,012,Knowledge-Making in the Disciplines,Michael Schandorf,27,85.555555556,24.678444866,100.0,0.0,2,0,0,0,0,1,0,2,2,1,19,,,
+UBCV,2019,S,WRDS,150,,J02,Writing and Research in the Disciplines,Michael Schandorf,27,86.074074074,20.585517549,100.0,11.0,2,0,0,0,1,1,0,1,1,5,16,,,
+UBCV,2019,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael Schandorf;Tamara Gene Myers;Tamara Myers,21,73.666666667,26.507231718,98.0,2.0,5,0,1,0,1,0,0,0,3,4,7,,,
+UBCV,2019,W,ASTU,101,,P04,Writing for Research in the Social Sciences and the Humanities,Linda Morra;Michael Christian Schandorf;Michael Schandorf,20,76.2,28.994736364,98.0,0.0,3,0,1,0,1,1,0,0,1,3,10,,,
+UBCV,2019,W,ASTU,101,,P05,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael O'Hagan;Michael Schandorf,15,77.133333333,29.247384905,99.0,2.0,2,0,0,1,0,0,0,1,3,1,7,,,
+UBCV,2019,W,WRDS,150,,03E,Writing and Research in the Disciplines,Michael Schandorf,27,81.444444444,23.211955363,98.0,0.0,3,0,0,0,0,1,0,2,4,3,14,,,
+UBCV,2019,W,WRDS,150,,11M,Writing and Research in the Disciplines,Michael Schandorf,25,86.52,12.609916732,100.0,61.0,0,0,0,2,0,2,2,2,0,4,13,,,
+UBCV,2019,W,WRDS,150,,14M,Writing and Research in the Disciplines,Michael Schandorf,26,88.461538462,7.726477952,99.0,73.0,0,0,0,0,0,0,3,2,2,4,15,,,
+UBCV,2019,W,WRDS,350,,012,Knowledge-Making in the Disciplines,Michael Schandorf,22,83.545454545,20.353371717,98.0,6.0,1,0,0,1,1,0,1,3,0,3,12,,,
+UBCV,2020,S,WRDS,150,A,005,Writing and Research in the Disciplines,Michael Schandorf,28,76.892857143,20.195964551,95.0,11.0,2,1,0,0,3,1,0,5,2,9,5,,,
+UBCV,2020,S,WRDS,150,B,565,Writing and Research in the Disciplines,Michael Schandorf,24,81.291666667,17.960050273,98.0,11.0,1,0,1,0,0,4,0,0,3,6,9,,,
+UBCV,2020,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael Schandorf;Tiffany Lee,26,84.807692308,17.636369764,100.0,28.0,2,0,0,0,0,0,0,2,4,6,12,,,
+UBCV,2020,W,ASTU,101,,P04,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael Schandorf;Tiffany Lee,20,77.55,17.527347054,97.0,15.0,1,0,0,0,3,1,1,4,2,4,4,,,
+UBCV,2020,W,ASTU,101,,P05,Writing for Research in the Social Sciences and the Humanities,Michael Christian Schandorf;Michael Schandorf;Tiffany Lee,20,59.1,31.803508578,97.0,14.0,7,0,0,1,1,0,3,1,3,0,4,,,
+UBCV,2020,W,WRDS,150,A,251,Writing and Research in the Disciplines,Michael Schandorf;Yvonne Nguyen,27,83.111111111,22.493303847,99.0,19.0,3,1,0,0,0,1,1,0,2,1,18,,,
+UBCV,2020,W,WRDS,150,A,411,Writing and Research in the Disciplines,Michael Schandorf;Yvonne Nguyen,25,83.52,20.526649345,98.0,19.0,2,0,0,0,0,1,2,1,1,4,14,,,
+UBCV,2020,W,WRDS,350,,012,Knowledge-Making in the Disciplines,Aleksandra Gordeeva;Michael Schandorf,19,87.894736842,9.397959216,98.0,71.0,0,0,0,0,0,1,1,2,3,2,10,,,
+UBCV,2021,S,WRDS,150,B,562,Writing and Research in the Disciplines,Michael Schandorf;Yvonne Nguyen,29,85.793103448,19.970298142,99.0,19.0,2,0,0,0,0,0,3,1,2,2,19,,,
+UBCV,2021,S,WRDS,150,B,563,Writing and Research in the Disciplines,Michael Schandorf;Yvonne Nguyen,27,81.037037037,22.970686138,99.0,18.0,3,0,0,0,0,1,3,0,2,5,13,,,
+UBCV,2021,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Michael Schandorf,24,61.083333333,34.472316135,99.0,14.0,9,1,0,0,1,1,0,1,2,1,8,,,
+UBCV,2021,W,ASTU,101,,P04,Writing for Research in the Social Sciences and the Humanities,Erin Goheen;Evan Mauro;Michael Schandorf,14,67.285714286,20.889557831,90.0,10.0,2,0,0,2,0,2,2,3,2,0,1,,,
+UBCV,2021,W,ASTU,101,,P05,Writing for Research in the Social Sciences and the Humanities,Michael Schandorf,20,62.65,29.322660538,99.0,0.0,5,0,1,1,0,0,2,6,2,0,3,,,
+UBCV,2021,W,WRDS,150,B,713,Writing and Research in the Disciplines,Michael Schandorf;Yvonne Nguyen,29,77.413793103,20.675239231,100.0,20.0,2,0,1,4,1,2,0,2,3,2,12,,,
+UBCV,2021,W,WRDS,150,B,923,Writing and Research in the Disciplines,Michael Schandorf,30,82.833333333,18.796704284,100.0,19.0,2,0,0,0,3,0,2,2,2,4,15,,,
+UBCV,2021,W,WRDS,150,B,942,Writing and Research in the Disciplines,Michael Schandorf,26,78.307692308,22.988291334,99.0,3.0,2,0,0,2,0,4,1,2,2,4,9,,,
+UBCV,2021,W,WRDS,250,,100,Evaluating Knowledge Production and Mobilization,Michael Schandorf,13,87.692307692,22.088400483,100.0,24.0,1,0,0,1,0,0,0,0,0,2,9,,,
+UBCV,2021,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Michael Schandorf,24,62.7,,99.0,14.0,8,,,,,,,,,,8,73.0,93.8,26.5
+UBCV,2021,W,ASTU,101,,P05,Writing for Research in the Social Sciences and the Humanities,Michael Schandorf,20,64.7,,99.0,0.0,,,,,,,,6,,,,77.0,78.5,58.8
+UBCV,2021,W,WRDS,150,B,923,Writing and Research in the Disciplines,Michael Schandorf,30,82.8,,100.0,19.0,,,,,,,,,,,15,89.5,95.0,78.0
+UBCV,2021,W,WRDS,150,B,942,Writing and Research in the Disciplines,Michael Schandorf,26,78.5,,99.0,8.0,,,,,,,,,,,9,85.5,94.8,70.0
+UBCV,2021,W,WRDS,250,,100,Evaluating Knowledge Production and Mobilization,Michael Schandorf,13,87.7,,100.0,24.0,,,,,,,,,,,9,97.0,100.0,88.0
+UBCV,2022,S,WRDS,150,B,523,Writing and Research in the Disciplines,Michael Schandorf,29,86.6,,99.0,22.0,1,0,0,0,1,0,1,2,4,4,16,91.0,95.0,82.0
+UBCV,2022,W,WRDS,150,A,222,Writing and Research in the Disciplines,Michael Schandorf,22,77.7,,99.0,0.0,2,0,0,0,2,0,3,1,3,3,8,83.5,93.5,74.0
+UBCV,2022,W,WRDS,150,A,231,Writing and Research in the Disciplines,Michael Schandorf,29,75.2,,99.0,7.0,5,0,0,2,0,1,0,2,2,3,14,89.0,95.0,69.0
+UBCV,2022,W,WRDS,150,B,912,Writing and Research in the Disciplines,Michael Schandorf,26,93.5,,100.0,63.0,0,0,0,2,0,0,0,1,0,1,22,97.5,99.0,93.3
+UBCV,2022,W,WRDS,150,B,922,Writing and Research in the Disciplines,Michael Schandorf,27,89.8,,100.0,4.0,1,0,0,0,0,0,1,1,3,1,20,95.0,99.0,88.5
+UBCV,2022,W,WRDS,150,B,931,Writing and Research in the Disciplines,Michael Schandorf,26,89.6,,100.0,58.0,0,0,1,0,3,0,2,0,0,0,20,95.0,99.0,90.3
+UBCV,2022,W,WRDS,350,,002,Knowledge-Making in the Disciplines,Michael Schandorf,25,84.6,,100.0,37.0,2,0,0,0,0,1,0,3,3,5,11,88.0,95.0,81.0
+UBCV,2023,S,WRDS,150,B,512,Writing and Research in the Disciplines,Michael Schandorf,30,86.5,,100.0,16.0,1,0,0,0,0,1,2,3,2,2,17,91.0,95.3,81.3
+UBCV,2023,S,WRDS,150,B,515,Writing and Research in the Disciplines,Michael Schandorf,31,91.4,,100.0,63.0,0,0,0,1,0,0,1,0,5,0,23,94.0,97.0,90.0
+UBCV,2023,W,WRDS,150,B,712,Writing and Research in the Disciplines,Michael Schandorf,30,72.8,,100.0,11.0,4,1,0,4,2,0,2,4,2,2,8,77.0,92.0,61.0
+UBCV,2023,W,WRDS,150,B,731,Writing and Research in the Disciplines,Michael Schandorf,29,84.4,,100.0,40.0,1,0,1,1,0,1,1,2,6,4,12,85.0,96.0,80.0
+UBCV,2023,W,WRDS,150,B,912,Writing and Research in the Disciplines,Michael Schandorf,32,91.4,,100.0,64.0,0,0,0,0,1,0,1,1,3,3,21,94.0,97.0,86.3
+UBCV,2023,W,WRDS,150,B,921,Writing and Research in the Disciplines,Michael Schandorf,32,91.8,,100.0,56.0,0,0,1,1,0,0,1,0,1,1,26,94.0,98.0,91.0
+UBCV,2023,W,WRDS,150,B,931,Writing and Research in the Disciplines,Michael Schandorf,32,90.6,,100.0,69.0,0,0,0,0,0,2,1,0,3,3,22,94.0,96.5,87.5
+UBCV,2023,W,WRDS,350,,002,Knowledge-Making in the Disciplines,Michael Schandorf,28,87.3,,100.0,49.0,2,1,0,0,0,1,1,3,1,1,18,90.0,100.0,79.0

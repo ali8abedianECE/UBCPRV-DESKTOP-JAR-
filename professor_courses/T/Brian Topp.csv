@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,MUSC,119,,001,INTR MUSIC TECH,"Gimon, Katerina;Hamel, Keith;Pritchard, Robert;Topp, Brian",115,70.95,16.93,100,11,101,10,3,0,0,0,1,0,7,2,10,7,6,11,5,4,13,15,15,10,15
+UBCV,2015,W,MUSC,107,C,002,Composition I,Brian Lee Topp;Brian Topp;Dorothy Chang Bortolussi;Keith Hamel;Nova Pon;Stephen Chatman,9,84.222222222,4.657729537,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2016,W,MUSC,319,A,001,Introduction to Electroacoustic Music,Brian Topp;Robert Pritchard,21,80.19047619,6.947078865,92.0,66.0,,,,,,,,,,,0,0,0,0,1,4,0,1,8,6,1
+UBCV,2017,W,MUSC,119,,001,Introduction to Music Technology,Brian Lee Topp;Brian Topp;Robert Pritchard,113,73.548672566,15.017841265,100.0,26.0,,,,,,,,,,,3,13,5,6,9,7,11,10,19,18,12
+UBCV,2017,W,MUSC,319,A,001,Introduction to Electroacoustic Music,Brian Topp;Robert Pritchard,14,79.714285714,8.452842685,91.0,61.0,,,,,,,,,,,0,0,0,1,0,0,4,2,1,4,2
+UBCV,2017,W,MUSC,320,,001,Computer Music,Brian Lee Topp;Brian Topp;Keith Hamel,19,84.684210526,6.79912275,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,1,3,5,7
+UBCV,2018,W,MUSC,119,,001,Introduction to Music Technology,Brian Lee Topp;Brian Topp;Katerina Gimon;Katerina Maria Gimon;Keith Hamel;Robert Pritchard,113,70.955752212,16.841906376,100.0,11.0,,,,,,,,,,,10,7,6,12,5,4,13,15,16,10,15
+UBCV,2018,W,MUSC,319,A,001,Introduction to Electroacoustic Music,Brian Topp;Robert Pritchard,13,81.153846154,4.947156656,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,2,5,2,1
+UBCV,2018,W,MUSC,320,,001,Computer Music,Brian Lee Topp;Brian Topp;Keith Hamel,12,83.833333333,9.998484734,93.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,0,3,5,3

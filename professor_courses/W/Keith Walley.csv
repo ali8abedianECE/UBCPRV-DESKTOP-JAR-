@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MEDI,570,,001,CARDIOLOGY,"Walley, Keith",8,84.88,5.67,96,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1
+UBC,2003,W,MEDI,570,,001,CARDIOLOGY,"Walley, Keith",6,88.17,5.34,93,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4
+UBC,2005,W,MEDI,570,,001,CARDIOLOGY,"Walley, Keith",16,81.5,6.08,93,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,3,3
+UBC,2006,W,MEDI,570,,001,CARDIOLOGY,"Walley, Keith",6,86.5,5.36,95,81,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2

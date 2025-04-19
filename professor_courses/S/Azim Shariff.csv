@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,PSYC,102,,002,DEV SOC CLI PSY,"Shariff, Azim",274,69.02,12.78,93,0,249,12,2,0,0,2,0,1,4,5,12,16,19,23,37,34,32,35,37,10,6,,,
+UBCV,2018,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Adri Khalis Abdul Karim;Adri Khalis Bin Abdul Karim;Azim Shariff;Mikayla Pachkowski;Tristan Hynes,272,68.768382353,12.784966969,93.0,0.0,,,,,,,,,,,13,18,21,25,37,34,33,37,38,10,6,,,
+UBCV,2019,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Adri Khalis Abdul Karim;Adri Khalis Bin Abdul Karim;Anna Lisa Cohen;Azim Shariff;William Jettinghoff,358,71.960893855,12.283925471,96.0,28.0,,,,,,,,,,,19,16,22,27,31,40,56,47,45,31,24,,,
+UBCV,2020,W,PSYC,102,,002,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Andrew Rivers;Azim Shariff;Hongyuan Qi;Mahmoud Khademi;Vivian Qi,352,76.295454545,11.382656964,100.0,0.0,,,,,,,,,,,4,5,8,19,24,34,50,52,63,53,40,,,
+UBCV,2020,W,PSYC,358,,901,Evolutionary Psychology,Azim Shariff;Brent Stewart,141,75.0,10.136919791,96.0,48.0,,,,,,,,,,,1,5,2,7,21,13,21,22,22,15,12,,,
+UBCV,2021,W,PSYC,102,,008,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Adri Khalis Abdul Karim;Azim Shariff;Sarvenaz Oloomi;Tanya Schmader,331,73.371601208,14.845394455,100.0,5.0,,,,,,,,,,,16,12,25,19,21,39,24,43,59,40,33,,,
+UBCV,2021,W,PSYC,358,,901,Evolutionary Psychology,Azim Shariff;Nicholas Kay,122,73.106557377,12.67704855,96.0,14.0,,,,,,,,,,,4,1,7,9,12,18,16,16,19,14,6,,,
+UBCV,2021,W,PSYC,102,,008,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Azim Shariff,329,73.8,,100.0,5.0,,,,,,,,,,,14,12,24,19,22,38,25,43,59,40,33,76.0,84.0,66.0
+UBCV,2021,W,PSYC,358,,901,Evolutionary Psychology,Azim Shariff,122,73.1,,96.0,14.0,,,,,,,,,,,,,7,9,12,18,16,16,19,14,6,75.0,81.8,66.3
+UBCV,2022,W,PSYC,358,,901,Evolutionary Psychology,Azim Shariff,134,72.9,,96.0,41.0,,,,,,,,,,,3,6,10,12,18,12,12,16,22,13,10,72.5,83.0,64.0

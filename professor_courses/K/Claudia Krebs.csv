@@ -1,0 +1,71 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,BMEG,410,,101,"BIOMD, PHYS&ANAT","Krebs, Claudia;Mason, Barry",45,79.84,9.19,99,61,44,0,1,0,0,0,0,0,0,0,0,0,0,3,3,3,3,6,13,7,6,,,
+UBC,2013,W,BMEG,510,,101,ANAT & PHYSIOLGY,"Krebs, Claudia;Mason, Barry",16,83,4.84,90,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,6,1,,,
+UBC,2014,W,ANAT,511,,001,FND BDY DSGN:BSC,"Krebs, Claudia",4,92,3.83,95,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2014,W,BMEG,410,,101,"BIOMD, PHYS&ANAT","Krebs, Claudia",35,75.76,7.54,92,62,34,0,1,0,0,0,0,0,0,0,0,0,0,1,3,7,7,3,7,5,1,,,
+UBC,2014,W,BMEG,510,,101,ANAT & PHYSIOLGY,"Krebs, Claudia",17,78.56,5.2,85,67,16,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,3,1,8,2,0,,,
+UBC,2015,S,CAPS,301,,951,HUMAN PHYSIOLOGY,"Courneya, Carol-Ann;Kindler, Pawel;Krebs, Claudia;Kwok, Yin Nam Kenny;Lynn, Francis;Mason, Barry;Moukhles, Hakima;Osborne, Salma",64,72.38,16.27,96,37,59,5,0,0,0,0,0,0,2,3,5,6,6,3,4,3,8,1,11,6,11,,,
+UBC,2015,W,ANAT,511,,001,FND BDY DSGN:BSC,"Krebs, Claudia",4,86,2,89,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,
+UBC,2015,W,ANAT,512,,002,FNC HMN ANT H&N,"Krebs, Claudia",6,91.67,3.27,94,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2015,W,ANAT,515,,001,FNC HMN ANT MUSC,"Krebs, Claudia",5,89.6,4.93,97,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2015,W,BMEG,410,,101,"BIOMD, PHYS&ANAT","Krebs, Claudia",36,76.06,8.05,95,55,36,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,4,12,9,0,2,,,
+UBC,2015,W,BMEG,510,,101,ANAT & PHYSIOLGY,"Krebs, Claudia",20,79.35,7.67,87,61,20,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,8,5,0,,,
+UBC,2015,W,MIDW,105,,001,THEORY & PRACTIC,"Campbell, Kim;Krebs, Claudia",20,83.35,7.41,94,66,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,9,2,,,
+UBC,2016,S,CAPS,301,,951,HUMAN PHYSIOLOGY,"Courneya, Carol-Ann;Kindler, Pawel;Krebs, Claudia;Kwok, Yin Nam Kenny;Lynn, Francis;Mason, Barry;Moukhles, Hakima;Osborne, Salma",57,69.08,13.99,97,36,46,6,4,0,0,0,0,0,2,4,6,4,3,1,4,3,11,10,8,0,2,,,
+UBC,2016,W,ANAT,511,,001,FND BDY DSGN:BSC,"Krebs, Claudia",6,94.33,4.55,99,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2016,W,RHSC,420,,002,NEUROANTMY/PHYS,"Klassen, Tara;Krebs, Claudia;Sauve, Karen",80,88.84,4.7,98,78,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,28,40,,,
+UBC,2017,W,BMEG,410,,101,"BIOMD, PHYS&ANAT","Bodnar, Tamara;Krebs, Claudia",53,76.89,7.81,89,56,53,0,0,0,0,0,0,0,0,0,0,0,2,1,2,8,8,13,8,11,0,,,
+UBC,2017,W,BMEG,510,,101,ANAT & PHYSIOLGY,"Bodnar, Tamara;Krebs, Claudia",17,78.94,7.89,89,63,17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,2,7,4,0,,,
+UBC,2017,W,MIDW,106,,001,RPROD ANAT PHYS,"Krebs, Claudia",22,87.91,6.68,96,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,10,,,
+UBC,2017,W,RHSC,420,,002,NEUROANTMY/PHYS,"Evanchu Hilderman, Courtney;Krebs, Claudia;Sauve, Karen;Schmidt, Julia",78,87.46,4.76,97,76,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,32,25,,,
+UBC,2018,W,BMEG,410,,101,"BIOMD, PHYS&ANAT","Krebs, Claudia",52,77.04,8.13,91,55,52,0,0,0,0,0,0,0,0,0,0,0,2,0,4,7,8,7,14,8,2,,,
+UBC,2018,W,BMEG,510,,101,ANAT & PHYSIOLGY,"Krebs, Claudia",21,78.1,7.66,89,63,21,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,3,4,6,0,,,
+UBC,2018,W,MIDW,106,,001,RPROD ANAT PHYS,"Butska, Luba;Krebs, Claudia",20,87.65,4.58,96,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9,6,,,
+UBC,2018,W,RHSC,420,,002,NEUROANTMY/PHYS,"Evanchu Hilderman, Courtney;Krebs, Claudia;Pollock, Courtney;Sauve, Karen",78,85.74,5.97,96,69,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,16,30,20,,,
+UBCV,2014,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs,34,75.76470588,7.53600981,92.0,62.0,,,,,,,,,,,0,0,0,,,7,7,,7,5,,,,
+UBCV,2014,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs,17,75.05882353,15.29898113,85.0,19.0,,,,,,,,,,,,,,,,,,,8,,0,,,
+UBCV,2015,S,CAPS,301,,951,Human Physiology,Barry Mason;Carol-Ann Courneya;Claudia Krebs;Francis Lynn;Hakima Moukhles;Pawel Kindler;Salma Osborne;Yin Nam Kenny Kwok,64,72.375,16.26906696,96.0,37.0,,,,,,,,,,,5,6,6,,,,8,,11,6,11,,,
+UBCV,2015,W,ANAT,512,,002,Functional Human Anatomy of Head and Neck Systems,Claudia Krebs,6,91.666666667,3.265986324,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,ANAT,515,,001,"Functional Human Anatomy of the Musculoskeletal Systems: Back, Limbs and Joints",Claudia Krebs,5,89.6,4.929503018,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs,36,76.055555556,8.049647532,95.0,55.0,,,,,,,,,,,0,0,,,,,,12,9,,,,,
+UBCV,2015,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs,20,79.35,7.665884781,87.0,61.0,,,,,,,,,,,0,0,0,,,,,,8,5,0,,,
+UBCV,2015,W,MIDW,105,,001,Introduction to Midwifery Theory and Practice,Claudia Krebs;Kim Campbell,20,83.35,7.407499756,94.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,9,,,,
+UBCV,2016,S,CAPS,301,,951,Human Physiology,Barry Mason;Carol-Ann Courneya;Claudia Krebs;Francis Lynn;Hakima Moukhles;Pawel Kindler;Salma Osborne;Yin Nam Kenny Kwok,53,68.98113208,13.87095827,97.0,36.0,,,,,,,,,,,6,4,3,1,5,3,11,10,8,0,2,,,
+UBCV,2016,W,ANAT,511,,001,Fundamentals of Body Design: Basic Principles in Human Anatomy as Illustrated by the Organization of the Back and Upper Limb,Claudia Krebs,6,94.33333333,4.546060566,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2016,W,MIDW,105,,001,Introduction to Midwifery Theory and Practice,Claudia Krebs;Kim Campbell;Saraswathi Vedam,21,81.90476191,6.869532458,91.0,71.0,,,,,,,,,,,0,0,0,0,0,4,1,1,7,4,4,,,
+UBCV,2016,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Karen Sauve;Tara Diane Klassen;Tara Klassen,80,88.8375,4.697006184,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,8,28,40,,,
+UBCV,2017,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Aleksander Splawinski;Claudia Krebs;Tamara Bodnar,53,76.886792453,7.811875519,89.0,56.0,,,,,,,,,,,0,0,2,1,2,8,8,13,8,11,0,,,
+UBCV,2017,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Aleksander Splawinski;Claudia Krebs;Tamara Bodnar,17,78.941176471,7.893593829,89.0,63.0,,,,,,,,,,,0,0,0,1,1,2,0,2,7,4,0,,,
+UBCV,2017,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs,22,87.909090909,6.682664787,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,3,5,10,,,
+UBCV,2017,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Evanchu Hilderman;Dennis Louie;Julia Schmidt;Karen Sauve;Shannon Lim,78,87.461538462,4.761022229,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,17,32,25,,,
+UBCV,2018,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Malone,52,77.038461538,8.13118311,91.0,55.0,,,,,,,,,,,0,0,2,0,4,7,8,7,14,8,2,,,
+UBCV,2018,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Malone,22,77.954545455,7.505409305,89.0,63.0,,,,,,,,,,,0,0,0,1,1,2,5,3,4,6,0,,,
+UBCV,2018,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Luba Butska,20,87.65,4.579990807,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,9,6,,,
+UBCV,2018,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Evanchu Hilderman;Courtney Pollock;Dennis Louie;Karen Sauve;Shannon Lim,78,85.743589744,5.974917045,96.0,69.0,,,,,,,,,,,0,0,0,0,0,1,3,8,16,30,20,,,
+UBCV,2019,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Alina Kunitskaya;Claudia Krebs;Jeanie Malone;Jenna Usprech,40,83.2,7.328203334,95.0,65.0,,,,,,,,,,,0,0,0,0,2,1,3,5,10,10,9,,,
+UBCV,2019,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Alina Kunitskaya;Claudia Krebs;Jeanie Malone;Jenna Usprech,18,82.111111111,20.967450654,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,6,6,,,
+UBCV,2019,W,DENT,420,,001,Dentistry II: Basic Clinical Dentistry,Adriana Pigozzo Manso;Anthony Mccullagh;Brian Chanpong;Carrie Krekoski;Claudia Krebs;David Macdonald;David Sweet;David Tobias;Derek Clease;Edward Putnins;Eli Whitney;Fang-Yeu Poh;Fernanda Almeida;Hin Chung Pau;Hui Chen;Jodi Ekk;Jolanta Aleksejuniene;Karen Mary Gardner;Kavita Mathu-Muju;Lamia El-Adwar;Leeann Donnelly;Maria Isabel Garcia Fulle De Owen;Mario Brondani;Menachem Fogelman;N Dorin Ruse;Nancy Black;Pawel Kindler;Penny Hatzimanolakis;Peter Murphy;Philip Crowell;Rafat Sobouti;S Bryant;Sabina Reitzik;Sepehr Zahedi;Shimae Soheilipour;Siddharth Vora;Susan Schmitz;Suzanne Carlisle;Vincent Lee,56,84.428571429,3.985688684,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,4,24,22,4,,,
+UBCV,2019,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Michelle Turner,20,88.75,4.435206042,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,10,,,
+UBCV,2019,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Evanchu Hilderman;Courtney Pollock;Dennis Louie;Naznin Virji-Babul;Shannon Lim,79,86.64556962,5.786894953,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,5,16,27,27,,,
+UBCV,2020,W,ANAT,516,,001,Functional Human Neuroanatomy: Central Nervous System,Arlo Adams;Claudia Krebs;Cristina Rubino;Jeremy Seamans;Stanley Bogdan Floresco;Victor Viau,16,84.6875,6.857781468,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,3,5,5,,,
+UBCV,2020,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,29,85.379310345,6.873415626,96.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,1,6,11,8,,,
+UBCV,2020,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,16,89.0,5.019960159,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,5,8,,,
+UBCV,2020,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Michelle Turner,20,91.45,4.59376007,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,14,,,
+UBCV,2020,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Pollock;Dennis Louie;Rebecca Kenny;Shannon Lim,101,89.287128713,5.620207529,98.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,3,10,27,58,,,
+UBCV,2021,W,ANAT,511,,001,Fundamentals of Body Design: Basic Principles in Human Anatomy as Illustrated by the Organization of the Back and Upper Limb,Claudia Krebs,8,95.25,4.713203339,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,,,
+UBCV,2021,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,35,85.485714286,6.436894705,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,3,6,14,8,,,
+UBCV,2021,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,27,87.962962963,6.802044271,94.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,3,11,12,,,
+UBCV,2021,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Michelle Turner,20,93.0,4.779341509,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,15,,,
+UBCV,2021,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Pollock;Dennis Louie;Rebecca Kenny;Roland Fletcher,99,88.171717172,6.450819287,97.0,62.0,,,,,,,,,,,0,0,0,1,1,0,3,1,17,32,44,,,
+UBCV,2021,W,ANAT,511,,001,Fundamentals of Body Design: Basic Principles in Human Anatomy as Illustrated by the Organization of the Back and Upper Limb,Claudia Krebs,8,95.3,,99.0,85.0,,,,,,,,,,,,,,,,,,,,,7,97.5,98.0,94.3
+UBCV,2021,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jenna Usprech,35,85.5,,98.0,73.0,,,,,,,,,,,,,,,,,,,6,14,8,87.0,89.0,81.0
+UBCV,2021,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jenna Usprech,27,88.0,,94.0,60.0,,,,,,,,,,,,,,,,,,,,11,12,89.0,92.0,86.5
+UBCV,2021,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Michelle Turner,20,93.0,,99.0,84.0,,,,,,,,,,,,,,,,,,,,,15,92.0,98.0,90.5
+UBCV,2021,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Alina Constantin;Roland Fletcher;Claudia Krebs;Dennis Louie;Hakima Moukhles;Courtney Pollock,99,88.2,,97.0,62.0,,,,,,,,,,,,,,,,,,,17,32,44,89.0,93.0,85.5
+UBCV,2022,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jenna Usprech,29,81.9,,95.0,61.0,,,,,,,,,,,0,0,0,2,2,1,1,5,2,9,7,85.0,88.0,79.0
+UBCV,2022,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jenna Usprech,24,84.9,,95.0,62.0,,,,,,,,,,,0,0,0,1,1,0,1,2,4,7,8,87.5,91.0,81.5
+UBCV,2022,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Claudia Krebs;Michelle Tran,21,94.1,,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,19,95.0,96.0,91.0
+UBCV,2022,W,NRSC,501,,001,Neuroscience II,Silke Cresswell;Anthony Herdman;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Miriam Pai-Spering;Matthew Ramer;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,23,85.8,,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,9,5,86.0,89.0,81.5
+UBCV,2023,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Lindsay Brimblecombe;Allison Campbell;Cecilia Duran;Cecilia Jevitt;Claudia Krebs;Kellie Thiessen,28,94.75,,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,27,95.0,96.0,93.0
+UBCV,2023,W,NRSC,501,,001,Neuroscience II,Steven Barnes;Clare Louise Beasley;Luke Clark;Silke Cresswell;Lauren Emberson;Stanley Bogdan Floresco;Anthony Herdman;Veronica Hirsch-Reinshagen la;William Honer;Hyosub Kim;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Orson Moritz;Haakon Nygaard;Miriam Pai-Spering;Matthew Ramer;Catharine Rankin;Julie Robillard;Jeremy Seamans;Jason Snyder;Nicholas Vaughan Swindale;Anthony Traboulsee;Victor Viau,22,85.68,,95.0,63.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,12,4,87.0,89.0,84.25
+UBCV,2023,W,NSCI,311,,001,Advanced Neuroanatomy,Claudia Krebs,134,91.51,,99.0,48.0,,,,,,,,,,,1,0,0,0,1,0,1,1,6,20,103,93.0,95.0,90.0

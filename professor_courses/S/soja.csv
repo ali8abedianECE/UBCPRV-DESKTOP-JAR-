@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHAR,540,C,004,TOPICS IN PHARM,"Soja, Peter",9,88.33,5.5,98,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3
+UBC,2003,W,PHAR,550,C,004,DIRECTED STUDIES,"Soja, Peter",7,88.14,4.88,95,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3
+UBC,2005,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",131,83.03,7.32,95,60,131,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,10,17,32,39,24
+UBC,2005,W,PHAR,471,,001,PATHOPYSIO II,"MacLeod, Kathleen;Soja, Peter",131,75.26,7.87,90,50,131,0,0,0,0,0,0,0,0,0,0,2,0,8,12,11,36,20,24,17,1
+UBC,2006,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",140,80.6,7.97,94,58,139,0,0,0,1,0,0,0,0,0,0,0,2,3,7,9,12,19,36,35,16
+UBC,2006,W,PHAR,471,,001,PATHOPYSIO II,"Marzban, Lucy;Soja, Peter",140,77.24,7.56,93,50,140,0,0,0,0,0,0,0,0,0,0,2,0,7,3,15,23,36,32,16,6
+UBC,2007,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",150,79.27,7.71,94,53,150,0,0,0,0,0,0,0,0,0,0,1,0,2,6,17,21,27,35,28,13
+UBC,2007,W,PHAR,450,B,003,SELECTED TOPICS,"Hafeli, Urs;Rodrigues, Brian;Soja, Peter;Wasan, Kishor",4,93,2.58,96,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2007,W,PHAR,471,,001,PATHOPYSIO II,"Marzban, Lucy;Soja, Peter",150,83.06,7.21,96,56,150,0,0,0,0,0,0,0,0,0,0,0,1,0,2,8,9,18,40,36,36
+UBC,2009,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",23,87.18,3.53,94,81,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,7
+UBC,2009,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",149,82.13,6.71,93,60,149,0,0,0,0,0,0,0,0,0,0,0,0,4,2,5,9,22,47,42,18
+UBC,2009,W,PHAR,472,,001,PATHOPHYSIO III,"Soja, Peter",149,81.87,6.3,96,66,149,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,14,23,51,34,16
+UBC,2010,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",19,87.68,2.81,93,82,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,4
+UBC,2010,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",145,81.12,7.6,95,59,145,0,0,0,0,0,0,0,0,0,0,0,1,1,5,10,20,16,38,32,22
+UBC,2010,W,PHAR,472,,001,PATHOPHYSIO III,"Soja, Peter",145,79.99,6.49,91,56,145,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8,13,30,52,27,7
+UBC,2011,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",20,91.2,2.95,95,84,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,14
+UBC,2011,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",144,83.06,7.57,97,58,143,0,0,0,1,0,0,0,0,0,0,0,2,0,4,6,8,19,31,50,23
+UBC,2011,W,PHAR,472,,001,PATHOPHYSIO III,"Soja, Peter",144,80.27,7.02,95,51,143,0,0,0,1,0,0,0,0,0,0,1,1,1,0,10,19,25,50,23,13
+UBC,2012,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter;Verma, Arun",19,82.32,3.82,88,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,12,5,0
+UBC,2012,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",146,82.91,7.61,96,63,146,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,12,17,33,37,33
+UBC,2012,W,PHAR,472,,001,PATHOPHYSIO III,"Soja, Peter",146,79.11,6.89,93,57,146,0,0,0,0,0,0,0,0,0,0,0,1,2,5,15,18,31,37,32,5
+UBC,2013,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter;Verma, Arun;Zed, Peter",16,75.94,7.22,85,59,16,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,4,3,2,0
+UBC,2013,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",208,83.24,7.32,99,60,208,0,0,0,0,0,0,0,0,0,0,0,0,1,4,10,20,21,54,55,43
+UBC,2013,W,PHAR,472,,001,PATHOPHYSIO III,"Soja, Peter",208,80,7.16,98,58,208,0,0,0,0,0,0,0,0,0,0,0,1,3,5,22,20,41,56,45,15
+UBC,2014,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",220,83.29,7.35,99,63,220,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11,14,32,55,52,50
+UBC,2014,W,PHAR,472,,001,PATHOPHYSIO III,"Klassen, Tara;Soja, Peter",220,74.92,8.92,94,54,220,0,0,0,0,0,0,0,0,0,0,2,9,15,24,32,24,32,51,26,5
+UBC,2015,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",212,83.69,6.88,98,63,212,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,11,28,57,55,47
+UBC,2016,W,PHAR,442,,001,PHARMACOLOGY IV,"Soja, Peter",219,82.68,7.51,98,62,219,0,0,0,0,0,0,0,0,0,0,0,0,1,7,15,16,25,57,59,39
+UBC,2016,W,PHAR,472,,001,PATHOPHYSIO III,"Klassen, Tara;Soja, Peter",219,81.24,7.66,98,61,214,0,0,0,5,0,0,0,0,0,0,0,0,5,5,16,18,40,54,51,25
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2017,W,PHRM,212,,001,MED MANAGEMENT 3,"Chan, Fong;Chauvin, Vaughn;Elliot, Mary;Gerber, Patricia;Kanji, Tamiz Jamal;Loewen, Peter Shane;MacLeod, Kathleen;Nicholl, Tessa;Rodrigues, Brian;Seto, Katherine;Soja, Peter;Verma, Arun",220,82.55,6.01,95,56,220,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,10,44,62,75,18
+UBC,2018,W,PHRM,212,,001,MED MANAGEMENT 3,"Chan, Fong;Dossa, Anar;Elliot, Mary;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Grosshuesch, Jonathan;Khurana, Christine;Loewen, Peter Shane;MacLeod, Kathleen;McCormack, James;Mira, Aileen;Nicholl, Tessa;Pearson, Marion;Rodrigues, Brian;Soja, Peter;Watson, Hilary;Wilbur, Kerry;Xia, Jane Meng",208,81.61,6.31,94,59,208,0,0,0,0,0,0,0,0,0,0,0,1,0,1,12,27,37,58,49,23
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11

@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,PORT,101,,101,1ST YR PORT I,"Roca, Andrea",28,83.83,6.46,95,72,23,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3,5,6,,,
+UBC,2016,W,PORT,102,,201,1ST YEAR PORT II,"Roca, Andrea",20,71.63,12.16,91,43,18,1,0,1,0,0,0,0,0,1,1,1,0,1,4,3,1,2,3,2,1,,,
+UBC,2016,W,SPAN,102,,206,BEGINNER SPAN II,"Roca, Andrea",26,70.88,16.58,95,40,21,3,2,0,0,0,0,0,0,3,3,2,1,2,3,1,1,2,1,5,3,,,
+UBC,2017,W,PORT,101,,101,1ST YR PORT I,"Roca, Andrea",31,74.77,13.87,96,45,29,1,1,0,0,0,0,0,0,1,1,2,1,2,3,0,8,0,5,3,5,,,
+UBC,2017,W,PORT,102,,201,1ST YEAR PORT II,"Roca, Andrea",18,77.94,10.9,96,57,16,0,2,0,0,0,0,0,0,0,0,0,1,1,0,3,2,2,2,2,3,,,
+UBC,2017,W,PORT,201,,101,2ND YR PORT I,"Roca, Andrea",10,77.44,7.72,90,66,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,1,1,,,
+UBC,2017,W,SPAN,202,,202,INTERMED SPAN II,"Roca, Andrea",34,72.59,13.53,95,41,31,3,0,0,0,0,0,0,0,3,3,0,2,2,3,4,5,4,5,2,4,,,
+UBC,2018,W,PORT,101,,101,1ST YR PORT I,"Roca, Andrea",21,82.9,12.62,98,46,19,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,3,4,1,1,9,,,
+UBC,2018,W,PORT,201,,101,2ND YR PORT I,"Roca, Andrea",14,80,12.4,96,57,13,0,0,1,0,0,0,0,0,0,0,0,1,1,0,2,1,0,1,4,3,,,
+UBC,2018,W,SPAN,202,,207,INTERMED SPAN II,"Roca, Andrea",31,67.29,17.7,96,20,28,3,0,0,0,0,0,1,0,2,3,5,1,2,5,4,1,2,2,0,6,,,
+UBC,2018,W,SPAN,202,,902,INTERMED SPAN II,"Roca, Andrea",18,69.22,23,94,23,15,3,0,0,0,0,0,1,1,1,3,2,0,2,2,0,0,2,0,1,6,,,
+UBCV,2016,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,24,84.08333333,6.446547216,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,8,3,5,7,,,
+UBCV,2016,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,19,71.63157895,12.15735044,91.0,43.0,,,,,,,,,,,1,1,0,1,4,3,1,2,3,2,1,,,
+UBCV,2016,W,SPAN,102,,206,Beginners' Spanish II,Andrea Roca,24,70.875,16.57738769,95.0,40.0,,,,,,,,,,,3,2,1,2,3,1,1,2,1,5,3,,,
+UBCV,2017,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,30,74.766666667,13.865569696,96.0,45.0,,,,,,,,,,,1,2,1,2,3,0,8,0,5,3,5,,,
+UBCV,2017,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,16,77.9375,10.902407991,96.0,57.0,,,,,,,,,,,0,0,1,1,0,3,2,2,2,2,3,,,
+UBCV,2017,W,PORT,201,,101,Second-Year Portuguese I,Andrea Roca,10,77.7,7.31892524,90.0,66.0,,,,,,,,,,,0,0,0,0,1,1,1,3,2,1,1,,,
+UBCV,2017,W,SPAN,202,,202,Intermediate Spanish II,Andrea Roca,34,72.588235294,13.526892736,95.0,41.0,,,,,,,,,,,3,0,2,2,3,4,5,4,5,2,4,,,
+UBCV,2018,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,20,82.9,12.623703685,98.0,46.0,,,,,,,,,,,1,0,0,0,1,0,3,4,1,1,9,,,
+UBCV,2018,W,PORT,201,,101,Second-Year Portuguese I,Andrea Roca,13,80.0,12.396235988,96.0,57.0,,,,,,,,,,,0,0,1,1,0,2,1,0,1,4,3,,,
+UBCV,2018,W,SPAN,202,,207,Intermediate Spanish II,Andrea Roca,31,67.290322581,17.703471502,96.0,20.0,,,,,,,,,,,3,5,1,2,5,4,1,2,2,0,6,,,
+UBCV,2018,W,SPAN,202,,902,Intermediate Spanish II,Andrea Roca,18,69.222222222,23.000142085,94.0,23.0,,,,,,,,,,,3,2,0,2,2,0,0,2,0,1,6,,,
+UBCV,2019,S,SPAN,202,,921,Intermediate Spanish II,Andrea Roca,24,66.666666667,20.023174979,98.0,6.0,,,,,,,,,,,3,2,2,1,2,3,3,3,1,1,3,,,
+UBCV,2019,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,13,85.538461538,11.072604215,96.0,53.0,,,,,,,,,,,0,1,0,0,0,0,0,1,2,3,6,,,
+UBCV,2019,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca;Pedro Dos Santos,22,77.409090909,15.320882391,93.0,35.0,,,,,,,,,,,1,0,2,1,1,2,2,1,2,3,7,,,
+UBCV,2019,W,PORT,201,,101,Second-Year Portuguese I,Andrea Roca,20,80.05,13.550975883,94.0,35.0,,,,,,,,,,,1,0,0,0,0,3,2,2,3,4,5,,,
+UBCV,2019,W,SPAN,202,,205,Elementary Spanish II,Andrea Roca,19,72.052631579,10.710709512,91.0,52.0,,,,,,,,,,,0,1,1,2,3,3,3,1,1,3,1,,,
+UBCV,2019,W,SPAN,202,,902,Elementary Spanish II,Andrea Roca,21,66.380952381,19.420288851,90.0,0.0,,,,,,,,,,,2,0,2,2,4,5,0,0,2,3,1,,,
+UBCV,2020,S,SPAN,101,,924,Beginners' Spanish I,Andrea Roca,27,75.296296296,12.934196817,92.0,47.0,,,,,,,,,,,1,1,2,2,1,2,2,4,3,6,3,,,
+UBCV,2020,S,SPAN,102,,923,Beginners' Spanish II,Andrea Roca,20,72.55,22.665705604,96.0,6.0,,,,,,,,,,,2,2,1,1,0,1,2,2,2,1,6,,,
+UBCV,2020,S,SPAN,202,,922,Elementary Spanish II,Andrea Roca,33,75.0,10.114964162,92.0,51.0,,,,,,,,,,,0,2,0,1,4,3,7,7,2,4,3,,,
+UBCV,2020,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca;Pedro Dos Santos;Pedro Lazaro Dos Santos,17,85.941176471,7.301289169,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,1,2,7,5,,,
+UBCV,2020,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,17,78.117647059,21.779813914,97.0,0.0,,,,,,,,,,,1,0,0,0,0,1,3,2,2,4,4,,,
+UBCV,2020,W,PORT,201,,101,Second-Year Portuguese I,Andrea Roca,9,82.222222222,9.162120085,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,0,3,0,3,,,
+UBCV,2020,W,PORT,202,,201,Second-Year Portuguese II,Andrea Roca;Pedro Dos Santos;Pedro Lazaro Dos Santos,9,81.222222222,9.364531192,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,1,1,1,2,,,
+UBCV,2020,W,SPAN,201,,106,Elementary Spanish I,Andrea Roca;Maria Adelaida Escobar Trujillo,25,71.52,12.806638903,94.0,50.0,,,,,,,,,,,0,3,2,3,1,4,3,1,4,1,3,,,
+UBCV,2020,W,SPAN,201,,902,Elementary Spanish I,Andrea Roca;Olga Albarran Caselles,22,77.727272727,11.381613486,92.0,55.0,,,,,,,,,,,0,0,1,3,1,1,2,2,5,2,5,,,
+UBCV,2020,W,SPAN,202,,205,Elementary Spanish II,Andrea Roca,34,70.852941176,16.899224212,95.0,0.0,,,,,,,,,,,1,0,3,6,3,5,4,1,4,2,5,,,
+UBCV,2020,W,SPAN,202,,902,Elementary Spanish II,Andrea Roca,8,72.625,12.760849725,90.0,50.0,,,,,,,,,,,0,1,0,1,1,0,1,2,1,0,1,,,
+UBCV,2021,S,SPAN,201,,922,Elementary Spanish I,Andrea Roca;Maria Adelaida Escobar Trujillo;Maria Carbonetti;Stephanie Spacciante,25,73.28,12.548306659,94.0,50.0,,,,,,,,,,,0,2,3,1,4,2,1,2,4,4,2,,,
+UBCV,2021,S,SPAN,202,,922,Elementary Spanish II,Andrea Roca,19,70.684210526,13.047147971,93.0,50.0,,,,,,,,,,,0,3,0,3,2,0,4,2,2,2,1,,,
+UBCV,2021,S,SPAN,202,,923,Elementary Spanish II,Andrea Roca,18,71.166666667,18.909225884,93.0,10.0,,,,,,,,,,,1,2,0,0,2,1,3,1,4,3,1,,,
+UBCV,2021,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca;Pedro Dos Santos,18,82.444444444,6.418926264,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,2,3,7,2,,,
+UBCV,2021,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,15,82.933333333,5.836665715,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,7,2,2,,,
+UBCV,2021,W,PORT,201,,101,Second-Year Portuguese I,Alessandra Santos;Andrea Roca,6,82.833333333,8.424171572,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,2,1,,,
+UBCV,2021,W,SPAN,201,,102,Elementary Spanish I,Andrea Roca;Iris Escuer Riera,23,59.347826087,16.726703462,90.0,23.0,,,,,,,,,,,6,3,3,1,5,0,0,2,1,1,1,,,
+UBCV,2021,W,SPAN,201,,107,Elementary Spanish I,Andrea Roca,20,73.05,13.339592829,96.0,47.0,,,,,,,,,,,1,1,2,1,2,1,1,4,4,1,2,,,
+UBCV,2021,W,SPAN,202,,202,Elementary Spanish II,Andrea Roca,18,71.888888889,16.966710967,95.0,32.0,,,,,,,,,,,2,0,2,1,1,0,4,0,4,2,2,,,
+UBCV,2021,S,SPAN,201,,922,Elementary Spanish I,Maria Adelaida Escobar Trujillo;Andrea Roca,25,73.3,,94.0,50.0,,,,,,,,,,,,,,,,,,,,,,72.0,84.0,64.0
+UBCV,2021,S,SPAN,202,,922,Elementary Spanish II,Andrea Roca,19,70.7,,93.0,50.0,,,,,,,,,,,,,,,,,,,,,,74.0,78.5,61.0
+UBCV,2021,S,SPAN,202,,923,Elementary Spanish II,Andrea Roca,18,71.2,,93.0,10.0,,,,,,,,,,,,,,,,,,,,,,75.5,81.0,67.0
+UBCV,2021,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,18,82.4,,94.0,72.0,,,,,,,,,,,,,,,,,,,,7,,84.0,85.8,76.8
+UBCV,2021,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,15,82.9,,95.0,74.0,,,,,,,,,,,,,,,,,,,7,,,83.0,85.0,79.5
+UBCV,2021,W,SPAN,201,,102,Elementary Spanish I,Andrea Roca,23,59.3,,90.0,23.0,,,,,,,,,,,6,,,,,,,,,,,57.0,67.0,48.5
+UBCV,2021,W,SPAN,202,,202,Elementary Spanish II,Andrea Roca,18,71.9,,95.0,32.0,,,,,,,,,,,,,,,,,,,,,,75.0,82.5,63.3
+UBCV,2022,S,SPAN,202,,923,Elementary Spanish II,Andrea Roca,12,69.0,,88.0,50.0,,,,,,,,,,,0,3,0,1,1,1,2,1,1,2,0,71.5,79.0,59.8
+UBCV,2022,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,31,80.1,,97.0,51.0,,,,,,,,,,,0,1,1,2,1,3,2,3,5,6,7,83.0,88.0,71.5
+UBCV,2022,W,PORT,101,,102,First-Year Portuguese I,Andrea Roca,29,82.0,,98.0,50.0,,,,,,,,,,,0,2,0,1,0,0,2,4,5,6,9,85.0,90.0,78.0
+UBCV,2022,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,23,80.0,,95.0,45.0,,,,,,,,,,,1,1,0,0,4,1,0,0,4,5,7,85.0,90.0,69.0
+UBCV,2022,W,PORT,392,,201,Studies in Portuguese and Brazilian Literature (in English),Andrea Roca,13,82.6,,92.0,57.0,,,,,,,,,,,0,0,1,0,0,0,1,2,1,5,3,85.0,89.0,78.0
+UBCV,2022,W,RMST,361,,201,Studies in Portuguese and Brazilian Literature,Andrea Roca,6,81.5,,92.0,57.0,,,,,,,,,,,0,0,1,0,0,0,0,0,2,1,2,84.0,89.5,81.5
+UBCV,2022,W,SPAN,201,,101,Elementary Spanish I,Andrea Roca,34,74.1,,94.0,33.0,,,,,,,,,,,1,1,2,2,4,3,4,5,3,5,4,76.0,84.5,66.3
+UBCV,2023,S,SPAN,202,,921,Elementary Spanish II,Andrea Roca,38,68.24,,92.0,40.0,,,,,,,,,,,4,4,4,3,2,2,5,4,3,4,3,71.0,79.75,56.25
+UBCV,2023,W,SPAN,101,,102,Beginners' Spanish I,Andrea Roca,34,76.66,,97.0,32.0,,,,,,,,,,,1,1,3,1,1,2,4,3,3,8,5,79.5,87.25,69.5
+UBCV,2023,W,SPAN,101,,105,Beginners' Spanish I,Andrea Roca,34,78.29,,98.0,57.0,,,,,,,,,,,0,0,2,1,1,6,3,1,6,8,3,81.0,86.5,70.0
+UBCV,2023,W,SPAN,102,,201,Beginners' Spanish II,Andrea Roca,54,70.73,,96.0,0.0,,,,,,,,,,,3,2,3,4,7,6,6,5,7,2,6,72.0,81.5,64.5
+UBCV,2023,W,SPAN,201,,103,Elementary Spanish I,Andrea Roca,29,68.37,,89.0,3.0,,,,,,,,,,,4,0,1,1,3,2,2,4,4,6,0,76.0,82.0,65.5
+UBCV,2023,W,SPAN,202,,203,Elementary Spanish II,Andrea Roca,33,74.78,,94.0,40.0,,,,,,,,,,,1,1,2,3,3,1,3,6,2,6,4,76.0,86.0,66.0

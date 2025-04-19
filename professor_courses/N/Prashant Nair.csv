@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CPEN,411,,101,Computer Architecture,Dingqing Yang;Muhammad Adnan;Prashant Nair,37,74.459459459,16.018382833,100.0,37.0,2,1,6,0,0,1,10,4,3,3,7,,,
+UBCV,2019,W,CPEN,511,,201,Advanced Computer Architecture,Dingqing Yang;Mieszko Lis;Parvathy Nair;Prashant Jayaprakash Nair;Prashant Nair,14,85.571428571,19.62225693,96.0,18.0,1,0,0,0,0,0,0,0,0,4,9,,,
+UBCV,2020,W,CPEN,411,,101,Computer Architecture,Bolin Wang;Muhammad Adnan;Prashant Nair,34,79.352941176,14.545398841,100.0,26.0,1,0,1,2,1,3,4,1,7,7,7,,,
+UBCV,2020,W,CPEN,511,,201,Advanced Computer Architecture,Mieszko Lis;Prashant Jayaprakash Nair;Prashant Nair,8,92.125,4.853202183,97.0,82.0,0,0,0,0,0,0,0,0,1,1,6,,,
+UBCV,2021,W,CPEN,311,,201,Digital Systems Design,Muhammad Adnan;Prashant Nair;Yassaman Ebrahimzadeh Maboud,31,69.709677419,20.963768027,95.0,1.0,2,0,3,0,6,3,5,4,4,0,4,,,
+UBCV,2021,W,CPEN,411,,101,Computer Architecture,Bolin Wang;Meng Wang;Prashant Nair,67,83.343283582,10.553689917,100.0,55.0,0,0,3,1,2,2,4,12,8,11,24,,,
+UBCV,2021,W,CPEN,311,,201,Digital Systems Design,Prashant Nair,29,74.4,,95.0,55.0,,,,,6,,,,,,,74.0,80.0,67.0
+UBCV,2021,W,CPEN,411,,101,Computer Architecture,Prashant Nair,67,83.3,,100.0,55.0,,,,,,,,12,8,11,24,85.0,90.5,77.5
+UBCV,2022,W,CPEN,211,,101,Computing Systems I,Mieszko Lis;Prashant Nair,315,67.9,,100.0,13.0,43,19,26,28,14,38,35,39,29,22,22,70.0,79.0,58.0
+UBCV,2022,W,CPEN,411,,101,Computer Architecture,Prashant Nair,74,77.6,,95.0,39.0,1,0,3,6,5,6,4,7,16,19,7,81.0,85.8,70.3
+UBCV,2023,W,CPEN,311,,101,Digital Systems Design,Prashant Nair,115,76.45,,97.0,26.0,2,3,1,4,9,11,16,19,18,14,10,77.0,84.0,70.0
+UBCV,2023,W,CPEN,411,,101,Computer Architecture,Prashant Nair,89,82.21,,97.0,58.0,0,0,2,1,7,5,6,7,16,20,23,84.0,90.0,76.0
+UBCV,2023,W,CPEN,511,,201,Advanced Computer Architecture,Prashant Nair,9,95.89,,99.0,91.0,0,0,0,0,0,0,0,0,0,0,9,97.0,99.0,95.0

@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,PETE,314,A,301,C&I PETE: SEC,"Butler, Joy",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PETE,320,,101,C&I PETE: ELEM,"Butler, Joy",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PETE,314,A,301,C&I PETE: SEC,"Butler, Joy",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PETE,320,,101,C&I PETE: ELEM,"Butler, Joy",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PETE,314,A,301,C&I PETE: SEC,"Butler, Joy",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,PETE,508,A,951,REVW RES KIN LRN,"Butler, Joy;Griffin, Linda;Hopper, Timothy",5,87,2.74,89,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2009,S,PETE,508,A,96A,REVW RES KIN LRN,"Butler, Joy;Griffin, Linda;Hopper, Timothy",24,84.13,1.12,89,82,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,0
+UBC,2009,S,PETE,565,A,96A,SP CRS SUB MTR F,"Butler, Joy;Light, Richard",25,92.6,3.56,99,85,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,21
+UBC,2009,S,PETE,565,A,971,SP CRS SUB MTR F,"Butler, Joy;Light, Richard",7,91.86,2.34,96,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2009,W,EDUC,500,,61A,RES MTHD IN EDUC,"Butler, Joy;Robson, Claire",22,88.59,3.96,95,82,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,9
+UBC,2010,S,EDCP,323,,953,OUTDR ENVIR EDUC,"Butler, Joy;Hough, Fiona",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,423,,951,ADV MTHD OUTDOOR,"Butler, Joy;Hough, Fiona",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDCP,467,D,96B,SP TPCS C&P,"Butler, Joy;Mitchell, Stephen Andrew",8,88.13,3.8,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBC,2010,S,EDCP,585,A,96B,SPECIAL CURR&PED,"Butler, Joy;Mitchell, Stephen Andrew",22,91.59,4.23,97,79,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,15
+UBC,2010,S,EDCP,585,C,96A,SPECIAL CURR&PED,"Butler, Joy;Oslin, Judy",22,88.64,4.56,96,81,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,9
+UBC,2011,S,EDCP,508,B,93A,REV RES CURR&PED,"Butler, Joy;Clarke, Anthony",22,91.5,3.78,97,82,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,15
+UBC,2012,S,EDCP,530,,96A,CUR INNOV PHYSED,"Butler, Joy;Mandigo, James",25,82.68,7.23,91,69,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,3,11,3
+UBC,2012,W,EDCP,322,A,301,PHYS ED SEC C&P,"Butler, Joy",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,EDCP,423,,951,ADV MTHD OUTDOOR,"Butler, Joy;Thomas, Allan",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,EDCP,585,C,96A,SPECIAL CURR&PED,"Butler, Joy;Mitchell, Stephen Andrew",18,87.44,2.33,92,84,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,3
+UBC,2013,W,EDCP,320,,101,PHYS ED ELEM C&P,"Butler, Joy",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,320,,102,PHYS ED ELEM C&P,"Butler, Joy;Mc Ginley, Erin",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,320,,104,PHYS ED ELEM C&P,"Butler, Joy;Mc Ginley, Erin",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,320,,107,PHYS ED ELEM C&P,"Butler, Joy",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,320,,108,PHYS ED ELEM C&P,"Butler, Joy",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,320,,109,PHYS ED ELEM C&P,"Butler, Joy;Mc Ginley, Erin",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,322,A,301,PHYS ED SEC C&P,"Butler, Joy;Mc Ginley, Erin",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,501,,61A,MASTER'S SEMINAR,"Butler, Joy",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDCP,323,,953,ENVIR EDUC C&P,"Butler, Joy;Thomas, Allan",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDCP,323,,954,ENVIR EDUC C&P,"Butler, Joy;Sinow, Kira",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDCP,508,B,93A,REV RES CURR&PED,"Butler, Joy;de Cosson, Alexander",16,91.94,2.64,97,88,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13
+UBC,2014,W,EDCP,320,,107,PHYS ED ELEM C&P,"Butler, Joy",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDCP,322,A,301,PHYS ED SEC C&P,"Butler, Joy",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDCP,530,,96A,CUR INNOV PHYSED,"Butler, Joy;Mandigo, James",17,87.71,5.41,97,77,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,7
+UBC,2017,S,EDCP,585,C,96A,SPECIAL CURR&PED,"Banack, Hartley;Butler, Joy;Petherick, LeAnne",24,86.71,4.66,96,78,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,12,5
+UBC,2017,W,EDUC,500,,62B,RES MTHD IN EDUC,"Banack, Hartley;Butler, Joy",23,90.91,4.65,100,81,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,15
+UBC,2018,S,EDCP,585,B,96A,SPECIAL CURR&PED,"Butler, Joy",10,88.6,4.43,93,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5
+UBCV,2014,S,EDCP,508,B,93A,Review of Research in Curriculum and Pedagogy,Alexander De Cosson;Joy Butler,16,91.9375,2.644963768,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,13
+UBCV,2017,S,EDCP,530,,96A,Curriculum Innovations in Physical Education,James Mandigo;Joy Butler,17,87.705882353,5.405607111,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,5,7
+UBCV,2017,S,EDCP,585,C,96A,Special Course in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,24,86.708333333,4.657664713,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,12,5
+UBCV,2017,W,EDUC,500,,62B,Research Methodology in Education,Hartley Banack;Joy Butler,23,90.913043478,4.650640655,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,15
+UBCV,2018,S,EDCP,585,B,96A,Special Course in Curriculum and Pedagogy,Joy Butler,10,88.6,4.427188724,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,5
+UBCV,2018,W,EDCP,508,B,62A,Review of Research in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,23,88.304347826,5.430844423,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,6,12
+UBCV,2019,S,EDCP,530,,96A,Curriculum Innovations in Physical Education,Joanna Sheppard;Joy Butler;Megan Zeni;Stephen Mcginley,13,93.769230769,1.690850188,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2019,S,EDCP,585,C,96A,Special Course in Curriculum and Pedagogy,Hartley Banack;Joy Butler;Leanne Petherick,21,90.333333333,2.652043237,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,13
+UBCV,2019,W,EDUC,500,,62A,Research Methodology in Education,Gerald Tembrevilla;Hartley Banack;Joy Butler,20,87.6,3.29912269,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,12,6

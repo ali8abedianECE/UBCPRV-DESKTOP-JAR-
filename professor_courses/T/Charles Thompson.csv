@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,MICB,507,,201,TP MOL PTH & IMM,"Eltis, Lindsay;Thompson, Charles",8,88.25,2.31,91,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBC,2011,W,MICB,201,,201,INT ENV MICRBIOL,"Thompson, Charles",178,71.02,11.68,95,35,160,14,3,0,1,0,0,0,3,11,14,2,9,14,15,28,23,26,27,11,5
+UBC,2011,W,MICB,507,,201,TP MOL PTH & IMM,"Eltis, Lindsay;Thompson, Charles",7,83.86,5.98,90,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1
+UBC,2012,W,MICB,408,,101,ADV BACT PATHGNS,"Gaynor, Erin;Thompson, Charles",17,85.24,5.71,92,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,5,5
+UBC,2013,W,MICB,408,,101,ADV BACT PATHGNS,"Gaynor, Erin;Thompson, Charles",32,86.06,7.13,97,63,32,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,5,14,10
+UBC,2013,W,MICB,507,,101,TP MOL PTH & IMM,"Thompson, Charles",6,85,5.33,93,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1
+UBC,2014,W,MICB,202,,201,MED MICB & IMMUN,"Kion, Tracy;Thompson, Charles",242,77.15,11.68,97,41,237,5,0,0,0,0,0,0,0,5,5,4,11,16,17,20,26,21,44,40,38
+UBC,2014,W,MICB,408,,101,ADV BACT PATHGNS,"Gaynor, Erin;Thompson, Charles",25,83.6,9.22,97,60,25,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,4,9,6
+UBC,2014,W,MICB,507,,101,TP MOL PTH & IMM,"Thompson, Charles",8,89,2.51,93,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+UBC,2015,W,MICB,202,,201,MED MICB & IMMUN,"Kion, Tracy;Sibley, Jennifer;Thompson, Charles",243,75.43,13.04,97,28,233,7,3,0,0,0,0,1,3,3,7,9,13,13,14,26,32,21,32,48,25
+UBC,2015,W,MICB,408,,101,ADV BACT PATHGNS,"Gaynor, Erin;Thompson, Charles",33,77.97,8.11,89,53,33,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,3,8,9,7,0
+UBC,2015,W,MICB,507,,101,TP MOL PTH & IMM,"Av-Gay, Yossef;Manges, Amee;Mohn, William;Thompson, Charles",11,89.18,2.75,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5
+UBC,2016,W,MICB,408,,101,ADV BACT PATHGNS,"Thompson, Charles",24,81.29,8.3,91,62,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,4,8,4
+UBC,2017,W,MICB,408,,101,ADV BACT PATHGNS,"Thompson, Charles",33,84.15,8.19,95,58,33,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,1,8,10,9
+UBC,2017,W,MICB,507,,101,TP MOL PTH & IMM,"Av-Gay, Yossef;Eltis, Lindsay;Manges, Amee;Thompson, Charles",8,84.38,6.86,93,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3
+UBC,2018,W,MICB,408,,101,ADV BACT PATHGNS,"Thompson, Charles",30,84.97,6.5,94,70,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,4,14,6
+UBCV,2014,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Alireza Lorzadeh;Charles Thompson;Kirstin Lee Brown;Tracy Kion,242,77.14876033,11.68121602,97.0,41.0,,,,,,,,,,,5,4,11,16,17,20,26,21,44,40,38
+UBCV,2014,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson;Erin Gaynor,25,83.6,9.215023965,97.0,60.0,,,,,,,,,,,0,0,0,,,,,,,9,6
+UBCV,2014,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Charles Thompson,8,89.0,2.507132682,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,3
+UBCV,2015,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Charles Thompson;Jennifer Sibley;Tracy Kion,240,75.433333333,13.03662901,97.0,28.0,,,,,,,,,,,7,9,13,13,14,26,32,21,32,48,25
+UBCV,2015,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson;Erin Gaynor,33,77.96969697,8.11050572,89.0,53.0,,,,,,,,,,,0,,,,,,,8,9,7,0
+UBCV,2015,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Charles Thompson;William Mohn;Yossef Av-Gay,11,89.181818182,2.750206604,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5
+UBCV,2016,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson,24,81.29166667,8.29603974,91.0,62.0,,,,,,,,,,,0,0,0,1,1,1,3,2,4,8,4
+UBCV,2017,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson,33,84.151515152,8.189632211,95.0,58.0,,,,,,,,,,,0,0,1,0,0,1,3,1,8,10,9
+UBCV,2017,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Charles Thompson;James Kronstad;Lindsay Eltis;Yossef Av-Gay,8,84.375,6.864765109,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,1,3
+UBCV,2018,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson;Erin Gaynor,30,84.966666667,6.499248409,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,4,14,6
+UBCV,2019,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Charles Thompson;Elitza Tocheva,27,92.666666667,4.123105626,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,21
+UBCV,2019,W,MICB,430,A,101,Seminar in Microbiological Literature,Charles Thompson;James Kronstad;John Beatty,18,90.944444444,3.351421511,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,10
+UBCV,2019,W,MICB,506,C,001,Microbiological and Immunological Research,Charles Thompson;John Beatty;Lindsay Eltis;Michael Gold;Michael Murphy;Ninan Abraham;Pauline Johnson;Rachel Fernandez;Robert E Hancock,8,92.375,1.685018016,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2020,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Charles Thompson;Elitza Tocheva;Morgan Alford,20,89.35,4.428080254,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,11
+UBCV,2020,W,MICB,430,A,102,Seminar in Microbiological Literature,Charles Thompson;Erin Gaynor;James Kronstad,18,93.333333333,2.449489743,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,17
+UBCV,2020,W,MICB,506,C,001,Microbiological and Immunological Research,Charles Thompson;John Beatty;Pauline Johnson;Robert E Hancock,18,91.777777778,2.921634425,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,13

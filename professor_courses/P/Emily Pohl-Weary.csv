@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,CRWR,503,Z,001,ADV WRIT CHILD I,"De Vries, Margaret;Pohl-Weary, Emily",11,90.91,1.38,93,88,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,,,
+UBC,2017,S,CRWR,503,H,S01,ADV WRIT CHILD I,"Pohl-Weary, Emily",10,91.2,0.92,92,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,,,
+UBC,2017,W,CRWR,203,,001,CHILD & YNG ADLT,"Pohl-Weary, Emily",161,75.14,14.56,94,0,148,6,3,0,0,2,1,2,1,0,6,1,2,7,8,10,14,46,34,20,6,,,
+UBC,2017,W,CRWR,403,I,001,CHILD & YOUNG I,"Pohl-Weary, Emily",13,87.38,4.09,95,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,3,,,
+UBC,2018,S,CRWR,503,M,S01,ADV WRIT CHILD I,"Pohl-Weary, Emily",9,91.33,1.12,93,90,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2018,W,CRWR,353,P,001,INTRMD CHLDRN,"Pohl-Weary, Emily",13,83.83,3.9,88,75,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,0,,,
+UBC,2018,W,CRWR,440,Q,002,INTRDIS PROJECTS,"Pohl-Weary, Emily",13,83.77,2.77,90,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,1,,,
+UBC,2018,W,CRWR,503,Q,002,ADV WRIT CHILD I,"Pohl-Weary, Emily",10,90.1,0.57,91,89,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2016,W,CRWR,503,Z,001,Advanced Writing for Children I,Emily Pohl-Weary;Margaret De Vries,11,90.90909091,1.375103302,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCV,2017,S,CRWR,503,H,S01,Advanced Writing for Children I,Emily Pohl-Weary,10,91.2,0.918936583,92.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2017,W,CRWR,203,,001,Introduction to Writing for Children and Young Adults,Dechen Khangkar;Elizabeth Leung;Emily Pohl-Weary;Kevin Sun,158,75.253164557,14.409805892,94.0,0.0,,,,,,,,,,,6,1,2,7,8,10,15,48,34,21,6,,,
+UBCV,2017,W,CRWR,403,I,001,Writing for Children and Young Adults I,Emily Pohl-Weary,13,87.384615385,4.093459448,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,3,,,
+UBCV,2018,S,CRWR,503,M,S01,Advanced Writing for Children I,Emily Pohl-Weary,9,91.333333333,1.118033989,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2018,W,CRWR,353,P,001,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,12,83.833333333,3.904154741,88.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,5,0,,,
+UBCV,2018,W,CRWR,440,Q,002,Interdisciplinary Projects,Emily Pohl-Weary,13,83.769230769,2.773500981,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,3,1,,,
+UBCV,2018,W,CRWR,503,Q,002,Advanced Writing for Children I,Emily Pohl-Weary,10,90.1,0.567646212,91.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2019,W,CRWR,353,V,001,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,15,84.533333333,5.303188619,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,9,2,,,
+UBCV,2019,W,CRWR,419,W,002,Writing Speculative Fiction,Emily Pohl-Weary,14,86.5,5.12535177,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,0,7,,,
+UBCV,2020,S,CRWR,503,Y,S01,Advanced Writing for Children I,Emily Pohl-Weary,10,90.1,0.875595036,91.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,7,,,
+UBCV,2020,W,CRWR,203,,001,Introduction to Writing for Children and Young Adults,Cara Digirolamo;Emily Pohl-Weary;Sinan Uluc,109,79.596330275,9.349310993,92.0,17.0,,,,,,,,,,,1,1,0,2,5,5,8,16,43,21,7,,,
+UBCV,2020,W,CRWR,353,A,001,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,10,81.8,3.011090611,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,1,0,,,
+UBCV,2020,W,CRWR,519,B,002,Writing Speculative Fiction,Emily Pohl-Weary,11,90.272727273,1.190874392,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9,,,
+UBCV,2021,W,CRWR,353,G,002,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,10,86.0,5.228129047,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,3,3,,,
+UBCV,2021,W,CRWR,353,G,002,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,10,86.0,,92.0,77.0,,,,,,,,,,,,,,,,,,,,,,88.5,89.8,81.3
+UBCV,2022,W,CRWR,353,L,002,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,11,80.7,,90.0,26.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,6,2,86.0,88.5,82.5
+UBCV,2022,W,CRWR,403,K,001,Writing for Children and Young Adults I,Emily Pohl-Weary,12,87.6,,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,5,5,89.0,90.0,87.8
+UBCV,2022,W,CRWR,503,L,002,Advanced Writing for Children I,Emily Pohl-Weary,7,89.3,,91.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,3,89.0,90.5,88.0
+UBCV,2022,W,CRWR,519,K,D01,Writing Speculative Fiction,Emily Pohl-Weary,9,88.2,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,4,89.0,91.0,88.0
+UBCV,2023,W,CRWR,353,Q,002,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,17,84.1,,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,9,6,1,84.0,86.0,83.0
+UBCV,2023,W,CRWR,453,P,001,Writing for Children and Young Adults II,Emily Pohl-Weary,10,85.1,,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,1,85.5,86.8,82.5

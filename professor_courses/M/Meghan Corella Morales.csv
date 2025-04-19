@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,LLED,350,,101,CLSRM DISCRS ELM,"Corella Morales, Meghan",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,LLED,350,,101,CLSRM DISCRS ELM,"Corella Morales, Meghan",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,LLED,489,A,002,APPL LING TEACH,"Corella Morales, Meghan",16,92.69,10,99,58,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,13,,,
+UBC,2017,W,LLED,511,A,062,SEM CHLD LANG ED,"Corella Morales, Meghan",12,94.64,5.1,100,82,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,,,
+UBC,2018,S,EPSE,586,,921,DISCOURSE & TALK,"Corella Morales, Meghan",6,96.67,3.2,100,92,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBC,2018,S,LLED,501,,921,DISCOURSE & TALK,"Corella Morales, Meghan",10,97.63,2.39,100,93,8,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,,,
+UBC,2018,W,LLED,350,,101,CLSRM DISCRS ELM,"Corella Morales, Meghan",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,LLED,350,,102,CLSRM DISCRS ELM,"Corella Morales, Meghan",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2017,W,LLED,489,A,002,Applied Linguistics for Teachers,Meghan Corella Morales,16,92.6875,9.998124824,99.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,0,0,2,13,,,
+UBCV,2017,W,LLED,511,A,062,Child Language in Education,Meghan Corella Morales,11,94.636363636,5.104365333,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,9,,,
+UBCV,2018,S,EPSE,586,,921,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,6,96.666666667,3.204163958,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2018,S,LLED,501,,921,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,8,97.625,2.386719207,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2019,S,LLED,489,C,951,Applied Linguistics for Teachers,Ling Shi;Meghan Corella Morales;Ryuko Kubota,34,96.852941176,1.351370863,99.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,34,,,
+UBCV,2019,W,LLED,565,Q,061,Special Course in Subject Matter Field,Meghan Corella Morales,17,92.705882353,5.288722741,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,13,,,
+UBCV,2020,S,LLED,489,C,951,Applied Linguistics for Teachers,Farhad Jafari;Joel Joachim Saalfeld;Joel Saalfeld;Meghan Corella Morales;Nasrin Kowkabi,26,94.884615385,4.752489226,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,23,,,
+UBCV,2021,S,LLED,489,C,951,Applied Linguistics for Teachers,Ava Becker;Itamar Manoff;Meghan Corella Morales,25,89.12,8.222530024,96.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,0,0,6,16,,,
+UBCV,2021,W,LLED,501,,062,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,16,96.0,2.503331114,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,,,
+UBCV,2021,W,LLED,501,,062,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,16,96.0,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16,97.0,98.0,95.8
+UBCV,2022,S,LLED,489,C,951,Applied Linguistics for Teachers,Meghan Corella Morales,20,97.1,,100.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,97.5,99.0,95.8
+UBCV,2022,W,LLED,565,Q,061,Special Course in Subject Matter Field,Meghan Corella Morales,8,97.4,,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,99.0,99.3,94.8
+UBCV,2023,S,LLED,489,C,951,Applied Linguistics for Teachers,Meghan Corella Morales,20,96.2,,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,18,97.5,99.0,95.0
+UBCV,2023,W,LLED,501,,062,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,15,94.7,,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,95.0,96.0,93.5
+UBCV,2023,W,LLED,511,A,062,Child Language in Education,Meghan Corella Morales,10,95.0,,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,97.0,97.8,93.3

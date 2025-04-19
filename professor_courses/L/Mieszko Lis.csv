@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,EECE,527,,201,ADV COMP ARCHTCT,"Lis, Mieszko",5,92.6,5.37,95,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,,,
+UBC,2015,W,CPEN,411,,101,COMPTR ARCHITCTR,"Lis, Mieszko",40,71.13,13.95,96,38,38,2,0,0,0,0,0,0,1,1,2,4,3,2,5,3,3,7,3,4,4,,,
+UBC,2015,W,EECE,527,,201,ADV COMP ARCHTCT,"Lis, Mieszko",5,86.8,9.55,96,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,,,
+UBC,2016,W,CPEN,411,,101,COMPTR ARCHITCTR,"Lis, Mieszko",62,70.17,15.72,99,22,55,5,0,0,2,0,0,1,1,3,5,5,2,5,7,5,9,2,9,4,7,,,
+UBC,2016,W,EECE,527,,201,ADV COMP ARCHTCT,"Lis, Mieszko",8,87,6.32,93,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,,,
+UBC,2017,W,CPEN,311,,201,DIG SYST DSGN,"Lis, Mieszko",114,66.14,18.48,99,0,96,11,7,0,0,3,1,1,1,5,11,6,13,13,9,12,10,11,9,6,7,,,
+UBC,2017,W,CPEN,311,,L2A,DIG SYST DSGN,"Lis, Mieszko",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,CPEN,411,,101,COMPTR ARCHITCTR,"Lis, Mieszko",73,69.82,15.29,96,17,64,2,7,0,0,0,1,0,0,1,2,9,5,8,5,6,7,3,8,3,10,,,
+UBC,2017,W,CPEN,411,,T1A,COMPTR ARCHITCTR,"Lis, Mieszko",7,,,,,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EECE,527,,201,ADV COMP ARCHTCT,"Lis, Mieszko",11,89.6,5.56,95,78,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,8,,,
+UBC,2018,W,CPEN,311,,101,DIG SYST DSGN,"Lis, Mieszko",119,69.25,16.82,99,21,103,12,1,0,3,0,0,2,6,4,12,10,6,8,13,16,6,9,11,12,12,,,
+UBC,2018,W,CPEN,411,,101,COMPTR ARCHITCTR,"Lis, Mieszko",52,70.51,20.31,100,22,38,5,5,1,3,0,0,2,2,1,5,2,4,7,1,2,1,2,5,6,8,,,
+UBC,2018,W,CPEN,411,,T1A,COMPTR ARCHITCTR,"Lis, Mieszko",6,,,,,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,CPEN,511,,201,ADV COMP ARCH,"Lis, Mieszko;Nair, Prashant Jayaprakash",5,87.75,3.95,91,83,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBCV,2014,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,5,92.6,5.366563146,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,,,,
+UBCV,2015,W,CPEN,411,,101,Computer Architecture,Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Mieszko Lis,40,71.125,13.945291458,96.0,38.0,,,,,,,,,,,,,,,5,,,7,,,,,,
+UBCV,2015,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,5,86.8,9.549869109,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2016,W,CPEN,411,,101,Computer Architecture,Mieszko Lis;Mohammad Abdelfattah Ewais;Mohammad Ewais;Xiaowei Ren,62,69.37096774,16.07689909,99.0,22.0,,,,,,,,,,,7,5,2,5,7,5,9,2,9,4,7,,,
+UBCV,2016,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis;Xiaowei Ren,8,87.0,6.32455532,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,1,4,,,
+UBCV,2017,W,CPEN,311,,201,Digital Systems Design,Al-Shahna Jamal;Amin Ghasemazar;Daniel Holanda Noronha;Jose Pinilla Gomez;Kahlan Gibson;Maximilian Golub;Mieszko Lis;Peter Deutsch,107,66.140186916,18.475607886,99.0,0.0,,,,,,,,,,,11,6,13,13,9,12,10,11,9,6,7,,,
+UBCV,2017,W,CPEN,411,,101,Computer Architecture,John Deppe;Mieszko Lis;Mohammad Ewais,66,69.818181818,15.293949624,96.0,17.0,,,,,,,,,,,2,9,5,8,5,6,7,3,8,3,10,,,
+UBCV,2017,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,10,89.6,5.561774297,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,0,8,,,
+UBCV,2018,W,CPEN,311,,101,Digital Systems Design,Amin Ghasemazar;Daniel Holanda Noronha;Guanxiong Chen;Jose Pinilla Gomez;Kahlan Gibson;Mieszko Lis;Mohamed Omran Matar,118,68.610169492,17.356017651,99.0,21.0,,,,,,,,,,,14,10,6,8,13,17,6,9,11,12,12,,,
+UBCV,2018,W,CPEN,411,,101,Computer Architecture,Dingqing Yang;Khaled Ahmed;Mieszko Lis,46,69.5,20.162396242,100.0,22.0,,,,,,,,,,,7,2,4,7,1,3,1,2,5,6,8,,,
+UBCV,2019,W,CPEN,511,,201,Advanced Computer Architecture,Dingqing Yang;Mieszko Lis;Parvathy Nair;Prashant Jayaprakash Nair;Prashant Nair,14,85.571428571,19.62225693,96.0,18.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,4,9,,,
+UBCV,2020,W,CPEN,291,,201,Computer Engineering Design Studio I,Christopher Ng;Deval Shah;Mieszko Lis;Mohammadhossein Olyaiy,116,88.939655172,9.747498045,99.0,35.0,,,,,,,,,,,1,1,2,0,0,3,3,2,6,29,69,,,
+UBCV,2020,W,CPEN,511,,201,Advanced Computer Architecture,Mieszko Lis;Prashant Jayaprakash Nair;Prashant Nair,8,92.125,4.853202183,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,6,,,
+UBCV,2021,W,CPEN,212,,201,Computing Systems II,Beibei Xiong;Caroline White;Christopher Ng;Khaled Ahmed;Mieszko Lis;Mohammadhossein Olyaiy;Muchen He;Wenyi Gong,78,73.08974359,14.25025486,100.0,24.0,,,,,,,,,,,4,3,4,8,7,7,8,8,11,10,8,,,
+UBCV,2021,W,CPEN,212,,201,Computing Systems II,Mieszko Lis,112,70.2,,100.0,29.0,,,,,,,,,,,7,7,7,11,18,10,13,9,12,10,8,70.5,80.0,61.8
+UBCV,2022,W,CPEN,211,,101,Computing Systems I,Mieszko Lis;Prashant Nair,315,67.9,,100.0,13.0,,,,,,,,,,,43,19,26,28,14,38,35,39,29,22,22,70.0,79.0,58.0
+UBCV,2022,W,CPEN,212,,201,Computing Systems II,Mieszko Lis,139,66.5,,93.0,21.0,,,,,,,,,,,19,8,9,12,17,21,13,14,14,9,3,69.0,77.0,59.0
+UBCV,2022,W,CPEN,511,,201,Advanced Computer Architecture,Mieszko Lis,7,89.1,,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,4,90.0,92.5,86.0
+UBCV,2023,W,CPEN,212,,201,Computing Systems II,Alexandra Fedorova;Mieszko Lis,160,65.57,,92.0,12.0,,,,,,,,,,,17,9,13,11,16,15,11,13,13,8,3,67.0,77.0,57.0

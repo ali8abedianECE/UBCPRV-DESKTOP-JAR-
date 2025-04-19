@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Benjamin Wiltshire;Cael Warner;Loic Markley;Majid Moradzadeh;Maryam Moradpour;Tristan Vandermeulen,189,64.560846561,16.50927371,99.0,1.0,32,11,17,17,20,28,23,9,15,9,8,,,
+UBCO,2020,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Benjamin Wiltshire;Cael Warner;Majid Moradzadeh;Maryam Moradpour;Nibirh Jawad;Tristan Vandermeulen,178,62.93258427,15.429663816,98.0,16.0,31,15,21,24,16,18,19,11,8,5,10,,,
+UBCO,2021,W,APSC,246,,101,System Dynamics,Ali Maleki Gargari;Imran Uddin;John Alan Brereton;Maryam Moradpour;Michael Mitchell;Omid Niksan;Sarah Bahanshal;Yang Cao,171,62.18128655,21.136723008,100.0,10.0,44,16,13,18,14,13,10,2,11,7,23,,,
+UBCO,2021,W,APSC,246,,102,System Dynamics,Ali Maleki Gargari;Imran Uddin;Maryam Moradpour;Michael Mitchell;Mohammad Hossein Zarifi;Omid Niksan;Sarah Bahanshal,183,65.93989071,20.364850509,100.0,11.0,38,23,11,11,10,11,18,7,15,10,29,,,
+UBCO,2021,W,ENGR,466,,001,Introduction to VLSI Systems,Jack Mcclelland;Maryam Moradpour;Mohammad Hossein Zarifi,21,83.142857143,10.66435987,98.0,50.0,0,1,0,0,0,1,1,3,3,5,7,,,
+UBCO,2021,W,ENGR,474,,001,Analog Integrated Circuits,Maryam Moradpour;Mohammad Hossein Zarifi,18,80.055555556,12.421386785,100.0,55.0,0,0,1,0,1,3,3,1,2,3,4,,,
+UBCO,2021,W,ENGR,466,,001,Introduction to VLSI Systems,Maryam Moradpour,21,83.1,,98.0,50.0,,,,,,,,,,,7,85.0,90.0,78.0

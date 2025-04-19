@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,BUSI,335,,201,INFO SYSTEMS,"Aleem, Muhammad Usman",99,75.45,12.14,91,22,91,4,4,0,0,0,0,1,1,2,4,2,4,0,6,12,13,8,27,15,4
+UBC,2015,W,COMM,205,,101,INT MGMT INFO SY,"Aleem, Muhammad Usman",127,75.78,9.21,97,53,126,0,1,0,0,0,0,0,0,0,0,3,3,6,13,14,16,19,30,16,6
+UBC,2015,W,COMM,205,,102,INT MGMT INFO SY,"Aleem, Muhammad Usman",129,78.39,10.47,98,41,125,1,3,0,0,0,0,0,0,1,1,2,3,4,10,8,17,14,24,28,15
+UBC,2015,W,COMM,205,,103,INT MGMT INFO SY,"Aleem, Muhammad Usman",127,80.48,8.88,99,54,125,0,1,0,1,0,0,0,0,0,0,1,1,3,7,5,23,11,32,18,24
+UBC,2015,W,COMM,205,,104,INT MGMT INFO SY,"Aleem, Muhammad Usman",125,81.58,7.98,99,58,125,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,18,16,35,27,20
+UBC,2016,S,BUSI,335,,921,INFO SYSTEMS,"Aleem, Muhammad Usman",36,76,16.78,97,25,34,2,0,0,0,0,0,2,0,0,2,1,2,1,1,4,3,3,8,2,9
+UBC,2016,S,BUSI,335,,971,INFO SYSTEMS,"Aleem, Muhammad Usman",51,78.39,12.27,92,32,48,1,2,0,0,0,0,0,1,0,1,0,1,4,6,2,1,3,12,10,9
+UBC,2017,S,COMM,205,,921,INT MGMT INFO SY,"Aleem, Muhammad Usman",54,74.91,15.64,95,6,50,3,0,0,1,1,0,1,1,0,3,0,0,4,5,3,5,8,14,5,6
+UBCV,2015,W,BUSI,335,,201,Information Systems,Muhammad Usman Aleem,95,75.452631579,12.139936224,91.0,22.0,,,,,,,,,,,,,,0,6,12,13,8,27,15,
+UBCV,2015,W,COMM,205,,101,Introduction to Management Information Systems,Muhammad Usman Aleem;Stefanus Soegiarto;Stefanus Vicky Soegiarto,126,75.777777778,9.214674287,97.0,53.0,,,,,,,,,,,0,,,6,13,14,16,19,30,16,6
+UBCV,2015,W,COMM,205,,102,Introduction to Management Information Systems,Muhammad Usman Aleem;Stefanus Soegiarto;Stefanus Vicky Soegiarto,126,78.388888889,10.47280075,98.0,41.0,,,,,,,,,,,,,,,10,8,17,14,24,28,15
+UBCV,2015,W,COMM,205,,103,Introduction to Management Information Systems,Muhammad Usman Aleem;Stefanus Soegiarto;Stefanus Vicky Soegiarto,126,80.134920635,9.65430737,99.0,37.0,,,,,,,,,,,,,,,7,5,23,11,32,18,24
+UBCV,2015,W,COMM,205,,104,Introduction to Management Information Systems,Muhammad Usman Aleem;Stefanus Soegiarto;Stefanus Vicky Soegiarto,125,81.576,7.976036691,99.0,58.0,,,,,,,,,,,0,0,,,5,2,18,16,35,27,20
+UBCV,2016,S,BUSI,335,,921,Information Systems,Muhammad Usman Aleem,36,76.0,16.77583296,97.0,25.0,,,,,,,,,,,2,1,2,1,1,4,3,3,8,2,9
+UBCV,2016,S,BUSI,335,,971,Information Systems,Muhammad Usman Aleem,49,78.3877551,12.26583386,92.0,32.0,,,,,,,,,,,1,0,1,4,6,2,1,3,12,10,9
+UBCV,2017,S,BUSI,335,,921,Information Systems,Alym Amlani;Muhammad Usman Aleem,22,76.363636364,16.022440973,93.0,24.0,,,,,,,,,,,1,0,1,2,1,1,2,2,2,6,4
+UBCV,2017,S,BUSI,335,,971,Information Systems,Alym Amlani;Muhammad Usman Aleem,27,78.555555556,11.715648094,97.0,55.0,,,,,,,,,,,0,0,2,1,3,2,1,3,6,3,6
+UBCV,2017,S,COMM,205,,921,Introduction to Management Information Systems,Jiya Dassan;Muhammad Usman Aleem,54,74.796296296,15.511869624,95.0,6.0,,,,,,,,,,,3,0,0,4,5,4,5,8,14,5,6

@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",24,80.04,8.28,93,60,23,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4,2,2,6,7,1
+UBC,2012,W,THTR,499,B,001,PRODUCTION III,"Asbeek Brusse, Marijka;Firkins, Jacqueline;Gardiner, Robert;McLean, Jayson;Powers, Bradley;Tugwell, Andrew",4,93,4.16,98,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2012,W,THTR,499,C,001,PRODUCTION III,"Asbeek Brusse, Marijka;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Tugwell, Andrew",15,89.07,6.13,99,76,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8
+UBC,2013,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",26,82.46,10.28,96,55,26,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,5,0,5,7,6
+UBC,2013,W,THTR,499,B,001,PRODUCTION III,"Asbeek Brusse, Marijka;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Tugwell, Andrew",4,88.25,8.77,98,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2
+UBC,2013,W,THTR,499,C,001,PRODUCTION III,"Asbeek Brusse, Marijka;Firkins, Jacqueline;Gardiner, Robert;Powers, Bradley;Wyness, Jillian",8,85.5,5.61,93,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3
+UBC,2014,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",22,79.86,14.18,97,51,22,0,0,0,0,0,0,0,0,0,0,3,0,1,0,2,1,1,3,3,8
+UBC,2015,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",25,81.39,7.57,94,65,23,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,5,2,6
+UBC,2016,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",32,81.19,11.24,98,50,31,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,4,3,2,10,7
+UBC,2017,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",18,78,10,92,50,17,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,3,2,4,3,2
+UBC,2018,W,THTR,299,C,001,PRODUCTION I,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",16,84.13,4.7,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,8,2
+UBC,2018,W,THTR,354,,001,STAGE MANAGEMENT,"Asbeek Brusse, Marijka",33,81.94,8.95,96,64,33,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,3,6,9,7
+UBC,2018,W,THTR,399,C,001,PRODUCTION II,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",11,87.36,4.54,95,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4
+UBC,2018,W,THTR,499,C,001,PRODUCTION III,"Alatorre, Carmen;Asbeek Brusse, Marijka;Cuttler, Mishelle;Gardiner, Robert;Klippenstein, Victoria;Pennefather, Patrick;Powers, Bradley;Rizzotti, Patrick;West, Lorraine;Wyness, Jillian",9,88.22,5.31,95,79,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4
+UBCV,2014,W,THTR,299,B,001,Production I,Bradley Powers;Marijka Asbeek Brusse;Robert Gardiner,14,83.92857143,7.010588538,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,0,,
+UBCV,2014,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,22,79.86363636,14.17675984,97.0,51.0,,,,,,,,,,,0,,,,,,,,,,8
+UBCV,2014,W,THTR,399,C,001,Production II,Bradley Powers;Jacqueline Firkins;Jayson Mclean;Jillian Wyness;Marijka Asbeek Brusse;Robert Gardiner,14,81.85714286,12.18357749,98.0,49.0,,,,,,,,,,,,,,,,,,,5,,
+UBCV,2014,W,THTR,499,C,001,Production III,Bradley Powers;Jacqueline Firkins;Jayson Mclean;Jillian Wyness;Marijka Asbeek Brusse;Robert Gardiner,13,89.69230769,8.189267523,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,9
+UBCV,2015,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,23,81.391304348,7.566307677,94.0,65.0,,,,,,,,,,,0,0,0,0,,,,5,5,,6
+UBCV,2016,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,32,80.65625,11.46272887,98.0,50.0,,,,,,,,,,,0,1,0,1,3,1,4,3,2,10,7
+UBCV,2017,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,17,78.0,10.0,92.0,50.0,,,,,,,,,,,0,1,0,0,0,2,3,2,4,3,2
+UBCV,2018,W,THTR,299,C,001,Production I,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,16,84.125,4.702836024,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,2,8,2
+UBCV,2018,W,THTR,354,,001,Stage Management,Hallie Marshall;Marijka Asbeek Brusse;Stephen Malloy,33,81.939393939,8.947553415,96.0,64.0,,,,,,,,,,,0,0,0,0,2,2,4,3,6,9,7
+UBCV,2018,W,THTR,399,C,001,Production II,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,11,87.363636364,4.544727215,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,4
+UBCV,2018,W,THTR,499,C,001,Production III,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,9,88.222222222,5.309844107,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,4
+UBCV,2019,W,THTR,210,,001,Drama: Forms and Ideas I,Hallie Marshall;Hanyang Harry Jiang;Hanyang Jiang;Marijka Asbeek Brusse;Marios Kallos;Susan Thompson,89,77.011235955,11.455937704,99.0,35.0,,,,,,,,,,,1,4,3,3,3,7,15,10,18,15,10
+UBCV,2019,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Courtenay Dobbie;Lois Anderson;Marijka Asbeek Brusse,14,84.071428571,3.384677822,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,7,0
+UBCV,2020,W,THTR,211,,001,Drama: Forms and Ideas II,Hanyang Jiang;Kirsty Johnston;Marijka Asbeek Brusse;Marios Kallos;Yuning Liu,76,78.565789474,14.457602868,92.0,0.0,,,,,,,,,,,2,0,0,2,3,7,9,5,22,14,12
+UBCV,2020,W,THTR,473,,001,Advanced Speech and Movement I,Erin Ormond;Gayle Murphy;Marijka Asbeek Brusse;Marlise Mccormick,13,84.615384615,5.560852176,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,6,2

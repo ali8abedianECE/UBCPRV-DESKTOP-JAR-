@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,SPPH,503,,002,EPIDEM METHODS 2,"Manges, Amee",37,87.08,5.44,97,68,36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,6,15,13,,,
+UBC,2014,W,SPPH,503,,002,EPIDEM METHODS 2,"Manges, Amee",45,83.14,6.71,94,64,44,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2,2,2,13,18,5,,,
+UBC,2015,W,MICB,507,,101,TP MOL PTH & IMM,"Av-Gay, Yossef;Manges, Amee;Mohn, William;Thompson, Charles",11,89.18,2.75,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,,,
+UBC,2015,W,SPPH,503,,002,EPIDEM METHODS 2,"Manges, Amee",35,81.94,6.17,92,61,33,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,1,6,12,9,3,,,
+UBC,2016,W,SPPH,503,,002,EPIDEM METHODS 2,"Manges, Amee",41,85.73,5.61,95,75,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7,15,11,,,
+UBC,2017,W,MICB,507,,101,TP MOL PTH & IMM,"Av-Gay, Yossef;Eltis, Lindsay;Manges, Amee;Thompson, Charles",8,84.38,6.86,93,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,,,
+UBC,2017,W,SPPH,503,,002,EPIDEM METHODS 2,"Manges, Amee",39,86.95,5.12,95,76,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,12,14,,,
+UBCV,2014,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges,44,83.13636364,6.708519086,94.0,64.0,,,,,,,,,,,0,0,0,0,,,,,13,18,5,,,
+UBCV,2015,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Charles Thompson;William Mohn;Yossef Av-Gay,11,89.181818182,2.750206604,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5,,,
+UBCV,2015,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Andrea Jones;Dimitra Panagiotoglou,33,81.939393939,6.174237777,92.0,61.0,,,,,,,,,,,0,0,0,,,,,6,12,9,3,,,
+UBCV,2016,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Andrea Jones;Candace Chan,41,85.73170732,5.612594722,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,7,7,15,11,,,
+UBCV,2017,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Charles Thompson;James Kronstad;Lindsay Eltis;Yossef Av-Gay,8,84.375,6.864765109,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,1,3,,,
+UBCV,2017,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Candace Chan;Joseph Kuruthukulangare;Kaitlyn Harper;Patricia Janssen,39,86.948717949,5.119358091,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,10,12,14,,,
+UBCV,2018,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Erin Gaynor;James Kronstad;Lindsay Eltis;Theodore Steiner;William Mohn;Yossef Av-Gay,7,91.0,4.163331999,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,4,,,
+UBCV,2018,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Joseph Kuruthukulangare;Mohammad Karamouzian;Weiran Yuchi,32,84.09375,7.402525179,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,5,6,10,7,,,
+UBCV,2019,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Hinda Ruton;Joseph Kuruthukulangare;Sameer Desai;Sameer Salim Desai;Weiran Yuchi,57,87.210526316,4.459087199,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,12,18,24,,,
+UBCV,2019,W,SPPH,503,,DL2,Epidemiological Methods 2,Amee Manges;Hinda Ruton;Sameer Desai;Sameer Salim Desai;Weiran Yuchi,13,83.769230769,5.246488447,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,4,2,,,
+UBCV,2020,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Stuart Turvey;Theodore Steiner;William Mohn;Yossef Av-Gay,11,90.181818182,2.786330268,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4,,,
+UBCV,2020,W,SPPH,503,,002,Epidemiological Methods 2,Ademola Itiola;Amee Manges;Sameer Desai,57,82.315789474,8.504532184,95.0,39.0,,,,,,,,,,,1,0,0,0,0,4,0,8,16,21,7,,,
+UBCV,2021,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Stuart Turvey;Theodore Steiner;Yossef Av-Gay,11,94.909090909,1.445997611,97.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Iyoma Edache;Sandeep Gill,53,87.320754717,6.378369652,97.0,69.0,,,,,,,,,,,0,0,0,0,0,3,1,1,6,18,24,,,
+UBCV,2021,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Yossef Av-Gay;Amee Manges;Theodore Steiner;Stuart Turvey,11,94.9,,97.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,95.0,96.0,94.0
+UBCV,2021,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges,53,87.3,,97.0,69.0,,,,,,,,,,,,,,,,,,,6,18,24,88.0,91.0,85.0
+UBCV,2022,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;William Mohn;Theodore Steiner;Stuart Turvey,11,88.9,,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,3,88.0,90.0,87.5
+UBCV,2022,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges,48,84.9,,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,4,17,17,9,85.0,88.0,82.0
+UBCV,2023,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges,34,84.3,,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,3,3,10,8,8,84.0,89.0,80.0

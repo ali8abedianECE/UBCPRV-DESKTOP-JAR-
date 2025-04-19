@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,ENVR,200,,101,Introduction to Environmental Science,Gunilla Oberg;Jerry Achar;Michael Lipsen;Tara Ivanochko,45,76.022222222,10.519438476,87.0,30.0,2,0,2,0,0,2,5,14,15,5,0,,,
+UBCV,2021,W,ENVR,200,,201,Introduction to Environmental Science,Gunilla Oberg;Jerry Achar;Kendra Chritz;Michael Lipsen,47,80.425531915,8.438381982,87.0,44.0,1,0,1,2,0,0,2,4,18,19,0,,,
+UBCV,2021,W,ENVR,300,,201,Introduction to Research in Environmental Science,Christina Draeger;Jerry Achar;Michael Lipsen;Tara Ivanochko;Valentina Radic,58,81.982758621,6.865861082,92.0,49.0,1,0,0,0,0,1,6,8,21,13,8,,,
+UBCV,2022,W,ENVR,200,,201,Introduction to Environmental Science,Jerry Achar;Michael Lipsen,41,83.9,,90.0,65.0,0,0,0,0,1,1,0,2,11,24,2,85.0,86.0,83.0

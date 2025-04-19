@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,CHBE,366,,201,PRCS&ENV ENG LAB,"Trajano, Heather",53,81.06,4.85,92,72,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11,22,10,3,,,
+UBC,2013,W,CHBE,351,,101,TRANS PHENMNA II,"Trajano, Heather",133,77.78,13.19,100,17,129,3,1,0,0,0,1,1,1,0,3,3,3,8,6,8,11,22,25,22,21,,,
+UBC,2013,W,CHBE,366,,201,PRCS&ENV ENG LAB,"Trajano, Heather",58,84.1,9.47,94,42,56,2,0,0,0,0,0,0,0,2,2,0,0,1,0,0,1,5,16,17,16,,,
+UBC,2014,W,CHBE,351,,101,TRANS PHENMNA II,"Trajano, Heather",97,76.17,13.79,100,41,93,3,0,0,1,0,0,0,0,3,3,3,6,9,6,6,8,14,14,9,18,,,
+UBC,2014,W,CHBE,366,,201,PRCS&ENV ENG LAB,"Trajano, Heather",63,81.62,17.41,95,0,59,4,0,0,0,2,0,0,0,2,4,0,0,0,0,0,5,3,13,22,16,,,
+UBC,2015,W,CHBE,366,,201,CHEMICAL ENG LAB,"Trajano, Heather",76,84.79,15.08,97,0,72,3,1,0,0,1,1,0,0,1,3,0,0,0,1,1,0,2,11,36,21,,,
+UBC,2016,W,CHBE,351,,101,TRANS PHENMNA II,"Trajano, Heather",147,79.27,10.88,99,43,146,1,0,0,0,0,0,0,0,1,1,2,3,10,3,17,14,17,27,24,29,,,
+UBC,2016,W,CHBE,366,,201,CHEMICAL ENG LAB,"Trajano, Heather",30,89.27,9.67,97,43,29,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,3,5,21,,,
+UBC,2016,W,CHBE,366,,202,CHEMICAL ENG LAB,"Trajano, Heather",29,86.9,5.54,94,71,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,11,10,,,
+UBC,2016,W,GBPR,503,,101,BIOENRG&BIOREFIN,"Trajano, Heather",6,93.83,3.06,96,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2017,W,GBPR,503,,101,BIOENRG&BIOREFIN,"Sella Kapu, Nuwan Umantha;Trajano, Heather",7,93.86,1.77,96,91,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2018,W,CHBE,351,,101,TRANS PHENMNA II,"Trajano, Heather",171,79.59,11.19,100,22,167,2,0,0,2,0,0,1,0,1,2,1,4,7,7,14,19,23,37,25,30,,,
+UBC,2018,W,CHBE,402,,201,BIOMAS FRAC TECH,"Trajano, Heather",8,95.38,4.47,100,89,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,,,
+UBC,2018,W,GBPR,503,,101,BIOENRG&BIOREFIN,"Sella Kapu, Nuwan Umantha;Trajano, Heather",6,94.5,2.43,98,91,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2014,W,CHBE,351,,101,Transport Phenomena II,Heather Trajano,97,75.98969072,13.8274296,100.0,41.0,,,,,,,,,,,,,7,9,6,6,8,14,14,9,18,,,
+UBCV,2014,W,CHBE,366,,201,Process and Environmental Engineering Laboratory,Heather Trajano,63,81.61904762,17.41377706,95.0,0.0,,,,,,,,,,,,,,,,,5,,13,22,16,,,
+UBCV,2015,W,CHBE,366,,201,Chemical Engineering Laboratory,Ataollah Kheyrandish;Heather Trajano;Marzieh Ebrahimi;Md Hafizur Rahman;Salma Falah Toosi,75,84.786666667,15.075748678,97.0,0.0,,,,,,,,,,,,,,,,,,,11,36,21,,,
+UBCV,2016,W,CHBE,351,,101,Transport Phenomena II,Badr Mohamed;Dimitrios Vavlekas;Heather Trajano;Sonia Rahmani,147,79.26530612,10.88314427,99.0,43.0,,,,,,,,,,,1,2,3,10,3,17,14,17,27,24,29,,,
+UBCV,2016,W,CHBE,366,,201,Chemical Engineering Laboratory,Ehsan Espid;Heather Trajano;Marzieh Ebrahimi;Yan Dong,30,89.26666667,9.666627031,97.0,43.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,5,21,,,
+UBCV,2016,W,CHBE,366,,202,Chemical Engineering Laboratory,Ehsan Espid;Heather Trajano;Marzieh Ebrahimi;Yan Dong,29,86.89655172,5.537823371,94.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,5,11,10,,,
+UBCV,2016,W,GBPR,503,,101,Bioenergy and Biorefinery,Heather Trajano,6,93.83333333,3.060501048,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2017,W,GBPR,503,,101,Bioenergy and Biorefinery,Heather Trajano;Nuwan Umantha Sella Kapu,7,93.857142857,1.772810521,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2018,W,CHBE,351,,101,Transport Phenomena II,Arman Seyed-Ahmadi;Heather Trajano;Lei Li,171,79.333333333,11.381615723,100.0,22.0,,,,,,,,,,,2,1,5,8,7,14,19,23,37,25,30,,,
+UBCV,2018,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,8,95.375,4.47013902,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,,,
+UBCV,2018,W,GBPR,503,,101,Bioenergy and Biorefinery,Heather Trajano;Nuwan Umantha Sella Kapu,6,94.5,2.42899156,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2019,W,CHBE,402,,201,Biomass Fractionation Technology,Blair Morgan;Emily Cranston;Heather Trajano,24,85.208333333,6.289944817,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,2,5,7,8,,,
+UBCV,2019,W,CHBE,597,,001,M.A.Sc. Thesis Proposal Development,Curtis Berlinguette;Heather Trajano,12,88.416666667,5.177895911,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,4,,,
+UBCV,2020,W,CHBE,345,,201,Unit Operations II,Heather Trajano;Jairo Cendales;James Piret;Joseph English;Simcha Srebnik,119,83.25210084,9.882546237,100.0,41.0,,,,,,,,,,,2,0,1,2,5,3,6,12,22,38,28,,,
+UBCV,2020,W,CHBE,366,,201,Chemical Engineering Laboratory,Adel Yavarinasab;Alexander Jameson;Elod Lajos Gyenge;Heather Trajano;Marziyeh Danesh;Muersha Wusiman;Shahriar Rouhani Anaraki,45,88.688888889,7.798083163,98.0,56.0,,,,,,,,,,,0,0,1,0,0,0,2,1,5,10,26,,,
+UBCV,2020,W,CHBE,366,,202,Chemical Engineering Laboratory,Adel Yavarinasab;Alexander Jameson;Elod Lajos Gyenge;Heather Trajano;Marziyeh Danesh;Muersha Wusiman;Shahriar Rouhani Anaraki,38,84.736842105,8.744679341,96.0,60.0,,,,,,,,,,,0,0,0,1,1,3,1,3,2,15,12,,,
+UBCV,2020,W,CHBE,505,,101,Introduction to Chemical Engineering for Non-Chemical Engineers,Heather Trajano;Kevin Smith;Savvas Hatzikiriakos,9,87.111111111,7.8173596,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,2,4,,,
+UBCV,2021,W,CHBE,345,,201,Unit Operations II,Amirhossein Saali;Heather Trajano;Mariana Frias De Albuquerque,126,74.317460317,13.863131417,99.0,18.0,,,,,,,,,,,5,4,3,6,11,16,22,14,14,19,12,,,
+UBCV,2021,W,CHBE,402,,201,Biomass Fractionation Technology,Emily Cranston;Heather Trajano,7,91.0,5.715476066,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,5,,,
+UBCV,2021,W,CHBE,505,,101,Introduction to Chemical Engineering for Non-Chemical Engineers,Heather Trajano;Kevin Smith;Savvas Hatzikiriakos,16,92.375,8.172107031,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,2,11,,,
+UBCV,2021,W,GBPR,501,,201,Biomass Fractionation Chemistry,Heather Trajano,15,94.266666667,2.576450123,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2021,W,CHBE,345,,201,Unit Operations II,Heather Trajano,126,75.1,,99.0,18.0,,,,,,,,,,,,,,7,11,16,23,15,14,19,12,75.0,84.0,68.0
+UBCV,2021,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,7,91.0,,98.0,81.0,,,,,,,,,,,,,,,,,,,,,,92.0,94.5,88.5
+UBCV,2021,W,GBPR,501,,201,Biomass Fractionation Chemistry,Heather Trajano,15,94.3,,98.0,89.0,,,,,,,,,,,,,,,,,,,,,14,95.0,95.5,92.5
+UBCV,2022,W,CHBE,345,,201,Unit Operations,Heather Trajano,96,73.4,,98.0,33.0,,,,,,,,,,,1,12,2,6,8,9,8,12,18,13,7,76.5,83.0,66.0
+UBCV,2022,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,8,90.6,,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,91.0,92.3,88.8
+UBCV,2022,W,CHBE,502,,201,Biomass Fractionation Chemistry,Heather Trajano,11,92.7,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9,93.0,95.0,92.0
+UBCV,2022,W,SPE,503,,101,Sustainable Bioenergy and Biorefinery,Sergio Berretta;Heather Trajano,6,92.5,,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,93.0,93.8,90.8
+UBCV,2023,W,CHBE,345,,201,Unit Operations,Heather Trajano,94,68.9,,99.0,6.0,,,,,,,,,,,10,4,2,8,13,9,12,12,9,9,6,72.0,80.5,62.5
+UBCV,2023,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,10,90.8,,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,90.5,93.5,89.3
+UBCV,2023,W,SPE,503,,101,Sustainable Bioenergy and Biorefinery,Heather Trajano,7,95.0,,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,96.0,96.5,95.5

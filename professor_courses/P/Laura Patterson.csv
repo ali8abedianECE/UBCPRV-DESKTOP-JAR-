@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,176,,101,Engineering Communication,Laura Patterson,21,72.80952381,4.823059689,84.0,63.0,0,0,0,,,7,5,6,,0,0,,,
+UBCO,2014,W,APSC,176,,104,Engineering Communication,Laura Patterson,21,70.90476191,6.662617818,84.0,60.0,0,0,0,,7,,,,,0,0,,,
+UBCO,2014,W,APSC,201,,204,Technical Communication,Laura Patterson,30,71.46666667,8.939387209,79.0,41.0,,,,,,,12,10,0,0,0,,,
+UBCO,2014,W,APSC,201,,206,Technical Communication,Laura Patterson,31,74.38709677,4.957670282,86.0,66.0,0,0,0,0,,7,9,7,5,,0,,,
+UBCO,2015,W,APSC,176,,101,Engineering Communication,Laura Patterson,27,71.37037037,10.813624412,85.0,41.0,,,,,,,6,,6,,0,,,
+UBCO,2015,W,APSC,176,,103,Engineering Communication,Laura Patterson,31,69.741935484,14.493602593,88.0,13.0,,,,,,,,5,,,0,,,
+UBCO,2015,W,APSC,176,,105,Engineering Communication,Laura Patterson,27,67.925925926,9.265012458,85.0,46.0,,,,,,5,6,,,,0,,,
+UBCO,2015,W,APSC,176,,106,Engineering Communication,Laura Patterson,31,69.64516129,11.214717672,86.0,35.0,,,,,6,,5,5,,,0,,,
+UBCO,2015,W,APSC,201,,202,Technical Communication,Laura Patterson,31,70.838709677,7.285129943,80.0,47.0,,,,,7,,7,8,,0,0,,,
+UBCO,2015,W,APSC,201,,203,Technical Communication,Laura Patterson,36,70.444444444,5.25598676,79.0,47.0,,,,,,15,12,,0,0,0,,,
+UBCO,2015,W,APSC,201,,204,Technical Communication,Laura Patterson,34,69.676470588,7.630562902,84.0,47.0,,,,,5,10,9,,,0,0,,,
+UBCO,2016,W,APSC,176,,103,Engineering Communication,Laura Patterson,32,70.40625,6.781661111,83.0,60.0,0,0,0,4,8,8,3,4,5,0,0,,,
+UBCO,2016,W,APSC,176,,104,Engineering Communication,Laura Patterson,31,69.22580645,6.893038408,80.0,52.0,0,1,1,4,7,6,4,6,2,0,0,,,
+UBCO,2016,W,APSC,176,,108,Engineering Communication,Laura Patterson,28,72.57142857,9.822229405,92.0,46.0,1,1,0,1,4,5,4,6,4,1,1,,,
+UBCO,2016,W,APSC,201,,202,Technical Communication,Laura Patterson,33,72.45454546,4.644155663,81.0,64.0,0,0,0,0,7,8,8,7,3,0,0,,,
+UBCO,2016,W,APSC,201,,205,Technical Communication,Laura Patterson,34,69.05882353,9.945125733,82.0,38.0,2,1,1,5,2,3,13,3,4,0,0,,,
+UBCO,2016,W,APSC,201,,207,Technical Communication,Laura Patterson,33,71.15151515,6.713425039,83.0,47.0,1,0,0,2,4,6,14,4,2,0,0,,,
+UBCO,2017,W,APSC,176,,101,Engineering Communication,Jannik Eikenaar;Laura Patterson,30,70.733333333,7.583709098,82.0,57.0,0,0,2,2,6,7,4,1,8,0,0,,,
+UBCO,2017,W,APSC,176,,103,Engineering Communication,Catherine Shaw;Jannik Eikenaar;Laura Patterson,32,70.28125,9.652792927,90.0,47.0,1,0,2,4,5,7,6,3,0,2,2,,,
+UBCO,2017,W,APSC,176,,104,Engineering Communication,Laura Patterson,33,68.939393939,10.859728916,82.0,37.0,4,1,1,0,2,7,9,7,2,0,0,,,
+UBCO,2017,W,APSC,176,,107,Engineering Communication,Carolyn Labun;Laura Patterson,31,67.64516129,18.893646881,88.0,0.0,4,1,0,3,3,3,6,3,5,3,0,,,
+UBCO,2017,W,APSC,176,,108,Engineering Communication,Laura Patterson,32,66.625,17.355393324,91.0,7.0,4,2,1,2,5,3,7,2,3,2,1,,,
+UBCO,2017,W,APSC,201,,201,Technical Communication,Laura Patterson,32,72.78125,8.727909904,83.0,47.0,2,0,1,1,2,2,11,7,6,0,0,,,
+UBCO,2017,W,APSC,201,,206,Technical Communication,Laura Patterson,34,66.411764706,9.633016605,79.0,35.0,4,0,0,6,5,10,6,3,0,0,0,,,
+UBCO,2018,S,APSC,201,,001,Technical Communication,Laura Patterson,33,69.060606061,7.66460776,80.0,47.0,2,0,1,3,6,5,12,3,1,0,0,,,
+UBCO,2018,W,APSC,176,,104,Engineering Communication,Carolyn Labun;Laura Patterson,36,70.111111111,10.388944062,90.0,45.0,1,2,1,5,6,5,4,6,3,2,1,,,
+UBCO,2018,W,APSC,176,,107,Engineering Communication,Catherine Shaw;Laura Patterson;Spela Grasic,32,67.0625,14.56894067,92.0,10.0,1,2,6,4,2,3,5,5,3,0,1,,,
+UBCO,2019,W,APSC,176,,101,Engineering Communication,Jannik Eikenaar;Laura Patterson;Spela Grasic,34,69.294117647,11.836075854,89.0,29.0,1,1,4,3,5,5,5,4,3,3,0,,,
+UBCO,2019,W,APSC,176,,102,Engineering Communication,Carolyn Labun;Jannik Eikenaar;Laura Patterson,34,64.647058824,15.824573053,84.0,23.0,6,2,2,1,5,3,5,4,6,0,0,,,
+UBCO,2019,W,APSC,176,,103,Engineering Communication,Laura Patterson;Spela Grasic,30,71.2,8.405252873,95.0,55.0,0,0,1,3,5,10,4,0,6,0,1,,,
+UBCO,2019,W,APSC,176,,201,Engineering Communication,Jannik Eikenaar;Laura Patterson,33,71.333333333,7.174898373,86.0,56.0,0,0,1,6,4,4,8,6,3,1,0,,,
+UBCO,2019,W,APSC,201,,201,Technical Communication,Laura Patterson,36,73.75,9.047098983,83.0,45.0,2,1,0,1,1,0,12,11,8,0,0,,,
+UBCO,2019,W,APSC,201,,202,Technical Communication,Laura Patterson,31,79.064516129,6.174871032,88.0,64.0,0,0,0,0,1,3,5,6,8,8,0,,,
+UBCO,2020,W,APSC,176,,101,Engineering Communication,Amanda Werner;Laura Patterson,32,72.3125,18.495749294,90.0,2.0,2,1,1,1,2,3,2,7,8,4,1,,,
+UBCO,2020,W,APSC,176,,102,Engineering Communication,Amanda Werner;Laura Patterson,34,68.970588235,14.416920392,87.0,22.0,4,1,2,1,3,3,6,6,5,3,0,,,
+UBCO,2020,W,APSC,176,,103,Engineering Communication,Amanda Werner;Laura Patterson,34,77.264705882,5.858476498,88.0,64.0,0,0,0,0,3,3,5,9,11,3,0,,,
+UBCO,2020,W,APSC,201,,201,Technical Communication,Laura Patterson;Zainab Tariq,39,74.102564103,14.346822263,92.0,0.0,1,0,1,1,3,5,8,5,11,3,1,,,
+UBCO,2020,W,APSC,201,,203,Technical Communication,Laura Patterson;Zainab Tariq,37,77.783783784,6.498440561,90.0,64.0,0,0,0,0,3,3,7,10,8,5,1,,,
+UBCO,2020,W,APSC,201,,209,Technical Communication,Laura Patterson;Zainab Tariq,38,74.736842105,6.038991372,83.0,56.0,0,0,1,0,3,6,9,10,9,0,0,,,
+UBCO,2021,W,APSC,176,,101,Engineering Communication,Brittney Fedoruk;Jannik Eikenaar;Laura Patterson;Zainab Tariq,28,69.214285714,19.358904818,91.0,0.0,3,0,0,2,1,6,5,5,3,1,2,,,
+UBCO,2021,W,APSC,176,,102,Engineering Communication,Brittney Fedoruk;Jannik Eikenaar;Laura Patterson;Zainab Tariq,29,75.275862069,8.49326015,85.0,54.0,0,1,2,0,1,3,4,8,8,2,0,,,
+UBCO,2021,W,APSC,176,,103,Engineering Communication,Brittney Fedoruk;Graeme Webb;Laura Patterson;Natalie Forssman;Serena Slonowski;Zainab Tariq,28,77.464285714,7.110149985,91.0,60.0,0,0,0,1,1,3,5,7,8,2,1,,,
+UBCO,2021,W,APSC,176,,106,Engineering Communication,Brittney Fedoruk;Jannik Eikenaar;Laura Patterson;Natalie Forssman;Zainab Tariq,27,74.666666667,10.80598125,94.0,47.0,1,0,1,3,0,6,3,2,5,5,1,,,
+UBCO,2021,W,APSC,176,,107,Engineering Communication,Brittney Fedoruk;Graeme Webb;Jannik Eikenaar;Laura Patterson;Serena Slonowski;Zainab Tariq,34,77.470588235,5.894194854,85.0,50.0,0,1,0,0,0,0,8,15,9,1,0,,,
+UBCO,2021,W,APSC,176,,108,Engineering Communication,Brittney Fedoruk;Graeme Webb;Laura Patterson;Serena Slonowski;Zainab Tariq,33,74.818181818,7.169617081,84.0,47.0,1,0,0,1,1,4,8,9,9,0,0,,,
+UBCO,2021,W,APSC,176,,110,Engineering Communication,Brittney Fedoruk;Laura Patterson;Mairi Richter;Zainab Tariq,24,72.0,20.321331692,92.0,9.0,3,0,0,1,1,1,6,1,6,3,2,,,
+UBCO,2021,W,APSC,201,,206,Technical Communication,Alon Eisenstein;Carolyn Labun;Laura Patterson;Zainab Tariq,29,74.965517241,9.124076308,90.0,49.0,1,0,0,2,4,3,0,9,6,3,1,,,
+UBCO,2021,W,APSC,201,,208,Technical Communication,Alon Eisenstein;Laura Patterson;Selena Clark,27,81.777777778,9.459766355,90.0,46.0,1,0,0,0,1,0,2,3,4,11,5,,,
+UBCO,2021,W,APSC,201,,209,Technical Communication,Laura Patterson;Zainab Tariq,30,71.133333333,7.142555002,86.0,55.0,0,0,2,2,3,10,5,4,2,2,0,,,
+UBCO,2021,W,APSC,201,,210,Technical Communication,Laura Patterson;Zainab Tariq,29,77.0,10.928337999,92.0,58.0,0,0,3,3,2,1,1,4,5,7,3,,,
+UBCV,2019,W,COLX,525,,001,Computational Morphology,Laura Patterson;Miikka Pietari Silfverberg;Miikka Silfverberg;Muhammad Abdul-Mageed;Yu-Hsiang Lo,26,89.807692308,8.569803875,96.0,50.0,0,,,,,,,,,6,19,,,
+UBCV,2019,W,COLX,531,,001,Machine Translation,Chiyu Zhang;Julian Brooke;Laura Patterson;Muhammad Abdul-Mageed;Peter Sullivan,25,94.24,2.742869544,98.0,85.0,0,0,0,0,0,0,0,0,0,2,23,,,
+UBCV,2019,W,COLX,561,,001,Computational Semantics,Julian Brooke;Laura Patterson;Muhammad Abdul-Mageed;Yu-Hsiang Lo,25,84.88,6.267109913,94.0,66.0,0,0,0,0,1,0,0,3,6,9,6,,,
+UBCV,2019,W,COLX,563,,001,Advanced Computational Semantics,Julian Brooke;Laura Patterson;Michael Fry;Yadong Liu,25,88.88,4.106093034,95.0,80.0,0,0,0,0,0,0,0,0,5,6,14,,,
+UBCO,2021,W,APSC,176,,101,Engineering Communication,Laura Patterson,27,71.8,,91.0,19.0,,,,,,6,,,,,,73.0,77.5,70.0
+UBCO,2021,W,APSC,176,,102,Engineering Communication,Laura Patterson,29,75.3,,85.0,54.0,,,,,,,,8,8,,,77.0,81.0,72.0
+UBCO,2021,W,APSC,176,,110,Engineering Communication,Laura Patterson,24,72.0,,92.0,9.0,,,,,,,6,,6,,,75.5,83.3,71.0
+UBCO,2021,W,APSC,201,,206,Technical Communication,Laura Patterson,29,75.0,,90.0,49.0,,,,,,,,9,6,,,77.0,80.0,69.0
+UBCO,2021,W,APSC,201,,209,Technical Communication,Laura Patterson,30,71.1,,86.0,55.0,,,,,,10,,,,,,70.5,75.8,68.3
+UBCO,2021,W,APSC,201,,210,Technical Communication,Laura Patterson,29,77.0,,92.0,58.0,,,,,,,,,,7,,80.0,86.0,67.0
+UBCO,2022,W,APSC,176,,105,Engineering Communication,Laura Patterson,10,64.9,,80.0,39.0,2,0,1,0,2,1,0,3,1,0,0,67.5,76.0,60.3
+UBCO,2022,W,APSC,176,,106,Engineering Communication,Laura Patterson,30,72.6,,89.0,59.0,0,0,3,3,5,2,5,4,5,3,0,73.0,79.8,65.0
+UBCO,2022,W,APSC,201,,202,Technical Communication,Laura Patterson,34,76.1,,89.0,46.0,2,1,0,2,0,1,6,5,11,6,0,79.5,82.0,73.3
+UBCO,2023,W,APSC,176,,107,Engineering Communication,Laura Patterson,25,72.4,,90.0,0.0,2,0,0,1,1,2,1,7,7,1,1,77.0,81.5,70.5
+UBCO,2023,W,APSC,201,,205,Technical Communication,Laura Patterson,32,73.0,,87.0,37.0,2,2,2,0,2,1,6,5,6,6,0,76.0,82.0,70.0

@@ -1,0 +1,3 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,DATA,311,,101,Machine Learning,Jeffrey Andrews;Jordan Gardener;Matthias Lee;Phillip Shreeves,63,68.555555556,17.873008825,95.0,11.0,7,6,2,7,5,2,8,8,7,5,6
+UBCO,2018,W,DATA,410,,101,Regression and Generalized Linear Models,Lengyi Han;Matthias Lee,6,71.166666667,15.967675681,86.0,43.0,1,0,0,1,0,0,1,1,1,1,0

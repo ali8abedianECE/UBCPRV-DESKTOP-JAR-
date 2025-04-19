@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,S,APSC,248,,001,Engineering Analysis III,Peyman Yousefi;Rafiya Hossain;Sevda Mohammadi Gharalar,97,73.639175258,14.922847114,96.0,0.0,5,4,3,8,5,14,10,10,15,12,11,,,
+UBCO,2020,W,APSC,177,,201,Engineering Computation and Instrumentation,Abdul Basit Zia;Anas Chaaban;Dean Richert;Mahmoud Hasabel Naby;Nourhan Soliman;Rafiya Hossain;Richard Klukas;Sin Hang Cheung,166,75.126506024,22.243057258,100.0,0.0,21,3,6,7,6,13,7,12,23,23,45,,,
+UBCO,2020,W,APSC,177,,202,Engineering Computation and Instrumentation,Abdul Basit Zia;Anas Chaaban;Mahmoud Hasabel Naby;Nourhan Soliman;Rafiya Hossain;Richard Klukas;Sin Hang Cheung,187,70.689839572,22.315914893,100.0,0.0,32,11,7,9,12,11,14,10,20,16,45,,,
+UBCO,2021,S,APSC,248,,001,Engineering Analysis III,Houman Alipooramirabad;Peyman Yousefi;Rafiya Hossain;Sevda Mohammadi Gharalar,106,61.811320755,18.302283598,95.0,5.0,23,13,3,12,13,8,10,8,6,7,3,,,
+UBCO,2021,W,APSC,177,,201,Engineering Computation and Instrumentation,Abdul Basit Zia;Abdullah Zayat;Connor Gaudreau;Mahmoud Hasabel Naby;Mohammad Kharouf;Nourhan Soliman;Rafiya Hossain;Yang Cao,200,59.225,20.073091942,97.0,0.0,43,29,19,14,23,19,13,7,16,10,7,,,
+UBCO,2021,W,APSC,177,,202,Engineering Computation and Instrumentation,Abdullah Zayat;Anas Chaaban;Connor Gaudreau;Mahmoud Hasabel Naby;Mohammad Kharouf;Nourhan Soliman;Rafiya Hossain,160,63.86875,23.197842525,99.0,0.0,41,20,8,7,7,11,10,4,13,10,29,,,
+UBCO,2021,W,ENGR,320,,201,Electromechanical Devices,Charles Brodie;Hengyu Li;Rafiya Hossain;Rakiba Rayhana;Wilson Eberle,108,72.62037037,13.015244543,95.0,17.0,3,4,6,10,11,14,15,11,14,12,8,,,
+UBCO,2021,W,ENGR,320,,202,Electromechanical Devices,Charles Brodie;Hengyu Li;Rafiya Hossain;Rakiba Rayhana;Wilson Eberle,99,70.191919192,12.868785814,98.0,16.0,4,6,7,9,11,16,15,11,6,7,7,,,
+UBCO,2022,W,ENGR,455,,101,Power System Analysis and Design,Rafiya Hossain,27,84.3,,96.0,57.0,0,0,1,0,0,0,2,3,5,7,9,85.0,90.5,80.0

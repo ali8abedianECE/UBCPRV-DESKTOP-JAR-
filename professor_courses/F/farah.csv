@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,FREN,101,,903,BEGINNER FREN I,"Leplat, Farah;O'Hagan, Michael",26,77.19,10.36,96,51,26,0,0,0,0,0,0,0,0,0,0,1,1,0,2,3,3,4,6,4,2
+UBC,2006,W,FREN,102,,902,BEGINNER FREN II,"Leplat, Farah;O'Hagan, Michael",29,78.18,10.15,95,58,28,0,1,0,0,0,0,0,0,0,0,0,1,2,2,1,2,8,4,5,3
+UBC,2009,S,NURS,321,,941,NURS RLS&CMP II,"Einboden, Rochelle;Jackson, Cathryn;Jetha, Farah;Valkenier, Beverley",61,88.23,4.6,96,73,60,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,26,24
+UBC,2009,S,NURS,331,A,941,NURS CARE FAMILY,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",60,78.43,6.2,92,55,60,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,8,17,20,7,2
+UBC,2009,S,NURS,460,,941,CONSLD PRCT EXP,"Affleck, Frances;Bassingthwaighte, Carol;Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Jetha, Farah;Lawton, Jennifer;Tan, Elsie;Valkenier, Beverley",56,,,,,0,0,1,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,FREN,111,,111,BEGINNR FREN III,"Leplat, Farah;O'Hagan, Michael",33,74.23,11.12,88,46,28,2,3,0,0,0,0,0,0,2,2,1,0,1,2,5,5,2,6,6,0
+UBC,2009,W,FREN,112,,901,BEGINNR FREN IV,"Leplat, Farah;O'Hagan, Michael",33,74.45,9.67,95,51,33,0,0,0,0,0,0,0,0,0,0,2,0,1,4,4,7,5,7,1,2
+UBC,2010,W,FREN,101,,901,BEGINNER FREN I,"DUGGAN, MARYSE;Leplat, Farah",30,79.39,8.08,94,58,28,0,1,1,0,0,0,0,0,0,0,0,1,1,0,2,1,11,6,4,2
+UBC,2010,W,FREN,102,,901,BEGINNER FREN II,"DUGGAN, MARYSE;Leplat, Farah",22,75.64,11.05,95,50,22,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,4,5,3,3,2
+UBC,2011,W,FREN,101,,901,BEGINNER FREN I,"Bodolec, Jacques;Leplat, Farah;O'Brien, Juliet",28,74.59,14.99,93,17,26,1,1,0,0,0,1,0,0,0,1,0,1,2,1,2,8,2,2,7,1
+UBC,2011,W,FREN,102,,902,BEGINNER FREN II,"Bodolec, Jacques;Leplat, Farah;O'Brien, Juliet",29,73.92,12.67,91,47,24,2,3,0,0,0,0,0,0,2,2,0,3,0,3,2,2,4,3,5,2
+UBC,2012,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne;Jetha, Farah;Lapinsky, Julie",20,81.35,4.18,87,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,6,0
+UBC,2012,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne;Jetha, Farah;Lapinsky, Julie",20,81.8,4.61,90,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,3,2
+UBC,2012,W,FREN,101,,108,BEGINNER FREN I,"Bodolec, Jacques;Leplat, Farah;O'Brien, Juliet",28,74.04,10.11,91,53,27,0,1,0,0,0,0,0,0,0,0,1,2,2,1,4,4,3,7,2,1
+UBC,2012,W,FREN,123,,207,FREN LANG&LIT II,"Leplat, Farah;Miller, Robert;Scott, Anne",25,70.48,15.12,92,14,24,1,0,0,0,0,1,0,0,0,1,1,1,1,4,3,3,3,6,1,1
+UBC,2013,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",19,81.58,3.61,88,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,6,0
+UBC,2013,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",19,81.21,4.97,90,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,3,2
+UBC,2013,W,NURS,302,,001,FNDTN NURS PRACT,"Boschma, Geertje;Brown, Helen Jean;Camacho, Sarah;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Valkenier, Beverley",118,84.01,4.45,94,71,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,10,41,53,9
+UBC,2013,W,NURS,303,,001,ADULTS & FAMLIES,"Jackson, Cathryn;Jetha, Farah;Mislang, Jonathan;Phinney, Alison;Rea, Gail;Segaric, Cheryl;Valkenier, Beverley",119,83.56,3.71,91,74,118,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16,48,47,4
+UBC,2013,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",20,82.7,4.04,91,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9,5,1
+UBC,2013,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",19,80.79,3.12,86,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,2,0
+UBC,2013,W,NURS,422,,002,CHLDBRG FAMILIES,"Hall, Wendy Anne;Jetha, Farah;Segaric, Cheryl",20,86.6,5.26,94,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,8,6
+UBC,2014,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",20,83.05,3.01,88,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,5,0
+UBC,2014,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",19,80.37,4.03,88,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,4,0
+UBC,2014,W,NURS,303,,001,ADULTS & FAMLIES,"Affleck, Frances;Foster, Paula;Jackson, Cathryn;Jetha, Farah;McBurney, Sheila Mary;Rea, Gail;Segaric, Cheryl",121,85.43,5.06,94,50,120,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,7,35,59,17
+UBC,2016,S,SPPH,411,,901,VIOLENC LIFESPAN,"Shroff, Farah",53,88.2,4.02,95,80,49,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,17,21
+UBC,2017,W,POLI,422,A,001,SELECT PROB POLI,"Shroff, Farah",20,84,6.8,95,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,4,5
+UBC,2018,W,POLI,422,A,001,SELECT PROB POLI,"Shroff, Farah",19,80,7.13,90,62,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,4,4,2
+UBC,2018,W,POLI,423,A,001,ISS COMP POLITCS,"Shroff, Farah",17,83.41,6.4,91,71,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,7,2

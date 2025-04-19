@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,PHTH,565,,001,CLIN PRAC VI B,"Dumont, Tyler;Li, Linda;Nolan, Mary;Pearson, Neil;Reid, Andrea;Tsui, Karen",80,83.77,3.68,91,75,79,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,37,27,6
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2017,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Karen Tsui;Linda Li;Mary Nolan;Neil Pearson;Tyler Dumont,79,83.772151899,3.675802257,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,37,27,6
+UBCV,2018,S,PHTH,558,,001,Case-Based Integration IV,Anne Rankin;Karen Tugwell;Linda Maedel;Michelle Labandelo;Neil Pearson;Roland Fletcher,79,83.594936709,8.522246886,97.0,62.0,,,,,,,,,,,0,0,0,1,4,5,6,5,15,24,19
+UBCV,2018,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Fraser Perry;Linda Li;Mary Nolan;Neil Pearson;Sophia Zhao;Tyler Dumont,79,83.17721519,4.109898912,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,8,33,33,0
+UBCV,2020,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Debra Treloar;Joseph Anthony;Marjorie Belot;Mary Nolan;Nancy Cho;Natalie Grant;Neil Pearson;Roland Fletcher,79,83.303797468,4.33339575,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,11,32,28,4

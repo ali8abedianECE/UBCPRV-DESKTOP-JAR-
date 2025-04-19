@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,S,ARCH,577,C,001,Seminar: Design Media,Derek Mavis;Robert Gaudin;Sarah Klym;Thomas Gaudin,36,84.416666667,7.144928271,96.0,68.0,0,0,0,0,0,3,1,2,9,12,9,,,
+UBCV,2020,W,ARCH,517,,001,Design Media II,Jason Heinrich;Parker Albanese;Rachel Killoh;Sarah Klym;Thena Tak,36,83.666666667,4.816637832,88.0,59.0,0,0,,,,,,1,18,16,0,,,
+UBCV,2020,W,DES,212,,001,Design Media II,Jacob Darowski;Sarah Klym,27,85.888888889,4.618802154,92.0,74.0,0,0,0,0,0,0,1,1,8,10,7,,,
+UBCV,2021,W,ARCH,517,,001,Design Media II,Cindy Sze Nga Lee;Guy Mclintock;Nicholas Paczkowski;Parker Albanese;Ranveer Sandhu;Sarah Klym;Sze Nga Lee;Thena Tak;Thomas Gaudin,38,83.184210526,2.392050609,89.0,77.0,0,0,0,0,0,0,0,2,26,10,0,,,
+UBCV,2021,W,DES,212,,001,Design Media II,Prashi Malik;Sarah Klym;Zhao Qi Wang,56,85.696428571,4.58820481,93.0,72.0,0,0,0,0,0,0,2,2,13,26,13,,,
+UBCV,2021,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy Mclintock;Thena Tak,38,83.2,,89.0,77.0,,,,,,,,,26,10,,83.0,84.8,82.0
+UBCV,2022,W,ARCH,515,,001,Design Media I,Thomas Gaudin;Sarah Klym,38,83.1,,88.0,63.0,0,0,0,1,0,0,1,2,17,17,0,84.0,86.0,81.3
+UBCV,2022,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy McLintock,39,83.7,,92.0,74.0,0,0,0,0,0,0,1,5,19,11,3,84.0,86.5,80.5
+UBCV,2022,W,DES,212,,001,Design Media II,Sarah Klym,52,85.1,,93.0,72.0,0,0,0,0,0,0,1,1,19,21,10,85.0,88.0,82.8
+UBCV,2023,W,ARCH,515,,001,Design Media I,Thomas Gaudin;Sarah Klym,44,85.33,,91.0,78.0,0,0,0,0,0,0,0,3,12,23,5,85.0,87.0,83.5
+UBCV,2023,W,ARCH,517,,001,Design Media II,Thomas Gaudin;Sarah Klym;Guy McLintock,42,85.14,,90.0,79.0,0,0,0,0,0,0,0,1,16,24,1,85.0,87.0,84.0
+UBCV,2023,W,DES,212,,201,Design Media II,Sarah Klym,62,85.47,,91.0,72.0,0,0,0,0,0,0,2,3,10,31,16,85.0,89.5,85.0

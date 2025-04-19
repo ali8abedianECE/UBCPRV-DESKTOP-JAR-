@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,NAME,502,,201,ADV SHIP HYDRDYN,"Greenwood, Richard;Mikkelsen, Jon",15,81.8,6.64,93,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,2,3
+UBC,2018,W,NAME,566,,201,SHIP DYNM CONTRL,"Greenwood, Richard;Ostafichuk, Peter",17,79.76,8.51,97,64,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,5,2,2,3
+UBCV,2018,W,NAME,502,,201,Advanced Ship Hydrodynamics,Jon Mikkelsen;Richard Greenwood,15,81.8,6.635402884,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,3,5,2,3
+UBCV,2018,W,NAME,566,,201,Ship Dynamics and Control,Peter Ostafichuk;Richard Greenwood,21,77.857142857,8.96819778,97.0,62.0,,,,,,,,,,,0,0,0,1,2,0,5,6,2,2,3

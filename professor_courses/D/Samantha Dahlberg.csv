@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,103,,208,INT CALC AP LF S,"Dahlberg, Samantha",79,66.4,14.59,97,18,68,7,2,0,1,0,1,0,1,5,7,8,9,6,10,5,10,5,7,3,5
+UBC,2016,W,MATH,103,,209,INT CALC AP LF S,"Dahlberg, Samantha",119,66.17,15.75,93,18,100,16,2,0,1,0,1,0,7,8,16,12,12,9,8,12,10,9,10,14,4
+UBC,2016,W,MATH,220,,102,MATH PROOF,"Dahlberg, Samantha",69,66.52,13.72,98,32,64,5,0,0,0,0,0,0,4,1,5,6,9,6,10,6,12,6,3,3,3
+UBC,2016,W,MATH,220,,104,MATH PROOF,"Dahlberg, Samantha",63,60.58,13.34,88,27,54,8,0,0,1,0,0,3,1,4,8,9,8,12,8,6,3,2,4,2,0
+UBC,2017,W,MATH,103,,209,INT CALC AP LF S,"Dahlberg, Samantha",118,66.8,15.05,100,22,103,6,4,0,5,0,0,3,1,2,6,12,19,10,11,15,10,2,7,9,8
+UBC,2017,W,MATH,103,,212,INT CALC AP LF S,"Dahlberg, Samantha",134,73.47,15.63,100,20,126,7,0,0,1,0,0,1,1,5,7,10,9,9,8,14,11,14,16,13,22
+UBC,2017,W,MATH,200,,103,CALCULUS 3,"Dahlberg, Samantha",102,68.52,14.03,97,25,91,9,2,0,0,0,0,1,0,8,9,10,7,6,8,13,17,8,11,3,8
+UBC,2017,W,MATH,200,,104,CALCULUS 3,"Dahlberg, Samantha",111,65.64,14.12,91,16,94,10,6,0,1,0,1,2,2,5,10,9,14,9,9,16,10,10,10,5,2
+UBCV,2016,W,MATH,103,,208,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,77,65.74025974,14.97137848,97.0,18.0,,,,,,,,,,,9,8,9,6,10,5,10,5,7,3,5
+UBCV,2016,W,MATH,103,,209,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,117,65.60683761,16.83538825,93.0,0.0,,,,,,,,,,,17,12,12,9,8,12,10,9,10,14,4
+UBCV,2016,W,MATH,220,,102,Mathematical Proof,Jingyi Chen;Samantha Dahlberg,69,66.52173913,13.71732341,98.0,32.0,,,,,,,,,,,5,6,9,6,10,6,12,6,3,3,3
+UBCV,2016,W,MATH,220,,104,Mathematical Proof,Jingyi Chen;Samantha Dahlberg,63,59.87301587,14.37122131,88.0,16.0,,,,,,,,,,,9,9,8,12,8,6,3,2,4,2,0
+UBCV,2017,W,MATH,103,,209,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,114,64.552631579,18.423768846,100.0,0.0,,,,,,,,,,,11,12,19,10,11,15,10,2,7,9,8
+UBCV,2017,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,134,72.917910448,16.815696439,100.0,0.0,,,,,,,,,,,8,10,9,9,8,14,11,14,16,13,22
+UBCV,2017,W,MATH,200,,103,Calculus III,Albert Chau;Jieliang Hong;Samantha Dahlberg,100,68.52,14.029175948,97.0,25.0,,,,,,,,,,,9,10,7,6,8,13,17,8,11,3,8
+UBCV,2017,W,MATH,200,,104,Calculus III,Albert Chau;Jieliang Hong;Samantha Dahlberg,105,65.19047619,14.798710468,91.0,16.0,,,,,,,,,,,11,9,14,9,9,16,10,10,10,5,2

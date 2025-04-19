@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,S,EECE,380,,941,ELEC ENG STUDIO,"Grecu, Cristian Sorin;Mousavifar, Seyed Ali;Noel, Adam",8,84.63,10.54,98,64,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,4,,,
+UBCV,2015,S,EECE,380,,941,Electrical Engineering Design Studio,Adam Noel;Cristian Sorin Grecu;Seyed Ali Mousavifar,8,84.625,10.54158432,98.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2020,W,CPEN,333,,102,System Software Engineering,Seyed Ali Mousavifar;Shan Lu,18,78.888888889,11.871314358,95.0,53.0,,,,,,,,,,,0,1,0,0,2,2,2,2,3,1,5,,,
+UBCV,2021,W,CPEN,333,,101,System Software Engineering,Geetika Batta;Nguyen Nhat Minh To;Parisa Abolfath Beygi Dezfouli;Rafiuzzaman Mohammad;Seyed Ali Mousavifar;Yingao Yao,132,79.325757576,7.325054998,94.0,55.0,,,,,,,,,,,0,0,2,3,5,10,10,32,42,17,11,,,
+UBCV,2021,W,CPEN,333,,101,System Software Engineering,Seyed Ali Mousavifar,132,79.5,,94.0,55.0,,,,,,,,,,,,,,,,9,10,32,42,18,11,80.0,84.0,77.0

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,ENGR,417,,201,Pipeline Integrity Management,Raja Saravana K Selvakumar;Raja Selvakumar;Zheng Liu,66,88.545454545,4.507026371,99.0,74.0,0,0,0,0,0,0,,,7,27,30,,,
+UBCO,2015,W,ENGR,489,,101,Multicriteria Optimization and Design of Experiments,Gizachew Ababu Demissie;Raja Selvakumar;Zheng Liu,42,88.238095238,12.532512885,100.0,40.0,,,,,,,,,,5,27,,,
+UBCO,2015,W,ENGR,589,,101,Multicriteria Optimization and Design of Experiments,Zheng Liu,20,93.3,5.222421298,99.0,80.0,0,0,0,0,0,0,0,0,,,16,,,
+UBCO,2016,W,APSC,254,,201,Instrumentation and Data Analysis,Gizachew Ababu Demissie;Mohammad Paknahad;Ty Bereskie;Zheng Liu,131,69.30534351,11.29049507,99.0,1.0,2,7,11,15,17,22,20,17,12,5,3,,,
+UBCO,2016,W,ENGR,417,,201,Pipeline Integrity Management,Raja Selvakumar;Zheng Liu,91,88.52747253,3.919582345,97.0,77.0,0,0,0,0,0,0,0,3,8,46,34,,,
+UBCO,2016,W,ENGR,526,,001,Multi-Sensor Data Fusion: System Architecture and Applications,Zheng Liu,10,93.2,4.211096453,100.0,86.0,0,0,0,0,0,0,0,0,0,2,8,,,
+UBCO,2017,W,APSC,254,,201,Instrumentation and Data Analysis,Bradley A Reinholz;Bradley Reinholz;Charles Rockson;Chen Feng;Damilola Ife-Abidakun;Fang Shi;Junchi Bin;Meng-Kai Lee;Pouria Mehrabi;Yonghui Lu;Zheng Liu,159,76.949685535,12.121640206,100.0,27.0,3,3,8,5,11,11,19,26,27,29,17,,,
+UBCO,2017,W,APSC,254,,202,Instrumentation and Data Analysis,Bradley A Reinholz;Bradley Reinholz;Charles Rockson;Chen Feng;Damilola Ife-Abidakun;Fang Shi;Junchi Bin;Meng-Kai Lee;Pouria Mehrabi;Yonghui Lu;Zheng Liu,137,75.240875912,11.89075614,94.0,18.0,4,3,7,6,7,12,23,19,30,15,11,,,
+UBCO,2017,W,ENGR,417,,201,Pipeline Integrity Management,Xiang Peng;Zheng Liu,122,84.196721311,6.646492077,96.0,51.0,0,1,0,0,0,3,6,11,34,42,25,,,
+UBCO,2017,W,ENGR,489,,101,Multicriteria Optimization and Design of Experiments,Ngandu Balekelayi;Peyman Yousefi;Zheng Liu,62,85.483870968,8.348440387,100.0,62.0,0,0,0,2,0,1,4,6,13,12,24,,,
+UBCO,2017,W,ENGR,589,,101,Multicriteria Optimization and Design of Experiments,Abbas Sadeghzadeh Milani;Ngandu Balekelayi;Peyman Yousefi;Zheng Liu,45,92.844444444,4.612017679,100.0,76.0,0,0,0,0,0,0,0,1,2,5,37,,,
+UBCO,2018,W,APSC,254,,202,Instrumentation and Data Analysis,Chengkai Zhang;Jianyu Niu;Maryam Sadeghi;Peyman Yousefi;Uchenna Anyaoha;Xiang Peng;Yuwei Guo;Zheng Liu,173,76.757225434,10.808535459,98.0,38.0,1,3,5,9,12,17,22,28,29,19,28,,,
+UBCO,2018,W,ENGR,417,,201,Pipeline Integrity Management,Xiang Peng;Zheng Liu,87,82.885057471,6.586500089,97.0,64.0,0,0,0,0,3,0,6,14,24,25,15,,,
+UBCO,2018,W,ENGR,526,,101,Multi-Sensor Data Fusion: System Architecture and Applications,Zheng Liu,12,92.0,5.099019514,100.0,80.0,0,0,0,0,0,0,0,0,1,1,10,,,
+UBCO,2018,W,ENGR,589,,101,Multicriteria Optimization and Design of Experiments,Abbas Sadeghzadeh Milani;Armin Rashidi;Zheng Liu,23,87.869565217,4.760675542,95.0,78.0,0,0,0,0,0,0,0,1,3,8,11,,,
+UBCO,2019,W,APSC,254,,202,Instrumentation and Data Analysis,Amirhossein Zaji;Hammad Ahmad;Junchi Bin;Maryam Sadeghi;Peyman Yousefi;Teng Wang;Xiang Peng;Xueyang Song;Yue Zhang;Zheng Liu,152,76.328947368,11.650982004,97.0,24.0,3,5,3,10,9,17,12,20,29,30,14,,,
+UBCO,2019,W,ENGR,417,,201,Pipeline Integrity Management,Hassan Iqbal;Peyman Yousefi;Teng Wang;Zheng Liu,116,87.077586207,7.519425119,98.0,45.0,1,0,0,0,0,3,3,8,21,28,52,,,
+UBCO,2019,W,ENGR,598,W,001,Topics in Engineering,Zheng Liu,7,95.0,5.0,100.0,90.0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCO,2020,S,ENGR,598,T,001,Topics in Engineering,Zheng Liu,7,97.857142857,3.933978962,100.0,90.0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCO,2020,W,APSC,254,,202,Instrumentation and Data Analysis,Amirhossein Zaji;Hammad Ahmad;Junchi Bin;Kianasadat Mirshahidi;Maryam Sadeghi;Nicholas Swart;Xiang Peng;Xueyang Song;Yue Zhang;Zheng Liu,191,79.240837696,9.557835437,98.0,30.0,1,2,2,4,13,15,21,31,37,46,19,,,
+UBCO,2020,W,ENGR,417,,201,Pipeline Integrity Management,Rakiba Rayhana;Zheng Liu,97,87.041237113,7.0650512,96.0,35.0,1,0,0,0,0,1,0,5,13,43,34,,,
+UBCO,2020,W,ENGR,424,,001,Smart Cities,Rakiba Rayhana;Zheng Liu,61,92.721311475,3.665747525,99.0,83.0,0,0,0,0,0,0,0,0,2,7,52,,,
+UBCO,2020,W,ENGR,526,,001,Multi-Sensor Data Fusion: System Architecture and Applications,Zheng Liu,14,94.642857143,2.790289284,99.0,90.0,0,0,0,0,0,0,0,0,0,0,14,,,
+UBCO,2021,W,APSC,254,,202,Instrumentation and Data Analysis,Amirhossein Zaji;Debangsha Sarkar;Hammad Ahmad;Junchi Bin;Rakiba Rayhana;Ran Zhang;Teng Wang;Yue Zhang;Zheng Liu,197,78.401015228,12.193449186,100.0,13.0,3,3,5,10,10,17,18,24,44,33,30,,,
+UBCO,2021,W,ENGR,417,,201,Pipeline Integrity Management,Peyman Yousefi;Rakiba Rayhana;Zheng Liu,60,85.883333333,6.112204148,95.0,63.0,0,0,0,1,0,2,2,0,12,29,14,,,
+UBCO,2021,W,ENGR,424,,001,Smart Cities,Rakiba Rayhana;Zheng Liu,133,92.894736842,5.762027155,98.0,47.0,1,0,0,0,0,1,1,1,1,10,118,,,
+UBCO,2021,W,APSC,254,,202,Instrumentation and Data Analysis,Zheng Liu,197,78.4,,100.0,13.0,,,,10,10,17,18,24,44,33,30,80.0,86.0,73.0
+UBCO,2021,W,ENGR,424,,001,Smart Cities,Zheng Liu,133,92.9,,98.0,47.0,,,,,,,,,,10,118,94.0,95.0,92.0
+UBCO,2022,W,ENGR,424,,001,Smart Cities,Zheng Liu,151,91.5,,98.0,68.0,0,0,0,0,0,2,1,2,4,20,122,92.0,94.0,90.0
+UBCO,2023,W,ENGR,417,,201,Pipeline Integrity Management,Zheng Liu,99,81.1,,94.0,61.0,0,0,0,1,0,3,15,16,37,18,8,81.0,85.0,77.3
+UBCO,2023,W,ENGR,424,,001,Smart Cities,Zheng Liu,109,89.7,,97.0,60.0,0,0,0,2,0,0,0,3,6,29,68,91.0,93.0,88.0

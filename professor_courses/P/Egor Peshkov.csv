@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,PHYS,159,,L2H,Introductory Physics Laboratory for Engineers,Egor Peshkov;Haris Amiri;Jeff Young;Thomas Mattison,50,79.12,7.638890827,87.0,47.0,1,0,0,2,0,3,3,8,25,8,0
+UBCV,2018,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Egor Peshkov;Nicholas Zacchia;Thomas Mattison;Victoria Koelewyn;William H. Mccutcheon,52,89.423076923,6.768862255,97.0,69.0,0,0,0,0,0,1,2,2,5,11,31
+UBCV,2019,W,CPSC,322,,201,Introduction to Artificial Intelligence,Egor Peshkov;Elena Podina;Jordon Johnson;Linzi Xing;Matthew Wilson;Raymond Li;Yu-Hsin Tu,170,81.929411765,10.997351198,100.0,50.0,0,2,3,5,10,11,16,20,27,22,54
+UBCV,2020,S,CPSC,340,,911,Machine Learning and Data Mining,Alireza Shafaei;Egor Peshkov;Farnoosh Javadifishani;Ke Ma;Liron Kurzman;Ming Zhang;Ramya Rao Basava;Shahriar Shayesteh,87,83.103448276,11.657949162,100.0,23.0,1,0,0,2,5,5,6,8,18,16,26

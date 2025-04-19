@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,LLED,361,,923,LIT PRC&ASMT SEC,"Haggerty, John Francis",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,LLED,478,B,952,INTRO TO TESL,"Haggerty, John Francis",26,82.96,6.08,90,60,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,10,8,4
+UBC,2016,W,LLED,452,,63A,DISC LIT INT-SEC,"Haggerty, John Francis",37,80.89,6.98,92,55,37,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,8,11,9,4
+UBC,2017,S,LLED,478,B,952,INTRO TO TESL,"Haggerty, John Francis",27,84.7,3.1,93,78,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,15,1
+UBC,2017,W,LLED,452,,63A,DISC LIT INT-SEC,"Haggerty, John Francis",26,83.46,4.24,90,71,24,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,10,11,1
+UBC,2017,W,LLED,478,B,002,INTRO TO TESL,"Haggerty, John Francis",35,82.43,6.98,90,47,34,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,13,15,1
+UBC,2018,S,LLED,367,,951,TEACHING WRITING,"Haggerty, John Francis",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,452,,63A,DISC LIT INT-SEC,"Haggerty, John Francis",23,83.26,5.48,95,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,9,4,4
+UBCV,2016,S,LLED,478,B,952,Introduction to Teaching English as a Second Language,John Francis Haggerty;John Haggerty,26,82.96153846,6.076056413,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,3,10,8,4
+UBCV,2016,W,LLED,452,,63A,Disciplinary Literacies: Intermediate Through Secondary,John Francis Haggerty;John Haggerty,37,80.89189189,6.979270034,92.0,55.0,,,,,,,,,,,0,0,1,0,0,1,3,8,11,9,4
+UBCV,2017,S,LLED,478,B,952,Introduction to Teaching English as a Second Language,John Francis Haggerty;John Haggerty,27,84.703703704,3.098570574,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,15,1
+UBCV,2017,W,LLED,452,,63A,Disciplinary Literacies: Intermediate Through Secondary,John Francis Haggerty;John Haggerty,24,83.458333333,4.242427183,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,10,11,1
+UBCV,2017,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,John Francis Haggerty;John Haggerty,35,82.428571429,6.984376322,90.0,47.0,,,,,,,,,,,1,0,0,0,0,0,0,5,13,15,1
+UBCV,2018,W,LLED,452,,63A,Disciplinary Literacies: Intermediate Through Secondary,John Francis Haggerty;John Haggerty,23,83.260869565,5.479029371,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,4,9,4,4

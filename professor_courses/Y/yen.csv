@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHYS,505,,001,NUCLEAR PHYSICS,"Yen, Stanley",4,81.75,7.32,92,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1
+UBC,2003,W,COMM,491,,205,STRATEGIC MANGMT,"Yen, Shih-Wei",27,76.93,5.8,88,66,27,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,6,5,4,0
+UBC,2012,W,PHYS,505,,101,NUCLEAR PHYSICS,"Yen, Stanley",11,84.36,9.54,97,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,2,4
+UBC,2014,W,PHYS,505,,101,NUCLEAR PHYSICS,"Bacca, Sonia;Yen, Stanley",14,82.57,5.05,92,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,4,1
+UBC,2015,W,DENT,524,,001,CR-FC GRWTH&DEV,"Richman, Joy Marion;Yen, Edwin H",8,85.75,4.53,93,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1
+UBC,2015,W,DENT,565,,001,BIOMEC CR-FAC I,"Chen, Hui;Pliska, Benjamin;Yen, Edwin H",4,90,0,90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2015,W,DENT,566,,001,BIOMEC CR-FAC II,"Chen, Hui;Yen, Edwin H",5,85.4,0.89,87,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2015,W,DENT,568,,001,ORTH&CR-FAC II,"Pliska, Benjamin;Sonya, Dorothy;Yen, Edwin H",5,77.2,5.26,81,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0
+UBC,2015,W,DENT,771,,001,ORTH&DENT CLN I,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,DENT,772,,001,ORTH&DENT CLN II,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,524,,001,CR-FC GRWTH&DEV,"Richman, Joy Marion;Yen, Edwin H",8,84.63,3.25,89,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0
+UBC,2016,W,DENT,565,,001,BIOMEC CR-FAC I,"Chen, Hui;Pliska, Benjamin;Yen, Edwin H",4,85.5,1,86,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2016,W,DENT,566,,001,BIOMEC CR-FAC II,"Chen, Hui;Yen, Edwin H",4,87,0,87,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2016,W,DENT,568,,001,ORTH&CR-FAC II,"Pliska, Benjamin;Sonya, Dorothy;Yen, Edwin H",4,80.5,1.73,82,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+UBC,2016,W,DENT,771,,001,ORTH&DENT CLN I,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,772,,001,ORTH&DENT CLN II,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,PHYS,505,,101,NUCLEAR PHYSICS,"Yen, Stanley",4,83.75,2.5,85,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2017,W,DENT,430,,001,DENT III ICD,"Brondani, Mario;Carswell, Denise;Ekk, Jodi;Garcia Fulle De Owen, Maria Is;Lin, James;MacDonald, David;Matthew, Ian;Nguyen, Caroline;Richman, Joy Marion;Whitney, Eli;Yen, Edwin H",46,79.22,2.34,85,72,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,19,23,1,0
+UBC,2017,W,DENT,524,,001,CR-FC GRWTH&DEV,"Richman, Joy Marion;Yen, Edwin H",10,88.1,2.28,91,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3
+UBC,2017,W,DENT,565,,001,BIOMEC CR-FAC I,"Chen, Hui;Pliska, Benjamin;Yen, Edwin H",5,87,2.35,89,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2017,W,DENT,566,,001,BIOMEC CR-FAC II,"Chen, Hui;Yen, Edwin H",5,86.4,1.52,88,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2017,W,DENT,568,,001,ORTH&CR-FAC II,"Pliska, Benjamin;Sonya, Dorothy;Yen, Edwin H",4,79.25,0.96,80,78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+UBC,2017,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,DENT,440,,001,DENTISTRY lV,"Brondani, Mario;Carswell, Denise;Garcia Fulle De Owen, Maria Is;Lin, James;MacDonald, David;Matthew, Ian;Pliska, Benjamin;Whitney, Eli;Yen, Edwin H",45,83.2,2.45,87,75,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,28,13,0
+UBC,2018,W,PHYS,505,,101,NUCLEAR PHYSICS,"Holt, Jason Davidson;Yen, Stanley",8,84.75,5.75,92,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,2

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,FOOD,521,,002,ADV FOOD BIOTECH,"Wang, Siyun",7,86,5,94,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,,,
+UBC,2014,W,FOOD,521,,002,ADV FOOD BIOTECH,"Wang, Siyun",14,88.29,2.09,93,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3,,,
+UBC,2015,W,FOOD,521,,002,ADV FOOD BIOTECH,"Wang, Siyun",20,83.7,4.41,91,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,9,1,,,
+UBC,2016,W,FOOD,523,,001,ADV FOOD MICROBI,"Trmcic, Aljosa;Wang, Siyun",11,83.18,6.91,93,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,4,2,,,
+UBC,2017,W,FOOD,523,,001,ADV FOOD MICROBI,"Wang, Siyun",23,82.43,5.58,90,70,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,4,6,4,,,
+UBC,2018,W,FOOD,523,,001,ADV FOOD MICROBI,"Wang, Siyun",28,81.61,6.7,91,65,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,8,6,5,,,
+UBCV,2014,W,FNH,413,,001,Food Safety,Karen Fong;Siyun Wang,27,79.62962963,8.35347992,92.0,61.0,,,,,,,,,,,0,0,0,,,,,,5,10,,,,
+UBCV,2014,W,FOOD,521,,002,Advances in Food Biotechnology,Siyun Wang,14,88.28571429,2.091321681,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,3,,,
+UBCV,2015,W,FNH,413,,001,Food Safety,Huihui Chen;Justin Desmond Falardeau;Justin Falardeau;Siyun Wang,45,81.177777778,6.375695644,93.0,67.0,,,,,,,,,,,0,0,0,0,,,6,7,14,11,,,,
+UBCV,2015,W,FOOD,521,,002,Advances in Food Biotechnology,Siyun Wang,20,83.7,4.414092265,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,7,9,,,,
+UBCV,2016,W,FNH,200,,102,Exploring Our Food,Catherine Wai Yee Wong;Catherine Wong;Huihui Chen;John Dupuis;John Henry Dupuis;Siyun Wang,117,80.1025641,11.81348194,99.0,39.0,,,,,,,,,,,2,1,4,5,5,9,8,13,13,35,22,,,
+UBCV,2016,W,FNH,413,,001,Food Safety,Karen Fong;Siyun Wang;Yue Dai,48,82.8125,5.666836147,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,8,18,11,7,,,
+UBCV,2016,W,FOOD,523,,001,Advances in Food Microbiology,Aljosa Trmcic;Siyun Wang,11,83.18181818,6.911124103,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,1,4,2,,,
+UBCV,2017,W,BIOL,112,,103,Biology of the Cell,Heather Filyk;Jared Taylor;Siyun Wang,271,74.003690037,14.534377678,98.0,0.0,,,,,,,,,,,15,8,13,15,26,27,28,25,45,40,29,,,
+UBCV,2017,W,FNH,200,,102,Exploring Our Food,John Dupuis;John Henry Dupuis;Siyun Wang;Yvonne Ma,77,77.935064935,12.80248502,94.0,28.0,,,,,,,,,,,3,2,0,2,2,8,9,6,16,19,10,,,
+UBCV,2017,W,FNH,413,,001,Food Safety,Karen Fong;Siyun Wang;Yue Dai,51,82.882352941,7.226747702,92.0,51.0,,,,,,,,,,,0,1,0,0,0,2,5,3,15,20,5,,,
+UBCV,2017,W,FOOD,523,,001,Advances in Food Microbiology,Aljosa Trmcic;Siyun Wang,23,82.434782609,5.582652408,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,7,4,6,4,,,
+UBCV,2018,W,FNH,200,,102,Exploring Our Food,Catherine Wai Yee Wong;Catherine Wong;John Dupuis;John Henry Dupuis;Siyun Wang,100,77.23,13.380111126,97.0,8.0,,,,,,,,,,,1,4,4,3,3,9,19,10,17,9,21,,,
+UBCV,2018,W,FNH,413,,001,Food Safety,Karen Fong;Siyun Wang;Yvonne Ma,50,84.14,7.748627265,97.0,66.0,,,,,,,,,,,0,0,0,0,1,4,1,8,7,14,15,,,
+UBCV,2018,W,FOOD,523,,001,Advances in Food Microbiology,Siyun Wang;Thomas Brenner;Thomas Matthew Brenner,28,81.607142857,6.701792384,91.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,4,8,6,5,,,
+UBCV,2019,W,FNH,200,,103,Exploring Our Food,Azita Madadi Noei;Melanie Liu;Negar Karami;Nilanga Aki Bandara;Philip Pui-Li Yen;Philip Yen;Siyun Wang,151,77.59602649,12.165075042,99.0,38.0,,,,,,,,,,,1,8,6,6,7,11,13,16,33,23,27,,,
+UBCV,2019,W,FNH,413,,001,Food Safety,Catherine Wong;Justin Falardeau;Siyun Wang,45,82.422222222,5.86394565,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,3,9,18,10,4,,,
+UBCV,2019,W,FOOD,523,,001,Advances in Food Microbiology,Siyun Wang;Thomas Brenner;Thomas Matthew Brenner,15,86.066666667,4.94926642,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,7,3,,,
+UBCV,2020,W,FNH,200,,104,Exploring Our Food,Justin Falardeau;Siyun Wang;Xiaonan Lu;Yu Tong Lu,122,87.31147541,9.619266108,99.0,44.0,,,,,,,,,,,1,0,0,2,1,4,6,10,12,26,60,,,
+UBCV,2020,W,FNH,413,,001,Food Safety,Catherine Wong;Siyun Wang;Yu Tong Lu,46,84.869565217,4.112899467,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,13,25,5,,,
+UBCV,2020,W,FOOD,523,,001,Advances in Food Microbiology,Siyun Wang;Thomas Brenner,29,87.206896552,3.59939787,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,10,10,,,
+UBCV,2021,W,FNH,200,,104,Exploring Our Food,Bowornnan Chantapakul;Catherine Wong;Siyun Wang,143,87.265734266,9.730850497,98.0,52.0,,,,,,,,,,,0,2,1,1,3,7,6,3,15,29,76,,,
+UBCV,2021,W,FNH,413,,001,Food Safety,Bowornnan Chantapakul;Catherine Wong;Siyun Wang,45,84.266666667,4.988167818,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,4,14,18,5,,,
+UBCV,2021,W,FOOD,523,,001,Advances in Food Microbiology,Siyun Wang;Thomas Brenner,22,86.363636364,5.187397316,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,11,7,,,
+UBCV,2021,W,FOOD,523,,001,Advances in Food Microbiology,Siyun Wang,22,86.4,,92.0,68.0,,,,,,,,,,,,,,,,,,,,11,7,87.0,90.0,85.3
+UBCV,2022,W,FNH,413,,001,Food Safety,Siyun Wang,47,89.4,,97.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,6,5,5,30,92.0,94.0,85.5
+UBCV,2023,W,FNH,200,,104,Exploring Our Food,Siyun Wang,146,92.0,,100.0,44.0,,,,,,,,,,,1,0,0,0,1,0,3,1,9,18,112,94.0,96.0,90.0
+UBCV,2023,W,FNH,413,,001,Food Safety,Siyun Wang,32,85.2,,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,4,5,16,5,86.0,88.3,82.3
+UBCV,2023,W,FOOD,523,,002,Advances in Food Microbiology,Siyun Wang,29,84.1,,91.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,9,15,2,85.0,87.0,83.0

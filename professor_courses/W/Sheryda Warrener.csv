@@ -1,0 +1,87 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,CRWR,401,C,001,WRITING POETRY I,"Warrener, Sheryda",15,89.33,2.99,94,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,,,
+UBC,2014,W,CRWR,201,,001,INTR WRIT POETRY,"Warrener, Sheryda",130,73.3,14.44,91,0,121,7,1,0,0,1,1,1,2,2,7,2,5,6,11,10,20,17,29,17,4,,,
+UBC,2014,W,CRWR,301,A,001,INTRMD POETRY,"Warrener, Sheryda",57,87.28,8.02,99,65,54,0,2,1,0,0,0,0,0,0,0,0,0,0,3,0,1,3,9,13,25,,,
+UBC,2014,W,CRWR,401,A,002,WRITING POETRY I,"Warrener, Sheryda",11,88.9,3.14,93,84,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,,,
+UBC,2014,W,CRWR,401,B,003,WRITING POETRY I,"Warrener, Sheryda",13,89,4.74,95,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6,,,
+UBC,2015,W,CRWR,201,,001,INTR WRIT POETRY,"Warrener, Sheryda",122,73.33,12.17,88,0,114,3,1,2,0,1,1,1,0,0,3,3,1,5,5,16,24,29,24,7,0,,,
+UBC,2015,W,CRWR,201,,002,INTR WRIT POETRY,"Warrener, Sheryda",104,78.71,12.77,93,0,95,4,4,0,0,1,0,0,0,3,4,1,0,3,3,3,10,14,27,26,8,,,
+UBC,2015,W,CRWR,301,A,001,INTRMD POETRY,"Warrener, Sheryda",49,82.19,4.71,90,66,48,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,26,13,2,,,
+UBC,2015,W,CRWR,351,A,001,INTRMD POETRY,"Warrener, Sheryda",21,78.38,19.85,88,0,20,1,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,7,11,0,,,
+UBC,2015,W,CRWR,401,V,002,WRITING POETRY I,"Warrener, Sheryda",15,89.27,3.9,96,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7,,,
+UBC,2016,W,CRWR,201,,001,INTR WRIT POETRY,"Warrener, Sheryda",134,76.05,12.69,91,0,127,5,1,1,0,1,0,1,0,3,5,2,2,4,11,8,12,22,41,22,3,,,
+UBC,2016,W,CRWR,201,,002,INTR WRIT POETRY,"Warrener, Sheryda",166,72.65,10.77,85,25,153,6,4,2,0,0,0,3,2,1,6,2,2,11,14,15,34,37,37,1,0,,,
+UBC,2016,W,CRWR,301,A,001,INTRMD POETRY,"Warrener, Sheryda",60,81.2,13.57,96,18,57,2,1,0,0,0,1,0,1,0,2,1,0,1,1,1,5,10,4,21,13,,,
+UBC,2016,W,CRWR,351,C,001,INTRMD POETRY,"Warrener, Sheryda",12,84.75,2.86,89,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,,,
+UBC,2016,W,CRWR,401,Y,001,WRITING POETRY I,"Warrener, Sheryda",14,87.43,1.5,90,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,,,
+UBC,2016,W,CRWR,401,Z,004,WRITING POETRY I,"Warrener, Sheryda",14,88.14,2.51,94,86,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4,,,
+UBC,2017,W,CRWR,201,,001,INTR WRIT POETRY,"Warrener, Sheryda",131,72.66,17.5,95,0,114,8,5,1,0,4,1,0,0,3,8,2,4,6,9,10,16,17,26,17,7,,,
+UBC,2017,W,CRWR,301,,001,INTRMD POETRY,"Warrener, Sheryda",60,77.23,11.24,92,35,55,1,2,0,0,0,0,0,1,0,1,2,2,2,3,1,6,8,17,12,2,,,
+UBC,2017,W,CRWR,351,I,001,INTRMD POETRY,"Warrener, Sheryda",20,86.11,8.66,94,60,19,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,6,9,,,
+UBC,2017,W,CRWR,401,J,003,WRITING POETRY I,"Warrener, Sheryda",14,87.93,3,92,82,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,,,
+UBC,2017,W,CRWR,440,J,002,INTRDIS PROJECTS,"Warrener, Sheryda",16,87.75,2.18,92,84,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,4,,,
+UBC,2017,W,CRWR,501,I,001,ADV POETRY I,"Warrener, Sheryda",12,90.42,2.5,94,84,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,,,
+UBC,2018,W,CRWR,201,,002,INTR WRIT POETRY,"Warrener, Sheryda",170,72.69,18.07,95,0,148,13,5,0,0,3,2,2,1,5,13,7,4,8,12,11,22,17,28,22,17,,,
+UBC,2018,W,CRWR,301,,002,INTRMD POETRY,"Warrener, Sheryda",54,83.85,7.19,91,51,53,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,2,3,7,35,2,,,
+UBC,2018,W,CRWR,351,P,001,INTRMD POETRY,"Warrener, Sheryda",30,86.03,4.86,90,65,30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,22,4,,,
+UBC,2018,W,CRWR,440,Q,004,INTRDIS PROJECTS,"Warrener, Sheryda",7,90.17,3.13,94,87,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2018,W,CRWR,501,P,001,ADV POETRY I,"Warrener, Sheryda",12,90.42,2.43,93,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,,,
+UBCV,2014,W,CRWR,201,,001,Introduction to Writing Poetry,Sheryda Warrener,129,73.37209302,14.40652509,91.0,0.0,,,,,,,,,,,7,,5,6,11,10,20,17,30,17,,,,
+UBCV,2014,W,CRWR,301,A,001,Intermediate Writing Poetry,Claire Matthews;Neema Mawiyoo;Sheryda Warrener,54,87.27777778,8.022178377,99.0,65.0,,,,,,,,,,,0,0,0,0,,,,,9,13,25,,,
+UBCV,2014,W,CRWR,401,A,002,Writing Poetry I,Sheryda Warrener,10,88.9,3.142893218,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,6,,,
+UBCV,2014,W,CRWR,401,B,003,Writing Poetry I,Sheryda Warrener,13,89.0,4.74341649,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,6,,,
+UBCV,2015,W,CRWR,201,,001,Introduction to Writing Poetry,Alessandra Naccarato;Dominique Bernier-Cormier;Sheryda Warrener,119,73.386554622,12.073299609,88.0,0.0,,,,,,,,,,,,,,5,5,16,24,31,24,7,0,,,
+UBCV,2015,W,CRWR,201,,002,Introduction to Writing Poetry,Matthew Walsh;Shaun Robinson;Sheryda Warrener,100,78.75,12.714721445,93.0,0.0,,,,,,,,,,,,,,3,3,3,10,14,28,26,8,,,
+UBCV,2015,W,CRWR,301,A,001,Intermediate Writing Poetry,Alessandra Naccarato;Dominique Bernier-Cormier;Sheryda Warrener,48,82.1875,4.711490029,90.0,66.0,,,,,,,,,,,0,0,0,0,,,,,26,13,,,,
+UBCV,2015,W,CRWR,351,A,001,Intermediate Poetry Workshop,Sheryda Warrener,21,78.380952381,19.84811374,88.0,0.0,,,,,,,,,,,,,,,,,,,7,11,0,,,
+UBCV,2015,W,CRWR,401,V,002,Writing Poetry I,Sheryda Warrener,15,89.266666667,3.899938949,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,7,,,
+UBCV,2016,W,CRWR,201,,001,Introduction to Writing Poetry,Dominique Bernier-Cormier;Meaghan Rondeau;Michael Goertzen;Sheryda Warrener,132,76.0530303,12.6932779,91.0,0.0,,,,,,,,,,,5,2,2,4,11,8,12,22,41,22,3,,,
+UBCV,2016,W,CRWR,201,,002,Introduction to Writing Poetry,Karia Comanda;Meagan Black;Sheryda Warrener,160,72.70625,10.75256113,85.0,25.0,,,,,,,,,,,6,2,2,11,14,15,34,37,38,1,0,,,
+UBCV,2016,W,CRWR,301,A,001,Intermediate Writing Poetry,Sheryda Warrener,59,81.20338983,13.57454471,96.0,18.0,,,,,,,,,,,2,1,0,1,1,1,5,10,4,21,13,,,
+UBCV,2016,W,CRWR,351,C,001,Intermediate Poetry Workshop,Sheryda Warrener,12,84.75,2.864357773,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,0,,,
+UBCV,2016,W,CRWR,401,Y,001,Writing Poetry I,Sheryda Warrener,14,87.42857143,1.504571787,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,2,,,
+UBCV,2016,W,CRWR,401,Z,004,Writing Poetry I,Sheryda Warrener,14,88.14285714,2.507132682,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,4,,,
+UBCV,2017,W,CRWR,201,,001,Introduction to Writing Poetry,Jessica Johns;Selina Boan;Sheryda Warrener,125,72.56,17.304856674,95.0,0.0,,,,,,,,,,,8,2,4,6,10,12,16,17,26,17,7,,,
+UBCV,2017,W,CRWR,301,,001,Intermediate Writing Poetry,Michael Goertzen;Selina Boan;Sheryda Warrener,58,77.24137931,11.217640157,92.0,35.0,,,,,,,,,,,1,2,2,2,4,1,6,8,17,13,2,,,
+UBCV,2017,W,CRWR,351,I,001,Intermediate Poetry Workshop,Sheryda Warrener,19,86.105263158,8.659578748,94.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,0,1,6,9,,,
+UBCV,2017,W,CRWR,401,J,003,Writing Poetry I,Sheryda Warrener,14,87.928571429,2.999084109,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,6,,,
+UBCV,2017,W,CRWR,440,J,002,Interdisciplinary Projects,Sheryda Warrener,16,87.75,2.175622516,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,4,,,
+UBCV,2017,W,CRWR,501,I,001,Advanced Writing of Poetry I,Sheryda Warrener,12,90.416666667,2.503028469,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,11,,,
+UBCV,2018,W,CRWR,201,,002,Introduction to Writing Poetry,Clea Roberts;Erin Kirsh;Sheryda Warrener;Tania De Rozario,164,72.725609756,17.947204858,95.0,0.0,,,,,,,,,,,13,7,4,8,12,11,24,18,28,22,17,,,
+UBCV,2018,W,CRWR,301,,002,Intermediate Writing Poetry,Ian Williams;Olga Holin;Shazia Ramji;Sheryda Warrener,53,83.849056604,7.185445295,91.0,51.0,,,,,,,,,,,0,1,0,0,1,2,2,3,7,35,2,,,
+UBCV,2018,W,CRWR,351,P,001,Intermediate Poetry Workshop,Sheryda Warrener,30,86.033333333,4.859993851,90.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,2,1,22,4,,,
+UBCV,2018,W,CRWR,440,Q,004,Interdisciplinary Projects,Sheryda Warrener,6,90.166666667,3.125166662,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2018,W,CRWR,501,P,001,Advanced Writing of Poetry I,Sheryda Warrener,12,90.416666667,2.429303429,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,8,,,
+UBCV,2019,W,CRWR,201,,002,Introduction to Writing Poetry,Adrian Southin;Amy Higgins;Patrick De Moss;Sheryda Warrener;Tarene Thomas,163,83.766871166,14.471159292,100.0,0.0,,,,,,,,,,,4,0,2,2,5,2,8,3,36,45,56,,,
+UBCV,2019,W,CRWR,301,,002,Intermediate Writing Poetry,Erin Kirsh;Sheryda Warrener;Toby Sharpe,57,83.929824561,8.451245997,97.0,60.0,,,,,,,,,,,0,0,0,3,0,2,3,5,11,17,16,,,
+UBCV,2019,W,CRWR,351,V,001,Intermediate Poetry Workshop,Sheryda Warrener,28,86.107142857,7.558851989,92.0,52.0,,,,,,,,,,,0,1,0,0,0,0,1,0,1,18,7,,,
+UBCV,2019,W,CRWR,401,V,003,Writing Poetry I,Sheryda Warrener,11,88.454545455,2.46429042,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,4,,,
+UBCV,2019,W,CRWR,440,W,004,Interdisciplinary Projects,Sheryda Warrener,10,93.3,2.213594362,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2019,W,CRWR,501,V,001,Advanced Writing of Poetry I,Sheryda Warrener,11,90.454545455,2.978712351,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,10,,,
+UBCV,2020,S,CRWR,401,Y,S02,Writing Poetry I,Sheryda Warrener,10,88.4,1.577621275,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,4,,,
+UBCV,2020,W,CRWR,201,,002,Introduction to Writing Poetry,Erin Kirsh;Jasmine Ruff;Lea Taranto;Sheryda Warrener;Spenser Smith,179,78.553072626,15.977907115,98.0,0.0,,,,,,,,,,,7,0,4,2,8,6,18,25,42,41,26,,,
+UBCV,2020,W,CRWR,301,,002,Intermediate Writing Poetry,Adrian Southin;Sheryda Warrener;Toby Sharpe,59,80.152542373,12.962563549,97.0,13.0,,,,,,,,,,,1,0,2,1,3,2,8,4,10,16,12,,,
+UBCV,2020,W,CRWR,351,A,001,Intermediate Poetry Workshop,Sheryda Warrener,17,83.882352941,11.558991916,95.0,50.0,,,,,,,,,,,0,1,0,0,0,1,2,0,1,3,9,,,
+UBCV,2020,W,CRWR,440,B,002,Interdisciplinary Projects,Sheryda Warrener,10,87.4,2.366431913,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,1,,,
+UBCV,2021,S,CRWR,570,D,D01,Advanced Special Projects in Creative Writing,Sheryda Warrener,12,90.416666667,2.503028469,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2021,W,CRWR,201,,001,Introduction to Writing Poetry,Emma Cleary;Erin Lindsay;Jasmine Ruff;Sheryda Warrener,161,76.366459627,12.922697784,91.0,0.0,,,,,,,,,,,5,1,4,6,8,10,19,33,39,29,7,,,
+UBCV,2021,W,CRWR,301,,002,Intermediate Writing Poetry,Emma Cleary;Jasmine Ruff;Sheryda Warrener,60,84.516666667,15.673027318,98.0,4.0,,,,,,,,,,,2,0,0,2,4,0,2,0,7,13,30,,,
+UBCV,2021,W,CRWR,351,F,001,Intermediate Poetry Workshop,Sheryda Warrener,17,88.294117647,4.011930737,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,7,9,,,
+UBCV,2021,W,CRWR,440,G,002,Interdisciplinary Projects,Sheryda Warrener,8,88.125,3.226563851,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,4,,,
+UBCV,2021,W,CRWR,501,G,002,Advanced Writing of Poetry I,Sheryda Warrener,7,91.428571429,1.511857892,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2021,S,CRWR,570,D,D01,Advanced Special Projects in Creative Writing,Sheryda Warrener,12,90.4,,94.0,86.0,,,,,,,,,,,,,,,,,,,,,10,90.0,92.3,90.0
+UBCV,2021,W,CRWR,201,,001,Introduction to Writing Poetry,Sheryda Warrener,161,76.4,,91.0,0.0,,,,,,,,,,,,,,6,8,10,19,33,39,29,7,79.0,84.0,73.0
+UBCV,2021,W,CRWR,301,,002,Intermediate Writing Poetry,Sheryda Warrener,59,85.9,,98.0,31.0,,,,,,,,,,,,,,,,,,,7,13,30,90.0,92.0,83.0
+UBCV,2021,W,CRWR,351,F,001,Intermediate Poetry Workshop,Sheryda Warrener,17,88.3,,92.0,75.0,,,,,,,,,,,,,,,,,,,,7,9,90.0,90.0,88.0
+UBCV,2021,W,CRWR,440,G,002,Interdisciplinary Projects,Sheryda Warrener,8,88.1,,92.0,82.0,,,,,,,,,,,,,,,,,,,,,,89.0,90.0,87.3
+UBCV,2021,W,CRWR,501,G,002,Advanced Writing of Poetry I,Sheryda Warrener,7,91.4,,92.0,88.0,,,,,,,,,,,,,,,,,,,,,6,92.0,92.0,92.0
+UBCV,2022,S,CRWR,570,I,S01,Advanced Special Projects in Creative Writing,Sheryda Warrener,10,90.4,,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,90.5,91.8,90.0
+UBCV,2022,W,CRWR,201,,002,Introduction to Writing Poetry,Sheryda Warrener,184,81.5,,100.0,0.0,,,,,,,,,,,7,1,3,2,5,6,9,20,38,48,45,85.0,89.0,78.0
+UBCV,2022,W,CRWR,301,,002,Intermediate Writing Poetry,Sheryda Warrener,70,85.5,,98.0,25.0,,,,,,,,,,,1,1,0,0,0,3,3,7,4,22,29,88.0,92.0,82.5
+UBCV,2022,W,CRWR,501,L,002,Advanced Writing of Poetry I,Sheryda Warrener,8,91.3,,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,91.0,92.3,90.0
+UBCV,2023,S,CRWR,440,O,S02,Interdisciplinary Projects,Sheryda Warrener,9,90.44,,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,90.0,92.0,90.0
+UBCV,2023,S,CRWR,570,N,S01,Advanced Special Projects in Creative Writing,Sheryda Warrener,8,89.88,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,7,92.0,92.25,91.0
+UBCV,2023,W,CRWR,201,,002,Introduction to Writing Poetry,Sheryda Warrener,199,78.7,,99.0,0.0,,,,,,,,,,,8,4,3,7,6,11,9,24,34,49,35,83.0,88.0,75.3
+UBCV,2023,W,CRWR,301,,002,Intermediate Writing Poetry,Sheryda Warrener,85,85.2,,97.0,56.0,,,,,,,,,,,0,0,2,0,0,1,8,5,11,24,28,87.0,90.5,81.5
+UBCV,2023,W,CRWR,351,P,001,Intermediate Poetry Workshop,Sheryda Warrener,25,87.5,,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,11,8,88.0,90.0,86.0
+UBCV,2023,W,CRWR,501,P,D03,Advanced Writing of Poetry I,Sheryda Warrener,8,90.4,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,7,90.5,92.0,90.0

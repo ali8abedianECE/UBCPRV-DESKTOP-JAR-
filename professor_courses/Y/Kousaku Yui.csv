@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,PHIL,150,,001,MINDS & MACHINES,"Yui, Kousaku",37,71.19,14.71,90,1,35,1,1,0,0,1,0,0,0,0,1,0,1,4,5,4,7,3,7,3,1
+UBC,2018,S,PHIL,250,,001,MINDS & MACHINES,"Yui, Kousaku",29,74.52,7.95,85,54,21,0,5,0,0,0,0,0,0,0,0,1,0,1,1,4,3,3,7,1,0
+UBCV,2015,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,91,74.538461538,11.283525545,94.0,38.0,,,,,,,,,,,,,8,,6,10,8,17,20,10,5
+UBCV,2015,W,PHIL,150,,001,Minds and Machines,Kousaku Yui,36,71.194444444,14.712131912,90.0,1.0,,,,,,,,,,,,,,,5,,7,3,7,3,1
+UBCV,2015,W,PHIL,220,A,005,Symbolic Logic I,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,87,76.149425287,16.972295302,99.0,14.0,,,,,,,,,,,5,,,6,,,,12,16,14,17
+UBCV,2015,W,PHIL,320,A,001,Symbolic Logic 2,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,23,84.565217391,8.419814762,99.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,6,7
+UBCV,2015,W,PHIL,441,A,002,Philosophy of Perception,Kousaku Yui;Thomas Jacob Bittner,50,72.54,10.74796611,89.0,27.0,,,,,,,,,,,,,,,6,7,16,8,7,,0
+UBCV,2017,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Garson Leder;Kousaku Yui,103,67.941747573,16.936921754,89.0,0.0,,,,,,,,,,,9,0,0,2,14,28,17,23,7,3,0
+UBCV,2017,W,PHIL,220,,001,Symbolic Logic,Jordan Roy Dodd;Kousaku Yui,91,79.516483516,14.389319061,98.0,31.0,,,,,,,,,,,4,4,2,3,6,4,2,9,13,20,24
+UBCV,2018,S,PHIL,250,,001,Minds and Machines,Kousaku Yui,24,75.708333333,8.238188734,89.0,54.0,,,,,,,,,,,0,1,0,1,1,4,3,4,7,3,0
+UBCV,2018,W,PHIL,101,,001,Introduction to Philosophy,Eric Margolis;Kousaku Yui;Richard Andrew Sandlin;Richard Sandlin,118,71.550847458,12.857933437,89.0,0.0,,,,,,,,,,,5,2,4,1,13,18,26,27,19,3,0
+UBCV,2018,W,PHIL,220,,006,Symbolic Logic,Alexandre Korolev;Kousaku Yui,96,76.09375,13.751232002,99.0,0.0,,,,,,,,,,,2,1,5,4,6,10,13,10,19,17,9
+UBCV,2019,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,99,79.232323232,11.294597122,95.0,18.0,,,,,,,,,,,1,2,2,2,5,2,11,17,27,15,15
+UBCV,2019,S,PHIL,250,,001,Minds and Machines,Jasper Heaton;Jelena Markovic;Kousaku Yui,24,80.375,7.155493481,96.0,63.0,,,,,,,,,,,0,0,0,1,0,2,1,6,7,6,1
+UBCV,2019,W,PHIL,120,,99A,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui,100,72.08,10.932926822,88.0,17.0,,,,,,,,,,,2,5,3,5,9,15,15,25,14,7,0
+UBCV,2019,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui,98,80.244897959,11.957882466,98.0,51.0,,,,,,,,,,,0,7,1,3,5,5,7,8,16,23,23
+UBCV,2019,W,PHIL,220,,002,Symbolic Logic,David Robert Gilbert;Kousaku Yui,118,71.669491525,17.036439119,99.0,0.0,,,,,,,,,,,6,9,9,9,13,10,11,13,8,11,19
+UBCV,2019,W,PHIL,220,,004,Symbolic Logic,Alexandre Korolev;Kousaku Yui,65,79.692307692,10.220877954,98.0,44.0,,,,,,,,,,,1,1,2,1,3,3,6,8,20,12,8
+UBCV,2021,W,PHIL,120,,001,Introduction to Critical Thinking,Aleksandra Vujicic;Alexandre Korolev;James Anderson;Kousaku Yui;Leslie Burkholder,127,78.141732283,15.01254735,95.0,11.0,,,,,,,,,,,6,7,4,2,7,4,13,7,17,33,27
+UBCV,2021,W,PHIL,220,A,003,Symbolic Logic,Aleksandra Vujicic;Gerrit Neels;Kousaku Yui;Leslie Burkholder;Serban Dragulin;Sijie Zhang,67,73.611940299,19.552536241,92.0,0.0,,,,,,,,,,,5,3,6,3,2,5,4,7,6,15,11
+UBCV,2021,W,PHIL,220,A,006,Symbolic Logic,Chase Dority;Kousaku Yui;Thomas Jacob Bittner,91,78.417582418,16.595893692,98.0,0.0,,,,,,,,,,,4,2,0,5,3,7,9,9,12,17,23
+UBCV,2021,W,PHIL,220,A,99A,Symbolic Logic,Aleksandra Vujicic;Gerrit Neels;Kousaku Yui;Leslie Burkholder;Serban Dragulin;Sijie Zhang,208,79.860576923,15.638574371,93.0,0.0,,,,,,,,,,,9,1,4,6,5,13,16,16,25,62,51

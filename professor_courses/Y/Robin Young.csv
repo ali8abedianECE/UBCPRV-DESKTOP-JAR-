@@ -1,0 +1,84 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",91,70.6,13.46,95,28,82,5,2,1,1,0,0,1,0,4,5,7,9,6,5,8,11,9,14,10,3,,,
+UBC,2011,W,BIOL,200,,102,FUND CELL BIO,"Young, Robin",5,,,,,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",116,77.58,6.29,89,48,112,1,3,0,0,0,0,0,0,1,1,0,1,0,4,11,15,28,43,10,0,,,
+UBC,2012,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",105,71.59,12.22,96,33,90,8,6,1,0,0,0,0,1,7,8,1,6,4,13,10,13,12,19,11,1,,,
+UBC,2012,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",78,74.77,8.41,92,52,78,0,0,0,0,0,0,0,0,0,0,1,1,4,11,12,12,9,19,8,1,,,
+UBC,2013,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",111,71.05,13.29,94,35,103,7,0,1,0,0,0,0,1,6,7,7,8,9,7,8,18,11,17,14,4,,,
+UBC,2013,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1218,69.34,11.6,92,29,1126,74,10,0,8,0,0,1,7,66,74,46,119,121,93,172,176,129,181,70,19,,,
+UBC,2013,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2013,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",111,72.83,6.57,85,50,109,0,0,0,2,0,0,0,0,0,0,2,2,4,10,26,25,17,22,1,0,,,
+UBC,2014,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",119,67.47,11.35,88,41,108,9,1,0,1,0,0,0,0,9,9,7,9,12,15,25,17,2,13,8,0,,,
+UBC,2014,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1215,71.76,11.75,95,25,1126,73,10,2,4,0,0,1,6,66,73,30,67,92,91,140,189,152,220,111,34,,,
+UBC,2014,W,BIOL,201,,201,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",303,72.46,12.23,94,37,277,20,6,0,0,0,0,0,3,17,20,5,13,24,21,40,35,42,55,28,14,,,
+UBC,2014,W,BIOL,201,,204,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",257,73.56,11.91,94,22,242,9,6,0,0,0,0,1,1,7,9,2,16,25,21,26,40,17,45,31,19,,,
+UBC,2014,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",73,73.32,8.43,90,45,70,1,1,0,0,0,0,0,0,1,1,0,4,2,3,17,18,9,11,5,1,,,
+UBC,2015,W,BIOL,200,,000,FUND CELL BIO,"Young, Robin",1276,73.7,11.57,96,35,1174,95,5,1,1,0,0,0,2,93,95,7,17,76,88,173,154,153,306,150,50,,,
+UBC,2015,W,BIOL,341,,201,INT MOLE BIO LAB,"Chen, Liane;Young, Robin",66,82.26,4.45,92,70,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,13,27,18,3,,,
+UBC,2015,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",51,77.73,7.63,92,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,3,7,10,6,11,11,2,,,
+UBC,2016,S,BIOL,200,,921,FUND CELL BIO,"Young, Robin",122,74.48,9.97,91,45,116,4,2,0,0,0,0,0,0,4,4,3,1,6,4,21,20,18,25,13,5,,,
+UBC,2016,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,BIOL,201,,201,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",289,73.62,12.46,93,31,263,19,5,0,2,0,0,0,4,15,19,5,9,11,24,39,42,27,50,39,17,,,
+UBC,2016,W,BIOL,201,,204,INTRO BIOCHEM,"Jetter, Reinhard;Young, Robin",229,75.38,10.79,97,35,215,5,6,0,3,0,0,0,1,4,5,5,9,9,17,22,30,23,59,27,14,,,
+UBC,2016,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",64,77.56,7.24,90,55,64,0,0,0,0,0,0,0,0,0,0,0,2,0,3,9,8,12,21,8,1,,,
+UBC,2017,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,BIOL,201,,201,INTRO BIOCHEM,"Young, Robin",262,74.8,11.78,93,41,237,16,5,0,1,0,0,0,0,16,16,5,1,12,17,23,37,27,71,29,15,,,
+UBC,2018,W,BIOL,200,,103,FUND CELL BIO,"Young, Robin",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,BIOL,200,,201,FUND CELL BIO,"Roskams, Angela Jane;Young, Robin",250,71.21,11.9,93,29,223,15,3,0,9,0,0,1,3,11,15,10,5,19,24,28,39,28,46,17,7,,,
+UBC,2018,W,BIOL,362,,201,CELLULAR PHYSIO,"Young, Robin",31,73.37,10.94,89,46,28,2,1,0,0,0,0,0,0,2,2,0,2,1,2,2,5,4,10,2,0,,,
+UBCO,2019,W,BIOC,305,,101,Molecular Biochemistry II,Renee Berger;Richard Plunkett;Robin Young;Sarah Orr,84,82.178571429,8.806023013,100.0,61.0,,,,,,,,,,,0,0,0,2,3,4,9,5,29,11,21,,,
+UBCO,2019,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,272,72.709558824,12.2595027,96.0,0.0,,,,,,,,,,,17,7,13,16,22,32,40,32,61,15,17,,,
+UBCO,2019,W,BIOL,200,,001,Cell Biology,Matthew Nelson;Robin Young,35,70.942857143,10.946239905,91.0,46.0,,,,,,,,,,,1,2,3,2,2,6,8,3,3,4,1,,,
+UBCO,2019,W,BIOL,319,,101,Biochemistry II,Renee Berger;Robin Young;Sarah Orr,71,82.309859155,6.879766502,98.0,64.0,,,,,,,,,,,0,0,0,0,2,3,3,11,24,17,11,,,
+UBCO,2019,W,BIOL,363,,001,Developmental Biology,Brendan D'Souza;Jennifer Meineke;Michael Deyholos;Nazli Hassanpour Farshour;Robin Young,60,76.166666667,9.679905215,94.0,55.0,,,,,,,,,,,0,0,3,3,5,8,10,9,8,7,7,,,
+UBCO,2020,S,BIOL,125,,101,Biology for Science Majors II,Antreas Pogiatzis;Dustin Eric Maclean;Dustin Maclean;Keith Jackson;Ken Savage;Robin Young,27,72.703703704,9.134949012,91.0,59.0,,,,,,,,,,,0,0,1,3,4,5,5,2,3,3,1,,,
+UBCO,2020,W,BIOC,305,,101,Molecular Biochemistry II,Kamal Narayana;Lana Puddu;Richard Plunkett;Robin Young,75,86.413333333,8.894415699,98.0,47.0,,,,,,,,,,,1,1,0,0,1,1,3,2,13,24,29,,,
+UBCO,2020,W,BIOL,116,,001,Biology for Science Majors I,David Emde;Robin Young,283,79.671378092,10.904556625,97.0,1.0,,,,,,,,,,,7,0,3,7,8,16,33,31,80,59,39,,,
+UBCO,2020,W,BIOL,116,,002,Biology for Science Majors I,David Emde;Robin Young,261,76.609195402,13.785184066,95.0,1.0,,,,,,,,,,,16,1,9,12,15,15,19,27,70,47,30,,,
+UBCO,2020,W,BIOL,200,,001,Cell Biology,Alyssa Mary Wiebe;Alyssa Wiebe;David Emde;Kamal Narayana;Robin Young,177,72.13559322,12.315166592,96.0,33.0,,,,,,,,,,,13,1,7,13,18,35,18,11,35,14,12,,,
+UBCO,2020,W,BIOL,200,,101,Cell Biology,Alyssa Wiebe;Matthew Nelson;Robin Young;Seamus Mcrae,59,71.627118644,13.669621876,96.0,48.0,,,,,,,,,,,7,4,0,5,4,6,6,5,12,4,6,,,
+UBCO,2020,W,BIOL,319,,101,Biochemistry II,Kamal Narayana;Lana Puddu;Richard Plunkett;Robin Young,81,82.901234568,8.4047679,96.0,56.0,,,,,,,,,,,0,0,2,2,1,2,6,9,16,31,12,,,
+UBCO,2020,W,BIOL,363,,001,Developmental Biology,Robin Young;Stephanie Tobin,84,74.619047619,12.51592216,95.0,42.0,,,,,,,,,,,4,2,3,4,11,11,5,13,11,9,11,,,
+UBCO,2021,S,BIOL,116,,001,Biology for Science Majors I,Melody Sayrany;Robin Young,34,76.235294118,13.751162647,97.0,22.0,,,,,,,,,,,2,0,0,1,1,6,4,4,8,5,3,,,
+UBCO,2021,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,266,76.845864662,11.704325994,97.0,0.0,,,,,,,,,,,7,1,6,12,16,30,37,29,60,40,28,,,
+UBCO,2021,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,284,79.464788732,9.963297999,97.0,20.0,,,,,,,,,,,8,0,4,5,7,17,35,27,92,60,29,,,
+UBCO,2021,W,BIOL,200,,001,Cell Biology,Emre Demirsoy;Robin Young,144,70.708333333,14.101963857,94.0,30.0,,,,,,,,,,,25,1,2,7,13,17,21,14,17,17,10,,,
+UBCO,2021,W,BIOL,200,,101,Cell Biology,Hephzibah Bomide;Namanpreet Lamba;Robin Young,134,70.134328358,15.021684098,96.0,38.0,,,,,,,,,,,28,2,3,7,9,17,12,9,19,20,8,,,
+UBCO,2021,W,BIOL,363,,001,Developmental Biology,Emmanuel Osei;Robin Young,57,71.428571429,12.090352492,96.0,31.0,,,,,,,,,,,4,0,4,5,4,8,7,12,6,3,3,,,
+UBCV,2014,S,BIOL,200,,921,Fundamentals of Cell Biology,Robin Young,118,67.12711864,11.89954148,88.0,27.0,,,,,,,,,,,10,7,9,12,15,25,17,2,13,8,0,,,
+UBCV,2014,W,BIOL,200,,000,Fundamentals of Cell Biology,Robin Young,1203,71.599335,12.05260514,95.0,18.0,,,,,,,,,,,77,30,67,92,91,140,189,152,220,111,34,,,
+UBCV,2014,W,BIOL,201,,201,Introduction to Biochemistry,Reinhard Jetter;Robin Young,297,72.46464647,12.229489,94.0,37.0,,,,,,,,,,,20,5,13,24,21,40,35,42,55,28,14,,,
+UBCV,2014,W,BIOL,201,,204,Introduction to Biochemistry,Reinhard Jetter;Robin Young,251,73.55776892,11.91401064,94.0,22.0,,,,,,,,,,,9,2,16,25,21,26,40,17,45,31,19,,,
+UBCV,2014,W,BIOL,362,,201,Cellular Physiology,Robin Young,73,72.39726027,10.51155413,90.0,20.0,,,,,,,,,,,,,5,,,17,18,9,11,5,,,,
+UBCV,2015,W,BIOL,200,,000,Fundamentals of Cell Biology,Adam Mulvihill;Aimee Laporte;Ali Farrokhi;Chia-Lu Chen;Doug Robert Brown;Eva Chou;Gillian Fuss;Greg Gavelis;Katelyn Low;Kevin Lyon;Lauren Elizabeth Dalton;Paul George Kapos;Paul Kapos;Ravi Maharaj;Robin Young;Samuel Livingston;Wesley Gerelle;Wesley Kirk Gerelle;Xiang Lin;Yi-Chen Lee;Yoichiro Watanabe;Yuan Xiong,1270,73.649606299,11.678685967,96.0,16.0,,,,,,,,,,,96,7,17,76,88,173,154,153,306,150,50,,,
+UBCV,2015,W,BIOL,341,,201,Introductory Molecular Biology Laboratory,Liane Chen;Maria Chiara Toselli;Maria Toselli;Min Jung Kwon;Robin Young;Sohrab Bahrami-Manesh;Yeung ( Wallace) Cheung,66,82.257575758,4.452520828,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,4,13,27,18,3,,,
+UBCV,2015,W,BIOL,362,,201,Cellular Physiology,Miranda J Meents;Miranda Meents;Robin Young,51,77.725490196,7.634339346,92.0,55.0,,,,,,,,,,,0,0,,,,7,10,6,11,11,,,,
+UBCV,2016,S,BIOL,200,,921,Fundamentals of Cell Biology,Chia-Lu Chen;Kevin Lyon;Robin Young;Sandra Keerthsinghe,120,74.48333333,9.967158958,91.0,45.0,,,,,,,,,,,4,3,1,6,4,21,20,18,25,13,5,,,
+UBCV,2016,W,BIOL,200,,000,Fundamentals of Cell Biology,Robin Young,1237,75.6734034,11.43420941,96.0,8.0,,,,,,,,,,,56,26,13,56,61,150,154,121,320,218,62,,,
+UBCV,2016,W,BIOL,201,,201,Introduction to Biochemistry,Amelia Hunter;Christina Rose Tysoe;Francisco Benitez De La Fuente;Le Tam Nhan Nguyen;Nolan Jack Shelley;Nolan Shelley;Rebecca Wai Yin Ko;Reinhard Jetter;Robin Young;Sravya Paluri;Stephanie Cheung;Stephanie Tran,284,73.22535211,13.32915419,93.0,3.0,,,,,,,,,,,21,5,9,11,24,39,42,27,50,39,17,,,
+UBCV,2016,W,BIOL,201,,204,Introduction to Biochemistry,Amelia Hunter;Christina Rose Tysoe;Francisco Benitez De La Fuente;Le Tam Nhan Nguyen;Nolan Jack Shelley;Nolan Shelley;Rebecca Wai Yin Ko;Reinhard Jetter;Robin Young;Sravya Paluri;Stephanie Tran,223,74.48430493,13.27120012,97.0,0.0,,,,,,,,,,,8,5,9,9,17,22,30,23,59,27,14,,,
+UBCV,2016,W,BIOL,362,,201,Cellular Physiology,Robin Young;Yoichiro Watanabe,64,77.5625,7.243771271,90.0,55.0,,,,,,,,,,,0,0,2,0,3,9,8,12,21,8,1,,,
+UBCV,2017,W,BIOL,200,,000,Fundamentals of Cell Biology,Alberto Delaidelli;Amelia Hunter;Anne Kim;Elizabeth Cooney;Francisco Benitez De La Fuente;Karen Thulasi Devendrakumar;Karlson Pang;Katherine Cheung;Maria Jianrong Zhu;Meng Li;Natalie Hoffmann;Robin Young;Samantha Burugu;Samuel Livingston;Sara Tasnim;Sravya Paluri;Stephanie Tran;Wesley Gerelle;Wesley Kirk Gerelle;Yi-Chen Lee;Yulin Sun,1327,76.31801055,11.718023128,98.0,20.0,,,,,,,,,,,79,11,16,38,91,132,138,148,308,267,99,,,
+UBCV,2017,W,BIOL,201,,201,Introduction to Biochemistry,Francisco Benitez De La Fuente;Le Tam Nhan Nguyen;Meng Li;Mopelola Akinlaja;Rebecca Wai Yin Ko;Robin Young;Samuel Livingston;Sara Tasnim;Stephanie Cheung,257,74.389105058,12.455716793,93.0,13.0,,,,,,,,,,,18,5,1,12,18,24,37,27,71,29,15,,,
+UBCV,2017,W,BIOL,201,,203,Introduction to Biochemistry,Francisco Benitez De La Fuente;Jared Taylor;Le Tam Nhan Nguyen;Meng Li;Mopelola Akinlaja;Rebecca Wai Yin Ko;Robin Young;Samuel Livingston;Sara Tasnim;Stephanie Cheung,159,77.534591195,11.528599481,98.0,39.0,,,,,,,,,,,4,4,3,5,11,21,10,18,35,22,26,,,
+UBCV,2017,W,BIOL,201,,204,Introduction to Biochemistry,Francisco Benitez De La Fuente;Lauren Elizabeth Dalton;Le Tam Nhan Nguyen;Meng Li;Mopelola Akinlaja;Rebecca Wai Yin Ko;Robin Young;Samuel Livingston;Sara Tasnim;Stephanie Cheung,256,76.8515625,11.850102899,94.0,35.0,,,,,,,,,,,8,9,5,13,9,21,29,33,59,40,30,,,
+UBCV,2018,W,BIOL,200,,000,Fundamentals of Cell Biology,Alberto Delaidelli;Arezoo Alemzadeh Mehrizi;Busra Turgu;Donald Kanhonn Wong;Donald Wong;Freddy Abelanjo Francis;Freddy Francis;Jacky Kieran Leung;Jan Xue;Jasem Estakhr;Jens Vent Schmidt;Katelyn Hudak;Robin Young;Samantha Burugu;Sofya Langman;Solveig Lillith Van Wersch;Solveig Van Wersch;Wesley Gerelle;Wesley Kirk Gerelle;Yang Liu;Yuan Xiong,1140,72.510526316,12.487214662,96.0,5.0,,,,,,,,,,,92,6,40,74,81,135,153,150,234,142,33,,,
+UBCV,2018,W,BIOL,200,,201,Fundamentals of Cell Biology,Angela Jane Roskams;Jack Bacon;Jack Victor Warren Bacon;Jacky Kieran Leung;Natalie Hoffmann;Robin Young;Sofya Langman,244,70.512295082,13.359690479,93.0,2.0,,,,,,,,,,,18,10,5,19,24,30,40,28,46,17,7,,,
+UBCV,2018,W,BIOL,362,,201,Cellular Physiology,Robin Young;Samuel Livingston,30,73.366666667,10.937071831,89.0,46.0,,,,,,,,,,,2,0,2,1,2,2,5,4,10,2,0,,,
+UBCO,2021,S,BIOL,116,,001,Biology for Science Majors I,Robin Young,34,76.2,,97.0,22.0,,,,,,,,,,,,,,,,6,,,8,,,78.0,84.0,71.0
+UBCO,2021,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,265,77.1,,97.0,14.0,,,,,,,,,,,6,1,6,12,16,30,37,29,60,40,28,78.0,85.0,70.0
+UBCO,2021,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,284,79.5,,97.0,20.0,,,,,,,,,,,8,,,,7,17,35,27,92,60,29,81.0,86.0,75.0
+UBCO,2021,W,BIOL,200,,001,Cell Biology,Robin Young,144,70.7,,94.0,30.0,,,,,,,,,,,25,,,7,13,17,21,14,17,17,10,73.0,81.3,64.0
+UBCO,2021,W,BIOL,200,,101,Cell Biology,Robin Young,133,70.5,,96.0,38.0,,,,,,,,,,,26,,,7,9,17,12,10,19,20,8,73.0,83.0,62.0
+UBCO,2022,S,BIOL,116,,001,Biology for Science Majors I,Robin Young,12,68.4,,91.0,49.0,,,,,,,,,,,4,0,0,0,0,1,2,1,3,0,1,74.0,80.0,49.0
+UBCO,2022,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,348,73.8,,95.0,0.0,,,,,,,,,,,40,0,6,7,15,40,44,44,89,50,13,77.0,82.0,70.0
+UBCO,2022,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,141,76.0,,97.0,49.0,,,,,,,,,,,16,0,1,2,2,13,22,23,21,24,17,77.0,85.0,72.0
+UBCO,2022,W,BIOL,200,,001,Cell Biology,Robin Young,140,70.7,,95.0,43.0,,,,,,,,,,,18,1,5,12,12,23,16,12,23,13,5,71.0,80.0,63.0
+UBCO,2022,W,BIOL,200,,101,Cell Biology,Robin Young,151,72.7,,92.0,30.0,,,,,,,,,,,12,0,4,6,21,26,15,20,26,15,6,73.0,81.0,67.0
+UBCO,2022,W,BIOL,420,N,101,Special Topics in Biology,Robin Young,26,87.6,,98.0,30.0,,,,,,,,,,,1,0,0,0,0,0,1,1,0,8,15,90.0,95.0,85.0
+UBCO,2022,W,BIOL,461,,101,Cell Signaling,Brendan D'Souza;Robin Young,19,69.6,,94.0,36.0,,,,,,,,,,,2,1,2,1,2,3,1,1,1,3,2,70.0,85.0,58.0
+UBCO,2023,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,295,73.6,,94.0,18.0,,,,,,,,,,,39,1,1,4,8,41,39,40,64,37,16,76.0,82.0,69.0
+UBCO,2023,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,166,70.9,,92.0,0.0,,,,,,,,,,,25,4,2,3,8,19,24,16,34,18,3,75.0,81.0,67.0
+UBCO,2023,W,BIOL,200,,001,Cell Biology,Robin Young,133,69.0,,94.0,44.0,,,,,,,,,,,22,10,1,3,10,18,19,13,19,10,4,72.0,80.0,55.0
+UBCO,2023,W,BIOL,200,,101,Cell Biology,Robin Young,152,72.3,,95.0,39.0,,,,,,,,,,,23,2,0,2,10,22,20,17,26,17,9,74.0,81.0,67.5
+UBCO,2023,W,BIOL,420,N,101,Special Topics in Biology,Robin Young,30,89.9,,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,6,21,92.0,95.0,85.5

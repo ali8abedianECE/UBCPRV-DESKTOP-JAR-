@@ -1,0 +1,81 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,HKIN,500,,001,GRADUATE SEMINAR,"Inglis, J Timothy",5,83.8,5.22,92,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,,,
+UBC,2003,W,HKIN,389,,001,NRMSCL INTG HM M,"Inglis, J Timothy",57,71.16,12.48,95,50,57,0,0,0,0,0,0,0,0,0,0,7,5,2,9,6,7,5,6,6,4,,,
+UBC,2005,W,HKIN,190,,001,ANTMY & PHYSIO I,"Inglis, J Timothy",135,64.17,15.31,89,0,113,19,3,0,0,1,0,3,4,11,19,10,14,7,20,15,20,11,9,7,0,,,
+UBC,2005,W,HKIN,389,,001,NRMSCL INTG HM M,"Inglis, J Timothy",67,66.25,14.6,88,0,64,3,0,0,0,1,0,0,2,0,3,9,6,6,7,11,9,5,5,6,0,,,
+UBC,2006,W,HKIN,389,,001,NRMSCL INTG HM M,"Inglis, J Timothy",75,69.52,12.85,90,26,68,1,0,6,0,0,0,1,0,0,1,10,6,7,4,4,9,10,12,5,1,,,
+UBC,2006,W,HKIN,500,,002,SPEC TPCS HKIN,"Inglis, J Timothy",12,87.78,3.11,92,85,9,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,,,
+UBC,2007,W,HKIN,389,,001,NRMSCL INTG HM M,"Inglis, J Timothy",68,76.11,13.42,94,12,63,1,1,3,0,0,1,0,0,0,1,3,2,3,3,6,8,9,7,17,5,,,
+UBC,2007,W,HKIN,573,,001,SEM MECH ANL HMN,"Inglis, J Timothy",9,86.83,2.79,92,84,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2009,W,HKIN,389,,L1A,NRMSCL INTG HM M,"Inglis, J Timothy",24,72.29,11.45,88,52,24,0,0,0,0,0,0,0,0,0,0,3,1,2,2,3,1,4,4,4,0,,,
+UBC,2009,W,HKIN,389,,L1B,NRMSCL INTG HM M,"Inglis, J Timothy",22,73.62,9.87,87,52,21,0,1,0,0,0,0,0,0,0,0,1,1,2,2,3,2,3,3,4,0,,,
+UBC,2009,W,HKIN,389,,L1C,NRMSCL INTG HM M,"Inglis, J Timothy",18,71,14.19,92,50,18,0,0,0,0,0,0,0,0,0,0,3,1,2,3,1,1,1,1,2,3,,,
+UBC,2010,W,HKIN,389,,L1A,NRMSCL INTG HM M,"Inglis, J Timothy",31,84.32,9.48,97,63,31,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,2,3,11,9,,,
+UBC,2010,W,HKIN,389,,L1B,NRMSCL INTG HM M,"Inglis, J Timothy",28,76.11,15.42,97,34,26,1,1,0,0,0,0,0,1,0,1,2,1,2,0,2,4,3,1,5,6,,,
+UBC,2010,W,HKIN,389,,L1C,NRMSCL INTG HM M,"Inglis, J Timothy",25,72.72,15.05,90,26,23,2,0,0,0,0,0,1,0,1,2,0,1,2,0,2,7,2,5,1,3,,,
+UBC,2011,W,HKIN,389,,L1A,NRMSCL INTG HM M,"Inglis, J Timothy",31,85.29,9.47,95,53,31,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,3,2,9,13,,,
+UBC,2011,W,HKIN,389,,L1B,NRMSCL INTG HM M,"Inglis, J Timothy",30,77.97,9.28,92,53,30,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,3,1,9,6,2,,,
+UBC,2011,W,HKIN,389,,L1C,NRMSCL INTG HM M,"Inglis, J Timothy",27,78.74,11.2,98,50,27,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,2,3,4,4,6,,,
+UBC,2011,W,HKIN,573,,001,SEM MECH ANL HMN,"Inglis, J Timothy",5,87,6,92,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,,,
+UBCV,2014,W,KIN,389,,L1A,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,75.22222222,15.22049579,91.0,6.0,,,,,,,,,,,,,,,,,5,7,7,6,,,,
+UBCV,2014,W,KIN,389,,L1B,Neuromuscular Integration of Human Movement,J Timothy Inglis,35,71.22857143,16.5921415,90.0,8.0,,,,,,,,,,,,,,,5,5,,5,,8,,,,
+UBCV,2014,W,KIN,389,,L1C,Neuromuscular Integration of Human Movement,J Timothy Inglis,32,67.34375,22.91444026,95.0,0.0,,,,,,,,,,,5,,,,,5,,,,,,,,
+UBCV,2014,W,KIN,389,,L1D,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,69.25,10.74742494,87.0,45.0,,,,,,,,,,,,,5,5,,,7,,8,,0,,,
+UBCV,2014,W,KIN,489,E,L1A,Seminar,J Timothy Inglis,11,78.63636364,10.80067338,92.0,61.0,,,,,,,,,,,0,0,0,,,,,,,,,,,
+UBCV,2014,W,KIN,489,E,L1B,Seminar,J Timothy Inglis,22,73.77272727,12.88754223,95.0,50.0,,,,,,,,,,,0,,,,,,,,5,,,,,
+UBCV,2014,W,KIN,489,E,L1C,Seminar,J Timothy Inglis,7,75.14285714,11.58200575,89.0,58.0,,,,,,,,,,,0,0,,,,,,,,,0,,,
+UBCV,2014,W,KIN,500,,003,Special Topics in Kinesiology,J Timothy Inglis,9,89.44444444,5.222813205,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,5,,,
+UBCV,2015,W,KIN,389,,L1A,Neuromuscular Integration of Human Movement,J Timothy Inglis,35,73.571428571,14.54462851,90.0,33.0,,,,,,,,,,,,,,,,,,,7,9,,,,
+UBCV,2015,W,KIN,389,,L1B,Neuromuscular Integration of Human Movement,J Timothy Inglis,30,80.633333333,10.320663349,97.0,58.0,,,,,,,,,,,0,0,,,,,,,9,3,7,,,
+UBCV,2015,W,KIN,389,,L1C,Neuromuscular Integration of Human Movement,J Timothy Inglis,34,70.558823529,16.588040921,91.0,22.0,,,,,,,,,,,,,5,,,,,5,5,6,,,,
+UBCV,2015,W,KIN,389,,L1D,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,74.555555556,14.231643705,94.0,45.0,,,,,,,,,,,,,,,,,,5,6,9,,,,
+UBCV,2015,W,KIN,489,E,L1A,Seminar,J Timothy Inglis,16,73.3125,18.01006663,96.0,33.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,KIN,489,E,L1B,Seminar,J Timothy Inglis,18,72.222222222,20.88499477,97.0,16.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,KIN,389,,L1A,Neuromuscular Integration of Human Movement,J Timothy Inglis,34,72.97058824,14.06367617,91.0,39.0,,,,,,,,,,,3,1,2,2,3,2,1,8,4,6,2,,,
+UBCV,2016,W,KIN,389,,L1B,Neuromuscular Integration of Human Movement,J Timothy Inglis,33,73.75757576,11.69676853,90.0,52.0,,,,,,,,,,,0,4,1,2,2,3,4,4,6,6,1,,,
+UBCV,2016,W,KIN,389,,L1C,Neuromuscular Integration of Human Movement,J Timothy Inglis,31,76.4516129,13.19049837,96.0,44.0,,,,,,,,,,,2,0,2,1,2,0,5,6,4,5,4,,,
+UBCV,2016,W,KIN,389,,L1D,Neuromuscular Integration of Human Movement,J Timothy Inglis,35,76.62857143,13.40124163,95.0,43.0,,,,,,,,,,,1,1,2,3,3,2,0,2,10,7,4,,,
+UBCV,2016,W,KIN,390,,L1A,Human Functional Musculoskeletal Anatomy,J Timothy Inglis,29,72.31034483,14.61433604,92.0,40.0,,,,,,,,,,,3,1,1,1,4,1,2,7,4,3,2,,,
+UBCV,2016,W,KIN,390,,L1B,Human Functional Musculoskeletal Anatomy,J Timothy Inglis,32,77.90625,11.48732647,93.0,53.0,,,,,,,,,,,0,1,1,2,4,1,3,5,4,5,6,,,
+UBCV,2017,S,KIN,500,T,941,Special Topics in Kinesiology,J Timothy Inglis,8,88.5,6.023762469,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2017,W,KIN,389,,L1A,Neuromuscular Integration of Human Movement,J Timothy Inglis,33,70.636363636,17.25148215,91.0,8.0,,,,,,,,,,,3,1,2,4,0,6,3,2,2,9,1,,,
+UBCV,2017,W,KIN,389,,L1B,Neuromuscular Integration of Human Movement,J Timothy Inglis,32,79.875,11.845102432,96.0,32.0,,,,,,,,,,,1,0,0,0,3,0,4,5,8,6,5,,,
+UBCV,2017,W,KIN,389,,L1C,Neuromuscular Integration of Human Movement,J Timothy Inglis,29,65.620689655,23.008404975,94.0,12.0,,,,,,,,,,,7,0,1,2,1,2,1,4,8,2,1,,,
+UBCV,2017,W,KIN,389,,L1D,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,60.944444444,20.301927346,92.0,8.0,,,,,,,,,,,8,3,4,2,2,3,6,4,1,2,1,,,
+UBCV,2017,W,KIN,390,,L1A,Human Functional Musculoskeletal Anatomy,J Timothy Inglis,32,74.53125,13.409155214,96.0,43.0,,,,,,,,,,,2,1,3,1,1,1,5,6,4,5,3,,,
+UBCV,2017,W,KIN,390,,L1B,Human Functional Musculoskeletal Anatomy,J Timothy Inglis,31,76.774193548,13.751871818,94.0,42.0,,,,,,,,,,,1,2,1,1,3,2,2,3,4,8,4,,,
+UBCV,2017,W,KIN,489,Z,001,Seminar,J Timothy Inglis;Romeo Chua,11,86.818181818,6.585107164,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,3,5,,,
+UBCV,2018,W,KIN,389,,001,Neuromuscular Integration of Human Movement,Gregg Eschelmuller;Gregg Ludwig Eschelmuller;J Timothy Inglis;Robyn Lynne Mildren;Robyn Mildren,171,70.426900585,16.755304034,95.0,22.0,,,,,,,,,,,17,13,9,9,15,19,17,11,17,28,16,,,
+UBCV,2018,W,KIN,390,,L1A,Human Functional Musculoskeletal Anatomy,Brian Hayes;J Timothy Inglis,31,72.0,17.776388835,91.0,19.0,,,,,,,,,,,2,3,2,1,4,2,1,1,6,4,5,,,
+UBCV,2018,W,KIN,390,,L1B,Human Functional Musculoskeletal Anatomy,J Timothy Inglis,32,76.25,17.189644294,94.0,10.0,,,,,,,,,,,2,0,1,2,3,2,3,1,5,5,8,,,
+UBCV,2019,W,KIN,389,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis;Kyle James Johnson;Kyle Johnson;Kyle Missen;Robyn Lynne Mildren;Robyn Mildren,165,73.212121212,17.426076577,96.0,0.0,,,,,,,,,,,14,8,9,6,4,11,24,13,35,19,22,,,
+UBCV,2020,W,KIN,313,,001,Neuromuscular Integration of Human Movement,Gregg Eschelmuller;J Timothy Inglis;Kyle Johnson;Kyle Missen;Nikol Grishin,196,77.632653061,12.529667567,98.0,36.0,,,,,,,,,,,3,9,7,6,16,16,23,21,20,41,34,,,
+UBCV,2021,W,KIN,110,,901,Human Anatomy,Gillian Corbo;J Timothy Inglis;Jenna Benbaruj;Shaunna Taylor,54,61.148148148,14.003244109,88.0,32.0,,,,,,,,,,,12,7,4,1,9,9,3,6,2,1,0,,,
+UBCV,2021,W,KIN,110,,L1A,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,36,67.694444444,21.544398602,100.0,26.0,,,,,,,,,,,5,8,2,2,2,1,2,2,3,0,9,,,
+UBCV,2021,W,KIN,110,,L1B,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,25,68.08,19.489142276,100.0,32.0,,,,,,,,,,,4,3,0,3,1,1,3,3,2,2,3,,,
+UBCV,2021,W,KIN,110,,L1C,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,35,70.628571429,19.76640899,94.0,3.0,,,,,,,,,,,4,2,3,1,1,3,4,5,4,2,6,,,
+UBCV,2021,W,KIN,110,,L1D,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,20,67.95,23.618625567,100.0,24.0,,,,,,,,,,,4,2,1,0,0,2,1,3,3,1,3,,,
+UBCV,2021,W,KIN,110,,L1E,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,33,70.757575758,20.202150726,100.0,24.0,,,,,,,,,,,4,4,2,0,2,2,1,4,5,4,5,,,
+UBCV,2021,W,KIN,110,,L1F,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,35,63.828571429,22.804134963,100.0,21.0,,,,,,,,,,,9,3,2,0,3,4,1,4,1,4,4,,,
+UBCV,2021,W,KIN,313,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis;Kyle Missen;Nikol Grishin;Xiyao Liu,265,72.411320755,15.448860657,97.0,0.0,,,,,,,,,,,13,11,17,14,25,24,35,27,47,32,20,,,
+UBCV,2022,W,KIN,110,,92A,Human Anatomy,J Timothy Inglis,26,65.3,,100.0,13.0,,,,,,,,,,,6,4,2,0,1,3,0,0,2,2,6,68.5,88.0,50.0
+UBCV,2022,W,KIN,110,,92B,Human Anatomy,J Timothy Inglis,18,70.1,,100.0,42.0,,,,,,,,,,,3,1,2,1,2,0,0,1,1,6,1,71.5,85.8,57.5
+UBCV,2022,W,KIN,110,,92C,Human Anatomy,J Timothy Inglis,13,69.2,,96.0,28.0,,,,,,,,,,,2,0,1,3,0,1,0,1,2,1,2,71.0,84.0,61.0
+UBCV,2022,W,KIN,110,,L1A,Human Anatomy,J Timothy Inglis,31,76.9,,100.0,36.0,,,,,,,,,,,4,0,2,2,0,2,3,0,7,2,9,82.0,93.5,64.0
+UBCV,2022,W,KIN,110,,L1B,Human Anatomy,J Timothy Inglis,31,63.6,,100.0,15.0,,,,,,,,,,,8,4,1,3,1,1,2,4,2,0,5,63.0,79.0,48.0
+UBCV,2022,W,KIN,110,,L1C,Human Anatomy,J Timothy Inglis,32,66.7,,100.0,18.0,,,,,,,,,,,6,2,2,4,2,3,1,2,0,6,4,67.0,85.5,55.3
+UBCV,2022,W,KIN,110,,L1D,Human Anatomy,J Timothy Inglis,32,60.7,,96.0,21.0,,,,,,,,,,,9,1,3,3,3,1,3,2,0,3,4,62.5,77.3,42.3
+UBCV,2022,W,KIN,110,,L1E,Human Anatomy,J Timothy Inglis,31,77.2,,100.0,22.0,,,,,,,,,,,2,1,3,2,2,2,1,2,0,6,10,85.0,96.0,63.5
+UBCV,2022,W,KIN,110,,L1F,Human Anatomy,J Timothy Inglis,32,66.9,,100.0,0.0,,,,,,,,,,,5,2,2,0,3,2,4,5,4,3,2,74.0,82.0,56.5
+UBCV,2022,W,KIN,313,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis,211,67.3,,100.0,0.0,,,,,,,,,,,35,18,8,17,20,14,12,11,18,25,33,69.0,85.0,54.5
+UBCV,2023,W,KIN,110,,L1A,Human Anatomy,J Timothy Inglis,30,75.4,,100.0,19.0,,,,,,,,,,,4,0,2,2,1,3,3,0,1,3,10,75.0,93.0,62.0
+UBCV,2023,W,KIN,110,,L1B,Human Anatomy,J Timothy Inglis,25,59.3,,99.0,13.0,,,,,,,,,,,5,3,6,0,1,0,2,2,2,1,1,58.0,75.5,51.5
+UBCV,2023,W,KIN,110,,L1C,Human Anatomy,J Timothy Inglis,30,72.4,,100.0,23.0,,,,,,,,,,,4,2,1,3,1,2,2,2,3,1,9,74.0,91.5,60.0
+UBCV,2023,W,KIN,110,,L1D,Human Anatomy,J Timothy Inglis,21,67.7,,100.0,14.0,,,,,,,,,,,3,0,1,3,2,2,1,0,2,2,3,69.0,83.5,61.0
+UBCV,2023,W,KIN,110,,L1E,Human Anatomy,J Timothy Inglis,30,73.0,,100.0,22.0,,,,,,,,,,,3,2,4,3,0,2,1,2,3,1,9,76.0,90.8,58.3
+UBCV,2023,W,KIN,110,,L1F,Human Anatomy,J Timothy Inglis,30,63.0,,100.0,35.0,,,,,,,,,,,4,5,5,4,1,1,3,1,3,0,2,60.0,75.0,54.0
+UBCV,2023,W,KIN,110,,L2A,Human Anatomy,J Timothy Inglis,33,66.5,,99.0,11.0,,,,,,,,,,,5,4,1,1,1,1,7,2,3,3,3,73.0,80.5,50.0
+UBCV,2023,W,KIN,110,,L2B,Human Anatomy,J Timothy Inglis,24,70.0,,96.0,0.0,,,,,,,,,,,3,0,2,4,0,2,2,0,4,3,4,73.0,87.0,60.0
+UBCV,2023,W,KIN,110,,L2D,Human Anatomy,J Timothy Inglis,34,71.0,,100.0,17.0,,,,,,,,,,,6,3,1,3,1,0,1,0,3,2,13,83.0,93.0,54.0
+UBCV,2023,W,KIN,110,,L2E,Human Anatomy,J Timothy Inglis,14,57.9,,100.0,15.0,,,,,,,,,,,6,1,0,0,0,2,2,0,1,0,2,62.5,74.3,36.8
+UBCV,2023,W,KIN,313,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis,190,62.5,,100.0,0.0,,,,,,,,,,,48,17,12,15,11,8,10,11,12,17,22,63.0,81.0,46.0

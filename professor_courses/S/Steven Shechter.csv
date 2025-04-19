@@ -1,0 +1,116 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",19,91.79,4.83,100,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,13,,,
+UBC,2006,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",17,87.65,3.16,91,80,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,7,,,
+UBC,2006,W,COMM,291,,201,APPL STAT IN BUS,"Berkowitz, Jonathan;Shechter, Steven",60,69.42,13.24,91,37,53,7,0,0,0,0,0,0,2,5,7,2,5,4,3,5,12,8,10,3,1,,,
+UBC,2006,W,COMM,291,,202,APPL STAT IN BUS,"Berkowitz, Jonathan;Shechter, Steven",56,71.24,13.25,95,35,52,3,1,0,0,0,0,0,1,2,3,3,2,8,6,2,7,10,5,5,4,,,
+UBC,2006,W,COMM,310,,201,SIMULATION MODEL,"Shechter, Steven",5,62,13.36,80,43,4,1,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,0,1,0,0,,,
+UBC,2007,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",20,77.15,9.32,93,61,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,4,1,1,5,2,,,
+UBC,2007,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",13,81.15,3.21,85,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,2,0,,,
+UBC,2007,W,COMM,399,,201,LOGISTIC/OPS MGT,"Shechter, Steven",47,73.04,7.05,88,59,47,0,0,0,0,0,0,0,0,0,0,0,2,0,8,13,5,8,9,2,0,,,
+UBC,2007,W,COMM,399,,202,LOGISTIC/OPS MGT,"Shechter, Steven",46,79.46,5.51,89,67,46,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,10,15,10,0,,,
+UBC,2009,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",13,80.85,7.78,93,66,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,4,3,1,,,
+UBC,2009,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",11,82.36,5.59,89,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,5,0,,,
+UBC,2009,W,COMM,399,,203,LOGISTIC/OPS MGT,"Shechter, Steven",51,77.14,9.15,92,52,51,0,0,0,0,0,0,0,0,0,0,1,1,3,5,2,8,6,12,10,3,,,
+UBC,2009,W,COMM,399,,205,LOGISTIC/OPS MGT,"Shechter, Steven",55,77.82,5.9,90,64,55,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,10,15,15,6,1,,,
+UBC,2010,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",10,80.9,5.92,90,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,1,1,,,
+UBC,2010,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",10,82.2,2.62,85,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,0,,,
+UBC,2010,W,BAMS,518,,001,MARKOV DECIS PRC,"Shechter, Steven",4,80.25,5.91,85,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,,,
+UBC,2010,W,BAMS,580,C,001,TPCS MNGMNT SCIE,"Shechter, Steven",10,81.22,4.92,91,76,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,1,,,
+UBC,2011,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",13,81.46,5.58,92,73,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,1,2,,,
+UBC,2011,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",10,83.9,3.21,88,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,,,
+UBC,2011,W,BAMS,580,C,001,TPCS MNGMNT SCIE,"Shechter, Steven",26,83.5,7.87,98,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,5,8,6,,,
+UBC,2012,W,BAMS,503,,001,SIM DEC MAKING,"Shechter, Steven",8,79.38,8.16,90,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2,1,,,
+UBC,2012,W,BAMS,504,,001,VISUAL SIMULTN,"Shechter, Steven",8,83,5.1,88,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,0,,,
+UBC,2012,W,BAMS,518,,001,MARKOV DECIS PRC,"Shechter, Steven",5,80.8,4.76,87,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,,,
+UBC,2013,W,BAMS,503,,OR1,SIM DEC MAKING,"Shechter, Steven",10,80.5,8.48,91,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,2,,,
+UBC,2013,W,BAMS,504,,OR1,VISUAL SIMULTN,"Shechter, Steven",11,77.2,7.45,86,67,10,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,1,1,3,0,,,
+UBC,2013,W,BAMS,523,,001,MANAGERL DECISNS,"Shechter, Steven",26,79.81,13.04,100,60,26,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,4,1,3,2,8,,,
+UBC,2013,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",26,81.44,10.54,97,56,25,0,1,0,0,0,0,0,0,0,0,0,1,0,2,1,4,1,4,6,6,,,
+UBC,2014,W,BAMS,523,,001,MANAGERL DECISNS,"Shechter, Steven",22,80.19,12.09,99,50,21,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,4,3,3,4,4,,,
+UBC,2014,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",31,80.32,10.93,99,60,31,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,4,1,4,6,8,,,
+UBC,2014,W,BAMS,523,,301,MANAGERL DECISNS,"Shechter, Steven",17,83.35,8.26,95,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,5,4,4,,,
+UBC,2015,W,BAMS,503,,OR1,SIM DEC MAKING,"Shechter, Steven",16,82.25,8.97,96,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,5,1,5,,,
+UBC,2015,W,BAMS,504,,OR1,VISUAL SIMULTN,"Shechter, Steven",15,82.73,4.48,88,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,7,6,0,,,
+UBC,2015,W,BAMS,517,,OR1,DECISON ANALYSIS,"Shechter, Steven",13,80,7.13,90,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,4,3,1,,,
+UBC,2015,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",33,80.06,6.2,97,68,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,13,6,1,,,
+UBC,2015,W,BAMS,523,,301,MANAGERL DECISNS,"Shechter, Steven",30,80.38,8.43,98,68,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,8,4,5,,,
+UBC,2016,W,BAMS,503,,OR1,SIM DEC MAKING,"Shechter, Steven",15,82.07,8.65,92,57,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,4,5,2,,,
+UBC,2016,W,BAMS,504,,OR1,VISUAL SIMULTN,"Shechter, Steven",13,85,3.79,93,79,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,2,2,,,
+UBC,2016,W,BAMS,517,,OR1,DECISON ANALYSIS,"Shechter, Steven",13,80.23,6.11,86,62,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,8,2,0,,,
+UBC,2016,W,BAMS,523,,001,MANAGERL DECISNS,"Shechter, Steven",34,81.62,9.56,95,60,34,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,3,2,8,6,8,,,
+UBC,2016,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",28,81.61,8.68,95,68,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,6,4,4,7,,,
+UBC,2017,W,BAMS,503,,BA1,SIMLTN MODEL I,"Shechter, Steven",35,81.14,7.08,92,60,35,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,5,12,8,3,,,
+UBC,2017,W,BAMS,504,,BA1,SIMLTN MODEL II,"Shechter, Steven",35,83.06,2.95,88,78,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,20,10,0,,,
+UBC,2017,W,BAMS,517,,BA1,DEC ANYLS UNCRTN,"Shechter, Steven",36,80.08,8.77,97,68,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,6,2,9,6,5,,,
+UBC,2017,W,BAMS,523,,001,MANAGERL DECISNS,"Shechter, Steven",30,84.53,6.37,95,71,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,10,9,6,,,
+UBC,2017,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",18,81.56,7.04,91,63,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,6,5,2,,,
+UBC,2018,W,BAMS,503,,BA1,SIMLTN MODEL I,"Shechter, Steven",50,80.02,4.52,89,68,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,14,21,7,0,,,
+UBC,2018,W,BAMS,504,,BA1,SIMLTN MODEL II,"Shechter, Steven",43,82.35,3.92,89,71,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,17,15,0,,,
+UBC,2018,W,BAMS,506,,BA1,OPTML DCSNMKG I,"Shechter, Steven",50,83.9,6.58,97,60,50,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5,13,22,6,,,
+UBC,2018,W,BAMS,508,,BA1,OPTML DCSNMKG II,"Shechter, Steven",50,81.02,7.83,96,67,50,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,5,14,9,7,,,
+UBC,2018,W,BAMS,517,,BA1,DEC ANYLS UNCRTN,"Shechter, Steven",50,80.34,8.31,96,62,50,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,6,5,12,10,7,,,
+UBC,2018,W,BAMS,523,,001,MANAGERL DECISNS,"Shechter, Steven",27,81.33,6.59,98,70,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,5,10,1,,,
+UBC,2018,W,BAMS,523,,002,MANAGERL DECISNS,"Shechter, Steven",26,83.31,6.87,92,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,3,11,4,,,
+UBCV,2014,W,BAMS,523,,001,Managerial Decisions Modeling and Analytics,Steven Shechter,21,80.19047619,12.08560734,99.0,50.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2014,W,BAMS,523,,002,Managerial Decisions Modeling and Analytics,Steven Shechter,31,80.32258065,10.92821149,99.0,60.0,,,,,,,,,,,0,0,0,,,,,,,6,8,,,
+UBCV,2014,W,BAMS,523,,301,Managerial Decisions Modeling and Analytics,Steven Shechter,17,83.35294118,8.260910789,95.0,60.0,,,,,,,,,,,0,0,0,,,,,,5,,,,,
+UBCV,2015,W,BAMS,503,,OR1,Simulation for Decision Making,Candice Chan;Mohammad Reza Skandari;Steven Shechter,16,82.25,8.970321436,96.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,5,,5,,,
+UBCV,2015,W,BAMS,504,,OR1,Advanced Simulation for Decision Making,Mohammad Reza Skandari;Steven Shechter,15,82.733333333,4.479583314,88.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,7,6,0,,,
+UBCV,2015,W,BAMS,517,,OR1,Decision Analysis,Mona Imanpoor Yourdshahy;Steven Shechter,13,80.0,7.129749879,90.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2015,W,BAMS,523,,002,Managerial Decisions Modeling and Analytics,Steven Shechter,33,80.060606061,6.20453158,97.0,68.0,,,,,,,,,,,0,0,0,0,0,3,4,6,13,6,1,,,
+UBCV,2015,W,BAMS,523,,301,Managerial Decisions Modeling and Analytics,Mohammad Reza Skandari;Mona Imanpoor Yourdshahy;Steven Shechter,29,80.379310345,8.427903455,98.0,68.0,,,,,,,,,,,0,0,0,0,0,5,5,2,8,4,5,,,
+UBCV,2016,W,BAMS,503,,OR1,Simulation for Decision Making,Steven Shechter;Ziqian Zhu,15,82.06666667,8.64759807,92.0,57.0,,,,,,,,,,,0,0,,,,,1,2,4,5,2,,,
+UBCV,2016,W,BAMS,504,,OR1,Advanced Simulation for Decision Making,Steven Shechter;Ziqian Zhu,13,85.0,3.785938897,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,2,2,,,
+UBCV,2016,W,BAMS,517,,OR1,Decision Analysis,Steven Shechter;Ziqian Zhu,13,80.23076923,6.112198815,86.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,2,8,2,0,,,
+UBCV,2016,W,BAMS,523,,001,Managerial Decisions Modeling and Analytics,Nathaniel Horvath;Steven Shechter,34,81.61764706,9.563233591,95.0,60.0,,,,,,,,,,,0,0,0,1,0,6,3,2,8,6,8,,,
+UBCV,2016,W,BAMS,523,,002,Managerial Decisions Modeling and Analytics,Nathaniel Horvath;Steven Shechter,28,81.60714286,8.676657855,95.0,68.0,,,,,,,,,,,0,0,0,0,0,5,2,6,4,4,7,,,
+UBCV,2017,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter;Vivian Nnoka,35,81.142857143,7.079975312,92.0,60.0,,,,,,,,,,,0,0,0,1,0,3,3,5,12,8,3,,,
+UBCV,2017,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Steven Shechter;Vivian Nnoka,35,83.057142857,2.950003561,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,5,20,10,0,,,
+UBCV,2017,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Barend Lotter;Steven Shechter,36,80.083333333,8.774557376,97.0,68.0,,,,,,,,,,,0,0,0,0,0,8,6,2,9,6,5,,,
+UBCV,2017,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Steven Shechter;Vivian Nneoma Nnoka;Vivian Nnoka;Vivian Wu,30,84.533333333,6.371993318,95.0,71.0,,,,,,,,,,,0,0,0,0,0,2,2,1,10,9,6,,,
+UBCV,2017,W,BAMS,523,,002,Managerial Decisions Modelling and Analytics,Steven Shechter;Vivian Nneoma Nnoka;Vivian Nnoka;Vivian Wu,18,81.555555556,7.039570694,91.0,63.0,,,,,,,,,,,0,0,0,1,0,0,2,2,6,5,2,,,
+UBCV,2018,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter;Vivian Nnoka,50,80.02,4.519752567,89.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,14,21,7,0,,,
+UBCV,2018,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Steven Shechter;Vivian Nnoka,50,80.2,8.557130932,89.0,53.0,,,,,,,,,,,0,,,,,1,,10,19,16,0,,,
+UBCV,2018,W,BAMS,506,,BA1,Optimal Decision Making I,Forough Pourhossein;Hossein Piri;Maurice Queyranne;Steven Shechter,50,83.9,6.581514,97.0,60.0,,,,,,,,,,,0,0,0,1,0,2,1,5,13,22,6,,,
+UBCV,2018,W,BAMS,508,,BA1,Optimal Decision Making II,Forough Pourhossein;Hossein Piri;Steven Shechter,50,81.02,7.825885879,96.0,67.0,,,,,,,,,,,0,0,0,0,1,6,8,5,14,9,7,,,
+UBCV,2018,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Steven Shechter;Vivian Nneoma Nnoka;Vivian Nnoka,50,80.34,8.314261168,96.0,62.0,,,,,,,,,,,0,0,0,1,0,9,6,5,12,10,7,,,
+UBCV,2018,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Steven Shechter;Vivian Nneoma Nnoka;Vivian Nnoka,27,81.333333333,6.586699886,98.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,6,5,10,1,,,
+UBCV,2018,W,BAMS,523,,002,Managerial Decisions Modelling and Analytics,Steven Shechter;Vivian Nneoma Nnoka;Vivian Nnoka,26,83.307692308,6.874702791,92.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,3,3,11,4,,,
+UBCV,2019,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Qixiu Quan;Steven Shechter,47,83.446808511,2.560642843,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,22,22,0,,,
+UBCV,2019,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Qixiu Quan;Steven Shechter,47,83.744680851,2.785584671,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,21,22,0,,,
+UBCV,2019,W,BAMS,506,,BA1,Optimal Decision Making I,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,84.127659574,2.683419471,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,21,22,1,,,
+UBCV,2019,W,BAMS,508,,BA1,Optimal Decision Making II,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,81.574468085,3.167392844,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,12,27,6,1,,,
+UBCV,2019,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Forough Pourhossein;Hao Zhang;Hossein Piri;Steven Shechter,47,83.744680851,6.55899013,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,8,9,13,12,,,
+UBCV,2019,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Forough Pourhossein;Qixiu Quan;Steven Shechter;Vivian Nnoka,29,81.310344828,5.529811727,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,7,8,7,2,,,
+UBCV,2020,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter,75,81.973333333,4.36191544,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,4,9,34,24,1,,,
+UBCV,2020,W,BAMS,506,,BA1,Optimal Decision Making I,Hossein Piri;Steven Shechter;Zhuoya Wang,77,80.532467532,7.464978612,94.0,60.0,,,,,,,,,,,0,0,0,2,0,5,7,17,18,17,11,,,
+UBCV,2020,W,BAMS,508,,BA1,Optimal Decision Making II,Hossein Piri;Steven Shechter,75,85.466666667,5.80385085,94.0,68.0,,,,,,,,,,,0,0,0,0,0,2,4,6,16,27,20,,,
+UBCV,2020,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Hossein Piri;Steven Shechter,20,82.4,2.370875921,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,15,4,0,,,
+UBCV,2021,S,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Bailey Kluczny;Steven Shechter,75,83.28,3.700109567,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,16,30,28,1,,,
+UBCV,2021,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter;Ziqian Zhu,65,83.6,4.376071297,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,8,27,23,5,,,
+UBCV,2021,W,BAMS,506,,BA1,Optimal Decision Making I,Hyun Kyung Kim;Steven Shechter,64,79.484375,10.404504805,96.0,41.0,,,,,,,,,,,1,0,0,4,4,3,6,9,18,11,8,,,
+UBCV,2021,W,BAMS,508,,BA1,Optimal Decision Making II,Hyun Kyung Kim;Steven Shechter,65,81.923076923,3.86210634,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,11,33,16,2,,,
+UBCV,2021,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Steven Shechter;Ziqian Zhu,65,80.046153846,8.309314745,99.0,65.0,,,,,,,,,,,0,0,0,0,6,7,7,11,12,13,9,,,
+UBCV,2021,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Pearl Gupta;Steven Shechter,32,80.0625,5.327575857,91.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,9,12,4,2,,,
+UBCV,2021,S,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Steven Shechter,75,83.3,,90.0,77.0,,,,,,,,,,,,,,,,,,16,30,28,,82.0,86.5,81.0
+UBCV,2021,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter,65,83.6,,92.0,74.0,,,,,,,,,,,,,,,,,,8,27,23,,83.0,87.0,81.0
+UBCV,2021,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Steven Shechter,65,82.6,,86.0,78.0,,,,,,,,,,,,,,,,,,,50,11,,83.0,84.0,81.0
+UBCV,2021,W,BAMS,506,,BA1,Optimal Decision Making I,Steven Shechter,64,79.5,,96.0,41.0,,,,,,,,,,,,,,,,,6,9,18,11,8,82.5,86.0,74.0
+UBCV,2021,W,BAMS,508,,BA1,Optimal Decision Making II,Steven Shechter,65,81.9,,90.0,73.0,,,,,,,,,,,,,,,,,,11,33,16,,82.0,85.0,80.0
+UBCV,2021,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Steven Shechter,65,80.0,,99.0,65.0,,,,,,,,,,,0,0,0,0,6,7,7,11,12,13,9,81.0,87.0,74.0
+UBCV,2021,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Steven Shechter,32,80.1,,91.0,68.0,,,,,,,,,,,,,,,,,,9,12,,,80.0,83.0,77.8
+UBCV,2022,W,BAMS,503,,BA1,Simulation Modelling,Steven Shechter,39,82.2,,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,26,5,2,82.0,83.0,80.0
+UBCV,2022,W,BAMS,503,,BA2,Simulation Modelling,Steven Shechter,39,79.8,,88.0,65.0,,,,,,,,,,,0,0,0,0,1,0,6,6,24,2,0,81.0,82.5,77.0
+UBCV,2022,W,BAMS,506,,BA1,Optimal Decision Making I,Steven Shechter,39,85.3,,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,20,4,85.0,86.5,83.0
+UBCV,2022,W,BAMS,506,,BA2,Optimal Decision Making I,Steven Shechter,39,84.1,,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,23,16,0,84.0,85.0,83.0
+UBCV,2022,W,BAMS,508,,BA1,Optimal Decision Making II,Steven Shechter,39,84.6,,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,19,16,3,84.0,86.0,82.5
+UBCV,2022,W,BAMS,508,,BA2,Optimal Decision Making II,Steven Shechter,39,82.9,,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,8,18,13,0,84.0,85.0,80.5
+UBCV,2022,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Steven Shechter,31,82.6,,96.0,60.0,,,,,,,,,,,0,0,0,3,0,0,0,0,17,8,3,83.0,87.0,81.5
+UBCV,2023,S,BA,509,,BA4,Experiential Learning: Business Analytics Internship,Steven Shechter,19,84.21,,86.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,12,0,86.0,86.0,83.0
+UBCV,2023,W,BAMS,503,,BA1,Simulation Modelling,Steven Shechter,43,78.98,,86.0,72.0,,,,,,,,,,,0,0,0,0,0,0,11,14,12,6,0,78.0,83.5,75.5
+UBCV,2023,W,BAMS,503,,BA2,Simulation Modelling,Steven Shechter,42,77.6,,86.0,68.0,,,,,,,,,,,0,0,0,0,0,2,15,9,13,3,0,77.5,81.0,74.0
+UBCV,2023,W,BAMS,506,,BA1,Optimal Decision Making I,Steven Shechter,44,83.98,,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,30,11,2,84.0,85.0,82.0
+UBCV,2023,W,BAMS,506,,BA2,Optimal Decision Making I,Steven Shechter,42,82.79,,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,28,13,0,83.0,85.0,81.0
+UBCV,2023,W,BAMS,508,,BA1,Optimal Decision Making II,Steven Shechter,44,80.61,,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,13,23,7,0,80.0,82.0,79.0
+UBCV,2023,W,BAMS,508,,BA2,Optimal Decision Making II,Steven Shechter,42,82.79,,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,24,10,2,83.0,85.0,81.0
+UBCV,2023,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Steven Shechter,26,83.0,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,16,6,0,83.0,84.0,82.0

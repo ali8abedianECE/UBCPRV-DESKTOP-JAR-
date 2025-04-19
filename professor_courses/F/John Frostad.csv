@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,CHBE,487,,201,INTERFACIAL PHEN,"Frostad, John",9,84.44,6.46,95,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,1,,,
+UBC,2017,W,CHBE,487,,201,INTERFACIAL PHEN,"Frostad, John",16,76.94,10.62,93,61,16,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,2,1,3,3,2,,,
+UBC,2018,W,CHBE,344,,101,UNIT OPER I,"Frostad, John",192,73.77,12.76,100,23,185,6,1,0,0,0,0,1,1,4,6,10,11,9,17,17,23,40,24,15,19,,,
+UBC,2018,W,CHBE,487,,201,INTERFACIAL PHEN,"Frostad, John",13,83.23,10.97,95,65,13,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,1,6,,,
+UBCV,2016,W,CHBE,487,,201,Interfacial Phenomena,John Frostad,9,84.44444444,6.463573143,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,4,1,,,
+UBCV,2017,W,CHBE,487,,201,Interfacial Phenomena,John Frostad,16,76.9375,10.623676388,93.0,61.0,,,,,,,,,,,0,0,0,3,2,0,2,1,3,3,2,,,
+UBCV,2017,W,FNH,300,,001,Principles of Food Engineering,John Frostad;Linkang Angeline Zhang;Majid Keshavarzfathy,44,79.5,8.050711365,95.0,60.0,,,,,,,,,,,0,0,0,2,1,4,6,7,13,7,4,,,
+UBCV,2018,W,CHBE,344,,101,Unit Operations I,Elnaz Mohammadi;Hossein Piri;John Frostad;Tanja Tomkovic,191,73.769633508,12.755981853,100.0,23.0,,,,,,,,,,,6,10,11,9,17,17,23,40,24,15,19,,,
+UBCV,2018,W,CHBE,487,,201,Interfacial Phenomena,Abner Lee Bogan;John Frostad,13,83.230769231,10.970823778,95.0,65.0,,,,,,,,,,,0,0,0,0,2,0,1,2,1,1,6,,,
+UBCV,2018,W,FNH,300,,001,Principles of Food Engineering,John Frostad;Minghuan Xu;Ronit Mandal,49,78.959183673,11.926789145,97.0,35.0,,,,,,,,,,,1,0,2,3,5,0,3,4,11,16,4,,,
+UBCV,2019,W,CHBE,344,,101,Unit Operations I,Chike Karl Okwara;Chike Okwara;John Frostad;Tingting Yi;Yun-Han Huang,175,73.148571429,13.006218041,100.0,24.0,,,,,,,,,,,5,8,11,12,14,23,21,29,17,14,21,,,
+UBCV,2019,W,CHBE,487,,201,Interfacial Phenomena,Elod Lajos Gyenge;John Frostad,11,85.545454545,8.029491097,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,1,4,,,
+UBCV,2019,W,FNH,300,,001,Principles of Food Engineering,John Frostad;Minghuan Xu;Ronit Mandal,53,80.113207547,9.357556341,100.0,50.0,,,,,,,,,,,0,1,0,2,2,4,4,10,12,13,5,,,
+UBCV,2020,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,10,86.0,6.831300511,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,5,2,,,
+UBCV,2021,W,CHBE,344,,101,Introduction to Unit Operations,David Chester Upham;Ghazaleh Mozaffari;John Frostad,58,75.75862069,12.010682883,92.0,16.0,,,,,,,,,,,1,1,2,1,6,7,4,9,15,9,3,,,
+UBCV,2021,W,CHBE,471,,101,Chemical Process Engineering,Akash Gondaliya;David Chester Upham;Fatemeh Asadi Zeidabadi;Genpei Cai;John Frostad;Julia Antoniw;Mahboubeh Mirzaei;Nana Abena Danso-Dodoo;Shiqi Yu;Shreyas Rangan;Vajiheh Salehi,75,79.04,9.064990571,98.0,62.0,,,,,,,,,,,0,0,0,4,2,14,8,9,13,15,10,,,
+UBCV,2021,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,8,87.625,3.335416016,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,3,,,
+UBCV,2021,W,FNH,300,,001,Food Engineering,Alireza Mashayekhi;Anubhav Pratap Singh;John Frostad;Lanxin Mo,29,83.862068966,10.439362795,97.0,61.0,,,,,,,,,,,0,0,0,2,1,2,1,1,6,8,8,,,
+UBCV,2021,W,CHBE,471,,101,Chemical Process Engineering,John Frostad,75,79.0,,98.0,62.0,,,,,,,,,,,,,,,,14,8,9,13,15,10,80.0,86.5,71.0
+UBCV,2021,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,8,87.6,,92.0,82.0,,,,,,,,,,,,,,,,,,,,,,88.0,90.0,86.3
+UBCV,2022,W,CHBE,487,,202,Interfacial Phenomena,John Frostad,16,75.8,,100.0,50.0,,,,,,,,,,,0,2,0,2,1,1,1,3,2,0,4,77.5,85.5,65.8
+UBCV,2022,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,11,91.1,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,6,91.0,96.5,86.5
+UBCV,2023,W,CHBE,362,,101,Process Engineering Laboratory,John Frostad,101,81.9,,97.0,29.0,,,,,,,,,,,1,1,1,0,2,3,14,13,22,23,20,84.0,88.3,76.8
+UBCV,2023,W,CHBE,491,,101,Thesis Proposal,Susan Baldwin;Xiaotao Bi;Naoko Ellis;James Jingtao Feng;John Frostad;Bhushan Gopaluni;Elod Lajos Gyenge;Zachary Hudson;Vasileios Kontogiorgos;Mark MacLachlan;Gabriel Potvin;Kevin Smith;David Chester Upham,9,86.8,,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,0,5,91.0,92.0,84.0
+UBCV,2023,W,CHBE,492,,201,Thesis,Susan Baldwin;Xiaotao Bi;Naoko Ellis;James Jingtao Feng;John Frostad;Bhushan Gopaluni;Elod Lajos Gyenge;Zachary Hudson;Vasileios Kontogiorgos;Mark MacLachlan;Gabriel Potvin;Kevin Smith;David Chester Upham,9,89.0,,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,2,6,93.0,93.0,86.0
+UBCV,2023,W,FNH,300,,001,Food Engineering,John Frostad,16,77.8,,96.0,39.0,,,,,,,,,,,1,0,1,1,1,1,0,0,6,2,3,83.5,86.8,68.5

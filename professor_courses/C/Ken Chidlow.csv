@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,S,COSC,111,,001,Computer Programming I,Congsong Zhang;Dewan Wahid;Ken Chidlow,45,75.22222222,17.53942169,100.0,31.0,5,1,3,2,2,3,5,4,5,1,14,,,
+UBCO,2017,S,COSC,111,,001,Computer Programming I,Dewan Wahid;Ken Chidlow;Norbert Eke,39,77.717948718,16.262563917,100.0,34.0,1,2,5,0,1,5,3,2,3,5,12,,,
+UBCO,2018,S,COSC,111,,001,Computer Programming I,Jeff Bulmer;Ken Chidlow;Parsa Rajabi,38,73.552631579,15.382857023,99.0,38.0,2,1,4,6,2,2,2,2,4,8,5,,,
+UBCO,2019,S,COSC,111,,001,Computer Programming I,Andrew Johnston;Billy Spelchan;Elias Pinno;Ken Chidlow;Larry Gu,72,74.916666667,13.878496895,99.0,33.0,2,3,4,4,6,9,7,10,10,7,10,,,
+UBCO,2019,S,COSC,121,,101,Computer Programming II,Jeff Bulmer;Ken Chidlow;Mayeesha Mariam;Raghav Jhavar;Rickson Reichmann;Scott Fazackerley,70,70.157142857,18.140063527,100.0,13.0,8,3,3,5,10,8,5,5,5,9,9,,,
+UBCO,2020,S,COSC,121,,101,Computer Programming II,Billy Spelchan;Islam Osman;Ken Chidlow;Rishab Sharma;Sherif Elbishlawi,106,76.603773585,14.518086746,99.0,23.0,5,2,2,8,9,13,8,6,16,15,22,,,
+UBCO,2020,S,COSC,122,,001,Computer Fluency,Elias Pinno;John Graham-Knight;Ken Chidlow,44,81.840909091,15.59210173,98.0,16.0,1,1,1,3,2,1,0,4,6,6,19,,,
+UBCO,2020,S,COSC,222,,001,Data Structures,Ken Chidlow;Pradeep Mahato;Roozbeh Eslami,59,78.152542373,13.007708006,98.0,36.0,2,1,1,1,6,3,10,4,10,9,12,,,
+UBCO,2020,W,COSC,122,,001,Computer Fluency,Amir Hossein Zeinali Kalkhoran;Ayazhan Akhmet;Brenden Trieu;Camila Jenkins;Heather Mehain;Islam Osman;Ken Chidlow;Lucas Pozza;Parsa Rajabi;Pradeep Mahato;Quinn Marshall;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi,199,82.412060302,16.188007011,100.0,2.0,6,6,1,3,5,11,11,14,26,41,75,,,
+UBCO,2021,S,COSC,121,,101,Computer Programming II,Akshat Poddar;Billy Spelchan;Jeff Bulmer;Ken Chidlow;Oluwayemisi Ogungbemi;Pinku Nath;Sherif Elbishlawi,109,76.504587156,13.242484838,95.0,13.0,5,2,2,6,2,13,11,16,18,17,17,,,
+UBCO,2021,S,COSC,222,,001,Data Structures,Ken Chidlow;Nusrat Momo;Pradeep Mahato;Seyyed Hosseini,49,86.734693878,8.521481459,100.0,60.0,0,0,0,1,1,1,1,6,7,11,21,,,
+UBCO,2023,S,COSC,121,,101,Computer Programming II,Ken Chidlow,80,77.18,,100.0,28.0,7,1,3,2,4,6,8,7,10,10,19,81.0,89.0,70.0

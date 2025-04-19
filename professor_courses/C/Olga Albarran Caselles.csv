@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,SPAN,101,,202,BEGINNER SPAN I,"Albarran Caselles, Olga;Manchon, Enrique",36,68.32,20.71,93,3,30,4,1,0,0,1,0,2,0,1,4,3,3,0,2,4,4,4,3,3,4,,,
+UBC,2011,W,SPAN,101,,113,BEGINNER SPAN I,"Albarran Caselles, Olga;Manchon, Enrique",35,70.25,14.93,89,21,29,3,3,0,0,0,0,1,0,2,3,0,2,4,3,3,5,1,6,5,0,,,
+UBC,2011,W,SPAN,102,,204,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",35,68.66,12.31,91,46,31,1,2,0,0,0,0,0,0,1,1,5,1,5,3,3,3,3,4,3,1,,,
+UBC,2012,S,SPAN,102,,922,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",25,70.5,11.71,93,46,21,1,1,1,1,0,0,0,0,1,1,1,2,2,2,0,7,3,2,1,1,,,
+UBC,2012,W,SPAN,102,,101,BEGINNER SPAN II,"Albarran Caselles, Olga;Manchon, Enrique",34,68.24,12.76,91,45,32,1,0,0,0,0,0,0,0,1,1,6,3,2,2,2,6,4,6,0,1,,,
+UBC,2012,W,SPAN,202,,902,INTERMED SPAN II,"Albarran Caselles, Olga;Spacciante, Stephanie",28,67.28,9.83,87,48,24,1,2,0,0,0,0,0,0,1,1,1,2,6,5,2,3,1,3,1,0,,,
+UBC,2013,S,SPAN,201,,922,INTERMED SPAN I,"Albarran Caselles, Olga;Spacciante, Stephanie",34,62.71,26.43,95,0,24,4,3,0,0,4,0,0,0,0,4,2,1,2,2,3,4,3,5,1,1,,,
+UBC,2018,S,SPAN,101,,922,BEGINNER SPAN I,"Albarran Caselles, Olga",22,75.85,19.12,94,7,19,1,1,0,0,1,0,0,0,0,1,1,0,0,2,0,2,3,3,6,2,,,
+UBC,2018,W,SPAN,102,,204,BEGINNER SPAN II,"Albarran Caselles, Olga",24,73.83,14.04,92,41,23,1,0,0,0,0,0,0,0,1,1,2,1,3,0,2,2,0,7,4,2,,,
+UBC,2018,W,SPAN,302,,203,ADVANCED SPAN II,"Albarran Caselles, Olga",14,73.07,20.18,90,10,13,1,0,0,0,0,1,0,0,0,1,0,0,2,0,1,2,1,4,1,2,,,
+UBCV,2014,W,SPAN,101,,202,Beginners' Spanish I,Enrique Manchon;Olga Albarran Caselles,35,73.6,15.78383387,94.0,29.0,,,,,,,,,,,,,,,,,,,5,7,,,,
+UBCV,2015,W,SPAN,101,,202,Beginners' Spanish I,Enrique Manchon;Olga Albarran Caselles,33,72.121212121,17.583297429,93.0,22.0,,,,,,,,,,,,,,,,5,,,,8,,,,
+UBCV,2016,W,SPAN,101,,111,Beginners' Spanish I,Enrique Manchon;Olga Albarran Caselles;Olga Albarr���N Caselles,34,76.41176471,11.75022281,92.0,50.0,,,,,,,,,,,0,3,1,1,3,1,5,3,6,9,2,,,
+UBCV,2018,S,SPAN,101,,922,Beginners' Spanish I,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,21,76.095238095,18.665221032,94.0,7.0,,,,,,,,,,,1,1,0,0,2,0,2,3,4,6,2,,,
+UBCV,2018,W,SPAN,102,,204,Beginners' Spanish II,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,24,73.833333333,14.039282363,92.0,41.0,,,,,,,,,,,1,2,1,3,0,2,2,0,7,4,2,,,
+UBCV,2018,W,SPAN,201,,106,Intermediate Spanish I,Barbara Fraser;Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles;Stephanie Elizabeth Spacciante;Stephanie Spacciante,32,71.875,16.703775891,94.0,12.0,,,,,,,,,,,2,0,3,3,2,2,5,4,4,3,4,,,
+UBCV,2018,W,SPAN,302,,203,Advanced Spanish II,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,14,73.071428571,20.181729307,90.0,10.0,,,,,,,,,,,1,0,0,2,0,1,2,1,4,1,2,,,
+UBCV,2019,S,SPAN,102,,922,Beginners' Spanish II,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,20,73.2,19.901335581,95.0,5.0,,,,,,,,,,,1,1,0,1,4,0,1,2,6,0,4,,,
+UBCV,2019,S,SPAN,201,,921,Intermediate Spanish I,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,33,72.727272727,13.560680125,93.0,37.0,,,,,,,,,,,2,2,1,1,3,5,4,5,4,1,5,,,
+UBCV,2019,W,SPAN,102,,202,Beginners' Spanish II,Olga Albarran Caselles,30,73.0,12.843890269,95.0,42.0,,,,,,,,,,,1,2,1,4,1,6,0,4,6,3,2,,,
+UBCV,2019,W,SPAN,201,,901,Elementary Spanish I,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,19,73.368421053,11.66766913,95.0,55.0,,,,,,,,,,,0,0,3,2,2,0,3,2,5,0,2,,,
+UBCV,2019,W,SPAN,201,,902,Elementary Spanish I,Olga Albarran Caselles;Olga Albarr�N Caselles;Olga Albarr���N Caselles,34,71.823529412,17.612789066,91.0,0.0,,,,,,,,,,,2,2,2,0,3,4,4,4,5,5,3,,,
+UBCV,2019,W,SPAN,202,,201,Elementary Spanish II,Olga Albarran Caselles,33,77.696969697,9.531149093,97.0,64.0,,,,,,,,,,,0,0,0,0,5,8,2,3,6,4,5,,,
+UBCV,2019,W,SPAN,202,,901,Elementary Spanish II,Olga Albarran Caselles,25,75.48,11.612206222,96.0,53.0,,,,,,,,,,,0,1,2,1,3,2,2,2,5,4,3,,,
+UBCV,2019,W,SPAN,302,,203,Intermediate Spanish II,Maria Adelaida Escobar Trujillo;Maria Carbonetti;Olga Albarran Caselles,17,81.0,7.937253933,90.0,65.0,,,,,,,,,,,0,0,0,0,2,1,0,3,4,5,2,,,
+UBCV,2020,S,SPAN,101,,923,Beginners' Spanish I,Olga Albarran Caselles,30,75.7,10.527959491,91.0,40.0,,,,,,,,,,,1,0,1,1,1,4,5,5,6,5,1,,,
+UBCV,2020,S,SPAN,102,,921,Beginners' Spanish II,Olga Albarran Caselles,27,77.333333333,14.754399605,97.0,29.0,,,,,,,,,,,1,0,3,0,1,1,4,3,5,4,5,,,
+UBCV,2020,S,SPAN,102,,922,Beginners' Spanish II,Olga Albarran Caselles,23,73.608695652,20.223162082,93.0,0.0,,,,,,,,,,,1,0,4,1,1,1,1,2,4,4,4,,,
+UBCV,2020,S,SPAN,201,,921,Elementary Spanish I,Maria Carbonetti;Olga Albarran Caselles,34,77.0,9.27688558,92.0,51.0,,,,,,,,,,,0,1,1,2,0,5,3,7,5,8,2,,,
+UBCV,2020,W,SPAN,101,,101,Beginners' Spanish I,Olga Albarran Caselles,30,73.7,11.429393443,90.0,55.0,,,,,,,,,,,0,0,3,5,4,1,2,3,5,5,2,,,
+UBCV,2020,W,SPAN,101,,109,Beginners' Spanish I,Olga Albarran Caselles,34,77.882352941,13.391007172,95.0,30.0,,,,,,,,,,,1,1,2,0,2,3,2,3,8,8,4,,,
+UBCV,2020,W,SPAN,101,,111,Beginners' Spanish I,Olga Albarran Caselles,26,77.153846154,10.949675092,92.0,48.0,,,,,,,,,,,1,0,0,2,3,1,2,3,6,5,3,,,
+UBCV,2020,W,SPAN,101,,201,Beginners' Spanish I,Olga Albarran Caselles,34,74.852941176,14.272525743,93.0,36.0,,,,,,,,,,,2,0,3,2,3,0,5,4,6,3,6,,,
+UBCV,2020,W,SPAN,102,,208,Beginners' Spanish II,Olga Albarran Caselles,31,75.451612903,16.630972531,98.0,19.0,,,,,,,,,,,2,1,0,0,0,1,7,4,9,5,2,,,
+UBCV,2020,W,SPAN,102,,213,Beginners' Spanish II,Olga Albarran Caselles,31,79.064516129,9.567080655,92.0,59.0,,,,,,,,,,,0,0,1,1,1,7,3,2,2,10,4,,,
+UBCV,2020,W,SPAN,201,,901,Elementary Spanish I,Olga Albarran Caselles;Stephanie Spacciante,26,75.884615385,16.931218321,95.0,28.0,,,,,,,,,,,2,0,1,1,1,2,3,3,4,4,5,,,
+UBCV,2020,W,SPAN,201,,902,Elementary Spanish I,Andrea Roca;Olga Albarran Caselles,22,77.727272727,11.381613486,92.0,55.0,,,,,,,,,,,0,0,1,3,1,1,2,2,5,2,5,,,
+UBCV,2021,S,SPAN,101,,922,Beginners' Spanish I,Olga Albarran Caselles,31,79.935483871,8.516397845,98.0,66.0,,,,,,,,,,,0,0,0,0,2,3,6,5,7,3,5,,,
+UBCV,2021,S,SPAN,101,,923,Beginners' Spanish I,Olga Albarran Caselles,27,74.888888889,10.573309406,91.0,50.0,,,,,,,,,,,0,1,1,1,5,2,5,3,1,7,1,,,
+UBCV,2021,W,SPAN,101,,110,Beginners' Spanish I,Olga Albarran Caselles,33,76.787878788,11.084216187,94.0,50.0,,,,,,,,,,,0,2,0,0,4,5,4,3,7,4,4,,,
+UBCV,2021,W,SPAN,101,,111,Beginners' Spanish I,Olga Albarran Caselles,27,74.333333333,16.562236936,95.0,36.0,,,,,,,,,,,2,3,1,1,0,1,2,3,7,1,6,,,
+UBCV,2021,W,SPAN,101,,112,Beginners' Spanish I,Olga Albarran Caselles,32,75.65625,14.534962022,94.0,28.0,,,,,,,,,,,2,1,0,2,2,3,2,6,4,5,5,,,
+UBCV,2021,S,SPAN,101,,922,Beginners' Spanish I,Olga Albarran Caselles,31,79.9,,98.0,66.0,,,,,,,,,,,,,,,,,6,,7,,,78.0,84.5,73.0
+UBCV,2021,S,SPAN,101,,923,Beginners' Spanish I,Olga Albarran Caselles,27,74.9,,91.0,50.0,,,,,,,,,,,,,,,,,,,,7,,75.0,85.0,66.5
+UBCV,2021,W,SPAN,101,,110,Beginners' Spanish I,Olga Albarran Caselles,33,76.8,,94.0,50.0,,,,,,,,,,,,,,,,,,,7,,,78.0,84.0,69.0
+UBCV,2022,S,SPAN,201,,921,Elementary Spanish I,Olga Albarran Caselles,32,77.8,,95.0,50.0,,,,,,,,,,,0,1,1,1,2,5,2,2,10,2,6,80.5,84.3,69.8
+UBCV,2022,S,SPAN,202,,921,Elementary Spanish II,Olga Albarran Caselles,50,73.0,,95.0,54.0,,,,,,,,,,,0,1,6,7,7,1,6,4,9,4,5,74.0,81.8,63.0
+UBCV,2022,W,SPAN,101,,105,Beginners' Spanish I,Olga Albarran Caselles,32,80.9,,98.0,39.0,,,,,,,,,,,1,1,0,1,3,4,1,1,0,8,12,86.5,91.0,70.8
+UBCV,2022,W,SPAN,101,,108,Beginners' Spanish I,Olga Albarran Caselles,49,76.6,,98.0,41.0,,,,,,,,,,,2,1,1,5,4,4,5,2,7,8,10,80.0,87.0,67.0
+UBCV,2022,W,SPAN,102,,205,Beginners' Spanish II,Olga Albarran Caselles,32,73.8,,92.0,4.0,,,,,,,,,,,2,1,0,3,2,1,5,3,4,4,7,77.5,86.5,67.8
+UBCV,2022,W,SPAN,201,,102,Elementary Spanish I,Olga Albarran Caselles,31,76.3,,97.0,0.0,,,,,,,,,,,2,0,3,1,0,2,2,1,7,6,7,83.0,87.0,71.5
+UBCV,2023,S,SPAN,201,,922,Elementary Spanish I,Olga Albarran Caselles,21,78.83,,98.0,36.0,,,,,,,,,,,1,0,1,0,0,2,2,1,4,2,5,81.5,89.0,72.25
+UBCV,2023,W,ITAL,101,,107,Beginners' Italian I,Olga Albarran Caselles;Giorgio Jacova,30,80.3,,94.0,60.0,,,,,,,,,,,0,0,0,1,1,5,1,6,4,3,8,80.0,90.0,72.0
+UBCV,2023,W,SPAN,101,,106,Beginners' Spanish I,Olga Albarran Caselles,35,80.15,,93.0,0.0,,,,,,,,,,,2,1,0,1,1,0,0,3,6,12,7,87.0,89.0,82.0
+UBCV,2023,W,SPAN,101,,107,Beginners' Spanish I,Olga Albarran Caselles,55,78.37,,95.0,50.0,,,,,,,,,,,0,1,1,3,2,3,11,6,10,8,7,78.5,86.25,73.0
+UBCV,2023,W,SPAN,102,,203,Beginners' Spanish II,Olga Albarran Caselles,37,79.59,,94.0,45.0,,,,,,,,,,,1,0,1,0,3,4,3,3,6,7,9,83.0,88.0,73.0
+UBCV,2023,W,SPAN,103,,201,Intensive Beginners' Spanish,Olga Albarran Caselles,31,78.77,,95.0,25.0,,,,,,,,,,,1,0,1,2,4,1,1,2,3,6,9,84.0,90.0,67.75

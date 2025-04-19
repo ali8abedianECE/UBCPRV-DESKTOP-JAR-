@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHBE,262,,001,Chem Eng Chm Lab,"Bi, Xiaotao;Kannangara, Dhaneshwarie",62,74.97,13.17,93,33,58,3,1,0,0,0,0,0,2,1,3,3,1,3,2,4,8,10,16,6,5
+UBC,2003,W,CHBE,262,,001,Chem Eng Chm Lab,"Bi, Xiaotao;Kannangara, Dhaneshwarie",71,75.72,7.92,90,40,68,1,1,0,1,0,0,0,0,1,1,0,2,1,4,8,12,19,15,6,1
+UBC,2005,W,CHBE,262,,001,Chem Eng Chm Lab,"Kannangara, Dhaneshwarie",70,78.86,5.47,88,55,70,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,7,18,29,10,0
+UBC,2005,W,CHBE,364,,201,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",23,82.39,8.39,93,59,23,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2,5,9,3
+UBC,2005,W,CHBE,464,,001,CHEM ENG LAB IV,"Creagh, Aimee Louise;Gyenge, Elod Lajos;Kannangara, Dhaneshwarie;Petrell, Royann Jean",54,84.31,3.89,92,74,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,21,23,5
+UBC,2006,W,CHBE,262,,001,Chem Eng Chm Lab,"Kannangara, Dhaneshwarie",74,74.53,7.9,88,50,73,0,1,0,0,0,0,0,0,0,0,3,0,2,6,9,10,19,19,5,0
+UBC,2006,W,CHBE,364,,201,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",29,77.61,4.65,83,65,28,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,3,10,12,0,0
+UBC,2006,W,CHBE,464,,001,CHEM ENG LAB IV,"Creagh, Aimee Louise;Gyenge, Elod Lajos;Kannangara, Dhaneshwarie;Petrell, Royann Jean",60,81.15,5.97,91,58,60,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,10,26,15,1
+UBC,2007,W,CHBE,262,,001,Chem Eng Chm Lab,"Kannangara, Dhaneshwarie",82,76.48,5.62,90,60,80,0,2,0,0,0,0,0,0,0,0,0,0,1,3,10,10,30,17,8,1
+UBC,2007,W,CHBE,364,,201,ENVIRO CHML LAB,"Duff, Sheldon;Kannangara, Dhaneshwarie",26,77.65,8.41,89,50,26,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,6,1,10,5,0
+UBC,2007,W,CHBE,464,,001,CHEM ENG LAB IV,"Creagh, Aimee Louise;Gyenge, Elod Lajos;Kannangara, Dhaneshwarie",59,81.15,9.85,90,31,58,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,3,5,19,24,3
+UBC,2009,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",84,76.17,6.9,88,57,82,0,2,0,0,0,0,0,0,0,0,0,2,3,6,6,6,25,27,7,0
+UBC,2009,W,CHBE,464,,001,CHEM ENG LAB IV,"Gyenge, Elod Lajos;Kannangara, Dhaneshwarie;Lau, Anthony K;Petrell, Royann Jean",72,79.01,9.3,91,44,71,1,0,0,0,0,0,0,0,1,1,0,3,1,2,8,4,12,14,23,4
+UBC,2010,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie;Petrell, Royann Jean",89,72.4,7.86,89,47,86,1,2,0,0,0,0,0,0,1,1,2,4,1,10,18,19,16,11,5,0
+UBC,2010,W,CHBE,362,,101,CHEM ENGR LAB II,"Gopaluni, Bhushan;Kannangara, Dhaneshwarie",82,83.74,5.62,95,57,82,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,10,33,24,12
+UBC,2010,W,CHBE,464,,001,CHEM ENG LAB IV,"Gyenge, Elod Lajos;Kannangara, Dhaneshwarie;Petrell, Royann Jean",72,78.65,14.42,92,0,70,2,0,0,0,1,1,0,0,0,2,0,3,0,2,2,10,10,12,27,4
+UBC,2011,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",92,78.44,4.16,87,65,90,0,2,0,0,0,0,0,0,0,0,0,0,0,2,3,7,32,40,6,0
+UBC,2011,W,CHBE,362,,101,CHEM ENGR LAB II,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",73,81.42,7.28,95,60,73,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,8,13,18,19,9
+UBC,2011,W,CHBE,366,,201,PRCS&ENV ENG LAB,"Baldwin, Susan;Kannangara, Dhaneshwarie",56,79.71,4.54,91,70,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,17,23,4,2
+UBC,2012,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",91,78.21,5.82,87,62,89,0,2,0,0,0,0,0,0,0,0,0,0,2,3,6,12,19,30,17,0
+UBC,2012,W,CHBE,362,,101,CHEM ENGR LAB II,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",77,79.53,5.47,90,60,77,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,11,19,30,11,1
+UBC,2012,W,CHBE,364,,201,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",32,79.81,5.87,90,70,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,4,10,7,2
+UBC,2013,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",91,78.4,7.01,88,35,89,1,1,0,0,0,0,0,1,0,1,0,0,0,2,6,6,28,28,19,0
+UBC,2013,W,CHBE,362,,101,CHEM ENGR LAB II,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",85,79.25,7.74,91,41,83,1,1,0,0,0,0,0,0,1,1,0,1,0,2,7,11,19,21,18,4
+UBC,2013,W,CHBE,364,,201,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",33,80.28,4.59,88,68,32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,14,8,0
+UBC,2014,W,CHBE,262,,001,CHEM ENG APP LAB,"Berlinguette, Curtis;Kannangara, Dhaneshwarie",105,73.22,9.27,90,12,103,2,0,0,0,0,1,0,1,0,2,0,1,1,6,30,21,19,20,4,1
+UBC,2014,W,CHBE,362,,101,CHEM ENGR LAB II,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",67,77.22,8.96,91,50,67,0,0,0,0,0,0,0,0,0,0,1,2,2,4,8,5,12,20,10,3
+UBC,2014,W,CHBE,364,,101,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",21,77.95,5.22,88,68,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5,8,2,0
+UBC,2015,W,APSC,262,,202,TECHNLGY&SOC II,"Kannangara, Dhaneshwarie",28,76.04,18.65,96,0,26,2,0,0,0,1,0,0,0,1,2,0,0,1,1,2,5,3,3,7,4
+UBC,2015,W,CHBE,262,,001,CHEM ENG APP LAB,"Berlinguette, Curtis;Kannangara, Dhaneshwarie",64,79.16,5.68,90,64,64,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12,13,19,14,2
+UBC,2015,W,CHBE,262,,002,CHEM ENG APP LAB,"Berlinguette, Curtis;Kannangara, Dhaneshwarie",60,76.98,5.13,91,64,60,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,13,14,22,3,1
+UBC,2015,W,CHBE,362,,101,PROC&ENV ENG LAB,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",52,79.24,5.78,86,57,51,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,5,7,32,3,0
+UBC,2015,W,CHBE,362,,102,PROC&ENV ENG LAB,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",51,72.55,7.64,88,50,51,0,0,0,0,0,0,0,0,0,0,1,1,4,6,10,8,14,5,2,0
+UBC,2015,W,CHBE,364,,101,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",35,78.49,10.97,88,22,34,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,3,8,14,8,0
+UBC,2016,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",117,76.67,7.83,86,26,115,2,0,0,0,0,0,1,1,0,2,0,0,2,2,4,21,36,39,11,0
+UBC,2016,W,CHBE,362,,101,PROC&ENV ENG LAB,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",55,82,4.93,94,71,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,10,21,13,4
+UBC,2016,W,CHBE,362,,102,PROC&ENV ENG LAB,"Creagh, Aimee Louise;Kannangara, Dhaneshwarie",56,79.7,5.71,91,56,56,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,8,10,22,11,1
+UBC,2016,W,CHBE,364,,101,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",27,79.19,6.76,91,66,27,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,5,9,5,2
+UBC,2017,W,APSC,262,,203,TECHNLGY&SOC II,"Kannangara, Dhaneshwarie;Winkelman, Paul",12,78.42,9.47,94,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,3,1,2
+UBC,2017,W,CHBE,262,,001,CHEM ENG APP LAB,"Kannangara, Dhaneshwarie",130,75.09,6.45,87,55,129,0,0,0,1,0,0,0,0,0,0,0,4,3,8,13,21,42,29,9,0
+UBC,2017,W,CHBE,362,,101,PROC&ENV ENG LAB,"Kannangara, Dhaneshwarie;Verrett, Jonathan",64,79.84,5.96,90,53,64,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,7,17,23,12,1
+UBC,2017,W,CHBE,362,,102,PROC&ENV ENG LAB,"Kannangara, Dhaneshwarie;Verrett, Jonathan",48,79.6,5.8,90,61,48,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,10,21,6,1
+UBC,2017,W,CHBE,364,,101,ENVIRO CHML LAB,"Kannangara, Dhaneshwarie",42,78.05,9.03,90,39,41,1,0,0,0,0,0,0,1,0,1,0,0,2,1,1,5,9,11,11,1

@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,ENGL,470,J,001,Canadian Studies,Karis Shearer,9,86.22222222,7.276293318,94.0,70.0,0,0,0,0,0,,,,,,,,,
+UBCO,2014,W,ENGL,150,,004,Introduction to Literary Genre,Karis Shearer,35,74.2,15.08953669,96.0,18.0,,,,5,,,,,,,5,,,
+UBCO,2014,W,ENGL,150,,005,Introduction to Literary Genre,Karis Shearer,35,74.37142857,12.58871043,95.0,40.0,,,,,,5,5,5,,,,,,
+UBCO,2014,W,ENGL,470,L,001,Canadian Studies,Karis Shearer,29,83.51724138,6.439946149,93.0,67.0,0,0,0,0,,,,,8,11,5,,,
+UBCO,2015,W,ENGL,150,,001,Introduction to Literary Genre,Karis Shearer,35,71.885714286,18.833280038,95.0,4.0,,,,,,,,7,5,5,,,,
+UBCO,2015,W,ENGL,150,,004,Introduction to Literary Genre,Karis Shearer,35,69.942857143,15.775899074,95.0,28.0,,,,6,,,,,,6,,,,
+UBCO,2015,W,ENGL,150,,102,Introduction to Literary Genre,Karis Shearer,35,70.142857143,19.92506972,96.0,17.0,5,,,,,,,,7,,5,,,
+UBCO,2015,W,ENGL,222,,001,Literature in Canada,Karis Shearer,26,69.615384615,22.835195507,91.0,0.0,,,,,,,,,5,,,,,
+UBCO,2017,W,ENGL,150,,103,Introduction to Literary Genre,Karis Shearer,36,75.666666667,17.318858425,93.0,14.0,3,1,0,1,0,3,3,4,9,9,3,,,
+UBCO,2017,W,ENGL,150,,105,Introduction to Literary Genre,Karis Shearer,35,75.8,16.817008197,92.0,21.0,2,0,2,2,5,0,0,4,4,15,1,,,
+UBCO,2018,W,CULT,270,,001,Reading Popular Culture,Karis Shearer,11,75.727272727,16.37126085,90.0,30.0,1,0,0,0,0,1,2,3,1,2,1,,,
+UBCO,2018,W,ENGL,232,,101,Reading Popular Culture,Karis Shearer,30,81.266666667,5.125550153,89.0,66.0,0,0,0,0,1,1,1,5,14,8,0,,,
+UBCO,2018,W,ENGL,327,A,001,Canadian Poetry,Karis Shearer,41,81.853658537,8.180956471,91.0,39.0,1,0,0,0,0,1,2,7,17,10,3,,,
+UBCO,2019,W,IGS,502,A,001,Seminar in Digital Arts and Humanities,Karis Shearer,8,85.125,3.720119046,91.0,79.0,0,0,0,0,0,0,0,1,3,3,1,,,
+UBCO,2019,W,IGS,524,A,001,Proseminar in Interdisciplinary Studies,Karis Shearer,16,89.625,3.685557398,95.0,81.0,0,0,0,0,0,0,0,0,2,4,10,,,
+UBCO,2020,W,IGS,502,A,001,Seminar in Digital Arts and Humanities,Karis Shearer;Kyong Yoon,6,89.333333333,5.278888772,96.0,82.0,0,0,0,0,0,0,0,0,1,2,3,,,
+UBCO,2021,W,ENGL,150,,005,Introduction to Literary Genre,Karis Shearer;Matthew Allen,27,73.444444444,6.302217762,93.0,61.0,0,0,0,2,1,6,11,3,3,0,1,,,
+UBCO,2021,W,ENGL,150,,111,Introduction to Literary Genre,Karis Shearer,26,69.230769231,17.727510129,93.0,22.0,3,1,2,0,2,5,2,4,2,3,2,,,
+UBCO,2021,W,ENGL,150,,111,Introduction to Literary Genre,Karis Shearer,28,67.9,,93.0,22.0,,,,,,,,,,,,70.5,77.0,58.0
+UBCO,2022,W,ENGL,470,N,001,Canadian Studies,Karis Shearer,13,86.1,,93.0,80.0,0,0,0,0,0,0,0,0,4,6,3,86.0,88.0,83.0

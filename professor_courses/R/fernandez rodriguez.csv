@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,VISA,180,,901,INTRO STUDI ONE,"Fernandez Rodriguez, Antonio",23,65.17,16.3,80,5,20,3,0,0,0,1,0,0,0,2,3,1,1,0,3,8,1,5,1,0,0
+UBC,2006,W,VISA,180,,902,INTRO STUDI ONE,"Fernandez Rodriguez, Antonio",25,71.58,18.77,88,7,22,2,0,1,0,1,0,1,0,0,2,0,0,1,1,1,4,8,6,1,0
+UBC,2006,W,VISA,182,,901,STUDIO ONE,"Fernandez Rodriguez, Antonio",24,67.32,10.43,80,28,21,1,2,0,0,0,0,1,0,0,1,1,0,2,2,10,4,1,1,0,0
+UBC,2006,W,VISA,183,,901,STUDIO TWO,"Fernandez Rodriguez, Antonio",22,78,7.41,87,63,22,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,3,4,7,4,0
+UBC,2006,W,VISA,220,,002,DRAWING,"Fernandez Rodriguez, Antonio",17,75.06,5.93,80,60,16,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,3,6,4,0,0
+UBC,2006,W,VISA,320,,002,INTRMD DRAWNG I,"Fernandez Rodriguez, Antonio",18,79.78,3.84,87,74,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,4,3,0
+UBC,2007,W,VISA,180,,901,INTRO STUDI ONE,"Fernandez Rodriguez, Antonio",20,79.79,4.17,85,72,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,11,3,0
+UBC,2007,W,VISA,183,,901,STUDIO TWO,"Fernandez Rodriguez, Antonio",18,80.24,4.05,85,71,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,2,0
+UBC,2007,W,VISA,330,,002,INTRMD PAINT I,"Fernandez Rodriguez, Antonio",18,80.94,4.77,88,72,16,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,6,5,0
+UBC,2009,W,VISA,183,,901,STUDIO TWO,"Fernandez Rodriguez, Antonio",16,80,6.16,88,67,14,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,3,7,2,0
+UBC,2009,W,VISA,220,,003,DRAWING,"Fernandez Rodriguez, Antonio;McCrum, Phillip",20,75.25,8.24,87,56,20,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,6,3,3,0
+UBC,2009,W,VISA,320,,002,INTRMD DRAWNG I,"Fernandez Rodriguez, Antonio",16,73.93,20.99,87,0,14,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,2,5,4,2,0
+UBC,2009,W,VISA,431,,001,ADV DRAW II,"Fernandez Rodriguez, Antonio;McCrum, Phillip",23,79,4.98,89,68,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,7,9,3,0
+UBC,2010,W,VISA,220,,002,DRAWING,"Fernandez Rodriguez, Antonio",22,77,4.89,84,62,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,12,5,0,0
+UBC,2010,W,VISA,220,,901,DRAWING,"Fernandez Rodriguez, Antonio",20,76.68,3.15,82,70,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,4,0,0
+UBC,2011,W,VISA,220,,001,DRAWING,"Fernandez Rodriguez, Antonio",20,73.1,13.38,83,24,19,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,6,8,4,0,0
+UBC,2011,W,VISA,220,,901,DRAWING,"Fernandez Rodriguez, Antonio",20,69.26,16.41,80,20,16,3,1,0,0,0,0,1,0,2,3,0,0,0,1,0,4,9,2,0,0
+UBC,2011,W,VISA,230,,002,PAINTING,"Fernandez Rodriguez, Antonio",19,73.16,18,83,0,18,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,6,8,4,0,0
+UBC,2012,W,VISA,321,,002,INTRMD DRAWNG II,"Fernandez Rodriguez, Antonio",16,77.75,2.54,84,74,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,4,0,0
+UBC,2012,W,VISA,321,,003,INTRMD DRAWNG II,"Fernandez Rodriguez, Antonio",17,78.25,2.49,85,75,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,3,1,0
+UBC,2013,W,VISA,220,,003,DRAWING,"Fernandez Rodriguez, Antonio",20,74.55,9.56,83,35,19,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6,11,2,0,0
+UBC,2013,W,VISA,320,,001,INTRMD DRAWNG I,"Fernandez Rodriguez, Antonio",17,78.41,3.94,87,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,1,3,0
+UBC,2015,W,VISA,220,,004,DRAWING,"Fernandez Rodriguez, Antonio",19,80.22,16.66,97,39,16,2,1,0,0,0,0,0,1,1,2,0,0,0,0,1,2,0,4,4,5
+UBC,2018,W,VISA,481,,001,ADV SEMINAR II,"Fernandez Rodriguez, Antonio",24,81.54,4.67,91,75,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,11,3,2

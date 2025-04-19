@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,PSYC,217,,003,RSRCH MTHDS,"Mikami, Amori",87,68.52,9.32,89,49,85,1,1,0,0,0,0,0,0,1,1,6,11,8,10,14,13,14,7,2,0,,,
+UBC,2012,W,PSYC,217,,006,RSRCH MTHDS,"Mikami, Amori",90,70.64,9.81,90,51,90,0,0,0,0,0,0,0,0,0,0,4,10,10,8,12,14,15,11,5,1,,,
+UBC,2012,W,PSYC,531,,001,BEHAV ASSESSMENT,"Mikami, Amori",6,87.17,1.33,89,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,,,
+UBC,2014,W,PSYC,217,,004,RSRCH MTHDS,"Mikami, Amori",68,69.43,11.05,89,44,66,2,0,0,0,0,0,0,0,2,2,4,10,6,4,11,8,7,12,4,0,,,
+UBC,2015,W,PSYC,531,,001,BEHAV ASSESSMENT,"Mikami, Amori",4,87.25,1.26,89,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,
+UBC,2016,W,PSYC,531,,001,BEHAV ASSESSMENT,"Mikami, Amori",4,88,3.65,92,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBC,2018,W,PSYC,531,,001,BEHAV ASSESSMENT,"Mikami, Amori",6,85.67,3.61,90,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,,,
+UBCV,2014,W,PSYC,217,,004,Research Methods,Amori Mikami,68,69.42647059,11.04578825,89.0,44.0,,,,,,,,,,,,,10,6,4,11,8,7,12,,0,,,
+UBCV,2018,W,PSYC,531,,001,Assessment: Clinical Applications,Adri Khalis Abdul Karim;Adri Khalis Bin Abdul Karim;Amori Mikami,6,85.666666667,3.614784456,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,1,,,
+UBCV,2020,W,PSYC,531,,001,Assessment: Clinical Applications,Amori Mikami;Elisha Klonsky;Kristen Hudec;Sophie Smit,7,90.285714286,3.773340064,94.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,5,,,
+UBCV,2021,W,PSYC,531,,001,Assessment: Clinical Applications,Amori Mikami;Elisha Klonsky;Mikayla Pachkowski,8,88.125,1.959409532,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,2,,,
+UBCV,2021,W,PSYC,531,,001,Assessment: Clinical Applications,Amori Mikami,8,88.1,,90.0,84.0,,,,,,,,,,,,,,,,,,,,,,88.5,89.3,87.8

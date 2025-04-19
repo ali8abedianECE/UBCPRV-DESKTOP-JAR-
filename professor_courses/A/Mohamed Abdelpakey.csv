@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,S,COSC,360,,001,Web Programming,Khandoker Md Ayman;Mohamed Abdelpakey;Sherif Elbishlawi,29,85.655172414,7.929492247,94.0,62.0,0,0,0,1,0,1,2,1,5,6,13,,,
+UBCO,2021,W,COSC,320,,001,Analysis of Algorithms,Anubhav Gupta;Anuradha Herath;Congsong Zhang;Devin Reinholz;Islam Osman;Ivan De Avila Ribeiro Carvalho;Ladan Tazik;Mohamed Abdelpakey;Roozbeh Eslami;Taif Anjum;Yiming Ding;Zenab Kutubuddin Kagdiwala;Zhongda Huang,148,85.385135135,8.492112105,98.0,56.0,0,0,2,2,3,6,6,12,20,40,57,,,
+UBCO,2021,W,COSC,328,,001,Introduction to Networks,Erfan Raoofian;Fatemeh Hendijani Fard;Mohamed Abdelpakey;Pinku Nath;Roozbeh Eslami;Zenab Kutubuddin Kagdiwala,92,80.75,9.093682144,94.0,47.0,1,1,3,1,3,3,8,9,29,24,10,,,
+UBCO,2021,W,DATA,532,,001,Algorithms and Data Structure,A.K.M Amanat Ullah;Mohamed Abdelpakey;Mohamed Shehata;Yiming Ding,31,95.580645161,4.372445491,100.0,83.0,0,0,0,0,0,0,0,0,2,1,28,,,
+UBCO,2021,S,COSC,360,,001,Web Programming,Mohamed Abdelpakey,29,85.7,,94.0,62.0,,,,,,,,,,6,13,88.0,91.0,82.0
+UBCO,2021,W,COSC,320,,001,Analysis of Algorithms,Mohamed Abdelpakey,148,85.4,,98.0,56.0,,,,,,6,6,12,20,40,57,87.0,91.0,81.0
+UBCO,2021,W,COSC,328,,001,Introduction to Networks,Mohamed Abdelpakey,92,80.8,,94.0,47.0,,,,,,,8,9,29,24,10,83.0,86.3,77.0
+UBCO,2021,W,DATA,532,,001,Algorithms and Data Structure,Mohamed Abdelpakey,31,95.6,,100.0,83.0,,,,,,,,,,,28,97.0,98.5,94.0

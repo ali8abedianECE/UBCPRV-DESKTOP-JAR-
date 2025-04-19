@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,SOCI,360,A,001,RESOURCES,"Piggot, Georgia Jean",64,78.09,9.72,94,58,64,0,0,0,0,0,0,0,0,0,0,0,2,4,5,2,9,10,11,15,6
+UBC,2014,W,SOCI,360,A,002,RESOURCES,"Piggot, Georgia Jean",48,77.92,10.08,95,57,48,0,0,0,0,0,0,0,0,0,0,0,1,1,7,5,4,5,12,5,8
+UBC,2016,S,SOCI,217,A,921,RESEARCH METHODS,"Piggot, Georgia Jean",55,75.47,8.64,91,56,55,0,0,0,0,0,0,0,0,0,0,0,2,3,7,5,8,9,12,6,3
+UBCV,2014,W,SOCI,360,A,001,Sociology and Natural Resources,Georgia Jean Piggot;Negar Hooshmand-Mozaffar,64,78.09375,9.717793776,94.0,58.0,,,,,,,,,,,0,0,,,5,2,9,10,11,15,6
+UBCV,2014,W,SOCI,360,A,002,Sociology and Natural Resources,Georgia Jean Piggot,48,77.91666667,10.07806409,95.0,57.0,,,,,,,,,,,0,0,,,7,5,4,5,12,5,8
+UBCV,2016,S,SOCI,217,A,921,Research Methods,Georgia Jean Piggot;Nicole Malette,55,75.47272727,8.636388446,91.0,56.0,,,,,,,,,,,0,0,2,3,7,5,8,9,12,6,3

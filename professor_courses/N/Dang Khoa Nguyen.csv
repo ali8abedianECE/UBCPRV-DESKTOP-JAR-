@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MATH,101,,210,INT CALC AP PH S,"Nguyen, Dang Khoa",51,66,21.42,96,0,42,8,1,0,0,2,0,1,1,4,8,3,4,6,2,2,4,4,10,4,3
+UBC,2014,W,MATH,200,,103,CALCULUS 3,"Nguyen, Dang Khoa",138,65.68,18.4,96,15,111,22,2,0,2,0,3,3,7,9,22,9,13,14,12,5,10,10,16,14,8
+UBC,2015,W,MATH,200,,104,CALCULUS 3,"Nguyen, Dang Khoa",131,63.36,18.36,97,8,105,22,4,0,0,1,1,5,9,6,22,17,12,9,8,12,10,7,12,9,9
+UBC,2015,W,MATH,200,,105,CALCULUS 3,"Nguyen, Dang Khoa",131,67.3,14.43,99,32,117,10,0,0,4,0,0,0,5,5,10,15,10,17,7,16,14,8,12,11,7
+UBC,2016,W,MATH,200,,103,CALCULUS 3,"Nguyen, Dang Khoa",106,69.31,16.04,95,28,91,12,3,0,0,0,0,2,4,6,12,6,6,8,8,12,12,6,14,8,11
+UBC,2016,W,MATH,200,,104,CALCULUS 3,"Nguyen, Dang Khoa",133,67.86,14.26,96,35,121,9,2,0,0,0,0,0,1,8,9,19,14,15,10,7,13,7,17,10,9
+UBCV,2014,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Dang Khoa Nguyen;Gregory Martin;Shirin Boroushaki,50,66.0,21.4190455,96.0,0.0,,,,,,,,,,,8,3,,6,,2,,,10,,
+UBCV,2014,W,MATH,200,,103,Calculus III,Ailana Fraser;Dang Khoa Nguyen,136,64.65441177,19.58358295,96.0,0.0,,,,,,,,,,,25,9,13,14,12,5,10,10,16,14,8
+UBCV,2015,W,MATH,200,,104,Calculus III,Dang Khoa Nguyen,127,63.362204724,18.360875109,97.0,8.0,,,,,,,,,,,22,17,12,9,8,12,10,7,12,9,9
+UBCV,2015,W,MATH,200,,105,Calculus III,Dang Khoa Nguyen,131,65.893129771,16.349195185,99.0,9.0,,,,,,,,,,,14,15,10,17,7,16,14,8,12,11,7
+UBCV,2016,W,MATH,200,,103,Calculus III,Albert Chau;Dang Khoa Nguyen,103,69.31067961,16.0373517,95.0,28.0,,,,,,,,,,,12,6,6,8,8,12,12,6,14,8,11
+UBCV,2016,W,MATH,200,,104,Calculus III,Albert Chau;Dang Khoa Nguyen,131,67.79389313,14.22387892,96.0,35.0,,,,,,,,,,,9,19,15,15,10,7,13,7,17,10,9

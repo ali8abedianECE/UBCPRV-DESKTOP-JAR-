@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,MECH,421,,201,Mechatronics System Instrumentation,Minkyun Noh;Mohammadreza Rostam;Xiao Liang Jin;Zhao Wei Lu,35,89.342857143,6.507655479,100.0,73.0,0,0,0,0,0,0,1,3,3,9,19,,,
+UBCV,2020,W,MECH,421,,201,Mechatronics System Instrumentation,Hamed Helisaz;Minkyun Noh;Reza Partovi,32,81.71875,10.701927397,92.0,40.0,1,0,0,0,1,2,3,4,6,6,9,,,
+UBCV,2021,W,MECH,360,,101,Mechanics of Materials,Ahmad Mohammadpanah Foroutaghe;Minkyun Noh;Mohammad Reza Fazlali;Mohammadali Hosseinimehr;Xiao Liang Jin,131,67.419847328,18.8919821,99.0,18.0,23,12,9,7,12,13,7,5,19,5,19,,,
+UBCV,2021,W,MECH,421,,201,Mechatronics System Instrumentation,Minkyun Noh;Reza Partovi;Taryn Loutit,30,87.4,6.906269016,98.0,71.0,0,0,0,0,0,1,1,1,7,5,15,,,
+UBCV,2021,W,MECH,468,,201,Modern Control Engineering,Minkyun Noh;Ryozo Nagamune;Yue Niu,24,76.166666667,13.229304319,98.0,36.0,1,0,1,1,0,4,2,4,4,4,3,,,
+UBCV,2021,W,MECH,509,,201,Controls,Minkyun Noh;Ryozo Nagamune;Yue Niu,27,82.555555556,8.732491641,100.0,64.0,0,0,0,0,2,0,2,3,8,6,6,,,
+UBCV,2021,W,MECH,540,C,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Minkyun Noh,12,84.416666667,5.680242206,91.0,74.0,0,0,0,0,0,0,1,1,5,1,4,,,
+UBCV,2021,W,MECH,421,,201,Mechatronics System Instrumentation,Minkyun Noh,30,87.4,,98.0,71.0,,,,,,,,,7,,15,88.0,92.8,83.3
+UBCV,2021,W,MECH,468,,201,Modern Control Engineering,Ryozo Nagamune;Minkyun Noh,24,76.2,,98.0,36.0,,,,,,,,,,,,78.0,85.0,69.8
+UBCV,2021,W,MECH,509,,201,Controls,Ryozo Nagamune;Minkyun Noh,27,82.6,,100.0,64.0,,,,,,,,,8,6,6,82.0,87.0,78.5
+UBCV,2021,W,MECH,540,C,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Minkyun Noh,12,84.4,,91.0,74.0,,,,,,,,,,,,84.0,90.3,82.0

@@ -1,0 +1,74 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,MECH,375,,202,HEAT TRANSFER I,"Atabaki, Nima",91,69.76,15.62,100,0,85,5,0,0,1,1,0,0,1,3,5,8,8,6,12,13,7,8,6,8,9
+UBC,2006,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",34,77.39,10.85,98,57,33,0,0,0,1,0,0,0,0,0,0,0,3,0,2,5,4,4,4,8,3
+UBC,2007,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",91,70.43,12.82,96,33,85,5,1,0,0,0,0,0,1,4,5,5,4,14,6,10,12,9,13,7,5
+UBC,2007,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",30,74.9,14.61,97,50,30,0,0,0,0,0,0,0,0,0,0,3,1,4,3,3,1,2,2,3,8
+UBC,2007,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",4,81.25,9.91,91,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+UBC,2009,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",107,65.06,16.57,97,10,91,14,1,1,0,0,1,0,3,10,14,14,8,14,10,6,10,4,8,7,10
+UBC,2009,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cramond, Pat;Croft, Elizabeth;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik;Winkelman, Paul",82,81.94,6.07,95,69,81,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,10,13,29,17,10
+UBC,2009,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",45,77.33,10.99,96,50,45,0,0,0,0,0,0,0,0,0,0,2,0,2,5,6,5,0,13,4,8
+UBC,2009,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",16,80.25,5.41,90,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,3,1
+UBC,2009,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",11,81.78,5.02,92,76,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,1
+UBC,2009,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",11,81,4.82,91,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,2,1
+UBC,2010,W,MECH,375,,101,HEAT TRANSFER I,"Atabaki, Nima",90,69.35,14.44,98,20,83,5,2,0,0,0,0,1,1,3,5,9,2,13,10,8,14,5,9,3,10
+UBC,2010,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",107,71.39,15.9,98,31,95,10,0,1,1,0,0,0,5,5,10,5,8,9,6,5,12,11,15,10,14
+UBC,2010,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cripton, Peter;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik",76,82.84,5.7,92,70,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,11,21,23,11
+UBC,2010,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",42,73.68,12.58,96,41,40,1,0,1,0,0,0,0,0,1,1,1,2,6,4,1,5,5,7,6,3
+UBC,2010,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",16,79.56,5.85,90,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6,1,2
+UBC,2010,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",13,81.67,9.29,94,60,12,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,4,1,4
+UBC,2010,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",11,85.1,5.57,91,75,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,3
+UBC,2011,W,MECH,375,,101,HEAT TRANSFER I,"Atabaki, Nima",87,66.86,17.93,94,15,73,13,1,0,0,0,2,2,2,7,13,5,8,9,4,6,8,10,10,4,9
+UBC,2011,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",105,71.9,14.67,97,0,99,6,0,0,0,1,0,0,1,4,6,7,7,4,14,8,9,10,25,7,8
+UBC,2011,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",46,79.59,8.92,96,56,44,0,2,0,0,0,0,0,0,0,0,0,1,1,2,2,7,12,5,5,9
+UBC,2011,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",21,80.43,5.89,90,67,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,8,5,1
+UBC,2011,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",6,83.83,5.04,90,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBC,2011,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",10,80,8.22,90,62,9,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,3,1
+UBC,2012,W,MECH,375,,101,HEAT TRANSFER I,"Atabaki, Nima",133,66.93,20.08,99,5,107,22,4,0,0,3,1,1,6,11,22,11,6,8,17,5,13,4,21,2,20
+UBC,2012,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",139,73.46,14.47,100,37,128,8,2,0,1,0,0,0,1,7,8,5,9,11,12,12,16,9,19,12,23
+UBC,2012,W,MECH,375,,T1A,HEAT TRANSFER I,"Atabaki, Nima",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,MECH,473,,101,HEAT VENT AIR CO,"Atabaki, Nima",37,75.67,12.54,100,40,34,2,1,0,0,0,0,0,0,2,2,1,0,2,1,5,3,3,14,1,4
+UBC,2012,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",18,83.67,6.24,94,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,4,4
+UBC,2012,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",6,88.17,7.6,96,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3
+UBC,2012,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",11,81.09,4.55,90,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,1,1
+UBC,2013,W,MECH,375,,101,HEAT TRANSFER I,"Atabaki, Nima",112,69.07,18.59,100,30,94,18,0,0,0,0,0,0,9,9,18,5,9,8,10,9,3,7,15,11,17
+UBC,2013,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",134,69.34,15.58,100,20,122,10,0,0,2,0,0,1,3,6,10,14,8,9,21,9,16,4,14,10,17
+UBC,2013,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;Van der Loos, Hendrik",25,84.36,4.54,91,73,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,8,4
+UBC,2013,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Ma, Hongshen;TBA;Van der Loos, Hendrik;Williams, Wayne",67,83.93,5.33,93,72,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,15,26,10
+UBC,2013,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;TBA;Van der Loos, Hendrik",24,82.92,6.59,92,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,4,7,5
+UBC,2013,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;TBA;Van der Loos, Hendrik",9,78.44,18.47,87,30,8,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,6,0
+UBC,2013,W,MECH,473,,201,HEAT VENT AIR CO,"Atabaki, Nima",49,80,11.09,97,55,46,0,0,3,0,0,0,0,0,0,0,0,1,1,7,5,2,2,9,7,12
+UBC,2013,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",31,80.77,5.56,92,70,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,12,9,1
+UBC,2013,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",6,78.17,11.43,90,57,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,1,1
+UBC,2015,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;Ollivier-Gooch, Carl",129,72.48,12.05,100,29,121,7,1,0,0,0,0,1,2,4,7,0,5,13,8,21,21,21,18,6,8
+UBC,2015,W,MECH,375,,101,HEAT TRANSFER I,"Atabaki, Nima",86,69.25,18.99,96,0,71,14,1,0,0,1,0,2,3,8,14,2,3,9,6,3,11,4,12,12,9
+UBC,2015,W,MECH,375,,201,HEAT TRANSFER I,"Atabaki, Nima",117,69.43,18.38,97,0,100,15,1,0,1,1,2,0,6,6,15,5,4,15,8,3,14,9,13,17,12
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2015,W,MECH,572,,101,CONVEC HT TRANSF,"Atabaki, Nima",10,82,6.93,93,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,2,2
+UBC,2016,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",130,74.68,12.5,99,0,126,3,0,0,1,1,0,0,0,2,3,2,7,7,5,22,15,18,28,10,12
+UBC,2016,W,MECH,375,,101,HEAT TRANSFER,"Atabaki, Nima",90,69.42,17.24,100,23,80,10,0,0,0,0,0,2,3,5,10,4,4,13,9,9,7,3,12,7,12
+UBC,2016,W,MECH,375,,201,HEAT TRANSFER,"Atabaki, Nima",143,69.89,16.64,98,0,126,15,2,0,0,1,1,2,3,8,15,8,6,13,9,10,19,9,25,19,8
+UBC,2016,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",8,82.75,8.05,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+UBC,2016,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",55,86.25,5.69,97,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,14,18,19
+UBC,2016,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",22,85.64,6.16,92,74,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,2,12
+UBC,2016,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",9,84.33,3.54,90,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1
+UBC,2016,W,MECH,572,,101,CONVEC HT TRANSF,"Atabaki, Nima",6,84.5,6.28,92,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,2
+UBC,2017,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",129,77.14,9.72,99,46,128,1,0,0,0,0,0,0,0,1,1,1,2,7,12,12,14,19,35,11,15
+UBC,2017,W,MECH,375,,201,HEAT TRANSFER,"Atabaki, Nima",126,74.09,15.54,100,27,116,9,0,0,1,0,0,1,4,4,9,1,9,11,7,13,12,8,16,16,23
+UBC,2017,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",22,87.05,3.62,92,80,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,8
+UBC,2017,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",60,85.93,5.54,94,71,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,12,19,22
+UBC,2017,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",26,85.38,6.14,94,76,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3,10
+UBC,2017,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",13,86.85,5.44,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6
+UBC,2017,W,MECH,473,,201,HEAT VENT AIR CO,"Atabaki, Nima",30,82.07,12.32,97,50,28,0,0,2,0,0,0,0,0,0,0,2,0,1,0,2,2,1,5,4,11
+UBC,2017,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",30,83.18,6.04,95,70,28,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,11,7,5
+UBC,2017,W,MECH,572,,101,CONVEC HT TRANSF,"Atabaki, Nima",8,85.75,6.27,95,76,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3
+UBC,2017,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",8,84.75,4.92,90,75,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2
+UBC,2018,W,CEEN,550,,101,ENRGY EFF & CONS,"Atabaki, Nima",26,83.85,8.49,96,66,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,1,6,4,9
+UBC,2018,W,MECH,220,,101,TECH SKILLS PRAC,"Abello Rubio, Juan;Atabaki, Nima;Fengler, Markus;Rawlings, George;d'Entremont, Agnes",121,82.63,4.82,92,71,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,18,45,40,5
+UBC,2018,W,MECH,375,,101,HEAT TRANSFER,"Atabaki, Nima",99,71.9,14.06,100,40,93,5,1,0,0,0,0,0,0,5,5,6,7,9,7,9,19,3,15,6,12
+UBC,2018,W,MECH,375,,201,HEAT TRANSFER,"Atabaki, Nima",121,72.71,13.77,100,34,111,6,1,0,3,0,0,0,1,5,6,7,8,7,13,11,13,11,13,15,13
+UBC,2018,W,MECH,489,,101,EXP THERMOFLUIDS,"Atabaki, Nima",10,81.7,4.88,86,70,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,4,0
+UBC,2018,W,MECH,572,,201,CONVEC HT TRANSF,"Atabaki, Nima",9,84.33,3.91,90,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,2
+UBC,2018,W,MECH,582,,101,EXP FLUID MECH,"Atabaki, Nima",6,84.33,9.31,91,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4

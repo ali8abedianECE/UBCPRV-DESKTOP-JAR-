@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CPSC,532,R,201,Topics in Artificial Intelligence,Helge Rhodin;Yuchi Zhang,12,93.583333333,5.38446137,99.0,81.0,0,0,0,0,0,0,0,0,1,1,10,,,
+UBCV,2019,W,CPSC,533,R,201,Topics in Computer Graphics,Helge Rhodin;Yuchi Zhang,11,93.090909091,7.582275984,100.0,76.0,0,0,0,0,0,0,0,1,0,2,8,,,
+UBCV,2020,W,CPSC,427,,201,Video Game Programming,Andrew Joseph Evans;David Eric Pagurek Van Mossel;David Pagurek Van Mossel;Grace Chang;Helge Rhodin;Tim Straubinger,73,92.904109589,8.221186018,100.0,45.0,1,0,0,0,1,0,0,0,3,9,59,,,
+UBCV,2020,W,CPSC,533,R,101,Topics in Computer Graphics,Helge Rhodin;Yuchi Zhang,31,94.161290323,4.033995325,98.0,78.0,0,0,0,0,0,0,0,1,0,1,29,,,
+UBCV,2021,W,CPSC,427,,101,Video Game Programming,Andrew Joseph Evans;Camilo Talero;Helge Rhodin;Tim Straubinger,75,87.84,10.196766843,100.0,22.0,1,0,0,0,0,1,0,7,15,14,37,,,
+UBCV,2021,W,CPSC,533,R,201,Topics in Computer Graphics,Helge Rhodin;Xingzhe He,25,91.12,5.449158957,97.0,80.0,0,0,0,0,0,0,0,0,4,3,18,,,
+UBCV,2021,W,CPSC,427,,101,Video Game Programming,Helge Rhodin,75,87.8,,100.0,22.0,,,,,,,,7,15,14,37,89.0,94.0,83.5
+UBCV,2021,W,CPSC,533,R,201,Topics in Computer Graphics,Helge Rhodin,25,91.1,,97.0,80.0,,,,,,,,,,,18,93.0,95.0,89.0
+UBCV,2022,W,CPSC,533,R,201,Topics in Computer Graphics,Helge Rhodin,18,92.1,,99.0,40.0,1,0,0,0,0,1,0,0,0,0,16,96.0,97.0,96.0
+UBCV,2023,W,CPSC,427,,101,Video Game Programming,Helge Rhodin,105,94.3,,100.0,70.0,0,0,0,0,0,1,1,2,3,9,88,95.0,98.0,93.0

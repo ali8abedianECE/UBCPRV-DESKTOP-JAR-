@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Jia Xu,99,56.05050505,25.85334374,100.0,0.0,29,15,5,8,9,3,5,5,4,7,9,,,
+UBCO,2014,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz,100,58.66,22.09630894,98.0,0.0,29,7,11,8,9,7,4,4,9,5,7,,,
+UBCO,2014,W,MATH,111,,101,Finite Mathematics,Edward Butz,43,68.23255814,19.3080753,95.0,15.0,5,,,,,8,,,,5,5,,,
+UBCO,2014,W,MATH,116,,002,Calculus I for Management and Economics,Edward Butz;Yue Hu,86,63.25581395,20.63303237,97.0,0.0,17,9,5,7,3,9,10,8,9,4,5,,,
+UBCO,2015,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Dongying Wang;Edward Butz;Haniel Udubra;Jia Xu,115,57.530434783,24.591869195,99.0,0.0,39,15,7,8,7,4,1,5,9,5,15,,,
+UBCO,2015,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Chayne C Planiden;Edward Butz;May Anne Mata,106,65.716981132,21.247186802,100.0,0.0,18,10,9,3,14,8,7,5,9,7,16,,,
+UBCO,2015,W,MATH,142,,001,Calculus II for Management and Economics,Edward Butz;Jia Xu,83,69.554216867,22.875193195,100.0,0.0,10,8,6,5,,6,,,13,12,13,,,
+UBCO,2016,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Dongying Wang;Edward Butz;Kitty Deng;Maryam Sadeghi,123,55.75609756,25.49617183,97.0,0.0,48,10,4,3,11,5,7,12,6,5,12,,,
+UBCO,2016,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Megan Tung;Navkiran Bahia;Tushar Dave,101,56.41584158,23.33120971,100.0,0.0,36,12,5,6,6,7,7,4,7,2,9,,,
+UBCO,2016,W,MATH,116,,002,Calculus I for Management and Economics,Dongying Wang;Edward Butz;Haniel Udubra,119,58.59663866,21.88077065,95.0,0.0,34,15,6,7,10,8,13,5,10,5,6,,,
+UBCO,2016,W,MATH,142,,001,Calculus II for Management and Economics,Edward Butz;Hui Ouyang,74,63.44594595,19.77693543,97.0,1.0,12,6,8,7,7,9,5,6,4,4,6,,,
+UBCO,2016,W,MATH,409,,001,Mathematics of Financial Derivatives,Edward Butz,6,73.66666667,36.53309002,96.0,0.0,1,0,0,0,0,0,0,0,1,2,2,,,
+UBCO,2017,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Kelsea O'Gorman;Vanessa White;Zelalem Setegn,177,51.615819209,21.43778998,95.0,0.0,64,27,22,8,14,10,10,6,7,7,2,,,
+UBCO,2017,W,MATH,116,,002,Calculus I for Management and Economics,Edward Butz;Ruichao Jiang,117,61.888888889,20.455493225,100.0,1.0,26,12,10,11,7,11,6,11,9,7,7,,,
+UBCO,2017,W,MATH,142,,001,Calculus II for Management and Economics,Edward Butz;Nhut Bui,75,66.32,24.373867264,100.0,0.0,14,5,7,5,6,8,2,2,5,5,16,,,
+UBCO,2018,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Fuentes Nunez;Edward Butz;Maryam Sadeghi;Ziyuan Wang,173,53.595375723,23.453030287,100.0,0.0,59,27,14,7,13,13,9,5,10,8,8,,,
+UBCO,2018,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Maryam Sadeghi;Patrick Nadeau,108,54.601851852,24.090537878,99.0,0.0,36,18,8,7,4,5,5,4,7,9,5,,,
+UBCO,2018,W,MATH,111,,101,Finite Mathematics,Charles Jolin-Landry;Edward Butz,74,66.202702703,21.425870759,100.0,0.0,7,9,8,5,8,7,7,1,7,5,10,,,
+UBCO,2018,W,MATH,116,,001,Calculus I for Management and Economics,Brooke Kwan;Charles Jolin-Landry;Drue Julien;Edward Butz;Hyolim Lee;Olivia Marleau;Vanessa White;Xinyu Zhang;You Rao,214,65.775700935,19.353547023,99.0,0.0,28,23,17,16,21,16,19,20,24,13,17,,,
+UBCO,2018,W,MATH,142,,001,Calculus II for Management and Economics,Alejandra Fuentes Nunez;Edward Butz;Hui Ouyang,64,59.765625,24.821740463,100.0,0.0,16,6,8,4,3,2,4,6,4,3,8,,,
+UBCO,2018,W,MATH,409,,101,Mathematics of Financial Derivatives,Edward Butz,16,91.9375,5.48292805,100.0,83.0,0,0,0,0,0,0,0,0,3,2,11,,,
+UBCO,2019,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Ogilvy;Cole Priestman;Edward Butz;Manish Krishan Lal;Maryam Sadeghi;Patrick Nadeau;Shambhavi Singh;Xiaoying Zhang;Xinchen Deng;Ziyuan Wang,151,69.662251656,13.617090936,98.0,2.0,5,15,13,17,18,14,16,15,18,13,7,,,
+UBCO,2019,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Alexander Molnar;Edward Butz;Manish Krishan Lal;Saeed Moghaddam;Xinyu Zhang,125,48.952,23.359344335,97.0,0.0,48,31,9,8,2,5,2,5,4,5,6,,,
+UBCO,2019,W,MATH,111,,101,Finite Mathematics,Cole Priestman;Edward Butz;Maria Guenter;Vanessa White,52,64.653846154,23.531276321,100.0,9.0,9,5,5,3,5,1,3,4,8,1,8,,,
+UBCO,2019,W,MATH,125,,001,Pre-Calculus,Edward Butz;Hui Ma;Kaede Hirabayashi,72,55.375,21.884097706,98.0,0.0,20,12,8,8,5,1,3,3,6,2,4,,,
+UBCO,2019,W,MATH,142,,001,Calculus II for Management and Economics,Charlotte Thys;Edward Butz;Hui Ouyang;Javad Tavakoli,70,74.928571429,11.569977927,95.0,45.0,1,4,2,4,5,7,12,8,13,7,7,,,
+UBCO,2019,W,MATH,317,,001,Calculus IV,Edward Butz;Gabriel Jarry-Bolduc;Manish Krishan Lal;Shambhavi Singh;Ziyuan Wang,62,82.112903226,12.30767432,100.0,46.0,1,0,3,1,5,2,5,5,8,11,21,,,
+UBCO,2020,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alexander Iannantuono;Alexander Molnar;Edward Butz;Gabriel Jarry-Bolduc;Geoff Goetz;Ian Chambers;Manish Krishan Lal;Marjan Yaghoubi;Maryam Sadeghi;Pradeep Mahato;Saeed Moghaddam,145,61.551724138,22.130274335,100.0,0.0,23,16,13,14,17,14,14,11,8,5,10,,,
+UBCO,2020,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Alexander Iannantuono;Amir Hossein Zeinali Kalkhoran;Bilal Madani;Chunlei Ge;Edward Butz;Garen Goh;Haashim Madani;Jason Reich;Manish Krishan Lal;Maria Guenter;Paula Wong-Chung;Saeed Moghaddam;Shambhavi Singh;Tenzin Kunkyab;Wayne Broughton;Xiaoying Zhang,113,67.115044248,16.999869859,100.0,15.0,29,3,4,3,14,10,9,12,14,5,10,,,
+UBCO,2020,W,MATH,111,,101,Finite Mathematics,Donovan Hare;Edward Butz;Maria Guenter,56,67.0,21.96774495,96.0,0.0,10,3,7,3,4,1,6,1,7,6,8,,,
+UBCO,2020,W,MATH,200,,001,Calculus III,Edward Butz;Jakob Thoms;Manish Krishan Lal;Saeed Moghaddam,203,73.280788177,12.619918853,100.0,43.0,1,18,10,21,17,20,27,18,33,16,22,,,
+UBCO,2020,W,MATH,307,,101,Applied Linear Algebra,Alexander Iannantuono;Edward Butz;Manish Krishan Lal;Maria Guenter;Wayne Broughton,66,75.348484848,10.110911736,92.0,46.0,1,2,2,1,5,11,8,13,11,9,3,,,
+UBCO,2020,W,MATH,317,,001,Calculus IV,Edward Butz;Maria Guenter,57,76.543859649,21.679541191,100.0,0.0,5,1,2,6,0,2,8,3,5,2,23,,,
+UBCO,2021,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Heejun Song;Indira Mishra;James Fraser;Md Tareque Hossain;Theo Bendit,139,54.503597122,25.342973214,96.0,0.0,44,11,8,13,14,8,10,10,11,4,6,,,
+UBCO,2021,W,MATH,200,,001,Calculus III,Edward Butz;Jesse Ghashti;Manish Krishan Lal;Saeed Moghaddam,131,67.496183206,18.495061314,100.0,10.0,17,8,12,13,7,15,11,13,10,13,12,,,
+UBCO,2021,W,MATH,200,,002,Calculus III,Edward Butz;Jesse Ghashti;Manish Krishan Lal;Saeed Moghaddam,48,66.916666667,18.0988225,98.0,21.0,8,5,2,1,5,6,3,5,5,5,3,,,
+UBCO,2021,W,MATH,307,,101,Applied Linear Algebra,Edward Butz;Manish Krishan Lal,62,71.709677419,19.099727143,100.0,0.0,5,2,5,1,10,7,8,2,4,8,10,,,
+UBCO,2021,W,MATH,317,,001,Calculus IV,Edward Butz;Manish Krishan Lal,38,70.815789474,19.676924698,94.0,18.0,5,1,0,0,4,6,4,3,4,9,2,,,
+UBCO,2021,W,MATH,200,,001,Calculus III,Edward Butz,131,67.5,,100.0,10.0,17,8,12,13,7,15,11,13,10,13,12,70.0,82.0,57.5
+UBCO,2021,W,MATH,200,,002,Calculus III,Edward Butz,48,66.9,,98.0,21.0,8,,,,,6,,,,,,70.0,81.3,53.8
+UBCO,2021,W,MATH,307,,101,Applied Linear Algebra,Edward Butz,62,71.7,,100.0,0.0,,,,,10,7,8,,,8,10,73.0,85.8,65.0
+UBCO,2021,W,MATH,317,,001,Calculus IV,Edward Butz,38,70.8,,94.0,18.0,,,,,,6,,,,9,,74.0,85.8,67.3
+UBCO,2022,W,MATH,200,,001,Calculus III,Edward Butz,122,67.4,,100.0,24.0,18,19,6,11,9,4,7,7,13,8,20,66.5,84.0,52.3
+UBCO,2022,W,MATH,200,,002,Calculus III,Edward Butz,101,68.3,,100.0,11.0,14,8,9,6,10,10,8,7,9,2,18,70.0,83.0,56.0
+UBCO,2022,W,MATH,307,,101,Applied Linear Algebra,Edward Butz,55,71.6,,100.0,0.0,4,3,4,5,5,5,7,4,3,6,9,73.0,85.0,63.0
+UBCO,2022,W,MATH,317,,001,Calculus IV,Edward Butz,45,74.0,,100.0,15.0,4,4,3,2,3,1,3,2,5,4,14,80.0,91.0,60.0
+UBCO,2023,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz,170,58.8,,100.0,0.0,38,22,10,14,6,8,17,10,7,6,13,62.0,75.0,47.0
+UBCO,2023,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz,125,60.3,,100.0,9.0,28,18,11,8,9,10,6,8,8,5,12,61.0,77.0,50.0
+UBCO,2023,W,MATH,317,,001,Calculus IV,Edward Butz,66,72.0,,100.0,0.0,9,3,3,1,5,5,5,4,5,12,12,76.5,87.0,63.0
+UBCO,2023,W,STAT,324,,001,Mathematical Finance,Edward Butz,10,88.7,,100.0,72.0,0,0,0,0,0,0,1,1,1,1,5,92.0,94.0,83.0

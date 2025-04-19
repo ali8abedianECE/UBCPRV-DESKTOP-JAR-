@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2016,S,CPSC,221,,911,Basic Algorithms and Data Structures,Alistair Finn Hackett;Avery Beardmore;Bing Fan;Geoffrey Tien;Ha Jung Rachel Han;Halldor Bjarni Thorhallson;Hyunjun Jang;Jeong Hun Sun;Kimberly Dextras-Romagnino;Shu Yang;Wali Ahmed Usmani;Yi Ren;Yingyu Feng;Zheng Dong;Zixuan Zeng;Ziyang Jin,144,68.51388889,11.94977023,99.0,35.0,6,13,13,14,19,19,21,14,13,7,5
+UBCV,2017,W,CPSC,312,,101,Functional and Logic Programming,Alistair Finn Hackett;David Poole;Minh Do;Rui Ge,112,77.5,14.655810888,100.0,0.0,4,2,2,4,8,11,11,9,19,24,18
+UBCV,2020,W,CPSC,415,,101,Advanced Operating Systems,Alistair Finn Hackett;Donald Acton;Ray Zhang;Surbhi Ameya Palande;William Walcher,58,79.379310345,9.273292317,99.0,55.0,0,0,2,1,2,8,4,11,13,9,8
+UBCV,2020,W,CPSC,416,,201,Distributed Systems,Alistair Finn Hackett;Ivan Beschastnikh;Mayank Tiwary;Seyed Shayan Hosseini;Shiqi He,132,82.71969697,11.892209519,100.0,29.0,2,2,3,0,5,6,8,15,23,26,42

@@ -1,0 +1,92 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",95,69.47,13.23,97,35,82,11,2,0,0,0,0,0,1,10,11,5,5,4,5,12,15,16,10,6,4,,,
+UBC,2005,W,MATH,103,,201,INT CALC AP LF S,"Cytrynbaum, Eric",90,73.58,10.53,94,39,89,1,0,0,0,0,0,0,1,0,1,3,4,5,8,18,11,7,20,9,4,,,
+UBC,2005,W,MATH,103,,204,INT CALC AP LF S,"Cytrynbaum, Eric",91,68.59,13.32,92,35,81,9,1,0,0,0,0,0,2,7,9,7,8,3,10,9,17,4,13,8,2,,,
+UBC,2006,W,MATH,103,,201,INT CALC AP LF S,"Cytrynbaum, Eric",100,69.44,11.79,94,35,95,4,1,0,0,0,0,0,1,3,4,5,12,12,9,14,15,6,10,9,3,,,
+UBC,2006,W,MATH,361,,101,INT MATH BIOLOGY,"Cytrynbaum, Eric",37,70.34,17.44,98,17,31,4,2,0,0,0,1,0,1,2,4,2,2,3,1,6,3,1,8,1,4,,,
+UBC,2006,W,MATH,612,E,201,TOPICS MATH BIOL,"Cytrynbaum, Eric",4,88.25,1.26,90,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,,,
+UBC,2007,W,MATH,462,,201,PROJ MATHL BIOLG,"Cytrynbaum, Eric",10,82.8,18.2,96,35,9,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,1,1,5,,,
+UBC,2009,W,MATH,612,D,201,TOPICS MATH BIOL,"Cytrynbaum, Eric",9,85.11,4.78,93,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,1,,,
+UBC,2010,W,MATH,215,,201,ELEM DIFF EQ I,"Cytrynbaum, Eric",107,64.35,18.22,100,16,75,22,7,0,3,0,1,3,3,15,22,7,7,7,10,9,10,8,1,7,9,,,
+UBC,2012,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",137,71.47,13.15,96,31,127,6,3,0,0,0,0,0,2,4,6,8,10,12,15,14,11,17,19,13,8,,,
+UBC,2012,W,MATH,102,,105,DF CALC APP LF S,"Cytrynbaum, Eric",64,68.08,17.64,98,0,56,6,2,0,0,1,0,1,1,3,6,5,5,4,5,8,7,8,5,4,5,,,
+UBC,2012,W,MATH,361,,101,INT MATH BIOLOGY,"Cytrynbaum, Eric",29,68.81,15.8,99,34,22,4,3,0,0,0,0,0,2,2,4,0,2,2,1,4,2,6,3,1,1,,,
+UBC,2013,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",135,71.66,14,97,27,121,10,2,0,2,0,0,1,5,4,10,2,5,13,15,12,19,13,19,11,12,,,
+UBC,2013,W,MATH,102,,102,DF CALC APP LF S,"Cytrynbaum, Eric;MacLean, Mark Thomson;TBA",59,67,16.74,98,33,46,11,2,0,0,0,0,0,5,6,11,2,3,7,2,8,5,3,7,6,3,,,
+UBC,2013,W,MATH,256,,201,DIFF EQUATIONS,"Cytrynbaum, Eric",108,70.73,14,97,29,97,6,2,0,3,0,0,1,0,5,6,10,5,12,6,14,8,10,13,9,10,,,
+UBC,2013,W,MATH,563,,101,MDL CELL-SCL BIO,"Cytrynbaum, Eric",8,92.17,1.6,94,90,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBC,2014,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",124,72.2,14.83,98,36,115,8,1,0,0,0,0,0,4,4,8,5,13,8,14,11,6,15,14,14,15,,,
+UBC,2014,W,MATH,102,,103,DF CALC APP LF S,"Cytrynbaum, Eric",112,70.74,14.42,99,31,98,11,0,0,3,0,0,0,4,7,11,5,5,4,12,18,9,17,12,6,10,,,
+UBC,2014,W,MATH,256,,201,DIFF EQUATIONS,"Cytrynbaum, Eric",123,65.21,15.83,97,18,104,17,0,0,2,0,1,3,4,9,17,8,12,14,14,10,12,10,13,9,2,,,
+UBC,2015,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",147,71.57,15.42,94,23,129,17,1,0,0,0,0,1,8,8,17,3,6,9,10,16,16,16,25,17,11,,,
+UBC,2015,W,MATH,256,,201,DIFF EQUATIONS,"Cytrynbaum, Eric",136,68.42,15.18,98,30,117,16,0,0,3,0,0,0,7,9,16,9,11,11,9,15,14,16,10,16,6,,,
+UBC,2016,W,MATH,102,,101,DF CALC APP LF S,"Cytrynbaum, Eric",149,72.66,14.54,93,17,137,12,0,0,0,0,1,2,4,5,12,2,7,11,8,14,16,19,36,18,6,,,
+UBC,2016,W,MATH,256,,201,DIFF EQUATIONS,"Cytrynbaum, Eric",136,73.4,13.13,99,30,128,3,2,0,3,0,0,0,1,2,3,7,10,12,10,15,13,14,20,12,15,,,
+UBC,2017,W,MATH,102,,104,DF CALC APP LF S,"Cytrynbaum, Eric",99,71.32,14.26,94,0,93,5,0,0,1,1,0,0,1,3,5,2,6,14,11,8,16,7,9,14,6,,,
+UBC,2017,W,MATH,102,,106,DF CALC APP LF S,"Cytrynbaum, Eric",117,63.23,15.49,99,18,95,19,3,0,0,0,1,1,4,13,19,16,11,11,8,16,9,8,9,0,7,,,
+UBC,2017,W,MATH,560,,201,MATH BIOLOGY,"Cytrynbaum, Eric",8,88.25,4.06,92,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2014,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum,123,72.20325203,14.82795286,98.0,36.0,,,,,,,,,,,8,5,13,8,14,11,6,15,14,14,15,,,
+UBCV,2014,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Niki Mavraki,68,68.23529412,18.76493845,99.0,13.0,,,,,,,,,,,9,4,3,5,8,10,4,6,4,8,7,,,
+UBCV,2014,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum,112,69.19642857,17.05731688,99.0,5.0,,,,,,,,,,,14,5,5,4,12,18,9,17,12,6,10,,,
+UBCV,2014,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Wesley Maciejewski,94,72.62765957,15.80525572,100.0,13.0,,,,,,,,,,,9,2,8,7,8,6,7,10,14,11,12,,,
+UBCV,2014,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Hexi Ye,66,68.48484849,18.68709339,100.0,11.0,,,,,,,,,,,7,5,3,6,6,10,5,4,7,5,8,,,
+UBCV,2014,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Carmen Bruni;Eric Cytrynbaum;Leah Edelstein-Keshet;Leah Keshet,116,73.96551724,13.38261756,98.0,45.0,,,,,,,,,,,6,5,7,7,8,15,13,9,15,17,14,,,
+UBCV,2014,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Alastair Jamieson-Lane;Carmen Bruni;Eric Cytrynbaum,107,62.13084112,20.92172479,98.0,16.0,,,,,,,,,,,28,5,8,10,8,7,8,9,11,5,8,,,
+UBCV,2014,W,MATH,256,,102,Differential equations,Duncan Hewitt;Eric Cytrynbaum,150,65.44,16.78585214,97.0,0.0,,,,,,,,,,,21,15,12,13,13,15,13,12,21,10,5,,,
+UBCV,2014,W,MATH,256,,103,Differential equations,Eric Cytrynbaum;Juncheng Wei,155,62.85806452,21.48313706,99.0,1.0,,,,,,,,,,,22,23,15,10,15,11,13,11,12,11,12,,,
+UBCV,2014,W,MATH,256,,201,Differential equations,Catherine Byrne;Eric Cytrynbaum;Hildur Knutsdottir;Jia Gou,123,64.23577236,17.44550358,97.0,0.0,,,,,,,,,,,19,8,12,14,14,10,12,10,13,9,2,,,
+UBCV,2015,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum,146,71.568493151,15.423183416,94.0,23.0,,,,,,,,,,,17,3,6,9,10,16,16,16,25,17,11,,,
+UBCV,2015,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Weiwei Ao,52,65.634615385,16.667484897,94.0,17.0,,,,,,,,,,,8,6,5,,,5,5,6,5,,,,,
+UBCV,2015,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Yue-Xian Li,128,68.2734375,14.624817029,95.0,0.0,,,,,,,,,,,18,2,11,11,14,17,13,11,14,11,6,,,
+UBCV,2015,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Hexi Ye,83,68.78313253,14.318713828,97.0,28.0,,,,,,,,,,,8,7,4,5,8,15,5,7,14,6,4,,,
+UBCV,2015,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Omar Antolin Camarena,74,69.891891892,14.723541459,90.0,24.0,,,,,,,,,,,8,,6,,,12,10,6,13,10,,,,
+UBCV,2015,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Leah Edelstein-Keshet;Leah Keshet,124,70.774193548,13.083744466,97.0,16.0,,,,,,,,,,,5,2,11,15,12,15,19,10,21,8,6,,,
+UBCV,2015,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;William Carlquist,73,63.671232877,14.44342872,90.0,10.0,,,,,,,,,,,10,6,11,9,5,9,8,3,7,,,,,
+UBCV,2015,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Eric Cytrynbaum;Kseniya Garaschuk,157,78.929936306,13.715102405,98.0,25.0,,,,,,,,,,,7,,6,,12,8,16,19,21,25,39,,,
+UBCV,2015,W,MATH,256,,201,Differential equations,Eric Cytrynbaum,136,67.220588235,17.115594439,98.0,0.0,,,,,,,,,,,19,9,11,11,9,15,14,16,10,16,6,,,
+UBCV,2016,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,149,72.66442953,14.5423941,93.0,17.0,,,,,,,,,,,12,2,7,11,8,14,16,19,36,18,6,,,
+UBCV,2016,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Marc Stephan;Rebeca Cardim Falcao,69,71.28985507,13.1217169,94.0,29.0,,,,,,,,,,,4,4,5,3,5,8,12,9,12,2,5,,,
+UBCV,2016,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao;Tai-Peng Tsai,96,60.44791667,17.56663691,93.0,7.0,,,,,,,,,,,19,15,11,8,7,10,5,3,10,6,2,,,
+UBCV,2016,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Ali Roustaei;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,94,74.91489362,13.34461317,96.0,27.0,,,,,,,,,,,3,5,3,6,6,12,6,9,20,15,9,,,
+UBCV,2016,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Pooya Ronagh;Rebeca Cardim Falcao,74,75.45945946,15.57851452,94.0,20.0,,,,,,,,,,,6,1,3,3,2,5,3,13,19,10,9,,,
+UBCV,2016,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Cole Zmurchok;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,128,69.8046875,15.19793738,97.0,22.0,,,,,,,,,,,10,11,10,12,6,12,14,14,19,11,9,,,
+UBCV,2016,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Adam Gyenge;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,75,64.76,13.69043857,97.0,33.0,,,,,,,,,,,9,10,9,6,5,7,12,6,7,3,1,,,
+UBCV,2016,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Nathaniel Bade;Rebeca Cardim Falcao,154,73.11038961,13.27416366,97.0,19.0,,,,,,,,,,,8,4,11,10,11,19,19,16,29,15,12,,,
+UBCV,2016,W,MATH,256,,201,Differential equations,Eric Cytrynbaum,134,72.01492537,15.93501138,99.0,6.0,,,,,,,,,,,6,7,10,12,10,15,13,14,20,12,15,,,
+UBCV,2016,W,MATH,256,,202,Differential equations,Eric Cytrynbaum;Thomas Eaves,118,75.52542373,12.47678998,98.0,23.0,,,,,,,,,,,2,6,4,4,12,9,14,19,19,15,14,,,
+UBCV,2017,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Elyse Yeager;Eric Cytrynbaum,99,70.797979798,15.094247991,94.0,0.0,,,,,,,,,,,6,2,6,14,11,8,16,7,9,14,6,,,
+UBCV,2017,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Elyse Yeager;Eric Cytrynbaum,114,63.228070175,15.489668317,99.0,18.0,,,,,,,,,,,19,16,11,11,8,16,9,8,9,0,7,,,
+UBCV,2017,W,MATH,560,,201,Mathematical Biology,Eric Cytrynbaum,8,88.25,4.062019202,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2019,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Alejandra Herrera Reyes;Ananya Saraph;Elyse Yeager;Eric Cytrynbaum;Kateryna Melnykova;Yuxuan Zhao,215,65.911627907,15.561352939,97.0,2.0,,,,,,,,,,,23,26,13,23,19,26,29,8,21,17,10,,,
+UBCV,2019,W,MATH,102,,112,Differential Calculus with Applications to Life Sciences,Alejandra Herrera Reyes;Ananya Saraph;Elyse Yeager;Eric Cytrynbaum;Kateryna Melnykova;Shukan Yang,34,67.470588235,13.560717095,91.0,34.0,,,,,,,,,,,3,3,1,6,3,4,6,2,1,3,2,,,
+UBCV,2020,W,MATH,256,,101,Differential Equations,Alex Shiu Lun Chu;Andreas Buttenschoen;Eric Cytrynbaum;Frederic Paquin-Lefebvre;Michael Deakin;Michael Fremont Deakin;Mikhail Chernobai;Nicholas Hu;Qidi Zhang;Xinyu Cheng,233,69.944206009,12.818742117,96.0,23.0,,,,,,,,,,,9,14,23,28,17,29,26,22,35,20,10,,,
+UBCV,2020,W,MATH,256,,102,Differential Equations,Alex Shiu Lun Chu;Andreas Buttenschoen;Eric Cytrynbaum;Frederic Paquin-Lefebvre;Michael Deakin;Michael Fremont Deakin;Mikhail Chernobai;Nicholas Hu;Qidi Zhang;Xinyu Cheng,176,68.636363636,12.216318658,91.0,11.0,,,,,,,,,,,7,9,25,12,10,35,25,17,25,8,3,,,
+UBCV,2020,W,MATH,256,,201,Differential Equations,Alex Shiu Lun Chu;Eric Cytrynbaum;Naba Mukhtar;Qidi Zhang;Thomasina Ball;Yiyang Tian,145,64.95862069,10.757346238,98.0,38.0,,,,,,,,,,,7,16,18,23,25,17,19,7,8,2,3,,,
+UBCV,2020,W,MATH,256,,202,Differential Equations,Alex Shiu Lun Chu;Eric Cytrynbaum;Naba Mukhtar;Yiyang Tian,79,78.670886076,10.693541687,98.0,46.0,,,,,,,,,,,2,1,2,2,3,8,5,14,15,17,10,,,
+UBCV,2020,W,MATH,256,,203,Differential Equations,Alex Shiu Lun Chu;Eric Cytrynbaum;Naba Mukhtar;Parisa Sarmadi;Yiyang Tian,70,68.942857143,13.526019707,92.0,25.0,,,,,,,,,,,5,5,5,6,7,8,9,13,5,5,2,,,
+UBCV,2020,W,MATH,361,,101,Introduction to Mathematical Biology,Eric Cytrynbaum;Naba Hamid Mukhtar;Naba Mukhtar,46,75.065217391,13.022036321,96.0,44.0,,,,,,,,,,,2,0,5,1,5,5,4,5,6,6,7,,,
+UBCV,2021,W,MATH,256,,101,Differential Equations,Ahmet Alperen Bulut;Eric Cytrynbaum;Jiahao Gong;Navjot Virk;Tetsuya Matsumoto;Tuoxin Li;Yucheng Liu,196,71.403061224,16.171383107,98.0,13.0,,,,,,,,,,,15,14,11,11,18,18,23,17,25,25,19,,,
+UBCV,2021,W,MATH,256,,102,Differential Equations,Ahmet Alperen Bulut;Andreas Buttenschoen;Eric Cytrynbaum;Jiahao Gong;Katharine Faulkner;Navjot Virk;Tetsuya Matsumoto;Tuoxin Li;Yucheng Liu,74,75.27027027,15.509870739,97.0,18.0,,,,,,,,,,,3,5,5,1,6,7,3,10,12,9,13,,,
+UBCV,2021,W,MATH,256,,103,Differential Equations,Ahmet Alperen Bulut;Eric Cytrynbaum;Ethan White;Jiahao Gong;Navjot Virk;Tetsuya Matsumoto;Tuoxin Li;Yucheng Liu,73,63.904109589,14.300509299,91.0,23.0,,,,,,,,,,,8,11,10,7,7,10,1,8,6,4,1,,,
+UBCV,2021,W,MATH,256,,201,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Laurent Mackay;Matthew Scott;Thomasina Ball;Tuoxin Li,102,67.303921569,17.142841485,99.0,15.0,,,,,,,,,,,12,12,7,9,5,11,13,5,11,10,7,,,
+UBCV,2021,W,MATH,256,,202,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Matthew Scott;Tuoxin Li,119,73.605042017,17.34164112,100.0,0.0,,,,,,,,,,,13,5,2,8,8,10,7,15,18,11,22,,,
+UBCV,2021,W,MATH,256,,203,Differential Equations,Andres Ross Bernot;Emad Chaparian;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Keegan Boyle;Matthew Scott;Tuoxin Li,102,66.843137255,13.228191541,90.0,32.0,,,,,,,,,,,8,12,12,9,4,16,8,16,10,5,2,,,
+UBCV,2021,W,MATH,256,,204,Differential Equations,Andres Ross Bernot;Eric Cytrynbaum;Fatemeh Saghafifar;Jiahao Gong;Kelly Paton;Matthew Scott;Tuoxin Li,69,57.101449275,14.222129533,85.0,20.0,,,,,,,,,,,20,11,9,6,6,4,5,4,3,1,0,,,
+UBCV,2021,W,MATH,560,,201,Mathematical Biology,Eric Cytrynbaum,14,90.5,4.702699716,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,10,,,
+UBCV,2021,W,MATH,256,,101,Differential Equations,Eric Cytrynbaum,196,71.5,,98.0,15.0,,,,,,,,,,,15,14,11,11,18,18,23,17,25,25,19,73.5,83.3,63.0
+UBCV,2021,W,MATH,256,,102,Differential Equations,Eric Cytrynbaum,74,75.3,,97.0,18.0,,,,,,,,,,,,,,,6,7,,10,12,9,13,78.0,87.8,67.0
+UBCV,2021,W,MATH,256,,103,Differential Equations,Eric Cytrynbaum,73,63.9,,91.0,23.0,,,,,,,,,,,8,11,10,7,7,10,,8,6,,,64.0,76.0,54.0
+UBCV,2021,W,MATH,256,,201,Differential Equations,Eric Cytrynbaum;Laurent Mackay,101,67.5,,99.0,15.0,,,,,,,,,,,11,12,7,9,,11,13,,11,10,7,69.0,81.0,57.0
+UBCV,2021,W,MATH,256,,202,Differential Equations,Eric Cytrynbaum,118,74.7,,100.0,31.0,,,,,,,,,,,11,,,8,8,10,7,15,18,12,22,78.0,86.5,65.0
+UBCV,2021,W,MATH,256,,203,Differential Equations,Keegan Boyle;Eric Cytrynbaum,102,67.5,,90.0,32.0,,,,,,,,,,,,13,12,10,,16,9,16,10,,,68.0,77.8,58.0
+UBCV,2021,W,MATH,256,,204,Differential Equations,Eric Cytrynbaum;Kelly Paton,69,57.4,,85.0,20.0,,,,,,,,,,,19,11,10,6,6,,,,,,,57.0,67.0,48.0
+UBCV,2021,W,MATH,560,,201,Mathematical Biology,Eric Cytrynbaum,14,90.5,,93.0,78.0,,,,,,,,,,,,,,,,,,,,,10,93.0,93.0,89.3
+UBCV,2022,W,MATH,100,,1B1,Differential Calculus with Applications,Daniel Coombs;Eric Cytrynbaum;Kelly Paton;Elyse Yeager,465,67.5,,95.0,8.0,,,,,,,,,,,47,30,40,45,48,58,57,58,49,27,6,69.0,77.0,59.0
+UBCV,2022,W,MATH,100,,1B2,Differential Calculus with Applications,Eric Cytrynbaum;Kelly Paton,311,68.5,,95.0,0.0,,,,,,,,,,,32,14,29,25,31,31,43,32,41,28,5,70.0,79.0,60.5
+UBCV,2022,W,MATH,100,,1B3,Differential Calculus with Applications,Eric Cytrynbaum;Peter Harrington;Kelly Paton,334,71.1,,95.0,27.0,,,,,,,,,,,25,9,17,18,36,45,47,55,44,31,7,73.0,79.0,65.0
+UBCV,2022,W,MATH,361,,101,Introduction to Mathematical Biology,Eric Cytrynbaum,62,61.8,,98.0,0.0,,,,,,,,,,,14,7,4,3,6,6,7,4,6,3,2,66.0,75.0,50.0
+UBCV,2023,W,MATH,100,,1A1,Differential Calculus with Applications,Matthew Coles;Eric Cytrynbaum;Sarah Dijols;Mark Thomson MacLean;Kelly Paton;Lior Silberman;Elyse Yeager,270,74.2,,99.0,8.0,,,,,,,,,,,18,16,10,15,15,14,23,24,51,39,35,79.0,86.0,65.0
+UBCV,2023,W,MATH,100,,1A2,Differential Calculus with Applications,Eric Cytrynbaum;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean;Paul Péringuey,335,70.6,,97.0,0.0,,,,,,,,,,,36,29,9,20,12,18,36,41,53,40,29,76.0,83.0,62.0
+UBCV,2023,W,MATH,100,,1B1,Differential Calculus with Applications,Matthew Coles;Eric Cytrynbaum;Victor Juma;Kelly Paton;Paul Péringuey;Yangshuai Wang;Elyse Yeager,292,63.1,,96.0,2.0,,,,,,,,,,,56,22,24,18,22,24,29,33,19,16,14,67.0,77.0,51.0
+UBCV,2023,W,MATH,100,,1B2,Differential Calculus with Applications,Eric Cytrynbaum;Victor Juma;Paul Péringuey;Yangshuai Wang,454,70.8,,96.0,0.0,,,,,,,,,,,42,28,25,20,28,27,56,58,73,54,25,75.0,82.0,62.0
+UBCV,2023,W,MATH,215,,20M,Elementary Differential Equations I,Eric Cytrynbaum,34,73.9,,97.0,42.0,,,,,,,,,,,2,2,3,1,2,2,3,5,5,4,5,77.0,84.0,65.3

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EADM,556,,021,ADMIN ED PROG,"Shields, Carolyn",21,83.75,5.75,94,70,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,10,1
+UBC,2002,W,HCEP,551,,001,HEALTH INFO SYST,"Green, Carolyn",7,87.14,3.93,94,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2
+UBC,2003,W,HCEP,551,,002,HEALTH INFO SYST,"Green, Carolyn",8,88.57,3.74,92,81,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2003,W,LLED,318,A,301,C & I MDN LNG SE,"Dudek, Carolyn",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EPSE,441,,63C,INTERV CHILD,"GRAVES, CAROLYN",8,90,4.2,96,84,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2005,W,STAT,551,,101,STAT CONSULTING,"Taylor, Carolyn",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EPSE,441,,63C,INTERV CHILD,"GRAVES, CAROLYN",17,86.94,4.66,96,79,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7,5
+UBC,2007,W,EPSE,441,,63C,INTERV CHILD,"GRAVES, CAROLYN;REINER, ANN",15,81,17.32,97,30,14,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,3,4,5
+UBC,2009,W,EPSE,406,,63C,TYP ATYP INF/CH,"GRAVES, CAROLYN;REINER, ANN",28,86.33,7.7,99,71,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,2,9,10
+UBC,2009,W,EPSE,441,,63C,INTERV CHILD,"GRAVES, CAROLYN;REINER, ANN",22,82.32,9.19,94,67,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1,2,6,6
+UBC,2010,W,ECED,441,,63C,INTERV CHILD,"GRAVES, CAROLYN;REINER, ANN",22,83.14,6.71,93,67,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,9,4,4
+UBC,2010,W,EDST,314,,005,SCL ISS IN EDUC,"Fraser, Carolyn",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EPSE,406,,63C,TYP ATYP INF/CH,"GRAVES, CAROLYN;REINER, ANN",38,86.14,10.84,94,30,36,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,6,12,16
+UBC,2011,W,ECED,441,,63C,INTERV CHILD,"GRAVES, CAROLYN;REINER, ANN",26,79.96,18.95,97,0,24,1,1,0,0,1,0,0,0,0,1,0,1,0,2,0,0,1,6,10,4
+UBC,2011,W,EPSE,406,,63C,TYP ATYP INF/CH,"GRAVES, CAROLYN;REINER, ANN",37,86.67,5.94,97,73,36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,8,12,13
+UBC,2011,W,JRNL,503,B,001,JRNL PRAC&STDS,"Gretsinger, Kathryn;Hermida, Alfred;Pritchard, Carolyn;Young, Mary-Lynn",26,81.04,5.69,90,67,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,9,7,1
+UBC,2011,W,JRNL,515,C,001,INTEGRATED JOURN,"Gretsinger, Kathryn;Hermida, Alfred;Pritchard, Carolyn",24,82.75,4.76,89,70,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,11,9,0
+UBC,2011,W,SOWK,416,,001,ADV INT SEM IN SW TH,"Oliver, Carolyn",20,81.5,5.61,95,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,5,3,2
+UBC,2013,W,SOWK,316,,003,INT SEM IN SW TH,"Oliver, Carolyn",18,85.83,3.68,90,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,11,3
+UBC,2014,S,EDST,565,E,971,SP CRS SBJCT FLD,"Kenny, Carolyn",12,86,4.52,94,78,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,2
+UBC,2014,S,LIBR,533,,941,LEGAL INF SERV,"Petrie, Carolyn;Sutherland, Sarah",23,83.68,3.37,89,76,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,9,0
+UBC,2014,W,SOWK,315,,001,PRACTICUM I,"Nickel, Wayne;O'Neill, Brian;Oliver, Carolyn;Yan, Miu Chung",60,,,,,0,0,1,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,SOWK,316,,004,INT SEM IN SW TH,"Oliver, Carolyn",15,87.13,5,93,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,6
+UBC,2015,W,SOWK,315,,001,PRACTICUM I,"Nickel, Wayne;Oliver, Carolyn;Yan, Miu Chung",45,,,,,0,0,1,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,SOWK,316,,002,INT SEM IN SW TH,"Oliver, Carolyn",15,84.2,6.06,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,6,3
+UBC,2016,W,SOWK,315,,001,PRACTICUM I,"Escueta, Moises;Nickel, Wayne;Oliver, Carolyn",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,SOWK,316,,002,INT SEM IN SW TH,"Oliver, Carolyn",11,88.73,3.82,95,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5
+UBC,2017,W,LIBR,533,,002,LEGAL INF SERV,"Petrie, Carolyn",24,87.22,2.24,92,83,23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,17,4
+UBC,2017,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Wolsey, Travis",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,PHTH,581,,001,E & T MANIP THER,"Celebrini, Rick G;Dhir, Jasdeep;Kennedy, Carolyn;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Schneider, Geoff",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,VISA,220,,003,DRAWING,"Stockbridge, Carolyn",21,75.62,8.33,87,59,21,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3,3,3,4,5,0
+UBC,2018,W,VISA,230,,003,PAINTING,"Stockbridge, Carolyn",22,78.05,5.85,88,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,5,5,4,0

@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,COMM,298,,207,INTRO TO FINANCE,"Boroumand-Jazzi, Sepand",100,73.5,13.52,99,33,95,5,0,0,0,0,0,0,3,2,5,3,3,6,11,10,10,16,12,12,12
+UBC,2013,W,COMM,473,,201,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",77,73.73,12.83,94,34,75,2,0,0,0,0,0,0,1,1,2,5,2,5,6,6,10,10,10,14,7
+UBC,2014,W,COMM,473,,101,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",81,74.74,11.71,93,47,77,1,3,0,0,0,0,0,0,1,1,3,2,5,10,8,7,12,6,14,10
+UBC,2014,W,COMM,473,,201,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",106,76.45,13.98,100,27,101,4,1,0,0,0,0,1,2,1,4,2,4,4,12,4,8,10,17,17,23
+UBC,2015,W,COMM,473,,101,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",80,75.56,13.1,97,36,76,3,0,1,0,0,0,0,1,2,3,3,4,1,7,6,11,11,6,16,11
+UBC,2015,W,COMM,473,,201,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",109,78.09,11.43,94,30,107,2,0,0,0,0,0,0,2,0,2,2,2,3,5,3,15,16,22,15,24
+UBC,2016,W,COMM,473,,101,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",107,78.21,12.64,96,24,104,2,1,0,0,0,0,1,0,1,2,2,4,5,3,10,6,15,16,18,25
+UBC,2016,W,COMM,473,,201,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand",115,76.9,12.46,96,28,113,2,0,0,0,0,0,1,0,1,2,4,3,6,7,13,12,10,13,25,20
+UBC,2017,W,COMM,473,,101,BUSINESS FINANCE,"Boroumand-Jazzi, Sepand;Giammarino, Matthew",107,75.2,11.42,95,46,101,4,2,0,0,0,0,0,0,4,4,2,5,6,9,9,12,14,23,14,7
+UBCV,2014,W,COMM,473,,101,Business Finance,Sepand Boroumand-Jazzi,78,74.74358974,11.70906619,93.0,47.0,,,,,,,,,,,,,,5,10,8,7,12,6,14,10
+UBCV,2014,W,COMM,473,,201,Business Finance,Sepand Boroumand-Jazzi,105,76.44761905,13.98486885,100.0,27.0,,,,,,,,,,,,,,,12,,8,10,17,17,23
+UBCV,2015,W,COMM,473,,101,Business Finance,Sepand Boroumand-Jazzi,79,75.556962025,13.099957756,97.0,36.0,,,,,,,,,,,,,,,7,6,11,11,6,16,11
+UBCV,2015,W,COMM,473,,201,Business Finance,Sepand Boroumand-Jazzi,109,78.091743119,11.431390574,94.0,30.0,,,,,,,,,,,,,,,5,3,15,16,22,15,24
+UBCV,2016,W,COMM,473,,101,Business Finance,Sepand Boroumand-Jazzi,106,78.20754717,12.63985909,96.0,24.0,,,,,,,,,,,2,2,4,5,3,10,6,15,16,18,25
+UBCV,2016,W,COMM,473,,201,Business Finance,Sepand Boroumand-Jazzi,115,76.89565217,12.4649501,96.0,28.0,,,,,,,,,,,2,4,3,6,7,13,12,10,13,25,20
+UBCV,2017,W,COMM,473,,101,Business Finance,Matthew Giammarino;Sepand Boroumand-Jazzi,105,75.2,11.421471009,95.0,46.0,,,,,,,,,,,4,2,5,6,9,9,12,14,23,14,7
+UBCV,2018,W,COMM,473,,101,Business Finance,Darren Degraaf;Sepand Boroumand-Jazzi,80,74.2,12.163860147,100.0,50.0,,,,,,,,,,,0,2,8,3,11,8,11,7,12,7,11
+UBCV,2018,W,COMM,473,,201,Business Finance,Darren Degraaf;Sepand Boroumand-Jazzi,111,74.594594595,16.583331378,100.0,0.0,,,,,,,,,,,7,4,6,9,9,10,5,14,12,11,24
+UBCV,2019,W,COMM,101,,101,Business Fundamentals,Ann Stone;Elicia Salzberg;Lynda Anne Sayer;Matheson Kroeker;Sepand Boroumand-Jazzi;Sincere Cheong,109,71.201834862,10.078194114,85.0,0.0,,,,,,,,,,,2,2,3,7,9,17,32,22,13,2,0
+UBCV,2019,W,COMM,486,M,202,Special Topics in Business,Fiza Sandhu;Mary Connolly;Sepand Boroumand-Jazzi,30,77.466666667,5.923264089,86.0,56.0,,,,,,,,,,,0,0,1,0,0,3,4,9,11,2,0
+UBCV,2020,W,COMM,386,H,201,Topics in Business III,Alessandro Davidoni;Lipeng Li;Sepand Boroumand-Jazzi;Sima Sajjadiani,16,81.4375,6.185668921,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,3,5,2,3
+UBCV,2020,W,COMM,395,,103,Business Communications,David Miller;Sepand Boroumand-Jazzi;Zachary Goldthorpe;Zachary Neuman Goldthorpe,40,77.725,4.21223797,86.0,70.0,,,,,,,,,,,0,0,0,0,0,3,9,12,13,3,0
+UBCV,2020,W,COMM,395,,113,Business Communications,Douglas Mollenhauer;Patricia Kavanagh;Sepand Boroumand-Jazzi,40,78.475,4.40854357,88.0,62.0,,,,,,,,,,,0,0,0,1,0,2,3,16,16,2,0

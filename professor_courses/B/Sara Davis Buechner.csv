@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;TBA",13,77.62,10.4,93,67,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,0,1,1,3
+UBC,2006,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",11,87.7,2.67,92,85,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4
+UBC,2007,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",6,87.67,7.53,95,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3
+UBC,2010,W,MUSC,161,A,001,PIANO CHAMB ENS,"Buechner, Sara Davis;Coop, Jane;Dawson, Terence;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",10,86.1,4.23,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3
+UBC,2010,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",8,87.38,4.5,93,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3
+UBC,2011,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",9,86.33,7.65,95,75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,4
+UBC,2011,W,MUSC,161,A,001,PIANO CHAMB ENS,"Buechner, Sara Davis;Coop, Jane;Dawson, Terence;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",17,88.71,5.14,94,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,12
+UBC,2011,W,MUSC,561,A,001,PIANO CHAMB ENS,"Buechner, Sara Davis;Iwaasa, Rachel;Sharon, Rena",6,86.67,2.58,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1
+UBC,2012,W,MUSC,161,A,001,PIANO CHAMB ENS,"Buechner, Sara Davis;Dawson, Terence;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",15,87.13,5.05,95,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,7
+UBC,2012,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",10,87.8,7.54,95,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,4
+UBC,2012,W,MUSC,561,A,001,PIANO CHAMB ENS,"Buechner, Sara Davis;Iwaasa, Rachel;Sharon, Rena",7,91.33,2.42,95,89,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2013,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis",8,88.5,5.04,95,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4
+UBC,2013,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Hoy, Patricia;Iwaasa, Rachel;Sharon, Rena",19,89.68,1.97,92,84,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,15
+UBC,2013,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Hamm, Corey;Iwaasa, Rachel;Sharon, Rena",5,89.6,2.61,94,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2014,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,84.54,15.3,93,35,12,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,6,5
+UBC,2014,W,MUSC,236,C,001,PIANO REPTOIRE 2,"Buechner, Sara Davis;Hamm, Corey",13,88.58,3.94,95,84,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,4
+UBC,2014,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia",14,90.14,1.92,93,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+UBC,2015,W,MUSC,136,C,001,PIANO REPERT I,"Buechner, Sara Davis;Hamm, Corey",9,90,3.81,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2015,W,MUSC,161,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",16,88.31,3.84,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8
+UBC,2015,W,MUSC,561,A,001,PIANO CHAMB ENS,"Anderson, Leonard;Buechner, Sara Davis;Dawson, Terence;Hamm, Corey;Hoy, Patricia;Sharon, Rena",11,90.64,2.38,93,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2014,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Sara Davis Buechner;Terence Dawson,13,84.53846154,15.30041059,93.0,35.0,,,,,,,,,,,,,,,,,,,,6,5
+UBCV,2014,W,MUSC,236,C,001,Piano Repertoire II,Corey Hamm;Sara Davis Buechner,12,88.58333333,3.941811612,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,
+UBCV,2014,W,MUSC,561,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Sara Davis Buechner;Terence Dawson,14,90.14285714,1.915810447,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,9
+UBCV,2015,W,MUSC,136,C,001,Piano Repertoire I,Corey Hamm;Sara Davis Buechner,9,90.0,3.807886553,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,16,88.3125,3.842199891,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,8
+UBCV,2015,W,MUSC,561,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,11,90.636363636,2.377928816,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2016,W,MUSC,161,A,001,Piano Chamber Ensembles,Corey Hamm;Leonard Anderson;Patricia Hoy;Rena Sharon;Sara Davis Buechner;Terence Dawson,10,88.8,2.699794231,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6

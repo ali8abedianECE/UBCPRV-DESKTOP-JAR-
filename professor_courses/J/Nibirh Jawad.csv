@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Adrian Boivin;Iman Aghanejad;Loic Markley;Masoud Ahmadi;Naomi Fredeen;Naomi Victoria Fredeen;Nibirh Jawad;Timothy Mitchell Westgate;Timothy Westgate,135,54.08148148,17.73984967,93.0,0.0,50,19,9,13,9,11,6,9,6,2,1,,,
+UBCO,2016,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Adrian Boivin;Iman Aghanejad;Jonathan Holzman;Masoud Ahmadi;Naomi Fredeen;Naomi Victoria Fredeen;Nibirh Jawad;Timothy Mitchell Westgate;Timothy Westgate,162,65.18518519,17.59136654,96.0,6.0,32,13,12,10,12,10,19,12,17,14,11,,,
+UBCO,2017,W,ENGR,365,,101,Engineering Electromagnetics,Connor Badowich;Loic Markley;Nibirh Jawad,77,63.805194805,17.057980815,99.0,4.0,12,9,10,8,7,5,6,6,5,6,3,,,
+UBCO,2018,W,ENGR,451,,101,Microelectronics II,Nibirh Jawad;Thomas Johnson,58,70.103448276,14.430340424,98.0,34.0,4,5,3,3,6,11,5,6,6,4,5,,,
+UBCO,2019,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Nibirh Jawad,29,66.24137931,16.36340685,87.0,0.0,1,3,2,4,5,4,3,1,4,2,0,,,
+UBCO,2019,W,ENGR,365,,101,Engineering Electromagnetics,Loic Markley;Nibirh Jawad,11,72.636363636,12.587872952,88.0,45.0,1,0,1,0,1,1,1,3,1,2,0,,,
+UBCO,2019,W,ENGR,451,,101,Microelectronics II,Junchi Bin;Nibirh Jawad;Thomas Johnson,75,76.333333333,15.660531672,100.0,46.0,2,4,6,9,5,5,5,5,8,6,20,,,
+UBCO,2020,S,APSC,246,,001,System Dynamics,Nibirh Jawad;Saeed Moghaddam;Yuri Reis Rodrigues;Yuri Rodrigues,68,67.411764706,11.990338516,95.0,32.0,2,4,16,6,4,12,6,6,6,4,2,,,
+UBCO,2020,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Benjamin Wiltshire;Cael Warner;Majid Moradzadeh;Maryam Moradpour;Nibirh Jawad;Tristan Vandermeulen,178,62.93258427,15.429663816,98.0,16.0,31,15,21,24,16,18,19,11,8,5,10,,,
+UBCO,2020,W,ENGR,451,,101,Microelectronics II,Alex Macgillivray;Hoda Dadashzadeh;Junchi Bin;Nibirh Jawad;Simon Faber;Thomas Johnson,94,77.531914894,12.957085601,97.0,43.0,1,4,5,4,10,6,11,4,15,16,18,,,
+UBCO,2021,S,APSC,246,,001,System Dynamics,Connor Gaudreau;Nibirh Jawad;Saeed Moghaddam,47,69.191489362,15.816389818,100.0,36.0,5,5,2,2,4,10,5,2,3,3,6,,,
+UBCO,2021,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Ezra Sebastian;Loic Markley;Majid Moradzadeh;Nibirh Jawad;Tristan Vandermeulen,190,64.478947368,15.424747481,98.0,0.0,30,12,34,13,26,18,13,11,14,7,12,,,
+UBCO,2021,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Ezra Sebastian;Kenneth Chau;Majid Moradzadeh;Nibirh Jawad;Tristan Vandermeulen,180,62.916666667,13.77670084,95.0,28.0,27,20,30,23,19,16,12,9,7,11,6,,,
+UBCO,2021,W,ENGR,451,,101,Microelectronics II,Alex Macgillivray;Nibirh Jawad;Thomas Johnson,77,72.376623377,15.92502083,100.0,19.0,3,5,10,8,6,4,9,2,11,5,14,,,
+UBCO,2022,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Nibirh Jawad,37,59.1,,97.0,25.0,9,2,7,5,3,4,5,0,0,0,2,60.0,68.0,50.0
+UBCO,2023,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Nibirh Jawad,17,56.8,,74.0,32.0,5,0,3,3,1,3,1,0,0,0,0,58.5,65.8,47.0
+UBCO,2023,W,APSC,173,,201,Engineering Analysis II,Nibirh Jawad,160,66.9,,96.0,17.0,15,13,19,12,12,19,14,14,16,10,11,68.0,78.0,57.0

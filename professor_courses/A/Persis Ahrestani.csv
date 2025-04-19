@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,47,83.40425532,12.56921632,98.0,45.0,,,,,,,,3,6,13,17,,,
+UBCV,2014,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,50,78.76,13.10485188,97.0,42.0,,,,,,5,,6,9,9,11,,,
+UBCV,2014,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,49,75.34693878,14.13558014,96.0,31.0,,,,,,6,5,8,9,7,6,,,
+UBCV,2015,W,COMM,450,,101,Financial Accounting - Intermediate II,Chuck Campbell;Persis Ahrestani,44,71.613636364,17.540936716,98.0,27.0,,,,,,,,,3,,10,,,
+UBCV,2015,W,COMM,453,,101,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,48,77.979166667,12.523152318,97.0,50.0,0,,,,,,,7,7,8,11,,,
+UBCV,2016,W,COMM,453,,101,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,35,75.0,22.7505656,99.0,18.0,5,1,2,1,2,1,1,3,2,1,16,,,
+UBCV,2016,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,24,65.91666667,17.9586885,98.0,34.0,4,3,1,1,1,2,5,1,2,1,3,,,
+UBCV,2016,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,43,79.86046512,16.88840317,99.0,22.0,3,1,0,1,2,0,3,5,6,7,15,,,
+UBCV,2016,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani;Tangjia Zhang,39,81.92307692,15.39375235,99.0,29.0,1,1,1,1,3,1,3,1,5,6,16,,,
+UBCV,2016,W,COMM,453,,204,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,33,73.87878788,12.20337447,90.0,45.0,1,1,0,6,3,3,1,3,7,6,2,,,
+UBCV,2018,W,COMM,453,,101,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,39,79.102564103,16.936094858,99.0,32.0,2,1,1,2,2,4,0,3,5,4,15,,,
+UBCV,2018,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell;Jennifer Sanantha;Persis Ahrestani,23,78.52173913,16.645691676,98.0,40.0,1,1,3,0,0,2,1,1,4,1,9,,,
+UBCV,2018,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell;Jennifer Sanantha;Persis Ahrestani,39,84.846153846,8.710364249,98.0,62.0,0,0,0,1,2,0,1,4,9,8,14,,,
+UBCV,2018,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Harsimar Aneja;Persis Ahrestani,38,80.789473684,12.531383079,96.0,55.0,0,0,4,1,2,1,2,4,5,4,15,,,
+UBCV,2018,W,COMM,453,,204,Financial Accounting-Advanced,Chuck Campbell;Harsimar Aneja;Persis Ahrestani,31,70.806451613,17.552624409,97.0,22.0,2,1,5,4,2,1,1,2,5,3,5,,,
+UBCV,2020,S,BUSI,453,,971,Advanced Financial Accounting,Chuck Campbell;Persis Ahrestani,49,79.183673469,7.96521989,95.0,55.0,0,0,1,1,3,1,5,15,13,6,4,,,
+UBCV,2021,S,BUSI,453,,971,Advanced Financial Accounting,Chuck Campbell;Persis Ahrestani,48,74.458333333,10.742554737,90.0,48.0,1,2,1,3,6,4,3,6,14,6,2,,,
+UBCV,2021,W,BUSI,370,,102,Business Finance,Anthony Boardman;Persis Ahrestani,77,75.077922078,12.565372462,98.0,39.0,3,2,4,4,7,8,8,11,9,10,11,,,
+UBCV,2021,W,BUSI,370,,202,Business Finance,Elaine Williamson;Persis Ahrestani,47,72.957446809,9.91256876,93.0,44.0,1,1,0,5,4,10,10,2,7,6,1,,,
+UBCV,2021,S,BUSI,453,,971,Advanced Financial Accounting,Persis Ahrestani,48,74.5,,90.0,48.0,,,,,6,,,6,14,6,,76.5,82.0,66.8
+UBCV,2021,W,BUSI,370,,102,Business Finance,Persis Ahrestani,77,75.1,,98.0,39.0,,,,,7,8,8,11,9,10,11,76.0,85.0,67.0
+UBCV,2021,W,BUSI,370,,202,Business Finance,Persis Ahrestani,48,72.1,,93.0,32.0,,,,,,10,10,,7,6,,73.0,80.0,67.8
+UBCV,2022,S,BUSI,453,,921,Advanced Financial Accounting,Persis Ahrestani,60,76.5,,97.0,53.0,0,1,1,9,4,6,7,8,5,8,11,76.5,87.0,67.8
+UBCV,2022,S,BUSI,453,,971,Advanced Financial Accounting,Persis Ahrestani,32,75.6,,97.0,55.0,0,0,1,7,3,3,2,4,5,1,6,75.0,82.5,64.5
+UBCV,2022,W,BUSI,370,,102,Business Finance,Persis Ahrestani,65,74.6,,94.0,50.0,0,3,0,3,11,3,12,9,14,7,3,76.0,81.0,67.0
+UBCV,2022,W,BUSI,370,,202,Business Finance,Persis Ahrestani,63,78.5,,94.0,39.0,1,0,0,4,7,4,8,8,8,13,10,79.0,87.5,71.5
+UBCV,2023,S,BUSI,370,,922,Business Finance,Persis Ahrestani,72,74.8,,97.0,56.0,0,0,1,3,11,15,9,9,9,7,4,73.5,81.0,68.8
+UBCV,2023,S,BUSI,453,,972,Advanced Financial Accounting,Persis Ahrestani,44,72.4,,97.0,24.0,1,1,1,3,5,6,7,5,3,6,1,73.0,79.0,67.0
+UBCV,2023,W,BUSI,370,,102,Business Finance,Persis Ahrestani,74,74.6,,93.0,40.0,1,2,1,6,4,7,16,9,10,11,3,74.5,82.8,68.5
+UBCV,2023,W,BUSI,370,,202,Business Finance,Persis Ahrestani,67,73.7,,88.0,50.0,0,1,4,3,8,10,10,9,17,4,0,74.5,80.0,68.0

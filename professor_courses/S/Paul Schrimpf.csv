@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,ECON,526,,001,PROBLTY & STAT,"Schrimpf, Paul",51,88.62,8.84,100,65,50,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,4,8,30,,,
+UBC,2012,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",42,77,11.86,93,39,36,1,5,0,0,0,0,0,1,0,1,0,2,1,1,6,6,1,8,6,5,,,
+UBC,2012,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",43,82.51,6.9,96,70,41,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,12,7,7,,,
+UBC,2012,W,ECON,565,,001,MARKET STRUCTURE,"Schrimpf, Paul",17,84.07,7.52,100,74,14,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,2,3,,,
+UBC,2013,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",62,77.92,16.41,96,0,57,2,3,0,0,1,0,1,0,0,2,1,1,0,5,5,6,5,11,12,11,,,
+UBC,2013,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",46,86.8,7.28,100,68,45,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,5,14,18,,,
+UBC,2013,W,ECON,565,,001,MARKET STRUCTURE,"Schrimpf, Paul",8,87.86,3.08,92,83,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,,,
+UBC,2014,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",48,82.72,8.82,97,58,47,0,1,0,0,0,0,0,0,0,0,0,1,0,1,3,6,4,9,13,10,,,
+UBC,2014,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",53,82.04,9.66,100,39,50,1,2,0,0,0,0,0,1,0,1,0,0,0,0,2,5,9,14,8,12,,,
+UBC,2014,W,ECON,565,,001,MARKET STRUCTURE,"Schrimpf, Paul",4,90.5,2.12,92,89,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,
+UBC,2015,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",47,80,9.46,93,54,45,0,2,0,0,0,0,0,0,0,0,1,2,0,2,3,5,5,9,11,7,,,
+UBC,2015,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",48,82.06,7.32,96,68,47,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,6,7,12,10,8,,,
+UBC,2015,W,ECON,565,,001,MARKET STRUCTURE,"Schrimpf, Paul",4,92.5,3.54,95,90,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,,,
+UBC,2016,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",64,81.5,8.04,94,56,64,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,8,4,20,14,11,,,
+UBC,2016,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",46,83.36,8.73,96,52,45,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2,3,8,10,8,13,,,
+UBC,2016,W,ECON,567,,001,ORG THRY&NON ALL,"Schrimpf, Paul",19,87.29,6.34,96,70,17,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,6,6,,,
+UBC,2017,W,ECON,326,,003,MTDS EMPIRC RESR,"Schrimpf, Paul",77,75.53,16.53,100,0,72,3,2,0,0,2,1,0,0,0,3,0,2,0,3,11,7,15,17,13,4,,,
+UBC,2017,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",45,83.66,5.06,92,71,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,14,17,5,,,
+UBC,2017,W,ECON,567,,001,ORG THRY&NON ALL,"Schrimpf, Paul",12,87.22,4.38,96,83,9,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,2,,,
+UBC,2018,W,ECON,407,,001,TOPCS MACROECON,"Perla, Jesse;Schrimpf, Paul",20,92.6,4.62,100,84,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,14,,,
+UBC,2018,W,ECON,526,,001,MATH FOR ECONMIC,"Schrimpf, Paul",55,85.41,6.57,98,71,54,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,12,18,15,,,
+UBC,2018,W,ECON,628,,001,TPCS APP ECON I,"Perla, Jesse;Schrimpf, Paul",16,90.94,7.82,99,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,13,,,
+UBCV,2014,W,ECON,326,,003,Methods of Empirical Research in Economics,Paul Schrimpf,47,82.72340426,8.823639512,97.0,58.0,,,,,,,,,,,0,0,,,,,6,4,9,13,10,,,
+UBCV,2014,W,ECON,526,,001,Mathematics for Economics,Paul Schrimpf,51,82.03921569,9.656004939,100.0,39.0,,,,,,,,,,,,,,,,,5,9,14,8,12,,,
+UBCV,2015,W,ECON,326,,003,Methods of Empirical Research in Economics,Paul Schrimpf,45,80.0,9.458041312,93.0,54.0,,,,,,,,,,,0,,,,,3,5,5,9,11,7,,,
+UBCV,2015,W,ECON,526,,001,Mathematics for Economics,Paul Schrimpf;Xiaodi Ni;Ya Wen Liang,47,82.063829787,7.317056474,96.0,68.0,,,,,,,,,,,0,0,0,0,0,4,6,7,12,10,8,,,
+UBCV,2016,W,ECON,326,,003,Methods of Empirical Research in Economics,Pablo Antonio Gutierrez Cubillos;Pablo Gutierrez Cubillos;Paul Schrimpf,64,81.5,8.037610006,94.0,56.0,,,,,,,,,,,0,0,1,1,2,3,8,4,20,14,11,,,
+UBCV,2016,W,ECON,526,,001,Mathematics for Economics,Nathan Canen;Paul Schrimpf;Xiaodi Ni,45,83.35555556,8.728624685,96.0,52.0,,,,,,,,,,,0,,,,,2,3,8,10,8,13,,,
+UBCV,2016,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,17,87.29411765,6.341970375,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,6,6,,,
+UBCV,2017,W,ECON,326,,003,Methods of Empirical Research in Economics,Pablo Antonio Gutierrez Cubillos;Pablo Gutierrez Cubillos;Paul Schrimpf,75,75.533333333,16.527890705,100.0,0.0,,,,,,,,,,,3,0,2,0,3,11,7,15,17,13,4,,,
+UBCV,2017,W,ECON,526,,001,Mathematics for Economics,Hao Li;Paul Schrimpf;Sejin Ahn,44,83.659090909,5.062140286,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,4,14,17,5,,,
+UBCV,2017,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,9,87.222222222,4.381146476,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,2,,,
+UBCV,2018,W,ECON,407,,001,Topics in Macroeconomics,Jesse Perla;Paul Schrimpf,20,92.6,4.615762468,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,14,,,
+UBCV,2018,W,ECON,526,,001,Mathematics for Economics,Hao Li;Paul Schrimpf;Sejin Ahn,54,85.407407407,6.568990958,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,4,12,18,15,,,
+UBCV,2018,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,13,90.461538462,2.75727476,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,8,,,
+UBCV,2018,W,ECON,628,,001,Topics in Applied Econometrics I,Jesse Perla;Paul Schrimpf;Sebnem Ucar;Yu Hao,16,90.9375,7.818514352,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,1,13,,,
+UBCV,2019,W,ECON,323,,002,Quantitative Economic Modelling with Data Science Applications,Chenyu Hou;Jesse Perla;Paul Schrimpf,21,93.428571429,2.785164781,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,19,,,
+UBCV,2019,W,ECON,526,,001,Mathematics for Economics,Hao Li;Paul Schrimpf;Sejin Ahn,48,86.791666667,7.193254326,99.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,1,7,17,18,,,
+UBCV,2019,W,ECON,567,,001,Organization Theory and Non-market Allocation,Christopher Barrington-Leigh;Paul Schrimpf,6,94.333333333,2.943920289,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2019,W,ECON,622,,001,Computational Economics with Data Science Applications,Jesse Perla;Mahdi Ebrahimikahou;Paul Schrimpf,9,89.222222222,7.293452162,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,1,6,,,
+UBCV,2020,W,ECON,323,,001,Quantitative Economic Modelling with Data Science Applications,Jan  Ksawery Rosa;Jesse Perla;Paul Schrimpf;Peifan Wu,31,86.0,11.09954954,95.0,33.0,,,,,,,,,,,1,0,0,0,0,1,0,1,2,10,16,,,
+UBCV,2020,W,ECON,323,,003,Quantitative Economic Modelling with Data Science Applications,Daniel Jaramillo Calderon;Paul Schrimpf,24,93.625,3.200713236,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,22,,,
+UBCV,2020,W,ECON,526,,001,Mathematics for Economics,Hao Li;Hiroyuki Kasahara;Paul Schrimpf;Sejin Ahn,50,90.84,8.416116706,100.0,65.0,,,,,,,,,,,0,0,0,0,2,1,0,2,4,7,34,,,
+UBCV,2020,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf;Wendy Wai Yee Kei,7,93.142857143,3.716116765,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2020,W,ECON,622,,001,Computational Economics with Data Science Applications,Jesse Perla;Joshua Catalano;Paul Schrimpf,8,89.625,6.781013409,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,5,,,
+UBCV,2021,W,ECON,323,,003,Quantitative Economic Modelling with Data Science Applications,Joshua Catalano;Paul Schrimpf;Peifan Wu,43,84.581395349,12.247900808,97.0,23.0,,,,,,,,,,,1,0,0,0,0,3,2,3,7,12,15,,,
+UBCV,2021,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,12,92.75,2.220769727,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2021,W,ECON,323,,003,Quantitative Economic Modelling with Data Science Applications,Paul Schrimpf,43,84.6,,97.0,23.0,,,,,,,,,,,,,,,,,,,7,12,15,88.0,92.0,81.0
+UBCV,2021,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,12,92.8,,95.0,89.0,,,,,,,,,,,,,,,,,,,,,10,94.0,94.0,91.5
+UBCV,2022,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,15,95.1,,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,13,97.0,98.0,92.5
+UBCV,2022,W,ECON,622,,001,Computational Economics with Data Science Applications,Paul Schrimpf,6,94.0,,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,93.0,95.3,92.3
+UBCV,2022,W,ECON,626,,001,Econometric Theory I,Paul Schrimpf,20,86.9,,99.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,1,1,7,8,89.0,93.3,84.5
+UBCV,2023,W,ECON,526,,001,Quantitative Economics with Data Science Applications,Jesse Perla;Paul Schrimpf;Philip Solimine,44,83.5,,97.0,71.0,,,,,,,,,,,0,0,0,0,0,2,3,7,14,10,8,84.0,88.0,78.0
+UBCV,2023,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,13,93.7,,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,12,94.0,97.0,90.0
+UBCV,2023,W,ECON,622,,001,Computational Economics with Data Science Applications,Jesse Perla;Paul Schrimpf;Philip Solimine,8,91.0,,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,6,91.0,94.0,91.0
+UBCV,2023,W,ECON,626,,001,Econometric Theory I,Paul Schrimpf,21,86.8,,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,2,6,7,88.0,93.0,81.0

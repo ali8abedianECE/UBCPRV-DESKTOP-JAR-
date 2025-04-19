@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,PHYS,117,,101,Dynamics and Waves,Levi Burns;Lienong Xu;Mateus Fandino;Oguzhan Can;Rommel Rodrigues De Oliveira;Simon Bates;Tristan Pinsonneault-Marotte;Wei Zhao,270,72.6,16.676319386,97.0,3.0,28,14,11,19,13,28,25,25,33,33,41
+UBCV,2018,W,PHYS,403,,201,Statistical Mechanics,Robert Kiefl;Tianyu Liu;Tristan Pinsonneault-Marotte,102,73.843137255,13.969376052,95.0,32.0,6,5,6,0,9,12,12,10,18,13,11
+UBCV,2020,W,DSCI,541,,001,"Privacy, Ethics, and Security",Analise Hofmann;Daisy Zhang;Edwin Max Knorr;Joel Ostblom;Mariana Cabani;Matthew Rabitsky;Tristan Pinsonneault-Marotte,95,91.578947368,5.904522153,100.0,68.0,0,0,0,0,0,2,1,0,7,18,67
+UBCV,2020,W,DSCI,554,,001,Experimentation and Causal Inference,Aaron Greenberg;Alireza Naderi;Benjamin Bloem-Reddy;Christopher Nicholas Gubbels;Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Tiffany Timbers;Tristan Pinsonneault-Marotte,95,90.578947368,6.93829789,100.0,61.0,0,0,0,1,0,2,1,2,7,21,61
+UBCV,2020,W,DSCI,572,,001,Supervised Learning II,Aaron Berk;Ali Seyfi;Alireza Iranpour;Michael Gelbart;Peter Henry Gysbers;Tomas Beuzen;Tristan Pinsonneault-Marotte,95,90.926315789,4.293097144,100.0,74.0,0,0,0,0,0,0,1,1,6,16,71
+UBCV,2021,W,PHYS,312,,101,Introduction to Mathematical Physics,Joanna Karczmarek;Nassim Derriche;Tristan Pinsonneault-Marotte,34,71.735294118,16.304505463,100.0,23.0,2,2,3,3,3,0,4,5,6,2,4
+UBCV,2021,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw;John Shaw;Tristan Pinsonneault-Marotte,8,87.75,9.422617168,98.0,69.0,0,0,0,0,0,1,0,1,0,2,4

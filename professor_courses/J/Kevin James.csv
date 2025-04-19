@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",14,78.54,7.11,87,60,13,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,6,3,0
+UBC,2013,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",17,78.06,5.54,85,67,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,1,8,1,0
+UBC,2013,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",30,80.97,5.35,93,71,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,12,3,4
+UBC,2014,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",15,84.33,3.92,93,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,5,1
+UBC,2014,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",28,75.5,8.63,91,50,26,0,2,0,0,0,0,0,0,0,0,1,0,1,2,3,4,6,6,2,1
+UBC,2014,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",30,78.59,6.23,96,70,29,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,8,7,6,3,2
+UBC,2015,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",28,80.75,4.58,90,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,12,4,2
+UBC,2015,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",31,76.52,10.35,92,53,31,0,0,0,0,0,0,0,0,0,0,1,0,4,3,3,2,1,9,6,2
+UBC,2015,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",39,79.13,7.08,90,61,38,0,1,0,0,0,0,0,0,0,0,0,0,1,0,6,4,8,7,9,3
+UBC,2016,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",39,82.49,7.59,95,58,39,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,5,8,10,7
+UBC,2016,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",39,78.29,6.23,92,65,38,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,7,8,10,4,3
+UBC,2016,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",29,82.1,5.8,92,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,12,8,3
+UBC,2016,W,BUSI,493,,202,STRG MNGMNT BUS,"James, Kevin",40,81,5.27,91,66,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8,18,8,2
+UBC,2017,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",43,82.19,6.79,92,67,43,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,5,11,12,8
+UBC,2017,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",38,78.86,6.25,90,65,36,0,2,0,0,0,0,0,0,0,0,0,0,0,1,4,6,5,10,9,1
+UBC,2017,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",21,77.48,14.48,92,34,19,2,0,0,0,0,0,0,1,1,2,0,0,0,1,1,1,3,6,4,3
+UBC,2017,W,BUSI,493,,202,STRG MNGMNT BUS,"James, Kevin",29,79.72,5.65,90,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,5,8,6,2
+UBC,2018,S,BUSI,493,,921,STRG MNGMNT BUS,"James, Kevin",43,82.33,7.51,93,55,42,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2,7,13,13,5
+UBC,2018,W,BUSI,493,,101,STRG MNGMNT BUS,"James, Kevin",44,79.72,5.93,92,65,43,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,8,8,17,3,4
+UBC,2018,W,BUSI,493,,201,STRG MNGMNT BUS,"James, Kevin",41,80.15,5.46,94,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,14,7,3
+UBCV,2014,S,BUSI,493,,921,Strategic Management in Business,Kevin James,15,84.33333333,3.921855732,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,8,5,
+UBCV,2014,W,BUSI,493,,101,Strategic Management in Business,Kevin James,26,75.5,8.62670273,91.0,50.0,,,,,,,,,,,0,,,,,,4,6,6,,
+UBCV,2014,W,BUSI,493,,201,Strategic Management in Business,Kevin James,30,75.96666667,15.59947686,96.0,0.0,,,,,,,,,,,,,,,,,8,7,6,,
+UBCV,2015,S,BUSI,493,,921,Strategic Management in Business,Kevin James,28,80.75,4.583585852,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,,12,,
+UBCV,2015,W,BUSI,493,,101,Strategic Management in Business,Kevin James,31,76.516129032,10.350107786,92.0,53.0,,,,,,,,,,,0,,,,,3,,1,9,6,
+UBCV,2015,W,BUSI,493,,201,Strategic Management in Business,Kevin James,38,79.131578947,7.083177836,90.0,61.0,,,,,,,,,,,0,0,0,,,6,,8,7,9,
+UBCV,2015,W,MUSC,150,A,001,Large Instrumental Ensemble,Alex Toa;Imran Amarshi;Jaelem Bhate;Jaelem Taylor Bhate;Jonathan Girard;Kevin James;Robert Taylor,85,91.776470588,6.844143257,100.0,50.0,,,,,,,,,,,0,,,,,,,,,13,67
+UBCV,2015,W,MUSC,311,,002,Fundamentals of Conducting,Kevin James;Robert Taylor,22,85.363636364,5.644596696,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,9,,6
+UBCV,2015,W,MUSC,312,,001,Instrumental Conducting,Jonathan Girard;Kevin James;Robert Taylor,26,83.038461538,7.421486478,96.0,64.0,,,,,,,,,,,0,0,0,0,,,,,8,5,6
+UBCV,2015,W,MUSC,550,A,001,Large Instrumental Ensemble,Alex Toa;Imran Amarshi;Jaelem Bhate;Jaelem Taylor Bhate;Jonathan Girard;Kevin James;Robert Taylor,21,93.714285714,5.891883036,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,17
+UBCV,2016,S,BUSI,493,,921,Strategic Management in Business,Kevin James,39,82.48717949,7.58763466,95.0,58.0,,,,,,,,,,,0,0,1,0,0,0,8,5,8,10,7
+UBCV,2016,W,BUSI,493,,101,Strategic Management in Business,Kevin James,38,78.28947368,6.233769823,92.0,65.0,,,,,,,,,,,0,0,0,0,2,4,7,8,10,4,3
+UBCV,2016,W,BUSI,493,,201,Strategic Management in Business,Kevin James,29,82.10344828,5.802369144,92.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,3,12,8,3
+UBCV,2016,W,BUSI,493,,202,Strategic Management in Business,Kevin James,40,81.0,5.267218407,91.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,8,18,8,2
+UBCV,2017,S,BUSI,493,,921,Strategic Management in Business,Kevin James,43,82.186046512,6.793749978,92.0,67.0,,,,,,,,,,,0,0,0,0,2,2,3,5,11,12,8
+UBCV,2017,W,BUSI,493,,101,Strategic Management in Business,Kevin James,36,78.861111111,6.252555033,90.0,65.0,,,,,,,,,,,0,0,0,0,1,4,6,5,10,9,1
+UBCV,2017,W,BUSI,493,,201,Strategic Management in Business,Kevin James,21,77.476190476,14.48315935,92.0,34.0,,,,,,,,,,,2,0,0,0,1,1,1,3,6,4,3
+UBCV,2017,W,BUSI,493,,202,Strategic Management in Business,Kevin James,29,79.724137931,5.649883385,90.0,70.0,,,,,,,,,,,0,0,0,0,0,2,6,5,8,6,2
+UBCV,2018,S,BUSI,493,,921,Strategic Management in Business,Kevin James,42,82.333333333,7.505011876,93.0,55.0,,,,,,,,,,,0,0,1,1,0,0,2,7,13,13,5
+UBCV,2018,W,BUSI,493,,101,Strategic Management in Business,Kevin James,43,79.720930233,5.929448627,92.0,65.0,,,,,,,,,,,0,0,0,0,1,2,8,8,17,3,4
+UBCV,2018,W,BUSI,493,,201,Strategic Management in Business,Kevin James,41,80.146341463,5.461506091,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,8,8,14,7,3
+UBCV,2019,S,BUSI,493,,921,Strategic Management in Business,Kevin James,37,81.0,6.114645443,95.0,66.0,,,,,,,,,,,0,0,0,0,1,2,4,3,20,4,3
+UBCV,2019,W,BUSI,493,,101,Strategic Management in Business,Kevin James,38,74.736842105,9.863073943,92.0,45.0,,,,,,,,,,,1,0,1,0,7,4,8,2,5,9,1
+UBCV,2019,W,BUSI,493,,201,Strategic Management in Business,Kevin James,38,80.842105263,6.676001052,93.0,56.0,,,,,,,,,,,0,0,1,0,0,3,1,5,18,7,3
+UBCV,2020,S,BUSI,493,,921,Strategic Management in Business,Kevin James,35,80.342857143,8.047443354,91.0,60.0,,,,,,,,,,,0,0,0,1,2,3,2,5,8,10,4
+UBCV,2020,S,BUSI,493,,971,Strategic Management in Business,Kevin James,23,77.217391304,9.709210818,93.0,53.0,,,,,,,,,,,0,1,0,1,1,2,3,4,8,0,3
+UBCV,2020,W,BUSI,493,,101,Strategic Management in Business,Kevin James,58,77.879310345,12.642281587,93.0,0.0,,,,,,,,,,,1,1,0,1,1,1,13,9,18,9,4
+UBCV,2020,W,BUSI,493,,201,Strategic Management in Business,Kevin James,50,79.1,8.00318814,93.0,65.0,,,,,,,,,,,0,0,0,0,6,3,10,3,11,10,7
+UBCV,2021,S,BUSI,493,,921,Strategic Management in Business,Jaisun Garcha;Kevin James,28,80.142857143,3.855868886,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,6,14,4,0
+UBCV,2021,S,BUSI,493,,971,Strategic Management in Business,Adam Pankratz;Kevin James,24,73.583333333,7.300486384,81.0,53.0,,,,,,,,,,,0,2,0,0,1,1,8,8,4,0,0

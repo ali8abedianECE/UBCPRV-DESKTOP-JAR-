@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,COMM,120,,DD1,Business Immersion,Colin Dodds;Ingrid Mo;Maggie Lu;Nakul Gupta;Tamar Milne,60,76.416666667,3.499596425,82.0,68.0,0,0,0,0,0,9,11,28,12,0,0,,,
+UBCV,2020,W,COMM,120,,DD2,Business Immersion,Colin Dodds;Elicia Salzberg;Ingrid Mo;Maggie Lu;Nakul Gupta,58,76.137931034,3.321637072,84.0,65.0,0,0,0,0,1,3,19,29,6,0,0,,,
+UBCV,2020,W,COMM,120,,DD3,Business Immersion,Colin Dodds;Elicia Salzberg;Ingrid Mo;Maggie Lu;Nakul Gupta;Tamar Milne,57,76.964912281,4.555079238,84.0,62.0,0,0,0,1,1,4,12,22,17,0,0,,,
+UBCV,2020,W,COMM,120,,DD4,Business Immersion,Chad Brealey;Colin Dodds;Elicia Salzberg;Ingrid Mo;Maggie Lu;Nakul Gupta,40,75.35,4.995125829,85.0,60.0,0,0,0,1,2,4,10,17,4,2,0,,,
+UBCV,2020,W,COMM,390,,111,Business Writing,Colin Dodds,18,78.277777778,5.278207757,88.0,70.0,0,0,0,0,0,2,4,5,5,2,0,,,
+UBCV,2020,W,COMM,390,,112,Business Writing,Colin Dodds,19,80.421052632,4.233671764,88.0,71.0,0,0,0,0,0,1,0,6,8,4,0,,,
+UBCV,2020,W,COMM,390,,113,Business Writing,Colin Dodds,20,74.0,6.782329983,84.0,57.0,0,0,1,0,3,1,5,6,4,0,0,,,
+UBCV,2020,W,COMM,390,,114,Business Writing,Colin Dodds,20,72.75,6.624317244,84.0,61.0,0,0,0,1,3,5,4,3,4,0,0,,,
+UBCV,2020,W,COMM,390,,204,Business Writing,Colin Dodds,19,78.894736842,3.381234765,85.0,71.0,0,0,0,0,0,1,3,3,11,1,0,,,
+UBCV,2020,W,COMM,390,,205,Business Writing,Colin Dodds,20,77.3,7.595705158,91.0,55.0,0,0,1,0,1,1,3,6,6,1,1,,,
+UBCV,2021,W,COMM,101,,204,Business Fundamentals,Ann Stone;Colin Dodds;Conor Topley;Dominick Wells;Rachel Kim;Sabrina Dammholz;Zorana Svedic,115,74.513043478,5.424708283,84.0,50.0,0,1,1,4,4,11,38,40,16,0,0,,,
+UBCV,2021,W,COMM,101,,205,Business Fundamentals,Ann Stone;Colin Dodds;Guojun Chen;Killian Simpson;Sabrina Dammholz,113,74.592920354,5.654702797,85.0,58.0,0,0,3,3,5,15,35,30,20,2,0,,,
+UBCV,2021,W,COMM,101,,206,Business Fundamentals,Ann Stone;Colin Dodds;Elvina Sageeva;Kristian Oppenheim;Larry Chen;Sabrina Dammholz,93,72.892473118,13.44672448,87.0,0.0,3,1,2,2,9,11,19,20,23,3,0,,,
+UBCV,2021,W,COMM,101,,207,Business Fundamentals,Ann Stone;Colin Dodds;Elvina Sageeva;Sabrina Dammholz;Yu-Lin Yee,109,72.816513761,12.040183598,88.0,0.0,3,1,5,5,12,13,12,24,31,3,0,,,
+UBCV,2021,W,COMM,120,,DD1,Business Immersion,Colin Dodds;Kabir Dhillon,59,77.677966102,2.431408546,83.0,71.0,0,0,0,0,0,1,10,33,15,0,0,,,
+UBCV,2021,W,COMM,120,,DD2,Business Immersion,Colin Dodds;Rafe Alair Ang,40,73.75,12.761621149,84.0,0.0,1,0,0,1,1,3,14,13,7,0,0,,,
+UBCV,2021,W,COMM,390,,103,Business Writing,Colin Dodds,19,77.947368421,4.502760687,86.0,68.0,0,0,0,0,0,2,4,4,8,1,0,,,
+UBCV,2021,W,COMM,390,,104,Business Writing,Colin Dodds,20,78.7,6.366854962,86.0,61.0,0,0,0,1,0,1,2,5,7,4,0,,,
+UBCV,2021,W,COMM,390,,117,Business Writing,Colin Dodds,20,75.5,5.661504357,87.0,67.0,0,0,0,0,1,5,4,3,6,1,0,,,
+UBCV,2021,W,COMM,390,,118,Business Writing,Colin Dodds,20,77.95,5.472178437,91.0,70.0,0,0,0,0,0,3,5,3,8,0,1,,,
+UBCV,2021,W,COMM,101,,204,Business Fundamentals,Colin Dodds;Ann Stone,115,74.5,,84.0,50.0,,,,,,11,38,40,16,,,75.0,78.0,73.0
+UBCV,2021,W,COMM,101,,205,Business Fundamentals,Colin Dodds;Ann Stone,113,74.6,,85.0,58.0,,,,,,15,35,30,20,,,75.0,78.0,72.0
+UBCV,2021,W,COMM,101,,206,Business Fundamentals,Colin Dodds;Ann Stone,93,73.0,,87.0,0.0,,,,,8,10,21,20,23,,,75.0,80.0,70.0
+UBCV,2021,W,COMM,101,,207,Business Fundamentals,Colin Dodds;Ann Stone,108,73.5,,88.0,23.0,,,,,12,13,12,24,31,,,76.0,81.0,68.0
+UBCV,2021,W,COMM,120,,DD1,Business Immersion,Colin Dodds,59,77.7,,83.0,71.0,,,,,,,10,33,15,,,78.0,79.5,76.0
+UBCV,2021,W,COMM,120,,DD2,Business Immersion,Colin Dodds,40,73.8,,84.0,0.0,,,,,,,14,13,7,,,75.5,78.0,74.8
+UBCV,2021,W,COMM,390,,103,Business Writing,Colin Dodds,19,77.9,,86.0,68.0,,,,,,,,,8,,,79.0,80.0,75.0
+UBCV,2021,W,COMM,390,,104,Business Writing,Colin Dodds,20,78.7,,86.0,61.0,,,,,,,,,7,,,80.0,83.3,76.8
+UBCV,2021,W,COMM,390,,117,Business Writing,Colin Dodds,20,75.5,,87.0,67.0,,,,,,,,,6,,,75.5,80.0,70.8
+UBCV,2021,W,COMM,390,,118,Business Writing,Colin Dodds,20,78.0,,91.0,70.0,,,,,,,,,8,,,77.5,82.3,73.8
+UBCV,2022,S,COMM,390,,923,Business Writing,Colin Dodds,17,78.0,,89.0,65.0,0,0,0,0,2,2,1,4,4,4,0,78.0,82.0,73.0
+UBCV,2022,S,COMM,390,,924,Business Writing,Colin Dodds,19,75.1,,88.0,55.0,0,0,1,1,2,1,3,4,5,2,0,76.0,81.5,71.0
+UBCV,2022,W,COMM,101,,201,Business Fundamentals,Colin Dodds;Ann Stone,114,76.3,,87.0,0.0,3,1,0,1,1,8,18,39,37,6,0,78.0,81.0,75.0
+UBCV,2022,W,COMM,101,,202,Business Fundamentals,Colin Dodds;Ann Stone,114,78.3,,89.0,58.0,0,0,1,0,4,6,18,31,44,10,0,79.0,82.0,75.3
+UBCV,2022,W,COMM,101,,203,Business Fundamentals,Colin Dodds;Ann Stone,85,74.3,,85.0,54.0,0,1,0,3,4,19,21,19,16,2,0,75.0,78.0,70.0
+UBCV,2022,W,COMM,105,,201,"Values, Ethics, and Community",Colin Dodds;Su Kyung Kim;James Tansey,35,64.3,,88.0,0.0,4,2,3,4,7,4,2,5,3,1,0,65.0,74.5,59.5
+UBCV,2022,W,COMM,120,,DD1,Business Immersion,Colin Dodds,57,76.4,,82.0,67.0,0,0,0,0,1,4,17,23,12,0,0,76.0,79.0,74.0
+UBCV,2022,W,COMM,120,,DD2,Business Immersion,Colin Dodds,46,76.6,,86.0,63.0,0,0,0,1,1,3,12,19,7,3,0,77.0,79.0,74.0
+UBCV,2022,W,COMM,390,,103,Business Writing,Colin Dodds,20,78.7,,88.0,62.0,0,0,0,1,1,1,3,5,3,6,0,79.0,85.3,75.0
+UBCV,2022,W,COMM,390,,104,Business Writing,Colin Dodds,20,75.2,,90.0,0.0,1,0,0,0,2,1,2,4,6,3,1,79.5,83.3,73.8
+UBCV,2022,W,COMM,390,,113,Business Writing,Colin Dodds,20,74.3,,82.0,66.0,0,0,0,0,3,3,5,5,4,0,0,74.5,78.3,70.0
+UBCV,2022,W,COMM,390,,114,Business Writing,Colin Dodds,18,78.4,,88.0,68.0,0,0,0,0,0,2,3,4,6,3,0,79.0,82.0,75.3
+UBCV,2023,S,COMM,396,,923,Business Communications II,Colin Dodds,19,76.74,,86.0,67.0,0,0,0,0,1,3,5,4,3,3,0,77.0,81.0,73.0
+UBCV,2023,S,COMM,396,,924,Business Communications II,Colin Dodds,14,77.36,,91.0,54.0,0,1,0,2,0,1,1,1,4,2,2,81.5,86.25,69.5
+UBCV,2023,W,COMM,101,,201,Business Fundamentals,Colin Dodds;Ann Stone,99,74.7,,92.0,0.0,3,0,1,4,4,15,19,18,25,9,1,76.0,81.0,71.0
+UBCV,2023,W,COMM,101,,202,Business Fundamentals,Colin Dodds;Ann Stone,111,78.1,,87.0,68.0,0,0,0,0,0,5,19,45,40,1,0,78.0,80.0,76.0
+UBCV,2023,W,COMM,101,,203,Business Fundamentals,Colin Dodds;Ann Stone,110,74.9,,89.0,0.0,2,1,3,4,3,15,16,28,28,10,0,77.0,81.0,71.3
+UBCV,2023,W,COMM,105,,101,"Values, Ethics, and Community",Colin Dodds,53,76.5,,89.0,58.0,0,0,2,1,4,3,10,13,16,4,0,78.0,81.0,74.0
+UBCV,2023,W,COMM,105,,102,"Values, Ethics, and Community",Colin Dodds,53,76.1,,91.0,35.0,2,0,1,1,1,7,9,12,10,9,1,77.0,81.0,72.0
+UBCV,2023,W,COMM,105,,103,"Values, Ethics, and Community",Colin Dodds,56,76.3,,89.0,66.0,0,0,0,0,3,13,7,13,15,5,0,76.5,80.0,71.0
+UBCV,2023,W,COMM,105,,113,"Values, Ethics, and Community",Colin Dodds,48,71.8,,90.0,1.0,1,1,3,3,7,5,6,9,6,6,1,75.0,80.3,65.8
+UBCV,2023,W,COMM,120,,DD1,Business Immersion,Colin Dodds,44,75.5,,82.0,69.0,0,0,0,0,0,7,13,19,5,0,0,76.0,78.0,73.0
+UBCV,2023,W,COMM,120,,DD2,Business Immersion,Colin Dodds,30,75.4,,85.0,63.0,0,0,0,1,0,3,13,9,3,1,0,75.0,78.0,74.0
+UBCV,2023,W,COMM,396,,216,Business Communications II,Colin Dodds,20,79.1,,91.0,66.0,0,0,0,0,2,0,3,5,6,3,1,79.5,83.0,75.8
+UBCV,2023,W,COMM,396,,217,Business Communications II,Colin Dodds,20,75.1,,88.0,61.0,0,0,0,2,0,4,3,7,2,2,0,76.0,78.3,71.0

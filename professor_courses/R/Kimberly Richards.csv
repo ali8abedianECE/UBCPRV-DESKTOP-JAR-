@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,WRDS,150,B,614,Writing and Research in the Disciplines,Aleksandra Gordeeva;Kimberly Richards,27,80.555555556,20.998778963,97.0,0.0,2,1,0,0,0,0,0,3,3,11,7,,,
+UBCV,2020,W,WRDS,150,B,624,Writing and Research in the Disciplines,Claire Sutherland;Kimberly Richards,30,83.866666667,14.212023403,98.0,30.0,1,1,1,0,0,1,0,1,5,10,10,,,
+UBCV,2020,W,WRDS,150,B,644,Writing and Research in the Disciplines,Gabrielle Rutman;Kimberly Richards,27,88.62962963,9.414179764,98.0,57.0,0,0,1,0,1,0,1,0,0,8,16,,,
+UBCV,2020,W,WRDS,150,B,881,Writing and Research in the Disciplines,Aleksandra Gordeeva;Kimberly Richards,29,80.689655172,11.695858389,98.0,37.0,1,0,1,0,0,1,3,1,12,6,4,,,
+UBCV,2021,W,WRDS,150,A,342,Writing and Research in the Disciplines,Kimberly Richards,30,69.033333333,20.81856488,95.0,4.0,4,1,2,1,1,3,4,5,2,5,2,,,
+UBCV,2021,W,WRDS,150,B,814,Writing and Research in the Disciplines,Kimberly Richards,27,79.62962963,17.561207572,97.0,0.0,1,0,0,1,0,1,0,6,7,7,4,,,
+UBCV,2021,W,WRDS,150,B,822,Writing and Research in the Disciplines,Kimberly Richards,29,84.482758621,4.154349611,90.0,69.0,0,0,0,0,0,1,0,1,16,8,3,,,
+UBCV,2021,W,WRDS,150,A,342,Writing and Research in the Disciplines,Kimberly Richards,30,69.6,,95.0,4.0,,,,,,,,,,,,73.5,81.0,66.0
+UBCV,2021,W,WRDS,150,B,814,Writing and Research in the Disciplines,Kimberly Richards,27,79.6,,97.0,0.0,,,,,,,,6,7,7,,81.0,86.5,78.0
+UBCV,2021,W,WRDS,150,B,822,Writing and Research in the Disciplines,Kimberly Richards,29,84.5,,90.0,69.0,,,,,,,,,16,8,,84.0,87.0,83.0
+UBCV,2022,S,WRDS,150,B,522,Writing and Research in the Disciplines,Kimberly Richards,31,86.8,,94.0,66.0,0,0,0,0,1,0,1,0,6,11,12,87.0,91.5,84.5
+UBCV,2022,W,WRDS,150,B,612,Writing and Research in the Disciplines,Kimberly Richards,30,80.9,,92.0,60.0,0,0,0,1,0,2,1,7,10,6,3,82.0,85.0,77.5
+UBCV,2022,W,WRDS,150,B,622,Writing and Research in the Disciplines,Kimberly Richards,29,82.5,,96.0,40.0,1,0,0,0,0,0,1,2,16,5,4,83.0,85.0,81.0
+UBCV,2022,W,WRDS,150,B,651,Writing and Research in the Disciplines,Kimberly Richards,30,83.0,,93.0,67.0,0,0,0,0,1,3,0,5,4,13,4,85.5,88.0,79.0
+UBCV,2022,W,WRDS,150,B,813,Writing and Research in the Disciplines,Kimberly Richards,29,84.3,,96.0,72.0,0,0,0,0,0,0,2,4,7,14,2,85.0,88.0,82.0
+UBCV,2022,W,WRDS,150,B,823,Writing and Research in the Disciplines,Kimberly Richards,30,81.6,,94.0,61.0,0,0,0,1,2,0,3,6,6,5,7,80.5,88.5,78.0
+UBCV,2022,W,WRDS,150,B,843,Writing and Research in the Disciplines,Kimberly Richards,31,80.2,,91.0,0.0,1,0,0,0,0,1,3,1,11,13,1,84.0,86.5,80.0
+UBCV,2022,W,WRDS,150,B,853,Writing and Research in the Disciplines,Kimberly Richards,26,86.8,,94.0,77.0,0,0,0,0,0,0,0,6,2,7,11,88.0,91.0,82.5
+UBCV,2023,S,WRDS,150,A,001,Writing and Research in the Disciplines,Kimberly Richards,31,73.3,,99.0,0.0,2,2,0,1,1,1,6,5,4,2,5,76.0,84.0,72.0
+UBCV,2023,W,THTR,325,A,001,History of Canadian Theatre,Kimberly Richards,25,77.4,,99.0,3.0,1,0,1,0,1,0,4,4,6,0,5,79.5,83.8,75.0
+UBCV,2023,W,WRDS,150,A,003,Writing and Research in the Disciplines,Kimberly Richards,32,85.9,,100.0,74.0,0,0,0,0,0,0,3,4,7,9,8,87.0,90.0,80.5
+UBCV,2023,W,WRDS,150,A,333,Writing and Research in the Disciplines,Kimberly Richards,32,81.1,,97.0,37.0,1,0,1,1,0,2,3,3,5,5,9,83.0,91.0,74.0
+UBCV,2023,W,WRDS,150,A,343,Writing and Research in the Disciplines,Kimberly Richards,31,84.1,,99.0,57.0,0,0,2,1,0,0,0,0,9,10,7,85.0,89.0,81.0
+UBCV,2023,W,WRDS,150,B,871,Writing and Research in the Disciplines,Kimberly Richards,32,91.4,,99.0,80.0,0,0,0,0,0,0,0,0,5,7,20,92.5,96.0,87.0
+UBCV,2023,W,WRDS,150,B,881,Writing and Research in the Disciplines,Kimberly Richards,32,84.5,,94.0,65.0,0,0,0,0,3,0,1,1,8,10,9,85.0,90.3,82.0

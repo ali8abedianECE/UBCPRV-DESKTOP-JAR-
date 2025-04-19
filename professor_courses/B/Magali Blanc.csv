@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,FREN,101,,108,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,28,73.464285714,17.034783897,95.0,5.0,,,,,,,,8,,,,,,
+UBCV,2015,W,FREN,101,,201,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,31,74.129032258,15.193731022,97.0,38.0,,,,,,,,,,6,,,,
+UBCV,2016,W,FREN,122,,109,Contemporary French Language and Literature I,Anne Scott;Magali Blanc;Magali Suzanne Ida Blanc,26,78.19230769,8.717886123,97.0,63.0,0,0,0,1,1,5,3,4,8,1,3,,,
+UBCV,2016,W,FREN,123,,206,Contemporary French Language and Literature II,Anne Scott;Magali Blanc;Magali Suzanne Ida Blanc,12,73.66666667,9.930058439,92.0,61.0,0,0,0,2,2,1,3,1,0,2,1,,,
+UBCV,2017,W,FREN,112,,901,Intermediate French II,Magali Blanc;Magali Suzanne Ida Blanc;Robert Miller,23,69.217391304,15.922986591,97.0,40.0,2,3,2,3,1,1,2,1,5,1,2,,,
+UBCV,2017,W,FREN,122,,104,Contemporary French Language and Literature I,Magali Blanc;Magali Suzanne Ida Blanc;Stephanie Palisse,25,77.32,9.516301803,88.0,58.0,0,0,1,3,0,2,1,5,7,6,0,,,
+UBCV,2018,S,FREN,101,,925,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,20,73.0,20.634666794,96.0,0.0,1,1,0,0,3,1,4,4,1,1,4,,,
+UBCV,2018,W,FREN,101,,901,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,26,78.076923077,16.783141725,96.0,10.0,1,0,0,2,1,2,2,3,4,8,3,,,
+UBCV,2018,W,FREN,102,,902,Beginners' French II,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,26,74.423076923,18.646550516,94.0,0.0,1,0,1,2,1,7,1,2,2,4,5,,,
+UBCV,2019,W,FREN,101,,109,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,34,77.705882353,13.61267104,95.0,22.0,1,0,1,1,1,3,5,5,7,3,7,,,
+UBCV,2019,W,FREN,101,,903,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc;Nicholas Bartlett,30,78.0,20.769672851,96.0,0.0,2,0,1,1,3,0,0,3,5,6,9,,,
+UBCV,2021,W,FREN,102,,204,Beginners' French II,Joyce Lubert;Juliet O'Brien;Magali Blanc;Soline Milet,31,80.225806452,16.550346779,91.0,0.0,1,0,0,1,1,0,2,3,7,11,5,,,
+UBCV,2021,W,FREN,201,,101,Elementary French I,Magali Blanc;Sylvia Bascou Vallarino,28,77.142857143,9.759000729,92.0,52.0,0,1,0,0,5,2,4,3,5,7,1,,,
+UBCV,2021,W,FREN,201,,106,Elementary French I,Magali Blanc,31,78.193548387,12.020591652,93.0,46.0,1,2,1,0,0,2,2,4,8,9,2,,,
+UBCV,2021,W,FREN,202,,210,Elementary French II,Magali Blanc;Somayeh Kamranian,29,75.310344828,8.928699506,94.0,53.0,0,1,0,2,1,4,8,3,4,5,1,,,
+UBCV,2021,W,FREN,201,,101,Elementary French I,Magali Blanc,28,77.1,,92.0,52.0,,,,,,,,,,7,,79.0,86.3,69.0
+UBCV,2021,W,FREN,201,,106,Elementary French I,Magali Blanc,31,78.2,,93.0,46.0,,,,,,,,,8,9,,81.0,85.5,75.0
+UBCV,2021,W,FREN,202,,210,Elementary French II,Magali Blanc,29,75.3,,94.0,53.0,,,,,,,8,,,,,74.0,82.0,71.0
+UBCV,2022,W,FREN,101,,106,Beginners' French I,Magali Blanc,54,74.7,,95.0,3.0,3,1,2,2,3,7,3,5,11,14,3,80.0,85.8,69.0
+UBCV,2022,W,FREN,102,,204,Beginners' French II,Magali Blanc,35,73.2,,95.0,0.0,1,0,2,1,6,6,5,1,2,7,4,73.0,85.0,66.0
+UBCV,2022,W,FREN,301,,101,Intermediate French I,Magali Blanc,27,77.2,,95.0,64.0,0,0,0,0,4,5,3,4,5,3,3,78.0,83.5,69.0
+UBCV,2022,W,FREN,301,,103,Intermediate French I,Magali Blanc,30,77.8,,93.0,61.0,0,0,0,1,2,6,5,2,6,5,3,78.0,85.5,71.0
+UBCV,2022,W,FREN,301,,104,Intermediate French I,Magali Blanc,26,79.4,,92.0,58.0,0,0,1,1,3,1,2,2,5,6,5,81.5,86.8,72.5
+UBCV,2022,W,FREN,302,,201,Intermediate French II,Magali Blanc,24,78.3,,97.0,51.0,0,1,0,2,1,4,0,4,6,1,5,80.0,84.3,70.5
+UBCV,2022,W,FREN,302,,202,Intermediate French II,Magali Blanc,19,81.7,,96.0,60.0,0,0,0,2,0,1,3,0,4,6,3,84.0,88.0,75.0
+UBCV,2023,W,FREN,101,,115,Beginners' French I,Magali Blanc,36,67.4,,96.0,0.0,3,2,3,2,2,4,2,6,6,0,1,71.0,78.5,58.0
+UBCV,2023,W,FREN,102,,201,Beginners' French II,Magali Blanc,24,73.5,,95.0,0.0,1,0,0,0,0,1,6,5,6,0,1,77.0,80.0,73.8
+UBCV,2023,W,FREN,301,,104,Intermediate French I,Magali Blanc,27,78.7,,90.0,53.0,0,1,0,1,0,0,3,5,12,3,1,80.0,83.0,77.0
+UBCV,2023,W,FREN,302,,201,Intermediate French II,Magali Blanc,30,76.2,,94.0,55.0,0,0,1,2,4,0,6,2,4,3,5,76.0,85.5,68.5
+UBCV,2023,W,FREN,302,,203,Intermediate French II,Magali Blanc,22,78.7,,97.0,43.0,1,0,1,1,0,2,0,4,3,4,5,81.0,87.0,76.0

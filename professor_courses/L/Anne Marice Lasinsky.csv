@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,KIN,151,,921,Biomechanics I,Anne Lasinsky;Anne Marice Lasinsky,32,81.28125,17.28365697,95.0,0.0,,,,,,,5,,5,7,10
+UBCV,2015,W,KIN,471,,001,Prevention of Sports Injuries II,Anne Lasinsky;Anne Marice Lasinsky,131,88.007633588,6.572081023,98.0,59.0,0,0,,,,,,10,21,32,63
+UBCV,2016,S,KIN,190,,921,Anatomy & Physiology I,Anne Lasinsky;Anne Marice Lasinsky,38,76.36842105,13.26939387,95.0,41.0,1,3,0,2,3,4,5,1,4,8,7
+UBCV,2017,S,KIN,190,,921,Anatomy & Physiology I,Anne Lasinsky;Anne Marice Lasinsky,41,73.707317073,14.795681638,94.0,44.0,3,3,5,0,3,1,2,6,7,5,6
+UBCV,2017,W,KIN,366,,001,Movement Experiences for Young Children,Anne Lasinsky;Anne Marice Lasinsky,152,79.467105263,8.763196492,98.0,54.0,0,1,0,6,9,13,18,21,33,31,20
+UBCV,2017,W,KIN,461,,001,Prevention of Sports Injuries I,Anne Lasinsky;Anne Marice Lasinsky,148,85.486486486,10.001011164,100.0,39.0,2,1,0,2,2,6,7,10,24,34,60
+UBCV,2017,W,KIN,471,,001,Prevention of Sports Injuries II,Anne Lasinsky;Anne Marice Lasinsky,204,88.823529412,6.993187064,100.0,49.0,1,0,0,1,1,3,6,7,19,53,113
+UBCV,2018,W,KIN,461,,001,Prevention of Sports Injuries I,Anne Lasinsky;Anne Marice Lasinsky;Cody Piwowar-Desilets;Cody William Piwowar-Desilets;Nicole Mallow,166,83.391566265,9.374869112,100.0,56.0,0,0,1,3,8,10,14,13,26,42,49
+UBCV,2019,W,KIN,110,,901,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Sobhan Mardan-Dezfouli;Viviana Shiffman,49,88.653061224,6.796295009,97.0,71.0,0,0,0,0,0,1,2,1,9,10,26
+UBCV,2019,W,KIN,110,,L1A,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Christina Jones;Eloise Tribolet;Michelle Jang;Michelle Kira Jang,34,88.647058824,8.481289042,99.0,64.0,0,0,0,0,1,1,1,2,2,7,20
+UBCV,2019,W,KIN,110,,L1B,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Elizabeth Pasman;Michelle Jang;Michelle Kira Jang,33,85.454545455,9.141563423,99.0,62.0,0,0,0,1,0,1,4,1,7,6,13
+UBCV,2019,W,KIN,110,,L1C,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky,34,88.794117647,7.197556032,98.0,69.0,0,0,0,0,0,1,1,1,6,8,17
+UBCV,2019,W,KIN,110,,L1D,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky,26,85.730769231,10.482586293,99.0,60.0,0,0,0,1,0,1,1,7,1,3,12
+UBCV,2019,W,KIN,110,,L1E,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky,33,86.181818182,6.530957747,97.0,72.0,0,0,0,0,0,0,3,1,8,8,13
+UBCV,2019,W,KIN,110,,L1F,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky,33,83.818181818,11.460406149,99.0,51.0,0,1,1,0,0,1,5,4,5,4,12
+UBCV,2019,W,KIN,131,,L1A,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky;Moss Norman,39,74.128205128,9.787692291,94.0,46.0,1,0,1,3,5,5,7,5,5,6,1
+UBCV,2019,W,KIN,131,,L1B,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky;Michael George Leahy;Michael Leahy;Shalaya Elise Kipp;Shalaya Kipp;Sobhan Mardan-Dezfouli,39,79.666666667,14.196614373,97.0,27.0,1,0,1,2,3,3,3,5,2,8,11
+UBCV,2019,W,KIN,131,,L1C,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky,39,78.179487179,13.206600811,97.0,38.0,1,1,1,2,5,1,3,3,6,9,7
+UBCV,2019,W,KIN,131,,L1D,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky,39,82.230769231,9.620322619,95.0,56.0,0,0,2,0,0,3,4,8,4,5,13
+UBCV,2019,W,KIN,131,,L2A,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky;Gregg Eschelmuller;Gregg Ludwig Eschelmuller;Margot Eleonore Schmidt;Margot Schmidt,23,74.782608696,10.117296269,98.0,55.0,0,0,1,2,3,2,4,4,4,2,1
+UBCV,2019,W,KIN,131,,L2B,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky,19,73.526315789,18.388910973,94.0,15.0,1,1,1,1,1,2,2,2,2,3,3
+UBCV,2019,W,KIN,131,,L2C,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky,22,77.272727273,10.876719648,95.0,55.0,0,0,2,0,3,2,0,4,5,5,1
+UBCV,2019,W,KIN,131,,L2D,Systems Physiology I,Anne Lasinsky;Anne Marice Lasinsky,23,73.391304348,9.557192106,87.0,52.0,0,1,1,0,4,4,4,3,2,4,0
+UBCV,2019,W,KIN,461,,001,Prevention of Sports Injuries I,Anne Lasinsky;Anne Marice Lasinsky;Nicole Mallow;Pak-Fai Patphil Wu;Pak-Fai Wu,114,80.684210526,10.267498157,97.0,52.0,0,2,5,1,7,6,7,12,26,28,20
+UBCV,2020,W,KIN,110,,L1A,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ndisi Ogalo Ouma;Emmanuel Ouma;Hannah Goodings;Jean-Sebastien Blouin;Jenna Benbaruj;John Kramer;Viviana Shiffman,39,90.128205128,12.38245679,100.0,31.0,1,0,0,0,0,1,1,0,5,3,28
+UBCV,2020,W,KIN,110,,L1B,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Liv Yoon;Viviana Shiffman,32,91.6875,5.80009733,100.0,81.0,0,0,0,0,0,0,0,0,5,5,22
+UBCV,2020,W,KIN,110,,L1C,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Paolo B Dominelli;Viviana Shiffman,36,94.166666667,5.925730817,99.0,73.0,0,0,0,0,0,0,1,1,1,0,33
+UBCV,2020,W,KIN,110,,L1D,Human Anatomy,Andrew Perrotta;Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Viviana Shiffman,29,91.310344828,9.219945182,100.0,61.0,0,0,0,1,0,0,0,3,2,2,21
+UBCV,2020,W,KIN,110,,L1E,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Romeo Chua;Viviana Shiffman,35,92.771428571,6.462951949,100.0,71.0,0,0,0,0,0,1,0,1,1,4,28
+UBCV,2020,W,KIN,110,,L1F,Human Anatomy,Anne Lasinsky;Anne Marice Lasinsky;Emmanuel Ouma;Hannah Goodings;Jenna Benbaruj;John Kramer;Mark Beauchamp;Viviana Shiffman,38,95.105263158,4.228535455,100.0,83.0,0,0,0,0,0,0,0,0,1,2,35
+UBCV,2020,W,KIN,320,,901,Exercise Testing and Prescription,Anne Lasinsky;Anne Marice Lasinsky;G Barry Legh;Jasmin Ma;Luke Peddie;Sierra Moores,139,83.553956835,6.785718872,98.0,57.0,0,0,1,0,2,3,10,16,42,39,26
+UBCV,2020,W,KIN,420,,001,Prevention of Sports Injuries,Anne Lasinsky;Anne Marice Lasinsky;Eloise Tribolet;Gabriella Flemons;Luke Peddie;Pak-Fai Wu,339,93.525073746,5.162030492,99.0,68.0,0,0,0,0,0,2,1,4,15,40,277

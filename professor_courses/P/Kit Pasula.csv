@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ECON,340,,001,Financial Economics,Kit Pasula,76,74.31578947,14.37146295,99.0,34.0,,7,,9,7,6,10,,6,12,14,,,
+UBCO,2014,W,ECON,356,,001,International Finance,Kit Pasula,83,74.60240964,19.15020204,99.0,0.0,5,,,,11,6,8,,7,9,21,,,
+UBCO,2014,W,ECON,391,A,001,Topics in Economics,Kit Pasula,23,76.0,16.86847517,99.0,50.0,0,,,,,,,,,,6,,,
+UBCO,2014,W,ECON,402,,001,Applied Macroeconomic Analysis,Kit Pasula,10,79.3,13.35040574,99.0,58.0,0,0,,,,,,,,,,,,
+UBCO,2015,W,ECON,340,,001,Financial Economics,Kit Pasula,80,69.3,18.94789658,99.0,7.0,6,16,,,7,8,,6,9,,15,,,
+UBCO,2015,W,ECON,355,,001,International Trade,Kit Pasula,42,72.714285714,19.875571125,99.0,21.0,,5,5,,2,6,,0,1,2,14,,,
+UBCO,2015,W,ECON,356,,001,International Finance,Kit Pasula,73,70.835616438,18.373451332,99.0,0.0,,10,6,,9,6,,,12,,13,,,
+UBCO,2015,W,ECON,402,,001,Applied Macroeconomic Analysis,Kit Pasula,16,77.875,23.596256765,99.0,20.0,,,,,,,,,,,6,,,
+UBCO,2016,W,ECON,340,,001,Financial Economics,Kit Pasula,57,74.45614035,16.60902312,99.0,24.0,1,8,3,3,4,4,6,4,7,4,13,,,
+UBCO,2016,W,ECON,355,,001,International Trade,Kit Pasula,43,76.23255814,14.95363821,99.0,50.0,0,5,4,3,2,1,0,3,14,4,7,,,
+UBCO,2016,W,ECON,356,,001,International Finance,Kit Pasula,40,70.15,19.4086288,99.0,28.0,3,6,4,2,4,2,2,2,2,6,7,,,
+UBCO,2016,W,ECON,356,,002,International Finance,Kit Pasula,58,73.96551724,19.52233585,99.0,12.0,3,8,3,4,1,3,5,3,8,5,15,,,
+UBCO,2016,W,ECON,402,,001,Applied Macroeconomic Analysis,Kit Pasula,9,81.88888889,18.4624243,96.0,38.0,1,0,0,0,0,1,0,0,2,0,5,,,
+UBCO,2017,W,ECON,340,,001,Financial Economics,Kit Pasula,58,73.5,17.952422502,97.0,8.0,3,7,3,0,4,4,9,2,11,5,10,,,
+UBCO,2017,W,ECON,356,,001,International Finance,Kit Pasula,39,74.974358974,13.788796328,98.0,50.0,0,4,2,0,6,5,5,2,3,5,7,,,
+UBCO,2017,W,ECON,356,,101,International Finance,Kit Pasula,58,71.896551724,18.252315071,99.0,27.0,4,5,7,1,8,5,4,4,0,5,15,,,
+UBCO,2017,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,6,78.666666667,16.058227382,97.0,55.0,0,0,1,0,0,1,0,1,1,0,2,,,
+UBCO,2018,W,ECON,340,,001,Financial Economics,Kit Pasula,57,72.666666667,17.406211261,99.0,14.0,3,6,2,6,4,3,7,6,4,5,11,,,
+UBCO,2018,W,ECON,356,,001,International Finance,Kit Pasula,33,73.060606061,17.968617424,99.0,21.0,1,2,4,3,5,1,2,4,2,1,8,,,
+UBCO,2018,W,ECON,356,,101,International Finance,Kit Pasula,43,74.372093023,17.969581779,99.0,25.0,1,9,2,2,1,0,3,5,3,7,10,,,
+UBCO,2019,W,ECON,340,,001,Financial Economics,Kit Pasula,60,76.216666667,12.915752656,100.0,50.0,0,2,0,9,5,9,5,6,6,8,10,,,
+UBCO,2019,W,ECON,356,,001,International Finance,Kit Pasula,58,75.413793103,14.416163544,99.0,42.0,1,3,3,9,5,5,2,5,7,6,12,,,
+UBCO,2019,W,ECON,356,,101,International Finance,Kit Pasula,56,76.071428571,12.882485845,99.0,60.0,0,0,0,14,6,4,5,4,5,5,13,,,
+UBCO,2019,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,8,88.125,3.681517544,93.0,81.0,0,0,0,0,0,0,0,0,1,3,4,,,
+UBCO,2020,W,ECON,340,,001,Financial Economics,Kit Pasula,40,72.625,13.652627248,98.0,50.0,0,6,1,2,5,1,5,8,5,3,4,,,
+UBCO,2020,W,ECON,356,,001,International Finance,Kit Pasula;Noriko Ozawa,38,74.842105263,11.741647556,95.0,51.0,0,3,0,4,2,7,5,1,7,5,4,,,
+UBCO,2020,W,ECON,356,,101,International Finance,Kit Pasula,29,73.896551724,14.585572195,99.0,50.0,0,4,1,1,3,5,2,3,2,1,7,,,
+UBCO,2021,W,ECON,340,,001,Financial Economics,Kit Pasula;Wendy Wai Yee Kei,36,71.111111111,13.313318311,93.0,42.0,3,3,0,1,5,5,4,6,4,2,3,,,
+UBCO,2021,W,ECON,340,,101,Financial Economics,Kit Pasula,34,74.970588235,9.882599628,95.0,55.0,0,0,3,2,2,4,7,4,6,5,1,,,
+UBCO,2021,W,ECON,356,,001,International Finance,Kit Pasula,22,76.454545455,13.000832474,98.0,50.0,0,2,0,1,2,3,1,3,3,3,4,,,
+UBCO,2021,W,ECON,356,,101,International Finance,Kit Pasula,20,75.65,22.11994813,99.0,20.0,2,0,2,1,2,2,0,0,2,1,8,,,
+UBCO,2021,W,ECON,402,,001,Applied Macroeconomic Analysis,Kit Pasula,7,83.714285714,17.698533703,99.0,51.0,0,1,0,0,0,0,1,1,0,0,4,,,
+UBCO,2021,W,ECON,340,,101,Financial Economics,Kit Pasula,34,75.0,,95.0,55.0,,,,,,,7,,6,,,75.0,82.8,69.3
+UBCO,2021,W,ECON,356,,001,International Finance,Kit Pasula,22,76.5,,98.0,50.0,,,,,,,,,,,,78.0,86.8,68.5
+UBCO,2021,W,ECON,356,,101,International Finance,Kit Pasula,20,75.7,,99.0,20.0,,,,,,,,,,,8,82.5,94.0,63.5
+UBCO,2021,W,ECON,402,,001,Applied Macroeconomic Analysis,Kit Pasula,7,83.7,,99.0,51.0,,,,,,,,,,,,94.0,96.0,75.0
+UBCO,2022,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kit Pasula,47,63.8,,98.0,12.0,10,6,3,1,3,0,6,6,5,2,5,72.0,79.0,50.5
+UBCO,2022,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kit Pasula,44,65.2,,99.0,7.0,5,6,4,0,5,6,4,5,5,1,3,68.5,78.0,55.3
+UBCO,2022,W,ECON,356,,001,International Finance,Kit Pasula,34,74.0,,99.0,30.0,2,1,4,2,3,0,2,3,8,4,5,78.5,84.5,62.8
+UBCO,2022,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,13,85.8,,97.0,60.0,0,0,0,1,0,1,1,1,0,1,8,91.0,95.0,78.0
+UBCO,2023,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kit Pasula,40,69.1,,94.0,24.0,2,4,5,3,1,4,3,2,3,6,3,70.0,83.5,58.0
+UBCO,2023,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kit Pasula,36,68.2,,99.0,26.0,3,4,6,3,0,3,1,5,4,2,4,71.0,81.0,56.0
+UBCO,2023,W,ECON,356,,001,International Finance,Kit Pasula,33,75.8,,99.0,53.0,0,1,2,5,1,4,1,5,5,3,5,76.0,84.3,66.0
+UBCO,2023,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,11,85.8,,99.0,67.0,0,0,0,0,1,0,1,0,1,4,4,86.0,90.0,84.5

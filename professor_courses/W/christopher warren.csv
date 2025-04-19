@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CLST,310,,001,GREEK&ROMAN LIT,"Marshall, Christopher Warren",65,72.14,10.78,87,30,58,1,5,0,1,0,0,0,1,0,1,3,3,2,6,11,10,6,14,3,0
+UBC,2002,W,CLST,313,,001,GREEK EPIC,"Marshall, Christopher Warren",65,70.83,8.48,85,51,64,0,0,1,0,0,0,0,0,0,0,2,4,9,7,8,12,10,10,2,0
+UBC,2002,W,CLST,314,,002,LATN EPIC/PROSE,"Marshall, Christopher Warren",60,72.08,16.24,86,0,57,3,0,0,0,2,0,1,0,0,3,0,1,4,1,10,7,15,17,2,0
+UBC,2002,W,LATN,402,A,001,Latin Verse,"Marshall, Christopher Warren",4,83.25,8.06,91,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+UBC,2003,W,CLST,317,,001,CLASSICL TRAGEDY,"Marshall, Christopher Warren",58,71.94,12.21,87,13,50,1,6,1,0,0,1,0,0,0,1,3,0,5,4,5,13,8,7,5,0
+UBC,2003,W,LATN,402,A,001,LATIN VERSE,"Marshall, Christopher Warren",4,84,5.29,90,80,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1
+UBC,2005,W,CLST,317,,001,CLASSICL TRAGEDY,"Marshall, Christopher Warren",59,70.6,9.77,85,45,51,1,7,0,0,0,0,0,0,1,1,1,5,5,8,7,6,5,12,2,0
+UBC,2005,W,CLST,318,,002,CLASSICAL COMEDY,"Marshall, Christopher Warren",59,69.31,14.51,88,0,50,4,5,0,0,1,0,1,0,2,4,0,2,2,11,11,7,5,9,3,0
+UBC,2005,W,GREK,200,,001,SECOND YR GREEK,"Marshall, Christopher Warren",12,83,7.91,94,66,11,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,3,2
+UBC,2005,W,LATN,402,A,001,LATIN VERSE,"Marshall, Christopher Warren",10,73.2,13.81,91,47,9,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,2,3,0,1
+UBC,2005,W,LATN,502,A,001,LATIN VERSE,"Marshall, Christopher Warren",4,84.5,5.8,93,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1
+UBC,2007,W,CLST,313,,001,GREEK EPIC,"Marshall, Christopher Warren",60,68.47,11.92,88,26,54,3,3,0,0,0,0,2,1,0,3,1,3,8,6,13,11,4,6,2,0
+UBC,2007,W,CLST,318,,002,CLASSICAL COMEDY,"Marshall, Christopher Warren",42,67.55,14.38,86,12,37,3,2,0,0,0,1,1,1,0,3,0,2,4,3,9,10,5,3,1,0
+UBC,2007,W,GREK,401,B,001,Greek Prose,"Marshall, Christopher Warren",5,79.6,7.77,89,70,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,0
+UBC,2007,W,GREK,525,A,002,GREK LIT SEMINAR,"Marshall, Christopher Warren",5,84.8,7.85,90,71,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1
+UBC,2009,W,CLST,404,,001,RECPTN CLAS WRLD,"Marshall, Christopher Warren",11,79.9,7.78,90,70,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,3
+UBC,2009,W,GREK,525,B,002,GREK LIT SEMINAR,"Marshall, Christopher Warren",4,86.75,2.99,90,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1
+UBC,2009,W,LATN,402,A,001,LATIN VERSE,"Marshall, Christopher Warren",6,73.67,36.24,94,0,5,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,2
+UBC,2010,W,CLST,105,,003,GREK & ROMN MYTH,"Marshall, Christopher Warren",68,68.97,15.16,93,1,58,3,6,1,0,1,0,0,2,0,3,4,5,5,7,8,10,5,6,4,4
+UBC,2010,W,CLST,313,,001,GREEK EPIC,"Marshall, Christopher Warren",64,73,12.17,90,0,61,1,2,0,0,1,0,0,0,0,1,1,1,5,3,10,8,18,12,2,1
+UBC,2010,W,CNRS,503,C,001,STUD LIT ART,"Marshall, Christopher Warren",4,81.75,11.32,94,69,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1
+UBC,2012,W,CLST,313,,001,GREEK EPIC,"Marshall, Christopher Warren",62,71.46,10.86,90,29,60,1,1,0,0,0,0,1,0,0,1,5,1,4,5,9,14,8,7,6,1
+UBC,2012,W,CLST,404,,001,RECPTN CLAS WRLD,"Marshall, Christopher Warren",12,77.33,7.57,90,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5,1,0,2
+UBC,2012,W,GREK,502,E,002,GREEK VERSE,"Marshall, Christopher Warren",5,85.6,5.03,90,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1
+UBC,2012,W,LATN,402,C,002,LATIN VERSE,"Marshall, Christopher Warren",5,81.8,9.36,93,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1
+UBC,2012,W,LATN,502,C,002,LATIN VERSE,"Marshall, Christopher Warren",8,84.5,8.09,93,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,3
+UBC,2013,W,CLST,402,A,001,SEM CLASSCL LIT,"Marshall, Christopher Warren",12,79.92,6.46,92,69,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,2,1
+UBC,2013,W,GREK,502,B,001,GREEK VERSE,"Marshall, Christopher Warren",4,88.5,4.12,93,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2014,W,GREK,501,C,001,GREEK PROSE,"Marshall, Christopher Warren",5,85.2,4.6,91,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2014,W,GREK,525,B,001,GREK LIT SEMINAR,"Marshall, Christopher Warren",4,89,3.37,93,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2015,W,CLST,307,,001,GREEK LAW,"Marshall, Christopher Warren",40,76.49,10.35,92,47,38,1,1,0,0,0,0,0,0,1,1,0,1,3,2,5,3,6,10,4,4
+UBC,2015,W,CLST,318,,001,CLASSICAL COMEDY,"Marshall, Christopher Warren",27,66.7,23.02,91,0,24,3,0,0,0,2,0,0,1,0,3,0,3,2,3,2,3,2,4,4,1
+UBC,2015,W,GREK,351,,001,INT ANC GREK PRS,"Marshall, Christopher Warren",4,81.25,14.93,97,68,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2
+UBC,2015,W,GREK,502,A,001,GREEK VERSE,"Marshall, Christopher Warren",5,89.2,4.76,93,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+UBC,2016,W,CLST,105,,004,GREK & ROMN MYTH,"Marshall, Christopher Warren",78,69.95,12.97,99,25,72,3,2,0,0,0,0,2,1,0,3,2,7,8,9,9,9,8,12,6,2
+UBC,2016,W,CLST,313,,001,GREEK EPIC,"Marshall, Christopher Warren",74,65.34,16.93,94,0,66,4,4,0,0,2,1,0,1,0,4,8,2,12,9,7,12,5,8,1,2
+UBC,2016,W,CNRS,503,A,001,STUD LIT ART,"Marshall, Christopher Warren",8,85.38,8.18,94,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3
+UBC,2016,W,GREK,402,E,001,GREEK VERSE,"Marshall, Christopher Warren",6,90.67,2.42,94,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2017,W,CLST,307,,001,GREEK LAW,"Marshall, Christopher Warren",51,67.9,15.06,92,0,47,3,1,0,0,1,0,0,1,1,3,4,2,5,6,8,6,7,5,2,2
+UBC,2017,W,GREK,202,,001,2YR ANC GREEK II,"Marshall, Christopher Warren",6,81.83,6.11,86,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4,0

@@ -1,0 +1,72 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne",74,79.32,6.14,96,66,74,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,17,11,25,10,3
+UBC,2002,W,NURS,321,,001,NURS RLS&CMP II,"Esson, Lynne;Jackson, Cathryn",71,81.64,4.87,94,71,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,20,24,18,3
+UBC,2003,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn",64,79.48,6.84,94,62,62,0,2,0,0,0,0,0,0,0,0,0,0,2,2,2,8,17,16,11,4
+UBC,2003,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn",54,81.43,5.06,92,68,53,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,10,18,16,1
+UBC,2003,W,NURS,321,,001,NURS RLS&CMP II,"Esson, Lynne;Jackson, Cathryn",57,82.23,4.02,91,72,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,26,13,2
+UBC,2005,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",10,87.9,1.45,91,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1
+UBC,2005,W,NURS,320,,001,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",57,78.79,6.46,90,60,56,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3,9,14,15,11,1
+UBC,2005,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Leung, Linda;Marshall, Helga;TBA;Valkenier, Beverley",56,81.25,5.02,90,70,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,15,18,15,2
+UBC,2005,W,NURS,330,,001,NURS CARE IND CM,"Esson, Lynne;Marshall, Helga",58,77.6,9.06,89,44,54,3,1,0,0,0,0,0,0,3,3,0,0,0,1,3,9,15,14,12,0
+UBC,2005,W,NURS,330,,002,NURS CARE IND CM,"Esson, Lynne;Marshall, Helga;TBA",58,80.34,4.59,91,71,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,18,20,11,1
+UBC,2005,W,NURS,421,,001,NURS ROL COM,"Dunn, Pady;Esson, Lynne;Lowe, Sharon;Valkenier, Beverley",56,82.52,5.03,91,69,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,22,20,2
+UBC,2006,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",17,87.94,1.95,91,86,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,4
+UBC,2006,W,NURS,320,,001,NURS RLS&CMP I,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Marshall, Helga;Valkenier, Beverley",59,78.68,4.57,86,61,59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,5,21,23,4,0
+UBC,2006,W,NURS,320,,002,NURS RLS&CMP I,"Esson, Lynne;Jackson, Cathryn;Leung, Linda;Lowe, Sharon;Valkenier, Beverley",58,78.95,4.9,87,62,57,0,1,0,0,0,0,0,0,0,0,0,0,1,1,3,5,19,23,5,0
+UBC,2006,W,NURS,330,,001,NURS CARE IND CM,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Leung, Linda;Marshall, Helga",59,79.56,4.57,89,67,59,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,18,24,8,0
+UBC,2006,W,NURS,330,,002,NURS CARE IND CM,"Esson, Lynne;Marshall, Helga",58,77.93,8.08,89,35,56,1,1,0,0,0,0,0,1,0,1,0,0,0,1,6,8,16,15,10,0
+UBC,2006,W,NURS,411,G,002,EXPL AVE NURS PR,"Dahinten, Susan;Esson, Lynne",6,92,2,95,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBC,2006,W,NURS,421,,001,NURS ROL COM,"Dunn, Pady;Esson, Lynne;Valkenier, Beverley",53,89,4.43,97,74,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,21,26
+UBC,2006,W,NURS,421,,002,NURS ROL COM,"Dunn, Pady;Esson, Lynne;Lowe, Sharon;Valkenier, Beverley",57,87.41,4,96,79,56,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,25,16
+UBC,2007,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",13,86.23,2.49,90,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,2
+UBC,2007,W,NURS,320,,001,NURS RLS&CMP I,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Marshall, Helga;Valkenier, Beverley",58,75.84,5.76,87,63,57,0,1,0,0,0,0,0,0,0,0,0,0,1,4,8,15,14,12,3,0
+UBC,2007,W,NURS,320,,002,NURS RLS&CMP I,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Leung, Linda;Marshall, Helga;Valkenier, Beverley",58,78.18,5.75,89,61,57,0,1,0,0,0,0,0,0,0,0,0,0,2,0,3,12,16,18,6,0
+UBC,2007,W,NURS,330,,001,NURS CARE IND CM,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Marshall, Helga",59,72.66,5.94,84,57,58,0,1,0,0,0,0,0,0,0,0,0,1,3,8,12,16,11,7,0,0
+UBC,2007,W,NURS,330,,002,NURS CARE IND CM,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Leung, Linda;Marshall, Helga",59,74.98,7.18,88,55,58,0,1,0,0,0,0,0,0,0,0,0,1,4,5,7,11,17,9,4,0
+UBC,2007,W,NURS,421,,001,NURS ROL COM,"Esson, Lynne;Galdas, Paul;Valkenier, Beverley",58,86.22,5.04,96,74,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,13,26,14
+UBC,2009,S,NURS,411,A,941,EXPL AVE NURS PR,"Esson, Lynne;Oliffe, John",20,87.2,3.81,95,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,3
+UBC,2009,S,NURS,460,,941,CONSLD PRCT EXP,"Affleck, Frances;Bassingthwaighte, Carol;Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Jetha, Farah;Lawton, Jennifer;Tan, Elsie;Valkenier, Beverley",56,,,,,0,0,1,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",13,88.15,2.88,93,86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+UBC,2009,W,NURS,303,,001,ADULTS & FAMLIES,"Esson, Lynne;Garrett, Bernard Mark;Jackson, Cathryn;Kowalski, Linda;Marshall, Helga",89,84.01,3.34,91,72,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,36,45,1
+UBC,2009,W,NURS,337,,005,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;Jennings,  Mary Lou;Marshall, Helga;Simpson, Margaret;Taverner, Tarnia",15,77.8,4.84,85,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,2,0
+UBC,2009,W,NURS,337,,006,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;Jennings,  Mary Lou;Marshall, Helga;Simpson, Margaret;Taverner, Tarnia",14,76.64,7.07,85,62,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,4,2,0
+UBC,2009,W,NURS,411,A,002,EXPL AVE NURS PR,"Esson, Lynne;Oliffe, John",24,87.63,3.79,97,81,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,7
+UBC,2009,W,NURS,460,,002,CONSLD PRCT EXP,"Esson, Lynne;Marshall, Helga;Simpson, Margaret;Tan, Elsie;Valkenier, Beverley",61,,,,,0,0,0,0,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,NURS,411,A,941,EXPL AVE NURS PR,"Affleck, Frances;Esson, Lynne;Marshall, Helga;Oliffe, John",19,89.11,4.33,95,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,8
+UBC,2010,S,NURS,460,,941,CONSLD PRCT EXP,"Cunningham, Margaret Mui Yeah;Esson, Lynne;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Simpson, Margaret;Tan, Elsie;Tognazzini, Paula;Valkenier, Beverley",56,,,,,0,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",19,85.74,7.32,92,58,19,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,13,3
+UBC,2010,W,NURS,303,,001,ADULTS & FAMLIES,"Baumbusch, Jennifer;Esson, Lynne",119,80.85,6.06,94,64,119,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,17,26,33,27,9
+UBC,2011,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",18,87.67,1.41,91,85,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1
+UBC,2011,W,NURS,303,,001,ADULTS & FAMLIES,"Baumbusch, Jennifer;Esson, Lynne",120,76.34,5.25,86,60,119,0,1,0,0,0,0,0,0,0,0,0,0,2,4,12,33,28,35,5,0
+UBC,2011,W,NURS,337,,256,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",39,79.31,4.31,88,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,15,14,4,0
+UBC,2012,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Marshall, Helga;Taverner, Tarnia",40,82.05,5.07,91,71,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,16,11,2
+UBC,2012,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",18,88.89,1.71,93,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5
+UBC,2012,W,NURS,303,,001,ADULTS & FAMLIES,"Baumbusch, Jennifer;Esson, Lynne",119,79.4,6.01,90,44,118,1,0,0,0,0,0,0,0,1,1,0,0,1,1,4,12,26,55,15,4
+UBC,2012,W,NURS,420,,002,ADLT ACUTE CONDN,"Esson, Lynne",44,82.93,5.33,92,71,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,12,16,4
+UBC,2013,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,85.4,3.56,93,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,10,2
+UBC,2013,S,NURS,337,,942,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Polyhronopoulos, Nancy;Taverner, Tarnia",20,81.65,4.57,89,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,6,0
+UBC,2013,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",17,87.47,1.91,91,85,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,4
+UBC,2013,W,NURS,337,,434,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mann, Dalbir;Marshall, Helga;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,80.87,6.34,92,57,38,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,5,17,7,2
+UBC,2013,W,NURS,344,,001,SYNTHESIS PROJCT,"Esson, Lynne",116,,,,,0,0,0,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,NURS,420,,002,ADLT ACUTE CONDN,"Affleck, Frances;Esson, Lynne;Jackson, Cathryn;Mislang, Jonathan;Oliffe, John;Rea, Gail;Valkenier, Beverley",48,81.88,10.84,95,19,47,1,0,0,0,0,1,0,0,0,1,0,0,0,0,2,2,7,16,13,7
+UBC,2014,S,NURS,337,,941,ADLTS & FAMILIES,"Affleck, Frances;Esson, Lynne;Foster, Paula;Jackson, Cathryn;Mann, Dalbir;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",40,84.13,4.5,92,76,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14,14,4
+UBC,2014,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",16,87.63,1.86,91,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,3
+UBC,2014,W,NURS,337,,256,ADLTS & FAMILIES,"Esson, Lynne",39,75.32,5.58,85,63,38,0,1,0,0,0,0,0,0,0,0,0,0,1,2,9,5,14,6,1,0
+UBC,2014,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Taverner, Tarnia;Valkenier, Beverley",38,82.37,4.66,91,68,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,16,13,1
+UBC,2015,S,NURS,337,,941,ADLTS & FAMILIES,"Esson, Lynne",40,78.18,4.76,90,69,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,13,9,4,1
+UBC,2015,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",13,87.23,1.64,90,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,2
+UBC,2015,W,NURS,337,,256,ADLTS & FAMILIES,"Esson, Lynne",39,76.28,4.35,86,67,39,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,14,7,1,0
+UBC,2015,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne",35,76.86,5.88,86,62,35,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,3,10,13,1,0
+UBC,2016,S,NURS,337,,941,ADLTS & FAMILIES,"Esson, Lynne",40,74.98,5.58,84,63,40,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,13,12,8,0,0
+UBC,2016,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis",16,87.19,2.01,91,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,2
+UBC,2016,W,NURS,337,,256,ADLTS & FAMILIES,"Esson, Lynne",40,72.33,5.98,83,53,40,0,0,0,0,0,0,0,0,0,0,1,0,2,3,9,13,7,5,0,0
+UBC,2016,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne;Mann, Dalbir",41,75.9,5.18,87,63,41,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,14,12,7,2,0
+UBC,2017,S,NURS,337,,941,ADLTS & FAMILIES,"Esson, Lynne",40,78.49,4.83,88,68,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,8,12,12,5,0
+UBC,2017,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",15,87.2,1.82,91,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,2
+UBC,2017,W,NURS,337,,434,ADLTS & FAMILIES,"Esson, Lynne",40,75.23,5.07,85,63,40,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,13,10,8,1,0
+UBC,2017,W,NURS,420,,002,ADLT ACUTE CONDN,"Esson, Lynne",52,82.98,5.45,94,68,51,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,12,17,15,4
+UBC,2018,S,NURS,361,,941,ADULT ACUTE HLTH,"Esson, Lynne",121,,,,,0,0,3,0,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,BIOL,121,,121,GENTCS ECOL&EVOL,"Esson, Heather",166,65.26,13.35,90,45,120,34,8,1,3,0,0,0,0,34,34,3,14,8,18,20,18,12,20,6,1
+UBC,2018,W,MUSC,164,,002,JAZZ ENSEMBLE,"Esson, Dennis;Stride, Frederick",13,87.38,0.96,88,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0
+UBC,2018,W,NURS,360,,001,NURSING ADULTS,"Esson, Lynne",118,,,,,0,0,4,0,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,NURS,427,,002,CONSOLD  PRAC EX,"Esson, Lynne",117,,,,,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

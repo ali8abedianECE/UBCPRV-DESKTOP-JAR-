@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,PHYS,111,,001,Calculus-Based Physics I,Hiroko Nakahara;Jake Bobowski,157,68.92993631,17.86707136,100.0,3.0,20,4,6,16,15,24,15,14,17,9,17,,,
+UBCO,2014,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski,31,69.35483871,15.13175114,100.0,25.0,,,,,,5,,,,,,,,
+UBCO,2014,W,PHYS,232,,001,Modern Physics Laboratory,Jake Bobowski,28,69.57142857,15.95927356,99.0,34.0,,,,,6,,,,,,,,,
+UBCO,2014,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,20,75.45,16.03770229,92.0,27.0,,,,,,,,,,,,,,
+UBCO,2014,W,PHYS,332,,001,Experimental Physics II,Jake Bobowski,18,76.33333333,19.36339785,91.0,5.0,,,,,,,,,5,,,,,
+UBCO,2014,W,PHYS,425,,001,Low-Temperature Physics,Jake Bobowski,14,78.28571429,8.203456789,92.0,67.0,0,0,0,0,,,,,,,,,,
+UBCO,2015,W,PHYS,111,,001,Calculus-Based Physics I,Charles Jolin-Landry;Jake Bobowski;Jeffrey Krupa;Raafa Abdulla,143,69.797202797,16.021798285,100.0,21.0,21,3,11,4,16,16,13,16,15,13,15,,,
+UBCO,2015,W,PHYS,200,,001,Relativity and Quanta,Jake Bobowski;Jeffrey Krupa,24,67.583333333,18.009458063,95.0,36.0,5,,,,,,,,,5,,,,
+UBCO,2015,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski,29,65.275862069,18.337893148,91.0,12.0,,,,5,,,,5,,,,,,
+UBCO,2015,W,PHYS,232,,001,Modern Physics Laboratory,Jake Bobowski;Matthew Basso;Nolan Hunka,26,68.269230769,13.477559697,96.0,40.0,,,5,,,,,6,,,,,,
+UBCO,2015,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,23,77.347826087,12.636918121,98.0,42.0,,,,,,,5,,,6,,,,
+UBCO,2015,W,PHYS,332,,001,Experimental Physics II,Jake Bobowski,20,72.4,15.469494599,99.0,51.0,0,,,,,,,,,,,,,
+UBCO,2016,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Jeffrey Krupa;Matthew Basso,31,64.80645161,19.34324922,94.0,9.0,6,1,2,4,2,7,0,2,1,4,2,,,
+UBCO,2016,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,19,73.73684211,11.70395045,96.0,57.0,0,0,2,3,4,0,1,1,5,2,1,,,
+UBCO,2017,W,PHYS,111,,002,Introductory Physics for the Physical Sciences I,Araz Sholehkerdar;Emma Richardson;Garen Goh;Jake Bobowski;Mitchell Wiebe;Nicholas Kayban;Sean Colford;Stephanie Hamilton,119,75.428571429,14.051703213,100.0,24.0,5,2,6,8,14,10,9,22,12,10,21,,,
+UBCO,2017,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Sabrina Madsen;Sean Colford,39,68.102564103,19.261080026,99.0,10.0,4,3,2,2,5,4,3,6,2,3,5,,,
+UBCO,2017,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Sabrina Madsen;Sean Colford,23,76.173913043,18.289719352,99.0,32.0,2,1,2,0,0,3,2,1,3,3,6,,,
+UBCO,2017,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,12,81.083333333,10.352499332,96.0,57.0,0,0,1,0,0,0,1,2,5,1,2,,,
+UBCO,2017,W,PHYS,425,,101,Low-Temperature Physics,Jake Bobowski,10,74.9,13.527338574,95.0,56.0,0,0,2,0,1,2,1,0,0,2,2,,,
+UBCO,2017,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski,7,86.857142857,6.175990377,97.0,80.0,0,0,0,0,0,0,0,0,3,2,2,,,
+UBCO,2018,W,PHYS,216,,101,Mechanics I,Jake Bobowski;Nicholas Mantella;Sean Colford,61,64.93442623,19.83840455,100.0,26.0,12,5,6,5,9,4,3,1,6,0,10,,,
+UBCO,2018,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Nicholas Kayban;Sabrina Madsen;Sean Colford,33,71.666666667,13.887194341,97.0,44.0,3,1,2,3,2,5,7,2,2,1,5,,,
+UBCO,2018,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Joseph Wandinger;Nicholas Kayban;Sabrina Madsen,32,72.46875,12.526061542,96.0,49.0,1,2,1,5,2,3,5,3,5,1,4,,,
+UBCO,2018,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski,24,78.166666667,13.547554461,97.0,56.0,0,0,2,3,2,1,1,4,3,1,7,,,
+UBCO,2018,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,22,80.227272727,8.546410097,93.0,58.0,0,0,1,0,1,1,2,5,3,7,2,,,
+UBCO,2019,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Bianca Frischholz;Brooke Kwan;Jake Bobowski;Sayra Gorgani;Tatiana Urazova;Zhongda Huang,275,70.385454545,16.194432428,98.0,1.0,38,10,18,26,19,24,19,27,36,35,23,,,
+UBCO,2019,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Andrew Ogilvy;Charlotte Thys;Conor Smith;Jake Bobowski;Theo Bakas;Theodore Morrison,201,81.547263682,11.409601438,100.0,17.0,2,2,1,3,8,15,22,19,36,53,40,,,
+UBCO,2019,W,PHYS,216,,101,Mechanics I,Araz Sholehkerdar;Jake Bobowski;Jason Reich;Kendra Scarrott;Michael Kudla-Hooper;Theo Bakas;Yas Yamin,36,74.611111111,17.024818485,98.0,0.0,1,1,1,2,4,3,5,5,3,6,5,,,
+UBCO,2019,W,PHYS,231,,001,Introduction to Electronics,Ian Kennedy;Jake Bobowski;Nicholas Kayban;Nikolai Lesack,26,74.0,14.993331851,94.0,49.0,4,0,2,1,2,1,3,1,3,5,4,,,
+UBCO,2019,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jordan Krywonos;Nicholas Kayban;Nikolai Lesack,19,85.157894737,8.814528146,97.0,69.0,0,0,0,0,0,2,1,2,4,2,8,,,
+UBCO,2019,W,PHYS,328,,101,Advanced Mechanics,Andrew Ogilvy;Jake Bobowski;Jason Reich;Michael Kudla-Hooper,20,76.4,17.021348824,95.0,25.0,1,0,1,1,2,2,2,1,1,5,4,,,
+UBCO,2019,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,19,80.263157895,12.701015293,98.0,56.0,0,0,1,2,0,2,1,1,6,2,4,,,
+UBCO,2019,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski;Yas Yamin;Yasfatemeh Yamin,20,90.65,8.093369606,100.0,64.0,0,0,0,0,1,0,0,1,0,6,12,,,
+UBCO,2020,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jason Reich;Maya Patel;Yas Yamin;Yasfatemeh Yamin,23,73.391304348,15.233751793,95.0,32.0,1,1,2,0,4,2,1,1,5,2,4,,,
+UBCO,2020,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski;John Hopkinson;Michael Kudla-Hooper;Reza Khanbabaie-Shoub,22,79.318181818,10.199842966,95.0,56.0,0,0,1,0,1,3,3,4,2,3,5,,,
+UBCO,2020,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick;Jake Bobowski;Mir Faizal;Mitchell Wiebe,21,86.857142857,9.056962594,100.0,69.0,0,0,0,0,0,2,1,1,5,3,9,,,
+UBCO,2020,W,PHYS,425,,101,Low-Temperature Physics,Jake Bobowski,6,80.0,10.862780491,97.0,63.0,0,0,0,1,0,0,0,3,1,0,1,,,
+UBCO,2021,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Alisa Chung;Dakota Mckeown;Grace Cornell;Ian Kennedy;Jake Bobowski;Jason Reich;Joan Brewer;Jordan Sawchuk;Livia Jonnatan;Mitchell Wiebe;Samuel Ruttiman;Sandra Popescu;Stephen Collins;Zhongda Huang;Zoe Dale,142,67.176056338,18.114019999,99.0,0.0,11,21,11,11,16,12,11,15,13,5,16,,,
+UBCO,2021,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jakob Marshall;Maya Patel;Nikolai Lesack;Reza Khanbabaie-Shoub,12,78.583333333,6.721178648,90.0,66.0,0,0,0,0,1,0,4,3,2,1,1,,,
+UBCO,2021,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski;Jason Reich,22,81.727272727,10.406874185,99.0,62.0,0,0,0,1,1,3,2,1,4,6,4,,,
+UBCO,2021,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick;Jake Bobowski,7,59.857142857,26.378201679,95.0,18.0,2,0,2,0,1,0,0,0,0,1,1,,,
+UBCO,2021,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Reza Khanbabaie-Shoub,12,78.6,,90.0,66.0,,,,,,,,,,,,78.0,82.3,74.8
+UBCO,2021,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,22,81.7,,99.0,62.0,,,,,,,,,,6,,84.0,88.5,73.3
+UBCO,2022,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Jake Bobowski,139,71.2,,98.0,25.0,7,7,12,10,12,19,16,22,16,9,9,73.0,79.0,63.0
+UBCO,2022,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski,22,73.0,,99.0,18.0,2,0,1,2,0,4,2,4,2,1,4,75.5,83.8,69.3
+UBCO,2022,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Yas Yamin,18,71.3,,97.0,6.0,1,1,1,2,1,1,1,4,1,4,1,76.5,84.0,63.5
+UBCO,2022,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,14,81.6,,92.0,70.0,0,0,0,0,0,1,2,3,3,2,3,81.0,86.8,77.3
+UBCO,2023,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Jake Bobowski,163,70.9,,98.0,18.0,10,9,12,18,13,17,20,15,12,17,14,71.0,81.0,63.0
+UBCO,2023,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski,21,71.1,,94.0,38.0,2,2,1,2,0,2,3,0,3,4,1,73.0,83.5,62.0
+UBCO,2023,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski,23,71.0,,95.0,50.0,0,4,3,2,2,0,1,1,0,5,3,64.0,87.0,56.0
+UBCO,2023,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,14,85.9,,93.0,80.0,0,0,0,0,0,0,0,0,4,8,2,86.0,88.0,82.8

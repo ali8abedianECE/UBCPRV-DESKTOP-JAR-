@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ETEC,559,,001,Creating Technology-Enhanced Learning Environments,Robert Campbell,21,86.04761905,2.45919073,91.0,83.0,0,0,0,0,0,0,0,0,5,12,4,,,
+UBCO,2015,S,ETEC,550,,001,Designing Instruction,Robert Campbell,24,85.5,3.587417625,93.0,78.0,0,0,0,0,0,0,0,,,14,,,,
+UBCO,2015,W,ETEC,553,,001,Leading and Managing Educational Technology Innovation,Robert Campbell,11,87.363636364,2.460598597,92.0,85.0,0,0,0,0,0,0,0,0,0,8,3,,,
+UBCO,2016,S,ETEC,559,,001,Creating Technology-Enhanced Learning Environments,Robert Campbell,8,88.5,0.755928946,90.0,88.0,0,0,0,0,0,0,0,0,0,7,1,,,
+UBCO,2016,W,ETEC,511,,001,Conceptualizing Educational Technology,Robert Campbell,17,86.41176471,2.152290162,91.0,83.0,0,0,0,0,0,0,0,0,2,13,2,,,
+UBCO,2018,S,ETEC,550,,001,Designing Instruction,Peter Arthur;Robert Campbell,11,78.363636364,26.00104893,87.0,0.0,1,0,0,0,0,0,0,0,0,10,0,,,
+UBCO,2018,W,ETEC,557,,001,Instructional Strategies for Digital Learning,Robert Campbell,16,89.25,2.236067977,93.0,85.0,0,0,0,0,0,0,0,0,0,8,8,,,
+UBCO,2019,S,ETEC,550,,001,Designing Instruction,Peter Arthur;Robert Campbell,12,86.666666667,1.497472618,89.0,84.0,0,0,0,0,0,0,0,0,2,10,0,,,
+UBCO,2019,W,EDUC,517,D,001,Contemporary Issues in Education,Robert Campbell,23,88.434782609,3.314240444,94.0,83.0,0,0,0,0,0,0,0,0,1,13,9,,,
+UBCO,2020,W,ETEC,559,,001,Creating Technology-Enhanced Learning Environments,Robert Campbell,25,90.32,2.593581822,94.0,85.0,0,0,0,0,0,0,0,0,0,6,19,,,
+UBCO,2021,W,ETEC,553,,001,Leading and Managing Educational Technology Innovation,Robert Campbell,15,89.733333333,2.282438128,94.0,86.0,0,0,0,0,0,0,0,0,0,7,8,,,
+UBCO,2021,W,ETEC,553,,001,Leading and Managing Educational Technology Innovation,Robert Campbell,15,89.7,,94.0,86.0,0,0,0,0,0,0,0,0,0,7,8,91.0,91.0,88.0
+UBCO,2022,W,EDUC,562,G,001,Special Topics in Education,Robert Campbell,14,91.0,,95.0,86.0,0,0,0,0,0,0,0,0,0,1,13,91.0,91.0,90.0
+UBCO,2023,W,ETEC,559,,001,Creating Technology-Enhanced Learning Environments,Robert Campbell,24,92.78,,97.0,86.0,0,0,0,0,0,0,0,0,0,3,20,93.0,95.0,91.0

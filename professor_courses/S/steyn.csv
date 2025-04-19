@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,ISCI,448,B,210,DIR STUDIES,"Blok, Hendrik;Steyn, Douw Gerbrand",26,79.5,8.76,100,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,4,9,3,3
+UBC,2007,W,ENVR,200,,101,ENVRMNT STDY I,"Harris, Sara;Steyn, Douw Gerbrand",47,81.15,10.99,94,32,46,1,0,0,0,0,0,0,1,0,1,1,0,1,1,1,4,4,13,15,6
+UBC,2007,W,ENVR,300,,201,ENVRMNT STDY II,"Steyn, Douw Gerbrand",35,84.29,8.96,93,52,34,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,6,16,8
+UBC,2009,W,ENVR,200,,101,ENVRMNT STDY I,"Ivanochko, Tara;Steyn, Douw Gerbrand",41,83.58,5.1,92,69,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,12,16,5
+UBC,2009,W,ENVR,449,,001,HONOURS THESIS,"Ivanochko, Tara;Steyn, Douw Gerbrand",6,85.5,1.76,88,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0
+UBC,2009,W,EOSC,448,E,001,DIRECTED STUDIES,"Ivanochko, Tara;Steyn, Douw Gerbrand",7,90,0,90,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2009,W,EOSC,571,C,001,SEM PHYSICL OCGY,"Steyn, Douw Gerbrand",5,83.4,4.28,87,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0
+UBC,2011,W,ENVR,300,,201,INT RES ENVR SCI,"Lane, Erin;Steyn, Douw Gerbrand",46,82.93,5.76,90,61,45,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,15,21,2
+UBC,2011,W,ENVR,400,,001,RSRC PRJ ENV SCI,"Lane, Erin;Steyn, Douw Gerbrand",17,87.29,2.26,90,84,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,6
+UBC,2011,W,EOSC,571,C,001,SEM PHYSICL OCGY,"Steyn, Douw Gerbrand",7,85.14,5.15,93,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1
+UBC,2012,W,EOSC,112,,201,FLUID EARTH,"Francois, Roger;Steyn, Douw Gerbrand",203,73.01,15.37,99,19,186,11,5,1,0,0,1,1,1,8,11,13,20,11,7,24,14,15,32,17,33
+UBC,2012,W,SCIE,113,,203,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Steyn, Douw Gerbrand",21,70.85,22.82,91,8,18,2,1,0,0,1,1,0,0,0,2,1,0,1,0,2,2,2,6,2,2
+UBC,2013,W,EOSC,571,C,001,SEM PHYSICL OCGY,"Steyn, Douw Gerbrand",5,86,2.45,89,84,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2013,W,SCIE,113,,108,SCIE SEMINAR,"Berger, James;Steyn, Douw Gerbrand",26,76.6,7.8,89,62,25,0,1,0,0,0,0,0,0,0,0,0,0,1,1,7,3,2,6,5,0
+UBC,2013,W,SCIE,113,,109,SCIE SEMINAR,"Steyn, Douw Gerbrand;Waltham, Christopher",27,73.7,13.96,91,25,25,2,0,0,0,0,0,1,0,1,2,1,0,0,2,0,10,1,7,3,1
+UBC,2013,W,SCIE,113,,110,SCIE SEMINAR,"Murphy, Michael;Steyn, Douw Gerbrand",27,75.31,9.07,87,55,26,0,1,0,0,0,0,0,0,0,0,0,2,1,3,2,3,2,9,4,0
+UBC,2013,W,SCIE,113,,111,SCIE SEMINAR,"Steyn, Douw Gerbrand",25,75.44,8.27,86,51,25,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,4,5,9,2,0
+UBC,2013,W,SCIE,113,,112,SCIE SEMINAR,"Knorr, Edwin Max;Steyn, Douw Gerbrand",26,76.46,6.18,88,65,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,6,6,2,0
+UBC,2013,W,SCIE,113,,113,SCIE SEMINAR,"Harris, Sara;Steyn, Douw Gerbrand",26,77.46,7.48,90,61,26,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,2,3,10,3,1
+UBC,2013,W,SCIE,113,,114,SCIE SEMINAR,"Bole, Gregory Michael;Steyn, Douw Gerbrand",27,72.44,11.15,91,46,26,1,0,0,0,0,0,0,0,1,1,1,2,1,3,3,7,0,6,1,2
+UBC,2013,W,SCIE,113,,11A,SCIE SEMINAR,"Leander, Celeste;Steyn, Douw Gerbrand",27,72.74,8.19,87,55,27,0,0,0,0,0,0,0,0,0,0,0,3,1,1,4,7,5,4,2,0
+UBC,2013,W,SCIE,113,,209,SCIE SEMINAR,"Cheung, Wai Lung;Steyn, Douw Gerbrand",20,75.15,14.58,89,31,19,1,0,0,0,0,0,0,1,0,1,1,1,0,2,1,0,2,6,6,0
+UBC,2013,W,SCIE,113,,210,SCIE SEMINAR,"Ives, Joss;Steyn, Douw Gerbrand",26,73.5,19.25,97,0,25,1,0,0,0,1,0,0,0,0,1,1,1,2,3,2,1,3,7,1,4
+UBC,2013,W,SCIE,113,,211,SCIE SEMINAR,"Steyn, Douw Gerbrand;Vatsal, Vinayak",25,67,14.72,90,41,21,3,1,0,0,0,0,0,0,3,3,3,2,1,3,0,2,2,7,0,1
+UBC,2013,W,SCIE,113,,212,SCIE SEMINAR,"Sherman, John;Steyn, Douw Gerbrand",22,70.24,16.97,92,13,20,1,1,0,0,0,1,0,0,0,1,1,4,0,1,2,3,1,6,1,1
+UBC,2013,W,SCIE,113,,213,SCIE SEMINAR,"Leander, Celeste;Steyn, Douw Gerbrand",29,77.76,7.48,90,56,29,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,3,5,10,4,1
+UBC,2013,W,SCIE,113,,214,SCIE SEMINAR,"Carolan, James;Steyn, Douw Gerbrand",26,70.31,16.08,86,16,24,2,0,0,0,0,1,0,1,0,2,2,1,0,2,1,5,5,7,1,0
+UBC,2013,W,SCIE,113,,215,SCIE SEMINAR,"Oberg, Gunilla;Steyn, Douw Gerbrand",27,73.23,9.56,93,58,26,0,1,0,0,0,0,0,0,0,0,0,2,2,2,5,4,5,3,0,3
+UBC,2013,W,SCIE,113,,21A,SCIE SEMINAR,"Srivastava, Krishnan;Steyn, Douw Gerbrand",27,66.26,24.65,85,0,23,4,0,0,0,2,1,0,1,0,4,0,0,2,1,3,1,9,5,2,0
+UBC,2014,W,SCIE,113,,108,SCIE SEMINAR,"Berger, James;Steyn, Douw Gerbrand",26,75.38,7.61,85,52,26,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,6,4,9,1,0
+UBC,2014,W,SCIE,113,,109,SCIE SEMINAR,"Steyn, Douw Gerbrand",26,78.04,8.27,90,63,26,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,0,1,11,4,1
+UBC,2014,W,SCIE,113,,110,SCIE SEMINAR,"Matsuuchi, Linda;Steyn, Douw Gerbrand",24,71.59,25.15,93,5,18,4,1,0,1,1,1,0,1,1,4,0,0,1,0,1,1,2,4,6,3
+UBC,2014,W,SCIE,113,,111,SCIE SEMINAR,"Knorr, Edwin Max;Steyn, Douw Gerbrand",27,76.81,9.2,88,50,27,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,8,7,5,0
+UBC,2014,W,SCIE,113,,112,SCIE SEMINAR,"Rosado Rey, Abel;Steyn, Douw Gerbrand",27,78.89,8.57,91,57,27,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,5,4,5,8,2
+UBC,2014,W,SCIE,113,,113,SCIE SEMINAR,"Sherman, John;Steyn, Douw Gerbrand",26,81.5,9.41,95,50,26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3,4,5,7,5
+UBC,2014,W,SCIE,113,,114,SCIE SEMINAR,"Carolan, James;Steyn, Douw Gerbrand",26,75.19,8.65,90,50,26,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,6,4,9,0,1
+UBC,2014,W,SCIE,113,,11A,SCIE SEMINAR,"Harris, Sara;Steyn, Douw Gerbrand",26,75.38,9.36,87,42,25,1,0,0,0,0,0,0,0,1,1,0,0,1,2,1,8,4,5,4,0
+UBC,2014,W,SCIE,113,,209,SCIE SEMINAR,"Cheung, Wai Lung;Steyn, Douw Gerbrand",26,76.08,7.35,87,54,26,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,3,7,8,2,0
+UBC,2014,W,SCIE,113,,210,SCIE SEMINAR,"Adamson, Martin;Steyn, Douw Gerbrand",26,79.08,5.93,89,67,25,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,5,3,9,5,0
+UBC,2014,W,SCIE,113,,211,SCIE SEMINAR,"Steyn, Douw Gerbrand;Welch, William",27,65.81,21.12,94,0,23,4,0,0,0,1,0,1,1,1,4,1,2,1,3,2,5,3,2,3,1
+UBC,2014,W,SCIE,113,,212,SCIE SEMINAR,"Graves, Marcia;Steyn, Douw Gerbrand",24,76.04,13.93,90,32,22,2,0,0,0,0,0,0,1,1,2,0,1,0,0,3,0,4,8,5,1
+UBC,2014,W,SCIE,113,,213,SCIE SEMINAR,"Sherman, John;Steyn, Douw Gerbrand",27,75.44,10.95,93,50,27,0,0,0,0,0,0,0,0,0,0,2,0,0,3,5,5,2,5,1,4
+UBC,2014,W,SCIE,113,,214,SCIE SEMINAR,"Plotkin, Steven;Steyn, Douw Gerbrand",23,66.32,17.55,94,28,17,5,1,0,0,0,0,1,1,3,5,1,0,1,1,3,2,5,2,1,1
+UBC,2014,W,SCIE,113,,215,SCIE SEMINAR,"Oberg, Gunilla;Steyn, Douw Gerbrand",26,72.38,15.85,94,10,25,1,0,0,0,0,1,0,0,0,1,1,1,1,2,2,6,3,5,3,1
+UBC,2014,W,SCIE,113,,21A,SCIE SEMINAR,"Feng, James Jingtao;Steyn, Douw Gerbrand",26,71.81,7.62,83,56,26,0,0,0,0,0,0,0,0,0,0,0,3,2,1,3,8,7,2,0,0
+UBC,2015,W,SCIE,113,,111,SCIE SEMINAR,"Oberg, Gunilla;Steyn, Douw Gerbrand",25,78.08,6.95,89,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,3,9,4,0

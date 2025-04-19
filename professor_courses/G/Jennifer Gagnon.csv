@@ -1,0 +1,112 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,POLI,100,,228,INTRO TO POLITIC,"Gagnon, Jennifer",86,77,8.71,94,47,85,1,0,0,0,0,0,0,0,1,1,0,1,3,10,8,13,14,22,13,1,,,
+UBC,2013,W,POLI,345,,001,,"Gagnon, Jennifer",51,74.35,9.27,90,33,50,1,0,0,0,0,0,0,1,0,1,1,0,1,3,8,8,13,13,2,1,,,
+UBC,2013,W,POLI,345,,002,,"Gagnon, Jennifer",51,73.96,15.25,88,0,46,2,2,0,1,1,0,1,0,0,2,1,0,1,3,7,5,11,10,8,0,,,
+UBC,2013,W,POLI,367,B,001,INT REL TH&IN SY,"Gagnon, Jennifer",49,76.4,5.17,87,61,47,0,2,0,0,0,0,0,0,0,0,0,0,1,1,6,9,15,11,4,0,,,
+UBC,2013,W,POLI,449,A,001,TPCS POLI THEORY,"Gagnon, Jennifer",12,74.82,9.1,85,56,11,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,4,3,1,0,,,
+UBC,2014,W,POLI,100,,001,INTRO TO POLITIC,"Gagnon, Jennifer",136,74.56,8.44,88,29,130,3,3,0,0,0,0,1,0,2,3,1,1,5,6,15,35,33,23,11,0,,,
+UBC,2014,W,POLI,260,,004,INTRO GLOBAL POL,"Gagnon, Jennifer",126,74.46,9.24,90,22,120,3,3,0,0,0,0,2,0,1,3,0,3,3,2,15,31,34,28,3,1,,,
+UBC,2014,W,POLI,345,,002,,"Gagnon, Jennifer",63,74.87,9.13,86,21,60,1,1,0,0,0,0,1,0,0,1,0,3,0,1,4,15,20,15,2,0,,,
+UBC,2014,W,POLI,367,B,001,INT REL TH&IN SY,"Gagnon, Jennifer",61,73.41,6.46,85,52,59,0,1,1,0,0,0,0,0,0,0,2,0,3,3,8,14,20,8,1,0,,,
+UBC,2015,S,POLI,367,A,921,INT REL TH&IN SY,"Gagnon, Jennifer",58,74.77,9.19,92,33,56,1,1,0,0,0,0,0,1,0,1,1,0,3,3,3,13,14,14,4,1,,,
+UBC,2015,W,POLI,100,,004,INTRO TO POLITIC,"Gagnon, Jennifer",147,77.33,7.58,90,35,138,1,7,0,1,0,0,0,1,0,1,0,2,3,6,7,18,34,48,18,2,,,
+UBC,2015,W,POLI,344,A,001,SOC&POLI THOUGHT,"Gagnon, Jennifer",45,75.27,6.9,88,55,45,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,6,21,4,5,0,,,
+UBC,2015,W,POLI,345,,001,,"Gagnon, Jennifer",69,76.72,5.73,88,55,67,0,2,0,0,0,0,0,0,0,0,0,1,1,0,9,10,21,19,6,0,,,
+UBC,2015,W,POLI,367,B,002,INT REL TH&IN SY,"Gagnon, Jennifer",59,75.68,6.01,88,62,56,0,2,0,0,0,0,0,0,0,0,0,0,1,1,10,12,16,10,6,0,,,
+UBC,2016,S,POLI,240,,921,CUR POLI THOUGHT,"Gagnon, Jennifer",29,77.21,4.88,87,63,28,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,6,12,5,3,0,,,
+UBC,2016,W,POLI,100,,001,INTRO TO POLITIC,"Gagnon, Jennifer",150,77.16,5.8,90,45,145,1,2,0,1,0,0,0,0,1,1,0,0,1,3,13,26,40,51,10,1,,,
+UBC,2016,W,POLI,100,,003,INTRO TO POLITIC,"Gagnon, Jennifer",138,75.37,7.77,90,37,135,1,1,0,1,0,0,0,1,0,1,2,1,4,9,10,31,32,33,12,1,,,
+UBC,2016,W,POLI,344,A,001,SOC&POLI THOUGHT,"Gagnon, Jennifer",67,75.89,4.34,85,66,65,0,1,0,1,0,0,0,0,0,0,0,0,0,1,10,12,25,15,2,0,,,
+UBC,2016,W,POLI,345,,001,,"Gagnon, Jennifer",70,77.37,4.53,85,62,70,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,8,25,24,5,0,,,
+UBC,2017,S,POLI,240,,921,CUR POLI THOUGHT,"Gagnon, Jennifer",28,77.48,4.24,85,70,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,14,3,4,0,,,
+UBC,2017,W,POLI,344,A,001,SOC&POLI THOUGHT,"Gagnon, Jennifer",69,74.73,14.8,90,0,65,2,2,0,0,2,0,0,0,0,2,0,1,2,2,5,12,11,26,4,2,,,
+UBC,2017,W,POLI,345,,001,,"Gagnon, Jennifer",72,77.4,5.32,88,59,70,0,2,0,0,0,0,0,0,0,0,0,1,0,1,4,17,21,19,7,0,,,
+UBC,2018,S,POLI,449,D,921,TPCS POLI THEORY,"Gagnon, Jennifer",19,79.84,5.15,90,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,4,4,1,,,
+UBC,2018,W,POLI,344,A,001,SOC&POLI THOUGHT,"Gagnon, Jennifer",44,74.65,15.34,88,3,41,2,0,0,1,1,0,1,0,0,2,1,0,0,0,3,6,15,9,7,0,,,
+UBC,2018,W,POLI,345,,001,,"Gagnon, Jennifer",68,76.9,6.87,88,39,66,1,1,0,0,0,0,0,1,0,1,0,0,0,3,4,9,23,22,5,0,,,
+UBCV,2014,W,POLI,100,,001,Introduction to Politics,Jennifer Gagnon,133,74.56390977,8.443532027,88.0,29.0,,,,,,,,,,,,,,5,6,15,35,33,23,11,0,,,
+UBCV,2014,W,POLI,260,,004,Introduction to Global Politics,Jennifer Gagnon,123,74.46341463,9.243777422,90.0,22.0,,,,,,,,,,,,,,,2,15,31,34,28,3,,,,
+UBCV,2014,W,POLI,345,,002,Gender and Politics: Political Thought and Practice,Jennifer Gagnon,62,74.91935484,9.066780272,86.0,21.0,,,,,,,,,,,,,,,,,15,21,15,,0,,,
+UBCV,2014,W,POLI,367,B,001,International Relations Theory and the International System,Jennifer Gagnon,59,73.40677966,6.457069486,85.0,52.0,,,,,,,,,,,0,,,,,8,14,20,8,,0,,,
+UBCV,2015,S,POLI,367,A,921,International Relations Theory and the International System,Jennifer Gagnon,57,74.77192983,9.190479437,92.0,33.0,,,,,,,,,,,,,,,,,13,14,14,,,,,
+UBCV,2015,W,POLI,100,,004,Introduction to Politics,Jennifer Gagnon,140,76.778571429,9.984209012,90.0,0.0,,,,,,,,,,,,,,,6,7,18,34,48,18,,,,
+UBCV,2015,W,POLI,344,A,001,Social and Political Thought,Jennifer Gagnon,45,75.266666667,6.903227177,88.0,55.0,,,,,,,,,,,0,0,,,,5,6,21,,5,0,,,
+UBCV,2015,W,POLI,345,,001,Gender and Politics: Political Thought and Practice,Jennifer Gagnon,67,76.71641791,5.725556662,88.0,55.0,,,,,,,,,,,0,0,,,,9,10,21,19,6,0,,,
+UBCV,2015,W,POLI,367,B,002,International Relations Theory and the International System,Jennifer Gagnon,57,75.561403509,6.017882707,88.0,62.0,,,,,,,,,,,0,0,0,1,1,11,12,16,10,6,0,,,
+UBCV,2016,S,POLI,240,,921,Currents of Political Thought,Jennifer Gagnon,28,77.21428571,4.878958168,87.0,63.0,,,,,,,,,,,0,0,0,1,0,1,6,12,5,3,0,,,
+UBCV,2016,W,POLI,100,,001,Introduction to Politics,Jennifer Gagnon,148,76.85810811,6.768283512,90.0,34.0,,,,,,,,,,,2,0,0,1,3,13,26,41,51,10,1,,,
+UBCV,2016,W,POLI,100,,003,Introduction to Politics,Jennifer Gagnon,137,75.02189781,8.736727037,90.0,28.0,,,,,,,,,,,2,2,1,4,9,10,31,32,33,12,1,,,
+UBCV,2016,W,POLI,344,A,001,Social and Political Thought,Jennifer Gagnon;Spencer Charles Harrison Mckay;Spencer Mckay,66,74.96969697,8.643307232,85.0,15.0,,,,,,,,,,,1,0,0,0,1,10,12,25,15,2,0,,,
+UBCV,2016,W,POLI,345,,001,Gender and Politics: Political Thought and Practice,Jennifer Gagnon,70,77.37142857,4.530641022,85.0,62.0,,,,,,,,,,,0,0,0,1,0,7,8,25,24,5,0,,,
+UBCV,2017,S,POLI,240,,921,Currents of Political Thought,Jennifer Gagnon,27,77.481481481,4.236928953,85.0,70.0,,,,,,,,,,,0,0,0,0,0,2,4,14,3,4,0,,,
+UBCV,2017,W,POLI,344,A,001,Social and Political Thought,Jennifer Gagnon;Nojang Khatami,66,75.863636364,11.620785573,90.0,0.0,,,,,,,,,,,1,0,1,2,2,5,12,11,26,4,2,,,
+UBCV,2017,W,POLI,345,,001,Gender and Politics: Political Thought and Practice,Jennifer Gagnon;Nojang Khatami;Richie Khatami,70,77.4,5.322634196,88.0,59.0,,,,,,,,,,,0,0,1,0,1,4,17,21,19,7,0,,,
+UBCV,2018,S,POLI,449,D,921,Topics in Political Theory,Jennifer Gagnon,19,79.842105263,5.14525842,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,4,4,1,,,
+UBCV,2018,W,POLI,344,A,001,Social and Political Thought,Jennifer Gagnon;Joshua Santeusanio,44,74.727272727,15.166308493,88.0,3.0,,,,,,,,,,,2,1,0,0,0,3,6,16,9,7,0,,,
+UBCV,2018,W,POLI,345,,001,Gender and Politics: Political Thought and Practice,Alexandra Lloyd;Jennifer Gagnon,67,76.895522388,6.873608572,88.0,39.0,,,,,,,,,,,1,0,0,0,3,4,9,23,22,5,0,,,
+UBCV,2019,S,POLI,449,D,921,Topics in Political Theory,Jennifer Gagnon,18,82.222222222,4.531660591,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,9,3,2,,,
+UBCV,2019,W,POLI,344,A,002,Social and Political Thought,Jennifer Gagnon;Valerie Muzik,48,75.5,8.717797887,93.0,45.0,,,,,,,,,,,1,0,1,1,5,2,7,16,10,3,2,,,
+UBCV,2019,W,POLI,345,,001,Gender and Politics: Political Thought and Practice,Cole Smith;Jennifer Gagnon;Jory Smallenberg,67,76.417910448,6.485763556,87.0,50.0,,,,,,,,,,,0,1,0,2,2,6,11,17,23,5,0,,,
+UBCV,2019,W,POLI,492,,001,Honours Thesis,Corey Snelgrove;Gyung-Ho Jeong;Jennifer Gagnon;Richard G Johnston;Richard G. C. Johnston,19,83.0,13.341664064,93.0,30.0,,,,,,,,,,,1,0,0,0,0,0,0,0,9,6,3,,,
+UBCV,2019,W,VANT,148,,V01,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,20,72.65,5.163383224,82.0,61.0,,,,,,,,,,,0,0,0,2,1,3,10,2,2,0,0,,,
+UBCV,2019,W,VANT,148,,V02,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,22,71.090909091,6.038835357,80.0,56.0,,,,,,,,,,,0,0,1,1,3,6,6,2,3,0,0,,,
+UBCV,2019,W,VANT,148,,V03,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,75.208333333,7.288938413,86.0,55.0,,,,,,,,,,,0,0,2,0,0,3,6,8,3,2,0,,,
+UBCV,2019,W,VANT,148,,V04,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,25,77.36,6.645048282,89.0,65.0,,,,,,,,,,,0,0,0,0,1,4,6,6,3,5,0,,,
+UBCV,2019,W,VANT,148,,V05,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,72.916666667,11.695099928,87.0,26.0,,,,,,,,,,,1,0,0,1,0,6,8,4,1,3,0,,,
+UBCV,2019,W,VANT,148,,V06,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,22,75.0,7.634508123,87.0,50.0,,,,,,,,,,,0,1,0,0,0,4,6,4,5,2,0,,,
+UBCV,2019,W,VANT,148,,V07,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,20,73.9,18.361573147,88.0,1.0,,,,,,,,,,,1,0,1,0,0,0,4,9,2,3,0,,,
+UBCV,2019,W,VANT,148,,V08,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,30,76.4,6.228964601,86.0,57.0,,,,,,,,,,,0,0,1,0,0,5,7,5,9,3,0,,,
+UBCV,2019,W,VANT,148,,V09,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,21,75.476190476,6.145071583,83.0,57.0,,,,,,,,,,,0,0,1,0,1,2,4,6,7,0,0,,,
+UBCV,2019,W,VANT,148,,V10,UBC Vantage College Projects,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Katherine Lyon;Paulina Semenec;Tierney Nicole Wisniewski;Tierney Wisniewski,24,64.375,15.127896776,86.0,23.0,,,,,,,,,,,2,3,3,2,1,3,6,0,3,1,0,,,
+UBCV,2020,S,POLI,240,,951,Currents of Political Thought,Jennifer Gagnon;Martina Zago;Yingqiu Kuang,50,75.48,7.231563469,91.0,58.0,,,,,,,,,,,0,0,1,3,3,5,10,11,14,1,2,,,
+UBCV,2020,S,POLI,449,D,921,Topics in Political Theory,Jennifer Gagnon,20,79.15,5.860438281,91.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,5,7,1,2,,,
+UBCV,2020,S,VANT,149,,V02,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Kelly Shoecraft;Tierney Nicole Wisniewski;Tierney Wisniewski,25,78.8,6.812977812,90.0,68.0,,,,,,,,,,,0,0,0,0,0,4,4,5,4,7,1,,,
+UBCV,2020,S,VANT,149,,V05,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Jennifer Gagnon;Laura Knijnik Baumvol;Tierney Nicole Wisniewski;Tierney Wisniewski,26,77.076923077,9.299131473,93.0,59.0,,,,,,,,,,,0,0,1,0,3,3,7,0,6,3,3,,,
+UBCV,2020,S,VANT,149,,V07,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Eva Zysk;Jennifer Gagnon;Tierney Nicole Wisniewski;Tierney Wisniewski,26,74.307692308,3.855066596,83.0,70.0,,,,,,,,,,,0,0,0,0,0,5,13,3,5,0,0,,,
+UBCV,2020,W,POLI,344,A,002,Social and Political Thought,Hyunji Lee;Jennifer Gagnon;Valerie Muzik,43,71.813953488,15.017855744,88.0,3.0,,,,,,,,,,,2,0,2,2,2,7,8,9,5,6,0,,,
+UBCV,2020,W,POLI,449,C,001,Topics in Political Theory,Allan Tupper;Jennifer Gagnon,19,80.368421053,6.211195325,88.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,5,4,7,0,,,
+UBCV,2020,W,VANT,148,,V04,UBC Vantage College Projects,Alys Avalos Rivera;Georg Rieger;Jennifer Gagnon;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,24,69.541666667,5.74818812,77.0,57.0,,,,,,,,,,,0,0,1,3,4,2,11,3,0,0,0,,,
+UBCV,2020,W,VANT,148,,V06,UBC Vantage College Projects,Alys Avalos Rivera;Jennifer Gagnon;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,26,71.384615385,14.953466282,88.0,5.0,,,,,,,,,,,1,0,1,1,1,3,6,9,3,1,0,,,
+UBCV,2020,W,WRDS,150,A,222,Writing and Research in the Disciplines,Jennifer Gagnon;Taylor Tang,29,73.137931034,15.681481658,86.0,0.0,,,,,,,,,,,1,0,1,0,2,3,6,8,4,4,0,,,
+UBCV,2020,W,WRDS,150,A,241,Writing and Research in the Disciplines,Jennifer Gagnon;Taylor Tang,28,72.678571429,15.398541469,85.0,0.0,,,,,,,,,,,1,0,0,1,3,1,5,9,6,2,0,,,
+UBCV,2020,W,WRDS,150,A,422,Writing and Research in the Disciplines,Jennifer Gagnon;Taylor Tang,29,72.655172414,5.808096947,80.0,55.0,,,,,,,,,,,0,0,2,0,1,7,7,10,2,0,0,,,
+UBCV,2020,W,WRDS,150,A,431,Writing and Research in the Disciplines,Jennifer Gagnon;Taylor Tang,29,76.379310345,6.014350654,85.0,64.0,,,,,,,,,,,0,0,0,0,2,4,5,6,9,3,0,,,
+UBCV,2021,S,POLI,240,,951,Currents of Political Thought,Corey Snelgrove;James Collie;Jennifer Gagnon,47,74.468085106,11.107872382,88.0,26.0,,,,,,,,,,,2,0,2,1,3,5,9,9,10,6,0,,,
+UBCV,2021,S,POLI,344,A,951,Social and Political Thought,Jennifer Gagnon;Kennedy Ryan,44,67.068181818,23.190212177,87.0,0.0,,,,,,,,,,,5,3,1,1,3,2,6,11,7,5,0,,,
+UBCV,2021,S,POLI,449,D,921,Topics in Political Theory,Jennifer Gagnon;Nojang Khatami,20,72.55,22.144204422,93.0,0.0,,,,,,,,,,,2,0,0,0,1,0,3,4,6,2,2,,,
+UBCV,2021,S,VANT,149,,V03,Multi-disciplinary Research Project,David Brownstein;Jennifer Gagnon;Maya Gal;Sijia Cheng;Veronika Larsen,23,70.086956522,15.957081766,80.0,0.0,,,,,,,,,,,1,0,0,0,2,6,6,4,4,0,0,,,
+UBCV,2021,S,VANT,149,,V05,Multi-disciplinary Research Project,Jennifer Gagnon;Maya Gal;Sijia Cheng;Veronika Larsen,16,65.0,21.450718714,85.0,10.0,,,,,,,,,,,2,0,1,0,0,3,6,3,0,1,0,,,
+UBCV,2021,S,VANT,149,,V07,Multi-disciplinary Research Project,Jennifer Gagnon;Maya Gal;Sijia Cheng;Veronika Larsen,16,77.25,3.530816714,84.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,7,5,0,0,,,
+UBCV,2021,W,POLI,367,B,001,International Relations Theory and the International System,Jennifer Gagnon;Justin Yau;Robert Crawford,84,74.476190476,9.926811923,91.0,35.0,,,,,,,,,,,4,0,0,1,1,17,22,12,18,7,2,,,
+UBCV,2021,W,WRDS,150,B,742,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,28,71.357142857,7.723050087,83.0,50.0,,,,,,,,,,,0,1,2,0,3,2,11,6,3,0,0,,,
+UBCV,2021,W,WRDS,150,B,761,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,27,72.962962963,5.367147083,88.0,60.0,,,,,,,,,,,0,0,0,1,1,8,9,6,1,1,0,,,
+UBCV,2021,W,WRDS,150,B,921,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,28,72.535714286,11.647546691,83.0,18.0,,,,,,,,,,,1,0,0,1,0,5,8,8,5,0,0,,,
+UBCV,2021,W,WRDS,150,B,932,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,28,74.821428571,8.432975712,82.0,38.0,,,,,,,,,,,1,0,0,0,1,2,6,9,9,0,0,,,
+UBCV,2021,W,WRDS,150,B,941,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,28,70.142857143,17.141490245,81.0,3.0,,,,,,,,,,,2,0,0,1,1,2,9,9,4,0,0,,,
+UBCV,2021,W,WRDS,150,B,951,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,29,73.517241379,8.135551126,81.0,45.0,,,,,,,,,,,1,1,0,0,3,2,7,8,7,0,0,,,
+UBCV,2021,W,WRDS,150,B,FY3,Writing and Research in the Disciplines,Jennifer Gagnon;Sara Qureshi,25,68.08,22.045256481,81.0,0.0,,,,,,,,,,,3,0,0,0,2,2,4,8,6,0,0,,,
+UBCV,2021,S,POLI,344,A,951,Social and Political Thought,Jennifer Gagnon,44,67.1,,87.0,0.0,,,,,,,,,,,,,,,,,6,11,7,,,76.0,80.0,64.8
+UBCV,2021,S,VANT,149,,V03,Multi-disciplinary Research Project,Jennifer Gagnon,23,70.1,,80.0,0.0,,,,,,,,,,,,,,,,6,6,,,,,73.0,76.0,69.0
+UBCV,2021,S,VANT,149,,V05,Multi-disciplinary Research Project,Jennifer Gagnon,16,65.0,,85.0,10.0,,,,,,,,,,,,,,,,,6,,,,,73.5,74.5,68.0
+UBCV,2021,S,VANT,149,,V07,Multi-disciplinary Research Project,Jennifer Gagnon,16,77.3,,84.0,72.0,,,,,,,,,,,,,,,,,,7,,,,76.5,80.3,75.5
+UBCV,2021,W,WRDS,150,B,742,Writing and Research in the Disciplines,Jennifer Gagnon,28,71.4,,83.0,50.0,,,,,,,,,,,,,,,,,11,6,,,,73.0,76.0,68.8
+UBCV,2021,W,WRDS,150,B,921,Writing and Research in the Disciplines,Jennifer Gagnon,28,72.5,,83.0,18.0,,,,,,,,,,,,,,,,,8,8,,,,74.0,77.0,71.8
+UBCV,2021,W,WRDS,150,B,932,Writing and Research in the Disciplines,Jennifer Gagnon,28,74.8,,82.0,38.0,,,,,,,,,,,,,,,,,6,9,9,,,77.0,80.0,72.0
+UBCV,2021,W,WRDS,150,B,941,Writing and Research in the Disciplines,Jennifer Gagnon,28,71.9,,81.0,3.0,,,,,,,,,,,,,,,,,9,9,,,,74.0,78.0,72.0
+UBCV,2021,W,WRDS,150,B,951,Writing and Research in the Disciplines,Jennifer Gagnon,29,73.5,,81.0,45.0,,,,,,,,,,,,,,,,,7,8,7,,,77.0,78.0,72.0
+UBCV,2021,W,WRDS,150,B,FY3,Writing and Research in the Disciplines,Jennifer Gagnon,25,68.1,,81.0,0.0,,,,,,,,,,,,,,,,,,8,6,,,76.0,78.0,69.0
+UBCV,2022,S,WRDS,150,A,003,Writing and Research in the Disciplines,Jennifer Gagnon,26,71.5,,87.0,47.0,,,,,,,,,,,1,0,2,0,4,5,6,2,3,3,0,72.5,77.8,66.8
+UBCV,2022,W,WRDS,150,A,191,Writing and Research in the Disciplines,Jennifer Gagnon,28,72.5,,85.0,60.0,,,,,,,,,,,0,0,0,4,4,2,7,5,5,1,0,74.0,78.0,66.8
+UBCV,2022,W,WRDS,150,A,241,Writing and Research in the Disciplines,Jennifer Gagnon,30,70.8,,84.0,23.0,,,,,,,,,,,3,0,0,0,2,6,5,8,6,0,0,74.0,78.0,69.0
+UBCV,2022,W,WRDS,150,B,761,Writing and Research in the Disciplines,Jennifer Gagnon,30,75.6,,86.0,46.0,,,,,,,,,,,1,0,0,1,1,3,3,10,10,1,0,77.5,80.0,74.0
+UBCV,2022,W,WRDS,150,B,932,Writing and Research in the Disciplines,Jennifer Gagnon,27,71.9,,83.0,33.0,,,,,,,,,,,1,1,0,0,4,4,4,8,5,0,0,74.0,77.5,69.0
+UBCV,2022,W,WRDS,150,B,941,Writing and Research in the Disciplines,Jennifer Gagnon,30,74.1,,85.0,19.0,,,,,,,,,,,1,0,0,0,0,5,8,7,8,1,0,76.0,80.0,72.0
+UBCV,2022,W,WRDS,150,B,951,Writing and Research in the Disciplines,Jennifer Gagnon,27,75.5,,86.0,60.0,,,,,,,,,,,0,0,0,2,1,5,3,5,10,1,0,77.0,80.0,70.5
+UBCV,2023,S,WRDS,150,A,003,Writing and Research in the Disciplines,Jennifer Gagnon,29,72.9,,83.0,20.0,,,,,,,,,,,1,0,0,2,2,2,6,7,8,0,0,76.0,80.0,71.5
+UBCV,2023,S,WRDS,150,A,004,Writing and Research in the Disciplines,Jennifer Gagnon,28,75.3,,85.0,68.0,,,,,,,,,,,0,0,0,0,0,5,7,9,3,1,0,76.0,78.0,74.0
+UBCV,2023,W,WRDS,150,A,442,Writing and Research in the Disciplines,Jennifer Gagnon,31,70.0,,85.0,25.0,,,,,,,,,,,3,1,0,0,1,6,6,9,4,1,0,74.0,76.5,70.0
+UBCV,2023,W,WRDS,150,A,451,Writing and Research in the Disciplines,Jennifer Gagnon,30,71.4,,85.0,35.0,,,,,,,,,,,2,2,0,0,0,5,6,8,6,1,0,74.5,77.8,69.3
+UBCV,2023,W,WRDS,150,B,692,Writing and Research in the Disciplines,Jennifer Gagnon,31,76.8,,86.0,70.0,,,,,,,,,,,0,0,0,0,0,2,11,9,7,2,0,76.0,80.0,74.0
+UBCV,2023,W,WRDS,150,B,693,Writing and Research in the Disciplines,Jennifer Gagnon,29,74.3,,82.0,62.0,,,,,,,,,,,0,0,0,1,1,5,8,9,4,0,0,74.0,76.3,72.5
+UBCV,2023,W,WRDS,150,B,932,Writing and Research in the Disciplines,Jennifer Gagnon,30,74.8,,86.0,38.0,,,,,,,,,,,1,0,0,0,2,4,7,6,9,1,0,77.5,80.0,72.0
+UBCV,2023,W,WRDS,150,B,951,Writing and Research in the Disciplines,Jennifer Gagnon,30,75.7,,83.0,55.0,,,,,,,,,,,0,0,1,0,2,1,7,11,8,0,0,77.0,79.5,74.0

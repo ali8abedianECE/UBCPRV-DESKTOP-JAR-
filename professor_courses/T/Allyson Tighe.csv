@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BAIT,516,,001,Health and Technology,Allyson Tighe,30,80.2,4.513581039,85.0,60.0,0,0,0,1,0,0,1,8,18,2,0,,,
+UBCV,2021,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe;Elizabeth Castle;James Blair Simonite,26,83.230769231,2.657934421,89.0,79.0,0,0,0,0,0,0,0,1,16,9,0,,,
+UBCV,2021,W,BAIT,516,,001,Health and Technology,Allyson Tighe,30,80.2,,85.0,60.0,,,,,,,,8,18,,,80.0,83.0,79.0
+UBCV,2021,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe,26,83.2,,89.0,79.0,,,,,,,,,16,9,,83.0,85.0,81.3
+UBCV,2022,W,BAIT,516,,001,Health and Technology,Allyson Tighe,11,84.3,,94.0,77.0,0,0,0,0,0,0,0,3,3,3,2,84.0,86.0,80.0
+UBCV,2022,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe,47,81.0,,89.0,34.0,2,1,0,0,0,1,2,3,14,24,0,85.0,86.0,82.0
+UBCV,2023,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe,54,83.43,,92.0,65.0,0,0,0,0,1,0,3,7,16,20,6,84.0,86.0,81.0

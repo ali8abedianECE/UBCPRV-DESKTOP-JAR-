@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,LAW,261,,002,Transnational Law,Liora Lazarus,45,73.066666667,4.988167818,80.0,66.0,0,0,0,0,6,15,8,7,9,0,0,,,
+UBCV,2020,W,LAW,319,D,001,International Human Rights,Liora Lazarus,10,79.5,5.35931173,87.0,71.0,0,0,0,0,0,1,2,0,5,2,0,,,
+UBCV,2021,W,LAW,261,,002,Transnational Law,Liora Lazarus,46,74.826086957,3.504310665,80.0,68.0,0,0,0,0,0,8,10,21,7,0,0,,,
+UBCV,2021,W,LAW,319,D,001,International Human Rights,Liora Lazarus,12,77.25,6.326351814,84.0,65.0,0,0,0,0,1,1,3,1,6,0,0,,,
+UBCV,2021,W,LAW,351,D,002,Topics in Human Rights,Liora Lazarus,10,78.9,1.791957341,80.0,76.0,0,0,0,0,0,0,0,3,7,0,0,,,
+UBCV,2022,W,LAW,261,,002,Transnational Law,Liora Lazarus,50,75.1,,81.0,65.0,0,0,0,0,5,6,11,17,11,0,0,76.0,78.0,73.3
+UBCV,2022,W,LAW,319,D,001,International Human Rights,Liora Lazarus,8,78.8,,80.0,76.0,0,0,0,0,0,0,0,4,4,0,0,79.0,80.0,78.0
+UBCV,2022,W,LAW,500,,001,Current Legal Problems,Liora Lazarus;Michelle Lebaron,7,84.4,,89.0,81.0,0,0,0,0,0,0,0,0,4,3,0,83.0,87.5,81.5
+UBCV,2023,W,LAW,319,D,001,International Human Rights,Liora Lazarus,15,73.5,,82.0,15.0,1,0,0,0,0,0,2,2,7,0,0,80.0,81.0,75.75
+UBCV,2023,W,LAW,500,,001,Current Legal Problems,Brenna Bhandar;Liora Lazarus,7,80.33,,82.0,78.0,0,0,0,0,0,0,0,2,4,0,0,80.5,81.75,79.25

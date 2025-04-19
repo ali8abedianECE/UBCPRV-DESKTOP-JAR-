@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CONS,210,,101,VISUAL CLIM CHNG,"Tomaselli Crespo, Maria",179,79.44,10.74,96,10,173,3,0,2,0,0,1,0,0,2,3,2,4,1,6,9,22,30,42,36,21,,,
+UBC,2017,W,FRST,519,,101,FRSTS & SOCIETY,"Tomaselli Crespo, Maria",15,86.07,6.27,94,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,5,,,
+UBC,2018,W,CONS,200,,002,FNDT CONSERVAT'N,"Tomaselli Crespo, Maria",169,73,12.59,95,5,165,4,0,0,0,1,0,0,1,2,4,7,14,6,21,20,13,24,31,18,11,,,
+UBC,2018,W,CONS,210,,101,VISUAL CLIM CHNG,"Sheppard, Stephen;Tomaselli Crespo, Maria",159,79.65,6.63,92,58,158,0,1,0,0,0,0,0,0,0,0,0,2,1,3,11,20,39,43,33,6,,,
+UBC,2018,W,FRST,110,,101,LAND ONE,"Tomaselli Crespo, Maria",28,84.86,6.04,95,72,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,5,7,,,
+UBCV,2017,W,CONS,210,,101,Visualizing Climate Change,Ana Elia Ramon Hildalgo;Brandon Jeffrey Prehn;Brandon Prehn;Jessica Krippel;Lukas Schreiber;Maria Fernanda Tomaselli Crespo;Maria Tomaselli Crespo;Stephen Sheppard,177,79.429378531,10.70666934,96.0,10.0,,,,,,,,,,,3,2,4,1,6,9,22,31,42,36,21,,,
+UBCV,2017,W,FRST,519,,101,Forests and Society,Maria Fernanda Tomaselli Crespo;Maria Tomaselli Crespo,15,86.066666667,6.273147611,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,5,5,,,
+UBCV,2018,W,CONS,200,,002,Foundations of Conservation,Alison Chadwick;Alison Liette Chadwick;Christiana Kittel;Debrah Zemanek;Janette Bulkan;Maria Tomaselli Crespo;Shabnam Vaghaye-Negar;Shabnam Vaghayenegar,169,73.0,12.58873268,95.0,5.0,,,,,,,,,,,4,7,14,6,21,20,13,24,31,18,11,,,
+UBCV,2018,W,CONS,210,,101,Visualizing Climate Change,Christiana Kittel;Debrah Zemanek;Jeremy Benjamin Arkin;Maria Fernanda Tomaselli Crespo;Maria Tomaselli Crespo;Peiyang Li;Shabnam Vaghaye-Negar;Shabnam Vaghayenegar;Stephen Sheppard,158,79.64556962,6.627558705,92.0,58.0,,,,,,,,,,,0,0,2,1,3,11,20,39,43,33,6,,,
+UBCV,2018,W,FRST,110,,101,Land One: First-year Integrative Seminar,Christiana Kittel;Maria Tomaselli Crespo;Tebogo Leepile,28,84.857142857,6.03517029,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,4,11,5,7,,,
+UBCV,2018,W,LFS,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo,23,85.173913043,5.646013669,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,3,12,5,,,
+UBCV,2019,W,CONS,200,,002,Foundations of Conservation,Alison Chadwick;Cheryl Ng;Daniel Sax;Maria Tomaselli Crespo;Sophie Lewis;Sophie Rose Lewis,116,73.629310345,11.77139508,92.0,0.0,,,,,,,,,,,1,2,6,8,16,13,15,16,20,14,5,,,
+UBCV,2019,W,CONS,210,,101,Visualizing Climate Change,Alyssa Dominique Nonis;Alyssa Nonis;Cheryl Hui Ting Ng;Cheryl Ng;Juliet Clarkson;Maria Tomaselli Crespo;Sophie Lewis;Sophie Rose Lewis;Stephen Sheppard;Tolulope Afolabi,175,79.982857143,6.730847059,92.0,56.0,,,,,,,,,,,0,0,3,1,5,7,22,31,61,34,11,,,
+UBCV,2019,W,FRST,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Sophie Rose Lewis;Tebogo Leepile,27,82.444444444,8.630595546,93.0,59.0,,,,,,,,,,,0,0,1,0,1,2,1,2,5,11,4,,,
+UBCV,2019,W,LFS,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Ryan James Frazier,21,75.761904762,23.884942457,92.0,0.0,,,,,,,,,,,2,0,0,0,0,1,0,2,8,6,2,,,
+UBCV,2019,W,MATH,102,,111,Differential Calculus with Applications to Life Sciences,Alejandra Herrera Reyes;Ananya Saraph;Andreas Buttenschoen;Athena Mckown;Elyse Yeager;Kateryna Melnykova;Kian Soares Da Costa;Maria Tomaselli Crespo,42,57.619047619,18.831670756,93.0,0.0,,,,,,,,,,,9,6,6,4,4,4,4,0,3,1,1,,,
+UBCV,2020,W,CONS,200,,002,Foundations of Conservation,Alyssa Nonis;Deborah Ann Pierce;Jennifer Baron;Maria Tomaselli Crespo;Winy Vasquez Benavides,135,78.022222222,10.231256373,95.0,48.0,,,,,,,,,,,1,1,7,6,8,10,16,20,26,25,15,,,
+UBCV,2020,W,CONS,210,,101,Visualizing Climate Change,. Sandeep;Alyssa Nonis;David Puhl;Maria Tomaselli Crespo;Mariko Molander;Meike Siegner;Mx Sandeep,167,82.706586826,9.402839469,97.0,35.0,,,,,,,,,,,2,1,1,2,3,7,13,18,33,49,38,,,
+UBCV,2020,W,FRST,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Peter Arcese;Winy Vasquez Benavides,25,87.44,4.848367423,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,11,7,,,
+UBCV,2020,W,LFS,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Peter Arcese,20,85.4,6.908423539,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,6,4,7,,,
+UBCV,2021,W,CONS,200,,001,Foundations of Conservation,Alida O'Connor;Alyssa Nonis;Judith Nuhu;Maria Tomaselli Crespo;Noa Mayer;Shannon Marie Hagerman,116,72.655172414,13.950286547,94.0,9.0,,,,,,,,,,,7,3,4,9,11,15,15,13,17,13,9,,,
+UBCV,2021,W,CONS,200,,002,Foundations of Conservation,Andrew Schuldt;Judith Nuhu;Maria Tomaselli Crespo;Mariko Molander;Samuel Adeyanju,151,76.907284768,13.083501567,94.0,0.0,,,,,,,,,,,8,0,2,3,5,12,17,24,40,32,8,,,
+UBCV,2021,W,CONS,210,,101,Visualizing Climate Change,Deborah Ann Pierce;Georgina Magnus;Jaylen Bastos;Judith Nuhu;Maria Tomaselli Crespo;Mariko Molander,172,82.73255814,7.991112634,95.0,33.0,,,,,,,,,,,1,0,0,5,1,8,11,14,53,48,31,,,
+UBCV,2021,W,FRST,110,,101,Land One: First-year Integrative Seminar,Deborah Ann Pierce;Hugo Pineda Perez;Lucy Binfield;Maria Tomaselli Crespo;Peter Wood,27,83.074074074,7.358542529,92.0,64.0,,,,,,,,,,,0,0,0,0,1,2,1,1,8,9,5,,,
+UBCV,2021,W,LFS,110,,101,Land One: First-year Integrative Seminar,Candice Rideout;Maria Tomaselli Crespo;Peter Wood,25,83.04,7.311406613,94.0,68.0,,,,,,,,,,,0,0,0,0,0,3,1,3,6,7,5,,,
+UBCV,2021,W,CONS,200,,001,Foundations of Conservation,Maria Tomaselli Crespo,116,72.7,,94.0,9.0,,,,,,,,,,,7,,,9,11,15,15,13,17,13,9,74.0,82.3,66.8
+UBCV,2021,W,CONS,210,,101,Visualizing Climate Change,Maria Tomaselli Crespo,172,82.7,,95.0,33.0,,,,,,,,,,,,,,,,8,11,14,53,48,31,84.0,89.0,80.0
+UBCV,2021,W,FRST,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Peter Wood,27,83.1,,92.0,64.0,,,,,,,,,,,,,,,,,,,8,9,,86.0,87.5,81.0
+UBCV,2022,W,CONS,200,,002,Foundations of Conservation,Maria Tomaselli Crespo,155,76.9,,98.0,36.0,,,,,,,,,,,5,1,8,5,11,15,15,24,28,21,22,79.0,85.5,70.0
+UBCV,2022,W,FRST,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Peter Wood,29,83.6,,95.0,51.0,,,,,,,,,,,0,1,0,0,0,1,1,2,11,7,6,84.0,89.0,82.0
+UBCV,2022,W,LFS,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo;Peter Wood,18,80.2,,91.0,63.0,,,,,,,,,,,0,0,0,2,0,0,3,2,4,5,2,81.5,85.8,75.8
+UBCV,2023,S,CONS,453,,921,International Conservation and Forest Ecosystem Management Field School,Susanne Lavallee;Maria Tomaselli Crespo,20,86.25,,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,12,3,87.0,89.0,84.25
+UBCV,2023,W,CONS,200,,001,Foundations of Conservation,Maria Tomaselli Crespo,120,78.3,,96.0,0.0,,,,,,,,,,,5,1,3,4,7,2,9,15,22,29,22,83.0,89.0,75.0
+UBCV,2023,W,CONS,200,,002,Foundations of Conservation,Maria Tomaselli Crespo,121,78.8,,96.0,50.0,,,,,,,,,,,0,3,1,4,6,8,19,17,22,27,11,80.0,85.0,73.0
+UBCV,2023,W,CONS,210,,101,Visualizing Climate Change,Maria Tomaselli Crespo,189,82.4,,98.0,35.0,,,,,,,,,,,3,1,2,4,1,3,9,21,52,69,24,84.0,87.0,80.0
+UBCV,2023,W,FRST,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo,26,84.4,,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,8,4,84.0,87.0,81.0
+UBCV,2023,W,LFS,110,,101,Land One: First-year Integrative Seminar,Maria Tomaselli Crespo,28,83.0,,93.0,56.0,,,,,,,,,,,0,0,1,0,0,0,3,4,7,6,6,83.0,89.0,79.0

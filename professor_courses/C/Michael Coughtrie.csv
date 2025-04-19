@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,PHAR,330,,001,PGX GENETCS DRGS,"Coughtrie, Michael;Nislow, Corey",219,82.83,5.37,95,65,219,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,47,68,65,22,,,
+UBC,2015,W,PHAR,330,,001,PGX GENETCS DRGS,"Coughtrie, Michael;Nislow, Corey",218,78.84,6.77,92,23,217,1,0,0,0,0,0,1,0,0,1,0,0,0,4,21,32,52,68,36,4,,,
+UBCV,2014,W,PHAR,330,,001,Pharmacogenomics: Genetics and Drug Action,Corey Nislow;Michael Coughtrie;Sean Formby,219,82.82648402,5.369556724,95.0,65.0,,,,,,,,,,,0,0,0,0,,,12,47,68,65,22,,,
+UBCV,2015,W,PHAR,330,,001,Pharmacogenomics: Genetics and Drug Action,Corey Nislow;Maryam Zamiri;Michael Coughtrie,218,78.839449541,6.768516414,92.0,23.0,,,,,,,,,,,,,,,,21,32,52,68,36,,,,
+UBCV,2022,W,PHAR,202,,001,Biochemical Pharmacology,Abby Collier;Michael Coughtrie,53,74.3,,98.0,13.0,,,,,,,,,,,4,1,1,4,3,2,7,7,12,4,8,79.0,83.0,68.0

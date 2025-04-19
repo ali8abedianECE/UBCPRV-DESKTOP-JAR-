@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,FIPR,101,,001,INTR HST FLM PRD,"Twa, Garth",42,78.03,17.6,97,0,38,2,0,1,0,1,0,0,0,1,2,1,1,1,0,4,2,6,10,4,9
+UBC,2018,W,FIPR,101,,001,INTR HST FLM PRD,"Twa, Garth",57,85.05,10.36,98,53,56,0,1,0,0,0,0,0,0,0,0,1,1,0,1,2,5,6,9,8,23
+UBC,2018,W,LLED,367,,301,TEACHING WRITING,"Twa, Garth",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,367,,302,TEACHING WRITING,"Twa, Garth",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,439,,301,SHKSPR IN CLSRM,"Twa, Garth",27,,,,,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2017,W,FIPR,101,,001,Introduction to the History of Film Production,Garth Twa;Greg Coyes;Shannon Walsh,41,77.780487805,17.453527144,97.0,0.0,,,,,,,,,,,2,1,1,1,0,5,2,6,10,4,9
+UBCV,2018,W,FIPR,101,,001,Introduction to the History of Film Production,Anaisa Visser;Garth Twa,56,85.053571429,10.363256145,98.0,53.0,,,,,,,,,,,0,1,1,0,1,2,5,6,9,8,23
+UBCV,2019,W,FIPR,436,A,001,Documentary Development and Production,Garth Twa;Shannon Walsh,12,73.666666667,14.754557591,87.0,44.0,,,,,,,,,,,2,0,0,0,0,2,0,3,2,3,0
+UBCV,2019,W,FIPR,536,A,001,Advanced Documentary Development and Production,Garth Twa;Shannon Walsh,6,83.666666667,5.354126135,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,2,1
+UBCV,2020,W,FIPR,338,,001,Motion Picture Sound,Garth Twa;Justin Aucoin,16,92.6875,4.077887525,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,11

@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,SCIE,113,,101,SCIE SEMINAR,"Fox, Joanne Alison;Peacock, Simon;Samuels, Anne Lacey",24,76.04,6.23,88,61,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,8,5,2,0,,,
+UBCV,2019,W,EOSC,223,,201,Field Techniques,Dylan Spence;James Nott;Jamie Alistair Cutts;Jamie Cutts;Kaitlin Purdue;Lindsey Abdale;Lindsey Valleda Abdale;Lucy Porritt;Martin Alexander Harris;Martin Harris;Robert Marc Bustin;Simon Peacock,52,81.384615385,6.088091385,93.0,60.0,,,,,,,,,,,0,0,0,1,0,1,4,9,20,13,4,,,
+UBCV,2020,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Ali Mehrabifard;Brett Gilley;James Kelly Russell;Lucy Porritt;Owen Perfect;Sarah Lockwood;Simon Peacock,108,74.583333333,17.648766868,93.0,0.0,,,,,,,,,,,6,3,3,7,8,2,8,11,26,22,12,,,
+UBCV,2020,W,EOSC,223,,201,Field Techniques,An Kun Ma;Dylan Spence;Erik Eberhardt;James Nott;James Stewart Scoates;Joel Edward Saylor;Kenneth Hickey;Lori Kennedy;Lucy Porritt;Martin Harris;Mitchall Darcy;Nichole Moerhuis;Simon Peacock,56,82.857142857,7.017973215,95.0,62.0,,,,,,,,,,,0,0,0,1,0,2,7,5,16,14,11,,,
+UBCV,2020,W,EOSC,322,,201,Metamorphic Petrology,Arina Kho;Darius Kamal;Frances Jones;Gregory Dipple;Jamie Cutts;Katrin Steinthorsdottir;Simon Peacock,37,76.324324324,15.778068559,98.0,0.0,,,,,,,,,,,1,0,2,1,1,3,7,5,8,7,2,,,
+UBCV,2021,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Ali Mehrabifard;Athirah Husna Binti Aidie;James Kelly Russell;Lucy Porritt;Robert Marc Bustin;Simon Peacock,133,75.834586466,15.577849684,96.0,2.0,,,,,,,,,,,6,4,3,8,3,6,17,27,24,17,18,,,
+UBCV,2021,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Bianca Iulianella Phillips;Gregory Dipple;Lori Kennedy;Reid Merrill;Simon Peacock;Zaara Hussain,129,76.317829457,14.544105602,99.0,22.0,,,,,,,,,,,6,4,6,3,10,12,16,10,20,18,24,,,
+UBCV,2021,W,EOSC,322,,201,Metamorphic Petrology,Darius Kamal;Gregory Dipple;Katrin Steinthorsdottir;Kira Musiiachenko;Simon Peacock,36,75.166666667,11.871935695,92.0,50.0,,,,,,,,,,,0,1,4,4,2,3,5,2,5,4,6,,,
+UBCV,2021,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Gregory Dipple;Simon Peacock,127,77.3,,99.0,40.0,,,,,,,,,,,,,6,,10,12,16,10,20,18,24,79.0,87.0,69.5
+UBCV,2021,W,EOSC,223,,201,Field Techniques,Mitchall Darcy;Gregory Dipple;Simon Peacock;Lucy Porritt;Joel Edward Saylor,45,72.9,,88.0,61.0,,,,,,,,,,,,,,,,12,7,7,8,,,72.0,78.0,68.0
+UBCV,2021,W,EOSC,322,,201,Metamorphic Petrology,Gregory Dipple;Simon Peacock,36,75.2,,92.0,50.0,,,,,,,,,,,,,,,,,,,,,6,75.0,85.3,64.5
+UBCV,2022,W,EOSC,223,,201,Field Techniques,Mitchall Darcy;Alexander Paul Hughes;Simon Peacock;Lucy Porritt;Joel Edward Saylor,43,76.1,,92.0,58.0,,,,,,,,,,,0,0,1,0,2,8,12,7,8,4,1,75.0,81.0,71.5
+UBCV,2022,W,EOSC,322,,201,Metamorphic Petrology,Simon Peacock,20,80.5,,94.0,62.0,,,,,,,,,,,0,0,0,1,0,2,2,2,7,3,3,81.5,85.3,75.5
+UBCV,2022,W,EOSC,543,,102,Topics in Solid Earth Sciences,Michael Bostock;Simon Peacock,7,87.1,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,3,85.0,92.5,82.5
+UBCV,2023,W,EOSC,114,,101,The Catastrophic Earth: Natural Disasters,Lindsey Abdale;Maria Maldonado-Pareja;Douglas McCollor;Simon Peacock;Lucy Porritt;Matthijs Smit,102,74.0,,96.0,40.0,,,,,,,,,,,5,1,4,5,7,12,10,10,24,10,8,76.0,82.3,68.0
+UBCV,2023,W,EOSC,114,,102,The Catastrophic Earth: Natural Disasters,Lindsey Abdale;Maria Maldonado-Pareja;Douglas McCollor;Simon Peacock;Lucy Porritt;Matthijs Smit,173,73.7,,93.0,5.0,,,,,,,,,,,5,4,8,12,12,23,18,26,29,25,10,76.0,82.3,68.0
+UBCV,2023,W,EOSC,223,,201,Field Techniques,Mitchall Darcy;Simon Peacock;Lucy Porritt;Joel Edward Saylor,55,74.2,,95.0,37.0,,,,,,,,,,,2,0,0,2,5,6,14,15,4,5,2,75.0,79.0,70.5
+UBCV,2023,W,EOSC,322,,201,Metamorphic Petrology,Simon Peacock,34,78.5,,93.0,48.0,,,,,,,,,,,1,1,1,3,2,1,0,3,6,11,4,83.0,87.0,71.0

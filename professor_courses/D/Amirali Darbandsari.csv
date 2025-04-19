@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,BMEG,320,,101,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,10,77.7,15.606622526,93.0,41.0,1,0,0,0,0,1,3,0,0,2,3
+UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.264957265,11.820783248,100.0,43.0,1,2,7,8,8,7,14,15,18,19,18
+UBCV,2021,S,ELEC,341,,941,Systems and Control,Amirali Darbandsari;Mohammad Najjarzadegan;Omid Esmaeeli;Siamak Najarian,107,78.514018692,12.651619693,100.0,42.0,1,3,5,5,7,9,8,15,19,12,23
+UBCV,2021,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Amirali Darbandsari;Fraser Pogue;Hongrong Zhang;Hosna Kazerooni Haghighat;Mohammad Najjarzadegan;Siamak Najarian,58,74.379310345,19.188654896,98.0,0.0,5,3,0,2,4,6,6,3,13,3,13
+UBCV,2021,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,24,64.25,17.283442692,98.0,34.0,4,2,4,2,1,3,2,1,1,2,2
+UBCV,2021,W,DSCI,100,,001,Introduction to Data Science,Amirali Darbandsari;Anahita Einolghozati;Ding Ma;Eric (Qingze) Li;Eros Shinji Rojas Velez;Jonathan Yu;Prayus Shrestha;Qin Rui Zhao;Rachel Lee;Shu Yu Yang;Trevor Campbell;Wonjee Jeong,178,76.348314607,13.391624943,97.0,13.0,10,2,6,4,9,17,24,22,28,34,22
+UBCV,2021,W,DSCI,100,,004,Introduction to Data Science,Amirali Darbandsari;Anahita Einolghozati;Ding Ma;Eric (Qingze) Li;Eros Shinji Rojas Velez;Jonathan Yu;Prayus Shrestha;Qin Rui Zhao;Rachel Lee;Shu Yu Yang;Trevor Campbell;Wonjee Jeong,178,77.337078652,12.185425971,93.0,14.0,5,5,5,0,10,10,21,31,37,44,10
+UBCV,2021,W,DSCI,100,,005,Introduction to Data Science,Amirali Darbandsari;Eric (Qingze) Li;Rachel Lee;Rodolfo Lourenzutti;Yilin Yang;Zhonghao Yang,138,83.782608696,12.06838128,97.0,14.0,2,0,3,3,2,2,7,13,22,34,50
+UBCV,2021,W,ELEC,523,,101,Medical Imaging,Amirali Darbandsari;Siamak Najarian,23,85.304347826,6.291659577,95.0,71.0,0,0,0,0,0,1,0,2,9,4,7

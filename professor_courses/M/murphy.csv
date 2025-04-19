@@ -1,0 +1,238 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CPSC,410,,101,ADV SOFTWARE ENG,"Murphy, Gail",120,72.18,9.91,92,45,112,6,1,0,1,0,0,0,0,6,6,1,5,4,13,19,29,9,22,7,3
+UBC,2002,W,CPSC,507,,201,SOFTWARE ENG,"Murphy, Gail",8,89.75,4.59,94,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6
+UBC,2002,W,MICB,405,,101,BIOINFORMATICS,"Murphy, Michael",68,73.22,8.66,92,50,68,0,0,0,0,0,0,0,0,0,0,1,4,5,10,7,10,12,13,5,1
+UBC,2002,W,POLI,101,,001,GOVERNMENT CAN,"Murphy, David",130,66.52,14.06,90,0,117,11,2,0,0,1,0,2,1,7,11,10,14,11,13,16,21,16,7,7,2
+UBC,2002,W,POLI,101,,004,GOVERNMENT CAN,"Murphy, David",139,67.39,10.34,90,29,131,4,4,0,0,0,0,1,0,3,4,8,17,17,24,18,16,16,10,4,1
+UBC,2002,W,POLI,101,,006,GOVERNMENT CAN,"Murphy, David",139,70.14,13.41,94,16,125,8,6,0,0,0,1,1,1,5,8,6,12,9,11,17,20,14,21,11,4
+UBC,2002,W,POLI,303,,001,FEDERALSM CANADA,"Murphy, David",58,71.88,10.19,89,42,55,1,2,0,0,0,0,0,0,1,1,1,5,6,4,10,6,7,13,3,0
+UBC,2002,W,POLI,303,,002,FEDERALSM CANADA,"Murphy, David",53,66.47,18.69,88,0,48,5,0,0,0,2,0,2,1,0,5,3,0,6,8,5,11,5,6,4,0
+UBC,2002,W,POLI,403,B,001,ECON OF CANADA,"Murphy, David",7,78.14,3.18,83,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,3,0,0
+UBC,2002,W,THTR,262,,001,BEGN SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",12,82.25,1.82,85,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,1,0
+UBC,2002,W,THTR,362,,001,INT SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",11,83.7,2,87,81,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0
+UBC,2002,W,THTR,370,,001,TUT IN ACTING,"Burnett, Cathy;Murphy, Gayle",11,83.7,2,87,81,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0
+UBC,2002,W,THTR,462,,001,ADV SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",7,84.71,2.06,87,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0
+UBC,2002,W,THTR,470,,001,ADV TUT IN ACTNG,"Burnett, Cathy;Murphy, Gayle",7,84.71,2.06,87,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0
+UBC,2003,W,CPSC,410,,101,ADV SOFTWARE ENG,"Murphy, Gail",83,70.95,12.36,94,24,80,2,0,0,1,0,0,1,0,1,2,6,6,5,8,14,11,8,13,4,5
+UBC,2003,W,MICB,405,,101,BIOINFORMATICS,"Murphy, Michael",53,75.04,8.91,93,55,51,0,1,1,0,0,0,0,0,0,0,0,1,6,4,7,9,4,14,3,3
+UBC,2003,W,THTR,262,,001,BEGN SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",13,83.31,2.18,87,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,0
+UBC,2003,W,THTR,362,,001,INT SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",12,87,1.55,90,85,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1
+UBC,2003,W,THTR,370,,001,TUT IN ACTING,"Burnett, Cathy;Murphy, Gayle",12,87,1.55,90,85,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1
+UBC,2003,W,THTR,462,,001,ADV SPCH&MOVMNT,"Burnett, Cathy;Murphy, Gayle",10,86.9,1.91,90,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,1
+UBC,2003,W,THTR,470,,001,ADV TUT IN ACTNG,"Burnett, Cathy;Murphy, Gayle",9,86.78,1.99,90,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1
+UBC,2005,W,CPSC,540,,101,MACHINE LEARN I,"Murphy, Kevin",48,79.79,11.73,99,42,33,1,3,11,0,0,0,0,0,1,1,0,0,2,3,1,2,5,8,7,5
+UBC,2005,W,STAT,406,,201,ALGO CLASS PRED,"Murphy, Kevin",21,73.95,16.3,95,32,18,2,0,1,0,0,0,0,1,1,2,0,1,1,1,1,3,2,3,4,2
+UBC,2005,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",14,81.43,3.52,86,73,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,3,0
+UBC,2005,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",14,84.71,3.45,89,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,10,0
+UBC,2005,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",5,83.2,0.84,84,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+UBC,2005,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",5,84.2,1.48,86,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0
+UBC,2005,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",11,86.36,1.03,88,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+UBC,2005,W,THTR,491,A,001,TUT IN ACTNG,"Beley, Lisa;Langston, Sheila;Murphy, Gayle",7,85.14,1.21,87,84,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0
+UBC,2006,W,CPSC,340,,101,MACHINE LRN MINE,"Murphy, Kevin",42,70.27,23.02,96,0,31,6,3,2,0,1,1,1,1,2,6,2,0,3,2,4,2,2,4,1,11
+UBC,2006,W,MICB,405,,101,BIOINFORMATICS,"Fox, Joanne Alison;Murphy, Michael",58,73.48,9.84,90,32,55,1,1,1,0,0,0,0,1,0,1,0,4,2,4,8,10,11,12,3,1
+UBC,2006,W,PUNJ,300,,001,ADV PUNJABI,"Murphy, Anne",6,86,4.05,90,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBC,2006,W,STAT,406,,201,ALGO CLASS PRED,"Murphy, Kevin",17,72.35,16.93,100,50,17,0,0,0,0,0,0,0,0,0,0,3,2,0,3,1,1,2,0,0,5
+UBC,2006,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",12,82.42,1.78,85,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,1,0
+UBC,2006,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",11,84,3.07,88,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,0
+UBC,2006,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",20,81.89,3.77,88,70,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,4,0
+UBC,2006,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",13,84.62,2.14,88,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0
+UBC,2006,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",13,85.17,2.66,88,81,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0
+UBC,2006,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",8,84.75,2.05,88,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0
+UBC,2006,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",11,85.1,3.14,90,81,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1
+UBC,2006,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",5,90.2,1.64,92,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2006,W,THTR,491,B,001,AD REHEARS&PERF,"Beley, Lisa;Murphy, Gayle",4,85.75,1.26,87,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2007,W,ASIA,376,,001,THE SIKHS,"Murphy, Anne",38,79.28,8.47,94,59,36,0,2,0,0,0,0,0,0,0,0,0,1,1,0,4,8,3,7,9,3
+UBC,2007,W,CPSC,340,,101,MACHINE LRN MINE,"Murphy, Kevin",37,76.75,11.98,99,50,36,0,1,0,0,0,0,0,0,0,0,1,0,4,2,6,4,5,5,2,7
+UBC,2007,W,MICB,405,,101,BIOINFORMATICS,"Fox, Joanne Alison;Murphy, Michael",63,75.69,8.49,91,50,62,0,0,1,0,0,0,0,0,0,0,2,1,2,4,7,12,13,12,6,3
+UBC,2007,W,PUNJ,300,,001,ADV PUNJABI,"Murphy, Anne",13,83.33,3.87,90,79,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,2
+UBC,2007,W,SOAL,440,B,001,S ASIA LANGUAGES,"Murphy, Anne",5,72.25,12.31,81,54,4,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0
+UBC,2007,W,STAT,406,,201,ALGO CLASS PRED,"Murphy, Kevin",21,69.7,21.67,98,15,17,3,1,0,0,0,1,0,0,2,3,2,2,0,1,1,1,3,1,1,5
+UBC,2007,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",11,80.18,3.6,85,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,2,0
+UBC,2007,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",11,80.64,3.04,85,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,1,0
+UBC,2007,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",16,82.31,2.5,86,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,2,0
+UBC,2007,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",10,83.5,2.68,87,81,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,0
+UBC,2007,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",9,82.89,3.06,88,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,1,0
+UBC,2007,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",9,83.89,2.57,87,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0
+UBC,2007,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",9,82.56,3.09,88,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,1,0
+UBC,2007,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",13,86.15,1.95,89,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,0
+UBC,2007,W,THTR,491,B,001,AD REHEARS&PERF,"Beley, Lisa;Murphy, Gayle",11,85.55,2.5,92,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1
+UBC,2009,S,ASIA,376,,001,THE SIKHS,"Murphy, Anne",43,79.5,9.91,93,50,40,0,3,0,0,0,0,0,0,0,0,1,1,1,2,1,4,6,10,9,5
+UBC,2009,S,SOAL,440,A,921,S ASIA LANGUAGES,"Murphy, Anne",4,81.25,4.11,85,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0
+UBC,2009,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",13,72.17,18.44,97,40,10,2,1,0,0,0,0,0,0,2,2,0,0,2,1,1,1,0,1,2,2
+UBC,2009,W,CPSC,540,,201,MACHINE LEARN I,"Murphy, Kevin",24,82.82,8.35,96,72,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6,3,3,3,7
+UBC,2009,W,MICB,405,,101,BIOINFORMATICS,"Fox, Joanne Alison;Murphy, Michael",60,78.32,8.27,94,57,60,0,0,0,0,0,0,0,0,0,0,0,2,3,1,5,7,9,23,4,6
+UBC,2009,W,STAT,406,,201,ALGO CLASS PRED,"Murphy, Kevin",14,73,14.63,91,51,13,0,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,1,2,3,1
+UBC,2009,W,THTR,273,,001,BGN VOICE&MOVE,"Murphy, Gayle;Rabinovitch, Andrea",14,82.55,5.84,89,69,11,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,5,0
+UBC,2009,W,THTR,274,,001,BGN VOIC/MOVE II,"Murphy, Gayle",10,82.4,4.45,90,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,1
+UBC,2009,W,THTR,335,,001,VOICE & MOVEMENT,"Murphy, Gayle;Rabinovitch, Andrea",17,80.38,6.02,90,71,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5,1,5,3,1
+UBC,2009,W,THTR,373,,001,INTER VS&M I,"Murphy, Gayle;Rabinovitch, Andrea",15,83.6,2.77,89,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0
+UBC,2009,W,THTR,374,,001,INT VS&M II,"Murphy, Gayle",15,84.73,3.13,89,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0
+UBC,2009,W,THTR,391,A,001,REHEARS&PERFORM,"Murphy, Gayle;Rabinovitch, Andrea",15,83.53,2.75,89,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4,0
+UBC,2009,W,THTR,391,B,001,REHEARS&PERFORM,"Murphy, Gayle",14,84.71,3.24,89,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0
+UBC,2009,W,THTR,473,,001,ADV SPCH&MOVE I,"Murphy, Gayle;Rabinovitch, Andrea",6,88,1.73,91,87,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2009,W,THTR,491,A,001,AD REHEARS&PERF,"Murphy, Gayle;Rabinovitch, Andrea",7,88,1.55,91,87,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2009,W,THTR,491,B,001,AD REHEARS&PERF,"Murphy, Gayle",6,88,1.26,90,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2010,W,ASIA,258,,001,RELIGION S ASIA,"Murphy, Anne",42,78.08,13.43,94,13,38,1,0,2,0,0,1,0,0,0,1,0,0,0,3,5,4,6,8,6,6
+UBC,2010,W,ASIA,376,,002,THE SIKHS,"Murphy, Anne",81,82,7.22,93,57,79,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,7,14,20,22,11
+UBC,2010,W,MICB,405,,101,BIOINFORMATICS,"Fox, Joanne Alison;Murphy, Michael",50,76.28,8.63,93,50,50,0,0,0,0,0,0,0,0,0,0,1,0,1,8,3,8,10,10,6,3
+UBC,2010,W,PUNJ,300,,001,ADV PUNJABI,"Murphy, Anne",16,85.63,5.51,93,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,6,4
+UBC,2010,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",15,80.53,4.58,86,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,3,0
+UBC,2010,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",14,81.31,3.35,86,75,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,1,0
+UBC,2010,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",20,77.6,9.29,86,43,19,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,3,5,7,3,0
+UBC,2010,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",8,87.13,3.68,93,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2
+UBC,2010,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",7,84.57,2.82,88,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0
+UBC,2010,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",6,86.17,3.76,93,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2010,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",5,84.2,3.19,88,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2010,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",15,87.4,1.76,90,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,2
+UBC,2010,W,THTR,491,A,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",15,87.4,1.76,90,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,2
+UBC,2010,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",15,86,1.96,90,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,1
+UBC,2011,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Murphy, Gail",103,69.6,15.82,99,22,90,9,1,1,2,0,0,2,2,5,9,7,8,8,11,10,8,6,16,3,13
+UBC,2011,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",77,72.11,12.94,98,40,67,4,4,0,1,0,0,0,0,4,4,2,3,9,9,7,6,7,11,5,8
+UBC,2011,W,MICB,405,,101,BIOINFORMATICS,"Fox, Joanne Alison;Murphy, Michael",61,76.95,8.86,94,50,61,0,0,0,0,0,0,0,0,0,0,1,2,3,1,6,11,8,17,9,3
+UBC,2011,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",16,82.88,3.2,87,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,6,0
+UBC,2011,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",14,80.62,3.62,85,74,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,1,0
+UBC,2011,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",11,82.45,3.62,86,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,0
+UBC,2011,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",12,82.92,3.8,88,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,0
+UBC,2011,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",7,88,2.16,91,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2
+UBC,2011,W,THTR,491,A,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",6,87.83,2.32,91,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2
+UBC,2012,W,ASIA,376,,002,THE SIKHS,"Murphy, Anne",75,79.52,8.6,92,41,72,1,2,0,0,0,0,0,0,1,1,0,1,0,3,7,7,9,22,19,4
+UBC,2012,W,ASIA,468,,001,APR STDY RELGNS,"Main, Jessica;Murphy, Anne",17,76.81,8.88,91,57,16,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,3,3,4,2,1
+UBC,2012,W,ASIA,541,A,025,S ASIA ST RESRCH,"Murphy, Anne",5,84,3.61,88,81,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+UBC,2012,W,PUNJ,300,,001,ADV PUNJABI,"Murphy, Anne",16,80.88,4.98,88,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,7,4,0
+UBC,2012,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",16,79.06,4.67,85,69,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,6,2,0
+UBC,2012,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",18,79.33,5.13,85,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,12,1,0
+UBC,2012,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",14,82.21,3.72,87,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,4,0
+UBC,2012,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",14,82.21,3.72,87,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,4,0
+UBC,2012,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",10,86,1.05,88,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2012,W,THTR,491,A,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle;TBA",10,86,1.05,88,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+UBC,2013,W,CPSC,210,,101,SFTWR CONSTRUCTN,"Murphy, Gail",162,75.17,12.83,99,27,151,4,6,0,1,0,0,1,0,3,4,3,14,11,11,10,14,20,29,17,22
+UBC,2013,W,SCIE,113,,110,SCIE SEMINAR,"Murphy, Michael;Steyn, Douw Gerbrand",27,75.31,9.07,87,55,26,0,1,0,0,0,0,0,0,0,0,0,2,1,3,2,3,2,9,4,0
+UBC,2013,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",10,83.11,3.66,88,78,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,0
+UBC,2013,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",9,82,3.12,86,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,0
+UBC,2013,W,THTR,335,,001,VOICE & MOVEMENT,"Burnett, Cathy;Murphy, Gayle",13,79.15,12.63,88,39,12,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,6,4,0
+UBC,2013,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",14,83.36,2.56,87,79,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0
+UBC,2013,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",14,83.5,2.41,86,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,5,0
+UBC,2013,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",14,83.36,2.56,87,79,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,0
+UBC,2013,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",17,83,3.16,86,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,7,0
+UBC,2013,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",13,85.69,2.32,89,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,0
+UBC,2013,W,THTR,491,A,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle;TBA",12,85.75,2.42,89,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0
+UBC,2013,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",13,84.54,1.71,87,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5,0
+UBC,2014,W,ASIA,258,,002,RELIGION S ASIA,"Main, Jessica;Murphy, Anne",83,71.28,17.14,95,5,75,6,1,0,0,1,1,2,0,2,6,5,4,3,5,8,9,13,15,7,6
+UBC,2014,W,ASIA,358,,001,LIT MEDVL INDIA,"Murphy, Anne",33,79,7.27,91,60,31,0,2,0,0,0,0,0,0,0,0,0,0,1,1,4,1,7,10,5,2
+UBC,2014,W,ASIA,498,,001,MUSEO IMAGINATN,"Murphy, Anne",19,79.11,9.29,96,67,18,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,3,3,3,1,4
+UBC,2014,W,CPSC,210,,201,SFTWR CONSTRUCTN,"Murphy, Gail",142,75.33,15.82,96,33,123,13,4,0,2,0,0,0,2,11,13,6,6,5,6,8,9,10,29,11,33
+UBC,2014,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Murphy, Michael",14,89.21,2.81,94,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7
+UBC,2014,W,MUSC,101,,001,DIATNC HRMNY&VCE,"MURPHY, NANCY",61,72.4,13.67,93,12,57,3,0,1,0,0,1,0,0,2,3,3,1,3,4,7,10,11,12,5,1
+UBC,2014,W,PHTH,516,,001,CLINICAL DEC I,"Murphy, Susan",80,90.99,3.32,97,83,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,21,55
+UBC,2014,W,THTR,130,,001,INTRO TO ACTING,"Burnett, Cathy;Heatley, Stephen;Murphy, Gayle",42,80.18,4.44,88,72,40,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7,21,5,0
+UBC,2014,W,THTR,130,,002,INTRO TO ACTING,"Burnett, Cathy;Heatley, Stephen;Murphy, Gayle",40,77.73,5.44,88,61,40,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,5,15,12,4,0
+UBC,2014,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",16,80.69,4.63,86,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5,6,0
+UBC,2014,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",15,82.4,4.15,87,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,5,7,0
+UBC,2014,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",8,83.88,4.05,88,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,0
+UBC,2014,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",8,84.88,3.31,88,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0
+UBC,2014,W,THTR,391,A,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",10,85.6,5.1,93,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,2
+UBC,2014,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",8,84.88,3.31,88,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0
+UBC,2014,W,THTR,391,C,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle;Scholte, Tom",8,84.88,3.31,88,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0
+UBC,2014,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",13,84.69,1.75,88,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0
+UBC,2014,W,THTR,491,A,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",13,84.69,1.75,88,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0
+UBC,2014,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",13,85.46,1.45,88,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,0
+UBC,2014,W,THTR,491,C,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle;Scholte, Tom",13,85.46,1.45,88,83,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,0
+UBC,2014,W,THTR,547,A,001,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,90.5,4.2,95,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2015,W,ASIA,365,,001,PUNJABI CINEMA,"Murphy, Anne",49,78.12,9.74,88,25,48,1,0,0,0,0,0,1,0,0,1,0,0,2,0,2,9,8,16,11,0
+UBC,2015,W,ASIA,376,,001,THE SIKHS,"Murphy, Anne",80,79.03,4.91,89,67,80,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,11,23,28,11,0
+UBC,2015,W,ASIA,475,,001,DCMNTG PUNJB CAN,"Murphy, Anne",16,83.67,4.91,93,76,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,2
+UBC,2015,W,ASIA,490,E,001,ASIA CLSSCS SEM,"Murphy, Anne",4,86.5,2.38,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2015,W,ASIA,498,,001,MUSEO IMAGINATN,"Murphy, Anne",27,79.44,5.56,89,62,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,9,8,5,0
+UBC,2015,W,LLED,200,,V95,INTRO ACAD WRIT,"Murphy, Mike",17,65.94,8.59,83,50,17,0,0,0,0,0,0,0,0,0,0,2,2,2,4,2,3,1,1,0,0
+UBC,2015,W,LLED,200,,VE1,INTRO ACAD WRIT,"Murphy, Mike",18,68.28,11.34,89,46,17,1,0,0,0,0,0,0,0,1,1,1,2,3,2,1,3,2,2,1,0
+UBC,2015,W,LLED,201,,V95,CRIT READ&WRIT,"Murphy, Mike",17,59.53,11.74,76,32,15,2,0,0,0,0,0,0,1,1,2,4,2,2,3,1,1,2,0,0,0
+UBC,2015,W,LLED,201,,VE1,CRIT READ&WRIT,"Murphy, Mike",18,60.28,18.19,81,14,14,4,0,0,0,0,1,0,1,2,4,1,3,2,1,1,1,2,3,0,0
+UBC,2015,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Gold, Michael;Murphy, Michael",19,89.39,5.49,97,71,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,8
+UBC,2015,W,PUNJ,401,,001,DEVOTIONAL LIT,"Murphy, Anne",6,86.67,2.66,90,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1
+UBC,2015,W,RHSC,583,A,016,APPLY RSRCH PRAC,"Murphy, Susan",7,90.14,4.6,95,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5
+UBC,2015,W,THTR,130,,002,INTRO TO ACTING,"Burnett, Cathy;Murphy, Gayle",39,82.82,5.99,90,62,39,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,7,9,18,3
+UBC,2015,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",15,78.87,5.72,85,60,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,8,1,0
+UBC,2015,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",12,81.25,3.05,86,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,1,0
+UBC,2015,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",12,84.33,2.61,87,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,0
+UBC,2015,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",12,84.25,3.36,88,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,0
+UBC,2015,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",12,84.25,3.36,88,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,0
+UBC,2015,W,THTR,391,C,001,REHEARS&PERFORM,"Burnett, Cathy;Malloy, Stephen;Murphy, Gayle",12,84.25,3.36,88,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,7,0
+UBC,2015,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",8,85,2.2,88,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0
+UBC,2015,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",8,88,1.6,91,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1
+UBC,2015,W,THTR,491,C,001,AD REHEARS&PERF,"Burnett, Cathy;Malloy, Stephen;Murphy, Gayle",8,88,1.6,91,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1
+UBC,2015,W,THTR,547,A,001,DIRECTED STUDIES,"Burnett, Cathy;Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Marshall, Hallie;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",5,87.8,2.17,91,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2015,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,87,2.16,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2016,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Dean, Elizabeth;Eng, Janice;Garland, S Jayne;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",82,86.4,7.81,94,68,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,13,23,36
+UBC,2016,S,VANT,140,A,V95,CONTENT LANG TUT,"Murphy, Mike",28,70.5,6.89,82,50,28,0,0,0,0,0,0,0,0,0,0,1,1,2,3,9,5,5,2,0,0
+UBC,2016,S,VANT,140,A,V97,CONTENT LANG TUT,"Murphy, Mike",25,62.48,10.05,83,32,23,2,0,0,0,0,0,0,1,1,2,2,1,6,7,5,1,0,1,0,0
+UBC,2016,W,ASIA,365,,001,PUNJABI CINEMA,"Murphy, Anne",59,77.8,7.4,93,63,56,0,1,1,0,0,0,0,0,0,0,0,0,1,8,5,4,11,17,8,2
+UBC,2016,W,ASIA,498,,001,MUSEO IMAGINATN,"Murphy, Anne",21,78.43,7.43,95,67,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,4,3,3,2
+UBC,2016,W,CPSC,310,,201,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",148,82.19,10.63,97,34,143,2,2,0,1,0,0,0,2,0,2,1,0,1,9,11,5,15,21,37,43
+UBC,2016,W,CPSC,310,,202,INTR SFTWR ENG,"Baniassad, Elisa;Holmes, Reid;Murphy, Gail",138,80.68,9.59,95,29,129,1,6,0,2,0,0,1,0,0,1,0,1,2,4,12,11,16,32,23,28
+UBC,2016,W,LLED,200,,VE1,INTRO ACAD WRIT,"Murphy, Mike",14,59.43,12.96,85,44,11,3,0,0,0,0,0,0,0,3,3,3,3,1,0,1,1,1,0,1,0
+UBC,2016,W,LLED,200,,VE7,INTRO ACAD WRIT,"Murphy, Mike",14,57.79,13.56,76,29,12,2,0,0,0,0,0,1,0,1,2,4,2,1,1,1,1,2,0,0,0
+UBC,2016,W,LLED,201,,VE7,CRIT READ&WRIT,"Murphy, Mike",14,53.5,27.5,84,6,9,5,0,0,0,2,0,1,2,0,5,0,2,0,0,2,2,1,2,0,0
+UBC,2016,W,MICB,325,,201,ANLYSIS MCRO G&G,"Beatty, John;Haney, Cara;Murphy, Michael",119,76.02,12.42,94,44,108,9,1,0,1,0,0,0,0,9,9,0,4,6,8,8,10,12,30,18,12
+UBC,2016,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Haney, Cara;Murphy, Michael",9,90,2.78,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7
+UBC,2016,W,PHTH,516,,001,CLINICAL DEC I,"Goyert, Peter;Murphy, Susan;Roots, Robin",80,88.86,4.18,96,73,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,24,45
+UBC,2016,W,PUNJ,402,,001,MED&EARLYMOD LIT,"Murphy, Anne",8,85.2,2.49,89,82,5,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2016,W,PUNJ,457,,001,PUNJABI THEATRE,"Murphy, Anne",8,88.17,2.56,93,86,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2016,W,THTR,130,,001,INTRO TO ACTING,"Heatley, Stephen;Murphy, Gayle",45,80.2,5.12,88,64,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8,22,7,0
+UBC,2016,W,THTR,130,,002,INTRO TO ACTING,"Murphy, Gayle",44,82.49,7.4,91,64,43,0,0,1,0,0,0,0,0,0,0,0,0,0,3,3,2,0,10,23,2
+UBC,2016,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",16,78.69,3.63,84,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,7,0,0
+UBC,2016,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",14,80.71,3.07,85,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,1,0
+UBC,2016,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",9,83.56,2.6,87,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0
+UBC,2016,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",9,84.67,2.6,88,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0
+UBC,2016,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Murphy, Gayle",9,84.67,2.6,88,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0
+UBC,2016,W,THTR,391,C,001,REHEARS&PERFORM,"Burnett, Cathy;Malloy, Stephen;Murphy, Gayle",9,84.67,2.6,88,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,0
+UBC,2016,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",12,84.5,1.83,88,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,0
+UBC,2016,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Murphy, Gayle",12,86.5,3.32,94,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,2
+UBC,2016,W,THTR,491,C,001,AD REHEARS&PERF,"Burnett, Cathy;Malloy, Stephen;Murphy, Gayle",12,86.5,3.32,94,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,2
+UBC,2016,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,73,39.37,95,14,3,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+UBC,2017,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",78,91.28,4.15,97,78,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,17,58
+UBC,2017,W,MICB,325,,201,ANLYSIS MCRO G&G,"Haney, Cara;Murphy, Michael",136,76.93,10.72,97,43,132,3,1,0,0,0,0,0,0,3,3,4,2,5,12,10,11,21,37,17,13
+UBC,2017,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,90,3.16,97,83,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11
+UBC,2017,W,NRSC,500,,001,NEUROSCIENCE I,"Murphy, Timothy",22,87.42,4.21,94,80,19,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,6
+UBC,2017,W,PHTH,516,,001,CLINICAL DEC I,"Murphy, Susan",80,87.82,5.3,96,63,78,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,11,31,31
+UBC,2017,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Wolsey, Travis",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,PHTH,581,,001,E & T MANIP THER,"Celebrini, Rick G;Dhir, Jasdeep;Kennedy, Carolyn;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Schneider, Geoff",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,PUNJ,402,,001,MED&EARLYMOD LIT,"Murphy, Anne",5,89.67,7.37,98,84,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+UBC,2017,W,SPPH,525,,DL1,ISS PUBLIC HLTH,"Murphy, Rachel",18,89.94,4.3,97,83,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,10
+UBC,2017,W,THTR,130,,001,INTRO TO ACTING,"Murphy, Gayle",38,79.35,18.31,91,5,35,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,3,4,13,12,3
+UBC,2017,W,THTR,130,,002,INTRO TO ACTING,"Murphy, Gayle",37,83.43,6.2,93,68,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,8,14,6
+UBC,2017,W,THTR,273,,001,BGN VOICE&MOVE,"Burnett, Cathy;Murphy, Gayle",16,80.75,1.69,84,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,0,0
+UBC,2017,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",16,80.81,2.59,87,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,1,0
+UBC,2017,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",13,84.85,2.12,88,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0
+UBC,2017,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",13,84.08,1.61,86,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0
+UBC,2017,W,THTR,391,B,001,REHEARS&PERFORM,"Burnett, Cathy;Drover, Stephen;Forsyth, Keltie;Murphy, Gayle",14,84.08,1.61,86,80,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0
+UBC,2017,W,THTR,391,C,001,REHEARS&PERFORM,"Bertoia, Susan;Burnett, Cathy;Dobbie, Courtenay;Forsyth, Keltie;Malloy, Stephen;Murphy, Gayle",13,84.62,1.8,87,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0
+UBC,2017,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",9,84.89,1.76,87,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+UBC,2017,W,THTR,491,B,001,AD REHEARS&PERF,"Burnett, Cathy;Drover, Stephen;Forsyth, Keltie;Murphy, Gayle",10,86.4,2.63,92,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,1
+UBC,2017,W,THTR,491,C,001,AD REHEARS&PERF,"Bertoia, Susan;Burnett, Cathy;Dobbie, Courtenay;Forsyth, Keltie;Malloy, Stephen;Murphy, Gayle",9,85.78,1.86,89,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+UBC,2017,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom;Segal, Judy",7,90,4.43,95,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2018,S,PHTH,546,,921,CLIN MAKE III,"Murphy, Susan;Rankin, Anne;Roots, Robin;Sauve, Karen",78,91.28,3.67,97,82,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,57
+UBC,2018,S,PHTH,552,,921,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,552,,922,REHAB RSRCH,"Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",79,91.78,3.66,98,85,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,54
+UBC,2018,W,ASIA,376,,001,THE SIKHS,"Murphy, Anne",70,77.3,9.05,94,53,64,0,0,1,3,0,0,0,0,0,0,1,2,0,5,10,6,11,17,7,5
+UBC,2018,W,ASIA,468,,001,APR STDY RELGNS,"Murphy, Anne",15,76.85,7.53,86,58,13,0,1,0,1,0,0,0,0,0,0,0,1,0,0,2,2,3,3,2,0
+UBC,2018,W,ASIA,576,B,025,TPC SIKH&S ASIA,"Murphy, Anne",6,90.8,6.42,98,84,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3
+UBC,2018,W,MICB,325,,201,ANLYSIS MCRO G&G,"Eltis, Lindsay;Haney, Cara;Murphy, Michael",106,79.99,8.98,95,49,101,1,2,0,1,0,0,0,0,1,1,1,2,1,2,9,9,19,21,25,12
+UBC,2018,W,MICB,506,C,001,MICB&IMMUN RSRCH,"Abraham, Ninan;Eltis, Lindsay;Fernandez, Rachel;Gold, Michael;Hancock, Robert E;Murphy, Michael",17,92.12,1.45,94,88,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16
+UBC,2018,W,NRSC,500,,001,NEUROSCIENCE I,"Murphy, Timothy",27,85.52,5.67,94,74,25,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,10,7
+UBC,2018,W,PHTH,516,,001,CLINICAL DEC I,"Hewson, Daniel;Murphy, Susan;Paul, Susan;Roots, Robin",78,86.51,2.77,95,80,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,51,9
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PUNJ,403,,001,MDRN PUNJABI LIT,"Murphy, Anne",11,83.57,5.68,91,78,7,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2
+UBC,2018,W,RGLA,471,B,001,ADV SEM RELG&LIT,"Murphy, Anne",4,80.5,5.2,87,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+UBC,2018,W,THTR,130,,001,INTRO TO ACTING,"Murphy, Gayle",40,83.98,4.86,95,73,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,16,14,5
+UBC,2018,W,THTR,130,,002,INTRO TO ACTING,"Murphy, Gayle",42,83.19,5.77,91,60,42,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,17,14,5
+UBC,2018,W,THTR,274,,001,BGN VOIC/MOVE II,"Burnett, Cathy;Murphy, Gayle",14,83.57,3.61,88,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,7,0
+UBC,2018,W,THTR,373,,001,INTER VS&M I,"Burnett, Cathy;Murphy, Gayle",16,84.88,2,88,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10,0
+UBC,2018,W,THTR,374,,001,INT VS&M II,"Burnett, Cathy;Murphy, Gayle",16,83.63,2.36,87,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,0
+UBC,2018,W,THTR,391,B,001,REHEARS&PERFORM,"Anderson, Bart;Burnett, Cathy;Langston, Sheila;Murphy, Gayle",16,83.63,2.36,87,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9,0
+UBC,2018,W,THTR,391,C,001,REHEARS&PERFORM,"Burnett, Cathy;Drover, Stephen;Malloy, Stephen;Murphy, Gayle;Wagner, Raphael",16,84.88,1.96,88,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,0
+UBC,2018,W,THTR,473,,001,ADV SPCH&MOVE I,"Burnett, Cathy;Murphy, Gayle",13,86.15,1.86,89,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,0
+UBC,2018,W,THTR,491,B,001,AD REHEARS&PERF,"Anderson, Bart;Burnett, Cathy;Langston, Sheila;Murphy, Gayle",13,85.31,4.94,91,71,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,9,1
+UBC,2018,W,THTR,491,C,001,AD REHEARS&PERF,"Burnett, Cathy;Drover, Stephen;Malloy, Stephen;Murphy, Gayle;Wagner, Raphael",13,86.31,3.43,91,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,1
+UBC,2018,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,90,5.35,97,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2

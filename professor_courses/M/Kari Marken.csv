@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,W,ASTU,401,G,001,Special Topics in Arts Studies,Dharini Thiruchittampalam;Kari Anna Marken;Kari Marken,31,80.387096774,5.432478988,87.0,57.0,0,0,1,0,0,0,2,5,17,6,0,,,
+UBCV,2018,W,ASTU,204,C,001,Topics in Interdisciplinary Arts Studies,Kari Anna Marken;Kari Marken;Moura Quayle,10,80.9,9.326783416,95.0,59.0,0,0,1,0,0,0,1,1,5,1,1,,,
+UBCV,2020,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Dale Griffin;Dan Skarlicki;Justin Bull;Kari Marken,47,87.042553191,2.302715286,93.0,83.0,0,0,0,0,0,0,0,0,6,36,5,,,
+UBCV,2020,W,BA,562,,003,Creativity,Darren Dahl;Kari Marken,56,83.857142857,2.504022738,91.0,80.0,0,0,0,0,0,0,0,0,38,16,2,,,
+UBCV,2020,W,BA,562,,004,Creativity,Darren Dahl;Kari Marken,20,83.8,3.833371472,89.0,72.0,0,0,0,0,0,0,1,0,9,10,0,,,
+UBCV,2020,W,BA,562,,DD1,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,49,83.632653061,3.666821271,94.0,76.0,0,0,0,0,0,0,0,3,26,17,3,,,
+UBCV,2020,W,BA,562,,DD2,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,24,83.666666667,5.576867335,94.0,72.0,0,0,0,0,0,0,1,3,10,5,5,,,
+UBCV,2020,W,COMM,220,,DD4,Business Communications,Elizabeth Bowker;Kari Marken;Krysten Spencer,30,81.3,3.677986706,90.0,75.0,0,0,0,0,0,0,1,8,12,8,1,,,
+UBCV,2020,W,COMM,390,,105,Business Writing,Kari Marken,20,79.6,7.465006081,90.0,63.0,0,0,0,1,1,1,1,4,6,5,1,,,
+UBCV,2020,W,COMM,390,,106,Business Writing,Kari Marken,18,80.388888889,5.192062821,88.0,70.0,0,0,0,0,0,1,2,3,7,5,0,,,
+UBCV,2020,W,COMM,390,,213,Business Writing,Kari Marken,20,80.4,4.672427522,88.0,73.0,0,0,0,0,0,0,4,4,8,4,0,,,
+UBCV,2020,W,COMM,390,,214,Business Writing,Kari Marken,17,80.764705882,5.868660535,90.0,68.0,0,0,0,0,0,1,1,4,6,4,1,,,
+UBCV,2020,W,COMM,390,,215,Business Writing,Kari Marken,17,79.882352941,6.594338035,90.0,68.0,0,0,0,0,0,2,2,2,7,3,1,,,
+UBCV,2020,W,COMM,390,,222,Business Writing,Kari Marken,19,74.421052632,6.776723147,86.0,56.0,0,0,1,0,0,3,8,3,2,2,0,,,
+UBCV,2021,S,BA,562,,MM1,Creativity,Kari Marken;Xixi Hu,56,80.482142857,5.095420659,90.0,70.0,0,0,0,0,0,1,7,18,14,13,3,,,
+UBCV,2021,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Justin Bull;Kari Marken;Mehmud Iqbal;Wayne Rawcliffe,58,85.206896552,2.117252611,90.0,81.0,0,0,0,0,0,0,0,0,25,31,2,,,
+UBCV,2021,W,BA,562,,001,Creativity,Hsuan-Che Huang;Kari Marken,54,83.333333333,2.952453409,90.0,76.0,0,0,0,0,0,0,0,4,26,22,2,,,
+UBCV,2021,W,BA,562,,002,Creativity,Darren Dahl;Kari Marken;Kshitij Sharan,54,81.574074074,3.069028805,88.0,75.0,0,0,0,0,0,0,2,8,33,11,0,,,
+UBCV,2021,W,BA,562,,003,Creativity,Darren Dahl;Kari Marken;Xixi Hu,50,83.6,3.428571429,92.0,77.0,0,0,0,0,0,0,0,4,23,21,2,,,
+UBCV,2021,W,BA,562,,004,Creativity,Darren Dahl;Kari Marken;Kshitij Sharan,49,83.836734694,3.104747298,90.0,73.0,0,0,0,0,0,0,1,1,21,25,1,,,
+UBCV,2021,W,BA,562,,DD1,Creativity,Darren Dahl;Hsuan-Che Huang;Kari Marken,32,84.53125,2.527071172,91.0,80.0,0,0,0,0,0,0,0,0,14,17,1,,,
+UBCV,2021,W,BA,562,,DD2,Creativity,Darren Dahl;Julie Hommik;Kari Marken,34,83.235294118,2.66354541,88.0,77.0,0,0,0,0,0,0,0,3,18,13,0,,,
+UBCV,2021,W,BA,562,,MM1,Creativity,Darren Dahl;Kari Marken;Kshitij Sharan,45,83.155555556,2.852077039,88.0,76.0,0,0,0,0,0,0,0,4,25,16,0,,,
+UBCV,2021,W,COMM,220,,DD2,Business Communications,Kailey Chelswick;Kari Marken;Marlisse Silver Sweeney,25,80.76,2.773084925,86.0,74.0,0,0,0,0,0,0,1,4,17,3,0,,,
+UBCV,2021,W,COMM,220,,DD4,Business Communications,Kailey Chelswick;Kari Marken,29,81.103448276,3.086200017,86.0,75.0,0,0,0,0,0,0,1,5,16,7,0,,,
+UBCV,2021,W,COMM,220,,DD5,Business Communications,Kari Marken;Marlisse Silver Sweeney;Salma Said,35,79.542857143,4.785657845,87.0,65.0,0,0,0,0,1,1,4,9,13,7,0,,,
+UBCV,2021,W,COMM,220,,DD6,Business Communications,Holly Munn;Kari Marken;Krysten Spencer;Marlisse Silver Sweeney,24,78.666666667,4.860369164,88.0,70.0,0,0,0,0,0,1,3,11,4,5,0,,,
+UBCV,2021,W,COMM,220,,DD7,Business Communications,Kari Marken;Salma Said,30,80.1,4.079807298,88.0,68.0,0,0,0,0,0,1,2,5,18,4,0,,,
+UBCV,2021,W,COMM,390,,111,Business Writing,Kari Marken,20,79.45,6.336818063,90.0,60.0,0,0,0,1,0,0,1,7,7,3,1,,,
+UBCV,2021,W,COMM,390,,114,Business Writing,Kari Marken,20,78.8,5.717931168,92.0,71.0,0,0,0,0,0,2,3,7,4,3,1,,,
+UBCV,2021,W,COMM,220,,DD2,Business Communications,Kari Marken,25,80.8,,86.0,74.0,,,,,,,,,17,,,81.0,82.0,80.0
+UBCV,2021,W,COMM,220,,DD4,Business Communications,Kari Marken,29,81.1,,86.0,75.0,,,,,,,,,16,7,,81.0,83.0,80.0
+UBCV,2021,W,COMM,220,,DD5,Business Communications,Kari Marken,35,79.5,,87.0,65.0,,,,,,,,9,13,7,,80.0,82.0,77.0
+UBCV,2021,W,COMM,220,,DD7,Business Communications,Kari Marken,30,80.1,,88.0,68.0,,,,,,,,,18,,,80.0,82.0,78.5
+UBCV,2021,W,COMM,390,,111,Business Writing,Kari Marken,20,79.5,,90.0,60.0,,,,,,,,7,7,,,80.0,83.0,76.8
+UBCV,2021,W,COMM,390,,114,Business Writing,Kari Marken,20,78.8,,92.0,71.0,,,,,,,,7,,,,77.0,83.0,75.8
+UBCV,2022,S,BA,562,,DD1,Creativity,Kari Marken,48,86.5,,97.0,78.0,0,0,0,0,0,0,0,1,10,28,9,85.0,89.0,85.0
+UBCV,2022,S,BA,562,,DD2,Creativity,Kari Marken,45,87.6,,94.0,82.0,0,0,0,0,0,0,0,0,4,30,11,87.0,89.0,85.0
+UBCV,2022,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Justin Bull;Kari Marken;Wayne Rawcliffe,51,82.5,,85.0,81.0,0,0,0,0,0,0,0,0,50,1,0,83.0,83.0,82.0
+UBCV,2022,W,BA,562,,001,Creativity,Kari Marken,44,80.4,,85.0,72.0,0,0,0,0,0,0,1,5,36,2,0,80.0,81.3,80.0
+UBCV,2022,W,BA,562,,002,Creativity,Kari Marken,43,80.1,,82.0,76.0,0,0,0,0,0,0,0,1,42,0,0,80.0,80.0,80.0
+UBCV,2022,W,BA,562,,MM1,Creativity,Kari Marken,40,81.2,,88.0,76.0,0,0,0,0,0,0,0,16,17,7,0,81.0,83.0,78.0
+UBCV,2022,W,COMM,196,,109,Business Communications I,Kari Marken,27,75.9,,85.0,0.0,1,1,0,0,0,0,1,9,13,2,0,80.0,81.0,78.0
+UBCV,2022,W,COMM,196,,110,Business Communications I,Kari Marken,29,79.1,,84.0,71.0,0,0,0,0,0,1,0,13,15,0,0,80.0,81.0,78.0
+UBCV,2022,W,COMM,196,,111,Business Communications I,Kari Marken,28,77.6,,85.0,40.0,1,0,0,0,0,1,1,11,13,1,0,79.5,81.0,77.0
+UBCV,2022,W,COMM,196,,206,Business Communications I,Kari Marken,28,75.7,,86.0,62.0,0,0,0,1,1,4,4,10,7,1,0,77.0,80.0,73.0
+UBCV,2022,W,COMM,196,,207,Business Communications I,Kari Marken,30,79.6,,85.0,70.0,0,0,0,0,0,2,1,9,13,5,0,80.0,83.0,77.3
+UBCV,2023,S,BA,562,,DD1,Creativity,Kari Marken,51,82.76,,85.0,80.0,0,0,0,0,0,0,0,0,37,14,0,83.0,85.0,81.0
+UBCV,2023,S,BA,562,,DD2,Creativity,Kari Marken,51,83.53,,90.0,80.0,0,0,0,0,0,0,0,0,29,21,1,83.0,85.0,82.0
+UBCV,2023,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Justin Bull;Kari Marken;Wayne Rawcliffe,57,83.11,,86.0,80.0,0,0,0,0,0,0,0,0,48,9,0,83.0,84.0,82.0
+UBCV,2023,W,BA,562,,MM1,Creativity,Kari Marken,36,81.58,,91.0,70.0,0,0,0,0,0,2,0,9,12,11,2,82.0,86.0,77.0
+UBCV,2023,W,COMM,196,,203,Business Communications I,Kari Marken,26,73.9,,82.0,0.0,1,0,0,0,1,0,6,9,9,0,0,77.0,80.0,73.5
+UBCV,2023,W,COMM,196,,204,Business Communications I,Kari Marken,29,74.5,,82.0,0.0,1,0,0,0,0,2,4,12,9,0,0,77.5,80.0,75.8
+UBCV,2023,W,COMM,196,,205,Business Communications I,Kari Marken,26,77.2,,83.0,71.0,0,0,0,0,0,1,5,13,7,0,0,76.0,79.5,76.0
+UBCV,2023,W,COMM,389,,201,Creativity in Business,Kari Marken,31,80.5,,86.0,70.0,0,0,0,0,0,1,2,4,19,5,0,81.0,82.0,80.0

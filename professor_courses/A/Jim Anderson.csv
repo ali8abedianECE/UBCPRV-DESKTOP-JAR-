@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LLED,310,,104,INTR EL RD & LA,"Anderson, Jim",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,LLED,556,,62A,TH&RES EARLY LIT,"Anderson, Jim",24,84.92,3.45,95,80,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,13,2
+UBC,2002,W,LLED,557,,061,FAM LIT,"Anderson, Jim",19,84.39,3.6,92,80,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7,2
+UBC,2005,W,LLED,310,,104,INTR EL RD & LA,"Anderson, Jim",30,,,,,0,0,1,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,LLED,557,,062,FAM LIT,"Anderson, Jim",13,84.31,6.45,90,65,13,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,10,1
+UBC,2007,W,ECED,585,A,051,RES EARLY CHLDHD,"Anderson, Jim",9,84.11,4.26,90,77,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,1
+UBC,2007,W,LLED,310,,104,INTR EL RD & LA,"Anderson, Jim",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,LLED,441,,221,INTR TCH CH LIT,"Anderson, Jim;MOFFATT, LYNDSAY",23,87.91,2.81,94,82,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,5
+UBC,2007,W,LLED,557,,061,FAM LIT,"Anderson, Jim",16,85.6,4.17,95,75,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,10,2
+UBC,2009,S,LLED,456,A,951,ID LRNR LIT DIFF,"Anderson, Jim",15,86,1.31,88,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0
+UBC,2009,S,LLED,565,E,951,SP CRS SBJCT FLD,"Anderson, Jim",7,88.71,1.6,91,87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3
+UBC,2009,W,LLED,557,,062,FAM LIT,"Anderson, Jim",15,86.53,3.42,95,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,3
+UBC,2010,W,LLED,456,B,001,ID LRNR LIT DIFF,"Anderson, Jim",10,87.9,5.09,95,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4
+UBC,2010,W,LLED,565,D,062,SP CRS SBJCT FLD,"Anderson, Jim",7,86.43,2.44,90,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2
+UBC,2012,W,LLED,557,,061,FAM LIT,"Anderson, Jim",9,88.44,2.3,93,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3
+UBC,2012,W,LLED,557,,62A,FAM LIT,"Anderson, Jim",17,87.47,3.74,92,75,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12,4
+UBC,2013,S,LLED,556,A,952,TH&RES EARLY LIT,"Anderson, Jim",12,88.08,2.68,92,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4
+UBC,2013,W,LLED,590,,61A,GRADUATING PAPER,"Anderson, Jim;McTavish, Marianne",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,LLED,590,,62A,GRADUATING PAPER,"Anderson, Jim;McTavish, Marianne",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,LLED,456,A,002,ID LRNR LIT DIFF,"Anderson, Jim",5,88.2,1.64,90,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2014,W,LLED,556,A,61A,TH&RES EARLY LIT,"Anderson, Jim",19,84.26,2.64,90,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,2
+UBC,2014,W,LLED,565,B,061,SP CRS SBJCT FLD,"Anderson, Jim",7,88.33,1.97,90,86,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2014,W,LLED,601,,061,THR LNG&LIT RSRC,"Anderson, Jim",10,90.3,3.53,98,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6
+UBC,2015,W,LLED,557,,061,FAM LIT,"Anderson, Jim",21,86.9,4.01,94,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,7
+UBC,2015,W,LLED,557,,62A,FAM LIT,"Anderson, Jim",19,86.16,2.12,90,81,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,2
+UBC,2015,W,LLED,601,,061,THR LNG&LIT RSRC,"Anderson, Jim",8,89.5,2.07,94,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2017,W,ECED,585,A,052,RES EARLY CHLDHD,"Anderson, Jim",9,86.89,2.03,90,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1
+UBC,2017,W,LLED,350,,102,CLSRM DISCRS ELM,"Anderson, Jim",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,LLED,459,,63C,TRND ISS RDG INS,"Anderson, Jim",26,89.27,2.24,95,83,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,16
+UBC,2017,W,LLED,557,,061,FAM & COMM LIT,"Anderson, Jim",9,85.56,3.09,90,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,2
+UBC,2018,W,LLED,459,,63C,TRND ISS RDG INS,"Anderson, Jim",28,88,1.88,94,85,26,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,5
+UBC,2018,W,LLED,556,A,62A,TH&RES EARLY LIT,"Anderson, Jim",21,87.67,2.63,93,83,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,6
+UBCV,2014,W,LLED,456,A,002,Identifying and Supporting Learners with Literacy Difficulties,Jim Anderson,5,88.2,1.643167673,90.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,LLED,556,A,61A,Theory and Research in Early Literacy,Jim Anderson,19,84.2631579,2.642433753,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,8,2
+UBCV,2014,W,LLED,565,B,061,Special Course in Subject Matter Field,Jim Anderson,6,88.33333333,1.966384161,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,LLED,601,,061,Theories for Language and Literacy Research,Jim Anderson,10,90.3,3.529242915,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,6
+UBCV,2015,W,LLED,557,,061,Family Literacy: Issues and Perspectives,Jim Anderson,21,86.904761905,4.011293581,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,7
+UBCV,2015,W,LLED,557,,62A,Family Literacy: Issues and Perspectives,Jim Anderson,19,86.157894737,2.115108558,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,16,2
+UBCV,2015,W,LLED,601,,061,Theories for Language and Literacy Research,Jim Anderson,8,89.5,2.070196678,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2017,W,ECED,585,A,052,Advanced Seminar on Research in Early Childhood Education,Jim Anderson,9,86.888888889,2.02758751,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,1
+UBCV,2017,W,LLED,459,,63C,Trends and Issues in Literacy Instruction,Jim Anderson,26,89.269230769,2.237099771,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,16
+UBCV,2017,W,LLED,557,,061,Family and Community Literacy: Issues and Perspectives,Jim Anderson,9,85.555555556,3.086709863,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,3,2
+UBCV,2018,W,LLED,459,,63C,Trends and Issues in Literacy Instruction,Jim Anderson,26,88.0,1.876166304,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,21,5
+UBCV,2018,W,LLED,556,A,62A,Theory and Research in Early Literacy,Jim Anderson,21,87.666666667,2.633122354,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,13,6
+UBCV,2019,W,LLED,459,,63C,Trends and Issues in Literacy Instruction,Amber Moore;Jim Anderson,19,93.631578947,3.303374139,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,18
+UBCV,2019,W,LLED,556,A,62A,Theory and Research in Early Literacy,Guofang Li;Jim Anderson,16,95.125,2.125245084,98.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16

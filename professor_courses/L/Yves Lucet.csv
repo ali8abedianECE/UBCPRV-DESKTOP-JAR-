@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,COSC,222,,001,Data Structures,Yves Lucet,61,73.14754098,14.50153563,93.0,37.0,10,,,,,5,6,9,19,8,,,,
+UBCO,2014,W,COSC,303,,001,Numerical Analysis,Yves Lucet,13,73.61538462,18.25987615,92.0,45.0,,,,,,,,,,,,,,
+UBCO,2014,W,COSC,406,,001,Numerical Optimization,Hui Ma;Yves Lucet,18,72.55555556,15.61003532,100.0,29.0,,,,,,5,,,,,,,,
+UBCO,2014,W,IGS,540,N,001,Special Topics in Optimization,Yves Lucet,8,79.0,32.96751648,99.0,0.0,,,,,,,,,,,5,,,
+UBCO,2015,W,COSC,222,,001,Data Structures,Yves Lucet,77,74.272727273,13.459135387,93.0,40.0,10,,,,,7,10,14,21,9,,,,
+UBCO,2016,W,COSC,222,,001,Data Structures,Anthony Culos;Deepak Kumar;Hui Ma;Mahdi Aziz;Yves Lucet;Zifang Jiang,78,78.43589744,12.70401281,95.0,42.0,7,0,0,2,1,2,10,4,25,19,8,,,
+UBCO,2017,W,STAT,400,,101,Statistical Communication and Consulting,Jason Loeppky;Yves Lucet,9,86.555555556,5.387743292,93.0,76.0,0,0,0,0,0,0,0,1,2,4,2,,,
+UBCO,2018,W,COSC,222,,001,Data Structures,Anupreet Januhen;Chaoping Guo;Kai Neubauer;Mayeesha Mariam;Yves Lucet,150,80.366666667,10.400965796,95.0,36.0,6,0,0,3,5,6,9,19,43,40,19,,,
+UBCO,2018,W,COSC,223,,001,"Principle of Computing: Logic, Discrete Structure, and Data Structure",Chaoping Guo;Deepak Kumar;Yves Lucet;Zhenyuan Ma,17,83.176470588,7.282129617,95.0,68.0,0,0,0,0,0,2,1,0,7,4,3,,,
+UBCO,2019,W,COSC,406,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,11,79.090909091,18.93385616,97.0,36.0,1,0,1,0,0,1,0,2,2,0,4,,,
+UBCO,2019,W,COSC,506,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,6,93.333333333,7.033254344,100.0,81.0,0,0,0,0,0,0,0,0,1,0,5,,,
+UBCO,2020,W,COSC,406,,101,Numerical Optimization,Ayazhan Akhmet;Yves Lucet,9,91.222222222,3.597838857,96.0,86.0,0,0,0,0,0,0,0,0,0,4,5,,,
+UBCO,2020,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Congsong Zhang;Mohamad Khajezade;Mohammad Hadi;Pradeep Mahato;Reece Walsh;Yves Lucet,88,74.738636364,14.811066318,98.0,21.0,5,3,4,2,8,6,11,8,14,18,9,,,
+UBCO,2020,W,COSC,506,,101,Numerical Optimization,Ayazhan Akhmet;Yves Lucet,8,93.0,5.855400438,98.0,80.0,0,0,0,0,0,0,0,0,1,0,7,,,
+UBCO,2020,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Yiming Ding;Yves Lucet,31,96.806451613,3.691606288,100.0,79.0,0,0,0,0,0,0,0,1,0,0,30,,,
+UBCO,2021,W,COSC,407,,101,Introduction to Parallel Computing,Devon Macneil;Islam Osman;Pradeep Mahato;Reece Walsh;Scott Fazackerley;Yves Lucet,80,72.6,16.731384895,98.0,26.0,9,3,2,7,5,7,8,5,13,10,11,,,
+UBCO,2021,W,COSC,490,,101,Student-Directed Seminar,Yves Lucet,12,92.583333333,2.574643253,95.0,89.0,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCO,2021,W,COSC,520,,001,Advanced Algorithms,Yves Lucet,9,88.333333333,3.905124838,96.0,82.0,0,0,0,0,0,0,0,0,1,6,2,,,
+UBCO,2021,W,DATA,534,,101,Web and Cloud Computing,Corey Bond;Yves Lucet,30,95.2,3.315584933,100.0,87.0,0,0,0,0,0,0,0,0,0,2,28,,,
+UBCO,2021,W,COSC,490,,101,Student-Directed Seminar,Yves Lucet,12,92.6,,95.0,89.0,,,,,,,,,,,9,94.0,95.0,90.5
+UBCO,2021,W,COSC,520,,001,Advanced Algorithms,Yves Lucet,9,88.3,,96.0,82.0,,,,,,,,,,6,,88.0,89.0,87.0
+UBCO,2021,W,DATA,534,,101,Web and Cloud Computing,Yves Lucet,30,95.2,,100.0,87.0,,,,,,,,,,,28,95.5,98.0,93.0
+UBCO,2022,W,COSC,222,,001,Data Structures,Yves Lucet,212,76.0,,93.0,38.0,16,3,3,6,8,12,29,36,48,42,9,79.0,84.0,73.0
+UBCO,2022,W,COSC,490,,101,Student-Directed Seminar,Yves Lucet,15,89.3,,90.0,88.0,0,0,0,0,0,0,0,0,0,7,8,90.0,90.0,88.5
+UBCO,2022,W,COSC,520,,001,Advanced Algorithms,Yves Lucet,14,90.2,,98.0,80.0,0,0,0,0,0,0,0,0,2,3,9,90.5,93.5,89.0
+UBCO,2023,W,COSC,222,,001,Data Structures,Yves Lucet,216,76.4,,97.0,4.0,14,3,3,6,16,8,18,44,43,35,23,79.0,85.0,72.0
+UBCO,2023,W,COSC,407,,101,Introduction to Parallel Computing,Yves Lucet,120,71.7,,91.0,9.0,9,1,2,4,11,16,22,20,18,10,1,74.0,79.8,68.0
+UBCO,2023,W,COSC,507,,101,Parallel Computing,Yves Lucet,8,84.5,,91.0,70.0,0,0,0,0,0,1,0,1,1,3,2,87.5,89.5,81.5
+UBCO,2023,W,DATA,585,,101,Optimization,Yves Lucet,40,94.0,,98.0,81.0,0,0,0,0,0,0,0,0,1,4,35,95.0,96.0,93.0

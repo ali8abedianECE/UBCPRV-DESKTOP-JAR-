@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,COMM,296,,107,INTRO MARKETING,"Vaughan, Jarrett",57,74.67,6.05,85,57,57,0,0,0,0,0,0,0,0,0,0,0,2,0,4,10,10,21,8,2,0,,,
+UBC,2016,W,COMM,296,,203,INTRO MARKETING,"Vaughan, Jarrett",50,75.14,5.56,85,62,50,0,0,0,0,0,0,0,0,0,0,0,0,2,3,10,12,10,11,2,0,,,
+UBC,2017,W,COMM,465,,101,MARKETING MGMT,"Vaughan, Jarrett",96,74.99,7.81,88,47,94,1,1,0,0,0,0,0,0,1,1,0,3,3,5,16,17,18,24,8,0,,,
+UBC,2018,W,COMM,386,U,101,TPCS BUSINESS 3,"Vaughan, Jarrett",41,78.05,6.31,90,63,41,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,4,11,13,4,1,,,
+UBC,2018,W,COMM,465,,101,MARKETING MGMT,"Vaughan, Jarrett",88,75.94,7.48,90,58,87,0,1,0,0,0,0,0,0,0,0,0,5,4,4,5,15,25,21,7,1,,,
+UBCV,2016,W,COMM,296,,107,Introduction to Marketing,Benjamin Paul Sampson;Benjamin Sampson;Jarrett Brian Vaughan;Jarrett Vaughan,57,74.66666667,6.054317625,85.0,57.0,,,,,,,,,,,0,0,2,0,4,10,10,21,8,2,0,,,
+UBCV,2016,W,COMM,296,,203,Introduction to Marketing,Benjamin Sampson;Jarrett Brian Vaughan;Jarrett Vaughan,50,75.14,5.558629988,85.0,62.0,,,,,,,,,,,0,0,0,2,3,10,12,10,11,2,0,,,
+UBCV,2017,W,COMM,296,,203,Introduction to Marketing,Hannah Chiang;Jarrett Vaughan;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu,60,76.466666667,8.137518605,89.0,53.0,,,,,,,,,,,0,1,2,1,7,1,11,11,19,7,0,,,
+UBCV,2017,W,COMM,465,,101,Marketing Management,James Gilbert;James John Gilbert;Jarrett Vaughan,95,74.989473684,7.809561429,88.0,47.0,,,,,,,,,,,1,0,3,3,5,16,17,18,24,8,0,,,
+UBCV,2018,W,COMM,386,U,101,Topics in Business III,Jarrett Vaughan;Shirali Desai,41,78.048780488,6.312492454,90.0,63.0,,,,,,,,,,,0,0,0,1,3,4,4,11,13,4,1,,,
+UBCV,2018,W,COMM,465,,101,Marketing Management,Jarrett Vaughan;Shirali Desai,87,75.942528736,7.479205781,90.0,58.0,,,,,,,,,,,0,0,5,4,4,5,15,25,21,7,1,,,
+UBCV,2019,W,COMM,296,,204,Introduction to Marketing,James Gilbert;James John Gilbert;Jarrett Vaughan;Kirstin Appelt;Shen Chen,42,71.666666667,5.457895005,84.0,60.0,,,,,,,,,,,0,0,0,4,6,9,14,6,3,0,0,,,
+UBCV,2019,W,COMM,296,,205,Introduction to Marketing,James Gilbert;James John Gilbert;Jarrett Vaughan;Kirstin Appelt;Shen Chen,54,74.907407407,6.437708835,88.0,61.0,,,,,,,,,,,0,0,0,3,3,11,9,15,9,4,0,,,
+UBCV,2019,W,COMM,386,U,101,Topics in Business III,Isabella Ghement;Jarrett Vaughan;Shen Chen,43,75.511627907,12.373882043,92.0,33.0,,,,,,,,,,,2,1,0,3,2,2,5,8,11,8,1,,,
+UBCV,2019,W,COMM,465,,101,Marketing Management,Jarrett Vaughan;Shen Chen,66,74.606060606,9.390467815,92.0,32.0,,,,,,,,,,,1,0,1,6,4,10,13,9,13,7,2,,,
+UBCV,2020,W,COMM,296,,101,Introduction to Marketing,Jarrett Vaughan;Kate Dempsey;So Eun Park,61,76.590163934,9.796899253,95.0,14.0,,,,,,,,,,,1,0,0,1,0,5,15,22,10,6,1,,,
+UBCV,2020,W,COMM,296,,102,Introduction to Marketing,Jarrett Vaughan;Kate Dempsey;So Eun Park,60,75.166666667,6.051100661,87.0,63.0,,,,,,,,,,,0,0,0,1,7,7,17,13,11,4,0,,,
+UBCV,2020,W,COMM,296,,105,Introduction to Marketing,Jarrett Vaughan;Laurie Grant;Olivia Rinaldo,60,73.683333333,6.907357087,90.0,59.0,,,,,,,,,,,0,0,1,2,9,12,13,12,6,4,1,,,
+UBCV,2020,W,COMM,296,,204,Introduction to Marketing,Jarrett Vaughan;Kate Dempsey;Olivia Rinaldo;Yi Kai Wu,45,73.377777778,5.9440149,83.0,58.0,,,,,,,,,,,0,0,1,3,4,7,11,13,6,0,0,,,
+UBCV,2020,W,COMM,296,,205,Introduction to Marketing,Jarrett Vaughan;Kate Dempsey;Olivia Rinaldo,46,74.586956522,6.803842336,85.0,50.0,,,,,,,,,,,0,1,0,1,6,4,9,11,13,1,0,,,
+UBCV,2020,W,COMM,386,U,101,Topics in Business III,Jarrett Vaughan;Kate Dempsey,40,74.175,8.866206369,86.0,50.0,,,,,,,,,,,0,1,3,1,3,1,11,6,10,4,0,,,
+UBCV,2020,W,COMR,465,,101,Marketing Management,Jarrett Vaughan;Olivia Rinaldo,46,69.869565217,14.437002914,88.0,0.0,,,,,,,,,,,2,1,3,6,2,4,12,7,6,3,0,,,
+UBCV,2021,W,COMM,296,,101,Introduction to Marketing,Antoine Van Der Meulen;Eric Venis;Jarrett Vaughan,60,72.3,8.950523136,86.0,37.0,,,,,,,,,,,1,2,3,4,4,6,15,16,6,3,0,,,
+UBCV,2021,W,COMM,296,,102,Introduction to Marketing,Antoine Van Der Meulen;Eric Venis;Jarrett Vaughan,60,74.266666667,8.894612093,84.0,27.0,,,,,,,,,,,2,0,1,0,1,10,16,16,14,0,0,,,
+UBCV,2021,W,COMM,296,,105,Introduction to Marketing,Aakash Maitreya;Jarrett Vaughan;Yi Kai Wu,47,72.680851064,7.515509711,90.0,55.0,,,,,,,,,,,0,0,3,2,5,13,8,9,3,3,1,,,
+UBCV,2021,W,COMM,296,,204,Introduction to Marketing,Alycia Berg;Jarrett Vaughan;Jenny Dickson;Sydney Cristall,60,78.05,7.587735421,90.0,61.0,,,,,,,,,,,0,0,0,1,4,7,11,7,14,11,5,,,
+UBCV,2021,W,COMM,296,,205,Introduction to Marketing,Alycia Berg;Jarrett Vaughan;Jenny Dickson;Sydney Cristall,59,76.915254237,8.973693615,91.0,50.0,,,,,,,,,,,0,3,0,1,1,5,9,14,14,8,4,,,
+UBCV,2021,W,COMM,296,,206,Introduction to Marketing,Eric Venis;Jarrett Vaughan;Jenny Dickson,53,70.886792453,8.287294208,86.0,48.0,,,,,,,,,,,1,1,5,3,4,11,11,11,4,2,0,,,
+UBCV,2021,W,COMM,296,,207,Introduction to Marketing,Eric Venis;Jarrett Vaughan;Jenny Dickson;So Eun Park,58,75.775862069,8.883343577,90.0,54.0,,,,,,,,,,,0,1,1,7,1,5,7,14,12,8,2,,,
+UBCV,2021,W,COMM,386,U,101,Topics in Business III,Aakash Maitreya;Jarrett Vaughan;Yi Kai Wu,38,73.052631579,11.101369208,88.0,41.0,,,,,,,,,,,2,1,1,0,4,7,7,3,8,5,0,,,
+UBCV,2021,W,COMR,465,,101,Marketing Management,Jarrett Vaughan;Jennifer Tsang;Rui Jorge Basto Da Silva,52,77.634615385,9.4537654,90.0,31.0,,,,,,,,,,,1,0,1,1,0,5,9,9,16,7,3,,,
+UBCV,2021,W,COMR,465,,203,Marketing Management,Antoine Van Der Meulen;Jarrett Vaughan;Phaedra Burke,36,75.25,8.469693872,92.0,55.0,,,,,,,,,,,0,0,1,2,2,5,10,8,3,2,3,,,
+UBCV,2021,W,COMM,296,,101,Introduction to Marketing,Jarrett Vaughan,60,72.8,,86.0,53.0,,,,,,,,,,,,,,,,6,15,16,6,,,74.0,78.0,68.8
+UBCV,2021,W,COMM,296,,102,Introduction to Marketing,Jarrett Vaughan,60,74.8,,84.0,45.0,,,,,,,,,,,,,,,,10,16,16,14,,,75.5,79.0,72.0
+UBCV,2021,W,COMM,296,,105,Introduction to Marketing,Jarrett Vaughan,47,72.7,,90.0,55.0,,,,,,,,,,,,,,,,13,8,9,,,,73.0,77.0,68.5
+UBCV,2021,W,COMM,296,,206,Introduction to Marketing,Jarrett Vaughan,53,71.8,,86.0,52.0,,,,,,,,,,,,,,,,11,11,13,,,,73.0,76.0,68.0
+UBCV,2021,W,COMM,296,,207,Introduction to Marketing,Jarrett Vaughan,58,75.8,,90.0,54.0,,,,,,,,,,,,,,7,,,7,14,12,8,,77.0,82.0,71.3
+UBCV,2021,W,COMM,386,U,101,Topics in Business III,Jarrett Vaughan,38,73.4,,88.0,41.0,,,,,,,,,,,,,,,,7,7,,8,,,74.0,81.0,68.0
+UBCV,2021,W,COMR,465,,203,Marketing Management,Jarrett Vaughan,36,75.3,,92.0,55.0,,,,,,,,,,,,,,,,,10,8,,,,75.0,79.0,71.0
+UBCV,2022,W,COMM,296,,101,Introduction to Marketing,Jarrett Vaughan,48,73.2,,85.0,35.0,,,,,,,,,,,1,0,1,2,7,7,9,9,10,2,0,74.0,79.3,68.0
+UBCV,2022,W,COMM,296,,102,Introduction to Marketing,Jarrett Vaughan,57,76.5,,86.0,64.0,,,,,,,,,,,0,0,0,0,4,8,13,12,15,5,0,77.0,80.0,72.0
+UBCV,2022,W,COMM,296,,207,Introduction to Marketing,Jarrett Vaughan,34,73.9,,85.0,57.0,,,,,,,,,,,0,0,2,4,2,5,3,6,11,1,0,76.5,80.0,70.0
+UBCV,2022,W,COMM,296,,208,Introduction to Marketing,Jarrett Vaughan,41,75.0,,92.0,30.0,,,,,,,,,,,1,0,1,2,3,5,7,8,8,4,2,76.0,81.0,70.0
+UBCV,2022,W,COMM,386,U,101,Topics in Business III,Jarrett Vaughan,40,73.5,,87.0,44.0,,,,,,,,,,,1,0,0,2,4,6,10,12,4,1,0,75.0,78.0,70.0
+UBCV,2022,W,COMR,465,,101,Marketing Management,Jarrett Vaughan,41,74.4,,89.0,54.0,,,,,,,,,,,0,1,0,0,4,9,10,9,5,3,0,75.0,79.0,70.0
+UBCV,2022,W,COMR,465,,203,Marketing Management,Jarrett Vaughan,40,74.7,,87.0,60.0,,,,,,,,,,,0,0,0,1,6,5,9,10,4,5,0,74.5,78.3,69.0
+UBCV,2023,W,COMM,296,,101,Introduction to Marketing,Jarrett Vaughan,47,71.6,,87.0,55.0,,,,,,,,,,,0,0,3,3,11,6,8,8,6,2,0,72.0,78.5,66.0
+UBCV,2023,W,COMM,296,,102,Introduction to Marketing,Jarrett Vaughan,56,74.8,,89.0,53.0,,,,,,,,,,,0,1,0,1,8,7,13,7,15,4,0,74.5,81.0,70.0
+UBCV,2023,W,COMM,296,,201,Introduction to Marketing,Jarrett Vaughan,19,71.0,,87.0,40.0,,,,,,,,,,,2,1,1,0,1,3,3,0,5,3,0,75.0,81.0,66.5
+UBCV,2023,W,COMM,296,,202,Introduction to Marketing,Jarrett Vaughan,51,74.2,,92.0,4.0,,,,,,,,,,,2,1,0,0,3,10,8,7,10,7,3,77.0,83.0,71.0
+UBCV,2023,W,COMM,296,,205,Introduction to Marketing,Jarrett Vaughan,51,74.9,,88.0,22.0,,,,,,,,,,,1,1,0,3,4,6,6,11,13,5,0,77.5,82.0,71.0
+UBCV,2023,W,COMM,296,,206,Introduction to Marketing,Jarrett Vaughan,52,73.2,,90.0,54.0,,,,,,,,,,,0,1,4,3,3,7,13,9,7,3,1,75.0,78.5,69.5
+UBCV,2023,W,COMM,386,U,101,Topics in Business III,Jarrett Vaughan,43,77.5,,88.0,68.0,,,,,,,,,,,0,0,0,0,0,4,13,13,7,6,0,78.0,80.5,74.0
+UBCV,2023,W,COMR,465,,101,Marketing Management,Jarrett Vaughan,46,75.3,,90.0,55.0,,,,,,,,,,,0,0,3,2,4,4,7,9,10,5,1,76.0,83.0,69.0
+UBCV,2023,W,COMR,465,,203,Marketing Management,Jarrett Vaughan,34,73.3,,90.0,50.0,,,,,,,,,,,0,1,1,1,6,8,4,3,5,4,1,71.5,80.8,67.5

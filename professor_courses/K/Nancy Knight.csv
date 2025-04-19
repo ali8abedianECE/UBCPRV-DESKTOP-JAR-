@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,PLAN,548,A,001,CURRENT ISSUES,"Knight, Nancy;Pecarski, Randy",20,81.84,2.83,87,76,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,4,0
+UBC,2015,W,PLAN,548,A,001,CURRENT ISSUES,"Knight, Nancy;Pecarski, Randy",23,86.27,3.74,93,80,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,4
+UBC,2015,W,PLAN,548,X,001,CURRENT ISSUES,"Cameron, Kenneth;Knight, Nancy",6,81.33,5.2,87,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0
+UBC,2016,W,PLAN,548,A,001,CURRENT ISSUES,"Knight, Nancy;Pecarski, Randy",5,86.25,2.06,88,84,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBCV,2014,W,PLAN,548,A,001,Current Issues in Planning,Nancy Knight;Randy Pecarski,19,81.84210526,2.83359132,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,12,,0
+UBCV,2015,W,PLAN,548,A,001,Current Issues in Planning,Nancy Knight;Randy Pecarski,22,86.272727273,3.743970622,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,9,4
+UBCV,2015,W,PLAN,548,X,001,Current Issues in Planning,Kenneth Cameron;Nancy Knight,6,81.333333333,5.202563471,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0

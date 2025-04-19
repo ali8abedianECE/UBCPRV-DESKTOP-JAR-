@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",52,77.08,11.92,93,37,48,3,1,0,0,0,0,0,1,2,3,0,0,2,3,4,5,10,9,11,4
+UBC,2009,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",132,80.05,10.58,96,45,125,4,3,0,0,0,0,0,0,4,4,4,0,0,2,9,12,17,30,33,18
+UBC,2009,W,EOSC,118,,99C,GOLD & GEMS,"Turner, David",222,80.08,12.66,96,15,212,7,1,0,2,0,2,1,0,4,7,5,1,3,6,11,22,29,43,54,38
+UBC,2010,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",106,79.95,13.03,98,32,95,4,6,0,1,0,0,0,3,1,4,4,0,1,2,2,9,14,22,22,19
+UBC,2010,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",329,82.82,10.9,97,37,312,6,5,1,2,0,0,0,3,3,6,8,1,5,7,12,20,17,63,92,87
+UBC,2010,W,EOSC,118,,99C,GOLD & GEMS,"Turner, David",605,80.43,13.03,99,0,570,16,6,0,5,1,0,2,7,6,16,24,4,11,14,32,35,65,125,136,124
+UBC,2011,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",255,76.65,13.65,98,26,223,16,8,0,6,0,0,1,3,12,16,11,1,1,11,12,29,38,50,42,28
+UBC,2011,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",299,76.98,12.39,99,34,272,11,8,0,4,0,0,0,5,6,11,16,0,3,10,23,35,51,66,37,31
+UBC,2011,W,EOSC,118,,99B,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",142,76.32,13.24,98,35,126,9,3,0,0,0,0,0,3,6,9,5,1,2,3,9,17,21,27,32,9
+UBC,2011,W,EOSC,118,,99C,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",305,77.57,13.2,100,30,275,11,4,0,4,0,0,0,6,5,11,9,6,3,16,31,30,40,53,39,48
+UBC,2011,W,EOSC,118,,99D,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",327,76.44,12.98,100,30,296,12,6,0,5,0,0,0,5,7,12,11,4,10,20,29,43,47,47,44,41
+UBC,2011,W,EOSC,118,,99E,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",107,70.3,15.29,98,31,86,12,2,0,5,0,0,0,4,8,12,6,3,5,9,11,14,10,10,9,9
+UBC,2011,W,EOSC,118,,GIS,GOLD & GEMS,"Turner, David",5,71,14.14,81,51,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0
+UBC,2012,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",236,74.79,14.35,100,0,212,10,6,0,3,1,0,0,2,7,10,13,6,9,16,24,30,20,38,26,30
+UBC,2012,S,EOSC,118,,GIS,GOLD & GEMS,"Turner, David",9,68.13,19.39,86,36,6,2,0,0,1,0,0,0,1,1,2,0,0,1,0,0,1,1,2,1,0
+UBC,2012,W,EOSC,118,,99A,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",196,73.77,14.47,96,0,176,11,4,0,0,1,0,2,4,4,11,8,5,3,11,26,29,28,23,27,16
+UBC,2012,W,EOSC,118,,99B,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",222,71.31,14.7,100,18,189,19,2,0,0,0,1,2,3,13,19,10,2,12,20,30,30,25,25,19,16
+UBC,2012,W,EOSC,118,,99C,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",228,71.76,18.1,100,0,196,19,6,1,1,3,1,3,7,5,19,18,7,1,15,24,24,28,27,28,24
+UBC,2012,W,EOSC,118,,99D,GOLD & GEMS,"Dzikowski, Tashia;Turner, David",274,72,16.34,100,20,241,24,2,0,1,0,0,1,9,14,24,26,5,10,21,32,28,27,28,23,41
+UBC,2013,W,EOSC,118,,99A,GOLD & GEMS,"Cempirek, Jan;Turner, David",155,67.53,18.08,99,0,126,19,6,0,0,2,1,3,4,9,19,11,5,7,12,17,20,16,19,13,6
+UBC,2013,W,EOSC,118,,99B,GOLD & GEMS,"Cempirek, Jan;Turner, David",141,78.77,12.14,100,35,131,3,1,0,0,0,0,0,2,1,3,4,0,3,9,13,16,18,20,24,24
+UBC,2013,W,EOSC,118,,99C,GOLD & GEMS,"Cempirek, Jan;Turner, David",189,73.09,15.59,98,0,161,16,4,0,2,1,0,0,10,5,16,7,5,4,13,12,31,21,34,17,17
+UBC,2013,W,EOSC,118,,99D,GOLD & GEMS,"Cempirek, Jan;Turner, David",156,73.83,12.54,97,31,140,5,2,0,1,0,0,0,4,1,5,9,1,11,7,20,18,25,22,16,11
+UBC,2014,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",177,70.07,13.09,91,24,158,9,2,0,4,0,0,2,5,2,9,17,3,4,23,23,25,24,22,16,1
+UBC,2014,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",262,72.74,13.56,96,25,221,16,6,0,4,0,0,1,6,9,16,11,3,12,21,33,36,25,36,25,19
+UBC,2014,W,EOSC,118,,99C,GOLD & GEMS,"Turner, David",326,73.72,13.41,96,28,290,20,7,0,4,0,0,1,8,11,20,16,5,7,19,41,40,47,52,41,22
+UBC,2015,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",156,72.79,15.34,98,34,128,14,5,0,6,0,0,0,8,6,14,7,3,4,10,15,20,18,20,13,18
+UBC,2015,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",268,75.44,15.41,100,0,232,15,11,0,0,3,0,1,3,8,15,5,8,12,19,15,27,33,36,46,31
+UBC,2015,W,EOSC,118,,99C,GOLD & GEMS,"Turner, David",310,76.24,15.99,100,0,269,15,6,0,5,4,1,0,2,8,15,9,2,13,15,40,25,18,55,39,53
+UBC,2016,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",181,74.81,15.75,100,0,159,9,3,0,6,2,0,1,0,6,9,10,3,6,10,16,20,18,33,21,22
+UBC,2016,W,EOSC,118,,99A,GOLD & GEMS,"Turner, David",298,73.69,15.86,100,0,265,21,3,0,0,3,0,0,8,10,21,11,8,13,20,35,33,25,51,34,35
+UBC,2016,W,EOSC,118,,99C,GOLD & GEMS,"Turner, David",324,66.19,18.66,100,0,248,46,13,0,4,8,0,1,12,25,46,20,15,18,30,28,37,39,24,18,19
+UBC,2017,S,EOSC,118,,98A,GOLD & GEMS,"Turner, David",132,68.86,21.08,100,0,96,18,5,0,4,3,1,1,3,10,18,7,8,4,9,10,11,5,12,17,13
+UBCV,2014,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner,169,69.23076923,15.25029274,91.0,7.0,,,,,,,,,,,12,16,,,22,22,27,23,23,16,
+UBCV,2014,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,David Turner,255,72.0627451,14.16313781,96.0,23.0,,,,,,,,,,,20,11,4,12,24,36,38,27,39,25,19
+UBCV,2014,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Cody Steven;Dana Caudle;David Turner;Luke Hilchie;Noorbakhsh Houman,316,73.42088608,14.0069169,96.0,0.0,,,,,,,,,,,21,17,5,8,19,42,40,47,54,41,22
+UBCV,2015,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner,151,70.02649007,20.71487292,98.0,0.0,,,,,,,,,,,20,7,3,5,10,15,20,18,20,14,19
+UBCV,2015,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Cody Steven;Dana Caudle;David Turner;Marie Turnbull,257,75.610894942,15.211155638,100.0,0.0,,,,,,,,,,,15,5,8,12,20,15,28,36,39,46,33
+UBCV,2015,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Dana Caudle;David Turner;Donald Lake;Erika Schmidt,299,76.260869565,15.697181829,100.0,0.0,,,,,,,,,,,15,9,2,15,16,40,27,23,57,41,54
+UBCV,2016,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner;Erika Schmidt;Luke Hilchie,172,74.93604651,15.59507654,100.0,0.0,,,,,,,,,,,9,10,3,6,10,16,20,20,35,21,22
+UBCV,2016,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Ashley Davidson;David Turner;Emily Don Scribner;Emily Scribner;Samuel Cantor;Timothy Hayward,295,73.3559322,15.82188563,100.0,0.0,,,,,,,,,,,22,12,9,14,21,37,34,26,51,34,35
+UBCV,2016,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Ashley Davidson;David Turner;Emily Don Scribner;Emily Scribner;Lauren Harrison;Michael Mitchell,307,65.92508143,18.5064268,100.0,0.0,,,,,,,,,,,49,22,15,19,32,29,40,40,24,18,19
+UBCV,2017,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Erica Tso;Megan B. Russell;Megan Russell,123,68.577235772,20.676670995,100.0,0.0,,,,,,,,,,,20,7,8,5,10,12,13,5,12,17,14
+UBCV,2017,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Luke Hilchie;Nari Sim,247,72.190283401,15.931261986,100.0,0.0,,,,,,,,,,,19,17,10,14,13,28,29,21,44,28,24
+UBCV,2017,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Jinfeng Hong;Michael Mitchell;Nari Sim,308,71.451298701,19.366369107,98.0,0.0,,,,,,,,,,,37,10,6,18,18,28,29,43,43,46,30
+UBCV,2018,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Jinfeng Hong;Megan B. Russell;Megan Russell;Tiera Naber,97,74.474226804,16.754410354,100.0,0.0,,,,,,,,,,,6,0,4,2,5,14,13,13,17,11,12

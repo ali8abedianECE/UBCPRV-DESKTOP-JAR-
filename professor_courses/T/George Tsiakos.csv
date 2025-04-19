@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2014,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,45,75.0,2.804217603,81.0,64.0,0,0,0,0,,,25,14,,0,0,,,
+UBCV,2014,W,LAW,281,,003,Legal Research and Writing,George Tsiakos,45,74.97777778,2.444742865,82.0,70.0,0,0,0,0,0,,23,16,,0,0,,,
+UBCV,2014,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,18,78.66666667,2.678893538,84.0,72.0,0,0,0,0,0,0,2,10,6,0,0,,,
+UBCV,2014,W,LAW,430,,002,Advanced Legal Research,George Tsiakos,15,78.33333333,4.029652,84.0,67.0,0,0,0,0,,,,6,7,0,0,,,
+UBCV,2014,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,14,79.07142857,1.859043828,83.0,76.0,0,0,0,0,0,0,0,9,5,0,0,,,
+UBCV,2015,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,44,74.977272727,2.636846569,80.0,68.0,0,0,0,0,0,5,15,23,1,0,0,,,
+UBCV,2015,W,LAW,281,,003,Legal Research and Writing,George Tsiakos,45,74.933333333,1.801514514,80.0,71.0,0,0,0,0,0,3,26,15,1,0,0,,,
+UBCV,2015,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,18,78.611111111,1.649915823,83.0,76.0,0,0,0,0,0,0,0,14,4,0,0,,,
+UBCV,2015,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,19,78.684210526,1.916380604,83.0,75.0,0,0,0,0,0,0,1,12,6,0,0,,,
+UBCV,2016,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,47,74.9787234,2.231098011,80.0,70.0,0,0,0,0,0,2,23,21,1,0,0,,,
+UBCV,2016,W,LAW,281,,002,Legal Research and Writing,George Tsiakos,44,74.97727273,1.848803967,80.0,72.0,0,0,0,0,0,0,28,14,2,0,0,,,
+UBCV,2016,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,17,78.94117647,1.434860108,83.0,77.0,0,0,0,0,0,0,0,13,4,0,0,,,
+UBCV,2016,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,19,79.31578947,1.827342684,82.0,75.0,0,0,0,0,0,0,1,8,10,0,0,,,
+UBCV,2017,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,46,74.97826087,2.752688629,80.0,66.0,0,0,0,0,1,3,17,24,1,0,0,,,
+UBCV,2017,W,LAW,281,,002,Legal Research and Writing,George Tsiakos,49,74.979591837,1.909295201,80.0,71.0,0,0,0,0,0,1,24,23,1,0,0,,,
+UBCV,2017,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,20,78.9,1.586124041,83.0,77.0,0,0,0,0,0,0,0,14,6,0,0,,,
+UBCV,2017,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,13,79.923076923,1.656378503,83.0,78.0,0,0,0,0,0,0,0,6,7,0,0,,,
+UBCV,2018,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,48,74.979166667,2.078149579,80.0,70.0,0,0,0,0,0,3,26,18,1,0,0,,,
+UBCV,2018,W,LAW,281,,002,Legal Research and Writing,George Tsiakos,47,75.021276596,2.005312094,80.0,70.0,0,0,0,0,0,2,23,21,1,0,0,,,
+UBCV,2018,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,20,78.95,1.791059669,83.0,75.0,0,0,0,0,0,0,1,12,7,0,0,,,
+UBCV,2018,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,16,80.0625,1.436140662,83.0,78.0,0,0,0,0,0,0,0,6,10,0,0,,,
+UBCV,2019,W,LAW,281,,001,Legal Research and Writing,George Tsiakos,50,72.88,10.805591901,80.0,0.0,1,0,0,0,0,8,24,16,1,0,0,,,
+UBCV,2019,W,LAW,281,,002,Legal Research and Writing,George Tsiakos,47,74.957446809,2.765921867,80.0,70.0,0,0,0,0,0,8,14,23,2,0,0,,,
+UBCV,2019,W,LAW,430,,001,Advanced Legal Research,George Tsiakos,20,78.9,2.314712668,83.0,72.0,0,0,0,0,0,0,1,10,9,0,0,,,
+UBCV,2019,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,29,80.275862069,2.901927336,85.0,74.0,0,0,0,0,0,0,4,5,19,1,0,,,
+UBCV,2020,S,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,9,81.0,1.732050808,84.0,79.0,0,0,0,0,0,0,0,2,7,0,0,,,
+UBCV,2020,W,LAW,281,,002,Legal Research and Writing,George Tsiakos,43,75.046511628,1.914275797,79.0,71.0,0,0,0,0,0,1,22,20,0,0,0,,,
+UBCV,2020,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,18,80.722222222,3.08326709,86.0,75.0,0,0,0,0,0,0,2,4,11,1,0,,,
+UBCV,2021,S,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,22,80.590909091,3.187163105,85.0,70.0,0,0,0,0,0,1,0,5,14,2,0,,,
+UBCV,2021,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,18,81.944444444,1.764760348,86.0,80.0,0,0,0,0,0,0,0,0,17,1,0,,,
+UBCV,2022,S,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,17,82.2,,86.0,80.0,0,0,0,0,0,0,0,0,15,2,0,82.0,83.0,80.0
+UBCV,2022,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,15,82.9,,86.0,80.0,0,0,0,0,0,0,0,0,11,4,0,83.0,84.5,81.0
+UBCV,2023,S,LAW,430,,001,Advanced Legal Research,George Tsiakos,18,78.11,,83.0,73.0,0,0,0,0,0,0,4,9,5,0,0,79.0,79.75,78.0
+UBCV,2023,S,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,17,82.94,,86.0,80.0,0,0,0,0,0,0,0,0,12,5,0,83.0,85.0,82.0
+UBCV,2023,W,LAW,281,,004,Legal Research and Writing,George Tsiakos,51,74.98,,81.0,70.0,0,0,0,0,0,7,22,19,3,0,0,75.0,76.0,73.0
+UBCV,2023,W,LAW,530,,001,Advanced Legal Research and Writing,George Tsiakos,28,81.68,,87.0,74.0,0,0,0,0,0,0,1,3,20,4,0,82.0,83.25,80.0

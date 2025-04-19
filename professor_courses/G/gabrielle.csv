@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,ARST,554,,001,DATABASE DESIGN,"Mooney, Gabrielle",8,90.88,4.19,95,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5
+UBC,2017,W,LIBR,554,,001,DATABASE DESIGN,"Mooney, Gabrielle",19,90.78,7.07,98,68,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,12
+UBC,2018,W,APSC,100,,101,INTRO TO ENG I,"Jaeger, Carol Patricia;Lam, Gabrielle;Ostafichuk, Peter;Potvin, Gabriel",278,78.22,7.56,96,47,272,1,0,0,5,0,0,0,0,1,1,1,2,8,12,24,37,45,88,40,15
+UBC,2018,W,APSC,100,,104,INTRO TO ENG I,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Ostafichuk, Peter",232,78.75,7.81,92,44,223,4,3,0,2,0,0,0,0,4,4,1,1,2,7,15,26,45,72,47,7
+UBC,2018,W,APSC,101,,201,INTRO TO ENG II,"Lam, Gabrielle;Nakane, Jonathan",242,73.2,9.83,97,24,232,9,0,0,1,0,0,1,0,8,9,3,4,9,25,46,38,37,46,17,7
+UBC,2018,W,APSC,101,,202,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",149,72.92,9.76,93,40,143,4,0,0,2,0,0,0,0,4,4,1,8,13,11,24,16,32,22,10,6
+UBC,2018,W,APSC,101,,203,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",231,73.99,8.54,93,44,226,3,0,0,2,0,0,0,0,3,3,6,6,6,15,39,42,48,41,20,3
+UBC,2018,W,APSC,101,,204,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",183,73.46,9.72,99,45,172,6,3,0,2,0,0,0,0,6,6,4,2,7,20,27,31,35,23,16,7
+UBC,2018,W,APSC,278,,201,ENG MATERIALS,"Lam, Gabrielle",238,74.21,12.55,100,42,230,4,0,0,4,0,0,0,0,4,4,2,22,25,33,18,23,21,28,26,32
+UBC,2018,W,BMEG,102,,201,BME LAB,"Lam, Gabrielle",45,82.42,6.86,94,53,45,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,5,23,11,3

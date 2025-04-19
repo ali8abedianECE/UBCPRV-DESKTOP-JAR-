@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,ECON,318,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Daniel Jordan Saunders;Daniel Saunders;Margaret Schabas;Saunders Daniel Jordan,36,73.083333333,12.876057516,90.0,17.0,2,0,0,0,2,7,9,5,8,2,1,,,
+UBCV,2019,W,ECON,319,,001,History and Philosophy of Economics from Ricardo to Keynes,Daniel Jordan Saunders;Daniel Saunders;Margaret Schabas;Saunders Daniel Jordan,46,72.760869565,12.55952013,90.0,11.0,1,1,1,3,1,9,8,9,6,6,1,,,
+UBCV,2019,W,PHIL,362,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Daniel Jordan Saunders;Daniel Saunders;Margaret Schabas;Saunders Daniel Jordan,23,74.347826087,10.434247351,85.0,42.0,1,0,1,0,2,2,4,5,6,2,0,,,
+UBCV,2019,W,PHIL,363,,001,History and Philosophy of Economics from Ricardo to Keynes,Daniel Jordan Saunders;Daniel Saunders;Margaret Schabas;Saunders Daniel Jordan,23,74.913043478,7.147237505,86.0,56.0,0,0,1,0,1,5,7,2,5,2,0,,,
+UBCV,2020,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Daniel Jordan Saunders;Daniel Saunders;Gerrit John Neels;Gerrit Neels,156,80.442307692,10.344542201,97.0,51.0,0,2,4,5,6,17,8,20,30,28,36,,,
+UBCV,2020,W,PHIL,240,,003,Introduction to Epistemology,Anders Kraal;Christopher Stephens;Daniel Saunders,22,80.5,11.550097918,94.0,41.0,1,0,0,1,0,2,1,1,7,7,2,,,
+UBCV,2020,W,PHIL,321,,001,"Induction, Decision and Game Theory",Alexandre Korolev;Daniel Jordan Saunders;Daniel Saunders;Paul Bartha,70,75.042857143,15.503562671,96.0,0.0,3,0,2,4,4,9,6,13,12,8,9,,,
+UBCV,2021,S,PHIL,220,A,001,Symbolic Logic,Daniel Saunders;Gerrit Neels;Paul Bartha;Serban Dragulin,93,80.462365591,16.66326286,99.0,2.0,6,2,3,3,4,1,6,5,12,18,33,,,
+UBCV,2021,W,COGS,303,,001,Research Methods in Cognitive Systems,Ankita Guha Patra;Daniel Saunders;Gale Chen;Grace Shaw;Ronald Rensink,45,80.488888889,21.243846406,98.0,5.0,4,0,0,1,1,0,2,1,8,13,15,,,
+UBCV,2021,W,COGS,303,,003,Research Methods in Cognitive Systems,Daniel Saunders;Ronald Rensink;Sara Niasati,39,82.0,11.594009342,97.0,52.0,0,1,2,0,2,1,3,3,8,6,13,,,
+UBCV,2021,W,COGS,303,,001,Research Methods in Cognitive Systems,Daniel Saunders,44,82.1,,98.0,5.0,,,,,,,,,8,13,15,87.0,92.0,81.8
+UBCV,2021,W,COGS,303,,003,Research Methods in Cognitive Systems,Daniel Saunders,39,82.0,,97.0,52.0,,,,,,,,,8,6,13,84.0,90.0,77.0
+UBCV,2022,W,COGS,303,,001,Research Methods in Cognitive Systems,Daniel Saunders,38,79.3,,96.0,41.0,1,0,1,0,2,4,7,2,7,6,8,80.0,86.8,73.3
+UBCV,2022,W,COGS,303,,003,Research Methods in Cognitive Systems,Daniel Saunders,39,81.5,,94.0,30.0,1,0,1,1,1,0,1,2,16,9,7,84.0,89.0,80.0
+UBCV,2023,W,COGS,303,,003,Research Methods in Cognitive Systems,Daniel Saunders,39,80.0,,97.0,40.0,1,0,0,2,1,2,4,7,6,11,5,82.0,87.5,75.5
+UBCV,2023,W,PHIL,337,,001,Ethics for the Sciences,Daniel Saunders,28,84.2,,97.0,31.0,1,0,0,0,0,0,1,1,6,8,9,86.0,90.8,80.8

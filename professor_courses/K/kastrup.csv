@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;MacGillivray, Ross;Strynadka, Natalie",67,77.3,8.35,96,50,66,0,0,1,0,0,0,0,0,0,0,1,1,2,3,7,10,15,15,7,5
+UBC,2015,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;MacGillivray, Ross;Strynadka, Natalie",52,75.54,10.15,92,50,52,0,0,0,0,0,0,0,0,0,0,1,4,2,2,10,6,4,11,9,3
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2016,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Williams, Warren;Withers, Stephen",83,76.63,10.1,94,52,82,0,1,0,0,0,0,0,0,0,0,1,4,6,7,6,6,14,18,15,5
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2017,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Withers, Stephen",55,78.44,11.41,97,51,54,0,1,0,0,0,0,0,0,0,0,3,1,3,3,2,7,6,11,10,8
+UBC,2017,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Rieseberg, Loren;Rossi, Fabio;Tokuriki, Nobuhiko",15,92.73,3.73,97,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2018,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Withers, Stephen",77,75.29,12.95,100,50,77,0,0,0,0,0,0,0,0,0,0,4,7,5,7,9,3,9,14,8,11

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,RMES,500,A,101,RESRCE&ENV WKSHP,"Dowlatabadi, Hadi;Kandlikar, Milind;Satterfield, Theresa",22,85.62,3.51,91,80,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,9,3
+UBC,2003,W,RMES,500,Q,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",5,86.2,4.38,92,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1
+UBC,2005,W,RMES,500,L,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",5,87.6,3.13,91,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2007,W,RMES,500,T,201,RESRCE&ENV WKSHP,"Kandlikar, Milind",7,87.5,2.95,93,85,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+UBC,2010,W,RMES,500,G,101,RESRCE&ENV WKSHP,"Kandlikar, Milind;Zerriffi, Hisham",11,87.2,2.66,91,83,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2
+UBC,2011,W,RMES,500,M,101,RESRCE&ENV WKSHP,"Kandlikar, Milind;Satterfield, Theresa",12,85.25,3.11,90,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,2
+UBC,2011,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Satterfield, Theresa",17,84.47,2.67,88,77,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11,0
+UBC,2013,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Oberg, Gunilla",23,87.64,2.06,94,87,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2
+UBC,2013,W,SCIE,220,,200,INTR SUSTAINABIL,"Kandlikar, Milind",45,74.98,13.52,93,9,43,2,0,0,0,1,0,0,0,1,2,0,1,0,3,3,10,8,12,3,3
+UBC,2014,W,SCIE,220,,200,INTR SUSTAINABIL,"Kandlikar, Milind",22,76.18,9.61,90,53,22,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,2,6,6,2,1
+UBC,2015,W,ASIC,220,,208,INTR SUSTAINABIL,"Kandlikar, Milind",42,71.27,15.53,91,20,39,2,1,0,0,0,0,2,0,0,2,2,2,5,2,6,3,4,7,6,2
+UBC,2015,W,RMES,502,,201,SEM RESRCE & ENV,"Kandlikar, Milind;Satterfield, Theresa",12,86,1.55,90,85,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1
+UBC,2015,W,RMES,507,,101,HUMN TECH SYTEMS,"Kandlikar, Milind",12,86.55,1.21,88,85,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+UBC,2015,W,RMES,520,,101,CLIMATE CHANGE,"Kandlikar, Milind",11,84.91,6.32,91,67,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,2

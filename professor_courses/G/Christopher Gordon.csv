@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,FREN,103,,001,Beginner's French II,Christopher Gordon,38,63.973684211,21.805636318,91.0,1.0,4,7,,,3,1,8,3,3,1,,,,
+UBCO,2015,W,FREN,104,,102,Beginner's French III,Christopher Gordon,20,66.45,15.645665282,95.0,45.0,,,,,,,,,,,2,,,
+UBCO,2015,W,FREN,123,,001,Contemporary French Language and Literature II,Christopher Gordon,22,72.409090909,17.535431047,93.0,29.0,,,,,,,,,,,,,,
+UBCO,2015,W,FREN,222,,001,Studies in French Language and Style I,Christopher Gordon,24,67.208333333,17.34052596,89.0,10.0,,,,,,,,,,,0,,,
+UBCO,2016,W,FREN,103,,001,Beginner's French II,Christopher Gordon,55,59.52727273,20.71129102,91.0,0.0,12,3,7,4,11,4,1,3,6,3,1,,,
+UBCO,2016,W,FREN,104,,102,Beginner's French III,Christopher Gordon,21,68.28571429,10.29146665,88.0,52.0,0,2,3,4,0,5,1,3,1,2,0,,,
+UBCO,2016,W,FREN,123,,001,Contemporary French Language and Literature II,Christopher Gordon,20,75.6,12.28777741,93.0,52.0,0,1,1,2,1,3,1,2,3,4,2,,,
+UBCO,2016,W,FREN,222,,001,Studies in French Language and Style I,Christopher Gordon,22,70.77272727,13.15088923,95.0,38.0,1,1,2,2,2,2,4,1,5,1,1,,,
+UBCO,2017,W,FREN,102,,004,Beginner's French I,Christopher Gordon,35,73.4,23.765026206,100.0,7.0,5,0,3,2,2,2,1,3,3,4,10,,,
+UBCO,2017,W,FREN,103,,103,Beginner's French II,Christopher Gordon,31,76.064516129,16.966507171,99.0,8.0,1,2,0,0,2,5,2,2,8,6,3,,,
+UBCO,2017,W,FREN,103,,104,Beginner's French II,Christopher Gordon,34,73.794117647,14.813547059,93.0,45.0,2,2,3,2,4,2,1,3,4,5,6,,,
+UBCO,2017,W,FREN,104,,101,Beginner's French III,Christopher Gordon,29,70.137931034,14.593844441,91.0,34.0,2,3,2,2,3,4,2,1,5,1,4,,,
+UBCO,2017,W,FREN,380,,001,Selected Studies in French,Christopher Gordon,13,76.846153846,24.592838232,97.0,0.0,1,0,0,0,0,0,3,2,1,2,4,,,
+UBCO,2018,W,FREN,102,,003,Beginner's French I,Christopher Gordon,33,76.818181818,15.336750278,98.0,31.0,1,1,3,2,2,2,2,4,5,3,8,,,
+UBCO,2018,W,FREN,102,,004,Beginner's French I,Christopher Gordon,34,80.588235294,17.289193765,97.0,5.0,1,0,1,2,2,1,1,2,6,8,10,,,
+UBCO,2018,W,FREN,103,,103,Beginner's French II,Christopher Gordon,31,73.0,18.727875836,100.0,22.0,3,2,2,1,4,2,2,0,5,3,7,,,
+UBCO,2018,W,FREN,222,,001,Studies in French Language and Style I,Christopher Gordon,23,72.260869565,16.031835916,90.0,12.0,1,2,0,0,1,3,5,2,6,2,1,,,
+UBCO,2018,W,FREN,223,,001,Studies in French Language and Style II,Christopher Gordon,20,77.55,12.232291174,93.0,41.0,1,0,0,0,3,2,1,2,4,4,3,,,
+UBCO,2019,W,FREN,103,,002,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Christopher Gordon,29,82.655172414,10.767928114,97.0,61.0,0,0,0,1,4,0,3,2,2,8,9,,,
+UBCO,2019,W,FREN,104,,003,Upper Elementary French II,Christopher Gordon,33,78.818181818,11.705913424,98.0,55.0,0,0,1,1,5,2,6,3,4,3,8,,,
+UBCO,2019,W,FREN,222,,001,Studies in French Language and Style I,Christopher Gordon,32,75.46875,9.07312364,93.0,51.0,0,1,0,0,5,4,7,5,6,2,2,,,
+UBCO,2019,W,FREN,223,,001,Studies in French Language and Style II,Christopher Gordon,18,81.055555556,10.102254974,96.0,60.0,0,0,0,1,0,1,6,0,1,5,4,,,
+UBCO,2019,W,FREN,380,A,001,Selected Studies in French,Christopher Gordon,20,86.2,10.556115713,96.0,58.0,0,0,1,0,1,1,0,1,2,2,12,,,
+UBCO,2020,W,FREN,101,,005,Elementary French I,Christopher Gordon,28,80.321428571,15.755195666,98.0,19.0,1,1,0,1,1,0,2,3,6,7,6,,,
+UBCO,2020,W,FREN,102,,003,Elementary French II,Christopher Gordon;Jelena Jovicic,27,84.222222222,19.323826133,98.0,11.0,1,2,0,0,0,2,0,0,3,3,16,,,
+UBCO,2020,W,FREN,104,,003,Upper Elementary French II,Charlotte Favareille;Christopher Gordon,23,76.260869565,13.883336615,93.0,42.0,2,1,0,0,1,2,1,5,4,3,4,,,
+UBCO,2020,W,FREN,222,,001,French Language and Style I,Christopher Gordon,34,79.470588235,18.552522158,93.0,21.0,3,0,0,1,1,0,3,2,6,8,10,,,
+UBCO,2020,W,FREN,223,,001,French Language and Style II,Christopher Gordon;Marianne Legault,24,71.666666667,23.419922152,89.0,0.0,2,1,0,0,1,0,3,7,6,4,0,,,
+UBCO,2021,S,FREN,101,,001,Elementary French I,Alexandra Tonnel;Christopher Gordon,30,87.366666667,9.7148423,98.0,52.0,0,1,0,0,0,1,2,0,5,4,17,,,
+UBCO,2021,S,FREN,102,,001,Elementary French II,Christopher Gordon;Stephanie Tolman,30,82.1,10.3034979,97.0,56.0,0,0,1,1,1,1,3,4,4,7,8,,,
+UBCO,2021,W,FREN,101,,005,Elementary French I,Christopher Gordon;Stephanie Tolman,32,88.59375,11.853567246,98.0,51.0,0,2,0,0,0,2,0,0,0,8,20,,,
+UBCO,2021,W,FREN,103,,001,Upper Elementary French I,Charlotte Favareille;Christopher Gordon,30,78.733333333,17.811142064,99.0,8.0,1,0,1,0,5,1,2,3,5,5,7,,,
+UBCO,2021,W,FREN,103,,002,Upper Elementary French I,Alexandra Tonnel;Christopher Gordon,28,79.035714286,15.271571611,98.0,33.0,2,0,1,0,0,2,2,3,6,7,5,,,
+UBCO,2021,W,FREN,222,,001,French Language and Style I,Charlotte Favareille;Christopher Gordon,28,79.571428571,13.755614534,92.0,23.0,1,1,0,0,1,0,1,5,8,8,3,,,
+UBCO,2021,S,FREN,101,,001,Elementary French I,Christopher Gordon,30,87.4,,98.0,52.0,,,,,,,,,,,17,91.0,93.8,82.5
+UBCO,2021,S,FREN,102,,001,Elementary French II,Christopher Gordon,30,82.1,,97.0,56.0,,,,,,,,,,7,8,84.5,89.8,76.5
+UBCO,2021,W,FREN,103,,001,Upper Elementary French I,Christopher Gordon,30,78.7,,99.0,8.0,,,,,,,,,,,7,82.0,88.8,69.0
+UBCO,2021,W,FREN,103,,002,Upper Elementary French I,Christopher Gordon,28,79.0,,98.0,33.0,,,,,,,,,6,7,,83.0,87.3,75.3
+UBCO,2021,W,FREN,222,,001,French Language and Style I,Charlotte Favareille;Christopher Gordon,28,79.6,,92.0,23.0,,,,,,,,,8,8,,83.0,86.5,78.0
+UBCO,2022,S,FREN,101,,001,Elementary French I,Christopher Gordon,33,81.8,,97.0,5.0,2,2,0,0,1,0,1,3,5,5,14,88.0,93.0,79.0
+UBCO,2022,S,FREN,102,,001,Elementary French II,Christopher Gordon,27,79.2,,98.0,2.0,1,0,2,0,0,2,1,5,3,7,6,81.0,89.0,76.0
+UBCO,2022,W,FREN,101,,002,Elementary French I,Christopher Gordon,30,75.3,,97.0,0.0,4,1,1,2,0,1,2,1,0,9,9,85.5,90.0,64.8
+UBCO,2022,W,FREN,101,,003,Elementary French I,Christopher Gordon,32,82.8,,98.0,36.0,1,0,0,0,0,3,2,5,5,7,9,84.5,90.5,78.0
+UBCO,2022,W,FREN,103,,002,Upper Elementary French I,Christopher Gordon,14,81.6,,96.0,51.0,0,1,0,1,0,0,2,0,3,3,4,86.5,89.8,75.3
+UBCO,2023,S,FREN,101,,001,Elementary French I,Christopher Gordon,31,82.5,,96.0,59.0,0,0,2,0,0,1,3,4,5,5,8,83.0,90.0,76.75
+UBCO,2023,S,FREN,102,,001,Elementary French II,Christopher Gordon,27,76.91,,97.0,54.0,0,1,2,2,1,3,1,2,2,3,5,77.5,88.75,67.25
+UBCO,2023,W,FREN,101,,002,Elementary French I,Christopher Gordon,34,87.76,,100.0,61.0,0,0,0,2,1,0,0,2,7,3,18,91.0,96.0,82.0
+UBCO,2023,W,FREN,101,,003,Elementary French I,Christopher Gordon,32,85.47,,98.0,40.0,1,1,0,0,1,0,1,3,2,6,17,90.0,92.25,83.0
+UBCO,2023,W,FREN,103,,001,Upper Elementary French I,Christopher Gordon,18,81.4,,97.0,65.0,0,0,0,0,3,2,0,1,2,2,5,82.0,90.5,70.0

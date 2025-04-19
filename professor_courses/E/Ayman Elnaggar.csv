@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,172,,101,Engineering Analysis I,Ayman Elnaggar,88,69.59090909,15.89088972,94.0,0.0,10,4,1,7,10,11,12,10,7,7,9,,,
+UBCO,2014,W,APSC,172,,102,Engineering Analysis I,Ayman Elnaggar,80,73.525,10.83708471,99.0,52.0,0,2,6,7,12,9,9,11,6,12,6,,,
+UBCO,2014,W,APSC,255,,101,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,100,76.1,11.3720373,100.0,50.0,0,2,5,8,11,13,8,9,15,16,13,,,
+UBCO,2014,W,APSC,255,,102,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,98,72.12244898,12.08583162,96.0,50.0,0,8,12,5,13,8,12,8,16,8,8,,,
+UBCO,2014,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar,19,83.73684211,5.876904942,95.0,71.0,0,0,0,0,0,,,,7,6,,,,
+UBCO,2015,W,APSC,255,,101,Electric Circuits and Power,Ashraf Hossain;Ayman Elnaggar;Peyman Amiri;Richard Worthing;Wilhelm Wenngren,165,72.636363636,14.360808333,100.0,14.0,9,9,14,12,14,15,12,18,30,15,17,,,
+UBCO,2015,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Mark Bergen;Timothy Mitchell Westgate;Timothy Westgate,53,77.622641509,17.305208659,100.0,4.0,,,,,,,,6,,13,11,,,
+UBCO,2015,W,ENGR,359,,101,Microcomputer Engineering,Ayman Elnaggar;Jude Frie;Seyed Reza Larimi,47,79.723404255,14.183122437,100.0,35.0,,,,,,7,,6,,9,13,,,
+UBCO,2015,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Chunpu Wang;Seyed Reza Larimi,14,84.357142857,8.082337275,94.0,70.0,0,0,0,0,0,,,,,,7,,,
+UBCO,2016,W,APSC,255,,101,Electric Circuits and Power,Ashraf Hossain;Ayman Elnaggar;Peyman Amiri;Todd Williams;Xuekun Meng;Yanqi Yu,194,72.39175258,15.01850789,100.0,0.0,6,12,18,16,18,18,15,19,27,23,22,,,
+UBCO,2016,W,APSC,256,,102,Numerical Methods for Analysis,Ayman Elnaggar;Fang Fang;Peyman Amiri;Yanqi Yu,147,78.42857143,11.90257253,99.0,24.0,1,3,6,8,8,8,18,16,23,29,27,,,
+UBCO,2016,W,APSC,262,,001,Digital Logic Design,Adrian Boivin;Ayman Elnaggar;Mark Bergen,74,77.12162162,12.56975355,100.0,43.0,2,1,4,5,6,6,6,6,13,12,13,,,
+UBCO,2016,W,ENGR,359,,101,Microcomputer Engineering,Adrian Boivin;Ayman Elnaggar;Seyed Reza Larimi,59,76.84745763,12.71547192,100.0,52.0,0,2,6,4,3,4,7,3,9,10,11,,,
+UBCO,2016,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Seyed Reza Larimi,23,83.56521739,7.297733689,99.0,71.0,0,0,0,0,0,1,2,2,8,3,7,,,
+UBCO,2016,W,ENGR,468,,201,Advanced Digital System Design,Ayman Elnaggar,17,82.17647059,10.61976515,97.0,56.0,0,0,1,0,1,0,1,2,3,6,3,,,
+UBCO,2017,W,APSC,255,,101,Electric Circuits and Power,Ali Maleki Gargari;Ayman Elnaggar;Todd Williams;Xuekun Meng;Yanqi Yu,224,72.299107143,15.972364,100.0,0.0,14,16,12,16,19,17,24,18,31,23,34,,,
+UBCO,2017,W,APSC,262,,001,Digital Logic Design,Adrian Boivin;Ayman Elnaggar;Kevin Dueck;Mark Bergen,77,76.727272727,16.783165409,100.0,26.0,6,2,4,4,3,6,5,6,13,6,22,,,
+UBCO,2017,W,ENGR,359,,101,Microcomputer Engineering,Adrian Boivin;Ayman Elnaggar,65,77.969230769,11.876933041,100.0,50.0,0,2,1,5,7,5,6,8,9,7,15,,,
+UBCO,2017,W,ENGR,467,,001,Real-Time and Embedded System Design,Adrian Boivin;Ayman Elnaggar,24,78.458333333,10.375469258,95.0,57.0,0,0,1,1,0,4,4,4,2,3,5,,,
+UBCO,2017,W,ENGR,468,,201,Advanced Digital System Design,Adrian Boivin;Ayman Elnaggar,18,79.722222222,12.517308278,97.0,51.0,0,1,0,1,0,2,3,1,2,3,5,,,
+UBCO,2018,W,APSC,255,,101,Electric Circuits and Power,Abrar Malik;Ali Maleki Gargari;Alireza Eyvazizadeh Khosroshahi;Antonia Ciocoiu;Ayman Elnaggar;Jannik Eikenaar;Katherine Luckasavitch;Mandeep Chhajer Jain;Richard Klukas,99,68.272727273,15.234773718,100.0,24.0,10,6,10,12,8,8,14,12,3,8,8,,,
+UBCO,2018,W,APSC,255,,102,Electric Circuits and Power,Abrar Malik;Ali Maleki Gargari;Alireza Eyvazizadeh Khosroshahi;Antonia Ciocoiu;Ayman Elnaggar;Katherine Luckasavitch;Mandeep Chhajer Jain;Richard Klukas,113,68.18018018,14.502161719,98.0,30.0,13,4,7,16,14,8,12,7,16,7,7,,,
+UBCO,2018,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Kevin Dueck;Mandeep Chhajer Jain;Mark Bergen,84,79.55952381,13.327524911,100.0,41.0,3,4,1,3,3,3,9,4,14,21,19,,,
+UBCO,2018,W,ENGR,359,,101,Microcomputer Engineering,Adrian Boivin;Ayman Elnaggar,74,75.054054054,13.878032204,100.0,50.0,0,7,5,4,4,10,8,4,9,7,16,,,
+UBCO,2018,W,ENGR,467,,001,Real-Time and Embedded System Design,Adrian Boivin;Ayman Elnaggar,27,77.814814815,14.342076443,100.0,50.0,0,3,1,0,2,3,2,1,4,4,7,,,
+UBCO,2018,W,ENGR,468,,201,Advanced Digital System Design,Ayman Elnaggar;Kevin Dueck,25,79.64,13.789730478,100.0,40.0,1,1,0,1,0,2,3,0,7,4,6,,,
+UBCO,2019,W,APSC,255,,102,Electric Circuits and Power,Adel Tabkhpour Langeroudi;Ayman Elnaggar;Ian Foulds;Katherine Luckasavitch;Kathrin Schmidt;Mandeep Chhajer Jain;Mehran Shirazi;Rafaeal Hossain Rakin;Yuri Reis Rodrigues;Yuri Rodrigues,125,77.392,10.829243562,100.0,50.0,0,1,5,7,14,12,14,17,18,19,18,,,
+UBCO,2019,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Bayan Al Nahhas;Kevin Dueck,99,78.505050505,12.042758632,100.0,33.0,1,2,2,7,5,9,9,13,14,15,22,,,
+UBCO,2019,W,ENGR,359,,101,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff,77,76.220779221,15.79358912,100.0,0.0,6,1,0,1,7,8,7,7,14,10,16,,,
+UBCO,2019,W,ENGR,359,,201,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff,7,82.857142857,6.283008075,95.0,76.0,0,0,0,0,0,0,0,1,4,1,1,,,
+UBCO,2019,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Logan Tarasoff,37,81.486486486,10.407320131,100.0,50.0,0,1,0,1,1,2,4,5,7,6,10,,,
+UBCO,2019,W,ENGR,468,,001,Advanced Digital System Design,Ayman Elnaggar;Kevin Dueck,39,78.692307692,16.706686096,100.0,36.0,3,1,1,3,0,2,3,1,6,5,14,,,
+UBCO,2020,W,APSC,255,,102,Electric Circuits and Power,Alireza Eyvazizadeh Khosroshahi;Ayman Elnaggar;Hoda Dadashzadeh;Stephen O'Leary;Yuri Rodrigues;Ziad Abdelsamad,110,63.818181818,16.256082457,100.0,26.0,33,3,2,11,8,15,17,1,8,6,6,,,
+UBCO,2020,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Elnaz Ghahremani Rad;Hoda Dadashzadeh;Jonathan Holzman,84,70.976190476,20.129087142,100.0,9.0,19,1,2,4,2,4,8,6,11,9,18,,,
+UBCO,2020,W,ENGR,359,,101,Microcomputer Engineering,Ayman Elnaggar;Logan Tarasoff;Richard Klukas;Ziad Abdelsamad,108,81.861111111,14.880494875,100.0,16.0,3,3,3,1,3,4,8,4,21,17,41,,,
+UBCO,2020,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Logan Tarasoff;Ziad Abdelsamad,54,85.888888889,9.484180805,100.0,57.0,0,0,1,0,2,2,3,4,5,11,26,,,
+UBCO,2020,W,ENGR,468,,001,Advanced Digital System Design,Ayman Elnaggar;Mohammad Hossein Zarifi;Ziad Abdelsamad,49,81.469387755,14.133444439,100.0,40.0,1,3,0,0,5,0,5,4,5,7,19,,,
+UBCO,2021,W,APSC,255,,102,Electric Circuits and Power,Ayman Elnaggar;Bayan Al Nahhas;Isaac Spotts;Mohammad Kharouf;Stephen O'Leary;Ziad Abdelsamad,146,63.205479452,18.373488325,100.0,28.0,63,0,0,9,9,7,15,11,8,8,16,,,
+UBCO,2021,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Elnaz Ghahremani Rad;Jonathan Holzman,86,72.406976744,18.349148342,100.0,23.0,12,2,4,8,3,5,11,4,9,10,18,,,
+UBCO,2021,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar;Matthew Tucsok;Ziad Abdelsamad,57,80.877192982,8.787308574,94.0,57.0,0,0,1,2,1,5,6,5,12,11,14,,,
+UBCO,2021,W,ENGR,468,,001,Advanced Digital System Design,Ayman Elnaggar;Mohammad Hossein Zarifi;Ziad Abdelsamad,32,77.03125,14.735264646,97.0,29.0,3,0,0,0,1,2,4,6,3,8,5,,,
+UBCO,2021,W,ENGR,568,,001,Advanced Digital System Design,Ayman Elnaggar;Mohammad Hossein Zarifi;Ziad Abdelsamad,7,80.142857143,11.668027132,95.0,62.0,0,0,0,1,0,0,1,2,1,0,2,,,
+UBCV,2017,S,APSC,179,,VE1,Linear Algebra for Engineers,Ayman Elnaggar;Md Rashedul Kabir,67,79.686567164,11.82089695,97.0,33.0,1,2,1,1,4,7,6,4,10,17,14,,,
+UBCV,2018,S,APSC,179,,VE1,Linear Algebra for Engineers,Ayman Elnaggar,80,80.5,17.680712512,100.0,9.0,3,1,2,5,5,7,3,5,5,9,35,,,
+UBCO,2021,W,APSC,255,,102,Electric Circuits and Power,Ayman Elnaggar,146,63.4,,100.0,28.0,62,0,0,9,9,7,16,11,8,8,16,65.5,77.0,47.0
+UBCO,2021,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar,86,72.6,,100.0,23.0,11,,,8,,,11,,9,10,18,75.0,86.0,62.0
+UBCO,2021,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar,57,80.9,,94.0,57.0,,,,,,,6,,12,11,14,81.0,87.0,75.0
+UBCO,2021,W,ENGR,468,,001,Advanced Digital System Design,Ayman Elnaggar,32,77.0,,97.0,29.0,,,,,,,,6,,8,,78.5,85.3,75.0
+UBCO,2021,W,ENGR,568,,001,Advanced Digital System Design,Ayman Elnaggar,7,80.1,,95.0,62.0,,,,,,,,,,,,77.0,87.5,76.0
+UBCO,2023,W,APSC,172,,101,Engineering Analysis I,Ayman Elnaggar,196,70.1,,100.0,1.0,20,10,14,12,23,14,21,12,14,24,27,73.0,85.0,60.5
+UBCO,2023,W,APSC,172,,102,Engineering Analysis I,Ayman Elnaggar,181,67.4,,100.0,0.0,26,10,11,16,16,17,20,10,15,19,18,70.0,80.0,58.0
+UBCO,2023,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar,101,76.2,,100.0,22.0,6,1,8,5,9,8,6,7,14,6,30,79.0,90.3,65.8
+UBCO,2023,W,ENGR,467,,001,Real-Time and Embedded System Design,Ayman Elnaggar,30,83.2,,96.0,52.0,0,1,0,0,2,0,1,3,5,9,9,85.5,90.0,80.3
+UBCO,2023,W,ENGR,468,,001,Advanced Digital System Design,Ayman Elnaggar,24,83.2,,100.0,45.0,1,0,0,1,0,1,4,0,3,2,11,87.0,92.0,75.0
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,ENGR,568,,001,Advanced Digital System Design,Ayman Elnaggar,15,85.9,,100.0,71.0,0,0,0,0,0,1,2,1,2,2,7,85.0,91.0,79.0

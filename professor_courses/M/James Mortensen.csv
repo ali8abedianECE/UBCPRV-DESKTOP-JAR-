@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EOSC,121,,101,EARTH SCIENCE,"Mayer, Ulrich;Mortensen, James",126,71.13,10.78,97,50,126,0,0,0,0,0,0,0,0,0,0,7,10,12,25,14,13,17,14,7,7
+UBC,2002,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",32,72.97,18.45,94,0,27,2,1,1,1,1,0,0,0,1,2,1,1,2,2,2,3,5,4,4,3
+UBC,2002,W,EOSC,523,,201,GEOCHRONOMETRY,"Mortensen, James",14,82.08,9.88,95,62,13,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,6,3
+UBC,2005,W,EOSC,116,,201,DINOSAUR EARTH,"Grimm, Kurt Andrew;Mortensen, James;Sutherland, Stuart",241,69.67,11.26,92,5,233,4,4,0,0,1,0,0,0,3,4,12,26,26,34,28,33,26,27,14,7
+UBC,2005,W,EOSC,328,,201,FIELD GEOLOGY,"Eberhardt, Erik;Groat, Lee;Mortensen, James;Russell, James Kelly;Sutherland, Stuart",34,78.62,6.02,90,69,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3,11,4,3
+UBC,2005,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",46,73.46,12.49,97,42,45,1,0,0,0,0,0,0,0,1,1,2,4,6,3,2,3,8,10,4,3
+UBC,2005,W,EOSC,523,,101,GEOCHRONOMETRY,"Dipple, Gregory;Mortensen, James;Weis, Dominique",13,89.31,4.92,95,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,7
+UBC,2005,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",12,90,3.58,95,85,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6
+UBC,2006,W,EOSC,116,,201,DINOSAURS' EARTH,"Francois, Roger;Mortensen, James;Sutherland, Stuart",241,69.71,13.46,97,34,221,14,6,0,0,0,0,0,2,12,14,16,23,23,22,30,18,28,17,24,20
+UBC,2006,W,EOSC,328,,201,FIELD GEOLOGY,"Eberhardt, Erik;Groat, Lee;Mortensen, James;Russell, James Kelly",59,77.36,4.61,87,68,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14,19,15,6,0
+UBC,2006,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",77,68.84,12.94,97,37,73,3,1,0,0,0,0,0,1,2,3,11,3,7,8,8,8,13,8,5,2
+UBC,2006,W,EOSC,523,,101,GEOCHRONOMETRY,"Dipple, Gregory;Mortensen, James;Weis, Dominique",9,89.25,2.66,94,86,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+UBC,2007,W,EOSC,116,,201,DINOSAURS' EARTH,"Francois, Roger;GREY, MELISSA;Mortensen, James",252,74.13,12.53,98,41,238,7,3,0,4,0,0,0,0,7,7,13,15,16,22,19,40,19,36,33,25
+UBC,2007,W,EOSC,328,,201,FIELD GEOLOGY,"Eberhardt, Erik;Mortensen, James;Russell, James Kelly;Sutherland, Stuart",24,80.13,4.1,86,70,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,14,3,0
+UBC,2007,W,EOSC,331,,101,INTR MIN DEP&EXP,"Dipple, Gregory;Hickey, Kenneth;Mortensen, James;Scoates, James Stewart;Tosdal, Richard",47,74.19,10.51,94,38,46,1,0,0,0,0,0,0,1,0,1,2,1,2,2,7,9,9,8,3,3
+UBC,2007,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",28,76.93,14.91,96,36,26,1,0,0,1,0,0,0,1,0,1,3,0,0,3,0,1,1,8,7,3
+UBC,2007,W,EOSC,523,,101,GEOCHRONOMETRY,"Dipple, Gregory;Mortensen, James;Weis, Dominique",9,87.75,4.86,95,78,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3
+UBC,2007,W,EOSC,531,,201,EXPL METHODOLOGY,"Mortensen, James;Tosdal, Richard",10,91.8,3.68,95,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8
+UBC,2007,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",7,93.43,2.15,95,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2009,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",32,74.69,16.08,90,0,31,1,0,0,0,1,0,0,0,0,1,1,1,0,2,4,4,3,11,4,1
+UBC,2009,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",13,92.38,1.45,94,90,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+UBC,2010,W,EOSC,116,,201,MESOZOIC EARTH,"Mindell, Randal;Mortensen, James;Sutherland, Stuart",230,73.04,13.12,99,38,217,5,5,0,1,0,0,0,1,4,5,17,12,25,23,14,25,20,31,21,29
+UBC,2010,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",45,81.27,8.12,93,64,45,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,6,6,9,8,10
+UBC,2010,W,EOSC,531,,201,EXPL METHODOLOGY,"Mortensen, James;TBA",16,90.2,1.32,92,88,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11
+UBC,2012,W,EOSC,116,,201,MESOZOIC EARTH,"Francois, Roger;Mortensen, James;Sutherland, Stuart",140,74.19,15.49,100,37,122,9,7,0,0,0,0,0,1,8,9,7,9,8,9,10,12,10,20,16,21
+UBC,2012,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Mindell, Randal;Mortensen, James;TBA",64,74.35,6.35,88,57,63,0,1,0,0,0,0,0,0,0,0,0,2,1,4,12,17,9,16,2,0
+UBC,2012,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",47,80.82,9.54,96,55,45,0,1,0,1,0,0,0,0,0,0,0,1,3,1,2,1,9,11,6,11
+UBC,2012,W,EOSC,531,,201,EXPL METHODOLOGY,"Hart, Craig;Mortensen, James",4,90.5,1.91,92,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2012,W,EOSC,544,,201,GEODYNAMICS,"Mortensen, James",8,90,1.15,92,88,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2013,W,EOSC,116,,201,MESOZOIC EARTH,"Francois, Roger;Mortensen, James;Sutherland, Stuart",138,74.62,14.9,100,26,128,4,4,1,0,0,0,1,2,1,4,8,9,13,8,10,12,12,19,17,20
+UBC,2013,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Mindell, Randal;Mortensen, James;Smith, Paul Laurence",64,73.95,5.46,85,55,64,0,0,0,0,0,0,0,0,0,0,0,1,1,5,14,16,16,10,1,0
+UBC,2013,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",31,80.81,9.5,95,54,31,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,4,3,9,7,5
+UBC,2013,W,EOSC,531,,201,EXPL METHODOLOGY,"Hart, Craig;Mortensen, James",15,86.07,2.34,93,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,1
+UBC,2013,W,EOSC,543,,201,SOLID EARTH SCI,"Mortensen, James",10,85.1,3.18,89,81,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0
+UBC,2014,W,EOSC,116,,201,MESOZOIC EARTH,"Golding, Martyn;Mortensen, James;Sherman, Sarah",175,73.64,11.49,95,41,169,3,3,0,0,0,0,0,0,3,3,6,9,11,24,17,19,18,29,19,17
+UBC,2014,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Bustin, Robert Marc;Golding, Martyn;Mortensen, James;Smith, Paul Laurence",65,74.79,4.08,85,64,63,0,2,0,0,0,0,0,0,0,0,0,0,0,2,10,22,19,9,1,0
+UBC,2014,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",34,83.29,8.45,93,57,34,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,5,2,7,9,9
+UBC,2014,W,EOSC,531,,201,EXPL METHODOLOGY,"Hart, Craig;Mortensen, James",14,90.15,3.26,94,85,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6
+UBC,2014,W,EOSC,544,,201,GEODYNAMICS,"Mortensen, James",7,88.83,3.13,92,84,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2015,W,EOSC,116,,201,MESOZOIC EARTH,"Mortensen, James;Sutherland, Stuart",239,73.41,11.41,99,39,230,1,3,1,3,0,0,0,1,0,1,8,19,21,27,32,26,19,38,16,24
+UBC,2015,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Bustin, Robert Marc;Mortensen, James;Simpson, Kirsten Anne;Smith, Paul Laurence",65,72.46,10.3,85,8,64,1,0,0,0,1,0,0,0,0,1,0,1,2,6,19,14,7,13,2,0
+UBC,2015,W,EOSC,332,,201,GEOL EVOL N AMER,"Mortensen, James",52,81.9,7.11,96,61,50,0,2,0,0,0,0,0,0,0,0,0,0,1,1,2,7,4,16,14,5
+UBC,2015,W,EOSC,531,,201,EXPL METHODOLOGY,"Hart, Craig;Mortensen, James",9,90.78,3.03,95,87,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6
+UBC,2015,W,EOSC,543,,201,SOLID EARTH SCI,"Mortensen, James",4,92.5,2.38,95,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2016,W,EOSC,223,,201,FIELD TECHNIQUES,"Bevier, Mary Lou;Mortensen, James;Porritt, Lucy;Simpson, Kirsten Anne",68,73.85,7.59,88,43,67,1,0,0,0,0,0,0,0,1,1,1,0,4,3,12,15,16,12,4,0
+UBCV,2014,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Emily Don Scribner;Emily Scribner;James Mortensen;Martyn Golding;Pejman Rasouli;Sarah Sherman,172,73.63953488,11.49412542,95.0,41.0,,,,,,,,,,,3,6,9,11,24,17,19,18,29,19,17
+UBCV,2014,W,EOSC,223,,201,Field Techniques,Cody Steven;Dana Caudle;James Mortensen;Martyn Golding;Mary Lou Bevier;Nicholas Rush;Paul Laurence Smith;Rachel So Young Kim;Robert Marc Bustin,63,74.79365079,4.084426481,85.0,64.0,,,,,,,,,,,0,0,0,0,,10,22,19,9,,0
+UBCV,2014,W,EOSC,332,,201,Tectonic Evolution of North America,James Mortensen;Marina Martindale,34,83.29411765,8.454976701,93.0,57.0,,,,,,,,,,,0,0,,,,,5,,7,9,9
+UBCV,2014,W,EOSC,531,,201,Exploration Methodology,Craig Hart;James Mortensen,13,90.15384615,3.262058497,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,6
+UBCV,2014,W,EOSC,544,,201,Geodynamics,James Mortensen,6,88.83333333,3.125166662,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Jacquie-Lee Thibault;James Mortensen;Natasha Urbancic;Stuart Sutherland;Timothy Hayward,235,72.685106383,13.138756181,99.0,0.0,,,,,,,,,,,4,8,19,21,27,32,27,19,38,16,24
+UBCV,2015,W,EOSC,223,,201,Field Techniques,Dana Caudle;Donald Lake;James Mortensen;Jamie Alistair Cutts;Jamie Cutts;Kirsten Anne Simpson;Kirsten Simpson;Mary Lou Bevier;Paul Laurence Smith;Paul Smith;Robert Marc Bustin;Stephen Barlett,65,72.461538462,10.298781668,85.0,8.0,,,,,,,,,,,,,,,6,19,14,7,13,,0
+UBCV,2015,W,EOSC,332,,201,Tectonic Evolution of North America,Alexandre Plourde;James Mortensen,50,81.9,7.112076536,96.0,61.0,,,,,,,,,,,0,0,0,,,,7,,16,14,5
+UBCV,2015,W,EOSC,531,,201,Exploration Methodology,Craig Hart;James Mortensen,9,90.777777778,3.032234233,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,6
+UBCV,2016,W,EOSC,223,,201,Field Techniques,Amy Ryan;Catherine Armstrong;Catherine Jean Armstrong;James Mortensen;Kathryn Grodzicki;Kirsten Anne Simpson;Kirsten Simpson;Lucy Porritt;Mary Lou Bevier;Nichole Moerhuis;Robert Marc Bustin,68,73.85294118,7.586839953,88.0,43.0,,,,,,,,,,,1,1,0,4,3,12,15,16,12,4,0

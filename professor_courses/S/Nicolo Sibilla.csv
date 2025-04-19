@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MATH,103,,206,INT CALC AP LF S,"Sibilla, Nicolo",78,62.53,17.58,94,0,65,12,1,0,0,1,0,2,5,4,12,8,8,8,8,10,8,6,1,4,4
+UBC,2014,W,MATH,253,,102,MULTIVRBL CALC,"Sibilla, Nicolo",122,73.26,11.85,99,0,120,1,0,0,1,1,0,0,0,0,1,5,7,6,11,14,23,22,15,12,5
+UBC,2015,W,MATH,317,,101,CALCULUS IV,"Sibilla, Nicolo",90,68.06,16.59,96,23,79,9,1,0,0,0,0,2,3,4,9,8,10,6,5,13,6,4,10,5,12
+UBCV,2014,W,MATH,103,,206,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Nicolo Sibilla,77,62.53246753,17.58482032,94.0,0.0,,,,,,,,,,,12,8,8,8,8,10,8,6,1,,
+UBCV,2014,W,MATH,253,,102,Multivariable Calculus,Gordon Slade;Nicolo Sibilla,122,72.95901639,12.27333166,99.0,0.0,,,,,,,,,,,2,5,7,6,11,14,23,22,15,12,5
+UBCV,2015,W,MATH,317,,101,Calculus IV,Jim Bryan;Nicolo Sibilla,89,68.146067416,16.519651219,96.0,23.0,,,,,,,,,,,9,8,10,6,5,13,6,5,10,5,12

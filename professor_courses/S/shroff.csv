@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,SPPH,411,,901,VIOLENC LIFESPAN,"Shroff, Farah",53,88.2,4.02,95,80,49,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,17,21
+UBC,2017,W,POLI,422,A,001,SELECT PROB POLI,"Shroff, Farah",20,84,6.8,95,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,4,5
+UBC,2018,W,POLI,422,A,001,SELECT PROB POLI,"Shroff, Farah",19,80,7.13,90,62,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,4,4,2
+UBC,2018,W,POLI,423,A,001,ISS COMP POLITCS,"Shroff, Farah",17,83.41,6.4,91,71,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,7,2

@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,ECON,339,,001,ECON TECH CHNGES,"Carlaw, Kenneth",39,73.09,11.81,95,50,34,0,4,1,0,0,0,0,0,0,0,1,2,3,8,2,4,4,1,6,3,,,
+UBCO,2014,W,ECON,205,,002,Intermediate Macroeconomic Analysis,Joonhwan Cho;Kenneth Carlaw;Linh Bui;Luke Davey;Maisha Badhon;Matthew Leung;Ngoc Anh Luu;Shaun Campbell;Spencer Dean;Spencer Lh Dean;Theodore Wannop,76,62.31578947,12.92048557,90.0,29.0,,,,,,,,,,,10,6,15,10,8,7,6,8,5,,,,,
+UBCO,2014,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,39,73.71794872,10.41999272,96.0,56.0,,,,,,,,,,,0,0,,5,6,6,,5,,,5,,,
+UBCO,2015,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Ayla Lovell;Belinda Raposo;Emily Mutter;Kenneth Carlaw;Linh Bui;Maisha Badhon;Ngoc Anh Luu;Spencer Dean;Spencer Lh Dean;Yang Yongmin,48,60.041666667,14.257447973,89.0,29.0,,,,,,,,,,,8,8,10,4,5,,3,,,,0,,,
+UBCO,2015,W,ECON,205,,002,Intermediate Macroeconomic Analysis,Ayla Lovell;Dakota Ravestein;Kenneth Carlaw;Linh Bui;Ngoc Anh Luu;Spencer Dean;Spencer Lh Dean,62,56.483870968,14.111664673,92.0,11.0,,,,,,,,,,,15,9,16,9,2,,6,,,,,,,
+UBCO,2015,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,28,72.892857143,23.817732712,96.0,0.0,,,,,,,,,,,,,,,,,,,,6,6,,,
+UBCO,2015,W,ECON,409,,001,Economic Growth Theory,Kenneth Carlaw,5,68.0,38.581083448,91.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCO,2016,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Ayla Lovell;Kenneth Carlaw;Marcus Drewry;Sean Alldridge;Shahrzad Pakravan;Thomas Palmer;Tomasz Cykowski,46,64.06521739,13.60621128,88.0,26.0,,,,,,,,,,,7,5,7,3,3,4,9,2,3,3,0,,,
+UBCO,2016,W,ECON,205,,002,Intermediate Macroeconomic Analysis,Ayla Lovell;Erin Pederson;Kenneth Carlaw;Marcus Drewry;Sean Alldridge;Thomas Palmer;Tomasz Cykowski,47,64.91489362,15.54213038,88.0,7.0,,,,,,,,,,,5,2,5,6,7,4,9,3,3,3,0,,,
+UBCO,2016,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,32,70.90625,11.07557433,89.0,55.0,,,,,,,,,,,0,0,7,3,3,6,1,1,7,4,0,,,
+UBCO,2017,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kenneth Carlaw,37,56.945945946,17.302771046,87.0,0.0,,,,,,,,,,,11,8,5,1,2,2,1,1,5,1,0,,,
+UBCO,2017,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Hannah Johnson;Kenneth Carlaw;Ryan Bergen;Tomasz Cykowski,39,59.820512821,18.360242796,86.0,2.0,,,,,,,,,,,6,4,7,5,2,5,2,3,4,1,0,,,
+UBCO,2017,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,28,71.142857143,25.609191472,96.0,0.0,,,,,,,,,,,3,0,0,2,1,5,1,4,3,4,5,,,
+UBCO,2018,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Devon Rudd;Juwilliart Cox;Kenneth Carlaw;Lyndsay Eichinger;Michael Manojlovic;Ryan Bergen,42,59.261904762,19.514921775,98.0,5.0,,,,,,,,,,,11,7,6,1,3,3,3,2,1,0,5,,,
+UBCO,2018,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Braydon Neiszner;Colton Horne;Kenneth Carlaw;Nicholas Ogawa;Spencer Dean;Spencer Lh Dean,57,57.543859649,17.302012863,92.0,7.0,,,,,,,,,,,21,4,4,9,1,4,5,2,6,0,1,,,
+UBCO,2018,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,14,65.428571429,22.667205337,86.0,0.0,,,,,,,,,,,2,0,1,1,0,2,2,4,1,1,0,,,
+UBCO,2018,W,ECON,409,,101,Economic Growth Theory,Kenneth Carlaw,6,86.166666667,6.524313502,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,2,2,,,
+UBCO,2019,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Jessica Grant;Kenneth Carlaw;Nicholas Ogawa;Spencer Dean;Spencer Lh Dean;Voole Cox,65,60.123076923,17.615252351,96.0,17.0,,,,,,,,,,,19,8,5,7,6,6,0,5,2,1,6,,,
+UBCO,2019,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kenneth Carlaw;Noriko Ozawa;Spencer Dean;Spencer Lh Dean,67,62.850746269,15.578981306,93.0,0.0,,,,,,,,,,,8,5,11,11,5,10,3,8,3,1,2,,,
+UBCO,2019,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,34,68.911764706,18.219815465,93.0,8.0,,,,,,,,,,,4,2,1,6,3,2,2,4,2,3,5,,,
+UBCO,2019,W,ECON,409,,101,Economic Growth Theory,Kenneth Carlaw,7,72.0,18.894443628,93.0,33.0,,,,,,,,,,,1,0,0,0,0,1,1,1,2,0,1,,,
+UBCO,2020,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Abigayle Weatherhog;Braydon Neiszner;Felipe Morelli Guazzelli;Jakob Graves;Kenneth Carlaw;Maria Paz Marengo Di Bez;Mehdi Mohamadian;Noriko Ozawa;Rowan Holyer;Ruben Thiemann;Sarah El Kaissi;Spencer Dean;Voole Cox;Wei Dai;Yuanzhe Chen,131,69.984732824,12.462858502,98.0,18.0,,,,,,,,,,,9,3,9,11,14,18,17,22,19,6,3,,,
+UBCO,2020,W,ECON,221,,101,Introduction to Strategic Thinking,Kenneth Carlaw;Noriko Ozawa;Rowan Holyer;Spencer Dean;Spencer Lh Dean,60,65.8,17.258552289,96.0,11.0,,,,,,,,,,,9,6,3,8,5,5,3,6,6,7,2,,,
+UBCO,2021,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Jakob Graves;Kenneth Carlaw;Omar Eldeeb;Rowan Holyer;Spencer Dean,34,57.176470588,20.410143925,93.0,4.0,,,,,,,,,,,11,4,7,1,2,0,1,1,3,3,1,,,
+UBCO,2021,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kenneth Carlaw;Kenny Liao;Rowan Holyer;Spencer Dean,48,55.979166667,19.928050991,89.0,3.0,,,,,,,,,,,13,5,8,6,1,5,4,1,2,3,0,,,
+UBCO,2021,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,28,64.857142857,22.001202468,88.0,0.0,,,,,,,,,,,5,1,2,0,5,2,4,0,7,2,0,,,
+UBCV,2019,W,ECON,466,,001,The Economics of Government Regulation of Business,Kenneth Carlaw;Michael Vaney,8,78.125,10.357019704,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,2,0,2,1,,,
+UBCO,2021,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kenneth Carlaw;Spencer Dean,35,57.5,,93.0,4.0,,,,,,,,,,,11,,7,,,,,,,,,56.0,71.0,44.0
+UBCO,2021,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kenneth Carlaw,47,57.8,,89.0,3.0,,,,,,,,,,,12,,8,6,,,,,,,,59.0,71.0,48.0
+UBCO,2021,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,28,64.9,,88.0,0.0,,,,,,,,,,,,,,,,,,,7,,,70.5,82.0,58.5
+UBCO,2022,W,ECON,309,,101,Intermediate Macroeconomics II,Kenneth Carlaw,6,85.2,,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,0,86.5,87.0,85.3
+UBCO,2022,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,23,69.2,,92.0,4.0,,,,,,,,,,,2,0,4,2,0,3,3,1,3,3,2,72.0,82.0,60.5
+UBCO,2023,W,ECON,102,,102,Principles of Macroeconomics,Kenneth Carlaw,132,62.4,,96.0,1.0,,,,,,,,,,,18,15,14,15,16,13,14,7,6,2,4,63.5,72.0,53.8
+UBCO,2023,W,ECON,339,,101,Economics of Technological Change,Kenneth Carlaw,35,68.9,,94.0,0.0,,,,,,,,,,,1,1,3,2,4,9,6,3,2,2,1,71.0,75.0,65.5

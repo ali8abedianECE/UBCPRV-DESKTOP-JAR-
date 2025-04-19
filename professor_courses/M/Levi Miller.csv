@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,COSC,122,,101,Computer Fluency,Levi Miller;Miles Thorogood,44,73.386363636,17.261620163,100.0,32.0,4,,,2,1,6,1,7,5,4,9
+UBCO,2016,W,COSC,111,,101,Computer Programming I,Bowen Hui;Cameron Chong;Levi Miller,70,72.27142857,24.22175416,100.0,0.0,19,0,0,2,1,2,6,5,7,6,22
+UBCO,2016,W,COSC,150,,001,Physical Computing,Levi Miller;Miles Thorogood;Norbert Eke,26,74.92307692,15.7173104,93.0,33.0,2,1,1,1,1,4,1,3,3,4,5
+UBCO,2016,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Congsong Zhang;Levi Miller;Norbert Eke,66,66.81818182,18.41814247,99.0,5.0,8,3,8,6,4,6,7,8,5,5,6
+UBCO,2016,W,COSC,221,,001,Introduction to Discrete Structures,Levi Miller;Norbert Eke;Yong Gao,86,72.46511628,15.85648702,99.0,0.0,2,2,9,9,9,14,7,4,9,7,14
+UBCO,2017,W,COSC,111,,101,Computer Programming I,Angelina Pinchbeck;Bowen Hui;Jeff Bulmer;Levi Miller;Rachelle Gelden,113,66.061946903,23.462844177,100.0,9.0,38,1,4,4,4,8,6,7,8,12,21
+UBCO,2017,W,COSC,341,,001,Human Computer Interaction,Bowen Hui;Jeff Bulmer;Levi Miller,76,78.697368421,16.17077177,100.0,39.0,10,0,0,0,2,5,10,4,11,11,23
+UBCO,2017,W,COSC,442,,001,Mobile Educational Game Development,Bowen Hui;Levi Miller,30,84.9,7.0336629,99.0,74.0,0,0,0,0,0,0,6,1,8,7,8

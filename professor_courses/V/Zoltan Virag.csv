@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,S,EDCP,413,,951,DM FOR MUSIC ED,"Virag, Zoltan",19,86.21,2.78,91,82,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,3,,,
+UBC,2016,S,EDCP,305,,951,DIGTL MED: INTRO,"Virag, Zoltan",18,85.24,2.31,89,78,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,15,0,,,
+UBC,2017,S,EDCP,413,,951,DM FOR MUSIC ED,"Virag, Zoltan",23,83.52,4.4,91,76,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,7,3,,,
+UBC,2018,S,EDCP,413,,951,DM FOR MUSIC ED,"Virag, Zoltan",15,89.13,2.72,95,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,,,
+UBCV,2015,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,19,86.21052632,2.780466535,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,11,3,,,
+UBCV,2016,S,EDCP,305,,951,Digital Media in Arts Education: Introduction,Zoltan Virag,17,85.23529412,2.305683515,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,15,0,,,
+UBCV,2017,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,23,83.52173913,4.399065657,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,10,7,3,,,
+UBCV,2018,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,15,89.133333333,2.72204405,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,7,,,
+UBCV,2019,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,26,89.576923077,2.548302602,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,18,,,
+UBCV,2020,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,22,89.818181818,3.633657001,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,15,,,
+UBCV,2021,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,16,88.5625,5.691733772,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,7,,,
+UBCV,2021,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,16,88.6,,96.0,78.0,,,,,,,,,,,,,,,,,,,,6,7,87.5,95.0,85.8
+UBCV,2022,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,11,91.3,,98.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9,91.0,93.0,90.0
+UBCV,2023,S,EDCP,413,,951,Digital Media for Music Education,Zoltan Virag,15,91.0,,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,12,90.0,92.5,90.0

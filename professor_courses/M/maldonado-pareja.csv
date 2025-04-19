@@ -1,0 +1,64 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EOSC,371,,201,INTR BIO&GE OCGY,"Grimm, Kurt Andrew;Maldonado-Pareja, Maria",112,67.09,15.5,93,0,102,7,3,0,0,3,0,1,0,3,7,5,10,14,14,12,16,10,12,7,2
+UBC,2002,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",7,85.83,4.75,93,80,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2002,W,EOSC,578,B,202,BIOL OCEAN SEM,"Dower, John;Maldonado-Pareja, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",240,76.12,13.15,98,0,224,10,6,0,0,1,0,0,2,7,10,4,11,15,13,8,24,33,51,48,17
+UBC,2003,W,EOSC,371,,201,INTR BIO&GE OCGY,"Grimm, Kurt Andrew;Maldonado-Pareja, Maria",118,75.23,10.41,95,44,117,1,0,0,0,0,0,0,0,1,1,2,8,8,8,12,14,21,18,21,5
+UBC,2005,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria",170,68.5,14.08,96,0,152,11,7,0,0,1,0,1,1,8,11,14,13,15,18,19,18,19,19,10,7
+UBC,2006,W,BIOL,305,,201,INTR BIO&GEO OCG,"Francois, Roger;Maldonado-Pareja, Maria",40,74.9,17.25,94,0,38,2,0,0,0,1,0,0,0,1,2,2,0,1,5,5,2,2,8,8,5
+UBC,2006,W,EOSC,270,,201,MARINE BIODVRSTY,"DiBacco, Claudio;Maldonado-Pareja, Maria;Pakhomov, Yevhenii;Suttle, Curtis",59,75.33,15.26,94,0,54,4,1,0,0,1,0,0,1,2,4,0,1,3,1,5,7,8,17,9,3
+UBC,2006,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",164,74.15,15.54,94,0,153,6,3,0,2,3,0,0,2,1,6,1,13,8,13,13,17,17,33,20,18
+UBC,2006,W,EOSC,371,,201,INTR BIO&GE OCGY,"Francois, Roger;Maldonado-Pareja, Maria",176,74.05,13,95,0,170,4,1,1,0,2,0,0,0,2,4,2,9,8,22,27,18,16,32,22,14
+UBC,2006,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,77.89,6.07,87,67,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1,2,0
+UBC,2006,W,EOSC,578,,001,BIOL OCEAN SEM,"Maldonado-Pareja, Maria",4,86.75,3.95,90,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2007,W,BIOL,305,,201,INTR BIO&GEO OCG,"Francois, Roger;Maldonado-Pareja, Maria",44,78.05,10.08,95,44,43,1,0,0,0,0,0,0,0,1,1,0,3,0,1,3,4,4,20,5,3
+UBC,2007,W,EOSC,270,,201,MARINE BIODVRSTY,"Germano, Bernardita;Maldonado-Pareja, Maria;Pakhomov, Yevhenii",78,74.56,17.3,97,0,71,4,3,0,0,1,0,1,2,0,4,3,5,3,2,3,9,7,18,12,9
+UBC,2007,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",141,73.29,15.22,97,0,131,8,2,0,0,1,0,1,2,4,8,5,7,11,7,15,10,20,22,19,15
+UBC,2007,W,EOSC,371,,201,INTR BIO&GE OCGY,"BONNY, SANDRA;Maldonado-Pareja, Maria",162,72.53,12.81,96,18,150,7,5,0,0,0,1,0,1,5,7,3,11,13,10,27,20,11,26,19,10
+UBC,2007,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria",9,78.63,11.1,94,65,8,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,3,1
+UBC,2007,W,EOSC,578,,001,BIOL OCEAN SEM,"Maldonado-Pareja, Maria",4,89.5,3,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2009,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Allen, Susan Elizabeth;Francois, Roger;Maldonado-Pareja, Maria;Orians, Kristin",188,72.44,12.06,97,2,184,4,0,0,0,1,0,0,0,3,4,8,4,15,27,33,29,15,27,10,16
+UBC,2009,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Allen, Susan Elizabeth;Francois, Roger;Maldonado-Pareja, Maria",97,67.02,15.66,98,18,88,8,1,0,0,0,2,0,2,4,8,11,9,11,8,13,9,4,9,5,9
+UBC,2009,W,EOSC,578,,001,BIOL OCEAN SEM,"Maldonado-Pareja, Maria",5,86.5,7.55,94,80,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+UBC,2011,W,EOSC,270,,201,MARINE ECOSYSTEM,"Lipsen, Michael;Maldonado-Pareja, Maria",64,78.98,14.38,94,0,62,2,0,0,0,1,0,0,1,0,2,0,2,1,2,4,5,6,18,16,8
+UBC,2011,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Allen, Susan Elizabeth;Maldonado-Pareja, Maria;Orians, Kristin",224,74.02,10.19,97,30,215,2,1,0,3,0,0,0,1,1,2,4,15,15,17,29,25,41,34,25,10
+UBC,2011,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Allen, Susan Elizabeth;Francois, Roger;Maldonado-Pareja, Maria",113,68.8,12.73,96,47,109,2,1,0,0,0,0,0,0,2,2,20,11,10,8,14,10,7,12,13,4
+UBC,2011,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,77.11,9.55,87,63,9,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,4,2,0
+UBC,2011,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",4,80.75,13.72,91,61,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+UBC,2012,W,EOSC,270,,201,MARINE ECOSYSTEM,"Maldonado-Pareja, Maria;Pakhomov, Yevhenii",55,83.18,10.92,98,51,55,0,0,0,0,0,0,0,0,0,0,2,0,1,1,2,8,4,7,12,18
+UBC,2012,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Allen, Susan Elizabeth;Maldonado-Pareja, Maria;Orians, Kristin",206,74.79,11.59,98,35,200,4,0,0,0,0,0,0,1,3,4,5,11,15,19,21,24,22,39,23,21
+UBC,2012,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Allen, Susan Elizabeth;Francois, Roger;Maldonado-Pareja, Maria",111,68.1,13.76,100,39,103,5,3,0,0,0,0,0,1,4,5,14,16,9,10,7,11,5,20,6,5
+UBC,2012,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",7,78.14,11.2,86,55,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4,1,0
+UBC,2013,W,EOSC,270,,201,MARINE ECOSYSTEM,"Maldonado-Pareja, Maria;Pakhomov, Yevhenii",61,83.1,15.16,100,15,58,2,1,0,0,0,1,0,0,1,2,1,2,0,1,4,4,2,8,11,25
+UBC,2013,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",204,73.88,12.82,99,38,193,5,1,0,4,0,0,0,1,4,5,9,12,19,15,19,25,19,31,22,22
+UBC,2013,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",83,71.92,14.95,97,39,71,8,2,1,0,0,0,0,1,7,8,5,6,3,3,10,4,10,11,9,10
+UBC,2013,W,EOSC,473,,201,METHODS IN OCGY,"Block, Stephanie;Maldonado-Pareja, Maria",11,80.55,6.99,93,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,1,2
+UBC,2014,W,EOSC,114,,201,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Woodell, Daniel",319,73.73,12.14,97,13,305,12,2,0,0,0,1,0,0,11,12,8,19,22,35,32,24,55,50,30,30
+UBC,2014,W,EOSC,114,,202,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Woodell, Daniel",338,73.84,10.73,97,23,329,7,2,0,0,0,0,1,0,6,7,4,21,31,26,30,59,54,45,39,20
+UBC,2014,W,EOSC,270,,201,MARINE ECOSYSTEM,"Maldonado-Pareja, Maria",62,82.18,8.38,95,61,62,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,5,5,15,14,14
+UBC,2014,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Lipsen, Michael;Maldonado-Pareja, Maria;Orians, Kristin",166,76.23,10.98,98,37,154,4,3,4,1,0,0,0,1,3,4,2,6,7,12,15,18,24,35,20,15
+UBC,2014,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Halverson, Mark;Lipsen, Michael;Maldonado-Pareja, Maria",64,71.52,13.16,93,30,61,2,0,0,1,0,0,0,1,1,2,4,7,2,5,11,6,4,7,12,3
+UBC,2014,W,EOSC,473,,201,METHODS IN OCGY,"Halverson, Mark;Maldonado-Pareja, Maria;Pakhomov, Yevhenii",14,85.14,3.76,90,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,1
+UBC,2014,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Halverson, Mark;Maldonado-Pareja, Maria;Pakhomov, Yevhenii",5,86.6,5.32,94,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2
+UBC,2015,W,EOSC,114,,201,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Russell, James Kelly;Stull, Roland;Sutherland, Stuart",342,71.15,13.22,99,0,320,16,5,0,0,2,0,0,1,13,16,11,26,26,47,36,42,31,48,35,18
+UBC,2015,W,EOSC,114,,202,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Russell, James Kelly;Stull, Roland;Sutherland, Stuart",336,71.48,13.42,95,0,317,14,3,1,0,2,2,0,4,6,14,9,23,27,34,41,41,40,52,33,17
+UBC,2015,W,EOSC,270,,201,MARINE ECOSYSTEM,"Maldonado-Pareja, Maria",50,85.38,8.22,96,58,50,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,2,5,23,15
+UBC,2015,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",183,73.72,12.24,96,13,176,4,2,0,0,0,1,0,0,3,4,6,9,16,19,18,21,16,37,19,15
+UBC,2015,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",75,71.96,10.91,96,47,73,1,1,0,0,0,0,0,0,1,1,5,6,4,9,4,15,12,11,2,5
+UBC,2016,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",332,73.77,10.58,97,45,323,3,2,0,0,0,0,0,0,3,3,11,15,17,38,37,44,51,50,37,23
+UBC,2016,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",289,72.92,11.11,96,20,281,3,3,1,0,0,0,1,0,2,3,10,16,26,27,35,30,41,47,31,18
+UBC,2016,W,EOSC,114,,201,CATASTROPH EARTH,"Bostock, Michael;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May",303,70.43,11.38,98,21,283,14,4,0,0,0,0,1,0,13,14,11,25,20,31,35,47,39,44,24,7
+UBC,2016,W,EOSC,114,,202,CATASTROPH EARTH,"Bostock, Michael;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May",261,68.46,11.77,95,35,243,12,3,0,0,0,0,0,5,7,12,14,27,24,34,34,35,27,20,18,10
+UBC,2016,W,EOSC,270,,201,MARINE ECOSYSTEM,"Lipsen, Michael;Maldonado-Pareja, Maria",54,81.76,7.67,94,56,54,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,3,5,21,15,6
+UBC,2016,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",167,74.28,13.12,99,12,162,4,1,0,0,0,1,0,0,3,4,10,13,7,12,13,13,16,48,14,16
+UBC,2016,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria",66,74.29,12.08,99,47,64,1,0,0,0,0,0,0,0,1,1,2,6,6,5,5,6,7,12,9,6
+UBC,2016,W,EOSC,473,,201,METHODS IN OCGY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",9,79.89,4.86,87,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,2,0
+UBC,2016,W,EOSC,573,,201,MTH OCEANOGRAPHY,"Maldonado-Pareja, Maria;Pawlowicz, Richard",6,85.67,3.88,91,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2
+UBC,2017,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",322,74.13,10.86,95,41,313,2,6,0,0,0,0,0,0,2,2,9,21,22,23,31,47,51,45,36,28
+UBC,2017,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",156,72.07,11.46,93,41,147,4,1,1,0,0,0,0,0,4,4,5,13,7,12,28,17,21,20,14,10
+UBC,2017,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Henschke, Natasha;Maldonado-Pareja, Maria;Orians, Kristin",191,72.4,10.99,96,42,182,4,3,0,1,0,0,0,0,4,4,6,9,20,19,29,31,8,34,19,7
+UBC,2018,W,EOSC,114,,101,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",226,73.11,11.54,94,18,217,7,1,0,1,0,1,1,1,4,7,6,10,10,19,26,33,42,34,26,11
+UBC,2018,W,EOSC,114,,102,CATASTROPH EARTH,"Gilley, Brett;Maldonado-Pareja, Maria;Porritt, Lucy;Stull, Roland;Ver, Leah May;Weis, Dominique",273,74.8,10.67,94,26,268,2,2,0,0,0,0,1,0,1,2,9,12,15,17,27,43,31,62,33,19
+UBC,2018,W,EOSC,372,,101,CIRCLTN & PLNKTN,"Maldonado-Pareja, Maria;Orians, Kristin;Pawlowicz, Richard",165,74.65,10.67,93,40,160,2,1,0,2,0,0,0,0,2,2,6,9,9,10,21,25,15,32,21,12
+UBC,2018,W,EOSC,373,,201,CLIMATE&ECOSYSTM,"Francois, Roger;Maldonado-Pareja, Maria;Pawlowicz, Richard",53,77.6,10.19,94,55,50,0,1,0,2,0,0,0,0,0,0,0,2,1,8,6,4,6,8,8,7
+UBC,2018,W,EOSC,473,,201,METHODS IN OCGY,"Block, Stephanie;Maldonado-Pareja, Maria",12,82.42,4.81,92,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,3,1

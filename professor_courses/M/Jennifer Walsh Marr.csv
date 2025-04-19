@@ -1,0 +1,91 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,LLED,200,,V01,INTRO ACAD WRIT,"Walsh Marr, Jennifer",15,57,17.76,88,23,9,6,0,0,0,0,0,1,1,4,6,1,2,0,2,1,1,0,1,1,0,,,
+UBC,2014,W,LLED,200,,V07,INTRO ACAD WRIT,"Walsh Marr, Jennifer",13,48.9,19.8,66,0,6,4,3,0,0,1,0,0,1,2,4,0,2,3,1,0,0,0,0,0,0,,,
+UBC,2014,W,LLED,200,,V08,INTRO ACAD WRIT,"Walsh Marr, Jennifer",14,56.31,19.38,75,0,11,2,1,0,0,1,0,0,1,0,2,1,3,2,2,2,1,0,0,0,0,,,
+UBC,2014,W,VANT,140,C,V01,CONTENT LANG TUT,"Walsh Marr, Jennifer",20,54.88,10.24,70,32,13,3,4,0,0,0,0,0,1,2,3,4,3,3,2,1,0,0,0,0,0,,,
+UBC,2014,W,VANT,140,C,V02,CONTENT LANG TUT,"Walsh Marr, Jennifer",16,60.4,11.22,72,31,13,2,1,0,0,0,0,0,1,1,2,1,3,2,1,5,1,0,0,0,0,,,
+UBC,2014,W,VANT,140,C,V03,CONTENT LANG TUT,"Walsh Marr, Jennifer",24,58.5,12.89,82,36,19,5,0,0,0,0,0,0,3,2,5,4,3,2,5,1,2,0,2,0,0,,,
+UBC,2014,W,VANT,140,C,V04,CONTENT LANG TUT,"Walsh Marr, Jennifer",16,56.77,19.57,77,3,10,3,3,0,0,1,0,0,0,2,3,1,2,1,3,0,1,2,0,0,0,,,
+UBC,2015,W,LLED,200,,V03,INTRO ACAD WRIT,"Walsh Marr, Jennifer",17,55.43,15.65,79,20,9,5,3,0,0,0,0,1,1,3,5,1,1,2,1,3,0,1,0,0,0,,,
+UBC,2015,W,LLED,200,,V07,INTRO ACAD WRIT,"Walsh Marr, Jennifer",17,51.13,14.67,78,17,10,6,1,0,0,0,1,0,3,2,6,3,3,2,1,0,0,1,0,0,0,,,
+UBC,2015,W,VANT,140,C,V01,CONTENT LANG TUT,"Walsh Marr, Jennifer",23,56.75,15.39,80,19,16,4,3,0,0,0,1,1,1,1,4,2,4,2,3,3,1,0,1,0,0,,,
+UBC,2015,W,VANT,140,C,V02,CONTENT LANG TUT,"Walsh Marr, Jennifer",23,64.77,7.51,81,55,22,0,1,0,0,0,0,0,0,0,0,0,5,8,4,0,2,2,1,0,0,,,
+UBC,2015,W,VANT,140,C,V03,CONTENT LANG TUT,"Walsh Marr, Jennifer",23,64.48,8.05,82,54,21,0,2,0,0,0,0,0,0,0,0,2,4,5,3,3,2,1,1,0,0,,,
+UBC,2015,W,VANT,140,C,V05,CONTENT LANG TUT,"Walsh Marr, Jennifer",20,66.8,10.2,87,44,19,1,0,0,0,0,0,0,0,1,1,1,0,6,5,1,2,2,1,1,0,,,
+UBC,2016,W,LLED,200,,V03,INTRO ACAD WRIT,"Walsh Marr, Jennifer",13,59.64,8.08,73,44,10,1,2,0,0,0,0,0,0,1,1,2,3,1,2,1,1,0,0,0,0,,,
+UBC,2016,W,LLED,200,,V07,INTRO ACAD WRIT,"Walsh Marr, Jennifer",14,61,9.84,72,43,8,1,5,0,0,0,0,0,0,1,1,1,1,2,1,2,1,0,0,0,0,,,
+UBC,2016,W,VANT,140,C,V01,CONTENT LANG TUT,"Walsh Marr, Jennifer",20,66.44,6.75,82,58,18,0,2,0,0,0,0,0,0,0,0,0,3,3,5,3,2,1,1,0,0,,,
+UBC,2016,W,VANT,140,C,V02,CONTENT LANG TUT,"Walsh Marr, Jennifer",19,64.5,11.84,81,28,17,1,1,0,0,0,0,1,0,0,1,1,1,5,3,4,0,1,2,0,0,,,
+UBC,2016,W,VANT,140,C,V03,CONTENT LANG TUT,"Walsh Marr, Jennifer",22,65,7.82,76,47,21,1,0,0,0,0,0,0,0,1,1,1,3,5,4,3,2,3,0,0,0,,,
+UBC,2016,W,VANT,140,C,V04,CONTENT LANG TUT,"Walsh Marr, Jennifer",20,62.16,6.39,77,53,19,0,1,0,0,0,0,0,0,0,0,1,5,9,1,0,2,1,0,0,0,,,
+UBC,2016,W,VANT,140,C,V05,CONTENT LANG TUT,"Walsh Marr, Jennifer",14,64.55,6.35,76,56,11,0,3,0,0,0,0,0,0,0,0,0,2,3,4,0,1,1,0,0,0,,,
+UBC,2016,W,VANT,140,C,V06,CONTENT LANG TUT,"Walsh Marr, Jennifer",21,67,6.31,78,55,17,0,4,0,0,0,0,0,0,0,0,0,2,4,2,6,1,2,0,0,0,,,
+UBC,2017,W,LLED,200,,V07,INTRO ACAD WRIT,"Walsh Marr, Jennifer",13,57.46,10.41,71,40,9,4,0,0,0,0,0,0,0,4,4,1,0,3,3,2,0,0,0,0,0,,,
+UBC,2017,W,LLED,200,,V09,INTRO ACAD WRIT,"Walsh Marr, Jennifer",14,61.69,8.4,71,49,12,1,1,0,0,0,0,0,0,1,1,2,3,0,2,5,0,0,0,0,0,,,
+UBC,2017,W,VANT,140,C,V03,CONTENT LANG TUT,"Walsh Marr, Jennifer",24,68.86,12.42,87,35,21,1,2,0,0,0,0,0,1,0,1,1,3,1,1,5,2,5,1,2,0,,,
+UBC,2017,W,VANT,140,C,V04,CONTENT LANG TUT,"Walsh Marr, Jennifer",25,68.96,8.79,83,41,22,1,2,0,0,0,0,0,0,1,1,0,1,1,7,3,6,3,1,0,0,,,
+UBC,2018,W,LLED,200,,V10,INTRO ACAD WRIT,"Walsh Marr, Jennifer",16,62.56,11.59,80,35,14,2,0,0,0,0,0,0,1,1,2,0,5,2,1,2,2,1,1,0,0,,,
+UBC,2018,W,LLED,200,,V13,INTRO ACAD WRIT,"Walsh Marr, Jennifer",16,63,10.44,77,34,15,1,0,0,0,0,0,0,1,0,1,1,2,4,1,5,1,1,0,0,0,,,
+UBC,2018,W,VANT,140,C,V04,CONTENT LANG TUT,"Walsh Marr, Jennifer",24,75.08,6.19,85,60,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,3,8,5,1,0,,,
+UBC,2018,W,VANT,140,C,V06,CONTENT LANG TUT,"Walsh Marr, Jennifer",24,70,7.31,82,57,21,0,3,0,0,0,0,0,0,0,0,0,1,3,6,2,3,4,2,0,0,,,
+UBCV,2014,W,LLED,200,,V01,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,15,57.0,17.75628661,88.0,23.0,,,,,,,,,,,6,,,,,,,,,,0,,,
+UBCV,2014,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,10,48.9,19.80151509,66.0,0.0,,,,,,,,,,,,,,,,0,0,0,0,0,0,,,
+UBCV,2014,W,LLED,200,,V08,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,13,56.30769231,19.37947632,75.0,0.0,,,,,,,,,,,,,,,,,,0,0,0,0,,,
+UBCV,2014,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Brett Todd;Jennifer Walsh Marr,16,54.875,10.24288371,70.0,32.0,,,,,,,,,,,,,,,,,0,0,0,0,0,,,
+UBCV,2014,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Brett Todd;Jennifer Walsh Marr,15,60.4,11.21733353,72.0,31.0,,,,,,,,,,,,,,,,5,,0,0,0,0,,,
+UBCV,2014,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Brett Todd;Jennifer Walsh Marr,24,58.5,12.88747285,82.0,36.0,,,,,,,,,,,5,,,,5,,,,,0,0,,,
+UBCV,2014,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Brett Todd;Jennifer Walsh Marr,13,56.76923077,19.57104088,77.0,3.0,,,,,,,,,,,,,,,,,,,0,0,0,,,
+UBCV,2015,W,LLED,200,,V03,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,14,55.428571429,15.6535289,79.0,20.0,,,,,,,,,,,5,,,,,,,,0,0,0,,,
+UBCV,2015,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,16,51.125,14.669128581,78.0,17.0,,,,,,,,,,,6,,,,,,,,0,0,0,,,
+UBCV,2015,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa,20,56.75,15.392667427,80.0,19.0,,,,,,,,,,,,,,,,,,,,0,0,,,
+UBCV,2015,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa,22,64.772727273,7.514632191,81.0,55.0,,,,,,,,,,,0,0,5,8,,,,,,0,0,,,
+UBCV,2015,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa,21,64.476190476,8.047478162,82.0,54.0,,,,,,,,,,,0,,,5,,,,,,0,0,,,
+UBCV,2015,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa,24,60.916666667,8.064504441,73.0,36.0,,,,,,,,,,,,,,8,,,,0,0,0,0,,,
+UBCV,2015,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa,20,66.8,10.201135128,87.0,44.0,,,,,,,,,,,,,,6,5,,,,,,0,,,
+UBCV,2016,W,LLED,200,,V03,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,11,59.63636364,8.078028562,73.0,44.0,,,,,,,,,,,1,2,3,1,2,1,1,0,0,0,0,,,
+UBCV,2016,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,9,61.0,9.836157786,72.0,43.0,,,,,,,,,,,1,1,1,2,1,2,1,0,0,0,0,,,
+UBCV,2016,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,18,66.44444444,6.749485577,82.0,58.0,,,,,,,,,,,0,0,3,3,5,3,2,1,1,0,0,,,
+UBCV,2016,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,18,64.5,11.84334015,81.0,28.0,,,,,,,,,,,1,1,1,5,3,4,0,1,2,0,0,,,
+UBCV,2016,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,22,65.0,7.819389819,76.0,47.0,,,,,,,,,,,1,1,3,5,4,3,2,3,0,0,0,,,
+UBCV,2016,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,19,62.15789474,6.388037065,77.0,53.0,,,,,,,,,,,0,1,5,9,1,0,2,1,0,0,0,,,
+UBCV,2016,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,11,64.54545455,6.346079677,76.0,56.0,,,,,,,,,,,0,0,2,3,4,0,1,1,0,0,0,,,
+UBCV,2016,W,VANT,140,C,V06,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,17,67.0,6.31466547,78.0,55.0,,,,,,,,,,,0,0,2,4,2,6,1,2,0,0,0,,,
+UBCV,2016,W,VANT,140,C,V15,Content and Language Enrichment Tutorials,Amber Shaw;Brett Todd;Jennifer Walsh Marr;Sandra Zappa;Won Kim,8,36.75,30.66757245,70.0,4.0,,,,,,,,,,,4,0,1,1,0,2,0,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,13,57.461538462,10.405250154,71.0,40.0,,,,,,,,,,,4,1,0,3,3,2,0,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,V09,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,13,61.692307692,8.400244197,71.0,49.0,,,,,,,,,,,1,2,3,0,2,5,0,0,0,0,0,,,
+UBCV,2017,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Jennifer Walsh Marr;Sandra Zappa,22,68.863636364,12.41847876,87.0,35.0,,,,,,,,,,,1,1,3,1,1,5,2,5,1,2,0,,,
+UBCV,2017,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Jennifer Walsh Marr;Sandra Zappa,23,68.956521739,8.787792467,83.0,41.0,,,,,,,,,,,1,0,1,1,7,3,6,3,1,0,0,,,
+UBCV,2018,W,LLED,200,,V10,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Mary Fritzie Perez;Sandra Zappa,16,62.5625,11.587169629,80.0,35.0,,,,,,,,,,,2,0,5,2,1,2,2,1,1,0,0,,,
+UBCV,2018,W,LLED,200,,V13,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,16,63.0,10.437113266,77.0,34.0,,,,,,,,,,,1,1,2,4,1,5,1,1,0,0,0,,,
+UBCV,2018,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Amber Shaw;Brett Gilley;Georg Rieger;Jennifer Walsh Marr;Priya Lekhi;Sandra Zappa,24,75.083333333,6.191977044,85.0,60.0,,,,,,,,,,,0,0,0,1,1,5,3,8,5,1,0,,,
+UBCV,2018,W,VANT,140,C,V06,Content and Language Enrichment Tutorials,Amber Shaw;Aubrey Leveridge;Jennifer Walsh Marr;Sandra Zappa,21,70.0,7.314369419,82.0,57.0,,,,,,,,,,,0,0,1,3,6,2,3,4,2,0,0,,,
+UBCV,2019,W,LLED,200,,V06,Introduction to Writing in Academic and Professional Registers,Itamar Manoff;Jennifer Walsh Marr;Sandra Zappa,14,65.928571429,7.660731896,82.0,57.0,,,,,,,,,,,0,0,3,4,3,1,1,0,2,0,0,,,
+UBCV,2019,W,LLED,200,,V08,Introduction to Writing in Academic and Professional Registers,Itamar Manoff;Jennifer Walsh Marr;Sandra Zappa,14,59.928571429,11.776536553,76.0,30.0,,,,,,,,,,,1,2,4,2,1,2,1,1,0,0,0,,,
+UBCV,2019,W,LLED,200,,V10,Introduction to Writing in Academic and Professional Registers,Itamar Manoff;Jennifer Walsh Marr;Sandra Zappa,12,63.833333333,7.577878491,77.0,51.0,,,,,,,,,,,0,1,2,1,4,2,1,1,0,0,0,,,
+UBCV,2019,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Jennifer Walsh Marr;Sandra Zappa,24,69.791666667,8.520967319,78.0,36.0,,,,,,,,,,,1,0,0,2,3,7,6,5,0,0,0,,,
+UBCV,2020,W,LLED,200,,V06,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,12,60.666666667,16.322507235,79.0,14.0,,,,,,,,,,,1,2,0,1,5,2,0,1,0,0,0,,,
+UBCV,2020,W,LLED,200,,V07,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Patricia Margaret Weaver;Sandra Zappa,15,60.133333333,17.77585307,85.0,2.0,,,,,,,,,,,1,1,2,6,2,1,1,0,0,1,0,,,
+UBCV,2020,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Fatimah Mahmood;Jennifer Walsh Marr;Priya Lekhi;Sandra Zappa,21,72.523809524,14.278021738,93.0,21.0,,,,,,,,,,,1,0,0,2,1,4,3,1,8,0,1,,,
+UBCV,2020,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Jennifer Walsh Marr;Juan Abello Rubio;Priya Lekhi;Sandra Zappa,25,73.48,13.534277471,91.0,28.0,,,,,,,,,,,2,0,0,1,1,4,3,6,5,2,1,,,
+UBCV,2021,W,LLED,200,,V01,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Heather Robertson;Jennifer Walsh Marr;Sandra Zappa,8,68.75,9.587938852,80.0,50.0,,,,,,,,,,,0,1,0,1,1,2,1,1,1,0,0,,,
+UBCV,2021,W,LLED,200,,V03,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Jennifer Walsh Marr;Sandra Zappa,12,71.75,11.840800034,84.0,38.0,,,,,,,,,,,1,0,0,1,0,1,4,4,1,0,0,,,
+UBCV,2021,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Walsh Marr;John Pringle;Sandra Zappa,19,72.105263158,12.943873441,91.0,33.0,,,,,,,,,,,1,1,0,1,2,2,4,3,3,1,1,,,
+UBCV,2021,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Christopher Gradin;Daniel Riccardi;Jennifer Walsh Marr;Jodie Martin;John Pringle;Sandra Zappa,17,78.529411765,4.784318748,83.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,5,9,0,0,,,
+UBCV,2021,W,LLED,200,,V01,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Jennifer Walsh Marr;Sandra Zappa,8,68.8,,80.0,50.0,,,,,,,,,,,,,,,,,,,,,,69.5,74.5,65.3
+UBCV,2021,W,LLED,200,,V03,Introduction to Writing in Academic and Professional Registers,Daniel Riccardi;Jennifer Walsh Marr;Sandra Zappa,12,71.8,,84.0,38.0,,,,,,,,,,,,,,,,,,,,,,75.0,77.0,71.8
+UBCV,2021,W,VANT,140,C,V01,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Walsh Marr;Sandra Zappa,19,72.1,,91.0,33.0,,,,,,,,,,,,,,,,,,,,,,73.0,80.0,67.5
+UBCV,2021,W,VANT,140,C,V03,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Walsh Marr;Sandra Zappa,17,78.5,,83.0,64.0,,,,,,,,,,,,,,,,,,,9,,,80.0,81.0,77.0
+UBCV,2022,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,11,67.3,,82.0,55.0,,,,,,,,,,,0,0,3,2,1,1,0,2,2,0,0,64.0,77.0,58.0
+UBCV,2022,W,LLED,200,,VE2,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,12,72.1,,81.0,63.0,,,,,,,,,,,0,0,0,1,1,3,3,3,1,0,0,72.0,76.5,68.8
+UBCV,2022,W,LLED,201,,VE3,Critical Reading and Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,10,72.1,,82.0,61.0,,,,,,,,,,,0,0,0,1,1,3,3,1,1,0,0,72.5,75.0,69.3
+UBCV,2022,W,LLED,201,,VE5,Critical Reading and Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,12,76.8,,85.0,67.0,,,,,,,,,,,0,0,0,0,1,0,4,4,2,1,0,78.0,79.3,73.0
+UBCV,2022,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,20,80.3,,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,7,9,2,0,80.0,83.0,78.0
+UBCV,2022,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,18,76.9,,86.0,65.0,,,,,,,,,,,0,0,0,0,2,1,4,4,5,2,0,77.5,81.0,73.3
+UBCV,2022,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,15,69.8,,84.0,59.0,,,,,,,,,,,0,0,1,3,2,3,2,2,2,0,0,69.0,75.5,63.5
+UBCV,2023,W,LLED,200,,VE1,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,11,75.0,,85.0,60.0,,,,,,,,,,,0,0,0,1,1,2,1,3,2,1,0,78.0,79.5,70.5
+UBCV,2023,W,LLED,200,,VE2,Introduction to Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,7,68.7,,79.0,50.0,,,,,,,,,,,0,1,0,1,0,1,3,1,0,0,0,72.0,75.0,65.0
+UBCV,2023,W,LLED,201,,VE1,Critical Reading and Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,8,62.0,,74.0,53.0,,,,,,,,,,,0,1,2,2,1,0,1,0,0,0,0,62.0,65.0,57.5
+UBCV,2023,W,LLED,201,,VE3,Critical Reading and Writing in Academic and Professional Registers,Jennifer Walsh Marr;Sandra Zappa,10,61.0,,72.0,2.0,,,,,,,,,,,1,0,0,1,4,3,1,0,0,0,0,67.0,70.0,65.5
+UBCV,2023,W,VANT,140,D,VE1,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,10,67.1,,82.0,51.0,,,,,,,,,,,0,1,1,1,3,0,0,3,1,0,0,65.0,76.0,61.75
+UBCV,2023,W,VANT,140,D,VE2,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,14,64.82,,81.0,52.0,,,,,,,,,,,0,1,3,0,4,1,1,0,1,0,0,65.0,68.5,58.5
+UBCV,2023,W,VANT,140,D,VE3,Content and Language Enrichment Tutorials,Alfredo Ferreira;Fatimah Mahmood;John Pringle;Jennifer Walsh Marr;Sandra Zappa,18,75.63,,91.0,61.0,,,,,,,,,,,0,0,0,1,1,3,2,3,4,1,1,76.5,81.25,69.5

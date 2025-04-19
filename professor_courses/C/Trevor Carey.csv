@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CIVL,311,,101,Soil Mechanics II,Ana Maria Valverde Sancho;Caroline Zulkoski;Davinder Singh Saini;Dharmapriya Wijewickreme;Lai Kan Wong;Sounik Banerjee;Thushara Jayasinghe Mudiyanselage;Trevor Carey;Vinoth Ganapathiraman,155,68.980645161,15.773342203,98.0,20.0,24,4,4,11,15,23,15,20,12,19,8,,,
+UBCV,2021,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John A. Howie;Trevor Carey,9,84.444444444,6.444204976,92.0,71.0,0,0,0,0,0,1,0,1,2,3,2,,,
+UBCV,2021,W,CIVL,311,,101,Soil Mechanics II,Trevor Carey;Dharmapriya Wijewickreme,155,69.0,,98.0,20.0,24,,,11,15,23,15,20,12,19,8,71.0,79.5,61.5
+UBCV,2021,W,CIVL,574,,201,Experimental Soil Mechanics,Trevor Carey;John A. Howie;Dharmapriya Wijewickreme,9,84.4,,92.0,71.0,,,,,,,,,,,,86.0,89.0,83.0
+UBCV,2022,W,CIVL,311,,101,Soil Mechanics II,Trevor Carey;Dharmapriya Wijewickreme,179,74.8,,95.0,14.0,12,0,0,8,16,24,13,29,43,22,12,78.0,83.0,69.5
+UBCV,2022,W,CIVL,504,,101,Seismic Hazard Analysis and Design Parameters,Trevor Carey,20,83.1,,94.0,54.0,2,0,0,0,1,1,0,0,2,7,7,87.5,90.3,83.0
+UBCV,2022,W,CIVL,574,,201,Experimental Soil Mechanics,Trevor Carey;Dharmapriya Wijewickreme,9,84.2,,95.0,65.0,0,0,0,0,1,0,0,0,2,4,2,85.0,86.0,82.0
+UBCV,2023,W,CIVL,311,,101,Soil Mechanics II,Trevor Carey;Dharmapriya Wijewickreme,154,74.5,,93.0,0.0,8,0,3,4,9,16,27,25,28,27,7,77.0,84.0,71.0
+UBCV,2023,W,CIVL,574,,201,Experimental Soil Mechanics,Trevor Carey;Dharmapriya Wijewickreme,7,86.4,,96.0,66.0,0,0,0,0,1,0,0,0,1,2,3,89.0,92.0,85.0

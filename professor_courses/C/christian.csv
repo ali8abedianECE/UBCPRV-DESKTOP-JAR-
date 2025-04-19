@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,EOSC,250,,101,GEO FLDS&FLUX I,"Schoof, Christian",31,70.68,17.27,95,25,28,3,0,0,0,0,0,2,0,1,3,1,2,1,3,6,2,2,4,3,4
+UBC,2003,W,SOCI,350,B,002,SOCI THEORIES,"Joppke, Christian",25,67.08,12.72,84,28,23,2,0,0,0,0,0,1,1,0,2,0,2,3,4,4,5,3,2,0,0
+UBC,2003,W,SOCI,461,A,001,POLITICAL SOCI,"Joppke, Christian",18,71.61,12.43,85,35,17,1,0,0,0,0,0,0,1,0,1,0,1,2,1,1,3,4,4,1,0
+UBC,2003,W,SOCI,500,,001,SOCIAL THOUGHT,"Joppke, Christian",15,80.73,5.29,90,73,11,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,2,1
+UBC,2006,W,GERM,100,,011,BEGIN GERM I,"Langenegger, Christian",19,73.65,12.63,95,53,17,0,0,2,0,0,0,0,0,0,0,2,0,1,1,4,2,3,1,0,3
+UBC,2007,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",18,69.06,21.8,97,8,16,2,0,0,0,1,0,0,1,0,2,1,1,0,3,3,0,1,3,1,3
+UBC,2009,W,ATSC,500,,101,BNDRY-LYR METRLY,"Austin, Philip;REUTEN, CHRISTIAN",7,87,4.98,94,80,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2009,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",20,74.26,13.56,95,51,19,0,1,0,0,0,0,0,0,0,0,1,3,1,2,1,1,1,4,2,3
+UBC,2009,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",12,68.25,21.35,100,24,11,1,0,0,0,0,0,1,0,0,1,3,0,1,0,2,0,2,1,0,2
+UBC,2009,W,EOSC,554,B,201,THEORCALGLACIOL,"Schoof, Christian",5,86.8,2.28,89,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2009,W,WOOD,485,,201,FURNITURE CONSTR,"Blyt, Christian",20,73,6.73,82,62,20,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,0,5,4,0,0
+UBC,2010,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",23,72.9,20.77,100,23,19,2,2,0,0,0,0,1,0,1,2,2,2,1,1,1,3,1,1,1,6
+UBC,2010,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",15,74.62,12.3,90,50,13,0,1,0,1,0,0,0,0,0,0,1,1,0,2,0,1,3,2,2,1
+UBC,2011,W,ATSC,500,,101,BNDRY-LYR METRLY,"Austin, Philip;REUTEN, CHRISTIAN",4,84.5,1,85,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2011,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",18,62.28,25.55,85,3,14,4,0,0,0,1,0,2,1,0,4,1,1,0,1,3,0,2,4,2,0
+UBC,2011,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",9,83.33,8.67,94,68,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,3
+UBC,2012,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",16,73.94,10.66,90,56,16,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,4,1,2,2,1
+UBC,2012,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",14,77.17,7.96,90,61,12,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,2,5,1,1,1
+UBC,2012,W,EOSC,554,B,101,THEORCALGLACIOL,"Schoof, Christian",6,87.33,2.73,92,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1
+UBC,2012,W,MATH,105,,204,INT CALC AP C&SS,"Sadel, Christian",87,60.1,17.6,91,12,60,17,9,0,1,0,3,0,10,4,17,8,6,6,12,8,6,6,3,4,1
+UBC,2012,W,MATH,300,,101,INTR COMPLEX VAR,"Sadel, Christian",59,65.04,17.26,99,25,42,9,7,0,1,0,0,1,3,5,9,5,7,1,2,5,6,4,7,2,3
+UBC,2013,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",11,73.64,12.16,91,61,11,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,0,0,2,2
+UBC,2013,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",8,76.38,10.34,86,55,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1,2,0
+UBC,2013,W,MATH,100,,108,DF CALC AP PH SC,"Sadel, Christian",92,73.76,15.27,96,28,86,5,1,0,0,0,0,2,0,3,5,8,2,5,6,9,10,7,12,12,15
+UBC,2013,W,MATH,300,,101,INTR COMPLEX VAR,"Sadel, Christian",67,65.5,15.48,93,24,56,10,1,0,0,0,0,1,3,6,10,9,2,6,7,5,5,9,7,5,1
+UBC,2014,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;MacGillivray, Ross;Strynadka, Natalie",67,77.3,8.35,96,50,66,0,0,1,0,0,0,0,0,0,0,1,1,2,3,7,10,15,15,7,5
+UBC,2014,W,PATH,502,,001,TPCS PATH RSRCH,"Bally, Marcel Bertran;Bennewith, Kevin;Cote, Helene;Devlin, Angela;Rajcan-Separovic, Evica;Shah, Sohrab;Steidl, Christian;Verchere, Bruce;Wellington, Cheryl Lea;Weng, Andrew",19,92.58,3.01,98,86,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+UBC,2015,W,ARCH,502,,610,INTRO WORKSHOP,"Girling, Cynthia;Kliegel, Christian",47,,,,,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;MacGillivray, Ross;Strynadka, Natalie",52,75.54,10.15,92,50,52,0,0,0,0,0,0,0,0,0,0,1,4,2,2,10,6,4,11,9,3
+UBC,2015,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",26,71.32,20.52,88,6,23,2,1,0,0,1,1,0,0,0,2,0,1,0,1,4,4,3,6,4,0
+UBC,2015,W,EOSC,352,,101,GEOP CNTUM DYNCS,"Schoof, Christian",19,75.26,12.66,98,51,19,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,3,3,2,1,3
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2015,W,LARC,511,,001,INTR WORKSHOP,"Girling, Cynthia;Kliegel, Christian",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PATH,502,,001,TPCS PATH RSRCH,"Bennewith, Kevin;Cote, Helene;Devlin, Angela;Granville, David;Lockwood, William;Shah, Sohrab;Steidl, Christian;Verchere, Bruce;Wellington, Cheryl Lea;Weng, Andrew",19,91.79,3.24,97,87,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14
+UBC,2016,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Williams, Warren;Withers, Stephen",83,76.63,10.1,94,52,82,0,1,0,0,0,0,0,0,0,0,1,4,6,7,6,6,14,18,15,5
+UBC,2016,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",11,78.89,9.06,91,65,9,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,0,2
+UBC,2016,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",16,74.2,17.64,93,40,13,2,0,0,1,0,0,0,0,2,2,0,1,0,2,2,0,1,0,4,3
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2016,W,PATH,502,,001,TPCS PATH RSRCH,"Bennewith, Kevin;Cote, Helene;Devlin, Angela;Granville, David;Lockwood, William;Shah, Sohrab;Steidl, Christian;Verchere, Bruce;Wellington, Cheryl Lea",15,89.23,4.75,97,82,13,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,8
+UBC,2017,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Withers, Stephen",55,78.44,11.41,97,51,54,0,1,0,0,0,0,0,0,0,0,3,1,3,3,2,7,6,11,10,8
+UBC,2017,W,EDST,546,,61A,INDG MTHD EPST,"Christian, Dorothy;Young, Alannah",25,90.32,6.74,99,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,17
+UBC,2017,W,EOSC,114,,201,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",283,72.39,12.95,99,0,262,9,4,1,0,2,0,0,2,5,9,3,18,18,31,36,38,36,35,21,26
+UBC,2017,W,EOSC,114,,202,CATASTROPH EARTH,"Bostock, Michael;Porritt, Lucy;Radic, Valentina;Schoof, Christian;Stull, Roland;Ver, Leah May",235,73.38,11,96,28,227,4,3,0,0,0,0,1,1,2,4,8,7,17,24,27,34,28,40,28,14
+UBC,2017,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",9,76.89,16.52,94,35,8,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,4,0,1
+UBC,2017,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",12,77.25,12.56,99,59,12,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,0,4,1,2
+UBC,2017,W,EOSC,554,B,201,THEORCALGLACIOL,"Schoof, Christian",4,93.75,0.96,95,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2017,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Rieseberg, Loren;Rossi, Fabio;Tokuriki, Nobuhiko",15,92.73,3.73,97,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2017,W,PATH,502,,001,TPCS PATH RSRCH,"Bennewith, Kevin;Devlin, Angela;Granville, David;Priatel, John;Pryzdial, Edward;Shah, Sohrab;Steidl, Christian;Verchere, Bruce;Wellington, Cheryl Lea;Yip, Stephen",15,90.4,4.55,97,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,9
+UBC,2018,W,BIOC,403,,201,ENZYMOLOGY,"Kastrup, Christian;Strynadka, Natalie;Withers, Stephen",77,75.29,12.95,100,50,77,0,0,0,0,0,0,0,0,0,0,4,7,5,7,9,3,9,14,8,11
+UBC,2018,W,EOSC,250,,201,FLDS AND FLUXES,"Schoof, Christian",12,72.89,11.75,88,50,9,0,2,1,0,0,0,0,0,0,0,1,0,0,1,3,0,2,0,2,0
+UBC,2018,W,EOSC,352,,201,GEOP CNTUM DYNCS,"Schoof, Christian",12,75.92,9.39,89,60,12,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,2,3,0

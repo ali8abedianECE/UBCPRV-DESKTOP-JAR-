@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,ENGR,377,,101,Manufacturing Processes,Lukas Bichler;Masoud Taghinezhad Namini;Mehrdad Zareh Bannad Kouki;Saibal Modak;Somi Doja;Tyler Davis;Vladimir Neykov,100,78.44,8.247827997,95.0,43.0,,,,,,11,15,15,28,13,11,,,
+UBCO,2015,W,ENGR,416,,001,Advanced Manufacturing CAD/CAM/CAE,Amir Zaher;Ian Foulds;Lukas Bichler;Mathew Smith;Vladimir Neykov,80,80.7125,7.188587562,95.0,55.0,0,0,,,,,6,16,25,18,7,,,
+UBCO,2023,W,ENGR,380,,201,Design of Machine Elements,Vladimir Neykov,159,78.4,,95.0,39.0,4,2,2,3,5,13,20,25,36,37,10,80.0,85.0,74.0

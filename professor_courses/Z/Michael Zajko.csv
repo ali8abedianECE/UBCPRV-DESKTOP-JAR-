@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,SOCI,209,,101,Foundations of Sociological Thought,Billie Franck;Erica Thomson;Michael Zajko,67,72.388059701,16.630526171,98.0,0.0,3,2,7,4,3,10,7,4,15,6,6,,,
+UBCO,2018,W,SOCI,249,,001,Crime and Society,Billie Franck;Michael Zajko,70,75.028571429,14.143131101,95.0,18.0,3,1,2,4,6,4,7,16,10,9,8,,,
+UBCO,2018,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko,21,76.0,21.79220044,99.0,22.0,2,1,2,0,1,1,0,2,2,3,7,,,
+UBCO,2019,W,SOCI,111,,002,Introduction to Sociology I,Jamie Arnett;Michael Zajko;Pegah Behroozi Nobar,234,73.11965812,14.516625007,100.0,26.0,10,11,16,11,30,26,29,28,21,19,33,,,
+UBCO,2019,W,SOCI,209,,101,Foundations of Sociological Thought,Dilsora Komil-Burley;H V Bonar Buffam;Laura Mudde;Michael Zajko;Piotr Ahmad,68,74.558823529,11.73892918,97.0,44.0,2,3,1,6,5,8,6,11,12,9,5,,,
+UBCO,2019,W,SOCI,249,,001,Crime and Society,Billie Franck;Michael Zajko,76,73.473684211,10.367222301,96.0,42.0,2,1,2,6,5,12,19,9,10,4,6,,,
+UBCO,2019,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko;Rudolf Seethaler,36,81.083333333,14.175179515,98.0,34.0,1,0,1,0,4,3,2,2,6,5,12,,,
+UBCO,2019,W,SOCI,496,V,001,Advanced Studies in Sociology,Michael Zajko,30,82.8,14.613173084,97.0,48.0,1,0,3,0,3,0,2,1,0,4,16,,,
+UBCO,2020,W,IGS,591,,101,Society and Conflict,Jasmin Hristov;Michael Zajko,13,95.615384615,2.433737234,99.0,91.0,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCO,2020,W,SOCI,111,,001,Introduction to Sociology I,Donya Hatami;Emily Beagle;Jamie Arnett;Jennifer Williams;Michael Zajko,338,74.25739645,15.621886658,100.0,19.0,23,14,11,23,22,31,38,38,41,40,57,,,
+UBCO,2020,W,SOCI,271,,001,Statistical Analysis in Sociology I,Michael Zajko,30,74.8,11.030990827,97.0,55.0,0,0,1,5,2,3,6,4,4,2,3,,,
+UBCO,2020,W,SOCI,377,,101,Contemporary Sociological Theory,H V Bonar Buffam;Michael Zajko,43,74.744186047,16.444847251,96.0,13.0,2,0,0,3,3,6,6,4,7,6,6,,,
+UBCO,2021,W,IGS,591,,101,Society and Conflict,Deana Simonetto;Michael Zajko,7,89.0,3.915780041,95.0,85.0,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCO,2021,W,SOCI,249,,001,Crime and Society,Donya Hatami;Michael Zajko,68,75.308823529,15.568104931,99.0,30.0,5,4,2,3,5,6,6,5,7,12,13,,,
+UBCO,2021,W,SOCI,271,,001,Statistical Analysis in Sociology I,Michael Zajko,26,71.384615385,14.108371765,93.0,41.0,1,3,2,1,5,0,2,2,5,3,2,,,
+UBCO,2021,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko,30,78.566666667,15.688087581,99.0,43.0,1,2,0,3,2,2,3,2,3,1,11,,,
+UBCO,2021,W,SOCI,492,,101,Surveillance and Society,Michael Zajko,29,86.103448276,11.536726534,100.0,55.0,0,0,1,1,1,0,3,1,2,5,15,,,
+UBCO,2021,W,SOCI,249,,001,Crime and Society,Michael Zajko,68,75.5,,99.0,30.0,,,,,,6,6,,7,12,13,77.0,88.0,67.0
+UBCO,2021,W,SOCI,271,,001,Statistical Analysis in Sociology I,Michael Zajko,26,71.4,,93.0,41.0,,,,,,,,,,,,73.0,83.3,61.8
+UBCO,2021,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko,30,79.5,,99.0,43.0,,,,,,,,,,,12,81.0,93.0,70.3
+UBCO,2021,W,SOCI,492,,101,Surveillance and Society,Michael Zajko,29,86.1,,100.0,55.0,,,,,,,,,,,15,90.0,94.0,84.0
+UBCO,2022,W,SOCI,111,,002,Introduction to Sociology,Michael Zajko,207,73.1,,100.0,0.0,11,8,17,20,14,13,19,19,32,27,27,76.0,85.0,63.0
+UBCO,2022,W,SOCI,271,,001,Statistical Analysis in Sociology I,Michael Zajko,28,77.4,,99.0,23.0,1,0,1,2,3,3,2,1,3,6,6,80.0,88.0,67.8
+UBCO,2022,W,SOCI,492,,101,Surveillance and Society,Michael Zajko,59,81.1,,100.0,17.0,2,1,0,4,3,3,4,5,6,10,21,85.0,92.0,74.0
+UBCO,2023,W,SOCI,111,,102,Introduction to Sociology,Michael Zajko,180,76.1,,100.0,11.0,5,4,5,10,16,18,23,15,31,11,34,77.5,85.0,68.0
+UBCO,2023,W,SOCI,249,,001,Crime and Society,Michael Zajko,88,74.7,,99.0,37.0,2,4,5,7,9,4,12,9,10,8,15,75.0,85.0,64.0
+UBCO,2023,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko,36,82.3,,100.0,52.0,0,1,0,1,2,2,4,2,5,4,11,84.0,92.0,74.8
+UBCO,2023,W,SOCI,492,,001,Surveillance and Society,Michael Zajko,60,83.0,,100.0,11.0,1,1,2,2,4,2,5,2,7,7,26,88.0,95.5,74.5

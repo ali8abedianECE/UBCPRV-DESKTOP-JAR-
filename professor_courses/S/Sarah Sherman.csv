@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,EOSC,116,,201,MESOZOIC EARTH,"Golding, Martyn;Mortensen, James;Sherman, Sarah",175,73.64,11.49,95,41,169,3,3,0,0,0,0,0,0,3,3,6,9,11,24,17,19,18,29,19,17
+UBC,2014,W,EOSC,221,,201,INTRO PETROLOGY,"Kopylova, Maya;Sherman, Sarah",76,68.81,10.61,85,22,70,5,1,0,0,0,0,1,0,4,5,1,4,7,10,13,14,14,6,1,0
+UBC,2015,S,EOSC,114,,971,CATASTROPH EARTH,"Athaide, Dileep;Sherman, Sarah",208,73.51,9.21,94,40,203,1,2,0,1,0,0,0,0,1,1,3,12,13,23,32,31,25,41,20,3
+UBC,2015,W,EOSC,328,,201,FIELD GEOLOGY,"Gilley, Brett;Kennedy, Lori;Porritt, Lucy;Russell, James Kelly;Sherman, Sarah;Smit, Matthijs",35,76.66,7.99,93,50,35,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,11,12,3,2,3
+UBC,2016,S,EOSC,114,,971,CATASTROPH EARTH,"Sherman, Sarah",217,75.12,10.95,96,29,207,4,4,0,1,0,0,1,0,3,4,6,5,14,15,31,28,19,43,33,13
+UBC,2016,W,EOSC,328,,201,FIELD GEOLOGY,"Gilley, Brett;Hickey, Kenneth;Porritt, Lucy;Scoates, James Stewart;Sherman, Sarah;Smit, Matthijs",37,74.95,7.53,92,56,37,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3,10,8,9,1,1
+UBC,2016,W,EOSC,515,,201,GRAD SEMINAR,"Holland, Tara;Sherman, Sarah",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EOSC,516,,101,TEACH&LRN EOASC,"Holland, Tara;Sherman, Sarah",14,,,,,0,0,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EOSC,114,,971,CATASTROPH EARTH,"Sherman, Sarah",197,77.35,11.03,95,30,192,1,2,0,0,0,0,0,1,0,1,5,6,10,10,16,32,17,34,32,30
+UBCV,2014,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Emily Don Scribner;Emily Scribner;James Mortensen;Martyn Golding;Pejman Rasouli;Sarah Sherman,172,73.63953488,11.49412542,95.0,41.0,,,,,,,,,,,3,6,9,11,24,17,19,18,29,19,17
+UBCV,2014,W,EOSC,221,,201,Introductory Petrology,Catherine Armstrong;Catherine Jean Armstrong;Charles Kosman;Erica Tso;Matthew Gaudet;Maya Kopylova;Nicole Williamson;Sarah Sherman,75,68.81333333,10.60557392,85.0,22.0,,,,,,,,,,,5,,,7,10,13,14,14,6,,0
+UBCV,2015,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Dileep Athaide;Sarah Sherman,206,73.09223301,10.53246956,94.0,0.0,,,,,,,,,,,2,3,12,14,23,32,31,25,41,20,3
+UBCV,2015,W,EOSC,328,,201,Field Geology,Brett Gilley;James Kelly Russell;Lori Kennedy;Lucy Porritt;Matthijs Smit;Sarah Sherman,35,76.657142857,7.992433396,93.0,50.0,,,,,,,,,,,0,,,,,,11,12,,,
+UBCV,2016,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Emily Don Scribner;Emily Scribner;Luca Malaguti;Sarah Sherman,213,74.88732394,11.33064299,96.0,29.0,,,,,,,,,,,5,6,5,14,15,32,28,19,43,33,13
+UBCV,2016,W,EOSC,328,,201,Field Geology,Brett Gilley;James Stewart Scoates;Kenneth Hickey;Lucy Porritt;Matthijs Smit;Sarah Sherman,37,74.94594595,7.534903767,92.0,56.0,,,,,,,,,,,0,0,2,1,2,3,10,8,9,1,1
+UBCV,2017,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Manuel Colombo;Sarah Sherman;Saurav Sahu;Yuliya Kuzmenko,195,77.174358974,11.120722691,95.0,30.0,,,,,,,,,,,1,5,7,10,11,16,32,17,34,32,30
+UBCV,2018,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Alison Jolley;Benjamin Scheifele;Leah May Ver;Sarah Sherman;Yulia Egorova,102,75.980392157,12.731018013,94.0,0.0,,,,,,,,,,,1,1,7,4,10,8,10,15,21,18,7

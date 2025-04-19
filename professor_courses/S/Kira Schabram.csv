@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,COMM,292,,201,MNGMT&ORGNZ BHVR,"Schabram, Kira",38,74.34,6.7,90,60,38,0,0,0,0,0,0,0,0,0,0,0,0,1,7,6,6,7,9,1,1
+UBC,2014,W,COMM,292,,203,MNGMT&ORGNZ BHVR,"Schabram, Kira",41,74.85,4.53,84,63,41,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,14,7,10,0,0
+UBCV,2014,W,COMM,292,,201,Management and Organizational Behaviour,Kira Schabram,38,74.34210526,6.699238826,90.0,60.0,,,,,,,,,,,0,0,0,,7,6,6,7,9,,
+UBCV,2014,W,COMM,292,,203,Management and Organizational Behaviour,Kira Schabram,41,74.85365854,4.53078898,84.0,63.0,,,,,,,,,,,0,0,0,,,8,14,7,10,0,0

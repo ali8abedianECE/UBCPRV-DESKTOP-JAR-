@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EECE,545,,101,SIGNAL COMPRESSN,"Poon, Steven",14,80.57,9.21,90,55,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,5,4,1
+UBC,2002,W,EECE,575,,202,DGTL IMG&VD PROC,"Poon, Steven",16,86.87,5.3,97,75,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,6
+UBC,2003,W,EECE,545,,101,SIGNAL COMPRESSN,"Poon, Steven",15,85.33,5.61,96,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,4

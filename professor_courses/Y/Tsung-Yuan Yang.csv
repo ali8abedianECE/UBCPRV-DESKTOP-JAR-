@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",128,73.24,12.25,99,4,125,3,0,0,0,1,0,1,0,1,3,5,2,7,15,15,25,9,26,15,6,,,
+UBC,2010,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",128,76.5,8.27,96,50,127,0,1,0,0,0,0,0,0,0,0,2,4,2,8,13,21,27,33,11,6,,,
+UBC,2011,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",125,76.22,11.8,95,11,122,3,0,0,0,0,1,0,0,2,3,3,4,4,7,13,16,22,21,21,11,,,
+UBC,2011,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",25,88.83,4.12,97,82,24,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,10,,,
+UBC,2011,W,CIVL,598,D,001,TPCS IN CIVL ENG,"Yang, Tsung-Yuan",6,88.4,5.5,95,80,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBC,2012,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",129,79.98,11.07,100,16,126,1,2,0,0,0,1,0,0,0,1,0,3,2,10,7,12,20,29,19,24,,,
+UBC,2012,W,CIVL,498,A,001,TOPICS CIVIL ENG,"Yang, Tsung-Yuan",11,80.55,11.48,100,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,2,2,,,
+UBC,2012,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",21,83.43,7.47,96,72,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,3,6,,,
+UBC,2013,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",140,75.84,12.01,96,0,136,4,0,0,0,1,0,1,0,2,4,3,0,4,7,22,16,21,37,17,9,,,
+UBC,2013,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",32,84.29,5.82,96,73,31,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,9,8,8,,,
+UBC,2013,W,CIVL,598,D,201,TPCS IN CIVL ENG,"Yang, Tsung-Yuan",11,89.44,3.71,94,82,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,,,
+UBC,2014,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",137,78.2,8.37,96,53,137,0,0,0,0,0,0,0,0,0,0,1,0,2,7,27,14,21,32,17,16,,,
+UBC,2014,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",14,86.4,6.17,95,78,10,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,,,
+UBC,2014,W,CIVL,598,D,002,TPCS IN CIVL ENG,"Yang, Tsung-Yuan",6,92,2.53,96,90,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBC,2015,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",18,86.94,5.24,95,77,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,6,,,
+UBC,2015,W,CIVL,597,,004,SEMINAR,"Yang, Tsung-Yuan",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,CIVL,511,,201,ADV TPCS STL STR,"Yang, Tsung-Yuan",17,86,6.06,94,72,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,5,5,,,
+UBC,2016,W,CIVL,597,,004,SEMINAR,"Yang, Tsung-Yuan",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,CIVL,228,,201,INTRO STRUCT ENG,"Yang, Tsung-Yuan",136,83.25,7.7,96,58,136,0,0,0,0,0,0,0,0,0,0,0,1,3,0,6,12,14,33,29,38,,,
+UBC,2017,W,CIVL,505,,201,SEISMIC RSP STRC,"Yang, Tsung-Yuan",22,83.45,7.44,98,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,5,4,6,,,
+UBC,2017,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",12,85.25,4.65,92,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,4,,,
+UBC,2017,W,CIVL,597,,004,SEMINAR,"Yang, Tsung-Yuan",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,CIVL,231,,201,INT STRCRL ENG,"Yang, Tsung-Yuan",130,83.21,7.32,99,33,128,1,0,0,1,0,0,0,1,0,1,0,0,1,0,5,7,11,40,41,23,,,
+UBC,2018,W,CIVL,505,,201,SEISMIC RSP STRC,"Yang, Tsung-Yuan",16,85.93,4.12,90,75,14,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,3,,,
+UBC,2018,W,CIVL,511,,101,ADV TPCS STL STR,"Yang, Tsung-Yuan",5,91.2,1.64,93,89,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2018,W,CIVL,597,,004,SEMINAR,"Yang, Tsung-Yuan",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,CIVL,228,,201,Introduction to Structural Engineering,Tsung-Yuan Yang,137,78.20437956,8.371115154,96.0,53.0,,,,,,,,,,,0,,,,7,27,14,21,32,17,16,,,
+UBCV,2014,W,CIVL,511,,101,Advanced Topics in Steel Structures,Tsung-Yuan Yang,10,86.4,6.16801787,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2014,W,CIVL,598,D,002,Topics in Civil Engineering,Tsung-Yuan Yang,6,92.0,2.529822128,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2015,W,CIVL,511,,101,Advanced Topics in Steel Structures,Dorian Tung;Tsung-Yuan Yang,17,86.941176471,5.237730761,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,5,6,,,
+UBCV,2016,W,CIVL,511,,201,Advanced Topics in Steel Structures,Lisa Leigh Tobber;Tsung-Yuan Yang,16,86.0,6.055300708,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,5,5,,,
+UBCV,2017,W,CIVL,228,,201,Introduction to Structural Engineering,Hengchao Xu;Hongzhou Zhang;Sirou Zhuo;Tsung-Yuan Yang,136,83.25,7.698725243,96.0,58.0,,,,,,,,,,,0,0,1,3,0,6,12,14,33,29,38,,,
+UBCV,2017,W,CIVL,505,,201,Seismic Response of Structures,Tsung-Yuan Yang,22,83.454545455,7.436891777,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,4,3,5,4,6,,,
+UBCV,2017,W,CIVL,511,,101,Advanced Topics in Steel Structures,Fabricio Bagatini Cachuco;Tsung-Yuan Yang,12,85.25,4.653932843,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,3,4,,,
+UBCV,2018,W,CIVL,231,,201,Introduction to Structural Engineering,Fabricio Bagatini Cachuco;Hengchao Xu;Sahar Abouali;Tsung-Yuan Yang;Xi Zuo,130,82.746153846,9.002421327,99.0,23.0,,,,,,,,,,,2,0,0,1,0,5,7,11,40,41,23,,,
+UBCV,2018,W,CIVL,505,,201,Seismic Response of Structures,Mohammadamin Sadeghi;Tsung-Yuan Yang,14,85.928571429,4.122439265,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,9,3,,,
+UBCV,2019,W,CIVL,231,,201,Structural Mechanics,Parsa Taghvaei;Sahar Abouali;Soham Vaze;Tsung-Yuan Yang;Xiao Pan,124,84.693548387,10.154239308,100.0,46.0,,,,,,,,,,,1,2,1,0,4,5,8,11,16,27,49,,,
+UBCV,2019,W,CIVL,505,,201,Seismic Response of Structures,Soham Vaze;Tsung-Yuan Yang;Xiao Pan,27,84.851851852,11.305899426,93.0,34.0,,,,,,,,,,,1,0,0,0,0,0,1,1,5,6,13,,,
+UBCV,2019,W,CIVL,511,,101,Advanced Topics in Steel Structures,Tsung-Yuan Yang;Xu Xie,11,86.545454545,8.430464238,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,1,4,4,,,
+UBCV,2020,W,CIVL,203,,104,Technical Communication in Civil Engineering,Hartaj Sanghara;Pamela Rogalski;Pamela Wolf;Pierre Berube;Tsung-Yuan Yang,34,86.529411765,4.446553273,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,6,19,8,,,
+UBCV,2020,W,CIVL,231,,201,Structural Mechanics,Abdolreza Joghataie;Carlos Estuardo Ventura;Garumuni Sanjaya De Zoysa;Lei Tian;Parsa Taghvaei;Sahar Abouali;Tsung-Yuan Yang;Xiao Pan,136,83.220588235,10.55124439,99.0,42.0,,,,,,,,,,,1,1,2,4,2,3,18,12,26,13,54,,,
+UBCV,2020,W,CIVL,439,,201,Design of Timber Structures,Alexander Lebaron Forrest;Chaoyue Zhang;Cristiano Loss;Mehrtash Motamedi;Samuel Shulman;Sean Irvine;Tsung-Yuan Yang,36,82.638888889,12.170579932,97.0,24.0,,,,,,,,,,,1,0,0,0,0,1,2,6,10,8,8,,,
+UBCV,2020,W,CIVL,505,,201,Seismic Response of Structures,Tsung-Yuan Yang;Xiao Pan,32,87.78125,5.966218746,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,10,15,,,
+UBCV,2020,W,CIVL,511,,101,Advanced Topics in Steel Structures,Mohsen Azimi;Tsung-Yuan Yang;Xiao Pan,24,88.0,5.485157839,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,10,9,,,
+UBCV,2020,W,CIVL,516,,201,Behaviour of Timber Structures,Alexander Lebaron Forrest;Cristiano Loss;Mehrtash Motamedi;Sean Irvine;Tsung-Yuan Yang,16,83.9375,8.999768516,97.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,2,4,2,5,,,
+UBCV,2021,W,CIVL,231,,201,Structural Mechanics,Robert Millar;Tsung-Yuan Yang,129,81.821705426,8.177187792,94.0,45.0,,,,,,,,,,,2,0,2,2,2,6,2,13,44,42,14,,,
+UBCV,2021,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,26,86.576923077,6.610132083,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,1,2,10,10,,,
+UBCV,2021,W,CIVL,511,,101,Seismic Design of Steel Structures,Sebastien Lepine-Lacroix;Tsung-Yuan Yang;Yu Cheng Hsu,37,87.432432432,5.530423635,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,3,14,16,,,
+UBCV,2021,W,CIVL,231,,201,Structural Mechanics,Tsung-Yuan Yang,129,81.8,,94.0,45.0,,,,,,,,,,,,,,,,6,,13,44,42,14,84.0,87.0,80.0
+UBCV,2021,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,26,86.6,,96.0,73.0,,,,,,,,,,,,,,,,,,,,10,10,87.5,91.5,85.0
+UBCV,2021,W,CIVL,511,,101,Seismic Design of Steel Structures,Tsung-Yuan Yang,37,87.4,,95.0,72.0,,,,,,,,,,,,,,,,,,,,14,16,88.0,92.0,85.0
+UBCV,2022,W,CIVL,231,,201,Structural Mechanics,Tsung-Yuan Yang,126,76.4,,98.0,29.0,,,,,,,,,,,7,0,6,7,6,7,15,14,32,10,22,80.0,84.8,70.3
+UBCV,2022,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,16,85.1,,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,3,2,3,7,87.0,90.0,79.0
+UBCV,2022,W,CIVL,511,,101,Seismic Design of Steel Structures,Tsung-Yuan Yang,11,83.7,,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,4,2,85.0,86.5,80.0
+UBCV,2023,W,CIVL,231,,201,Structural Mechanics,Tsung-Yuan Yang,137,78.4,,100.0,17.0,,,,,,,,,,,13,0,0,2,3,14,8,18,22,24,32,81.0,88.0,72.8
+UBCV,2023,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,12,84.4,,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,3,4,85.0,90.5,79.0
+UBCV,2023,W,CIVL,511,,101,Seismic Design of Steel Structures,Tsung-Yuan Yang,18,83.5,,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,4,3,2,6,80.0,90.0,78.0

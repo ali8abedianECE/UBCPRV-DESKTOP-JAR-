@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,CPSC,445,,201,ALG IN BIOIN,"Kirkpatrick, Bonnie;Manuch, Jan",20,73.88,12.76,100,50,16,0,2,0,2,0,0,0,0,0,0,1,1,1,0,4,4,0,2,1,2
+UBC,2013,W,CPSC,445,,201,ALG IN BIOIN,"Manuch, Jan",21,83.32,14.77,100,54,19,0,2,0,0,0,0,0,0,0,0,1,1,2,0,0,0,1,1,5,8
+UBC,2014,W,CPSC,445,,201,ALG IN BIOIN,"Manuch, Jan",21,82.5,10.4,94,59,20,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,2,5,3,7
+UBC,2015,W,CPSC,320,,102,INTR ALG DSGN&AN,"Manuch, Jan",136,70.48,14.87,100,34,120,12,2,0,2,0,0,0,2,10,12,5,18,9,11,17,11,10,15,11,13
+UBC,2015,W,CPSC,320,,201,INTR ALG DSGN&AN,"Manuch, Jan",158,73.38,15.03,98,13,146,10,2,0,0,0,1,1,1,7,10,1,11,15,16,18,12,15,17,19,22
+UBC,2015,W,CPSC,320,,202,INTR ALG DSGN&AN,"Manuch, Jan",108,68.33,16.87,100,16,85,15,3,2,3,0,1,0,4,10,15,3,10,8,7,11,8,11,8,11,8
+UBC,2016,W,CPSC,221,,101,BASIC ALG&DATA,"Manuch, Jan",198,75.17,13.36,97,34,181,12,4,0,1,0,0,0,2,10,12,3,9,10,11,19,21,29,30,19,30
+UBC,2016,W,CPSC,320,,202,INTR ALG DSGN&AN,"Manuch, Jan",77,72.34,11.24,98,45,70,4,3,0,0,0,0,0,0,4,4,2,0,4,8,13,18,7,7,6,5
+UBC,2016,W,CPSC,445,,201,ALG IN BIOIN,"Manuch, Jan",34,77.35,16.23,100,37,29,2,3,0,0,0,0,0,2,0,2,0,3,1,1,2,3,3,5,3,8
+UBC,2017,S,CPSC,221,,911,BASIC ALG&DATA,"Manuch, Jan",161,76.03,13.42,99,33,143,10,7,0,1,0,0,0,3,7,10,2,4,10,8,12,18,18,26,27,18
+UBCV,2014,W,CPSC,445,,201,Algorithms in Bioinformatics,David Dang;Jan Manuch,20,82.5,10.39989879,94.0,59.0,,,,,,,,,,,0,0,,,,,,,5,,7
+UBCV,2015,W,CPSC,320,,102,Intermediate Algorithm Design and Analysis,Dennis Park;Ehsan Mohyedinkermani;Jan Manuch;Shiwen He,134,69.746268657,15.94524775,100.0,17.0,,,,,,,,,,,14,5,18,9,11,17,11,10,15,11,13
+UBCV,2015,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Jan Manuch,156,73.378205128,15.027434245,98.0,13.0,,,,,,,,,,,10,1,11,15,16,18,12,15,17,19,22
+UBCV,2015,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Jan Manuch,103,66.854368932,18.754036306,100.0,9.0,,,,,,,,,,,18,3,10,8,7,11,8,11,8,11,8
+UBCV,2016,W,CPSC,221,,101,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,194,74.84020619,14.09516994,97.0,11.0,,,,,,,,,,,13,3,9,10,11,19,21,29,30,19,30
+UBCV,2016,W,CPSC,221,,102,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,158,75.98101266,12.08382164,100.0,36.0,,,,,,,,,,,5,4,5,10,13,10,25,16,31,18,21
+UBCV,2016,W,CPSC,221,,202,Basic Algorithms and Data Structures,Anthony Estey;Jan Manuch;Sedigheh Zolaktaf;Xing Zeng,144,80.09027778,12.04415721,99.0,37.0,,,,,,,,,,,4,1,1,8,8,8,17,15,16,34,32
+UBCV,2016,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Jan Manuch,74,72.33783784,11.23628787,98.0,45.0,,,,,,,,,,,4,2,0,4,8,13,18,7,7,6,5
+UBCV,2016,W,CPSC,445,,201,Algorithms in Bioinformatics,Jan Manuch;Massih Khorvash,31,77.35483871,16.2266209,100.0,37.0,,,,,,,,,,,2,0,3,1,1,2,3,3,5,3,8
+UBCV,2017,S,CPSC,221,,911,Basic Algorithms and Data Structures,Jan Manuch,154,75.642857143,14.226312072,99.0,16.0,,,,,,,,,,,11,2,4,10,8,12,18,18,26,27,18

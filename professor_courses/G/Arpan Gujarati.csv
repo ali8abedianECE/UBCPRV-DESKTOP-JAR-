@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CPEN,432,,201,Real-time System Design,Arpan Gujarati;Geetika Batta,18,79.055555556,9.168181693,97.0,57.0,0,0,1,0,0,2,2,5,3,3,2,,,
+UBCV,2021,W,CPEN,432,,201,Real-time System Design,Arpan Gujarati,18,79.1,,97.0,57.0,,,,,,,,,,,,79.0,85.0,75.3
+UBCV,2023,W,CPSC,416,,201,Distributed Systems,Arpan Gujarati,70,80.8,,96.0,52.0,0,1,1,1,4,5,8,7,12,16,13,82.0,88.0,75.0
+UBCV,2023,W,CPSC,538,G,101,Topics in Computer Systems,Arpan Gujarati,10,86.8,,93.0,79.0,0,0,0,0,0,0,0,1,2,4,3,87.0,90.3,84.3

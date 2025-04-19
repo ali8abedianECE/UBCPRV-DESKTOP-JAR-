@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,S,LIBR,580,,942,COLLECTION MGMT,"Prange, Laurie",26,90.19,5.58,96,74,21,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,17
+UBC,2018,W,LIBR,504,,001,INFO ORG MGMT,"Prange, Laurie",32,89.44,5.66,97,76,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,24
+UBCV,2018,S,LIBR,580,,942,Collection Management,Laurie Prange,21,90.19047619,5.582284905,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,2,17
+UBCV,2018,W,LIBR,504,,001,Management of Information Organizations,Laurie Prange,32,89.4375,5.662197795,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,2,2,24

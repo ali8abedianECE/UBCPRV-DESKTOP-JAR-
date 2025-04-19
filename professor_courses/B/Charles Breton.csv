@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,POLI,110,,001,INVESTIGAT POLIT,"Breton, Charles",191,73.92,12.63,97,10,177,7,7,0,0,0,1,1,1,4,7,5,10,7,17,17,27,32,29,20,13
+UBC,2016,W,POLI,380,,001,QUANT MTHD POLI,"Breton, Charles",150,67.92,12.99,94,11,142,6,2,0,0,0,3,1,1,1,6,6,14,16,20,26,22,17,12,4,5
+UBC,2016,W,POLI,390,,001,HONOURS SEMINAR,"Breton, Charles",10,86,2.11,89,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,0
+UBC,2017,S,POLI,110,,921,INVESTIGAT POLIT,"Breton, Charles",68,76.52,12.29,94,36,64,2,2,0,0,0,0,0,1,1,2,3,2,4,2,3,7,9,15,16,3
+UBC,2017,W,POLI,328,A,001,COMPARATIVE POLI,"Breton, Charles",64,71.72,11.98,90,9,62,2,0,0,0,1,0,0,0,1,2,1,3,5,4,10,12,13,9,4,1
+UBCV,2016,W,POLI,110,,001,Investigating Politics: An Introduction to Scientific Political Analysis,Charles Breton,185,73.71351351,12.91355376,97.0,10.0,,,,,,,,,,,8,5,10,7,17,17,27,32,29,20,13
+UBCV,2016,W,POLI,380,,001,Quantitative Methods in Political Science,Charles Breton,148,67.91891892,12.99372612,94.0,11.0,,,,,,,,,,,6,6,14,16,20,26,22,17,12,4,5
+UBCV,2016,W,POLI,390,,001,Honours Seminar,Charles Breton,10,86.0,2.108185107,89.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,0
+UBCV,2017,S,POLI,110,,921,Investigating Politics: An Introduction to Scientific Political Analysis,Charles Breton,66,76.515151515,12.286631164,94.0,36.0,,,,,,,,,,,2,3,2,4,2,3,7,9,15,16,3
+UBCV,2017,W,POLI,328,A,001,Topics in Comparative Politics,Antje Ellermann;Charles Breton,64,71.71875,11.975462678,90.0,9.0,,,,,,,,,,,2,1,3,5,4,10,12,13,9,4,1
+UBCV,2018,S,POLI,110,,921,Investigating Politics: An Introduction to Scientific Political Analysis,Charles Breton;Eric Merkley,55,72.472727273,14.153725521,94.0,21.0,,,,,,,,,,,3,3,2,4,4,6,7,6,10,7,3
+UBCV,2019,W,POLI,372,A,001,Multinational Corporations and Globalization,Charles Breton;Lilit Klein;Robert Crawford,107,79.859813084,9.118143429,93.0,16.0,,,,,,,,,,,1,0,1,1,1,5,10,26,31,20,11

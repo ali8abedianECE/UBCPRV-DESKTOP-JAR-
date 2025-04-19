@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,DSCI,100,,006,Introduction to Data Science,Ding Ma;Fares Burwag;Le Quan Nguyen;Prayus Shrestha;Ruixin Yang,171,84.391812865,10.318671979,97.0,25.0,4,0,0,0,0,4,9,20,32,45,57,,,
+UBCV,2021,W,DSCI,542,,001,Communication and Argumentation,Andrew Li;David Laing;David Wakeham;Ishika Luthra;Le Quan Nguyen;Mariana Cabani;Michael Gelbart;Pavan Khiani;Xiuyun Wu;Zac Warham,114,95.587719298,3.790559777,100.0,83.0,0,0,0,0,0,0,0,0,1,8,105,,,
+UBCV,2021,W,DSCI,552,,001,Statistical Inference and Computation I,Alice Li;Andrew Li;Dennis Fan;Eric Lee;Gilberto Alexi Rodr�Guez Arelis;Hossameldin Ibrahim Said Mohammed;Katie Florko;Le Quan Nguyen;Siddhesh Khandelwal;Tiffany Timbers,150,92.513333333,5.456031287,100.0,67.0,0,0,0,0,2,1,0,2,2,22,121,,,
+UBCV,2021,W,DSCI,574,,001,Spatial and Temporal Models,Ali Seyfi;Alireza Iranpour;Colby Delisle;Eric Lee;Le Quan Nguyen;Michael Gelbart;Siddhesh Khandelwal;Tomas Beuzen;Yiting Hu,114,93.666666667,3.79488866,99.0,83.0,0,0,0,0,0,0,0,0,2,14,98,,,
+UBCV,2021,W,DSCI,100,,006,Introduction to Data Science,Le Quan Nguyen,171,84.4,,97.0,25.0,,,,,,,9,20,32,45,57,86.0,91.0,81.0
+UBCV,2021,W,DSCI,542,,001,Communication and Argumentation,Le Quan Nguyen,114,95.6,,100.0,83.0,,,,,,,,,,8,105,97.0,98.0,94.0
+UBCV,2021,W,DSCI,552,,001,Statistical Inference and Computation I,Le Quan Nguyen;Gilberto Alexi Rodríguez Arelis,150,92.5,,100.0,67.0,,,,,,,,,,22,121,93.5,96.0,91.0
+UBCV,2021,W,DSCI,574,,001,Spatial and Temporal Models,Le Quan Nguyen,114,93.7,,99.0,83.0,,,,,,,,,,14,98,94.0,96.0,92.0
+UBCV,2021,W,DSCI,591,,001,Capstone Project,Giuseppe Carenini;Daniel Chen;Maria Florencia D' Andrea;Gittu George;Simon Goring;Varada Kolhatkar;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Arman Seyed-Ahmadi;Tiffany Timbers,114,89.3,,93.0,69.0,,,,,,,,,,39,68,90.0,91.0,88.0
+UBCV,2022,W,DSCI,100,,001,Introduction to Data Science,Le Quan Nguyen,175,83.5,,97.0,42.0,2,0,3,4,4,6,10,16,31,50,49,86.0,90.0,79.0
+UBCV,2022,W,DSCI,100,,004,Introduction to Data Science,Trevor Campbell;Le Quan Nguyen,177,82.1,,97.0,50.0,0,3,3,4,3,9,11,18,46,39,41,84.0,89.0,78.0
+UBCV,2022,W,DSCI,100,,008,Introduction to Data Science,Le Quan Nguyen;Joel Ostblom,166,79.3,,95.0,14.0,2,1,5,5,8,14,13,15,41,37,25,82.0,87.0,73.3
+UBCV,2022,W,DSCI,100,,009,Introduction to Data Science,Daniel Chen;Le Quan Nguyen,174,80.8,,97.0,14.0,3,2,1,5,5,12,15,19,37,37,38,82.5,88.0,76.0
+UBCV,2022,W,DSCI,542,,001,Communication and Argumentation,Le Quan Nguyen,78,92.6,,98.0,69.0,0,0,0,0,0,1,1,0,2,8,66,94.0,95.0,92.0
+UBCV,2022,W,DSCI,574,,001,Spatial and Temporal Models,Le Quan Nguyen,78,92.3,,99.0,83.0,0,0,0,0,0,0,0,0,3,16,59,93.0,95.0,90.0
+UBCV,2022,W,DSCI,591,,001,Capstone Project,Tomas Beuzen;Daniel Chen;Maria Florencia D' Andrea;Yulia Egorova;Gittu George;Simon Goring;Varada Kolhatkar;Rodolfo Lourenzutti;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis,78,89.2,,96.0,52.0,1,0,0,0,0,1,1,0,9,17,49,91.0,93.0,88.0
+UBCV,2022,W,STAT,201,,202,Statistical Inference for Data Science,Le Quan Nguyen;Lasantha Premarathna Wijendra Acharige,160,81.9,,97.0,0.0,2,1,2,2,5,5,7,23,39,47,27,84.0,88.0,79.0
+UBCV,2023,W,BAIT,509,,BA1,Business Applications of Machine Learning,Le Quan Nguyen,43,88.77,,94.0,81.0,0,0,0,0,0,0,0,0,3,21,19,89.0,90.5,87.0
+UBCV,2023,W,BAIT,509,,BA2,Business Applications of Machine Learning,Le Quan Nguyen,42,90.19,,94.0,86.0,0,0,0,0,0,0,0,0,0,17,25,90.5,92.0,88.25
+UBCV,2023,W,DSCI,511,,001,Programming for Data Science,Le Quan Nguyen,125,90.8,,100.0,60.0,0,0,0,1,1,0,3,4,8,23,85,93.0,95.0,88.0
+UBCV,2023,W,DSCI,542,,001,Communication and Argumentation,Le Quan Nguyen,88,95.2,,98.0,89.0,0,0,0,0,0,0,0,0,0,1,87,95.0,96.0,94.0
+UBCV,2023,W,DSCI,591,,001,Capstone Project,Katie Burak;Giuseppe Carenini;Daniel Chen;Gittu George;Simon Goring;Varada Kolhatkar;Vincent Liu;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Tiffany Timbers,89,89.3,,93.0,82.0,0,0,0,0,0,0,0,0,11,31,47,90.0,92.0,87.0
+UBCV,2023,W,SCIE,300,,212,Communicating Science,Reinhard Jetter;Le Quan Nguyen,19,80.67,,86.0,70.0,0,0,0,0,0,1,2,1,10,4,0,80.5,83.75,80.0

@@ -1,0 +1,64 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CNPS,688,,001,SUPVSN CNPS PRAC,"Westwood, Marvin",7,,,,,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",16,88.06,3.73,92,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,6
+UBC,2005,W,CNPS,564,,002,GROUP COUNSLING,"Westwood, Marvin",12,89.83,1.8,93,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8
+UBC,2006,W,CNPS,365,,003,INT THRY COUNSEL,"Foster, Durwin;Westwood, Marvin",33,82.55,9.08,97,63,33,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,5,6,6,9
+UBC,2006,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",16,89.06,1.69,93,87,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7
+UBC,2006,W,CNPS,688,,001,SUPVSN CNPS PRAC,"Westwood, Marvin",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CNPS,365,,003,INT THRY COUNSEL,"Shariff, Aneesa;Westwood, Marvin",31,80.97,7.53,92,64,31,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,6,5,9,4
+UBC,2007,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",21,88.14,3.48,92,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12,8
+UBC,2007,W,CNPS,564,,002,GROUP COUNSLING,"Westwood, Marvin",12,89.82,1.6,92,88,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7
+UBC,2007,W,CNPS,578,B,004,IND&FAM CNSL T&I,"Westwood, Marvin",11,87.18,2.27,90,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3
+UBC,2007,W,CNPS,688,,001,SUPVSN CNPS PRAC,"Westwood, Marvin",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,CNPS,564,,951,GROUP COUNSLING,"Westwood, Marvin",14,89.71,2.27,93,86,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8
+UBC,2009,S,CNPS,566,,921,ADV COUNSEL,"Westwood, Marvin",12,90.91,1.04,93,90,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2009,W,CNPS,365,,003,INT THRY COUNSEL,"Olson, Trevor;Westwood, Marvin",33,84.21,5.88,92,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,10,7,10
+UBC,2009,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",13,89.62,2.02,94,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7
+UBC,2009,W,CNPS,578,A,001,IND&FAM CNSL T&I,"Westwood, Marvin",20,89.6,2.09,94,87,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10
+UBC,2010,S,CNPS,566,,96A,ADV COUNSEL,"Westwood, Marvin",9,93.13,1.89,96,90,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2010,S,CNPS,578,B,954,IND&FAM CNSL T&I,"Westwood, Marvin",10,85.7,3.92,90,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2
+UBC,2010,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",13,89.31,1.75,92,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6
+UBC,2011,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",18,89.44,1.72,92,87,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,10
+UBC,2011,W,CNPS,566,,001,ADV COUNSEL,"Westwood, Marvin",14,90.79,2.15,95,88,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11
+UBC,2012,W,CNPS,362,,001,BASIC INTVW SKLS,"Westwood, Marvin;Wiens, Sandra",15,88.4,3.64,93,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8
+UBC,2012,W,CNPS,362,,002,BASIC INTVW SKLS,"Westwood, Marvin",15,87.2,7.55,96,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,8
+UBC,2012,W,CNPS,362,,003,BASIC INTVW SKLS,"Klubben, Laura;Westwood, Marvin",14,87.93,1.98,91,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+UBC,2012,W,CNPS,362,,004,BASIC INTVW SKLS,"Westwood, Marvin",15,86.67,4.5,94,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,4
+UBC,2012,W,CNPS,362,,005,BASIC INTVW SKLS,"Nitkin, Patricia;Westwood, Marvin",15,87.4,2.41,92,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,2
+UBC,2012,W,CNPS,362,,008,BASIC INTVW SKLS,"Klubben, Laura;Westwood, Marvin",15,87.53,2.95,91,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5
+UBC,2012,W,CNPS,362,,009,BASIC INTVW SKLS,"Nitkin, Patricia;Westwood, Marvin",14,88.86,2.18,93,85,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5
+UBC,2012,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",18,88.56,2.04,93,86,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,5
+UBC,2012,W,CNPS,566,,001,ADV COUNSEL,"Westwood, Marvin",10,92.4,2.46,96,88,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+UBC,2013,S,CNPS,362,,922,BASIC INTVW SKLS,"McCullough, Lucy;Westwood, Marvin",15,87.73,2.43,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3
+UBC,2013,S,CNPS,362,,923,BASIC INTVW SKLS,"Nitkin, Patricia;Westwood, Marvin",13,89.15,2.82,97,86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,5
+UBC,2013,S,CNPS,362,,951,BASIC INTVW SKLS,"Westwood, Marvin",14,86.5,3.94,91,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,4
+UBC,2013,S,CNPS,362,,952,BASIC INTVW SKLS,"Tavormina, Ezula ;Westwood, Marvin",7,85,6.11,92,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2
+UBC,2013,S,CNPS,365,,951,INT THRY COUNSEL,"Westwood, Marvin",29,86,8.93,96,56,25,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,2,7,10
+UBC,2013,W,CNPS,362,,002,BASIC INTVW SKLS,"Westwood, Marvin",12,85.92,3.63,90,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,3
+UBC,2013,W,CNPS,362,,003,BASIC INTVW SKLS,"Westwood, Marvin",11,84.55,4.16,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,1
+UBC,2013,W,CNPS,362,,004,BASIC INTVW SKLS,"Westwood, Marvin",14,80.93,5.81,87,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,5,0
+UBC,2013,W,CNPS,362,,005,BASIC INTVW SKLS,"Westwood, Marvin",13,81.77,4.04,90,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,1,1
+UBC,2013,W,CNPS,362,,007,BASIC INTVW SKLS,"Koert, Emily;Westwood, Marvin",13,85.08,4.55,91,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,3
+UBC,2013,W,CNPS,362,,008,BASIC INTVW SKLS,"Westwood, Marvin",14,88.29,1.44,91,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,4
+UBC,2013,W,CNPS,362,,010,BASIC INTVW SKLS,"Westwood, Marvin",14,86,7.18,94,66,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,6
+UBC,2013,W,CNPS,564,,001,GROUP COUNSLING,"Westwood, Marvin",20,88.5,2.76,93,85,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10
+UBC,2013,W,CNPS,566,,001,ADV COUNSEL,"Westwood, Marvin",9,91.14,2.27,95,88,7,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2014,S,CNPS,362,,922,BASIC INTVW SKLS,"Westwood, Marvin",12,86.33,5.71,95,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,4
+UBC,2014,S,CNPS,362,,923,BASIC INTVW SKLS,"Westwood, Marvin",11,87.09,3.67,93,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,3
+UBC,2014,S,CNPS,362,,951,BASIC INTVW SKLS,"Westwood, Marvin",17,84.82,4.32,93,76,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,9,1
+UBC,2014,S,CNPS,362,,952,BASIC INTVW SKLS,"Westwood, Marvin",11,91.18,3.31,95,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6
+UBC,2014,W,CNPS,566,,001,ADV COUNSEL,"Westwood, Marvin",11,92.36,1.8,95,90,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2014,S,CNPS,362,,922,Basic Interviewing Skills,Marvin J Westwood;Marvin Westwood,12,86.33333333,5.710171679,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2014,S,CNPS,362,,923,Basic Interviewing Skills,Marvin J Westwood;Marvin Westwood,11,87.09090909,3.67299729,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,
+UBCV,2014,S,CNPS,362,,951,Basic Interviewing Skills,Marvin J Westwood;Marvin Westwood,17,84.82352941,4.319075337,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,5,9,
+UBCV,2014,S,CNPS,362,,952,Basic Interviewing Skills,Marvin J Westwood;Marvin Westwood,11,91.18181818,3.311138228,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,6
+UBCV,2014,W,CNPS,362,,002,Basic Interviewing Skills,Barbara Ann Smith;Marvin J Westwood;Marvin Westwood,15,79.73333333,4.131182236,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,6,,0
+UBCV,2014,W,CNPS,362,,003,Basic Interviewing Skills,David Munro;Marvin J Westwood;Marvin Westwood,15,90.2,4.570089089,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,11
+UBCV,2014,W,CNPS,362,,005,Basic Interviewing Skills,Laura Klubben;Marvin J Westwood;Marvin Westwood,14,84.21428571,7.597353501,90.0,59.0,,,,,,,,,,,0,0,,,,,,,,9,
+UBCV,2014,W,CNPS,362,,006,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,13,87.23076923,3.218536058,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,CNPS,362,,007,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,13,86.07692308,4.94067368,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,
+UBCV,2014,W,CNPS,362,,009,Basic Interviewing Skills,Lucy Mccullough;Marvin J Westwood;Marvin Westwood,15,89.86666667,3.440653316,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,9
+UBCV,2014,W,CNPS,362,,010,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,16,85.0625,5.68587431,92.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,9,
+UBCV,2014,W,CNPS,566,,001,Advanced Study in Group Counselling,Marvin J Westwood;Marvin Westwood,11,92.36363636,1.80403588,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2015,S,CNPS,362,,922,Basic Interviewing Skills,Kevin Lutz;Marvin J Westwood;Marvin Westwood,14,86.0,4.278748919,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,,
+UBCV,2015,S,CNPS,362,,923,Basic Interviewing Skills,Mair Cayley;Marvin J Westwood;Marvin Westwood,14,87.85714286,3.034599019,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,8,

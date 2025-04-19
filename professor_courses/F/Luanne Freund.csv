@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",37,80.62,3.7,86,67,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,12,18,5,0
+UBC,2007,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",42,79.46,3.4,86,68,41,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17,19,2,0
+UBC,2007,W,LIBR,530,,002,SUBJ INFO SERVIC,"Freund, Luanne",22,81.05,3,86,73,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,12,2,0
+UBC,2009,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",39,81.61,2.35,87,77,38,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,25,6,0
+UBC,2009,W,LIBR,530,,001,SUBJ INFO SERVIC,"Freund, Luanne",10,83,2.67,86,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,0
+UBC,2009,W,LIBR,557,,002,INFO RETRVL SYS,"Freund, Luanne",22,82.82,4.14,90,74,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,8,1
+UBC,2010,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",48,81.72,2.7,87,76,46,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,31,7,0
+UBC,2010,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",46,81.76,1.97,85,78,45,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,35,5,0
+UBC,2010,W,LIBR,530,,001,SUBJ INFO SERVIC,"Freund, Luanne",24,82.67,2.76,88,78,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,7,0
+UBC,2010,W,LIBR,557,,002,INFO RETRVL SYS,"Freund, Luanne",18,83.88,1.93,87,79,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,0
+UBC,2011,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",47,82.44,2.29,88,78,45,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,33,8,0
+UBC,2011,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",44,81.44,2.15,87,76,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,34,2,0
+UBC,2011,W,LIBR,530,,001,SUBJ INFO SERVIC,"Freund, Luanne",12,83.42,3.18,87,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,0
+UBC,2012,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",42,82.13,2.17,86,78,39,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,7,29,3,0
+UBC,2012,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",47,81.83,2.4,86,77,46,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,28,9,0
+UBC,2012,W,LIBR,530,,001,SUBJ INFO SERVIC,"Freund, Luanne",12,84.25,2.63,88,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,0
+UBC,2013,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",37,83.31,3.01,88,75,35,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,18,13,0
+UBC,2013,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",44,83.64,2.17,88,78,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,29,14,0
+UBC,2013,W,LIBR,530,,001,SUBJ INFO SERVIC,"Freund, Luanne",9,83.56,2.3,87,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0
+UBC,2013,W,LIBR,539,J,002,SPECIALIZED MATS,"Freund, Luanne",11,82.82,4.35,88,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,5,0
+UBC,2014,W,LIBR,503,,001,INFO SRCS & SRVC,"Freund, Luanne",45,83.75,2.28,87,76,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,18,0
+UBC,2014,W,LIBR,503,,002,INFO SRCS & SRVC,"Freund, Luanne",38,81.95,2.94,87,75,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,20,9,0
+UBC,2014,W,LIBR,539,J,002,SPECIALIZED MATS,"Freund, Luanne",6,83.4,3.91,88,78,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0
+UBC,2015,W,LIBR,507,,001,METHS OF RESRCH,"Freund, Luanne",41,82.6,2.73,88,74,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,28,10,0
+UBC,2016,W,LAIS,608,,002,RSRCH PRACTICES,"Freund, Luanne",7,86.43,2.99,90,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,1
+UBC,2017,W,LIBR,506,,001,HUMAN-INFRMATION,"Freund, Luanne",41,82.15,3.71,88,72,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,23,10,0
+UBC,2017,W,LIBR,539,J,002,SPECIALIZED MATS,"Abdul-Mageed, Muhammad;Freund, Luanne",19,84.05,2.32,88,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,11,0
+UBC,2018,W,LIBR,557,,001,INFO RETRVL SYS,"Freund, Luanne",14,81.5,7.79,89,60,12,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,6,4,0
+UBC,2018,W,LIBR,576,,001,PUB LIBRARIES,"Chawner, Brenda;Freund, Luanne",21,80.7,10.26,93,44,19,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,6,5,4,3
+UBCV,2014,W,LIBR,503,,001,Foundations of Information Sources and Services,Luanne Freund,44,83.75,2.283662908,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,24,18,0
+UBCV,2014,W,LIBR,503,,002,Foundations of Information Sources and Services,Colleen Addison;Luanne Freund,38,81.94736842,2.940374755,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,20,9,0
+UBCV,2014,W,LIBR,539,J,002,Specialized Materials,Luanne Freund,5,83.4,3.911521443,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,0
+UBCV,2015,W,LIBR,507,,001,Methods of Research and Evaluation in Information Organizations,Luanne Freund;Luanne Silvia Sinnamon,40,82.6,2.72500294,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,28,10,0
+UBCV,2016,W,LAIS,608,,002,"Academic and Research Practices in Library, Archival and Information Studies",Luanne Freund;Luanne Silvia Sinnamon,7,86.42857143,2.992052966,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,1
+UBCV,2017,W,LIBR,506,,001,Human-Information Interaction,Blake Hawkins;Luanne Freund;Luanne Silvia Sinnamon,41,82.146341463,3.705138159,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,6,23,10,0
+UBCV,2017,W,LIBR,539,J,002,Specialized Materials,Luanne Freund;Luanne Silvia Sinnamon;Muhammad Abdul-Mageed,19,84.052631579,2.320768173,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,11,0
+UBCV,2018,W,LIBR,557,,001,Information Retrieval Systems: Concepts and Practice,Luanne Freund;Luanne Silvia Sinnamon,12,81.5,7.786935446,89.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,0,6,4,0
+UBCV,2018,W,LIBR,576,,001,Public Libraries,Brenda Chawner;Luanne Freund;Luanne Silvia Sinnamon,20,80.7,10.255165579,93.0,44.0,,,,,,,,,,,1,0,0,0,0,0,1,6,5,4,3
+UBCV,2020,S,LIBR,593,B,943,Seminar,Lisa Nathan;Luanne Freund;Luanne Silvia Sinnamon,27,84.851851852,2.265183024,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,17,0

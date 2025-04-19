@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,EESC,106,,001,The Catastrophic Earth,Ainsley Ward;Stephanie Hunter,75,75.226666667,10.407343215,95.0,55.0,0,0,5,5,11,7,14,7,7,14,5,,,
+UBCO,2021,W,EESC,106,,101,The Catastrophic Earth,Emmanuel Adoasi-Ahyiah;Stephanie Hunter,107,76.018691589,12.60576486,94.0,10.0,2,1,6,5,7,11,6,19,26,13,11,,,
+UBCO,2021,W,EESC,342,,001,Hydrogeology,Stephanie Hunter;Yiduo Zhang,33,68.181818182,13.904708163,97.0,28.0,3,2,4,2,3,2,7,4,4,1,1,,,
+UBCO,2021,W,EESC,106,,001,The Catastrophic Earth,Stephanie Hunter,75,75.2,,95.0,55.0,,,,,11,7,14,7,7,14,,75.0,84.5,67.0
+UBCO,2021,W,EESC,106,,101,The Catastrophic Earth,Stephanie Hunter,107,76.0,,94.0,10.0,,,6,,7,11,6,19,26,13,11,79.0,83.5,70.5
+UBCO,2021,W,EESC,342,,001,Hydrogeology,Stephanie Hunter,33,68.2,,97.0,28.0,,,,,,,7,,,,,72.0,77.0,59.0

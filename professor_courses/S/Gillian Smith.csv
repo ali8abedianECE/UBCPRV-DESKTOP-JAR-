@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,S,EPSE,432,,951,CLASSROOM MGMT,"Smith, Gillian",27,84.85,5.45,92,72,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,9,6,9
+UBC,2009,S,EPSE,432,,952,CLASSROOM MGMT,"Smith, Gillian",19,85.42,7.08,94,64,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3,6,7
+UBC,2010,S,EPSE,432,,951,CLASSROOM MGMT,"Smith, Gillian",36,92.56,5.59,100,77,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,29
+UBC,2010,W,EPSE,432,,221,CLASSROOM MGMT,"Smith, Gillian",32,95.13,4.13,100,84,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,27
+UBC,2012,S,EPSE,432,,952,CLASSROOM MGMT,"Smith, Gillian",15,90.07,5.39,96,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,7
+UBC,2014,W,CNPS,504,,001,SCHL COUNSELLING,"Smith, Gillian",9,94.56,0.73,96,94,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+UBC,2017,S,CNPS,362,,922,BASIC INTVW SKLS,"Smith, Gillian",13,86.33,3.98,92,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,3
+UBC,2017,S,CNPS,362,,951,BASIC INTVW SKLS,"Smith, Gillian",14,87.86,4.4,95,76,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,5
+UBC,2017,W,CNPS,362,,005,BASIC INTVW SKLS,"Smith, Gillian",15,89,6.15,96,73,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,9
+UBC,2017,W,CNPS,362,,006,BASIC INTVW SKLS,"Smith, Gillian",15,85.53,5.41,91,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,5,5
+UBC,2018,W,CNPS,362,,006,BASIC INTVW SKLS,"Smith, Gillian",15,88.33,5.75,96,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,6
+UBC,2018,W,CNPS,362,,010,BASIC INTVW SKLS,"Smith, Gillian",16,90.25,3.17,97,86,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,9
+UBC,2018,W,CNPS,578,C,61B,IND&FAM CNSL T&I,"Smith, Gillian",10,91,4.4,97,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6
+UBCV,2014,W,CNPS,504,,001,School Counselling,Gillian Smith,9,94.55555556,0.726483157,96.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2017,S,CNPS,362,,922,Basic Interviewing Skills,Gillian Smith,13,86.615384615,3.948384934,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,4
+UBCV,2017,S,CNPS,362,,951,Basic Interviewing Skills,Gillian Smith,14,87.857142857,4.40029969,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,7,5
+UBCV,2017,W,CNPS,362,,005,Basic Interviewing Skills,Brenda Dyer;Gillian Smith,15,89.0,6.152815848,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,4,9
+UBCV,2017,W,CNPS,362,,006,Basic Interviewing Skills,Gillian Smith;Mair Cayley;Thomas Motl,15,85.533333333,5.409867528,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,5,5
+UBCV,2018,S,CNPS,362,,922,Basic Interviewing Skills,Gillian Smith;Rosalynn Lemon;Rosalynn Michelle Lemon,16,89.375,1.784189825,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,8
+UBCV,2018,S,CNPS,362,,951,Basic Interviewing Skills,Gillian Smith;Sandra Wiens,17,86.235294118,7.102195187,93.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,0,1,9,5
+UBCV,2018,W,CNPS,362,,005,Basic Interviewing Skills,Gillian Smith;Sandra Wiens,14,86.5,4.767679649,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,5
+UBCV,2018,W,CNPS,362,,006,Basic Interviewing Skills,Gillian Smith,15,88.333333333,5.752846087,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,6,6
+UBCV,2018,W,CNPS,362,,010,Basic Interviewing Skills,Deepak Mathew;Gillian Smith,16,90.25,3.172801076,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,9
+UBCV,2018,W,CNPS,578,C,61B,Individual and Family Counselling Theories and Interventions,Gillian Smith,10,91.0,4.396968653,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,6
+UBCV,2019,S,CNPS,564,,96A,Group Counselling,Gillian Smith,19,96.473684211,1.123902974,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19
+UBCV,2019,W,CNPS,362,,006,Basic Interviewing Skills,Gillian Smith;Hilary Mcbride;Hillary Lianna Sommers Mcbride;Hillary Mcbride,14,87.857142857,3.324897751,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,9,4
+UBCV,2020,W,CNPS,362,,010,Basic Interviewing Skills,Gillian Smith,13,88.153846154,6.568182826,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,5
+UBCV,2021,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Gillian Smith;Talino Bruno,10,89.8,1.619327707,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,4

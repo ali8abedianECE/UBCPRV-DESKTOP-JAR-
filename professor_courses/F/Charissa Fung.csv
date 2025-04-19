@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,S,BIOL,204,,921,VERT STRUCT&FUNC,"Fung, Charissa;Moussavi, Maryam;Norman, Lynn",102,75.82,9.53,97,46,100,1,0,0,1,0,0,0,0,1,1,2,5,1,7,14,12,19,24,12,4,,,
+UBC,2015,S,BIOL,204,,951,VERT STRUCT&FUNC,"Fung, Charissa",76,75.96,12.07,96,27,70,2,4,0,0,0,0,1,0,1,2,3,1,2,6,5,13,7,17,8,8,,,
+UBC,2017,W,BIOL,121,,122,GENTCS ECOL&EVOL,"Fung, Charissa",179,69.8,14.02,95,15,158,14,5,0,2,0,1,1,5,7,14,5,14,16,12,24,22,16,28,12,9,,,
+UBCV,2015,S,BIOL,204,,951,Vertebrate Structure and Function,Charissa Fung;David Didier;David Wesley Didier;Kyle Gillespie;Rachel Chudnow;Rachel E Chudnow;Sahir Advani,72,75.95833333,12.06839371,96.0,27.0,,,,,,,,,,,,,,,6,5,13,7,17,8,8,,,
+UBCV,2015,W,BIOL,204,,201,Vertebrate Structure and Function,Angela O'Neill;Charissa Fung;Kyle Gillespie;Mariana Diaz Gomez;Micah Scholer;Naoki Iritani;Sabine Lague;Yvonne Dzal,299,74.418060201,14.241533747,98.0,8.0,,,,,,,,,,,14,12,15,19,16,32,29,29,48,54,31,,,
+UBCV,2015,W,BIOL,205,,101,Comparative Invertebrate Zoology,Angela O'Neill;Brian Leander;Charissa Fung;Heather Bryant;India Stephenson;Javad Meshkani;Kyle Gillespie;Naoki Iritani,244,73.426229508,12.894582416,96.0,31.0,,,,,,,,,,,7,16,16,13,12,30,25,28,43,28,26,,,
+UBCV,2017,W,BIOL,121,,122,"Genetics, Evolution and Ecology",Charissa Fung;Clayton Manning,173,69.456647399,14.674951934,95.0,11.0,,,,,,,,,,,15,5,14,16,12,24,22,16,28,12,9,,,
+UBCV,2017,W,BIOL,204,,201,Vertebrate Structure and Function,Angela O'Neill;Charissa Fung;Elizabeth Herbert;Evan Mckenzie;Jacelyn Shu;Kelsey Gil;Kelsey Nicole Gil;Mary Fossey;Micah Scholer;Tormod Rowe,301,79.627906977,12.889831339,99.0,7.0,,,,,,,,,,,5,7,16,13,6,15,18,24,64,73,60,,,
+UBCV,2020,W,BIOL,205,,101,Comparative Invertebrate Zoology,Angela O'Neill;Beatrice Rost-Komiya;Brian Leander;Charissa Fung;Evgeniya Yangel;Natalie Rivlin;Penelope Kahn;Queenie Pui Wing Hui;Tormod Rowe,249,82.975903614,9.152351941,99.0,42.0,,,,,,,,,,,1,0,4,5,3,14,16,26,38,68,74,,,
+UBCV,2021,S,BIOL,204,,951,Vertebrate Structure and Function,Angela O'Neill;Charissa Fung;Mary Fossey;Nelly Saber;Queenie Pui Wing Hui;Stella Lee;Tavleen Ramgarhia,39,74.743589744,12.334628082,94.0,45.0,,,,,,,,,,,2,1,3,1,3,2,4,3,13,3,4,,,
+UBCV,2021,S,BIOL,204,,951,Vertebrate Structure and Function,Charissa Fung;Stella Lee,39,74.7,,94.0,45.0,,,,,,,,,,,,,,,,,,,13,,,80.0,82.0,67.5
+UBCV,2022,S,BIOL,204,,951,Vertebrate Structure and Function,Charissa Fung;Stella Lee,38,73.9,,96.0,37.0,,,,,,,,,,,1,1,2,3,6,3,5,2,6,4,5,74.5,83.5,66.0
+UBCV,2022,W,BIOL,204,,201,Vertebrate Structure and Function,Charissa Fung;Angela O'Neill,281,73.3,,97.0,8.0,,,,,,,,,,,17,13,13,16,27,21,24,21,63,39,27,77.0,84.0,65.0
+UBCV,2022,W,BIOL,205,,101,Comparative Invertebrate Zoology,Charissa Fung;Brian Leander,245,77.5,,97.0,31.0,,,,,,,,,,,4,7,2,10,17,16,21,45,51,35,37,80.0,85.0,72.0

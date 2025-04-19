@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,S,CHEM,121,,L01,STRCTR BOND CHEM,"Dunbar, Christine",6,,,,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,CHEM,123,,921,THM KIN ORG CHEM,"Dunbar, Christine",131,65,12.55,100,38,113,14,4,0,0,0,0,0,1,13,14,12,13,20,14,17,11,5,13,4,4
+UBC,2017,W,CHEM,111,,L02,STR BND EQU CHEM,"Dunbar, Christine",10,,,,,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CHEM,111,,L06,STR BND EQU CHEM,"Dunbar, Christine",12,,,,,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CHEM,121,,L03,STRCTR BOND CHEM,"Dunbar, Christine",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CHEM,121,,L08,STRCTR BOND CHEM,"Dunbar, Christine",6,,,,,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CHEM,154,,L04,CHEM FOR ENGR,"Dunbar, Christine",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2017,S,CHEM,123,,921,"Thermodynamics, Kinetics and Organic Chemistry",Christine Dunbar;Erin Lindenberg,127,65.0,12.547054293,100.0,38.0,,,,,,,,,,,14,12,13,20,14,17,11,5,13,4,4

@@ -1,0 +1,56 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,ENGL,112,,004,Studies in Composition,Shona Harrison,35,74.342857143,13.516749647,90.0,25.0,,,,,,,6,12,11,,,,,
+UBCO,2016,W,ENGL,112,,006,Studies in Composition,Shona Harrison,33,73.96969697,4.889304964,85.0,64.0,0,0,0,0,3,8,9,9,3,1,0,,,
+UBCO,2016,W,ENGL,112,,007,Studies in Composition,Shona Harrison,34,72.91176471,12.15398088,83.0,10.0,1,0,1,0,0,6,7,15,4,0,0,,,
+UBCO,2016,W,ENGL,112,,010,Studies in Composition,Shona Harrison,34,70.5,13.68088691,85.0,3.0,1,0,2,3,2,5,9,9,2,1,0,,,
+UBCO,2016,W,ENGL,112,,011,Studies in Composition,Shona Harrison,38,75.2631579,5.45588802,88.0,62.0,0,0,0,1,2,6,8,13,7,1,0,,,
+UBCO,2016,W,ENGL,150,,105,Introduction to Literary Genre,Shona Harrison,34,67.52941177,20.65185485,86.0,0.0,3,1,2,0,4,2,7,7,7,1,0,,,
+UBCO,2017,S,ENGL,112,,101,Studies in Composition,Catherine Shaw;Shona Harrison,31,70.258064516,11.075401398,92.0,46.0,1,0,3,7,3,3,3,5,1,4,1,,,
+UBCO,2017,S,ENGL,150,,001,Introduction to Literary Genre,Shona Harrison,11,62.363636364,24.800293253,90.0,1.0,2,0,1,2,1,0,1,1,2,0,1,,,
+UBCO,2017,W,ENGL,112,,010,Studies in Composition,Shona Harrison,35,74.171428571,6.780099402,83.0,54.0,0,2,0,1,2,4,5,15,6,0,0,,,
+UBCO,2017,W,ENGL,151,,001,Critical Studies in Literature,Shona Harrison,32,75.46875,7.304370654,88.0,53.0,0,1,0,0,3,3,9,6,7,3,0,,,
+UBCO,2018,S,ENGL,112,,001,Studies in Composition,Shona Harrison,30,74.766666667,8.589019989,87.0,43.0,1,0,1,0,3,3,4,11,6,1,0,,,
+UBCO,2018,W,ENGL,112,,101,Studies in Composition,Shona Harrison,34,66.088235294,18.189853394,83.0,0.0,5,0,0,5,4,3,6,4,7,0,0,,,
+UBCO,2018,W,ENGL,112,,123,Studies in Composition,Shona Harrison,35,71.685714286,8.277437187,90.0,47.0,1,1,2,0,3,7,9,8,3,0,1,,,
+UBCO,2018,W,ENGL,150,,003,Introduction to Literary Genre,Shona Harrison,32,67.65625,16.905065809,88.0,3.0,3,4,0,0,5,3,5,7,3,2,0,,,
+UBCO,2018,W,ENGL,150,,009,Introduction to Literary Genre,Shona Harrison,33,62.090909091,20.617595089,89.0,0.0,7,4,1,3,0,5,3,6,2,2,0,,,
+UBCO,2018,W,ENGL,150,,105,Introduction to Literary Genre,Shona Harrison,32,67.34375,17.607933283,90.0,0.0,5,0,0,2,2,4,7,9,1,1,1,,,
+UBCO,2019,S,ENGL,112,,002,Studies in Composition,Shona Harrison,33,69.666666667,11.078319668,83.0,18.0,1,0,1,1,7,9,5,6,3,0,0,,,
+UBCO,2019,S,ENGL,151,,101,Critical Studies in Literature,Shona Harrison,24,68.125,17.850374494,88.0,6.0,3,2,1,0,0,3,6,2,5,2,0,,,
+UBCO,2019,W,ENGL,112,,120,Studies in Composition,Jordan Stouck;Shona Harrison,25,67.0,20.012496096,85.0,0.0,3,0,1,0,3,5,7,1,4,1,0,,,
+UBCO,2019,W,ENGL,344,A,101,Topics in Medieval Studies,Michael Treschow;Shona Harrison,14,71.857142857,25.30082742,96.0,12.0,2,1,0,0,0,0,1,2,3,4,1,,,
+UBCO,2020,S,ENGL,150,,001,Introduction to Literary Genre,Rina Chua;Shona Harrison,28,68.857142857,18.902702699,91.0,0.0,3,1,2,3,1,3,4,2,2,6,1,,,
+UBCO,2020,S,ENGL,150,,002,Introduction to Literary Genre,Rina Chua;Shona Harrison,29,69.24137931,16.372134804,88.0,3.0,1,1,3,3,3,3,4,4,3,4,0,,,
+UBCO,2020,W,ENGL,150,,008,Introduction to Literary Genre,Matthew Bretner;Shona Harrison,31,71.032258065,15.87342406,90.0,12.0,3,1,0,1,0,6,6,6,6,1,1,,,
+UBCO,2020,W,ENGL,150,,010,Introduction to Literary Genre,Matthew Bretner;Shona Harrison,35,72.171428571,9.256113129,87.0,47.0,1,1,1,2,6,4,4,8,7,1,0,,,
+UBCO,2020,W,ENGL,151,,002,Critical Studies in Literature,Matthew Bretner;Shona Harrison,26,73.076923077,16.615470085,88.0,0.0,1,1,0,0,3,0,4,11,4,2,0,,,
+UBCO,2020,W,ENGL,151,,101,Critical Studies in Literature,Matthew Bretner;Shona Harrison,31,74.870967742,13.826886696,87.0,12.0,2,0,0,0,1,2,8,4,11,3,0,,,
+UBCO,2020,W,ENGL,151,,102,Critical Studies in Literature,Matthew Bretner;Shona Harrison,29,73.172413793,16.151224999,88.0,20.0,3,0,0,1,0,2,1,12,8,2,0,,,
+UBCO,2020,W,ENGL,151,,103,Critical Studies in Literature,Matthew Bretner;Shona Harrison,24,65.666666667,17.689757947,86.0,19.0,3,1,1,4,3,1,3,3,4,1,0,,,
+UBCO,2021,S,ENGL,112,,003,Studies in Composition,Shona Harrison,23,67.260869565,21.200809143,86.0,0.0,2,0,1,1,2,2,9,1,4,1,0,,,
+UBCO,2021,S,ENGL,112,,004,Studies in Composition,Shona Harrison,20,66.1,23.650748291,87.0,0.0,2,0,1,2,4,0,2,3,5,1,0,,,
+UBCO,2021,W,ENGL,112,,012,Studies in Composition,Ahmad Alhomsi;Ahmed Alhomsi;Shona Harrison,24,80.291666667,5.237649379,89.0,70.0,0,0,0,0,0,2,1,9,6,6,0,,,
+UBCO,2021,W,ENGL,112,,019,Studies in Composition,Ahmad Alhomsi;Ahmed Alhomsi;Shona Harrison,22,75.727272727,17.121920837,90.0,11.0,1,1,0,0,1,1,3,2,8,3,2,,,
+UBCO,2021,W,ENGL,112,,021,Studies in Composition,Ahmad Alhomsi;Ahmed Alhomsi;Shona Harrison,25,77.48,8.292164977,88.0,53.0,0,1,0,1,0,2,5,5,5,6,0,,,
+UBCO,2021,W,ENGL,112,,113,Studies in Composition,Heather Magusin;Jonathan Kayban;Shona Harrison,25,60.72,24.154916684,87.0,0.0,7,0,0,0,2,3,7,5,0,1,0,,,
+UBCO,2021,W,ENGL,112,,115,Studies in Composition,Heather Magusin;Jonathan Kayban;Shona Harrison,24,71.375,11.446710179,83.0,42.0,2,1,2,0,1,0,7,7,4,0,0,,,
+UBCO,2021,W,ENGL,112,,118,Studies in Composition,Heather Magusin;Jonathan Kayban;Shona Harrison,22,76.0,6.110100927,87.0,65.0,0,0,0,0,3,3,1,9,4,2,0,,,
+UBCO,2021,S,ENGL,112,,003,Studies in Composition,Shona Harrison,23,67.3,,86.0,0.0,,,,,,,9,,,,,74.0,75.5,66.0
+UBCO,2021,S,ENGL,112,,004,Studies in Composition,Shona Harrison,20,66.1,,87.0,0.0,,,,,,,,,,,,73.5,80.0,63.8
+UBCO,2021,W,ENGL,112,,012,Studies in Composition,Shona Harrison,24,80.3,,89.0,70.0,,,,,,,,9,6,6,,79.5,83.8,77.5
+UBCO,2021,W,ENGL,112,,019,Studies in Composition,Shona Harrison,22,75.7,,90.0,11.0,,,,,,,,,8,,,80.0,83.8,74.0
+UBCO,2021,W,ENGL,112,,021,Studies in Composition,Shona Harrison,25,77.5,,88.0,53.0,,,,,,,,,,6,,78.0,84.0,74.0
+UBCO,2021,W,ENGL,112,,113,Studies in Composition,Shona Harrison,25,60.7,,87.0,0.0,7,,,,,,7,,,,,73.0,75.0,48.0
+UBCO,2021,W,ENGL,112,,115,Studies in Composition,Shona Harrison,24,71.4,,83.0,42.0,,,,,,,7,7,,,,75.0,78.3,70.3
+UBCO,2021,W,ENGL,112,,118,Studies in Composition,Shona Harrison,22,76.0,,87.0,65.0,,,,,,,,9,,,,77.0,79.8,71.3
+UBCO,2022,S,ENGL,112,,003,Studies in Composition,Shona Harrison,23,72.0,,85.0,0.0,2,0,0,0,0,2,4,4,10,1,0,79.0,81.5,75.0
+UBCO,2022,S,ENGL,112,,004,Studies in Composition,Shona Harrison,22,74.2,,86.0,2.0,1,2,0,0,0,0,1,6,9,3,0,80.0,81.8,77.0
+UBCO,2022,W,ENGL,112,,004,Studies in Composition,Shona Harrison,30,75.4,,91.0,0.0,1,1,0,0,1,3,3,6,10,4,1,79.5,83.0,74.3
+UBCO,2022,W,ENGL,112,,013,Studies in Composition,Shona Harrison,29,77.5,,89.0,51.0,0,3,0,2,0,0,1,5,10,8,0,81.0,85.0,77.0
+UBCO,2022,W,ENGL,112,,105,Studies in Composition,Shona Harrison,28,73.8,,89.0,35.0,2,0,1,0,1,3,7,7,4,3,0,75.5,79.8,71.8
+UBCO,2022,W,ENGL,112,,106,Studies in Composition,Shona Harrison,27,75.5,,89.0,47.0,1,0,0,2,0,2,5,9,6,2,0,76.0,81.0,74.0
+UBCO,2022,W,ENGL,212,,101,Children's Literature,Shona Harrison,29,77.7,,90.0,14.0,2,0,0,0,1,0,0,2,20,3,1,82.0,83.0,80.0
+UBCO,2023,S,ENGL,109,,001,Studies in Composition (Enhanced),Shona Harrison,17,61.93,,84.0,0.0,3,1,0,0,0,0,0,4,6,0,0,79.0,81.5,56.5
+UBCO,2023,W,ENGL,109,,007,Studies in Composition (Enhanced),Shona Harrison,29,63.6,,84.0,0.0,5,0,0,2,2,2,4,9,4,0,0,75.0,77.3,64.5
+UBCO,2023,W,ENGL,150,,106,Introduction to Literary Genre,Shona Harrison,31,65.6,,84.0,0.0,4,0,1,1,1,4,5,9,3,0,0,75.0,78.0,67.8
+UBCO,2023,W,ENGL,212,,101,Children's Literature,Shona Harrison,96,75.7,,94.0,7.0,6,2,1,1,2,4,10,18,29,15,3,80.0,84.0,74.0

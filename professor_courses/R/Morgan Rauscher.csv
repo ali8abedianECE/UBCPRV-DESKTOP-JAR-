@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,COSC,150,,001,Physical Computing,Mahshid Alinoori;Miles Thorogood;Morgan Rauscher,47,88.680851064,8.503468303,97.0,58.0,0,0,1,2,0,0,1,0,4,10,29,,,
+UBCO,2019,W,FILM,261,,001,Video I,Jon Corbett;Morgan Rauscher;Stephen Foster,11,84.636363636,6.515715268,94.0,76.0,0,0,0,0,0,0,0,3,3,1,4,,,
+UBCO,2019,W,VISA,261,,001,Video I,Jon Corbett;Morgan Rauscher;Stephen Foster,14,79.357142857,13.714714966,96.0,42.0,1,0,0,0,1,1,0,3,3,2,3,,,
+UBCO,2019,W,VISA,269,,001,Strategies in Digital Art: Virtual Worlds,Miles Thorogood;Morgan Rauscher,15,89.0,8.493695141,98.0,71.0,0,0,0,0,0,1,0,1,3,1,9,,,
+UBCO,2019,W,VISA,382,N,001,Advanced Practice in Media Arts,Aleksandra Dulic;Morgan Rauscher,8,87.375,6.412877669,94.0,76.0,0,0,0,0,0,0,0,1,1,2,4,,,
+UBCO,2020,W,VISA,106,,001,Introduction to Digital Media I,Jacen Dennis;Jessica Ann Dennis;Jessica Dennis;Kaytlyn Barkved;Morgan Rauscher;Myron Campbell;Sepideh Saffari;Seyedehyasaman Lotfizadeh,81,87.259259259,10.86482602,98.0,22.0,1,0,0,2,1,3,0,4,7,21,42,,,
+UBCO,2020,W,VISA,108,,001,Introduction to Digital Media II,Jacen Dennis;Jessica Ann Dennis;Jessica Dennis;Kaytlyn Barkved;Morgan Rauscher;Myron Campbell;Sepideh Saffari;Seyedehyasaman Lotfizadeh,61,89.459016393,8.83095648,100.0,63.0,0,0,0,1,1,1,2,5,4,11,36,,,
+UBCO,2020,W,VISA,261,,001,Video I,Kathryn Newell;Kathryn Ramey Newell;Morgan Rauscher;Ramey Newell,9,77.444444444,11.544599507,91.0,51.0,0,1,0,0,0,0,2,2,2,1,1,,,
+UBCO,2020,W,VISA,266,,001,2D Animation,Eleonore Goldberg;Morgan Rauscher;Myron Campbell,9,82.111111111,10.385620401,96.0,64.0,0,0,0,0,1,0,0,3,1,1,3,,,
+UBCO,2020,W,VISA,268,,001,Strategies in Digital Art: Visual Communication,Morgan Rauscher;Myron Campbell,12,86.833333333,9.417906864,100.0,71.0,0,0,0,0,0,1,1,1,1,4,4,,,
+UBCO,2020,W,VISA,269,,001,Strategies in Digital Art: Virtual Worlds,Morgan Rauscher,7,83.857142857,30.190663962,100.0,16.0,1,0,0,0,0,0,0,0,0,1,5,,,
+UBCO,2020,W,VISA,382,O,001,Advanced Practice in Media Arts,Morgan Rauscher,15,91.666666667,9.193683132,99.0,60.0,0,0,0,1,0,0,0,0,0,1,13,,,
+UBCO,2020,W,VISA,382,P,001,Advanced Practice in Media Arts,Morgan Rauscher,15,95.133333333,5.06904706,100.0,84.0,0,0,0,0,0,0,0,0,1,2,12,,,
+UBCO,2021,S,VISA,106,,001,Introduction to Digital Media I,Morgan Rauscher,23,87.304347826,20.896791364,100.0,0.0,1,0,0,0,0,0,1,1,6,2,12,,,
+UBCO,2021,W,MDST,110,,001,Introduction to Computational Art and Design I,Megan Smith;Morgan Rauscher;Yujie Gao,28,88.642857143,20.573651408,100.0,0.0,2,0,0,0,0,0,0,0,1,5,20,,,
+UBCO,2021,W,VISA,106,,001,Introduction to Digital Media I,Jacen Dennis;Jalal Sarrami;Jessica Dennis;Megumi Yamamoto;Morgan Rauscher;Myron Campbell;Rylan Broadbent;Seyedehyasaman Lotfizadeh,82,81.317073171,16.016101504,93.0,0.0,5,0,1,0,1,1,3,4,20,33,14,,,
+UBCO,2021,W,VISA,108,,001,Introduction to Digital Media II,Jacen Dennis;Jalal Sarrami;Jessica Dennis;Jordan Pike;Megumi Yamamoto;Morgan Rauscher,70,85.371428571,12.080852533,95.0,0.0,1,0,0,1,0,0,3,5,12,19,29,,,
+UBCO,2021,W,VISA,266,,001,2D Animation,Jacen Dennis;Jessica Dennis;Morgan Rauscher,20,83.3,10.950126171,98.0,60.0,0,0,0,2,0,0,2,3,2,5,6,,,
+UBCO,2021,W,VISA,268,,001,Strategies in Digital Art: Visual Communication,Jacen Dennis;Jessica Dennis;Morgan Rauscher;Myron Campbell,18,79.444444444,21.3630308,95.0,0.0,1,0,0,0,0,1,2,1,4,4,5,,,
+UBCO,2021,W,VISA,269,,001,Strategies in Digital Art: Virtual Worlds,Emerald Holt;Morgan Rauscher,17,78.823529412,22.305367331,95.0,0.0,1,0,0,1,0,1,0,2,4,3,5,,,
+UBCO,2021,S,VISA,106,,001,Introduction to Digital Media I,Morgan Rauscher,23,87.3,,100.0,0.0,,,,,,,,,6,,12,91.0,99.5,84.0
+UBCO,2021,W,MDST,110,,001,Introduction to Computational Art and Design I,Morgan Rauscher;Megan Smith,27,91.9,,100.0,43.0,,,,,,,,,,,20,94.0,99.0,89.5

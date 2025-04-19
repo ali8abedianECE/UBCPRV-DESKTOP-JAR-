@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,W,PHYS,305,,001,Introduction to Biophysics,Christina Haston,28,69.64285714,12.17530678,88.0,43.0,1,2,3,4,1,1,5,4,4,3,0,,,
+UBCO,2016,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,17,64.05882353,13.41859991,89.0,45.0,3,2,1,1,3,3,0,2,1,1,0,,,
+UBCO,2017,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,18,73.888888889,14.612198324,95.0,38.0,1,2,0,0,3,0,1,3,4,3,1,,,
+UBCO,2017,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,9,71.333333333,13.738631664,87.0,45.0,1,0,0,1,1,2,0,1,1,2,0,,,
+UBCO,2018,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,17,73.823529412,11.891358701,98.0,56.0,0,0,2,1,2,3,2,2,1,2,2,,,
+UBCO,2018,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,23,73.173913043,15.584526632,97.0,36.0,2,1,2,1,0,3,2,3,5,0,4,,,
+UBCO,2019,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,15,79.0,12.10076739,97.0,64.0,0,0,0,0,5,0,2,0,2,2,4,,,
+UBCO,2019,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,15,70.066666667,13.577642688,89.0,40.0,1,0,3,1,1,2,1,2,1,3,0,,,
+UBCO,2020,W,BIOL,426,,101,Cancer Biology,Christina Haston;Elizabeth Houghton;Ken Savage,38,79.263157895,8.916077827,92.0,51.0,0,1,1,1,1,2,3,7,10,9,3,,,
+UBCO,2020,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,14,75.571428571,12.239370809,92.0,51.0,0,1,1,0,2,2,1,0,3,3,1,,,
+UBCO,2021,W,BIOL,426,,101,Cancer Biology,Christina Haston,40,74.325,10.425283615,91.0,50.0,0,2,2,2,4,7,2,7,7,5,2,,,
+UBCO,2021,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston;Stephen Collins,6,74.166666667,11.548448669,90.0,61.0,0,0,0,1,1,1,0,1,1,0,1,,,
+UBCO,2021,W,BIOL,426,,101,Cancer Biology,Christina Haston,40,74.3,,91.0,50.0,,,,,,7,,7,7,,,76.5,83.0,67.8
+UBCO,2021,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,6,74.2,,90.0,61.0,,,,,,,,,,,,73.5,82.0,65.0
+UBCO,2022,W,BIOL,426,,101,Cancer Biology,Christina Haston,30,71.9,,94.0,37.0,2,0,5,2,3,0,4,2,8,2,2,74.0,82.8,60.3
+UBCO,2022,W,PHYS,310,,101,Introduction to Medical Physics,Christina Haston,15,71.9,,90.0,45.0,1,1,0,1,1,1,3,4,2,0,1,75.0,78.0,66.0
+UBCO,2023,W,BIOL,426,,101,Cancer Biology,Christina Haston,33,76.7,,90.0,46.0,1,0,2,1,1,2,4,6,9,4,3,79.0,83.0,73.0
+UBCO,2023,W,PHYS,310,,101,Introduction to Medical Physics,Christina Haston,16,76.9,,96.0,53.0,0,1,1,2,1,0,0,3,3,0,4,79.0,87.0,63.5

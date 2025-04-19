@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PSYC,100,,902,INTRO PSYCHOLOGY,"Hamilton, Kevin",76,67.64,13.14,95,38,69,4,3,0,0,0,0,0,1,3,4,9,10,6,10,4,8,5,8,6,3
+UBC,2003,W,PSYC,100,,902,INTRO PSYCHOLOGY,"Hamilton, Kevin",89,67.3,13.5,98,26,74,7,7,0,1,0,0,1,1,5,7,9,6,8,7,8,14,4,14,1,3
+UBC,2005,W,PSYC,100,,902,INTRO PSYCHOLOGY,"Hamilton, Kevin",70,68.15,12.71,92,33,54,5,9,0,2,0,0,0,2,3,5,1,7,7,9,7,4,8,4,5,2
+UBC,2006,W,PSYC,100,,902,INTRO PSYCHOLOGY,"Hamilton, Kevin",79,66.61,16.83,93,0,71,4,3,1,0,2,0,0,2,0,4,8,7,12,6,6,9,5,10,5,3
+UBC,2007,W,PSYC,101,,901,BIO COG PSYCH,"Hamilton, Kevin",178,66.65,11.96,92,36,159,13,6,0,0,0,0,0,3,10,13,9,25,18,18,29,17,16,17,9,1
+UBC,2007,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",148,66.58,15.41,92,0,131,14,3,0,0,1,0,4,2,7,14,14,13,12,23,13,11,8,19,13,5
+UBC,2009,S,PSYC,101,,921,BIO COG PSYCH,"Hamilton, Kevin",161,69.53,14.16,96,19,150,8,3,0,0,0,1,2,0,5,8,13,14,22,12,9,20,13,23,14,10
+UBC,2009,W,PSYC,101,,901,BIO COG PSYCH,"Hamilton, Kevin",181,66.14,12.91,94,30,158,17,6,0,0,0,0,0,4,13,17,19,20,16,19,19,13,22,21,8,1
+UBC,2009,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",162,66.43,12.06,92,29,150,11,1,0,0,0,0,1,2,8,11,13,18,18,21,24,13,23,13,5,2
+UBC,2010,S,PSYC,101,,921,BIO COG PSYCH,"Hamilton, Kevin",157,67.49,15.27,94,0,143,13,1,0,0,2,0,1,0,10,13,16,17,9,20,14,16,12,19,15,5
+UBC,2010,W,PSYC,101,,901,BIO COG PSYCH,"Hamilton, Kevin",105,67.05,12.43,96,31,96,4,3,0,0,0,0,0,2,2,4,10,17,10,8,13,12,9,7,8,2
+UBC,2010,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",147,66.45,14.03,92,17,132,14,1,0,0,0,1,0,7,6,14,13,15,15,15,14,23,10,16,6,5
+UBC,2011,S,PSYC,101,,921,BIO COG PSYCH,"Hamilton, Kevin",185,67.41,12.59,94,31,164,11,1,0,3,0,0,0,3,8,11,15,23,20,15,20,22,14,18,12,5
+UBC,2011,W,PSYC,101,,901,BIO COG PSYCH,"Hamilton, Kevin",63,68.6,13.59,94,34,58,4,1,0,0,0,0,0,1,3,4,7,3,9,2,11,3,7,7,7,2
+UBC,2012,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",85,63.82,16.97,98,0,74,8,2,0,0,1,0,1,5,1,8,16,7,4,9,6,11,8,8,2,3
+UBC,2013,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",131,67.67,15.07,94,0,119,10,0,1,0,1,0,1,1,7,10,12,13,11,11,18,15,10,13,9,7
+UBC,2014,S,PSYC,321,,921,ENVIRON. PSYCH.,"Hamilton, Kevin",77,69.96,8.92,88,51,75,0,2,0,0,0,0,0,0,0,0,2,8,10,12,9,13,6,12,3,0
+UBC,2014,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",139,66.79,14.28,96,30,120,13,2,0,0,0,0,0,5,8,13,15,12,16,15,13,8,9,15,12,5
+UBC,2015,S,PSYC,321,,921,ENVIRON. PSYCH.,"Hamilton, Kevin",126,68.18,9.04,93,50,122,0,2,1,0,0,0,0,0,0,0,11,9,16,19,21,22,7,15,1,1
+UBC,2015,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",72,67.39,14.69,93,20,67,3,0,0,0,0,0,1,1,1,3,12,5,8,8,8,4,5,6,7,4
+UBC,2016,S,PSYC,321,,921,ENVIRON. PSYCH.,"Hamilton, Kevin",113,70.11,8.06,92,41,110,1,2,0,0,0,0,0,0,1,1,2,3,15,23,20,21,13,9,2,2
+UBC,2016,W,PSYC,102,,902,DEV SOC CLI PSY,"Hamilton, Kevin",52,67.18,17.18,93,0,48,3,1,0,0,1,0,0,1,1,3,9,4,3,3,5,5,6,7,4,2
+UBC,2017,S,PSYC,101,,921,BIO COG PSYCH,"Hamilton, Kevin",220,69.35,13.91,96,30,195,12,5,0,0,0,0,0,4,8,12,20,22,17,22,16,19,21,27,21,10
+UBCV,2014,S,PSYC,321,,921,Environmental Psychology,Kevin Hamilton,75,69.96,8.917701801,88.0,51.0,,,,,,,,,,,0,,8,10,12,9,13,6,12,,0
+UBCV,2014,W,PSYC,102,,902,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,137,66.65693431,14.16833563,96.0,30.0,,,,,,,,,,,13,16,13,16,15,15,8,9,15,12,5
+UBCV,2015,S,PSYC,321,,921,Environmental Psychology,Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,123,68.19512195,9.007882283,93.0,50.0,,,,,,,,,,,0,11,9,16,19,22,22,7,15,,
+UBCV,2015,W,PSYC,102,,902,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,72,67.111111111,14.624459114,93.0,20.0,,,,,,,,,,,,13,5,8,9,8,4,5,6,7,
+UBCV,2016,S,PSYC,321,,921,Environmental Psychology,Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,111,70.10810811,8.060398537,92.0,41.0,,,,,,,,,,,1,2,3,15,23,20,21,13,9,2,2
+UBCV,2016,W,PSYC,102,,902,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,51,67.17647059,17.17522155,93.0,0.0,,,,,,,,,,,3,9,4,3,3,5,5,6,7,4,2
+UBCV,2017,S,PSYC,101,,921,Introduction to Biological and Cognitive Psychology,Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,215,69.265116279,13.718785874,96.0,30.0,,,,,,,,,,,12,20,24,17,25,17,20,22,27,21,10
+UBCV,2018,S,PSYC,101,,921,Introduction to Biological and Cognitive Psychology,Janel Fergusson;Janel Lynn Fergusson;Kevin Hamilton;Michelle Crease;Natasha Pestonji,238,74.655462185,13.739552671,96.0,14.0,,,,,,,,,,,11,11,14,10,19,19,20,38,31,36,29

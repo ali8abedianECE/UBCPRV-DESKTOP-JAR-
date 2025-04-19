@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",59,69.28,13.94,95,22,53,5,1,0,0,0,0,1,1,3,5,3,3,4,6,10,11,3,8,1,4
+UBC,2006,W,CHEM,203,,102,INTR ORGNC CHEM,"Ciufolini, Marco",122,57.88,14.28,90,25,76,45,0,0,1,0,0,1,9,35,45,4,7,17,14,12,7,6,5,3,1
+UBC,2006,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",60,65.37,16.77,97,30,48,11,1,0,0,0,0,0,5,6,11,4,1,6,10,4,8,3,7,0,5
+UBC,2006,W,MEDG,420,,001,HUMAN BIOC GENET,"Brinkman, Ryan;Kay, Robert;Marra, Marco;Wilkinson, Mark",21,79.14,8.25,93,58,21,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,4,7,1,3
+UBC,2007,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",63,70.64,13.46,96,32,58,3,2,0,0,0,0,0,1,2,3,3,5,9,5,5,10,5,6,3,7
+UBC,2007,W,MATH,267,,202,MATH ELEC ENG,"Ferrante, Marco",111,62.49,14.25,90,17,93,11,2,0,5,0,2,2,3,4,11,15,9,13,11,20,11,5,5,3,1
+UBC,2009,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",84,65.77,15.12,97,30,70,13,0,1,0,0,0,0,3,10,13,8,4,5,8,11,13,5,9,3,4
+UBC,2009,W,MEDG,420,,001,HUMAN BIOC GENET,"Kay, Robert;Marra, Marco;Simpson, Elizabeth;Wilkinson, Mark",14,82.54,6.17,89,69,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,7,0
+UBC,2010,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",254,67.24,16.08,97,29,224,29,1,0,0,0,0,1,15,13,29,31,14,28,17,29,28,11,23,19,24
+UBC,2010,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",83,66.47,15.01,94,30,69,12,1,1,0,0,0,0,3,9,12,8,3,7,10,9,9,4,10,4,5
+UBC,2010,W,MEDG,420,,001,HUMAN BIOC GENET,"Kay, Robert;Marra, Marco;Simpson, Elizabeth;Wilkinson, Mark",14,79,10.13,89,50,13,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,3,5,0
+UBC,2011,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",220,68.98,14.53,96,31,202,17,0,0,1,0,0,0,4,13,17,21,20,27,18,21,17,16,23,18,21
+UBC,2011,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",108,64.55,16.9,98,22,91,11,4,0,2,0,0,2,8,1,11,15,15,9,12,9,0,7,12,3,9
+UBC,2011,W,MEDG,420,,001,HUMAN BIOC GENET,"Conibear, Elizabeth;Kay, Robert;Marra, Marco",12,81.18,5.58,90,73,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,2,1
+UBC,2012,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",224,67.81,14.05,100,30,189,32,2,0,1,0,0,0,5,27,32,5,17,30,17,29,20,23,19,18,11
+UBC,2012,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",103,67.06,14.94,100,22,95,7,0,0,1,0,0,2,1,4,7,11,10,14,8,16,10,4,9,4,9
+UBC,2013,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",223,69.47,13.51,96,34,202,19,2,0,0,0,0,0,1,18,19,11,15,19,31,22,33,21,20,12,18
+UBC,2013,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",80,58.75,15.72,95,14,66,11,3,0,0,0,1,2,6,2,11,15,7,18,9,3,4,1,4,2,3
+UBC,2014,S,EDST,404,,301,ETHICS & TEACHIN,"Espinoza, Marco",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDST,404,,973,ETHICS & TEACHIN,"Espinoza, Marco",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",200,68.88,14.94,98,35,175,20,2,0,3,0,0,0,7,13,20,14,13,21,24,13,17,22,24,8,19
+UBC,2014,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",70,59.66,19.42,100,10,54,13,1,0,2,0,1,3,8,1,13,14,4,9,6,3,6,2,2,1,7
+UBC,2014,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Cullis, Pieter;Eltis, Lindsay;Hieter, Philip;Hirst, Martin;Marra, Marco;Rieseberg, Loren;Ryan, Katherine",11,89.36,2.69,93,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5
+UBC,2015,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",213,68.04,14.85,98,17,189,22,2,0,0,0,1,0,2,19,22,14,19,23,24,14,19,22,25,17,12
+UBC,2015,W,CHEM,330,,108,ADV ORG CHEM,"Ciufolini, Marco",46,66.5,17.74,96,19,38,6,0,0,2,0,1,1,1,3,6,3,3,5,4,5,4,3,5,1,5
+UBC,2015,W,CHEM,540,B,024,SEMINAR IN CHEM,"Ciufolini, Marco",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Bryan, Jennifer Frazier;Eltis, Lindsay;Foster, Leonard;Hallam, Steven;Hansen, Carl;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mostafavi, Sara;Nislow, Corey;Stirling, Peter;Tokuriki, Nobuhiko",11,89.82,2.68,94,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6
+UBC,2016,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",246,66.4,14.85,98,29,211,29,6,0,0,0,0,1,11,17,29,21,22,23,25,19,34,20,25,5,17
+UBC,2016,W,CHEM,233,,199,Org Chem Biol Sc,"Ciufolini, Marco",234,67.39,15.35,94,29,194,34,4,0,2,0,0,1,9,24,34,15,18,20,17,22,23,18,28,20,13
+UBC,2016,W,GSAT,502,,001,ADV GSAT CONCEPT,"Andersen, Raymond;Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Hirst, Martin;Kastrup, Christian;Marra, Marco;Marziali, Andre;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Withers, Stephen",9,93.13,3.09,99,89,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2017,W,CHEM,203,,101,INTR ORGNC CHEM,"Ciufolini, Marco",236,63.77,15.37,100,28,195,37,3,0,1,0,0,2,10,25,37,31,24,24,23,15,20,14,21,11,12
+UBC,2017,W,CHEM,233,,108,Org Chem Biol Sc,"Ciufolini, Marco",220,57.94,17.04,97,23,163,53,4,0,0,0,0,5,35,13,53,42,19,21,13,18,16,9,12,7,6
+UBC,2017,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Haney, Cara;Hieter, Philip;Kastrup, Christian;Kobor, Michael;Marra, Marco;Mayor, Thibault;Mostafavi, Sara;Nislow, Corey;Rieseberg, Loren;Rossi, Fabio;Tokuriki, Nobuhiko",15,92.73,3.73,97,85,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2017,W,MEDG,505,,001,GENOME ANALYSIS,"Birol, Inanc;Farrer, Matthew;Friedman, Jan Marshall;Hieter, Philip;Hirst, Martin;Jones, Steven J;Marra, Marco;Morin, Gregg;Ross, Colin",12,91.17,4.59,98,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8
+UBC,2018,W,CHEM,233,,110,Org Chem Biol Sc,"Ciufolini, Marco",205,75.69,12.72,100,31,197,4,2,0,2,0,0,0,4,0,4,8,4,14,20,20,25,17,34,22,33
+UBC,2018,W,CHEM,460,,166,ORGANIC SYNTHSIS,"Ciufolini, Marco",18,75.87,17,100,30,14,1,0,0,3,0,0,0,1,0,1,0,0,1,2,0,4,1,1,1,4
+UBC,2018,W,CHEM,560,,166,ORGANIC CHEM,"Ciufolini, Marco",11,75.63,14.5,95,50,8,0,0,3,0,0,0,0,0,0,0,1,0,1,0,0,2,0,1,2,1
+UBC,2018,W,GSAT,502,,001,ADV GSAT CONCEPT,"Birol, Inanc;Bohlmann, Jorg;Hansen, Carl;Hieter, Philip;Hirst, Martin;Marra, Marco;Mayor, Thibault;Rieseberg, Loren;Zandstra, Peter",7,100,0,100,100,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2018,W,MATH,303,,201,INTR STOCH PROC,"Ferrante, Marco",122,74.19,12.32,100,39,112,2,4,0,3,0,0,0,1,1,2,5,7,3,18,10,16,13,14,16,10

@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,WRDS,150,,06P,RSRCH&WRIT HUMAN,"Otto, Jonathan",30,68.56,12.83,94,36,26,1,3,0,0,0,0,0,1,0,1,2,4,1,3,3,4,4,2,2,1,,,
+UBC,2018,W,WRDS,150,,09M,RSRCH&WRIT HUMAN,"Otto, Jonathan",30,72.13,9.82,86,50,30,0,0,0,0,0,0,0,0,0,0,1,4,0,5,2,4,6,5,3,0,,,
+UBC,2018,W,WRDS,150,,EC1,RSRCH&WRIT HUMAN,"Otto, Jonathan",22,77.23,4.68,85,67,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,7,6,2,0,,,
+UBC,2018,W,WRDS,150,,EC2,RSRCH&WRIT HUMAN,"Otto, Jonathan",26,79.19,7.72,90,50,26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,7,8,6,1,,,
+UBC,2018,W,WRDS,150,,EC3,RSRCH&WRIT HUMAN,"Otto, Jonathan",24,75.21,8.21,86,50,24,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,4,9,4,2,0,,,
+UBC,2018,W,WRDS,150,,EC4,RSRCH&WRIT HUMAN,"Otto, Jonathan",26,75.96,7.1,88,56,26,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,10,5,4,3,0,,,
+UBCV,2018,W,WRDS,150,,06P,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,27,68.555555556,12.828254073,94.0,36.0,,,,,,,,,,,1,2,4,1,3,3,4,4,2,2,1,,,
+UBCV,2018,W,WRDS,150,,09M,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,30,72.133333333,9.821627554,86.0,50.0,,,,,,,,,,,0,1,4,0,5,2,4,6,5,3,0,,,
+UBCV,2018,W,WRDS,150,,EC1,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,22,77.227272727,4.679558569,85.0,67.0,,,,,,,,,,,0,0,0,0,1,3,3,7,6,2,0,,,
+UBCV,2018,W,WRDS,150,,EC2,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,26,79.192307692,7.715020315,90.0,50.0,,,,,,,,,,,0,1,0,0,0,1,2,7,8,6,1,,,
+UBCV,2018,W,WRDS,150,,EC3,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,24,75.208333333,8.214404986,86.0,50.0,,,,,,,,,,,0,1,0,2,1,1,4,9,4,2,0,,,
+UBCV,2018,W,WRDS,150,,EC4,Research and Writing in the Humanities and Social Sciences,Jonathan Otto,26,75.961538462,7.096369603,88.0,56.0,,,,,,,,,,,0,0,1,0,1,2,10,5,4,3,0,,,
+UBCV,2019,S,WRDS,150,,M02,Writing and Research in the Disciplines,Jonathan Otto,30,72.9,9.809741815,91.0,53.0,,,,,,,,,,,0,1,1,3,4,3,5,6,4,1,2,,,
+UBCV,2019,W,WRDS,150,,EC1,Writing and Research in the Disciplines,Jonathan Otto,30,77.4,16.251472082,93.0,2.0,,,,,,,,,,,1,0,0,1,2,0,5,3,9,8,1,,,
+UBCV,2019,W,WRDS,150,,EC2,Writing and Research in the Disciplines,Jonathan Otto,16,70.625,16.708780127,86.0,19.0,,,,,,,,,,,1,1,1,0,1,0,4,1,6,1,0,,,
+UBCV,2019,W,WRDS,150,,EC3,Writing and Research in the Disciplines,Jonathan Otto,25,79.28,8.203251388,92.0,53.0,,,,,,,,,,,0,1,0,1,0,1,1,6,10,4,1,,,
+UBCV,2019,W,WRDS,150,,EC4,Writing and Research in the Disciplines,Jonathan Otto,26,79.923076923,5.712604148,88.0,65.0,,,,,,,,,,,0,0,0,0,1,1,4,3,11,6,0,,,
+UBCV,2020,W,WRDS,150,A,EC1,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,27,78.37037037,5.443048836,88.0,63.0,,,,,,,,,,,0,0,0,1,0,1,4,8,10,3,0,,,
+UBCV,2020,W,WRDS,150,A,EC4,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,23,73.086956522,16.629418192,86.0,3.0,,,,,,,,,,,1,0,1,0,2,1,4,6,7,1,0,,,
+UBCV,2020,W,WRDS,150,A,EC5,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,25,75.56,11.892154276,89.0,33.0,,,,,,,,,,,2,0,0,0,0,2,3,8,8,2,0,,,
+UBCV,2020,W,WRDS,150,A,EC6,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,24,74.166666667,9.101680049,85.0,52.0,,,,,,,,,,,0,1,1,1,3,1,4,5,6,2,0,,,
+UBCV,2020,W,WRDS,150,B,832,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,30,73.733333333,9.758933426,86.0,40.0,,,,,,,,,,,1,1,1,0,0,5,7,7,7,1,0,,,
+UBCV,2020,W,WRDS,150,B,861,Writing and Research in the Disciplines,Jonathan Otto;Saara Rajan,31,74.064516129,16.136780934,87.0,0.0,,,,,,,,,,,1,0,3,0,2,4,2,2,13,4,0,,,
+UBCV,2021,S,WRDS,150,B,511,Writing and Research in the Disciplines,Jonathan Otto;Samantha Belhumeur,29,79.965517241,5.493390565,87.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,4,15,5,0,,,
+UBCV,2021,W,WRDS,150,A,311,Writing and Research in the Disciplines,Jonathan Otto,29,72.275862069,12.988721898,85.0,34.0,,,,,,,,,,,2,0,4,0,1,3,1,10,6,2,0,,,
+UBCV,2021,W,WRDS,150,A,323,Writing and Research in the Disciplines,Jonathan Otto,29,73.896551724,9.158699329,83.0,43.0,,,,,,,,,,,1,1,0,1,2,4,6,3,11,0,0,,,
+UBCV,2021,W,WRDS,150,B,601,Writing and Research in the Disciplines,Jonathan Otto;Samantha Belhumeur,29,65.793103448,18.41656729,85.0,6.0,,,,,,,,,,,3,2,1,2,2,4,5,6,3,1,0,,,
+UBCV,2021,W,WRDS,150,B,613,Writing and Research in the Disciplines,Jonathan Otto;Samantha Belhumeur,28,75.571428571,6.994328768,86.0,59.0,,,,,,,,,,,0,0,1,1,3,4,1,6,11,1,0,,,
+UBCV,2021,W,WRDS,150,B,671,Writing and Research in the Disciplines,Jonathan Otto;Samantha Belhumeur,30,78.133333333,5.488127206,84.0,64.0,,,,,,,,,,,0,0,0,0,2,2,2,10,14,0,0,,,
+UBCV,2021,W,WRDS,150,B,681,Writing and Research in the Disciplines,Jonathan Otto;Samantha Belhumeur,28,75.5,12.45584795,84.0,17.0,,,,,,,,,,,1,0,0,0,2,0,6,6,13,0,0,,,
+UBCV,2021,S,WRDS,150,B,511,Writing and Research in the Disciplines,Jonathan Otto,29,80.0,,87.0,63.0,,,,,,,,,,,,,,,,,,,15,,,81.0,84.0,77.0
+UBCV,2021,W,WRDS,150,A,311,Writing and Research in the Disciplines,Jonathan Otto,29,72.3,,85.0,34.0,,,,,,,,,,,,,,,,,,10,6,,,78.0,80.0,70.0
+UBCV,2021,W,WRDS,150,A,323,Writing and Research in the Disciplines,Jonathan Otto,29,73.9,,83.0,43.0,,,,,,,,,,,,,,,,,6,,11,,,75.0,81.0,70.0
+UBCV,2021,W,WRDS,150,B,601,Writing and Research in the Disciplines,Jonathan Otto,29,65.8,,85.0,6.0,,,,,,,,,,,,,,,,,,6,,,,72.0,77.0,63.0
+UBCV,2021,W,WRDS,150,B,613,Writing and Research in the Disciplines,Jonathan Otto,28,75.6,,86.0,59.0,,,,,,,,,,,,,,,,,,6,11,,,79.0,81.0,70.0
+UBCV,2021,W,WRDS,150,B,671,Writing and Research in the Disciplines,Jonathan Otto,30,78.1,,84.0,64.0,,,,,,,,,,,,,,,,,,10,14,,,79.0,82.0,77.0
+UBCV,2021,W,WRDS,150,B,681,Writing and Research in the Disciplines,Jonathan Otto,28,75.5,,84.0,17.0,,,,,,,,,,,,,,,,,6,6,13,,,78.5,81.0,74.0
+UBCV,2023,S,WRDS,150,B,511,Writing and Research in the Disciplines,Jonathan Otto,31,76.2,,83.0,22.0,,,,,,,,,,,1,0,0,0,1,1,1,14,12,0,0,78.5,80.0,76.3
+UBCV,2023,W,WRDS,150,A,021,Writing and Research in the Disciplines,Jonathan Otto,31,78.1,,84.0,67.0,,,,,,,,,,,0,0,0,0,1,1,2,18,9,0,0,78.0,80.0,77.0
+UBCV,2023,W,WRDS,150,A,031,Writing and Research in the Disciplines,Jonathan Otto,32,75.9,,85.0,38.0,,,,,,,,,,,1,0,0,0,2,1,9,7,10,2,0,77.0,81.0,73.0
+UBCV,2023,W,WRDS,150,A,042,Writing and Research in the Disciplines,Jonathan Otto,31,75.1,,85.0,40.0,,,,,,,,,,,1,0,0,1,2,4,4,9,9,1,0,78.0,81.0,72.0
+UBCV,2023,W,WRDS,150,A,052,Writing and Research in the Disciplines,Jonathan Otto,31,74.3,,84.0,41.0,,,,,,,,,,,1,1,0,2,1,0,9,7,9,0,0,76.0,80.8,74.0
+UBCV,2023,W,WRDS,150,A,327,Writing and Research in the Disciplines,Jonathan Otto,28,72.8,,85.0,2.0,,,,,,,,,,,2,1,0,0,1,0,2,9,12,1,0,79.0,81.3,76.8
+UBCV,2023,W,WRDS,150,A,337,Writing and Research in the Disciplines,Jonathan Otto,30,72.6,,85.0,0.0,,,,,,,,,,,1,0,1,2,1,2,6,10,6,1,0,76.0,79.0,72.0
+UBCV,2023,W,WRDS,150,A,367,Writing and Research in the Disciplines,Jonathan Otto,28,65.3,,84.0,0.0,,,,,,,,,,,4,1,0,1,0,3,3,5,11,0,0,77.5,80.0,70.3
+UBCV,2023,W,WRDS,150,A,377,Writing and Research in the Disciplines,Jonathan Otto,25,72.6,,85.0,0.0,,,,,,,,,,,1,0,1,2,1,2,0,10,6,2,0,78.0,80.0,71.0

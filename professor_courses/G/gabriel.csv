@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MATH,105,,206,INT CALC AP C&SS,"Mititica, Gabriel",53,67.18,16.62,94,26,44,6,1,0,2,0,0,2,2,2,6,4,4,3,2,7,8,6,3,3,4
+UBC,2002,W,MATH,184,,104,Calc SocSci Comm,"Mititica, Gabriel",54,54.16,18.99,90,7,31,14,7,0,2,1,1,3,6,3,14,4,7,6,2,4,3,0,3,1,1
+UBC,2003,W,MATH,184,,106,Calc SocSci Comm,"Mititica, Gabriel",65,59.56,19.33,94,10,45,12,3,1,4,0,1,2,6,3,12,13,3,4,4,6,3,1,5,2,4
+UBC,2005,W,MATH,105,,206,INT CALC AP C&SS,"Indurskis, Gabriel",91,68.92,12.38,93,26,85,2,2,0,2,0,0,1,1,0,2,10,5,14,7,11,9,11,11,2,5
+UBC,2005,W,MATH,184,,103,CALC SOCSCI COMM,"Mititica, Gabriel",69,56.82,17.66,91,10,48,14,6,0,1,0,1,5,3,5,14,13,10,3,0,10,3,2,3,3,1
+UBC,2006,W,MATH,100,,103,DF CALC AP PH SC,"Indurskis, Gabriel",142,80.43,9.96,99,56,142,0,0,0,0,0,0,0,0,0,0,0,5,3,7,13,19,7,32,29,27
+UBC,2006,W,MATH,101,,203,INT CALC AP PH S,"Indurskis, Gabriel",154,80.4,11.78,100,37,153,1,0,0,0,0,0,0,1,0,1,3,4,10,3,14,13,12,27,25,42
+UBC,2007,W,MATH,101,,212,INT CALC AP PH S,"Indurskis, Gabriel",155,72.46,15.38,96,26,146,9,0,0,0,0,0,2,3,4,9,11,16,8,11,8,10,11,30,30,11
+UBC,2009,W,FNLG,201,B,02B,INTMED SALISH I,"Campbell, Jill;Gabriel, Fern",7,89,12.49,99,72,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4
+UBC,2009,W,FNLG,202,B,02B,INTMED SALISH II,"Campbell, Jill;Gabriel, Fern",7,86.83,11.14,95,72,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4
+UBC,2010,S,CPSC,211,,921,INTRO SOFT DEV,"Murray, Gabriel",48,79.7,13.45,95,29,40,3,5,0,0,0,0,1,0,2,3,0,0,0,1,3,4,5,8,12,7
+UBC,2011,W,CPSC,260,,101,OBJ-OR PROG DSGN,"Murray, Gabriel",89,86.72,11.44,100,45,86,1,2,0,0,0,0,0,0,1,1,0,2,1,1,3,7,8,8,9,47
+UBC,2011,W,FNLG,101,B,02B,INTRO SALISH I,"Gabriel, Fern;Shaw, Patricia",12,61.3,27.62,99,18,6,4,2,0,0,0,1,0,2,1,4,0,0,0,3,0,0,0,0,1,2
+UBC,2011,W,FNLG,102,B,02B,INTRO SALISH II,"Gabriel, Fern;Shaw, Patricia",6,78.67,14.99,97,61,6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,2
+UBC,2015,W,APSC,182,,VE1,MATTER&ENRGY I,"Potvin, Gabriel",37,71.57,14.86,96,31,35,2,0,0,0,0,0,0,1,1,2,2,5,1,2,6,2,6,2,4,5
+UBC,2015,W,APSC,183,,VE1,MATTER&ENRGY II,"Potvin, Gabriel",37,76.16,15.95,97,32,34,3,0,0,0,0,0,0,2,1,3,0,2,2,2,2,6,2,5,4,9
+UBC,2015,W,CHBE,459,,201,CHML ECONOMICS,"Potvin, Gabriel",68,78.09,11.54,98,53,68,0,0,0,0,0,0,0,0,0,0,2,2,3,7,5,6,9,14,7,13
+UBC,2016,W,APSC,182,,VE1,MATTER&ENRGY I,"Potvin, Gabriel",85,76,14.36,100,30,80,3,2,0,0,0,0,0,3,0,3,2,6,4,5,6,11,8,13,11,14
+UBC,2016,W,APSC,183,,VE1,MATTER&ENRGY II,"Potvin, Gabriel",81,81.76,12.52,97,20,73,2,1,0,5,0,0,1,0,1,2,0,1,1,4,4,5,5,18,13,22
+UBC,2016,W,CHBE,459,,201,CHML ECONOMICS,"Potvin, Gabriel",167,79.74,9.98,96,45,165,1,1,0,0,0,0,0,0,1,1,0,6,4,11,8,22,15,35,32,32
+UBC,2016,W,CHBE,464,,001,CHEM ENG LAB IV,"Gyenge, Elod Lajos;Potvin, Gabriel;Sharifi, Hassan",101,84.05,5.45,91,55,101,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,2,42,35,14
+UBC,2017,W,APSC,100,,102,INTRO TO ENG I,"Jaeger, Carol Patricia;Ostafichuk, Peter;Potvin, Gabriel",196,80.13,7.12,94,43,193,1,0,0,2,0,0,0,0,1,1,0,1,4,6,9,19,25,70,45,14
+UBC,2017,W,APSC,101,,201,INTRO TO ENG II,"Ostafichuk, Peter;Potvin, Gabriel;Yonemitsu, Noboru",220,72.42,8.63,94,39,213,4,1,0,2,0,0,0,1,3,4,7,5,12,19,31,56,39,33,9,2
+UBC,2017,W,APSC,182,,VE1,MATTER&ENRGY I,"Potvin, Gabriel",90,79.39,14.93,100,38,86,3,0,0,1,0,0,0,2,1,3,4,4,2,5,9,4,7,13,10,28
+UBC,2017,W,APSC,183,,VE1,MATTER&ENRGY II,"Potvin, Gabriel",88,81.11,12.57,100,43,83,5,0,0,0,0,0,0,0,5,5,0,1,1,1,6,9,8,15,18,24
+UBC,2017,W,APSC,498,H,201,DIRECTED STUDIES,"Potvin, Gabriel",15,86.36,3.73,91,80,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,4
+UBC,2017,W,CHBE,459,,201,CHML ECONOMICS,"Potvin, Gabriel",187,77.13,13.71,100,29,183,3,1,0,0,0,0,1,1,1,3,8,12,11,10,15,15,22,24,31,35
+UBC,2017,W,CHBE,464,,001,CHEM ENG LAB IV,"Bagherzadeh Hosseini, Seyyed A;Potvin, Gabriel",95,85.28,4.29,92,73,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,32,40,18
+UBC,2018,W,APSC,100,,101,INTRO TO ENG I,"Jaeger, Carol Patricia;Lam, Gabrielle;Ostafichuk, Peter;Potvin, Gabriel",278,78.22,7.56,96,47,272,1,0,0,5,0,0,0,0,1,1,1,2,8,12,24,37,45,88,40,15
+UBC,2018,W,APSC,100,,103,INTRO TO ENG I,"Jaeger, Carol Patricia;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan",180,76.46,8.48,90,43,173,5,1,0,1,0,0,0,0,5,5,1,0,4,9,21,24,41,42,28,3
+UBC,2018,W,APSC,101,,202,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",149,72.92,9.76,93,40,143,4,0,0,2,0,0,0,0,4,4,1,8,13,11,24,16,32,22,10,6
+UBC,2018,W,APSC,101,,203,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",231,73.99,8.54,93,44,226,3,0,0,2,0,0,0,0,3,3,6,6,6,15,39,42,48,41,20,3
+UBC,2018,W,APSC,101,,204,INTRO TO ENG II,"Jaeger, Carol Patricia;Lam, Gabrielle;Nakane, Jonathan;Nesbit, Susan;Ostafichuk, Peter;Potvin, Gabriel;Verrett, Jonathan;Yonemitsu, Noboru",183,73.46,9.72,99,45,172,6,3,0,2,0,0,0,0,6,6,4,2,7,20,27,31,35,23,16,7
+UBC,2018,W,APSC,182,,VE1,MATTER&ENRGY I,"Peragovics, Agnes;Potvin, Gabriel",70,77.99,9.83,98,50,69,0,1,0,0,0,0,0,0,0,0,2,1,4,1,6,10,11,17,11,6
+UBC,2018,W,BMEG,210,,101,BME THERMODYNAM,"Potvin, Gabriel",60,73.14,14.25,99,37,56,3,0,0,1,0,0,0,1,2,3,6,0,5,5,8,5,4,8,7,8
+UBC,2018,W,CHBE,459,,201,CHML ECONOMICS,"Potvin, Gabriel",184,79.09,12.42,100,50,182,0,1,1,0,0,0,0,0,0,0,7,10,8,7,13,21,17,33,26,40
+UBC,2018,W,CHBE,464,,001,CHEM ENG LAB IV,"Bagherzadeh Hosseini, Seyyed A;Potvin, Gabriel",105,84.4,5.27,93,70,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,5,37,39,16
+UBC,2018,W,FISH,500,,001,FISHERIES MNGMT,"Reygondeau, Gabriel",6,89.67,2.34,93,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2018,W,VANT,150,,VE1,SUSTN&ENG DESIGN,"Motavas, Saloome;Potvin, Gabriel",70,78.33,8.14,94,47,68,1,1,0,0,0,0,0,0,1,1,0,1,0,2,8,14,11,14,15,3

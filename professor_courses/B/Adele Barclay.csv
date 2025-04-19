@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,ASTU,101,,P03,WRTI RES SS & H,"Barclay, Adele",23,73.24,7.78,84,55,21,0,2,0,0,0,0,0,0,0,0,0,2,0,3,3,4,4,5,0,0
+UBC,2017,W,WRDS,150,,03E,RSRCH&WRIT HUMAN,"Barclay, Adele",29,68.61,17.87,88,4,26,2,1,0,0,1,0,1,0,0,2,0,2,2,2,4,6,4,5,1,0
+UBC,2017,W,WRDS,150,,03P,RSRCH&WRIT HUMAN,"Barclay, Adele",30,70.77,12.8,87,12,29,1,0,0,0,0,1,0,0,0,1,0,0,0,7,6,6,5,4,1,0
+UBC,2017,W,WRDS,150,,04M,RSRCH&WRIT HUMAN,"Barclay, Adele",30,75.07,6.45,85,55,30,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,6,11,5,1,0
+UBC,2017,W,WRDS,150,,06P,RSRCH&WRIT HUMAN,"Barclay, Adele",30,74,8.05,86,46,29,1,0,0,0,0,0,0,0,1,1,0,0,1,2,7,5,6,5,3,0
+UBC,2017,W,WRDS,150,,11B,RSRCH&WRIT HUMAN,"Barclay, Adele",29,74.14,7.74,90,61,29,0,0,0,0,0,0,0,0,0,0,0,0,3,3,7,3,6,3,3,1
+UBCV,2017,W,ASTU,101,,P03,Writing for Research in the Social Sciences and the Humanities,Adele Barclay;Ad���Le Barclay,21,73.238095238,7.78398845,84.0,55.0,,,,,,,,,,,0,0,2,0,3,3,4,4,5,0,0
+UBCV,2017,W,WRDS,150,,03E,Research and Writing in the Humanities and Social Sciences,Adele Barclay,28,68.607142857,17.870603392,88.0,4.0,,,,,,,,,,,2,0,2,2,2,4,6,4,5,1,0
+UBCV,2017,W,WRDS,150,,03P,Research and Writing in the Humanities and Social Sciences,Adele Barclay,30,70.766666667,12.80000898,87.0,12.0,,,,,,,,,,,1,0,0,0,7,6,6,5,4,1,0
+UBCV,2017,W,WRDS,150,,04M,Research and Writing in the Humanities and Social Sciences,Adele Barclay,30,75.066666667,6.448380354,85.0,55.0,,,,,,,,,,,0,0,1,1,1,4,6,11,5,1,0
+UBCV,2017,W,WRDS,150,,06P,Research and Writing in the Humanities and Social Sciences,Adele Barclay,30,74.0,8.047274115,86.0,46.0,,,,,,,,,,,1,0,0,1,2,7,5,6,5,3,0
+UBCV,2017,W,WRDS,150,,11B,Research and Writing in the Humanities and Social Sciences,Adele Barclay,29,74.137931034,7.740081847,90.0,61.0,,,,,,,,,,,0,0,0,3,3,7,3,6,3,3,1

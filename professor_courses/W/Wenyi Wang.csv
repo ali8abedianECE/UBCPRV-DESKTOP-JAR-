@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPSC,221,,201,Basic Algorithms and Data Structures,Lars Kotthoff;Sedigheh Zolaktaf;Wenyi Wang;Zheng Dong,115,72.530434783,15.485885899,100.0,45.0,18,,2,,10,13,11,14,13,14,14
+UBCV,2015,W,CPSC,221,,202,Basic Algorithms and Data Structures,Alan Hu;Sedigheh Zolaktaf;Wenyi Wang;Zheng Dong,157,72.78343949,16.699193314,100.0,10.0,21,,5,,14,19,20,11,23,19,21
+UBCV,2016,W,CPSC,340,,201,Machine Learning and Data Mining,Bita Nejat;Issam Hadj Laradji;Michael Gelbart;Ritika Jain;Tian Qi Chen;Wenyi Wang,114,75.09649123,11.2556529,99.0,38.0,1,4,8,4,4,17,20,14,17,12,13

@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2016,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Henry Siu;Yaniv Yedid Levi,12,82.75,6.482493908,96.0,75.0,0,0,0,0,0,0,1,3,4,2,2
+UBCV,2016,W,ECON,603,,001,Macroeconomics II,Davide Alonzo;Giovanni Gallipoli,12,85.0,8.213071621,96.0,74.0,0,0,0,0,0,0,2,2,1,3,4
+UBCV,2017,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Henry Siu;Paul Beaudry;Yaniv Yedid Levi,20,88.05,8.312799263,98.0,68.0,0,0,0,0,0,1,1,2,2,1,13
+UBCV,2017,W,ECON,603,,001,Macroeconomics II,Davide Alonzo;Giovanni Gallipoli,19,86.263157895,5.36285688,97.0,77.0,0,0,0,0,0,0,0,2,6,4,7
+UBCV,2018,S,ECON,302,,921,Intermediate Macroeconomic Analysis I,Davide Alonzo;Nicolas Franz Pattillo;Wai-Ching Alfred Kong,95,69.694736842,9.575093671,88.0,50.0,0,4,11,14,14,14,7,12,12,7,0
+UBCV,2018,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Giovanni Gallipoli;Henry Siu,19,87.315789474,4.714665436,96.0,79.0,0,0,0,0,0,0,0,2,1,10,6
+UBCV,2018,W,ECON,603,,001,Macroeconomics II,Davide Alonzo;Giovanni Gallipoli;Henry Siu,18,87.722222222,3.862421605,93.0,80.0,0,0,0,0,0,0,0,0,4,8,6
+UBCV,2019,S,ECON,594,,942,Applied Economics,Davide Alonzo;Sejin Ahn;Thomas Lemieux,27,85.407407407,4.634811914,93.0,77.0,0,0,0,0,0,0,0,2,10,7,8
+UBCV,2019,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Davide Alonzo;Helena Xiaoyi Zhu;Prapan Leenoi;Wendy Wai Yee Kei;Yajun Wang,89,69.505617978,13.32045897,99.0,32.0,6,6,10,8,7,8,12,11,9,7,5
+UBCV,2019,W,ECON,456,,002,International Macroeconomics and Finance,Amartya Lahiri;Davide Alonzo,55,75.836363636,13.632428164,100.0,28.0,1,0,2,7,5,6,7,5,4,10,8

@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,COSC,310,,001,Software Engineering,Angelina Pinchbeck;Anupreet Januhen;Apurva Narayan;Zil Huma,98,84.153061224,10.880183482,100.0,34.0,1,3,0,1,1,3,5,5,18,32,29,,,
+UBCO,2018,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Matthew Fritter;Matthew S Fritter,28,94.535714286,4.238117532,99.0,78.0,0,0,0,0,0,0,0,1,0,0,27,,,
+UBCO,2018,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Matthew Fritter;Matthew S Fritter,28,93.285714286,2.678544973,98.0,86.0,0,0,0,0,0,0,0,0,0,1,27,,,
+UBCO,2018,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Joyce Epp,28,92.428571429,3.726070032,99.0,83.0,0,0,0,0,0,0,0,0,1,5,22,,,
+UBCO,2019,W,COSC,310,,001,Software Engineering,Apurva Narayan;Cameron Chong;Rishab Sharma;Tenzin Jinpa;Yiming Ding,135,89.903703704,9.522850816,97.0,10.0,3,0,0,0,0,0,0,0,3,30,99,,,
+UBCO,2019,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Nusrat Momo;Nusrat Suzana Momo;Pradeep Mahato,98,88.846938776,5.835108884,99.0,75.0,0,0,0,0,0,0,1,7,15,25,50,,,
+UBCO,2019,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Jeff Bulmer,35,95.371428571,5.688407791,99.0,67.0,0,0,0,0,1,0,0,0,0,1,33,,,
+UBCO,2019,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Jeff Bulmer,35,95.714285714,3.730411021,100.0,80.0,0,0,0,0,0,0,0,0,1,1,33,,,
+UBCO,2019,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Debangsha Sarkar,35,94.942857143,3.360172064,98.0,77.0,0,0,0,0,0,0,0,1,0,0,34,,,
+UBCO,2020,W,COSC,310,,101,Software Engineering,Apurva Narayan;Parsa Rajabi,17,84.294117647,8.865415288,96.0,71.0,0,0,0,0,0,1,3,2,3,0,8,,,
+UBCO,2020,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Khandoker Ayman;Khandoker Md Ayman;Pradeep Mahato;Sherif Elbishlawi,90,88.166666667,8.304932878,100.0,51.0,0,1,0,0,1,2,3,6,7,22,48,,,
+UBCO,2020,W,COSC,419,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,34,89.117647059,10.158634798,98.0,58.0,0,0,1,0,1,1,0,3,2,4,22,,,
+UBCO,2020,W,COSC,519,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,9,88.0,16.844880528,98.0,44.0,1,0,0,0,0,0,0,0,0,1,7,,,
+UBCO,2020,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Debangsha Sarkar;John Graham-Knight;Mohamed Shehata,32,91.46875,4.406625327,98.0,79.0,0,0,0,0,0,0,0,1,3,4,24,,,
+UBCO,2020,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Yiming Ding;Yves Lucet,31,96.806451613,3.691606288,100.0,79.0,0,0,0,0,0,0,0,1,0,0,30,,,
+UBCO,2020,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Debangsha Sarkar,31,94.35483871,4.408691318,99.0,80.0,0,0,0,0,0,0,0,0,3,0,28,,,
+UBCO,2021,W,COSC,315,,101,Introduction to Operating Systems,Abhijith Sharma;Anubhav Gupta;Apurva Narayan;Swakhar Poddar;Taif Anjum,57,88.228070175,9.818018319,99.0,32.0,1,0,0,0,0,0,3,1,7,10,35,,,
+UBCO,2021,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan,57,88.2,,99.0,32.0,,,,,,,,,7,10,35,91.0,94.0,85.0
+UBCO,2021,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan,30,95.3,,98.0,87.0,,,,,,,,,,,27,96.0,98.0,94.0

@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,LLED,200,,V91,INTRO ACAD WRIT,"Lee, Caleb",15,52.4,12.73,69,31,10,5,0,0,0,0,0,0,3,2,5,1,4,2,1,2,0,0,0,0,0
+UBC,2016,W,LLED,200,,V94,INTRO ACAD WRIT,"Lee, Caleb",14,56.43,18.23,75,6,9,5,0,0,0,1,0,0,0,4,5,1,1,1,1,2,3,0,0,0,0
+UBC,2016,W,LLED,200,,VE3,INTRO ACAD WRIT,"Lee, Caleb",14,59.23,8.72,74,50,13,0,1,0,0,0,0,0,0,0,0,6,1,1,2,2,1,0,0,0,0
+UBC,2016,W,LLED,201,,V93,CRIT READ&WRIT,"Lee, Caleb",13,59.33,18.41,76,3,11,1,1,0,0,1,0,0,0,0,1,0,2,3,3,2,0,1,0,0,0
+UBC,2016,W,LLED,201,,V96,CRIT READ&WRIT,"Lee, Caleb",13,65.31,7.4,79,54,13,0,0,0,0,0,0,0,0,0,0,1,2,3,2,2,2,1,0,0,0
+UBC,2016,W,LLED,201,,VE1,CRIT READ&WRIT,"Lee, Caleb",13,53.85,21.12,76,5,10,3,0,0,0,1,1,0,0,1,3,0,3,2,3,1,0,1,0,0,0
+UBC,2017,W,LLED,200,,003,INTRO ACAD WRIT,"Lee, Caleb",13,76.08,3.04,80,71,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,2,0,0
+UBC,2017,W,LLED,200,,006,INTRO ACAD WRIT,"Lee, Caleb",12,71.5,7,82,59,12,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,4,1,2,0,0
+UBC,2017,W,LLED,201,,002,CRIT READ&WRIT,"Lee, Caleb",11,77.91,3.48,83,72,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,0,0
+UBC,2017,W,LLED,201,,004,CRIT READ&WRIT,"Lee, Caleb",12,73,4.86,80,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,3,1,0,0
+UBC,2018,W,LLED,200,,003,INTRO ACAD WRIT,"Lee, Caleb",15,71.33,3.74,77,66,15,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,4,3,0,0,0
+UBC,2018,W,LLED,200,,005,INTRO ACAD WRIT,"Lee, Caleb",15,77.33,3.62,85,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,4,1,0
+UBCV,2016,W,LLED,200,,V91,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Olivera Jovovic;Sandra Zappa,15,52.4,12.73241084,69.0,31.0,,,,,,,,,,,5,1,4,2,1,2,0,0,0,0,0
+UBCV,2016,W,LLED,200,,V94,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Sandra Zappa,14,56.42857143,18.23232246,75.0,6.0,,,,,,,,,,,5,1,1,1,1,2,3,0,0,0,0
+UBCV,2016,W,LLED,200,,VE3,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Olivera Jovovic;Sandra Zappa,13,59.23076923,8.719268377,74.0,50.0,,,,,,,,,,,0,6,1,1,2,2,1,0,0,0,0
+UBCV,2016,W,LLED,201,,V93,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Sandra Zappa,12,59.33333333,18.4111297,76.0,3.0,,,,,,,,,,,1,0,2,3,3,2,0,1,0,0,0
+UBCV,2016,W,LLED,201,,V96,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Sandra Zappa,13,65.30769231,7.398024684,79.0,54.0,,,,,,,,,,,0,1,2,3,2,2,2,1,0,0,0
+UBCV,2016,W,LLED,201,,VE1,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Sandra Zappa,13,53.84615385,21.1220507,76.0,5.0,,,,,,,,,,,3,0,3,2,3,1,0,1,0,0,0
+UBCV,2017,W,LLED,200,,003,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Reginald D'Silva,13,76.076923077,3.040327243,80.0,71.0,,,,,,,,,,,0,0,0,0,0,1,4,6,2,0,0
+UBCV,2017,W,LLED,200,,006,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Reginald D'Silva,12,71.5,7.0,82.0,59.0,,,,,,,,,,,0,0,1,1,2,1,4,1,2,0,0
+UBCV,2017,W,LLED,201,,002,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Reginald D'Silva,11,77.909090909,3.477198454,83.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,3,5,0,0
+UBCV,2017,W,LLED,201,,004,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Reginald D'Silva,12,73.0,4.861724348,80.0,63.0,,,,,,,,,,,0,0,0,1,1,1,5,3,1,0,0
+UBCV,2018,W,LLED,200,,003,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Matthew Rosati;Reginald D'Silva;Ryan Deschambault,15,71.333333333,3.735288604,77.0,66.0,,,,,,,,,,,0,0,0,0,2,6,4,3,0,0,0
+UBCV,2018,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Reginald D'Silva;Ryan Deschambault,15,77.333333333,3.618734322,85.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,4,4,1,0
+UBCV,2018,W,LLED,201,,002,Critical Reading and Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Reginald D'Silva;Yanning Dong,18,78.166666667,4.693550017,86.0,70.0,,,,,,,,,,,0,0,0,0,0,2,3,6,5,2,0
+UBCV,2019,W,LLED,200,,003,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Ryan Deschambault,15,74.733333333,6.08824003,83.0,62.0,,,,,,,,,,,0,0,0,2,0,1,4,6,2,0,0
+UBCV,2019,W,LLED,200,,005,Introduction to Writing in Academic and Professional Registers,Caleb Lee;Nasrin Kowkabi;Ryan Deschambault;Yanning Dong,13,68.307692308,16.291023169,78.0,17.0,,,,,,,,,,,1,0,0,0,3,2,2,5,0,0,0
+UBCV,2020,W,VANT,150,,VE1,Sustainability and Engineering Design,Behzad Zakani;Brett Todd;Caleb Lee;Gabriel Potvin;Jannik Eikenaar;Juan Abello Rubio;Saloome Motavas;Seach Chyr Goh;Vladan Prodanovic,46,74.130434783,7.262104671,87.0,60.0,,,,,,,,,,,0,0,0,4,6,7,10,6,8,5,0

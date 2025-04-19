@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,MECH,431,,201,ENG ECONOMICS,"Hollett, Mark",125,73.97,10.17,95,45,122,2,0,0,1,0,0,0,0,2,2,3,5,5,16,16,23,16,21,8,9,,,
+UBC,2016,W,MECH,431,,201,ENG ECONOMICS,"Hollett, Mark",125,74.9,11.44,94,18,120,3,2,0,0,0,1,0,1,1,3,4,2,4,11,9,22,19,26,20,3,,,
+UBC,2018,S,MECH,431,,001,ENG ECONOMICS,"Hollett, Mark",97,84.25,8.22,98,60,93,0,4,0,0,0,0,0,0,0,0,0,0,4,2,2,4,11,12,35,23,,,
+UBCV,2015,W,MECH,431,,201,Engineering Economics,Hoda Talebian;Mark Hollett;Morgan Hibbert,125,73.72,10.496235884,95.0,43.0,,,,,,,,,,,,,5,5,16,16,23,16,21,8,9,,,
+UBCV,2016,W,MECH,431,,201,Engineering Economics,Hoda Talebian;Luke Haliburton;Mark Hollett,123,74.90243902,11.43865651,94.0,18.0,,,,,,,,,,,3,4,2,4,11,9,22,19,26,20,3,,,
+UBCV,2018,S,MECH,431,,001,Engineering Economics,Boris Stoeber;Gary Schajer;Mark Hollett;Sara Azizkhani,93,84.247311828,8.219351389,98.0,60.0,,,,,,,,,,,0,0,0,4,2,2,4,11,12,35,23,,,
+UBCV,2019,S,MECH,431,,001,Engineering Economics,Mark Hollett;Mohammad Sadegh Mazloomi;Tung Nguyen,127,80.929133858,11.080643141,94.0,0.0,,,,,,,,,,,2,0,2,3,2,6,12,15,28,40,17,,,
+UBCV,2020,S,MECH,431,,001,Engineering Economics,Jacob Morrison;Mark Hollett;Suraj Raktim Kashyap,149,85.530201342,7.11351687,96.0,60.0,,,,,,,,,,,0,0,0,5,2,1,5,6,30,59,41,,,
+UBCV,2021,S,MECH,431,,097,Engineering Economics,Atakan Zeybek;Mark Hollett;Suraj Raktim Kashyap,118,79.983050847,11.919231785,96.0,19.0,,,,,,,,,,,3,0,2,3,3,6,14,13,21,39,14,,,
+UBCV,2021,S,MECH,431,,097,Engineering Economics,Mark Hollett,118,80.0,,96.0,19.0,,,,,,,,,,,,,,,,6,14,13,21,39,14,83.5,87.0,75.0

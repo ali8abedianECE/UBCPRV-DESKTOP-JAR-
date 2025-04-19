@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPSC,415,,101,Advanced Operating Systems,Donald Acton;Farid Molazem Tabrizi;Patrick Colp,73,71.054794521,15.989484749,93.0,3.0,6,,6,,11,7,7,12,9,10,
+UBCV,2015,W,CPSC,416,,201,Distributed Systems,Ivan Beschastnikh;Lynsey Ann Haynes;Patrick Colp,77,81.181818182,8.288748354,98.0,60.0,0,0,0,,,5,10,12,11,22,12
+UBCV,2016,W,CPSC,317,,101,Internet Computing,Donald Acton;Mohammad Amin Aghaee Rad;Nodir Kodirov;Patrick Colp,120,71.5,14.27697212,97.0,19.0,10,5,8,12,9,9,13,19,13,11,11

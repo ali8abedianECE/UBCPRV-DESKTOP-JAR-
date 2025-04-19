@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,VANT,148,,V03,VANT COL PROJECT,"Knijnik Baumvol, Laura",25,86.44,4.32,93,78,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,8,9,,,
+UBC,2018,W,VANT,148,,V04,VANT COL PROJECT,"Knijnik Baumvol, Laura",25,85.16,6.28,93,67,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,4,12,5,,,
+UBCV,2018,W,VANT,148,,V03,UBC Vantage College Projects,Caroline Chung-Hsuan Locher-Lo;Caroline Locher-Lo;Laura Knijnik Baumvol,25,86.44,4.321265247,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,8,9,,,
+UBCV,2018,W,VANT,148,,V04,UBC Vantage College Projects,Caroline Chung-Hsuan Locher-Lo;Caroline Locher-Lo;Fok-Shuen Leung;Laura Knijnik Baumvol,25,85.16,6.276145314,93.0,67.0,,,,,,,,,,,0,0,0,0,1,0,2,1,4,12,5,,,
+UBCV,2019,S,VANT,149,,V05,Multi-disciplinary Research Project,Laura Knijnik Baumvol,27,77.111111111,7.29769897,87.0,63.0,,,,,,,,,,,0,0,0,1,4,2,3,4,9,4,0,,,
+UBCV,2019,S,VANT,149,,V09,Multi-disciplinary Research Project,Laura Knijnik Baumvol,28,71.678571429,5.249716546,79.0,60.0,,,,,,,,,,,0,0,0,3,4,6,6,9,0,0,0,,,
+UBCV,2019,W,ASTU,204,A,V01,Topics in Interdisciplinary Arts Studies,Laura Knijnik Baumvol,22,66.818181818,8.426920375,80.0,52.0,,,,,,,,,,,0,2,2,4,5,3,1,4,1,0,0,,,
+UBCV,2019,W,ASTU,204,A,V09,Topics in Interdisciplinary Arts Studies,Laura Knijnik Baumvol,24,66.0,7.24718836,81.0,51.0,,,,,,,,,,,0,2,2,5,6,4,3,1,1,0,0,,,
+UBCV,2019,W,ASTU,204,A,V10,Topics in Interdisciplinary Arts Studies,Laura Knijnik Baumvol,25,61.16,15.638307666,88.0,21.0,,,,,,,,,,,3,4,4,2,3,4,2,0,1,2,0,,,
+UBCV,2019,W,WRDS,150,,V05,Writing and Research in the Disciplines,Laura Knijnik Baumvol,22,74.5,8.063734217,88.0,61.0,,,,,,,,,,,0,0,0,1,2,7,4,0,4,4,0,,,
+UBCV,2019,W,WRDS,150,,V06,Writing and Research in the Disciplines,Laura Knijnik Baumvol,25,76.08,9.219182899,90.0,60.0,,,,,,,,,,,0,0,0,4,1,2,6,1,6,4,1,,,
+UBCV,2019,W,WRDS,150,,V07,Writing and Research in the Disciplines,Laura Knijnik Baumvol,24,79.791666667,5.641300857,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,2,8,8,2,2,,,
+UBCV,2019,W,WRDS,150,,V10,Writing and Research in the Disciplines,Laura Knijnik Baumvol,24,67.708333333,8.878303631,89.0,51.0,,,,,,,,,,,0,2,0,6,3,5,4,3,0,1,0,,,
+UBCV,2020,S,VANT,149,,V05,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;Jennifer Gagnon;Laura Knijnik Baumvol;Tierney Nicole Wisniewski;Tierney Wisniewski,26,77.076923077,9.299131473,93.0,59.0,,,,,,,,,,,0,0,1,0,3,3,7,0,6,3,3,,,
+UBCV,2020,S,VANT,149,,V09,Multi-disciplinary Research Project,Cayley Burton;Cayley Nicole Burton;David Brownstein;Laura Knijnik Baumvol;Tierney Nicole Wisniewski;Tierney Wisniewski,16,76.3125,3.026962174,82.0,72.0,,,,,,,,,,,0,0,0,0,0,0,7,5,4,0,0,,,
+UBCV,2020,W,ASTU,204,A,V03,Topics in Interdisciplinary Arts Studies,Alyssa Cheung;Laura Knijnik Baumvol;Sean Mcalister,25,63.92,14.447952565,84.0,12.0,,,,,,,,,,,2,0,4,4,4,5,2,2,2,0,0,,,
+UBCV,2020,W,ASTU,204,A,V04,Topics in Interdisciplinary Arts Studies,Alyssa Cheung;Laura Knijnik Baumvol;Linda Morra,29,67.793103448,5.505706847,75.0,54.0,,,,,,,,,,,0,1,2,1,9,9,7,0,0,0,0,,,
+UBCV,2020,W,WRDS,150,B,621,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,28,73.464285714,8.266317837,85.0,56.0,,,,,,,,,,,0,0,2,2,2,4,5,5,7,1,0,,,
+UBCV,2020,W,WRDS,150,B,663,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,27,67.777777778,15.171667251,90.0,33.0,,,,,,,,,,,3,2,1,5,3,2,2,2,2,4,1,,,
+UBCV,2020,W,WRDS,150,B,845,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,27,68.037037037,10.584754935,90.0,34.0,,,,,,,,,,,1,0,3,5,3,6,6,1,0,0,2,,,
+UBCV,2020,W,WRDS,150,B,853,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,29,75.034482759,6.109025867,84.0,55.0,,,,,,,,,,,0,0,1,0,1,6,5,11,5,0,0,,,
+UBCV,2020,W,WRDS,150,B,883,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,21,66.285714286,18.308858122,91.0,14.0,,,,,,,,,,,2,2,0,1,1,6,4,2,2,0,1,,,
+UBCV,2021,S,WRDS,150,B,512,Writing and Research in the Disciplines,Kevin Chan;Laura Knijnik Baumvol,28,76.714285714,12.724596022,90.0,31.0,,,,,,,,,,,2,0,0,0,0,1,1,10,12,0,2,,,
+UBCV,2021,W,WRDS,150,B,621,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,29,69.931034483,6.823965303,80.0,53.0,,,,,,,,,,,0,1,1,4,3,8,4,6,2,0,0,,,
+UBCV,2021,W,WRDS,150,B,641,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,28,69.285714286,12.207639208,84.0,34.0,,,,,,,,,,,2,0,2,2,5,4,5,2,6,0,0,,,
+UBCV,2021,W,WRDS,150,B,651,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,24,75.0,5.702783455,87.0,62.0,,,,,,,,,,,0,0,0,2,0,2,9,7,2,2,0,,,
+UBCV,2021,W,WRDS,150,B,663,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,27,68.592592593,10.348761573,83.0,30.0,,,,,,,,,,,1,1,1,2,2,12,4,0,4,0,0,,,
+UBCV,2021,W,WRDS,150,B,813,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,25,74.48,7.439310004,85.0,63.0,,,,,,,,,,,0,0,0,1,6,2,4,6,3,3,0,,,
+UBCV,2021,W,WRDS,150,B,823,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,24,71.5,6.691980925,80.0,54.0,,,,,,,,,,,0,1,1,2,1,5,7,6,1,0,0,,,
+UBCV,2021,W,WRDS,150,B,844,Writing and Research in the Disciplines,Ainsley Oh;Laura Knijnik Baumvol,27,73.740740741,9.420079179,84.0,39.0,,,,,,,,,,,1,0,0,1,2,6,5,1,11,0,0,,,
+UBCV,2021,W,WRDS,150,B,621,Writing and Research in the Disciplines,Laura Knijnik Baumvol,29,69.9,,80.0,53.0,,,,,,,,,,,,,,,,8,,6,,,,70.0,76.0,67.0
+UBCV,2021,W,WRDS,150,B,651,Writing and Research in the Disciplines,Laura Knijnik Baumvol,24,75.0,,87.0,62.0,,,,,,,,,,,,,,,,,9,7,,,,75.0,77.3,72.0
+UBCV,2021,W,WRDS,150,B,663,Writing and Research in the Disciplines,Laura Knijnik Baumvol,27,68.6,,83.0,30.0,,,,,,,,,,,,,,,,12,,,,,,70.0,73.5,67.0
+UBCV,2021,W,WRDS,150,B,813,Writing and Research in the Disciplines,Laura Knijnik Baumvol,25,74.5,,85.0,63.0,,,,,,,,,,,,,,,6,,,6,,,,75.0,79.0,66.0
+UBCV,2021,W,WRDS,150,B,823,Writing and Research in the Disciplines,Laura Knijnik Baumvol,24,71.5,,80.0,54.0,,,,,,,,,,,,,,,,,7,6,,,,72.5,78.0,71.0
+UBCV,2021,W,WRDS,150,B,844,Writing and Research in the Disciplines,Laura Knijnik Baumvol,28,74.0,,84.0,39.0,,,,,,,,,,,,,,,,6,,,12,,,75.0,81.0,70.0
+UBCV,2022,S,WRDS,150,B,511,Writing and Research in the Disciplines,Laura Knijnik Baumvol,27,76.2,,89.0,62.0,,,,,,,,,,,0,0,0,1,1,1,6,13,4,1,0,76.0,78.0,75.0
+UBCV,2022,W,WRDS,150,B,602,Writing and Research in the Disciplines,Laura Knijnik Baumvol,28,73.3,,88.0,54.0,,,,,,,,,,,0,1,2,3,0,0,9,9,1,3,0,74.0,78.0,72.8
+UBCV,2022,W,WRDS,150,B,623,Writing and Research in the Disciplines,Laura Knijnik Baumvol,28,75.6,,87.0,60.0,,,,,,,,,,,0,0,0,4,0,0,8,6,9,1,0,76.5,81.0,74.5
+UBCV,2022,W,WRDS,150,B,633,Writing and Research in the Disciplines,Laura Knijnik Baumvol,29,73.0,,86.0,12.0,,,,,,,,,,,1,0,0,0,1,3,14,6,1,3,0,74.0,77.0,72.0
+UBCV,2022,W,WRDS,150,B,812,Writing and Research in the Disciplines,Laura Knijnik Baumvol,26,73.7,,88.0,38.0,,,,,,,,,,,1,2,0,2,1,2,3,7,4,4,0,77.0,83.0,71.0
+UBCV,2022,W,WRDS,150,B,822,Writing and Research in the Disciplines,Laura Knijnik Baumvol,29,79.1,,91.0,50.0,,,,,,,,,,,0,1,0,0,0,4,2,5,10,5,2,81.0,83.0,77.0
+UBCV,2022,W,WRDS,150,B,841,Writing and Research in the Disciplines,Laura Knijnik Baumvol,28,68.9,,89.0,0.0,,,,,,,,,,,3,1,1,1,0,4,2,3,9,4,0,78.5,82.0,69.0
+UBCV,2023,S,WRDS,150,B,501,Writing and Research in the Disciplines,Laura Knijnik Baumvol,28,79.3,,89.0,61.0,,,,,,,,,,,0,0,0,1,1,0,3,8,8,6,0,80.0,83.5,76.0
+UBCV,2023,S,WRDS,150,B,502,Writing and Research in the Disciplines,Laura Knijnik Baumvol,26,79.1,,92.0,66.0,,,,,,,,,,,0,0,0,0,1,6,3,4,5,3,4,79.0,86.3,71.5

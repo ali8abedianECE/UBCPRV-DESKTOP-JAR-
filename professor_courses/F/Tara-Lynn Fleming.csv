@@ -1,0 +1,68 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,ENGL,112,,03T,STRAT UNIV WRIT,"Fleming, Tara-Lynn",29,72.3,7.48,88,55,27,0,0,0,2,0,0,0,0,0,0,0,1,3,2,7,5,4,4,1,0
+UBC,2006,W,ENGL,112,,05R,STRAT UNIV WRIT,"Fleming, Tara-Lynn",30,71.93,9.44,88,47,28,1,0,0,1,0,0,0,0,1,1,0,1,2,3,9,4,2,4,3,0
+UBC,2006,W,ENGL,112,,07M,STRAT UNIV WRIT,"Fleming, Tara-Lynn",31,73.32,7.5,86,48,30,1,0,0,0,0,0,0,0,1,1,0,0,1,2,9,6,5,6,1,0
+UBC,2006,W,ENGL,112,,11C,STRAT UNIV WRIT,"Fleming, Tara-Lynn",33,74.1,7.35,90,47,30,1,2,0,0,0,0,0,0,1,1,0,0,0,3,7,7,7,5,0,1
+UBC,2007,W,ENGL,112,,10N,STRAT UNIV WRIT,"Fleming, Tara-Lynn",31,66.65,14.08,84,0,30,1,0,0,0,1,0,0,0,0,1,0,1,4,10,5,5,2,3,0,0
+UBC,2007,W,ENGL,112,,11C,STRAT UNIV WRIT,"Fleming, Tara-Lynn",33,72.35,7.76,88,57,31,0,0,0,2,0,0,0,0,0,0,0,2,3,3,7,5,6,3,2,0
+UBC,2007,W,ENGL,112,,11P,STRAT UNIV WRIT,"Fleming, Tara-Lynn",34,69.68,5.85,83,60,34,0,0,0,0,0,0,0,0,0,0,0,0,3,11,10,4,2,4,0,0
+UBC,2007,W,ENGL,112,,14C,STRAT UNIV WRIT,"Fleming, Tara-Lynn",34,72.52,6.89,88,61,33,0,0,0,1,0,0,0,0,0,0,0,0,2,7,9,5,4,4,2,0
+UBC,2007,W,ENGL,222,,009,LIT CANADA,"Fleming, Tara-Lynn",40,71.23,7.42,89,56,40,0,0,0,0,0,0,0,0,0,0,0,3,3,6,10,7,6,2,3,0
+UBC,2007,W,ENGL,466,D,003,STDY 20thC GENRE,"Fleming, Tara-Lynn",38,74.86,8.82,90,43,36,1,1,0,0,0,0,0,0,1,1,0,0,3,1,8,5,6,9,3,1
+UBC,2009,S,ENGL,112,,921,STRAT UNIV WRIT,"Fleming, Tara-Lynn",28,67.36,5.47,80,55,28,0,0,0,0,0,0,0,0,0,0,0,2,3,11,6,3,2,1,0,0
+UBC,2011,S,ENGL,112,,JN2,STRAT UNIV WRIT,"Fleming, Tara-Lynn",26,67.54,6.71,79,51,26,0,0,0,0,0,0,0,0,0,0,1,2,2,6,8,4,3,0,0,0
+UBC,2011,W,ENGL,112,,11B,STRAT UNIV WRIT,"Fleming, Tara-Lynn",35,66.43,13.31,82,0,34,1,0,0,0,1,0,0,0,0,1,1,1,4,14,3,4,4,3,0,0
+UBC,2011,W,ENGL,112,,12D,STRAT UNIV WRIT,"Fleming, Tara-Lynn",34,65,13.33,81,0,32,1,1,0,0,1,0,0,0,0,1,0,3,8,8,4,4,4,1,0,0
+UBC,2011,W,ENGL,112,,12N,STRAT UNIV WRIT,"Fleming, Tara-Lynn",35,66.8,6.35,85,54,35,0,0,0,0,0,0,0,0,0,0,1,4,4,9,10,5,1,0,1,0
+UBC,2014,W,ENGL,112,,12A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,69.52,7.41,83,45,32,1,1,0,0,0,0,0,0,1,1,0,0,2,12,5,6,3,4,0,0
+UBC,2014,W,ENGL,112,,12N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,69.52,6.35,83,53,33,0,0,0,0,0,0,0,0,0,0,1,0,3,8,9,9,0,3,0,0
+UBC,2014,W,ENGL,112,,14B,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,65.21,9.85,82,26,32,1,0,0,0,0,0,1,0,0,1,2,3,4,10,5,5,1,2,0,0
+UBC,2014,W,ENGL,112,,14M,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,66.41,11.9,83,11,32,2,0,0,0,0,1,0,0,1,2,0,2,4,6,9,8,2,1,0,0
+UBC,2015,S,ENGL,112,,MA2,UNIVRSTY WRITING,"Fleming, Tara-Lynn",36,68.42,6.38,80,53,36,0,0,0,0,0,0,0,0,0,0,1,1,8,3,12,5,4,2,0,0
+UBC,2015,W,ENGL,112,,13M,UNIVRSTY WRITING,"Fleming, Tara-Lynn",31,71.97,5.62,81,61,29,0,2,0,0,0,0,0,0,0,0,0,0,3,4,3,12,4,3,0,0
+UBC,2015,W,ENGL,112,,14N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",30,71.38,7.23,85,60,29,0,1,0,0,0,0,0,0,0,0,0,0,5,3,7,5,5,3,1,0
+UBC,2015,W,ENGL,112,,15A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",28,69.48,11.32,85,32,26,1,1,0,0,0,0,0,1,0,1,1,3,1,2,6,6,2,4,1,0
+UBC,2015,W,ENGL,112,,17A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",30,68.87,6.85,82,54,30,0,0,0,0,0,0,0,0,0,0,1,1,5,8,2,9,1,3,0,0
+UBC,2016,S,ENGL,112,,MA1,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,72,7.95,86,56,34,0,0,0,0,0,0,0,0,0,0,0,3,2,5,7,4,6,6,1,0
+UBC,2016,W,ENGL,112,,12B,UNIVRSTY WRITING,"Fleming, Tara-Lynn",32,71.25,6.55,88,48,31,1,0,0,0,0,0,0,0,1,1,0,1,0,2,12,9,5,1,1,0
+UBC,2016,W,ENGL,112,,12P,UNIVRSTY WRITING,"Fleming, Tara-Lynn",35,69.54,6.9,86,58,35,0,0,0,0,0,0,0,0,0,0,0,2,5,8,6,9,2,2,1,0
+UBC,2016,W,ENGL,112,,13A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,71.9,6.81,82,60,30,0,3,0,0,0,0,0,0,0,0,0,0,5,3,6,4,8,4,0,0
+UBC,2016,W,ENGL,112,,13N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,69.64,12.66,86,8,32,1,1,0,0,1,0,0,0,0,1,0,0,3,7,4,10,6,1,1,0
+UBC,2017,S,ENGL,112,,MA1,UNIVRSTY WRITING,"Fleming, Tara-Lynn",35,73.03,6.78,88,62,35,0,0,0,0,0,0,0,0,0,0,0,0,2,6,11,3,4,8,1,0
+UBC,2017,W,ENGL,112,,12A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,74.76,7.84,88,46,32,1,0,0,0,0,0,0,0,1,1,0,0,2,2,2,8,10,6,2,0
+UBC,2017,W,ENGL,112,,12N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,75.75,7.62,89,59,32,0,1,0,0,0,0,0,0,0,0,0,1,1,2,4,8,5,5,6,0
+UBC,2017,W,ENGL,112,,13A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,75.26,8.04,89,55,34,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,7,6,8,4,0
+UBC,2017,W,ENGL,112,,13P,UNIVRSTY WRITING,"Fleming, Tara-Lynn",31,72.84,12.28,86,17,30,1,0,0,0,0,1,0,0,0,1,0,1,1,2,3,8,9,4,2,0
+UBC,2017,W,ENGL,112,,15A,UNIVRSTY WRITING,"Fleming, Tara-Lynn",32,74.69,6.61,87,60,32,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,6,9,6,2,0
+UBC,2018,S,ENGL,112,,MA3,UNIVRSTY WRITING,"Fleming, Tara-Lynn",33,74.27,7.24,85,60,33,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,9,3,9,2,0
+UBC,2018,W,ENGL,112,,12D,UNIVRSTY WRITING,"Fleming, Tara-Lynn",34,74.76,5.55,87,65,33,0,0,0,1,0,0,0,0,0,0,0,0,0,3,5,10,9,4,2,0
+UBC,2018,W,ENGL,112,,12N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",35,73.83,8.18,84,50,35,0,0,0,0,0,0,0,0,0,0,2,0,0,4,3,10,6,10,0,0
+UBC,2018,W,ENGL,112,,13N,UNIVRSTY WRITING,"Fleming, Tara-Lynn",30,73.66,10.13,88,41,28,1,1,0,0,0,0,0,0,1,1,0,0,2,4,4,5,5,3,5,0
+UBC,2018,W,ENGL,112,,14B,UNIVRSTY WRITING,"Fleming, Tara-Lynn",35,74.17,6.62,88,60,35,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,7,8,5,2,0
+UBCV,2014,W,ENGL,112,,12A,Strategies for University Writing,Tara-Lynn Fleming,33,69.51515152,7.408277516,83.0,45.0,,,,,,,,,,,,,,,12,5,6,,,0,0
+UBCV,2014,W,ENGL,112,,12N,Strategies for University Writing,Tara-Lynn Fleming,33,69.51515152,6.349809112,83.0,53.0,,,,,,,,,,,0,,,,8,9,9,,,0,0
+UBCV,2014,W,ENGL,112,,14B,Strategies for University Writing,Tara-Lynn Fleming,33,65.21212121,9.851261264,82.0,26.0,,,,,,,,,,,,,,,10,5,5,,,0,0
+UBCV,2014,W,ENGL,112,,14M,Strategies for University Writing,Tara-Lynn Fleming,34,66.41176471,11.90395312,83.0,11.0,,,,,,,,,,,,,,,6,9,8,,,0,0
+UBCV,2015,S,ENGL,112,,MA2,Strategies for University Writing,Tara-Lynn Fleming,36,68.41666667,6.380214954,80.0,53.0,,,,,,,,,,,0,,,8,,12,5,,,0,0
+UBCV,2015,W,ENGL,112,,13M,Strategies for University Writing,Tara-Lynn Fleming,29,71.965517241,5.621913494,81.0,61.0,,,,,,,,,,,0,0,0,,,,12,,,0,0
+UBCV,2015,W,ENGL,112,,14N,Strategies for University Writing,Tara-Lynn Fleming,29,71.379310345,7.232929623,85.0,60.0,,,,,,,,,,,0,0,0,5,,7,5,5,,,0
+UBCV,2015,W,ENGL,112,,15A,Strategies for University Writing,Tara-Lynn Fleming,27,69.481481481,11.318366185,85.0,32.0,,,,,,,,,,,,,,,,6,6,,,,0
+UBCV,2015,W,ENGL,112,,17A,Strategies for University Writing,Tara-Lynn Fleming,30,68.866666667,6.846762806,82.0,54.0,,,,,,,,,,,0,,,5,8,,9,,,0,0
+UBCV,2016,S,ENGL,112,,MA1,Strategies for University Writing,Tara-Lynn Fleming,34,72.0,7.954415583,86.0,56.0,,,,,,,,,,,0,0,3,2,5,7,4,6,6,1,0
+UBCV,2016,W,ENGL,112,,12B,Strategies for University Writing,Tara-Lynn Fleming,32,71.25,6.550055405,88.0,48.0,,,,,,,,,,,1,0,1,0,2,12,9,5,1,1,0
+UBCV,2016,W,ENGL,112,,12P,Strategies for University Writing,Tara-Lynn Fleming,35,69.54285714,6.904145631,86.0,58.0,,,,,,,,,,,0,0,2,5,8,6,9,2,2,1,0
+UBCV,2016,W,ENGL,112,,13A,Strategies for University Writing,Tara-Lynn Fleming,30,71.9,6.809476156,82.0,60.0,,,,,,,,,,,0,0,0,5,3,6,4,8,4,0,0
+UBCV,2016,W,ENGL,112,,13N,Strategies for University Writing,Tara-Lynn Fleming,33,69.63636364,12.65607113,86.0,8.0,,,,,,,,,,,1,0,0,3,7,4,10,6,1,1,0
+UBCV,2017,S,ENGL,112,,MA1,Strategies for University Writing,Tara-Lynn Fleming,35,73.028571429,6.775760058,88.0,62.0,,,,,,,,,,,0,0,0,2,6,11,3,4,8,1,0
+UBCV,2017,W,ENGL,112,,12A,Strategies for University Writing,Tara-Lynn Fleming,33,74.757575758,7.842314323,88.0,46.0,,,,,,,,,,,1,0,0,2,2,2,8,10,6,2,0
+UBCV,2017,W,ENGL,112,,12N,Strategies for University Writing,Tara-Lynn Fleming,32,75.75,7.615773106,89.0,59.0,,,,,,,,,,,0,0,1,1,2,4,8,5,5,6,0
+UBCV,2017,W,ENGL,112,,13A,Strategies for University Writing,Tara-Lynn Fleming,34,75.264705882,8.042722378,89.0,55.0,,,,,,,,,,,0,0,1,2,3,3,7,6,8,4,0
+UBCV,2017,W,ENGL,112,,13P,Strategies for University Writing,Tara-Lynn Fleming,31,72.838709677,12.283041898,86.0,17.0,,,,,,,,,,,1,0,1,1,2,3,8,9,4,2,0
+UBCV,2017,W,ENGL,112,,15A,Strategies for University Writing,Tara-Lynn Fleming,32,74.6875,6.60614328,87.0,60.0,,,,,,,,,,,0,0,0,2,4,3,6,9,6,2,0
+UBCV,2018,S,ENGL,112,,MA3,Strategies for University Writing,Tara-Lynn Fleming,33,74.272727273,7.238234968,85.0,60.0,,,,,,,,,,,0,0,0,3,5,2,9,3,9,2,0
+UBCV,2018,W,ENGL,112,,12D,Strategies for University Writing,Tara-Lynn Fleming,34,74.029411765,6.92157494,87.0,50.0,,,,,,,,,,,0,1,0,0,3,5,10,9,4,2,0
+UBCV,2018,W,ENGL,112,,12N,Strategies for University Writing,Tara-Lynn Fleming,35,73.828571429,8.176313402,84.0,50.0,,,,,,,,,,,0,2,0,0,4,3,10,6,10,0,0
+UBCV,2018,W,ENGL,112,,13N,Strategies for University Writing,Tara-Lynn Fleming,29,74.310344828,8.405370087,88.0,60.0,,,,,,,,,,,0,0,0,3,4,4,5,5,3,5,0
+UBCV,2018,W,ENGL,112,,14B,Strategies for University Writing,Tara-Lynn Fleming,35,74.171428571,6.622091878,88.0,60.0,,,,,,,,,,,0,0,0,2,3,8,7,8,5,2,0
+UBCV,2019,S,ENGL,112,,MA1,Strategies for University Writing,Tara-Lynn Fleming,24,75.333333333,9.077763882,86.0,47.0,,,,,,,,,,,1,0,1,0,1,1,7,5,5,3,0
+UBCV,2020,W,ENGL,541,B,001,Studies in American Literature Since 1890,Jeffrey Severs;Tara-Lynn Fleming,9,87.888888889,1.763834207,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,3

@@ -1,0 +1,80 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",11,77.14,34.47,94,0,6,1,2,0,2,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5,,,
+UBC,2007,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",15,83.21,22.05,96,9,13,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,4,2,7,,,
+UBC,2009,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",7,73.33,37.09,95,0,5,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,3,,,
+UBC,2009,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",7,83.43,10.64,94,67,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,2,,,
+UBC,2010,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",9,78.89,30.23,98,0,8,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,2,3,,,
+UBC,2010,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",5,84,0,84,84,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,
+UBC,2011,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",4,79.5,8.66,90,69,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,,,
+UBC,2011,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",9,67.5,38.99,92,0,6,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,5,1,,,
+UBC,2012,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",8,73.29,33.08,96,0,6,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,1,2,,,
+UBC,2012,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2013,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",5,63.6,36.32,90,0,4,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,1,0,1,,,
+UBC,2013,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",7,76,8.29,85,66,4,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,,,
+UBC,2013,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",5,,,,,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",5,62.25,35.86,85,9,3,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,,,
+UBC,2014,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",4,62,42.02,89,0,3,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,,,
+UBC,2014,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",8,,,,,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",6,89.2,3.96,96,86,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,,,
+UBC,2015,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",10,66.4,32.83,96,0,8,2,0,0,0,1,0,1,0,0,2,0,1,1,0,0,1,0,0,2,3,,,
+UBC,2015,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",5,90,6.75,97,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBC,2016,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",9,75,33.87,98,0,7,2,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,0,1,2,4,,,
+UBC,2016,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",6,83,0,83,83,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,,
+UBC,2016,W,WOOD,465,,201,WOOD IND MANAG,"Gaston, Christopher",96,77.64,7.16,90,56,96,0,0,0,0,0,0,0,0,0,0,0,1,3,6,7,15,21,29,12,2,,,
+UBC,2017,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",5,65.67,49.08,95,9,2,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,,,
+UBC,2017,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",11,82.56,13.27,98,54,9,0,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,3,3,,,
+UBC,2017,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",9,89,8.19,96,80,3,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,,,
+UBC,2017,W,WOOD,465,,201,WOOD IND MANAG,"Gaston, Christopher",117,80.5,7.28,99,60,117,0,0,0,0,0,0,0,0,0,0,0,0,2,4,7,15,17,36,21,15,,,
+UBC,2018,S,FRST,319,,GIS,PRIN FRST ECON,"Gaston, Christopher",5,88,6.93,94,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,,,
+UBC,2018,S,WOOD,465,,921,WOOD IND MANAG,"Gaston, Christopher;Murcia, Maria",7,83.43,8.68,93,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,2,,,
+UBC,2018,W,FRST,319,,99A,PRIN FRST ECON,"Gaston, Christopher",13,77.36,26.63,90,0,10,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,2,5,2,,,
+UBC,2018,W,FRST,319,,99C,PRIN FRST ECON,"Gaston, Christopher",9,64,0,64,64,1,0,1,0,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
+UBC,2018,W,WOOD,465,,201,WOOD IND MANAG,"Gaston, Christopher;Gilani, Haris",111,80.95,6.57,94,60,111,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,9,13,45,25,8,,,
+UBCV,2015,S,FRST,319,,GIS,Principles of Forestry Economics,Christopher Gaston,6,75.83333333,32.93275978,96.0,9.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,10,66.4,32.830202896,96.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,9,75.0,33.87107911,98.0,0.0,,,,,,,,,,,2,0,0,0,0,0,0,0,1,2,4,,,
+UBCV,2016,W,WOOD,465,,201,Wood Industry Business Management,Christopher Gaston,96,77.63541667,7.155593751,90.0,56.0,,,,,,,,,,,0,0,1,3,6,7,15,21,29,12,2,,,
+UBCV,2017,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,9,82.555555556,13.267546035,98.0,54.0,,,,,,,,,,,0,1,0,0,0,1,0,0,1,3,3,,,
+UBCV,2017,W,WOOD,465,,201,Wood Industry Business Management,Christopher Gaston,117,80.504273504,7.276111044,99.0,60.0,,,,,,,,,,,0,0,0,2,4,7,15,17,36,21,15,,,
+UBCV,2018,S,WOOD,465,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia,7,83.428571429,8.676734079,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,0,2,2,,,
+UBCV,2018,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,13,79.384615385,24.904947506,96.0,0.0,,,,,,,,,,,1,0,0,0,1,0,0,0,2,6,3,,,
+UBCV,2018,W,WOOD,465,,201,Wood Industry Business Management,Christopher Gaston;Haris Gilani;Haris Rehman Gilani;Meike Christina Siegner;Meike Siegner;Vilbert Vabi Vamuloh;Yadira Corbet;Yadira Rosa Corbet,111,80.945945946,6.568295528,94.0,60.0,,,,,,,,,,,0,0,0,2,1,8,9,13,45,25,8,,,
+UBCV,2019,S,FRST,319,,GIS,Principles of Forestry Economics,Christopher Gaston,6,83.666666667,8.406346809,92.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,1,2,,,
+UBCV,2019,S,WOOD,465,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia;Yadira Corbet;Yadira Rosa Corbet,17,87.705882353,6.242642728,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,6,7,,,
+UBCV,2019,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,7,91.0,4.932882862,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,5,,,
+UBCV,2019,W,FRST,319,,99C,Principles of Forestry Economics,Christopher Gaston,7,88.714285714,6.074928963,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,3,,,
+UBCV,2019,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,20,87.45,4.98919886,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,10,7,,,
+UBCV,2019,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston;Haris Gilani;Haris Rehman Gilani,116,81.982758621,6.734702806,95.0,64.0,,,,,,,,,,,0,0,0,0,4,5,10,15,36,31,15,,,
+UBCV,2020,S,WOOD,365,,921,Wood Industry Business Management,Christopher Gaston,32,86.96875,8.660195837,99.0,67.0,,,,,,,,,,,0,0,0,0,1,2,1,2,3,7,16,,,
+UBCV,2020,W,FRST,319,,99A,Principles of Forestry Economics,Christopher Gaston,10,87.7,5.271516754,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,5,,,
+UBCV,2020,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;James Langston;Richard Barichello,13,87.461538462,4.175631382,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,5,,,
+UBCV,2020,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston;Qiyue Zhang;Sohrab Rahimi,53,81.169811321,8.359094193,92.0,34.0,,,,,,,,,,,1,0,0,0,1,2,2,3,28,14,2,,,
+UBCV,2020,W,WOOD,499,,201,Wood Products Capstone,Adinda Rizky Herdianti;Christopher Gaston;Farbod Moheb Khosravi;Robert Fuerst;Sahar Ahmadvand;Seyed Salar Ghotb;Taraneh Sowlati;Vincent Leung,55,79.454545455,7.438185217,93.0,60.0,,,,,,,,,,,0,0,0,2,3,3,4,10,19,10,4,,,
+UBCV,2021,S,FRST,319,,GIS,Principles of Forestry Economics,Christopher Gaston,8,75.625,29.563188983,92.0,7.0,,,,,,,,,,,1,0,0,1,0,0,0,0,1,0,5,,,
+UBCV,2021,S,WOOD,365,,921,Wood Industry Business Management,Christopher Gaston;Maria Murcia,55,84.727272727,9.358012106,99.0,60.0,,,,,,,,,,,0,0,0,2,1,1,6,6,6,13,20,,,
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Christopher Gaston;Gary Bull;James Langston;Richard Barichello,17,85.705882353,4.538236247,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,9,2,,,
+UBCV,2021,W,WOOD,365,,201,Wood Industry Business Management,Carolina Rodriguez;Christopher Gaston;Qing Qiu,77,81.233766234,8.276307503,98.0,64.0,,,,,,,,,,,0,0,0,0,5,6,8,13,17,16,12,,,
+UBCV,2021,S,FRST,319,,GIS,Principles of Forestry Economics,Christopher Gaston,8,75.6,,92.0,7.0,,,,,,,,,,,,,,,,,,,,,,90.0,90.3,78.3
+UBCV,2021,W,FRST,534,,201,Natural Resources Economics,Richard Barichello;Gary Bull;Christopher Gaston;James Langston,17,85.7,,95.0,79.0,,,,,,,,,,,,,,,,,,,,9,,86.0,87.0,82.0
+UBCV,2021,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston,77,81.2,,98.0,64.0,,,,,,,,,,,,,,,,6,8,13,17,16,12,81.0,88.0,76.0
+UBCV,2022,S,WOOD,365,,921,Wood Industry Business Management,Christopher Gaston,59,86.7,,100.0,50.0,,,,,,,,,,,0,2,1,0,2,2,3,3,6,7,33,91.0,94.5,83.0
+UBCV,2022,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston,45,81.0,,91.0,40.0,,,,,,,,,,,1,0,0,0,2,4,3,2,13,17,3,84.0,87.0,77.0
+UBCV,2022,W,WOOD,499,,201,Wood Products Capstone,Robert Fuerst;Christopher Gaston,10,76.8,,80.0,71.0,,,,,,,,,,,0,0,0,0,0,2,1,6,1,0,0,78.0,79.0,75.8
+UBCV,2022,W,WOOD,499,,202,Wood Products Capstone,Robert Fuerst;Christopher Gaston,8,77.3,,79.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,8,0,0,0,77.0,78.0,76.8
+UBCV,2022,W,WOOD,499,,203,Wood Products Capstone,Robert Fuerst;Christopher Gaston,8,79.4,,83.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,3,4,0,0,80.0,81.5,77.5
+UBCV,2022,W,WOOD,499,,204,Wood Products Capstone,Robert Fuerst;Christopher Gaston,8,82.8,,85.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,1,0,83.0,83.0,82.8
+UBCV,2022,W,WOOD,499,,205,Wood Products Capstone,Robert Fuerst;Christopher Gaston,8,82.4,,84.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,0,0,82.0,83.0,82.0
+UBCV,2022,W,WOOD,499,,206,Wood Products Capstone,Robert Fuerst;Christopher Gaston,7,82.0,,83.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,0,0,82.0,82.5,81.5
+UBCV,2022,W,WOOD,499,,207,Wood Products Capstone,Robert Fuerst;Christopher Gaston,8,78.4,,88.0,36.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,5,0,85.0,87.3,80.5
+UBCV,2022,W,WOOD,499,,208,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,72.0,,76.0,67.0,,,,,,,,,,,0,0,0,0,1,1,3,1,0,0,0,72.5,73.0,71.3
+UBCV,2023,S,WOOD,365,,921,Wood Industry Business Management,Christopher Gaston,52,83.71,,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,4,7,16,7,16,83.0,90.0,80.0
+UBCV,2023,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston,79,83.08,,97.0,68.0,,,,,,,,,,,0,0,0,0,0,3,10,7,26,20,13,83.0,86.0,79.0
+UBCV,2023,W,WOOD,499,,201,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,71.83,,80.0,65.0,,,,,,,,,,,0,0,0,0,1,2,2,0,1,0,0,72.0,73.75,68.75
+UBCV,2023,W,WOOD,499,,202,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,85.17,,88.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,5,0,86.0,87.0,85.0
+UBCV,2023,W,WOOD,499,,203,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,95.0,,96.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,95.0,95.0,95.0
+UBCV,2023,W,WOOD,499,,204,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,87.5,,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,2,87.0,90.25,86.0
+UBCV,2023,W,WOOD,499,,205,Wood Products Capstone,Robert Fuerst;Christopher Gaston,6,86.0,,87.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,0,86.0,86.75,86.0

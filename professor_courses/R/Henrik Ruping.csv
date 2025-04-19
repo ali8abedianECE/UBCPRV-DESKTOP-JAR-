@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MATH,184,,104,CALC SOCSCI COMM,"Ruping, Henrik",90,66.51,15.19,94,16,75,11,3,0,1,0,1,0,4,6,11,7,5,9,7,10,13,7,9,5,3
+UBC,2015,S,MATH,104,,921,DFF CALC AP C&SS,"Ruping, Henrik",106,64.68,16.54,98,25,86,12,6,0,2,0,0,3,3,6,12,13,11,9,10,9,9,8,4,5,8
+UBC,2015,W,MATH,184,,103,CALC SOCSCI COMM,"Ruping, Henrik",103,61.13,17.77,94,9,75,23,3,0,2,1,0,3,8,11,23,10,10,6,6,16,5,7,6,4,5
+UBC,2015,W,MATH,310,,201,ABSTR LINEAR ALG,"Ruping, Henrik",26,68.96,13.98,89,42,23,1,2,0,0,0,0,0,0,1,1,2,5,2,2,1,1,1,4,5,0
+UBCV,2014,W,MATH,184,,104,Differential Calculus for Social Science and Commerce,Henrik Ruping;Keqin Liu,87,65.97701149,15.89937619,94.0,16.0,,,,,,,,,,,12,7,5,9,7,10,13,7,9,5,3
+UBCV,2015,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Dong Li;Henrik Ruping,100,63.5,18.38120472,98.0,0.0,,,,,,,,,,,14,13,11,9,10,9,9,8,4,5,8
+UBCV,2015,W,MATH,184,,103,Differential Calculus for Social Science and Commerce,Henrik Ruping;Shawn Desaulniers,100,60.19,18.808817511,94.0,9.0,,,,,,,,,,,25,10,10,6,6,16,5,7,6,4,5
+UBCV,2015,W,MATH,310,,201,Abstract Linear Algebra,Henrik Ruping,24,68.958333333,13.976623859,89.0,42.0,,,,,,,,,,,,,5,,,,,,,5,0

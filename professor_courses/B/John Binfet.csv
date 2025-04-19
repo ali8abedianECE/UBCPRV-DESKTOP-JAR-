@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,CNPS,362,,002,BASIC INTVW SKLS,"Binfet, John",15,83.67,6.74,94,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,6,2,,,
+UBC,2005,W,CNPS,362,,008,BASIC INTVW SKLS,"Binfet, John",15,81.33,6.44,91,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,5,1,,,
+UBC,2009,W,EPSE,313,,202,EDUC APPL DEV TH,"Binfet, John;Faber, Shawna",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCO,2014,S,EPSE,565,A,001,Special Topics in Inclusive Education,John Binfet,7,73.85714286,32.72322606,91.0,0.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCO,2017,S,EDUC,500,,001,Research Methodology in Education Part I,Carol Scarff;John Binfet,13,84.615384615,3.452980875,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,8,0,,,
+UBCO,2017,S,EPSE,565,I,101,Special Topics in Inclusive Education,John Binfet,16,87.6875,2.301267767,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,4,,,
+UBCO,2018,S,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,10,85.0,3.018461713,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,1,,,
+UBCO,2019,S,EDUC,500,,001,Research Methodology in Education Part I,Jennifer Kelly;John Binfet;Stephen Berg,22,91.090909091,1.305996825,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,19,,,
+UBCO,2019,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,22,81.136363636,3.012599803,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,10,10,2,0,,,
+UBCO,2020,W,EDUC,500,,001,Research Methodology in Education Part I,Fabiano Camara;John Binfet;Kyle Hamilton;Kyle R. Hamilton,21,82.428571429,4.154171741,88.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,11,7,0,,,
+UBCO,2021,S,EPSE,565,J,001,Special Topics in Inclusive Education,John Binfet,12,83.416666667,2.274696117,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,3,0,,,
+UBCO,2021,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,12,81.416666667,5.91543948,87.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,1,4,5,0,,,
+UBCO,2021,S,EPSE,565,J,001,Special Topics in Inclusive Education,John Binfet,12,83.4,,88.0,80.0,,,,,,,,,,,,,,,,,,,9,,,83.5,84.3,81.8
+UBCO,2021,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,12,81.4,,87.0,67.0,,,,,,,,,,,,,,,,,,,,,,83.5,85.0,80.0
+UBCO,2022,S,EPSE,565,J,001,Special Topics in Inclusive Education,John Binfet,7,86.4,,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,2,85.0,88.0,85.0
+UBCO,2022,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,12,86.7,,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,3,85.5,89.3,83.8
+UBCO,2023,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,14,83.3,,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,5,0,83.0,85.0,82.3

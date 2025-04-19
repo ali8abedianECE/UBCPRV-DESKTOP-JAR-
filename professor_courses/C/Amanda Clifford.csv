@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MANU,378,,201,Engineering Materials II,Amanda Clifford;Chadwick Sinclair;Mohammadali Shahsavari,38,78.815789474,7.554684472,91.0,57.0,0,0,1,0,2,3,4,11,8,6,3,,,
+UBCV,2021,W,MANU,481,,202,Manufacturing Processes III,Amanda Clifford;Farshad Kazemi Astanjini;Mitchell Albert;Thomas Benjamin Britton;Yasmine Abdin,7,74.857142857,16.221678617,91.0,50.0,0,1,1,0,0,0,1,1,1,0,2,,,
+UBCV,2021,W,MANU,378,,201,Engineering Materials II,Amanda Clifford,38,78.8,,91.0,57.0,,,,,,,,11,8,6,,78.5,84.0,75.3
+UBCV,2021,W,MANU,481,,202,Manufacturing Processes III,Yasmine Abdin;Thomas Benjamin Britton;Amanda Clifford,7,74.9,,91.0,50.0,,,,,,,,,,,,79.0,87.0,65.0
+UBCV,2022,W,MANU,378,,201,Engineering Materials II,Amanda Clifford,45,78.2,,97.0,52.0,0,1,0,2,2,6,6,5,13,7,3,80.0,84.0,72.0
+UBCV,2022,W,MANU,400,B,101,Topics in Manufacturing Engineering,Amanda Clifford,10,74.7,,85.0,58.0,0,0,1,2,0,0,1,2,3,1,0,77.5,82.8,66.0

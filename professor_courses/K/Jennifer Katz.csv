@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,EPSE,303,,61A,TCH'G HGHLY ABLE,"Katz, Jennifer",15,87.73,4.96,95,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,6,,,
+UBC,2005,W,EPSE,317,,102,DEV&EX REG CLASS,"Holbrook, Cay;Katz, Jennifer",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2006,W,EPSE,317,,102,DEV&EX REG CLASS,"Katz, Jennifer",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,EPSE,317,,311,DEV&EX REG CLASS,"Katz, Jennifer;Porath, Marion",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,S,EPSE,512,,951,CRIT SPEC ED,"Katz, Jennifer",20,87,3.6,94,81,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9,5,,,
+UBC,2009,S,EPSE,512,,952,CRIT SPEC ED,"Katz, Jennifer",10,88.1,4.77,98,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,,,
+UBC,2016,S,EPSE,565,I,951,SP CRSE: SUBJ FL,"Katz, Jennifer",17,83.06,6.8,95,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,3,3,3,,,
+UBC,2016,W,EPSE,509,,074,ORG SPED SERVCES,"Katz, Jennifer",17,89.59,6.49,95,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,9,,,
+UBC,2017,S,EPSE,390,A,96B,SELECTED TOPICS,"Boehm, Trevor;Katz, Jennifer",24,81.55,5.94,87,70,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,10,0,,,
+UBC,2017,S,EPSE,390,C,96B,SELECTED TOPICS,"Boehm, Trevor;Katz, Jennifer",11,78.82,4.12,87,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,3,1,0,,,
+UBC,2017,S,EPSE,565,I,96B,SP CRSE: SUBJ FL,"Boehm, Trevor;Katz, Jennifer",24,81.55,5.94,87,70,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,10,0,,,
+UBC,2017,W,EPSE,565,I,074,SP CRSE: SUBJ FL,"Katz, Jennifer",10,83.7,5.81,95,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,1,,,
+UBC,2017,W,EPSE,565,T,075,SP CRSE: SUBJ FL,"Katz, Jennifer",16,93.13,5.05,98,87,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,,,
+UBCV,2016,S,EPSE,565,I,951,Special Course in Subject Matter Field,Jennifer Katz,17,83.05882353,6.795868122,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,7,3,3,3,,,
+UBCV,2016,W,EPSE,509,,074,Organization of Special Education Services,Jennifer Katz,17,89.58823529,6.490943918,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,4,9,,,
+UBCV,2017,S,EPSE,390,A,96B,Special Topics,Jennifer Katz;Trevor Boehm,22,81.545454545,5.941999605,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,5,2,4,10,0,,,
+UBCV,2017,S,EPSE,390,C,96B,Special Topics,Jennifer Katz;Trevor Boehm,11,78.818181818,4.118693526,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,4,3,1,0,,,
+UBCV,2017,S,EPSE,565,I,96B,Special Course in Subject Matter Field,Jennifer Katz;Trevor Boehm,22,81.545454545,5.941999605,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,5,2,4,10,0,,,
+UBCV,2017,W,EPSE,565,I,074,Special Course in Subject Matter Field,Jennifer Katz,10,83.7,5.812821078,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,1,4,1,,,
+UBCV,2017,W,EPSE,565,T,075,Special Course in Subject Matter Field,Jennifer Katz,15,93.133333333,5.054936296,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,10,,,
+UBCV,2018,W,EPSE,565,I,074,Special Course in Subject Matter Field,Jennifer Katz;Joann Anokwuru;Joann Ihuoma Anokwuru,9,92.111111111,0.78173596,93.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2018,W,EPSE,565,T,075,Special Course in Subject Matter Field,Jennifer Katz;Kathleen Champion;Mary Heikkila,12,94.166666667,3.12855858,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2020,S,EPSE,509,,951,Organization of Special Education Services,Douglas Matear;Jennifer Katz;Selma Hageleit,11,93.363636364,4.84298931,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8,,,
+UBCV,2020,W,EPSE,565,I,074,Special Course in Subject Matter Field,David Nicks;Jennifer Katz,13,85.307692308,8.004005408,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,2,3,4,,,
+UBCV,2021,S,EPSE,509,,951,Organization of Special Education Services,Jennifer Katz,8,94.25,3.105295017,98.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2021,W,EPSE,565,I,074,Special Course in Subject Matter Field,Jennifer Katz;Sarah Skinner,11,93.181818182,4.93595344,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8,,,
+UBCV,2021,S,EPSE,509,,951,Organization of Special Education Services,Jennifer Katz,8,94.3,,98.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,92.0,98.0,92.0
+UBCV,2021,W,EPSE,565,I,074,Special Course in Subject Matter Field,Jennifer Katz,11,93.2,,98.0,87.0,,,,,,,,,,,,,,,,,,,,,8,92.0,98.0,88.5
+UBCV,2022,S,EPSE,509,,951,Organization of Special Education Services,Jennifer Katz,13,90.1,,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,8,92.0,92.0,87.0
+UBCV,2022,W,EPSE,562,,074,Designing Inclusive Learning Communities: From Theory to Practice,Jennifer Katz,18,86.7,,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,0,4,4,7,87.0,95.0,82.0
+UBCV,2022,W,EPSE,563,,075,Inclusive Assessment and Programming for Students Requiring Targeted Supports,Jennifer Katz,15,86.6,,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,1,5,82.0,95.0,82.0

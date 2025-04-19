@@ -1,0 +1,166 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,CHEM,233,,122,Org Chem Biol Sc,"Stewart, Jaclyn;Wickenden, Jason",251,66.35,14.08,96,21,221,24,5,0,1,0,0,1,10,13,24,24,30,24,23,31,24,17,21,17,10,,,
+UBC,2013,S,CHEM,233,,921,Org Chem Biol Sc,"Wickenden, Jason",376,70.42,13.14,98,25,323,33,18,0,2,0,0,1,3,29,33,13,18,20,33,62,51,32,50,21,23,,,
+UBC,2013,W,CHEM,235,,L07,Org Chem Lab,"Wickenden, Jason;Zendrowski, Dana",4,79.25,1.89,82,78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,,,
+UBC,2014,S,CHEM,233,,921,Org Chem Biol Sc,"Wickenden, Jason",367,67.72,13.62,97,27,323,35,8,0,0,0,0,3,8,24,35,21,25,46,53,35,35,29,38,25,16,,,
+UBC,2014,S,CHEM,235,,921,Org Chem Lab,"Wickenden, Jason;Zendrowski, Dana",74,73.9,8,87,50,71,0,3,0,0,0,0,0,0,0,0,1,3,3,8,12,11,9,20,4,0,,,
+UBC,2014,S,CHEM,235,,922,Org Chem Lab,"Wickenden, Jason;Zendrowski, Dana",72,75.46,6.25,87,58,70,0,2,0,0,0,0,0,0,0,0,0,2,3,1,8,19,13,19,5,0,,,
+UBC,2015,S,CHEM,233,,921,Org Chem Biol Sc,"Wickenden, Jason",419,70.39,14.71,100,0,378,30,11,0,0,1,1,1,7,20,30,26,31,38,36,46,33,38,53,36,41,,,
+UBC,2015,S,CHEM,235,,921,Org Chem Lab,"Wickenden, Jason",71,75.64,7.09,91,59,70,0,1,0,0,0,0,0,0,0,0,0,2,3,4,9,9,20,19,3,1,,,
+UBC,2015,S,CHEM,235,,922,Org Chem Lab,"Wickenden, Jason",73,75.95,5.67,90,62,73,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,26,12,19,2,2,,,
+UBC,2015,W,CHEM,235,,L06,Org Chem Lab,"Wickenden, Jason;Zendrowski, Dana",5,78.4,5.55,83,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,0,,,
+UBC,2015,W,CHEM,245,,L06,ORG CHEM LAB,"Rogers, Christine;Wickenden, Jason",53,71.71,7.74,86,54,52,0,1,0,0,0,0,0,0,0,0,1,2,4,10,10,7,7,9,2,0,,,
+UBC,2015,W,CHEM,245,,L07,ORG CHEM LAB,"Rogers, Christine;Wickenden, Jason",51,71.92,5.97,84,57,51,0,0,0,0,0,0,0,0,0,0,0,2,2,8,10,15,6,8,0,0,,,
+UBC,2015,W,CHEM,245,,L08,ORG CHEM LAB,"Rogers, Christine;Wickenden, Jason",50,69.86,8.02,81,39,48,1,1,0,0,0,0,0,1,0,1,1,2,3,8,10,12,7,5,0,0,,,
+UBC,2015,W,CHEM,245,,L09,ORG CHEM LAB,"Rogers, Christine;Wickenden, Jason",44,70.75,6.58,86,54,44,0,0,0,0,0,0,0,0,0,0,1,2,4,4,13,11,6,2,1,0,,,
+UBC,2016,S,CHEM,233,,921,Org Chem Biol Sc,"Wickenden, Jason",371,69.69,13.94,97,27,334,30,7,0,0,0,0,1,7,22,30,25,31,30,28,33,41,37,60,28,21,,,
+UBC,2016,S,CHEM,235,,921,Org Chem Lab,"Wickenden, Jason",68,75.81,7.92,94,51,68,0,0,0,0,0,0,0,0,0,0,1,1,1,6,13,10,12,13,10,1,,,
+UBC,2016,S,CHEM,235,,922,Org Chem Lab,"Wickenden, Jason",56,74.89,5.93,86,60,55,0,1,0,0,0,0,0,0,0,0,0,0,3,2,10,15,11,12,2,0,,,
+UBC,2016,W,CHEM,245,,L06,ORG CHEM LAB,"Wickenden, Jason",56,75.13,6.22,87,57,55,0,1,0,0,0,0,0,0,0,0,0,1,1,5,6,12,14,14,2,0,,,
+UBC,2016,W,CHEM,245,,L07,ORG CHEM LAB,"Wickenden, Jason",58,74.8,5.07,86,62,56,0,2,0,0,0,0,0,0,0,0,0,0,1,3,10,18,11,11,2,0,,,
+UBC,2016,W,CHEM,245,,L08,ORG CHEM LAB,"Wickenden, Jason",44,73.67,7.32,86,54,43,0,1,0,0,0,0,0,0,0,0,1,1,2,5,2,11,8,12,1,0,,,
+UBC,2016,W,CHEM,245,,L09,ORG CHEM LAB,"Wickenden, Jason",58,73.36,5.04,83,58,58,0,0,0,0,0,0,0,0,0,0,0,1,1,4,18,13,13,8,0,0,,,
+UBC,2017,S,CHEM,233,,921,Org Chem Biol Sc,"Wickenden, Jason",386,67.33,13.55,94,10,349,33,4,0,0,0,1,1,8,23,33,27,46,36,43,42,33,30,61,16,15,,,
+UBC,2017,W,CHEM,123,,203,THM KIN ORG CHEM,"Chou, Keng Chang;Lindenberg, Erin;Wickenden, Jason",211,67.65,13.19,97,33,190,20,1,0,0,0,0,0,2,18,20,13,21,25,18,30,26,16,17,10,14,,,
+UBC,2017,W,CHEM,123,,210,THM KIN ORG CHEM,"Chou, Keng Chang;Lindenberg, Erin;Wickenden, Jason",222,72.9,13.52,97,41,203,17,1,0,1,0,0,0,0,17,17,7,14,12,15,27,26,20,36,18,28,,,
+UBC,2017,W,CHEM,245,,L06,ORG CHEM LAB,"Wickenden, Jason",42,69.45,7.98,80,43,41,1,0,0,0,0,0,0,0,1,1,2,1,4,5,7,12,9,1,0,0,,,
+UBC,2017,W,CHEM,245,,L07,ORG CHEM LAB,"Wickenden, Jason",51,71.66,5.69,83,58,50,0,1,0,0,0,0,0,0,0,0,0,1,1,11,12,12,7,6,0,0,,,
+UBC,2017,W,CHEM,245,,L08,ORG CHEM LAB,"Wickenden, Jason",41,69.6,9.27,86,37,39,1,1,0,0,0,0,0,1,0,1,2,1,4,7,5,8,9,2,1,0,,,
+UBC,2017,W,CHEM,245,,L09,ORG CHEM LAB,"Wickenden, Jason",57,72.75,6.81,84,55,57,0,0,0,0,0,0,0,0,0,0,0,2,2,11,9,11,9,13,0,0,,,
+UBC,2017,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea;Wickenden, Jason",18,74.56,5.63,86,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,6,2,1,0,,,
+UBC,2017,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin;Wickenden, Jason",17,73.76,7.01,84,57,17,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,6,4,3,0,0,,,
+UBC,2017,W,CHEM,445,B,RLE,PROJCTS EXP CHEM,"Wickenden, Jason",4,87,2.94,90,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,,,
+UBC,2017,W,CHEM,445,C,RLE,PROJCTS EXP CHEM,"Wickenden, Jason",13,86.15,4.79,94,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,5,,,
+UBC,2018,W,CHEM,233,,103,Org Chem Biol Sc,"Wickenden, Jason",218,71.36,13.76,100,33,201,7,7,0,3,0,0,0,2,5,7,19,13,30,16,15,23,15,27,19,24,,,
+UBC,2018,W,CHEM,245,,L06,ORG CHEM LAB,"Wickenden, Jason",44,72.52,8.7,87,50,44,0,0,0,0,0,0,0,0,0,0,1,1,6,4,9,6,6,7,4,0,,,
+UBC,2018,W,CHEM,245,,L07,ORG CHEM LAB,"Wickenden, Jason",60,73.67,10.18,90,39,58,2,0,0,0,0,0,0,1,1,2,0,1,5,5,4,21,4,9,6,3,,,
+UBC,2018,W,CHEM,245,,L08,ORG CHEM LAB,"Wickenden, Jason",47,71.13,6.99,86,57,47,0,0,0,0,0,0,0,0,0,0,0,2,3,10,11,9,5,6,1,0,,,
+UBC,2018,W,CHEM,245,,L09,ORG CHEM LAB,"Wickenden, Jason",56,73.91,7.32,88,60,55,0,0,0,1,0,0,0,0,0,0,0,0,4,8,11,7,8,14,3,0,,,
+UBC,2018,W,CHEM,445,A,RLE,PROJCTS EXP CHEM,"Wickenden, Jason",7,81.14,5.76,91,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,1,,,
+UBC,2018,W,CHEM,445,B,RLE,PROJCTS EXP CHEM,"Wickenden, Jason",10,82.5,7.52,90,64,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,3,1,,,
+UBC,2018,W,CHEM,445,C,RLE,PROJCTS EXP CHEM,"Wickenden, Jason",15,86.47,5.59,93,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,6,,,
+UBCV,2014,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jason Wickenden,359,67.6908078,13.60769989,97.0,27.0,,,,,,,,,,,35,21,26,46,53,35,35,29,38,25,16,,,
+UBCV,2014,S,CHEM,235,,921,Organic Chemistry Laboratory,Dana Zendrowski;Jason Wickenden,71,73.90140845,8.002062108,87.0,50.0,,,,,,,,,,,0,1,,,8,12,11,9,20,4,0,,,
+UBCV,2014,S,CHEM,235,,922,Organic Chemistry Laboratory,Dana Zendrowski;Jason Wickenden,70,75.45714286,6.247749077,87.0,58.0,,,,,,,,,,,0,0,,,1,8,19,13,19,5,0,,,
+UBCV,2015,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jason Wickenden,408,70.3872549,14.7117107,100.0,0.0,,,,,,,,,,,30,26,31,38,36,46,33,38,53,36,41,,,
+UBCV,2015,S,CHEM,235,,921,Organic Chemistry Laboratory,Jason Wickenden,70,75.64285714,7.087518554,91.0,59.0,,,,,,,,,,,0,0,,,,9,9,20,19,,,,,
+UBCV,2015,S,CHEM,235,,922,Organic Chemistry Laboratory,Jason Wickenden,73,75.94520548,5.668848626,90.0,62.0,,,,,,,,,,,0,0,0,,,8,26,12,19,,,,,
+UBCV,2015,W,CHEM,235,,L06,Organic Chemistry Laboratory,Dana Zendrowski;Jason Wickenden,5,78.4,5.54977477,83.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,1,2,0,0,,,
+UBCV,2015,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Alla Pryyma;Christine Rogers;Jason Wickenden;Nicholas Hein;Omar Sadek;Peter Edwards;Phillip Daniel Ivad;Rosanne Persaud;Veronica Carta;Wei Ling Chiu;Wei Zhang;Xiaohua Zhang,52,71.711538462,7.736687588,86.0,54.0,,,,,,,,,,,0,,,,10,10,7,7,9,,0,,,
+UBCV,2015,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Christine Rogers;Jason Wickenden,51,71.921568627,5.96939909,84.0,57.0,,,,,,,,,,,0,0,,,8,10,15,6,8,0,0,,,
+UBCV,2015,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Christine Rogers;Jason Wickenden,49,69.857142857,8.020806277,81.0,39.0,,,,,,,,,,,,,,,8,10,12,7,5,0,0,,,
+UBCV,2015,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Christine Rogers;Jason Wickenden,44,70.75,6.577357213,86.0,54.0,,,,,,,,,,,0,,,,4,13,11,6,2,,0,,,
+UBCV,2016,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jason Wickenden,364,69.69230769,13.93506571,97.0,27.0,,,,,,,,,,,30,25,31,30,28,33,41,37,60,28,21,,,
+UBCV,2016,S,CHEM,235,,921,Organic Chemistry Laboratory,Jason Wickenden,68,75.80882353,7.917970027,94.0,51.0,,,,,,,,,,,0,1,1,1,6,13,10,12,13,10,1,,,
+UBCV,2016,S,CHEM,235,,922,Organic Chemistry Laboratory,Jason Wickenden,55,74.89090909,5.933809991,86.0,60.0,,,,,,,,,,,0,0,0,3,2,10,15,11,12,2,0,,,
+UBCV,2016,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Diana Yu;Jason Wickenden,55,75.12727273,6.218415141,87.0,57.0,,,,,,,,,,,0,0,1,1,5,6,12,14,14,2,0,,,
+UBCV,2016,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,56,74.80357143,5.068331778,86.0,62.0,,,,,,,,,,,0,0,0,1,3,10,18,11,11,2,0,,,
+UBCV,2016,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,43,73.67441861,7.324846594,86.0,54.0,,,,,,,,,,,0,1,1,2,5,2,11,8,12,1,0,,,
+UBCV,2016,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,58,73.36206897,5.035656287,83.0,58.0,,,,,,,,,,,0,0,1,1,4,18,13,13,8,0,0,,,
+UBCV,2017,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Jason Wickenden,382,67.327225131,13.549568458,94.0,10.0,,,,,,,,,,,33,27,46,36,43,42,33,30,61,16,15,,,
+UBCV,2017,W,CHEM,123,,203,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Wickenden;Keng Chang Chou,210,67.652380952,13.194827138,97.0,33.0,,,,,,,,,,,20,13,21,25,18,30,26,16,17,10,14,,,
+UBCV,2017,W,CHEM,123,,210,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Wickenden;Keng Chang Chou,221,72.701357466,13.820980361,97.0,28.0,,,,,,,,,,,18,7,14,12,15,27,26,20,36,18,28,,,
+UBCV,2017,W,CHEM,213,,201,Organic Chemistry,Glenn Sammis;Jason Wickenden;Jia Yi Mo,220,69.436363636,15.488117273,98.0,10.0,,,,,,,,,,,21,11,20,20,18,22,25,25,19,20,19,,,
+UBCV,2017,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,42,69.452380952,7.979248638,80.0,43.0,,,,,,,,,,,1,2,1,4,5,7,12,9,1,0,0,,,
+UBCV,2017,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,50,71.66,5.691418531,83.0,58.0,,,,,,,,,,,0,0,1,1,11,12,12,7,6,0,0,,,
+UBCV,2017,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,40,69.6,9.267533625,86.0,37.0,,,,,,,,,,,1,2,1,4,7,5,8,9,2,1,0,,,
+UBCV,2017,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,57,72.754385965,6.80672121,84.0,55.0,,,,,,,,,,,0,0,2,2,11,9,11,9,13,0,0,,,
+UBCV,2017,W,CHEM,445,A,135,Projects in Experimental Chemistry,Andrea Terpstra;Guillaume Bussiere;Jason Wickenden;Jia Yi Mo;Montserrat Rueda Becerril;Tirthaprasad Chattaraj,18,74.555555556,5.627895043,86.0,64.0,,,,,,,,,,,0,0,0,0,3,2,4,6,2,1,0,,,
+UBCV,2017,W,CHEM,445,B,235,Projects in Experimental Chemistry,Chatura Dharshan Goonesinghe;Chatura Goonesinghe;Guillaume Bussiere;Hyuk Joon Jung;Jason Brandt;Jason Wickenden;Maxim Epifanov;Montserrat Rueda Becerril;Robin Stoodley;Sophia Nussbaum,17,73.764705882,7.013642169,84.0,57.0,,,,,,,,,,,0,0,1,1,0,2,6,4,3,0,0,,,
+UBCV,2017,W,CHEM,445,C,RLE,Projects in Experimental Chemistry,Jason Wickenden,13,86.153846154,4.793157516,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,3,5,,,
+UBCV,2018,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,211,70.582938389,15.114373257,100.0,12.0,,,,,,,,,,,10,19,13,30,16,15,23,15,27,19,24,,,
+UBCV,2018,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Chia-Wei Lee;Condurache Vacariu;Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid;Zaile Zhuang,219,69.479452055,16.37051746,97.0,1.0,,,,,,,,,,,20,13,18,22,21,19,21,18,25,15,27,,,
+UBCV,2018,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,203,75.39408867,13.332100936,100.0,16.0,,,,,,,,,,,5,8,4,14,20,20,25,18,34,22,33,,,
+UBCV,2018,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan;Marco Ciufolini;Stephen Withers;Walid Abdelmagid,199,67.43718593,16.154394721,96.0,3.0,,,,,,,,,,,18,16,18,23,17,22,21,14,26,8,16,,,
+UBCV,2018,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Chia-Wei Lee;Condurache Vacariu;Jason Wickenden;Katherine Ryan;Mailam Dinh;Mailam Thi Dinh;Marco Ciufolini;Stephen Withers;Walid Abdelmagid;Zaile Zhuang,213,75.807511737,12.094967763,100.0,37.0,,,,,,,,,,,5,7,8,17,8,23,23,24,40,28,30,,,
+UBCV,2018,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Alyssa Henderson;Benjamin Yeremy;Jason Wickenden;Jeffrey Suen;Jerome Lozada;Lily Southcott;Luke Wharton;Phillip Daniel Ivad;Seyed Nasseri;Taniya Adak;Yue Shen,44,72.522727273,8.703083218,87.0,50.0,,,,,,,,,,,0,1,1,6,4,9,6,6,7,4,0,,,
+UBCV,2018,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,60,73.666666667,10.177520371,90.0,39.0,,,,,,,,,,,2,0,1,5,5,4,21,4,9,6,3,,,
+UBCV,2018,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,47,71.127659574,6.992595529,86.0,57.0,,,,,,,,,,,0,0,2,3,10,11,9,5,6,1,0,,,
+UBCV,2018,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,56,72.785714286,11.105632127,88.0,11.0,,,,,,,,,,,1,0,0,4,8,11,7,8,14,3,0,,,
+UBCV,2018,W,CHEM,445,A,RLE,Projects in Experimental Chemistry,Jason Wickenden,7,81.142857143,5.756983337,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,3,1,1,,,
+UBCV,2018,W,CHEM,445,B,235,Projects in Experimental Chemistry,Andy Tran;Carlos Diaz Lopez;Eric Bowes;Guillaume Bussiere;Hyuk Joon Jung;Jason Wickenden;Jefferey Jang;Kevin Kovalchik;Montserrat Rueda Becerril;Robin Stoodley;Samuel Griffin;Vishakha Monga;Weiying He;Yiling Dai;Zeyu Han,15,71.6,7.42389963,83.0,59.0,,,,,,,,,,,0,0,1,1,3,3,2,3,2,0,0,,,
+UBCV,2018,W,CHEM,445,B,RLE,Projects in Experimental Chemistry,Jason Wickenden,10,82.5,7.516648189,90.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,5,3,1,,,
+UBCV,2018,W,CHEM,445,C,RLE,Projects in Experimental Chemistry,Jason Wickenden,15,86.466666667,5.591660457,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,4,6,,,
+UBCV,2019,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Jason Wickenden;John Sherman,190,69.268421053,11.982198111,93.0,32.0,,,,,,,,,,,10,8,22,17,18,36,12,24,26,9,8,,,
+UBCV,2019,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Jason Wickenden;John Sherman,185,65.243243243,15.3329097,95.0,0.0,,,,,,,,,,,24,11,21,22,17,24,19,11,18,12,6,,,
+UBCV,2019,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Alyssa Henderson;Cameron Zheng;Cheyenne Christopherson;Christopher Voth;Jason Wickenden;Jia Yi Mo;Seyed Nasseri,242,80.17768595,11.93818093,98.0,19.0,,,,,,,,,,,3,5,7,13,5,18,20,18,45,53,55,,,
+UBCV,2019,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jason Hein;Jason Wickenden,217,68.534562212,12.933589413,100.0,0.0,,,,,,,,,,,15,17,15,22,25,32,27,14,32,11,7,,,
+UBCV,2019,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jason Wickenden;Katherine Ryan,233,72.74248927,12.58155282,96.0,20.0,,,,,,,,,,,9,6,14,25,20,29,26,24,38,26,16,,,
+UBCV,2019,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Abigail Thompson;Benjamin Yeremy;Chia-Wei Lee;Condurache Vacariu;Jason Wickenden;Jerome Lozada;Lily Southcott;Luke Wharton;Madeleine Deem;Phillip Daniel Ivad,45,81.222222222,7.449493237,91.0,52.0,,,,,,,,,,,0,1,0,0,1,1,3,7,11,17,4,,,
+UBCV,2019,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,50,82.24,6.215714122,92.0,62.0,,,,,,,,,,,0,0,0,1,0,2,5,3,13,23,3,,,
+UBCV,2019,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,35,81.6,5.966573556,91.0,69.0,,,,,,,,,,,0,0,0,0,0,2,4,4,11,10,4,,,
+UBCV,2019,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,54,82.222222222,6.968031223,90.0,55.0,,,,,,,,,,,0,0,1,1,0,3,2,5,13,26,3,,,
+UBCV,2019,W,CHEM,445,A,RLE,Projects in Experimental Chemistry,Guillaume Bussiere;Jason Wickenden,6,82.5,6.655824517,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,0,2,,,
+UBCV,2019,W,CHEM,445,B,RLE,Projects in Experimental Chemistry,Guillaume Bussiere;Jason Wickenden,10,78.3,12.463725143,92.0,56.0,,,,,,,,,,,0,0,1,1,0,1,0,1,1,3,2,,,
+UBCV,2019,W,CHEM,445,C,RLE,Projects in Experimental Chemistry,Guillaume Bussiere;Jason Wickenden,15,87.533333333,3.961721607,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,6,,,
+UBCV,2020,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Jan Gustowski;Jason Wickenden;Leo Liu;Lily Southcott;Tamara Freeman;Tamara Kunz;Trevor Bolduc;Vani Verma,424,70.962264151,16.438250112,100.0,0.0,,,,,,,,,,,29,28,34,29,28,53,40,31,69,23,60,,,
+UBCV,2020,W,CHEM,225,,A06,Introductory Synthetic Chemical Laboratory,Arvind Soni;Condurache Vacariu;Dmytro Voskoboinyk;Jason Wickenden;Jose Rodriguez Nunez;Junliang Liu;Kaeden Teindl;Phillip Daniel Ivad;Wen Xuan Lin;Yusuke Sato;Zaile Zhuang,16,79.875,4.787135539,88.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,4,8,2,0,,,
+UBCV,2020,W,CHEM,225,,A07,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,25,80.68,4.723346271,88.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,6,14,3,0,,,
+UBCV,2020,W,CHEM,225,,A08,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,6,83.833333333,3.188521078,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,0,,,
+UBCV,2020,W,CHEM,225,,A09,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,26,78.923076923,6.052590037,88.0,69.0,,,,,,,,,,,0,0,0,0,0,3,6,2,9,6,0,,,
+UBCV,2020,W,CHEM,225,,B06,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,13,81.923076923,5.073814122,87.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,6,5,0,,,
+UBCV,2020,W,CHEM,225,,B07,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,25,80.64,8.390868052,93.0,51.0,,,,,,,,,,,0,1,0,1,0,0,0,4,13,5,1,,,
+UBCV,2020,W,CHEM,225,,B08,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,13,80.230769231,8.795395066,90.0,58.0,,,,,,,,,,,0,0,1,0,0,0,1,3,3,3,2,,,
+UBCV,2020,W,CHEM,225,,B09,Introductory Synthetic Chemical Laboratory,Jason Wickenden;Jose Rodriguez Nunez,11,78.818181818,6.750084175,90.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,2,5,1,1,,,
+UBCV,2020,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Alexander Clark;Brodie Thomson;Duane Hean;Hossein Yazdani Ahmadabadi;Jason Wickenden;John Sherman;Leo Liu;Mailam Dinh;Mostafa Hagar;Phillip Daniel Ivad;Taniya Adak;Zeyu Han,213,73.319248826,12.469262412,98.0,34.0,,,,,,,,,,,8,4,14,18,19,25,25,24,31,20,25,,,
+UBCV,2020,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Alexander Clark;Hossein Yazdani Ahmadabadi;Jason Wickenden;Leo Liu;Mostafa Hagar;Phillip Daniel Ivad;Taniya Adak,287,79.81533101,11.930628818,100.0,42.0,,,,,,,,,,,8,5,11,6,11,9,23,31,60,53,70,,,
+UBCV,2020,W,CHEM,233,,161,Organic Chemistry for the Biological Sciences,Alexander Clark;Hossein Yazdani Ahmadabadi;Jason Wickenden;John Sherman;Leo Liu;Mostafa Hagar;Phillip Daniel Ivad;Taniya Adak,202,64.811881188,15.209131109,96.0,2.0,,,,,,,,,,,30,11,24,22,19,24,24,12,16,10,10,,,
+UBCV,2020,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Alexander Clark;Hossein Yazdani Ahmadabadi;Jason Wickenden;Katherine Ryan;Leo Liu;Marco Ciufolini;Mostafa Hagar;Phillip Daniel Ivad;Taniya Adak,247,67.587044534,15.135415656,97.0,15.0,,,,,,,,,,,37,8,23,17,19,33,26,28,20,16,20,,,
+UBCV,2021,S,CHEM,225,,Y1A,Introductory Synthetic Chemical Laboratory,Danial Yazdan;Jason Wickenden;Jerome Lozada;Kimia Hosseini;Kimiasadat Hosseini;Luis Gabriel Alde;Phillip Daniel Ivad;Wen Xuan Lin,11,75.545454545,8.406707279,87.0,61.0,,,,,,,,,,,0,0,0,1,1,2,0,1,5,1,0,,,
+UBCV,2021,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jason Wickenden;Julia Shu;Kalindi Morgan;Olga Yunyaeva,318,71.506289308,15.29102409,98.0,8.0,,,,,,,,,,,20,17,27,29,32,35,26,25,28,40,39,,,
+UBCV,2021,S,CHEM,245,,L02,Intermediate Synthetic Chemistry Laboratory,Benedikt Golisch;Cameron Zheng;Danial Yazdan;Helen Banh;Jason Wickenden;Jeffrey Suen;Kaeden Teindl;Kimiasadat Hosseini;Luis Gabriel Alde;Pengfei Xu;Yutao Kuang;Zaile Zhuang,29,84.827586207,3.81789925,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,14,8,6,,,
+UBCV,2021,S,CHEM,245,,L03,Intermediate Synthetic Chemistry Laboratory,Danial Yazdan;Jason Wickenden;Jeffrey Suen;Luis Gabriel Alde;Pengfei Xu;Zaile Zhuang,25,84.32,3.902136167,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,10,11,2,,,
+UBCV,2021,S,CHEM,245,,L04,Intermediate Synthetic Chemistry Laboratory,Brooke Parry;Gurpriya Bhangoo;Helen Banh;Jason Wickenden;Kaeden Teindl;Kimia Hosseini;Kimiasadat Hosseini,23,80.608695652,5.702783455,91.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,7,8,5,1,,,
+UBCV,2021,S,CHEM,245,,L05,Intermediate Synthetic Chemistry Laboratory,Brooke Parry;Cameron Zheng;Danial Yazdan;Jason Wickenden;Kaeden Teindl;Yutao Kuang,22,80.681818182,4.902733578,90.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,5,11,3,1,,,
+UBCV,2021,W,CHEM,123,,299,"Thermodynamics, Kinetics and Organic Chemistry",Dan Bizzotto;Erin Lindenberg;Jason Wickenden;Laura Stirchak;Nigare Raheem,190,72.547368421,13.937326398,95.0,14.0,,,,,,,,,,,12,2,9,15,15,22,23,20,36,21,15,,,
+UBCV,2021,W,CHEM,225,,L06,Introductory Synthetic Chemical Laboratory,Benjamin Yeremy;Isaac Seo;Jacob Jessiman;Jason Wickenden;Mckenzie Madden;Wen Xuan Lin,12,72.916666667,7.089792064,86.0,60.0,,,,,,,,,,,0,0,0,1,2,2,3,2,1,1,0,,,
+UBCV,2021,W,CHEM,225,,L07,Introductory Synthetic Chemical Laboratory,Benjamin Yeremy;Isaac Seo;Jacob Jessiman;Jason Wickenden;Maxwell Thompson;Wen Xuan Lin,8,75.625,9.148575221,85.0,60.0,,,,,,,,,,,0,0,0,1,1,0,1,1,3,1,0,,,
+UBCV,2021,W,CHEM,225,,L08,Introductory Synthetic Chemical Laboratory,Dmytro Voskoboinyk;Isaac Seo;Jason Wickenden;Phillip Daniel Ivad;Rida Farhat;Zaile Zhuang,6,75.833333333,8.084965471,85.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,1,1,0,,,
+UBCV,2021,W,CHEM,225,,L09,Introductory Synthetic Chemical Laboratory,Dmytro Voskoboinyk;Isaac Seo;Jason Wickenden;Phillip Daniel Ivad;Rida Farhat;Zaile Zhuang,8,77.5,6.32455532,84.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,3,3,0,0,,,
+UBCV,2021,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Alexander Clark;Jason Wickenden;John Sherman;Katherine Ryan,221,66.126696833,16.989629523,100.0,24.0,,,,,,,,,,,31,23,12,28,14,22,20,15,28,8,20,,,
+UBCV,2021,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Jason Wickenden;John Sherman;Taniya Adak,233,63.330472103,17.486146444,100.0,11.0,,,,,,,,,,,39,26,20,24,17,21,33,9,21,10,13,,,
+UBCV,2021,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Cameron Zheng;Jason Wickenden,258,74.468992248,17.983807236,100.0,16.0,,,,,,,,,,,21,16,12,16,10,17,20,17,39,29,61,,,
+UBCV,2021,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jason Wickenden;Marco Ciufolini;Mia Stankovic;Nigare Raheem,218,63.105504587,18.051714421,100.0,0.0,,,,,,,,,,,34,34,17,28,14,16,16,11,18,13,17,,,
+UBCV,2021,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jason Wickenden;Leo Liu;Marco Ciufolini;Nigare Raheem,243,69.263374486,17.572887648,100.0,11.0,,,,,,,,,,,29,20,11,15,13,28,32,19,30,15,31,,,
+UBCV,2021,W,CHEM,235,,L12,Organic Chemistry Laboratory,Andrea Terpstra;Aubry Williams;Hossein Yazdani Ahmadabadi;Jason Wickenden;Jerome Lozada;Justin Chang;Kaeden Teindl;Katherine Bessai;Natalia Clermont;Raksha Kandel;Tian Zhang;Yun-Wen Mao,84,80.916666667,8.057337199,93.0,48.0,,,,,,,,,,,1,0,0,1,1,7,10,8,18,29,9,,,
+UBCV,2021,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Benjamin Yeremy;Dmytro Voskoboinyk;Jacob Jessiman;Jason Wickenden;Kayli Johnson;Luis Gabriel Alde;Maxwell Thompson;Mckenzie Madden;Phillip Daniel Ivad;Rida Farhat;Wen Xuan Lin;Zaile Zhuang,53,77.075471698,7.051592991,90.0,64.0,,,,,,,,,,,0,0,0,0,7,6,10,6,13,10,1,,,
+UBCV,2021,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden;Kayli Johnson,59,80.949152542,9.075210131,93.0,50.0,,,,,,,,,,,0,2,0,2,0,2,4,11,15,10,13,,,
+UBCV,2021,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden;Kayli Johnson,54,78.203703704,8.247079825,92.0,63.0,,,,,,,,,,,0,0,0,1,7,4,10,5,13,6,8,,,
+UBCV,2021,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden;Kayli Johnson,61,79.0,9.934787366,91.0,46.0,,,,,,,,,,,1,1,1,4,1,4,3,6,22,11,7,,,
+UBCV,2021,W,CHEM,260,,109,Organic Chemistry for Engineers,Jason Wickenden;Marco Ciufolini;Seyed Nasseri,135,66.192592593,16.364092606,100.0,12.0,,,,,,,,,,,15,17,11,14,10,18,12,5,16,5,12,,,
+UBCV,2021,W,CHEM,355,,L01,Chemistry Integrated Laboratory,Ali Shoja;Jason Wickenden;Madeleine Deem;Thiam En Lim;William Chappell,13,67.769230769,9.39107596,85.0,50.0,,,,,,,,,,,0,1,2,0,2,3,3,0,1,1,0,,,
+UBCV,2021,W,CHEM,355,,L03,Chemistry Integrated Laboratory,Jason Wickenden,26,73.615384615,9.728625486,90.0,50.0,,,,,,,,,,,0,1,1,3,1,2,6,4,4,3,1,,,
+UBCV,2021,W,CHEM,355,,L05,Chemistry Integrated Laboratory,Jason Wickenden,23,75.347826087,12.579235038,91.0,34.0,,,,,,,,,,,1,0,1,0,1,4,5,0,4,5,2,,,
+UBCV,2021,S,CHEM,225,,Y1A,Introductory Synthetic Chemical Laboratory,Jerome Lozada;Jason Wickenden,11,75.5,,87.0,61.0,,,,,,,,,,,,,,,,,,,,,,80.0,81.5,68.5
+UBCV,2021,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Kalindi Morgan;Jason Wickenden,317,71.7,,98.0,8.0,,,,,,,,,,,19,17,27,29,32,35,26,25,28,40,39,71.0,84.0,62.0
+UBCV,2021,S,CHEM,245,,L02,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,29,84.8,,92.0,77.0,,,,,,,,,,,,,,,,,,,14,8,6,84.0,87.0,82.0
+UBCV,2021,S,CHEM,245,,L03,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,25,84.3,,93.0,74.0,,,,,,,,,,,,,,,,,,,10,11,,85.0,86.0,82.0
+UBCV,2021,S,CHEM,245,,L04,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,23,80.6,,91.0,68.0,,,,,,,,,,,,,,,,,,7,8,,,80.0,84.5,77.5
+UBCV,2021,S,CHEM,245,,L05,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,22,80.7,,90.0,69.0,,,,,,,,,,,,,,,,,,,11,,,82.0,83.5,77.3
+UBCV,2021,W,CHEM,225,,L06,Introductory Synthetic Chemical Laboratory,Jason Wickenden,12,72.9,,86.0,60.0,,,,,,,,,,,,,,,,,,,,,,73.5,76.3,69.8
+UBCV,2021,W,CHEM,225,,L07,Introductory Synthetic Chemical Laboratory,Jason Wickenden,8,75.6,,85.0,60.0,,,,,,,,,,,,,,,,,,,,,,78.5,82.3,71.5
+UBCV,2021,W,CHEM,225,,L08,Introductory Synthetic Chemical Laboratory,Jason Wickenden,6,75.8,,85.0,64.0,,,,,,,,,,,,,,,,,,,,,,75.5,82.5,71.5
+UBCV,2021,W,CHEM,225,,L09,Introductory Synthetic Chemical Laboratory,Jason Wickenden,8,77.5,,84.0,66.0,,,,,,,,,,,,,,,,,,,,,,77.5,83.3,75.0
+UBCV,2021,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Katherine Ryan;John Sherman;Jason Wickenden,221,66.1,,100.0,24.0,,,,,,,,,,,31,23,12,28,14,22,20,15,28,8,20,68.0,80.0,55.0
+UBCV,2021,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,John Sherman;Jason Wickenden,232,63.6,,100.0,14.0,,,,,,,,,,,38,26,20,24,17,21,33,9,21,10,13,65.0,75.0,53.8
+UBCV,2021,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jason Wickenden,258,74.5,,100.0,16.0,,,,,,,,,,,21,16,12,16,10,17,20,17,39,29,61,79.0,88.0,63.3
+UBCV,2021,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Nigare Raheem;Jason Wickenden,217,63.5,,100.0,0.0,,,,,,,,,,,32,35,17,28,14,16,16,11,18,13,17,63.0,77.0,50.0
+UBCV,2021,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Nigare Raheem;Jason Wickenden,243,69.4,,100.0,11.0,,,,,,,,,,,28,20,11,16,13,28,32,19,30,15,31,72.0,81.0,60.0
+UBCV,2021,W,CHEM,235,,L12,Organic Chemistry Laboratory,Justin Chang;Jason Wickenden,84,81.2,,93.0,62.0,,,,,,,,,,,,,,,,7,11,8,18,29,9,83.0,87.0,76.0
+UBCV,2021,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,53,77.1,,90.0,64.0,,,,,,,,,,,,,,,7,6,10,6,13,10,,78.0,83.0,72.0
+UBCV,2021,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,59,81.6,,93.0,50.0,,,,,,,,,,,,,,,,,,11,15,10,14,83.0,87.0,77.0
+UBCV,2021,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,54,78.2,,92.0,63.0,,,,,,,,,,,,,,,7,,10,,13,6,8,79.0,84.8,72.0
+UBCV,2021,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,61,79.6,,91.0,54.0,,,,,,,,,,,,,,,,,,6,23,11,7,82.0,86.0,77.0
+UBCV,2021,W,CHEM,260,,109,Organic Chemistry for Engineers,Jason Wickenden,135,66.5,,100.0,12.0,,,,,,,,,,,14,17,12,14,10,18,12,,16,,12,68.0,77.5,55.5
+UBCV,2021,W,CHEM,355,,L01,Chemistry Integrated Laboratory,Jason Wickenden,13,67.8,,85.0,50.0,,,,,,,,,,,,,,,,,,,,,,68.0,72.0,64.0
+UBCV,2021,W,CHEM,355,,L03,Chemistry Integrated Laboratory,Jason Wickenden,26,73.6,,90.0,50.0,,,,,,,,,,,,,,,,,6,,,,,75.0,80.0,68.0
+UBCV,2021,W,CHEM,355,,L05,Chemistry Integrated Laboratory,Jason Wickenden,23,75.3,,91.0,34.0,,,,,,,,,,,,,,,,,,,,,,75.0,85.0,69.0
+UBCV,2022,S,CHEM,225,,Y1A,Introductory Synthetic Chemical Laboratory,Justin Chang;Jason Wickenden,12,85.1,,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,2,85.0,88.0,82.8
+UBCV,2022,S,CHEM,245,,Y3A,Intermediate Synthetic Chemistry Laboratory,Justin Chang;Jason Wickenden,18,82.1,,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,3,4,6,2,82.0,86.5,78.0
+UBCV,2022,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Montserrat Rueda Becerril;Jason Wickenden,51,76.7,,94.0,1.0,,,,,,,,,,,1,0,0,1,2,7,9,9,10,5,7,77.0,82.5,72.5
+UBCV,2023,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Glenn Sammis;Jason Wickenden,280,63.7,,100.0,3.0,,,,,,,,,,,47,35,28,19,22,21,28,17,24,13,19,65.0,76.0,51.0
+UBCV,2023,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Glenn Sammis;Jason Wickenden,284,69.8,,100.0,11.0,,,,,,,,,,,42,33,16,13,6,20,17,12,33,22,61,72.0,87.0,54.0
+UBCV,2023,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jolene Reid;Glenn Sammis;Jason Wickenden,259,61.8,,100.0,6.0,,,,,,,,,,,50,30,26,27,18,21,16,14,25,13,10,62.0,75.0,52.0
+UBCV,2023,W,CHEM,233,,133,Organic Chemistry for the Biological Sciences,Glenn Sammis;Jason Wickenden,264,64.0,,99.0,2.0,,,,,,,,,,,53,32,19,15,12,30,20,15,20,22,21,66.0,78.0,50.0
+UBCV,2023,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Glenn Sammis;Jason Wickenden,264,72.2,,100.0,0.0,,,,,,,,,,,28,24,14,16,9,21,12,13,41,28,56,77.0,87.0,59.3
+UBCV,2023,W,CHEM,260,,109,Organic Chemistry for Engineers,Jason Wickenden,109,65.4,,95.0,24.0,,,,,,,,,,,11,13,12,14,7,13,11,7,9,4,7,64.5,75.5,56.8

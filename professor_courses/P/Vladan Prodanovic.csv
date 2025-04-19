@@ -1,0 +1,94 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MECH,473,,201,HEAT VENT AIR CO,"Prodanovic, Vladan",31,80.03,8.51,94,62,31,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,5,7,4,6,,,
+UBC,2005,W,MECH,375,,202,HEAT TRANSFER I,"Prodanovic, Vladan",73,69.54,12.48,94,38,67,4,2,0,0,0,0,0,1,3,4,6,5,5,7,12,7,10,10,1,4,,,
+UBC,2014,W,CEEN,501,,001,THERML ENRGY SYS,"Prodanovic, Vladan",29,83.31,10.16,94,61,29,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,2,2,3,9,9,,,
+UBC,2014,W,CEEN,502,,002,ALT ENERGY TECH,"Prodanovic, Vladan",30,87.8,6.1,97,73,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,7,13,,,
+UBC,2014,W,CEEN,550,,006,ENRGY EFF & CONS,"Prodanovic, Vladan",30,87.43,4.9,96,78,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,13,9,,,
+UBC,2014,W,CEEN,596,,005,PROJECT & REPORT,"Prodanovic, Vladan",4,91.5,5.74,98,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2014,W,CEEN,596,,305,PROJECT & REPORT,"Prodanovic, Vladan",11,90,4.71,97,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,,,
+UBC,2014,W,CEEN,597,,004,SEMINAR,"Prodanovic, Vladan",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,CEEN,596,,901,PROJECT & REPORT,"Prodanovic, Vladan",4,90,6.73,94,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2015,W,CEEN,503,,001,SUST ENRGY SYSTS,"Prodanovic, Vladan",23,85.91,6.37,97,77,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,7,,,
+UBC,2015,W,CEEN,596,,005,PROJECT & REPORT,"Prodanovic, Vladan",8,89.13,3.87,97,86,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,,,
+UBC,2015,W,CEEN,596,,305,PROJECT & REPORT,"Prodanovic, Vladan",14,86.21,6.09,97,79,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,3,,,
+UBC,2015,W,VANT,150,,VE1,SUSTN&ENG DESIGN,"Motavas, Saloome;Prodanovic, Vladan",37,76.03,10.16,97,48,36,1,0,0,0,0,0,0,0,1,1,0,1,2,3,4,6,6,5,6,3,,,
+UBC,2016,W,APPP,506,,001,CAPSTONE PROJECT,"Prodanovic, Vladan",19,87.32,19.15,97,9,18,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,15,,,
+UBC,2016,W,CEEN,504,,004,ENRGY STOR&TRANS,"Prodanovic, Vladan",24,84.92,10.32,96,61,24,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,2,6,10,,,
+UBC,2016,W,CEEN,550,,006,ENRGY EFF & CONS,"Prodanovic, Vladan",20,88,16.96,100,25,19,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,2,2,13,,,
+UBC,2016,W,VANT,150,,VE1,SUSTN&ENG DESIGN,"Motavas, Saloome;Prodanovic, Vladan",85,76.13,15.36,94,5,73,7,5,0,0,1,0,0,3,3,7,0,1,1,3,9,11,5,17,16,10,,,
+UBC,2017,S,CEEN,503,,301,SUST ENRGY SYSTS,"Prodanovic, Vladan",26,90.04,6.15,98,75,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,15,,,
+UBC,2017,S,CEEN,504,,401,ENRGY STOR&TRANS,"Prodanovic, Vladan",26,90.28,7.68,100,72,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,9,13,,,
+UBC,2017,W,APPP,506,,001,CAPSTONE PROJECT,"Prodanovic, Vladan",25,91.2,3.49,97,85,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,19,,,
+UBC,2017,W,CEEN,550,,006,ENRGY EFF & CONS,"Prodanovic, Vladan",29,88.48,6.67,100,71,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,12,12,,,
+UBC,2017,W,VANT,150,,VE1,SUSTN&ENG DESIGN,"Abello Rubio, Juan;Motavas, Saloome;Prodanovic, Vladan",90,73.3,10.46,94,50,88,0,2,0,0,0,0,0,0,0,0,4,8,6,8,9,10,13,19,9,2,,,
+UBC,2018,S,CEEN,503,,301,SUST ENRGY SYSTS,"Prodanovic, Vladan",25,86.28,6.57,96,74,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,4,11,,,
+UBC,2018,S,CEEN,504,,401,ENRGY STOR&TRANS,"Prodanovic, Vladan",25,86.17,7.77,97,69,24,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,8,8,,,
+UBCV,2014,W,CEEN,501,,001,Thermal Energy Systems,Vladan Prodanovic;Vladan Zoran Prodanovic,29,83.31034483,10.16332148,94.0,61.0,,,,,,,,,,,0,0,0,,,,,,,9,9,,,
+UBCV,2014,W,CEEN,502,,002,Alternative Energy Technologies,Vladan Prodanovic;Vladan Zoran Prodanovic,30,87.8,6.099180273,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,7,7,13,,,
+UBCV,2014,W,CEEN,550,,006,Energy Efficiency and Conservation,Vladan Prodanovic;Vladan Zoran Prodanovic,30,87.43333333,4.903786949,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,13,9,,,
+UBCV,2014,W,CEEN,596,,305,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,11,90.0,4.711687596,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,5,,,
+UBCV,2015,W,CEEN,503,,001,Sustainable Energy Systems,Vladan Prodanovic;Vladan Zoran Prodanovic,22,85.909090909,6.368890842,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,5,5,7,,,
+UBCV,2015,W,CEEN,596,,005,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,8,89.125,3.870677312,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,3,,,
+UBCV,2015,W,CEEN,596,,305,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,14,86.214285714,6.091337752,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,5,3,,,
+UBCV,2015,W,VANT,150,,VE1,Sustainability and Engineering Design,Saloome Motavas;Vladan Prodanovic;Vladan Zoran Prodanovic,37,76.027027027,10.158429686,97.0,48.0,,,,,,,,,,,,,,,,,6,6,5,6,,,,
+UBCV,2016,W,APPP,506,,001,Capstone Project,Vladan Prodanovic;Vladan Zoran Prodanovic,19,87.31578947,19.14579336,97.0,9.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,3,15,,,
+UBCV,2016,W,CEEN,504,,004,Energy Storage and Transmission,Vladan Prodanovic;Vladan Zoran Prodanovic,24,84.91666667,10.32058587,96.0,61.0,,,,,,,,,,,0,0,0,2,0,2,0,2,2,6,10,,,
+UBCV,2016,W,CEEN,550,,006,Energy Efficiency and Conservation,Vladan Prodanovic;Vladan Zoran Prodanovic,20,88.0,16.96125616,100.0,25.0,,,,,,,,,,,1,0,0,0,0,1,0,1,2,2,13,,,
+UBCV,2016,W,VANT,150,,VE1,Sustainability and Engineering Design,Saloome Motavas;Vladan Prodanovic;Vladan Zoran Prodanovic,80,76.125,15.3601284,94.0,5.0,,,,,,,,,,,7,0,1,1,3,9,11,5,17,16,10,,,
+UBCV,2017,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,25,90.04,6.147357156,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,7,15,,,
+UBCV,2017,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,25,90.28,7.678541528,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,1,9,13,,,
+UBCV,2017,W,APPP,506,,001,Capstone Project,Vladan Prodanovic;Vladan Zoran Prodanovic,25,91.2,3.488074923,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,19,,,
+UBCV,2017,W,CEEN,550,,006,Energy Efficiency and Conservation,Vladan Prodanovic;Vladan Zoran Prodanovic,29,88.482758621,6.674154252,100.0,71.0,,,,,,,,,,,0,0,0,0,0,2,0,0,3,12,12,,,
+UBCV,2017,W,VANT,150,,VE1,Sustainability and Engineering Design,Juan Abello Rubio;Saloome Motavas;Vladan Prodanovic;Vladan Zoran Prodanovic,88,73.295454545,10.461927792,94.0,50.0,,,,,,,,,,,0,4,8,6,8,9,10,13,19,9,2,,,
+UBCV,2018,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,25,86.28,6.567089665,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,2,6,4,11,,,
+UBCV,2018,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,24,86.166666667,7.772116642,97.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,2,3,8,8,,,
+UBCV,2018,W,VANT,150,,VE1,Sustainability and Engineering Design,Behzad Zakani;Gabriel Potvin;Juan Abello Rubio;Saloome Motavas;Vladan Prodanovic;Vladan Zoran Prodanovic,69,78.333333333,8.143323983,94.0,47.0,,,,,,,,,,,1,0,1,0,2,8,14,11,14,15,3,,,
+UBCV,2019,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,21,85.666666667,8.510777481,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,3,1,3,4,9,,,
+UBCV,2019,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,21,88.80952381,7.215393597,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,1,14,,,
+UBCV,2019,W,CEEN,501,,201,Energy System Fundamentals,Seyyed Alireza Bagherzadeh Hosseini;Vladan Prodanovic,24,85.875,7.403362926,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,0,5,8,8,,,
+UBCV,2019,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Edouard Asselin;Jon Mikkelsen;Michael D Isaacson;Min Xu;Vladan Prodanovic,8,76.625,8.052284503,85.0,64.0,,,,,,,,,,,0,0,0,0,1,2,0,1,2,2,0,,,
+UBCV,2019,W,VANT,150,,VE1,Sustainability and Engineering Design,Behzad Zakani;Gabriel Potvin;Juan Abello Rubio;Saloome Motavas;Vladan Prodanovic,64,72.171875,8.66401917,86.0,51.0,,,,,,,,,,,0,6,1,4,3,8,18,12,8,4,0,,,
+UBCV,2020,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,20,89.75,4.165964853,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,12,,,
+UBCV,2020,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,19,90.947368421,3.471690018,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,14,,,
+UBCV,2020,W,APPP,506,C,103,Capstone Project,Seyyed Alireza Bagherzadeh Hosseini;Vladan Prodanovic,14,90.642857143,5.182917843,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,9,,,
+UBCV,2020,W,APSC,182,,VE1,Matter and Energy I,Arman Seyed-Ahmadi;Erik Joy;Sheryl Staub-French;Vladan Prodanovic,47,79.063829787,13.541248185,100.0,20.0,,,,,,,,,,,1,0,1,3,2,3,4,10,4,11,8,,,
+UBCV,2020,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Dharmapriya Wijewickreme;Edouard Asselin;Jon Mikkelsen;Michael D Isaacson;Min Xu;Vladan Prodanovic,8,77.125,6.01040764,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,2,1,1,0,,,
+UBCV,2020,W,MECH,454,,001,Thermofluids Capstone Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,13,87.153846154,2.544476169,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,3,,,
+UBCV,2020,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,63,84.492063492,3.913883542,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,7,24,27,5,,,
+UBCV,2020,W,MECH,458,,001,Mechatronics Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,26,84.192307692,5.138242741,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,11,9,3,,,
+UBCV,2020,W,MECH,459,,001,Biomedical Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,9,83.555555556,4.390646624,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,1,2,,,
+UBCV,2020,W,VANT,150,,VE1,Sustainability and Engineering Design,Behzad Zakani;Brett Todd;Caleb Lee;Gabriel Potvin;Jannik Eikenaar;Juan Abello Rubio;Saloome Motavas;Seach Chyr Goh;Vladan Prodanovic,46,74.130434783,7.262104671,87.0,60.0,,,,,,,,,,,0,0,0,4,6,7,10,6,8,5,0,,,
+UBCV,2021,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,22,91.5,4.206004778,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,1,19,,,
+UBCV,2021,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,21,91.238095238,4.815649093,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,4,16,,,
+UBCV,2021,W,APPP,506,C,103,Capstone Project,Seyyed Alireza Bagherzadeh Hosseini;Vladan Prodanovic,19,91.842105263,3.547505507,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,16,,,
+UBCV,2021,W,APSC,182,,VE1,Matter and Energy I,Eric Lees;Fatemeh Asadi Zeidabadi;Rizhi Wang;Vladan Prodanovic,61,69.868852459,15.742167798,93.0,28.0,,,,,,,,,,,7,3,5,2,8,5,5,7,6,8,5,,,
+UBCV,2021,W,MECH,223,,201,Introduction to the Mechanical Design Process,Ahmad Mohammadpanah Foroutaghe;Arash Mousemi;Carly Jones;Elizabeth Trudel;Faegheh Farbod;Iraj Dehghan Hamani;Markus Fengler;Meet Upadhyay;Mohammad Reza Karimi;Nasser Arbabi;Nima Atabaki;Omid Gholami Banadkoki;Shayan Fahimi;Shayan Jannati;Vladan Prodanovic;Yuecheng Cai,123,73.178861789,9.10686331,91.0,18.0,,,,,,,,,,,3,1,2,2,6,24,35,33,14,1,2,,,
+UBCV,2021,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Ali Ergudenler;Antony Hodgson;George Rawlings;Hendrik Van Der Loos;Markus Fengler;Mehdi Hamidi;Mrinmoy Chakraborty;Nima Atabaki;Paul Winkelman;Peter Ostafichuk;Vladan Prodanovic;Wen Li,60,82.833333333,5.560656792,90.0,69.0,,,,,,,,,,,0,0,0,0,0,5,1,7,15,25,7,,,
+UBCV,2021,W,VANT,150,,VE1,Sustainability and Engineering Design,Alfredo Ferreira;Amber Shaw;Behzad Zakani;Christopher Gradin;Daniel Riccardi;Emrul Hasan;Gabriel Potvin;Jodie Martin;Juan Abello Rubio;Katherine Lyon;Saloome Motavas;Vladan Prodanovic,58,67.206896552,14.156715127,91.0,35.0,,,,,,,,,,,12,0,0,7,6,8,6,7,8,3,1,,,
+UBCV,2021,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,22,91.5,,97.0,78.0,,,,,,,,,,,,,,,,,,,,,19,92.0,94.0,90.3
+UBCV,2021,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,21,91.2,,98.0,77.0,,,,,,,,,,,,,,,,,,,,,16,92.0,95.0,90.0
+UBCV,2021,W,APPP,506,C,103,Capstone Project,Seyyed Alireza Bagherzadeh Hosseini;Vladan Prodanovic,19,91.8,,96.0,80.0,,,,,,,,,,,,,,,,,,,,,16,93.0,94.0,90.5
+UBCV,2021,W,APSC,182,,VE1,Matter and Energy I,Vladan Prodanovic,61,69.9,,93.0,28.0,,,,,,,,,,,7,,,,8,,,7,6,8,,73.0,82.0,62.0
+UBCV,2021,W,MECH,223,,201,Introduction to the Mechanical Design Process,Nima Atabaki;Markus Fengler;Ahmad Mohammadpanah Foroutaghe;Vladan Prodanovic,123,73.2,,91.0,18.0,,,,,,,,,,,,,,,6,24,35,33,14,,,75.0,78.0,71.0
+UBCV,2021,W,VANT,150,,VE1,Sustainability and Engineering Design,Juan Abello Rubio;Saloome Motavas;Gabriel Potvin;Vladan Prodanovic,58,67.2,,91.0,35.0,,,,,,,,,,,12,,,7,6,8,6,7,8,,,70.0,77.8,61.0
+UBCV,2022,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,36,91.8,,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,3,29,93.5,96.0,90.8
+UBCV,2022,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,36,91.6,,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,28,92.0,94.0,90.0
+UBCV,2022,W,APPP,506,C,103,Capstone Project,Vladan Prodanovic,32,91.0,,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,23,91.0,93.0,89.0
+UBCV,2022,W,APSC,182,,VE1,Matter and Energy I,Vladan Prodanovic,56,63.9,,98.0,23.0,,,,,,,,,,,12,6,2,1,10,6,5,4,5,2,3,66.0,75.5,50.8
+UBCV,2022,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Edouard Asselin;Jon Mikkelsen;Vladan Prodanovic,7,82.4,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,3,1,85.0,86.0,79.5
+UBCV,2022,W,MECH,454,,001,Thermofluids Capstone Design Project,Srikantha Anasavarapu;Nima Atabaki;Mu Chiao;Markus Fengler;Antony Hodgson;Vladan Prodanovic;George Rawlings;Hendrik van der Loos,12,83.0,,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,4,1,81.5,85.0,79.5
+UBCV,2022,W,MECH,457,,001,Mechanical Engineering Design Project,Srikantha Anasavarapu;Nima Atabaki;Mu Chiao;Markus Fengler;Antony Hodgson;Vladan Prodanovic;George Rawlings;Hendrik van der Loos,46,80.9,,95.0,66.0,,,,,,,,,,,0,0,0,0,1,2,1,16,14,9,3,80.5,84.8,78.0
+UBCV,2022,W,MECH,458,,001,Mechatronics Design Project,Srikantha Anasavarapu;Nima Atabaki;Mu Chiao;Markus Fengler;Antony Hodgson;Vladan Prodanovic;George Rawlings;Hendrik van der Loos,27,86.4,,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,4,5,13,88.0,91.0,82.5
+UBCV,2022,W,MECH,459,,001,Biomedical Design Project,Srikantha Anasavarapu;Nima Atabaki;Mu Chiao;Markus Fengler;Antony Hodgson;Vladan Prodanovic;George Rawlings;Hendrik van der Loos,12,83.8,,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,6,1,85.0,87.0,81.5
+UBCV,2022,W,VANT,150,,VE1,Sustainability and Engineering Design,Saloome Motavas;Vladan Prodanovic;Roza Vaez Ghaemi,53,72.7,,92.0,45.0,,,,,,,,,,,3,5,0,0,6,5,8,6,14,4,2,75.0,81.0,67.0
+UBCV,2023,S,CEEN,503,,301,Sustainable Energy Systems,Vladan Prodanovic,21,91.62,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,16,91.0,94.0,90.0
+UBCV,2023,S,CEEN,504,,401,Energy Storage and Transmission,Vladan Prodanovic,20,90.65,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,14,90.5,94.0,88.0
+UBCV,2023,W,APPP,506,C,103,Capstone Project,Vladan Prodanovic,19,91.79,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,15,92.0,93.5,91.0
+UBCV,2023,W,APSC,182,,VE1,Matter and Energy I,Vladan Prodanovic,42,64.0,,100.0,28.0,,,,,,,,,,,9,4,4,1,8,2,1,3,3,3,3,65.0,78.0,51.0
+UBCV,2023,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Edouard Asselin;Jon Mikkelsen;Vladan Prodanovic;Dharmapriya Wijewickreme,10,74.89,,88.0,62.0,,,,,,,,,,,0,0,0,1,0,4,0,1,1,2,0,71.0,81.0,69.0
+UBCV,2023,W,MECH,453,,001,Aerospace Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,14,83.0,,88.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,7,6,0,82.5,86.75,81.25
+UBCV,2023,W,MECH,454,,001,Thermofluids Capstone Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,84.0,,89.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,0,83.0,88.0,81.0
+UBCV,2023,W,MECH,457,,001,Mechanical Engineering Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,54,83.07,,90.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,1,32,19,1,84.0,85.0,81.0
+UBCV,2023,W,MECH,458,,001,Mechatronics Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,28,82.61,,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,21,4,1,82.5,84.0,81.0
+UBCV,2023,W,MECH,459,,001,Biomedical Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,83.11,,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,0,83.0,85.0,81.0
+UBCV,2023,W,VANT,150,,VE1,Sustainability and Engineering Design,Juan Abello Rubio;Saloome Motavas;Vladan Prodanovic;Roza Vaez Ghaemi,42,69.84,,93.0,40.0,,,,,,,,,,,4,0,1,5,6,5,3,3,4,5,1,71.0,80.0,63.0

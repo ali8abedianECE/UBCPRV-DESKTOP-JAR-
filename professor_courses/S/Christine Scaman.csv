@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,FOOD,500,,001,M.SC. SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,FOOD,500,,003,M.SC. SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",17,79.53,5.67,87,69,15,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,7,3,0
+UBC,2007,W,FOOD,600,,001,PH.D. SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,HUNU,531,,001,M.SC. SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,HUNU,631,,001,PH.D SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,FOOD,500,,001,M.SC. SEMINAR,"Scaman, Christine",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",8,80.75,8.75,93,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,1,1
+UBC,2009,W,FOOD,600,,001,PH.D. SEMINAR,"Scaman, Christine",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,HUNU,531,,001,M.SC. SEMINAR,"Innis, Sheila;Scaman, Christine",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,HUNU,631,,001,PH.D SEMINAR,"Barr, Susan Irene;Innis, Sheila;Scaman, Christine",5,,,,,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",8,77.57,12.46,91,53,7,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,2,1,1,1
+UBC,2011,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",6,81.8,6.06,87,73,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0
+UBC,2012,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",7,84.71,5.22,94,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1
+UBC,2013,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",8,84.25,8.83,97,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,3
+UBC,2014,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",16,75.75,6.78,89,65,16,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,6,4,1,0
+UBC,2015,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",7,80.71,6.73,89,68,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,0
+UBC,2016,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",8,81.5,7.13,88,66,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,0
+UBC,2017,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",9,81.67,8.38,88,65,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,5,0
+UBC,2018,W,FOOD,522,,001,ADV FOOD CHEMIST,"Scaman, Christine",19,80.47,9.65,91,58,19,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,7,4,3
+UBCV,2014,W,FNH,303,,001,Food Product Development,Christine Scaman;Luyao Ma,46,74.89130435,7.190204018,88.0,57.0,,,,,,,,,,,0,0,,,,6,10,12,5,6,0
+UBCV,2014,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman,16,75.75,6.777413469,89.0,65.0,,,,,,,,,,,0,0,0,0,,,,6,,,0
+UBCV,2014,W,LFS,150,,002,Scholarly Writing and Argumentation in Land and Food Systems,Christine Scaman;Daniel Wood,27,75.03703704,4.815691351,84.0,64.0,,,,,,,,,,,0,0,0,0,,,8,10,,0,0
+UBCV,2015,W,FNH,303,,001,Food Product Development,Christine Scaman;Jingxin Tian,53,76.037735849,7.280010207,89.0,58.0,,,,,,,,,,,0,0,,,,6,8,10,17,,0
+UBCV,2015,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman,7,80.714285714,6.725927091,89.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2016,W,FNH,303,,001,Food Product Development,Christine Scaman;Pamely Keung;Yue Dai,54,75.11111111,10.76974565,96.0,50.0,,,,,,,,,,,0,3,3,4,3,4,5,12,11,5,4
+UBCV,2016,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman,8,81.5,7.131419414,88.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,1,3,3,0
+UBCV,2017,W,FNH,303,,001,Food Product Development,Christine Scaman;Elaine Cheng;Yue Dai,46,76.97826087,9.774090763,92.0,53.0,,,,,,,,,,,0,1,2,1,4,5,5,4,12,11,1
+UBCV,2017,W,FNH,499,,001,Undergraduate Thesis,Christine Scaman;Zhaoming Xu,6,89.333333333,4.966554809,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,5
+UBCV,2017,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman,9,81.666666667,8.381527307,88.0,65.0,,,,,,,,,,,0,0,0,0,1,1,0,0,2,5,0
+UBCV,2018,W,FNH,303,,001,Food Product Development,Christine Scaman;Elaine Cheng;Philip Yen,50,77.76,9.888273822,93.0,50.0,,,,,,,,,,,0,2,1,2,2,3,8,2,18,7,5
+UBCV,2018,W,FNH,499,,001,Undergraduate Thesis,Christine Scaman;Zhaoming Xu,6,93.333333333,8.500980336,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,5
+UBCV,2018,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman,19,80.473684211,9.645772943,91.0,58.0,,,,,,,,,,,0,0,,1,,2,1,,7,4,3
+UBCV,2019,W,FNH,200,,104,Exploring Our Food,Christine Scaman;John Dupuis;Ronit Mandal;Xiaonan Lu,27,72.888888889,7.826647447,90.0,55.0,,,,,,,,,,,0,0,1,1,6,4,4,6,3,1,1
+UBCV,2019,W,FNH,303,,001,Food Product Development,Christine Scaman;Jorge Leiva Arrieta;Philip Yen,53,77.924528302,9.296089038,94.0,51.0,,,,,,,,,,,0,1,1,2,0,10,6,8,13,5,7
+UBCV,2019,W,FNH,499,,001,Undergraduate Thesis,Christine Scaman;Zhaoming Xu,6,94.5,2.258317958,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2019,W,FOOD,522,,001,Advances in Food Chemistry,Christine Scaman;Derek Dee,28,85.678571429,3.868711829,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,15,4
+UBCV,2020,W,FNH,303,,001,Food Product Development,Christine Scaman;Philip Yen;Xanyar Mohammadi,59,78.93220339,8.71555171,95.0,61.0,,,,,,,,,,,0,0,0,3,4,5,9,8,13,10,7
+UBCV,2020,W,FOOD,510,,001,Advances in Food Science,Alberto Mendoza;Azita Madadi Noei;Christine Scaman;Jennifer Black;Jerzy Zawistowski;Michel Facon,11,86.272727273,4.383854676,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,2
+UBCV,2020,W,LFS,340,,002,First Nations Health and the Traditional Role of Plants,Christine Scaman;Eduardo Jovel;Wilson Mendes,29,85.448275862,2.885755743,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,18,2
+UBCV,2021,W,FNH,303,,001,Food Product Development,Anubhav Pratap Singh;Anubhav Pratap-Singh;Christine Scaman;Mithun Dey,64,84.125,6.293105323,95.0,62.0,,,,,,,,,,,0,0,0,1,0,1,3,6,15,22,16
+UBCV,2021,W,FNH,499,,001,Undergraduate Thesis,Christine Scaman;Vivien Measday;Zhaoming Xu,9,92.0,2.0,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9

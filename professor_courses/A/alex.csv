@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EADM,561,A,021,LAB PRACTICUM,"Holm, Alex",16,88.93,3.83,95,82,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,7
+UBC,2003,W,EADM,505,,021,WRK OF SCHL PRIN,"Holm, Alex",21,86.52,2.79,91,81,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,13,3
+UBC,2009,W,COMM,399,,106,LOGISTIC/OPS MGT,"Qian, Alex",55,77.47,6.54,93,64,55,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,13,11,13,6,2
+UBC,2017,W,APSC,541,,201,TECH ENT ENGIN,"Feldman, Alex;Miller, David",14,83.07,4.5,88,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,7,0
+UBC,2017,W,BAEN,506,,001,TECH ENTRPRNRSHP,"Feldman, Alex;Miller, David",20,84,3.7,88,77,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,10,0
+UBC,2018,S,APPP,503,,101,ORGNZTNL LDRSHP,"Trisoglio, Alex",40,78.4,5.3,88,65,40,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,10,19,3,0
+UBC,2018,S,APPP,503,,102,ORGNZTNL LDRSHP,"Trisoglio, Alex",39,77.23,6.34,89,60,39,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,5,12,12,3,0
+UBC,2018,W,APPP,503,,102,ORGNZTNL LDRSHP,"Trisoglio, Alex",47,83.57,2.47,89,79,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,31,15,0
+UBC,2018,W,APSC,541,,201,TECH ENT ENGIN,"Feldman, Alex;Miller, David",16,79.63,11.74,90,39,15,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,2,7,2,2
+UBC,2018,W,BAEN,506,,001,TECH ENTRPRNRSHP,"Feldman, Alex;Miller, David",20,83.4,3.55,91,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,15,1,2
+UBC,2018,W,COMM,386,P,101,TPCS BUSINESS 3,"Feldman, Alex;Miller, David;Pogue, Fraser",23,80.65,5.83,89,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,11,5,0
+UBC,2018,W,PHRM,473,A,001,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,A,002,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,A,003,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,A,004,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,A,005,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,001,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,002,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,003,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,004,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,005,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,006,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,B,007,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,C,004,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,C,005,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,C,006,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,C,007,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHRM,473,C,008,ADV PHRM EXPER,"Fang, Kayla;Lau, Gilly;Taheri, Asal;Tang, Alex",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

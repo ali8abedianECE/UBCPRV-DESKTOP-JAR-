@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,FREN,103,,001,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,31,77.935483871,14.435916976,97.0,44.0,2,1,1,1,2,1,2,2,8,5,6,,,
+UBCO,2019,W,FREN,103,,002,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Christopher Gordon,29,82.655172414,10.767928114,97.0,61.0,0,0,0,1,4,0,3,2,2,8,9,,,
+UBCO,2019,W,FREN,103,,005,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Milka Beck,31,79.258064516,12.580322577,97.0,50.0,0,2,0,3,1,0,3,5,5,5,7,,,
+UBCO,2019,W,FREN,104,,001,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,33,80.787878788,11.160078337,96.0,53.0,0,1,0,0,4,3,5,0,6,5,9,,,
+UBCO,2019,W,FREN,104,,004,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,32,82.21875,13.037747616,99.0,46.0,2,0,0,2,0,0,3,3,5,5,12,,,
+UBCO,2019,W,FREN,104,,005,Upper Elementary French II,Charlotte Favareille;Charlotte Marie Favareille;Stephanie Tolman,26,77.192307692,14.52176086,97.0,51.0,0,3,1,2,2,1,2,2,3,1,9,,,
+UBCO,2020,W,FREN,101,,004,Elementary French I,Alexandra Tonnel;Charlotte Favareille,28,88.035714286,6.619176086,98.0,72.0,0,0,0,0,0,0,2,1,4,9,12,,,
+UBCO,2020,W,FREN,102,,001,Elementary French II,Charlotte Favareille;Stephanie Tolman,18,81.277777778,10.845468317,95.0,47.0,1,0,0,0,0,1,1,2,5,5,3,,,
+UBCO,2020,W,FREN,103,,001,Upper Elementary French I,Charlotte Favareille;Charlotte Marie Favareille;Francis Langevin,28,77.571428571,16.660951401,97.0,15.0,1,0,0,3,3,0,4,3,3,3,8,,,
+UBCO,2020,W,FREN,103,,002,Upper Elementary French I,Alexandra Tonnel;Charlotte Favareille;Ramine Adl,18,79.833333333,9.966119075,95.0,57.0,0,0,1,0,0,3,3,1,3,5,2,,,
+UBCO,2020,W,FREN,104,,001,Upper Elementary French II,Charlotte Favareille,27,75.666666667,13.889675191,96.0,38.0,1,0,2,2,4,2,0,4,4,4,4,,,
+UBCO,2020,W,FREN,104,,003,Upper Elementary French II,Charlotte Favareille;Christopher Gordon,23,76.260869565,13.883336615,93.0,42.0,2,1,0,0,1,2,1,5,4,3,4,,,
+UBCO,2020,W,FREN,122,,001,Intermediate French I,Alexandra Tonnel;Charlotte Favareille,36,80.166666667,11.340194002,95.0,42.0,1,0,1,1,3,0,2,3,12,6,7,,,
+UBCO,2021,W,FREN,103,,001,Upper Elementary French I,Charlotte Favareille;Christopher Gordon,30,78.733333333,17.811142064,99.0,8.0,1,0,1,0,5,1,2,3,5,5,7,,,
+UBCO,2021,W,FREN,104,,001,Upper Elementary French II,Charlotte Favareille,12,80.666666667,13.179414619,96.0,47.0,1,0,0,0,0,0,1,4,1,1,4,,,
+UBCO,2021,W,FREN,122,,001,Intermediate French I,Alexandra Tonnel;Charlotte Favareille,26,78.192307692,11.606960776,97.0,60.0,0,0,0,3,3,3,3,2,3,4,5,,,
+UBCO,2021,W,FREN,122,,002,Intermediate French I,Charlotte Favareille,22,78.227272727,19.493422134,94.0,17.0,2,1,0,0,1,0,2,0,5,5,6,,,
+UBCO,2021,W,FREN,215,,001,Oral French Practice II,Alexandra Tonnel;Charlotte Favareille,22,78.0,20.033305602,95.0,1.0,1,1,0,0,2,0,1,3,6,3,5,,,
+UBCO,2021,W,FREN,222,,001,French Language and Style I,Charlotte Favareille;Christopher Gordon,28,79.571428571,13.755614534,92.0,23.0,1,1,0,0,1,0,1,5,8,8,3,,,
+UBCO,2021,W,FREN,355,,001,Advanced Composition,Charlotte Favareille;Ramine Adl,21,87.142857143,5.87610172,96.0,68.0,0,0,0,0,0,1,0,0,3,10,7,,,
+UBCO,2021,W,FREN,104,,001,Upper Elementary French II,Charlotte Favareille,12,80.7,,96.0,47.0,,,,,,,,,,,,79.5,90.5,76.0
+UBCO,2021,W,FREN,122,,002,Intermediate French I,Charlotte Favareille,22,78.2,,94.0,17.0,,,,,,,,,,,6,85.0,89.8,76.3
+UBCO,2021,W,FREN,215,,001,Oral French Practice II,Charlotte Favareille;Alexandra Tonnel,22,78.0,,95.0,1.0,,,,,,,,,6,,,84.0,88.5,77.3
+UBCO,2021,W,FREN,222,,001,French Language and Style I,Charlotte Favareille;Christopher Gordon,28,79.6,,92.0,23.0,,,,,,,,,8,8,,83.0,86.5,78.0
+UBCO,2021,W,FREN,355,,001,Advanced Composition,Ramine Adl;Charlotte Favareille,21,87.1,,96.0,68.0,,,,,,,,,,10,7,88.0,90.0,86.0

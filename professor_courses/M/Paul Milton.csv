@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,ENGL,472,C,001,American Studies,Paul Milton,33,70.18181818,18.88526963,88.0,0.0,,,,,,,7,8,5,,0,,,
+UBCO,2014,W,ENGL,221,,101,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,20,69.6,17.56911165,87.0,5.0,,,,5,,1,3,,3,,0,,,
+UBCO,2014,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,43,67.8372093,14.68385935,87.0,10.0,,,,3,,10,9,,5,,0,,,
+UBCO,2014,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,41,74.65853659,10.35280096,88.0,32.0,,,,,,,7,9,11,,0,,,
+UBCO,2014,W,ENGL,499,,101,Honours Essay,Paul Milton,5,83.4,3.847076812,88.0,79.0,0,0,0,0,0,0,0,,,,0,,,
+UBCO,2015,S,ENGL,233,,001,American Literature,Paul Milton,15,66.6,21.256259582,83.0,5.0,,,,,,,,,,0,0,,,
+UBCO,2015,W,ENGL,150,,005,Introduction to Literary Genre,Paul Milton,35,68.428571429,11.601941304,81.0,17.0,,,,,5,5,9,,,0,0,,,
+UBCO,2015,W,ENGL,150,,006,Introduction to Literary Genre,Paul Milton,35,69.885714286,13.730111667,87.0,0.0,,,,,9,7,10,,,,0,,,
+UBCO,2015,W,ENGL,150,,101,Introduction to Literary Genre,Paul Milton,36,68.25,12.11463106,86.0,36.0,5,,,,,5,8,7,,,0,,,
+UBCO,2015,W,ENGL,150,,104,Introduction to Literary Genre,Paul Milton,37,71.567567568,7.33538055,87.0,47.0,,,,,7,6,11,6,,,0,,,
+UBCO,2015,W,ENGL,338,,001,American Literature after World War II,Paul Milton,35,71.714285714,17.78725821,88.0,0.0,,,,,,,7,9,6,,0,,,
+UBCO,2015,W,ENGL,472,B,001,American Studies,Paul Milton,18,78.388888889,4.754426902,87.0,70.0,0,0,0,0,0,,5,,5,,0,,,
+UBCO,2016,S,ENGL,233,,001,American Literature,Paul Milton,16,66.125,21.90243518,85.0,0.0,2,0,0,1,1,2,5,3,1,1,0,,,
+UBCO,2016,W,ENGL,150,,005,Introduction to Literary Genre,Paul Milton,35,70.57142857,8.472397099,84.0,47.0,1,1,0,3,8,7,5,4,6,0,0,,,
+UBCO,2016,W,ENGL,150,,006,Introduction to Literary Genre,Paul Milton,34,71.64705882,13.91724971,84.0,0.0,1,0,0,1,6,3,11,4,8,0,0,,,
+UBCO,2016,W,ENGL,150,,102,Introduction to Literary Genre,Paul Milton,35,63.05714286,17.74483,85.0,0.0,5,1,1,8,3,5,6,4,0,2,0,,,
+UBCO,2016,W,ENGL,150,,104,Introduction to Literary Genre,Paul Milton,38,69.86842105,9.364022734,88.0,43.0,1,1,2,2,7,11,4,4,3,3,0,,,
+UBCO,2016,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,41,76.78048781,6.831955046,87.0,60.0,0,0,0,3,1,4,9,7,10,7,0,,,
+UBCO,2016,W,ENGL,339,,001,American Literature from the Civil War to WWI,Paul Milton,43,74.88372093,13.00221465,86.0,6.0,2,0,0,0,0,7,7,10,13,4,0,,,
+UBCO,2017,W,ENGL,150,,102,Introduction to Literary Genre,Paul Milton,35,73.685714286,7.351556172,86.0,54.0,0,1,1,0,2,9,10,2,8,2,0,,,
+UBCO,2017,W,ENGL,220,,001,Foundations: Literature in Historical Context 1,Paul Milton,45,68.111111111,15.184055965,88.0,0.0,3,0,1,2,10,7,10,6,5,1,0,,,
+UBCO,2017,W,ENGL,338,,001,American Literature after World War II,Paul Milton,40,76.25,6.050005298,90.0,61.0,0,0,0,1,1,5,12,6,11,3,1,,,
+UBCO,2017,W,ENGL,472,A,001,American Studies,Paul Milton,25,75.2,15.95044409,92.0,7.0,1,1,0,0,0,0,6,8,4,4,1,,,
+UBCO,2018,W,ENGL,150,,001,Introduction to Literary Genre,Paul Milton,32,70.65625,9.766993049,88.0,38.0,2,0,0,3,3,7,8,5,2,2,0,,,
+UBCO,2018,W,ENGL,150,,002,Introduction to Literary Genre,Paul Milton,34,63.0,20.184002066,88.0,6.0,7,0,0,4,3,4,7,5,3,1,0,,,
+UBCO,2018,W,ENGL,150,,102,Introduction to Literary Genre,Paul Milton,35,64.285714286,17.821948511,83.0,0.0,3,1,0,6,12,1,4,4,4,0,0,,,
+UBCO,2018,W,ENGL,336,A,001,Studies in Backgrounds to American Literature,Paul Milton,39,72.333333333,16.612191676,90.0,0.0,2,0,0,1,3,4,10,9,6,3,1,,,
+UBCO,2018,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,40,74.5,9.069531976,93.0,48.0,1,0,0,6,1,3,9,5,10,3,2,,,
+UBCO,2019,W,ENGL,150,,001,Introduction to Literary Genre,Paul Milton,34,71.558823529,12.644776563,87.0,10.0,1,0,0,2,4,7,11,2,4,3,0,,,
+UBCO,2019,W,ENGL,150,,002,Introduction to Literary Genre,Paul Milton,35,68.8,14.672503295,87.0,10.0,3,1,3,1,3,6,8,1,7,2,0,,,
+UBCO,2019,W,ENGL,150,,101,Introduction to Literary Genre,Paul Milton,30,65.566666667,17.145791347,83.0,0.0,3,0,1,4,6,4,5,4,3,0,0,,,
+UBCO,2019,W,ENGL,150,,102,Introduction to Literary Genre,Paul Milton,32,70.125,11.552823981,87.0,33.0,1,1,4,1,5,3,5,5,5,2,0,,,
+UBCO,2019,W,ENGL,338,,001,American Literature after World War II,Paul Milton,39,76.435897436,6.38169616,92.0,63.0,0,0,0,1,1,9,11,2,11,3,1,,,
+UBCO,2019,W,ENGL,472,B,001,American Studies,Paul Milton,24,73.541666667,15.700953077,88.0,7.0,1,0,0,1,1,3,7,3,5,3,0,,,
+UBCO,2020,W,ENGL,150,,001,Introduction to Literary Genre,Alison Kloosterman;Paul Milton,31,61.225806452,19.175869693,83.0,0.0,6,2,2,2,5,4,3,2,5,0,0,,,
+UBCO,2020,W,ENGL,150,,002,Introduction to Literary Genre,Alison Kloosterman;Paul Milton,31,64.225806452,15.366000732,82.0,19.0,4,1,4,3,5,3,3,4,4,0,0,,,
+UBCO,2020,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Alison Kloosterman;Alison Michelle Kloosterman;Paul Milton,20,67.1,18.378763489,86.0,20.0,3,2,0,0,0,1,7,3,2,2,0,,,
+UBCO,2020,W,ENGL,337,,101,American Literature between the Wars,Paul Milton,31,73.129032258,16.235233158,87.0,0.0,2,1,0,1,2,0,5,7,10,3,0,,,
+UBCO,2020,W,ENGL,339,,001,American Literature from the Civil War to WWI,Paul Milton,35,73.714285714,7.147897381,87.0,55.0,0,0,2,0,3,8,9,6,3,4,0,,,
+UBCO,2021,W,ENGL,150,,003,Introduction to Literary Genre,Paul Milton,30,72.1,6.784109222,87.0,57.0,0,0,1,2,4,10,5,3,3,2,0,,,
+UBCO,2021,W,ENGL,150,,004,Introduction to Literary Genre,Daryl Ritchot;Paul Milton,30,74.333333333,7.603689365,82.0,44.0,1,0,0,0,3,4,6,7,9,0,0,,,
+UBCO,2021,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Paul Milton,27,66.777777778,21.580499269,87.0,0.0,4,0,0,2,1,4,5,4,4,3,0,,,
+UBCO,2021,W,ENGL,338,,001,American Literature after World War II,Paul Milton,33,73.333333333,14.995138101,85.0,16.0,2,0,0,1,0,3,10,5,10,2,0,,,
+UBCO,2021,W,ENGL,475,A,101,Topics in American Poetry,Paul Milton,11,76.818181818,5.996968931,88.0,72.0,0,0,0,0,0,0,6,2,1,2,0,,,
+UBCO,2021,W,ENGL,150,,003,Introduction to Literary Genre,Paul Milton,30,72.1,,87.0,57.0,,,,,,10,,,,,,71.0,75.5,68.5
+UBCO,2021,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Paul Milton,27,68.9,,87.0,0.0,,,,,,,,,,,,73.0,80.0,68.0
+UBCO,2021,W,ENGL,338,,001,American Literature after World War II,Paul Milton,32,75.0,,85.0,16.0,,,,,,,10,,10,,,76.0,80.0,74.0
+UBCO,2021,W,ENGL,475,A,101,Topics in American Poetry,Paul Milton,11,76.8,,88.0,72.0,,,,,,,6,,,,,74.0,78.0,73.0
+UBCO,2022,W,ENGL,150,,002,Introduction to Literary Genre,Paul Milton,32,66.8,,85.0,0.0,3,0,0,4,6,3,7,5,3,1,0,71.0,76.0,64.0
+UBCO,2022,W,ENGL,150,,009,Introduction to Literary Genre,Paul Milton,33,65.7,,86.0,5.0,4,0,0,3,4,8,6,3,4,1,0,70.0,75.0,66.0
+UBCO,2022,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Paul Milton,29,74.6,,85.0,32.0,1,1,0,0,2,2,8,3,9,3,0,76.0,82.0,72.0
+UBCO,2022,W,ENGL,336,A,101,Studies in Backgrounds to American Literature,Paul Milton,28,70.3,,87.0,0.0,3,0,0,0,0,4,9,3,6,3,0,75.0,82.0,71.8
+UBCO,2022,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,34,73.3,,85.0,34.0,2,1,0,1,1,1,9,9,9,1,0,76.0,80.0,72.0
+UBCO,2023,S,ENGL,150,,001,Introduction to Literary Genre,Paul Milton,19,72.07,,85.0,50.0,0,2,0,1,0,1,5,0,4,1,0,74.0,80.0,69.0
+UBCO,2023,S,ENGL,338,,001,American Literature after World War II,Paul Milton,25,75.27,,82.0,58.0,0,0,1,1,1,0,5,8,6,0,0,77.5,79.5,74.0
+UBCO,2023,W,ENGL,150,,101,Introduction to Literary Genre,Paul Milton,28,59.3,,87.0,0.0,7,1,0,1,0,7,1,6,1,3,0,70.0,78.0,50.0
+UBCO,2023,W,ENGL,150,,102,Introduction to Literary Genre,Paul Milton,34,71.1,,83.0,31.0,2,0,1,3,1,4,10,6,6,0,0,74.0,78.0,70.0
+UBCO,2023,W,ENGL,475,B,101,Topics in American Poetry,Paul Milton,24,75.7,,86.0,41.0,1,1,0,0,1,1,4,4,8,3,0,78.0,81.5,74.5

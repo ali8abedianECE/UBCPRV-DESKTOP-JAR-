@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2019,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Bayan Al Nahhas;Kevin Dueck,99,78.505050505,12.042758632,100.0,33.0,1,2,2,7,5,9,9,13,14,15,22
+UBCO,2020,W,ENGR,362,,102,Digital Signal Processing I,Bayan Al Nahhas;Md Hossain;Nourhan Soliman,89,82.213483146,8.787222012,99.0,57.0,0,0,1,1,4,7,4,11,19,17,25
+UBCO,2021,W,APSC,255,,101,Electric Circuits and Power,Bayan Al Nahhas;Ian Foulds;Isaac Spotts;Mohammad Kharouf;Ziad Abdelsamad,122,64.295081967,18.147097997,100.0,20.0,49,1,4,4,7,5,11,11,9,11,10
+UBCO,2021,W,APSC,255,,102,Electric Circuits and Power,Ayman Elnaggar;Bayan Al Nahhas;Isaac Spotts;Mohammad Kharouf;Stephen O'Leary;Ziad Abdelsamad,146,63.205479452,18.373488325,100.0,28.0,63,0,0,9,9,7,15,11,8,8,16

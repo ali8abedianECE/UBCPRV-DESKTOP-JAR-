@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,COMM,280,,201,ENTREPRENEURSHIP,"Clough, David",29,72.48,17.32,91,0,27,2,0,0,0,1,0,0,0,1,2,1,0,3,2,1,3,5,9,1,2,,,
+UBC,2017,W,COMM,280,,202,ENTREPRENEURSHIP,"Clough, David",37,77.67,10.01,90,37,32,1,3,0,0,0,0,0,1,0,1,0,0,1,1,3,4,5,9,8,1,,,
+UBC,2017,W,COMM,280,,203,ENTREPRENEURSHIP,"Clough, David",16,78,6.9,89,65,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,4,2,4,0,,,
+UBC,2018,W,COMM,280,,201,ENTREPRENEURSHIP,"Clough, David",29,72.64,15.58,91,9,26,2,0,0,1,1,0,0,0,1,2,0,1,0,3,4,2,7,7,1,1,,,
+UBC,2018,W,COMM,280,,202,ENTREPRENEURSHIP,"Clough, David",35,68,15.63,88,21,29,3,1,0,0,0,0,1,2,0,3,2,1,4,3,1,6,5,5,2,0,,,
+UBC,2018,W,COMM,280,,203,ENTREPRENEURSHIP,"Clough, David",20,76.11,11.83,93,40,18,1,0,0,0,0,0,0,0,1,1,0,1,1,0,0,2,5,6,2,1,,,
+UBCV,2017,W,BA,501,,817,Professional Residency I Leadership and Competitive Strategy,Danielle Van Jaarsveld;Darren Dahl;David Clough;David Hardisty;Gregory Werker;Jo Andrea Hoegg;Lingtao Yu;Michael Daniels;Scott Sinclair;Tracey Gurton,27,75.740740741,3.768213131,86.0,71.0,,,,,,,,,,,0,0,0,0,0,4,9,10,3,1,0,,,
+UBCV,2017,W,COMM,280,,201,Entrepreneurship,Cheralyn Chok;David Clough,29,72.482758621,17.319725933,91.0,0.0,,,,,,,,,,,2,1,0,3,2,1,3,5,9,1,2,,,
+UBCV,2017,W,COMM,280,,202,Entrepreneurship,David Clough;Shehan Wijeyagoonewardane,34,77.705882353,9.858174309,90.0,37.0,,,,,,,,,,,1,0,0,1,1,3,4,6,9,8,1,,,
+UBCV,2017,W,COMM,280,,203,Entrepreneurship,David Clough;Japnit Bhatia,16,77.625,6.830080527,89.0,65.0,,,,,,,,,,,0,0,0,0,1,3,2,4,2,4,0,,,
+UBCV,2018,W,COMM,280,,201,Entrepreneurship,Alon Aminov;David Clough,29,73.137931034,15.525840529,91.0,9.0,,,,,,,,,,,2,0,1,0,3,4,2,7,7,2,1,,,
+UBCV,2018,W,COMM,280,,202,Entrepreneurship,David Clough;Japnit Bhatia,34,68.441176471,15.277615188,88.0,21.0,,,,,,,,,,,3,2,1,4,3,1,7,6,5,2,0,,,
+UBCV,2018,W,COMM,280,,203,Entrepreneurship,Alexander Gillis;David Clough,20,75.7,11.657841273,93.0,40.0,,,,,,,,,,,1,0,1,1,0,1,2,5,6,2,1,,,
+UBCV,2019,S,BA,514,,818,"IMBA Residency - People, Culture and Organizations",Dan Skarlicki;Danielle Van Jaarsveld;David Clough;David Hardisty;Lingtao Yu;Mahesh Nagarajan;Michael Daniels;Sima Sajjadiani;Tamar Milne;Vatsala Gupta;Vatsala Yash Gupta;Yash Gupta,44,82.227272727,2.361154983,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,33,7,0,,,
+UBCV,2019,W,COMM,280,,201,Entrepreneurship,Alon Aminov;Andrea Hernandez Hasselkus;David Clough,31,74.967741935,9.17781336,90.0,46.0,,,,,,,,,,,1,1,0,0,2,4,6,8,4,4,1,,,
+UBCV,2019,W,COMM,280,,202,Entrepreneurship,Alon Aminov;Andrea Hernandez Hasselkus;David Clough,24,78.5,6.827056148,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,10,3,5,3,2,,,
+UBCV,2019,W,COMM,280,,203,Entrepreneurship,David Clough;Japnit Bhatia,28,76.214285714,9.366437889,90.0,60.0,,,,,,,,,,,0,0,0,4,2,2,3,4,8,4,1,,,
+UBCV,2020,W,COMM,280,,201,Entrepreneurship,David Clough;Logan Aitken,29,78.655172414,7.598288633,91.0,64.0,,,,,,,,,,,0,0,0,0,4,1,4,4,9,5,2,,,
+UBCV,2020,W,COMM,280,,202,Entrepreneurship,David Clough;Japnit Bhatia,24,78.541666667,6.399586717,90.0,59.0,,,,,,,,,,,0,0,1,0,0,0,5,7,8,2,1,,,
+UBCV,2021,W,COMM,280,,201,Entrepreneurship,David Clough;Wallis Paterson,29,78.379310345,11.766823194,91.0,44.0,,,,,,,,,,,1,1,0,0,3,1,5,3,2,9,4,,,
+UBCV,2021,W,COMM,280,,202,Entrepreneurship,David Clough;Patricia Mae Louise Ang,33,75.242424242,13.975492619,96.0,32.0,,,,,,,,,,,2,1,0,1,4,1,2,6,9,3,4,,,
+UBCV,2021,W,COMM,280,,201,Entrepreneurship,David Clough,29,78.4,,91.0,44.0,,,,,,,,,,,,,,,,,,,,9,,83.0,87.0,73.0
+UBCV,2021,W,COMM,280,,202,Entrepreneurship,David Clough,34,74.3,,96.0,32.0,,,,,,,,,,,,,,,,,,6,9,,,78.0,82.8,67.5
+UBCV,2022,W,COMM,280,,201,Entrepreneurship,David Clough,24,76.5,,91.0,56.0,,,,,,,,,,,0,0,1,0,1,2,4,7,6,2,1,77.0,80.5,72.8
+UBCV,2022,W,COMM,280,,202,Entrepreneurship,David Clough,19,77.7,,86.0,57.0,,,,,,,,,,,0,0,1,0,0,2,3,3,6,4,0,80.0,83.5,74.0
+UBCV,2023,W,COMM,280,,201,Entrepreneurship,David Clough,13,76.3,,87.0,64.0,,,,,,,,,,,0,0,0,0,1,1,4,3,3,1,0,76.0,80.0,74.0
+UBCV,2023,W,COMM,280,,202,Entrepreneurship,David Clough,29,76.8,,88.0,58.0,,,,,,,,,,,0,0,2,0,0,2,8,6,6,5,0,77.0,83.0,73.0
+UBCV,2023,W,COMR,280,,202,Entrepreneurship,David Clough,7,75.9,,81.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,0,3,0,0,74.0,80.5,72.5

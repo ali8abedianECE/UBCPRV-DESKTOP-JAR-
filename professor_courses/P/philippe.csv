@@ -1,0 +1,171 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BIOL,447,,101,METH BIO RSCH II,"*Tortell, Philippe",18,81.11,6.52,91,68,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,4,7,1
+UBC,2002,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Suttle, Curtis;Tortell, Philippe",13,73.77,12,94,57,13,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,0,4,0,2
+UBC,2002,W,GEOG,329,,201,INTR POLI GEOG,"Le Billon, Philippe",39,70,9.81,92,47,34,1,3,0,1,0,0,0,0,1,1,1,2,4,6,5,6,3,5,1,1
+UBC,2002,W,GEOG,517,,101,ENV SUSTAINABLTY,"Bakker, Karen Jessica;Le Billon, Philippe",5,82,3.94,86,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0
+UBC,2003,W,BIOL,447,,101,METH BIO RSCH II,"Tortell, Philippe",17,84.88,5.28,93,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,7,4
+UBC,2003,W,EECE,443,,201,Soft Proj Mgmt,"Kruchten, Philippe",25,76.33,7.44,89,60,24,0,1,0,0,0,0,0,0,0,0,0,0,2,0,5,2,6,7,2,0
+UBC,2003,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",240,76.12,13.15,98,0,224,10,6,0,0,1,0,0,2,7,10,4,11,15,13,8,24,33,51,48,17
+UBC,2003,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Suttle, Curtis;Tortell, Philippe",17,78.24,8.65,93,62,17,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,1,3,2,2
+UBC,2003,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",39,69.03,10.63,91,50,38,0,0,0,1,0,0,0,0,0,0,3,5,3,7,4,5,3,5,2,1
+UBC,2003,W,GEOG,517,,101,ENV SUSTAINABLTY,"Bakker, Karen Jessica;Le Billon, Philippe",10,77.89,8.96,88,64,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,3,0
+UBC,2003,W,GEOG,539,A,201,TOPS HUMAN GEOG,"Le Billon, Philippe",16,83.73,5.34,90,72,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,4,3
+UBC,2003,W,GEOG,539,B,201,TOPS HUMAN GEOG,"Le Billon, Philippe",4,86.25,5.12,92,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1
+UBC,2005,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",17,80.94,5.01,89,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,8,4,0
+UBC,2005,W,EECE,310,,201,SOFT ENGIN,"Kruchten, Philippe",52,78.71,7.57,91,46,51,1,0,0,0,0,0,0,0,1,1,0,0,0,2,2,10,10,15,10,2
+UBC,2005,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",46,80.93,8.3,94,60,46,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,6,10,10,6,9
+UBC,2005,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",39,72.15,7.94,86,54,39,0,0,0,0,0,0,0,0,0,0,1,1,2,5,9,10,3,5,3,0
+UBC,2005,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",20,75.7,6.97,86,60,20,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,4,6,4,3,0
+UBC,2005,W,GEOG,519,,201,ENV DEV & SECUR,"Le Billon, Philippe",10,81.56,4.8,87,72,9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,0
+UBC,2006,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",18,78.71,7.51,91,58,17,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,3,3,5,3,1
+UBC,2006,W,EDUC,316,,320,COMM SKILLS,"BAROIS, PHILIPPE",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EECE,419,,101,SOFTWARE ENG PRJ,"Kruchten, Philippe",52,85.79,14.01,96,0,51,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,3,4,8,11,24
+UBC,2006,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",35,73.71,15.25,93,15,33,2,0,0,0,0,1,0,0,1,2,0,3,1,3,4,3,4,7,6,2
+UBC,2006,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",164,74.15,15.54,94,0,153,6,3,0,2,3,0,0,2,1,6,1,13,8,13,13,17,17,33,20,18
+UBC,2006,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",30,72.28,13.77,89,34,27,2,0,1,0,0,0,0,1,1,2,1,1,2,3,2,4,4,5,5,0
+UBC,2006,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",38,74.33,7.05,87,56,36,0,2,0,0,0,0,0,0,0,0,0,1,0,4,6,8,6,9,2,0
+UBC,2006,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",25,74.76,5.17,87,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,5,3,2,0
+UBC,2006,W,GEOG,519,,201,ENV DEV & SECUR,"Le Billon, Philippe",14,81.92,3.7,88,76,12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,4,0
+UBC,2007,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",10,81.8,4.96,89,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,3,0
+UBC,2007,W,EECE,419,,101,SOFTWARE ENG PRJ,"Kruchten, Philippe",70,83.54,6.82,94,45,69,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,6,20,33,6
+UBC,2007,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",40,79.49,9.56,95,52,39,0,1,0,0,0,0,0,0,0,0,1,0,2,2,3,3,3,14,6,5
+UBC,2007,W,EECE,511,,201,TPCS SFTWARE ENG,"Kruchten, Philippe",16,82.86,8.84,95,65,14,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1,0,4,3,4
+UBC,2007,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Maldonado-Pareja, Maria;Tortell, Philippe",141,73.29,15.22,97,0,131,8,2,0,0,1,0,1,2,4,8,5,7,11,7,15,10,20,22,19,15
+UBC,2007,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",25,69.56,16.86,95,18,23,2,0,0,0,0,1,0,0,1,2,0,4,3,1,2,3,3,2,3,2
+UBC,2007,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",64,73.28,8.33,90,55,61,0,1,0,2,0,0,0,0,0,0,0,4,5,4,10,12,10,9,6,1
+UBC,2007,W,GEOG,496,,201,GEOG OF AFRICA,"Le Billon, Philippe",22,74.67,4.55,82,68,21,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,6,4,5,0,0
+UBC,2007,W,GEOG,519,,101,ENV DEV & SECUR,"Le Billon, Philippe",7,80.83,5.56,90,73,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1
+UBC,2009,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe;Lawrence, Peter",15,83.47,3.52,91,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,3,1
+UBC,2009,W,APSC,496,C,001,INTER ENG PRJECT,"Hodgson, Antony;Kruchten, Philippe;Van der Loos, Hendrik",10,74.4,4.27,80,65,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1,2,0,0
+UBC,2009,W,BIOL,447,,101,METH BIO RSCH II,"Berger, James;Tortell, Philippe",12,81.33,3.68,90,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,1,1
+UBC,2009,W,COMM,299,,201,BUS COMMUNICATIO,"DESROCHERS, PHILIPPE;Meredith, Deborah",860,79.53,11.9,100,17,823,22,15,0,0,0,3,2,5,12,22,4,17,28,46,59,83,89,152,197,148
+UBC,2009,W,COMM,299,,T61,BUS COMMUNICATIO,"DESROCHERS, PHILIPPE",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EECE,443,,101,SOFT PROJ MGMT,"Kruchten, Philippe",37,77.95,7.16,95,58,37,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,7,8,11,5,1
+UBC,2009,W,EOSC,314,,101,OCEAN ENVIRONMNT,"Lipsen, Michael;Tortell, Philippe",135,72.86,12.68,95,13,130,4,1,0,0,0,1,0,0,3,4,5,9,11,12,14,14,20,24,10,11
+UBC,2009,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",29,65.31,14.33,91,42,27,2,0,0,0,0,0,0,0,2,2,7,4,0,4,1,2,2,4,2,1
+UBC,2009,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",60,72.28,7.99,85,44,59,1,0,0,0,0,0,0,0,1,1,0,3,4,6,11,12,10,10,3,0
+UBC,2009,W,GEOG,496,,201,GEOG OF AFRICA,"Le Billon, Philippe",21,76.15,7.94,86,54,20,0,1,0,0,0,0,0,0,0,0,1,0,0,1,4,1,3,7,3,0
+UBC,2009,W,GEOG,519,,201,ENV DEV & SECUR,"Le Billon, Philippe",12,84.42,6.82,91,65,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,6,3
+UBC,2009,W,GEOG,520,,101,THMS&INTR ISS MD,"Le Billon, Philippe;Peck, Jamie",11,83.36,5.54,90,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,6,1
+UBC,2010,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe;Lawrence, Peter",15,82.53,3,88,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,4,0
+UBC,2010,W,APSC,496,C,001,INTER ENG PRJECT,"Hodgson, Antony;Kruchten, Philippe;Van der Loos, Hendrik",10,86.1,9.15,100,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,4
+UBC,2010,W,BASM,580,A,001,TPCS STRTGC MNG,"Arrata, Philippe",23,83.09,3.3,88,75,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10,9,0
+UBC,2010,W,BASM,580,A,002,TPCS STRTGC MNG,"Arrata, Philippe",42,79.81,6.65,95,65,42,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,9,11,8,3
+UBC,2010,W,COMM,299,,T60,BUS COMMUNICATIO,"DESROCHERS, PHILIPPE",7,,,,,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,COMM,299,,T61,BUS COMMUNICATIO,"DESROCHERS, PHILIPPE",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",37,85.62,6.44,97,67,37,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,8,13,11
+UBC,2010,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",61,72.51,8.95,90,41,60,1,0,0,0,0,0,0,0,1,1,1,2,2,9,11,12,10,9,2,2
+UBC,2010,W,GEOG,390,A,201,SELECTED REGIONS,"Le Billon, Philippe",20,73.84,5.68,83,61,19,0,0,0,1,0,0,0,0,0,0,0,0,2,0,3,8,2,4,0,0
+UBC,2010,W,GEOG,519,,201,ENV DEV & SECUR,"Le Billon, Philippe",6,79.33,3.78,82,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0
+UBC,2010,W,GEOG,520,,101,THMS&INTR ISS MD,"Le Billon, Philippe;Peck, Jamie",18,84.28,2.65,88,80,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,10,0
+UBC,2011,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe",17,84.35,4.44,92,77,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,2,4
+UBC,2011,W,BASM,580,A,001,TPCS STRTGC MNG,"Arrata, Philippe",37,83.11,5.9,94,70,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,10,11,5
+UBC,2011,W,BIOL,347,,201,PRIN&METH RSCH I,"Milsom, William;Tortell, Philippe",11,79.09,5.19,87,71,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,5,2,0
+UBC,2011,W,BIOL,447,,101,METH BIO RSCH II,"Taylor, Eric;Tortell, Philippe",13,83.92,4.82,91,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,2
+UBC,2011,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",30,75.97,6.18,90,61,30,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,7,6,0,2
+UBC,2011,W,EECE,543,,201,SOFTWR PROJ MGMT,"Kruchten, Philippe",23,76.04,5.46,84,64,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,7,0,0
+UBC,2011,W,EOSC,470,,101,BIOLGL OCEANGRHY,"Tortell, Philippe",11,70.73,10.09,90,60,11,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,1,0,2,0,1
+UBC,2011,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",60,71.79,7.17,85,54,56,0,2,0,2,0,0,0,0,0,0,1,1,6,6,11,15,8,5,3,0
+UBC,2011,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",17,77.71,4.22,84,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2,8,0,0
+UBC,2012,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe",16,88.94,2.52,95,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7
+UBC,2012,W,APSC,496,D,001,INTER ENG PRJECT,"Cubbon, Paul;Dahl, Darren;Hodgson, Antony;Kruchten, Philippe",8,90.5,2.14,94,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+UBC,2012,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",39,84.37,5.46,93,75,38,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,13,9,10
+UBC,2012,W,BIOL,347,,201,PRIN&METH RSCH I,"Schulte, Patricia;Tortell, Philippe",19,83.53,5.37,91,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,9,1
+UBC,2012,W,BIOL,447,,101,METH BIO RSCH II,"Taylor, Eric;Tortell, Philippe",15,81.93,3.22,88,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5,0
+UBC,2012,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",49,75.65,8.19,88,50,48,0,0,0,1,0,0,0,0,0,0,2,0,1,4,6,7,8,15,5,0
+UBC,2012,W,EECE,543,,201,SOFTWR PROJ MGMT,"Kruchten, Philippe",24,80.67,5.39,90,68,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,7,5,1
+UBC,2012,W,EOSC,584,A,101,BIOL OCEANOGRPHY,"Tortell, Philippe",6,84.33,3.2,88,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+UBC,2012,W,GEOG,220,,201,GEOPOLITICS,"Kuus, Merje;Le Billon, Philippe",60,70.96,11.7,90,34,51,5,4,0,0,0,0,0,4,1,5,0,0,4,0,12,15,9,9,1,1
+UBC,2012,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",57,74.7,5.59,83,60,50,0,1,0,5,0,0,0,0,0,0,0,0,1,3,13,8,9,16,0,0
+UBC,2012,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",12,79.18,6.74,90,69,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,3,2,1
+UBC,2013,W,APSC,486,,001,NEW VEN DESIGN,"Hodgson, Antony;Kruchten, Philippe",14,81.36,5.39,90,66,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,9,2,1
+UBC,2013,W,APSC,496,D,001,INTER ENG PRJECT,"Hodgson, Antony;Kruchten, Philippe",7,83.57,3.69,90,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1
+UBC,2013,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",275,78.23,13.37,100,0,268,5,2,0,0,1,1,0,3,0,5,8,9,10,13,28,21,23,61,46,49
+UBC,2013,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",216,74.57,13.01,98,13,209,7,0,0,0,0,1,1,2,3,7,10,8,9,16,28,17,38,36,28,19
+UBC,2013,W,EECE,400,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo",7,78,6.53,85,67,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,0
+UBC,2013,W,EECE,409,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",38,80.29,6.14,90,60,38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,8,17,7,1
+UBC,2013,W,EECE,419,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",38,82.84,5.72,93,70,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,10,17,2
+UBC,2013,W,EECE,429,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",60,81.33,7.45,91,41,59,1,0,0,0,0,0,0,0,1,1,0,0,1,0,3,0,8,21,24,2
+UBC,2013,W,EECE,439,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",19,84.95,6.45,96,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,7,4
+UBC,2013,W,EECE,443,,201,SOFT PROJ MGMT,"Kruchten, Philippe",65,76.95,6.95,88,51,63,0,1,0,1,0,0,0,0,0,0,1,1,1,1,6,13,12,21,7,0
+UBC,2013,W,EECE,469,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Botman, Pieter;Cretu, Edmond;Davies, Paul;Kruchten, Philippe;Lusina, Paul;Stocco, Leo;TBA",17,81.82,10.63,89,46,16,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,3,1,11,0
+UBC,2013,W,EECE,490,K,103,TPCS ELEC&CMP I,"Kruchten, Philippe",4,84.25,8.26,90,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1
+UBC,2013,W,EECE,543,,201,SOFTWR PROJ MGMT,"Kruchten, Philippe",19,79.58,6.93,96,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5,3,4,1
+UBC,2013,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",55,73.69,8.25,92,56,54,0,1,0,0,0,0,0,0,0,0,0,2,3,8,10,9,5,12,4,1
+UBC,2013,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",19,76.35,7.22,82,52,17,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,2,6,7,0,0
+UBC,2013,W,GEOG,519,,101,ENV DEV & SECUR,"Le Billon, Philippe",4,85.25,2.36,87,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2014,W,APSC,486,,001,NEW VEN DESIGN,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",21,80.29,3.87,86,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,9,3,0
+UBC,2014,W,APSC,496,D,001,INTER ENG PRJECT,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",6,86,2.76,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2014,W,APSC,496,E,001,INTER ENG PRJECT,"Kruchten, Philippe",9,79.44,3.88,84,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,0,0
+UBC,2014,W,APSC,541,,201,TECH ENT ENGIN,"Cubbon, Paul;Kruchten, Philippe;Miller, David",13,81.08,3.06,86,77,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,2,0
+UBC,2014,W,BAEN,506,,001,ENTR TCH&N-TCH I,"Cubbon, Paul;Kruchten, Philippe;Miller, David",35,81.48,2.75,86,78,33,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,17,6,0
+UBC,2014,W,BAEN,507,,001,ENTR TCH&NTCH II,"Cubbon, Paul;Kruchten, Philippe;Miller, David",35,81.48,2.75,86,78,33,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,17,6,0
+UBC,2014,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",38,83.37,2.89,91,80,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,15,1
+UBC,2014,W,BASM,580,B,001,TPCS STRTGC MNG,"Arrata, Philippe",38,86.16,6.33,96,70,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,9,14,11
+UBC,2014,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",279,81.76,11.27,98,39,271,5,2,0,1,0,0,0,1,4,5,2,8,6,13,13,14,35,41,60,79
+UBC,2014,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",201,77.95,13.6,98,25,185,9,6,0,1,0,0,1,0,8,9,1,8,10,14,13,14,25,28,30,42
+UBC,2014,W,COMM,466,,001,NEW VENTURE DES,"Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",29,82.34,3.68,91,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,13,9,1
+UBC,2014,W,EECE,400,,001,NANTEC & MICRSYS,"Kruchten, Philippe",12,89.5,3.9,95,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7
+UBC,2014,W,EECE,409,,001,CAPSTN DSGN PROJ,"Kruchten, Philippe",63,84.52,6.8,100,69,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,5,13,17,19
+UBC,2014,W,EECE,419,,001,SOFTWARE ENG PRJ,"Kruchten, Philippe",55,86.96,5.87,98,72,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,24,17
+UBC,2014,W,EECE,429,,001,CAPSTN DSGN PROJ,"Kruchten, Philippe",115,86.19,6.59,97,68,114,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,4,6,27,32,40
+UBC,2014,W,EECE,439,,001,BIOMED CPSTN DSN,"Kruchten, Philippe",15,92.2,4.41,100,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11
+UBC,2014,W,EECE,443,,101,SOFT PROJ MGMT,"Kruchten, Philippe",75,77.77,6.86,94,53,75,0,0,0,0,0,0,0,0,0,0,1,0,1,4,6,12,18,24,7,2
+UBC,2014,W,EECE,469,,001,EL ENRG SYST DSN,"Kruchten, Philippe",26,85.2,4.44,94,79,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,10,5
+UBC,2014,W,EECE,543,,101,SOFTWR PROJ MGMT,"Kruchten, Philippe",14,79.07,9.27,90,53,14,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4,4,3,1
+UBC,2014,W,EOSC,584,B,102,BIOL OCEANOGRPHY,"Tortell, Philippe",8,83.8,2.59,87,80,5,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0
+UBC,2014,W,EOSC,595,A,201,DIRECTED STUDIES,"Tortell, Philippe",8,85,0,85,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+UBC,2014,W,GEOG,220,,101,GEOPOLITICS,"Le Billon, Philippe",74,73.89,8.62,91,53,73,0,0,0,1,0,0,0,0,0,0,1,3,5,5,14,11,12,14,5,3
+UBC,2014,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",59,74.91,5.98,86,52,58,0,1,0,0,0,0,0,0,0,0,1,1,0,1,7,21,14,9,4,0
+UBC,2014,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",16,77.21,4.58,85,70,14,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,3,3,5,1,0
+UBC,2015,W,APSC,486,,001,NEW VEN DESIGN,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",32,82.66,3.14,90,77,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,21,5,1
+UBC,2015,W,APSC,496,D,001,INTER ENG PRJECT,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",13,83,1.65,85,80,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0
+UBC,2015,W,APSC,496,E,001,INTER ENG PRJECT,"Kruchten, Philippe",13,82.23,1.59,84,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0,0
+UBC,2015,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",31,81,4.27,90,65,31,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,19,5,1
+UBC,2015,W,BASM,580,B,001,TPCS STRTGC MNG,"Arrata, Philippe",29,85.59,5.18,93,70,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,11,8
+UBC,2015,W,BIOL,260,,201,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",287,77.81,13.27,97,24,275,11,1,0,0,0,0,2,7,2,11,9,4,11,9,27,13,27,61,59,55
+UBC,2015,W,BIOL,260,,202,FUND PHYSIOLOGY,"Schulte, Patricia;Tortell, Philippe",237,74.72,13.28,97,30,225,9,2,0,1,0,0,0,6,3,9,9,10,21,11,22,10,32,40,39,31
+UBC,2015,W,COMM,466,,001,NEW VENTURE DES,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",44,82.6,3.28,89,69,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,32,6,0
+UBC,2015,W,CPEN,421,,201,SOFT PROJ MGMT,"Kruchten, Philippe",67,73.42,8.49,88,39,66,1,0,0,0,0,0,0,1,0,1,1,4,1,1,15,14,15,12,3,0
+UBC,2015,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",41,86.32,5.34,96,69,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,14,12
+UBC,2015,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",37,85.92,5.48,96,73,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,14,9
+UBC,2015,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",89,86.31,5.32,96,63,88,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,30,33,21
+UBC,2015,W,ELEC,492,,001,EL ENRG SYST DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",29,87.32,5.25,95,76,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,10,9
+UBC,2015,W,ELEC,493,,001,NANTEC & MICRSYS,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",8,84.88,5.89,96,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1
+UBC,2015,W,ELEC,494,,001,BIOMED CPSTN DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",13,89.54,4.81,96,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9
+UBC,2016,S,APPP,506,,101,CAPSTONE PROJECT,"Kruchten, Philippe",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,EECE,543,,941,SOFTWR PROJ MGMT,"Kruchten, Philippe",13,82.08,5.66,90,70,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,3,1
+UBC,2016,W,APPP,506,,102,CAPSTONE PROJECT,"Kruchten, Philippe",6,83,2.45,84,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0
+UBC,2016,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",43,79.35,4.8,91,72,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5,14,8,1
+UBC,2016,W,BASM,580,B,001,TPCS STRTGC MNG,"Arrata, Philippe",46,84.85,4.24,91,70,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,15,22,7
+UBC,2016,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",51,83.9,7.3,94,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,6,8,22,10
+UBC,2016,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",37,84.94,5.06,95,75,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10,12,8
+UBC,2016,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",95,84.86,5.82,94,64,95,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,14,19,36,21
+UBC,2016,W,ELEC,492,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",16,87.06,3.66,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4
+UBC,2016,W,ELEC,493,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",6,90.67,3.2,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2016,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",15,87.33,2.5,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,2
+UBC,2016,W,GEOG,329,,101,INTR POLI GEOG,"Le Billon, Philippe",93,74.79,7.26,93,56,91,0,1,0,0,0,0,0,0,0,0,0,1,4,5,21,15,19,18,6,2
+UBC,2016,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",15,77.86,5.57,88,68,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,2,0
+UBC,2017,S,APPP,506,,101,CAPSTONE PROJECT,"Kruchten, Philippe",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EECE,543,,941,SOFTWR PROJ MGMT,"Kruchten, Philippe",11,88,6.05,96,76,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,6
+UBC,2017,W,APPP,506,,102,CAPSTONE PROJECT,"Kruchten, Philippe",4,90,0,90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2017,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",49,81.73,5.35,93,70,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,17,14,5
+UBC,2017,W,BASM,580,B,001,TPCS STRTGC MNG,"Arrata, Philippe",41,84.56,5.78,93,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,10,14,11
+UBC,2017,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",102,84.01,6.27,95,58,102,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,8,8,29,34,20
+UBC,2017,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",6,85.67,5.39,92,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBC,2017,W,EECE,543,,201,SOFTWR PROJ MGMT,"Kruchten, Philippe",19,82.63,9,97,68,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,1,8,4
+UBC,2017,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",110,81.35,8.79,94,42,108,2,0,0,0,0,0,0,0,2,2,1,0,1,3,3,11,10,34,28,17
+UBC,2017,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Yan, Joseph",13,89.31,3.9,94,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9
+UBC,2017,W,EOSC,584,B,001,BIOL OCEANOGRPHY,"Tortell, Philippe",5,68,38.77,95,0,4,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1
+UBC,2017,W,GEOG,329,,101,POLI GEOG,"Le Billon, Philippe",98,75.03,11.3,95,0,93,1,1,0,3,1,0,0,0,0,1,1,3,2,6,14,17,16,20,11,3
+UBC,2017,W,GEOG,390,A,101,SELECTED REGIONS,"Le Billon, Philippe",14,76.86,5.6,86,65,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,2,5,1,0
+UBC,2018,S,APPP,506,,101,CAPSTONE PROJECT,"Kruchten, Philippe",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,BASM,510,,001,CONSULTING SIM,"Arrata, Philippe",15,86.33,4.22,92,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,3
+UBC,2018,W,BASM,523,,001,CONSULT&DECISION,"Arrata, Philippe",29,79.9,4.16,90,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,13,3,1
+UBC,2018,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Nasiopoulos, Panos;Yan, Joseph",106,85.16,5.19,94,67,105,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,33,41,24
+UBC,2018,W,CPEN,523,,201,SOFT PROJ MGMT,"Kruchten, Philippe",14,79.93,6.26,92,70,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,3,1
+UBC,2018,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Nasiopoulos, Panos;Yan, Joseph",111,82.27,6.78,94,55,111,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,3,19,39,27,15
+UBC,2018,W,ELEC,494,,001,BIOMED CPSTN DSN,"Ahmadi, Hamed;Botman, Pieter;Conroy, Patrick;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Nasiopoulos, Panos;Yan, Joseph",16,86.69,4.69,93,81,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,5,5
+UBC,2018,W,GEOG,329,,101,POLI GEOG,"Le Billon, Philippe",100,73.84,8.01,90,53,98,0,1,0,1,0,0,0,0,0,0,1,3,8,5,17,21,16,19,7,1
+UBC,2018,W,GEOG,390,A,101,SELECTED REGIONS,"Le Billon, Philippe",20,73.84,10.43,88,45,18,1,0,0,0,0,0,0,0,1,1,0,1,1,1,2,3,2,7,1,0
+UBC,2018,W,GEOG,496,,101,GEOG OF AFRICA,"Le Billon, Philippe",12,70.75,18.16,91,27,11,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,2,2,2,1

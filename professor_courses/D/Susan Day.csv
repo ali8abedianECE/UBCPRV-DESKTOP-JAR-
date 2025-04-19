@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,UFOR,300,,201,ARBR PRNCPL PRAC,"Croy, Owen;Day, Susan",32,76.88,10.63,98,50,32,0,0,0,0,0,0,0,0,0,0,1,1,2,1,4,3,6,7,4,3,,,
+UBC,2018,W,UFOR,400,,201,UFOR FIELD SCHL,"Day, Susan;Pickell, Paul",27,81.07,4.85,91,71,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,11,3,2,,,
+UBCV,2018,W,UFOR,300,,201,Arboriculture Principles and Practice,Owen Croy;Susan Day;Zacharyjohn Edward Wirtz,32,76.875,10.630904432,98.0,50.0,,,,,,,,,,,0,1,1,2,1,4,3,6,7,4,3,,,
+UBCV,2018,W,UFOR,400,,201,Urban Forestry Field School,Cecil Konijnendijk;Paul Drew Pickell;Paul Pickell;Sara Fryer;Susan Day,27,81.074074074,4.851057981,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,9,11,3,2,,,
+UBCV,2019,W,UFOR,300,,201,Arboriculture Principles and Practice,Laura Grant;Owen Croy;Susan Day,43,80.279069767,7.512927213,93.0,66.0,,,,,,,,,,,0,0,0,0,3,3,6,7,11,7,6,,,
+UBCV,2019,W,UFOR,401,,201,Integrated Urban Forestry Capstone Studio,Amy Blood;Andrew Almas;Corinne Bassett;Corinne Grunder Bassett;Paul De Greeff;Stephen Sheppard;Susan Day,27,82.777777778,4.526276559,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,11,10,1,,,
+UBCV,2020,W,UFOR,300,,101,Arboriculture Principles and Practice,Corinne Bassett;Eric Schietekat Sedas;Owen Croy;Susan Day,57,76.122807018,13.477587448,100.0,36.0,,,,,,,,,,,2,2,2,3,5,6,4,5,11,10,7,,,
+UBCV,2020,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Daniel Sax;Kaitlyn Pike;Laura Grant;Susan Day,55,82.563636364,13.539740733,97.0,0.0,,,,,,,,,,,1,0,0,1,1,1,1,12,7,18,13,,,
+UBCV,2020,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Amy Blood;Andrew Almas;Kaitlyn Pike;Susan Day,53,77.528301887,13.896047824,92.0,0.0,,,,,,,,,,,1,2,0,1,0,4,6,11,14,9,5,,,
+UBCV,2020,W,UFOR,449,B,101,Directed Studies in Urban Forestry,Andrew Almas;Corinne Bassett;Daniel Sax;Laura Grant;Susan Day,46,82.108695652,6.760106051,93.0,52.0,,,,,,,,,,,0,1,0,0,0,1,2,7,17,13,5,,,
+UBCV,2021,W,UFOR,300,,101,Arboriculture Principles and Practice,Jessica Quinton;Kaitlyn Pike;Owen Croy;Susan Day;Ziyun Zeng,45,78.777777778,9.234049857,96.0,54.0,,,,,,,,,,,0,1,1,1,3,2,6,8,8,11,4,,,
+UBCV,2021,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Chanel Yee;Daniel Sax;Kaitlyn Pike;Laura Grant;Susan Day;Tahia Devisscher,51,82.156862745,5.416170415,92.0,71.0,,,,,,,,,,,0,0,0,0,0,2,3,12,12,17,5,,,
+UBCV,2021,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Angela Rout;Emily Tu;Kaitlyn Pike;Melissa Mchale;Susan Day;Yaying Zhou,53,92.41509434,4.546486227,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,4,47,,,
+UBCV,2021,W,UFOR,420,,101,Ecology of Urban Green Infrastructure,Susan Day,16,89.1875,7.858912138,96.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,1,12,,,
+UBCV,2021,W,UFOR,300,,101,Arboriculture Principles and Practice,Owen Croy;Susan Day,45,78.8,,96.0,54.0,,,,,,,,,,,,,,,,,6,8,8,11,,80.0,86.0,75.0
+UBCV,2021,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Susan Day;Tahia Devisscher,51,82.2,,92.0,71.0,,,,,,,,,,,,,,,,,,12,12,17,,82.0,86.5,78.0
+UBCV,2021,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Susan Day;Melissa Mchale;Angela Rout,53,92.4,,98.0,68.0,,,,,,,,,,,,,,,,,,,,,47,94.0,95.0,91.0
+UBCV,2021,W,UFOR,420,,101,Ecology of Urban Green Infrastructure,Susan Day,16,89.2,,96.0,64.0,,,,,,,,,,,,,,,,,,,,,12,92.0,93.0,88.8
+UBCV,2022,W,UFOR,300,,101,Arboriculture Principles and Practice,Owen Croy;Susan Day,45,81.1,,98.0,53.0,,,,,,,,,,,0,1,0,1,3,3,3,3,10,16,5,84.0,88.0,76.0
+UBCV,2022,W,UFOR,420,,101,Ecology of Urban Green Infrastructure,Susan Day,16,87.4,,95.0,63.0,,,,,,,,,,,0,0,0,1,0,1,0,0,0,5,9,90.5,92.0,86.8

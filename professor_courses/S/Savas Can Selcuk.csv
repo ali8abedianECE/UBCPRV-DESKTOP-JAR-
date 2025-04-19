@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MATH,253,,102,MULTIVRBL CALC,"Selcuk, Savas Can",116,71.38,12.09,93,0,111,2,3,0,0,1,0,0,1,0,2,8,4,8,10,16,25,14,15,8,3
+UBC,2018,W,MATH,253,,102,MULTIVRBL CALC,"Selcuk, Savas Can",121,70.72,13.1,98,11,112,6,1,0,2,0,1,1,2,2,6,3,7,12,10,17,18,14,21,5,5
+UBCV,2017,W,MATH,253,,102,Multivariable Calculus,Colin Macdonald;Daniel Gomez;Nicholas Lai;Savas Can Selcuk,113,71.380530973,12.08992983,93.0,0.0,,,,,,,,,,,2,8,4,8,10,16,25,14,15,8,3
+UBCV,2018,W,MATH,253,,102,Multivariable Calculus,Betty Cai;Federico Scavia;Jonathan Zhang;Savas Can Selcuk;Yitong Sun,119,70.613445378,13.098136265,98.0,11.0,,,,,,,,,,,6,3,8,12,10,17,18,14,21,5,5
+UBCV,2019,W,MATH,253,,105,Multivariable Calculus,Eric Rozon;Jim Bryan;Jun Jie Jameson Zhu;Jun Jie Zhu;Savas Can Selcuk,121,66.090909091,13.756816492,96.0,3.0,,,,,,,,,,,6,8,19,16,15,18,10,14,5,7,3

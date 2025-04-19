@@ -1,0 +1,60 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",28,81.65,7.01,94,68,26,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,3,6,4,7,4,,,
+UBC,2012,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",22,86.27,6.8,94,60,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,11,7,,,
+UBC,2012,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",17,78,14.98,89,35,10,1,6,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,4,3,0,,,
+UBC,2012,W,DHYG,405,,99C,ORAL MICR&IMMUN,"Najar, Hossain",14,87.1,5.8,94,75,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,4,,,
+UBC,2013,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",30,73.79,15.74,94,37,26,3,0,0,1,0,0,0,1,2,3,3,0,0,0,2,5,5,4,4,3,,,
+UBC,2013,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",18,85.88,4.74,94,76,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,10,3,,,
+UBC,2013,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",16,81,21.99,96,0,15,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,3,8,3,,,
+UBC,2013,W,DHYG,405,,99C,ORAL MICR&IMMUN,"Najar, Hossain",17,84.27,5.5,92,73,15,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,4,,,
+UBC,2014,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",27,85.04,12.53,96,27,26,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2,6,9,9,,,
+UBC,2014,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",20,85.35,4.99,93,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,10,4,,,
+UBC,2014,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",12,79.1,6.89,91,69,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,1,1,,,
+UBC,2015,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",29,84.71,6.49,96,69,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,9,7,7,,,
+UBC,2015,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",25,81.92,6.22,92,69,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,7,6,3,,,
+UBC,2015,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",16,83.8,3.1,89,79,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,7,0,,,
+UBC,2016,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",24,85.25,7.47,94,64,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,5,7,7,,,
+UBC,2016,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",22,82.45,7.45,96,67,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,4,6,4,,,
+UBC,2016,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",10,83.5,3.37,91,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,1,1,,,
+UBC,2017,W,DENT,544,,001,OR MICROBI&IMMUN,"Najar, Hossain",13,91,1.35,94,90,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,,,
+UBC,2017,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",22,83.77,7.52,95,60,22,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,7,8,3,,,
+UBC,2017,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",10,85.3,4.64,91,79,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,3,,,
+UBC,2018,W,DHYG,106,,001,ORAL MICROBIOLOG,"Najar, Hossain",26,88.65,6.36,96,69,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,4,15,,,
+UBC,2018,W,DHYG,405,,001,ORAL MICR&IMMUN,"Najar, Hossain",26,84.65,7.47,95,69,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,3,7,8,,,
+UBC,2018,W,DHYG,405,,99A,ORAL MICR&IMMUN,"Najar, Hossain",12,80.33,3.37,85,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,1,0,,,
+UBCV,2014,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,27,85.03703704,12.52530203,96.0,27.0,,,,,,,,,,,,,,,,,,,6,9,9,,,
+UBCV,2014,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,20,85.35,4.987088593,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,10,,,,
+UBCV,2014,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,10,79.1,6.887186169,91.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,1,,,,
+UBCV,2015,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,28,84.714285714,6.485637368,96.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,9,7,7,,,
+UBCV,2015,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,25,81.92,6.224414296,92.0,69.0,,,,,,,,,,,0,0,0,0,0,,,5,7,6,,,,
+UBCV,2015,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,16,81.9375,8.028854215,89.0,54.0,,,,,,,,,,,0,,,,,,,1,7,7,0,,,
+UBCV,2016,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,24,85.25,7.47314031,94.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,4,5,7,7,,,
+UBCV,2016,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,22,82.45454546,7.44968694,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,4,3,4,6,4,,,
+UBCV,2016,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,10,83.5,3.374742789,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,1,1,,,
+UBCV,2017,W,DENT,544,,001,Oral Microbiology and Immunology,Hossain Najar,13,91.0,1.354006401,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCV,2017,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,25,83.28,11.893695809,96.0,51.0,,,,,,,,,,,0,,,,,1,1,2,7,3,9,,,
+UBCV,2017,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,22,83.772727273,7.520966365,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,2,7,8,3,,,
+UBCV,2017,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,10,85.3,4.643992535,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,2,3,,,
+UBCV,2018,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar;Lari Hakkinen,26,88.653846154,6.355736355,96.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,4,15,,,
+UBCV,2018,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,26,84.653846154,7.466952833,95.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,5,3,7,8,,,
+UBCV,2018,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,12,80.333333333,3.366501646,85.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,6,1,0,,,
+UBCV,2019,W,DENT,544,,001,Oral Microbiology and Immunology,Hossain Najar,12,91.083333333,1.621353718,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,10,,,
+UBCV,2019,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar;Leeann Donnelly,25,88.48,6.789207121,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,4,6,13,,,
+UBCV,2019,W,DHYG,405,,001,Oral Microbiology and Immunology,Carrie Krekoski;Hossain Najar,22,84.772727273,9.097000124,97.0,66.0,,,,,,,,,,,0,0,0,0,1,2,2,1,3,4,9,,,
+UBCV,2019,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,18,79.277777778,5.528594711,89.0,69.0,,,,,,,,,,,0,0,0,0,0,1,4,5,3,5,0,,,
+UBCV,2019,W,DHYG,406,,001,Guided Study in Dental Hygiene,Batoul Shariati;Carrie Krekoski;Denise Laronde;Hossain Najar;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji,8,90.625,1.597989809,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2020,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,23,89.217391304,7.310991238,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,0,0,7,14,,,
+UBCV,2020,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,23,88.434782609,4.708079004,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,10,9,,,
+UBCV,2020,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,17,79.294117647,20.879908722,91.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,2,7,4,3,,,
+UBCV,2021,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,22,89.454545455,5.324939282,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,12,,,
+UBCV,2021,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,7,88.714285714,3.728908943,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,4,,,
+UBCV,2021,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,25,84.2,,97.0,52.0,,,,,,,,,,,,,,,,,,,,,11,87.0,93.0,80.0
+UBCV,2021,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,20,84.7,,93.0,61.0,,,,,,,,,,,,,,,,,,,7,6,,85.0,89.3,83.0
+UBCV,2021,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,22,89.5,,98.0,81.0,,,,,,,,,,,,,,,,,,,,,12,90.5,93.8,85.0
+UBCV,2022,W,DENT,420,,001,Dentistry II: Basic Clinical Dentistry,Jolanta Aleksejuniene;Fernanda Almeida;Nancy Black;Marilyn Blondahl;Dieter Bromme;Mario Brondani;S Bryant;David Buckles;Babak Chehroudi;Vivian Chow;Philip Crowell;Leeann Donnelly;Nirpjit Dosanjh;Luana Dutra de Carvalho;Jodi Ekk;Lamia El-Adwar;Ingrid Emanuels;Andrea Esteves;Rahil Faruqi;Michael Flunkert;Menachem Fogelman;Nancy Ford;Zahra Forghani;Maria Isabel Garcia Fulle de Owen;Salem Ghrebi;Richard Gilsig;Markus Haapasalo;Lari Hakkinen;Penny Hatzimanolakis;Salha Hawew;Ahmed Hieawy;Pawel Kindler;Carrie Krekoski;Hannu Larjava;Vincent Lee;David MacDonald;Linda Martens;Kavita Mathu-Muju;Ian Matthew;Anthony McCullagh;Lauren Milchman;Peter Murphy;Hossain Najar;Christopher Mark Overall;Hin Chung Pau;Anna Preis;Birinder Purewal;Edward Putnins;Asa Quon;Sabina Reitzik;Joy Marion Richman;N Dorin Ruse;Susan Schmitz;Charles Shuler;Rafat Sobouti;Shimae Soheilipour;Rana Tarzemany;Charlene Thiessen;David Tobias;Hsingchi von Bergmann;Siddharth Vora;Eli Whitney;Ellen Wu;Sepehr Zahedi;Lewei Zhang,57,81.4,,91.0,22.0,,,,,,,,,,,3,0,0,0,0,0,0,10,19,22,3,83.0,86.0,80.0
+UBCV,2022,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,23,82.7,,98.0,54.0,,,,,,,,,,,1,0,0,1,2,2,2,0,3,2,10,86.0,95.0,72.5
+UBCV,2022,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,18,84.7,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,11,1,85.5,88.0,81.3
+UBCV,2022,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,25,82.8,,97.0,60.0,,,,,,,,,,,0,0,0,2,0,1,4,2,4,5,7,84.0,90.0,75.0
+UBCV,2023,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,26,85.15,,97.0,58.0,,,,,,,,,,,1,0,0,0,0,1,2,1,4,9,8,85.5,92.5,82.25
+UBCV,2023,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,26,85.15,,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,3,8,8,6,86.0,89.0,81.25
+UBCV,2023,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,23,90.22,,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,14,91.0,94.0,88.0

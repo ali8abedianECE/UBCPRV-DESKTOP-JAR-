@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,PHIL,385,A,001,Existentialism,Phyllis Pearson;Steven Taubeneck,77,79.05194805,4.160895981,88.0,70.0,0,0,0,0,0,3,15,20,31,8,0,,,
+UBCV,2016,W,PHIL,385,A,002,Existentialism,Phyllis Pearson;Steven Taubeneck,54,78.42592593,6.023857762,90.0,51.0,0,1,0,0,2,1,7,14,23,5,1,,,
+UBCV,2017,W,PHIL,102,,003,Introduction to Philosophy II,Christina Hendricks;Jade Hadley;Jeremy Dawson;Phyllis Pearson,112,65.821428571,17.378776684,90.0,0.0,8,10,7,10,17,12,19,9,12,7,1,,,
+UBCV,2017,W,PHIL,230,,001,Introduction to Ethics,Jade Hadley;Matthew Bedke;Phyllis Pearson,76,71.828947368,10.99865223,87.0,20.0,3,1,0,3,10,16,14,12,14,3,0,,,
+UBCV,2017,W,PHIL,230,,002,Introduction to Ethics,Jade Hadley;Matthew Bedke;Phyllis Pearson,74,69.554054054,12.41976098,83.0,4.0,4,2,0,2,11,17,19,10,9,0,0,,,
+UBCV,2018,W,PHIL,240,,001,Introduction to Epistemology,Christopher Stephens;Graham Moore;Graham Seth Moore;Jeremy Dawson;Jonathan Ichikawa;Phyllis Pearson,99,74.888888889,10.932901933,93.0,39.0,3,4,3,3,6,10,14,18,20,12,6,,,
+UBCV,2018,W,PHIL,339,,001,Philosophy of Art,David Friedell;David J Friedell;Phyllis Pearson,55,74.763636364,13.283188535,91.0,18.0,2,1,0,4,3,6,8,5,19,5,2,,,
+UBCV,2019,W,PHIL,100,,001,Introduction to Philosophy,Dominic Lopes;Ori Simchen;Phyllis Pearson;Serban Dragulin,90,74.822222222,13.64359979,96.0,0.0,3,0,2,11,6,7,13,15,14,9,10,,,
+UBCV,2019,W,PHIL,220,,005,Symbolic Logic,Chase Dority;Jonathan Ichikawa;Phyllis Pearson,119,80.957983193,13.022402443,100.0,0.0,1,1,5,3,4,9,9,8,22,28,29,,,
+UBCV,2020,S,PHIL,230,,901,Introduction to Ethics,Doran Smolkin;Phyllis Pearson,38,79.0,7.5908907,93.0,58.0,0,0,1,1,1,2,6,7,10,9,1,,,
+UBCV,2020,W,PHIL,100,,001,Introduction to Philosophy,Anders Kraal;Dominic Lopes;Jade Hadley;Ori Simchen;Phyllis Pearson,105,72.352380952,11.875136398,91.0,20.0,4,1,3,9,10,13,21,18,13,10,3,,,
+UBCV,2021,S,PHIL,120,,002,Introduction to Critical Thinking,Phyllis Pearson,22,78.181818182,8.995429335,91.0,60.0,0,0,0,2,1,2,5,1,4,6,1,,,
+UBCV,2021,W,PHIL,333,A,005,Bio-Medical Ethics,Phyllis Pearson,42,76.142857143,7.151910639,91.0,56.0,0,0,1,0,4,6,8,8,9,5,1,,,
+UBCV,2021,S,PHIL,120,,002,Introduction to Critical Thinking,Phyllis Pearson,22,78.2,,91.0,60.0,,,,,,,,,,6,,79.5,85.0,73.0
+UBCV,2021,W,PHIL,333,A,005,Bio-Medical Ethics,Phyllis Pearson,42,76.1,,91.0,56.0,,,,,,6,8,8,9,,,76.0,80.8,71.3

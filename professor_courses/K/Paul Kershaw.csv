@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,INDS,530,A,004,DIRECTED STUDIES,"Kershaw, Paul",4,77.75,11.64,91,63,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,,,
+UBC,2005,W,POLI,328,B,002,COMPARATIVE POLI,"Kershaw, Paul",59,67.12,16.78,90,0,55,4,0,0,0,2,0,0,1,1,4,3,4,6,6,10,9,9,1,6,1,,,
+UBC,2006,W,POLI,348,,001,THRY&PUBL POLICY,"Kershaw, Paul",55,67.85,18.64,98,0,46,7,2,0,0,1,0,1,3,2,7,1,5,1,8,6,7,3,5,5,5,,,
+UBC,2007,W,POLI,348,,001,THRY&PUBL POLICY,"Kershaw, Paul",54,65.78,17.42,98,20,48,6,0,0,0,0,0,2,1,3,6,7,5,7,5,6,4,2,3,2,7,,,
+UBC,2009,W,POLI,348,,001,THRY&PUBL POLICY,"Kershaw, Paul",51,67,21.54,95,0,42,8,1,0,0,1,0,3,1,3,8,5,3,2,4,3,2,3,8,6,6,,,
+UBC,2010,W,SPPH,544,,002,SOC DET POP HLTH,"Kershaw, Paul;Poon, Brenda",5,83.5,5.07,88,77,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,,,
+UBC,2015,W,SPPH,581,N,002,SELECTED TOPICS,"Kershaw, Paul",5,83.2,7.26,92,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,,,
+UBC,2016,S,SPPH,200,,901,SOCIOCULT DETERM,"Kershaw, Paul",34,78.12,10.01,93,56,34,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,5,6,3,8,5,,,
+UBC,2016,W,SPPH,581,N,001,SELECTED TOPICS,"Kershaw, Paul",11,83.6,6.52,92,69,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,4,2,,,
+UBC,2017,S,SPPH,200,,901,SOCIOCULT DETERM,"Kershaw, Paul",22,80.05,9.8,97,57,22,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,3,4,7,3,,,
+UBC,2017,W,SPPH,581,N,001,SELECTED TOPICS,"Kershaw, Paul",10,82.1,8.58,90,63,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,3,2,,,
+UBC,2018,S,SPPH,301,,901,SOCIOCULT DETERM,"Kershaw, Paul",41,75.88,6.08,91,59,40,0,1,0,0,0,0,0,0,0,0,0,1,1,1,3,11,13,8,0,2,,,
+UBC,2018,W,SPPH,581,N,001,SELECTED TOPICS,"Kershaw, Paul",7,83.86,4.95,90,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,,,
+UBCV,2015,W,SPPH,581,N,002,Selected Topics,Paul Kershaw,5,83.2,7.259476565,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2016,S,SPPH,200,,901,Understanding the Sociocultural Determinants of the Health of Populations,Andrew Leyland;Andrew Nicholas Leyland;Paul Kershaw,34,78.11764706,10.00534617,93.0,56.0,,,,,,,,,,,0,0,1,3,2,1,5,6,3,8,5,,,
+UBCV,2016,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,10,83.6,6.518350166,92.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,4,2,,,
+UBCV,2017,S,SPPH,200,,901,Understanding the Sociocultural Determinants of the Health of Populations,Andrew Leyland;Andrew Nicholas Leyland;Paul Kershaw,22,80.045454545,9.800278289,97.0,57.0,,,,,,,,,,,0,0,1,1,0,2,1,3,4,7,3,,,
+UBCV,2017,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,10,82.1,8.582281489,90.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,0,3,3,2,,,
+UBCV,2018,S,SPPH,301,,901,Understanding the Sociocultural Determinants of the Health of Populations,Andrew Leyland;Paul Kershaw,40,75.875,6.081445088,91.0,59.0,,,,,,,,,,,0,0,1,1,1,3,11,13,8,0,2,,,
+UBCV,2018,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,7,83.857142857,4.947341759,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,3,1,,,
+UBCV,2019,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,14,84.571428571,5.373929743,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,7,3,,,
+UBCV,2020,W,SPPH,581,N,001,Selected Topics,Paul Kershaw;Verena Birgit Rossa-Roccor,13,81.923076923,4.29071747,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,3,1,,,
+UBCV,2021,W,SPPH,581,N,001,Selected Topics,Paul Kershaw;Pj Rayner,19,81.894736842,6.367406038,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,1,5,5,3,,,
+UBCV,2021,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,19,81.9,,93.0,73.0,,,,,,,,,,,,,,,,,,,,,,82.0,86.5,75.0
+UBCV,2022,W,SPPH,581,N,001,Selected Topics,Paul Kershaw,23,81.1,,93.0,53.0,,,,,,,,,,,1,0,0,0,1,0,2,1,10,4,4,83.0,85.0,80.0
+UBCV,2022,W,SPPH,581,Y,BL1,Selected Topics,Peter Berman;Charlyn Black;Milind Kandlikar;Paul Kershaw;Steven Morgan;Veena Sriram;Daniel Vigo,11,97.6,,100.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,98.0,99.0,96.5
+UBCV,2023,W,SPPH,548,,001,Knowledge to Action in Population Health,Paul Kershaw,24,83.5,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,9,2,83.0,85.5,80.0

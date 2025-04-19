@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,RHSC,501,,006,EVIDNC FOR PRACT,"Mortenson, Patricia",7,84.71,5.5,93,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1
+UBC,2015,W,RHSC,501,,006,EVIDNC FOR PRACT,"Davidson, Katherine;Mortenson, Patricia",9,84.5,4.24,91,78,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1
+UBC,2017,W,RHSC,500,,001,ADV CONC REHB RS,"Mortenson, Patricia;Toal-Sullivan, Darene",7,89.43,2.94,92,84,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2017,W,RHSC,501,,006,EVIDNC FOR PRACT,"Gillan, Roslyn;Mortenson, Patricia",13,84.73,5.85,94,74,11,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,3
+UBC,2018,W,RHSC,501,,006,EVIDNC FOR PRACT,"Mortenson, Patricia",9,85.33,5.05,93,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2
+UBCV,2014,W,RHSC,501,,006,Evidence for Practice,Patricia Mortenson,7,84.71428571,5.498917642,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,RHSC,501,,006,Evidence for Practice,Katherine Davidson;Patricia Mortenson,8,84.5,4.242640687,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,3,
+UBCV,2017,W,RHSC,500,,001,Advanced Concepts for Rehabilitation Research,Darene Toal-Sullivan;Patricia Mortenson,7,89.428571429,2.935821456,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,3
+UBCV,2017,W,RHSC,501,,006,Evidence for Practice,Katherine Davidson;Patricia Mortenson;Roslyn Gillan,11,84.727272727,5.849630913,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,3,3
+UBCV,2017,W,RHSC,502,,001,Rehabilitation Theory,Liisa Holsti;Naznin Virji-Babul;Patricia Mortenson,6,89.666666667,8.33466656,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,3
+UBCV,2018,W,RHSC,501,,001,Evidence for Practice,Alexander Scott;Katherine Davidson;Patricia Mortenson;William Mortenson,17,81.117647059,5.743282521,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,1,5,5,1
+UBCV,2018,W,RHSC,501,,006,Evidence for Practice,Patricia Mortenson;Roslyn Gillan,9,85.333333333,5.049752469,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,3,2
+UBCV,2019,W,RHSC,501,,001,Evidence for Practice,Katherine Davidson;Leslie Duran;Patricia Mortenson;William Mortenson,10,86.1,8.359292899,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,2,4
+UBCV,2019,W,RHSC,501,,006,Evidence for Practice,Jasmin Ma;Patricia Mortenson;Roslyn Gillan,9,72.0,29.457596643,94.0,16.0,,,,,,,,,,,2,0,0,0,0,0,0,2,0,3,2
+UBCV,2020,W,RHSC,501,,001,Evidence for Practice,Katherine Davidson;Patricia Mortenson;William Mortenson,9,85.777777778,4.969350505,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,5,2
+UBCV,2020,W,RHSC,501,,002,Evidence for Practice,Patricia Mortenson,11,83.818181818,7.560663752,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,2,2,1,4
+UBCV,2020,W,RHSC,501,,006,Evidence for Practice,Patricia Mortenson,7,87.571428571,2.6367368,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,2

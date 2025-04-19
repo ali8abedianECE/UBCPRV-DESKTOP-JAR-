@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CEEN,523,,003,ENERGY&ENVIRNMNT,"Clift, Roland",37,78.75,6.04,92,63,36,0,0,1,0,0,0,0,0,0,0,0,0,1,0,4,5,9,12,4,1
+UBC,2018,W,CEEN,523,,201,ENERGY&ENVIRNMNT,"Clift, Roland",31,80.29,5.69,91,68,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,8,5,9,1
+UBCV,2017,W,CEEN,523,,003,Energy and the Environment,Haoqi Wang;Roland Clift;Xiaotao Bi,36,78.75,6.044477999,92.0,63.0,,,,,,,,,,,0,0,0,1,0,4,5,9,12,4,1
+UBCV,2018,W,CEEN,523,,201,Energy and the Environment,Pegah Zarei;Roland Clift,31,80.290322581,5.693233108,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,7,8,5,9,1
+UBCV,2019,W,CEEN,523,,201,Energy and the Environment,David Wilkinson;Roland Clift;Xiaotao Bi,19,80.052631579,7.633796814,90.0,60.0,,,,,,,,,,,0,0,0,1,0,1,2,3,5,6,1
+UBCV,2019,W,CEEN,525,,101,Energy Policy,Amanda Giang;Bassam Javed;Roland Clift,24,85.833333333,3.749396087,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,10,4
+UBCV,2020,W,CEEN,523,,201,Energy and the Environment,Hui Zhu;Roland Clift;Xiaotao Bi,20,82.25,4.700223959,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,3,10,4,2

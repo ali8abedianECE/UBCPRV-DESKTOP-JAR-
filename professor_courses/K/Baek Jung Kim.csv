@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim,44,77.386363636,5.113665727,87.0,68.0,0,0,0,0,0,6,11,10,12,5,0,,,
+UBCV,2019,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim,42,77.357142857,7.361141973,89.0,60.0,0,0,0,2,2,3,10,8,9,8,0,,,
+UBCV,2019,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim,40,77.775,6.734859563,89.0,64.0,0,0,0,0,2,6,8,8,5,11,0,,,
+UBCV,2020,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim;Lydia Yoon;Oliver Mueller;Toorjo Mishra,41,76.219512195,6.330529974,87.0,60.0,0,0,0,2,3,2,11,8,12,3,0,,,
+UBCV,2020,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim;Lydia Yoon;Oliver Mueller;Toorjo Mishra,42,80.642857143,4.853067567,89.0,61.0,0,0,0,1,0,1,2,9,19,10,0,,,
+UBCV,2020,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim;Lydia Yoon;Oliver Mueller;Toorjo Mishra,43,77.162790698,6.5644433,88.0,60.0,0,0,0,3,0,4,8,6,15,7,0,,,
+UBCV,2021,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim;Dimitri Antonio Nitsopoulos;Gurkiran Dhatt;Hyun Kyung Ju;Jennifer Shen;Kris Yu;Lydia Yoon;Suzanne Pang,33,76.333333333,6.188026072,87.0,63.0,0,0,0,1,2,5,5,9,9,2,0,,,
+UBCV,2021,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim;Dimitri Antonio Nitsopoulos;Gurkiran Dhatt;Hyun Kyung Ju;Jennifer Shen;Kris Yu;Lydia Yoon;Suzanne Pang,41,81.43902439,4.733121488,91.0,70.0,0,0,0,0,0,1,3,9,15,11,2,,,
+UBCV,2021,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim;Dimitri Antonio Nitsopoulos;Gurkiran Dhatt;Hyun Kyung Ju;Jennifer Shen;Kris Yu;Lydia Yoon;Suzanne Pang,40,78.625,5.731995223,90.0,66.0,0,0,0,0,2,3,6,7,15,6,1,,,
+UBCV,2021,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim,33,76.3,,87.0,63.0,,,,,,,,9,9,,,76.0,81.0,72.0
+UBCV,2021,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim,41,81.4,,91.0,70.0,,,,,,,,9,15,11,,81.0,85.0,78.0
+UBCV,2021,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim,40,78.6,,90.0,66.0,,,,,,,6,7,15,6,,80.0,82.3,75.0
+UBCV,2022,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim,39,76.1,,90.0,63.0,0,0,0,1,4,9,2,8,11,3,1,79.0,81.0,70.0
+UBCV,2022,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim,43,80.0,,88.0,70.0,0,0,0,0,0,2,6,9,17,9,0,80.0,83.5,77.0
+UBCV,2022,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim,43,78.2,,87.0,60.0,0,0,0,1,0,5,5,10,16,6,0,80.0,82.0,75.5
+UBCV,2023,W,COMM,363,,201,Marketing Analysis,Baek Jung Kim,27,72.6,,87.0,28.0,1,0,0,3,4,5,1,4,5,4,0,74.0,83.0,67.0
+UBCV,2023,W,COMM,363,,202,Marketing Analysis,Baek Jung Kim,43,78.3,,89.0,67.0,0,0,0,0,1,5,9,9,13,6,0,78.0,82.0,74.0
+UBCV,2023,W,COMM,363,,203,Marketing Analysis,Baek Jung Kim,43,74.3,,84.0,62.0,0,0,0,2,5,4,11,12,9,0,0,75.0,78.5,71.5

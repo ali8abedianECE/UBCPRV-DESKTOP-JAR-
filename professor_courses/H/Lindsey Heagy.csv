@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Douglas Oldenburg;Lindsey Heagy;Michael Mitchell;Sarah Devriese;Seogi Kang;Thibaut Astic,60,77.016666667,9.263545587,90.0,34.0,,,,,,,13,12,13,10,,,,
+UBCV,2021,W,DSCI,100,,002,Introduction to Data Science,Eros Shinji Rojas Velez;Jingxin Lei;Jonathan Yu;Lindsey Heagy;Melissa Lee;Mohammad Amin Roohi;Rachel Lee;Yilin Yang;Zhonghao Yang,170,85.135294118,12.643001721,99.0,16.0,4,0,1,2,2,5,6,14,18,44,74,,,
+UBCV,2021,W,DSCI,100,,002,Introduction to Data Science,Lindsey Heagy;Melissa Lee,169,85.5,,99.0,16.0,,,,,,,7,14,18,44,74,89.0,92.0,82.0
+UBCV,2021,W,EOSC,595,F,201,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,8,92.0,,96.0,86.0,,,,,,,,,,,6,92.5,93.8,91.0
+UBCV,2022,W,DSCI,100,,100,Introduction to Data Science,Lindsey Heagy;Melissa Lee;Rodolfo Lourenzutti,67,81.9,,100.0,36.0,2,0,3,2,0,2,3,9,7,24,15,85.0,89.0,78.5
+UBCV,2022,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Lindsey Heagy,35,78.1,,92.0,54.0,0,1,1,1,0,8,3,5,5,5,6,79.0,87.5,70.5
+UBCV,2022,W,EOSC,595,F,104,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,9,87.2,,95.0,77.0,0,0,0,0,0,0,0,2,0,4,3,88.0,91.0,87.0
+UBCV,2023,W,DSCI,100,,007,Introduction to Data Science,Eldad Haber;Lindsey Heagy;Yitong Liu,163,76.1,,98.0,0.0,5,3,3,6,11,19,15,25,25,26,18,78.0,85.0,69.0
+UBCV,2023,W,DSCI,100,,100,Introduction to Data Science,Eldad Haber;Lindsey Heagy,67,81.4,,98.0,8.0,3,0,0,1,4,6,2,4,8,14,23,88.0,91.0,76.0
+UBCV,2023,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Lindsey Heagy,29,82.4,,97.0,58.0,0,0,1,0,0,2,4,3,7,5,7,84.0,89.0,76.0
+UBCV,2023,W,EOSC,556,B,201,Studies in Applied Geophysics,Lindsey Heagy,10,90.4,,98.0,72.0,0,0,0,0,0,0,1,0,1,0,5,94.0,96.5,88.0
+UBCV,2023,W,EOSC,584,B,201,Topics in Biological Oceanography,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,8,85.1,,92.0,77.0,0,0,0,0,0,0,0,1,3,2,2,85.0,87.0,83.0

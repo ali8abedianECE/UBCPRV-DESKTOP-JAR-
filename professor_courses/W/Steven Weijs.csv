@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,CIVL,418,,101,ENG HYDROLOGY,"Weijs, Steven",75,84.78,9.88,100,46,73,1,0,1,0,0,0,0,0,1,1,0,0,1,2,3,6,7,8,19,27,,,
+UBC,2016,S,CIVL,598,G,941,TPCS IN CIVL ENG,"Weijs, Steven",9,88,3.39,93,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,,,
+UBC,2016,S,IWME,502,,941,ENG HYDROLOGY,"Weijs, Steven",9,84.22,6.53,91,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,5,1,,,
+UBC,2016,W,CIVL,316,,201,OPEN CHNL HYDRAL,"Weijs, Steven;Yonemitsu, Noboru",205,76.54,8.79,94,45,203,2,0,0,0,0,0,0,0,2,2,1,6,8,16,14,31,46,50,20,11,,,
+UBC,2016,W,CIVL,418,,101,ENG HYDROLOGY,"Cathcart, Jaime;Martin, Violeta;Weijs, Steven",87,77.43,9.03,95,55,87,0,0,0,0,0,0,0,0,0,0,0,2,5,11,5,8,16,17,19,4,,,
+UBC,2017,S,CIVL,598,G,941,TPCS IN CIVL ENG,"Weijs, Steven",4,85.5,5,92,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,,,
+UBC,2017,S,IWME,502,,941,ENG HYDROLOGY,"Weijs, Steven",4,83.75,5.68,88,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,,,
+UBC,2017,W,CIVL,418,,101,ENG HYDROLOGY,"Weijs, Steven",64,75.52,11.46,99,53,64,0,0,0,0,0,0,0,0,0,0,2,6,6,2,7,7,9,10,6,9,,,
+UBC,2017,W,CIVL,598,I,201,TPCS IN CIVL ENG,"Weijs, Steven",4,83.33,4.16,88,80,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,,,
+UBC,2018,S,IWME,502,,941,ENG HYDROLOGY,"Weijs, Steven",15,83.27,5.43,90,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,5,1,,,
+UBC,2018,W,CIVL,418,,101,ENG HYDROLOGY,"Weijs, Steven",88,76.66,12.12,99,39,86,1,0,1,0,0,0,0,1,0,1,4,1,6,7,10,8,13,17,4,16,,,
+UBCV,2015,W,CIVL,418,,101,Engineering Hydrology,Luis Galindo;Luis Galindo Ruiz;Steven Weijs,74,84.783783784,9.880477874,100.0,46.0,,,,,,,,,,,,,,,,,6,7,8,19,27,,,
+UBCV,2016,S,CIVL,598,G,941,Topics in Civil Engineering,Luis Galindo;Luis Galindo Ruiz;Steven Weijs,9,88.0,3.391164992,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,2,,,
+UBCV,2016,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,9,84.22222222,6.534098595,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,1,5,1,,,
+UBCV,2016,W,CIVL,316,,201,Hydrology and Open Channel Flow,Akhil Kumar;Brody Granger;Hossein Foroozand;Jong Suk Lee;Luis Galindo Ruiz;Mehretab Tadesse;Noboru Yonemitsu;Rony Das;Steven Weijs,205,76.53658537,8.789191114,94.0,45.0,,,,,,,,,,,2,1,6,8,16,14,31,46,50,20,11,,,
+UBCV,2016,W,CIVL,418,,101,Engineering Hydrology,Akhil Kumar;Hossein Foroozand;Jaime Cathcart;Luis Galindo;Luis Galindo Ruiz;Steven Weijs;Violeta Martin,87,77.42528736,9.033055812,95.0,55.0,,,,,,,,,,,0,0,2,5,11,5,8,16,17,19,4,,,
+UBCV,2017,W,CIVL,418,,101,Engineering Hydrology,Akhil Kumar;Hossein Foroozand;Steven Weijs,64,75.515625,11.464219267,99.0,53.0,,,,,,,,,,,0,2,6,6,2,7,7,9,10,6,9,,,
+UBCV,2018,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,15,83.266666667,5.430951859,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,6,5,1,,,
+UBCV,2018,W,CIVL,418,,101,Engineering Hydrology,Akhil Kumar;Hossein Foroozand;Steven Weijs,87,76.655172414,12.116515335,99.0,39.0,,,,,,,,,,,1,4,1,6,7,10,8,13,17,4,16,,,
+UBCV,2019,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,7,82.0,6.608075867,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,3,0,2,1,,,
+UBCV,2019,W,CIVL,418,,101,Engineering Hydrology,Aina Crozier;Hossein Foroozand;Steven Weijs,70,75.1,14.893000009,97.0,0.0,,,,,,,,,,,1,3,5,3,5,9,5,9,11,10,9,,,
+UBCV,2019,W,CIVL,435,,201,Advanced Structural Analysis,Steven Weijs;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,32,77.1875,14.911432072,99.0,50.0,,,,,,,,,,,0,5,0,1,2,2,0,2,8,5,7,,,
+UBCV,2019,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu;Steven Weijs,61,86.475409836,4.149725121,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,12,33,12,,,
+UBCV,2020,S,CIVL,598,G,941,Topics in Civil Engineering,Daniel Kovacek;Steven Weijs,7,86.142857143,3.436498772,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,2,,,
+UBCV,2020,S,IWME,502,,941,Engineering Hydrology,Daniel Kovacek;Steven Weijs,9,82.111111111,5.988414741,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,3,1,,,
+UBCV,2020,W,CIVL,418,,101,Engineering Hydrology,Daniel Kovacek;Hossein Foroozand;Steven Weijs,76,81.697368421,10.385913199,94.0,32.0,,,,,,,,,,,1,1,1,1,1,5,5,9,14,26,12,,,
+UBCV,2020,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu;Steven Weijs,63,85.301587302,7.93854403,96.0,35.0,,,,,,,,,,,1,0,0,0,0,1,0,4,14,29,14,,,
+UBCV,2021,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,6,85.833333333,3.763863264,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,2,,,
+UBCV,2021,W,CIVL,418,,101,Engineering Hydrology,Alexander Werenka;Daniel Kovacek;Steven Weijs,69,80.449275362,10.960539156,95.0,50.0,,,,,,,,,,,0,2,3,2,1,5,3,14,8,14,17,,,
+UBCV,2021,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu;Steven Weijs,59,79.915254237,6.913974194,90.0,46.0,,,,,,,,,,,1,0,0,1,1,2,4,12,28,9,1,,,
+UBCV,2021,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,6,85.8,,91.0,82.0,,,,,,,,,,,,,,,,,,,,,,84.5,88.8,83.3
+UBCV,2021,W,CIVL,418,,101,Engineering Hydrology,Steven Weijs,69,80.4,,95.0,50.0,,,,,,,,,,,,,,,,,,14,8,14,17,81.0,89.0,76.0
+UBCV,2021,W,IGEN,230,,001,Introduction to Engineering Design,Steven Weijs;Joseph Yan;Noboru Yonemitsu,59,79.9,,90.0,46.0,,,,,,,,,,,,,,,,,,12,28,9,,81.0,83.0,78.0
+UBCV,2022,S,CIVL,551,,941,Advanced Hydrology,Steven Weijs,7,84.9,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,4,1,86.0,88.0,84.5
+UBCV,2022,S,IWME,502,,941,Engineering Hydrology,Steven Weijs,9,82.8,,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,1,5,0,85.0,87.0,78.0
+UBCV,2023,W,CIVL,418,,201,Engineering Hydrology,Steven Weijs,73,75.2,,97.0,5.0,,,,,,,,,,,2,3,4,4,4,6,7,10,14,11,7,78.0,84.3,68.0
+UBCV,2023,W,IGEN,230,,001,Introduction to Engineering Design,Steven Weijs;Joseph Yan;Noboru Yonemitsu,59,81.05,,94.0,7.0,,,,,,,,,,,3,0,0,1,1,1,3,5,12,25,8,85.0,88.0,81.0
+UBCV,2023,W,IWME,502,,101,Engineering Hydrology,Steven Weijs,7,77.71,,88.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,4,1,1,0,77.0,78.5,77.0

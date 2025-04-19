@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,MATH,307,,101,APPL LINEAR ALGB,"Plan, Yaniv",94,67.56,16.59,100,12,87,7,0,0,0,0,2,0,3,2,7,9,7,13,5,7,9,10,10,9,8,,,
+UBC,2015,W,MATH,307,,201,APPL LINEAR ALGB,"Plan, Yaniv",75,69.82,15.36,100,29,68,3,2,0,2,0,0,1,2,0,3,6,5,9,7,7,4,7,12,3,8,,,
+UBC,2015,W,MATH,608,D,101,TPCS PROBABILITY,"Plan, Yaniv",17,88.08,4.25,98,80,12,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,1,,,
+UBC,2016,W,MATH,223,,201,LINEAR ALGEBRA I,"Plan, Yaniv",25,80.76,10.56,99,65,21,0,3,0,1,0,0,0,0,0,0,0,0,0,1,4,2,2,4,3,5,,,
+UBC,2016,W,MATH,555,,101,COMPRESD SENSING,"Plan, Yaniv",6,90.25,2.63,94,88,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2017,W,MATH,184,,105,CALC SOCSCI COMM,"Plan, Yaniv",192,66.32,14.48,93,18,167,17,6,0,2,0,1,3,4,9,17,23,14,22,15,18,20,18,20,15,2,,,
+UBC,2017,W,MATH,303,,201,INTR STOCH PROC,"Plan, Yaniv",111,72.39,16.18,100,23,105,4,2,0,0,0,0,1,2,1,4,12,5,11,6,12,10,9,12,7,21,,,
+UBC,2017,W,MATH,608,D,201,TPCS PROBABILITY,"Plan, Yaniv",6,87.83,0.98,89,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,,,
+UBC,2018,W,MATH,100,,109,DF CALC AP PH SC,"Plan, Yaniv",148,71.82,11.68,97,15,144,1,1,0,2,0,1,0,0,0,1,10,11,9,10,15,17,30,30,5,7,,,
+UBC,2018,W,MATH,307,,201,APPL LINEAR ALGB,"Plan, Yaniv",127,69.02,13.74,100,29,119,3,2,0,2,0,0,1,2,0,3,11,9,22,10,14,14,12,9,7,11,,,
+UBC,2018,W,MATH,608,D,201,TPCS PROBABILITY,"Plan, Yaniv",4,89.75,3.59,95,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,,,
+UBCV,2014,W,MATH,307,,101,Applied Linear Algebra,Yaniv Plan,94,67.56382979,16.58510701,100.0,12.0,,,,,,,,,,,7,9,7,13,5,7,9,10,10,9,8,,,
+UBCV,2015,W,MATH,307,,201,Applied Linear Algebra,Yaniv Plan,73,68.616438356,16.799991846,100.0,20.0,,,,,,,,,,,5,6,5,9,7,7,,7,12,,8,,,
+UBCV,2015,W,MATH,608,D,101,Topics in Probability,Yaniv Plan,12,88.083333333,4.252450274,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,9,,,,
+UBCV,2016,W,MATH,223,,201,Linear Algebra,Yaniv Plan,22,77.72727273,17.57482458,99.0,14.0,,,,,,,,,,,1,0,0,0,1,4,2,2,4,3,5,,,
+UBCV,2017,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,Javier Gonzalez Anaya;Keqin Liu;Yaniv Plan,186,65.73655914,15.455269616,93.0,11.0,,,,,,,,,,,19,23,14,22,15,18,20,18,20,15,2,,,
+UBCV,2017,W,MATH,303,,201,Introduction to Stochastic Processes,Yaniv Plan,109,72.385321101,16.180067903,100.0,23.0,,,,,,,,,,,4,12,5,11,6,12,10,9,12,7,21,,,
+UBCV,2017,W,MATH,608,D,201,Topics in Probability,Yaniv Plan,6,87.833333333,0.98319208,89.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,0,,,
+UBCV,2018,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Michael Bennett;Niny Arcila Maya;Yaniv Plan,147,71.741496599,11.770690577,97.0,15.0,,,,,,,,,,,1,11,11,9,10,15,17,30,31,5,7,,,
+UBCV,2018,W,MATH,307,,201,Applied Linear Algebra,Kalle Karu;Oliver Leigh;Yaniv Plan,125,68.296,14.67003969,100.0,11.0,,,,,,,,,,,4,12,10,22,10,14,14,12,9,7,11,,,
+UBCV,2019,S,MATH,302,,921,Introduction to Probability,Yaniv Plan,80,62.9875,20.190544064,100.0,0.0,,,,,,,,,,,9,7,9,10,8,10,8,3,7,3,6,,,
+UBCV,2019,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Javier Gonzalez Anaya;Katharine Faulkner;Michael Bennett;Xiaowei Li;Yaniv Plan,96,68.4375,15.764592238,95.0,19.0,,,,,,,,,,,10,4,7,7,14,12,7,7,11,9,8,,,
+UBCV,2019,W,MATH,223,,101,Linear Algebra,Kai Behrend;Yaniv Plan,51,80.333333333,9.375855517,100.0,61.0,,,,,,,,,,,0,0,0,2,1,2,8,12,10,7,9,,,
+UBCV,2019,W,MATH,307,,201,Applied Linear Algebra,Halyun Jeong;Qidi Zhang;Yaniv Plan,117,81.914529915,10.481159328,99.0,50.0,,,,,,,,,,,0,1,4,5,5,3,9,12,22,26,30,,,
+UBCV,2019,W,MATH,307,,202,Applied Linear Algebra,Markus Lange;Yaniv Plan;Yusuke Aoki,84,77.678571429,11.191822223,98.0,44.0,,,,,,,,,,,1,2,5,1,4,10,10,10,16,13,12,,,
+UBCV,2020,S,MATH,302,,921,Introduction to Probability,Guillermo Martinez Dibene;Yaniv Plan,106,80.188679245,11.213183744,98.0,43.0,,,,,,,,,,,1,3,2,3,2,10,5,18,19,14,29,,,
+UBCV,2020,W,MATH,223,,101,Linear Algebra,Elliot Cheung;Le Tam Nhan Nguyen;Patrick Walls;Richard Gerd Froese;Yaniv Plan,54,90.37037037,8.122403902,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,5,7,6,34,,,
+UBCV,2020,W,MATH,302,,101,Introduction to Probability,Julien Gagnon;Omer Angel;Patrick Walls;Rebecca Bonham-Carter;Rebecca Cherry Bonham-Carter;Richard Gerd Froese;Yaniv Plan,129,81.480620155,13.74437429,100.0,20.0,,,,,,,,,,,3,2,1,2,3,9,15,13,19,16,46,,,
+UBCV,2020,W,MATH,302,,103,Introduction to Probability,Jonathan Hermon;Julien Gagnon;Rebecca Bonham-Carter;Rebecca Cherry Bonham-Carter;Yaniv Plan;Yinon Spinka,109,82.440366972,10.628779234,100.0,30.0,,,,,,,,,,,1,0,2,0,5,5,10,11,17,26,32,,,
+UBCV,2021,S,MATH,302,,921,Introduction to Probability,Benjamin Langer;Jacob Richey;Mathav Murugan;Yaniv Plan,68,72.235294118,14.585944622,100.0,35.0,,,,,,,,,,,3,3,7,7,6,8,10,2,6,7,9,,,
+UBCV,2021,W,MATH,223,,101,Linear Algebra,Caleb Suan;Prajeet Bajpai;Rebecca Bonham-Carter;Richard Anstee;Yaniv Plan,56,79.035714286,10.717808945,100.0,50.0,,,,,,,,,,,0,1,1,1,3,11,5,5,10,9,10,,,
+UBCV,2021,W,MATH,302,,101,Introduction to Probability,Jonathan Hermon;Sharvaj Kubal;Vincent Guan;Yaniv Plan;Yinon Spinka,91,74.307692308,13.773317447,99.0,30.0,,,,,,,,,,,3,5,4,4,11,7,9,13,15,7,13,,,
+UBCV,2022,S,MATH,302,,951,Introduction to Probability,Yaniv Plan,71,72.2,,100.0,0.0,,,,,,,,,,,5,4,3,4,3,8,12,9,7,4,12,74.0,82.5,65.0
+UBCV,2022,W,MATH,303,,201,Introduction to Stochastic Processes,Khanh Dao Duc;Yaniv Plan,149,72.4,,97.0,31.0,,,,,,,,,,,7,6,7,10,7,18,19,19,32,15,9,76.0,81.0,68.0
+UBCV,2022,W,MATH,303,,202,Introduction to Stochastic Processes,Yaniv Plan,105,71.6,,100.0,0.0,,,,,,,,,,,9,2,4,10,4,9,10,12,27,9,9,77.0,82.0,64.0
+UBCV,2022,W,MATH,555,,201,Compressed Sensing,Yaniv Plan,14,97.7,,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,13,99.0,99.0,97.5
+UBCV,2023,W,MATH,307,,201,Applied Linear Algebra,Yaniv Plan,107,70.1,,100.0,11.0,,,,,,,,,,,9,7,6,5,2,18,11,10,15,9,11,72.0,81.5,62.0
+UBCV,2023,W,MATH,555,,201,Compressed Sensing,Yaniv Plan,12,96.25,,99.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,97.0,99.0,94.25

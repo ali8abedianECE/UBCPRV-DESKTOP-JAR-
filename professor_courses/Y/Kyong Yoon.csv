@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,CULT,101,,001,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon,45,72.06666667,12.9814553,93.0,10.0,,,,,5,7,9,6,6,5,,,,
+UBCO,2014,W,CULT,101,,002,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon;Lindsay Balfour,43,73.39534884,11.79010791,92.0,30.0,,,,,1,5,11,7,7,5,,,,
+UBCO,2014,W,CULT,312,,001,Internet Culture,Kyong Yoon;Kyongwon Yoon,31,77.5483871,14.68749743,91.0,7.0,,,,,,,,6,8,8,,,,
+UBCO,2014,W,CULT,410,A,001,Asian Cinema,Kyong Yoon;Kyongwon Yoon,21,75.47619048,9.201190399,93.0,56.0,0,0,,,,,5,,5,,,,,
+UBCO,2015,W,CULT,101,,001,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon;Mathieu Aubin,43,70.558139535,14.283360825,90.0,12.0,,,,,,5,10,3,6,5,,,,
+UBCO,2015,W,CULT,101,,002,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon;Mathieu Aubin,44,71.931818182,8.325912834,92.0,53.0,0,,,,,9,9,8,4,2,,,,
+UBCO,2015,W,CULT,312,,001,Internet Culture,Kyong Yoon;Kyongwon Yoon,31,70.903225806,16.662042369,91.0,0.0,,,,,,,6,6,8,,,,,
+UBCO,2015,W,CULT,410,A,001,Asian Cinema,Kyong Yoon;Kyongwon Yoon,14,65.928571429,23.348412187,90.0,5.0,,,,,,,,,,,,,,
+UBCO,2016,W,CULT,101,,001,Cultural Studies Practices,Kyong Yoon;Kyongwon Yoon;Mathieu Aubin,49,69.04081633,11.85846952,88.0,31.0,3,1,3,4,7,10,9,3,4,5,0,,,
+UBCO,2016,W,CULT,215,,001,Cultural Industries,Kyong Yoon;Kyongwon Yoon;Mathieu Aubin,30,69.06666667,21.25693937,92.0,5.0,3,2,2,0,1,2,5,4,5,5,1,,,
+UBCO,2016,W,CULT,312,,001,Internet Culture,Kyong Yoon;Kyongwon Yoon,28,78.03571429,8.574216919,90.0,55.0,0,0,1,0,2,2,4,6,5,7,1,,,
+UBCO,2016,W,CULT,401,H,001,Topics in Media Studies,Kyong Yoon;Kyongwon Yoon,6,80.5,6.284902545,88.0,74.0,0,0,0,0,0,0,2,1,1,2,0,,,
+UBCO,2017,W,CULT,215,,001,Cultural Industries,Kyong Yoon;Kyongwon Yoon,34,73.264705882,14.946994881,90.0,0.0,1,0,1,0,4,5,5,8,6,2,2,,,
+UBCO,2017,W,CULT,312,,001,Internet Culture,Kyong Yoon,23,78.913043478,17.852713172,93.0,0.0,1,0,0,0,0,0,2,2,11,5,2,,,
+UBCO,2018,W,CULT,215,,001,Cultural Industries,Kyong Yoon,29,75.689655172,8.451979685,93.0,59.0,0,0,1,1,2,6,5,5,2,6,1,,,
+UBCO,2019,W,CULT,215,,001,Cultural Industries,Kyong Yoon,41,76.268292683,9.058212821,92.0,43.0,1,0,1,0,2,6,5,12,9,3,2,,,
+UBCO,2019,W,CULT,312,A,001,Internet Culture,Kyong Yoon,33,76.212121212,10.237057609,93.0,53.0,0,1,2,2,1,4,3,5,6,8,1,,,
+UBCO,2019,W,CULT,410,C,001,Asian Cinema,Kyong Yoon,14,76.357142857,20.556141298,95.0,15.0,1,0,1,1,0,0,0,1,5,2,3,,,
+UBCO,2020,W,CULT,215,,001,Cultural Industries,Kyong Yoon;Taylor Gordon,35,77.485714286,10.362180751,96.0,45.0,1,1,0,0,4,1,5,3,12,4,4,,,
+UBCO,2020,W,IGS,502,A,001,Seminar in Digital Arts and Humanities,Karis Shearer;Kyong Yoon,6,89.333333333,5.278888772,96.0,82.0,0,0,0,0,0,0,0,0,1,2,3,,,
+UBCO,2021,W,CULT,215,,001,Cultural Industries,Kyong Yoon,32,78.3125,10.129603693,92.0,33.0,1,0,0,0,1,2,3,7,12,4,2,,,
+UBCO,2021,W,CULT,215,,002,Cultural Industries,Kyong Yoon,27,79.0,7.585411099,94.0,60.0,0,0,0,2,0,1,4,4,11,4,1,,,
+UBCO,2021,W,CULT,312,A,001,Internet Culture,Kyong Yoon,25,81.2,9.110433579,92.0,50.0,0,1,0,0,0,3,1,1,10,4,5,,,
+UBCO,2021,W,CULT,410,C,001,Asian Cinema,Kyong Yoon,17,79.117647059,13.637642543,93.0,32.0,1,0,0,0,1,0,0,3,6,4,2,,,
+UBCO,2021,W,IGS,502,A,001,Seminar in Digital Arts and Humanities,Kyong Yoon;Neha Gupta,6,89.0,4.335896678,93.0,81.0,0,0,0,0,0,0,0,0,1,2,3,,,
+UBCO,2021,W,CULT,215,,001,Cultural Industries,Kyong Yoon,32,78.3,,92.0,33.0,,,,,,,,7,12,,,80.5,83.3,76.8
+UBCO,2021,W,CULT,215,,002,Cultural Industries,Kyong Yoon,27,79.0,,94.0,60.0,,,,,,,,,11,,,80.0,83.0,75.5
+UBCO,2021,W,CULT,312,A,001,Internet Culture,Kyong Yoon,25,81.2,,92.0,50.0,,,,,,,,,10,,,82.0,87.0,80.0
+UBCO,2021,W,CULT,410,C,001,Asian Cinema,Kyong Yoon,17,79.1,,93.0,32.0,,,,,,,,,6,,,82.0,85.0,79.0
+UBCO,2022,W,CULT,215,,001,Cultural Industries,Kyong Yoon,27,77.1,,95.0,16.0,2,0,0,1,0,3,1,2,9,6,3,82.0,85.0,76.0
+UBCO,2023,W,CULT,215,,001,Cultural Industries,Kyong Yoon,32,79.07,,92.0,0.0,1,0,0,1,2,0,1,2,10,9,3,82.0,86.0,80.0

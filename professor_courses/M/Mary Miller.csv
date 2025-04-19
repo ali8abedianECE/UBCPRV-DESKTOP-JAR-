@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,ARCH,515,,001,DESIGN MEDIA I,"Miller, Mary;Vass, Lorinc",47,77.04,13.39,89,0,44,2,1,0,0,1,0,0,0,1,2,0,0,1,0,0,9,6,24,4,0
+UBC,2018,W,ENDS,110,,001,ARCH DRAFTING,"Miller, Mary",50,78.4,10.7,93,39,48,2,0,0,0,0,0,0,1,1,2,0,1,0,1,3,6,12,11,10,4
+UBC,2018,W,ENDS,110,,002,ARCH DRAFTING,"Miller, Mary",21,78.68,7.95,90,63,19,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,2,2,7,3,1
+UBC,2018,W,ENDS,301,,001,ENVR DES STDIO I,"Miller, Mary;Vernon, Ariel",30,80.4,5.5,89,67,30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,7,9,7,0
+UBC,2018,W,LARC,502,,001,LA DSGN STD II,"Byrne, Fionn;Miller, Mary",22,82.41,4.91,91,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,6,6,2
+UBCV,2018,W,ARCH,515,,001,Design Media I,Christine Lee Rohrbacher;Christine Rohrbacher;Lorinc Vass;Luis Yanez Hernandez;Mary Miller;Shaheed Hassan Karim;Shaheed Karim,46,77.043478261,13.393126797,89.0,0.0,,,,,,,,,,,2,0,0,1,0,0,9,6,24,4,0
+UBCV,2018,W,ENDS,110,,001,Measured Architectural Drafting,Dana Salama;Mary Miller;Zhuo Chen,50,78.4,10.69617517,93.0,39.0,,,,,,,,,,,2,0,1,0,1,3,6,12,11,10,4
+UBCV,2018,W,ENDS,110,,002,Measured Architectural Drafting,Mary Miller;Valia Puente Flores,20,78.95,7.830271891,90.0,63.0,,,,,,,,,,,0,0,0,1,2,1,2,2,8,3,1
+UBCV,2018,W,ENDS,301,,001,Environmental Design Studio I,Ariel Vernon;Jose Jorge Gottret Merket;Mary Miller,30,80.4,5.499843258,89.0,67.0,,,,,,,,,,,0,0,0,0,1,0,6,7,9,7,0
+UBCV,2018,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Mary Miller,22,82.409090909,4.905381796,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,3,5,6,6,2
+UBCV,2019,W,ARCH,515,,001,Design Media I,Blair Satterfield;Lorinc Vass;Luis Yanez Hernandez;Mary Miller;Tatiana Nozaki;Victoria Ga Mun Ng;Victoria Ng;Vincent Perron,52,82.519230769,3.712672441,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,39,5,5
+UBCV,2019,W,LARC,502,,001,Landscape Architecture Design Studio II,Fionn Byrne;Joseph Dahmen;Kelty Miyoshi Mckinnon;Mary Miller;Melody Redekop;Shana Johnstone;Shelley Long;Sstephanie Braconnier;Stacy Teresa Moriarty;Stephanie Braconnier,26,85.923076923,3.969111507,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,5,10,8
+UBCV,2020,W,LARC,502,,001,Landscape Architecture Design Studio II,Daniel Roehr;Mary Miller;Melody Redekop;Stephanie Braconnier,19,87.368421053,2.985344319,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,10,5

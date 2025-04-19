@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,PHYS,231,,001,Introduction to Electronics,Maya Patel;Nikolai Lesack;Reza Khanbabaie-Shoub,23,86.347826087,8.160930738,100.0,62.0,0,0,0,1,0,0,0,2,7,5,8,,,
+UBCO,2020,W,PHYS,301,,001,Electricity and Magnetism,Ramie Ali Adeeb;Reza Khanbabaie-Shoub,31,82.580645161,13.004548419,100.0,61.0,0,0,0,3,2,4,1,2,3,4,12,,,
+UBCO,2020,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski;John Hopkinson;Michael Kudla-Hooper;Reza Khanbabaie-Shoub,22,79.318181818,10.199842966,95.0,56.0,0,0,1,0,1,3,3,4,2,3,5,,,
+UBCO,2020,W,PHYS,400,,101,Introduction to Elementary Particles,John Hopkinson;Mitchell Wiebe;Reza Khanbabaie-Shoub,18,90.944444444,7.734355916,100.0,69.0,0,0,0,0,0,1,0,0,2,4,11,,,
+UBCO,2021,S,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alexis Mckendry;Reza Khanbabaie-Shoub,20,81.7,9.712173587,94.0,57.0,0,0,1,0,2,0,1,2,5,4,5,,,
+UBCO,2021,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Ainsley Light;Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Dakota Mckeown;Devin Reinholz;Hannah Tapper;Jakob Marshall;Jason Reich;Jenna Norris;Kendra Mcnabb;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Maysey Lu;Mikayla Tchir;Mitchell Wiebe;Nathan Nichol;Olivia Stanton;Oluwapelumi Kola-Ilesanmi;Reza Khanbabaie-Shoub;Sandra Popescu;Stephen Collins;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,141,74.822695035,14.807953311,99.0,49.0,18,1,9,7,11,9,10,9,19,27,21,,,
+UBCO,2021,W,PHYS,231,,001,Introduction to Electronics,Jakob Marshall;Maya Patel;Reza Khanbabaie-Shoub,21,85.19047619,8.274170941,98.0,68.0,0,0,0,0,0,2,0,2,6,4,7,,,
+UBCO,2021,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jakob Marshall;Maya Patel;Nikolai Lesack;Reza Khanbabaie-Shoub,12,78.583333333,6.721178648,90.0,66.0,0,0,0,0,1,0,4,3,2,1,1,,,
+UBCO,2021,W,PHYS,301,,001,Electricity and Magnetism,Nikolai Lesack;Reza Khanbabaie-Shoub;Xiaoying Zhang,14,84.142857143,11.634545,100.0,60.0,0,0,0,1,0,1,1,1,2,3,5,,,
+UBCO,2021,W,PHYS,314,,101,Fluids,Ian Kennedy;Reza Khanbabaie-Shoub,15,89.4,6.587867637,100.0,78.0,0,0,0,0,0,0,0,2,2,3,8,,,
+UBCO,2021,W,PHYS,328,,101,Advanced Mechanics,Amaan Ali Khan;John Hopkinson;Reza Khanbabaie-Shoub,14,80.0,12.102129501,97.0,60.0,0,0,0,1,2,1,1,3,1,1,4,,,
+UBCO,2021,S,PHYS,122,,101,Introductory Physics for the Life Sciences II,Reza Khanbabaie-Shoub,20,81.7,,94.0,57.0,,,,,,,,,,,,83.5,89.3,77.8
+UBCO,2021,W,PHYS,231,,001,Introduction to Electronics,Reza Khanbabaie-Shoub,21,85.2,,98.0,68.0,,,,,,,,,6,,7,85.0,91.0,80.0
+UBCO,2021,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Reza Khanbabaie-Shoub,12,78.6,,90.0,66.0,,,,,,,,,,,,78.0,82.3,74.8
+UBCO,2021,W,PHYS,301,,001,Electricity and Magnetism,Reza Khanbabaie-Shoub,14,84.1,,100.0,60.0,,,,,,,,,,,,86.5,90.8,77.0
+UBCO,2021,W,PHYS,314,,101,Fluids,Reza Khanbabaie-Shoub,15,89.4,,100.0,78.0,,,,,,,,,,,8,92.0,93.5,85.0
+UBCO,2021,W,PHYS,328,,101,Advanced Mechanics,Reza Khanbabaie-Shoub,14,80.0,,97.0,60.0,,,,,,,,,,,,78.0,92.0,71.3
+UBCO,2022,S,PHYS,112,,001,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,43,73.6,,100.0,49.0,6,2,4,1,1,2,8,0,5,7,7,75.0,86.5,59.0
+UBCO,2022,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,251,72.8,,100.0,49.0,30,7,13,12,22,21,34,16,45,27,24,74.0,83.0,64.0
+UBCO,2022,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,138,72.7,,100.0,49.0,17,4,7,7,7,15,20,16,16,15,14,74.0,82.8,62.8
+UBCO,2022,W,PHYS,216,,101,Mechanics I,Reza Khanbabaie-Shoub,34,68.6,,100.0,15.0,5,2,2,2,3,5,3,1,4,1,6,69.5,82.5,58.5
+UBCO,2022,W,PHYS,301,,001,Electricity and Magnetism,Reza Khanbabaie-Shoub,15,75.3,,92.0,49.0,1,1,0,1,0,2,0,3,2,4,1,78.0,85.0,69.0
+UBCO,2022,W,PHYS,328,,101,Advanced Mechanics,Reza Khanbabaie-Shoub,12,75.8,,100.0,57.0,0,0,1,0,1,1,3,3,2,0,1,75.5,78.5,72.5
+UBCO,2023,S,PHYS,112,,001,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,52,79.27,,97.0,49.0,2,0,3,0,1,4,8,7,4,11,9,79.0,88.0,73.0
+UBCO,2023,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,265,74.5,,100.0,8.0,24,2,9,13,17,24,34,31,35,20,44,76.0,85.0,67.0
+UBCO,2023,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Reza Khanbabaie-Shoub,136,76.6,,100.0,41.0,9,3,8,4,3,13,18,14,21,17,24,79.0,86.0,68.3
+UBCO,2023,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Reza Khanbabaie-Shoub,135,75.0,,98.0,47.0,6,3,4,8,10,16,17,20,21,17,13,76.0,82.5,69.0
+UBCO,2023,W,PHYS,216,,101,Mechanics I,Reza Khanbabaie-Shoub,27,65.3,,100.0,13.0,8,0,2,2,2,1,0,1,0,1,6,63.0,91.5,46.0
+UBCO,2023,W,PHYS,301,,001,Electricity and Magnetism,Reza Khanbabaie-Shoub,16,80.8,,98.0,51.0,0,1,0,2,1,0,0,2,3,2,5,83.0,91.3,73.8
+UBCO,2023,W,PHYS,328,,101,Advanced Mechanics,Reza Khanbabaie-Shoub,12,79.3,,96.0,60.0,0,0,0,1,0,3,0,1,2,3,2,80.0,85.3,70.0

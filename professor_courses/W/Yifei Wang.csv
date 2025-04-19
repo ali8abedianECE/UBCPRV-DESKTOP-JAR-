@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,ETEC,511,,64D,FOUND ED TECH,"Wang, Yifei",22,90.33,13,99,40,20,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,3,15
+UBC,2015,W,ETEC,511,,64E,FOUND ED TECH,"Wang, Yifei",15,84.53,24.16,97,0,14,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,2,9
+UBC,2016,S,ETEC,511,,66C,FOUND ED TECH,"Wang, Yifei",20,88.11,4.61,94,80,18,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,8
+UBC,2016,W,ETEC,511,,64C,FOUND ED TECH,"Wang, Yifei",18,83.33,16.69,98,37,17,1,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,2,1,10
+UBCV,2015,W,ETEC,511,,64D,Foundations of Educational Technology,Yifei Wang,21,90.333333333,13.001281988,99.0,40.0,,,,,,,,,,,,,,,,,,,,,15
+UBCV,2015,W,ETEC,511,,64E,Foundations of Educational Technology,Yifei Wang,15,84.533333333,24.159785556,97.0,0.0,,,,,,,,,,,,,,,,,,,,,9
+UBCV,2016,S,ETEC,511,,66C,Foundations of Educational Technology,Yifei Wang,18,88.11111111,4.613138384,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,8
+UBCV,2016,W,ETEC,511,,64C,Foundations of Educational Technology,Yifei Wang,18,83.33333333,16.69096268,98.0,37.0,,,,,,,,,,,2,0,0,0,0,1,1,1,2,1,10

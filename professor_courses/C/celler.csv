@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,404,,101,PHYS MEDICAL IMG,"Aldrich, John;Celler, Anna;MacAulay, Calum E.;MacKay, Alexander;Sossi, Vesna",30,79.45,11.07,94,56,29,0,1,0,0,0,0,0,0,0,0,0,3,1,0,2,3,3,6,5,6
+UBC,2007,W,PHYS,541,,101,Nuc Medicine,"Celler, Anna",7,79.86,13.41,89,52,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,4,0
+UBC,2009,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",40,80.15,8.08,93,60,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,6,10,6,6
+UBC,2009,W,PHYS,541,,101,Nuc Medicine,"Celler, Anna",5,86.4,9.71,97,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3
+UBC,2011,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",53,82.1,7.08,94,68,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,2,6,20,9,9
+UBC,2011,W,PHYS,541,,201,Nuc Medicine,"Celler, Anna",6,85.33,7.31,94,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2
+UBC,2012,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",37,77.64,8.21,92,54,36,0,1,0,0,0,0,0,0,0,0,1,1,0,0,7,2,4,14,6,1
+UBC,2013,W,PHYS,541,,201,Nuc Medicine,"Celler, Anna",13,82.69,13.22,95,52,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,3,0,1,6
+UBC,2015,W,PHYS,541,,201,Nuc Medicine,"Celler, Anna",4,80.75,9.36,94,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1
+UBC,2017,W,PHYS,541,,201,Nuc Medicine,"Celler, Anna",5,82.75,8.77,94,73,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1

@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,COSC,310,,001,Software Engineering,Devon Macneil;Parsa Rajabi;Shan Du;Yohen Thounaojam,143,83.433566434,7.773700191,97.0,62.0,0,0,0,1,2,10,12,13,37,30,38,,,
+UBCO,2020,W,COSC,360,,001,Web Programming,Jinghong Chen;Karanmeet Khatra;Khandoker Md Ayman;Shan Du,124,84.887096774,10.246720417,98.0,25.0,1,0,0,2,4,8,5,8,20,27,49,,,
+UBCO,2021,W,COSC,310,,101,Software Engineering,Anuradha Herath;Mohamad Khajezade;Namrata Kundu;Shan Du;Sohan Chowdhury;Taif Anjum,160,84.6875,11.916474247,100.0,35.0,3,2,2,4,8,6,4,4,19,35,73,,,
+UBCO,2021,W,COSC,360,,001,Web Programming,Abdelmuizz Yusuf;Karanmeet Khatra;Mohamad Khajezade;Scott Fazackerley;Shan Du,61,73.885245902,17.185360398,100.0,23.0,7,0,1,2,6,5,7,8,7,9,9,,,
+UBCO,2021,W,COSC,414,,001,Computer Graphics,Alexander Iannantuono;Islam Osman;Shan Du;Tenzin Jinpa,83,76.86746988,10.219268128,100.0,52.0,0,1,4,3,10,5,9,17,15,10,9,,,
+UBCO,2021,W,COSC,310,,101,Software Engineering,Shan Du,160,84.7,,100.0,35.0,,,,,8,6,,,19,35,73,88.5,93.0,81.8
+UBCO,2021,W,COSC,414,,001,Computer Graphics,Shan Du,83,76.9,,100.0,52.0,,,,,10,,9,17,15,10,9,78.0,82.5,69.5

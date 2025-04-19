@@ -1,0 +1,67 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,VISA,282,,001,Drawing III,Katherine Pickering,15,77.4,21.50016611,87.0,0.0,,,,,,,,,9,,0,,,
+UBCO,2014,W,VISA,283,,001,Drawing IV,Katherine Pickering,15,82.8,4.312771731,91.0,75.0,0,0,0,0,0,0,,,9,,,,,
+UBCO,2015,S,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,8,84.375,7.386038954,90.0,67.0,0,0,0,0,,,,,,,,,,
+UBCO,2015,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,23,81.434782609,6.542352141,93.0,64.0,0,0,0,0,,,,,8,8,,,,
+UBCO,2015,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,21,79.333333333,7.715784687,91.0,63.0,0,0,0,,,,,,,6,,,,
+UBCO,2015,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,21,77.0,12.300406497,89.0,30.0,,,,,,,,,9,3,0,,,
+UBCO,2015,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,17,79.588235294,10.659847698,91.0,44.0,,,,,,,,,5,5,,,,
+UBCO,2015,W,VISA,282,,001,Drawing III,Katherine Pickering,18,77.111111111,5.839912256,83.0,66.0,0,0,0,0,,,,,9,0,0,,,
+UBCO,2015,W,VISA,283,,001,Drawing IV,Katherine Pickering,16,77.875,8.709190548,87.0,54.0,0,,,,,,,,5,,0,,,
+UBCO,2016,S,VISA,460,F,001,Special Topics in Visual Art,Katherine Pickering,8,88.5,2.070196678,91.0,86.0,0,0,0,0,0,0,0,0,0,5,3,,,
+UBCO,2016,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,21,75.42857143,11.66863929,89.0,43.0,2,0,0,1,0,1,3,4,8,2,0,,,
+UBCO,2016,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,22,73.68181818,13.82677308,90.0,35.0,1,2,0,1,2,1,1,4,7,2,1,,,
+UBCO,2016,W,VISA,225,,001,Painting II,Katherine Pickering,13,81.84615385,11.00640839,91.0,50.0,0,1,0,0,0,1,0,0,5,4,2,,,
+UBCO,2016,W,VISA,282,,001,Drawing III,Katherine Pickering,17,78.17647059,8.202402804,86.0,52.0,0,1,0,0,0,0,5,3,3,5,0,,,
+UBCO,2016,W,VISA,283,,001,Drawing IV,Katherine Pickering,14,76.64285714,19.12954679,88.0,18.0,1,1,0,0,0,0,0,0,7,5,0,,,
+UBCO,2016,W,VISA,312,H,001,Advanced Practice in Painting,Katherine Pickering,15,83.93333333,4.182730937,90.0,75.0,0,0,0,0,0,0,1,1,4,8,1,,,
+UBCO,2017,S,VISA,460,H,101,Special Topics in Visual Art,Katherine Pickering,9,79.444444444,11.359039474,89.0,54.0,0,1,0,0,0,1,1,0,3,3,0,,,
+UBCO,2017,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Joseph Fowler;Katherine Pickering,15,75.933333333,7.075780287,87.0,60.0,0,0,0,1,1,1,4,3,3,2,0,,,
+UBCO,2017,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,19,74.0,13.666666667,90.0,27.0,1,0,0,1,1,2,3,7,0,3,1,,,
+UBCO,2017,W,VISA,215,,001,Painting I,Gary Pearson;Katherine Pickering,18,78.333333333,4.186814035,88.0,73.0,0,0,0,0,0,0,5,8,2,3,0,,,
+UBCO,2017,W,VISA,225,,001,Painting II,Katherine Pickering,13,82.0,4.203173404,91.0,77.0,0,0,0,0,0,0,0,3,6,3,1,,,
+UBCO,2017,W,VISA,482,,001,Advanced Art Practices I,Katherine Pickering;Myron Campbell;Tania Willard,20,76.1,7.517698416,87.0,57.0,0,0,1,0,2,2,3,4,5,3,0,,,
+UBCO,2017,W,VISA,483,,001,Advanced Art Practices II,Katherine Pickering;Myron Campbell;Tania Willard,20,73.15,19.219713016,90.0,0.0,1,0,0,2,1,3,3,3,2,4,1,,,
+UBCO,2018,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,20,77.7,9.090770334,90.0,52.0,0,1,0,1,1,0,4,2,8,2,1,,,
+UBCO,2018,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,20,80.35,7.13977001,90.0,61.0,0,0,0,1,0,1,3,1,8,5,1,,,
+UBCO,2018,W,VISA,215,,001,Painting I,Katherine Pickering,16,79.5625,4.675735236,85.0,68.0,0,0,0,0,0,1,2,4,7,2,0,,,
+UBCO,2018,W,VISA,225,,001,Painting II,Katherine Pickering,12,77.166666667,6.307763374,85.0,66.0,0,0,0,0,1,2,2,2,4,1,0,,,
+UBCO,2018,W,VISA,482,,001,Advanced Art Practices I,Jorden Blue Doody;Jorden Doody;Katherine Pickering;Myron Campbell,21,72.0,9.874208829,89.0,41.0,1,0,1,0,2,4,6,4,1,2,0,,,
+UBCO,2018,W,VISA,483,,001,Advanced Art Practices II,Jorden Blue Doody;Jorden Doody;Katherine Pickering;Myron Campbell,20,79.65,5.353552682,93.0,70.0,0,0,0,0,0,2,1,6,9,1,1,,,
+UBCO,2019,S,VISA,137,,001,Introduction to Art I,Katherine Pickering,17,80.235294118,7.846411694,93.0,60.0,0,0,0,1,0,1,1,5,6,0,3,,,
+UBCO,2019,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Connor C Charlesworth;Connor Charlesworth;Holly Ward;Katherine Pickering,22,78.090909091,6.816709798,89.0,58.0,0,0,1,0,0,1,6,3,8,3,0,,,
+UBCO,2019,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,David Doody;David James Doody;Katherine Pickering,22,84.727272727,6.59134944,95.0,59.0,0,0,1,0,0,0,0,0,7,12,2,,,
+UBCO,2019,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Katherine Pickering;Patrick Lundeen,21,79.19047619,14.316490658,95.0,46.0,1,1,0,1,3,0,0,1,2,8,4,,,
+UBCO,2019,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,David Doody;David James Doody;Katherine Pickering,22,87.181818182,3.289758475,92.0,80.0,0,0,0,0,0,0,0,0,4,11,7,,,
+UBCO,2019,W,VISA,215,,001,Painting I,Katherine Pickering,18,83.388888889,5.237184795,93.0,73.0,0,0,0,0,0,0,1,3,8,3,3,,,
+UBCO,2019,W,VISA,225,,001,Painting II,Katherine Pickering,19,89.473684211,3.533465737,97.0,82.0,0,0,0,0,0,0,0,0,1,10,8,,,
+UBCO,2019,W,VISA,482,,001,Advanced Art Practices I,Alison Trim;Katherine Pickering;Myron Campbell,10,85.4,6.653319973,91.0,70.0,0,0,0,0,0,1,0,0,3,2,4,,,
+UBCO,2019,W,VISA,483,,001,Advanced Art Practices II,Alison Trim;Katherine Pickering;Myron Campbell,10,83.2,6.545566778,91.0,69.0,0,0,0,0,0,1,0,1,3,4,1,,,
+UBCO,2020,W,CCS,250,,001,Creative and Critical Art Theory II,Brittany Anne Reitzel;Brittany Reitzel;Katherine Pickering;Samuel Roy-Bois;Tania Willard,38,80.5,19.949598655,99.0,0.0,3,0,1,1,3,0,1,2,5,7,15,,,
+UBCO,2020,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Alison Trim;Connor Charlesworth;Katherine Pickering;Michaela Bridgemohan,21,77.666666667,8.326663998,86.0,59.0,0,0,1,1,1,3,1,3,6,5,0,,,
+UBCO,2020,W,VISA,215,,001,Painting I,Katherine Pickering,12,81.5,21.296606644,96.0,21.0,1,0,0,0,0,1,2,0,0,2,6,,,
+UBCO,2020,W,VISA,225,,001,Painting II,Katherine Pickering,22,84.954545455,9.839073092,97.0,61.0,0,0,0,2,0,0,1,1,5,3,10,,,
+UBCO,2020,W,VISA,312,O,001,Advanced Practice in Painting,Katherine Pickering;Patrick Lundeen,19,87.105263158,3.298058972,93.0,80.0,0,0,0,0,0,0,0,0,3,14,2,,,
+UBCO,2020,W,VISA,482,,001,Advanced Art Practices I,Huiyu Chen;Katherine Pickering;Myron Campbell;Renay Egami,19,85.526315789,3.820535464,94.0,78.0,0,0,0,0,0,0,0,1,8,6,4,,,
+UBCO,2020,W,VISA,483,,001,Advanced Art Practices II,Katherine Pickering;Myron Campbell;Renay Egami,18,83.166666667,4.829444006,92.0,76.0,0,0,0,0,0,0,0,4,10,0,4,,,
+UBCO,2021,W,CCS,250,,001,Creative and Critical Art Theory II,Heraa Khan;Katherine Pickering,29,82.344827586,12.057232157,96.0,55.0,0,0,2,0,1,3,4,2,0,6,11,,,
+UBCO,2021,W,VISA,215,,001,Painting I,Katherine Pickering;Shawn Serfas,8,68.0,23.928464819,90.0,27.0,2,0,0,0,0,1,1,1,1,1,1,,,
+UBCO,2021,W,VISA,225,,001,Painting II,Katherine Pickering,19,80.052631579,21.156752755,96.0,0.0,1,0,0,0,1,0,1,4,3,2,7,,,
+UBCO,2021,W,VISA,312,R,001,Advanced Practice in Painting,Katherine Pickering,12,82.333333333,9.480442388,95.0,67.0,0,0,0,0,1,1,1,2,0,3,4,,,
+UBCO,2021,W,VISA,482,,001,Advanced Art Practices I,Andreas Rutkauskas;Katherine Pickering;Renay Egami;Tania Willard,22,80.863636364,6.563212443,94.0,67.0,0,0,0,0,1,1,2,5,5,7,1,,,
+UBCO,2021,W,VISA,483,,001,Advanced Art Practices II,Andreas Rutkauskas;Katherine Pickering;Renay Egami;Tania Willard,22,80.590909091,7.805120974,90.0,63.0,0,0,0,1,0,3,1,4,4,7,2,,,
+UBCO,2021,W,VISA,225,,001,Painting II,Katherine Pickering,19,80.1,,96.0,0.0,,,,,,,,,,,7,84.0,92.0,77.5
+UBCO,2021,W,VISA,312,R,001,Advanced Practice in Painting,Katherine Pickering,12,82.3,,95.0,67.0,,,,,,,,,,,,86.0,90.0,75.0
+UBCO,2022,W,CCS,250,,001,Creative and Critical Art Theory II,Katherine Pickering,37,85.8,,100.0,25.0,1,0,0,0,1,2,1,2,5,8,17,88.0,93.0,83.0
+UBCO,2022,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,25,82.2,,95.0,0.0,2,0,0,0,0,1,0,1,3,4,14,90.0,94.0,82.0
+UBCO,2022,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,19,78.7,,96.0,0.0,2,0,0,0,0,1,1,1,2,5,7,86.0,91.5,79.5
+UBCO,2022,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,19,85.4,,93.0,71.0,0,0,0,0,0,1,1,1,3,9,4,87.0,88.5,84.0
+UBCO,2022,W,VISA,215,,001,Painting I,Katherine Pickering,16,88.9,,94.0,76.0,0,0,0,0,0,0,0,2,2,3,9,92.0,93.0,86.0
+UBCO,2022,W,VISA,312,S,001,Advanced Practice in Painting,Katherine Pickering,19,88.0,,95.0,52.0,0,1,0,0,0,0,1,0,0,5,12,91.0,93.0,87.5
+UBCO,2023,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,24,84.0,,98.0,0.0,1,0,0,0,0,0,0,4,2,6,11,88.5,91.0,83.8
+UBCO,2023,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,21,85.5,,98.0,32.0,1,0,0,0,0,0,0,2,3,4,10,89.0,92.0,83.5
+UBCO,2023,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,22,87.0,,96.0,70.0,0,0,0,0,0,1,1,0,4,6,8,87.5,91.0,84.0
+UBCO,2023,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Katherine Pickering,22,84.3,,98.0,0.0,1,0,0,0,1,0,0,0,2,6,12,90.0,92.0,85.3
+UBCO,2023,W,VISA,215,,001,Painting I,Katherine Pickering,12,79.0,,91.0,60.0,0,0,0,1,0,0,1,3,3,1,1,80.0,83.8,77.3
+UBCO,2023,W,VISA,215,,002,Painting I,Katherine Pickering,11,85.0,,95.0,77.0,0,0,0,0,0,0,0,2,4,2,3,83.0,89.5,80.5
+UBCO,2023,W,VISA,312,V,001,Advanced Practice in Painting,Katherine Pickering,18,85.5,,92.0,68.0,0,0,0,0,0,1,0,1,5,6,5,86.0,89.8,83.3

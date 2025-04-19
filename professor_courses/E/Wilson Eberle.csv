@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,255,,101,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,100,76.1,11.3720373,100.0,50.0,0,2,5,8,11,13,8,9,15,16,13,,,
+UBCO,2014,W,APSC,255,,102,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,98,72.12244898,12.08583162,96.0,50.0,0,8,12,5,13,8,12,8,16,8,8,,,
+UBCO,2014,W,ENGR,320,,201,Electromechanical Devices,Wilson Eberle,112,76.55357143,10.49138582,96.0,56.0,0,0,5,10,9,15,11,12,20,17,13,,,
+UBCO,2014,W,ENGR,458,,201,Power Electronics,Wilson Eberle,43,77.76744186,9.451221159,99.0,50.0,0,,,,,6,6,7,9,6,,,,
+UBCO,2014,W,ENGR,558,,101,Power Electronics,Wilson Eberle,6,77.0,10.84435337,90.0,65.0,0,0,0,0,,,,,,,,,,
+UBCO,2015,W,ENGR,320,,201,Electromechanical Devices,Bradley A Reinholz;Bradley Reinholz;Peyman Amiri;Severin Nowak;Wilson Eberle;Yanqi Yu,122,78.549180328,9.602085224,97.0,49.0,,,,,7,14,17,26,20,11,20,,,
+UBCO,2015,W,ENGR,458,,201,Power Electronics,Raed Mohsen Ahm Saasaa;Wilson Eberle,58,77.293103448,9.70622629,95.0,57.0,0,0,,,7,,9,9,13,,8,,,
+UBCO,2015,W,ENGR,558,,101,Power Electronics,Wilson Eberle,8,76.375,14.401760805,99.0,58.0,0,0,,,,,,,,,,,,
+UBCO,2016,W,ENGR,320,,201,Electromechanical Devices,Bradley A Reinholz;Bradley Reinholz;Severin Nowak;Tobias Lindsay;Wilson Eberle,174,74.11494253,11.41231997,96.0,6.0,3,5,5,8,16,24,33,24,27,22,7,,,
+UBCO,2017,W,ENGR,320,,201,Electromechanical Devices,Peyman Amiri;Tobias Lindsay;Wilson Eberle;Yanqi Yu,165,76.581818182,11.877973429,99.0,24.0,3,3,8,5,15,19,17,21,28,27,19,,,
+UBCO,2017,W,ENGR,598,W,001,Topics in Engineering,Wilson Eberle,6,89.0,5.865151319,95.0,82.0,0,0,0,0,0,0,0,0,2,0,4,,,
+UBCO,2018,W,ENGR,320,,201,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,93,74.462365591,13.99732827,98.0,15.0,3,1,6,6,9,11,6,16,10,15,10,,,
+UBCO,2018,W,ENGR,320,,202,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,117,79.444444444,8.847797743,95.0,50.0,0,1,1,4,8,8,14,15,28,24,14,,,
+UBCO,2018,W,ENGR,458,,201,Power Electronics,Liwei Wang;Wilson Eberle;Yanqi Yu,69,74.550724638,10.063820219,94.0,54.0,0,1,3,6,9,10,6,15,6,6,7,,,
+UBCO,2019,W,ENGR,320,,201,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu,102,77.441176471,9.312584405,94.0,53.0,0,1,3,5,6,14,12,14,18,22,7,,,
+UBCO,2019,W,ENGR,320,,202,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu,113,75.504424779,11.068878423,96.0,9.0,1,2,2,4,15,15,12,19,20,19,4,,,
+UBCO,2019,W,ENGR,458,,201,Power Electronics,Joel Pfannschmidt;Liwei Wang;Morad Abdelaziz;Peyman Amiri;Wilson Eberle;Yanqi Yu,60,77.966666667,9.554423355,99.0,60.0,0,0,0,3,7,6,8,4,13,12,7,,,
+UBCO,2019,W,ENGR,598,P,001,Topics in Engineering,Wilson Eberle,6,91.166666667,5.307227776,97.0,85.0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCO,2020,W,ENGR,320,,201,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Peyman Amiri;Rakiba Rayhana;Wilson Eberle;Yanqi Yu,143,83.013986014,7.321573384,96.0,63.0,0,0,0,1,4,7,10,16,36,42,27,,,
+UBCO,2020,W,ENGR,320,,202,Electromechanical Devices,Alireza Eyvazizadeh Khosroshahi;Peyman Amiri;Rakiba Rayhana;Wilson Eberle;Yanqi Yu,92,80.336956522,7.395093672,95.0,63.0,0,0,0,1,4,10,7,19,24,16,11,,,
+UBCO,2020,W,ENGR,458,,201,Power Electronics,Hoda Dadashzadeh;Joel Pfannschmidt;Liwei Wang;Peyman Amiri;Wilson Eberle,62,82.096774194,9.807507458,97.0,50.0,0,1,0,0,3,7,4,5,13,13,16,,,
+UBCO,2021,W,ENGR,320,,201,Electromechanical Devices,Charles Brodie;Hengyu Li;Rafiya Hossain;Rakiba Rayhana;Wilson Eberle,108,72.62037037,13.015244543,95.0,17.0,3,4,6,10,11,14,15,11,14,12,8,,,
+UBCO,2021,W,ENGR,320,,202,Electromechanical Devices,Charles Brodie;Hengyu Li;Rafiya Hossain;Rakiba Rayhana;Wilson Eberle,99,70.191919192,12.868785814,98.0,16.0,4,6,7,9,11,16,15,11,6,7,7,,,
+UBCO,2021,W,ENGR,458,,201,Power Electronics,Hoda Dadashzadeh;Liwei Wang;Paul Yoo;Wilson Eberle,72,73.75,13.753104643,99.0,31.0,3,3,1,5,3,12,8,11,11,6,9,,,
+UBCO,2021,W,ENGR,320,,201,Electromechanical Devices,Wilson Eberle,108,72.6,,95.0,17.0,,,6,10,11,14,15,11,14,12,8,74.0,82.3,65.0
+UBCO,2021,W,ENGR,320,,202,Electromechanical Devices,Wilson Eberle,99,70.2,,98.0,16.0,4,6,7,9,11,16,15,11,6,7,7,71.0,77.5,63.0
+UBCO,2022,W,ENGR,320,,201,Electromechanical Devices,Wilson Eberle,116,72.5,,99.0,43.0,5,5,12,8,14,14,10,7,14,14,13,71.5,83.3,63.0
+UBCO,2022,W,ENGR,320,,202,Electromechanical Devices,Wilson Eberle,122,70.5,,99.0,47.0,1,12,11,16,18,12,11,9,12,11,9,68.0,80.0,61.0
+UBCO,2022,W,ENGR,458,,201,Power Electronics,Wilson Eberle,62,75.7,,99.0,38.0,2,3,4,5,5,4,4,5,10,9,11,78.5,87.0,66.3
+UBCO,2022,W,ENGR,558,,201,Power Electronics,Wilson Eberle,12,76.4,,99.0,44.0,1,0,0,2,0,0,3,0,2,2,2,77.5,86.5,69.0
+UBCO,2023,W,ENGR,320,,201,Electromechanical Devices,Wilson Eberle,139,76.6,,94.0,0.0,3,2,3,6,10,13,18,17,33,22,12,79.0,84.0,70.0
+UBCO,2023,W,ENGR,320,,202,Electromechanical Devices,Wilson Eberle,127,76.5,,98.0,47.0,1,0,3,5,9,25,14,22,22,13,10,77.0,82.3,70.0

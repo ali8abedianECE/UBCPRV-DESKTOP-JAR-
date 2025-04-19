@@ -1,0 +1,75 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,ECON,406,,001,TOPCS MICROECON,"Graves, Jonathan",10,71.6,23.79,93,8,9,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,2,1,2,1,,,
+UBC,2015,W,ECON,406,,001,TOPCS MICROECON,"Graves, Jonathan",11,81.45,12.15,92,55,11,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,3,2,3,,,
+UBC,2016,W,ECON,406,,002,TOPCS MICROECON,"Graves, Jonathan",14,79,7.77,86,56,13,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,4,3,0,,,
+UBC,2017,W,ECON,221,,001,INT STRA THINK,"Graves, Jonathan",84,76.01,11.27,96,42,77,1,4,0,0,0,0,0,0,1,1,2,2,7,5,8,9,10,14,10,10,,,
+UBC,2017,W,ECON,221,,003,INT STRA THINK,"Graves, Jonathan",89,75.99,11.05,95,45,83,2,4,0,0,0,0,0,0,2,2,0,6,4,6,12,7,10,19,10,9,,,
+UBC,2017,W,ECON,226,,001,ECON DATA,"Graves, Jonathan",45,76.41,12.44,98,36,42,2,1,0,0,0,0,0,1,1,2,0,2,3,2,2,6,4,12,6,5,,,
+UBC,2017,W,ECON,406,,002,TOPCS MICROECON,"Graves, Jonathan",20,76.72,11.29,91,40,17,1,2,0,0,0,0,0,0,1,1,0,0,0,1,1,3,5,2,4,1,,,
+UBC,2017,W,ECON,490,,005,APPLIED ECON,"Graves, Jonathan",21,79.71,10.98,96,57,21,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,2,3,3,4,4,,,
+UBC,2017,W,ECON,490,,014,APPLIED ECON,"Graves, Jonathan",19,80.05,9.29,92,56,19,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,1,7,2,3,,,
+UBC,2017,W,ECON,492,F,001,DIRECTED READING,"Graves, Jonathan",5,92,0,92,92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2018,W,ECON,221,,001,INT STRA THINK,"Graves, Jonathan",95,75.11,10.71,97,41,91,1,0,0,3,0,0,0,0,1,1,3,4,6,3,11,18,13,16,9,8,,,
+UBC,2018,W,ECON,221,,003,INT STRA THINK,"Graves, Jonathan",95,76.55,9.22,95,42,92,1,1,0,0,0,0,0,0,1,1,0,3,5,3,12,11,17,26,11,4,,,
+UBC,2018,W,ECON,226,,001,ECON DATA,"Graves, Jonathan",50,74.73,13.97,98,42,46,3,0,0,1,0,0,0,0,3,3,3,1,4,1,6,6,6,6,6,7,,,
+UBC,2018,W,ECON,406,,002,TOPCS MICROECON,"Graves, Jonathan",12,75.17,20.16,91,23,11,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,2,0,2,2,3,,,
+UBC,2018,W,ECON,490,,005,APPLIED ECON,"Graves, Jonathan",20,81.75,10.89,94,58,20,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,2,1,5,6,,,
+UBC,2018,W,ECON,490,,014,APPLIED ECON,"Graves, Jonathan",18,83.28,10.32,97,60,18,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,3,4,6,,,
+UBC,2018,W,ECON,492,F,001,DIRECTED READING,"Graves, Jonathan;Hnatkovska, Viktoriya",5,98,0,98,98,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBCV,2014,W,ECON,406,,001,Topics in Microeconomics,Jonathan Graves,10,71.6,23.79168856,93.0,8.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,ECON,406,,001,Topics in Microeconomics,Jonathan Graves,11,81.454545455,12.15206679,92.0,55.0,,,,,,,,,,,0,0,,,,,,,,,,,,
+UBCV,2016,W,ECON,406,,002,Topics in Microeconomics,Jonathan Graves,13,79.0,7.767453465,86.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,4,4,3,0,,,
+UBCV,2017,W,ECON,221,,001,Introduction to Strategic Thinking,Jonathan Graves;Jonathan Lewis Graves;Tiara Kerr;Weisi Liu,80,75.775,11.251975916,96.0,42.0,,,,,,,,,,,1,2,2,8,5,9,9,10,14,10,10,,,
+UBCV,2017,W,ECON,221,,003,Introduction to Strategic Thinking,Cristian Andres Troncoso-Valverde;Jonathan Graves;Jonathan Lewis Graves;Weisi Liu;Zicong Hu,85,75.988235294,11.048048866,95.0,45.0,,,,,,,,,,,2,0,6,4,6,12,7,10,19,10,9,,,
+UBCV,2017,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves;Jonathan Lewis Graves;Marina Adshade;Michael Wiebe,44,76.409090909,12.443954695,98.0,36.0,,,,,,,,,,,2,0,2,3,2,2,6,4,12,6,5,,,
+UBCV,2017,W,ECON,406,,002,Topics in Microeconomics,Jonathan Graves,18,76.722222222,11.291879204,91.0,40.0,,,,,,,,,,,1,0,0,0,1,1,3,5,2,4,1,,,
+UBCV,2017,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves,21,79.714285714,10.982453538,96.0,57.0,,,,,,,,,,,0,0,1,1,2,1,2,3,3,4,4,,,
+UBCV,2017,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves,19,80.052631579,9.294405033,92.0,56.0,,,,,,,,,,,0,0,1,0,1,1,3,1,7,2,3,,,
+UBCV,2018,W,ECON,221,,001,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali,95,74.042105263,12.890633074,97.0,11.0,,,,,,,,,,,3,3,4,6,3,11,19,13,16,9,8,,,
+UBCV,2018,W,ECON,221,,003,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali;Vanessa Alviarez,94,76.606382979,9.182988111,95.0,42.0,,,,,,,,,,,1,0,3,5,3,12,11,17,27,11,4,,,
+UBCV,2018,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves;Michael Wiebe,50,73.5,16.352307457,98.0,13.0,,,,,,,,,,,4,3,1,4,1,6,6,6,6,6,7,,,
+UBCV,2018,W,ECON,406,,002,Topics in Microeconomics,Jonathan Graves,12,75.166666667,20.162220897,91.0,23.0,,,,,,,,,,,1,1,0,0,1,0,2,0,2,2,3,,,
+UBCV,2018,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves;Marcelo Sacchi De Carvalho,20,81.75,10.891208429,94.0,58.0,,,,,,,,,,,0,0,1,1,0,1,3,2,1,5,6,,,
+UBCV,2018,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves;Michael Wiebe,18,83.277777778,10.323049912,97.0,60.0,,,,,,,,,,,0,0,0,1,1,0,2,1,3,4,6,,,
+UBCV,2019,W,ECON,221,,001,Introduction to Strategic Thinking,Huixin Duan;Jonathan Graves;Mauricio Drelichman;Sarah Maria Anastasia Webb,89,77.719101124,14.153371558,98.0,2.0,,,,,,,,,,,2,2,1,4,7,7,9,8,17,17,15,,,
+UBCV,2019,W,ECON,221,,003,Introduction to Strategic Thinking,Huixin Duan;Jonathan Graves;Sarah Maria Anastasia Webb,94,77.553191489,12.667473394,97.0,31.0,,,,,,,,,,,3,5,1,2,3,7,11,13,15,23,11,,,
+UBCV,2019,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves;Maria Tenyenhuis,40,80.175,11.971949052,100.0,55.0,,,,,,,,,,,0,0,3,0,3,5,3,2,6,5,13,,,
+UBCV,2019,W,ECON,398,,001,Introduction to Applied Economics,Francisco Eslava Saenz;Jonathan Graves,29,77.482758621,11.11183632,98.0,59.0,,,,,,,,,,,0,0,2,0,5,2,4,5,4,1,6,,,
+UBCV,2019,W,ECON,490,,005,Seminar in Applied Economics,Austin Mcwhirter;Jonathan Graves;Joshua Gottlieb,22,84.863636364,5.531687545,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,6,8,4,,,
+UBCV,2019,W,ECON,490,,014,Seminar in Applied Economics,Austin Mcwhirter;Jonathan Graves,20,78.75,11.616118565,96.0,50.0,,,,,,,,,,,0,1,0,0,2,3,0,4,4,2,4,,,
+UBCV,2020,W,ECON,221,,003,Introduction to Strategic Thinking,Federico Ricca;Jonathan Graves;Riel Tetrault,99,79.787878788,9.153200318,99.0,50.0,,,,,,,,,,,0,1,2,3,4,6,10,22,15,24,12,,,
+UBCV,2020,W,ECON,221,,004,Introduction to Strategic Thinking,Jonathan Graves;Laura Bosse Pickles;Marcelo Sacchi De Carvalho,84,81.333333333,10.27728028,100.0,52.0,,,,,,,,,,,0,1,1,2,4,6,8,14,12,18,18,,,
+UBCV,2020,W,ECON,398,,001,Introduction to Applied Economics,Ben Maclean Sand;Jonathan Graves;Yau Tung Chan;Yau Tung Thomas Chan,27,81.814814815,11.864741033,96.0,48.0,,,,,,,,,,,1,1,0,0,0,1,3,3,5,4,9,,,
+UBCV,2020,W,ECON,421,,003,Introduction to Game Theory and Applications.,Devan Rawlings;Jonathan Graves,33,79.303030303,13.015579243,99.0,29.0,,,,,,,,,,,1,0,1,1,0,2,5,5,6,6,6,,,
+UBCV,2020,W,ECON,490,,005,Seminar in Applied Economics,Heng Ju;Jonathan Graves;Yige Duan,20,86.85,9.421559822,95.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,1,3,2,12,,,
+UBCV,2020,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves;Pooya Rashidi Ravari,24,82.416666667,11.601786469,99.0,54.0,,,,,,,,,,,0,1,0,0,1,2,2,4,3,5,6,,,
+UBCV,2021,S,ECON,326,,921,Methods of Empirical Research in Economics,Emrul Hasan;Jan  Ksawery Rosa;Jonathan Graves,16,82.0625,6.329494451,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,5,5,2,3,,,
+UBCV,2021,S,ECON,326,,922,Methods of Empirical Research in Economics,Emrul Hasan;Jan  Ksawery Rosa;Jonathan Graves;Wendy Wai Yee Kei,20,77.15,11.352138681,94.0,52.0,,,,,,,,,,,0,2,0,0,2,1,3,3,3,4,2,,,
+UBCV,2021,W,ECON,221,,004,Introduction to Strategic Thinking,Allison Hancock;Emma Kinakin;Hao Li;Jonathan Graves,41,57.707317073,27.365346611,99.0,0.0,,,,,,,,,,,11,3,1,0,6,4,6,2,6,1,1,,,
+UBCV,2021,W,ECON,226,,004,Making Sense of Economic Data,Amirhossein Tavakoli;Jonathan Graves;Pooya Rashidi Ravari;Valeria Zolla,163,73.343558282,16.526962769,95.0,11.0,,,,,,,,,,,13,4,9,5,12,12,18,18,30,27,15,,,
+UBCV,2021,W,ECON,398,,001,Introduction to Applied Economics,Jonathan Graves;Yeow Chong Goh,45,72.533333333,21.2406129,100.0,3.0,,,,,,,,,,,5,2,2,0,4,4,3,5,6,6,8,,,
+UBCV,2021,W,ECON,421,,003,Introduction to Game Theory and Applications.,Jonathan Graves;Yupei Ma,32,81.28125,17.56873024,97.0,0.0,,,,,,,,,,,1,0,0,1,2,2,1,3,3,7,12,,,
+UBCV,2021,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves;Pierre-Loup Beauregard,22,83.090909091,5.630775054,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,11,3,3,,,
+UBCV,2021,W,ECON,490,,014,Seminar in Applied Economics,Federico Ricca;Jonathan Graves,20,79.8,11.632983959,97.0,51.0,,,,,,,,,,,0,1,1,0,0,2,2,3,1,5,5,,,
+UBCV,2021,S,ECON,326,,921,Methods of Empirical Research in Economics,Jonathan Graves;Emrul Hasan,16,82.1,,92.0,68.0,,,,,,,,,,,,,,,,,,,,,,82.5,86.5,77.8
+UBCV,2021,S,ECON,326,,922,Methods of Empirical Research in Economics,Jonathan Graves;Emrul Hasan,20,77.2,,94.0,52.0,,,,,,,,,,,,,,,,,,,,,,78.5,85.0,72.0
+UBCV,2021,W,ECON,226,,004,Making Sense of Economic Data,Jonathan Graves,163,74.0,,95.0,11.0,,,,,,,,,,,10,,10,,12,12,19,18,32,27,15,78.0,85.0,68.0
+UBCV,2021,W,ECON,398,,001,Introduction to Applied Economics,Jonathan Graves,45,72.5,,100.0,3.0,,,,,,,,,,,,,,,,,,,6,6,8,77.0,86.0,67.0
+UBCV,2021,W,ECON,421,,003,Introduction to Game Theory and Applications.,Jonathan Graves,32,81.3,,97.0,0.0,,,,,,,,,,,,,,,,,,,,7,12,87.0,91.0,78.3
+UBCV,2021,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves,22,83.1,,95.0,75.0,,,,,,,,,,,,,,,,,,,11,,,83.0,84.8,80.0
+UBCV,2021,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves,20,79.8,,97.0,51.0,,,,,,,,,,,,,,,,,,,,,,83.5,87.0,74.5
+UBCV,2022,S,ECON,221,,921,Introduction to Strategic Thinking,Jonathan Graves,85,75.6,,96.0,26.0,,,,,,,,,,,3,5,4,4,4,4,8,10,21,12,10,80.0,85.0,69.0
+UBCV,2022,W,ECON,226,,004,Making Sense of Economic Data,Jonathan Graves,155,72.4,,100.0,0.0,,,,,,,,,,,11,10,6,9,12,17,17,17,24,12,20,74.0,83.0,64.0
+UBCV,2022,W,ECON,326,,001,Methods of Empirical Research in Economics,Jonathan Graves,102,72.9,,98.0,35.0,,,,,,,,,,,3,4,6,5,10,16,14,17,13,6,8,73.0,80.8,67.0
+UBCV,2022,W,ECON,326,,005,Methods of Empirical Research in Economics,Jonathan Graves,90,73.2,,98.0,16.0,,,,,,,,,,,4,3,4,8,8,9,11,13,13,5,12,74.5,81.0,65.0
+UBCV,2022,W,ECON,398,,001,Introduction to Applied Economics,Jonathan Graves,30,80.9,,99.0,57.0,,,,,,,,,,,0,0,1,0,4,0,1,0,19,1,4,82.0,82.0,81.0
+UBCV,2022,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves,21,90.9,,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,16,91.0,92.0,90.0
+UBCV,2022,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves,20,84.7,,97.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,2,4,6,6,85.5,91.5,81.8
+UBCV,2023,W,ECON,102,,013,Principles of Macroeconomics,Jonathan Graves,80,70.6,,96.0,0.0,,,,,,,,,,,7,0,2,2,8,7,11,11,17,10,5,76.0,83.0,68.8
+UBCV,2023,W,ECON,221,,001,Introduction to Strategic Thinking,Jonathan Graves,145,69.4,,98.0,12.0,,,,,,,,,,,14,8,9,8,8,24,22,12,17,8,13,72.0,80.0,61.5
+UBCV,2023,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves,104,69.5,,95.0,3.0,,,,,,,,,,,9,6,10,5,7,8,14,9,22,9,5,73.5,82.0,60.0
+UBCV,2023,W,ECON,326,,003,Introduction to Econometrics II,Jonathan Graves,92,74.6,,95.0,22.0,,,,,,,,,,,6,1,2,3,5,9,12,12,14,15,6,77.0,84.0,69.0
+UBCV,2023,W,ECON,398,,001,Introduction to Applied Economics,Jonathan Graves,47,81.1,,97.0,30.0,,,,,,,,,,,2,0,0,3,0,0,2,0,21,10,9,81.0,86.0,81.0
+UBCV,2023,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves,26,84.3,,100.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,4,3,6,9,86.5,90.8,77.5
+UBCV,2023,W,PPGA,500,A,001,Economics for Policy,Jonathan Graves,64,86.02,,94.0,60.0,,,,,,,,,,,0,0,0,1,0,0,4,4,9,23,21,88.5,90.0,82.0
+UBCV,2023,W,PPGA,500,B,001,Economics for Policy,Jonathan Graves,60,87.72,,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,15,14,28,88.0,92.0,83.0

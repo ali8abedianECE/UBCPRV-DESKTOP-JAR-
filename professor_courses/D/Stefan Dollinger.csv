@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,ENGL,320,,001,HIST ENGL LANG,"Dollinger, Stefan",37,78.97,10.41,97,55,34,0,3,0,0,0,0,0,0,0,0,0,1,2,0,4,6,5,5,3,8,,,
+UBC,2007,W,ENGL,229,D,004,LANG / RHETORIC,"Dollinger, Stefan",33,76.16,17.23,100,0,31,1,1,0,0,1,0,0,0,0,1,1,2,0,0,4,2,5,6,8,3,,,
+UBC,2007,W,ENGL,323,A,001,VARIETIES ENGL,"Dollinger, Stefan",44,76.23,12.43,97,50,43,0,1,0,0,0,0,0,0,0,0,2,1,3,5,6,7,0,6,4,9,,,
+UBC,2009,W,ENGL,320,,003,HIST ENGL LANG,"Dollinger, Stefan",33,80.52,9.79,95,50,31,0,2,0,0,0,0,0,0,0,0,1,0,1,2,1,0,3,13,4,6,,,
+UBC,2009,W,ENGL,323,A,001,VARIETIES ENGL,"Dollinger, Stefan",42,82.54,11.84,100,52,41,0,1,0,0,0,0,0,0,0,0,1,0,2,2,4,2,2,7,10,11,,,
+UBC,2010,W,ENGL,320,,002,HIST ENGL LANG,"Dollinger, Stefan",39,77.23,11.14,96,51,35,0,4,0,0,0,0,0,0,0,0,1,1,4,0,5,1,6,9,2,6,,,
+UBC,2010,W,ENGL,323,A,001,VARIETIES ENGL,"Dollinger, Stefan",44,78.95,8.67,92,48,43,1,0,0,0,0,0,0,0,1,1,0,0,0,2,3,10,5,8,10,5,,,
+UBC,2011,S,ENGL,323,A,951,VARIETIES ENGL,"Dollinger, Stefan",28,81.78,6.69,92,66,27,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,6,10,2,,,
+UBC,2011,W,ENGL,320,,001,HIST ENGL LANG,"Dollinger, Stefan",31,77.93,7.04,90,64,30,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,3,11,4,6,1,,,
+UBC,2011,W,ENGL,508,A,001,STUD STRUC LANG,"Dollinger, Stefan",8,86.43,2.51,90,82,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,,,
+UBC,2012,W,ENGL,229,E,005,LANG / RHETORIC,"Dollinger, Stefan",21,75.71,20.11,93,0,20,1,0,0,0,1,0,0,0,0,1,0,0,1,2,3,2,1,3,2,6,,,
+UBC,2012,W,ENGL,323,A,001,VARIETIES ENGL,"Dollinger, Stefan",41,78.4,16.05,93,0,39,1,1,0,0,1,0,0,0,0,1,1,1,3,1,0,2,4,11,13,3,,,
+UBC,2012,W,ENGL,489,,004,MAJ SEMINAR LANG,"Dollinger, Stefan",17,84.44,5.12,91,73,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,8,2,,,
+UBC,2013,S,ENGL,229,A,921,LANG / RHETORIC,"Dollinger, Stefan",15,75.33,21.97,90,0,14,1,0,0,0,1,0,0,0,0,1,0,0,0,0,2,2,1,2,6,1,,,
+UBC,2013,W,ENGL,229,E,005,LANG / RHETORIC,"Dollinger, Stefan",33,80.83,7.56,90,60,30,0,3,0,0,0,0,0,0,0,0,0,0,1,2,1,4,3,6,12,1,,,
+UBC,2013,W,ENGL,323,A,001,VARIETIES ENGL,"Dollinger, Stefan",44,83.25,9.67,93,45,43,1,0,0,0,0,0,0,0,1,1,0,1,0,0,2,3,2,9,14,12,,,
+UBC,2013,W,ENGL,489,,001,MAJ SEMINAR LANG,"Dollinger, Stefan",9,87.38,3.25,91,81,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,,,
+UBC,2013,W,ENGL,501,A,001,BIBLIOGRAPHY,"Dollinger, Stefan",4,87.25,0.96,88,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,
+UBC,2014,W,ENGL,229,E,005,LANGUAG/RHETORIC,"Dollinger, Stefan",32,83.59,4.83,90,73,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,11,13,3,,,
+UBC,2014,W,ENGL,323,A,001,ENGLISH DIALECTS,"Dollinger, Stefan",41,81.26,8.32,94,55,39,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,3,6,12,11,4,,,
+UBC,2014,W,ENGL,330,A,002,ENGL STRUCTURE 1,"Dollinger, Stefan",29,82,7.48,96,66,27,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,6,8,4,,,
+UBC,2014,W,ENGL,489,,001,MAJ SEMINAR LANG,"Dollinger, Stefan",18,87,4.11,91,75,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,7,,,
+UBC,2018,W,ENGL,112,,12P,UNIVRSTY WRITING,"Dollinger, Stefan",31,83.84,6.9,91,57,31,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,5,16,5,,,
+UBC,2018,W,ENGL,323,A,001,ENGLISH DIALECTS,"Dollinger, Stefan",35,80,16.77,95,0,31,1,2,0,1,1,0,0,0,0,1,1,0,0,0,0,5,1,10,8,6,,,
+UBC,2018,W,ENGL,331,,001,ENGL STRUCTURE 2,"Dollinger, Stefan",42,85.29,11.31,99,54,42,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,2,1,7,8,17,,,
+UBC,2018,W,ENGL,507,A,001,ENG HIST LING,"Dollinger, Stefan",7,86.33,3.5,90,80,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBCV,2014,W,ENGL,229,E,005,Topics in the Study of Language and/or Rhetoric,Stefan Dollinger,32,83.59375,4.831745661,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,11,13,,,,
+UBCV,2014,W,ENGL,323,A,001,Varieties of English,Stefan Dollinger,39,81.25641026,8.315229999,94.0,55.0,,,,,,,,,,,0,0,,,,,,6,12,11,,,,
+UBCV,2014,W,ENGL,330,A,002,The Structure of Modern English: Sounds and Words,Stefan Dollinger,27,82.0,7.478173368,96.0,66.0,,,,,,,,,,,0,0,0,0,,,,,6,8,4,,,
+UBCV,2014,W,ENGL,489,,001,Language Majors Seminar,Stefan Dollinger,17,87.0,4.107919181,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,3,6,7,,,
+UBCV,2018,W,ENGL,112,,12P,Strategies for University Writing,Stefan Dollinger,31,83.838709677,6.904572273,91.0,57.0,,,,,,,,,,,0,0,1,0,0,0,2,2,5,16,5,,,
+UBCV,2018,W,ENGL,323,A,001,Varieties of English,Stefan Dollinger,32,81.5625,10.060903249,95.0,50.0,,,,,,,,,,,0,2,0,0,0,0,5,1,10,8,6,,,
+UBCV,2018,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Stefan Dollinger,42,85.285714286,11.310012215,99.0,54.0,,,,,,,,,,,0,1,0,1,1,4,2,1,7,8,17,,,
+UBCV,2018,W,ENGL,507,A,001,Studies in English Historical Linguistics,Stefan Dollinger,6,86.333333333,3.502380143,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,1,,,
+UBCV,2019,W,ENGL,229,,002,Topics in the Study of Language and/or Rhetoric,Stefan Dollinger,43,80.279069767,8.581057714,94.0,60.0,,,,,,,,,,,0,0,0,1,2,4,6,4,11,4,11,,,
+UBCV,2019,W,ENGL,321,,001,English Grammar and Usage,Stefan Dollinger,31,77.193548387,16.652165735,94.0,0.0,,,,,,,,,,,1,0,0,0,2,5,4,3,3,9,4,,,
+UBCV,2019,W,ENGL,323,,001,Varieties of English,Stefan Dollinger,31,84.258064516,4.979743915,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,9,10,7,,,
+UBCV,2019,W,ENGL,508,B,001,Linguistic Studies of Contemporary English,Stefan Dollinger,8,87.25,5.092010549,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,3,,,
+UBCV,2020,W,ENGL,323,,001,Varieties of English,Dina Al-Kassim;Stefan Dollinger,39,80.641025641,12.429775752,90.0,18.0,,,,,,,,,,,1,0,0,2,0,0,3,2,12,15,4,,,
+UBCV,2020,W,ENGL,326,,001,Studies in the English Language,Stefan Dollinger,22,81.636363636,9.727454786,90.0,56.0,,,,,,,,,,,0,0,1,1,0,2,0,1,5,8,4,,,
+UBCV,2020,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Adam Frank;Stefan Dollinger,41,83.170731707,8.924411575,95.0,51.0,,,,,,,,,,,0,1,0,1,0,1,3,3,14,5,13,,,
+UBCV,2020,W,ENGL,507,A,001,Studies in English Historical Linguistics,Stefan Dollinger,7,89.857142857,2.267786838,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,4,,,
+UBCV,2021,W,ENGL,229,,002,Topics in the Study of Language and/or Rhetoric,Stefan Dollinger,31,77.225806452,17.833881009,92.0,0.0,,,,,,,,,,,2,0,0,0,1,0,2,5,13,5,3,,,
+UBCV,2021,W,ENGL,323,,001,Varieties of English,Eva-Marie Kroller;Stefan Dollinger,27,81.037037037,15.96265228,92.0,14.0,,,,,,,,,,,2,0,0,0,0,0,0,2,8,11,4,,,
+UBCV,2021,W,ENGL,324,,001,English Corpus Linguistics,Stefan Dollinger,16,82.625,12.483989747,90.0,38.0,,,,,,,,,,,1,0,0,0,0,0,1,0,3,9,2,,,
+UBCV,2021,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Stefan Dollinger,44,74.795454545,17.240541115,96.0,16.0,,,,,,,,,,,3,0,1,0,3,3,7,7,8,8,4,,,
+UBCV,2021,W,ENGL,229,,002,Topics in the Study of Language and/or Rhetoric,Stefan Dollinger,31,77.2,,92.0,0.0,,,,,,,,,,,,,,,,,,,13,,,81.0,84.5,78.0
+UBCV,2021,W,ENGL,323,,001,Varieties of English,Stefan Dollinger,27,81.0,,92.0,14.0,,,,,,,,,,,,,,,,,,,8,11,,86.0,88.0,82.0
+UBCV,2021,W,ENGL,324,,001,English Corpus Linguistics,Stefan Dollinger,16,82.6,,90.0,38.0,,,,,,,,,,,,,,,,,,,,9,,86.0,88.0,83.8
+UBCV,2021,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Stefan Dollinger,44,74.8,,96.0,16.0,,,,,,,,,,,,,,,,,7,7,8,8,,78.0,85.0,72.0
+UBCV,2022,W,ENGL,323,,001,Varieties of English,Stefan Dollinger,40,84.7,,92.0,51.0,,,,,,,,,,,0,1,0,0,0,1,0,3,4,21,10,86.0,88.5,85.0
+UBCV,2022,W,ENGL,326,,002,Studies in the English Language,Stefan Dollinger,44,84.0,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,7,8,22,5,85.0,88.0,80.8
+UBCV,2022,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Stefan Dollinger,41,77.6,,94.0,55.0,,,,,,,,,,,0,0,1,0,3,5,9,6,8,1,8,77.0,82.0,72.0
+UBCV,2022,W,ENGL,507,B,001,Studies in English Historical Linguistics,Stefan Dollinger,7,87.4,,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,5,90.0,90.5,89.0
+UBCV,2023,W,ENGL,229,,002,Topics in the Study of Language and/or Rhetoric,Stefan Dollinger,38,80.7,,90.0,53.0,,,,,,,,,,,0,2,0,0,1,1,5,2,8,15,2,83.5,88.0,77.3
+UBCV,2023,W,ENGL,323,,001,Varieties of English,Stefan Dollinger,39,81.9,,92.0,62.0,,,,,,,,,,,0,0,0,1,0,0,2,7,14,9,5,82.0,85.0,78.5
+UBCV,2023,W,ENGL,331,,001,The Structure of Modern English: Sentences and Their Uses,Stefan Dollinger,43,76.5,,96.0,25.0,,,,,,,,,,,1,0,0,2,5,3,6,5,7,4,7,77.0,85.0,69.8
+UBCV,2023,W,ENGL,489,,001,Language Majors Seminar,Stefan Dollinger,17,83.5,,90.0,56.0,,,,,,,,,,,0,0,1,0,0,0,1,0,5,6,4,86.0,87.0,82.0

@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,FRST,430,,101,Advanced Biometrics,Bianca Eskelson;Kate Peterson;Liam Wesley Gilson;Melike Karaca Bulut;Omnia Ibrahim;Sushil Nepal,31,90.129032258,8.54299688,98.0,60.0,0,0,0,1,0,1,0,1,2,3,23,,,
+UBCV,2021,W,FRST,533,C,101,Problems in Statistical Methods,Bianca Eskelson;Omnia Ibrahim,23,92.086956522,3.654549387,97.0,83.0,0,0,0,0,0,0,0,0,1,4,18,,,
+UBCV,2021,W,GEM,540,,001,Linear Regression Models and Introduction to Spatial Statistics,Bianca Eskelson;Kate Peterson;Liam Wesley Gilson;Omnia Ibrahim;Sushil Nepal,28,90.785714286,4.349177384,97.0,77.0,0,0,0,0,0,0,0,1,1,5,21,,,
+UBCV,2021,W,FRST,430,,101,Advanced Biometrics,Omnia Ibrahim,31,90.1,,98.0,60.0,,,,,,,,,,,23,94.0,95.0,88.5
+UBCV,2021,W,FRST,533,C,101,Problems in Statistical Methods,Omnia Ibrahim,23,92.1,,97.0,83.0,,,,,,,,,,,18,93.0,94.0,90.5

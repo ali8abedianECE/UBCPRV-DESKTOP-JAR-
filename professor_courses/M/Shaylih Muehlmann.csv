@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,ANTH,217,,001,CULTURE & COMMNC,"Muehlmann, Shaylih",99,75.51,9.5,92,38,95,3,0,1,0,0,0,0,1,2,3,0,1,4,9,7,20,26,13,12,3,,,
+UBC,2010,W,ANTH,300,A,002,CONTMP ANTH THRY,"Muehlmann, Shaylih",28,71.11,15.94,87,0,26,1,1,0,0,1,0,0,0,0,1,1,0,0,4,3,5,7,5,1,0,,,
+UBC,2010,W,ANTH,540,D,001,ADVANCED SEMINAR,"Muehlmann, Shaylih",15,82.93,11.08,90,46,13,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,5,6,2,,,
+UBC,2011,W,ANTH,300,A,001,CONTMP ANTH THRY,"Muehlmann, Shaylih",33,77.94,6.05,92,63,33,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,13,9,2,1,,,
+UBC,2011,W,ANTH,540,D,001,ADVANCED SEMINAR,"Muehlmann, Shaylih",12,85.92,4.68,91,73,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,3,,,
+UBC,2012,W,ANTH,217,,001,CULTURE & COMMNC,"Muehlmann, Shaylih",193,74.37,7.88,96,54,179,0,8,0,1,0,0,0,0,0,0,3,4,9,13,29,41,33,32,9,6,,,
+UBC,2012,W,ANTH,300,A,002,CONTMP ANTH THRY,"Muehlmann, Shaylih",24,75.64,10.66,88,36,21,1,1,0,0,0,0,0,1,0,1,0,0,0,1,2,6,3,6,3,0,,,
+UBC,2015,W,ANTH,217,,001,CULTURE & COMMNC,"Muehlmann, Shaylih",147,74.38,9.35,91,44,141,2,3,0,0,0,0,0,0,2,2,3,6,7,13,15,24,26,29,14,4,,,
+UBC,2015,W,ANTH,300,A,002,CONTMP ANTH THRY,"Muehlmann, Shaylih",35,77.55,12.88,96,19,28,1,1,0,0,0,1,0,0,0,1,0,0,0,0,3,4,5,11,3,2,,,
+UBC,2016,W,ANTH,300,A,200,CONTMP ANTH THRY,"Muehlmann, Shaylih",32,73.63,16.23,92,0,31,1,0,0,0,1,0,0,0,0,1,0,2,2,1,3,6,5,7,2,3,,,
+UBC,2016,W,ANTH,540,B,003,ADVANCED SEMINAR,"Muehlmann, Shaylih",6,91.33,2.07,94,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2018,W,ANTH,203,,001,ANTH DRUG,"Muehlmann, Shaylih",126,74.69,11.25,96,8,116,2,4,0,3,1,0,0,1,0,2,0,6,4,8,23,10,22,28,10,5,,,
+UBC,2018,W,ANTH,300,A,200,CONTMP ANTH THRY,"Muehlmann, Shaylih",35,76.79,14.84,87,0,33,1,1,0,0,1,0,0,0,0,1,0,0,2,0,1,3,7,16,4,0,,,
+UBC,2018,W,ANTH,495,C,200,ADV STUDIES ANTH,"Muehlmann, Shaylih",16,83.69,3.84,90,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,5,1,,,
+UBCV,2015,W,ANTH,217,,001,Culture and Communication,Adam Solomonian;Martina Volfova;Shaylih Muehlmann,139,74.438848921,9.444816927,91.0,44.0,,,,,,,,,,,,,6,7,12,14,24,24,29,14,,,,
+UBCV,2015,W,ANTH,300,A,002,Contemporary Anthropological Theory,Oralia Gomez-Ramirez;Shaylih Muehlmann,34,77.029411765,12.054133691,96.0,19.0,,,,,,,,,,,,,,,,,6,7,11,,,,,
+UBCV,2016,W,ANTH,300,A,200,Contemporary Anthropological Theory,Daniel Manson;Shaylih Muehlmann,32,73.625,16.23367667,92.0,0.0,,,,,,,,,,,1,0,2,2,1,3,6,5,7,2,3,,,
+UBCV,2016,W,ANTH,540,B,003,Advanced Seminar,Shaylih Muehlmann,6,91.33333333,2.065591118,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2018,W,ANTH,203,,001,Anthropology of Drugs,Michelle Hepburn;Shaylih Muehlmann,122,74.524590164,11.150520215,96.0,8.0,,,,,,,,,,,2,0,6,5,9,23,11,23,28,10,5,,,
+UBCV,2018,W,ANTH,300,A,200,Contemporary Anthropological Theory,Andrew Martindale;Emily Amburgey;Shaylih Muehlmann,34,76.794117647,14.83603192,87.0,0.0,,,,,,,,,,,1,0,0,2,0,1,3,7,16,4,0,,,
+UBCV,2018,W,ANTH,495,C,200,Advanced Studies in Anthropology,Nicola Levell;Shaylih Muehlmann,16,83.6875,3.842199891,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,5,1,,,
+UBCV,2019,W,ANTH,203,,001,Anthropology of Drugs,Amirpouyan Shiva;Jad Brake;Lara Sarlak;Shaylih Muehlmann,136,74.213235294,9.843522471,90.0,20.0,,,,,,,,,,,2,2,4,3,12,20,26,30,23,10,4,,,
+UBCV,2019,W,ANTH,203,,101,Anthropology of Drugs,Daniel Manson;Natasha Kristine Osing;Natasha Osing;Shaylih Muehlmann,140,75.414285714,8.578025895,92.0,30.0,,,,,,,,,,,1,0,2,9,8,18,26,30,31,10,5,,,
+UBCV,2019,W,ANTH,300,A,001,Contemporary Anthropological Theory,Ana Vivaldi Pasqua;Brenda Fitzpatrick;Sarah Raven;Shaylih Muehlmann,17,74.764705882,21.194130708,91.0,0.0,,,,,,,,,,,1,0,0,1,2,1,0,3,2,6,1,,,
+UBCV,2019,W,ANTH,300,A,200,Contemporary Anthropological Theory,Hilal Kina;Shaylih Muehlmann,41,76.073170732,13.146083531,88.0,0.0,,,,,,,,,,,1,0,0,0,1,3,6,15,11,4,0,,,
+UBCV,2020,W,ANTH,203,,001,Anthropology of Drugs,Alexia Bloch;Amirpouyan Shiva;Danielle Gendron;Nancy Kimberley Phillips;Nancy Phillips;Raphael Deberdt;Shaylih Muehlmann,143,77.167832168,6.474202343,91.0,49.0,,,,,,,,,,,1,0,1,2,7,15,18,57,26,14,2,,,
+UBCV,2020,W,ANTH,203,,101,Anthropology of Drugs,Hilary Agro;Hugh Phillimore Gusterson;Kendra Jewell;Raphael Deberdt;Shaylih Muehlmann,142,75.197183099,12.100196022,94.0,0.0,,,,,,,,,,,2,1,4,10,8,13,16,39,29,15,5,,,
+UBCV,2020,W,ANTH,300,A,001,Contemporary Anthropological Theory,Amirpouyan Shiva;Lauren Elizabeth Harding;Lauren Harding;Shaylih Muehlmann,46,75.086956522,10.970315679,88.0,14.0,,,,,,,,,,,1,0,0,1,4,3,10,13,8,6,0,,,
+UBCV,2020,W,ANTH,300,A,200,Contemporary Anthropological Theory,Natasha Osing;Raphael Deberdt;Sara Shneiderman;Shaylih Muehlmann,30,79.0,5.570860145,91.0,68.0,,,,,,,,,,,0,0,0,0,0,4,4,5,12,4,1,,,
+UBCV,2021,W,ANTH,203,,001,Anthropology of Drugs,Chris Springer;Lara Sarlak;Shaylih Muehlmann;Sonya Prasad;Sophie Mckenzie,160,70.6,9.201585863,90.0,32.0,,,,,,,,,,,2,8,8,12,15,32,36,18,25,3,1,,,
+UBCV,2021,W,ANTH,300,A,001,Contemporary Anthropological Theory,Amirpouyan Shiva;Sarah Raven;Shaylih Muehlmann,44,78.818181818,6.868440557,89.0,56.0,,,,,,,,,,,0,0,1,1,0,4,4,9,16,9,0,,,
+UBCV,2021,W,ANTH,203,,001,Anthropology of Drugs,Shaylih Muehlmann,160,70.8,,90.0,32.0,,,,,,,,,,,,8,8,12,16,32,36,18,25,,,72.0,76.0,66.0
+UBCV,2021,W,ANTH,300,A,001,Contemporary Anthropological Theory,Shaylih Muehlmann,44,78.8,,89.0,56.0,,,,,,,,,,,,,,,,,,9,16,9,,80.0,82.3,76.8
+UBCV,2023,W,ANTH,203,,001,Anthropology of Drugs,Shaylih Muehlmann,141,72.6,,92.0,2.0,,,,,,,,,,,4,3,6,9,13,17,24,22,19,13,5,74.0,80.0,67.0
+UBCV,2023,W,ANTH,300,A,002,Contemporary Anthropological Theory,Shaylih Muehlmann,44,82.3,,95.0,60.0,,,,,,,,,,,0,0,0,2,0,2,3,3,15,10,9,83.0,87.0,80.0
+UBCV,2023,W,ANTH,495,C,001,Advanced Studies in Anthropology,Shaylih Muehlmann,17,87.2,,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,6,8,88.0,91.0,85.0

@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2020,S,COSC,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,81,79.24691358,10.505392501,97.0,45.0,2,0,1,2,5,7,10,13,14,11,16
+UBCO,2020,S,DATA,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,53,78.377358491,13.113742667,100.0,41.0,2,0,1,1,7,6,5,8,2,7,14
+UBCO,2020,S,MATH,221,,001,Matrix Algebra,Alejandra Fuentes Nunez;Ali Ladha;Bradley Reinholz;Chad Davis;Islam Osman;Katrina Martel;Rishab Sharma,54,66.685185185,18.392804247,98.0,0.0,13,1,2,3,5,5,8,3,7,4,3

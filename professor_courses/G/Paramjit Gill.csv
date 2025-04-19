@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,STAT,230,,001,Introductory Statistics,Paramjit Gill,170,70.09411765,13.60266553,96.0,5.0,5,7,14,21,15,19,25,11,31,10,12,,,
+UBCO,2014,W,STAT,240,,001,Statistical Reasoning,Joel Therrien;Paramjit Gill,19,67.05263158,14.99434591,90.0,35.0,,,,,,,5,,,,,,,
+UBCO,2014,W,STAT,309,,001,Introduction to Statistical Inference,Paramjit Gill;Stefan Sremac,25,59.36,23.46429912,97.0,0.0,5,,,,,,,,,,,,,
+UBCO,2014,W,STAT,405,,001,Design and Analysis of Experiments,Paramjit Gill,8,74.625,12.50071427,94.0,60.0,0,0,0,,,,,,,,,,,
+UBCO,2015,W,STAT,124,,001,Business Statistics,Paramjit Gill,90,62.666666667,18.659575967,91.0,17.0,13,11,5,11,8,9,7,5,11,7,3,,,
+UBCO,2015,W,STAT,124,,101,Business Statistics,Paramjit Gill;Sarah Macqueen;Xi Wang,116,62.215517241,18.065487651,93.0,0.0,15,14,11,9,16,11,11,13,9,4,3,,,
+UBCO,2015,W,STAT,310,,001,Regression Analysis,Paramjit Gill,7,69.285714286,20.204902753,94.0,36.0,,,,,,,,,,,,,,
+UBCO,2016,W,STAT,124,,001,Business Statistics,Chad Davis;Maryam Sadeghi;Paramjit Gill;Robert Smith,106,67.1509434,17.35664684,95.0,20.0,13,9,11,5,8,9,9,11,14,8,9,,,
+UBCO,2016,W,STAT,310,,001,Regression Analysis,Paramjit Gill,15,70.33333333,22.69256224,92.0,10.0,2,0,0,0,2,2,0,3,1,2,3,,,
+UBCO,2017,W,STAT,124,,001,Business Statistics,Emma Richardson;Megan Kurz;Micah Beatty;Paramjit Gill;Phillip Shreeves;Sarah Macqueen;Zachary Bingley,225,62.444444444,21.648320988,95.0,0.0,43,19,9,15,13,26,28,21,20,19,12,,,
+UBCO,2017,W,STAT,230,,001,Introductory Statistics,Chelsey Hvingelby;Dongying Wang;Megan Kurz;Paramjit Gill,128,71.1171875,14.561096423,98.0,17.0,6,7,6,13,10,18,10,18,14,10,16,,,
+UBCO,2017,W,STAT,230,,101,Introductory Statistics,Chelsey Hvingelby;Paramjit Gill;Sarah Macqueen,85,67.470588235,17.52996634,96.0,11.0,9,8,5,10,4,9,7,4,16,7,6,,,
+UBCO,2017,W,STAT,406,,001,Environmetrics,Jason Loeppky;John Braun;Paramjit Gill,9,83.222222222,12.04966574,98.0,60.0,0,0,0,1,0,0,2,0,1,1,4,,,
+UBCO,2018,W,COSC,421,,101,Network Science,Paramjit Gill,9,73.111111111,8.313309276,87.0,64.0,0,0,0,0,2,2,2,1,0,2,0,,,
+UBCO,2018,W,DATA,407,,101,Sampling and Design,Paramjit Gill,18,61.944444444,13.635905122,85.0,35.0,2,2,3,2,3,1,2,1,1,1,0,,,
+UBCO,2018,W,STAT,401,,101,Probability and Statistical Inference,Paramjit Gill,9,55.777777778,20.510837244,85.0,12.0,1,3,1,1,1,0,0,1,0,1,0,,,
+UBCO,2018,W,STAT,560,,001,Probability and Stochastic Processes,Paramjit Gill,6,76.833333333,7.111024305,85.0,68.0,0,0,0,0,0,2,0,0,3,1,0,,,
+UBCO,2019,W,COSC,421,,101,Network Science,Billy Spelchan;Paramjit Gill,13,77.153846154,11.80992629,93.0,50.0,0,1,0,1,1,0,0,2,4,3,1,,,
+UBCO,2019,W,DATA,407,,101,Sampling and Design,Marjan Yaghoubi;Paramjit Gill,23,62.0,20.547063493,92.0,10.0,5,1,2,2,2,3,1,2,2,1,2,,,
+UBCO,2019,W,DATA,421,,101,Network Science,Billy Spelchan;Paramjit Gill,11,77.818181818,9.734661595,95.0,60.0,0,0,0,1,1,0,1,2,3,2,1,,,
+UBCO,2019,W,STAT,230,,101,Introductory Statistics,Hong-Anh Tran;Maria Guenter;Maryam Sadeghi;Paramjit Gill;Tyler David Weames;Tyler Weames,133,76.368421053,15.263083649,96.0,0.0,5,3,3,5,7,7,19,14,23,19,28,,,
+UBCO,2019,W,STAT,507,,101,Sampling and Design,Paramjit Gill,7,87.428571429,5.623081683,94.0,81.0,0,0,0,0,0,0,0,0,3,1,3,,,
+UBCO,2019,W,STAT,560,,001,Probability and Stochastic Processes,Paramjit Gill,7,80.428571429,5.968169537,87.0,70.0,0,0,0,0,0,1,0,1,2,3,0,,,
+UBCO,2020,W,DATA,407,,101,Sampling and Design,Marjan Yaghoubi;Paramjit Gill,19,70.842105263,11.500063565,90.0,50.0,0,1,2,1,5,0,2,1,5,1,1,,,
+UBCO,2020,W,STAT,401,,101,Probability and Statistical Inference,Paramjit Gill,11,75.454545455,9.771014649,90.0,55.0,0,0,1,0,1,1,1,1,5,0,1,,,
+UBCO,2020,W,STAT,403,,001,Stochastic Processes,Eric Foxall;Paramjit Gill,12,73.833333333,16.737727299,98.0,50.0,0,1,2,1,1,2,0,0,1,1,3,,,
+UBCO,2021,W,COSC,421,,101,Network Science,Ethan (Hong-Jiang) Sim;Paramjit Gill;Roozbeh Eslami,16,72.25,12.096831541,95.0,51.0,0,1,2,1,2,1,1,1,5,1,1,,,
+UBCO,2021,W,DATA,407,,101,Sampling and Design,Mojtaba Pasha;Paramjit Gill,20,67.7,15.898030331,91.0,30.0,2,1,2,2,3,1,2,1,2,3,1,,,
+UBCO,2021,W,DATA,421,,101,Network Science,Ethan (Hong-Jiang) Sim;Paramjit Gill;Roozbeh Eslami,26,78.961538462,10.405693708,91.0,52.0,0,2,0,0,1,1,0,7,6,4,5,,,
+UBCO,2021,W,DATA,407,,101,Sampling and Design,Paramjit Gill;Mojtaba Pasha,20,67.7,,91.0,30.0,,,,,,,,,,,,68.0,80.5,59.0
+UBCO,2021,W,DATA,421,,101,Network Science,Paramjit Gill,26,79.0,,91.0,52.0,,,,,,,,7,6,,,80.0,86.0,76.0
+UBCO,2022,W,DATA,310,,101,Applied Regression Analysis,Paramjit Gill,11,67.2,,85.0,30.0,1,0,1,1,2,1,1,2,0,2,0,70.0,76.0,62.0
+UBCO,2022,W,DATA,407,,101,Sampling and Design,Paramjit Gill,24,64.9,,91.0,10.0,2,3,4,0,1,3,2,4,1,2,2,68.0,76.0,55.0
+UBCO,2023,W,DATA,407,,101,Sampling and Design,Paramjit Gill,34,70.3,,99.0,36.0,3,0,3,2,4,2,5,6,3,1,3,74.0,77.3,63.8
+UBCO,2023,W,STAT,401,,101,Probability and Statistical Inference,Paramjit Gill,25,64.6,,96.0,20.0,4,0,3,3,1,2,1,4,1,1,2,67.0,77.0,55.3

@@ -1,0 +1,59 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,HCEP,580,E,001,DIR STUDIES,"Frankish, Charles James",9,85.56,1.81,87,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0
+UBC,2002,W,IHHS,200,,001,,"Frankish, Charles James;Ostry, Aleck",31,89.9,6.85,99,66,30,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,6,20
+UBC,2002,W,IHHS,200,,002,,"Frankish, Charles James",44,87.66,5.95,95,70,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,10,8,22
+UBC,2003,W,HCEP,545,,002,COM HLTH PROM,"Frankish, Charles James",7,87.33,4.23,95,84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1
+UBC,2003,W,HCEP,581,,001,SELECTED TOPICS,"Frankish, Charles James",12,85.29,2.21,87,81,7,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0
+UBC,2003,W,IHHS,200,,001,,"Frankish, Charles James",39,91.1,4.28,98,78,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,27
+UBC,2003,W,IHHS,200,,002,,"Frankish, Charles James",38,93.65,4.92,100,82,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,31
+UBC,2005,W,HCEP,581,,001,SELECTED TOPICS,"Frankish, Charles James",9,89.89,3.14,95,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5
+UBC,2005,W,IHHS,200,,001,,"Frankish, Charles James",41,86.54,5.07,95,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,8,17,13
+UBC,2005,W,IHHS,200,,002,,"Frankish, Charles James",43,92.65,3.87,99,85,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,33
+UBC,2006,W,HCEP,545,,002,COM HLTH PROM,"Frankish, Charles James",6,88.17,2.48,90,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2006,W,HCEP,546,,002,COM HLTH PROM,"Frankish, Charles James",5,88.8,2.17,90,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2006,W,IHHS,200,,001,,"Frankish, Charles James",46,90.29,3.46,96,80,45,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15,28
+UBC,2006,W,IHHS,200,,002,,"Frankish, Charles James",36,91.5,3.66,98,84,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,25
+UBC,2007,W,HCEP,545,,002,COM HLTH PROM,"Frankish, Charles James",8,90.88,2.42,94,87,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+UBC,2007,W,HCEP,546,,002,COM HLTH PROM,"Frankish, Charles James",9,90.22,2.99,94,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6
+UBC,2009,W,IHHS,200,,001,,"Frankish, Charles James",52,92.96,4.72,98,70,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7,44
+UBC,2009,W,IHHS,200,,002,,"Frankish, Charles James",51,94.96,2.88,100,87,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,49
+UBC,2009,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",12,95.09,1.51,98,93,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2009,W,SPPH,546,,002,COM HLTH PROM,"Frankish, Charles James",11,95.1,1.6,98,93,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+UBC,2010,W,IHHS,200,,001,,"Frankish, Charles James",50,92.28,2.67,98,85,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,43
+UBC,2010,W,IHHS,200,,002,,"Frankish, Charles James",50,93.28,3.52,98,84,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,41
+UBC,2010,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",12,92.36,1.36,94,90,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2010,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",4,92.75,2.5,96,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2010,W,SPPH,546,,002,COM HLTH PROM,"Frankish, Charles James",11,92.36,1.36,94,90,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2010,W,SPPH,546,,DL1,COM HLTH PROM,"Frankish, Charles James",4,92.75,2.5,96,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2011,W,IHHS,200,,001,,"Frankish, Charles James",51,96.35,2.14,99,88,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,50
+UBC,2011,W,IHHS,200,,002,,"Frankish, Charles James",50,94.36,4.2,98,78,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,44
+UBC,2011,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",10,94.38,1.92,97,91,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2011,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",13,93.92,2.15,97,90,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2011,W,SPPH,546,,002,COM HLTH PROM,"Frankish, Charles James",9,94.38,1.92,97,91,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2011,W,SPPH,546,,DL1,COM HLTH PROM,"Frankish, Charles James",13,93.92,2.15,97,90,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2012,W,IHHS,200,,001,,"Frankish, Charles James",51,93.29,2.96,98,81,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,49
+UBC,2012,W,IHHS,200,,002,,"Frankish, Charles James",50,95.48,1.89,98,90,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+UBC,2012,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",4,94.5,1.29,96,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2012,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",8,92.86,2.91,96,88,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2012,W,SPPH,546,,002,COM HLTH PROM,"Frankish, Charles James",4,94.5,1.29,96,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2012,W,SPPH,546,,DL1,COM HLTH PROM,"Frankish, Charles James",8,92.86,2.91,96,88,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2013,W,IHHS,200,,001,,"Frankish, Charles James",51,95.35,2.17,98,90,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+UBC,2013,W,IHHS,200,,002,,"Frankish, Charles James",50,94.46,1.59,96,89,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49
+UBC,2013,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",6,92.5,1.64,94,90,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+UBC,2013,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",16,93.94,2.98,97,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+UBC,2013,W,SPPH,546,,002,COM HLTH PROM,"Frankish, Charles James",6,92.5,1.64,94,90,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+UBC,2013,W,SPPH,546,,DL1,COM HLTH PROM,"Frankish, Charles James",16,93.94,2.98,97,85,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15
+UBC,2014,W,IHHS,200,,001,,"Frankish, Charles James",50,95.02,6.68,98,50,50,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,49
+UBC,2014,W,IHHS,200,,002,,"Frankish, Charles James",50,95.52,1.76,98,91,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+UBC,2014,W,SPPH,545,,002,COM HLTH PROM,"Frankish, Charles James",10,94.1,2.02,97,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+UBC,2014,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",9,93,1.73,96,90,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+UBC,2015,W,SPPH,200,,001,SOCIOCULT DETERM,"Frankish, Charles James",56,96.96,1.61,98,89,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,55
+UBC,2015,W,SPPH,200,,002,SOCIOCULT DETERM,"Frankish, Charles James;Guhn, Martin;Tanimura, Kanna",36,93.89,5.92,100,75,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5,29
+UBC,2015,W,SPPH,545,,DL1,COM HLTH PROM,"Frankish, Charles James",12,93.58,1.62,96,91,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2014,W,IHHS,200,,001,Understanding the Sociocultural Determinants of the Health of Populations,Charles James Frankish,50,95.02,6.677681377,98.0,50.0,,,,,,,,,,,0,,,,,,,,,,49
+UBCV,2014,W,IHHS,200,,002,Understanding the Sociocultural Determinants of the Health of Populations,Charles James Frankish,50,95.52,1.76403989,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,50
+UBCV,2014,W,SPPH,545,,002,Community Health Promotion,Charles James Frankish,10,94.1,2.024845673,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2014,W,SPPH,545,,DL1,Community Health Promotion,Charles James Frankish,9,93.0,1.732050808,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,SPPH,200,,001,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish,56,96.964285714,1.60639954,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,55
+UBCV,2015,W,SPPH,200,,002,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish;Kanna Tanimura;Martin Guhn,36,93.888888889,5.917421146,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,5,29
+UBCV,2015,W,SPPH,545,,DL1,Community Health Promotion,Charles Frankish;Charles James Frankish,12,93.583333333,1.621353718,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12

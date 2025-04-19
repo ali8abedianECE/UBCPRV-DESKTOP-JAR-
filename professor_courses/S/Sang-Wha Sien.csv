@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CPSC,430,,101,Computers and Society,Baraa Orabi;David Johnson;Jerry Jim;Kevin Leyton-Brown;Sang-Wha Sien,117,83.290598291,6.859501124,94.0,42.0,1,0,0,1,2,0,8,8,50,30,17,,,
+UBCV,2019,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Joanna Mcgrenere;Kevin Chow;Sang-Wha Sien,30,82.166666667,7.547931132,90.0,66.0,0,0,0,0,2,3,1,2,4,16,2,,,
+UBCV,2020,W,CPSC,544,,101,Human Computer Interaction,Dongwook Yoon;Heather O'Brien;Joanna Mcgrenere;Sang-Wha Sien,24,89.208333333,1.413572922,91.0,85.0,0,0,0,0,0,0,0,0,0,16,8,,,
+UBCV,2021,W,CPSC,544,,101,Human Computer Interaction,Heather O'Brien;Isabelle Rash;Sang-Wha Sien,38,87.763157895,1.880687202,91.0,83.0,0,0,0,0,0,0,0,0,2,31,5,,,
+UBCV,2023,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Sang-Wha Sien,43,81.3,,92.0,49.0,1,0,0,0,1,2,3,7,12,13,4,83.0,86.0,77.0

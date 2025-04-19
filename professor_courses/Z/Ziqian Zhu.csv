@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2016,W,BAMS,503,,OR1,Simulation for Decision Making,Steven Shechter;Ziqian Zhu,15,82.06666667,8.64759807,92.0,57.0,0,0,,,,,1,2,4,5,2
+UBCV,2016,W,BAMS,504,,OR1,Advanced Simulation for Decision Making,Steven Shechter;Ziqian Zhu,13,85.0,3.785938897,93.0,79.0,0,0,0,0,0,0,0,1,8,2,2
+UBCV,2016,W,BAMS,517,,OR1,Decision Analysis,Steven Shechter;Ziqian Zhu,13,80.23076923,6.112198815,86.0,62.0,0,0,0,1,0,0,0,2,8,2,0
+UBCV,2021,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Steven Shechter;Ziqian Zhu,65,83.6,4.376071297,92.0,74.0,0,0,0,0,0,0,2,8,27,23,5
+UBCV,2021,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Steven Shechter;Ziqian Zhu,65,80.046153846,8.309314745,99.0,65.0,0,0,0,0,6,7,7,11,12,13,9
+UBCV,2021,W,BASC,500,,820,Process Fundamentals,Woonghee Tim Huh;Ziqian Zhu,33,86.575757576,5.196334664,94.0,72.0,0,0,0,0,0,0,2,1,6,12,12
+UBCV,2021,W,BASC,550,,101,Operations,Iman Nosoohi;Woonghee Tim Huh;Ziqian Zhu,42,87.261904762,5.596425357,94.0,61.0,0,0,0,1,0,0,0,1,6,15,19
+UBCV,2021,W,COMR,398,,201,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh;Ziqian Zhu,51,80.235294118,8.647747071,94.0,46.0,1,0,0,0,1,6,6,5,15,10,7
+UBCV,2021,W,COMR,398,,202,Introduction to Business Processes and Operations,Hossein Piri;Mahesh Nagarajan;Woonghee Tim Huh;Ziqian Zhu,49,75.428571429,16.590660023,92.0,29.0,5,1,0,0,2,3,3,10,9,9,7

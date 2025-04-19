@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,DHYG,401,,99C,ORAL EPIDEMIOLGY,"Shariati, Batoul",25,,,,,0,0,3,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Cramer, Carl;Shariati, Batoul",28,79.19,4.02,89,72,26,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,12,2,0,,,
+UBC,2010,W,DHYG,401,,99B,ORAL EPIDEMIOLGY,"Shariati, Batoul",25,74.58,19.85,90,0,22,2,1,0,0,1,0,0,1,0,2,1,0,0,0,0,2,7,8,3,1,,,
+UBC,2010,W,DHYG,401,,99C,ORAL EPIDEMIOLGY,"Cramer, Carl;Shariati, Batoul",18,,,,,0,0,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",28,79.6,5.09,90,72,25,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,5,7,8,4,1,,,
+UBC,2012,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",19,78.59,3.18,85,72,17,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,6,6,1,0,,,
+UBC,2012,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",27,78.58,4.37,86,71,24,0,2,0,1,0,0,0,0,0,0,0,0,0,0,2,4,6,11,1,0,,,
+UBC,2013,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",21,79.45,4.02,88,73,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,6,3,0,,,
+UBC,2013,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",26,81.92,4.73,91,74,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,7,1,,,
+UBC,2014,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",24,77.83,5.99,94,67,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,6,10,1,1,,,
+UBC,2014,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",19,77.73,4.61,86,70,15,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,4,5,4,1,0,,,
+UBC,2015,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",22,77.81,6,86,64,21,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6,4,6,3,0,,,
+UBC,2015,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",22,80.11,5.28,88,71,18,0,2,0,2,0,0,0,0,0,0,0,0,0,0,1,4,4,5,4,0,,,
+UBC,2016,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",25,78.16,5.54,88,62,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,9,7,3,0,,,
+UBC,2016,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",18,80.11,3.39,87,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,6,2,0,,,
+UBC,2017,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",28,75.57,8.81,85,37,27,1,0,0,0,0,0,0,1,0,1,0,0,0,0,5,3,11,7,1,0,,,
+UBC,2017,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",16,76.93,5.47,85,67,15,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,5,2,5,1,0,,,
+UBC,2018,W,DHYG,401,,001,ORAL EPIDEMIOLGY,"Shariati, Batoul",23,73.91,15.14,89,9,22,1,0,0,0,1,0,0,0,0,1,0,0,0,2,1,7,5,5,2,0,,,
+UBC,2018,W,DHYG,401,,99A,ORAL EPIDEMIOLGY,"Shariati, Batoul",16,76.13,5.28,88,66,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,3,3,1,0,,,
+UBCV,2014,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,24,77.83333333,5.990330372,94.0,67.0,,,,,,,,,,,0,0,0,0,,,,6,10,,,,,
+UBCV,2014,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,18,73.77777778,10.03848803,86.0,52.0,,,,,,,,,,,0,,,,,,,5,4,,0,,,
+UBCV,2015,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,22,76.818181818,7.474632424,86.0,56.0,,,,,,,,,,,0,0,,,,,6,,6,,0,,,
+UBCV,2015,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,18,80.111111111,5.279136392,88.0,71.0,,,,,,,,,,,0,0,0,0,0,,4,,5,,0,,,
+UBCV,2016,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,25,78.16,5.535341001,88.0,62.0,,,,,,,,,,,0,0,0,1,0,1,4,9,7,3,0,,,
+UBCV,2016,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,18,80.11111111,3.393573319,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,9,6,2,0,,,
+UBCV,2017,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,28,75.571428571,8.808365432,85.0,37.0,,,,,,,,,,,1,0,0,0,0,5,3,11,7,1,0,,,
+UBCV,2017,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,15,76.933333333,5.470265946,85.0,67.0,,,,,,,,,,,0,0,0,0,1,1,5,2,5,1,0,,,
+UBCV,2018,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Batoul Shariati;Carrie Krekoski;Denise Laronde;Diana Lin;Hin Chung Pau;Jelena Karan;Jelena Prelec;Lari Hakkinen;Penny Hatzimanolakis;Ravindra Shah;Zul Kanji,24,78.791666667,3.476369504,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,8,9,1,0,,,
+UBCV,2018,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,23,73.913043478,15.138491109,89.0,9.0,,,,,,,,,,,1,0,0,0,2,1,7,5,5,2,0,,,
+UBCV,2018,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,16,76.125,5.277309921,88.0,66.0,,,,,,,,,,,0,0,0,0,1,1,7,3,3,1,0,,,
+UBCV,2019,W,DHYG,310,,001,Dental Hygiene Theory & Practice III,Batoul Shariati;Denise Laronde;Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Sepehr Zahedi;Susan Schmitz;Zul Kanji,23,80.565217391,3.382119924,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,6,12,3,0,,,
+UBCV,2019,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati;Diana Lin;Hin Chung Pau,23,77.391304348,5.349079194,87.0,67.0,,,,,,,,,,,0,0,0,0,1,3,4,7,5,3,0,,,
+UBCV,2019,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,19,79.473684211,6.58591444,91.0,68.0,,,,,,,,,,,0,0,0,0,0,3,3,4,5,2,2,,,
+UBCV,2019,W,DHYG,406,,001,Guided Study in Dental Hygiene,Batoul Shariati;Carrie Krekoski;Denise Laronde;Hossain Najar;Leeann Donnelly;Penny Hatzimanolakis;Zul Kanji,8,90.625,1.597989809,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,6,,,
+UBCV,2019,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Batoul Shariati;Diana Lin;Jelena Karan;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,22,83.409090909,3.685997841,89.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,14,7,0,,,
+UBCV,2020,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,23,81.434782609,5.845169622,89.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,4,8,9,0,,,
+UBCV,2020,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,19,78.842105263,7.32774907,90.0,67.0,,,,,,,,,,,0,0,0,0,2,2,3,0,7,4,1,,,
+UBCV,2021,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,21,83.6,,91.0,74.0,,,,,,,,,,,,,,,,,,,6,6,,84.0,88.0,81.0
+UBCV,2021,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,25,83.3,,91.0,76.0,,,,,,,,,,,,,,,,,,,9,9,,83.0,87.0,80.0
+UBCV,2022,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,24,78.5,,90.0,0.0,,,,,,,,,,,1,0,0,0,0,0,2,3,12,5,1,82.0,84.3,79.5
+UBCV,2022,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,23,83.1,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,5,10,4,3,83.0,86.0,79.5
+UBCV,2023,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,19,83.94,,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,9,0,84.5,86.75,82.25
+UBCV,2023,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,22,84.52,,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,9,0,84.0,87.0,83.0
+UBCV,2023,W,DHYG,461,,002,Critical Appraisal and Professional Writing in Quantitative Research,Jelena Karan;Batoul Shariati,21,86.62,,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,4,8,7,87.0,91.0,84.0

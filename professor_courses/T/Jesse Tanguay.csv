@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,PHYS,404,,101,INTRO MED PHYS,"Kozlowski, Piotr;MacKay, Alexander;Tanguay, Jesse;Tchvialeva, Lioudmila;Thakur, Yogesh",20,77.67,11.25,91,52,18,0,1,0,1,0,0,0,0,0,0,1,1,0,2,1,1,0,6,5,1
+UBC,2014,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Tanguay, Jesse",8,81.88,10.34,96,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,3
+UBC,2015,W,PHYS,404,,101,INTRO MED PHYS,"Bergman, Alanah;MacMillan, Erin;Tanguay, Jesse;Tchvialeva, Lioudmila;Thakur, Yogesh;Xiang, Qing-San",35,76.76,11.49,93,45,28,1,5,0,1,0,0,0,0,1,1,0,2,2,0,1,7,3,5,3,5
+UBC,2015,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Kozlowski, Piotr;Tanguay, Jesse",11,87,6.26,94,76,9,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3
+UBCO,2016,W,PHYS,216,,001,Mechanics I,Jesse Tanguay;Robert Lalonde,66,66.63636364,18.53946839,100.0,0.0,,,,,,,,,,,9,8,4,2,8,8,5,6,5,5,6
+UBCO,2016,W,PHYS,301,,001,Electricity and Magnetism,Jesse Tanguay,18,66.77777778,14.26866396,95.0,44.0,,,,,,,,,,,1,3,3,2,1,1,1,2,1,2,1
+UBCO,2017,W,PHYS,216,,101,Mechanics I,Jesse Tanguay;Nicholas Mantella,61,63.032786885,23.16604355,100.0,10.0,,,,,,,,,,,13,4,2,9,6,2,6,4,4,3,8
+UBCO,2017,W,PHYS,301,,001,Electricity and Magnetism,Jesse Tanguay,18,62.5,11.9914185,87.0,38.0,,,,,,,,,,,2,2,3,4,2,1,2,0,1,1,0
+UBCV,2014,W,PHYS,404,,101,Introduction to Medical Physics,Alexander Mackay;Jesse Tanguay;Lioudmila Tchvialeva;Piotr Kozlowski;Yogesh Thakur,19,74.2631579,18.42957197,91.0,13.0,,,,,,,,,,,,,,,,,,,6,5,
+UBCV,2014,W,PHYS,540,,201,Radiological Imaging,Jesse Tanguay;Piotr Kozlowski;Thor Bjarnason,8,81.875,10.34321724,96.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,
+UBCV,2015,W,PHYS,404,,101,Introduction to Medical Physics,Alanah Bergman;Alexander Mackay;Erin Macmillan;Hillgan Ma;Jesse Tanguay;Lioudmila Tchvialeva;Qing-San Xiang;Yogesh Thakur,30,74.5,16.747104742,93.0,9.0,,,,,,,,,,,,,,,,,7,,5,,5
+UBCV,2015,W,PHYS,540,,201,Radiological Imaging,Emil Ljungberg;Jesse Tanguay;Piotr Kozlowski;Thor Bjarnason,9,87.0,6.264982043,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,

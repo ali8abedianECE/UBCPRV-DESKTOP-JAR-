@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,S,LIBE,477,B,96C,SP TPCS TCH LIBR,"Daly, Heather",34,87.26,4.81,97,77,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,7,14,,,
+UBC,2018,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Daly, Heather",28,86.65,8.55,98,55,26,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,6,6,11,,,
+UBC,2018,W,LLED,469,,61A,INQ BSD PED LIB,"Daly, Heather",23,82.83,9.71,94,54,23,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,3,7,6,,,
+UBCV,2018,S,LIBE,477,B,96C,Special Topics in Teacher Librarianship,Heather Daly,34,87.264705882,4.813546689,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,12,7,14,,,
+UBCV,2018,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,27,86.666666667,8.384968235,98.0,55.0,,,,,,,,,,,0,0,1,0,0,0,0,2,6,7,11,,,
+UBCV,2018,W,LLED,469,,61A,Inquiry-Based Pedagogy in School Library Programs,Heather Daly;Moira Ekdahl,23,82.826086957,9.71246703,94.0,54.0,,,,,,,,,,,0,1,0,0,0,1,5,0,3,7,6,,,
+UBCV,2019,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,29,84.620689655,8.11266115,97.0,62.0,,,,,,,,,,,0,0,0,1,0,0,4,2,6,6,10,,,
+UBCV,2019,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell;Heather Daly,23,86.0,6.338913013,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,6,7,7,,,
+UBCV,2020,S,LIBE,461,,93S,Administration of the School Library Resource Centre,Heather Daly,25,89.12,4.65761026,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,10,12,,,
+UBCV,2020,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,23,88.913043478,5.290755604,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,7,10,,,
+UBCV,2020,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Heather Daly,26,89.307692308,4.342987274,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,9,13,,,
+UBCV,2021,S,LIBE,461,,93S,Administration of the School Library Resource Centre,Heather Daly,26,88.461538462,5.630138678,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,9,13,,,
+UBCV,2021,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,22,86.272727273,9.325754499,97.0,56.0,,,,,,,,,,,0,0,1,0,0,0,2,1,0,8,10,,,
+UBCV,2021,S,LIBE,461,,93S,Administration of the School Library Resource Centre,Heather Daly,26,88.5,,98.0,70.0,,,,,,,,,,,,,,,,,,,,9,13,89.0,91.8,87.0
+UBCV,2021,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,22,86.3,,97.0,56.0,,,,,,,,,,,,,,,,,,,,8,10,88.5,90.8,85.0
+UBCV,2022,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,18,89.7,,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,1,13,91.5,94.0,87.0
+UBCV,2023,S,LIBE,461,,93S,Administration of the School Library Resource Centre,Heather Daly,23,88.48,,98.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,0,0,7,13,90.0,93.5,85.5
+UBCV,2023,W,LIBE,461,,63A,Administration of the School Library Resource Centre,Heather Daly,19,89.74,,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,9,89.0,94.5,85.5

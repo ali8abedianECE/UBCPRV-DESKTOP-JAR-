@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,CHEM,311,,001,Instrumental Analytical Chemistry,Wesley Zandberg,44,77.27272727,11.72031359,95.0,47.0,,,,6,,,5,,9,,9,,,
+UBCO,2015,W,CHEM,311,,001,Instrumental Analytical Chemistry,Matthew Noestheden;Wesley Zandberg,32,74.65625,11.457099152,90.0,53.0,0,,,,,,5,,6,,,,,
+UBCO,2015,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Karen Perry;Leona Shum;Sandra Mecklenburg;Viktor Nnabuihe;Wesley Zandberg,16,90.625,3.612478374,98.0,86.0,0,0,0,0,0,0,0,0,0,7,9,,,
+UBCO,2016,W,CHEM,311,,001,Instrumental Analytical Chemistry,Matthew Noestheden;Wesley Zandberg,22,73.31818182,7.305486286,87.0,58.0,0,0,1,1,2,4,6,3,4,1,0,,,
+UBCO,2016,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Jordan O'Grady;Matthew Noestheden;Sandra Mecklenburg;Wesley Zandberg,18,84.72222222,6.658082709,93.0,73.0,0,0,0,0,0,0,4,0,3,4,7,,,
+UBCO,2017,W,CHEM,311,,001,Instrumental Analytical Chemistry,Sara Vicaretti;Wesley Zandberg,31,70.838709677,21.51603553,94.0,6.0,4,2,1,0,1,2,1,4,10,4,2,,,
+UBCO,2017,W,CHEM,412,,001,Methods in Bioanalytical Chemistry,Wesley Zandberg,9,77.222222222,14.131328474,90.0,42.0,1,0,0,0,0,0,1,3,2,1,1,,,
+UBCO,2017,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Karen Perry;Sandra Mecklenburg;Wesley Zandberg,10,85.7,5.61842208,91.0,71.0,0,0,0,0,0,1,0,0,1,6,2,,,
+UBCO,2018,W,CHEM,311,,001,Instrumental Analytical Chemistry,Wesley Zandberg,25,73.16,11.363978177,92.0,52.0,0,1,2,3,2,4,1,7,0,1,4,,,
+UBCO,2018,W,CHEM,434,,001,Chromatography and Mass Spectrometry,Wesley Zandberg,15,83.533333333,13.436978118,93.0,37.0,1,0,0,0,0,0,0,0,4,6,4,,,
+UBCO,2019,W,CHEM,311,,001,Instrumental Analytical Chemistry,Ben Noyovitz;Benjamin Noyovitz;Ieva Zigg;Taylor Gray;Wesley Zandberg,27,81.37037037,12.713252166,93.0,31.0,1,0,0,1,0,2,2,1,6,10,4,,,
+UBCO,2019,W,CHEM,412,,001,Methods in Bioanalytical Chemistry,Wesley Zandberg,13,83.846153846,6.618737969,91.0,69.0,0,0,0,0,0,1,1,1,3,5,2,,,
+UBCO,2020,W,BIOC,420,Y,001,Special Topics in Biochemistry,Kirk Bergstrom;Simin Jafaripour;Wesley Zandberg,9,85.111111111,14.039626459,97.0,51.0,0,1,0,0,0,0,0,1,0,2,5,,,
+UBCO,2020,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom;Simin Jafaripour;Wesley Zandberg,10,77.4,11.692352676,96.0,65.0,0,0,0,0,2,2,2,0,1,1,2,,,
+UBCO,2020,W,CHEM,311,,001,Instrumental Analytical Chemistry,Benjamin Noyovitz;Emily Knudson-Goerner;Wesley Zandberg,25,81.2,7.16472842,91.0,62.0,0,0,0,1,1,0,3,5,4,10,1,,,
+UBCO,2020,W,CHEM,434,,001,Chromatography and Mass Spectrometry,Wesley Zandberg,20,85.75,4.3392335,95.0,77.0,0,0,0,0,0,0,0,1,6,10,3,,,
+UBCO,2021,W,CHEM,311,,001,Instrumental Analytical Chemistry,Benjamin Noyovitz;Ezra Sebastian;Harrison Meeres;Jackline Irungu;Wesley Zandberg,30,74.6,10.233818177,90.0,49.0,2,0,0,2,2,3,5,7,3,5,1,,,
+UBCO,2021,W,CHEM,311,,001,Instrumental Analytical Chemistry,Wesley Zandberg,30,74.6,,90.0,49.0,,,,,,,,7,,,,76.0,80.0,70.3
+UBCO,2022,W,CHEM,311,,001,Instrumental Analytical Chemistry,Wesley Zandberg,32,70.0,,93.0,16.0,3,0,3,2,3,4,3,7,2,1,4,72.5,78.0,63.8
+UBCO,2022,W,CHEM,434,,001,Chromatography and Mass Spectrometry,Wesley Zandberg,12,83.8,,90.0,77.0,0,0,0,0,0,0,0,1,7,3,1,84.0,85.3,82.8
+UBCO,2023,W,CHEM,311,,001,Instrumental Analytical Chemistry,Wesley Zandberg,27,77.7,,90.0,42.0,1,0,0,0,1,6,2,4,5,7,1,79.0,85.5,71.0
+UBCO,2023,W,CHEM,434,,001,Chromatography and Mass Spectrometry,Wesley Zandberg,12,82.9,,94.0,74.0,0,0,0,0,0,0,1,4,3,1,3,83.0,88.5,77.0
+UBCO,2023,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Wesley Zandberg,18,82.2,,95.0,63.0,0,0,0,1,1,0,1,3,6,1,5,83.0,89.5,76.5

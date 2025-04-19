@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,S,CRWR,509,M,S02,ADV WRT FICTN I,"Ohlin, Alix",7,90,0,90,90,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBC,2018,W,CRWR,509,P,001,ADV WRT FICTN I,"Ohlin, Alix",12,92,0,92,92,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2018,S,CRWR,509,M,S02,Advanced Writing of Fiction I,Alix Ohlin,6,90.0,0.0,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2018,W,CRWR,509,P,001,Advanced Writing of Fiction I,Alix Ohlin,12,92.0,0.0,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2019,S,CRWR,509,T,S02,Advanced Writing of Fiction I,Alix Ohlin,7,91.0,0.0,91.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2019,W,CRWR,509,V,001,Advanced Writing of Fiction I,Alix Ohlin,12,89.666666667,3.171845844,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,10,,,
+UBCV,2020,W,CRWR,509,A,001,Advanced Writing of Fiction I,Alix Ohlin,11,92.0,0.0,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2020,W,CRWR,509,B,002,Advanced Writing of Fiction I,Alix Ohlin,10,91.3,2.213594362,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,9,,,
+UBCV,2021,S,CRWR,509,E,S02,Advanced Writing of Fiction I,Alix Ohlin,8,92.0,0.0,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCV,2021,W,CRWR,509,F,001,Advanced Writing of Fiction I,Alix Ohlin,11,92.0,0.0,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,S,CRWR,509,E,S02,Advanced Writing of Fiction I,Alix Ohlin,8,92.0,,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,92.0,92.0,92.0
+UBCV,2021,W,CRWR,509,F,001,Advanced Writing of Fiction I,Alix Ohlin,11,92.0,,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,92.0,92.0,92.0
+UBCV,2023,W,CRWR,425,Q,002,Climate Writing,Alix Ohlin,7,91.0,,91.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,91.0,91.0,91.0
+UBCV,2023,W,CRWR,509,P,D03,Advanced Writing of Fiction I,Alix Ohlin,11,90.9,,91.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,91.0,91.0,91.0
+UBCV,2023,W,CRWR,509,Q,D02,Advanced Writing of Fiction I,Alix Ohlin,12,91.0,,91.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,91.0,91.0,91.0
+UBCV,2023,W,CRWR,525,P,001,Climate Writing,Alix Ohlin,6,92.0,,92.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,92.0,92.0,92.0

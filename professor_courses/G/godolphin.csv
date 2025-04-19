@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",11,75.45,8.79,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,6,0,1
+UBC,2002,W,PATH,407,,001,MED LAB TOXICLGY,"Godolphin, William",10,70.7,5.74,82,62,10,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,0,1,0,0
+UBC,2002,W,PATH,407,,002,MED LAB TOXICLGY,"Godolphin, William",7,79.71,5.71,88,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1,0
+UBC,2003,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",9,78.89,8.94,90,65,9,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,2
+UBC,2003,W,PATH,407,,001,MED LAB TOXICLGY,"Godolphin, William",10,78.3,7.38,92,65,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,3,1,1
+UBC,2003,W,PATH,407,,002,MED LAB TOXICLGY,"Godolphin, William",6,83.17,2.32,86,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0
+UBC,2005,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",9,78.89,8.94,90,65,9,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,0,2
+UBC,2005,W,PATH,407,,001,MED LAB TOXICLGY,"Godolphin, William",11,79.18,8.13,90,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,3,3,1
+UBC,2006,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",22,78.86,9.87,90,50,22,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,13,0,5
+UBC,2006,W,PATH,407,,001,MED LAB TOXICLGY,"Godolphin, William",22,77.5,5.25,85,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,6,10,1,0
+UBC,2007,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",21,78.81,6.5,90,65,21,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,16,0,2
+UBC,2007,W,PATH,407,,001,MED LAB TOXICLGY,"Godolphin, William",21,85.76,5.07,92,76,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,9,5
+UBC,2009,W,PATH,405,,001,SEM CURR TOPICS,"Godolphin, William;Park, Carol",21,80.67,11.18,100,54,21,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,6,0,9,0,3
+UBC,2010,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Huynh, Hanh;Park, Carol",18,84.17,8.3,100,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,0,3
+UBC,2011,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Huynh, Hanh;Park, Carol",20,82.9,7.16,100,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,12,0,2
+UBC,2012,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Huynh, Hanh;Park, Carol",15,84.27,9.63,100,67,15,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,8,0,3
+UBC,2013,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Huynh, Hanh;Keller, Bernd",23,84.91,6.71,100,75,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,17,0,3
+UBC,2014,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Huynh, Hanh",23,81.91,7.59,100,67,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,13,0,2
+UBC,2015,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Sutherland, Michael",20,85.75,9.24,100,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,0,5
+UBC,2016,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William;Sutherland, Michael",20,82.05,7.98,100,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,0,11,0,2
+UBC,2017,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William",14,79.93,12.78,100,45,13,1,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,10,0,1
+UBC,2018,W,PATH,405,,001,SEM CURR TOPICS,"Bradley, Amanda;Godolphin, William",12,82.92,9.06,100,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,2

@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,WOOD,273,,101,WOOD ADHSV&COATG,"Renneckar, Scott",52,85.81,4.95,95,70,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,9,24,12,,,
+UBC,2015,W,WOOD,373,,101,WOOD ADHSV&COATG,"Renneckar, Scott",29,77.45,8.3,97,62,29,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,6,7,4,3,3,,,
+UBC,2016,S,GBPR,502,,301,SUST BIOMATERIAL,"Renneckar, Scott",7,87.29,8.06,96,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,,,
+UBC,2016,W,WOOD,373,,101,WOOD ADHSV&COATG,"Renneckar, Scott",25,76.68,6.51,92,65,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,8,5,3,3,1,,,
+UBC,2016,W,WOOD,474,,101,WD PRP&PRD MANU,"Renneckar, Scott",11,70.82,8.15,82,59,11,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,0,3,0,0,,,
+UBC,2017,S,GBPR,502,,301,SUST BIOMATERIAL,"Renneckar, Scott",4,86,2.45,89,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,
+UBC,2017,W,WOOD,373,,101,WOOD ADHSV&COATG,"Renneckar, Scott",39,74.18,7.17,85,50,39,0,0,0,0,0,0,0,0,0,0,1,1,0,2,7,14,5,8,1,0,,,
+UBC,2017,W,WOOD,474,,101,WD PRP&PRD MANU,"Renneckar, Scott",31,69.97,9.88,92,50,31,0,0,0,0,0,0,0,0,0,0,2,0,10,1,4,5,3,4,1,1,,,
+UBC,2018,W,WOOD,487,,201,WOOD COMPOSITES,"Renneckar, Scott",51,81.65,6.14,92,68,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,8,16,13,5,,,
+UBCV,2014,W,WOOD,273,,101,Wood Adhesives and Coatings,Scott Renneckar,52,85.80769231,4.950890043,95.0,70.0,,,,,,,,,,,0,0,0,0,0,,,6,9,24,12,,,
+UBCV,2015,W,WOOD,373,,101,Wood Adhesives and Coatings,Scott Harold Renneckar;Scott Renneckar,29,77.448275862,8.300543041,97.0,62.0,,,,,,,,,,,0,0,0,,,,6,7,,,,,,
+UBCV,2016,S,GBPR,502,,301,Sustainable BioMaterial from Forest Biomass,Scott Harold Renneckar;Scott Renneckar,7,87.28571429,8.056349167,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2,3,,,
+UBCV,2016,W,WOOD,373,,101,Wood Adhesives and Coatings,Scott Harold Renneckar;Scott Renneckar,25,76.68,6.511016306,92.0,65.0,,,,,,,,,,,0,0,0,0,1,4,8,5,3,3,1,,,
+UBCV,2016,W,WOOD,474,,101,Wood Properties and Products Manufacturing,Scott Harold Renneckar;Scott Renneckar,11,70.81818182,8.146387934,82.0,59.0,,,,,,,,,,,0,0,1,1,2,1,3,0,3,0,0,,,
+UBCV,2017,W,WOOD,373,,101,Wood Adhesives and Coatings,Scott Harold Renneckar;Scott Renneckar,39,74.179487179,7.170376907,85.0,50.0,,,,,,,,,,,0,1,1,0,2,7,14,5,8,1,0,,,
+UBCV,2017,W,WOOD,474,,101,Wood Properties and Products Manufacturing,Liyang Liu;Scott Harold Renneckar;Scott Renneckar,31,69.967741935,9.880903707,92.0,50.0,,,,,,,,,,,0,2,0,10,1,4,5,3,4,1,1,,,
+UBCV,2018,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Liyang Liu;Scott Renneckar,39,80.256410256,10.678847633,97.0,52.0,,,,,,,,,,,0,1,1,0,2,4,5,4,7,7,8,,,
+UBCV,2018,W,WOOD,487,,201,Wood Composites,Gregory Smith;Kevin Aissa;Liyang Liu;Scott Harold Renneckar;Scott Renneckar,51,81.647058824,6.144342209,92.0,68.0,,,,,,,,,,,0,0,0,0,0,4,5,8,16,13,5,,,
+UBCV,2019,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Harold Renneckar;Scott Renneckar;Yuhang Ye,21,77.047619048,7.787658123,90.0,60.0,,,,,,,,,,,0,0,0,1,2,2,2,4,8,1,1,,,
+UBCV,2019,W,WOOD,487,,201,Wood Composites,Anna Schild;Chunping Dai;Gregory Smith;Scott Renneckar,49,81.244897959,6.6380551,95.0,63.0,,,,,,,,,,,0,0,0,1,0,3,5,8,16,11,5,,,
+UBCV,2020,W,BEST,200,,101,Foundations in Bioproducts and the Bioeconomy,Qi Hua;Scott Harold Renneckar;Scott Renneckar,8,81.875,8.741322228,92.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,2,1,3,1,,,
+UBCV,2020,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Renneckar;Yuhang Ye,18,82.666666667,7.332442014,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,3,1,3,6,4,,,
+UBCV,2021,S,WOOD,353,,921,Mill Site Visits,Feng Jiang;Scott Renneckar;Simon Ellis,38,73.552631579,9.786083247,94.0,57.0,,,,,,,,,,,0,0,3,4,2,10,3,6,4,3,3,,,
+UBCV,2021,W,BEST,200,,101,Foundations in Bioproducts and the Bioeconomy,Qi Hua;Scott Renneckar,30,80.333333333,7.805097067,93.0,58.0,,,,,,,,,,,0,0,1,0,2,1,2,5,11,5,3,,,
+UBCV,2021,W,BEST,200,,101,Foundations in Bioproducts and the Bioeconomy,Scott Renneckar,30,80.3,,93.0,58.0,,,,,,,,,,,,,,,,,,,11,,,82.0,84.8,77.3
+UBCV,2022,W,BEST,200,,101,Foundations in Bioproducts and the Bioeconomy,Scott Renneckar,52,78.6,,92.0,55.0,,,,,,,,,,,0,0,2,1,3,4,4,10,15,10,3,80.0,84.3,75.0
+UBCV,2022,W,BEST,403,,201,Integrated Strategies for Bioproduct Innovation,Scott Renneckar;Hamish van der Ven,20,86.6,,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,1,1,10,7,87.5,91.0,85.0
+UBCV,2023,W,BEST,200,,101,Foundations in Bioproducts and the Bioeconomy,Scott Renneckar,42,80.73,,90.0,71.0,,,,,,,,,,,0,0,0,0,0,2,5,10,14,7,2,81.0,84.0,77.0
+UBCV,2023,W,BEST,403,,201,Integrated Strategies for Bioproduct Innovation,Scott Renneckar;Hamish van der Ven,17,85.82,,93.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,4,5,6,87.0,90.0,84.0

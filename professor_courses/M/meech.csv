@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,MMPE,290,,101,INTRO TO MMPE,"Meech, John;Scoble, Malcolm",20,68.4,11.26,88,50,20,0,0,0,0,0,0,0,0,0,0,1,5,3,0,3,2,2,3,1,0
+UBC,2003,W,MINE,290,,101,INTRO MMP,"Meech, John;Morin, Mario",23,73.74,8.43,85,55,23,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,3,4,6,1,0
+UBC,2003,W,MINE,432,,101,IND AUTO ROB,"Meech, John",16,78.81,4.18,86,73,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,4,2,0
+UBC,2003,W,MINE,578,,201,IND EXP SYS,"Meech, John",5,89.2,5.26,96,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3
+UBC,2005,W,MINE,290,,101,INTRO MMP,"Meech, John;Morin, Mario",28,82.71,6.95,94,69,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,5,9,5
+UBC,2005,W,MINE,432,,101,IND AUTO ROB,"Meech, John",25,81.64,8.4,98,66,25,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,6,6,4
+UBC,2005,W,MINE,496,,201,COM APP MING,"Meech, John",7,80,4.08,85,75,4,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0
+UBC,2005,W,MINE,578,,201,IND EXP SYS,"Meech, John",5,90.4,2.88,95,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2006,W,MINE,290,,101,INTRO MMP,"Meech, John",35,76.69,8.46,93,55,35,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,5,10,3,5,3
+UBC,2006,W,MINE,432,,101,IND AUTO ROB,"Meech, John",26,78.27,10.49,94,54,26,0,0,0,0,0,0,0,0,0,0,1,1,2,0,1,3,2,11,2,3
+UBC,2006,W,MINE,578,,201,IND EXP SYS,"Meech, John",5,95,0,95,95,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2006,W,MINE,590,F,201,SPEC ADV TOP,"Meech, John",5,90.75,6.02,96,83,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2007,W,MINE,290,,101,INTRO MMP,"Meech, John",42,80.67,10.52,100,43,41,1,0,0,0,0,0,0,0,1,1,0,0,1,1,4,3,5,12,7,8
+UBC,2007,W,MINE,432,,101,IND AUTO ROB,"Meech, John",28,78,16.24,96,0,27,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,4,4,13,4,1
+UBC,2009,W,MINE,292,,201,INTR MNRL PROCES,"Meech, John",45,76.7,16.21,99,34,38,6,0,1,0,0,0,0,3,3,6,0,0,0,0,5,3,9,6,7,8
+UBC,2009,W,MINE,432,,101,IND AUTO ROB,"Meech, John",40,72.38,10.46,88,26,38,1,1,0,0,0,0,1,0,0,1,0,3,1,2,7,8,5,11,1,0
+UBC,2010,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",191,72.94,13.35,92,2,182,9,0,0,0,1,3,0,2,3,9,2,8,8,6,24,35,33,46,19,1
+UBC,2010,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Smith, Kevin;Yonemitsu, Noboru",206,76.89,12.04,93,3,198,6,1,0,1,1,2,0,2,1,6,1,7,6,2,8,36,21,78,35,4
+UBC,2010,W,MINE,292,,201,INTR MNRL PROCES,"Meech, John",46,77.13,13.65,98,10,44,1,1,0,0,0,1,0,0,0,1,0,1,1,2,6,7,5,9,8,5
+UBC,2010,W,MINE,497,Z,201,DIR STUD,"Meech, John",19,75,6.39,87,65,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,2,2,2,0
+UBC,2010,W,MINE,590,X,201,SPEC ADV TOP,"Meech, John",14,88.22,6.85,98,75,9,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5
+UBC,2011,W,APSC,150,,101,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",198,78.26,7.45,94,42,196,1,1,0,0,0,0,0,0,1,1,1,4,3,4,16,24,32,82,24,6
+UBC,2011,W,APSC,150,,102,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Smith, Kevin;Yonemitsu, Noboru",175,76.49,7.81,93,48,174,1,0,0,0,0,0,0,0,1,1,2,3,5,7,21,28,35,51,19,3
+UBC,2011,W,APSC,150,,201,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",159,72.1,10.27,91,0,154,4,1,0,0,1,0,0,2,1,4,1,4,7,14,32,35,34,21,4,2
+UBC,2011,W,APSC,150,,202,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Kerr, Randall;Meech, John;Poursartip, Anoshiravan;Qi, Hongxing Estella;Yonemitsu, Noboru",178,72.58,13.83,91,0,170,8,0,0,0,3,0,0,2,3,8,4,9,7,12,17,25,39,43,13,1
+UBC,2011,W,MINE,292,,201,INTR MNRL PROCES,"Meech, John",49,77.71,10.88,95,30,48,1,0,0,0,0,0,0,1,0,1,0,1,0,5,5,4,9,12,7,5
+UBC,2011,W,MINE,432,,101,IND AUTO ROB,"Meech, John",31,79.87,9.84,97,62,31,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,3,2,6,6,6
+UBC,2012,W,APSC,150,,101,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",195,77.09,8.95,92,26,191,4,0,0,0,0,0,1,0,3,4,3,2,2,9,17,25,41,63,24,5
+UBC,2012,W,APSC,150,,102,ENG CASE STUDIES,"Gyenge, Elod Lajos;Hatzikiriakos, Savvas;Meech, John;Poursartip, Anoshiravan;Yonemitsu, Noboru",168,75.3,11.08,91,3,161,6,1,0,0,1,0,1,1,3,6,0,1,5,14,17,28,33,39,22,2
+UBC,2012,W,APSC,150,,201,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",167,76.13,14.09,95,2,160,7,0,0,0,2,0,2,2,1,7,4,1,2,11,12,21,27,45,23,14
+UBC,2012,W,APSC,150,,202,ENG CASE STUDIES,"Hatzikiriakos, Savvas;Meech, John;Mohseni, Madjid;Poursartip, Anoshiravan;Yonemitsu, Noboru",182,81.38,14.51,97,2,176,5,1,0,0,2,2,0,0,1,5,2,4,2,3,10,13,14,29,51,48
+UBC,2012,W,MINE,292,,201,INTR MNRL PROCES,"Meech, John",63,76.73,9.98,100,41,62,1,0,0,0,0,0,0,0,1,1,1,0,3,6,3,9,13,15,7,5
+UBC,2012,W,MINE,432,,101,IND AUTO ROB,"Meech, John",36,79.61,6.88,93,65,36,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,5,13,5,3
+UBC,2013,W,MINE,292,,201,INTR MNRL PROCES,"Meech, John",51,74.67,13.45,100,4,50,1,0,0,0,1,0,0,0,0,1,0,2,3,3,4,12,8,11,4,3
+UBC,2013,W,MINE,432,,101,IND AUTO ROB,"Meech, John",58,79.02,7.36,95,63,58,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,9,10,15,9,4
+UBC,2014,W,MINE,432,,101,IND AUTO ROB,"Meech, John",43,82.26,6.3,94,66,43,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,13,16,5
+UBC,2014,W,MINE,578,,101,IND EXP SYS,"Meech, John",4,87.25,4.99,91,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2

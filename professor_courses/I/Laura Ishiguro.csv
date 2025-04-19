@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,HIST,305,,001,BRITISH COLUMBIA,"Ishiguro, Laura",37,67.7,18.47,90,5,29,4,4,0,0,1,1,0,0,2,4,1,1,1,5,5,5,4,3,3,1,,,
+UBC,2012,W,HIST,321,A,101,HONOURS TUTORIAL,"Ishiguro, Laura",6,82.5,4.09,88,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,,,
+UBC,2012,W,HIST,421,A,101,HONOURS TUTORIAL,"Ishiguro, Laura",5,84.4,1.34,85,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,,,
+UBC,2013,W,HIST,305,,001,BRITISH COLUMBIA,"Ishiguro, Laura",41,69.53,16.07,96,27,34,4,0,2,0,0,0,2,1,1,4,1,1,3,7,2,4,3,10,2,1,,,
+UBC,2013,W,HIST,490,H,101,SEM FOR HIST MAJ,"Ishiguro, Laura",14,75.64,8.66,90,58,14,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,2,4,2,1,1,,,
+UBC,2013,W,HIST,490,H,102,SEM FOR HIST MAJ,"Ishiguro, Laura",13,64.83,21.9,81,0,11,1,1,0,0,1,0,0,0,0,1,0,2,0,1,2,3,1,2,0,0,,,
+UBC,2014,W,HIST,235,,101,HIST OF CANADA,"Ishiguro, Laura",104,72.74,10.2,91,3,101,1,1,1,0,1,0,0,0,0,1,2,4,2,9,16,31,17,14,5,1,,,
+UBC,2014,W,HIST,305,,001,BRITISH COLUMBIA,"Ishiguro, Laura",25,73.25,11.94,93,35,23,1,1,0,0,0,0,0,1,0,1,0,0,4,1,2,4,5,3,3,1,,,
+UBC,2014,W,HIST,575,,201,INTL&GLBL READNG,"Ishiguro, Laura",5,84.6,2.41,88,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,,,
+UBC,2015,W,HIST,235,,101,HIST OF CANADA,"Ishiguro, Laura",107,72.25,9.76,90,30,105,2,0,0,0,0,0,0,1,1,2,4,4,6,6,17,26,18,19,3,2,,,
+UBC,2015,W,HIST,305,,001,BRITISH COLUMBIA,"Ishiguro, Laura",24,72.09,10.38,88,54,23,0,1,0,0,0,0,0,0,0,0,1,3,1,3,3,3,3,3,3,0,,,
+UBC,2015,W,HIST,420,D,201,TPCS CAN HISTORY,"Ishiguro, Laura",27,75.3,10.99,86,31,26,1,0,0,0,0,0,0,1,0,1,0,1,0,1,2,3,8,8,3,0,,,
+UBC,2017,W,HIST,236,,201,PUBL HIST CANADA,"Ishiguro, Laura",73,72.01,10.58,88,20,70,2,1,0,0,0,0,1,0,1,2,1,3,5,6,11,14,11,16,3,0,,,
+UBC,2017,W,HIST,420,A,201,TPCS CAN HISTORY,"Ishiguro, Laura",24,74.25,9.68,90,53,24,0,0,0,0,0,0,0,0,0,0,1,2,0,2,3,3,5,5,2,1,,,
+UBC,2018,W,HIST,236,,201,PUBL HIST CANADA,"Ishiguro, Laura",42,74.22,6.97,90,55,41,0,0,0,0,0,0,0,0,0,0,0,1,1,6,6,10,7,8,1,1,,,
+UBC,2018,W,HIST,305,,101,HISTORY OF BC,"Ishiguro, Laura",43,74.22,9.62,90,52,41,0,0,0,2,0,0,0,0,0,0,1,2,1,6,6,4,4,12,3,2,,,
+UBC,2018,W,HIST,597,A,201,COMP HIST TOPICS,"Ishiguro, Laura",13,86,3.65,92,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,3,,,
+UBCV,2014,W,HIST,235,,101,History of Canada: Moments that Matter,Laura Ishiguro,102,72.73529412,10.19699671,91.0,3.0,,,,,,,,,,,,,,,9,16,31,17,14,5,,,,
+UBCV,2014,W,HIST,305,,001,British Columbia,Laura Ishiguro,25,70.72,17.2204336,93.0,10.0,,,,,,,,,,,,,,,,,,5,,,,,,
+UBCV,2014,W,HIST,575,,201,Readings in International and Global History,Laura Ishiguro,5,84.6,2.408318916,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,0,,,
+UBCV,2015,W,HIST,235,,101,History of Canada: Moments that Matter,Devin Eeg;Laura Ishiguro,107,72.252336449,9.75752584,90.0,30.0,,,,,,,,,,,,,,6,6,17,26,18,19,,,,,
+UBCV,2015,W,HIST,305,,001,British Columbia,Laura Ishiguro,23,72.086956522,10.383172766,88.0,54.0,,,,,,,,,,,0,,,,,,,,,,0,,,
+UBCV,2015,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,27,75.296296296,10.985356739,86.0,31.0,,,,,,,,,,,,,,,,,,8,8,,0,,,
+UBCV,2017,W,HIST,236,,201,"Public History in Canada: Memory, Representation, and Interpretation",Dane Allard;Dane Treidler Allard;Laura Ishiguro;Nicole Yakashiro,72,72.013888889,10.579668324,88.0,20.0,,,,,,,,,,,2,1,3,5,6,11,14,11,16,3,0,,,
+UBCV,2017,W,HIST,420,A,201,Topics in Canadian History,Laura Ishiguro,24,74.25,9.683019651,90.0,53.0,,,,,,,,,,,0,1,2,0,2,3,3,5,5,2,1,,,
+UBCV,2018,W,HIST,236,,201,"Public History in Canada: Memory, Representation, and Interpretation",Dane Allard;Dane Treidler Allard;Laura Ishiguro;Nicole Yakashiro,42,74.333333333,6.888189492,90.0,55.0,,,,,,,,,,,0,0,1,1,5,7,10,8,8,1,1,,,
+UBCV,2018,W,HIST,305,,101,History of British Columbia,Laura Ishiguro,43,74.348837209,9.431163441,90.0,52.0,,,,,,,,,,,0,1,2,1,6,6,5,4,13,3,2,,,
+UBCV,2018,W,HIST,597,A,201,Topics in Comparative History,Laura Ishiguro,13,86.0,3.651483717,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,3,,,
+UBCV,2019,W,HIST,236,,201,"Public History in Canada: Memory, Representation, and Interpretation",Georgia Rose Twiss;Georgia Twiss;Laura Ishiguro;Tamara Gene Myers;Tamara Myers,36,81.638888889,4.911518693,92.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,8,13,11,3,,,
+UBCV,2019,W,HIST,304,,101,Researching Local History from the Ground Up,Laura Ishiguro,19,73.631578947,16.493131656,90.0,15.0,,,,,,,,,,,1,0,1,1,0,1,3,6,2,3,1,,,
+UBCV,2019,W,HIST,305,,201,History of British Columbia,Laura Ishiguro,38,77.473684211,13.440030651,92.0,12.0,,,,,,,,,,,1,0,2,0,0,2,4,10,7,9,3,,,
+UBCV,2019,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,45,76.711111111,14.445229194,91.0,17.0,,,,,,,,,,,2,0,3,1,0,1,8,8,5,14,3,,,
+UBCV,2020,W,ACAM,300,,001,Dis/Orienting Asian Canada,Laura Ishiguro;Leilan Wong;Nicole Yakashiro,45,80.733333333,6.351091531,92.0,62.0,,,,,,,,,,,0,0,0,1,0,2,7,5,15,12,3,,,
+UBCV,2020,W,HIST,304,,101,Researching Local History from the Ground Up,Laura Ishiguro,19,81.473684211,7.58923522,91.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,1,5,6,3,,,
+UBCV,2020,W,HIST,305,,201,History of British Columbia,Dane Allard;Laura Ishiguro,39,78.128205128,14.670377398,91.0,1.0,,,,,,,,,,,1,0,1,0,0,4,2,9,12,6,4,,,
+UBCV,2020,W,HIST,420,D,201,Topics in Canadian History,Dane Allard;Laura Ishiguro,34,79.852941176,9.68952059,97.0,53.0,,,,,,,,,,,0,1,1,1,0,3,2,4,10,8,4,,,
+UBCV,2021,W,ACAM,300,,001,Dis/Orienting Asian Canada,Laura Ishiguro;Nicole Yakashiro,48,77.604166667,17.594413503,91.0,5.0,,,,,,,,,,,3,1,0,0,1,1,3,10,8,16,5,,,
+UBCV,2021,W,HIST,304,,101,Researching Local History from the Ground Up,Laura Ishiguro,21,81.80952381,13.10961116,90.0,28.0,,,,,,,,,,,1,0,0,0,0,0,1,1,5,11,2,,,
+UBCV,2021,W,HIST,305,,201,History of British Columbia,Laura Ishiguro,36,79.972222222,13.60564192,92.0,24.0,,,,,,,,,,,2,0,1,0,0,1,1,4,9,14,4,,,
+UBCV,2021,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,45,77.111111111,18.04693656,93.0,3.0,,,,,,,,,,,2,1,0,2,0,1,4,8,11,12,4,,,
+UBCV,2021,W,ACAM,300,,001,Dis/Orienting Asian Canada,Laura Ishiguro,48,77.6,,91.0,5.0,,,,,,,,,,,,,,,,,,10,8,16,,82.0,87.0,77.0
+UBCV,2021,W,HIST,304,,101,Researching Local History from the Ground Up,Laura Ishiguro,21,81.8,,90.0,28.0,,,,,,,,,,,,,,,,,,,,11,,85.0,87.0,81.0
+UBCV,2021,W,HIST,305,,201,History of British Columbia,Laura Ishiguro,36,82.6,,92.0,58.0,,,,,,,,,,,,,,,,,,,9,14,,85.0,87.0,80.0
+UBCV,2021,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,45,77.1,,93.0,3.0,,,,,,,,,,,,,,,,,,8,11,12,,82.0,87.0,77.0
+UBCV,2022,W,ACAM,300,,001,Dis/Orienting Asian Canada,Laura Ishiguro,48,79.5,,94.0,19.0,,,,,,,,,,,2,0,0,1,1,3,2,6,15,12,6,83.0,86.3,77.8
+UBCV,2022,W,HIST,304,,101,Researching Local History from the Ground Up,Laura Ishiguro,21,81.4,,91.0,28.0,,,,,,,,,,,1,0,0,0,1,0,1,0,8,6,4,84.0,87.0,81.0
+UBCV,2022,W,HIST,305,,201,History of British Columbia,Laura Ishiguro,44,77.5,,92.0,13.0,,,,,,,,,,,2,1,1,0,3,2,5,4,8,11,7,82.5,88.0,74.5
+UBCV,2022,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,41,77.5,,92.0,0.0,,,,,,,,,,,2,1,1,0,1,1,3,4,13,11,4,82.0,86.0,78.0
+UBCV,2023,W,ACAM,300,,001,Dis/Orienting Asian Canada,Laura Ishiguro,51,77.08,,90.0,1.0,,,,,,,,,,,4,0,0,0,1,2,3,10,14,10,4,80.5,85.25,77.0
+UBCV,2023,W,HIST,420,D,201,Topics in Canadian History,Laura Ishiguro,46,77.0,,92.0,0.0,,,,,,,,,,,2,2,1,0,0,1,4,8,11,7,9,80.0,85.0,76.0
+UBCV,2023,W,HIST,575,,201,Readings in International and Global History,Laura Ishiguro,8,77.0,,90.0,27.0,,,,,,,,,,,1,0,0,0,0,1,0,0,1,4,1,86.0,87.3,80.0

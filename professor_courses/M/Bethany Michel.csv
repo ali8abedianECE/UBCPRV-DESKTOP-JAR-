@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,PSYC,300,A,002,BEHAVIOUR DISORD,"Michel, Bethany",217,70.45,12.67,92,12,204,10,2,0,0,0,1,3,3,3,10,7,19,14,22,28,31,35,26,17,5,,,
+UBC,2017,W,PSYC,300,A,901,ABNORMAL PSYC,"Michel, Bethany",85,74.82,14.73,93,29,78,4,1,1,0,0,0,1,2,1,4,7,1,5,6,3,7,10,15,11,13,,,
+UBC,2018,W,PSYC,300,A,901,ABNORMAL PSYC,"Michel, Bethany",109,74.3,17.48,95,0,98,6,4,0,0,2,0,0,3,1,6,5,7,7,4,10,4,6,16,23,16,,,
+UBC,2018,W,PSYC,300,A,99A,ABNORMAL PSYC,"Michel, Bethany",109,71.25,12.98,95,39,100,5,1,0,0,0,0,0,1,4,5,6,10,9,10,10,13,11,12,14,5,,,
+UBC,2018,W,PSYC,300,A,99C,ABNORMAL PSYC,"Michel, Bethany",109,73.61,13.94,97,30,94,4,4,0,5,0,0,0,2,2,4,6,7,6,10,9,8,7,13,18,10,,,
+UBCV,2017,W,PSYC,300,A,901,Abnormal Psychology,Ariel Ko;Bethany Michel,83,74.445783133,15.027822175,93.0,29.0,,,,,,,,,,,5,7,1,5,6,3,7,10,15,11,13,,,
+UBCV,2018,W,PSYC,300,A,901,Abnormal Psychology,Ariel Ko;Bethany Michel,105,74.133333333,17.47694452,95.0,0.0,,,,,,,,,,,6,5,8,7,4,10,4,6,16,23,16,,,
+UBCV,2018,W,PSYC,300,A,99A,Abnormal Psychology,Ariel Ko;Bethany Michel,108,71.157407407,12.857349647,95.0,39.0,,,,,,,,,,,5,6,11,9,10,11,13,12,12,14,5,,,
+UBCV,2018,W,PSYC,300,A,99C,Abnormal Psychology,Bethany Michel;Jiwon Jennifer Na;Jiwon Na,105,72.733333333,14.104872771,97.0,30.0,,,,,,,,,,,5,7,7,7,13,10,8,7,13,18,10,,,
+UBCV,2019,S,PSYC,300,A,98A,Abnormal Psychology,Bethany Michel;Jiwon Jennifer Na;Jiwon Na,99,72.252525253,13.043368347,93.0,26.0,,,,,,,,,,,7,3,3,8,11,10,13,14,10,15,5,,,
+UBCV,2019,W,PSYC,300,A,901,Abnormal Psychology,Ariel Ko;Bethany Michel,116,78.318965517,15.087339431,98.0,9.0,,,,,,,,,,,3,7,4,5,6,7,12,8,13,20,31,,,
+UBCV,2019,W,PSYC,300,A,99A,Abnormal Psychology,Bethany Michel;Michelle Hunsche,108,68.314814815,12.157569965,92.0,45.0,,,,,,,,,,,6,8,12,13,16,10,11,4,15,10,3,,,
+UBCV,2019,W,PSYC,300,A,99C,Abnormal Psychology,Bethany Michel;Michelle Hunsche,105,69.676190476,10.474782206,92.0,45.0,,,,,,,,,,,2,8,11,9,14,10,17,15,12,4,3,,,
+UBCV,2019,W,PSYC,556,,001,Psychological Treatment of Childhood Disorders,Bethany Michel,10,92.3,2.584139659,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,,,
+UBCV,2020,S,PSYC,300,A,98A,Abnormal Psychology,Bethany Michel;Jiwon Jennifer Na;Jiwon Na;Michelle Hunsche,153,74.176470588,10.828275393,92.0,41.0,,,,,,,,,,,5,3,9,4,14,17,24,24,24,24,5,,,
+UBCV,2020,W,PSYC,300,A,901,Abnormal Psychology,Bethany Michel;Michelle Hunsche,102,77.225490196,13.706908616,96.0,34.0,,,,,,,,,,,3,4,4,7,5,7,9,7,19,16,21,,,
+UBCV,2020,W,PSYC,300,A,99A,Abnormal Psychology,Bethany Michel;Brittney Russell,98,72.765306122,12.008417169,97.0,47.0,,,,,,,,,,,2,4,11,5,11,11,10,10,13,13,8,,,
+UBCV,2020,W,PSYC,300,A,99C,Abnormal Psychology,Bethany Michel;Michelle Hunsche,87,77.988505747,12.232718473,100.0,32.0,,,,,,,,,,,2,2,1,3,8,8,9,9,16,11,18,,,
+UBCV,2021,S,PSYC,300,A,98A,Abnormal Psychology,Bethany Michel;Michelle Hunsche,94,78.085106383,13.250814197,99.0,16.0,,,,,,,,,,,2,0,5,4,6,7,15,4,16,18,17,,,
+UBCV,2021,W,PSYC,300,A,901,Abnormal Psychology,Bethany Michel;Brittney Russell,107,76.056074766,13.897761307,100.0,33.0,,,,,,,,,,,3,5,6,5,6,14,10,8,13,18,19,,,
+UBCV,2021,W,PSYC,300,A,99A,Abnormal Psychology,Bethany Michel;Brittney Russell,107,74.514018692,10.257408263,96.0,39.0,,,,,,,,,,,2,2,2,6,9,15,21,18,13,10,9,,,
+UBCV,2021,W,PSYC,300,A,99C,Abnormal Psychology,Bethany Michel;Brittney Russell,112,75.517857143,15.243360476,96.0,3.0,,,,,,,,,,,3,7,3,5,7,14,9,15,10,19,20,,,
+UBCV,2021,S,PSYC,300,A,98A,Abnormal Psychology,Bethany Michel,94,78.1,,99.0,16.0,,,,,,,,,,,,,,,6,7,15,,16,18,17,80.0,87.0,71.3
+UBCV,2021,W,PSYC,300,A,99A,Abnormal Psychology,Bethany Michel,107,74.5,,96.0,39.0,,,,,,,,,,,,,,6,9,15,21,18,13,10,9,74.0,82.0,69.0
+UBCV,2021,W,PSYC,300,A,99C,Abnormal Psychology,Bethany Michel,113,75.2,,96.0,3.0,,,,,,,,,,,,8,,,7,14,9,15,10,19,20,77.0,87.0,68.0
+UBCV,2021,W,PSYC,300,A,901,Abnormal Psychology,Bethany Michel,107,76.1,,100.0,33.0,,,,,,,,,,,,,6,,6,14,10,8,13,18,19,77.0,87.0,68.0
+UBCV,2022,W,PSYC,300,A,902,Abnormal Psychology,Bethany Michel,139,78.5,,100.0,50.0,,,,,,,,,,,0,5,3,9,10,11,13,19,24,17,28,79.0,88.0,70.5
+UBCV,2022,W,PSYC,300,A,991,Abnormal Psychology,Bethany Michel,101,79.0,,100.0,26.0,,,,,,,,,,,2,7,2,1,5,6,9,6,19,24,20,83.0,88.0,73.0
+UBCV,2022,W,PSYC,300,A,992,Abnormal Psychology,Bethany Michel,109,72.2,,97.0,44.0,,,,,,,,,,,2,6,6,13,12,12,13,15,13,6,11,73.0,80.0,64.0
+UBCV,2023,W,EPSE,557,,074,Social and Emotional Interventions with Children and Youth,Bethany Michel,6,98.7,,100.0,97.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,98.5,99.8,98.0
+UBCV,2023,W,PSYC,300,A,901,Abnormal Psychology,Bethany Michel,153,76.5,,100.0,45.0,,,,,,,,,,,4,4,9,6,11,19,15,19,20,18,27,77.0,87.0,68.0
+UBCV,2023,W,PSYC,300,A,991,Abnormal Psychology,Bethany Michel,121,74.7,,94.0,42.0,,,,,,,,,,,2,1,6,5,10,16,17,21,23,14,3,76.0,82.0,69.0
+UBCV,2023,W,PSYC,300,A,992,Abnormal Psychology,Bethany Michel,112,75.8,,91.0,44.0,,,,,,,,,,,3,0,4,3,9,16,15,16,23,17,6,77.5,83.0,70.0

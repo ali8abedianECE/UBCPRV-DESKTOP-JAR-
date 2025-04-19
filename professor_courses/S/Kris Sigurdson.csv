@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,ASTR,304,,201,RSRCH TPCS ASTR,"Sigurdson, Kris",10,80.1,12.66,93,59,10,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,2,3,2
+UBC,2009,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",62,73.2,13.27,98,39,60,1,1,0,0,0,0,0,1,0,1,2,5,10,5,4,4,6,6,11,7
+UBC,2010,W,ASTR,403,,201,COSMOLOGY,"Sigurdson, Kris",25,73.91,20.78,96,0,21,2,1,1,0,1,0,0,0,1,2,1,0,0,2,3,2,3,3,2,5
+UBC,2010,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",52,77.48,11.61,96,50,52,0,0,0,0,0,0,0,0,0,0,2,2,2,7,2,4,8,6,11,8
+UBC,2011,W,ASTR,403,,201,COSMOLOGY,"Sigurdson, Kris",27,78.4,10.48,94,61,25,0,0,0,2,0,0,0,0,0,0,0,0,2,2,4,2,3,3,2,7
+UBC,2011,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",55,74.45,11.67,99,50,55,0,0,0,0,0,0,0,0,0,0,4,3,2,2,5,12,9,5,6,7
+UBC,2013,W,PHYS,571,,201,PHYSCAL COSMOLGY,"Sigurdson, Kris",10,86.6,5.89,94,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,4
+UBC,2014,W,PHYS,306,,201,MECHANICS,"Sigurdson, Kris",66,76.21,10.92,98,50,62,0,2,0,2,0,0,0,0,0,0,2,2,5,2,11,7,4,15,6,8
+UBC,2014,W,PHYS,410,,101,COMP PHYS,"Sigurdson, Kris",54,80.08,12.03,96,50,51,0,3,0,0,0,0,0,0,0,0,3,2,0,3,0,4,7,5,18,9
+UBC,2016,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",64,80.35,9.71,99,51,63,0,1,0,0,0,0,0,0,0,0,1,2,0,3,4,3,8,18,14,10
+UBC,2016,W,PHYS,530,B,201,GEN RELATIVITY,"Sigurdson, Kris",4,93,3,96,90,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2017,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",48,82.15,9.25,95,56,46,0,1,0,1,0,0,0,0,0,0,0,1,1,1,4,4,2,8,12,13
+UBC,2018,W,PHYS,100,,102,INTRO PHYSICS,"Sigurdson, Kris",254,72.98,13.28,95,23,226,18,6,0,4,0,0,1,9,8,18,7,5,6,13,33,44,25,54,26,13
+UBC,2018,W,PHYS,350,,201,APPL CLSCL MECH,"Sigurdson, Kris",34,79.74,8.83,95,58,34,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,10,3,7,6
+UBCV,2014,W,PHYS,306,,201,Mechanics,Kris Sigurdson,63,75.28571429,13.08215797,98.0,18.0,,,,,,,,,,,,,,5,,11,7,,15,6,8
+UBCV,2014,W,PHYS,410,,101,Computational Physics,Kris Sigurdson,51,80.07843137,12.02637624,96.0,50.0,,,,,,,,,,,0,,,,,,,7,5,18,9
+UBCV,2016,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson,63,80.34920635,9.710584066,99.0,51.0,,,,,,,,,,,0,1,2,0,3,4,3,8,18,14,10
+UBCV,2017,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson,47,82.14893617,9.150858176,95.0,56.0,,,,,,,,,,,0,0,1,1,1,4,4,2,9,12,13
+UBCV,2017,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw;Kris Sigurdson,12,86.75,4.30908132,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,3
+UBCV,2018,W,PHYS,100,,102,Introductory Physics,Jared Stang;Kris Sigurdson;Sarah Song,248,72.572580645,14.242363327,95.0,11.0,,,,,,,,,,,20,7,5,6,13,33,44,26,54,27,13
+UBCV,2018,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson,34,79.794117647,8.682198478,95.0,60.0,,,,,,,,,,,0,0,0,2,1,2,3,10,3,7,6
+UBCV,2018,W,PHYS,530,B,201,Topics in General Relativity Theory,Kris Sigurdson;William Unruh,12,82.333333333,5.944184833,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,5,2,2
+UBCV,2019,W,PHYS,100,,102,Introductory Physics,Jared Stang;Kris Sigurdson;Maryam Shirmohammad;Timothy Branch;Timothy William Branch,175,71.217142857,17.728759117,98.0,13.0,,,,,,,,,,,20,5,6,4,15,15,20,16,43,21,10
+UBCV,2019,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson;Mona Berciu;Timothy Branch;Timothy William Branch;Tom Ginsberg,88,79.886363636,10.112507128,100.0,50.0,,,,,,,,,,,0,2,3,2,4,4,6,11,19,24,13
+UBCV,2019,W,PHYS,516,,201,Statistical Mechanics,Fei Zhou;Jeremy Heyl;Kris Sigurdson,9,89.777777778,4.465920336,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,7
+UBCV,2020,W,PHYS,100,,103,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya;Pedram Amani,510,81.425490196,13.234819575,100.0,0.0,,,,,,,,,,,23,3,3,3,4,20,50,41,120,123,120
+UBCV,2020,W,PHYS,100,,M01,Introductory Physics,Erfan Rezaie;Jaiten Saini;Kris Sigurdson;Marcello M Pavan;Marcello Pavan;Marina Litinskaya,232,76.487068966,19.002387775,95.0,0.0,,,,,,,,,,,25,2,0,1,5,7,34,20,44,48,46
+UBCV,2020,W,PHYS,516,,201,Statistical Mechanics,Gordon Walter Semenoff;Kris Sigurdson;Oguzhan Can;Robert Raussendorf,18,92.833333333,4.50163369,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,13
+UBCV,2021,W,PHYS,100,,102,Introductory Physics,Erfan Rezaie;Kris Sigurdson;Lucas Valenca Soares Bezerra;Marcello Pavan;Maria Novoselova;Marina Litinskaya;Peilin Wu,255,73.68627451,17.951257491,97.0,3.0,,,,,,,,,,,27,10,3,5,17,15,27,24,55,33,39

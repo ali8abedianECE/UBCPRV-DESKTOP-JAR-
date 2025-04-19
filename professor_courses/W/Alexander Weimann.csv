@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,MUSC,157,A,001,EAR MUSIC ENSMBL,"Weimann, Alexander",10,89.3,2.45,94,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,,,
+UBC,2018,W,MUSC,333,,001,ACC HARPSCHRD I,"Weimann, Alexander",5,89.8,2.17,92,87,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,,,
+UBC,2018,W,MUSC,557,,001,EARLY MUSIC ENS,"Weimann, Alexander",8,88.67,2.5,93,86,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,,,
+UBCV,2017,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann,13,91.538461538,1.560736184,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCV,2018,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,10,89.3,2.45175674,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,7,,,
+UBCV,2018,W,MUSC,557,,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,6,88.666666667,2.503331114,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,2,,,
+UBCV,2019,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,11,89.090909091,2.662876094,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,5,,,
+UBCV,2019,W,MUSC,557,,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,6,89.166666667,3.060501048,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2020,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,13,89.461538462,6.063763746,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,1,11,,,
+UBCV,2021,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,14,85.642857143,8.205131067,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,1,2,2,7,,,
+UBCV,2021,W,MUSC,557,,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,11,90.090909091,3.832872173,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,9,,,
+UBCV,2021,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann,14,85.6,,93.0,69.0,,,,,,,,,,,,,,,,,,,,,7,89.0,92.0,81.0
+UBCV,2021,W,MUSC,557,,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann,11,90.1,,93.0,82.0,,,,,,,,,,,,,,,,,,,,,9,92.0,92.0,90.5
+UBCV,2022,W,MUSC,157,A,001,Early Music Ensemble,Alexander Fisher;Christina Hutten;Alexander Weimann,12,88.5,,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,6,89.5,92.3,85.0
+UBCV,2022,W,MUSC,557,,001,Early Music Ensemble,Alexander Fisher;Christina Hutten;Alexander Weimann,10,89.9,,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,7,90.0,92.5,88.5
+UBCV,2022,W,MUSC,593,A,001,Music Performance (Major),Leonard Anderson;Corey Hamm;Alexander Weimann,6,90.3,,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,91.0,91.8,87.3
+UBCV,2023,W,MUSC,157,A,001,Early Music Ensemble,Christina Hutten;Alexander Weimann,17,89.2,,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,6,10,90.0,93.0,87.0
+UBCV,2023,W,MUSC,333,,001,Accompanying on the Harpsichord I,Alexander Weimann,6,90.3,,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,5,92.0,93.8,90.3
+UBCV,2023,W,MUSC,557,,001,Early Music Ensemble,Christina Hutten;Alexander Weimann,11,92.5,,94.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,10,94.0,94.0,91.0

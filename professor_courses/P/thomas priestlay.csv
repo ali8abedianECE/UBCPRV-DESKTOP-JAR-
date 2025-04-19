@@ -1,0 +1,73 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,AGRO,460,,001,Adv Agroeco,"Sullivan, Thomas Priestlay",36,77.94,9.31,94,58,36,0,0,0,0,0,0,0,0,0,0,0,1,3,2,3,4,4,8,9,2
+UBC,2003,W,AGRO,490,,001,Top in Agroec,"Sullivan, Thomas Priestlay",19,79.32,12.61,96,51,19,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1,2,3,4,4
+UBC,2005,W,AGRO,444,,001,Agroforestry,"Sullivan, Thomas Priestlay",11,79.64,8.91,93,59,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,2,1,2
+UBC,2005,W,AGRO,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",28,78.67,8.81,95,57,27,0,1,0,0,0,0,0,0,0,0,0,1,0,2,3,3,5,7,3,3
+UBC,2005,W,AGRO,490,,001,Top in Agroec,"Sullivan, Thomas Priestlay",21,83.48,9.49,92,55,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,5,5,7
+UBC,2005,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",30,79.5,9.29,96,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,1,5,8,2,6
+UBC,2005,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",10,77.1,5.72,84,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,5,0,0
+UBC,2005,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",14,86.77,4.66,96,80,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,5
+UBC,2006,W,AGRO,444,,001,Agroforestry,"Sullivan, Thomas Priestlay",9,76.29,15,98,53,7,0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,0,2,1
+UBC,2006,W,AGRO,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",25,73.56,14.94,95,35,24,1,0,0,0,0,0,0,1,0,1,1,3,2,2,0,2,3,4,3,4
+UBC,2006,W,AGRO,490,,001,Top in Agroec,"Sullivan, Thomas Priestlay",24,78.75,19.33,94,0,23,1,0,0,0,1,0,0,0,0,1,0,1,2,0,0,0,3,5,7,5
+UBC,2006,W,AGRO,495,,001,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",6,65.5,34.53,91,0,5,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,2
+UBC,2006,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",5,65.6,11.67,78,52,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0
+UBC,2006,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",23,78.57,12.15,96,55,23,0,0,0,0,0,0,0,0,0,0,0,1,1,1,6,3,0,2,2,7
+UBC,2006,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",11,64.78,13.1,94,52,9,0,1,1,0,0,0,0,0,0,0,1,3,2,0,1,0,1,0,0,1
+UBC,2006,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",11,87.6,5.95,96,80,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5
+UBC,2007,W,AGRO,444,,001,Agroforestry,"Sullivan, Thomas Priestlay",8,73.88,22.65,92,24,7,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,2,0,3
+UBC,2007,W,AGRO,460,,001,ADV AGROECOLOGY,"Nichols, Cathleen;Sullivan, Thomas Priestlay",21,68.5,26.1,91,0,18,2,1,0,0,2,0,0,0,0,2,1,1,2,1,0,2,1,5,4,1
+UBC,2007,W,AGRO,495,,001,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",9,64.33,29.8,93,0,8,1,0,0,0,1,0,0,0,0,1,3,0,0,0,0,0,1,1,2,1
+UBC,2007,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",5,78,12.33,88,60,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0
+UBC,2007,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",22,78.82,11.31,96,60,22,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,2,5,2,5
+UBC,2007,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",15,68.79,24.63,97,0,13,1,0,0,1,1,0,0,0,0,1,3,0,0,1,1,0,2,3,2,1
+UBC,2007,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",16,86.25,5.6,96,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,3,6
+UBC,2009,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",6,70,35.26,95,0,5,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,2
+UBC,2009,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",13,80.62,8.53,92,64,13,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,5,1
+UBC,2009,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",17,68.53,20.05,82,0,15,2,0,0,0,1,0,0,0,1,2,0,0,0,2,2,4,1,6,0,0
+UBC,2009,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",5,71.2,14.92,90,50,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1
+UBC,2009,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",24,79.5,9.27,96,60,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,6,5,1,5
+UBC,2009,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",11,67.91,14,94,50,11,0,0,0,0,0,0,0,0,0,0,3,1,0,0,3,2,0,1,0,1
+UBC,2009,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",11,85.4,5.74,94,80,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3
+UBC,2010,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",8,64.13,28.32,86,0,7,1,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,2,2,0
+UBC,2010,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",26,70.81,17.4,87,0,25,1,0,0,0,1,0,0,0,0,1,2,0,2,2,2,6,4,3,4,0
+UBC,2010,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",16,74.13,10.16,87,58,16,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,4,0,4,3,0
+UBC,2010,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",5,78.5,7.9,90,72,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1
+UBC,2010,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",28,77.32,11.3,96,55,28,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2,1,3,7,4,4
+UBC,2010,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",14,76.69,9.84,91,62,13,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,2,1,3,1,2
+UBC,2010,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",10,87.8,3.58,92,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+UBC,2011,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",5,84.25,8.66,94,73,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+UBC,2011,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",21,72.84,8.45,88,52,19,0,2,0,0,0,0,0,0,0,0,1,0,1,2,3,5,4,1,2,0
+UBC,2011,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",17,75.4,9.71,90,58,15,0,1,1,0,0,0,0,0,0,0,0,1,2,0,1,3,2,4,1,1
+UBC,2011,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",7,74.57,11.63,84,50,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,3,0,0
+UBC,2011,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",21,77,11.54,96,60,20,0,1,0,0,0,0,0,0,0,0,0,0,3,1,4,2,2,2,2,4
+UBC,2011,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",16,70.2,12.43,98,50,15,0,1,0,0,0,0,0,0,0,0,2,0,2,2,3,2,0,3,0,1
+UBC,2011,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",8,87.5,4.87,96,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2
+UBC,2012,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",9,73.78,8.71,88,59,9,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,1,1,1,0
+UBC,2012,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",18,70.94,18.25,92,8,16,1,1,0,0,1,0,0,0,0,1,0,0,2,0,6,1,1,3,2,1
+UBC,2012,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",19,79.44,10.1,97,62,18,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4,2,2,4,2,3
+UBC,2012,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",7,72.17,12.25,86,52,6,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0
+UBC,2012,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",20,74.37,13.15,96,52,19,0,1,0,0,0,0,0,0,0,0,1,1,0,4,4,2,1,0,2,4
+UBC,2012,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",13,68.69,17.07,81,19,12,1,0,0,0,0,1,0,0,0,1,0,1,2,1,0,2,1,5,0,0
+UBC,2012,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",15,85.29,3.87,94,80,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,2
+UBC,2013,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",9,76.44,7.43,89,67,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,1,2,0
+UBC,2013,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",13,65.42,24.96,91,2,11,1,1,0,0,1,0,0,0,0,1,3,1,0,1,0,0,1,1,3,1
+UBC,2013,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",11,74.45,19.06,86,20,10,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,3,5,1,0
+UBC,2013,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",11,72.27,13.56,91,52,11,0,0,0,0,0,0,0,0,0,0,1,2,1,0,2,0,1,1,2,1
+UBC,2013,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",30,71.9,14.64,96,52,29,0,0,0,0,0,0,0,0,0,0,4,1,4,6,2,0,0,3,5,4
+UBC,2013,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",10,73.4,5.82,81,65,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,3,2,0,0
+UBC,2013,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",10,89.57,3.74,96,85,7,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+UBC,2014,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",18,77.27,10.2,92,57,15,0,3,0,0,0,0,0,0,0,0,0,1,1,1,1,2,1,5,2,1
+UBC,2014,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",13,74.77,5.49,82,63,13,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,2,4,0,0
+UBC,2014,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",23,76.5,8.23,89,59,20,0,2,0,1,0,0,0,0,0,0,0,1,0,2,2,4,4,3,4,0
+UBC,2014,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",12,74.27,12.22,87,45,10,1,1,0,0,0,0,0,0,1,1,0,0,0,0,3,1,2,1,3,0
+UBC,2014,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",23,76.14,9.68,92,60,22,0,1,0,0,0,0,0,0,0,0,0,0,1,5,3,1,0,8,2,2
+UBC,2014,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",15,72.47,10.34,92,52,15,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,2,1,4,0,1
+UBC,2014,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",9,86.88,5.17,96,82,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2
+UBC,2015,W,APBI,444,,001,AGROFORESTRY,"Sullivan, Thomas Priestlay",10,71.78,13.19,91,54,9,0,1,0,0,0,0,0,0,0,0,1,1,1,0,2,0,1,1,1,1
+UBC,2015,W,APBI,460,,001,ADV AGROECOLOGY,"Sullivan, Thomas Priestlay",11,70.9,11.45,84,52,10,0,1,0,0,0,0,0,0,0,0,2,0,0,1,2,1,1,3,0,0
+UBC,2015,W,APBI,495,,001,WILDLIFE MNGMENT,"Sullivan, Thomas Priestlay",26,77.6,7.42,90,60,25,0,1,0,0,0,0,0,0,0,0,0,0,1,0,4,6,4,4,5,1
+UBC,2015,W,CONS,495,,201,PROBLEM WILDLIFE,"Sullivan, Thomas Priestlay",7,71.86,8.01,84,61,7,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,1,1,0,0
+UBC,2015,W,FRST,399,,001,INTRO RSRCH METH,"Sullivan, Thomas Priestlay",25,76.21,11.58,93,55,24,0,0,0,0,0,0,0,0,0,0,0,2,1,2,5,2,1,4,3,4
+UBC,2015,W,FRST,444,,101,Agroforestry,"Sullivan, Thomas Priestlay",11,72.7,19.92,89,21,9,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,3,2,0
+UBC,2015,W,FRST,546,,001,RESEARCH METHODS,"Sullivan, Thomas Priestlay",10,89.4,5.27,96,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6

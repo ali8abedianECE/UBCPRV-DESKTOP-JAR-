@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),An-Yi Lee;Qing Yuan Ma;Rui Xu;Shiang-Han Lin;Ying-Hua Tsai,21,77.571428571,10.979851677,90.0,49.0,1,0,1,0,1,2,5,0,3,6,2,,,
+UBCV,2021,W,CHIN,131,,023,Basic Chinese I: Part 1 (Non-Heritage),Junyi Zhang;Pi-Hua Lin;Qing Yuan Ma;Rui Xu;Shiang-Han Lin;Yu An Tan,25,77.32,19.578304319,95.0,0.0,2,0,0,1,1,0,3,4,3,5,6,,,
+UBCV,2021,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Junyi Zhang;Pi-Hua Lin;Qing Yuan Ma;Rui Xu;Shiang-Han Lin,22,76.454545455,9.883739762,90.0,56.0,0,0,1,2,1,4,1,2,7,2,2,,,
+UBCV,2021,W,CHIN,133,,009,Basic Chinese I: Part 2 (Non-Heritage),Hsueh-Ni Chen;Qing Yuan Ma;Shiang-Han Lin;Yuting Huang,23,78.304347826,7.201229583,90.0,65.0,0,0,0,0,2,3,2,6,4,5,1,,,
+UBCV,2021,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),An-Yi Lee;Ming Zhu Lu;Pi-Hua Lin;Rui Xu;Shiang-Han Lin;Shiyang Zhang,26,75.153846154,13.211184073,88.0,30.0,2,0,0,2,1,2,1,6,8,4,0,,,
+UBCV,2021,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Ming Zhu Lu;Rui Xu;Shiang-Han Lin;Shiyang Zhang,26,76.153846154,12.935817895,88.0,20.0,1,0,0,1,1,1,4,5,9,4,0,,,
+UBCV,2021,W,CHIN,131,,001,Basic Chinese I: Part 1 (Non-Heritage),Shiang-Han Lin,21,77.6,,90.0,49.0,,,,,,,,,,6,,82.0,86.0,72.0
+UBCV,2021,W,CHIN,131,,023,Basic Chinese I: Part 1 (Non-Heritage),Shiang-Han Lin,25,77.3,,95.0,0.0,,,,,,,,,,,6,81.0,87.0,75.0
+UBCV,2021,W,CHIN,133,,001,Basic Chinese I: Part 2 (Non-Heritage),Shiang-Han Lin,22,76.5,,90.0,56.0,,,,,,,,,7,,,78.5,83.8,70.3
+UBCV,2021,W,CHIN,133,,009,Basic Chinese I: Part 2 (Non-Heritage),Shiang-Han Lin,23,78.3,,90.0,65.0,,,,,,,,6,,,,79.0,83.0,75.0
+UBCV,2021,W,CHIN,231,,002,Basic Chinese II: Part 1 (Non-Heritage),Shiang-Han Lin,26,75.2,,88.0,30.0,,,,,,,,6,8,,,79.0,83.5,72.0
+UBCV,2021,W,CHIN,233,,002,Basic Chinese II: Part 2 (Non-Heritage),Shiang-Han Lin,26,76.2,,88.0,20.0,,,,,,,,,9,,,79.5,81.8,75.0
+UBCV,2022,S,CHIN,133,,921,Basic Chinese I: Part 2 (Non-Heritage),Shiang-Han Lin,6,77.8,,85.0,65.0,0,0,0,0,1,0,1,0,3,1,0,80.0,82.3,75.5
+UBCV,2022,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Shiang-Han Lin,6,73.2,,90.0,0.0,1,0,0,0,0,0,0,0,0,4,1,87.5,88.0,86.3

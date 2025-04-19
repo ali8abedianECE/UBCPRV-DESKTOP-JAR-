@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,ASIA,258,,001,RELIGION S ASIA,"Mayer, Tara",25,77.09,5.66,85,61,22,0,1,0,2,0,0,0,0,0,0,0,0,1,0,3,3,6,8,1,0,,,
+UBC,2012,W,HIST,273,,101,STH ASIAN HIST,"Mayer, Tara",45,78.05,4.17,90,70,42,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,11,15,10,3,1,,,
+UBC,2012,W,HIST,490,D,201,SEM FOR HIST MAJ,"Mayer, Tara",8,82.43,4.35,90,76,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,1,,,
+UBC,2012,W,HIST,490,D,202,SEM FOR HIST MAJ,"Mayer, Tara",9,79.71,4.54,83,70,7,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,5,0,0,,,
+UBC,2013,W,HIST,315,,101,BRIT 1750 - 1850,"Mayer, Tara",49,75.57,6.55,85,52,47,0,1,0,0,0,0,0,0,0,0,1,2,0,0,5,9,17,11,2,0,,,
+UBC,2013,W,HIST,346,,001,FRANC POST-REVOL,"Mayer, Tara",40,73.95,12.58,85,22,35,2,2,1,0,0,0,1,0,1,2,1,0,1,2,2,6,9,9,5,0,,,
+UBC,2013,W,HIST,385,,201,INDIA RAJ TO REP,"Mayer, Tara",50,75.46,8.59,85,26,47,1,1,1,0,0,0,1,0,0,1,0,0,1,1,4,10,18,11,2,0,,,
+UBC,2013,W,HIST,388,,201,INDIA ERLY MDRN,"Mayer, Tara",36,75.19,13.23,86,10,35,1,0,0,0,0,1,0,0,0,1,1,0,1,2,1,4,9,14,3,0,,,
+UBC,2014,W,HIST,273,,101,HIST OF INDIA,"Mayer, Tara",48,74.43,11.19,86,34,44,2,2,0,0,0,0,0,2,0,2,1,1,1,0,5,8,10,12,6,0,,,
+UBC,2014,W,HIST,315,,101,BRIT 1750 - 1850,"Mayer, Tara",50,75.16,6.13,85,50,49,0,1,0,0,0,0,0,0,0,0,1,0,0,0,9,16,9,9,5,0,,,
+UBC,2014,W,HIST,346,,001,FRANC POST-REVOL,"Lanthier, Michael;Mayer, Tara",45,69.91,15.26,85,0,41,4,0,0,0,1,0,0,2,1,4,1,0,1,3,13,7,5,9,2,0,,,
+UBC,2016,W,HIST,273,,101,HIST OF INDIA,"Mayer, Tara",47,75.02,6.06,87,64,44,0,3,0,0,0,0,0,0,0,0,0,0,0,6,9,8,6,12,3,0,,,
+UBC,2016,W,HIST,346,,001,FRANC POST-REVOL,"Mayer, Tara",18,72.94,14.99,88,33,16,2,0,0,0,0,0,0,2,0,2,0,0,0,0,3,2,4,5,2,0,,,
+UBC,2016,W,HIST,385,,201,INDIA RAJ TO REP,"Mayer, Tara",52,75.04,9.44,88,28,50,1,1,0,0,0,0,1,0,0,1,0,1,1,3,6,10,12,13,4,0,,,
+UBC,2016,W,HIST,388,,201,INDIA ERLY MDRN,"Mayer, Tara",45,74.52,7.32,90,59,44,0,0,1,0,0,0,0,0,0,0,0,1,1,5,7,8,9,8,4,1,,,
+UBC,2017,S,HIST,390,A,921,TOPICS IN HIST,"Mayer, Tara",20,77.5,8.29,86,52,20,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,4,6,4,0,,,
+UBC,2017,W,HIST,104,,101,TPCS WORLD HIST,"Mayer, Tara",107,73.75,13.91,91,0,99,5,2,0,0,1,1,0,1,2,5,4,0,2,6,10,20,21,19,14,3,,,
+UBC,2017,W,HIST,385,,201,INDIA RAJ TO REP,"Mayer, Tara",48,77.58,6.53,90,52,48,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,11,11,12,7,1,,,
+UBC,2017,W,HIST,388,,201,INDIA ERLY MDRN,"Mayer, Tara",50,76.58,11.9,88,33,46,4,0,0,0,0,0,0,2,2,4,0,1,0,0,3,3,11,20,8,0,,,
+UBC,2018,S,HIST,390,A,921,TOPICS IN HIST,"Mayer, Tara",18,75.47,12.3,86,32,16,1,1,0,0,0,0,0,1,0,1,0,0,0,0,2,3,4,4,3,0,,,
+UBC,2018,W,HIST,273,,101,HIST OF INDIA,"Mayer, Tara",39,67.49,23,87,0,34,5,0,0,0,3,1,0,0,1,5,0,0,0,3,5,8,6,10,2,0,,,
+UBC,2018,W,HIST,346,,001,HIST MODRN FRNCE,"Mayer, Tara",47,78.24,11.99,90,11,44,1,2,0,0,0,1,0,0,0,1,1,0,0,0,2,5,8,21,5,2,,,
+UBC,2018,W,HIST,385,,201,INDIA RAJ TO REP,"Mayer, Tara",40,79.45,12.53,91,33,36,2,0,0,2,0,0,0,2,0,2,0,1,0,0,0,4,8,7,13,3,,,
+UBCV,2014,W,HIST,273,,101,History of India,Tara Mayer,46,74.43478261,11.19256137,86.0,34.0,,,,,,,,,,,,,,,,5,8,10,12,6,0,,,
+UBCV,2014,W,HIST,315,,101,Britain 1750-1850,Tara Mayer,49,75.16326531,6.128305023,85.0,50.0,,,,,,,,,,,0,,,,,9,16,9,9,5,0,,,
+UBCV,2014,W,HIST,346,,001,France Since the Revolution,Michael Lanthier;Tara Mayer,45,69.91111111,15.25811591,85.0,0.0,,,,,,,,,,,,,,,,13,7,5,9,,0,,,
+UBCV,2016,W,HIST,273,,101,History of India,Kayla Reddecliff;Kayla Rose Reddecliff;Tara Mayer,44,75.02272727,6.063572653,87.0,64.0,,,,,,,,,,,0,0,0,0,6,9,8,6,12,3,0,,,
+UBCV,2016,W,HIST,346,,001,France Since the Revolution,David Adie;Tara Mayer,18,72.94444444,14.98812166,88.0,33.0,,,,,,,,,,,2,0,0,0,0,3,2,4,5,2,0,,,
+UBCV,2016,W,HIST,385,,201,India from Raj to Republic,David Adie;Tara Mayer,51,75.03921569,9.438137071,88.0,28.0,,,,,,,,,,,1,0,1,1,3,6,10,12,13,4,0,,,
+UBCV,2016,W,HIST,388,,201,"India in the Early Modern World: Mughals, Merchants, and Marauders",David Adie;Tara Mayer,44,74.52272727,7.324659327,90.0,59.0,,,,,,,,,,,0,0,1,1,5,7,8,9,8,4,1,,,
+UBCV,2017,S,HIST,390,A,921,Topics in History,Tara Mayer,20,77.5,8.287593772,86.0,52.0,,,,,,,,,,,0,1,0,0,1,2,2,4,6,4,0,,,
+UBCV,2017,W,HIST,104,,101,Topics in World History,Joshua Lee Timmermann;Joshua Timmermann;Tara Mayer,105,73.723809524,13.842864892,91.0,0.0,,,,,,,,,,,5,4,0,2,6,11,20,21,19,14,3,,,
+UBCV,2017,W,HIST,385,,201,India from Raj to Republic,Tara Mayer,48,77.583333333,6.529257666,90.0,52.0,,,,,,,,,,,0,1,0,0,0,5,11,11,12,7,1,,,
+UBCV,2017,W,HIST,388,,201,"India in the Early Modern World: Mughals, Merchants, and Marauders",Tara Mayer,50,76.58,11.897675986,88.0,33.0,,,,,,,,,,,4,0,1,0,0,3,3,11,20,8,0,,,
+UBCV,2018,S,HIST,390,A,921,Topics in History,Nicole Yakashiro;Tara Mayer,17,75.470588235,12.304052417,86.0,32.0,,,,,,,,,,,1,0,0,0,0,2,3,4,4,3,0,,,
+UBCV,2018,W,HIST,273,,101,History of India,Archa Neelakandan Girija;Tara Mayer,39,67.487179487,22.999853312,87.0,0.0,,,,,,,,,,,5,0,0,0,3,5,8,6,10,2,0,,,
+UBCV,2018,W,HIST,346,,001,History of Modern France,Tara Mayer,45,78.244444444,11.994611585,90.0,11.0,,,,,,,,,,,1,1,0,0,0,2,5,8,21,5,2,,,
+UBCV,2018,W,HIST,385,,201,India from Raj to Republic,Tara Mayer;Victor Zatsepine,40,77.35,15.326447729,91.0,33.0,,,,,,,,,,,4,0,1,0,0,0,4,8,7,13,3,,,
+UBCV,2019,S,HIST,390,A,921,Topics in History,Elspeth Gow;Tara Mayer,15,78.933333333,7.968389931,90.0,60.0,,,,,,,,,,,0,0,0,1,1,0,2,2,5,3,1,,,
+UBCV,2019,W,HIST,273,,101,History of India,Douglas Fairchi Ober;Douglas Fairchild Ober;Douglas Ober;Tara Mayer;Zoeyn Cho,31,79.451612903,12.255172268,97.0,38.0,,,,,,,,,,,1,0,0,2,2,1,3,3,5,9,5,,,
+UBCV,2019,W,HIST,385,,201,India from Raj to Republic,Anne Murphy;Douglas Fairchi Ober;Douglas Ober;Tara Mayer,26,80.0,14.751271132,93.0,15.0,,,,,,,,,,,1,0,0,0,1,0,2,6,5,7,4,,,
+UBCV,2020,W,ASTU,460,,002,No Knowledge is Neutral,Tara Mayer,18,83.944444444,2.732639797,87.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,9,0,,,
+UBCV,2020,W,HIST,273,,101,History of India,Douglas Ober;Nila Utami;Tara Mayer,52,78.538461538,8.398089275,88.0,35.0,,,,,,,,,,,1,0,1,0,1,1,5,16,17,10,0,,,
+UBCV,2020,W,HIST,385,,201,India from Raj to Republic,Douglas Ober;Hilal Kina;Tara Mayer,42,77.166666667,9.864735583,91.0,41.0,,,,,,,,,,,2,0,0,0,0,7,4,8,12,7,2,,,
+UBCV,2021,W,ASTU,460,,002,No Knowledge is Neutral,Tara Mayer,28,79.928571429,16.825748723,87.0,0.0,,,,,,,,,,,1,1,0,0,0,0,0,2,13,11,0,,,
+UBCV,2021,W,GRSJ,327,,001,Theories of Representation and Difference,Tara Mayer,43,82.465116279,12.503997146,91.0,23.0,,,,,,,,,,,2,0,0,1,0,0,0,0,11,27,2,,,
+UBCV,2021,W,HIST,273,,101,History of India,Hamad Nazar;Tara Mayer,45,78.244444444,8.517777014,88.0,38.0,,,,,,,,,,,1,1,0,0,0,2,4,9,21,7,0,,,
+UBCV,2021,W,HIST,388,,201,"India in the Early Modern World: Mughals, Merchants, and Marauders",Tara Mayer,42,76.404761905,14.548588941,87.0,15.0,,,,,,,,,,,1,4,1,0,2,0,0,2,22,10,0,,,
+UBCV,2021,W,ASTU,460,,002,No Knowledge is Neutral,Tara Mayer,28,79.9,,87.0,0.0,,,,,,,,,,,,,,,,,,,13,11,,84.0,85.0,83.0
+UBCV,2021,W,GRSJ,327,,001,Theories of Representation and Difference,Tara Mayer,43,84.7,,91.0,60.0,,,,,,,,,,,,,,,,,,,12,27,,85.0,86.0,84.0
+UBCV,2021,W,HIST,273,,101,History of India,Tara Mayer,44,79.2,,88.0,51.0,,,,,,,,,,,,,,,,,,9,21,7,,80.0,82.0,77.0
+UBCV,2021,W,HIST,388,,201,"India in the Early Modern World: Mughals, Merchants, and Marauders",Tara Mayer,42,78.9,,87.0,15.0,,,,,,,,,,,,,,,,,,,26,10,,82.0,84.0,80.3
+UBCV,2023,W,ASTU,460,,002,No Knowledge is Neutral,Tara Mayer,13,86.7,,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,4,87.0,90.0,85.0
+UBCV,2023,W,GRSJ,101,,99A,Introduction to Social Justice,Tara Mayer,85,86.4,,95.0,45.0,,,,,,,,,,,1,0,0,0,1,0,0,3,23,28,28,88.0,91.0,82.8
+UBCV,2023,W,GRSJ,101,,99C,Introduction to Social Justice,Tara Mayer,84,80.0,,93.0,0.0,,,,,,,,,,,2,0,1,2,1,1,9,9,29,21,8,82.0,87.0,78.0
+UBCV,2023,W,GRSJ,302,,101,Pedagogies of Social Justice,Tara Mayer,27,82.2,,90.0,41.0,,,,,,,,,,,1,0,0,0,0,0,0,3,12,8,1,83.0,87.0,82.0
+UBCV,2023,W,GRSJ,425,B,201,"Special Topics in Gender, Race, and Sexuality",Tara Mayer,6,83.2,,90.0,67.0,,,,,,,,,,,,,,,,,,,,,,86.0,90.0,83.0

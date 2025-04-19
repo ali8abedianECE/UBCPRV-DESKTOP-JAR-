@@ -1,0 +1,89 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",92,72.07,10.02,92,50,88,0,0,0,4,0,0,0,0,0,0,6,5,6,14,9,12,13,14,7,2
+UBC,2002,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",49,79.33,7.81,93,58,48,0,1,0,0,0,0,0,0,0,0,0,1,1,2,4,4,7,16,9,4
+UBC,2002,W,CIVL,570,,101,SOIL MECHANICS,"Fannin, R Jonathan;Howie, John;Shuttle, Dawn;Wijewickreme, Dharmapriya",6,78.5,6.77,85,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,1,0
+UBC,2002,W,CIVL,577,,201,SOIL EXP-ENG DES,"Howie, John",5,79.6,7.77,88,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0
+UBC,2003,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",119,71.73,11.02,98,40,111,1,0,0,7,0,0,0,0,1,1,12,3,6,11,13,23,11,22,6,4
+UBC,2003,W,CIVL,570,,101,SOIL MECHANICS,"Fannin, R Jonathan;Howie, John;Shuttle, Dawn;Wijewickreme, Dharmapriya",11,78.1,13.05,91,45,9,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,5,1,1,2
+UBC,2005,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",120,74.49,7.26,89,56,115,0,0,0,5,0,0,0,0,0,0,0,4,4,8,23,27,18,21,10,0
+UBC,2005,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",45,80.53,6.52,92,57,45,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,8,5,17,12,1
+UBC,2005,W,CIVL,570,,101,SOIL MECHANICS,"Fannin, R Jonathan;Howie, John;Wijewickreme, Dharmapriya",10,70.2,25.87,89,0,9,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,2,1,1,3,0
+UBC,2006,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",124,75.58,7.39,95,54,123,0,0,0,1,0,0,0,0,0,0,1,2,3,12,16,23,32,20,12,2
+UBC,2006,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",53,79.36,8.32,93,59,53,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,6,11,13,9,6
+UBC,2006,W,CIVL,445,,201,ENG DESIG & ANLY,"Atwater, James;Howie, John;Lence, Barbara Jean;Nesbit, Susan",121,77.07,7.04,89,60,121,0,0,0,0,0,0,0,0,0,0,0,0,3,6,16,26,18,29,23,0
+UBC,2006,W,CIVL,570,,101,SOIL MECHANICS,"Fannin, R Jonathan;Howie, John;Shuttle, Dawn;Wijewickreme, Dharmapriya",11,82.36,6.86,90,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,3,2
+UBC,2006,W,CIVL,598,D,002,TPCS IN CIVL ENG,"Howie, John;Wijewickreme, Dharmapriya",9,80.89,8.31,89,61,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,3,0
+UBC,2006,W,CIVL,598,G,002,TPCS IN CIVL ENG,"Howie, John",4,85.5,3.32,88,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+UBC,2007,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",132,70.27,8.46,93,44,127,2,0,0,3,0,0,0,0,2,2,2,6,16,21,24,25,16,8,8,1
+UBC,2007,W,CIVL,411,,201,FOUNDAT'N ENG II,"Fannin, R Jonathan;Howie, John;Shuttle, Dawn;Wijewickreme, Dharmapriya",60,82.13,7.13,95,63,60,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,6,7,15,18,9
+UBC,2007,W,CIVL,445,,201,ENG DESIG & ANLY,"Atwater, James;Howie, John;Lence, Barbara Jean;Ventura, Carlos Estuardo",108,82.38,5.49,100,69,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,14,50,24,8
+UBC,2007,W,CIVL,597,,001,SEMINAR,"Howie, John",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CIVL,598,D,002,TPCS IN CIVL ENG,"Howie, John;Wijewickreme, Dharmapriya",7,78,8.02,89,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,2,0
+UBC,2009,W,CIVL,311,,101,SOIL MECHANIC II,"Amini, Ali;Howie, John;Taiebat, Mahdi",169,77.01,9.36,95,47,167,2,0,0,0,0,0,0,0,2,2,1,4,6,13,16,32,27,26,30,12
+UBC,2009,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",159,74.18,9.45,91,40,151,1,0,0,7,0,0,0,0,1,1,6,0,11,18,21,26,18,30,17,4
+UBC,2009,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",62,76.05,12.14,93,30,61,1,0,0,0,0,0,0,1,0,1,4,0,2,5,6,5,15,8,10,6
+UBC,2009,W,CIVL,445,,201,ENG DESIG & ANLY,"Howie, John;Johnson, Gregory;Lo, Kwang Victor;Ventura, Carlos Estuardo",127,82.18,7.94,90,50,126,0,1,0,0,0,0,0,0,0,0,5,0,0,0,1,10,4,56,46,4
+UBC,2009,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",15,71.53,23.11,98,0,14,1,0,0,0,1,0,0,0,0,1,0,1,1,1,3,1,1,2,1,3
+UBC,2009,W,CIVL,597,,001,SEMINAR,"Howie, John",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",160,69.06,10.86,95,40,152,4,0,0,4,0,0,0,0,4,4,17,9,4,30,28,18,20,17,5,4
+UBC,2010,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",53,77.17,11.58,97,44,52,1,0,0,0,0,0,0,0,1,1,1,1,1,6,8,7,5,7,6,10
+UBC,2010,W,CIVL,570,,101,SOIL MECHANICS,"Fannin, R Jonathan;Howie, John;Taiebat, Mahdi;Wijewickreme, Dharmapriya",20,83.75,5.34,94,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,6,4
+UBC,2010,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",12,79.17,8.32,94,68,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,3,1,2
+UBC,2010,W,CIVL,597,,001,SEMINAR,"Howie, John",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John",81,74.31,7.77,93,50,78,0,1,0,2,0,0,0,0,0,0,1,1,2,9,19,12,10,17,6,1
+UBC,2011,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",62,78.63,11.84,96,41,58,1,0,1,2,0,0,0,0,1,1,3,1,1,3,3,5,8,12,15,7
+UBC,2011,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",9,78.88,2.95,83,74,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,0,0
+UBC,2011,W,CIVL,597,,001,SEMINAR,"Howie, John",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",50,73.96,11.08,90,41,48,2,0,0,0,0,0,0,0,2,2,3,0,0,5,8,6,4,17,4,1
+UBC,2012,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",19,83.42,4.97,93,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,9,6,2
+UBC,2013,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",69,80.33,9.35,94,50,67,0,2,0,0,0,0,0,0,0,0,1,0,6,2,1,5,7,20,17,8
+UBC,2013,W,CIVL,446,,201,DESIG & ANALYS 2,"Howie, John;Mavinic, Donald;Stiemer, Siegfried",131,86.54,3.9,95,64,131,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,22,79,25
+UBC,2013,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",15,82.33,6.21,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,8,3,2
+UBC,2014,W,CIVL,311,,101,SOIL MECHANIC II,"Howie, John;Wijewickreme, Dharmapriya",218,79.5,8.58,96,41,216,2,0,0,0,0,0,0,0,2,2,1,1,2,5,21,32,41,50,40,23
+UBC,2014,W,CIVL,410,,101,FOUNDAT'N ENG I,"Howie, John;Nazhat, Yahya",93,70.68,11.08,88,16,87,5,0,0,1,0,1,0,1,3,5,1,3,2,15,23,13,11,15,4,0
+UBC,2014,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",55,78.19,11.11,95,50,53,0,0,0,2,0,0,0,0,0,0,4,3,0,0,2,2,7,20,12,3
+UBC,2014,W,CIVL,570,,101,ADV SOIL MECH,"Howie, John;Taiebat, Mahdi;Wijewickreme, Dharmapriya",17,81.71,10.95,94,56,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,1,4,1,6
+UBC,2014,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",11,81.27,6.2,88,68,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,3,0
+UBC,2015,W,CIVL,311,,101,SOIL MECHANIC II,"Howie, John;Wijewickreme, Dharmapriya",208,72.5,9.86,91,16,201,3,0,0,4,0,1,0,2,0,3,2,9,16,21,37,34,34,31,16,1
+UBC,2015,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John",71,81.77,13.54,94,0,68,1,0,0,2,1,0,0,0,0,1,3,0,0,1,1,3,7,16,23,14
+UBC,2015,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",11,78.18,8.45,91,63,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,1,2,2,1
+UBC,2015,W,CIVL,597,,007,SEMINAR,"Howie, John",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,IGEN,452,,201,PIPELINE DESIGN,"Howie, John;Isaacson, Michael D",10,85.6,6.8,96,77,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4
+UBC,2016,W,CIVL,311,,101,SOIL MECHANIC II,"Howie, John;Yan, Li",213,74.53,10.4,96,36,201,6,0,1,5,0,0,0,1,5,6,3,4,14,15,26,35,32,39,25,8
+UBC,2016,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John;Wijewickreme, Dharmapriya",52,78.84,14.9,95,5,49,1,0,0,2,1,0,0,0,0,1,3,2,0,0,0,1,7,19,13,4
+UBC,2016,W,CIVL,570,,101,ADV SOIL MECH,"Howie, John;Taiebat, Mahdi",20,81.4,11.39,98,53,20,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,2,6,3,5
+UBC,2016,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",16,79.56,13.22,97,50,16,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2,1,3,1,5
+UBC,2016,W,CIVL,597,,007,SEMINAR,"Howie, John",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,CIVL,311,,101,SOIL MECHANIC II,"Howie, John;Lizcano, Arcesio",230,70.25,11.96,95,21,216,12,0,0,2,0,0,2,7,3,12,3,15,17,24,40,41,27,33,9,7
+UBC,2017,W,CIVL,411,,201,FOUNDAT'N ENG II,"Howie, John;Nazhat, Yahya",50,82.92,10.88,97,50,50,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,4,2,14,13,13
+UBC,2017,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",15,82.4,5.63,92,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,4,2
+UBC,2017,W,CIVL,597,,007,SEMINAR,"Howie, John",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,CIVL,311,,101,SOIL MECHANIC II,"Howie, John;Wijewickreme, Dharmapriya",234,75.85,10.7,94,29,224,6,0,0,4,0,0,1,2,3,6,7,0,4,17,28,40,35,50,29,14
+UBC,2018,W,CIVL,574,,201,EXPER SOIL MECH,"Howie, John;Wijewickreme, Dharmapriya",12,80.18,10.46,95,65,11,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,1,1,3
+UBCV,2014,W,CIVL,311,,101,Soil Mechanics II,Dharmapriya Wijewickreme;John Howie,218,79.47247706,8.668055358,96.0,41.0,,,,,,,,,,,,,,,5,21,32,41,50,40,23
+UBCV,2014,W,CIVL,410,,101,Foundation Engineering I,John Howie;Yahya Nazhat,93,70.44086022,11.2689091,88.0,16.0,,,,,,,,,,,6,,,,15,23,13,11,15,,0
+UBCV,2014,W,CIVL,411,,201,Foundation Engineering II,John Howie,55,75.34545455,18.36181442,95.0,0.0,,,,,,,,,,,,,,,,,,7,20,12,
+UBCV,2014,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme;John Howie;Mahdi Taiebat,17,81.70588235,10.94740098,94.0,56.0,,,,,,,,,,,0,0,,,,,,,,,6
+UBCV,2014,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John Howie,11,81.27272727,6.198240219,88.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,5,,0
+UBCV,2015,W,CIVL,311,,101,Soil Mechanics II,Amaia Martinez;Boris Kolev;Daniel Mark Barnes;Dharmapriya Wijewickreme;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie;Monirehsadat Hedayati;Priyesh Verma;Vidanalage Nishan Soysa;Vidanalage Soysa,208,71.875,10.764665314,91.0,16.0,,,,,,,,,,,7,,9,16,21,37,34,34,31,16,
+UBCV,2015,W,CIVL,411,,201,Foundation Engineering II,Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie,71,80.647887324,14.901676408,94.0,0.0,,,,,,,,,,,,,,,,,,7,16,23,14
+UBCV,2015,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme;Gaziz Seidalinov;John Howie,16,77.6875,8.348403041,90.0,65.0,,,,,,,,,,,0,0,0,0,,5,,,,,
+UBCV,2015,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John Howie;Priyesh Verma,11,78.181818182,8.447700064,91.0,63.0,,,,,,,,,,,0,0,0,,,,,,,,
+UBCV,2015,W,IGEN,452,,201,Pipeline Design,John Howie;Michael D Isaacson,10,85.6,6.801960502,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2016,W,CIVL,311,,101,Soil Mechanics II,Ahmad Shafiq;Chen-Jung Mei;Gaziz Seidalinov;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John A. Howie;John Howie;Li Yan;Monirehsadat Hedayati;Priyesh Verma,212,73.80188679,11.30903243,96.0,36.0,,,,,,,,,,,11,3,4,14,15,26,35,32,39,25,8
+UBCV,2016,W,CIVL,411,,201,Foundation Engineering II,Dharmapriya Wijewickreme;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie,52,77.42307692,16.26176335,95.0,5.0,,,,,,,,,,,3,3,2,0,0,0,1,7,19,13,4
+UBCV,2016,W,CIVL,570,,101,Advanced Soil Mechanics,John A. Howie;John Howie;Mahdi Taiebat;Ming Yang,20,81.4,11.38512418,98.0,53.0,,,,,,,,,,,0,,,1,,1,1,2,6,3,5
+UBCV,2016,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John A. Howie;John Howie;Priyesh Verma,16,79.5625,13.22103753,97.0,50.0,,,,,,,,,,,0,,,1,,2,2,1,3,1,5
+UBCV,2016,W,IGEN,452,,201,Pipeline Design,Dharmapriya Wijewickreme;John Howie;Michael D Isaacson,11,87.09090909,2.256304299,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,1
+UBCV,2017,W,CIVL,311,,101,Soil Mechanics II,Ahmad Shafiq;Ahmed Amer;Alexander Mendler;Ana Maria Valverde Sancho;Arcesio Lizcano;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;Jennifer Liu;John A. Howie;John Howie;Li Yan;Mohammad Mahdi Shahrabi;Priyesh Verma,230,69.995652174,12.200471688,95.0,21.0,,,,,,,,,,,14,3,15,17,24,40,41,27,33,9,7
+UBCV,2017,W,CIVL,411,,201,Foundation Engineering II,Dharmapriya Wijewickreme;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John A. Howie;John Howie;Yahya Nazhat,50,82.92,10.875623369,97.0,50.0,,,,,,,,,,,0,3,0,1,0,0,4,2,14,13,13
+UBCV,2017,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John A. Howie;John Howie,15,82.4,5.62900651,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,4,4,4,2
+UBCV,2018,W,CIVL,311,,101,Soil Mechanics II,Ana Maria Valverde Sancho;Anays Mertz Antunes;Arcesio Lizcano;Dharmapriya Wijewickreme;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John A. Howie;John Howie;Michelle Wesolowski;Priyesh Verma;Vidanalage Nishan Soysa;Vidanalage Soysa;Vinoth Ganapathiraman,234,75.290598291,11.422859266,94.0,29.0,,,,,,,,,,,10,7,0,4,17,28,40,35,50,29,14
+UBCV,2018,W,CIVL,411,,201,Foundation Engineering II,Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie;Yahya Nazhat,69,81.898550725,7.152015198,94.0,60.0,,,,,,,,,,,0,0,0,2,1,2,5,12,20,15,12
+UBCV,2018,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John A. Howie;John Howie,11,80.181818182,10.457707032,95.0,65.0,,,,,,,,,,,0,0,0,0,1,1,3,1,1,1,3
+UBCV,2019,W,CIVL,311,,101,Soil Mechanics II,Ali Akbar Mohammed Aziz;Ana Maria Valverde Sancho;Anays Mertz Antunes;Dharmapriya Wijewickreme;Fabian Arquin Bolanos;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John A. Howie;John Howie;Michelle Wesolowski;Vinoth Ganapathiraman,206,69.189320388,11.741445564,92.0,3.0,,,,,,,,,,,10,4,17,18,26,32,38,28,25,7,1
+UBCV,2019,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Abhinav Arora;Christopher Caufield;Hartaj Sanghara;John A. Howie;John Howie;Michael D Isaacson;Mohammadamin Sadeghi;Noboru Yonemitsu;Pamela Rogalski;Pamela Wolf;Yahya Nazhat,140,90.092857143,3.304447469,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,63,74
+UBCV,2019,W,CIVL,446,,201,Civil Engineering Design Project II.,Abdolreza Joghataie;John A. Howie;John Howie;Michael D Isaacson;Pamela Rogalski;Pamela Wolf;Rashim Garg;Yahya Nazhat,140,90.978571429,6.390717028,100.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,9,5,20,102
+UBCV,2019,W,CIVL,574,,201,Experimental Soil Mechanics,Ana Maria Valverde Sancho;Dharmapriya Wijewickreme;John A. Howie;John Howie,9,73.888888889,9.184830489,90.0,60.0,,,,,,,,,,,0,0,0,1,0,4,0,1,2,0,1
+UBCV,2020,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Abdul Ahad Ahmadi;Carlos Estuardo Ventura;Christopher Caufield;Gerald Palomino Romani;Hartaj Sanghara;John Howie;Loretta Li;Michael D Isaacson;Mohamed Kamel;Noboru Yonemitsu;Pamela Rogalski;Pamela Wolf;Yahya Nazhat,131,86.770992366,4.18709535,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,1,38,62,28
+UBCV,2020,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John A. Howie;John Howie,7,79.142857143,9.940297974,91.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,0,3,1,1

@@ -1,0 +1,96 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,PHYS,203,,201,THERMAL PHYS I,"Michal, Carl",65,72.62,12.02,98,35,63,2,0,0,0,0,0,0,1,1,2,2,4,2,8,11,9,6,10,5,6,,,
+UBC,2002,W,PHYS,305,,101,INTRO TO BIOPHYS,"Michal, Carl",31,74.03,11.25,92,35,28,1,1,0,1,0,0,0,1,0,1,0,1,3,0,3,5,4,9,2,1,,,
+UBC,2003,W,CHEM,518,A,108,TOP MAG RESONANC,"Burnell, E Elliott;Michal, Carl",9,85.63,4.72,92,80,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,,,
+UBC,2003,W,PHYS,203,,201,THERMAL PHYS I,"Michal, Carl",56,69.39,15.36,97,26,51,5,0,0,0,0,0,1,0,4,5,4,4,6,6,6,6,1,6,3,9,,,
+UBC,2003,W,PHYS,305,,101,INTRO TO BIOPHYS,"Michal, Carl",30,74.41,16.4,94,10,28,1,1,0,0,0,1,0,0,0,1,0,2,1,4,1,3,2,6,6,3,,,
+UBC,2005,W,PHYS,209,,001,INTRM PHYS LAB,"Michal, Carl",31,72.36,10.3,88,44,27,1,3,0,0,0,0,0,0,1,1,1,1,1,5,0,4,9,4,2,0,,,
+UBC,2005,W,PHYS,209,,002,INTRM PHYS LAB,"Michal, Carl",31,66.62,14.86,85,8,27,2,2,0,0,1,0,0,1,0,2,0,3,3,4,5,4,4,3,1,0,,,
+UBC,2005,W,PHYS,209,,003,INTRM PHYS LAB,"Michal, Carl",20,69.45,9.93,86,52,20,0,0,0,0,0,0,0,0,0,0,2,2,1,3,2,4,2,2,2,0,,,
+UBC,2005,W,PHYS,209,,004,INTRM PHYS LAB,"Michal, Carl",7,65.14,5.08,73,57,7,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,1,0,0,0,0,,,
+UBC,2006,W,ISCI,322,,101,SCIE MEAS&INSTR,"Gosline, John;Michal, Carl",8,79.5,2.33,83,76,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,,,
+UBC,2006,W,PHYS,209,,001,INTRM PHYS LAB,"Michal, Carl",30,73.87,13.55,97,50,30,0,0,0,0,0,0,0,0,0,0,3,1,4,3,1,2,4,4,3,5,,,
+UBC,2006,W,PHYS,209,,002,INTRM PHYS LAB,"Michal, Carl",32,73.8,13.34,94,51,30,0,2,0,0,0,0,0,0,0,0,4,1,3,2,2,2,1,7,5,3,,,
+UBC,2006,W,PHYS,209,,003,INTRM PHYS LAB,"Michal, Carl",7,71.57,9.85,90,60,7,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,0,1,,,
+UBC,2007,W,PHYS,209,,L0A,INTRM PHYS LAB,"Michal, Carl",21,69.05,14.29,93,30,19,2,0,0,0,0,0,0,1,1,2,0,2,0,4,4,4,1,1,2,1,,,
+UBC,2007,W,PHYS,209,,L0B,INTRM PHYS LAB,"Michal, Carl",8,60.63,9.13,75,50,8,0,0,0,0,0,0,0,0,0,0,2,2,1,1,1,1,0,0,0,0,,,
+UBC,2007,W,PHYS,209,,L0D,INTRM PHYS LAB,"Michal, Carl",7,74.29,15.72,93,55,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,2,1,,,
+UBC,2007,W,PHYS,209,,L0E,INTRM PHYS LAB,"Michal, Carl",9,70,8.25,86,60,8,0,1,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,0,1,0,,,
+UBC,2007,W,PHYS,209,,L0F,INTRM PHYS LAB,"Michal, Carl",7,61.14,28.48,89,13,5,2,0,0,0,0,1,0,1,0,2,0,1,0,0,0,1,1,0,2,0,,,
+UBC,2007,W,PHYS,209,,L0G,INTRM PHYS LAB,"Michal, Carl",4,57.25,6.8,64,50,4,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,,,
+UBC,2007,W,PHYS,209,,L0I,INTRM PHYS LAB,"Michal, Carl",10,75.6,10.19,88,60,10,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,2,2,0,,,
+UBC,2010,W,PHYS,352,,L1B,LAB TECH IN PHYS,"Michal, Carl",16,79.88,8.16,95,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,5,2,2,,,
+UBC,2010,W,PHYS,352,,L2C,LAB TECH IN PHYS,"Michal, Carl",13,68.46,20.97,91,15,11,2,0,0,0,0,1,0,0,1,2,0,1,1,0,1,0,3,3,1,1,,,
+UBC,2011,W,ENPH,352,,L1A,PHYSICS LAB TECH,"Michal, Carl;PENNEC, YAN HERVE LOIC",7,73.43,7.83,87,64,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,0,1,0,,,
+UBC,2011,W,ENPH,352,,L1B,PHYSICS LAB TECH,"Michal, Carl",16,78.6,9.93,92,57,15,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,3,0,4,3,2,,,
+UBC,2011,W,ENPH,352,,L1D,PHYSICS LAB TECH,"Michal, Carl;PENNEC, YAN HERVE LOIC",14,79.21,6.24,93,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,4,2,1,,,
+UBC,2011,W,ENPH,352,,L2C,PHYSICS LAB TECH,"Michal, Carl",11,66.5,23.28,84,13,8,2,1,0,0,0,1,0,1,0,2,0,0,1,0,1,1,0,5,0,0,,,
+UBC,2012,W,ENPH,352,,L1A,PHYSICS LAB TECH,"Jones, David;Michal, Carl",10,74.3,13.94,90,50,10,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,2,2,1,,,
+UBC,2012,W,ENPH,352,,L2C,PHYSICS LAB TECH,"Jones, David;Michal, Carl",14,71.69,18.51,94,17,12,1,1,0,0,0,1,0,0,0,1,0,0,0,2,1,2,3,2,1,1,,,
+UBC,2012,W,PHYS,319,,201,ELECTRICAL LAB,"Michal, Carl",29,76.78,9.94,91,51,27,0,2,0,0,0,0,0,0,0,0,1,1,1,0,3,3,5,7,3,3,,,
+UBC,2013,W,ENPH,352,,L1B,PHYSICS LAB TECH,"Jones, David;Michal, Carl",14,72.23,19.59,95,15,12,1,1,0,0,0,1,0,0,0,1,0,0,0,2,1,4,1,1,1,2,,,
+UBC,2013,W,ENPH,352,,L2C,PHYSICS LAB TECH,"Jones, David;Michal, Carl",18,81.44,11.05,95,50,18,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,4,1,2,7,,,
+UBC,2013,W,PHYS,319,,201,ELECTRICAL LAB,"Michal, Carl",27,75.48,8.52,97,60,27,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8,1,7,0,3,,,
+UBC,2014,W,ENPH,352,,L2C,PHYSICS LAB TECH,"Michal, Carl",15,74.67,19.81,92,9,14,1,0,0,0,1,0,0,0,0,1,0,0,1,0,1,2,1,6,2,1,,,
+UBC,2014,W,PHYS,219,,L1B,INTMD EXP PHYS 1,"Michal, Carl",33,82.76,14.58,97,27,32,1,0,0,0,0,0,1,0,0,1,1,0,1,2,0,2,0,5,9,12,,,
+UBC,2014,W,PHYS,319,,201,ELECTRICAL LAB,"Michal, Carl",38,77.79,7.53,88,57,38,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,7,5,14,6,0,,,
+UBC,2015,W,PHYS,117,,101,DYNAMICS & WAVES,"Bates, Simon;Michal, Carl",233,68.91,15.8,99,18,191,36,4,0,1,0,1,1,5,29,36,5,15,20,13,37,22,18,19,20,22,,,
+UBC,2015,W,PHYS,319,,201,ELECTRICAL LAB,"Michal, Carl",35,77.85,10.35,96,50,34,0,0,0,1,0,0,0,0,0,0,1,1,2,1,3,2,6,11,3,4,,,
+UBC,2016,W,PHYS,117,,101,DYNAMICS & WAVES,"Bates, Simon;Michal, Carl",300,67.14,15.25,95,17,240,47,9,0,4,0,1,3,10,33,47,13,16,26,19,41,28,24,42,20,11,,,
+UBC,2016,W,PHYS,319,,201,ELECTRICAL LAB,"Michal, Carl",38,78.12,10.19,93,50,33,0,2,0,3,0,0,0,0,0,0,1,1,1,2,3,3,3,11,4,4,,,
+UBC,2018,W,PHYS,119,,L2C,EXPRMNT PHYS LAB,"Michal, Carl",47,89.04,7.86,100,55,47,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,6,12,27,,,
+UBC,2018,W,PHYS,119,,L2G,EXPRMNT PHYS LAB,"Michal, Carl",39,88.74,7.7,98,54,39,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,3,8,24,,,
+UBC,2018,W,PHYS,210,,101,INTRO CPTNL PHYS,"Michal, Carl",39,82.15,9.16,94,57,39,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,4,11,6,10,,,
+UBC,2018,W,PHYS,210,,102,INTRO CPTNL PHYS,"Michal, Carl",40,78,14.98,94,35,36,3,1,0,0,0,0,0,2,1,3,0,1,0,2,4,3,5,4,7,10,,,
+UBCV,2014,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Carl Michal;Christopher Waltham,15,74.66666667,19.80500177,92.0,9.0,,,,,,,,,,,,,,,,,,,6,,,,,
+UBCV,2014,W,PHYS,219,,L1A,Intermediate Experimental Physics I,Andrzej Kotlicki;Carl Michal,31,82.22580645,8.96552537,94.0,58.0,,,,,,,,,,,0,0,,,,,,,10,,9,,,
+UBCV,2014,W,PHYS,219,,L1B,Intermediate Experimental Physics I,Andrzej Kotlicki;Carl Michal,33,82.75757576,14.58387445,97.0,27.0,,,,,,,,,,,,,,,,,,,5,9,12,,,
+UBCV,2014,W,PHYS,219,,L1C,Intermediate Experimental Physics I,Andrzej Kotlicki;Carl Michal,28,77.46428571,16.68994406,96.0,26.0,,,,,,,,,,,,,,,,,,,7,,7,,,
+UBCV,2014,W,PHYS,319,,201,Electronics Laboratory,Carl Michal,38,77.78947368,7.534274458,88.0,57.0,,,,,,,,,,,0,0,,,,,7,5,14,6,0,,,
+UBCV,2015,W,PHYS,117,,101,Dynamics and Waves,Andrew Finlay;Carl Michal;Kais Jooya;Lienong Xu;Mateus Fandino;Simon Bates,229,68.576419214,16.190466204,99.0,16.0,,,,,,,,,,,38,5,15,20,13,37,22,18,19,20,22,,,
+UBCV,2015,W,PHYS,319,,201,Electronics Laboratory,Carl Michal,35,76.114285714,14.484822541,96.0,17.0,,,,,,,,,,,,,,,,,,6,11,,,,,
+UBCV,2016,W,PHYS,117,,101,Dynamics and Waves,Carl Michal;Lienong Xu;Mateus Fandino;Simon Bates,291,66.62199313,15.79419571,95.0,17.0,,,,,,,,,,,51,13,16,26,19,41,28,24,42,20,11,,,
+UBCV,2016,W,PHYS,319,,201,Electronics Laboratory,Carl Michal,36,72.86111111,20.43827331,93.0,0.0,,,,,,,,,,,3,1,1,1,2,3,3,3,11,4,4,,,
+UBCV,2017,W,PHYS,319,,201,Electronics Laboratory,Andrzej Kotlicki;Carl Michal;Colby Delisle;Colby Lee Delisle;Graham Reid,44,73.613636364,15.219656674,94.0,32.0,,,,,,,,,,,2,4,2,2,3,1,5,3,12,4,6,,,
+UBCV,2018,W,PHYS,119,,L2C,Experimental Physics Lab,Carl Michal;Douglas Andrew Bonn;Eleni Marina Marina Lykiardopoulou;Rommel Rodrigues De Oliveira,47,89.042553191,7.857307446,100.0,55.0,,,,,,,,,,,0,0,1,0,1,0,0,0,6,12,27,,,
+UBCV,2018,W,PHYS,119,,L2G,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Douglas Andrew Bonn;Roberto Fedrigo,39,88.743589744,7.704127222,98.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,3,3,8,24,,,
+UBCV,2018,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal;Ludovic Van Waerbeke,39,82.153846154,9.160953931,94.0,57.0,,,,,,,,,,,0,0,1,1,0,3,3,4,11,6,10,,,
+UBCV,2018,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal;Ludovic Van Waerbeke,39,78.0,14.980689324,94.0,35.0,,,,,,,,,,,3,0,1,0,2,4,3,5,4,7,10,,,
+UBCV,2019,W,PHYS,119,,L2A,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Duo Fu Qi,27,89.481481481,8.011387906,99.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,0,2,4,18,,,
+UBCV,2019,W,PHYS,119,,L2B,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Helena Marie Koniar;Ryan Karimi,30,88.666666667,5.628335537,98.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,10,16,,,
+UBCV,2019,W,PHYS,119,,L2C,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Helena Marie Koniar,37,90.783783784,3.837933002,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,27,,,
+UBCV,2019,W,PHYS,119,,L2D,Experimental Physics Lab,Carl Michal;Lorna Tu;Stefan Reinsberg,20,84.4,11.32951432,95.0,50.0,,,,,,,,,,,0,1,0,0,1,1,0,0,4,5,8,,,
+UBCV,2019,W,PHYS,119,,L2E,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran,36,88.777777778,8.085652588,98.0,65.0,,,,,,,,,,,0,0,0,0,1,2,0,1,4,6,22,,,
+UBCV,2019,W,PHYS,119,,L2F,Experimental Physics Lab,Carl Michal;Graham Baker;Muhammad Sanif;Stefan Reinsberg,34,89.970588235,4.895794696,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,6,24,,,
+UBCV,2019,W,PHYS,119,,L2G,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran;Natasha Moysiuk,18,86.944444444,8.439906762,99.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,1,2,4,9,,,
+UBCV,2019,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Evan Naugler;Graham Johnstone,20,75.65,16.825028349,90.0,10.0,,,,,,,,,,,1,0,0,1,0,1,3,4,5,4,1,,,
+UBCV,2019,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal,34,83.323529412,10.808864455,98.0,57.0,,,,,,,,,,,0,0,2,0,0,3,3,3,3,8,12,,,
+UBCV,2019,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal,34,79.735294118,10.384454651,97.0,58.0,,,,,,,,,,,0,0,1,0,1,8,3,5,5,3,8,,,
+UBCV,2020,W,PHYS,119,,L2A,Experimental Physics Lab,Carl Michal;Graham Johnstone;Jake Sutherland;Saakshi Turakhia,42,85.595238095,15.738812556,98.0,0.0,,,,,,,,,,,1,0,0,0,2,0,0,2,8,9,20,,,
+UBCV,2020,W,PHYS,119,,L2B,Experimental Physics Lab,Carl Michal;Cassidy Northway;Connor Bevington;Helena Marie Koniar;Stefan Reinsberg,27,86.333333333,18.010680592,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,0,2,5,18,,,
+UBCV,2020,W,PHYS,119,,L2C,Experimental Physics Lab,Areesha Rizwan;Carl Michal;Mariposa Casida;Sae Hyun Ahn;Stefan Reinsberg,44,84.909090909,9.182435665,98.0,62.0,,,,,,,,,,,0,0,0,1,2,3,1,2,7,12,16,,,
+UBCV,2020,W,PHYS,119,,L2E,Experimental Physics Lab,Caleb Sample;Carl Michal;Helena Winata;Joss Ives;Ryohei Kang Weil,38,88.815789474,5.981300876,99.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,4,9,22,,,
+UBCV,2020,W,PHYS,119,,L2F,Experimental Physics Lab,Caleb Sample;Carl Michal;Qingxian Liu;Yufei Cai,40,87.2,15.518723183,97.0,0.0,,,,,,,,,,,1,0,0,0,0,0,3,1,4,5,26,,,
+UBCV,2020,W,PHYS,119,,L2M,Experimental Physics Lab,Abenezer Chane;Carl Michal;Daniella Mcarthur;Joss Ives,23,84.304347826,15.615944016,97.0,35.0,,,,,,,,,,,2,0,0,0,0,0,1,0,3,8,9,,,
+UBCV,2020,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Graham Baker;Joss Ives;Yikang Zhang,22,72.863636364,20.199706397,98.0,0.0,,,,,,,,,,,2,0,1,0,0,5,4,1,4,2,3,,,
+UBCV,2020,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal;Colby Delisle;Colby Lee Delisle;Elektra Dakogiannis;Eloise Faehndrich;Eloise Lorene Faehndrich;Mathieu Bruneault;Riley Alexander Stewart;Riley Stewart,34,77.029411765,17.845269799,96.0,0.0,,,,,,,,,,,1,2,1,0,0,3,5,4,5,7,6,,,
+UBCV,2020,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal,45,73.755555556,13.918848495,97.0,45.0,,,,,,,,,,,3,2,2,4,1,5,7,3,6,6,6,,,
+UBCV,2021,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal;Graham Reid;Lucas Polson;Maxwell Botsis;Mercedes Thompson;Shannon Egan,37,77.567567568,15.555528743,95.0,29.0,,,,,,,,,,,1,3,1,2,3,1,3,1,5,9,8,,,
+UBCV,2021,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal;Graham Reid;Lucas Polson;Maxwell Botsis;Mercedes Thompson;Shannon Egan,37,80.945945946,15.049817175,97.0,28.0,,,,,,,,,,,2,1,1,0,0,3,2,1,7,9,11,,,
+UBCV,2021,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal,37,77.6,,95.0,29.0,,,,,,,,,,,,,,,,,,,,9,8,84.0,89.0,67.0
+UBCV,2021,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal,37,80.9,,97.0,28.0,,,,,,,,,,,,,,,,,,,7,9,11,87.0,90.0,77.0
+UBCV,2022,W,PHYS,119,,L1A,Experimental Physics Lab I,Carl Michal,47,81.9,,95.0,28.0,,,,,,,,,,,2,1,0,0,1,3,3,4,5,13,15,86.0,90.0,78.0
+UBCV,2022,W,PHYS,119,,L1B,Experimental Physics Lab I,Carl Michal;Ke Zou,43,85.1,,96.0,33.0,,,,,,,,,,,2,0,0,0,1,0,3,3,5,6,23,90.0,92.5,82.5
+UBCV,2022,W,PHYS,119,,L1C,Experimental Physics Lab I,Carl Michal,15,90.7,,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,10,92.0,94.0,88.0
+UBCV,2022,W,PHYS,119,,L1D,Experimental Physics Lab I,Carl Michal,42,80.5,,96.0,44.0,,,,,,,,,,,1,0,0,2,2,4,3,5,9,6,10,82.5,88.8,75.0
+UBCV,2022,W,PHYS,119,,L1E,Experimental Physics Lab I,Carl Michal;Ke Zou,15,89.7,,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,7,89.0,92.0,88.0
+UBCV,2022,W,PHYS,119,,L1F,Experimental Physics Lab I,Carl Michal;Ke Zou,13,82.2,,95.0,50.0,,,,,,,,,,,0,1,0,0,0,1,1,1,3,1,5,83.0,91.0,76.0
+UBCV,2022,W,PHYS,129,,L0A,Experimental Physics Lab II,Douglas Bryman;Carl Michal,20,79.0,,92.0,51.0,,,,,,,,,,,0,1,0,1,0,3,0,3,4,5,3,82.0,86.3,74.8
+UBCV,2022,W,PHYS,129,,L0C,Experimental Physics Lab II,Douglas Bryman;Carl Michal,9,83.4,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,5,0,3,82.0,90.0,80.0
+UBCV,2022,W,PHYS,129,,L0D,Experimental Physics Lab II,Douglas Bryman;Carl Michal,11,79.3,,91.0,61.0,,,,,,,,,,,0,0,0,1,1,0,1,1,3,2,2,82.0,86.0,75.0
+UBCV,2023,W,PHYS,119,,L1A,Experimental Physics Lab I,Carl Michal,46,90.0,,100.0,52.0,,,,,,,,,,,0,1,1,0,0,1,0,2,0,10,30,93.0,95.0,88.0
+UBCV,2023,W,PHYS,119,,L1B,Experimental Physics Lab I,Carl Michal;Ke Zou,46,85.3,,94.0,56.0,,,,,,,,,,,0,0,1,0,0,0,2,4,7,22,8,87.0,89.0,82.0
+UBCV,2023,W,PHYS,119,,L1C,Experimental Physics Lab I,Carl Michal,16,87.6,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,1,3,9,90.0,92.0,84.0
+UBCV,2023,W,PHYS,119,,L1D,Experimental Physics Lab I,Carl Michal,43,86.3,,95.0,50.0,,,,,,,,,,,0,1,0,0,0,0,1,1,6,19,13,88.0,90.0,85.0
+UBCV,2023,W,PHYS,119,,L1E,Experimental Physics Lab I,Carl Michal;Ke Zou,15,86.7,,95.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,1,3,2,8,90.0,91.5,83.5
+UBCV,2023,W,PHYS,119,,L1F,Experimental Physics Lab I,Carl Michal;Ke Zou,16,84.6,,95.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,2,1,6,4,87.5,89.8,82.8

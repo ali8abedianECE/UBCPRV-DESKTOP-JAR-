@@ -1,0 +1,82 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,BIOL,121,,224,GENTCS ECOL&EVOL,"Couch, Brett",230,68.19,12.78,93,0,214,14,2,0,0,2,0,0,4,8,14,7,29,28,21,26,28,30,34,7,4,,,
+UBC,2010,W,BIOL,121,,225,GENTCS ECOL&EVOL,"Couch, Brett",229,69.2,11.75,90,12,214,11,3,0,0,0,1,2,0,8,11,10,16,24,24,32,37,32,24,14,1,,,
+UBC,2011,W,BIOL,121,,226,GENTCS ECOL&EVOL,"Couch, Brett",216,59.45,13.13,89,4,175,35,6,0,0,1,0,2,12,20,35,32,39,28,18,22,10,13,11,2,0,,,
+UBC,2011,W,BIOL,209,,101,NON VASC PLANTS,"Couch, Brett;Ellis, Shona Margaret;Hawkes, Michael",87,70.46,10.84,90,34,82,2,2,0,0,0,0,0,1,1,2,3,7,7,12,13,9,8,14,8,1,,,
+UBC,2012,S,BIOL,121,,951,GENTCS ECOL&EVOL,"Couch, Brett;Kalas, Pamela",96,63.13,12.46,93,32,79,14,3,0,0,0,0,0,1,13,14,9,15,10,14,7,8,7,5,2,2,,,
+UBC,2012,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",149,71.58,9.28,92,47,147,2,0,0,0,0,0,0,0,2,2,5,8,13,22,19,25,23,23,7,2,,,
+UBC,2012,W,BIOL,209,,101,NON VASC PLANTS,"Berbee, Mary;Couch, Brett;Hawkes, Michael",91,71.31,10.18,92,44,87,2,2,0,0,0,0,0,0,2,2,3,6,10,7,19,15,10,4,10,3,,,
+UBC,2012,W,BIOL,448,B,101,DIRECTED STUDIES,"Couch, Brett",9,87.67,3.87,93,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,,,
+UBC,2013,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",142,73.23,10.13,90,25,140,2,0,0,0,0,0,1,0,1,2,3,9,7,18,16,23,15,34,13,2,,,
+UBC,2014,S,BIOL,121,,951,GENTCS ECOL&EVOL,"Couch, Brett",114,64.08,12.81,91,23,94,13,5,1,0,0,0,1,4,8,13,15,8,11,10,13,16,12,7,1,1,,,
+UBC,2014,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",127,73.64,11.68,94,3,121,4,2,0,0,1,0,0,0,3,4,0,8,6,8,14,29,18,19,14,5,,,
+UBC,2014,W,BIOL,209,,101,"BIO ALG,FUNG&BRY","Berbee, Mary;Couch, Brett;De Wreede, Robert",75,69.19,15.45,92,3,67,7,1,0,0,1,0,1,1,4,7,1,8,4,4,13,9,6,14,6,2,,,
+UBC,2015,S,BIOL,111,,921,INTR MODERN BIO,"Couch, Brett",54,65.64,13.27,89,24,46,7,0,0,1,0,0,1,2,4,7,1,3,9,6,12,3,5,3,4,0,,,
+UBC,2015,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",139,75.29,11.12,91,9,133,4,1,0,0,1,0,0,0,3,4,2,9,2,4,11,22,23,38,20,2,,,
+UBC,2015,W,BIOL,140,,201,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Kopp, Christopher;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin",844,81.42,7.28,97,18,833,2,9,0,0,0,1,0,1,0,2,3,3,7,7,45,73,99,296,219,81,,,
+UBC,2015,W,BIOL,209,,101,"BIO ALG,FUNG&BRY","Berbee, Mary;Couch, Brett;De Wreede, Robert",55,72.42,11.17,98,45,52,1,2,0,0,0,0,0,0,1,1,2,3,5,7,4,11,7,7,1,5,,,
+UBC,2016,S,BIOL,121,,921,GENTCS ECOL&EVOL,"Couch, Brett",102,64.21,11.92,91,38,89,9,3,0,0,0,0,0,1,8,9,15,10,12,7,15,13,5,9,2,1,,,
+UBC,2016,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",136,68.6,10.73,90,27,127,7,2,0,0,0,0,1,3,3,7,2,13,13,13,25,28,15,15,2,1,,,
+UBC,2016,W,BIOL,140,,101,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin",593,80.46,7.74,97,46,590,2,1,0,0,0,0,0,0,2,2,0,3,11,19,44,69,62,186,137,59,,,
+UBC,2016,W,BIOL,140,,201,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin;Vande Pol, Dirk",921,80.77,7.57,96,15,911,4,6,0,0,0,1,0,1,2,4,1,5,9,19,62,82,110,318,228,77,,,
+UBC,2016,W,BIOL,209,,101,"BIO ALG,FUNG&BRY","Berbee, Mary;Couch, Brett;De Wreede, Robert",73,69.67,9.42,91,51,67,0,5,0,0,0,0,0,0,0,0,3,7,7,12,13,6,7,7,3,2,,,
+UBC,2017,S,BIOL,121,,921,GENTCS ECOL&EVOL,"Couch, Brett",115,65.07,11.45,87,37,95,15,5,0,0,0,0,0,1,14,15,3,10,17,8,21,17,10,6,3,0,,,
+UBC,2017,W,BIOL,121,,222,GENTCS ECOL&EVOL,"Couch, Brett",105,70.72,13.34,92,41,94,10,0,0,1,0,0,0,0,10,10,4,7,9,5,13,8,11,23,11,3,,,
+UBC,2017,W,BIOL,140,,201,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin;Vande Pol, Dirk",723,79.5,8.03,96,38,713,5,4,0,1,0,0,0,1,4,5,0,8,19,10,63,86,98,226,146,57,,,
+UBC,2017,W,BIOL,209,,101,"BIO ALG,FUNG&BRY","Berbee, Mary;Couch, Brett;De Wreede, Robert",123,69.45,11.28,94,32,114,5,3,0,1,0,0,0,3,2,5,4,10,15,18,14,15,18,11,6,3,,,
+UBC,2018,S,BIOL,121,,921,GENTCS ECOL&EVOL,"Couch, Brett",129,62.64,12.26,89,32,99,21,7,0,0,0,0,0,4,17,21,6,15,20,8,18,13,8,10,1,0,,,
+UBC,2018,W,BIOL,121,,221,GENTCS ECOL&EVOL,"Couch, Brett",157,67.13,12.96,89,4,134,15,7,0,0,1,0,0,3,11,15,4,13,17,9,33,18,12,22,6,0,,,
+UBC,2018,W,BIOL,209,,101,"BIO ALG,FUNG&BRY","Berbee, Mary;Clarkston, Bridgette;Couch, Brett",95,71.72,12.29,95,35,89,3,3,0,0,0,0,0,2,1,3,5,8,7,8,13,6,15,14,8,5,,,
+UBCV,2014,S,BIOL,121,,951,"Genetics, Evolution and Ecology",Brett Couch,108,63.87962963,12.92300535,91.0,23.0,,,,,,,,,,,16,13,8,11,10,13,16,12,7,,,,,
+UBCV,2014,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch,125,73.64,11.67669308,94.0,3.0,,,,,,,,,,,4,0,8,6,8,14,29,18,19,14,5,,,
+UBCV,2014,W,BIOL,209,,101,"Biodiversity of algae, fungi and bryophytes",Brett Couch;Mary Berbee;Robert De Wreede,74,69.18918919,15.45091714,92.0,3.0,,,,,,,,,,,7,,8,,,13,9,6,14,6,,,,
+UBCV,2015,S,BIOL,111,,921,Introduction to Modern Biology,Brett Couch,54,64.42592593,15.89422804,89.0,0.0,,,,,,,,,,,8,,,9,6,12,,5,,,0,,,
+UBCV,2015,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Melissa Sunny Armstrong,138,75.239130435,11.095178375,91.0,9.0,,,,,,,,,,,,,9,,4,12,22,23,38,20,,,,
+UBCV,2015,W,BIOL,140,,201,Laboratory Investigations in Life Science,Alexander Debruyn;Bernardita Germano;Brett Couch;Chin Sun;Christopher Kopp;Emilie Stump;Floyd Bardell;Gwen Huber;Ilan Naftali Rubin;Ilan Rubin;Jilmarie Stephens;Kathryn Douglas-Campbell;Kathy Margaret Nomme;Lauran Liggan;Lynn Norman;Mairin Deith;Mannfred Boehm;Maryam Moussavi;Matthew Strimas-Mackey;Michael Spagnut;Olivia Mcmillan;Pamela Kalas;Sara Saberi;Yichun Qiu,835,81.422754491,7.282231559,97.0,18.0,,,,,,,,,,,,,,7,7,45,73,99,296,219,81,,,
+UBCV,2015,W,BIOL,209,,101,"Biodiversity of algae, fungi and bryophytes",Brett Couch;Jaclyn Dee;Jaclyn Marie Dee;Liam Coleman;Liam James Marshall Coleman;Mary Berbee;Robert De Wreede,53,72.41509434,11.170761909,98.0,45.0,,,,,,,,,,,,,,5,7,,11,7,7,,5,,,
+UBCV,2016,S,BIOL,121,,921,"Genetics, Evolution and Ecology",Brett Couch;Clayton Manning,99,64.31313131,11.89893364,91.0,38.0,,,,,,,,,,,9,15,10,12,7,15,14,5,9,2,1,,,
+UBCV,2016,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Liam Coleman;Liam James Marshall Coleman,134,68.59701493,10.72844536,90.0,27.0,,,,,,,,,,,7,2,13,13,13,25,28,15,15,2,1,,,
+UBCV,2016,W,BIOL,140,,101,Laboratory Investigations in Life Science,Bernardita Germano;Brett Couch;Chin Sun;Kathy Margaret Nomme;Lynn Norman;Maryam Moussavi;Pamela Kalas,592,80.46114865,7.738219737,97.0,46.0,,,,,,,,,,,2,0,3,11,19,44,69,62,186,137,59,,,
+UBCV,2016,W,BIOL,140,,201,Laboratory Investigations in Life Science,Bernardita Germano;Brett Couch;Cassandra Girdlestone;Chandler Hines;Chin Sun;Christopher William Mulverhill;Dirk Vande Pol;Evelyn Sun;Fan Xu;Jasmine Ono;Kathy Margaret Nomme;Lynn Norman;Mairin Deith;Mark Robertson;Maryam Moussavi;Natalie Westwood;Pamela Kalas;Rhea Storlund;Sara Saberi;Selina Agbayani;Ting-Chun Kuo;Xiang Lin;Xueying Yin,915,80.76721312,7.570197844,96.0,15.0,,,,,,,,,,,4,1,5,9,19,62,82,110,318,228,77,,,
+UBCV,2016,W,BIOL,209,,101,"Biodiversity of algae, fungi and bryophytes",Brett Couch;Jaclyn Dee;Jaclyn Marie Dee;Liam Coleman;Liam James Marshall Coleman;Mary Berbee;Robert De Wreede,68,69.97058824,9.666020787,91.0,51.0,,,,,,,,,,,0,3,7,7,12,13,6,7,7,3,3,,,
+UBCV,2017,S,BIOL,121,,921,"Genetics, Evolution and Ecology",Brett Couch;Jenny Munoz Zapata,110,65.072727273,11.447293732,87.0,37.0,,,,,,,,,,,15,3,10,17,8,21,17,10,6,3,0,,,
+UBCV,2017,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Shahab Zareyan,105,70.047619048,14.959805732,92.0,0.0,,,,,,,,,,,11,4,7,9,5,13,8,11,23,11,3,,,
+UBCV,2017,W,BIOL,140,,201,Laboratory Investigations in Life Science,Abhinav Ajay Kumar;Alexander Debruyn;Bernardita Germano;Brandon Roland Landry;Brett Couch;Cassandra Konecny;Chin Sun;Dirk Vande Pol;Edmund Lumsden-Fisher;Emilie Stump;Evelyn Sun;Haley Branch;Kathy Margaret Nomme;Kyle Gillespie;Lynn Norman;Marieta Marin Bruzos;Philip Angel;Sarah Dier-Mccomb;Selina Agbayani;Tanvi Vaidyanathan,719,79.446453408,8.127953798,96.0,38.0,,,,,,,,,,,6,0,8,19,10,63,86,98,226,146,57,,,
+UBCV,2017,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Elizabeth Colleen Cooney;Elizabeth Cooney;Juan Saldarriaga;Patrick John Keeling;Varsha Mathur,38,68.578947368,14.598466374,91.0,29.0,,,,,,,,,,,5,0,4,5,1,4,5,5,3,5,1,,,
+UBCV,2017,W,BIOL,209,,101,"Biodiversity of algae, fungi and bryophytes",Brett Couch;Jaclyn Dee;Jaclyn Marie Dee;Liam Coleman;Liam James Marshall Coleman;Mary Berbee;Robert De Wreede;Sean Mccotter,120,69.0,12.247448714,94.0,16.0,,,,,,,,,,,6,4,10,15,18,14,15,18,11,6,3,,,
+UBCV,2018,S,BIOL,121,,921,"Genetics, Evolution and Ecology",Brett Couch;Natalie Westwood,122,62.803278689,12.426736933,90.0,32.0,,,,,,,,,,,21,6,16,20,8,18,13,8,10,1,1,,,
+UBCV,2018,W,BIOL,121,,221,"Genetics, Evolution and Ecology",Brett Couch;Bridgette Clarkston;Morvarid Mehrtash,150,67.093333333,12.921729613,89.0,4.0,,,,,,,,,,,15,4,13,18,9,33,18,12,22,6,0,,,
+UBCV,2018,W,BIOL,140,,201,Laboratory Investigations in Life Science,Bernardita Germano;Brandon Roland Landry;Brett Couch;Carla Di Filippo;Chandler Hines;Chin Sun;Darwin Sodhi;Dirk Vande Pol;Herath Ranasinghe;Jarrett Blair;Kathy Margaret Nomme;Lynn Norman;Maryam Moussavi;Mikko Paajanen;Natalie Westwood;Nathaniel Klimpert;Rhea Storlund;Selina Agbayani;Skye Butterson,713,79.04628331,8.918598218,95.0,3.0,,,,,,,,,,,6,7,3,12,16,58,91,99,242,131,48,,,
+UBCV,2018,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Emma Elizabeth George;Emma George;Juan Saldarriaga;Patrick John Keeling,38,77.447368421,8.503409073,90.0,56.0,,,,,,,,,,,0,0,2,2,1,4,4,4,14,6,1,,,
+UBCV,2018,W,BIOL,209,,101,"Biodiversity of Algae, Fungi and Bryophytes",Arlo Bryn - Thorn;Arlo Hugh Bryn - Thorn;Arlo Hugh Bryn Thorn;Brett Couch;Bridgette Clarkston;Jungsoo Park;Mary Berbee;Soren Huber;Soren Rebecca Huber,92,71.717391304,12.287155884,95.0,35.0,,,,,,,,,,,3,5,8,7,8,13,6,15,14,8,5,,,
+UBCV,2019,W,BIOL,121,,221,"Genetics, Evolution and Ecology",Brett Couch;Melissa Sunny Armstrong,156,72.096153846,12.511557932,92.0,0.0,,,,,,,,,,,3,10,15,8,2,27,27,12,33,14,5,,,
+UBCV,2019,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Nolan Bett;Veronica Relano,125,80.368,8.933929526,95.0,27.0,,,,,,,,,,,1,1,0,1,3,8,16,20,34,27,14,,,
+UBCV,2019,W,BIOL,121,,223,"Genetics, Evolution and Ecology",Brett Couch;Bridgette Clarkston;Darwin Sodhi,181,75.408839779,10.942208252,93.0,23.0,,,,,,,,,,,3,1,9,8,15,25,22,22,38,27,11,,,
+UBCV,2019,W,BIOL,121,,224,"Genetics, Evolution and Ecology",Brett Couch;Bridgette Clarkston;Di Liu,183,77.202185792,9.630400333,95.0,41.0,,,,,,,,,,,1,3,4,13,8,17,22,29,43,29,14,,,
+UBCV,2019,W,BIOL,121,,225,"Genetics, Evolution and Ecology",Brett Couch;Gregory Michael Bole;Zhuowei Li,141,76.645390071,9.543984457,93.0,53.0,,,,,,,,,,,0,2,4,12,9,12,21,14,34,22,11,,,
+UBCV,2019,W,BIOL,121,,226,"Genetics, Evolution and Ecology",Brett Couch;Ka Yee Lam;Philippa Stone;Vivienne Lam,188,78.54787234,12.990446747,98.0,0.0,,,,,,,,,,,3,2,4,11,9,10,18,31,35,39,26,,,
+UBCV,2019,W,BIOL,121,,227,"Genetics, Evolution and Ecology",Brett Couch;Milad Alizadeh;Stephanie Cheung;Tirosh Shapira,169,72.218934911,12.451070763,94.0,0.0,,,,,,,,,,,6,7,8,8,17,23,24,29,28,15,4,,,
+UBCV,2019,W,BIOL,209,,101,"Biodiversity of Algae, Fungi and Bryophytes",Brett Couch;Bridgette Clarkston;Jaclyn Dee;Jaclyn Marie Dee;Liam Coleman;Liam James Marshall Coleman;Mary Berbee;Shona Margaret Ellis;Soren Huber;Victoria Jacko-Reynolds;Victoria Kelsey Leigh Jacko-Reynolds,110,74.363636364,10.548905133,93.0,47.0,,,,,,,,,,,3,2,4,7,10,14,19,16,11,17,7,,,
+UBCV,2019,W,BIOL,323,,101,Structure and Reproduction of Fungi,Ahniya Ustymenko;Brett Couch;Mary Berbee,36,80.25,8.699343161,95.0,60.0,,,,,,,,,,,0,0,0,1,2,3,6,3,10,5,6,,,
+UBCV,2020,S,BIOL,112,,921,Biology of the Cell,Brett Couch;Karen Smith;Nelly Saber;Nicole Wang,162,74.691358025,14.740523411,94.0,10.0,,,,,,,,,,,13,1,3,5,13,18,12,21,35,28,13,,,
+UBCV,2020,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson;Thomas Whelan,69,76.869565217,11.460819501,92.0,23.0,,,,,,,,,,,2,0,1,2,5,6,7,12,19,8,7,,,
+UBCV,2020,W,BIOL,209,,101,"Biodiversity of Algae, Fungi and Bryophytes",Brett Couch;Bridgette Clarkston;Jaclyn Dee;Laura Elizabeth Super;Liam Coleman;Mary Berbee;Qian Zhang;Shona Margaret Ellis,98,79.142857143,9.446539758,97.0,47.0,,,,,,,,,,,1,1,2,2,5,6,13,20,16,21,11,,,
+UBCV,2021,W,BIOL,121,,123,"Genetics, Evolution and Ecology",Brett Couch;Jose Dimayacyac;Lynn Norman,215,71.4,12.294212604,92.0,29.0,,,,,,,,,,,9,12,16,19,9,32,29,23,36,21,9,,,
+UBCV,2021,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Haley Branch;Jose Dimayacyac;Lynn Norman,210,72.942857143,11.397832894,94.0,23.0,,,,,,,,,,,6,8,12,13,13,29,31,24,46,21,7,,,
+UBCV,2021,W,BIOL,121,,223,"Genetics, Evolution and Ecology",Brett Couch;Jose Dimayacyac;Lynn Norman;Rory Macklin,195,76.184615385,10.804102372,95.0,27.0,,,,,,,,,,,5,2,4,9,4,26,38,21,46,27,13,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Anna Cho;Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson,67,75.104477612,13.195653931,91.0,28.0,,,,,,,,,,,2,2,4,0,9,4,7,6,17,10,6,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Patrick John Keeling;Juan Saldarriaga,67,75.1,,91.0,28.0,,,,,,,,,,,,,,,9,,7,6,17,10,6,79.0,84.0,68.0
+UBCV,2022,W,BIOL,121,,123,"Genetics, Evolution and Ecology",Bridgette Clarkston;Brett Couch;Lynn Norman,192,75.6,,94.0,40.0,,,,,,,,,,,5,5,2,13,10,21,29,17,48,35,7,77.5,83.0,69.0
+UBCV,2022,W,BIOL,121,,221,"Genetics, Evolution and Ecology",Brett Couch;Lynn Norman,236,75.0,,99.0,0.0,,,,,,,,,,,8,4,10,21,11,23,35,17,44,31,32,76.0,85.0,68.0
+UBCV,2022,W,BIOL,121,,222,"Genetics, Evolution and Ecology",Brett Couch;Lynn Norman,212,74.7,,98.0,8.0,,,,,,,,,,,6,2,13,10,16,22,28,28,45,23,19,76.5,82.0,69.0
+UBCV,2022,W,BIOL,121,,223,"Genetics, Evolution and Ecology",Brett Couch;Lynn Norman,201,71.6,,92.0,20.0,,,,,,,,,,,10,7,18,12,16,26,24,19,40,20,9,73.0,81.0,64.0
+UBCV,2022,W,BIOL,121,,224,"Genetics, Evolution and Ecology",Brett Couch;Lynn Norman,230,79.1,,96.0,0.0,,,,,,,,,,,5,2,5,10,8,14,30,20,43,43,50,81.0,88.0,73.0
+UBCV,2022,W,BIOL,203,,101,Eukaryotic Microbiology,Vittorio Boscaro;Brett Couch;Juan Saldarriaga,66,79.4,,97.0,38.0,,,,,,,,,,,2,0,0,3,4,6,7,8,11,13,12,80.0,88.0,73.3
+UBCV,2023,W,BIOL,112,,101,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith,248,84.2,,100.0,45.0,,,,,,,,,,,4,0,2,2,10,16,18,22,34,44,96,86.0,93.0,77.0
+UBCV,2023,W,BIOL,112,,102,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith,236,78.0,,99.0,38.0,,,,,,,,,,,23,1,3,1,11,20,24,27,31,32,56,80.0,89.0,71.0
+UBCV,2023,W,BIOL,112,,103,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith,211,76.6,,100.0,7.0,,,,,,,,,,,18,1,1,8,18,15,24,20,36,30,38,79.0,87.0,69.0
+UBCV,2023,W,BIOL,112,,104,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith;Jared Taylor,242,80.8,,99.0,1.0,,,,,,,,,,,11,0,4,6,9,17,19,23,38,47,67,84.0,90.0,74.0
+UBCV,2023,W,BIOL,112,,201,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith,239,78.6,,99.0,30.0,,,,,,,,,,,15,3,1,7,18,21,15,25,31,42,56,81.0,89.0,71.0
+UBCV,2023,W,BIOL,112,,202,Biology of the Cell,Liane Chen;Brett Couch;Anne Lacey Samuels;Karen Smith,244,77.5,,98.0,0.0,,,,,,,,,,,18,3,2,8,10,16,26,27,31,51,49,81.0,88.0,72.0
+UBCV,2023,W,BIOL,112,,203,Biology of the Cell,Liane Chen;Brett Couch;Karen Smith,220,74.0,,98.0,0.0,,,,,,,,,,,23,2,7,6,17,14,27,28,36,28,25,77.0,84.0,67.0
+UBCV,2023,W,BIOL,203,,101,Eukaryotic Microbiology,Vittorio Boscaro;Brett Couch;Patrick John Keeling,77,77.2,,96.0,6.0,,,,,,,,,,,1,1,2,6,5,5,7,8,16,16,10,80.0,86.0,71.0

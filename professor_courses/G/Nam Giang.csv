@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,CPSC,304,,911,Introduction to Relational Databases,Hassan Khosravi;Lauren Fung;Minwoo Kim;Nam Giang;Reza Babanezhad Harikande;Sampoorna Biswas;Shuoshi Sun,103,76.67961165,11.84061935,97.0,45.0,,,6,,6,6,11,13,21,22,9
+UBCV,2015,W,CPEN,221,,101,Principles of Software Construction,Arabelle Hou;Bader Alahmad;Bader Naim Alahmad;Carlos Antonio Sanchez;Hootan Rashtian;Jay Dahiya;Jordan Schalm;Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Nam Giang;Nam Ky Giang;Rudolf Plesch;Sathish Gopalakrishnan,192,76.291666667,10.009855527,98.0,25.0,,,8,7,12,25,38,34,28,24,12
+UBCV,2016,W,CPSC,310,,101,Introduction to Software Engineering,Arthur De Sousa Marques;Giovanni Viviani;Nam Giang;Nicholas Bradley;Reid Holmes;Rodrigo Araujo;Stewart Grant;Wenqiang Dong,141,81.71631206,11.67924058,98.0,9.0,2,2,2,0,2,6,11,16,32,40,28

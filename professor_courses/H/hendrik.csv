@@ -1,0 +1,94 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,ISCI,448,B,210,DIR STUDIES,"Blok, Hendrik;Steyn, Douw Gerbrand",26,79.5,8.76,100,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,4,9,3,3
+UBC,2005,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",44,,,,,0,0,3,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",13,82.85,3.56,90,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,1
+UBC,2005,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",26,81.08,6.44,92,69,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,5,6,3
+UBC,2006,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",35,,,,,0,0,1,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik",15,81.07,4.46,88,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,5,0
+UBC,2006,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik;Fletcher, Jeffrey",14,77.86,9.74,94,57,14,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,2,5,1,2
+UBC,2007,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik;Fletcher, Jeffrey",47,,,,,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Groat, Lee",19,79.22,3.3,83,72,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,10,0,0
+UBC,2007,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",14,75.93,7.52,87,60,14,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,5,2,0
+UBC,2009,W,APSC,496,C,001,INTER ENG PRJECT,"Hodgson, Antony;Kruchten, Philippe;Van der Loos, Hendrik",10,74.4,4.27,80,65,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,1,2,0,0
+UBC,2009,W,FOOD,521,,001,ADV FOOD BIOTECH,"Madadi Noei, Azita;van Vuuren, Hendrik",15,73.13,9.21,87,61,15,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,0,3,2,0
+UBC,2009,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",51,,,,,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",32,79.97,3.33,86,71,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,19,1,0
+UBC,2009,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",17,79.65,9.22,93,59,17,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,4,3,2,4
+UBC,2009,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cramond, Pat;Croft, Elizabeth;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik;Winkelman, Paul",82,81.94,6.07,95,69,81,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,10,13,29,17,10
+UBC,2010,W,APSC,496,C,001,INTER ENG PRJECT,"Hodgson, Antony;Kruchten, Philippe;Van der Loos, Hendrik",10,86.1,9.15,100,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,4
+UBC,2010,W,BMEG,452,,101,"BIOMD, PHYS&ANAT","Marshall, Greg;Van der Loos, Hendrik",56,74.8,15.46,100,27,53,3,0,0,0,0,0,1,0,2,3,2,4,5,2,5,6,5,5,10,9
+UBC,2010,W,FOOD,521,,001,ADV FOOD BIOTECH,"Madadi Noei, Azita;van Vuuren, Hendrik",10,81.86,9.23,92,68,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,2
+UBC,2010,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",85,,,,,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Evans, Robert James;Spiegelman, George B",26,80.5,1.64,84,77,24,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,0,0
+UBC,2010,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",24,79.71,6.73,94,70,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,7,4,6,2
+UBC,2010,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Cripton, Peter;Fengler, Markus;Hodgson, Antony;Van der Loos, Hendrik",76,82.84,5.7,92,70,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,11,21,23,11
+UBC,2010,W,MECH,458,,001,MECHTRON DSN PRJ,"Lu, Xiaodong;Van der Loos, Hendrik",38,85.58,5.78,92,70,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1,21,10
+UBC,2010,W,MECH,459,,001,BIOMED DSGN PROJ,"Hodgson, Antony;Van der Loos, Hendrik",4,79,7.16,86,71,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+UBC,2011,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",85,,,,,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter;Evans, Robert James",29,81.66,2.45,90,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,2,1
+UBC,2011,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Hauert, Christoph",21,78.47,14.84,98,28,18,1,2,0,0,0,0,1,0,0,1,0,0,0,1,1,2,4,4,1,5
+UBC,2011,W,MECH,457,,001,DESIGN PROJECT,"Dunwoody, A Bruce;Fengler, Markus;Hodgson, Antony;MOHAMMADHASANI KHORASANY, RAMI;Mikkelsen, Jon;Van der Loos, Hendrik",83,83.77,6.92,95,64,83,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,21,7,32,17
+UBC,2011,W,MECH,458,,001,MECHTRON DSN PRJ,"Dunwoody, A Bruce;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",17,83.63,6.87,93,69,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,8,1,5
+UBC,2011,W,MECH,459,,001,BIOMED DSGN PROJ,"Dunwoody, A Bruce;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",11,87.27,1.85,91,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,2
+UBC,2012,S,MECH,550,R,101,SPEC ADV COURSES,"Van der Loos, Hendrik",5,85.75,9.64,95,73,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2
+UBC,2012,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",77,,,,,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",32,82.38,4.61,90,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,15,6,4
+UBC,2012,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",34,79.09,9.41,95,58,33,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,5,6,4,7,5
+UBC,2012,W,MECH,325,,101,MECH DESIGN I,"Van der Loos, Hendrik",82,73.48,12.36,98,41,76,5,1,0,0,0,0,0,0,5,5,1,1,7,8,7,15,11,12,4,10
+UBC,2012,W,MECH,325,,102,MECH DESIGN I,"Van der Loos, Hendrik",87,71.77,13.91,99,31,81,5,1,0,0,0,0,0,3,2,5,6,1,4,10,19,7,7,13,5,9
+UBC,2013,W,BMEG,501,,001,MED TECH PROJECT,"Van der Loos, Hendrik;Wilson, David",10,90.9,4.09,94,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7
+UBC,2013,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",107,,,,,0,0,1,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",23,81.96,5.48,94,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,6,3,3
+UBC,2013,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Hauert, Christoph",18,79.33,7.49,87,55,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,9,4,0
+UBC,2013,W,MECH,325,,101,MECH DESIGN I,"Feng, Hsi-Yung;Van der Loos, Hendrik",85,71.71,9.81,90,46,81,1,2,0,1,0,0,0,0,1,1,6,1,8,10,9,16,10,16,3,2
+UBC,2013,W,MECH,325,,102,MECH DESIGN I,"Feng, Hsi-Yung;Van der Loos, Hendrik",90,72.78,9.32,91,42,87,3,0,0,0,0,0,0,0,3,3,2,1,4,10,17,14,15,18,3,3
+UBC,2013,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;Van der Loos, Hendrik",25,84.36,4.54,91,73,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,8,4
+UBC,2013,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Ma, Hongshen;TBA;Van der Loos, Hendrik;Williams, Wayne",67,83.93,5.33,93,72,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,15,26,10
+UBC,2013,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;TBA;Van der Loos, Hendrik",24,82.92,6.59,92,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,4,7,5
+UBC,2013,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Dunwoody, A Bruce;Feng, Hsi-Yung;Fengler, Markus;Ma, Hongshen;TBA;Van der Loos, Hendrik",9,78.44,18.47,87,30,8,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,6,0
+UBC,2014,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",111,,,,,0,0,2,0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",28,81,4.85,91,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,12,1,4
+UBC,2014,W,ISCI,344,,201,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",33,81.3,7.51,97,69,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,9,6,6
+UBC,2014,W,MECH,325,,101,MECH DESIGN I,"Feng, Hsi-Yung;Van der Loos, Hendrik",72,75.31,8.39,91,41,71,1,0,0,0,0,0,0,0,1,1,1,0,2,5,13,15,8,21,3,3
+UBC,2014,W,MECH,325,,102,MECH DESIGN I,"Feng, Hsi-Yung;Van der Loos, Hendrik",80,73.9,10.25,93,27,79,1,0,0,0,0,0,1,0,0,1,3,1,2,6,16,15,13,13,5,5
+UBC,2014,W,MECH,454,,001,THRMOFLDS CAPSTN,"Feng, Hsi-Yung;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",16,84.19,2.81,91,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,1
+UBC,2014,W,MECH,457,,001,DESIGN PROJECT,"Feng, Hsi-Yung;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",77,85.14,5.06,92,70,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,22,25,22
+UBC,2014,W,MECH,458,,001,MECHTRON DSN PRJ,"Feng, Hsi-Yung;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",29,85.66,5.52,93,69,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,8,7,11
+UBC,2014,W,MECH,459,,001,BIOMED DSGN PROJ,"Feng, Hsi-Yung;Fengler, Markus;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik",7,86.43,5.06,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4
+UBC,2015,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",115,,,,,0,0,2,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.67,3.97,90,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,13,3,2
+UBC,2015,W,ISCI,422,,101,MDLS IN SCIENCE,"Barker, Megan;Blok, Hendrik",25,77.88,15.05,93,22,24,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,2,2,6,6,4
+UBC,2015,W,MECH,325,,101,MECH DESIGN I,"Mikkelsen, Jon;Van der Loos, Hendrik",101,76.3,8.76,93,44,99,1,1,0,0,0,0,0,0,1,1,0,2,1,11,17,11,21,20,7,9
+UBC,2015,W,MECH,325,,102,MECH DESIGN I,"Mikkelsen, Jon;Van der Loos, Hendrik",132,73.73,10.53,96,30,125,5,1,0,1,0,0,0,1,4,5,3,1,4,15,19,18,24,27,9,5
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2016,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",126,,,,,0,0,2,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.21,4.3,91,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,4,2
+UBC,2016,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",39,79.41,10.14,96,37,38,1,0,0,0,0,0,0,1,0,1,0,0,0,3,1,4,5,10,12,3
+UBC,2016,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",45,80.09,6.97,95,60,45,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,12,14,8,4
+UBC,2016,W,MECH,325,,101,MECH DESIGN I,"Mikkelsen, Jon;Van der Loos, Hendrik",121,74.03,10.22,90,33,118,2,1,0,0,0,0,0,1,1,2,4,1,10,13,10,19,16,28,14,3
+UBC,2016,W,MECH,325,,102,MECH DESIGN I,"Mikkelsen, Jon;Van der Loos, Hendrik",123,74.21,9.98,93,37,118,5,0,0,0,0,0,0,1,4,5,0,0,8,10,23,20,16,28,7,6
+UBC,2016,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",8,82.75,8.05,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+UBC,2016,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",55,86.25,5.69,97,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,14,18,19
+UBC,2016,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",22,85.64,6.16,92,74,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,2,12
+UBC,2016,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",9,84.33,3.54,90,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1
+UBC,2017,W,CPSC,554,K,201,TOP HUM-COMP,"MacLean, Karon;Van der Loos, Hendrik",11,88,1.79,90,86,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2017,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",139,,,,,0,0,2,0,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",16,86.31,3,91,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3
+UBC,2017,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",46,82.78,14.2,96,0,44,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,6,10,14,12
+UBC,2017,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Sepehry, Amir",31,80.83,16.26,94,0,29,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,4,14,2,8
+UBC,2017,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",22,87.05,3.62,92,80,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,8
+UBC,2017,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",60,85.93,5.54,94,71,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,12,19,22
+UBC,2017,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",26,85.38,6.14,94,76,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3,10
+UBC,2017,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",13,86.85,5.44,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6
+UBC,2018,W,CPSC,554,K,201,TOP HUM-COMP,"MacLean, Karon;Van der Loos, Hendrik",11,89.55,2.02,91,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7
+UBC,2018,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",125,,,,,0,0,3,0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",15,86.71,2.89,92,82,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,4
+UBC,2018,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",25,81.92,9.73,96,68,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,3,3,8
+UBC,2018,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",49,86.12,4.82,94,72,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,23,14
+UBC,2018,W,MECH,454,,001,THRMOFLDS CAPSTN,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",9,83.89,7.42,92,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,1
+UBC,2018,W,MECH,457,,001,DESIGN PROJECT,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",82,85.17,5.26,96,73,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,21,29,20
+UBC,2018,W,MECH,458,,001,MECHTRON DSN PRJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",23,85.18,5.16,96,77,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,4
+UBC,2018,W,MECH,459,,001,BIOMED DSGN PROJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",10,85.8,4.96,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4

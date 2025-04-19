@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,COMM,390,,116,BUSINESS WRITING,"Bowker, Elizabeth;Levine, Danielle",24,76.88,18.68,97,0,23,1,0,0,0,1,0,0,0,0,1,0,0,1,2,2,2,2,7,3,4
+UBC,2014,W,COMM,390,,117,BUSINESS WRITING,"Bowker, Elizabeth;Levine, Danielle",24,80.29,8.17,98,63,24,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,4,7,2,4
+UBCV,2014,W,COMM,390,,116,Business Writing,Danielle Levine;Elizabeth Bowker,24,76.875,18.68110531,97.0,0.0,,,,,,,,,,,,,,,,,,,7,,
+UBCV,2014,W,COMM,390,,117,Business Writing,Danielle Levine;Elizabeth Bowker,24,80.29166667,8.169291208,98.0,63.0,,,,,,,,,,,0,0,0,,,,,,7,,

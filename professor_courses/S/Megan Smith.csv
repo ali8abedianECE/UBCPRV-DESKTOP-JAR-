@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,MDST,110,,001,Introduction to Computational Art and Design I,Megan Smith;Yujie Gao,26,82.423076923,13.606389902,94.0,21.0,1,0,0,0,0,1,0,3,6,12,3,,,
+UBCO,2020,W,MDST,330,,001,Immersive Environments,Aleksandra Dulic;Megan Smith;Yujie Gao,9,83.888888889,7.025746303,90.0,70.0,0,0,0,0,0,1,0,2,0,3,3,,,
+UBCO,2020,W,MDST,499,,001,Capstone Media Project,Megan Smith;Miles Thorogood;Yujie Gao,8,93.0,2.138089935,95.0,91.0,0,0,0,0,0,0,0,0,0,0,8,,,
+UBCO,2021,W,MDST,110,,001,Introduction to Computational Art and Design I,Megan Smith;Morgan Rauscher;Yujie Gao,28,88.642857143,20.573651408,100.0,0.0,2,0,0,0,0,0,0,0,1,5,20,,,
+UBCO,2021,W,MDST,499,,001,Capstone Media Project,Aleksandra Dulic;Megan Smith;Miles Thorogood;Yujie Gao,9,81.555555556,13.436062585,96.0,58.0,0,0,1,0,0,1,2,0,0,0,5,,,
+UBCO,2021,W,MDST,110,,001,Introduction to Computational Art and Design I,Morgan Rauscher;Megan Smith,27,91.9,,100.0,43.0,,,,,,,,,,,20,94.0,99.0,89.5
+UBCO,2021,W,MDST,499,,001,Capstone Media Project,Aleksandra Dulic;Megan Smith,9,81.6,,96.0,58.0,,,,,,,,,,,,90.0,91.0,72.0
+UBCO,2022,W,MDST,110,,001,Introduction to Computational Art and Design I,Megan Smith,25,83.0,,96.0,65.0,0,0,0,0,2,1,2,3,4,6,7,85.0,90.0,77.0

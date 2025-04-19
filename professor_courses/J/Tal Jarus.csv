@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,S,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",47,85.98,3.48,94,79,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,20,9,,,
+UBC,2013,W,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",49,,,,,0,0,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,S,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",49,81.94,3.79,91,73,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,27,10,1,,,
+UBC,2014,W,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",52,,,,,0,0,1,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,S,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",50,82.96,4.31,90,74,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,19,17,2,,,
+UBC,2015,W,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,S,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",50,82.86,4.22,91,73,49,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,6,20,18,2,,,
+UBC,2016,W,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",52,,,,,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,S,RSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",52,82.21,4.17,92,71,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,23,12,3,,,
+UBC,2017,W,OSOT,527,,001,EVIDENCE PRAC I,"Jarus, Tal;Mortenson, William;Zwicker, Jill",56,83.62,5.93,94,62,55,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,8,15,22,7,,,
+UBC,2017,W,OSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",57,,,,,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,S,OSOT,545,,001,"THRY,PRAC SKILLS","Jarus, Tal",57,84.68,2.85,90,77,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,22,30,1,,,
+UBCV,2014,S,RSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,49,81.93877551,3.79367985,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,8,27,10,,,,
+UBCV,2015,S,RSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,50,82.96,4.314001883,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,9,19,17,,,,
+UBCV,2016,S,RSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,49,82.85714286,4.222953153,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,6,20,18,2,,,
+UBCV,2017,S,RSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,52,82.211538462,4.169621878,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,12,23,12,3,,,
+UBCV,2017,W,OSOT,527,,001,Evidence for Practice I: Research Paradigms and Methods,Jill Zwicker;Tal Jarus;William Mortenson,55,83.618181818,5.926996957,94.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,8,15,22,7,,,
+UBCV,2018,S,OSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,57,84.684210526,2.84829457,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,22,30,1,,,
+UBCV,2019,S,OSOT,545,,001,"Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",Tal Jarus,52,86.346153846,3.022040704,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,15,28,9,,,
+UBCV,2019,W,OSOT,515,,001,Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention,Debra Ann Field;Donna Drynan;Laura Bulk;Lisa Allyn;Lisa M Allyn;Mary Bunting;Tal Jarus,51,85.431372549,5.02097561,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,4,10,26,8,,,
+UBCV,2020,S,OSOT,545,,001,Occupation in Practice III: Occupational Therapy Assessment and Intervention,Danielle Rae;Leslie Duran;Tal Jarus,56,87.178571429,3.219865287,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,36,10,,,
+UBCV,2020,W,OSOT,515,,001,Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention,Debra Ann Field;Donna Drynan;Justin Turner;Lisa Allyn;Mary Bunting;Tal Jarus,59,85.966101695,4.923434818,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,6,15,24,13,,,
+UBCV,2021,S,OSOT,545,,001,Occupation in Practice III: Occupational Therapy Assessment and Intervention,Danielle Rae;Laura Fawcett;Leslie Duran;Tal Jarus;William Miller,52,86.980769231,3.214491602,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,28,13,,,
+UBCV,2021,S,OSOT,547,,001,Developing Evidence for Occupational Therapy Practice,Catherine Backman;Donna Drynan;Jill Zwicker;Julia Schmidt;Michael Lee;Skye Barbic;Susan Forwell;Suzanne Huot;Tal Jarus;William Miller;William Mortenson,51,91.470588235,4.721664711,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,12,35,,,
+UBCV,2021,W,OSOT,515,,001,Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention,Debra Ann Field;Donna Drynan;Elisha Williams;Jay Macdonald;Justin Turner;Lisa Allyn;Mary Bunting;Tal Jarus,64,83.96875,5.102034297,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,9,19,25,7,,,
+UBCV,2021,S,OSOT,545,,001,Occupation in Practice III: Occupational Therapy Assessment and Intervention,Tal Jarus;William Miller;Danielle Rae,52,87.0,,94.0,79.0,,,,,,,,,,,,,,,,,,,10,28,13,87.0,89.3,85.0
+UBCV,2021,S,OSOT,547,,001,Developing Evidence for Occupational Therapy Practice,Catherine Backman;Skye Barbic;Donna Drynan;Susan Forwell;Suzanne Huot;Tal Jarus;Michael Lee;William Miller;William Mortenson;Julia Schmidt;Jill Zwicker,51,91.5,,98.0,80.0,,,,,,,,,,,,,,,,,,,,12,35,93.0,95.0,88.5
+UBCV,2021,W,OSOT,515,,001,Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention,Donna Drynan;Debra Ann Field;Tal Jarus;Jay Macdonald;Elisha Williams,64,84.0,,95.0,70.0,,,,,,,,,,,,,,,,,,9,19,25,7,84.5,87.0,82.0
+UBCV,2022,S,OSOT,545,,001,Occupation in Practice III: Occupational Therapy Assessment and Intervention,Tal Jarus;William Miller;Danielle Rae,59,87.6,,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,30,17,88.0,90.0,85.0
+UBCV,2022,S,OSOT,547,,001,Developing Evidence for Occupational Therapy Practice,Catherine Backman;Skye Barbic;Jeffrey Boniface;Laura Bulk;Mary Bunting;Donna Drynan;Susan Forwell;Julia Henderson;Suzanne Huot;Tal Jarus;Michael Lee;Jay MacDonald;William Miller;William Mortenson;Laura Nimmon;Elly Park;Brodie Sakakibara;Julia Schmidt;Sharon Smith;Elisha Williams;Jill Zwicker,59,90.9,,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,0,4,8,45,92.0,94.5,90.0
+UBCV,2023,S,OSOT,545,,001,Occupation in Practice III: Occupational Therapy Assessment and Intervention,Tal Jarus;William Miller;Danielle Rae,63,86.84,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,16,33,14,87.0,89.0,84.5
+UBCV,2023,S,OSOT,547,,001,Developing Evidence for Occupational Therapy Practice,Catherine Backman;Skye Barbic;Donna Drynan;Susan Forwell;Suzanne Huot;Tal Jarus;Michael Lee;William Miller;William Mortenson;Julia Schmidt;Jill Zwicker,63,91.05,,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,18,41,91.0,94.0,89.0

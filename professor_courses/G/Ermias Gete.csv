@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Otto, Karl",6,83.33,7.74,97,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1
+UBC,2010,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Otto, Karl",7,83.57,6.37,95,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1
+UBC,2013,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",5,82,8.8,92,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1
+UBC,2016,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",5,80.4,7.57,87,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0
+UBC,2017,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",6,86.5,11.84,97,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4
+UBCV,2017,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Stefan Reinsberg;Youssef Ben Bouchta,6,86.5,11.844830096,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,0,4
+UBCV,2019,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Piotr Kozlowski,7,86.285714286,4.498677054,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,1,2

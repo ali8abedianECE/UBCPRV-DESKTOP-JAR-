@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,UFOR,100,,101,GREEN THE CITY,"Konijnendijk, Cecil;Nesbitt, Lorien",92,72.24,9.18,95,50,87,0,1,0,4,0,0,0,0,0,0,2,7,4,12,16,16,14,7,5,4,,,
+UBC,2017,W,CONS,481,,101,CONS PLN&REC,"Nesbitt, Lorien",98,79.71,7.84,96,51,97,0,1,0,0,0,0,0,0,0,0,1,2,0,1,7,15,20,23,20,8,,,
+UBC,2017,W,UFOR,100,,101,GREEN THE CITY,"Konijnendijk, Cecil;Nesbitt, Lorien",88,77.07,8.64,96,51,86,0,2,0,0,0,0,0,0,0,0,3,0,0,9,7,15,16,20,12,4,,,
+UBC,2018,W,UFOR,100,,101,GREEN THE CITY,"Konijnendijk, Cecil;Nesbitt, Lorien",116,72.64,9.16,90,50,114,0,1,0,1,0,0,0,0,0,0,4,9,8,11,13,25,16,18,9,1,,,
+UBC,2018,W,UFOR,101,,201,INVNTRY & ASSESS,"Devisscher, Tahia;Nesbitt, Lorien",61,84.47,5.15,92,64,60,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,9,18,24,8,,,
+UBCV,2016,W,UFOR,100,,101,Greening the City,Cecil Konijnendijk;Lorien Nesbitt,91,70.61538462,11.95711711,95.0,25.0,,,,,,,,,,,3,3,7,4,12,16,16,14,7,5,4,,,
+UBCV,2017,W,CONS,481,,101,Conservation Planning and Wildland Recreation,Gillian Fuss;Lorien Nesbitt,97,79.711340206,7.844794934,96.0,51.0,,,,,,,,,,,0,1,2,0,1,7,15,20,23,20,8,,,
+UBCV,2017,W,UFOR,100,,101,Greening the City,Cecil Konijnendijk;Jehane Alexandre Samaha;Lorien Nesbitt;Zacharyjohn Edward Wirtz,86,77.069767442,8.642971572,96.0,51.0,,,,,,,,,,,0,3,0,0,9,7,15,16,20,12,4,,,
+UBCV,2018,W,CONS,370,,201,Aboriginal Forestry,Andrea Lyall;Janette Bulkan;Lorien Nesbitt;Marie Karen Alexandra Nosten;Marie Nosten;Ricardo Pelai;Saori Ogura,91,79.307692308,8.279415314,93.0,48.0,,,,,,,,,,,1,0,0,0,3,12,14,14,19,17,11,,,
+UBCV,2018,W,UFOR,100,,101,Greening the City,Cecil Konijnendijk;Lorien Nesbitt;Zacharyjohn Edward Wirtz;Zhaohua Cheng,115,72.060869565,11.034465111,90.0,6.0,,,,,,,,,,,1,4,9,8,11,13,25,16,18,9,1,,,
+UBCV,2018,W,UFOR,101,,201,Urban Forest Inventory and Assessment,Hyeone Park;Lorien Nesbitt;Sophie Nitoslawski;Tahia Devisscher,61,83.950819672,6.502374514,92.0,53.0,,,,,,,,,,,0,1,0,0,1,0,0,9,18,24,8,,,
+UBCV,2020,W,UFOR,330,,201,Environmental Justice and Urban Green Equity,Jessica Quinton;Lorien Nesbitt,43,83.511627907,7.212331018,93.0,55.0,,,,,,,,,,,0,0,1,0,0,0,5,3,13,13,8,,,
+UBCV,2021,W,UFOR,330,,201,Environmental Justice and Urban Green Equity,Jessica Quinton;Johanna Leoni Bock;Lorien Nesbitt,52,83.057692308,10.503805961,95.0,29.0,,,,,,,,,,,1,0,0,1,2,0,4,3,10,21,10,,,
+UBCV,2021,W,UFOR,523,,201,Strategic Urban Forest Planning and Management,Addison Riddle;Andrew Almas;Cecil Konijnendijk;Lorien Nesbitt;Sophie Nitoslawski,10,86.5,5.06074215,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,3,,,
+UBCV,2021,W,UFOR,330,,201,Environmental Justice and Urban Green Equity,Lorien Nesbitt,52,83.1,,95.0,29.0,,,,,,,,,,,,,,,,,,,10,21,10,85.5,89.0,80.0
+UBCV,2022,W,UFOR,330,,201,Environmental Justice and Urban Green Equity,Lorien Nesbitt,76,83.6,,95.0,53.0,,,,,,,,,,,0,2,2,0,1,2,4,2,15,30,18,86.0,89.0,81.0
+UBCV,2023,W,FRST,595,,201,Transformative Environmental Research,Lorien Nesbitt,10,97.8,,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,99.5,100.0,95.5
+UBCV,2023,W,UFOR,330,,201,Environmental Justice and Urban Green Equity,Lorien Nesbitt,73,82.6,,99.0,1.0,,,,,,,,,,,2,0,1,1,1,0,4,7,14,26,17,86.0,89.0,81.0

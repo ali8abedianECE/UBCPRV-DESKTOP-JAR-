@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Deborah C Good;Deborah Good;Michelle Kunimoto;Shiming Gu,126,76.301587302,14.323837386,98.0,35.0,8,4,6,4,7,8,11,18,21,15,24
+UBCV,2020,W,ASTR,300,,101,Galaxies,Paul Hickson;Shiming Gu,20,86.9,7.906692701,95.0,68.0,0,0,0,0,0,2,0,1,2,4,11
+UBCV,2020,W,ASTR,406,,101,High-Energy Astrophysics,Ludovic Van Waerbeke;Shiming Gu,9,82.444444444,10.051257522,93.0,63.0,0,0,0,1,0,1,0,1,0,5,1
+UBCV,2020,W,PHYS,216,,201,Intermediate Mechanics,Artem Davydov;Ludovic Van Waerbeke;Parham Zarei;Philippe Belanger;Shiming Gu;Simon Godin,95,78.094736842,18.04313607,99.0,8.0,5,3,2,3,4,6,6,15,13,11,27
+UBCV,2020,W,PHYS,306,,201,Advanced Mechanics,Chengshu Li;Joerg Rottler;Shiming Gu;Steven Plotkin,52,71.826923077,21.524014089,95.0,0.0,5,2,0,5,2,4,5,5,8,8,8
+UBCV,2021,W,DSCI,513,,001,Databases and Data Retrieval,Alireza Iranpour;Arman Seyed-Ahmadi;Hsin-Jou Yang;Melika Farahani;Pouya Ahmadvand;Shan Lu;Shiming Gu;Simon Goring;Tiffany Leung;Tomas Beuzen,151,89.609271523,7.086111778,99.0,67.0,0,0,0,0,7,0,2,4,11,32,95
+UBCV,2021,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Aaron Berk;Ali Seyfi;Colby Delisle;Daniel Ramandi;Eric Lee;Michael Gelbart;Mohamad Amin Mohamadi;Shiming Gu;Siddhesh Khandelwal,150,91.68,7.551452147,100.0,60.0,0,0,0,1,5,0,0,2,12,22,108
+UBCV,2021,W,DSCI,571,,001,Supervised Learning I,Ali Seyfi;Alireza Iranpour;Daniel Ramandi;Mohamad Amin Mohamadi;Phan Anh Ngoc Bui;Pouya Ahmadvand;Shiming Gu;Varada Kolhatkar,150,89.66,6.704531173,100.0,64.0,0,0,0,0,3,2,2,2,16,30,95
+UBCV,2021,W,PHYS,304,,201,Introduction to Quantum Mechanics,Ke Zou;Michael Zurel;Pedro Villalba Gonzalez;Shiming Gu,94,74.414893617,17.548954308,100.0,17.0,8,4,4,7,3,10,7,5,16,10,20
+UBCV,2021,W,PHYS,509,C,101,Theory of Measurements,Scott Oser;Shiming Gu,25,88.08,8.215432632,97.0,68.0,0,0,0,0,0,2,0,2,2,6,13

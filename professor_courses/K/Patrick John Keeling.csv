@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,BIOL,332,,001,PROTISTOLOGY,"Berger, James;Keeling, Patrick John;Taylor, Frank J R",17,74.13,8.66,88,58,16,0,0,0,1,0,0,0,0,0,0,0,1,1,1,3,3,1,4,2,0,,,
+UBC,2003,W,BIOL,332,,001,PROTISTOLOGY,"Berger, James;Keeling, Patrick John;Taylor, Frank J R",23,73.65,11.02,88,51,20,0,0,0,3,0,0,0,0,0,0,1,2,0,3,2,3,0,5,4,0,,,
+UBC,2009,W,BIOL,332,,001,PROTISTOLOGY,"Keeling, Patrick John;Leander, Brian;Saldarriaga, Juan",17,73.13,11.76,92,50,15,0,0,2,0,0,0,0,0,0,0,1,2,0,1,1,2,2,5,0,1,,,
+UBC,2013,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John",43,72.14,9.24,89,50,43,0,0,0,0,0,0,0,0,0,0,2,1,4,7,7,2,11,6,3,0,,,
+UBC,2014,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John",40,75.03,11.95,93,50,39,0,1,0,0,0,0,0,0,0,0,3,3,2,4,1,1,5,12,7,1,,,
+UBC,2015,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",49,73.64,12.27,95,44,46,1,2,0,0,0,0,0,0,1,1,4,2,3,3,5,7,2,10,5,5,,,
+UBC,2016,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",49,71.86,13.08,88,40,46,3,0,0,0,0,0,0,0,3,3,2,5,2,4,1,10,6,8,8,0,,,
+UBC,2017,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",39,68.58,14.6,91,29,33,5,1,0,0,0,0,1,0,4,5,0,4,5,1,4,5,5,3,5,1,,,
+UBC,2018,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",39,77.38,8.61,90,56,37,0,1,0,1,0,0,0,0,0,0,0,2,2,1,4,4,4,13,6,1,,,
+UBCV,2014,W,BIOL,203,,101,Eukaryotic Microbiology,Patrick John Keeling,39,75.02564103,11.94832554,93.0,50.0,,,,,,,,,,,0,,,,,,,5,12,7,,,,
+UBCV,2015,W,BIOL,203,,101,Eukaryotic Microbiology,Evan Cronmiller;Juan Saldarriaga;Patrick John Keeling,47,73.638297872,12.269484118,95.0,44.0,,,,,,,,,,,,,,,,5,7,,10,5,5,,,
+UBCV,2016,W,BIOL,203,,101,Eukaryotic Microbiology,Juan Saldarriaga;Patrick John Keeling;Thomas Whelan,49,71.85714286,13.08466023,88.0,40.0,,,,,,,,,,,3,2,5,2,4,1,10,6,8,8,0,,,
+UBCV,2017,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Elizabeth Colleen Cooney;Elizabeth Cooney;Juan Saldarriaga;Patrick John Keeling;Varsha Mathur,38,68.578947368,14.598466374,91.0,29.0,,,,,,,,,,,5,0,4,5,1,4,5,5,3,5,1,,,
+UBCV,2018,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Emma Elizabeth George;Emma George;Juan Saldarriaga;Patrick John Keeling,38,77.447368421,8.503409073,90.0,56.0,,,,,,,,,,,0,0,2,2,1,4,4,4,14,6,1,,,
+UBCV,2019,W,BIOL,203,,101,Eukaryotic Microbiology,Elizabeth Colleen Cooney;Elizabeth Cooney;Juan Saldarriaga;Patrick John Keeling;Thomas Whelan,63,72.349206349,12.32511039,91.0,36.0,,,,,,,,,,,2,5,4,3,3,7,11,5,15,4,4,,,
+UBCV,2020,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson;Thomas Whelan,69,76.869565217,11.460819501,92.0,23.0,,,,,,,,,,,2,0,1,2,5,6,7,12,19,8,7,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Anna Cho;Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson,67,75.104477612,13.195653931,91.0,28.0,,,,,,,,,,,2,2,4,0,9,4,7,6,17,10,6,,,
+UBCV,2021,W,BIOL,260,,202,Fundamentals of Physiology,Abel Rosado Rey;Anne Kim;Chelsey Gough;Jasmin Wong;Miriam Fenniri;Patricia Schulte;Patrick John Keeling;Rachael Penman;Sandra Lindstrom;Tessa Macaulay,286,76.297202797,15.812246837,98.0,5.0,,,,,,,,,,,17,3,12,10,13,17,24,33,45,56,56,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Patrick John Keeling;Juan Saldarriaga,67,75.1,,91.0,28.0,,,,,,,,,,,,,,,9,,7,6,17,10,6,79.0,84.0,68.0
+UBCV,2023,W,BIOL,203,,101,Eukaryotic Microbiology,Vittorio Boscaro;Brett Couch;Patrick John Keeling,77,77.2,,96.0,6.0,,,,,,,,,,,1,1,2,6,5,5,7,8,16,16,10,80.0,86.0,71.0

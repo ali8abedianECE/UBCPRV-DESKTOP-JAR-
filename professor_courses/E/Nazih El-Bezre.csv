@@ -1,0 +1,114 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,ASTU,204,A,V02,TPC INTERD STUDY,"El-Bezre, Nazih",27,52.74,7.93,70,35,23,4,0,0,0,0,0,0,2,2,4,14,4,2,2,1,0,0,0,0,0,,,
+UBC,2015,W,ASTU,204,A,V03,TPC INTERD STUDY,"El-Bezre, Nazih",31,55.53,4.34,66,50,30,0,1,0,0,0,0,0,0,0,0,14,11,3,2,0,0,0,0,0,0,,,
+UBC,2015,W,ASTU,204,A,V06,TPC INTERD STUDY,"El-Bezre, Nazih",29,53.93,13.1,73,0,25,4,0,0,0,1,0,0,1,2,4,13,2,4,4,1,1,0,0,0,0,,,
+UBC,2015,W,WRDS,150,,11M,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",29,67.78,14.75,90,40,23,4,2,0,0,0,0,0,0,4,4,3,0,2,3,7,0,0,3,1,4,,,
+UBC,2015,W,WRDS,150,,V02,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",24,58.92,5.6,70,50,24,0,0,0,0,0,0,0,0,0,0,5,7,5,6,1,0,0,0,0,0,,,
+UBC,2015,W,WRDS,150,,V03,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",29,57.21,7.67,70,36,27,1,1,0,0,0,0,0,1,0,1,9,7,3,6,2,0,0,0,0,0,,,
+UBC,2015,W,WRDS,150,,V06,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",27,59.44,12.07,80,29,21,6,0,0,0,0,0,1,0,5,6,5,2,4,1,4,4,0,1,0,0,,,
+UBC,2016,W,ASTU,204,A,V03,TPC ARTS STUDIES,"El-Bezre, Nazih",24,56.96,7.18,73,45,20,4,0,0,0,0,0,0,0,4,4,7,4,5,2,1,1,0,0,0,0,,,
+UBC,2016,W,ASTU,204,A,V05,TPC ARTS STUDIES,"El-Bezre, Nazih",21,57.6,10.67,77,31,18,2,1,0,0,0,0,0,1,1,2,6,5,2,0,3,1,1,0,0,0,,,
+UBC,2016,W,ASTU,204,A,VM1,TPC ARTS STUDIES,"El-Bezre, Nazih",16,59.33,12.24,72,25,13,2,1,0,0,0,0,1,0,1,2,2,2,3,2,3,1,0,0,0,0,,,
+UBC,2016,W,WRDS,150,,02A,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",30,70.04,16.64,90,29,24,3,3,0,0,0,0,1,1,1,3,3,1,2,0,1,3,4,5,4,1,,,
+UBC,2016,W,WRDS,150,,V03,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",21,43.16,22.24,68,0,12,7,2,0,0,3,1,0,0,3,7,7,2,1,1,1,0,0,0,0,0,,,
+UBC,2016,W,WRDS,150,,V04,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",17,58.75,13.48,80,26,13,3,1,0,0,0,0,1,0,2,3,3,3,0,2,2,2,0,1,0,0,,,
+UBC,2016,W,WRDS,150,,V05,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",18,57.06,15.26,79,17,14,4,0,0,0,0,1,0,1,2,4,3,3,3,1,1,0,3,0,0,0,,,
+UBC,2017,S,WRDS,150,,J01,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",31,74.74,8.61,90,56,31,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,4,8,3,3,2,,,
+UBC,2017,W,ASTU,204,A,V05,TPC ARTS STUDIES,"El-Bezre, Nazih",21,63.85,13.69,80,18,19,1,1,0,0,0,1,0,0,0,1,2,1,5,4,2,1,3,1,0,0,,,
+UBC,2017,W,ASTU,204,A,VM1,TPC ARTS STUDIES,"El-Bezre, Nazih",17,67.59,6.7,80,57,17,0,0,0,0,0,0,0,0,0,0,0,2,4,3,4,1,2,1,0,0,,,
+UBC,2017,W,ASTU,204,A,VM2,TPC ARTS STUDIES,"El-Bezre, Nazih",19,65.74,8.16,75,45,18,1,0,0,0,0,0,0,0,1,1,1,2,4,1,4,6,0,0,0,0,,,
+UBC,2017,W,WRDS,150,,05A,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",31,72.68,15.97,88,13,28,3,0,0,0,0,1,0,0,2,3,1,0,1,1,4,2,7,8,4,0,,,
+UBC,2017,W,WRDS,150,,V05,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",20,64.53,13.89,80,31,17,2,1,0,0,0,0,0,2,0,2,3,0,1,4,3,2,2,2,0,0,,,
+UBC,2017,W,WRDS,150,,VM1,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",16,66.31,9.91,80,42,15,1,0,0,0,0,0,0,0,1,1,1,0,3,4,2,2,2,1,0,0,,,
+UBC,2017,W,WRDS,150,,VM2,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",19,67.53,11.26,80,29,18,1,0,0,0,0,0,1,0,0,1,0,0,4,2,5,4,1,2,0,0,,,
+UBC,2018,S,WRDS,150,,J01,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",30,71.89,7.07,83,54,28,0,2,0,0,0,0,0,0,0,0,1,0,2,6,3,4,9,3,0,0,,,
+UBC,2018,W,ASTU,204,A,V02,TPC ARTS STUDIES,"El-Bezre, Nazih",27,64.19,6.76,76,48,26,1,0,0,0,0,0,0,0,1,1,1,3,9,5,4,3,1,0,0,0,,,
+UBC,2018,W,ASTU,204,A,VM1,TPC ARTS STUDIES,"El-Bezre, Nazih",24,61.17,14.91,75,0,22,2,0,0,0,1,0,0,1,0,2,0,3,6,7,3,3,0,0,0,0,,,
+UBC,2018,W,ASTU,204,A,VM2,TPC ARTS STUDIES,"El-Bezre, Nazih",26,65.24,5.9,78,55,25,0,1,0,0,0,0,0,0,0,0,0,5,2,10,5,1,2,0,0,0,,,
+UBC,2018,W,WRDS,150,,05A,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",30,67.07,15.36,82,19,26,3,1,0,0,0,1,1,0,1,3,1,1,2,3,8,2,2,7,0,0,,,
+UBC,2018,W,WRDS,150,,V02,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",27,61.69,9.09,74,25,25,1,1,0,0,0,0,1,0,0,1,0,6,8,6,3,2,0,0,0,0,,,
+UBC,2018,W,WRDS,150,,VM1,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",23,64.22,14.93,78,4,22,1,0,0,0,1,0,0,0,0,1,2,1,3,5,4,5,2,0,0,0,,,
+UBC,2018,W,WRDS,150,,VM2,RSRCH&WRIT HUMAN,"El-Bezre, Nazih",25,64.08,15,80,10,22,2,0,0,1,0,1,0,0,1,2,2,1,2,4,5,4,3,1,0,0,,,
+UBC,2018,W,WRDS,350,,011,KNWLDG-MKNG DISC,"El-Bezre, Nazih",25,65.83,25.15,85,9,19,4,0,0,2,1,2,1,0,0,4,0,0,0,2,3,3,3,7,1,0,,,
+UBCV,2015,W,ASTU,204,A,V02,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,27,52.740740741,7.930431129,70.0,35.0,,,,,,,,,,,,14,,,,,0,0,0,0,0,,,
+UBCV,2015,W,ASTU,204,A,V03,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,30,55.533333333,4.344900565,66.0,50.0,,,,,,,,,,,0,14,11,,,0,0,0,0,0,0,,,
+UBCV,2015,W,ASTU,204,A,V06,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,29,53.931034483,13.103791803,73.0,0.0,,,,,,,,,,,,13,,,,,,0,0,0,0,,,
+UBCV,2015,W,WRDS,150,,11M,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,27,67.777777778,14.752661646,90.0,40.0,,,,,,,,,,,,,,,,7,,,,,,,,
+UBCV,2015,W,WRDS,150,,V02,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,24,58.916666667,5.602147621,70.0,50.0,,,,,,,,,,,0,5,7,5,6,1,0,0,0,0,0,,,
+UBCV,2015,W,WRDS,150,,V03,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,28,57.214285714,7.665976504,70.0,36.0,,,,,,,,,,,,9,7,,6,,0,0,0,0,0,,,
+UBCV,2015,W,WRDS,150,,V06,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,27,59.444444444,12.071368966,80.0,29.0,,,,,,,,,,,6,5,,,,,,,,0,0,,,
+UBCV,2016,W,ASTU,204,A,V03,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,24,56.95833333,7.183793153,73.0,45.0,,,,,,,,,,,4,7,4,5,2,1,1,0,0,0,0,,,
+UBCV,2016,W,ASTU,204,A,V05,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,20,57.6,10.6691883,77.0,31.0,,,,,,,,,,,2,6,5,2,0,3,1,1,0,0,0,,,
+UBCV,2016,W,ASTU,204,A,VM1,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,15,59.33333333,12.23967009,72.0,25.0,,,,,,,,,,,2,2,2,3,2,3,1,0,0,0,0,,,
+UBCV,2016,W,WRDS,150,,02A,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,27,70.03703704,16.64211867,90.0,29.0,,,,,,,,,,,3,3,1,2,0,1,3,4,5,4,1,,,
+UBCV,2016,W,WRDS,150,,V03,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,19,43.15789474,22.23676425,68.0,0.0,,,,,,,,,,,7,7,2,1,1,1,0,0,0,0,0,,,
+UBCV,2016,W,WRDS,150,,V04,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,16,58.75,13.47837775,80.0,26.0,,,,,,,,,,,3,3,3,0,2,2,2,0,1,0,0,,,
+UBCV,2016,W,WRDS,150,,V05,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,18,57.05555556,15.25652116,79.0,17.0,,,,,,,,,,,4,3,3,3,1,1,0,3,0,0,0,,,
+UBCV,2017,S,WRDS,150,,J01,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,31,74.741935484,8.609946736,90.0,56.0,,,,,,,,,,,0,0,1,3,4,3,4,8,3,3,2,,,
+UBCV,2017,W,ASTU,204,A,V05,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,20,63.85,13.68547059,80.0,18.0,,,,,,,,,,,1,2,1,5,4,2,1,3,1,0,0,,,
+UBCV,2017,W,ASTU,204,A,VM1,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,17,67.588235294,6.6994293,80.0,57.0,,,,,,,,,,,0,0,2,4,3,4,1,2,1,0,0,,,
+UBCV,2017,W,ASTU,204,A,VM2,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,19,65.736842105,8.163891401,75.0,45.0,,,,,,,,,,,1,1,2,4,1,4,6,0,0,0,0,,,
+UBCV,2017,W,WRDS,150,,05A,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,31,72.677419355,15.967439988,88.0,13.0,,,,,,,,,,,3,1,0,1,1,4,2,7,8,4,0,,,
+UBCV,2017,W,WRDS,150,,V05,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,19,64.526315789,13.893917218,80.0,31.0,,,,,,,,,,,2,3,0,1,4,3,2,2,2,0,0,,,
+UBCV,2017,W,WRDS,150,,VM1,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,16,66.3125,9.911062842,80.0,42.0,,,,,,,,,,,1,1,0,3,4,2,2,2,1,0,0,,,
+UBCV,2017,W,WRDS,150,,VM2,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,19,67.526315789,11.256447145,80.0,29.0,,,,,,,,,,,1,0,0,4,2,5,4,1,2,0,0,,,
+UBCV,2018,S,WRDS,150,,J01,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,28,71.892857143,7.072844709,83.0,54.0,,,,,,,,,,,0,1,0,2,6,3,4,9,3,0,0,,,
+UBCV,2018,W,ASTU,204,A,V02,Topics in Interdisciplinary Arts Studies,Linda Morra;Nazih El-Bezre,27,64.185185185,6.75981928,76.0,48.0,,,,,,,,,,,1,1,3,9,5,4,3,1,0,0,0,,,
+UBCV,2018,W,ASTU,204,A,VM1,Topics in Interdisciplinary Arts Studies,Jennifer Kramer;Nazih El-Bezre,24,61.166666667,14.907443914,75.0,0.0,,,,,,,,,,,2,0,3,6,7,3,3,0,0,0,0,,,
+UBCV,2018,W,ASTU,204,A,VM2,Topics in Interdisciplinary Arts Studies,Alan Walter Richardson;Nazih El-Bezre,25,65.24,5.903953478,78.0,55.0,,,,,,,,,,,0,0,5,2,10,5,1,2,0,0,0,,,
+UBCV,2018,W,WRDS,150,,05A,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,29,67.068965517,15.362131164,82.0,19.0,,,,,,,,,,,3,1,1,2,3,8,2,2,7,0,0,,,
+UBCV,2018,W,WRDS,150,,V02,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,26,61.692307692,9.094038622,74.0,25.0,,,,,,,,,,,1,0,6,8,6,3,2,0,0,0,0,,,
+UBCV,2018,W,WRDS,150,,VM1,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,23,64.217391304,14.926963162,78.0,4.0,,,,,,,,,,,1,2,1,3,5,4,5,2,0,0,0,,,
+UBCV,2018,W,WRDS,150,,VM2,Research and Writing in the Humanities and Social Sciences,Nazih El-Bezre,25,64.16,14.693195704,80.0,10.0,,,,,,,,,,,2,2,1,2,5,5,4,3,1,0,0,,,
+UBCV,2018,W,WRDS,350,,011,Knowledge-Making in the Disciplines,Nazih El-Bezre,23,66.0,24.876056396,85.0,9.0,,,,,,,,,,,4,0,0,0,2,3,3,3,7,1,0,,,
+UBCV,2019,S,WRDS,150,,551,Writing and Research in the Disciplines,Nazih El-Bezre,28,70.535714286,6.806762122,81.0,52.0,,,,,,,,,,,0,2,0,0,5,9,5,5,2,0,0,,,
+UBCV,2019,W,WRDS,150,,05A,Writing and Research in the Disciplines,Nazih El-Bezre,29,73.724137931,4.266954013,84.0,68.0,,,,,,,,,,,0,0,0,0,0,11,9,6,3,0,0,,,
+UBCV,2019,W,WRDS,150,,07C,Writing and Research in the Disciplines,Nazih El-Bezre,30,72.433333333,4.804332336,82.0,61.0,,,,,,,,,,,0,0,0,1,4,6,10,7,2,0,0,,,
+UBCV,2019,W,WRDS,150,,08M,Writing and Research in the Disciplines,Nazih El-Bezre,21,71.380952381,5.928542742,81.0,60.0,,,,,,,,,,,0,0,0,2,2,8,4,1,4,0,0,,,
+UBCV,2019,W,WRDS,150,,652,Writing and Research in the Disciplines,Nazih El-Bezre,27,71.851851852,10.567379792,83.0,28.0,,,,,,,,,,,1,0,0,2,3,3,8,5,5,0,0,,,
+UBCV,2019,W,WRDS,150,,V01,Writing and Research in the Disciplines,Nazih El-Bezre,22,64.363636364,4.624422276,75.0,60.0,,,,,,,,,,,0,0,0,12,5,2,3,0,0,0,0,,,
+UBCV,2019,W,WRDS,150,,V03,Writing and Research in the Disciplines,Nazih El-Bezre,21,64.333333333,4.564354646,71.0,50.0,,,,,,,,,,,0,1,0,7,8,5,0,0,0,0,0,,,
+UBCV,2019,W,WRDS,350,,011,Knowledge-Making in the Disciplines,Nazih El-Bezre,26,71.5,14.975313018,86.0,7.0,,,,,,,,,,,1,0,1,2,2,2,6,4,7,1,0,,,
+UBCV,2020,S,ASTU,160,,001,International Perspectives on Writing in the Social Sciences and Humanities,Katja Thieme;Nazih El-Bezre,33,77.909090909,13.16330989,84.0,7.0,,,,,,,,,,,1,0,0,0,0,1,2,7,22,0,0,,,
+UBCV,2020,W,WRDS,150,A,112,Writing and Research in the Disciplines,Nazih El-Bezre,28,70.607142857,14.733029875,82.0,4.0,,,,,,,,,,,1,0,2,1,2,5,6,6,5,0,0,,,
+UBCV,2020,W,WRDS,150,A,122,Writing and Research in the Disciplines,Nazih El-Bezre,30,68.2,15.086874862,83.0,0.0,,,,,,,,,,,1,1,1,5,3,3,4,9,3,0,0,,,
+UBCV,2020,W,WRDS,150,A,131,Writing and Research in the Disciplines,Nazih El-Bezre,30,70.733333333,10.428519693,81.0,27.0,,,,,,,,,,,1,1,0,2,4,3,9,6,4,0,0,,,
+UBCV,2020,W,WRDS,150,A,141,Writing and Research in the Disciplines,Nazih El-Bezre,26,69.730769231,12.935401632,80.0,13.0,,,,,,,,,,,1,1,0,1,2,7,8,4,2,0,0,,,
+UBCV,2020,W,WRDS,150,A,333,Writing and Research in the Disciplines,Nazih El-Bezre,27,69.074074074,5.635914545,80.0,55.0,,,,,,,,,,,0,0,3,1,3,12,5,2,1,0,0,,,
+UBCV,2020,W,WRDS,150,B,812,Writing and Research in the Disciplines,Nazih El-Bezre,25,69.4,14.910846164,80.0,0.0,,,,,,,,,,,1,0,0,0,2,6,11,4,1,0,0,,,
+UBCV,2020,W,WRDS,150,B,821,Writing and Research in the Disciplines,Nazih El-Bezre,26,71.923076923,5.47666378,81.0,61.0,,,,,,,,,,,0,0,0,2,3,7,7,4,3,0,0,,,
+UBCV,2020,W,WRDS,350,,011,Knowledge-Making in the Disciplines,Nazih El-Bezre,22,73.590909091,7.500216447,82.0,53.0,,,,,,,,,,,0,1,0,1,3,2,2,7,6,0,0,,,
+UBCV,2021,S,ASTU,160,,001,International Perspectives on Writing in the Social Sciences and Humanities,Nazih El-Bezre,23,80.652173913,3.915107054,86.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,3,15,2,0,,,
+UBCV,2021,W,ASTU,204,A,V05,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,11,67.727272727,2.533413077,71.0,64.0,,,,,,,,,,,0,0,0,0,6,5,0,0,0,0,0,,,
+UBCV,2021,W,WRDS,150,A,201,Writing and Research in the Disciplines,Nazih El-Bezre,28,68.964285714,11.422791197,84.0,23.0,,,,,,,,,,,2,0,0,2,3,9,6,4,2,0,0,,,
+UBCV,2021,W,WRDS,150,A,211,Writing and Research in the Disciplines,Nazih El-Bezre,28,70.642857143,15.828278224,84.0,6.0,,,,,,,,,,,2,1,0,0,1,5,5,9,5,0,0,,,
+UBCV,2021,W,WRDS,150,A,221,Writing and Research in the Disciplines,Nazih El-Bezre,27,67.074074074,21.677577792,81.0,0.0,,,,,,,,,,,3,1,0,1,1,3,4,7,7,0,0,,,
+UBCV,2021,W,WRDS,150,A,231,Writing and Research in the Disciplines,Nazih El-Bezre,28,71.535714286,13.674745967,83.0,17.0,,,,,,,,,,,2,0,0,0,0,6,8,7,5,0,0,,,
+UBCV,2021,W,WRDS,150,B,901,Writing and Research in the Disciplines,Nazih El-Bezre,27,70.0,17.748239349,80.0,7.0,,,,,,,,,,,3,0,0,1,1,4,1,8,9,0,0,,,
+UBCV,2021,W,WRDS,150,B,911,Writing and Research in the Disciplines,Nazih El-Bezre,24,72.666666667,4.992748365,81.0,62.0,,,,,,,,,,,0,0,0,1,4,1,10,6,2,0,0,,,
+UBCV,2021,W,WRDS,150,B,931,Writing and Research in the Disciplines,Nazih El-Bezre,28,73.392857143,6.081783886,81.0,51.0,,,,,,,,,,,0,1,0,1,0,4,14,2,6,0,0,,,
+UBCV,2021,W,WRDS,350,,012,Knowledge-Making in the Disciplines,Nazih El-Bezre,26,73.346153846,11.658275371,83.0,29.0,,,,,,,,,,,1,1,0,0,2,4,3,5,10,0,0,,,
+UBCV,2021,S,ASTU,160,,001,International Perspectives on Writing in the Social Sciences and Humanities,Nazih El-Bezre,23,80.7,,86.0,73.0,,,,,,,,,,,,,,,,,,,15,,,82.0,83.0,78.5
+UBCV,2021,W,ASTU,204,A,V05,Topics in Interdisciplinary Arts Studies,Nazih El-Bezre,11,67.7,,71.0,64.0,,,,,,,,,,,,,,,6,,,,,,,67.0,70.0,66.0
+UBCV,2021,W,WRDS,150,A,231,Writing and Research in the Disciplines,Nazih El-Bezre,28,71.5,,83.0,17.0,,,,,,,,,,,,,,,,6,8,7,,,,74.0,78.0,71.0
+UBCV,2021,W,WRDS,150,B,901,Writing and Research in the Disciplines,Nazih El-Bezre,27,71.1,,80.0,7.0,,,,,,,,,,,,,,,,,,8,9,,,77.0,80.0,71.0
+UBCV,2021,W,WRDS,150,B,911,Writing and Research in the Disciplines,Nazih El-Bezre,24,72.7,,81.0,62.0,,,,,,,,,,,,,,,,,10,6,,,,73.0,76.3,71.5
+UBCV,2021,W,WRDS,150,B,931,Writing and Research in the Disciplines,Nazih El-Bezre,28,73.4,,81.0,51.0,,,,,,,,,,,,,,,,,14,,6,,,73.0,76.5,72.0
+UBCV,2021,W,WRDS,350,,012,Knowledge-Making in the Disciplines,Nazih El-Bezre,26,74.5,,83.0,50.0,,,,,,,,,,,,,,,,,,,10,,,77.0,80.0,70.0
+UBCV,2022,S,ASTU,160,,001,International Perspectives on Writing in the Social Sciences and Humanities,Nazih El-Bezre,15,78.4,,85.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,2,11,1,0,81.0,83.0,80.0
+UBCV,2022,S,WRDS,150,B,553,Writing and Research in the Disciplines,Nazih El-Bezre,25,73.0,,83.0,0.0,,,,,,,,,,,1,0,0,2,1,1,5,5,10,0,0,76.0,81.0,72.0
+UBCV,2022,W,WRDS,150,A,011,Writing and Research in the Disciplines,Nazih El-Bezre,27,71.3,,84.0,8.0,,,,,,,,,,,2,0,0,0,1,6,4,4,10,0,0,76.0,80.0,71.0
+UBCV,2022,W,WRDS,150,A,021,Writing and Research in the Disciplines,Nazih El-Bezre,31,75.9,,81.0,62.0,,,,,,,,,,,0,0,0,1,0,1,13,10,6,0,0,76.0,78.0,74.0
+UBCV,2022,W,WRDS,150,A,031,Writing and Research in the Disciplines,Nazih El-Bezre,31,74.3,,80.0,17.0,,,,,,,,,,,1,0,0,0,3,3,1,13,10,0,0,78.0,80.0,75.5
+UBCV,2022,W,WRDS,150,A,041,Writing and Research in the Disciplines,Nazih El-Bezre,29,71.8,,80.0,0.0,,,,,,,,,,,1,0,1,1,1,2,7,13,3,0,0,76.0,77.0,73.0
+UBCV,2022,W,WRDS,150,B,901,Writing and Research in the Disciplines,Nazih El-Bezre,23,78.2,,84.0,46.0,,,,,,,,,,,1,0,0,0,0,1,2,2,17,0,0,80.0,82.0,78.5
+UBCV,2022,W,WRDS,150,B,911,Writing and Research in the Disciplines,Nazih El-Bezre,25,77.6,,85.0,10.0,,,,,,,,,,,1,0,0,1,0,0,2,3,12,6,0,81.0,84.0,78.0
+UBCV,2022,W,WRDS,150,B,921,Writing and Research in the Disciplines,Nazih El-Bezre,30,77.2,,85.0,69.0,,,,,,,,,,,0,0,0,0,0,2,9,8,9,2,0,77.5,80.0,74.0
+UBCV,2023,S,ASTU,160,,001,International Perspectives on Writing in the Social Sciences and Humanities,Nazih El-Bezre,20,77.1,,87.0,2.0,,,,,,,,,,,2,0,0,0,0,0,0,0,4,14,0,85.0,86.0,82.0
+UBCV,2023,W,WRDS,150,A,201,Writing and Research in the Disciplines,Nazih El-Bezre,29,79.0,,85.0,60.0,,,,,,,,,,,0,0,0,1,0,1,4,4,17,2,0,80.0,83.0,77.0
+UBCV,2023,W,WRDS,150,A,211,Writing and Research in the Disciplines,Nazih El-Bezre,32,76.8,,85.0,42.0,,,,,,,,,,,1,0,1,0,0,2,5,6,15,1,0,80.0,82.0,75.0
+UBCV,2023,W,WRDS,150,A,221,Writing and Research in the Disciplines,Nazih El-Bezre,29,73.4,,83.0,0.0,,,,,,,,,,,2,0,0,1,0,0,5,9,12,0,0,78.0,80.0,74.0
+UBCV,2023,W,WRDS,150,B,602,Writing and Research in the Disciplines,Nazih El-Bezre,29,76.7,,85.0,55.0,,,,,,,,,,,0,0,1,1,2,3,4,4,12,2,0,78.0,83.0,72.0
+UBCV,2023,W,WRDS,150,B,832,Writing and Research in the Disciplines,Nazih El-Bezre,28,77.4,,88.0,55.0,,,,,,,,,,,0,0,1,1,1,3,5,2,9,6,0,80.0,84.0,72.8
+UBCV,2023,W,WRDS,150,B,842,Writing and Research in the Disciplines,Nazih El-Bezre,29,73.5,,84.0,3.0,,,,,,,,,,,1,1,0,4,0,1,3,2,16,0,0,80.0,83.0,71.5
+UBCV,2023,W,WRDS,350,,011,Knowledge-Making in the Disciplines,Nazih El-Bezre,7,70.7,,87.0,33.0,,,,,,,,,,,1,0,1,0,0,0,0,1,3,1,0,80.0,81.0,66.5

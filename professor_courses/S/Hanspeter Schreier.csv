@@ -1,0 +1,73 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PLAN,593,,001,RESOURCE ANLYS,"Schreier, Hanspeter",8,82.63,3.7,88,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,0
+UBC,2002,W,RMES,500,B,002,RESRCE&ENV WKSHP,"Schreier, Hanspeter",12,81.73,6.75,90,70,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,4,1
+UBC,2002,W,RMES,500,D,400,RESRCE&ENV WKSHP,"Schreier, Hanspeter",9,84.5,5.93,93,76,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,2
+UBC,2003,W,AGRO,401,,001,SOIL PROCESS,"Schreier, Hanspeter",27,73.73,8.18,92,55,26,0,0,1,0,0,0,0,0,0,0,0,1,3,2,3,7,3,5,1,1
+UBC,2003,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",17,81.06,5.19,93,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,11,1,1
+UBC,2003,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",10,82.7,5.08,92,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3,1
+UBC,2003,W,RMES,517,,101,WATERSHED MGMT,"Schreier, Hanspeter",7,78.86,4.78,88,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,0
+UBC,2003,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",12,80.73,5.27,89,70,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,4,3,0
+UBC,2005,W,AGRO,401,,001,SOIL PROCESS,"Schreier, Hanspeter",9,74,6.19,85,66,8,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,2,1,1,1,0
+UBC,2005,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",11,80.33,5.79,89,72,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,3,0
+UBC,2005,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",11,64.1,34.42,95,0,8,2,1,0,0,2,0,0,0,0,2,0,0,0,0,1,1,2,3,0,1
+UBC,2005,W,RMES,517,,101,WATERSHED MGMT,"Schreier, Hanspeter",6,64.2,36.15,84,0,4,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,3,0,0
+UBC,2005,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",12,79.45,7.24,89,62,11,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,5,2,0
+UBC,2005,W,SOIL,501,,001,ADV SOIL PROCESS,"Schreier, Hanspeter",7,82.2,4.32,87,76,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0
+UBC,2006,W,AGRO,401,,001,SOIL PROCESS,"Schreier, Hanspeter",20,74.95,6.93,88,65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,5,1,5,1,0
+UBC,2006,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",20,75.07,7.37,84,61,15,0,3,0,2,0,0,0,0,0,0,0,0,2,0,3,1,3,6,0,0
+UBC,2006,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",8,78.25,4.56,86,72,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1,0
+UBC,2006,W,RMES,517,,101,WATERSHED MGMT,"Schreier, Hanspeter",8,80,6.35,89,72,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,0
+UBC,2006,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",13,75,5.89,82,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,2,5,0,0
+UBC,2006,W,SOIL,501,,001,ADV SOIL PROCESS,"Schreier, Hanspeter",5,76,7.21,84,70,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+UBC,2007,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",21,81.35,5.14,89,70,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,5,8,0
+UBC,2007,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",13,83.08,4.32,90,77,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,1
+UBC,2007,W,RMES,517,,101,WATERSHED MGMT,"Schreier, Hanspeter",8,79.25,3.96,85,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,1,0
+UBC,2007,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",13,79.46,5.09,88,73,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,2,3,0
+UBC,2009,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",17,78.53,5.46,87,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,7,4,3,0
+UBC,2009,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",13,76.54,10.76,92,50,13,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,3,2,2,1
+UBC,2009,W,RMES,517,,101,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",5,84,8.28,94,73,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2
+UBC,2009,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",16,81.71,6.84,91,68,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,4,2
+UBC,2010,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",11,80.4,6.33,92,73,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,2,1
+UBC,2010,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",15,77.27,7.1,90,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,1,5,1,1
+UBC,2010,W,RMES,517,,101,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",10,83.7,3.27,90,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,1
+UBC,2011,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",15,80,6.6,89,61,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,8,2,0
+UBC,2011,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",12,78.5,6.67,90,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,6,0,1
+UBC,2011,W,RMES,517,,101,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",4,77,2.65,80,75,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+UBC,2011,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",4,87,2.71,91,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2011,W,SOIL,520,,001,AGR WTRSHD MGMT,"Schreier, Hanspeter",6,75.5,13.9,88,50,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,2,0
+UBC,2012,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",13,79.91,4.85,87,70,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,1,0
+UBC,2012,W,RMES,516,,101,URBAN WATERSHED,"Schreier, Hanspeter",13,80.54,6.17,88,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,5,0
+UBC,2012,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",6,82,7.29,89,68,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,0
+UBC,2012,W,SOIL,515,,001,INT WTRSHD MNGMT,"Schreier, Hanspeter",10,81,4.9,91,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,1,1
+UBC,2012,W,SOIL,520,,001,AGR WTRSHD MGMT,"Schreier, Hanspeter",6,82,8.1,91,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1
+UBC,2013,W,RMES,515,,201,WATERSHED MGMT,"Schreier, Hanspeter",9,76.44,4,82,71,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,3,0,0
+UBC,2013,W,RMES,517,,101,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",5,82,4.58,86,77,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+UBC,2013,W,SOIL,515,,001,INT WTRSHD MNGMT,"Brown, Sandra;Schreier, Hanspeter",6,81.17,7.96,91,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1
+UBC,2013,W,SOIL,516,,001,URBN WTRSHD MGMT,"Schreier, Hanspeter;Wilson, Julie",7,78.14,4.3,86,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,0
+UBC,2014,W,RMES,515,,201,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",13,76.38,6.61,88,68,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,2,2,0
+UBC,2014,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",8,78.63,5.01,86,71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,1,0
+UBC,2014,W,SOIL,515,,001,INT WTRSHD MNGMT,"Brown, Sandra;Schreier, Hanspeter",12,81.27,4.27,90,73,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,1,1
+UBC,2014,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",7,83.5,1.05,85,82,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0
+UBC,2015,W,RMES,515,,201,WATERSHED MGMT,"Brown, Sandra;Schreier, Hanspeter",7,82.43,5.94,88,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,0
+UBC,2015,W,RMES,518,,201,WATER INT DEV,"Schreier, Hanspeter",15,77.87,7.2,92,68,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,4,2,1
+UBC,2015,W,SOIL,515,,001,INT WTRSHD MNGMT,"Brown, Sandra;Schreier, Hanspeter",16,74.44,5.67,83,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,3,4,0,0
+UBC,2015,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",11,78,3.97,83,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,0,0
+UBC,2016,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",11,83.18,1.08,85,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0
+UBC,2017,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",32,82.38,4.13,89,73,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,15,11,0
+UBC,2018,W,SOIL,518,,001,WTR INTRNTL DVLP,"Schreier, Hanspeter",27,80.81,4.46,88,70,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,13,6,0
+UBCV,2014,W,RMES,515,,201,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,13,76.38461539,6.61486283,88.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2014,W,RMES,518,,201,Water in International Development,Hanspeter Schreier,8,78.625,5.012484414,86.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2014,W,SOIL,515,,001,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,11,81.27272727,4.268276212,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,7,,
+UBCV,2014,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,6,83.5,1.048808848,85.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,1,0
+UBCV,2015,W,RMES,515,,201,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,7,82.428571429,5.940177968,88.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,,,0
+UBCV,2015,W,RMES,518,,201,Water in International Development,Hanspeter Schreier,15,77.866666667,7.199867724,92.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,
+UBCV,2015,W,SOIL,515,,001,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,16,74.4375,5.66825958,83.0,68.0,,,,,,,,,,,0,0,0,0,0,7,,,,0,0
+UBCV,2015,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,11,78.0,3.974921383,83.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,0,0
+UBCV,2016,W,RES,518,,001,Water in International Development,Hanspeter Schreier,8,81.75,3.105295017,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,1,0
+UBCV,2016,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,11,83.18181818,1.07871978,85.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,1,0
+UBCV,2017,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,32,82.375,4.132873717,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,3,15,11,0
+UBCV,2018,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,27,80.814814815,4.463846539,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,6,13,6,0
+UBCV,2019,W,APBI,401,,001,Soil Processes,Hanspeter Schreier;Sandra Brown;Teresa Silverthorn,29,80.827586207,9.502138727,95.0,57.0,,,,,,,,,,,0,0,2,0,1,1,3,3,5,9,5
+UBCV,2019,W,LWS,501,,001,Advanced Soil Processes,Hanspeter Schreier;Sandra Brown;Teresa Silverthorn,16,81.625,4.787135539,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,5,5,4,1
+UBCV,2019,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,34,80.647058824,4.772918254,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,7,13,7,2
+UBCV,2020,W,SOIL,518,,001,Water in International Development,Hanspeter Schreier,23,83.173913043,4.130289159,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,11,6,2

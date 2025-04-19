@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,GPP,591,N,001,Special Topics in Public Policy,Andrea Reimer,11,93.818181818,2.713602101,98.0,89.0,0,0,0,0,0,0,0,0,0,1,10,,,
+UBCV,2020,S,GPP,591,N,001,Special Topics in Public Policy,Andrea Reimer;Sophie Harrison,25,83.84,4.007077073,91.0,74.0,0,0,0,0,0,0,1,2,11,10,1,,,
+UBCV,2020,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,13,88.538461538,2.258885589,92.0,84.0,0,0,0,0,0,0,0,0,1,7,5,,,
+UBCV,2021,S,PPGA,591,N,001,Special Topics in Public Policy,Andrea Reimer;Johnson Adeerya,26,92.038461538,4.485360804,98.0,82.0,0,0,0,0,0,0,0,0,2,6,18,,,
+UBCV,2021,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,15,87.2,4.3457697,94.0,82.0,0,0,0,0,0,0,0,0,7,3,5,,,
+UBCV,2021,S,PPGA,591,N,001,Special Topics in Public Policy,Andrea Reimer,26,92.0,,98.0,82.0,,,,,,,,,,6,18,92.5,96.0,89.0
+UBCV,2021,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,15,87.2,,94.0,82.0,,,,,,,,,7,,,85.0,91.0,84.0
+UBCV,2022,S,PPGA,591,N,001,Special Topics in Public Policy,Andrea Reimer,25,88.4,,93.0,80.0,0,0,0,0,0,0,0,0,4,9,12,88.0,91.0,86.0
+UBCV,2022,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer;Simon Vöhringer,17,85.5,,94.0,77.0,0,0,0,0,0,0,0,2,6,2,7,87.0,90.0,80.0
+UBCV,2023,S,PPGA,591,N,001,Special Topics in Public Policy,Andrea Reimer,22,92.76,,97.0,86.0,0,0,0,0,0,0,0,0,0,4,17,93.0,95.0,90.0
+UBCV,2023,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,8,89.0,,90.0,86.0,0,0,0,0,0,0,0,0,0,4,4,89.5,90.0,88.75

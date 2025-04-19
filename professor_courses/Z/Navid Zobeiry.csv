@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,MTRL,494,,201,COMP MATERIALS,"Forghani, Alireza;Zobeiry, Navid",31,69.71,12.33,90,35,30,1,0,0,0,0,0,0,1,0,1,2,1,5,5,3,3,4,3,2,2
+UBC,2012,W,MTRL,594,,201,ADV COMPSIT MTRL,"Forghani, Alireza;Zobeiry, Navid",7,82.6,3.71,89,80,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+UBC,2013,W,MTRL,494,,201,COMP MATERIALS,"Forghani, Alireza;Zobeiry, Navid",25,82.13,8.27,98,63,24,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,7,3,6
+UBC,2013,W,MTRL,594,,201,ADV COMPSIT MTRL,"Forghani, Alireza;Zobeiry, Navid",7,90.14,5.01,95,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+UBC,2014,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",40,73.63,8.65,92,52,40,0,0,0,0,0,0,0,0,0,0,2,0,3,3,7,6,8,8,1,2
+UBC,2015,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",26,77.62,9.12,95,60,26,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,2,4,6,3,3
+UBC,2015,W,MTRL,594,,201,ADV COMPSIT MTRL,"Keulen, Casey;Zobeiry, Navid",4,89,3.37,94,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2016,W,MTRL,494,,201,COMP MATERIALS,"Zobeiry, Navid",43,77.95,11.82,93,51,42,0,0,1,0,0,0,0,0,0,0,1,2,2,4,7,1,1,4,11,9
+UBC,2017,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Zobeiry, Navid",48,74.38,12.47,99,43,47,1,0,0,0,0,0,0,0,1,1,1,5,2,3,9,4,6,5,6,6
+UBC,2018,W,MTRL,485,,101,FAILURE OF MTRLS,"Zobeiry, Navid",47,78.85,7.34,92,65,47,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,5,10,9,8,6
+UBC,2018,W,MTRL,494,,201,COMP MATERIALS,"Keulen, Casey;Poursartip, Anoshiravan;Zobeiry, Navid",63,78.55,14.29,100,0,61,1,0,0,1,1,0,0,0,0,1,2,0,1,2,3,11,8,10,14,10
+UBCV,2014,W,MTRL,494,,201,Composite Materials,Andrew Lawrence Stewart;Casey James Keulen;Casey Keulen;Navid Zobeiry,40,73.625,8.651922863,92.0,52.0,,,,,,,,,,,0,,,,,7,6,8,8,,
+UBCV,2015,W,MTRL,494,,201,Composite Materials,Casey James Keulen;Casey Keulen;Navid Zobeiry;Zi Zheng Zhou,26,77.615384615,9.117354542,95.0,60.0,,,,,,,,,,,0,0,0,,,5,,,6,,
+UBCV,2016,W,MTRL,494,,201,Composite Materials,Navid Zobeiry;Seyyed Mohammad Mohseni,42,77.95238095,11.81555895,93.0,51.0,,,,,,,,,,,0,1,2,2,4,7,1,1,4,11,9
+UBCV,2017,W,MTRL,494,,201,Composite Materials,Casey Keulen;Navid Zobeiry;Seyyed Mohammad Mohseni,48,74.375,12.468897476,99.0,43.0,,,,,,,,,,,1,1,5,2,3,9,4,6,5,6,6
+UBCV,2018,W,MTRL,485,,101,Failure of Materials,Duncan Pawson;Goran Fernlund;Navid Zobeiry,47,78.85106383,7.342487209,92.0,65.0,,,,,,,,,,,0,0,0,0,3,6,5,10,9,8,6
+UBCV,2018,W,MTRL,494,,201,Composite Materials,Casey Keulen;Navid Zobeiry;Seyyed Mohammad Mohseni,63,78.015873016,14.894783741,100.0,0.0,,,,,,,,,,,2,2,0,1,2,3,10,9,10,14,10
+UBCV,2019,W,MTRL,485,,101,Failure of Materials,Goran Fernlund;Naveen Sundaresan  Ramesh;Navid Zobeiry,51,71.392156863,11.079852763,95.0,51.0,,,,,,,,,,,0,1,6,6,8,5,3,8,7,2,4

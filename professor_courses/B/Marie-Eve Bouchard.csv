@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,FREN,355,,201,Advanced Composition,Marie-Eve Bouchard,23,83.608695652,7.638057407,99.0,71.0,0,0,0,0,0,2,2,4,4,7,4,,,
+UBCV,2020,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,27,80.851851852,8.614405215,98.0,65.0,0,0,0,0,4,1,2,3,7,7,3,,,
+UBCV,2020,W,FREN,470,A,201,Studies in Modern French Linguistics,Marie-Eve Bouchard,14,80.428571429,9.8739306,92.0,60.0,0,0,0,1,1,1,0,2,3,3,3,,,
+UBCV,2021,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,28,78.678571429,9.595730422,95.0,57.0,0,0,1,1,3,2,1,5,7,5,3,,,
+UBCV,2021,W,FREN,476,,201,French Language and Societies,Marie-Eve Bouchard,19,79.894736842,13.763456998,99.0,43.0,1,0,1,0,2,0,1,2,4,5,3,,,
+UBCV,2021,W,FREN,556,A,201,Studies in French Language and Linguistics,Marie-Eve Bouchard,6,69.5,36.092935597,95.0,0.0,1,0,0,0,1,0,1,0,0,0,3,,,
+UBCV,2021,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,28,78.7,,95.0,57.0,,,,,,,,,7,,,80.0,85.3,71.5
+UBCV,2021,W,FREN,476,,201,French Language and Societies,Marie-Eve Bouchard,19,80.9,,99.0,55.0,,,,,,,,,,,,84.0,89.0,76.0
+UBCV,2022,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,25,82.4,,96.0,56.0,0,0,2,0,0,1,3,6,1,3,9,82.0,92.0,76.0
+UBCV,2022,W,FREN,470,,201,Studies in Modern French Linguistics,Marie-Eve Bouchard,10,84.4,,92.0,80.0,0,0,0,0,0,0,0,0,6,3,1,82.5,88.5,80.5
+UBCV,2022,W,FREN,477,,201,Contemporary Varieties of French,Marie-Eve Bouchard,19,84.2,,95.0,66.0,0,0,0,0,1,1,1,2,3,7,4,87.0,89.0,79.5
+UBCV,2022,W,RMST,419,,101,Studies in Romance Languages and Literature,Marie-Eve Bouchard,6,90.8,,95.0,86.0,0,0,0,0,0,0,0,0,0,3,3,91.0,93.8,88.3
+UBCV,2023,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,21,79.9,,93.0,55.0,0,0,2,1,0,2,2,2,2,3,7,82.0,90.0,73.0
+UBCV,2023,W,FREN,476,,101,French Language and Societies,Marie-Eve Bouchard,17,82.0,,96.0,52.0,0,1,0,1,0,0,1,2,4,2,6,81.0,92.0,78.0
+UBCV,2023,W,FREN,556,B,201,Studies in French Language and Linguistics,Marie-Eve Bouchard,9,85.1,,95.0,72.0,0,0,0,0,0,0,2,0,2,1,4,87.0,90.0,81.0
+UBCV,2023,W,RMST,306,,201,Language Contact and Multilingualism in the Romance-speaking World,Marie-Eve Bouchard,13,89.62,,96.0,72.0,0,0,0,0,0,0,1,0,0,4,8,91.0,94.0,87.0

@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,PHYS,405,,201,RADIATION BIOPHY,"Durand, Ralph E.;Flibotte, Stephane;Minchinton, Andrew;Olive, Peggy L;Skarsgard, Lloyd D",39,75.74,13.73,96,39,38,1,0,0,0,0,0,0,1,0,1,1,3,2,5,3,2,6,3,3,10,,,
+UBC,2009,W,PHYS,405,,201,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",14,73.57,15.17,91,39,13,1,0,0,0,0,0,0,1,0,1,1,0,1,1,1,1,3,1,2,2,,,
+UBC,2009,W,PHYS,536,,201,ADV RAD BIOPHYS,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan;Smith, Craig",9,84.11,4.99,89,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,0,,,
+UBC,2010,W,PHYS,405,,101,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan;Smith, Craig",15,75.07,8.56,91,60,15,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,4,1,1,1,,,
+UBC,2011,W,PHYS,405,,101,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",19,80.95,10.98,95,60,19,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,6,2,5,,,
+UBC,2012,W,PHYS,405,,101,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",18,79.67,9.51,96,55,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,5,4,2,3,,,
+UBC,2013,W,PHYS,405,,201,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",22,77.45,11.57,100,50,22,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,5,3,4,1,4,,,
+UBC,2014,W,PHYS,405,,201,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",16,72.75,12.11,94,54,16,0,0,0,0,0,0,0,0,0,0,1,1,1,4,2,1,2,1,0,3,,,
+UBC,2014,W,PHYS,536,,201,ADV RAD BIOPHYS,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",5,88.4,3.05,93,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2015,W,PHYS,405,,101,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",22,73.91,11.56,99,50,22,0,0,0,0,0,0,0,0,0,0,2,0,0,4,2,3,3,5,2,1,,,
+UBC,2015,W,PHYS,536,,101,ADV RAD BIOPHYS,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",6,81.17,9.5,95,68,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,1,,,
+UBC,2016,W,PHYS,405,,101,RADIATION BIOPHY,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",24,80.92,9.6,94,55,24,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,0,11,3,5,,,
+UBC,2016,W,PHYS,536,,101,ADV RAD BIOPHYS,"Korbelik, Mladen;Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",7,84,8.68,95,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,3,,,
+UBC,2017,W,PHYS,405,,101,RADIATION BIOPHY,"Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",24,78.13,15.33,95,31,23,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,2,3,4,4,6,,,
+UBC,2017,W,PHYS,536,,101,ADV RAD BIOPHYS,"Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",5,87.8,7.46,93,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,,,
+UBC,2018,W,PHYS,405,,101,RADIATION BIOPHY,"Minchinton, Andrew;Moiseenko, Vitali;Reinsberg, Stefan",23,79.71,14.44,96,43,19,2,1,0,0,0,0,0,0,2,2,0,0,0,0,2,3,0,5,3,6,,,
+UBCV,2014,W,PHYS,405,,201,Radiation Biophysics,Andrew Minchinton;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,16,72.75,12.11335351,94.0,54.0,,,,,,,,,,,0,,,,,,,,,,,,,
+UBCV,2014,W,PHYS,536,,201,Advanced Radiation Biophysics,Andrew Minchinton;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,5,88.4,3.049590136,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Byron Wilson;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,22,73.909090909,11.563114966,99.0,50.0,,,,,,,,,,,0,,,,,,,,5,,,,,
+UBCV,2015,W,PHYS,536,,101,Advanced Radiation Biophysics,Andrew Minchinton;Byron Wilson;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,6,81.166666667,9.495613022,95.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,,,,,,
+UBCV,2016,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Byron Wilson;Stefan Reinsberg;Vitali Moiseenko,24,80.91666667,9.595817326,94.0,55.0,,,,,,,,,,,0,0,1,1,1,0,2,0,11,3,5,,,
+UBCV,2016,W,PHYS,536,,101,Advanced Radiation Biophysics,Andrew Minchinton;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,7,84.0,8.679477711,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,0,1,3,,,
+UBCV,2017,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Stefan Reinsberg;Vitali Moiseenko,24,78.125,15.326341348,95.0,31.0,,,,,,,,,,,1,1,1,0,1,1,2,3,4,4,6,,,
+UBCV,2018,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Carina Graf;Stefan Reinsberg;Vitali Moiseenko,22,79.5,14.131188067,96.0,43.0,,,,,,,,,,,2,0,0,0,0,2,4,0,5,3,6,,,
+UBCV,2020,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Jennifer Baker;Kouther Noureddine;Mladen Korbelik;Robert Kosztyla;Stefan Reinsberg;Vitali Moiseenko,11,87.909090909,10.074269655,96.0,67.0,,,,,,,,,,,0,0,0,0,1,1,0,0,1,0,8,,,
+UBCV,2021,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Cassidy Northway;Jennifer Baker;Stefan Reinsberg;Vitali Moiseenko,13,80.692307692,8.138228876,92.0,62.0,,,,,,,,,,,0,0,0,1,0,0,1,4,3,2,2,,,
+UBCV,2021,W,PHYS,536,,101,Advanced Radiation Biophysics,Andrew Minchinton;Cassidy Northway;Craig Smith;Jennifer Baker;Mladen Korbelik;Robert Kosztyla;Stefan Reinsberg;Vitali Moiseenko,8,84.875,10.466784197,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,1,1,0,4,,,
+UBCV,2021,W,PHYS,405,,101,Radiation Biophysics,Jennifer Baker;Andrew Minchinton;Vitali Moiseenko;Stefan Reinsberg,13,80.7,,92.0,62.0,,,,,,,,,,,,,,,,,,,,,,80.0,88.0,77.0
+UBCV,2021,W,PHYS,536,,101,Advanced Radiation Biophysics,Jennifer Baker;Andrew Minchinton;Vitali Moiseenko;Stefan Reinsberg,8,84.9,,95.0,68.0,,,,,,,,,,,,,,,,,,,,,,88.0,93.5,76.5
+UBCV,2022,W,PHYS,405,,101,Radiation Biophysics,Jennifer Baker;Andrew Minchinton;Vitali Moiseenko;Stefan Reinsberg;Craig Smith,18,74.9,,97.0,45.0,,,,,,,,,,,1,1,1,2,0,1,2,2,4,1,3,77.0,81.0,64.8
+UBCV,2023,W,PATH,535,,001,Seminar,Helene Cote;Steve Ernest Kalloger;Cornelia Laule;Honglin Luo;Andrew Minchinton;Jefferson Terry;Leandro Venturutti;Cheryl Lea Wellington,23,87.64,,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,4,89.0,90.5,86.5
+UBCV,2023,W,PATH,635,,001,Seminar,Helene Cote;Steve Ernest Kalloger;Cornelia Laule;Honglin Luo;Andrew Minchinton;Jefferson Terry;Leandro Venturutti;Cheryl Lea Wellington,19,86.67,,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,1,87.0,88.0,84.0
+UBCV,2023,W,PHYS,405,,101,Radiation Biophysics,Jennifer Baker;Hiu Fai Choi;Andrew Minchinton;Stefan Reinsberg;Craig Smith,10,67.4,,90.0,55.0,,,,,,,,,,,0,0,3,1,1,3,0,0,1,0,1,66.0,70.5,58.5

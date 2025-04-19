@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,SOWK,521,,001,SOWK PRAC ADDICT,"Ibrahim, Mohamed",25,93.68,2.46,97,87,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,23,,,
+UBC,2017,W,SOWK,551,,002,HLTH & SOC CARE,"Ibrahim, Mohamed",12,93.67,1.67,97,91,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,,,
+UBC,2018,W,SOWK,440,B,001,INTGRTV SEM SOWK,"Ibrahim, Mohamed",19,90.11,4.64,95,76,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,13,,,
+UBC,2018,W,SOWK,559,,003,ADV INT SEMINAR,"Ibrahim, Mohamed",11,95,1,97,94,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,,,
+UBC,2018,W,SOWK,560,C,003,DIR FLD STUDIES,"Ibrahim, Mohamed",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2017,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Grant Charles;Mohamed Ibrahim,14,85.0,6.782329983,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,4,4,4,,,
+UBCV,2017,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,25,93.68,2.461706725,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,23,,,
+UBCV,2017,W,SOWK,551,,002,Health and Social Care Praxis,Andrea Johnson;Mohamed Ibrahim,12,93.666666667,1.66969422,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2018,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim;Sarah Durante,18,90.111111111,4.638570887,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,13,,,
+UBCV,2018,W,SOWK,559,,003,Advanced Integrative Seminar,Alyson Quinn;Mohamed Ibrahim,11,95.0,1.0,97.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2019,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,18,88.166666667,4.018340307,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,6,,,
+UBCV,2020,S,SOWK,440,J,921,Integrative Seminars in Social Work,Mohamed Ibrahim,9,86.222222222,11.454014338,97.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,1,2,4,,,
+UBCV,2020,W,SOWK,201,,001,Introduction to Social Work Practice,Alexis Baker;Andrea Johnson;Antoine Coulombe;Harpell Montgomery;Mohamed Ibrahim,68,85.588235294,6.538600184,97.0,61.0,,,,,,,,,,,0,0,0,1,0,0,4,6,17,20,20,,,
+UBCV,2020,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,16,87.9375,10.388896316,96.0,61.0,,,,,,,,,,,0,0,0,2,0,0,0,0,0,2,12,,,
+UBCV,2020,W,SOWK,559,,001,Advanced Integrative Seminar,Deborah O'Connor;Grace Ko;Marie Nightbird;Mohamed Ibrahim,15,94.466666667,2.325838303,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2020,W,SOWK,559,,002,Advanced Integrative Seminar,Deborah O'Connor;Mohamed Ibrahim,13,89.615384615,5.895456747,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,1,8,,,
+UBCV,2021,S,SOWK,440,J,921,Integrative Seminars in Social Work,Jennifer Ortman;Mohamed Ibrahim,30,96.8,1.95465845,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,30,,,
+UBCV,2021,W,SOWK,201,,001,Introduction to Social Work Practice,Hannah Kia;Marie Nightbird;Mohamed Ibrahim;Nancy Lin,57,80.49122807,9.310368274,93.0,28.0,,,,,,,,,,,1,0,0,0,0,4,8,8,13,19,4,,,
+UBCV,2021,W,SOWK,440,B,001,Integrative Seminars in Social Work,Connie Bird;Mohamed Ibrahim,24,83.583333333,6.580053301,90.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,2,7,13,1,,,
+UBCV,2021,W,SOWK,521,,001,Social Work Practice in Addictions,Connie Bird;Edward Andrew Kruk;Mohamed Ibrahim,21,83.523809524,7.632948628,93.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,3,4,9,3,,,
+UBCV,2021,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Mohamed Ibrahim;Rae Morris,25,92.4,12.655697004,100.0,38.0,,,,,,,,,,,1,0,0,0,0,0,1,0,0,1,22,,,
+UBCV,2021,W,SOWK,559,,001,Advanced Integrative Seminar,Mohamed Ibrahim,15,93.933333333,2.576450123,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2021,S,SOWK,440,J,921,Integrative Seminars in Social Work,Mohamed Ibrahim,30,96.8,,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,30,97.0,98.0,95.3
+UBCV,2021,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,24,83.6,,90.0,58.0,,,,,,,,,,,,,,,,,,,7,13,,85.0,88.0,82.0
+UBCV,2021,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,21,83.5,,93.0,60.0,,,,,,,,,,,,,,,,,,,,9,,85.0,88.0,81.0
+UBCV,2021,W,SOWK,559,,001,Advanced Integrative Seminar,Mohamed Ibrahim,15,93.9,,96.0,86.0,,,,,,,,,,,,,,,,,,,,,14,95.0,95.5,93.5
+UBCV,2022,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,14,86.6,,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,5,4,86.5,89.8,83.0
+UBCV,2022,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,20,90.1,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,15,91.0,92.0,89.8
+UBCV,2022,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Mohamed Ibrahim,24,91.6,,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,16,92.0,94.0,89.0
+UBCV,2022,W,SOWK,559,,001,Advanced Integrative Seminar,Mohamed Ibrahim,18,93.9,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18,94.0,95.0,93.0
+UBCV,2023,S,SOWK,440,J,921,Integrative Seminars in Social Work,Mohamed Ibrahim,9,90.56,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,5,91.0,94.0,87.0
+UBCV,2023,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,19,89.9,,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,12,90.0,91.0,89.0
+UBCV,2023,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,21,88.9,,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,3,15,90.0,92.0,89.0
+UBCV,2023,W,SOWK,559,,001,Advanced Integrative Seminar,Mohamed Ibrahim,17,95.0,,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,15,96.0,98.0,93.0

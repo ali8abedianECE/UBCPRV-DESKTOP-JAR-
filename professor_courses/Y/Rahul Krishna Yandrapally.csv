@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah;Rahul Krishna Yandrapally,22,80.727272727,7.356123579,94.0,60.0,0,0,0,1,0,1,2,5,6,6,1
+UBCV,2019,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,49,82.244897959,6.303208879,98.0,68.0,0,0,0,0,0,1,7,6,16,14,5
+UBCV,2019,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah;Rahul Krishna Yandrapally,38,81.973684211,7.242841171,92.0,60.0,0,0,0,1,2,0,1,8,11,11,4
+UBCV,2020,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,44,82.431818182,7.586394576,97.0,63.0,0,0,0,1,1,2,3,5,15,9,8
+UBCV,2020,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah;Rahul Krishna Yandrapally,31,83.806451613,6.759779853,97.0,69.0,0,0,0,0,0,2,2,3,9,9,6

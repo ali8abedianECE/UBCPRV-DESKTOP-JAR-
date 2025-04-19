@@ -1,0 +1,97 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,ECON,101,,010,PRNCPLS MICRECON,"Khan, Anichul",116,69.68,13.08,96,38,103,8,5,0,0,0,0,0,3,5,8,7,6,16,10,17,10,10,12,7,8,,,
+UBC,2016,W,ECON,102,,010,PRINCPL MACRECON,"Khan, Anichul",111,71.28,15.03,99,18,105,4,0,0,0,0,1,0,3,0,4,8,10,9,8,13,11,7,14,12,13,,,
+UBC,2016,W,ECON,345,,001,MONEY & BANKING,"Khan, Anichul",147,74.15,13.4,98,30,140,3,1,0,0,0,0,0,2,1,3,9,8,9,15,12,18,15,18,17,19,,,
+UBC,2016,W,ECON,345,,004,MONEY & BANKING,"Khan, Anichul",64,71.84,12.33,97,26,61,2,1,0,0,0,0,1,0,1,2,2,4,5,6,9,8,9,9,8,1,,,
+UBC,2016,W,ECON,456,,001,INTER MACRO/FINC,"Khan, Anichul",81,73.86,12.33,94,8,79,1,1,0,0,1,0,0,0,0,1,1,7,6,3,9,13,8,20,7,5,,,
+UBC,2016,W,ECON,456,,002,INTER MACRO/FINC,"Khan, Anichul",64,72.13,9.76,94,50,64,0,0,0,0,0,0,0,0,0,0,2,4,6,6,11,11,6,10,7,1,,,
+UBC,2017,S,ECON,102,,924,PRINCPL MACRECON,"Khan, Anichul",115,75.9,13.65,99,33,107,5,1,0,0,0,0,0,1,4,5,5,6,4,4,10,17,11,15,15,20,,,
+UBC,2017,S,ECON,456,,951,INTER MACRO/FINC,"Khan, Anichul",75,73.4,12.49,95,43,70,3,1,0,0,0,0,0,0,3,3,2,4,8,3,9,8,8,11,11,6,,,
+UBC,2017,W,ECON,101,,001,PRNCPLS MICRECON,"Khan, Anichul",251,70.97,15.16,99,16,233,17,1,0,0,0,1,2,4,10,17,17,18,18,21,26,25,19,32,29,28,,,
+UBC,2017,W,ECON,101,,008,PRNCPLS MICRECON,"Khan, Anichul",258,69.78,15.92,97,0,240,14,4,0,0,3,1,1,1,8,14,26,17,24,20,26,27,23,33,22,22,,,
+UBC,2017,W,ECON,101,,010,PRNCPLS MICRECON,"Khan, Anichul",119,70.01,16.43,96,0,107,11,1,0,0,1,0,2,4,4,11,6,5,10,14,14,10,10,18,7,13,,,
+UBC,2017,W,ECON,102,,010,PRINCPL MACRECON,"Khan, Anichul",117,70.59,16.71,98,0,111,5,1,0,0,2,1,0,0,2,5,7,13,9,10,14,11,10,14,7,16,,,
+UBC,2017,W,ECON,345,,001,MONEY & BANKING,"Khan, Anichul",148,71.86,14,99,35,139,8,0,0,0,0,0,0,3,5,8,9,14,10,9,15,14,16,24,17,11,,,
+UBC,2017,W,ECON,345,,004,MONEY & BANKING,"Khan, Anichul",65,69.56,14.68,98,24,58,5,0,0,0,0,0,1,1,3,5,2,9,3,8,7,5,2,12,8,2,,,
+UBC,2018,S,ECON,102,,925,PRINCPL MACRECON,"Khan, Anichul",129,74.97,14.2,98,36,115,9,3,0,0,0,0,0,2,7,9,3,9,3,5,9,15,18,18,21,14,,,
+UBC,2018,S,ECON,456,,952,INTER MACRO/FINC,"Khan, Anichul",81,74,11.18,98,50,76,0,5,0,0,0,0,0,0,0,0,2,9,4,9,6,7,13,11,11,4,,,
+UBC,2018,W,ECON,101,,001,PRNCPLS MICRECON,"Khan, Anichul",253,75.51,11.71,99,26,246,4,2,0,1,0,0,1,0,3,4,5,17,16,19,24,30,34,43,28,30,,,
+UBC,2018,W,ECON,101,,008,PRNCPLS MICRECON,"Khan, Anichul",257,73.61,16.37,100,0,233,16,6,0,2,2,0,0,4,10,16,22,9,14,20,19,26,18,26,35,44,,,
+UBC,2018,W,ECON,101,,010,PRNCPLS MICRECON,"Khan, Anichul",118,73.98,16.15,99,13,110,8,0,0,0,0,1,1,2,4,8,4,8,8,8,12,7,11,16,16,20,,,
+UBC,2018,W,ECON,102,,010,PRINCPL MACRECON,"Khan, Anichul",113,76.84,13.24,100,44,108,2,0,0,0,0,0,0,0,2,2,3,10,4,9,11,5,16,12,15,23,,,
+UBC,2018,W,ECON,345,,001,MONEY & BANKING,"Khan, Anichul",145,72.15,12.45,95,34,134,3,0,0,2,0,0,0,1,2,3,8,10,15,12,15,15,15,23,9,12,,,
+UBC,2018,W,ECON,345,,005,MONEY & BANKING,"Khan, Anichul",153,76.74,12.77,98,42,145,4,1,0,2,0,0,0,0,4,4,3,6,12,15,12,13,8,24,24,28,,,
+UBCV,2016,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Zhihong Gan,111,69.67567568,13.07819988,96.0,38.0,,,,,,,,,,,8,7,6,16,10,17,10,10,12,7,8,,,
+UBCV,2016,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Yanran Deng,111,71.15315315,14.92173412,99.0,18.0,,,,,,,,,,,4,8,10,9,10,13,11,7,14,12,13,,,
+UBCV,2016,W,ECON,345,,001,Money and Banking,Anichul Khan;Hong Chui,146,73.82876712,13.44534766,98.0,30.0,,,,,,,,,,,3,9,10,10,15,12,18,15,18,17,19,,,
+UBCV,2016,W,ECON,345,,004,Money and Banking,Anichul Khan,63,71.84126984,12.32909796,97.0,26.0,,,,,,,,,,,2,2,4,5,6,9,8,9,9,8,1,,,
+UBCV,2016,W,ECON,456,,001,International Macroeconomics and Finance,Anichul Khan;John Spear,80,73.8625,12.32753812,94.0,8.0,,,,,,,,,,,1,1,7,6,3,9,13,8,20,7,5,,,
+UBCV,2016,W,ECON,456,,002,International Macroeconomics and Finance,Anichul Khan;Tsengunn Enkhbaatar;Tsenguun Enkhbaatar,64,72.125,9.759813946,94.0,50.0,,,,,,,,,,,0,2,4,6,6,11,11,6,10,7,1,,,
+UBCV,2017,S,ECON,102,,924,Principles of Macroeconomics,Anand Chopra;Anichul Khan,114,76.105263158,13.61504141,99.0,33.0,,,,,,,,,,,5,5,6,4,4,10,17,11,15,16,21,,,
+UBCV,2017,S,ECON,456,,951,International Macroeconomics and Finance,Anichul Khan;Nicolas Franz Pattillo,74,73.121621622,12.627381319,95.0,43.0,,,,,,,,,,,3,3,4,8,3,9,8,8,11,11,6,,,
+UBCV,2017,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Daniel Jaramillo Calderon;Marina Adshade;Uyseok Lee,250,70.972,15.161884678,99.0,16.0,,,,,,,,,,,17,17,18,18,21,26,25,19,32,29,28,,,
+UBCV,2017,W,ECON,101,,008,Principles of Microeconomics,Anichul Khan;Clive Chapple;Daniel Jaramillo Calderon;Uyseok Lee,254,69.779527559,15.91748157,97.0,0.0,,,,,,,,,,,14,26,17,24,20,26,27,23,33,22,22,,,
+UBCV,2017,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Malika Garoui;Malika Sarah Garoui,118,70.008474576,16.431934596,96.0,0.0,,,,,,,,,,,11,6,5,10,14,14,10,10,18,7,13,,,
+UBCV,2017,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Malika Garoui;Malika Sarah Garoui,116,70.594827586,16.710308429,98.0,0.0,,,,,,,,,,,5,7,13,9,10,14,11,10,14,7,16,,,
+UBCV,2017,W,ECON,345,,001,Money and Banking,Anichul Khan;Matthew Mcgreer,148,71.743243243,14.024333383,99.0,35.0,,,,,,,,,,,8,9,15,10,9,15,14,16,24,17,11,,,
+UBCV,2017,W,ECON,345,,004,Money and Banking,Anichul Khan;Nadhanael Gemaliel Vimala,65,69.353846154,14.524150975,98.0,24.0,,,,,,,,,,,5,2,10,3,8,8,5,2,12,8,2,,,
+UBCV,2018,S,ECON,102,,925,Principles of Macroeconomics,Anichul Khan;Malika Garoui;Malika Sarah Garoui;Uyseok Lee,126,74.825396825,14.165919308,98.0,36.0,,,,,,,,,,,9,3,10,3,5,9,16,18,18,21,14,,,
+UBCV,2018,S,ECON,456,,952,International Macroeconomics and Finance,Anichul Khan;Nicolas Franz Pattillo,76,74.0,11.182128599,98.0,50.0,,,,,,,,,,,0,2,9,4,9,6,7,13,11,11,4,,,
+UBCV,2018,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Grant Benjamin;Shaoxiong Wang,251,75.470119522,11.70410627,99.0,26.0,,,,,,,,,,,4,5,17,16,20,24,30,34,43,28,30,,,
+UBCV,2018,W,ECON,101,,008,Principles of Microeconomics,Anichul Khan;Doga Bilgin;Sandra Buzinsky;Shaoxiong Wang,251,73.629482072,16.341180108,100.0,0.0,,,,,,,,,,,16,22,9,15,20,19,26,18,26,36,44,,,
+UBCV,2018,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Sydney Larose,118,73.983050847,16.145695121,99.0,13.0,,,,,,,,,,,8,4,8,8,8,12,7,11,16,16,20,,,
+UBCV,2018,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Sydney Larose,113,75.566371681,15.330802389,100.0,10.0,,,,,,,,,,,5,3,10,4,9,11,5,16,12,15,23,,,
+UBCV,2018,W,ECON,345,,001,Money and Banking,Anichul Khan;Qirui Cao,144,71.576388889,13.338298536,95.0,9.0,,,,,,,,,,,4,8,11,15,13,16,17,16,23,9,12,,,
+UBCV,2018,W,ECON,345,,005,Money and Banking,Ali Adibnia;Anichul Khan,152,76.546052632,12.854683902,98.0,42.0,,,,,,,,,,,4,4,6,12,16,12,13,8,24,25,28,,,
+UBCV,2019,S,ECON,102,,925,Principles of Macroeconomics,Anichul Khan;Anubhav Jha;Deivis Angeli;Gabriel Brown;Gabriel Moagi Brown,126,72.825396825,18.016916213,100.0,0.0,,,,,,,,,,,10,8,8,12,6,10,15,6,15,8,28,,,
+UBCV,2019,S,ECON,456,,952,International Macroeconomics and Finance,Anand Chopra;Anichul Khan,72,76.430555556,11.00169819,96.0,55.0,,,,,,,,,,,0,0,7,4,7,6,11,4,13,11,9,,,
+UBCV,2019,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Lius Alvaro Armando Alvarez Calderon;Shayla Gomes,239,80.138075314,13.007503251,98.0,0.0,,,,,,,,,,,4,4,10,7,6,22,18,27,40,41,60,,,
+UBCV,2019,W,ECON,101,,008,Principles of Microeconomics,Anichul Khan;Duncan Whyte;Shayla Gomes,246,79.975609756,10.870640793,100.0,43.0,,,,,,,,,,,1,3,9,6,16,23,18,26,44,51,49,,,
+UBCV,2019,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Carlos Archer Perez Cavero;Viktoriya Hnatkovska,110,67.290909091,14.31131294,98.0,33.0,,,,,,,,,,,8,11,16,13,12,8,8,8,11,7,8,,,
+UBCV,2019,W,ECON,102,,001,Principles of Macroeconomics,Adam Hussein;Anichul Khan;Brian Copeland;Deivis Angeli;Lipeng Li,273,79.421245421,14.773355982,98.0,0.0,,,,,,,,,,,5,4,5,12,10,27,23,34,39,48,66,,,
+UBCV,2019,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Emrul Hasan;Jordan Hutchings,102,73.441176471,13.627704404,96.0,4.0,,,,,,,,,,,5,1,6,8,10,10,11,21,12,7,11,,,
+UBCV,2019,W,ECON,345,,001,Money and Banking,Ali Adibnia;Anichul Khan,150,76.973333333,14.828752529,100.0,0.0,,,,,,,,,,,7,3,7,6,12,10,18,12,16,31,28,,,
+UBCV,2019,W,ECON,345,,005,Money and Banking,Ali Adibnia;Anichul Khan,149,84.805369128,8.642038871,99.0,52.0,,,,,,,,,,,0,1,0,3,4,1,10,19,33,26,52,,,
+UBCV,2020,S,ECON,102,,925,Principles of Macroeconomics,Ali Adibnia;Anichul Khan;Taha Mohebbi;Tsengunn Enkhbaatar;Tsenguun Enkhbaatar,272,71.106617647,16.222610535,99.0,26.0,,,,,,,,,,,23,23,18,26,19,23,28,18,26,23,45,,,
+UBCV,2020,S,ECON,456,,952,International Macroeconomics and Finance,Anichul Khan;Xiaojun Guan,172,74.918604651,12.842924296,97.0,20.0,,,,,,,,,,,7,7,7,4,13,8,25,36,31,17,17,,,
+UBCV,2020,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Clive Chapple;Jordan Bartsch;Marcelo Sacchi De Carvalho;Sartaj Dale,236,74.601694915,15.175366282,99.0,0.0,,,,,,,,,,,8,10,10,15,17,21,33,30,37,18,37,,,
+UBCV,2020,W,ECON,101,,009,Principles of Microeconomics,Anichul Khan;Clive Chapple;Marcelo Sacchi De Carvalho;Nandita Kumar;Sergei Severinov;Yifei Yang,221,72.570135747,14.060932805,99.0,10.0,,,,,,,,,,,4,20,16,15,17,26,15,27,38,20,23,,,
+UBCV,2020,W,ECON,101,,010,Principles of Microeconomics,Ali Karimirad;Anichul Khan;Clive Chapple;Erwann Sbai;Patrick Francois;Qianli Ma,117,67.025641026,13.503806321,94.0,0.0,,,,,,,,,,,6,10,11,19,12,19,9,10,15,2,4,,,
+UBCV,2020,W,ECON,101,,015,Principles of Microeconomics,Albert Kho;Anichul Khan;Sartaj Dale,217,72.304147465,19.259428459,100.0,0.0,,,,,,,,,,,23,14,11,10,15,13,25,17,27,19,43,,,
+UBCV,2020,W,ECON,102,,001,Principles of Macroeconomics,Ali Adibnia;Anichul Khan;Emma Keil-Vine;Kozo Ueda,229,68.982532751,18.647459981,100.0,0.0,,,,,,,,,,,20,22,18,18,19,21,17,23,25,22,24,,,
+UBCV,2020,W,ECON,345,,001,Money and Banking,Anichul Khan;Xiaojun Guan,145,72.765517241,11.920461979,97.0,33.0,,,,,,,,,,,2,9,10,11,8,23,18,20,20,12,12,,,
+UBCV,2020,W,ECON,345,,005,Money and Banking,Ali Adibnia;Anichul Khan;Geoffrey Newman,97,82.587628866,11.939738078,100.0,37.0,,,,,,,,,,,2,0,2,3,5,4,7,8,21,12,33,,,
+UBCV,2021,S,ECON,102,,925,Principles of Macroeconomics,Anichul Khan;Mahdi Ebrahimikahou;Qianli Ma;Wai-Ching Alfred Kong,165,67.757575758,12.66459994,97.0,31.0,,,,,,,,,,,4,22,19,14,19,18,26,13,15,9,6,,,
+UBCV,2021,S,ECON,345,,922,Money and Banking,Anichul Khan;Joshua Catalano;Sebastian Gomez Cardona,179,74.100558659,12.842212248,97.0,33.0,,,,,,,,,,,6,13,7,11,10,19,18,25,29,24,17,,,
+UBCV,2021,S,ECON,456,,952,International Macroeconomics and Finance,Anichul Khan;Xiaojun Guan,111,70.27027027,16.928161553,99.0,0.0,,,,,,,,,,,8,8,6,10,9,12,11,13,12,13,9,,,
+UBCV,2021,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Izere-M�Lyne Nzabonimpa;Ke Xu;Marina Adshade;Rebecca Frost,232,71.323275862,10.241405289,94.0,18.0,,,,,,,,,,,8,7,9,15,28,43,37,42,27,14,2,,,
+UBCV,2021,W,ECON,101,,009,Principles of Microeconomics,Anichul Khan;Keith Kirchner;Noor Kumar;Peifan Wu,236,68.491525424,17.711996542,100.0,0.0,,,,,,,,,,,31,15,24,15,22,19,21,20,20,22,27,,,
+UBCV,2021,W,ECON,101,,015,Principles of Microeconomics,Anichul Khan;Cassidy Rheaume;Lea Assadourian,224,67.473214286,20.969959218,100.0,0.0,,,,,,,,,,,32,19,16,12,22,17,21,7,29,16,33,,,
+UBCV,2021,W,ECON,345,,001,Money and Banking,Anichul Khan;Vibhu Pratyush,146,71.705479452,16.265965232,98.0,20.0,,,,,,,,,,,11,9,15,7,10,11,11,14,24,17,17,,,
+UBCV,2021,W,ECON,345,,004,Money and Banking,Anichul Khan;Xiaojun Guan,140,78.407142857,18.639285668,100.0,0.0,,,,,,,,,,,9,2,3,3,6,10,8,15,22,23,39,,,
+UBCV,2021,W,PPGA,500,A,001,Economics for Policy,Anichul Khan;Tatiana Zarate Barrera;Xiaojun Guan,55,80.145454545,10.629132193,98.0,60.0,,,,,,,,,,,0,0,0,4,0,10,7,5,9,6,14,,,
+UBCV,2021,W,PPGA,500,B,001,Economics for Policy,Anichul Khan;Khadija Anjum;Tatiana Zarate Barrera;Xiaojun Guan,19,83.052631579,7.106129469,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,3,7,3,4,,,
+UBCV,2021,S,ECON,345,,922,Money and Banking,Anichul Khan,179,74.1,,97.0,33.0,,,,,,,,,,,6,13,7,11,10,19,18,25,29,24,17,77.0,84.0,67.0
+UBCV,2021,S,ECON,456,,952,International Macroeconomics and Finance,Anichul Khan,111,70.4,,99.0,0.0,,,,,,,,,,,8,8,6,9,9,12,11,14,12,13,9,73.0,82.0,61.5
+UBCV,2021,W,ECON,101,,009,Principles of Microeconomics,Anichul Khan,236,68.6,,100.0,0.0,,,,,,,,,,,30,15,24,16,22,19,21,20,20,22,27,69.5,81.0,57.0
+UBCV,2021,W,ECON,101,,015,Principles of Microeconomics,Anichul Khan,223,67.9,,100.0,0.0,,,,,,,,,,,30,20,16,12,22,17,21,7,29,16,33,70.0,83.0,57.0
+UBCV,2021,W,ECON,345,,001,Money and Banking,Anichul Khan,146,71.7,,98.0,20.0,,,,,,,,,,,11,9,15,7,10,11,11,14,24,17,17,75.0,84.0,60.5
+UBCV,2021,W,ECON,345,,004,Money and Banking,Anichul Khan,138,79.8,,100.0,23.0,,,,,,,,,,,7,,,,6,10,8,15,22,23,39,83.0,90.0,73.3
+UBCV,2021,W,PPGA,500,A,001,Economics for Policy,Anichul Khan,55,80.1,,98.0,60.0,,,,,,,,,,,,,,,,10,7,,9,6,14,80.0,89.5,71.5
+UBCV,2021,W,PPGA,500,B,001,Economics for Policy,Anichul Khan,19,83.1,,96.0,71.0,,,,,,,,,,,,,,,,,,,7,,,82.0,87.0,79.0
+UBCV,2022,S,ECON,101,,922,Principles of Microeconomics,Anichul Khan,155,68.9,,99.0,0.0,,,,,,,,,,,23,11,11,9,11,7,11,15,16,19,22,73.0,85.5,57.5
+UBCV,2022,S,ECON,102,,925,Principles of Macroeconomics,Anichul Khan,121,68.8,,100.0,0.0,,,,,,,,,,,13,8,9,12,13,10,7,9,9,14,17,70.0,85.0,60.0
+UBCV,2022,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan,239,69.3,,98.0,27.0,,,,,,,,,,,18,25,23,16,22,23,18,31,21,21,21,71.0,80.0,58.0
+UBCV,2022,W,ECON,101,,009,Principles of Microeconomics,Anichul Khan,233,68.7,,99.0,0.0,,,,,,,,,,,10,30,13,22,26,29,26,25,17,23,12,69.0,79.0,60.0
+UBCV,2022,W,ECON,101,,015,Principles of Microeconomics,Anichul Khan,228,68.6,,98.0,0.0,,,,,,,,,,,20,21,19,20,20,21,23,17,22,22,23,70.5,81.3,59.0
+UBCV,2022,W,ECON,102,,005,Principles of Macroeconomics,Anichul Khan,232,68.4,,98.0,0.0,,,,,,,,,,,23,26,21,17,19,16,19,20,25,20,26,70.0,83.0,56.8
+UBCV,2022,W,ECON,345,,001,Money and Banking,Anichul Khan,141,69.3,,99.0,22.0,,,,,,,,,,,11,15,13,10,14,10,12,18,13,10,15,71.0,81.0,59.0
+UBCV,2022,W,ECON,345,,004,Money and Banking,Anichul Khan,141,73.3,,100.0,15.0,,,,,,,,,,,5,11,6,13,10,19,10,17,12,13,25,73.0,85.0,64.0
+UBCV,2023,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan,98,68.2,,99.0,0.0,,,,,,,,,,,11,7,10,9,8,6,9,10,8,3,15,70.5,81.0,57.8
+UBCV,2023,W,ECON,102,,011,Principles of Macroeconomics,Anichul Khan,92,68.8,,100.0,0.0,,,,,,,,,,,11,10,5,7,7,8,9,6,6,10,13,70.0,84.3,56.8
+UBCV,2023,W,ECON,345,,001,Money and Banking,Anichul Khan,148,75.5,,98.0,18.0,,,,,,,,,,,6,7,8,7,9,14,14,10,21,20,29,78.0,88.0,66.0
+UBCV,2023,W,ECON,345,,002,Money and Banking,Anichul Khan,104,78.7,,100.0,15.0,,,,,,,,,,,3,3,3,7,2,8,8,13,14,16,24,80.0,89.0,71.0
+UBCV,2023,W,ECON,345,,003,Money and Banking,Anichul Khan,150,73.6,,98.0,13.0,,,,,,,,,,,12,7,14,8,6,8,9,15,18,26,24,78.0,87.0,61.0
+UBCV,2023,W,ECON,345,,004,Money and Banking,Anichul Khan,136,73.2,,100.0,33.0,,,,,,,,,,,11,10,4,11,9,7,15,8,14,23,20,75.0,87.0,63.0
+UBCV,2023,W,ECON,356,,001,Introduction to International Finance,Anichul Khan,107,70.3,,100.0,11.0,,,,,,,,,,,8,9,7,5,11,6,12,9,11,16,10,73.0,83.5,61.0
+UBCV,2023,W,ECON,356,,003,Introduction to International Finance,Anichul Khan,149,72.7,,100.0,0.0,,,,,,,,,,,13,4,11,8,12,11,10,12,10,26,28,77.0,88.0,64.0

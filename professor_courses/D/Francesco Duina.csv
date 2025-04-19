@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,SOCI,440,A,002,ECONMC SOCIOLOGY,"Duina, Francesco",35,75.26,9.48,90,43,33,2,0,0,0,0,0,0,0,2,2,0,0,0,1,3,12,8,2,5,2
+UBC,2014,W,SOCI,440,A,002,ECONMC SOCIOLOGY,"Duina, Francesco",33,75.25,12.68,89,21,31,1,0,1,0,0,0,1,0,0,1,0,0,0,7,2,4,4,6,8,0
+UBC,2014,W,SOCI,440,A,003,ECONMC SOCIOLOGY,"Duina, Francesco",27,80.04,10.94,95,49,25,1,1,0,0,0,0,0,0,1,1,0,0,0,1,4,3,3,5,3,6
+UBCV,2014,W,SOCI,440,A,002,Economic Sociology,Francesco Duina,32,75.25,12.68222022,89.0,21.0,,,,,,,,,,,,,,,7,,,,6,8,0
+UBCV,2014,W,SOCI,440,A,003,Economic Sociology,Francesco Duina,26,80.03846154,10.94159319,95.0,49.0,,,,,,,,,,,,,,,1,,,,5,3,6

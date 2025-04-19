@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,MECH,410,M,201,SPECIAL TOPICS,"Chiao, Mu",10,74,14.86,92,42,8,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,2,2,1,1
+UBC,2005,W,MECH,360,,201,MECH MATERIALS,"Chiao, Mu",79,73.37,12.61,98,40,77,2,0,0,0,0,0,0,0,2,2,7,0,6,7,9,13,5,17,2,11
+UBC,2005,W,MECH,422,,101,INTRO TO MEMS,"Chiao, Mu",26,87.42,6.61,95,71,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,3,14
+UBC,2005,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",15,81.73,5.3,90,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,4,2
+UBC,2006,W,MECH,360,,201,MECH MATERIALS,"Chiao, Mu",95,71.83,11.73,94,40,90,4,0,0,1,0,0,0,0,4,4,2,8,6,8,19,13,7,11,10,6
+UBC,2006,W,MECH,422,,101,INTRO TO MEMS,"Chiao, Mu",9,79.75,10.55,92,61,8,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,2
+UBC,2006,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",9,87.88,4.91,95,80,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5
+UBC,2007,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",69,70.18,14.62,92,33,62,6,0,0,1,0,0,0,2,4,6,6,5,3,2,8,9,6,12,8,3
+UBC,2007,W,MECH,422,,201,INTRO TO MEMS,"Chiao, Mu",34,76.44,8.86,92,63,34,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,4,5,1,8,3
+UBC,2007,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",12,84,3.38,93,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,1
+UBC,2009,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",87,64.46,16.05,100,32,70,13,0,2,2,0,0,0,4,9,13,10,5,15,3,7,10,1,11,2,6
+UBC,2009,W,MECH,422,,201,INTRO TO MEMS,"Chiao, Mu",40,85.87,6.49,96,68,38,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,4,9,5,18
+UBC,2011,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",111,61.44,14.96,100,25,88,20,2,0,1,0,0,1,6,13,20,14,14,11,13,8,9,6,8,1,4
+UBC,2011,W,MECH,410,M,201,SPECIAL TOPICS,"Chiao, Mu",12,86,6.28,94,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,5
+UBC,2012,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",132,66.15,16.18,100,0,112,17,1,2,0,1,0,0,3,13,17,12,11,15,11,11,12,12,12,5,11
+UBC,2012,W,MECH,410,M,101,SPECIAL TOPICS,"Chiao, Mu",10,80,20.77,95,22,9,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,3,4,2
+UBC,2013,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",120,69.06,17.14,100,23,108,8,1,2,1,0,0,3,4,1,8,11,13,13,9,10,13,5,8,10,16
+UBC,2013,W,MECH,555,,101,MICROELECTROMECH,"Chiao, Mu",11,90.7,4.76,100,81,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8
+UBC,2014,W,MECH,360,,101,MECH MATERIALS,"Chiao, Mu",104,70.25,16.65,99,23,95,9,0,0,0,0,0,3,6,0,9,0,6,17,13,7,10,7,18,6,11
+UBC,2014,W,MECH,555,,101,MICROELECTROMECH,"Chiao, Mu",20,91.32,6.03,99,80,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,14
+UBC,2015,W,MECH,368,,101,MSRMNTS&INSTRMNT,"Chiao, Mu",98,73.87,8.87,98,18,96,1,1,0,0,0,1,0,0,0,1,0,1,4,4,27,22,14,16,5,3
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2015,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",19,82.32,7.7,99,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,4,7,2
+UBC,2016,W,BMEG,500,,101,CLINICAL ORIENTA,"Chiao, Mu;Cripton, Peter",17,93.76,3.05,98,87,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15
+UBC,2016,W,MECH,368,,101,MSRMNTS&INSTRMNT,"Chiao, Mu",85,74.92,9.09,99,52,84,0,0,0,1,0,0,0,0,0,0,3,1,4,4,18,15,10,20,5,4
+UBC,2016,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",8,82.75,8.05,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+UBC,2016,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",55,86.25,5.69,97,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,14,18,19
+UBC,2016,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",22,85.64,6.16,92,74,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,2,12
+UBC,2016,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",9,84.33,3.54,90,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1
+UBC,2016,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",8,86.38,5.53,97,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3
+UBC,2017,W,MECH,368,,101,MSRMNTS&INSTRMNT,"Chiao, Mu",103,78.06,10.17,98,51,103,0,0,0,0,0,0,0,0,0,0,3,0,6,7,10,18,9,20,12,18
+UBC,2018,W,MECH,368,,101,MSRMNTS&INSTRMNT,"Chiao, Mu",82,75.7,7.41,92,57,82,0,0,0,0,0,0,0,0,0,0,0,1,4,6,11,20,12,15,11,2
+UBC,2018,W,MECH,454,,001,THRMOFLDS CAPSTN,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",9,83.89,7.42,92,72,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,1
+UBC,2018,W,MECH,457,,001,DESIGN PROJECT,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",82,85.17,5.26,96,73,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,21,29,20
+UBC,2018,W,MECH,458,,001,MECHTRON DSN PRJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",23,85.18,5.16,96,77,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,4
+UBC,2018,W,MECH,459,,001,BIOMED DSGN PROJ,"Chiao, Mu;Cripton, Peter;Fengler, Markus;Grecov, Dana;Hodgson, Antony;Mikkelsen, Jon;Van der Loos, Hendrik;Winkelman, Paul",10,85.8,4.96,93,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4
+UBC,2018,W,MECH,555,,201,MICROELECTROMECH,"Chiao, Mu",12,85.92,5.23,95,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,3

@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LLED,478,,201,INTRO TO ESL,"Fouladi, Dianne",33,84.94,4.33,91,74,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,20,3
+UBC,2002,W,LLED,478,A,001,INTRO TO ESL,"Fouladi, Dianne",4,89.25,5.38,95,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBC,2002,W,LLED,478,C,003,INTRO TO ESL,"Fouladi, Dianne",21,85.33,9.06,92,50,21,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,10,7
+UBC,2003,W,LLED,478,C,61A,INTRO TO ESL,"Fouladi, Dianne",24,87.75,4.07,94,81,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,5,12
+UBC,2005,W,LLED,315,A,301,Inst Eng 2nd Lng,"Fouladi, Dianne",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,LLED,478,C,004,INTRO TO ESL,"Fouladi, Dianne;SLATER, TAMMY JAYNE",21,82.85,6.03,92,73,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,5,3
+UBC,2005,W,LLED,478,C,207,INTRO TO ESL,"Fouladi, Dianne",16,86.6,4.31,94,80,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,5
+UBC,2006,W,LLED,478,C,004,INTRO TO ESL,"Fouladi, Dianne",23,84.67,5.42,93,72,21,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,5,5
+UBC,2006,W,LLED,478,C,207,INTRO TO ESL,"Fouladi, Dianne",16,86.56,4.55,94,77,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,5
+UBC,2007,W,LLED,315,A,301,Inst Eng 2nd Lng,"Fouladi, Dianne",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,LLED,399,,004,TESL PRACTICUM,"Fouladi, Dianne",21,,,,,0,0,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,LLED,478,C,004,INTRO TO ESL,"Fouladi, Dianne",31,84.67,5.21,95,76,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,5,8
+UBC,2009,S,LLED,399,,96A,TESL PRACTICUM,"Fouladi, Dianne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,LLED,478,C,96A,INTRO TO ESL,"Fouladi, Dianne",14,89.57,2.14,94,86,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,7
+UBC,2009,W,LLED,399,,004,TESL PRACTICUM,"Fouladi, Dianne",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,LLED,478,A,61A,INTRO TO ESL,"Fouladi, Dianne",19,88.32,2.91,92,80,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,6
+UBC,2009,W,LLED,478,B,001,INTRO TO ESL,"Fouladi, Dianne",10,80.8,5.73,90,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,1
+UBC,2009,W,LLED,478,C,004,INTRO TO ESL,"Fouladi, Dianne",22,85.19,4.51,90,72,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,14,1
+UBC,2010,S,LLED,399,,96A,TESL PRACTICUM,"Fouladi, Dianne",22,,,,,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,LLED,478,C,96A,INTRO TO ESL,"Fouladi, Dianne",22,89.23,2.43,93,84,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,11
+UBC,2010,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,LLED,478,A,001,INTRO TO ESL,"Fouladi, Dianne",36,83.86,7.24,94,68,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,10,10,9
+UBC,2010,W,LLED,478,B,001,INTRO TO ESL,"Fouladi, Dianne",31,86.58,4.45,92,77,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,10,11
+UBC,2011,S,LLED,399,,96A,TESL PRACTICUM,"Fouladi, Dianne",15,,,,,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,LLED,478,C,96A,INTRO TO ESL,"Fouladi, Dianne",15,88.86,2.71,93,84,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,5
+UBC,2011,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,LLED,478,A,001,INTRO TO TESL,"Fouladi, Dianne",29,84.36,13.58,91,17,27,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,5,14,7
+UBC,2011,W,LLED,478,B,001,INTRO TO TESL,"Fouladi, Dianne",23,87.09,3.92,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,7
+UBC,2012,S,LLED,478,C,953,INTRO TO TESL,"Fouladi, Dianne",13,86.92,4.31,93,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,5
+UBC,2012,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,LLED,478,A,001,INTRO TO TESL,"Fouladi, Dianne",35,86.71,4.09,93,77,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,16,10
+UBC,2012,W,LLED,478,B,001,INTRO TO TESL,"Fouladi, Dianne",26,86.46,4.84,93,77,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,7,10
+UBC,2013,S,LLED,478,A,953,INTRO TO TESL,"Fouladi, Dianne",29,89.59,3.39,93,84,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,17
+UBC,2013,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,LLED,478,A,001,INTRO TO TESL,"Fouladi, Dianne",22,87.09,4.72,92,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,11,7
+UBC,2013,W,LLED,478,B,002,INTRO TO TESL,"Fouladi, Dianne",21,88.38,3.53,93,80,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,10
+UBC,2013,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",26,88.16,4.75,95,78,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,13
+UBC,2014,S,LLED,478,A,951,INTRO TO TESL,"Fouladi, Dianne",26,87.44,3.94,92,79,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,14,7
+UBC,2014,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,LLED,478,A,001,INTRO TO TESL,"Fouladi, Dianne",27,87.92,2.81,93,80,25,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,8
+UBC,2014,W,LLED,478,B,002,INTRO TO TESL,"Fouladi, Dianne",20,87,3.92,94,80,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,11,4
+UBC,2014,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",28,87.36,3.58,92,76,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,18,7
+UBC,2015,S,LLED,478,A,951,INTRO TO TESL,"Fouladi, Dianne",25,87.16,4.74,94,76,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,9,9
+UBC,2015,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",26,86.96,3.91,93,76,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,13,7
+UBC,2016,S,LLED,478,A,951,INTRO TO TESL,"Fouladi, Dianne",29,88.48,2.72,95,81,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,10
+UBC,2016,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",15,89.2,4.09,94,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8
+UBC,2017,S,LLED,478,A,951,INTRO TO TESL,"Fouladi, Dianne",26,85.31,17.78,94,0,25,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,10,12
+UBC,2017,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",21,85.67,5.79,95,71,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,7,6
+UBC,2018,W,LLED,399,,002,TESL PRACTICUM,"Fouladi, Dianne",25,,,,,0,0,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,478,C,001,INTRO TO TESL,"Fouladi, Dianne",16,88.44,4.1,95,80,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,7
+UBCV,2014,S,LLED,478,A,951,Introduction to Teaching English as a Second Language,Dianne Fouladi,25,87.44,3.937850513,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,14,7
+UBCV,2014,W,LLED,478,A,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,25,87.92,2.812472222,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,14,8
+UBCV,2014,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Dianne Fouladi,20,87.0,3.920257779,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,11,4
+UBCV,2014,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,28,87.35714286,3.581994951,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,18,7
+UBCV,2015,S,LLED,478,A,951,Introduction to Teaching English as a Second Language,Dianne Fouladi,25,87.16,4.740604743,94.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,9,9
+UBCV,2015,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,25,86.96,3.910242959,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,13,7
+UBCV,2016,S,LLED,478,A,951,Introduction to Teaching English as a Second Language,Dianne Fouladi,29,88.48275862,2.720565719,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,18,10
+UBCV,2016,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,15,89.2,4.091803654,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,8
+UBCV,2017,S,LLED,478,A,951,Introduction to Teaching English as a Second Language,Dianne Fouladi,26,85.307692308,17.775869556,94.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,10,12
+UBCV,2017,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,21,85.666666667,5.790797297,95.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,5,7,6
+UBCV,2018,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,16,88.4375,4.098271994,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,7
+UBCV,2019,W,LLED,478,C,001,Introduction to Teaching English as a Second Language,Dianne Fouladi,22,90.363636364,1.528941574,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,17

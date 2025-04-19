@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil,70,68.57142857,19.12095097,100.0,15.0,13,,5,,8,5,,7,9,9,8,,,
+UBCO,2014,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil,50,79.12,8.925176497,97.0,60.0,0,0,0,,,5,9,11,7,,11,,,
+UBCO,2014,W,ENGR,429,,201,Rehabilitation of Concrete Structures,Ahmad Rteil,43,81.09302326,7.930693699,94.0,61.0,0,0,0,,,,,6,10,14,5,,,
+UBCO,2015,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Nursafarina Ahmad;Salamah Meherier;Trevor Billows,84,65.630952381,22.566517346,100.0,0.0,20,,,,7,9,,6,8,7,12,,,
+UBCO,2015,W,ENGR,326,,201,Structural Analysis,Ahmad Rteil;Nursafarina Ahmad;Nursafarina Bin Ahmad;Saber Moradi;Trevor Billows;Trevor N Billows,65,67.353846154,14.140401746,94.0,42.0,11,,5,,,13,,,8,6,,,,
+UBCO,2015,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;William Threlfall,33,79.060606061,11.507984712,94.0,50.0,0,,,,,,,,9,5,7,,,
+UBCO,2015,W,ENGR,429,,201,Rehabilitation of Concrete Structures,Ahmad Rteil;Caleb Goertz,23,76.652173913,8.293528121,92.0,61.0,0,0,0,,,6,,,,5,,,,
+UBCO,2016,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Devin Walline,79,65.53164557,22.30605037,100.0,16.0,22,2,1,4,6,6,6,7,6,8,11,,,
+UBCO,2016,W,ENGR,326,,001,Structural Analysis,Ahmad Rteil,18,74.72222222,19.26534699,100.0,41.0,1,2,3,1,0,0,1,1,1,1,7,,,
+UBCO,2016,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil,34,77.35294118,9.902195511,97.0,58.0,0,0,1,3,1,4,2,6,8,5,4,,,
+UBCO,2016,W,ENGR,429,,201,Rehabilitation of Concrete Structures,Ahmad Rteil;Devin Walline,22,78.27272727,9.315536527,94.0,58.0,0,0,1,0,0,4,4,3,4,2,4,,,
+UBCO,2016,W,ENGR,529,,001,Rehabilitation of Concrete Structures,Ahmad Rteil,6,66.16666667,11.99027384,87.0,50.0,0,1,0,2,1,1,0,0,0,1,0,,,
+UBCO,2017,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Devin Walline,106,66.91509434,19.465778482,96.0,10.0,19,5,5,6,11,9,7,12,11,8,13,,,
+UBCO,2017,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Devin Walline,36,75.75,12.229647816,96.0,50.0,0,2,1,4,1,5,3,5,5,3,7,,,
+UBCO,2017,W,ENGR,527,,101,Prestressed Concrete,Ahmad Rteil,10,87.1,8.62103371,100.0,72.0,0,0,0,0,0,0,1,1,1,1,6,,,
+UBCO,2019,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Dylan Kennedy;Hamid Maghzian;Md Faroque Hossain,106,66.924528302,13.896692387,98.0,33.0,10,8,13,12,11,8,7,15,9,9,4,,,
+UBCO,2019,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Arman Chowdhury;Deanna Perrin;Tanya Fraser,26,74.653846154,17.676973288,99.0,47.0,2,3,1,2,2,2,1,1,2,3,7,,,
+UBCO,2019,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil;Deanna Perrin;Nicolas Maloski,46,77.5,9.2153254,93.0,59.0,0,0,2,1,3,7,6,6,6,10,5,,,
+UBCO,2019,W,ENGR,529,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,11,80.909090909,7.674041249,92.0,68.0,0,0,0,0,0,2,0,3,1,4,1,,,
+UBCO,2020,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Md Faroque Hossain;Moustafa Mansour,94,59.478723404,20.674501839,100.0,16.0,29,11,4,2,10,8,6,4,8,6,6,,,
+UBCO,2020,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Haile Woldesellasse;Maher Al-Hawarneh;Mohammad Tiznobaik,27,78.074074074,15.399615195,96.0,33.0,1,1,1,1,2,2,1,2,4,4,8,,,
+UBCO,2020,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil;Md Rashedul Kabir,51,75.529411765,9.99470448,92.0,47.0,2,0,1,3,3,4,5,14,11,4,4,,,
+UBCO,2020,W,ENGR,529,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,8,79.75,11.486016343,92.0,60.0,0,0,0,1,0,1,1,0,2,0,3,,,
+UBCO,2021,W,APSC,261,,001,Theory of Structures,Ahmad Rteil;Lisa Leigh Tobber;Md Faroque Hossain;Moustafa Mansour,117,70.076923077,18.178783506,100.0,18.0,22,1,8,9,6,12,6,12,10,14,17,,,
+UBCO,2021,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil;Moustafa Mansour,84,67.773809524,17.972100996,98.0,24.0,20,6,2,7,4,4,6,9,4,11,11,,,
+UBCO,2021,W,ENGR,426,,101,Analysis of Indeterminate Structures,Ahmad Rteil;Jhordy Rodriguez Barriga;Mohammad Tiznobaik,22,83.5,10.622303579,97.0,60.0,0,0,0,1,0,1,4,0,5,2,9,,,
+UBCO,2021,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil;Maher Al-Hawarneh;Mohammad Tiznobaik,28,79.035714286,10.847365759,95.0,50.0,0,1,1,0,1,3,2,5,3,8,4,,,
+UBCO,2021,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil;Jhordy Rodriguez Barriga,24,77.333333333,12.695999598,94.0,47.0,1,1,0,0,3,3,1,2,4,4,5,,,
+UBCO,2021,W,ENGR,529,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,7,78.428571429,7.785823503,92.0,72.0,0,0,0,0,0,0,4,1,0,1,1,,,
+UBCO,2021,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil,84,67.8,,98.0,24.0,20,6,,7,,,6,9,,11,11,70.5,85.0,50.0
+UBCO,2021,W,ENGR,426,,101,Analysis of Indeterminate Structures,Ahmad Rteil,22,83.5,,97.0,60.0,,,,,,,,,,,9,83.5,93.5,74.8
+UBCO,2021,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil,28,79.0,,95.0,50.0,,,,,,,,,,8,,80.0,87.0,73.5
+UBCO,2021,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,24,77.3,,94.0,47.0,,,,,,,,,,,,80.0,88.0,69.5
+UBCO,2021,W,ENGR,529,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,7,78.4,,92.0,72.0,,,,,,,,,,,,74.0,81.5,74.0
+UBCO,2022,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil,107,67.6,,100.0,21.0,20,4,6,11,8,9,8,12,11,6,12,70.0,80.0,56.5
+UBCO,2022,W,ENGR,427,,101,Reinforced Concrete Design II,Ahmad Rteil,18,84.7,,93.0,70.0,0,0,0,0,0,1,1,0,3,9,4,85.5,87.8,83.5
+UBCO,2022,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,36,77.8,,92.0,60.0,0,0,0,4,4,2,3,6,6,4,7,77.5,86.3,70.8
+UBCO,2023,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil,83,63.0,,94.0,36.0,29,4,3,3,4,6,11,9,5,3,5,65.5,76.0,47.0
+UBCO,2023,W,ENGR,327,,102,Reinforced Concrete Design I,Ahmad Rteil,30,66.0,,95.0,40.0,5,3,1,3,1,4,3,5,4,0,1,69.0,76.8,52.0
+UBCO,2023,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Ahmad Rteil,34,75.2,,92.0,47.0,2,0,1,0,4,5,3,5,6,4,4,76.0,82.8,69.3
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0

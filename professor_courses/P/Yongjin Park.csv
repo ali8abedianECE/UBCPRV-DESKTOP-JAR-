@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Syed Asfar Lathif Salaudeen;Yongjin Park,12,91.833333333,4.323999271,99.0,84.0,0,0,0,0,0,0,0,0,1,2,9,,,
+UBCV,2021,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Syed Asfar Lathif Salaudeen;Yongjin Park,8,89.375,8.927285622,99.0,74.0,0,0,0,0,0,0,1,1,0,1,5,,,
+UBCV,2021,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Marco Tello Palencia;Yongjin Park,21,94.142857143,4.809217341,100.0,77.0,0,0,0,0,0,0,0,1,0,0,20,,,
+UBCV,2021,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,91.8,,99.0,84.0,,,,,,,,,,,9,92.5,93.3,89.8
+UBCV,2021,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,8,89.4,,99.0,74.0,,,,,,,,,,,,92.5,95.5,84.3
+UBCV,2021,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,21,94.2,,100.0,77.0,,,,,,,,,,,20,95.0,96.0,93.0
+UBCV,2022,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,10,93.3,,95.0,89.0,0,0,0,0,0,0,0,0,0,1,9,94.0,95.0,92.3
+UBCV,2022,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,7,93.0,,94.0,90.0,0,0,0,0,0,0,0,0,0,0,7,94.0,94.0,92.5
+UBCV,2022,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,13,92.6,,96.0,89.0,0,0,0,0,0,0,0,0,0,1,12,92.0,94.0,91.0
+UBCV,2023,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,92.09,,99.0,81.0,0,0,0,0,0,0,0,0,2,0,9,93.0,96.5,90.5
+UBCV,2023,W,GSAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,9,91.0,,99.0,70.0,0,0,0,0,0,1,0,0,0,1,5,93.0,98.5,89.0
+UBCV,2023,W,PATH,502,,001,Current Topics in Pathology Research,Kevin Bennewith;Jonathan Bush;Ramon Klein Geltink;Philipp Lange;Yongjin Park;Natalie Prystajecky;Bruce Verchere,14,89.14,,95.0,81.0,0,0,0,0,0,0,0,0,1,8,5,88.5,92.5,87.0
+UBCV,2023,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,90.1,,96.0,80.0,0,0,0,0,0,0,0,0,2,1,9,91.5,93.3,89.3

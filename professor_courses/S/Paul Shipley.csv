@@ -1,0 +1,27 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Paul Shipley,188,66.5,17.22623916,100.0,13.0,37,3,14,24,17,21,12,8,22,12,18,,,
+UBCO,2014,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Paul Shipley,162,68.02469136,18.72818006,100.0,12.0,33,1,12,24,9,16,9,9,13,12,24,,,
+UBCO,2015,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Paul Shipley,186,62.688172043,16.79509484,100.0,13.0,49,9,12,26,19,15,10,10,14,12,10,,,
+UBCO,2015,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Paul Shipley,151,65.735099338,17.491217601,100.0,15.0,36,6,15,16,9,13,12,8,8,7,21,,,
+UBCO,2015,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,73,70.684931507,19.402088026,98.0,9.0,7,6,6,,,,10,6,9,6,13,,,
+UBCO,2016,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Paul Shipley,167,69.78443114,15.03815219,100.0,6.0,20,2,12,18,15,21,18,12,20,12,17,,,
+UBCO,2016,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Paul Shipley,166,61.86746988,16.36016677,100.0,27.0,53,4,21,13,14,13,16,5,11,5,11,,,
+UBCO,2016,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,36,75.19444444,17.64866558,96.0,13.0,3,0,0,1,4,6,3,1,5,5,8,,,
+UBCO,2017,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jacky Deng;Paul Shipley;Sandra Mecklenburg,182,68.098901099,14.659339749,96.0,27.0,26,6,15,13,25,20,20,16,17,10,14,,,
+UBCO,2017,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Jacky Deng;Paul Shipley,165,68.684848485,17.302476229,100.0,34.0,31,9,13,14,14,14,10,12,14,5,29,,,
+UBCO,2017,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,70,71.242857143,14.181469553,99.0,35.0,5,2,3,10,6,6,9,7,10,6,6,,,
+UBCO,2018,S,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Leonard Lermer;Paul Shipley,31,63.870967742,15.791858526,97.0,39.0,6,4,3,6,0,5,0,1,1,1,4,,,
+UBCO,2018,S,CHEM,214,,101,Organic Chemistry for Biological Sciences II,Leonard Lermer;Paul Shipley,31,62.032258065,19.255274379,92.0,20.0,8,0,5,3,1,6,1,1,0,2,4,,,
+UBCO,2019,W,BIOC,403,,101,Enzymology,Kirsten Wolthers;Paul Shipley,55,89.927272727,10.195958795,100.0,60.0,0,0,0,1,1,2,2,3,6,8,32,,,
+UBCO,2019,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Colin Dai;Colin Zhongyi Dai;Francois Miros;Ieva Zigg;Kamal Narayana;Paul Shipley,163,78.496932515,10.895334959,100.0,28.0,2,1,3,6,13,12,22,27,31,22,24,,,
+UBCO,2019,W,CHEM,403,,101,Enzymology,Kirsten Wolthers;Paul Shipley,12,89.666666667,10.307396579,100.0,66.0,0,0,0,0,1,0,0,0,2,3,6,,,
+UBCO,2020,W,BIOC,403,,101,Enzymology,Paul Shipley,44,80.477272727,11.696727104,96.0,47.0,1,0,3,2,1,1,3,3,7,14,9,,,
+UBCO,2020,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Arantxa Da Fonseca;Binh An;Brooke Kwan;Darina Vekhova;Elinor Binson;Kadie Wert;Kamal Narayana;Marisa Aviani;Melissa Barriault;Omkar Kulkarni;Ozren Petkovic;Paige Dafoe;Paul Shipley;Scott Stussi;Vanessa White;William Filipski,185,75.383783784,12.750906053,97.0,40.0,11,1,8,7,19,18,28,15,29,21,28,,,
+UBCO,2020,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Paul Shipley;Tamara Freeman;Tamara Kunz,170,77.270588235,12.503148229,99.0,29.0,5,0,6,8,12,21,11,32,21,23,31,,,
+UBCO,2020,W,CHEM,403,,101,Enzymology,Paul Shipley,11,81.363636364,8.369859345,90.0,65.0,0,0,0,0,1,1,1,0,1,6,1,,,
+UBCO,2021,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Edward Neeland;Paul Shipley,193,69.875647668,18.506616996,100.0,19.0,37,4,9,6,15,20,19,17,18,16,32,,,
+UBCO,2021,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Kara Robinson;Paul Shipley,31,74.193548387,11.347303218,95.0,45.0,1,1,1,2,2,3,4,6,6,2,3,,,
+UBCO,2021,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland;Paul Shipley;Thomas Head,52,74.865384615,14.780788865,95.0,36.0,3,2,1,4,3,6,8,1,7,9,8,,,
+UBCO,2021,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Paul Shipley,31,74.2,,95.0,45.0,,,,,,,,6,6,,,76.0,81.5,68.0
+UBCO,2021,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,52,74.9,,95.0,36.0,,,,,,6,8,,7,9,8,75.0,86.0,67.0
+UBCO,2022,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,56,77.4,,100.0,31.0,2,1,1,4,2,5,7,8,8,5,13,78.0,87.0,71.0

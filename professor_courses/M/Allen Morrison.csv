@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,S,THTR,440,A,001,TOPICS IN THTR,"Morrison, Allen",12,83,5.36,92,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,2
+UBC,2016,S,THTR,440,A,001,TOPICS IN THTR,"Morrison, Allen",19,84.11,4.59,94,78,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,3,3
+UBC,2017,W,THTR,440,A,002,TOPICS IN THTR,"Morrison, Allen",11,83.73,3.74,90,78,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,3,1
+UBC,2018,W,THTR,230,,001,PERF STUDY I,"Morrison, Allen",28,83.64,7.57,93,61,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,6,5,7,8
+UBCV,2015,S,THTR,440,A,001,Topics in Theatre,Allen Morrison,12,83.0,5.359782899,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,5,,
+UBCV,2016,S,THTR,440,A,001,Topics in Theatre,Allen Morrison,19,84.15789474,4.462973074,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,4,3
+UBCV,2017,W,THTR,440,A,002,Topics in Theatre,Allen Morrison,11,83.727272727,3.744086246,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,3,1
+UBCV,2018,W,THTR,230,,001,Performance Study I,Allen Morrison,28,83.642857143,7.572925878,93.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,6,5,7,8
+UBCV,2019,W,THTR,211,,001,Drama: Forms and Ideas II,Allen Morrison;Colleen Lanki;Hanyang Harry Jiang;Hanyang Jiang;Kirsty Johnston;Marios Kallos,63,78.80952381,16.300462237,97.0,14.0,,,,,,,,,,,3,0,1,0,3,3,5,5,20,10,13
+UBCV,2019,W,THTR,230,,001,Performance Study I,Allen Morrison;Stephen Heatley,40,85.5,6.292038111,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,9,8,9,13
+UBCV,2020,W,THTR,273,,001,Beginning Voice and Movement I,Allen Morrison;Gayle Murphy;Lauren Taylor;Lois Anderson;Michelle Olson;Sheila Langston,11,79.272727273,4.880387466,85.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,5,3,2,0
+UBCV,2020,W,THTR,472,,001,Advanced B.F.A. Acting II,Allen Morrison;Kathleen Duborg;Marlise Mccormick;Tom Scholte,13,87.0,2.828427125,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,2

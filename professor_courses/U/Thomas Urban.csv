@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,FRST,560,,201,FRST BUSN ENTERP,"Urban, Thomas",8,88.13,5.82,96,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,4,,,
+UBC,2017,W,FRST,560,,201,FRST BUSN ENTERP,"Urban, Thomas",15,84.87,3.96,91,79,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,7,3,,,
+UBCV,2016,W,FRST,560,,201,Forest Business Enterprise,Rajat Panwar;Robert Antal Kozak;Thomas Nelson Urban;Thomas Urban,8,88.125,5.817154434,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,1,4,,,
+UBCV,2017,W,FRST,560,,201,Forest Business Enterprise,Robert Antal Kozak;Thomas Nelson Urban;Thomas Urban,15,84.866666667,3.961721607,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,7,3,,,
+UBCV,2019,W,FCOR,502,,201,Entrepreneurship,Thomas Urban,32,86.15625,5.400772794,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,13,5,11,,,
+UBCV,2020,W,FCOR,502,,201,Entrepreneurship,Thomas Urban,27,84.851851852,6.976354038,96.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,5,6,8,7,,,
+UBCV,2021,W,FCOR,502,,201,Entrepreneurship,Ramon Melser;Thomas Urban,38,86.526315789,4.892005846,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,3,11,11,13,,,
+UBCV,2021,W,FCOR,502,,201,Entrepreneurship,Thomas Urban,38,86.5,,95.0,79.0,,,,,,,,,,,,,,,,,,,11,11,13,87.5,90.0,82.0

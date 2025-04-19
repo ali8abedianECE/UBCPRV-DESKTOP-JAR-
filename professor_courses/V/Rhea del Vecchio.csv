@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,SOWK,415,,001,PRACTICUM II,"Del Vecchio, Rhea;Kruk, Edward Andrew;Lipov, Eleanor R;O'Neill, Brian",59,,,,,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,SOWK,416,,001,ADV INT SEM IN SW TH,"Del Vecchio, Rhea",13,88.62,5.01,96,79,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,7,,,
+UBC,2016,W,SOWK,442,,001,POLICY CHLD WELF,"Del Vecchio, Rhea",12,86.17,6.59,95,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,6,,,
+UBC,2017,W,SOWK,201,,001,INTR SOC WORK,"Del Vecchio, Rhea",58,77.6,12.84,97,31,54,3,1,0,0,0,0,0,2,1,3,2,0,0,2,3,9,6,15,12,5,,,
+UBC,2017,W,SOWK,315,,002,PRACTICUM I,"Del Vecchio, Rhea",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,SOWK,316,,002,INT SEM IN SW TH,"Del Vecchio, Rhea",17,93.44,4.03,99,84,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,14,,,
+UBC,2018,W,SOWK,315,,003,PRACTICUM I,"Del Vecchio, Rhea",16,,,,,0,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,SOWK,316,,003,INT SEM IN SW TH,"Del Vecchio, Rhea",16,94,3.14,100,88,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2015,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,13,88.615384615,5.008966319,96.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,2,,7,,,
+UBCV,2016,W,SOWK,442,,001,Policy and Practice in Child Welfare,Rhea Del Vecchio;T Richard Sullivan,12,86.16666667,6.589707309,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,1,6,,,
+UBCV,2017,W,SOWK,201,,001,Introduction to Social Work Practice,Andrea Johnson;Nicholas A Phillips;Rhea Del Vecchio;Tamara Miskovic,57,77.596491228,12.842256768,97.0,31.0,,,,,,,,,,,3,2,0,0,2,3,9,6,15,12,5,,,
+UBCV,2017,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,16,93.4375,4.03267901,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,14,,,
+UBCV,2018,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Moises Escueta;Rhea Del Vecchio,15,94.0,3.139608711,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2019,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,16,89.0625,6.647994685,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,0,4,11,,,
+UBCV,2020,S,SOWK,559,,943,Advanced Integrative Seminar,Barbara Lee;Eleanor R Lipov;Erika Ono;Rhea Del Vecchio,6,89.5,6.156297589,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,5,,,
+UBCV,2020,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Miu Chung Yan;Rhea Del Vecchio,17,94.588235294,2.399448466,98.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,16,,,
+UBCV,2021,S,SOWK,559,,943,Advanced Integrative Seminar,Barbara Lee;Rhea Del Vecchio,9,90.777777778,2.948634335,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,W,SOWK,305,G,001,Topics in Social Work Practice I,Darryl Gray;Marie Nightbird;Rhea Del Vecchio,56,92.196428571,8.764431513,98.0,34.0,,,,,,,,,,,1,0,0,0,0,0,1,0,0,4,50,,,
+UBCV,2021,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Miu Chung Yan;Rhea Del Vecchio,16,92.6875,3.927997794,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,13,,,
+UBCV,2021,S,SOWK,559,,943,Advanced Integrative Seminar,Rhea Del Vecchio,9,90.8,,95.0,86.0,,,,,,,,,,,,,,,,,,,,,7,91.0,92.0,90.0
+UBCV,2021,W,SOWK,305,G,001,Topics in Social Work Practice I,Rhea Del Vecchio,56,92.2,,98.0,34.0,,,,,,,,,,,,,,,,,,,,,50,94.0,96.0,91.0
+UBCV,2021,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,16,92.7,,97.0,85.0,,,,,,,,,,,,,,,,,,,,,13,93.5,96.0,90.8

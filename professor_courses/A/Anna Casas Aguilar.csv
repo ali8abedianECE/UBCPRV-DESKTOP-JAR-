@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,SPAN,221,,201,INT LIT ANALYSIS,"Casas Aguilar, Anna",30,71.63,13.33,90,30,28,2,0,0,0,0,0,0,2,0,2,0,1,2,3,1,10,4,4,2,1,,,
+UBC,2016,W,SPAN,321,,101,SPAN CIVIL&CULTR,"Casas Aguilar, Anna;Fernandez Utrera, Maria Soleda",20,75.63,6.11,86,64,19,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,6,4,1,0,,,
+UBC,2016,W,SPAN,358,,201,PEN LIT FRM 1700,"Casas Aguilar, Anna",22,77.18,5.7,91,67,22,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,10,4,0,1,,,
+UBC,2016,W,SPAN,406,,101,GENDER LIT&CULTR,"Casas Aguilar, Anna;Fernandez Utrera, Maria Soleda",9,75.25,10.42,88,55,8,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,2,2,1,0,,,
+UBC,2016,W,SPAN,550,F,201,PEN&LAT AM L&LIT,"Casas Aguilar, Anna",8,86.75,2.55,90,84,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,2,,,
+UBC,2017,W,SPAN,301,,103,ADVANCED SPAN I,"Casas Aguilar, Anna",25,74.61,8.64,88,60,23,0,1,0,0,0,0,0,0,0,0,0,0,3,2,3,3,4,5,3,0,,,
+UBC,2017,W,SPAN,530,,101,PEN LIT 18-20C,"Casas Aguilar, Anna",12,83.42,4.14,90,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,1,,,
+UBC,2018,W,SPAN,221,,102,INT HISPANIC LIT,"Casas Aguilar, Anna",28,74.37,16.59,90,0,26,1,1,0,0,1,0,0,0,0,1,0,0,1,1,5,5,2,6,5,1,,,
+UBC,2018,W,SPAN,504,,201,STD HISP CINEMA,"Casas Aguilar, Anna",7,85.14,2.48,88,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,,,
+UBCV,2016,W,SPAN,221,,201,Introduction to Literary Analysis in Spanish,Anna Casas Aguilar,30,71.63333333,13.32998521,90.0,30.0,,,,,,,,,,,2,0,1,2,3,1,10,4,4,2,1,,,
+UBCV,2016,W,SPAN,321,,101,Introduction to Spanish Civilization and Culture,Anna Casas Aguilar;Maria Soledad Fernandez Utrera,20,75.75,5.972524812,86.0,64.0,,,,,,,,,,,0,0,0,0,3,2,3,7,4,1,0,,,
+UBCV,2016,W,SPAN,358,,201,Survey of Peninsular Literature and Culture from 1700 to the Present,Anna Casas Aguilar,22,77.18181818,5.695749155,91.0,67.0,,,,,,,,,,,0,0,0,0,2,2,3,10,4,0,1,,,
+UBCV,2016,W,SPAN,406,,101,Gender Representation(s) in Hispanic Literature and Culture,Anna Casas Aguilar;Maria Soledad Fernandez Utrera,8,75.25,10.41633333,88.0,55.0,,,,,,,,,,,0,0,1,0,1,0,1,2,2,1,0,,,
+UBCV,2016,W,SPAN,550,F,201,Studies in Peninsular and Latin-American Languages and Literatures,Anna Casas Aguilar,8,86.75,2.549509757,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,2,,,
+UBCV,2017,W,SPAN,301,,103,Advanced Spanish I,Anna Casas Aguilar,24,74.916666667,8.581662283,88.0,60.0,,,,,,,,,,,0,0,0,3,2,3,3,4,6,3,0,,,
+UBCV,2017,W,SPAN,530,,101,"Peninsular Literature of the Eighteenth, Nineteenth and Twentieth Centuries",Anna Casas Aguilar,12,83.416666667,4.144181756,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,5,1,,,
+UBCV,2018,W,SPAN,221,,102,Introduction to Hispanic Literature,Anna Casas Aguilar;Xana Menendez Prendes,27,74.37037037,16.588105442,90.0,0.0,,,,,,,,,,,1,0,0,1,1,5,5,2,6,5,1,,,
+UBCV,2018,W,SPAN,504,,201,Studies in Hispanic Cinema,Anna Casas Aguilar,7,85.142857143,2.478478796,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,0,,,
+UBCV,2019,W,CTLN,301,,101,Catalan Language and Culture,Anna Casas Aguilar,8,81.75,4.464142855,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,2,0,,,
+UBCV,2019,W,SPAN,301,,102,Intermediate Spanish I,Anna Casas Aguilar,29,78.206896552,7.752323662,92.0,62.0,,,,,,,,,,,0,0,0,1,3,1,4,6,8,4,2,,,
+UBCV,2019,W,SPAN,406,,101,Breaking the Mold: Gender Representation(s) in Hispanic Literature and Culture,Anna Casas Aguilar,9,81.333333333,7.90569415,92.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,2,2,1,2,,,
+UBCV,2020,W,SPAN,301,,102,Intermediate Spanish I,Anna Casas Aguilar;Lorenia Salgado-Leos;Maria Carbonetti,33,82.363636364,4.608539504,90.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,7,13,10,2,,,
+UBCV,2020,W,SPAN,550,B,201,"Hispanic Languages, Literatures and Cultures",Anna Casas Aguilar;Tamara Mitchell,7,86.142857143,4.140393356,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,2,,,
+UBCV,2021,W,SPAN,221,,201,Introduction to Hispanic Literature,Anna Casas Aguilar,17,77.764705882,10.046948615,90.0,50.0,,,,,,,,,,,0,1,0,0,1,2,2,2,3,5,1,,,
+UBCV,2021,W,SPAN,301,,103,Intermediate Spanish I,Anna Casas Aguilar;Iris Escuer Riera,17,77.058823529,7.995862901,88.0,63.0,,,,,,,,,,,0,0,0,1,1,2,3,2,4,4,0,,,
+UBCV,2021,W,SPAN,504,C,101,Hispanic Cinema,Anna Casas Aguilar,8,87.5,3.422613872,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,3,,,
+UBCV,2021,W,SPAN,221,,201,Introduction to Hispanic Literature,Anna Casas Aguilar,17,77.8,,90.0,50.0,,,,,,,,,,,,,,,,,,,,,,81.0,85.0,74.0
+UBCV,2021,W,SPAN,301,,103,Intermediate Spanish I,Anna Casas Aguilar,17,77.1,,88.0,63.0,,,,,,,,,,,,,,,,,,,,,,78.0,83.0,72.0
+UBCV,2021,W,SPAN,504,C,101,Hispanic Cinema,Anna Casas Aguilar,8,87.5,,92.0,81.0,,,,,,,,,,,,,,,,,,,,,,87.5,90.0,86.5
+UBCV,2022,W,SPAN,301,,101,Intermediate Spanish I,Anna Casas Aguilar,43,78.2,,92.0,59.0,,,,,,,,,,,0,0,1,0,3,2,8,11,9,7,2,78.0,83.0,74.0
+UBCV,2022,W,SPAN,358,,201,Divergent Visions: Peninsular Literature and Culture since 1700,Anna Casas Aguilar,22,77.7,,93.0,55.0,,,,,,,,,,,0,0,1,0,1,3,1,7,6,2,1,78.0,82.0,75.8
+UBCV,2022,W,SPAN,404,A,201,From World to Screen: Topics in Hispanic Cinema,Anna Casas Aguilar,17,82.1,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,6,6,4,1,81.0,85.0,79.0
+UBCV,2023,S,RMST,390,,921,Barcelona,Anna Casas Aguilar,18,91.33,,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,13,92.0,94.75,88.5
+UBCV,2023,W,CTLN,101,,201,Beginners' Catalan,Anna Casas Aguilar,11,75.0,,90.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,1,3,2,2,82.0,87.75,77.0
+UBCV,2023,W,SPAN,430,A,201,Modernization and Autonomy: Topics in Peninsular Literature and Culture since the 18th Century,Anna Casas Aguilar,9,83.13,,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,5,1,86.0,87.0,82.25

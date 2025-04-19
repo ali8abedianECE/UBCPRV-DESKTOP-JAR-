@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,CHBE,376,,201,CMPT FLWSH&FLUID,"Bagherzadeh Hosseini, Seyyed A",112,82.47,10.4,100,34,108,1,0,0,3,0,0,0,1,0,1,1,2,0,2,5,13,8,32,17,28
+UBC,2015,W,CHBE,457,,101,PROC SYNTHESIS,"Bagherzadeh Hosseini, Seyyed A",53,80.81,12.15,100,54,48,0,0,5,0,0,0,0,0,0,0,1,2,1,4,5,3,1,8,10,13
+UBC,2015,W,CHBE,457,,T1A,PROC SYNTHESIS,"Bagherzadeh Hosseini, Seyyed A",4,,,,,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CHBE,376,,201,CMPT FLWSH&FLUID,"Bagherzadeh Hosseini, Seyyed A",94,86.45,7.81,100,66,92,0,0,0,2,0,0,0,0,0,0,0,0,0,1,2,6,10,21,16,36
+UBC,2017,W,CEEN,501,,001,ENRGY SYS FUNDAM,"Bagherzadeh Hosseini, Seyyed A",25,89.24,9.57,100,68,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,2,3,16
+UBC,2017,W,CHBE,351,,101,TRANS PHENMNA II,"Bagherzadeh Hosseini, Seyyed A",146,81.31,14.37,100,33,141,5,0,0,0,0,0,0,3,2,5,2,0,12,8,8,9,10,16,26,50
+UBC,2017,W,CHBE,464,,001,CHEM ENG LAB IV,"Bagherzadeh Hosseini, Seyyed A;Potvin, Gabriel",95,85.28,4.29,92,73,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,32,40,18
+UBC,2017,W,CHBE,474,,101,PROC CTRL ENG,"Bagherzadeh Hosseini, Seyyed A",66,80.33,10.66,100,57,66,0,0,0,0,0,0,0,0,0,0,0,2,3,4,5,7,8,9,16,12
+UBC,2017,W,CHBE,551,,201,THERMODYNAMICS,"Bagherzadeh Hosseini, Seyyed A",19,85.11,5.8,94,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,5,5
+UBC,2018,S,CHBE,241,,301,MASS&ENRGY BALNC,"Bagherzadeh Hosseini, Seyyed A",6,78.83,16.42,89,47,5,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,4,0
+UBC,2018,W,APPP,506,C,103,CAPSTONE PROJECT,"Bagherzadeh Hosseini, Seyyed A",24,88.96,5.44,96,76,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,15
+UBC,2018,W,CEEN,501,,201,ENRGY SYS FUNDAM,"Bagherzadeh Hosseini, Seyyed A",21,82.4,11.84,97,60,20,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,3,1,3,3,7
+UBC,2018,W,CHBE,464,,001,CHEM ENG LAB IV,"Bagherzadeh Hosseini, Seyyed A;Potvin, Gabriel",105,84.4,5.27,93,70,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,5,37,39,16
+UBC,2018,W,CHBE,474,,101,PROC CTRL ENG,"Bagherzadeh Hosseini, Seyyed A",64,82.34,13.33,100,9,63,1,0,0,0,1,0,0,0,0,1,1,0,0,1,4,6,9,15,9,18
+UBC,2018,W,CHBE,551,,201,THERMODYNAMICS,"Bagherzadeh Hosseini, Seyyed A",29,80,6.41,93,66,28,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,6,4,10,4,2

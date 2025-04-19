@@ -1,0 +1,71 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CHIN,131,,003,BASIC CHIN I 1,"Lee, Li-Jung",24,90.48,8.08,100,61,23,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,2,17,,,
+UBC,2018,W,CHIN,133,,005,BASIC CHIN I 2,"Lee, Li-Jung",23,87.48,7.54,96,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,4,11,,,
+UBC,2018,W,CHIN,133,,006,BASIC CHIN I 2,"Lee, Li-Jung",16,85.31,5.95,95,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,2,5,,,
+UBC,2018,W,CHIN,141,,002,BASIC CHIN I 1,"Lee, Li-Jung",24,84.29,10,93,55,24,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,1,9,9,,,
+UBC,2018,W,CHIN,341,,001,INT CHINESE I: 1,"Lee, Li-Jung",22,88.63,6.15,96,78,19,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2,11,,,
+UBC,2018,W,CHIN,343,,001,INT CHINESE I: 2,"Lee, Li-Jung",23,78.45,12.43,90,31,21,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,5,4,4,5,2,,,
+UBCV,2018,W,CHIN,131,,003,Basic Chinese I: Part 1 (Non-Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xiushu Li,24,89.958333333,8.301278931,100.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,3,2,17,,,
+UBCV,2018,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Chien-Ju Lin;Deyu Liu;Hsueh-Ni Chen;Jiao Jiao Han;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xinxin Wu,28,80.928571429,8.008923595,91.0,60.0,,,,,,,,,,,0,0,0,1,2,0,2,5,7,9,2,,,
+UBCV,2018,W,CHIN,133,,005,Basic Chinese I: Part 2 (Non-Heritage),Changhao Yao;Chien-Ju Lin;Jiao Jiao Han;Li-Jung Lee;Ming Zhu Lu;Qian Wang;Xinxin Wu,23,87.47826087,7.536997022,96.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,2,5,4,11,,,
+UBCV,2018,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Changhao Yao;Chien-Ju Lin;Jiao Jiao Han;Li-Jung Lee;Ming Zhu Lu;Qian Wang,16,85.3125,5.952240475,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,2,5,,,
+UBCV,2018,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Qijiang Zhao;Shuyan Lei,24,84.291666667,10.002083116,93.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,0,1,9,9,,,
+UBCV,2018,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Shuyan Lei;Siang Hu;Wayne Fan,19,75.421052632,14.12372232,95.0,28.0,,,,,,,,,,,1,0,0,0,2,2,2,4,4,2,2,,,
+UBCV,2018,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Li-Jung Lee;Qian Wang;Tianming Li,20,84.8,18.150250107,96.0,12.0,,,,,,,,,,,1,0,0,0,0,0,0,3,3,2,11,,,
+UBCV,2018,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Li-Jung Lee;Nan Zheng;Qian Wang;Tianming Li,23,78.173913043,12.21642774,90.0,31.0,,,,,,,,,,,1,0,0,0,1,0,6,4,4,5,2,,,
+UBCV,2019,S,CHIN,233,,952,Basic Chinese II: Part 2 (Non-Heritage),An-Yi Lee;Hsiang-Ning Wang;Li-Jung Lee,19,81.526315789,6.627957797,90.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,3,5,7,1,,,
+UBCV,2019,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Li-Jung Lee;Qian Wang;Ying-Hua Tsai,29,80.896551724,7.598612785,90.0,60.0,,,,,,,,,,,0,0,0,1,1,2,1,5,6,11,2,,,
+UBCV,2019,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Jingjing Yi;Li-Jung Lee;Ming Zhu Lu;Qian Wang;Xinxin Wu,12,77.166666667,12.104344324,91.0,50.0,,,,,,,,,,,0,1,0,1,0,1,1,3,2,1,2,,,
+UBCV,2019,W,CHIN,131,,010,Basic Chinese I: Part 1 (Non-Heritage),Jun Wu;Li-Jung Lee;Qian Wang;Shiyang Zhang;Xinxin Wu;Ying-Hua Tsai,26,83.038461538,10.413378968,94.0,56.0,,,,,,,,,,,0,0,2,1,0,0,0,3,4,9,7,,,
+UBCV,2019,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Jingjing Yi;Jun Wu;Li-Jung Lee;Menghan Gao;Qian Wang;Tianmu Ji;Ying-Hua Tsai,25,81.48,9.425674158,90.0,55.0,,,,,,,,,,,0,0,1,1,1,0,2,2,6,9,3,,,
+UBCV,2019,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Chien-Ju Lin;Jiaxin Wang;Li-Jung Lee;Qian Wang;Tianqi Zhao,22,79.636363636,3.761274538,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,9,9,2,0,,,
+UBCV,2019,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Menghan Gao;Qian Wang;Shuilin Wang;Tianqi Zhao;Yijun Yue,16,77.0625,12.481820113,92.0,40.0,,,,,,,,,,,1,0,1,0,0,0,1,1,11,0,1,,,
+UBCV,2019,W,CHIN,241,,002,Basic Chinese II: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Yiheng Luo;Zhang Yinglan,27,77.888888889,5.176376319,85.0,55.0,,,,,,,,,,,0,0,1,0,0,0,1,14,10,1,0,,,
+UBCV,2019,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Zhang Yinglan,18,79.277777778,4.737901689,89.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,6,8,1,0,,,
+UBCV,2019,W,CHIN,341,,001,Intermediate Chinese I: Part 1 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Qianyu Li,23,79.0,7.495453167,95.0,66.0,,,,,,,,,,,0,0,0,0,2,2,4,4,4,6,1,,,
+UBCV,2019,W,CHIN,343,,001,Intermediate Chinese I: Part 2 (Heritage),Chien-Ju Lin;Li-Jung Lee;Qian Wang;Shaoyu Xiong,18,77.333333333,8.152949665,92.0,66.0,,,,,,,,,,,0,0,0,0,3,1,4,2,4,2,2,,,
+UBCV,2020,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Li-Jung Lee;Qian Wang,21,86.095238095,5.761117616,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,8,7,,,
+UBCV,2020,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Li-Jung Lee;Ni An;Pi-Hua Lin;Qian Wang;Yijun Yue;Yudan Wang,29,86.689655172,7.955696289,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,3,2,7,14,,,
+UBCV,2020,W,CHIN,131,,006,Basic Chinese I: Part 1 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Li-Jung Lee;Ni An;Qian Wang;Xinxin Wu;Yijun Yue;Yudan Wang,28,87.357142857,7.489322205,96.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,1,3,7,14,,,
+UBCV,2020,W,CHIN,133,,006,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Jiaqi Shi;Li-Jung Lee;Ni An;Pi-Hua Lin;Qian Wang;Shiyang Zhang;Xinxin Wu;Yijun Yue;Yu Jia Sun;Yudan Wang,23,85.043478261,10.877325293,96.0,50.0,,,,,,,,,,,0,1,0,1,0,0,1,1,2,7,10,,,
+UBCV,2020,W,CHIN,133,,007,Basic Chinese I: Part 2 (Non-Heritage),Aydin Man Chun Quach;Aydin Quach;Congrui Gu;Hsueh-Ni Chen;Jiaqi Shi;Li-Jung Lee;Ni An;Qian Wang;Shiyang Zhang;Yijun Yue;Yu Jia Sun;Yudan Wang,12,86.25,7.225271307,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,3,4,,,
+UBCV,2020,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Hsiang-Ning Wang;Jiaqi Shi;Li-Jung Lee;Qian Wang;Qianyi Chen;Weijing Li,38,83.842105263,4.835266368,91.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,6,11,18,1,,,
+UBCV,2020,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Hsiang-Ning Wang;Jiaqi Shi;Li-Jung Lee;Qian Wang;Qianyi Chen;Weijing Li,26,84.230769231,7.101029178,92.0,62.0,,,,,,,,,,,0,0,0,1,1,0,0,1,8,8,7,,,
+UBCV,2020,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Connie Huang;Hsiang-Ning Wang;Jiaqi Shi;Li-Jung Lee;Qian Wang;Qianyi Chen;Qing Yuan Ma;Weijing Li;Ying-Hua Tsai,18,81.277777778,11.017662587,93.0,50.0,,,,,,,,,,,0,1,0,1,0,1,0,2,4,6,3,,,
+UBCV,2020,W,CHIN,143,,003,Basic Chinese I: Part 2 (Heritage),Connie Huang;Jiaqi Shi;Li-Jung Lee;Qian Wang;Qianyi Chen;Qing Yuan Ma;Weijing Li,20,81.6,7.570023987,90.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,3,6,7,1,,,
+UBCV,2020,W,CHIN,241,,002,Basic Chinese II: Part 1 (Heritage),Connie Huang;Li-Jung Lee;Qian Wang;Shi Yu Feng,24,82.25,7.320311231,92.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,3,7,9,2,,,
+UBCV,2020,W,CHIN,243,,001,Basic Chinese II: Part 2 (Heritage),Connie Huang;Hsiang-Ning Wang;Li-Jung Lee;Qian Wang;Shi Yu Feng;Weijing Li;Yue Ying,25,78.84,10.35487003,91.0,55.0,,,,,,,,,,,0,0,1,0,3,3,3,0,4,6,5,,,
+UBCV,2020,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Connie Huang;Hsiang-Ning Wang;Li-Jung Lee;Qian Wang;Shi Yu Feng;Weijing Li;Yue Ying,25,82.64,9.852580034,94.0,60.0,,,,,,,,,,,0,0,0,2,1,0,2,3,2,8,7,,,
+UBCV,2021,S,CHIN,131,,951,Basic Chinese I: Part 1 (Non-Heritage),Leo Shin;Li-Jung Lee;Pi-Hua Lin;Qian Wang;Qianyi Chen,19,85.105263158,6.063504092,94.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,5,8,4,,,
+UBCV,2021,S,CHIN,244,,951,Intensive Basic Chinese II (Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xintian Tang,9,85.777777778,3.270236145,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,1,,,
+UBCV,2021,S,CHIN,338,,951,Intensive Intermediate Chinese II (Non-Heritage),Li-Jung Lee;Pi-Hua Lin;Qian Wang;Xintian Tang,6,82.5,4.23083916,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,2,0,,,
+UBCV,2021,W,CHIN,131,,002,Basic Chinese I: Part 1 (Non-Heritage),Khushi Patil;Li-Jung Lee;Pi-Hua Lin;Qing Yuan Ma;Yi Chen,27,80.518518519,7.202405423,89.0,59.0,,,,,,,,,,,0,0,1,0,1,1,3,4,10,7,0,,,
+UBCV,2021,W,CHIN,141,,001,Basic Chinese I: Part 1 (Heritage),Hsiang-Ning Wang;Li-Jung Lee;Lichengkun Cai;Xiaotong Mo,24,77.666666667,18.078732802,93.0,0.0,,,,,,,,,,,1,0,0,0,2,1,1,4,4,8,3,,,
+UBCV,2021,W,CHIN,141,,003,Basic Chinese I: Part 1 (Heritage),Hsiang-Ning Wang;Li-Jung Lee;Lichengkun Cai;Xiaotong Mo,29,80.827586207,8.709883407,92.0,60.0,,,,,,,,,,,0,0,0,2,2,0,2,2,9,8,4,,,
+UBCV,2021,W,CHIN,241,,001,Basic Chinese II: Part 1 (Heritage),Chu Qing Li;Hsiang-Ning Wang;Li-Jung Lee;Shi Yu Feng,31,79.935483871,10.424124212,93.0,60.0,,,,,,,,,,,0,0,0,5,0,2,1,1,6,13,3,,,
+UBCV,2021,W,CHIN,241,,002,Basic Chinese II: Part 1 (Heritage),Chu Qing Li;Hsiang-Ning Wang;Li-Jung Lee;Shi Yu Feng;Yi Chen,23,76.0,14.05508643,94.0,28.0,,,,,,,,,,,1,1,0,0,1,3,2,6,2,6,1,,,
+UBCV,2021,W,CHIN,243,,001,Basic Chinese II: Part 2 (Heritage),Chu Qing Li;Li-Jung Lee;Shi Yu Feng;Yi Chen,26,78.5,12.024142381,91.0,36.0,,,,,,,,,,,1,1,0,0,2,0,2,3,9,7,1,,,
+UBCV,2021,W,CHIN,243,,002,Basic Chinese II: Part 2 (Heritage),Chu Qing Li;Hsiang-Ning Wang;Li-Jung Lee;Shi Yu Feng,28,74.142857143,20.2589062,93.0,15.0,,,,,,,,,,,4,1,0,0,1,0,6,2,3,4,7,,,
+UBCV,2021,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Junru Chen;Li-Jung Lee;Xintian Tang;Ying-Hua Tsai,16,81.25,7.585073061,90.0,62.0,,,,,,,,,,,0,0,0,1,0,1,1,0,9,2,2,,,
+UBCV,2021,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Junru Chen;Li-Jung Lee;Xintian Tang;Ying-Hua Tsai,23,74.739130435,18.158938173,88.0,11.0,,,,,,,,,,,2,0,0,1,1,0,1,8,4,6,0,,,
+UBCV,2021,W,CHIN,405,,001,Advanced Chinese Speaking and Writing I (Non-Heritage),Duanduan Li;Junru Chen;Li-Jung Lee,11,81.545454545,6.361817922,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,2,5,1,,,
+UBCV,2021,W,CHIN,407,,001,Advanced Chinese Speaking and Writing II (Non-Heritage),Duanduan Li;Junru Chen;Li-Jung Lee,7,77.571428571,8.978811036,85.0,62.0,,,,,,,,,,,0,0,0,1,0,1,0,0,4,1,0,,,
+UBCV,2021,S,CHIN,244,,951,Intensive Basic Chinese II (Heritage),Li-Jung Lee;Qian Wang,9,85.8,,90.0,79.0,,,,,,,,,,,,,,,,,,,,6,,86.0,87.0,85.0
+UBCV,2021,S,CHIN,338,,951,Intensive Intermediate Chinese II (Non-Heritage),Li-Jung Lee;Qian Wang,6,82.5,,88.0,77.0,,,,,,,,,,,,,,,,,,,,,,83.5,84.8,79.3
+UBCV,2021,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Li-Jung Lee,16,81.3,,90.0,62.0,,,,,,,,,,,,,,,,,,,9,,,83.0,84.8,80.0
+UBCV,2021,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Li-Jung Lee,23,74.7,,88.0,11.0,,,,,,,,,,,,,,,,,,8,,6,,79.0,84.5,76.0
+UBCV,2021,W,CHIN,405,,001,Advanced Chinese Speaking and Writing I (Non-Heritage),Li-Jung Lee,11,81.5,,90.0,70.0,,,,,,,,,,,,,,,,,,,,,,85.0,85.5,78.0
+UBCV,2021,W,CHIN,407,,001,Advanced Chinese Speaking and Writing II (Non-Heritage),Li-Jung Lee,7,77.6,,85.0,62.0,,,,,,,,,,,,,,,,,,,,,,80.0,84.0,74.0
+UBCV,2022,W,CHIN,141,,002,Basic Chinese I: Part 1 (Heritage),Li-Jung Lee,27,81.0,,90.0,60.0,,,,,,,,,,,0,0,0,1,0,0,1,9,8,7,1,83.0,85.0,77.5
+UBCV,2022,W,CHIN,143,,001,Basic Chinese I: Part 2 (Heritage),Li-Jung Lee,18,80.8,,89.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,3,7,5,0,82.0,85.5,77.0
+UBCV,2022,W,CHIN,143,,002,Basic Chinese I: Part 2 (Heritage),Li-Jung Lee,17,73.4,,86.0,40.0,,,,,,,,,,,2,0,0,1,0,0,4,5,4,1,0,77.0,81.0,74.0
+UBCV,2022,W,CHIN,331,,001,Intermediate Chinese I: Part 1 (Non-Heritage),Li-Jung Lee,13,77.7,,84.0,50.0,,,,,,,,,,,0,1,0,0,0,0,2,2,8,0,0,80.0,82.0,76.0
+UBCV,2022,W,CHIN,331,,002,Intermediate Chinese I: Part 1 (Non-Heritage),Li-Jung Lee,21,74.9,,86.0,38.0,,,,,,,,,,,1,0,0,1,4,0,1,4,7,3,0,79.0,83.0,67.0
+UBCV,2022,W,CHIN,333,,001,Intermediate Chinese I: Part 2 (Non-Heritage),Li-Jung Lee,10,81.7,,87.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,2,0,81.0,83.8,80.0
+UBCV,2022,W,CHIN,333,,002,Intermediate Chinese I: Part 2 (Non-Heritage),Li-Jung Lee,17,79.6,,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,4,8,1,0,80.0,83.0,77.0
+UBCV,2023,S,CHIN,244,,951,Intensive Basic Chinese II (Heritage),Li-Jung Lee,13,76.46,,87.0,55.0,,,,,,,,,,,0,0,1,0,0,2,2,2,4,2,0,77.0,83.0,72.0
+UBCV,2023,W,CHIN,141,,012,Basic Chinese I: Part 1 (Heritage),Li-Jung Lee,15,79.73,,91.0,62.0,,,,,,,,,,,0,0,0,1,0,2,1,3,2,4,2,80.0,87.0,74.0
+UBCV,2023,W,CHIN,143,,022,Basic Chinese I: Part 2 (Heritage),Li-Jung Lee,11,80.55,,90.0,65.0,,,,,,,,,,,0,0,0,0,1,1,1,1,3,3,1,81.0,87.0,76.5
+UBCV,2023,W,CHIN,331,,011,Intermediate Chinese I: Part 1 (Non-Heritage),Li-Jung Lee,29,78.07,,90.0,13.0,,,,,,,,,,,1,1,0,0,1,2,4,2,6,11,1,84.0,86.0,73.0
+UBCV,2023,W,CHIN,331,,012,Intermediate Chinese I: Part 1 (Non-Heritage),Li-Jung Lee,12,83.42,,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,5,1,84.0,87.0,81.0
+UBCV,2023,W,CHIN,333,,022,Intermediate Chinese I: Part 2 (Non-Heritage),Li-Jung Lee,31,79.77,,92.0,2.0,,,,,,,,,,,1,0,1,0,0,2,2,3,4,14,4,85.0,87.0,77.0

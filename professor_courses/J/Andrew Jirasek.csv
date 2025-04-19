@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,PHYS,225,,001,Intermediate Electricity and Magnetism,Andrew Jirasek,23,66.52173913,16.53060403,99.0,30.0,,,,,,,,,,,,,,
+UBCO,2014,W,PHYS,310,,001,Introduction to Medical Physics,Andrew Jirasek,22,71.90909091,11.96785015,100.0,37.0,,,,,5,,5,,,,,,,
+UBCO,2015,W,PHYS,225,,001,Intermediate Electricity and Magnetism,Andrew Jirasek;Dylan Sharhon,17,68.941176471,15.809295479,87.0,25.0,,,,,,,,,,,0,,,
+UBCO,2015,W,PHYS,310,,001,Introduction to Medical Physics,Andrew Jirasek;Deidre Batchelar;Tony Teke,10,72.3,16.076552975,93.0,41.0,,,,,,,,,,,,,,
+UBCO,2015,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek;John Braun,15,75.533333333,17.175009531,94.0,23.0,,,,,,,,,,,,,,
+UBCO,2016,W,PHYS,225,,001,Intermediate Electricity and Magnetism,Andrew Jirasek;Robert Lalonde,8,74.25,9.098665522,90.0,63.0,0,0,0,1,1,0,4,0,1,0,1,,,
+UBCO,2016,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,10,76.5,11.33578405,91.0,51.0,0,1,0,0,1,0,2,0,4,1,1,,,
+UBCO,2017,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,12,77.75,10.208062767,91.0,55.0,0,0,1,0,0,2,2,2,2,1,2,,,
+UBCO,2018,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Guhnveer Bahia,27,67.888888889,17.296805693,98.0,31.0,3,2,3,1,5,3,2,1,2,2,3,,,
+UBCO,2018,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,10,74.4,13.906033862,99.0,59.0,0,0,1,3,0,1,0,0,2,2,1,,,
+UBCO,2019,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Jason Reich,23,71.652173913,13.512985995,94.0,50.0,0,2,4,2,2,2,2,1,3,3,2,,,
+UBCO,2019,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,13,79.615384615,8.139804067,91.0,63.0,0,0,0,1,0,1,1,3,3,2,2,,,
+UBCO,2020,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Daniel Vollick,17,56.705882353,22.651613369,99.0,22.0,5,3,3,1,1,0,0,0,1,1,2,,,
+UBCO,2020,W,PHYS,420,,101,Data and Image Processing,Andrew Jirasek,13,73.538461538,12.790721798,93.0,50.0,0,1,0,1,4,1,1,0,1,3,1,,,
+UBCO,2021,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Daniel Vollick;Jakob Marshall,26,65.192307692,16.188932592,95.0,36.0,5,1,2,5,2,2,2,2,1,2,2,,,
+UBCO,2021,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek,26,65.2,,95.0,36.0,,,,,,,,,,,,64.5,77.0,55.3
+UBCO,2022,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek,19,66.1,,84.0,23.0,2,0,4,1,2,2,2,1,5,0,0,68.0,78.0,58.0
+UBCO,2022,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,10,79.6,,95.0,56.0,0,0,1,0,0,1,2,0,2,2,2,82.0,87.3,73.5

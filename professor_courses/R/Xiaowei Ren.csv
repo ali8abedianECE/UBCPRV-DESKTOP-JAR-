@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPEN,211,,101,Introduction to Microcomputers,Ahmed Eltantawy;Ahmed Mustafa;Amin Ghasemazar;Arun Kumar Marria;Ayman Mostafa;Ayub Gubran;Harshdeep Brar;Jeffrey Allen Robert Coukell;Kahlan Gibson;Robert David Evans;Robert Evans;Seyed Mehran Pesteie;Shadi Assadikhomami;Tayler Hetherington;Tor Aamodt;Xiaowei Ren,273,72.879120879,15.133597579,100.0,14.0,14,14,13,16,33,23,29,28,37,36,30
+UBCV,2016,W,CPEN,411,,101,Computer Architecture,Mieszko Lis;Mohammad Abdelfattah Ewais;Mohammad Ewais;Xiaowei Ren,62,69.37096774,16.07689909,99.0,22.0,7,5,2,5,7,5,9,2,9,4,7
+UBCV,2016,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis;Xiaowei Ren,8,87.0,6.32455532,93.0,78.0,0,0,0,0,0,0,0,1,2,1,4

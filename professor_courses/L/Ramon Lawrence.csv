@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,COSC,404,,001,Database System Implementation,Ramon Lawrence,38,70.65789474,23.96537628,98.0,0.0,,,,,,,,,,,8,,,
+UBCO,2015,W,COSC,304,,001,Introduction to Databases,Ramon Lawrence,61,75.393442623,11.203092859,96.0,45.0,,,,5,6,5,10,7,10,10,,,,
+UBCO,2015,W,COSC,404,,001,Database System Implementation,Anthony Culos;Ramon Lawrence,49,74.775510204,15.550007109,100.0,35.0,,,,,6,7,,6,6,,12,,,
+UBCO,2015,W,DATA,301,,001,Introduction to Data Analytics,Jodie Foster;Ramon Lawrence;Yi-Hsun Huang,68,78.029411765,19.701481563,97.0,0.0,5,,,,,,,8,8,11,22,,,
+UBCO,2016,S,COSC,499,,001,Capstone Software Engineering Project,Ramon Lawrence,13,81.69230769,9.60368519,95.0,65.0,0,0,0,0,1,1,3,0,2,3,3,,,
+UBCO,2016,W,COSC,304,,001,Introduction to Databases,Anthony Culos;Heath Caswell;Ramon Lawrence,85,75.70588235,13.15278671,99.0,1.0,2,2,2,4,4,9,21,11,12,8,10,,,
+UBCO,2016,W,DATA,301,,001,Introduction to Data Analytics,Heath Caswell;James Rogers;Ramon Lawrence;Shanika Rajapakshe,83,81.13253012,15.60547987,100.0,24.0,3,4,1,2,4,5,3,6,13,14,28,,,
+UBCO,2016,W,DATA,301,,101,Introduction to Data Analytics,Anthony Culos;Ramon Lawrence;Tasnuva Haque,71,79.30985916,17.27474751,100.0,30.0,7,0,0,4,1,3,3,10,11,10,22,,,
+UBCO,2016,W,DATA,501,,001,Data Analytics,Ramon Lawrence,9,88.77777778,7.18988487,97.0,77.0,0,0,0,0,0,0,0,1,2,0,6,,,
+UBCO,2016,W,DATA,501,,101,Data Analytics,Ramon Lawrence,7,90.71428571,3.773340064,96.0,87.0,0,0,0,0,0,0,0,0,0,4,3,,,
+UBCO,2017,W,COSC,301,,101,Introduction to Data Analytics,Cameron Chong;Ramon Lawrence;Robert Hill;Ryan Mcqueen;Thomas Reid,76,82.75,13.493825749,100.0,41.0,2,2,0,1,6,3,4,9,12,8,29,,,
+UBCO,2017,W,COSC,304,,001,Introduction to Databases,Heath Caswell;Joyce Epp;Ramon Lawrence,85,77.541176471,12.881837474,99.0,29.0,2,1,3,3,11,10,2,10,12,17,14,,,
+UBCO,2017,W,COSC,404,,101,Database System Implementation,Heath Caswell;Ramon Lawrence,55,81.072727273,15.397035003,100.0,15.0,2,1,2,0,2,2,6,8,9,5,18,,,
+UBCO,2017,W,DATA,301,,101,Introduction to Data Analytics,Ramon Lawrence;Robert Hill;Ryan Mcqueen;Thomas Reid,75,78.16,20.541349202,100.0,0.0,5,2,0,3,5,7,7,7,5,7,27,,,
+UBCO,2017,W,DATA,501,,101,Data Analytics,Ramon Lawrence;Robert Hill;Thomas Reid,15,92.266666667,5.993647431,99.0,76.0,0,0,0,0,0,0,0,1,0,2,12,,,
+UBCO,2018,W,COSC,304,,001,Introduction to Databases,Ali-Meysam Mohebbi;Angelina Pinchbeck;Ramon Lawrence;Shobhit Agrawal,112,80.955357143,10.759775269,97.0,45.0,1,0,2,1,11,10,11,6,20,24,26,,,
+UBCO,2018,W,DATA,530,,001,Computing Platforms for Data Science,Matthew Fritter;Ramon Lawrence,28,94.25,6.507118609,100.0,71.0,0,0,0,0,0,1,0,0,1,3,23,,,
+UBCO,2018,W,DATA,531,,001,Programming for Data Science,Matthew Fritter;Ramon Lawrence,28,93.178571429,6.939172602,100.0,73.0,0,0,0,0,0,0,1,1,1,4,21,,,
+UBCO,2018,W,DATA,540,,001,Databases and Data Retrieval,Matthew Fritter;Matthew S Fritter;Ramon Lawrence,28,89.392857143,6.255896689,100.0,76.0,0,0,0,0,0,0,0,3,2,7,16,,,
+UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.791044776,16.379530198,97.0,13.0,5,0,2,2,5,1,13,7,6,18,8,,,
+UBCO,2019,W,COSC,301,,101,Introduction to Data Analytics,Barret Jackson;Billy Spelchan;Chaoping Guo;Congsong Zhang;Irene Vrbik;Kyle Ranslam;Nusrat Momo;Ramon Lawrence;Roozbeh Eslami;Zhenyuan Ma,71,82.211267606,12.744652092,99.0,50.0,0,2,1,4,5,3,6,7,8,5,30,,,
+UBCO,2019,W,COSC,304,,001,Introduction to Databases,Chaoping Guo;Congsong Zhang;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Ramon Lawrence;Roozbeh Eslami,197,79.253807107,13.0030039,100.0,3.0,5,4,1,6,8,14,19,30,45,29,36,,,
+UBCO,2019,W,COSC,504,,001,Database System Implementation,Ramon Lawrence,6,90.5,7.893034904,100.0,78.0,0,0,0,0,0,0,0,1,0,1,4,,,
+UBCO,2019,W,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik;Ramon Lawrence,46,73.695652174,14.145073057,94.0,33.0,2,3,4,2,5,2,4,2,11,9,2,,,
+UBCO,2019,W,DATA,301,,101,Introduction to Data Analytics,Barret Jackson;Irene Vrbik;Jeffrey Andrews;Kyle Ranslam;Ramon Lawrence;Zhenyuan Ma,66,81.878787879,13.102571857,100.0,50.0,0,4,2,1,1,3,6,8,9,9,23,,,
+UBCO,2019,W,DATA,501,,001,Data Analytics,Irene Vrbik;Ramon Lawrence,17,87.117647059,8.16151298,96.0,67.0,0,0,0,0,1,0,1,2,1,3,9,,,
+UBCO,2019,W,DATA,501,,101,Data Analytics,Irene Vrbik;Ramon Lawrence,6,85.666666667,4.844240567,93.0,80.0,0,0,0,0,0,0,0,0,4,0,2,,,
+UBCO,2019,W,DATA,530,,001,Computing Platforms for Data Science,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,96.314285714,5.73314116,100.0,71.0,0,0,0,0,0,1,0,0,0,3,31,,,
+UBCO,2019,W,DATA,531,,001,Programming for Data Science,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,95.914285714,4.978609708,100.0,78.0,0,0,0,0,0,0,0,1,0,1,33,,,
+UBCO,2019,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Jeff Bulmer;Ramon Lawrence,35,91.142857143,7.042488101,99.0,68.0,0,0,0,0,0,1,0,2,4,2,26,,,
+UBCO,2020,W,COSC,304,,001,Introduction to Databases,Devon Macneil;Ramon Lawrence;Reece Walsh;Yiming Ding,180,76.661111111,12.828984245,99.0,22.0,10,1,3,5,17,12,25,26,29,28,24,,,
+UBCO,2020,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Firas Moosvi;John Graham-Knight;Ramon Lawrence,31,90.322580645,6.073917444,99.0,72.0,0,0,0,0,0,0,1,1,3,4,22,,,
+UBCO,2021,S,COSC,304,,101,Introduction to Databases,Devon Macneil;Ramon Lawrence;Tenzin Jinpa;Yiming Ding;Youry Khmelevsky,44,75.681818182,14.082436244,97.0,27.0,3,0,2,0,1,8,9,1,10,4,6,,,
+UBCO,2021,W,COSC,304,,001,Introduction to Databases,Anubhav Gupta;Biswapriyo Chakrabarty;Karanmeet Khatra;Pinku Nath;Pradeep Mahato;Ramon Lawrence;Taif Anjum;Will Mcfarland;Youry Khmelevsky,181,82.325966851,11.036245325,100.0,21.0,3,2,1,3,4,6,15,20,31,41,55,,,
+UBCO,2021,W,COSC,404,,101,Database System Implementation,Devon Macneil;Ramon Lawrence;Yiming Ding,99,79.373737374,14.472060245,100.0,33.0,4,0,5,3,7,9,12,5,14,13,27,,,
+UBCO,2021,S,COSC,304,,101,Introduction to Databases,Youry Khmelevsky;Ramon Lawrence,44,75.7,,97.0,27.0,,,,,,8,9,,10,,6,75.0,83.3,70.5
+UBCO,2021,W,COSC,304,,001,Introduction to Databases,Youry Khmelevsky;Ramon Lawrence,181,82.3,,100.0,21.0,,,,,,6,15,20,31,41,55,85.0,90.0,77.0
+UBCO,2021,W,COSC,404,,101,Database System Implementation,Ramon Lawrence,99,79.6,,100.0,41.0,,,,,7,9,12,,14,13,27,82.0,90.0,70.5
+UBCO,2022,W,COSC,304,,001,Introduction to Databases,Ramon Lawrence,208,74.4,,99.0,35.0,21,2,1,4,14,27,31,34,24,24,26,76.0,84.0,69.0
+UBCO,2022,W,COSC,404,,101,Database System Implementation,Ramon Lawrence,99,82.2,,100.0,11.0,6,0,0,1,7,5,4,9,16,18,33,85.0,91.5,76.0
+UBCO,2022,W,COSC,504,,101,Database System Implementation,Ramon Lawrence,8,86.0,,100.0,72.0,0,0,0,0,0,0,1,2,1,0,4,87.5,93.8,76.0
+UBCO,2022,W,COSC,516,,001,Special Topics in Databases,Ramon Lawrence,13,93.5,,100.0,86.0,0,0,0,0,0,0,0,0,0,3,10,94.0,97.0,90.0
+UBCO,2023,W,COSC,304,,001,Introduction to Databases,Ramon Lawrence,235,79.1,,100.0,0.0,14,0,6,2,8,17,18,37,45,38,46,81.0,88.0,74.5

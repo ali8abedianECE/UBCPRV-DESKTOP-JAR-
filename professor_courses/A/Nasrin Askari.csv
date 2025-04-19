@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,ASIA,310,A,001,STDS HIST MAJ AS,"Askari, Nasrin",29,78.68,7.42,89,64,28,0,0,1,0,0,0,0,0,0,0,0,0,0,2,5,3,4,6,8,0
+UBC,2013,W,ASIA,360,B,001,SP ASIAN LIT TRN,"Askari, Nasrin",12,80,6.8,89,70,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,3,4,0
+UBC,2013,W,ASIA,394,,001,PST-REV IRAN CIN,"Askari, Nasrin",54,77.74,9.95,95,56,53,0,1,0,0,0,0,0,0,0,0,0,3,2,5,5,4,12,7,8,7
+UBC,2014,W,ASIA,392,,001,CL PERS LIT TRNS,"Askari, Nasrin",54,77.51,9.95,91,51,53,0,1,0,0,0,0,0,0,0,0,1,3,2,2,3,7,11,12,7,5
+UBC,2014,W,ASIA,393,,001,HST IRAN SSN SFV,"Askari, Nasrin",54,81.12,10.44,94,50,51,0,1,0,0,0,0,0,0,0,0,1,1,2,3,5,3,1,5,22,8
+UBC,2014,W,ASIA,394,,001,PST-REV IRAN CIN,"Askari, Nasrin",49,79.6,7.55,92,60,48,0,1,0,0,0,0,0,0,0,0,0,0,2,0,7,3,8,14,8,6
+UBC,2016,W,ASIA,392,,002,CL PERS LIT TRNS,"Askari, Nasrin",45,83.67,5.86,91,70,42,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2,7,20,6
+UBC,2016,W,ASIA,393,,002,HST IRAN SSN SFV,"Askari, Nasrin",42,83.27,7.08,92,66,41,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,2,3,7,19,5
+UBC,2017,W,ASIA,392,,002,CL PERS LIT TRNS,"Askari, Nasrin",48,86.62,5.2,94,74,47,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,16,17
+UBC,2017,W,ASIA,393,,001,HST IRAN SSN SFV,"Askari, Nasrin",36,83.11,8.72,95,60,35,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,1,9,10,9
+UBC,2017,W,ASIA,394,,001,PST-REV IRAN CIN,"Askari, Nasrin",47,87.4,5.22,95,75,45,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,18,16
+UBCV,2014,W,ASIA,392,,001,Classical Persian Literature in English Translation,Nasrin Askari,53,77.50943396,9.949144999,91.0,51.0,,,,,,,,,,,0,,,,,,7,11,12,7,5
+UBCV,2014,W,ASIA,393,,001,History of Iran from the Sasanians to the Safavids,Nasrin Askari,53,81.1509434,10.24206302,94.0,50.0,,,,,,,,,,,0,,,,,5,,,7,22,8
+UBCV,2014,W,ASIA,394,,001,Post-Revolutionary Iranian Cinema,Nasrin Askari,48,79.60416667,7.550509588,92.0,60.0,,,,,,,,,,,0,0,0,,,7,,8,14,8,6
+UBCV,2016,W,ASIA,392,,002,Classical Persian Literature in English Translation,Nasrin Askari,43,83.41860465,6.012813929,91.0,70.0,,,,,,,,,,,0,0,0,0,0,1,7,2,7,20,6
+UBCV,2016,W,ASIA,393,,002,History of Iran from the Sasanians to the Safavids,Nasrin Askari,41,83.26829268,7.081752573,92.0,66.0,,,,,,,,,,,0,0,0,0,2,3,2,3,7,19,5
+UBCV,2017,W,ASIA,392,,002,Classical Persian Literature in English Translation,Nasrin Askari,47,86.617021277,5.198466293,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,9,16,17
+UBCV,2017,W,ASIA,393,,001,History of Iran from the Sasanians to the Safavids,Nasrin Askari,36,82.972222222,8.63377458,95.0,60.0,,,,,,,,,,,0,0,0,2,1,0,3,2,9,10,9
+UBCV,2017,W,ASIA,394,,001,Post-Revolutionary Iranian Cinema,Christina Yi;Jee-Yeon Song;Nasrin Askari,46,87.369565217,5.161217323,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,7,19,16

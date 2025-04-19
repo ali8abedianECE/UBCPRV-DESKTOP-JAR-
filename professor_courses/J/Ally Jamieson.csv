@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,SOWK,305,,001,SOWK PRACTICE I,"Clark, Natalie;Jamieson, Ally;Jones, Elizabeth",48,85.9,5.22,95,73,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,19,14
+UBC,2016,W,SOWK,305,,001,SOWK PRACTICE I,"Allison, Kelly;Charles, Grant;Jamieson, Ally;Jones, Elizabeth",44,84.5,4.72,92,70,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,15,18,6
+UBCV,2014,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Grant Charles;Natalie Clark,64,85.234375,3.732066909,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,18,34,6
+UBCV,2015,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Natalie Clark;Neringa Kubiliene,48,85.895833333,5.219601286,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,6,8,19,14
+UBCV,2016,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Grant Charles;Kelly Allison,44,84.5,4.722533809,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,4,15,18,6

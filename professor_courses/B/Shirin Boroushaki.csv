@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,MATH,100,,V02,DF CALC AP PH SC,"Boroushaki, Shirin",16,58.13,20.17,80,0,11,4,0,0,1,1,0,0,0,3,4,0,3,0,1,3,1,2,1,0,0
+UBC,2018,W,MATH,103,,212,INT CALC AP LF S,"Boroushaki, Shirin",130,72.53,10.97,96,43,126,2,1,0,1,0,0,0,0,2,2,3,11,11,12,19,16,17,18,11,8
+UBC,2018,W,MATH,190,,101,CALCULUS SURVEY,"Boroushaki, Shirin",60,65.83,19.34,97,16,50,8,1,0,1,0,2,2,0,4,8,5,6,8,3,5,4,1,7,5,6
+UBC,2018,W,MATH,215,,104,ELEM DIFF EQ I,"Boroushaki, Shirin",65,65.35,20.33,100,13,52,8,5,0,0,0,2,1,4,1,8,10,8,5,3,1,4,5,5,2,9
+UBC,2018,W,MATH,255,,104,ORD DIFF EQUTNS,"Boroushaki, Shirin",52,85.15,10.11,100,50,52,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,6,1,10,14,17
+UBCV,2014,W,MATH,101,,201,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Keqin Liu;Shirin Boroushaki,180,60.61111111,18.23110145,99.0,0.0,,,,,,,,,,,34,28,19,15,17,12,15,12,14,9,5
+UBCV,2014,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Hexi Ye;Shirin Boroushaki,59,68.69491525,15.07138673,98.0,26.0,,,,,,,,,,,6,5,,,7,6,6,7,7,,
+UBCV,2014,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Baptiste Devyver;Gregory Martin;Shirin Boroushaki,73,72.06849315,16.0868552,97.0,33.0,,,,,,,,,,,,5,11,,,5,5,,10,11,11
+UBCV,2014,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,David Carchedi;Gregory Martin;Shirin Boroushaki,82,68.75609756,15.32895346,96.0,31.0,,,,,,,,,,,8,8,8,5,7,6,11,,13,,9
+UBCV,2014,W,MATH,101,,206,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Shirin Boroushaki,202,65.45049505,16.56856776,97.0,8.0,,,,,,,,,,,24,24,17,21,15,27,16,16,17,13,12
+UBCV,2014,W,MATH,101,,207,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Alexander Belk;Gregory Martin;Shirin Boroushaki,65,62.63076923,18.22907125,98.0,0.0,,,,,,,,,,,11,8,6,5,5,6,9,5,5,,
+UBCV,2014,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Shawn Desaulniers;Shirin Boroushaki,179,65.39664805,18.52887785,95.0,16.0,,,,,,,,,,,31,13,20,6,16,18,15,11,22,17,10
+UBCV,2014,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Dang Khoa Nguyen;Gregory Martin;Shirin Boroushaki,50,66.0,21.4190455,96.0,0.0,,,,,,,,,,,8,3,,6,,2,,,10,,
+UBCV,2014,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Gregory Martin;Shirin Boroushaki,333,63.46546547,19.73810858,100.0,0.0,,,,,,,,,,,60,37,32,31,22,27,18,31,26,22,27
+UBCV,2014,W,MATH,101,,212,Integral Calculus with Applications to Physical Sciences and Engineering,Anna Barry;Gregory Martin;Shirin Boroushaki,135,70.95555556,14.7495847,97.0,31.0,,,,,,,,,,,13,5,9,10,5,20,17,5,25,17,9
+UBCV,2014,W,MATH,101,,213,Integral Calculus with Applications to Physical Sciences and Engineering,Dimitrios Roxanas;Gregory Martin;Shirin Boroushaki,60,69.63333333,15.68218969,98.0,34.0,,,,,,,,,,,,6,5,8,5,7,,,4,5,9
+UBCV,2017,W,MATH,110,,001,Differential Calculus,Amir Hossein Parvardi;Costanza Piccolo;Shirin Boroushaki,74,64.121621622,17.112002279,92.0,13.0,,,,,,,,,,,8,10,8,5,11,9,4,6,4,4,5
+UBCV,2018,W,MATH,100,,V02,Differential Calculus with Applications to Physical Sciences and Engineering,Shirin Boroushaki,16,55.25,22.640671368,80.0,0.0,,,,,,,,,,,5,0,3,0,1,3,1,2,1,0,0
+UBCV,2018,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Ahmet Alperen Bulut;Alastair Jamieson-Lane;Michael Walter Doebeli;Rebeca Cardim Falcao;Shirin Boroushaki,129,72.124031008,11.86644939,96.0,20.0,,,,,,,,,,,3,3,11,11,12,19,16,17,18,11,8
+UBCV,2018,W,MATH,110,,004,Differential Calculus,Amir Hossein Parvardi;Bronwyn Baillie;Costanza Piccolo;Dominic Shillingford;Gregory Jen;Hira Niazi;Jenna Downey;Katia Albito Tapia;Kyle Macdonald;Shirin Boroushaki;Sophie Macdonald;William Carlquist;Xiaowei Li;Yee Xin Wong;Zi Yuan Julian Ding;Zixiao Zhou,80,61.2125,15.606468758,89.0,21.0,,,,,,,,,,,15,9,7,6,17,6,6,6,2,6,0
+UBCV,2018,W,MATH,190,,101,Calculus Survey,Anthony Ho;Halyun Jeong;Han Hong;Jessie Wong;M Fred Mutangana;Santanil Jana;Shirin Boroushaki,59,64.728813559,20.947249435,97.0,1.0,,,,,,,,,,,9,5,6,8,3,5,4,1,7,5,6
+UBCV,2018,W,MATH,215,,104,Elementary Differential Equations I,Shirin Boroushaki;Yifu Zhou,60,65.35,20.333511623,100.0,13.0,,,,,,,,,,,8,10,8,5,3,1,4,5,5,2,9
+UBCV,2018,W,MATH,215,,201,Elementary Differential Equations I,K Wayne Nagata;Ka Wah Wong;Katharine Faulkner;Katharine Rose Faulkner;Kimberly Willcott;Matthew Brassil;Nathan Lawrence;Shirin Boroushaki;Yifu Zhou;Yue-Xian Li,120,68.2,21.230072218,100.0,0.0,,,,,,,,,,,19,10,10,5,4,11,9,7,13,11,21
+UBCV,2018,W,MATH,215,,202,Elementary Differential Equations I,K Wayne Nagata;Ka Wah Wong;Katharine Faulkner;Katharine Rose Faulkner;Kimberly Willcott;Matthew Brassil;Nathan Lawrence;Shirin Boroushaki,127,71.968503937,15.079123068,100.0,31.0,,,,,,,,,,,6,12,9,15,9,8,11,6,20,14,17
+UBCV,2018,W,MATH,255,,104,Ordinary Differential Equations,Shirin Boroushaki;Yifu Zhou,52,85.153846154,10.113831755,100.0,50.0,,,,,,,,,,,0,1,0,0,0,3,6,1,10,14,17
+UBCV,2019,S,MATH,215,,921,Elementary Differential Equations I,Shirin Boroushaki,61,69.737704918,18.995527227,98.0,12.0,,,,,,,,,,,8,5,4,3,6,3,9,2,5,4,12
+UBCV,2019,S,MATH,255,,921,Ordinary Differential Equations,Shirin Boroushaki,47,69.893617021,16.251065574,96.0,26.0,,,,,,,,,,,3,4,6,6,3,4,4,1,4,5,7
+UBCV,2019,W,MATH,190,,101,Calculus Survey,Andrew Rechnitzer;Anthony Ho;M Fred Mutangana;Shamil Asgarli;Shirin Boroushaki;Stephen Pietromonaco;Yongqi Nie,64,72.734375,16.520542467,97.0,16.0,,,,,,,,,,,5,5,3,2,2,5,12,3,10,10,7

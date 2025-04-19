@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,POLI,369,A,001,,"Dauvergne, Peter",66,75.15,8.19,86,33,65,1,0,0,0,0,0,0,1,0,1,1,1,0,3,9,12,20,16,3,0,,,
+UBC,2002,W,POLI,369,A,002,,"Dauvergne, Peter",61,76.26,7.69,88,44,60,1,0,0,0,0,0,0,0,1,1,0,1,1,3,6,10,19,12,8,0,,,
+UBC,2002,W,POLI,464,A,003,PROB INTRL RELTN,"Dauvergne, Peter",16,79.44,6.21,90,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,5,3,1,,,
+UBC,2003,W,POLI,369,A,002,,"Dauvergne, Peter",70,76.47,7.9,87,50,70,0,0,0,0,0,0,0,0,0,0,1,3,2,2,5,8,26,13,10,0,,,
+UBC,2005,W,POLI,375,A,001,GLOB ENV POLI,"Dauvergne, Peter",68,74.84,9.18,90,35,67,1,0,0,0,0,0,0,1,0,1,2,1,2,4,6,15,17,13,6,1,,,
+UBC,2005,W,POLI,462,,001,INTRL REL THEORY,"Dauvergne, Peter",16,80.79,4.89,87,72,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,4,0,,,
+UBC,2005,W,POLI,562,A,001,TOP IN INTER REL,"Dauvergne, Peter",15,84,1.73,87,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,,,
+UBC,2011,W,POLI,562,B,001,TOP IN INTER REL,"Dauvergne, Peter",15,85.4,3.07,91,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,1,,,
+UBC,2012,W,POLI,562,B,001,TOP IN INTER REL,"Dauvergne, Peter",10,83.2,4.26,90,74,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,1,,,
+UBC,2013,W,POLI,562,B,001,TOP IN INTER REL,"Dauvergne, Peter",13,85.38,2.22,88,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,,,
+UBC,2016,W,POLI,375,A,001,GLOB ENV POLI,"Dauvergne, Peter",75,75.66,5.83,91,60,74,0,1,0,0,0,0,0,0,0,0,0,0,1,4,11,24,10,18,5,1,,,
+UBC,2016,W,POLI,375,A,002,GLOB ENV POLI,"Dauvergne, Peter",78,75.62,7.25,86,41,75,1,1,0,0,0,0,0,0,1,1,0,1,1,6,8,13,22,17,7,0,,,
+UBC,2016,W,POLI,562,A,001,TOP IN INTER REL,"Dauvergne, Peter",12,84.83,2.44,88,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,,,
+UBC,2017,W,POLI,375,A,001,GLOB ENV POLI,"Dauvergne, Peter",81,78.56,8.84,87,8,80,1,0,0,0,1,0,0,0,0,1,0,0,0,0,2,10,23,36,9,0,,,
+UBC,2017,W,POLI,375,A,002,GLOB ENV POLI,"Dauvergne, Peter",78,78.36,11.34,90,7,76,2,0,0,0,1,0,1,0,0,2,0,1,0,0,1,4,24,32,13,1,,,
+UBC,2017,W,POLI,562,A,001,TOP IN INTER REL,"Dauvergne, Peter",13,85.38,2.84,91,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,1,,,
+UBC,2018,W,POLI,375,A,001,GLOB ENV POLI,"Dauvergne, Peter",75,78.88,4.66,91,58,75,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,8,23,36,2,2,,,
+UBC,2018,W,POLI,375,A,002,GLOB ENV POLI,"Dauvergne, Peter",81,80.44,6.35,88,41,77,1,1,0,2,0,0,0,0,1,1,0,0,0,1,3,5,8,41,19,0,,,
+UBCV,2016,W,POLI,375,A,001,Global Environmental Politics,Peter Dauvergne,74,75.66216216,5.833951238,91.0,60.0,,,,,,,,,,,0,0,0,1,4,11,24,10,18,5,1,,,
+UBCV,2016,W,POLI,375,A,002,Global Environmental Politics,Justin Alger;Peter Dauvergne,77,75.54545455,7.228498888,86.0,41.0,,,,,,,,,,,1,0,1,1,6,9,13,22,17,7,0,,,
+UBCV,2016,W,POLI,562,A,001,Topics in International Relations,Peter Dauvergne,12,84.83333333,2.443296333,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,0,,,
+UBCV,2017,W,POLI,375,A,001,Global Environmental Politics,Jurise Athena Oliveros;Peter Dauvergne,81,78.555555556,8.836005885,87.0,8.0,,,,,,,,,,,1,0,0,0,0,2,10,23,36,9,0,,,
+UBCV,2017,W,POLI,375,A,002,Global Environmental Politics,Benjamin O'Heran;Peter Dauvergne,78,78.358974359,11.342340351,90.0,7.0,,,,,,,,,,,2,0,1,0,0,1,4,24,32,13,1,,,
+UBCV,2017,W,POLI,562,A,001,Topics in International Relations,Peter Dauvergne,13,85.384615385,2.844247456,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,1,,,
+UBCV,2018,W,POLI,375,A,001,Global Environmental Politics,Benjamin O'Heran;Peter Dauvergne,75,78.88,4.661399859,91.0,58.0,,,,,,,,,,,0,0,1,0,0,3,8,23,36,2,2,,,
+UBCV,2018,W,POLI,375,A,002,Global Environmental Politics,Benjamin O'Heran;Peter Dauvergne,80,80.35,6.294663201,88.0,41.0,,,,,,,,,,,1,0,0,0,1,3,5,10,41,19,0,,,
+UBCV,2019,W,POLI,375,A,001,Global Environmental Politics,Leah Shipton;Peter Dauvergne,76,77.223684211,8.791812379,91.0,41.0,,,,,,,,,,,2,0,0,4,3,4,9,14,30,8,2,,,
+UBCV,2019,W,POLI,375,A,002,Global Environmental Politics,Leah Shipton;Peter Dauvergne,72,79.180555556,6.031201475,88.0,55.0,,,,,,,,,,,0,0,1,0,1,4,10,15,25,16,0,,,
+UBCV,2019,W,POLI,562,A,001,Topics in International Relations,Peter Dauvergne,9,87.222222222,3.073181486,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,3,,,
+UBCV,2020,W,POLI,375,A,001,Global Environmental Politics,Aatika Moollabhai;Jennifer Fleming;Peter Dauvergne,69,81.637681159,6.646474108,92.0,47.0,,,,,,,,,,,1,0,0,0,1,1,7,9,22,23,5,,,
+UBCV,2020,W,POLI,464,H,002,Problems in International Relations,Peter Dauvergne,22,84.863636364,4.453949072,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,11,4,,,
+UBCV,2020,W,POLI,562,A,001,Topics in International Relations,Peter Dauvergne,11,85.545454545,3.327570777,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,8,1,,,
+UBCV,2021,W,POLI,360,A,002,Security Studies,Arjun Chowdhury;Chelsea Parker;Peter Dauvergne,83,67.819277108,19.829852206,94.0,0.0,,,,,,,,,,,10,3,4,5,8,10,11,5,13,8,6,,,
+UBCV,2021,W,POLI,375,A,001,Global Environmental Politics,Foster Salpeter;Peter Dauvergne,74,79.027027027,10.78935672,91.0,23.0,,,,,,,,,,,2,1,0,0,1,2,7,11,31,16,3,,,
+UBCV,2021,W,POLI,375,A,002,Global Environmental Politics,Leah Shipton;Peter Dauvergne,76,76.855263158,11.487621103,90.0,33.0,,,,,,,,,,,4,0,1,1,1,7,6,15,28,9,4,,,
+UBCV,2021,W,POLI,464,H,001,Problems in International Relations,Peter Dauvergne,18,85.0,3.850133688,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,9,3,,,
+UBCV,2021,W,POLI,375,A,001,Global Environmental Politics,Peter Dauvergne,74,79.0,,91.0,23.0,,,,,,,,,,,,,,,,,7,11,31,16,,81.0,84.5,77.0
+UBCV,2021,W,POLI,375,A,002,Global Environmental Politics,Peter Dauvergne,76,77.2,,90.0,33.0,,,,,,,,,,,,,,,,7,6,15,28,9,,80.0,83.0,75.0
+UBCV,2021,W,POLI,464,H,001,Problems in International Relations,Peter Dauvergne,18,85.0,,90.0,78.0,,,,,,,,,,,,,,,,,,,,9,,86.0,87.0,82.3
+UBCV,2023,W,POLI,375,A,001,Global Environmental Politics,Peter Dauvergne,99,78.3,,92.0,10.0,,,,,,,,,,,2,1,0,1,4,6,9,17,30,25,3,80.0,85.0,76.0
+UBCV,2023,W,POLI,375,A,002,Global Environmental Politics,Peter Dauvergne,92,78.51,,91.0,51.0,,,,,,,,,,,0,1,1,1,3,7,13,15,26,19,3,80.0,83.0,74.0
+UBCV,2023,W,POLI,562,A,001,Topics in International Relations,Peter Dauvergne,6,87.33,,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,1,87.0,87.75,86.25

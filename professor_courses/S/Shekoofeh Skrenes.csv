@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,CNPS,364,,001,FMLY ED & CONSUL,"Skrenes, Shekoofeh",28,78.26,6.54,92,68,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,2,9,4,1,,,
+UBC,2016,S,CNPS,365,,951,INT THRY COUNSEL,"Skrenes, Shekoofeh",27,88.26,7.71,98,69,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,3,17,,,
+UBC,2016,W,CNPS,364,,001,FMLY ED & CONSUL,"Skrenes, Shekoofeh",33,78.72,7.2,93,67,32,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6,4,5,11,2,3,,,
+UBC,2016,W,EPSE,308,,105,HUM DVEL LRN DIV,"Skrenes, Shekoofeh",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,EPSE,308,,308,HUM DVEL LRN DIV,"Skrenes, Shekoofeh",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,EPSE,311,,301,CULTVNG SUPP ENV,"Skrenes, Shekoofeh",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,S,CNPS,362,,923,BASIC INTVW SKLS,"Skrenes, Shekoofeh",13,85.08,3.15,89,77,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,0,,,
+UBC,2017,S,CNPS,365,,951,INT THRY COUNSEL,"Skrenes, Shekoofeh",26,81.26,9.13,93,60,23,0,2,0,0,0,0,0,0,0,0,0,0,1,2,1,1,3,5,6,4,,,
+UBC,2017,W,CNPS,364,,001,FMLY ED & CONSUL,"Skrenes, Shekoofeh",35,75.85,17.03,93,0,32,2,0,0,0,1,0,0,0,1,2,0,0,1,2,3,3,7,8,3,5,,,
+UBC,2017,W,CNPS,514,,001,COUNSL ADOLESCNT,"Skrenes, Shekoofeh",9,93.67,1.87,96,92,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2017,W,EPSE,552,A,074,SCH INTRVENTIONS,"Skrenes, Shekoofeh",9,94.22,1.86,97,91,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2018,W,CNPS,362,,002,BASIC INTVW SKLS,"Skrenes, Shekoofeh",16,86.5,5.62,91,72,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,9,,,
+UBCV,2015,W,CNPS,364,,001,Family Education and Consultation,Shekoofeh Skrenes,28,78.214285714,6.425396041,92.0,68.0,,,,,,,,,,,0,0,0,0,0,,7,,9,4,1,,,
+UBCV,2016,S,CNPS,365,,951,Introduction to Theories of Counselling,Shekoofeh Skrenes,27,88.25925926,7.709098484,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,3,2,3,17,,,
+UBCV,2016,W,CNPS,364,,001,Family Education and Consultation,Shekoofeh Skrenes,32,78.71875,7.198720204,93.0,67.0,,,,,,,,,,,0,0,0,0,1,6,4,5,11,2,3,,,
+UBCV,2017,S,CNPS,362,,923,Basic Interviewing Skills,Jessie Marie Wall;Shekoofeh Skrenes,13,85.076923077,3.148055973,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,9,0,,,
+UBCV,2017,S,CNPS,365,,951,Introduction to Theories of Counselling,Shekoofeh Skrenes,24,80.625,9.453835201,93.0,60.0,,,,,,,,,,,0,0,0,1,3,1,1,3,5,6,4,,,
+UBCV,2017,W,CNPS,364,,001,Family Education and Consultation,Shekoofeh Skrenes,35,75.828571429,16.776183599,93.0,0.0,,,,,,,,,,,2,0,0,1,2,3,4,7,8,3,5,,,
+UBCV,2017,W,CNPS,514,,001,Counselling Adolescents,Rhea Owens;Shekoofeh Skrenes,9,93.666666667,1.870828693,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2017,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Daniel Cox;Fumio Ishu Ishiyama;Ishu Ishiyama;Shekoofeh Skrenes,12,92.583333333,1.975225342,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2017,W,EPSE,552,A,074,School-Based Interventions,Shekoofeh Skrenes,9,94.222222222,1.855921454,97.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2018,S,CNPS,365,,951,Introduction to Theories of Counselling,Deepak Mathew;Shekoofeh Skrenes,25,82.24,9.337558567,95.0,63.0,,,,,,,,,,,0,0,0,1,1,3,0,5,1,6,8,,,
+UBCV,2018,W,CNPS,362,,002,Basic Interviewing Skills,Shekoofeh Skrenes;Wei-Chiao Hsu,16,86.5,5.621387729,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,2,9,,,
+UBCV,2019,S,CNPS,362,,923,Basic Interviewing Skills,Shekoofeh Skrenes,15,89.266666667,3.614784456,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,8,,,
+UBCV,2020,W,CNPS,362,,001,Basic Interviewing Skills,Cynthia Glidden-Tracey;Shekoofeh Skrenes,15,87.466666667,2.587515815,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,3,,,
+UBCV,2021,S,CNPS,362,,923,Basic Interviewing Skills,Shekoofeh Skrenes,15,90.0,4.472135955,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,10,,,
+UBCV,2021,S,CNPS,362,,952,Basic Interviewing Skills,Shekoofeh Skrenes,14,89.642857143,1.277445941,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,5,,,
+UBCV,2021,W,CNPS,362,,001,Basic Interviewing Skills,Daniel Cox;Shekoofeh Skrenes,16,87.8125,5.741297763,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,5,6,,,
+UBCV,2021,W,CNPS,362,,004,Basic Interviewing Skills,Lucy Mccullough;Shekoofeh Skrenes,16,87.5,3.033150178,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,4,,,
+UBCV,2021,S,CNPS,362,,923,Basic Interviewing Skills,Shekoofeh Skrenes,15,90.0,,94.0,75.0,,,,,,,,,,,,,,,,,,,,,10,91.0,92.0,89.0
+UBCV,2021,S,CNPS,362,,952,Basic Interviewing Skills,Shekoofeh Skrenes,14,89.6,,92.0,88.0,,,,,,,,,,,,,,,,,,,,9,,89.0,91.0,89.0
+UBCV,2021,W,CNPS,362,,004,Basic Interviewing Skills,Shekoofeh Skrenes,16,87.5,,90.0,79.0,,,,,,,,,,,,,,,,,,,,9,,88.0,89.3,87.8
+UBCV,2022,S,CNPS,362,,922,Basic Interviewing Skills,Shekoofeh Skrenes,15,87.4,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,9,4,88.0,89.0,87.5
+UBCV,2022,W,CNPS,433,,63A,The Personal and Social Development of the Adult,Shekoofeh Skrenes,35,88.0,,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,3,11,17,89.0,91.0,85.5
+UBCV,2023,S,CNPS,433,,93Q,The Personal and Social Development of the Adult,Shekoofeh Skrenes,35,83.71,,90.0,58.0,,,,,,,,,,,0,0,1,0,0,0,2,4,9,15,3,85.0,88.75,81.0
+UBCV,2023,W,CNPS,433,,63A,The Personal and Social Development of the Adult,Shekoofeh Skrenes,36,86.1,,91.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,23,4,87.0,88.0,84.5
+UBCV,2023,W,CNPS,524,,001,Counselling Adults,Shekoofeh Skrenes,8,94.8,,95.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,8,95.0,95.0,94.8

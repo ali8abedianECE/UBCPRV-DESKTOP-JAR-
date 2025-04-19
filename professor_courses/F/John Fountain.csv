@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,S,ECON,221,,951,INT STRA THINK,"Fountain, John",37,78.84,10.39,95,50,31,0,2,0,1,0,0,0,0,0,0,1,0,0,3,4,4,4,5,4,6
+UBC,2017,S,BAPA,550,,DD1,FND MGR ECON,"Fountain, John",54,81.89,6.22,95,68,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,10,15,17,5
+UBC,2017,W,BAPA,560,,300,MGMT & BUS ECON,"Fountain, John",39,87.41,6.05,100,72,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,13,19
+UBC,2018,W,ECON,302,,005,INTRM MACRO ANLY,"Fountain, John",72,70.31,17.73,95,0,64,6,2,0,0,2,0,0,2,2,6,4,4,4,7,5,9,0,22,3,6
+UBC,2018,W,ECON,421,,002,INTR GAME THR AP,"Fountain, John",35,70.88,16.21,96,0,33,1,1,0,0,1,0,0,0,0,1,0,1,6,5,6,4,1,3,4,3
+UBCV,2017,S,BAPA,550,,DD1,Foundations of Managerial Economics,John Fountain,54,81.888888889,6.224318305,95.0,68.0,,,,,,,,,,,0,0,0,0,0,4,3,10,15,17,5
+UBCV,2017,W,BAPA,560,,300,Foundations of Managerial and Business Economics,John Andrew Graham Fountain;John Fountain,39,87.41025641,6.051176261,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,5,1,13,19
+UBCV,2018,W,ECON,302,,005,Intermediate Macroeconomic Analysis I,John Fountain;Nicolas Franz Pattillo,70,70.314285714,17.729483229,95.0,0.0,,,,,,,,,,,6,4,4,4,7,5,9,0,22,3,6
+UBCV,2018,W,ECON,421,,002,Introduction to Game Theory and Applications.,Anubhav Jha;John Andrew Graham Fountain;John Fountain,34,70.882352941,16.214031906,96.0,0.0,,,,,,,,,,,1,0,1,6,5,6,4,1,3,4,3
+UBCV,2019,W,ECON,101,,004,Principles of Microeconomics,Jacob Milner;John Fountain;Kefan Chen;Wai-Ching Alfred Kong,258,69.61627907,13.3689069,100.0,28.0,,,,,,,,,,,15,24,16,22,25,36,29,34,25,18,14
+UBCV,2019,W,ECON,102,,002,Principles of Macroeconomics,Elisabeth Hatting;John Fountain;Kefan Chen;Wai-Ching Alfred Kong,99,68.585858586,14.78140731,96.0,0.0,,,,,,,,,,,2,13,5,6,11,14,13,16,13,4,2
+UBCV,2019,W,ECON,102,,011,Principles of Macroeconomics,Cheryl Fu;John Fountain;Yiwen Song,97,78.195876289,9.160193747,94.0,55.0,,,,,,,,,,,0,0,4,2,7,6,9,14,29,16,10
+UBCV,2019,W,ECON,302,,002,Intermediate Macroeconomic Analysis I,John Fountain;Wendy Wai Yee Kei;Ziyan Ke,89,79.505617978,8.298580924,98.0,58.0,,,,,,,,,,,0,0,2,5,2,4,9,22,19,17,9
+UBCV,2019,W,ECON,302,,005,Intermediate Macroeconomic Analysis I,John Fountain;Prapan Leenoi;Wendy Wai Yee Kei,85,82.647058824,9.712174346,99.0,51.0,,,,,,,,,,,0,1,3,1,0,5,6,6,24,21,18
+UBCV,2019,W,ECON,421,,002,Introduction to Game Theory and Applications.,Da Kang;John Fountain;Mohammad Akbar;Shunya Noda,44,77.636363636,15.187343122,100.0,40.0,,,,,,,,,,,2,2,2,1,3,3,4,6,8,3,10

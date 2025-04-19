@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,FRST,201,,001,FOREST ECOLOGY,"Culbert, Patrick",176,75.13,11,94,48,173,2,1,0,0,0,0,0,0,2,2,6,12,4,21,20,19,22,30,21,18,,,
+UBC,2017,W,FRST,350,,101,FNDTNL FIELD SCH,"Culbert, Patrick",75,80.08,5.68,92,67,75,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,7,20,25,12,4,,,
+UBC,2018,W,FRST,211,,201,FRST CLASS&SILVC,"Culbert, Patrick",168,80.7,8.42,97,57,168,0,0,0,0,0,0,0,0,0,0,0,1,4,10,10,15,28,41,34,25,,,
+UBC,2018,W,FRST,350,,101,FNDTNL FIELD SCH,"Culbert, Patrick",40,77.6,5.93,91,63,40,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,6,11,13,1,2,,,
+UBC,2018,W,FRST,399,,001,INTRO RSRCH METH,"Culbert, Patrick",56,82.52,8.36,99,57,56,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,6,5,11,15,13,,,
+UBCV,2017,W,FRST,201,,001,Forest Ecology,Colin Mahony;Gabriel Orrego Astorga;Lauren Angela Eleanor Nerfa;Lauren Nerfa;Patrick Culbert;Vincent Charles Hanlon,175,75.125714286,10.99927748,94.0,48.0,,,,,,,,,,,2,6,12,4,21,20,19,22,30,21,18,,,
+UBCV,2017,W,FRST,350,,101,Foundational Field School,Amber Hansen;Amber Nicolette Hansen;Gabriel Orrego Astorga;Grace Anne Carsky;Grace Carsky;Juliana Galvao De Sousa Magalhaes;Lauren Angela Eleanor Nerfa;Lauren Nerfa;Patrick Culbert;Stanley Pokorny;Stanley Wolf Pokorny,75,80.08,5.675361639,92.0,67.0,,,,,,,,,,,0,0,0,0,1,6,7,20,25,12,4,,,
+UBCV,2018,W,FRST,201,,001,Forest Ecology,Alexia Catherine Constantinou;Alexia Constantinou;Allen Larocque;Allen Thomas Larocque;Eva Nicole Snyder;Eva Snyder;Patrick Culbert;Suzanne Simard,169,75.366863905,13.329446108,97.0,0.0,,,,,,,,,,,2,1,9,16,14,20,21,15,27,23,21,,,
+UBCV,2018,W,FRST,211,,201,Forest Classification and Silvics,Arlo Bryn - Thorn;Arlo Hugh Bryn - Thorn;Arlo Hugh Bryn Thorn;Ernest Ting-Yu Wu;Kelsey Copes-Gerbitz;Lori Daniels;Patrick Culbert,168,80.702380952,8.423349017,97.0,57.0,,,,,,,,,,,0,0,1,4,10,10,15,28,41,34,25,,,
+UBCV,2018,W,FRST,350,,101,Foundational Field School,Caroline Seip;Cheng Chen;Erin Tattersall;Lauren Nerfa;Patrick Culbert;Stanley Pokorny;Stanley Wolf Pokorny;Yuwei Wang,40,77.6,5.926039885,91.0,63.0,,,,,,,,,,,0,0,0,1,1,5,6,11,13,1,2,,,
+UBCV,2018,W,FRST,399,,001,Introduction to Research Methods,Cora Skaien;Jonathan Reich;Patrick Culbert,56,82.517857143,8.362233437,99.0,57.0,,,,,,,,,,,0,0,1,0,2,3,6,5,11,15,13,,,
+UBCV,2019,W,FRST,211,,201,Forest Classification and Silvics,Kasey Moran;Kelsey Copes-Gerbitz;Pablo Gonzalez Moctezuma;Patrick Culbert,166,80.361445783,10.278637232,98.0,0.0,,,,,,,,,,,1,1,1,3,4,13,22,23,40,35,23,,,
+UBCV,2019,W,FRST,350,,101,Foundational Field School,Arlo Bryn - Thorn;Arlo Hugh Bryn - Thorn;Arlo Hugh Bryn Thorn;Cora Skaien;Emily Doyle-Yamaguchi;Juliana Galvao De Sousa Magalhaes;Patrick Culbert;Roseanna Gamlen-Greene;Roseanna Nancy Gamlen-Greene,39,76.564102564,4.80567029,87.0,65.0,,,,,,,,,,,0,0,0,0,1,4,9,16,7,2,0,,,
+UBCV,2019,W,FRST,399,,001,Introduction to Research Methods,Cora Skaien;Patrick Culbert;Stefanie Lane,39,87.102564103,7.243126948,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,4,6,10,17,,,
+UBCV,2020,W,BEST,203,,201,Ecology of Managed Ecosystems,Aeryn Ng;Patrick Culbert,12,84.75,6.538348415,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,3,4,,,
+UBCV,2020,W,FRST,211,,201,Forest Classification and Silvics,Arlo Hugh Bryn Thorn;Mariella Becu;Patrick Culbert,163,83.539877301,10.219350683,98.0,9.0,,,,,,,,,,,2,0,1,3,3,8,10,10,27,58,41,,,
+UBCV,2020,W,FRST,350,,101,Foundational Field School,Patrick Culbert,31,87.193548387,4.962656243,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,10,12,,,
+UBCV,2020,W,FRST,399,,001,Introduction to Research Methods,Emma Cooke;Patrick Culbert,29,89.172413793,5.162149092,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,9,16,,,
+UBCV,2020,W,FRST,500,,101,Teaching and Learning in Forestry,Patrick Culbert,7,96.142857143,4.099941928,100.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2021,W,BEST,203,,201,Ecology of Managed Ecosystems,Aeryn Ng;Patrick Culbert,31,84.806451613,10.643994723,97.0,47.0,,,,,,,,,,,1,0,0,2,0,0,0,2,5,11,10,,,
+UBCV,2021,W,FRST,211,,201,Forest Classification and Silvics,Anna Smith;Arial Eatherton;Lara Grevstad;Patrick Culbert,121,81.148760331,8.356296186,96.0,49.0,,,,,,,,,,,1,1,1,0,1,7,18,19,28,28,17,,,
+UBCV,2021,W,FRST,350,,101,Foundational Field School,Arial Eatherton;Carolina Rodriguez;Ira Sutherland;Jinming Ke;Kelsey Tikka;Lara Grevstad;Patrick Culbert;Sarah Dickson-Hoyle;Shuoqi Ren;Zhengyang Ye,43,83.88372093,5.84811448,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,9,9,16,6,,,
+UBCV,2021,W,FRST,351,,102,Interior Field School,Lori Daniels;Patrick Culbert,50,87.76,3.982410305,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,26,15,,,
+UBCV,2021,W,FRST,399,,001,Introduction to Research Methods,Emma Cooke;Patrick Culbert;Stefanie Lane,51,84.294117647,16.118677511,97.0,30.0,,,,,,,,,,,3,0,0,2,0,4,2,3,6,4,27,,,
+UBCV,2021,W,BEST,203,,201,Ecology of Managed Ecosystems,Patrick Culbert,31,84.8,,97.0,47.0,,,,,,,,,,,,,,,,,,,,11,10,87.0,91.0,81.0
+UBCV,2021,W,FRST,211,,201,Forest Classification and Silvics,Patrick Culbert,123,81.3,,96.0,49.0,,,,,,,,,,,,,,,,7,18,19,28,29,18,82.0,87.0,76.5
+UBCV,2021,W,FRST,350,,101,Foundational Field School,Patrick Culbert,43,83.9,,96.0,71.0,,,,,,,,,,,,,,,,,,9,9,16,6,85.0,88.0,79.0
+UBCV,2021,W,FRST,399,,001,Introduction to Research Methods,Patrick Culbert,52,84.0,,97.0,30.0,,,,,,,,,,,,,,,,,,,7,,27,91.0,97.0,78.0
+UBCV,2022,W,FRST,350,,101,Foundational Field School,Patrick Culbert,31,84.1,,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,4,14,9,3,84.0,87.0,82.0
+UBCV,2023,W,BEST,203,,201,Ecology of Managed Ecosystems,Patrick Culbert,33,81.41,,96.0,46.0,,,,,,,,,,,1,1,1,1,0,0,2,3,6,10,7,85.5,89.0,78.25
+UBCV,2023,W,FRST,211,,201,Forest Classification and Silvics,Patrick Culbert,146,77.6,,96.0,45.0,,,,,,,,,,,2,2,5,2,15,9,16,21,35,22,15,79.5,85.0,72.0

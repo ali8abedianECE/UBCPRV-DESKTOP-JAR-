@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,LLED,200,,V02,INTRO ACAD WRIT,"Lightfoot, Jennifer",13,51,23.95,84,0,8,3,2,0,0,1,1,0,0,1,3,2,2,1,1,1,0,0,1,0,0,,,
+UBC,2016,W,LLED,200,,VM3,INTRO ACAD WRIT,"Lightfoot, Jennifer",16,58.2,12.86,75,33,12,3,1,0,0,0,0,0,2,1,3,1,3,2,4,0,2,0,0,0,0,,,
+UBC,2016,W,LLED,200,,VM4,INTRO ACAD WRIT,"Lightfoot, Jennifer",14,61.82,9,74,48,10,1,3,0,0,0,0,0,0,1,1,2,1,3,1,0,3,0,0,0,0,,,
+UBC,2016,W,VANT,140,C,VM1,CONTENT LANG TUT,"Lightfoot, Jennifer",14,63.83,15.06,82,34,10,2,2,0,0,0,0,0,2,0,2,0,0,3,1,1,3,1,1,0,0,,,
+UBC,2016,W,VANT,140,C,VM2,CONTENT LANG TUT,"Lightfoot, Jennifer",16,64.57,9.8,80,43,13,1,2,0,0,0,0,0,0,1,1,1,1,2,5,2,0,1,1,0,0,,,
+UBC,2017,W,LLED,200,,V11,INTRO ACAD WRIT,"Lightfoot, Jennifer",17,56.12,16.51,83,3,15,2,0,0,0,1,0,0,0,1,2,4,4,3,2,0,1,0,1,0,0,,,
+UBC,2017,W,LLED,200,,V12,INTRO ACAD WRIT,"Lightfoot, Jennifer",12,59.82,10.12,72,44,9,2,1,0,0,0,0,0,0,2,2,3,0,1,1,3,1,0,0,0,0,,,
+UBC,2017,W,LLED,200,,VM1,INTRO ACAD WRIT,"Lightfoot, Jennifer",10,62.4,8.51,75,45,9,1,0,0,0,0,0,0,0,1,1,0,3,1,3,0,2,0,0,0,0,,,
+UBC,2018,W,LLED,200,,VM1,INTRO ACAD WRIT,"Lightfoot, Jennifer",13,69.46,7.48,84,60,13,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,1,3,1,0,0,,,
+UBC,2018,W,LLED,200,,VM3,INTRO ACAD WRIT,"Lightfoot, Jennifer",11,60.91,25.44,80,4,9,2,0,0,0,1,0,1,0,0,2,0,1,0,2,2,0,1,3,0,0,,,
+UBC,2018,W,VANT,140,C,V09,CONTENT LANG TUT,"Lightfoot, Jennifer",25,71.6,8.1,84,52,25,0,0,0,0,0,0,0,0,0,0,1,0,3,3,8,1,4,5,0,0,,,
+UBC,2018,W,VANT,140,C,V10,CONTENT LANG TUT,"Lightfoot, Jennifer",26,70.28,13.69,88,39,23,2,1,0,0,0,0,0,1,1,2,4,0,0,0,1,5,10,1,2,0,,,
+UBCV,2016,W,LLED,200,,V02,Introduction to Writing in Academic and Professional Registers,Brett Todd;Jennifer Lightfoot;Sandra Zappa,11,51.0,23.94577207,84.0,0.0,,,,,,,,,,,3,2,2,1,1,1,0,0,1,0,0,,,
+UBCV,2016,W,LLED,200,,VM3,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,15,58.2,12.85746031,75.0,33.0,,,,,,,,,,,3,1,3,2,4,0,2,0,0,0,0,,,
+UBCV,2016,W,LLED,200,,VM4,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,11,61.81818182,8.997979571,74.0,48.0,,,,,,,,,,,1,2,1,3,1,0,3,0,0,0,0,,,
+UBCV,2016,W,VANT,140,C,VM1,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa;Won Kim,12,63.83333333,15.06249607,82.0,34.0,,,,,,,,,,,2,0,0,3,1,1,3,1,1,0,0,,,
+UBCV,2016,W,VANT,140,C,VM2,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa;Won Kim,14,64.57142857,9.803565173,80.0,43.0,,,,,,,,,,,1,1,1,2,5,2,0,1,1,0,0,,,
+UBCV,2017,W,LLED,200,,V11,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,17,56.117647059,16.514699335,83.0,3.0,,,,,,,,,,,2,4,4,3,2,0,1,0,1,0,0,,,
+UBCV,2017,W,LLED,200,,V12,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,11,59.818181818,10.117491604,72.0,44.0,,,,,,,,,,,2,3,0,1,1,3,1,0,0,0,0,,,
+UBCV,2017,W,LLED,200,,VM1,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,10,62.4,8.514040691,75.0,45.0,,,,,,,,,,,1,0,3,1,3,0,2,0,0,0,0,,,
+UBCV,2017,W,VANT,140,C,VM1,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa;Won Kim,19,63.631578947,12.437445818,76.0,23.0,,,,,,,,,,,2,1,1,1,5,3,5,1,0,0,0,,,
+UBCV,2017,W,VANT,140,C,VM2,Content and Language Enrichment Tutorials,Brett Todd;Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa,16,60.875,13.932575737,81.0,33.0,,,,,,,,,,,4,2,1,3,1,0,2,1,2,0,0,,,
+UBCV,2018,W,LLED,200,,VM1,Introduction to Writing in Academic and Professional Registers,Ena Grace Lee;Jennifer Lightfoot;Sandra Zappa,13,69.461538462,7.479030514,84.0,60.0,,,,,,,,,,,0,0,0,3,4,1,1,3,1,0,0,,,
+UBCV,2018,W,LLED,200,,VM3,Introduction to Writing in Academic and Professional Registers,Geoffrey Burns;Jennifer Lightfoot;Sandra Zappa,10,66.6,17.976527906,80.0,20.0,,,,,,,,,,,1,0,1,0,2,2,0,1,3,0,0,,,
+UBCV,2018,W,VANT,140,C,V09,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Sandra Zappa,25,71.6,8.098353742,84.0,52.0,,,,,,,,,,,0,1,0,3,3,8,1,4,5,0,0,,,
+UBCV,2018,W,VANT,140,C,V10,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Sandra Zappa,25,70.28,13.685515457,88.0,39.0,,,,,,,,,,,2,4,0,0,0,1,5,10,1,2,0,,,
+UBCV,2018,W,VANT,140,D,V06,Content and Language Enrichment Tutorials,Alfredo Ferreira;Aubrey Leveridge;Fatimah Mahmood;Jennifer Lightfoot;Julie Mcnutt;Lev Lewis;Miguel Angel Garcia Chavez;Nicole Arsenault;Priya Lekhi;Sandra Zappa,9,73.555555556,19.410764482,85.0,24.0,,,,,,,,,,,1,0,0,0,1,0,0,1,4,2,0,,,
+UBCV,2018,W,VANT,140,D,VE4,Content and Language Enrichment Tutorials,Alys Avalos Rivera;Angela Mercy Rutakomozibwa;Angela Rutakomozibwa;Aubrey Leveridge;Brett Todd;Celina Berg;Celina Gay Berg;Fatimah Mahmood;Jennifer Lightfoot;John Pringle;Sandra Zappa,16,74.5625,4.178815622,80.0,67.0,,,,,,,,,,,0,0,0,0,1,3,5,5,2,0,0,,,
+UBCV,2019,W,LLED,200,,V01,Introduction to Writing in Academic and Professional Registers,Corey Whelan;Jennifer Lightfoot;Sandra Zappa;Veronika Larsen,15,67.066666667,5.161210637,77.0,59.0,,,,,,,,,,,0,0,1,3,4,5,1,1,0,0,0,,,
+UBCV,2019,W,LLED,200,,V02,Introduction to Writing in Academic and Professional Registers,Corey Whelan;Jennifer Lightfoot;Sandra Zappa;Veronika Larsen,15,65.666666667,9.301817539,81.0,50.0,,,,,,,,,,,0,3,1,2,2,4,1,1,1,0,0,,,
+UBCV,2019,W,VANT,140,C,V07,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa,25,68.6,8.154753215,82.0,41.0,,,,,,,,,,,1,0,1,2,4,9,4,3,1,0,0,,,
+UBCV,2019,W,VANT,140,C,V08,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa,21,70.904761905,4.794838495,78.0,59.0,,,,,,,,,,,0,0,1,1,1,8,7,3,0,0,0,,,
+UBCV,2019,W,VANT,140,C,V09,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Sandra Zappa,25,68.56,5.315700017,78.0,58.0,,,,,,,,,,,0,0,1,5,4,7,6,2,0,0,0,,,
+UBCV,2019,W,VANT,140,C,V10,Content and Language Enrichment Tutorials,Daniel Riccardi;Jennifer Lightfoot;Sandra Zappa,24,63.041666667,13.290988011,87.0,21.0,,,,,,,,,,,3,2,1,5,3,4,4,1,0,1,0,,,
+UBCV,2020,W,LLED,200,,V04,Introduction to Writing in Academic and Professional Registers,Isabelle A G Denizot;Isabelle Denizot;Jennifer Lightfoot;Sandra Zappa,14,69.285714286,11.083102672,82.0,38.0,,,,,,,,,,,1,0,1,0,1,3,6,0,2,0,0,,,
+UBCV,2020,W,LLED,200,,V05,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Luba Banuke;Sandra Zappa,18,68.333333333,9.982337343,83.0,41.0,,,,,,,,,,,1,0,1,3,1,5,3,2,2,0,0,,,
+UBCV,2020,W,VANT,140,C,V05,Content and Language Enrichment Tutorials,Jennifer Lightfoot;John Pringle;Juan Abello Rubio;Sandra Zappa;Siobhan Mcphee,29,69.724137931,9.149147313,79.0,43.0,,,,,,,,,,,2,1,0,1,5,3,9,8,0,0,0,,,
+UBCV,2020,W,VANT,140,C,V06,Content and Language Enrichment Tutorials,Amber Shaw;Daniel Riccardi;Jennifer Lightfoot;Priya Lekhi;Sandra Zappa,23,68.608695652,9.759560024,81.0,35.0,,,,,,,,,,,1,1,0,3,5,2,5,5,1,0,0,,,
+UBCV,2020,W,VANT,148,,V01,UBC Vantage College Projects,David Brownstein;Eva Zysk;Jennifer Lightfoot;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,24,64.625,19.331912117,80.0,2.0,,,,,,,,,,,3,1,0,0,3,8,4,2,3,0,0,,,
+UBCV,2020,W,VANT,148,,V02,UBC Vantage College Projects,Eva Zysk;Jennifer Lightfoot;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,19,68.631578947,3.989020018,77.0,59.0,,,,,,,,,,,0,0,1,1,3,11,2,1,0,0,0,,,
+UBCV,2020,W,VANT,148,,V03,UBC Vantage College Projects,David Brownstein;Jennifer Lightfoot;Remzi Fuentes;Remzi Marenglen Xhemalce Fuentes;Sijia Cheng,27,67.962962963,15.00379819,81.0,0.0,,,,,,,,,,,1,0,1,3,4,5,7,3,3,0,0,,,
+UBCV,2021,W,LLED,200,,V02,Introduction to Writing in Academic and Professional Registers,Darko Odic;Jennifer Lightfoot;Sandra Zappa,13,74.846153846,6.914310689,83.0,60.0,,,,,,,,,,,0,0,0,2,0,1,2,5,3,0,0,,,
+UBCV,2021,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Gabriel Potvin;Jennifer Lightfoot;Sandra Zappa,25,72.4,5.057996968,78.0,64.0,,,,,,,,,,,0,0,0,0,6,4,3,12,0,0,0,,,
+UBCV,2021,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Daniel Riccardi;Emrul Hasan;Jennifer Lightfoot;Sandra Zappa,13,62.384615385,14.682974617,79.0,29.0,,,,,,,,,,,3,1,1,1,1,1,2,3,0,0,0,,,
+UBCV,2021,W,LLED,200,,V02,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,13,74.8,,83.0,60.0,,,,,,,,,,,,,,,,,,,,,,78.0,79.0,72.0
+UBCV,2021,W,VANT,140,C,V02,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Sandra Zappa,25,72.4,,78.0,64.0,,,,,,,,,,,,,,,6,,,12,,,,75.0,77.0,69.0
+UBCV,2021,W,VANT,140,C,V04,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Sandra Zappa,13,62.4,,79.0,29.0,,,,,,,,,,,,,,,,,,,,,,64.0,73.0,53.0
+UBCV,2022,W,LLED,200,,V95,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,14,71.2,,81.0,52.0,,,,,,,,,,,0,2,0,0,1,3,2,3,3,0,0,73.0,77.0,69.0
+UBCV,2022,W,LLED,200,,V98,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,12,73.5,,84.0,54.0,,,,,,,,,,,0,1,0,0,1,2,2,4,2,0,0,75.5,77.3,69.8
+UBCV,2022,W,VANT,140,D,V04,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Noosha Mehdian;Sandra Zappa,11,73.9,,83.0,47.0,,,,,,,,,,,1,0,0,0,1,2,0,3,4,0,0,78.0,80.5,69.5
+UBCV,2022,W,VANT,140,D,V14,Content and Language Enrichment Tutorials,Jennifer Lightfoot;Noosha Mehdian,11,66.7,,84.0,20.0,,,,,,,,,,,2,0,0,0,2,0,2,3,2,0,0,75.0,77.5,66.0
+UBCV,2023,W,LLED,200,,V94,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,15,68.8,,77.0,50.0,,,,,,,,,,,0,1,0,1,3,4,4,2,0,0,0,71.0,73.0,66.5
+UBCV,2023,W,LLED,200,,V97,Introduction to Writing in Academic and Professional Registers,Jennifer Lightfoot;Sandra Zappa,12,72.4,,89.0,54.0,,,,,,,,,,,0,1,0,2,1,1,2,3,0,2,0,73.5,77.3,66.0
+UBCV,2023,W,VANT,140,D,V06,Content and Language Enrichment Tutorials,Won Kim;Jennifer Lightfoot;Daniel Riccardi;Brett Todd;Sandra Zappa,14,74.46,,86.0,66.0,,,,,,,,,,,0,0,0,0,1,5,3,1,1,2,0,72.0,79.0,70.0

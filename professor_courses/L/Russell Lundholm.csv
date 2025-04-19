@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,BAAC,501,,810,FIN STMT ANLY I,"Lundholm, Russell",17,81.06,7.61,97,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,5,3,2
+UBC,2011,W,BAAC,501,,001,FIN STMT ANLY I,"Lundholm, Russell",35,79.57,4,88,70,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,9,18,4,0
+UBC,2011,W,COMM,459,,101,FIN STATMNT ANLY,"Lundholm, Russell",35,77.31,12.72,90,11,34,1,0,0,0,0,1,0,0,0,1,0,0,0,2,0,4,10,13,4,1
+UBC,2011,W,COMM,459,,102,FIN STATMNT ANLY,"Lundholm, Russell",36,79.09,5.29,90,64,35,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6,8,14,4,1
+UBC,2011,W,COMM,590,B,001,TOPICS BUS ADMIN,"Lundholm, Russell",10,85.2,2.86,92,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,1
+UBC,2012,W,COMM,459,,101,FIN STATMNT ANLY,"Lundholm, Russell",41,77.2,6.86,93,64,41,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,7,10,12,3,1
+UBC,2012,W,COMM,459,,102,FIN STATMNT ANLY,"Lundholm, Russell",39,78.46,5.39,85,65,39,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,10,19,2,0
+UBC,2013,W,COMM,590,B,001,TOPICS BUS ADMIN,"Lundholm, Russell",5,85.6,5.55,92,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1
+UBC,2014,S,BAAC,501,,813,FIN STMT ANLY I,"Lundholm, Russell",35,80.66,8.55,95,60,35,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,4,5,7,8,5
+UBC,2014,W,BAAC,501,,814,FIN STMT ANLY I,"Lundholm, Russell",28,81.86,8.04,98,64,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,7,5,5,5
+UBC,2014,W,COMM,651,,001,ANLY ACCNT INFO,"Lundholm, Russell",6,86,10.62,97,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,3
+UBC,2015,W,BAAC,501,,815,FIN STMT ANLY I,"Lundholm, Russell",19,81.95,7.99,94,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,3,6,3
+UBC,2015,W,COMM,590,B,001,TOPICS BUS ADMIN,"Lundholm, Russell",5,84.4,5.59,92,77,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1
+UBC,2016,S,BAAC,550,,816,FNDTNS  ACCNTING,"Lundholm, Russell",33,81.33,10.37,100,64,33,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,3,1,6,8,7
+UBC,2016,W,BAAC,501,,302,FIN STMT ANLY I,"Lundholm, Russell",24,82.7,7.33,98,69,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,5,4,5
+UBC,2017,W,BAAC,501,,301,FIN STMT ANLY I,"Lundholm, Russell",30,84.23,8.14,99,63,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,4,5,10,6
+UBC,2017,W,COMM,655,,001,STK MRKT INEFFC,"Lundholm, Russell",4,89,2,90,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2018,W,COMM,651,,001,ANLY ACCNT INFO,"Lundholm, Russell",4,94,3.27,98,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBCV,2014,S,BAAC,501,,813,Financial Statement Analysis I,Russell Lundholm,35,80.65714286,8.547248808,95.0,60.0,,,,,,,,,,,0,0,0,,,,,5,7,8,5
+UBCV,2014,W,BAAC,501,,814,Financial Statement Analysis I,Russell Lundholm,28,81.85714286,8.03563492,98.0,64.0,,,,,,,,,,,0,0,0,0,,,,7,5,5,5
+UBCV,2014,W,COMM,651,,001,Analysis of Accounting Information in Markets,Russell Lundholm,6,86.0,10.62073444,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2015,W,BAAC,501,,815,Financial Statement Analysis I,Russell Lundholm,19,81.947368421,7.989393554,94.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,3,6,
+UBCV,2015,W,COMM,590,B,001,Topics in Business Administration,Russell Lundholm,5,84.4,5.594640292,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,,,
+UBCV,2016,S,BAAC,550,,816,Foundations in  Accounting,Jingyi Zhao;Russell Lundholm,33,81.33333333,10.36721596,100.0,64.0,,,,,,,,,,,0,0,0,0,3,5,3,1,6,8,7
+UBCV,2016,W,BAAC,501,,302,Financial Statement Analysis I,Russell Lundholm,23,82.69565217,7.3263831,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,6,5,4,5
+UBCV,2017,W,BAAC,501,,301,Financial Statement Analysis I,Russell Lundholm,30,84.233333333,8.143892712,99.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,4,5,10,6
+UBCV,2019,W,COMM,655,,001,Stock Market Inefficiencies,Russell Lundholm,10,80.0,28.38231061,95.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,4,5
+UBCV,2020,S,BAAC,501,,301,Financial Statement Analysis I,Ardalan Aaziznia;Caren Lombard;Jeffrey Leung;Russell Lundholm,25,83.2,6.806859286,98.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,8,8,4,4
+UBCV,2020,S,BAAC,501,,311,Financial Statement Analysis I,Ardalan Aaziznia;Jeffrey Leung;Russell Lundholm,31,86.580645161,8.357727736,100.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,5,3,8,12
+UBCV,2020,W,BAAC,501,,001,Financial Statement Analysis I,Ardalan Aaziznia;Jeffrey Leung;Joy Begley;Russell Lundholm,14,81.357142857,4.482566965,87.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,1,6,4,0
+UBCV,2021,S,BAAC,501,,301,Financial Statement Analysis I,Russell Lundholm;Yifang Xie;Yuxiang Zheng,31,84.193548387,4.230203737,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,15,10,4
+UBCV,2021,W,BAAC,501,,001,Financial Statement Analysis I,Minjia Li;Russell Lundholm;Yifang Xie,28,85.214285714,4.39997595,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,9,12,5

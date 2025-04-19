@@ -1,0 +1,117 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,CHEM,121,,133,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Kunz, Tamara;Lekhi, Priya",180,65.57,13.43,97,27,140,26,11,0,3,0,0,1,2,23,26,4,22,24,10,20,14,20,15,6,5,,,
+UBC,2010,W,CHEM,121,,188,STRUCTURAL CHEM,"Gates, Derek;Krems, Roman;Kunz, Tamara;Lekhi, Priya",204,65.3,16.08,100,15,156,45,2,0,1,0,1,2,6,36,45,1,24,13,18,22,18,16,24,9,11,,,
+UBC,2011,S,CHEM,121,,951,STRUCTURAL CHEM,"Kunz, Tamara",114,70.35,12.13,94,39,108,5,1,0,0,0,0,0,1,4,5,1,14,15,9,19,15,9,8,8,10,,,
+UBC,2011,W,CHEM,121,,122,STRUCTURAL CHEM,"Kunz, Tamara;Lekhi, Priya",217,68.16,13.33,92,10,183,24,7,0,3,0,1,0,3,20,24,2,10,30,23,30,28,12,28,11,9,,,
+UBC,2011,W,CHEM,121,,188,STRUCTURAL CHEM,"Kunz, Tamara;Lekhi, Priya",206,61.44,16.02,97,26,137,57,6,0,6,0,0,7,11,39,57,3,15,22,17,19,24,12,14,5,6,,,
+UBC,2011,W,CHEM,123,,210,Phys & Org Chem,"Grant, Edward;Kunz, Tamara;Lekhi, Priya",227,63.33,13.86,95,37,176,44,6,0,1,0,0,0,2,42,44,22,15,22,19,41,13,11,17,8,8,,,
+UBC,2011,W,CHEM,123,,222,Phys & Org Chem,"Bizzotto, Dan;Kunz, Tamara;Lekhi, Priya",222,67.76,12.19,97,44,204,16,2,0,0,0,0,0,0,16,16,13,25,28,23,27,30,15,23,11,9,,,
+UBC,2012,W,CHEM,121,,101,STRUCTURAL CHEM,"Kunz, Tamara;Lekhi, Priya",170,76.96,13.36,98,27,160,8,2,0,0,0,0,1,0,7,8,1,4,12,11,16,19,12,33,16,36,,,
+UBC,2012,W,CHEM,123,,210,Phys & Org Chem,"Grant, Edward;Kunz, Tamara;Lekhi, Priya",241,71.56,13.61,97,36,218,19,1,0,3,0,0,0,2,17,19,8,20,15,18,32,22,19,39,23,22,,,
+UBC,2012,W,CHEM,123,,222,Phys & Org Chem,"Kunz, Tamara;Lekhi, Priya;Straus, Suzana",217,64.59,13.53,92,13,180,33,3,0,1,0,1,1,6,25,33,10,20,26,23,35,20,13,23,7,3,,,
+UBC,2012,W,CHEM,235,,L06,Org Chem Lab,"Kunz, Tamara;Rogers, Christine;Zendrowski, Dana",5,79,7.42,90,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,,,
+UBC,2012,W,CHEM,235,,L08,Org Chem Lab,"Kunz, Tamara;Rogers, Christine;Zendrowski, Dana",7,74.86,5.24,81,67,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,2,0,0,,,
+UBC,2012,W,CHEM,235,,L09,Org Chem Lab,"Kunz, Tamara;Rogers, Christine;Zendrowski, Dana",7,72.2,2.86,76,69,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,,,
+UBC,2013,S,CHEM,121,,921,STRUCTURAL CHEM,"Kunz, Tamara",156,65.66,12.55,95,37,133,18,5,0,0,0,0,0,2,16,18,5,19,21,20,25,9,8,14,7,5,,,
+UBCO,2014,S,CHEM,123,,001,Physical and Organic Chemistry,Michael Lynch;Tamara Kunz,49,61.75510204,16.79599483,92.0,0.0,,,,,,,,,,,8,,5,7,6,7,,5,,,,,,
+UBCO,2014,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,33,58.54545455,14.66946427,89.0,34.0,,,,,,,,,,,13,,6,,,,,,,,0,,,
+UBCO,2014,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,43,59.46511628,15.00214086,82.0,20.0,,,,,,,,,,,11,,6,7,,5,,,,0,0,,,
+UBCO,2014,W,CHEM,113,,001,Principles of Chemistry II,Tamara Kunz,28,57.10714286,18.01098283,94.0,18.0,,,,,,,,,,,12,,,,,,,,,,,,,
+UBCO,2014,W,CHEM,113,,002,Principles of Chemistry II,Tamara Kunz,32,61.90625,9.877832383,83.0,44.0,,,,,,,,,,,5,,8,6,,6,,,,0,0,,,
+UBCO,2014,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz,211,65.07109005,18.24201504,99.0,3.0,,,,,,,,,,,48,2,18,13,19,21,31,13,19,15,12,,,
+UBCO,2014,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Kunz,178,66.41573034,15.69901144,94.0,0.0,,,,,,,,,,,30,4,14,17,21,24,15,17,17,13,6,,,
+UBCO,2014,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Kunz,228,67.63157895,15.07909435,98.0,9.0,,,,,,,,,,,35,4,21,29,22,24,22,13,21,22,15,,,
+UBCO,2014,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Kunz,136,67.61764706,14.49498448,95.0,2.0,,,,,,,,,,,22,0,13,13,12,19,15,12,13,11,6,,,
+UBCO,2015,S,CHEM,123,,001,Physical and Organic Chemistry,Amelia Fitzsimmons;Tamara Kunz,44,67.409090909,10.388540605,84.0,33.0,,,,,,,,,,,,,,5,7,11,5,,6,0,0,,,
+UBCO,2016,W,CHEM,111,,001,Principles of Chemistry I,Edward Neeland;Tamara Freeman;Tamara Kunz,34,56.94117647,18.17581006,86.0,10.0,,,,,,,,,,,12,1,3,3,4,3,4,1,2,1,0,,,
+UBCO,2016,W,CHEM,111,,002,Principles of Chemistry I,Tamara Freeman;Tamara Kunz,30,61.1,14.52073428,92.0,20.0,,,,,,,,,,,8,0,3,6,4,3,4,0,0,1,1,,,
+UBCO,2016,W,CHEM,111,,003,Principles of Chemistry I,Tamara Freeman;Tamara Kunz,18,62.44444444,11.32525664,86.0,45.0,,,,,,,,,,,4,0,2,3,5,1,0,2,0,1,0,,,
+UBCO,2016,W,CHEM,113,,002,Principles of Chemistry II,Eric Dennis;Sandra Mecklenburg;Tamara Freeman;Tamara Kunz,24,60.375,13.89967938,89.0,29.0,,,,,,,,,,,4,2,3,7,2,3,0,0,2,1,0,,,
+UBCO,2016,W,CHEM,113,,003,Principles of Chemistry II,Eric Dennis;Tamara Freeman;Tamara Kunz,14,58.0,12.30384555,79.0,26.0,,,,,,,,,,,3,0,3,5,1,1,0,1,0,0,0,,,
+UBCO,2016,W,CHEM,121,,001,Atomic and Molecular Chemistry,Edward Neeland;Tamara Freeman;Tamara Kunz,251,66.19521912,14.86653077,95.0,14.0,,,,,,,,,,,49,4,17,26,20,34,25,26,31,13,6,,,
+UBCO,2016,W,CHEM,121,,002,Atomic and Molecular Chemistry,Sandra Mecklenburg;Tamara Freeman;Tamara Kunz,257,68.98054475,16.28924381,100.0,6.0,,,,,,,,,,,40,2,11,24,24,39,21,31,25,18,22,,,
+UBCO,2016,W,CHEM,121,,003,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,103,71.12621359,13.40959534,94.0,35.0,,,,,,,,,,,13,1,4,5,8,13,16,16,15,7,5,,,
+UBCO,2016,W,CHEM,123,,001,Physical and Organic Chemistry,Eric Dennis;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,270,72.97037037,12.97549348,100.0,21.0,,,,,,,,,,,17,0,20,21,38,29,29,22,34,28,32,,,
+UBCO,2016,W,CHEM,123,,002,Physical and Organic Chemistry,Eric Dennis;Sandra Mecklenburg;Tamara Freeman;Tamara Kunz,142,69.30985916,13.41174625,97.0,10.0,,,,,,,,,,,13,2,14,11,20,25,15,10,16,5,11,,,
+UBCO,2016,W,CHEM,123,,003,Physical and Organic Chemistry,Eric Dennis;Tamara Freeman;Tamara Kunz,83,69.3373494,17.69337558,98.0,1.0,,,,,,,,,,,9,0,4,12,6,12,7,10,8,11,4,,,
+UBCO,2017,S,CHEM,121,,001,Atomic and Molecular Chemistry,Richard Federley;Sandra Mecklenburg;Tamara Freeman;Tamara Kunz;Yas Yamin;Yasfatemeh Yamin,63,63.031746032,18.489725354,94.0,0.0,,,,,,,,,,,14,3,3,9,9,2,9,2,7,1,4,,,
+UBCO,2017,S,CHEM,123,,101,Physical and Organic Chemistry,Andrew Kennedy;Christine Furrer;Tamara Freeman;Tamara Kunz;Yas Yamin;Yasfatemeh Yamin,47,65.574468085,14.160177905,98.0,22.0,,,,,,,,,,,6,2,4,9,7,9,2,0,3,1,4,,,
+UBCO,2017,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,40,61.725,15.830816264,98.0,12.0,,,,,,,,,,,9,0,6,6,4,7,1,2,3,0,2,,,
+UBCO,2017,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,32,66.0625,12.528515861,90.0,42.0,,,,,,,,,,,5,1,1,5,8,3,2,0,4,2,1,,,
+UBCO,2017,W,CHEM,111,,003,Principles of Chemistry I,Edward Neeland;Tamara Kunz,32,67.78125,12.098345328,86.0,41.0,,,,,,,,,,,5,0,2,3,3,5,4,4,4,2,0,,,
+UBCO,2017,W,CHEM,113,,001,Principles of Chemistry II,Tamara Freeman;Tamara Kunz,29,61.655172414,11.914204794,84.0,36.0,,,,,,,,,,,8,0,1,5,7,3,1,2,2,0,0,,,
+UBCO,2017,W,CHEM,113,,002,Principles of Chemistry II,Tamara Freeman;Tamara Kunz,26,65.807692308,12.874841298,91.0,47.0,,,,,,,,,,,4,0,3,6,3,1,2,3,2,0,2,,,
+UBCO,2017,W,CHEM,113,,003,Principles of Chemistry II,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,22,69.227272727,13.305680198,94.0,47.0,,,,,,,,,,,2,0,2,6,2,0,3,1,3,1,2,,,
+UBCO,2017,W,CHEM,113,,004,Principles of Chemistry II,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Freeman;Tamara Kunz,10,65.7,9.068259664,85.0,51.0,,,,,,,,,,,0,1,1,2,2,3,0,0,0,1,0,,,
+UBCO,2017,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,243,68.226337449,15.440441618,100.0,0.0,,,,,,,,,,,32,2,23,20,27,32,24,28,16,22,17,,,
+UBCO,2017,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,251,71.996015936,12.347468731,100.0,33.0,,,,,,,,,,,19,0,13,25,30,22,33,40,26,24,19,,,
+UBCO,2017,W,CHEM,121,,003,Atomic and Molecular Chemistry,Edward Neeland;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,136,67.683823529,14.914920298,99.0,12.0,,,,,,,,,,,25,0,4,8,13,26,15,21,14,5,5,,,
+UBCO,2017,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Freeman;Tamara Kunz,226,69.654867257,14.834955663,97.0,5.0,,,,,,,,,,,23,0,22,26,24,29,21,21,20,22,18,,,
+UBCO,2017,W,CHEM,123,,002,Physical and Organic Chemistry,Sandra Mecklenburg;Tamara Freeman;Tamara Kunz,173,71.895953757,12.598017371,98.0,12.0,,,,,,,,,,,10,1,11,20,17,24,23,18,24,12,13,,,
+UBCO,2017,W,CHEM,123,,003,Physical and Organic Chemistry,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,98,72.306122449,13.613522812,100.0,43.0,,,,,,,,,,,9,1,7,10,7,10,17,7,10,5,15,,,
+UBCO,2017,W,CHEM,123,,004,Physical and Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Freeman;Tamara Kunz,64,64.890625,11.490668661,90.0,31.0,,,,,,,,,,,3,7,7,8,9,15,7,1,4,1,2,,,
+UBCO,2018,S,CHEM,121,,001,Atomic and Molecular Chemistry,Elizabeth-Anne Strohm;Tamara Freeman;Tamara Kunz;Yasfatemeh Yamin,58,72.155172414,14.769339654,95.0,21.0,,,,,,,,,,,4,1,4,5,7,8,5,4,6,6,8,,,
+UBCO,2018,S,CHEM,123,,101,Physical and Organic Chemistry,Elizabeth-Anne Strohm;Sandra Mecklenburg;Tamara Freeman;Tamara Kunz;Yasfatemeh Yamin,52,67.057692308,14.547304125,97.0,41.0,,,,,,,,,,,9,2,4,5,6,8,3,2,5,4,4,,,
+UBCO,2018,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz;W. Stephen Mcneil,16,73.625,12.093386622,91.0,56.0,,,,,,,,,,,0,0,3,2,0,2,1,2,2,2,2,,,
+UBCO,2018,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,39,70.641025641,15.923314881,88.0,12.0,,,,,,,,,,,5,0,1,4,2,6,5,1,7,8,0,,,
+UBCO,2018,W,CHEM,111,,003,Principles of Chemistry I,Tamara Kunz,45,67.933333333,16.925505229,96.0,25.0,,,,,,,,,,,7,1,6,2,3,3,4,4,8,6,1,,,
+UBCO,2018,W,CHEM,113,,001,Principles of Chemistry II,Tamara Freeman;Tamara Kunz,33,65.424242424,13.42113609,92.0,39.0,,,,,,,,,,,5,0,4,7,5,0,4,3,1,3,1,,,
+UBCO,2018,W,CHEM,113,,002,Principles of Chemistry II,Tamara Freeman;Tamara Kunz,53,64.849056604,13.024232188,91.0,38.0,,,,,,,,,,,10,1,6,5,5,8,5,7,3,1,2,,,
+UBCO,2018,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,176,75.522727273,14.5456737,98.0,0.0,,,,,,,,,,,10,1,8,8,15,11,22,18,30,31,22,,,
+UBCO,2018,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,239,72.0,12.502772802,97.0,22.0,,,,,,,,,,,16,2,11,25,14,38,37,19,36,25,16,,,
+UBCO,2018,W,CHEM,121,,003,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,241,72.12033195,14.871324528,98.0,2.0,,,,,,,,,,,22,2,10,21,13,31,27,23,46,23,23,,,
+UBCO,2018,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Freeman;Tamara Kunz,250,71.02,14.155603996,100.0,22.0,,,,,,,,,,,26,1,15,28,24,22,30,27,32,20,25,,,
+UBCO,2018,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Freeman;Tamara Kunz,334,69.502994012,12.920814156,97.0,27.0,,,,,,,,,,,38,1,22,33,42,32,43,34,51,21,17,,,
+UBCO,2019,S,CHEM,121,,001,Atomic and Molecular Chemistry,Ahlem Bensari;Dixon Kantymir;Elizabeth-Anne Strohm;Mohammad Hossein B. Khalilian;Mohammad Hossein Khalilian;Osei Boakye Fordwour;Osei Fordwour;Tamara Freeman;Tamara Kunz,39,70.692307692,14.565918849,96.0,46.0,,,,,,,,,,,6,1,1,3,4,3,7,4,2,4,4,,,
+UBCO,2019,S,CHEM,123,,101,Physical and Organic Chemistry,Ahlem Bensari;Dixon Kantymir;Elizabeth-Anne Strohm;Mohammad Hossein B. Khalilian;Mohammad Hossein Khalilian;Tamara Freeman;Tamara Kunz,38,65.105263158,15.877554229,94.0,0.0,,,,,,,,,,,5,0,5,5,8,3,5,2,1,2,2,,,
+UBCO,2019,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,39,73.461538462,13.027998501,95.0,43.0,,,,,,,,,,,3,0,1,2,5,2,9,5,2,4,6,,,
+UBCO,2019,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,62,68.790322581,15.207997353,97.0,28.0,,,,,,,,,,,10,0,6,5,9,1,5,5,10,8,3,,,
+UBCO,2019,W,CHEM,113,,001,Principles of Chemistry II,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,48,73.125,9.561948079,91.0,47.0,,,,,,,,,,,1,1,2,5,3,4,11,12,3,4,2,,,
+UBCO,2019,W,CHEM,113,,002,Principles of Chemistry II,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,40,71.575,9.891429857,92.0,47.0,,,,,,,,,,,1,0,2,6,5,5,10,4,3,2,2,,,
+UBCO,2019,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,339,75.073746313,12.851582955,98.0,30.0,,,,,,,,,,,19,1,14,21,25,37,36,40,47,47,52,,,
+UBCO,2019,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,274,72.481751825,13.116330559,96.0,24.0,,,,,,,,,,,25,2,15,17,27,27,26,36,39,35,25,,,
+UBCO,2019,W,CHEM,123,,001,Physical and Organic Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,305,76.93442623,9.724949013,98.0,42.0,,,,,,,,,,,5,1,6,13,17,37,45,61,57,33,30,,,
+UBCO,2019,W,CHEM,123,,002,Physical and Organic Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,255,74.854901961,10.055677946,96.0,38.0,,,,,,,,,,,7,3,8,18,17,30,40,37,54,30,11,,,
+UBCO,2020,W,CHEM,111,,001,Principles of Chemistry I,Emma Mitchell;Ozren Petkovic;Tamara Kunz,57,67.105263158,16.380175529,95.0,17.0,,,,,,,,,,,7,3,6,2,8,4,7,8,7,3,2,,,
+UBCO,2020,W,CHEM,111,,002,Principles of Chemistry I,Emma Mitchell;Ozren Petkovic;Tamara Kunz,65,70.846153846,16.571088122,94.0,22.0,,,,,,,,,,,9,1,6,2,2,6,7,6,15,5,6,,,
+UBCO,2020,W,CHEM,113,,001,Principles of Chemistry II,Emma Mitchell;Tamara Freeman;Tamara Kunz,46,74.173913043,12.65315832,95.0,47.0,,,,,,,,,,,3,2,2,2,3,6,1,7,9,6,5,,,
+UBCO,2020,W,CHEM,113,,002,Principles of Chemistry II,Matthew Mcconnachie;Tamara Kunz;W. Stephen Mcneil,31,68.677419355,13.365096575,91.0,42.0,,,,,,,,,,,5,0,3,2,4,3,0,6,6,1,1,,,
+UBCO,2020,W,CHEM,121,,001,Atomic and Molecular Chemistry,Emma Mitchell;Ozren Petkovic;Tamara Freeman;Tamara Kunz,346,75.910404624,13.252751702,100.0,17.0,,,,,,,,,,,19,7,16,19,19,33,35,39,57,55,47,,,
+UBCO,2020,W,CHEM,121,,002,Atomic and Molecular Chemistry,Emma Mitchell;Ozren Petkovic;Tamara Freeman;Tamara Kunz,204,69.318627451,16.171538767,97.0,0.0,,,,,,,,,,,24,4,14,11,19,29,25,23,29,16,10,,,
+UBCO,2020,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Freeman;Tamara Kunz,254,70.562992126,14.643928193,97.0,7.0,,,,,,,,,,,31,2,13,23,29,23,30,30,26,24,23,,,
+UBCO,2020,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Kunz;W. Stephen Mcneil,190,72.768421053,13.439224461,97.0,23.0,,,,,,,,,,,15,2,9,16,19,19,23,17,29,21,20,,,
+UBCO,2020,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Paul Shipley;Tamara Freeman;Tamara Kunz,170,77.270588235,12.503148229,99.0,29.0,,,,,,,,,,,5,0,6,8,12,21,11,32,21,23,31,,,
+UBCO,2021,S,CHEM,121,,001,Atomic and Molecular Chemistry,Alireza Sadeghifar;Amanda Darbyshire;Darina Vekhova;Kadie Wert;Ozren Petkovic;Tamara Freeman;Tamara Kunz,50,68.48,16.460515527,99.0,21.0,,,,,,,,,,,6,3,6,5,7,2,3,6,2,3,7,,,
+UBCO,2021,S,CHEM,123,,101,Physical and Organic Chemistry,Alireza Sadeghifar;Amanda Darbyshire;Chang Liu;Darina Vekhova;Kadie Wert;Ozren Petkovic;Peter Ohemeng;Tamara Freeman;Tamara Kunz,53,70.622641509,14.626407118,100.0,47.0,,,,,,,,,,,5,2,6,6,7,2,5,5,5,3,7,,,
+UBCO,2021,W,CHEM,111,,001,Principles of Chemistry I,Heather Ng-Cornish;Paige Dafoe;Tamara Kunz,59,70.86440678,17.879344302,96.0,15.0,,,,,,,,,,,10,1,2,5,3,2,6,9,6,10,5,,,
+UBCO,2021,W,CHEM,111,,002,Principles of Chemistry I,Heather Ng-Cornish;Paige Dafoe;Tamara Kunz,54,66.944444444,16.801186691,96.0,15.0,,,,,,,,,,,10,1,3,5,6,9,5,3,2,7,3,,,
+UBCO,2021,W,CHEM,113,,001,Principles of Chemistry II,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,40,66.675,14.050070718,90.0,41.0,,,,,,,,,,,9,0,3,2,4,3,6,4,6,2,1,,,
+UBCO,2021,W,CHEM,113,,002,Principles of Chemistry II,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,42,68.833333333,14.909346662,91.0,34.0,,,,,,,,,,,8,0,2,4,5,4,3,3,5,4,4,,,
+UBCO,2021,W,CHEM,121,,001,Atomic and Molecular Chemistry,Alireza Sadeghifar;Tamara Freeman;Tamara Kunz,281,74.288256228,13.388914824,97.0,15.0,,,,,,,,,,,21,2,10,19,19,24,32,35,58,39,22,,,
+UBCO,2021,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,261,72.701149425,15.304183648,99.0,0.0,,,,,,,,,,,31,1,4,23,16,24,36,32,40,29,25,,,
+UBCO,2021,W,CHEM,123,,001,Physical and Organic Chemistry,Alireza Sadeghifar;Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,264,70.223484848,13.205571815,100.0,8.0,,,,,,,,,,,22,1,23,31,30,26,32,28,31,24,16,,,
+UBCO,2021,W,CHEM,123,,002,Physical and Organic Chemistry,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,218,67.151376147,16.05319564,98.0,0.0,,,,,,,,,,,33,3,11,29,25,27,23,14,28,12,13,,,
+UBCO,2021,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,James Herriman;Tamara Freeman;Tamara Kunz,144,70.5625,16.48551759,98.0,14.0,,,,,,,,,,,22,0,8,15,12,12,9,16,14,16,20,,,
+UBCV,2020,S,CHEM,233,,921,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Jan Gustowski;Jason Wickenden;Leo Liu;Lily Southcott;Tamara Freeman;Tamara Kunz;Trevor Bolduc;Vani Verma,424,70.962264151,16.438250112,100.0,0.0,,,,,,,,,,,29,28,34,29,28,53,40,31,69,23,60,,,
+UBCO,2021,S,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz;Alireza Sadeghifar,50,68.5,,99.0,21.0,,,,,,,,,,,6,,6,,7,,,6,,,7,66.5,78.8,58.0
+UBCO,2021,S,CHEM,123,,101,Physical and Organic Chemistry,Tamara Kunz;Alireza Sadeghifar,53,70.6,,100.0,47.0,,,,,,,,,,,,,6,6,7,,,,,,7,68.0,81.0,60.0
+UBCO,2021,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,59,70.9,,96.0,15.0,,,,,,,,,,,10,,,,,,6,9,6,10,,76.0,84.5,62.5
+UBCO,2021,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,54,66.9,,96.0,15.0,,,,,,,,,,,10,,,,6,9,,,,7,,68.5,78.3,59.5
+UBCO,2021,W,CHEM,113,,001,Principles of Chemistry II,Tamara Kunz;W. Stephen Mcneil,40,66.7,,90.0,41.0,,,,,,,,,,,9,,,,,,6,,6,,,70.0,76.3,55.8
+UBCO,2021,W,CHEM,113,,002,Principles of Chemistry II,Tamara Kunz;W. Stephen Mcneil,42,68.8,,91.0,34.0,,,,,,,,,,,8,,,,,,,,,,,68.0,80.8,60.3
+UBCO,2021,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz;Alireza Sadeghifar,281,74.3,,97.0,15.0,,,,,,,,,,,21,2,10,19,19,24,32,35,58,39,22,77.0,83.0,67.0
+UBCO,2021,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Kunz,261,72.7,,99.0,0.0,,,,,,,,,,,31,,,23,16,24,36,32,40,29,25,75.0,83.0,66.0
+UBCO,2021,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Kunz;W. Stephen Mcneil;Alireza Sadeghifar,264,70.3,,100.0,8.0,,,,,,,,,,,21,1,23,32,30,26,32,27,32,24,16,71.0,80.0,62.0
+UBCO,2021,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Kunz;W. Stephen Mcneil,218,67.2,,98.0,0.0,,,,,,,,,,,33,3,11,29,25,27,23,14,28,12,13,68.0,77.8,61.0
+UBCO,2021,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Tamara Kunz,144,70.6,,98.0,14.0,,,,,,,,,,,22,0,8,15,12,12,9,16,14,16,20,72.0,83.5,61.0
+UBCO,2022,S,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz;Alireza Sadeghifar,41,72.4,,90.0,33.0,,,,,,,,,,,4,0,2,6,2,3,4,3,9,5,3,75.0,82.0,63.0
+UBCO,2022,S,CHEM,123,,101,Physical and Organic Chemistry,Tamara Kunz;Alireza Sadeghifar,38,70.1,,96.0,25.0,,,,,,,,,,,3,1,4,5,7,0,4,1,3,5,5,66.0,84.3,60.3
+UBCO,2022,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz;Xia Li,46,63.9,,87.0,29.0,,,,,,,,,,,14,1,1,4,4,4,5,5,4,4,0,67.0,76.0,47.0
+UBCO,2022,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,59,66.2,,93.0,15.0,,,,,,,,,,,10,2,6,6,4,6,3,8,9,4,1,70.0,79.0,57.5
+UBCO,2022,W,CHEM,113,,002,Principles of Chemistry II,Tamara Kunz;W. Stephen McNeil,49,64.2,,93.0,30.0,,,,,,,,,,,8,1,3,13,5,5,5,4,3,1,1,63.0,73.0,60.0
+UBCO,2022,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz;Xia Li,197,67.0,,93.0,0.0,,,,,,,,,,,34,4,11,14,16,32,29,20,20,11,6,70.0,77.0,60.0
+UBCO,2022,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Kunz,266,74.0,,98.0,0.0,,,,,,,,,,,23,1,10,10,26,30,26,32,46,37,25,76.0,84.0,67.0
+UBCO,2022,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Kunz;W. Stephen McNeil,280,70.1,,100.0,14.0,,,,,,,,,,,32,1,20,33,27,27,30,30,35,24,21,71.5,80.0,62.0
+UBCO,2023,W,CHEM,123,,002,Physical and Organic Chemistry,Tamara Kunz,230,70.1,,94.0,1.0,,,,,,,,,,,23,3,19,24,18,23,22,24,24,26,19,72.0,82.0,61.0
+UBCO,2023,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Tamara Kunz,154,68.6,,95.0,24.0,,,,,,,,,,,23,2,12,14,20,17,13,14,16,10,12,69.0,78.0,60.0
+UBCO,2023,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Tamara Kunz,148,67.7,,99.0,1.0,,,,,,,,,,,28,3,6,12,8,18,12,13,9,15,15,69.0,81.5,57.0

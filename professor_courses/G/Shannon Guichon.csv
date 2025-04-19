@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,FRST,201,,001,Forest Ecology,Allen Larocque;Deirdre Loughnan;Eva Snyder;Shannon Guichon;Suzanne Simard,196,87.724489796,6.794840595,97.0,55.0,0,0,2,1,1,3,2,9,25,52,101,,,
+UBCV,2021,S,FRST,201,,921,Forest Ecology,Shannon Guichon;Spencer Shields,13,85.692307692,6.485684433,97.0,77.0,0,0,0,0,0,0,0,2,5,2,4,,,
+UBCV,2021,W,FRST,201,,001,Forest Ecology,Brian Duarte;Christophe Boyer;Fumika Noguchi;Natalia Mondi;Shannon Guichon;Spencer Shields;Suzanne Simard,174,80.58045977,12.931650817,99.0,0.0,3,5,5,1,4,6,12,19,39,44,36,,,
+UBCV,2021,S,FRST,201,,921,Forest Ecology,Shannon Guichon,13,85.7,,97.0,77.0,,,,,,,,,,,,84.0,90.0,81.0
+UBCV,2021,W,FRST,201,,001,Forest Ecology,Shannon Guichon,173,81.0,,99.0,29.0,,,,,,6,12,19,39,44,36,83.0,88.0,77.0
+UBCV,2022,S,FRST,201,,921,Forest Ecology,Shannon Guichon,13,86.3,,98.0,71.0,0,0,0,0,0,1,1,0,3,2,6,88.0,92.0,80.0
+UBCV,2022,S,FRST,307,,921,Biotic Disturbances,Shannon Guichon,22,89.9,,99.0,74.0,0,0,0,0,0,0,2,0,2,4,14,91.5,94.0,86.5
+UBCV,2022,W,FRST,201,,101,Forest Ecology,Shannon Guichon,168,83.1,,99.0,24.0,2,0,1,1,4,7,11,20,34,38,50,85.0,90.0,78.0
+UBCV,2023,S,FRST,307,,921,Biotic Disturbances,Shannon Guichon,29,83.61,,100.0,62.0,0,0,0,2,0,1,4,2,5,4,10,84.0,92.0,75.75
+UBCV,2023,W,FRST,201,,101,Forest Ecology,Shannon Guichon;Danielle Ignace,197,87.9,,99.0,11.0,5,0,0,1,1,3,3,10,19,38,117,91.0,95.0,86.0
+UBCV,2023,W,FRST,350,,101,Foundational Field School,Shannon Guichon,38,91.9,,99.0,86.0,0,0,0,0,0,0,0,0,0,5,33,92.0,94.0,91.0

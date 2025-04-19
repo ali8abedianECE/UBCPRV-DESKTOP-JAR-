@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,BUSI,354,,971,COST ACCOUNTING,"McGuinness, Alina",57,74.39,9.72,93,54,56,0,1,0,0,0,0,0,0,0,0,1,3,4,6,6,7,14,5,6,4,,,
+UBC,2017,W,BUSI,354,,201,COST ACCOUNTING,"McGuinness, Alina",48,73.09,10.79,95,41,46,1,1,0,0,0,0,0,0,1,1,1,2,4,8,6,3,8,4,9,1,,,
+UBC,2018,S,BUSI,354,,921,COST ACCOUNTING,"McGuinness, Alina",46,73.02,11.07,93,46,45,1,0,0,0,0,0,0,0,1,1,0,4,3,7,7,7,2,5,7,3,,,
+UBC,2018,S,BUSI,455,,971,PRIN AUDIT,"McGuinness, Alina",46,74.54,8.55,90,53,46,0,0,0,0,0,0,0,0,0,0,1,0,5,5,5,6,9,10,4,1,,,
+UBC,2018,S,COMM,455,,971,PRNCPLS OF AUDIT,"McGuinness, Alina",7,81,8.35,90,66,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,1,,,
+UBC,2018,W,BUSI,293,,105,INTR FNCL ACCT,"McGuinness, Alina;Norwood, Peter",24,76.79,10.04,91,50,24,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2,3,1,10,2,2,,,
+UBC,2018,W,BUSI,294,,102,INTR MGMT ACCT,"McGuinness, Alina;Norwood, Peter",46,76.91,12.01,97,41,44,2,0,0,0,0,0,0,0,2,2,0,0,1,4,9,9,1,3,9,8,,,
+UBC,2018,W,BUSI,354,,102,COST ACCOUNTING,"McGuinness, Alina",49,71.22,9.96,92,55,46,0,3,0,0,0,0,0,0,0,0,0,3,9,7,4,8,3,8,1,3,,,
+UBC,2018,W,BUSI,354,,201,COST ACCOUNTING,"McGuinness, Alina",79,75.37,11.21,98,52,76,0,3,0,0,0,0,0,0,0,0,1,1,10,14,6,8,7,10,7,12,,,
+UBCV,2022,S,BUSI,354,,921,Cost Accounting,Alina McGuinness,22,73.0,,96.0,51.0,,,,,,,,,,,0,1,0,2,3,4,4,3,3,1,1,75.0,77.8,67.3
+UBCV,2022,W,BUSI,293,,102,Introductory Financial Accounting,Alina McGuinness,35,73.6,,97.0,25.0,,,,,,,,,,,2,2,2,5,2,1,0,1,6,9,5,80.0,86.0,61.5
+UBCV,2022,W,BUSI,293,,202,Introductory Financial Accounting,Alina McGuinness,45,71.8,,96.0,1.0,,,,,,,,,,,5,2,2,1,2,2,6,5,5,5,10,76.0,87.0,64.0
+UBCV,2022,W,BUSI,294,,102,Introductory Management Accounting,Alina McGuinness,53,70.0,,95.0,33.0,,,,,,,,,,,7,1,1,7,10,2,5,3,2,7,8,70.0,85.0,62.0
+UBCV,2022,W,BUSI,294,,201,Introductory Management Accounting,Alina McGuinness,60,74.8,,98.0,45.0,,,,,,,,,,,2,1,4,5,5,5,5,6,8,16,3,77.0,85.0,65.8
+UBCV,2022,W,BUSI,294,,202,Introductory Management Accounting,Alina McGuinness,54,71.9,,98.0,1.0,,,,,,,,,,,4,3,6,7,2,4,0,4,5,7,12,77.5,87.8,60.0
+UBCV,2022,W,BUSI,354,,101,Cost Accounting,Alina McGuinness,28,71.6,,95.0,51.0,,,,,,,,,,,0,2,2,3,4,1,7,2,2,4,1,73.5,77.8,64.5
+UBCV,2022,W,BUSI,354,,102,Cost Accounting,Alina McGuinness,39,67.6,,93.0,20.0,,,,,,,,,,,4,4,2,3,8,2,2,3,2,4,5,67.0,80.5,58.5
+UBCV,2022,W,BUSI,354,,202,Cost Accounting,Alina McGuinness,60,71.6,,97.0,32.0,,,,,,,,,,,6,6,1,3,2,2,8,10,5,11,6,76.0,85.0,61.0
+UBCV,2023,S,BUSI,294,,922,Introductory Management Accounting,Alina McGuinness,51,72.6,,97.0,32.0,,,,,,,,,,,5,4,0,2,6,2,4,5,8,2,10,76.0,84.3,64.0
+UBCV,2023,S,COMM,294,,921,Managerial Accounting,Alina McGuinness,6,75.83,,96.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,1,1,0,1,74.5,80.0,69.75
+UBCV,2023,W,BUSI,293,,102,Introductory Financial Accounting,Alina McGuinness,54,75.8,,98.0,40.0,,,,,,,,,,,1,1,1,5,5,2,8,5,8,6,8,76.0,85.0,67.3
+UBCV,2023,W,BUSI,293,,202,Introductory Financial Accounting,Alina McGuinness,48,73.5,,96.0,4.0,,,,,,,,,,,4,3,1,5,2,2,3,0,6,9,8,80.0,87.5,60.5
+UBCV,2023,W,BUSI,294,,102,Introductory Management Accounting,Alina McGuinness,64,70.1,,96.0,23.0,,,,,,,,,,,8,1,3,3,7,7,5,6,9,5,9,72.0,81.5,64.0
+UBCV,2023,W,BUSI,294,,202,Introductory Management Accounting,Alina McGuinness,52,75.1,,98.0,6.0,,,,,,,,,,,2,1,1,6,2,3,3,8,12,4,9,78.0,84.5,68.5
+UBCV,2023,W,BUSI,354,,101,Cost Accounting,Alina McGuinness,42,74.6,,92.0,42.0,,,,,,,,,,,1,1,2,2,2,4,9,4,6,6,4,74.0,83.0,68.0
+UBCV,2023,W,BUSI,354,,102,Cost Accounting,Alina McGuinness,47,69.3,,92.0,5.0,,,,,,,,,,,1,2,1,7,3,12,7,6,2,4,2,69.0,76.0,64.5
+UBCV,2023,W,BUSI,354,,201,Cost Accounting,Alina McGuinness,39,75.1,,94.0,39.0,,,,,,,,,,,1,0,3,5,2,4,3,3,5,4,8,76.0,87.5,64.5
+UBCV,2023,W,BUSI,354,,202,Cost Accounting,Alina McGuinness,52,73.7,,95.0,32.0,,,,,,,,,,,1,3,3,3,5,4,9,4,6,8,6,74.0,85.3,65.0

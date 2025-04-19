@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,S,SPHA,564,,901,LEAD MAN SKIL,"Waldner, Howard",39,83.79,5.82,95,71,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,9,11,8
+UBC,2016,S,SPHA,564,,901,LEAD MAN SKIL,"Waldner, Howard",31,84.87,4.07,90,72,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,11,17,1
+UBC,2017,S,SPHA,564,,901,LEAD MAN SKIL,"Waldner, Howard",34,85.26,5.48,95,74,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,14,9
+UBC,2018,S,SPHA,564,,901,LEAD MAN SKIL,"Waldner, Howard",30,86.57,4.44,96,76,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,15,6
+UBCV,2015,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,39,83.7948718,5.822729904,95.0,71.0,,,,,,,,,,,0,0,0,0,0,,,9,9,11,8
+UBCV,2016,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,31,84.87096774,4.072197895,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,11,17,1
+UBCV,2017,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,34,85.264705882,5.484461928,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,3,5,14,9
+UBCV,2018,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,30,86.566666667,4.438727166,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,15,6
+UBCV,2019,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,29,92.793103448,3.063370114,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,27
+UBCV,2020,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner,28,92.892857143,2.362347949,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,27
+UBCV,2021,S,SPHA,564,,901,Leadership and Management Skills,Howard Waldner;Jennifer Duff,36,85.638888889,4.243669421,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,11,15,8

@@ -1,0 +1,63 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHAR,100,,001,PROF PRACTICE I,"Fielding, David;Pearson, Marion",139,77.15,6.28,91,61,139,0,0,0,0,0,0,0,0,0,0,0,0,2,9,14,31,26,43,11,3
+UBC,2003,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion",48,79.52,6.69,90,63,46,0,1,0,1,0,0,0,0,0,0,0,0,1,1,5,6,9,11,12,1
+UBC,2003,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion",47,77.57,7.89,93,56,47,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,6,8,12,8,2
+UBC,2003,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion",46,78.37,8.88,91,58,46,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,3,7,12,10,3
+UBC,2005,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion",27,82.07,6.24,90,66,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,7,10,3
+UBC,2005,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion",26,81.08,9.36,94,60,26,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,2,7,4,7
+UBC,2005,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion",27,79.81,7.36,91,68,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,5,3,8,3
+UBC,2005,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion",26,81.15,6.05,91,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,11,5,3
+UBC,2005,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion",26,80.12,8.64,96,62,25,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,3,5,6,1,7
+UBC,2005,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion",26,76.19,8.34,90,50,26,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,4,5,6,4,1
+UBC,2006,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion",26,80.46,8.5,94,63,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1,2,7,7,4
+UBC,2006,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion",26,81.96,7.48,94,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,5,6,5
+UBC,2006,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion",26,84.81,4.85,92,73,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,14,4
+UBC,2006,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion",26,83.4,7.35,97,68,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,4,9,5
+UBC,2006,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion",26,83.77,6.02,93,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,8,6
+UBC,2006,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion",23,84.39,6.9,92,65,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,8,7
+UBC,2007,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion",25,78.16,8,93,58,25,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,3,6,6,1
+UBC,2007,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion",26,74.69,8.94,95,54,26,0,0,0,0,0,0,0,0,0,0,1,1,0,2,5,3,5,6,2,1
+UBC,2007,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion",26,77.15,7.42,90,58,26,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,7,6,4,1
+UBC,2007,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion",26,75,6.27,86,62,26,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2,9,5,2,0
+UBC,2007,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion",26,71.84,6.84,87,60,25,0,1,0,0,0,0,0,0,0,0,0,0,4,1,6,5,6,2,1,0
+UBC,2007,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion",23,70.52,6.83,82,60,23,0,0,0,0,0,0,0,0,0,0,0,0,4,5,3,4,4,3,0,0
+UBC,2009,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,76.58,6.8,90,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,3,8,7,2,1
+UBC,2009,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,73.8,7.74,86,56,25,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,6,5,5,2,0
+UBC,2009,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,78.62,5.43,90,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,6,4,1
+UBC,2009,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,74.13,6.07,85,62,24,0,1,0,0,0,0,0,0,0,0,0,0,1,2,4,4,8,4,1,0
+UBC,2009,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,78.38,5.41,90,65,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,8,7,3,1
+UBC,2009,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,70.44,11.2,90,38,24,1,0,0,0,0,0,0,1,0,1,1,2,1,3,1,5,7,3,0,1
+UBC,2010,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,74.31,11.56,90,31,25,1,0,0,0,0,0,0,1,0,1,0,0,1,2,4,5,3,6,3,1
+UBC,2010,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony",27,76.7,7.7,88,53,27,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,6,3,10,4,0
+UBC,2010,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,79.69,4.09,86,73,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,9,5,0
+UBC,2010,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,73.12,6.88,87,60,26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,7,3,1,4,0
+UBC,2010,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony",25,75.16,8.7,91,55,25,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,4,7,4,3,1
+UBC,2010,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony",26,74.69,7.15,85,60,26,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,6,7,6,2,0
+UBC,2011,W,PHAR,202,,L01,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,78.76,6.31,90,60,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,4,9,5,1
+UBC,2011,W,PHAR,202,,L02,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.88,9.48,91,55,25,0,0,0,0,0,0,0,0,0,0,0,3,0,1,5,4,5,3,3,1
+UBC,2011,W,PHAR,202,,L03,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,78.71,9.93,91,50,24,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,2,5,4,7,2
+UBC,2011,W,PHAR,202,,L04,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,74.32,8.16,91,57,25,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,4,5,6,1,1
+UBC,2011,W,PHAR,202,,L05,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.52,6.32,85,57,25,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8,5,4,1,0
+UBC,2011,W,PHAR,202,,L06,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,77.28,6.53,88,60,25,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,5,8,4,0
+UBC,2011,W,PHAR,202,,L07,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,76.6,6.71,90,60,25,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,7,8,1,1
+UBC,2011,W,PHAR,202,,L08,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,73.44,8.91,87,51,25,0,0,0,0,0,0,0,0,0,0,1,0,1,4,5,3,2,6,3,0
+UBC,2011,W,PHAR,202,,L09,PHARM SKL I,"Pearson, Marion;Seet, Tony;Seto, Katherine",25,75.12,6.57,85,64,25,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,2,8,5,2,0
+UBC,2015,S,PHAR,405,B,943,PROB CLINCL PHAR,"Pearson, Marion",45,89.36,6.35,100,70,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,4,9,28
+UBC,2015,W,PHAR,405,B,004,PROB CLINCL PHAR,"Pearson, Marion",8,90.88,5.46,99,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7
+UBC,2015,W,PHAR,405,B,006,PROB CLINCL PHAR,"Pearson, Marion",22,89.05,5.73,98,76,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,13
+UBC,2016,S,PHAR,405,B,943,PROB CLINCL PHAR,"Pearson, Marion",25,88.17,5.45,97,72,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,9,12
+UBC,2016,W,PHAR,405,B,001,DIR CLINCL PHAR,"Pearson, Marion",12,89.08,6.33,97,80,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,6
+UBC,2016,W,PHAR,405,B,003,DIR CLINCL PHAR,"Pearson, Marion",4,92.75,4.27,99,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2017,W,PHAR,420,B,005,PHARMACY ED,"Pearson, Marion",7,91.86,5.08,100,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2018,W,PHRM,212,,001,MED MANAGEMENT 3,"Chan, Fong;Dossa, Anar;Elliot, Mary;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Grosshuesch, Jonathan;Khurana, Christine;Loewen, Peter Shane;MacLeod, Kathleen;McCormack, James;Mira, Aileen;Nicholl, Tessa;Pearson, Marion;Rodrigues, Brian;Soja, Peter;Watson, Hilary;Wilbur, Kerry;Xia, Jane Meng",208,81.61,6.31,94,59,208,0,0,0,0,0,0,0,0,0,0,0,1,0,1,12,27,37,58,49,23
+UBC,2018,W,PHRM,311,,001,MED MANAGEMENT 4,"Brady, Colleen;Cairns, Brian;Chan, Fong;Chauvin, Vaughn;Eccott, Lynda;Frankel, Adam;Johal, Ajit;Kim-Sing, Angela;McCormack, James;Mira, Aileen;Moshenko, Janice Lynn;Pearson, Marion;Price, Ingrid;Soja, Peter;Waignein, Sally;Wilbur, Kerry;Wong, Judy",213,82.07,5.73,92,59,213,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,19,27,77,69,11
+UBCV,2015,S,PHAR,405,B,943,Problems in Clinical Pharmacy,Marion Pearson,44,89.36363636,6.354236489,100.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,9,28
+UBCV,2015,W,PHAR,405,B,004,Problems in Clinical Pharmacy,Marion Pearson,8,90.875,5.462534733,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,PHAR,405,B,006,Problems in Clinical Pharmacy,Marion Pearson,22,89.045454545,5.727770885,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,,,13
+UBCV,2016,S,PHAR,405,B,943,Problems in Clinical Pharmacy,Marion Pearson,24,88.16666667,5.450701324,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,9,12
+UBCV,2016,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Marion Pearson,12,89.08333333,6.331139971,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,6
+UBCV,2017,W,PHAR,420,B,005,Directed Studies in Pharmacy Education,Marion Pearson,7,91.857142857,5.080307452,100.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5
+UBCV,2018,W,PHRM,212,,001,Medication Management III,Adam Frankel;Aileen Mira;Anar Dossa;Anne Nguyen;Brian Rodrigues;Christine Khurana;Fong Chan;Griffin Pauli;Hilary Watson;James Mccormack;Jane Meng Xia;Jonathan Grosshuesch;Katherine Seto;Kathleen Macleod;Kerry Wilbur;Marion Pearson;Mary Elliot;Michelle Fischer;Patricia Gerber;Peter Shane Loewen;Peter Soja;Siyue Yu;Sogand Assarnia;Tamiz Jamal Kanji;Tessa Nicholl,208,81.605769231,6.30760337,94.0,59.0,,,,,,,,,,,0,0,,,1,12,27,37,58,49,23
+UBCV,2018,W,PHRM,311,,001,Medication Management IV,Adam Frankel;Aileen Mira;Ajit Johal;Ali Reza Meghji;Angela Kim-Sing;Brian Cairns;Christine Khurana;Colleen Brady;Fawziah Lalji;Fong Chan;Hilary Watson;Ingrid Price;James Mccormack;Janice Lynn Moshenko;Jillian Reardon;Judith Soon;Judy Wong;Katherine Seto;Kerry Wilbur;Lukas Hohenwarter;Lynda Eccott;Marc Levine;Marion Pearson;Mary De Vera;Mary Elliot;Nelson Gorrin Morales;Nelson Varhola;Peter Soja;Sally Waignein;Shahrzad Salmasi;Tamiz Jamal Kanji;Tara Klassen;Tessa Nicholl;Tony Seet;Ujendra Kumar;Vaughn Chauvin;Yang Yang;Zheng Lin;Zheng Sonia Lin,213,82.070422535,5.73303225,92.0,59.0,,,,,,,,,,,0,0,,,2,6,19,27,77,69,11
+UBCV,2019,W,PHRM,311,,001,Medication Management IV,Adam Frankel;Aileen Mira;Ajit Johal;Ali Reza Ladak;Angela Kim-Sing;Brian Cairns;Colleen Brady;Fong Chan;Hilary Watson;Ingrid Price;Jagpaul Deol;James Mccormack;Jane Meng Xia;Janice Lynn Moshenko;Judy Wong;Katherine Seto;Kerry Wilbur;Lynda Eccott;Marion Pearson;Michael Rowley;Peter Soja;Ric Procyshyn;Sally Waignein;Shirin S.A. Abadi;Tarique Benbow;Tarique Vicario Benbow;Tessa Nicholl;Tony Seet;Truc Nguyen;Truc Thien Thanh Nguyen;Vaughn Chauvin;Yang Yang;Zeynab Nosrati,212,82.051886792,5.546199435,95.0,64.0,,,,,,,,,,,0,0,0,0,3,3,21,36,77,54,18
+UBCV,2020,W,PHRM,311,,001,Medication Management IV,Adam Frankel;Aileen Mira;Ajit Johal;Ali Reza Ladak;Angela Kim-Sing;Anne Nguyen;Asal Taheri;Brian Cairns;Colleen Brady;Colleen Inglis;Fong Chan;Ingrid Price;Jagpaul Deol;James Mccormack;Jane Meng Xia;Janice Lynn Moshenko;Jason Min;Judy Wong;Karen Dahri;Katherine Seto;Kerry Wilbur;Lynda Eccott;Marion Pearson;Peter Soja;Ric Procyshyn;Sally Waignein;Samantha Breaux;Shirin S.A. Abadi;Sogand Assarnia;Tessa Morin;Tessa Nicholl;Tessa Nicole Morin;Tony Seet;Truc Nguyen;Truc Thien Thanh Nguyen;Vaughn Chauvin,209,84.492822967,5.659504954,94.0,64.0,,,,,,,,,,,0,0,0,0,2,2,9,25,62,64,45

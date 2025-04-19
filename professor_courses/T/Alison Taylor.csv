@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,S,EDST,526,,971,ADV STUD EDU ORG,"Taylor, Alison",11,86.73,2.72,92,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,,,
+UBC,2015,W,EDST,575,,082,WORK & LEARNING,"Taylor, Alison",16,85.88,5.14,93,74,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,7,4,,,
+UBC,2016,S,EDST,526,,971,ADV STUD EDU ORG,"Taylor, Alison",11,87,2.57,91,82,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,2,,,
+UBC,2016,W,EDST,575,,082,WORK & LEARNING,"Taylor, Alison",16,88.44,2.76,92,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,,,
+UBC,2017,S,EDST,601,A,971,DOCTORAL SEM,"Kelly, Deirdre;Taylor, Alison",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,ADHE,330,,022,COM ADULT EDUC,"Taylor, Alison",8,83.88,1.55,86,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,,,
+UBC,2017,W,EDST,575,,082,WORK & LEARNING,"Taylor, Alison",18,84,4.1,90,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,7,2,,,
+UBC,2018,S,EDST,601,A,971,DOCTORAL SEM,"Kelly, Deirdre;Taylor, Alison",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDST,575,,082,WORK & LEARNING,"Taylor, Alison",20,86.68,4.23,91,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,11,5,,,
+UBCV,2015,S,EDST,526,,971,Advanced Study of Educational Organizations,Alison Taylor,11,86.72727273,2.723633936,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,,,,
+UBCV,2015,W,EDST,575,,082,Work and Learning,Alison Taylor,16,85.875,5.136470903,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,7,4,,,
+UBCV,2015,W,EDST,577,,082,"Social Contexts of Educational Policy, Politics and Practice",Alison Taylor;Fei Wang,11,88.545454545,1.572490786,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,4,,,
+UBCV,2016,S,EDST,526,,971,Advanced Study of Educational Organizations,Alison Taylor,11,87.0,2.569046516,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,2,,,
+UBCV,2016,W,EDST,575,,082,Work and Learning,Alison Taylor,16,88.4375,2.756053942,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,11,,,
+UBCV,2017,W,ADHE,330,,022,The Community Practice of Adult Education,Alison Taylor,8,83.875,1.552647509,86.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,2,0,,,
+UBCV,2017,W,EDST,575,,082,Work and Learning,Alison Taylor,18,84.0,4.101649596,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,7,2,,,
+UBCV,2018,W,EDST,575,,082,Work and Learning,Alison Taylor,19,86.684210526,4.230217115,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,11,5,,,
+UBCV,2019,W,ADHE,330,,021,The Community Practice of Adult Education,Alison Taylor;Jonathan Summers;Stephanie Glick,14,80.142857143,23.277117,91.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,5,3,,,
+UBCV,2019,W,ADHE,330,,022,The Community Practice of Adult Education,Alison Taylor;Stephanie Glick;Stephanie Nahima Glick,20,84.45,8.268360749,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,5,2,4,6,,,
+UBCV,2019,W,EDST,575,,082,Work and Learning,Alison Taylor,17,87.529411765,1.62471717,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,14,2,,,
+UBCV,2020,W,EDST,575,,082,Work and Learning,Alison Taylor;Laura Servage,15,84.333333333,15.304838948,92.0,30.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,5,8,,,
+UBCV,2020,W,EDST,583,A,021,Advanced Seminar in Educational Studies,Alison Taylor,9,87.111111111,3.257470048,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,2,,,
+UBCV,2021,W,ADHE,330,,022,The Community Practice of Adult Education,Alison Taylor;Elena Ignatovich;Jennifer Anaquod,27,84.814814815,2.587500086,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,11,15,0,,,
+UBCV,2021,W,EDST,575,,082,Work and Learning,Alison Taylor,14,87.0,2.218800785,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,3,,,
+UBCV,2021,W,ADHE,330,,022,The Community Practice of Adult Education,Alison Taylor,27,84.8,,89.0,76.0,,,,,,,,,,,,,,,,,,,11,15,,85.0,86.0,84.0
+UBCV,2021,W,EDST,575,,082,Work and Learning,Alison Taylor,15,87.3,,92.0,85.0,,,,,,,,,,,,,,,,,,,,11,,87.0,89.5,85.0
+UBCV,2022,W,EDST,575,,082,Work and Learning,Alison Taylor,14,83.9,,90.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,2,9,1,86.0,87.8,84.3
+UBCV,2022,W,EDST,583,A,021,Advanced Seminar in Educational Studies,Alison Taylor,9,86.4,,88.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,8,0,87.0,88.0,86.0
+UBCV,2023,W,ADHE,330,,021,The Community Practice of Adult Education,Alison Taylor,14,83.57,,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,5,0,84.0,85.0,82.5
+UBCV,2023,W,EDST,516,,021,Adult Education and Community,Alison Taylor,7,86.17,,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,1,85.5,86.0,85.0
+UBCV,2023,W,EDST,575,,082,Work and Learning,Alison Taylor,16,88.63,,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,6,88.5,90.0,87.75

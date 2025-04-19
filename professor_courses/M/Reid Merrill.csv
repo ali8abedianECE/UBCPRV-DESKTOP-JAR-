@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,PHYS,111,,002,Calculus-Based Physics I,Ben Tippett;Reid Merrill,103,70.40776699,13.903333564,99.0,18.0,9,2,4,12,4,18,17,12,14,5,6,,,
+UBCV,2017,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Ashley Davidson;Reid Merrill,26,87.423076923,7.669018591,95.0,63.0,0,0,0,1,0,0,1,2,2,6,14,,,
+UBCV,2018,W,EOSC,353,,201,Seismology,Michael Bostock;Reid Merrill,8,74.75,9.735795514,94.0,65.0,0,0,0,0,2,2,1,0,2,0,1,,,
+UBCV,2018,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock;Reid Merrill,10,75.7,7.33409087,89.0,65.0,0,0,0,0,1,3,1,2,2,1,0,,,
+UBCV,2019,W,EOSC,326,,99C,Earth and Life Through Time,David Zeko;Louise Longridge;Reid Merrill,133,77.872180451,11.440500581,95.0,38.0,1,5,5,4,12,9,8,13,23,31,22,,,
+UBCV,2019,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock;Reid Merrill,9,74.222222222,12.537720863,89.0,51.0,0,1,0,1,0,2,1,1,0,3,0,,,
+UBCV,2020,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock;Reid Merrill,11,76.272727273,15.81196325,98.0,50.0,0,2,0,0,1,1,1,0,1,4,1,,,
+UBCV,2021,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Bianca Iulianella Phillips;Gregory Dipple;Lori Kennedy;Reid Merrill;Simon Peacock;Zaara Hussain,129,76.317829457,14.544105602,99.0,22.0,6,4,6,3,10,12,16,10,20,18,24,,,
+UBCV,2021,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Geena Littel;Jennifer Crandall Haywood;Michael Bostock;Reid Merrill,10,76.2,9.612491873,86.0,60.0,0,0,0,2,0,0,2,2,2,2,0,,,
+UBCV,2021,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Reid Merrill,10,76.2,,86.0,60.0,,,,,,,,,,,,78.5,83.8,73.3

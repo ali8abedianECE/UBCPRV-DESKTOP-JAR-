@@ -1,0 +1,74 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,MICB,421,,201,EXPERMNTL MICB,"Ramey, William D;Sibley, Jennifer",69,78.41,6.28,90,50,69,0,0,0,0,0,0,0,0,0,0,1,0,1,0,6,11,15,25,9,1,,,
+UBC,2005,W,MICB,447,,102,EXPRMTL RESEARCH,"Ramey, William D;Sibley, Jennifer",10,85.4,3.98,94,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,,,
+UBC,2006,W,MICB,447,,102,EXPRMTL RESEARCH,"Ramey, William D;Sibley, Jennifer",11,76.55,24.05,90,5,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,5,2,2,,,
+UBC,2007,W,MICB,447,,102,EXPRMTL RESEARCH,"Ramey, William D;Sibley, Jennifer",11,86.27,8.25,95,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,5,,,
+UBC,2009,W,BIOL,346,,201,MICROBES & SOCTY,"Davies, Julian;Sibley, Jennifer",38,74.39,9.86,91,43,35,1,1,0,1,0,0,0,0,1,1,0,1,2,5,4,6,3,8,5,1,,,
+UBC,2012,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",65,70.16,10.25,87,47,62,2,1,0,0,0,0,0,0,2,2,3,5,8,5,10,8,10,7,6,0,,,
+UBC,2012,W,MICB,322,,101,MOLECLR MICB LAB,"Sibley, Jennifer",84,78.94,4.9,88,68,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,20,29,12,0,,,
+UBC,2013,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",71,70.49,9.63,91,39,66,1,4,0,0,0,0,0,1,0,1,0,6,10,9,9,13,7,7,3,2,,,
+UBC,2013,W,MICB,322,,101,MOLECLR MICB LAB,"Sibley, Jennifer",84,77.58,5.93,90,51,84,0,0,0,0,0,0,0,0,0,0,1,0,0,2,6,20,20,26,8,1,,,
+UBC,2014,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",92,70.08,8.78,87,40,86,2,2,1,0,0,0,0,0,2,2,2,7,4,12,17,20,10,11,3,0,,,
+UBC,2014,W,MICB,322,,101,MOLECLR MICB LAB,"Sibley, Jennifer",84,80.7,4.7,90,69,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,18,35,18,1,,,
+UBC,2015,W,MICB,202,,201,MED MICB & IMMUN,"Kion, Tracy;Sibley, Jennifer;Thompson, Charles",243,75.43,13.04,97,28,233,7,3,0,0,0,0,1,3,3,7,9,13,13,14,26,32,21,32,48,25,,,
+UBC,2015,W,MICB,202,,203,MED MICB & IMMUN,"Abraham, Ninan;Finlay, B Brett;Sibley, Jennifer",180,74.39,13.44,99,27,172,7,1,0,0,0,0,1,0,6,7,6,12,16,10,19,20,20,22,21,26,,,
+UBC,2016,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",94,69.48,11.06,91,36,87,2,4,1,0,0,0,0,1,1,2,1,16,11,9,12,8,15,6,5,4,,,
+UBC,2016,W,BIOL,346,,201,MICROBES & SOCTY,"Davies, Julian;Sibley, Jennifer",37,82.27,9.6,98,59,37,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,6,6,4,5,12,,,
+UBC,2016,W,MICB,202,,201,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Osborne, Lisa;Sibley, Jennifer;Steiner, Theodore",246,79.29,12.77,98,0,240,3,3,0,0,1,1,0,0,1,3,5,9,6,11,18,25,22,52,42,50,,,
+UBC,2016,W,MICB,202,,203,MED MICB & IMMUN,"Gaynor, Erin;Kion, Tracy;Osborne, Lisa;Sibley, Jennifer;Steiner, Theodore",213,78.33,14.44,98,0,204,6,2,1,0,1,0,0,1,4,6,10,6,10,13,11,16,16,31,50,41,,,
+UBC,2016,W,MICB,322,,101,MOLECLR MICB LAB,"Nomellini, John;Sibley, Jennifer",84,83.95,5.17,95,65,84,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,13,26,30,10,,,
+UBC,2017,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",61,72.36,9.43,91,50,61,0,0,0,0,0,0,0,0,0,0,2,5,2,9,12,8,7,10,4,2,,,
+UBC,2017,W,BIOL,346,,201,MICROBES & SOCTY,"Davies, Julian;Dill-Mcfarland, Kimberly Anne;Holert, Johannes;Sibley, Jennifer",38,85.58,8.78,98,67,38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,5,9,13,,,
+UBC,2017,W,MICB,202,,203,MED MICB & IMMUN,"Kion, Tracy;Osborne, Lisa;Sibley, Jennifer",378,78.4,11.96,96,28,364,9,3,0,1,0,0,1,1,7,9,11,15,14,21,19,29,49,67,82,57,,,
+UBC,2017,W,MICB,302,,101,IMMUNOLOGY,"Jean, Francois;Johnson, Pauline;Kion, Tracy;Sibley, Jennifer",215,77.92,13.77,98,24,201,12,1,1,0,0,0,2,3,7,12,2,4,9,9,17,19,23,40,39,39,,,
+UBC,2017,W,MICB,322,,101,MOLECLR MICB LAB,"Sibley, Jennifer",84,79.24,6.72,93,62,84,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,12,20,24,12,6,,,
+UBC,2018,S,MICB,201,,921,INT ENV MICRBIOL,"Sibley, Jennifer",77,69.18,10.44,93,50,73,0,3,0,1,0,0,0,0,0,0,5,9,11,7,12,7,12,3,3,4,,,
+UBC,2018,W,BIOL,346,,201,MICROBES & SOCTY,"Davies, Julian;Nomellini, John;Sibley, Jennifer",38,86.32,13.02,100,43,35,2,0,1,0,0,0,0,0,2,2,0,1,0,0,0,1,1,3,10,19,,,
+UBC,2018,W,MICB,322,,101,MOLECLR MICB LAB,"Sibley, Jennifer",84,79.62,6.74,95,63,84,0,0,0,0,0,0,0,0,0,0,0,0,1,2,8,12,14,27,14,6,,,
+UBCV,2014,S,MICB,201,,921,Introductory Environmental Microbiology,Jennifer Sibley,89,70.05617978,8.733893684,87.0,40.0,,,,,,,,,,,,,7,,12,18,20,10,11,,0,,,
+UBCV,2014,W,MICB,322,,101,Molecular Microbiology Laboratory,Alexander Westbye;Jan Burian;Jennifer Sibley;Martha Liu,84,80.70238095,4.697550661,90.0,69.0,,,,,,,,,,,0,0,0,0,0,,11,18,35,18,,,,
+UBCV,2015,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Charles Thompson;Jennifer Sibley;Tracy Kion,240,75.433333333,13.03662901,97.0,28.0,,,,,,,,,,,7,9,13,13,14,26,32,21,32,48,25,,,
+UBCV,2015,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,B Brett Finlay;Jennifer Sibley;Ninan Abraham,179,74.38547486,13.439084839,99.0,27.0,,,,,,,,,,,7,6,12,16,10,19,20,20,22,21,26,,,
+UBCV,2016,S,MICB,201,,921,Introductory Environmental Microbiology,Jennifer Sibley,89,69.48314607,11.05781538,91.0,36.0,,,,,,,,,,,2,1,16,11,9,12,8,15,6,5,4,,,
+UBCV,2016,W,BIOL,346,,201,Microbes and Society,Jan Burian;Jennifer Sibley;Johannes Holert;Julian Davies;Nicolette Fonseca,37,82.27027027,9.602223842,98.0,59.0,,,,,,,,,,,0,0,1,0,0,3,6,6,4,5,12,,,
+UBCV,2016,W,MICB,201,,201,Introductory Environmental Microbiology,Christina Wiesmann;Jennifer Sibley;Wade Bingle;William Mohn,186,72.38172043,13.24690639,93.0,0.0,,,,,,,,,,,4,9,19,6,11,29,22,21,31,29,5,,,
+UBCV,2016,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Lisa Osborne;Theodore Steiner;Tracy Kion,243,79.28806584,12.76582398,98.0,0.0,,,,,,,,,,,3,5,9,6,11,18,25,22,52,42,50,,,
+UBCV,2016,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Lisa Osborne;Theodore Steiner;Tracy Kion,210,78.33333333,14.43524837,98.0,0.0,,,,,,,,,,,6,10,6,10,13,11,16,16,31,50,41,,,
+UBCV,2016,W,MICB,322,,101,Molecular Microbiology Laboratory,Corrie Belanger;Jennifer Sibley;Jessica Allanach;John Fiore Nomellini;John Nomellini;Sarah Woodward,84,83.95238095,5.169196908,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,4,13,26,30,10,,,
+UBCV,2017,S,MICB,201,,921,Introductory Environmental Microbiology,Jennifer Sibley,61,72.360655738,9.425201655,91.0,50.0,,,,,,,,,,,0,2,5,2,9,12,8,7,10,4,2,,,
+UBCV,2017,W,BIOL,346,,201,Microbes and Society,Jenifer Spence;Jennifer Sibley;Johannes Holert;Julian Davies;Kimberly Anne Dill-Mcfarland,38,85.578947368,8.78152723,98.0,67.0,,,,,,,,,,,0,0,0,0,1,2,4,4,5,9,13,,,
+UBCV,2017,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Brigid Conroy;Jennifer Sibley;Lisa Osborne;Tracy Kion,374,78.35828877,11.98121735,96.0,28.0,,,,,,,,,,,9,11,15,15,21,19,29,49,67,82,57,,,
+UBCV,2017,W,MICB,302,,101,Immunology,Abdalla Sheikh;Caitlin Pritchard;Francois Jean;Hannah Robinson;Jennifer Sibley;Pauline Johnson;Tracy Kion,213,77.920187793,13.770635149,98.0,24.0,,,,,,,,,,,12,2,4,9,9,17,19,23,40,39,39,,,
+UBCV,2017,W,MICB,322,,101,Molecular Microbiology Laboratory,Eugene Kuatsjah;Jennifer Sibley;John Nomellini;William Rees,84,79.238095238,6.72277024,93.0,62.0,,,,,,,,,,,0,0,0,2,2,6,12,20,24,12,6,,,
+UBCV,2018,S,MICB,201,,921,Introductory Environmental Microbiology,Jennifer Sibley;Tirosh Shapira,74,68.486486486,11.957966615,93.0,18.0,,,,,,,,,,,1,5,9,11,7,12,7,12,3,3,4,,,
+UBCV,2018,W,BIOL,346,,201,Microbes and Society,Jennifer Sibley;John Fiore Nomellini;John Nomellini;Julian Davies;Kimberly Anne Dill-Mcfarland;Rozlyn Boutin;Tirosh Shapira;Tracy Kion,37,84.0,19.257033347,100.0,0.0,,,,,,,,,,,3,0,1,0,0,0,1,1,3,9,19,,,
+UBCV,2018,W,MICB,322,,101,Molecular Microbiology Laboratory,Chelsea Cutler;Jennifer Sibley;Kimberly Anne Dill-Mcfarland;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Wen Jing Xia;Wen Xia,84,79.619047619,6.735814656,95.0,63.0,,,,,,,,,,,0,0,0,1,2,8,12,14,27,14,6,,,
+UBCV,2019,W,BIOL,346,,201,Microbes and Society,Brandon Paul Kieft;Corrie Belanger;David Oliver;Jennifer Sibley;John Fiore Nomellini;John Nomellini;Julian Davies;Marcia Graves;Yasmine Mohamed,39,90.0,5.236511494,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,13,21,,,
+UBCV,2019,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Tracy Kion;Virginia Pichler,332,85.265060241,9.039135238,100.0,52.0,,,,,,,,,,,0,1,1,7,8,10,22,35,53,66,129,,,
+UBCV,2019,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley;Jessica Chorolovski;Jessica Maria Christine Chorolovski;Julia Lu;Wen Jing Xia;Wen Xia,84,84.273809524,4.391533998,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,8,30,31,12,,,
+UBCV,2020,S,MICB,201,,921,Introductory Environmental Microbiology,Jennifer Sibley;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Wade Bingle,108,75.472222222,11.75645246,93.0,1.0,,,,,,,,,,,2,1,3,5,5,16,19,13,22,18,4,,,
+UBCV,2020,W,BIOL,346,,201,Microbes and Society,Brandon Paul Kieft;Jennifer Sibley;John Nomellini;Julian Davies;Kelli Verhagen;Olumuyiwa Igbalajobi,50,88.72,8.166731917,99.0,55.0,,,,,,,,,,,0,0,1,0,1,0,0,2,6,11,29,,,
+UBCV,2020,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Naomi Fettig;Tracy Kion;Virginia Pichler,278,82.399280576,9.59442525,97.0,18.0,,,,,,,,,,,2,1,3,4,9,10,32,31,55,61,70,,,
+UBCV,2020,W,MICB,322,,101,Molecular Microbiology Laboratory,Djihane Damoo;Evelyn Sun;Jennie Jackson;Jennie Lynne Jackson;Jennifer Sibley;Jessica Chorolovski;Jessica Maria Christine Chorolovski;Karen Smith;Kelli Anne Verhagen;Kelli Verhagen;Leah Rankine-Wilson;Marcia Graves;Reynold Farrera Calderon;Reynold Gerardo Farrera Calderon;Stephan Koenig;Wen Jing Xia;Wen Xia,78,85.115384615,5.568885662,96.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,7,20,31,16,,,
+UBCV,2020,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Abhishek Bedi;Christine Wardell;Gara Dexter;Hassan Ali;Israel Matos;Jennifer Sibley;Kelli Verhagen;Marcia Graves;Virginie Jean Baptiste,71,86.394366197,8.764341509,95.0,21.0,,,,,,,,,,,1,0,0,0,0,0,1,1,12,32,24,,,
+UBCV,2021,S,MICB,201,,971,Introductory Environmental Microbiology,Brandon Paul Kieft;Jennifer Sibley;Kabir Bhalla;Tracy Kion,66,83.287878788,8.605481529,96.0,58.0,,,,,,,,,,,0,0,1,2,1,3,4,8,13,19,15,,,
+UBCV,2021,S,MICB,322,,921,Molecular Microbiology Laboratory,David Oliver;Djihane Damoo;Jennifer Sibley;John Nomellini;Leah Rankine-Wilson,16,84.125,5.402160062,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,3,7,3,,,
+UBCV,2021,W,BIOL,346,,201,Microbes and Society,Brandon Paul Kieft;Erin Gaynor;Jennifer Sibley;Kabir Bhalla;Olumuyiwa Igbalajobi,52,90.923076923,7.353393651,100.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,1,5,15,30,,,
+UBCV,2021,W,MICB,201,,101,Introductory Environmental Microbiology,Evelyn Sun;Jennifer Sibley;Logan Robeck;Sean Crowe;Tracy Kion;Wade Bingle,201,83.805970149,8.990392882,96.0,32.0,,,,,,,,,,,3,0,1,1,2,5,18,18,37,63,53,,,
+UBCV,2021,W,MICB,201,,201,Introductory Environmental Microbiology,Evelyn Sun;Jennifer Sibley;Tracy Kion;Wade Bingle;Yang Liu,240,86.8625,8.094231248,98.0,23.0,,,,,,,,,,,1,0,3,1,1,2,7,13,45,60,107,,,
+UBCV,2021,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Katherine Donald;Miguel Mejias Cordero;Tracy Kion,279,77.752688172,14.882505722,97.0,0.0,,,,,,,,,,,13,4,7,12,14,16,26,30,54,55,48,,,
+UBCV,2021,W,MICB,322,,101,Molecular Microbiology Laboratory,Djihane Damoo;Jennifer Dechka;Jennifer Sibley;Karen Smith;Leah Rankine-Wilson;Spencer Cholak,84,84.261904762,5.822927363,93.0,62.0,,,,,,,,,,,0,0,0,1,0,2,7,2,24,33,15,,,
+UBCV,2021,S,MICB,322,,921,Molecular Microbiology Laboratory,John Nomellini;David Oliver;Jennifer Sibley,16,84.1,,91.0,74.0,,,,,,,,,,,,,,,,,,,,7,,86.0,88.0,80.0
+UBCV,2021,W,BIOL,346,,201,Microbes and Society,Erin Gaynor;Olumuyiwa Igbalajobi;Brandon Paul Kieft;Jennifer Sibley,52,90.9,,100.0,58.0,,,,,,,,,,,,,,,,,,,,15,30,91.0,96.3,88.0
+UBCV,2021,W,MICB,201,,101,Introductory Environmental Microbiology,Sean Crowe;Jennifer Sibley;Evelyn Sun,201,83.8,,96.0,32.0,,,,,,,,,,,,,,,,,18,18,37,63,53,86.0,90.0,80.0
+UBCV,2021,W,MICB,201,,201,Introductory Environmental Microbiology,Jennifer Sibley;Evelyn Sun,240,86.9,,98.0,23.0,,,,,,,,,,,,,,,,,7,13,45,60,107,88.0,92.0,84.0
+UBCV,2021,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Tracy Kion;Jennifer Sibley,278,78.3,,97.0,0.0,,,,,,,,,,,8,5,8,12,15,16,26,30,55,55,48,81.5,88.0,72.0
+UBCV,2021,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley;Karen Smith,84,84.3,,93.0,62.0,,,,,,,,,,,,,,,,,7,,24,33,15,86.0,88.0,81.8
+UBCV,2022,S,MICB,322,,921,Molecular Microbiology Laboratory,Jennifer Sibley,30,86.1,,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,12,10,87.5,90.0,82.0
+UBCV,2022,W,BIOL,346,,201,Microbes and Society,Leah Hohman;Jennifer Sibley,45,85.6,,99.0,24.0,,,,,,,,,,,1,0,0,0,1,1,0,3,11,9,19,88.0,93.0,81.0
+UBCV,2022,W,MICB,212,,201,Introductory Immunology & Virology,Tracy Kion;Jennifer Sibley;Maria Tokuyama,219,80.9,,98.0,36.0,,,,,,,,,,,9,1,3,9,7,11,17,17,34,54,57,85.0,90.0,74.5
+UBCV,2022,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley,87,86.7,,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,22,32,27,87.0,90.0,84.0
+UBCV,2023,S,MICB,322,,921,Molecular Microbiology Laboratory,Jennifer Sibley,29,88.66,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,15,10,88.0,91.0,87.0
+UBCV,2023,W,BIOL,346,,201,Microbes and Society,Morgan Alford;Jennifer Sibley,52,83.8,,100.0,24.0,,,,,,,,,,,2,0,3,1,0,0,2,4,6,11,22,88.0,93.5,80.5
+UBCV,2023,W,MICB,212,,201,Introductory Immunology & Virology,Tracy Kion;Jennifer Sibley,217,82.0,,98.0,29.0,,,,,,,,,,,6,1,4,3,5,14,18,17,43,43,62,84.0,91.0,76.8
+UBCV,2023,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley,82,89.8,,95.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,0,5,25,51,91.0,93.0,88.0

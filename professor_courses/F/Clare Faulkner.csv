@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,RHSC,503,,006,REAS & DEC-MKING,"Faulkner, Clare",10,86.11,6.75,93,77,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,4,,,
+UBC,2016,W,RHSC,509,,001,REHAB LEARNING,"Faulkner, Clare",12,87.18,3.74,94,82,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,2,,,
+UBC,2017,W,RHSC,503,,006,REAS & DEC-MKING,"Faulkner, Clare;Jelley, Wilma",12,85.58,6.82,93,70,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,4,,,
+UBC,2017,W,RHSC,509,,001,REHAB LEARNING,"Delisle, Eric;Faulkner, Clare",12,87.64,4.54,94,80,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,4,,,
+UBC,2018,W,RHSC,503,,007,REAS & DEC-MKING,"Faulkner, Clare;Jelley, Wilma",11,88.45,3.83,94,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,,,
+UBC,2018,W,RHSC,509,,001,REHAB LEARNING,"Dyks, Tracey;Faulkner, Clare",10,85.3,3.16,90,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,1,,,
+UBCV,2014,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner,9,86.11111111,6.753599863,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,,,,
+UBCV,2016,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner,11,87.18181818,3.736794932,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,2,,,
+UBCV,2017,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Eleanor Wray;Wilma Jelley,12,85.583333333,6.815201369,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,4,4,,,
+UBCV,2017,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Eric Delisle,11,87.636363636,4.544727215,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,4,,,
+UBCV,2018,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Eleanor Wray,9,81.555555556,8.457409638,93.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,3,1,2,2,,,
+UBCV,2018,W,RHSC,503,,007,Reasoning and Decision-Making,Clare Faulkner;Wilma Jelley,11,88.454545455,3.830499611,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,5,,,
+UBCV,2018,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Eric Delisle;Tracey Dyks,10,85.3,3.164033993,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,4,1,,,
+UBCV,2019,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Eleanor Wray;Wilma Jelley,15,90.333333333,3.415650255,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,8,,,
+UBCV,2019,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Leslie Duran;Tracey Dyks,14,87.642857143,2.871803048,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,4,,,
+UBCV,2020,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Wilma Jelley,19,89.631578947,3.577872216,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,11,,,
+UBCV,2020,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Tracey Dyks,14,89.142857143,3.278300283,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,4,,,
+UBCV,2021,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Wilma Jelley,11,89.363636364,3.50064929,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,6,,,
+UBCV,2021,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Tracey Dyks,18,89.166666667,4.527692569,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,6,10,,,
+UBCV,2021,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Wilma Jelley,11,89.4,,95.0,83.0,,,,,,,,,,,,,,,,,,,,,6,90.0,91.5,87.5
+UBCV,2021,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Tracey Dyks;Clare Faulkner,18,89.2,,95.0,77.0,,,,,,,,,,,,,,,,,,,,6,10,90.0,91.8,89.0
+UBCV,2022,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Tracey Dyks;Clare Faulkner,11,91.7,,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,8,90.0,95.5,89.5
+UBCV,2023,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner,6,89.0,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,3,90.0,92.75,86.5

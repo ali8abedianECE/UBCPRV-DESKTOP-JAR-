@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,MIDW,405,,001,ADV TOPICS,"Campbell, Kim;Simmons, Valerie",11,85.5,4.53,91,77,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,2
+UBC,2012,W,MIDW,420,,001,ADV CLINICL CARE,"Simmons, Valerie",11,,,,,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MIDW,405,,001,ADV TOPICS,"Simmons, Valerie",9,83.11,5.42,90,75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,1
+UBC,2013,W,MIDW,420,,001,ADV CLINICL CARE,"Simmons, Valerie",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",36,78.06,7.44,89,59,34,0,2,0,0,0,0,0,0,0,0,0,2,0,1,2,5,8,9,7,0
+UBC,2014,W,MIDW,305,,001,THRY VAR PRIM CR,"Simmons, Valerie",15,84.93,3.99,91,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,1
+UBC,2014,W,MIDW,320,,001,VARNS CLIN CARE,"Simmons, Valerie",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,MIDW,350,,002,INTER PROF PLCMT,"Simmons, Valerie",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",45,74.38,12.08,91,41,43,2,0,0,0,0,0,0,0,2,2,2,2,5,0,3,3,10,11,6,1
+UBC,2015,W,MIDW,305,,001,THRY VAR PRIM CR,"Lyons, Jeanne;Simmons, Valerie",18,84.67,5.13,96,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,7,2
+UBC,2015,W,MIDW,320,,001,VARNS CLIN CARE,"Simmons, Valerie",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,MIDW,350,,002,INTER PROF PLCMT,"Simmons, Valerie",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,MIDW,405,,001,ADV TOPICS,"Campbell, Allison;Simmons, Valerie",13,84.92,4.17,89,74,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,9,0
+UBC,2015,W,MIDW,420,,001,ADV CLINICL CARE,"Campbell, Allison;Simmons, Valerie",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",55,77.44,11.12,90,43,51,3,1,0,0,0,0,0,0,3,3,0,1,1,4,3,4,5,18,14,1
+UBC,2016,W,MIDW,220,,001,CLIN CARE INTRO,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,MIDW,240,,002,CORE CLIN CARE,"Campbell, Allison;Simmons, Valerie",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,MIDW,350,,002,INTER PROF PLCMT,"Simmons, Valerie",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,MIDW,405,,001,ADV TOPICS,"Campbell, Kim;Simmons, Valerie;Wines, Jane",18,83.5,4.3,91,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,6,1
+UBC,2016,W,MIDW,420,,001,ADV CLINICL CARE,"Campbell, Kim;Simmons, Valerie;Wines, Jane",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen",56,77.89,9.68,88,43,54,2,0,0,0,0,0,0,0,2,2,0,2,0,3,3,3,9,21,13,0
+UBC,2017,W,MIDW,205,,002,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,88.52,5.09,95,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,12
+UBC,2017,W,MIDW,220,,001,CLIN CARE INTRO,"Broten, Courtney;Simmons, Valerie",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,MIDW,221,,001,CLINICAL SKILLS,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",22,88.05,4.76,94,80,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,10
+UBC,2017,W,MIDW,240,,002,CORE CLIN CARE,"Broten, Courtney;Simmons, Valerie",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,MIDW,305,,001,THRY VAR PRIM CR,"Broten, Courtney;Momtazian, Tanya;Simmons, Valerie",17,83.25,5.22,91,72,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,2,3
+UBC,2017,W,MIDW,320,,001,VARNS CLIN CARE,"Simmons, Valerie",17,,,,,0,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,MIDW,420,,001,ADV CLINICL CARE,"Simmons, Valerie",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen",57,74.15,14.87,90,12,51,4,1,1,0,0,1,1,0,2,4,0,2,4,0,4,5,7,21,7,1
+UBC,2018,W,MIDW,200,,001,CLIN CARE INTRO,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,MIDW,201,,001,CLNCL SKLLS MIDW,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",19,92.21,5.05,98,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,15
+UBC,2018,W,MIDW,230,,001,PRIMRY CARE THRY,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,91.76,4.89,98,82,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,14
+UBC,2018,W,MIDW,240,,002,CORE CLIN CARE,"Broten, Courtney;Campbell, Allison;Simmons, Valerie",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,MIDW,305,,001,THRY VAR PRIM CR,"Butska, Luba;Ellis, Cathryn;Simmons, Valerie",21,85.43,4.46,95,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,7,4
+UBC,2018,W,MIDW,320,,001,VARNS CLIN CARE,"Butska, Luba;Ellis, Cathryn;Simmons, Valerie",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

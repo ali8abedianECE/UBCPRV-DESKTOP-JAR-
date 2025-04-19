@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",185,70.85,10.73,91,21,181,1,3,0,0,0,0,1,0,0,1,12,14,15,20,28,27,15,34,13,3,,,
+UBC,2005,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",241,69.41,11.68,92,0,234,4,2,1,0,1,0,0,1,2,4,17,18,21,31,36,28,29,34,13,7,,,
+UBC,2006,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",241,74.01,11.69,98,44,236,1,4,0,0,0,0,0,0,1,1,6,18,17,30,26,28,20,33,31,27,,,
+UBC,2007,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",221,73.85,11.23,98,40,214,3,4,0,0,0,0,0,0,3,3,9,10,10,26,27,26,21,41,27,17,,,
+UBC,2009,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",244,72.27,10.1,96,50,240,0,2,1,1,0,0,0,0,0,0,12,13,25,17,31,35,48,30,20,9,,,
+UBC,2010,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",203,79.11,9.55,98,50,198,0,4,0,0,0,0,0,0,0,0,4,3,4,7,21,17,26,46,42,28,,,
+UBC,2011,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",211,75.71,11,96,50,207,0,3,0,0,0,0,0,0,0,0,7,10,13,14,22,27,27,32,31,24,,,
+UBC,2012,W,MICB,306,,101,MOLECUL VIROLOGY,"Horwitz, Marc",214,74.26,12.17,98,34,207,4,2,1,0,0,0,0,4,0,4,9,14,8,14,20,27,33,37,25,20,,,
+UBC,2013,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",21,89.95,3.93,98,85,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,,,
+UBC,2014,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",22,89.27,3.41,94,80,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,14,,,
+UBC,2014,W,MICB,407,,101,VIRAL INFEC HUMN,"Horwitz, Marc",26,89.31,6.04,96,76,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,16,,,
+UBC,2015,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",20,89.4,4.11,96,82,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,10,,,
+UBC,2015,W,MICB,407,,101,VIRAL INFEC HUMN,"Gantt, Soren;Horwitz, Marc",28,90.39,4.26,97,80,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,18,,,
+UBC,2016,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",24,88.67,6.22,97,65,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,7,14,,,
+UBC,2016,W,MICB,407,,101,VIRAL INFEC HUMN,"Gantt, Soren;Horwitz, Marc",29,90.97,4.08,100,83,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,18,,,
+UBC,2017,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",25,92.76,3.69,99,87,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,21,,,
+UBC,2017,W,MICB,407,,101,VIRAL INFEC HUMN,"Gantt, Soren;Horwitz, Marc",30,90.33,3.3,96,85,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,18,,,
+UBC,2018,W,MICB,406,,201,Top Mol Virology,"Horwitz, Marc;Jean, Francois",19,92.47,2.09,96,88,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,,,
+UBC,2018,W,MICB,407,,101,VIRAL INFEC HUMN,"Gantt, Soren;Horwitz, Marc",29,91.69,4.05,100,82,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,22,,,
+UBCV,2014,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,22,89.27272727,3.411211462,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,14,,,
+UBCV,2014,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz,26,89.30769231,6.044959757,96.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,16,,,
+UBCV,2015,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,20,89.4,4.109040098,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,10,,,
+UBCV,2015,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Soren Gantt,28,90.392857143,4.263013069,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,18,,,
+UBCV,2016,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,24,88.66666667,6.218252702,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,7,14,,,
+UBCV,2016,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Soren Gantt,29,90.96551724,4.083789894,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,18,,,
+UBCV,2017,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,25,92.76,3.688721549,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,21,,,
+UBCV,2017,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Soren Gantt,30,90.333333333,3.304472761,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,18,,,
+UBCV,2018,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,19,92.473684211,2.091475318,96.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,18,,,
+UBCV,2018,W,MICB,407,,101,Viral Infections in Humans.,Jessica Tuengel;Marc Horwitz;Soren Gantt,29,91.689655172,4.054128833,100.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,22,,,
+UBCV,2019,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz;Tracy Kion,20,93.25,2.917731635,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,18,,,
+UBCV,2019,W,MICB,407,,101,Viral Infections in Humans.,Aaron Liu;Marc Horwitz;Soren Gantt;Tracy Kion,29,90.896551724,5.129361055,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,5,20,,,
+UBCV,2020,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Lynnea Carr;Marc Horwitz,21,96.285714286,1.978455386,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,21,,,
+UBCV,2020,W,MICB,407,,101,Viral Infections in Humans.,Hassan Ali;Isobel Comstock Mouat;Isobel Mouat;Marc Horwitz;Soren Gantt,34,91.705882353,3.407028491,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,27,,,
+UBCV,2021,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,27,93.62962963,2.603963667,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,27,,,
+UBCV,2021,W,MICB,407,,101,Viral Infections in Humans.,Agata Jassem;Hassan Ali;Isobel Mouat;Marc Horwitz,32,89.3125,3.156534441,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,21,,,
+UBCV,2021,W,MICB,406,,201,Topics in Molecular Virology,Marc Horwitz;Francois Jean,27,93.6,,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,27,94.0,96.0,91.0
+UBCV,2021,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Agata Jassem,32,89.3,,94.0,81.0,,,,,,,,,,,,,,,,,,,,8,21,90.0,91.0,88.0
+UBCV,2022,W,MICB,406,,201,Topics in Molecular Virology,Marc Horwitz;Francois Jean,12,94.7,,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,95.0,95.3,93.8
+UBCV,2022,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Agata Jassem,34,92.5,,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,29,92.5,95.0,90.3
+UBCV,2023,W,MICB,406,,201,Topics in Molecular Virology,Marc Horwitz;Francois Jean,18,94.0,,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,17,94.0,96.0,94.0
+UBCV,2023,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Agata Jassem,34,92.5,,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,28,93.0,95.8,90.0
+UBCV,2023,W,MICB,430,A,101,Seminar in Microbiological Literature,Michael Gold;Leah Hohman;Marc Horwitz,24,89.8,,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,3,15,90.0,93.3,85.5

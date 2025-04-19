@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2017,S,COMM,335,,921,Information Systems Technology and Development,Arash Saghafi;Liam Adams,95,78.368421053,6.874331893,90.0,61.0,0,0,0,3,4,9,15,20,25,13,6,,,
+UBCV,2022,W,COMM,486,Y,201,Special Topics in Business,Liam Adams,33,81.5,,88.0,68.0,0,0,0,0,0,1,1,2,22,7,0,82.0,84.0,80.0
+UBCV,2023,W,COMM,486,Y,101,Special Topics in Business,Liam Adams,37,80.17,,89.0,62.0,0,0,0,1,0,2,1,8,17,7,0,80.0,83.25,77.75

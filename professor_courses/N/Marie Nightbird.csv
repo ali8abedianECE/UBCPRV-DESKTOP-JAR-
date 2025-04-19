@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,SOWK,425,,001,FIRST NAT SOC IS,"Nightbird, Marie",25,96.44,3.51,100,87,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,24,,,
+UBC,2017,W,SOWK,310,A,002,INTERVIEWING SKL,"Nightbird, Marie",27,85.07,4.74,96,78,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,9,6,,,
+UBC,2017,W,SOWK,425,,001,FIRST NAT SOC IS,"Nightbird, Marie",30,91.53,2.32,95,84,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,26,,,
+UBC,2018,W,SOWK,310,A,002,INTERVIEWING SKL,"Nightbird, Marie",17,85.94,2.97,91,78,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,13,2,,,
+UBC,2018,W,SOWK,425,,001,FIRST NAT SOC IS,"Nightbird, Marie",26,91.85,2.48,95,86,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,22,,,
+UBC,2018,W,SOWK,559,,001,ADV INT SEMINAR,"Nightbird, Marie",12,94.42,2.43,97,88,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,,,
+UBC,2018,W,SOWK,560,C,001,DIR FLD STUDIES,"Nightbird, Marie",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2016,W,SOWK,425,,001,First Nations Social Issues,Marie Nightbird,25,96.44,3.512833614,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,24,,,
+UBCV,2017,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,27,85.074074074,4.738759379,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,4,8,9,6,,,
+UBCV,2017,W,SOWK,425,,001,First Nations Social Issues,Marie Nightbird,30,91.533333333,2.315365962,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,26,,,
+UBCV,2018,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,17,85.941176471,2.967966228,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,13,2,,,
+UBCV,2018,W,SOWK,425,,001,First Nations Social Issues,Marie Nightbird,26,91.846153846,2.476970855,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,22,,,
+UBCV,2018,W,SOWK,559,,001,Advanced Integrative Seminar,Grant Charles;Marie Nightbird,12,94.416666667,2.429303429,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2019,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,16,83.125,12.758657192,94.0,37.0,,,,,,,,,,,1,0,0,0,0,0,0,0,5,6,4,,,
+UBCV,2019,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,27,91.703703704,3.406044568,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,24,,,
+UBCV,2019,W,SOWK,559,,001,Advanced Integrative Seminar,Marie Nightbird,14,95.785714286,2.887068554,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,13,,,
+UBCV,2020,W,SOWK,305,G,001,Topics in Social Work Practice I,Christiana Bratiotis;Darryl Gray;Marie Nightbird,56,87.910714286,2.900011196,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,26,22,,,
+UBCV,2020,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,19,86.578947368,2.911963627,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,13,4,,,
+UBCV,2020,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,28,90.857142857,2.965409043,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13,15,,,
+UBCV,2020,W,SOWK,559,,001,Advanced Integrative Seminar,Deborah O'Connor;Grace Ko;Marie Nightbird;Mohamed Ibrahim,15,94.466666667,2.325838303,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14,,,
+UBCV,2021,W,SOWK,201,,001,Introduction to Social Work Practice,Hannah Kia;Marie Nightbird;Mohamed Ibrahim;Nancy Lin,57,80.49122807,9.310368274,93.0,28.0,,,,,,,,,,,1,0,0,0,0,4,8,8,13,19,4,,,
+UBCV,2021,W,SOWK,305,G,001,Topics in Social Work Practice I,Darryl Gray;Marie Nightbird;Rhea Del Vecchio,56,92.196428571,8.764431513,98.0,34.0,,,,,,,,,,,1,0,0,0,0,0,1,0,0,4,50,,,
+UBCV,2021,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,20,85.0,4.328607409,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,6,5,,,
+UBCV,2021,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,30,87.833333333,5.983214067,93.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,0,0,16,13,,,
+UBCV,2021,W,SOWK,325,,002,Indigenous Peoples and Critical Social Work Analysis,Jennifer-Lee Koble;Kathie Norris;Marie Nightbird;Riel Dupuis-Rossi,26,88.653846154,1.765045216,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,19,7,,,
+UBCV,2021,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Ashley Quinn;Lea Caragata;Marie Nightbird;Thomas Spence,16,90.9375,3.234578798,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,11,,,
+UBCV,2021,W,SOWK,570,B,001,Directed Studies in Social Work,Harpell Montgomery;Jennifer-Lee Koble;Marie Nightbird,7,87.857142857,5.429197959,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,5,,,
+UBCV,2021,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,20,85.0,,94.0,80.0,,,,,,,,,,,,,,,,,,,9,6,,85.0,88.5,80.8
+UBCV,2021,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,30,87.8,,93.0,58.0,,,,,,,,,,,,,,,,,,,,16,13,89.0,90.0,87.3
+UBCV,2021,W,SOWK,325,,002,Indigenous Peoples and Critical Social Work Analysis,Riel Dupuis-Rossi;Marie Nightbird,26,88.7,,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,19,7,89.0,89.8,88.0
+UBCV,2021,W,SOWK,570,B,001,Directed Studies in Social Work,Marie Nightbird,7,87.9,,92.0,80.0,,,,,,,,,,,,,,,,,,,,,,90.0,91.5,85.0
+UBCV,2022,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,16,85.6,,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,5,3,84.5,88.0,83.8
+UBCV,2022,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,49,86.8,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,36,6,87.0,89.0,86.0
+UBCV,2022,W,SOWK,570,B,001,Directed Studies in Social Work,Marie Nightbird,8,91.9,,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,92.0,93.0,89.0
+UBCV,2023,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,16,86.4,,91.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,10,3,85.5,87.3,85.0
+UBCV,2023,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,47,88.3,,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,27,15,88.0,90.0,87.0
+UBCV,2023,W,SOWK,570,B,001,Directed Studies in Social Work,Marie Nightbird,9,92.8,,96.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,93.0,95.0,92.0

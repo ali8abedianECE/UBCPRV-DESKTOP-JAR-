@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,ASTU,204,A,V07,Topics in Interdisciplinary Arts Studies,Aayza Asim;Dilbarhon Hasanova;Katja Thieme,23,60.043478261,26.673920291,84.0,0.0,4,0,0,6,0,3,4,1,5,0,0,,,
+UBCV,2020,W,WRDS,150,,V03,Writing and Research in the Disciplines,Aayza Asim;Dilbarhon Hasanova,27,66.37037037,17.081587361,80.0,0.0,2,0,1,4,2,4,6,4,4,0,0,,,
+UBCV,2020,W,WRDS,150,,V04,Writing and Research in the Disciplines,Aayza Asim;Dilbarhon Hasanova,23,68.434782609,8.278263361,80.0,50.0,0,1,3,1,4,3,7,1,3,0,0,,,
+UBCV,2020,W,WRDS,150,,V07,Writing and Research in the Disciplines,Aayza Asim;Dilbarhon Hasanova,18,66.611111111,17.727143988,80.0,0.0,1,0,0,1,5,4,2,2,3,0,0,,,
+UBCV,2020,W,WRDS,150,B,626,Writing and Research in the Disciplines,Aleksandra Gordeeva;Dilbarhon Hasanova,25,70.4,10.004165799,83.0,52.0,0,2,3,1,3,3,3,2,8,0,0,,,
+UBCV,2020,W,WRDS,150,B,631,Writing and Research in the Disciplines,Aleksandra Gordeeva;Dilbarhon Hasanova,28,70.321428571,8.489878817,85.0,55.0,0,0,3,3,3,5,6,3,4,1,0,,,
+UBCV,2020,W,WRDS,150,B,647,Writing and Research in the Disciplines,Aleksandra Gordeeva;Dilbarhon Hasanova,27,71.62962963,6.984312907,85.0,57.0,0,0,1,1,6,5,5,4,4,1,0,,,
+UBCV,2020,W,WRDS,150,B,942,Writing and Research in the Disciplines,Aleksandra Gordeeva;Dilbarhon Hasanova,27,72.111111111,7.423110137,86.0,56.0,0,0,2,1,3,7,5,3,5,1,0,,,
+UBCV,2021,S,WRDS,150,B,514,Writing and Research in the Disciplines,Dilbarhon Hasanova;Sullivan Larson,29,74.206896552,9.593075294,90.0,56.0,0,0,4,1,3,2,4,5,7,2,1,,,
+UBCV,2021,S,WRDS,150,B,552,Writing and Research in the Disciplines,Dilbarhon Hasanova;Sullivan Larson,29,73.413793103,5.666425186,81.0,63.0,0,0,0,2,3,6,8,2,8,0,0,,,
+UBCV,2021,S,WRDS,150,B,514,Writing and Research in the Disciplines,Dilbarhon Hasanova,29,74.2,,90.0,56.0,,,,,,,,,7,,,77.0,82.0,67.0
+UBCV,2021,S,WRDS,150,B,552,Writing and Research in the Disciplines,Dilbarhon Hasanova,29,73.4,,81.0,63.0,,,,,,6,8,,8,,,74.0,80.0,69.0
+UBCV,2022,W,WRDS,150,A,342,Writing and Research in the Disciplines,Dilbarhon Hasanova,27,65.4,,86.0,0.0,2,3,1,3,1,5,3,2,6,1,0,71.0,79.5,60.5
+UBCV,2022,W,WRDS,150,A,351,Writing and Research in the Disciplines,Dilbarhon Hasanova,25,69.1,,85.0,15.0,2,0,2,3,2,1,4,6,4,1,0,75.0,78.0,63.0
+UBCV,2022,W,WRDS,150,B,641,Writing and Research in the Disciplines,Dilbarhon Hasanova,27,69.6,,82.0,52.0,0,2,0,6,2,5,5,3,4,0,0,70.0,75.5,63.0
+UBCV,2022,W,WRDS,150,B,652,Writing and Research in the Disciplines,Dilbarhon Hasanova,22,72.5,,83.0,56.0,0,0,2,3,0,1,9,2,5,0,0,73.5,78.0,71.3
+UBCV,2022,W,WRDS,150,B,661,Writing and Research in the Disciplines,Dilbarhon Hasanova,25,70.1,,80.0,58.0,0,0,3,0,6,7,3,4,2,0,0,70.0,74.0,67.0
+UBCV,2023,S,WRDS,150,B,561,Writing and Research in the Disciplines,Dilbarhon Hasanova,15,66.2,,85.0,0.0,2,0,0,1,1,2,2,2,2,2,0,73.5,80.8,67.3
+UBCV,2023,W,WRDS,150,B,622,Writing and Research in the Disciplines,Dilbarhon Hasanova,27,73.5,,86.0,15.0,1,1,0,2,0,2,2,9,6,3,0,77.0,80.0,72.5
+UBCV,2023,W,WRDS,150,B,633,Writing and Research in the Disciplines,Dilbarhon Hasanova,23,76.2,,84.0,63.0,0,0,0,1,0,2,6,11,3,0,0,78.0,78.0,73.5
+UBCV,2023,W,WRDS,150,B,641,Writing and Research in the Disciplines,Dilbarhon Hasanova,30,77.7,,84.0,60.0,0,0,0,1,0,0,7,11,11,0,0,77.5,81.8,75.3
+UBCV,2023,W,WRDS,150,B,651,Writing and Research in the Disciplines,Dilbarhon Hasanova,25,74.0,,87.0,5.0,1,0,0,0,1,3,6,3,6,3,0,76.0,81.0,72.5

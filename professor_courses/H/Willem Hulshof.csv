@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,MATH,101,,205,INT CALC AP PH S,"Hulshof, Willem;MacLean, Mark Thomson",198,69.3,18.42,97,0,173,24,1,0,0,4,1,3,6,10,24,11,9,14,14,15,23,26,20,26,15
+UBC,2013,W,MATH,302,,101,INTR PROBABILITY,"Hulshof, Willem",91,71.03,18.08,100,0,77,9,3,0,1,1,0,0,3,5,9,6,7,6,5,10,5,6,13,6,13
+UBC,2014,W,MATH,317,,101,CALCULUS IV,"Hulshof, Willem",96,70.49,19.1,99,0,81,9,3,0,1,1,0,3,0,5,9,9,8,5,3,6,4,15,9,8,14
+UBCV,2014,W,MATH,317,,101,Calculus IV,Kai Behrend;Willem Hulshof,93,69.9139785,19.83445395,99.0,0.0,,,,,,,,,,,10,9,8,5,3,7,4,15,10,8,14

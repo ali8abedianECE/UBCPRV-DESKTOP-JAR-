@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,S,PHIL,385,,001,Existentialism,Alexandra Duree Jewell;Alexandra Jewell;Eric Anderson;Steven Taubeneck;Willow Verkerk,80,71.2,14.474246007,90.0,8.0,4,1,4,3,6,11,19,14,10,7,1,,,
+UBCV,2019,W,PHIL,335,,001,Power and Oppression,Emily Claire Rouse Tilton;Emily Tilton;Kelin Emmett;Willow Verkerk,79,75.810126582,10.784694698,89.0,0.0,1,0,1,2,4,9,17,16,22,7,0,,,
+UBCV,2019,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk,22,76.272727273,8.859656116,88.0,59.0,0,0,1,0,4,1,6,1,3,6,0,,,
+UBCV,2019,W,PHIL,385,,001,Existentialism,Ceren Yildiz;Steven Taubeneck;Willow Verkerk,82,73.548780488,8.652627431,89.0,54.0,0,1,8,3,6,12,15,19,9,9,0,,,
+UBCV,2019,W,PHIL,416,,001,Topics in 19th-Century Philosophy,Steven Taubeneck;Willow Verkerk,14,74.285714286,20.562956131,88.0,28.0,2,0,0,1,0,0,1,1,2,7,0,,,
+UBCV,2019,W,PHIL,448,,001,Topics in Continental Philosophy,Steven Taubeneck;Willow Verkerk,10,77.0,19.281539819,91.0,26.0,1,0,0,0,0,0,2,2,1,0,4,,,
+UBCV,2020,S,PHIL,385,,001,Existentialism,Alexandra Duree Jewell;Alexandra Jewell;Ceren Yildiz;Willow Verkerk,83,72.240963855,15.408732369,90.0,0.0,4,2,1,4,10,10,8,19,14,10,1,,,
+UBCV,2020,W,PHIL,230,,001,Introduction to Ethics,Cameron Gilbert;Scott Allen Anderson;Willow Verkerk,74,71.418918919,12.531611269,90.0,7.0,3,1,2,4,11,13,12,11,10,6,1,,,
+UBCV,2020,W,PHIL,230,,003,Introduction to Ethics,Joseph Paul Russell;Willow Verkerk;Xinyi Zhao,58,72.068965517,15.177155119,90.0,13.0,3,2,3,1,2,9,8,10,14,5,1,,,
+UBCV,2020,W,PHIL,339,,001,Philosophy of Art,Dominic Lopes;Ian Heckman;Willow Verkerk,45,72.155555556,14.244545297,89.0,11.0,2,0,0,6,4,6,7,5,8,7,0,,,
+UBCV,2020,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk;Xinyi Zhao,34,77.058823529,10.14423609,91.0,54.0,0,1,1,2,1,6,3,4,4,10,2,,,
+UBCV,2020,W,PHIL,385,,001,Existentialism,Alexandra Jewell;Anders Kraal;Willow Verkerk,74,73.527027027,13.875397536,88.0,3.0,2,0,2,5,7,8,11,11,20,8,0,,,
+UBCV,2020,W,PHIL,385,,003,Existentialism,Anders Kraal;Bianca Crewe;Tyeson Daviesbarton;Willow Verkerk,112,79.053571429,10.805270057,98.0,51.0,0,3,5,4,6,8,8,18,20,18,22,,,
+UBCV,2020,W,PHIL,416,,001,Topics in 19th-Century Philosophy,Steven Taubeneck;Willow Verkerk,17,85.588235294,11.478560578,94.0,43.0,1,0,0,0,0,0,0,0,2,7,7,,,
+UBCV,2020,W,PHIL,448,,001,Topics in Continental Philosophy,Willow Verkerk,8,85.75,5.41822322,91.0,76.0,0,0,0,0,0,0,0,1,2,2,3,,,
+UBCV,2021,S,PHIL,230,A,901,Introduction to Ethics,Jasper Heaton;Karoline Paier;Willow Verkerk,71,70.366197183,16.742793278,89.0,0.0,6,0,1,2,7,14,9,13,14,5,0,,,
+UBCV,2021,S,PHIL,385,A,001,Existentialism,Bianca Crewe;Chase Dority;Willow Verkerk,72,73.75,13.03813475,91.0,2.0,2,0,1,3,3,12,14,16,12,8,1,,,
+UBCV,2021,W,PHIL,230,A,004,Introduction to Ethics,Samuel Delorme;Willow Verkerk,73,74.506849315,12.296254271,90.0,17.0,2,1,4,3,3,12,8,10,17,12,1,,,
+UBCV,2021,W,PHIL,334,A,001,"Sex, Gender and Philosophy",Chase Dority;Willow Verkerk,51,75.274509804,11.97677491,89.0,26.0,2,1,0,1,3,7,11,6,5,15,0,,,
+UBCV,2021,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk,14,75.357142857,16.232006098,91.0,23.0,1,0,0,0,0,1,4,2,3,2,1,,,
+UBCV,2021,W,PHIL,385,A,001,Existentialism,Laura Bickel;Willow Verkerk,33,71.545454545,22.175564972,90.0,0.0,4,0,0,0,3,2,1,9,7,6,1,,,
+UBCV,2021,W,PHIL,416,A,001,Topics in 19th-Century Philosophy,Willow Verkerk,11,82.363636364,7.593059031,92.0,66.0,0,0,0,0,1,0,1,0,3,5,1,,,
+UBCV,2021,W,PHIL,448,A,001,Topics in Continental Philosophy,Willow Verkerk,11,82.818181818,4.214692915,88.0,76.0,0,0,0,0,0,0,0,3,5,3,0,,,
+UBCV,2021,S,PHIL,230,A,901,Introduction to Ethics,Willow Verkerk,71,70.4,,89.0,0.0,6,,,,7,14,9,13,14,,,73.0,80.0,69.0
+UBCV,2021,S,PHIL,385,A,001,Existentialism,Willow Verkerk,72,73.8,,91.0,2.0,,,,,,12,14,16,12,8,,76.0,80.3,70.0
+UBCV,2021,W,PHIL,230,A,004,Introduction to Ethics,Willow Verkerk,73,74.5,,90.0,17.0,,,,,,12,8,10,17,12,,77.0,83.0,70.0
+UBCV,2021,W,PHIL,334,A,001,"Sex, Gender and Philosophy",Willow Verkerk,51,75.3,,89.0,26.0,,,,,,7,11,6,,15,,76.0,85.0,71.0
+UBCV,2021,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk,14,79.3,,91.0,71.0,,,,,,,,,,,,78.0,84.0,74.3
+UBCV,2021,W,PHIL,385,A,001,Existentialism,Willow Verkerk,33,76.5,,91.0,0.0,,,,,,,,9,7,6,,78.0,84.0,73.0
+UBCV,2021,W,PHIL,416,A,001,Topics in 19th-Century Philosophy,Willow Verkerk,11,82.4,,92.0,66.0,,,,,,,,,,,,86.0,87.5,80.0
+UBCV,2021,W,PHIL,448,A,001,Topics in Continental Philosophy,Willow Verkerk,11,82.8,,88.0,76.0,,,,,,,,,,,,84.0,86.0,79.5
+UBCV,2022,S,PHIL,230,A,002,Introduction to Ethics,Willow Verkerk,23,70.3,,87.0,0.0,2,0,0,2,1,1,4,7,3,3,0,76.0,79.5,70.0
+UBCV,2022,S,PHIL,385,A,001,Existentialism,Willow Verkerk,60,73.6,,88.0,20.0,3,0,2,1,5,10,9,7,14,9,0,76.0,84.0,70.0
+UBCV,2022,W,PHIL,230,A,003,Introduction to Ethics,Willow Verkerk,59,75.1,,89.0,15.0,4,0,0,1,3,4,9,11,15,12,0,78.0,83.5,73.0
+UBCV,2022,W,PHIL,334,A,001,"Sex, Gender and Philosophy",Willow Verkerk,66,71.6,,87.0,25.0,1,1,0,3,12,17,12,11,6,3,0,71.0,78.0,67.3
+UBCV,2022,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk,37,75.1,,89.0,36.0,1,1,0,3,2,1,9,4,10,6,0,78.0,82.0,73.0
+UBCV,2022,W,PHIL,385,A,002,Existentialism,Willow Verkerk,60,73.7,,86.0,16.0,3,0,0,1,2,11,10,14,14,5,0,77.0,81.0,71.0
+UBCV,2022,W,PHIL,416,A,001,Topics in 19th-Century Philosophy,Willow Verkerk,10,82.5,,92.0,70.0,0,0,0,0,0,1,2,0,2,3,2,84.5,88.8,75.5
+UBCV,2022,W,PHIL,448,A,001,Topics in Continental Philosophy,Willow Verkerk,11,84.4,,90.0,71.0,0,0,0,0,0,1,0,0,4,5,1,86.0,88.0,82.5
+UBCV,2023,S,PHIL,230,,901,Introduction to Ethics,Willow Verkerk,83,74.7,,88.0,0.0,2,1,0,3,5,11,13,15,14,15,0,77.0,82.0,71.0
+UBCV,2023,S,PHIL,385,,001,Existentialism,Willow Verkerk,65,73.5,,88.0,15.0,3,0,2,2,7,5,7,15,19,2,0,76.5,81.0,70.0
+UBCV,2023,W,PHIL,334,,001,"Sex, Gender and Philosophy",Willow Verkerk,55,78.0,,91.0,41.0,1,0,1,0,1,4,9,9,20,4,2,80.0,83.0,74.5
+UBCV,2023,W,PHIL,335,,001,Power and Oppression,Willow Verkerk,69,72.3,,89.0,0.0,6,1,0,1,1,8,9,11,18,11,0,78.5,82.0,71.3
+UBCV,2023,W,PHIL,348,,001,Introduction to Continental Philosophy,Willow Verkerk,27,79.5,,90.0,39.0,1,0,0,0,0,1,5,4,8,7,1,82.0,86.5,75.5
+UBCV,2023,W,PHIL,385,,002,Existentialism,Willow Verkerk,79,72.1,,89.0,0.0,5,1,1,1,8,11,11,12,13,11,0,75.0,80.0,70.3
+UBCV,2023,W,PHIL,416,,001,Topics in 19th-Century Philosophy,Willow Verkerk,14,81.1,,91.0,70.0,0,0,0,0,0,1,2,3,2,3,2,83.0,85.0,76.0
+UBCV,2023,W,PHIL,448,,001,Topics in Continental Philosophy,Willow Verkerk,12,81.5,,89.0,67.0,0,0,0,0,1,0,1,2,1,6,0,85.0,85.0,78.5

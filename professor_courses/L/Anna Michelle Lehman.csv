@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,MEDG,520,,001,ADV HUM MOLE GEN,"Lehman, Anna Michelle",21,89.35,4.32,95,77,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,13
+UBC,2018,W,MEDG,520,,001,ADV HUM MOLE GEN,"Birol, Inanc;Lange, Philipp;Lehman, Anna Michelle;Lorincz, Matthew;Patel, Millan;Ross, Colin;Rossi, Fabio;Stirling, Peter;Taubert, Stefan",21,89.38,3.26,96,82,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,11
+UBCV,2017,W,MEDG,520,,001,Advanced Human Molecular Genetics,Anna Michelle Lehman,20,89.35,4.319783133,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,4,13
+UBCV,2018,W,MEDG,520,,001,Advanced Human Molecular Genetics,Anna Michelle Lehman;Colin Ross;Fabio Rossi;Inanc Birol;Matthew Lorincz;Millan Patel;Peter Stirling;Philipp Lange;Sharri Cyrus;Stefan Taubert,21,89.380952381,3.263068962,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,8,11
+UBCV,2019,W,MEDG,520,,001,Advanced Human Molecular Genetics,Anna Michelle Lehman;Colin Ross;Cornelius Boerkoel;Inanc Birol;Matthew Lorincz;Peter Lansdorp;Sharri Cyrus;Stefan Taubert,23,87.217391304,2.968876766,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,13,6

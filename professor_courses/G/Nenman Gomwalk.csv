@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed;Andrew Johnston;Dhruv Virani;Kathryn Ng;Kevin Feddema;Nenman Gomwalk;Nenman Margreta Gomwalk;Raghav Jhavar;Shambhavi Singh;Shima Amirsadri,229,70.64628821,18.260343061,100.0,0.0,37,4,9,13,17,31,17,19,22,24,36
+UBCO,2019,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,99,80.212121212,13.693639762,100.0,45.0,4,1,4,2,4,8,14,6,8,18,30
+UBCO,2019,W,COSC,211,,002,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,34,64.088235294,18.119749224,97.0,16.0,7,1,2,3,3,5,7,0,2,3,1

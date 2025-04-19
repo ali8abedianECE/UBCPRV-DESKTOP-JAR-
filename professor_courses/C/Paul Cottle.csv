@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,GEOG,374,,201,STATISTICS GEOG,"Cottle, Paul",55,72.38,16.57,100,24,49,3,2,0,0,0,0,1,0,2,3,6,2,5,3,1,5,9,3,5,10
+UBC,2018,W,GEOB,200,,101,ATMOS ENVIRONS,"Cottle, Paul",63,73.86,13.69,93,35,61,2,0,0,0,0,0,0,2,0,2,3,5,3,7,4,5,3,14,10,7
+UBCV,2018,W,GEOB,200,,101,Atmospheric Environments,Carrington Pomeroy;Paul Cottle;Sung-Ching Lee,63,73.857142857,13.693484609,93.0,35.0,,,,,,,,,,,2,3,5,3,7,4,5,3,14,10,7

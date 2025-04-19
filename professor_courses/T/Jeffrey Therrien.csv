@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,CHEM,121,,199,STRCTR BOND CHEM,"Therrien, Jeffrey",212,68.13,14.88,97,25,180,31,1,0,0,0,0,2,5,24,31,6,16,17,20,26,25,15,29,13,13,,,
+UBCO,2017,S,CHEM,203,,001,Introduction to Organic Chemistry,Alicia Mercer;Jeffrey Therrien,22,72.136363636,10.925267588,93.0,47.0,,,,,,,,,,,1,1,0,2,2,2,7,1,4,1,1,,,
+UBCO,2017,S,CHEM,204,,101,Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Mason Vandel,22,67.863636364,12.65398659,98.0,47.0,,,,,,,,,,,3,1,1,0,4,3,4,3,2,0,1,,,
+UBCO,2017,W,CHEM,113,,004,Principles of Chemistry II,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Freeman;Tamara Kunz,10,65.7,9.068259664,85.0,51.0,,,,,,,,,,,0,1,1,2,2,3,0,0,0,1,0,,,
+UBCO,2017,W,CHEM,123,,004,Physical and Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Freeman;Tamara Kunz,64,64.890625,11.490668661,90.0,31.0,,,,,,,,,,,3,7,7,8,9,15,7,1,4,1,2,,,
+UBCO,2017,W,CHEM,338,,001,Organometallic Chemistry,Jeffrey Therrien,23,74.043478261,7.934265509,85.0,56.0,,,,,,,,,,,0,0,1,1,2,3,6,3,4,3,0,,,
+UBCO,2018,S,CHEM,203,,001,Introduction to Organic Chemistry,Jeffrey Therrien,19,70.263157895,16.488521614,95.0,15.0,,,,,,,,,,,1,0,0,2,6,1,0,3,4,1,1,,,
+UBCO,2018,S,CHEM,204,,101,Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien,21,68.476190476,11.539579921,93.0,50.0,,,,,,,,,,,0,2,3,3,1,3,4,2,1,0,2,,,
+UBCO,2018,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jeffrey Therrien,191,66.654450262,14.092774132,99.0,27.0,,,,,,,,,,,30,3,25,24,17,20,15,17,24,10,6,,,
+UBCO,2018,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Jeffrey Therrien,10,77.5,9.312476696,91.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,1,4,1,1,,,
+UBCO,2018,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Dixon Kantymir;Jeffrey Therrien,15,81.933333333,6.562519841,91.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,6,4,1,,,
+UBCO,2019,S,CHEM,203,,001,Introduction to Organic Chemistry,Jeffrey Therrien,23,68.173913043,14.624550262,92.0,41.0,,,,,,,,,,,2,2,3,2,2,1,2,4,1,2,2,,,
+UBCO,2019,S,CHEM,204,,101,Organic Chemistry,Jeffrey Therrien,29,62.655172414,15.653105265,97.0,18.0,,,,,,,,,,,4,3,5,7,0,1,3,1,3,1,1,,,
+UBCO,2019,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jeffrey Therrien,193,69.544041451,12.523701623,97.0,38.0,,,,,,,,,,,10,13,20,17,20,27,21,19,17,22,7,,,
+UBCO,2019,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Jeffrey Therrien,28,77.107142857,8.314820707,92.0,54.0,,,,,,,,,,,0,1,0,0,3,1,4,10,3,5,1,,,
+UBCO,2021,S,CHEM,203,,001,Introduction to Organic Chemistry,Darina Vekhova;Jeffrey Therrien;Kadie Wert;Ozren Petkovic,30,71.666666667,17.046252158,95.0,19.0,,,,,,,,,,,2,3,0,1,3,7,1,2,2,7,2,,,
+UBCO,2021,S,CHEM,204,,101,Organic Chemistry,Darina Vekhova;Jeffrey Therrien;Kadie Wert;Ozren Petkovic,32,70.59375,9.462521573,91.0,53.0,,,,,,,,,,,0,1,3,4,5,6,3,2,5,2,1,,,
+UBCV,2015,W,CHEM,121,,V01,Structure and Bonding in Chemistry,Angela Crane;Elizabeth Fisher;Jeffrey Adam Therrien;Jeffrey Therrien;Lichen Ni;Priya Lekhi;Scott Ryken,40,70.2,15.35260773,94.0,34.0,,,,,,,,,,,7,0,,,,3,10,,4,3,,,,
+UBCV,2016,W,CHEM,121,,199,Structure and Bonding in Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Lawrence Mcintosh,211,68.13270142,14.88020167,97.0,25.0,,,,,,,,,,,31,6,16,17,20,26,25,15,29,13,13,,,
+UBCO,2021,S,CHEM,203,,001,Introduction to Organic Chemistry,Jeffrey Therrien,30,71.7,,95.0,19.0,,,,,,,,,,,,,,,,7,,,,7,,70.5,86.8,67.0
+UBCO,2021,S,CHEM,204,,101,Organic Chemistry,Jeffrey Therrien,32,70.6,,91.0,53.0,,,,,,,,,,,,,,,,6,,,,,,69.0,79.3,64.5
+UBCO,2022,S,CHEM,203,,001,Introduction to Organic Chemistry,Jeffrey Therrien,28,69.8,,92.0,40.0,,,,,,,,,,,2,3,1,0,1,8,4,4,3,0,2,70.5,78.0,67.5
+UBCO,2022,S,CHEM,204,,101,Organic Chemistry,Edward Neeland;Jeffrey Therrien,20,67.2,,91.0,34.0,,,,,,,,,,,1,0,1,5,4,2,5,0,1,0,1,66.5,73.0,62.8
+UBCO,2023,S,CHEM,203,,001,Introduction to Organic Chemistry,Jeffrey Therrien,29,77.1,,97.0,44.0,,,,,,,,,,,1,1,1,1,1,2,5,2,6,5,4,80.0,85.0,72.0
+UBCO,2023,S,CHEM,204,,101,Organic Chemistry,Jeffrey Therrien,31,73.48,,100.0,53.0,,,,,,,,,,,0,3,1,1,4,7,4,4,2,1,4,71.0,79.0,66.0

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,HIST,483,,201,ASIAN MIGR AMER,"Lee, Karin",43,80.31,6.57,92,61,39,0,4,0,0,0,0,0,0,0,0,0,0,1,2,2,2,3,22,6,1
+UBC,2010,W,HIST,485,,201,ASIAN MIGR VAN,"Lee, Karin",34,81.74,5.74,92,67,34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,12,9,2
+UBC,2014,W,FIPR,333,,001,MO PICT PROD I,"Lee, Karin",17,85.47,2.96,91,80,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,2
+UBCV,2014,W,FIPR,333,,001,Motion Picture Production I,Karin Lee,17,85.47058824,2.960524596,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,2

@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,EDST,532,,62A,LDRSHP EDUC ORG,"Pamer, Monica",14,90.36,1.98,95,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,,,
+UBC,2016,W,EDST,532,,61A,LDRSHP EDUC ORG,"Pamer, Monica",24,91.04,2.71,97,88,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,14,,,
+UBC,2017,S,EDST,565,A,93B,SP CRS SBJCT FLD,"Pamer, Monica",17,92.65,2.64,97,87,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,14,,,
+UBC,2017,W,EDST,581,,022,LDR ADM AIM EDUC,"Pamer, Monica",21,91.05,2.65,96,86,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,,,
+UBC,2018,S,EDST,565,A,971,SP CRS SBJCT FLD,"Pamer, Monica",13,92.54,1.27,94,90,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,,,
+UBC,2018,W,EDST,532,,62A,LDRSHP EDUC ORG,"Pamer, Monica",20,93.25,1.41,96,91,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,,,
+UBCV,2015,W,EDST,532,,62A,Leadership in Educational Organizations,Monica Pamer,14,90.357142857,1.984832597,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,10,,,
+UBCV,2016,W,EDST,532,,022,Leadership in Educational Organizations,Monica Pamer;Steve Cardwell,20,89.4,4.838442551,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,8,9,,,
+UBCV,2016,W,EDST,532,,61A,Leadership in Educational Organizations,Monica Pamer,24,91.04166667,2.710353204,97.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,14,,,
+UBCV,2017,S,EDST,565,A,93B,Special Course in Subject Matter Field,Monica Pamer,17,92.647058824,2.644361371,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,14,,,
+UBCV,2017,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Monica Pamer;Wendy Poole,21,91.047619048,2.654735212,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,17,,,
+UBCV,2018,S,EDST,565,A,971,Special Course in Subject Matter Field,Monica Pamer,13,92.538461538,1.265924209,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,,,
+UBCV,2018,W,EDST,532,,62A,Leadership in Educational Organizations,Monica Pamer,20,93.25,1.409553867,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20,,,
+UBCV,2018,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Fei Wang;Monica Pamer,19,87.368421053,1.640139774,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,16,2,,,
+UBCV,2019,S,EDST,565,E,96A,Special Course in Subject Matter Field,Leslie Roman;Monica Pamer,21,91.952380952,1.745743122,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,19,,,
+UBCV,2020,S,EDST,582,,941,The Study of Educational Organizations,Monica Pamer;Wendy Poole,20,93.8,2.504732363,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,18,,,
+UBCV,2021,S,EDST,532,,941,Leadership in Educational Organizations,Gerald Fallon;Monica Pamer,19,89.526315789,1.896441728,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,11,,,
+UBCV,2022,S,EDST,532,,941,Leadership in Educational Organizations,Monica Pamer,19,95.2,,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,95.0,96.0,94.0
+UBCV,2023,S,EDST,532,,941,Leadership in Educational Organizations,Monica Pamer,20,93.68,,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,94.0,94.5,93.0

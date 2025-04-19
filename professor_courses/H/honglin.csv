@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Luo, Honglin;Nimmo, Michael;Park, Carol;Skinnider, Brian;Walters, Rebecca",19,79,7.77,93,64,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4,4,3,2
+UBC,2011,W,MEDI,570,,001,CARDIOLOGY,"Luo, Honglin",7,84.83,8.11,92,72,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3
+UBC,2011,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Luo, Honglin;Nimmo, Michael;Park, Carol;Skinnider, Brian;Walters, Rebecca",16,82.5,6.65,93,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,3,3
+UBC,2012,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Luo, Honglin;Nimmo, Michael;Park, Carol;Skinnider, Brian;Walters, Rebecca",24,81.17,4.29,88,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,10,7,0
+UBC,2013,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Luo, Honglin;Skinnider, Brian;TBA",24,82.75,9.53,96,63,24,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,5,5,7
+UBC,2014,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Luo, Honglin;Skinnider, Brian",22,80.86,10.51,93,44,20,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,4,3,3,7,3
+UBC,2015,W,MEDI,570,,001,CARDIOVAS PATH,"Luo, Honglin",14,87.64,6.31,95,72,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,6
+UBC,2015,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Haley, Lawrence;Lee, Lawrence;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",24,74.96,10.1,94,57,23,0,1,0,0,0,0,0,0,0,0,0,2,1,2,3,3,6,2,1,3
+UBC,2016,W,MEDI,570,,001,CARDIOVAS PATH,"Luo, Honglin",11,90.45,5.13,96,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8
+UBC,2016,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Lee, Lawrence;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",15,74.93,12.33,91,54,15,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,2,1,3,3,1
+UBC,2017,W,PATH,304,,001,HUM HISTOLOGY,"Gilks, Cyril Blake;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",14,80.36,6.02,93,68,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,2,1

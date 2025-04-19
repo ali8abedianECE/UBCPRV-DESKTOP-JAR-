@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,ECON,502,,002,MACRO ECONOMICS,"Devereux, Michael",52,75.82,10.54,97,51,51,0,1,0,0,0,0,0,0,0,0,2,0,5,4,4,11,5,9,7,4,,,
+UBC,2002,W,ECON,556,,001,INTERNATL FINANC,"Devereux, Michael",5,84.33,5.13,90,80,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,,,
+UBC,2005,W,ECON,307,,001,MACROECON ANL II,"Devereux, Michael",18,83.24,8.61,99,68,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,2,3,6,3,,,
+UBC,2005,W,ECON,546,,001,MONTRY THRY POL,"Devereux, Michael",11,82.89,10.49,97,69,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3,0,3,,,
+UBC,2007,W,ECON,590,C,005,SPEC ADV CRSE,"Devereux, Michael",4,86.75,5.38,92,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBC,2009,W,ECON,546,,001,MONTRY THRY POL,"Devereux, Michael;Siu, Henry",21,82.05,6.68,93,70,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,6,5,3,,,
+UBC,2009,W,ECON,603,,001,MACROECON II,"Devereux, Michael;Siu, Henry",12,82.75,10.08,95,57,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,4,2,3,,,
+UBC,2010,W,ECON,546,,001,MONTRY THRY POL,"Devereux, Michael;Siu, Henry",18,82.65,7.98,97,71,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2,5,3,,,
+UBC,2010,W,ECON,603,,001,MACROECON II,"Devereux, Michael;Siu, Henry",18,88.78,9.48,99,58,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,10,,,
+UBC,2011,W,ECON,546,,001,MONTRY THRY POL,"Devereux, Michael;Gallipoli, Giovanni",14,86.08,6.71,96,77,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,4,,,
+UBC,2011,W,ECON,603,,001,MACROECON II,"Devereux, Michael;Gallipoli, Giovanni",20,87.58,7.21,95,68,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,4,10,,,
+UBC,2015,S,ECON,594,,942,APPLIED ECONS,"Devereux, Michael",24,87.17,5.16,95,75,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,7,9,,,
+UBC,2016,S,ECON,594,,942,APPLIED ECONS,"Devereux, Michael",19,86.63,6.95,95,65,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,7,7,,,
+UBC,2017,W,ECON,456,,001,INTER MACRO/FINC,"Devereux, Michael",61,77.87,12.97,94,5,60,1,0,0,0,1,0,0,0,0,1,1,1,2,3,2,11,5,19,10,6,,,
+UBC,2017,W,ECON,556,,001,INTERNATL FINANC,"Devereux, Michael",29,84.31,9.52,96,62,29,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,1,6,13,,,
+UBC,2018,W,ECON,456,,001,INTER MACRO/FINC,"Devereux, Michael",38,76.56,16.39,95,0,33,1,1,3,0,1,0,0,0,0,1,0,0,1,3,4,6,1,6,6,6,,,
+UBC,2018,W,ECON,556,,001,INTERNATL FINANC,"Devereux, Michael",23,82.83,5.1,94,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,12,4,3,,,
+UBCV,2015,S,ECON,594,,942,Applied Economics,Michael Devereux;Ya Wen Liang,24,87.16666667,5.155551391,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,6,7,9,,,
+UBCV,2016,S,ECON,594,,942,Applied Economics,Michael Devereux;Nicolas Franz Pattillo,19,86.63157895,6.953899995,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,4,7,7,,,
+UBCV,2017,S,ECON,594,,942,Applied Economics,Joshua Gottlieb;Michael Devereux;Thomas Cornwall;Thomas H D Cornwall,20,78.35,20.551027635,98.0,0.0,,,,,,,,,,,1,0,0,0,0,2,5,1,3,3,5,,,
+UBCV,2017,W,ECON,456,,001,International Macroeconomics and Finance,Michael Devereux;Nicolas Franz Pattillo,61,77.868852459,12.974944329,94.0,5.0,,,,,,,,,,,1,1,1,2,3,2,11,5,19,10,6,,,
+UBCV,2017,W,ECON,556,,001,International Finance,Amartya Lahiri;Mengying Wei;Michael Devereux;Nadhanael Gemaliel Vimala,29,84.310344828,9.521042291,96.0,62.0,,,,,,,,,,,0,0,0,1,1,2,2,3,1,6,13,,,
+UBCV,2017,W,GPP,502,,001,International Macroeconomics,Michael Devereux,38,87.078947368,8.691037878,99.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,1,10,8,16,,,
+UBCV,2018,W,ECON,456,,001,International Macroeconomics and Finance,Anand Chopra;Michael Devereux,34,76.558823529,16.385860824,95.0,0.0,,,,,,,,,,,1,0,0,1,3,4,6,1,6,6,6,,,
+UBCV,2018,W,ECON,556,,001,International Finance,Chenyu Hou;Kelly Erin Foley;Michael Devereux,24,81.583333333,8.30880448,94.0,50.0,,,,,,,,,,,0,,,,,,2,1,13,4,3,,,
+UBCV,2018,W,GPP,502,,001,International Macroeconomics,Da Kang;Michael Devereux;Raahil Madhok,36,80.611111111,9.517736159,96.0,50.0,,,,,,,,,,,0,,,1,1,3,5,1,11,7,6,,,
+UBCV,2019,W,ECON,456,,001,International Macroeconomics and Finance,Anand Chopra;Michael Devereux,42,83.142857143,9.416051237,98.0,55.0,,,,,,,,,,,0,0,1,1,0,2,3,7,8,8,12,,,
+UBCV,2019,W,ECON,502,,001,Macroeconomics,Chenyu Hou;Michael Devereux;Paul Corcuera Garcia;Paul Josemaria Corcuera Garcia,44,85.227272727,7.793448759,100.0,68.0,,,,,,,,,,,0,0,0,0,0,2,3,4,10,13,12,,,
+UBCV,2019,W,ECON,556,,001,International Finance,Ali Karimirad;Amartya Lahiri;Michael Devereux,22,83.272727273,8.497516826,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,4,2,7,2,6,,,
+UBCV,2020,W,ECON,456,,001,International Macroeconomics and Finance,Anand Chopra;Michael Devereux,49,82.265306122,7.061561177,97.0,65.0,,,,,,,,,,,0,0,0,0,2,3,2,6,15,15,6,,,
+UBCV,2020,W,ECON,456,,002,International Macroeconomics and Finance,Jan  Ksawery Rosa;Michael Devereux;Seok Min Moon,35,78.6,11.342787291,95.0,34.0,,,,,,,,,,,1,0,0,2,0,4,5,5,7,8,3,,,
+UBCV,2020,W,ECON,556,,001,International Finance,Ali Karimirad;Michael Devereux;Tuvana Pastine,18,82.111111111,8.180959881,93.0,66.0,,,,,,,,,,,0,0,0,0,1,2,0,2,5,3,5,,,
+UBCV,2021,W,ECON,456,,001,International Macroeconomics and Finance,Luis Rojas Bernal;Michael Devereux,53,78.245283019,11.724244539,99.0,50.0,,,,,,,,,,,0,3,1,2,2,7,4,10,7,7,10,,,
+UBCV,2021,W,ECON,456,,002,International Macroeconomics and Finance,Jan  Ksawery Rosa;Michael Devereux;Michal Szkup,40,77.05,9.564759034,96.0,50.0,,,,,,,,,,,0,1,0,1,4,8,2,5,13,3,3,,,
+UBCV,2021,W,ECON,556,,001,International Finance,Ali Karimirad;Michael Devereux,14,80.785714286,8.514047862,93.0,63.0,,,,,,,,,,,0,0,0,1,0,1,2,1,4,3,2,,,
+UBCV,2021,W,ECON,456,,001,International Macroeconomics and Finance,Michael Devereux,53,78.2,,99.0,50.0,,,,,,,,,,,,,,,,7,,10,7,7,10,78.0,87.0,71.0
+UBCV,2021,W,ECON,456,,002,International Macroeconomics and Finance,Michael Devereux,40,77.1,,96.0,50.0,,,,,,,,,,,,,,,,8,,,13,,,78.5,83.0,68.8
+UBCV,2021,W,ECON,556,,001,International Finance,Michael Devereux,14,80.8,,93.0,63.0,,,,,,,,,,,,,,,,,,,,,,82.0,86.5,75.0
+UBCV,2022,W,ECON,456,,001,International Macroeconomics and Finance,Michael Devereux,44,76.7,,97.0,50.0,,,,,,,,,,,0,1,4,4,3,2,4,6,7,6,7,77.0,86.0,67.0
+UBCV,2022,W,ECON,456,,002,International Macroeconomics and Finance,Michael Devereux,69,77.9,,97.0,43.0,,,,,,,,,,,1,2,2,2,4,6,5,15,9,17,6,79.0,86.0,73.0
+UBCV,2022,W,ECON,556,,001,International Finance,Michael Devereux,11,82.2,,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,2,2,81.0,85.5,78.0

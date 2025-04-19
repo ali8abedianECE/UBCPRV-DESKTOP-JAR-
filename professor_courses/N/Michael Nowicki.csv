@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,COSC,101,,001,Digital Citizenship,Abdallah Mohamed;Michael Nowicki;Yi-Hsun Huang,35,79.68571429,12.8217908,95.0,24.0,,,,,,,,,6,12,5
+UBCO,2015,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Congsong Zhang;Jeff Bulmer;Jessa Marley;Michael Nowicki,187,67.096256684,22.291599674,100.0,5.0,50,,,12,12,11,11,16,16,23,30
+UBCO,2015,W,COSC,111,,101,Computer Programming I,Bowen Hui;Michael Nowicki,69,65.260869565,25.429054812,100.0,2.0,24,,,3,5,4,5,1,7,4,15

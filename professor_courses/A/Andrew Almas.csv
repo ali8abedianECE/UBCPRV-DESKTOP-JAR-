@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,UFOR,100,,101,Greening the City,Andrew Almas;Cecil Konijnendijk;Corinne Bassett;Corinne Grunder Bassett;Sophie Nitoslawski;Zhaohua Cheng,107,75.813084112,10.300330496,93.0,37.0,2,2,5,3,8,9,13,20,26,15,4,,,
+UBCV,2019,W,UFOR,101,,201,Urban Forest Inventory and Assessment,Andrew Almas;Hyeone Park;Tahia Devisscher;Tyler Doucet,67,81.089552239,9.370701185,97.0,51.0,0,1,2,1,2,2,10,5,16,15,13,,,
+UBCV,2019,W,UFOR,201,,201,Introduction to Urban Forest Design,Andrew Almas;Emily Tu,72,77.138888889,6.705695615,87.0,57.0,0,0,3,0,4,3,15,15,22,10,0,,,
+UBCV,2019,W,UFOR,401,,201,Integrated Urban Forestry Capstone Studio,Amy Blood;Andrew Almas;Corinne Bassett;Corinne Grunder Bassett;Paul De Greeff;Stephen Sheppard;Susan Day,27,82.777777778,4.526276559,92.0,70.0,0,0,0,0,0,1,0,4,11,10,1,,,
+UBCV,2020,W,UFOR,100,,101,Greening the City,Alexander Martin;Andrew Almas;Bryn Gerson;Emily Tu;Eric Schietekat Sedas;Tyler Doucet;Zhaohua Cheng,110,78.009090909,11.681158242,94.0,0.0,1,3,1,4,3,11,14,11,31,20,11,,,
+UBCV,2020,W,UFOR,110,,201,Introduction to Urban Forest Design,Andrew Almas;Emily Tu;Ziyun Zeng,84,77.178571429,11.141111011,92.0,20.0,3,0,1,0,7,4,8,14,34,11,2,,,
+UBCV,2020,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Daniel Sax;Kaitlyn Pike;Laura Grant;Susan Day,55,82.563636364,13.539740733,97.0,0.0,1,0,0,1,1,1,1,12,7,18,13,,,
+UBCV,2020,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Amy Blood;Andrew Almas;Kaitlyn Pike;Susan Day,53,77.528301887,13.896047824,92.0,0.0,1,2,0,1,0,4,6,11,14,9,5,,,
+UBCV,2020,W,UFOR,449,B,101,Directed Studies in Urban Forestry,Andrew Almas;Corinne Bassett;Daniel Sax;Laura Grant;Susan Day,46,82.108695652,6.760106051,93.0,52.0,0,1,0,0,0,1,2,7,17,13,5,,,
+UBCV,2021,W,UFOR,100,,101,Greening the City,Andrew Almas;Anya Noel Rueter;Chanel Yee;Lynne Kim;Owen Harris,96,79.520833333,11.491854476,93.0,24.0,2,1,2,5,3,4,9,5,26,25,14,,,
+UBCV,2021,W,UFOR,110,,201,Introduction to Urban Forest Design,Andrew Almas;Claire Hicks;Ziyun Zeng,76,75.118421053,17.298144105,94.0,14.0,6,1,0,4,3,3,9,7,17,19,7,,,
+UBCV,2021,W,UFOR,220,,101,Urban Forest Inventory and Assessment,Alexander Martin;Andrew Almas;Finn Koepf;Hyeone Park;Tahia Devisscher,75,79.373333333,6.415297034,94.0,62.0,0,0,0,2,1,7,8,19,21,14,3,,,
+UBCV,2021,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Chanel Yee;Daniel Sax;Kaitlyn Pike;Laura Grant;Susan Day;Tahia Devisscher,51,82.156862745,5.416170415,92.0,71.0,0,0,0,0,0,2,3,12,12,17,5,,,
+UBCV,2021,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Angela Rout;Emily Tu;Kaitlyn Pike;Melissa Mchale;Susan Day;Yaying Zhou,53,92.41509434,4.546486227,98.0,68.0,0,0,0,0,0,1,0,0,1,4,47,,,
+UBCV,2021,W,UFOR,523,,201,Strategic Urban Forest Planning and Management,Addison Riddle;Andrew Almas;Cecil Konijnendijk;Lorien Nesbitt;Sophie Nitoslawski,10,86.5,5.06074215,94.0,76.0,0,0,0,0,0,0,0,1,1,5,3,,,
+UBCV,2021,W,UFOR,100,,101,Greening the City,Andrew Almas,96,79.5,,93.0,24.0,,,,,,,9,,26,25,14,82.5,87.3,74.0
+UBCV,2021,W,UFOR,110,,201,Introduction to Urban Forest Design,Andrew Almas,76,75.4,,94.0,14.0,6,,,,,,9,7,18,19,7,80.0,85.0,73.0
+UBCV,2021,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas;Susan Day;Tahia Devisscher,51,82.2,,92.0,71.0,,,,,,,,12,12,17,,82.0,86.5,78.0
+UBCV,2021,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Susan Day;Melissa Mchale;Angela Rout,53,92.4,,98.0,68.0,,,,,,,,,,,47,94.0,95.0,91.0
+UBCV,2021,W,UFOR,523,,201,Strategic Urban Forest Planning and Management,Andrew Almas;Sophie Nitoslawski,10,86.5,,94.0,76.0,,,,,,,,,,,,86.0,89.5,85.0
+UBCV,2022,W,UFOR,100,,101,Greening the City,Andrew Almas,134,77.7,,94.0,27.0,3,2,3,2,8,7,15,27,31,31,5,79.0,85.0,75.0
+UBCV,2022,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas,46,84.8,,94.0,67.0,0,0,0,0,1,0,2,5,12,16,10,85.5,88.0,82.3
+UBCV,2022,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Melissa McHale,45,82.8,,92.0,66.0,0,0,0,0,1,2,4,6,9,15,8,85.0,88.0,79.0
+UBCV,2022,W,UFOR,402,,201,"Urban Forestry Administration, Policy and Law",Andrew Almas,34,78.9,,96.0,30.0,2,2,1,1,0,0,2,2,10,6,8,83.0,88.0,76.5
+UBCV,2022,W,UFOR,512,,101,Urban Forest Governance,Andrew Almas;Sara Barron;Owen Croy,9,86.0,,95.0,77.0,0,0,0,0,0,0,0,2,1,3,3,87.0,91.0,80.0
+UBCV,2022,W,UFOR,523,,201,Strategic Urban Forest Planning and Management,Andrew Almas;Sara Barron,6,88.7,,94.0,82.0,0,0,0,0,0,0,0,0,2,1,3,90.0,91.8,85.3
+UBCV,2023,W,UFOR,100,,101,Greening the City,Andrew Almas,106,78.3,,92.0,53.0,0,1,2,5,3,10,14,8,30,24,6,80.0,85.0,72.0
+UBCV,2023,W,UFOR,400,,201,Urban Forestry Field School,Andrew Almas,44,82.7,,96.0,0.0,1,0,0,0,0,0,2,6,15,11,9,84.0,88.3,80.8
+UBCV,2023,W,UFOR,401,,101,Integrated Urban Forestry Capstone Studio,Andrew Almas;Emma Luker;Melissa McHale,47,79.0,,96.0,0.0,1,1,0,0,0,1,8,10,12,7,7,81.0,86.0,76.0
+UBCV,2023,W,UFOR,402,,201,"Urban Forestry Administration, Policy and Law",Andrew Almas,51,79.9,,95.0,51.0,0,1,2,0,1,3,6,9,9,15,5,83.0,86.0,75.0
+UBCV,2023,W,UFOR,512,,101,Urban Forest Governance,Andrew Almas;Owen Croy,10,87.0,,92.0,75.0,0,0,0,0,0,0,1,0,2,1,5,90.0,91.0,84.0

@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MINE,396,,101,ENG ECON,"Lopes Da Costa, Jose Carlos",66,84.05,6.9,95,60,66,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,7,18,26,10
+UBC,2015,W,MINE,554,,201,MIN ECO FIN,"Lopes Da Costa, Jose Carlos",45,86.93,3.69,94,79,43,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,24,9
+UBC,2016,W,MINE,396,,101,ENG ECON,"Lopes Da Costa, Jose Carlos",84,83.04,7.98,100,64,83,0,0,1,0,0,0,0,0,0,0,0,0,0,3,4,3,18,19,17,19
+UBC,2016,W,MINE,497,H,201,DIR STUD,"Lopes Da Costa, Jose Carlos",28,85.71,4.72,93,76,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,10,8
+UBC,2016,W,MINE,554,,201,MIN ECO FIN,"Lopes Da Costa, Jose Carlos",21,85.19,4.46,91,73,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,13,2
+UBC,2017,W,MINE,396,,101,ENG ECON,"Lopes Da Costa, Jose Carlos",94,84.76,7.43,98,64,93,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,4,14,22,23,26
+UBC,2017,W,MINE,406,,201,MN PROJ V & R A,"Lopes Da Costa, Jose Carlos",48,81.38,5.76,91,69,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,10,14,12,4
+UBC,2017,W,MINE,554,,201,MIN ECO FIN,"Lopes Da Costa, Jose Carlos",25,83.52,5.47,92,70,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,11,6,3
+UBCV,2015,W,MINE,396,,101,Engineering Economics,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa;Michael Mcclintock,66,84.045454545,6.900238164,95.0,60.0,,,,,,,,,,,0,0,0,,,,,7,18,26,10
+UBCV,2015,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,43,86.930232558,3.686496264,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,24,9
+UBCV,2016,W,MINE,396,,101,Engineering Economics,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,83,83.03614458,7.977782844,100.0,64.0,,,,,,,,,,,0,0,0,0,3,4,3,18,19,17,19
+UBCV,2016,W,MINE,497,H,201,Directed Studies,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,28,85.71428571,4.720774755,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,10,8
+UBCV,2016,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,21,85.19047619,4.456669694,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,13,2
+UBCV,2017,W,MINE,396,,101,Engineering Economics,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,93,84.76344086,7.427033244,98.0,64.0,,,,,,,,,,,0,0,0,0,3,1,4,14,22,23,26
+UBCV,2017,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,48,81.375,5.756125322,91.0,69.0,,,,,,,,,,,0,0,0,0,0,3,5,10,14,12,4
+UBCV,2017,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,25,83.52,5.470527092,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,3,11,6,3
+UBCV,2018,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa;Zul Kanji,26,84.846153846,4.249162813,93.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,10,8,6
+UBCV,2018,W,MINE,396,,101,Engineering Economics,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,76,76.0,8.272041264,93.0,60.0,,,,,,,,,,,0,0,0,4,8,15,10,11,13,13,2
+UBCV,2018,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,42,79.952380952,6.19186083,89.0,66.0,,,,,,,,,,,0,0,0,0,1,3,7,8,10,13,0
+UBCV,2018,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,13,84.384615385,6.331646199,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,1,2,5,3
+UBCV,2019,W,MINE,396,,101,Engineering Economics,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,60,81.65,8.442878857,97.0,60.0,,,,,,,,,,,0,0,0,2,2,3,4,11,14,14,10
+UBCV,2019,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,41,86.512195122,3.075076838,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,24,8
+UBCV,2019,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,15,89.8,1.934646516,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,8
+UBCV,2020,S,MINE,396,,941,Engineering Economics,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,57,84.473684211,6.692493831,94.0,65.0,,,,,,,,,,,0,0,0,0,1,2,3,5,14,17,15
+UBCV,2020,S,MINE,406,,941,Mine Project Valuation and Risk Assessment,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,17,91.117647059,2.59524452,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,14
+UBCV,2020,W,MINE,396,,101,Engineering Economics,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,60,79.15,7.644262277,92.0,61.0,,,,,,,,,,,0,0,0,1,4,5,11,8,15,12,4
+UBCV,2020,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.071428571,2.894671118,86.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,8,3,0
+UBCV,2020,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.285714286,3.291681156,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,7,5,0

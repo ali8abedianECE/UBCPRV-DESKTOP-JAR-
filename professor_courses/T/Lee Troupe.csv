@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,101,,205,INT CALC AP PH S,"Troupe, Lee",118,70.46,14,93,26,105,7,3,0,3,0,0,1,1,5,7,9,9,7,8,14,10,11,19,15,3
+UBC,2016,W,MATH,184,,106,CALC SOCSCI COMM,"Troupe, Lee",121,61.83,14.13,93,19,98,20,2,0,1,0,1,1,6,12,20,15,14,11,12,19,11,1,8,4,3
+UBC,2017,S,MATH,100,,921,DF CALC AP PH SC,"Troupe, Lee",102,60.92,18.14,94,0,75,20,3,0,3,2,0,3,6,9,20,11,8,8,10,7,12,6,8,2,3
+UBC,2017,W,MATH,312,,201,INTR NUMBER THRY,"Troupe, Lee",59,67.86,16.84,96,27,49,8,1,0,1,0,0,1,3,4,8,5,4,6,3,4,9,1,6,6,5
+UBC,2018,S,MATH,215,,921,ELEM DIFF EQ I,"Troupe, Lee",60,70.23,16.76,100,31,55,5,0,0,0,0,0,0,3,2,5,6,4,7,5,4,3,6,6,4,10
+UBC,2018,S,MATH,255,,921,ORD DIFF EQUTNS,"Troupe, Lee",53,73,15.58,99,21,51,2,0,0,0,0,0,2,0,0,2,2,6,2,6,3,4,5,15,4,4
+UBCV,2016,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Lee Troupe,115,68.89565217,16.82436303,93.0,6.0,,,,,,,,,,,10,9,9,7,8,14,10,11,19,15,3
+UBCV,2016,W,MATH,184,,106,Differential Calculus for Social Science and Commerce,Lee Troupe;Shawn Desaulniers,119,61.37815126,14.90591488,93.0,8.0,,,,,,,,,,,21,15,14,11,12,19,11,1,8,4,3
+UBCV,2017,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Lee Troupe,99,59.03030303,20.117742472,94.0,0.0,,,,,,,,,,,24,11,8,8,10,7,12,6,8,2,3
+UBCV,2017,W,MATH,312,,201,Introduction to Number Theory,Gregory Martin;Lee Troupe,58,66.896551724,18.230194401,96.0,12.0,,,,,,,,,,,9,5,4,6,3,4,9,1,6,6,5
+UBCV,2018,S,MATH,215,,921,Elementary Differential Equations I,Lee Troupe,60,70.233333333,16.755840537,100.0,31.0,,,,,,,,,,,5,6,4,7,5,4,3,6,6,4,10
+UBCV,2018,S,MATH,255,,921,Ordinary Differential Equations,Lee Troupe,53,73.0,15.577350421,99.0,21.0,,,,,,,,,,,2,2,6,2,6,3,4,5,15,4,4

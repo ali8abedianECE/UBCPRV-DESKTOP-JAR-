@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,ECED,401,,63C,SUP YCH&WB ECE,"Kim, Ji Eun",34,84.42,7.21,91,64,33,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,4,16,7,,,
+UBC,2015,W,LLED,450,,002,T & L KIND & PRM,"Kim, Ji Eun",8,81.25,19.67,93,33,7,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,5,2,,,
+UBC,2017,S,ECED,417,,93Q,SUP LRN KNDGRN,"Kim, Ji Eun",32,86.75,4.98,92,71,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,14,10,,,
+UBC,2018,W,ECED,401,,63D,SUP YCH&WB ECE,"Kim, Ji Eun",32,82.32,15.07,92,3,30,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,15,11,4,,,
+UBCV,2015,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Ji Eun Kim,33,84.424242424,7.206899052,91.0,64.0,,,,,,,,,,,0,0,0,0,,,,,,16,7,,,
+UBCV,2015,W,LLED,450,,002,Teaching and Learning Language and Literacy: Kindergarten and Primary Grades,Ji Eun Kim,8,81.25,19.674130948,93.0,33.0,,,,,,,,,,,,,,,,,,,,5,,,,
+UBCV,2017,S,ECED,417,,93Q,Supporting Learning in the Kindergarten Year,Ji Eun Kim,32,86.75,4.977368135,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,5,14,10,,,
+UBCV,2017,W,LLED,450,,002,Teaching and Learning Language and Literacy: Kindergarten and Primary Grades,Ji Eun Kim;Laura Ann Nichols,8,85.125,2.997022332,89.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,0,,,
+UBCV,2018,W,ECED,401,,63D,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Ji Eun Kim,31,82.322580645,15.071799487,92.0,3.0,,,,,,,,,,,1,0,0,0,0,0,0,0,15,11,4,,,
+UBCV,2019,S,ECED,407,,93Q,Supporting Early Learning in the Pre-School Years,Ji Eun Kim;Maria Pighini,26,81.807692308,11.510062487,91.0,31.0,,,,,,,,,,,1,0,0,0,0,2,0,0,12,7,4,,,
+UBCV,2019,W,ECED,401,,63C,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Ji Eun Kim,32,81.90625,7.06814469,92.0,55.0,,,,,,,,,,,0,0,1,0,0,0,2,6,11,9,3,,,
+UBCV,2019,W,ECED,406,,63C,Early Learning Curriculum in the Pre-School Years,Ji Eun Kim;Madelaine Hittos,33,81.909090909,8.956016261,91.0,50.0,,,,,,,,,,,0,2,0,0,0,0,0,3,17,8,3,,,
+UBCV,2019,W,ECED,407,,63A,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,29,83.724137931,4.45530624,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,16,7,3,,,
+UBCV,2020,S,ECED,407,,93Q,Supporting Early Learning in the Pre-School Years,Ji Eun Kim;Koichi Haseyama,23,82.565217391,12.387039,96.0,50.0,,,,,,,,,,,0,2,0,0,1,1,0,1,2,12,4,,,
+UBCV,2020,W,ECED,401,,63D,Supporting Young Children's Health and Well-Being in Early Childhood Settings,Ji Eun Kim,29,80.448275862,16.253760459,92.0,0.0,,,,,,,,,,,1,0,0,0,0,0,3,1,12,9,3,,,
+UBCV,2020,W,ECED,406,,63A,Early Learning Curriculum in the Pre-School Years,Ji Eun Kim;Madelaine Hittos,21,84.142857143,3.525417908,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,7,2,,,
+UBCV,2020,W,ECED,407,,63A,Supporting Early Learning in the Pre-School Years,Ji Eun Kim;Maria Pighini,28,83.5,7.62792142,95.0,59.0,,,,,,,,,,,0,0,1,0,0,0,2,3,10,5,7,,,
+UBCV,2020,W,ECED,407,,63C,Supporting Early Learning in the Pre-School Years,Ji Eun Kim;Maria Pighini,25,81.32,16.878783526,93.0,2.0,,,,,,,,,,,1,0,0,0,0,0,0,0,14,7,3,,,
+UBCV,2021,W,ECED,406,,63A,Early Learning Curriculum in the Pre-School Years,Iris Berger;Ji Eun Kim;Madelaine Hittos,22,83.545454545,9.480442388,97.0,57.0,,,,,,,,,,,0,0,1,0,0,0,3,2,4,6,6,,,
+UBCV,2021,W,ECED,407,,63A,Supporting Early Learning in the Pre-School Years,Ji Eun Kim;Maria Pighini,25,81.6,7.5,94.0,54.0,,,,,,,,,,,0,1,0,0,0,0,1,6,10,3,4,,,
+UBCV,2021,W,ECED,407,,63C,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,28,82.428571429,5.533926149,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,1,2,14,5,4,,,
+UBCV,2021,W,ECED,407,,63A,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,25,81.6,,94.0,54.0,,,,,,,,,,,,,,,,,,6,10,,,82.0,85.0,79.0
+UBCV,2021,W,ECED,407,,63C,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,28,82.4,,93.0,69.0,,,,,,,,,,,,,,,,,,,14,,,83.0,85.0,81.0
+UBCV,2022,S,ECED,407,,93Q,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,18,83.2,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,9,4,2,83.0,85.0,82.0
+UBCV,2022,S,ECED,407,,93S,Supporting Early Learning in the Pre-School Years,Ji Eun Kim,12,78.7,,90.0,69.0,,,,,,,,,,,0,0,0,0,0,2,2,2,4,1,1,78.5,82.3,73.8

@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",40,66.64,15.01,93,21,33,3,4,0,0,0,0,1,1,1,3,2,5,5,4,4,4,2,3,1,3
+UBC,2011,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Hamson, Dwayne",47,71.62,11.74,91,26,44,1,2,0,0,0,0,1,0,0,1,1,1,6,6,9,7,3,4,4,3
+UBC,2012,S,PSYC,218,,921,ANALYS BEH DATA,"Hamson, Dwayne",83,67.28,13.74,92,39,68,7,8,0,0,0,0,0,2,5,7,6,7,12,5,8,6,7,6,9,2
+UBC,2012,W,PSYC,218,,004,ANALYS BEH DATA,"Hamson, Dwayne",85,63.27,15.97,94,1,73,11,1,0,0,1,0,3,1,6,11,8,10,10,12,6,11,3,8,4,1
+UBC,2012,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",22,56.85,24.45,92,0,14,6,2,0,0,1,2,0,0,3,6,4,2,0,1,0,3,1,0,2,1
+UBC,2012,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Hamson, Dwayne",50,71.27,12.57,92,39,45,4,1,0,0,0,0,0,1,3,4,1,3,5,1,8,8,6,6,3,4
+UBC,2013,S,PSYC,218,,951,ANALYS BEH DATA,"Hamson, Dwayne",55,64.75,13.25,92,36,47,6,2,0,0,0,0,0,1,5,6,7,9,2,7,6,5,4,1,4,2
+UBC,2013,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",42,66,13.16,91,45,35,4,2,1,0,0,0,0,0,4,4,5,4,5,4,4,5,0,3,3,2
+UBC,2013,W,PSYC,462,,001,DRG&BEHAV NROSCI,"Hamson, Dwayne",52,72.94,9.8,89,44,51,1,0,0,0,0,0,0,0,1,1,1,1,6,5,10,5,4,16,3,0
+UBC,2014,S,PSYC,218,,951,ANALYS BEH DATA,"Hamson, Dwayne",78,65.09,17.2,92,0,65,9,3,1,0,1,1,1,3,3,9,7,5,7,5,9,9,10,9,3,1
+UBC,2014,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",50,65.19,13.1,92,23,42,5,3,0,0,0,0,1,0,4,5,3,9,4,3,7,7,3,2,3,1
+UBC,2014,W,PSYC,304,,002,BRAIN & BEHVIOUR,"Hamson, Dwayne",173,67.69,14.88,95,33,144,13,15,0,0,0,0,0,5,8,13,16,16,22,7,12,18,7,20,13,13
+UBC,2014,W,PSYC,360,,001,BIOPSYCHOLOGY,"Hamson, Dwayne;Snyder, Jason",58,70.53,11.29,89,41,54,4,0,0,0,0,0,0,0,4,4,1,6,1,9,5,13,6,9,4,0
+UBC,2015,S,PSYC,218,,951,ANALYS BEH DATA,"Hamson, Dwayne",72,65.55,15.52,94,25,60,6,6,0,0,0,0,2,2,2,6,10,5,8,13,1,4,5,4,5,5
+UBC,2015,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",36,58.94,19.74,92,0,24,7,5,0,0,1,0,2,1,3,7,3,6,3,3,1,0,2,4,1,1
+UBC,2015,W,PSYC,304,,002,BRAIN & BEHVIOUR,"Hamson, Dwayne",178,68.22,15.32,95,25,153,10,13,0,0,0,0,1,7,2,10,17,19,17,15,8,14,10,26,14,13
+UBC,2016,S,PSYC,218,,951,ANALYS BEH DATA,"Hamson, Dwayne",57,65.09,15.62,98,18,49,5,3,0,0,0,1,1,1,2,5,7,6,7,9,3,3,4,5,1,4
+UBC,2016,W,PSYC,218,,901,ANALYS BEH DATA,"Hamson, Dwayne",53,61.87,14.8,86,30,36,9,6,0,2,0,0,0,4,5,9,5,5,3,6,6,1,4,3,3,0
+UBC,2016,W,PSYC,304,,002,BRAIN & BEHVIOUR,"Hamson, Dwayne",169,69.78,15.07,99,0,155,11,3,0,0,1,0,1,3,6,11,10,11,19,17,18,18,9,23,17,13
+UBC,2017,S,PSYC,218,,951,ANALYS BEH DATA,"Hamson, Dwayne",69,68.03,13.33,91,30,60,5,4,0,0,0,0,0,1,4,5,7,2,10,4,9,5,8,9,5,1
+UBCV,2014,S,PSYC,218,,951,Analysis of Behavioural Data,Dwayne Hamson,74,65.0945946,17.19522785,92.0,0.0,,,,,,,,,,,9,7,5,7,5,9,9,10,9,,
+UBCV,2014,W,PSYC,218,,901,Analysis of Behavioural Data,Ana Luisa Santana Calisto Pesq;Dwayne Hamson,47,65.19148936,13.10266866,92.0,23.0,,,,,,,,,,,5,,9,,,7,7,,2,,
+UBCV,2014,W,PSYC,304,,002,Brain and Behaviour,Dwayne Hamson;Joshua Larkin;Stanley Bogdan Floresco,158,67.61392405,14.8648796,95.0,33.0,,,,,,,,,,,13,16,17,22,7,12,18,7,20,13,13
+UBCV,2014,W,PSYC,360,,001,Biopsychology,Dwayne Hamson;Jason Snyder;Paul Cocker,58,70.53448276,11.28609689,89.0,41.0,,,,,,,,,,,,,6,,9,5,13,6,9,,0
+UBCV,2015,S,PSYC,218,,951,Analysis of Behavioural Data,Dwayne Hamson;Grace Truong,66,65.54545455,15.51890343,94.0,25.0,,,,,,,,,,,6,10,5,8,13,,,5,,5,5
+UBCV,2015,W,PSYC,218,,901,Analysis of Behavioural Data,Dwayne Hamson;Grace Truong,31,58.935483871,19.739867416,92.0,0.0,,,,,,,,,,,7,3,6,3,3,1,0,,,,
+UBCV,2015,W,PSYC,304,,002,Brain and Behaviour,Aarthi Gobinath;Dwayne Hamson;Patrick Piantadosi;Stanley Bogdan Floresco,165,68.121212121,15.259858021,95.0,25.0,,,,,,,,,,,10,17,20,17,16,8,14,10,26,14,13
+UBCV,2015,W,PSYC,360,,001,Biopsychology,Dwayne Hamson;Jason Snyder;Paul Cocker,64,69.765625,11.843881533,91.0,38.0,,,,,,,,,,,,,,8,8,8,10,7,7,6,
+UBCV,2016,S,PSYC,218,,951,Analysis of Behavioural Data,Dwayne Hamson;Jordan Brace,54,65.09259259,15.62444688,98.0,18.0,,,,,,,,,,,5,7,6,7,9,3,3,4,5,1,4
+UBCV,2016,W,PSYC,218,,901,Analysis of Behavioural Data,Dwayne Hamson;Elizabeth Blundon,47,59.61702128,18.062155,86.0,6.0,,,,,,,,,,,11,5,5,3,6,6,1,4,3,3,0
+UBCV,2016,W,PSYC,304,,002,Brain and Behaviour,Dwayne Hamson;Michael Barrus;Patrick Piantadosi;Stanley Bogdan Floresco,166,69.78313253,15.07118317,99.0,0.0,,,,,,,,,,,11,10,11,19,17,18,18,9,23,17,13
+UBCV,2017,S,PSYC,218,,951,Analysis of Behavioural Data,Dwayne Hamson;Eleni Nasiopoulos,65,68.030769231,13.326394428,91.0,30.0,,,,,,,,,,,5,7,2,10,4,9,5,8,9,5,1

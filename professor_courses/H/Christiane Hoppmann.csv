@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",173,68.96,11.48,92,27,162,6,5,0,0,0,0,1,1,4,6,14,16,14,23,17,25,23,17,12,1
+UBC,2009,W,PSYC,314,,002,HEALTH PSYCHOLGY,"Hoppmann, Christiane",74,69.78,13.51,99,0,70,2,2,0,0,1,0,0,0,1,2,3,5,10,10,9,9,11,5,4,4
+UBC,2009,W,PSYC,504,C,001,SPC TC HLTH PSYC,"Hoppmann, Christiane",7,93.57,3.55,99,89,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2010,W,PSYC,504,C,002,SPC TC HLTH PSYC,"Hoppmann, Christiane",6,93.6,6.07,97,83,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+UBC,2011,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",150,71.48,12.27,99,31,144,2,2,0,0,0,0,0,1,1,2,12,6,18,13,28,18,7,18,13,11
+UBC,2011,W,PSYC,314,,002,HEALTH PSYCHOLGY,"Hoppmann, Christiane",133,71.51,12.43,100,19,123,5,1,1,0,0,1,0,1,3,5,3,12,10,8,21,22,11,15,16,5
+UBC,2011,W,PSYC,504,C,002,SPC TC HLTH PSYC,"Hoppmann, Christiane",5,96,2,98,94,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2012,W,PSYC,314,,002,HEALTH PSYCHOLGY,"Hoppmann, Christiane",145,72.01,8.83,92,47,142,1,2,0,0,0,0,0,0,1,1,1,6,16,25,24,22,20,13,14,1
+UBC,2013,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",105,71.13,12.74,96,0,99,2,3,0,0,1,0,1,0,0,2,5,5,9,11,12,19,12,19,3,4
+UBC,2013,W,PSYC,502,,001,R METH HLTH PSYC,"Hoppmann, Christiane",7,93.43,6.53,99,80,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6
+UBC,2015,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",144,70.82,10.99,95,0,140,1,2,0,0,1,0,0,0,0,1,2,13,15,20,23,22,17,14,9,5
+UBC,2016,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",106,70.66,10.89,96,45,101,2,2,0,0,0,0,0,0,2,2,3,15,7,15,14,12,10,15,6,4
+UBC,2017,W,PSYC,314,,001,HEALTH PSYCHOLGY,"Hoppmann, Christiane",136,73.42,11.71,100,45,132,2,1,0,0,0,0,0,0,2,2,7,8,11,13,21,11,16,18,18,9
+UBC,2018,W,PSYC,314,,901,HEALTH PSYCHOLGY,"Hoppmann, Christiane",76,72.18,11.33,96,52,73,0,2,0,1,0,0,0,0,0,0,1,10,8,9,10,9,7,6,6,7
+UBCV,2015,W,PSYC,314,,001,Health Psychology,Christiane Hoppmann;Victoria Michalowski,142,70.73943662,10.997536525,95.0,0.0,,,,,,,,,,,,,14,15,20,23,22,17,14,9,5
+UBCV,2016,W,PSYC,314,,001,Health Psychology,Christiane Hoppmann;Pavel Kozik;Theresa Pauly,104,70.66346154,10.84006464,96.0,45.0,,,,,,,,,,,2,3,15,7,15,15,12,10,15,6,4
+UBCV,2017,W,PSYC,314,,001,Health Psychology,Christiane Hoppmann;Jennifer Lay;Pavel Kozik,135,73.511111111,11.717996535,100.0,45.0,,,,,,,,,,,2,7,8,11,13,21,11,16,18,19,9
+UBCV,2018,W,PSYC,314,,901,Health Psychology,Christiane Hoppmann;Theresa Pauly,74,72.121621622,11.257816405,96.0,52.0,,,,,,,,,,,0,1,10,8,9,11,9,7,6,6,7
+UBCV,2019,W,PSYC,314,,006,Health Psychology,Christiane Hoppmann;Theresa Pauly,55,72.727272727,11.049475512,96.0,52.0,,,,,,,,,,,0,3,4,6,7,7,3,10,3,9,3
+UBCV,2020,W,PSYC,314,,006,Health Psychology,Christiane Hoppmann;Elizabeth Zambrano Garza;Yoonseok Choi,104,80.0,11.753123939,98.0,37.0,,,,,,,,,,,1,3,2,5,5,5,8,13,23,15,24
+UBCV,2020,W,PSYC,502,,001,Research Methods in Health Psychology,Christiane Hoppmann,7,96.428571429,1.511857892,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7

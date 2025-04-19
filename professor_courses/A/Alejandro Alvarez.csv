@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,SPAN,101,,103,BEGINNER SPAN I,"Alvarez, Alejandro",31,79.28,11.57,95,40,28,1,2,0,0,0,0,0,0,1,1,0,0,2,0,3,4,2,7,7,3
+UBC,2005,W,SPAN,102,,208,BEGINNER SPAN II,"Alvarez, Alejandro",23,74.62,13.27,93,48,20,1,1,0,1,0,0,0,0,1,1,1,2,0,1,2,3,3,3,3,2
+UBC,2006,W,SPAN,101,,108,BEGINNER SPAN I,"Alvarez, Alejandro;Manchon, Enrique",30,73.79,13.82,95,36,26,2,1,0,1,0,0,0,1,1,2,0,0,2,3,4,4,3,4,2,4
+UBC,2006,W,SPAN,102,,208,BEGINNER SPAN II,"Alvarez, Alejandro;Manchon, Enrique",15,76.14,8.3,87,64,14,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,0,3,3,3,0
+UBC,2007,W,SPAN,101,,106,BEGINNER SPAN I,"Alvarez, Alejandro;Spacciante, Stephanie",33,73.91,15.01,94,29,31,1,1,0,0,0,0,1,0,0,1,2,2,3,2,3,3,2,4,6,4
+UBC,2007,W,SPAN,102,,206,BEGINNER SPAN II,"Alvarez, Alejandro;Spacciante, Stephanie",22,73.8,16.99,92,24,19,1,1,1,0,0,0,1,0,0,1,2,1,1,0,0,2,4,4,2,3
+UBC,2009,W,SPAN,101,,109,BEGINNER SPAN I,"Alvarez, Alejandro;Manchon, Enrique;Spacciante, Stephanie",35,73.63,13.18,93,41,30,2,3,0,0,0,0,0,0,2,2,1,2,2,1,6,3,1,7,5,2
+UBC,2009,W,SPAN,102,,203,BEGINNER SPAN II,"Alvarez, Alejandro;Manchon, Enrique",20,74.58,12.32,92,45,18,1,1,0,0,0,0,0,0,1,1,0,2,1,1,2,1,4,2,4,1
+UBC,2010,W,SPAN,101,,901,BEGINNER SPAN I,"Alvarez, Alejandro;Manchon, Enrique",33,73.33,13.6,93,44,29,1,0,1,0,0,0,0,0,1,1,3,2,0,4,0,2,9,3,1,5
+UBC,2011,S,SPAN,101,,921,BEGINNER SPAN I,"Alvarez, Alejandro;Manchon, Enrique",28,79.04,11.06,95,57,23,0,4,0,0,0,0,0,0,0,0,0,1,2,0,3,2,2,4,5,4
+UBC,2011,W,SPAN,101,,101,BEGINNER SPAN I,"Alvarez, Alejandro;Manchon, Enrique",31,72.03,15.53,95,38,27,3,1,0,0,0,0,0,1,2,3,2,1,1,3,1,6,2,5,2,4

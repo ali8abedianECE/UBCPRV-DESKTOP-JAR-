@@ -1,0 +1,81 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",12,92.25,3.91,99,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,,,
+UBC,2010,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",14,93.79,3.04,98,89,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,,,
+UBC,2011,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",11,88,7.21,98,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,6,,,
+UBC,2011,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",11,87.82,4.21,94,79,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,4,,,
+UBC,2012,W,AUDI,514,,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",11,88.4,4.38,93,82,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,,,
+UBC,2012,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,79.96,5.09,88,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,12,4,0,,,
+UBC,2012,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,79.96,5.09,88,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,12,4,0,,,
+UBC,2012,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",11,91.89,3.55,97,86,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,,,
+UBC,2012,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",11,92.44,3.13,96,87,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,,,
+UBC,2013,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",24,82.75,5.53,90,68,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,6,11,1,,,
+UBC,2013,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",15,89.57,4.11,95,80,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,,,
+UBC,2013,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",14,94,2.35,98,91,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,,,
+UBC,2013,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",14,86.07,2.43,90,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,1,,,
+UBC,2014,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",22,83.86,6.16,92,72,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,8,5,,,
+UBC,2014,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,83.42,7.87,93,66,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,4,3,,,
+UBC,2014,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",12,92,6.03,100,81,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,,,
+UBC,2014,W,AUDI,558,,001,PHYL MS AUD FUNC,"Hatton, Jennifer;Herdman, Anthony",12,93.09,3.42,97,87,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,,,
+UBC,2015,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",30,83.03,4.72,91,71,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,11,13,1,,,
+UBC,2015,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,85.83,3.24,90,81,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,2,,,
+UBC,2015,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",12,91.08,3.87,98,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,,,
+UBC,2015,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",12,92.92,2.81,97,87,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,,,
+UBC,2016,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",37,80,3.66,90,74,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,19,3,1,,,
+UBC,2016,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",14,82.93,4.41,90,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,6,1,,,
+UBC,2016,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony",13,94.69,4.03,100,88,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,,,
+UBC,2016,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",13,93.33,1.83,96,91,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,,,
+UBC,2017,W,AUDI,514,A,001,HEARING SCI I,"Herdman, Anthony",36,85.36,6.28,97,66,36,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,11,12,9,,,
+UBC,2017,W,AUDI,514,B,001,HEARING SCI I,"Herdman, Anthony",11,85.27,8.46,95,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,3,3,,,
+UBC,2017,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony;Shahnaz, Navid",12,92.92,3,96,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,,,
+UBC,2017,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",12,92.92,1.83,96,89,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,,,
+UBC,2018,W,AUDI,514,A,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",37,87.14,3.95,94,80,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,15,14,,,
+UBC,2018,W,AUDI,514,B,001,HEARING SCI I,"Ciocca, Valter;Herdman, Anthony",12,83.17,6.32,91,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,4,,,
+UBC,2018,W,AUDI,515,,001,HEARING SCI II,"Herdman, Anthony;Shahnaz, Navid",11,92.27,3.52,98,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,,,
+UBC,2018,W,AUDI,558,,001,PHYL MS AUD FUNC,"Herdman, Anthony",11,89.73,2.05,93,86,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6,,,
+UBCV,2014,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,22,83.86363636,6.158969105,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,8,5,,,
+UBCV,2014,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,83.41666667,7.867751594,93.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,,,,
+UBCV,2014,W,AUDI,515,,001,Hearing Science II,Anthony Herdman,11,92.0,6.033241252,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,7,,,
+UBCV,2014,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman;Jennifer Hatton,11,93.09090909,3.419197141,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,9,,,
+UBCV,2015,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,30,83.033333333,4.715954822,91.0,71.0,,,,,,,,,,,0,0,0,0,0,,,,11,13,,,,
+UBCV,2015,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,85.833333333,3.242707436,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,6,,,,
+UBCV,2015,W,AUDI,515,,001,Hearing Science II,Anthony Herdman,12,91.083333333,3.872005197,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,7,,,
+UBCV,2015,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,92.916666667,2.810963385,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2016,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,80.0,3.664501525,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,6,7,19,3,1,,,
+UBCV,2016,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,14,82.92857143,4.410900583,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,5,6,1,,,
+UBCV,2016,W,AUDI,515,,001,Hearing Science II,Anthony Herdman,13,94.69230769,4.028742885,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,11,,,
+UBCV,2016,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,93.33333333,1.825741858,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,,,
+UBCV,2017,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,85.361111111,6.279912546,97.0,66.0,,,,,,,,,,,0,0,0,0,1,0,2,1,11,12,9,,,
+UBCV,2017,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,85.272727273,8.462752615,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,4,3,3,,,
+UBCV,2017,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,12,92.916666667,2.998737108,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2017,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,92.916666667,1.831955405,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2018,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,37,87.135135135,3.952229766,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,8,15,14,,,
+UBCV,2018,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,12,83.166666667,6.322159202,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,3,1,4,,,
+UBCV,2018,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,11,92.272727273,3.523944071,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,8,,,
+UBCV,2018,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,11,89.727272727,2.053821272,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,6,,,
+UBCV,2019,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,84.25,4.311943546,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,4,12,15,4,,,
+UBCV,2019,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,86.545454545,4.058660773,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,4,3,,,
+UBCV,2019,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,12,92.25,2.927145678,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2019,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,92.416666667,3.232177238,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,,,
+UBCV,2020,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,86.027777778,3.996327679,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,12,14,8,,,
+UBCV,2020,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,88.090909091,3.986340313,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,4,,,
+UBCV,2020,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,10,93.2,4.211096453,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,1,8,,,
+UBCV,2020,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,10,92.1,2.233582076,95.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,,,
+UBCV,2021,W,AUDI,514,A,001,Hearing Science I,Anthony Herdman;Valter Ciocca,36,89.722222222,4.082094078,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,12,19,,,
+UBCV,2021,W,AUDI,514,B,001,Hearing Science I,Anthony Herdman;Valter Ciocca,11,87.818181818,13.927082838,98.0,47.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,3,7,,,
+UBCV,2021,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,11,94.909090909,2.385562636,99.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,93.666666667,2.774341309,98.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,11,,,
+UBCV,2021,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,36,89.7,,98.0,82.0,,,,,,,,,,,,,,,,,,,,12,19,90.0,93.0,87.0
+UBCV,2021,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,11,87.8,,98.0,47.0,,,,,,,,,,,,,,,,,,,,,7,91.0,93.0,88.5
+UBCV,2021,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,11,94.9,,99.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,94.0,97.0,93.0
+UBCV,2021,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,93.7,,98.0,88.0,,,,,,,,,,,,,,,,,,,,,11,94.0,96.0,92.0
+UBCV,2021,W,NRSC,501,,001,Neuroscience II,Doris Doudet;Anthony Herdman;Veronica Hirsch-Reinshagen La;Shannon Kolind;Benjamin Matthews;Orson Moritz;Timothy Murphy;Miriam Pai-Spering;Matthew Ramer;Julie Robillard;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,35,85.5,,98.0,80.0,,,,,,,,,,,,,,,,,,,15,16,,85.0,88.0,82.5
+UBCV,2022,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,35,87.8,,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,16,12,88.0,92.0,85.0
+UBCV,2022,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,12,89.8,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,6,89.5,92.0,87.8
+UBCV,2022,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,12,88.1,,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,4,1,6,88.5,94.0,83.0
+UBCV,2022,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,93.4,,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12,93.5,94.3,92.5
+UBCV,2022,W,NRSC,501,,001,Neuroscience II,Silke Cresswell;Anthony Herdman;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Miriam Pai-Spering;Matthew Ramer;Jeremy Seamans;Nicholas Vaughan Swindale;Victor Viau,23,85.8,,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,8,9,5,86.0,89.0,81.5
+UBCV,2023,W,AUDI,514,A,001,Hearing Science I,Valter Ciocca;Anthony Herdman,38,86.92,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,22,7,87.0,89.0,85.0
+UBCV,2023,W,AUDI,514,B,001,Hearing Science I,Valter Ciocca;Anthony Herdman,12,88.92,,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,6,89.0,92.5,85.75
+UBCV,2023,W,AUDI,515,,001,Hearing Science II,Anthony Herdman;Navid Shahnaz,12,91.67,,96.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,9,92.0,95.0,90.5
+UBCV,2023,W,AUDI,558,,001,Physiological Measurement of Auditory Function,Anthony Herdman,12,86.75,,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,0,87.0,88.25,85.75
+UBCV,2023,W,NRSC,501,,001,Neuroscience II,Steven Barnes;Clare Louise Beasley;Luke Clark;Silke Cresswell;Lauren Emberson;Stanley Bogdan Floresco;Anthony Herdman;Veronica Hirsch-Reinshagen la;William Honer;Hyosub Kim;Shannon Kolind;Claudia Krebs;Brian Kwon;Benjamin Matthews;Orson Moritz;Haakon Nygaard;Miriam Pai-Spering;Matthew Ramer;Catharine Rankin;Julie Robillard;Jeremy Seamans;Jason Snyder;Nicholas Vaughan Swindale;Anthony Traboulsee;Victor Viau,22,85.68,,95.0,63.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,12,4,87.0,89.0,84.25

@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,LIBE,463,,63B,SELECT LIBR RES,"Duran, Lorena",29,83.24,3.1,88,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,12,0
+UBC,2017,W,LLED,462,,63B,SCH LRC PROG,"Duran, Lorena",33,82.81,5.94,94,65,32,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,13,11,2
+UBC,2018,W,LLED,469,,61B,INQ BSD PED LIB,"Duran, Lorena",23,87.26,4.34,94,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,8,8
+UBCV,2016,W,LIBE,463,,63B,Selection of Learning Resources I,Lorena Duran,29,83.24137931,3.101326587,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,13,12,0
+UBCV,2017,W,LLED,462,,63B,School Library Resource Centre Programs,Lorena Duran,32,82.8125,5.937510611,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,4,1,13,11,2
+UBCV,2018,W,LLED,469,,61B,Inquiry-Based Pedagogy in School Library Programs,Lorena Duran,23,87.260869565,4.340270114,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,6,8,8
+UBCV,2019,W,LLED,462,,63C,School Library Resource Centre Programs,Lorena Duran;Natalie Schembri,18,79.833333333,20.396799057,95.0,3.0,,,,,,,,,,,1,0,0,1,0,0,0,0,6,7,3
+UBCV,2020,W,LLED,462,,63C,School Library Resource Centre Programs,Lorena Duran;Natalie Gray;Natalie Schembri,16,94.375,5.389805191,100.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,13

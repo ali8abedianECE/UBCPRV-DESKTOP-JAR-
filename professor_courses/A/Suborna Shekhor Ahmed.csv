@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,13,82.38461539,10.35646707,98.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,15,78.53333333,9.538393595,94.0,67.0,0,0,0,0,,,,,,,
+UBCV,2016,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,29,83.31034483,8.775385414,96.0,62.0,0,0,0,1,0,2,4,2,7,5,8
+UBCV,2016,W,FRST,231,,99A,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,16,75.5625,15.24453454,94.0,42.0,1,1,0,1,1,3,0,2,1,3,3
+UBCV,2017,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,28,79.75,14.513403766,96.0,38.0,2,0,0,0,2,4,0,2,6,6,6
+UBCV,2017,W,FRST,231,,99A,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,16,79.0625,19.793833215,95.0,14.0,1,0,1,0,0,1,0,2,1,5,5
+UBCV,2017,W,FRST,231,,99C,Introduction to Biometrics,Peter Marshall;Suborna Ahmed;Suborna Shekhor Ahmed,39,84.179487179,11.238729547,99.0,52.0,0,1,0,0,1,4,4,3,4,8,14
+UBCV,2017,W,FRST,232,,101,Computer Applications in Forestry,Grace Anne Carsky;Grace Carsky;Suborna Ahmed;Suborna Shekhor Ahmed;Vivek Srivastava,22,89.590909091,10.500154606,100.0,66.0,0,0,0,0,1,0,0,5,2,2,12
+UBCV,2017,W,FRST,232,,201,Computer Applications in Forestry,Suborna Ahmed;Suborna Shekhor Ahmed,116,87.775862069,14.363048124,100.0,15.0,4,0,1,2,1,4,2,2,10,15,75
+UBCV,2018,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,30,79.733333333,11.163157795,96.0,61.0,0,0,0,1,4,4,3,4,2,3,9
+UBCV,2018,W,FRST,231,,99A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,17,71.235294118,12.949562791,89.0,40.0,1,0,3,0,0,5,1,2,2,3,0
+UBCV,2018,W,FRST,231,,99C,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,36,70.361111111,14.886528479,95.0,9.0,1,1,2,6,3,6,4,6,3,1,3
+UBCV,2018,W,FRST,232,,101,Computer Applications in Forestry,Danlin Jiang;Grace Carsky;Heonsoo Kil;Hye Young Woo;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava;Zoe Davis;Zoe Elizabeth Davis,39,79.461538462,10.407098169,96.0,53.0,0,1,1,1,3,2,2,8,10,5,6
+UBCV,2018,W,FRST,232,,201,Computer Applications in Forestry,Danlin Jiang;Heonsoo Kil;Hye Young Woo;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,109,72.660550459,15.960147233,96.0,4.0,5,7,8,6,5,9,15,18,11,13,12
+UBCV,2018,W,STAT,200,,103,Elementary Statistics for Applications,Carlene Ho;Hayden Mctavish;Hoi Yin Eugenia Yu;Jhohura Fatema Tuz;Jiayi Li;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Naitong Chen;Nikolas Krstic;Peiyuan Gary Zhu;Peiyuan Zhu;Suborna Ahmed;Suborna Shekhor Ahmed;Xinyuan Chloe You;Xinyue Zheng;Yiming Pan;Yisheng Zhu,314,71.796178344,12.671186329,94.0,6.0,12,15,21,20,31,40,37,54,37,30,17
+UBCV,2019,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,17,71.352941176,10.833634988,88.0,50.0,0,2,0,2,2,3,1,4,1,2,0
+UBCV,2019,S,FRST,232,,921,Computer Applications in Forestry,Juliana Galvao De Sousa Magalhaes;Pramila Khatri Chhetri;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,18,75.388888889,14.828981516,93.0,31.0,1,1,0,0,1,1,2,2,6,3,1
+UBCV,2019,W,FRST,231,,99A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,14,72.142857143,13.242455866,90.0,38.0,1,0,0,1,2,2,2,0,5,0,1
+UBCV,2019,W,FRST,231,,99C,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,18,79.777777778,10.212769144,97.0,64.0,0,0,0,0,1,4,2,2,1,3,5
+UBCV,2019,W,FRST,232,,101,Computer Applications in Forestry,Christina Howard;Pramila Khatri Chhetri;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava,36,76.083333333,18.008529725,95.0,0.0,2,1,2,1,1,2,3,5,4,7,8
+UBCV,2019,W,FRST,232,,201,Computer Applications in Forestry,An Hoang;Flavie Pelletier;Mattesen Nicholas Aldon Moore;Suborna Ahmed;Suborna Shekhor Ahmed;Sushil Nepal;Vivek Srivastava;Zuofang Zhang,87,76.494252874,11.561638215,99.0,55.0,0,0,4,10,7,7,11,13,8,10,17

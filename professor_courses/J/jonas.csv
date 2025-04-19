@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,GERM,100,,007,BEGIN GERM I,"Schibura, Jonas",29,78.89,10.6,97,52,28,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,5,6,3,6,4
+UBC,2005,W,GERM,110,,003,BEGIN GERM 2,"Schibura, Jonas",20,69.83,13.02,94,47,17,1,1,1,0,0,0,0,0,1,1,2,1,2,1,2,2,3,2,1,1
+UBC,2005,W,GERM,110,,007,BEGIN GERM 2,"Schibura, Jonas",20,69.25,17.13,89,20,17,3,0,0,0,0,0,1,0,2,3,0,1,1,4,0,3,2,3,3,0
+UBC,2005,W,GERM,110,,901,BEGIN GERM 2,"Schibura, Jonas",16,72.36,14.11,92,46,12,2,1,0,1,0,0,0,0,2,2,0,1,0,1,1,2,2,3,0,2
+UBC,2015,W,APSC,486,,001,NEW VEN DESIGN,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",32,82.66,3.14,90,77,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,21,5,1
+UBC,2015,W,APSC,496,D,001,INTER ENG PRJECT,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",13,83,1.65,85,80,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0
+UBC,2015,W,COMM,466,,001,NEW VENTURE DES,"Altman, Jonas;Cubbon, Paul;Hodgson, Antony;Kruchten, Philippe;Simonite, James",44,82.6,3.28,89,69,43,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,32,6,0
+UBC,2016,W,COMM,280,,202,ENTREPRENEURSHIP,"Altman, Jonas",32,73.75,6.53,86,60,32,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,7,7,5,2,0
+UBC,2016,W,FIPR,337,,001,CINMTGRY&LIGHT I,"Quastel, Jonas",16,83.63,2.99,89,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,8,0
+UBC,2016,W,FIPR,437,,001,CINEMATOGRAPH II,"Quastel, Jonas",11,78,6.97,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,2,1,1
+UBC,2017,W,FIPR,337,,001,CINMTGRY&LIGHT I,"Quastel, Jonas",24,80.38,6.45,95,69,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,10,3,1
+UBC,2018,S,COMM,280,,921,ENTREPRENEURSHIP,"Altman, Jonas",27,72.22,17.95,87,2,25,2,0,0,0,1,0,0,0,1,2,2,0,1,0,3,2,4,9,4,0

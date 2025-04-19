@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,MECH,329,,101,Materials for Mechanical Design,Ibrahim Mohamed Gadala;Nicolas Romualdi,70,74.47142857,7.677789213,90.0,56.0,0,0,3,4,2,13,19,10,13,4,2,,,
+UBCV,2016,W,MTRL,381,,201,Structure and Properties Laboratory,Madhumanti Mandal;Mariana Mendes Rodrigues;Nicolas Romualdi,11,79.27272727,7.484529499,90.0,68.0,0,0,0,0,0,1,4,2,1,2,1,,,
+UBCV,2017,W,MECH,329,,101,Materials for Mechanical Design,Mattia Bacca;Nicolas Romualdi;Vahid Nasir,63,78.507936508,12.374366085,94.0,34.0,1,1,2,3,6,5,4,6,7,17,11,,,
+UBCV,2017,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Nicolas Romualdi,73,63.095890411,16.900167967,92.0,9.0,13,2,6,12,6,12,8,4,5,2,3,,,
+UBCV,2018,W,MECH,329,,101,Materials for Mechanical Design,Mattia Bacca;Nicolas Romualdi;Una Trivanovic,96,79.583333333,12.55192723,99.0,43.0,3,2,3,4,4,6,5,14,16,17,22,,,
+UBCV,2018,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Nicolas Romualdi,66,66.439393939,12.788370664,88.0,25.0,4,4,15,5,5,5,13,3,6,6,0,,,
+UBCV,2019,W,MECH,329,,101,Materials for Mechanical Design,Aashish Bhardwaj;Mattia Bacca;Nicolas Romualdi,75,79.106666667,13.706945698,98.0,9.0,1,2,2,1,6,6,7,13,7,12,18,,,
+UBCV,2019,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Nicolas Romualdi,64,66.84375,10.857253811,95.0,43.0,1,9,3,8,19,7,7,1,3,3,3,,,
+UBCV,2020,W,MECH,329,,101,Materials for Mechanical Design,Albert Kong;Iraj Dehghan Hamani;Mattia Bacca;Nicolas Romualdi,155,73.4,9.655494365,99.0,42.0,1,3,8,12,16,25,27,19,27,8,9,,,
+UBCV,2020,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Nicolas Romualdi,31,61.677419355,14.164243942,82.0,27.0,6,0,6,5,1,4,5,0,4,0,0,,,
+UBCV,2021,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Minghui Lin;Nicolas Romualdi,48,66.145833333,19.529562516,99.0,0.0,7,6,2,3,6,3,2,5,5,7,2,,,
+UBCV,2021,W,MTRL,378,,201,Phase Transformations,Nicolas Romualdi,48,66.1,,99.0,0.0,7,6,,,6,,,,,7,,68.0,80.0,54.0
+UBCV,2022,W,MTRL,264,,201,Transport Phenomena II - Heat Transport,Nicolas Romualdi,93,73.8,,100.0,0.0,5,2,4,6,7,9,13,12,20,6,9,76.0,82.0,67.0
+UBCV,2023,W,MTRL,264,,201,Transport Phenomena II - Heat Transport,Nicolas Romualdi,109,83.4,,100.0,6.0,4,0,2,4,3,6,10,8,14,14,44,86.0,97.0,75.0

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,CRWR,406,G,002,WRT FOR SCREEN I,"Muir, Roslyn",11,86.8,4.37,92,78,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,3,,,
+UBC,2015,W,CRWR,406,W,002,WRT FOR SCREEN I,"Muir, Roslyn",14,87.93,2.73,93,84,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,3,,,
+UBC,2018,S,CRWR,406,L,S01,WRT FOR SCREEN I,"Muir, Roslyn",12,82.91,24.44,95,12,10,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,8,,,
+UBCV,2014,W,CRWR,406,G,002,Writing for the Screen I,Roslyn Muir,11,86.54545455,4.227614844,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,-11,,,
+UBCV,2015,W,CRWR,406,W,002,Writing for the Screen I,Roslyn Muir,14,87.928571429,2.730575755,93.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,9,,,,
+UBCV,2018,S,CRWR,406,L,S01,Writing for the Screen I,Roslyn Muir,11,82.909090909,24.443627167,95.0,12.0,,,,,,,,,,,1,0,0,0,0,0,1,0,1,0,8,,,
+UBCV,2021,W,CRWR,406,G,004,Writing for the Screen I,Roslyn Muir,10,88.3,3.529242915,94.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,3,,,
+UBCV,2021,W,CRWR,406,G,004,Writing for the Screen I,Roslyn Muir,10,88.3,,94.0,84.0,,,,,,,,,,,,,,,,,,,,,,89.0,90.5,84.8
+UBCV,2022,W,CRWR,406,K,001,Writing for the Screen I,Roslyn Muir,11,86.4,,90.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,2,88.0,89.0,83.0

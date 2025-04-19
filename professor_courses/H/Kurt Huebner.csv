@@ -1,0 +1,50 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,IEST,521,,101,,"Huebner, Kurt",15,79.13,3.8,85,72,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,1,0,,,
+UBC,2006,W,IEST,500,,301,SEM EURO STUDIES,"Huebner, Kurt",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2006,W,IEST,512,,301,MA THESIS,"Huebner, Kurt",7,85.2,2.95,89,81,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,,,
+UBC,2006,W,IEST,521,,101,,"Huebner, Kurt",10,84.67,7.04,92,69,9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,2,,,
+UBC,2007,W,IEST,521,,101,,"Huebner, Kurt",8,81.38,5.85,92,72,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,0,1,,,
+UBC,2009,W,IEST,511,,201,,"Huebner, Kurt",4,77.5,6.45,87,73,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,,,
+UBC,2009,W,IEST,512,,301,MA THESIS,"Huebner, Kurt",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",71,70.17,14.88,91,2,63,3,5,0,0,2,0,0,1,0,3,4,0,2,9,10,14,12,8,3,1,,,
+UBC,2011,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",57,73.35,8.48,89,40,51,1,4,0,0,0,0,0,0,1,1,0,0,3,8,9,8,11,7,5,0,,,
+UBC,2012,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",61,73.03,10.65,88,29,56,2,3,0,0,0,0,1,1,0,2,2,0,0,4,12,10,14,12,2,0,,,
+UBC,2013,S,POLI,326,,921,EUROPEAN POLITCS,"Huebner, Kurt",5,86.4,4.04,91,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,,,
+UBC,2014,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",71,75.71,10.54,85,0,68,1,2,0,0,1,0,0,0,0,1,0,1,0,2,6,15,19,23,2,0,,,
+UBC,2015,S,POLI,326,,921,EUROPEAN POLITCS,"Huebner, Kurt",11,79.18,5.27,87,69,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,2,0,,,
+UBC,2015,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",73,78.2,5.92,89,59,70,0,3,0,0,0,0,0,0,0,0,0,1,0,1,8,15,16,16,13,0,,,
+UBC,2016,S,POLI,326,,921,EUROPEAN POLITCS,"Huebner, Kurt",10,81.8,5.25,90,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,1,,,
+UBC,2016,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",74,77.92,10.7,94,37,70,1,3,0,0,0,0,0,1,0,1,0,4,0,4,10,8,8,13,13,10,,,
+UBC,2017,S,POLI,326,,921,EUROPEAN POLITCS,"Huebner, Kurt",10,89.1,1.85,92,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,,,
+UBC,2017,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",73,76.2,13.6,93,12,66,5,1,0,0,0,1,0,3,1,5,0,0,0,0,5,6,21,23,10,1,,,
+UBC,2018,S,POLI,326,,921,EUROPEAN POLITCS,"Huebner, Kurt",10,82,3.68,86,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,0,,,
+UBC,2018,W,POLI,327,,001,EUROPEAN INTEGRT,"Huebner, Kurt",70,70.66,11.17,88,24,66,2,2,0,0,0,0,1,1,0,2,1,3,10,10,4,13,11,9,5,0,,,
+UBC,2018,W,POLI,366,,003,INTRNL POLI ECON,"Huebner, Kurt",100,73.75,7.92,90,44,92,3,3,0,1,0,0,0,0,3,3,0,1,3,3,22,28,14,15,5,1,,,
+UBCV,2014,W,POLI,327,,001,European Integration,Kurt Huebner,69,75.71014493,10.53998193,85.0,0.0,,,,,,,,,,,,,,,,6,15,19,23,,0,,,
+UBCV,2015,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,11,79.18181818,5.269121024,87.0,69.0,,,,,,,,,,,0,0,0,0,0,,,,,,0,,,
+UBCV,2015,W,POLI,327,,001,European Integration,Kurt Huebner,70,78.2,5.921221966,89.0,59.0,,,,,,,,,,,0,0,,,,8,15,16,16,13,0,,,
+UBCV,2016,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,10,81.8,5.245103537,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,4,1,,,
+UBCV,2016,W,POLI,327,,001,European Integration,Gregory Sharp;Kurt Huebner,72,77.04166667,12.95869657,94.0,15.0,,,,,,,,,,,2,0,4,0,4,10,8,8,13,13,10,,,
+UBCV,2017,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,10,89.1,1.852925615,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,5,,,
+UBCV,2017,W,POLI,327,,001,European Integration,Gregory Sharp;Kurt Huebner,72,76.277777778,13.525377527,93.0,12.0,,,,,,,,,,,5,0,0,0,0,5,6,21,24,10,1,,,
+UBCV,2018,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,10,82.0,3.681787006,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,3,4,0,,,
+UBCV,2018,W,POLI,100,,002,Introduction to Politics,Blazka Felicijan;Bruce Baum;Chang Pan;Chris Erickson;Cole Smith;Kurt Huebner;Maura O'Brien;Rafael Posada;Shona Zhang;Tommy Koh;Yongzheng Li,184,74.766304348,8.93417063,90.0,28.0,,,,,,,,,,,3,3,3,9,9,31,29,36,41,17,3,,,
+UBCV,2018,W,POLI,327,,001,European Integration,Henrik Jacobsen;Kurt Huebner,68,70.661764706,11.167129662,88.0,24.0,,,,,,,,,,,2,1,3,10,10,4,13,11,9,5,0,,,
+UBCV,2018,W,POLI,366,,003,International Political Economy,Enilda Hurtado Lozada;Kurt Huebner,98,73.071428571,9.240486889,90.0,38.0,,,,,,,,,,,5,0,1,3,3,22,28,15,15,5,1,,,
+UBCV,2019,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,10,90.7,0.823272602,92.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2019,W,POLI,327,,001,European Integration,Henrik Jacobsen;Kurt Huebner,65,68.061538462,14.576175899,92.0,0.0,,,,,,,,,,,3,4,6,7,6,8,9,10,9,2,1,,,
+UBCV,2019,W,POLI,366,,003,International Political Economy,Kurt Huebner;Yingqiu Kuang,39,78.256410256,8.607579123,91.0,60.0,,,,,,,,,,,0,0,0,3,2,4,4,5,11,7,3,,,
+UBCV,2020,W,POLI,327,,001,European Integration,Henrik Jacobsen;Kurt Huebner,57,72.578947368,11.138651124,90.0,33.0,,,,,,,,,,,3,0,1,8,3,6,8,12,11,4,1,,,
+UBCV,2020,W,POLI,366,,003,International Political Economy,Avery Dorothy Poole;Dongwoo Kim;Kurt Huebner,45,71.666666667,13.559632604,92.0,18.0,,,,,,,,,,,3,1,3,2,4,6,8,7,4,5,2,,,
+UBCV,2021,S,POLI,326,,921,European Politics: Selected Cases,Henrik Jacobsen;Kurt Huebner,11,91.0,0.0,91.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,,,
+UBCV,2021,W,POLI,327,,001,European Integration,Henrik Jacobsen;Kurt Huebner,61,69.852459016,15.340399892,89.0,0.0,,,,,,,,,,,3,1,2,4,4,12,14,9,10,2,0,,,
+UBCV,2021,W,POLI,366,,001,International Political Economy,Brent Sutton;Kennedy Ryan;Kurt Huebner,69,75.608695652,11.786354762,91.0,25.0,,,,,,,,,,,3,0,1,2,3,10,7,12,17,12,2,,,
+UBCV,2021,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,11,91.0,,91.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,91.0,91.0,91.0
+UBCV,2021,W,POLI,327,,001,European Integration,Kurt Huebner,61,70.0,,89.0,0.0,,,,,,,,,,,,,,,,12,14,8,10,,,72.0,79.0,68.0
+UBCV,2021,W,POLI,366,,001,International Political Economy,Kurt Huebner,70,75.4,,91.0,25.0,,,,,,,,,,,,,,,,10,7,12,17,12,,78.0,82.8,70.3
+UBCV,2022,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,12,80.8,,87.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,1,7,0,86.0,86.0,75.0
+UBCV,2022,W,POLI,327,,001,European Integration,Kurt Huebner,73,72.1,,85.0,22.0,,,,,,,,,,,3,2,1,1,8,6,17,18,15,2,0,74.0,78.0,68.0
+UBCV,2022,W,POLI,366,,001,International Political Economy,Kurt Huebner,65,72.4,,88.0,22.0,,,,,,,,,,,5,0,1,2,4,6,17,14,8,8,0,75.0,79.0,71.0
+UBCV,2023,S,POLI,326,,921,European Politics: Selected Cases,Kurt Huebner,16,82.5,,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,8,5,0,82.0,85.0,81.0
+UBCV,2023,W,POLI,327,,001,European Integration,Kurt Huebner,53,75.19,,91.0,26.0,,,,,,,,,,,1,0,0,4,5,2,11,9,11,6,3,76.0,82.0,72.0
+UBCV,2023,W,POLI,366,,001,International Political Economy,Kurt Huebner,79,72.16,,88.0,5.0,,,,,,,,,,,6,2,2,4,6,4,11,12,25,7,0,77.0,81.0,67.0

@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,CRWR,213,,001,INTR WRIT NW MED,"Demers, Charles",91,73.63,14.54,95,0,84,4,2,0,0,1,0,1,2,0,4,1,3,5,5,8,15,10,19,12,6
+UBC,2012,W,CRWR,213,,001,INTR WRIT NW MED,"Demers, Charles",192,75.48,15.39,97,0,182,7,2,1,0,4,1,0,1,1,7,1,3,8,9,14,18,38,41,33,17
+UBC,2013,W,CRWR,213,,001,INTR WRIT NW MED,"Demers, Charles",215,75.82,10.77,93,16,207,5,2,1,0,0,1,1,0,3,5,2,3,7,7,37,23,38,47,22,21
+UBC,2013,W,CRWR,230,,001,INTR WRIT COMDIC,"Demers, Charles",203,76.47,11.47,96,8,190,4,5,1,1,1,1,0,1,1,4,1,5,9,9,18,19,33,50,32,14
+UBC,2013,W,CRWR,405,Q,002,CREATIV NONFIC I,"Demers, Charles",10,90.5,2.01,95,88,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7
+UBC,2014,W,CRWR,213,,001,INTR WRIT NW MED,"Demers, Charles",168,74.96,10.06,95,10,161,1,5,0,0,0,1,0,0,0,1,0,6,11,9,26,22,25,36,18,8
+UBC,2014,W,CRWR,230,,001,INTR WRIT COMDIC,"Demers, Charles",128,73.53,10.23,91,20,117,3,5,1,0,0,0,1,0,2,3,3,1,6,5,21,22,24,22,10,3
+UBC,2014,W,CRWR,230,,002,INTR WRIT COMDIC,"Demers, Charles",109,80.38,12.49,97,0,101,2,1,3,0,1,0,0,1,0,2,0,1,2,4,5,7,21,24,18,19
+UBC,2014,W,CRWR,405,B,004,CREATIV NONFIC I,"Demers, Charles",12,87.5,2.97,90,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,3
+UBC,2015,W,CRWR,230,,001,INTR WRIT COMDIC,"Demers, Charles",146,72.94,8.3,90,49,139,1,1,0,0,0,0,0,0,1,1,5,3,8,13,22,38,24,14,11,1
+UBC,2015,W,CRWR,230,,002,INTR WRIT COMDIC,"Demers, Charles",185,73.02,10.02,94,0,176,2,2,0,0,1,0,0,0,1,2,4,5,11,21,28,33,30,31,9,4
+UBC,2015,W,CRWR,405,V,002,CREATIV NONFIC I,"Demers, Charles",13,87.62,1.66,91,86,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,2
+UBCV,2014,W,CRWR,213,,001,Introduction to Writing for the New Media,Charles Demers,163,74.87730061,10.08285001,95.0,10.0,,,,,,,,,,,1,0,6,12,9,26,22,25,36,18,8
+UBCV,2014,W,CRWR,230,,001,Introduction to Writing for Comedic Forms,Charles Demers,122,73.5,10.1568281,91.0,20.0,,,,,,,,,,,,,,6,5,22,23,24,22,10,3
+UBCV,2014,W,CRWR,230,,002,Introduction to Writing for Comedic Forms,Charles Demers;Elaine Corden;Sarah Higgins,105,80.12380952,12.50438019,97.0,0.0,,,,,,,,,,,,,,2,5,6,7,21,24,18,19
+UBCV,2014,W,CRWR,405,B,004,Writing Creative Nonfiction I,Charles Demers,12,87.5,2.969542358,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,8,-13
+UBCV,2015,W,CRWR,230,,001,Introduction to Writing for Comedic Forms,Charles Demers;Donal Thoms-Cappello;Elaine Corden;Geoffrey Gideon Morrow;Geoffrey Morrow,145,72.848275862,8.219498358,90.0,49.0,,,,,,,,,,,1,5,3,8,15,22,40,25,14,11,1
+UBCV,2015,W,CRWR,230,,002,Introduction to Writing for Comedic Forms,Charles Demers;Claire Matthews;Donal Thoms-Cappello;Rob Taylor,183,72.87431694,10.222284773,94.0,0.0,,,,,,,,,,,2,5,6,12,21,28,33,31,31,9,5
+UBCV,2015,W,CRWR,405,V,002,Writing Creative Nonfiction I,Charles Demers,13,87.615384615,1.660244035,91.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,2

@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,COMM,493,,203,STRG MNGMNT BUS,"Weiss, David",38,77.68,6.32,88,65,38,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,8,7,8,7,0
+UBC,2017,W,COMM,493,,203,STRG MNGMNT BUS,"Weiss, David",39,77.79,8.13,89,58,39,0,0,0,0,0,0,0,0,0,0,0,1,2,0,6,8,3,7,12,0
+UBC,2018,W,BASM,514,,301,STRATEGY IN ORGS,"Weiss, David",32,81.34,5.93,93,69,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,8,9,7,3
+UBCV,2016,W,COMM,493,,203,Strategic Management in Business,David Weiss,38,77.68421053,6.316453261,88.0,65.0,,,,,,,,,,,0,0,0,0,1,7,8,7,8,7,0
+UBCV,2017,W,COMM,493,,203,Strategic Management in Business,David Weiss,39,77.794871795,8.12785816,89.0,58.0,,,,,,,,,,,0,0,1,2,0,6,8,3,7,12,0
+UBCV,2018,W,BASM,514,,301,Strategy in Organizations,David Weiss,32,81.34375,5.92757022,93.0,69.0,,,,,,,,,,,0,0,0,0,0,2,3,8,9,7,3
+UBCV,2018,W,COMM,493,,202,Strategic Management in Business,Adam Pankratz;David Weiss;Laura Chen;Patrick Scott Edmunds Orr;Patrick Scott Orr,41,75.170731707,6.862588575,88.0,61.0,,,,,,,,,,,0,0,0,1,5,7,10,5,10,3,0
+UBCV,2018,W,COMM,493,,203,Strategic Management in Business,David Weiss;Patrick Scott Edmunds Orr;Patrick Scott Orr;Sabrina Dhalla,37,75.702702703,7.46422901,91.0,57.0,,,,,,,,,,,0,0,1,0,5,3,11,5,5,6,1
+UBCV,2019,W,BASM,514,,301,Strategy in Organizations,David Weiss,43,82.627906977,4.03569346,89.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,6,18,16,0
+UBCV,2020,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz;David Weiss;Parmjot Gill,52,81.019230769,2.623352029,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,8,34,9,0

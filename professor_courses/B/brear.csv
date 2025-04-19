@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EDCI,396,C,63F,CURR DEV & EVAL,"Brear, David",9,93.56,5.61,100,82,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7
+UBC,2002,W,EDCI,396,C,63G,CURR DEV & EVAL,"Brear, David",11,83.2,26.17,100,11,9,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,2,5
+UBC,2003,W,EDCI,396,C,63F,CURR DEV & EVAL,"Brear, David",14,92.31,6.43,98,80,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,10
+UBC,2003,W,EDCI,396,C,63G,CURR DEV & EVAL,"Brear, David",12,91.08,6.39,100,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,8

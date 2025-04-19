@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,S,CPEN,481,,941,ECON ANLYS PROJ,"Petersen, Garrett",21,78.55,13.79,100,51,20,0,1,0,0,0,0,0,0,0,0,1,0,2,0,3,3,2,3,1,5
+UBC,2018,S,ELEC,481,,941,ECON ANLYS PROJ,"Petersen, Garrett",77,70,13.94,98,25,67,7,3,0,0,0,0,1,0,6,7,3,6,6,9,4,10,7,12,6,4
+UBCV,2018,S,CPEN,481,,941,Economic Analysis of Engineering Projects,Abdelmalik Aljalai;Garrett Petersen;Jianzhe Lin;Mahdi Yousefi;Parisa Asgharzadeh,20,78.55,13.793495798,100.0,51.0,,,,,,,,,,,0,1,0,2,0,3,3,2,3,1,5
+UBCV,2018,S,ELEC,481,,941,Economic Analysis of Engineering Projects,Abdelmalik Aljalai;Garrett Petersen;Jianzhe Lin;Mahdi Yousefi;Parisa Asgharzadeh,74,70.0,13.938219851,98.0,25.0,,,,,,,,,,,7,3,6,6,9,4,10,7,12,6,4
+UBCV,2019,S,CPEN,481,,941,Economic Analysis of Engineering Projects,Dadong Shang;Garrett Petersen;Hanyu Wang;Jorge Alejandro May Alvarez;Jorge May Alvarez;Xiao Han,25,88.76,11.263066486,100.0,50.0,,,,,,,,,,,0,,,,,1,1,1,1,5,15
+UBCV,2019,S,ELEC,481,,941,Economic Analysis of Engineering Projects,Dadong Shang;Garrett Petersen;Hanyu Wang;Jorge Alejandro May Alvarez;Jorge May Alvarez;Xiao Han,64,83.125,15.591511732,100.0,0.0,,,,,,,,,,,1,1,2,2,1,5,5,2,7,11,27

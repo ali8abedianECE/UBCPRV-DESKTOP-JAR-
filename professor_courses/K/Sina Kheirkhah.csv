@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2017,W,APSC,181,,202,Dynamics,Ahmad Rahmzadeh Gharehghanat;Muhammad Saleem;Peyman Yousefi;Sina Kheirkhah;Tina Olfatbakhsh;Todd Williams,148,61.871621622,15.738630668,97.0,0.0,24,7,23,22,18,17,10,8,6,6,7,,,
+UBCO,2018,W,APSC,181,,202,Dynamics,Ahmad Rahmzadeh Gharehghanat;Ahmed Elmouchi;Kamran Alasvand Zarasvand;Mehrnoosh Afsharborji;Ngandu Balekelayi;Peyman Yousefi;Saif Maad Al Dabagh;Sajjad Mohammadnejad Daryani;Sina Kheirkhah,160,61.1625,15.802192149,100.0,0.0,24,29,21,21,7,18,11,12,9,5,3,,,
+UBCO,2018,W,ENGR,479,,101,Measurement Principles in Thermal-Fluids,Ri Li;Sina Kheirkhah;Yakang Xia,13,87.076923077,13.456482567,100.0,52.0,0,1,0,0,0,0,0,3,0,3,6,,,
+UBCO,2018,W,ENGR,497,,201,Combustion Processes,Sajjad Mohammadnejad Daryani;Sina Kheirkhah,40,82.925,11.977302252,96.0,40.0,1,1,0,1,0,2,5,0,8,7,15,,,
+UBCO,2019,W,APSC,252,,102,Thermodynamics,Arash Dalili Shoaei;Debasmita Mukherjee;Emily Earl;Mohammad Arjmand;Ramin Heydarlaki;Seyed Mahan Ghazi Mirsaeed;Sina Kheirkhah;Yu Yan;Zahra Mollahoseini,110,66.936363636,15.027361756,99.0,20.0,12,5,15,12,12,16,4,10,11,8,5,,,
+UBCO,2019,W,ENGR,497,,201,Combustion Processes,Sepehr Mosadegh;Sina Kheirkhah,16,84.0625,13.393872977,100.0,50.0,0,1,0,0,0,2,1,1,2,1,8,,,
+UBCO,2019,W,ENGR,598,B,001,Topics in Engineering,Sina Kheirkhah,6,83.833333333,19.589963417,99.0,45.0,1,0,0,0,0,0,0,0,0,1,4,,,
+UBCO,2020,W,APSC,181,,201,Dynamics,Ahmad Rahmzadeh Gharehghanat;Ahmed Elmouchi;Mohammad Soltaniayan;Ray Taheri-Ardebili;Reza Sourki;Sajjad Mohammadnejad Daryani;Seach Chyr Goh;Sina Kheirkhah,192,84.479166667,15.159866531,100.0,3.0,5,3,7,5,7,7,6,5,26,29,92,,,
+UBCO,2020,W,APSC,252,,101,Thermodynamics,Amaiya Khardenavis;Debasmita Mukherjee;Emily Earl;Seyed Mahan Ghazi Mirsaeed;Sina Kheirkhah;Yu Yan;Zahra Mollahoseini,165,81.939393939,13.676888539,100.0,19.0,4,3,4,7,7,8,9,10,19,38,56,,,
+UBCO,2020,W,APSC,252,,102,Thermodynamics,Amaiya Khardenavis;Debasmita Mukherjee;Emily Earl;Seyed Mahan Ghazi Mirsaeed;Sina Kheirkhah;Yu Yan;Zahra Mollahoseini,127,78.566929134,14.798965296,99.0,32.0,5,3,8,3,8,11,6,11,18,20,34,,,
+UBCO,2020,W,ENGR,497,,001,Combustion Processes,Sepehr Mosadegh;Sina Kheirkhah,29,80.137931034,21.096249054,100.0,3.0,2,0,1,0,1,3,1,3,3,3,12,,,
+UBCO,2021,W,APSC,252,,101,Thermodynamics,Daniyal Ahmed Khan;Leslie Saca;Sajjad Mohammadnejad Daryani;Sebastiano Stipa;Sina Kheirkhah,198,76.106060606,17.205944659,100.0,22.0,17,4,19,8,13,9,10,12,28,26,52,,,
+UBCO,2021,W,ENGR,497,,001,Combustion Processes,Sepehr Mosadegh;Sina Kheirkhah,35,79.971428571,13.998919526,99.0,50.0,0,2,2,2,3,1,2,1,3,8,11,,,
+UBCO,2021,W,APSC,252,,101,Thermodynamics,Sina Kheirkhah,198,76.1,,100.0,22.0,17,4,19,8,13,9,10,12,28,26,52,81.0,90.0,64.0
+UBCO,2021,W,ENGR,497,,001,Combustion Processes,Sina Kheirkhah,35,80.0,,99.0,50.0,,,,,,,,,,8,11,85.0,90.0,68.5
+UBCO,2022,W,APSC,252,,101,Thermodynamics,Sina Kheirkhah,195,82.8,,100.0,20.0,13,0,3,4,4,11,11,25,20,21,83,86.0,94.0,76.0
+UBCO,2022,W,APSC,252,,102,Thermodynamics,Sina Kheirkhah,121,78.0,,100.0,43.0,17,0,2,6,2,5,10,13,17,16,33,81.0,90.0,71.0
+UBCO,2023,W,APSC,252,,101,Thermodynamics,Sina Kheirkhah,123,64.8,,100.0,15.0,22,17,10,10,6,10,12,8,10,10,8,67.0,78.0,51.5
+UBCO,2023,W,ENGR,479,,001,Measurement Principles in Thermal-Fluids,Sina Kheirkhah,11,82.4,,100.0,63.0,0,0,0,1,0,0,1,1,5,1,2,83.0,84.5,78.5
+UBCO,2023,W,ENGR,497,,001,Combustion Processes,Sina Kheirkhah,28,70.2,,100.0,9.0,5,2,1,1,2,0,1,0,8,2,6,81.0,86.8,56.8
+UBCO,2023,W,ENGR,499,,101,Engineering Capstone Design Project,Ahmad al-Dabbagh;Shahria Alam;Mohammad Arjmand;Lukas Bichler;Anas Chaaban;Kenneth Chau;Qian Chen;Julian Cheng;Christopher Collier;Alon Eisenstein;Ayman Elnaggar;Cigdem Eskicioglu;Mahmudur Fatmi;Ian Foulds;Suliman Gargoum;Seach Chyr Goh;Alyse Hawley;Kasun Hewage;Jonathan Holzman;M.D. Jahangir Hossain;Hassan Iqbal;Thomas Johnson;Sina Kheirkhah;Ri Li;Gordon Lovegrove;Loic Markley;Babak Mohamadpour Tosarkani;Hadi Mohammadi;Sepehr Mosadegh;Stephen O'Leary;Sepideh Pakpour;Nicolas Peleato;Ahmad Rteil;Abbas Sadeghzadeh Milani;Rudolf Seethaler;Sumi Siddiqua;Mohammad Tiznobaik;Lisa Leigh Tobber;Elizabeth Trudel;Alexander Uhl;Klaske van Heusden;Sabine Weyand;Peyman Yousefi;Mohammad Hossein Zarifi,283,90.6,,100.0,77.0,0,0,0,0,0,0,0,3,26,73,181,91.0,93.0,88.0
+UBCO,2023,W,ENGR,545,,001,Laser-Based Measurements for Fluid Flows,Sina Kheirkhah,6,90.7,,99.0,84.0,0,0,0,0,0,0,0,0,1,2,3,90.0,93.5,87.3

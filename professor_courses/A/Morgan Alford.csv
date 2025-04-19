@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2015,W,PHYS,102,,001,"Electricity, Light, and Radiation",Charles Jolin-Landry;Jeffrey Krupa;John Hopkinson;Lindsey Reinholz;Morgan Alford;Xing Ai,192,70.541666667,14.329274152,99.0,0.0,12,2,16,14,18,30,24,25,30,13,8,,,
+UBCO,2015,W,PHYS,122,,001,Introductory Physics II,Andrew Ogilvy;Bellecia Seguin;Ben Tippett;Boyi Chen;Charles Jolin-Landry;Lindsey Reinholz;Morgan Alford;Ngoc Hieu Hoang;Shannon Macgillivray;Xing Ai,189,72.645502646,18.085383877,100.0,1.0,24,3,10,12,14,20,16,14,20,17,39,,,
+UBCO,2015,W,PHYS,122,,002,Introductory Physics II,Andrew Ogilvy;Bellecia Seguin;Ben Tippett;Boyi Chen;Charles Jolin-Landry;Lindsey Reinholz;Morgan Alford;Shannon Macgillivray;Xing Ai,98,77.132653061,15.651907927,100.0,7.0,4,6,6,4,4,6,8,9,13,19,19,,,
+UBCO,2016,W,PHYS,111,,001,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Robert Lalonde;Sebastian Cardoch,190,73.07894737,14.82986687,100.0,0.0,18,7,3,9,18,23,22,18,33,16,23,,,
+UBCO,2016,W,PHYS,111,,002,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Sean Blackmore;Sebastian Cardoch,117,72.48717949,15.74616285,98.0,0.0,13,3,6,3,11,14,12,14,15,15,11,,,
+UBCV,2019,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Manish Sadarangani;Megan Levings;Morgan Alford,45,79.8,8.734987121,96.0,60.0,0,0,0,3,4,0,5,7,13,8,5,,,
+UBCV,2020,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Charles Thompson;Elitza Tocheva;Morgan Alford,20,89.35,4.428080254,95.0,81.0,0,0,0,0,0,0,0,0,5,4,11,,,
+UBCV,2023,W,BIOL,346,,201,Microbes and Society,Morgan Alford;Jennifer Sibley,52,83.8,,100.0,24.0,2,0,3,1,0,0,2,4,6,11,22,88.0,93.5,80.5

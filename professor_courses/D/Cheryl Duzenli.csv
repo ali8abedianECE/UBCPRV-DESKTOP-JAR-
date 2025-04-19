@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,PHYS,539,,201,RDTN DOSIMETRY,"Ding, George;Duzenli, Cheryl",5,83.8,7.4,91,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2005,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",30,73.83,12.17,95,50,29,0,1,0,0,0,0,0,0,0,0,2,3,1,1,5,3,2,7,2,3
+UBC,2006,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Clark, Brenda G.;Duzenli, Cheryl;MacAulay, Calum E.;MacKay, Alexander",39,76.54,9.01,92,47,38,1,0,0,0,0,0,0,0,1,1,0,0,2,2,5,6,4,14,4,1
+UBC,2006,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Reinsberg, Stefan",6,87,2.97,90,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2
+UBC,2007,W,PHYS,535,,201,RDIOTHRPY PHY II,"Duzenli, Cheryl",6,86.67,9.07,94,73,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3
+UBC,2007,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Moiseenko, Vitali;Reinsberg, Stefan",6,85.67,5.82,96,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,1
+UBC,2009,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",40,80.15,8.08,93,60,40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,6,6,10,6,6
+UBC,2009,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Otto, Karl",6,83.33,7.74,97,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1
+UBC,2010,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Otto, Karl",7,83.57,6.37,95,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1
+UBC,2011,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",53,82.1,7.08,94,68,52,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,2,6,20,9,9
+UBC,2011,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl",6,90.83,3.66,94,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2012,W,PHYS,404,,101,INTRO MED PHYS,"Aldrich, John;Celler, Anna;Duzenli, Cheryl;MacKay, Alexander;Tchvialeva, Lioudmila;Xiang, Qing-San",37,77.64,8.21,92,54,36,0,1,0,0,0,0,0,0,0,0,1,1,0,0,7,2,4,14,6,1
+UBC,2012,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl",8,82.5,9.09,91,64,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,2,2
+UBC,2013,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",5,82,8.8,92,69,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1
+UBC,2014,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Popescu, Tony",5,87.4,6.8,94,78,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2
+UBC,2016,W,PHYS,534,,101,RDIOTHRPY PHY I,"Baillie, Alistair;Beckham, Wayne;Duzenli, Cheryl;Milette, Marie Pierre",5,83.25,5.56,90,77,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1
+UBC,2016,W,PHYS,535,,201,RDIOTHRPY PHY II,"Duzenli, Cheryl;Zeng, Haishan",4,85.25,6.24,89,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0
+UBC,2016,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",5,80.4,7.57,87,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0
+UBC,2016,W,PHYS,545,,201,ANAT PHYS STATS,"Duzenli, Cheryl;Ford, Nancy;MacKay, Alexander",13,84.31,5.88,93,75,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,2,3
+UBC,2017,W,PHYS,534,,101,RDIOTHRPY PHY I,"Baillie, Alistair;Beckham, Wayne;Duzenli, Cheryl;Hyde, Derek;Teke, Tony;Zavgorodni, Sergei",6,85.33,12.88,96,62,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,3
+UBC,2017,W,PHYS,539,,201,RDTN DOSIMETRY,"Duzenli, Cheryl;Gete, Ermias;Petric, Martin",6,86.5,11.84,97,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4
+UBC,2017,W,PHYS,540,,201,RADIOLOG IMGING,"Bjarnason, Thor;Duzenli, Cheryl;Kozlowski, Piotr;Uribe Munoz, Carlos",10,84.7,12.39,99,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,4
+UBCV,2014,W,PHYS,535,,201,Radiotherapy Physics II,Cheryl Duzenli;Ingrid Spadinger,7,87.85714286,9.511897312,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2014,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Tony Popescu,5,87.4,6.804410334,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2016,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Alexander Mackay;Cheryl Duzenli;Nancy Ford,13,84.30769231,5.879124302,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,0,6,2,3
+UBCV,2017,W,PHYS,534,,101,Radiotherapy Physics I,Alistair Baillie;Cheryl Duzenli;Derek Hyde;Levi Burns;Sergei Zavgorodni;Tony Teke;Wayne Beckham,6,85.333333333,12.87892335,96.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,0,1,1,3
+UBCV,2017,W,PHYS,535,,201,Radiotherapy Physics II,Alanah Bergman;Alistair Baillie;Anna Celler;Cheryl Duzenli;Ingrid Spadinger;Richard Lee;Robert Kosztyla;Youssef Ben Bouchta,6,84.5,6.804410334,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,2,2
+UBCV,2017,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Stefan Reinsberg;Youssef Ben Bouchta,6,86.5,11.844830096,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,0,4
+UBCV,2017,W,PHYS,540,,201,Radiological Imaging,Carlos Uribe Munoz;Cheryl Duzenli;Piotr Kozlowski;Thor Bjarnason;Wei Zhao,10,84.7,12.392201849,99.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,0,0,2,4
+UBCV,2017,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Alexander Mackay;Cheryl Duzenli;Nancy Ford;Wei Zhao,12,81.416666667,11.122935627,91.0,51.0,,,,,,,,,,,0,,,,,,2,,2,5,2
+UBCV,2018,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Alexander Mackay;Cheryl Duzenli;Nancy Ford;Youssef Ben Bouchta,13,79.615384615,8.67504526,91.0,62.0,,,,,,,,,,,0,0,0,1,1,0,2,0,6,2,1
+UBCV,2019,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Piotr Kozlowski,7,86.285714286,4.498677054,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,1,2
+UBCV,2021,W,PHYS,534,,101,Radiotherapy Physics I,Cheryl Duzenli;Derek Hyde;Haley Clark;Marco Carlone;Marie Pierre Milette;Maryam Rostamzadeh;Samantha Lloyd;Sergei Zavgorodni;Wayne Beckham,7,84.142857143,8.571825388,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,3,2
+UBCV,2021,W,PHYS,535,,201,Radiotherapy Physics II,Alanah Bergman;Ante Mestrovic;Aria Malhotra;Cheryl Duzenli;Ingrid Spadinger;Robert Kosztyla;Tony Popescu,7,87.857142857,3.933978962,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,3

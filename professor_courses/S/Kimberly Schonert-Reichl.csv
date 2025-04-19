@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,EPSE,506,,074,COLL & UNIV TCH,"Schonert-Reichl, Kimberly",9,97.11,2.52,100,92,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+UBC,2003,W,EPSE,601,A,075,DOCTORAL SEM,"Schonert-Reichl, Kimberly",9,93.67,2.06,96,90,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+UBC,2005,W,EPSE,317,,303,DEV&EX REG CLASS,"BUOTE, DENISE;Schonert-Reichl, Kimberly",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EPSE,317,,306,DEV&EX REG CLASS,"BUOTE, DENISE;Schonert-Reichl, Kimberly",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EPSE,565,C,074,SP CRSE: SUBJ FL,"Hymel, Shelley;Schonert-Reichl, Kimberly",14,89.18,3.4,95,84,11,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5
+UBC,2005,W,EPSE,601,A,075,DOCTORAL SEM,"Schonert-Reichl, Kimberly",11,95.82,2.04,99,91,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2006,W,EPSE,506,,075,COLL & UNIV TCH,"Schonert-Reichl, Kimberly",14,93.36,3.8,98,87,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+UBC,2006,W,EPSE,561,D,074,LAB PRACTICUM,"Hymel, Shelley;Schonert-Reichl, Kimberly",13,88.5,6.72,98,78,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,5
+UBC,2007,W,EPSE,561,H,074,LAB PRACTICUM,"Schonert-Reichl, Kimberly",11,83.3,6.63,90,72,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,2
+UBC,2007,W,EPSE,604,A,074,ADV TPCS HMN DEV,"Schonert-Reichl, Kimberly",10,95.5,3.54,99,88,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+UBC,2009,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",20,93.15,2.8,98,89,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,19
+UBC,2009,W,EPSE,313,,104,EDUC APPL DEV TH,"Schonert-Reichl, Kimberly",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EPSE,561,H,074,LAB PRACTICUM,"Konishi, Chiaki;Schonert-Reichl, Kimberly",7,86.6,2.79,90,84,5,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2010,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",16,92.25,6.51,97,70,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,14
+UBC,2010,W,EPSE,561,H,074,LAB PRACTICUM,"Schonert-Reichl, Kimberly",16,96.45,3.14,99,88,11,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10
+UBC,2011,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",20,95,3.37,100,86,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18
+UBC,2011,W,EPSE,561,H,074,LAB PRACTICUM,"Schonert-Reichl, Kimberly",17,93.53,5.2,100,81,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,15
+UBC,2012,S,EPSE,511,,941,"TPC HMN DEV, LRN","Schonert-Reichl, Kimberly",16,92.93,4.82,98,80,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+UBC,2012,W,EPSE,561,H,074,LAB PRACTICUM,"Schonert-Reichl, Kimberly",10,94.6,4.22,99,84,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9
+UBC,2013,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",16,94.25,2.35,97,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2013,W,EPSE,561,H,074,LAB PRACTICUM,"Schonert-Reichl, Kimberly",13,92.64,3.35,98,88,11,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+UBC,2013,W,EPSE,604,A,075,ADV TPCS HMN DEV,"Schonert-Reichl, Kimberly",11,97,2.14,99,92,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2014,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",16,93.53,3.7,100,86,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2014,W,EPSE,585,,61R,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",20,93.35,3.95,99,85,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,16
+UBC,2015,S,EPSE,585,,951,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",17,94.65,2.64,99,90,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+UBC,2016,S,EPSE,511,,941,"TPC HMN DEV, LRN","Schonert-Reichl, Kimberly",20,91.53,2.86,96,86,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15
+UBC,2017,W,EPSE,604,B,074,ADV TPCS HMN DEV,"Schonert-Reichl, Kimberly",11,91,5.52,98,82,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6
+UBC,2018,W,EPSE,585,,074,SOCI-EMO DEV EDU,"Schonert-Reichl, Kimberly",21,91.76,5.06,98,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,16
+UBCV,2014,S,EPSE,585,,951,Social and Emotional Development in Education,Kimberly Schonert-Reichl,15,93.53333333,3.700707783,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,14
+UBCV,2014,W,EPSE,585,,61R,Social and Emotional Development in Education,Kimberly Schonert-Reichl,20,93.35,3.950682819,99.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,16
+UBCV,2015,S,EPSE,585,,951,Social and Emotional Development in Education,Kimberly Schonert-Reichl,17,94.64705882,2.644361371,99.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2016,S,EPSE,511,,941,"Special Topics in Human Development, Learning, and Culture",Kimberly Schonert-Reichl,19,91.52631579,2.855178941,96.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,15
+UBCV,2017,S,EPSE,511,,941,"Special Topics in Human Development, Learning, and Culture",Jennifer Vadeboncoeur;Kimberly Schonert-Reichl,7,95.0,0.0,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2017,W,EPSE,604,B,074,"Advanced Topics in Human Development, Learning, and Culture",Kimberly Schonert-Reichl,9,91.0,5.522680509,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,6
+UBCV,2018,W,EPSE,585,,074,Social and Emotional Development in Education,Kimberly Schonert-Reichl,21,91.761904762,5.058703015,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,16
+UBCV,2018,W,EPSE,604,B,074,"Advanced Topics in Human Development, Learning, and Culture",Kimberly Schonert-Reichl;Laurie Ford,7,90.571428571,4.825527358,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2019,W,EPSE,585,,074,Social and Emotional Development in Education,Kimberly Schonert-Reichl,20,93.0,3.727564465,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,17
+UBCV,2020,W,EPSE,585,,074,Social and Emotional Development in Education,Jessica J Trach;Jessica Trach;Kimberly Schonert-Reichl,19,93.421052632,3.096876374,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,18

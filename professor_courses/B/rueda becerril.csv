@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",6,74.17,6.31,86,69,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0
+UBC,2017,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",8,69.38,7.54,80,59,8,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,3,0,1,0,0
+UBC,2017,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",10,75.33,4.74,84,71,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,2,0,0
+UBC,2017,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",23,78.05,7.38,87,56,22,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,3,1,15,1,0
+UBC,2017,W,CHEM,315,,L1C,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",10,74,6.68,85,65,10,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,2,1,0
+UBC,2017,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",5,53,18.71,72,35,2,2,1,0,0,0,0,0,2,0,2,0,0,0,1,0,1,0,0,0,0
+UBC,2017,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,71.29,9.96,86,54,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,1,0,1,0
+UBC,2017,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",30,78.03,7.3,86,53,30,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3,3,16,4,0
+UBC,2017,W,CHEM,315,,L3C,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",11,77.82,5.69,87,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,5,1,0
+UBC,2017,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",30,77.67,6.13,84,52,30,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,5,16,0,0
+UBC,2017,W,CHEM,315,,LB1,CHEM INTEG LAB I,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",4,74.75,8.62,84,66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
+UBC,2017,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",23,68.22,7.45,80,50,23,0,0,0,0,0,0,0,0,0,0,1,2,4,3,4,4,4,1,0,0
+UBC,2017,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",25,75.54,6.78,90,63,24,0,1,0,0,0,0,0,0,0,0,0,0,1,2,4,6,1,8,1,1
+UBC,2017,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",16,73.53,7.14,86,61,15,0,1,0,0,0,0,0,0,0,0,0,0,1,1,5,4,0,2,2,0
+UBC,2017,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",7,79.86,4.14,83,74,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0
+UBC,2017,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",4,79.75,2.63,82,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0
+UBC,2017,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea",7,75.71,12.96,87,50,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,2,2,0
+UBC,2017,W,CHEM,335,,LB1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",25,81.33,8.22,92,50,24,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,11,6,2
+UBC,2017,W,CHEM,335,,LB3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",20,83.11,4.82,94,73,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,10,6,1
+UBC,2017,W,CHEM,335,,LB5,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",22,79.32,9.56,89,45,21,1,0,0,0,0,0,0,0,1,1,0,0,0,0,3,0,3,6,9,0
+UBC,2017,W,CHEM,335,,LC1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,80,6.71,89,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,2,0
+UBC,2017,W,CHEM,335,,LC3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin",7,85,6.35,90,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1
+UBC,2017,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",4,66.25,11.73,77,50,4,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0
+UBC,2017,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",6,83,5.37,92,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1
+UBC,2017,W,CHEM,345,,135,INTG CHEM LAB 2,"Bussiere, Guillaume;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Terpstra, Andrea",4,75.5,3.42,80,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0
+UBC,2017,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",13,69.17,11.83,90,45,11,1,0,0,1,0,0,0,0,1,1,0,0,2,2,3,1,0,2,0,1
+UBC,2017,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",20,78.37,11.75,92,45,18,1,1,0,0,0,0,0,0,1,1,0,0,0,1,2,4,0,3,6,2
+UBC,2017,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Nussbaum, Sophia;Rodriguez Nunez, Jose;Rueda Becerril, Montserrat;Stoodley, Robin",12,74.83,7.95,85,62,12,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,4,3,1,0
+UBC,2017,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Rueda Becerril, Montserrat;Terpstra, Andrea;Wickenden, Jason",18,74.56,5.63,86,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4,6,2,1,0
+UBC,2017,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Nussbaum, Sophia;Rueda Becerril, Montserrat;Stoodley, Robin;Wickenden, Jason",17,73.76,7.01,84,57,17,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,6,4,3,0,0
+UBC,2017,W,SCIE,113,,112,SCIE SEMINAR,"Rueda Becerril, Montserrat",24,76.46,9.37,90,55,24,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,2,7,1,3,3
+UBC,2017,W,SCIE,113,,211,SCIE SEMINAR,"Rueda Becerril, Montserrat",25,74.96,7.44,85,58,25,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,4,6,5,2,0
+UBC,2018,S,CHEM,123,,921,THM KIN ORG CHEM,"Rueda Becerril, Montserrat",113,66.19,12.96,97,23,99,9,2,0,3,0,0,1,0,8,9,7,11,21,11,14,11,7,5,6,6
+UBC,2018,W,CHEM,123,,210,THM KIN ORG CHEM,"Lindenberg, Erin;Rueda Becerril, Montserrat",221,71.08,12.72,95,34,200,15,3,0,3,0,0,0,2,13,15,6,12,27,15,29,27,21,31,16,16
+UBC,2018,W,CHEM,123,,211,THM KIN ORG CHEM,"Lindenberg, Erin;Rueda Becerril, Montserrat",217,73.56,12.23,98,42,207,6,0,0,4,0,0,0,0,6,6,2,19,23,20,26,17,24,29,19,28
+UBC,2018,W,CHEM,315,,L11,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,68.13,7.43,80,58,8,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,1,0,0
+UBC,2018,W,CHEM,315,,L13,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",4,70.67,10.12,77,59,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0
+UBC,2018,W,CHEM,315,,L15,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,69.63,7.44,80,58,8,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,1,1,1,0,0
+UBC,2018,W,CHEM,315,,L1B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",25,79.2,5.22,92,70,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,6,3,1
+UBC,2018,W,CHEM,315,,L1C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",15,77.07,9.22,90,54,15,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,3,4,2,1
+UBC,2018,W,CHEM,315,,L21,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,65.92,11.6,77,33,12,1,0,0,0,0,0,0,1,0,1,0,1,2,3,0,5,1,0,0,0
+UBC,2018,W,CHEM,315,,L23,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",11,77.27,6.71,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,0,1
+UBC,2018,W,CHEM,315,,L25,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,61.62,21.73,80,4,10,3,0,0,0,1,0,0,1,1,3,0,0,1,2,0,4,2,1,0,0
+UBC,2018,W,CHEM,315,,L3B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",24,80.75,5.53,91,71,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,3,6,2
+UBC,2018,W,CHEM,315,,L3C,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",13,77.58,7.1,90,68,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4,1,1
+UBC,2018,W,CHEM,315,,L5B,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",25,76.32,6.19,87,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,5,6,6,2,0
+UBC,2018,W,CHEM,315,,LB1,CHEM INTEG LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,73.6,2.07,77,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+UBC,2018,W,CHEM,325,,113,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",14,76.36,8.15,86,60,14,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,3,4,2,0
+UBC,2018,W,CHEM,325,,115,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",21,74.57,9.71,91,45,20,1,0,0,0,0,0,0,0,1,1,0,1,0,0,3,8,3,2,2,1
+UBC,2018,W,CHEM,325,,135,INTEG CHEM LAB I,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",20,70.11,9.44,83,45,18,1,1,0,0,0,0,0,0,1,1,1,0,0,2,6,4,3,2,0,0
+UBC,2018,W,CHEM,335,,L1B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,78.86,2.41,83,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0
+UBC,2018,W,CHEM,335,,L3B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",6,83.33,4.32,86,76,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0
+UBC,2018,W,CHEM,335,,L3C,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",4,77,4.16,82,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0
+UBC,2018,W,CHEM,335,,L5B,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",6,81.5,5.96,87,72,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,0
+UBC,2018,W,CHEM,335,,LB1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",23,74.52,10.32,90,45,22,1,0,0,0,0,0,0,0,1,1,1,0,0,1,5,3,6,3,1,2
+UBC,2018,W,CHEM,335,,LB3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",24,81.88,5.91,90,66,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,4,6,4
+UBC,2018,W,CHEM,335,,LB5,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",21,76.43,10.01,90,45,20,1,0,0,0,0,0,0,0,1,1,0,0,1,2,1,1,5,8,1,1
+UBC,2018,W,CHEM,335,,LC1,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",10,79.1,2.69,83,73,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,0,0
+UBC,2018,W,CHEM,335,,LC3,CHEM INTEG LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,82.71,4.31,90,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,1
+UBC,2018,W,CHEM,345,,113,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,74,9.9,83,59,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0
+UBC,2018,W,CHEM,345,,115,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",7,74.43,11.31,90,63,7,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,1,1
+UBC,2018,W,CHEM,345,,135,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",5,83,6.08,90,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2018,W,CHEM,345,,213,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",14,76.86,5.59,86,67,14,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,3,1,0
+UBC,2018,W,CHEM,345,,215,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",20,78.05,8.67,91,50,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,6,5,3,1
+UBC,2018,W,CHEM,345,,235,INTG CHEM LAB 2,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",8,75.5,5.32,82,69,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,0,0
+UBC,2018,W,CHEM,445,A,135,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",11,74.09,9.25,88,56,11,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,2,0,2,0
+UBC,2018,W,CHEM,445,B,235,PROJCTS EXP CHEM,"Bussiere, Guillaume;Monga, Vishakha;Rueda Becerril, Montserrat;Stoodley, Robin",15,71.6,7.42,83,59,15,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,2,3,2,0,0
+UBC,2018,W,SCIE,113,,111,SCIE SEMINAR,"Rueda Becerril, Montserrat",22,76.1,5.16,86,67,21,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,8,4,4,1,0

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,S,CNPS,363,,921,CAREER COUNSELNG,"Gordon, Alistair",28,89.67,4.15,95,81,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,18,,,
+UBCV,2018,S,CNPS,363,,921,Career Counselling,Alistair Gordon,27,89.666666667,4.150996173,95.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,18,,,
+UBCV,2020,S,CNPS,363,,93T,Career Counselling,Alistair Gordon;Janet Vaughan Marshall,35,82.771428571,11.463716968,98.0,59.0,,,,,,,,,,,0,0,1,3,0,5,0,1,6,7,12,,,
+UBCV,2020,W,CNPS,363,,63B,Career Counselling,Alistair Gordon;Talino Bruno,19,90.473684211,4.234362356,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,4,12,,,
+UBCV,2020,W,CNPS,365,,63F,Introduction to Theories of Counselling,Alistair Gordon;Talino Bruno,24,86.291666667,7.726178912,96.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,0,4,9,9,,,
+UBCV,2021,S,CNPS,363,,93T,Career Counselling,Alistair Gordon;Talino Bruno,23,89.260869565,3.018388964,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,8,14,,,
+UBCV,2021,W,CNPS,363,,63B,Career Counselling,Alistair Gordon;Janet Vaughan Marshall,33,83.363636364,16.423721757,97.0,0.0,,,,,,,,,,,1,0,0,0,1,1,0,1,7,14,8,,,
+UBCV,2021,W,CNPS,365,,63C,Introduction to Theories of Counselling,Alistair Gordon;Vicky Thomson,34,78.794117647,7.983996917,94.0,56.0,,,,,,,,,,,0,0,1,0,0,4,7,3,8,9,2,,,
+UBCV,2022,W,CNPS,363,,63A,Career Counselling,Alistair Gordon,34,88.6,,97.0,25.0,,,,,,,,,,,1,0,0,0,0,0,0,1,3,6,23,91.0,94.0,88.3
+UBCV,2023,W,CNPS,363,,63A,Career Counselling,Alistair Gordon,35,84.6,,94.0,53.0,,,,,,,,,,,0,1,0,0,0,1,2,3,7,8,12,87.0,91.0,82.0
+UBCV,2023,W,CNPS,363,,63E,Career Counselling,Alistair Gordon,36,90.0,,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,9,20,92.0,94.0,87.5
+UBCV,2023,W,CNPS,433,,63F,The Personal and Social Development of the Adult,Alistair Gordon,36,86.4,,96.0,61.0,,,,,,,,,,,0,0,0,1,0,0,1,5,3,13,12,88.0,92.0,83.0

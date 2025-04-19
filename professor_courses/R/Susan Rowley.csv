@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,ANTH,411,A,001,PREHIST NEW WRLD,"Rowley, Susan",10,73.67,12.72,90,43,8,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,4,1,2,0,1,,,
+UBC,2003,W,ANTH,231,,001,ANCIENT N AMER,"Rowley, Susan",39,73.33,7.21,88,59,33,0,1,0,5,0,0,0,0,0,0,0,1,1,5,8,5,7,2,4,0,,,
+UBC,2007,W,ANTH,431,C,001,MUSEUM ANTH,"Kramer, Jennifer;Rowley, Susan",15,78.79,8.74,87,51,14,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,6,3,0,,,
+UBC,2009,W,ANTH,231,,001,ANCIENT N AMER,"Rowley, Susan",43,71.02,14.66,87,0,40,3,0,0,0,1,0,0,0,2,3,0,1,1,7,8,3,11,4,5,0,,,
+UBC,2010,W,ANTH,431,C,001,MUS PRC&CURATRSH,"Kramer, Jennifer;Rowley, Susan",17,81.06,3.38,86,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,11,3,0,,,
+UBC,2014,W,ANTH,404,,201,ETHNO CIRC NORTH,"Moore, Patrick;Rowley, Susan",32,73.03,15.53,87,0,30,1,1,0,0,1,0,0,0,0,1,0,1,2,1,5,3,8,5,5,0,,,
+UBC,2015,W,ANTH,506,A,003,CURRENT RES ANTH,"Moore, Patrick;Rowley, Susan",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,ANTH,431,C,003,MUS PRC&CURATRSH,"Rowley, Susan",11,85.82,3.4,91,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,3,,,
+UBCV,2014,W,ANTH,404,,201,Ethnography in Circumpolar North: Comparative Perspectives.,Patrick Moore;Susan Rowley,31,73.03225807,15.52950712,87.0,0.0,,,,,,,,,,,,,,,,5,,8,5,5,0,,,
+UBCV,2016,W,ANTH,431,C,003,Museum Practice and Curatorship,Emily Leischner;Susan Rowley,11,85.81818182,3.400534717,91.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,3,3,,,
+UBCV,2019,W,ANTH,431,C,100,Museum Practice and Curatorship,Christopher Smith;Jennifer Kramer;Susan Rowley,14,82.0,9.615692303,93.0,52.0,,,,,,,,,,,0,1,0,0,0,0,0,1,6,4,2,,,
+UBCV,2020,W,ANTH,431,C,100,Museum Practice and Curatorship,Jennifer Kramer;Susan Rowley,12,82.416666667,6.694072457,88.0,69.0,,,,,,,,,,,0,0,0,0,0,2,0,0,2,8,0,,,
+UBCV,2021,W,ANTH,431,C,100,Museum Practice and Curatorship,Emily Leischner;Jennifer Kramer;Susan Rowley,20,76.15,19.320768754,87.0,0.0,,,,,,,,,,,1,0,0,1,1,1,2,1,5,8,0,,,
+UBCV,2021,W,ANTH,431,C,100,Museum Practice and Curatorship,Jennifer Kramer;Susan Rowley,19,80.2,,87.0,62.0,,,,,,,,,,,,,,,,,,,,8,,83.0,85.0,76.5
+UBCV,2023,W,ANTH,431,C,100,Museum Practice and Curatorship,Nicola Levell;Susan Rowley,19,81.4,,88.0,67.0,,,,,,,,,,,0,0,0,0,1,0,4,1,3,9,0,84.5,86.8,75.3

@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,CNPS,574,,62A,CAREER PLANNING,"Iaquinta, Maria",9,87.78,4.09,92,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4
+UBC,2009,W,CNPS,363,,61A,CAREER COUNSELNG,"Iaquinta, Maria",19,84,4.4,93,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,7,3
+UBC,2009,W,CNPS,578,A,62A,IND&FAM CNSL T&I,"Haney, Colleen;Iaquinta, Maria",24,86.5,2.75,92,83,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,14,4
+UBC,2010,W,VRHC,507,C,61A,PRACTICUM,"HOGAN, BRENDA;Iaquinta, Maria;SAMSOM, DEBBIE C",5,90.2,1.64,92,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3
+UBC,2010,W,VRHC,507,C,61B,PRACTICUM,"Iaquinta, Maria;Marshall, Janet Vaughan",6,90.6,0.55,91,90,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2011,S,CNPS,574,,93A,CAREER PLANNING,"Iaquinta, Maria",14,87.5,2.68,91,83,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,3
+UBC,2011,W,CNPS,578,A,61A,IND&FAM CNSL T&I,"Iaquinta, Maria",21,88.76,1.97,93,85,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,7
+UBC,2011,W,VRHC,507,C,61A,PRACTICUM,"Butterfield, Lee;Iaquinta, Maria",4,82.5,9.95,91,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2
+UBC,2012,S,VRHC,508,,97A,INTERNSHIP,"Iaquinta, Maria",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,CNPS,588,C,61B,SUPRVSD TRAINING,"Iaquinta, Maria",5,88,4.9,92,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2013,W,VRHC,507,C,67A,PRACTICUM,"Iaquinta, Maria",5,87.4,1.14,89,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+UBC,2014,W,CNPS,588,C,009,SUPRVSD TRAINING,"Butterfield, Lee;Iaquinta, Maria",5,86.8,2.86,89,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2015,W,CNPS,588,C,004,SUPRVSD TRAINING,"Al-Mashat, Kasim;Iaquinta, Maria",6,87.67,3.88,93,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBCV,2014,W,CNPS,588,C,009,Supervised Training in Counselling,Lee Butterfield;Maria Iaquinta,5,86.8,2.863564213,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,CNPS,588,C,004,Supervised Training in Counselling,Kasim Al-Mashat;Maria Iaquinta,6,87.666666667,3.881580434,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,

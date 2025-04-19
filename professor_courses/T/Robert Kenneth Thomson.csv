@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,W,CHEM,121,,103,STRCTR BOND CHEM,"Thomson, Robert Kenneth",209,71.14,12.54,95,34,190,14,5,0,0,0,0,0,4,10,14,6,11,18,11,36,33,18,27,19,11
+UBC,2018,W,CHEM,121,,133,STRCTR BOND CHEM,"Thomson, Robert Kenneth",200,68.08,12.83,92,34,174,20,4,1,1,0,0,0,4,16,20,2,19,30,15,30,22,11,24,13,8
+UBC,2018,W,CHEM,121,,188,STRCTR BOND CHEM,"Thomson, Robert Kenneth",222,67.85,13,96,38,187,26,9,0,0,0,0,0,2,24,26,7,17,22,16,39,25,13,28,13,7
+UBC,2018,W,CHEM,123,,203,THM KIN ORG CHEM,"Thomson, Robert Kenneth",206,69.29,12.21,93,39,185,17,0,0,4,0,0,0,1,16,17,8,15,19,12,39,34,12,28,8,10
+UBC,2018,W,CHEM,300,,209,COMMUNCTING CHEM,"Thomson, Robert Kenneth",16,82.19,7.62,90,62,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,3,7,2
+UBC,2018,W,SCIE,300,,210,COMMUNICATE SCIE,"Thomson, Robert Kenneth",21,81.14,6.97,91,65,21,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,7,6,2
+UBCV,2018,W,CHEM,123,,203,"Thermodynamics, Kinetics and Organic Chemistry",Benjamin Mowbray;Duane Hean;Erin Lindenberg;Hayden Scheiber;Jiacheng Zuo;Nigare Raheem;Qian Liu;Rebecka Forward;Robert Kenneth Thomson;Robert Thomson;Ruijie Yang;Thomas Malig;Yonghui Wang,207,68.830917874,12.860166943,93.0,13.0,,,,,,,,,,,19,8,15,20,13,39,35,12,28,8,10
+UBCV,2018,W,CHEM,300,,209,Communicating Chemistry,Robert Kenneth Thomson;Robert Thomson;Robin Stoodley;Thomas Kostelnik,16,82.1875,7.617687751,90.0,62.0,,,,,,,,,,,0,0,0,1,0,0,2,1,3,7,2
+UBCV,2018,W,SCIE,300,,210,Communicating Science,Annie Rueter;Dannielle Alicia Piper;Dannielle Piper;Ilan Naftali Rubin;Ilan Rubin;Lucy Bellemare;Pablo De Lucia Finkel;Robert Kenneth Thomson;Robert Thompson;Robert Thomson,21,81.142857143,6.97341892,91.0,65.0,,,,,,,,,,,0,0,0,0,2,0,3,1,7,6,2
+UBCV,2019,W,CHEM,123,,201,"Thermodynamics, Kinetics and Organic Chemistry",Colton Carlson;Daniel Golec;Diana Kim;Duane Hean;Erin Lindenberg;Francesco D'Acierno;Hamid Gaikani;Hassan Baalbaki;Jiacheng Zuo;Nigare Raheem;Priya Lekhi;Robert Kenneth Thomson;Robert Thomson;Ruijie Yang;Siyu Miao;Yael Petel,116,82.637931034,8.270846181,97.0,61.0,,,,,,,,,,,0,0,0,2,3,8,12,7,32,24,28
+UBCV,2019,W,CHEM,445,A,135,Projects in Experimental Chemistry,Andrea Terpstra;Brian Patrick;Ghinwa Darwish;Glenn Sammis;Guillaume Bussiere;Mihajlo Todorovic;Montserrat Rueda Becerril;Richard Kil;Robert Kenneth Thomson;Robin Stoodley;Walid Abdelmagid,15,73.8,8.195817749,88.0,60.0,,,,,,,,,,,0,0,0,2,0,6,1,2,2,2,0

@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,VISA,200,,001,Studio Theory I,Gary Pearson,34,72.97058824,9.885665454,94.0,45.0,,,,5,,5,5,7,,,
+UBCO,2014,W,VISA,201,,001,Studio Theory II,Gary Pearson;Jenifer Lafrance,23,81.2173913,12.85215412,100.0,50.0,0,,,,,,,,5,5,6
+UBCO,2014,W,VISA,215,,001,Painting I,Gary Pearson,15,82.06666667,7.004760286,90.0,65.0,0,0,0,0,,,,,,8,
+UBCO,2014,W,VISA,225,,001,Painting II,Gary Pearson,15,83.73333333,6.041128876,90.0,73.0,0,0,0,0,0,0,,5,,5,
+UBCO,2014,W,VISA,312,C,001,Advanced Practice in Painting,Gary Pearson,17,80.29411765,6.080344417,92.0,72.0,0,0,0,0,0,0,,,6,,
+UBCO,2014,W,VISA,312,D,001,Advanced Practice in Painting,Gary Pearson,15,81.8,8.897832802,95.0,67.0,0,0,0,0,,,,,,,
+UBCO,2015,W,VISA,200,,001,Studio Theory I,Gary Pearson;Jenifer Lafrance,25,76.12,13.37697026,97.0,51.0,0,,,,,,,,7,5,
+UBCO,2015,W,VISA,201,,001,Studio Theory II,Gary Pearson;Jenifer Lafrance,19,82.631578947,21.909436136,96.0,0.0,,,,,,,,,,,10
+UBCO,2015,W,VISA,215,,001,Painting I,Gary Pearson,16,84.125,6.302116047,97.0,75.0,0,0,0,0,0,0,,,6,,
+UBCO,2015,W,VISA,225,,001,Painting II,Gary Pearson,15,80.4,12.028537496,95.0,55.0,0,0,,,,,,,,,
+UBCO,2015,W,VISA,312,E,001,Advanced Practice in Painting,Gary Pearson,14,81.071428571,10.730719997,95.0,68.0,0,0,0,0,0,5,,,,,
+UBCO,2015,W,VISA,312,F,001,Advanced Practice in Painting,Gary Pearson,15,82.733333333,8.404647241,94.0,67.0,0,0,0,0,,,,,,,5
+UBCO,2016,W,VISA,215,,001,Painting I,Gary Pearson,17,82.17647059,8.187149184,92.0,60.0,0,0,0,1,0,0,2,2,3,6,3
+UBCO,2016,W,VISA,312,G,001,Advanced Practice in Painting,Gary Pearson,16,86.6875,4.045058714,93.0,80.0,0,0,0,0,0,0,0,0,4,7,5
+UBCO,2017,W,VISA,215,,001,Painting I,Gary Pearson;Katherine Pickering,18,78.333333333,4.186814035,88.0,73.0,0,0,0,0,0,0,5,8,2,3,0

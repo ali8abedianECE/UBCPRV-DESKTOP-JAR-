@@ -1,0 +1,46 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",12,94.42,6.23,98,79,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,10
+UBC,2003,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",16,94.27,5.62,98,79,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,13
+UBC,2003,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",8,93.88,2.7,97,90,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+UBC,2005,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",21,86.62,22.29,98,0,20,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,17
+UBC,2005,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",16,87.93,3.94,93,80,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5
+UBC,2006,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",23,89.65,3.11,97,80,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,14
+UBC,2006,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",18,84.67,1.53,87,82,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,0
+UBC,2007,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",24,83.25,17.86,93,0,23,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2,20,1
+UBC,2007,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",20,85.25,3.82,90,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,16,1
+UBC,2009,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",30,86.77,1.48,90,85,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,3
+UBC,2009,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",23,87.17,1.85,90,85,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,4
+UBC,2010,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",32,87.03,3.2,96,78,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,24,4
+UBC,2010,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",24,87.5,3.27,95,80,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,6
+UBC,2011,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",29,88.52,2.13,95,84,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20,7
+UBC,2011,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",18,85.28,6.34,94,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,4,4
+UBC,2012,S,LIBE,461,,93Q,ADMIN OF SCH LRC,"Powell, Gordon",19,81.95,17.22,91,14,18,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,12,4
+UBC,2012,S,LLED,480,D,952,ADV ST LNG LIT,"Powell, Gordon",22,88.59,2.58,92,82,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,8
+UBC,2012,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",18,85.29,6.29,94,65,17,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,9,3
+UBC,2012,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",15,84,3.62,90,77,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6,1
+UBC,2013,W,EDUC,440,,105,ABRG EDUC CANADA,"Powell, Gordon",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,LIBE,461,,63A,ADMIN OF SCH LRC,"Powell, Gordon",31,86.52,1.41,90,85,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,1
+UBC,2013,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",12,86.5,2.97,93,83,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,2
+UBC,2014,W,EDUC,440,,105,ABRG EDUC CANADA,"Powell, Gordon",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",19,86.26,1.66,91,83,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,1
+UBC,2015,S,LIBE,461,,93Q,ADMIN OF SCH LRC,"Powell, Gordon",24,86.92,3.09,93,83,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15,5
+UBC,2015,W,EDUC,440,,105,ABRG EDUC CANADA,"Powell, Gordon",30,,,,,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",25,86.88,4.02,95,79,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,14,6
+UBC,2016,S,LIBE,461,,93Q,ADMIN OF SCH LRC,"Powell, Gordon",34,86.85,2.03,91,83,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,5
+UBC,2016,W,EDUC,440,,105,ABRG EDUC CANADA,"Powell, Gordon",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",36,85.81,2.34,94,80,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,29,3
+UBC,2017,W,LIBE,461,,61A,ADMIN OF SCH LRC,"Powell, Gordon",34,84.5,8.97,96,52,34,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,5,18,8
+UBC,2017,W,LIBE,461,,63D,ADMIN OF SCH LRC,"Powell, Gordon",31,86.19,3.26,94,80,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,20,2
+UBC,2018,W,LIBE,461,,63B,ADMIN OF SCH LRC,"Powell, Gordon",24,84.61,14.46,97,20,22,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,17,3
+UBC,2018,W,LIBE,461,,63C,ADMIN OF SCH LRC,"Powell, Gordon",28,88.96,3.49,97,85,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,9
+UBCV,2014,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell,19,86.2631579,1.661395172,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,17,
+UBCV,2015,S,LIBE,461,,93Q,Administration of the School Library Resource Centre,Gordon Powell,24,86.91666667,3.091596839,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,15,5
+UBCV,2015,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell,25,86.88,4.024094101,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,14,6
+UBCV,2016,S,LIBE,461,,93Q,Administration of the School Library Resource Centre,Gordon Powell,33,86.84848485,2.032873768,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,25,5
+UBCV,2016,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell,36,85.80555556,2.339956586,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,29,3
+UBCV,2017,W,LIBE,461,,61A,Administration of the School Library Resource Centre,Gordon Powell,34,84.5,8.96542179,96.0,52.0,,,,,,,,,,,0,2,0,0,0,0,0,1,5,18,8
+UBCV,2017,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell;Joyce Chong,33,87.090909091,3.485358988,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,23,6
+UBCV,2017,W,LIBE,461,,63D,Administration of the School Library Resource Centre,Gordon Powell,31,86.193548387,3.260054752,94.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,20,2
+UBCV,2018,W,LIBE,461,,63B,Administration of the School Library Resource Centre,Gordon Powell,23,84.608695652,14.456012057,97.0,20.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,17,3
+UBCV,2018,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell,28,88.964285714,3.490538989,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,19,9
+UBCV,2019,W,LIBE,461,,63C,Administration of the School Library Resource Centre,Gordon Powell;Heather Daly,23,86.0,6.338913013,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,6,7,7

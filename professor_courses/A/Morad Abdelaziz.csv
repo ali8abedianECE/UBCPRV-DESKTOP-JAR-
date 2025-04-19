@@ -1,0 +1,18 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,APSC,179,,102,Linear Algebra for Engineers,Ian Foulds;Khairul Anam;Morad Abdelaziz,164,67.225609756,18.802925702,100.0,12.0,28,9,13,8,11,16,20,13,17,13,16,,,
+UBCO,2019,W,APSC,179,,101,Linear Algebra for Engineers,Abdul Basit Zia;Ian Foulds;Kamran Alasvand Zarasvand;Morad Abdelaziz;Shiva Khoei,176,70.693181818,21.430209894,100.0,7.0,32,9,7,13,7,19,10,12,12,15,40,,,
+UBCO,2019,W,APSC,179,,102,Linear Algebra for Engineers,Abdul Basit Zia;Ian Foulds;Kamran Alasvand Zarasvand;Morad Abdelaziz;Shiva Khoei,171,63.953216374,19.158107749,100.0,7.0,39,6,21,15,16,15,17,7,11,6,18,,,
+UBCO,2019,W,ENGR,350,,201,Linear Circuit Theory,Ashraf Ali Khan;Morad Abdelaziz;Yuri Reis Rodrigues;Yuri Rodrigues,77,66.727272727,16.92058569,92.0,0.0,12,3,9,6,8,4,7,9,9,7,3,,,
+UBCO,2019,W,ENGR,455,,101,Power System Analysis and Design,Alireza Eyvazizadeh Khosroshahi;Malcolm Metcalfe;Morad Abdelaziz,17,83.117647059,7.647567856,97.0,68.0,0,0,0,0,0,1,2,3,3,5,3,,,
+UBCO,2019,W,ENGR,458,,201,Power Electronics,Joel Pfannschmidt;Liwei Wang;Morad Abdelaziz;Peyman Amiri;Wilson Eberle;Yanqi Yu,60,77.966666667,9.554423355,99.0,60.0,0,0,0,3,7,6,8,4,13,12,7,,,
+UBCO,2020,W,APSC,179,,101,Linear Algebra for Engineers,Abdul Basit Zia;Evan Hansen;Hoda Dadashzadeh;Kamran Alasvand Zarasvand;Maryam Golestani Najafabadi;Mehran Shirazi;Morad Abdelaziz;Sarin Raj Pokhrel;Shiva Khoei;Zhila Bahrami,203,75.433497537,13.273559704,100.0,23.0,5,7,11,12,12,16,31,26,25,28,30,,,
+UBCO,2020,W,ENGR,350,,201,Linear Circuit Theory,Michael Mitchell;Mohammad Kharouf;Morad Abdelaziz;Yuri Reis Rodrigues;Yuri Rodrigues,106,83.367924528,9.972653534,100.0,45.0,1,0,0,1,3,9,7,19,15,16,35,,,
+UBCO,2020,W,ENGR,455,,101,Power System Analysis and Design,Alireza Eyvazizadeh Khosroshahi;Morad Abdelaziz,28,79.607142857,14.42307638,100.0,50.0,0,2,0,3,1,3,2,2,2,4,9,,,
+UBCO,2021,W,APSC,179,,102,Linear Algebra for Engineers,Evan Hansen;Kamran Alasvand Zarasvand;Majid Moradzadeh;Mehran Shirazi;Morad Abdelaziz;Shiva Khoei,189,74.243386243,20.317794872,100.0,0.0,23,9,8,7,10,10,13,19,17,23,50,,,
+UBCO,2021,W,APSC,179,,103,Linear Algebra for Engineers,Evan Hansen;Kamran Alasvand Zarasvand;Majid Moradzadeh;Morad Abdelaziz;Shiva Khoei,16,68.8125,24.094864598,93.0,0.0,3,0,1,0,0,1,2,4,1,2,2,,,
+UBCO,2021,W,ENGR,350,,201,Linear Circuit Theory,Mohammad Kharouf;Morad Abdelaziz,90,67.211111111,22.5201505,100.0,0.0,16,10,6,3,5,7,5,10,8,1,19,,,
+UBCO,2021,W,ENGR,455,,101,Power System Analysis and Design,Mohammad Kharouf;Morad Abdelaziz,22,78.5,19.68018099,100.0,16.0,2,0,0,1,1,3,0,2,3,4,6,,,
+UBCO,2021,W,APSC,179,,102,Linear Algebra for Engineers,Morad Abdelaziz,189,74.2,,100.0,0.0,23,9,8,7,10,10,13,19,17,23,50,78.0,90.0,64.0
+UBCO,2021,W,APSC,179,,103,Linear Algebra for Engineers,Morad Abdelaziz,16,68.8,,93.0,0.0,,,,,,,,,,,,76.5,83.0,65.8
+UBCO,2021,W,ENGR,350,,201,Linear Circuit Theory,Morad Abdelaziz,90,67.2,,100.0,0.0,16,10,6,,,7,,10,8,,19,71.0,81.5,53.0
+UBCO,2021,W,ENGR,455,,101,Power System Analysis and Design,Morad Abdelaziz,22,78.5,,100.0,16.0,,,,,,,,,,,6,83.5,91.3,71.0

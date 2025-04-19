@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPSC,221,,101,Basic Algorithms and Data Structures,Alan Hu;Andrew Karpierz;Reza Babanezhad Harikande;Zeinab Zolaktaf Zadeh;Zheng Dong,148,73.912162162,14.371612729,98.0,0.0,12,5,4,5,8,17,23,21,20,15,18
+UBCV,2015,W,CPSC,221,,102,Basic Algorithms and Data Structures,Andrew Karpierz;Reza Babanezhad Harikande;William Evans;Zeinab Zolaktaf Zadeh;Zheng Dong,136,74.044117647,13.829044929,96.0,4.0,8,1,6,12,6,13,18,23,20,18,11
+UBCV,2015,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,Andrew Karpierz;Noushin Saeedi Bidokhti;William Evans,60,73.716666667,14.894079892,99.0,38.0,,,7,,,,6,6,11,9,7

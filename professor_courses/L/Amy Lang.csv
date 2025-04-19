@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,POLI,404,B,001,PUBLIC POLICY,"Lang, Amy",10,78.56,7.58,87,65,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,3,0
+UBC,2009,W,SOCI,100,,001,INTRO SOCIOLOGY,"Corrigall-Brown, Catherine;Lang, Amy",77,69.43,13.16,90,25,72,5,0,0,0,0,0,2,2,1,5,3,5,7,6,7,18,8,14,3,1
+UBC,2009,W,SOCI,100,,004,INTRO SOCIOLOGY,"Corrigall-Brown, Catherine;Lang, Amy",150,69.82,11.44,90,12,142,5,2,0,1,0,1,0,2,2,5,5,13,15,15,19,28,19,19,8,1
+UBC,2009,W,SOCI,461,B,002,POLITICAL SOCI,"Lang, Amy",15,83.67,6.63,93,69,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,7,3,3
+UBC,2015,W,BUSI,455,,203,PRIN AUDIT,"Lang, Amy",15,74.64,6.8,87,64,14,0,1,0,0,0,0,0,0,0,0,0,0,0,1,6,1,3,1,2,0
+UBC,2016,W,BUSI,455,,103,PRIN AUDIT,"Lang, Amy",8,75.63,5.66,83,67,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,3,0,0
+UBC,2016,W,BUSI,455,,203,PRIN AUDIT,"Lang, Amy",13,73.38,11.33,96,50,13,0,0,0,0,0,0,0,0,0,0,1,0,0,4,1,3,0,2,1,1
+UBCV,2015,W,BUSI,455,,203,Principles of Auditing,Amy Lang,14,74.642857143,6.800533269,87.0,64.0,,,,,,,,,,,0,0,0,0,,6,,,,2,0
+UBCV,2016,W,BUSI,455,,103,Principles of Auditing,Amy Lang,8,75.625,5.655275666,83.0,67.0,,,,,,,,,,,0,0,0,0,1,1,2,1,3,0,0
+UBCV,2016,W,BUSI,455,,203,Principles of Auditing,Amy Lang,13,73.38461539,11.32503467,96.0,50.0,,,,,,,,,,,0,1,0,0,4,1,3,0,2,1,1
+UBCV,2019,W,BUSI,353,,102,Intermediate Financial Accounting I,Amy Lang;Doug Yee;Douglas Yee,40,71.6,18.957171703,98.0,2.0,,,,,,,,,,,3,2,0,5,4,4,5,2,3,5,7

@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,COSC,121,,001,Computer Programming II,Abdallah Mohamed;Beshada Heyi;David Rowswell;Heath Caswell;Herraj Luhano;Yi-Hsun Huang,115,65.556521739,22.075703603,100.0,0.0,30,2,5,5,9,9,7,12,11,12,13
+UBCO,2016,W,COSC,304,,001,Introduction to Databases,Anthony Culos;Heath Caswell;Ramon Lawrence,85,75.70588235,13.15278671,99.0,1.0,2,2,2,4,4,9,21,11,12,8,10
+UBCO,2016,W,COSC,360,,001,Web Programming,Heath Caswell;Scott Fazackerley,67,70.7761194,19.00942421,95.0,13.0,7,4,3,5,2,6,10,3,11,6,10
+UBCO,2016,W,DATA,301,,001,Introduction to Data Analytics,Heath Caswell;James Rogers;Ramon Lawrence;Shanika Rajapakshe,83,81.13253012,15.60547987,100.0,24.0,3,4,1,2,4,5,3,6,13,14,28
+UBCO,2017,W,COSC,304,,001,Introduction to Databases,Heath Caswell;Joyce Epp;Ramon Lawrence,85,77.541176471,12.881837474,99.0,29.0,2,1,3,3,11,10,2,10,12,17,14
+UBCO,2017,W,COSC,404,,101,Database System Implementation,Heath Caswell;Ramon Lawrence,55,81.072727273,15.397035003,100.0,15.0,2,1,2,0,2,2,6,8,9,5,18

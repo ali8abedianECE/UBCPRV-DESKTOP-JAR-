@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,STAT,401,,101,Probability and Statistical Inference,Wanye Gao;Xiaoping Shi,27,88.333333333,11.378116648,100.0,58.0,0,0,1,1,0,0,2,1,2,5,15,,,
+UBCO,2021,W,STAT,401,,101,Probability and Statistical Inference,Xiaoping Shi,27,88.3,,100.0,58.0,,,,,,,,,,,15,91.0,96.5,84.0
+UBCO,2022,W,STAT,124,,001,Business Statistics,Xiaoping Shi,113,67.0,,100.0,0.0,11,15,11,9,11,6,13,6,4,9,18,67.0,84.0,56.0
+UBCO,2022,W,STAT,124,,101,Business Statistics,Xiaoping Shi,186,71.6,,98.0,2.0,10,13,15,15,14,19,22,19,19,13,27,73.0,83.0,62.0
+UBCO,2022,W,STAT,401,,101,Probability and Statistical Inference,Xiaoping Shi,15,77.3,,96.0,5.0,1,1,0,0,0,0,3,2,2,1,5,83.0,93.0,74.0
+UBCO,2023,W,DATA,570,,001,Predictive Modelling,Xiaoping Shi,40,97.3,,100.0,83.0,0,0,0,0,0,0,0,0,1,0,39,98.0,99.0,96.8
+UBCO,2023,W,DATA,580,,001,Modelling and Simulation I,Xiaoping Shi,40,94.6,,100.0,72.0,0,0,0,0,0,0,1,1,1,1,36,95.5,99.0,93.0
+UBCO,2023,W,STAT,203,,001,Introduction to Probability,Xiaoping Shi,21,79.7,,99.0,10.0,1,1,1,0,1,0,2,1,2,3,8,86.5,93.0,74.8
+UBCO,2023,W,STAT,403,,001,Stochastic Processes,Xiaoping Shi,21,86.5,,100.0,48.0,1,0,0,1,0,0,2,1,0,5,11,90.0,96.0,87.0
+UBCO,2023,W,STAT,560,,001,Probability and Stochastic Processes,Xiaoping Shi,8,97.3,,100.0,85.0,0,0,0,0,0,0,0,0,0,1,7,99.5,100.0,97.5

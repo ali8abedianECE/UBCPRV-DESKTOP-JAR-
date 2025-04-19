@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,DSCI,591,,001,CAPSTONE PROJECT,"Coia, Vincenzo;Dalla Riva, Giulio Valentino;Gelbart, Michael",20,90.11,3.26,94,85,19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,12
+UBC,2017,W,BAIT,507,,BA1,DATA MGMT BAN,"Dalla Riva, Giulio Valentino",36,87.58,5.68,99,77,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,12,13
+UBC,2017,W,DSCI,521,,001,CMPT PLTFRM DSCI,"Dalla Riva, Giulio Valentino",42,93.86,2.19,97,87,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,39
+UBC,2017,W,DSCI,563,,001,UNSPRVISD LEARNG,"Dalla Riva, Giulio Valentino;Gelbart, Michael",44,84.89,7.17,94,65,44,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,6,7,11,15
+UBC,2017,W,DSCI,591,,001,CAPSTONE PROJECT,"Coia, Vincenzo;Dalla Riva, Giulio Valentino;Gelbart, Michael;Timbers, Tiffany",45,90.18,4.44,95,80,44,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,26
+UBC,2017,W,STAT,545,A,101,DATA ANALYSIS,"Coia, Vincenzo;Dalla Riva, Giulio Valentino",84,88.73,9.61,100,21,76,1,4,3,0,0,0,1,0,0,1,0,0,0,0,0,3,2,7,18,46
+UBC,2017,W,STAT,547,M,101,TOPICS IN STAT,"Coia, Vincenzo;Dalla Riva, Giulio Valentino",54,87.02,8.22,99,66,52,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,2,5,7,11,24
+UBCV,2016,W,DSCI,591,,001,Capstone Project,Giulio Valentino Dalla Riva;Michael Gelbart;Tiffany Timbers;Vincenzo Coia,19,90.10526316,3.26419527,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,12
+UBCV,2017,W,BAIT,507,,BA1,Data Management for Business Analytics,Giulio Valentino Dalla Riva,36,87.583333333,5.678908346,99.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,12,13
+UBCV,2017,W,DSCI,521,,001,Computing Platforms for Data Science,Giulio Valentino Dalla Riva,42,93.857142857,2.192797841,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,39
+UBCV,2017,W,DSCI,563,,001,Unsupervised Learning,Edwin Max Knorr;Giulio Valentino Dalla Riva;Michael Gelbart,44,84.886363636,7.17299817,94.0,65.0,,,,,,,,,,,0,0,0,0,1,0,4,6,7,11,15
+UBCV,2017,W,DSCI,591,,001,Capstone Project,Giulio Valentino Dalla Riva;Michael Gelbart;Tiffany Timbers;Vincenzo Coia,44,90.181818182,4.437015167,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,14,26
+UBCV,2017,W,STAT,545,A,101,Exploratory Data Analysis,Giulio Valentino Dalla Riva;Vincenzo Coia,77,88.727272727,9.606242986,100.0,21.0,,,,,,,,,,,1,0,0,0,0,0,3,2,7,18,46
+UBCV,2017,W,STAT,547,M,101,Topics in Statistics,Giulio Valentino Dalla Riva;Vincenzo Coia,52,87.019230769,8.223568198,99.0,66.0,,,,,,,,,,,0,0,0,0,1,2,2,5,7,11,24
+UBCV,2018,W,BAIT,507,,BA1,Data Management for Business Analytics,Giulio Valentino Dalla Riva;Simon Goring;Vincenzo Coia,50,84.36,4.92705981,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,3,19,17,7
+UBCV,2019,W,DSCI,513,,001,Databases and Data Retrieval,Elijah Willie;Giulio Valentino Dalla Riva;Gunho Oh;Javier Castillo Arnemann;Rodolfo Lourenzutti;Vaden Masrani;Xiaomeng Ju,122,90.295081967,4.654489567,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,10,30,79
+UBCV,2019,W,DSCI,521,,001,Computing Platforms for Data Science,Freddy Abelanjo Francis;Freddy Francis;Giulio Valentino Dalla Riva;Gunho Oh;Javier Castillo Arnemann;Jie Xiang;Nazli Kafaee;Rodolfo Lourenzutti;Tiffany Timbers;�Z�M Kafaee,122,89.147540984,5.630014211,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,4,11,35,68
+UBCV,2019,W,DSCI,541,,001,"Privacy, Ethics, and Security",Aarti Kashyap;Bruce Moghtader;Bruce Morteza Seyed Moghtader;Edwin Max Knorr;Giulio Valentino Dalla Riva;Joel Ostblom;Man Yeung Tai;Nazli Kafaee;Prithu Banerjee,119,91.226890756,4.205398014,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,5,16,96
+UBCV,2019,W,DSCI,552,,001,Statistical Inference and Computation I,Aaron Berk;Christopher Nicholas Gubbels;Giulio Valentino Dalla Riva;Gunho Oh;Hossameldin Ibrahim Said Mohammed;Javier Castillo Arnemann;Reza Sadoughianzadeh;Tiffany Timbers,122,88.0,6.329780067,99.0,67.0,,,,,,,,,,,0,0,0,0,2,3,2,5,11,42,57
+UBCV,2019,W,DSCI,563,,001,Unsupervised Learning,Daniele Reda;Giulio Valentino Dalla Riva;Kayode Adekunle Aina;Mark Schmidt;Prashant Pandey;Rodolfo Lourenzutti;Vaden Masrani,94,94.063829787,4.198843954,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,9,80
+UBCV,2019,W,DSCI,573,,001,Feature and Model Selection,Giulio Valentino Dalla Riva;Hossameldin Ibrahim Said Mohammed;Kayode Adekunle Aina;Prateek Yadav;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Timothy Cashion;Varada Kolhatkar,120,90.625,5.780381919,99.0,69.0,,,,,,,,,,,0,0,0,0,0,2,2,3,7,22,84
+UBCV,2019,W,DSCI,574,,001,Spatial and Temporal Models,Aaron Berk;Arjun Baghela;Arjun Singh Baghela;Giulio Valentino Dalla Riva;Hossameldin Ibrahim Said Mohammed;Natalia Nolde;Peiyuan Zhu;Vincenzo Coia,94,90.755319149,4.625051398,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,4,23,64

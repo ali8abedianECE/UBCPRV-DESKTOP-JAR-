@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,FIPR,433,,001,MO PICT PROD II,"Weber, Ross",18,81.94,7.36,92,55,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14,2,1
+UBC,2016,W,FIPR,433,,001,FLM MDIA PRD III,"Weber, Ross",18,88.39,4.2,95,78,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,10
+UBC,2016,W,FIPR,533,A,001,ADV PROB FILM PR,"Weber, Ross",4,91.5,7.94,98,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+UBCV,2015,W,FIPR,433,,001,Motion Picture Production II,Abraham Harry Katz;Abraham Katz;Ross Weber,18,81.944444444,7.360244739,92.0,55.0,,,,,,,,,,,0,0,,,,,,,14,,
+UBCV,2016,W,FIPR,433,,001,Film and Media Production III,Ross Weber,18,88.38888889,4.202784636,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,6,10

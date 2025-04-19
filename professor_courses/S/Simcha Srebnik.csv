@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CHBE,345,,201,UNIT OPERATNS II,"Srebnik, Simcha",120,74.54,11.61,98,43,113,3,1,0,3,0,0,0,0,3,3,4,5,10,7,12,19,15,16,15,10,,,
+UBCV,2018,W,CHBE,345,,201,Unit Operations II,Seoeun Kim;Seyyed Arman Hejazi;Simcha Srebnik,119,73.647058824,13.009506456,98.0,23.0,,,,,,,,,,,5,4,5,11,7,12,19,15,16,15,10,,,
+UBCV,2019,W,CHBE,345,,201,Unit Operations II,Jairo Cendales;Jairo Eduardo Cendales;Seoeun Kim;Simcha Srebnik;Xiaotao Bi,102,76.303921569,15.873128932,100.0,0.0,,,,,,,,,,,4,4,4,1,10,12,12,13,9,14,19,,,
+UBCV,2019,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Bhushan Gopaluni;Simcha Srebnik,21,90.80952381,3.140366979,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,16,,,
+UBCV,2020,W,CHBE,345,,201,Unit Operations II,Heather Trajano;Jairo Cendales;James Piret;Joseph English;Simcha Srebnik,119,83.25210084,9.882546237,100.0,41.0,,,,,,,,,,,2,0,1,2,5,3,6,12,22,38,28,,,
+UBCV,2020,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Dusko Posarac;Mahyar Mohaghegh Montazeri;Simcha Srebnik,10,84.9,7.908504564,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,3,1,4,,,
+UBCV,2020,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,23,88.956521739,3.866855204,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,12,10,,,
+UBCV,2021,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Mahyar Mohaghegh Montazeri;Simcha Srebnik,22,85.954545455,10.531030216,100.0,59.0,,,,,,,,,,,0,0,1,0,0,1,2,2,2,5,9,,,
+UBCV,2021,W,CHBE,482,,201,Petroleum Refining Process Modelling and Simulation,Dusko Posarac;Mahyar Mohaghegh Montazeri;Simcha Srebnik,8,84.125,7.239524452,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,3,1,,,
+UBCV,2021,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,19,91.105263158,5.466003383,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,2,13,,,
+UBCV,2021,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Simcha Srebnik,22,86.0,,100.0,59.0,,,,,,,,,,,,,,,,,,,,,9,88.0,92.8,79.5
+UBCV,2021,W,CHBE,482,,201,Petroleum Refining Process Modelling and Simulation,Simcha Srebnik,8,84.1,,95.0,73.0,,,,,,,,,,,,,,,,,,,,,,85.0,89.0,79.3
+UBCV,2021,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,20,91.3,,97.0,82.0,,,,,,,,,,,,,,,,,,,,,14,93.0,94.3,88.0
+UBCV,2022,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Simcha Srebnik,51,85.4,,99.0,0.0,,,,,,,,,,,3,0,1,1,0,0,0,3,1,10,32,92.0,95.0,86.5
+UBCV,2022,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,14,86.0,,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,4,5,86.5,90.8,81.8
+UBCV,2023,W,CHBE,476,,101,Advanced Process Engineering and Simulation,Simcha Srebnik,45,89.2,,96.0,59.0,,,,,,,,,,,0,0,1,0,0,2,0,5,1,4,31,92.0,94.3,87.8

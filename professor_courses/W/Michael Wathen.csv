@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,303,,201,Numerical Approximation and Discretization,Chen Greif;Michael Philip Wathen;Michael Wathen;Susanne Bradley;Susanne Michelle Bradley,66,76.78787879,15.14800332,100.0,34.0,,,,,5,7,7,6,9,5,17
+UBCV,2014,W,CPSC,340,,101,Machine Learning and Data Mining,Jason Siyanda Hartford;Michael Philip Wathen;Michael Wathen;Raymond Tak-Yan Ng;Sarah Huber;Yan Zhao,108,72.94444444,14.45898701,99.0,30.0,7,,,8,6,14,14,12,19,11,10
+UBCV,2015,S,CPSC,320,,911,Intermediate Algorithm Design and Analysis,Alireza Shafaei;Michael Philip Wathen;Michael Wathen;Nicholas Harvey;Samuel Edward Creed;Shiwen He;Sikander Randhawa;Sikander Singh Randhawa,104,77.82692308,12.02864083,100.0,42.0,,,6,,7,10,16,10,17,12,20
+UBCV,2015,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Michael Philip Wathen;Michael Wathen;Uri Michael Ascher;Yu Ju Chen,69,77.927536232,17.467885525,98.0,0.0,,,,,6,,,,18,9,16
+UBCV,2016,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Itrat Akhter;Michael Friedlander;Michael Philip Wathen;Michael Wathen,75,83.13333333,15.67260765,100.0,19.0,4,0,0,2,0,0,6,6,13,14,30
+UBCV,2016,W,CPSC,303,,201,Numerical Approximation and Discretization,Jessica Bosch;Michael Philip Wathen;Michael Wathen,67,75.70149254,18.30798379,100.0,19.0,4,4,5,2,8,7,3,5,2,5,22
+UBCV,2018,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Dhavide Aruliah;Michael Wathen;Yuxi Feng;Zhenan Fan,107,72.121495327,14.312357954,97.0,22.0,10,2,3,6,7,15,22,9,14,9,10

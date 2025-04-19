@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,S,LLED,489,A,921,APPL LING TEACH,"Surtees, Victoria",27,86.23,10.14,94,38,25,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,3,14,8
+UBC,2016,W,EDST,401,,105,EDU SCH SOC INST,"Surtees, Victoria",28,,,,,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,LLED,212,,002,LANG COMMUNITES,"Surtees, Victoria",19,78.84,7.62,90,65,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,4,4,3,2
+UBC,2017,W,LLED,489,B,003,APPL LING TEACH,"Surtees, Victoria",12,80,17.35,90,27,11,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,3,4,2
+UBC,2018,W,LLED,360,,304,CLS DSC TEL SECD,"Surtees, Victoria",31,,,,,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,360,,305,CLS DSC TEL SECD,"Surtees, Victoria",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,LLED,478,B,002,INTRO TO TESL,"Surtees, Victoria",17,83.59,5.43,90,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,8,1
+UBC,2018,W,LLED,489,B,61A,APPL LING TEACH,"Surtees, Victoria",17,88.75,4.14,95,78,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,8
+UBCV,2014,S,LLED,489,A,921,Applied Linguistics for Teachers,Ismaeil Fazel;Victoria Surtees,33,83.09090909,7.354265923,98.0,61.0,,,,,,,,,,,0,0,0,,,,,5,9,10,5
+UBCV,2015,W,LLED,489,A,002,Applied Linguistics for Teachers,Steven Talmy;Victoria Surtees,18,83.833333333,8.806748749,95.0,66.0,,,,,,,,,,,0,0,0,0,,,,,,,5
+UBCV,2016,S,LLED,489,A,921,Applied Linguistics for Teachers,Victoria Surtees,26,86.23076923,10.14419121,94.0,38.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,14,8
+UBCV,2016,W,LLED,212,,002,Introduction to Language Communities and Variation in Language Practices,Reginald D'Silva;Victoria Surtees,19,78.84210526,7.617692549,90.0,65.0,,,,,,,,,,,0,0,0,0,2,1,3,4,4,3,2
+UBCV,2017,S,LLED,489,A,921,Applied Linguistics for Teachers,Ling Shi;Victoria Surtees,25,82.28,2.761642024,87.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,13,8,0
+UBCV,2017,W,LLED,489,B,003,Applied Linguistics for Teachers,Victoria Surtees,12,80.0,17.346731419,90.0,27.0,,,,,,,,,,,1,0,0,0,0,0,1,1,3,4,2
+UBCV,2018,W,LLED,200,,002,Introduction to Writing in Academic and Professional Registers,Andrea Dulay;Reginald D'Silva;Ryan Deschambault;Victoria Surtees;Yanning Dong,15,73.266666667,6.463818715,83.0,61.0,,,,,,,,,,,0,0,0,1,2,3,4,2,3,0,0
+UBCV,2018,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Victoria Surtees,17,83.588235294,5.432067097,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,5,8,1
+UBCV,2018,W,LLED,489,B,61A,Applied Linguistics for Teachers,Victoria Surtees,17,84.941176471,16.20752367,95.0,24.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,6,8
+UBCV,2019,S,LLED,478,C,952,Introduction to Teaching English as a Second Language,Koichi Haseyama;Steven Talmy;Victoria Surtees,31,89.741935484,4.647348649,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,0,9,19
+UBCV,2019,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Victoria Surtees,18,85.722222222,5.278207757,92.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,13,2
+UBCV,2020,W,LLED,478,B,002,Introduction to Teaching English as a Second Language,Nasrin Kowkabi;Steven Talmy;Victoria Surtees;Zhuo Sun,16,90.3125,1.352466882,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,14

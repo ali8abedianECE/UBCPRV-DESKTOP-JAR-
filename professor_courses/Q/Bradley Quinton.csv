@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,EECE,479,,201,Intr VLSI Sys,"Quinton, Bradley",58,74.81,14.84,100,24,57,1,0,0,0,0,0,1,0,0,1,4,4,5,3,6,1,9,12,4,9,,,
+UBC,2013,W,EECE,479,,101,Intr VLSI Sys,"Quinton, Bradley",46,75.5,16,100,25,44,2,0,0,0,0,0,1,0,1,2,2,3,1,6,4,3,5,5,5,10,,,
+UBC,2014,S,EECE,353,,941,DIGITL SYS DSGN,"Quinton, Bradley",77,79.06,12.45,100,50,77,0,0,0,0,0,0,0,0,0,0,4,2,3,6,3,11,11,8,9,20,,,
+UBC,2014,W,EECE,479,,201,Intr VLSI Sys,"Quinton, Bradley",81,74.33,12.68,99,40,76,3,2,0,0,0,0,0,0,3,3,1,7,2,11,10,4,9,14,11,7,,,
+UBC,2015,W,EECE,579,,201,AD TOP VLSI DESG,"Quinton, Bradley",4,92.5,0.71,93,92,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,,,
+UBC,2016,W,EECE,579,,201,AD TOP VLSI DESG,"Quinton, Bradley",9,87.44,4.64,92,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,,,
+UBC,2017,W,EECE,579,,201,AD TOP VLSI DESG,"Quinton, Bradley",11,87.8,4.61,94,82,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4,,,
+UBC,2018,W,ELEC,502,,201,ADV TOP VLS INT,"Quinton, Bradley",4,92.75,4.72,97,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBCV,2014,S,EECE,353,,941,Digital Systems Design,Bradley Quinton,77,79.06493507,12.44602839,100.0,50.0,,,,,,,,,,,0,,,,6,,11,11,8,9,20,,,
+UBCV,2014,W,EECE,479,,201,Introduction to VLSI Systems,Bradley Quinton,79,74.32911392,12.67616532,99.0,40.0,,,,,,,,,,,,,7,,11,10,,9,14,11,7,,,
+UBCV,2016,W,EECE,579,,201,Advanced Topics in VLSI Design,Bradley Quinton,9,87.44444444,4.639803636,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,4,3,,,
+UBCV,2017,W,EECE,579,,201,Advanced Topics in VLSI Design,Bradley Quinton,10,87.8,4.613988393,94.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,3,4,,,
+UBCV,2019,W,CPEN,400,D,202,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Scott Chin,35,85.228571429,8.530518618,97.0,67.0,,,,,,,,,,,0,0,0,0,1,2,3,2,7,6,14,,,
+UBCV,2020,W,CPEN,400,D,106,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Scott Chin,71,88.690140845,7.916694024,99.0,51.0,,,,,,,,,,,0,1,0,0,1,0,1,4,7,21,36,,,
+UBCV,2020,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Bradley Quinton;Scott Chin,8,91.0,5.952190473,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,4,,,
+UBCV,2021,W,CPEN,400,D,106,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Jose Pinilla Gomez;Scott Chin,88,86.090909091,8.219176293,99.0,61.0,,,,,,,,,,,0,0,0,2,2,0,6,8,15,18,37,,,
+UBCV,2021,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Bradley Quinton;Scott Chin,12,92.5,4.400413204,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,8,,,
+UBCV,2021,W,CPEN,400,D,106,Topics in Computer Engineering,Scott Chin;Bradley Quinton,88,86.1,,99.0,61.0,,,,,,,,,,,,,,,,,6,8,15,18,37,88.0,93.0,82.0
+UBCV,2021,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Scott Chin;Bradley Quinton,12,92.5,,99.0,86.0,,,,,,,,,,,,,,,,,,,,,8,94.0,95.5,88.5
+UBCV,2022,W,CPEN,400,D,106,Topics in Computer Engineering,Scott Chin;Bradley Quinton,65,87.2,,99.0,64.0,,,,,,,,,,,0,0,0,0,1,3,3,6,9,14,29,89.0,94.0,82.0
+UBCV,2022,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Scott Chin;Bradley Quinton,7,88.4,,97.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,6,92.0,94.0,91.0
+UBCV,2023,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Scott Chin;Bradley Quinton,11,90.7,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5,92.0,93.0,88.0

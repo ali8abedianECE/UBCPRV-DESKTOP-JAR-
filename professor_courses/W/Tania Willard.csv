@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2017,W,VISA,482,,001,Advanced Art Practices I,Katherine Pickering;Myron Campbell;Tania Willard,20,76.1,7.517698416,87.0,57.0,0,0,1,0,2,2,3,4,5,3,0,,,
+UBCO,2017,W,VISA,483,,001,Advanced Art Practices II,Katherine Pickering;Myron Campbell;Tania Willard,20,73.15,19.219713016,90.0,0.0,1,0,0,2,1,3,3,3,2,4,1,,,
+UBCO,2018,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Tania Willard,9,89.111111111,4.51232879,94.0,78.0,0,0,0,0,0,0,0,1,0,2,6,,,
+UBCO,2019,W,CCS,150,,001,Creative and Critical Art Theory I,Lindsay Kirker;Lindsay Patricia Kirker;Samuel Roy-Bois;Tania Willard,44,88.318181818,4.532942611,96.0,70.0,0,0,0,0,0,1,0,0,3,23,17,,,
+UBCO,2019,W,CCS,250,,001,Creative and Critical Art Theory II,Lindsay Kirker;Lindsay Patricia Kirker;Samuel Roy-Bois;Tania Willard,31,87.774193548,7.631992651,96.0,54.0,0,1,0,0,0,0,0,1,3,11,15,,,
+UBCO,2019,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Tania Willard,8,86.125,2.295181288,88.0,82.0,0,0,0,0,0,0,0,0,2,6,0,,,
+UBCO,2020,W,CCS,150,,001,Creative and Critical Art Theory I,Brittany Anne Reitzel;Brittany Reitzel;Tania Willard,45,81.333333333,6.248636215,90.0,60.0,0,0,0,1,0,3,2,9,12,16,2,,,
+UBCO,2020,W,CCS,250,,001,Creative and Critical Art Theory II,Brittany Anne Reitzel;Brittany Reitzel;Katherine Pickering;Samuel Roy-Bois;Tania Willard,38,80.5,19.949598655,99.0,0.0,3,0,1,1,3,0,1,2,5,7,15,,,
+UBCO,2020,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Samuel Roy-Bois;Tania Willard,9,88.111111111,1.269295518,91.0,87.0,0,0,0,0,0,0,0,0,0,8,1,,,
+UBCO,2020,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Connor Charlesworth;Michaela Bridgemohan;Tania Willard,20,82.55,4.43045679,89.0,71.0,0,0,0,0,0,1,0,2,10,7,0,,,
+UBCO,2020,W,VISA,312,P,001,Advanced Practice in Painting,Patrick Lundeen;Tania Willard,17,87.588235294,2.575335501,91.0,82.0,0,0,0,0,0,0,0,0,2,10,5,,,
+UBCO,2020,W,VISA,336,P,001,Advanced Practice in Printmaking,Natasha Harvey;Tania Willard,14,84.285714286,5.440992153,94.0,78.0,0,0,0,0,0,0,0,4,3,4,3,,,
+UBCO,2021,S,CRWR,470,A,001,Portfolio,Kim Senklip Harvey;Tania Willard,7,91.0,2.0,93.0,88.0,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCO,2021,S,VISA,206,,001,Sound Art,Tania Willard,6,89.5,1.870828693,92.0,87.0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCO,2021,W,CCS,150,,001,Creative and Critical Art Theory I,Michaela Bridgemohan;Tania Willard,43,81.069767442,6.084309832,88.0,64.0,0,0,0,0,3,1,4,4,18,13,0,,,
+UBCO,2021,W,CCS,507,,001,M.F.A. Graduate Colloquium II,Denise Kenney;Tania Willard,9,89.777777778,1.201850425,92.0,88.0,0,0,0,0,0,0,0,0,0,4,5,,,
+UBCO,2021,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Connor Charlesworth;Tania Willard,21,78.714285714,12.178435274,92.0,32.0,1,0,0,0,1,1,0,5,9,3,1,,,
+UBCO,2021,W,VISA,482,,001,Advanced Art Practices I,Andreas Rutkauskas;Katherine Pickering;Renay Egami;Tania Willard,22,80.863636364,6.563212443,94.0,67.0,0,0,0,0,1,1,2,5,5,7,1,,,
+UBCO,2021,W,VISA,483,,001,Advanced Art Practices II,Andreas Rutkauskas;Katherine Pickering;Renay Egami;Tania Willard,22,80.590909091,7.805120974,90.0,63.0,0,0,0,1,0,3,1,4,4,7,2,,,
+UBCO,2021,S,CRWR,470,A,001,Portfolio,Kim Senklip Harvey;Tania Willard,7,91.0,,93.0,88.0,,,,,,,,,,,,92.0,92.5,89.5
+UBCO,2021,S,VISA,206,,001,Sound Art,Tania Willard,6,89.5,,92.0,87.0,,,,,,,,,,,,89.5,90.8,88.3
+UBCO,2021,W,VISA,482,,001,Advanced Art Practices I,Andreas Rutkauskas;Tania Willard,22,80.9,,94.0,67.0,,,,,,,,,,7,,80.5,86.5,77.0
+UBCO,2022,S,CRWR,470,A,001,Portfolio,Troy Sebastian;Tania Willard,8,85.6,,97.0,57.0,0,0,1,0,0,0,0,1,0,2,4,90.0,91.8,85.0
+UBCO,2022,S,VISA,460,L,001,Special Topics in Visual Art,Tania Willard,6,85.0,,90.0,78.0,0,0,0,0,0,0,0,1,1,3,1,86.0,87.5,83.0

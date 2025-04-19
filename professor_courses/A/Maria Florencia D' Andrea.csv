@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,DSCI,521,,001,Computing Platforms for Data Science,Abdul Muntakim Rafi;Joel Ostblom;Maria Florencia D' Andrea;Matthew Hoang Tu Nguyen;Michael Gelbart;Phan Anh Ngoc Bui;Pouya Ahmadvand;Shan Lu;Yi Xuan Qi;Yuxin Tian,149,94.187919463,3.684094974,100.0,78.0,0,0,0,0,0,0,0,2,1,9,137,,,
+UBCV,2021,W,DSCI,522,,001,Data Science Workflows,Abdul Muntakim Rafi;Eric Lee;Man Yeung Tai;Maria Florencia D' Andrea;Mohamad Amin Mohamadi;Peter Henry Gysbers;Qiuhan He;Tiffany Timbers,116,95.922413793,3.378064437,100.0,68.0,0,0,0,0,0,1,0,0,0,3,112,,,
+UBCV,2021,W,DSCI,524,,001,Collaborative Software Development,Eric Lee;Hossameldin Ibrahim Said Mohammed;Man Yeung Tai;Maria Florencia D' Andrea;Md Shahriar Rahim Siddiqui;Melika Farahani;Shan Lu;Tiffany Leung;Tiffany Timbers;Zac Warham,114,97.473684211,3.069145701,100.0,80.0,0,0,0,0,0,0,0,0,2,1,111,,,
+UBCV,2021,W,DSCI,532,,001,Data Visualization II,Andrew Li;Ishika Luthra;Joel Ostblom;Man Yeung Tai;Maria Florencia D' Andrea;Melika Farahani;Michael Gelbart;Pavan Khiani;Shan Lu;Shuyi Tan;Tiffany Leung,114,96.824561404,4.396792101,100.0,68.0,0,0,0,0,0,2,0,0,1,0,111,,,
+UBCV,2021,W,DSCI,521,,001,Computing Platforms for Data Science,Maria Florencia D' Andrea,149,94.2,,100.0,78.0,,,,,,,,,,9,137,95.0,97.0,93.0
+UBCV,2021,W,DSCI,522,,001,Data Science Workflows,Maria Florencia D' Andrea;Tiffany Timbers,116,95.9,,100.0,68.0,,,,,,,,,,,112,96.0,97.0,95.0
+UBCV,2021,W,DSCI,524,,001,Collaborative Software Development,Maria Florencia D' Andrea;Tiffany Timbers,114,97.5,,100.0,80.0,,,,,,,,,,,111,98.0,99.0,96.3
+UBCV,2021,W,DSCI,532,,001,Data Visualization II,Maria Florencia D' Andrea,114,96.8,,100.0,68.0,,,,,,,,,,,111,98.0,99.0,96.0
+UBCV,2021,W,DSCI,591,,001,Capstone Project,Giuseppe Carenini;Daniel Chen;Maria Florencia D' Andrea;Gittu George;Simon Goring;Varada Kolhatkar;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Arman Seyed-Ahmadi;Tiffany Timbers,114,89.3,,93.0,69.0,,,,,,,,,,39,68,90.0,91.0,88.0
+UBCV,2022,W,DSCI,521,,001,Computing Platforms for Data Science,Maria Florencia D' Andrea,115,92.6,,100.0,67.0,0,0,0,0,1,0,0,1,5,19,89,94.0,96.0,90.0
+UBCV,2022,W,DSCI,522,,001,Data Science Workflows,Maria Florencia D' Andrea,78,92.8,,98.0,76.0,0,0,0,0,0,0,0,2,1,7,68,93.0,95.0,92.0
+UBCV,2022,W,DSCI,524,,001,Collaborative Software Development,Daniel Chen;Maria Florencia D' Andrea,78,96.1,,100.0,68.0,0,0,0,0,0,1,0,0,1,1,75,97.0,99.0,95.0
+UBCV,2022,W,DSCI,532,,001,Data Visualization II,Maria Florencia D' Andrea,78,94.2,,99.0,70.0,0,0,0,0,0,1,0,0,1,4,72,95.0,96.0,93.0
+UBCV,2022,W,DSCI,591,,001,Capstone Project,Tomas Beuzen;Daniel Chen;Maria Florencia D' Andrea;Yulia Egorova;Gittu George;Simon Goring;Varada Kolhatkar;Rodolfo Lourenzutti;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis,78,89.2,,96.0,52.0,1,0,0,0,0,1,1,0,9,17,49,91.0,93.0,88.0

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,SPAN,101,,003,Beginners' Spanish I,Cristina Senn;Selena Clark,39,85.102564103,10.054574428,98.0,51.0,0,1,0,0,1,3,2,2,6,9,15,,,
+UBCO,2018,W,SPAN,101,,004,Beginners' Spanish I,Monica Good;Selena Clark,36,82.5,9.819805061,98.0,53.0,0,1,0,0,1,3,2,8,5,5,11,,,
+UBCO,2018,W,SPAN,102,,003,Beginners' Spanish II,Cristina Senn;Selena Clark,40,82.625,15.784912465,100.0,11.0,1,1,0,0,2,1,3,6,5,4,17,,,
+UBCO,2018,W,SPAN,102,,004,Beginners' Spanish II,Monica Good;Selena Clark,39,79.051282051,11.740502809,98.0,54.0,0,1,2,1,1,6,3,5,7,5,8,,,
+UBCO,2020,W,SPAN,101,,001,Beginners' Spanish I,Barbara Fraser;Selena Clark,32,75.25,19.082165293,97.0,5.0,3,0,1,0,5,1,5,3,3,3,8,,,
+UBCO,2020,W,SPAN,101,,002,Beginners' Spanish I,Cynthia Hernandez Garcia;Selena Clark,32,79.375,19.323644217,97.0,4.0,2,0,0,3,0,2,0,4,5,3,13,,,
+UBCO,2020,W,SPAN,101,,003,Beginners' Spanish I,Barbara Fraser;Selena Clark,30,80.233333333,14.521525837,98.0,30.0,1,0,3,1,0,0,0,2,8,9,6,,,
+UBCO,2020,W,SPAN,102,,001,Beginners' Spanish II,Cynthia Hernandez Garcia;Selena Clark,30,79.033333333,19.025361174,99.0,33.0,4,0,1,0,2,2,2,0,3,6,10,,,
+UBCO,2020,W,SPAN,102,,003,Beginners' Spanish II,Cristina Senn;Nicholas Kucher;Selena Clark,28,84.892857143,13.414583788,99.0,55.0,0,0,3,1,0,2,0,0,1,7,14,,,
+UBCO,2020,W,SPAN,202,,001,Advanced Beginners' Spanish II,Cynthia Hernandez Garcia;Selena Clark,32,79.03125,8.848124915,95.0,54.0,0,1,0,0,1,4,4,6,8,4,4,,,
+UBCO,2020,W,SPAN,202,,003,Advanced Beginners' Spanish II,Cynthia Hernandez Garcia;Selena Clark,33,80.96969697,8.483383937,99.0,61.0,0,0,0,1,1,2,3,6,12,4,4,,,
+UBCO,2021,W,APSC,201,,202,Technical Communication,Alon Eisenstein;Graeme Webb;Selena Clark,30,76.133333333,13.745803957,87.0,16.0,1,0,2,0,0,3,1,6,9,8,0,,,
+UBCO,2021,W,APSC,201,,208,Technical Communication,Alon Eisenstein;Laura Patterson;Selena Clark,27,81.777777778,9.459766355,90.0,46.0,1,0,0,0,1,0,2,3,4,11,5,,,
+UBCO,2023,W,SPAN,101,,005,Beginners' Spanish I,Selena Clark,33,96.53,,100.0,83.0,0,0,0,0,0,0,0,0,1,1,30,98.0,99.0,96.0

@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,EPSE,525,,074,STD IN SIGN LANG,"Russell, Debra",9,91.67,4.03,96,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,,,
+UBC,2006,W,EPSE,525,,074,STD IN SIGN LANG,"Russell, Debra",6,91.17,7.39,97,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,,,
+UBC,2007,W,EPSE,525,,074,STD IN SIGN LANG,"Russell, Debra",4,89.75,2.75,93,87,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2009,W,EPSE,525,,074,STD IN SIGN LANG,"Russell, Debra",13,93.23,4.32,100,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,,,
+UBC,2011,W,EPSE,525,,074,STD IN SIGN LANG,"Russell, Debra",11,92.82,4.71,98,81,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,,,
+UBC,2013,W,EPSE,525,,074,STD IN SIGN LANG,"McLaughlin, Joe;Russell, Debra",9,85.44,6.33,93,74,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,,,
+UBC,2015,W,EPSE,525,,074,STD IN SIGN LANG,"McLaughlin, Joe;Russell, Debra",11,87.8,8.43,97,72,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,6,,,
+UBC,2017,W,EPSE,525,,075,STD IN SIGN LANG,"McLaughlin, Joe;Russell, Debra",9,92.56,6.6,99,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,7,,,
+UBCV,2015,W,EPSE,525,,074,Studies in Sign Language,Debra Russell;Joe Mclaughlin,10,87.8,8.430104784,97.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,,6,,,
+UBCV,2017,W,EPSE,525,,075,Studies in Sign Language,Debra Russell;Joe Mclaughlin,9,92.555555556,6.597558471,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,0,7,,,
+UBCV,2021,S,EPSE,525,,951,Studies in Sign Language,Debra Russell;Joe Mclaughlin,8,84.5,9.289010404,93.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,2,3,,,
+UBCV,2021,S,EPSE,525,,951,Studies in Sign Language,Joe Mclaughlin;Debra Russell,8,84.5,,93.0,64.0,,,,,,,,,,,,,,,,,,,,,,86.5,91.0,82.5

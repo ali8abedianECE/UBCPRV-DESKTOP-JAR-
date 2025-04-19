@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,HKIN,284,,001,PHY GRW&MTR DEVL,"Hodges, Nicola",118,70.15,9.9,90,42,116,1,0,1,0,0,0,0,0,1,1,6,12,10,19,14,13,20,14,7,1,,,
+UBC,2005,W,HKIN,570,,001,RES MTHDS HKIN,"Hodges, Nicola",8,84,6.3,91,71,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,2,,,
+UBC,2006,W,HKIN,284,,001,PHY GRW&MTR DEVL,"Hodges, Nicola",121,72.57,8.17,91,50,121,0,0,0,0,0,0,0,0,0,0,3,4,13,12,21,22,22,17,5,2,,,
+UBC,2006,W,HKIN,570,,001,RES MTHDS HKIN,"Hodges, Nicola",8,84.88,10.71,93,60,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,4,,,
+UBC,2007,W,HKIN,570,,001,RES MTHDS HKIN,"Hodges, Nicola",14,89.07,3.91,94,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,8,,,
+UBC,2010,W,HKIN,570,,001,RES MTHDS HKIN,"Hodges, Nicola",13,89.38,2.79,94,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,,,
+UBC,2011,W,HKIN,570,,001,RES MTHDS HKIN,"Hodges, Nicola",8,87.88,8.29,100,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,4,,,
+UBCV,2014,W,KIN,570,,001,Research Methods in Kinesiology,Nicola Hodges,22,85.68181818,4.893011183,94.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,5,12,,,,
+UBCV,2015,W,KIN,230,,001,Human Motor Behaviour I,Nicola Hodges,149,71.436241611,10.623356565,95.0,46.0,,,,,,,,,,,,7,10,19,13,20,21,17,17,19,,,,
+UBCV,2015,W,KIN,567,,001,Human Motor Performance,Nicola Hodges,12,81.416666667,5.534328133,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,5,,,,,,
+UBCV,2015,W,KIN,570,,001,Research Methods in Kinesiology,Nicola Hodges,16,87.9375,4.202677718,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,7,,,
+UBCV,2016,W,KIN,230,,001,Human Motor Behaviour I,Nicola Hodges,154,74.50649351,13.21033798,98.0,23.0,,,,,,,,,,,5,8,12,8,14,7,19,16,25,22,18,,,
+UBCV,2016,W,KIN,567,,001,Human Motor Performance,Nicola Hodges,9,86.22222222,4.841946349,92.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,4,3,,,
+UBCV,2016,W,KIN,570,,001,Research Methods in Kinesiology,Nicola Hodges,17,90.0,2.936835031,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,9,,,
+UBCV,2017,W,KIN,230,,001,Human Motor Behaviour I,Nicola Hodges,151,71.496688742,10.541267585,96.0,42.0,,,,,,,,,,,1,7,8,22,17,17,26,18,19,5,11,,,
+UBCV,2017,W,KIN,567,,001,Human Motor Performance,Nicola Hodges,6,82.5,4.888762625,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,3,0,,,
+UBCV,2017,W,KIN,570,,001,Research Methods in Kinesiology,Nicola Hodges,13,84.230769231,6.533935085,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,5,0,5,,,
+UBCV,2018,W,KIN,230,,001,Human Motor Behaviour I,Brennan Chan;Elizabeth Buckler;Elizabeth Jean Buckler;Nicola Hodges,136,72.147058824,13.368026759,95.0,10.0,,,,,,,,,,,4,10,13,5,14,11,15,14,26,13,11,,,
+UBCV,2018,W,KIN,570,,001,Research Methods in Kinesiology,Carolyn Mcewen;Nicola Hodges,10,89.6,6.432556084,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,1,7,,,
+UBCV,2019,W,KIN,230,,001,Human Motor Behaviour I,Michael Amen Singh Dhaliwal;Michael Dhaliwal;Miriam Tremblay;Myriam Tremblay;Nicola Hodges;Romeo Chua,152,82.927631579,9.139900135,99.0,46.0,,,,,,,,,,,1,0,2,2,4,3,20,19,25,32,44,,,
+UBCV,2020,W,KIN,120,,L1C,Health and Exercise Management,Maria Gallo;Nicola Hodges;Nilanga Aki Bandara;Shauna Pearce,47,71.957446809,10.20007981,85.0,31.0,,,,,,,,,,,1,0,2,5,6,9,4,3,16,1,0,,,
+UBCV,2020,W,KIN,132,,L1A,Systems Physiology II,Jasmine Gill;Nicola Hodges;Robert Langill;Sobhan Mardan-Dezfouli;Viviana Shiffman,36,84.055555556,8.522053557,97.0,58.0,,,,,,,,,,,0,0,1,1,0,1,0,6,9,7,11,,,
+UBCV,2020,W,KIN,211,,001,Human Motor Behaviour I,Carrie Marie Peters;Michael Dhaliwal;Nicola Hodges;Romeo Chua,213,80.488262911,9.919301904,99.0,48.0,,,,,,,,,,,1,1,4,9,6,16,18,34,45,29,50,,,
+UBCV,2020,W,KIN,567,,001,Human Motor Performance,Nicola Hodges,12,88.083333333,3.117642855,94.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,4,,,
+UBCV,2021,W,KIN,211,,001,Human Motor Behaviour I,Carrie Marie Peters;Kuan-Der Gary Chen;Nicola Hodges,145,77.662068966,11.391529925,97.0,27.0,,,,,,,,,,,1,2,7,6,12,11,18,15,29,21,23,,,
+UBCV,2021,W,KIN,211,,002,Human Motor Behaviour I,Carrie Marie Peters;Grant Phillips-Hing;Nicola Hodges,119,73.915966387,12.415531438,94.0,36.0,,,,,,,,,,,7,1,4,10,9,18,12,11,19,15,13,,,
+UBCV,2022,W,KIN,211,,001,Human Motor Behaviour I,Nicola Hodges,119,76.5,,94.0,42.0,,,,,,,,,,,1,0,6,9,10,8,15,15,24,18,13,78.0,85.0,69.0
+UBCV,2022,W,KIN,211,,002,Human Motor Behaviour I,Nicola Hodges,133,73.5,,98.0,50.0,,,,,,,,,,,0,6,10,16,14,13,12,18,11,18,15,74.0,83.0,64.0
+UBCV,2023,W,KIN,211,,001,Human Motor Behaviour I,Nicola Hodges,120,77.3,,100.0,46.0,,,,,,,,,,,1,2,5,5,7,9,16,21,18,20,15,78.0,85.0,72.0
+UBCV,2023,W,KIN,211,,002,Human Motor Behaviour I,Nicola Hodges,128,78.6,,100.0,40.0,,,,,,,,,,,2,1,5,2,12,14,13,17,17,14,30,78.0,88.0,70.0

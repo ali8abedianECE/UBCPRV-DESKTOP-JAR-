@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2018,W,COSC,221,,101,Introduction to Discrete Structures,Chaoping Guo;Karla Lugo Baez;Yong Gao,119,74.369747899,11.710393432,98.0,31.0,2,3,3,17,5,18,10,18,23,9,11,,,
+UBCO,2018,W,COSC,222,,001,Data Structures,Anupreet Januhen;Chaoping Guo;Kai Neubauer;Mayeesha Mariam;Yves Lucet,150,80.366666667,10.400965796,95.0,36.0,6,0,0,3,5,6,9,19,43,40,19,,,
+UBCO,2018,W,COSC,223,,001,"Principle of Computing: Logic, Discrete Structure, and Data Structure",Chaoping Guo;Deepak Kumar;Yves Lucet;Zhenyuan Ma,17,83.176470588,7.282129617,95.0,68.0,0,0,0,0,0,2,1,0,7,4,3,,,
+UBCO,2019,S,COSC,211,,001,Machine Architecture,Billy Spelchan;Bohan Gao;Chaoping Guo;Scott Fazackerley,30,72.433333333,16.378462168,96.0,24.0,3,0,2,2,2,4,4,1,5,4,3,,,
+UBCO,2019,S,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Chaoping Guo,19,70.894736842,12.714360808,95.0,45.0,2,0,0,2,3,0,4,4,3,0,1,,,
+UBCO,2019,W,COSC,301,,101,Introduction to Data Analytics,Barret Jackson;Billy Spelchan;Chaoping Guo;Congsong Zhang;Irene Vrbik;Kyle Ranslam;Nusrat Momo;Ramon Lawrence;Roozbeh Eslami;Zhenyuan Ma,71,82.211267606,12.744652092,99.0,50.0,0,2,1,4,5,3,6,7,8,5,30,,,
+UBCO,2019,W,COSC,304,,001,Introduction to Databases,Chaoping Guo;Congsong Zhang;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Ramon Lawrence;Roozbeh Eslami,197,79.253807107,13.0030039,100.0,3.0,5,4,1,6,8,14,19,30,45,29,36,,,
+UBCO,2019,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Billy Spelchan;Chaoping Guo;Congsong Zhang;Khandoker Ayman;Khandoker Md Ayman,83,72.614457831,14.508896619,100.0,22.0,4,3,3,4,11,11,9,11,12,9,6,,,
+UBCO,2019,W,COSC,507,,101,Parallel Computing,Abdallah Mohamed;Billy Spelchan;Chaoping Guo;Congsong Zhang;Khandoker Ayman;Khandoker Md Ayman,8,86.875,5.667892024,96.0,76.0,0,0,0,0,0,0,0,1,0,5,2,,,
+UBCO,2019,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Brooke Kwan;Chaoping Guo;Hui Ouyang;Jeewon Yoo;Patrick Nadeau;Pinku Nath,39,66.820512821,22.434550181,95.0,0.0,6,1,4,2,3,1,4,6,4,5,3,,,
+UBCO,2019,W,STAT,124,,101,Business Statistics,Biswapriyo Chakrabarty;Chaoping Guo;Hong-Anh Tran;Hyolim Lee;Jakob Thoms;Khandoker Ayman;Khandoker Md Ayman;Lengyi Han;Marjan Yaghoubi;Pinku Nath;Pradeep Mahato;Quincy Ngo;Roozbeh Eslami;Stephanie Awotwi-Pratt;Tyler David Weames;Tyler Weames,145,76.386206897,12.378961884,100.0,12.0,3,2,1,10,8,20,18,25,17,26,15,,,
+UBCO,2022,W,COSC,111,,003,Computer Programming I,Chaoping Guo,93,70.8,,100.0,2.0,19,1,4,5,9,7,2,7,11,11,17,75.0,87.0,58.0

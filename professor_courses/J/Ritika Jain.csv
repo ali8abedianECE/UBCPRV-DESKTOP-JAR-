@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,CPSC,404,,101,Advanced Relational Databases,Georgios Tsiknis;Mohammadhossein Hadadianpour;Ritika Jain,69,80.811594203,13.2723456,99.0,12.0,,,,5,2,4,5,8,9,11,23
+UBCV,2015,W,CPSC,404,,201,Advanced Relational Databases,Georgios Tsiknis;Mohammadhossein Hadadianpour;Ritika Jain,117,80.769230769,10.494156515,98.0,38.0,,,,2,8,8,8,10,28,23,26
+UBCV,2016,S,CPSC,213,,921,Introduction to Computer Systems,Ahmed Awad;Behrooz Sepehry;Bei Yuan Zhang;Bei Zhang;Bin Chen;Coulter Beeson;Coulter Donald Beeson;Jeong Hun Sun;Jianjun Liu;Jonathan Budiardjo;Jordon Johnson;Ksenia Pinski;Ritika Jain;Tracey Lui;Wali Ahmed Usmani;Xin Yu Yuan;Zipeng Liu;Zixuan Yin,132,79.03787879,11.6811359,100.0,31.0,1,0,5,8,7,11,14,17,29,17,23
+UBCV,2016,W,CPSC,340,,201,Machine Learning and Data Mining,Bita Nejat;Issam Hadj Laradji;Michael Gelbart;Ritika Jain;Tian Qi Chen;Wenyi Wang,114,75.09649123,11.2556529,99.0,38.0,1,4,8,4,4,17,20,14,17,12,13

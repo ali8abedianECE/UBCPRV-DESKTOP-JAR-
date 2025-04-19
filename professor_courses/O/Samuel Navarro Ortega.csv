@@ -1,0 +1,54 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,SPAN,302,,201,ADVANCED SPAN II,"Navarro Ortega, Samuel",20,79.26,4.91,89,72,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,5,3,0
+UBC,2007,W,SPAN,302,,202,ADVANCED SPAN II,"Navarro Ortega, Samuel",23,75.95,6.03,85,62,22,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,5,7,4,2,0
+UBC,2007,W,SPAN,402,,101,ADVANCD SPAN III,"Navarro Ortega, Samuel",36,77.34,9.39,93,55,35,0,1,0,0,0,0,0,0,0,0,0,2,2,0,4,3,11,3,7,3
+UBC,2007,W,SPAN,550,A,101,PEN&LAT AM L&LIT,"Navarro Ortega, Samuel",9,87.11,6.23,94,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,3
+UBC,2010,W,FREN,578,A,101,ROMANCE PHILOLGY,"Navarro Ortega, Samuel",4,84.25,4.11,88,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0
+UBC,2010,W,SPAN,201,,103,INTERMED SPAN I,"Navarro Ortega, Samuel",37,71.19,11.59,92,48,34,2,1,0,0,0,0,0,0,2,2,2,2,4,3,5,5,3,5,4,1
+UBC,2010,W,SPAN,202,,201,INTERMED SPAN II,"Navarro Ortega, Samuel",28,70.63,11.27,90,40,26,1,1,0,0,0,0,0,0,1,1,0,3,3,1,8,1,3,5,1,1
+UBC,2010,W,SPAN,207,,202,CONVERS SPAN II,"Navarro Ortega, Samuel",19,78.29,8.02,94,68,17,0,2,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3,2,4,1
+UBC,2010,W,SPAN,550,,101,PEN&LAT AM L&LIT,"Navarro Ortega, Samuel",8,84.88,4.73,90,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,2
+UBC,2011,S,SPAN,201,,922,INTERMED SPAN I,"Navarro Ortega, Samuel",13,76.17,10.62,93,58,12,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,2,1,1,1,2
+UBC,2011,W,FREN,578,A,101,ROMANCE PHILOLGY,"Navarro Ortega, Samuel",4,82,4.76,87,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+UBC,2011,W,SPAN,402,,201,ADVANCD SPAN III,"Navarro Ortega, Samuel",23,74.09,12.05,92,50,23,0,0,0,0,0,0,0,0,0,0,1,3,2,1,1,3,3,4,3,2
+UBC,2011,W,SPAN,550,B,101,PEN&LAT AM L&LIT,"Navarro Ortega, Samuel",7,83.83,5.64,92,78,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1
+UBC,2012,S,SPAN,450,B,921,TOPICS IN SPAN,"Navarro Ortega, Samuel",13,80.58,8.3,93,67,12,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,1,2,2
+UBC,2012,W,SPAN,206,,104,CONVERS SPAN I,"Navarro Ortega, Samuel",23,82.61,7.39,93,70,18,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,4,2,2,6,3
+UBC,2012,W,SPAN,450,D,201,TOPICS IN SPAN,"Navarro Ortega, Samuel",17,81.18,6.02,90,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,4,5,1
+UBC,2013,S,SPAN,450,B,921,TOPICS IN SPAN,"Navarro Ortega, Samuel",4,90,2.94,93,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2013,W,SPAN,308,,101,BUSINESS SPANISH,"Navarro Ortega, Samuel",12,81.58,4.08,90,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,1,1
+UBC,2013,W,SPAN,402,,101,ADVANCD SPAN III,"Navarro Ortega, Samuel",20,79.4,8.41,92,59,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,4,4,4,2
+UBC,2014,S,SPAN,201,,921,INTERMED SPAN I,"Navarro Ortega, Samuel",32,74,18.15,94,0,24,1,1,1,0,1,0,0,0,0,1,1,0,1,2,2,4,5,3,3,3
+UBC,2014,W,FREN,578,B,201,ROMANCE PHILOLGY,"Navarro Ortega, Samuel",4,92.75,2.22,95,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2014,W,SPAN,102,,901,BEGINNER SPAN II,"Navarro Ortega, Samuel",24,77.09,20.34,96,0,22,1,1,0,0,1,0,0,0,0,1,1,0,2,0,0,5,1,2,4,7
+UBC,2014,W,SPAN,202,,205,INTERMED SPAN II,"Navarro Ortega, Samuel",29,76.52,12.02,96,41,28,1,0,0,0,0,0,0,0,1,1,0,1,2,1,3,5,6,1,5,4
+UBC,2014,W,SPAN,402,,101,ADVANCD SPAN III,"Navarro Ortega, Samuel",18,81.41,6.38,92,70,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,4,1
+UBC,2015,W,FREN,578,B,101,ROMANCE PHILOLGY,"Navarro Ortega, Samuel",7,87,6.87,94,78,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,3
+UBC,2015,W,SPAN,101,,108,BEGINNER SPAN I,"Navarro Ortega, Samuel",35,75.94,13.19,94,33,32,1,2,0,0,0,0,0,1,0,1,1,1,2,0,5,4,6,4,3,6
+UBC,2015,W,SPAN,402,,101,ADVANCD SPAN III,"Navarro Ortega, Samuel",15,78,15.31,91,44,11,1,3,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,3,4,1
+UBC,2016,W,SPAN,101,,901,BEGINNER SPAN I,"Navarro Ortega, Samuel",29,75.56,16.2,95,34,25,2,2,0,0,0,0,0,1,1,2,1,1,2,2,2,1,2,3,6,5
+UBC,2016,W,SPAN,102,,209,BEGINNER SPAN II,"Navarro Ortega, Samuel",14,74.69,11.34,95,54,13,0,1,0,0,0,0,0,0,0,0,1,0,2,0,1,2,2,4,0,1
+UBC,2016,W,SPAN,102,,901,BEGINNER SPAN II,"Navarro Ortega, Samuel",19,73,12.78,96,50,18,0,0,0,0,0,0,0,0,0,0,2,1,0,1,3,5,1,2,1,2
+UBC,2016,W,SPAN,308,,101,BUSINESS SPANISH,"Navarro Ortega, Samuel",20,78.68,9.66,91,51,19,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,6,3,3,2
+UBC,2017,W,FREN,512,A,201,LIT CRITICISM,"Navarro Ortega, Samuel",6,89.83,4.45,97,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2017,W,SPAN,101,,901,BEGINNER SPAN I,"Navarro Ortega, Samuel",34,69.61,22.82,98,0,27,4,1,1,0,1,0,1,2,0,4,2,1,1,4,1,3,2,5,3,5
+UBC,2017,W,SPAN,411,,101,HISPANIC LINGUIS,"Navarro Ortega, Samuel",26,74.32,20.95,89,0,23,2,1,0,0,1,0,1,0,0,2,1,0,0,1,1,2,3,7,8,0
+UBC,2017,W,SPAN,501,A,201,TH APPR LIT,"Navarro Ortega, Samuel",10,90.8,3.58,97,87,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4
+UBCV,2014,S,SPAN,201,,921,Intermediate Spanish I,Samuel Navarro Ortega,30,72.93333333,16.80093046,94.0,0.0,,,,,,,,,,,,,,,,,,6,,,
+UBCV,2014,W,SPAN,102,,901,Beginners' Spanish II,Samuel Navarro Ortega,23,77.08695652,20.34232722,96.0,0.0,,,,,,,,,,,,,,,,,5,,,,7
+UBCV,2014,W,SPAN,202,,205,Intermediate Spanish II,Samuel Navarro Ortega,29,76.51724138,12.02265923,96.0,41.0,,,,,,,,,,,,,,,,,5,6,,5,
+UBCV,2014,W,SPAN,402,,101,Advanced Spanish III,Samuel Navarro Ortega,17,81.41176471,6.384148568,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,5,,
+UBCV,2015,W,FREN,578,B,101,Studies in Romance Philology,Samuel Navarro Ortega,6,87.0,6.870225615,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,SPAN,101,,108,Beginners' Spanish I,Samuel Navarro Ortega,33,75.939393939,13.193131248,94.0,33.0,,,,,,,,,,,,,,,,5,,6,,,6
+UBCV,2015,W,SPAN,402,,101,Advanced Spanish III,Samuel Navarro Ortega,12,78.0,15.308939753,91.0,44.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,SPAN,101,,901,Beginners' Spanish I,Samuel Navarro Ortega,27,75.55555556,16.19670748,95.0,34.0,,,,,,,,,,,2,1,1,2,2,2,1,2,3,6,5
+UBCV,2016,W,SPAN,102,,209,Beginners' Spanish II,Samuel Navarro Ortega,13,74.69230769,11.33861114,95.0,54.0,,,,,,,,,,,0,1,0,2,0,1,2,2,4,0,1
+UBCV,2016,W,SPAN,102,,901,Beginners' Spanish II,Samuel Navarro Ortega,19,73.73684211,12.83156743,96.0,50.0,,,,,,,,,,,0,2,1,0,1,3,5,1,2,2,2
+UBCV,2016,W,SPAN,308,,101,Spanish for Business,Samuel Navarro Ortega,20,77.95,9.955030466,91.0,51.0,,,,,,,,,,,0,1,0,0,2,1,2,6,3,3,2
+UBCV,2017,S,SPAN,101,,921,Beginners' Spanish I,Iris Escuer Riera;Samuel Navarro Ortega,32,75.25,9.418581497,94.0,61.0,,,,,,,,,,,0,0,0,6,2,4,3,4,6,5,2
+UBCV,2017,W,FREN,512,A,201,Studies in Literary Criticism,Samuel Navarro Ortega,6,89.833333333,4.44597196,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,3
+UBCV,2017,W,LING,270,,002,Introduction to Studies in Second Language Acquisition,Samuel Navarro Ortega;Strang Burton,27,78.185185185,9.173695829,94.0,61.0,,,,,,,,,,,0,0,0,3,1,2,1,8,5,5,2
+UBCV,2017,W,SPAN,101,,901,Beginners' Spanish I,Samuel Navarro Ortega,32,69.25,22.547441025,98.0,0.0,,,,,,,,,,,4,2,2,1,4,1,3,2,5,3,5
+UBCV,2017,W,SPAN,411,,101,Hispanic Linguistics,Samuel Navarro Ortega,25,74.32,20.947792246,89.0,0.0,,,,,,,,,,,2,1,0,0,1,1,2,3,7,8,0
+UBCV,2017,W,SPAN,501,A,201,Theoretical Approaches to Literature,Samuel Navarro Ortega,10,90.8,3.583914682,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,4
+UBCV,2018,W,LING,270,,002,Introduction to Studies in Second Language Acquisition,Claire Moore-Cantwell;Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Samuel Navarro Ortega,28,88.035714286,14.803608526,99.0,33.0,,,,,,,,,,,2,0,0,0,0,0,0,2,1,4,19

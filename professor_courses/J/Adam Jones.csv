@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,POLI,222,,001,International Politics II,Adam Jones;Amy Mccroy,89,66.97752809,18.56008518,92.0,0.0,7,,,6,8,18,17,14,6,5,,,,
+UBCO,2014,W,POLI,391,D,001,Special Topics in Political Science,Adam Jones,40,80.925,6.027235196,90.0,65.0,0,0,0,0,,,,8,14,9,,,,
+UBCO,2015,W,POLI,222,,001,International Politics II,Adam Jones;Andrew Geistlinger,53,65.924528302,17.258051696,90.0,0.0,,,,8,7,,8,,7,,,,,
+UBCO,2015,W,POLI,372,,001,Gender and International Relations,Adam Jones,46,73.956521739,21.53235965,93.0,0.0,,,,,,,,5,5,12,7,,,
+UBCO,2015,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,47,77.872340426,8.445778522,95.0,60.0,0,0,0,,,,6,8,12,7,,,,
+UBCO,2015,W,POLI,435,,001,International Politics on Film,Adam Jones,29,73.965517241,23.039535521,93.0,7.0,,,,,,,,,7,6,6,,,
+UBCO,2016,W,POLI,222,,001,International Politics II,Adam Jones;Blake Allen,93,71.65591398,16.02884263,92.0,0.0,4,4,3,6,6,15,10,17,13,9,6,,,
+UBCO,2016,W,POLI,317,,001,Politics of sub-Saharan Africa,Adam Jones,46,79.7826087,11.6082596,93.0,33.0,1,2,0,0,1,2,3,6,14,9,8,,,
+UBCO,2016,W,POLI,383,,001,Crimes Against Humanity,Adam Jones,50,83.7,6.178468207,93.0,67.0,0,0,0,0,1,1,3,4,15,15,11,,,
+UBCO,2016,W,POLI,464,D,001,Problems in International Relations: Seminar,Adam Jones,32,79.65625,20.77779425,96.0,5.0,2,0,0,1,0,1,0,2,8,9,9,,,
+UBCO,2017,W,POLI,222,,101,International Politics II,Adam Jones;Natalia Penuela Gallo,73,74.164383562,10.276745187,90.0,28.0,2,2,1,2,4,11,12,16,16,6,1,,,
+UBCO,2017,W,POLI,391,F,001,Special Topics in Political Science,Adam Jones,38,81.421052632,8.025740949,93.0,50.0,0,1,0,0,1,1,4,2,13,11,5,,,
+UBCO,2017,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones,36,80.444444444,6.48269981,92.0,68.0,0,0,0,0,0,2,9,3,10,8,4,,,
+UBCO,2017,W,POLI,435,,001,International Politics on Film,Adam Jones,44,81.931818182,7.085516598,93.0,50.0,0,1,0,0,0,0,2,10,15,10,6,,,
+UBCO,2017,W,POLI,464,D,101,Problems in International Relations: Seminar,Adam Jones,25,84.32,4.723346271,92.0,72.0,0,0,0,0,0,0,1,1,11,7,5,,,
+UBCO,2018,W,POLI,222,,101,International Politics II,Adam Jones;Natalia Penuela Gallo;Noelle Viger,89,72.719101124,15.992888167,94.0,0.0,5,0,0,4,5,16,21,8,15,12,3,,,
+UBCO,2018,W,POLI,372,,001,Gender and International Relations,Adam Jones,46,82.847826087,5.625210678,94.0,71.0,0,0,0,0,0,1,3,12,12,12,6,,,
+UBCO,2018,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,46,81.195652174,7.066728192,92.0,50.0,0,1,0,0,0,1,3,13,10,15,3,,,
+UBCO,2018,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones,44,76.954545455,17.930037867,92.0,0.0,2,0,0,0,0,4,5,6,16,8,3,,,
+UBCO,2019,W,IGS,588,,101,Global Studies Panorama,Adam Jones,8,89.5,2.0,91.0,86.0,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCO,2019,W,POLI,222,,101,International Politics II,Adam Jones;John Ward,112,77.919642857,13.539490717,91.0,0.0,4,0,0,0,1,9,13,11,49,22,3,,,
+UBCO,2019,W,POLI,323,,001,South Asian Government and Politics,Adam Jones,45,80.422222222,7.984328084,92.0,57.0,0,0,1,1,1,4,3,7,12,10,6,,,
+UBCO,2019,W,POLI,383,,001,Crimes Against Humanity,Adam Jones;John Ward,47,82.170212766,10.873420223,91.0,23.0,1,0,0,0,1,2,4,3,10,19,7,,,
+UBCO,2020,S,POLI,382,,101,Genocide: An Interdisciplinary Perspective,Adam Jones;John Ward,49,81.897959184,12.369729346,98.0,17.0,1,0,0,1,1,2,3,6,10,14,11,,,
+UBCO,2020,W,IGS,588,,101,Global Studies Panorama,Adam Jones;Manfred Elfstrom,8,86.875,4.642582409,95.0,81.0,0,0,0,0,0,0,0,0,2,4,2,,,
+UBCO,2020,W,POLI,222,,101,International Politics II,Adam Jones;Amanda Shatzko;Halina Sapeha;Saifullah Mahfuz,63,80.492063492,7.528168641,96.0,55.0,0,0,2,0,0,3,6,13,22,11,6,,,
+UBCO,2020,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones;John Ward,49,85.081632653,6.483429952,98.0,65.0,0,0,0,0,1,2,0,5,12,17,12,,,
+UBCO,2020,W,POLI,391,G,001,Special Topics in Political Science,Adam Jones;John Ward,49,82.265306122,7.675109962,93.0,60.0,0,0,0,2,0,3,4,6,10,16,8,,,
+UBCO,2021,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones;John Ward,75,79.453333333,12.183610317,94.0,0.0,1,1,0,1,1,5,10,11,20,17,8,,,
+UBCO,2021,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones;John Ward,39,76.487179487,18.495905372,92.0,0.0,3,0,0,2,1,4,1,3,8,11,6,,,
+UBCO,2021,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,75,79.5,,94.0,0.0,,,,,,,10,11,20,17,8,82.0,86.0,75.5
+UBCO,2021,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones,39,76.5,,92.0,0.0,,,,,,,,,8,11,6,82.0,87.0,72.0
+UBCO,2022,W,POLI,372,,001,Gender and International Relations,Adam Jones,43,79.2,,93.0,21.0,1,0,0,3,1,2,5,5,7,15,4,81.0,87.0,75.0
+UBCO,2022,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,40,82.2,,95.0,60.0,0,0,0,1,0,1,4,5,11,16,2,83.5,86.3,79.0
+UBCO,2022,W,POLI,382,,101,Genocide: An Interdisciplinary Perspective,Adam Jones,38,81.2,,93.0,68.0,0,0,0,0,0,4,4,3,14,11,2,82.0,86.0,78.0
+UBCO,2022,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones,27,75.4,,91.0,0.0,2,1,1,0,1,1,1,2,6,11,1,83.0,86.0,76.0
+UBCO,2023,W,POLI,372,,101,Gender and International Relations,Adam Jones,39,79.8,,94.0,15.0,2,0,0,0,1,3,0,5,5,14,8,85.0,87.0,78.3
+UBCO,2023,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,38,80.2,,93.0,58.0,0,0,1,0,1,3,4,4,15,3,6,81.0,84.0,76.0
+UBCO,2023,W,POLI,382,,101,Genocide: An Interdisciplinary Perspective,Adam Jones,27,79.2,,91.0,60.0,0,0,0,2,0,2,2,6,6,6,2,80.0,85.0,76.3
+UBCO,2023,W,POLI,391,G,001,Special Topics in Political Science,Adam Jones,40,83.8,,94.0,72.0,0,0,0,0,0,0,2,5,10,18,5,85.0,86.3,81.0

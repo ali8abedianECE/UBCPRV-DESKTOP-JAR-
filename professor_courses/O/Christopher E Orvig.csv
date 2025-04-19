@@ -1,0 +1,71 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CHEM,435,,188,BIO-INORGANIC,"Orvig, Christopher E",6,81.83,8.13,91,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,1
+UBC,2002,W,CHEM,526,,188,BIOINORGANC CHEM,"Orvig, Christopher E",5,88.4,7.5,92,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+UBC,2002,W,CHEM,528,,101,SYM & MLCR SPEC,"Orvig, Christopher E;Wolf, Michael",10,84.2,3.58,90,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,1
+UBC,2002,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",23,83,2.83,85,81,2,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+UBC,2002,W,CHEM,549,,101,MASTERS THESIS,"Orvig, Christopher E",8,83.5,3.45,87,77,6,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0
+UBC,2002,W,CHEM,549,,201,MASTERS THESIS,"Orvig, Christopher E",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,CHEM,649,,001,PHD THESIS,"Orvig, Christopher E",85,,,,,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,CHEM,649,,101,PHD THESIS,"Orvig, Christopher E",14,,,,,0,0,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2002,W,CHEM,649,,201,PHD THESIS,"Orvig, Christopher E",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,CHEM,435,,188,BIO-INORGANIC,"Orvig, Christopher E",9,78.22,12.08,92,55,9,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,1,3,1
+UBC,2003,W,CHEM,526,,188,BIOINORGANC CHEM,"Orvig, Christopher E",8,87.25,3.01,90,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,1
+UBC,2003,W,CHEM,528,,101,SYM & MLCR SPEC,"Orvig, Christopher E;Wolf, Michael",19,77.16,10.24,92,60,19,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,3,0,5,3,2
+UBC,2003,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",28,86,5.66,90,82,2,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+UBC,2003,W,CHEM,549,,101,MASTERS THESIS,"Orvig, Christopher E",8,78.75,7.41,87,72,4,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0
+UBC,2003,W,CHEM,649,,001,PHD THESIS,"Orvig, Christopher E",117,,,,,0,0,1,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,CHEM,649,,101,PHD THESIS,"Orvig, Christopher E",9,,,,,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2003,W,CHEM,649,,201,PHD THESIS,"Orvig, Christopher E",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CHEM,121,,101,STRUCTURAL CHEM,"Orvig, Christopher E",233,67.76,11.71,92,44,202,28,2,0,1,0,0,0,0,28,28,1,20,26,19,46,25,24,27,12,2
+UBC,2005,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",29,,,,,0,0,1,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CHEM,549,,101,MASTERS THESIS,"Orvig, Christopher E",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CHEM,649,,001,PHD THESIS,"Orvig, Christopher E",127,,,,,0,0,1,0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CHEM,649,,101,PHD THESIS,"Orvig, Christopher E",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,CHEM,649,,201,PHD THESIS,"Orvig, Christopher E",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",32,,,,,0,0,1,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CHEM,549,,101,MASTERS THESIS,"Orvig, Christopher E",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CHEM,649,,001,PHD THESIS,"Orvig, Christopher E",134,,,,,0,0,2,0,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,CHEM,649,,101,PHD THESIS,"Orvig, Christopher E",14,,,,,0,0,1,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CHEM,435,,111,BIO-INORGANIC,"Orvig, Christopher E",11,83.55,6.15,91,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,2,3
+UBC,2007,W,CHEM,526,,111,BIOINORGANC CHEM,"Orvig, Christopher E",11,86.6,5.04,92,74,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6,3
+UBC,2007,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",35,,,,,0,0,1,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CHEM,649,,001,DOC DISSERTATION,"Orvig, Christopher E",135,,,,,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,CHEM,649,,101,DOC DISSERTATION,"Orvig, Christopher E",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CHEM,435,,209,BIO-INORGANIC,"Orvig, Christopher E",23,79.05,7.69,92,60,20,0,3,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,6,5,1
+UBC,2009,W,CHEM,526,,209,BIOINORGANC CHEM,"Orvig, Christopher E",9,86.75,5.2,93,80,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4
+UBC,2009,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CHEM,649,,001,DOC DISSERTATION,"Orvig, Christopher E",148,,,,,0,0,1,0,147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,CHEM,649,,101,DOC DISSERTATION,"Orvig, Christopher E",10,,,,,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CHEM,435,,111,BIO-INORGANIC,"Orvig, Christopher E",13,83.42,5.92,91,72,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,4,2
+UBC,2010,W,CHEM,526,,111,BIOINORGANC CHEM,"Orvig, Christopher E",13,85.17,5.59,96,80,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,3
+UBC,2010,W,CHEM,549,,001,MASTERS THESIS,"Orvig, Christopher E",30,,,,,0,0,2,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CHEM,549,,101,MASTERS THESIS,"Orvig, Christopher E",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CHEM,649,,001,DOC DISSERTATION,"Orvig, Christopher E",155,,,,,0,0,2,0,153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,CHEM,649,,101,DOC DISSERTATION,"Orvig, Christopher E",8,,,,,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,CHEM,529,,299,STR MTHD IORG CH,"Orvig, Christopher E",10,84.6,2.5,88,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,0
+UBC,2014,W,CHEM,435,,111,BIO-INORGANIC,"Orvig, Christopher E",11,85,5.59,91,75,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,4
+UBC,2014,W,CHEM,526,,111,BIOINORGANC CHEM,"Orvig, Christopher E",5,86,1.41,88,85,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+UBC,2014,W,CHEM,529,,299,STR MTHD IORG CH,"Orvig, Christopher E",16,84.69,5.04,92,75,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,4
+UBC,2015,W,CHEM,121,,102,STRCTR BOND CHEM,"Orvig, Christopher E",225,69.6,12.69,93,31,199,20,4,0,2,0,0,0,5,15,20,3,16,19,16,41,28,16,39,13,8
+UBC,2015,W,CHEM,121,,103,STRCTR BOND CHEM,"Orvig, Christopher E",215,66.29,14.29,95,32,177,37,0,0,1,0,0,0,7,30,37,7,20,20,11,31,27,17,23,12,9
+UBC,2016,W,CHEM,121,,102,STRCTR BOND CHEM,"Orvig, Christopher E",229,68.63,13.26,96,25,202,22,5,0,0,0,0,2,4,16,22,7,18,31,21,25,24,20,34,13,9
+UBC,2016,W,CHEM,121,,103,STRCTR BOND CHEM,"Orvig, Christopher E",229,64.93,14.65,96,0,186,34,5,0,4,1,0,2,10,21,34,6,25,26,29,27,19,17,21,7,9
+UBC,2017,W,CHEM,121,,102,STRCTR BOND CHEM,"Orvig, Christopher E",220,68.74,13.88,95,36,189,29,1,0,1,0,0,0,1,28,29,9,18,15,18,23,30,21,27,13,15
+UBC,2017,W,CHEM,121,,103,STRCTR BOND CHEM,"Orvig, Christopher E",207,68.29,13.69,93,34,174,29,3,0,1,0,0,0,4,25,29,5,9,23,20,29,21,15,28,16,8
+UBC,2018,W,CHEM,121,,101,STRCTR BOND CHEM,"Orvig, Christopher E",143,74.82,12.4,97,36,136,5,1,0,1,0,0,0,1,4,5,3,6,10,11,20,17,8,29,10,22
+UBC,2018,W,CHEM,121,,102,STRCTR BOND CHEM,"Orvig, Christopher E",202,71.89,13.62,97,38,183,17,1,0,1,0,0,0,1,16,17,3,10,28,10,27,21,15,29,17,23
+UBC,2018,W,PHYS,565,,101,RADIOISO SCI&MED,"Hafeli, Urs;Kruecken, Reiner;Orvig, Christopher E;Sossi, Vesna",11,90.56,2.46,94,88,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5
+UBCV,2014,W,CHEM,435,,111,Bio-Inorganic Chemistry,Christopher E Orvig,11,85.0,5.585696018,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2014,W,CHEM,529,,299,Structural Methods in Inorganic Chemistry,Christopher E Orvig,16,84.6875,5.042734047,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,5,5,
+UBCV,2015,W,CHEM,121,,102,Structure and Bonding in Chemistry,Angela Crane;Christopher E Orvig,221,69.212669683,13.273521922,93.0,21.0,,,,,,,,,,,22,3,16,19,16,41,28,16,39,13,8
+UBCV,2015,W,CHEM,121,,103,Structure and Bonding in Chemistry,Angela Crane;Christopher E Orvig,215,66.074418605,14.597530405,95.0,20.0,,,,,,,,,,,38,7,20,20,11,31,27,17,23,12,9
+UBCV,2016,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,68.625,13.25610106,96.0,25.0,,,,,,,,,,,22,7,18,31,21,25,24,20,34,13,9
+UBCV,2016,W,CHEM,121,,103,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,64.16071429,15.61220264,96.0,0.0,,,,,,,,,,,38,6,25,26,29,27,19,17,21,7,9
+UBCV,2017,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Erin Lindenberg;Hayden Scheiber,219,68.529680365,14.203074528,95.0,22.0,,,,,,,,,,,30,9,18,15,18,23,30,21,27,13,15
+UBCV,2017,W,CHEM,121,,103,Structure and Bonding in Chemistry,Christopher E Orvig;Erin Lindenberg;Lee Lee Lily Li,204,68.029411765,14.134091046,93.0,16.0,,,,,,,,,,,30,5,9,23,20,29,21,15,28,16,8
+UBCV,2018,W,CHEM,121,,101,Structure and Bonding in Chemistry,Benjamin Mowbray;Christopher Addison;Christopher E Orvig;Erin Lindenberg;Lee Lee Lily Li,142,74.288732394,13.856191993,97.0,0.0,,,,,,,,,,,6,3,6,10,11,20,17,8,29,10,22
+UBCV,2018,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Erin Lindenberg;Lee Lee Lily Li,201,71.611940299,14.123337308,97.0,17.0,,,,,,,,,,,18,3,10,28,10,27,21,15,29,17,23
+UBCV,2018,W,PHYS,565,,101,Applications of Radioisotopes in Science and in Medicine,Christopher E Orvig;Reiner Kruecken;Urs Hafeli;Vesna Sossi,9,90.555555556,2.45515331,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,5
+UBCV,2019,W,CHEM,121,,101,Structure and Bonding in Chemistry,Christopher E Orvig;Erin Lindenberg;Lee Lee Lily Li;Yael Petel,137,72.291970803,14.815612088,97.0,28.0,,,,,,,,,,,16,2,3,17,6,12,9,16,31,11,14
+UBCV,2019,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Erin Lindenberg;Lee Lee Lily Li,211,69.597156398,14.395891989,97.0,19.0,,,,,,,,,,,25,5,19,16,9,34,22,17,35,16,13
+UBCV,2019,W,CHEM,449,,002,Seminar and Thesis,Christopher E Orvig;Dan Bizzotto;David Perrin;Derek Gates;Glenn Sammis;Harry Brumer;Jason Hein;Jayachandran Kizhakkedathu;Jose Rodriguez Nunez;Laurel Schafer;Marco Ciufolini;Mark Thachuk;Michael Wolf;Parisa Mehrkhodavandi;Robin Turner;Roman Krems;Suzana Straus;Tao Huan;Walter Algar;William Andrew Macfarlane;Yan Wang,21,87.80952381,5.372327686,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,7,10

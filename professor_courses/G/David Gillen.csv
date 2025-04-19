@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,BASC,504,,001,AIR TRNSPRT POL,"Gillen, David",12,82,6.71,96,76,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,2
+UBC,2005,W,COMM,441,,202,ADV BUS LOGISTIC,"Gillen, David",28,77.54,10.45,90,51,28,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,4,4,7,6,2
+UBC,2005,W,COMM,447,,201,PRJ APPRL & MGMT,"Gillen, David",18,76.88,6.25,85,65,17,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,1,8,1,0
+UBC,2006,W,BASC,504,,001,AIR TRNSPRT POL,"Gillen, David",12,82.08,3.42,88,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,2,0
+UBC,2006,W,BASC,505,,001,AIR TRN MGM II,"Gillen, David",7,87.29,4.75,94,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2
+UBC,2006,W,COMM,441,,202,ADV BUS LOGISTIC,"Gillen, David",41,74.46,9.93,92,52,41,0,0,0,0,0,0,0,0,0,0,1,1,4,5,3,3,13,2,6,3
+UBC,2006,W,COMM,447,,201,PRJ APPRL & MGMT,"Gillen, David",19,79.32,7.59,94,67,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,7,4,1
+UBC,2007,W,COMM,441,,201,ADV BUS LOGISTIC,"Gillen, David",20,75,6.1,85,66,20,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,2,3,3,0
+UBC,2007,W,COMM,446,,201,TRANS ECON,"Gillen, David",4,75.25,18.71,94,50,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1
+UBC,2007,W,COMM,447,,201,PRJ APPRL & MGMT,"Gillen, David",12,81.42,8.44,97,60,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,2,1
+UBC,2007,W,ECON,480,,001,TRANSPORTATION,"Gillen, David",10,72.63,19.18,87,26,7,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,5,1,1,0
+UBC,2009,W,COMM,447,,201,PRJ APPRL & MGMT,"Gillen, David",30,83.67,8.36,97,62,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,5,10,4,8
+UBC,2010,W,COMM,399,,203,LOGISTIC/OPS MGT,"Gillen, David",40,73.38,7.33,86,58,39,0,1,0,0,0,0,0,0,0,0,0,2,2,5,7,7,5,8,3,0
+UBC,2011,W,COMM,399,,104,LOGISTIC/OPS MGT,"Gillen, David;Wan, Yulai",60,76.3,6.57,91,60,60,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,7,17,19,3,1
+UBC,2011,W,COMM,399,,201,LOGISTIC/OPS MGT,"Gillen, David",43,77.2,8.21,93,57,41,0,1,0,1,0,0,0,0,0,0,0,1,0,4,6,6,8,7,7,2
+UBC,2012,W,COMM,398,,201,BUSI PROCESS&OPS,"Gillen, David",48,80.77,5.22,94,70,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,11,16,10,3
+UBC,2012,W,COMM,399,,201,LOGISTIC/OPS MGT,"Gillen, David",39,78.32,6.36,88,61,37,0,2,0,0,0,0,0,0,0,0,0,0,1,2,2,2,12,14,4,0
+UBC,2014,W,COMM,349,,201,LOGISTICS SRV MG,"Gillen, David",53,77.96,7,97,58,53,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,4,17,13,7,2
+UBC,2014,W,COMM,398,,201,BUSI PROCESS&OPS,"Gillen, David",52,77.42,9.48,94,51,52,0,0,0,0,0,0,0,0,0,0,1,3,0,2,4,9,10,11,7,5
+UBC,2014,W,COMM,441,,201,ADV BUS LOGISTIC,"Gillen, David",50,79.56,8.38,95,58,50,0,0,0,0,0,0,0,0,0,0,0,1,1,4,2,3,7,14,16,2
+UBC,2015,W,COMM,415,,201,QUANT POLI ANYL,"Gillen, David",33,79.1,5.23,92,70,31,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,4,11,9,4,1
+UBC,2015,W,COMM,441,,201,ADV BUS LOGISTIC,"Gillen, David",47,81.11,8.12,98,58,47,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,12,11,13,4
+UBC,2015,W,COMM,444,,201,AIR TRANSPORT,"Gillen, David",48,81.5,5.63,93,69,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,11,17,10,4
+UBC,2017,W,COMM,398,,201,BUSI PROCESS&OPS,"Gillen, David",59,80.54,7.9,98,58,59,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,7,15,10,15,6
+UBC,2017,W,COMM,415,,101,QUANT POLI ANYL,"Gillen, David",41,82.07,5.46,93,76,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,7,10,5
+UBC,2017,W,COMM,415,,201,QUANT POLI ANYL,"Gillen, David",30,78.1,5.38,91,65,30,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,13,5,3,1
+UBC,2018,W,COMM,415,,101,QUANT POLI ANYL,"Gillen, David",43,81.51,3.86,91,76,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,19,8,2
+UBC,2018,W,COMM,415,,201,QUANT POLI ANYL,"Gillen, David",26,81.58,5.93,92,72,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,8,3
+UBC,2018,W,COMM,415,,202,QUANT POLI ANYL,"Gillen, David",42,82.4,4.14,91,75,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,16,13,3
+UBCV,2014,W,COMM,349,,201,Logistics Services Management,David Gillen,53,77.96226415,6.997148497,97.0,58.0,,,,,,,,,,,0,0,,,,7,4,17,13,7,
+UBCV,2014,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen,52,77.42307692,9.483414116,94.0,51.0,,,,,,,,,,,0,,,,,4,9,10,11,7,5
+UBCV,2014,W,COMM,441,,201,Advanced Business Logistics,David Gillen,50,79.56,8.376741366,95.0,58.0,,,,,,,,,,,0,0,,,,,,7,14,16,
+UBCV,2015,W,COMM,415,,201,Quantitative Policy Analysis,David Gillen,31,79.096774194,5.230390927,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,11,9,,
+UBCV,2015,W,COMM,441,,201,Advanced Business Logistics,David Gillen;Margaret Nadeau,47,81.106382979,8.116633599,98.0,58.0,,,,,,,,,,,0,0,,,,,1,12,11,13,
+UBCV,2015,W,COMM,444,,201,Air Transportation,David Gillen;Kun Wang;Lifei Sheng;Margaret Nadeau;Maria Andrea Banzon;Mohammad Reza Skandari;Zijun Zhao,48,81.5,5.634241817,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,5,11,17,10,4
+UBCV,2016,W,COMM,444,,201,Air Transportation,David Gillen;John Korenic,45,76.66666667,6.574745069,88.0,64.0,,,,,,,,,,,0,0,0,0,5,6,8,11,8,7,0
+UBCV,2017,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen;Stav Kimhi,59,80.542372881,7.898760343,98.0,58.0,,,,,,,,,,,0,0,1,0,2,3,7,15,10,15,6
+UBCV,2017,W,COMM,415,,101,Quantitative Policy Analysis,David Gillen;Paola Beatriz Lopez Lam;Paola Lopez Lam,41,82.073170732,5.456144444,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,19,7,10,5
+UBCV,2017,W,COMM,415,,201,Quantitative Policy Analysis,David Gillen;Paola Lopez Lam,30,78.1,5.384204228,91.0,65.0,,,,,,,,,,,0,0,0,0,1,1,6,13,5,3,1
+UBCV,2018,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen;Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,55,79.581818182,11.40125222,91.0,20.0,,,,,,,,,,,2,0,0,2,1,2,3,8,20,14,3
+UBCV,2018,W,COMM,415,,101,Quantitative Policy Analysis,David Gillen;Minde Wagner,43,81.511627907,3.856794209,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,14,19,8,2
+UBCV,2018,W,COMM,415,,201,Quantitative Policy Analysis,David Gillen;Minde Wagner,26,81.576923077,5.927381054,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,5,5,8,3
+UBCV,2018,W,COMM,415,,202,Quantitative Policy Analysis,David Gillen;Minde Wagner,42,82.404761905,4.138218798,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,9,16,13,3
+UBCV,2019,W,COMM,415,,201,Quantitative Policy Analysis,Chiara Kowalewski;David Gillen;Spencer Richardson;Spencer William Richardson,38,86.894736842,4.683435293,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,14,11,13
+UBCV,2019,W,COMM,415,,202,Quantitative Policy Analysis,Anne C Graham;David Gillen;Spencer Richardson;Spencer William Richardson,36,82.027777778,5.234425121,93.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,5,19,7,3
+UBCV,2020,W,COMM,415,,201,Quantitative Policy Analysis,Cole Hendy;David Gillen;Shivani Sharma,37,74.702702703,13.196937492,87.0,11.0,,,,,,,,,,,1,1,1,0,0,4,10,7,6,7,0
+UBCV,2020,W,COMM,415,,202,Quantitative Policy Analysis,Cole Hendy;David Gillen;Shivani Sharma;Timothy Cuffe,43,79.395348837,6.990263756,94.0,66.0,,,,,,,,,,,0,0,0,0,3,2,7,10,12,3,6

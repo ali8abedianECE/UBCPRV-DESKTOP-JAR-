@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",10,81.6,9.22,99,71,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,2,2
+UBC,2003,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",13,86.08,3.68,92,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,4
+UBC,2005,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",131,73.06,7.77,89,52,131,0,0,0,0,0,0,0,0,0,0,2,6,11,12,19,30,26,17,8,0
+UBC,2005,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",6,84.83,6.79,92,77,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,3
+UBC,2005,W,PHAR,648,,001,SEM-PHD STUDENTS,"Levine, Marc;Wasan, Kishor",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,PHAR,649,,001,PHD THESIS,"Levine, Marc;Wasan, Kishor",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc",140,76.25,8.27,94,51,139,0,0,0,1,0,0,0,0,0,0,2,3,4,18,11,13,29,44,13,2
+UBC,2006,W,PHAR,548,,002,SEMINAR,"Levine, Marc;Wasan, Kishor",4,86.75,11.18,93,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+UBC,2006,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",16,83.19,6.51,95,68,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,5,2
+UBC,2006,W,PHAR,648,,001,SEM-PHD STUDENTS,"Levine, Marc;Wasan, Kishor",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,PHAR,649,,001,PHD THESIS,"Levine, Marc;Wasan, Kishor",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc",150,75.07,8.26,93,58,150,0,0,0,0,0,0,0,0,0,0,0,3,14,8,28,26,25,26,11,9
+UBC,2007,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",14,86.29,5.69,97,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,4
+UBC,2007,W,PHAR,648,,001,SEM-PHD STUDENTS,"Levine, Marc;Wasan, Kishor",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,PHAR,649,,001,DOC DISSERTATION,"Levine, Marc;Wasan, Kishor",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",23,87.18,3.53,94,81,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,7
+UBC,2009,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc",149,77.16,7.84,93,56,149,0,0,0,0,0,0,0,0,0,0,0,3,4,9,18,26,29,33,20,7
+UBC,2009,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",5,84.8,5.36,91,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2
+UBC,2009,W,PHAR,649,,001,DOC DISSERTATION,"Levine, Marc;Wasan, Kishor",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",19,87.68,2.81,93,82,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12,4
+UBC,2010,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",145,76.45,7.5,91,59,145,0,0,0,0,0,0,0,0,0,0,0,1,5,16,18,18,28,39,17,3
+UBC,2010,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",13,83.23,5.79,90,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,6,1
+UBC,2010,W,PHAR,648,,002,SEM-PHD STUDENTS,"Levine, Marc;Wasan, Kishor",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,648,,003,SEM-PHD STUDENTS,"Levine, Marc;Wasan, Kishor",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,649,,001,DOC DISSERTATION,"Levine, Marc;Wasan, Kishor",27,,,,,0,0,1,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,649,,002,DOC DISSERTATION,"Levine, Marc;Wasan, Kishor",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,PHAR,649,,003,DOC DISSERTATION,"Levine, Marc;Wasan, Kishor",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter",20,91.2,2.95,95,84,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,14
+UBC,2011,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",144,79.52,6.38,92,54,143,0,0,0,1,0,0,0,0,0,0,1,0,2,3,9,17,34,48,26,3
+UBC,2011,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",7,79.57,5.19,86,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,0
+UBC,2011,W,PHAR,649,,001,DOC DISSERTATION,"Hafeli, Urs;Levine, Marc",28,,,,,0,0,1,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter;Verma, Arun",19,82.32,3.82,88,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,12,5,0
+UBC,2012,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",146,78.45,7.05,92,59,146,0,0,0,0,0,0,0,0,0,0,0,1,1,11,16,16,29,40,26,6
+UBC,2012,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",15,85.47,6.78,98,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,3,4
+UBC,2013,W,PHAR,440,,001,PAIN RES & THERA,"Cairns, Brian;Levine, Marc;Soja, Peter;Verma, Arun;Zed, Peter",16,75.94,7.22,85,59,16,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,3,4,3,2,0
+UBC,2013,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",208,76.99,6.5,92,61,208,0,0,0,0,0,0,0,0,0,0,0,0,5,13,30,29,48,57,24,2
+UBC,2013,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",13,82.54,6.59,93,73,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,2,3
+UBC,2014,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc;Virani, Adil",220,75.64,6.94,90,60,220,0,0,0,0,0,0,0,0,0,0,0,0,12,22,26,41,46,49,22,2
+UBC,2014,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",6,78.33,6.74,85,67,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,0
+UBC,2015,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc",212,73.86,6.93,90,60,212,0,0,0,0,0,0,0,0,0,0,0,0,20,17,40,48,38,34,14,1
+UBC,2015,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",8,83.38,5.42,91,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,1
+UBC,2016,W,PHAR,452,,001,THERAPEUTICS IV,"Levine, Marc",219,77.53,7.77,99,60,216,0,0,0,3,0,0,0,0,0,0,0,0,7,17,27,35,44,42,31,13
+UBC,2016,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",11,87.14,2.79,92,83,7,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1
+UBC,2016,W,PHRM,131,,001,STUDY DSGN&INT 1,"Levine, Marc",224,86.58,6.69,96,27,223,1,0,0,0,0,0,1,0,0,1,0,0,0,2,2,3,12,42,86,76
+UBC,2017,W,PHAR,590,,002,PHAR RS:PRN&METH,"Levine, Marc",13,85.78,4.18,92,79,9,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2
+UBCV,2014,W,PHAR,452,,001,Therapeutics IV,Adil Virani;Christine Troskie;Marc Levine,220,75.63636364,6.942986702,90.0,60.0,,,,,,,,,,,0,0,0,12,22,26,41,46,49,22,2
+UBCV,2014,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Marc Levine,6,78.33333333,6.742897498,85.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,0
+UBCV,2015,W,PHAR,452,,001,Therapeutics IV,Christine Troskie;Marc Levine,212,73.863207547,6.925819889,90.0,60.0,,,,,,,,,,,0,0,0,20,17,40,48,38,34,14,1
+UBCV,2015,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Marc Levine,8,83.375,5.423164601,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2016,W,PHAR,452,,001,Therapeutics IV,Jennifer Brown;Marc Levine,219,77.24657534,8.088014956,99.0,55.0,,,,,,,,,,,0,0,3,7,17,27,35,44,42,31,13
+UBCV,2016,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Marc Levine,7,87.14285714,2.794552524,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,1
+UBCV,2016,W,PHRM,131,,001,Study Design and Interpretation I,Jennifer Brown;Marc Levine,224,86.57589286,6.687351632,96.0,27.0,,,,,,,,,,,1,0,0,0,2,2,3,12,42,86,76
+UBCV,2017,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Abby Collier;Marc Levine;Mark Harrison,9,85.777777778,4.176654695,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,3,2
+UBCV,2017,W,PHRM,131,,001,Study Design and Interpretation I,Annalijn Conklin;Ariana Saatchi;Larry Lynd;Marc Levine,214,84.728971963,6.159949536,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,17,28,45,73,49
+UBCV,2018,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Abby Collier;Marc Levine,12,85.833333333,3.010084062,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,5,2
+UBCV,2018,W,PHRM,311,,001,Medication Management IV,Adam Frankel;Aileen Mira;Ajit Johal;Ali Reza Meghji;Angela Kim-Sing;Brian Cairns;Christine Khurana;Colleen Brady;Fawziah Lalji;Fong Chan;Hilary Watson;Ingrid Price;James Mccormack;Janice Lynn Moshenko;Jillian Reardon;Judith Soon;Judy Wong;Katherine Seto;Kerry Wilbur;Lukas Hohenwarter;Lynda Eccott;Marc Levine;Marion Pearson;Mary De Vera;Mary Elliot;Nelson Gorrin Morales;Nelson Varhola;Peter Soja;Sally Waignein;Shahrzad Salmasi;Tamiz Jamal Kanji;Tara Klassen;Tessa Nicholl;Tony Seet;Ujendra Kumar;Vaughn Chauvin;Yang Yang;Zheng Lin;Zheng Sonia Lin,213,82.070422535,5.73303225,92.0,59.0,,,,,,,,,,,0,0,,,2,6,19,27,77,69,11

@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,EDCP,331,,101,SOC STD ELEM C&P,"Waddington, Timothy",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EDCP,331,,105,SOC STD ELEM C&P,"Waddington, Timothy",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EDCP,331,,107,SOC STD ELEM C&P,"Waddington, Timothy",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EDCP,331,,110,SOC STD ELEM C&P,"Waddington, Timothy",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EDUC,450,B,S19,INQUIRY SEMNR 1,"Waddington, Timothy",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,EDUC,451,B,S19,INQUIRY SEMNR 2,"Waddington, Timothy",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,S,EDCP,496,,951,GLOBAL ED&CURRIC,"Waddington, Timothy",26,84.54,3.86,93,77,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,12,3,,,
+UBC,2018,S,EDUC,452,B,S19,INQUIRY SEMNR 3,"Waddington, Timothy",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,S,EDUC,452,B,S21,INQUIRY SEMNR 3,"Waddington, Timothy",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,331,,105,SOC STD ELEM C&P,"Waddington, Timothy",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,331,,107,SOC STD ELEM C&P,"Waddington, Timothy",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,331,,110,SOC STD ELEM C&P,"Waddington, Timothy",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDCP,332,A,303,SOC STD SEC C&P,"Waddington, Timothy",16,,,,,0,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDUC,450,B,S19,INQUIRY SEMNR 1,"Waddington, Timothy",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,EDUC,451,B,S19,INQUIRY SEMNR 2,"Waddington, Timothy",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2018,S,EDCP,496,,951,Global Education and Curriculum,Brenda Sampson;Timothy Waddington,26,84.538461538,3.859852528,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,12,3,,,
+UBCV,2019,S,EDCP,496,,951,Global Education and Curriculum,Timothy Waddington,34,85.647058824,4.021776729,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,16,11,6,,,
+UBCV,2020,S,EDCP,496,,951,Global Education and Curriculum,Timothy Waddington,21,83.80952381,5.697534972,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,11,4,3,,,
+UBCV,2020,W,EDCP,562,,61B,Curriculum Issues and Theories,Timothy Waddington,26,87.384615385,6.579221371,99.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,0,2,14,9,,,
+UBCV,2021,S,EDCP,496,,951,Global Education and Curriculum,Timothy Waddington,23,85.739130435,2.972868087,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,11,3,,,
+UBCV,2021,S,EDCP,496,,951,Global Education and Curriculum,Timothy Waddington,23,85.7,,92.0,80.0,,,,,,,,,,,,,,,,,,,9,11,,86.0,88.0,83.5
+UBCV,2022,S,EDCP,512,A,93A,Education Action Research,Timothy Waddington,25,86.3,,96.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,1,2,15,6,87.0,88.0,86.0
+UBCV,2022,W,EDCP,562,,61B,Curriculum Issues and Theories,Timothy Waddington,27,85.1,,92.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,12,2,85.0,87.5,83.0

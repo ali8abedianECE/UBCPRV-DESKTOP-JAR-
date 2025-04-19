@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,ELEC,391,,201,Electrical Engineering Design Studio II,Francisco Paz;Ignacio Galiano Zurbriggen;Jeanie Hakansson Malone;Jeanie Malone;Leo Stocco;Pegah Kharazmi;Prashant Mongia;Rashmi Prakash;Zuhair Naseem,110,82.1,12.62148307,98.0,0.0,1,0,3,1,6,3,5,19,17,21,34,,,
+UBCV,2017,W,ELEC,391,,201,Electrical Engineering Design Studio II,Faizan Mansuri;George Kurien;Jeanie Malone;Leo Stocco;Matthew Winship;Rashmi Prakash;Rotem Moshkovitz,137,80.094890511,12.150939937,98.0,5.0,1,2,1,4,5,12,21,9,24,26,32,,,
+UBCV,2020,W,BMEG,321,,201,Biomedical Instrumentation,Andres Velez Lopez;Negar Mohaghegh Harandi;Rashmi Prakash;Sukhneet Kaur Dhillon,69,87.768115942,7.017090329,98.0,61.0,0,0,0,1,0,1,1,6,6,17,37,,,
+UBCV,2020,W,BMEG,357,,201,Biomedical  Engineering Design II,Andrew Yan;Jeanie Malone;Jenna Usprech;Jessica Hua;Loay Al-Salehi;Matthew Hickey;Rashmi Prakash,84,87.428571429,5.976431047,97.0,58.0,0,0,1,0,1,0,2,1,8,42,29,,,
+UBCV,2020,W,BMEG,455,,101,Professionalism and Ethics in Biomedical Engineering,Jeanie Malone;Jenna Usprech;Rashmi Prakash,26,84.307692308,3.802832952,93.0,77.0,0,0,0,0,0,0,0,3,9,12,2,,,
+UBCV,2020,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,37,82.054054054,9.309332074,96.0,56.0,0,0,2,0,0,3,1,3,13,5,10,,,
+UBCV,2020,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,10,87.4,3.025814858,93.0,83.0,0,0,0,0,0,0,0,0,1,6,3,,,
+UBCV,2021,S,BMEG,400,A,942,Topics in Biomedical Engineering,Rashmi Prakash,25,85.32,5.145548238,93.0,70.0,0,0,0,0,0,1,0,1,8,10,5,,,
+UBCV,2021,S,BMEG,400,A,942,Topics in Biomedical Engineering,Rashmi Prakash,25,85.3,,93.0,70.0,,,,,,,,,8,10,,85.0,88.0,83.0
+UBCV,2022,S,BMEG,400,A,942,Topics in Biomedical Engineering,Rashmi Prakash,50,84.3,,94.0,0.0,1,0,0,1,0,1,0,3,7,18,19,86.5,90.0,84.3
+UBCV,2023,S,BMEG,402,,942,"Impact of Biomedical Engineering on Society, Sustainability and Environmental Stewardship",Rashmi Prakash,49,86.4,,93.0,63.0,0,0,0,1,1,0,1,1,11,15,19,87.0,91.0,84.0
+UBCV,2023,W,BMEG,402,,201,"Impact of Biomedical Engineering on Society, Sustainability and Environmental Stewardship",Rashmi Prakash,37,87.78,,92.0,80.0,0,0,0,0,0,0,0,0,5,16,16,88.0,90.0,87.0
+UBCV,2023,W,BMEG,456,,201,Clinical and Industrial Biomedical Engineering,Rashmi Prakash,21,85.48,,91.0,73.0,0,0,0,0,0,0,1,0,6,8,6,87.0,90.0,81.0
+UBCV,2023,W,BMEG,556,,201,Clinical and Industrial Biomedical Engineering,Rashmi Prakash,20,86.4,,92.0,80.0,0,0,0,0,0,0,0,0,6,8,6,86.5,90.0,83.5

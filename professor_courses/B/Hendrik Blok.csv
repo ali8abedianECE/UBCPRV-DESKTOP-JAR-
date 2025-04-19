@@ -1,0 +1,88 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2003,W,ISCI,448,B,210,DIR STUDIES,"Blok, Hendrik;Steyn, Douw Gerbrand",26,79.5,8.76,100,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,1,4,9,3,3,,,
+UBC,2005,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",44,,,,,0,0,3,0,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2005,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",13,82.85,3.56,90,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,1,,,
+UBC,2005,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",26,81.08,6.44,92,69,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5,5,6,3,,,
+UBC,2006,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",35,,,,,0,0,1,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2006,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik",15,81.07,4.46,88,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,4,5,0,,,
+UBC,2006,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik;Fletcher, Jeffrey",14,77.86,9.74,94,57,14,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,2,5,1,2,,,
+UBC,2007,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik;Fletcher, Jeffrey",47,,,,,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Groat, Lee",19,79.22,3.3,83,72,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,10,0,0,,,
+UBC,2007,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",14,75.93,7.52,87,60,14,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,1,5,2,0,,,
+UBC,2009,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",51,,,,,0,0,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2009,W,ISCI,320,,201,INTRDSC SC FLD,"Blok, Hendrik;Doebeli, Michael Walter",32,79.97,3.33,86,71,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10,19,1,0,,,
+UBC,2009,W,ISCI,422,,201,MDLS IN SCIENCE,"Blok, Hendrik",17,79.65,9.22,93,59,17,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,4,3,2,4,,,
+UBC,2010,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",85,,,,,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Evans, Robert James;Spiegelman, George B",26,80.5,1.64,84,77,24,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,0,0,,,
+UBC,2010,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",24,79.71,6.73,94,70,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,7,4,6,2,,,
+UBC,2011,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",85,,,,,0,0,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter;Evans, Robert James",29,81.66,2.45,90,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,2,1,,,
+UBC,2011,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Hauert, Christoph",21,78.47,14.84,98,28,18,1,2,0,0,0,0,1,0,0,1,0,0,0,1,1,2,4,4,1,5,,,
+UBC,2012,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",77,,,,,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",32,82.38,4.61,90,72,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,15,6,4,,,
+UBC,2012,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",34,79.09,9.41,95,58,33,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,5,6,4,7,5,,,
+UBC,2013,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",107,,,,,0,0,1,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2013,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",23,81.96,5.48,94,74,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,6,3,3,,,
+UBC,2013,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Hauert, Christoph",18,79.33,7.49,87,55,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,2,9,4,0,,,
+UBC,2014,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",111,,,,,0,0,2,0,109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",28,81,4.85,91,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,12,1,4,,,
+UBC,2014,W,ISCI,344,,201,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",33,81.3,7.51,97,69,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,9,6,6,,,
+UBC,2015,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",115,,,,,0,0,2,0,113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2015,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.67,3.97,90,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,13,3,2,,,
+UBC,2015,W,ISCI,422,,101,MDLS IN SCIENCE,"Barker, Megan;Blok, Hendrik",25,77.88,15.05,93,22,24,1,0,0,0,0,0,1,0,0,1,0,1,1,1,1,2,2,6,6,4,,,
+UBC,2016,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",126,,,,,0,0,2,0,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2016,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",25,81.21,4.3,91,76,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,8,4,2,,,
+UBC,2016,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",39,79.41,10.14,96,37,38,1,0,0,0,0,0,0,1,0,1,0,0,0,3,1,4,5,10,12,3,,,
+UBC,2016,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",45,80.09,6.97,95,60,45,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,12,14,8,4,,,
+UBC,2017,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",139,,,,,0,0,2,0,137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",16,86.31,3,91,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3,,,
+UBC,2017,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",46,82.78,14.2,96,0,44,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,6,10,14,12,,,
+UBC,2017,W,ISCI,422,,101,MDLS IN SCIENCE,"Blok, Hendrik;Sepehry, Amir",31,80.83,16.26,94,0,29,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,4,14,2,8,,,
+UBC,2018,W,ISCI,300,,001,INTERDSC SEMINAR,"Blok, Hendrik",125,,,,,0,0,3,0,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter",15,86.71,2.89,92,82,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,4,,,
+UBC,2018,W,ISCI,344,,101,GAMES ECON EVOLN,"Blok, Hendrik;Hauert, Christoph",25,81.92,9.73,96,68,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1,3,3,8,,,
+UBC,2018,W,ISCI,360,,201,SYS APP REG SUS,"Blok, Hendrik",49,86.12,4.82,94,72,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,23,14,,,
+UBCV,2014,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Michael Walter Doebeli,28,81.0,4.853406593,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,10,12,,,,,
+UBCV,2014,W,ISCI,344,,201,Theory and Practice of Games in Economics and Evolution,Christoph Hauert;Hendrik Blok,33,81.3030303,7.514506173,97.0,69.0,,,,,,,,,,,0,0,0,0,0,,7,,9,6,6,,,
+UBCV,2015,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Michael Walter Doebeli,24,81.666666667,3.974556761,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,6,13,,,,,
+UBCV,2015,W,ISCI,422,,101,Models in Science,Hendrik Blok;Megan Barker,25,77.88,15.053571005,93.0,22.0,,,,,,,,,,,,,,,,,,,6,6,,,,
+UBCV,2016,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Michael Walter Doebeli,24,81.20833333,4.303478539,91.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,10,8,4,2,,,
+UBCV,2016,W,ISCI,344,,101,Theory and Practice of Games in Economics and Evolution,Christoph Hauert;Hendrik Blok,39,79.41025641,10.14037773,96.0,37.0,,,,,,,,,,,1,0,0,0,3,1,4,5,10,12,3,,,
+UBCV,2016,W,ISCI,360,,201,Systems Approaches to Regional Sustainability,Hendrik Blok;Lee Groat,45,80.08888889,6.973398227,95.0,60.0,,,,,,,,,,,0,0,0,1,2,0,4,12,14,8,4,,,
+UBCV,2017,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Michael Walter Doebeli,16,86.3125,3.004857179,91.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,10,3,,,
+UBCV,2017,W,ISCI,360,,201,Systems Approaches to Regional Sustainability,Hendrik Blok;Kuo Hsuan Kevin Lee;Kuo Hsuan Lee;Praneesh Datt;Praneesh K Datt,45,82.777777778,14.202894854,96.0,0.0,,,,,,,,,,,1,0,0,0,0,1,1,6,10,14,12,,,
+UBCV,2017,W,ISCI,422,,101,Models in Science,Amir Sepehry;Hendrik Blok;Lee Groat,30,80.833333333,16.258861421,94.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,4,14,2,8,,,
+UBCV,2018,W,APSC,160,,203,Introduction to Computation in Engineering Design,Amir Hossein Refaee Afshar;Anahita Shojaei Hashemi;Animesh Sakorikar;Anindya Lal Roy;Anindya Roy;Cecilia Pacheco;Cristian Brazales Molina;Debasish Mohapatra;Debasish Ray Mohapatra;Dingqing Yang;Faramarz Jabbarvaziri;Hamed Valipour;Hendrik Blok;Himanshu Goyal;Jianzhe Lin;John Francisco;John Paul Bautista Francisco;Junbin Zhang;Kean Wah Wong;Meng Li;Mingyuan Du;Minzhi Liao;Mir Rayat Imtiaz Hossain;Mohammadhossein Jafari;Mohammed Suhail;Naga Raghavendra Koppisetti;Nima Saleh;Nusrat Mehajabin;Pramit Saha;Rubinderjit Singh Nagi;Ruochen Wen;Seyedrazieh Bayati;Shareen Mahmud;Tarang Mahapatra;Venkata Praneeth Srungarapu;Yuxuan Zhang;Zachary Rivard,194,73.711340206,16.649672086,100.0,15.0,,,,,,,,,,,21,4,9,16,10,13,16,17,29,27,32,,,
+UBCV,2018,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Michael Walter Doebeli,14,86.714285714,2.893721889,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,4,,,
+UBCV,2018,W,ISCI,344,,101,Theory and Practice of Games in Economics and Evolution,Christoph Hauert;Hendrik Blok,24,81.916666667,9.730796771,96.0,68.0,,,,,,,,,,,0,0,0,0,0,4,5,1,3,3,8,,,
+UBCV,2018,W,ISCI,360,,201,Systems Approaches to Regional Sustainability,Hendrik Blok;Kuo Hsuan Lee;Praneesh Datt,49,86.12244898,4.824558067,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,5,6,23,14,,,
+UBCV,2019,W,APSC,160,,203,Introduction to Computation in Engineering Design,Adam Darcie;Adam Thomas Darcie;Ahijit Banerjee;Amir Ali Barkam;Amirhossein Omidvarpashesar;Anahita Shojaei Hashemi;Anindya Lal Roy;Anindya Roy;Anmol Bhatia;Arnold Kaiqi Ying;Cristian Brazales Molina;Cristian Sorin Grecu;Danielle Montoya;Debasish Mohapatra;Debasish Ray Mohapatra;Ehsan Ghahremani;Faramarz Jabbarvaziri;Hendrik Blok;Hongbae Park;Janet Chen;Jessie Wong;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Kieran Gallagher;Michael Cao;Mohammad Reza Yousefidarestani;Mohammadhossein Jafari;Muchen He;Naga Raghavendra Koppisetti;Robyn Mcneil;Rubinderjit Singh Nagi;Ruolan Ye;Ryan Kento Homsani;Ryan Yang;Seyedrazieh Bayati;Shuyong Xie;Yash Sardhara;Yuchen Liu;Yuxuan Zhang,205,81.097560976,13.800761698,100.0,18.0,,,,,,,,,,,5,2,8,6,14,16,10,19,24,32,69,,,
+UBCV,2019,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Hendrik Blok;Laura Greenstreet;Ramya Rao Basava;Tetsuya Matsumoto;Yuxi Feng,98,77.530612245,15.895408195,100.0,0.0,,,,,,,,,,,3,1,1,5,7,12,6,16,15,7,25,,,
+UBCV,2019,W,ISCI,320,,201,Research Development Project,Gil Jorge Barros Henriques;Hendrik Blok;Michael Walter Doebeli,15,86.266666667,3.575045787,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,6,6,3,,,
+UBCV,2020,S,CPSC,100,,921,Computational Thinking,Aksh Aggarwal;Carmen Jiawen Xu;Hendrik Blok;Karin Kermani;Martin Felipe Pastor;Piye Liu;Ramya Rao Basava;Ruolan Ye;Ryan Nicolas Lam,91,91.065934066,12.997266548,100.0,0.0,,,,,,,,,,,1,0,0,2,2,1,1,0,7,6,71,,,
+UBCV,2020,W,APSC,160,,202,Introduction to Computation in Engineering Design,Adriana Castro;Ahijit Banerjee;Amanda Lazar;Amirhossein Omidvarpashesar;Amy Liu;Anindya Roy;Anmol Bhatia;Arvin Tashakori;Dayoung Kim;Debasish Mohapatra;Emily Lukas;Faramarz Jabbarvaziri;Fengpeng Huang;Geoffrey Tien;Golara Javadi;Hamidreza Tohidypour;Hendrik Blok;Hiren Ajay Khurana;Hiren Khurana;Jason Bai;Jed Yeo;Joel Hernandez-Balades;Kaushik Kolla;Maia Henriksson-Ward;Mohammad Reza Yousefidarestani;Naga Raghavendra Koppisetti;Nusair Islam;Nusrat Mehajabin;Rabe Arshad;Robert Preston;Rubinderjit Singh Nagi;Ryan Kento Homsani;Seraj Aldin Sabbah;Shiven Shukla;Stephanie Quon;Surabhi Agarwal;Timothy Nguyen;Venkata Praneeth Srungarapu,251,82.12749004,13.516200697,99.0,0.0,,,,,,,,,,,5,3,6,3,7,16,14,25,41,41,90,,,
+UBCV,2020,W,APSC,160,,204,Introduction to Computation in Engineering Design,Adriana Castro;Ahijit Banerjee;Amanda Lazar;Amirhossein Omidvarpashesar;Amy Liu;Anindya Roy;Anmol Bhatia;Arvin Tashakori;Charles Zhang;Dayoung Kim;Debasish Mohapatra;Faramarz Jabbarvaziri;Fengpeng Huang;Golara Javadi;Hamidreza Tohidypour;Hendrik Blok;Hiren Ajay Khurana;Hiren Khurana;Jason Bai;Jed Yeo;Joel Hernandez-Balades;Kaushik Kolla;Maia Henriksson-Ward;Mohammad Reza Yousefidarestani;Naga Raghavendra Koppisetti;Nusair Islam;Rabe Arshad;Robert Preston;Rubinderjit Singh Nagi;Ryan Kento Homsani;Shiven Shukla;Stephanie Quon,166,78.837349398,16.19476317,98.0,3.0,,,,,,,,,,,11,2,3,4,4,7,12,21,29,26,47,,,
+UBCV,2020,W,CPSC,100,,201,Computational Thinking,Aksh Aggarwal;Alan Wang;Byron Wang;Carmen Jiawen Xu;Donald Acton;Hendrik Blok;Martin Felipe Pastor;Rishika Selvakumar;Ryan Nicolas Lam;Steven Wolfman;Tamara Munzner,165,84.442424242,15.049249035,98.0,0.0,,,,,,,,,,,5,1,1,2,0,9,3,10,21,32,81,,,
+UBCV,2020,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Grigorii Guz;Hendrik Blok;Khanh Tran;Leo Sporn;Liam Graham;Nicholas Hu;Ramya Rao Basava,94,79.127659574,13.213087388,99.0,30.0,,,,,,,,,,,1,0,5,3,8,12,5,10,11,12,27,,,
+UBCV,2020,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Ilan Rubin;Michael Walter Doebeli;Nathalie Sandell,15,87.333333333,2.468853599,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,3,,,
+UBCV,2021,S,CPSC,100,,921,Computational Thinking,Aksh Aggarwal;Elliott Gee;Hendrik Blok;Jiahui Huang;Karin Kermani;Martin Felipe Pastor;Peyman Gholami;Rishika Selvakumar;Ryan Nicolas Lam;Terry Chou,84,85.964285714,8.041228745,98.0,56.0,,,,,,,,,,,0,0,1,1,0,3,2,5,18,15,39,,,
+UBCV,2021,W,APSC,160,,202,Introduction to Computation in Engineering Design,Aileen Zhang;Ali Mehrabian;Anindya Roy;Atabak Eghbal;Beibei Xiong;Cristian Sorin Grecu;Dan Jin;Debasish Mohapatra;Deepansha Chhabra;Erfan Taatizadeh;Hamidreza Aftabi;Hendrik Blok;Maia Henriksson-Ward;Mazen Abdelfattah;Meng Wang;Michael Sekatchev;Mohammad Amin Roohi;Seyyed Hosseini;Taeyang Baek;Thomas Dykstra;Yuanpei Gao;Zhenchao Ma,167,80.898203593,15.305182495,100.0,0.0,,,,,,,,,,,9,2,2,5,6,9,10,17,25,25,57,,,
+UBCV,2021,W,APSC,160,,204,Introduction to Computation in Engineering Design,Amit Ghimire;Cristian Sorin Grecu;Dan Jin;Dayoung Kim;Debasish Mohapatra;Deepansha Chhabra;Erfan Taatizadeh;Hamidreza Aftabi;Hendrik Blok;Kaushik Kolla;Kieran Weaver;Mazen Abdelfattah;Michael Sekatchev;Mohammad Amin Roohi;Zelei Du,193,81.031088083,15.521123622,100.0,15.0,,,,,,,,,,,13,0,5,3,4,10,11,20,30,23,74,,,
+UBCV,2021,W,CPSC,100,,101,Computational Thinking,Alan Wang;Byron Wang;Carmen Jiawen Xu;Elliott Gee;Gurvir Dhutt;Hendrik Blok;Karambir Dhaunsi;Karin Kermani;Olamide Olabiyi;Parsa Seyfourian;Rishika Selvakumar;Shannon Lo,142,85.366197183,9.284684921,99.0,33.0,,,,,,,,,,,2,0,1,0,0,5,8,7,25,33,61,,,
+UBCV,2021,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Austin Gregory Beauchamp;Curtis Fox;Dylan Brown;Hendrik Blok,101,78.386138614,14.525818598,100.0,7.0,,,,,,,,,,,3,1,5,5,5,4,10,10,19,15,24,,,
+UBCV,2021,W,ISCI,320,,201,Research Development Project,Hendrik Blok;Ilan Rubin;Mackenzie Urquhart-Cronish;Nora Prior,15,84.866666667,5.423054841,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,3,5,4,,,
+UBCV,2021,S,CPSC,100,,921,Computational Thinking,Hendrik Blok,84,86.0,,98.0,56.0,,,,,,,,,,,,,,,,,,,18,15,39,88.0,92.0,81.8
+UBCV,2021,W,APSC,160,,204,Introduction to Computation in Engineering Design,Hendrik Blok;Cristian Sorin Grecu,193,81.6,,100.0,15.0,,,,,,,,,,,10,,,,,10,12,20,30,24,75,85.0,91.0,76.0
+UBCV,2021,W,CPSC,100,,101,Computational Thinking,Hendrik Blok,142,85.6,,99.0,45.0,,,,,,,,,,,,,,,,,8,7,25,33,61,87.0,91.0,80.3
+UBCV,2021,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Hendrik Blok,101,78.6,,100.0,7.0,,,,,,,,,,,,,,,,,10,10,19,15,25,81.0,88.0,73.0
+UBCV,2021,W,ISCI,320,,201,Research Development Project,Hendrik Blok,15,84.9,,92.0,73.0,,,,,,,,,,,,,,,,,,,,,,85.0,89.0,83.5
+UBCV,2022,S,CPSC,100,,921,Computational Thinking,Hendrik Blok,84,85.5,,98.0,28.0,,,,,,,,,,,1,0,0,3,0,3,5,5,9,17,41,88.0,92.0,81.8
+UBCV,2022,W,APSC,160,,102,Introduction to Computation in Engineering Design,Hendrik Blok;Cristian Sorin Grecu,268,84.5,,100.0,12.0,,,,,,,,,,,8,1,2,4,3,12,12,14,32,64,116,87.0,92.0,81.0
+UBCV,2022,W,CPSC,100,,101,Computational Thinking,Hendrik Blok,136,83.8,,99.0,0.0,,,,,,,,,,,2,2,2,1,0,4,9,10,19,36,51,87.0,91.0,80.0
+UBCV,2022,W,CPSC,103,,202,Introduction to Systematic Program Design,Hendrik Blok,232,80.6,,98.0,5.0,,,,,,,,,,,16,1,4,0,7,12,15,21,35,53,68,85.0,90.0,76.0
+UBCV,2022,W,ISCI,320,,201,Research Development Project,Hendrik Blok,14,87.1,,92.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,9,3,87.0,88.0,85.3
+UBCV,2023,S,CPSC,100,,921,Computational Thinking,Hendrik Blok,65,82.3,,98.0,45.0,,,,,,,,,,,5,0,1,0,0,1,2,2,16,19,17,85.0,90.0,81.5
+UBCV,2023,W,APSC,160,,102,Introduction to Computation in Engineering Design,Hendrik Blok;Cristian Sorin Grecu,281,83.0,,100.0,20.0,,,,,,,,,,,27,1,0,1,3,1,8,26,41,46,121,86.0,93.0,80.0
+UBCV,2023,W,CPSC,103,,102,Introduction to Systematic Program Design,Hendrik Blok,256,74.9,,95.0,2.0,,,,,,,,,,,46,0,0,0,5,14,13,25,36,57,52,81.0,88.0,70.0
+UBCV,2023,W,CPSC,107,,207,Systematic Program Design,Hendrik Blok,124,69.4,,99.0,20.0,,,,,,,,,,,21,2,8,4,8,14,16,13,11,7,14,72.5,80.8,59.0
+UBCV,2023,W,ISCI,320,,201,Research Development Project,Hendrik Blok,15,86.6,,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,9,3,87.0,88.0,85.0

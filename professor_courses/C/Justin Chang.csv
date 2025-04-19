@@ -1,0 +1,52 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CHEM,235,,L12,Organic Chemistry Laboratory,Andrea Terpstra;Aubry Williams;Hossein Yazdani Ahmadabadi;Jason Wickenden;Jerome Lozada;Justin Chang;Kaeden Teindl;Katherine Bessai;Natalia Clermont;Raksha Kandel;Tian Zhang;Yun-Wen Mao,84,80.916666667,8.057337199,93.0,48.0,1,0,0,1,1,7,10,8,18,29,9,,,
+UBCV,2021,W,CHEM,235,,L13,Organic Chemistry Laboratory,Andrea Terpstra;Aubry Williams;Christine Trinh;Hossein Yazdani Ahmadabadi;Jerome Lozada;Jiajing Li;Justin Chang;Raksha Kandel;Tian Zhang;Yao Shi,82,83.682926829,8.387053587,95.0,48.0,1,0,0,1,2,3,5,6,13,27,24,,,
+UBCV,2021,W,CHEM,235,,L14,Organic Chemistry Laboratory,Afagh Habibzadehbizhani;Andrea Terpstra;Hossein Yazdani Ahmadabadi;Isaiah Betinol;Jerome Lozada;Justin Chang;Kathleen Downey;Matthew Isaac;Siyuan Xie;Tuan Trung Nguyen;Yun-Wen Mao,78,82.397435897,8.158080599,96.0,54.0,0,1,0,1,1,6,5,4,21,22,17,,,
+UBCV,2021,W,CHEM,235,,L15,Organic Chemistry Laboratory,Afagh Habibzadehbizhani;Andrea Terpstra;Hassan Baalbaki;Jerome Lozada;Justin Chang;Kaeden Teindl;Lanting Jiang;Moumita Saha;William Chappell;Zongzhe Li,85,80.611764706,8.257888174,95.0,55.0,0,0,2,2,2,4,9,8,21,30,7,,,
+UBCV,2021,W,CHEM,235,,L16,Organic Chemistry Laboratory,Andrea Terpstra;Aria Sadeghian;Christopher Yousofi;Geyang Zhou;Jerome Lozada;Jiayao Lu;Justin Chang;Keanna Yu;Lucas Andrew;Yihan Shi,76,80.407894737,7.666685736,94.0,57.0,0,0,1,1,2,5,4,18,15,22,8,,,
+UBCV,2021,W,CHEM,235,,L17,Organic Chemistry Laboratory,Andrea Terpstra;Arifa Ang Ali Omar;Jerome Lozada;Jiayao Lu;Jose Carl Fabula;Juliette Froelich;Justin Chang;Noah Depner;Pengfei Xu;William Primrose;Yao Shi,86,82.569767442,7.95360177,95.0,61.0,0,0,0,1,3,5,7,9,15,24,22,,,
+UBCV,2021,W,CHEM,235,,L18,Organic Chemistry Laboratory,Andrea Terpstra;Andrew Jewlal;Jerome Lozada;Justin Chang;Lanting Jiang;Mahsa Zarei;Tuan Trung Nguyen;Yun-Wen Mao;Ziwang Wei,84,82.654761905,9.038730649,95.0,53.0,0,1,1,2,2,3,6,7,19,18,25,,,
+UBCV,2021,W,CHEM,235,,L19,Organic Chemistry Laboratory,Andrew Jewlal;Ben Zhen Huang;Juliette Froelich;Justin Chang;Mahsa Zarei;Pengfei Xu;Yuki Liang;Ziwang Wei,70,76.257142857,9.277814764,90.0,42.0,2,0,1,3,2,5,12,12,20,12,1,,,
+UBCV,2021,W,CHEM,235,,L22,Organic Chemistry Laboratory,Andrea Terpstra;Andrew Jewlal;Athena Hu;Aubry Williams;Ben Zhen Huang;Brooke Parry;Christopher Yousofi;Hassan Baalbaki;Isaiah Betinol;Jerome Lozada;Jiajing Li;Jiayao Lu;Justin Chang;Katherine Bessai;Kathleen Downey;Keanna Yu;Lanting Jiang;Lucas Andrew;Matthew Isaac;Natalia Clermont;Sam Mcgrath;Siyuan Xie;Taniya Adak;Tuan Trung Nguyen;William Primrose;Yao Shi;Yihan Shi;Yuki Liang;Yusuke Sato;Ziwang Wei;Zongzhe Li,71,82.549295775,11.617460667,94.0,5.0,1,0,0,0,2,1,6,6,16,20,19,,,
+UBCV,2021,W,CHEM,235,,L23,Organic Chemistry Laboratory,Andrea Terpstra;Justin Chang,86,84.941860465,6.371544556,95.0,58.0,0,0,1,0,0,2,2,8,22,22,29,,,
+UBCV,2021,W,CHEM,235,,L24,Organic Chemistry Laboratory,Andrea Terpstra;Justin Chang,76,84.223684211,8.12337973,95.0,42.0,1,0,0,0,2,1,4,3,17,27,21,,,
+UBCV,2021,W,CHEM,235,,L25,Organic Chemistry Laboratory,Andrea Terpstra;Justin Chang,83,82.409638554,9.392571201,95.0,25.0,1,0,1,0,2,2,3,6,34,15,19,,,
+UBCV,2021,W,CHEM,235,,L26,Organic Chemistry Laboratory,Andrea Terpstra;Justin Chang,73,82.383561644,8.357681325,92.0,45.0,1,1,0,1,1,1,3,8,19,23,15,,,
+UBCV,2021,W,CHEM,235,,L27,Organic Chemistry Laboratory,Andrea Terpstra;Justin Chang,76,83.447368421,11.230191137,94.0,0.0,1,0,0,1,0,0,3,4,24,24,19,,,
+UBCV,2021,W,CHEM,235,,L3X,Organic Chemistry Laboratory,Jerome Lozada;Jingqi Lei;Justin Chang;William Chappell,16,79.6875,6.467547191,90.0,69.0,0,0,0,0,0,1,5,0,6,2,2,,,
+UBCV,2021,W,CHEM,235,,L5X,Organic Chemistry Laboratory,Brooke Parry;Hossein Yazdani Ahmadabadi;Jerome Lozada;Justin Chang,15,79.933333333,6.922702473,90.0,66.0,0,0,0,0,1,1,1,3,4,4,1,,,
+UBCV,2021,W,CHEM,235,,L7X,Organic Chemistry Laboratory,Athena Hu;Hassan Baalbaki;Jerome Lozada;Justin Chang,24,80.083333333,7.546474366,92.0,54.0,0,1,0,0,1,0,0,4,12,5,1,,,
+UBCV,2021,W,CHEM,235,,L3X,Organic Chemistry Laboratory,Justin Chang,16,79.7,,90.0,69.0,,,,,,,,,6,,,81.0,83.5,73.8
+UBCV,2021,W,CHEM,235,,L5X,Organic Chemistry Laboratory,Justin Chang,15,79.9,,90.0,66.0,,,,,,,,,,,,80.0,85.0,77.5
+UBCV,2021,W,CHEM,235,,L7X,Organic Chemistry Laboratory,Justin Chang,24,80.1,,92.0,54.0,,,,,,,,,12,,,81.0,83.5,79.5
+UBCV,2021,W,CHEM,235,,L12,Organic Chemistry Laboratory,Justin Chang;Jason Wickenden,84,81.2,,93.0,62.0,,,,,,7,11,8,18,29,9,83.0,87.0,76.0
+UBCV,2021,W,CHEM,235,,L13,Organic Chemistry Laboratory,Justin Chang,82,83.9,,95.0,60.0,,,,,,,,6,13,27,24,85.0,90.0,80.5
+UBCV,2021,W,CHEM,235,,L14,Organic Chemistry Laboratory,Justin Chang,78,82.8,,96.0,61.0,,,,,,6,,,22,22,17,84.0,87.0,80.0
+UBCV,2021,W,CHEM,235,,L15,Organic Chemistry Laboratory,Justin Chang,85,80.6,,95.0,55.0,,,,,,,9,8,21,30,7,83.0,87.0,76.0
+UBCV,2021,W,CHEM,235,,L16,Organic Chemistry Laboratory,Justin Chang,76,80.4,,94.0,57.0,,,,,,,,18,15,22,8,81.0,86.0,76.0
+UBCV,2021,W,CHEM,235,,L17,Organic Chemistry Laboratory,Justin Chang,86,82.6,,95.0,61.0,,,,,,,7,9,15,24,22,85.0,89.5,76.5
+UBCV,2021,W,CHEM,235,,L18,Organic Chemistry Laboratory,Justin Chang,84,82.7,,95.0,53.0,,,,,,,6,7,19,18,25,85.0,90.0,78.0
+UBCV,2021,W,CHEM,235,,L19,Organic Chemistry Laboratory,Justin Chang,70,76.7,,90.0,57.0,,,,,,,12,12,20,12,,78.0,82.0,73.0
+UBCV,2021,W,CHEM,235,,L22,Organic Chemistry Laboratory,Justin Chang,71,82.5,,94.0,5.0,,,,,,,6,6,16,20,19,85.0,90.0,80.0
+UBCV,2021,W,CHEM,235,,L23,Organic Chemistry Laboratory,Justin Chang,86,85.1,,95.0,68.0,,,,,,,,8,22,22,29,86.0,90.0,82.0
+UBCV,2021,W,CHEM,235,,L24,Organic Chemistry Laboratory,Justin Chang,76,84.2,,95.0,42.0,,,,,,,,,17,27,21,86.0,90.0,81.0
+UBCV,2021,W,CHEM,235,,L25,Organic Chemistry Laboratory,Justin Chang,83,82.7,,95.0,25.0,,,,,,,,7,34,15,19,83.0,88.0,80.0
+UBCV,2021,W,CHEM,235,,L26,Organic Chemistry Laboratory,Justin Chang,73,82.7,,92.0,45.0,,,,,,,,8,19,23,15,85.0,88.0,80.0
+UBCV,2021,W,CHEM,235,,L27,Organic Chemistry Laboratory,Justin Chang,76,83.4,,94.0,0.0,,,,,,,,,24,24,19,85.0,88.5,81.0
+UBCV,2022,S,CHEM,225,,Y1A,Introductory Synthetic Chemical Laboratory,Justin Chang;Jason Wickenden,12,85.1,,90.0,80.0,0,0,0,0,0,0,0,0,5,5,2,85.0,88.0,82.8
+UBCV,2022,S,CHEM,245,,Y3A,Intermediate Synthetic Chemistry Laboratory,Justin Chang;Jason Wickenden,18,82.1,,94.0,72.0,0,0,0,0,0,0,3,3,4,6,2,82.0,86.5,78.0
+UBCV,2022,W,CHEM,235,,L12,Organic Chemistry Laboratory,Justin Chang,78,74.2,,90.0,46.0,1,1,1,3,10,10,15,13,15,7,2,74.0,80.0,69.0
+UBCV,2022,W,CHEM,235,,L13,Organic Chemistry Laboratory,Justin Chang,77,75.6,,92.0,45.0,1,0,3,1,8,7,13,14,20,8,2,77.0,83.0,70.0
+UBCV,2022,W,CHEM,235,,L14,Organic Chemistry Laboratory,Justin Chang,84,76.1,,91.0,45.0,1,1,2,3,4,5,13,25,17,11,2,77.0,81.0,72.8
+UBCV,2022,W,CHEM,235,,L15,Organic Chemistry Laboratory,Justin Chang,82,74.7,,91.0,43.0,1,0,4,6,5,11,13,11,17,10,4,76.0,82.0,69.0
+UBCV,2022,W,CHEM,235,,L16,Organic Chemistry Laboratory,Justin Chang,87,77.8,,92.0,53.0,0,2,0,3,5,4,11,18,28,14,2,80.0,83.0,74.0
+UBCV,2022,W,CHEM,235,,L17,Organic Chemistry Laboratory,Justin Chang,78,78.1,,92.0,53.0,0,1,2,4,3,8,7,6,23,22,2,80.5,86.0,72.0
+UBCV,2022,W,CHEM,235,,L18,Organic Chemistry Laboratory,Justin Chang,83,77.5,,92.0,53.0,0,1,1,1,5,7,12,18,20,13,5,78.0,82.0,73.0
+UBCV,2023,W,CHEM,235,,L22,Organic Chemistry Laboratory,Justin Chang,72,80.1,,93.0,59.0,0,0,1,1,3,3,5,14,18,19,7,81.0,85.0,76.0
+UBCV,2023,W,CHEM,235,,L23,Organic Chemistry Laboratory,Justin Chang,70,78.4,,93.0,61.0,0,0,0,3,2,7,6,11,26,13,1,80.0,83.0,74.0
+UBCV,2023,W,CHEM,235,,L24,Organic Chemistry Laboratory,Justin Chang,62,80.6,,91.0,59.0,0,0,1,1,2,4,7,4,14,24,5,83.0,85.0,76.0
+UBCV,2023,W,CHEM,235,,L25,Organic Chemistry Laboratory,Justin Chang,81,78.5,,92.0,46.0,1,1,0,2,2,5,9,12,32,12,4,80.0,82.3,75.5
+UBCV,2023,W,CHEM,235,,L26,Organic Chemistry Laboratory,Justin Chang,73,81.8,,93.0,63.0,0,0,0,1,3,1,10,7,16,19,15,82.5,88.0,76.8
+UBCV,2023,W,CHEM,235,,L27,Organic Chemistry Laboratory,Justin Chang,77,78.3,,93.0,51.0,0,1,1,0,5,5,10,12,26,13,4,80.0,83.0,74.0
+UBCV,2023,W,CHEM,235,,L28,Organic Chemistry Laboratory,Justin Chang,66,80.7,,90.0,56.0,0,0,1,0,0,4,4,11,23,17,4,81.0,85.0,77.0
+UBCV,2023,W,CHEM,355,,L03,Chemistry Integrated Laboratory,Justin Chang,13,73.8,,85.0,58.0,0,0,1,1,0,2,2,4,1,2,0,76.0,78.0,70.0

@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,ARCH,437,,002,GEOM MODEL,"Barton, Michael;Flanders, David;Satterfield, Blair;Vass, Lorinc",31,81.68,3.42,87,70,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,20,5,0,,,
+UBC,2016,W,ARCH,517,,001,DESIGN MEDIA II,"Barton, Michael;Flanders, David;Satterfield, Blair;Vass, Lorinc",46,82.22,3,88,77,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,23,13,0,,,
+UBC,2017,W,ARCH,515,,001,DESIGN MEDIA I,"Long, Shelley;Vass, Lorinc",51,78.84,3.46,89,72,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,21,17,4,0,,,
+UBC,2017,W,ENDS,401,,001,ENV DESN STD III,"Satterfield, Blair;Vass, Lorinc",25,83.8,2.74,90,80,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,7,1,,,
+UBC,2018,W,ARCH,515,,001,DESIGN MEDIA I,"Miller, Mary;Vass, Lorinc",47,77.04,13.39,89,0,44,2,1,0,0,1,0,0,0,1,2,0,0,1,0,0,9,6,24,4,0,,,
+UBCV,2014,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Lorinc Vass;Robert Gaudin;Robert Machida;Robert Thomas Andrew Gaudin,32,84.03125,5.468292032,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,2,13,7,8,,,
+UBCV,2014,W,ARCH,517,,001,Design Media II,Blair Satterfield;David Flanders;Lorinc Vass;Robert Gaudin;Robert Machida;Robert Thomas Andrew Gaudin,52,83.84615385,5.046391121,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,17,19,8,,,
+UBCV,2014,W,ENDS,302,,001,Environmental Design Studio II,Jessica Hunter;Lorinc Vass;Mari Fujita,31,82.4516129,3.202485594,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,16,10,0,,,
+UBCV,2015,W,ENDS,281,,001,Architecture in Context and Across Cultures: A History,Lorinc Vass;Shannon Pitt;Sherry Mckay,87,79.988505747,8.195992005,95.0,42.0,,,,,,,,,,,,,,,,5,11,20,18,20,9,,,
+UBCV,2016,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Lorinc Vass;Michael Barton,31,81.67741936,3.419425846,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,4,20,5,0,,,
+UBCV,2016,W,ARCH,517,,001,Design Media II,Blair Satterfield;David Flanders;Lorinc Vass;Michael Barton;Stuart Lodge;Yajiao Fan,46,82.2173913,3.003058023,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,10,23,13,0,,,
+UBCV,2016,W,ARCH,538,A,001,Study of Architecture Abroad,George Stuart Wagner;Lorinc Vass,14,83.64285714,4.087638831,92.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,5,1,,,
+UBCV,2016,W,ARCH,538,B,001,Study of Architecture Abroad,George Stuart Wagner;Lorinc Vass,14,82.71428571,4.21405289,90.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,6,4,1,,,
+UBCV,2016,W,ARCH,539,,001,Architectural Design Abroad,George Stuart Wagner;Lorinc Vass,15,82.8,2.541090879,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,12,3,0,,,
+UBCV,2017,W,ARCH,515,,001,Design Media I,Kara Verbeek;Lorinc Vass;Sebastien Roy;Shelley Jiali Long;Shelley Long,51,78.843137255,3.460477129,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,9,21,17,4,0,,,
+UBCV,2017,W,ENDS,401,,001,Environmental Design Studio III,Blair Satterfield;Jeremie Dussault-Lefebvre;Lorinc Vass;Ryder Thalheimer,25,83.8,2.738612788,90.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,17,7,1,,,
+UBCV,2018,W,ARCH,515,,001,Design Media I,Christine Lee Rohrbacher;Christine Rohrbacher;Lorinc Vass;Luis Yanez Hernandez;Mary Miller;Shaheed Hassan Karim;Shaheed Karim,46,77.043478261,13.393126797,89.0,0.0,,,,,,,,,,,2,0,0,1,0,0,9,6,24,4,0,,,
+UBCV,2019,W,ARCH,515,,001,Design Media I,Blair Satterfield;Lorinc Vass;Luis Yanez Hernandez;Mary Miller;Tatiana Nozaki;Victoria Ga Mun Ng;Victoria Ng;Vincent Perron,52,82.519230769,3.712672441,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,39,5,5,,,
+UBCV,2023,W,ARCH,500,,001,Architectural Design Studio I,Joanne Gates;Niloufar Goodarzi;Christopher MacDonald;Lorinc Vass,44,81.84,,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,3,9,19,12,0,82.0,85.0,79.0
+UBCV,2023,W,DES,402,,201,Design Studio VI - Away,Lorinc Vass,18,84.17,,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,6,3,84.5,88.0,81.25

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2017,W,BIOL,341,,001,Neurobiology,Allyson Dyck;Austin A. Hunchak;Austin Hunchak;Julien Gibon;W Mathieson,144,76.701388889,10.046799484,96.0,39.0,2,0,3,8,10,19,23,19,25,20,15,,,
+UBCO,2018,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon,45,83.133333333,7.031099746,94.0,63.0,0,0,0,1,0,2,5,4,12,11,10,,,
+UBCO,2018,W,PSYO,311,,101,Memory,Barbara Rutherford;Chloe Briggs;Julien Gibon,120,76.033333333,12.041199118,96.0,0.0,2,1,4,6,10,14,15,16,22,20,10,,,
+UBCO,2019,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Diana Changirwa;Evan Kwong;Harjinder Janda;Jacqueline Alexandra Barnett;Jacqueline Barnett;Julien Gibon;Katherine-Faye Jansen;Katherine-Faye Karen Jansen;Matthew Lavery;Richard Plunkett;Robert Mothersole;Tyler Wenzel,80,84.1,12.000632895,98.0,17.0,1,0,2,1,1,5,4,6,12,18,30,,,
+UBCO,2019,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon;Mikhail Zebroff,91,81.285714286,11.394234131,99.0,55.0,0,0,3,3,8,8,7,7,10,18,27,,,
+UBCO,2019,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Diana Changirwa;Evan Kwong;Harjinder Janda;Jacqueline Alexandra Barnett;Jacqueline Barnett;Julien Gibon;Katherine-Faye Jansen;Katherine-Faye Karen Jansen;Matthew Lavery;Richard Plunkett;Robert Mothersole;Tyler Wenzel,57,87.280701754,7.873450836,97.0,58.0,0,0,1,0,1,1,1,4,7,14,28,,,
+UBCO,2020,W,BIOL,341,,001,Neurobiology,Clerissa Copeland;Julien Gibon;W Mathieson,139,75.834532374,13.464175291,96.0,0.0,4,1,9,11,7,14,13,14,24,28,14,,,
+UBCO,2020,W,BIOL,350,,101,Clinical Neuroscience,Bianca Vizcaino;Julien Gibon,135,76.881481481,15.233531285,100.0,0.0,6,6,5,9,4,9,13,19,19,15,30,,,
+UBCO,2021,W,BIOL,341,,001,Neurobiology,Damla Yucesoy;Julien Gibon;Lana Puddu,145,78.427586207,11.411339893,97.0,44.0,3,1,5,6,9,16,14,18,20,25,28,,,
+UBCO,2021,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon;Mahdi Abbasian,137,71.182481752,14.732526529,98.0,12.0,9,6,12,9,23,14,12,8,12,14,18,,,
+UBCO,2021,W,BIOL,341,,001,Neurobiology,Julien Gibon,145,78.4,,97.0,44.0,,,,6,9,16,14,18,20,25,28,80.0,88.0,71.0
+UBCO,2021,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon,137,71.4,,98.0,12.0,9,5,12,9,23,14,12,9,12,14,18,71.0,83.0,63.0
+UBCO,2022,W,BIOL,341,,001,Neurobiology,Julien Gibon,108,74.4,,95.0,47.0,4,1,8,4,15,10,12,14,19,11,10,75.5,83.0,66.0
+UBCO,2022,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon,89,72.3,,95.0,35.0,5,3,9,7,10,4,11,10,10,12,8,75.0,83.0,63.0

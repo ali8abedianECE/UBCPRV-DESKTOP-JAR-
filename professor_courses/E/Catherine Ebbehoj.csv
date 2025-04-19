@@ -1,0 +1,80 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,NURS,410,B,003,EXPL AVE NURS PR,"Ebbehoj, Catherine",10,82,5.94,92,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,2,1
+UBC,2003,W,NURS,410,B,003,EXPL AVE NURS PR,"Ebbehoj, Catherine",12,82.25,6.12,91,74,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,2,2
+UBC,2005,W,NURS,310,,001,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",57,78.2,6.95,88,58,56,0,1,0,0,0,0,0,0,0,0,0,1,0,3,6,13,5,15,13,0
+UBC,2005,W,NURS,310,,002,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",56,80.7,5.48,94,65,56,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,14,17,15,1
+UBC,2005,W,NURS,331,,002,NURSING CARE FML,"Carty, Elaine A;Ebbehoj, Catherine;Hewat, Roberta J W;Ricci, Joanne;TBA",54,76.39,9.96,86,13,53,1,0,0,0,0,1,0,0,0,1,0,0,0,0,5,15,13,15,5,0
+UBC,2005,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Marshall, Helga;Ricci, Joanne;Tognazzini, Paula",59,82.71,7.18,93,63,59,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,8,11,19,11
+UBC,2006,W,NURS,310,,001,CORE NURS PRACT,"Baumbusch, Jennifer;Ebbehoj, Catherine;Einboden, Rochelle;O'Flynn-Magee, Katherine",59,79.58,6.46,92,63,59,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,7,13,21,9,3
+UBC,2006,W,NURS,310,,002,CORE NURS PRACT,"Boschma, Geertje;Ebbehoj, Catherine;O'Flynn-Magee, Katherine;Osborne, Margaret",58,83.46,5.74,95,60,57,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,22,22,5
+UBC,2006,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Ricci, Joanne;Tognazzini, Paula",59,81.53,5.53,91,61,58,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,7,10,19,18,2
+UBC,2007,W,NURS,331,,002,NURS CARE FAMILY,"Ebbehoj, Catherine;Einboden, Rochelle;Ricci, Joanne",59,74.25,5.86,85,58,59,0,0,0,0,0,0,0,0,0,0,0,1,2,7,8,13,16,11,1,0
+UBC,2007,W,NURS,413,,001,FOSTERG POP HLTH,"Bassingthwaighte, Carol;Ebbehoj, Catherine;Ricci, Joanne;Tognazzini, Paula",56,84.4,6.21,96,68,55,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,17,17,11
+UBC,2009,S,NURS,331,A,941,NURS CARE FAMILY,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",60,78.43,6.2,92,55,60,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,8,17,20,7,2
+UBC,2009,W,NURS,333,,001,CHILDBRING WOMEN,"Brown, Helen Jean;Ebbehoj, Catherine",16,88,5.06,93,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8,7
+UBC,2009,W,NURS,333,,002,CHILDBRING WOMEN,"Brown, Helen Jean;Ebbehoj, Catherine",15,87.2,3.69,94,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,3
+UBC,2010,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne",15,82.73,4.32,90,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,7,4,1
+UBC,2010,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne",15,81.27,5.2,90,70,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,7,3,1
+UBC,2010,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",21,85.33,3.75,91,78,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,9,3
+UBC,2010,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine",18,83.18,4.86,91,72,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,6,2
+UBC,2010,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",14,83.29,4.07,91,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,3,1
+UBC,2010,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",14,83.71,4.78,91,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,4,2
+UBC,2010,W,NURS,427,,002,CONSOLD  PRACTCM,"Affleck, Frances;Ebbehoj, Catherine;Foster, Paula;Groening, Marlee;Jackson, Cathryn;Ricci, Joanne;Tan, Elsie;Valkenier, Beverley",90,,,,,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne",19,83.68,4.33,90,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,9,6,2
+UBC,2011,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne",19,82.95,3.87,90,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,9,5,1
+UBC,2011,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,82.4,3.66,88,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,8,0
+UBC,2011,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine",21,80.24,3.87,89,72,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,9,3,0
+UBC,2011,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,82.25,4.3,90,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,10,6,1
+UBC,2011,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,83.4,4.77,89,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,9,0
+UBC,2012,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne;Jetha, Farah;Lapinsky, Julie",20,81.35,4.18,87,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,6,0
+UBC,2012,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Hall, Wendy Anne;Jetha, Farah;Lapinsky, Julie",20,81.8,4.61,90,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,3,2
+UBC,2012,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,83.58,3.13,88,78,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,8,0
+UBC,2012,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine",21,80.9,4.02,89,74,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,8,3,0
+UBC,2012,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,83.58,3.64,90,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,8,1
+UBC,2012,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,83.26,3.07,88,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,7,0
+UBC,2013,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",19,81.58,3.61,88,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,6,0
+UBC,2013,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah;Lapinsky, Julie",19,81.21,4.97,90,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,7,3,2
+UBC,2013,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",20,82.7,4.04,91,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,9,5,1
+UBC,2013,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",19,80.79,3.12,86,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,2,0
+UBC,2013,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,84.45,3.22,92,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,10,1
+UBC,2013,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",18,82.67,3.55,88,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,6,0
+UBC,2014,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",20,83.05,3.01,88,78,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,5,0
+UBC,2014,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jetha, Farah",19,80.37,4.03,88,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,4,0
+UBC,2014,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,81.15,5.12,90,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,9,4,1
+UBC,2014,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,83.35,3.45,90,78,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11,5,1
+UBC,2014,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,79.85,3.96,88,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,8,3,0
+UBC,2014,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine;Jackson, Cathryn;McBurney, Sheila Mary;Mislang, Jonathan;Valkenier, Beverley",20,81.25,4.72,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,5,6,0
+UBC,2015,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine",17,82.71,5.52,93,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7,6,1
+UBC,2015,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,82.26,6.25,92,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,6,7,1
+UBC,2015,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,80.15,4.09,86,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,10,2,0
+UBC,2015,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,80.5,4.25,89,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,9,3,0
+UBC,2015,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",17,83.29,4.52,89,73,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,9,0
+UBC,2015,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,82.53,4.56,90,73,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,8,6,1
+UBC,2016,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,82.35,4.22,90,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,8,5,1
+UBC,2016,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine",21,80.52,3.98,87,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,4,6,0
+UBC,2016,W,NURS,333,,201,CHILDBRING WOMEN,"Ebbehoj, Catherine",20,83.15,5.64,92,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,7,6,3
+UBC,2016,W,NURS,333,,202,CHILDBRING WOMEN,"Ebbehoj, Catherine;Segaric, Cheryl",20,83.4,4.01,89,76,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,10,0
+UBC,2016,W,NURS,333,,405,CHILDBRING WOMEN,"Ebbehoj, Catherine",19,83.05,3.88,91,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,4,1
+UBC,2016,W,NURS,333,,406,CHILDBRING WOMEN,"Ebbehoj, Catherine",21,80.8,3.82,88,70,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,9,3,0
+UBC,2017,S,NURS,333,,943,CHILDBRING WOMEN,"Ebbehoj, Catherine;Segaric, Cheryl",20,80.15,3.12,86,73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,9,1,0
+UBC,2017,S,NURS,333,,944,CHILDBRING WOMEN,"Ebbehoj, Catherine;Segaric, Cheryl",16,80.63,3.65,86,71,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,1,0
+UBCV,2014,S,NURS,333,,943,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Catherine Ebbehoj;Farah Jetha,19,83.05263158,3.008759143,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,12,5,0
+UBCV,2014,S,NURS,333,,944,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Catherine Ebbehoj;Farah Jetha,19,80.36842105,4.030584825,88.0,71.0,,,,,,,,,,,0,0,0,0,0,,,4,9,4,0
+UBCV,2014,W,NURS,333,,201,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Anna Pawlak;Barbara Anne Webster;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jeyachandra Pillay;Jonathan Mislang;Sheila Mary Mcburney,20,81.15,5.122448017,90.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,9,,
+UBCV,2014,W,NURS,333,,202,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Anna Pawlak;Barbara Anne Webster;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jonathan Mislang;Sheila Mary Mcburney,20,83.35,3.453068811,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,11,5,
+UBCV,2014,W,NURS,333,,405,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Jonathan Mislang;Sheila Mary Mcburney,20,79.85,3.96398258,88.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,8,8,,0
+UBCV,2014,W,NURS,333,,406,"Professional Nursing Practice with Childbearing Women, Infants, and their Families",Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Jonathan Mislang;Sheila Mary Mcburney,20,81.25,4.722566207,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,6,5,6,0
+UBCV,2015,S,NURS,333,,943,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jennifer Fowler;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard;Sheila Mary Mcburney,17,82.70588235,5.52001705,93.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,7,6,
+UBCV,2015,S,NURS,333,,944,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jennifer Fowler;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard;Sheila Mary Mcburney,19,82.2631579,6.252484886,92.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,6,7,
+UBCV,2015,W,NURS,333,,201,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard,20,80.15,4.094604923,86.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,10,,0
+UBCV,2015,W,NURS,333,,202,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard,20,80.5,4.248838851,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,6,9,,0
+UBCV,2015,W,NURS,333,,405,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard,17,83.294117647,4.524443417,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,3,9,0
+UBCV,2015,W,NURS,333,,406,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Farah Jetha;Jeyachandra Pillay;Jonathan Mislang;Shannon Leonard,19,82.526315789,4.562752837,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,8,6,
+UBCV,2016,S,NURS,333,,943,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Harleen Deol;Jonathan Mislang;Shannon Leonard,20,82.35,4.221187162,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,5,8,5,1
+UBCV,2016,S,NURS,333,,944,Professional Nursing Practice with Childbearing Individuals and Families,Anna Pawlak;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Harleen Deol;Jonathan Mislang;Shannon Leonard,21,80.52380952,3.982700687,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,9,4,6,0
+UBCV,2016,W,NURS,333,,201,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Cheryl Segaric;Colleen Nicole Lum;Erika Monk;Jonathan Mislang;Natalie Lu,20,83.15,5.640781954,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,2,7,6,3
+UBCV,2016,W,NURS,333,,202,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Cheryl Segaric;Colleen Nicole Lum;Erika Monk;Jonathan Mislang;Natalie Lu,20,83.4,4.0052597,89.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,10,0
+UBCV,2016,W,NURS,333,,405,Professional Nursing Practice with Childbearing Individuals and Families,Amandeep Vashist;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Erika Monk;Jeyachandra Pillay;Jonathan Mislang;Mariana Veiga;Natalie Lu,19,83.05263158,3.879772104,91.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,12,4,1
+UBCV,2016,W,NURS,333,,406,Professional Nursing Practice with Childbearing Individuals and Families,Amandeep Vashist;Beverley Valkenier;Catherine Ebbehoj;Cathryn Jackson;Erika Monk;Jeyachandra Pillay;Jonathan Mislang,20,80.8,3.819616955,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,7,9,3,0
+UBCV,2017,S,NURS,333,,943,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Brianne Nicole Robb;Catherine Ebbehoj;Cathryn Jackson;Cheryl Segaric;Colleen Nicole Lum;Jonathan Mislang;Kristin Nadine Wall;Natalie Lu,20,80.15,3.116593957,86.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,9,9,1,0
+UBCV,2017,S,NURS,333,,944,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Brianne Nicole Robb;Catherine Ebbehoj;Cathryn Jackson;Cheryl Segaric;Jonathan Mislang;Kristin Nadine Wall;Natalie Lu,16,80.625,3.649200826,86.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,4,10,1,0

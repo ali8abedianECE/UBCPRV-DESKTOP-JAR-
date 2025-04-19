@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",18,84.5,6.32,97,72,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,7,3
+UBC,2011,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",20,79.7,5.02,88,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,4,0
+UBC,2012,W,PATH,407,,001,MED LAB TOXICLGY,"Halstead, Anne Catherine;Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",15,89.07,6.23,96,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8
+UBC,2014,W,PATH,407,,001,MED LAB TOXICLGY,"Holmes, Daniel;Keown, Paul Anthony;Li, Dailin;Martz, Walter;Mattman, Andre;Pudek, Morris;Purssell, Roy",23,84.91,6.61,92,66,23,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,8,7
+UBCV,2014,W,PATH,407,,001,"Medical Laboratory Toxicology: Analytical, Clinical",Andre Mattman;Dailin Li;Daniel Holmes;Morris Pudek;Paul Anthony Keown;Roy Purssell;Walter Martz,23,84.91304348,6.605184214,92.0,66.0,,,,,,,,,,,0,0,0,0,,,,,5,8,7

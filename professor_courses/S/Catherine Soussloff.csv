@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,W,ARTH,300,,002,ART HX METHODS,"Soussloff, Catherine",34,72.34,8.78,86,52,32,0,2,0,0,0,0,0,0,0,0,2,1,1,4,4,7,7,3,3,0
+UBC,2010,W,ARTH,540,A,001,20th CENT ART,"Soussloff, Catherine",6,89,2.65,93,86,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2
+UBC,2012,W,ARTH,540,A,001,20th CENT ART,"Soussloff, Catherine",12,89.75,3.57,95,82,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,7
+UBC,2013,W,ARTH,436,,001,EARLY MODERN ART,"Soussloff, Catherine",12,82.92,8.7,92,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,1,3,4
+UBC,2013,W,CCST,501,,001,SEM CONT CONTEXT,"Soussloff, Catherine",5,87.2,3.96,92,82,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2014,W,ARTH,336,,001,ITAL ART CULT,"Soussloff, Catherine",29,75.72,14.25,90,25,27,2,0,0,0,0,0,1,1,0,2,0,0,1,0,5,2,4,8,6,1
+UBC,2014,W,ARTH,437,,001,17 CENTURY SEMNR,"Soussloff, Catherine",13,74.17,24.27,91,0,11,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,2,2,2,3,1
+UBC,2014,W,ARTH,440,C,001,MOD & CONTEM ART,"Soussloff, Catherine",8,77.57,10.52,89,59,7,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,2,0
+UBC,2014,W,ARTH,540,A,001,20th CENT ART,"Soussloff, Catherine",14,85,3.84,91,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,6,2
+UBC,2015,W,ARTH,322,,001,ART&CULT 1550-,"Soussloff, Catherine",28,79.63,18.83,98,0,23,1,3,1,0,1,0,0,0,0,1,0,0,0,0,3,2,2,5,5,6
+UBC,2015,W,ARTH,440,C,001,MOD & CONTEM ART,"Soussloff, Catherine",7,91,2.83,93,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2015,W,ARTH,540,A,001,20th CENT ART,"Soussloff, Catherine",4,90.67,2.08,93,89,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+UBC,2015,W,ARTH,571,,001,METH ART HIST,"Soussloff, Catherine",9,88.5,1.85,90,85,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4
+UBC,2015,W,VISA,471,A,001,ADV SPCL STDY II,"Soussloff, Catherine",4,93,0,93,93,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2016,W,ARTH,300,,001,ART HX METHODS,"Soussloff, Catherine",29,72.63,19.45,95,9,24,3,2,0,0,1,0,0,2,0,3,0,1,1,1,3,1,3,8,4,2
+UBC,2016,W,ARTH,479,,001,PRF ACT & APPRCH,"Soussloff, Catherine",9,88.22,2.86,93,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2
+UBC,2017,W,ARTH,300,,002,ART HX METHODS,"Soussloff, Catherine",8,78,6.56,86,71,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2,0
+UBC,2017,W,ARTH,397,A,001,SPECIAL TOPICS,"Soussloff, Catherine",20,81.75,6.44,92,70,16,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,6,4,2
+UBC,2017,W,ARTH,479,,001,PRF ACT & APPRCH,"Soussloff, Catherine",8,84.75,6.02,91,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2
+UBC,2017,W,ARTH,539,A,001,19th CENT ART,"Soussloff, Catherine",11,85.36,9,92,61,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,4,4
+UBC,2017,W,VISA,479,,001,PRF ACT & APPRCH,"Soussloff, Catherine",4,79.5,11,89,65,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0
+UBC,2018,W,ARTH,322,,001,ART&CULT 1550-,"Soussloff, Catherine",44,78.9,14.72,96,30,40,2,1,1,0,0,0,0,1,1,2,0,2,2,3,2,2,3,9,6,11
+UBC,2018,W,ARTH,479,,001,PRF ACT & APPRCH,"Martinez, Guadalupe;Soussloff, Catherine",5,78.5,3.87,83,74,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0
+UBC,2018,W,ARTH,540,A,001,20th CENT ART,"Soussloff, Catherine",12,88.43,2.94,93,84,7,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2018,W,VISA,479,,001,PRF ACT & APPRCH,"Martinez, Guadalupe;Soussloff, Catherine",7,81.71,3.77,86,76,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,0
+UBCV,2014,W,ARTH,336,,001,Italian Art and Culture (1600-1700),Catherine Soussloff;Justin Barski,29,75.72413793,14.24754754,90.0,25.0,,,,,,,,,,,,,,,,5,,,8,6,
+UBCV,2014,W,ARTH,437,,001,Seminar in Early Modern: 17th Century,Catherine Soussloff,12,74.16666667,24.26682484,91.0,0.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2014,W,ARTH,440,C,001,Seminar in Modern and Contemporary Art,Catherine Soussloff,7,77.57142857,10.51755901,89.0,59.0,,,,,,,,,,,0,0,,,,,,,,,0
+UBCV,2014,W,ARTH,540,A,001,Studies in 20th Century Art,Catherine Soussloff,14,85.0,3.843075691,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,5,6,
+UBCV,2015,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Catherine Soussloff,24,79.625,18.830623763,98.0,0.0,,,,,,,,,,,,,,,,,,,5,5,6
+UBCV,2015,W,ARTH,440,C,001,Seminar in Modern and Contemporary Art,Catherine Soussloff,7,91.0,2.828427125,93.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2015,W,ARTH,571,,001,The Methodology of Art History,Catherine Soussloff;Charlotte Townsend-Gault,8,88.5,1.8516402,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,
+UBCV,2016,W,ARTH,300,,001,Seminar on Methods and Approaches in Art History,Catherine Soussloff,27,72.62962963,19.45438086,95.0,9.0,,,,,,,,,,,3,0,1,1,1,3,1,3,8,4,2
+UBCV,2016,W,ARTH,479,,001,Performance Actions and Approaches,Catherine Soussloff,9,88.22222222,2.862594006,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,6,2
+UBCV,2017,W,ARTH,300,,002,Seminar on Methods and Approaches in Art History,Catherine Soussloff,7,78.0,6.557438524,86.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,1,1,2,0
+UBCV,2017,W,ARTH,397,A,001,Special Topics,Catherine Soussloff,16,81.75,6.444636012,92.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,1,6,4,2
+UBCV,2017,W,ARTH,479,,001,Performance Actions and Approaches,Catherine Soussloff,8,84.75,6.017830649,91.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,3,2
+UBCV,2017,W,ARTH,539,A,001,Studies in 19th-Century Art,Catherine Soussloff,11,85.363636364,9.003029793,92.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,1,4,4
+UBCV,2018,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Catherine Soussloff,42,78.904761905,14.719838155,96.0,30.0,,,,,,,,,,,2,0,2,2,3,2,2,3,9,6,11
+UBCV,2018,W,ARTH,540,A,001,Studies in 20th Century Art,Catherine Soussloff,10,87.5,3.689323937,93.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,4
+UBCV,2018,W,VISA,479,,001,Performance Actions and Approaches,Catherine Soussloff;Guadalupe Martinez,7,81.714285714,3.773340064,86.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,2,0
+UBCV,2019,W,ARTH,322,,001,Early Modern Italian Art and Culture (ca. 1550-1700),Catherine Soussloff,41,76.195121951,16.274549936,94.0,24.0,,,,,,,,,,,3,1,0,2,3,2,4,5,5,7,9
+UBCV,2019,W,ARTH,381,,001,The Artist in the World,Catherine Soussloff,33,77.090909091,8.822427516,89.0,50.0,,,,,,,,,,,0,1,0,1,3,2,3,10,6,7,0
+UBCV,2019,W,ARTH,535,A,001,Early Modern: Renaissance,Catherine Soussloff,9,87.555555556,2.833333333,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,3
+UBCV,2019,W,CCST,500,,001,Seminar in Interdisciplinary Frameworks in Museum and Curatorial Studies,Catherine Soussloff,10,86.5,3.807886553,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,2
+UBCV,2020,W,ARTH,345,,001,"History of Photography: Archive, Spectacle, Reality",Catherine Soussloff;Erika Kindsfather;Kyoung Yong Lee;Monica Daniela Perez Montelongo;Monica Perez Montelongo,84,75.19047619,12.382922744,95.0,24.0,,,,,,,,,,,3,0,0,5,8,9,10,19,12,10,8
+UBCV,2020,W,CCST,500,,001,Seminar in Interdisciplinary Frameworks in Museum and Curatorial Studies,Catherine Soussloff;Jaleh Mansoor;Tai Smith,6,91.333333333,3.076794869,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4

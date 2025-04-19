@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,ETEC,510,,65D,DES TECH,"Boskic, Natasha",18,86.61,5.4,92,77,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,5,8,,,
+UBC,2012,W,ETEC,565,A,64B,SC SUB MAT FIELD,"Boskic, Natasha",17,93.47,4.68,99,85,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,,,
+UBC,2013,S,ETEC,565,A,66B,SC SUB MAT FIELD,"Boskic, Natasha",21,86.95,13.28,99,36,20,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,2,6,11,,,
+UBC,2013,W,ETEC,565,A,65B,SC SUB MAT FIELD,"Boskic, Natasha",14,88.21,6.83,97,73,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,6,,,
+UBC,2014,W,ETEC,565,A,64A,SC SUB MAT FIELD,"Boskic, Natasha",17,91.06,5.93,98,77,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,10,,,
+UBC,2015,S,ETEC,565,A,66A,SC SUB MAT FIELD,"Boskic, Natasha",19,88.72,5.12,97,79,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,8,,,
+UBC,2015,W,ETEC,565,A,65A,SC SUB MAT FIELD,"Boskic, Natasha",22,90.09,5.64,98,73,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,6,13,,,
+UBC,2016,W,ETEC,565,A,64A,SC SUB MAT FIELD,"Boskic, Natasha",24,90.83,3.56,97,83,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,15,,,
+UBC,2017,S,ETEC,565,A,66A,SC SUB MAT FIELD,"Boskic, Natasha",20,85.8,5.71,95,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,5,6,,,
+UBC,2017,W,EDUC,490,X,640,SPEC STUDIES ED,"Boskic, Natasha",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2017,W,ETEC,565,A,65A,SC SUB MAT FIELD,"Boskic, Natasha",23,90.45,3.94,97,78,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,15,,,
+UBC,2018,W,EDUC,490,X,640,SPEC STUDIES ED,"Boskic, Natasha",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2018,W,ETEC,524,,64A,LEARNING TCHNLGY,"Boskic, Natasha",19,85.74,7.58,95,64,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,2,5,8,,,
+UBCV,2014,W,ETEC,565,A,64A,Special Course in Subject Matter Field,Natasha Boskic,16,91.0625,5.926986306,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,-14,10,,,
+UBCV,2015,S,ETEC,565,A,66A,Special Course in Subject Matter Field,Natasha Boskic,18,88.72222222,5.119806471,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,,,6,8,,,
+UBCV,2015,W,ETEC,565,A,65A,Special Course in Subject Matter Field,Natasha Boskic,22,90.090909091,5.639225638,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,,6,13,,,
+UBCV,2016,W,ETEC,565,A,64A,Special Course in Subject Matter Field,Natasha Boskic,23,90.82608696,3.563095869,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,15,,,
+UBCV,2017,S,ETEC,565,A,66A,Special Course in Subject Matter Field,Natasha Boskic,20,85.8,5.708719093,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,7,5,6,,,
+UBCV,2017,W,ETEC,565,A,65A,Special Course in Subject Matter Field,Natasha Boskic,22,90.454545455,3.936729035,97.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,6,15,,,
+UBCV,2018,W,ETEC,524,,64A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,19,85.736842105,7.578053878,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,3,2,5,8,,,
+UBCV,2019,S,ETEC,524,,66A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,22,87.545454545,9.328539276,97.0,60.0,,,,,,,,,,,0,0,0,2,0,0,0,0,1,9,10,,,
+UBCV,2019,W,ETEC,524,,65A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,15,85.933333333,20.168811377,97.0,15.0,,,,,,,,,,,1,0,0,0,0,0,0,0,2,3,9,,,
+UBCV,2020,W,ETEC,524,,64B,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,23,88.347826087,6.249426851,95.0,65.0,,,,,,,,,,,0,0,0,0,1,0,0,0,3,9,10,,,
+UBCV,2021,S,ETEC,524,,66A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,22,90.5,7.22923957,98.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,1,4,16,,,
+UBCV,2021,W,ETEC,524,,65A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,17,92.0,5.049752469,98.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,3,13,,,
+UBCV,2021,S,ETEC,524,,66A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,22,90.5,,98.0,64.0,,,,,,,,,,,,,,,,,,,,,16,92.0,95.0,89.3
+UBCV,2021,W,ETEC,524,,65A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,17,92.0,,98.0,81.0,,,,,,,,,,,,,,,,,,,,,13,93.0,95.0,90.0
+UBCV,2022,W,ETEC,524,,64A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,22,88.1,,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,10,9,88.0,92.0,86.0
+UBCV,2023,W,ETEC,524,,65A,"Learning Technologies: Selection, Design, and Application",Natasha Boskic,18,92.12,,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,12,93.0,95.0,89.0

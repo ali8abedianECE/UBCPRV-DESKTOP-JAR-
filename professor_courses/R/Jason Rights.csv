@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,PSYC,546,J,001,Seminar in Psychological Problems,Jason Rights;Jordan Brace,23,96.652173913,1.873467753,100.0,95.0,0,0,0,0,0,0,0,0,0,0,23,,,
+UBCV,2020,W,PSYC,417,A,001,Special Topics in Psychology,Jason Rights;Kevin Roberts,25,80.96,11.054712419,96.0,52.0,0,1,0,1,0,4,1,2,3,6,7,,,
+UBCV,2020,W,PSYC,546,J,001,Seminar in Psychological Problems,Jason Rights;Kevin Roberts,14,93.857142857,1.65748386,96.0,91.0,0,0,0,0,0,0,0,0,0,0,14,,,
+UBCV,2021,W,PSYC,417,A,001,Special Topics in Psychology,Chantelle Cocquyt;Jason Rights;Lihan Chen,25,80.96,10.418253213,93.0,58.0,0,0,1,1,2,1,2,1,2,9,6,,,
+UBCV,2021,W,PSYC,546,B,001,Seminar in Psychological Problems,Jason Rights;William Jettinghoff,19,96.105263158,1.594948165,98.0,93.0,0,0,0,0,0,0,0,0,0,0,19,,,
+UBCV,2021,W,PSYC,546,J,001,Seminar in Psychological Problems,Jason Rights;Yingchi Guo,19,93.052631579,2.717713177,98.0,90.0,0,0,0,0,0,0,0,0,0,0,19,,,
+UBCV,2021,W,PSYC,417,A,001,Special Topics in Psychology,Jason Rights,25,81.0,,93.0,58.0,,,,,,,,,,9,6,85.0,88.0,74.0
+UBCV,2021,W,PSYC,546,B,001,Seminar in Psychological Problems,Jason Rights,19,96.1,,98.0,93.0,0,0,0,0,0,0,0,0,0,0,19,97.0,97.0,95.0
+UBCV,2021,W,PSYC,546,J,001,Seminar in Psychological Problems,Jason Rights,19,93.1,,98.0,90.0,0,0,0,0,0,0,0,0,0,0,19,92.0,95.0,91.0
+UBCV,2022,W,PSYC,417,A,001,Special Topics in Psychology,Jason Rights,18,81.2,,98.0,64.0,0,0,0,0,2,3,0,4,1,1,7,79.0,90.8,71.5
+UBCV,2022,W,PSYC,546,B,001,Seminar in Psychological Problems,Jason Rights,17,96.9,,100.0,93.0,0,0,0,0,0,0,0,0,0,0,17,97.0,98.0,96.0
+UBCV,2023,W,PSYC,417,A,001,Special Topics in Psychology,Jason Rights,34,80.8,,99.0,39.0,1,0,0,1,1,2,0,3,10,8,6,82.0,87.0,79.3
+UBCV,2023,W,PSYC,546,B,001,Seminar in Psychological Problems,Jason Rights,12,95.0,,95.0,95.0,0,0,0,0,0,0,0,0,0,0,12,95.0,95.0,95.0
+UBCV,2023,W,PSYC,546,J,001,Seminar in Psychological Problems,Jason Rights,36,95.0,,95.0,95.0,0,0,0,0,0,0,0,0,0,0,34,95.0,95.0,95.0

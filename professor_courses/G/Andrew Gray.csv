@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CRWR,521,,901,ED & MAN LIT MAG,"Gray, Andrew",8,91.5,4.24,96,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5
+UBC,2003,W,CRWR,521,,901,ED & MAN LIT MAG,"Gray, Andrew",8,92.75,3.11,97,88,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7
+UBC,2011,W,CRWR,521,A,001,ED & MAN LIT MAG,"Gray, Andrew",15,91.4,4.15,96,81,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,12
+UBC,2011,W,CRWR,521,B,001,ED & MAN LIT MAG,"Gray, Andrew",14,93.21,3.89,97,80,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13
+UBC,2013,W,CRWR,520,B,001,ED & MAN LIT MAG,"Gray, Andrew",6,93,1.67,95,91,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+UBC,2014,W,CRWR,470,A,001,SPECIAL PROJECTS,"Gray, Andrew",7,91.57,1.27,93,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2014,W,CRWR,520,B,001,ED & MAN LIT MAG,"Gray, Andrew",6,92.33,2.16,94,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2014,W,CRWR,470,A,001,Special Projects in Creative Writing,Andrew Gray,7,91.57142857,1.272418021,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2014,W,CRWR,520,B,001,Editing and Managing a Literary Magazine,Andrew Gray,6,92.33333333,2.160246899,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5

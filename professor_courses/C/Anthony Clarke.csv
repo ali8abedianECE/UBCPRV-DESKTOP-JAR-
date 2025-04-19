@@ -1,0 +1,24 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PETE,320,,101,C&I PETE: ELEM,"Clarke, Anthony",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,EDUC,432,A,62A,SUPRVSN TEACHING,"Clarke, Anthony",12,90.5,8.8,96,67,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,10
+UBC,2007,W,EDUC,432,A,62A,SUPRVSN TEACHING,"Clarke, Anthony",21,84.2,11.01,97,67,20,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,8,0,0,9
+UBC,2011,S,EDCP,508,B,93A,REV RES CURR&PED,"Butler, Joy;Clarke, Anthony",22,91.5,3.78,97,82,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,15
+UBC,2011,W,EDUC,432,A,62C,SUPRVSN TEACHING,"Clarke, Anthony",26,88.46,8.41,97,67,26,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,0,1,17
+UBC,2016,W,EDCP,602,A,032,CNCPT RESRCH SEM,"Clarke, Anthony",18,92.17,1.34,95,90,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+UBC,2016,W,EDUC,450,A,101,INQUIRY SEMNR 1,"Clarke, Anthony",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,451,A,101,INQUIRY SEMNR 2,"Clarke, Anthony",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,602,A,032,CNCPT RESRCH SEM,"Clarke, Anthony",7,92.86,1.68,95,91,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2017,W,EDUC,450,A,101,INQUIRY SEMNR 1,"Clarke, Anthony",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDUC,451,A,101,INQUIRY SEMNR 2,"Clarke, Anthony",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDCP,585,E,951,SPECIAL CURR&PED,"Clarke, Anthony",11,94.18,1.25,97,93,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+UBC,2018,W,EDCP,602,A,032,CNCPT RESRCH SEM,"Clarke, Anthony",10,94.3,1.25,96,93,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+UBC,2018,W,EDUC,450,A,111,INQUIRY SEMNR 1,"Clarke, Anthony",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDUC,451,A,111,INQUIRY SEMNR 2,"Clarke, Anthony",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2016,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Anthony Clarke,18,92.16666667,1.339446769,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2017,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Anthony Clarke,7,92.857142857,1.67616342,95.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2018,S,EDCP,585,E,951,Special Course in Curriculum and Pedagogy,Anthony Clarke,11,94.181818182,1.250454463,97.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2018,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Anthony Clarke,10,94.3,1.251665557,96.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2019,S,EDCP,585,E,951,Special Course in Curriculum and Pedagogy,Anthony Clarke,12,94.583333333,1.083624669,96.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2019,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Ann Anderson;Anthony Clarke,11,91.272727273,1.103712743,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2020,S,EDCP,585,E,952,Special Course in Curriculum and Pedagogy,Anthony Clarke,6,95.166666667,1.169045194,97.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2020,W,EDCP,569,,031,Schooling in Comparative Perspective: North American and International Interpretations,Anthony Clarke,15,94.466666667,3.204163958,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,14

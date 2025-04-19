@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,DSCI,100,,001,Introduction to Data Science,Daniel Alimohd;Grandon Seto;Jordan Bourak;Petal Vitis;Tiffany Timbers;Trevor Campbell;Wei Jie Chow,69,77.391304348,9.925038734,93.0,47.0,2,0,1,4,5,4,9,11,18,9,6
+UBCV,2019,W,DSCI,100,,002,Introduction to Data Science,Connor Mcdonald;Daniel Alimohd;Grandon Seto;Hayden Mctavish;Jordan Bourak;Kevin Le;Melissa Lee;Michela Minerva;Trevor Campbell;Wei Jie Chow;Yuru Liu,168,80.392857143,10.744186962,94.0,20.0,2,1,2,5,10,7,10,24,37,45,25
+UBCV,2020,S,DSCI,100,,002,Introduction to Data Science,A Ram Kang;Abdul-Wasay Hayat;Daniel Alimohd;Grandon Seto;Jennifer Vincent;Kevin Le;Melissa Lee;Pramoda Sachinthana Jayasinghe;Yutong Li,117,78.803418803,8.829065749,94.0,44.0,1,0,0,4,11,8,11,16,32,23,11

@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,PHIL,102,,001,INTR PHILSPHY II,"Emmett, Kelin",117,69.95,14.34,97,14,102,8,4,0,0,0,2,1,2,3,8,3,7,7,8,18,14,18,17,6,4
+UBC,2017,W,PHIL,330,,001,SOCL POL PHIL,"Emmett, Kelin",68,73.85,8.25,85,21,64,1,3,0,0,0,0,1,0,0,1,0,0,0,4,15,14,18,10,3,0
+UBC,2017,W,PHIL,335,,001,POWR & OPPRESSN,"Emmett, Kelin",75,72.16,12.44,90,0,68,2,3,0,0,1,0,0,1,0,2,2,1,4,3,9,22,11,12,3,1
+UBC,2017,W,PHIL,491,,002,SEM PHIL MAJORS,"Emmett, Kelin",23,74.17,16.17,90,9,22,1,0,0,0,1,0,0,0,0,1,0,1,0,2,3,3,2,8,2,1
+UBC,2018,W,PHIL,102,,001,INTR PHILSPHY II,"Emmett, Kelin",115,67.42,16.98,92,0,102,11,1,0,1,2,1,2,2,4,11,7,10,9,6,15,14,14,16,8,3
+UBC,2018,W,PHIL,330,,001,SOCL POL PHIL,"Emmett, Kelin",73,69.91,18.28,87,0,65,5,0,0,2,2,3,0,0,0,5,0,0,2,7,15,13,8,14,6,0
+UBC,2018,W,PHIL,335,,001,POWR & OPPRESSN,"Emmett, Kelin",85,73.47,13.95,90,0,79,4,1,0,0,1,0,3,0,0,4,0,1,0,3,9,22,22,14,5,3
+UBC,2018,W,PHIL,338,,001,PHIL OF LAW,"Emmett, Kelin",77,73.53,11.31,91,17,71,2,1,0,3,0,1,0,0,1,2,2,3,0,9,6,17,10,17,3,4
+UBCV,2017,W,PHIL,102,,001,Introduction to Philosophy II,Graham Moore;Graham Seth Moore;Kelin Anne Emmett;Kelin Emmett,113,69.920353982,14.147274847,97.0,14.0,,,,,,,,,,,8,3,7,7,8,21,14,18,17,6,4
+UBCV,2017,W,PHIL,330,,001,Social and Political Philosophy,Chieh-Ling Cheng;Kelin Anne Emmett;Kelin Emmett;Scott Allen Anderson,65,73.846153846,8.252330673,85.0,21.0,,,,,,,,,,,1,0,0,0,4,15,14,18,10,3,0
+UBCV,2017,W,PHIL,335,,001,Power and Oppression,Kelin Anne Emmett;Kelin Emmett;Kinley Gillette,72,71.944444444,12.3469662,90.0,0.0,,,,,,,,,,,2,2,1,5,3,10,22,11,12,3,1
+UBCV,2017,W,PHIL,491,,002,Seminar for Majors in Philosophy,Kelin Anne Emmett;Kelin Emmett;Margaret Schabas,22,77.136363636,7.899942462,90.0,58.0,,,,,,,,,,,0,0,1,0,2,3,3,2,8,2,1
+UBCV,2018,W,PHIL,102,,001,Introduction to Philosophy II,Cristian Trout;Kelin Emmett;Shuguo Tang,114,67.859649123,16.307269237,92.0,0.0,,,,,,,,,,,10,7,10,10,6,15,14,15,16,8,3
+UBCV,2018,W,PHIL,330,,001,Social and Political Philosophy,Jelena Markovic;Kelin Emmett,73,69.726027397,17.960033001,87.0,0.0,,,,,,,,,,,5,0,1,2,8,15,14,8,14,6,0
+UBCV,2018,W,PHIL,335,,001,Power and Oppression,Kelin Emmett;Nathan Cockram,84,74.142857143,12.726163977,90.0,0.0,,,,,,,,,,,3,0,1,0,4,8,22,24,14,5,3
+UBCV,2018,W,PHIL,338,,001,Philosophy of Law,Chieh-Ling Cheng;Kelin Emmett;Thomas Jacob Bittner,76,73.315789474,11.284456007,91.0,17.0,,,,,,,,,,,2,2,4,0,9,7,17,11,17,3,4
+UBCV,2019,W,PHIL,102,,001,Introduction to Philosophy II,Brooks Sommerville;Gabriel Freund;Gabriel Isaac Freund;Kelin Emmett;Richard Johns,94,75.234042553,14.605511945,93.0,2.0,,,,,,,,,,,3,3,3,1,1,5,14,25,25,11,3
+UBCV,2019,W,PHIL,102,,002,Introduction to Philosophy II,Bruno Guindon;Gabriel Freund;Gabriel Isaac Freund;Kelin Emmett,98,71.632653061,12.826669828,92.0,14.0,,,,,,,,,,,6,1,2,8,8,17,17,10,17,10,2
+UBCV,2019,W,PHIL,330,,001,Social and Political Philosophy,Bianca Crewe;John Henry Beatty;Kelin Emmett,71,77.647887324,9.216597748,93.0,46.0,,,,,,,,,,,1,0,1,3,5,6,9,9,20,10,7
+UBCV,2019,W,PHIL,330,,002,Social and Political Philosophy,Irwin Chan;Jelena Markovic;Kelin Emmett;Scott Allen Anderson;Yu Shing Chan,73,75.369863014,11.035934801,89.0,0.0,,,,,,,,,,,1,0,2,3,1,2,18,27,14,5,0
+UBCV,2019,W,PHIL,335,,001,Power and Oppression,Emily Claire Rouse Tilton;Emily Tilton;Kelin Emmett;Willow Verkerk,79,75.810126582,10.784694698,89.0,0.0,,,,,,,,,,,1,0,1,2,4,9,17,16,22,7,0
+UBCV,2019,W,PHIL,338,,001,Philosophy of Law,Emily Claire Rouse Tilton;Emily Tilton;Kelin Emmett,96,74.28125,12.697039129,90.0,0.0,,,,,,,,,,,3,2,0,2,8,11,20,12,25,11,2
+UBCV,2020,W,PHIL,102,,002,Introduction to Philosophy II,Brooks Sommerville;Kelin Emmett;Samuel Delorme;Stefan Lukits;Zorn Rose,117,78.299145299,11.298661011,94.0,30.0,,,,,,,,,,,2,4,2,7,6,4,10,17,23,28,14
+UBCV,2020,W,PHIL,330,,002,Social and Political Philosophy,Catherine Prueitt;Emily Tilton;Gabriel Freund;Kelin Emmett;Kimberley Brownlee;Kimberly Brownlee;Nathan Cockram,61,72.754098361,17.595127865,92.0,0.0,,,,,,,,,,,3,1,2,2,4,4,15,8,12,6,4
+UBCV,2020,W,PHIL,335,,001,Power and Oppression,Emily Tilton;Kelin Emmett;Scott Allen Anderson,75,74.933333333,10.628026861,88.0,0.0,,,,,,,,,,,1,0,2,0,3,11,16,21,16,5,0
+UBCV,2020,W,PHIL,338,,001,Philosophy of Law,Emily Tilton;Irwin Chan;Kelin Emmett;Nathan Cockram,71,75.267605634,10.421074453,87.0,20.0,,,,,,,,,,,3,0,2,3,2,1,10,26,20,4,0
+UBCV,2020,W,PHIL,489,,001,Directed Reading,Alan Walter Richardson;Kelin Emmett;Robert Brain,8,91.625,4.627171305,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5

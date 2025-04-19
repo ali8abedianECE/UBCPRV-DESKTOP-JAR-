@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,MIDW,108,,002,FNDTNS MIDW PRCT,"Campbell, Kim;Jevitt, Cecilia;Metcalfe, Quinn",19,84.79,5.53,93,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,8,4,,,
+UBC,2018,W,MIDW,430,,001,COMP THRY&PRCTC,"Broten, Courtney;Jevitt, Cecilia;Vedam, Saraswathi",15,91.13,4.29,95,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,12,,,
+UBCV,2018,W,MIDW,108,,002,Foundations for Midwifery Practice,Cecilia Jevitt;Kim Campbell;Quinn Metcalfe,20,84.55,5.491380806,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,2,5,8,4,,,
+UBCV,2018,W,MIDW,430,,001,Comprehensive Midwifery Theory and Practice,Cathryn Ellis;Cecilia Jevitt;Courtney Broten;Saraswathi Vedam,15,91.133333333,4.290632099,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,12,,,
+UBCV,2019,W,MIDW,430,,001,Comprehensive Midwifery Theory and Practice,Cecilia Jevitt;Saraswathi Vedam,20,91.45,3.017056774,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,14,,,
+UBCV,2020,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Allison Campbell;Cecilia Jevitt;Lorna Mcrae,16,90.4375,5.291108894,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,0,13,,,
+UBCV,2021,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Ann Lovold;Cecilia Jevitt;Lorna Mcrae,20,92.25,3.369757136,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,17,,,
+UBCV,2021,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Cecilia Jevitt;Ann Lovold;Lorna Mcrae,20,92.3,,97.0,81.0,,,,,,,,,,,,,,,,,,,,,17,93.0,94.0,91.0
+UBCV,2022,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Cecilia Jevitt;Lorna McRae;Tanya Momtazian,19,91.8,,96.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,17,92.0,93.0,90.5
+UBCV,2023,W,MIDW,102,,001,Birth and its Meanings,Luba Butska;Allison Campbell;Cecilia Duran;Rebecca Geddes;Cecilia Jevitt;Kaveri Mayra;Kellie Thiessen;Michelle Turner,32,96.84,,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,31,97.5,99.0,95.0
+UBCV,2023,W,MIDW,103,,001,Applied Health Services for Maternity Providers,Lindsay Brimblecombe;Allison Campbell;Cecilia Duran;Zoe Hodgson;Cecilia Jevitt;Kellie Thiessen;Michelle Turner,28,86.54,,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,17,5,87.0,89.0,85.0
+UBCV,2023,W,MIDW,104,,001,Lactation and Infant Feeding for Maternity Care Providers,Marianne Brophy;Allison Campbell;Cecilia Duran;Hannah Goto;Cecilia Jevitt;Kellie Thiessen,25,92.92,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,21,93.5,95.0,91.75
+UBCV,2023,W,MIDW,106,,001,Reproductive Anatomy and Physiology,Lindsay Brimblecombe;Allison Campbell;Cecilia Duran;Cecilia Jevitt;Claudia Krebs;Kellie Thiessen,28,94.75,,100.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,27,95.0,96.0,93.0
+UBCV,2023,W,MIDW,107,,001,Physical Assessment,Natalie Amram;Allison Campbell;Cecilia Duran;Cecilia Jevitt;Ann Lovold;Kellie Thiessen;Michelle Turner,28,87.82,,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,11,12,89.0,91.0,86.0
+UBCV,2023,W,MIDW,115,,001,Research Methods for Midwives,Lindsay Brimblecombe;Cecilia Duran;Cecilia Jevitt;Kaveri Mayra;Kellie Thiessen,23,89.82,,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,7,13,91.0,93.0,86.25
+UBCV,2023,W,MIDW,201,,001,"Midwifery Theory for Antepartum, Postpartum and Newborn Care",Courtney Broten;Luba Butska;Cecilia Jevitt;Mojgan Nadafi;Valerie Simmons;Kellie Thiessen,26,90.0,,94.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,19,90.5,91.0,88.5
+UBCV,2023,W,MIDW,210,,001,Evidence-Informed Midwifery,Cecilia Jevitt;Kaveri Mayra;Elizabeth Nethery;Kellie Thiessen,23,87.91,,96.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,3,1,4,13,91.0,94.5,84.5
+UBCV,2023,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Alixandra Bacon;Allison Campbell;Kim Campbell;Cecilia Jevitt;Jennifer Nguyen;Valerie Simmons;Kellie Thiessen,17,81.35,,89.0,62.0,,,,,,,,,,,1,0,0,0,1,1,0,2,3,9,0,85.0,88.0,79.0
+UBCV,2023,W,MIDW,405,,001,Theory for Advanced Midwifery Care,Natalie Amram;Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,18,92.61,,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,15,93.5,94.75,91.5
+UBCV,2023,W,MIDW,435,,001,Comprehensive Midwifery Theory and Practice,Lindsay Brimblecombe;Allison Campbell;Cecilia Jevitt;Tanya Momtazian;Kellie Thiessen,19,90.11,,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,9,89.5,91.75,88.25

@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,ARST,540,,002,ARCH PUBLIC SERV,"Hicks, Deborah",19,84.11,5.59,90,66,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,9,1
+UBC,2016,W,LIBR,504,,001,INFO ORG MGMT,"Hicks, Deborah",26,85.46,3.3,90,79,24,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,8,12,3
+UBC,2016,W,LIBR,506,,002,HUMAN-INFRMATION,"Hicks, Deborah",35,84.43,1.94,88,80,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,16,0
+UBC,2016,W,LIBR,530,,001,SUBJ INFO SERVIC,"Hicks, Deborah",12,87.17,1.8,89,84,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0
+UBC,2017,S,ARST,570,,942,MANGMT INFO ORGS,"Hicks, Deborah",5,86,2.83,89,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2017,S,LIBR,504,,942,INFO ORG MGMT,"Hicks, Deborah",31,87.3,1.68,90,83,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,26,2
+UBC,2017,S,LIBR,561,,941,INFO POLICY,"Hicks, Deborah",14,84.21,2.01,88,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,5,0
+UBC,2017,S,LIBR,561,,WB1,INFO POLICY,"Hicks, Deborah",24,85.7,3.07,91,74,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,19,1
+UBCV,2016,W,ARST,540,,002,Archival Public Services,Deborah Hicks,19,84.10526316,5.586638194,90.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,0,7,9,1
+UBCV,2016,W,LIBR,504,,001,Management of Information Organizations,Deborah Hicks,24,85.45833333,3.296627614,90.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,8,12,3
+UBCV,2016,W,LIBR,506,,002,Human-Information Interaction,Deborah Hicks;Kelly Burke,35,84.42857143,1.944611171,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,19,16,0
+UBCV,2016,W,LIBR,530,,001,Subject-Based Information Services,Deborah Hicks,12,87.16666667,1.800673275,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,0
+UBCV,2017,S,ARST,570,,942,Management of Information Organizations,Deborah Hicks;Michelle Kaczmarek,5,86.0,2.828427125,89.0,83.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2017,S,LIBR,504,,942,Management of Information Organizations,Deborah Hicks;Michelle Kaczmarek,30,87.3,1.68461599,90.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,26,2
+UBCV,2017,S,LIBR,561,,941,Information Policy,Deborah Hicks;Michelle Kaczmarek,14,84.214285714,2.006856379,88.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,9,5,0
+UBCV,2017,S,LIBR,561,,WB1,Information Policy,Deborah Hicks;Michelle Kaczmarek,23,85.695652174,3.066457574,91.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,19,1

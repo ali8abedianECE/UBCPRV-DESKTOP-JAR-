@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,ELEC,291,,20E,Electrical and Computer Engineering Design Studio,Francisco Paz;Jeanie Hakansson Malone;Jeanie Malone;Jesus Calvino-Fraga;Manyou Ma;Reuben Levi Paul;Reuben Paul;Robert David Evans;Robert Evans,110,85.345454545,6.586664821,97.0,63.0,0,0,0,,,,6,11,26,25,39
+UBCV,2016,W,ELEC,204,,101,Linear Circuits,Huaying Tian;Manyou Ma;Saloome Motavas;Sampath Ramaa Krishna Satti;Sampath Satti,122,77.03278689,16.46932256,100.0,11.0,8,4,3,6,4,14,13,5,11,16,38
+UBCV,2016,W,ELEC,205,,L1A,Electronics Laboratory,Huaying Tian;Manyou Ma;Saloome Motavas;Sampath Satti,27,84.18518519,6.633464329,96.0,66.0,0,0,0,0,1,1,0,0,11,10,4
+UBCV,2016,W,ELEC,205,,L1B,Electronics Laboratory,Huaying Tian;Manyou Ma;Saloome Motavas;Sampath Satti,30,86.33333333,6.369828306,97.0,69.0,0,0,0,0,0,2,0,0,7,14,7
+UBCV,2016,W,ELEC,291,,201,Electrical Engineering Design Studio I,Jesus Calvino-Fraga;Manyou Ma;Min Ai;Mustafa Hammood;Shekoofeh Azizi;Siamak Rahmanian;Yang Zhou;Yekaterina Lim;Ziyu Wang,150,82.02,7.873556116,97.0,50.0,0,2,0,1,5,7,6,20,45,40,24
+UBCV,2016,W,ELEC,292,,201,Biomedical Engineering Design Studio,Jesus Calvino-Fraga;Manyou Ma;Min Ai;Mustafa Hammood;Shekoofeh Azizi;Siamak Rahmanian;Yang Zhou;Yekaterina Lim;Ziyu Wang,20,88.35,3.937338134,95.0,81.0,0,0,0,0,0,0,0,0,3,8,9
+UBCV,2017,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata;Manyou Ma,35,81.771428571,12.092987064,99.0,43.0,1,0,2,0,0,3,2,5,3,10,9
+UBCV,2017,W,ELEC,331,,201,Computer Communications,Ahmed Mostafa;Manyou Ma;Wai-Shuen Vincent Wong;Yanan Sun,97,67.329896907,15.313883713,98.0,18.0,6,18,5,4,11,9,10,11,9,10,4
+UBCV,2018,W,ELEC,331,,201,Computer Communications,Farhad Dashti Ardakani;Manyou Ma;Wai-Shuen Vincent Wong;Yinjia Huo,75,68.893333333,17.958340179,97.0,7.0,9,3,5,5,6,10,6,9,5,10,7
+UBCV,2019,W,ELEC,331,,201,Computer Communications,Farhad Dashti Ardakani;Manyou Ma;Rui Huang;Wai-Shuen Vincent Wong,104,71.913461538,11.301783154,92.0,38.0,2,3,9,12,5,14,11,17,18,8,5

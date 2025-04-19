@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,MECH,380,,201,FLUID DYNAMICS,"Elfring, Gwynn",104,72.46,11.41,94,23,99,4,0,0,1,0,0,1,0,3,4,2,5,6,9,18,16,13,16,11,3,,,
+UBC,2014,W,MECH,380,,201,FLUID DYNAMICS,"Elfring, Gwynn",115,71.85,13.75,97,6,107,5,2,0,1,1,0,0,0,4,5,3,8,8,15,16,15,12,8,10,12,,,
+UBC,2014,W,MECH,550,L,101,SPEC ADV COURSES,"Elfring, Gwynn",8,83.75,7.78,93,74,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,2,,,
+UBC,2015,W,MECH,358,,201,ENGINEERING ANYL,"Elfring, Gwynn",98,72.88,13.57,96,17,92,4,2,0,0,0,1,1,0,2,4,4,5,7,8,12,12,9,18,11,6,,,
+UBC,2015,W,MECH,380,,201,FLUID DYNAMICS,"Elfring, Gwynn",125,72.11,13.53,99,26,115,7,2,1,0,0,0,1,0,6,7,9,10,2,8,16,17,10,24,10,9,,,
+UBC,2016,W,MECH,358,,201,ENGINEERING ANYL,"Elfring, Gwynn",108,73.54,14.21,97,26,98,9,1,0,0,0,0,1,3,5,9,1,2,7,6,16,12,11,18,15,10,,,
+UBC,2016,W,MECH,380,,201,FLUID DYNAMICS,"Elfring, Gwynn",119,73.52,12.4,98,39,113,5,1,0,0,0,0,0,1,4,5,4,8,6,11,11,22,10,14,14,13,,,
+UBC,2016,W,MECH,410,R,101,SPECIAL TOPICS,"Elfring, Gwynn",7,86.29,7.48,98,73,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,2,,,
+UBC,2016,W,MECH,550,L,101,SPEC ADV COURSES,"Elfring, Gwynn",4,89.5,7.37,98,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2017,W,MECH,358,,201,ENGINEERING ANYL,"Elfring, Gwynn",121,77.03,15.85,100,0,113,6,2,0,0,1,1,0,1,3,6,0,4,10,9,5,13,10,17,21,24,,,
+UBC,2017,W,MECH,410,R,201,SPECIAL TOPICS,"Elfring, Gwynn",10,80.8,7.74,95,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,3,1,,,
+UBC,2017,W,MECH,502,,101,FLUID MECHANICS,"Elfring, Gwynn",18,83.82,9.88,98,68,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,6,5,,,
+UBC,2017,W,MECH,550,L,201,SPEC ADV COURSES,"Elfring, Gwynn",8,85,8.15,93,72,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,,,
+UBC,2018,W,MECH,280,,201,FLUID MECHANICS,"Elfring, Gwynn",67,74.66,13.08,95,25,63,1,2,0,1,0,0,1,0,0,1,4,0,7,5,6,8,5,11,9,8,,,
+UBC,2018,W,MECH,502,,101,FLUID MECHANICS,"Elfring, Gwynn",16,71.56,18.36,95,31,14,2,0,0,0,0,0,0,1,1,2,0,0,4,0,0,4,0,1,2,3,,,
+UBCV,2014,W,MECH,380,,201,Fluid Dynamics,Gwynn Elfring,113,71.84955752,13.68864313,97.0,6.0,,,,,,,,,,,5,3,8,8,15,16,16,12,8,10,12,,,
+UBCV,2014,W,MECH,550,L,101,Special Advanced Courses,Gwynn Elfring,8,83.75,7.778174593,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Zhiwei Peng,96,72.875,13.572611741,96.0,17.0,,,,,,,,,,,,,5,7,8,12,12,9,18,11,6,,,
+UBCV,2015,W,MECH,380,,201,Fluid Dynamics,Ali Etrati;Gaurav Goyal;Gwynn Elfring;Seyed Ali Etrati Khosroshahi;Zhiwei Peng,122,72.106557377,13.532823505,99.0,26.0,,,,,,,,,,,7,9,10,2,8,16,17,10,24,10,9,,,
+UBCV,2016,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Kai Kin Gary Yan,107,73.54205608,14.20953731,97.0,26.0,,,,,,,,,,,9,1,2,7,6,16,12,11,18,15,10,,,
+UBCV,2016,W,MECH,380,,201,Fluid Dynamics,Charu Datt;Gwynn Elfring;Parisa Sarmadi,118,73.51694915,12.40466762,98.0,39.0,,,,,,,,,,,5,4,8,6,11,11,22,10,14,14,13,,,
+UBCV,2016,W,MECH,410,R,101,Special Topics in Mechanical Engineering,Gwynn Elfring,7,86.28571429,7.476948703,98.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,4,2,,,
+UBCV,2017,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Maryam Mohtajeb;Masoud Hejazi,118,77.677966102,14.215605579,100.0,14.0,,,,,,,,,,,5,0,4,10,9,5,13,10,17,21,24,,,
+UBCV,2017,W,MECH,410,R,201,Special Topics in Mechanical Engineering,Gwynn Elfring,10,80.8,7.743097284,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,2,3,1,,,
+UBCV,2017,W,MECH,502,,101,Fluid Mechanics,Dana Grecov;Gwynn Elfring,17,83.823529412,9.882024679,98.0,68.0,,,,,,,,,,,0,0,0,0,0,4,0,0,2,6,5,,,
+UBCV,2017,W,MECH,550,L,201,Special Advanced Courses,Gwynn Elfring,6,85.0,8.148619515,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,2,2,,,
+UBCV,2018,W,MECH,280,,201,Introduction to Fluid Mechanics,Gwynn Elfring;Ronak Gupta;Seyed Arman Abtahi,65,73.876923077,14.419504686,95.0,24.0,,,,,,,,,,,2,4,0,7,5,6,8,5,11,9,8,,,
+UBCV,2018,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,16,71.5625,18.362892837,95.0,31.0,,,,,,,,,,,2,0,0,4,0,0,4,0,1,2,3,,,
+UBCV,2019,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring;Ian Frigaard,27,67.925925926,21.885938454,86.0,0.0,,,,,,,,,,,5,0,0,1,2,1,5,3,7,3,0,,,
+UBCV,2020,W,MECH,358,,201,Engineering Analysis,Behzad Aminian;Daniel Coombs;Gwynn Elfring;Ivonne Medina Lino;Patrick Walls;Zihao Cheng,91,78.208791209,11.995847878,96.0,29.0,,,,,,,,,,,2,1,2,6,4,7,9,12,16,14,18,,,
+UBCV,2020,W,MECH,470,,201,Energy Conversion Systems,Gwynn Elfring;Omid Hajieghrary;Siamak Najarian;William Kendal Bushe,29,79.517241379,7.419186948,92.0,63.0,,,,,,,,,,,0,0,0,1,0,3,6,4,6,5,4,,,
+UBCV,2020,W,MECH,502,,101,Fluid Mechanics,Arash Nikzad;Gwynn Elfring;Ian Frigaard;Raksha Mahalinkam,18,72.5,19.850174099,91.0,16.0,,,,,,,,,,,4,0,0,0,0,0,2,3,4,2,3,,,
+UBCV,2020,W,MECH,570,B,201,Emerging Topics in Thermofluids,Gwynn Elfring,7,83.0,7.211102551,91.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,1,2,,,
+UBCV,2021,W,MECH,358,,201,Engineering Analysis,Ahmad Rezaei;Gwynn Elfring;Ivonne Medina Lino;Patrick Walls;Zihao Cheng,93,67.35483871,18.712728266,99.0,14.0,,,,,,,,,,,10,5,8,6,12,9,14,6,7,7,9,,,
+UBCV,2021,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,11,75.0,16.66133248,98.0,39.0,,,,,,,,,,,1,0,1,0,0,1,2,0,2,3,1,,,
+UBCV,2021,W,MECH,358,,201,Engineering Analysis,Gwynn Elfring,92,68.5,,99.0,15.0,,,,,,,,,,,8,5,8,6,13,9,14,6,7,7,9,70.5,78.5,62.8
+UBCV,2021,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,11,75.0,,98.0,39.0,,,,,,,,,,,,,,,,,,,,,,80.0,86.5,70.0
+UBCV,2022,W,MECH,358,,201,Engineering Analysis,Gwynn Elfring,50,73.1,,99.0,21.0,,,,,,,,,,,5,1,1,2,5,5,6,9,3,3,10,75.0,84.0,65.3
+UBCV,2022,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,16,72.7,,96.0,29.0,,,,,,,,,,,1,0,0,3,0,0,5,0,3,3,1,72.0,81.3,69.0
+UBCV,2023,W,MECH,359,,201,Computational Methods for Mechanical Engineering,Gwynn Elfring,44,78.91,,95.0,56.0,,,,,,,,,,,0,0,2,3,4,3,2,3,11,6,9,81.0,87.5,70.0
+UBCV,2023,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,32,72.79,,97.0,32.0,,,,,,,,,,,2,0,0,7,1,2,1,2,6,5,3,76.0,85.0,60.0

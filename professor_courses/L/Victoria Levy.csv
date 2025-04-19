@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,COMM,390,,105,Business Writing,Victoria Levy,20,76.15,1.980829172,80.0,73.0,0,0,0,0,0,0,8,10,2,0,0,,,
+UBCV,2021,W,COMM,390,,106,Business Writing,Victoria Levy,20,76.55,3.966637181,82.0,70.0,0,0,0,0,0,3,5,5,7,0,0,,,
+UBCV,2021,W,COMM,390,,206,Business Writing,Victoria Levy,20,77.25,3.274703683,84.0,71.0,0,0,0,0,0,1,5,7,7,0,0,,,
+UBCV,2021,W,COMM,390,,207,Business Writing,Victoria Levy,19,76.473684211,5.430044209,82.0,58.0,0,0,1,0,0,1,3,7,7,0,0,,,
+UBCV,2021,W,COMM,390,,105,Business Writing,Victoria Levy,20,76.2,,80.0,73.0,,,,,,,8,10,,,,76.0,77.0,75.0
+UBCV,2021,W,COMM,390,,106,Business Writing,Victoria Levy,20,76.6,,82.0,70.0,,,,,,,,,7,,,78.0,80.0,73.8
+UBCV,2021,W,COMM,390,,206,Business Writing,Victoria Levy,20,77.3,,84.0,71.0,,,,,,,,7,7,,,77.0,80.0,74.8
+UBCV,2021,W,COMM,390,,207,Business Writing,Victoria Levy,19,76.5,,82.0,58.0,,,,,,,,7,7,,,77.0,80.0,75.0
+UBCV,2022,W,COMM,390,,115,Business Writing,Victoria Levy,20,78.2,,83.0,72.0,0,0,0,0,0,0,2,11,7,0,0,78.0,80.0,77.0
+UBCV,2022,W,COMM,390,,116,Business Writing,Victoria Levy,20,77.6,,85.0,72.0,0,0,0,0,0,0,5,9,5,1,0,77.5,80.0,75.8
+UBCV,2022,W,COMM,390,,219,Business Writing,Victoria Levy,20,79.3,,88.0,69.0,0,0,0,0,0,1,2,5,11,1,0,80.5,82.0,77.8
+UBCV,2022,W,COMM,390,,220,Business Writing,Victoria Levy,19,75.2,,84.0,68.0,0,0,0,0,0,6,5,1,7,0,0,74.0,80.0,71.0
+UBCV,2023,W,COMM,196,,113,Business Communications I,Victoria Levy,26,78.3,,82.0,75.0,0,0,0,0,0,0,1,14,11,0,0,77.5,80.0,77.0
+UBCV,2023,W,COMM,196,,114,Business Communications I,Victoria Levy,29,78.3,,81.0,74.0,0,0,0,0,0,0,2,14,13,0,0,78.0,80.0,77.0
+UBCV,2023,W,COMM,196,,206,Business Communications I,Victoria Levy,27,72.3,,81.0,0.0,2,0,0,0,0,0,2,14,9,0,0,78.0,80.0,77.0
+UBCV,2023,W,COMM,196,,207,Business Communications I,Victoria Levy,29,77.4,,80.0,75.0,0,0,0,0,0,0,3,22,4,0,0,77.0,78.0,77.0

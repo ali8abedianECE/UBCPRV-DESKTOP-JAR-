@@ -1,0 +1,104 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EECE,476,,101,COMPTR ARCHITCTR,"Kennedy, Kevin",75,73.04,12.24,96,34,73,1,0,0,1,0,0,0,1,0,1,3,6,7,5,11,12,5,12,3,9
+UBC,2002,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",41,70.63,12.49,88,46,38,3,0,0,0,0,0,0,0,3,3,3,3,1,3,6,5,5,6,6,0
+UBC,2002,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",12,70,23.65,86,0,11,1,0,0,0,1,0,0,0,0,1,0,0,2,0,1,1,1,4,2,0
+UBC,2002,W,HCEP,504,,001,APPL EPIDMLGY MT,"Kennedy, Susan M",10,84.44,3.61,88,78,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6,0
+UBC,2002,W,HCEP,532,,002,RISK ASMT & COM,"Kennedy, Susan M",12,81.83,2.52,86,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3,0
+UBC,2002,W,HKIN,290,,001,FNC ANT&AP PH I,"Kennedy, Paul",96,72.21,12.92,95,44,90,5,0,1,0,0,0,0,0,5,5,8,6,6,4,15,7,9,18,11,6
+UBC,2002,W,HKIN,290,,901,FNC ANT&AP PH I,"Kennedy, Paul",28,75.04,14.71,93,50,27,0,1,0,0,0,0,0,0,0,0,5,0,1,2,3,1,2,3,5,5
+UBC,2002,W,OCCH,511,,001,HEALTH & ILLNESS,"Kennedy, Susan M",9,81.67,4.18,87,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,0
+UBC,2003,W,ETEC,510,,65C,DES TECH,"Kennedy, Mary",21,87.05,2.82,93,83,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,4
+UBC,2003,W,HCEP,532,,002,RISK ASMT & COM,"Kennedy, Susan M",6,82,3.81,88,78,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0
+UBC,2003,W,HKIN,290,,001,FNC ANT&AP PH I,"Kennedy, Paul",108,71.1,14.2,94,15,102,6,0,0,0,0,1,1,2,2,6,7,8,2,10,14,13,18,12,14,4
+UBC,2003,W,HKIN,290,,901,FNC ANT&AP PH I,"Kennedy, Paul",45,78.13,14.3,96,38,43,2,0,0,0,0,0,0,1,1,2,1,2,1,3,4,3,7,4,7,11
+UBC,2003,W,RHSC,505,,99C,MEAS IN PRACTICE,"Kennedy, Deborah",6,87.67,3.14,90,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2
+UBC,2005,W,EOSC,323,,201,STRUC GEOLOGY I,"Kennedy, Lori",60,75.2,9.74,95,50,60,0,0,0,0,0,0,0,0,0,0,3,2,2,3,7,12,7,16,4,4
+UBC,2005,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",30,76.13,6.81,90,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,6,7,5,3,1
+UBC,2005,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",12,90,3.58,95,85,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,6
+UBC,2005,W,ETEC,510,,65A,DES TECH,"Kennedy, Mary",16,83,22.56,95,0,15,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,7,6
+UBC,2005,W,HCEP,507,,001,MSC RESEARCH SEM,"Kennedy, Susan M",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,HCEP,507,,003,MSC RESEARCH SEM,"Kennedy, Susan M",13,,,,,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,HCEP,532,,002,ENVR HEALTH RISK,"Kennedy, Susan M",11,85,3.5,90,80,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,1
+UBC,2005,W,HCEP,607,,003,PHD RES SEMINAR,"Kennedy, Susan M",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,OCCH,511,,001,HEALTH & ILLNESS,"Kennedy, Susan M",4,83,2.71,87,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+UBC,2005,W,OCCH,540,,003,RESEARCH SEMINAR,"Kennedy, Susan M",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2005,W,OCCH,640,,003,DOCT RES-IN-PROG,"Kennedy, Susan M",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,EOSC,323,,201,STRUC GEOLOGY I,"Kennedy, Lori",66,72.67,8.98,91,53,66,0,0,0,0,0,0,0,0,0,0,2,3,5,9,12,9,9,10,5,2
+UBC,2006,W,EOSC,422,,201,STRUC GEOLOGY II,"Dipple, Gregory;Kennedy, Lori",24,78.21,8.83,91,55,24,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,4,3,5,6,1
+UBC,2006,W,EOSC,526,,201,MECH NAT DEFRMTN,"Dipple, Gregory;Kennedy, Lori",9,84,6.86,95,75,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,3
+UBC,2006,W,HCEP,507,,003,MSC RESEARCH SEM,"Kennedy, Susan M",12,,,,,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2006,W,HCEP,532,,002,ENVR HEALTH RISK,"Kennedy, Susan M",10,84.7,5.21,90,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,2
+UBC,2007,W,EOSC,110,,101,THE SOLID EARTH,"Hearn, Elizabeth;Kennedy, Ben",173,72.04,12.19,97,41,165,4,3,0,1,0,0,0,0,4,4,11,16,5,17,19,20,25,25,16,11
+UBC,2007,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",52,72.94,14.25,91,19,47,3,1,1,0,0,1,0,0,2,3,3,2,4,2,4,3,7,13,8,1
+UBC,2007,W,EOSC,422,,201,STRUC GEOLOGY II,"Dipple, Gregory;Kennedy, Lori",27,73.44,12.89,90,29,26,1,0,0,0,0,0,1,0,0,1,0,1,1,4,3,8,1,2,3,3
+UBC,2007,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",7,93.43,2.15,95,90,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+UBC,2009,S,HKIN,151,,921,BIOMECH I,"Cawsey, Ryan;Kennedy, Paul;Sanderson, David J",21,70.38,13.65,88,44,19,2,0,0,0,0,0,0,0,2,2,0,3,3,1,1,2,1,5,3,0
+UBC,2009,S,HKIN,469,,921,EXERCISE PRSCPTN,"Kennedy, Paul",21,70.95,11.16,89,50,21,0,0,0,0,0,0,0,0,0,0,1,1,5,1,3,3,1,3,3,0
+UBC,2009,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",57,70.07,9.63,87,45,55,1,1,0,0,0,0,0,0,1,1,2,2,9,11,5,7,5,12,2,0
+UBC,2009,W,EOSC,328,,201,FIELD GEOLOGY,"Bustin, Robert Marc;Caulkins, Joshua;Eberhardt, Erik;Hickey, Kenneth;Kennedy, Lori;Russell, James Kelly",37,73.24,4.55,85,66,37,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11,10,7,4,1,0
+UBC,2009,W,EOSC,422,,201,STRUC GEOLOGY II,"Baker, Shaun;Kennedy, Lori",20,72.35,20.75,94,0,19,1,0,0,0,1,0,0,0,0,1,1,0,4,0,3,1,2,1,4,3
+UBC,2009,W,EOSC,526,,201,MECH NAT DEFRMTN,"Baker, Shaun;Kennedy, Lori",5,90.2,0.45,91,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2009,W,EOSC,544,,201,GEODYNAMICS,"Kennedy, Lori;Mortensen, James",13,92.38,1.45,94,90,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+UBC,2009,W,HKIN,151,,001,BIOMECH I,"Kennedy, Paul",111,69.6,14.85,92,5,100,10,1,0,0,1,0,0,4,5,10,6,6,8,12,10,13,12,22,8,3
+UBC,2009,W,HKIN,151,,002,BIOMECH I,"Kennedy, Paul",59,72.69,12.88,92,40,55,4,0,0,0,0,0,0,0,4,4,3,1,7,3,5,7,4,17,6,2
+UBC,2009,W,HKIN,373,,001,RESRCH METH HKIN,"Kennedy, Paul",99,72.21,13.16,99,6,95,3,1,0,0,1,0,0,0,2,3,2,6,13,15,6,7,18,10,13,5
+UBC,2009,W,HKIN,373,,002,RESRCH METH HKIN,"Kennedy, Paul",50,76,9.6,89,37,49,1,0,0,0,0,0,0,1,0,1,0,0,5,3,4,7,10,12,8,0
+UBC,2009,W,HKIN,469,,001,EXERCISE PRSCPTN,"Kennedy, Paul",83,71.13,10.6,85,0,82,1,0,0,0,1,0,0,0,0,1,1,2,7,14,13,16,14,14,1,0
+UBC,2010,S,HKIN,151,,921,BIOMECH I,"Kennedy, Paul",23,75.09,11.73,93,53,22,0,0,0,1,0,0,0,0,0,0,1,2,1,2,2,3,2,4,2,3
+UBC,2010,S,HKIN,469,,921,EXERCISE PRSCPTN,"Kennedy, Paul",33,71.74,13.58,93,37,29,2,1,0,1,0,0,0,1,1,2,2,0,1,4,6,2,5,4,2,3
+UBC,2010,W,EDCP,450,,62B,TCH LIFE SCI,"Kennedy, Jennie",28,88.75,3.32,93,83,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13,11
+UBC,2010,W,HKIN,151,,001,BIOMECH I,"Kennedy, Paul",131,73.81,10.66,92,38,128,3,0,0,0,0,0,0,1,2,3,4,5,10,10,16,24,13,24,16,6
+UBC,2010,W,HKIN,151,,002,BIOMECH I,"Kennedy, Paul",64,74.84,13.42,98,35,62,2,0,0,0,0,0,0,1,1,2,3,2,8,3,7,6,5,10,10,8
+UBC,2010,W,HKIN,373,,001,RESRCH METH HKIN,"Kennedy, Paul",63,81.08,7.04,92,61,63,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,9,19,19,4
+UBC,2010,W,HKIN,373,,002,RESRCH METH HKIN,"Kennedy, Paul",92,80.88,7.4,94,47,89,1,1,0,0,0,0,0,0,1,1,0,1,1,0,4,9,15,31,21,7
+UBC,2010,W,HKIN,469,,001,EXERCISE PRSCPTN,"Kennedy, Paul",64,86.27,5.47,94,65,63,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,18,18,22
+UBC,2011,S,HKIN,151,,921,BIOMECH I,"Kennedy, Paul",24,70.88,14.16,95,39,22,2,0,0,0,0,0,0,1,1,2,1,0,3,3,6,1,2,1,1,4
+UBC,2011,S,HKIN,469,,921,EXERCISE PRSCPTN,"Kennedy, Paul",22,73.05,8.19,86,60,22,0,0,0,0,0,0,0,0,0,0,0,0,3,4,1,7,2,3,2,0
+UBC,2011,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",62,76.18,9.17,94,54,62,0,0,0,0,0,0,0,0,0,0,1,1,4,4,10,7,11,12,8,4
+UBC,2011,W,EOSC,328,,201,FIELD GEOLOGY,"Hickey, Kenneth;Kennedy, Lori;Russell, James Kelly;Scoates, James Stewart",28,78.32,5.21,90,66,28,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,6,10,2,1
+UBC,2011,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori;TBA",30,75.57,5.65,86,61,30,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,9,6,5,3,0
+UBC,2011,W,HKIN,151,,001,BIOMECH I,"Kennedy, Paul",117,72.71,13.25,95,34,108,8,1,0,0,0,0,0,2,6,8,5,4,6,8,21,7,12,22,17,6
+UBC,2011,W,HKIN,373,,001,RESRCH METH HKIN,"Kennedy, Paul",66,83.49,6.5,94,68,65,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,8,20,16,13
+UBC,2011,W,HKIN,469,,001,EXERCISE PRSCPTN,"Kennedy, Paul",106,80.57,5.24,92,65,104,0,1,1,0,0,0,0,0,0,0,0,0,0,2,5,7,26,40,20,4
+UBC,2012,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",69,73.94,14.67,97,0,67,1,1,0,0,1,0,0,0,0,1,3,4,5,4,12,4,9,12,7,7
+UBC,2012,W,EOSC,328,,201,FIELD GEOLOGY,"Hickey, Kenneth;Kennedy, Lori;Russell, James Kelly;Scoates, James Stewart;TBA",21,80.29,6.38,92,62,21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,5,8,4,1
+UBC,2013,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",71,74.61,11.29,94,39,69,1,1,0,0,0,0,0,1,0,1,3,4,4,5,6,8,5,22,8,4
+UBC,2013,W,EOSC,328,,201,FIELD GEOLOGY,"Hickey, Kenneth;Hollingshead, Susan;Kennedy, Lori;Porritt, Lucy;Scoates, James Stewart",37,81.19,4.01,91,75,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,20,5,2
+UBC,2013,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",12,83.17,5.29,94,72,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,4,1
+UBC,2014,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",94,80.72,10.26,96,42,92,1,1,0,0,0,0,0,0,1,1,0,2,2,4,10,5,9,22,19,19
+UBC,2014,W,EOSC,328,,201,FIELD GEOLOGY,"Hickey, Kenneth;Kennedy, Lori;Russell, James Kelly;Scoates, James Stewart;Smit, Matthijs",40,78.35,13.08,91,0,39,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,12,23,2,1
+UBC,2014,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",14,77.93,24.38,97,0,13,1,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,2,6
+UBC,2014,W,VISA,370,,001,SPECIAL STUDY I,"Busby, Cathy;Kennedy, Garry",18,87.78,5.37,96,75,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,9,5
+UBC,2014,W,VISA,401,F,001,ADV OPEN STUDIO,"Busby, Cathy;Kennedy, Garry",21,85.15,10.01,96,60,20,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,11,5
+UBC,2015,W,DENT,513,,001,PED PATIENT I,"Campbell, Karen;Harrison, Rosamund Louise;Kennedy, David;Mathu-Muju, Kavita;Richman, Joy Marion",4,79.25,4.27,84,74,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0
+UBC,2015,W,DENT,567,,001,ORTH&CR-FAC I,"Kennedy, David",4,87.5,2.08,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2015,W,DENT,569,,001,ORTH&CR-FAC III,"Kennedy, David;Sonya, Dorothy",4,79.75,5.74,87,73,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0
+UBC,2015,W,DENT,771,,001,ORTH&DENT CLN I,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,DENT,772,,001,ORTH&DENT CLN II,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",66,77.82,7.02,92,57,66,0,0,0,0,0,0,0,0,0,0,0,1,0,5,7,11,12,18,10,2
+UBC,2015,W,EOSC,328,,201,FIELD GEOLOGY,"Gilley, Brett;Kennedy, Lori;Porritt, Lucy;Russell, James Kelly;Sherman, Sarah;Smit, Matthijs",35,76.66,7.99,93,50,35,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,11,12,3,2,3
+UBC,2015,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",10,80.5,6.19,91,68,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,1,1
+UBC,2015,W,VISA,370,,001,SPECIAL STUDY I,"Busby, Cathy;Kennedy, Garry",22,88.45,3.42,95,85,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,7
+UBC,2015,W,VISA,401,F,001,ADV OPEN STUDIO,"Busby, Cathy;Kennedy, Garry",20,86.15,5.15,95,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,9,8
+UBC,2016,W,DENT,567,,001,ORTH&CR-FAC I,"Kennedy, David",5,85.2,2.28,89,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+UBC,2016,W,DENT,569,,001,ORTH&CR-FAC III,"Kennedy, David;Sonya, Dorothy",5,74.2,4.15,78,68,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,0,0,0
+UBC,2016,W,DENT,771,,001,ORTH&DENT CLN I,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,772,,001,ORTH&DENT CLN II,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",76,78.07,9.06,95,55,76,0,0,0,0,0,0,0,0,0,0,0,1,3,7,7,9,14,17,10,8
+UBC,2016,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",29,83.83,8.03,95,63,29,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,1,6,7,9
+UBC,2016,W,VISA,481,,001,ADV SEMINAR II,"Busby, Cathy;Kennedy, Garry",23,87.7,3.6,95,80,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,7
+UBC,2017,W,DENT,513,,001,PED PATIENT I,"Campbell, Karen;Kennedy, David;Richman, Joy Marion",4,84.5,3.7,88,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2017,W,DENT,567,,001,ORTH&CR-FAC I,"Kennedy, David",5,85.8,1.92,88,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+UBC,2017,W,DENT,569,,001,ORTH&CR-FAC III,"Kennedy, David;Sonya, Dorothy",4,79.5,3,82,76,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+UBC,2017,W,DENT,773,,001,ORTH&DENT CL III,"Chiang, Samuel;Kennedy, David;Pliska, Benjamin;Yen, Edwin H",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EOSC,323,,101,STRUC GEOLOGY I,"Kennedy, Lori",66,73.88,8.97,95,52,66,0,0,0,0,0,0,0,0,0,0,2,2,5,7,7,12,6,18,5,2
+UBC,2017,W,EOSC,422,,201,STRUC GEOLOGY II,"Kennedy, Lori",24,80.75,9.17,93,57,24,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,4,6,5,4
+UBC,2017,W,EOSC,526,,201,MECH NAT DEFRMTN,"Kennedy, Lori",5,90.4,3.36,94,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2017,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Wolsey, Travis",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Wolsey, Travis",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,PHTH,581,,001,E & T MANIP THER,"Celebrini, Rick G;Dhir, Jasdeep;Kennedy, Carolyn;Lowcock, Janet;Murphy, Susan;Ratzlaff, Charles;Schneider, Geoff",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,580,,001,ORTH CLIN R & S,"Kennedy, Carolyn;Kennedy, Catherine;Lee, Diane;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Scott, Alexander;Treloar, Debra;Wolsey, Travis;Zerjav, Maria",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,PHTH,581,,001,E & T MANIP THER,"Dhir, Jasdeep;Kennedy, Carolyn;Levesque, Lenerdene;Murphy, Susan;Nolan, Mary;Pearson, Neil;Ratzlaff, Charles;Schneider, Geoff;Scott, Alexander",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

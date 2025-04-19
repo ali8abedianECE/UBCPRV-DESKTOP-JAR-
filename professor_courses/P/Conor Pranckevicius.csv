@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2021,W,CHEM,429,,001,Main Group Chemistry,Conor Pranckevicius,13,70.307692308,10.48319779,95.0,60.0,0,0,0,4,2,3,1,0,2,0,1,,,
+UBCO,2021,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Anthony Tardif;Conor Pranckevicius;Kadie Wert;Vigneshkumar Pattathil Narayanan,13,77.692307692,11.700317769,92.0,43.0,1,0,0,0,0,0,1,6,2,2,1,,,
+UBCO,2021,W,CHEM,429,,001,Main Group Chemistry,Conor Pranckevicius,13,70.3,,95.0,60.0,,,,,,,,,,,,68.0,74.0,63.0
+UBCO,2021,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Conor Pranckevicius,13,79.1,,92.0,61.0,,,,,,,,6,,,,78.0,83.0,76.0
+UBCO,2022,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Conor Pranckevicius,15,82.4,,93.0,69.0,0,0,0,0,0,1,1,3,5,3,2,83.0,88.5,78.0
+UBCO,2023,W,CHEM,429,,001,Main Group Chemistry,Conor Pranckevicius,9,73.3,,85.0,54.0,0,1,2,0,0,0,0,1,1,3,0,80.5,85.0,58.5
+UBCO,2023,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Conor Pranckevicius,12,82.0,,94.0,68.0,0,0,0,0,0,3,0,2,1,3,3,84.5,88.5,75.5

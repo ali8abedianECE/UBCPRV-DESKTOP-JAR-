@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,GEOB,300,,201,MICRO WTHR&CLIM,"Knox, Sara",62,75.62,12.91,93,29,59,1,2,0,0,0,0,1,0,0,1,3,3,3,4,3,6,11,5,14,7,,,
+UBCV,2018,W,GEOB,300,,201,Microscale Weather and Climate,Sara Knox;Sung-Ching Lee,60,75.616666667,12.90656339,93.0,29.0,,,,,,,,,,,1,3,3,3,4,3,6,11,5,14,7,,,
+UBCV,2019,W,GEOB,300,,201,Microscale Weather and Climate,Sara Knox;Sung-Ching Lee,50,75.66,10.666770833,93.0,53.0,,,,,,,,,,,0,1,3,1,10,2,4,4,10,13,2,,,
+UBCV,2019,W,GEOB,401,,101,Urban Meteorology,Sara Knox;Xinru Li,33,75.757575758,15.413124081,93.0,13.0,,,,,,,,,,,1,1,2,0,2,2,4,3,5,11,2,,,
+UBCV,2020,W,GEOB,102,,101,Our Changing Environment: Climate and Ecosystems,Carla Urquhart;Emma Nikkel;Jenna Loesberg;Jennifer Williams;Lara Grevstad;Sara Knox,224,77.888392857,9.051474577,92.0,44.0,,,,,,,,,,,2,1,3,12,10,21,35,32,49,43,16,,,
+UBCV,2020,W,GEOB,300,,101,Microscale Weather and Climate,Marion Nyberg;Sara Knox,47,74.829787234,17.846347999,97.0,8.0,,,,,,,,,,,4,0,1,3,1,7,5,2,9,5,10,,,
+UBCV,2021,W,GEOS,401,,201,Urban Meteorology,Sara Knox,26,78.269230769,6.672676778,90.0,61.0,,,,,,,,,,,0,0,0,2,0,0,6,7,7,3,1,,,
+UBCV,2021,W,GEOS,401,,201,Urban Meteorology,Sara Knox,26,78.3,,90.0,61.0,,,,,,,,,,,,,,,,,6,7,7,,,79.0,80.8,75.0
+UBCV,2022,W,APBI,244,,001,Atmospheric Environments,Sara Knox,48,68.7,,96.0,0.0,,,,,,,,,,,5,2,1,2,2,4,11,4,10,2,5,73.0,81.3,67.3
+UBCV,2022,W,GEOS,200,,101,Atmospheric Environments,Sara Knox,79,74.4,,93.0,30.0,,,,,,,,,,,4,1,5,4,6,4,8,11,16,12,8,78.0,84.0,67.0
+UBCV,2022,W,GEOS,300,,201,Microscale Weather and Climate,Sara Knox,47,77.1,,93.0,38.0,,,,,,,,,,,1,0,2,2,1,5,2,9,13,9,3,80.0,84.0,72.0

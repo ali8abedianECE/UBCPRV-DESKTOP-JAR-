@@ -1,0 +1,8 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,MATH,200,,103,Calculus III,Albert Chau;Thomas Budzinski;William Gant;Zhichao Wang,105,68.333333333,18.106876438,100.0,4.0,11,11,8,7,7,10,10,6,13,15,7,,,
+UBCV,2021,W,MATH,200,,108,Calculus III,Albert Chau;Dylan Allegretti;Ruo Ning Qiu;Zhichao Wang,89,69.269662921,17.784546436,99.0,9.0,7,11,9,6,5,8,7,6,10,10,10,,,
+UBCV,2021,W,MATH,200,,103,Calculus III,Albert Chau;Zhichao Wang,105,68.3,,100.0,4.0,11,11,8,7,7,10,10,6,13,15,7,71.0,83.0,58.0
+UBCV,2021,W,MATH,200,,108,Calculus III,Albert Chau;Zhichao Wang,89,69.9,,99.0,9.0,,12,9,7,,8,7,6,10,10,10,71.0,83.0,58.0
+UBCV,2022,S,MATH,100,,92C,Differential Calculus with Applications,Mark Thomson MacLean;Zhichao Wang,104,67.9,,93.0,3.0,8,10,9,4,11,17,9,9,6,15,6,70.0,80.0,59.0
+UBCV,2022,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Negar Mohaghegh Harandi;Zhichao Wang,113,73.2,,97.0,49.0,3,10,4,7,16,12,7,16,11,19,8,74.0,83.0,64.0
+UBCV,2022,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Seckin Demirbas;Zhichao Wang,113,73.2,,97.0,49.0,3,10,4,7,16,12,7,16,11,19,8,74.0,83.0,64.0

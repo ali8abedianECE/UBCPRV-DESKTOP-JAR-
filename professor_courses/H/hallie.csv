@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,CLST,305,,901,CLAS MYTH & RELG,"Marshall, Hallie",29,65.52,21.81,87,0,22,3,4,0,0,1,1,0,1,0,3,1,1,2,3,2,3,4,3,3,0
+UBC,2006,W,THTR,320,,001,HIST OF THTR I,"Johnston, Kirsty;Marshall, Hallie",29,71.96,10.19,87,43,26,1,1,0,1,0,0,0,0,1,1,0,1,2,4,5,3,3,7,1,0
+UBC,2006,W,THTR,420,,001,HIST OF THTR II,"Marshall, Hallie",17,74.94,8.88,90,53,16,0,1,0,0,0,0,0,0,0,0,1,0,0,2,2,3,3,2,2,1
+UBC,2007,W,CLST,305,,001,CLAS MYTH & RELG,"Marshall, Hallie",57,70.59,10.96,87,30,52,2,3,0,0,0,0,0,1,1,2,3,2,3,5,10,11,7,8,3,0
+UBC,2007,W,DRAM,200,,001,DRAMA IDEAS I,"Marshall, Hallie",80,73.21,10.64,94,21,77,1,2,0,0,0,0,1,0,0,1,2,2,8,6,8,14,18,11,6,2
+UBC,2007,W,LATN,100,,005,FIRST-YR LATIN,"CREESE, MARGARET;Marshall, Hallie",26,66.53,30.88,95,0,11,4,11,0,0,1,1,1,0,1,4,0,1,0,0,0,0,2,2,5,1
+UBC,2007,W,THTR,320,,001,HIST OF THTR I,"Marshall, Hallie",31,72.75,9.5,90,44,27,1,2,0,1,0,0,0,0,1,1,0,1,3,1,4,6,5,6,0,1
+UBC,2009,W,CLST,105,,002,GREK & ROMN MYTH,"Marshall, Hallie",122,73.36,14.39,96,0,113,6,2,1,0,1,0,1,0,4,6,8,4,5,6,7,25,14,18,20,6
+UBC,2009,W,LATN,100,,003,FIRST-YR LATIN,"Marshall, Hallie",26,71.71,20.99,96,32,17,4,5,0,0,0,0,0,3,1,4,2,0,0,0,1,1,0,5,6,2
+UBC,2009,W,LATN,100,,006,FIRST-YR LATIN,"Gorrie, Charmaine;Marshall, Hallie",24,57,26.78,98,0,15,7,2,0,0,1,2,2,1,1,7,1,2,2,1,0,1,3,3,1,1
+UBC,2010,S,CLST,105,,001,GREK & ROMN MYTH,"Marshall, Hallie",43,78.54,9.84,96,54,37,0,6,0,0,0,0,0,0,0,0,1,1,0,4,3,4,5,8,7,4
+UBC,2010,W,CLST,314,,001,LATIN EPIC,"Marshall, Hallie",33,70.76,16.37,92,0,32,1,0,0,0,1,0,0,0,0,1,2,1,1,4,9,3,3,4,3,2
+UBC,2010,W,LATN,100,,001,FIRST-YR LATIN,"Marshall, Hallie",24,74.35,16.75,98,40,22,1,1,0,0,0,0,0,0,1,1,2,2,1,2,2,1,1,4,1,6
+UBC,2013,W,CLST,318,,001,CLASSICAL COMEDY,"Marshall, Hallie",43,71.81,10.02,93,50,42,0,1,0,0,0,0,0,0,0,0,2,3,4,4,7,8,5,5,2,2
+UBC,2013,W,CLST,402,B,001,SEM CLASSCL LIT,"Marshall, Hallie",14,77.43,8.4,90,62,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,2,3,2,1
+UBC,2013,W,CNRS,503,A,001,STUD LIT ART,"Marshall, Hallie",6,86,5.25,94,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2
+UBC,2014,W,THTR,210,,001,DRAMA IDEAS I,"Marshall, Hallie",68,76.05,12.92,97,38,61,2,2,0,2,0,0,0,1,1,2,1,4,3,6,3,8,7,14,6,9
+UBC,2014,W,THTR,320,,001,HIST OF THTR I,"Marshall, Hallie",20,73.95,7.81,86,58,19,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,4,3,4,1,0
+UBC,2014,W,THTR,420,,001,HIST OF THTR II,"Marshall, Hallie",13,78.08,6.37,88,70,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,1,2,3,0
+UBC,2014,W,THTR,440,A,001,TOPICS IN THTR,"Marshall, Hallie",10,67.22,11.27,83,50,9,0,0,1,0,0,0,0,0,0,0,1,2,0,0,3,1,1,1,0,0
+UBC,2015,W,THTR,210,,001,DRAMA IDEAS I,"Marshall, Hallie",55,72.88,15.54,91,0,50,2,2,1,0,1,0,0,0,1,2,3,2,5,4,4,6,5,8,9,4
+UBC,2015,W,THTR,320,,001,HIST OF THTR I,"Marshall, Hallie",21,73.94,8.97,90,56,18,0,1,2,0,0,0,0,0,0,0,0,1,0,5,2,2,2,4,1,1
+UBC,2015,W,THTR,420,,001,HIST OF THTR II,"Marshall, Hallie",18,77.35,7.18,90,68,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,4,2,2,3,1
+UBC,2015,W,THTR,440,A,001,TOPICS IN THTR,"Marshall, Hallie",8,79.88,8.71,92,68,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,3,1
+UBC,2015,W,THTR,547,A,001,DIRECTED STUDIES,"Burnett, Cathy;Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Marshall, Hallie;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",5,87.8,2.17,91,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2015,W,THTR,547,B,003,DIRECTED STUDIES,"Marshall, Hallie",4,87.5,2.89,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2016,W,THTR,320,,001,HIST OF THTR I,"Marshall, Hallie",28,74.69,8.66,88,55,26,0,1,0,0,0,0,0,0,0,0,0,2,0,3,5,2,5,6,3,0
+UBC,2017,S,THTR,440,A,001,TOPICS IN THTR,"DWYER, JUSTIN SCOTT;Marshall, Hallie",12,77,9.07,90,64,12,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,3,3,1
+UBC,2017,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,THTR,649,,001,DOC DISSERTATION,"Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Marshall, Hallie;Wasserman, Jerry",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,THTR,440,A,001,TOPICS IN THTR,"Marshall, Hallie",12,91.25,5.08,100,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7
+UBC,2018,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,87.5,3.54,90,85,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2018,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",8,81.33,6.35,85,74,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0

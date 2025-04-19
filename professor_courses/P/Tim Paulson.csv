@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2019,W,HIST,112,,001,Canada to 1867,Katelyn Punia;Morgan Marshall;Tim Paulson,83,73.86746988,12.860196756,96.0,6.0,3,1,3,6,3,7,13,18,20,6,3,,,
+UBCO,2019,W,HIST,122,,101,Canada Since 1867,Morgan Marshall;Tim Paulson,76,73.894736842,15.93284151,95.0,0.0,4,1,0,5,4,11,5,12,21,10,3,,,
+UBCO,2019,W,HIST,381,F,101,Special Topics in Economic History,Tim Paulson,26,76.230769231,14.467363802,91.0,19.0,1,0,0,3,0,2,1,6,6,6,1,,,
+UBCO,2020,W,HIST,106,,101,Global Environmental History,Laura Mudde;Matthew Menard;Morgan Marshall;Tim Paulson,82,76.451219512,13.707844415,97.0,36.0,4,2,5,1,7,5,12,6,13,15,12,,,
+UBCO,2020,W,HIST,112,,001,Canada to 1867,Mir Saleheen;Rahel Losier;Tim Paulson,87,76.862068966,12.404211976,99.0,14.0,3,1,2,3,0,4,11,19,29,12,3,,,
+UBCO,2020,W,HIST,395,,001,Environmental History of North America,Tim Paulson,31,79.096774194,11.001075216,99.0,33.0,1,0,0,1,0,2,2,6,12,5,2,,,
+UBCO,2020,W,HIST,492,,101,"History, Theory, and Method",Brigitte Le Normand;Tim Paulson,8,93.25,5.700877125,100.0,83.0,0,0,0,0,0,0,0,0,1,0,7,,,
+UBCO,2020,W,IGS,592,,101,"History, Theory, and Method",Brigitte Le Normand;Tim Paulson,7,99.285714286,1.889822365,100.0,95.0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCO,2021,W,HIST,112,,001,Canada to 1867,Jonah Elliott;Mir Saleheen;Tim Paulson,75,81.373333333,14.479037348,99.0,0.0,2,1,2,1,3,1,5,10,13,16,21,,,
+UBCO,2021,W,HIST,122,,101,Canada Since 1867,Kai Derksen;Sabrina Warkentin;Tim Paulson,80,78.075,14.149093096,97.0,2.0,4,0,2,4,1,3,5,14,22,16,9,,,
+UBCO,2021,W,HIST,395,,001,Environmental History of North America,Tim Paulson,34,78.235294118,12.782703331,98.0,33.0,1,0,1,0,3,4,4,5,6,3,7,,,
+UBCO,2021,W,HIST,407,,101,British Columbia Since 1900,Tim Paulson,26,74.269230769,25.99162587,98.0,11.0,4,1,0,0,2,0,2,0,1,8,8,,,
+UBCO,2021,W,HIST,492,,101,"History, Theory, and Method",Margaret Carlyle;Tim Paulson,8,73.875,27.925602692,96.0,26.0,2,1,0,0,0,0,0,0,0,0,5,,,
+UBCO,2021,W,IGS,592,,101,"History, Theory, and Method",Margaret Carlyle;Tim Paulson,7,88.285714286,4.191828786,94.0,80.0,0,0,0,0,0,0,0,0,1,4,2,,,
+UBCO,2021,W,HIST,112,,001,Canada to 1867,Tim Paulson,75,81.4,,99.0,0.0,,,,,,,,10,13,16,21,84.0,90.0,78.0
+UBCO,2021,W,HIST,122,,101,Canada Since 1867,Tim Paulson,80,78.6,,97.0,2.0,,,,,,,,15,22,16,9,81.0,85.3,76.8
+UBCO,2021,W,HIST,395,,001,Environmental History of North America,Tim Paulson,34,78.2,,98.0,33.0,,,,,,,,,6,,7,79.0,88.5,70.8
+UBCO,2021,W,HIST,407,,101,British Columbia Since 1900,Tim Paulson,26,75.8,,98.0,11.0,,,,,,,,,,8,9,88.0,90.0,73.5
+UBCO,2022,W,HIST,106,,101,Global Environmental History,Tim Paulson,62,76.2,,95.0,27.0,1,2,2,3,3,6,8,11,12,8,6,78.0,84.0,70.3
+UBCO,2022,W,HIST,395,,001,Environmental History of North America,Tim Paulson,28,79.1,,98.0,51.0,0,1,0,1,1,1,3,5,9,5,2,80.0,84.5,75.5
+UBCO,2022,W,HIST,408,,101,Capitalism and Nature,Tim Paulson,21,83.5,,93.0,60.0,0,0,0,1,0,0,3,3,1,7,6,86.0,90.0,78.0
+UBCO,2023,W,HIST,112,,101,Canadian Lands and Peoples,Tim Paulson,83,72.19,,93.0,0.0,7,1,3,5,4,7,7,13,19,7,7,77.5,83.25,67.5
+UBCO,2023,W,HIST,222,,001,Canadian State and Economy,Tim Paulson,37,79.43,,98.0,38.0,1,0,0,0,1,1,4,11,11,3,5,80.0,84.0,76.0
+UBCO,2023,W,HIST,395,,001,Environmental History of North America,Tim Paulson,30,79.03,,95.0,56.0,0,0,1,1,1,3,4,6,5,2,6,78.0,85.0,75.0
+UBCO,2023,W,HIST,418,,001,Capitalism in Canada,Tim Paulson,24,83.65,,97.0,66.0,0,0,0,0,2,0,2,5,5,1,8,83.0,93.0,77.0

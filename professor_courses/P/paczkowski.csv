@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",30,75.4,8.19,92,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,3,8,5,4,4,3,2
+UBC,2009,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",38,76.38,9.61,96,60,37,0,1,0,0,0,0,0,0,0,0,0,0,3,5,5,6,3,7,5,3
+UBC,2010,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",37,73.08,9.51,91,49,35,1,1,0,0,0,0,0,0,1,1,0,1,4,6,2,5,6,9,1,1
+UBC,2011,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",51,79.51,7.6,98,60,51,0,0,0,0,0,0,0,0,0,0,0,0,1,1,7,4,14,12,7,5
+UBC,2012,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",34,79.03,8.07,94,60,34,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,4,10,5,3
+UBC,2013,W,ARCH,541,,001,PROC&PRAC ARCH 1,"Paczkowski, Nicholas",46,78.46,9.18,96,60,46,0,0,0,0,0,0,0,0,0,0,0,0,5,2,3,4,10,9,10,3
+UBC,2014,W,ARCH,541,,001,PROC&PRAC ARCH,"Paczkowski, Nicholas",44,82.8,8.05,94,60,44,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,4,12,9,11
+UBC,2015,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",30,83.2,6.68,95,69,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,7,7,5
+UBC,2015,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",19,85.84,5.11,95,75,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,9,4
+UBC,2016,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",51,85.27,4.76,94,75,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,11,22,9
+UBC,2016,W,CIVL,524,,101,LEGAL CNSTR MNGT,"Paczkowski, Nicholas;Samuels, Brian",28,83.11,7.94,96,68,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,10,4,8
+UBC,2016,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",19,84.37,3.82,91,76,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,8,2
+UBC,2017,W,ARCH,541,,002,PROFSNL PRACTICE,"Man-Bourdon, Alexandre;Paczkowski, Nicholas",41,86.65,5.19,96,72,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,21,10
+UBC,2017,W,LARC,551,,001,PROFSNL PRACTICE,"Man-Bourdon, Alexandre;Paczkowski, Nicholas",26,87.35,2.97,95,83,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,16,6
+UBC,2018,W,ARCH,541,,002,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",42,85.9,5.29,95,69,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,10,16,11
+UBC,2018,W,LARC,551,,001,PROFSNL PRACTICE,"Girling, Cynthia;Paczkowski, Nicholas",13,89,3.49,93,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7

@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,COSC,222,,001,Data Structures,Anupreet Januhen;Chaoping Guo;Kai Neubauer;Mayeesha Mariam;Yves Lucet,150,80.366666667,10.400965796,95.0,36.0,6,0,0,3,5,6,9,19,43,40,19
+UBCO,2018,W,COSC,264,,101,Introduction to Web Development and Databases,Daniel Ling;Jeff Bulmer;Mayeesha Mariam,38,74.789473684,15.978292529,96.0,20.0,2,0,0,4,2,3,4,5,9,4,5
+UBCO,2018,W,COSC,445,,101,Computer Vision,Abdallah Mohamed;John Graham-Knight;Mayeesha Mariam,78,71.820512821,16.314079323,100.0,31.0,14,1,1,3,5,8,9,8,8,10,11
+UBCO,2019,S,COSC,121,,101,Computer Programming II,Jeff Bulmer;Ken Chidlow;Mayeesha Mariam;Raghav Jhavar;Rickson Reichmann;Scott Fazackerley,70,70.157142857,18.140063527,100.0,13.0,8,3,3,5,10,8,5,5,5,9,9
+UBCO,2019,S,COSC,221,,101,Introduction to Discrete Structures,Bohan Gao;Mayeesha Mariam;Parsa Rajabi;Stephen Brown,45,80.622222222,11.019175206,97.0,49.0,1,0,2,2,1,0,7,5,8,10,9
+UBCO,2019,S,COSC,301,,001,Introduction to Data Analytics,Irene Vrbik;Mayeesha Mariam;Patrick Epman,33,71.818181818,20.120658764,99.0,24.0,7,1,0,1,2,4,0,3,5,2,8
+UBCO,2019,S,COSC,419,L,101,Topics in Computer Science,James Yu;Mayeesha Mariam,10,76.7,10.677598565,96.0,62.0,0,0,0,1,0,3,1,1,2,0,2
+UBCO,2019,W,COSC,305,,001,Project Management,Mayeesha Mariam;Pradeep Mahato;Scott Fazackerley,87,75.885057471,12.255445194,94.0,23.0,4,0,3,2,8,6,12,11,21,15,5

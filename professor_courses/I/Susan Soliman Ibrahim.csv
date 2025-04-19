@@ -1,0 +1,65 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,COMM,395,,201,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",38,75.84,9.21,89,42,37,1,0,0,0,0,0,0,0,1,1,1,1,0,0,3,10,7,11,4,0
+UBC,2015,W,COMM,390,,122,BUSINESS WRITING,"Soliman Ibrahim, Susan",17,74.06,4.38,82,67,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,6,4,2,0,0
+UBC,2015,W,COMM,390,,202,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,76.5,4.44,83,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,3,7,0,0
+UBC,2015,W,COMM,390,,203,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,76.4,4.39,83,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,3,8,0,0
+UBC,2015,W,COMM,395,,103,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",38,74.32,9.08,84,32,37,1,0,0,0,0,0,0,1,0,1,0,0,1,2,5,8,10,11,0,0
+UBC,2015,W,COMM,395,,104,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",35,74.63,6.03,81,50,35,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,10,14,5,0,0
+UBC,2015,W,COMM,395,,205,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",39,74.92,12.48,84,12,37,2,0,0,0,0,1,0,0,1,2,0,0,0,1,4,5,11,16,0,0
+UBC,2015,W,COMM,395,,206,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",33,75.09,7.65,86,46,32,1,0,0,0,0,0,0,0,1,1,0,0,0,2,5,8,2,14,1,0
+UBC,2016,W,COMM,390,,117,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,76.95,4.85,84,63,20,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,9,6,0,0
+UBC,2016,W,COMM,390,,118,BUSINESS WRITING,"Soliman Ibrahim, Susan",19,78.26,3.18,83,72,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,5,0,0
+UBC,2016,W,COMM,395,,108,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",40,77.7,4.63,88,64,40,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,10,15,9,4,0
+UBC,2016,W,COMM,395,,109,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",38,75.81,6.78,83,55,37,0,1,0,0,0,0,0,0,0,0,0,1,2,3,2,4,12,13,0,0
+UBC,2016,W,COMM,395,,205,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",39,74.32,5.02,83,60,38,0,1,0,0,0,0,0,0,0,0,0,0,1,4,3,18,3,9,0,0
+UBC,2016,W,COMM,395,,206,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",39,75.51,3.81,85,70,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,15,8,8,1,0
+UBC,2016,W,COMM,395,,211,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",38,74.53,5,83,60,38,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13,10,5,9,0,0
+UBC,2017,W,COMM,390,,111,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,74.39,6.35,85,62,18,0,2,0,0,0,0,0,0,0,0,0,0,2,1,3,2,7,2,1,0
+UBC,2017,W,COMM,390,,112,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,75.2,10.22,85,42,19,1,0,0,0,0,0,0,0,1,1,0,0,0,2,4,1,1,10,1,0
+UBC,2017,W,COMM,390,,206,BUSINESS WRITING,"Soliman Ibrahim, Susan",20,78.3,4.88,84,68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,12,0,0
+UBC,2017,W,COMM,390,,207,BUSINESS WRITING,"Soliman Ibrahim, Susan",15,79.53,4.34,85,71,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,9,1,0
+UBC,2017,W,COMM,390,,211,BUSINESS WRITING,"Soliman Ibrahim, Susan",14,77.43,7.44,86,61,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,2,5,2,0
+UBC,2017,W,COMM,395,,103,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",40,74.4,6.68,83,60,40,0,0,0,0,0,0,0,0,0,0,0,0,5,1,6,11,4,13,0,0
+UBC,2017,W,COMM,395,,104,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",37,75.95,5.74,84,56,37,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5,6,11,13,0,0
+UBC,2017,W,COMM,395,,202,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",29,74.28,14.88,85,9,28,1,0,0,0,1,0,0,0,0,1,1,1,1,1,0,2,6,15,1,0
+UBC,2018,W,COMM,390,,218,BUSINESS WRITING,"Soliman Ibrahim, Susan",17,76.88,7.94,87,60,16,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,1,4,3,4,0
+UBC,2018,W,COMM,395,,107,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",40,76.45,6.14,86,61,40,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,6,8,11,5,0
+UBC,2018,W,COMM,395,,109,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",40,73.69,9.21,82,35,38,1,1,0,0,0,0,0,1,0,1,1,1,1,0,5,9,9,12,0,0
+UBC,2018,W,COMM,395,,201,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",23,77.17,4.2,85,70,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,5,9,1,0
+UBC,2018,W,COMM,395,,210,BUSN COMMUNICATI,"Soliman Ibrahim, Susan",29,79.86,7.77,87,50,29,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,4,9,11,0
+UBCV,2014,W,COMM,395,,201,Business Communications,Jasmin Kirk;Susan Soliman Ibrahim,38,75.84210526,9.2137568,89.0,42.0,,,,,,,,,,,,,,,,,10,7,11,,0
+UBCV,2015,W,COMM,390,,122,Business Writing,Susan Soliman Ibrahim,17,74.058823529,4.379934192,82.0,67.0,,,,,,,,,,,0,0,0,0,,,6,,,0,0
+UBCV,2015,W,COMM,390,,202,Business Writing,Susan Soliman Ibrahim,20,76.5,4.442616583,83.0,70.0,,,,,,,,,,,0,0,0,0,0,,8,,7,0,0
+UBCV,2015,W,COMM,390,,203,Business Writing,Susan Soliman Ibrahim,20,76.4,4.393775502,83.0,70.0,,,,,,,,,,,0,0,0,0,0,,5,,8,0,0
+UBCV,2015,W,COMM,395,,103,Business Communications,Gabriel Narciso;Mingchi Choo;Susan Soliman Ibrahim,38,74.315789474,9.076566988,84.0,32.0,,,,,,,,,,,,,,,,5,8,10,11,0,0
+UBCV,2015,W,COMM,395,,104,Business Communications,Gabriel Narciso;Susan Soliman Ibrahim;Vinotha Sanmugam,35,74.628571429,6.029758137,81.0,50.0,,,,,,,,,,,0,,,,,,10,14,5,0,0
+UBCV,2015,W,COMM,395,,205,Business Communications,Alexandra Dye;Gabriel Narciso;Susan Soliman Ibrahim,39,74.923076923,12.484484298,84.0,12.0,,,,,,,,,,,,,,,,,5,11,16,0,0
+UBCV,2015,W,COMM,395,,206,Business Communications,Allison Lee;Gabriel Narciso;Susan Soliman Ibrahim,33,75.090909091,7.654098724,86.0,46.0,,,,,,,,,,,,,,,,5,8,,14,,0
+UBCV,2016,W,COMM,390,,117,Business Writing,Susan Soliman Ibrahim,20,76.95,4.850122082,84.0,63.0,,,,,,,,,,,0,0,0,1,0,1,3,9,6,0,0
+UBCV,2016,W,COMM,390,,118,Business Writing,Susan Soliman Ibrahim,19,78.2631579,3.177037496,83.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,10,5,0,0
+UBCV,2016,W,COMM,395,,108,Business Communications,Gabriel Narciso;Nichoson Nguyen;Nichoson Tuan Nguyen;Susan Soliman Ibrahim,40,77.7,4.630999228,88.0,64.0,,,,,,,,,,,0,0,0,0,1,1,10,15,9,4,0
+UBCV,2016,W,COMM,395,,109,Business Communications,Allison Lee;Gabriel Narciso;Susan Soliman Ibrahim,37,75.81081081,6.777568549,83.0,55.0,,,,,,,,,,,0,0,1,2,3,2,4,12,13,0,0
+UBCV,2016,W,COMM,395,,205,Business Communications,Christopher Heathcote-Rey;Gabriel Narciso;Susan Soliman Ibrahim,38,74.31578947,5.024831653,83.0,60.0,,,,,,,,,,,0,0,0,1,4,3,18,3,9,0,0
+UBCV,2016,W,COMM,395,,206,Business Communications,Gabriel Narciso;Kimberly Wong;Susan Soliman Ibrahim,39,75.51282051,3.810455111,85.0,70.0,,,,,,,,,,,0,0,0,0,0,7,15,8,8,1,0
+UBCV,2016,W,COMM,395,,211,Business Communications,Gabriel Narciso;Jessica Tse;Susan Soliman Ibrahim,38,74.52631579,5.001280064,83.0,60.0,,,,,,,,,,,0,0,0,1,0,13,10,5,9,0,0
+UBCV,2017,W,COMM,390,,111,Business Writing,Susan Soliman Ibrahim,18,74.388888889,6.353682479,85.0,62.0,,,,,,,,,,,0,0,0,2,1,3,2,7,2,1,0
+UBCV,2017,W,COMM,390,,112,Business Writing,Susan Soliman Ibrahim,20,75.2,10.216601557,85.0,42.0,,,,,,,,,,,1,0,0,0,2,4,1,1,10,1,0
+UBCV,2017,W,COMM,390,,206,Business Writing,Susan Soliman Ibrahim,20,78.3,4.878524367,84.0,68.0,,,,,,,,,,,0,0,0,0,0,3,2,3,12,0,0
+UBCV,2017,W,COMM,390,,207,Business Writing,Susan Soliman Ibrahim,15,79.533333333,4.34028746,85.0,71.0,,,,,,,,,,,0,0,0,0,0,2,1,2,9,1,0
+UBCV,2017,W,COMM,390,,211,Business Writing,Susan Soliman Ibrahim,14,77.428571429,7.439130281,86.0,61.0,,,,,,,,,,,0,0,0,1,0,3,1,2,5,2,0
+UBCV,2017,W,COMM,395,,103,Business Communications,David Miller;Sassan Shokoohi;Sharon Zhao;Susan Soliman Ibrahim,40,74.4,6.682545193,83.0,60.0,,,,,,,,,,,0,0,0,5,1,6,11,4,13,0,0
+UBCV,2017,W,COMM,395,,104,Business Communications,David Miller;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,37,75.945945946,5.744301263,84.0,56.0,,,,,,,,,,,0,0,1,1,0,5,6,11,13,0,0
+UBCV,2017,W,COMM,395,,202,Business Communications,Elizabeth Bowker;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,29,74.275862069,14.875426889,85.0,9.0,,,,,,,,,,,1,1,1,1,1,0,2,6,15,1,0
+UBCV,2018,W,COMM,390,,218,Business Writing,Susan Soliman Ibrahim,16,76.875,7.940403012,87.0,60.0,,,,,,,,,,,0,0,0,1,2,1,1,4,3,4,0
+UBCV,2018,W,COMM,395,,107,Business Communications,Catherine Emma Hackwell;Catherine Hackwell;Douglas Mollenhauer;Susan Soliman Ibrahim,40,76.45,6.135019278,86.0,61.0,,,,,,,,,,,0,0,0,1,3,6,6,8,11,5,0
+UBCV,2018,W,COMM,395,,109,Business Communications,Chung Lee;Douglas Mollenhauer;Susan Soliman Ibrahim,39,73.692307692,9.208559651,82.0,35.0,,,,,,,,,,,1,1,1,1,0,5,9,9,12,0,0
+UBCV,2018,W,COMM,395,,201,Business Communications,Catherine Hackwell;Sharka Stuyt;Susan Soliman Ibrahim,23,77.173913043,4.195800649,85.0,70.0,,,,,,,,,,,0,0,0,0,0,4,4,5,9,1,0
+UBCV,2018,W,COMM,395,,202,Business Communications,Benjamin Kazakov;Elizabeth Bowker;Rajesh Vijayaraghavan;Si Yue Wang;Susan Soliman Ibrahim,38,78.789473684,3.289277377,86.0,70.0,,,,,,,,,,,0,0,0,0,0,1,5,11,20,1,0
+UBCV,2018,W,COMM,395,,210,Business Communications,Elizabeth Bowker;Susan Soliman Ibrahim,29,79.862068966,7.76771771,87.0,50.0,,,,,,,,,,,0,1,0,0,0,4,0,4,9,11,0
+UBCV,2019,W,COMM,395,,101,Business Communications,Elizabeth Bowker;Matthew Yong;Susan Soliman Ibrahim;Yao Chu Chen,40,75.35,4.98998998,84.0,62.0,,,,,,,,,,,0,0,0,2,3,1,9,17,8,0,0
+UBCV,2019,W,COMM,395,,102,Business Communications,Elizabeth Bowker;Gavin Ciulla;Gavin Marcus Ciulla;Susan Soliman Ibrahim;Yao Chu Chen,40,74.1,5.736969628,86.0,57.0,,,,,,,,,,,0,0,2,0,1,8,13,10,5,1,0
+UBCV,2019,W,COMM,395,,107,Business Communications,Alexandra Skarsgard;Cameron Morrell;Susan Soliman Ibrahim,39,74.948717949,6.617157594,85.0,54.0,,,,,,,,,,,0,1,2,0,2,3,7,18,5,1,0
+UBCV,2019,W,COMM,395,,109,Business Communications,Cameron Morrell;Katherine Skarsgard;Susan Soliman Ibrahim,38,74.0,7.044261609,87.0,52.0,,,,,,,,,,,0,1,1,1,3,6,8,11,6,1,0
+UBCV,2019,W,COMM,395,,201,Business Communications,Richard M Vurdela;Simran Kaur Mander;Simran Mander;Susan Soliman Ibrahim;Yao Chu Chen,35,75.571428571,6.203820997,89.0,65.0,,,,,,,,,,,0,0,0,0,4,4,9,10,5,3,0
+UBCV,2019,W,COMM,395,,210,Business Communications,Gavin Ciulla;Gavin Marcus Ciulla;Sean Irvine;Susan Soliman Ibrahim;Yao Chu Chen,36,74.916666667,6.321731228,90.0,56.0,,,,,,,,,,,0,0,1,0,3,6,6,13,6,0,1
+UBCV,2020,W,COMM,382,,201,Economics of Entrepreneurship and Innovation,Di Hai;Steven Minns;Susan Soliman Ibrahim,27,77.888888889,4.135524647,85.0,70.0,,,,,,,,,,,0,0,0,0,0,1,8,7,8,3,0

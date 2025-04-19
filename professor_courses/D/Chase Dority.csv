@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,PHIL,102,,003,Introduction to Philosophy II,Chase Dority;Chieh-Ling Cheng;Christina Hendricks;Kinley Gillette,120,68.991666667,12.026927654,88.0,19.0,4,5,10,12,14,13,21,22,16,3,0,,,
+UBCV,2018,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alan Walter Richardson;Alexandre Korolev;Chase Dority,63,78.015873016,15.376450431,95.0,11.0,3,1,1,0,3,1,8,11,12,14,9,,,
+UBCV,2019,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alan Walter Richardson;Alexandre Korolev;Chase Dority;Christopher Stephens,54,74.87037037,14.014879285,98.0,28.0,3,1,2,4,3,4,6,6,11,10,4,,,
+UBCV,2019,W,PHIL,220,,005,Symbolic Logic,Chase Dority;Jonathan Ichikawa;Phyllis Pearson,119,80.957983193,13.022402443,100.0,0.0,1,1,5,3,4,9,9,8,22,28,29,,,
+UBCV,2020,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Chase Dority;Livia Graf,89,77.483146067,14.802573762,95.0,2.0,3,2,2,3,6,3,9,14,15,18,14,,,
+UBCV,2020,W,PHIL,101,,001,Introduction to Philosophy,Albert Cotugno Iii;Chase Dority;Eric Margolis;Ori Simchen,115,70.991304348,12.52120703,88.0,0.0,3,1,5,4,11,25,27,17,18,4,0,,,
+UBCV,2020,W,PHIL,101,,003,Introduction to Philosophy,Chase Dority;David Friedell;Eric Margolis;Jasper Heaton;Serban Dragulin,100,70.01,8.698653094,87.0,20.0,3,0,3,6,17,27,26,9,6,3,0,,,
+UBCV,2021,S,PHIL,385,A,001,Existentialism,Bianca Crewe;Chase Dority;Willow Verkerk,72,73.75,13.03813475,91.0,2.0,2,0,1,3,3,12,14,16,12,8,1,,,
+UBCV,2021,W,PHIL,101,,003,Introduction to Philosophy,Chase Dority;Eric Margolis;Spencer Knafelc,103,73.087378641,14.760245226,90.0,0.0,6,0,1,2,2,11,25,29,20,6,1,,,
+UBCV,2021,W,PHIL,220,A,006,Symbolic Logic,Chase Dority;Kousaku Yui;Thomas Jacob Bittner,91,78.417582418,16.595893692,98.0,0.0,4,2,0,5,3,7,9,9,12,17,23,,,
+UBCV,2021,W,PHIL,334,A,001,"Sex, Gender and Philosophy",Chase Dority;Willow Verkerk,51,75.274509804,11.97677491,89.0,26.0,2,1,0,1,3,7,11,6,5,15,0,,,
+UBCV,2022,S,PHIL,250,,001,Minds and Machines,Chase Dority,19,78.9,,88.0,71.0,0,0,0,0,0,2,4,6,2,5,0,78.0,84.5,73.5

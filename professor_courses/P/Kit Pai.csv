@@ -1,0 +1,115 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2015,W,CNTO,301,,001,BASIC CNTO 1,"Pai, Kit",30,84.59,10.9,96,52,17,0,4,9,0,0,0,0,0,0,0,1,0,0,0,1,0,0,5,4,6,,,
+UBC,2015,W,CNTO,301,,002,BASIC CNTO 1,"Pai, Kit",7,84.67,12.06,96,72,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,,
+UBC,2015,W,CNTO,303,,001,BASIC CNTO 2,"Pai, Kit",13,89.42,8.91,100,65,12,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,6,,,
+UBC,2016,S,CNTO,301,,921,BASIC CNTO 1,"Pai, Kit",15,87.36,7.55,99,67,14,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,5,5,,,
+UBC,2016,S,CNTO,303,,951,BASIC CNTO 2,"Pai, Kit",4,82.67,16.29,94,64,3,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,,,
+UBC,2016,W,CNTO,301,,001,BASIC CNTO 1,"Pai, Kit",10,86.88,7.02,97,77,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,,,
+UBC,2016,W,CNTO,303,,001,BASIC CNTO 2,"Pai, Kit",7,85.33,13.22,97,65,6,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,3,,,
+UBC,2016,W,CNTO,311,,001,BSC CNTO MDRN SP,"Pai, Kit",31,89.57,8.62,97,58,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,4,21,,,
+UBC,2016,W,CNTO,311,,002,BSC CNTO MDRN SP,"Pai, Kit",30,92.1,6.14,99,70,29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,4,22,,,
+UBC,2016,W,CNTO,311,,003,BSC CNTO MDRN SP,"Pai, Kit",31,89.97,7.6,98,61,29,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,2,7,18,,,
+UBC,2016,W,CNTO,401,,001,INT CNTO 1,"Pai, Kit",7,94.75,1.5,97,94,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBC,2016,W,CNTO,451,,001,ADV CANT POPCLTR,"Pai, Kit",30,90.13,6.11,100,75,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,10,16,,,
+UBC,2017,S,CNTO,311,,921,BSC CNTO MDRN SP,"Pai, Kit",29,88.69,11.4,99,52,29,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,4,21,,,
+UBC,2017,S,CNTO,401,,921,INT CNTO 1,"Pai, Kit",16,87.87,8.51,98,74,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,9,,,
+UBC,2017,W,CNTO,301,,001,BASIC CNTO 1,"Pai, Kit",16,89.27,7.13,97,74,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,2,8,,,
+UBC,2017,W,CNTO,303,,001,BASIC CNTO 2,"Pai, Kit",11,90.91,7.16,99,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,9,,,
+UBC,2017,W,CNTO,311,,001,BSC CNTO MDRN SP,"Pai, Kit",30,94.17,4.35,100,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,25,,,
+UBC,2017,W,CNTO,311,,002,BSC CNTO MDRN SP,"Pai, Kit",29,90.59,5.23,98,78,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,21,,,
+UBC,2017,W,CNTO,311,,003,BSC CNTO MDRN SP,"Pai, Kit",32,92.56,5.47,98,69,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,27,,,
+UBC,2017,W,CNTO,311,,004,BSC CNTO MDRN SP,"Pai, Kit",31,89.74,5.59,98,72,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,9,18,,,
+UBC,2017,W,CNTO,401,,001,INT CNTO 1,"Pai, Kit",27,88.17,7.86,95,64,24,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,5,15,,,
+UBC,2017,W,CNTO,451,,001,ADV CANT POPCLTR,"Pai, Kit",33,87.39,5.41,96,77,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,6,9,14,,,
+UBC,2018,S,CNTO,311,,921,BSC CNTO MDRN SP,"Pai, Kit",33,94.06,2.94,99,88,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,28,,,
+UBC,2018,S,CNTO,311,,951,BSC CNTO MDRN SP,"Pai, Kit",30,88.38,5.51,98,75,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,9,13,,,
+UBC,2018,S,CNTO,401,,921,INT CNTO 1,"Pai, Kit",14,88,8.46,97,74,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,1,7,,,
+UBC,2018,S,CNTO,451,,951,ADV CANT POPCLTR,"Pai, Kit",17,90.71,3.37,95,82,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,14,,,
+UBC,2018,W,CNTO,301,,001,BASIC CNTO 1,"Pai, Kit",10,85.78,7.21,95,73,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,5,,,
+UBC,2018,W,CNTO,303,,001,BASIC CNTO 2,"Pai, Kit",8,80,12.22,92,63,7,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,2,2,,,
+UBC,2018,W,CNTO,311,,001,BSC CNTO MDRN SP,"Pai, Kit",30,84.13,7.84,95,60,30,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,5,10,8,,,
+UBC,2018,W,CNTO,311,,002,BSC CNTO MDRN SP,"Pai, Kit",32,81.1,13.9,94,21,30,1,0,0,0,0,0,1,0,0,1,0,0,1,0,4,1,3,2,12,7,,,
+UBC,2018,W,CNTO,311,,003,BSC CNTO MDRN SP,"Pai, Kit",31,80.52,9.54,95,61,31,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,2,3,5,5,8,,,
+UBC,2018,W,CNTO,311,,004,BSC CNTO MDRN SP,"Pai, Kit",30,86.31,4.42,96,76,29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,11,8,,,
+UBC,2018,W,CNTO,401,,001,INT CNTO 1,"Pai, Kit",30,87.9,8.13,97,54,30,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,5,4,19,,,
+UBC,2018,W,CNTO,451,,001,ADV CANT POPCLTR,"Pai, Kit",22,85.36,6.94,93,68,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,5,6,8,,,
+UBCV,2015,W,CNTO,301,,001,Basic Cantonese I,Kit Pai,17,84.588235294,10.89758473,96.0,52.0,,,,,,,,,,,0,,,,,,,,5,,6,,,
+UBCV,2015,W,CNTO,303,,001,Basic Cantonese II,Kit Pai,12,89.416666667,8.908201873,100.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,5,6,,,
+UBCV,2016,S,CNTO,301,,921,Basic Cantonese I,Kit Pai,14,87.35714286,7.550926004,99.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,3,5,5,,,
+UBCV,2016,W,CNTO,301,,001,Basic Cantonese I,Kit Pai,8,86.875,7.019106577,97.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,2,3,,,
+UBCV,2016,W,CNTO,303,,001,Basic Cantonese II,Kit Pai,6,85.33333333,13.21615173,97.0,65.0,,,,,,,,,,,0,0,0,0,1,0,1,0,0,1,3,,,
+UBCV,2016,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai,31,89.06451613,8.925377616,97.0,58.0,,,,,,,,,,,0,0,1,0,0,0,3,0,2,4,21,,,
+UBCV,2016,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai,29,92.10344828,6.137384434,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,4,22,,,
+UBCV,2016,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai,29,89.96551724,7.603959301,98.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,2,7,18,,,
+UBCV,2016,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai,30,90.13333333,6.106713848,100.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,10,16,,,
+UBCV,2017,S,CNTO,311,,921,Basic Cantonese for Mandarin Speakers,Kit Pai,29,88.689655172,11.402078283,99.0,52.0,,,,,,,,,,,0,1,1,0,1,0,0,0,1,4,21,,,
+UBCV,2017,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai,15,87.866666667,8.50937858,98.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,1,9,,,
+UBCV,2017,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Zhiqing Li,15,89.266666667,7.126075525,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,2,8,,,
+UBCV,2017,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Zhiqing Li,11,90.909090909,7.161767177,99.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,9,,,
+UBCV,2017,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Siqi Zhu,30,93.6,5.301918976,100.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,0,3,25,,,
+UBCV,2017,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Derek Ching Lut Huang;Kit Pai,29,90.586206897,5.23393625,98.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,21,,,
+UBCV,2017,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Siqi Zhu,32,92.5625,5.470964413,98.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,3,27,,,
+UBCV,2017,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Derek Ching Lut Huang;Kit Pai,31,89.741935484,5.58550351,98.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,9,18,,,
+UBCV,2017,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Zhiqing Li,24,88.166666667,7.855580496,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,2,0,5,15,,,
+UBCV,2017,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Zhiqing Li,33,87.393939394,5.407976712,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,6,9,14,,,
+UBCV,2018,S,CNTO,311,,921,Basic Cantonese for Mandarin Speakers,Ho Fai Fong;Kit Pai,32,93.8125,3.22727789,99.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,28,,,
+UBCV,2018,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Kit Pai,30,88.233333333,5.468930005,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,6,9,13,,,
+UBCV,2018,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai;Wenxuan Guo,13,88.0,8.455767263,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,1,7,,,
+UBCV,2018,S,CNTO,451,,951,Advanced Cantonese through Popular Culture,Kit Pai;Siqi Zhu,17,90.705882353,3.368321279,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,14,,,
+UBCV,2018,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,9,85.777777778,7.207249437,95.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,0,5,,,
+UBCV,2018,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Qian Wang;Wing Shum Tam,7,80.0,12.220201853,92.0,63.0,,,,,,,,,,,0,0,0,1,0,2,0,0,0,2,2,,,
+UBCV,2018,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,30,84.133333333,7.83772193,95.0,60.0,,,,,,,,,,,0,0,0,1,0,1,1,4,5,10,8,,,
+UBCV,2018,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,32,80.8125,13.766339266,94.0,21.0,,,,,,,,,,,1,0,0,1,0,4,2,3,2,12,7,,,
+UBCV,2018,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,31,80.516129032,9.542434936,95.0,61.0,,,,,,,,,,,0,0,0,2,1,5,2,3,5,5,8,,,
+UBCV,2018,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,29,86.448275862,4.145446787,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,11,8,,,
+UBCV,2018,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,30,87.9,8.129766506,97.0,54.0,,,,,,,,,,,0,1,0,0,0,0,0,1,5,4,19,,,
+UBCV,2018,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Qian Wang;Wing Shum Tam,22,85.363636364,6.938817345,93.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,1,5,6,8,,,
+UBCV,2019,S,CNTO,311,,921,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wenxuan Guo,28,80.714285714,7.122510704,90.0,64.0,,,,,,,,,,,0,0,0,0,1,3,4,2,5,11,2,,,
+UBCV,2019,S,CNTO,311,,951,Basic Cantonese for Mandarin Speakers,Kit Pai;Kwan Yi Cheung;Kwan Yi Queenie Cheung;Qian Wang;Wai Man Lam,29,76.655172414,10.251396637,93.0,60.0,,,,,,,,,,,0,0,0,6,1,3,2,3,7,4,3,,,
+UBCV,2019,S,CNTO,451,,951,Advanced Cantonese through Popular Culture,Kit Pai;Qian Wang,9,88.444444444,4.530759073,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,4,,,
+UBCV,2019,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Kristy Chan;Qian Wang;Ruo Xi Yin;Wai Man Lam,14,82.5,8.942121586,93.0,65.0,,,,,,,,,,,0,0,0,0,2,0,0,3,2,4,3,,,
+UBCV,2019,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Qian Wang;Stephanie Wong;Wai Man Lam;Yik Nam Yuen,7,84.428571429,8.017837257,93.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,2,2,,,
+UBCV,2019,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Kristy Chan;Qian Wang;Ruo Xi Yin;Shing Yeung Yu;Wing Shum Tam,29,86.862068966,4.726249932,93.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,9,12,,,
+UBCV,2019,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Kit Pai;Qian Wang,30,83.766666667,5.781560065,93.0,73.0,,,,,,,,,,,0,0,0,0,0,0,4,2,9,8,7,,,
+UBCV,2019,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Man Yan Priscilla Lam;Qian Wang,27,82.481481481,4.191294736,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,3,12,8,2,,,
+UBCV,2019,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Kit Pai;Kristy Chan;Qian Wang,29,82.482758621,6.242828398,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,4,9,6,6,,,
+UBCV,2019,W,CNTO,401,,001,Intermediate Cantonese I,Hok Wan Leung;Kit Pai;Qian Wang;Shing Yeung Yu;Wing Shum Tam,30,85.466666667,8.439371334,96.0,67.0,,,,,,,,,,,0,0,0,0,2,0,2,4,3,4,15,,,
+UBCV,2019,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Kristy Chan;Qian Wang,29,85.655172414,6.399083986,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,7,10,9,,,
+UBCV,2020,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai;Man Yan Priscilla Lam,17,85.235294118,6.524275935,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,10,3,,,
+UBCV,2020,S,CNTO,451,,951,Advanced Cantonese through Popular Culture,Kit Pai,7,88.0,10.630145813,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,1,0,0,5,,,
+UBCV,2020,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Natalie Pak,28,81.392857143,8.265677744,96.0,63.0,,,,,,,,,,,0,0,0,1,0,2,5,3,7,4,6,,,
+UBCV,2020,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Natalie Pak;Tsz Yan Kung,34,84.529411765,8.228683367,95.0,59.0,,,,,,,,,,,0,0,1,0,1,0,2,4,6,7,13,,,
+UBCV,2020,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Brandon Sai Yin Fung;Kit Pai,29,84.275862069,6.627305807,95.0,67.0,,,,,,,,,,,0,0,0,0,1,0,2,5,3,11,7,,,
+UBCV,2020,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Natalie Pak,21,88.428571429,4.105745104,93.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,4,13,,,
+UBCV,2020,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Natalie Pak;Tsz Yan Kung,28,87.357142857,5.85765903,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,4,8,14,,,
+UBCV,2021,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai,15,87.733333333,4.02610529,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,7,5,,,
+UBCV,2021,S,CNTO,451,,921,Advanced Cantonese through Popular Culture,Kit Pai,8,88.875,5.303300859,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,5,,,
+UBCV,2021,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Wai Man Lam;Yik Nam Yuen,27,81.888888889,5.93771086,92.0,66.0,,,,,,,,,,,0,0,0,0,2,0,0,5,10,9,1,,,
+UBCV,2021,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai;Liam Doherty;Sonija Leung,28,76.928571429,8.831461317,91.0,60.0,,,,,,,,,,,0,0,0,2,4,1,3,7,4,6,1,,,
+UBCV,2021,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Katherine Lee;Kit Pai;Wai Man Lam;Yi Lin,29,80.275862069,7.864461437,96.0,56.0,,,,,,,,,,,0,0,1,0,1,1,3,3,13,5,2,,,
+UBCV,2021,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Claudia Fu;Kit Pai;Mink Yiu Chow,29,86.137931034,9.195201147,95.0,66.0,,,,,,,,,,,0,0,0,0,3,1,0,1,4,6,14,,,
+UBCV,2021,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Rachel Wong;Wai Man Lam,22,83.545454545,6.284730344,94.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,4,7,5,5,,,
+UBCV,2021,W,CNTO,403,,001,Intermediate Cantonese II,Claudia Fu;Kit Pai,28,91.821428571,4.682936491,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,23,,,
+UBCV,2021,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Claudia Fu;Kit Pai,15,90.8,4.507137197,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,11,,,
+UBCV,2021,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai,15,87.7,,95.0,82.0,,,,,,,,,,,,,,,,,,,,7,,87.0,91.0,85.0
+UBCV,2021,S,CNTO,451,,921,Advanced Cantonese through Popular Culture,Kit Pai,8,88.9,,95.0,80.0,,,,,,,,,,,,,,,,,,,,,,90.5,92.3,86.5
+UBCV,2021,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Kit Pai,29,86.1,,95.0,66.0,,,,,,,,,,,,,,,,,,,,6,14,88.0,93.0,82.0
+UBCV,2021,W,CNTO,403,,001,Intermediate Cantonese II,Kit Pai,28,91.8,,97.0,75.0,,,,,,,,,,,,,,,,,,,,,23,93.0,94.3,91.8
+UBCV,2021,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai,15,90.8,,96.0,81.0,,,,,,,,,,,,,,,,,,,,,11,92.0,94.5,89.0
+UBCV,2022,S,CNTO,311,,923,Basic Cantonese for Mandarin Speakers,Kit Pai,28,85.1,,95.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,3,5,9,9,86.5,90.0,81.5
+UBCV,2022,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai,13,83.8,,95.0,57.0,,,,,,,,,,,0,0,1,0,0,0,0,1,5,3,3,84.0,87.0,82.0
+UBCV,2022,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai,30,86.4,,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,8,9,10,86.5,91.8,82.0
+UBCV,2022,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai,30,85.8,,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,5,5,3,15,88.0,92.8,80.3
+UBCV,2022,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai,29,88.3,,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,7,4,17,90.0,93.0,84.0
+UBCV,2022,W,CNTO,311,,012,Basic Cantonese for Mandarin Speakers,Kit Pai,29,87.7,,97.0,56.0,,,,,,,,,,,0,0,1,0,0,0,0,0,5,9,14,88.0,92.0,86.0
+UBCV,2022,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai,23,90.0,,96.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,0,6,15,91.0,94.0,87.5
+UBCV,2022,W,CNTO,403,,001,Intermediate Cantonese II,Kit Pai,15,90.3,,96.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,2,11,91.0,93.0,88.5
+UBCV,2022,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai,25,90.1,,97.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,6,16,91.0,93.0,87.0
+UBCV,2023,S,CNTO,311,,923,Basic Cantonese for Mandarin Speakers,Kit Pai,24,86.0,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,15,5,86.0,88.0,85.0
+UBCV,2023,S,CNTO,401,,921,Intermediate Cantonese I,Kit Pai,9,86.0,,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,5,3,87.0,91.0,87.0
+UBCV,2023,W,CNTO,311,,013,Basic Cantonese for Mandarin Speakers,Kit Pai,30,84.4,,94.0,70.0,,,,,,,,,,,0,0,0,0,0,3,1,4,4,7,11,85.5,90.0,79.25
+UBCV,2023,W,CNTO,311,,014,Basic Cantonese for Mandarin Speakers,Kit Pai,31,84.65,,92.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,3,4,11,10,86.0,90.0,81.0
+UBCV,2023,W,CNTO,311,,023,Basic Cantonese for Mandarin Speakers,Kit Pai,30,89.07,,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,11,14,89.0,93.0,86.0
+UBCV,2023,W,CNTO,401,,011,Intermediate Cantonese I,Kit Pai,28,89.32,,98.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,1,2,7,17,90.5,93.0,87.0
+UBCV,2023,W,CNTO,403,,021,Intermediate Cantonese II,Kit Pai,23,82.48,,96.0,0.0,,,,,,,,,,,3,0,0,0,0,0,0,0,2,1,17,91.0,93.5,88.0
+UBCV,2023,W,CNTO,451,,021,Advanced Cantonese through Popular Culture,Kit Pai,30,92.3,,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,24,94.0,95.0,91.25

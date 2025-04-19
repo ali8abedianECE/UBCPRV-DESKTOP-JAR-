@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,CPSC,425,,101,Computer Vision,Borna Ghotbi;Leonid Sigal;Linzi Xing;Polina Zablotskaia;Sarah Habashi Elhammadi;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Tzu-Yun Shann,143,76.181818182,10.798171705,100.0,52.0,0,1,5,14,17,18,14,13,26,16,19
+UBCV,2018,W,CPSC,532,S,201,Topics in Artificial Intelligence,Leonid Sigal;Mohit Bajaj;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal,46,94.0,4.407065035,100.0,83.0,0,0,0,0,0,0,0,0,1,9,36
+UBCV,2019,W,DSCI,524,,001,Collaborative Software Development,Javier Castillo Arnemann;Jie Xiang;Man Yeung Tai;Michael Feeley;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Tiffany Timbers,94,90.053191489,4.375805969,95.0,63.0,0,0,0,1,0,1,1,0,0,30,61
+UBCV,2019,W,DSCI,573,,001,Feature and Model Selection,Giulio Valentino Dalla Riva;Hossameldin Ibrahim Said Mohammed;Kayode Adekunle Aina;Prateek Yadav;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Timothy Cashion;Varada Kolhatkar,120,90.625,5.780381919,99.0,69.0,0,0,0,0,0,2,2,3,7,22,84

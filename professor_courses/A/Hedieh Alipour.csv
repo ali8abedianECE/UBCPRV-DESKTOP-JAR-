@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Hedieh Alipour;Manu Sasidharan Madhav;Peter Cripton;Roza Vaez Ghaemi;Septimiu Salcudean,112,83.071428571,5.304620263,96.0,67.0,0,0,0,0,1,1,6,18,32,45,9
+UBCV,2021,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Hedieh Alipour;Prasham Jain;Shahriar Mirabbasi,124,95.677419355,8.477179684,100.0,51.0,0,1,0,1,2,0,1,0,4,6,109
+UBCV,2021,W,ELEC,221,,201,Signals and Systems,Hedieh Alipour;Joel Hernandez-Balades;Joseph Yan;Parnia Haji Faraji;Rabe Arshad,167,62.922155689,21.530307585,100.0,0.0,32,10,16,21,16,15,11,12,7,9,18

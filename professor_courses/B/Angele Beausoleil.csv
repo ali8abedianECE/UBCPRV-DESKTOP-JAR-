@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,COMM,388,,101,DSGN STAT PRCT,"Beausoleil, Angele;Quayle, Moura",20,82.05,3.43,86,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,11,4,0,,,
+UBC,2012,W,COMM,388,,201,DSGN STAT PRCT,"Beausoleil, Angele;Quayle, Moura",15,79.67,1.68,83,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8,0,0,,,
+UBC,2013,W,COMM,388,,201,DSGN STAT PRCT,"Beausoleil, Angele",18,78.5,13.06,89,28,17,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,3,11,2,0,,,
+UBC,2014,W,COMM,388,,101,DSGN STAT PRCT,"Beausoleil, Angele",28,81,5.7,87,62,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,7,10,8,0,,,
+UBC,2014,W,COMM,482,,201,NEW PRODUCT DEV,"Beausoleil, Angele",22,77.76,5.3,90,72,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,4,1,1,,,
+UBC,2015,W,COMM,388,,102,DSGN STAT PRCT,"Beausoleil, Angele",34,84.09,2.48,88,78,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,15,16,0,,,
+UBC,2016,W,ASTU,204,D,001,TPC ARTS STUDIES,"Beausoleil, Angele",20,78.61,6.7,88,56,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3,10,1,0,,,
+UBC,2016,W,COMM,388,,101,DSN MTD BUS INVT,"Beausoleil, Angele",36,81.53,4.71,92,64,36,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10,18,5,2,,,
+UBC,2016,W,COMM,388,,102,DSN MTD BUS INVT,"Beausoleil, Angele",35,83.12,3.25,90,78,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,17,10,1,,,
+UBC,2016,W,COMM,388,,201,DSN MTD BUS INVT,"Beausoleil, Angele",36,83.34,2.91,89,77,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,15,0,,,
+UBC,2016,W,COMM,486,M,203,SPECIAL TPC BUSI,"Beausoleil, Angele",35,80.97,5.16,88,69,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,16,9,0,,,
+UBC,2016,W,COMM,486,M,204,SPECIAL TPC BUSI,"Beausoleil, Angele",42,82.36,3.89,89,72,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,16,15,0,,,
+UBC,2017,W,BAEN,550,,DD1,FUND ENTRPRENEUR,"Beausoleil, Angele",52,83.4,3.7,91,77,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,27,13,4,,,
+UBC,2017,W,COMM,388,,101,DSN MTD BUS INVT,"Beausoleil, Angele",36,83.64,3.18,90,72,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,17,15,1,,,
+UBC,2017,W,COMM,388,,102,DSN MTD BUS INVT,"Beausoleil, Angele",40,83.95,2.77,89,78,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,21,0,,,
+UBC,2017,W,COMM,389,,101,CREATIVITY BUSNS,"Beausoleil, Angele",39,86.33,4.77,95,76,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,13,12,,,
+UBCV,2014,W,COMM,388,,101,Design Strategies for Business Innovation: Studio Practice,Angele Beausoleil;Moura Quayle,28,81.0,5.702501076,87.0,62.0,,,,,,,,,,,0,0,0,,,,,7,10,8,0,,,
+UBCV,2014,W,COMM,482,,201,New Product Development,Angele Beausoleil,21,77.76190476,5.300044923,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,8,7,4,1,1,,,
+UBCV,2015,W,BA,504,,001,Integration and Professional Development: Foundation,Angele Beausoleil;Darren Dahl;James Mcallister;Murali Chandrashekaran;Paul Cubbon;Ronald Timothy Cenfetelli;Tamar Milne,50,80.34,2.503956054,85.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,20,24,5,0,,,
+UBCV,2015,W,BA,504,,002,Integration and Professional Development: Foundation,Angele Beausoleil;Darren Dahl;Murali Chandrashekaran;Paul Cubbon;Ronald Timothy Cenfetelli;Tamar Milne,49,82.979591837,2.854016146,87.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,5,21,23,0,,,
+UBCV,2015,W,COMM,388,,102,Design Strategies for Business Innovation: Studio Practice,Angele Beausoleil;Moura Quayle;Vivian Lin,33,84.090909091,2.479461085,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,15,16,0,,,
+UBCV,2016,W,ASTU,204,D,001,Topics in Interdisciplinary Arts Studies,Angele Beausoleil;Moura Quayle,20,78.5,6.345325673,88.0,56.0,,,,,,,,,,,0,0,1,0,0,0,3,5,10,1,0,,,
+UBCV,2016,W,BA,504,,001,Business Strategy Integration: Foundation,Angele Beausoleil;Danielle Van Jaarsveld;Julia Gartley;Kathryn Lipinski;Murali Chandrashekaran;Paul Cubbon;Steve Alisharan;Tamar Milne,49,79.20408163,3.220892681,85.0,73.0,,,,,,,,,,,0,0,0,0,0,0,5,25,14,5,0,,,
+UBCV,2016,W,BA,504,,002,Business Strategy Integration: Foundation,Angele Beausoleil;Danielle Van Jaarsveld;Julia Gartley;Kathryn Lipinski;Murali Chandrashekaran;Paul Cubbon;Tamar Milne,50,80.9,1.717259326,84.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,10,40,0,0,,,
+UBCV,2016,W,COMM,388,,101,Design Methods for Business Innovation,Albina Gibadullina;Angele Beausoleil;Moura Quayle,36,81.52777778,4.70553541,92.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,10,18,5,2,,,
+UBCV,2016,W,COMM,388,,102,Design Methods for Business Innovation,Angele Beausoleil;Fiona Jones;Moura Quayle,34,83.11764706,3.245180164,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,6,17,10,1,,,
+UBCV,2016,W,COMM,388,,201,Design Methods for Business Innovation,Angele Beausoleil;Moura Quayle;Priyanka Vasudev,36,83.5,3.018987531,89.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,15,16,0,,,
+UBCV,2016,W,COMM,486,M,203,Special Topics in Business,Angele Beausoleil,35,80.97142857,5.164845617,88.0,69.0,,,,,,,,,,,0,0,0,0,0,2,4,4,16,9,0,,,
+UBCV,2016,W,COMM,486,M,204,Special Topics in Business,Angele Beausoleil,42,82.35714286,3.887575133,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,10,16,15,0,,,
+UBCV,2017,W,BA,562,,BA1,Creativity,Angele Beausoleil;Pierre Alexander Noujeim;Pierre Noujeim,35,79.371428571,4.537981634,89.0,73.0,,,,,,,,,,,0,0,0,0,0,0,8,12,9,6,0,,,
+UBCV,2017,W,BAEN,550,,DD1,Fundamentals in Entrepreneurship,Angele Beausoleil;Shannon Mary Patricia Payne;Shannon Payne,52,83.403846154,3.695570297,91.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,8,27,13,4,,,
+UBCV,2017,W,COMM,388,,101,Design Methods for Business Innovation,Angele Beausoleil;Parham Albadvi,36,83.638888889,3.181668725,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,17,15,1,,,
+UBCV,2017,W,COMM,388,,102,Design Methods for Business Innovation,Angele Beausoleil;Emilie Gibeau,40,83.95,2.773038692,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,18,21,0,,,
+UBCV,2017,W,COMM,389,,101,Creativity in Business,Angele Beausoleil;Pierre Alexander Noujeim;Pierre Noujeim,39,86.333333333,4.770155759,95.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,9,13,12,,,
+UBCV,2017,W,COMM,486,M,203,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,35,78.657142857,5.340978414,85.0,56.0,,,,,,,,,,,0,0,1,0,0,1,3,13,12,5,0,,,
+UBCV,2017,W,COMM,486,M,204,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,41,78.268292683,3.918063235,86.0,68.0,,,,,,,,,,,0,0,0,0,0,2,6,13,19,1,0,,,
+UBCV,2023,W,APSC,486,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,21,83.9,,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,7,3,84.0,87.0,81.0
+UBCV,2023,W,APSC,486,,002,New Venture Design,Angele Beausoleil;Paul Lusina;James Blair Simonite,24,84.1,,88.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,13,0,85.0,86.0,82.8
+UBCV,2023,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,10,81.7,,88.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,2,0,81.5,83.8,80.0
+UBCV,2023,W,BA,562,,001,Creativity,Angele Beausoleil,47,81.79,,88.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,9,28,10,0,81.0,84.0,80.0
+UBCV,2023,W,BA,562,,002,Creativity,Angele Beausoleil,35,80.46,,87.0,75.0,,,,,,,,,,,0,0,0,0,0,0,2,10,19,4,0,80.0,82.0,79.0
+UBCV,2023,W,BAEN,549,,001,Innovation and Sustainability,Angele Beausoleil,32,79.94,,85.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,13,17,1,0,80.0,81.25,78.0
+UBCV,2023,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Angele Beausoleil,35,80.51,,86.0,63.0,,,,,,,,,,,0,0,0,1,0,0,1,8,21,4,0,81.0,82.0,79.0
+UBCV,2023,W,COMM,280,,101,Entrepreneurship,Angele Beausoleil,34,74.9,,83.0,68.0,,,,,,,,,,,0,0,0,0,0,6,11,12,5,0,0,75.5,77.0,72.0
+UBCV,2023,W,COMM,280,,203,Entrepreneurship,Angele Beausoleil,25,76.4,,84.0,67.0,,,,,,,,,,,0,0,0,0,1,1,7,9,7,0,0,77.0,80.0,73.0
+UBCV,2023,W,COMM,466,,001,New Venture Design,Purang Abolmaesumi;Angele Beausoleil;Paul Lusina;Fraser Pogue;James Blair Simonite,18,82.78,,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,9,4,1,83.0,84.75,80.25
+UBCV,2023,W,COMM,466,,002,New Venture Design,Angele Beausoleil;Paul Lusina;James Blair Simonite,16,82.19,,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,7,5,0,82.0,85.0,79.75

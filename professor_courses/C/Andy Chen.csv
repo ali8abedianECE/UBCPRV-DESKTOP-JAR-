@@ -1,0 +1,20 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,COMM,204,,101,LOG&OPS MANAGMNT,"Chen, Andy",61,83.49,7.68,97,62,61,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,4,6,19,11,17
+UBC,2016,W,COMM,443,,101,SERVICE OPS,"Chen, Andy",64,81.47,5.78,91,60,62,0,0,2,0,0,0,0,0,0,0,0,0,1,0,2,8,7,17,24,3
+UBC,2016,W,COMM,465,,201,MARKETING MGMT,"Chen, Andy",55,83.45,7.11,93,60,55,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,2,14,25,7
+UBC,2017,W,BASC,550,,201,OPER & LOG,"Chen, Andy",23,85.22,5.2,95,77,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,10,5
+UBC,2017,W,COMM,204,,204,LOG&OPS MANAGMNT,"Chen, Andy",66,83.54,6.42,94,60,65,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,7,19,23,10
+UBC,2017,W,COMM,443,,201,SERVICE OPS,"Chen, Andy",41,83.44,4.57,90,72,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,19,12,6
+UBC,2018,W,COMM,414,,101,DATA VISUALIZTN,"Chen, Andy",41,85.41,4.61,94,72,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,14,17,8
+UBCV,2016,W,COMM,204,,101,Logistics and Operations Management,Andy Chen;Andy Wei Rong Chen;Odette Melvin,61,83.49180328,7.680327577,97.0,62.0,,,,,,,,,,,0,0,0,1,3,0,4,6,19,11,17
+UBCV,2016,W,COMM,443,,101,Service Operations,Andy Chen;Andy Wei Rong Chen,62,81.46774194,5.776486373,91.0,60.0,,,,,,,,,,,0,0,0,1,0,2,8,7,17,24,3
+UBCV,2016,W,COMM,465,,201,Marketing Management,Andy Chen;Andy Wei Rong Chen;Deepakprashanth Kumaraswamy,55,83.45454546,7.112373625,93.0,60.0,,,,,,,,,,,0,0,0,2,0,3,2,2,14,25,7
+UBCV,2017,W,BASC,550,,201,Operations and Logistics,Andy Chen;Ningfei Shen,23,85.217391304,5.204513092,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,5,3,10,5
+UBCV,2017,W,COMM,204,,204,Logistics and Operations Management,Andy Chen;Anqi Li,65,83.538461538,6.41550106,94.0,60.0,,,,,,,,,,,0,0,0,1,0,3,2,7,19,23,10
+UBCV,2017,W,COMM,443,,201,Service Operations,Andy Chen,41,83.43902439,4.56644709,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,19,12,6
+UBCV,2018,W,APSC,486,,001,New Venture Design,Andy Chen;Andy Wei Rong Chen;David Miller;Gary Bull;Julian Rhind;Lynda Anne Sayer;Purang Abolmaesumi;Shakeel Bharmal,15,83.933333333,3.195234547,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,3,1
+UBCV,2018,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,Andy Chen;Andy Wei Rong Chen;David Miller;Gary Bull;Julian Rhind;Lynda Anne Sayer;Purang Abolmaesumi;Shakeel Bharmal,8,85.75,4.097037257,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,1,3
+UBCV,2018,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,Andy Chen;Andy Wei Rong Chen;David Miller;Gary Bull;Julian Rhind;Lynda Anne Sayer;Purang Abolmaesumi;Shakeel Bharmal,10,82.1,1.100504935,84.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,10,0,0
+UBCV,2018,W,COMM,395,,108,Business Communications,Andrew Chen;Andy Chen;Andy Wei Rong Chen;Elizabeth Bowker;Shaqeel Jiwa;Shaqeel Salim Jiwa;Yao Chu Chen,40,75.025,6.494524321,90.0,61.0,,,,,,,,,,,0,0,0,3,1,6,8,12,7,2,1
+UBCV,2018,W,COMM,395,,110,Business Communications,Andrew Chen;Andy Chen;Andy Wei Rong Chen;Grace Shaw;Yao Chu Chen,40,76.475,4.84099746,86.0,65.0,,,,,,,,,,,0,0,0,0,1,6,9,11,11,2,0
+UBCV,2018,W,COMM,414,,101,Data Visualization and Business Analytics,Andy Chen;Aylin Mumcular,41,85.414634146,4.609639952,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,14,17,8

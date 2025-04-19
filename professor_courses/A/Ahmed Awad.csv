@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,S,CICS,518,,921,COMP&INFO SECRTY,"Awad, Ahmed",29,82.34,11.51,94,27,28,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,4,11,11,2
+UBC,2015,W,CPSC,319,,201,SOFTWR ENG PROJ,"Awad, Ahmed",74,87.93,4.75,94,79,74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,14,13,38
+UBC,2016,S,CPSC,213,,921,INTRO COMP SYS,"Awad, Ahmed",134,79.04,11.68,100,31,131,1,2,0,0,0,0,0,1,0,1,0,5,8,7,11,14,17,29,17,23
+UBC,2016,S,CPSC,313,,911,COMP HARD&OS,"Awad, Ahmed",98,81.48,13.05,100,12,96,1,1,0,0,0,1,0,0,0,1,2,2,3,2,5,10,14,15,15,28
+UBC,2016,W,CPSC,213,,101,INTRO COMP SYS,"Awad, Ahmed",185,78.96,13.52,99,28,170,12,3,0,0,0,0,1,1,10,12,0,3,4,7,11,18,22,31,42,32
+UBC,2016,W,CPSC,259,,101,DTA&ALG ELEC ENG,"Awad, Ahmed",221,77.67,12.55,98,10,211,3,7,0,0,0,2,0,0,1,3,2,8,15,7,19,25,33,34,36,32
+UBCV,2015,S,CICS,518,,921,Computer and Information System Security,Ahmed Awad,29,82.34482759,11.51172031,94.0,27.0,,,,,,,,,,,,,,,,,,,11,11,
+UBCV,2015,W,CPSC,319,,201,Software Engineering Project,Ahmed Awad;Daniel Araujo Almeida;Dilan Ustek,74,87.932432432,4.746537544,94.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,9,14,13,38
+UBCV,2016,S,CPSC,213,,921,Introduction to Computer Systems,Ahmed Awad;Behrooz Sepehry;Bei Yuan Zhang;Bei Zhang;Bin Chen;Coulter Beeson;Coulter Donald Beeson;Jeong Hun Sun;Jianjun Liu;Jonathan Budiardjo;Jordon Johnson;Ksenia Pinski;Ritika Jain;Tracey Lui;Wali Ahmed Usmani;Xin Yu Yuan;Zipeng Liu;Zixuan Yin,132,79.03787879,11.6811359,100.0,31.0,,,,,,,,,,,1,0,5,8,7,11,14,17,29,17,23
+UBCV,2016,S,CPSC,313,,911,Computer Hardware and Operating Systems,Ahmed Awad;Anna Zheltukhina;Daniel Chen,97,81.48453608,13.04568368,100.0,12.0,,,,,,,,,,,1,2,2,3,2,5,10,14,15,15,28
+UBCV,2016,W,CPSC,213,,101,Introduction to Computer Systems,Ahmed Awad,182,78.95604396,13.51889375,99.0,28.0,,,,,,,,,,,12,0,3,4,7,11,18,22,31,42,32
+UBCV,2016,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Ahmed Awad,214,77.6728972,12.5535665,98.0,10.0,,,,,,,,,,,3,2,8,15,7,19,25,33,34,36,32

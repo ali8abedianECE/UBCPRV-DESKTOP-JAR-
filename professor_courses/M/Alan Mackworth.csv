@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,CPSC,502,,101,ARTIF INTELL 1,"Mackworth, Alan",22,84.45,16.14,97,18,21,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,4,6,9
+UBC,2003,W,CPSC,502,,101,ARTIF INTELL 1,"Mackworth, Alan",19,85.37,7.66,96,70,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,4,7,5
+UBC,2007,W,CPSC,502,,101,ARTIF INTELL 1,"Mackworth, Alan",14,81.57,10.04,95,60,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,2,3,3
+UBC,2009,W,CPSC,502,,101,ARTIF INTELL 1,"Mackworth, Alan",17,82.31,5.39,94,68,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11,3,1
+UBC,2011,W,CPSC,322,,101,ARTIFICIAL INTEL,"Mackworth, Alan",79,77.84,10.1,94,50,76,0,2,1,0,0,0,0,0,0,0,1,1,6,4,10,9,4,18,10,13
+UBC,2012,W,CPSC,322,,201,ARTIFICIAL INTEL,"Mackworth, Alan",103,72.21,12.97,95,34,93,8,0,0,2,0,0,0,2,6,8,2,5,4,10,12,12,12,23,7,6
+UBC,2013,W,CPSC,530,M,201,INFO PROCESSING,"Mackworth, Alan",10,86.89,3.02,91,82,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,1
+UBC,2015,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",131,66.77,9.09,86,43,122,3,4,1,0,0,0,0,0,3,3,11,8,18,22,25,17,7,11,3,0
+UBC,2016,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",133,69.97,8.83,91,34,121,2,8,0,2,0,0,0,1,1,2,4,10,8,13,34,18,16,16,1,1
+UBC,2017,W,COGS,200,,002,Int Cog Sys,"Fais, Laurel;Mackworth, Alan;Taylor, Ryan",149,71.1,9.21,88,41,144,1,4,0,0,0,0,0,0,1,1,6,10,13,19,17,27,20,25,7,0
+UBC,2018,W,COGS,200,,002,Int Cog Sys,"Bittner, Thomas Jacob;Fais, Laurel;Mackworth, Alan",122,71.29,10.45,89,37,110,3,4,0,3,0,0,0,1,2,3,5,6,11,8,24,13,10,26,7,0
+UBCV,2015,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Hanxing Zhang;Katya Celine Feffer;Katya Feffer;Laurel Fais;Thomas Jacob Bittner,126,66.73015873,9.066344532,86.0,43.0,,,,,,,,,,,3,11,8,19,22,25,17,7,11,3,0
+UBCV,2016,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Daniel Frederiks;Daniel Theodoor Frederiks;Laurel Fais;Tamara Lottering;Thomas Jacob Bittner,125,69.128,11.19834089,91.0,0.0,,,,,,,,,,,4,4,10,8,13,34,18,16,16,1,1
+UBCV,2017,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Christopher Mole;Emily Stryker;Hudhaifah Bin Zahid;Laurel Fais;Molly Sun;Ryan Taylor,145,71.103448276,9.20652255,88.0,41.0,,,,,,,,,,,1,6,10,13,19,17,27,20,25,7,0
+UBCV,2018,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Andrew Raitt;Laurel Fais;Thomas Jacob Bittner;Zoey Gray,118,70.406779661,11.898601001,89.0,22.0,,,,,,,,,,,5,4,8,11,8,25,14,10,26,7,0
+UBCV,2019,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Andrew Raitt;Anne Canute;Laurel Fais;Rebecca Reh;Ryan Taylor;Thomas Jacob Bittner,111,73.27027027,8.14967478,93.0,38.0,,,,,,,,,,,1,2,4,2,10,24,27,16,19,5,1

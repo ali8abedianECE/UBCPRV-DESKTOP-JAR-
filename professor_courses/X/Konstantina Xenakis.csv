@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,S,APBI,314,,941,Animals and Society,Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Anna Ratuski;Anna Selene Ratuski;Elisabeth Ormandy;Konstantina Xenakis,40,78.9,13.477046013,95.0,15.0,1,0,0,2,1,2,7,5,9,7,6,,,
+UBCV,2019,W,APBI,314,,001,Animals and Society,Anna Ratuski;David Fraser;Katie Koralesky;Konstantina Xenakis;Marina Von Keyserlingk,119,82.294117647,9.874940842,98.0,36.0,1,1,1,1,5,8,6,17,21,28,30,,,
+UBCV,2019,W,APBI,314,,003,Animals and Society,Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Elisabeth Ormandy;Konstantina Xenakis;Lara Sirovica;Lara Victoria Sirovica;Maria Chen,56,80.482142857,10.128252243,97.0,57.0,0,0,2,3,2,5,3,6,12,12,11,,,
+UBCV,2019,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Konstantina Xenakis;Lara Sirovica;Lara Victoria Sirovica;Maria Chen,39,83.743589744,7.125631823,96.0,60.0,0,0,0,1,1,0,2,2,14,13,6,,,
+UBCV,2019,W,LFS,150,,005,Scholarly Writing and Argumentation in Land and Food Systems,Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Konstantina Xenakis,24,74.0,14.91716257,88.0,27.0,2,0,0,0,0,2,8,2,6,4,0,,,
+UBCV,2020,S,APBI,314,,941,Animals and Society,Amelia M Macrae;Amelia Macrae;Konstantina Xenakis,47,85.106382979,10.000508775,98.0,51.0,0,1,0,2,0,2,4,1,4,13,20,,,
+UBCV,2020,W,APBI,314,,001,Animals and Society,David Fraser;Elizabeth Russell;Konstantina Xenakis;Marina Von Keyserlingk;Megan Arant,122,84.926229508,11.891498479,98.0,5.0,2,2,0,1,1,6,3,8,20,26,53,,,
+UBCV,2020,W,APBI,316,,001,"Equine Biology, Health and Welfare",Ainsley Ma;Amelia M Macrae;Amelia Macrae;Konstantina Xenakis,47,84.489361702,6.46687997,92.0,67.0,0,0,0,0,1,3,2,2,6,26,7,,,
+UBCV,2020,W,APBI,495,,001,Human Wildlife Conflict,Konstantina Xenakis;Kristen Walker;Michael Procko,19,85.894736842,5.596573722,96.0,75.0,0,0,0,0,0,0,1,1,4,8,5,,,
+UBCV,2020,W,LFS,150,,006,Scholarly Writing and Argumentation in Land and Food Systems,Amelia M Macrae;Amelia Macrae;Konstantina Xenakis,29,82.896551724,10.563903593,94.0,39.0,1,0,0,0,1,1,1,1,6,15,3,,,
+UBCV,2022,W,APBI,490,D,201,Advanced Topics in Applied Biology,Konstantina Xenakis,15,79.7,,89.0,0.0,1,0,0,0,0,0,0,1,4,9,0,85.0,87.5,84.0
+UBCV,2022,W,CONS,495,,201,Human Wildlife Conflict,Konstantina Xenakis,12,80.1,,91.0,59.0,0,0,1,0,1,1,0,1,2,4,2,84.0,86.5,76.3
+UBCV,2023,W,APBI,490,D,201,Advanced Topics in Applied Biology,Konstantina Xenakis,12,83.0,,92.0,67.0,0,0,0,0,1,0,1,2,1,2,4,86.0,90.0,76.0
+UBCV,2023,W,CONS,495,,201,Human Wildlife Conflict,Konstantina Xenakis,13,86.7,,93.0,75.0,0,0,0,0,0,0,1,0,1,8,3,88.0,89.0,85.0

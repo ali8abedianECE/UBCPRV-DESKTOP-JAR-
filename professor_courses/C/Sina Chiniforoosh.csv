@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,EECE,365,,201,APPL EL & ELMECH,"Chiniforoosh, Sina",161,77.94,12.04,98,0,160,1,0,0,0,1,0,0,0,0,1,4,2,9,9,15,18,18,36,26,23,,,
+UBC,2013,W,EECE,376,,201,ELECTROMECHANICS,"Chiniforoosh, Sina",80,80.77,10.38,98,40,78,1,1,0,0,0,0,0,0,1,1,1,1,0,5,5,7,10,17,18,14,,,
+UBC,2015,W,ELEC,352,,201,ELECT ENERGY SYS,"Chiniforoosh, Sina",54,86.83,9.96,100,60,54,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,4,11,10,23,,,
+UBC,2017,W,ELEC,352,,201,ELECT ENERGY SYS,"Chiniforoosh, Sina",26,75.16,11.16,93,57,25,0,1,0,0,0,0,0,0,0,0,0,1,3,4,5,1,1,3,3,4,,,
+UBC,2018,W,EECE,555,,101,RNW EFF ELEC PWR,"Chiniforoosh, Sina",29,87.46,7.52,99,76,28,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,13,,,
+UBC,2018,W,ELEC,352,,201,ELECT ENERGY SYS,"Chiniforoosh, Sina",27,76.96,9.15,93,55,27,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,4,2,8,2,3,,,
+UBCV,2015,W,ELEC,352,,201,Electric Energy Systems,Abdullah Al-Digs;Saeed Rezaee;Sina Chiniforoosh,54,86.833333333,9.959824959,100.0,60.0,,,,,,,,,,,0,0,0,,,,,,11,10,23,,,
+UBCV,2017,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,25,75.16,11.16422859,93.0,57.0,,,,,,,,,,,0,0,1,3,4,5,1,1,3,3,4,,,
+UBCV,2018,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,28,87.464285714,7.515328252,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,5,5,5,13,,,
+UBCV,2018,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,27,76.962962963,9.154576331,93.0,55.0,,,,,,,,,,,0,0,1,0,2,5,4,2,8,2,3,,,
+UBCV,2019,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,23,86.391304348,8.015548132,98.0,68.0,,,,,,,,,,,0,0,0,0,0,3,0,0,4,5,11,,,
+UBCV,2019,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,40,75.9,10.147122871,97.0,50.0,,,,,,,,,,,0,1,1,3,3,3,4,10,7,4,4,,,
+UBCV,2020,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,21,82.19047619,7.801404025,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,6,6,2,5,,,
+UBCV,2021,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,21,82.666666667,8.673715083,99.0,72.0,,,,,,,,,,,0,0,0,0,0,0,6,1,6,2,6,,,
+UBCV,2021,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,21,73.142857143,15.812291783,91.0,13.0,,,,,,,,,,,1,0,0,2,0,2,6,2,5,2,1,,,
+UBCV,2021,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Sina Chiniforoosh,21,82.7,,99.0,72.0,,,,,,,,,,,,,,,,,6,,6,,6,82.0,90.0,74.0
+UBCV,2021,W,ELEC,352,,201,Electric Energy Systems,Sina Chiniforoosh,20,76.2,,91.0,60.0,,,,,,,,,,,,,,,,,6,,,,,75.5,81.0,72.0
+UBCV,2022,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Sina Chiniforoosh,11,85.1,,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,4,2,4,85.0,90.5,80.0
+UBCV,2022,W,ELEC,352,,201,Electric Energy Systems,Sina Chiniforoosh,35,80.1,,95.0,62.0,,,,,,,,,,,0,0,0,1,2,2,10,2,6,3,9,80.0,89.5,74.0
+UBCV,2023,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Sina Chiniforoosh,11,88.45,,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,1,8,90.0,91.0,89.0

@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2018,W,COMM,337,,201,Business Programming and Analytics,Bei Zhang;Gene Lee;Myunghwan Lee,41,81.536585366,10.856098657,98.0,55.0,0,0,1,3,0,2,7,4,6,6,12,,,
+UBCV,2018,W,COMM,337,,202,Business Programming and Analytics,Bei Zhang;Gene Lee;Myunghwan Lee,36,84.361111111,7.889062149,97.0,61.0,0,0,0,1,1,1,1,1,10,10,11,,,
+UBCV,2019,W,BA,515,,001,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,48,82.833333333,6.488396626,95.0,62.0,0,0,0,1,0,0,4,9,15,13,6,,,
+UBCV,2019,W,BA,515,,002,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,49,82.551020408,5.354364359,94.0,73.0,0,0,0,0,0,0,6,7,21,11,4,,,
+UBCV,2019,W,BA,515,,003,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,29,84.24137931,6.110033741,95.0,68.0,0,0,0,0,0,1,2,4,8,10,4,,,
+UBCV,2019,W,BA,515,,004,Fundamentals of Analytics and Tech,Allen Gour;Gene Lee;Jessica Yang;Myunghwan Lee;Rui Cao,28,83.821428571,5.249716546,93.0,72.0,0,0,0,0,0,0,2,4,7,10,5,,,
+UBCV,2019,W,BA,515,,MM1,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee,48,83.979166667,5.381171206,98.0,63.0,0,0,0,1,0,1,0,4,17,20,5,,,
+UBCV,2019,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee,47,83.744680851,6.578846486,93.0,69.0,0,0,0,0,0,5,1,7,8,16,10,,,
+UBCV,2020,S,BA,515,,300,Fundamentals of Analytics and Tech,Dingan Chen;Gene Lee;Myunghwan Lee,59,85.389830508,7.376610167,99.0,67.0,0,0,0,0,1,4,0,7,8,21,18,,,
+UBCV,2020,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,55,82.981818182,7.820890612,96.0,55.0,0,0,2,0,1,0,2,10,12,18,10,,,
+UBCV,2020,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,56,82.553571429,7.368038207,93.0,64.0,0,0,0,0,4,1,3,9,12,18,9,,,
+UBCV,2020,W,BA,515,,MM1,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee,56,85.464285714,4.377480744,95.0,74.0,0,0,0,0,0,0,2,2,18,23,11,,,
+UBCV,2020,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee,77,85.025974026,8.311333457,99.0,61.0,0,0,0,1,2,4,4,8,11,20,27,,,
+UBCV,2021,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Xiaoke Zhang,50,84.18,4.693417014,94.0,69.0,0,0,0,0,0,2,0,5,15,23,5,,,
+UBCV,2021,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Xiaoke Zhang,51,85.0,6.08276253,93.0,62.0,0,0,0,1,0,2,1,2,9,26,10,,,
+UBCV,2021,W,BA,515,,301,Fundamentals of Analytics and Tech,Gene Lee;Jaecheol Park;Myunghwan Lee;Xiaoke Zhang,48,85.458333333,3.121363132,91.0,78.0,0,0,0,0,0,0,0,2,13,27,6,,,
+UBCV,2021,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Adam Saunders;Gene Lee;Myunghwan Lee;Xiaoke Zhang,32,88.28125,4.502575428,95.0,79.0,0,0,0,0,0,0,0,1,7,11,13,,,
+UBCV,2021,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Adam Saunders;Gene Lee;Myunghwan Lee;Xiaoke Zhang,34,86.147058824,4.619670413,95.0,76.0,0,0,0,0,0,0,0,5,4,19,6,,,
+UBCV,2021,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee;Xiaoke Zhang,64,84.890625,8.098828423,97.0,61.0,0,0,0,2,1,2,3,7,11,18,20,,,
+UBCV,2022,W,COMM,337,,101,Business Programming and Analytics,Myunghwan Lee,51,82.2,,93.0,62.0,0,0,0,2,0,4,3,8,10,16,8,84.0,88.5,78.0
+UBCV,2023,W,COMM,337,,101,Business Programming and Analytics,Myunghwan Lee;Jaecheol Park,50,78.1,,92.0,61.0,0,0,0,2,1,5,6,12,14,9,1,78.0,83.0,74.3
+UBCV,2023,W,COMM,337,,102,Business Programming and Analytics,Myunghwan Lee;Jaecheol Park,48,77.1,,90.0,55.0,0,0,1,1,4,5,8,6,14,6,3,78.0,83.0,72.8

@@ -1,0 +1,15 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2015,W,APSC,246,,101,System Dynamics,Bara Emran;Brandon B B Born;Brandon Born;Masoud Haghi Kashani;Niu Liu;Timothy Mitchell Westgate;Timothy Westgate;Xian Jin,110,72.154545455,15.276765571,98.0,19.0,8,5,7,7,13,8,14,8,10,17,13
+UBCO,2015,W,APSC,262,,001,Digital Logic Design,Ayman Elnaggar;Mark Bergen;Timothy Mitchell Westgate;Timothy Westgate,53,77.622641509,17.305208659,100.0,4.0,,,,,,,,6,,13,11
+UBCO,2015,W,ENGR,355,,101,Digital Systems Design,Jonathan Holzman;Mark Bergen;Timothy Mitchell Westgate,46,80.282608696,9.792657212,100.0,62.0,0,0,0,,5,,5,,11,10,8
+UBCO,2015,W,ENGR,472,,001,Fibre Optics and Photonics,Jonathan Holzman;Mark Bergen;Timothy Mitchell Westgate;Timothy Westgate,8,78.25,11.622023428,90.0,52.0,0,,,,,,,,,,
+UBCO,2016,W,APSC,172,,101,Engineering Analysis I,Chunpu Wang;Poppy Siddiqua;Stephen O'Leary;Suzanne Wenngren;Timothy Mitchell Westgate;Timothy Westgate,248,75.87903226,14.03067359,97.0,20.0,14,5,11,8,17,18,31,26,47,31,40
+UBCO,2016,W,APSC,173,,201,Engineering Analysis II,Md Hossain;Md Jahangir Hossain;Mohammad Paknahad;Seach Chyr Goh;Shrenik Jain;Suzanne Wenngren;Timothy Mitchell Westgate;Timothy Westgate;Tyler Ho,108,60.25925926,18.5866852,93.0,0.0,27,15,8,10,9,5,7,8,8,2,9
+UBCO,2016,W,APSC,173,,202,Engineering Analysis II,Md Hossain;Md Jahangir Hossain;Mohammad Paknahad;Seach Chyr Goh;Shrenik Jain;Suzanne Wenngren;Timothy Mitchell Westgate;Timothy Westgate;Tyler Ho,143,68.93706294,16.2043364,95.0,5.0,13,10,10,10,15,12,13,17,21,16,6
+UBCO,2016,W,APSC,178,,201,"Electricity, Magnetism, and Waves",Adrian Boivin;Iman Aghanejad;Loic Markley;Masoud Ahmadi;Naomi Fredeen;Naomi Victoria Fredeen;Nibirh Jawad;Timothy Mitchell Westgate;Timothy Westgate,135,54.08148148,17.73984967,93.0,0.0,50,19,9,13,9,11,6,9,6,2,1
+UBCO,2016,W,APSC,178,,202,"Electricity, Magnetism, and Waves",Adrian Boivin;Iman Aghanejad;Jonathan Holzman;Masoud Ahmadi;Naomi Fredeen;Naomi Victoria Fredeen;Nibirh Jawad;Timothy Mitchell Westgate;Timothy Westgate,162,65.18518519,17.59136654,96.0,6.0,32,13,12,10,12,10,19,12,17,14,11
+UBCO,2016,W,APSC,246,,101,System Dynamics,Shahin Zareie;Timothy Mitchell Westgate;Timothy Westgate;Xian Jin,237,68.74683544,17.253446,100.0,8.0,26,21,14,19,19,19,25,21,27,20,26
+UBCO,2016,W,ENGR,472,,001,Fibre Optics and Photonics,Brandon B B Born;Brandon Born;Timothy Mitchell Westgate;Timothy Westgate,8,76.375,12.72722055,100.0,58.0,0,0,1,0,0,2,2,0,1,1,1
+UBCO,2017,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Timothy Mitchell Westgate,18,63.388888889,16.698499013,86.0,22.0,3,1,1,2,3,1,3,2,0,2,0
+UBCO,2017,W,APSC,246,,101,System Dynamics,Brittney Kerns;Mark Bergen;Shahin Zareie;Timothy Mitchell Westgate;Weicheng Yan;Xian Jin,142,65.626760563,17.070404548,93.0,2.0,22,9,17,10,13,13,15,11,15,7,10
+UBCO,2017,W,APSC,246,,102,System Dynamics,Brittney Kerns;Mark Bergen;Shahin Zareie;Timothy Mitchell Westgate;Weicheng Yan;Xian Jin,152,68.203947368,14.901592793,96.0,31.0,13,18,17,13,15,7,12,12,18,16,11

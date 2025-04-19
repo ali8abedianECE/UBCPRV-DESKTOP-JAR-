@@ -1,0 +1,65 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2009,W,ENDS,402,,001,ENDS DESIGN 4,"Villagomez, Erick",23,76.32,6.24,87,58,22,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,5,5,8,1,0,,,
+UBC,2010,W,ENDS,402,,001,ENDS DESIGN 4,"Villagomez, Erick",18,79.44,9.12,91,53,18,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,6,5,1,,,
+UBC,2010,W,LARC,511,,001,INTR WORKSHOP,"Villagomez, Erick",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2011,W,ENDS,301,,001,ENVR DES 1,"Villagomez, Erick",26,79.24,4.71,86,72,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,7,5,0,,,
+UBC,2011,W,LARC,511,,001,INTR WORKSHOP,"Villagomez, Erick",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,W,ARCH,502,,610,INTRO WORKSHOP,"Dahmen, Joseph;Lewis, Martin;Villagomez, Erick",42,,,,,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2012,W,ENDS,301,,001,ENVR DES 1,"Barratt, Tom;Villagomez, Erick",25,76.8,4.73,85,63,25,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,12,5,1,0,,,
+UBC,2012,W,LARC,511,,001,INTR WORKSHOP,"Dahmen, Joseph;Lewis, Martin;Villagomez, Erick",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2014,W,PLAN,587,A,001,URBAN DESIGN,"Villagomez, Erick",15,91.4,0.83,93,90,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2015,S,PLAN,587,B,001,URBAN DESIGN,"Villagomez, Erick",9,91.44,0.53,92,91,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2015,W,PLAN,517,,001,URB DSGN THR&MET,"Villagomez, Erick",33,91.09,1.07,93,89,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,32,,,
+UBC,2016,S,PLAN,587,B,001,URBAN DESIGN,"Villagomez, Erick",13,91.23,1.48,93,89,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,,,
+UBC,2016,W,PLAN,517,,001,URB DSGN THR&MET,"Villagomez, Erick",17,92.07,1.53,95,90,15,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2016,W,PLAN,587,A,001,URBAN DESIGN,"Villagomez, Erick",15,91.73,1.28,94,90,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,,,
+UBC,2017,S,PLAN,587,B,001,URBAN DESIGN,"Villagomez, Erick",6,89.67,0.52,90,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2017,W,PLAN,221,,001,CITY VISUALS,"Villagomez, Erick",38,80.5,9.6,94,50,36,0,2,0,0,0,0,0,0,0,0,1,1,2,0,0,1,6,13,7,5,,,
+UBC,2017,W,PLAN,517,,001,URB DSGN THR&MET,"Villagomez, Erick",32,87.13,0.66,88,86,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,,,
+UBC,2017,W,PLAN,526,,001,TPCS EXPERIM LRN,"Honey-Roses, Jordi;Mochrie, Clare;Senbel, Maged;Villagomez, Erick",25,86.7,1.61,89,85,23,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,,,
+UBC,2017,W,PLAN,587,A,001,URBAN DESIGN,"Villagomez, Erick",16,85.94,1.24,88,83,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,14,0,,,
+UBC,2018,S,PLAN,545,C,001,STUDIES ABROAD,"Honey-Roses, Jordi;Villagomez, Erick",17,89.12,1.65,92,87,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8,,,
+UBC,2018,W,PLAN,221,,001,CITY VISUALS,"Villagomez, Erick",21,80.6,5.73,92,70,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,5,4,2,,,
+UBC,2018,W,PLAN,517,,001,URB DSGN THR&MET,"Villagomez, Erick",19,88.11,1.37,90,86,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,3,,,
+UBC,2018,W,PLAN,526,,001,TPCS EXPERIM LRN,"Mochrie, Clare;Ross, Daniel;Senbel, Maged;Villagomez, Erick",33,89.18,2.54,92,85,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,21,,,
+UBC,2018,W,PLAN,587,A,001,URBAN DESIGN,"Villagomez, Erick",15,86.07,1.28,89,84,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14,0,,,
+UBCV,2014,W,PLAN,587,A,001,Urban Design,Erick Villagomez,15,91.4,0.828078671,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2015,S,PLAN,587,B,001,Urban Design,Erick Villagomez,9,91.44444444,0.527046277,92.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2015,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,33,91.090909091,1.071320341,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,32,,,
+UBCV,2016,S,PLAN,587,B,001,Urban Design,Erick Villagomez,13,91.23076923,1.48064435,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,11,,,
+UBCV,2016,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,15,92.06666667,1.533747356,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2016,W,PLAN,587,A,001,Urban Design,Erick Villagomez,15,91.73333333,1.279880947,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2017,S,PLAN,587,B,001,Urban Design,Erick Villagomez,6,89.666666667,0.516397779,90.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2017,W,PLAN,221,,001,City Visuals,Erick Villagomez;Peyvand Forouzandeh;Stuart Hamre,36,80.5,9.599107101,94.0,50.0,,,,,,,,,,,0,1,1,2,0,0,1,6,13,7,5,,,
+UBCV,2017,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,32,87.125,0.659912018,88.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,32,0,,,
+UBCV,2017,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Erick Villagomez;Jordi Honey-Roses;Maged Senbel,23,86.695652174,1.607787373,89.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,23,0,,,
+UBCV,2017,W,PLAN,587,A,001,Urban Design,Erick Villagomez,16,85.9375,1.236594787,88.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,14,0,,,
+UBCV,2018,S,PLAN,545,C,001,Planning Studies Abroad,Erick Villagomez;Jordi Honey-Roses,17,89.117647059,1.653872461,92.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,9,8,,,
+UBCV,2018,W,PLAN,221,,001,City Visuals,Erick Villagomez;Jennifer Pierce;Peyvand Forouzandeh,21,80.952380952,5.817870663,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,5,5,5,2,,,
+UBCV,2018,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,19,88.105263158,1.370106924,90.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,16,3,,,
+UBCV,2018,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Daniel Ross;Erick Villagomez;Jordi Honey-Roses;Maged Senbel,33,89.181818182,2.54281519,92.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,12,21,,,
+UBCV,2018,W,PLAN,587,A,001,Urban Design,Erick Villagomez,15,86.066666667,1.279880947,89.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,14,0,,,
+UBCV,2019,S,PLAN,545,C,001,Planning Studies Abroad,Erick Villagomez;Jordi Honey-Roses,13,88.307692308,2.136376035,91.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,6,,,
+UBCV,2019,W,PLAN,221,,001,City Visuals,Erick Villagomez;Meryem Belkadi;Peyvand Forouzandeh,30,79.2,10.202771767,95.0,56.0,,,,,,,,,,,0,0,3,0,0,3,2,6,8,2,6,,,
+UBCV,2019,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez;Wendy Mendes,24,87.416666667,1.31601066,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,22,2,,,
+UBCV,2019,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Daniel Ross;Erick Villagomez;Maged Senbel;Penelope Gurstein,30,88.866666667,1.907034769,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,12,17,,,
+UBCV,2019,W,PLAN,587,A,001,Urban Design,Erick Villagomez,11,83.090909091,0.70064905,84.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,0,0,,,
+UBCV,2020,W,PLAN,221,,001,City Visuals,Erick Villagomez;Maren Mcbride;Meryem Belkadi;Mikaila Johnson;Yuval Fogelson,74,77.918918919,7.4810386,89.0,45.0,,,,,,,,,,,1,1,0,2,1,4,10,20,25,10,0,,,
+UBCV,2020,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez;Yuval Fogelson,29,87.379310345,1.656454758,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,26,1,,,
+UBCV,2020,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Erick Villagomez;Maged Senbel;Penelope Gurstein;Peyvand Forouzandeh,33,89.878787879,1.386487824,91.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,23,,,
+UBCV,2020,W,PLAN,587,A,001,Urban Design,Erick Villagomez,13,86.538461538,1.808101427,90.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,11,1,,,
+UBCV,2021,W,PLAN,221,,001,City Visuals,Amy Liebenberg;Erick Villagomez;Maren Mcbride;Meryem Belkadi;Mikaila Johnson,94,81.0,8.122714732,93.0,43.0,,,,,,,,,,,1,2,0,1,1,0,10,12,37,23,7,,,
+UBCV,2021,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,29,85.586206897,1.118584609,87.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,24,0,,,
+UBCV,2021,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,Clare Mochrie;Erick Villagomez;James John Timothy Connolly;Maged Senbel;Penelope Gurstein,28,86.392857143,13.124303962,91.0,20.0,,,,,,,,,,,1,0,0,0,0,0,0,0,1,14,12,,,
+UBCV,2021,W,PLAN,587,A,001,Urban Design,Erick Villagomez,15,84.066666667,0.457737708,85.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,2,0,,,
+UBCV,2021,W,PLAN,221,,001,City Visuals,Erick Villagomez,96,79.3,,93.0,0.0,,,,,,,,,,,,,,,,,10,12,37,23,7,83.0,86.0,78.8
+UBCV,2021,W,PLAN,517,,001,Theory and Methods of Urban Design,Erick Villagomez,29,85.6,,87.0,84.0,,,,,,,,,,,,,,,,,,,,24,,85.0,87.0,85.0
+UBCV,2021,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,James John Timothy Connolly;Clare Mochrie;Maged Senbel;Erick Villagomez,28,86.4,,91.0,20.0,,,,,,,,,,,,,,,,,,,,14,12,89.0,90.0,88.0
+UBCV,2021,W,PLAN,587,A,001,Urban Design,Erick Villagomez,15,84.1,,85.0,83.0,,,,,,,,,,,,,,,,,,,13,,,84.0,84.0,84.0
+UBCV,2022,W,PLAN,221,,001,City Visuals,Erick Villagomez,107,78.2,,94.0,20.0,,,,,,,,,,,1,0,0,0,1,2,21,37,36,8,1,79.0,82.0,76.0
+UBCV,2022,W,PLAN,504,,001,Urban Design and Visual Representation,Erick Villagomez,40,86.5,,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,31,2,87.0,88.0,85.0
+UBCV,2022,W,PLAN,526,,001,Selected Topics in Experimental Learning: The Planning Studio,James John Timothy Connolly;Clare Mochrie;Erick Villagomez,33,89.2,,92.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,16,16,89.0,91.0,88.0
+UBCV,2022,W,PLAN,587,A,001,Urban Design,Erick Villagomez,11,86.7,,89.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,11,0,87.0,88.0,85.0
+UBCV,2023,W,PLAN,221,,001,City Visuals,Erick Villagomez,76,78.3,,91.0,23.0,,,,,,,,,,,1,0,0,0,0,6,6,28,24,7,2,79.0,82.0,76.0
+UBCV,2023,W,PLAN,504,,001,Urban Design and Visual Representation,Erick Villagomez,43,84.4,,91.0,5.0,,,,,,,,,,,1,0,0,0,0,0,0,0,11,25,6,86.0,89.0,84.0
+UBCV,2023,W,PLAN,541,,001,Planning Studio,James John Timothy Connolly;Clare Mochrie;Maged Senbel;Erick Villagomez,30,88.4,,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,17,10,89.0,90.0,87.0

@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,MATH,101,,210,INT CALC AP PH S,"Segal, Avner",78,60.76,16.68,84,15,62,12,3,0,1,0,2,3,5,2,12,11,8,7,5,12,4,3,12,0,0
+UBC,2016,W,MATH,104,,108,DFF CALC AP C&SS,"Segal, Avner",80,68.72,15.11,99,27,70,6,1,0,3,0,0,1,1,4,6,8,8,3,6,12,6,6,10,5,6
+UBC,2017,S,MATH,104,,921,DFF CALC AP C&SS,"Segal, Avner",129,55.22,16.57,88,15,87,36,5,0,1,0,3,6,16,11,36,18,17,6,16,11,6,4,7,2,0
+UBC,2017,W,MATH,101,,203,INT CALC AP PH S,"Segal, Avner",109,63.51,16.57,94,24,89,17,3,0,0,0,0,4,6,7,17,15,9,10,6,8,12,8,10,8,3
+UBC,2017,W,MATH,184,,104,CALC SOCSCI COMM,"Segal, Avner",125,65.62,16.15,94,20,102,19,3,0,1,0,0,4,7,8,19,6,7,7,15,20,16,8,12,8,3
+UBC,2018,S,MATH,104,,921,DFF CALC AP C&SS,"Segal, Avner",120,71.05,13.76,99,32,103,11,6,0,0,0,0,0,1,10,11,4,8,4,14,16,13,10,14,12,8
+UBCV,2016,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Avner Segal;Gregory Martin,75,60.26666667,17.10249969,84.0,15.0,,,,,,,,,,,13,11,8,7,5,12,4,3,12,0,0
+UBCV,2016,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Shawn Desaulniers,79,66.69620253,18.13083111,99.0,4.0,,,,,,,,,,,9,8,8,3,6,12,6,6,10,5,6
+UBCV,2017,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Keqin Liu,124,54.774193548,17.236206319,88.0,0.0,,,,,,,,,,,37,18,17,6,16,11,6,4,7,2,0
+UBCV,2017,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Avner Segal;Michael Jeffrey Ward,106,63.509433962,16.568038814,94.0,24.0,,,,,,,,,,,17,15,9,10,6,8,12,8,10,8,3
+UBCV,2017,W,MATH,184,,104,Differential Calculus for Social Science and Commerce,Avner Segal;Javier Gonzalez Anaya;Keqin Liu,122,65.155737705,16.87926034,94.0,9.0,,,,,,,,,,,20,6,7,7,15,20,16,8,12,8,3
+UBCV,2018,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Mark Thomson Maclean,114,71.052631579,13.761458367,99.0,32.0,,,,,,,,,,,11,4,8,4,14,16,13,10,14,12,8
+UBCV,2018,W,MATH,426,,101,Introduction to Topology,Avner Segal;Liam Watson,7,84.571428571,8.462803768,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,2,2,2

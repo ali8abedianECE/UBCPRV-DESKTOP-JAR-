@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,ELEC,202,,201,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,76,65.631578947,13.242197305,87.0,28.0,10,1,3,12,14,12,9,4,5,6,0
+UBCV,2018,W,ELEC,202,,202,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,90,67.088888889,17.598930282,100.0,1.0,15,2,6,5,12,12,10,4,12,3,9
+UBCV,2018,W,ELEC,221,,201,Signals and Systems,Abdelmalik Aljalai;Alireza Asoodeh;Anahita Shojaei Hashemi;Joel Hernandez-Balades;Joseph Yan;Lazar Atanackovic;Mostafa Darabi,217,64.142857143,19.314474929,100.0,0.0,34,25,21,20,16,21,22,18,11,10,19
+UBCV,2018,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Hany Abdelraheem;Mostafa Darabi,21,76.333333333,14.430292212,96.0,33.0,1,1,0,0,1,3,1,3,5,3,3
+UBCV,2019,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,12,87.666666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
+UBCV,2019,W,ELEC,321,,101,Stochastic Signals and Systems,Jordan Naterer;Lutz Lampe;Matias Salibian-Barrera;Mostafa Darabi;Rabe Arshad,104,65.432692308,12.308939386,93.0,33.0,6,13,17,9,16,12,10,5,8,5,3
+UBCV,2019,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,46,81.760869565,11.493350314,98.0,51.0,0,1,1,3,2,1,5,3,6,10,14
+UBCV,2019,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Mostafa Darabi,10,75.0,10.317191694,92.0,61.0,0,0,0,1,1,2,2,0,1,2,1
+UBCV,2020,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,17,80.117647059,12.9753726,97.0,49.0,2,0,0,0,0,0,2,2,4,2,5
+UBCV,2020,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,55,74.672727273,10.804756404,92.0,43.0,1,0,4,4,6,5,4,10,11,7,3
+UBCV,2020,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Mostafa Darabi,11,75.818181818,16.222319081,92.0,41.0,1,1,0,0,0,0,2,1,1,3,2

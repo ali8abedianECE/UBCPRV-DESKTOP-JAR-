@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2017,W,EAP,104,,002,English for Academic Purposes Level IV,Bridget Trainor;Jeanie Ortis;Madjid Mohammadzadeh,24,74.333333333,7.172815024,84.0,64.0,0,0,0,0,6,2,5,4,7,0,0,,,
+UBCO,2018,W,EAP,104,,002,English for Academic Purposes Level IV,Bridget Trainor;Jeanie Ortis;Madjid Mohammadzadeh,20,75.0,5.730803195,93.0,68.0,0,0,0,0,0,6,7,4,2,0,1,,,
+UBCO,2018,W,ENGL,112,,117,Studies in Composition,Bridget Trainor,35,68.028571429,14.199183312,85.0,24.0,5,0,0,5,5,3,4,6,6,1,0,,,
+UBCO,2019,W,ENGL,112,,115,Studies in Composition,Bridget Trainor,28,76.75,5.440758389,86.0,65.0,0,0,0,0,2,4,3,8,10,1,0,,,
+UBCO,2019,W,ENGL,112,,116,Studies in Composition,Bridget Trainor,30,71.5,8.463919366,86.0,46.0,1,0,0,3,4,9,2,6,4,1,0,,,
+UBCO,2019,W,ENGL,112,,118,Studies in Composition,Bridget Trainor,30,69.433333333,19.441660447,91.0,0.0,3,1,1,3,0,3,6,1,9,2,1,,,
+UBCO,2020,W,ENGL,109,,007,Studies in Composition (Enhanced),Bridget Trainor,25,72.28,12.102065939,94.0,45.0,1,1,2,2,3,1,5,3,4,1,2,,,
+UBCO,2020,W,ENGL,109,,008,Studies in Composition (Enhanced),Bridget Trainor,21,67.095238095,25.443869128,93.0,1.0,4,1,0,1,1,0,3,2,5,2,2,,,
+UBCO,2021,W,ENGL,109,,005,Studies in Composition (Enhanced),Bridget Trainor;Zachary Dewitt,26,80.730769231,16.068746541,98.0,23.0,2,0,0,1,0,1,1,3,3,8,7,,,
+UBCO,2021,W,ENGL,109,,006,Studies in Composition (Enhanced),Bridget Trainor;Zachary Dewitt,26,76.5,17.244709334,97.0,25.0,3,0,0,0,1,3,4,3,3,3,6,,,
+UBCO,2021,W,ENGL,109,,007,Studies in Composition (Enhanced),Bridget Trainor;Naeem Nedaee;Saeed Sabzian,25,77.36,21.7157393,93.0,0.0,3,0,0,0,0,1,1,2,4,10,4,,,
+UBCO,2021,W,ENGL,109,,008,Studies in Composition (Enhanced),Brian Kerr-Bassett;Bridget Trainor;Jing Li,24,72.833333333,16.353876463,86.0,18.0,2,0,2,0,4,1,0,3,8,4,0,,,
+UBCO,2021,W,ENGL,109,,005,Studies in Composition (Enhanced),Bridget Trainor,26,80.7,,98.0,23.0,,,,,,,,,,8,7,86.0,89.8,77.3
+UBCO,2021,W,ENGL,109,,006,Studies in Composition (Enhanced),Bridget Trainor,26,76.5,,97.0,25.0,,,,,,,,,,,6,78.0,89.0,71.3
+UBCO,2022,W,ENGL,109,,001,Studies in Composition (Enhanced),Bridget Trainor,28,79.3,,99.0,50.0,0,2,0,1,3,0,4,3,3,4,8,82.5,90.3,72.0
+UBCO,2022,W,ENGL,109,,003,Studies in Composition (Enhanced),Bridget Trainor,28,67.5,,93.0,0.0,4,2,0,3,0,1,3,3,7,3,2,77.0,82.3,60.8
+UBCO,2022,W,ENGL,203,,102,Topics in Composition,Catherine Shaw;Bridget Trainor,26,72.7,,91.0,30.0,2,1,0,0,1,5,5,5,4,2,1,75.0,80.5,71.0
+UBCO,2023,W,ENGL,112,,004,Studies in Composition,Bridget Trainor,30,78.9,,94.0,28.0,1,1,0,0,2,2,2,4,4,8,4,82.0,87.5,74.8
+UBCO,2023,W,ENGL,112,,013,Studies in Composition,Bridget Trainor,30,84.3,,95.0,67.0,0,0,0,0,1,0,2,6,4,9,8,85.5,89.8,79.0
+UBCO,2023,W,ENGL,112,,109,Studies in Composition,Bridget Trainor,30,82.7,,92.0,62.0,0,0,0,1,1,1,2,4,6,11,4,84.5,87.8,79.0
+UBCO,2023,W,ENGL,112,,117,Studies in Composition,Bridget Trainor,30,71.0,,92.0,4.0,5,0,1,2,1,2,3,3,2,8,2,76.0,85.0,62.0

@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,APSC,259,,201,Materials Science I,Andre Phillion,207,75.20289855,10.39078154,97.0,39.0,8,,,14,9,27,35,38,29,29,13
+UBCO,2014,W,ENGR,475,,201,Materials Selection and Design,Andre Phillion,54,80.0,8.661343309,95.0,47.0,,,,,,6,,10,15,5,11
+UBCO,2014,W,ENGR,477,,101,Mechanical Engineering Laboratory,Andre Phillion,23,90.47826087,2.520273528,95.0,87.0,0,0,0,0,0,0,0,0,0,10,13
+UBCO,2014,W,ENGR,477,,102,Mechanical Engineering Laboratory,Andre Phillion,20,88.75,2.807414994,93.0,83.0,0,0,0,0,0,0,0,0,1,11,8
+UBCO,2014,W,ENGR,477,,103,Mechanical Engineering Laboratory,Andre Phillion,16,85.3125,2.676284738,90.0,80.0,0,0,0,0,0,0,0,0,7,8,1
+UBCO,2014,W,ENGR,477,,105,Mechanical Engineering Laboratory,Andre Phillion,19,89.84210526,2.242596657,93.0,86.0,0,0,0,0,0,0,0,0,0,10,9
+UBCO,2014,W,ENGR,595,,001,Solidification: Science and Processing,Andre Phillion,8,79.875,12.47211175,95.0,60.0,0,0,0,,,,,,,,
+UBCO,2015,W,APSC,259,,201,Materials Science I,A B M Rafiqul Haque;Ambrish Sinha;Amitvikram Dutta;Andre Phillion;Farzin Golkhosh;Meaghan Ormrod;Saibal Modak,234,67.247863248,10.609256613,90.0,28.0,18,7,20,32,34,37,35,28,15,6,2
+UBCO,2015,W,ENGR,477,,101,Mechanical Engineering Laboratory,Andre Phillion;Behzad Mohajer;Hadi Mohammadi;Mehdi Jahandardoost;Mohamed Yafia Salem;Roya Samanipour;Sadegh Hasanpour;Sina Shabani,20,94.15,2.390221307,97.0,90.0,0,0,0,0,0,0,0,0,0,0,20
+UBCO,2015,W,ENGR,477,,102,Mechanical Engineering Laboratory,Andre Phillion;Behzad Mohajer;Mehdi Jahandardoost;Mohamed Yafia Salem;Roya Samanipour;Sadegh Hasanpour;Sina Shabani,20,94.2,0.767771896,95.0,92.0,0,0,0,0,0,0,0,0,0,0,20
+UBCO,2015,W,ENGR,477,,103,Mechanical Engineering Laboratory,Andre Phillion;Behzad Mohajer;Mehdi Jahandardoost;Mina Hoorfar;Mohamed Yafia Salem;Roya Samanipour;Sadegh Hasanpour;Sina Shabani,19,89.842105263,2.339590607,94.0,86.0,0,0,0,0,0,0,0,0,0,9,10

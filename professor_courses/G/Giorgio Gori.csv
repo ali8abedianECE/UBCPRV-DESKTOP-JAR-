@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Alexia Lou;Andrew Chen;Angad Kalra;Christopher Thompson;Giorgio Gori;Hassan Khosravi;Lauren Aliman;Lawrence Cahoon;Marika Hokhold;Pearl Ranchal;Rohit Singla;Yekaterina Lim,216,75.81944444,12.26679358,98.0,42.0,10,4,6,7,20,23,25,31,32,26,32
+UBCV,2014,W,CPSC,317,,201,Internet Computing,Feifan Chen;Giorgio Gori;Mira Leung;Norman Hutchinson,96,70.8125,15.98770087,93.0,0.0,5,2,9,5,11,8,14,14,14,11,3
+UBCV,2016,W,CPSC,421,,101,Introduction to Theory of Computing,Bader Alahmad;Christopher Liaw;Devon Graham;Giorgio Gori;Nicholas Harvey,84,76.91666667,17.4681868,100.0,4.0,1,7,4,9,5,6,6,7,9,4,26

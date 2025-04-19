@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,MATH,101,,210,INT CALC AP PH S,"Ghioca, Dragos",117,65.91,16.87,100,27,94,14,5,0,4,0,0,4,4,6,14,11,10,8,9,12,8,11,8,5,12,,,
+UBC,2010,W,MATH,220,,202,MATH PROOF,"Ghioca, Dragos",65,63.79,16.45,97,26,52,10,2,0,1,0,0,1,2,7,10,7,12,4,3,4,6,5,3,3,5,,,
+UBC,2011,W,MATH,100,,104,DF CALC AP PH SC,"Ghioca, Dragos",117,71.84,17.81,100,19,96,11,8,0,2,0,1,2,4,4,11,4,5,11,9,5,10,4,19,15,14,,,
+UBC,2011,W,MATH,437,,101,NUMBER THEORY,"Ghioca, Dragos",9,76.89,14.9,100,52,9,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,2,2,1,,,
+UBC,2012,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",381,71.07,16.86,99,5,341,31,6,0,3,3,1,8,9,10,31,22,28,22,25,37,29,37,62,42,37,,,
+UBC,2012,W,MATH,101,,212,INT CALC AP PH S,"Ghioca, Dragos",150,74.27,14.99,98,20,141,9,0,0,0,0,0,1,4,4,9,6,5,14,8,14,9,18,26,19,22,,,
+UBC,2012,W,MATH,437,,101,NUMBER THEORY,"Ghioca, Dragos",11,74.09,18,99,50,11,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,1,0,1,1,3,,,
+UBC,2012,W,MATH,537,,101,ELEM NUMBER THRY,"Ghioca, Dragos",4,91.75,9,100,83,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,,,
+UBC,2013,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",417,74.75,16.26,99,2,379,23,11,0,4,3,2,4,6,8,23,17,14,32,20,23,43,43,68,55,64,,,
+UBC,2013,W,MATH,437,,101,NUMBER THEORY,"Ghioca, Dragos",18,72.88,17.02,100,50,16,0,2,0,0,0,0,0,0,0,0,3,2,0,1,1,3,1,1,0,4,,,
+UBC,2014,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",394,70.6,15.8,100,8,362,23,2,0,7,1,3,3,9,7,23,32,31,21,33,49,44,30,51,27,44,,,
+UBC,2014,W,MATH,101,,211,INT CALC AP PH S,"Ghioca, Dragos",342,65,17.91,100,4,273,50,9,0,10,1,1,12,12,24,50,37,32,31,22,27,18,31,26,22,27,,,
+UBC,2014,W,MATH,538,,201,ALG NUM THEORY,"Ghioca, Dragos;Gordon, Julia Yulia;Ramdorai, Sujatha",10,78.7,28.33,95,0,9,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,2,1,5,,,
+UBC,2015,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",423,69.8,16.95,100,13,376,35,5,1,6,0,5,6,10,14,35,40,28,31,33,31,41,28,68,37,39,,,
+UBC,2015,W,MATH,613,D,201,NUMBER THEORY,"Ghioca, Dragos",4,90.25,7.37,99,81,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2017,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",361,69.99,15.98,96,5,318,36,5,0,2,1,2,6,12,15,36,15,25,21,25,40,36,36,65,41,14,,,
+UBC,2017,W,MATH,437,,101,NUMBER THEORY,"Ghioca, Dragos",12,75.3,16.15,98,50,10,0,2,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1,1,2,2,,,
+UBC,2017,W,MATH,537,,101,ELEM NUMBER THRY,"Ghioca, Dragos",8,80.13,15.69,100,60,8,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,3,,,
+UBC,2018,W,MATH,100,,105,DF CALC AP PH SC,"Ghioca, Dragos",338,72.36,14.8,95,10,303,29,2,0,4,0,2,1,11,15,29,18,14,15,23,20,29,37,85,47,15,,,
+UBC,2018,W,MATH,437,,101,NUMBER THEORY,"Ghioca, Dragos",14,73.75,21.05,96,30,10,2,1,0,1,0,0,0,1,1,2,0,1,1,0,0,0,1,3,0,4,,,
+UBCV,2014,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Dragos Ghioca,392,69.50510204,17.69419037,100.0,1.0,,,,,,,,,,,30,32,31,21,33,49,44,30,51,27,44,,,
+UBCV,2014,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Gregory Martin;Shirin Boroushaki,333,63.46546547,19.73810858,100.0,0.0,,,,,,,,,,,60,37,32,31,22,27,18,31,26,22,27,,,
+UBCV,2014,W,MATH,538,,201,Algebraic Number Theory,Dragos Ghioca;Julia Yulia Gordon;Sujatha Ramdorai,10,78.7,28.32764649,95.0,0.0,,,,,,,,,,,,,,,,,,,,,5,,,
+UBCV,2015,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Dragos Ghioca,417,68.928057554,18.338945641,100.0,1.0,,,,,,,,,,,41,40,28,31,33,31,41,28,68,37,39,,,
+UBCV,2017,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Foster Tom;Young-Heon Kim,356,69.632022472,16.625518731,96.0,0.0,,,,,,,,,,,38,15,25,21,25,40,36,36,65,41,14,,,
+UBCV,2017,W,MATH,437,,101,Number Theory,Dragos Ghioca,10,75.3,16.145518814,98.0,50.0,,,,,,,,,,,0,2,0,0,1,0,1,1,1,2,2,,,
+UBCV,2017,W,MATH,537,,101,Elementary Number Theory,Dragos Ghioca,8,80.125,15.68837149,100.0,60.0,,,,,,,,,,,0,0,0,1,1,1,1,1,0,0,3,,,
+UBCV,2018,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Michael Bennett;Niny Arcila Maya,336,71.845238095,15.933813888,95.0,7.0,,,,,,,,,,,32,18,14,15,23,20,29,37,85,47,16,,,
+UBCV,2018,W,MATH,437,,101,Number Theory,Dragos Ghioca,13,68.153846154,28.518549969,96.0,1.0,,,,,,,,,,,3,0,1,1,0,0,0,1,3,0,4,,,
+UBCV,2019,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Dragos Ghioca;Federico Scavia;Michael Bennett,399,66.827067669,15.622193631,99.0,22.0,,,,,,,,,,,39,48,37,22,34,48,38,37,40,33,23,,,
+UBCV,2019,W,MATH,437,,101,Number Theory,Dragos Ghioca,24,79.833333333,18.478346121,100.0,50.0,,,,,,,,,,,0,4,1,0,1,1,3,0,1,4,9,,,
+UBCV,2020,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alexander Naumenko;Amin Soofiani;Benjamin Langer;Daniel Di Benedetto;Dragos Ghioca;Farid Aliniaeifard;Isabella Martin;Itay Londner;Julien Gagnon;K Wayne Nagata;Mai Uyen Thieu;Malcolm Norman Stanley Bowles;Marjan Zare Bezgabadi;Max Gheorghiu;Michael Bennett;Pradumn Choudhary;Simone Maletto;Sven Bachmann;Tongou Yang;Yongqi Nie,1555,65.478456592,16.115055039,100.0,0.0,,,,,,,,,,,181,152,157,121,162,168,186,124,165,75,64,,,
+UBCV,2020,W,MATH,180,,102,Differential Calculus with Physical Applications,Dragos Ghioca;Itay Londner;Malcolm Norman Stanley Bowles;Marjan Zare Bezgabadi;Michael Bennett;Nina Morishige;Sven Bachmann,20,70.05,13.504287818,92.0,50.0,,,,,,,,,,,0,3,0,5,1,2,3,0,2,1,3,,,
+UBCV,2020,W,MATH,220,,101,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Gregory Martin;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,53,71.660377358,11.877489045,92.0,39.0,,,,,,,,,,,2,2,5,2,8,7,7,6,5,7,2,,,
+UBCV,2020,W,MATH,220,,102,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,49,63.428571429,16.751865568,88.0,19.0,,,,,,,,,,,7,6,7,5,3,3,2,3,10,3,0,,,
+UBCV,2020,W,MATH,220,,104,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,44,67.0,16.065273831,99.0,29.0,,,,,,,,,,,7,2,3,3,6,5,5,3,5,1,4,,,
+UBCV,2020,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer;Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Rachel Ollivier;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,68,73.073529412,8.714914607,93.0,47.0,,,,,,,,,,,1,0,5,3,8,11,14,6,16,2,2,,,
+UBCV,2020,W,MATH,220,,106,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Gregory Martin;Hannah Kohut;Jacob Stockton;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Shen-Ning Tung;Simone Maletto;Sina Saleh;Thomas Williams,44,65.75,11.796974385,89.0,39.0,,,,,,,,,,,4,3,4,5,12,4,3,2,3,4,0,,,
+UBCV,2020,W,MATH,220,,107,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,41,71.243902439,11.508215517,90.0,46.0,,,,,,,,,,,1,2,5,3,4,2,9,4,5,5,1,,,
+UBCV,2020,W,MATH,220,,108,Mathematical Proof,Benjamin Friedman;Benjamin Garbuz;Dragos Ghioca;Hannah Kohut;Jacob Stockton;Jingyi Chen;Nina Morishige;Noe Ducharme;Reza Sadoughianzadeh;Seckin Demirbas;Simone Maletto;Sina Saleh;Thomas Williams,35,70.2,12.430512743,90.0,38.0,,,,,,,,,,,2,1,3,4,2,6,4,3,6,3,1,,,
+UBCV,2020,W,MATH,437,,101,Number Theory,Dragos Ghioca,14,82.0,16.984155512,100.0,50.0,,,,,,,,,,,0,1,1,0,0,1,3,0,1,1,6,,,
+UBCV,2021,S,MATH,220,,951,Mathematical Proof,Caleb Marshall;Dragos Ghioca;Keegan Boyle,71,71.788732394,16.087186998,100.0,25.0,,,,,,,,,,,4,6,7,2,9,6,7,6,7,9,8,,,
+UBCV,2021,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Bakytzhan Kurmanbek;Dragos Ghioca;Elizabeth Xiao;Roomina Zendehboodi;Sven Bachmann,427,69.332552693,19.237628029,100.0,0.0,,,,,,,,,,,55,30,22,30,21,39,42,45,42,49,52,,,
+UBCV,2021,W,MATH,437,,101,Number Theory,Dragos Ghioca,14,73.428571429,30.44721608,100.0,13.0,,,,,,,,,,,3,0,0,0,1,1,2,0,1,0,6,,,
+UBCV,2021,W,MATH,537,,101,Elementary Number Theory,Dragos Ghioca,8,95.5,12.727922061,100.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,0,0,7,,,
+UBCV,2021,S,MATH,220,,951,Mathematical Proof,Dragos Ghioca,71,71.8,,100.0,25.0,,,,,,,,,,,,6,7,,9,6,7,6,7,9,8,72.0,84.0,62.0
+UBCV,2021,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Sven Bachmann;Dragos Ghioca,425,70.0,,100.0,0.0,,,,,,,,,,,,29,22,,,,,,42,49,52,73.0,84.0,60.0
+UBCV,2021,W,MATH,437,,101,Number Theory,Dragos Ghioca,14,73.4,,100.0,13.0,,,,,,,,,,,,,,,,,,,,,6,79.0,99.3,67.3
+UBCV,2021,W,MATH,537,,101,Elementary Number Theory,Dragos Ghioca,8,95.5,,100.0,64.0,,,,,,,,,,,,,,,,,,,,,7,100.0,100.0,100.0
+UBCV,2022,W,MATH,312,,101,Introduction to Number Theory,Dragos Ghioca,78,79.2,,100.0,25.0,,,,,,,,,,,2,4,1,6,2,4,6,3,11,19,20,84.5,89.8,72.3
+UBCV,2022,W,MATH,437,,101,Number Theory,Dragos Ghioca,18,80.7,,100.0,22.0,,,,,,,,,,,2,0,1,2,1,0,0,0,0,0,12,93.5,99.0,61.8
+UBCV,2023,W,MATH,100,,1A2,Differential Calculus with Applications,Eric Cytrynbaum;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean;Paul Péringuey,335,70.6,,97.0,0.0,,,,,,,,,,,36,29,9,20,12,18,36,41,53,40,29,76.0,83.0,62.0
+UBCV,2023,W,MATH,100,,1A4,Differential Calculus with Applications,Wenzhao Chen;Masoud Daneshi;Sarah Dijols;Dragos Ghioca;Mark Thomson MacLean,448,76.1,,97.0,8.0,,,,,,,,,,,18,15,19,21,27,23,23,62,93,82,47,80.0,86.0,69.0
+UBCV,2023,W,MATH,437,,101,Number Theory,Dragos Ghioca,18,90.73,,100.0,15.0,,,,,,,,,,,1,0,0,0,0,0,0,0,0,1,13,97.0,100.0,93.0

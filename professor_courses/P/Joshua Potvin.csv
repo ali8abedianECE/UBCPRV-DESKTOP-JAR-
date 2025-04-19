@@ -1,0 +1,13 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2015,W,ARCH,512,,001,Structures I,Annalisa Meyboom;Joshua James Potvin;Joshua Potvin,33,81.393939394,7.373683755,97.0,69.0,0,0,0,0,0,,5,,10,5,6,,,
+UBCV,2015,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Joshua James Potvin;Joshua Potvin,43,84.209302326,7.236014884,98.0,65.0,0,0,0,0,,,,7,10,8,13,,,
+UBCV,2016,W,ARCH,512,,001,Structures I,Jean Dieres-Monplaisir;Joshua James Potvin;Joshua Potvin,28,85.67857143,7.542735389,98.0,61.0,0,0,0,1,0,0,2,1,6,9,9,,,
+UBCV,2016,W,ARCH,532,,001,Architectural Structures II,Jean Dieres-Monplaisir;Joshua James Potvin;Joshua Potvin,37,88.43243243,6.157833947,96.0,75.0,0,0,0,0,0,0,2,2,6,8,19,,,
+UBCV,2016,W,CIVL,478,,101,Building Science,Amy Stapleton;Gregory Johnson;Joshua James Potvin;Joshua Potvin,61,78.73770492,7.302742953,94.0,60.0,0,0,0,2,3,6,9,11,16,13,1,,,
+UBCV,2017,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Jean Dieres-Monplaisir;Joshua James Potvin;Joshua Potvin,31,79.967741935,8.203592185,95.0,65.0,0,0,0,0,2,0,10,6,4,5,4,,,
+UBCV,2018,W,ARCH,512,,001,Structures I,Annalisa Meyboom;Joshua James Potvin;Joshua Potvin,39,81.282051282,13.715048819,98.0,20.0,2,0,0,0,0,0,4,8,8,10,7,,,
+UBCV,2019,W,ENDS,482,K,001,Special Topics,Emma Durham;Joshua James Potvin;Joshua Potvin,20,81.3,19.515445974,93.0,0.0,1,0,0,0,0,0,0,1,5,11,2,,,
+UBCV,2021,W,DES,330,,001,Structural Systems and Supports,Joshua Potvin;Nicole Wilke,27,88.62962963,4.170852598,95.0,77.0,0,0,0,0,0,0,0,1,3,11,12,,,
+UBCV,2022,W,DES,330,,002,Structural Systems and Supports,Joshua Potvin,54,86.5,,98.0,68.0,0,0,0,0,0,1,1,4,11,19,18,88.0,90.0,82.3
+UBCV,2023,W,ARCH,512,,001,Structures I,Joshua Potvin,41,87.56,,96.0,70.0,0,0,0,0,0,1,0,3,6,16,15,88.0,91.0,85.0
+UBCV,2023,W,DES,330,,002,Structural Systems and Supports,Joshua Potvin,52,85.15,,95.0,70.0,0,0,0,0,0,2,2,6,7,25,10,86.0,89.0,83.0

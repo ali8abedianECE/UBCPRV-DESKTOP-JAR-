@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,PHIL,120,,002,CRITICAL THINKNG,"Gilbert, David Robert",117,74.86,13.11,99,30,113,3,1,0,0,0,0,0,2,1,3,5,6,7,6,14,14,15,17,12,17,,,
+UBC,2018,W,PHIL,220,,004,SYMBOLIC LOGIC,"Gilbert, David Robert",56,77.83,18.35,99,0,50,2,1,0,1,1,1,0,0,0,2,2,2,2,1,2,5,5,6,17,8,,,
+UBC,2018,W,PHIL,320,,001,META AND COMP,"Gilbert, David Robert",49,64.58,23.73,99,0,39,6,3,0,0,2,2,1,1,0,6,6,2,3,3,5,4,4,6,3,3,,,
+UBC,2018,W,PHIL,322,,001,MODAL LOGIC,"Gilbert, David Robert",21,70.52,21.08,98,18,19,2,0,0,0,0,1,0,1,0,2,1,3,1,3,0,2,1,1,3,4,,,
+UBC,2018,W,PHIL,323,,001,NON-CLASS LOGICS,"Gilbert, David Robert",18,78.71,12.67,99,58,17,0,1,0,0,0,0,0,0,0,0,0,1,1,2,3,0,2,1,2,5,,,
+UBC,2018,W,PHIL,427,,001,PHIL OF MATHEMAT,"Gilbert, David Robert",18,71,24.83,88,0,14,2,2,0,0,1,0,1,0,0,2,0,1,0,0,2,1,0,5,5,0,,,
+UBCV,2018,W,PHIL,120,,002,Introduction to Critical Thinking,Alexandre Korolev;David Robert Gilbert;Molly Sun,116,74.862068966,13.114808458,99.0,30.0,,,,,,,,,,,3,5,6,7,6,14,14,15,17,12,17,,,
+UBCV,2018,W,PHIL,220,,004,Symbolic Logic,David Robert Gilbert;Hua Zou,55,76.545454545,19.101888778,99.0,0.0,,,,,,,,,,,3,2,2,3,1,2,6,5,6,17,8,,,
+UBCV,2018,W,PHIL,320,,001,Logic: Metatheory and Computability,Alexandre Korolev;David Robert Gilbert;Mojtaba Soltani,46,66.108695652,21.491319447,99.0,0.0,,,,,,,,,,,5,6,3,3,3,5,4,5,6,3,3,,,
+UBCV,2018,W,PHIL,322,,001,Modal Logic,David Robert Gilbert,21,70.523809524,21.075148986,98.0,18.0,,,,,,,,,,,2,1,3,1,3,0,2,1,1,3,4,,,
+UBCV,2018,W,PHIL,323,,001,Non-Classical Logics,David Robert Gilbert,17,78.705882353,12.667698616,99.0,58.0,,,,,,,,,,,0,0,1,1,2,3,0,2,1,2,5,,,
+UBCV,2018,W,PHIL,427,,001,Philosophy of Mathematics,David Robert Gilbert,16,71.0,24.832774043,88.0,0.0,,,,,,,,,,,2,0,1,0,0,2,1,0,5,5,0,,,
+UBCV,2019,W,PHIL,120,,002,Introduction to Critical Thinking,David Robert Gilbert;Gerrit John Neels;Gerrit Neels;Kristin Lee Conrad,78,74.333333333,8.78112892,92.0,54.0,,,,,,,,,,,0,1,4,4,6,10,16,17,10,5,5,,,
+UBCV,2019,W,PHIL,220,,002,Symbolic Logic,David Robert Gilbert;Kousaku Yui,118,71.669491525,17.036439119,99.0,0.0,,,,,,,,,,,6,9,9,9,13,10,11,13,8,11,19,,,
+UBCV,2019,W,PHIL,220,,99A,Symbolic Logic,David Robert Gilbert;Eric Anderson;Gerrit John Neels;Gerrit Neels,215,74.213953488,17.708722986,96.0,4.0,,,,,,,,,,,17,13,10,6,9,12,20,25,27,39,37,,,
+UBCV,2019,W,PHIL,320,,001,Logic: Metatheory and Computability,David Robert Gilbert;Gerrit John Neels;Gerrit Neels,28,68.607142857,19.402823937,97.0,0.0,,,,,,,,,,,1,4,4,1,1,3,4,2,1,4,3,,,
+UBCV,2019,W,PHIL,322,,001,Modal Logic,David Robert Gilbert,19,70.473684211,16.449817362,88.0,30.0,,,,,,,,,,,1,3,1,1,0,0,3,4,2,4,0,,,
+UBCV,2019,W,PHIL,323,,001,Non-Classical Logics,David Robert Gilbert,13,78.615384615,13.307507039,98.0,58.0,,,,,,,,,,,0,0,1,0,1,3,1,1,2,0,4,,,
+UBCV,2020,W,PHIL,120,,002,Introduction to Critical Thinking,Alexandre Korolev;David Robert Gilbert;Edison Huang;Ying Yao,124,75.60483871,19.646393802,99.0,0.0,,,,,,,,,,,7,2,8,1,11,8,14,12,11,25,25,,,
+UBCV,2020,W,PHIL,220,,002,Symbolic Logic,David Robert Gilbert;Miraslava Kuroyedov;Serban Dragulin;Servaas Van Der Berg,101,71.306930693,18.564343551,94.0,1.0,,,,,,,,,,,11,8,2,0,4,16,9,7,16,15,13,,,
+UBCV,2020,W,PHIL,220,,007,Symbolic Logic,Catherine Raanes;David Robert Gilbert;Emma Esmaili;Jonathan Ichikawa,103,69.922330097,15.696689623,95.0,0.0,,,,,,,,,,,3,8,8,9,16,11,10,9,12,10,7,,,
+UBCV,2020,W,PHIL,220,,99A,Symbolic Logic,David Robert Gilbert;Gerrit John Neels;Gerrit Neels,56,75.339285714,14.514289869,97.0,0.0,,,,,,,,,,,1,1,1,7,0,0,25,1,0,15,5,,,
+UBCV,2020,W,PHIL,320,,001,Logic: Metatheory and Computability,David Robert Gilbert;Gerrit Neels,28,71.642857143,13.84628386,99.0,50.0,,,,,,,,,,,0,3,4,3,1,3,3,2,4,2,3,,,
+UBCV,2020,W,PHIL,322,,001,Modal Logic,David Robert Gilbert,11,69.454545455,25.672411793,99.0,8.0,,,,,,,,,,,2,0,0,0,1,0,3,0,3,1,1,,,
+UBCV,2020,W,PHIL,323,,001,Non-Classical Logics,David Robert Gilbert,15,73.466666667,26.901584305,100.0,8.0,,,,,,,,,,,2,0,0,0,2,0,3,0,1,4,3,,,
+UBCV,2020,W,PHIL,420,A,002,Topics in Symbolic Logic,David Robert Gilbert,8,87.125,12.123619214,97.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,1,1,5,,,
+UBCV,2021,W,PHIL,220,A,001,Symbolic Logic,David Robert Gilbert;Han Wei Luo;Madeleine Penner;Miraslava Kuroyedov,91,69.021978022,19.093325199,99.0,0.0,,,,,,,,,,,8,10,2,8,9,12,9,2,10,12,9,,,
+UBCV,2021,W,PHIL,220,A,99C,Symbolic Logic,David Robert Gilbert;Gerrit Neels;Zhiyu Luo,114,64.315789474,21.37582614,91.0,0.0,,,,,,,,,,,18,7,12,8,10,6,9,12,16,11,5,,,
+UBCV,2021,W,PHIL,320,A,001,Logic: Metatheory and Computability,David Robert Gilbert;Gerrit Neels,14,68.142857143,13.552502709,90.0,50.0,,,,,,,,,,,0,2,4,1,0,0,1,3,1,1,1,,,
+UBCV,2021,W,PHIL,322,A,001,Modal Logic,David Robert Gilbert,16,66.1875,27.188769127,100.0,0.0,,,,,,,,,,,2,2,2,0,1,1,1,1,2,2,2,,,
+UBCV,2021,W,PHIL,323,A,001,Non-Classical Logics,David Robert Gilbert,10,72.1,28.776726708,96.0,2.0,,,,,,,,,,,1,1,0,1,0,1,0,0,0,3,3,,,
+UBCV,2021,W,PHIL,220,A,99C,Symbolic Logic,David Robert Gilbert,112,65.5,,91.0,0.0,,,,,,,,,,,14,9,12,8,10,6,9,12,16,11,5,69.5,80.0,56.8
+UBCV,2021,W,PHIL,220,A,001,Symbolic Logic,David Robert Gilbert,90,70.0,,99.0,0.0,,,,,,,,,,,6,10,,8,9,13,9,,10,12,9,71.0,83.0,62.0
+UBCV,2021,W,PHIL,320,A,001,Logic: Metatheory and Computability,David Robert Gilbert,14,68.1,,90.0,50.0,,,,,,,,,,,,,,,,,,,,,,67.5,78.0,56.5
+UBCV,2021,W,PHIL,322,A,001,Modal Logic,David Robert Gilbert,16,66.2,,100.0,0.0,,,,,,,,,,,,,,,,,,,,,,71.5,84.3,55.5
+UBCV,2021,W,PHIL,323,A,001,Non-Classical Logics,David Robert Gilbert,9,79.9,,96.0,50.0,,,,,,,,,,,,,,,,,,,,,,85.0,91.0,68.0
+UBCV,2022,W,PHIL,220,A,003,Symbolic Logic,David Robert Gilbert,94,71.8,,97.0,0.0,,,,,,,,,,,8,11,4,5,4,6,7,7,12,13,17,76.0,86.8,60.3
+UBCV,2022,W,PHIL,220,A,005,Symbolic Logic,David Robert Gilbert,59,73.3,,98.0,28.0,,,,,,,,,,,7,1,2,5,4,6,3,4,9,7,11,77.0,86.0,63.5
+UBCV,2022,W,PHIL,320,A,001,Logic: Metatheory and Computability,David Robert Gilbert,16,66.0,,97.0,40.0,,,,,,,,,,,3,2,2,1,1,0,1,2,1,0,3,63.0,77.0,52.5
+UBCV,2022,W,PHIL,322,A,001,Modal Logic,David Robert Gilbert,13,66.8,,95.0,35.0,,,,,,,,,,,2,1,3,0,1,1,1,0,0,2,2,65.0,87.0,56.0
+UBCV,2022,W,PHIL,323,A,001,Non-Classical Logics,David Robert Gilbert,7,79.9,,95.0,59.0,,,,,,,,,,,0,0,1,0,0,0,1,2,0,1,2,78.0,88.0,75.5
+UBCV,2023,W,PHIL,220,,006,Symbolic Logic,David Robert Gilbert,73,67.8,,97.0,28.0,,,,,,,,,,,10,7,7,4,2,6,2,9,9,5,8,70.0,83.0,57.0
+UBCV,2023,W,PHIL,222,,001,Enriched Symbolic Logic,David Robert Gilbert,35,70.6,,98.0,0.0,,,,,,,,,,,4,2,1,2,2,4,1,2,4,3,6,74.0,88.5,61.0
+UBCV,2023,W,PHIL,320,,001,Logic: Metatheory and Computability,David Robert Gilbert,29,73.6,,98.0,14.0,,,,,,,,,,,1,2,3,1,3,2,0,3,5,3,5,79.0,86.5,64.5
+UBCV,2023,W,PHIL,322,,001,Modal Logic,David Robert Gilbert,11,71.0,,89.0,53.0,,,,,,,,,,,0,1,1,1,1,1,1,0,3,1,0,71.0,81.5,61.5
+UBCV,2023,W,PHIL,323,,001,Non-Classical Logics,David Robert Gilbert,17,74.4,,96.0,7.0,,,,,,,,,,,1,1,1,0,2,1,1,0,1,3,4,81.0,89.5,65.5

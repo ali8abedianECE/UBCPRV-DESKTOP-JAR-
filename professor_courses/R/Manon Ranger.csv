@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,S,NURS,504,,942,RSRCH EVIDENCE,"Ranger, Manon",11,87.2,8.2,97,73,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,6,,,
+UBC,2018,W,NURS,504,,002,RSRCH EVIDENCE,"Ranger, Manon",30,89.07,3.79,95,82,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,12,13,,,
+UBCV,2016,S,NURS,504,,942,Research and Evidence-Based Practice,Manon Ranger,10,87.2,8.202980488,97.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,0,6,,,
+UBCV,2018,W,NURS,504,,002,Research and Evidence-Based Practice,Manon Ranger,30,89.066666667,3.786849599,95.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,12,13,,,
+UBCV,2018,W,NURS,552,,002,Methods in Nursing Science.,Leanne Currie;Manon Ranger,16,85.875,3.304037934,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,9,2,,,
+UBCV,2019,S,NURS,552,,941,Methods in Nursing Science.,Manon Ranger;Maura Macphee;Ziqian Jiao,33,85.909090909,4.901298529,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,4,8,14,7,,,
+UBCV,2019,W,NURS,504,,002,Research and Evidence-Based Practice,Ismalia Erica Pires De Sousa;Manon Ranger,28,87.464285714,4.44290648,94.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,6,8,12,,,
+UBCV,2020,S,NURS,552,,941,Methods in Nursing Science.,Ismalia Erica Pires De Sousa;Manon Ranger;Sabrina Wong,14,86.857142857,4.720774755,92.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,5,5,,,
+UBCV,2020,S,NURS,552,,942,Methods in Nursing Science.,Ismalia Erica Pires De Sousa;Manon Ranger,29,86.413793103,6.543902513,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,2,5,10,10,,,
+UBCV,2020,W,NURS,346,,002,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",Chandra Waddington;Elsie Tan;Geertje Boschma;Manon Ranger;Sue Foster;Tatijana Dunat;Tracy Leung,60,88.983333333,4.192372681,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,9,17,32,,,
+UBCV,2020,W,NURS,504,,002,Research and Evidence-Based Practice,Ismalia Erica Pires De Sousa;Manon Ranger;Melissa Moynihan,28,87.0,6.912147118,96.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,3,1,11,12,,,
+UBCV,2021,S,NURS,552,,942,Methods in Nursing Science.,Leanne Currie;Manon Ranger,28,84.785714286,6.413857352,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,4,4,9,8,,,
+UBCV,2021,W,NURS,346,,002,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",Elsie Tan;Geertje Boschma;Manon Ranger;Shams Al-Anzi;Tatijana Dunat,64,89.421875,4.293977649,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,9,14,40,,,
+UBCV,2021,W,NURS,504,,002,Research and Evidence-Based Practice,Ismalia Erica Pires De Sousa;Manon Ranger,32,86.65625,7.114770529,96.0,63.0,,,,,,,,,,,0,0,0,1,0,1,0,1,5,13,11,,,
+UBCV,2021,W,NURS,346,,002,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",Geertje Boschma;Tatijana Dunat;Manon Ranger;Elsie Tan;Chandra Waddington,64,89.4,,97.0,76.0,,,,,,,,,,,,,,,,,,,9,14,40,91.0,92.0,87.0
+UBCV,2021,W,NURS,504,,002,Research and Evidence-Based Practice,Manon Ranger,33,86.7,,96.0,63.0,,,,,,,,,,,,,,,,,,,,14,11,87.0,91.0,85.0
+UBCV,2022,W,NURS,504,,002,Research and Evidence-Based Practice,Manon Ranger,24,92.4,,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,5,18,93.5,95.3,89.5
+UBCV,2023,W,NURS,346,,001,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",Elisabeth Bailey;Sheila Mary McBurney;Manon Ranger,69,86.54,,95.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,2,19,33,15,86.0,89.0,84.0
+UBCV,2023,W,NURS,504,,002,Research and Evidence-Based Practice,Manon Ranger,27,90.52,,99.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,1,0,6,19,92.0,94.0,89.0
+UBCV,2023,W,NURS,511,,001,Theoretical Foundations of Nursing Practice,Manon Ranger,28,94.43,,100.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,25,96.0,97.0,92.0

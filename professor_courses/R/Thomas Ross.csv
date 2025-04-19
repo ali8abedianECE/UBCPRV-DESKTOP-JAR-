@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BAPA,500,,001,MNG'L ECONOMICS,"Ross, Thomas",24,76.58,10.09,94,60,24,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,2,0,9,1,3
+UBC,2002,W,BAPA,500,,002,MNG'L ECONOMICS,"Ross, Thomas",56,82.73,9.05,95,60,56,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,5,0,11,15,17
+UBC,2003,W,BAPA,500,,001,MNG'L ECONOMICS,"Ross, Thomas",18,81.72,6.41,94,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,8,1,3
+UBC,2003,W,BAPA,500,,002,MNG'L ECONOMICS,"Ross, Thomas",70,83.9,7.17,97,51,70,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,7,3,20,22,16
+UBC,2003,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",25,81.25,5.67,90,62,24,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,1,16,2,2
+UBC,2006,W,BAPA,501,,001,GOVRNT & BUSNESS,"Ross, Thomas",11,78.27,5.31,86,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,4,1,0
+UBC,2006,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",19,78.29,8.1,90,63,17,0,0,2,0,0,0,0,0,0,0,0,0,1,0,2,4,2,3,4,1
+UBC,2007,W,BAPA,501,,001,GOVRNT & BUSNESS,"Ross, Thomas",12,79,4.65,87,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,5,2,0
+UBC,2007,W,BAPA,580,,001,TPCS POLCY ANLYS,"Ross, Thomas;Russell, Alan",13,83.85,2.44,88,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,7,0
+UBC,2007,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",18,79.94,6.2,93,70,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,6,3,1
+UBC,2009,W,BAPA,580,,001,TPCS POLCY ANLYS,"Ross, Thomas;Russell, Alan",29,82.89,3.82,88,70,27,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,20,5,0
+UBC,2010,W,BAPA,580,,001,TPCS POLCY ANLYS,"Ross, Thomas;Russell, Alan",27,81.83,2.35,87,78,23,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18,3,0
+UBC,2011,W,BAPA,580,,001,TPCS POLCY ANLYS,"Ross, Thomas;Russell, Alan",18,81.94,2.53,86,77,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,2,0
+UBC,2014,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",24,81.7,8.85,94,61,23,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,4,1,4,7,5
+UBC,2015,W,COMM,394,,201,GOVT & BUSINESS,"Ross, Thomas",32,74.84,5.87,87,65,32,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,6,7,6,2,0
+UBC,2015,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",12,79.92,2.97,86,75,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,7,1,0
+UBC,2016,W,COMM,394,,206,GOVT & BUSINESS,"Ross, Thomas",48,76.58,8.65,94,54,48,0,0,0,0,0,0,0,0,0,0,1,0,1,6,8,2,6,17,3,4
+UBC,2016,W,COMM,394,,207,GOVT & BUSINESS,"Ross, Thomas",48,76.94,7.24,94,62,48,0,0,0,0,0,0,0,0,0,0,0,0,2,4,5,6,8,18,3,2
+UBC,2016,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",8,78.38,9.56,90,60,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,2,1,1
+UBC,2017,W,COMM,394,,203,GOVT & BUSINESS,"Ross, Thomas",40,74.98,8.41,90,51,40,0,0,0,0,0,0,0,0,0,0,1,1,2,4,3,9,3,14,2,1
+UBC,2017,W,COMM,394,,204,GOVT & BUSINESS,"Ross, Thomas",31,77.06,7.89,90,56,31,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,3,5,11,4,1
+UBC,2017,W,ECON,566,,001,BUSINES PERFORM,"Ross, Thomas",8,79.67,6.95,90,72,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,0,1
+UBC,2018,W,BAPA,580,,001,TPCS POLCY ANLYS,"Ross, Thomas",26,82.48,1.81,86,80,23,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,2,0
+UBCV,2014,W,ECON,566,,001,Business Performance and Public Policy,Thomas Ross,23,81.69565217,8.854556006,94.0,61.0,,,,,,,,,,,0,0,0,,,,,,,7,5
+UBCV,2015,W,COMM,394,,201,Government and Business,Thomas Ross;Xia0non Sun;Xiaonan Sun,32,74.84375,5.87015071,87.0,65.0,,,,,,,,,,,0,0,0,0,,7,6,7,6,,0
+UBCV,2015,W,ECON,566,,001,Business Performance and Public Policy,Thomas Ross,12,79.916666667,2.968266508,86.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,7,,0
+UBCV,2016,W,COMM,394,,206,Government and Business,Thomas Ross,48,76.58333333,8.648781327,94.0,54.0,,,,,,,,,,,0,1,0,1,6,8,2,6,17,3,4
+UBCV,2016,W,COMM,394,,207,Government and Business,Thomas Ross,48,76.9375,7.241741444,94.0,62.0,,,,,,,,,,,0,0,0,2,4,5,6,8,18,3,2
+UBCV,2016,W,ECON,566,,001,Business Performance and Public Policy,Thomas Ross,8,78.375,9.560895057,90.0,60.0,,,,,,,,,,,0,0,0,1,0,1,0,2,2,1,1
+UBCV,2017,W,BA,507,,004,Business Strategy Integration: Global,Danielle Van Jaarsveld;Robert Prowse;Thomas Ross,28,85.464285714,3.024371901,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,13,12,3
+UBCV,2017,W,COMM,394,,203,Government and Business,Navid Siami;Thomas Ross,40,74.975,8.407833649,90.0,51.0,,,,,,,,,,,0,1,1,2,4,3,9,3,14,2,1
+UBCV,2017,W,COMM,394,,204,Government and Business,Navid Siami;Thomas Ross,31,77.064516129,7.894873796,90.0,56.0,,,,,,,,,,,0,0,1,1,2,3,3,5,11,4,1
+UBCV,2017,W,ECON,566,,001,Business Performance and Public Policy,Oscar Sanchez;Thomas Ross,6,79.666666667,6.947421584,90.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,2,0,1
+UBCV,2018,W,BAPA,580,,001,Topics in Policy Analysis,Thomas Ross,23,82.47826087,1.805787796,86.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,21,2,0
+UBCV,2019,W,BAPA,580,,001,Topics in Policy Analysis,Thomas Ross,21,81.238095238,2.047065263,85.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,17,1,0
+UBCV,2019,W,ECON,566,,001,Business Performance and Public Policy,Nancy Gallini;Ralph Winter;Thomas Ross,14,83.714285714,4.598136268,90.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,7,4,2

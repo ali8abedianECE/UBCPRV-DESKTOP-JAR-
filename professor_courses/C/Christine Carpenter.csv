@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,IHHS,401,,002,HEALTH CARE ETHC,"Carpenter, Christine",30,83.62,3.03,89,78,29,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16,11,0
+UBC,2003,W,IHHS,401,,002,HEALTH CARE ETHC,"Carpenter, Christine",57,84.77,4.54,95,75,56,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,18,26,5
+UBC,2003,W,RHSC,509,,99C,REHAB LEARNING,"Bainbridge, Lesley;Carpenter, Christine",8,88.75,4.27,93,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+UBC,2011,S,RHSC,583,D,014,APPLY RSRCH PRAC,"Carpenter, Christine",6,83,7.21,90,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,1
+UBC,2011,W,RHSC,583,A,013,APPLY RSRCH PRAC,"Carpenter, Christine",7,85.14,5.37,94,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,2
+UBC,2011,W,RHSC,583,B,013,APPLY RSRCH PRAC,"Carpenter, Christine",4,81.25,4.92,86,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
+UBC,2012,S,RHSC,583,B,014,APPLY RSRCH PRAC,"Carpenter, Christine",6,85.33,5.85,94,78,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2
+UBC,2012,S,RHSC,583,D,014,APPLY RSRCH PRAC,"Carpenter, Christine",4,81,4.97,88,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0
+UBC,2013,W,RHSC,583,A,013,APPLY RSRCH PRAC,"Carpenter, Christine",8,88.63,4.53,93,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+UBC,2014,S,RHSC,583,B,014,APPLY RSRCH PRAC,"Carpenter, Christine",8,88.63,4.53,93,81,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4
+UBCV,2014,S,RHSC,583,B,014,Applying Research to Practice,Christine Carpenter,8,88.625,4.533604684,93.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,

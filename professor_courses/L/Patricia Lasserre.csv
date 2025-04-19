@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2020,W,COSC,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,76,90.736842105,9.429554137,99.0,45.0,2,0,0,0,0,0,2,0,5,13,54,,,
+UBCO,2020,W,COSC,305,,101,Project Management,Nusrat Momo;Patricia Lasserre;Zenab Kutubuddin Kagdiwala,110,81.427272727,11.45430418,97.0,26.0,2,1,1,1,2,5,8,24,18,21,27,,,
+UBCO,2020,W,DATA,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,82,87.890243902,13.134636237,100.0,45.0,4,2,0,1,0,0,0,1,7,16,51,,,
+UBCO,2020,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;John Graham-Knight;Patricia Lasserre,31,92.096774194,4.085379123,98.0,82.0,0,0,0,0,0,0,0,0,1,6,24,,,
+UBCO,2021,W,COSC,305,,101,Project Management,Iman Saberi Tirani;Patricia Lasserre;Sohan Chowdhury,82,77.134146341,12.742232875,92.0,14.0,3,1,2,2,5,5,9,9,22,19,5,,,
+UBCO,2021,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Corey Bond;Patricia Lasserre,31,89.64516129,3.469374459,96.0,83.0,0,0,0,0,0,0,0,0,1,16,14,,,
+UBCO,2021,W,COSC,305,,101,Project Management,Patricia Lasserre,82,77.5,,92.0,14.0,,,,,,,9,9,23,19,,81.0,85.0,73.3
+UBCO,2021,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Patricia Lasserre,31,89.6,,96.0,83.0,,,,,,,,,,16,14,89.0,92.5,87.0
+UBCO,2022,W,COSC,305,,101,Project Management,Patricia Lasserre,61,73.7,,94.0,10.0,3,2,0,3,9,8,5,6,12,8,5,76.0,83.0,67.0
+UBCO,2022,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Patricia Lasserre,30,90.7,,99.0,74.0,0,0,0,0,0,0,1,0,4,7,18,91.0,95.0,88.0

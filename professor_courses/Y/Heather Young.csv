@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,THTR,299,C,001,PRODUCTION I,"Young, Heather",17,83.19,7.99,89,60,16,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,2,0,2,11,0
+UBC,2017,W,THTR,399,C,001,PRODUCTION II,"Young, Heather",13,85.31,6.41,94,72,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,6,3
+UBC,2017,W,THTR,499,C,001,PRODUCTION III,"Young, Heather",10,89.4,5.5,97,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6
+UBC,2018,W,THTR,356,,001,Costume Constr,"Young, Heather",26,89.81,9.71,99,64,26,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,1,2,18
+UBC,2018,W,THTR,456,,001,COSTUM CONSTR II,"Young, Heather",9,87,10.81,99,70,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,4
+UBCV,2017,W,THTR,299,C,001,Production I,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,17,83.0,7.770135134,89.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,0,3,11,0
+UBCV,2017,W,THTR,399,C,001,Production II,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,13,85.307692308,6.408127852,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,0,2,6,3
+UBCV,2017,W,THTR,499,C,001,Production III,Bradley Powers;Heather Young;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,10,89.4,5.501514943,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,6
+UBCV,2018,W,THTR,356,,001,Costume Construction,Heather Young;Jacqueline Firkins,26,89.807692308,9.707808118,99.0,64.0,,,,,,,,,,,0,0,0,0,2,0,1,2,1,2,18
+UBCV,2018,W,THTR,456,,001,Costume Construction II,Heather Young;Jacqueline Firkins,9,87.0,10.805091392,99.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,1,2,4
+UBCV,2020,W,THTR,491,C,001,Advanced Rehearsal and Performance,Adam Henderson;Bart Anderson;Gayle Murphy;Heather Young;Jocelyn Pitsch;Kirsty Johnston;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Heatley,14,87.785714286,2.750624305,93.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,10,3

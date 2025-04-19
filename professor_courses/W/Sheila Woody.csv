@@ -1,0 +1,37 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,PSYC,300,A,001,BEHAVIOUR DISORD,"Woody, Sheila",99,69.22,12.73,93,24,94,4,1,0,0,0,0,1,2,1,4,4,12,14,8,11,14,8,11,10,2,,,
+UBC,2002,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",5,87.6,2.7,91,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2003,W,PSYC,300,A,001,BEHAVIOUR DISORD,"Woody, Sheila",97,67.78,10.63,91,31,93,4,0,0,0,0,0,0,1,3,4,4,11,15,14,15,11,5,12,5,1,,,
+UBC,2003,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",5,89,4.64,96,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,,,
+UBC,2005,W,PSYC,300,A,004,BEHAVIOUR DISORD,"Woody, Sheila",132,69.28,11.23,92,39,119,7,2,0,4,0,0,0,1,6,7,6,11,14,14,19,20,12,11,10,2,,,
+UBC,2005,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",6,88.83,1.94,91,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBC,2007,W,PSYC,535,,001,PSYCOPATHY ADULT,"Woody, Sheila",10,86.6,6.62,93,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,4,,,
+UBC,2009,W,PSYC,349,,001,HONOURS SEMINAR,"Woody, Sheila",10,90.7,3.02,95,86,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,,,
+UBC,2009,W,PSYC,449,,001,HONOURS ESSAY,"Woody, Sheila",12,89,5.48,94,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,7,,,
+UBC,2009,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",7,88.71,5.99,94,77,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,,,
+UBC,2010,W,PSYC,300,A,002,BEHAVIOUR DISORD,"Woody, Sheila",132,71.5,12.16,97,31,123,4,4,0,0,0,0,0,2,2,4,3,12,11,16,17,19,12,11,12,10,,,
+UBC,2010,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",9,88.89,3.52,94,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,,,
+UBC,2011,W,PSYC,349,,001,HONOURS SEMINAR,"Woody, Sheila",16,90.06,3.97,96,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,10,,,
+UBC,2011,W,PSYC,449,,001,HONOURS ESSAY,"Woody, Sheila",11,88.91,4.21,96,83,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,,,
+UBC,2011,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",5,89.2,5.26,95,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,,,
+UBC,2012,W,PSYC,300,A,001,BEHAVIOUR DISORD,"Woody, Sheila",154,69.47,13.2,100,25,138,12,4,0,0,0,0,1,1,10,12,6,17,13,16,16,15,20,20,6,9,,,
+UBC,2014,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",7,89.57,2.7,94,86,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,,,
+UBC,2015,W,PSYC,300,A,901,BEHAVIOUR DISORD,"Woody, Sheila",68,71.07,13.65,98,42,62,6,0,0,0,0,0,0,0,6,6,5,4,3,8,4,8,10,9,5,6,,,
+UBC,2016,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",6,92.5,3.56,97,87,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2017,W,PSYC,401,,001,CLINICAL PSYC,"Woody, Sheila",64,71.81,7.74,84,48,61,1,2,0,0,0,0,0,0,1,1,0,4,5,5,14,9,12,12,0,0,,,
+UBC,2018,W,PSYC,560,,001,CLINICAL RES DES,"Woody, Sheila",6,91.67,4.97,96,82,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,,,
+UBCV,2014,W,PSYC,560,,001,Clinical Research Design,Sheila Woody,7,89.57142857,2.699206233,94.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,PSYC,300,A,901,Behaviour Disorders,Chang Chen;Sheila Woody,68,71.073529412,13.653840066,98.0,42.0,,,,,,,,,,,6,5,,,8,,8,10,9,5,6,,,
+UBCV,2016,W,PSYC,560,,001,Clinical Research Design,Sheila Woody,6,92.5,3.563705936,97.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2017,W,PSYC,401,,001,Clinical Psychology,Boaz Saffer;Sheila Woody,62,71.806451613,7.73715479,84.0,48.0,,,,,,,,,,,1,0,4,5,5,14,9,12,12,0,0,,,
+UBCV,2017,W,PSYC,560,,001,Clinical Research Design,Elisha Klonsky;Sheila Woody,6,92.0,2.683281573,95.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2018,W,PSYC,560,,001,Clinical Research Design,Elisha Klonsky;Sheila Woody,6,91.666666667,4.966554809,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,5,,,
+UBCV,2021,W,PSYC,300,A,001,Abnormal Psychology,Ariel Ko;Paul Hewitt;Sheila Woody,128,73.84375,12.791752695,98.0,35.0,,,,,,,,,,,5,3,9,9,13,13,14,8,26,16,12,,,
+UBCV,2021,W,PSYC,401,,001,Clinical Psychology,Ariel Ko;Sheila Woody,109,77.963302752,9.091027939,92.0,44.0,,,,,,,,,,,2,2,0,2,4,14,11,24,27,16,7,,,
+UBCV,2021,W,PSYC,560,,001,Clinical Research Design,Lynn Alden;Sheila Woody,9,93.555555556,1.666666667,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,,,
+UBCV,2021,W,PSYC,300,A,001,Abnormal Psychology,Sheila Woody,128,74.0,,98.0,35.0,,,,,,,,,,,,,9,9,13,14,14,8,26,16,12,74.0,84.0,65.0
+UBCV,2021,W,PSYC,401,,001,Clinical Psychology,Sheila Woody,109,78.0,,92.0,44.0,,,,,,,,,,,,,,,,14,11,23,28,16,7,79.0,84.0,73.0
+UBCV,2021,W,PSYC,560,,001,Clinical Research Design,Sheila Woody,9,93.6,,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,9,93.0,94.0,93.0
+UBCV,2022,W,PSYC,300,A,002,Abnormal Psychology,Sheila Woody,144,77.7,,100.0,35.0,,,,,,,,,,,2,1,3,4,13,12,20,28,19,19,23,78.0,86.0,72.0
+UBCV,2023,W,PSYC,300,A,001,Abnormal Psychology,Sheila Woody,145,75.3,,97.0,40.0,,,,,,,,,,,4,5,5,8,12,11,15,18,26,23,11,76.5,84.0,68.0
+UBCV,2023,W,PSYC,300,A,002,Abnormal Psychology,Sheila Woody,145,76.4,,99.0,29.0,,,,,,,,,,,3,4,6,9,7,8,11,27,25,28,11,78.0,85.0,70.0

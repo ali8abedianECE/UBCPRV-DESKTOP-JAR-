@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2019,W,CPSC,420,,101,Advanced Algorithms Design and Analysis,Abner Turkieltaub Melo;Hu Fu;Iliad Ramezani;Mehrdad Oveisi-Fordoei;Vanderpoel A. Liam;Vanderpoel Liam,55,76.781818182,12.567876318,100.0,45.0,1,2,3,2,3,5,10,4,9,9,7,,,
+UBCV,2020,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,Abner Turkieltaub Melo;Elan Dubrofsky;Frederick Shepherd;Hu Fu;Iliad Ramezani;Ronald Garcia;Yuchong Pan,61,75.704918033,13.70564879,99.0,34.0,1,2,4,1,7,8,9,7,6,5,11,,,
+UBCV,2021,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,Abner Turkieltaub Melo;Frederick Shepherd;Jichun Wu;Joseph Chester Poremba;Ryan Gang Liu,71,71.197183099,20.329865236,97.0,0.0,4,8,6,7,3,3,2,6,11,12,9,,,
+UBCV,2023,S,CPSC,420,,911,Advanced Algorithms Design and Analysis,Abner Turkieltaub Melo,30,83.0,,100.0,38.0,1,1,1,1,1,0,0,2,4,3,14,89.0,91.5,80.3

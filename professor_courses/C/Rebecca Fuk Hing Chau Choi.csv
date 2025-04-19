@@ -1,0 +1,508 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,JAPN,200,,001,IN JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",29,71.68,11.96,92,42,27,1,0,1,0,0,0,0,0,1,1,0,2,6,3,1,2,5,3,3,2,,,
+UBC,2002,W,JAPN,200,,002,IN JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",27,76.4,10.59,92,52,25,0,0,2,0,0,0,0,0,0,0,1,2,1,0,3,5,1,5,5,2,,,
+UBC,2002,W,JAPN,200,,003,IN JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",29,75.14,8.51,91,57,28,0,1,0,0,0,0,0,0,0,0,0,2,0,3,6,4,3,5,4,1,,,
+UBC,2002,W,JAPN,201,,001,INT JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",21,72.9,11.31,90,43,20,1,0,0,0,0,0,0,0,1,1,0,1,1,4,2,2,3,4,2,1,,,
+UBC,2002,W,JAPN,201,,002,INT JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",27,77.16,7.74,90,57,25,0,0,2,0,0,0,0,0,0,0,0,1,0,3,2,2,4,9,3,1,,,
+UBC,2002,W,JAPN,201,,003,INT JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",26,76.17,9.62,90,61,24,0,1,1,0,0,0,0,0,0,0,0,0,3,4,1,3,4,4,2,3,,,
+UBC,2003,W,JAPN,200,,001,IN JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",29,76.1,9.5,96,58,29,0,0,0,0,0,0,0,0,0,0,0,2,0,2,7,4,4,4,2,4,,,
+UBC,2003,W,JAPN,200,,002,IN JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",29,69.36,16.11,90,2,27,1,0,1,0,1,0,0,0,0,1,1,0,6,2,4,5,3,3,2,1,,,
+UBC,2003,W,JAPN,201,,001,INT JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",28,76.58,9.93,94,55,26,0,2,0,0,0,0,0,0,0,0,0,2,0,2,4,4,2,7,2,3,,,
+UBC,2003,W,JAPN,201,,002,INT JPN READ&WRI,"Choi, Rebecca Fuk Hing Chau",29,71.97,13.09,87,23,28,1,0,0,0,0,0,1,0,0,1,0,4,1,1,3,6,5,4,4,0,,,
+UBC,2005,W,JAPN,300,,001,ADV  READ&WRIT,"Choi, Rebecca Fuk Hing Chau",24,74.67,9.41,91,53,24,0,0,0,0,0,0,0,0,0,0,1,0,2,3,2,5,3,5,0,3,,,
+UBC,2005,W,JAPN,300,,002,ADV  READ&WRIT,"Choi, Rebecca Fuk Hing Chau",20,76.65,9.09,92,61,20,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,2,5,2,2,,,
+UBC,2005,W,JAPN,301,,001,ADV READ&WRIT,"Choi, Rebecca Fuk Hing Chau",19,74.89,8.19,90,62,19,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,5,2,1,3,1,,,
+UBC,2005,W,JAPN,301,,002,ADV READ&WRIT,"Choi, Rebecca Fuk Hing Chau",21,73.38,11.15,90,38,20,1,0,0,0,0,0,0,1,0,1,0,0,2,0,3,9,1,2,2,1,,,
+UBC,2006,W,JAPN,250,,002,INTNS INT JAPN 1,"Choi, Rebecca Fuk Hing Chau",27,80.07,8.1,94,61,27,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,6,8,3,4,,,
+UBC,2006,W,JAPN,251,,002,INTNS INT JAPN 2,"Choi, Rebecca Fuk Hing Chau",19,80.58,7.66,90,62,19,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,2,6,5,2,,,
+UBC,2007,W,JAPN,250,,002,INTNS INT JAPN 1,"Choi, Rebecca Fuk Hing Chau",29,76.04,7.82,92,54,28,0,0,1,0,0,0,0,0,0,0,1,0,0,1,6,4,8,3,4,1,,,
+UBC,2007,W,JAPN,251,,002,INTNS INT JAPN 2,"Choi, Rebecca Fuk Hing Chau",27,78.63,6.98,96,67,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,7,8,2,2,,,
+UBC,2009,W,JAPN,250,,001,INTNS INT JAPN 1,"Choi, Rebecca Fuk Hing Chau",25,73.08,8.2,86,55,25,0,0,0,0,0,0,0,0,0,0,0,1,2,1,7,5,3,2,4,0,,,
+UBC,2009,W,JAPN,251,,001,INTNS INT JAPN 2,"Choi, Rebecca Fuk Hing Chau",21,72.38,9.19,87,53,21,0,0,0,0,0,0,0,0,0,0,1,1,1,2,4,5,2,2,3,0,,,
+UBC,2010,W,JAPN,300,,001,ADV  READ&WRIT I,"Choi, Rebecca Fuk Hing Chau",17,73.63,10.62,94,55,16,0,1,0,0,0,0,0,0,0,0,0,1,3,1,0,3,4,1,2,1,,,
+UBC,2010,W,JAPN,300,,002,ADV  READ&WRIT I,"Choi, Rebecca Fuk Hing Chau",20,77.47,6.49,85,62,19,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,1,4,9,1,0,,,
+UBC,2010,W,JAPN,301,,001,ADV READ&WRIT II,"Choi, Rebecca Fuk Hing Chau",11,69.18,12.47,86,50,11,0,0,0,0,0,0,0,0,0,0,2,1,1,0,2,1,2,0,2,0,,,
+UBC,2010,W,JAPN,301,,002,ADV READ&WRIT II,"Choi, Rebecca Fuk Hing Chau",20,75.4,6.68,85,60,20,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,3,6,2,0,,,
+UBC,2011,W,JAPN,300,,001,ADV  READ&WRIT I,"Choi, Rebecca Fuk Hing Chau",21,69.43,12.38,90,45,19,2,0,0,0,0,0,0,0,2,2,1,0,3,2,3,4,3,0,1,2,,,
+UBC,2011,W,JAPN,300,,002,ADV  READ&WRIT I,"Choi, Rebecca Fuk Hing Chau",21,73.75,9.8,92,46,19,1,0,1,0,0,0,0,0,1,1,0,0,1,0,7,3,2,4,1,1,,,
+UBC,2011,W,JAPN,301,,001,ADV READ&WRIT II,"Choi, Rebecca Fuk Hing Chau",17,75.12,8.48,90,60,17,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,3,7,0,2,1,,,
+UBC,2011,W,JAPN,301,,002,ADV READ&WRIT II,"Choi, Rebecca Fuk Hing Chau",21,72.76,8.55,90,53,21,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,7,2,1,2,1,,,
+UBCV,2018,S,JAPN,100,,921,Beginning Japanese IA,Maki Ode;Rebecca Fuk Hing Chau Choi;Yuko Watanabe,16,74.3125,22.380702253,92.0,2.0,,,,,,,,,,,1,0,1,1,1,0,2,2,2,1,5,,,
+UBCV,2018,S,JAPN,100,,922,Beginning Japanese IA,Haruyo Taucar;Maki Ode;Rebecca Fuk Hing Chau Choi,13,74.384615385,15.212595996,93.0,47.0,,,,,,,,,,,1,1,0,2,0,1,1,1,1,4,1,,,
+UBCV,2018,S,JAPN,100,,923,Beginning Japanese IA,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,16,61.8125,23.02815306,90.0,5.0,,,,,,,,,,,4,1,0,4,1,0,0,2,1,2,1,,,
+UBCV,2018,S,JAPN,100,,951,Beginning Japanese IA,Atsumi Nakao;Haruyo Taucar;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Yuko Watanabe,26,74.846153846,11.231001051,92.0,51.0,,,,,,,,,,,0,1,2,1,2,4,4,0,7,3,2,,,
+UBCV,2018,S,JAPN,100,,98A,Beginning Japanese IA,Nicholas Hall;Rebecca Fuk Hing Chau Choi,21,65.857142857,21.128856368,90.0,25.0,,,,,,,,,,,5,1,2,3,0,1,0,1,1,6,1,,,
+UBCV,2018,S,JAPN,101,,921,Beginning Japanese IB,Nicholas Hall;Rebecca Fuk Hing Chau Choi;Yuko Watanabe,12,74.666666667,11.55487566,89.0,57.0,,,,,,,,,,,0,0,1,2,1,0,2,1,2,3,0,,,
+UBCV,2018,S,JAPN,101,,951,Beginning Japanese IB,Belen Fan;Maki Ode;Rebecca Fuk Hing Chau Choi;Yuko Watanabe,9,71.444444444,15.717117349,88.0,43.0,,,,,,,,,,,1,1,0,0,1,0,2,0,2,2,0,,,
+UBCV,2018,S,JAPN,101,,952,Beginning Japanese IB,Belen Fan;Keiko Koizumi;Rebecca Fuk Hing Chau Choi,6,78.833333333,10.400320508,94.0,66.0,,,,,,,,,,,0,0,0,0,1,1,0,0,3,0,1,,,
+UBCV,2018,S,JAPN,200,,921,Beginning Japanese II A,Misuzu Kazama;Rebecca Fuk Hing Chau Choi,19,72.473684211,9.477273524,91.0,50.0,,,,,,,,,,,0,1,0,2,3,2,4,3,3,0,1,,,
+UBCV,2018,S,JAPN,200,,951,Beginning Japanese II A,Keiko Koizumi;Masahiko Nakata;Rebecca Fuk Hing Chau Choi,13,79.076923077,9.214676142,93.0,62.0,,,,,,,,,,,0,0,0,1,1,0,3,2,1,4,1,,,
+UBCV,2018,S,JAPN,201,,951,Beginning Japanese II B,Masahiko Nakata;Rebecca Fuk Hing Chau Choi,18,72.111111111,13.585844228,95.0,45.0,,,,,,,,,,,1,1,1,1,2,1,4,2,2,1,2,,,
+UBCV,2018,S,JAPN,320,,921,Intermediate Japanese I A,Masumi Abe El-Khoury;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,11,76.181818182,8.72717803,86.0,63.0,,,,,,,,,,,0,0,0,1,1,1,3,0,1,4,0,,,
+UBCV,2018,S,JAPN,321,,921,Intermediate Japanese I B,Masumi Abe El-Khoury;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,11,72.636363636,9.831304362,85.0,55.0,,,,,,,,,,,0,0,1,0,3,2,1,0,2,2,0,,,
+UBCV,2018,S,JAPN,322,,951,Intermediate Japanese II A,Belen Fan;Haruyo Takahashi-Taucar;Haruyo Taucar;Rebecca Fuk Hing Chau Choi,13,72.153846154,7.722760235,82.0,57.0,,,,,,,,,,,0,0,1,0,3,2,2,1,4,0,0,,,
+UBCV,2018,S,JAPN,323,,951,Intermediate Japanese II B,Haruyo Takahashi-Taucar;Haruyo Taucar;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,11,72.545454545,8.465974679,82.0,53.0,,,,,,,,,,,0,1,0,0,1,3,2,0,4,0,0,,,
+UBCV,2018,W,JAPN,100,,001,Beginning Japanese IA,Ihhwa Kim;Nicholas Hall;Rebecca Fuk Hing Chau Choi,25,72.6,20.340845607,93.0,12.0,,,,,,,,,,,2,0,0,3,3,1,0,4,5,5,2,,,
+UBCV,2018,W,JAPN,100,,002,Beginning Japanese IA,Hiromi Uchida;Nicholas Hall;Rebecca Fuk Hing Chau Choi,28,78.892857143,9.772748526,95.0,60.0,,,,,,,,,,,0,0,0,1,3,4,2,6,3,3,6,,,
+UBCV,2018,W,JAPN,100,,003,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,27,81.222222222,11.088224292,95.0,56.0,,,,,,,,,,,0,0,2,0,2,1,3,0,5,8,6,,,
+UBCV,2018,W,JAPN,100,,004,Beginning Japanese IA,Keiko Koizumi;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,18,72.555555556,21.882634055,92.0,14.0,,,,,,,,,,,3,0,1,0,0,0,2,2,3,5,2,,,
+UBCV,2018,W,JAPN,100,,005,Beginning Japanese IA,Hiromi Uchida;Nicholas Hall;Rebecca Fuk Hing Chau Choi,29,83.793103448,8.325431393,97.0,64.0,,,,,,,,,,,0,0,0,0,1,3,1,2,4,10,8,,,
+UBCV,2018,W,JAPN,100,,006,Beginning Japanese IA,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,26,82.615384615,13.359871027,94.0,42.0,,,,,,,,,,,1,1,1,1,0,0,0,1,3,9,9,,,
+UBCV,2018,W,JAPN,100,,008,Beginning Japanese IA,Kaori Tanaka;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,24,81.166666667,14.707781634,96.0,42.0,,,,,,,,,,,1,0,0,4,0,0,2,2,2,4,9,,,
+UBCV,2018,W,JAPN,100,,009,Beginning Japanese IA,Belen Fan;Haruyo Takahashi-Taucar;Rebecca Fuk Hing Chau Choi,26,71.307692308,18.196195714,90.0,0.0,,,,,,,,,,,2,1,0,3,3,2,3,1,6,4,1,,,
+UBCV,2018,W,JAPN,100,,010,Beginning Japanese IA,Haruyo Takahashi-Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,18,76.611111111,11.817927005,96.0,54.0,,,,,,,,,,,0,1,0,1,2,3,2,2,2,3,2,,,
+UBCV,2018,W,JAPN,100,,011,Beginning Japanese IA,Maki Ode;Nicholas Hall;Rebecca Fuk Hing Chau Choi,20,77.6,13.20047846,95.0,38.0,,,,,,,,,,,1,0,0,2,0,1,2,4,3,4,3,,,
+UBCV,2018,W,JAPN,100,,012,Beginning Japanese IA,Kaori Tanaka;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,23,76.826086957,21.312932851,98.0,3.0,,,,,,,,,,,2,0,0,1,1,1,3,3,2,3,7,,,
+UBCV,2018,W,JAPN,100,,013,Beginning Japanese IA,Michiko Suzuki;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,24,72.583333333,20.616406862,95.0,8.0,,,,,,,,,,,2,0,0,1,0,3,4,7,1,3,3,,,
+UBCV,2018,W,JAPN,100,,014,Beginning Japanese IA,Belen Fan;Haruyo Takahashi-Taucar;Rebecca Fuk Hing Chau Choi,26,73.730769231,14.468054997,96.0,40.0,,,,,,,,,,,1,2,2,1,5,0,0,3,6,2,4,,,
+UBCV,2018,W,JAPN,100,,021,Beginning Japanese IA,Haruyo Takahashi-Taucar;Haruyo Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,28,71.535714286,17.372780205,95.0,30.0,,,,,,,,,,,3,0,3,1,4,2,0,4,4,3,4,,,
+UBCV,2018,W,JAPN,100,,022,Beginning Japanese IA,Haruyo Takahashi-Taucar;Haruyo Taucar;Nicholas Hall;Rebecca Fuk Hing Chau Choi,17,70.294117647,14.948932679,93.0,43.0,,,,,,,,,,,1,4,0,0,0,2,4,0,4,1,1,,,
+UBCV,2018,W,JAPN,100,,023,Beginning Japanese IA,Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,18,75.111111111,10.011104945,90.0,60.0,,,,,,,,,,,0,0,0,4,1,2,2,2,4,2,1,,,
+UBCV,2018,W,JAPN,100,,024,Beginning Japanese IA,Haruyo Takahashi-Taucar;Maki Ode;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,23,70.0,21.030281198,97.0,4.0,,,,,,,,,,,2,4,1,0,1,0,3,3,4,2,3,,,
+UBCV,2018,W,JAPN,100,,025,Beginning Japanese IA,Haruyo Takahashi-Taucar;Haruyo Taucar;Keiko Koizumi;Rebecca Fuk Hing Chau Choi,19,75.473684211,19.056548659,92.0,17.0,,,,,,,,,,,1,2,0,1,1,0,2,2,2,5,3,,,
+UBCV,2018,W,JAPN,100,,027,Beginning Japanese IA,Keiko Koizumi;Rebecca Fuk Hing Chau Choi,22,74.954545455,13.706019785,95.0,50.0,,,,,,,,,,,0,2,2,1,2,1,1,5,2,2,4,,,
+UBCV,2018,W,JAPN,100,,99A,Beginning Japanese IA,Nicholas Hall;Rebecca Fuk Hing Chau Choi,22,67.636363636,22.21442143,92.0,19.0,,,,,,,,,,,4,1,2,2,0,0,3,2,1,4,3,,,
+UBCV,2018,W,JAPN,101,,001,Beginning Japanese IB,Ihhwa Kim;Nicholas Hall;Rebecca Fuk Hing Chau Choi,13,68.230769231,12.781196124,82.0,42.0,,,,,,,,,,,2,0,0,1,2,2,2,2,2,0,0,,,
+UBCV,2018,W,JAPN,101,,002,Beginning Japanese IB,Hiromi Uchida;Nicholas Hall;Rebecca Fuk Hing Chau Choi,21,81.571428571,9.882162863,94.0,59.0,,,,,,,,,,,0,0,1,0,2,1,1,3,1,9,3,,,
+UBCV,2018,W,JAPN,101,,003,Beginning Japanese IB,Hiromi Uchida;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,22,82.045454545,10.330155914,95.0,56.0,,,,,,,,,,,0,0,2,0,0,1,2,1,6,4,6,,,
+UBCV,2018,W,JAPN,101,,004,Beginning Japanese IB,Belen Fan;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,21,74.333333333,12.252890815,90.0,50.0,,,,,,,,,,,0,2,1,3,0,1,2,4,3,3,2,,,
+UBCV,2018,W,JAPN,101,,005,Beginning Japanese IB,Michiko Suzuki;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,77.363636364,8.173974114,89.0,59.0,,,,,,,,,,,0,0,1,0,3,0,6,2,4,6,0,,,
+UBCV,2018,W,JAPN,101,,006,Beginning Japanese IB,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,82.0,9.35032467,93.0,62.0,,,,,,,,,,,0,0,0,1,1,2,2,1,5,4,6,,,
+UBCV,2018,W,JAPN,101,,007,Beginning Japanese IB,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,9,74.444444444,10.13793755,90.0,60.0,,,,,,,,,,,0,0,0,2,0,0,4,0,1,1,1,,,
+UBCV,2018,W,JAPN,101,,008,Beginning Japanese IB,Kaori Tanaka;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,24,77.958333333,13.607795613,96.0,47.0,,,,,,,,,,,1,0,1,2,2,2,2,2,0,5,7,,,
+UBCV,2018,W,JAPN,101,,011,Beginning Japanese IB,Haruyo Takahashi-Taucar;Haruyo Taucar;Keiko Koizumi;Rebecca Fuk Hing Chau Choi,25,77.24,11.211155159,92.0,44.0,,,,,,,,,,,1,1,0,0,2,1,2,7,6,3,2,,,
+UBCV,2018,W,JAPN,101,,012,Beginning Japanese IB,Haruyo Takahashi-Taucar;Haruyo Taucar;Keiko Koizumi;Rebecca Fuk Hing Chau Choi,23,77.782608696,10.651318833,93.0,63.0,,,,,,,,,,,0,0,0,1,4,3,3,1,3,3,5,,,
+UBCV,2018,W,JAPN,101,,014,Beginning Japanese IB,Kaori Tanaka;Rebecca Fuk Hing Chau Choi,15,78.8,13.717559133,92.0,40.0,,,,,,,,,,,1,0,1,0,0,0,0,4,4,2,3,,,
+UBCV,2018,W,JAPN,101,,015,Beginning Japanese IB,Kaori Tanaka;Rebecca Fuk Hing Chau Choi,23,80.565217391,10.88713205,96.0,60.0,,,,,,,,,,,0,0,0,3,1,2,0,3,3,6,5,,,
+UBCV,2018,W,JAPN,101,,99C,Beginning Japanese IB,Nicholas Hall;Rebecca Fuk Hing Chau Choi,15,64.466666667,18.450190346,90.0,20.0,,,,,,,,,,,2,2,0,2,3,1,1,0,2,1,1,,,
+UBCV,2018,W,JAPN,160,,001,Intensive Beginning Japanese I,Keiko Koizumi;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,12,72.416666667,13.687807005,91.0,50.0,,,,,,,,,,,0,1,1,1,2,1,1,1,1,2,1,,,
+UBCV,2018,W,JAPN,160,,002,Intensive Beginning Japanese I,Masahiko Nakata;Rebecca Fuk Hing Chau Choi,13,81.384615385,10.897541478,95.0,58.0,,,,,,,,,,,0,0,1,0,1,0,1,2,1,4,3,,,
+UBCV,2018,W,JAPN,200,,001,Beginning Japanese II A,Ihhwa Kim;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,28,78.107142857,7.360250025,90.0,64.0,,,,,,,,,,,0,0,0,0,2,5,2,6,7,5,1,,,
+UBCV,2018,W,JAPN,200,,002,Beginning Japanese II A,Masahiko Nakata;Nicholas Hall;Rebecca Fuk Hing Chau Choi,19,67.526315789,18.76867491,90.0,15.0,,,,,,,,,,,2,3,0,2,1,1,3,1,3,1,2,,,
+UBCV,2018,W,JAPN,200,,003,Beginning Japanese II A,Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,13,81.153846154,7.64685288,92.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,2,2,3,,,
+UBCV,2018,W,JAPN,200,,004,Beginning Japanese II A,Ihhwa Kim;Rebecca Fuk Hing Chau Choi;Ryuko Kubota,25,76.44,9.350044563,95.0,60.0,,,,,,,,,,,0,0,0,2,1,5,4,4,5,0,4,,,
+UBCV,2018,W,JAPN,200,,005,Beginning Japanese II A,Ihhwa Kim;Kaori Tanaka;Rebecca Fuk Hing Chau Choi,16,78.75,11.445523142,97.0,51.0,,,,,,,,,,,0,1,0,0,2,0,2,3,2,3,3,,,
+UBCV,2018,W,JAPN,200,,006,Beginning Japanese II A,Masahiko Nakata;Rebecca Fuk Hing Chau Choi,25,77.88,11.716512564,94.0,52.0,,,,,,,,,,,0,1,1,1,1,4,1,2,6,4,4,,,
+UBCV,2018,W,JAPN,201,,001,Beginning Japanese II B,Ihhwa Kim;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,26,74.846153846,9.978746646,92.0,57.0,,,,,,,,,,,0,0,3,0,4,2,3,7,2,4,1,,,
+UBCV,2018,W,JAPN,201,,002,Beginning Japanese II B,Masahiko Nakata;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,28,76.535714286,9.331278118,94.0,58.0,,,,,,,,,,,0,0,2,1,3,1,6,3,5,6,1,,,
+UBCV,2018,W,JAPN,201,,003,Beginning Japanese II B,Masahiko Nakata;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,13,73.307692308,7.972709863,87.0,62.0,,,,,,,,,,,0,0,0,1,2,4,2,1,1,2,0,,,
+UBCV,2018,W,JAPN,201,,004,Beginning Japanese II B,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,29,77.206896552,11.340128843,93.0,55.0,,,,,,,,,,,0,0,2,2,4,2,1,2,7,6,3,,,
+UBCV,2018,W,JAPN,201,,005,Beginning Japanese II B,Hiromi Uchida;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,14,75.0,9.372627905,91.0,58.0,,,,,,,,,,,0,0,1,1,1,3,0,3,3,1,1,,,
+UBCV,2018,W,JAPN,260,,001,Intensive Beginning Japanese II,Keiko Koizumi;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,21,69.857142857,19.571115743,90.0,2.0,,,,,,,,,,,1,2,0,3,2,1,1,4,4,2,1,,,
+UBCV,2018,W,JAPN,260,,002,Intensive Beginning Japanese II,Masahiko Nakata;Rebecca Fuk Hing Chau Choi,17,82.0,17.442763543,97.0,21.0,,,,,,,,,,,1,0,0,0,0,1,0,2,3,4,6,,,
+UBCV,2018,W,JAPN,320,,001,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,22,73.318181818,10.829353248,90.0,46.0,,,,,,,,,,,1,0,1,1,1,5,4,2,4,2,1,,,
+UBCV,2018,W,JAPN,320,,002,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,22,77.5,7.538788585,92.0,61.0,,,,,,,,,,,0,0,0,1,1,4,2,6,3,4,1,,,
+UBCV,2018,W,JAPN,320,,003,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,23,75.739130435,7.490705704,86.0,61.0,,,,,,,,,,,0,0,0,1,4,1,3,5,6,3,0,,,
+UBCV,2018,W,JAPN,321,,001,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,13,73.153846154,7.808608005,88.0,60.0,,,,,,,,,,,0,0,0,1,1,5,2,1,1,2,0,,,
+UBCV,2018,W,JAPN,321,,002,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,76.411764706,8.178163176,91.0,60.0,,,,,,,,,,,0,0,0,1,3,0,2,7,1,1,2,,,
+UBCV,2018,W,JAPN,321,,003,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,18,76.444444444,5.617433182,84.0,67.0,,,,,,,,,,,0,0,0,0,1,4,2,3,8,0,0,,,
+UBCV,2018,W,JAPN,322,,001,Intermediate Japanese II A,Haruyo Takahashi-Taucar;Haruyo Taucar;Rebecca Fuk Hing Chau Choi,18,72.555555556,8.739512856,88.0,54.0,,,,,,,,,,,0,1,1,1,0,2,8,1,3,1,0,,,
+UBCV,2018,W,JAPN,323,,001,Intermediate Japanese II B,Haruyo Takahashi-Taucar;Haruyo Taucar;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,13,77.461538462,7.611563403,87.0,65.0,,,,,,,,,,,0,0,0,0,2,2,1,2,3,3,0,,,
+UBCV,2018,W,JAPN,360,,001,Intensive Intermediate Japanese I,Belen Fan;Rebecca Fuk Hing Chau Choi,16,73.875,9.756194613,88.0,54.0,,,,,,,,,,,0,1,0,1,4,1,0,3,4,2,0,,,
+UBCV,2018,W,JAPN,361,,001,Intensive Intermediate Japanese II,Belen Fan;Rebecca Fuk Hing Chau Choi,14,75.857142857,8.094225319,85.0,61.0,,,,,,,,,,,0,0,0,1,1,3,0,3,4,2,0,,,
+UBCV,2018,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,19,71.421052632,5.993661369,87.0,62.0,,,,,,,,,,,0,0,0,1,4,6,3,4,0,1,0,,,
+UBCV,2018,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,20,70.65,7.527318667,88.0,58.0,,,,,,,,,,,0,0,1,3,3,4,3,4,1,1,0,,,
+UBCV,2018,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Maki Ode;Rebecca Fuk Hing Chau Choi;Saori Hoshi,23,78.826086957,6.102549198,87.0,66.0,,,,,,,,,,,0,0,0,0,2,1,2,7,6,5,0,,,
+UBCV,2018,W,JAPN,450,,001,Advanced Oral Communication I,Maki Ode;Rebecca Fuk Hing Chau Choi;Saori Hoshi,11,80.636363636,3.585323619,86.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,6,2,0,,,
+UBCV,2018,W,JAPN,452,,001,Readings in Modern Japanese Essays,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,7,78.428571429,5.411627693,85.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,3,1,0,,,
+UBCV,2018,W,JAPN,456,,001,Newspaper Japanese I,Hiromi Uchida;Rebecca Fuk Hing Chau Choi,6,82.5,9.934787366,92.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,2,0,1,2,,,
+UBCV,2019,S,JAPN,100,,921,Beginning Japanese IA,Keiko Koizumi;Rebecca Fuk Hing Chau Choi;Yuko Watanabe,9,66.555555556,20.174929437,87.0,23.0,,,,,,,,,,,1,0,2,1,0,0,1,0,3,1,0,,,
+UBCV,2019,S,JAPN,100,,922,Beginning Japanese IA,Maki Ode;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,14,75.5,12.965931691,90.0,43.0,,,,,,,,,,,1,0,1,1,0,1,0,3,5,1,1,,,
+UBCV,2019,S,JAPN,100,,923,Beginning Japanese IA,Hiromi Uchida;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,23,82.565217391,8.989013936,97.0,62.0,,,,,,,,,,,0,0,0,2,0,1,1,1,7,8,3,,,
+UBCV,2019,S,JAPN,100,,951,Beginning Japanese IA,Masumi Abe El-Khoury;Nicholas Hall;Rebecca Fuk Hing Chau Choi,15,70.066666667,12.870046435,88.0,50.0,,,,,,,,,,,0,2,2,1,2,1,0,1,3,3,0,,,
+UBCV,2019,S,JAPN,100,,952,Beginning Japanese IA,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,10,73.6,13.566298111,87.0,43.0,,,,,,,,,,,1,0,0,1,0,1,2,1,2,2,0,,,
+UBCV,2019,S,JAPN,100,,98A,Beginning Japanese IA,Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,21,73.142857143,16.941917584,94.0,35.0,,,,,,,,,,,2,2,1,0,2,1,2,1,4,2,4,,,
+UBCV,2019,S,JAPN,101,,922,Beginning Japanese IB,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,9,73.222222222,13.49794223,86.0,40.0,,,,,,,,,,,1,0,0,0,0,2,1,1,3,1,0,,,
+UBCV,2019,S,JAPN,101,,951,Beginning Japanese IB,Belen Fan;Nicholas Hall;Rebecca Fuk Hing Chau Choi,19,82.526315789,6.66140143,92.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,1,6,4,4,,,
+UBCV,2019,S,JAPN,200,,921,Beginning Japanese II A,Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,20,78.25,10.876701319,93.0,57.0,,,,,,,,,,,0,0,1,3,1,0,0,3,5,4,3,,,
+UBCV,2019,S,JAPN,200,,951,Beginning Japanese II A,Kaori Tanaka;Keiko Koizumi;Rebecca Fuk Hing Chau Choi,10,68.2,25.454971136,88.0,0.0,,,,,,,,,,,1,0,0,1,1,0,2,2,2,1,0,,,
+UBCV,2019,S,JAPN,201,,951,Beginning Japanese II B,Masahiko Nakata;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,12,72.0,10.269106361,92.0,55.0,,,,,,,,,,,0,0,2,0,1,3,3,1,1,0,1,,,
+UBCV,2019,S,JAPN,360,,921,Intensive Intermediate Japanese I,Belen Fan;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,13,73.384615385,6.397114734,85.0,62.0,,,,,,,,,,,0,0,0,1,0,5,3,0,3,1,0,,,
+UBCV,2019,W,JAPN,100,,001,Beginning Japanese IA,Ihhwa Kim;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,28,72.642857143,13.875676255,94.0,33.0,,,,,,,,,,,1,1,2,4,0,3,3,5,3,3,3,,,
+UBCV,2019,W,JAPN,100,,002,Beginning Japanese IA,Hiromi Uchida;Kaori Tanaka;Rebecca Fuk Hing Chau Choi,28,75.714285714,15.313651965,96.0,43.0,,,,,,,,,,,3,1,1,1,1,0,3,5,3,5,5,,,
+UBCV,2019,W,JAPN,100,,003,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,22,76.181818182,12.179750422,91.0,50.0,,,,,,,,,,,0,1,2,1,1,1,2,3,4,5,2,,,
+UBCV,2019,W,JAPN,100,,004,Beginning Japanese IA,Haruyo Takahashi-Taucar;Kaori Tanaka;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,28,67.892857143,21.741476466,98.0,16.0,,,,,,,,,,,5,2,1,0,4,2,1,3,4,2,4,,,
+UBCV,2019,W,JAPN,100,,005,Beginning Japanese IA,Hiromi Uchida;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,24,74.541666667,14.249268987,90.0,40.0,,,,,,,,,,,3,0,0,0,1,2,3,2,7,5,1,,,
+UBCV,2019,W,JAPN,100,,006,Beginning Japanese IA,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,23,82.260869565,8.640377682,93.0,63.0,,,,,,,,,,,0,0,0,1,1,2,2,0,2,11,4,,,
+UBCV,2019,W,JAPN,100,,008,Beginning Japanese IA,Kaori Tanaka;Nicholas Hall;Rebecca Fuk Hing Chau Choi,26,73.884615385,13.500598277,92.0,46.0,,,,,,,,,,,3,0,1,1,1,2,6,2,5,1,4,,,
+UBCV,2019,W,JAPN,100,,009,Beginning Japanese IA,Haruyo Takahashi-Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,30,77.933333333,11.246250972,94.0,52.0,,,,,,,,,,,0,1,1,3,0,3,1,3,9,6,3,,,
+UBCV,2019,W,JAPN,100,,010,Beginning Japanese IA,Haruyo Takahashi-Taucar;Nicholas Hall;Rebecca Fuk Hing Chau Choi,26,72.923076923,14.826794871,93.0,18.0,,,,,,,,,,,1,1,1,1,3,0,6,4,6,2,1,,,
+UBCV,2019,W,JAPN,100,,012,Beginning Japanese IA,Kaori Tanaka;Nicholas Hall;Rebecca Fuk Hing Chau Choi,25,70.44,16.368363795,93.0,28.0,,,,,,,,,,,2,2,2,2,2,1,4,3,1,2,4,,,
+UBCV,2019,W,JAPN,100,,013,Beginning Japanese IA,Kaori Tanaka;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,25,76.88,11.274307074,96.0,58.0,,,,,,,,,,,0,0,1,3,2,2,4,1,7,1,4,,,
+UBCV,2019,W,JAPN,100,,014,Beginning Japanese IA,Haruyo Takahashi-Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,30,76.133333333,17.508093367,93.0,6.0,,,,,,,,,,,1,3,0,1,1,0,3,5,6,5,5,,,
+UBCV,2019,W,JAPN,100,,021,Beginning Japanese IA,Chaeyeong Yoo;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,29,71.482758621,17.183091127,92.0,0.0,,,,,,,,,,,1,0,2,5,2,3,2,3,6,3,2,,,
+UBCV,2019,W,JAPN,100,,023,Beginning Japanese IA,Kaori Tanaka;Ken Sakamoto;Rebecca Fuk Hing Chau Choi,21,78.095238095,15.97468235,94.0,23.0,,,,,,,,,,,1,0,0,2,1,0,2,1,7,2,5,,,
+UBCV,2019,W,JAPN,100,,024,Beginning Japanese IA,Hiromi Uchida;Rebecca Fuk Hing Chau Choi;Yirun Wu,27,77.518518519,10.248340843,91.0,58.0,,,,,,,,,,,0,0,2,1,4,2,0,4,6,5,3,,,
+UBCV,2019,W,JAPN,100,,025,Beginning Japanese IA,Chaeyeong Yoo;Keiko Koizumi;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,28,76.857142857,9.698087959,92.0,52.0,,,,,,,,,,,0,1,1,1,1,3,5,3,7,5,1,,,
+UBCV,2019,W,JAPN,100,,026,Beginning Japanese IA,Kaori Tanaka;Ken Sakamoto;Rebecca Fuk Hing Chau Choi,27,75.333333333,14.907406523,93.0,26.0,,,,,,,,,,,1,2,0,1,2,2,3,2,7,4,3,,,
+UBCV,2019,W,JAPN,100,,99A,Beginning Japanese IA,Nicholas Hall;Rebecca Fuk Hing Chau Choi,33,67.121212121,17.537027926,89.0,14.0,,,,,,,,,,,3,2,4,2,3,3,4,3,6,3,0,,,
+UBCV,2019,W,JAPN,101,,002,Beginning Japanese IB,Chaeyeong Yoo;Hiromi Uchida;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,27,77.666666667,9.527288742,93.0,55.0,,,,,,,,,,,0,0,2,0,3,2,1,5,10,2,2,,,
+UBCV,2019,W,JAPN,101,,003,Beginning Japanese IB,Hiromi Uchida;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,20,80.05,6.916608539,90.0,62.0,,,,,,,,,,,0,0,0,1,0,0,3,4,7,2,3,,,
+UBCV,2019,W,JAPN,101,,004,Beginning Japanese IB,Haruyo Takahashi-Taucar;Rebecca Fuk Hing Chau Choi;Yirun Wu,20,71.4,21.387157977,95.0,0.0,,,,,,,,,,,1,2,2,0,1,2,3,0,4,2,3,,,
+UBCV,2019,W,JAPN,101,,005,Beginning Japanese IB,Haruyo Takahashi-Taucar;Ihhwa Kim;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,25,78.32,9.145672929,93.0,56.0,,,,,,,,,,,0,0,1,1,1,1,4,6,5,2,4,,,
+UBCV,2019,W,JAPN,101,,006,Beginning Japanese IB,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,27,79.555555556,14.959775125,91.0,13.0,,,,,,,,,,,1,0,0,1,0,1,2,4,8,7,3,,,
+UBCV,2019,W,JAPN,101,,008,Beginning Japanese IB,Nicholas Hall;Rebecca Fuk Hing Chau Choi,10,78.1,8.799621204,93.0,66.0,,,,,,,,,,,0,0,0,0,1,2,1,2,1,2,1,,,
+UBCV,2019,W,JAPN,101,,009,Beginning Japanese IB,Mason Leung;Nicholas Hall;Rebecca Fuk Hing Chau Choi,12,71.5,11.373813624,87.0,51.0,,,,,,,,,,,0,1,1,1,2,1,0,2,3,1,0,,,
+UBCV,2019,W,JAPN,101,,010,Beginning Japanese IB,Nicholas Hall;Rebecca Fuk Hing Chau Choi,10,75.8,10.293471502,88.0,55.0,,,,,,,,,,,0,0,1,0,1,1,1,1,3,2,0,,,
+UBCV,2019,W,JAPN,101,,011,Beginning Japanese IB,Keiko Koizumi;Rebecca Fuk Hing Chau Choi,26,74.961538462,13.334108952,95.0,37.0,,,,,,,,,,,1,1,1,0,2,5,3,2,6,1,4,,,
+UBCV,2019,W,JAPN,101,,012,Beginning Japanese IB,Keiko Koizumi;Rebecca Fuk Hing Chau Choi,18,74.0,12.117075943,96.0,55.0,,,,,,,,,,,0,0,1,2,4,1,3,1,2,1,3,,,
+UBCV,2019,W,JAPN,101,,99C,Beginning Japanese IB,Chaeyeong Yoo;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,19,75.894736842,20.368534385,94.0,2.0,,,,,,,,,,,1,0,1,1,0,1,2,1,6,3,3,,,
+UBCV,2019,W,JAPN,160,,001,Intensive Beginning Japanese I,Michiko Suzuki;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,11,64.272727273,17.424642947,89.0,30.0,,,,,,,,,,,1,2,2,0,2,0,1,0,2,1,0,,,
+UBCV,2019,W,JAPN,160,,002,Intensive Beginning Japanese I,Masahiko Nakata;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,11,79.0,10.039920318,92.0,60.0,,,,,,,,,,,0,0,0,1,1,0,2,1,2,3,1,,,
+UBCV,2019,W,JAPN,200,,001,Beginning Japanese II A,Hiromi Uchida;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,30,77.633333333,12.756292114,93.0,33.0,,,,,,,,,,,1,0,0,3,2,2,1,5,5,8,3,,,
+UBCV,2019,W,JAPN,200,,002,Beginning Japanese II A,Ihhwa Kim;Nicholas Hall;Rebecca Fuk Hing Chau Choi,26,76.576923077,12.225131744,91.0,36.0,,,,,,,,,,,1,0,0,3,0,2,5,2,7,4,2,,,
+UBCV,2019,W,JAPN,200,,004,Beginning Japanese II A,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,26,71.192307692,10.503406041,87.0,43.0,,,,,,,,,,,1,2,0,2,3,4,3,7,2,2,0,,,
+UBCV,2019,W,JAPN,200,,005,Beginning Japanese II A,Hiromi Uchida;Kaori Tanaka;Rebecca Fuk Hing Chau Choi,28,79.321428571,8.032589045,95.0,63.0,,,,,,,,,,,0,0,0,1,1,3,5,5,5,6,2,,,
+UBCV,2019,W,JAPN,200,,006,Beginning Japanese II A,Kaori Tanaka;Masahiko Nakata;Rebecca Fuk Hing Chau Choi,28,77.75,11.974123334,95.0,47.0,,,,,,,,,,,1,1,0,0,3,4,1,4,4,5,5,,,
+UBCV,2019,W,JAPN,201,,001,Beginning Japanese II B,Hiromi Uchida;Rebecca Fuk Hing Chau Choi,22,78.772727273,7.939844176,93.0,57.0,,,,,,,,,,,0,0,1,0,1,1,3,6,6,3,1,,,
+UBCV,2019,W,JAPN,201,,002,Beginning Japanese II B,Ihhwa Kim;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,24,72.416666667,10.709267286,87.0,50.0,,,,,,,,,,,0,2,0,2,4,3,4,2,2,5,0,,,
+UBCV,2019,W,JAPN,201,,004,Beginning Japanese II B,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,25,75.72,15.547025439,88.0,6.0,,,,,,,,,,,1,0,0,0,0,5,2,5,9,3,0,,,
+UBCV,2019,W,JAPN,201,,005,Beginning Japanese II B,Hiromi Uchida;Kaori Tanaka;Rebecca Fuk Hing Chau Choi,29,80.620689655,11.117597997,97.0,51.0,,,,,,,,,,,0,1,1,0,1,2,3,5,5,2,9,,,
+UBCV,2019,W,JAPN,201,,006,Beginning Japanese II B,Hiromi Uchida;Rebecca Fuk Hing Chau Choi,21,83.904761905,7.892431577,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,0,4,2,9,4,,,
+UBCV,2019,W,JAPN,260,,001,Intensive Beginning Japanese II,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,14,68.642857143,21.160947859,89.0,5.0,,,,,,,,,,,1,1,0,2,0,2,2,2,3,1,0,,,
+UBCV,2019,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,15,79.4,7.028513356,92.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,2,8,1,1,,,
+UBCV,2019,W,JAPN,320,,001,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,20,73.35,16.652090117,91.0,17.0,,,,,,,,,,,1,1,0,1,2,1,0,5,3,5,1,,,
+UBCV,2019,W,JAPN,320,,002,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Saori Hoshi,25,77.76,10.308895835,93.0,54.0,,,,,,,,,,,0,1,1,0,3,0,5,4,4,4,3,,,
+UBCV,2019,W,JAPN,320,,003,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,23,74.652173913,8.249565805,90.0,60.0,,,,,,,,,,,0,0,0,2,4,2,3,5,3,3,1,,,
+UBCV,2019,W,JAPN,321,,001,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,10,77.8,11.573917036,90.0,50.0,,,,,,,,,,,0,1,0,0,0,0,3,2,0,2,2,,,
+UBCV,2019,W,JAPN,321,,002,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,76.666666667,10.716369708,90.0,51.0,,,,,,,,,,,0,1,1,2,1,2,0,4,7,4,2,,,
+UBCV,2019,W,JAPN,321,,003,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,18,76.944444444,7.588475955,88.0,63.0,,,,,,,,,,,0,0,0,1,1,3,2,3,5,3,0,,,
+UBCV,2019,W,JAPN,322,,001,Intermediate Japanese II A,Haruyo Takahashi-Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,22,76.909090909,7.223698373,90.0,60.0,,,,,,,,,,,0,0,0,1,1,2,4,7,4,1,2,,,
+UBCV,2019,W,JAPN,323,,001,Intermediate Japanese II B,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,16,74.4375,7.117759479,85.0,54.0,,,,,,,,,,,0,1,0,0,0,2,5,5,2,1,0,,,
+UBCV,2019,W,JAPN,360,,001,Intensive Intermediate Japanese I,Belen Fan;Rebecca Fuk Hing Chau Choi,16,75.1875,6.472699076,87.0,62.0,,,,,,,,,,,0,0,0,1,1,3,3,4,3,1,0,,,
+UBCV,2019,W,JAPN,361,,001,Intensive Intermediate Japanese II,Belen Fan;Kyoko Hillman;Rebecca Fuk Hing Chau Choi,8,79.5,8.569047288,93.0,69.0,,,,,,,,,,,0,0,0,0,0,1,2,2,1,0,2,,,
+UBCV,2019,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,24,75.833333333,9.448564035,89.0,60.0,,,,,,,,,,,0,0,0,4,1,4,0,5,5,5,0,,,
+UBCV,2019,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,22,74.363636364,10.887062897,89.0,50.0,,,,,,,,,,,0,1,1,3,2,1,1,3,6,4,0,,,
+UBCV,2019,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,77.058823529,4.478707797,86.0,67.0,,,,,,,,,,,0,0,0,0,1,1,4,6,4,1,0,,,
+UBCV,2019,W,JAPN,450,,001,Advanced Oral Communication I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,9,77.444444444,7.418071028,91.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,4,0,1,1,,,
+UBCV,2019,W,JAPN,452,,001,Readings in Modern Japanese Essays,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,8,77.375,5.853875395,86.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,3,0,2,0,,,
+UBCV,2019,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Nicholas Hall;Rebecca Fuk Hing Chau Choi,11,79.636363636,6.20117291,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,1,2,1,,,
+UBCV,2019,W,JAPN,456,,001,Newspaper Japanese I,Hiromi Uchida;Rebecca Fuk Hing Chau Choi,10,79.9,8.862530364,90.0,63.0,,,,,,,,,,,0,0,0,1,0,1,1,2,1,2,2,,,
+UBCV,2020,S,JAPN,100,,921,Beginning Japanese IA,Keiko Koizumi;Kyoko Hillman;Miaoling Xue;Rebecca Fuk Hing Chau Choi,13,76.615384615,14.133520802,94.0,54.0,,,,,,,,,,,0,1,2,0,1,0,1,2,1,3,2,,,
+UBCV,2020,S,JAPN,100,,922,Beginning Japanese IA,Miaoling Xue;Michiko Suzuki;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,15,79.933333333,12.296728175,97.0,60.0,,,,,,,,,,,0,0,0,2,0,3,1,0,3,1,5,,,
+UBCV,2020,S,JAPN,100,,923,Beginning Japanese IA,Hiromi Uchida;Michiko Suzuki;Rebecca Fuk Hing Chau Choi;Saeko Suzuki,21,73.571428571,16.415149797,91.0,27.0,,,,,,,,,,,2,0,0,3,3,1,1,1,2,5,3,,,
+UBCV,2020,S,JAPN,100,,951,Beginning Japanese IA,Haruyo Takahashi-Taucar;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Rosaley Gai,17,82.411764706,5.613141094,91.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,4,3,7,1,,,
+UBCV,2020,S,JAPN,100,,952,Beginning Japanese IA,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saeko Suzuki,11,80.909090909,7.147790504,90.0,64.0,,,,,,,,,,,0,0,0,0,1,0,1,0,6,2,1,,,
+UBCV,2020,S,JAPN,100,,98A,Beginning Japanese IA,Ai Yamamoto;Miaoling Xue;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Rosaley Gai,49,68.93877551,17.610849122,90.0,0.0,,,,,,,,,,,4,1,4,4,5,3,6,7,9,5,1,,,
+UBCV,2020,S,JAPN,101,,922,Beginning Japanese IB,Haruyo Takahashi-Taucar;Kaori Tanaka;Masumi Abe El-Khoury;Miaoling Xue;Rebecca Fuk Hing Chau Choi,21,79.285714286,11.428660714,95.0,56.0,,,,,,,,,,,0,0,1,0,2,3,3,1,4,2,5,,,
+UBCV,2020,S,JAPN,101,,951,Beginning Japanese IB,Masumi Abe El-Khoury;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Saeko Suzuki,16,74.25,11.806777715,88.0,50.0,,,,,,,,,,,0,2,0,1,1,2,1,2,3,4,0,,,
+UBCV,2020,S,JAPN,200,,921,Beginning Japanese II A,Hiromi Uchida;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Saeko Suzuki,24,79.875,12.266293512,93.0,50.0,,,,,,,,,,,0,1,1,1,2,1,1,1,3,8,5,,,
+UBCV,2020,S,JAPN,200,,951,Beginning Japanese II A,Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Rosaley Gai,17,77.058823529,13.245143394,92.0,56.0,,,,,,,,,,,0,0,2,1,4,1,0,0,1,3,5,,,
+UBCV,2020,S,JAPN,201,,951,Beginning Japanese II B,Ai Yamamoto;Michiko Suzuki;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,19,81.789473684,11.697953037,94.0,51.0,,,,,,,,,,,0,1,0,0,0,4,0,2,3,1,8,,,
+UBCV,2020,S,JAPN,360,,921,Intensive Intermediate Japanese I,Ai Yamamoto;Belen Fan;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,29,76.413793103,6.625261404,87.0,61.0,,,,,,,,,,,0,0,0,1,2,3,7,6,5,5,0,,,
+UBCV,2020,S,JAPN,361,,951,Intensive Intermediate Japanese II,Ai Yamamoto;Kyoko Hillman;Rebecca Fuk Hing Chau Choi,19,76.947368421,8.746260688,92.0,64.0,,,,,,,,,,,0,0,0,0,4,3,1,5,2,2,2,,,
+UBCV,2020,W,JAPN,100,,001,Beginning Japanese IA,Jacob Teichrib;Jocab Teichrib;Michiko Suzuki;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,26,71.807692308,14.494189817,89.0,27.0,,,,,,,,,,,3,1,0,2,2,2,2,6,5,3,0,,,
+UBCV,2020,W,JAPN,100,,002,Beginning Japanese IA,Kaori Tanaka;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,74.068965517,19.797061532,95.0,0.0,,,,,,,,,,,2,1,2,0,2,5,3,1,2,2,9,,,
+UBCV,2020,W,JAPN,100,,003,Beginning Japanese IA,Chi Lok Cheung;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Richard Chi Lok Cheung;Tomoko Himeoka,26,72.961538462,18.82441132,95.0,7.0,,,,,,,,,,,1,3,1,0,2,3,3,3,1,5,4,,,
+UBCV,2020,W,JAPN,100,,004,Beginning Japanese IA,Ai Yamamoto;Chaeyeong Yoo;Kaori Tanaka;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,28,73.821428571,11.953780036,94.0,48.0,,,,,,,,,,,1,0,2,4,1,3,3,5,4,1,4,,,
+UBCV,2020,W,JAPN,100,,005,Beginning Japanese IA,Chi Lok Cheung;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Richard Chi Lok Cheung;Tomoko Himeoka,22,75.590909091,12.553349357,90.0,33.0,,,,,,,,,,,1,0,0,2,1,3,2,2,6,4,1,,,
+UBCV,2020,W,JAPN,100,,006,Beginning Japanese IA,Ai Yamamoto;Chaeyeong Yoo;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,36,74.194444444,15.747688165,95.0,13.0,,,,,,,,,,,2,0,0,2,3,6,4,3,8,5,3,,,
+UBCV,2020,W,JAPN,100,,008,Beginning Japanese IA,Jacob Teichrib;Jocab Teichrib;Michiko Suzuki;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,29,77.827586207,9.870840772,92.0,59.0,,,,,,,,,,,0,0,2,2,3,1,1,4,9,5,2,,,
+UBCV,2020,W,JAPN,100,,009,Beginning Japanese IA,Ai Yamamoto;Chaeyeong Yoo;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,36,80.361111111,8.81282435,92.0,51.0,,,,,,,,,,,0,1,0,0,1,4,3,5,8,10,4,,,
+UBCV,2020,W,JAPN,100,,021,Beginning Japanese IA,Jacob Teichrib;Michiko Suzuki;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,25,68.64,23.820299466,89.0,0.0,,,,,,,,,,,3,0,2,0,0,2,5,3,7,3,0,,,
+UBCV,2020,W,JAPN,100,,023,Beginning Japanese IA,Jacob Teichrib;Kaori Tanaka;Michiko Suzuki;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,24,72.416666667,13.088051858,90.0,38.0,,,,,,,,,,,2,0,1,2,2,3,4,2,3,4,1,,,
+UBCV,2020,W,JAPN,100,,024,Beginning Japanese IA,Hiromi Uchida;Ihhwa Kim;Makiko Hamaguchi;Rebecca Fuk Hing Chau Choi,30,77.966666667,15.116748723,90.0,13.0,,,,,,,,,,,1,0,2,1,0,0,3,5,4,11,3,,,
+UBCV,2020,W,JAPN,100,,025,Beginning Japanese IA,Kaori Tanaka;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Ryu Matsuyama,24,75.875,15.218159918,96.0,41.0,,,,,,,,,,,1,1,3,0,2,2,0,5,1,4,5,,,
+UBCV,2020,W,JAPN,100,,026,Beginning Japanese IA,Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Ryu Matsuyama,28,78.0,15.771516755,96.0,28.0,,,,,,,,,,,2,1,0,1,2,1,1,4,3,5,8,,,
+UBCV,2020,W,JAPN,100,,99A,Beginning Japanese IA,Ai Yamamoto;Jamie Coo;Nicholas Hall;Rebecca Fuk Hing Chau Choi,49,74.87755102,14.721912032,92.0,2.0,,,,,,,,,,,2,0,1,4,2,4,7,7,10,10,2,,,
+UBCV,2020,W,JAPN,100,,99B,Beginning Japanese IA,Ai Yamamoto;Jamie Coo;Nicholas Hall;Rebecca Fuk Hing Chau Choi,39,68.538461538,20.637021095,92.0,0.0,,,,,,,,,,,4,0,2,3,3,6,5,7,4,3,2,,,
+UBCV,2020,W,JAPN,100,,99C,Beginning Japanese IA,Chaeyeong Yoo;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Soyeon Lee,46,78.434782609,11.044661202,95.0,47.0,,,,,,,,,,,1,0,2,2,3,2,3,8,14,4,7,,,
+UBCV,2020,W,JAPN,101,,002,Beginning Japanese IB,Jamie Coo;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,12,70.916666667,7.763063282,82.0,58.0,,,,,,,,,,,0,0,1,2,1,3,1,2,2,0,0,,,
+UBCV,2020,W,JAPN,101,,003,Beginning Japanese IB,Joon Woo Park;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Soyeon Lee,14,71.214285714,22.861383535,90.0,0.0,,,,,,,,,,,1,0,0,1,2,3,0,0,2,4,1,,,
+UBCV,2020,W,JAPN,101,,004,Beginning Japanese IB,Haruyo Takahashi-Taucar;Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi,13,78.076923077,9.742189508,93.0,62.0,,,,,,,,,,,0,0,0,1,1,2,1,2,3,0,3,,,
+UBCV,2020,W,JAPN,101,,005,Beginning Japanese IB,Chaeyeong Yoo;Haruyo Takahashi-Taucar;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,24,78.125,13.049446099,92.0,41.0,,,,,,,,,,,1,1,1,0,0,1,4,4,3,4,5,,,
+UBCV,2020,W,JAPN,101,,006,Beginning Japanese IB,Chaeyeong Yoo;Misuzu Kazama;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Soyeon Lee,25,80.28,10.039588305,94.0,50.0,,,,,,,,,,,0,1,0,1,0,1,3,4,7,4,4,,,
+UBCV,2020,W,JAPN,101,,008,Beginning Japanese IB,Nicholas Hall;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,78.6875,8.837184695,90.0,60.0,,,,,,,,,,,0,0,0,1,2,1,0,1,7,3,1,,,
+UBCV,2020,W,JAPN,101,,009,Beginning Japanese IB,Belen Fan;Hiromi Uchida;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,22,83.863636364,7.523268379,91.0,61.0,,,,,,,,,,,0,0,0,1,0,0,0,6,4,4,7,,,
+UBCV,2020,W,JAPN,101,,011,Beginning Japanese IB,Kaori Tanaka;Keiko Koizumi;Rebecca Fuk Hing Chau Choi;Ruy Matsuyama;Ryu Matsuyama,24,70.25,22.255922514,95.0,0.0,,,,,,,,,,,2,0,2,0,6,1,1,4,3,2,3,,,
+UBCV,2020,W,JAPN,101,,012,Beginning Japanese IB,Kaori Tanaka;Keiko Koizumi;Rebecca Fuk Hing Chau Choi;Ruy Matsuyama;Ryu Matsuyama,27,79.0,9.252858186,95.0,58.0,,,,,,,,,,,0,0,1,0,2,4,2,6,4,4,4,,,
+UBCV,2020,W,JAPN,101,,99C,Beginning Japanese IB,Jamie Coo;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,29,73.551724138,16.597302291,94.0,1.0,,,,,,,,,,,1,0,0,3,3,3,5,1,7,5,1,,,
+UBCV,2020,W,JAPN,160,,002,Intensive Beginning Japanese I,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,25,78.48,10.384764481,93.0,50.0,,,,,,,,,,,0,1,1,0,1,2,3,1,8,6,2,,,
+UBCV,2020,W,JAPN,200,,001,Beginning Japanese II A,Hiromi Uchida;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,27,81.185185185,8.105254882,96.0,61.0,,,,,,,,,,,0,0,0,1,1,2,1,5,7,6,4,,,
+UBCV,2020,W,JAPN,200,,002,Beginning Japanese II A,Hiromi Uchida;Ihhwa Kim;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,28,77.357142857,8.646190708,91.0,58.0,,,,,,,,,,,0,0,1,0,3,3,4,4,6,6,1,,,
+UBCV,2020,W,JAPN,200,,005,Beginning Japanese II A,Hiromi Uchida;Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Ruy Matsuyama;Ryu Matsuyama,28,75.607142857,13.422864092,90.0,25.0,,,,,,,,,,,1,1,0,0,2,6,3,2,6,5,2,,,
+UBCV,2020,W,JAPN,200,,006,Beginning Japanese II A,Ai Yamamoto;Jamie Coo;Kaori Tanaka;Nicholas Hall;Rebecca Fuk Hing Chau Choi,28,74.714285714,8.860470445,90.0,56.0,,,,,,,,,,,0,0,1,4,0,4,4,7,5,2,1,,,
+UBCV,2020,W,JAPN,200,,007,Beginning Japanese II A,Ihhwa Kim;Makiko Hamaguchi;Rebecca Fuk Hing Chau Choi,25,77.04,9.731735029,92.0,55.0,,,,,,,,,,,0,0,1,0,3,4,3,4,3,3,4,,,
+UBCV,2020,W,JAPN,201,,001,Beginning Japanese II B,Hiromi Uchida;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,21,78.047619048,6.785839598,90.0,59.0,,,,,,,,,,,0,0,1,0,0,2,4,4,8,1,1,,,
+UBCV,2020,W,JAPN,201,,002,Beginning Japanese II B,Hiromi Uchida;Ihhwa Kim;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,23,79.434782609,8.33299077,91.0,65.0,,,,,,,,,,,0,0,0,0,3,1,3,4,4,5,3,,,
+UBCV,2020,W,JAPN,201,,004,Beginning Japanese II B,Ihhwa Kim;Makiko Hamaguchi;Rebecca Fuk Hing Chau Choi,23,75.434782609,6.920497138,87.0,62.0,,,,,,,,,,,0,0,0,1,2,4,4,4,7,1,0,,,
+UBCV,2020,W,JAPN,201,,005,Beginning Japanese II B,Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Ryu Matsuyama,21,79.19047619,11.070768029,94.0,51.0,,,,,,,,,,,0,1,0,1,1,1,3,4,2,5,3,,,
+UBCV,2020,W,JAPN,201,,006,Beginning Japanese II B,Hiromi Uchida;Jamie Coo;Nicholas Hall;Rebecca Fuk Hing Chau Choi,15,75.866666667,8.798268228,86.0,51.0,,,,,,,,,,,0,1,0,0,1,2,1,4,5,1,0,,,
+UBCV,2020,W,JAPN,201,,007,Beginning Japanese II B,Ihhwa Kim;Makiko Hamaguchi;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,25,74.44,14.280172735,91.0,20.0,,,,,,,,,,,1,0,0,3,1,2,5,4,4,3,2,,,
+UBCV,2020,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,75.517241379,8.757122365,90.0,60.0,,,,,,,,,,,0,0,0,4,1,5,5,5,3,4,2,,,
+UBCV,2020,W,JAPN,320,,001,Intermediate Japanese I A,Kyoko Hillman;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saeri Yagi,21,76.714285714,8.4978989,88.0,54.0,,,,,,,,,,,0,1,0,1,0,2,4,5,5,3,0,,,
+UBCV,2020,W,JAPN,320,,002,Intermediate Japanese I A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi;Saori Hoshi,18,77.666666667,7.436001456,90.0,66.0,,,,,,,,,,,0,0,0,0,2,1,6,1,4,3,1,,,
+UBCV,2020,W,JAPN,320,,003,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Tomoko Himeoka,20,75.05,8.780810417,88.0,50.0,,,,,,,,,,,0,1,0,1,2,1,2,7,4,2,0,,,
+UBCV,2020,W,JAPN,321,,001,Intermediate Japanese I B,Joon Woo Park;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Soyeon Lee,8,76.25,6.11204899,84.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,1,3,0,0,,,
+UBCV,2020,W,JAPN,321,,002,Intermediate Japanese I B,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi;Saori Hoshi,19,75.052631579,11.635547469,90.0,41.0,,,,,,,,,,,1,0,0,2,1,1,1,5,6,1,1,,,
+UBCV,2020,W,JAPN,321,,003,Intermediate Japanese I B,Joon Woo Park;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Soyeon Lee,21,75.380952381,6.430211431,90.0,61.0,,,,,,,,,,,0,0,0,1,2,2,3,9,3,0,1,,,
+UBCV,2020,W,JAPN,322,,001,Intermediate Japanese II A,Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,25,77.68,10.467091287,93.0,55.0,,,,,,,,,,,0,0,1,1,4,1,2,4,5,3,4,,,
+UBCV,2020,W,JAPN,323,,001,Intermediate Japanese II B,Ihhwa Kim;Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,24,77.458333333,8.382067643,92.0,62.0,,,,,,,,,,,0,0,0,1,2,3,4,3,6,3,2,,,
+UBCV,2020,W,JAPN,360,,001,Intensive Intermediate Japanese I,Belen Fan;Ihhwa Kim;Makiko Hamaguchi;Rebecca Fuk Hing Chau Choi,21,75.761904762,10.168110748,93.0,45.0,,,,,,,,,,,1,0,0,0,3,2,3,4,5,2,1,,,
+UBCV,2020,W,JAPN,361,,001,Intensive Intermediate Japanese II,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saeri Yagi,15,76.133333333,9.218511397,92.0,62.0,,,,,,,,,,,0,0,0,2,1,1,3,3,2,2,1,,,
+UBCV,2020,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Michiko Suzuki;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,26,72.653846154,11.713043354,94.0,47.0,,,,,,,,,,,1,1,1,1,3,4,5,4,2,2,2,,,
+UBCV,2020,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Jacob Teichrib;Michiko Suzuki;Rebecca Fuk Hing Chau Choi;Seika Taniguchi,21,74.047619048,11.061085799,93.0,55.0,,,,,,,,,,,0,0,2,2,2,2,4,3,1,2,3,,,
+UBCV,2020,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,24,73.458333333,11.736154346,89.0,33.0,,,,,,,,,,,1,0,0,2,3,2,6,2,4,4,0,,,
+UBCV,2020,W,JAPN,450,,001,Advanced Oral Communication I,Rebecca Fuk Hing Chau Choi;Saeko Suzuki;Saori Hoshi,8,78.125,13.747077612,87.0,45.0,,,,,,,,,,,1,0,0,0,0,0,0,2,1,4,0,,,
+UBCV,2020,W,JAPN,452,,001,Readings in Modern Japanese Essays,Ihhwa Kim;Makiko Hamaguchi;Rebecca Fuk Hing Chau Choi,16,78.0,10.321498599,85.0,43.0,,,,,,,,,,,1,0,0,0,0,1,1,3,7,3,0,,,
+UBCV,2020,W,JAPN,456,,001,Newspaper Japanese I,Hiromi Uchida;Kanade Suzuki;Rebecca Fuk Hing Chau Choi,8,82.625,4.56500665,89.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,3,0,,,
+UBCV,2021,S,JAPN,100,,921,Beginning Japanese IA,Kaori Tanaka;Kyoko Hillman;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,28,82.75,10.693109585,96.0,56.0,,,,,,,,,,,0,0,1,2,0,1,1,5,4,6,8,,,
+UBCV,2021,S,JAPN,100,,922,Beginning Japanese IA,Nicholas Hall;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi;Rei Sakuma,27,76.740740741,10.267920891,92.0,51.0,,,,,,,,,,,0,1,1,1,2,1,3,5,9,2,2,,,
+UBCV,2021,S,JAPN,100,,923,Beginning Japanese IA,Haruyo Takahashi-Taucar;Michiko Suzuki;Motoki Nozawa;Rebecca Fuk Hing Chau Choi;Rei Sakuma,20,74.1,12.45581665,92.0,56.0,,,,,,,,,,,0,0,2,2,5,2,0,1,1,4,3,,,
+UBCV,2021,S,JAPN,100,,951,Beginning Japanese IA,Ai Yamamoto;Haruyo Takahashi-Taucar;Motoki Nozawa;Nicholas Hall;Rebecca Fuk Hing Chau Choi,10,77.0,5.436502143,83.0,65.0,,,,,,,,,,,0,0,0,0,1,0,2,3,4,0,0,,,
+UBCV,2021,S,JAPN,100,,952,Beginning Japanese IA,Masumi Abe El-Khoury;Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,74.5,22.354716132,93.0,0.0,,,,,,,,,,,1,0,0,2,1,1,1,0,3,5,2,,,
+UBCV,2021,S,JAPN,100,,98A,Beginning Japanese IA,Ai Yamamoto;Jacob Teichrib;Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi,47,78.468085106,14.543564338,94.0,1.0,,,,,,,,,,,1,1,0,1,3,3,3,8,10,11,6,,,
+UBCV,2021,S,JAPN,101,,922,Beginning Japanese IB,Jacob Teichrib;Kaori Tanaka;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,22,75.545454545,14.391555966,92.0,42.0,,,,,,,,,,,1,1,2,2,0,0,2,5,1,5,3,,,
+UBCV,2021,S,JAPN,101,,951,Beginning Japanese IB,Jacob Teichrib;Masumi Abe El-Khoury;Noriyuki Kawada;Rebecca Fuk Hing Chau Choi,17,75.176470588,21.148981341,92.0,0.0,,,,,,,,,,,1,0,0,1,0,2,1,4,3,2,3,,,
+UBCV,2021,S,JAPN,101,,952,Beginning Japanese IB,Mingqi Zhang;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,10,78.3,7.902882737,90.0,62.0,,,,,,,,,,,0,0,0,1,0,1,1,2,3,1,1,,,
+UBCV,2021,S,JAPN,200,,921,Beginning Japanese II A,Hiromi Uchida;Jacob Teichrib;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,22,74.0,16.838165266,93.0,14.0,,,,,,,,,,,1,1,0,1,2,1,3,3,6,3,1,,,
+UBCV,2021,S,JAPN,201,,951,Beginning Japanese II B,Misuzu Kazama;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Rei Sakuma,18,77.444444444,10.522928592,90.0,57.0,,,,,,,,,,,0,0,2,2,0,0,2,2,4,5,1,,,
+UBCV,2021,S,JAPN,360,,921,Intensive Intermediate Japanese I,Ai Yamamoto;Ihhwa Kim;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Rui Ding,16,74.75,9.595137658,87.0,55.0,,,,,,,,,,,0,0,1,2,2,0,1,1,8,1,0,,,
+UBCV,2021,S,JAPN,361,,951,Intensive Intermediate Japanese II,Ai Yamamoto;Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Rui Ding,12,79.416666667,5.107184482,86.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,4,5,1,0,,,
+UBCV,2021,S,JAPN,424,,921,Japanese for Professional Life I,Ai Yamamoto;Ihhwa Kim;Rebecca Fuk Hing Chau Choi,19,77.368421053,5.842474041,88.0,68.0,,,,,,,,,,,0,0,0,0,0,4,4,4,4,3,0,,,
+UBCV,2021,W,JAPN,100,,001,Beginning Japanese IA,Jose Manuel Escalona Echaniz;Michiko Suzuki;Rebecca Fuk Hing Chau Choi,24,72.458333333,17.049746056,95.0,12.0,,,,,,,,,,,2,0,0,1,3,5,2,3,3,2,3,,,
+UBCV,2021,W,JAPN,100,,002,Beginning Japanese IA,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,29,79.034482759,7.452146185,94.0,67.0,,,,,,,,,,,0,0,0,0,1,4,6,3,8,4,3,,,
+UBCV,2021,W,JAPN,100,,003,Beginning Japanese IA,Chiao-Chen Hsu;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,22,72.954545455,15.478025199,88.0,31.0,,,,,,,,,,,2,1,0,1,1,2,2,4,4,5,0,,,
+UBCV,2021,W,JAPN,100,,004,Beginning Japanese IA,Haruyo Takahashi-Taucar;Misuzu Kazama;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,17,79.352941176,12.932232872,96.0,41.0,,,,,,,,,,,1,0,0,0,1,1,2,2,5,1,4,,,
+UBCV,2021,W,JAPN,100,,005,Beginning Japanese IA,Chiao-Chen Hsu;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,24,73.5,16.99872118,89.0,9.0,,,,,,,,,,,1,1,0,2,0,3,4,3,3,7,0,,,
+UBCV,2021,W,JAPN,100,,006,Beginning Japanese IA,Jose Manuel Escalona Echaniz;Michiko Suzuki;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,26,71.230769231,18.726041103,93.0,19.0,,,,,,,,,,,3,1,1,2,0,2,4,3,4,4,2,,,
+UBCV,2021,W,JAPN,100,,007,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Suzuno Seki;Yasuko Matsumoto,26,72.5,15.572411502,95.0,28.0,,,,,,,,,,,2,2,1,2,2,2,2,2,6,2,3,,,
+UBCV,2021,W,JAPN,100,,008,Beginning Japanese IA,Kaori Tanaka;Michiko Suzuki;Rebecca Fuk Hing Chau Choi;Roy Chen,28,74.214285714,15.024318911,93.0,25.0,,,,,,,,,,,1,0,2,2,6,0,2,2,4,6,3,,,
+UBCV,2021,W,JAPN,100,,009,Beginning Japanese IA,Lilian Higashikata;Mingqi Zhang;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Sayuri Higashikata,28,78.428571429,14.715646929,95.0,18.0,,,,,,,,,,,1,0,0,1,2,3,2,3,3,10,3,,,
+UBCV,2021,W,JAPN,100,,010,Beginning Japanese IA,Kanade Suzuki;Makiko Hamaguchi;Nicholas Hall;Rebecca Fuk Hing Chau Choi,21,72.476190476,13.017753445,87.0,46.0,,,,,,,,,,,2,2,0,1,2,1,1,3,5,4,0,,,
+UBCV,2021,W,JAPN,100,,021,Beginning Japanese IA,Michiko Suzuki;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,25,72.76,11.741237868,89.0,51.0,,,,,,,,,,,0,1,3,2,4,1,1,6,1,6,0,,,
+UBCV,2021,W,JAPN,100,,023,Beginning Japanese IA,Michiko Suzuki;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,28,67.892857143,23.735173595,90.0,0.0,,,,,,,,,,,6,0,0,1,1,4,4,2,0,9,1,,,
+UBCV,2021,W,JAPN,100,,025,Beginning Japanese IA,Kaori Tanaka;Keigo Imamura;Rebecca Fuk Hing Chau Choi,25,77.24,10.917417277,96.0,55.0,,,,,,,,,,,0,0,2,0,1,6,3,4,2,3,4,,,
+UBCV,2021,W,JAPN,100,,027,Beginning Japanese IA,Haruyo Takahashi-Taucar;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,23,68.695652174,20.312187973,90.0,10.0,,,,,,,,,,,3,0,1,1,2,2,3,4,3,3,1,,,
+UBCV,2021,W,JAPN,101,,002,Beginning Japanese IB,Ihhwa Kim;Kaori Tanaka;Keigo Imamura;Myoung Gyu Cho;Nicholas Hall;Rebecca Fuk Hing Chau Choi,27,75.592592593,13.284633284,89.0,47.0,,,,,,,,,,,2,2,1,0,1,1,2,4,5,9,0,,,
+UBCV,2021,W,JAPN,101,,003,Beginning Japanese IB,Haruyo Takahashi-Taucar;Masumi Abe El-Khoury;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,14,73.928571429,22.778074092,91.0,0.0,,,,,,,,,,,1,0,0,1,0,0,2,4,1,4,1,,,
+UBCV,2021,W,JAPN,101,,004,Beginning Japanese IB,Haruyo Takahashi-Taucar;Kyoko Hillman;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,10,69.2,19.222671799,91.0,24.0,,,,,,,,,,,1,1,0,0,1,2,1,1,1,1,1,,,
+UBCV,2021,W,JAPN,101,,005,Beginning Japanese IB,Chiao-Chen Hsu;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,24,78.916666667,9.078961187,93.0,61.0,,,,,,,,,,,0,0,0,2,2,2,1,3,8,3,3,,,
+UBCV,2021,W,JAPN,101,,006,Beginning Japanese IB,Chiao-Chen Hsu;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,21,77.523809524,9.173979767,91.0,56.0,,,,,,,,,,,0,0,1,1,1,1,4,3,6,2,2,,,
+UBCV,2021,W,JAPN,101,,008,Beginning Japanese IB,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,18,77.833333333,11.413356469,94.0,57.0,,,,,,,,,,,0,0,2,0,1,2,3,0,6,0,4,,,
+UBCV,2021,W,JAPN,101,,009,Beginning Japanese IB,Hiromi Uchida;Rebecca Fuk Hing Chau Choi;Suzuno Seki;Yasuko Matsumoto,11,81.090909091,5.664883855,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,3,1,4,2,1,,,
+UBCV,2021,W,JAPN,101,,011,Beginning Japanese IB,Haruyo Takahashi-Taucar;Kaori Tanaka;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,21,72.047619048,18.18646802,92.0,21.0,,,,,,,,,,,2,2,1,1,0,2,2,1,3,5,2,,,
+UBCV,2021,W,JAPN,101,,012,Beginning Japanese IB,Haruyo Takahashi-Taucar;Kaori Tanaka;Motoki Nozawa;Rebecca Fuk Hing Chau Choi,22,73.590909091,11.391973327,91.0,46.0,,,,,,,,,,,1,1,0,2,2,0,4,5,5,0,2,,,
+UBCV,2021,W,JAPN,160,,002,Intensive Beginning Japanese I,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,16,78.1875,9.860485113,94.0,60.0,,,,,,,,,,,0,0,0,2,1,1,1,2,4,4,1,,,
+UBCV,2021,W,JAPN,200,,001,Beginning Japanese II A,Hidemi Shiga;Hiromi Uchida;Mari Nagase;Rebecca Fuk Hing Chau Choi;Sharalyn Orbaugh;Stefania Burk;Suzuno Seki;Yasuko Matsumoto,22,72.136363636,16.441224188,92.0,19.0,,,,,,,,,,,1,0,4,3,0,1,0,4,4,4,1,,,
+UBCV,2021,W,JAPN,200,,002,Beginning Japanese II A,Hidemi Shiga;Hiromi Uchida;Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Suzuno Seki;Yasuko Matsumoto,25,73.84,12.126692322,91.0,43.0,,,,,,,,,,,2,0,1,0,4,2,4,2,5,4,1,,,
+UBCV,2021,W,JAPN,200,,004,Beginning Japanese II A,Lilian Higashikata;Mingqi Zhang;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Sayuri Higashikata,26,75.5,7.479304781,93.0,56.0,,,,,,,,,,,0,0,1,1,1,3,7,6,6,0,1,,,
+UBCV,2021,W,JAPN,200,,005,Beginning Japanese II A,Kaori Tanaka;Rebecca Fuk Hing Chau Choi;Roy Chen,28,79.821428571,9.76028829,94.0,56.0,,,,,,,,,,,0,0,1,1,1,1,6,4,5,3,6,,,
+UBCV,2021,W,JAPN,200,,006,Beginning Japanese II A,Kanade Suzuki;Makiko Hamaguchi;Nicholas Hall;Rebecca Fuk Hing Chau Choi,20,69.2,15.853274608,87.0,22.0,,,,,,,,,,,3,0,1,1,1,1,3,5,4,1,0,,,
+UBCV,2021,W,JAPN,200,,007,Beginning Japanese II A,Ihhwa Kim;Lilian Higashikata;Mingqi Zhang;Misuzu Kazama;Rebecca Fuk Hing Chau Choi;Sayuri Higashikata,26,68.730769231,22.167647944,93.0,6.0,,,,,,,,,,,3,0,0,1,2,7,1,1,7,2,2,,,
+UBCV,2021,W,JAPN,201,,001,Beginning Japanese II B,Hiromi Uchida;Rebecca Fuk Hing Chau Choi;Suzuno Seki;Yasuko Matsumoto,17,76.941176471,10.796241176,90.0,42.0,,,,,,,,,,,1,0,0,0,0,2,3,3,5,2,1,,,
+UBCV,2021,W,JAPN,201,,002,Beginning Japanese II B,Hiromi Uchida;Rebecca Fuk Hing Chau Choi;Suzuno Seki;Yasuko Matsumoto,16,70.125,20.019573755,85.0,0.0,,,,,,,,,,,1,0,0,1,3,1,1,4,4,1,0,,,
+UBCV,2021,W,JAPN,201,,003,Beginning Japanese II B,Chiao-Chen Hsu;Misuzu Kazama;Rebecca Fuk Hing Chau Choi,10,79.1,8.047774019,90.0,64.0,,,,,,,,,,,0,0,0,0,1,0,3,1,2,2,1,,,
+UBCV,2021,W,JAPN,201,,005,Beginning Japanese II B,Kaori Tanaka;Keigo Imamura;Rebecca Fuk Hing Chau Choi,25,73.8,11.416362526,89.0,50.0,,,,,,,,,,,0,1,2,2,3,2,3,3,2,7,0,,,
+UBCV,2021,W,JAPN,201,,007,Beginning Japanese II B,Ihhwa Kim;Kyle Tran;Makiko Hamaguchi;Mingqi Zhang;Nicholas Hall;Rebecca Fuk Hing Chau Choi;Risha Skolrood,23,72.434782609,8.706455739,91.0,55.0,,,,,,,,,,,0,0,1,1,6,2,5,3,3,1,1,,,
+UBCV,2021,W,JAPN,260,,002,Intensive Beginning Japanese II,Noriyuki Kawada;Peifen Hsieh;Rebecca Fuk Hing Chau Choi,21,75.285714286,7.817562645,93.0,63.0,,,,,,,,,,,0,0,0,1,3,3,3,4,5,1,1,,,
+UBCV,2021,W,JAPN,320,,001,Intermediate Japanese I A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi,19,72.684210526,10.816924145,87.0,46.0,,,,,,,,,,,1,0,0,4,1,3,0,5,1,4,0,,,
+UBCV,2021,W,JAPN,320,,002,Intermediate Japanese I A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,75.458333333,7.401405076,89.0,60.0,,,,,,,,,,,0,0,0,2,1,3,6,5,4,3,0,,,
+UBCV,2021,W,JAPN,320,,003,Intermediate Japanese I A,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,19,73.789473684,6.980758852,85.0,55.0,,,,,,,,,,,0,0,1,1,1,1,6,6,2,1,0,,,
+UBCV,2021,W,JAPN,321,,001,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,9,73.0,5.787918451,80.0,63.0,,,,,,,,,,,0,0,0,1,1,2,2,1,2,0,0,,,
+UBCV,2021,W,JAPN,321,,002,Intermediate Japanese I B,Kyoko Hillman;Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi;Saori Hoshi,18,72.277777778,8.80377964,85.0,51.0,,,,,,,,,,,0,1,0,1,2,3,4,3,3,1,0,,,
+UBCV,2021,W,JAPN,321,,003,Intermediate Japanese I B,Masumi Abe El-Khoury;Rebecca Fuk Hing Chau Choi,8,79.25,3.011881235,84.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,2,5,0,0,,,
+UBCV,2021,W,JAPN,322,,001,Intermediate Japanese II A,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,18,75.333333333,7.380419245,85.0,58.0,,,,,,,,,,,0,0,1,0,2,2,2,5,5,1,0,,,
+UBCV,2021,W,JAPN,323,,001,Intermediate Japanese II B,Kyoko Hillman;Rebecca Fuk Hing Chau Choi;Saori Hoshi,16,78.3125,8.316399461,89.0,57.0,,,,,,,,,,,0,0,1,0,1,1,1,3,8,1,0,,,
+UBCV,2021,W,JAPN,360,,001,Intensive Intermediate Japanese I,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,23,74.869565217,8.781718344,88.0,58.0,,,,,,,,,,,0,0,1,2,2,3,1,6,5,3,0,,,
+UBCV,2021,W,JAPN,361,,001,Intensive Intermediate Japanese II,Kyoko Hillman;Rebecca Fuk Hing Chau Choi,17,78.176470588,7.723626853,88.0,61.0,,,,,,,,,,,0,0,0,1,0,1,4,4,2,5,0,,,
+UBCV,2021,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,21,74.571428571,10.60458122,95.0,55.0,,,,,,,,,,,0,0,1,4,1,2,2,4,4,2,1,,,
+UBCV,2021,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Michiko Suzuki;Rebecca Fuk Hing Chau Choi,18,72.166666667,17.358673031,91.0,13.0,,,,,,,,,,,1,0,0,2,3,1,2,3,3,2,1,,,
+UBCV,2021,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,27,76.481481481,7.397350723,88.0,62.0,,,,,,,,,,,0,0,0,2,3,1,3,9,4,5,0,,,
+UBCV,2021,W,JAPN,422,,001,Classical Japanese I,Joshua Scott Mostow;Rebecca Fuk Hing Chau Choi,17,78.058823529,16.192091388,94.0,37.0,,,,,,,,,,,1,0,2,0,1,1,0,3,1,2,6,,,
+UBCV,2021,W,JAPN,450,,001,Advanced Oral Communication I,Ihhwa Kim;Rebecca Fuk Hing Chau Choi;Saori Hoshi,6,78.333333333,3.386246693,81.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,4,0,0,,,
+UBCV,2021,W,JAPN,452,,001,Readings in Modern Japanese Essays,Ihhwa Kim;Rebecca Fuk Hing Chau Choi,11,76.727272727,4.149479705,82.0,70.0,,,,,,,,,,,0,0,0,0,0,2,1,4,4,0,0,,,
+UBCV,2021,W,JAPN,453,,001,Readings in Modern Japanese Literature,Christina Yi;Rebecca Fuk Hing Chau Choi;Yuki Ohsawa,15,74.733333333,10.606377237,88.0,56.0,,,,,,,,,,,0,0,1,2,2,1,0,2,4,3,0,,,
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Ayaka Yoshimizu;Rebecca Fuk Hing Chau Choi;Saori Hoshi,9,72.444444444,9.382311963,87.0,58.0,,,,,,,,,,,0,0,1,1,0,3,1,1,1,1,0,,,
+UBCV,2021,S,JAPN,100,,98A,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,47,78.5,,94.0,1.0,,,,,,,,,,,,,,,,,,8,10,11,6,82.0,87.0,75.5
+UBCV,2021,S,JAPN,100,,921,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,28,82.8,,96.0,56.0,,,,,,,,,,,,,,,,,,,,6,8,85.0,90.3,78.0
+UBCV,2021,S,JAPN,100,,922,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,27,76.7,,92.0,51.0,,,,,,,,,,,,,,,,,,,9,,,79.0,82.5,73.5
+UBCV,2021,S,JAPN,100,,923,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,20,74.1,,92.0,56.0,,,,,,,,,,,,,,,,,,,,,,68.0,86.5,64.0
+UBCV,2021,S,JAPN,100,,951,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,10,77.0,,83.0,65.0,,,,,,,,,,,,,,,,,,,,,,77.5,81.5,74.5
+UBCV,2021,S,JAPN,100,,952,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,16,74.5,,93.0,0.0,,,,,,,,,,,,,,,,,,,,,,83.0,86.3,68.3
+UBCV,2021,S,JAPN,101,,922,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,22,75.5,,92.0,42.0,,,,,,,,,,,,,,,,,,,,,,79.0,88.3,63.8
+UBCV,2021,S,JAPN,101,,951,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,17,75.2,,92.0,0.0,,,,,,,,,,,,,,,,,,,,,,79.0,86.0,75.0
+UBCV,2021,S,JAPN,101,,952,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,10,78.3,,90.0,62.0,,,,,,,,,,,,,,,,,,,,,,79.5,82.3,75.0
+UBCV,2021,S,JAPN,200,,921,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,22,74.0,,93.0,14.0,,,,,,,,,,,,,,,,,,,6,,,78.0,84.0,70.0
+UBCV,2021,S,JAPN,201,,951,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Nicholas Hall,18,77.4,,90.0,57.0,,,,,,,,,,,,,,,,,,,,,,81.5,85.0,75.0
+UBCV,2021,S,JAPN,360,,921,Intensive Intermediate Japanese I,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,16,74.8,,87.0,55.0,,,,,,,,,,,,,,,,,,,8,,,80.0,80.5,66.8
+UBCV,2021,S,JAPN,361,,951,Intensive Intermediate Japanese II,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,12,79.4,,86.0,67.0,,,,,,,,,,,,,,,,,,,,,,79.0,83.3,78.0
+UBCV,2021,S,JAPN,424,,921,Japanese for Professional Life I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,19,77.4,,88.0,68.0,,,,,,,,,,,,,,,,,,,,,,78.0,81.0,74.0
+UBCV,2021,W,JAPN,100,,001,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,24,72.5,,95.0,12.0,,,,,,,,,,,,,,,,,,,,,,72.5,83.3,67.8
+UBCV,2021,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,29,79.0,,94.0,67.0,,,,,,,,,,,,,,,,,6,,8,,,80.0,84.0,72.0
+UBCV,2021,W,JAPN,100,,003,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,22,73.0,,88.0,31.0,,,,,,,,,,,,,,,,,,,,,,78.0,82.0,70.3
+UBCV,2021,W,JAPN,100,,004,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,17,79.4,,96.0,41.0,,,,,,,,,,,,,,,,,,,,,,82.0,89.0,74.0
+UBCV,2021,W,JAPN,100,,005,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,24,73.5,,89.0,9.0,,,,,,,,,,,,,,,,,,,,7,,78.0,85.0,69.5
+UBCV,2021,W,JAPN,100,,006,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,26,71.2,,93.0,19.0,,,,,,,,,,,,,,,,,,,,,,75.5,83.8,63.0
+UBCV,2021,W,JAPN,100,,007,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,26,72.5,,95.0,28.0,,,,,,,,,,,,,,,,,,,6,,,75.0,83.0,63.5
+UBCV,2021,W,JAPN,100,,008,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,28,74.2,,93.0,25.0,,,,,,,,,,,,,,,6,,,,,6,,78.5,85.3,64.0
+UBCV,2021,W,JAPN,100,,009,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,28,78.4,,95.0,18.0,,,,,,,,,,,,,,,,,,,,10,,82.5,87.3,74.0
+UBCV,2021,W,JAPN,100,,010,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,21,72.5,,87.0,46.0,,,,,,,,,,,,,,,,,,,,,,78.0,81.0,64.0
+UBCV,2021,W,JAPN,100,,021,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,25,73.3,,89.0,51.0,,,,,,,,,,,,,,,,,,6,,6,,76.0,83.0,64.0
+UBCV,2021,W,JAPN,100,,023,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,28,67.9,,90.0,0.0,,,,,,,,,,,6,,,,,,,,,9,,73.0,87.0,64.0
+UBCV,2021,W,JAPN,100,,025,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,25,77.2,,96.0,55.0,,,,,,,,,,,,,,,,6,,,,,,76.0,85.0,70.0
+UBCV,2021,W,JAPN,100,,027,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,23,69.3,,90.0,10.0,,,,,,,,,,,,,,,,,,,,,,74.0,81.0,67.0
+UBCV,2021,W,JAPN,101,,002,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,27,75.6,,89.0,47.0,,,,,,,,,,,,,,,,,,,,9,,81.0,86.0,71.5
+UBCV,2021,W,JAPN,101,,003,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,14,73.9,,91.0,0.0,,,,,,,,,,,,,,,,,,,,,,78.0,86.8,73.8
+UBCV,2021,W,JAPN,101,,004,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,9,75.9,,91.0,66.0,,,,,,,,,,,,,,,,,,,,,,73.0,83.0,70.0
+UBCV,2021,W,JAPN,101,,005,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,24,78.9,,93.0,61.0,,,,,,,,,,,,,,,,,,,8,,,82.0,83.8,72.5
+UBCV,2021,W,JAPN,101,,006,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,21,77.5,,91.0,56.0,,,,,,,,,,,,,,,,,,,6,,,78.0,83.0,73.0
+UBCV,2021,W,JAPN,101,,008,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,18,77.8,,94.0,57.0,,,,,,,,,,,,,,,,,,,6,,,80.5,84.0,69.0
+UBCV,2021,W,JAPN,101,,009,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,12,81.3,,90.0,73.0,,,,,,,,,,,,,,,,,,,,,,82.0,84.3,78.0
+UBCV,2021,W,JAPN,101,,011,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,21,72.0,,92.0,21.0,,,,,,,,,,,,,,,,,,,,,,79.0,86.0,61.0
+UBCV,2021,W,JAPN,101,,012,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,22,74.4,,91.0,46.0,,,,,,,,,,,,,,,,,,6,,,,77.0,80.8,73.3
+UBCV,2021,W,JAPN,160,,002,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,16,78.2,,94.0,60.0,,,,,,,,,,,,,,,,,,,,,,80.0,85.3,73.8
+UBCV,2021,W,JAPN,200,,001,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,22,72.1,,92.0,19.0,,,,,,,,,,,,,,,,,,,,,,77.0,84.0,62.3
+UBCV,2021,W,JAPN,200,,002,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,25,73.8,,91.0,43.0,,,,,,,,,,,,,,,,,,,,,,75.0,83.0,67.0
+UBCV,2021,W,JAPN,200,,004,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,26,75.5,,93.0,56.0,,,,,,,,,,,,,,,,,7,6,6,,,76.0,79.8,72.0
+UBCV,2021,W,JAPN,200,,005,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,28,79.8,,94.0,56.0,,,,,,,,,,,,,,,,,6,,,,6,80.5,88.3,73.8
+UBCV,2021,W,JAPN,200,,006,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Nicholas Hall,20,69.2,,87.0,22.0,,,,,,,,,,,,,,,,,,,,,,75.0,78.5,65.3
+UBCV,2021,W,JAPN,200,,007,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,26,68.7,,93.0,6.0,,,,,,,,,,,,,,,,7,,,7,,,71.5,82.0,68.0
+UBCV,2021,W,JAPN,201,,001,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,17,76.9,,90.0,42.0,,,,,,,,,,,,,,,,,,,,,,78.0,83.0,74.0
+UBCV,2021,W,JAPN,201,,002,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,16,70.1,,85.0,0.0,,,,,,,,,,,,,,,,,,,,,,76.0,80.5,66.8
+UBCV,2021,W,JAPN,201,,003,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,10,79.1,,90.0,64.0,,,,,,,,,,,,,,,,,,,,,,79.5,85.3,74.0
+UBCV,2021,W,JAPN,201,,005,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,25,73.8,,89.0,50.0,,,,,,,,,,,,,,,,,,,,7,,75.0,85.0,65.0
+UBCV,2021,W,JAPN,201,,007,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Nicholas Hall,23,72.4,,91.0,55.0,,,,,,,,,,,,,,,6,,,,,,,72.0,78.5,65.0
+UBCV,2021,W,JAPN,260,,002,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,22,74.6,,93.0,61.0,,,,,,,,,,,,,,,,,,,,,,75.5,80.0,68.0
+UBCV,2021,W,JAPN,320,,001,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,19,72.7,,87.0,46.0,,,,,,,,,,,,,,,,,,,,,,77.0,79.5,64.5
+UBCV,2021,W,JAPN,320,,002,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Saori Hoshi,24,75.5,,89.0,60.0,,,,,,,,,,,,,,,,,6,,,,,76.0,80.3,71.5
+UBCV,2021,W,JAPN,320,,003,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,19,73.8,,85.0,55.0,,,,,,,,,,,,,,,,,6,6,,,,75.0,77.0,72.0
+UBCV,2021,W,JAPN,321,,001,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,9,73.0,,80.0,63.0,,,,,,,,,,,,,,,,,,,,,,74.0,77.0,70.0
+UBCV,2021,W,JAPN,321,,002,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,18,73.2,,85.0,51.0,,,,,,,,,,,,,,,,,,,,,,74.5,79.3,68.0
+UBCV,2021,W,JAPN,321,,003,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,8,79.3,,84.0,75.0,,,,,,,,,,,,,,,,,,,,,,80.0,81.0,76.8
+UBCV,2021,W,JAPN,322,,001,Intermediate Japanese II A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,18,75.3,,85.0,58.0,,,,,,,,,,,,,,,,,,,,,,78.0,80.8,70.5
+UBCV,2021,W,JAPN,323,,001,Intermediate Japanese II B,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,16,78.3,,89.0,57.0,,,,,,,,,,,,,,,,,,,8,,,81.5,83.3,76.3
+UBCV,2021,W,JAPN,360,,001,Intensive Intermediate Japanese I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,23,74.9,,88.0,58.0,,,,,,,,,,,,,,,,,,6,,,,77.0,81.0,68.0
+UBCV,2021,W,JAPN,361,,001,Intensive Intermediate Japanese II,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,17,78.2,,88.0,61.0,,,,,,,,,,,,,,,,,,,,,,77.0,85.0,73.0
+UBCV,2021,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,21,74.6,,95.0,55.0,,,,,,,,,,,,,,,,,,,,,,79.0,80.0,67.0
+UBCV,2021,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,18,72.2,,91.0,13.0,,,,,,,,,,,,,,,,,,,,,,75.0,81.8,65.5
+UBCV,2021,W,JAPN,402,,001,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Saori Hoshi,27,76.5,,88.0,62.0,,,,,,,,,,,,,,,,,,9,,,,78.0,80.0,72.0
+UBCV,2021,W,JAPN,422,,001,Classical Japanese I,Rebecca Fuk Hing Chau Choi;Joshua Scott Mostow,17,78.1,,94.0,37.0,,,,,,,,,,,,,,,,,,,,,6,81.0,92.0,69.0
+UBCV,2021,W,JAPN,450,,001,Advanced Oral Communication I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,6,78.3,,81.0,72.0,,,,,,,,,,,,,,,,,,,,,,80.0,80.0,77.8
+UBCV,2021,W,JAPN,452,,001,Readings in Modern Japanese Essays,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,11,76.7,,82.0,70.0,,,,,,,,,,,,,,,,,,,,,,76.0,80.0,74.5
+UBCV,2021,W,JAPN,453,,001,Readings in Modern Japanese Literature,Rebecca Fuk Hing Chau Choi;Yuki Ohsawa,15,74.7,,88.0,56.0,,,,,,,,,,,,,,,,,,,,,,78.0,83.0,65.5
+UBCV,2021,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,9,72.4,,87.0,58.0,,,,,,,,,,,,,,,,,,,,,,71.0,77.0,70.0
+UBCV,2022,S,JAPN,100,,98A,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,25,68.5,,89.0,0.0,,,,,,,,,,,3,0,1,2,3,1,2,2,7,4,0,78.0,82.0,64.0
+UBCV,2022,S,JAPN,100,,98B,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,12,73.3,,92.0,50.0,,,,,,,,,,,0,2,0,1,0,2,1,2,2,1,1,75.5,81.3,68.0
+UBCV,2022,S,JAPN,100,,921,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,20,80.8,,91.0,63.0,,,,,,,,,,,0,0,0,1,0,3,1,3,3,7,2,83.0,87.3,75.8
+UBCV,2022,S,JAPN,100,,923,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,22,74.2,,92.0,29.0,,,,,,,,,,,2,0,0,0,2,4,0,4,6,2,2,79.0,82.0,69.3
+UBCV,2022,S,JAPN,100,,951,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,10,73.3,,90.0,52.0,,,,,,,,,,,0,2,0,1,1,0,0,1,3,1,1,78.5,82.5,62.8
+UBCV,2022,S,JAPN,100,,952,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,22,75.5,,98.0,50.0,,,,,,,,,,,0,1,3,0,2,2,3,3,3,1,4,76.5,81.0,67.3
+UBCV,2022,S,JAPN,101,,922,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,25,74.2,,90.0,21.0,,,,,,,,,,,1,0,3,1,3,1,1,4,4,5,2,79.0,85.0,66.0
+UBCV,2022,S,JAPN,101,,951,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,20,78.8,,94.0,55.0,,,,,,,,,,,1,0,0,0,1,1,6,2,1,6,2,77.5,87.3,74.0
+UBCV,2022,S,JAPN,200,,921,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,23,76.8,,91.0,55.0,,,,,,,,,,,0,0,2,0,0,4,5,3,3,4,2,77.0,85.0,70.5
+UBCV,2022,S,JAPN,201,,951,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,18,74.3,,91.0,50.0,,,,,,,,,,,0,1,0,1,2,4,0,5,1,2,2,76.0,81.8,68.3
+UBCV,2022,S,JAPN,360,,921,Intensive Intermediate Japanese I,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,12,74.3,,83.0,61.0,,,,,,,,,,,0,0,0,1,0,2,5,1,3,0,0,74.0,77.0,72.5
+UBCV,2022,S,JAPN,361,,951,Intensive Intermediate Japanese II,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,11,78.4,,87.0,70.0,,,,,,,,,,,0,0,0,0,0,1,3,2,4,1,0,78.0,82.0,74.5
+UBCV,2022,S,JAPN,424,,921,Japanese for Professional Life I,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,18,75.4,,91.0,15.0,,,,,,,,,,,1,0,0,2,1,1,1,1,7,1,3,82.0,83.8,71.3
+UBCV,2022,W,JAPN,100,,99A,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,32,70.8,,92.0,7.0,,,,,,,,,,,2,2,0,2,3,2,8,3,6,3,1,74.5,80.0,66.8
+UBCV,2022,W,JAPN,100,,99C,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,33,74.9,,92.0,9.0,,,,,,,,,,,2,2,0,1,4,2,1,2,5,9,5,83.0,87.0,67.0
+UBCV,2022,W,JAPN,100,,001,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,16,74.2,,86.0,63.0,,,,,,,,,,,0,0,0,1,3,3,2,2,4,1,0,72.5,81.8,68.3
+UBCV,2022,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,27,72.0,,89.0,39.0,,,,,,,,,,,1,0,3,2,4,1,4,3,8,1,0,75.0,80.0,65.5
+UBCV,2022,W,JAPN,100,,003,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,18,76.7,,93.0,0.0,,,,,,,,,,,1,0,0,0,2,0,0,4,5,3,3,82.0,85.8,77.3
+UBCV,2022,W,JAPN,100,,004,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,19,73.7,,91.0,56.0,,,,,,,,,,,0,0,3,0,1,5,2,2,4,0,2,73.0,83.0,69.0
+UBCV,2022,W,JAPN,100,,005,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,27,71.7,,90.0,42.0,,,,,,,,,,,1,2,2,1,2,3,2,6,6,1,1,76.0,80.5,65.5
+UBCV,2022,W,JAPN,100,,006,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,25,69.2,,92.0,20.0,,,,,,,,,,,2,2,1,3,0,4,3,4,3,0,3,73.0,77.0,62.0
+UBCV,2022,W,JAPN,100,,007,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,28,77.0,,92.0,29.0,,,,,,,,,,,1,1,1,2,1,1,0,7,3,7,4,80.0,86.0,74.8
+UBCV,2022,W,JAPN,100,,008,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,28,76.3,,96.0,42.0,,,,,,,,,,,1,1,1,2,2,3,2,3,5,3,5,78.0,87.3,69.3
+UBCV,2022,W,JAPN,100,,009,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,27,72.3,,95.0,0.0,,,,,,,,,,,2,2,1,1,2,1,2,1,5,6,4,80.0,86.5,66.5
+UBCV,2022,W,JAPN,100,,010,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,28,76.1,,90.0,58.0,,,,,,,,,,,0,0,1,1,3,3,4,4,7,4,1,77.0,82.0,70.3
+UBCV,2022,W,JAPN,100,,011,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,19,82.8,,94.0,62.0,,,,,,,,,,,0,0,0,1,0,1,3,0,4,6,4,85.0,87.5,78.5
+UBCV,2022,W,JAPN,100,,012,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,25,76.5,,92.0,62.0,,,,,,,,,,,0,0,0,1,2,3,7,3,4,4,1,74.0,81.0,72.0
+UBCV,2022,W,JAPN,100,,021,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,20,74.5,,84.0,37.0,,,,,,,,,,,1,0,0,0,2,3,1,5,8,0,0,77.0,81.3,70.5
+UBCV,2022,W,JAPN,100,,023,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,28,67.9,,95.0,0.0,,,,,,,,,,,4,2,2,1,0,5,3,4,1,4,2,72.5,79.8,58.5
+UBCV,2022,W,JAPN,100,,024,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,23,77.8,,92.0,53.0,,,,,,,,,,,0,1,0,1,1,4,2,3,3,6,2,79.0,85.0,70.5
+UBCV,2022,W,JAPN,100,,025,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,25,74.1,,92.0,41.0,,,,,,,,,,,3,0,1,2,0,0,2,8,3,5,1,78.0,84.0,72.0
+UBCV,2022,W,JAPN,100,,027,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,16,72.2,,91.0,31.0,,,,,,,,,,,1,0,1,1,2,1,2,2,4,1,1,75.0,81.3,65.8
+UBCV,2022,W,JAPN,101,,99C,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,23,72.1,,92.0,30.0,,,,,,,,,,,2,0,0,2,3,0,5,5,4,0,2,75.0,80.5,67.0
+UBCV,2022,W,JAPN,101,,002,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,20,75.6,,91.0,0.0,,,,,,,,,,,1,0,0,0,1,3,1,4,3,6,1,80.0,86.0,71.8
+UBCV,2022,W,JAPN,101,,003,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,13,71.6,,90.0,50.0,,,,,,,,,,,0,1,2,0,1,3,0,1,4,0,1,70.0,81.0,65.0
+UBCV,2022,W,JAPN,101,,004,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,10,77.1,,86.0,67.0,,,,,,,,,,,0,0,0,0,1,0,3,3,2,1,0,77.5,81.0,73.5
+UBCV,2022,W,JAPN,101,,005,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,9,73.6,,88.0,50.0,,,,,,,,,,,0,2,0,0,0,1,1,1,2,2,0,77.0,84.0,71.0
+UBCV,2022,W,JAPN,101,,006,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,12,74.9,,85.0,55.0,,,,,,,,,,,0,0,1,1,2,0,1,1,5,1,0,80.0,83.0,67.0
+UBCV,2022,W,JAPN,101,,008,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,24,77.0,,90.0,58.0,,,,,,,,,,,0,0,1,1,2,2,6,0,7,4,1,77.5,84.0,71.8
+UBCV,2022,W,JAPN,101,,009,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,19,76.4,,89.0,62.0,,,,,,,,,,,0,0,0,1,2,3,2,3,6,2,0,79.0,81.0,71.0
+UBCV,2022,W,JAPN,101,,011,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,24,72.3,,91.0,32.0,,,,,,,,,,,1,0,0,3,4,6,2,1,1,4,2,70.5,82.0,66.0
+UBCV,2022,W,JAPN,101,,012,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,15,74.6,,91.0,60.0,,,,,,,,,,,0,0,0,1,2,1,5,2,3,0,1,75.0,79.0,71.5
+UBCV,2022,W,JAPN,160,,002,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,17,77.8,,89.0,67.0,,,,,,,,,,,0,0,0,0,1,3,3,2,5,3,0,77.0,83.0,72.0
+UBCV,2022,W,JAPN,200,,001,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,11,80.5,,89.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,2,5,2,0,82.0,83.0,77.5
+UBCV,2022,W,JAPN,200,,002,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,22,78.5,,90.0,66.0,,,,,,,,,,,0,0,0,0,2,2,2,9,2,3,2,78.0,83.0,75.3
+UBCV,2022,W,JAPN,200,,004,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,26,76.4,,91.0,47.0,,,,,,,,,,,1,0,1,1,1,3,3,4,6,5,1,79.0,83.8,71.5
+UBCV,2022,W,JAPN,200,,005,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,27,78.7,,93.0,55.0,,,,,,,,,,,0,0,2,1,1,2,2,5,4,6,4,81.0,85.5,74.0
+UBCV,2022,W,JAPN,200,,006,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Nicholas Hall,9,73.4,,82.0,62.0,,,,,,,,,,,0,0,0,1,1,2,0,2,3,0,0,76.0,80.0,68.0
+UBCV,2022,W,JAPN,200,,007,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,33,74.5,,95.0,39.0,,,,,,,,,,,1,1,0,3,2,1,7,7,8,1,2,76.0,82.0,72.0
+UBCV,2022,W,JAPN,201,,001,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,9,69.2,,87.0,39.0,,,,,,,,,,,1,0,0,1,1,2,1,0,2,1,0,70.0,80.0,64.0
+UBCV,2022,W,JAPN,201,,002,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,18,77.4,,86.0,64.0,,,,,,,,,,,0,0,0,0,1,1,4,6,5,1,0,77.0,82.0,75.0
+UBCV,2022,W,JAPN,201,,003,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,19,76.1,,89.0,55.0,,,,,,,,,,,0,0,1,2,1,2,2,0,8,3,0,81.0,84.0,68.0
+UBCV,2022,W,JAPN,201,,005,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,29,77.0,,90.0,60.0,,,,,,,,,,,0,0,0,2,1,3,6,5,7,4,1,77.0,82.0,73.0
+UBCV,2022,W,JAPN,201,,007,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,31,74.5,,90.0,47.0,,,,,,,,,,,1,0,1,2,4,5,3,2,8,4,1,75.0,81.5,67.5
+UBCV,2022,W,JAPN,260,,002,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,25,73.7,,91.0,45.0,,,,,,,,,,,1,1,1,2,1,2,4,5,3,4,1,77.0,81.0,68.0
+UBCV,2022,W,JAPN,320,,001,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,19,75.3,,85.0,60.0,,,,,,,,,,,0,0,0,2,1,3,2,3,7,1,0,76.0,81.0,70.0
+UBCV,2022,W,JAPN,320,,003,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,18,73.4,,86.0,62.0,,,,,,,,,,,0,0,0,2,3,5,1,2,4,1,0,70.5,79.5,67.8
+UBCV,2022,W,JAPN,321,,001,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,12,71.9,,88.0,46.0,,,,,,,,,,,1,0,0,0,2,4,1,1,1,2,0,70.0,78.5,67.8
+UBCV,2022,W,JAPN,321,,002,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Saori Hoshi,17,77.6,,88.0,63.0,,,,,,,,,,,0,0,0,1,1,2,1,3,6,3,0,80.0,81.0,74.0
+UBCV,2022,W,JAPN,322,,001,Intermediate Japanese II A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,21,75.6,,88.0,63.0,,,,,,,,,,,0,0,0,1,1,4,3,7,2,3,0,77.0,79.0,70.0
+UBCV,2022,W,JAPN,323,,001,Intermediate Japanese II B,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,15,74.7,,89.0,64.0,,,,,,,,,,,0,0,0,0,4,2,2,2,3,2,0,74.0,81.0,66.5
+UBCV,2022,W,JAPN,360,,001,Intensive Intermediate Japanese I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,13,76.0,,90.0,60.0,,,,,,,,,,,0,0,0,2,0,2,2,1,3,2,1,77.0,83.0,69.0
+UBCV,2022,W,JAPN,361,,001,Intensive Intermediate Japanese II,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,12,76.3,,90.0,61.0,,,,,,,,,,,0,0,0,1,2,1,1,1,5,0,1,78.5,83.0,68.5
+UBCV,2022,W,JAPN,400,,001,Advanced Modern Japanese: Reading and Writing I,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,21,76.0,,91.0,50.0,,,,,,,,,,,0,1,0,2,1,1,4,5,3,2,2,77.0,83.0,72.0
+UBCV,2022,W,JAPN,401,,001,Advanced Modern Japanese: Reading and Writing II,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,15,74.7,,91.0,60.0,,,,,,,,,,,0,0,0,3,1,2,2,2,2,0,3,74.0,81.0,66.5
+UBCV,2022,W,JAPN,422,,001,Classical Japanese I,Rebecca Fuk Hing Chau Choi;Joshua Scott Mostow,17,79.6,,99.0,23.0,,,,,,,,,,,1,1,0,0,0,2,1,1,3,2,6,82.0,93.0,75.0
+UBCV,2022,W,JAPN,424,,001,Japanese for Professional Life I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,14,75.1,,84.0,61.0,,,,,,,,,,,0,0,0,2,0,1,3,5,3,0,0,77.5,78.8,73.0
+UBCV,2022,W,JAPN,452,,001,Readings in Modern Japanese Essays,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,7,77.4,,81.0,74.0,,,,,,,,,,,0,0,0,0,0,0,2,3,2,0,0,78.0,79.0,75.5
+UBCV,2022,W,JAPN,465,,001,Japanese Media and Translation,Rebecca Fuk Hing Chau Choi;Saori Hoshi;Ayaka Yoshimizu,15,74.6,,82.0,57.0,,,,,,,,,,,0,0,2,0,1,0,3,3,6,0,0,78.0,80.0,72.5
+UBCV,2023,W,JAPN,100,,99A,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,47,72.4,,93.0,33.0,,,,,,,,,,,2,1,2,6,2,3,6,5,5,4,4,73.0,81.3,62.8
+UBCV,2023,W,JAPN,100,,99C,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,36,71.7,,87.0,0.0,,,,,,,,,,,1,1,2,2,0,8,5,3,8,3,0,74.0,82.0,69.0
+UBCV,2023,W,JAPN,100,,001,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,17,78.4,,91.0,47.0,,,,,,,,,,,1,0,0,0,1,0,3,3,5,3,1,81.0,84.0,75.0
+UBCV,2023,W,JAPN,100,,002,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,21,76.2,,93.0,50.0,,,,,,,,,,,0,1,2,0,2,2,2,4,1,3,4,76.0,87.0,69.0
+UBCV,2023,W,JAPN,100,,003,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,23,76.5,,93.0,56.0,,,,,,,,,,,0,0,1,1,1,3,4,2,5,3,1,77.0,81.0,70.0
+UBCV,2023,W,JAPN,100,,004,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,23,69.7,,94.0,14.0,,,,,,,,,,,2,0,1,2,3,2,2,0,6,0,2,71.5,80.3,63.5
+UBCV,2023,W,JAPN,100,,005,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,27,75.1,,94.0,36.0,,,,,,,,,,,2,1,0,0,2,3,3,4,4,6,2,78.0,85.0,68.5
+UBCV,2023,W,JAPN,100,,006,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Nicholas Hall,21,73.7,,93.0,56.0,,,,,,,,,,,0,0,4,0,4,1,1,2,6,2,1,78.0,84.0,64.0
+UBCV,2023,W,JAPN,100,,007,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,29,78.3,,94.0,42.0,,,,,,,,,,,1,0,1,1,1,1,3,8,3,6,4,79.0,87.0,73.0
+UBCV,2023,W,JAPN,100,,008,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,24,64.1,,89.0,15.0,,,,,,,,,,,4,2,1,1,3,1,1,2,4,1,0,66.5,78.5,53.3
+UBCV,2023,W,JAPN,100,,009,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,22,73.1,,87.0,34.0,,,,,,,,,,,1,0,1,0,3,0,5,6,3,2,0,76.0,79.0,72.0
+UBCV,2023,W,JAPN,100,,010,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,25,77.9,,96.0,35.0,,,,,,,,,,,1,0,2,0,1,1,2,5,4,5,3,80.5,86.5,73.8
+UBCV,2023,W,JAPN,100,,011,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,21,73.3,,89.0,52.0,,,,,,,,,,,1,2,1,1,0,2,1,5,2,3,0,78.5,80.5,65.3
+UBCV,2023,W,JAPN,100,,021,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,28,71.9,,91.0,3.0,,,,,,,,,,,2,0,1,3,1,2,1,6,3,5,1,78.0,84.0,67.0
+UBCV,2023,W,JAPN,100,,022,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,28,71.2,,94.0,11.0,,,,,,,,,,,4,0,1,0,2,5,2,2,3,4,3,73.5,84.8,67.3
+UBCV,2023,W,JAPN,100,,023,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,27,74.3,,91.0,31.0,,,,,,,,,,,1,1,0,2,0,5,3,3,2,6,1,76.5,85.3,68.0
+UBCV,2023,W,JAPN,100,,024,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,23,70.1,,90.0,17.0,,,,,,,,,,,3,1,1,2,2,1,1,2,2,7,1,79.0,85.0,60.0
+UBCV,2023,W,JAPN,100,,025,Beginning Japanese IA,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,19,75.6,,88.0,51.0,,,,,,,,,,,0,1,0,0,1,0,5,3,3,2,0,76.0,81.5,73.0
+UBCV,2023,W,JAPN,101,,99C,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,29,67.1,,92.0,0.0,,,,,,,,,,,3,0,1,3,0,4,3,4,0,3,3,74.0,79.8,61.5
+UBCV,2023,W,JAPN,101,,011,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,22,75.0,,92.0,44.0,,,,,,,,,,,1,2,1,0,2,1,3,3,1,6,2,78.0,86.8,66.5
+UBCV,2023,W,JAPN,101,,012,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,20,71.4,,87.0,52.0,,,,,,,,,,,0,1,2,0,2,2,4,6,1,1,0,73.0,77.0,67.0
+UBCV,2023,W,JAPN,101,,021,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,29,78.9,,94.0,60.0,,,,,,,,,,,0,0,0,2,1,3,5,3,3,8,3,79.0,86.0,72.0
+UBCV,2023,W,JAPN,101,,022,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,26,72.9,,89.0,40.0,,,,,,,,,,,1,0,2,3,1,3,2,4,4,4,0,75.0,83.0,65.8
+UBCV,2023,W,JAPN,101,,023,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Haruyo Takahashi-Taucar,19,69.8,,92.0,0.0,,,,,,,,,,,1,0,0,1,2,4,3,2,1,2,1,72.0,78.0,68.0
+UBCV,2023,W,JAPN,101,,024,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,10,68.3,,85.0,0.0,,,,,,,,,,,1,0,1,0,0,1,2,1,3,1,0,76.0,83.0,69.5
+UBCV,2023,W,JAPN,101,,026,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Nicholas Hall,11,61.4,,85.0,16.0,,,,,,,,,,,1,1,1,1,1,1,2,0,0,1,0,67.0,72.0,56.0
+UBCV,2023,W,JAPN,101,,027,Beginning Japanese IB,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,28,74.3,,91.0,57.0,,,,,,,,,,,0,0,1,4,2,3,2,5,4,2,2,76.0,80.0,65.0
+UBCV,2023,W,JAPN,160,,011,Intensive Beginning Japanese I,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,12,76.7,,88.0,56.0,,,,,,,,,,,0,0,1,0,0,1,0,2,1,2,0,78.0,84.0,73.5
+UBCV,2023,W,JAPN,200,,011,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,20,72.3,,89.0,54.0,,,,,,,,,,,0,1,0,4,2,3,2,2,4,2,0,71.5,81.3,63.5
+UBCV,2023,W,JAPN,200,,012,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,21,71.2,,87.0,49.0,,,,,,,,,,,1,2,0,0,4,1,3,4,2,2,0,74.0,78.0,66.5
+UBCV,2023,W,JAPN,200,,013,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,25,79.3,,91.0,53.0,,,,,,,,,,,0,2,0,1,0,0,1,5,7,7,1,83.0,86.0,77.0
+UBCV,2023,W,JAPN,200,,014,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,30,77.5,,95.0,55.0,,,,,,,,,,,0,0,1,3,1,3,0,10,5,2,5,77.0,84.0,72.3
+UBCV,2023,W,JAPN,200,,015,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Nicholas Hall,11,67.2,,96.0,20.0,,,,,,,,,,,1,1,0,2,0,0,2,2,1,0,1,73.0,77.8,60.0
+UBCV,2023,W,JAPN,200,,016,Beginning Japanese II A,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,34,76.3,,93.0,46.0,,,,,,,,,,,1,2,0,1,2,2,5,6,5,6,2,77.5,84.5,71.8
+UBCV,2023,W,JAPN,201,,021,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,8,77.0,,88.0,67.0,,,,,,,,,,,0,0,0,0,1,2,0,2,1,2,0,78.5,82.0,68.0
+UBCV,2023,W,JAPN,201,,022,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,24,76.0,,92.0,53.0,,,,,,,,,,,0,1,2,0,1,2,3,5,7,2,1,77.5,82.3,73.3
+UBCV,2023,W,JAPN,201,,023,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,22,77.9,,88.0,63.0,,,,,,,,,,,0,0,0,1,1,2,4,3,8,3,0,80.0,83.0,73.0
+UBCV,2023,W,JAPN,201,,024,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Kaori Tanaka,21,76.6,,94.0,56.0,,,,,,,,,,,0,0,1,2,1,2,4,2,4,4,1,76.0,84.0,71.0
+UBCV,2023,W,JAPN,201,,025,Beginning Japanese II B,Rebecca Fuk Hing Chau Choi;Misuzu Kazama,24,73.3,,89.0,42.0,,,,,,,,,,,1,1,0,0,5,2,3,4,3,4,0,74.0,81.5,67.0
+UBCV,2023,W,JAPN,260,,021,Intensive Beginning Japanese II,Rebecca Fuk Hing Chau Choi;Noriyuki Kawada,15,74.4,,90.0,50.0,,,,,,,,,,,0,1,0,0,3,0,3,3,1,2,1,75.5,79.3,67.5
+UBCV,2023,W,JAPN,320,,011,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,21,73.1,,87.0,55.0,,,,,,,,,,,0,0,2,1,3,3,2,4,5,1,0,74.0,80.0,67.0
+UBCV,2023,W,JAPN,320,,012,Intermediate Japanese I A,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,24,71.3,,84.0,19.0,,,,,,,,,,,1,0,0,1,3,5,4,3,6,0,0,72.0,79.0,68.0
+UBCV,2023,W,JAPN,321,,021,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,18,73.8,,83.0,61.0,,,,,,,,,,,0,0,0,2,1,1,3,5,4,0,0,76.0,79.3,71.0
+UBCV,2023,W,JAPN,321,,022,Intermediate Japanese I B,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,15,78.9,,86.0,68.0,,,,,,,,,,,0,0,0,0,0,4,0,2,4,4,0,82.5,84.8,71.3
+UBCV,2023,W,JAPN,322,,011,Intermediate Japanese II A,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,17,76.9,,87.0,65.0,,,,,,,,,,,0,0,0,0,1,3,4,2,1,4,0,75.0,83.5,71.5
+UBCV,2023,W,JAPN,323,,021,Intermediate Japanese II B,Rebecca Fuk Hing Chau Choi;Kyoko Hillman,12,76.4,,86.0,61.0,,,,,,,,,,,0,0,0,1,0,3,1,2,3,1,0,78.0,83.0,71.0
+UBCV,2023,W,JAPN,360,,011,Intensive Intermediate Japanese I,Rebecca Fuk Hing Chau Choi;Masumi Abe El-Khoury,21,73.2,,83.0,61.0,,,,,,,,,,,0,0,0,2,4,1,2,8,3,0,0,76.0,77.3,66.0
+UBCV,2023,W,JAPN,361,,021,Intensive Intermediate Japanese II,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,19,73.3,,85.0,52.0,,,,,,,,,,,0,1,2,0,0,2,4,3,4,1,0,75.0,81.0,71.0
+UBCV,2023,W,JAPN,400,,011,Advanced Modern Japanese: Reading and Writing I,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,21,75.7,,95.0,60.0,,,,,,,,,,,0,0,0,3,2,2,2,4,3,1,3,76.5,81.3,68.5
+UBCV,2023,W,JAPN,401,,021,Advanced Modern Japanese: Reading and Writing II,Rebecca Fuk Hing Chau Choi;Michiko Suzuki,17,74.2,,96.0,52.0,,,,,,,,,,,0,1,0,2,2,2,3,1,4,0,2,73.0,83.0,66.0
+UBCV,2023,W,JAPN,402,,011,Advanced Modern Japanese: Conversation and Composition I,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,19,73.7,,86.0,63.0,,,,,,,,,,,0,0,0,1,4,5,0,3,3,2,0,70.5,79.8,67.3
+UBCV,2023,W,JAPN,422,,011,Classical Japanese I,Rebecca Fuk Hing Chau Choi;Kurtis Hanlon,18,80.3,,100.0,14.0,,,,,,,,,,,2,0,0,1,0,1,0,0,4,2,8,87.5,94.0,80.3
+UBCV,2023,W,JAPN,424,,021,Japanese for Professional Life I,Rebecca Fuk Hing Chau Choi;Yasuko Matsumoto,10,73.4,,85.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,4,0,1,0,75.5,77.8,71.3
+UBCV,2023,W,JAPN,452,,011,Readings in Modern Japanese Essays,Rebecca Fuk Hing Chau Choi;Ihhwa Kim,12,77.1,,87.0,67.0,,,,,,,,,,,0,0,0,0,1,3,0,2,2,2,0,78.0,83.3,70.3
+UBCV,2023,W,JAPN,453,,021,Readings in Modern Japanese Literature,Rebecca Fuk Hing Chau Choi;Shota Iwasaki,12,82.3,,97.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,1,2,4,2,84.5,86.5,78.0

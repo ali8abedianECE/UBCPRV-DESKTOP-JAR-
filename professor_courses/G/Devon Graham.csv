@@ -1,0 +1,6 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,S,CPSC,221,,911,Basic Algorithms and Data Structures,Angad Kalra;Devon Graham;Henry Li;Issam Hadj Laradji;Jing Hei Jason Chan;Kaitlyn Melton;Kamil Khan;Kurt Eiselt;Mushfiqur Rouf;Sedigheh Zolaktaf;Shu Yang;Wei Luo;Zeinab Zolaktaf Zadeh,155,85.87096774,7.689349758,99.0,55.0,0,0,,,,5,7,7,39,33,61
+UBCV,2016,W,CPSC,418,,201,Parallel Computation,Chenxi Liu;Devon Graham;Ian Mitchell;Mark Greenstreet,67,76.94029851,12.98936698,97.0,14.0,2,0,4,1,2,9,6,12,14,9,8
+UBCV,2016,W,CPSC,421,,101,Introduction to Theory of Computing,Bader Alahmad;Christopher Liaw;Devon Graham;Giorgio Gori;Nicholas Harvey,84,76.91666667,17.4681868,100.0,4.0,1,7,4,9,5,6,6,7,9,4,26
+UBCV,2018,W,CPSC,340,,101,Machine Learning and Data Mining,Cathy Meng;Devon Graham;Jonathan Wilder Lavington;Mark Schmidt;Nam Hee Kim;Saeid Naderiparizi;Sedigheh Zolaktaf;Sharan Vaswani;Si Yi Meng,79,78.632911392,14.073230831,97.0,0.0,3,0,1,2,3,5,12,12,11,16,14
+UBCV,2018,W,CPSC,340,,103,Machine Learning and Data Mining,Cathy Meng;Devon Graham;Jonathan Wilder Lavington;Michael Gelbart;Saeid Naderiparizi;Sedigheh Zolaktaf;Sharan Vaswani;Si Yi Meng,105,77.780952381,11.350178711,98.0,52.0,0,1,5,10,6,9,15,14,11,14,20

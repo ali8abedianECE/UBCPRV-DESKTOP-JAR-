@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2011,W,NEST,310,,001,HIST WMN MUSLIM,"Chaudhry, Ayesha",9,75.63,8.12,85,60,8,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,2,1,0,,,
+UBC,2011,W,WMST,425,A,002,SPC TPCS IN WMST,"Chaudhry, Ayesha",7,76.83,5.04,85,72,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,,,
+UBC,2012,W,RELG,448,,001,SEM HIST OF RELG,"Chaudhry, Ayesha",11,76.33,8.51,95,66,9,0,0,2,0,0,0,0,0,0,0,0,0,0,1,2,1,3,1,0,1,,,
+UBC,2012,W,WMST,102,,002,FEM PERSP LOC&GL,"Chaudhry, Ayesha",64,79.92,5.5,90,60,60,0,3,0,0,0,0,0,0,0,0,0,0,1,1,1,9,10,28,9,1,,,
+UBC,2013,W,GRSJ,102,,002,DECOL&FMNST PERS,"Chaudhry, Ayesha",71,75.01,14.74,93,0,69,2,0,0,0,1,1,0,0,0,2,2,1,3,5,8,10,7,15,13,5,,,
+UBC,2013,W,RELG,448,,001,SEM HIST OF RELG,"Chaudhry, Ayesha",21,77.55,6.93,90,65,20,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,2,4,6,2,1,,,
+UBC,2013,W,RELG,475,A,001,TPCS IN RELIGION,"Chaudhry, Ayesha",5,78.4,6.84,90,72,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,,,
+UBC,2014,W,GRSJ,102,,002,DECOL&FMNST PERS,"Chaudhry, Ayesha",72,81.69,9.67,96,50,71,0,1,0,0,0,0,0,0,0,0,2,2,0,3,1,3,9,21,16,14,,,
+UBC,2014,W,GRSJ,422,,001,ADV RES SEM WMST,"Chaudhry, Ayesha",27,78.26,7.21,89,64,27,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,6,3,6,7,0,,,
+UBC,2014,W,RELG,448,,001,SEM HIST OF RELG,"Chaudhry, Ayesha",11,75.09,8.04,85,60,11,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,2,3,1,0,,,
+UBC,2014,W,RELG,475,A,001,TPCS IN RELIGION,"Chaudhry, Ayesha",8,73.75,19.74,90,27,7,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,2,2,1,1,,,
+UBC,2014,W,RELG,514,A,001,TOPICS IN ISLAM,"Chaudhry, Ayesha",4,84.25,5.44,90,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,,,
+UBC,2016,W,GRSJ,422,,101,ADV RES SEM WMST,"Chaudhry, Ayesha",30,81.93,5.83,94,73,28,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,4,8,3,,,
+UBC,2017,W,GRSJ,422,,101,ADV RES SEM WMST,"Chaudhry, Ayesha",30,85.8,4.59,95,78,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,7,11,7,,,
+UBCV,2014,W,GRSJ,102,,002,Decolonizing and Feminist Perspectives from Local to Global,Ayesha Chaudhry;Katharine Cherry-Reid,71,81.69014085,9.665241922,96.0,50.0,,,,,,,,,,,0,,,,,,3,9,21,16,14,,,
+UBCV,2014,W,GRSJ,422,,001,Advanced Research Seminar,Ayesha Chaudhry,27,78.25925926,7.214262543,89.0,64.0,,,,,,,,,,,0,0,0,0,,,6,,6,7,0,,,
+UBCV,2014,W,RELG,448,,001,Seminar in the History of the Religion of Islam,Ayesha Chaudhry,11,75.09090909,8.043065901,85.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,0,,,
+UBCV,2014,W,RELG,475,A,001,Topics in Religion,Ayesha Chaudhry,8,73.75,19.73937327,90.0,27.0,,,,,,,,,,,,,,,,,,,,,,,,
+UBCV,2016,W,GRSJ,422,,101,Advanced Research Seminar,Ayesha Chaudhry,28,81.92857143,5.830498177,94.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,11,4,8,3,,,
+UBCV,2017,W,GRSJ,422,,101,Advanced Research Seminar,Ayesha Chaudhry,30,85.8,4.589342978,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,5,7,11,7,,,
+UBCV,2018,W,GRSJ,422,,101,Advanced Research Seminar,Ayesha Chaudhry;Pilar Riano-Alcala,30,85.566666667,2.284631312,91.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,11,18,1,,,
+UBCV,2019,W,GRSJ,410,,101,Religious Feminisms,Ayesha Chaudhry,17,82.823529412,21.619537732,93.0,0.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,5,8,,,
+UBCV,2019,W,POLI,333,Z,002,Issues in Comparative Politics,Ayesha Chaudhry,15,92.733333333,2.051712409,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15,,,
+UBCV,2020,W,GRSJ,410,,101,Religious Feminisms,Ayesha Chaudhry,26,87.153846154,4.747144891,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,7,10,9,,,
+UBCV,2020,W,POLI,100,,004,Introduction to Politics,Ahmed Hussein;Areeka Riaz;Ayesha Chaudhry;Jackie Zhao;Jiaqi (Jackie) Zhao;Jiaqi Zhao;Joelle Alice Michaud-Ouellet;Joelle Michaud-Ouellet;Kelly O'Keefe;Maryo Maher Adib Wahba;Melanie Mpanju;Murad Ahmed;Saleh Ismail;Sarah Thomas,179,71.916201117,13.765235281,92.0,0.0,,,,,,,,,,,8,3,8,4,13,25,38,29,41,8,2,,,
+UBCV,2021,W,GRSJ,410,,101,Religious Feminisms,Ayesha Chaudhry,20,87.45,1.099042646,90.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,17,3,,,
+UBCV,2021,W,GRSJ,410,,101,Religious Feminisms,Ayesha Chaudhry,20,87.5,,90.0,87.0,,,,,,,,,,,,,,,,,,,,17,,87.0,87.0,87.0
+UBCV,2022,W,GRSJ,422,,101,Advanced Research Seminar,Ayesha Chaudhry,30,87.3,,90.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,27,3,87.0,87.0,87.0
+UBCV,2022,W,GRSJ,501,,101,Issues in Decolonizing and Feminist Methodologies,Ayesha Chaudhry,13,95.0,,95.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,13,95.0,95.0,95.0
+UBCV,2023,W,GRSJ,422,,101,Advanced Research Seminar,Ayesha Chaudhry,23,90.0,,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23,90.0,90.0,90.0
+UBCV,2023,W,GRSJ,503,E,101,Special Topics in Feminist Studies,Ayesha Chaudhry,14,90.0,,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14,90.0,90.0,90.0

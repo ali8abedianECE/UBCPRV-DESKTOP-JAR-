@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,ANAT,550,,001,MORPHOLGCAL SCIE,"Nabi, Ivan Robert",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2007,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",8,88.25,3.62,94,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,,,
+UBC,2009,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",9,89.56,2.01,93,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,,,
+UBC,2010,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",5,94.4,2.19,98,92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2011,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",5,93,0.71,94,92,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2012,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",11,91,2.32,95,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,,,
+UBC,2012,W,PHYL,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",7,86,7.23,93,72,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,3,,,
+UBC,2013,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",29,84.03,17.23,97,0,28,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2,0,6,9,11,,,
+UBC,2014,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",29,85.97,6.2,95,72,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,6,9,10,,,
+UBC,2014,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",4,90.25,2.22,93,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2015,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",34,86.56,9.58,94,40,33,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,3,9,17,,,
+UBC,2015,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",4,91.5,2.65,94,88,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2016,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",33,85.3,6.14,94,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,15,9,,,
+UBC,2016,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",6,91.5,2.43,94,88,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2017,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",26,83.96,8.44,96,64,25,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,5,6,8,,,
+UBC,2017,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",7,89.83,2.4,92,86,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2018,W,BMEG,245,,101,UNITS OF LIFE,"Nabi, Ivan Robert;Rideout, Elizabeth;Roskelley, Calvin",59,72.59,10.26,89,47,57,1,0,0,1,0,0,0,0,1,1,2,4,4,5,10,9,4,11,8,0,,,
+UBC,2018,W,CAPS,421,,001,ADV CEL&MOL PHYS,"Nabi, Ivan Robert;Underhill, Tully Michael",30,82.14,7.98,94,55,29,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,9,12,2,,,
+UBC,2018,W,CELL,505,,001,TPC INT-CEL TRAF,"Loewen, Christopher;Nabi, Ivan Robert",8,90.14,1.07,91,88,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2014,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,29,85.96551724,6.196097612,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,6,9,10,,,
+UBCV,2015,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,34,86.558823529,9.582784996,94.0,40.0,,,,,,,,,,,,,,,,,,,,9,17,,,
+UBCV,2016,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,33,85.3030303,6.141482153,94.0,71.0,,,,,,,,,,,0,0,0,0,0,2,2,3,2,15,9,,,
+UBCV,2016,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,6,91.5,2.42899156,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2017,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,25,83.96,8.438404273,96.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,2,5,6,8,,,
+UBCV,2017,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,6,89.833333333,2.401388487,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,,,
+UBCV,2018,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Calvin Roskelley;Elizabeth Rideout;Erin Bell;Guang Gao;Ivan Robert Nabi;Timothy Wong,59,72.593220339,10.174543359,89.0,47.0,,,,,,,,,,,1,2,4,4,5,10,10,4,11,8,0,,,
+UBCV,2018,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,29,82.137931034,7.980888502,94.0,55.0,,,,,,,,,,,0,0,1,0,1,1,2,1,9,12,2,,,
+UBCV,2018,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,7,90.142857143,1.069044968,91.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2019,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Atishay Jay;Avineet Randhawa;Calvin Roskelley;Elizabeth Rideout;Fiona Dickson;Ivan Robert Nabi;Sergei Issaev;Tabea Stephan;Timothy Wong,94,74.574468085,10.338870554,96.0,51.0,,,,,,,,,,,0,2,4,9,9,12,14,12,16,5,11,,,
+UBCV,2019,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,37,84.675675676,6.733226295,94.0,64.0,,,,,,,,,,,0,0,0,0,2,0,2,1,8,18,6,,,
+UBCV,2019,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,7,92.857142857,1.864454471,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7,,,
+UBCV,2020,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Avineet Randhawa;Calvin Roskelley;Elizabeth Rideout;Fiona Dickson;Ivan Robert Nabi;Parsa Arabi;Puja Biswas;Tabea Stephan;Timothy Wong,116,78.206896552,11.435655333,98.0,34.0,,,,,,,,,,,2,2,3,4,4,13,15,14,17,28,14,,,
+UBCV,2020,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,27,88.407407407,3.99287114,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,3,11,12,,,
+UBCV,2020,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Hilla Weidberg;Ivan Robert Nabi,8,90.5,1.927248223,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,5,,,
+UBCV,2021,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Calvin Roskelley;Elizabeth Rideout;Ivan Robert Nabi;Kurt Vandevoorde;Logan Timmins;Omar Bashth;Puja Biswas;Tabea Stephan;Timothy Wong,119,78.159663866,9.748518526,95.0,50.0,,,,,,,,,,,0,2,7,1,7,13,11,16,26,23,13,,,
+UBCV,2021,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Hilla Weidberg;Ivan Robert Nabi;Tully Michael Underhill,32,87.875,4.513420847,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,0,0,4,15,12,,,
+UBCV,2021,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Hilla Weidberg;Ivan Robert Nabi,9,91.111111111,1.536590743,93.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Ivan Robert Nabi;Elizabeth Rideout;Calvin Roskelley,119,78.2,,95.0,50.0,,,,,,,,,,,,,7,,7,13,11,16,26,23,13,80.0,85.0,71.5
+UBCV,2021,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill;Hilla Weidberg,32,87.9,,94.0,70.0,,,,,,,,,,,,,,,,,,,,15,12,89.0,90.3,85.0
+UBCV,2021,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi;Hilla Weidberg,9,91.1,,93.0,89.0,,,,,,,,,,,,,,,,,,,,,7,91.0,92.0,90.0
+UBCV,2022,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Ivan Robert Nabi;Elizabeth Rideout;Calvin Roskelley;Jessica Yu,114,80.5,,96.0,0.0,,,,,,,,,,,2,1,3,3,7,3,11,11,21,23,29,83.0,89.8,75.0
+UBCV,2022,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Janel Kopp;Ivan Robert Nabi;Hilla Weidberg,38,88.2,,97.0,62.0,,,,,,,,,,,0,0,0,1,1,1,0,1,1,10,23,90.0,92.8,87.5
+UBCV,2022,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi;Hilla Weidberg,6,92.0,,93.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,92.5,93.0,91.3
+UBCV,2023,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi;Hilla Weidberg,9,90.44,,93.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,3,6,90.0,92.0,89.0

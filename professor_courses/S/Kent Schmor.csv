@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,PHIL,240,A,004,KNOW & REALITY I,"Schmor, Kent",16,71.57,11.47,92,55,14,0,2,0,0,0,0,0,0,0,0,0,2,1,2,2,2,2,1,0,2
+UBC,2015,W,PHIL,460,A,001,PHIL OF SCIENCE,"Schmor, Kent",27,75.59,8.89,89,60,27,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,3,4,5,6,0
+UBC,2016,W,PHIL,102,,002,INTR PHILSPHY II,"Schmor, Kent",22,72.14,12.44,88,40,20,1,1,0,0,0,0,0,0,1,1,1,1,1,2,2,4,2,4,3,0
+UBCV,2015,W,PHIL,240,A,004,Knowledge and Reality I,Kent Schmor,14,71.571428571,11.473811557,92.0,55.0,,,,,,,,,,,0,0,,,,,2,2,1,0,
+UBCV,2015,W,PHIL,460,A,001,Philosophy of Science,Kent Schmor,27,75.592592593,8.893641892,89.0,60.0,,,,,,,,,,,0,0,0,,,,,,5,6,0
+UBCV,2016,W,PHIL,102,,002,Introduction to Philosophy II,Kent Schmor,21,72.14285714,12.44301296,88.0,40.0,,,,,,,,,,,1,1,1,1,2,2,4,2,4,3,0

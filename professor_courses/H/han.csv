@@ -1,0 +1,65 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2005,W,MATH,340,,202,INTRO LIN PROG,"Han, Guangyue",54,67.42,16.2,93,28,47,5,2,0,0,0,0,3,1,1,5,5,5,1,5,4,8,5,4,8,2
+UBC,2005,W,MUSC,165,,001,ASIAN MUSIC ENS,"HAN, MEI",15,83,10.41,96,60,14,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,7,2
+UBC,2006,W,MATH,340,,201,INTRO LIN PROG,"Han, Guangyue",60,72.39,16.14,97,21,57,2,0,0,1,0,0,1,1,0,2,5,7,3,3,4,5,4,11,4,11
+UBC,2006,W,MUSC,165,A,001,ASIAN MUSIC ENS,"HAN, MEI",27,83.73,5.52,92,75,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,7,7,6
+UBC,2007,W,MUSC,165,A,001,ASIAN MUSIC ENS,"HAN, MEI",21,85.57,5.5,93,75,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,5,7
+UBC,2010,W,EECE,432,,101,BIOLOGICAL MEMS,"Han, Kevin",30,75.77,7.98,93,62,30,0,0,0,0,0,0,0,0,0,0,0,0,2,4,3,6,3,9,2,1
+UBC,2010,W,EECE,532,,101,BIOMED MICRODEV,"Han, Kevin",5,86,4.3,91,81,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1
+UBC,2011,W,SCIE,113,,101,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea",26,73.58,9.53,91,58,26,0,0,0,0,0,0,0,0,0,0,0,3,2,1,4,5,2,4,4,1
+UBC,2011,W,SCIE,113,,102,SCIE SEMINAR,"Fox, Joanne Alison;Gaynor, Erin;Han, Andrea",16,73.06,12.24,85,32,15,1,0,0,0,0,0,0,1,0,1,0,0,0,1,3,4,2,4,1,0
+UBC,2011,W,SCIE,113,,103,SCIE SEMINAR,"Berger, James;Fox, Joanne Alison;Han, Andrea",14,66.71,14.87,80,20,13,1,0,0,0,0,0,1,0,0,1,0,1,0,4,4,0,2,2,0,0
+UBC,2011,W,SCIE,113,,108,SCIE SEMINAR,"De Wreede, Robert;Fox, Joanne Alison;Han, Andrea",22,75.29,11.42,90,47,20,1,1,0,0,0,0,0,0,1,1,1,0,1,2,1,2,4,4,3,2
+UBC,2011,W,SCIE,113,,109,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Ng, David",21,74.65,5.81,87,64,20,0,0,0,1,0,0,0,0,0,0,0,0,0,2,4,5,4,4,1,0
+UBC,2011,W,SCIE,113,,110,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Waltham, Christopher",25,75.48,13.53,92,30,24,1,0,0,0,0,0,0,1,0,1,0,2,0,2,1,6,1,5,6,1
+UBC,2011,W,SCIE,113,,111,SCIE SEMINAR,"Bole, Gregory Michael;Fox, Joanne Alison;Han, Andrea",26,75.48,9.47,90,44,24,1,1,0,0,0,0,0,0,1,1,0,0,1,2,3,3,4,8,2,1
+UBC,2011,W,SCIE,113,,112,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Knorr, Edwin Max",23,74.87,9.6,92,50,23,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,3,3,6,2,1
+UBC,2011,W,SCIE,113,,201,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Lekhi, Priya",26,75.54,5.74,84,63,26,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,4,3,11,0,0
+UBC,2011,W,SCIE,113,,203,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Welch, William",22,68.41,14.51,91,22,20,2,0,0,0,0,0,1,0,1,2,2,0,0,4,2,4,4,3,0,1
+UBC,2011,W,SCIE,113,,209,SCIE SEMINAR,"Berger, James;Fox, Joanne Alison;Han, Andrea",26,74.77,6.36,84,57,26,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,7,4,8,0,0
+UBC,2011,W,SCIE,113,,210,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Pai, Dinesh",26,73.19,8.8,85,50,26,0,0,0,0,0,0,0,0,0,0,2,0,2,0,4,5,5,7,1,0
+UBC,2011,W,SCIE,113,,211,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Vatsal, Vinayak",26,69.35,9.24,82,48,24,2,0,0,0,0,0,0,0,2,2,1,1,1,0,7,8,4,2,0,0
+UBC,2011,W,SCIE,113,,212,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Samuels, Anne Lacey",26,72.81,9.2,88,40,25,1,0,0,0,0,0,0,0,1,1,0,0,0,3,5,9,2,4,2,0
+UBC,2012,W,EDCP,301,,109,ART ELEM CRC&PED,"Han, Hsiao-Cheng",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,EDCP,520,,031,"PRS,PRC,&CUR ISS","Han, Hsiao-Cheng",9,91.11,4.46,95,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,6
+UBC,2012,W,EDCP,585,D,032,SPECIAL CURR&PED,"Han, Hsiao-Cheng",10,93.33,2.69,98,89,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8
+UBC,2012,W,EDUC,500,,62C,RES MTHD IN EDUC,"Han, Hsiao-Cheng;Kentel, Jeanne",17,89.53,2.5,94,86,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,8
+UBC,2012,W,SCIE,113,,101,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Waltham, Christopher",27,74.22,19.88,94,2,25,2,0,0,0,1,0,1,0,0,2,1,0,0,2,2,4,2,6,5,3
+UBC,2012,W,SCIE,113,,102,SCIE SEMINAR,"Berger, James;Fox, Joanne Alison;Han, Andrea",26,76,3.79,82,70,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,7,0,0
+UBC,2012,W,SCIE,113,,103,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Lim, Chinten James",20,75.5,4.98,85,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,7,2,1,0
+UBC,2012,W,SCIE,113,,108,SCIE SEMINAR,"De Wreede, Robert;Fox, Joanne Alison;Han, Andrea",23,74.74,9.34,92,54,23,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,5,2,3,4,1
+UBC,2012,W,SCIE,113,,109,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea",26,75.31,7.3,90,58,26,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,4,7,8,0,1
+UBC,2012,W,SCIE,113,,110,SCIE SEMINAR,"Bole, Gregory Michael;Fox, Joanne Alison;Han, Andrea",25,77.63,7.65,90,59,24,0,1,0,0,0,0,0,0,0,0,0,1,1,0,2,5,4,7,3,1
+UBC,2012,W,SCIE,113,,111,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Knorr, Edwin Max",27,74.04,6.93,88,57,27,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,10,4,2,3,0
+UBC,2012,W,SCIE,113,,112,SCIE SEMINAR,"Cheung, Wai Lung;Fox, Joanne Alison;Han, Andrea",27,75.44,6.8,93,61,27,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,7,3,8,0,1
+UBC,2012,W,SCIE,113,,201,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Harris, Sara",25,75.29,8.88,88,51,24,0,1,0,0,0,0,0,0,0,0,1,1,1,1,2,3,7,5,3,0
+UBC,2012,W,SCIE,113,,202,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Pai, Dinesh",23,69.09,24.06,87,0,20,3,0,0,0,2,0,1,0,0,3,0,0,0,0,5,2,4,6,3,0
+UBC,2012,W,SCIE,113,,203,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Steyn, Douw Gerbrand",21,70.85,22.82,91,8,18,2,1,0,0,1,1,0,0,0,2,1,0,1,0,2,2,2,6,2,2
+UBC,2012,W,SCIE,113,,208,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Sherman, John",17,75.47,7.08,86,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,7,1,0
+UBC,2012,W,SCIE,113,,209,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Oberg, Gunilla",25,71.76,10.1,88,52,25,0,0,0,0,0,0,0,0,0,0,1,3,2,2,3,2,7,3,2,0
+UBC,2012,W,SCIE,113,,210,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea",25,74.21,6.86,85,63,24,0,1,0,0,0,0,0,0,0,0,0,0,1,3,6,3,4,5,2,0
+UBC,2012,W,SCIE,113,,211,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Samuels, Anne Lacey",26,72.73,13.56,84,18,25,1,0,0,0,0,1,0,0,0,1,0,2,1,1,2,6,2,11,0,0
+UBC,2012,W,SCIE,113,,212,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Vatsal, Vinayak",26,73.73,13.85,86,19,24,2,0,0,0,0,1,0,0,1,2,0,0,0,0,4,6,5,7,2,0
+UBC,2012,W,SCIE,113,,A01,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea;Ng, David",23,70.35,14.13,91,16,22,1,0,0,0,0,1,0,0,0,1,0,2,1,2,4,5,4,3,0,1
+UBC,2012,W,SCIE,113,,B01,SCIE SEMINAR,"De Wreede, Robert;Fox, Joanne Alison;Han, Andrea",26,70.24,16.73,91,23,21,4,1,0,0,0,0,1,0,3,4,0,1,0,3,4,2,3,3,4,1
+UBC,2012,W,SCIE,113,,GP2,SCIE SEMINAR,"Fox, Joanne Alison;Han, Andrea",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,S,EDCP,409,,952,ART ED THRY&RES,"Han, Hsiao-Cheng",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,408,,301,"ART,ED&CULTL DIV","Han, Hsiao-Cheng",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDCP,585,B,032,SPECIAL CURR&PED,"Han, Hsiao-Cheng",11,96.3,3.92,99,87,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+UBC,2014,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",23,,,,,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,409,,952,ART ED THRY&RES,"Han, Hsiao-Cheng",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,S,EDCP,585,A,941,SPECIAL CURR&PED,"Han, Hsiao-Cheng",5,95.8,0.45,96,95,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+UBC,2015,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",26,,,,,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,EDUC,450,B,307,INQUIRY SEMNR 1,"Han, Hsiao-Cheng",21,,,,,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,EDCP,409,,952,ART ED THRY&RES,"Han, Hsiao-Cheng",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDCP,520,,031,"PRS,PRC,&CUR ISS","Han, Hsiao-Cheng",12,97.5,1.38,99,95,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2016,W,EDCP,585,A,032,SPECIAL CURR&PED,"Han, Hsiao-Cheng",6,92.17,6.71,98,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5
+UBC,2017,S,EDCP,409,,952,ART ED THRY&RES,"Han, Hsiao-Cheng",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDUC,452,B,307,INQUIRY SEMNR 3,"Han, Hsiao-Cheng",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,524,,032,DG VS CLT ART ED,"Han, Hsiao-Cheng",12,97.08,1.98,99,93,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+UBC,2018,W,EDCP,302,A,301,ART SEC CRC&PED,"Han, Hsiao-Cheng",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,409,,301,ART ED THRY&RES,"Han, Hsiao-Cheng",14,,,,,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,EDCP,524,,032,DG VS CLT ART ED,"Han, Hsiao-Cheng",8,95.67,7.23,99,81,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5

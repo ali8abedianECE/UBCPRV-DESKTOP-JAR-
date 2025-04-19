@@ -1,0 +1,48 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ARCH,513,,001,ENVIR SYS&CNTR 1,"Cole, Raymond John",40,77.03,5.45,90,66,38,0,0,1,1,0,0,0,0,0,0,0,0,0,3,3,9,9,11,2,1
+UBC,2002,W,ARCH,573,A,001,ADV TPCS ENV STD,"Cole, Raymond John",15,82.36,3.03,86,74,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,4,0
+UBC,2002,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",22,81.82,2.81,85,75,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,12,5,0
+UBC,2002,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",11,81.64,4.08,85,70,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,2,0
+UBC,2003,W,ARCH,573,A,001,ADV TPCS ENV STD,"Cole, Raymond John",14,82.64,2.95,90,78,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,2,1
+UBC,2003,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",17,81.31,8.44,91,55,16,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,8,4,1
+UBC,2003,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",12,80.91,4.16,86,74,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,2,0
+UBC,2006,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",15,82.29,6.18,90,63,14,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,5,1
+UBC,2006,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",11,81.09,4.3,88,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,2,0
+UBC,2007,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",19,80.32,3.54,85,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,9,2,0
+UBC,2007,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",20,77.67,5.98,86,60,18,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,5,4,7,1,0
+UBC,2010,W,ARCH,573,A,001,ADV TPCS ENV STD,"Cole, Raymond John",14,78.5,4.05,84,71,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,8,0,0
+UBC,2010,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",12,76.4,16.25,89,37,9,1,2,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,4,4,0
+UBC,2010,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",10,81.33,3.16,85,76,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,0
+UBC,2010,W,ARCH,573,D,004,ADV TPCS ENV STD,"Cole, Raymond John",8,79.63,7.82,88,63,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,3,0
+UBC,2011,W,ARCH,573,A,001,ADV TPCS ENV STD,"Cole, Raymond John",17,80.47,5.83,90,68,15,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2,6,3,1
+UBC,2011,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",14,72.5,21.53,90,8,11,1,1,1,0,1,0,0,0,0,1,0,0,0,0,3,1,2,2,2,1
+UBC,2011,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",14,73,20.99,87,7,12,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,2,1,7,1,0
+UBC,2011,W,ARCH,573,D,004,ADV TPCS ENV STD,"Cole, Raymond John",16,84.29,3.81,89,72,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,11,0
+UBC,2012,W,ARCH,568,,001,RES MTHDY ARCH,"Cole, Raymond John",4,82.25,2.06,84,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+UBC,2012,W,ARCH,573,A,001,ADV TPCS ENV STD,"Cole, Raymond John",15,79.36,3.54,85,73,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,2,0
+UBC,2012,W,ARCH,573,B,002,ADV TPCS ENV STD,"Cole, Raymond John",10,73,26.26,86,0,9,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,5,0
+UBC,2012,W,ARCH,573,C,003,ADV TPCS ENV STD,"Cole, Raymond John",11,74.73,25,91,0,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,8,0,1
+UBC,2012,W,ARCH,573,D,004,ADV TPCS ENV STD,"Cole, Raymond John",8,81.88,5.94,88,73,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,3,0
+UBC,2013,W,ARCH,513,,001,ENVIR SYS&CNTR 1,"Cole, Raymond John",44,77.45,9.8,90,50,44,0,0,0,0,0,0,0,0,0,0,3,0,0,4,2,5,8,7,13,2
+UBC,2013,W,ARCH,597,A,001,SPECIAL TOPICS,"Cole, Raymond John",13,88.64,3.64,94,83,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6
+UBC,2013,W,CIVL,598,C,001,TPCS IN CIVL ENG,"Cole, Raymond John",7,86.14,4.88,94,81,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2
+UBC,2013,W,MECH,550,B,101,SPEC ADV COURSES,"Cole, Raymond John;Hodgson, Murray",12,85.75,5.69,94,78,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,3
+UBC,2014,W,ARCH,513,,001,ENVIR SYS&CNTR I,"Cole, Raymond John",45,81.09,6.06,90,53,45,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,9,16,14,1
+UBC,2014,W,ARCH,573,D,001,ADV TPCS ENV STD,"Cole, Raymond John",15,79.93,7.54,87,62,15,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,4,6,0
+UBC,2015,W,ARCH,513,,001,ENVIR SYS&CNTR I,"Cole, Raymond John",45,79.78,5.2,90,66,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,8,19,8,1
+UBC,2015,W,ARCH,573,D,001,SMNR ENVRNMN STD,"Cole, Raymond John",14,81.71,5.92,90,69,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,2,5,1
+UBC,2016,S,ARCH,573,G,001,SMNR ENVRNMN STD,"Cole, Raymond John",8,86.88,2.64,91,83,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1
+UBC,2016,W,ARCH,513,,001,ENVIR SYS&CNTR I,"Cole, Raymond John",52,80.08,5.05,93,68,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,12,23,7,2
+UBC,2016,W,ARCH,573,D,001,SMNR ENVRNMN STD,"Cole, Raymond John",16,82.67,4.94,88,70,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,7,0
+UBC,2016,W,ARCH,573,G,001,SMNR ENVRNMN STD,"Cole, Raymond John",8,84.63,1.69,86,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0
+UBCV,2014,W,ARCH,513,,001,Environmental Systems and Controls I,Raymond John Cole;Raymond John J Cole,45,81.08888889,6.055884524,90.0,53.0,,,,,,,,,,,0,,,,,,,9,16,14,
+UBCV,2014,W,ARCH,573,D,001,Advanced Topics in Environmental Studies,Raymond John Cole;Raymond John J Cole,15,79.93333333,7.535313688,87.0,62.0,,,,,,,,,,,0,0,0,,,,,,,6,0
+UBCV,2015,W,ARCH,513,,001,Environmental Systems and Controls I,Raymond Cole;Raymond John Cole;Raymond John J Cole;Sally Miller,45,79.777777778,5.20003885,90.0,66.0,,,,,,,,,,,0,0,0,0,,,5,8,19,8,
+UBCV,2015,W,ARCH,573,D,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,14,81.714285714,5.915150969,90.0,69.0,,,,,,,,,,,0,0,0,0,0,,,5,,5,
+UBCV,2016,S,ARCH,573,G,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,8,86.875,2.642374473,91.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,1
+UBCV,2016,W,ARCH,513,,001,Environmental Systems and Controls I,Julia Casol;Julia Kristine Casol;Raymond Cole;Raymond John Cole;Raymond John J Cole,52,80.07692308,5.052066763,93.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,12,23,7,2
+UBCV,2016,W,ARCH,573,D,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,15,82.66666667,4.937707199,88.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,1,5,7,0
+UBCV,2016,W,ARCH,573,G,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,8,84.625,1.685018016,86.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,0
+UBCV,2017,W,ARCH,513,,001,Environmental Systems and Controls I,Adam Rysanek;Johanna Becker;Raymond John Cole,46,84.195652174,5.260416398,95.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,6,19,12,8
+UBCV,2019,W,ARCH,575,,001,Regenerative Development,Jennifer Cutbill;Matthew James Woodruff;Matthew Woodruff;Michel Labrie;Patricia Nelson-Smith Perrone;Patricia Perrone;Raymond John Cole;Shelley Long,7,82.142857143,4.63424109,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,3,2,1,1
+UBCV,2019,W,HPB,502,,101,Regenerative Development,Jennifer Cutbill;Matthew James Woodruff;Matthew Woodruff;Michel Labrie;Patricia Nelson-Smith Perrone;Patricia Perrone;Raymond John Cole;Shelley Long,15,82.333333333,6.264031868,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,5,0,7,1

@@ -1,0 +1,5 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,CPSC,313,,203,Computer Hardware and Operating Systems,Amee Trivedi;Crystal Lee;Hadi Sinaee;Kaiyuan Yang;Margo Seltzer;Michael Feeley;Ningfeng Yang;Norman Hutchinson;Runhe Guo;Runze Wang;Sepehr Noorafshan;Shukan Yang;Xutong Jiang;Yang Mo;Yi Xuan Qi;Yuxin Tian,144,78.527777778,13.619168127,98.0,4.0,6,2,3,6,6,10,9,17,27,34,24,,,
+UBCV,2021,W,CPSC,313,,204,Computer Hardware and Operating Systems,Amee Trivedi;Crystal Lee;Kaiyuan Yang;Margo Seltzer;Michael Feeley;Norman Hutchinson;Runhe Guo;Runze Wang;Sepehr Noorafshan;Xutong Jiang;Yang Mo;Yi Xuan Qi;Yuxin Tian,162,75.969135802,12.614899423,96.0,9.0,6,1,5,12,11,8,23,20,34,31,11,,,
+UBCV,2021,W,CPSC,313,,203,Computer Hardware and Operating Systems,Michael Feeley;Margo Seltzer;Amee Trivedi,144,78.8,,98.0,4.0,6,,,,6,11,9,17,28,34,24,82.0,87.0,73.0
+UBCV,2021,W,CPSC,313,,204,Computer Hardware and Operating Systems,Michael Feeley;Margo Seltzer;Amee Trivedi,161,76.8,,96.0,36.0,,,,13,10,8,23,20,34,32,11,79.0,85.0,71.0

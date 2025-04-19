@@ -1,0 +1,78 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",14,76.31,15.46,89,44,11,2,0,0,0,0,0,0,0,2,2,0,0,1,0,0,1,1,1,7,0
+UBC,2011,W,PERS,101,,001,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",10,67.78,8.41,76,50,9,0,1,0,0,0,0,0,0,0,0,1,0,1,1,2,3,1,0,0,0
+UBC,2011,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",16,81.67,14.64,90,30,14,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,3,9,1
+UBC,2011,W,PERS,104,,002,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",10,84,9.89,93,64,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,4
+UBC,2012,S,PERS,100,,921,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",13,80.92,8.92,90,67,12,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,2,3,3
+UBC,2012,S,PERS,101,,921,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",5,78,8.86,90,71,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,1
+UBC,2012,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",14,82.9,19.08,92,30,9,1,2,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,6
+UBC,2012,W,PERS,101,,001,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",5,87.2,2.77,90,84,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+UBC,2012,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",23,85.43,6.54,90,63,21,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,4,5,10
+UBC,2012,W,PERS,200,,002,INT PERSIAN 1,"Zolfi-Sistani, Fahimeh",6,82.4,2.3,85,79,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0
+UBC,2012,W,PERS,201,,002,INT PERSIAN 2,"Zolfi-Sistani, Fahimeh",5,79.2,11.86,90,60,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1
+UBC,2012,W,PERS,300,,002,ADV PERSIAN 1,"Zolfi-Sistani, Fahimeh",11,89.2,2.44,93,85,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5
+UBC,2013,S,PERS,104,,921,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",4,84.33,8.14,90,75,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+UBC,2013,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",11,81.44,6.84,90,70,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,3,1
+UBC,2013,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",13,77.09,10.01,90,51,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,2,4,1,1
+UBC,2013,W,PERS,300,,002,ADV PERSIAN 1,"Zolfi-Sistani, Fahimeh",13,74.31,24.34,90,0,12,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,4,2,3
+UBC,2014,S,PERS,100,,921,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",7,83.71,4.11,90,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,1
+UBC,2014,S,PERS,101,,921,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",5,83.2,5.45,90,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1
+UBC,2014,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",13,82.75,11.02,93,53,12,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,5,3
+UBC,2014,W,PERS,100,,002,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",5,87.2,4.21,93,83,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2
+UBC,2014,W,PERS,101,,002,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",9,86.44,4.9,92,76,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,3
+UBC,2015,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",16,84.2,9.5,96,60,15,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,2,2,1,7
+UBC,2015,W,PERS,101,,001,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",10,84.56,9.84,94,67,9,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,1,4
+UBC,2015,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",5,72.4,20.53,90,50,5,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,1
+UBC,2015,W,PERS,104,,003,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",4,89.25,2.22,91,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2015,W,PERS,300,,001,ADV PERSIAN 1,"Zolfi-Sistani, Fahimeh",4,88.25,2.36,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+UBC,2016,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",13,83.75,11.64,95,60,12,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,2,5
+UBC,2016,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",8,80.38,12.81,95,60,8,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,2,2
+UBC,2016,W,PERS,200,,001,INT PERSIAN 1,"Zolfi-Sistani, Fahimeh",11,77.1,15.63,95,60,10,0,0,1,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,1,4
+UBC,2016,W,PERS,201,,001,INT PERSIAN 2,"Zolfi-Sistani, Fahimeh",7,89.17,5.34,95,84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
+UBC,2016,W,PERS,400,,001,PRSN SHRT STRY,"Zolfi-Sistani, Fahimeh",11,86.82,9.57,93,60,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,6
+UBC,2017,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",11,84.33,10.1,95,68,9,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,5
+UBC,2017,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",17,87.19,4.28,90,73,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,10,4
+UBC,2017,W,PERS,300,,001,ADV PERSIAN 1,"Zolfi-Sistani, Fahimeh",11,87.82,4.6,95,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,4
+UBC,2018,W,PERS,100,,001,BASIC PERSIAN 1,"Zolfi-Sistani, Fahimeh",15,87.5,8.6,95,60,14,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,5,7
+UBC,2018,W,PERS,101,,001,BASIC PERSIAN 2,"Zolfi-Sistani, Fahimeh",6,87.17,6.4,92,75,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3
+UBC,2018,W,PERS,104,,001,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",15,88.67,4.24,96,82,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,6
+UBC,2018,W,PERS,104,,002,PERS WRIT & READ,"Zolfi-Sistani, Fahimeh",18,81.11,17.84,93,28,16,2,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,1,4,4,7
+UBC,2018,W,PERS,300,,001,ADV PERSIAN 1,"Zolfi-Sistani, Fahimeh",17,89.76,2.84,97,85,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,10
+UBC,2018,W,PERS,400,,001,PRSN SHRT STRY,"Zolfi-Sistani, Fahimeh",21,90.9,2.19,95,88,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17
+UBC,2018,W,PERS,400,,002,PRSN SHRT STRY,"Zolfi-Sistani, Fahimeh",14,90.21,4.77,94,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,12
+UBCV,2014,S,PERS,100,,921,Basic Persian I,Fahimeh Zolfi-Sistani,7,83.71428571,4.111540089,90.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2014,S,PERS,101,,921,Basic Persian II,Fahimeh Zolfi-Sistani,5,83.2,5.449770637,90.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2014,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,12,82.75,11.02167286,93.0,53.0,,,,,,,,,,,0,,,,,,,,,5,
+UBCV,2014,W,PERS,100,,002,Basic Persian I,Fahimeh Zolfi-Sistani,5,87.2,4.207136794,93.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,1,
+UBCV,2014,W,PERS,101,,002,Basic Persian II,Fahimeh Zolfi-Sistani,9,86.44444444,4.901813723,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,15,84.2,9.503382856,96.0,60.0,,,,,,,,,,,0,0,0,,,,,,,,7
+UBCV,2015,W,PERS,101,,001,Basic Persian II,Fahimeh Zolfi-Sistani,9,84.555555556,9.837569709,94.0,67.0,,,,,,,,,,,0,0,0,0,,,,,,,
+UBCV,2015,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani,5,72.4,20.525593779,90.0,50.0,,,,,,,,,,,0,,,,,,,,,,
+UBCV,2016,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,12,83.75,11.63947047,95.0,60.0,,,,,,,,,,,0,0,0,1,1,0,1,0,2,2,5
+UBCV,2016,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani,8,80.375,12.80555125,95.0,60.0,,,,,,,,,,,0,0,0,1,1,0,1,0,1,2,2
+UBCV,2016,W,PERS,200,,001,Intermediate Persian I,Fahimeh Zolfi-Sistani,10,77.1,15.63081003,95.0,60.0,,,,,,,,,,,0,0,0,3,1,1,0,0,0,1,4
+UBCV,2016,W,PERS,201,,001,Intermediate Persian II,Fahimeh Zolfi-Sistani,6,89.16666667,5.344779384,95.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,1,3
+UBCV,2016,W,PERS,400,,001,Persian Short Story for Native and Heritage Speakers,Fahimeh Zolfi-Sistani,11,86.81818182,9.568888983,93.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,4,6
+UBCV,2017,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,9,84.333333333,10.099504938,95.0,68.0,,,,,,,,,,,0,0,0,0,0,1,2,1,0,0,5
+UBCV,2017,W,PERS,101,,001,Basic Persian II,Fahimeh Zolfi-Sistani;Rastin Mehri,8,87.625,10.350120772,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,4,0,0,4
+UBCV,2017,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani;Rastin Mehri,16,87.1875,4.277362895,90.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,10,4
+UBCV,2017,W,PERS,300,,001,Advanced Persian I,Fahimeh Zolfi-Sistani,11,87.818181818,4.60039524,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,4
+UBCV,2018,W,ASIA,490,B,001,Asian Classics - Fourth Year Seminar,Fahimeh Zolfi-Sistani;Peter Nosco,16,79.8125,11.285499546,96.0,60.0,,,,,,,,,,,0,0,0,2,0,3,1,1,1,5,3
+UBCV,2018,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,14,87.5,8.600089445,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,1,5,7
+UBCV,2018,W,PERS,101,,001,Basic Persian II,Fahimeh Zolfi-Sistani,6,87.166666667,6.400520812,92.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,2,3
+UBCV,2018,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani,15,88.666666667,4.237025012,96.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,7,6
+UBCV,2018,W,PERS,104,,002,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani,18,81.111111111,17.842081417,93.0,28.0,,,,,,,,,,,2,0,0,0,0,0,0,1,4,4,7
+UBCV,2018,W,PERS,300,,001,Advanced Persian I,Fahimeh Zolfi-Sistani,17,89.764705882,2.840101489,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,7,10
+UBCV,2018,W,PERS,400,,001,Persian Short Story for Native and Heritage Speakers,Fahimeh Zolfi-Sistani,21,90.904761905,2.188715649,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,17
+UBCV,2018,W,PERS,400,,002,Persian Short Story for Native and Heritage Speakers,Fahimeh Zolfi-Sistani,14,90.285714286,4.778615368,94.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,1,12
+UBCV,2019,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani;Rastin Mehri,7,87.714285714,7.296444013,97.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2,3
+UBCV,2019,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani;Rastin Mehri,14,91.357142857,5.227253182,99.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,9
+UBCV,2019,W,PERS,104,,002,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani;Rastin Mehri,20,90.5,6.565459859,99.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,5,12
+UBCV,2019,W,PERS,200,,001,Intermediate-Low Persian I,Fahimeh Zolfi-Sistani;Rastin Mehri,7,86.428571429,11.50155269,99.0,66.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,1,3
+UBCV,2019,W,PERS,201,,001,Intermediate-Low Persian II,Fahimeh Zolfi-Sistani;Rastin Mehri,10,91.5,8.289886744,99.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,1,7
+UBCV,2019,W,PERS,300,,001,Intermediate-High Persian I,Fahimeh Zolfi-Sistani;Rastin Mehri,21,92.904761905,5.098085542,98.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,4,15
+UBCV,2019,W,PERS,400,,001,Persian Short Story for Native and Heritage Speakers,Fahimeh Zolfi-Sistani;Rastin Mehri,17,95.588235294,4.016510045,99.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,16
+UBCV,2020,S,PERS,400,,921,Persian Short Story for Native and Heritage Speakers,Fahimeh Zolfi-Sistani,11,95.090909091,2.34326889,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2020,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani;Rastin Mehri,10,93.2,5.49343042,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7
+UBCV,2020,W,PERS,104,,001,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani;Rastin Mehri,21,90.666666667,5.668627112,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,2,4,14
+UBCV,2020,W,PERS,104,,002,Persian Reading and Writing for Persian-Speaking Students,Fahimeh Zolfi-Sistani;Hessam Dehghani,14,83.0,25.258661881,99.0,0.0,,,,,,,,,,,1,0,0,0,0,0,1,0,3,1,8

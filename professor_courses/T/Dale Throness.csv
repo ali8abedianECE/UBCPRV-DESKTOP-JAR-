@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,MUSC,292,B,774,PERFORMANCE MAJ,"Hermiston, Nancy Jane;Throness, Dale",4,84,3.65,88,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,,,
+UBC,2015,W,MUSC,292,B,774,PERFORMANCE MAJ,"Hermiston, Nancy Jane;Throness, Dale",4,90,5.6,95,82,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2016,W,MUSC,393,B,774,PERFORMANCE MAJ,"Hermiston, Nancy Jane;Throness, Dale",4,92,8.29,98,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBC,2017,W,MUSC,493,B,774,PERFORMANCE MAJ,"Hermiston, Nancy Jane;Throness, Dale",4,92.75,5.97,97,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,,,
+UBCV,2021,W,MUSC,591,B,002,Music Performance (Major),Christine Szabo;Dale Throness;James Raftery;Krisztina Szabo;Marisa Gaetanne;Nancy Jane Hermiston;Peter Barcza,11,91.545454545,4.480259733,98.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,10,,,
+UBCV,2021,W,MUSC,593,B,002,Music Performance (Major),Christine Szabo;Dale Throness;Helen Chen Lee;James Raftery;Marisa Gaetanne;Nancy Jane Hermiston;Peter Barcza,7,92.428571429,3.505098328,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2021,W,MUSC,591,B,002,Music Performance (Major),Peter Barcza;Marisa Gaetanne;Nancy Jane Hermiston;James Raftery;Christine Szabo;Dale Throness,11,91.5,,98.0,80.0,,,,,,,,,,,,,,,,,,,,,10,92.0,93.5,90.5
+UBCV,2021,W,MUSC,593,B,002,Music Performance (Major),Peter Barcza;Marisa Gaetanne;Nancy Jane Hermiston;Helen Chen Lee;James Raftery;Christine Szabo;Dale Throness,8,91.5,,98.0,85.0,,,,,,,,,,,,,,,,,,,,,6,92.0,93.5,89.3
+UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder MacLellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,22,91.0,93.0,89.0
+UBCV,2022,W,MUSC,593,B,002,Music Performance (Major),Peter Barcza;Marisa Gaetanne;Nancy Jane Hermiston;James Raftery;Krisztina Szabo;Dale Throness,13,91.8,,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,10,92.0,95.0,90.0

@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,EDUC,451,B,305,INQUIRY SEMNR 2,"Lee, Yu Ling",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,450,B,305,INQUIRY SEMNR 1,"Lee, Yu Ling;Ralph, Rachel",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EDUC,451,B,305,INQUIRY SEMNR 2,"Lee, Yu Ling;Ralph, Rachel",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,EDUC,452,B,305,INQUIRY SEMNR 3,"Lee, Yu Ling;Ralph, Rachel",20,,,,,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,EDCP,377,,301,DS TEC II SC C&P,"Lee, Yu Ling",16,90,0,90,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2017,W,EDUC,451,B,305,INQUIRY SEMNR 2,"Lee, Yu Ling",17,,,,,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,EDUC,452,B,305,INQUIRY SEMNR 3,"Lee, Yu Ling",16,,,,,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBCV,2017,W,EDCP,377,,301,Design and Technology II - Secondary: Curriculum and Pedagogy,Theresa Magee;Yu Ling Lee,16,90.0,0.0,90.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16
+UBCV,2018,W,EDCP,377,,301,Design and Technology II - Secondary: Curriculum and Pedagogy,Theresa Magee;Yu Ling Lee,17,95.294117647,4.36984991,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,16

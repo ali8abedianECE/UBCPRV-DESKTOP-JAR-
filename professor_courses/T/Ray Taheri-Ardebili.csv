@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,115,74.51304348,11.88642541,92.0,0.0,2,,,4,7,17,21,15,23,16,,,,
+UBCO,2014,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,98,75.79591837,8.909579211,96.0,53.0,0,,,6,7,15,11,17,21,13,,,,
+UBCO,2014,W,APSC,180,,101,Statics,Ray Taheri-Ardebili,88,68.21590909,16.29924818,98.0,18.0,10,9,10,1,11,8,7,7,8,10,7,,,
+UBCO,2014,W,APSC,180,,102,Statics,Ray Taheri-Ardebili,99,67.06060606,17.55796126,97.0,0.0,11,10,11,10,5,9,8,5,14,11,5,,,
+UBCO,2014,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,86,69.63953488,10.17252677,90.0,37.0,,,9,5,8,16,16,14,8,,,,,
+UBCO,2014,W,ENGR,499,,001,Engineering Capstone Design Project,Ray Taheri-Ardebili,168,84.2202381,3.695644945,91.0,69.0,0,0,0,0,0,,,7,62,86,7,,,
+UBCO,2015,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Amir Zaher;Hassan Iqbal;Majid Targhagh;Ray Taheri-Ardebili;Roya Samanipour,168,78.208333333,9.709464588,96.0,33.0,,,,5,6,14,18,17,63,31,6,,,
+UBCO,2015,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,127,78.149606299,10.374020313,93.0,22.0,,,,5,7,14,9,20,30,28,10,,,
+UBCO,2015,W,APSC,180,,101,Statics,Bardia Tabiatnejad;Nursafarina Ahmad;Ray Taheri-Ardebili;Saber Moradi;Sadaf Moallemi Pour;Trevor Billows,117,66.230769231,18.556709269,98.0,9.0,18,10,11,8,6,13,8,13,11,11,8,,,
+UBCO,2015,W,APSC,180,,102,Statics,Bardia Tabiatnejad;Nursafarina Ahmad;Ray Taheri-Ardebili;Saber Moradi;Sadaf Moallemi Pour;Trevor Billows,141,62.496453901,21.065077435,100.0,0.0,33,19,8,4,9,13,15,11,9,8,12,,,
+UBCO,2015,W,ENGR,376,,101,Materials Science II,Armin Rashidi;Ray Taheri-Ardebili,97,73.226804124,9.735571755,91.0,48.0,,,,10,10,15,14,14,15,8,,,,
+UBCO,2015,W,ENGR,475,,201,Materials Selection and Design,Armin Rashidi;Bryn Crawford;Bryn James Crawford;Masoud Haghi Kashani;Ray Taheri-Ardebili,71,75.450704225,6.364609139,87.0,62.0,0,0,0,2,6,14,12,14,18,5,0,,,
+UBCO,2015,W,ENGR,499,,001,Engineering Capstone Design Project,Carolyn Labun;Ray Taheri-Ardebili;Rehan Sadiq;Rudolf Seethaler,156,85.192307692,3.368000047,91.0,74.0,0,0,0,0,0,0,4,5,47,92,8,,,
+UBCO,2016,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Hassan Iqbal;Nima Moallemi;Ray Taheri-Ardebili;Sepehr Zarif Mansour,174,81.38505747,8.792798271,96.0,35.0,1,1,4,2,1,11,9,32,43,41,29,,,
+UBCO,2016,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Hassan Iqbal;Nima Moallemi;Ray Taheri-Ardebili;Sepehr Zarif Mansour,157,75.79617834,13.53331069,100.0,0.0,7,2,2,4,13,24,16,21,23,31,14,,,
+UBCO,2016,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,97,76.56701031,8.22712386,92.0,50.0,0,2,0,5,5,10,17,22,19,13,4,,,
+UBCO,2017,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Armin Rashidi;Luke Ohlmann;Moein Ahmadi Pour Shirazi;Ray Taheri-Ardebili;Ronak V.M. Ghasemloo;Sina Kheiri;Usamah Inam Muhammad,163,77.294478528,11.255688556,97.0,0.0,2,1,4,9,7,14,21,32,32,24,17,,,
+UBCO,2017,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Armin Rashidi;Luke Ohlmann;Mahyar Mohaghegh Montazeri;Moein Ahmadi Pour Shirazi;Ray Taheri-Ardebili;Ronak V.M. Ghasemloo;Sina Kheiri;Usamah Inam Muhammad,163,76.81595092,10.872004633,99.0,36.0,4,3,5,3,11,13,21,31,32,26,14,,,
+UBCO,2017,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili;Sepehr Rahimi,143,70.769230769,11.853977943,94.0,12.0,4,3,14,11,19,23,17,18,17,14,3,,,
+UBCO,2018,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Adel Yavarinasab;Amir Hossein Zeinali Kalkhoran;Dipti Nikam;Erfan Taatizadeh;Ray Taheri-Ardebili;Reza Sourki,167,73.976047904,11.32805032,95.0,16.0,4,9,4,7,12,23,25,31,23,24,5,,,
+UBCO,2018,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,175,75.68,11.282699604,95.0,22.0,6,4,5,1,10,19,27,29,43,25,6,,,
+UBCO,2018,W,ENGR,376,,101,Materials Science II,Emre Kermen;Ray Taheri-Ardebili,126,65.841269841,13.574925531,94.0,20.0,8,19,9,7,16,16,17,19,10,4,1,,,
+UBCO,2019,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Adel Yavarinasab;Ali Davoodabadifarahani;Connor Keegan;Erfan Taatizadeh;Hamed Tahmooressi;Negin Jalili;Negin Sadat Jalili;Ray Taheri-Ardebili;Sara Dordanihaghighi;Tina Olfatbakhsh,176,73.534090909,14.555469361,96.0,9.0,9,5,10,10,14,14,17,25,38,18,16,,,
+UBCO,2019,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Adel Yavarinasab;Ali Davoodabadifarahani;Connor Keegan;Erfan Taatizadeh;Hamed Tahmooressi;Negin Jalili;Negin Sadat Jalili;Ray Taheri-Ardebili;Sara Dordanihaghighi;Tina Olfatbakhsh,172,72.186046512,12.908142974,97.0,33.0,6,9,12,11,18,20,17,23,25,21,10,,,
+UBCO,2019,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili;Yue Zhang,141,71.219858156,14.257876118,97.0,11.0,7,10,11,9,11,16,16,20,22,8,11,,,
+UBCO,2019,W,ENGR,475,,201,Materials Selection and Design,Alexander Uhl;Bryn Crawford;Malcolm Clough;Ray Taheri-Ardebili;Stephen Kimanzi,53,79.245283019,5.784281288,90.0,64.0,0,0,0,0,5,1,3,14,24,5,1,,,
+UBCO,2020,W,APSC,169,,201,Fundamentals of Sustainable Engineering Design,Ahmed Sharaby;Atefeh Aliashrafi Zagi;Leticia Recla;Mahmoud Sakr;Majid Moradzadeh;Md Shahadat Hossain;Negin Jalili;Negin Kazemian;Ray Taheri-Ardebili;Resty Nabaterega;Saba Saleem;Shiva Khoei;Sunil Suresh;Vida Araban,222,76.752252252,11.33955035,96.0,12.0,5,5,2,8,11,20,28,42,46,38,17,,,
+UBCO,2020,W,APSC,169,,202,Fundamentals of Sustainable Engineering Design,Ahmed Sharaby;Atefeh Aliashrafi Zagi;Leticia Recla;Mahmoud Sakr;Majid Moradzadeh;Md Shahadat Hossain;Negin Jalili;Negin Kazemian;Ray Taheri-Ardebili;Resty Nabaterega;Saba Saleem;Shiva Khoei;Sunil Suresh;Vida Araban,215,74.069767442,13.759271044,99.0,0.0,9,7,6,13,14,24,32,28,40,24,18,,,
+UBCO,2020,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ahmed Elmouchi;Akanksha Bhurtel;Alaa Al Hawarneh;Ali Davoodabadifarahani;Hirad Mashouf;Mehrnaz Soleimanpour Makuei;Negin Jalili;Ray Taheri-Ardebili;Reeghan Osmond;Sara Dordanihaghighi;Sarin Raj Pokhrel;Tina Olfatbakhsh;Yussufreza Esmaeilishahmiri,227,77.762114537,12.109959732,95.0,1.0,5,6,4,4,13,14,18,34,68,43,18,,,
+UBCO,2020,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ahmed Elmouchi;Akanksha Bhurtel;Alaa Al Hawarneh;Ali Davoodabadifarahani;Debshankar Ghosh;Hirad Mashouf;Mehrnaz Soleimanpour Makuei;Negin Jalili;Ray Taheri-Ardebili;Reeghan Osmond;Sara Dordanihaghighi;Sarin Raj Pokhrel;Tina Olfatbakhsh;Yussufreza Esmaeilishahmiri,187,78.219251337,10.375739563,100.0,16.0,3,1,2,5,12,20,21,26,37,45,15,,,
+UBCO,2020,W,APSC,180,,201,Statics,Ray Taheri-Ardebili;Stephen Kimanzi,13,46.846153846,28.410227483,80.0,0.0,6,1,0,1,1,1,1,0,2,0,0,,,
+UBCO,2020,W,APSC,181,,201,Dynamics,Ahmad Rahmzadeh Gharehghanat;Ahmed Elmouchi;Mohammad Soltaniayan;Ray Taheri-Ardebili;Reza Sourki;Sajjad Mohammadnejad Daryani;Seach Chyr Goh;Sina Kheirkhah,192,84.479166667,15.159866531,100.0,3.0,5,3,7,5,7,7,6,5,26,29,92,,,
+UBCO,2020,W,APSC,181,,202,Dynamics,Ahmad Rahmzadeh Gharehghanat;Ahmed Elmouchi;Mohammad Soltaniayan;Peyman Yousefi;Ray Taheri-Ardebili;Sajjad Mohammadnejad Daryani,190,79.115789474,18.774272139,100.0,2.0,10,4,8,3,6,13,12,21,21,26,66,,,
+UBCO,2020,W,ENGR,376,,101,Materials Science II,Keaton Roch;Ray Taheri-Ardebili;Reeghan Osmond;Yue Zhang,155,71.219354839,12.780500045,96.0,28.0,6,13,10,12,13,20,15,20,20,23,3,,,
+UBCO,2021,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Akanksha Bhurtel;Alaa Al Hawarneh;Amir Nazemi;Debshankar Ghosh;Hirad Mashouf;Iman Jalilvand;Mahshid Mahbod;Mehrnaz Soleimanpour Makuei;Ray Taheri-Ardebili;Tina Olfatbakhsh;Yussufreza Esmaeilishahmiri,216,79.87962963,11.888018273,100.0,0.0,4,1,5,9,10,6,23,30,38,49,41,,,
+UBCO,2021,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Akanksha Bhurtel;Alaa Al Hawarneh;Amir Nazemi;Debshankar Ghosh;Hirad Mashouf;Iman Jalilvand;Mahshid Mahbod;Mehrnaz Soleimanpour Makuei;Ray Taheri-Ardebili;Tina Olfatbakhsh;Yussufreza Esmaeilishahmiri,181,80.662983425,10.422316332,98.0,18.0,2,3,4,1,7,8,10,24,50,50,22,,,
+UBCO,2021,W,APSC,180,,002,Statics,Ray Taheri-Ardebili;Stephen Kimanzi,54,50.240740741,16.238708919,82.0,10.0,16,18,4,6,3,2,2,1,2,0,0,,,
+UBCO,2021,W,APSC,181,,201,Dynamics,Ally Fraser;Bahare Rahimi;Faezeh Ketabchi;Haoyang Liu;James Ropotar;Mohd Akif Razi;Parham Fatemi;Peyman Yousefi;Ray Taheri-Ardebili;Sajjad Mohammadnejad Daryani,159,68.352201258,14.671568287,97.0,0.0,17,13,10,10,17,12,23,21,18,15,3,,,
+UBCO,2021,W,APSC,181,,202,Dynamics,Ally Fraser;Bahare Rahimi;Faezeh Ketabchi;Haoyang Liu;James Ropotar;Mohd Akif Razi;Parham Fatemi;Peyman Yousefi;Ray Taheri-Ardebili;Sajjad Mohammadnejad Daryani,162,69.648148148,13.466531885,95.0,12.0,13,7,9,19,17,17,16,27,20,12,5,,,
+UBCO,2021,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili;Yue Zhang,151,69.695364238,12.945008499,95.0,4.0,7,9,9,10,21,19,27,19,17,9,4,,,
+UBCV,2016,S,APSC,180,,VE1,Statics,Cornelie Emma Soelie Hellwig;Moein Ahmadi Pour Shirazi;Ray Taheri-Ardebili;Seach Chyr Goh,34,70.20588235,25.54589383,100.0,0.0,7,2,0,1,4,1,3,2,1,2,11,,,
+UBCV,2016,S,VANT,151,,VE1,Multidisciplinary Engineering Design Project,Cornelie Emma Soelie Hellwig;Jacques Rousseau;Lukas Stracovsky;Ray Taheri-Ardebili;Seach Chyr Goh,34,77.73529412,21.88164974,100.0,0.0,3,0,0,0,0,3,2,3,10,5,8,,,
+UBCO,2021,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,216,80.0,,100.0,27.0,,,,9,10,6,23,30,38,49,41,81.5,87.0,75.0
+UBCO,2021,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,181,80.7,,98.0,18.0,,,,,7,8,10,24,50,50,22,83.0,87.0,78.0
+UBCO,2021,W,APSC,180,,002,Statics,Ray Taheri-Ardebili,58,47.7,,82.0,0.0,20,18,,6,,,,,,,,50.0,60.0,35.5
+UBCO,2021,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,151,69.7,,95.0,4.0,7,9,9,10,21,19,27,19,17,9,4,72.0,77.5,64.0
+UBCO,2022,S,APSC,179,,001,Linear Algebra for Engineers,Ray Taheri-Ardebili,6,39.0,,56.0,5.0,2,3,1,0,0,0,0,0,0,0,0,50.0,52.3,27.5
+UBCO,2022,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,206,79.4,,95.0,24.0,3,1,3,6,4,11,19,39,60,43,17,81.0,85.0,76.0
+UBCO,2022,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,150,75.7,,92.0,26.0,6,3,3,5,8,17,18,15,48,21,6,79.5,83.0,70.0
+UBCO,2022,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,188,64.7,,96.0,28.0,18,27,32,12,16,17,20,15,14,9,8,65.0,75.0,55.0
+UBCO,2023,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,224,75.9,,97.0,0.0,10,1,7,8,7,14,30,37,56,35,11,79.0,84.0,73.0
+UBCO,2023,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,191,79.2,,93.0,46.0,1,2,1,5,7,13,28,32,45,40,15,80.0,85.0,75.0
+UBCO,2023,W,APSC,180,,201,Statics,Ray Taheri-Ardebili,231,61.0,,100.0,10.0,53,39,19,11,18,15,19,11,15,15,11,60.5,74.8,50.0
+UBCO,2023,W,APSC,180,,202,Statics,Ray Taheri-Ardebili,188,57.6,,96.0,0.0,56,22,14,28,8,11,12,15,8,4,4,59.0,70.0,45.0
+UBCO,2023,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,192,67.0,,96.0,22.0,8,30,17,23,21,13,21,23,12,16,5,66.0,77.0,58.0
+UBCV,2022,S,APSC,179,,VE1,Linear Algebra for Engineers,Ray Taheri-Ardebili,52,64.6,,94.0,31.0,8,5,6,5,5,5,6,2,6,2,2,65.5,75.0,54.8

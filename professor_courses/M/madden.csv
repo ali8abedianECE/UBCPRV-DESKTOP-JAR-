@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EECE,261,,201,ELECTROMAGNETICS,"Madden, John",93,64.74,18.45,100,3,80,11,2,0,0,2,0,1,5,3,11,14,9,6,8,8,10,7,6,3,9
+UBC,2002,W,EECE,261,,202,ELECTROMAGNETICS,"Madden, John",49,51.55,15.4,94,21,29,13,6,0,1,0,0,1,8,4,13,12,7,3,2,3,0,0,0,0,2
+UBC,2003,W,EECE,201,,1P1,Proj Int Prog I,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Madden, John",72,71.58,6.57,84,50,72,0,0,0,0,0,0,0,0,0,0,1,2,4,8,22,15,10,10,0,0
+UBC,2003,W,EECE,281,,201,ELEC&CMPT LAB II,"Madden, John",31,76.47,11.16,96,48,29,1,1,0,0,0,0,0,0,1,1,0,0,2,2,4,5,3,6,2,5
+UBC,2003,W,EECE,281,,202,ELEC&CMPT LAB II,"Madden, John",46,69.36,14.88,92,0,43,1,2,0,0,1,0,0,0,0,1,1,3,6,8,8,4,0,7,4,2
+UBC,2003,W,EECE,281,,203,ELEC&CMPT LAB II,"Dunford, William;Madden, John",12,81.92,9.22,97,63,12,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,4,1,3
+UBC,2003,W,EECE,281,,204,ELEC&CMPT LAB II,"Dunford, William;Madden, John",40,67.73,9.42,87,51,40,0,0,0,0,0,0,0,0,0,0,4,3,8,5,5,6,4,3,2,0
+UBC,2003,W,EECE,281,,205,ELEC&CMPT LAB II,"Dunford, William;Madden, John",25,74.72,14.26,92,38,23,2,0,0,0,0,0,0,1,1,2,1,0,1,2,1,7,1,2,3,5
+UBC,2003,W,EECE,571,B,104,ELEC SEM&SP PROB,"Madden, John",4,83.75,4.57,89,78,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0
+UBC,2003,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",7,91,4.16,96,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2005,W,EECE,352,,101,ELEC MATERIALS,"Madden, John",103,67.18,15.07,100,26,94,6,3,0,0,0,0,1,2,3,6,15,7,9,11,13,9,10,6,3,11
+UBC,2005,W,EECE,352,,201,ELEC MATERIALS,"Madden, John",60,72.16,14.52,100,30,57,1,2,0,0,0,0,0,1,0,1,3,5,7,8,7,5,5,4,5,8
+UBC,2005,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",9,88.38,3.78,94,85,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+UBC,2006,W,EECE,352,,101,ELEC MATERIALS,"Madden, John",88,70.54,14.33,100,20,84,1,1,1,1,0,0,1,0,0,1,6,10,10,11,9,4,9,11,4,10
+UBC,2006,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",10,89.1,5.78,97,83,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,5
+UBC,2007,W,EECE,300,,101,MOLCLS TO MECHNM,"Cheung, Karen;Madden, John",33,76.16,10.85,94,55,32,0,1,0,0,0,0,0,0,0,0,0,1,3,5,4,1,2,9,1,6
+UBC,2007,W,EECE,301,,201,NANOTEC & MICSYS,"Cheung, Karen;Madden, John",29,72.97,11.16,94,47,28,1,0,0,0,0,0,0,0,1,1,0,1,2,6,4,2,5,2,3,3
+UBC,2007,W,EECE,352,,101,ELEC MATERIALS,"Madden, John",97,74.34,13.54,100,50,94,0,3,0,0,0,0,0,0,0,0,7,6,10,6,12,12,9,9,5,18
+UBC,2007,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",9,87.56,3.21,94,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,2
+UBC,2009,W,EECE,364,,101,ELCMGNT FLDS&WVS,"Madden, John",84,71.69,14.68,100,24,81,3,0,0,0,0,0,2,1,0,3,4,4,10,9,14,11,4,7,9,9
+UBC,2009,W,EECE,364,,201,ELCMGNT FLDS&WVS,"Madden, John",70,71.19,12.67,99,41,66,2,0,0,2,0,0,0,0,2,2,4,8,5,7,6,5,15,5,7,4
+UBC,2009,W,EECE,400,,201,NANTEC & MICRSYS,"Madden, John;Walus, Konrad",15,85,6.87,95,68,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,2,6,3
+UBC,2009,W,EECE,571,M,205,ELEC SEM&SP PROB,"Madden, John",4,91.25,4.57,97,86,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2009,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",20,87.68,4.27,95,80,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,7
+UBC,2010,W,EECE,300,,101,MOLCLS TO MECHNM,"Cretu, Edmond;Madden, John",18,71.83,13.73,92,50,18,0,0,0,0,0,0,0,0,0,0,3,1,0,2,2,2,2,2,1,3
+UBC,2010,W,EECE,301,,201,NANOTEC & MICSYS,"Cretu, Edmond;Madden, John",13,77.31,11.63,89,43,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,3,4,3,0
+UBC,2010,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",14,86.29,6.43,97,74,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,3,5
+UBC,2011,W,EECE,364,,201,ELCMGNT FLDS&WVS,"Madden, John",101,76.36,13.13,99,41,99,1,1,0,0,0,0,0,0,1,1,5,5,9,4,11,12,4,19,11,19
+UBC,2011,W,EECE,401,,101,NANOTEC ELETRNCS,"Madden, John",23,76,12.51,100,57,23,0,0,0,0,0,0,0,0,0,0,0,1,4,1,3,3,0,4,4,3
+UBC,2011,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",11,85.73,5.88,96,80,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,3
+UBC,2012,W,EECE,364,,101,ELCMGNT FLDS&WVS,"Madden, John",108,71.89,14.19,100,14,105,2,0,0,1,0,2,0,0,0,2,6,8,14,13,9,12,7,15,13,8
+UBC,2012,W,EECE,480,,201,SEMICONDUCT DEVI,"Madden, John",19,79.58,14.82,100,36,18,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,5,1,3,2,5
+UBC,2012,W,EECE,490,B,102,TPCS ELEC&CMP I,"Madden, John",24,79.42,8.29,90,64,24,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,0,8,4,3
+UBC,2012,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",8,86.63,4.66,96,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,2
+UBC,2013,W,EECE,352,,101,ELEC MATERIALS,"Madden, John",120,68.92,15,100,27,112,7,1,0,0,0,0,1,3,3,7,13,6,15,14,9,11,13,13,4,14
+UBC,2013,W,EECE,352,,201,ELEC MATERIALS,"Madden, John",37,62.72,22.61,99,10,30,6,0,0,1,0,2,1,3,0,6,7,0,7,2,2,2,0,1,5,4
+UBC,2013,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",10,86.9,4.07,92,80,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,4
+UBC,2014,W,EECE,401,,101,NANOTEC ELETRNCS,"Madden, John",24,76.96,12.78,99,55,24,0,0,0,0,0,0,0,0,0,0,0,1,3,3,2,1,1,7,2,4
+UBC,2015,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",41,86.32,5.34,96,69,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,10,14,12
+UBC,2015,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",37,85.92,5.48,96,73,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,14,9
+UBC,2015,W,EECE,580,,201,ELEC MAT & DEV,"Madden, John",7,87.86,4.49,95,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2
+UBC,2015,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",89,86.31,5.32,96,63,88,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,30,33,21
+UBC,2015,W,ELEC,492,,001,EL ENRG SYST DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",29,87.32,5.25,95,76,28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,8,10,9
+UBC,2015,W,ELEC,493,,001,NANTEC & MICRSYS,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",8,84.88,5.89,96,78,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,2,1
+UBC,2015,W,ELEC,494,,001,BIOMED CPSTN DSN,"Arefifar, Seyed Ali;Botman, Pieter;Fels, S Sidney;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Najarian, Siamak;Tang, Shuo",13,89.54,4.81,96,82,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,9
+UBC,2016,W,CPEN,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",51,83.9,7.3,94,55,51,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,6,8,22,10
+UBC,2016,W,CPEN,492,,001,SOFTWARE ENG PRJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",37,84.94,5.06,95,75,36,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,10,12,8
+UBC,2016,W,ELEC,491,,001,CAPSTN DSGN PROJ,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",95,84.86,5.82,94,64,95,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,14,19,36,21
+UBC,2016,W,ELEC,492,,001,EL ENRG SYST DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",16,87.06,3.66,90,76,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,9,4
+UBC,2016,W,ELEC,493,,001,NANTEC & MICRSYS,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",6,90.67,3.2,94,86,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+UBC,2016,W,ELEC,494,,001,BIOMED CPSTN DSN,"Abolmaesumi, Purang;Grecu, Cristian Sorin;Kruchten, Philippe;Lee, Terry;Lusina, Paul;Madden, John;Tang, Shuo",15,87.33,2.5,92,83,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11,2
+UBC,2017,W,ARCH,574,,001,GRN BLD CNTMP PR,"Madden, John",10,72.5,5.4,81,64,10,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,0,2,0,0
+UBC,2017,W,EECE,580,,101,ELEC MAT & DEV,"Madden, John",10,87.2,6.48,97,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,4
+UBC,2017,W,ELEC,315,,101,ELEC MATRL&DEVIC,"Madden, John",105,75.32,12.1,99,34,104,1,0,0,0,0,0,0,1,0,1,2,4,10,13,6,13,10,19,14,13
+UBC,2017,W,ELEC,415,,201,SEMICONDUCT DEVI,"Madden, John",26,76.2,14.19,100,38,24,1,1,0,0,0,0,0,1,0,1,1,0,1,2,2,4,2,7,1,4
+UBC,2018,W,ARCH,574,,001,GRN BLD CNTMP PR,"Madden, John",6,74.67,6.68,81,63,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,2,0,0
+UBC,2018,W,ELEC,315,,101,ELEC MATRL&DEVIC,"Madden, John",102,79.45,11.34,100,50,100,0,2,0,0,0,0,0,0,0,0,2,3,3,6,7,14,11,22,11,21

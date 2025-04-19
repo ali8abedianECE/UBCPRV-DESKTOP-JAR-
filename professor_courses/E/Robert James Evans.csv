@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2010,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Evans, Robert James;Spiegelman, George B",26,80.5,1.64,84,77,24,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,16,0,0,,,
+UBC,2010,W,ISCI,330,,101,TPCS INTEG SCIE,"Evans, Robert James;Groat, Lee",10,83.2,6.91,95,71,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,2,,,
+UBC,2011,W,ISCI,320,,201,RSRCH DEVEL PROJ,"Blok, Hendrik;Doebeli, Michael Walter;Evans, Robert James",29,81.66,2.45,90,77,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,2,1,,,
+UBC,2011,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James;Groat, Lee",15,87.4,5.46,96,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,6,5,,,
+UBC,2012,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James;Groat, Lee",21,90.14,3.86,95,83,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,15,,,
+UBC,2013,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James",38,88.55,4.2,98,78,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,20,13,,,
+UBC,2013,W,ISCI,360,,201,SYS APP REG SUS,"Evans, Robert James;Macfadyen, Leah",33,86.21,8.43,99,58,33,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,7,9,12,,,
+UBC,2014,W,ISCI,311,,201,SIZE OF THINGS,"Evans, Robert James;Kellogg, Jonathan",28,86.56,5.89,96,70,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,12,9,,,
+UBC,2014,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James",41,90.61,5.2,95,65,41,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,8,31,,,
+UBC,2015,W,ISCI,311,,201,SIZE OF THINGS,"Evans, Robert James",39,90.44,6.18,98,61,39,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,6,28,,,
+UBC,2015,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James",39,89.9,3.52,96,77,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,12,25,,,
+UBC,2016,W,ISCI,311,,201,SIZE OF THINGS,"Evans, Robert James",36,91.25,2.91,96,84,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,28,,,
+UBC,2016,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James",40,86.87,5.45,94,72,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,17,13,,,
+UBC,2017,W,ISCI,311,,201,SIZE OF THINGS,"Evans, Robert James",39,92.69,5.03,99,80,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,30,,,
+UBC,2017,W,ISCI,330,A,101,TPCS INTEG SCIE,"Evans, Robert James",40,84.6,8.32,97,60,40,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,6,7,7,15,,,
+UBC,2018,W,ISCI,311,,201,SIZE OF THINGS,"Evans, Robert James",41,89.8,4.48,97,76,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,12,25,,,
+UBC,2018,W,ISCI,312,,101,SYM,"Evans, Robert James",38,89.95,3.63,96,83,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,22,,,
+UBCV,2014,W,ISCI,311,,201,The Size of Things,Jonathan Kellogg;Robert James Evans,27,86.55555556,5.885662719,96.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,12,9,,,
+UBCV,2014,W,ISCI,330,A,101,Topics in Integrated Sciences,Robert James Evans,41,90.6097561,5.200375221,95.0,65.0,,,,,,,,,,,0,0,0,0,,,,,,8,31,,,
+UBCV,2015,W,ISCI,311,,201,The Size of Things,Robert James Evans,39,90.435897436,6.184849365,98.0,61.0,,,,,,,,,,,0,0,0,,,,,,,6,28,,,
+UBCV,2015,W,ISCI,330,A,101,Topics in Integrated Sciences,Robert James Evans,39,89.897435897,3.515341353,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,,,12,25,,,
+UBCV,2016,W,ISCI,311,,201,The Size of Things,Robert James Evans,36,91.25,2.911798659,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,7,28,,,
+UBCV,2016,W,ISCI,330,A,101,Topics in Integrated Sciences,Robert James Evans,39,86.87179487,5.454015841,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,3,1,5,17,13,,,
+UBCV,2017,W,ISCI,311,,201,The Size of Things,Ethan Fortes;Robert James Evans,39,92.692307692,5.032284435,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,5,30,,,
+UBCV,2017,W,ISCI,330,A,101,Topics in Integrated Sciences,Robert James Evans,40,84.6,8.322967912,97.0,60.0,,,,,,,,,,,0,0,0,1,1,0,3,6,7,7,15,,,
+UBCV,2018,W,ISCI,311,,201,The Size of Things,Michael Walter Doebeli;Robert James Evans;Tiera Naber,41,89.804878049,4.478948047,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,1,3,12,25,,,
+UBCV,2018,W,ISCI,312,,101,Symmetry,Robert James Evans;Tiera Naber,38,89.947368421,3.631300626,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,13,22,,,
+UBCV,2019,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Emily Scribner;Rhiana Henry;Robert James Evans;Tiera Naber,245,79.591836735,10.791462866,98.0,27.0,,,,,,,,,,,5,1,8,4,4,18,28,38,50,57,32,,,
+UBCV,2019,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Emily Scribner;Rhiana Henry;Robert James Evans,211,80.194312796,11.060662422,97.0,20.0,,,,,,,,,,,3,2,3,6,8,21,17,26,36,46,43,,,
+UBCV,2019,W,ISCI,311,,201,The Size of Things,Robert James Evans;Ussif Rashid Sumaila,48,97.020833333,5.624753738,100.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,0,45,,,
+UBCV,2019,W,ISCI,312,,101,Symmetry,Robert James Evans,43,93.837209302,3.308936188,100.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,40,,,
+UBCV,2020,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,Emily Don Scribner;Rhiana Henry;Robert James Evans,148,83.756756757,12.900256614,98.0,0.0,,,,,,,,,,,3,2,1,1,7,8,7,7,23,31,58,,,
+UBCV,2020,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Andrea Sanlorenzo;Kristopher Mitchener;Robert James Evans,244,85.635245902,12.254928778,100.0,6.0,,,,,,,,,,,4,0,3,4,2,4,12,21,38,49,107,,,
+UBCV,2020,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Paul Matlashewski;Robert James Evans;Samuel Shekut,285,87.964912281,13.121540339,100.0,0.0,,,,,,,,,,,5,1,2,1,8,4,10,13,27,48,166,,,
+UBCV,2020,W,ISCI,311,,201,The Size of Things,Robert James Evans,65,99.492307692,0.986202897,100.0,96.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,65,,,
+UBCV,2020,W,ISCI,312,,101,Symmetry,Robert James Evans,54,97.666666667,2.841737444,100.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,53,,,
+UBCV,2021,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,Ali Mehrabifard;Christina Draeger;Robert James Evans,144,87.784722222,12.922124571,99.0,18.0,,,,,,,,,,,4,1,0,3,2,1,5,5,12,23,88,,,
+UBCV,2021,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Benjamin Eaton;Catriona Breasley;Robert James Evans;Sepidehalsadat Hendi;Zaara Hussain,396,77.358585859,11.048234959,99.0,31.0,,,,,,,,,,,12,4,5,12,23,27,58,68,96,60,31,,,
+UBCV,2021,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans;Sepidehalsadat Hendi;Yuliya Kuzmenko;Zaara Hussain,293,81.699658703,12.133612598,98.0,0.0,,,,,,,,,,,6,1,5,10,12,12,15,33,54,73,72,,,
+UBCV,2021,W,ISCI,311,,201,The Size of Things,Mary Macquistan;Robert James Evans,46,92.391304348,7.352938221,100.0,55.0,,,,,,,,,,,0,0,1,0,0,0,0,0,5,3,37,,,
+UBCV,2021,W,ISCI,312,,101,Symmetry,Robert James Evans;Tiera Naber,57,88.807017544,5.850636707,97.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,1,3,25,27,,,
+UBCV,2021,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,Robert James Evans,144,87.8,,99.0,18.0,,,,,,,,,,,,,,,,,,,12,23,88,92.0,96.0,85.0
+UBCV,2021,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Robert James Evans,397,77.6,,99.0,31.0,,,,,,,,,,,9,,,12,23,27,58,69,96,61,32,79.0,84.0,73.0
+UBCV,2021,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans,293,81.9,,98.0,0.0,,,,,,,,,,,,,,10,12,12,16,33,54,73,72,84.0,89.0,78.0
+UBCV,2021,W,ISCI,311,,201,The Size of Things,Robert James Evans,46,92.4,,100.0,55.0,,,,,,,,,,,,,,,,,,,,,37,94.0,96.8,91.0
+UBCV,2021,W,ISCI,312,,101,Symmetry,Robert James Evans,57,89.5,,98.0,76.0,,,,,,,,,,,,,,,,,,,,25,28,89.0,93.0,87.0
+UBCV,2022,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,Robert James Evans,154,84.1,,99.0,20.0,,,,,,,,,,,3,1,2,2,3,5,9,14,23,31,61,87.0,92.0,79.3
+UBCV,2022,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Robert James Evans,277,76.9,,94.0,0.0,,,,,,,,,,,7,6,6,10,18,31,36,29,47,60,27,79.0,86.0,70.0
+UBCV,2022,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans,313,77.7,,97.0,0.0,,,,,,,,,,,13,1,8,5,23,22,36,26,64,68,47,81.0,87.0,73.0
+UBCV,2022,W,ISCI,311,,201,The Size of Things,Robert James Evans,68,96.5,,100.0,59.0,,,,,,,,,,,0,0,1,0,0,0,0,2,0,2,63,99.0,100.0,96.8
+UBCV,2022,W,ISCI,312,,101,Symmetry,Robert James Evans,56,92.2,,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,9,46,93.0,94.3,90.0
+UBCV,2023,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,Robert James Evans,77,78.15,,97.0,19.0,,,,,,,,,,,3,1,2,4,2,6,3,11,9,22,10,83.0,86.0,73.0
+UBCV,2023,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Robert James Evans,310,78.0,,96.0,0.0,,,,,,,,,,,3,1,3,7,21,29,46,37,61,63,18,79.0,85.0,72.0
+UBCV,2023,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans,291,78.5,,97.0,0.0,,,,,,,,,,,11,2,4,4,14,24,25,33,73,55,43,81.0,87.0,74.0
+UBCV,2023,W,ISCI,311,,201,The Size of Things,Robert James Evans,62,98.48,,100.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,62,99.0,100.0,98.0
+UBCV,2023,W,ISCI,312,,101,Symmetry,Robert James Evans,61,96.49,,100.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,1,57,98.0,100.0,95.0

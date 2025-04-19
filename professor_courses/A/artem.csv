@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,ECON,320,,001,INTRO MATH ECON,"Chneerov, Artem",52,70.51,12.11,97,50,49,0,3,0,0,0,0,0,0,0,0,4,9,2,5,5,7,5,4,5,3
+UBC,2002,W,ECON,514,,001,INFO & INCENTVES,"Chneerov, Artem",24,90.77,4.64,98,79,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,16
+UBC,2003,W,ECON,320,,001,INTRO MATH ECON,"Chneerov, Artem",81,76.93,11.58,97,50,81,0,0,0,0,0,0,0,0,0,0,5,2,4,4,7,11,14,10,13,11
+UBC,2003,W,ECON,500,,001,MICROECONOMICS,"Chneerov, Artem",64,76.35,9.73,99,60,63,0,1,0,0,0,0,0,0,0,0,0,0,8,0,15,8,5,14,6,7
+UBC,2003,W,ECON,514,,001,INFO & INCENTVES,"Chneerov, Artem",15,93.33,2.85,95,88,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12
+UBC,2005,W,ECON,320,,001,INTRO MATH ECON,"Shneyerov, Artem",60,79.53,9.89,97,50,60,0,0,0,0,0,0,0,0,0,0,2,1,1,5,2,6,8,15,13,7
+UBC,2005,W,ECON,514,,001,INFO & INCENTVES,"Shneyerov, Artem",13,92.69,4.84,100,85,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11
+UBC,2006,W,ECON,490,,008,APPLIED ECON,"Shneyerov, Artem",18,86.06,22.41,100,0,17,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,5,2,10
+UBC,2006,W,ECON,514,,001,INFO & INCENTVES,"Shneyerov, Artem",21,91.9,4.6,100,85,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,18
+UBC,2014,W,BIOF,520,,002,PROB-BSD LRN BIO,"Birol, Inanc;Brinkman, Ryan;Cherkasov, Artem;Jones, Steven J;Shah, Sohrab",16,88.31,3.89,95,79,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,6
+UBC,2015,W,MEDI,501,,001,MOLE & CELL BIOL,"Ashe, Maureen;Cherkasov, Artem;Cox, Michael;Duronio, Vincent;McNagny, Kelly Marshall;Mui, Alice;Pelech, Steven Daniel;Reiner, Neil;Roberts, Clive;Rossi, Fabio;Sandford, Andrew;Sly, Laura;Steiner, Theodore;Tebbutt, Scott;Vallance, Bruce;Wang, Yu Tian",38,90.68,5.7,98,76,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,6,27

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,BIOL,332,,001,PROTISTOLOGY,"Berger, James;Saldarriaga, Juan",38,72.35,10.6,95,50,37,0,1,0,0,0,0,0,0,0,0,1,3,3,5,5,8,4,3,1,4,,,
+UBC,2006,W,BIOL,332,,001,PROTISTOLOGY,"Berger, James;Saldarriaga, Juan",31,74.65,8.57,85,56,31,0,0,0,0,0,0,0,0,0,0,0,2,0,6,5,3,1,11,3,0,,,
+UBC,2007,W,BIOL,332,,001,PROTISTOLOGY,"Saldarriaga, Juan",27,71.46,10.61,95,50,26,0,0,1,0,0,0,0,0,0,0,2,1,3,3,3,5,3,4,1,1,,,
+UBC,2009,W,BIOL,332,,001,PROTISTOLOGY,"Keeling, Patrick John;Leander, Brian;Saldarriaga, Juan",17,73.13,11.76,92,50,15,0,0,2,0,0,0,0,0,0,0,1,2,0,1,1,2,2,5,0,1,,,
+UBC,2012,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",18,72.65,21.38,94,0,16,1,1,0,0,1,0,0,0,0,1,0,0,2,1,4,1,1,2,2,3,,,
+UBC,2013,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",21,67.06,18.96,90,13,17,1,0,3,0,0,1,0,0,0,1,4,1,0,2,2,1,2,2,2,1,,,
+UBC,2014,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",27,75.93,10.34,90,52,27,0,0,0,0,0,0,0,0,0,0,1,1,0,5,4,0,3,7,4,2,,,
+UBC,2015,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",49,73.64,12.27,95,44,46,1,2,0,0,0,0,0,0,1,1,4,2,3,3,5,7,2,10,5,5,,,
+UBC,2016,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",49,71.86,13.08,88,40,46,3,0,0,0,0,0,0,0,3,3,2,5,2,4,1,10,6,8,8,0,,,
+UBC,2016,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",27,64.92,17.35,99,10,24,2,0,1,0,0,1,0,1,0,2,3,3,4,1,3,4,3,1,1,1,,,
+UBC,2017,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",39,68.58,14.6,91,29,33,5,1,0,0,0,0,1,0,4,5,0,4,5,1,4,5,5,3,5,1,,,
+UBC,2017,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",23,67.17,15.79,92,37,20,3,0,0,0,0,0,0,3,0,3,3,1,1,0,2,7,1,3,1,1,,,
+UBC,2018,W,BIOL,203,,101,EUKARYOT MICROBI,"Keeling, Patrick John;Saldarriaga, Juan",39,77.38,8.61,90,56,37,0,1,0,1,0,0,0,0,0,0,0,2,2,1,4,4,4,13,6,1,,,
+UBC,2018,W,BIOL,332,,201,PROTISTOLOGY,"Saldarriaga, Juan",25,70.61,10.23,96,55,23,0,0,2,0,0,0,0,0,0,0,0,3,4,2,4,3,2,4,0,1,,,
+UBCV,2014,W,BIOL,332,,201,Protistology,Juan Saldarriaga,27,75.92592593,10.3363657,90.0,52.0,,,,,,,,,,,0,,,,5,,,,7,,,,,
+UBCV,2015,W,BIOL,203,,101,Eukaryotic Microbiology,Evan Cronmiller;Juan Saldarriaga;Patrick John Keeling,47,73.638297872,12.269484118,95.0,44.0,,,,,,,,,,,,,,,,5,7,,10,5,5,,,
+UBCV,2016,W,BIOL,203,,101,Eukaryotic Microbiology,Juan Saldarriaga;Patrick John Keeling;Thomas Whelan,49,71.85714286,13.08466023,88.0,40.0,,,,,,,,,,,3,2,5,2,4,1,10,6,8,8,0,,,
+UBCV,2016,W,BIOL,332,,201,Protistology,Donald Kanhonn Wong;Donald Wong;Juan Saldarriaga,26,64.92307692,17.35493723,99.0,10.0,,,,,,,,,,,2,3,3,4,1,3,4,3,1,1,1,,,
+UBCV,2017,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Elizabeth Colleen Cooney;Elizabeth Cooney;Juan Saldarriaga;Patrick John Keeling;Varsha Mathur,38,68.578947368,14.598466374,91.0,29.0,,,,,,,,,,,5,0,4,5,1,4,5,5,3,5,1,,,
+UBCV,2017,W,BIOL,332,,201,Protistology,Donald Kanhonn Wong;Donald Wong;Juan Saldarriaga,23,67.173913043,15.790250657,92.0,37.0,,,,,,,,,,,3,3,1,1,0,2,7,1,3,1,1,,,
+UBCV,2018,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Emma Elizabeth George;Emma George;Juan Saldarriaga;Patrick John Keeling,38,77.447368421,8.503409073,90.0,56.0,,,,,,,,,,,0,0,2,2,1,4,4,4,14,6,1,,,
+UBCV,2018,W,BIOL,332,,201,Protistology,Juan Saldarriaga;Liam Coleman;Liam James Marshall Coleman,23,70.608695652,10.228032471,96.0,55.0,,,,,,,,,,,0,0,3,4,2,4,3,2,4,0,1,,,
+UBCV,2019,W,BIOL,203,,101,Eukaryotic Microbiology,Elizabeth Colleen Cooney;Elizabeth Cooney;Juan Saldarriaga;Patrick John Keeling;Thomas Whelan,63,72.349206349,12.32511039,91.0,36.0,,,,,,,,,,,2,5,4,3,3,7,11,5,15,4,4,,,
+UBCV,2019,W,BIOL,332,,201,Protistology,Juan Saldarriaga;Nicholas Irwin,22,79.772727273,10.993209238,94.0,50.0,,,,,,,,,,,0,1,0,1,0,2,3,1,7,2,5,,,
+UBCV,2020,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson;Thomas Whelan,69,76.869565217,11.460819501,92.0,23.0,,,,,,,,,,,2,0,1,2,5,6,7,12,19,8,7,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Anna Cho;Brett Couch;Juan Saldarriaga;Patrick John Keeling;Saelin Bjornson,67,75.104477612,13.195653931,91.0,28.0,,,,,,,,,,,2,2,4,0,9,4,7,6,17,10,6,,,
+UBCV,2021,W,BIOL,332,,201,Protistology,Anna Cho;Juan Saldarriaga;Kaitlyn Mclean,20,65.95,22.05847492,94.0,0.0,,,,,,,,,,,2,2,3,1,0,3,4,1,0,1,3,,,
+UBCV,2021,W,BIOL,203,,101,Eukaryotic Microbiology,Brett Couch;Patrick John Keeling;Juan Saldarriaga,67,75.1,,91.0,28.0,,,,,,,,,,,,,,,9,,7,6,17,10,6,79.0,84.0,68.0
+UBCV,2021,W,BIOL,332,,201,Protistology,Juan Saldarriaga,20,66.9,,94.0,0.0,,,,,,,,,,,,,,,,,,,,,,70.0,76.0,58.8
+UBCV,2022,W,BIOL,203,,101,Eukaryotic Microbiology,Vittorio Boscaro;Brett Couch;Juan Saldarriaga,66,79.4,,97.0,38.0,,,,,,,,,,,2,0,0,3,4,6,7,8,11,13,12,80.0,88.0,73.3
+UBCV,2022,W,BIOL,332,,201,Protistology,Juan Saldarriaga,18,73.5,,96.0,43.0,,,,,,,,,,,1,1,1,1,1,3,0,4,3,0,3,76.5,82.8,65.0

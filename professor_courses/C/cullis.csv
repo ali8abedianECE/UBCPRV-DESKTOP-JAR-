@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2009,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",13,88.17,2.82,93,85,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4
+UBC,2010,W,BIOC,521,,201,ADV TPCS MOLE BI,"Cullis, Pieter",7,90.57,1.81,92,87,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2011,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",13,90.25,2.77,94,85,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+UBC,2011,W,BIOC,521,,201,ADV TPCS MOLE BI,"Cullis, Pieter;Finlay, B Brett",13,88.08,2.75,93,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,4
+UBC,2012,W,BIOC,460,,001,ADV TECHNIQ BIOC,"Cullis, Pieter;Foster, Leonard;Roberge, Michel",16,88.19,3.56,94,82,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,6
+UBC,2012,W,BIOC,521,,201,ADV TPCS MOLE BI,"Cullis, Pieter",10,90.1,2.08,94,86,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7
+UBC,2013,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Molday, Robert",17,89.31,2.73,94,86,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,7
+UBC,2014,W,GSAT,502,,001,ADV GSAT CONCEPT,"Bohlmann, Jorg;Cullis, Pieter;Eltis, Lindsay;Hieter, Philip;Hirst, Martin;Marra, Marco;Rieseberg, Loren;Ryan, Katherine",11,89.36,2.69,93,84,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,5
+UBC,2015,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Duong Van Hoa, Franck;Molday, Robert",9,90.33,2.5,94,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6
+UBC,2017,W,BIOC,509,,101,MEMBRANE STR&FNC,"Cullis, Pieter;Duong Van Hoa, Franck;Molday, Robert",9,88.89,1.83,91,86,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3

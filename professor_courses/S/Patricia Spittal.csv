@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2006,W,HCEP,580,L,002,DIR STUDIES,"Spittal, Patricia",9,91.83,4.67,96,86,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,,,
+UBC,2007,W,HCEP,580,L,002,DIR STUDIES,"Spittal, Patricia",4,89.75,5.19,96,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,,,
+UBC,2009,W,SPPH,536,,002,ABORIG PB HEALTH,"Spittal, Patricia",6,67,44.67,90,0,3,1,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,,,
+UBC,2010,S,SPPH,536,,DL3,ABORIG PB HEALTH,"Spittal, Patricia",8,91.25,6.09,97,80,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,,,
+UBC,2010,W,SPPH,519,,002,QUAL MTH RES DES,"Spittal, Patricia",14,86.83,4.09,94,80,12,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,3,,,
+UBC,2010,W,SPPH,536,,DL2,ABORIG PB HEALTH,"Spittal, Patricia",8,87.67,2.25,90,84,6,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2011,W,SPPH,519,,DL2,QUAL MTH RES DES,"Spittal, Patricia",11,89,6.26,96,76,9,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,4,,,
+UBC,2011,W,SPPH,536,,002,ABORIG PB HEALTH,"Spittal, Patricia",6,87.5,1.52,89,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,,,
+UBC,2012,S,SPPH,536,,DL3,ABORIG PB HEALTH,"Spittal, Patricia",13,87.91,3.88,93,82,11,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,5,,,
+UBC,2012,W,SPPH,519,,DL2,QUAL MTH RES DES,"Spittal, Patricia",8,86.29,2.21,89,83,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,,,
+UBC,2012,W,SPPH,536,,002,ABORIG PB HEALTH,"Spittal, Patricia",14,87.15,4.45,94,80,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,6,,,
+UBC,2013,W,SPPH,519,,DL2,QUAL MTH RES DES,"Spittal, Patricia",10,86.11,4.11,93,80,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,2,,,
+UBC,2015,W,SPPH,536,,DL2,ABORIG PB HEALTH,"Spittal, Patricia",15,86.79,4.51,95,78,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,4,,,
+UBC,2016,W,SPPH,536,,DL2,ABORIG PB HEALTH,"Spittal, Patricia",15,87,3.61,91,78,13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,8,3,,,
+UBC,2017,W,SPPH,536,,DL2,ABORIG PB HEALTH,"Spittal, Patricia",14,86.86,4.79,94,77,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,7,4,,,
+UBC,2018,W,SPPH,536,,DL2,ABORIG PB HEALTH,"Spittal, Patricia",8,89.13,6.33,98,77,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,5,,,
+UBCV,2015,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal,14,86.785714286,4.509452831,95.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,5,,,,
+UBCV,2016,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Kate Alexandra Jongbloed;Patricia Spittal,13,87.0,3.605551275,91.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,8,3,,,
+UBCV,2017,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Kate Alexandra Jongbloed;Patricia Spittal,14,86.857142857,4.785509262,94.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,1,7,4,,,
+UBCV,2018,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal;Richa Sharma,8,89.125,6.33442973,98.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,5,,,
+UBCV,2019,S,SPPH,589,,941,Interdisciplinary Approach to Understanding the Health of Indigenous Peoples,Nadine Caron;Patricia Spittal,22,91.681818182,3.371962317,97.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,4,17,,,
+UBCV,2019,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal;Richa Sharma,10,90.7,4.595891885,97.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,7,,,
+UBCV,2019,W,SPPH,587,,002,Mental Health Care and Delivery in Indigenous Communities,Chris G Richardson;Chris Richardson;Nadine Caron;Patricia Spittal,21,94.0,3.016620626,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,19,,,
+UBCV,2019,W,SPPH,588,,002,Introduction to Quantitative and Qualitative Research Methods in Indigenous Health Research,Margo Pearce;Nadine Caron;Patricia Spittal,20,93.7,3.812721089,98.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,2,17,,,
+UBCV,2020,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal;Riley Bizzotto,12,89.416666667,3.800916955,95.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,3,7,,,
+UBCV,2020,W,SPPH,581,U,941,Selected Topics,Nadine Caron;Patricia Spittal,22,94.772727273,1.770978158,98.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,22,,,
+UBCV,2021,S,SPPH,581,V,922,Selected Topics,Nadine Caron;Patricia Spittal,19,91.894736842,3.364764097,97.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,15,,,
+UBCV,2021,W,SPPH,536,,BL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Eryn Braley;Janene Erickson;Jorden Hendry;Patricia Spittal,9,93.444444444,3.643868518,98.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,7,,,
+UBCV,2021,S,SPPH,581,V,922,Selected Topics,Nadine Caron;Patricia Spittal,19,91.9,,97.0,85.0,,,,,,,,,,,,,,,,,,,,,15,92.0,94.0,90.0
+UBCV,2022,S,SPPH,578,,922,Social Determinants of Indigenous Health,Nadine Caron;Patricia Spittal,19,94.6,,99.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,17,95.0,97.0,93.5
+UBCV,2022,W,SPPH,586,,002,Indigenous Health Policy in Canada,Patricia Spittal;Drew st. Laurent,21,89.8,,98.0,58.0,,,,,,,,,,,0,0,1,0,0,0,0,0,1,4,15,92.0,94.0,89.0
+UBCV,2023,S,SPPH,536,,931,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal,10,92.3,,94.0,87.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,8,93.0,94.0,92.25

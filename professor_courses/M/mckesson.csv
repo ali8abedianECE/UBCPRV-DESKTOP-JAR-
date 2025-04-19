@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,MECH,488,,101,INTR SHIP HYDRDY,"McKesson, Christopher",25,81.6,9.58,95,61,25,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,3,8,4
+UBC,2014,W,NAME,566,,201,SHIP DYNM CONTRL,"McKesson, Christopher;Ostafichuk, Peter",13,79.85,12.52,95,61,13,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,1,1,3,3
+UBC,2014,W,NAME,591,,201,CMPTR SHIP DESGN,"McKesson, Christopher;Mikkelsen, Jon",13,85.85,3.36,88,81,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0
+UBC,2015,W,MECH,328,,101,MECH ENG PROJECT,"Fengler, Markus;Klaptocz, Voytek;McKesson, Christopher;Rogak, Steven",128,81.79,6.19,96,48,126,1,1,0,0,0,0,0,0,1,1,0,0,0,1,3,8,27,44,31,12
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2015,W,MECH,488,,101,INTR SHIP HYDRDY,"McKesson, Christopher",27,81.63,10.97,100,63,27,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,4,5,4,3,7
+UBC,2015,W,NAME,566,,201,SHIP DYNM CONTRL,"McKesson, Christopher;Ostafichuk, Peter",16,81.38,7.41,96,69,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3,2,3
+UBC,2015,W,NAME,578,,101,MARINE ENGINRING,"McKesson, Christopher;Mikkelsen, Jon",12,87.83,9.66,100,68,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,7
+UBC,2015,W,NAME,591,,001,CMPTR SHIP DESGN,"Koenig, Philip;McKesson, Christopher;Mikkelsen, Jon",11,88.27,1.68,90,85,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2016,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",130,74.68,12.5,99,0,126,3,0,0,1,1,0,0,0,2,3,2,7,7,5,22,15,18,28,10,12
+UBC,2016,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",8,82.75,8.05,92,70,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2,2
+UBC,2016,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",55,86.25,5.69,97,68,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,14,18,19
+UBC,2016,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",22,85.64,6.16,92,74,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,2,12
+UBC,2016,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Merida-Donis, Walter;Sassani, Farrokh;Van der Loos, Hendrik",9,84.33,3.54,90,80,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,1
+UBC,2016,W,MECH,488,,101,INTR SHIP HYDRDY,"McKesson, Christopher",29,86.17,9.1,99,60,29,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,6,8,11
+UBC,2016,W,MECH,488,,102,INTR SHIP HYDRDY,"McKesson, Christopher",7,75.57,7.68,84,66,7,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,3,0,0
+UBC,2016,W,NAME,522,,201,SHP PROD IND ENG,"Koenig, Philip;McKesson, Christopher;Mikkelsen, Jon",14,91.43,2.44,97,87,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,11
+UBC,2016,W,NAME,566,,201,SHIP DYNM CONTRL,"McKesson, Christopher;Ostafichuk, Peter",14,77.43,9.72,91,60,14,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,1,2,3,1
+UBC,2016,W,NAME,591,,001,CMPTR SHIP DESGN,"McKesson, Christopher",11,89.09,2.34,92,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4
+UBC,2017,W,MECH,222,,201,ENGIN SCIENCE II,"Atabaki, Nima;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",129,77.14,9.72,99,46,128,1,0,0,0,0,0,0,0,1,1,1,2,7,12,12,14,19,35,11,15
+UBC,2017,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",22,87.05,3.62,92,80,20,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,8
+UBC,2017,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",60,85.93,5.54,94,71,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,12,19,22
+UBC,2017,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",26,85.38,6.14,94,76,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,3,10
+UBC,2017,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Fengler, Markus;Grecov, Dana;Hodgson, Antony;McKesson, Christopher;Sassani, Farrokh;Van der Loos, Hendrik",13,86.85,5.44,93,76,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,2,6
+UBC,2017,W,MECH,488,,101,INTR SHIP HYDRDY,"McKesson, Christopher",41,83.29,15.44,98,0,40,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,6,2,6,11,14
+UBC,2017,W,MECH,488,,102,INTR SHIP HYDRDY,"McKesson, Christopher",11,77.82,5.74,88,66,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,4,2,1,0
+UBC,2017,W,MECH,550,N,201,SPEC ADV COURSES,"McKesson, Christopher",21,89.55,5.03,96,80,20,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,11
+UBC,2017,W,NAME,591,,001,CMPTR SHIP DESGN,"McKesson, Christopher",17,84.47,22.06,95,0,16,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,8,8
+UBC,2018,W,MECH,222,,201,ENGIN SCIENCE II,"Abello Rubio, Juan;McKesson, Christopher;Walls, Patrick;d'Entremont, Agnes",121,81.05,7.62,97,62,120,0,0,0,1,0,0,0,0,0,0,0,0,1,2,14,12,12,39,20,20
+UBC,2018,W,MECH,488,,101,INTR SHIP HYDRDY,"McKesson, Christopher",27,86.37,8.23,100,62,27,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,3,7,7,8
+UBC,2018,W,MECH,488,,102,INTR SHIP HYDRDY,"McKesson, Christopher",4,80.5,14.18,100,70,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1
+UBC,2018,W,NAME,581,,101,SHIP DESIGN,"McKesson, Christopher",16,85.31,10.12,97,60,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,3,7

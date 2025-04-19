@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,W,FIST,434,B,001,STUDIES IN FILM,"Monteyne, Kimberley Dawn",24,78.63,6.34,91,67,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,6,6,4,1
+UBC,2014,W,FIST,210,,001,EARLY CINEMA,"Monteyne, Kimberley Dawn",39,80.73,8.81,94,46,36,1,2,0,0,0,0,0,0,1,1,0,0,0,1,1,6,4,12,7,5
+UBC,2014,W,FIST,434,F,001,STUDIES IN FILM,"Monteyne, Kimberley Dawn",19,76.63,13.14,95,36,18,1,0,0,0,0,0,0,1,0,1,0,1,0,0,2,2,6,3,1,3
+UBC,2015,W,FIST,434,A,001,STUDIES IN FILM,"Monteyne, Kimberley Dawn",24,81.1,6.19,94,71,21,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,4,7,2
+UBC,2016,W,ARTH,445,,001,FILM & CITY,"Monteyne, Kimberley Dawn",18,83.47,4.24,90,77,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5,2
+UBC,2016,W,FIST,210,,001,EARLY CINEMA,"Monteyne, Kimberley Dawn",35,73.44,15.19,90,8,32,2,0,0,0,1,0,0,0,1,2,0,0,4,2,3,5,2,8,6,2
+UBC,2016,W,FIST,220,,002,HOLLYWOOD CINEMA,"Monteyne, Kimberley Dawn",69,67.57,18.22,93,10,55,10,3,0,1,0,2,1,1,6,10,5,4,4,5,7,5,4,8,9,4
+UBC,2016,W,FIST,434,E,001,STUDIES IN FILM,"Monteyne, Kimberley Dawn",19,79.58,6.19,88,64,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,3,7,5,0
+UBC,2017,W,FIST,210,,001,EARLY CINEMA,"Monteyne, Kimberley Dawn",32,73.77,13.05,90,36,28,2,2,0,0,0,0,0,2,0,2,0,0,2,2,6,4,3,2,8,1
+UBC,2017,W,FIST,220,,001,HOLLYWOOD CINEMA,"Monteyne, Kimberley Dawn",36,68.86,16.2,91,27,30,5,1,0,0,0,0,1,3,1,5,2,1,1,1,6,5,2,9,1,2
+UBC,2017,W,FIST,434,A,001,STUDIES IN FILM,"Monteyne, Kimberley Dawn",21,77.95,17.39,91,7,19,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,2,5,7,3,2
+UBC,2018,W,ARTH,445,,001,FILM & CITY,"Monteyne, Kimberley Dawn",18,80.11,9.09,95,56,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,2,2,6,2
+UBC,2018,W,FIST,220,,001,HOLLYWOOD CINEMA,"Monteyne, Kimberley Dawn",42,68.34,19.77,92,10,36,5,0,0,1,0,1,3,0,1,5,3,1,1,3,5,3,8,6,3,3
+UBCV,2014,W,FIST,210,,001,Early Cinema,Adam Bagatavicius;Kimberley Dawn Monteyne;Kimberley Monteyne,37,80.72972973,8.805454902,94.0,46.0,,,,,,,,,,,,,,,,,6,,12,7,5
+UBCV,2014,W,FIST,434,F,001,Studies in Film,Kimberley Dawn Monteyne;Kimberley Monteyne,19,76.63157895,13.14115895,95.0,36.0,,,,,,,,,,,,,,,,,,6,,,
+UBCV,2015,W,FIST,434,A,001,Studies in Film,Kimberley Dawn Monteyne;Kimberley Monteyne,21,81.095238095,6.187929879,94.0,71.0,,,,,,,,,,,0,0,0,0,0,,5,,,7,
+UBCV,2016,W,ARTH,445,,001,Film and the City,Kimberley Dawn Monteyne,17,83.47058824,4.244373438,90.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,3,7,5,2
+UBCV,2016,W,FIST,210,,001,Early Cinema,Kimberley Dawn Monteyne;Kimberley Monteyne,35,73.31428571,14.98189383,90.0,8.0,,,,,,,,,,,2,0,0,4,2,4,5,2,8,6,2
+UBCV,2016,W,FIST,220,,002,Hollywood Cinema 1930-1960,Amanda Greer;Kimberley Dawn Monteyne;Kimberley Monteyne;Matthew Gartner,66,67.56060606,18.07942204,93.0,10.0,,,,,,,,,,,10,5,4,4,6,7,5,4,8,9,4
+UBCV,2016,W,FIST,434,E,001,Studies in Film,Kimberley Dawn Monteyne;Kimberley Monteyne,19,79.57894737,6.185249384,88.0,64.0,,,,,,,,,,,0,0,0,0,1,1,2,3,7,5,0
+UBCV,2017,W,FIST,210,,001,Early Cinema,Kimberley Dawn Monteyne;Kimberley Monteyne,30,73.766666667,13.053426907,90.0,36.0,,,,,,,,,,,2,0,0,2,2,6,4,3,2,8,1
+UBCV,2017,W,FIST,220,,001,Hollywood Cinema 1930-1960,Kimberley Dawn Monteyne;Kimberley Monteyne;Lisa Coulthard,35,68.857142857,16.203018704,91.0,27.0,,,,,,,,,,,5,2,1,1,1,6,5,2,9,1,2
+UBCV,2017,W,FIST,434,A,001,Studies in Film,Kimberley Dawn Monteyne;Kimberley Monteyne,20,77.95,17.385641384,91.0,7.0,,,,,,,,,,,1,0,0,0,0,0,2,5,7,3,2
+UBCV,2018,W,ARTH,445,,001,Film and the City,Kimberley Dawn Monteyne,18,80.111111111,9.087087729,95.0,56.0,,,,,,,,,,,0,0,1,0,0,1,4,2,2,6,2
+UBCV,2018,W,FIST,210,,002,Early Cinema,Brian Mcilroy;Chelsea Birks;Chelsea Victoria Goodey Birks;Kimberley Dawn Monteyne;Kimberley Monteyne,26,73.0,12.086355944,90.0,47.0,,,,,,,,,,,1,1,3,1,2,2,2,4,6,3,1
+UBCV,2018,W,FIST,220,,001,Hollywood Cinema 1930-1960,Kimberley Dawn Monteyne;Kimberley Monteyne,42,67.095238095,21.132346636,92.0,10.0,,,,,,,,,,,6,3,1,1,3,5,3,8,6,3,3
+UBCV,2018,W,FIST,338,,001,Asian and Australasian Cinema,Chelsea Birks;Chelsea Victoria Goodey Birks;Kimberley Dawn Monteyne,16,76.8125,4.650716791,85.0,69.0,,,,,,,,,,,0,0,0,0,0,2,5,3,5,1,0
+UBCV,2020,W,ARTH,464,,001,Seminar in Japanese Art,Ignacio Alberto Adriasola Munoz;Kimberley Dawn Monteyne,14,77.571428571,16.127922684,90.0,36.0,,,,,,,,,,,2,0,0,0,0,0,0,1,6,4,1
+UBCV,2020,W,FIST,331,,002,Studies in Film Theory,Christine Evans;Kimberley Dawn Monteyne,24,80.666666667,5.902590932,90.0,62.0,,,,,,,,,,,0,0,0,1,1,0,1,1,18,1,1

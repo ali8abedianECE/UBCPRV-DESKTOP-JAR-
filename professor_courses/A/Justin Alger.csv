@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2016,W,POLI,110,,002,INVESTIGAT POLIT,"Alger, Justin",218,75.11,13.2,93,0,212,4,2,0,0,2,0,0,0,2,4,7,13,11,18,13,29,20,53,25,23,,,
+UBC,2017,S,POLI,260,,951,INTRO GLOBAL POL,"Alger, Justin",57,74.8,9.48,90,41,50,1,5,0,1,0,0,0,0,1,1,1,1,2,7,4,8,7,13,6,1,,,
+UBC,2018,S,POLI,375,A,921,GLOB ENV POLI,"Alger, Justin",63,77.62,7.76,88,47,61,2,0,0,0,0,0,0,0,2,2,1,0,0,0,2,10,18,24,6,0,,,
+UBC,2018,W,POLI,463,,001,INTRL INTERDPNDC,"Alger, Justin",20,82.95,4.16,90,71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,8,8,1,,,
+UBC,2018,W,POLI,463,,002,INTRL INTERDPNDC,"Alger, Justin",20,79.3,4.24,87,72,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,7,4,0,,,
+UBCV,2016,W,POLI,110,,002,Investigating Politics: An Introduction to Scientific Political Analysis,Justin Alger,216,75.10648148,13.19629104,93.0,0.0,,,,,,,,,,,4,7,13,11,18,13,29,20,53,25,23,,,
+UBCV,2016,W,POLI,375,A,002,Global Environmental Politics,Justin Alger;Peter Dauvergne,77,75.54545455,7.228498888,86.0,41.0,,,,,,,,,,,1,0,1,1,6,9,13,22,17,7,0,,,
+UBCV,2017,S,POLI,260,,951,Introduction to Global Politics,Justin Alger,52,74.519230769,9.613084189,90.0,41.0,,,,,,,,,,,1,1,1,3,7,4,8,7,13,6,1,,,
+UBCV,2018,S,POLI,375,A,921,Global Environmental Politics,Justin Alger,63,77.619047619,7.76349724,88.0,47.0,,,,,,,,,,,2,1,0,0,0,2,10,18,24,6,0,,,
+UBCV,2018,W,GPP,591,C,001,Special Topics in Public Policy,Justin Alger,18,86.388888889,2.428722465,90.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,10,3,,,
+UBCV,2018,W,POLI,463,,001,International Interdependence,Justin Alger,20,82.95,4.160908302,90.0,71.0,,,,,,,,,,,0,0,0,0,0,1,0,2,8,8,1,,,
+UBCV,2018,W,POLI,463,,002,International Interdependence,Justin Alger,20,79.3,4.243881044,87.0,72.0,,,,,,,,,,,0,0,0,0,0,0,5,4,7,4,0,,,
+UBCV,2019,S,POLI,260,,951,Introduction to Global Politics,Justin Alger,52,75.576923077,10.976527816,89.0,16.0,,,,,,,,,,,1,1,1,0,1,7,11,10,15,5,0,,,
+UBCV,2019,W,GPP,591,C,001,Special Topics in Public Policy,Justin Alger;Phanuel Antwi,12,85.0,2.984810029,88.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,2,9,0,,,
+UBCV,2019,W,POLI,463,,001,International Interdependence,Justin Alger,18,81.333333333,5.615105677,91.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,3,5,5,1,,,
+UBCV,2019,W,POLI,463,,002,International Interdependence,Justin Alger,20,80.75,6.950009466,88.0,55.0,,,,,,,,,,,0,0,1,0,0,0,1,2,11,5,0,,,
+UBCV,2019,W,POLI,464,E,001,Problems in International Relations,Alexander Butterfield;Alexander Porter Butterfield Jr.;Frederick Cutler;Justin Alger,25,87.8,5.188127472,94.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,1,3,9,11,,,
+UBCV,2020,S,POLI,110,,951,Investigating Politics: An Introduction to Scientific Political Analysis,Justin Alger;Lilit Klein;Yingqiu Kuang,115,78.617391304,14.835698181,99.0,0.0,,,,,,,,,,,4,3,1,4,6,11,9,13,18,22,24,,,
+UBCV,2020,S,POLI,260,,921,Introduction to Global Politics,Andrei Golobokov;Chloe Boutron;Justin Alger;Robert Farkasch,91,72.318681319,10.777424059,88.0,31.0,,,,,,,,,,,3,3,4,5,7,9,19,16,19,6,0,,,
+UBCV,2020,S,POLI,375,A,921,Global Environmental Politics,Justin Alger;Leah Shipton,87,74.08045977,13.913535647,87.0,1.0,,,,,,,,,,,5,0,2,1,4,6,18,10,37,4,0,,,
+UBCV,2020,W,POLI,375,A,003,Global Environmental Politics,Addye Susnick;Justin Alger,68,78.088235294,8.620931304,89.0,31.0,,,,,,,,,,,2,0,1,0,0,5,6,22,22,10,0,,,
+UBCV,2020,W,POLI,375,A,004,Global Environmental Politics,Justin Alger;Leah Shipton;Meghan Wise,92,77.076086957,11.102156701,90.0,7.0,,,,,,,,,,,3,1,0,0,4,7,13,11,41,11,1,,,
+UBCV,2020,W,POLI,463,,001,International Interdependence,Justin Alger,20,82.0,6.897749442,89.0,57.0,,,,,,,,,,,0,0,1,0,0,0,0,3,8,8,0,,,
+UBCV,2020,W,POLI,463,,002,International Interdependence,Justin Alger,20,77.85,10.663637179,89.0,50.0,,,,,,,,,,,0,2,0,0,1,0,2,2,9,4,0,,,
+UBCV,2021,S,POLI,463,,951,International Interdependence,Justin Alger,17,79.176470588,9.468601363,90.0,54.0,,,,,,,,,,,0,1,0,1,0,0,2,4,4,4,1,,,
+UBCV,2021,W,POLI,260,,003,Introduction to Global Politics,Allen Sens;Brendan Liaw;Bret Frangipane;Christina Dasom Song;Justin Alger;Omer Ozkan;Tanya Ghai;Tzu-Yu (Alexandra) Yao,242,77.409090909,11.53930681,91.0,1.0,,,,,,,,,,,6,0,4,6,12,11,19,49,94,36,5,,,
+UBCV,2021,W,POLI,375,A,003,Global Environmental Politics,Foster Salpeter;Justin Alger,89,77.438202247,11.277446375,90.0,18.0,,,,,,,,,,,3,1,0,0,1,11,11,17,26,18,1,,,
+UBCV,2021,W,PPGA,591,C,001,Special Topics in Public Policy,Justin Alger;Kathryn Gretsinger,10,88.6,2.270584849,92.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,4,,,
+UBCV,2021,S,POLI,463,,951,International Interdependence,Justin Alger,17,79.2,,90.0,54.0,,,,,,,,,,,,,,,,,,,,,,81.0,87.0,76.0
+UBCV,2021,W,POLI,260,,003,Introduction to Global Politics,Justin Alger,243,77.6,,91.0,0.0,,,,,,,,,,,6,,,,11,11,19,49,97,37,,80.0,84.0,76.0
+UBCV,2021,W,POLI,375,A,003,Global Environmental Politics,Justin Alger,89,78.0,,90.0,18.0,,,,,,,,,,,,,,,,12,11,17,26,18,,80.0,84.0,74.0
+UBCV,2021,W,PPGA,591,C,001,Special Topics in Public Policy,Justin Alger;Kathryn Gretsinger,10,88.6,,92.0,86.0,,,,,,,,,,,,,,,,,,,,6,,88.0,90.0,87.0

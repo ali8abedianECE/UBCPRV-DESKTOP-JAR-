@@ -1,0 +1,45 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2016,W,MGMT,400,,001,Intermediate Financial Accounting,Sarah Gumpinger;Sheila Westwell,48,75.10416667,10.39484239,95.0,56.0,0,0,3,3,6,8,4,7,7,5,5,,,
+UBCO,2016,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sarah Gumpinger;Sheila Westwell,12,70.33333333,10.41269621,90.0,57.0,0,0,1,3,1,1,4,0,0,1,1,,,
+UBCO,2016,W,MGMT,402,,002,Introduction to Income Taxes in Canada,Sarah Gumpinger;Sheila Westwell,36,76.0,9.561828875,93.0,51.0,0,1,1,1,1,8,8,2,6,5,3,,,
+UBCO,2016,W,MGMT,403,,001,Auditing and Assurance Services,Annette Fairweather;Sarah Gumpinger;Sheila Westwell,43,72.23255814,11.54254492,96.0,45.0,1,3,2,2,7,7,3,6,5,4,3,,,
+UBCO,2016,W,MGMT,404,,101,Advanced Financial Accounting,Sarah Gumpinger;Sheila Westwell,43,75.90697674,11.22457753,96.0,43.0,1,0,1,3,3,3,14,3,5,5,5,,,
+UBCO,2017,W,MGMT,400,,001,Intermediate Financial Accounting,Sheila Westwell,27,77.296296296,10.99935248,95.0,58.0,0,0,1,2,3,3,4,2,4,4,4,,,
+UBCO,2017,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sheila Westwell,32,76.15625,8.868608557,93.0,56.0,0,0,2,0,3,2,9,3,7,4,2,,,
+UBCO,2017,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,26,77.0,10.376897417,94.0,54.0,0,1,0,1,3,2,5,5,1,4,4,,,
+UBCO,2017,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,25,72.96,13.318158031,98.0,43.0,1,2,1,1,3,2,2,4,6,1,2,,,
+UBCO,2018,W,MGMT,201,,001,Introduction to Financial Accounting,Sarah Gumpinger;Sheila Westwell,177,76.655367232,11.658487301,100.0,38.0,1,2,8,11,19,20,26,21,26,16,27,,,
+UBCO,2018,W,MGMT,400,,001,Intermediate Financial Accounting,Sheila Westwell,34,75.647058824,12.321162757,96.0,45.0,1,0,2,3,2,4,7,1,5,3,6,,,
+UBCO,2018,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sheila Westwell,33,75.939393939,10.538439738,94.0,54.0,0,1,1,2,4,3,5,3,5,6,3,,,
+UBCO,2018,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,33,77.333333333,9.245494398,93.0,56.0,0,0,2,0,2,5,5,5,5,7,2,,,
+UBCO,2018,W,MGMT,404,,101,Advanced Financial Accounting,Sarah Gumpinger;Sheila Westwell,30,77.233333333,11.321884007,96.0,51.0,0,1,1,1,3,5,2,4,4,5,4,,,
+UBCO,2019,W,MGMT,400,,001,Intermediate Financial Accounting,Sheila Westwell,38,74.263157895,13.783429555,95.0,43.0,1,2,1,7,3,1,5,1,6,3,8,,,
+UBCO,2019,W,MGMT,400,,101,Intermediate Financial Accounting,Sheila Westwell,32,76.0625,15.5748712,91.0,4.0,1,0,0,3,1,2,5,5,7,6,2,,,
+UBCO,2019,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sheila Westwell,33,75.545454545,13.946529383,94.0,19.0,1,0,0,2,5,4,1,6,5,5,4,,,
+UBCO,2019,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,45,73.155555556,13.534393152,91.0,6.0,1,1,1,4,3,8,5,5,11,4,2,,,
+UBCO,2019,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,29,75.034482759,14.685957235,95.0,43.0,1,2,1,1,6,1,2,3,1,5,6,,,
+UBCO,2020,S,MGMT,110,,101,Introduction to Management Thought and Social Responsibility,Annette Fairweather;Ceyanna Pohl;Sheila Westwell,38,74.578947368,19.335769373,90.0,0.0,2,0,1,0,2,3,5,7,8,9,1,,,
+UBCO,2020,W,MGMT,300,,001,Intermediate Financial Accounting I,Gurmehar Baweja;Sheila Westwell,74,75.081081081,14.516647748,96.0,16.0,2,3,3,6,5,6,10,8,7,15,9,,,
+UBCO,2020,W,MGMT,304,,001,Intermediate Financial Accounting II,Goomaral Purevjargal;Sheila Westwell,46,77.456521739,14.646511184,99.0,50.0,0,4,1,5,6,1,2,2,6,8,11,,,
+UBCO,2020,W,MGMT,310,,102,Introduction to Finance,Catherine Wong;Kaitlin Breen;Sheila Westwell,224,74.714285714,14.667268444,99.0,3.0,5,10,18,16,12,23,24,22,34,28,32,,,
+UBCO,2020,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sheila Westwell,32,74.96875,14.499130953,93.0,27.0,2,0,1,1,3,3,6,3,5,2,6,,,
+UBCO,2020,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,10,72.1,12.422649565,89.0,50.0,0,1,1,0,0,4,1,0,0,3,0,,,
+UBCO,2020,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,18,77.333333333,14.450727643,95.0,41.0,1,0,0,1,4,1,0,1,2,5,3,,,
+UBCO,2021,S,MGMT,110,,101,Introduction to Management Thought and Social Responsibility,Sheila Westwell;Yi Zhao,23,64.913043478,28.229438283,92.0,0.0,4,0,0,1,3,4,1,3,0,6,1,,,
+UBCO,2021,W,MGMT,300,,001,Intermediate Financial Accounting I,Breanne Chui;Sheila Westwell,66,74.03030303,18.286581627,97.0,5.0,5,3,4,3,1,2,9,8,12,8,11,,,
+UBCO,2021,W,MGMT,304,,001,Intermediate Financial Accounting II,Breanne Chui;Sheila Westwell,47,75.914893617,12.152705527,95.0,50.0,0,2,3,5,4,4,3,6,5,8,7,,,
+UBCO,2021,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Jana Martin;Seyedeh Nadia Mahmoudi;Sheila Westwell,73,74.260273973,14.287744746,99.0,0.0,1,2,6,6,2,7,9,13,16,5,6,,,
+UBCO,2021,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,24,76.083333333,19.334395273,96.0,0.0,1,0,0,3,2,0,2,2,5,7,2,,,
+UBCO,2021,S,MGMT,110,,101,Introduction to Management Thought and Social Responsibility,Sheila Westwell,23,64.9,,92.0,0.0,,,,,,,,,,6,,71.0,86.0,64.0
+UBCO,2021,W,MGMT,300,,001,Intermediate Financial Accounting I,Sheila Westwell,66,74.0,,97.0,5.0,,,,,,,9,8,12,8,11,77.5,85.0,68.3
+UBCO,2021,W,MGMT,304,,001,Intermediate Financial Accounting II,Sheila Westwell,47,75.9,,95.0,50.0,,,,,,,,6,,8,7,77.0,87.0,67.0
+UBCO,2021,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,24,76.1,,96.0,0.0,,,,,,,,,,7,,83.0,87.0,70.3
+UBCO,2022,S,MGMT,110,,101,Introduction to Management Thought and Social Responsibility,Sheila Westwell,22,73.5,,90.0,27.0,1,0,1,0,2,3,5,2,3,4,1,74.5,83.0,68.3
+UBCO,2022,W,MGMT,100,,101,Introduction to Business,Annette Fairweather;Sarah Gumpinger;Sheila Westwell,166,70.8,,91.0,0.0,11,0,6,12,15,28,21,29,26,14,4,73.5,80.0,67.0
+UBCO,2022,W,MGMT,304,,001,Intermediate Financial Accounting II,Sheila Westwell,19,74.5,,94.0,34.0,1,2,0,0,3,1,3,1,1,3,4,74.0,88.0,66.0
+UBCO,2022,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,22,76.3,,91.0,57.0,0,0,1,1,0,2,5,7,3,2,1,77.5,79.8,73.0
+UBCO,2022,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,24,73.5,,95.0,4.0,3,0,1,1,0,2,3,2,3,4,5,80.0,87.3,71.0
+UBCO,2023,W,MGMT,300,,001,Intermediate Financial Accounting I,Sheila Westwell,44,71.6,,94.0,37.0,4,3,3,3,2,3,5,1,10,3,4,74.0,84.0,60.0
+UBCO,2023,W,MGMT,304,,001,Intermediate Financial Accounting II,Sheila Westwell,27,72.3,,94.0,36.0,3,1,1,1,1,4,0,4,6,3,2,77.5,82.0,65.5
+UBCO,2023,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,15,78.3,,91.0,68.0,0,0,0,0,0,2,4,3,3,2,1,77.0,83.0,73.0
+UBCO,2023,W,MGMT,404,,101,Advanced Financial Accounting,Sheila Westwell,13,76.6,,96.0,60.0,0,0,0,1,1,2,2,3,1,2,1,77.0,80.0,71.0

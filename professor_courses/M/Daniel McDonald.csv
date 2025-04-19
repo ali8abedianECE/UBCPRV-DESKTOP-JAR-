@@ -1,0 +1,7 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,STAT,406,,101,Methods for Statistical Learning,Daniel Mcdonald;Matias Salibian-Barrera;Shannon Edie;Vittorio Romaniello;Weijia Yin;Yuan Xia;Zuheng Xu,131,83.351145038,6.83309105,97.0,60.0,0,0,0,1,2,4,10,17,29,45,23,,,
+UBCV,2020,W,STAT,535,A,201,Statistical Computing,Daniel Mcdonald,6,91.166666667,3.544949459,95.0,87.0,0,0,0,0,0,0,0,0,0,3,3,,,
+UBCV,2021,W,STAT,406,,101,Methods for Statistical Learning,Daniel Mcdonald;Xiaoting Li;Xiaoxuan Liang;Xinyuan Chloe You,117,80.88034188,10.737592995,98.0,0.0,1,0,0,1,7,4,7,24,31,23,19,,,
+UBCV,2021,W,STAT,550,,201,Techniques of Statistical Consulting,Daniel Mcdonald;Lang Wu,14,90.071428571,5.413150451,97.0,80.0,0,0,0,0,0,0,0,0,2,4,8,,,
+UBCV,2021,W,STAT,406,,101,Methods for Statistical Learning,Daniel Mcdonald,118,80.7,,98.0,0.0,,,,,7,,7,24,31,23,19,81.0,87.0,77.0
+UBCV,2021,W,STAT,550,,201,Techniques of Statistical Consulting,Daniel Mcdonald,14,90.1,,97.0,80.0,,,,,,,,,,,8,91.0,94.0,87.3

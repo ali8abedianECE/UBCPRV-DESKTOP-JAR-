@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,COMM,335,,101,INFO SYS MNGT,"Sun, Wei",125,75.48,9.71,96,50,125,0,0,0,0,0,0,0,0,0,0,4,3,9,5,12,21,18,28,17,8
+UBC,2015,W,COMM,439,,101,Bus Telecommun,"Sun, Wei",39,76.62,10.8,99,56,39,0,0,0,0,0,0,0,0,0,0,0,1,4,3,6,6,2,3,8,6
+UBCV,2014,W,COMM,439,,201,Business Telecommunications,Wei Sun;Yau Man Cheung,32,82.125,5.446217983,93.0,68.0,,,,,,,,,,,0,0,0,0,0,,,,12,12,2
+UBCV,2015,W,COMM,335,,101,Information Systems Technology and Development,Wei Sun,125,75.48,9.709988206,96.0,50.0,,,,,,,,,,,0,,,9,5,12,21,18,28,17,8
+UBCV,2015,W,COMM,439,,101,Business Telecommunications,Wei Sun,39,76.615384615,10.798672883,99.0,56.0,,,,,,,,,,,0,0,,,,6,6,2,3,8,6
+UBCV,2020,W,BAIT,507,,BA1,Data Management for Business Analytics,Simon Goring;Wei Sun;Yifan Sun,75,83.24,3.751900419,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,48,18,9
+UBCV,2020,W,COMM,437,,101,Database Technology,Karina Kong;Ning Nan;Wei Sun,40,76.225,8.722171865,90.0,50.0,,,,,,,,,,,0,1,1,2,0,6,2,12,10,4,2
+UBCV,2020,W,COMM,437,,102,Database Technology,Chelsea Leung;Chelsea Yue Tong Leung;Karina Kong;Wei Sun,29,77.310344828,7.431128775,90.0,58.0,,,,,,,,,,,0,0,1,1,0,2,7,5,7,5,1
+UBCV,2021,W,COMM,437,,101,Database Technology,Hazelle Flores;Nader Beyzaei;Roberta Kowalishin;Wei Sun;Zeliha Ural Merpez,19,82.263157895,9.230638026,93.0,56.0,,,,,,,,,,,0,0,1,0,1,0,2,1,4,6,4
+UBCV,2021,W,COMM,437,,102,Database Technology,Hazelle Flores;Nader Beyzaei;Roberta Kowalishin;Wei Sun;Zeliha Ural Merpez,13,85.0,7.604823031,93.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,1,2,3,5

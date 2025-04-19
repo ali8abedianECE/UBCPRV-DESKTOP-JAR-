@@ -1,0 +1,4 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2017,W,COSC,111,,101,Computer Programming I,Angelina Pinchbeck;Bowen Hui;Jeff Bulmer;Levi Miller;Rachelle Gelden,113,66.061946903,23.462844177,100.0,9.0,38,1,4,4,4,8,6,7,8,12,21
+UBCO,2018,W,COSC,304,,001,Introduction to Databases,Ali-Meysam Mohebbi;Angelina Pinchbeck;Ramon Lawrence;Shobhit Agrawal,112,80.955357143,10.759775269,97.0,45.0,1,0,2,1,11,10,11,6,20,24,26
+UBCO,2018,W,COSC,310,,001,Software Engineering,Angelina Pinchbeck;Anupreet Januhen;Apurva Narayan;Zil Huma,98,84.153061224,10.880183482,100.0,34.0,1,3,0,1,1,3,5,5,18,32,29

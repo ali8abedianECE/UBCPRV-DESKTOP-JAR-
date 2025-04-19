@@ -1,0 +1,10 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,W,CIVL,478,,101,BLDG SCIENCE,"Ricketts, Lorne",78,77.91,8.84,90,58,76,0,1,1,0,0,0,0,0,0,0,0,3,5,2,6,11,10,19,17,3,,,
+UBC,2018,W,CIVL,478,,101,BLDG SCIENCE,"Ricketts, Lorne",64,80.03,11.27,95,45,60,3,0,0,1,0,0,0,0,3,3,0,0,1,5,2,4,10,8,20,10,,,
+UBCV,2017,W,CIVL,478,,101,Building Science,Bardia Kabiri Far;Gregory Johnson;Lorne Ricketts;Rajat Jain,76,77.907894737,8.841082334,90.0,58.0,,,,,,,,,,,0,0,3,5,2,6,11,10,19,17,3,,,
+UBCV,2018,W,CIVL,478,,101,Building Science,Lorne Ricketts;Ramprasanth Angappan Murugavel,64,79.484375,12.00527951,95.0,45.0,,,,,,,,,,,4,0,0,1,5,2,4,10,8,20,10,,,
+UBCV,2019,W,CIVL,478,,101,Building Science,Abdullah Hassan;Bardia Kabiri Far;Kwang Victor Lo;Lorne Ricketts,59,80.288135593,8.475219146,90.0,40.0,,,,,,,,,,,1,0,0,2,1,2,7,6,20,17,3,,,
+UBCV,2020,W,CIVL,478,,101,Building Science,Bardia Kabiri Far;Bernard Laval;Lorne Ricketts;Samuel Shulman,66,78.954545455,7.128343897,91.0,58.0,,,,,,,,,,,0,0,1,1,3,4,7,17,15,14,4,,,
+UBCV,2021,W,CIVL,478,,101,Building Science,Haley A Adams;Lorne Ricketts,59,76.220338983,9.90657705,91.0,36.0,,,,,,,,,,,2,0,1,0,3,7,10,13,15,6,2,,,
+UBCV,2021,W,CIVL,478,,101,Building Science,Lorne Ricketts,59,76.2,,91.0,36.0,,,,,,,,,,,,,,,,7,10,13,15,6,,78.0,81.0,73.5
+UBCV,2022,W,CIVL,478,,101,Building Science,Lorne Ricketts,57,76.4,,89.0,57.0,,,,,,,,,,,0,0,2,2,1,5,15,12,15,5,0,77.0,80.0,73.0

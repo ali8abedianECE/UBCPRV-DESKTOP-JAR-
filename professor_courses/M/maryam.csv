@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2007,W,EDUC,311,,S14,TEACH PRINC SEC,"Moayeri, Maryam",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2007,W,EDUC,316,,314,COMM SKILLS,"Moayeri, Maryam",24,,,,,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EDUC,480,A,92M,E-PORTFOLIO,"Moayeri, Maryam",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,EDUC,480,A,92R,E-PORTFOLIO,"Moayeri, Maryam",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,LLED,301,,92A,L & C MLTLNG CLS,"Moayeri, Maryam",38,,,,,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,S,LLED,301,,92F,L & C MLTLNG CLS,"Moayeri, Maryam",29,,,,,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,311,,S16,TEACH PRINC SEC,"Moayeri, Maryam",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2009,W,EDUC,316,C,316,COMM SKILLS,"Moayeri, Maryam",22,,,,,0,0,1,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,EDUC,480,A,92B,E-PORTFOLIO,"Moayeri, Maryam",18,,,,,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,LLED,301,,92F,L & C MLTLNG CLS,"Moayeri, Maryam",36,,,,,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,S,LLED,301,,92H,L & C MLTLNG CLS,"Moayeri, Maryam",35,,,,,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,311,,S16,TEACH PRINC SEC,"Moayeri, Maryam",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,EDUC,316,C,316,COMM SKILLS,"Moayeri, Maryam",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2010,W,LLED,314,A,302,C & I ENGL SEC,"Moayeri, Maryam",25,,,,,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2011,S,BIOL,204,,921,VERT STRUCT&FUNC,"Fung, Charissa;Moussavi, Maryam;Norman, Lynn",102,75.82,9.53,97,46,100,1,0,0,1,0,0,0,0,1,1,2,5,1,7,14,12,19,24,12,4
+UBC,2011,W,EDST,314,,002,SCL ISS IN EDUC,"Nabavi, Maryam;Wright, Handel",32,,,,,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDST,401,,102,EDUC SCHOOL SOC,"Nabavi, Maryam",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,EDST,402,,102,EDUC & MEDIA,"Nabavi, Maryam",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,BIOL,121,,225,GENTCS ECOL&EVOL,"Moussavi, Maryam",220,71.45,9.02,94,45,211,4,5,0,0,0,0,0,0,4,4,4,9,20,25,46,33,22,39,12,1
+UBC,2015,W,BIOL,140,,201,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Kopp, Christopher;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin",844,81.42,7.28,97,18,833,2,9,0,0,0,1,0,1,0,2,3,3,7,7,45,73,99,296,219,81
+UBC,2016,W,BIOL,112,,102,BIOLOGY OF CELL,"Moussavi, Maryam",299,81.41,10.29,98,44,294,1,3,0,1,0,0,0,0,1,1,3,7,4,16,24,21,31,62,50,76
+UBC,2016,W,BIOL,121,,225,GENTCS ECOL&EVOL,"Moussavi, Maryam",183,74.47,12.35,93,6,175,7,1,0,0,1,1,0,0,5,7,4,9,3,10,21,23,28,49,19,9
+UBC,2016,W,BIOL,140,,101,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin",593,80.46,7.74,97,46,590,2,1,0,0,0,0,0,0,2,2,0,3,11,19,44,69,62,186,137,59
+UBC,2016,W,BIOL,140,,201,LAB INV LIFE SC,"Couch, Brett;Germano, Bernardita;Kalas, Pamela;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin;Vande Pol, Dirk",921,80.77,7.57,96,15,911,4,6,0,0,0,1,0,1,2,4,1,5,9,19,62,82,110,318,228,77
+UBC,2016,W,EPSE,308,,101,HUM DVEL LRN DIV,"DALKILIC, MARYAM",34,,,,,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EPSE,308,,102,HUM DVEL LRN DIV,"DALKILIC, MARYAM",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,EPSE,311,,102,CULTVNG SUPP ENV,"DALKILIC, MARYAM",33,,,,,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,BIOL,112,,102,BIOLOGY OF CELL,"Moussavi, Maryam",299,79.29,11.67,99,45,291,4,3,0,1,0,0,0,0,4,4,5,8,9,23,23,33,25,49,53,63
+UBC,2017,W,BIOL,140,,101,LAB INV LIFE SC,"Germano, Bernardita;Jeffery, Erica Athena Dianne;Moussavi, Maryam;Nomme, Kathy Margaret;Norman, Lynn;Sun, Chin;Vande Pol, Dirk",554,78.56,8.41,95,0,545,5,4,0,0,1,0,0,2,2,5,3,4,6,11,46,84,93,184,87,27
+UBC,2017,W,BIOL,341,,101,INT MOLE BIO LAB,"Chen, Liane;Moussavi, Maryam",74,77.78,6.24,90,55,74,0,0,0,0,0,0,0,0,0,0,0,1,1,3,4,13,23,20,8,1
+UBC,2017,W,BIOL,341,,201,INT MOLE BIO LAB,"Moussavi, Maryam",72,73.76,9.24,83,34,68,3,1,0,0,0,0,0,2,1,3,1,0,2,3,8,15,18,21,0,0
+UBC,2018,S,BIOL,341,,921,INT MOLE BIO LAB,"Moussavi, Maryam",20,72.22,9.86,84,47,17,1,2,0,0,0,0,0,0,1,1,0,1,0,3,3,1,4,5,0,0
+UBC,2018,W,BIOL,112,,102,BIOLOGY OF CELL,"Moussavi, Maryam",250,76.35,13.72,97,0,240,10,0,0,0,1,0,0,0,9,10,6,6,19,23,31,16,15,39,40,45
+UBC,2018,W,BIOL,341,,101,INT MOLE BIO LAB,"Chen, Liane;Moussavi, Maryam",70,75.25,8.58,92,47,68,1,1,0,0,0,0,0,0,1,1,3,1,1,2,7,13,15,24,0,2
+UBC,2018,W,BIOL,341,,201,INT MOLE BIO LAB,"Chen, Liane;Moussavi, Maryam",71,74.24,10.35,84,29,69,2,0,0,0,0,0,1,0,1,2,5,0,0,2,5,12,20,25,0,0

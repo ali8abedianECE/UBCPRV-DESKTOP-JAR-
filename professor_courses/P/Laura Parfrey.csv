@@ -1,0 +1,23 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2013,W,BIOL,121,,225,GENTCS ECOL&EVOL,"Parfrey, Laura;Pollock, Carol",212,71.96,10.27,95,24,207,4,1,0,0,0,0,1,1,2,4,7,12,20,15,30,33,35,42,9,4,,,
+UBC,2014,W,BIOL,121,,221,GENTCS ECOL&EVOL,"Parfrey, Laura",214,75.38,10.66,96,44,204,3,4,0,3,0,0,0,0,3,3,3,12,12,17,18,35,19,43,30,15,,,
+UBC,2016,W,BIOL,121,,221,GENTCS ECOL&EVOL,"Parfrey, Laura",181,73.12,11.56,93,33,169,8,2,0,2,0,0,0,2,6,8,2,10,7,18,19,30,26,28,22,7,,,
+UBC,2017,W,BIOL,402,,101,AQUAT ECOLOGY I,"Parfrey, Laura",22,84.24,9.11,96,64,21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,6,3,8,,,
+UBC,2017,W,BIOL,548,J,201,ADV TOPICS BIOL,"Parfrey, Laura",6,93.67,2.94,97,89,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2014,W,BIOL,121,,221,"Genetics, Evolution and Ecology",Laura Parfrey,210,74.35714286,13.53680333,96.0,0.0,,,,,,,,,,,7,2,12,12,17,18,35,19,43,30,15,,,
+UBCV,2016,W,BIOL,121,,221,"Genetics, Evolution and Ecology",Clayton Manning;Laura Parfrey,179,72.30726257,13.84101148,93.0,0.0,,,,,,,,,,,10,2,10,7,18,19,30,26,28,22,7,,,
+UBCV,2017,W,BIOL,402,,101,Aquatic Ecology,Emily Adamczyk;Emily Mei Ying Adamczyk;Ilan Naftali Rubin;Ilan Rubin;Laura Parfrey,21,84.238095238,9.109910877,96.0,64.0,,,,,,,,,,,0,0,0,0,1,2,0,1,6,3,8,,,
+UBCV,2017,W,BIOL,548,J,201,Advanced Topics in Biology,Laura Parfrey,6,93.666666667,2.943920289,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2019,W,BIOL,230,,201,Fundamentals of Ecology,Adam Hicks;Jarrett Blair;Jawad Sakarchi;Laura Parfrey;Rachel Germain;Rachel Wilson;Roshni Mangar;Sarah Blake;Wayne Goodey,179,77.648044693,11.325824824,95.0,17.0,,,,,,,,,,,3,3,7,7,9,10,20,27,38,42,13,,,
+UBCV,2019,W,BIOL,448,J,101,Directed Studies in Biology,Ilan Naftali Rubin;Ilan Rubin;Laura Parfrey,14,88.428571429,5.287347535,95.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,5,7,,,
+UBCV,2020,W,BIOL,230,,101,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Darwin Shikra Sodhi;Darwin Sodhi;Graham Brownlee;Isaiah Box;Jeffrey Richards;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Jihyun Olivia Kim;Laura Parfrey;Leticia Aviles;Michelle Tseng;Rachel Germain;Rachel Wilson,143,74.734265734,8.925316934,91.0,33.0,,,,,,,,,,,2,1,5,5,11,18,29,29,27,15,1,,,
+UBCV,2020,W,BIOL,230,,102,Fundamentals of Ecology,Adam Hicks;Billi Krochuk;Darwin Shikra Sodhi;Darwin Sodhi;Erin Gaynor;Graham Brownlee;Isaiah Box;Jessica Kennedy;Jessica Kowalski;Jihyun Kim;Jihyun Olivia Kim;Kota Mizumoto;Laura Parfrey;Michelle Tseng;Rachel Germain;Rachel Wilson,196,75.198979592,11.574782447,95.0,9.0,,,,,,,,,,,4,4,6,6,12,23,30,31,49,25,6,,,
+UBCV,2020,W,BIOL,230,,201,Fundamentals of Ecology,Adam Hicks;Asfar Khan;Coreen Forbes;Darwin Sodhi;Evgeniya Yangel;Fahimeh Rashidabadi;Jawad Sakarchi;Laura Parfrey;Rachel Germain;Rachel Wilson,194,77.654639175,10.495461843,93.0,3.0,,,,,,,,,,,3,3,4,5,10,10,27,31,62,27,12,,,
+UBCV,2020,W,BIOL,352,,201,Plant Physiology II: Plant Development,Abel Rosado Rey;Aida Rakei;Ana Radojicic;Donglei Li;Isaac Borrego;Jeffrey Richards;Laura Parfrey;Resmi Radhamony;Santokh Singh,63,74.666666667,12.079040765,92.0,32.0,,,,,,,,,,,4,0,2,1,4,7,10,7,15,8,5,,,
+UBCV,2020,W,BIOL,403,,201,Microbial Ecology,Chad Poloni;Laura Parfrey;Sandra Lindstrom;Siobhan Schenk,15,85.8,13.470602914,96.0,42.0,,,,,,,,,,,1,0,0,0,0,0,1,0,2,3,8,,,
+UBCV,2020,W,BIOL,548,J,201,Advanced Topics in Biology,Laura Parfrey;Mary O'Connor,12,89.583333333,5.434876152,96.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,1,1,3,7,,,
+UBCV,2022,W,BIOL,230,,201,Fundamentals of Ecology,Jill Jankowski;Laura Parfrey;Rachel Wilson,167,79.3,,95.0,0.0,,,,,,,,,,,8,1,2,3,4,5,15,18,37,50,24,83.0,88.0,76.5
+UBCV,2022,W,BIOL,230,,202,Fundamentals of Ecology,Jill Jankowski;Laura Parfrey;Rachel Wilson,136,75.2,,94.0,0.0,,,,,,,,,,,4,3,2,6,12,19,16,21,26,19,8,77.0,84.0,70.0
+UBCV,2022,W,BIOL,403,,201,Microbial Ecology,Laura Parfrey,19,84.6,,96.0,58.0,,,,,,,,,,,0,0,1,1,1,1,0,1,1,3,10,90.0,93.0,80.0
+UBCV,2023,W,BIOL,403,,201,Microbial Ecology,Laura Parfrey,23,91.0,,96.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,17,92.0,94.0,89.0
+UBCV,2023,W,BIOL,503,,201,Microbial Ecology,Laura Parfrey,8,86.5,,92.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,0,1,3,3,88.5,90.5,85.3

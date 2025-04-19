@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ADHE,328,,63G,INST ADUL EDUC,"Sen, Vicheth",32,75,7.28,85,54,30,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,6,5,10,1,0,,,
+UBC,2018,W,EDST,401,,008,EDU SCH SOC INST,"Sen, Vicheth",37,,,,,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBCV,2018,W,ADHE,328,,63G,Institutions of Adult Education,Vicheth Sen,32,74.875,7.065363037,85.0,54.0,,,,,,,,,,,0,1,0,1,3,3,8,5,10,1,0,,,
+UBCV,2019,S,ADHE,327,,93T,Teaching Adults,Dave Smulders;Vicheth Sen,22,85.772727273,8.439881618,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,0,3,5,3,9,,,
+UBCV,2019,S,ADHE,329,,93S,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal;Vicheth Sen,19,82.210526316,6.70471598,90.0,64.0,,,,,,,,,,,0,0,0,0,1,0,2,1,8,5,2,,,
+UBCV,2019,W,ADHE,327,,63B,Teaching Adults,Dave Smulders;Vicheth Sen,28,83.25,8.453029262,92.0,60.0,,,,,,,,,,,0,0,0,1,1,2,1,4,1,13,5,,,
+UBCV,2019,W,ADHE,327,,63E,Teaching Adults,Dave Smulders;Vicheth Sen,25,87.64,4.617719495,93.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,4,8,11,,,
+UBCV,2020,S,ADHE,327,,93T,Teaching Adults,Hongxia Shan;Pierre Walter;Vicheth Sen,26,86.384615385,5.879298755,93.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,1,4,8,11,,,
+UBCV,2020,S,ADHE,329,,93S,"Developing Short Courses, Workshops and Seminars",Christine Bridge;Vicheth Sen,27,85.666666667,11.163126113,98.0,60.0,,,,,,,,,,,0,0,0,2,2,0,1,0,4,3,15,,,
+UBCV,2020,W,ADHE,327,,63B,Teaching Adults,Dave Smulders;Vicheth Sen,27,79.111111111,17.766289023,94.0,0.0,,,,,,,,,,,1,0,1,0,0,1,2,3,6,9,4,,,
+UBCV,2020,W,ADHE,327,,63E,Teaching Adults,Dave Smulders;Vicheth Sen,26,78.538461538,8.575456929,97.0,58.0,,,,,,,,,,,0,0,1,0,0,4,4,7,4,2,4,,,
+UBCV,2020,W,ADHE,328,,63F,Institutions of Adult Education,Judith Walker;Vicheth Sen,23,80.043478261,6.13098139,90.0,68.0,,,,,,,,,,,0,0,0,0,0,2,4,5,5,6,1,,,
+UBCV,2021,S,ADHE,328,,93Q,Institutions of Adult Education,Kapil Regmi;Vicheth Sen,20,84.55,5.433570116,92.0,73.0,,,,,,,,,,,0,0,0,0,0,0,2,1,6,7,4,,,
+UBCV,2021,S,ADHE,328,,93S,Institutions of Adult Education,Kapil Regmi;Vicheth Sen,23,85.869565217,5.488039456,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,2,4,12,4,,,
+UBCV,2021,W,ADHE,327,,63C,Teaching Adults,Laura Servage;Pierre Walter;Vicheth Sen,25,88.32,5.757024695,96.0,68.0,,,,,,,,,,,0,0,0,0,0,1,0,0,3,9,12,,,
+UBCV,2021,W,ADHE,327,,63E,Teaching Adults,Dave Smulders;Laura Servage;Vicheth Sen,27,78.703703704,9.235445159,91.0,56.0,,,,,,,,,,,0,0,2,0,1,2,5,4,3,8,2,,,
+UBCV,2021,W,ADHE,328,,63B,Institutions of Adult Education,Jennifer Chan;Vicheth Sen,16,81.375,5.402160062,86.0,71.0,,,,,,,,,,,0,0,0,0,0,1,3,0,6,6,0,,,
+UBCV,2021,W,ADHE,328,,63E,Institutions of Adult Education,Kapil Regmi;Vicheth Sen,24,77.958333333,8.195858799,87.0,60.0,,,,,,,,,,,0,0,0,4,0,0,2,2,15,1,0,,,
+UBCV,2021,W,ADHE,328,,63F,Institutions of Adult Education,Kari Grain;Vicheth Sen,27,85.62962963,7.796193095,95.0,60.0,,,,,,,,,,,0,0,0,1,0,0,2,1,6,5,12,,,
+UBCV,2021,W,ADHE,329,,63B,"Developing Short Courses, Workshops and Seminars",Thomas Joda Sork;Vicheth Sen,28,79.714285714,5.753305928,88.0,67.0,,,,,,,,,,,0,0,0,0,1,3,3,4,9,8,0,,,
+UBCV,2021,W,ADHE,329,,63E,"Developing Short Courses, Workshops and Seminars",Kapil Regmi;Vicheth Sen,26,79.576923077,5.092528464,87.0,66.0,,,,,,,,,,,0,0,0,0,1,1,2,7,11,4,0,,,
+UBCV,2021,S,ADHE,328,,93Q,Institutions of Adult Education,Vicheth Sen,20,84.6,,92.0,73.0,,,,,,,,,,,,,,,,,,,6,7,,85.0,88.0,82.0
+UBCV,2021,S,ADHE,328,,93S,Institutions of Adult Education,Vicheth Sen,23,85.9,,92.0,68.0,,,,,,,,,,,,,,,,,,,,12,,87.0,89.0,83.5
+UBCV,2021,W,ADHE,327,,63C,Teaching Adults,Vicheth Sen,25,88.3,,96.0,68.0,,,,,,,,,,,,,,,,,,,,9,12,89.0,92.0,86.0
+UBCV,2021,W,ADHE,327,,63E,Teaching Adults,Vicheth Sen,27,78.7,,91.0,56.0,,,,,,,,,,,,,,,,,,,,8,,79.0,85.5,74.0
+UBCV,2021,W,ADHE,328,,63B,Institutions of Adult Education,Vicheth Sen,16,81.4,,86.0,71.0,,,,,,,,,,,,,,,,,,,6,6,,84.0,85.0,78.8
+UBCV,2021,W,ADHE,328,,63E,Institutions of Adult Education,Vicheth Sen,24,78.0,,87.0,60.0,,,,,,,,,,,,,,,,,,,15,,,81.5,83.0,76.0
+UBCV,2021,W,ADHE,329,,63B,"Developing Short Courses, Workshops and Seminars",Vicheth Sen,28,79.7,,88.0,67.0,,,,,,,,,,,,,,,,,,,9,8,,80.5,85.0,77.3
+UBCV,2021,W,ADHE,329,,63E,"Developing Short Courses, Workshops and Seminars",Vicheth Sen,26,79.6,,87.0,66.0,,,,,,,,,,,,,,,,,,7,11,,,80.0,82.8,78.0
+UBCV,2022,S,ADHE,327,,93T,Teaching Adults,Vicheth Sen,28,82.5,,90.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,3,11,10,1,83.0,86.0,80.0
+UBCV,2022,S,ADHE,328,,93T,Institutions of Adult Education,Vicheth Sen,17,78.9,,86.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,5,7,1,0,79.0,82.0,78.0
+UBCV,2022,W,ADHE,327,,63E,Teaching Adults,Vicheth Sen,24,79.4,,89.0,65.0,,,,,,,,,,,0,0,0,0,4,1,1,6,4,8,0,81.0,85.3,76.5
+UBCV,2022,W,ADHE,327,,63F,Teaching Adults,Vicheth Sen,24,76.8,,91.0,50.0,,,,,,,,,,,0,1,0,2,2,0,3,5,6,4,1,78.5,83.0,73.5
+UBCV,2022,W,ADHE,328,,63B,Institutions of Adult Education,Vicheth Sen,28,77.3,,85.0,66.0,,,,,,,,,,,0,0,0,0,1,4,4,8,8,3,0,78.0,81.3,73.0
+UBCV,2022,W,ADHE,328,,63C,Institutions of Adult Education,Vicheth Sen,25,74.4,,84.0,59.0,,,,,,,,,,,0,0,1,1,1,5,5,6,6,0,0,75.0,79.0,70.0
+UBCV,2023,S,ADHE,327,,93S,Teaching Adults,Vicheth Sen,27,81.28,,88.0,71.0,,,,,,,,,,,0,0,0,0,0,1,2,4,11,7,0,81.0,85.0,78.0
+UBCV,2023,S,ADHE,328,,93Q,Institutions of Adult Education,Vicheth Sen,19,77.78,,84.0,67.0,,,,,,,,,,,0,0,0,0,1,0,5,4,8,0,0,79.0,80.75,74.25
+UBCV,2023,S,ADHE,328,,93T,Institutions of Adult Education,Vicheth Sen,13,71.15,,85.0,41.0,,,,,,,,,,,2,0,1,0,0,2,1,3,3,1,0,78.0,80.0,70.0
+UBCV,2023,W,ADHE,327,,63A,Teaching Adults,Vicheth Sen,28,78.62,,91.0,4.0,,,,,,,,,,,1,0,0,0,2,1,1,3,9,8,1,83.0,86.75,78.25
+UBCV,2023,W,ADHE,327,,63C,Teaching Adults,Vicheth Sen,25,79.59,,89.0,24.0,,,,,,,,,,,1,0,0,0,0,0,3,3,6,9,0,83.5,86.75,76.75
+UBCV,2023,W,ADHE,327,,63D,Teaching Adults,Vicheth Sen,26,83.0,,91.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,2,9,7,4,83.0,87.25,80.0
+UBCV,2023,W,ADHE,327,,63F,Teaching Adults,Vicheth Sen,27,81.26,,92.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,4,13,4,2,82.0,84.0,77.5
+UBCV,2023,W,ADHE,328,,63E,Institutions of Adult Education,Vicheth Sen,25,78.72,,87.0,69.0,,,,,,,,,,,0,0,0,0,0,2,5,4,10,4,0,80.0,82.0,75.0

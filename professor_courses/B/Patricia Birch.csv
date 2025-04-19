@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,MEDG,595,,SC1,Emerging Genomic Topics,Carol Cremin;Colleen Guimond;Leah Macfadyen;Patricia Birch,42,91.738095238,5.797642598,100.0,68.0,0,0,0,0,0,1,0,0,3,8,30,,,
+UBCV,2021,S,MEDG,585,,SC1,Applied Variant Interpretation,Patricia Birch,25,88.32,7.592320682,97.0,70.0,0,0,0,0,0,1,2,1,2,5,14,,,
+UBCV,2021,W,MEDG,580,,101,Genomic Testing and Clinical Bioinformatics,Paola Arguello Pascualli;Patricia Birch,27,88.555555556,17.356739621,98.0,26.0,2,0,0,0,0,0,0,0,0,4,21,,,
+UBCV,2021,W,MEDG,585,,201,Applied Variant Interpretation,Patricia Birch,26,92.153846154,6.084027006,100.0,72.0,0,0,0,0,0,0,1,1,0,3,21,,,
+UBCV,2021,W,MEDG,595,,101,Emerging Genomic Topics,Carol Cremin;Colleen Guimond;Patricia Birch,14,89.0,9.655608175,99.0,66.0,0,0,0,0,1,0,1,1,0,1,10,,,
+UBCV,2021,S,MEDG,585,,SC1,Applied Variant Interpretation,Patricia Birch,25,88.3,,97.0,70.0,,,,,,,,,,,14,91.0,94.0,85.0
+UBCV,2021,W,MEDG,580,,101,Genomic Testing and Clinical Bioinformatics,Patricia Birch,27,88.6,,98.0,26.0,,,,,,,,,,,21,93.0,95.0,90.0
+UBCV,2021,W,MEDG,585,,201,Applied Variant Interpretation,Patricia Birch,26,92.2,,100.0,72.0,,,,,,,,,,,21,94.0,96.0,91.0
+UBCV,2022,W,MEDG,580,,101,Genomic Testing and Clinical Bioinformatics,Patricia Birch;Daniel Lai;Leah MacFadyen;Jennifer A Scott,38,90.9,,100.0,11.0,2,0,0,0,0,0,0,2,1,3,30,96.5,99.0,92.3
+UBCV,2022,W,MEDG,585,,201,Applied Variant Interpretation,Patricia Birch;Jennifer A Scott;Tania Zahir,31,81.8,,99.0,6.0,4,0,0,0,1,1,1,0,0,6,18,91.0,95.0,86.0
+UBCV,2022,W,MEDG,590,,201,Evidence-Based Genomic Counselling,Patricia Birch;Stephanie Brown;Daniel Lai;Kirsten Meagher;Emily Morris;Jennifer A Scott,37,91.3,,98.0,78.0,0,0,0,0,0,0,0,1,2,12,22,90.0,95.0,89.0
+UBCV,2022,W,MEDG,595,,101,Emerging Genomic Topics,Patricia Birch;Carol Cremin;Colleen Guimond;Daniel Lai;Jennifer A Scott,24,89.0,,98.0,20.0,1,0,0,0,0,0,0,0,2,5,16,93.0,95.0,88.8
+UBCV,2023,W,MEDG,580,,101,Genomic Testing and Clinical Bioinformatics,Patricia Birch;Daniel Lai;Leah MacFadyen;Jennifer A Scott,39,93.3,,100.0,6.0,2,0,0,0,0,0,0,0,0,2,34,98.0,99.0,96.0
+UBCV,2023,W,MEDG,585,,201,Applied Variant Interpretation,Patricia Birch;Indhu Shree Rajan Babu;Jennifer A Scott;Tania Zahir,33,96.3,,100.0,78.0,0,0,0,0,0,0,0,1,0,0,32,97.0,99.0,95.0
+UBCV,2023,W,MEDG,590,,201,Evidence-Based Genomic Counselling,Patricia Birch;Stephanie Brown;Courtney Cook;Kirsten Meagher;Emily Morris;Jennifer A Scott,15,76.3,,98.0,0.0,3,0,0,0,1,0,0,0,0,3,8,90.0,93.0,76.0
+UBCV,2023,W,MEDG,595,,101,Emerging Genomic Topics,Patricia Birch;Carol Cremin;Colleen Guimond;Leah MacFadyen;Sarah Neil;Jennifer A Scott,26,88.1,,98.0,51.0,2,0,0,0,0,0,0,1,3,5,15,91.5,94.0,86.5

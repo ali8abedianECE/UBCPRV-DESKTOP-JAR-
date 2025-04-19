@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,PHYS,153,,001,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",221,75.74,12.34,99,12,206,4,10,0,1,0,2,0,1,1,4,2,4,15,22,25,30,18,40,20,30
+UBC,2002,W,PHYS,153,,002,ELEMENTS OF PHYS,"Meyer, Jochen;Parsons, Robert R;Witt, Donald",245,74.66,11.15,95,7,234,2,5,0,4,1,0,0,0,1,2,6,13,14,21,25,40,23,52,19,21
+UBC,2002,W,PHYS,153,,003,ELEMENTS OF PHYS,"Meyer, Jochen;Parsons, Robert R;Semenoff, Gordon Walter",73,72.82,13.37,99,23,72,1,0,0,0,0,0,1,0,0,1,3,6,5,9,11,9,6,9,4,10
+UBC,2003,W,PHYS,153,,001,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",219,74.92,13.32,98,29,207,6,3,0,3,0,0,1,2,3,6,10,9,16,16,25,30,11,28,32,30
+UBC,2003,W,PHYS,153,,002,ELEMENTS OF PHYS,"Parsons, Robert R;Witt, Donald",194,73.79,13.39,97,25,181,7,4,0,2,0,0,2,1,4,7,10,9,11,23,17,20,16,30,23,22
+UBC,2003,W,PHYS,153,,003,ELEMENTS OF PHYS,"Parsons, Robert R;Semenoff, Gordon Walter;Witt, Donald",208,73.29,13.08,97,22,195,6,5,0,2,0,0,1,0,5,6,9,19,16,16,14,28,22,31,18,22
+UBC,2005,W,PHYS,153,,002,ELEMENTS OF PHYS,"Hasinoff, Michael;Parsons, Robert R;Schleich, Kristin;Witt, Donald",201,72.83,14.67,99,35,173,14,7,0,7,0,0,0,3,11,14,6,13,15,13,21,24,13,23,16,29
+UBC,2005,W,PHYS,153,,003,ELEMENTS OF PHYS,"Hasinoff, Michael;McCutcheon, William;Parsons, Robert R;Witt, Donald",194,71.88,12.99,99,29,176,11,3,0,4,0,0,1,0,10,11,4,7,21,23,17,35,13,22,13,21
+UBC,2005,W,PHYS,170,,101,MECHANICS I,"Ng, Andrew K;Parsons, Robert R",99,67.99,14.85,99,14,94,4,1,0,0,0,1,1,2,0,4,7,20,8,10,9,9,6,11,8,6
+UBC,2005,W,PHYS,309,,101,HON ELECTRCL LAB,"Parsons, Robert R",41,82.95,8.68,99,59,39,0,2,0,0,0,0,0,0,0,0,0,1,1,0,1,3,5,13,6,9
+UBC,2006,W,PHYS,170,,101,MECHANICS I,"McMillan, J Malcolm;Parsons, Robert R",139,74.39,16.23,96,3,130,5,4,0,0,1,0,1,3,0,5,11,7,9,8,11,10,9,24,15,26
+UBC,2009,S,MUSC,300,,911,CMP&ANL AP M MOD,"Parsons, Laurel Jean",49,79.9,9.09,96,60,48,0,1,0,0,0,0,0,0,0,0,0,0,2,5,3,2,6,14,8,8
+UBC,2013,W,MUSC,101,,001,DIATNC HRMNY&VCE,"Parsons, Laurel Jean",34,72.41,10.83,90,50,34,0,0,0,0,0,0,0,0,0,0,2,1,5,3,5,5,3,3,5,2
+UBC,2013,W,MUSC,101,,002,DIATNC HRMNY&VCE,"Parsons, Laurel Jean",55,70.61,13.89,88,0,51,3,1,0,0,1,0,0,0,2,3,1,2,2,13,5,6,6,11,5,0
+UBC,2013,W,MUSC,206,,110,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",9,,,,,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MUSC,206,,120,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",9,,,,,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,MUSC,206,,210,MUSICIANSHIP IV,"Parsons, Laurel Jean;Paslawski, Gordon",5,,,,,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDCP,405,,951,VIS ART: NEW MED,"Parsons, Michael",19,,,,,0,0,3,1,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,S,EDCP,520,,921,"PRS,PRC,&CUR ISS","Parsons, Michael",16,89.27,5.61,96,79,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,9
+UBC,2014,W,EDCP,408,,301,"ART,ED&CULTL DIV","Parsons, Michael",19,,,,,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,EDCP,523,A,031,SEMINAR ART EDUC,"Parsons, Michael",13,86.42,6.82,96,74,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,5,3
+UBC,2015,W,MECH,454,,001,THRMOFLDS CAPSTN,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",11,86.27,3.74,90,77,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,3
+UBC,2015,W,MECH,457,,001,DESIGN PROJECT,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",58,84.9,3.45,95,75,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,21,28,7
+UBC,2015,W,MECH,458,,001,MECHTRON DSN PRJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",28,83.61,3.24,87,74,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,13,0
+UBC,2015,W,MECH,459,,001,BIOMED DSGN PROJ,"Atabaki, Nima;Chiao, Mu;Fengler, Markus;Hodgson, Antony;McKesson, Christopher;Parsons, Gregg;Van der Loos, Hendrik;Winkelman, Paul",9,89.22,7.38,96,78,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,5
+UBC,2016,W,MECH,220,,101,TECH SKILLS PRAC,"Fengler, Markus;Green, Sheldon;Parsons, Gregg;Winkelman, Paul;d'Entremont, Agnes",126,79.9,4.89,93,64,124,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,20,33,48,18,2
+UBC,2017,W,MUSC,103,,002,INTRO MUSC THRY,"Parsons, Laurel Jean",22,88,10,99,56,22,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,3,4,12
+UBC,2017,W,MUSC,104,,002,INTR TO DIATONIC,"Parsons, Laurel Jean",20,70.05,16.58,87,11,19,1,0,0,0,0,1,0,0,0,1,0,2,2,1,2,4,1,5,2,0
+UBC,2017,W,MUSC,200,,001,CHRMTC HRMNY&VCE,"Parsons, Laurel Jean",53,81.23,15.02,98,27,50,2,0,1,0,0,0,1,0,1,2,2,1,1,3,1,1,4,12,4,21

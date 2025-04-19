@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2020,W,MATH,104,,101,Differential Calculus with Applications to Commerce and Social Sciences,Adam Martens;Ahmad Issa Khalid Issa;Ahmet Alperen Bulut;Amin Soofiani;Anna Mazurenko;Anthony Ho;Atoosa Mahmoudian;Babhru Joshi;Benjamin Friedman;Benjamin Garbuz;Benjamin Langer;Colby Chambers;Elliot Cheung;Ethan White;Eugene Chau;Han Hong;Igor Pereira Pinheiro;Jaye Sudweeks;Jongchon Kim;Jun Won Park;Ka Chuen Wong;Katerina Nieboer;Ken Mawer;Layal Jbara;Liam Yih;Mai Uyen Thieu;Malcolm Norman Stanley Bowles;Mark Thomson Maclean;Matthew Hasman;Mihai Marian;Mukul Rai Choudhuri;Rebecca Bonham-Carter;Reza Sadoughianzadeh;Roza Vaez Ghaemi;Sebastien Picard;Si Jia Jiao;Simone Coccia;Sina Saleh;Steven Li;Stoyan Hristov;Tianhuai Xu;Tongou Yang;Xianda Sun;Yen Fu Lin;Zachariah Goldthorpe;Ziheng Zhao;Zongyang Gao,1143,77.318460192,15.256134263,100.0,0.0,35,38,37,42,94,102,99,100,197,159,240,,,
+UBCV,2020,W,MATH,317,,201,Calculus IV,Jongchon Kim;Mukul Rai Choudhuri;Sebastien Picard,126,75.03968254,19.341313624,100.0,0.0,9,6,7,6,7,10,14,6,18,15,28,,,
+UBCV,2020,W,MATH,317,,202,Calculus IV,Jongchon Kim;Santanil Jana;Sebastien Picard,85,76.4,15.962903424,100.0,31.0,5,4,5,3,6,6,5,11,6,15,19,,,
+UBCV,2021,W,MATH,317,,201,Calculus IV,Elliot Cheung;Mukul Rai Choudhuri;Sebastien Picard,103,71.553398058,19.032339946,98.0,9.0,13,4,3,8,7,9,7,7,18,10,17,,,
+UBCV,2021,W,MATH,317,,202,Calculus IV,Elliot Cheung;Jongchon Kim;Mukul Rai Choudhuri;Sebastien Picard;Shen-Ning Tung,69,71.0,19.669325178,99.0,10.0,7,2,7,2,4,7,8,9,6,7,10,,,
+UBCV,2021,W,MATH,526,,201,Differential Geometry II,Ailana Fraser;Sebastien Picard,6,93.833333333,3.544949459,98.0,88.0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBCV,2021,W,MATH,317,,201,Calculus IV,Sebastien Picard,102,73.5,,98.0,35.0,7,,,9,8,9,7,7,18,10,17,76.5,85.8,63.3
+UBCV,2021,W,MATH,317,,202,Calculus IV,Sebastien Picard;Shen-Ning Tung,69,72.2,,99.0,10.0,,,7,,,9,8,9,6,7,10,74.0,84.0,65.0
+UBCV,2021,W,MATH,526,,201,Differential Geometry II,Sebastien Picard,6,93.8,,98.0,88.0,,,,,,,,,,,,93.5,96.3,93.0
+UBCV,2022,S,MATH,317,,951,Calculus IV,Sebastien Picard;Liwei Zhang,68,75.5,,100.0,20.0,5,6,1,4,4,3,4,6,12,8,15,80.5,88.0,64.8
+UBCV,2022,W,MATH,200,,202,Calculus III,Michael Bennett;Sebastien Picard;Zinovy Reichstein,172,71.1,,100.0,1.0,25,10,6,9,12,13,12,4,20,11,50,75.0,90.0,60.0
+UBCV,2022,W,MATH,317,,201,Calculus IV,Sebastien Picard,102,76.6,,100.0,50.0,0,4,7,9,7,7,12,8,18,11,19,78.0,86.0,67.0
+UBCV,2022,W,MATH,317,,202,Calculus IV,Sebastien Picard,56,76.9,,100.0,0.0,1,3,3,3,4,4,4,7,5,6,16,78.0,90.0,69.8
+UBCV,2022,W,MATH,602,D,101,Topics in Geometry,Sebastien Picard,12,98.8,,100.0,94.0,0,0,0,0,0,0,0,0,0,0,12,100.0,100.0,98.5
+UBCV,2023,S,MATH,253,,921,Multivariable Calculus,Sebastien Picard,153,74.21,,100.0,1.0,7,9,7,15,13,14,14,6,18,14,33,73.5,88.0,63.25
+UBCV,2023,W,MATH,317,,101,Calculus IV,Sebastien Picard,153,78.3,,100.0,21.0,5,4,7,7,8,7,14,17,16,29,35,81.0,89.0,71.0

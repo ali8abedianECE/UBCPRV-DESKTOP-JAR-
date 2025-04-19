@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,MTRL,252,,201,PYROMETALLURGY,"Tafaghodikhajavi, Leili",52,66.04,12.78,96,42,48,4,0,0,0,0,0,0,0,4,4,6,8,6,4,8,3,7,1,2,3
+UBC,2016,W,MTRL,252,,201,PYROMETALLURGY,"Tafaghodikhajavi, Leili",61,70.18,13.77,96,31,56,5,0,0,0,0,0,0,2,3,5,4,3,2,9,10,6,6,7,7,2
+UBC,2016,W,MTRL,467,,201,ENG PROJECT II,"Karimi Sharif, Hamed;Liu, Wenying;Militzer, Matthias;Tafaghodikhajavi, Leili",38,81.97,10.85,96,50,38,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,4,8,4,5,13
+UBC,2017,W,MTRL,252,,201,THERMODYN MAT I,"Tafaghodikhajavi, Leili",63,64.26,12.99,100,21,56,5,1,0,1,0,0,1,0,4,5,11,6,5,9,7,7,4,5,1,1
+UBC,2017,W,MTRL,361,,101,MODLG MATLS PROC,"Tafaghodikhajavi, Leili",68,76.13,12.34,93,38,63,4,0,1,0,0,0,0,1,3,4,1,0,5,5,6,4,9,16,11,6
+UBC,2018,W,MTRL,252,,201,THERMODYN MAT I,"Tafaghodikhajavi, Leili",49,74.96,14.34,100,30,46,2,0,0,1,0,0,0,1,1,2,1,2,1,8,4,8,5,2,7,8
+UBC,2018,W,MTRL,361,,101,MODLG MATLS PROC,"Tafaghodikhajavi, Leili",67,81.39,14.49,100,36,63,3,1,0,0,0,0,0,3,0,3,3,0,0,2,1,3,10,14,11,19
+UBCV,2015,W,MTRL,252,,201,Pyrometallurgy,Leili Tafaghodikhajavi;Luis Quiroz Castillo,52,66.038461538,12.775530438,96.0,42.0,,,,,,,,,,,,6,8,6,,8,,7,,,
+UBCV,2016,W,MTRL,252,,201,Pyrometallurgy,Ali Hosseinpour;Leili Tafaghodikhajavi,61,70.18032787,13.77256717,96.0,31.0,,,,,,,,,,,5,4,3,2,9,10,6,6,7,7,2
+UBCV,2016,W,MTRL,467,,201,Engineering Project II,Berend Wassink;Daan Maijer;Hamed Karimi Sharif;Leili Tafaghodikhajavi;Matthias Militzer;Rizhi Wang;Wenying Liu,38,81.97368421,10.85154577,96.0,50.0,,,,,,,,,,,0,1,1,1,1,0,4,8,4,5,13
+UBCV,2017,W,MTRL,252,,201,Thermodynamics of Materials I,Ali Hosseinpour;Goran Fernlund;Leili Tafaghodikhajavi,62,63.5,14.208921234,100.0,17.0,,,,,,,,,,,6,11,6,5,9,7,7,4,5,1,1
+UBCV,2017,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Krishnamoorthy Prashanth;Leili Tafaghodikhajavi,67,76.134328358,12.343438353,93.0,38.0,,,,,,,,,,,4,1,0,5,5,6,4,9,16,11,6
+UBCV,2018,W,MTRL,252,,201,Thermodynamics of Materials I,Leili Tafaghodikhajavi;Sahand Sarbishei,49,74.857142857,14.2112045,100.0,30.0,,,,,,,,,,,2,1,2,1,8,5,8,5,2,7,8
+UBCV,2018,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Leili Tafaghodikhajavi;Seyed Mostafa Samadzadeh,66,81.393939394,14.492309672,100.0,36.0,,,,,,,,,,,3,3,0,0,2,1,3,10,14,11,19
+UBCV,2019,W,MTRL,252,,201,Thermodynamics of Materials I,Leili Tafaghodikhajavi;Sahand Sarbishei,42,66.904761905,19.64167983,96.0,0.0,,,,,,,,,,,4,3,2,5,5,4,4,6,5,1,3
+UBCV,2019,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Leili Tafaghodikhajavi;Nasser Arbabi,56,76.464285714,12.715008005,96.0,41.0,,,,,,,,,,,3,2,0,2,1,9,5,9,8,10,7
+UBCV,2019,W,MTRL,466,,101,Engineering Project I,Brighty Dutta;Chadwick Sinclair;Daan Maijer;David Dixon;David Dreisinger;Edouard Asselin;Guangrui Xia;Jonathan Nakane;Leili Tafaghodikhajavi;Rizhi Wang;Tom Troczynski;Wenying Liu,56,83.857142857,5.401779409,96.0,70.0,,,,,,,,,,,0,0,0,0,0,1,2,7,26,11,9
+UBCV,2019,W,MTRL,467,,201,Engineering Project II,Anoshiravan Poursartip;Berend Wassink;Christophe Mobuchon;Daan Maijer;David Dixon;Jonathan Nakane;Leili Tafaghodikhajavi;Matthias Militzer;Rebecca Schaller;Rizhi Wang;Tom Troczynski;Wenying Liu;Xin Zhang,60,80.483333333,6.534113005,98.0,63.0,,,,,,,,,,,0,0,0,1,1,4,5,13,17,17,2
+UBCV,2020,W,MTRL,252,,201,Thermodynamics of Materials I,Fei Wang;Leili Tafaghodikhajavi;Sahand Sarbishei;Thomas Ferguson,55,68.781818182,16.35564339,96.0,21.0,,,,,,,,,,,3,6,5,7,3,3,9,3,8,2,6
+UBCV,2020,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Leili Tafaghodikhajavi;Nasser Arbabi,33,70.878787879,18.533344234,96.0,21.0,,,,,,,,,,,3,3,2,3,3,2,2,2,2,5,6
+UBCV,2020,W,MTRL,467,,201,Engineering Project II,Andrew Zang;Anoshiravan Poursartip;Berend Wassink;David Dixon;Gabrielle Lam;Jonathan Nakane;Leili Tafaghodikhajavi;Matthias Militzer;Rizhi Wang;Shubham Jain;Tom Troczynski,47,83.446808511,6.092791574,91.0,68.0,,,,,,,,,,,0,0,0,0,0,4,1,4,18,8,12
+UBCV,2021,W,MTRL,252,,201,Thermodynamics of Materials I,Jia Guo;Leili Tafaghodikhajavi;Wenying Liu,54,64.574074074,17.164687151,92.0,8.0,,,,,,,,,,,6,4,5,9,5,6,6,5,0,6,2
+UBCV,2021,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Jun Ou;Leili Tafaghodikhajavi;Pegah Pourabdollah;Steven Cockcroft,37,70.567567568,17.278021589,95.0,14.0,,,,,,,,,,,3,1,0,4,2,9,4,4,3,3,4
+UBCV,2021,W,MTRL,467,,201,Engineering Project II,Anoshiravan Poursartip;Daan Maijer;David Dixon;Jonathan Nakane;Leili Tafaghodikhajavi;Rizhi Wang;Tom Troczynski;Wenying Liu;Yasmine Abdin,35,80.857142857,9.819377173,90.0,41.0,,,,,,,,,,,1,1,0,0,0,0,2,4,10,11,6

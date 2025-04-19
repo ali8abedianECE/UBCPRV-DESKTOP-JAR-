@@ -1,0 +1,41 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,ENGL,100,,004,"READ, WRITE LIT","Green, William",28,72.11,9.96,87,44,27,1,0,0,0,0,0,0,0,1,1,1,1,1,3,4,4,7,4,2,0,,,
+UBC,2018,W,ENGL,100,,015,"READ, WRITE LIT","Green, William",27,67.74,15.74,85,22,23,4,0,0,0,0,0,1,2,1,4,0,1,1,2,3,5,7,2,2,0,,,
+UBC,2018,W,ENGL,344,B,003,MEDIEVAL STUDIES,"Green, William",27,70.07,20.05,96,0,24,3,0,0,0,1,0,1,0,1,3,1,0,1,0,5,2,4,8,2,1,,,
+UBC,2018,W,WOOD,225,,203,COMMUNICTN STRAT,"Green, William",28,66.79,5,75,55,28,0,0,0,0,0,0,0,0,0,0,0,2,5,7,10,4,0,0,0,0,,,
+UBC,2018,W,WOOD,225,,204,COMMUNICTN STRAT,"Green, William",27,73.22,6.86,86,56,27,0,0,0,0,0,0,0,0,0,0,0,2,1,0,6,6,8,3,1,0,,,
+UBC,2018,W,WRDS,150,,11A,RSRCH&WRIT HUMAN,"Green, William",30,70.17,14.85,85,21,29,1,0,0,0,0,0,1,0,0,1,3,4,1,0,4,4,3,5,5,0,,,
+UBC,2018,W,WRDS,150,,15A,RSRCH&WRIT HUMAN,"Green, William",30,63.86,14.6,85,21,25,3,1,0,1,0,0,1,2,0,3,1,3,4,5,3,4,2,2,1,0,,,
+UBCV,2014,W,ENGL,110,,019,Approaches to Literature,Jade Standing;Katherine Davison;Kristan Newell;Patricia Badir;Scott Inniss;William Green,132,72.9469697,7.034608442,90.0,54.0,,,,,,,,,,,0,,,7,11,34,30,23,15,7,,,,
+UBCV,2015,W,ENGL,110,,002,Approaches to Literature,Christopher Gaudet;Michael De Santis;Olivia Kelava;Richard Anthony Cavell;Roza Nozari;William Green,132,73.295454545,8.802965007,92.0,51.0,,,,,,,,,,,0,,5,7,18,19,20,22,26,7,,,,
+UBCV,2015,W,ENGL,419,A,001,History of the Book,Sian Echard;William Green;William Walker Green,41,80.365853659,5.602482028,93.0,68.0,,,,,,,,,,,0,0,0,0,0,,5,11,13,6,,,,
+UBCV,2016,W,ENGL,344,A,001,Medieval Studies,Sian Echard;William Green;William Walker Green,48,76.9375,7.899383897,93.0,58.0,,,,,,,,,,,0,0,1,2,3,7,4,10,12,8,1,,,
+UBCV,2017,W,ENGL,110,,028,Approaches to Literature,Jade Standing;Lora Moon;Richard Bergen;Robert Rouse;William Green,101,73.851485149,10.654000318,87.0,0.0,,,,,,,,,,,2,0,2,3,10,17,20,17,18,12,0,,,
+UBCV,2018,W,ENGL,100,,004,Reading and Writing about Literature,William Green,28,72.107142857,9.960437614,87.0,44.0,,,,,,,,,,,1,1,1,1,3,4,4,7,4,2,0,,,
+UBCV,2018,W,ENGL,100,,015,Reading and Writing about Literature,William Green,27,67.740740741,15.739691602,85.0,22.0,,,,,,,,,,,4,0,1,1,2,3,5,7,2,2,0,,,
+UBCV,2018,W,ENGL,344,B,003,Medieval Studies,William Green;William Walker Green,27,70.074074074,20.047877167,96.0,0.0,,,,,,,,,,,3,1,0,1,0,5,2,4,8,2,1,,,
+UBCV,2018,W,WOOD,225,,203,Communications Strategies,Roisin Boyle;Sarah Dickson-Hoyle;Sarah Nelle Jackson;William Green;William Walker Green,28,66.785714286,4.998941687,75.0,55.0,,,,,,,,,,,0,0,2,5,7,10,4,0,0,0,0,,,
+UBCV,2018,W,WOOD,225,,204,Communications Strategies,Roisin Boyle;Sarah Dickson-Hoyle;Sarah Nelle Jackson;William Green;William Walker Green,27,73.222222222,6.86313078,86.0,56.0,,,,,,,,,,,0,0,2,1,0,6,6,8,3,1,0,,,
+UBCV,2018,W,WRDS,150,,11A,Research and Writing in the Humanities and Social Sciences,William Green,30,70.166666667,14.853499143,85.0,21.0,,,,,,,,,,,1,3,4,1,0,4,4,3,5,5,0,,,
+UBCV,2018,W,WRDS,150,,15A,Research and Writing in the Humanities and Social Sciences,William Green,29,63.310344828,14.63875348,85.0,21.0,,,,,,,,,,,4,1,3,4,5,3,4,2,2,1,0,,,
+UBCV,2019,W,ENGL,344,,002,Middle English Literature,William Green,15,78.933333333,12.38355284,90.0,50.0,,,,,,,,,,,0,2,0,0,0,0,2,2,1,6,2,,,
+UBCV,2019,W,WRDS,150,,06P,Writing and Research in the Disciplines,William Green,24,74.166666667,7.727233976,85.0,52.0,,,,,,,,,,,0,1,0,0,2,7,3,4,4,3,0,,,
+UBCV,2019,W,WRDS,150,,643,Writing and Research in the Disciplines,William Green,29,72.586206897,6.009024412,85.0,64.0,,,,,,,,,,,0,0,0,0,6,7,7,2,6,1,0,,,
+UBCV,2019,W,WRDS,150,,672,Writing and Research in the Disciplines,William Green,29,70.655172414,8.027968352,83.0,55.0,,,,,,,,,,,0,0,3,2,5,5,4,4,6,0,0,,,
+UBCV,2019,W,WRDS,150,,681,Writing and Research in the Disciplines,William Green,26,69.307692308,7.50876411,86.0,58.0,,,,,,,,,,,0,0,2,4,3,8,3,3,2,1,0,,,
+UBCV,2019,W,WRDS,150,,882,Writing and Research in the Disciplines,William Green,26,74.115384615,5.778075272,85.0,62.0,,,,,,,,,,,0,0,0,1,1,5,9,4,4,2,0,,,
+UBCV,2020,W,ENGL,327,,001,Cognitive Approaches to the Study of Meaning,Barbara Dancygier;William Green,40,76.55,11.035955223,94.0,51.0,,,,,,,,,,,0,1,1,3,2,7,2,8,4,7,5,,,
+UBCV,2020,W,ENGL,332,,001,Approaches to Media History,Derek Woods;William Green,32,86.59375,6.121666308,96.0,69.0,,,,,,,,,,,0,0,0,0,0,1,1,1,5,14,10,,,
+UBCV,2020,W,WRDS,150,A,343,Writing and Research in the Disciplines,Liam Lester;William Green,29,76.310344828,13.245224067,91.0,31.0,,,,,,,,,,,1,1,1,1,0,3,5,4,5,5,3,,,
+UBCV,2020,W,WRDS,150,B,864,Writing and Research in the Disciplines,Liam Lester;William Green,30,73.2,15.439313903,86.0,9.0,,,,,,,,,,,2,1,0,0,2,0,6,9,7,3,0,,,
+UBCV,2020,W,WRDS,150,B,882,Writing and Research in the Disciplines,Liam Lester;William Green,25,69.24,19.466381276,88.0,0.0,,,,,,,,,,,2,1,1,1,0,5,2,4,7,2,0,,,
+UBCV,2021,S,WRDS,150,A,006,Writing and Research in the Disciplines,Sara Qureshi;William Green,28,67.5,14.43375673,88.0,18.0,,,,,,,,,,,2,1,1,5,2,5,5,3,0,4,0,,,
+UBCV,2021,W,WRDS,150,B,702,Writing and Research in the Disciplines,William Green,29,68.965517241,19.303002651,91.0,4.0,,,,,,,,,,,4,1,0,1,3,1,4,6,5,3,1,,,
+UBCV,2021,S,WRDS,150,A,006,Writing and Research in the Disciplines,William Green,28,67.5,,88.0,18.0,,,,,,,,,,,,,,,,,,,,,,69.0,74.5,62.0
+UBCV,2021,W,WRDS,150,B,702,Writing and Research in the Disciplines,William Green,29,69.0,,91.0,4.0,,,,,,,,,,,,,,,,,,6,,,,76.0,80.0,66.0
+UBCV,2022,S,WRDS,150,B,502,Writing and Research in the Disciplines,William Green,30,72.8,,90.0,57.0,,,,,,,,,,,0,0,2,5,1,4,5,5,7,0,1,74.0,80.3,66.0
+UBCV,2022,S,WRDS,150,B,552,Writing and Research in the Disciplines,William Green,28,62.8,,85.0,0.0,,,,,,,,,,,4,0,2,4,5,2,3,1,4,3,0,67.0,78.5,61.0
+UBCV,2022,W,WRDS,150,A,181,Writing and Research in the Disciplines,William Green,24,61.0,,87.0,17.0,,,,,,,,,,,5,2,2,2,2,3,3,1,3,1,0,64.5,72.3,52.8
+UBCV,2022,W,WRDS,150,B,570,Writing and Research in the Disciplines,William Green,24,56.3,,87.0,7.0,,,,,,,,,,,8,2,2,0,1,1,4,3,0,3,0,62.0,74.5,41.0
+UBCV,2022,W,WRDS,150,B,644,Writing and Research in the Disciplines,William Green,29,55.7,,87.0,2.0,,,,,,,,,,,10,2,0,3,1,1,5,1,5,1,0,60.0,75.0,37.0
+UBCV,2023,S,WRDS,150,A,006,Writing and Research in the Disciplines,William Green,30,64.5,,91.0,5.0,,,,,,,,,,,4,3,3,3,2,1,0,3,3,4,1,64.0,80.0,54.0

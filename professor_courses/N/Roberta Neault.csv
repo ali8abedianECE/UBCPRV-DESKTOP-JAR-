@@ -1,0 +1,25 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,CNPS,574,,002,CAREER PLANNING,"Neault, Roberta",17,95.35,2.18,99,91,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+UBC,2009,S,CNPS,574,,951,CAREER PLANNING,"Neault, Roberta",15,97.47,1.41,99,95,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+UBC,2018,W,CNPS,574,,001,CAREER PLANNING,"Neault, Roberta",16,93.88,2.06,97,90,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+UBC,2018,W,CNPS,584,,002,PRGM DEVL CNSL,"Neault, Roberta",18,96.94,0.94,99,95,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2018,W,CNPS,574,,001,Career Planning and Decision-Making Counselling,Norman Amundson;Roberta A Neault;Roberta Borgen;Roberta Neault,16,93.875,2.061552813,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16
+UBCV,2018,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Roberta Borgen;Roberta Neault,18,96.944444444,0.937595311,99.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2019,S,CNPS,574,,951,Career Planning and Decision-Making Counselling,Norman Amundson;Roberta Borgen;Roberta Neault,19,95.368421053,2.060488785,99.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,18
+UBCV,2019,W,CNPS,574,,001,Career Planning and Decision-Making Counselling,Roberta Borgen;Roberta Neault,22,94.681818182,2.056033251,97.0,89.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,21
+UBCV,2019,W,CNPS,574,,62A,Career Planning and Decision-Making Counselling,Roberta Borgen;Roberta Neault,20,93.9,1.410487038,96.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,20
+UBCV,2019,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Daniel Cox;Roberta Neault,18,91.277777778,3.952743731,97.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,4,12
+UBCV,2019,W,CNPS,586,,001,Ethics in Counselling Psychology,Mircea Munteanu;Roberta Borgen;Roberta Neault,15,94.533333333,2.166849809,98.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,15
+UBCV,2020,S,CNPS,574,,951,Career Planning and Decision-Making Counselling,Marla Buchanan;Roberta Borgen;Roberta Neault,17,94.588235294,1.938389265,97.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2020,S,CNPS,584,,921,Program Development and Professional Practice in Counselling,Christopher Shelley;Marla Buchanan;Roberta Borgen;Roberta Neault,23,96.52173913,1.410014997,98.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2020,W,CNPS,363,,63F,Career Counselling,Candy Ho;Janet Vaughan Marshall;Roberta Neault,23,87.434782609,6.163131487,98.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,4,5,11
+UBCV,2020,W,CNPS,574,,001,Career Planning and Decision-Making Counselling,Roberta Borgen;Roberta Neault,17,96.352941176,2.11958653,99.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2020,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Daniel Cox;Roberta Borgen;Roberta Neault,10,96.6,1.776388346,99.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2020,W,CNPS,586,,001,Ethics in Counselling Psychology,Roberta Borgen;Roberta Neault,18,96.222222222,2.365326878,99.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2020,W,CNPS,586,,002,Ethics in Counselling Psychology,Izabela Schultz;Roberta Borgen;Roberta Neault,18,94.888888889,1.490711985,97.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,18
+UBCV,2021,S,CNPS,574,,951,Career Planning and Decision-Making Counselling,Roberta Borgen;Roberta Neault,16,96.3125,1.352466882,99.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16
+UBCV,2021,S,CNPS,584,,921,Program Development and Professional Practice in Counselling,Roberta Borgen;Roberta Neault,16,96.6875,1.493039406,99.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,16
+UBCV,2021,W,CNPS,574,,001,Career Planning and Decision-Making Counselling,Roberta Borgen;Roberta Neault,14,96.071428571,1.730463954,98.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,14
+UBCV,2021,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Roberta Borgen;Roberta Neault,7,96.714285714,0.951189731,98.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2021,W,CNPS,586,,001,Ethics in Counselling Psychology,Roberta Borgen;Roberta Neault,6,95.833333333,0.40824829,96.0,95.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2021,W,CNPS,586,,002,Ethics in Counselling Psychology,Roberta Borgen;Roberta Neault,11,96.181818182,1.990888335,99.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11

@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2006,W,BABS,502,,001,FORECASTING MGMT,"Johnson, Michael Roger",10,84.6,6.33,91,72,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4
+UBCV,2014,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Suvaporn Phasuk,22,77.86363636,10.22273589,93.0,59.0,,,,,,,,,,,0,0,,,,,,,7,5,
+UBCV,2014,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,19,79.68421053,9.933403979,90.0,54.0,,,,,,,,,,,0,,,,,,,,,6,
+UBCV,2014,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,18,80.0,6.659800386,93.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,6,,
+UBCV,2015,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Gabrielle Menard;Michael Johnson;Michael Roger Johnson,14,72.285714286,12.814826578,90.0,43.0,,,,,,,,,,,,,,,,,,,,,
+UBCV,2015,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,34,81.323529412,7.457843495,94.0,65.0,,,,,,,,,,,0,0,0,0,,,5,,12,,7
+UBCV,2015,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,27,78.37037037,6.487551086,91.0,68.0,,,,,,,,,,,0,0,0,0,0,5,6,,8,5,
+UBCV,2016,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Raphael Roman,13,79.46153846,8.089245789,97.0,67.0,,,,,,,,,,,0,0,0,0,1,1,1,5,2,2,1
+UBCV,2016,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,30,78.93333333,8.717534187,96.0,63.0,,,,,,,,,,,0,0,0,1,1,5,2,8,4,5,4
+UBCV,2016,W,FRE,529,,001,Estimating Econometric Models,Michael Johnson;Michael Roger Johnson,20,81.7,8.253229033,95.0,64.0,,,,,,,,,,,0,0,0,0,2,0,3,1,5,5,4
+UBCV,2016,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,25,80.04,8.095677859,95.0,69.0,,,,,,,,,,,0,0,0,0,0,7,1,3,5,6,3
+UBCV,2016,W,LFS,252,,002,"Land, Food, and Community: Quantitative Data Analysis",Jingyu Bao;Lucia Amendola Saavedra;Michael Johnson;Michael Roger Johnson;Pacific Vuningoma;Sarah Jane Riddell;Sarah Riddell;Teresa Hao;Xiaohun Li;Ya Gao,181,76.90055249,9.393913498,95.0,50.0,,,,,,,,,,,0,5,6,4,16,19,23,27,36,37,8
+UBCV,2017,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Hanjun Lu;Michael Johnson;Michael Roger Johnson,28,83.678571429,7.798639822,97.0,70.0,,,,,,,,,,,0,0,0,0,0,2,5,2,2,8,9
+UBCV,2017,W,FRE,528,,002,Applied Econometrics,Mark Liew;Michael Johnson;Michael Roger Johnson,42,79.357142857,8.284047051,93.0,62.0,,,,,,,,,,,0,0,0,1,0,9,6,4,8,8,6
+UBCV,2017,W,FRE,529,,001,Estimating Econometric Models,Michael Johnson;Michael Roger Johnson,30,83.733333333,5.002987613,95.0,72.0,,,,,,,,,,,0,0,0,0,0,0,2,1,12,10,5
+UBCV,2017,W,FRE,530,,001,Econometrics with Time Series Data,Michael Johnson;Michael Roger Johnson,30,84.0,4.835215646,98.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,16,7,5
+UBCV,2017,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,38,82.210526316,7.795209529,95.0,61.0,,,,,,,,,,,0,0,0,1,0,1,6,4,11,8,7
+UBCV,2017,W,LFS,252,,002,"Land, Food, and Community: Quantitative Data Analysis",Brynn Andrea Mclellan;Brynn Mclellan;Dylan Kennedy;Dylan Kingsley Kennedy;Juliano Palacios Abrantes;Kaylie Danielle Higgs;Kaylie Higgs;Lesley Miller;Lesley Nicole Miller;Lucia Amendola Saavedra;Michael Johnson;Michael Roger Johnson,178,77.915730337,11.663777517,97.0,0.0,,,,,,,,,,,2,1,5,7,14,17,25,19,30,30,28
+UBCV,2018,W,FRE,326,,001,Empirical Methods for Food and Resource Economics,Michael Johnson;Michael Roger Johnson,14,82.428571429,7.324503509,95.0,70.0,,,,,,,,,,,0,0,0,0,0,2,0,2,4,3,3
+UBCV,2018,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Yin Lam Wong,27,77.814814815,7.770937163,97.0,64.0,,,,,,,,,,,0,0,0,0,2,4,5,5,5,4,2
+UBCV,2018,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,37,78.945945946,7.531216317,95.0,62.0,,,,,,,,,,,0,0,0,1,0,4,6,8,7,7,4
+UBCV,2018,W,FRE,529,,001,Estimating Econometric Models,Michael Johnson;Michael Roger Johnson,30,84.433333333,7.668490538,97.0,71.0,,,,,,,,,,,0,0,0,0,0,1,5,2,5,7,10
+UBCV,2018,W,FRE,530,,001,Econometrics with Time Series Data,Michael Johnson;Michael Roger Johnson,31,83.419354839,5.801001026,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,9,7,7,7
+UBCV,2018,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,32,78.40625,7.391622874,92.0,60.0,,,,,,,,,,,0,0,0,1,0,6,5,2,12,3,3
+UBCV,2018,W,LFS,252,,002,"Land, Food, and Community: Quantitative Data Analysis",Dylan Kennedy;Kaylie Higgs;Kelvin Au;Kelvin Koon Fun Au;Lesley Miller;Lesley Nicole Miller;Lucia Amendola Saavedra;Michael Johnson;Michael Roger Johnson,169,77.692307692,11.186726829,97.0,42.0,,,,,,,,,,,1,4,7,9,12,15,16,20,31,29,25
+UBCV,2019,W,FRE,326,,001,Empirical Methods for Food and Resource Economics,Michael Johnson;Michael Roger Johnson;Xiao Han,20,80.4,8.369116158,91.0,65.0,,,,,,,,,,,0,0,0,0,2,0,5,3,1,5,4
+UBCV,2019,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Xiao Han,26,78.730769231,11.308608022,96.0,60.0,,,,,,,,,,,0,0,0,3,3,1,2,1,6,5,5
+UBCV,2019,W,FRE,528,,002,Applied Econometrics,Mark Liew;Michael Johnson;Michael Roger Johnson,45,78.911111111,9.087509465,93.0,44.0,,,,,,,,,,,1,0,0,0,1,6,8,4,12,7,6
+UBCV,2019,W,FRE,529,,001,Estimating Econometric Models,Mark Liew;Michael Johnson;Michael Roger Johnson,36,81.472222222,7.177290022,97.0,68.0,,,,,,,,,,,0,0,0,0,0,3,5,7,10,6,5
+UBCV,2019,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,36,80.25,7.762087348,95.0,60.0,,,,,,,,,,,0,0,0,1,0,4,4,6,9,8,4
+UBCV,2019,W,LFS,252,,002,"Land, Food, and Community: Quantitative Data Analysis",Hong Li;Kelvin Au;Kelvin Koon Fun Au;Lesley Miller;Michael Johnson;Michael Roger Johnson;Xiao Han,191,80.654450262,10.637865268,99.0,35.0,,,,,,,,,,,1,3,4,5,9,12,20,19,40,36,42

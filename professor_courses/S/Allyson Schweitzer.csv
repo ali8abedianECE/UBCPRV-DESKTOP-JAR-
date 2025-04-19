@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2021,W,KIN,110,,L1A,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,36,67.694444444,21.544398602,100.0,26.0,5,8,2,2,2,1,2,2,3,0,9,,,
+UBCV,2021,W,KIN,110,,L1B,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,25,68.08,19.489142276,100.0,32.0,4,3,0,3,1,1,3,3,2,2,3,,,
+UBCV,2021,W,KIN,110,,L1C,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,35,70.628571429,19.76640899,94.0,3.0,4,2,3,1,1,3,4,5,4,2,6,,,
+UBCV,2021,W,KIN,110,,L1D,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,20,67.95,23.618625567,100.0,24.0,4,2,1,0,0,2,1,3,3,1,3,,,
+UBCV,2021,W,KIN,110,,L1E,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,33,70.757575758,20.202150726,100.0,24.0,4,4,2,0,2,2,1,4,5,4,5,,,
+UBCV,2021,W,KIN,110,,L1F,Human Anatomy,Allyson Schweitzer;Emmanuel Ouma;J Timothy Inglis;Joshua Taylor,35,63.828571429,22.804134963,100.0,21.0,9,3,2,0,3,4,1,4,1,4,4,,,
+UBCV,2021,W,KIN,438,,001,Skeletal Muscle Physiology: From Generation to Regeneration,Allyson Schweitzer;Cameron Mitchell,56,77.625,12.28681851,96.0,48.0,1,2,2,2,6,5,6,5,9,8,10,,,
+UBCV,2023,W,KIN,131,,L2A,Systems Physiology I,Allyson Schweitzer,30,78.0,,95.0,48.0,1,0,1,2,3,3,2,1,7,3,7,80.0,88.0,68.5
+UBCV,2023,W,KIN,131,,L2B,Systems Physiology I,Allyson Schweitzer,30,82.0,,96.0,54.0,0,1,1,1,0,2,3,2,5,5,10,84.5,91.0,75.3
+UBCV,2023,W,KIN,131,,L2C,Systems Physiology I,Allyson Schweitzer,29,78.0,,96.0,31.0,2,1,1,1,1,0,2,3,6,4,8,83.0,90.0,74.0
+UBCV,2023,W,KIN,131,,L2D,Systems Physiology I,Allyson Schweitzer,28,85.2,,97.0,14.0,1,0,0,0,0,0,0,2,6,5,13,89.0,92.5,83.0

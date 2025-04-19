@@ -1,0 +1,81 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,ASIA,329,,002,GENDER SE ASIA,"Hunter, Thomas",29,84.11,5.39,93,72,27,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,7,6,8,5
+UBC,2011,W,INDO,100,,001,INTRO INDO 1,"Hunter, Thomas",12,77.92,13.2,95,46,11,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,3,3,1
+UBC,2011,W,INDO,101,,001,INTRO INDO 2,"Hunter, Thomas",11,86.7,6.11,95,79,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,4
+UBC,2011,W,SANS,100,,001,INTRO SANSKRIT 1,"Hunter, Thomas",14,80.9,7.88,93,68,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,2,2
+UBC,2011,W,SANS,101,,001,INTRO SANSKRIT 2,"Hunter, Thomas",7,85.83,6.05,94,79,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+UBC,2012,S,SANS,100,,921,INTRO SANSKRIT 1,"Hunter, Thomas",7,86.43,5.47,95,79,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2
+UBC,2012,S,SANS,101,,951,INTRO SANSKRIT 2,"Hunter, Thomas",6,70.4,39.7,97,0,4,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1
+UBC,2012,W,ASIA,329,,002,GENDER SE ASIA,"Hunter, Thomas",56,85.72,4.66,96,76,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7,27,12
+UBC,2012,W,INDO,200,,001,INTMD INDONESIAN,"Hunter, Thomas",10,88.67,4.36,94,84,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,4
+UBC,2012,W,SANS,102,,001,INTRO SANSKRIT,"Hunter, Thomas",7,90,10.46,98,76,4,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2
+UBC,2013,S,ASIA,348,,921,GR LT WRS CL IND,"Hunter, Thomas",48,82.32,9.99,95,40,46,1,1,0,0,0,0,0,0,1,1,0,0,1,1,3,1,7,8,15,10
+UBC,2013,S,ASIA,390,,921,HIST IND OCN WRL,"Hunter, Thomas",41,81.25,9.17,94,45,39,1,0,0,0,0,0,0,0,1,1,0,0,0,1,2,4,5,11,10,6
+UBC,2013,W,ASIA,348,,001,GR LT WRS CL IND,"Hunter, Thomas",78,85.33,12.45,96,0,75,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,2,6,15,22,28
+UBC,2013,W,ASIA,370,,001,SANSKRIT COSMOP,"Hunter, Thomas",61,87.75,5.75,97,68,57,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,5,10,13,28
+UBC,2013,W,SANS,102,,001,INTRO SANSKRIT,"Hunter, Thomas",11,87.3,6.96,98,77,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,4
+UBC,2014,S,ASIA,329,,921,GENDER SE ASIA,"Hunter, Thomas",91,79.1,11.49,96,0,88,1,1,0,0,1,0,0,0,0,1,0,0,1,3,9,14,15,19,15,12
+UBC,2014,S,ASIA,390,,921,HIST IND OCN WRL,"Hunter, Thomas",48,85.25,7.06,96,70,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5,12,12,15
+UBC,2014,W,ASIA,370,,001,SANSKRIT COSMOP,"Hunter, Thomas",83,85.4,7.04,100,65,80,0,2,0,0,0,0,0,0,0,0,0,0,0,1,5,4,3,17,26,24
+UBC,2014,W,ASIA,390,,001,HIST IND OCN WRL,"Hunter, Thomas",55,83.71,6.48,93,63,52,0,2,1,0,0,0,0,0,0,0,0,0,1,0,2,3,6,13,17,10
+UBC,2014,W,SANS,102,,001,INTRO SANSKRIT,"Hunter, Thomas",7,89.29,9.18,98,75,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,4
+UBC,2014,W,SANS,200,,001,INTERMD SANSKRIT,"Hunter, Thomas",7,90.29,6.55,96,78,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,5
+UBC,2015,S,ASIA,329,,921,GENDER SE ASIA,"Hunter, Thomas",81,71.48,12.45,95,0,77,2,2,0,0,1,0,0,0,1,2,1,6,5,10,11,17,9,11,4,3
+UBC,2015,S,ASIA,348,,921,GR LT WRS CL IND,"Hunter, Thomas",81,76.15,9.67,96,46,79,1,1,0,0,0,0,0,0,1,1,1,3,5,3,10,9,16,16,13,3
+UBC,2015,W,ASIA,304,,001,S&SE PERFOR ARTS,"Hunter, Thomas",45,83.53,5.67,94,70,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,3,11,17,6
+UBC,2015,W,ASIA,370,,001,SANSKRIT COSMOP,"Hunter, Thomas",58,86.05,7.71,99,57,57,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,2,5,15,11,22
+UBC,2015,W,SANS,102,,001,INTRO SANSKRIT,"Hunter, Thomas",8,92.5,6.35,98,82,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6
+UBC,2016,S,ASIA,329,,921,GENDER SE ASIA,"Hunter, Thomas",105,80.64,10.73,99,0,96,1,5,0,0,1,0,0,0,0,1,0,0,1,2,3,12,12,35,21,10
+UBC,2016,S,ASIA,390,,921,HIST IND OCN WRL,"Hunter, Thomas",93,80.83,8.25,95,63,86,0,5,0,0,0,0,0,0,0,0,0,0,1,5,7,13,7,21,16,16
+UBC,2016,W,ASIA,304,,001,S&SE PERFOR ARTS,"Hunter, Thomas",52,83.75,6.78,96,65,51,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6,8,11,14,11
+UBC,2016,W,ASIA,370,,001,SANSKRIT COSMOP,"Hunter, Thomas",108,85.73,5.83,95,69,105,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,5,9,21,35,33
+UBC,2016,W,SANS,300,,001,INTRO SANSKRIT,"Hunter, Thomas",14,89.15,9.08,100,67,13,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,8
+UBC,2016,W,SANS,400,,001,INTERMD SANSKRIT,"Hunter, Thomas",6,87.4,12.46,98,67,5,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3
+UBC,2017,S,ASIA,329,,921,GENDER SE ASIA,"Hunter, Thomas",107,73.36,14.53,92,0,97,3,3,0,0,2,0,0,0,1,3,3,2,9,8,10,15,12,19,12,7
+UBC,2017,S,ASIA,348,,921,GR LT WRS CL IND,"Hunter, Thomas",71,77.46,8.94,95,58,67,0,2,0,0,0,0,0,0,0,0,0,2,2,5,8,8,10,16,10,6
+UBC,2017,W,ASIA,390,,001,HIST IND OCN WRL,"Hunter, Thomas",67,83.64,13.97,99,0,66,1,0,0,0,1,0,0,0,0,1,0,1,0,1,8,3,3,9,16,25
+UBC,2017,W,SANS,300,,001,INTRO SANSKRIT,"Hunter, Thomas",16,87.57,6.63,100,78,14,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,2,6
+UBC,2018,S,ASIA,304,,921,S&SE PERFOR ARTS,"Hunter, Thomas",65,82.43,9.81,94,22,59,1,3,0,0,0,0,1,0,0,1,0,0,0,0,1,7,7,12,24,8
+UBC,2018,S,ASIA,329,,921,GENDER SE ASIA,"Hunter, Thomas",63,76.84,10.21,94,57,57,0,2,0,0,0,0,0,0,0,0,0,2,5,6,6,6,3,11,14,4
+UBC,2018,W,ASIA,304,,001,S&SE PERFOR ARTS,"Hunter, Thomas",79,82.7,6.93,96,60,74,0,0,0,1,0,0,0,0,0,0,0,0,1,2,1,8,8,19,23,12
+UBC,2018,W,ASIA,390,,001,HIST IND OCN WRL,"Hunter, Thomas",61,80.88,10.01,100,53,56,0,0,0,1,0,0,0,0,0,0,1,0,0,3,6,8,7,6,13,12
+UBC,2018,W,SANS,300,,001,INTRO SANSKRIT,"Hunter, Thomas",24,90.92,7.5,99,67,24,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,5,16
+UBCV,2014,S,ASIA,329,,921,Gender in Southeast Asia,Thomas Hunter;Thomas Marshall Hunter Jr,90,79.11111111,11.42188363,96.0,0.0,,,,,,,,,,,,,,,,9,14,15,20,15,12
+UBCV,2014,S,ASIA,390,,921,History of the Indian Ocean World,Thomas Hunter;Thomas Marshall Hunter Jr,48,85.25,7.05751448,96.0,70.0,,,,,,,,,,,0,0,0,0,0,,,5,12,12,15
+UBCV,2014,W,ASIA,370,,001,"The Sanskrit Cosmopolis: India and the World, 200-1500 CE",Thomas Hunter;Thomas Marshall Hunter Jr,81,85.2345679,7.155891987,100.0,65.0,,,,,,,,,,,0,0,0,0,,5,5,,17,26,24
+UBCV,2014,W,ASIA,390,,001,History of the Indian Ocean World,Thomas Hunter;Thomas Marshall Hunter Jr,52,83.71153846,6.475705847,93.0,63.0,,,,,,,,,,,0,0,0,,,,,6,13,17,10
+UBCV,2014,W,SANS,102,,001,Introductory Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr,7,89.28571429,9.178131359,98.0,75.0,,,,,,,,,,,0,0,0,0,0,0,,,,,
+UBCV,2014,W,SANS,200,,001,Intermediate Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr,7,90.28571429,6.550172662,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,,,,5
+UBCV,2015,S,ASIA,329,,921,Gender in Southeast Asia,Parvinder Dhariwal;Thomas Hunter,79,71.48101266,12.44563641,95.0,0.0,,,,,,,,,,,,,6,5,10,11,17,9,11,,
+UBCV,2015,S,ASIA,348,,921,Great Literary Works of Classical India in Translation,Guy Shababo;Thomas Hunter,80,76.15,9.666724865,96.0,46.0,,,,,,,,,,,,,,5,,10,9,16,16,13,
+UBCV,2015,W,ASIA,304,,001,Survey of South and Southeast Asian Performing Arts,Thomas Hunter;Thomas Marshall Hunter Jr,45,83.2,5.75483986,94.0,70.0,,,,,,,,,,,0,0,0,0,0,1,5,5,11,17,6
+UBCV,2015,W,ASIA,370,,001,"The Sanskrit Cosmopolis: India and the World, 200-1500 CE",Thomas Hunter;Thomas Marshall Hunter Jr,57,86.052631579,7.705334545,99.0,57.0,,,,,,,,,,,0,0,,,,,,5,15,11,22
+UBCV,2015,W,SANS,102,,001,Introductory Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr,8,92.5,6.347102826,98.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,,6
+UBCV,2016,S,ASIA,329,,921,Gender in Southeast Asia,Gurinderpal Mann;Jee-Yeon Song;Thomas Hunter,100,80.65,10.6252748,99.0,0.0,,,,,,,,,,,1,0,0,1,2,3,12,14,35,21,11
+UBCV,2016,S,ASIA,390,,921,History of the Indian Ocean World,Guy Shababo;Julie Vig;Thomas Hunter;Thomas Marshall Hunter Jr,88,80.625,8.347774843,95.0,63.0,,,,,,,,,,,0,0,0,1,6,7,13,7,22,16,16
+UBCV,2016,W,ASIA,304,,001,Survey of South and Southeast Asian Performing Arts,Thomas Hunter;Thomas Marshall Hunter Jr,52,83.48076923,6.983146054,96.0,65.0,,,,,,,,,,,0,0,0,0,1,1,6,8,11,14,11
+UBCV,2016,W,ASIA,370,,001,"The Sanskrit Cosmopolis: India and the World, 200-1500 CE",Guy Shababo;Thomas Hunter;Thomas Marshall Hunter Jr;Zain Raza,106,85.66037736,5.850334614,95.0,69.0,,,,,,,,,,,0,0,0,0,0,2,5,10,21,35,33
+UBCV,2016,W,SANS,300,,001,Introductory Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr,13,89.15384615,9.081539461,100.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,2,2,8
+UBCV,2017,S,ASIA,329,,921,Gender in Southeast Asia,Azalea Lee;Gurinderpal Mann;Thomas Hunter,104,73.490384615,14.395249481,92.0,0.0,,,,,,,,,,,3,3,2,10,8,10,15,13,20,13,7
+UBCV,2017,S,ASIA,348,,921,Great Literary Works of Classical India in Translation,Guy Shababo;Thomas Hunter,69,77.434782609,8.814223567,95.0,58.0,,,,,,,,,,,0,0,2,2,5,8,9,11,16,10,6
+UBCV,2017,W,ASIA,390,,001,History of the Indian Ocean World,Oleg Benesch;Thomas Hunter;Thomas Marshall Hunter Jr;Zaid Soofi Salman;Zaid Soofi Soofi Salman,67,83.641791045,13.974762417,99.0,0.0,,,,,,,,,,,1,0,1,0,1,8,3,3,9,16,25
+UBCV,2017,W,SANS,300,,001,Introductory Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr;Timothy Bellefleur,14,87.571428571,6.629935441,100.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,5,2,6
+UBCV,2018,S,ASIA,304,,921,Survey of South and Southeast Asian Performing Arts,Harsimran Sachdeva;Roshan Aishwarya;Thomas Hunter;Thomas Marshall Hunter Jr,62,82.5,9.667844285,94.0,22.0,,,,,,,,,,,1,0,0,0,0,1,7,7,13,25,8
+UBCV,2018,S,ASIA,329,,921,Gender in Southeast Asia,Debbie Mccormack;Sai Diwan;Thomas Hunter,61,76.262295082,10.178247458,94.0,57.0,,,,,,,,,,,0,0,2,6,7,7,7,3,11,14,4
+UBCV,2018,W,ASIA,304,,001,Survey of South and Southeast Asian Performing Arts,Harsimran Sachdeva;Sai Diwan;Sai Shreekant Diwan;Thomas Hunter;Thomas Marshall Hunter Jr,78,82.628205128,6.788280532,96.0,60.0,,,,,,,,,,,0,0,0,1,2,1,8,9,21,24,12
+UBCV,2018,W,ASIA,390,,001,History of the Indian Ocean World,Thomas Hunter;Thomas Marshall Hunter Jr;Zaid Soofi Salman,61,80.016393443,10.12339173,100.0,53.0,,,,,,,,,,,0,1,0,1,3,8,10,7,6,13,12
+UBCV,2018,W,SANS,300,,001,Introductory Sanskrit,Thomas Hunter;Thomas Marshall Hunter Jr,24,90.916666667,7.500241542,99.0,67.0,,,,,,,,,,,0,0,0,0,1,0,1,0,1,5,16
+UBCV,2019,S,ASIA,329,,921,Gender in Southeast Asia,Debbie Mccormack;Sai Diwan;Thomas Hunter,60,81.616666667,7.708880344,97.0,68.0,,,,,,,,,,,0,0,0,0,0,7,8,8,13,11,13
+UBCV,2019,S,ASIA,370,,921,"The Sanskrit Cosmopolis: India and the World, 200-1500 CE",Thomas Hunter,37,84.540540541,7.132066066,96.0,65.0,,,,,,,,,,,0,0,0,0,1,1,2,4,9,9,11
+UBCV,2019,W,ASIA,370,,001,"The Sanskrit Cosmopolis: India and the World, 200-1500 CE",Thomas Hunter,53,86.20754717,5.300067092,96.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,6,7,24,15
+UBCV,2019,W,ASIA,390,,001,History of the Indian Ocean World,Sai Diwan;Thomas Hunter,62,85.951612903,7.19158757,97.0,65.0,,,,,,,,,,,0,0,0,0,1,3,3,2,14,17,22
+UBCV,2019,W,SANS,300,,001,Introductory Sanskrit,Charles Li;Shubham Arora;Thomas Hunter,18,87.0,10.538445024,100.0,64.0,,,,,,,,,,,0,0,0,0,1,1,1,1,3,0,11
+UBCV,2019,W,SANS,400,,001,Intermediate Sanskrit,Charles Li;Thomas Hunter,7,81.714285714,16.234883078,96.0,47.0,,,,,,,,,,,1,0,0,0,0,0,0,1,0,3,2
+UBCV,2020,S,ASIA,304,,921,Survey of South and Southeast Asian Performing Arts,Shania Shankar;Thomas Hunter,55,81.527272727,17.046618591,98.0,0.0,,,,,,,,,,,2,0,0,0,0,0,2,12,11,15,13
+UBCV,2020,S,ASIA,329,,921,Gender in South and Southeast Asia,Kiran Sunar;Thomas Hunter,52,83.903846154,6.592507974,95.0,62.0,,,,,,,,,,,0,0,0,1,0,2,5,2,12,21,9
+UBCV,2020,W,ASIA,304,,001,Survey of South and Southeast Asian Performing Arts,Lasya Vankayala;Sai Diwan;Shania Shankar;Thomas Hunter,48,81.854166667,9.36037275,95.0,51.0,,,,,,,,,,,0,2,0,0,1,1,5,8,9,11,11
+UBCV,2020,W,ASIA,390,,001,History of the Indian Ocean World,Alexander Winther;Sebastian Prange;Thomas Hunter,61,81.442622951,6.627026961,93.0,56.0,,,,,,,,,,,0,0,1,0,1,4,1,9,26,14,5
+UBCV,2020,W,SANS,300,,001,Introductory Sanskrit,Anusha Sudindra Rao;Charles Li;Laura Jones;Thomas Hunter,24,85.708333333,16.556830107,100.0,28.0,,,,,,,,,,,1,0,0,0,2,0,3,1,2,2,13
+UBCV,2021,W,ASIA,304,,001,Survey of South and Southeast Asian Performing Arts,Sai Diwan;Shania Shankar;Thomas Hunter,49,83.816326531,7.820042278,96.0,64.0,,,,,,,,,,,0,0,0,0,1,2,2,9,10,9,16
+UBCV,2021,W,ASIA,390,,001,History of the Indian Ocean World,Laura Jones;Sebastian Prange;Thomas Hunter,63,81.904761905,8.556669321,93.0,40.0,,,,,,,,,,,1,0,1,1,1,1,2,8,21,19,8
+UBCV,2021,W,SANS,300,,001,Introductory Sanskrit,Adheesh Sathaye;Thomas Hunter,14,86.071428571,6.450572851,93.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,3,0,4,6

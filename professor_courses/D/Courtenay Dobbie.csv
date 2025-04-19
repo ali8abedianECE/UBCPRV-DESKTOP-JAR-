@@ -1,0 +1,12 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2017,W,THTR,391,C,001,REHEARS&PERFORM,"Bertoia, Susan;Burnett, Cathy;Dobbie, Courtenay;Forsyth, Keltie;Malloy, Stephen;Murphy, Gayle",13,84.62,1.8,87,80,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8,0
+UBC,2017,W,THTR,471,,001,ADV BFA ACTING I,"Dobbie, Courtenay",9,85,1.58,87,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+UBC,2017,W,THTR,491,C,001,AD REHEARS&PERF,"Bertoia, Susan;Burnett, Cathy;Dobbie, Courtenay;Forsyth, Keltie;Malloy, Stephen;Murphy, Gayle",9,85.78,1.86,89,83,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+UBCV,2017,W,THTR,391,C,001,Rehearsal and Performance,Cathy Burnett;Courtenay Dobbie;Gayle Murphy;Keltie Forsyth;Stephen Malloy;Susan Bertoia,13,84.615384615,1.804552647,87.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,5,8,0
+UBCV,2017,W,THTR,471,,001,Advanced B.F.A. Acting I,Courtenay Dobbie,9,85.0,1.58113883,87.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,0
+UBCV,2017,W,THTR,491,C,001,Advanced Rehearsal and Performance,Cathy Burnett;Courtenay Dobbie;Gayle Murphy;Keltie Forsyth;Stephen Malloy;Susan Bertoia,9,85.777777778,1.855921454,89.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,0
+UBCV,2018,W,THTR,471,,001,Advanced B.F.A. Acting I,Courtenay Dobbie;Lois Anderson,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,0
+UBCV,2019,W,THTR,371,,001,Intermediate B.F.A. Acting I,Courtenay Dobbie;Sheila Langston;Stephen Heatley;Susan Bertoia,14,82.357142857,3.85520912,87.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,2,7,4,0
+UBCV,2019,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Courtenay Dobbie;Lois Anderson;Marijka Asbeek Brusse,14,84.071428571,3.384677822,89.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,7,0
+UBCV,2020,W,THTR,130,,003,Introduction to Stage Acting,Courtenay Dobbie;Lauren Taylor,21,85.19047619,19.30704288,96.0,3.0,,,,,,,,,,,1,0,0,0,0,0,0,0,3,4,13
+UBCV,2020,W,THTR,371,,001,Intermediate B.F.A. Acting I,Bart Anderson;Courtenay Dobbie;Lois Anderson;Raphael Wagner,12,85.583333333,2.810963385,89.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,8,0

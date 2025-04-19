@@ -1,0 +1,9 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2013,S,EPSE,432,,951,CLASSROOM MGMT,"Campbell, Katie",30,87.03,7.19,96,55,30,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,11,11
+UBC,2014,S,EPSE,432,,951,CLASSROOM MGMT,"Campbell, Katie",29,89.31,3.07,96,84,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,13
+UBC,2016,S,EPSE,432,,952,CLASSROOM MGMT,"Campbell, Katie",26,86.42,4.46,96,78,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,9,6
+UBC,2017,S,EPSE,432,,952,CLASSROOM MGMT,"Campbell, Katie",15,90.6,5.58,97,75,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,9
+UBCV,2014,S,EPSE,432,,951,Classroom Management,Katie Campbell,29,89.31034483,3.071800871,96.0,84.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,15,13
+UBCV,2016,S,EPSE,432,,952,Classroom Management,Katie Campbell,26,86.42307692,4.464733604,96.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,1,10,9,6
+UBCV,2017,S,EPSE,432,,952,Classroom Management,Katie Campbell,15,90.6,5.578018081,97.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,0,0,5,9
+UBCV,2018,S,EPSE,432,,952,Classroom Management,Erin Yorke;Katie Campbell,19,88.421052632,15.97329643,99.0,26.0,,,,,,,,,,,1,0,0,0,0,0,0,1,1,2,14

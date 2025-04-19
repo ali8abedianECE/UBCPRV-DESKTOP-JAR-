@@ -1,0 +1,63 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2003,W,THTR,320,,001,THEATRE TO 1500,"Johnston, Kirsty",41,72.5,9.11,86,44,39,1,1,0,0,0,0,0,0,1,1,1,0,4,3,8,7,7,4,5,0
+UBC,2003,W,THTR,321,,001,THEATR 1500-1700,"Johnston, Kirsty",43,71.55,13.8,88,0,41,1,1,0,0,1,0,0,0,0,1,1,1,3,2,7,14,3,8,2,0
+UBC,2003,W,THTR,415,B,002,ST WOMEN THR/FLM,"Johnston, Kirsty",17,73.94,6.99,84,60,17,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,3,5,4,0,0
+UBC,2003,W,THTR,420,,001,THEATR 1700-1900,"Johnston, Kirsty",40,71.36,15,85,0,37,2,1,0,0,1,0,0,0,1,2,1,1,3,3,6,3,7,10,3,0
+UBC,2005,W,THTR,320,,001,HIST OF THTR I,"Johnston, Kirsty",26,76.38,4.73,85,68,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,6,8,1,0
+UBC,2005,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",23,69.68,24.05,90,0,20,2,0,0,1,2,0,0,0,0,2,1,0,0,0,4,3,4,6,0,2
+UBC,2005,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",29,74.1,7.43,90,57,29,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,7,5,6,1,1
+UBC,2005,W,THTR,443,,001,WOMEN IN THR/FLM,"Johnston, Kirsty",18,78.22,6.03,88,63,18,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,5,6,3,0
+UBC,2006,W,THTR,320,,001,HIST OF THTR I,"Johnston, Kirsty;Marshall, Hallie",29,71.96,10.19,87,43,26,1,1,0,1,0,0,0,0,1,1,0,1,2,4,5,3,3,7,1,0
+UBC,2006,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",4,83.5,2.65,86,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+UBC,2007,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",20,74.1,8.54,87,56,20,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,2,3,4,3,0
+UBC,2007,W,THTR,530,A,001,SEMINAR,"Johnston, Kirsty",5,81.25,6.65,87,75,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0
+UBC,2009,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",36,73.79,10.71,90,50,34,0,0,0,2,0,0,0,0,0,0,3,1,2,2,4,2,6,9,4,1
+UBC,2010,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",37,75.14,9.48,90,46,34,1,1,0,1,0,0,0,0,1,1,0,0,4,4,2,3,4,13,3,1
+UBC,2010,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",21,70.2,18.49,92,10,18,2,1,0,0,0,1,0,0,1,2,0,1,2,1,1,3,4,2,3,1
+UBC,2010,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",4,90.75,1.5,93,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2011,S,THTR,443,,921,WOMEN IN THR/FLM,"Johnston, Kirsty",23,79.62,6.91,92,68,21,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,4,2,7,4,2
+UBC,2011,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",11,77.6,2.95,82,73,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,4,3,0,0
+UBC,2011,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",27,77.84,7.33,91,60,25,0,0,0,2,0,0,0,0,0,0,0,0,1,1,3,4,2,11,1,2
+UBC,2011,W,THTR,443,,001,WOMEN IN THR/FLM,"Johnston, Kirsty",25,76.14,7.06,90,67,21,0,0,0,4,0,0,0,0,0,0,0,0,0,1,6,2,5,3,2,2
+UBC,2011,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",5,87.2,2.77,92,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2011,W,THTR,530,A,001,SEMINAR,"Johnston, Kirsty",9,88.86,2.73,92,85,7,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+UBC,2012,W,THTR,310,,001,DRAMA PERFORM,"Johnston, Kirsty",27,77.68,5.66,87,64,25,0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,3,9,6,4,0
+UBC,2012,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",28,74.65,17.15,90,0,25,1,1,0,1,1,0,0,0,0,1,0,1,0,2,1,6,2,6,6,1
+UBC,2012,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",4,90,0,90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2012,W,THTR,562,,001,DRA THEORY&CRIT,"Johnston, Kirsty",12,88.08,1.44,90,85,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3
+UBC,2013,W,THTR,310,,001,DRAMA PERFORM,"Johnston, Kirsty",20,80.17,9.1,95,60,18,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,2,5,4,3
+UBC,2013,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",22,79.27,7.47,92,63,22,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,8,4,1
+UBC,2013,W,THTR,420,,001,HIST OF THTR II,"Johnston, Kirsty",28,77.15,8.92,88,58,27,0,0,0,0,0,0,0,0,0,0,0,2,2,1,1,3,3,9,6,0
+UBC,2013,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",4,86.75,2.36,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2013,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2013,W,THTR,549,C,003,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,91.5,4.95,95,88,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2013,W,THTR,649,,001,DOC DISSERTATION,"Johnston, Kirsty;Liu, Siyuan;Wasserman, Jerry",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2014,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",26,80.21,7.27,92,62,24,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,3,4,7,5,2
+UBC,2014,W,THTR,547,A,001,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,90.5,4.2,95,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+UBC,2014,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Scholte, Tom;Wasserman, Jerry",7,85.25,5.74,92,78,4,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+UBC,2014,W,THTR,562,,001,DRA THEORY&CRIT,"Johnston, Kirsty",13,87.08,2.47,90,81,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,3
+UBC,2014,W,THTR,649,,001,DOC DISSERTATION,"Johnston, Kirsty;Liu, Siyuan;Wasserman, Jerry",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,THTR,310,,001,DRAMA PERFORM,"Johnston, Kirsty",40,73.77,15.31,90,0,37,2,1,0,0,1,0,0,0,1,2,1,1,0,2,6,4,8,8,5,2
+UBC,2015,W,THTR,500,,001,BIBLIOG & RESRCH,"Johnston, Kirsty",7,90.43,1.27,92,88,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+UBC,2015,W,THTR,547,A,001,DIRECTED STUDIES,"Burnett, Cathy;Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Marshall, Hallie;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",5,87.8,2.17,91,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2015,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,87,2.16,90,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+UBC,2015,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Scholte, Tom;Wasserman, Jerry",4,92,0,92,92,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+UBC,2015,W,THTR,549,C,003,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",8,93.5,2.38,95,90,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2016,W,THTR,211,,001,DRAMA IDEAS II,"Johnston, Kirsty",84,72.48,15.83,90,17,72,7,2,0,3,0,1,3,1,2,7,1,0,4,7,7,13,10,12,13,5
+UBC,2016,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",4,73,39.37,95,14,3,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3
+UBC,2016,W,THTR,549,C,003,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Powers, Bradley;Scholte, Tom;Wasserman, Jerry",7,93,1.41,94,92,2,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+UBC,2016,W,THTR,562,,001,DRA THEORY&CRIT,"Johnston, Kirsty",14,89,2.8,92,81,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,10
+UBC,2017,W,THTR,211,,001,DRAMA IDEAS II,"Johnston, Kirsty",69,73.22,13.23,92,0,62,3,1,1,1,1,0,0,0,2,3,2,2,2,3,4,17,12,13,6,1
+UBC,2017,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",34,76.97,13.68,95,41,31,1,1,0,1,0,0,0,0,1,1,2,2,1,1,1,2,5,4,10,3
+UBC,2017,W,THTR,440,A,001,TOPICS IN THTR,"Johnston, Kirsty",11,74.8,26.91,88,0,9,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,3,5,0
+UBC,2017,W,THTR,530,A,001,SEMINAR,"Johnston, Kirsty",7,88.33,2.94,92,84,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3
+UBC,2017,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom;Segal, Judy",7,90,4.43,95,83,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3
+UBC,2017,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,,,,,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,W,THTR,649,,001,DOC DISSERTATION,"Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Marshall, Hallie;Wasserman, Jerry",11,,,,,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,W,THTR,323,,001,HIST THEORY DIR,"Johnston, Kirsty",19,73.11,20.74,93,11,16,2,0,0,1,0,1,0,0,1,2,0,1,2,0,1,0,4,0,4,4
+UBC,2018,W,THTR,530,A,001,SEMINAR,"Johnston, Kirsty",5,91.75,1.5,93,90,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+UBC,2018,W,THTR,547,B,002,DIRECTED STUDIES,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Murphy, Gayle;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",4,90,5.35,97,84,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2
+UBC,2018,W,THTR,549,A,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",5,87.5,3.54,90,85,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2018,W,THTR,549,B,001,MASTERS THESIS,"Firkins, Jacqueline;Gardiner, Robert;Heatley, Stephen;Johnston, Kirsty;Liu, Siyuan;Malloy, Stephen;Marshall, Hallie;Powers, Bradley;Rizzotti, Patrick;Scholte, Tom",8,81.33,6.35,85,74,3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0
+UBC,2018,W,THTR,562,,001,DRA THEORY&CRIT,"Johnston, Kirsty",10,88.11,4.4,94,82,9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,5

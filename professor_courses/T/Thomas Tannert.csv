@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2011,W,CIVL,231,,201,SOLID MECH II,"Tannert, Thomas",163,74.2,10.21,95,30,157,6,0,0,0,0,0,0,1,5,6,0,3,12,17,22,20,23,38,18,4
+UBC,2011,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Stiemer, Siegfried;Tannert, Thomas",154,82.61,6.35,97,66,153,0,1,0,0,0,0,0,0,0,0,0,0,0,2,7,12,25,38,53,16
+UBC,2011,W,CIVL,439,,201,DSGN TMBR STRUCT,"Tannert, Thomas",26,75,10.16,94,55,26,0,0,0,0,0,0,0,0,0,0,0,1,1,4,3,7,2,2,3,3
+UBC,2011,W,CIVL,516,,201,BEHV TIMBER STRU,"Tannert, Thomas",13,83.69,3.66,92,78,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,4,1
+UBC,2011,W,WOOD,476,,201,WOOD STRCTR DSGN,"Tannert, Thomas",9,71.57,7.14,81,64,7,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2,1,0,0
+UBC,2012,W,CIVL,231,,201,SOLID MECH II,"Tannert, Thomas",176,76.24,11.28,100,34,168,6,1,0,1,0,0,0,1,5,6,0,3,7,17,20,26,20,28,25,22
+UBC,2012,W,CIVL,439,,101,DSGN TMBR STRUCT,"Tannert, Thomas",39,82,11.91,98,31,38,1,0,0,0,0,0,0,1,0,1,0,0,0,2,1,4,4,10,8,9
+UBC,2012,W,CIVL,516,,101,BEHV TIMBER STRU,"Tannert, Thomas",12,85,7.41,95,72,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,3,4
+UBC,2012,W,CIVL,517,,201,ADV TPCS TMBR ST,"Tannert, Thomas",13,88.5,4.97,96,78,10,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,6
+UBC,2013,W,CIVL,231,,201,SOLID MECH II,"Tannert, Thomas",179,73.87,13.28,100,5,166,12,1,0,0,1,0,1,0,10,12,0,6,9,13,14,31,31,29,15,18
+UBC,2013,W,CIVL,439,,101,DSGN TMBR STRUCT,"Tannert, Thomas",44,80.14,8.69,96,55,44,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,6,4,14,11,5
+UBC,2013,W,CIVL,516,,101,BEHV TIMBER STRU,"Tannert, Thomas",18,86.44,5.38,95,77,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,4,8
+UBC,2013,W,CIVL,517,,201,ADV TPCS TMBR ST,"Tannert, Thomas",19,91.32,1.95,95,88,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+UBC,2013,W,WOOD,282,,201,WOOD-PHY DRYG,"Avramidis, Stavros;Tannert, Thomas",25,57.04,10.19,77,27,23,2,0,0,0,0,0,1,1,0,2,6,7,5,2,1,1,1,0,0,0
+UBC,2014,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Pina, Freddy;Tannert, Thomas",134,74.78,11.1,93,0,129,5,0,0,0,1,0,0,0,4,5,0,4,6,2,13,32,19,35,15,3
+UBC,2014,W,CIVL,439,,101,DSGN TMBR STRUCT,"Tannert, Thomas",59,78.24,9.01,94,55,58,0,1,0,0,0,0,0,0,0,0,0,2,2,2,5,9,8,16,6,8
+UBC,2014,W,CIVL,516,,101,BEHV TIMBER STRU,"Tannert, Thomas",19,86.61,4.63,92,76,18,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,9,6
+UBC,2014,W,CIVL,517,,201,ADV TPCS TMBR ST,"Tannert, Thomas",15,88.43,3.16,92,82,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,6
+UBC,2014,W,WOOD,282,,201,WOOD-PHY MECHNCS,"Avramidis, Stavros;Tannert, Thomas",18,77.89,6.52,91,64,18,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,8,2,2,1
+UBC,2015,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Pina, Freddy;Tannert, Thomas",137,75.39,14.14,96,0,131,6,0,0,0,1,1,0,0,4,6,5,1,13,4,5,14,18,38,21,12
+UBC,2015,W,CIVL,439,,101,DSGN TMBR STRUCT,"Tannert, Thomas",56,80.14,9.89,100,56,56,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,7,5,12,9,12
+UBC,2015,W,CIVL,516,,101,BEHV TIMBER STRU,"Tannert, Thomas",12,83.17,6.03,92,72,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,5,2
+UBC,2015,W,CIVL,517,,201,ADV TPCS TMBR ST,"Tannert, Thomas",19,87.74,2.54,92,83,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,4
+UBC,2015,W,WOOD,282,,201,WOOD-PHY MECHNCS,"Avramidis, Stavros;Tannert, Thomas",30,79.17,5.29,88,68,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,5,14,3,0
+UBC,2016,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Pina, Freddy;Tannert, Thomas",115,76.87,8.01,92,52,113,0,2,0,0,0,0,0,0,0,0,1,3,4,5,6,19,31,20,18,6
+UBC,2016,W,CIVL,439,,201,DSGN TMBR STRUCT,"Fagnan, Julien;Tannert, Thomas",36,73.78,12.24,95,41,35,1,0,0,0,0,0,0,0,1,1,0,2,4,3,3,5,5,6,2,5
+UBC,2016,W,CIVL,516,,201,BEHV TIMBER STRU,"Fagnan, Julien;Tannert, Thomas",15,85.67,5.38,92,76,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,6,5
+UBC,2017,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Pina, Freddy;Tannert, Thomas",96,76,8.33,90,40,94,1,1,0,0,0,0,0,0,1,1,1,0,4,5,8,17,22,21,13,3
+UBC,2017,W,CIVL,439,,201,DSGN TMBR STRUCT,"Fagnan, Julien;Tannert, Thomas",45,76.4,9.09,97,50,45,0,0,0,0,0,0,0,0,0,0,1,1,1,1,7,9,8,10,3,4
+UBC,2017,W,CIVL,516,,201,BEHV TIMBER STRU,"Fagnan, Julien;Tannert, Thomas",15,84.53,5.67,93,74,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,4,4
+UBC,2018,W,CIVL,331,,201,STEEL&TIMBR DSGN,"Molina Hutt, Carlos;Tannert, Thomas",119,71.74,11.39,97,33,112,5,2,0,0,0,0,0,1,4,5,0,6,13,18,16,17,13,14,8,7
+UBC,2018,W,CIVL,439,,201,DSGN TMBR STRUCT,"Gerber, Adam;Tannert, Thomas",29,77.79,11.43,93,50,29,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,6,1,8,3,6
+UBC,2018,W,CIVL,516,,201,BEHV TIMBER STRU,"Gerber, Adam;Tannert, Thomas",8,82,10.13,97,68,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,2
+UBCV,2014,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Thomas Tannert,134,74.7761194,11.10011975,93.0,0.0,,,,,,,,,,,5,,,6,,13,32,19,35,15,
+UBCV,2014,W,CIVL,439,,101,Design of Timber Structures,Thomas Tannert,58,78.24137931,9.00742451,94.0,55.0,,,,,,,,,,,0,0,,,,5,9,8,16,6,8
+UBCV,2014,W,CIVL,516,,101,Behaviour of Timber Structures,Thomas Tannert,18,86.61111111,4.629050073,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,,,9,6
+UBCV,2014,W,CIVL,517,,201,Advanced Topics in Timber Structures,Thomas Tannert,14,88.42857143,3.155319945,92.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,6
+UBCV,2014,W,WOOD,282,,201,Wood Physics and Mechanics,Stavros Avramidis;Thomas Tannert,18,77.88888889,6.524964628,91.0,64.0,,,,,,,,,,,0,0,0,0,,,,8,,,
+UBCV,2015,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Marisa Mulder;Md. Shahnewaz;Saeid Allahdadian;Thomas Tannert;Yuxin Pan,137,75.394160584,14.139201692,96.0,0.0,,,,,,,,,,,6,5,,13,,5,14,18,38,21,12
+UBCV,2015,W,CIVL,439,,101,Design of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,56,80.142857143,9.894771018,100.0,56.0,,,,,,,,,,,0,0,,,5,,7,5,12,9,12
+UBCV,2015,W,CIVL,516,,101,Behaviour of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,12,83.166666667,6.027713773,92.0,72.0,,,,,,,,,,,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CIVL,517,,201,Advanced Topics in Timber Structures,Eytan Fiszman;Thomas Tannert,19,87.736842105,2.535133248,92.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,,13,
+UBCV,2015,W,WOOD,282,,201,Wood Physics and Mechanics,Stavros Avramidis;Thomas Tannert,30,79.166666667,5.292045647,88.0,68.0,,,,,,,,,,,0,0,0,0,0,,5,5,14,,0
+UBCV,2016,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Hercend Mpidi Bita;Md. Shahnewaz;Saeid Allahdadian;Thomas Tannert;Winda Banjuradja,113,76.86725664,8.010600594,92.0,52.0,,,,,,,,,,,0,1,3,4,5,6,19,31,20,18,6
+UBCV,2016,W,CIVL,439,,201,Design of Timber Structures,Hercend Mpidi Bita;Julien Fagnan;Md. Shahnewaz;Thomas Tannert,36,73.77777778,12.23603837,95.0,41.0,,,,,,,,,,,1,0,2,4,3,3,5,5,6,2,5
+UBCV,2016,W,CIVL,516,,201,Behaviour of Timber Structures,Hercend Mpidi Bita;Julien Fagnan;Md. Shahnewaz;Thomas Tannert,15,85.66666667,5.380741673,92.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,2,2,6,5
+UBCV,2017,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Hercend Mpidi Bita;Md. Shahnewaz;Neel Fondekar;Rachel Kazaka;Thomas Tannert,95,76.0,8.334751652,90.0,40.0,,,,,,,,,,,1,1,0,4,5,8,17,22,21,13,3
+UBCV,2017,W,CIVL,439,,201,Design of Timber Structures,Julien Fagnan;Thomas Tannert,45,76.4,9.093954036,97.0,50.0,,,,,,,,,,,0,1,1,1,1,7,9,8,10,3,4
+UBCV,2017,W,CIVL,516,,201,Behaviour of Timber Structures,Julien Fagnan;Thomas Tannert,15,84.533333333,5.667787004,93.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,1,5,4,4
+UBCV,2018,W,CIVL,331,,201,Steel and Timber Design,Carlos Molina Hutt;Hercend Mpidi Bita;Julian Asselstine;Preetish Kakoty;Seyed Alireza Eksir Monfared;Shervin Zahedimazandarani;Thomas Tannert,117,71.735042735,11.390704894,97.0,33.0,,,,,,,,,,,5,0,6,13,18,16,17,13,14,8,7
+UBCV,2018,W,CIVL,439,,201,Design of Timber Structures,Adam Gerber;Ann Abraham;Hercend Mpidi Bita;Thomas Tannert,29,77.793103448,11.434219663,93.0,50.0,,,,,,,,,,,0,2,1,1,0,1,6,1,8,3,6
+UBCV,2018,W,CIVL,516,,201,Behaviour of Timber Structures,Adam Gerber;Julien Fagnan;Thomas Tannert,7,82.0,10.132456102,97.0,68.0,,,,,,,,,,,0,0,0,0,0,1,1,0,2,1,2
+UBCV,2019,W,CIVL,331,,201,Steel and Timber Design,Camilo Sebastian Granda Valencia;Carlos Molina Hutt;Deborah Altow;Jennifer Si;Pouria Kourehpaz;Preetish Kakoty;Seyed Alireza Eksir Monfared;Thomas Tannert;Yashar Khalighi,134,71.21641791,10.64418507,95.0,50.0,,,,,,,,,,,0,8,15,14,15,7,23,21,20,4,7
+UBCV,2019,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss;Thomas Tannert,29,79.068965517,13.147327361,93.0,28.0,,,,,,,,,,,1,1,0,1,0,0,2,6,7,7,4
+UBCV,2019,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss;Ryan Ziels;Thomas Tannert;Yashar Khalighi,24,80.25,7.913939271,91.0,61.0,,,,,,,,,,,0,0,0,1,0,2,2,5,7,4,3
+UBCV,2020,W,CIVL,331,,201,Steel and Timber Design,Carlos Molina Hutt;Hamidreza Yaminighaeshi;Kristen Blowes;Perry Erwin Adebar;Pouria Kourehpaz;Preetish Kakoty;Thomas Tannert,130,79.684615385,12.511101808,100.0,31.0,,,,,,,,,,,3,2,4,4,8,5,13,14,23,26,28

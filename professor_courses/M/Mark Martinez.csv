@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",70,68.42,11.61,90,37,65,4,1,0,0,0,0,0,1,3,4,6,7,5,5,11,14,5,7,3,2,,,
+UBC,2002,W,CHBE,470,,101,CHEM PULP TECH,"Martinez, Mark",10,78.67,5.12,86,70,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,4,1,0,,,
+UBC,2003,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",74,65.9,13.61,86,25,62,8,1,3,0,0,0,2,3,3,8,2,6,9,7,10,8,13,5,2,0,,,
+UBC,2003,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",7,87.43,2.3,91,85,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,,,
+UBC,2003,W,CHBE,557,C,202,FLUID DYNAMICS,"Martinez, Mark",16,87.06,5.28,95,78,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,,,
+UBC,2006,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",83,67.78,20.98,100,0,72,10,1,0,0,2,1,3,2,2,10,5,5,5,10,8,10,7,7,3,12,,,
+UBC,2006,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",25,82.48,5.88,94,71,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,7,8,3,,,
+UBC,2006,W,CHBE,557,C,101,FLUID DYNAMICS,"Martinez, Mark",6,86.5,9.73,96,70,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,,,
+UBC,2007,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",84,77.73,18.87,100,0,76,7,1,0,0,2,0,1,2,2,7,0,2,1,3,5,6,13,13,15,18,,,
+UBC,2007,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",56,79.1,11.93,100,51,52,0,2,2,0,0,0,0,0,0,0,1,1,0,7,7,5,8,6,6,11,,,
+UBC,2007,W,CHBE,557,C,101,FLUID DYNAMICS,"Martinez, Mark",15,81.53,23.2,99,0,14,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,3,4,6,,,
+UBC,2009,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",88,84.05,11.47,100,23,86,2,0,0,0,0,0,1,0,1,2,0,1,2,0,1,5,9,20,22,26,,,
+UBC,2009,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",29,88.79,7.88,99,67,29,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,2,9,15,,,
+UBC,2009,W,CHBE,557,,101,FLUID DYNAMICS,"Martinez, Mark",4,81.67,3.21,84,78,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,,,
+UBC,2009,W,CHBE,697,,001,PHD THESIS DEV,"Martinez, Mark",21,,,,,0,0,1,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+UBC,2010,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",85,78.77,13.18,99,18,82,2,1,0,0,0,1,0,1,0,2,1,2,3,4,8,10,8,12,20,14,,,
+UBC,2010,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",57,74.3,9.13,96,50,57,0,0,0,0,0,0,0,0,0,0,2,1,3,4,9,11,12,8,5,2,,,
+UBC,2011,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",81,81.98,8.54,98,56,81,0,0,0,0,0,0,0,0,0,0,0,2,0,4,4,3,16,14,21,17,,,
+UBC,2011,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",62,79.16,19.15,100,0,57,4,1,0,0,1,0,0,2,1,4,2,0,2,3,7,6,4,5,5,23,,,
+UBC,2011,W,CHBE,492,,201,THESIS,"Martinez, Mark",4,83.25,2.99,86,79,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,,,
+UBC,2011,W,CHBE,494,,201,THS: ENVIRO TPC,"Martinez, Mark",6,87.17,5.15,95,79,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,,,
+UBC,2011,W,CHBE,496,,201,THS: BIOTECH TPC,"Martinez, Mark",6,87.17,2.32,90,84,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,,,
+UBC,2013,W,CHBE,401,,201,MECH PULP PAP,"Martinez, Mark",35,79.91,8.7,92,60,35,0,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,8,7,8,5,,,
+UBC,2013,W,CHBE,455,,101,KINET REACT DESG,"Martinez, Mark",87,69.21,15.7,96,10,83,3,1,0,0,0,2,1,0,0,3,7,11,7,8,5,11,13,8,9,4,,,
+UBC,2014,W,CHBE,230,,201,COMP METHODS,"Martinez, Mark",107,77.53,18.77,100,0,101,6,0,0,0,2,0,0,1,3,6,8,3,4,5,5,4,10,22,6,34,,,
+UBC,2014,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",122,70.77,14.04,95,18,115,7,0,0,0,0,1,1,0,5,7,8,8,12,12,15,8,14,19,10,9,,,
+UBC,2015,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",137,70.62,14.54,97,25,128,8,1,0,0,0,0,1,4,3,8,12,7,14,13,12,15,14,16,13,12,,,
+UBC,2016,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",139,66.82,18.65,100,0,127,11,1,0,0,1,4,2,1,3,11,14,24,15,11,10,8,4,12,12,17,,,
+UBC,2017,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",131,68.99,15.81,100,8,119,9,3,0,0,1,0,0,3,5,9,13,8,15,16,12,12,10,10,11,12,,,
+UBC,2018,W,CHBE,251,,201,TRANS PHENMNA I,"Martinez, Mark",182,68.49,11.85,96,10,171,7,0,0,4,0,1,1,4,1,7,9,11,20,26,31,34,14,17,6,3,,,
+UBCV,2014,W,CHBE,230,,201,Computational Methods,Mark Martinez,107,77.53271028,18.76886108,100.0,0.0,,,,,,,,,,,6,8,,,5,5,,10,22,6,34,,,
+UBCV,2014,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,122,70.7704918,14.0423132,95.0,18.0,,,,,,,,,,,7,8,8,12,12,15,8,14,19,10,9,,,
+UBCV,2015,W,CHBE,251,,201,Transport Phenomena I,Lucie Solnickova;Mark Martinez;Mehr Negar Mirvakili,136,70.617647059,14.539885793,97.0,25.0,,,,,,,,,,,8,12,7,14,13,12,15,14,16,13,12,,,
+UBCV,2016,W,CHBE,251,,201,Transport Phenomena I,Dimitrios Vavlekas;Mark Martinez,138,66.81884058,18.65485026,100.0,0.0,,,,,,,,,,,11,14,24,15,11,10,8,4,12,12,17,,,
+UBCV,2017,W,CHBE,251,,201,Transport Phenomena I,Joseph English;Joseph Tyler English;Mark Martinez;Qushen Zhang;Robertus Dhimas Putra,128,68.9921875,15.810141315,100.0,8.0,,,,,,,,,,,9,13,8,15,16,12,12,10,10,11,12,,,
+UBCV,2018,W,CHBE,251,,201,Transport Phenomena I,Lei Li;Mark Martinez;Mohammad Shanb Ghazani;Niki Sabour,182,68.346153846,11.755142828,96.0,10.0,,,,,,,,,,,7,9,13,21,26,32,34,14,17,6,3,,,
+UBCV,2019,W,CHBE,251,,201,Transport Phenomena I,Emma Moreside;Mahsa Masjoudi;Mark Martinez;Savvas Hatzikiriakos;Shiting Liang,183,83.540983607,8.297835883,97.0,55.0,,,,,,,,,,,0,0,2,2,5,8,16,17,39,52,42,,,
+UBCV,2019,W,CHBE,554,,101,"Momentum, Heat and Mass Transfer",James Jingtao Feng;Mark Martinez,34,93.088235294,5.775432016,100.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,2,29,,,
+UBCV,2020,W,CHBE,251,,201,Transport Phenomena I,Andrew Hakim;Mahsa Masjoudi;Mark Martinez;Shahid Muhammad Bashir,240,90.066666667,7.151947195,100.0,58.0,,,,,,,,,,,0,0,1,1,1,4,4,6,28,46,149,,,
+UBCV,2020,W,CHBE,352,,101,Transport Phenomena II,Bingxin Zhou;Mark Martinez;Sahar Sakhaie;Seyed Arefi,162,87.938271605,10.17712168,100.0,0.0,,,,,,,,,,,1,0,1,0,1,0,3,13,28,33,82,,,
+UBCV,2021,W,CHBE,251,,201,Transport Phenomena I,Andrew Hakim;Mahsa Masjoudi;Mark Martinez;Mohammad Reza Rokhforouz,234,71.923076923,15.927762814,98.0,0.0,,,,,,,,,,,14,14,16,10,22,22,27,28,24,37,20,,,
+UBCV,2021,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez;Marziyeh Danesh;Sahar Sakhaie;Zelai Xu,151,68.490066225,11.734205015,100.0,9.0,,,,,,,,,,,2,11,18,20,16,28,12,19,16,5,4,,,
+UBCV,2021,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",James Jingtao Feng;Mark Martinez,25,91.28,4.188476254,95.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,5,18,,,
+UBCV,2021,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,233,73.2,,100.0,0.0,,,,,,,,,,,9,12,16,10,22,22,29,28,25,39,21,75.0,85.0,66.0
+UBCV,2021,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,151,68.8,,100.0,9.0,,,,,,,,,,,,10,18,20,16,28,12,19,16,,,70.0,76.5,61.0
+UBCV,2021,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",Mark Martinez,25,91.3,,95.0,80.0,,,,,,,,,,,,,,,,,,,,,18,93.0,94.0,88.0
+UBCV,2022,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,119,79.3,,98.0,15.0,,,,,,,,,,,2,1,0,3,5,7,16,24,18,24,19,80.0,86.0,74.0
+UBCV,2022,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,129,66.7,,100.0,50.0,,,,,,,,,,,0,16,16,21,24,21,8,7,6,5,5,65.0,70.0,60.0
+UBCV,2022,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",Mark Martinez,26,90.3,,95.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,0,23,91.0,94.3,90.0
+UBCV,2023,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,116,76.6,,98.0,11.0,,,,,,,,,,,4,2,5,7,7,10,14,10,20,12,22,78.0,87.0,70.0
+UBCV,2023,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,110,70.8,,99.0,30.0,,,,,,,,,,,3,7,5,14,10,14,16,13,15,5,7,72.0,79.0,63.0
+UBCV,2023,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",Mark Martinez,11,93.0,,99.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,8,95.0,95.0,90.0

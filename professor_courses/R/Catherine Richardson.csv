@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2014,W,ECED,425,A,63C,ADV ST EARLY CHL,"Richardson, Catherine",23,81.52,25.97,93,0,21,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,1,0,0,8,12
+UBC,2015,W,ECED,442,,63C,SUP INDG INFTNTS,"Richardson, Catherine",35,90.81,2.61,98,85,31,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,20
+UBC,2016,W,ECED,442,,63C,SUP INDG INFTNTS,"Richardson, Catherine",35,83.65,26.63,97,0,31,3,1,0,0,3,0,0,0,0,3,0,0,0,0,0,0,1,0,5,25
+UBC,2017,W,ECED,442,,63C,SUP INDG INFTNTS,"Richardson, Catherine",33,91.78,6.2,99,60,32,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,29
+UBC,2018,W,ECED,442,,63C,SUP INDG INFTNTS,"Richardson, Catherine",27,86.5,18.67,98,0,25,1,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,6,18
+UBCV,2014,W,ECED,425,A,63C,Advanced Studies in Early Childhood Education,Catherine Richardson,23,81.52173913,25.97353472,93.0,0.0,,,,,,,,,,,,,,,,,,,,8,12
+UBCV,2015,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,33,90.5625,2.917549789,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,11,20
+UBCV,2016,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,34,83.64705882,26.6320408,97.0,0.0,,,,,,,,,,,3,0,0,0,0,0,0,1,0,5,25
+UBCV,2017,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,32,91.78125,6.20475559,99.0,60.0,,,,,,,,,,,0,0,0,1,0,0,0,0,0,2,29
+UBCV,2018,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,26,86.5,18.666011893,98.0,0.0,,,,,,,,,,,1,0,0,0,1,0,0,0,0,6,18
+UBCV,2019,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,31,90.129032258,3.106358377,97.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,13,18
+UBCV,2020,W,ECED,442,,63A,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,26,93.576923077,3.06167375,100.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,24
+UBCV,2020,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson,31,90.161290323,3.873816156,96.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,10,19
+UBCV,2021,W,ECED,442,,63A,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson;Rosalin Miles,28,90.178571429,6.520926834,97.0,70.0,,,,,,,,,,,0,0,0,0,0,1,1,0,0,7,19
+UBCV,2021,W,ECED,442,,63C,Supporting Indigenous Infants and Young Children within the Context of Their Communities,Catherine Richardson;Rosalin Miles,29,88.75862069,13.029239569,100.0,28.0,,,,,,,,,,,1,0,0,0,0,0,0,1,4,5,18

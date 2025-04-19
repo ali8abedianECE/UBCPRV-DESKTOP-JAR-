@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,CPSC,540,,101,MACHINE LEARN I,"Schmidt, Mark",64,91.22,6.08,100,73,54,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,13,33,,,
+UBC,2015,W,CPSC,340,,101,MACHINE LRN MINE,"Schmidt, Mark",164,80.29,10.04,95,32,146,1,1,11,1,0,0,0,1,0,1,1,3,4,7,10,15,16,35,28,27,,,
+UBC,2015,W,CPSC,540,,201,MACHINE LEARN I,"Schmidt, Mark",80,90.53,5.75,100,73,59,0,3,18,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,19,33,,,
+UBC,2016,W,CPSC,340,,101,MACHINE LRN MINE,"Schmidt, Mark",183,82.89,11.06,100,46,172,2,7,1,0,0,0,0,0,2,2,2,5,5,5,3,13,18,31,31,59,,,
+UBC,2016,W,CPSC,540,,201,MACHINE LEARN I,"Schmidt, Mark",64,87.38,7.61,97,68,39,0,0,25,0,0,0,0,0,0,0,0,0,0,0,2,1,3,5,9,19,,,
+UBC,2016,W,DSCI,573,,001,FEATUR&MDL SLCTN,"Schmidt, Mark",20,87.74,7.13,95,64,19,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,4,10,,,
+UBC,2016,W,DSCI,575,,001,ADV MCHNE LRNING,"Schmidt, Mark",20,82,9.21,94,60,19,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,2,3,3,5,4,,,
+UBC,2017,W,CPSC,340,,101,MACHINE LRN MINE,"Schmidt, Mark",219,83.5,13.28,99,1,209,4,2,2,1,1,1,1,0,1,4,1,3,6,7,9,10,17,37,38,81,,,
+UBC,2017,W,CPSC,540,,201,MACHINE LEARN I,"Schmidt, Mark",78,92.43,5.06,99,73,61,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,13,45,,,
+UBC,2017,W,DSCI,573,,001,FEATUR&MDL SLCTN,"Schmidt, Mark",45,84.11,7.44,94,55,45,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,2,11,16,10,,,
+UBC,2017,W,DSCI,575,,001,ADV MCHNE LRNING,"Schmidt, Mark",45,87.47,6.51,96,72,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,7,11,22,,,
+UBC,2018,W,CPSC,340,,101,MACHINE LRN MINE,"Schmidt, Mark",81,78.63,14.07,97,0,76,3,1,1,0,1,0,0,1,1,3,0,1,2,3,5,12,12,11,16,14,,,
+UBC,2018,W,CPSC,532,M,101,TOPIC ARTF INTEL,"Schmidt, Mark",88,84.66,6.19,95,69,68,0,0,19,1,0,0,0,0,0,0,0,0,0,0,3,3,7,15,25,15,,,
+UBC,2018,W,CPSC,540,,201,MACHINE LEARN I,"Schmidt, Mark",78,90.53,4.99,99,77,51,0,2,25,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,8,36,,,
+UBC,2018,W,DSCI,573,,001,FEATUR&MDL SLCTN,"Schmidt, Mark",70,89.47,5.79,96,67,70,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,7,16,42,,,
+UBCV,2014,W,CPSC,540,,101,Machine Learning,Mark Schmidt,54,91.22222222,6.077073112,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,7,13,33,,,
+UBCV,2015,W,CPSC,340,,101,Machine Learning and Data Mining,Bobak Shahriari;Issam Hadj Laradji;Mark Schmidt;Sharan Rajesh Vaswani;Sharan Vaswani;Tian Qi Chen;Yan Zhao,151,80.198675497,10.143648172,95.0,32.0,,,,,,,,,,,,,,,7,10,15,16,37,28,28,,,
+UBCV,2015,W,CPSC,540,,201,Machine Learning,Alireza Shafaei;Mark Schmidt;Reza Babanezhad Harikande;Sharan Rajesh Vaswani;Sharan Vaswani,59,90.525423729,5.74563082,100.0,73.0,,,,,,,,,,,0,0,0,0,0,0,,,5,19,33,,,
+UBCV,2016,W,CPSC,340,,101,Machine Learning and Data Mining,Alireza Shafaei;Issam Hadj Laradji;Jianhui Chen;Mark Schmidt;Moumita Roy Tora;Reza Babanezhad Harikande;Robert Adam Rolin;Sedigheh Zolaktaf;Zeinab Zolaktaf Zadeh,175,82.81142857,11.06687538,100.0,46.0,,,,,,,,,,,2,2,5,5,5,4,13,18,31,31,59,,,
+UBCV,2016,W,CPSC,540,,201,Machine Learning,Jason Siyanda Hartford;Mark Schmidt;Robert Adam Rolin;Sharan Vaswani,39,87.38461539,7.607528766,97.0,68.0,,,,,,,,,,,0,0,0,0,0,2,1,3,5,9,19,,,
+UBCV,2016,W,DSCI,573,,001,Feature and Model Selection,Mark Schmidt,19,87.73684211,7.132415091,95.0,64.0,,,,,,,,,,,0,0,0,0,1,0,0,0,4,4,10,,,
+UBCV,2016,W,DSCI,575,,001,Advanced Machine Learning,Mark Schmidt,19,82.0,9.207484878,94.0,60.0,,,,,,,,,,,0,0,0,1,1,0,2,3,3,5,4,,,
+UBCV,2017,W,CPSC,340,,101,Machine Learning and Data Mining,Mark Schmidt,215,83.293023256,13.394890143,99.0,1.0,,,,,,,,,,,5,1,4,6,7,9,10,17,37,38,81,,,
+UBCV,2017,W,CPSC,540,,201,Machine Learning,Alireza Shafaei;Mark Schmidt;Raunak Kumar;Reza Babanezhad Harikande,61,92.426229508,5.064448033,99.0,73.0,,,,,,,,,,,0,0,0,0,0,0,1,1,1,13,45,,,
+UBCV,2017,W,DSCI,573,,001,Feature and Model Selection,Mark Schmidt,45,84.111111111,7.435242315,94.0,55.0,,,,,,,,,,,0,0,,,,1,4,2,11,16,10,,,
+UBCV,2017,W,DSCI,575,,001,Advanced Machine Learning,Mark Schmidt,45,87.466666667,6.507338515,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,4,1,7,11,22,,,
+UBCV,2018,W,CPSC,340,,101,Machine Learning and Data Mining,Cathy Meng;Devon Graham;Jonathan Wilder Lavington;Mark Schmidt;Nam Hee Kim;Saeid Naderiparizi;Sedigheh Zolaktaf;Sharan Vaswani;Si Yi Meng,79,78.632911392,14.073230831,97.0,0.0,,,,,,,,,,,3,0,1,2,3,5,12,12,11,16,14,,,
+UBCV,2018,W,CPSC,532,M,101,Topics in Artificial Intelligence,Mark Schmidt,69,84.666666667,6.14210796,95.0,69.0,,,,,,,,,,,0,0,0,0,0,3,3,7,15,26,15,,,
+UBCV,2018,W,CPSC,540,,201,Machine Learning,Ainaz Hajimoradlou;Alireza Shafaei;Mark Schmidt;Reza Babanezhad Harikande;Si Yi Meng;Xiaomeng Ju,51,90.529411765,4.985390421,99.0,77.0,,,,,,,,,,,0,0,0,0,0,0,0,2,5,8,36,,,
+UBCV,2018,W,DSCI,522,,001,Data Science Workflows,Ali Ihsan Mirza;Ali Mirza;Mark Schmidt;Nazli Kafaee;Nazli Ozum Kafaee;Pedro Odon;Tiffany Timbers;�Z�M Kafaee,69,91.594202899,3.486608164,98.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,15,52,,,
+UBCV,2018,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Mark Schmidt;Michael Gelbart;Zheng Sun,69,94.52173913,5.64803114,100.0,67.0,,,,,,,,,,,0,0,0,0,1,0,0,0,3,7,58,,,
+UBCV,2018,W,DSCI,573,,001,Feature and Model Selection,Gursimran Singh;Ho Yin Ho;Mark Schmidt;Minzhe Liao;Minzhi Liao;Yi-Chin Tseng,70,89.471428571,5.795354033,96.0,67.0,,,,,,,,,,,0,0,0,0,1,0,2,2,7,16,42,,,
+UBCV,2018,W,DSCI,574,,001,Spatial and Temporal Models,Aaron Berk;Emily Mistick;Gunho Oh;Mark Schmidt;Minzhe Liao;Minzhi Liao;Natalia Nolde,69,88.826086957,5.310800653,97.0,76.0,,,,,,,,,,,0,0,0,0,0,0,0,3,14,23,29,,,
+UBCV,2018,W,DSCI,575,,001,Advanced Machine Learning,Gursimran Singh;Jie Xiang;Mark Schmidt;Michael Gelbart;Qiuyan Liu;Varada Kolhatkar,68,92.426470588,4.361692731,99.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,12,52,,,
+UBCV,2019,W,CPSC,340,,101,Machine Learning and Data Mining,Benjamin Paul-Dubois-Taine;Betty Shea;Dylan Green;Frederik Dieter Kuenstner;Karl Slakov;Ke Ma;Mark Schmidt;Michael Przystupa;Nam Hee Kim;Sarah Habashi Elhammadi;Shahriar Shayesteh,87,77.16091954,19.175974287,97.0,3.0,,,,,,,,,,,8,0,3,1,3,3,12,4,13,19,21,,,
+UBCV,2019,W,CPSC,340,,103,Machine Learning and Data Mining,Mark Schmidt,85,79.635294118,9.48915052,94.0,46.0,,,,,,,,,,,2,1,1,0,5,2,10,3,37,15,9,,,
+UBCV,2019,W,CPSC,532,M,101,Topics in Artificial Intelligence,Mark Schmidt,92,84.467391304,7.728143355,95.0,37.0,,,,,,,,,,,2,0,0,0,1,0,4,6,14,47,18,,,
+UBCV,2019,W,CPSC,540,,201,Machine Learning,Frederik Dieter Kuenstner;Mark Schmidt;Si Yi Meng;Xiaomeng Ju,49,92.530612245,4.435190905,99.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,2,6,41,,,
+UBCV,2019,W,DSCI,563,,001,Unsupervised Learning,Daniele Reda;Giulio Valentino Dalla Riva;Kayode Adekunle Aina;Mark Schmidt;Prashant Pandey;Rodolfo Lourenzutti;Vaden Masrani,94,94.063829787,4.198843954,99.0,78.0,,,,,,,,,,,0,0,0,0,0,0,0,2,3,9,80,,,
+UBCV,2020,W,CPSC,440,,201,Advanced Machine Learning,Mark Schmidt;Nam Hee Kim;Peyman Gholami;Setareh Cohan;Shahriar Shayesteh,61,91.590163934,5.8348866,99.0,62.0,,,,,,,,,,,0,0,0,1,0,0,0,1,1,14,44,,,
+UBCV,2020,W,CPSC,540,,201,Machine Learning,Betty Shea;Frederik Dieter Kuenstner;Mark Schmidt;Nam Hee Kim;Setareh Cohan,29,92.379310345,8.61648666,98.0,50.0,,,,,,,,,,,0,,,,,,,,,2,26,,,
+UBCV,2021,W,CPSC,440,,201,Advanced Machine Learning,Alan Milligan;Ali Behrouz;Betty Shea;Jacques Chen;Liron Kurzman;Mark Schmidt;Raghav Goyal;Yilin Yang,70,87.142857143,12.924850476,99.0,9.0,,,,,,,,,,,1,1,0,1,0,0,6,2,3,17,39,,,
+UBCV,2021,W,CPSC,540,,201,Machine Learning,Alan Milligan;Ali Behrouz;Betty Shea;Liron Kurzman;Mark Schmidt;Raghav Goyal;Yilin Yang,26,93.038461538,4.024731238,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,20,,,
+UBCV,2021,W,CPSC,440,,201,Advanced Machine Learning,Mark Schmidt,70,87.1,,99.0,9.0,,,,,,,,,,,,,,,,,6,,,17,39,90.0,94.0,85.0
+UBCV,2021,W,CPSC,540,,201,Machine Learning,Mark Schmidt,26,93.0,,98.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,6,20,95.0,96.0,90.0
+UBCV,2022,W,CPSC,340,,101,Machine Learning and Data Mining,Andreas Lehrmann;Mark Schmidt,101,80.3,,96.0,33.0,,,,,,,,,,,3,0,0,3,1,5,16,2,24,29,18,82.0,88.0,74.0
+UBCV,2022,W,CPSC,340,,102,Machine Learning and Data Mining,Andreas Lehrmann;Mark Schmidt,61,79.2,,94.0,19.0,,,,,,,,,,,3,0,2,2,0,2,9,2,9,21,11,85.0,87.0,75.0
+UBCV,2022,W,CPSC,532,M,101,Topics in Artificial Intelligence,Andreas Lehrmann;Mark Schmidt,49,85.8,,93.0,68.0,,,,,,,,,,,0,0,0,0,0,1,3,1,10,16,18,88.0,90.0,81.0
+UBCV,2023,W,CPSC,340,,101,Machine Learning and Data Mining,Jeffrey Clune;Mark Schmidt,114,81.7,,96.0,46.0,,,,,,,,,,,1,2,1,2,2,5,12,11,25,27,25,84.0,89.0,76.0
+UBCV,2023,W,CPSC,340,,102,Machine Learning and Data Mining,Jeffrey Clune;Mark Schmidt,98,80.4,,96.0,46.0,,,,,,,,,,,1,2,3,3,2,8,6,13,19,17,23,83.0,89.0,75.0
+UBCV,2023,W,CPSC,540,,101,Machine Learning,Jeffrey Clune;Mark Schmidt,24,86.5,,93.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,2,1,10,6,88.0,90.3,85.8
+UBCV,2023,W,CPSC,540,,102,Machine Learning,Jeffrey Clune;Mark Schmidt,32,85.9,,96.0,72.0,,,,,,,,,,,0,0,0,0,0,0,1,4,3,14,7,86.0,89.0,83.0

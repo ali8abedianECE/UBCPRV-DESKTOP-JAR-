@@ -1,0 +1,22 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,EECE,201,,1P1,Proj Int Prog I,"Lawrence, Peter;Pulfrey, David L.;Salcudean, Septimiu",63,70.29,9.67,90,50,63,0,0,0,0,0,0,0,0,0,0,3,6,7,9,8,11,8,7,3,1
+UBC,2002,W,EECE,202,,2P1,Proj Int Prog II,"Lawrence, Peter;Pulfrey, David L.;Salcudean, Septimiu;Wilton, Steven;Yedlin, Matthew",62,73.5,11.02,92,44,59,3,0,0,0,0,0,0,0,3,3,1,0,3,10,8,10,6,10,10,1
+UBC,2003,W,EECE,201,,1P1,Proj Int Prog I,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Madden, John",72,71.58,6.57,84,50,72,0,0,0,0,0,0,0,0,0,0,1,2,4,8,22,15,10,10,0,0
+UBC,2003,W,EECE,202,,2P1,Proj Int Prog II,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Salcudean, Septimiu;Yedlin, Matthew",68,69.37,9.42,90,45,66,2,0,0,0,0,0,0,0,2,2,1,4,12,10,10,11,5,10,2,1
+UBC,2003,W,EECE,490,M,101,TPCS ELEC&CMP I,"Lawrence, Peter",9,84.56,3.97,90,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,2
+UBC,2003,W,EECE,491,B,201,EPCS ELEC&CMP II,"Lawrence, Peter",9,84.56,3.97,90,81,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,2
+UBC,2005,W,APSC,486,,001,NEW VEN DESIGN,"Lawrence, Peter",14,85.64,4.25,90,75,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,6,4
+UBC,2005,W,EECE,201,,1P1,Proj Int Prog I,"Calvino-Fraga, Jesus;Ivanov, Andre;Lawrence, Peter;Mirabbasi, Shahriar",80,69.35,10.08,96,45,79,1,0,0,0,0,0,0,0,1,1,6,7,8,11,12,16,10,2,4,3
+UBC,2005,W,EECE,202,,2P1,Proj Int Prog II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",73,66.23,11.06,95,43,71,2,0,0,0,0,0,0,0,2,2,7,14,9,9,11,6,6,3,4,2
+UBC,2006,W,APSC,486,,001,NEW VEN DESIGN,"Lawrence, Peter",15,85.53,4.64,91,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,9,1
+UBC,2006,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Ivanov, Andre;Lawrence, Peter;Mirabbasi, Shahriar",83,67.67,14.22,93,2,75,7,1,0,0,1,0,0,1,5,7,5,7,9,9,10,10,7,11,4,3
+UBC,2006,W,EECE,202,,2P1,INT PROG PROJ II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",63,68.49,12.03,92,39,61,2,0,0,0,0,0,0,1,1,2,5,9,7,8,8,4,8,4,4,4
+UBC,2006,W,EECE,203,,2P1,BIOMED ENG PIP,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",13,73,8.57,85,59,13,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,2,1,3,1,0
+UBC,2007,W,APSC,486,,001,NEW VEN DESIGN,"Lawrence, Peter",15,87.07,3.28,92,80,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,7,5
+UBC,2007,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Lawrence, Peter;Mirabbasi, Shahriar;Nojeh, Alireza",61,71.71,11.06,92,26,58,1,0,0,2,0,0,1,0,0,1,0,5,4,9,11,8,9,2,8,2
+UBC,2007,W,EECE,202,,2P1,INT PROG PROJ II,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",46,66.72,10.5,87,50,46,0,0,0,0,0,0,0,0,0,0,8,2,9,5,6,7,3,3,3,0
+UBC,2007,W,EECE,203,,2P1,BIOMED ENG PIP,"Calvino-Fraga, Jesus;Chrostowski, Lukas;Ivanov, Andre;Lawrence, Peter;Walus, Konrad",9,71.44,7.47,82,62,9,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,2,2,0,0
+UBC,2009,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe;Lawrence, Peter",15,83.47,3.52,91,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,3,1
+UBC,2009,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Gopalakrishnan, Sathish;Lawrence, Peter;Nojeh, Alireza",84,67.39,11.27,88,39,79,4,0,0,1,0,0,0,1,3,4,8,6,10,11,9,13,12,6,4,0
+UBC,2010,W,APSC,486,,001,NEW VEN DESIGN,"Kruchten, Philippe;Lawrence, Peter",15,82.53,3,88,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,4,0
+UBC,2010,W,EECE,201,,1P1,INT PROG PROJ I,"Calvino-Fraga, Jesus;Cretu, Edmond;Lawrence, Peter;Nojeh, Alireza;Yan, Joseph",75,70.14,10.57,93,38,71,3,1,0,0,0,0,0,1,2,3,3,3,7,9,18,10,6,10,3,2

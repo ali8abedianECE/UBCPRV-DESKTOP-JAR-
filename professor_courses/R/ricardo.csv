@@ -1,0 +1,19 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2002,W,BIOL,405,,202,MARINE ECOLOGY,"Scrosati, Ricardo",11,83.91,5.86,91,73,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,4,2
+UBC,2002,W,CIVL,435,,201,ADV STRUC ANALYS,"Foschi, Ricardo",20,83.55,7.44,95,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,4,7,4
+UBC,2002,W,CIVL,436,,101,MATRX STRUC ANLY,"Foschi, Ricardo",78,67.42,8.8,85,50,78,0,0,0,0,0,0,0,0,0,0,6,9,13,14,9,11,4,11,1,0
+UBC,2002,W,CIVL,518,,101,REL & STR SAFETY,"Foschi, Ricardo",40,86.41,8.26,100,60,39,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,4,9,13,11
+UBC,2007,W,CIVL,436,,101,MATRX STRUC ANLY,"Foschi, Ricardo",103,68.61,12.95,99,30,100,2,0,0,1,0,0,0,2,0,2,9,17,12,7,9,11,22,4,2,7
+UBC,2010,W,CIVL,518,,101,REL & STR SAFETY,"Foschi, Ricardo",36,84,5.22,92,73,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,10,10,9
+UBC,2012,W,MATH,100,,109,DF CALC AP PH SC,"Oyarzua, Ricardo",99,71.42,15.6,95,10,91,6,1,0,1,0,1,1,2,2,6,8,5,5,9,6,10,18,12,10,8
+UBC,2015,W,SOWK,502,,001,SOWK PRACTICE,"Allison, Kelly;Chaparro-Pacheco, Ricardo;Clark, Natalie",18,86.5,5.65,96,73,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,9,5
+UBC,2016,W,MATH,340,,201,INTRO LIN PROG,"Gomez Aiza, Ricardo",109,70.18,15.47,100,21,97,7,4,0,1,0,0,3,0,4,7,7,8,7,10,14,8,9,13,10,11
+UBC,2016,W,MATH,340,,202,INTRO LIN PROG,"Gomez Aiza, Ricardo",119,72.16,15.23,100,30,109,7,1,0,2,0,0,0,1,6,7,7,4,18,10,6,14,9,11,7,23
+UBC,2016,W,SOWK,502,,001,SOWK PRACTICE,"Allison, Kelly;Chaparro-Pacheco, Ricardo;Charles, Grant",18,89.78,1.77,93,86,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11
+UBC,2016,W,SOWK,505,,001,SOCIAL ANALYSIS,"Chaparro-Pacheco, Ricardo",18,96.56,3.9,100,88,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,16
+UBC,2017,W,SOWK,502,,001,SOWK PRACTICE,"Chaparro-Pacheco, Ricardo;Jones, Elizabeth;Murray, Kathryn",13,89.08,3.38,94,84,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,6
+UBC,2017,W,SOWK,505,,001,SOCIAL ANALYSIS,"Chaparro-Pacheco, Ricardo",13,92,2.45,96,87,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,11
+UBC,2018,W,PCTH,300,,001,INTRO TO PCOL,"Abadi, Shirin S.A.;Dormuth, Colin;Horne, Andrew;Karim, Sultan;Pang, Catherine C;Rivera Acevedo, Ricardo;Schwarz, Stephan;Walker, Michael",25,88.63,6.76,98,69,24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5,4,14
+UBC,2018,W,PCTH,305,,001,HUMAN PHARMCLGY,"Abadi, Shirin S.A.;Dormuth, Colin;Horne, Andrew;Karim, Sultan;Pang, Catherine C;Rivera Acevedo, Ricardo;Schwarz, Stephan;Walker, Michael",13,83.5,7.23,91,68,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,2,5,2
+UBC,2018,W,PCTH,325,,001,RNL BS DRUG THER,"Abadi, Shirin S.A.;Hackett, Tillie-Louise;Horne, Andrew;Laher, Ismail;Pang, Catherine C;Rivera Acevedo, Ricardo;Shabbits, Jennifer Anne;Wallener, Maria",201,85.95,9.1,99,49,199,1,0,0,1,0,0,0,0,1,1,0,0,5,5,8,7,17,30,35,92
+UBC,2018,W,PCTH,400,,001,SYSTEMATIC PCOL,"Ansermino, John Mark;Barr, Alasdair;Bernatchez, Pascal;Bhagavatula, Sastry;Choi, Peter Tsz Lung;Etminan, Mahyar;Fedida, David;Griesdale, Donald E;Hackett, Tillie-Louise;Horne, Andrew;Laher, Ismail;Preston, Roanne;Rivera Acevedo, Ricardo;Schwarz, Stephan;Walker, Michael;Wright, James",14,84.86,9.21,95,58,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,2,5

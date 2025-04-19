@@ -1,0 +1,21 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCV,2016,W,HIST,220,A,201,History of Europe,Devin Eeg;Jacob Green;Joshua Lee Timmermann;Joshua Timmermann;Joy Dixon,93,73.6344086,9.993242223,92.0,16.0,2,1,2,5,3,14,20,18,19,7,2,,,
+UBCV,2017,W,HIST,104,,101,Topics in World History,Joshua Lee Timmermann;Joshua Timmermann;Tara Mayer,105,73.723809524,13.842864892,91.0,0.0,5,4,0,2,6,11,20,21,19,14,3,,,
+UBCV,2017,W,HIST,220,A,201,History of Europe,Jason Martin;Joshua Lee Timmermann;Joshua Timmermann;Joy Dixon;Kathryn Powell,105,75.533333333,9.945105741,88.0,19.0,2,0,1,5,2,7,27,21,27,13,0,,,
+UBCV,2018,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Christopher Friedrichs;Gul Banu Kayir;Gul Kayir;Joshua Lee Timmermann;Joshua Timmermann;Juan Felipe Hernandez Gomez;Peter Jones;Peter Phillip Jones;Rosalynd Boxall;Sebastian Prange,194,74.06185567,17.420917945,93.0,0.0,13,4,2,6,2,16,24,41,44,28,14,,,
+UBCV,2019,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Aaron Michael Wilford;Aaron Wilford;Jake Andreas Raymond Harms;Jake Harms;Joshua Lee Timmermann;Joshua Timmermann;Mina Rigby-Thompson;Niping Yan;Sebastian Prange,195,74.682051282,10.093962465,91.0,21.0,2,0,17,8,12,16,31,34,47,24,4,,,
+UBCV,2020,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Aaron Throness;Emily Leischner;Joshua Timmermann;Peter Jones;Philip Karangu;Sebastian Prange,209,76.009569378,13.969055923,95.0,0.0,7,4,7,7,11,19,29,24,38,37,26,,,
+UBCV,2020,W,HIST,341,,201,Medieval Jewish History,Joshua Timmermann;Richard Menkis,29,80.275862069,6.584052984,91.0,64.0,0,0,0,0,1,2,3,3,12,5,3,,,
+UBCV,2020,W,HIST,490,B,101,Seminar for Majors in History,Joshua Lee Timmermann;Joshua Timmermann,14,80.285714286,6.544857893,95.0,72.0,0,0,0,0,0,0,4,2,4,3,1,,,
+UBCV,2021,W,HIST,235,,101,History of Canada: Moments that Matter,Adina Reyes Williams;Joshua Timmermann;Sophia Mcghie;Tina Merrill Loo,99,74.646464646,11.099101941,90.0,24.0,3,2,2,2,9,11,15,21,19,14,1,,,
+UBCV,2021,W,HIST,363,,101,Europe in the Early Middle Ages,Courtney Booker;Joshua Timmermann,31,76.903225806,14.96519259,92.0,13.0,1,0,1,1,2,1,5,3,7,6,4,,,
+UBCV,2021,W,HIST,363,,101,Europe in the Early Middle Ages,Joshua Timmermann,31,76.9,,92.0,13.0,,,,,,,,,7,6,,81.0,86.0,72.0
+UBCV,2022,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Joshua Timmermann,115,74.4,,91.0,10.0,3,3,2,3,10,12,16,27,24,14,1,77.0,81.0,70.0
+UBCV,2022,W,HIST,363,,101,Europe in the Early Middle Ages,Joshua Timmermann,29,76.1,,96.0,0.0,2,0,0,0,0,3,5,3,7,6,3,80.0,85.0,74.0
+UBCV,2022,W,HIST,478,,201,Medieval Portraits and Personalities,Joshua Timmermann,15,81.9,,98.0,50.0,0,2,0,0,0,0,1,0,4,2,6,85.0,90.0,80.0
+UBCV,2023,S,HIST,220,A,921,History of Europe,Joshua Timmermann,59,73.8,,93.0,0.0,4,3,0,0,1,5,6,11,13,8,5,78.5,83.3,73.0
+UBCV,2023,W,HIST,100,,101,What is History?,Joshua Timmermann,59,72.5,,94.0,0.0,4,1,0,1,1,8,11,11,8,3,6,76.0,81.0,71.0
+UBCV,2023,W,HIST,102,,001,World History from 1500 to the Twentieth Century,Joshua Timmermann,77,75.2,,93.0,29.0,2,1,5,5,5,5,8,3,25,4,11,80.0,83.0,68.0
+UBCV,2023,W,HIST,102,,002,World History from 1500 to the Twentieth Century,Joshua Timmermann,68,71.6,,92.0,0.0,5,1,0,3,2,7,13,11,12,5,3,75.5,80.0,71.0
+UBCV,2023,W,HIST,364,,201,Europe in the Late Middle Ages,Joshua Timmermann,27,80.3,,96.0,32.0,1,0,1,0,0,0,1,5,6,8,4,83.0,86.0,76.5
+UBCV,2023,W,NORD,338,,201,The Viking World,Joshua Timmermann,44,80.95,,96.0,56.0,0,0,1,0,1,1,5,5,12,9,4,81.0,86.0,77.0

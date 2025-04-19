@@ -1,0 +1,29 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2010,S,EPSE,526,,951,SPECIFIC LRN DIS,"Klassen, Robert",9,87.78,1.92,90,84,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,2
+UBC,2013,W,PHAR,371,,001,PATHOPHYS I,"Klassen, Tara",222,78.48,8.91,97,44,221,1,0,0,0,0,0,0,0,1,1,0,4,3,20,24,26,40,43,36,25
+UBC,2013,W,PHAR,471,,001,PATHOPYSIO II,"Klassen, Tara",209,80.68,8.62,98,55,209,0,0,0,0,0,0,0,0,0,0,0,3,1,14,16,29,20,49,49,28
+UBC,2014,W,PHAR,371,,001,PATHOPHYS I,"Klassen, Tara",220,78.89,9.2,98,51,220,0,0,0,0,0,0,0,0,0,0,2,4,8,16,15,29,37,44,39,26
+UBC,2014,W,PHAR,471,,001,PATHOPYSIO II,"Klassen, Tara",220,84.47,8.88,100,55,220,0,0,0,0,0,0,0,0,0,0,0,2,2,6,8,18,26,32,40,86
+UBC,2014,W,PHAR,472,,001,PATHOPHYSIO III,"Klassen, Tara;Soja, Peter",220,74.92,8.92,94,54,220,0,0,0,0,0,0,0,0,0,0,2,9,15,24,32,24,32,51,26,5
+UBC,2014,W,PHTH,544,,001,CLIN PRAC IVA,"Klassen, Tara",78,88.09,3.42,95,79,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,31,33
+UBC,2014,W,PHTH,548,,001,CASE INTGR III,"Klassen, Tara",78,87.99,5.53,96,72,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,14,18,39
+UBC,2015,S,PHTH,544,,921,CLIN PRAC IVA,"Klassen, Tara",82,,,,,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PHAR,371,,001,PATHOPHYS I,"Klassen, Tara",220,83.32,8.18,100,61,220,0,0,0,0,0,0,0,0,0,0,0,0,4,7,9,19,26,48,53,54
+UBC,2015,W,PHAR,471,,001,PATHOPYSIO II,"Klassen, Tara",215,87.09,8.72,100,60,213,0,2,0,0,0,0,0,0,0,0,0,0,2,4,6,10,20,35,41,95
+UBC,2015,W,PHAR,472,,001,PATHOPHYSIO III,"Klassen, Tara",212,80.36,7.79,100,60,210,0,0,0,2,0,0,0,0,0,0,0,0,3,10,12,38,37,33,58,19
+UBC,2015,W,PHTH,544,,001,CLIN PRAC IVA,"Klassen, Tara;Sauve, Karen",82,87.17,3.81,95,74,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,16,43,21
+UBC,2015,W,PHTH,548,,001,CASE INTGR III,"Galway, Gina;Klassen, Tara;Rankin, Anne;Sauve, Karen",81,,,,,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,RHSC,420,,002,NEUROANTMY/PHYS,"Klassen, Tara",78,86.6,4.65,95,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,14,36,21
+UBC,2016,S,PHTH,544,,921,CLIN PRAC IVA,"Klassen, Tara",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,S,PHTH,548,,921,CASE INTGR III,"Galway, Gina;Klassen, Tara;Rankin, Anne;Sauve, Karen",82,88.35,5.17,97,67,82,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,11,26,41
+UBC,2016,W,PHAR,471,,001,PATHOPYSIO II,"Klassen, Tara",218,86.53,8.75,100,60,218,0,0,0,0,0,0,0,0,0,0,0,0,6,2,3,10,18,34,70,75
+UBC,2016,W,PHAR,472,,001,PATHOPHYSIO III,"Klassen, Tara;Soja, Peter",219,81.24,7.66,98,61,214,0,0,0,5,0,0,0,0,0,0,0,0,5,5,16,18,40,54,51,25
+UBC,2016,W,PHRM,211,,001,MED MANAGEMENT 2,"Barry, Arden;Brady, Colleen;Carr, Roxane;Chan, Fong;Chen, Tim;Dahri, Karen;Eccott, Lynda;Fischer, Michelle;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Lalji, Fawziah;Loewen, Peter Shane;Massaro, Davide;McCormack, James;Moshenko, Janice Lynn;Park, Charles;Price, Ingrid;Rodrigues, Brian;Seto, Katherine;Verma, Arun;Watson, Hilary;Zed, Peter",204,80.17,5.52,92,68,204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,29,55,58,43,5
+UBC,2016,W,PHRM,212,,001,MED MANAGEMENT 3,"Brady, Colleen;Chan, Fong;Chauvin, Vaughn;Frankel, Adam;Gerber, Patricia;Kanji, Tamiz Jamal;Kim-Sing, Angela;Klassen, Tara;Loewen, Peter Shane;MacLeod, Kathleen;Massaro, Davide;McCormack, James;Nicholl, Tessa;Park, Charles;Rodrigues, Brian;Seet, Tony;Seto, Katherine;Soja, Peter;Verma, Arun",204,78.16,5.56,91,64,204,0,0,0,0,0,0,0,0,0,0,0,0,0,3,25,36,58,55,23,4
+UBC,2016,W,PHTH,544,,001,CLIN PRAC IVA,"Klassen, Tara;Sauve, Karen;Zwicker, Jill",78,88.4,3.4,95,76,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,41,30
+UBC,2016,W,RHSC,420,,002,NEUROANTMY/PHYS,"Klassen, Tara;Krebs, Claudia;Sauve, Karen",80,88.84,4.7,98,78,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,28,40
+UBC,2017,S,PHTH,544,,921,CLIN PRAC IVA,"Klassen, Tara",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2017,S,PHTH,548,,921,CASE INTGR III,"Eng, Janice;Klassen, Tara;Rankin, Anne;Sauve, Karen",78,90.06,3.76,97,81,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,25,47
+UBC,2017,W,PHTH,544,,001,CLIN PRAC IVA,"Klassen, Tara;Sauve, Karen;Zwicker, Jill",80,86.51,4.17,94,78,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,22,31,21
+UBC,2018,S,PHTH,544,,921,CLIN PRAC IVA,"Klassen, Tara",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,548,,921,CASE INTGR III,"Eng, Janice;Klassen, Tara;Rankin, Anne;Sauve, Karen",79,87.24,5.55,100,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,17,25,30

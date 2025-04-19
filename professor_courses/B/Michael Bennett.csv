@@ -1,0 +1,61 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2002,W,MATH,312,,102,INTR NUMBER THRY,"Bennett, Michael",49,66.39,16.83,95,25,36,5,4,0,4,0,0,1,3,1,5,1,5,2,7,4,6,2,4,1,4,,,
+UBC,2002,W,MATH,313,,201,TPCS NUMBER THRY,"Bennett, Michael",51,64.63,15.39,92,28,42,4,3,0,2,0,0,1,2,1,4,3,10,3,8,1,4,4,2,4,3,,,
+UBC,2003,W,MATH,100,,105,DF CALC AP PH SC,"Bennett, Michael",98,71.41,13.65,94,24,86,5,4,0,3,0,0,1,3,1,5,3,8,7,8,5,10,13,17,11,4,,,
+UBC,2003,W,MATH,620,D,201,DIRECT STDS MATH,"Bennett, Michael",5,88.4,7.09,95,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,,,
+UBC,2005,W,MATH,100,,107,DF CALC AP PH SC,"Bennett, Michael",177,75.9,12.65,97,3,161,7,7,0,2,1,0,1,1,4,7,0,5,6,8,17,21,26,42,19,17,,,
+UBC,2005,W,MATH,101,,207,INT CALC AP PH S,"Bennett, Michael",165,63.61,18.28,94,0,133,27,3,0,2,2,2,4,10,9,27,9,18,15,17,11,15,14,15,11,8,,,
+UBC,2007,W,MATH,101,,206,INT CALC AP PH S,"Bennett, Michael",112,64.1,16.34,94,21,91,17,3,0,1,0,0,2,5,10,17,13,12,6,10,12,6,9,9,9,5,,,
+UBC,2007,W,MATH,312,,101,INTR NUMBER THRY,"Bennett, Michael",47,64.4,17.52,96,25,38,7,0,0,2,0,0,3,2,2,7,4,5,1,4,5,5,4,4,5,1,,,
+UBC,2007,W,MATH,539,,201,ANALYT NUM THRY,"Bennett, Michael",6,91.5,3.56,95,85,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,,,
+UBC,2009,S,MATH,620,E,922,DIRECT STDS MATH,"Bennett, Michael",5,95,0,95,95,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,,,
+UBC,2009,W,MATH,613,D,201,NUMBER THEORY,"Bennett, Michael",7,85.83,5.85,95,80,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,,,
+UBC,2010,W,MATH,221,,202,MATRIX ALGEBRA,"Bennett, Michael",106,68.36,15.21,99,12,92,9,3,0,2,0,1,1,1,6,9,9,5,10,14,12,14,3,9,9,7,,,
+UBC,2010,W,MATH,437,,101,NUMBER THEORY,"Bennett, Michael",13,76.82,14.96,94,40,10,1,2,0,0,0,0,0,0,1,1,0,0,0,1,0,3,0,3,1,2,,,
+UBC,2010,W,MATH,537,,101,ELEM NUMBER THRY,"Bennett, Michael",5,86.8,4.6,90,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,,,
+UBC,2011,W,MATH,100,,105,DF CALC AP PH SC,"Bennett, Michael",209,70,14.5,91,16,189,15,3,0,2,0,1,3,5,6,15,12,14,11,18,27,18,28,32,19,10,,,
+UBC,2011,W,MATH,312,,101,INTR NUMBER THRY,"Bennett, Michael",58,68.92,13.69,96,34,50,3,5,0,0,0,0,0,1,2,3,2,9,7,8,3,1,3,8,7,2,,,
+UBC,2011,W,MATH,620,E,201,DIRECT STDS MATH,"Bennett, Michael",9,94.44,1.51,97,93,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,,,
+UBC,2015,W,MATH,313,,201,TPCS NUMBER THRY,"Bennett, Michael",35,66.94,14.32,97,34,29,3,2,0,1,0,0,0,1,2,3,1,5,3,4,4,2,3,4,1,2,,,
+UBC,2017,W,MATH,104,,101,DFF CALC AP C&SS,"Bennett, Michael",169,75.56,16.97,96,4,147,14,7,0,1,1,0,3,5,5,14,3,10,5,4,6,16,15,30,30,28,,,
+UBC,2017,W,MATH,313,,201,TPCS NUMBER THRY,"Bennett, Michael",26,68.35,15.45,92,50,23,0,2,0,0,0,0,0,0,0,0,7,1,3,1,1,1,0,4,3,2,,,
+UBC,2018,W,MATH,100,,103,DF CALC AP PH SC,"Bennett, Michael",203,70.49,16.8,96,0,177,19,6,0,1,3,0,2,8,6,19,5,13,12,15,14,23,28,37,12,18,,,
+UBCV,2015,W,MATH,313,,201,Topics in Number Theory,Michael Bennett,33,65.03030303,17.849168133,97.0,4.0,,,,,,,,,,,,,5,,,,,,,,,,,
+UBCV,2017,S,MATH,312,,921,Introduction to Number Theory,Michael Bennett;Nuno Barroso De Freitas,72,61.527777778,23.08097944,99.0,0.0,,,,,,,,,,,18,5,5,8,6,7,3,3,2,4,11,,,
+UBCV,2017,W,MATH,104,,101,Differential Calculus with Applications to Commerce and Social Sciences,Mark Thomson Maclean;Michael Bennett;You Hung Hsu,162,75.265432099,17.32043392,96.0,4.0,,,,,,,,,,,15,3,10,5,4,6,16,15,30,30,28,,,
+UBCV,2017,W,MATH,313,,201,Topics in Number Theory,Michael Bennett,24,69.083333333,15.530941534,92.0,50.0,,,,,,,,,,,0,7,1,3,1,1,1,0,4,4,2,,,
+UBCV,2018,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Michael Bennett;Niny Arcila Maya;Patrick Walls,140,66.678571429,14.239103044,87.0,4.0,,,,,,,,,,,9,10,12,18,14,18,20,17,18,4,0,,,
+UBCV,2018,W,MATH,100,,102,Differential Calculus with Applications to Physical Sciences and Engineering,Claudius Bodo Zibrowius;Michael Bennett;Niny Arcila Maya,97,63.134020619,15.070410347,94.0,3.0,,,,,,,,,,,14,7,11,6,10,14,17,8,6,3,1,,,
+UBCV,2018,W,MATH,100,,103,Differential Calculus with Applications to Physical Sciences and Engineering,Michael Bennett;Niny Arcila Maya,196,70.56122449,16.525080442,96.0,0.0,,,,,,,,,,,19,5,13,12,15,14,23,28,37,12,18,,,
+UBCV,2018,W,MATH,100,,104,Differential Calculus with Applications to Physical Sciences and Engineering,John Nathaniel Enns;Michael Bennett;Niny Arcila Maya,57,62.421052632,17.680646571,90.0,2.0,,,,,,,,,,,11,6,1,3,3,11,11,4,5,1,1,,,
+UBCV,2018,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Dragos Ghioca;Michael Bennett;Niny Arcila Maya,336,71.845238095,15.933813888,95.0,7.0,,,,,,,,,,,32,18,14,15,23,20,29,37,85,47,16,,,
+UBCV,2018,W,MATH,100,,106,Differential Calculus with Applications to Physical Sciences and Engineering,Javier Gonzalez Anaya;Michael Bennett;Niny Arcila Maya,65,70.138461538,12.987827141,100.0,5.0,,,,,,,,,,,3,0,4,7,11,8,8,8,10,4,2,,,
+UBCV,2018,W,MATH,100,,107,Differential Calculus with Applications to Physical Sciences and Engineering,Michael Bennett;Nikhil Kher;Niny Arcila Maya,70,72.457142857,13.846660995,92.0,1.0,,,,,,,,,,,5,1,3,2,4,4,15,14,17,2,3,,,
+UBCV,2018,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Michael Bennett;Niny Arcila Maya;Yaniv Plan,147,71.741496599,11.770690577,97.0,15.0,,,,,,,,,,,1,11,11,9,10,15,17,30,31,5,7,,,
+UBCV,2018,W,MATH,100,,V01,Differential Calculus with Applications to Physical Sciences and Engineering,Ahmet Alperen Bulut;Michael Bennett;Niny Arcila Maya;Sven Bachmann,154,66.415584416,18.445362277,100.0,0.0,,,,,,,,,,,22,10,14,14,13,11,17,15,13,18,7,,,
+UBCV,2019,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Claudius Bodo Zibrowius;Federico Scavia;Michael Bennett,124,62.951612903,16.945563171,96.0,0.0,,,,,,,,,,,21,12,5,13,13,19,13,9,10,5,4,,,
+UBCV,2019,W,MATH,100,,102,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Jamie Juul;Javier Gonzalez Anaya;Katharine Faulkner;Michael Bennett;Xiaowei Li,155,62.761290323,15.860218907,97.0,24.0,,,,,,,,,,,28,18,16,14,15,18,6,10,14,11,5,,,
+UBCV,2019,W,MATH,100,,103,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Michael Bennett,190,67.3,13.84072283,97.0,30.0,,,,,,,,,,,18,15,15,18,24,26,13,20,18,14,9,,,
+UBCV,2019,W,MATH,100,,104,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Farid Aliniaeifard;Federico Scavia;Michael Bennett,136,58.448529412,18.518787198,95.0,5.0,,,,,,,,,,,32,14,16,13,19,7,11,7,6,7,4,,,
+UBCV,2019,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Dragos Ghioca;Federico Scavia;Michael Bennett,399,66.827067669,15.622193631,99.0,22.0,,,,,,,,,,,39,48,37,22,34,48,38,37,40,33,23,,,
+UBCV,2019,W,MATH,100,,106,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Malcolm Norman Stanley Bowles;Michael Bennett,53,66.452830189,16.371370458,92.0,24.0,,,,,,,,,,,6,7,5,1,4,4,9,5,4,6,2,,,
+UBCV,2019,W,MATH,100,,107,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Lior Silberman;Michael Bennett,115,67.591304348,14.818134724,91.0,9.0,,,,,,,,,,,9,12,5,9,7,19,13,19,10,8,4,,,
+UBCV,2019,W,MATH,100,,108,Differential Calculus with Applications to Physical Sciences and Engineering,Ahmet Alperen Bulut;Alejandra Herrera Reyes;Federico Scavia;Michael Bennett,42,51.19047619,17.082637163,81.0,11.0,,,,,,,,,,,14,9,6,4,3,2,1,1,2,0,0,,,
+UBCV,2019,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Herrera Reyes;Federico Scavia;Javier Gonzalez Anaya;Katharine Faulkner;Michael Bennett;Xiaowei Li;Yaniv Plan,96,68.4375,15.764592238,95.0,19.0,,,,,,,,,,,10,4,7,7,14,12,7,7,11,9,8,,,
+UBCV,2019,W,MATH,180,,102,Differential Calculus with Physical Applications,Alejandra Herrera Reyes;Chen-Chih Lai;Han Hong;Jamie Juul;Javier Gonzalez Anaya;Katharine Faulkner;Michael Bennett;Naba Mukhtar;Shiyuan Ge;Xiaowei Li,28,52.285714286,16.170061826,91.0,26.0,,,,,,,,,,,12,7,2,1,0,2,1,1,0,1,1,,,
+UBCV,2019,W,MATH,313,,201,Topics in Number Theory,Angelos Koutsianas;Chi Hoi Yip;Michael Bennett,35,71.628571429,14.538156114,99.0,32.0,,,,,,,,,,,1,2,7,1,2,4,2,3,7,3,3,,,
+UBCV,2020,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alexander Naumenko;Amin Soofiani;Benjamin Langer;Daniel Di Benedetto;Dragos Ghioca;Farid Aliniaeifard;Isabella Martin;Itay Londner;Julien Gagnon;K Wayne Nagata;Mai Uyen Thieu;Malcolm Norman Stanley Bowles;Marjan Zare Bezgabadi;Max Gheorghiu;Michael Bennett;Pradumn Choudhary;Simone Maletto;Sven Bachmann;Tongou Yang;Yongqi Nie,1555,65.478456592,16.115055039,100.0,0.0,,,,,,,,,,,181,152,157,121,162,168,186,124,165,75,64,,,
+UBCV,2020,W,MATH,180,,102,Differential Calculus with Physical Applications,Dragos Ghioca;Itay Londner;Malcolm Norman Stanley Bowles;Marjan Zare Bezgabadi;Michael Bennett;Nina Morishige;Sven Bachmann,20,70.05,13.504287818,92.0,50.0,,,,,,,,,,,0,3,0,5,1,2,3,0,2,1,3,,,
+UBCV,2021,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Farid Aliniaeifard;Michael Bennett,101,74.603960396,12.964628192,98.0,41.0,,,,,,,,,,,3,6,7,3,7,10,14,12,15,12,12,,,
+UBCV,2021,W,MATH,313,,201,Topics in Number Theory,Devang Agarwal;Michael Bennett,25,66.12,15.743570116,95.0,31.0,,,,,,,,,,,2,4,1,2,2,4,4,1,2,0,3,,,
+UBCV,2021,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Farid Aliniaeifard;Michael Bennett,101,74.6,,98.0,41.0,,,,,,,,,,,,6,7,,7,10,14,12,15,12,12,76.0,84.0,66.0
+UBCV,2021,W,MATH,313,,201,Topics in Number Theory,Michael Bennett,25,66.1,,95.0,31.0,,,,,,,,,,,,,,,,,,,,,,68.0,73.0,56.0
+UBCV,2022,W,MATH,200,,202,Calculus III,Michael Bennett;Sebastien Picard;Zinovy Reichstein,172,71.1,,100.0,1.0,,,,,,,,,,,25,10,6,9,12,13,12,4,20,11,50,75.0,90.0,60.0
+UBCV,2022,W,MATH,220,,201,Mathematical Proof,Michael Bennett;Rachel Ollivier,73,63.1,,99.0,0.0,,,,,,,,,,,10,8,8,6,9,8,9,2,7,4,2,65.0,73.0,55.0
+UBCV,2022,W,MATH,226,,101,Advanced Calculus I,Michael Bennett,68,74.9,,98.0,7.0,,,,,,,,,,,5,2,3,2,1,9,7,7,12,7,13,77.5,85.0,68.0
+UBCV,2023,S,MATH,200,,921,Calculus III,Michael Bennett,169,70.14,,100.0,1.0,,,,,,,,,,,14,14,14,11,18,11,12,5,22,11,26,71.0,83.0,59.0
+UBCV,2023,W,MATH,220,,20M,Mathematical Proof,Michael Bennett;Julia Yulia Gordon,66,62.4,,100.0,12.0,,,,,,,,,,,12,7,6,6,8,6,7,6,5,1,2,65.0,73.8,52.3
+UBCV,2023,W,MATH,220,,201,Mathematical Proof,Michael Bennett;Teemu Jarvinen;Nicholas Rouse,71,64.6,,96.0,9.0,,,,,,,,,,,9,6,11,5,8,7,1,3,9,2,6,65.0,79.0,55.0
+UBCV,2023,W,MATH,220,,202,Mathematical Proof,Michael Bennett;Thomas Williams,79,59.4,,99.0,14.0,,,,,,,,,,,18,8,8,9,6,7,7,2,7,0,3,61.0,71.5,50.0
+UBCV,2023,W,MATH,220,,203,Mathematical Proof,Michael Bennett,80,66.9,,97.0,35.0,,,,,,,,,,,10,7,8,5,14,4,8,3,7,5,7,65.0,77.8,56.3
+UBCV,2023,W,MATH,313,,201,Topics in Number Theory,Michael Bennett,19,56.9,,85.0,0.0,,,,,,,,,,,5,1,3,2,3,0,0,1,2,1,0,59.5,66.0,47.0

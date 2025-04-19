@@ -1,0 +1,38 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2005,W,BIOL,427,,201,VERTEBRATE ZOOL,"Irwin, Darren",31,80.4,6.09,94,68,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,5,9,8,1,,,
+UBC,2006,W,BIOL,409,,101,ANIMAL ECOLOGY,"Irwin, Darren;Vellend, Mark",12,83,3.54,88,77,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,6,0,,,
+UBC,2006,W,BIOL,427,,201,VERTEBRATE ZOOL,"Irwin, Darren",27,79.74,7.12,92,64,27,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,4,3,7,6,3,,,
+UBC,2007,W,BIOL,409,,101,ANIMAL ECOLOGY,"Irwin, Darren;Srivastava, Diane",10,81.7,3.37,86,76,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,3,0,,,
+UBC,2007,W,BIOL,427,,201,ORNITH&HERPETLGY,"Irwin, Darren",23,79.78,10.58,96,58,23,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,2,1,4,6,4,,,
+UBC,2009,W,BIOL,300,,201,BIOMETRICS,"Irwin, Darren",204,74.1,14.89,99,32,186,12,4,0,2,0,0,0,6,6,12,7,14,14,18,13,15,15,39,20,31,,,
+UBC,2009,W,BIOL,427,,201,ORNITH&HERPETLGY,"Irwin, Darren",32,82.48,7.94,93,63,31,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,2,3,5,11,6,,,
+UBC,2011,W,BIOL,300,,201,FUND OF BIOSTATS,"Irwin, Darren",203,75.16,11.17,96,42,196,3,2,0,2,0,0,0,0,3,3,9,8,13,12,19,16,39,37,27,16,,,
+UBC,2011,W,BIOL,427,,201,ORNITH&HERPETLGY,"Irwin, Darren",30,85,5.9,93,72,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,5,10,9,,,
+UBC,2012,W,BIOL,300,,201,FUND OF BIOSTATS,"Irwin, Darren",197,75.66,12.74,97,29,190,7,0,0,0,0,0,1,1,5,7,4,6,14,14,16,26,24,37,23,26,,,
+UBC,2012,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",33,82.33,9.08,99,66,33,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,3,5,3,11,6,,,
+UBC,2013,W,BIOL,300,,201,FUND OF BIOSTATS,"Irwin, Darren",223,77.35,14.09,98,0,215,8,0,0,0,2,1,1,0,4,8,4,5,5,11,21,23,39,40,33,34,,,
+UBC,2013,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",40,85.55,5.21,94,73,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,9,16,10,,,
+UBC,2014,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",38,81.82,8.15,95,56,38,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,3,5,11,10,6,,,
+UBC,2015,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",34,80.88,7.79,97,64,33,0,1,0,0,0,0,0,0,0,0,0,0,0,1,4,3,7,4,10,4,,,
+UBC,2015,W,BIOL,501,,201,Q MTH ECOL&EVOL,"Irwin, Darren",23,87,11.58,95,39,20,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,4,14,,,
+UBC,2016,W,BIOL,300,,201,FUND OF BIOSTATS,"Irwin, Darren",220,80.06,11.98,98,34,214,2,4,0,0,0,0,0,1,1,2,7,5,12,9,14,13,20,38,40,56,,,
+UBC,2016,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",35,85.77,5.99,98,66,35,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,8,14,9,,,
+UBC,2017,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",32,82.32,11.35,95,35,30,1,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,2,10,8,7,,,
+UBC,2018,W,BIOL,427,,101,ORNITH&HERPETLGY,"Irwin, Darren",36,83.77,5.69,96,71,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,8,14,6,,,
+UBCV,2014,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin,38,81.81578947,8.146812552,95.0,56.0,,,,,,,,,,,0,0,,,,,,5,11,10,6,,,
+UBCV,2015,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Merle Crombie,33,80.878787879,7.785232719,97.0,64.0,,,,,,,,,,,0,0,0,0,,,,7,,10,,,,
+UBCV,2015,W,BIOL,501,,201,Quantitative Methods in Ecology and Evolution,Darren Irwin,21,87.0,11.580155439,95.0,39.0,,,,,,,,,,,,,,,,,,,,,14,,,
+UBCV,2016,W,BIOL,300,,201,Fundamentals of Biostatistics,Darren Irwin;Ilan Naftali Rubin;Ilan Rubin;Jordan Edward Hamden;Jordan Hamden;Kenneth Askelson;Madelyn Ore;Shaghayegh Sadir Karimi,216,80.05555556,11.98435673,98.0,34.0,,,,,,,,,,,2,7,5,12,9,14,13,20,38,40,56,,,
+UBCV,2016,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Madelyn Ore,35,85.77142857,5.990608897,98.0,66.0,,,,,,,,,,,0,0,0,0,1,0,1,2,8,14,9,,,
+UBCV,2017,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Madelyn Ore,31,82.322580645,11.353082098,95.0,35.0,,,,,,,,,,,1,0,0,1,0,1,1,2,10,8,7,,,
+UBCV,2018,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Ellen Glyn Marshall Nikelski;Ellen Nikelski,35,83.771428571,5.688407791,96.0,71.0,,,,,,,,,,,0,0,0,0,0,1,1,5,8,14,6,,,
+UBCV,2019,W,BIOL,300,,201,Fundamentals of Biostatistics,Darren Irwin;Herath Ranasinghe;Ilan Rubin;Nicola Love;Seth Watt;Sydne Guevara Rozo,219,85.200913242,11.849042817,100.0,0.0,,,,,,,,,,,2,1,1,3,7,3,14,20,25,51,92,,,
+UBCV,2019,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Ellen Glyn Marshall Nikelski;Ellen Nikelski,38,83.815789474,8.349964438,96.0,55.0,,,,,,,,,,,0,0,1,0,1,0,3,2,8,15,8,,,
+UBCV,2020,W,BIOL,427,,201,Ornithology and Herpetology,Darren Irwin;Elizabeth Natola;Ellen Nikelski,58,83.551724138,9.018834899,98.0,50.0,,,,,,,,,,,0,1,0,1,1,4,0,6,11,14,20,,,
+UBCV,2021,W,BIOL,300,,101,Fundamentals of Biostatistics,Amy Forsythe;Bryn Wiley;Darren Irwin;Herath Ranasinghe;Julio Cabra Arias;Kenneth Askelson;Mariia Radaeva;Vincent Billy,300,86.603333333,9.667688602,100.0,41.0,,,,,,,,,,,1,1,3,3,6,12,12,24,31,58,149,,,
+UBCV,2021,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin;Elizabeth Natola;Lili Simon,45,86.266666667,7.253212454,96.0,68.0,,,,,,,,,,,0,0,0,0,0,2,2,2,11,10,18,,,
+UBCV,2021,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin,45,86.3,,96.0,68.0,,,,,,,,,,,,,,,,,,,11,10,18,86.0,92.0,82.0
+UBCV,2022,W,BIOL,300,,201,Fundamentals of Biostatistics,Kaitlyn Gaynor;Darren Irwin,231,85.1,,99.0,14.0,,,,,,,,,,,3,3,4,4,5,4,15,26,23,28,116,90.0,94.0,79.0
+UBCV,2022,W,BIOL,427,,101,Ornithology and Herpetology,Darren Irwin,41,86.8,,98.0,61.0,,,,,,,,,,,0,0,0,1,1,2,1,1,4,10,21,90.0,92.0,85.0
+UBCV,2023,W,BIOL,300,,201,Fundamentals of Biostatistics,Kaitlyn Gaynor;Darren Irwin,168,84.9,,100.0,24.0,,,,,,,,,,,4,2,3,3,2,3,3,12,28,31,74,88.0,92.0,81.0
+UBCV,2023,W,BIOL,300,,202,Fundamentals of Biostatistics,Kaitlyn Gaynor;Darren Irwin,165,84.8,,99.0,0.0,,,,,,,,,,,4,1,2,2,8,7,4,10,16,33,77,88.5,93.0,80.8

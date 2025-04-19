@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2018,W,CHEM,211,,288,INTRO CHEM ANLYS,"Huan, Tao",144,76.69,10.81,95,35,135,4,1,0,4,0,0,0,1,3,4,2,3,8,7,14,15,21,30,23,12,,,
+UBCV,2018,W,CHEM,211,,288,Introduction to Chemical Analysis,Kelsi Lix;Tao Huan,142,75.267605634,14.423147025,95.0,0.0,,,,,,,,,,,7,2,3,8,7,14,15,21,30,23,12,,,
+UBCV,2019,W,CHEM,211,,188,Introduction to Chemical Analysis,Kelsi Lix;Tao Huan,164,75.006097561,9.246121356,96.0,50.0,,,,,,,,,,,0,5,7,6,16,17,26,31,33,18,5,,,
+UBCV,2019,W,CHEM,211,,288,Introduction to Chemical Analysis,Julie Mcnutt;Tao Huan,125,83.264,8.824584428,99.0,47.0,,,,,,,,,,,1,0,1,2,2,7,10,12,23,34,33,,,
+UBCV,2019,W,CHEM,449,,002,Seminar and Thesis,Christopher E Orvig;Dan Bizzotto;David Perrin;Derek Gates;Glenn Sammis;Harry Brumer;Jason Hein;Jayachandran Kizhakkedathu;Jose Rodriguez Nunez;Laurel Schafer;Marco Ciufolini;Mark Thachuk;Michael Wolf;Parisa Mehrkhodavandi;Robin Turner;Roman Krems;Suzana Straus;Tao Huan;Walter Algar;William Andrew Macfarlane;Yan Wang,21,87.80952381,5.372327686,96.0,75.0,,,,,,,,,,,0,0,0,0,0,0,1,1,2,7,10,,,
+UBCV,2020,W,CHEM,210,,188,Introduction to Chemical Analysis (Lecture),Julie Mcnutt;Tao Huan,203,74.729064039,10.32110654,96.0,16.0,,,,,,,,,,,2,2,9,13,19,25,34,34,32,21,12,,,
+UBCV,2020,W,CHEM,210,,288,Introduction to Chemical Analysis (Lecture),Huaxu Yu;Tao Huan,151,86.245033113,8.883668077,99.0,38.0,,,,,,,,,,,1,0,0,2,2,3,7,13,28,32,63,,,
+UBCV,2021,W,CHEM,211,,188,Introduction to Chemical Analysis,Huaxu Yu;Tao Huan,170,74.964705882,10.991063674,94.0,31.0,,,,,,,,,,,3,5,8,9,12,16,28,23,32,22,12,,,
+UBCV,2021,W,CHEM,211,,288,Introduction to Chemical Analysis,Shipei Xing;Tao Huan,164,76.451219512,13.721732741,96.0,20.0,,,,,,,,,,,6,5,5,8,13,10,15,13,45,20,24,,,
+UBCV,2021,W,CHEM,211,,188,Introduction to Chemical Analysis,Tao Huan,171,74.8,,94.0,31.0,,,,,,,,,,,,,8,9,12,16,28,23,32,22,12,76.0,83.0,69.0
+UBCV,2021,W,CHEM,211,,288,Introduction to Chemical Analysis,Tao Huan,164,77.0,,96.0,20.0,,,,,,,,,,,3,6,6,8,13,10,15,13,45,21,24,80.0,86.0,70.8
+UBCV,2022,W,CHEM,211,,188,Introduction to Chemical Analysis,Emma Davy;Tao Huan,184,75.3,,96.0,28.0,,,,,,,,,,,6,1,9,15,13,19,23,26,29,22,21,76.0,84.0,68.0
+UBCV,2022,W,CHEM,211,,288,Introduction to Chemical Analysis,Tao Huan,157,74.8,,98.0,0.0,,,,,,,,,,,4,7,6,12,7,21,20,17,24,18,21,77.0,84.0,68.0

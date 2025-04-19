@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,17,73.58823529,15.27685678,91.0,21.0,,,,,,,,,,,,,,
+UBCO,2014,W,EESC,367,,001,Energy Resources Management,Kevin Hanna,25,77.96,7.67289602,90.0,56.0,0,0,,,,,,5,10,,,,,
+UBCO,2014,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,7,73.42857143,3.823486317,78.0,68.0,0,0,0,0,0,,,,0,0,0,,,
+UBCO,2014,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna,22,70.95454546,10.77685913,85.0,36.0,,,,,,,6,,,,0,,,
+UBCO,2014,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,18,74.44444444,13.87007877,85.0,37.0,,,,,,,,5,7,,0,,,
+UBCO,2015,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,22,76.5,8.645119735,90.0,51.0,0,,,,,5,,,,,,,,
+UBCO,2015,W,EESC,367,,001,Energy Resources Management,Kelson Willms;Kevin Hanna,24,70.125,20.437204991,88.0,4.0,,,,,,,,,10,,0,,,
+UBCO,2015,W,ENVI,551,Y,001,Special Topics in Environmental Sciences,Kevin Hanna,5,90.8,3.346640106,93.0,85.0,0,0,0,0,0,0,0,0,0,,,,,
+UBCO,2015,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,12,67.25,17.451881899,85.0,17.0,,,,,,,,,,,0,,,
+UBCO,2015,W,GEOG,367,,001,Energy Resources Management,Kelson Willms;Kevin Hanna,18,69.555555556,11.98146717,90.0,43.0,,,,,,,,,,,,,,
+UBCO,2016,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,27,73.0,19.76204599,88.0,9.0,3,0,1,0,1,0,1,4,13,4,0,,,
+UBCO,2016,W,EESC,367,,001,Energy Resources Management,Kevin Hanna;Lisa Hettrich,24,73.33333333,9.243877723,90.0,56.0,0,0,1,3,4,1,4,5,2,3,1,,,
+UBCO,2016,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,14,78.57142857,5.169649381,86.0,70.0,0,0,0,0,0,1,4,3,4,2,0,,,
+UBCO,2016,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna;Lisa Hettrich,15,59.0,22.22611077,80.0,5.0,2,3,1,1,0,3,2,2,1,0,0,,,
+UBCO,2016,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,14,80.42857143,6.465461917,88.0,67.0,0,0,0,0,1,2,0,0,7,4,0,,,
+UBCO,2017,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,35,69.142857143,14.260481918,88.0,0.0,2,0,0,4,4,7,10,3,4,1,0,,,
+UBCO,2017,W,EESC,367,,001,Energy Resources Management,Brandon Gregg;Brandon S Gregg;Kevin Hanna,26,73.346153846,9.612251797,90.0,55.0,0,0,3,0,4,4,4,4,3,2,2,,,
+UBCO,2017,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,17,64.647058824,11.77890687,84.0,27.0,1,1,0,3,5,4,2,0,1,0,0,,,
+UBCO,2017,W,GEOG,367,,001,Energy Resources Management,Brandon Gregg;Brandon S Gregg;Kevin Hanna,20,65.8,11.441383796,83.0,40.0,2,2,0,2,3,5,3,2,1,0,0,,,
+UBCO,2017,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,7,82.142857143,10.652520381,92.0,60.0,0,0,0,1,0,0,0,1,1,3,1,,,
+UBCO,2018,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Nicole Peletz-Bohbot,38,74.973684211,7.606849126,93.0,63.0,0,0,0,2,6,4,9,4,9,2,2,,,
+UBCO,2018,W,EESC,367,,001,Energy Resources Management,Kevin Hanna;Nicole Peletz-Bohbot,34,75.117647059,9.735174294,94.0,50.0,0,2,0,2,3,2,7,2,12,3,1,,,
+UBCO,2018,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Nicole Peletz-Bohbot,10,70.8,8.778762251,85.0,60.0,0,0,0,3,2,0,2,1,1,1,0,,,
+UBCO,2018,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna;Nicole Peletz-Bohbot,14,73.214285714,12.367317795,92.0,42.0,1,0,0,0,3,1,3,3,1,0,2,,,
+UBCO,2018,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,11,82.818181818,4.874796033,95.0,75.0,0,0,0,0,0,0,1,0,8,1,1,,,
+UBCO,2019,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold;Lauren Marie Arnold,45,79.488888889,9.898627596,97.0,56.0,0,0,1,2,0,10,4,4,7,8,9,,,
+UBCO,2019,W,EESC,367,,001,Energy Resources Management,Karaline Ashley Reimer;Karaline Reimer;Kevin Hanna;Shane Pedersen,34,77.941176471,9.741946718,92.0,46.0,1,0,1,0,1,5,2,5,10,6,3,,,
+UBCO,2019,W,EESC,551,E,001,Special Topics in Earth and Environmental Sciences,Kevin Hanna,6,92.166666667,0.752772653,93.0,91.0,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCO,2019,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold;Lauren Marie Arnold,14,75.0,21.267526709,94.0,24.0,2,0,0,0,0,0,2,3,1,3,3,,,
+UBCO,2019,W,GEOG,367,,001,Energy Resources Management,Karaline Ashley Reimer;Karaline Reimer;Kevin Hanna;Shane Pedersen,10,76.5,7.877534865,92.0,70.0,0,0,0,0,0,4,2,0,2,1,1,,,
+UBCO,2019,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,14,83.142857143,8.094225319,91.0,64.0,0,0,0,0,1,1,0,1,1,8,2,,,
+UBCO,2020,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold,43,78.697674419,7.359913573,92.0,60.0,0,0,0,1,2,5,4,11,11,5,4,,,
+UBCO,2020,W,EESC,367,,001,Energy Resources Management,Kevin Hanna;Lauren Arnold,36,77.972222222,12.278869448,91.0,34.0,1,0,1,4,1,1,2,3,10,8,5,,,
+UBCO,2020,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold,18,78.277777778,8.675900059,90.0,60.0,0,0,0,1,2,1,3,1,5,4,1,,,
+UBCO,2020,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna;Lauren Arnold,16,72.625,21.543367115,87.0,0.0,1,1,0,0,0,2,3,0,6,3,0,,,
+UBCO,2020,W,GEOG,431,,001,Resource Management Policy and Practice,Catherine Kyle;Kevin Hanna,25,90.04,14.590179345,99.0,23.0,1,0,0,0,0,0,0,1,0,1,22,,,
+UBCO,2021,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Tamika Mulders,36,77.25,8.07597849,91.0,62.0,0,0,0,2,4,4,5,4,8,8,1,,,
+UBCO,2021,W,EESC,367,,001,Energy Resources Management,Emily Moore;Kevin Hanna,21,72.80952381,17.293406396,92.0,26.0,2,2,0,0,2,0,1,3,7,2,2,,,
+UBCO,2021,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Tamika Mulders,12,68.833333333,13.756541144,85.0,33.0,1,0,0,2,2,1,1,2,2,1,0,,,
+UBCO,2021,W,GEOG,367,,001,Energy Resources Management,Emily Moore;Kevin Hanna,13,71.692307692,11.678931282,96.0,60.0,0,0,0,5,2,1,0,2,0,2,1,,,
+UBCO,2021,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,36,77.3,,91.0,62.0,,,,,,,,,8,8,,78.0,84.3,71.0
+UBCO,2021,W,EESC,367,,001,Energy Resources Management,Kevin Hanna,21,72.8,,92.0,26.0,,,,,,,,,7,,,80.0,84.0,67.0
+UBCO,2021,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,12,68.8,,85.0,33.0,,,,,,,,,,,,71.0,77.8,64.0
+UBCO,2021,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna,13,71.7,,96.0,60.0,,,,,,,,,,,,67.0,77.0,62.0
+UBCO,2022,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,34,79.2,,91.0,66.0,0,0,0,0,1,1,7,8,11,4,2,79.0,82.8,75.5
+UBCO,2022,W,EESC,367,,001,Energy Resources Management,Kevin Hanna,33,73.0,,97.0,46.0,1,4,0,2,4,3,3,6,3,3,4,75.0,83.0,65.0
+UBCO,2022,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,16,72.9,,87.0,20.0,1,0,0,1,0,3,5,0,3,3,0,73.0,84.0,71.0
+UBCO,2022,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna,13,73.0,,91.0,42.0,1,1,1,0,0,1,1,3,3,0,2,77.0,81.0,70.0

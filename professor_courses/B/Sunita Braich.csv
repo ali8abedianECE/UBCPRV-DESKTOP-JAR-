@@ -1,0 +1,14 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2017,S,EPSE,432,,951,CLASSROOM MGMT,"Braich, Sunita",28,81.18,8.12,95,67,28,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,6,3,6,5,5,,,
+UBC,2018,S,EPSE,432,,951,CLASSROOM MGMT,"Braich, Sunita",11,85.36,7.41,95,74,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,4,,,
+UBCV,2017,S,EPSE,432,,951,Classroom Management,Laurie Smith;Pauline Both;Sunita Braich,28,81.178571429,8.119722543,95.0,67.0,,,,,,,,,,,0,0,0,0,2,1,6,3,6,5,5,,,
+UBCV,2018,S,EPSE,432,,951,Classroom Management,Sunita Braich,11,85.363636364,7.406385451,95.0,74.0,,,,,,,,,,,0,0,0,0,0,0,1,2,2,2,4,,,
+UBCV,2020,S,EPSE,432,,952,Classroom Management,Joseph Lucyshyn;Sunita Braich;Tina Gunn,31,90.35483871,4.355444004,97.0,82.0,,,,,,,,,,,0,0,0,0,0,0,0,0,4,10,17,,,
+UBCV,2021,S,EPSE,432,,951,Classroom Management,Sunita Braich;Tina Gunn,28,92.75,5.771096564,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,5,20,,,
+UBCV,2021,W,EPSE,432,,63C,Classroom Management,Ruth Ervin;Sunita Braich,24,95.75,10.147820498,100.0,51.0,,,,,,,,,,,0,1,0,0,0,0,0,0,0,1,22,,,
+UBCV,2021,S,EPSE,432,,951,Classroom Management,Sunita Braich,28,92.8,,100.0,81.0,,,,,,,,,,,,,,,,,,,,,20,94.5,97.3,88.5
+UBCV,2021,W,EPSE,432,,63C,Classroom Management,Sunita Braich,24,95.8,,100.0,51.0,,,,,,,,,,,,,,,,,,,,,22,98.5,100.0,97.8
+UBCV,2022,S,EPSE,432,,951,Classroom Management,Sunita Braich,11,91.4,,100.0,81.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,1,7,93.0,96.5,86.5
+UBCV,2022,W,EPSE,436,,074,Survey of Behaviour Disorders in Children and Adolescents,Sunita Braich,30,96.2,,100.0,93.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,30,96.0,97.8,94.3
+UBCV,2023,S,EPSE,432,,951,Classroom Management,Sunita Braich,19,92.05,,99.0,69.0,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,15,93.0,96.0,90.0
+UBCV,2023,W,EPSE,436,,074,Survey of Behaviour Disorders in Children and Adolescents,Sunita Braich,32,93.4,,99.0,79.0,,,,,,,,,,,0,0,0,0,0,0,0,1,0,3,28,94.0,96.0,92.5

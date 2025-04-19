@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2012,W,MUSC,160,A,713,STR CHAMB ENS,"Wood, Jasper",5,88.8,0.45,89,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,,,
+UBC,2013,W,MUSC,193,C,713,PERFORMANCE MAJ,"Wilson, Eric;Wood, Jasper",5,91,2.12,93,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2014,W,MUSC,160,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",38,87.66,5.06,96,70,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,20,15,,,
+UBC,2014,W,MUSC,293,C,713,PERFORMANCE MAJ,"Wilson, Eric;Wood, Jasper",5,89.8,3.56,95,86,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,,,
+UBC,2014,W,MUSC,560,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",9,87.44,1.42,90,85,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,,,
+UBC,2015,W,MUSC,160,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",39,90.29,2.55,95,85,38,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,28,,,
+UBC,2015,W,MUSC,193,C,713,PERFORMANCE MAJ,"Wood, Jasper",6,83.17,6.08,88,74,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,4,0,,,
+UBC,2015,W,MUSC,394,C,713,PERFORMANCE MAJ,"Wilson, Eric;Wood, Jasper",5,90.8,1.92,93,88,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,,,
+UBC,2015,W,MUSC,560,A,001,STR CHAMB ENS,"Gillham, David;Harding, David;Wilson, Eric;Wood, Jasper",12,90,2.22,93,86,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,,,
+UBC,2016,W,MUSC,160,B,001,STR CHAMB ENS,"Gillham, David;Wilson, Eric;Wood, Jasper",30,91.62,2.46,94,88,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,24,,,
+UBC,2016,W,MUSC,494,C,713,PERFORMANCE MAJ,"Wilson, Eric;Wood, Jasper",5,92.25,3.59,95,87,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,,,
+UBC,2016,W,MUSC,560,A,001,STR CHAMB ENS,"Gillham, David;Wilson, Eric;Wood, Jasper",8,92.29,2.21,96,90,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,,,
+UBC,2018,W,MUSC,160,A,001,STR CHAMB ENS,"Gillham, David;Wilson, Eric;Wood, Jasper",35,90.63,1.8,95,88,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,27,,,
+UBC,2018,W,MUSC,494,C,713,PERFORMANCE MAJ,"Wood, Jasper",5,92,2.83,96,90,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,,,
+UBCV,2014,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,37,87.64864865,5.127356998,96.0,70.0,,,,,,,,,,,0,0,0,0,0,,,,,19,15,,,
+UBCV,2014,W,MUSC,293,C,713,Music Performance (Major),Eric Wilson;Jasper Wood,5,89.8,3.563705936,95.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,9,87.44444444,1.424000624,90.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,1,,,
+UBCV,2015,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,38,90.289473684,2.54588056,95.0,85.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,10,28,,,
+UBCV,2015,W,MUSC,193,C,713,Music Performance (Major),Eric Wilson;Jasper Wood,6,83.166666667,6.08002193,88.0,74.0,,,,,,,,,,,0,0,0,0,0,0,,,,,0,,,
+UBCV,2015,W,MUSC,394,C,713,Music Performance (Major),Eric Wilson;Jasper Wood,5,90.8,1.923538406,93.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;David Harding;Eric Wilson;Jasper Wood;Laine Longton,12,90.0,2.215646838,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,8,,,
+UBCV,2016,W,MUSC,160,B,001,String Chamber Ensembles,David Gillham;Eric Wilson;Jasper Wood,29,91.62068966,2.455515557,94.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,5,24,,,
+UBCV,2016,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;Eric Wilson;Jasper Wood,6,91.66666667,1.632993162,94.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2017,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;Eric Wilson;Jasper Wood,39,89.820512821,3.347204606,97.0,80.0,,,,,,,,,,,0,0,0,0,0,0,0,0,1,20,18,,,
+UBCV,2018,W,MUSC,160,A,001,String Chamber Ensembles,Chironjeev Kanjilal;David Gillham;Eric Wilson;Jasper Wood;Yijia Fang,35,90.628571429,1.800093368,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,8,27,,,
+UBCV,2019,W,MUSC,160,A,001,String Chamber Ensembles,Adrian Pang;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,30,93.233333333,1.278019301,95.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,30,,,
+UBCV,2019,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,7,91.428571429,2.439750182,95.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,1,6,,,
+UBCV,2020,W,MUSC,160,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,33,93.757575758,1.920779513,96.0,91.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,33,,,
+UBCV,2020,W,MUSC,560,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,6,95.333333333,1.032795559,96.0,94.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,6,,,
+UBCV,2021,W,MUSC,160,A,001,String Chamber Ensembles,Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,27,90.740740741,1.483047605,92.0,88.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,4,23,,,
+UBCV,2021,W,MUSC,560,A,001,String Chamber Ensembles,Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,10,93.4,3.204163958,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,,,
+UBCV,2021,W,MUSC,593,C,003,Music Performance (Major),David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,7,90.571428571,2.439750182,93.0,86.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,5,,,
+UBCV,2021,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,27,90.7,,92.0,88.0,,,,,,,,,,,,,,,,,,,,,23,92.0,92.0,90.0
+UBCV,2021,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,10,93.4,,97.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,10,92.0,97.0,90.5
+UBCV,2021,W,MUSC,593,C,003,Music Performance (Major),David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,7,90.6,,93.0,86.0,,,,,,,,,,,,,,,,,,,,,,92.0,92.0,89.5
+UBCV,2022,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,19,92.5,,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,19,92.0,92.0,92.0
+UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder MacLellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,,99.0,83.0,,,,,,,,,,,0,0,0,0,0,0,0,0,3,6,22,91.0,93.0,89.0
+UBCV,2022,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,11,92.8,,96.0,92.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,11,92.0,92.5,92.0
+UBCV,2023,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;Emilie Grimes;Tawnya Popoff;Eric Wilson;Jasper Wood,21,90.5,,92.0,90.0,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,21,90.0,90.0,90.0

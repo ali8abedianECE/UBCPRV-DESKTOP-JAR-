@@ -1,0 +1,97 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBCO,2014,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,31,82.61290323,8.785129175,99.0,63.0,0,0,0,,,,5,,7,8,7,,,
+UBCO,2014,W,BIOC,393,,101,Biochemistry Laboratory,Janet Kluftinger;Richard Plunkett,74,79.45945946,12.20957315,98.0,29.0,,,,5,,5,6,8,20,6,18,,,
+UBCO,2014,W,BIOL,265,,001,Principles of Genetics,Richard Plunkett,285,71.61052632,12.3382162,98.0,29.0,11,14,24,16,31,34,36,29,46,25,19,,,
+UBCO,2014,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,121,76.56198347,14.384536,98.0,26.0,6,,5,6,12,,13,9,21,22,21,,,
+UBCO,2014,W,BIOL,393,,101,Biochemistry Laboratory,Janet Kluftinger;Richard Plunkett,46,77.7826087,8.353078058,93.0,59.0,0,0,,,,7,6,7,10,5,6,,,
+UBCO,2014,W,BIOL,420,V,001,Special Topics in Biology,Richard Plunkett,39,89.35897436,8.942762965,99.0,61.0,0,0,0,,,,,,,,27,,,
+UBCO,2015,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,26,86.769230769,7.425942054,100.0,72.0,0,0,0,0,0,0,,,7,6,10,,,
+UBCO,2015,W,BIOC,305,,001,Molecular Biochemistry II,Justin Pearson;Lauren Hughes;Pavandeep Kooner;Richard Plunkett,58,68.775862069,13.553070609,97.0,34.0,,,6,6,8,7,6,,7,5,,,,
+UBCO,2015,W,BIOC,393,,101,Biochemistry Laboratory,Ahinthhan Anburaja;David Stitt;Erin Feldman;Geetkamal Hans;Janet Kluftinger;Jiayu Ye;Manpreet Dosanjh;Richard Plunkett;Rojin Kazemian;Ryan Hodgson,53,76.41509434,12.064624006,94.0,30.0,,,,,,5,9,9,12,,8,,,
+UBCO,2015,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,160,81.99375,7.179195024,99.0,64.0,0,0,0,0,4,6,22,28,44,30,26,,,
+UBCO,2015,W,BIOL,319,,001,Biochemistry II,Justin Pearson;Lauren Hughes;Pavandeep Kooner;Richard Plunkett,133,71.308270677,15.224671192,100.0,2.0,6,7,9,17,10,16,15,9,18,12,14,,,
+UBCO,2015,W,BIOL,393,,101,Biochemistry Laboratory,Ahinthhan Anburaja;David Stitt;Erin Feldman;Geetkamal Hans;Janet Kluftinger;Jiayu Ye;Manpreet Dosanjh;Richard Plunkett;Rojin Kazemian;Ryan Hodgson,66,77.803030303,9.579175646,97.0,55.0,0,0,,,9,,7,11,15,10,7,,,
+UBCO,2015,W,BIOL,420,V,001,Special Topics in Biology,Richard Plunkett,60,86.266666667,10.112698288,100.0,50.0,0,,,,,,,5,6,15,28,,,
+UBCO,2015,W,BIOL,420,V,002,Special Topics in Biology,Richard Plunkett,31,80.387096774,12.841800028,100.0,53.0,0,,,,,,,,6,6,8,,,
+UBCO,2016,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,27,81.88888889,11.30804116,95.0,49.0,2,0,0,0,0,1,1,2,8,6,7,,,
+UBCO,2016,W,BIOC,305,,001,Molecular Biochemistry II,Allan Meldrum;Elaine Bamfo;Richard Plunkett,58,72.70689655,14.84304861,97.0,30.0,4,4,2,5,6,5,4,5,10,5,8,,,
+UBCO,2016,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Emilie Tremblay;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;John W. Winkler;John Winkler;Justin King;Richard Plunkett;Sarah Emmons,55,83.03636364,11.11049493,97.0,37.0,1,1,1,1,0,2,1,4,18,8,18,,,
+UBCO,2016,W,BIOL,311,,001,Biochemistry I,Allan Meldrum;Elaine Bamfo;Richard Plunkett,118,79.69491525,7.955547948,93.0,49.0,2,1,0,0,2,6,19,18,38,19,13,,,
+UBCO,2016,W,BIOL,319,,001,Biochemistry II,Allan Meldrum;Elaine Bamfo;Richard Plunkett,73,74.73972603,13.91245185,99.0,30.0,2,2,4,7,6,4,6,11,11,12,8,,,
+UBCO,2016,W,BIOL,382,,001,Prokaryotic Physiology,Conor Barrie;Richard Plunkett,96,78.6875,11.69103345,99.0,33.0,2,0,1,2,9,10,7,18,13,18,16,,,
+UBCO,2016,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Emilie Tremblay;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;John W. Winkler;John Winkler;Richard Plunkett;Sarah Emmons,52,83.96153846,8.107032867,99.0,63.0,0,0,0,1,1,4,2,4,12,15,13,,,
+UBCO,2017,S,BIOL,200,,001,Cell Biology,Matthew Nelson;Richard Plunkett,51,68.137254902,13.142327964,95.0,41.0,4,3,9,3,3,9,5,4,5,3,3,,,
+UBCO,2017,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,32,84.46875,6.273263158,98.0,69.0,0,0,0,0,0,1,2,2,11,8,8,,,
+UBCO,2017,W,BIOC,305,,101,Molecular Biochemistry II,Hogun Joseph Kang;Hogun Kang;Karren Concina;Karren M. Concina;Richard Plunkett,72,76.527777778,13.664977567,100.0,27.0,2,2,3,5,3,9,6,10,11,9,12,,,
+UBCO,2017,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Genevieve Mylocopos;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;Magdalena Banka;Osei Boakye Fordwour;Osei Fordwour;Priya Purewal;Richard Plunkett,62,84.241935484,9.040320399,100.0,63.0,0,0,0,1,3,3,2,8,12,13,20,,,
+UBCO,2017,W,BIOL,200,,101,Cell Biology,John W. Winkler;John Winkler;Richard Plunkett;Thomas Christopher Lange;Thomas Lange,134,74.902985075,11.066354483,93.0,38.0,2,0,7,13,16,13,17,14,19,19,14,,,
+UBCO,2017,W,BIOL,311,,001,Biochemistry I,Madison Arnold;Madison D. Arnold;Richard Plunkett;Sanjoy Ghosh,117,80.239316239,9.929622673,98.0,49.0,6,0,0,0,2,5,12,21,25,26,20,,,
+UBCO,2017,W,BIOL,319,,001,Biochemistry II,Hogun Joseph Kang;Hogun Kang;Karren Concina;Karren M. Concina;Richard Plunkett,70,77.028571429,13.271929,97.0,14.0,1,1,3,4,3,6,9,9,14,10,10,,,
+UBCO,2017,W,BIOL,382,,001,Prokaryotic Physiology,Austin A. Hunchak;Austin Hunchak;Richard Plunkett,50,83.86,7.647888864,99.0,62.0,0,0,0,1,0,2,4,5,15,8,15,,,
+UBCO,2017,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Genevieve Mylocopos;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;Magdalena Banka;Osei Boakye Fordwour;Osei Fordwour;Priya Purewal;Richard Plunkett,40,82.925,8.156757463,93.0,51.0,0,1,0,0,0,3,1,4,11,13,7,,,
+UBCO,2018,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,32,82.5,5.346086902,97.0,74.0,0,0,0,0,0,0,3,7,11,7,4,,,
+UBCO,2018,W,BIOC,304,,001,Molecular Biochemistry I,Kristi Yearwood;Larissa Traas;Richard Plunkett,119,82.941176471,8.98802793,96.0,31.0,2,0,1,0,1,3,11,17,26,30,28,,,
+UBCO,2018,W,BIOC,305,,101,Molecular Biochemistry II,Kristi Yearwood;Larissa Traas;Richard Plunkett,96,78.822916667,13.723583076,99.0,5.0,1,3,5,2,3,9,6,14,15,18,20,,,
+UBCO,2018,W,BIOC,393,,101,Biochemistry Laboratory,April L. Mahovlic;April Mahovlic;Brendan D'Souza;Drake Poirier;Gabriel Zavala;Jacqueline Alexandra Barnett;Jacqueline Barnett;Jiayu Ye;John Winkler;Mackenzie Moore;Osei Boakye Fordwour;Osei Fordwour;Richard Plunkett,86,87.093023256,9.264261384,100.0,55.0,0,0,2,1,1,1,3,5,14,16,43,,,
+UBCO,2018,W,BIOL,200,,101,Cell Biology,Freya F. Sturm;Freya Sturm;Richard Plunkett,139,75.395683453,10.968081957,99.0,48.0,1,3,7,8,14,14,18,20,24,15,15,,,
+UBCO,2018,W,BIOL,311,,001,Biochemistry I,Kristi Yearwood;Larissa Traas;Richard Plunkett,139,82.136690647,6.816647821,96.0,54.0,0,1,0,0,1,6,13,25,41,31,21,,,
+UBCO,2018,W,BIOL,319,,001,Biochemistry II,Kristi Yearwood;Larissa Traas;Richard Plunkett,60,79.95,11.647979384,97.0,42.0,1,0,0,4,5,6,3,3,13,13,12,,,
+UBCO,2018,W,BIOL,382,,001,Prokaryotic Physiology,Brianne Newman;Richard Plunkett,75,80.28,11.499189161,99.0,48.0,1,1,2,0,7,5,9,8,6,16,20,,,
+UBCO,2018,W,BIOL,393,,101,Biochemistry Laboratory,April Mahovlic;Brendan D'Souza;Drake Poirier;Gabriel Zavala;Jacqueline Alexandra Barnett;Jacqueline Barnett;Jiayu Ye;John Winkler;Mackenzie Moore;Osei Boakye Fordwour;Osei Fordwour;Richard Plunkett,51,83.37254902,11.019910679,98.0,53.0,0,2,0,1,2,3,2,5,8,12,16,,,
+UBCO,2019,S,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,11,81.545454545,7.243806132,95.0,69.0,0,0,0,0,0,1,2,1,3,3,1,,,
+UBCO,2019,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,30,85.1,5.390604854,96.0,72.0,0,0,0,0,0,0,1,4,7,12,6,,,
+UBCO,2019,W,BIOC,304,,001,Molecular Biochemistry I,Nicholas Marshall;Nicholas William Marshall;Renee Berger;Renee Marie Berger;Richard Plunkett,98,78.969387755,14.130798477,99.0,12.0,5,0,0,4,3,6,8,18,17,18,19,,,
+UBCO,2019,W,BIOC,305,,101,Molecular Biochemistry II,Renee Berger;Richard Plunkett;Robin Young;Sarah Orr,84,82.178571429,8.806023013,100.0,61.0,0,0,0,2,3,4,9,5,29,11,21,,,
+UBCO,2019,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Diana Changirwa;Evan Kwong;Harjinder Janda;Jacqueline Alexandra Barnett;Jacqueline Barnett;Julien Gibon;Katherine-Faye Jansen;Katherine-Faye Karen Jansen;Matthew Lavery;Richard Plunkett;Robert Mothersole;Tyler Wenzel,80,84.1,12.000632895,98.0,17.0,1,0,2,1,1,5,4,6,12,18,30,,,
+UBCO,2019,W,BIOL,200,,101,Cell Biology,Alyssa Dasilva Curiel;Matthew Nelson;Richard Plunkett,116,72.706896552,12.725884093,95.0,45.0,5,7,4,8,19,17,9,6,14,15,12,,,
+UBCO,2019,W,BIOL,228,,001,Introductory Microbiology,Janet Kluftinger;Richard Plunkett,229,74.419213974,10.021414671,96.0,38.0,2,2,15,12,26,33,25,32,42,29,11,,,
+UBCO,2019,W,BIOL,311,,001,Biochemistry I,Nicholas Marshall;Nicholas William Marshall;Renee Berger;Renee Marie Berger;Richard Plunkett,143,78.678321678,8.895006827,95.0,49.0,3,1,0,3,8,9,24,18,39,26,12,,,
+UBCO,2019,W,BIOL,382,,001,Prokaryotic Physiology,Andrea Marie Marie Tan;Andrea Marie Tan;Richard Plunkett,72,75.319444444,12.08983555,97.0,36.0,3,1,3,2,4,11,10,11,8,8,11,,,
+UBCO,2019,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Diana Changirwa;Evan Kwong;Harjinder Janda;Jacqueline Alexandra Barnett;Jacqueline Barnett;Julien Gibon;Katherine-Faye Jansen;Katherine-Faye Karen Jansen;Matthew Lavery;Richard Plunkett;Robert Mothersole;Tyler Wenzel,57,87.280701754,7.873450836,97.0,58.0,0,0,1,0,1,1,1,4,7,14,28,,,
+UBCO,2020,W,BIOC,304,,001,Molecular Biochemistry I,Kaede Hirabayashi;Lana Puddu;Richard Plunkett,95,89.315789474,6.526970491,99.0,64.0,0,0,0,0,2,1,1,5,7,17,62,,,
+UBCO,2020,W,BIOC,305,,101,Molecular Biochemistry II,Kamal Narayana;Lana Puddu;Richard Plunkett;Robin Young,75,86.413333333,8.894415699,98.0,47.0,1,1,0,0,1,1,3,2,13,24,29,,,
+UBCO,2020,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Duhan Yendi;James Frederick;Kanika Chera;Katherine-Faye Jansen;Richard Plunkett;Sarah Cupello;Savanna Maddock;Shamitra Murugesh,58,83.948275862,9.71420088,97.0,50.0,0,2,0,2,0,1,4,5,6,23,15,,,
+UBCO,2020,W,BIOL,228,,001,Introductory Microbiology,Brock Burgess;Corynne O'Farrell;Emily Krause;Jacqueline Barnett;Katherine-Faye Jansen;Richard Plunkett;Sarah Cupello;Savanna Maddock,245,84.302040816,9.063900876,96.0,47.0,7,0,1,1,3,6,13,15,51,70,78,,,
+UBCO,2020,W,BIOL,311,,001,Biochemistry I,Kaede Hirabayashi;Lana Puddu;Richard Plunkett,150,88.093333333,6.078178227,97.0,58.0,0,0,1,0,1,1,3,6,14,57,67,,,
+UBCO,2020,W,BIOL,319,,101,Biochemistry II,Kamal Narayana;Lana Puddu;Richard Plunkett;Robin Young,81,82.901234568,8.4047679,96.0,56.0,0,0,2,2,1,2,6,9,16,31,12,,,
+UBCO,2020,W,BIOL,382,,001,Prokaryotic Physiology,Ella Schmidtz;Richard Plunkett,84,80.761904762,16.343171484,99.0,0.0,3,1,3,2,5,3,10,3,7,15,32,,,
+UBCO,2020,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Duhan Yendi;James Frederick;Kanika Chera;Katherine-Faye Jansen;Richard Plunkett;Sarah Cupello;Savanna Maddock;Shamitra Murugesh,47,82.829787234,12.757468655,96.0,27.0,1,1,1,0,1,1,3,5,7,11,16,,,
+UBCO,2021,S,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,32,84.4375,5.167750493,96.0,76.0,0,0,0,0,0,0,0,6,10,10,6,,,
+UBCO,2021,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,49,82.836734694,8.307493953,96.0,49.0,1,0,0,0,0,0,5,10,13,8,12,,,
+UBCO,2021,W,BIOC,304,,001,Molecular Biochemistry I,Lana Puddu;Richard Plunkett,101,83.96039604,10.209721634,100.0,49.0,2,0,0,0,2,6,11,10,20,12,38,,,
+UBCO,2021,W,BIOC,305,,101,Molecular Biochemistry II,Lana Puddu;Richard Plunkett,102,80.421568627,13.991111941,98.0,0.0,5,0,1,3,4,6,8,13,14,21,27,,,
+UBCO,2021,W,BIOC,393,,001,Biochemistry Laboratory,Ashley Bruce;Brendan D'Souza;Katherine-Faye Jansen;Richard Plunkett,10,69.7,17.243678391,90.0,48.0,2,1,1,0,0,1,0,2,0,2,1,,,
+UBCO,2021,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,83,84.891566265,16.126037156,100.0,7.0,3,0,2,0,0,2,6,4,8,19,39,,,
+UBCO,2021,W,BIOL,228,,001,Introductory Microbiology,Fama Thiam;Hailey Beck;Jacqueline Barnett;Kuselah Mae Tayaban;Richard Plunkett;Savanna Maddock;Simin Jafaripour,231,77.112554113,10.859792934,95.0,37.0,14,0,1,4,9,26,40,35,40,31,31,,,
+UBCO,2021,W,BIOL,311,,001,Biochemistry I,Lana Puddu;Richard Plunkett,114,81.552631579,10.37448547,98.0,49.0,4,0,0,1,1,10,14,18,16,22,28,,,
+UBCO,2021,W,BIOL,319,,101,Biochemistry II,Lana Puddu;Richard Plunkett,72,81.861111111,11.457583202,98.0,49.0,3,0,1,1,2,6,3,7,17,9,23,,,
+UBCO,2021,W,BIOL,382,,001,Prokaryotic Physiology,Hailey Beck;Richard Plunkett,47,77.489361702,14.138864631,97.0,27.0,1,1,1,3,3,8,1,5,7,8,9,,,
+UBCO,2021,W,BIOL,393,,001,Biochemistry Laboratory,Ashley Bruce;Brendan D'Souza;Katherine-Faye Jansen;Richard Plunkett,7,74.428571429,18.035678925,93.0,46.0,1,0,1,0,0,0,1,0,2,0,2,,,
+UBCO,2021,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,38,79.236842105,19.825501201,96.0,10.0,4,0,0,1,0,4,2,1,5,8,13,,,
+UBCO,2021,S,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,32,84.4,,96.0,76.0,0,0,0,0,0,0,0,6,10,10,6,84.0,87.0,80.8
+UBCO,2021,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,49,82.8,,96.0,49.0,,,,,,,,10,13,8,12,82.0,88.0,78.0
+UBCO,2021,W,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,101,84.0,,100.0,49.0,,,,,,6,11,10,20,12,38,84.0,92.0,76.0
+UBCO,2021,W,BIOC,305,,101,Molecular Biochemistry II,Richard Plunkett,102,80.4,,98.0,0.0,,,,,,6,8,13,14,21,27,83.0,90.0,74.3
+UBCO,2021,W,BIOC,393,,001,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,10,69.7,,90.0,48.0,,,,,,,,,,,,74.0,85.8,52.5
+UBCO,2021,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,83,84.9,,100.0,7.0,,,,,,,6,,8,19,39,89.0,94.0,82.0
+UBCO,2021,W,BIOL,228,,001,Introductory Microbiology,Richard Plunkett,231,77.1,,95.0,37.0,14,,,,9,26,40,35,40,31,31,78.0,85.0,72.0
+UBCO,2021,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,114,81.6,,98.0,49.0,,,,,,10,14,18,16,22,28,83.5,89.0,75.0
+UBCO,2021,W,BIOL,319,,101,Biochemistry II,Richard Plunkett,72,82.0,,98.0,49.0,,,,,,7,,7,17,9,23,84.0,90.0,76.8
+UBCO,2021,W,BIOL,382,,001,Prokaryotic Physiology,Richard Plunkett,47,77.5,,97.0,27.0,,,,,,8,,,7,8,9,80.0,88.0,68.0
+UBCO,2021,W,BIOL,393,,001,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,7,74.4,,93.0,46.0,,,,,,,,,,,,80.0,87.0,64.0
+UBCO,2021,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,38,79.2,,96.0,10.0,,,,,,,,,,8,13,87.0,91.0,72.8
+UBCO,2022,S,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,17,85.8,,96.0,49.0,1,0,0,0,0,0,0,2,3,2,9,90.0,92.0,82.0
+UBCO,2022,S,BIOL,311,,001,Biochemistry I,Richard Plunkett,27,81.4,,92.0,68.0,0,0,0,0,0,3,3,4,6,6,5,83.0,87.0,76.5
+UBCO,2022,W,BIOC,304,,001,Molecular Biochemistry I,Richard Plunkett,80,79.8,,99.0,49.0,6,0,0,1,4,7,8,7,14,13,20,82.0,89.3,73.0
+UBCO,2022,W,BIOC,305,,101,Molecular Biochemistry II,Richard Plunkett,77,80.8,,95.0,49.0,1,0,1,2,2,5,6,12,19,17,12,83.0,87.0,77.0
+UBCO,2022,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,77,84.1,,97.0,14.0,3,0,1,0,1,1,3,2,16,14,36,89.0,92.0,82.0
+UBCO,2022,W,BIOL,228,,001,Introductory Microbiology,Richard Plunkett,266,76.5,,94.0,46.0,10,2,1,3,18,35,46,37,60,41,13,77.5,83.0,71.0
+UBCO,2022,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,121,78.0,,100.0,42.0,8,0,0,2,5,11,19,23,19,16,18,78.0,85.0,73.0
+UBCO,2022,W,BIOL,319,,101,Biochemistry II,Richard Plunkett,71,77.1,,97.0,49.0,4,0,2,3,2,13,4,9,14,10,10,78.0,85.0,70.0
+UBCO,2022,W,BIOL,382,,101,Prokaryotic Physiology,Richard Plunkett,55,79.6,,100.0,31.0,1,0,0,2,5,4,4,9,10,8,12,80.0,87.5,72.5
+UBCO,2022,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,43,81.5,,100.0,35.0,1,0,2,1,0,4,2,3,10,8,12,83.0,91.0,77.0
+UBCO,2023,W,BIOC,305,,101,Molecular Biochemistry II,Richard Plunkett,95,80.1,,97.0,54.0,0,1,0,1,9,7,8,14,21,18,14,81.0,86.0,75.0
+UBCO,2023,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,81,85.3,,100.0,33.0,4,1,0,1,0,1,5,1,10,21,36,88.0,93.0,83.0
+UBCO,2023,W,BIOL,319,,101,Biochemistry II,Richard Plunkett,86,80.0,,94.0,49.0,1,0,0,2,1,7,12,14,21,15,11,80.0,86.0,75.0
+UBCO,2023,W,BIOL,382,,101,Prokaryotic Physiology,Richard Plunkett,61,77.5,,97.0,50.0,0,2,1,3,8,3,7,7,14,7,9,79.0,85.0,68.0
+UBCO,2023,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,49,87.0,,98.0,16.0,1,0,0,0,0,0,0,1,8,18,20,88.0,91.0,86.0

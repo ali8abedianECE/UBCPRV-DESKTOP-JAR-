@@ -1,0 +1,17 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,10-19,20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100,Median,Percentile (75),Percentile (25)
+UBC,2014,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",36,78.06,7.44,89,59,34,0,2,0,0,0,0,0,0,0,0,0,2,0,1,2,5,8,9,7,0,,,
+UBC,2015,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",45,74.38,12.08,91,41,43,2,0,0,0,0,0,0,0,2,2,2,2,5,0,3,3,10,11,6,1,,,
+UBC,2016,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen;Small, Jeff",55,77.44,11.12,90,43,51,3,1,0,0,0,0,0,0,3,3,0,1,1,4,3,4,5,18,14,1,,,
+UBC,2017,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen",56,77.89,9.68,88,43,54,2,0,0,0,0,0,0,0,2,2,0,2,0,3,3,3,9,21,13,0,,,
+UBC,2018,W,AUDI,403,,99D,INTRO NEUROLINGU,"Simmons, Noreen",57,74.15,14.87,90,12,51,4,1,1,0,0,1,1,0,2,4,0,2,4,0,4,5,7,21,7,1,,,
+UBCV,2014,W,AUDI,403,,99D,Introduction to Neurolinguistics,Jeff Alan Small;Jeff Small;Noreen Simmons,34,78.05882353,7.438398233,89.0,59.0,,,,,,,,,,,0,0,,,,,5,8,9,7,0,,,
+UBCV,2015,W,AUDI,403,,99D,Introduction to Neurolinguistics,Jeff Alan Small;Jeff Small;Noreen Simmons,45,74.377777778,12.079827077,91.0,41.0,,,,,,,,,,,,,,5,,,,10,11,6,,,,
+UBCV,2016,W,AUDI,403,,99D,Introduction to Neurolinguistics,Jeff Alan Small;Jeff Small;Noreen Simmons,54,77.44444444,11.12479242,90.0,43.0,,,,,,,,,,,3,0,1,1,4,3,4,5,18,14,1,,,
+UBCV,2017,W,AUDI,403,,99D,Introduction to Neurolinguistics,Jeff Alan Small;Noreen Simmons,56,77.892857143,9.675984463,88.0,43.0,,,,,,,,,,,2,0,2,0,3,3,3,9,21,13,0,,,
+UBCV,2018,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,55,74.145454545,14.870326134,90.0,12.0,,,,,,,,,,,4,0,2,4,0,4,5,7,21,7,1,,,
+UBCV,2019,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,54,80.277777778,11.001572215,96.0,39.0,,,,,,,,,,,2,0,0,0,4,4,4,5,11,14,10,,,
+UBCV,2020,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,64,75.0625,10.581317768,89.0,41.0,,,,,,,,,,,3,1,1,4,2,6,12,10,13,12,0,,,
+UBCV,2021,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,65,69.984615385,15.186849068,89.0,20.0,,,,,,,,,,,8,6,2,3,1,4,11,7,17,6,0,,,
+UBCV,2021,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,65,70.0,,89.0,20.0,,,,,,,,,,,8,6,,,,,11,7,17,6,,74.0,81.0,61.0
+UBCV,2022,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,57,79.4,,92.0,58.0,,,,,,,,,,,0,0,1,1,0,2,7,20,17,8,1,79.0,84.0,77.0
+UBCV,2023,W,AUDI,403,,99D,Introduction to Neurolinguistics,Noreen Simmons,53,73.04,,88.0,20.0,,,,,,,,,,,1,0,4,3,7,2,10,10,11,4,0,74.5,80.25,66.0
